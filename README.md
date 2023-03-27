@@ -75,3 +75,8 @@ A[Pkmer Github项目] -->|Fork到个人项目|B[个人 Github项目] --> |Clone�
 - `obsidian-outliner`：快捷操作无序列表
 
 对于其它您爱使用的插件和主题，请随意安装，由于有 `.gitignore` 文件，并不会影响到上游库的更改。
+
+
+## 开源协议
+
+[GNU General Public License version 3](https://opensource.org/license/gpl-3-0/)
