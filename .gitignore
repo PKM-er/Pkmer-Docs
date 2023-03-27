@@ -1,0 +1,8 @@
+.obsidian/*
+!.obsidian/plugins
+.obsidian/plugins/*
+!.obsidian/plugins/dataview/
+!.obsidian/plugins/obsidian-git/
+!.obsidian/plugins/obsidian-linter/
+!.obsidian/plugins/qucikadd/
+!.obsidian/plugins/table-editor-obsidian/
