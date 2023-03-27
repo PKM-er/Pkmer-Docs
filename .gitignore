@@ -5,4 +5,9 @@
 !.obsidian/plugins/obsidian-git/
 !.obsidian/plugins/obsidian-linter/
 !.obsidian/plugins/qucikadd/
+!.obsidian/plugins/obsidian-outliner/
 !.obsidian/plugins/table-editor-obsidian/
+!.obsidian/app.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/core-plugins-migration.json
