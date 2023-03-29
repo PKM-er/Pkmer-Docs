@@ -156,7 +156,7 @@
       "Ensures that there is an empty line around github flavored tables unless they start or end a document.": true
     },
     "Heading blank lines": {
-      "All headings have a blank line both before and after (except where the heading is at the beginning or end of the document).": false,
+      "All headings have a blank line both before and after (except where the heading is at the beginning or end of the document).": true,
       "Bottom": true,
       "Empty Line Between Yaml and Header": true
     },

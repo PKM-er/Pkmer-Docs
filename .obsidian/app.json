@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "Resource/Images",
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }
