@@ -1,11 +1,11 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Templater
-description: 
-tags: 
+description:
+tags:
 author: OS
 type: other
-draft: true
+draft: false
 modified: 20230329151246
 public: yes
 ---
@@ -14,7 +14,7 @@ public: yes
 
 提供了比核心插件中的模板更加强大的能力。
 
->[!插件名片]
+> [!插件名片]
 
 > 插件名称：Templater
 

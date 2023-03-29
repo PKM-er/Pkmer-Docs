@@ -2,5 +2,6 @@
   "attachmentFolderPath": "Resource/Images",
   "showInlineTitle": false,
   "promptDelete": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }

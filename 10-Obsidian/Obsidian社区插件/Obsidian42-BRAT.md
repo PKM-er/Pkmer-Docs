@@ -1,11 +1,11 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Obsidian42-BRAT（安装测试版插件）
-description: 
-tags: 
+description:
+tags:
 author: OS
 type: other
-draft: true
+draft: false
 modified: 20230329151246
 public: yes
 ---
@@ -15,16 +15,17 @@ public: yes
 让你可以安装未上架的插件，主题。
 
 > [!插件名片]
-> - 插件名称：Obsidian42 BRAT
-> - 插件作者：TfTHacker
-> - 插件说明：Obsidian 读书标注软件，适用 PDF，MS Office 等
-> - 插件项目地址：[点我跳转](<[https://github.com/TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat)>)
+>
+> -   插件名称：Obsidian42 BRAT
+> -   插件作者：TfTHacker
+> -   插件说明：Obsidian 读书标注软件，适用 PDF，MS Office 等
+> -   插件项目地址：[点我跳转](<[https://github.com/TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat)>)
 
 ## 效果&特性
 
-- 支持未上架或者已经上架的插件的安装，更新。
-- 支持未上架或者已经上架的主题的安装，更新。
-- 支持单独更新某一个插件/主题。
+-   支持未上架或者已经上架的插件的安装，更新。
+-   支持未上架或者已经上架的主题的安装，更新。
+-   支持单独更新某一个插件/主题。
 
 ## 安装
 

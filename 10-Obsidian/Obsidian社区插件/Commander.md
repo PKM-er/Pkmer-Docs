@@ -1,11 +1,11 @@
 ---
 uid: 20230329145808
 title: Obisdian 插件：Commander（添加自定义功能按钮）
-description: 
-tags: 
+description:
+tags:
 author: OS
 type: other
-draft: true
+draft: false
 modified: 20230329151248
 public: yes
 ---
@@ -18,24 +18,24 @@ public: yes
 
 这个时候我们会更习惯**「工具栏」（Toolbar）**的形式：**只需点击按钮就能完成各种操作，并且它们通常会搭配图标，很直观。**比如备忘录应用的顶部就是工具条，部分应用还支持自定义工具条。
 
->[!插件名片]
+> [!插件名片]
 
->- 插件名称：Commander
+> -   插件名称：Commander
 
->- 插件作者：Johnny✨ and phibr0
+> -   插件作者：Johnny✨ and phibr0
 
->- 插件说明：给 Obsidian 的不同功能区增加自定义快捷按钮。
+> -   插件说明：给 Obsidian 的不同功能区增加自定义快捷按钮。
 
->- 插件项目地址：[点我跳转](https://github.com/phibr0/obsidian-commander)
+> -   插件项目地址：[点我跳转](https://github.com/phibr0/obsidian-commander)
 
 ## 效果&特性
 
 ![Pasted image 20230126232048](https://s1.vika.cn/space/2023/03/15/50fd8cc8a2b5427f94acd9ab7ed25fd1)
 
-- 可以把命令添加至 UI 界面的各个区域，包括标题栏、状态栏、侧边栏、页头、文件菜单、右键菜单等，并为命令设置显示的别名与图标
-- 隐藏核心插件或社区插件自带的命令图标
-- 支持修改显示顺序
-- 支持设置移动端、桌面端各显示哪些命令
+-   可以把命令添加至 UI 界面的各个区域，包括标题栏、状态栏、侧边栏、页头、文件菜单、右键菜单等，并为命令设置显示的别名与图标
+-   隐藏核心插件或社区插件自带的命令图标
+-   支持修改显示顺序
+-   支持设置移动端、桌面端各显示哪些命令
 
 ![Pasted image 20230126231545](https://s1.vika.cn/space/2023/03/15/546497768b51464fa30192c7f590291c)
 
@@ -52,7 +52,7 @@ public: yes
 
 ![Pasted image 20230126232238](https://s1.vika.cn/space/2023/03/15/4232a79271e2453cb47c9bfadc9b5333)
 
-添加命令有两种方式。以左侧栏（Left Ribbon）为例，所有图标的最下方会出现一个小加号➕，点击即可添加命令：
+添加命令有两种方式。以左侧栏（Left Ribbon）为例，所有图标的最下方会出现一个小加号 ➕，点击即可添加命令：
 
 ![Pasted image 20230126232256](https://s1.vika.cn/space/2023/03/15/fb59985edb19407aae75e3607bbe7f03)
 
@@ -69,9 +69,9 @@ public: yes
 
 ![Pasted image 20230126232356](https://s1.vika.cn/space/2023/03/15/1600a7e060334472bb7f46167a7d5291)
 
->[! Note]
+> [! Note]
 
->修改别名的好处：有些命令的默认名称特别长，别名能方便我们理解。
+> 修改别名的好处：有些命令的默认名称特别长，别名能方便我们理解。
 
 设置完毕，左侧栏就变成下图这样：原本核心插件自带的图标没有了，只显示我们刚才添加的「加星/取消加星」命令图标。
 

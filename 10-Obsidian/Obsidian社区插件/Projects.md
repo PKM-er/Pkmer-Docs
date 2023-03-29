@@ -1,11 +1,11 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Projects
-description: 
-tags: 
+description:
+tags:
 author: OS
 type: other
-draft: true
+draft: false
 modified: 20230329151246
 public: yes
 ---
@@ -18,15 +18,15 @@ public: yes
 
 Obsidian Projects 插件是一款项目管理插件，由于支持多种视图模式，所以你也可以把他当作一个文档陈列，或者书籍陈列架使用。
 
->[!插件名片]
+> [!插件名片]
 
->- 插件名称：Projects
+> -   插件名称：Projects
 
->- 插件作者：Marcus Olsson
+> -   插件作者：Marcus Olsson
 
->- 插件说明：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
+> -   插件说明：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 
->- 插件项目地址：[点我跳转](https://github.com/marcusolsson/obsidian-projects)
+> -   插件项目地址：[点我跳转](https://github.com/marcusolsson/obsidian-projects)
 
 ## 效果&特性
 
@@ -41,7 +41,7 @@ Obsidian Projects 插件是一款项目管理插件，由于支持多种视图�
 
 ## 设置
 
-Obsidian Projects 的使用步骤相当简单，在安装后你只需要在左侧栏点击 Projects 的图标、在命令中输出 Show Projects 就可以打开对应的窗口。或者你也可以直接在文件夹上右键点击 `Create project in folder` 来创建新的 Project。
+Obsidian Projects 的使用步骤相当简单，在安装后你只需要在左侧栏点击 Projects 的图标、在命令中输出 Show Projects 就可以打开对应的窗口。或者你也可以直接在文件夹上右键点击  `Create project in folder`  来创建新的 Project。
 
 初次打开 Projects 现在应该已经提示你可以选择一个文件夹，或者尝试使用 Projects 内置的 Demo Projects，打开后可以看到以下的界面
 

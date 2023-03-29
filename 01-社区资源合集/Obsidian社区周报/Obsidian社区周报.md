@@ -4,7 +4,7 @@ title: Obsidian 社区周报
 description: Obsidian的社区周报，由 eleanorkonik 收集并整理，授权 Pkmer 进行翻译
 author: Bon
 type: awesome
-draft: true
+draft: false
 modified: 20230329103658
 ---
 
@@ -18,16 +18,16 @@ Pkmer 成员已获得汉化和发布授权。
 
 ## 周报
 
-- [[2023-01-21 Obsidian Roundup]]
-- [[2023-01-14 Obsidian Roundup]]
-- [[2023-01-07 Obsidian Roundup]]
-- [[2022-12-17 Obsidian Roundup]]
-- [[2022-12-10 Obsidian Roundup]]
-- [[2022-12-03 Obsidian Roundup]]
-- [[2022-11-26 Obsidian Roundup]]
-- [[2022-11-19 Obsidian Roundup]]
-- [[2022-11-13 Obsidian Roundup]]
-- [[2022-11-05 Obsidian Roundup]]
-- [[2022-10-29 Obsidian Roundup]]
-- [[2022-10-22 Obsidian Roundup]]
-- [[2022-10-15 Obsidian Roundup]]
+- [[2022-10-15-ObsidianRoundup]]
+- [[2022-10-22-ObsidianRoundup]]
+- [[2022-10-29-ObsidianRoundup]]
+- [[2022-11-05-ObsidianRoundup]]
+- [[2022-11-13-ObsidianRoundup]]
+- [[2022-11-19-ObsidianRoundup]]
+- [[2022-11-26-ObsidianRoundup]]
+- [[2022-12-03-ObsidianRoundup]]
+- [[2022-12-10-ObsidianRoundup]]
+- [[2022-12-17-ObsidianRoundup]]
+- [[2023-01-07-ObsidianRoundup]]
+- [[2023-01-14-ObsidianRoundup]]
+- [[2023-01-21-ObsidianRoundup]]

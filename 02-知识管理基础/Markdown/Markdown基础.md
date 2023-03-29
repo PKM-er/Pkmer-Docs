@@ -1,12 +1,13 @@
 ---
 uid: 20230328202827
 title: Markdown 基础
-description: 
-author: 
+description:
+author:
 type: basic
-draft: true
+draft: false
 modified: 20230328210252
 ---
+
 # Markdown 基础
 
 > [!warning]
@@ -14,14 +15,14 @@ modified: 20230328210252
 
 ## 什么是 Markdown?
 
-1. **Markdown** 是一款轻量级标记语言，不同于 HTML **(Hypertext Markup Language)**，**Markdown** 的语法非常简单，且容易上手，因为它不涉及编程知识
-2. **Markdown** 以 **纯文本格式** 编写文档，依赖键盘而非鼠标，专注于 **写作本身**，感受 **书写** 的魅力
-3. **Markdown** 的通过添加一些简单的 **标识符**，让文本具有 **恰到好处** 的格式
-4. **Markdown** 核心特征就是 **删繁剪芜**， **简扼** + **精炼**
+1. **Markdown**  是一款轻量级标记语言，不同于 HTML **(Hypertext Markup Language)**，**Markdown**  的语法非常简单，且容易上手，因为它不涉及编程知识
+2. **Markdown**  以  **纯文本格式**  编写文档，依赖键盘而非鼠标，专注于 **写作本身**，感受 **书写** 的魅力
+3. **Markdown**  的通过添加一些简单的  **标识符**，让文本具有 **恰到好处** 的格式
+4. **Markdown**  核心特征就是  **删繁剪芜**， **简扼** + **精炼**
 
 ## 标题
 
-要创建标题，请在单词或短语前面添加井号 (`#`) 。`#` 的数量代表了标题的级别。
+要创建标题，请在单词或短语前面添加井号 (`#`) 。`#`  的数量代表了标题的级别。
 
 ```
 # 这是一级标题
@@ -46,9 +47,9 @@ I think I'll use it to format all of my documents from now on.
 > [!tips] 首行缩进
 > 首行缩进两个字符有个历史原因，由于以前打印纸张很贵，首行缩进两个字符可以清晰的分段。而现在通过空一行的方式，是一种更优雅的分段方式。而 Markdown 就采取的这种方式。参考 [为什么网上的文章越来越少采用首行缩进了？](https://www.zhihu.com/question/539160773)
 
-段落换行：几乎每个 Markdown 应用程序都支持两个或多个空格进行换行，称为 `结尾空格（trailing whitespace)` 的方式，但这是有争议的，因为很难在编辑器中直接看到空格，并且很多人在每个句子后面都会有意或无意地添加两个空格。由于这个原因，你可能要使用除结尾空格以外的其它方式来换行。幸运的是，几乎每个 Markdown 应用程序都支持另一种换行方式：HTML 的 `<br>` 标签。
+段落换行：几乎每个 Markdown 应用程序都支持两个或多个空格进行换行，称为  `结尾空格（trailing whitespace)`  的方式，但这是有争议的，因为很难在编辑器中直接看到空格，并且很多人在每个句子后面都会有意或无意地添加两个空格。由于这个原因，你可能要使用除结尾空格以外的其它方式来换行。幸运的是，几乎每个 Markdown 应用程序都支持另一种换行方式：HTML 的  `<br>`  标签。
 
-为了兼容性，请在行尾添加“结尾空格”或 HTML 的 `<br>` 标签来实现换行。最佳实践是，**段落内不换行**。
+为了兼容性，请在行尾添加“结尾空格”或 HTML 的  `<br>`  标签来实现换行。最佳实践是，**段落内不换行**。
 
 还有两种其他方式我并不推荐使用。CommonMark 和其它几种轻量级标记语言支持在行尾添加反斜杠 (`\`) 的方式实现换行，但是并非所有 Markdown 应用程序都支持此种方式，因此从兼容性的角度来看，不推荐使用。并且至少有两种轻量级标记语言支持无须在行尾添加任何内容，只须键入回车键（`return`）即可实现换行。
 
@@ -84,7 +85,7 @@ A *cat* meow
 
 ### 创建块引用
 
-要创建块引用，请在段落前添加一个 `>` 符号。
+要创建块引用，请在段落前添加一个  `>`  符号。
 
 ```
 > Dorothy followed her through many of the beautiful rooms in her castle.
@@ -98,7 +99,7 @@ A *cat* meow
 
 ### 多个段落的块引用
 
-块引用可以包含多个段落。为段落之间的空白行添加一个 `>` 符号。
+块引用可以包含多个段落。为段落之间的空白行添加一个  `>`  符号。
 
 ```
 > Dorothy followed her through many of the beautiful rooms in her castle.
@@ -106,9 +107,9 @@ A *cat* meow
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 ```
 
-- **说明：**
-- **同个引用段落** 内的换行直接敲击 **Enter** 即可
-- 若需添加 **第二个独立引用段落** ，连续敲击 **两下****Enter** 即可
+-   **说明：**
+-   **同个引用段落** 内的换行直接敲击  **Enter**  即可
+-   若需添加  **第二个独立引用段落** ，连续敲击  **两下\*\***Enter\*\*  即可
 
 渲染效果如下：
 
@@ -118,7 +119,7 @@ A *cat* meow
 
 ### 嵌套块引用
 
-块引用可以嵌套。在要嵌套的段落前添加一个 `>>` 符号。
+块引用可以嵌套。在要嵌套的段落前添加一个  `>>`  符号。
 
 ```
 > Dorothy followed her through many of the beautiful rooms in her castle.
@@ -143,68 +144,68 @@ A *cat* meow
 Markdown 语法
 
 ```
-1. First item  
-2. Second item  
-3. Third item  
+1. First item
+2. Second item
+3. Third item
 4. Fourth item
 ```
 
 ```
-1. First item  
-1. Second item  
-1. Third item  
+1. First item
+1. Second item
+1. Third item
 1. Fourth ite
 ```
 
 ```
-1. First item  
-8. Second item  
-3. Third item  
+1. First item
+8. Second item
+3. Third item
 5. Fourth item
 ```
 
 ```
-1. First item  
-2. Second item  
-3. Third item  
-    1. Indented item  
-    2. Indented item  
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
 4. Fourth item
 ```
 
 ### 无序列表
 
-要创建无序列表，请在每个列表项前面添加破折号 (-)、星号 (*) 或加号 (+) 。缩进一个或多个列表项可创建嵌套列表。
+要创建无序列表，请在每个列表项前面添加破折号 (-)、星号 (\*) 或加号 (+) 。缩进一个或多个列表项可创建嵌套列表。
 
 Markdown 语法
 
 ```
-- First item  
-- Second item  
-- Third item  
+- First item
+- Second item
+- Third item
 - Fourth item
 ```
 
 ```
-* First item  
-* Second item  
-* Third item  
+* First item
+* Second item
+* Third item
 * Fourth item
 ```
 
 ```
-+ First item  
-+ Second item  
-+ Third item  
++ First item
++ Second item
++ Third item
 + Fourth item
 ```
 
 ```
-- First item  
-- Second item  
-- Third item  
-    - Indented item  
-    - Indented item  
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
 - Fourth item
 ```
 
@@ -216,7 +217,7 @@ Markdown 语法
 
 如果你要表示为代码的单词或短语中包含一个或多个反引号，则可以通过将单词或短语包裹在双反引号 (` `` `) 中。
 
-``Use `code` in your Markdown file.``
+`` Use `code` in your Markdown file. ``
 
 也可以使用代码块，用三个反引号起来的内容即为代码块。
 
@@ -256,7 +257,7 @@ _________________
 
 呈现的输出如下所示：
 
-~~世界是平坦的。~~ 我们现在知道世界是圆的。
+~~世界是平坦的。~~  我们现在知道世界是圆的。
 
 ## 链接
 
@@ -274,7 +275,7 @@ _________________
 
 渲染效果如下：
 
-这是一个链接 [Markdown语法](https://markdown.com.cn/)。
+这是一个链接  [Markdown 语法](https://markdown.com.cn/)。
 
 ### 链接的 title
 
@@ -288,7 +289,7 @@ _________________
 
 渲染效果如下：
 
-这是一个链接 [我给同一个链接增加了 标题 Markdown语法](https://markdown.com.cn/ "最好的markdown教程")。
+这是一个链接  [我给同一个链接增加了 标题 Markdown 语法](https://markdown.com.cn/ "最好的markdown教程")。
 
 ### 网址和 Email 地址
 
@@ -319,7 +320,7 @@ See the section on [`code`](#code).
 
 I love supporting the **[EFF](https://eff.org/)**.
 
-This is the _[Markdown Guide](https://www.markdownguide.org/)_.
+This is the *[Markdown Guide](https://www.markdownguide.org/)*.
 
 See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#code).
 
@@ -331,8 +332,8 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 以下示例格式对于链接的第一部分效果相同：
 
-- `[hobbit-hole][1]`
-- `[hobbit-hole] [1]`
+-   `[hobbit-hole][1]`
+-   `[hobbit-hole] [1]`
 
 可以将链接的第二部分放在 Markdown 文档中的任何位置。有些人将它们放在出现的段落之后，有些人则将它们放在文档的末尾（例如尾注或脚注）。
 
@@ -386,7 +387,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 <iframe src="INSERT YOUR URL HERE"></iframe>
 ```
 
-不同网站设置上会有出入，比如网站的开发者或者管理者不允许你嵌入它们。例如，您不能通过使用 YouTube 视频的正常 URL 嵌入它，但可以使用它的嵌入 URL，即 `https://www.youtube.com/embed/VIDEO_ID`.
+不同网站设置上会有出入，比如网站的开发者或者管理者不允许你嵌入它们。例如，您不能通过使用 YouTube 视频的正常 URL 嵌入它，但可以使用它的嵌入 URL，即  `https://www.youtube.com/embed/VIDEO_ID`.
 
 If you want to embed a website, try searching for "{website} embed iframe".
 
@@ -394,11 +395,12 @@ For example, you can embed Twitter tweets like so as suggested by search results
 
 ```html
 <iframe
-	border=0
-	frameborder=0
-	height=250
-	width=550  
-	src="https://twitframe.com/show?url=https%3A%2F%2Ftwitter.com%2Fjack%2Fstatus%2F20">
+    border="0"
+    frameborder="0"
+    height="250"
+    width="550"
+    src="https://twitframe.com/show?url=https%3A%2F%2Ftwitter.com%2Fjack%2Fstatus%2F20"
+>
 </iframe>
 ```
 
@@ -416,18 +418,15 @@ For example, you can embed Twitter tweets like so as suggested by search results
 
 展示效果如下：
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+-   [x] Write the press release
+-   [ ] Update the website
+-   [ ] Contact the media
 
-- **创建任务：**
-	- **-** + **空格** +**`[ ]`** +**空格** + 任务列表内容 ( 中括号 `[ ]` 里面必须有个空格)
-	- 或者更简单点，对着某个行文字，按下“Ctrl + L”
-- **完成任务**
-		- 在渲染界面，直接鼠标左键点击 mm
-		- 在源代码界面，在中括号内输入 **英文字母 x**
-		- 部分编辑器，在 中括号内 输入 **任意字符** 都可以打 **`√`** ( 例如 **Obsidian** )
-- **任务列表也是可以缩进 + 退格的，操作跟 无序列表、有序列表一样**
+-   **创建任务：**
+    -   **-** + **空格** +**`[ ]`** +**空格** + 任务列表内容 ( 中括号 `[ ]`  里面必须有个空格)
+    -   或者更简单点，对着某个行文字，按下“Ctrl + L”
+-   **完成任务** - 在渲染界面，直接鼠标左键点击 mm - 在源代码界面，在中括号内输入  **英文字母 x** - 部分编辑器，在 中括号内 输入 **任意字符** 都可以打  **`√`** ( 例如  **Obsidian** )
+-   **任务列表也是可以缩进 + 退格的，操作跟 无序列表、有序列表一样**
 
 ## 表格
 
@@ -445,11 +444,11 @@ For example, you can embed Twitter tweets like so as suggested by search results
 
 呈现的输出如下所示：
 
-| 行/列 | 列名 2 | 列明 3 |
-| ----- | ----- | ----- |
-| 行名 1 |       |       |
-| 行名 2 |       |       |
-| 行名 3 |       |       |
+| 行/列  | 列名 2 | 列明 3 |
+| ------ | ------ | ------ |
+| 行名 1 |        |        |
+| 行名 2 |        |        |
+| 行名 3 |        |        |
 
 单元格宽度可以变化，如下所示。呈现的输出将看起来相同。
 
@@ -473,10 +472,10 @@ For example, you can embed Twitter tweets like so as suggested by search results
 
 呈现的输出如下所示：
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Syntax    | Description |   Test Text |
+| :-------- | :---------: | ----------: |
+| Header    |    Title    | Here's this |
+| Paragraph |    Text     |    And more |
 
 ### 格式化表格文字
 
@@ -496,9 +495,9 @@ For example, you can embed Twitter tweets like so as suggested by search results
 
 简记：
 
-- **`[^脚注代号]`** ( 脚注代号会直接显示在渲染界面 )
-- 脚注代号可以随便命名，不过推荐使用 **数字序号**
-- **`[^脚注代号]`** + **:** + **空格** + 脚注内容
+-   **`[^脚注代号]`** ( 脚注代号会直接显示在渲染界面 )
+-   脚注代号可以随便命名，不过推荐使用  **数字序号**
+-   **`[^脚注代号]`** + **:** + **空格** + 脚注内容
 
 ```
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
@@ -519,12 +518,11 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
-
 [^bignote]: Here's one with multiple paragraphs and code.
 
 ## 实体字符
 
-在 Markdown 中，字符 `<`、`>`、`"`、`'` 和反引号是特殊字符。它们是 Markdown 语法自身的一部分，那么你如何将这些字符包含进你的文本中呢? 一种方法是转义，即加斜杠`\<`，另一种办法是使用实体字符即字符引用。
+在 Markdown 中，字符  `<`、`>`、`"`、`'`  和反引号是特殊字符。它们是 Markdown 语法自身的一部分，那么你如何将这些字符包含进你的文本中呢? 一种方法是转义，即加斜杠`\<`，另一种办法是使用实体字符即字符引用。
 
 我们必须使用字符引用 —— 表示字符的特殊编码，它们可以在那些情况下使用。每个字符引用以符号&开始，以分号 (;) 结束。
 
@@ -541,4 +539,3 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 | 商标&trade;    | `&trade;`    |
 | 空格           | `&nbsp;`     |
 | 中文全角空格   | `&amp`       |
-
