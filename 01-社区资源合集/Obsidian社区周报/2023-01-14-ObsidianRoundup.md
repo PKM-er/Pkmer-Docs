@@ -1,12 +1,11 @@
 ---
 uid: 20230329102645
 title: 个人事项
-keywords: 
 description: 
 author: 
 type: other
 draft: false
-modified: 20230330133940
+modified: 20230330170422
 ---
 
 [🌠 Canvas 与新课程和样本库的使用案例](https://www.obsidianroundup.org/2023-01-14/?ref=obsidian-roundup-newsletter)

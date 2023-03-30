@@ -30,8 +30,8 @@
       "Tags to ignore": ""
     },
     "Remove YAML Keys": {
-      "Removes the YAML keys specified": false,
-      "YAML Keys to Remove": ""
+      "Removes the YAML keys specified": true,
+      "YAML Keys to Remove": "keywords"
     },
     "YAML Key Sort": {
       "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": true,

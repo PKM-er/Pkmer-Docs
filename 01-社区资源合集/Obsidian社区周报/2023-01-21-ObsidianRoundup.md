@@ -1,12 +1,11 @@
 ---
 uid: 20230329102645
 title: 🌠 更多 LLM 集成和烹饪、锻炼等的样本笔记
-keywords: 
 description: 
 author: Bon
 type: other
 draft: false
-modified: 20230330133940
+modified: 20230330170422
 aliases:
 ---
 

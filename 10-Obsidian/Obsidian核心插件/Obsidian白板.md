@@ -1,12 +1,11 @@
 ---
 uid: 20230328213324
 title: Obsidian 白板（Canvas）
-keywords: 
 description: 
 author: OS
 type: other
 draft: false
-modified: 20230330134030
+modified: 20230330170421
 ---
 
 # Obsidian 白板（Canvas）

@@ -1,12 +1,11 @@
 ---
 uid: 20230329170612
 title: Obsidian 基本使用
-keywords: 
 description: 
 author: 
 type: awesome
 draft: false
-modified: 20230330134044
+modified: 20230330170421
 ---
 
 # Obsidian 基本使用

@@ -1,13 +1,12 @@
 ---
 uid: 20230329102645
 title: 2022-12-10 Obsidian Roundup
-keywords: 
 description: 
 tags: [obr]
 author: 
 type: other
 draft: false
-modified: 20230330133940
+modified: 20230330170422
 aliases: []
 ---
 

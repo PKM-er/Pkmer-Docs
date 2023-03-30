@@ -1,12 +1,11 @@
 ---
 uid: 20230328213324
 title: Obsidina 的核心插件
-keywords: 
 description: 
 author: OS
 type: awesome
 draft: false
-modified: 20230330134030
+modified: 20230330170421
 ---
 
 # Obsidina 的核心插件
