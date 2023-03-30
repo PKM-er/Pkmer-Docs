@@ -2,9 +2,9 @@
 uid: 20230327165523
 title: README
 description: Pkmer共建指南，旨在规范协作流程，降低协作成本
-author:
+author: Pkmer
 type: other
-draft: false
+draft: true
 modified: 20230328213035
 ---
 
@@ -24,7 +24,7 @@ Pkmer，即 `PKM` 和 `er` 的结合，寓意 Personal Knowledge Management 个�
 
 1. 提出意见：可以在 Github 的 [Issue](https://github.com/PKM-er/Pkmer-Docs/issues) 里，提出对文档的改进意见，未来的发展方向等内容
 2. 参与讨论：可以在 Github 的 [Disccuss](https://github.com/PKM-er/Pkmer-Docs/discussions)，可以直接发表您的看法
-3. 编写文档：通过 [Pull Request](https://github.com/PKM-er/Pkmer-Docs/pulls) 的方式，完善该库的内容。包括但不限于写教程，分享心得，软件使用技巧，工作流分享等。参见 [文档协作流程](00-关于/协作者指南/文档协作流程.md)
+3. 编写文档：通过 [Pull Request](https://github.com/PKM-er/Pkmer-Docs/pulls) 的方式，完善该库的内容。包括但不限于写教程，分享心得，软件使用技巧，工作流分享等。参见 [文档协作流程](00-关于/协作者指南/协作者指南.md)
 
 ## 开源协议
 

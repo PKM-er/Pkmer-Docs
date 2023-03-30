@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
-title: Obisdian 插件：Emoji Toolbar（快速插入Emoji 符号）
-description:
-tags:
+title: Obisdian 插件：Emoji Toolbar（快速插入 Emoji 符号）
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+modified: 20230330134043
 public: yes
 ---
 
@@ -16,13 +17,13 @@ public: yes
 
 > [!插件名片]
 
-> -   插件名称：Emoji Toolbar
+> - 插件名称：Emoji Toolbar
 
-> -   插件作者：oliveryh
+> - 插件作者：oliveryh
 
-> -   插件说明：快速搜索表情符号并将其插入到您的编辑器中。
+> - 插件说明：快速搜索表情符号并将其插入到您的编辑器中。
 
-> -   插件项目地址：[点我跳转](https://github.com/oliveryh/obsidian-emoji-toolbar)
+> - 插件项目地址：[点我跳转](https://github.com/oliveryh/obsidian-emoji-toolbar)
 
 ## 效果&特性
 

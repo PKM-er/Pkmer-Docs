@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Custom File Explorer sorting（给文件夹和文件自定义排序）
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151248
+modified: 20230330134043
 public: yes
 ---
 
@@ -56,6 +57,7 @@ public: yes
 >  00-小白...
 > ---
 > ```
+>
 
 语法：
 
@@ -78,46 +80,46 @@ public: yes
 
 状图标状态方便你查看现在的问题：
 
--   [![Inactive](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-inactive.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-inactive.png)  插件未生效，没有自定义排序生效。
--   [![Active](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-active.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-active.png)  插件已激活，并且生效了自定义排序。
--   [![Error](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-error.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-error.png)  自定义排序配置中的语法错误。
--   [![General Error](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-general-error.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-general-error.png)  插件未生效，有一般性错误。
--   [![Sorting not applied](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-not-applied.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-not-applied.png)  插件已激活，但未应用自定义排序。
--   [![Static icon](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-mobile-initial.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-mobile-initial.png)  仅适用于 iPad 等大屏幕移动设备）。插件已启用。但未应用自定义排序。
+- [![Inactive](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-inactive.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-inactive.png)  插件未生效，没有自定义排序生效。
+- [![Active](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-active.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-active.png)  插件已激活，并且生效了自定义排序。
+- [![Error](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-error.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-error.png)  自定义排序配置中的语法错误。
+- [![General Error](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-general-error.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-general-error.png)  插件未生效，有一般性错误。
+- [![Sorting not applied](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-not-applied.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-not-applied.png)  插件已激活，但未应用自定义排序。
+- [![Static icon](https://github.com/SebastianMC/obsidian-custom-sort/raw/master/docs/icons/icon-mobile-initial.png)](https://github.com/SebastianMC/obsidian-custom-sort/blob/master/docs/icons/icon-mobile-initial.png)  仅适用于 iPad 等大屏幕移动设备）。插件已启用。但未应用自定义排序。
     在小屏幕移动设备（手机）上，图标是静态的：
--   ![Pasted image 20230310135953](https://s1.vika.cn/space/2023/03/15/926a1f7d9ca84dd1a5a377b5716d9ebe)
+- ![Pasted image 20230310135953](https://s1.vika.cn/space/2023/03/15/926a1f7d9ca84dd1a5a377b5716d9ebe)
 
 ### 基本排序语法速查
 
--   `order-asc: a-z` -  按字母顺序排列，又名自然排序
-    -   'a' 在 'z' 之前，数字会特殊处理 2 会排在 11 之前
--   `order-desc: a-z`  按字母逆序排列，又名逆自然排序，或降序排列
-    -   'z' 在 'a' 之前，数字会特殊处理 11 会排在 2 之前
--   `order-asc: true a-z` - **true alphabetical order**
-    -   'a' goes before 'z' and numbers are treated as texts and 11 goes before 2
--   `order-desc: true a-z` - **true reverse alphabetical order**, aka descending true alphabetical
-    -   'z' goes before 'a' and numbers are treated as texts and 11 goes before 2
--   `order-asc: created` - **by creation date**
-    -   the oldest notes go first. Sub-folders pushed to the top, alphabetically
--   `order-desc: created` - **by creation date, descending**
-    -   the newest notes go first. Sub-folders pushed to the bottom, alphabetically
--   `order-asc: advanced created` - **by creation date, also for folders**
-    -   the oldest notes and sub-folders go first
-    -   for sub-folders the creation date of the oldest contained note is taken as folder's creation date
-    -   sub-folders not containing any notes are pushed to the top, alphabetically
--   `order-desc: advanced created` - **by creation date, descending, also for folders**
-    -   the newest notes and sub-folders go first
-    -   for sub-folders the creation date of the newest contained note is taken as folder's creation date
-    -   sub-folders not containing any notes are pushed to the bottom, alphabetically
--   `order-asc: modified` - **by modification date**
-    -   the most dusty notes go first. Sub-folders pushed to the top, alphabetically
--   `order-desc: modified` - **by modification date, descending**
-    -   the most recently modified notes go first. Sub-folders pushed to the bottom, alphabetically
--   `order-asc: advanced modified` - **by modification date, also for folders**
-    -   the most dusty notes and sub-folders go first
-    -   for sub-folders the modification date of the most dusty contained note is taken as folder's modification date
-    -   sub-folders not containing any notes are pushed to the top, alphabetically
--   `order-desc: advanced modified` - **by modification date, descending, also for folders**
-    -   the most recently modified notes and sub-folders go first
-    -   for sub-folders the modification date of the most recently modified contained note is taken as folder's modification date
-    -   sub-folders not containing any notes are pushed to the bottom, alphabetically
+- `order-asc: a-z` -  按字母顺序排列，又名自然排序
+    - 'a' 在 'z' 之前，数字会特殊处理 2 会排在 11 之前
+- `order-desc: a-z`  按字母逆序排列，又名逆自然排序，或降序排列
+    - 'z' 在 'a' 之前，数字会特殊处理 11 会排在 2 之前
+- `order-asc: true a-z` - **true alphabetical order**
+    - 'a' goes before 'z' and numbers are treated as texts and 11 goes before 2
+- `order-desc: true a-z` - **true reverse alphabetical order**, aka descending true alphabetical
+    - 'z' goes before 'a' and numbers are treated as texts and 11 goes before 2
+- `order-asc: created` - **by creation date**
+    - the oldest notes go first. Sub-folders pushed to the top, alphabetically
+- `order-desc: created` - **by creation date, descending**
+    - the newest notes go first. Sub-folders pushed to the bottom, alphabetically
+- `order-asc: advanced created` - **by creation date, also for folders**
+    - the oldest notes and sub-folders go first
+    - for sub-folders the creation date of the oldest contained note is taken as folder's creation date
+    - sub-folders not containing any notes are pushed to the top, alphabetically
+- `order-desc: advanced created` - **by creation date, descending, also for folders**
+    - the newest notes and sub-folders go first
+    - for sub-folders the creation date of the newest contained note is taken as folder's creation date
+    - sub-folders not containing any notes are pushed to the bottom, alphabetically
+- `order-asc: modified` - **by modification date**
+    - the most dusty notes go first. Sub-folders pushed to the top, alphabetically
+- `order-desc: modified` - **by modification date, descending**
+    - the most recently modified notes go first. Sub-folders pushed to the bottom, alphabetically
+- `order-asc: advanced modified` - **by modification date, also for folders**
+    - the most dusty notes and sub-folders go first
+    - for sub-folders the modification date of the most dusty contained note is taken as folder's modification date
+    - sub-folders not containing any notes are pushed to the top, alphabetically
+- `order-desc: advanced modified` - **by modification date, descending, also for folders**
+    - the most recently modified notes and sub-folders go first
+    - for sub-folders the modification date of the most recently modified contained note is taken as folder's modification date
+    - sub-folders not containing any notes are pushed to the bottom, alphabetically

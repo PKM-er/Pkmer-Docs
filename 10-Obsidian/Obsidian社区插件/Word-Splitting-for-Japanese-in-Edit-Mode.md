@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Word Splitting for Japanese in Edit Mode
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151246
+modified: 20230330134042
 public: yes
 ---
 
@@ -21,13 +22,13 @@ Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
 
 > [!插件名片]
 
-> -   插件名称：# Word Splitting for Japanese in Edit Mode
+> - 插件名称：# Word Splitting for Japanese in Edit Mode
 
-> -   插件作者：sonarAIT
+> - 插件作者：sonarAIT
 
-> -   插件说明：Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
+> - 插件说明：Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
 
-> -   插件项目地址：[点我跳转](https://github.com/sonarAIT/cm-japanese-patch)
+> - 插件项目地址：[点我跳转](https://github.com/sonarAIT/cm-japanese-patch)
 
 ## 效果&特性
 

@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obisdian 插件：Commander（添加自定义功能按钮）
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151248
+modified: 20230330134043
 public: yes
 ---
 
@@ -20,22 +21,22 @@ public: yes
 
 > [!插件名片]
 
-> -   插件名称：Commander
+> - 插件名称：Commander
 
-> -   插件作者：Johnny✨ and phibr0
+> - 插件作者：Johnny✨ and phibr0
 
-> -   插件说明：给 Obsidian 的不同功能区增加自定义快捷按钮。
+> - 插件说明：给 Obsidian 的不同功能区增加自定义快捷按钮。
 
-> -   插件项目地址：[点我跳转](https://github.com/phibr0/obsidian-commander)
+> - 插件项目地址：[点我跳转](https://github.com/phibr0/obsidian-commander)
 
 ## 效果&特性
 
 ![Pasted image 20230126232048](https://s1.vika.cn/space/2023/03/15/50fd8cc8a2b5427f94acd9ab7ed25fd1)
 
--   可以把命令添加至 UI 界面的各个区域，包括标题栏、状态栏、侧边栏、页头、文件菜单、右键菜单等，并为命令设置显示的别名与图标
--   隐藏核心插件或社区插件自带的命令图标
--   支持修改显示顺序
--   支持设置移动端、桌面端各显示哪些命令
+- 可以把命令添加至 UI 界面的各个区域，包括标题栏、状态栏、侧边栏、页头、文件菜单、右键菜单等，并为命令设置显示的别名与图标
+- 隐藏核心插件或社区插件自带的命令图标
+- 支持修改显示顺序
+- 支持设置移动端、桌面端各显示哪些命令
 
 ![Pasted image 20230126231545](https://s1.vika.cn/space/2023/03/15/546497768b51464fa30192c7f590291c)
 

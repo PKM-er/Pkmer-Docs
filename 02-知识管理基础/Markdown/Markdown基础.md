@@ -1,11 +1,12 @@
 ---
 uid: 20230328202827
 title: Markdown 基础
-description:
-author:
+keywords: 
+description: 
+author: 
 type: basic
 draft: false
-modified: 20230328210252
+modified: 20230330133950
 ---
 
 # Markdown 基础
@@ -107,9 +108,9 @@ A *cat* meow
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 ```
 
--   **说明：**
--   **同个引用段落** 内的换行直接敲击  **Enter**  即可
--   若需添加  **第二个独立引用段落** ，连续敲击  **两下\*\***Enter\*\*  即可
+- **说明：**
+- **同个引用段落** 内的换行直接敲击  **Enter**  即可
+- 若需添加  **第二个独立引用段落** ，连续敲击  **两下\*\***Enter\*\*  即可
 
 渲染效果如下：
 
@@ -332,8 +333,8 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 以下示例格式对于链接的第一部分效果相同：
 
--   `[hobbit-hole][1]`
--   `[hobbit-hole] [1]`
+- `[hobbit-hole][1]`
+- `[hobbit-hole] [1]`
 
 可以将链接的第二部分放在 Markdown 文档中的任何位置。有些人将它们放在出现的段落之后，有些人则将它们放在文档的末尾（例如尾注或脚注）。
 
@@ -418,15 +419,15 @@ For example, you can embed Twitter tweets like so as suggested by search results
 
 展示效果如下：
 
--   [x] Write the press release
--   [ ] Update the website
--   [ ] Contact the media
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
--   **创建任务：**
-    -   **-** + **空格** +**`[ ]`** +**空格** + 任务列表内容 ( 中括号 `[ ]`  里面必须有个空格)
-    -   或者更简单点，对着某个行文字，按下“Ctrl + L”
--   **完成任务** - 在渲染界面，直接鼠标左键点击 mm - 在源代码界面，在中括号内输入  **英文字母 x** - 部分编辑器，在 中括号内 输入 **任意字符** 都可以打  **`√`** ( 例如  **Obsidian** )
--   **任务列表也是可以缩进 + 退格的，操作跟 无序列表、有序列表一样**
+- **创建任务：**
+    - **-** + **空格** +**`[ ]`** +**空格** + 任务列表内容 ( 中括号 `[ ]`  里面必须有个空格)
+    - 或者更简单点，对着某个行文字，按下“Ctrl + L”
+- **完成任务** - 在渲染界面，直接鼠标左键点击 mm - 在源代码界面，在中括号内输入  **英文字母 x** - 部分编辑器，在 中括号内 输入 **任意字符** 都可以打  **`√`** ( 例如  **Obsidian** )
+- **任务列表也是可以缩进 + 退格的，操作跟 无序列表、有序列表一样**
 
 ## 表格
 
@@ -495,9 +496,9 @@ For example, you can embed Twitter tweets like so as suggested by search results
 
 简记：
 
--   **`[^脚注代号]`** ( 脚注代号会直接显示在渲染界面 )
--   脚注代号可以随便命名，不过推荐使用  **数字序号**
--   **`[^脚注代号]`** + **:** + **空格** + 脚注内容
+- **`[^脚注代号]`** ( 脚注代号会直接显示在渲染界面 )
+- 脚注代号可以随便命名，不过推荐使用  **数字序号**
+- **`[^脚注代号]`** + **:** + **空格** + 脚注内容
 
 ```
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
@@ -518,11 +519,12 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
+
 [^bignote]: Here's one with multiple paragraphs and code.
 
 ## 实体字符
 
-在 Markdown 中，字符  `<`、`>`、`"`、`'`  和反引号是特殊字符。它们是 Markdown 语法自身的一部分，那么你如何将这些字符包含进你的文本中呢? 一种方法是转义，即加斜杠`\<`，另一种办法是使用实体字符即字符引用。
+在 Markdown 中，字符  `<`、`>`、`"`、`'`  和反引号是特殊字符。它们是 Markdown 语法自身的一部分，那么你如何将这些字符包含进你的文本中呢? 一种方法是转义，即加斜杠 `\<`，另一种办法是使用实体字符即字符引用。
 
 我们必须使用字符引用 —— 表示字符的特殊编码，它们可以在那些情况下使用。每个字符引用以符号&开始，以分号 (;) 结束。
 

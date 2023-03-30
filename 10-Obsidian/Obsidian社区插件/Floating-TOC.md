@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Floating TOC
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+modified: 20230330134043
 public: yes
 ---
 
@@ -18,13 +19,13 @@ Floating Toc 插件能实现悬浮目录。悬浮目录的效果近似你在其�
 
 ## 效果&特性
 
--   生成一个浮动的标题目录，在笔记文档的左侧
+- 生成一个浮动的标题目录，在笔记文档的左侧
     ![Pasted image 20230122190116.png](https://s1.vika.cn/space/2023/03/15/95a521aa8386473f8c7519869a7cedd5)
 
--   可以在编辑模式，阅读模式下运行
--   录跟踪当前滚动的位置，并同步高亮显示
--   Ctrl + 鼠标左键点击目录，可以折叠/展开当前目录。
--   支持 [[多窗口模式]]
+- 可以在编辑模式，阅读模式下运行
+- 录跟踪当前滚动的位置，并同步高亮显示
+- Ctrl + 鼠标左键点击目录，可以折叠/展开当前目录。
+- 支持 [[多窗口模式]]
 
 ## 安装
 

@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Advanced Obsidian URI
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151248
+modified: 20230330134043
 public: yes
 ---
 
@@ -16,13 +17,13 @@ Obsidian 支持复制笔记链接的方式分享内容，格式如上：这种�
 
 > [!插件名片]
 
-> -   插件名称：Advanced Obsidian URI
+> - 插件名称：Advanced Obsidian URI
 
-> -   插件作者：Vinzent
+> - 插件作者：Vinzent
 
-> -   插件说明：Obsidian URI 的高级模式
+> - 插件说明：Obsidian URI 的高级模式
 
-> -   插件项目地址：[点我跳转](https://github.com/Vinzent03/obsidian-advanced-uri)
+> - 插件项目地址：[点我跳转](https://github.com/Vinzent03/obsidian-advanced-uri)
 
 ```URI
 obsidian://open?vault=ObsidianDoc&file=400-A%E5%B0%81%E5%AD%98

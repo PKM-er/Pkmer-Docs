@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Obsidian Image Gallery 让你的笔记变成画廊
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+modified: 20230330134043
 public: yes
 ---
 
@@ -18,13 +19,13 @@ public: yes
 
 > [!插件名片]
 
-> -   插件名称：Number Headings
+> - 插件名称：Number Headings
 
-> -   插件作者：onlyafly
+> - 插件作者：onlyafly
 
-> -   插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
+> - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
 
-> -   插件项目地址：[点我跳转](https://github.com/onlyafly/number-headings-obsidian)
+> - 插件项目地址：[点我跳转](https://github.com/onlyafly/number-headings-obsidian)
 
 > [!WARNING]
 
@@ -61,8 +62,8 @@ type: vertical
 
 ![Pasted image 20230310110903](https://s1.vika.cn/space/2023/01/25/95eaa8846bc442f98ad4824b3fc429bf)
 
--   通过单击图库的任何图像部分可访问的 Lightbox 视图。
--   如果需要，单击右上角的按钮以在新选项卡中打开原始图像。
+- 通过单击图库的任何图像部分可访问的 Lightbox 视图。
+- 如果需要，单击右上角的按钮以在新选项卡中打开原始图像。
 
 ## 设置
 
@@ -92,7 +93,7 @@ type: vertical
 
 ## 其他注意事项
 
--   路径，无需指定仓库的名称
--   仅接受本地图片作为源；
--   如果你设置的仓库中包含笔记和图像，那么这个插件只会识别图片；
--   确保要嵌入的图像具有合理的大小：用 60 张 4k 照片生成一个堆砌结构，很可能会使应用程序迟缓卡顿。
+- 路径，无需指定仓库的名称
+- 仅接受本地图片作为源；
+- 如果你设置的仓库中包含笔记和图像，那么这个插件只会识别图片；
+- 确保要嵌入的图像具有合理的大小：用 60 张 4k 照片生成一个堆砌结构，很可能会使应用程序迟缓卡顿。

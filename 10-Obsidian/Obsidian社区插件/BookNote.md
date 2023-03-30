@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：BookNote（在 Obsidian 中阅读PDF）
-description:
-tags:
+title: Obsidian 插件：BookNote（在 Obsidian 中阅读 PDF）
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151248
+modified: 20230330134043
 public: yes
 ---
 
@@ -18,19 +19,19 @@ public: yes
 
 > [!插件名片]
 
-> -   插件名称：BookNote
+> - 插件名称：BookNote
 
-> -   插件作者：围城
+> - 插件作者：围城
 
-> -   插件说明：Obsidian 读书标注软件，适用 PDF，MS Office 等
+> - 插件说明：Obsidian 读书标注软件，适用 PDF，MS Office 等
 
-> -   插件项目地址：[点我跳转]()
+> - 插件项目地址：[点我跳转]()
 
 ## 效果&特性
 
--   目前支持可以对 pdf、office 等文档进行标注和管理。
--   可以用来管理指定目录下的文档，这个目录可以是库外目录，电脑上的任意路径都可以。
--   点击记录的回链笔记，可以跳转到 对应的文档位置。【前提：你的文档没有做路径移动】
+- 目前支持可以对 pdf、office 等文档进行标注和管理。
+- 可以用来管理指定目录下的文档，这个目录可以是库外目录，电脑上的任意路径都可以。
+- 点击记录的回链笔记，可以跳转到 对应的文档位置。【前提：你的文档没有做路径移动】
 
 ## 准备
 
@@ -62,7 +63,7 @@ public: yes
 
 ![](https://kknwfe6755.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGVjZDQwZjZiNzM3MWZjZjRkOGE0YTQ5NmNlZjNhMWFfR0Q2cmhEdVVBZlJpZ3BJYzc3a3Z1RUIzeWlsOVVpTWNfVG9rZW46Ym94Y25JWTdOR0NSUDhJeXhZS2xPRThSTHFlXzE2NzQ0MDEwNDc6MTY3NDQwNDY0N19WNA)
 
-2. 重启 OB
+1. 重启 OB
 
 ## 使用方法
 
@@ -89,8 +90,8 @@ public: yes
 
 目前两种方式
 
--   复制回链，在任意文档手动粘贴。
--   按住 ctrl 点击 复制回链 可以在当前激活的文档中 **所在光标处** 自动添加回链。
+- 复制回链，在任意文档手动粘贴。
+- 按住 ctrl 点击 复制回链 可以在当前激活的文档中 **所在光标处** 自动添加回链。
     ![](https://kknwfe6755.feishu.cn/space/api/box/stream/download/asynccode/?code=NDYwN2JiYzQ5Y2ZhOWM4MDE2MTMxZTE4OWM1ZDQwMTBfczkxdGtGc1ZrUnlQNzFoREh5VE9SYkFOOHRNMUJrTXhfVG9rZW46Ym94Y25wSXlud1g1QkJVZHN1Q0ptSDhaRnRiXzE2NzQ0MDEwNDc6MTY3NDQwNDY0N19WNA)
     ![Pasted image 20230122232621](https://s1.vika.cn/space/2023/03/15/4563f7da89b6491690ef2bda2c0e5c9d)
     md 文档中的回链信息

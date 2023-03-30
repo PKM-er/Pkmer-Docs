@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Pane Relief 在笔记历前进后退按钮上显示历史数量
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151246
+modified: 20230330134042
 public: yes
 ---
 
@@ -20,10 +21,10 @@ Obsidian 提供了每个标签页的历史记录功能，这和你的浏览器�
 
 > [!插件名片]
 >
-> -   插件名称：Pane Relief
-> -   插件作者：PJ Eby
-> -   插件说明：每个窗格的历史记录、用于窗格移动和导航的热键等
-> -   插件项目地址：[点我跳转](https://github.com/pjeby/pane-relief)
+> - 插件名称：Pane Relief
+> - 插件作者：PJ Eby
+> - 插件说明：每个窗格的历史记录、用于窗格移动和导航的热键等
+> - 插件项目地址：[点我跳转](https://github.com/pjeby/pane-relief)
 
 ## 使用
 
@@ -37,6 +38,6 @@ Obsidian 提供了每个标签页的历史记录功能，这和你的浏览器�
 
 > [!Note] 注意事项
 
-> -   显示 `←后退`、`前进→` ：在 1.0 后已经官方支持。
+> - 显示 `←后退`、`前进→` ：在 1.0 后已经官方支持。
 
-> -   显示笔记历史清单的功能：在 1.0 后已经官方支持。
+> - 显示笔记历史清单的功能：在 1.0 后已经官方支持。

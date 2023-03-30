@@ -1,8 +1,16 @@
 ---
-author: OS
-public: yes
+uid: 20230329145808
+title: 自定义 CSS
+keywords: 
+description: 
 tags: 
+author: OS
+type: other
+draft: false
+modified: 20230330134043
+public: yes
 ---
+
 # 自定义 CSS
 
 如果你正在设计你个性化的 CSS，你可以通过使用开发者工具来获得更多元素信息，提高设计效率。使用开发者工具，1）在 Windows 或 Linux 下，使用快捷键 `Ctrl+Shift+I`；2）在 macOS 下，使用快捷键 `Cmd+Opt+I` 即可。

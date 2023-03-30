@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Remember cursor position（记住光标位置）
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151246
+modified: 20230330134042
 public: yes
 ---
 
@@ -18,13 +19,13 @@ public: yes
 
 > [!插件名片]
 
-> -   插件名称：Remember cursor position
+> - 插件名称：Remember cursor position
 
-> -   插件作者：Dmitry Savosh
+> - 插件作者：Dmitry Savosh
 
-> -   插件说明：记住每个文件光标和滚动位置
+> - 插件说明：记住每个文件光标和滚动位置
 
-> -   插件项目地址：[点我跳转](https://github.com/dy-sh/obsidian-remember-cursor-position)
+> - 插件项目地址：[点我跳转](https://github.com/dy-sh/obsidian-remember-cursor-position)
 
 ## 效果&特性
 
@@ -39,7 +40,7 @@ public: yes
 
 ## 设置
 
--   支持设置最大记录的文件光标数量。
+- 支持设置最大记录的文件光标数量。
 
 ## 使用方法
 

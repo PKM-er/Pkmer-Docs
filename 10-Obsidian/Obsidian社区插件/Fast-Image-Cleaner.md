@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Fast Image Cleaner 快速的删除文档中的图片附件文件以及引用链接
+keywords: 
 description: 
 tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+modified: 20230330134043
 public: yes
 ---
 

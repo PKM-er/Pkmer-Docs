@@ -1,8 +1,16 @@
 ---
-author: OS
-public: yes
+uid: 20230329145856
+title: Obsidian 设置
+keywords: 
+description: 
 tags: 
+author: OS
+type: other
+draft: false
+modified: 20230330134044
+public: yes
 ---
+
 # Obsidian 设置
 
 ## 认识设置界面
@@ -41,14 +49,16 @@ Obsidian 软件的主要设置，可分成 8 个设置模块：
 
 1. Readable line length：若开启，编辑区域集中在屏幕中间。开启/关闭 Readable line length
 2. Strict line breaks：开启后会保留单字强制换行，对英文单字有效。
-3. Auto pair brackets：自动补齐括号，例如输入`[[`时软件会自动补齐成`[[]]`。
-4. Auto pair Markdown syntax：自动补齐 Markdown 输入，例如使用粗体时 Markdown 格式为*想要粗体的文字*，输入* Obsidian 会自动补齐后面的*。
+3. Auto pair brackets：自动补齐括号，例如输入 `[[` 时软件会自动补齐成 `[[]]`。
+4. Auto pair Markdown syntax：自动补齐 Markdown 输入，例如使用粗体时 Markdown 格式为 *想要粗体的文字*，输入 * Obsidian 会自动补齐后面的 *。
 5. Smart indent lists：智慧型缩排，在排版时非常好用。
 6. Use tabs：可使用 tab 进行缩排。
 7. Line wrap：当一段文字太长时，会将文字自动往下排版，不需要左右移动屏幕的卷轴。左边是关闭的画面、右边是开启的画面。
 
 ![Pasted image 20230221094953](https://s1.vika.cn/space/2023/03/15/b1f54c8e8c7e42e29150d55d5e9e2490)
+
 ![Pasted image 20230221095002](https://s1.vika.cn/space/2023/03/15/1392371bc571476eb5c6fa1de295a693)
+
 #### Files & Links (文件&连接)
 
 1. Confirm file deletion：删除档案前，询问是否删除。这个可依据个人喜好设定。
@@ -57,23 +67,25 @@ Obsidian 软件的主要设置，可分成 8 个设置模块：
 > [!不成熟的建议]
 > 建议选择「in the folder specified below（下方指定的文件夹）」，这样方便，在后续笔记多的时候，快速去整理。
 
-3. Use Wikilinks：设定 Obsidian 的连接格式。此项设定属于 Obsidian 专属的格式，若不设定将以传统 Markdown 格式呈现。
+1. Use Wikilinks：设定 Obsidian 的连接格式。此项设定属于 Obsidian 专属的格式，若不设定将以传统 Markdown 格式呈现。
    下方图片中
 
    - A 是开启 Wikilinks 的格式；
    - B 是传统的 Markdown 连接格式。
 
    ![Pasted image 20230126213643](https://s1.vika.cn/space/2023/03/15/cc2675da80854b0485712098f316eee0)
+
 ![Pasted image 20230221095014](https://s1.vika.cn/space/2023/03/15/c9fe5f2054c74a41b22af954079e6e8d)
+
 ![Pasted image 20230221095019](https://s1.vika.cn/space/2023/03/15/c9fe5f2054c74a41b22af954079e6e8d)
 
 #### 外观 (Appearance)
 
-设定 Obsidian 的界面样式，参看[[Obsidian外观]]。
+设定 Obsidian 的界面样式，参看 [[Obsidian外观]]。
 
 #### Hotkeys (快捷鍵)
 
-设定 Obsidian 的指令快捷键，参看[[快捷键]]
+设定 Obsidian 的指令快捷键，参看 [[快捷键]]
 
 #### 关于（About）
 
@@ -126,7 +138,8 @@ Page Preview
 - Workspaces：可储存目前的面板布局设置，可储存多套不同的界面布局，以适应不同工作使用需求。
 
 ![](https://miro.medium.com/max/700/1*Fmz-n1T-_jxeq9BK-pUpDA.png)
-## 社区插件(Community plugins)
+
+## 社区插件 (Community plugins)
 
 社区插件是 Obsidian 这款软件之所以强大的原因，有非常多厉害的大神开发出好用的插件功能，让 Obsidian 越来越强大。
 

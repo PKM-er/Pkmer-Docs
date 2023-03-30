@@ -1,11 +1,12 @@
 ---
 uid: 20230329102609
 title: Obsidian 社区周报
+keywords: 
 description: Obsidian的社区周报，由 eleanorkonik 收集并整理，授权 Pkmer 进行翻译
 author: Bon
 type: awesome
 draft: false
-modified: 20230329103658
+modified: 20230330133940
 ---
 
 # Obsidian 社区周报

@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Icon Folder（给文件夹增加图标）
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+modified: 20230330134043
 public: yes
 ---
 
@@ -18,13 +19,13 @@ public: yes
 
 > [!插件名片]
 
-> -   插件名称：Icon Folder
+> - 插件名称：Icon Folder
 
-> -   插件作者：FlorianWoelki
+> - 插件作者：FlorianWoelki
 
-> -   插件说明：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件。
+> - 插件说明：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件。
 
-> -   插件项目地址：[点我跳转](https://github.com/FlorianWoelki/obsidian-icon-folder)
+> - 插件项目地址：[点我跳转](https://github.com/FlorianWoelki/obsidian-icon-folder)
 
 ## 效果
 

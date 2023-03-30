@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Number Headings
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+modified: 20230330134043
 public: yes
 ---
 
@@ -20,13 +21,13 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 
 > [!插件名片]
 
-> -   插件名称：Number Headings
+> - 插件名称：Number Headings
 
-> -   插件作者：Kevin Albrecht
+> - 插件作者：Kevin Albrecht
 
-> -   插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
+> - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
 
-> -   插件项目地址：[点我跳转](https://github.com/onlyafly/number-headings-obsidian)
+> - 插件项目地址：[点我跳转](https://github.com/onlyafly/number-headings-obsidian)
 
 ## 效果
 
@@ -55,23 +56,23 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 
 ### 设置选项
 
--   Skip top heading level：是否跳过最高级标题，默认关闭。
-    -   我自己的设置中跳过第一级（#），具体原因可以参见 [[文档的写作规范#标题]]
--   First heading level：设定编号从第 X 级标题等级开始
-    -   对应上面的选项，我自己设置的 1。默认为 1
--   Start numbering at：编号从什么位置计数
-    -   比如我设置为 1，那么编号，就是从 1.1 开始，以此类推。
--   Maximum heading level：设定编号的最大标题等级
-    -   默认  `6`，可不关注，因为 Markdown 也默认支持 6 级标题
--   Style for level 1 headings：第一级标题编号样式
-    -   默认是试用数字 1，可以根据自己参考的编写规范来自己定义
--   Style for lower level headings (below level 1)：最低级标题编号样式
--   Automatic numbering：是否自动编号
-    -   默认开启，不建议大家关闭，关闭后需要手动触发才会刷新编号
--   Separator style：分隔符样式
-    -   默认使用 `.`（英文句号）
--   Table of Contents Anchor：添加目录，带跳转（锚点）
-    -   我自己使用的配置是 `^TOC`
+- Skip top heading level：是否跳过最高级标题，默认关闭。
+    - 我自己的设置中跳过第一级（#），具体原因可以参见 [[文档的写作规范#标题]]
+- First heading level：设定编号从第 X 级标题等级开始
+    - 对应上面的选项，我自己设置的 1。默认为 1
+- Start numbering at：编号从什么位置计数
+    - 比如我设置为 1，那么编号，就是从 1.1 开始，以此类推。
+- Maximum heading level：设定编号的最大标题等级
+    - 默认  `6`，可不关注，因为 Markdown 也默认支持 6 级标题
+- Style for level 1 headings：第一级标题编号样式
+    - 默认是试用数字 1，可以根据自己参考的编写规范来自己定义
+- Style for lower level headings (below level 1)：最低级标题编号样式
+- Automatic numbering：是否自动编号
+    - 默认开启，不建议大家关闭，关闭后需要手动触发才会刷新编号
+- Separator style：分隔符样式
+    - 默认使用 `.`（英文句号）
+- Table of Contents Anchor：添加目录，带跳转（锚点）
+    - 我自己使用的配置是 `^TOC`
 
 ## 使用方法
 

@@ -1,11 +1,12 @@
 ---
 uid: 20230328213324
 title: Markdown 格式转换器
-description:
+keywords: 
+description: 
 author: OS
 type: other
 draft: false
-modified: 20230328213403
+modified: 20230330134030
 ---
 
 # Markdown 格式转换器
@@ -14,8 +15,8 @@ modified: 20230328213403
 
 目前为止，你可以进行以下转换：
 
--   Roam 的  #标签   转换为 Obsidian 的  [[标签的使用]]
--   Roam 的  `^^高亮^^`  转换为 Obsidian 的  `==高亮==`
--   Bear 的  `::highlight::`  转换为  `==highlight==`.
--   Zettelkasten 的  `[[UID]]`  链接转换为完整的链接  `[[UID 文件名]]`
--   Zettelkasten 的  `[[UID]]`  链接转换为更易阅读的  `[[UID 文件名|文件名]]`  链接，这种链接在 Obsidian 中会直接显示为  `文件名`
+- Roam 的  #标签   转换为 Obsidian 的  [[标签的使用]]
+- Roam 的  `^^高亮^^`  转换为 Obsidian 的  `==高亮==`
+- Bear 的  `::highlight::`  转换为  `==highlight==`.
+- Zettelkasten 的  `[[UID]]`  链接转换为完整的链接  `[[UID 文件名]]`
+- Zettelkasten 的  `[[UID]]`  链接转换为更易阅读的  `[[UID 文件名|文件名]]`  链接，这种链接在 Obsidian 中会直接显示为  `文件名`

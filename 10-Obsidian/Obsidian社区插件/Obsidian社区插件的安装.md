@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 社区插件的安装
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151246
+modified: 20230330134042
 public: yes
 ---
 
@@ -36,6 +37,7 @@ public: yes
 之后就能看到该插件不同的发行版本，例如下图显示的有 0.1.2 版本、0.1.1 版本。
 
 ![](https://gitee.com/cyddgi/picture-store/raw/master/img/20210501215745.png)
+
 请注意上图红框部分，OB 的插件主要由 3 类文件，命名为 `main.js`、`manifest.json`、`styles.css`，也有些插件可能没有其中的某个文件。请将上述 3 个文件下载到本地，请勿重命名，然后新建一个文件夹将上述的文件放入。
 
 文件夹的名字需要是英文。一般我是以库的名称中非 Obsidian 的字段来命名，例如这个库叫 `obsidian-kanban`，我就把这文件夹命名为 `kanban`。
@@ -53,6 +55,7 @@ public: yes
 ![[Pasted image 20230127224149.png]]
 
 上图左箭头代表刷新插件文件夹，这样以后就不用重启 OB 也能刷新插件。
+
 上图右箭头可以直接打开插件文件夹放置位置。
 
 最后一步，我们还要点击插件右边的开关按钮，启动插件。这样插件就能正常运行了。

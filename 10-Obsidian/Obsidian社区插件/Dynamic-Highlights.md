@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Dynamic Highlights（动态高亮指定内容）
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+modified: 20230330134043
 public: yes
 ---
 
@@ -18,13 +19,13 @@ public: yes
 
 > [!插件名片]
 
-> -   插件名称：Dynamic Highlights
+> - 插件名称：Dynamic Highlights
 
-> -   插件作者：nothingislost
+> - 插件作者：nothingislost
 
-> -   插件说明：根据你设定的规则动态高亮显示文本
+> - 插件说明：根据你设定的规则动态高亮显示文本
 
-> -   插件项目地址：[点我跳转](https://github.com/nothingislost/obsidian-dynamic-highlights)
+> - 插件项目地址：[点我跳转](https://github.com/nothingislost/obsidian-dynamic-highlights)
 
 ## 效果&特性
 
@@ -43,7 +44,7 @@ public: yes
 
 ![](https://s1.vika.cn/space/2023/03/15/e21a190a272f4e6788f925acce686337)
 
--   1 和 2 之间的马赛克块是用于快速设置颜色的选择面板。
+- 1 和 2 之间的马赛克块是用于快速设置颜色的选择面板。
 
 2、在这里填入你的检索式，在未开启 3 之前，只支持单词匹配；
 

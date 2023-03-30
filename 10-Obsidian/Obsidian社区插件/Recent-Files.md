@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Recent Files
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151246
+modified: 20230330134042
 public: yes
 ---
 
@@ -16,13 +17,13 @@ public: yes
 
 > [!插件名片]
 
-> -   插件名称：Recent Files
+> - 插件名称：Recent Files
 
-> -   插件作者：Tony Grosinger
+> - 插件作者：Tony Grosinger
 
-> -   插件说明：显示最近打开的文件列表
+> - 插件说明：显示最近打开的文件列表
 
-> -   插件项目地址：[点我跳转](https://github.com/tgrosinger/recent-files-obsidian)
+> - 插件项目地址：[点我跳转](https://github.com/tgrosinger/recent-files-obsidian)
 
 ## 效果&特性
 
@@ -48,8 +49,8 @@ public: yes
 
 ### 启用
 
--   点击生成在左侧面板，默认的时钟样式图标即可。
--   当然你也可以通过面板的方式，拖拽到你习惯的布局中
+- 点击生成在左侧面板，默认的时钟样式图标即可。
+- 当然你也可以通过面板的方式，拖拽到你习惯的布局中
 
 ### 日常使用
 

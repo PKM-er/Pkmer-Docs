@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Douban
-description:
-tags:
+keywords: 
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+modified: 20230330134043
 public: yes
 ---
 
@@ -18,13 +19,13 @@ public: yes
 
 > [!插件名片]
 
-> -   插件名称：douban
+> - 插件名称：douban
 
-> -   插件作者：Wanxp
+> - 插件作者：Wanxp
 
-> -   插件说明：给 Obsidian 增加和豆瓣信息同步的能力
+> - 插件说明：给 Obsidian 增加和豆瓣信息同步的能力
 
-> -   插件项目地址：[点我跳转](https://github.com/Wanxp/obsidian-douban)
+> - 插件项目地址：[点我跳转](https://github.com/Wanxp/obsidian-douban)
 
 ## 安装
 
@@ -35,19 +36,19 @@ public: yes
 
 ## 功能
 
--   Sync Personal Movie/同步个人看过的电影
--   Sync Personal Book/同步个人阅读过的书籍
--   Sync Personal Music/同步个人听过的音乐
--   Import Movie/导入电影
--   Import Teleplay/导入电视剧
--   Import Book/导入书籍
--   Import Music/导入音乐
--   Import Note/导入日记
--   Import Game/导入游戏
--   Personal Comment/导入个人的评论,评论时间,阅读状态,个人评分
--   Attachment Files/支持保存封面至本地
--   Custom Variables/支持自定义参数
--   Broadcast/广播
+- Sync Personal Movie/同步个人看过的电影
+- Sync Personal Book/同步个人阅读过的书籍
+- Sync Personal Music/同步个人听过的音乐
+- Import Movie/导入电影
+- Import Teleplay/导入电视剧
+- Import Book/导入书籍
+- Import Music/导入音乐
+- Import Note/导入日记
+- Import Game/导入游戏
+- Personal Comment/导入个人的评论,评论时间,阅读状态,个人评分
+- Attachment Files/支持保存封面至本地
+- Custom Variables/支持自定义参数
+- Broadcast/广播
 
 ## 使用方法
 
