@@ -5,7 +5,8 @@ description: Obsidian的社区周报，由 eleanorkonik 收集并整理，授权
 author: Bon
 type: awesome
 draft: false
-modified: 20230330170422
+editable: false
+modified: 20230401230258
 ---
 
 # Obsidian 社区周报

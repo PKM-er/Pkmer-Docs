@@ -5,7 +5,8 @@ description:
 author: OS
 type: awesome
 draft: false
-modified: 20230330170421
+editable: false
+modified: 20230401230258
 ---
 
 # Obsidina 的核心插件
