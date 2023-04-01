@@ -24,7 +24,7 @@ public: yes
 
 > [!插件名片]
 
-> - 插件名称：Obsidain Lite
+>- 插件名称：Obsidain Lite
 
 > - 插件作者：Bon、Cuman、windly
 
