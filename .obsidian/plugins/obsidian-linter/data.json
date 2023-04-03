@@ -22,7 +22,7 @@
     },
     "Insert YAML attributes": {
       "Inserts the given YAML attributes into the YAML frontmatter. Put each attribute on a single line.": true,
-      "Text to insert": "uid:\ntitle:\nkeywords: \ndescription:\nauthor: \ntype: other\ndraft: false\nmodified:  "
+      "Text to insert": "uid:\ntitle:\nkeywords: \ndescription:\nauthor: \ntype: other\ndraft: false\neditable: false\nmodified:  "
     },
     "Move Tags to Yaml": {
       "Move all tags to Yaml frontmatter of the document.": false,
@@ -35,7 +35,7 @@
     },
     "YAML Key Sort": {
       "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": true,
-      "YAML Key Priority Sort Order": "uid\ntitle\nkeywords\ndescription\ntags\nauthor\ntype\ndraft\ncreated\nmodified",
+      "YAML Key Priority Sort Order": "uid\ntitle\nkeywords\ndescription\ntags\nauthor\ntype\ndraft\neditable\nmodified",
       "Priority Keys at Start of YAML": true,
       "YAML Sort Order for Other Keys": "None"
     },

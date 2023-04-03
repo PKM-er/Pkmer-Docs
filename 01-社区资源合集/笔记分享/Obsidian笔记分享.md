@@ -3,9 +3,10 @@ uid: 20230329153132
 title: Obsidian 笔记分享
 description: 
 author: 
-type: other
-draft: false
-modified: 20230330170422
+type: awesome
+draft: true
+editable: true
+modified: 20230401230258
 ---
 
 # Obsidian 笔记分享
