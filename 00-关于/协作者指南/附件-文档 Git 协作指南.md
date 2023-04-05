@@ -1,12 +1,12 @@
 ---
 uid: 20230404000634
 title: Git 协作指南（Step by step）
-description: Git协作指南（Step by step）
+description: 一份Step by step Git协作指南
 author: Jason-XJ
 type: other
 draft: false
 editable: true
-modified: 20230405221532
+modified: 20230405232809
 ---
 
 # Git 协作指南（Step by step）
@@ -89,7 +89,7 @@ modified: 20230405221532
 
 ### Step 2: 新建分支
 
-`ctrl + p` 打开命令窗口，输入 `create new branch`，回车，接着输入新分支名 (一般是对你想要修改内容的简短总结，如 `doc-md-tutorial` 表示一个 md 教程的文档，记得用英文)
+在 obsidian 中 `ctrl + p` 打开命令窗口，输入 `create new branch`，回车，接着输入新分支名 (一般是对你想要修改内容的简短总结，如 `doc-md-tutorial` 表示一个 md 教程的文档，记得用英文)
 
 ![[Pasted image 20230405213104.png]]
 
@@ -121,7 +121,7 @@ modified: 20230405221532
 
 ![[Pasted image 20230405213630.png]]
 
-注：右上角会显示相关信息包括修改了多少文档等，其中 `fatal: bad revision 'null'` 是由于插件本身的问题导致，属于正常（后续我们也将尽可能将其修复）
+==注：==右上角会显示相关信息包括修改了多少文档等，其中 `fatal: bad revision 'null'` 是由于插件本身的问题导致，属于正常（后续我们也将尽可能将其修复）
 
 ![[Pasted image 20230405213651.png]]
 
@@ -137,9 +137,17 @@ modified: 20230405221532
 
 `PR`：Pull Request 的简称，即申请合并到 Pkmer Github 主项目，登录到个人 Github 项目的网站，会有一个 `Pull Request` 的绿色提示，点击后按照指示操作即可
 
+![[Pasted image 20230405221733.png]]
+
+![[Pasted image 20230405221833.png]]
+
+![[Pasted image 20230405221957.png]]
+
 ### Step 6: 沟通交流与合并
 
 `PR` 之后维护者会对内容进行 `review`，通过 `PR` 里面进行沟通交流做出相应修改，最后维护者会将您的贡献合并到主项目。==注==：同一分支，pr 一次即可，pr 后如果需要修改，在本地相应分支修改后重复 Step 4 即可（commit 和 push 都要操作）。
+
+![[Pasted image 20230405232750.png]]
 
 ### Step 7: 删除分支
 
@@ -158,3 +166,5 @@ modified: 20230405221532
 ![[Pasted image 20230405221412.png]]
 
 ![[Pasted image 20230405221427.png]]
+
+至此，你就完成了一次对项目文档的一次更新！感谢你对社区的贡献！
