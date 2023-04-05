@@ -6,7 +6,7 @@ author: Jason-XJ
 type: other
 draft: false
 editable: true
-modified: 20230405232809
+modified: 20230405233626
 ---
 
 # Git 协作指南（Step by step）
@@ -145,13 +145,21 @@ modified: 20230405232809
 
 ### Step 6: 沟通交流与合并
 
-`PR` 之后维护者会对内容进行 `review`，通过 `PR` 里面进行沟通交流做出相应修改，最后维护者会将您的贡献合并到主项目。==注==：同一分支，pr 一次即可，pr 后如果需要修改，在本地相应分支修改后重复 Step 4 即可（commit 和 push 都要操作）。
+`PR` 之后维护者会对内容进行 `review`，通过 `PR` 里面进行沟通交流做出相应修改，最后维护者会将您的贡献合并到主项目。
 
 ![[Pasted image 20230405232750.png]]
 
+==注==：同一分支，pr 一次即可，pr 后如果需要修改，在本地相应分支修改后重复 Step 4 即可（commit 和 push 都要操作）,下图展示了根据意见返修并 commit 和 push 操作后，GitHub pr 中更新信息。
+
+![[Pasted image 20230405233047.png]]
+
+管理员将 pr 合并（merge）到主分支之后，该 pr 会自动被关闭，即完成了对主分支的更新。
+
+![[Pasted image 20230405233541.png]]
+
 ### Step 7: 删除分支
 
-切换回主分支，`ctrl + p` 打开命令窗口，输入 `Switch branch`（也可以直接点击 obsidian 有下角），选择 `main` 主分支，再次 `ctrl + p` 打开命令窗口，输入 `Delete branch`，选择删除对应分支，完成后自动回到 main 主分支。
+GitHub 完成更新后，返回 obsidian 界面，切换回主分支：`ctrl + p` 打开命令窗口，输入 `Switch branch`（也可以直接点击 obsidian 有下角），选择 `main` 主分支，再次 `ctrl + p` 打开命令窗口，输入 `Delete branch`，选择删除对应分支，完成后自动回到 main 主分支。
 
 ![[Pasted image 20230405220900.png]]
 
