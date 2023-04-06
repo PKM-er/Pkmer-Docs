@@ -1,6 +1,6 @@
 ---
 uid: 20230406111918
-title: Git- 名词解释
+title: Git名词解释
 description: 更好的理解文档协作中Git命令
 author: asureading
 type: other
