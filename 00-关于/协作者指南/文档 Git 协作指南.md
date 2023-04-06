@@ -3,10 +3,10 @@ uid: 20230404000634
 title: Git 协作指南（Step by step）
 description: 一份Step by step Git协作指南
 author: Jason-XJ
-type: other
+type: tutorial
 draft: false
 editable: true
-modified: 20230405233626
+modified: 20230407000232
 ---
 
 # Git 协作指南（Step by step）
