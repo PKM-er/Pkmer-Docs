@@ -6,7 +6,7 @@ author: Jason-XJ
 type: tutorial
 draft: false
 editable: true
-modified: 20230407000232
+modified: 20230407215747
 ---
 
 # Git 协作指南（Step by step）
@@ -18,7 +18,7 @@ modified: 20230407000232
 
 ### Step 1: 下载并安装 Git 软件
 
-在 [git 官网](https://git-scm.com/downloads) 下载对应安装软件包（以下主要展示 Windows 平台相关截图）
+在 [git 官网](https://git-scm.com/downloads) 下载对应安装软件包（以下主要展示 Windows 平台相关截图，Mac 版本后续根据需要增加）
 
 ![Pasted image 20230404001904](https://s1.vika.cn/space/2023/04/06/d9f053056e354881a34eeeb4dfcd0061)
 
