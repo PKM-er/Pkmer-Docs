@@ -6,7 +6,7 @@ author: Obsidian优秀外观分享
 type: awesome
 draft: false
 editable: true
-modified: 20230409231827
+modified: 20230409232810
 ---
 
 # Obsidian 优秀外观分享
@@ -22,8 +22,6 @@ modified: 20230409231827
 ![image_1678626553017.png](https://s1.vika.cn/space/2023/04/09/8c3e5dbfe4e04a909a549fbbe491f4c4)
 
 ![ahan.png](https://s1.vika.cn/space/2023/04/09/9ea1d41553174794b1f567bfc17a4caa)
-
-![1673631056820.png](https://s1.vika.cn/space/2023/04/09/2448be16dfba4e3387531fb92168ad1d)
 
 ![New_Homepage-edit.png](https://s1.vika.cn/space/2023/04/09/de9985e5e48844e68061e8d8d78c9b42)
 
