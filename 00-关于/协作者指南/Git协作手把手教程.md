@@ -1,15 +1,15 @@
 ---
 uid: 20230404000634
-title: Git 协作指南（Step by step）
+title: Git协作手把手教程
 description: 一份Step by step Git协作指南
 author: Jason-XJ
 type: tutorial
 draft: false
 editable: true
-modified: 20230407000232
+modified: 20230408223645
 ---
 
-# Git 协作指南（Step by step）
+# Git 协作手把手教程
 
 > [!info]
 > 本指南是针对 [[文档协作流程#有 Git 协作经验的协作者]] 的辅助文件
