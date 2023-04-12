@@ -2,20 +2,21 @@
 uid: 20230409231230
 title: Obsidian 优秀外观分享
 description: 
-author: Obsidian优秀外观分享
+author: Obsidian社区
 type: awesome
 draft: false
 editable: true
-modified: 20230409232810
+modified: 20230410154850
 ---
 
 # Obsidian 优秀外观分享
 
+以下外观截图均来自 Obsidian 的 Discord 社区：
+
 ![image_1680574185597.png](https://s1.vika.cn/space/2023/04/09/6d6751e25a334715821b110ee3d2cb44)
+![image.png](https://s1.vika.cn/space/2023/04/12/115d211cfb2a4c5494d2f597c4cec9d2)
 
 ![Screen_Shot_2023-01-08_at_10.42.53_PM.png](https://s1.vika.cn/space/2023/04/09/03acb1348e884b9389075e759c02f602)
-
-![](https://s1.vika.cn/space/2023/04/09/03acb1348e884b9389075e759c02f602)
 
 ![image_1680573158311.png](https://s1.vika.cn/space/2023/04/09/3465dd22ec454306ad437bca16d34475)
 

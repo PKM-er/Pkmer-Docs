@@ -3,10 +3,10 @@ uid: 20230409205013
 title: Obsidian
 description: 
 author: windilycloud
-type: awesome
+type: basic
 draft: false
 editable: true
-modified: 20230409231901
+modified: 20230412220901
 ---
 
 # Obsidian
@@ -28,7 +28,7 @@ modified: 20230409231901
 
 ### 关于 Obsidian 开发团队
 
-> [!note] 为什么有 Obsidian
+> [!note] 为什么会有 Obsidian
 > 和那些惯例一样，我们建立 Obsidian 是因为 Erica 找不到任何东西能满足她建立个人知识库的需要。她已经尝试了从 TiddlyWiki 到 The Brain 的各种软件，但是没有一种感觉是好用的。疫情隔离终于给了我们开始制作的机会。经过更多的思考，我们决定了 obsidian 的三个最基本的方向:
 > - Local-first and plain text 本地优先和纯文本;
 > - Link as first-class citizen 链接作为第一类公民;
@@ -84,31 +84,78 @@ modified: 20230409231901
 3. Obsidian 是本地笔记软件，可全程不联网不注册，即使收费了也可无压力使用。得益于本地 Markdown 格式，迁移非常方便。
 4. 即使开源，收不收费依旧由开发者决定。可以参考 [Auto.js](https://github.com/clearw5/Auto.js) 在开源后有着一万两千 star 后选择闭源收费。
 
-所以 *关心是否永久免费是没必要的*，一方面开发者承诺终生使用是不负责的可行性也极低，另一方面我们是否会在将来会迁移到更好的笔记软件也是未可知的。
+所以 **关心是否永久免费是没必要的**，一方面开发者承诺终生使用是不负责的可行性也极低，另一方面我们是否会在将来迁移到更好的笔记软件也是未可知的。
 
 #### Obsidian 生态
 
 所谓的生态主要集中在两个方面，一方面是用 Obsidian 的分享，另一方面是 Obsidian 主题和插件。目前英文论坛有超过 2 万主题帖子，社区上架插件近 1000 个，同时有大量的其他插件主题未上架。除此之外，个人网站站点的分享，脚本分享，片段分享，美化分享，示例库分享也有很多，构成了 Obsidian 强大的软件生态。
 
-Obsidian 的生态主要围绕着 Discord 和 [英文社区](https://forum.obsidian.md/) 展开的，这是因为两位创始人生活在加拿大，自然而然主要用户集中在欧美国家。据 [OSS Insight](https://ossinsight.io/) 统计，国内用户占到 25% 左右。国内社区的运营分散在互联网的各个角落，前期主要是以各个个人分享的内容，比如 [Ryooo](https://www.zhihu.com/people/rao-yao-47-68)，[Boninall](https://www.zhihu.com/people/kio-mis) 等人，大多是为爱发电，所以不温不火的。
+Obsidian 的生态主要围绕着 Discord 和 [英文社区](https://forum.obsidian.md/) 展开的，这是因为两位创始人生活在加拿大，自然而然主要用户集中在欧美国家。据 [OSS Insight](https://ossinsight.io/) 统计，国内用户占到 25% 左右。国内社区的运营分散在互联网的各个角落，前期主要是以个人分享的内容为主，比如 [Ryooo](https://www.zhihu.com/people/rao-yao-47-68)，[Boninall](https://www.zhihu.com/people/kio-mis) 等人，大多是为爱发电，所以不温不火的。
 
-这就导致了 Obsidian 的内容多以英文为主，多许多人来说有着不小的门槛。唯一能解决的就是建立国内的软件生态，Pkmer 倒是有意接过这杆大旗。
+这就导致了 Obsidian 的内容多以英文为主，对许多人来说有着不小的门槛。唯一能解决的就是建立国内的软件生态，Pkmer 倒是有意接过这杆大旗。
 
-#### Obsidian 的受众
+#### Obsidian 的优势
 
-由于 Obsidian 是基于 Markdwon 纯文本的，一切都尊重纯文本来构建的，最大的好处是脱离 Obsidian 也可读。这就导致有上手难度，但对于大多数人来说，几乎很快就能适应，操作习惯可以通过社区插件弥补。主要难点就只有 Markdown 语法，这种语法格式在知乎，简书，Github 等各大平台都支持，是一种非常优雅的协作方案。这是事实上的主流语法格式，相信在未来大部分人都能接受。
+由于 Obsidian 是基于 Markdwon 纯文本的，一切都尊重纯文本来构建的，最大的好处是脱离 Obsidian 也可读。这就导致有上手难度，但对于大多数人来说，几乎很快就能适应，操作习惯可以通过社区插件弥补。主要难点就只有 Markdown 语法，这种语法格式在知乎，简书，Github 等各大平台都支持，是一种非常优雅的写作方案。
 
-但优点集中在：
+Obsidian 的优点集中在：
 
 - 高度自定义：每个人不仅可以定制独特的外观，还可以自动化自己的工作流。无代码能力的可以享受社区带来的种种惊喜。正是因为每个人做知识管理的目的和习惯都不同，高度自定义才能满足绝大部分人的需要。可以参看 [[Obsidian优秀外观分享]]
-- 高度自动化：一切繁琐重复的操作都能自动化，当然，对于 大多数人来说还是得基于插件。
-- 可迁移性极强：本地 Markdown 可以无压力简单导入大部分笔记软件，而基于数据库的富文本则在此基础上需要做不等的迁移开发工作
-
-如果只是做简单的知识管理，并且不习惯 Obsidian 纯文本的操作逻辑，可能不是 Obsidian 的受众。
+- 高度自动化：一切繁琐重复的操作都能自动化，当然，对于大多数人来说还是得基于插件。
+- 可迁移性极强：本地 Markdown 可以无压力简单导入大部分笔记软件，而其它富文本则可能在此基础上需要做许多的迁移开发工作
+- 强大的社区生态：目前社区里有近 1000 个各式各样的插件，论坛有超过 2 万个帖子 (除去 bug 反馈)，知乎，B 站等地分布着各式各样的教程和分享，仅 Discord 就有接近 10 万人 。
 
 ## Obsidian 的使用
 
-- [[Obsidian基本使用]]
-- [[Obsidian核心插件]]
-- [[Obsidian社区插件]]
-- [[Obsidian外观]]
+对于 Obsidian 新手用户，请先参看 [[Obsidian新手指南]]。
+
+### 目录概述
+
+Obsidian 的使用需要清楚 [^1] 三个目录：
+
+1. 软件安装目录：从官网下载安装后自动创建的 ，`C:\Users\<用户名>\AppData\Local\Obsidian` ，这个目录是软件运行的必须文件，最好不要做任何修改。
+2. 软件缓存目录：同样是安装后自动创建的，Windows 电脑在 `C:\Users\<用户名>\AppData\Roaming\obsidian`，这个目录保存着软件索引缓存，全部库的地址缓存，快照，沙盒库等，最好不要做任何修改。
+3. 库目录：这在打开 Obsidian 时，会让你选择一个文件夹，该文件夹将存放所有的个人数据，包括 Obsidian 的配置，插件，主题，笔记等
+
+其中着重注意库目录，这个文件夹包含了你整个个人数据，备份这个文件夹，你将可以在任何能安装 Obsidian 的地方还原包括笔记，插件，主题，快捷键，布局等在内的所有配置。它长这样
+
+```txt
+Pkmer-Docs
+├── .obsidian   //obsidian的配置文件夹
+├── 00-关于
+├── 01-社区资源合集
+├── 02-知识管理基础
+├── 03-知识管理工具
+├── 10-Obsidian
+├── 20-深入理解知识管理
+├── 30-知识管理应用
+├── 40-开发者指南
+├── 90-其它
+├── Config
+├── License
+├── README.md
+├── Resource
+└── 主页.md
+```
+
+除了默认的 `.obsidian` 外，其余的都是你的笔记。这个文件夹各部分如下：
+
+```txt
+.obsidian
+├── app.json  //整个软件的配置
+├── appearance.json  //外观配置
+├── bookmarks.json   //bookmarks核心插件的配置
+├── canvas.json      //白板canvas的配置
+├── community-plugins.json    //社区插件列表
+├── core-plugins-migration.json  //核心插件配置
+├── core-plugins.json  //核心插件配置
+├── graph.json  //图谱配置
+├── hotkeys.json  //快捷键配置
+├── plugins  //插件目录，所有安装的第三方插件都在这，手动安装的基础
+├── themes   //主题目录，所有安装的第三方主题都在这，手动安装的基础
+└── workspace.json  //工作区配置
+```
+
+这些配置都是自动生成的，无需担心，一般仅在第三方插件或主题出问题时才会有需要操作其中的 `plugins` 和 `themes` 文件夹。
+
+[^1]: 知道这些可以理解一些高级操作，比如所有库通过符号链接共用一个配置，脚本修改库的地址缓存实现更改打开的默认库等
