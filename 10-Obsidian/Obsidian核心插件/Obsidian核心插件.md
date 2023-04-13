@@ -30,4 +30,4 @@ modified: 20230413204043
 
 ## 核心插件的当前列表
 
-![[Obsidian#Obsidian 核心插件]]
+[[Obsidian#Obsidian 核心插件]]
