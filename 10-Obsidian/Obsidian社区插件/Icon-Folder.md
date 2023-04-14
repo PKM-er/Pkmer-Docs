@@ -18,13 +18,9 @@ public: yes
 会为每个文件夹增加新的右键菜单，可以图形化给文件夹设置图标。
 
 > [!插件名片]
-
 > - 插件名称：Icon Folder
-
 > - 插件作者：FlorianWoelki
-
 > - 插件说明：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件。
-
 > - 插件项目地址：[点我跳转](https://github.com/FlorianWoelki/obsidian-icon-folder)
 
 ## 效果

@@ -18,13 +18,9 @@ public: yes
 在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
 
 > [!插件名片]
-
 > - 插件名称：Multi-Column Markdown
-
 > - 插件作者：ckRobinson
-
 > - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
-
 > - 插件项目地址：[点我跳转](https://github.com/ckRobinson/multi-column-markdown)
 
 ## 效果&特性

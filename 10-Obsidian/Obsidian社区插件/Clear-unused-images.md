@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230258
+modified: 20230414111635
 public: yes
 ---
 
@@ -18,13 +18,9 @@ public: yes
 通过删除标记笔记中不再引用的图像，帮助您保持仓库整洁和占用存储控件的节省。
 
 > [!插件名片]
-
 > - 插件名称：clear unused images
-
 > - 插件作者：Ozan Tellioglu
-
 > - 插件说明：清除笔记中不再使用的图像以节省空间。
-
 > - 插件项目地址：[点我跳转](https://github.com/ozntel/oz-clear-unused-images-obsidian)
 
 > [!Warning]

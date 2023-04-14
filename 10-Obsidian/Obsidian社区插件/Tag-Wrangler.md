@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230257
+modified: 20230414170056
 public: yes
 ---
 
@@ -22,13 +22,9 @@ public: yes
 - 不支持拖拽插入标签。
 
 > [!插件名片]
-
 > - 插件名称：Tag Wrangler
-
 > - 插件作者：PJ Eby
-
 > - 插件说明：从标签面板中重命名、合并、切换和搜索标签
-
 > - 插件项目地址：[点我跳转](https://github.com/pjeby/tag-wrangler)
 
 ## 效果&特性

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230258
+modified: 20230414111643
 public: yes
 ---
 
@@ -20,13 +20,9 @@ public: yes
 这个时候我们会更习惯**「工具栏」（Toolbar）**的形式：**只需点击按钮就能完成各种操作，并且它们通常会搭配图标，很直观。**比如备忘录应用的顶部就是工具条，部分应用还支持自定义工具条。
 
 > [!插件名片]
-
 > - 插件名称：Commander
-
 > - 插件作者：Johnny✨ and phibr0
-
 > - 插件说明：给 Obsidian 的不同功能区增加自定义快捷按钮。
-
 > - 插件项目地址：[点我跳转](https://github.com/phibr0/obsidian-commander)
 
 ## 效果&特性

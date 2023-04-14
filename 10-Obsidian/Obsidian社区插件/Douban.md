@@ -18,13 +18,9 @@ public: yes
 用来同步微信读书中书籍元信息、高亮标注，划线感想、书评等，并将这些信息转换为 markdown 格式保存到 Obsidian 的文件夹中。
 
 > [!插件名片]
-
 > - 插件名称：douban
-
 > - 插件作者：Wanxp
-
 > - 插件说明：给 Obsidian 增加和豆瓣信息同步的能力
-
 > - 插件项目地址：[点我跳转](https://github.com/Wanxp/obsidian-douban)
 
 ## 安装

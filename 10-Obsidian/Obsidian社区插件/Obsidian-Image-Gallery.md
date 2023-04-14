@@ -18,19 +18,13 @@ public: yes
 让你收集的图片，在笔记中可以按照画廊模式展示。
 
 > [!插件名片]
-
 > - 插件名称：Number Headings
-
 > - 插件作者：onlyafly
-
 > - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
-
 > - 插件项目地址：[点我跳转](https://github.com/onlyafly/number-headings-obsidian)
 
 > [!WARNING]
-
 > 需要 Obsidian 版本至少 1.1.8
-
 > 需要你自己指定仓库中的图片的路径
 
 ## 效果&特性
