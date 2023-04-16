@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230258
+modified: 20230414111628
 public: yes
 ---
 
@@ -20,13 +20,9 @@ public: yes
 点击时，它会以当天的日期作为文件名生成一个笔记，方便我们快速记录，同时它支持日模板及周模板定制，在点击日期时可以自动使用你定义的模板，方便作总结或读书笔记等有固定格式的场景。同时在日期上的悬浮点可以提示你是否创建过当天的日记以及通过点的数量来判断你笔记内容的多少。
 
 > [!插件名片]
-
 > - 插件名称：Calendar
-
 > - 插件作者：Liam Cain
-
 > - 插件说明：黑曜石的简单日历小部件
-
 > - 插件项目地址：[点我跳转](https://github.com/liamcain/obsidian-calendar-plugin)
 
 ## 特性&效果

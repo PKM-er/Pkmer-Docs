@@ -16,13 +16,9 @@ public: yes
 提供了比核心插件中的模板更加强大的能力。
 
 > [!插件名片]
-
 > 插件名称：Templater
-
 > 插件作者：SilentVoid
-
 > 插件说明：创建和使用模板
-
 > 插件项目地址：[点我跳转](https://github.com/SilentVoid13/Templater)
 
 ## 安装

@@ -20,13 +20,9 @@ public: yes
 Obsidian Projects 插件是一款项目管理插件，由于支持多种视图模式，所以你也可以把他当作一个文档陈列，或者书籍陈列架使用。
 
 > [!插件名片]
-
 > - 插件名称：Projects
-
 > - 插件作者：Marcus Olsson
-
 > - 插件说明：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
-
 > - 插件项目地址：[点我跳转](https://github.com/marcusolsson/obsidian-projects)
 
 ## 效果&特性

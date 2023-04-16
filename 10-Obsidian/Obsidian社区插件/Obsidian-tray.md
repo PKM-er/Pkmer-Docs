@@ -18,13 +18,9 @@ public: yes
 让 Obsidian 点击窗口关闭按钮后，不是直接关闭程序，而是最小化到系统托盘。
 
 > [!插件名片]
-
 > - 插件名称：obsidian tray
-
 > - 插件作者：dragonwocky
-
 > - 插件说明：快速搜索表情符号并将其插入到您的编辑器中。
-
 > - 插件项目地址：[点我跳转]([https://github.com/dragonwocky/obsidian-tray))
 
 ## 效果&特性

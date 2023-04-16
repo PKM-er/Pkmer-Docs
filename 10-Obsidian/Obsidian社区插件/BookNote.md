@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230258
+modified: 20230414111617
 public: yes
 ---
 
@@ -18,13 +18,9 @@ public: yes
 支持在 Obsidian 中阅读 PDF，并在上面标注记录在 OB 的笔记文档中。
 
 > [!插件名片]
-
 > - 插件名称：BookNote
-
 > - 插件作者：围城
-
 > - 插件说明：Obsidian 读书标注软件，适用 PDF，MS Office 等
-
 > - 插件项目地址：[点我跳转]()
 
 ## 效果&特性
