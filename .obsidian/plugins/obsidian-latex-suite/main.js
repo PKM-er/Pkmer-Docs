@@ -1424,9 +1424,9 @@ var import_obsidian7 = __toModule(require("obsidian"));
 // src/settings.ts
 var import_obsidian6 = __toModule(require("obsidian"));
 var import_view9 = __toModule(require("@codemirror/view"));
-var import_state7 = __toModule(require("@codemirror/state"));
+var import_state8 = __toModule(require("@codemirror/state"));
 
-// src/snippets_editor/extensions.ts
+// src/ui/snippets_editor/extensions.ts
 var import_view3 = __toModule(require("@codemirror/view"));
 var import_state2 = __toModule(require("@codemirror/state"));
 
@@ -4371,14 +4371,14 @@ var autoCloseTags = /* @__PURE__ */ import_view.EditorView.inputHandler.of((view
   return true;
 });
 
-// src/snippets_editor/extensions.ts
+// src/ui/snippets_editor/extensions.ts
 var import_language3 = __toModule(require("@codemirror/language"));
 var import_commands = __toModule(require("@codemirror/commands"));
 var import_autocomplete2 = __toModule(require("@codemirror/autocomplete"));
 var import_search = __toModule(require("@codemirror/search"));
 var import_lint = __toModule(require("@codemirror/lint"));
 
-// src/snippets_editor/obsidian_theme.ts
+// src/ui/snippets_editor/obsidian_theme.ts
 var import_view2 = __toModule(require("@codemirror/view"));
 var import_language2 = __toModule(require("@codemirror/language"));
 var import_highlight2 = __toModule(require("@lezer/highlight"));
@@ -4483,7 +4483,7 @@ var obsidian = [
   (0, import_language2.syntaxHighlighting)(obsidianHighlightStyle)
 ];
 
-// src/snippets_editor/extensions.ts
+// src/ui/snippets_editor/extensions.ts
 var basicSetup = [
   (0, import_view3.lineNumbers)(),
   (0, import_view3.highlightSpecialChars)(),
@@ -7410,8 +7410,10 @@ var FileSuggest = class extends TextInputSuggest {
   }
 };
 
-// src/snippets/snippet_helper_functions.ts
+// src/snippets/file_watch.ts
 var import_obsidian5 = __toModule(require("obsidian"));
+
+// src/snippets/snippet_helper_functions.ts
 var import_commands2 = __toModule(require("@codemirror/commands"));
 
 // src/snippets/marker_state_field.ts
@@ -7448,6 +7450,56 @@ var markerStateField = import_state6.StateField.define({
   },
   provide: (f) => import_view8.EditorView.decorations.from(f)
 });
+
+// src/snippets/tabstops_state_field.ts
+var import_state7 = __toModule(require("@codemirror/state"));
+var addTabstopEffect = import_state7.StateEffect.define();
+var addTabstopsEffect = import_state7.StateEffect.define();
+var consumeTabstopEffect = import_state7.StateEffect.define();
+var removeEmptyTabstopsEffect = import_state7.StateEffect.define();
+var clearAllTabstopsEffect = import_state7.StateEffect.define();
+var tabstopsStateField = import_state7.StateField.define({
+  create(editorState) {
+    return [];
+  },
+  update(oldState, transaction) {
+    let tabstopReferences = oldState;
+    for (const effect4 of transaction.effects) {
+      if (effect4.is(addTabstopEffect)) {
+        tabstopReferences.unshift(effect4.value);
+      } else if (effect4.is(addTabstopsEffect)) {
+        tabstopReferences.unshift(...effect4.value);
+      } else if (effect4.is(consumeTabstopEffect)) {
+        tabstopReferences.shift();
+      } else if (effect4.is(removeEmptyTabstopsEffect)) {
+        tabstopReferences = tabstopReferences.filter((tabstopReference) => tabstopReference.markers.length > 0);
+      } else if (effect4.is(clearAllTabstopsEffect)) {
+        tabstopReferences = [];
+      }
+    }
+    return tabstopReferences;
+  }
+});
+function addTabstop(view, tabstopReference) {
+  view.dispatch({
+    effects: [addTabstopEffect.of(tabstopReference)]
+  });
+}
+function consumeTabstop(view) {
+  view.dispatch({
+    effects: [consumeTabstopEffect.of(null)]
+  });
+}
+function removeEmptyTabstops(view) {
+  view.dispatch({
+    effects: [removeEmptyTabstopsEffect.of(null)]
+  });
+}
+function clearAllTabstops(view) {
+  view.dispatch({
+    effects: [clearAllTabstopsEffect.of(null)]
+  });
+}
 
 // src/snippets/snippet_helper_functions.ts
 var import_json5 = __toModule(require_dist());
@@ -7493,17 +7545,6 @@ function validateSnippets(snippets2) {
   }
   return valid;
 }
-function isInFolder(file, dir) {
-  let cur = file.parent;
-  let cnt = 0;
-  while (cur && !cur.isRoot() && cnt < 100) {
-    if (cur.path === dir.path)
-      return true;
-    cur = cur.parent;
-    cnt++;
-  }
-  return false;
-}
 var snippetInvertedEffects = import_commands2.invertedEffects.of((tr) => {
   const effects = [];
   for (const effect4 of tr.effects) {
@@ -7523,6 +7564,63 @@ var snippetInvertedEffects = import_commands2.invertedEffects.of((tr) => {
   }
   return effects;
 });
+var handleUndoRedo = (update) => {
+  const undoTr = update.transactions.find((tr) => tr.isUserEvent("undo"));
+  const redoTr = update.transactions.find((tr) => tr.isUserEvent("redo"));
+  for (const tr of update.transactions) {
+    for (const effect4 of tr.effects) {
+      if (effect4.is(startSnippet)) {
+        if (redoTr) {
+          (0, import_commands2.redo)(update.view);
+          (0, import_commands2.redo)(update.view);
+          (0, import_commands2.redo)(update.view);
+        }
+      } else if (effect4.is(undidEndSnippet)) {
+        if (undoTr) {
+          (0, import_commands2.undo)(update.view);
+          (0, import_commands2.undo)(update.view);
+          (0, import_commands2.undo)(update.view);
+        }
+      }
+    }
+  }
+  if (undoTr) {
+    removeEmptyTabstops(update.view);
+  }
+};
+
+// src/snippets/file_watch.ts
+function onFileChange(plugin, file) {
+  return __async(this, null, function* () {
+    if (!plugin.settings.loadSnippetsFromFile)
+      return;
+    if (!(file instanceof import_obsidian5.TFile))
+      return;
+    if (file.path === plugin.settings.snippetsFileLocation || fileIsInSnippetsFolder(plugin, file)) {
+      try {
+        yield debouncedSetSnippetsFromFileOrFolder(plugin);
+      } catch (e) {
+        new import_obsidian5.Notice("Failed to load snippets.", 5e3);
+      }
+    }
+  });
+}
+var onFileCreate = (plugin, file) => {
+  if (!plugin.settings.loadSnippetsFromFile)
+    return;
+  if (file instanceof import_obsidian5.TFile && fileIsInSnippetsFolder(plugin, file)) {
+    debouncedSetSnippetsFromFileOrFolder(plugin);
+  }
+};
+var onFileDelete = (plugin, file) => {
+  if (!plugin.settings.loadSnippetsFromFile)
+    return;
+  const snippetDir = plugin.app.vault.getAbstractFileByPath(plugin.settings.snippetsFileLocation);
+  const isFolder = snippetDir instanceof import_obsidian5.TFolder;
+  if (file instanceof import_obsidian5.TFile && (isFolder && file.path.contains(snippetDir.path))) {
+    debouncedSetSnippetsFromFileOrFolder(plugin);
+  }
+};
 function getSnippetsWithinFolder(folder) {
   return __async(this, null, function* () {
     const snippets2 = [];
@@ -7543,7 +7641,25 @@ function getSnippetsWithinFolder(folder) {
     return snippets2;
   });
 }
+function isInFolder(file, dir) {
+  let cur = file.parent;
+  let cnt = 0;
+  while (cur && !cur.isRoot() && cnt < 100) {
+    if (cur.path === dir.path)
+      return true;
+    cur = cur.parent;
+    cnt++;
+  }
+  return false;
+}
+var fileIsInSnippetsFolder = (plugin, file) => {
+  const snippetDir = plugin.app.vault.getAbstractFileByPath(plugin.settings.snippetsFileLocation);
+  const isFolder = snippetDir instanceof import_obsidian5.TFolder;
+  return isFolder && isInFolder(file, snippetDir);
+};
 var debouncedSetSnippetsFromFileOrFolder = (0, import_obsidian5.debounce)((plugin, path) => __async(void 0, null, function* () {
+  if (!plugin.settings.loadSnippetsFromFile)
+    return;
   if (!path)
     path = plugin.settings.snippetsFileLocation;
   let snippets2;
@@ -7563,6 +7679,7 @@ var debouncedSetSnippetsFromFileOrFolder = (0, import_obsidian5.debounce)((plugi
 var DEFAULT_SETTINGS = {
   snippets: DEFAULT_SNIPPETS,
   snippetsEnabled: true,
+  removeSnippetWhitespace: true,
   loadSnippetsFromFile: false,
   snippetsFileLocation: "",
   concealEnabled: false,
@@ -7638,7 +7755,7 @@ var LatexSuiteSettingTab = class extends import_obsidian6.PluginSettingTab {
     const reset = new import_obsidian6.ButtonComponent(buttonsDiv);
     reset.setIcon("switch").setTooltip("Reset to default snippets").onClick(() => __async(this, null, function* () {
       new ConfirmationModal(this.plugin.app, "Are you sure? This will delete any custom snippets you have written.", (button) => button.setButtonText("Reset to default snippets").setWarning(), () => __async(this, null, function* () {
-        this.snippetsEditor.setState(import_state7.EditorState.create({ doc: DEFAULT_SNIPPETS, extensions }));
+        this.snippetsEditor.setState(import_state8.EditorState.create({ doc: DEFAULT_SNIPPETS, extensions }));
         updateValidityIndicator(true);
         this.plugin.setSnippets(DEFAULT_SNIPPETS);
         this.plugin.settings.snippets = DEFAULT_SNIPPETS;
@@ -7651,7 +7768,7 @@ var LatexSuiteSettingTab = class extends import_obsidian6.PluginSettingTab {
         const value = `[
 
 ]`;
-        this.snippetsEditor.setState(import_state7.EditorState.create({ doc: value, extensions }));
+        this.snippetsEditor.setState(import_state8.EditorState.create({ doc: value, extensions }));
         updateValidityIndicator(true);
         this.plugin.setSnippets(value);
         this.plugin.settings.snippets = value;
@@ -7781,6 +7898,10 @@ var LatexSuiteSettingTab = class extends import_obsidian6.PluginSettingTab {
       this.plugin.settings.wordDelimiters = value;
       yield this.plugin.saveSettings();
     })));
+    new import_obsidian6.Setting(containerEl).setName("Remove trailing whitespaces in snippets in inline math").setDesc("Whether to remove trailing whitespaces when expanding snippets at the end of inline math blocks.").addToggle((toggle) => toggle.setValue(this.plugin.settings.removeSnippetWhitespace).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.removeSnippetWhitespace = value;
+      yield this.plugin.saveSettings();
+    })));
   }
 };
 var ConfirmationModal = class extends import_obsidian6.Modal {
@@ -7799,31 +7920,52 @@ var ConfirmationModal = class extends import_obsidian6.Modal {
 };
 function createSnippetsEditor(content, extensions) {
   const view = new import_view9.EditorView({
-    state: import_state7.EditorState.create({ doc: content, extensions })
+    state: import_state8.EditorState.create({ doc: content, extensions })
   });
   return view;
 }
 
 // src/main.ts
 var import_view11 = __toModule(require("@codemirror/view"));
-var import_state9 = __toModule(require("@codemirror/state"));
-var import_commands4 = __toModule(require("@codemirror/commands"));
+var import_state11 = __toModule(require("@codemirror/state"));
 
-// src/snippets/snippets.ts
-var SNIPPET_VARIABLES = {
-  "${GREEK}": "alpha|beta|gamma|Gamma|delta|Delta|epsilon|varepsilon|zeta|eta|theta|Theta|iota|kappa|lambda|Lambda|mu|nu|xi|Xi|pi|Pi|rho|sigma|Sigma|tau|upsilon|varphi|phi|Phi|chi|psi|Psi|omega|Omega",
-  "${SYMBOL}": "hbar|ell|nabla|infty|dots|leftrightarrow|mapsto|setminus|mid|cap|cup|land|lor|subseteq|subset|implies|impliedby|iff|exists|equiv|square|neq|geq|leq|gg|ll|sim|simeq|approx|propto|cdot|oplus|otimes|times|star|perp|det|exp|ln|log|partial",
-  "${SHORT_SYMBOL}": "to|pm|mp"
-};
-var EXCLUSIONS = {
-  "([A-Za-z])(\\d)": { openSymbol: "\\pu{", closeSymbol: "}" },
-  "->": { openSymbol: "\\ce{", closeSymbol: "}" }
-};
-
-// src/snippets/snippet_manager.ts
+// src/snippets/snippet_management.ts
 var import_view10 = __toModule(require("@codemirror/view"));
-var import_state8 = __toModule(require("@codemirror/state"));
+var import_state10 = __toModule(require("@codemirror/state"));
 var import_commands3 = __toModule(require("@codemirror/commands"));
+
+// src/snippets/snippet_queue_state_field.ts
+var import_state9 = __toModule(require("@codemirror/state"));
+var queueSnippetEffect = import_state9.StateEffect.define();
+var clearSnippetQueueEffect = import_state9.StateEffect.define();
+var snippetQueueStateField = import_state9.StateField.define({
+  create(editorState) {
+    return [];
+  },
+  update(oldState, transaction) {
+    let snippetQueue = oldState;
+    for (const effect4 of transaction.effects) {
+      if (effect4.is(queueSnippetEffect)) {
+        snippetQueue.push(effect4.value);
+      } else if (effect4.is(clearSnippetQueueEffect)) {
+        snippetQueue = [];
+      }
+    }
+    return snippetQueue;
+  }
+});
+function queueSnippet(view, snippet) {
+  view.dispatch({
+    effects: [queueSnippetEffect.of(snippet)]
+  });
+}
+function clearSnippetQueue(view) {
+  view.dispatch({
+    effects: [clearSnippetQueueEffect.of(null)]
+  });
+}
+
+// src/snippets/snippet_management.ts
 var COLORS = ["lightskyblue", "orange", "lime", "pink", "cornsilk", "magenta", "navajowhite"];
 var TabstopReference = class {
   constructor(view, colorIndex) {
@@ -7855,7 +7997,7 @@ var TabstopReference = class {
     const ranges = [];
     while (iter.value) {
       if (iter.value.spec.reference === this) {
-        ranges.push(import_state8.EditorSelection.range(iter.from, iter.to));
+        ranges.push(import_state10.EditorSelection.range(iter.from, iter.to));
       }
       iter.next();
     }
@@ -7867,237 +8009,544 @@ var TabstopReference = class {
     });
   }
 };
-var SnippetManager = class {
-  constructor() {
-    this.currentTabstopReferences = [];
-    this.snippetsToAdd = [];
+function getColorIndex(view) {
+  const currentTabstopReferences = view.state.field(tabstopsStateField);
+  let colorIndex = 0;
+  for (; colorIndex < COLORS.length; colorIndex++) {
+    if (!currentTabstopReferences.find((p) => p.getColorIndex() === colorIndex))
+      break;
   }
-  getColorIndex() {
-    let colorIndex = 0;
-    for (; colorIndex < COLORS.length; colorIndex++) {
-      if (!this.currentTabstopReferences.find((p) => p.getColorIndex() === colorIndex))
+  if (colorIndex === COLORS.length) {
+    colorIndex = Math.floor(Math.random() * COLORS.length);
+  }
+  return colorIndex;
+}
+function getColorClass(colorIndex) {
+  const prefix = "latex-suite-suggestion-placeholder";
+  const markerClass = prefix + " " + prefix + colorIndex;
+  return markerClass;
+}
+function getTabstopsFromSnippet(view, start2, replacement) {
+  const tabstops = [];
+  const text = view.state.doc.toString();
+  for (let i = start2; i < start2 + replacement.length; i++) {
+    if (!(text.charAt(i) === "$")) {
+      continue;
+    }
+    let number = parseInt(text.charAt(i + 1));
+    const tabstopStart = i;
+    let tabstopEnd = tabstopStart + 2;
+    let tabstopReplacement = "";
+    if (isNaN(number)) {
+      if (!(text.charAt(i + 1) === "{" && text.charAt(i + 3) === ":"))
+        continue;
+      number = parseInt(text.charAt(i + 2));
+      if (isNaN(number))
+        continue;
+      const closingIndex = findMatchingBracket(text, i + 1, "{", "}", false, start2 + replacement.length);
+      if (closingIndex === -1)
+        continue;
+      tabstopReplacement = text.slice(i + 4, closingIndex);
+      tabstopEnd = closingIndex + 1;
+      i = closingIndex;
+    }
+    const tabstop = { number, from: tabstopStart, to: tabstopEnd, replacement: tabstopReplacement };
+    tabstops.push(tabstop);
+  }
+  return tabstops;
+}
+function expandSnippets(view) {
+  const snippetsToAdd = view.state.field(snippetQueueStateField);
+  if (snippetsToAdd.length === 0)
+    return false;
+  const originalDoc = view.state.doc;
+  const originalDocLength = view.state.doc.length;
+  const snippets2 = snippetsToAdd;
+  const changes = snippets2;
+  const keyPresses = [];
+  for (const snippet of snippets2) {
+    if (snippet.keyPressed && snippet.keyPressed.length === 1) {
+      const prevChar = view.state.doc.sliceString(snippet.to - 1, snippet.to);
+      const from = snippet.to === 0 ? 0 : snippet.to - 1;
+      keyPresses.push({ from, to: snippet.to, insert: prevChar + snippet.keyPressed });
+    }
+  }
+  view.dispatch({
+    changes: keyPresses,
+    annotations: import_commands3.isolateHistory.of("full")
+  });
+  const undoKeyPresses = import_state10.ChangeSet.of(keyPresses, originalDocLength).invert(originalDoc);
+  const changesAsChangeSet = import_state10.ChangeSet.of(changes, originalDocLength);
+  const combinedChanges = undoKeyPresses.compose(changesAsChangeSet);
+  view.dispatch({
+    changes: combinedChanges,
+    effects: startSnippet.of(null)
+  });
+  const changeSet = import_state10.ChangeSet.of(changes, originalDocLength);
+  const oldPositions = snippets2.map((change) => change.from);
+  const newPositions = oldPositions.map((pos) => changeSet.mapPos(pos));
+  let tabstopsToAdd = [];
+  for (let i = 0; i < snippets2.length; i++) {
+    tabstopsToAdd = tabstopsToAdd.concat(getTabstopsFromSnippet(view, newPositions[i], snippets2[i].insert));
+  }
+  if (tabstopsToAdd.length === 0) {
+    clearSnippetQueue(view);
+    return true;
+  }
+  insertTabstopReferences(view, tabstopsToAdd);
+  insertTabstopsTransaction(view, tabstopsToAdd);
+  clearSnippetQueue(view);
+  return true;
+}
+function insertTabstopReferences(view, tabstops, append = false) {
+  const numbers = Array.from(new Set(tabstops.map((tabstop) => tabstop.number))).sort().reverse();
+  if (!append) {
+    const colorIndex = getColorIndex(view);
+    for (let i = 0; i < numbers.length; i++) {
+      const reference2 = new TabstopReference(view, colorIndex);
+      addTabstop(view, reference2);
+    }
+  }
+}
+function insertTabstopsTransaction(view, tabstops) {
+  const effects = tabstops.map((tabstop) => {
+    const currentTabstopReferences2 = view.state.field(tabstopsStateField);
+    const reference2 = currentTabstopReferences2[tabstop.number];
+    const mark = import_view10.Decoration.mark({
+      inclusive: true,
+      attributes: {},
+      class: getColorClass(reference2.colorIndex),
+      reference: reference2
+    }).range(tabstop.from, tabstop.to);
+    return addMark.of(mark);
+  });
+  view.dispatch({
+    effects
+  });
+  const changes = tabstops.map((tabstop) => {
+    return { from: tabstop.from, to: tabstop.to, insert: tabstop.replacement };
+  });
+  view.dispatch({
+    changes
+  });
+  const currentTabstopReferences = view.state.field(tabstopsStateField);
+  const firstRef = currentTabstopReferences[0];
+  const selection = import_state10.EditorSelection.create(firstRef.ranges);
+  view.dispatch({
+    selection,
+    effects: endSnippet.of(null)
+  });
+  resetCursorBlink();
+  firstRef.removeFromEditor();
+  removeOnlyTabstop(view);
+}
+function selectTabstopReference(reference2) {
+  const view = reference2.view;
+  setSelections(view, reference2.ranges);
+  reference2.removeFromEditor();
+  removeOnlyTabstop(view);
+}
+function removeOnlyTabstop(view) {
+  const currentTabstopReferences = view.state.field(tabstopsStateField);
+  if (currentTabstopReferences.length === 1) {
+    let shouldClear = true;
+    const reference2 = currentTabstopReferences[0];
+    const markers = reference2.markers;
+    for (const marker of markers) {
+      if (!(marker.from === marker.to)) {
+        shouldClear = false;
         break;
+      }
     }
-    if (colorIndex === COLORS.length) {
-      colorIndex = Math.floor(Math.random() * COLORS.length);
+    if (shouldClear)
+      clearAllTabstops(reference2.view);
+  }
+}
+function isInsideATabstop(pos, view) {
+  const currentTabstopReferences = view.state.field(tabstopsStateField);
+  if (currentTabstopReferences.length === 0)
+    return false;
+  let isInside = false;
+  for (const tabstopReference of currentTabstopReferences) {
+    for (const range of tabstopReference.ranges) {
+      if (pos >= range.from && pos <= range.to) {
+        isInside = true;
+        break;
+      }
     }
-    return colorIndex;
+    if (isInside)
+      break;
   }
-  getColorClass(colorIndex) {
-    const prefix = "latex-suite-suggestion-placeholder";
-    const markerClass = prefix + " " + prefix + colorIndex;
-    return markerClass;
+  return isInside;
+}
+function isInsideLastTabstop(view) {
+  const currentTabstopReferences = view.state.field(tabstopsStateField);
+  if (currentTabstopReferences.length === 0)
+    return false;
+  let isInside = false;
+  const lastTabstopRef = currentTabstopReferences.slice(-1)[0];
+  const ranges = lastTabstopRef.ranges;
+  const lastRange = ranges[0];
+  const sel = view.state.selection.main;
+  isInside = sel.eq(lastRange);
+  return isInside;
+}
+function consumeAndGotoNextTabstop(view) {
+  let currentTabstopReferences = view.state.field(tabstopsStateField);
+  if (currentTabstopReferences.length === 0)
+    return false;
+  const oldCursor = view.state.selection.main;
+  consumeTabstop(view);
+  currentTabstopReferences = view.state.field(tabstopsStateField);
+  if (currentTabstopReferences.length === 0) {
+    setCursor(view, oldCursor.to);
+    return true;
   }
-  getTabstopsFromSnippet(view, start2, replacement) {
-    const tabstops = [];
-    const text = view.state.doc.toString();
-    for (let i = start2; i < start2 + replacement.length; i++) {
-      if (!(text.charAt(i) === "$")) {
+  const newTabstop = currentTabstopReferences[0];
+  const newMarkers = newTabstop.markers;
+  const cursor = view.state.selection.main;
+  const newMarker = newMarkers[0];
+  if (newMarkers.length === 0)
+    return consumeAndGotoNextTabstop(view);
+  if (newTabstop.markers.length === 1) {
+    if (newMarker.from <= cursor.from && newMarker.to >= cursor.to) {
+      setCursor(view, newMarker.to);
+    } else {
+      selectTabstopReference(newTabstop);
+    }
+  } else {
+    selectTabstopReference(newTabstop);
+  }
+  const newCursor = view.state.selection.main;
+  if (oldCursor.eq(newCursor))
+    return consumeAndGotoNextTabstop(view);
+  return true;
+}
+function removeAllTabstops(view) {
+  if (view) {
+    view.dispatch({
+      effects: clearMarks.of(null)
+    });
+    clearAllTabstops(view);
+  }
+}
+
+// src/snippets/snippets.ts
+var SNIPPET_VARIABLES = {
+  "${GREEK}": "alpha|beta|gamma|Gamma|delta|Delta|epsilon|varepsilon|zeta|eta|theta|Theta|iota|kappa|lambda|Lambda|mu|nu|xi|Xi|pi|Pi|rho|sigma|Sigma|tau|upsilon|varphi|phi|Phi|chi|psi|Psi|omega|Omega",
+  "${SYMBOL}": "hbar|ell|nabla|infty|dots|leftrightarrow|mapsto|setminus|mid|cap|cup|land|lor|subseteq|subset|implies|impliedby|iff|exists|equiv|square|neq|geq|leq|gg|ll|sim|simeq|approx|propto|cdot|oplus|otimes|times|star|perp|det|exp|ln|log|partial",
+  "${SHORT_SYMBOL}": "to|pm|mp"
+};
+var EXCLUSIONS = {
+  "([A-Za-z])(\\d)": { openSymbol: "\\pu{", closeSymbol: "}" },
+  "->": { openSymbol: "\\ce{", closeSymbol: "}" }
+};
+
+// src/features/auto_enlarge_brackets.ts
+var autoEnlargeBrackets = (view, plugin) => {
+  if (!plugin.settings.autoEnlargeBrackets)
+    return;
+  const result = getEquationBounds(view);
+  if (!result)
+    return false;
+  const { start: start2, end: end2 } = result;
+  const text = view.state.doc.toString();
+  const left2 = "\\left";
+  const right2 = "\\right";
+  for (let i = start2; i < end2; i++) {
+    const brackets2 = { "(": ")", "[": "]", "\\{": "\\}", "\\langle": "\\rangle", "\\lvert": "\\rvert" };
+    const openBrackets = Object.keys(brackets2);
+    let found = false;
+    let open = "";
+    for (const openBracket of openBrackets) {
+      if (text.slice(i, i + openBracket.length) === openBracket) {
+        found = true;
+        open = openBracket;
+        break;
+      }
+    }
+    if (!found)
+      continue;
+    const bracketSize = open.length;
+    const close = brackets2[open];
+    const j = findMatchingBracket(text, i, open, close, false, end2);
+    if (j === -1)
+      continue;
+    if (text.slice(i - left2.length, i) === left2 && text.slice(j - right2.length, j) === right2)
+      continue;
+    const bracketContents = text.slice(i + 1, j);
+    const containsTrigger = plugin.autoEnlargeBracketsTriggers.some((word) => bracketContents.contains("\\" + word));
+    if (!containsTrigger) {
+      i = j;
+      continue;
+    }
+    queueSnippet(view, { from: i, to: i + bracketSize, insert: left2 + open + " " });
+    queueSnippet(view, { from: j, to: j + bracketSize, insert: " " + right2 + close });
+  }
+  expandSnippets(view);
+};
+
+// src/features/run_snippets.ts
+var runSnippets = (view, key, withinMath, ranges, plugin) => {
+  let shouldAutoEnlargeBrackets = false;
+  for (const range of ranges) {
+    const result = runSnippetCursor(view, key, withinMath, range, plugin);
+    if (result.shouldAutoEnlargeBrackets)
+      shouldAutoEnlargeBrackets = true;
+  }
+  const success = expandSnippets(view);
+  if (shouldAutoEnlargeBrackets) {
+    autoEnlargeBrackets(view, plugin);
+  }
+  return success;
+};
+var runSnippetCursor = (view, key, withinMath, range, plugin) => {
+  const { from, to } = range;
+  const sel = view.state.sliceDoc(from, to);
+  for (const snippet of plugin.snippets) {
+    let effectiveLine = view.state.sliceDoc(0, to);
+    if (snippet.options.contains("m") && !withinMath) {
+      continue;
+    } else if (snippet.options.contains("t") && withinMath) {
+      continue;
+    }
+    if (snippet.options.contains("A") || snippet.replacement.contains("${VISUAL}")) {
+      if (!(key.length === 1))
+        continue;
+      effectiveLine += key;
+    } else if (!(key === "Tab")) {
+      continue;
+    }
+    if (snippet.trigger in EXCLUSIONS) {
+      const environment = EXCLUSIONS[snippet.trigger];
+      if (isInsideEnvironment(view, to, environment))
+        continue;
+    }
+    const result = checkSnippet(snippet, effectiveLine, range, sel);
+    if (result === null)
+      continue;
+    const triggerPos = result.triggerPos;
+    if (snippet.options.contains("w")) {
+      const prevChar = view.state.sliceDoc(triggerPos - 1, triggerPos);
+      const nextChar = view.state.sliceDoc(to, to + 1);
+      const wordDelimiters = plugin.settings.wordDelimiters.replace("\\n", "\n");
+      const prevCharIsWordDelimiter = wordDelimiters.contains(prevChar);
+      const nextCharIsWordDelimiter = wordDelimiters.contains(nextChar);
+      if (!(prevCharIsWordDelimiter && nextCharIsWordDelimiter)) {
         continue;
       }
-      let number = parseInt(text.charAt(i + 1));
-      const tabstopStart = i;
-      let tabstopEnd = tabstopStart + 2;
-      let tabstopReplacement = "";
-      if (isNaN(number)) {
-        if (!(text.charAt(i + 1) === "{" && text.charAt(i + 3) === ":"))
-          continue;
-        number = parseInt(text.charAt(i + 2));
-        if (isNaN(number))
-          continue;
-        const closingIndex = findMatchingBracket(text, i + 1, "{", "}", false, start2 + replacement.length);
-        if (closingIndex === -1)
-          continue;
-        tabstopReplacement = text.slice(i + 4, closingIndex);
-        tabstopEnd = closingIndex + 1;
-        i = closingIndex;
-      }
-      const tabstop = { number, from: tabstopStart, to: tabstopEnd, replacement: tabstopReplacement };
-      tabstops.push(tabstop);
     }
-    return tabstops;
-  }
-  queueSnippet(snippet) {
-    this.snippetsToAdd.push(snippet);
-  }
-  clearSnippetQueue() {
-    this.snippetsToAdd = [];
-  }
-  expandSnippets(view) {
-    if (this.snippetsToAdd.length === 0)
-      return false;
-    const originalDoc = view.state.doc;
-    const originalDocLength = view.state.doc.length;
-    const snippets2 = this.snippetsToAdd;
-    const changes = snippets2;
-    const keyPresses = [];
-    for (const snippet of snippets2) {
-      if (snippet.keyPressed && snippet.keyPressed.length === 1) {
-        const prevChar = view.state.doc.sliceString(snippet.to - 1, snippet.to);
-        const from = snippet.to === 0 ? 0 : snippet.to - 1;
-        keyPresses.push({ from, to: snippet.to, insert: prevChar + snippet.keyPressed });
-      }
-    }
-    view.dispatch({
-      changes: keyPresses,
-      annotations: import_commands3.isolateHistory.of("full")
-    });
-    const undoKeyPresses = import_state8.ChangeSet.of(keyPresses, originalDocLength).invert(originalDoc);
-    const changesAsChangeSet = import_state8.ChangeSet.of(changes, originalDocLength);
-    const combinedChanges = undoKeyPresses.compose(changesAsChangeSet);
-    view.dispatch({
-      changes: combinedChanges,
-      effects: startSnippet.of(null)
-    });
-    const changeSet = import_state8.ChangeSet.of(changes, originalDocLength);
-    const oldPositions = snippets2.map((change) => change.from);
-    const newPositions = oldPositions.map((pos) => changeSet.mapPos(pos));
-    let tabstopsToAdd = [];
-    for (let i = 0; i < snippets2.length; i++) {
-      tabstopsToAdd = tabstopsToAdd.concat(this.getTabstopsFromSnippet(view, newPositions[i], snippets2[i].insert));
-    }
-    if (tabstopsToAdd.length === 0) {
-      this.snippetsToAdd = [];
-      return true;
-    }
-    this.insertTabstopReferences(view, tabstopsToAdd);
-    this.insertTabstopsTransaction(view, tabstopsToAdd);
-    this.snippetsToAdd = [];
-    return true;
-  }
-  insertTabstopReferences(view, tabstops, append = false) {
-    const numbers = Array.from(new Set(tabstops.map((tabstop) => tabstop.number))).sort().reverse();
-    if (!append) {
-      const colorIndex = this.getColorIndex();
-      for (let i = 0; i < numbers.length; i++) {
-        const reference2 = new TabstopReference(view, colorIndex);
-        this.currentTabstopReferences.unshift(reference2);
-      }
-    }
-  }
-  insertTabstopsTransaction(view, tabstops) {
-    const effects = tabstops.map((tabstop) => {
-      const reference2 = this.currentTabstopReferences[tabstop.number];
-      const mark = import_view10.Decoration.mark({
-        inclusive: true,
-        attributes: {},
-        class: this.getColorClass(reference2.colorIndex),
-        reference: reference2
-      }).range(tabstop.from, tabstop.to);
-      return addMark.of(mark);
-    });
-    view.dispatch({
-      effects
-    });
-    const changes = tabstops.map((tabstop) => {
-      return { from: tabstop.from, to: tabstop.to, insert: tabstop.replacement };
-    });
-    view.dispatch({
-      changes
-    });
-    const firstRef = this.currentTabstopReferences[0];
-    const selection = import_state8.EditorSelection.create(firstRef.ranges);
-    view.dispatch({
-      selection,
-      effects: endSnippet.of(null)
-    });
-    resetCursorBlink();
-    firstRef.removeFromEditor();
-    this.removeOnlyTabstop();
-  }
-  selectTabstopReference(reference2) {
-    setSelections(reference2.view, reference2.ranges);
-    reference2.removeFromEditor();
-    this.removeOnlyTabstop();
-  }
-  removeOnlyTabstop() {
-    if (this.currentTabstopReferences.length === 1) {
-      let shouldClear = true;
-      const reference2 = this.currentTabstopReferences[0];
-      const markers = reference2.markers;
-      for (const marker of markers) {
-        if (!(marker.from === marker.to)) {
-          shouldClear = false;
-          break;
-        }
-      }
-      if (shouldClear)
-        this.clearAllTabstops(reference2.view);
-    }
-  }
-  isInsideATabstop(pos) {
-    if (this.currentTabstopReferences.length === 0)
-      return false;
-    let isInside = false;
-    for (const tabstopReference of this.currentTabstopReferences) {
-      for (const range of tabstopReference.ranges) {
-        if (pos >= range.from && pos <= range.to) {
-          isInside = true;
-          break;
-        }
-      }
-      if (isInside)
-        break;
-    }
-    return isInside;
-  }
-  isInsideLastTabstop(view) {
-    if (this.currentTabstopReferences.length === 0)
-      return false;
-    let isInside = false;
-    const lastTabstopRef = this.currentTabstopReferences.slice(-1)[0];
-    const ranges = lastTabstopRef.ranges;
-    const lastRange = ranges[0];
-    const sel = view.state.selection.main;
-    isInside = sel.eq(lastRange);
-    return isInside;
-  }
-  consumeAndGotoNextTabstop(view) {
-    if (this.currentTabstopReferences.length === 0)
-      return false;
-    const oldCursor = view.state.selection.main;
-    this.currentTabstopReferences.shift();
-    if (this.currentTabstopReferences.length === 0) {
-      setCursor(view, oldCursor.to);
-      return true;
-    }
-    const newTabstop = this.currentTabstopReferences[0];
-    const newMarkers = newTabstop.markers;
-    const cursor = view.state.selection.main;
-    const newMarker = newMarkers[0];
-    if (newMarkers.length === 0)
-      return this.consumeAndGotoNextTabstop(view);
-    if (newTabstop.markers.length === 1) {
-      if (newMarker.from <= cursor.from && newMarker.to >= cursor.to) {
-        setCursor(view, newMarker.to);
+    let replacement = result.replacement;
+    if (withinMath && plugin.settings.removeSnippetWhitespace) {
+      let spaceIndex = 0;
+      if (replacement.endsWith(" ")) {
+        spaceIndex = -1;
       } else {
-        this.selectTabstopReference(newTabstop);
+        const lastThreeChars = replacement.slice(-3);
+        const lastChar = lastThreeChars.slice(-1);
+        if (lastThreeChars.slice(0, 2) === " $" && !isNaN(parseInt(lastChar))) {
+          spaceIndex = -3;
+        }
       }
-    } else {
-      this.selectTabstopReference(newTabstop);
+      if (spaceIndex != 0) {
+        const inlineMath = isWithinInlineEquation(view);
+        if (inlineMath) {
+          if (spaceIndex === -1) {
+            replacement = replacement.trimEnd();
+          } else if (spaceIndex === -3) {
+            replacement = replacement.slice(0, -3) + replacement.slice(-2);
+          }
+        }
+      }
     }
-    const newCursor = view.state.selection.main;
-    if (oldCursor.eq(newCursor))
-      return this.consumeAndGotoNextTabstop(view);
+    const start2 = triggerPos;
+    queueSnippet(view, { from: start2, to, insert: replacement, keyPressed: key });
+    const containsTrigger = plugin.autoEnlargeBracketsTriggers.some((word) => replacement.contains("\\" + word));
+    return { success: true, shouldAutoEnlargeBrackets: containsTrigger };
+  }
+  return { success: false, shouldAutoEnlargeBrackets: false };
+};
+var checkSnippet = (snippet, effectiveLine, range, sel) => {
+  let triggerPos;
+  let trigger = snippet.trigger;
+  trigger = insertSnippetVariables(trigger);
+  let replacement = snippet.replacement;
+  if (snippet.replacement.contains("${VISUAL}")) {
+    if (!sel)
+      return null;
+    if (!(effectiveLine.slice(-trigger.length) === trigger))
+      return null;
+    triggerPos = range.from;
+    replacement = snippet.replacement.replace("${VISUAL}", sel);
+  } else if (sel) {
+    return null;
+  } else if (!snippet.options.contains("r")) {
+    if (!(effectiveLine.slice(-trigger.length) === trigger))
+      return null;
+    triggerPos = effectiveLine.length - trigger.length;
+  } else {
+    const regex = new RegExp(trigger + "$");
+    const result = regex.exec(effectiveLine);
+    if (!result) {
+      return null;
+    }
+    for (let i = 1; i < result.length; i++) {
+      replacement = replacement.replaceAll("[[" + (i - 1) + "]]", result[i]);
+    }
+    triggerPos = result.index;
+  }
+  return { triggerPos, replacement };
+};
+var insertSnippetVariables = (trigger) => {
+  for (const [variable, replacement] of Object.entries(SNIPPET_VARIABLES)) {
+    trigger = trigger.replace(variable, replacement);
+  }
+  return trigger;
+};
+
+// src/features/autofraction.ts
+var runAutoFraction = (view, ranges, plugin) => {
+  for (const range of ranges) {
+    runAutoFractionCursor(view, range, plugin);
+  }
+  const success = expandSnippets(view);
+  if (success) {
+    autoEnlargeBrackets(view, plugin);
+  }
+  return success;
+};
+var runAutoFractionCursor = (view, range, plugin) => {
+  const { from, to } = range;
+  for (const env of plugin.autofractionExcludedEnvs) {
+    if (isInsideEnvironment(view, to, env)) {
+      return false;
+    }
+  }
+  const result = getEquationBounds(view);
+  if (!result)
+    return false;
+  const eqnStart = result.start;
+  let curLine = view.state.sliceDoc(0, to);
+  let start2 = eqnStart;
+  if (from != to) {
+    start2 = from;
+  } else {
+    const regex = new RegExp("(" + SNIPPET_VARIABLES["${GREEK}"] + ") ([^ ])", "g");
+    curLine = curLine.replace(regex, "$1#$2");
+    for (let i = curLine.length - 1; i >= eqnStart; i--) {
+      const curChar = curLine.charAt(i);
+      if ([")", "]", "}"].contains(curChar)) {
+        const closeBracket = curChar;
+        const openBracket = getOpenBracket(closeBracket);
+        const j = findMatchingBracket(curLine, i, openBracket, closeBracket, true);
+        if (j === -1)
+          return false;
+        i = j;
+        if (i < eqnStart) {
+          start2 = eqnStart;
+          break;
+        }
+      }
+      if (" $([{\n".concat(plugin.settings.autofractionBreakingChars).contains(curChar)) {
+        start2 = i + 1;
+        break;
+      }
+    }
+  }
+  let numerator = view.state.sliceDoc(start2, to);
+  if (numerator === "")
+    return false;
+  if (curLine.charAt(start2) === "(" && curLine.charAt(to - 1) === ")") {
+    numerator = numerator.slice(1, -1);
+  }
+  const replacement = "\\frac{" + numerator + "}{$0}$1";
+  queueSnippet(view, { from: start2, to, insert: replacement, keyPressed: "/" });
+  return true;
+};
+
+// src/features/tabout.ts
+var tabout = (view, withinEquation) => {
+  if (!withinEquation)
+    return false;
+  const pos = view.state.selection.main.to;
+  const result = getEquationBounds(view);
+  if (!result)
+    return false;
+  const end2 = result.end;
+  const d = view.state.doc;
+  const text = d.toString();
+  const rangle = "\\rangle";
+  for (let i = pos; i < end2; i++) {
+    if (["}", ")", "]", ">", "|"].contains(text.charAt(i))) {
+      setCursor(view, i + 1);
+      return true;
+    } else if (text.slice(i, i + rangle.length) === rangle) {
+      setCursor(view, i + rangle.length);
+      return true;
+    }
+  }
+  const textBtwnCursorAndEnd = d.sliceString(pos, end2);
+  const atEnd = textBtwnCursorAndEnd.trim().length === 0;
+  if (!atEnd)
+    return false;
+  const inlineMath = d.sliceString(end2, end2 + 2) != "$$";
+  if (inlineMath) {
+    setCursor(view, end2 + 1);
+  } else {
+    const dollarLine = d.lineAt(end2 + 2);
+    if (dollarLine.number === d.lines) {
+      replaceRange(view, dollarLine.to, dollarLine.to, "\n");
+    }
+    setCursor(view, dollarLine.to + 1);
+    const line = d.lineAt(pos);
+    replaceRange(view, line.from, line.to, line.text.trim());
+  }
+  return true;
+};
+var shouldTaboutByCloseBracket = (view, keyPressed) => {
+  const sel = view.state.selection.main;
+  if (!sel.empty)
+    return;
+  const pos = sel.from;
+  const c = getCharacterAtPos(view, pos);
+  const brackets2 = [")", "]", "}"];
+  if (c === keyPressed && brackets2.contains(c)) {
     return true;
-  }
-  tidyTabstopReferences() {
-    this.currentTabstopReferences = this.currentTabstopReferences.filter((tabstopReference) => tabstopReference.markers.length > 0);
-  }
-  clearAllTabstops(view) {
-    if (view) {
-      view.dispatch({
-        effects: clearMarks.of(null)
-      });
-    }
-    this.currentTabstopReferences = [];
-  }
-  onunload() {
-    this.clearAllTabstops();
+  } else {
+    return false;
   }
 };
 
-// src/editor_commands.ts
+// src/features/matrix_shortcuts.ts
+var runMatrixShortcuts = (view, key, shiftKey, pos, matrixShortcutsEnvNames) => {
+  let isInsideAnEnv = false;
+  for (const envName of matrixShortcutsEnvNames) {
+    const env = { openSymbol: "\\begin{" + envName + "}", closeSymbol: "\\end{" + envName + "}" };
+    isInsideAnEnv = isInsideEnvironment(view, pos, env);
+    if (isInsideAnEnv)
+      break;
+  }
+  if (!isInsideAnEnv)
+    return false;
+  if (key === "Tab") {
+    view.dispatch(view.state.replaceSelection(" & "));
+    return true;
+  } else if (key === "Enter") {
+    if (shiftKey) {
+      const d = view.state.doc;
+      const nextLineNo = d.lineAt(pos).number + 1;
+      const nextLine = d.line(nextLineNo);
+      setCursor(view, nextLine.to);
+    } else {
+      view.dispatch(view.state.replaceSelection(" \\\\\n"));
+    }
+    return true;
+  } else {
+    return false;
+  }
+};
+
+// src/features/editor_commands.ts
 function boxCurrentEquation(view) {
   const result = getEquationBounds(view);
   if (!result)
@@ -8152,22 +8601,58 @@ function getSelectEquationCommand() {
     }
   };
 }
-var editorCommands = [
-  getBoxEquationCommand(),
-  getSelectEquationCommand()
-];
+function getEnableAllFeaturesCommand(plugin) {
+  return {
+    id: "latex-suite-enable-all-features",
+    name: "Enable all features",
+    callback: () => __async(this, null, function* () {
+      plugin.settings.snippetsEnabled = true;
+      plugin.settings.autofractionEnabled = true;
+      plugin.settings.matrixShortcutsEnabled = true;
+      plugin.settings.taboutEnabled = true;
+      plugin.settings.autoEnlargeBrackets = true;
+      yield plugin.saveSettings();
+    })
+  };
+}
+function getDisableAllFeaturesCommand(plugin) {
+  return {
+    id: "latex-suite-disable-all-features",
+    name: "Disable all features",
+    callback: () => __async(this, null, function* () {
+      plugin.settings.snippetsEnabled = false;
+      plugin.settings.autofractionEnabled = false;
+      plugin.settings.matrixShortcutsEnabled = false;
+      plugin.settings.taboutEnabled = false;
+      plugin.settings.autoEnlargeBrackets = false;
+      yield plugin.saveSettings();
+    })
+  };
+}
+var getEditorCommands = (plugin) => {
+  return [
+    getBoxEquationCommand(),
+    getSelectEquationCommand(),
+    getEnableAllFeaturesCommand(plugin),
+    getDisableAllFeaturesCommand(plugin)
+  ];
+};
 
 // src/main.ts
 var LatexSuitePlugin = class extends import_obsidian7.Plugin {
   constructor() {
     super(...arguments);
     this.cursorTriggeredByChange = false;
-    this.shouldAutoEnlargeBrackets = false;
     this.editorExtensions = [];
-    this.fileIsInSnippetsFolder = (file) => {
-      const snippetDir = this.app.vault.getAbstractFileByPath(this.settings.snippetsFileLocation);
-      const isFolder = snippetDir instanceof import_obsidian7.TFolder;
-      return isFolder && isInFolder(file, snippetDir);
+    this.handleUpdate = (update) => {
+      if (update.docChanged) {
+        this.handleDocChange();
+      }
+      if (update.selectionSet) {
+        const pos = update.state.selection.main.head;
+        this.handleCursorActivity(update.view, pos);
+      }
+      handleUndoRedo(update);
     };
     this.handleDocChange = () => {
       this.cursorTriggeredByChange = true;
@@ -8177,62 +8662,14 @@ var LatexSuitePlugin = class extends import_obsidian7.Plugin {
         this.cursorTriggeredByChange = false;
         return;
       }
-      if (!this.snippetManager.isInsideATabstop(pos) || this.snippetManager.isInsideLastTabstop(view)) {
-        this.snippetManager.clearAllTabstops(view);
-      }
-    };
-    this.handleUndoRedo = (update) => {
-      const undoTr = update.transactions.find((tr) => tr.isUserEvent("undo"));
-      const redoTr = update.transactions.find((tr) => tr.isUserEvent("redo"));
-      for (const tr of update.transactions) {
-        for (const effect4 of tr.effects) {
-          if (effect4.is(startSnippet)) {
-            if (redoTr) {
-              (0, import_commands4.redo)(update.view);
-              (0, import_commands4.redo)(update.view);
-              (0, import_commands4.redo)(update.view);
-            }
-          } else if (effect4.is(undidEndSnippet)) {
-            if (undoTr) {
-              (0, import_commands4.undo)(update.view);
-              (0, import_commands4.undo)(update.view);
-              (0, import_commands4.undo)(update.view);
-            }
-          }
-        }
-      }
-      if (undoTr) {
-        this.snippetManager.tidyTabstopReferences();
+      if (!isInsideATabstop(pos, view) || isInsideLastTabstop(view)) {
+        removeAllTabstops(view);
       }
     };
     this.addEditorCommands = () => {
-      for (const command of editorCommands) {
+      for (const command of getEditorCommands(this)) {
         this.addCommand(command);
       }
-      this.addCommand({
-        id: "latex-suite-enable-all-features",
-        name: "Enable all features",
-        callback: () => __async(this, null, function* () {
-          this.settings.snippetsEnabled = true;
-          this.settings.autofractionEnabled = true;
-          this.settings.matrixShortcutsEnabled = true;
-          this.settings.taboutEnabled = true;
-          this.settings.autoEnlargeBrackets = true;
-          yield this.saveSettings();
-        })
-      });
-      this.addCommand({
-        id: "latex-suite-disable-all-features",
-        name: "Disable all features",
-        callback: () => __async(this, null, function* () {
-          this.settings.snippetsEnabled = false;
-          this.settings.autofractionEnabled = false;
-          this.settings.matrixShortcutsEnabled = false;
-          this.settings.taboutEnabled = false;
-          this.settings.autoEnlargeBrackets = false;
-          yield this.saveSettings();
-        })
-      });
     };
     this.onKeydown = (event, view) => {
       const success = this.handleKeydown(event.key, event.shiftKey, event.ctrlKey || event.metaKey, view);
@@ -8246,429 +8683,82 @@ var LatexSuitePlugin = class extends import_obsidian7.Plugin {
       const withinEquation = isWithinEquation(view);
       let withinMath = false;
       if (withinEquation)
-        withinMath = !isInsideEnvironment(view, pos, { openSymbol: "\\text{", closeSymbol: "}" });
+        withinMath = !(isInsideEnvironment(view, pos, { openSymbol: "\\text{", closeSymbol: "}" }) || isInsideEnvironment(view, pos, { openSymbol: "\\tag{", closeSymbol: "}" }));
       let success = false;
       if (this.settings.snippetsEnabled) {
         if (!ctrlKey) {
           try {
-            success = this.runSnippets(view, key, withinMath, ranges);
+            success = runSnippets(view, key, withinMath, ranges, this);
             if (success)
               return true;
           } catch (e) {
-            this.snippetManager.clearSnippetQueue();
+            clearSnippetQueue(view);
             console.error(e);
           }
         }
       }
-      const shouldTaboutByCloseBracket = this.shouldTaboutByCloseBracket(view, key);
-      if (key === "Tab" || shouldTaboutByCloseBracket) {
+      const taboutByCloseBracket = shouldTaboutByCloseBracket(view, key);
+      if (key === "Tab" || taboutByCloseBracket) {
         success = this.handleTabstops(view);
         if (success)
           return true;
       }
       if (this.settings.autofractionEnabled && withinMath) {
         if (key === "/") {
-          success = this.runAutoFraction(view, ranges);
+          success = runAutoFraction(view, ranges, this);
           if (success)
             return true;
         }
       }
       if (this.settings.matrixShortcutsEnabled && withinMath) {
         if (["Tab", "Enter"].contains(key)) {
-          success = this.runMatrixShortcuts(view, key, shiftKey, pos);
+          success = runMatrixShortcuts(view, key, shiftKey, pos, this.matrixShortcutsEnvNames);
           if (success)
             return true;
         }
       }
       if (this.settings.taboutEnabled) {
         if (key === "Tab") {
-          success = this.tabout(view, withinEquation);
+          success = tabout(view, withinEquation);
           if (success)
             return true;
         }
       }
       return false;
     };
-    this.checkSnippet = (snippet, effectiveLine, range, sel) => {
-      let triggerPos;
-      let trigger = snippet.trigger;
-      trigger = this.insertSnippetVariables(trigger);
-      let replacement = snippet.replacement;
-      if (snippet.replacement.contains("${VISUAL}")) {
-        if (!sel)
-          return null;
-        if (!(effectiveLine.slice(-trigger.length) === trigger))
-          return null;
-        triggerPos = range.from;
-        replacement = snippet.replacement.replace("${VISUAL}", sel);
-      } else if (sel) {
-        return null;
-      } else if (!snippet.options.contains("r")) {
-        if (!(effectiveLine.slice(-trigger.length) === trigger))
-          return null;
-        triggerPos = effectiveLine.length - trigger.length;
-      } else {
-        const regex = new RegExp(trigger + "$");
-        const result = regex.exec(effectiveLine);
-        if (!result) {
-          return null;
-        }
-        for (let i = 1; i < result.length; i++) {
-          replacement = replacement.replaceAll("[[" + (i - 1) + "]]", result[i]);
-        }
-        triggerPos = result.index;
-      }
-      return { triggerPos, replacement };
-    };
-    this.insertSnippetVariables = (trigger) => {
-      for (const [variable, replacement] of Object.entries(SNIPPET_VARIABLES)) {
-        trigger = trigger.replace(variable, replacement);
-      }
-      return trigger;
-    };
-    this.runSnippets = (view, key, withinMath, ranges) => {
-      this.shouldAutoEnlargeBrackets = false;
-      for (const range of ranges) {
-        this.runSnippetCursor(view, key, withinMath, range);
-      }
-      const success = this.snippetManager.expandSnippets(view);
-      if (this.shouldAutoEnlargeBrackets) {
-        this.autoEnlargeBrackets(view);
-      }
-      return success;
-    };
-    this.runSnippetCursor = (view, key, withinMath, range) => {
-      const { from, to } = range;
-      const sel = view.state.sliceDoc(from, to);
-      for (const snippet of this.snippets) {
-        let effectiveLine = view.state.sliceDoc(0, to);
-        if (snippet.options.contains("m") && !withinMath) {
-          continue;
-        } else if (snippet.options.contains("t") && withinMath) {
-          continue;
-        }
-        if (snippet.options.contains("A") || snippet.replacement.contains("${VISUAL}")) {
-          if (!(key.length === 1))
-            continue;
-          effectiveLine += key;
-        } else if (!(key === "Tab")) {
-          continue;
-        }
-        if (snippet.trigger in EXCLUSIONS) {
-          const environment = EXCLUSIONS[snippet.trigger];
-          if (isInsideEnvironment(view, to, environment))
-            continue;
-        }
-        const result = this.checkSnippet(snippet, effectiveLine, range, sel);
-        if (result === null)
-          continue;
-        const triggerPos = result.triggerPos;
-        if (snippet.options.contains("w")) {
-          const prevChar = view.state.sliceDoc(triggerPos - 1, triggerPos);
-          const nextChar = view.state.sliceDoc(to, to + 1);
-          const wordDelimiters = this.settings.wordDelimiters.replace("\\n", "\n");
-          const prevCharIsWordDelimiter = wordDelimiters.contains(prevChar);
-          const nextCharIsWordDelimiter = wordDelimiters.contains(nextChar);
-          if (!(prevCharIsWordDelimiter && nextCharIsWordDelimiter)) {
-            continue;
-          }
-        }
-        let replacement = result.replacement;
-        if (withinMath) {
-          let spaceIndex = 0;
-          if (replacement.endsWith(" ")) {
-            spaceIndex = -1;
-          } else {
-            const lastThreeChars = replacement.slice(-3);
-            const lastChar = lastThreeChars.slice(-1);
-            if (lastThreeChars.slice(0, 2) === " $" && !isNaN(parseInt(lastChar))) {
-              spaceIndex = -3;
-            }
-          }
-          if (spaceIndex != 0) {
-            const inlineMath = isWithinInlineEquation(view);
-            if (inlineMath) {
-              if (spaceIndex === -1) {
-                replacement = replacement.trimEnd();
-              } else if (spaceIndex === -3) {
-                replacement = replacement.slice(0, -3) + replacement.slice(-2);
-              }
-            }
-          }
-        }
-        const start2 = triggerPos;
-        this.snippetManager.queueSnippet({ from: start2, to, insert: replacement, keyPressed: key });
-        const containsTrigger = this.autoEnlargeBracketsTriggers.some((word) => replacement.contains("\\" + word));
-        if (containsTrigger)
-          this.shouldAutoEnlargeBrackets = true;
-        return true;
-      }
-      return false;
-    };
     this.handleTabstops = (view) => {
-      const success = this.snippetManager.consumeAndGotoNextTabstop(view);
+      const success = consumeAndGotoNextTabstop(view);
       return success;
-    };
-    this.runAutoFraction = (view, ranges) => {
-      for (const range of ranges) {
-        this.runAutoFractionCursor(view, range);
-      }
-      const success = this.snippetManager.expandSnippets(view);
-      if (success) {
-        this.autoEnlargeBrackets(view);
-      }
-      return success;
-    };
-    this.runAutoFractionCursor = (view, range) => {
-      const { from, to } = range;
-      for (const env of this.autofractionExcludedEnvs) {
-        if (isInsideEnvironment(view, to, env)) {
-          return false;
-        }
-      }
-      const result = getEquationBounds(view);
-      if (!result)
-        return false;
-      const eqnStart = result.start;
-      let curLine = view.state.sliceDoc(0, to);
-      let start2 = eqnStart;
-      if (from != to) {
-        start2 = from;
-      } else {
-        const regex = new RegExp("(" + SNIPPET_VARIABLES["${GREEK}"] + ") ([^ ])", "g");
-        curLine = curLine.replace(regex, "$1#$2");
-        for (let i = curLine.length - 1; i >= eqnStart; i--) {
-          const curChar = curLine.charAt(i);
-          if ([")", "]", "}"].contains(curChar)) {
-            const closeBracket = curChar;
-            const openBracket = getOpenBracket(closeBracket);
-            const j = findMatchingBracket(curLine, i, openBracket, closeBracket, true);
-            if (j === -1)
-              return false;
-            i = j;
-            if (i < eqnStart) {
-              start2 = eqnStart;
-              break;
-            }
-          }
-          if (" $([{\n".concat(this.settings.autofractionBreakingChars).contains(curChar)) {
-            start2 = i + 1;
-            break;
-          }
-        }
-      }
-      let numerator = view.state.sliceDoc(start2, to);
-      if (numerator === "")
-        return false;
-      if (curLine.charAt(start2) === "(" && curLine.charAt(to - 1) === ")") {
-        numerator = numerator.slice(1, -1);
-      }
-      const replacement = "\\frac{" + numerator + "}{$0}$1";
-      this.snippetManager.queueSnippet({ from: start2, to, insert: replacement, keyPressed: "/" });
-      return true;
-    };
-    this.autoEnlargeBrackets = (view) => {
-      if (!this.settings.autoEnlargeBrackets)
-        return;
-      const result = getEquationBounds(view);
-      if (!result)
-        return false;
-      const { start: start2, end: end2 } = result;
-      const text = view.state.doc.toString();
-      const left2 = "\\left";
-      const right2 = "\\right";
-      for (let i = start2; i < end2; i++) {
-        const brackets2 = { "(": ")", "[": "]", "\\{": "\\}", "\\langle": "\\rangle", "\\lvert": "\\rvert" };
-        const openBrackets = Object.keys(brackets2);
-        let found = false;
-        let open = "";
-        for (const openBracket of openBrackets) {
-          if (text.slice(i, i + openBracket.length) === openBracket) {
-            found = true;
-            open = openBracket;
-            break;
-          }
-        }
-        if (!found)
-          continue;
-        const bracketSize = open.length;
-        const close = brackets2[open];
-        const j = findMatchingBracket(text, i, open, close, false, end2);
-        if (j === -1)
-          continue;
-        if (text.slice(i - left2.length, i) === left2 && text.slice(j - right2.length, j) === right2)
-          continue;
-        const bracketContents = text.slice(i + 1, j);
-        const containsTrigger = this.autoEnlargeBracketsTriggers.some((word) => bracketContents.contains("\\" + word));
-        if (!containsTrigger) {
-          i = j;
-          continue;
-        }
-        this.snippetManager.queueSnippet({ from: i, to: i + bracketSize, insert: left2 + open + " " });
-        this.snippetManager.queueSnippet({ from: j, to: j + bracketSize, insert: " " + right2 + close });
-      }
-      this.snippetManager.expandSnippets(view);
-    };
-    this.tabout = (view, withinEquation) => {
-      if (!withinEquation)
-        return false;
-      const pos = view.state.selection.main.to;
-      const result = getEquationBounds(view);
-      if (!result)
-        return false;
-      const end2 = result.end;
-      const d = view.state.doc;
-      const text = d.toString();
-      const rangle = "\\rangle";
-      for (let i = pos; i < end2; i++) {
-        if (["}", ")", "]", ">", "|"].contains(text.charAt(i))) {
-          setCursor(view, i + 1);
-          return true;
-        } else if (text.slice(i, i + rangle.length) === rangle) {
-          setCursor(view, i + rangle.length);
-          return true;
-        }
-      }
-      const textBtwnCursorAndEnd = d.sliceString(pos, end2);
-      const atEnd = textBtwnCursorAndEnd.trim().length === 0;
-      if (!atEnd)
-        return false;
-      const inlineMath = d.sliceString(end2, end2 + 2) != "$$";
-      if (inlineMath) {
-        setCursor(view, end2 + 1);
-      } else {
-        const dollarLine = d.lineAt(end2 + 2);
-        if (dollarLine.number === d.lines) {
-          replaceRange(view, dollarLine.to, dollarLine.to, "\n");
-        }
-        setCursor(view, dollarLine.to + 1);
-        const line = d.lineAt(pos);
-        replaceRange(view, line.from, line.to, line.text.trim());
-      }
-      return true;
-    };
-    this.runMatrixShortcuts = (view, key, shiftKey, pos) => {
-      let isInsideAnEnv = false;
-      for (const envName of this.matrixShortcutsEnvNames) {
-        const env = { openSymbol: "\\begin{" + envName + "}", closeSymbol: "\\end{" + envName + "}" };
-        isInsideAnEnv = isInsideEnvironment(view, pos, env);
-        if (isInsideAnEnv)
-          break;
-      }
-      if (!isInsideAnEnv)
-        return false;
-      if (key === "Tab") {
-        view.dispatch(view.state.replaceSelection(" & "));
-        return true;
-      } else if (key === "Enter") {
-        if (shiftKey) {
-          const d = view.state.doc;
-          const nextLineNo = d.lineAt(pos).number + 1;
-          const nextLine = d.line(nextLineNo);
-          setCursor(view, nextLine.to);
-        } else {
-          view.dispatch(view.state.replaceSelection(" \\\\\n"));
-        }
-        return true;
-      } else {
-        return false;
-      }
-    };
-    this.shouldTaboutByCloseBracket = (view, keyPressed) => {
-      const sel = view.state.selection.main;
-      if (!sel.empty)
-        return;
-      const pos = sel.from;
-      const c = getCharacterAtPos(view, pos);
-      const brackets2 = [")", "]", "}"];
-      if (c === keyPressed && brackets2.contains(c)) {
-        return true;
-      } else {
-        return false;
-      }
     };
   }
   onload() {
     return __async(this, null, function* () {
-      var _a;
       yield this.loadSettings();
-      this.registerEditorExtension(import_state9.Prec.highest(import_view11.keymap.of([
-        {
-          key: "Tab",
-          run: (view) => {
-            const success = this.handleKeydown("Tab", false, false, view);
-            return success;
-          }
-        },
-        {
-          key: "Enter",
-          run: (view) => {
-            const success = this.handleKeydown("Enter", false, false, view);
-            return success;
-          },
-          shift: (view) => {
-            const success = this.handleKeydown("Enter", true, false, view);
-            return success;
-          }
-        }
-      ])));
-      if ((_a = this.app.vault.config) == null ? void 0 : _a.legacyEditor) {
-        const message = "Obsidian Latex Suite: This plugin does not support the legacy editor. Switch to Live Preview mode to use this plugin.";
-        new import_obsidian7.Notice(message, 1e5);
-        console.log(message);
-        return;
-      }
       this.addSettingTab(new LatexSuiteSettingTab(this.app, this));
-      this.snippetManager = new SnippetManager();
-      this.registerEditorExtension(markerStateField);
-      this.registerEditorExtension(snippetInvertedEffects);
-      this.registerEditorExtension(import_state9.Prec.highest(import_view11.EditorView.domEventHandlers({
+      this.legacyEditorWarning();
+      this.registerEditorExtension(import_state11.Prec.highest(import_view11.EditorView.domEventHandlers({
         "keydown": this.onKeydown
       })));
-      this.registerEditorExtension(import_view11.EditorView.updateListener.of((update) => {
-        if (update.docChanged) {
-          this.handleDocChange();
-        }
-        if (update.selectionSet) {
-          const pos = update.state.selection.main.head;
-          this.handleCursorActivity(update.view, pos);
-        }
-        this.handleUndoRedo(update);
-      }));
+      this.registerEditorExtension([markerStateField, tabstopsStateField, snippetQueueStateField, snippetInvertedEffects]);
+      this.registerEditorExtension(import_view11.EditorView.updateListener.of(this.handleUpdate));
       this.registerEditorExtension((0, import_view11.tooltips)({ position: "absolute" }));
       this.registerEditorExtension(this.editorExtensions);
+      this.registerEvent(this.app.vault.on("modify", (file) => onFileChange(this, file)));
+      this.registerEvent(this.app.vault.on("delete", (file) => onFileDelete(this, file)));
+      this.registerEvent(this.app.vault.on("create", (file) => onFileCreate(this, file)));
       this.addEditorCommands();
-      this.registerEvent(this.app.vault.on("modify", this.onFileChange.bind(this)));
-      this.registerEvent(this.app.vault.on("delete", (file) => {
-        const snippetDir = this.app.vault.getAbstractFileByPath(this.settings.snippetsFileLocation);
-        const isFolder = snippetDir instanceof import_obsidian7.TFolder;
-        if (file instanceof import_obsidian7.TFile && (isFolder && file.path.contains(snippetDir.path))) {
-          debouncedSetSnippetsFromFileOrFolder(this);
-        }
-      }));
-      this.registerEvent(this.app.vault.on("create", (file) => {
-        if (file instanceof import_obsidian7.TFile && this.fileIsInSnippetsFolder(file)) {
-          debouncedSetSnippetsFromFileOrFolder(this);
-        }
-      }));
     });
   }
   onunload() {
-    this.snippetManager.onunload();
   }
-  onFileChange(file) {
-    return __async(this, null, function* () {
-      if (!this.settings.loadSnippetsFromFile) {
-        return;
-      }
-      if (file.path === this.settings.snippetsFileLocation || this.fileIsInSnippetsFolder(file)) {
-        try {
-          yield debouncedSetSnippetsFromFileOrFolder(this);
-        } catch (e) {
-          new import_obsidian7.Notice("Failed to load snippets.", 5e3);
-        }
-      }
-    });
+  legacyEditorWarning() {
+    var _a;
+    if ((_a = this.app.vault.config) == null ? void 0 : _a.legacyEditor) {
+      const message = "Obsidian Latex Suite: This plugin does not support the legacy editor. Switch to Live Preview mode to use this plugin.";
+      new import_obsidian7.Notice(message, 1e5);
+      console.log(message);
+      return;
+    }
   }
   enableExtension(extension) {
     this.editorExtensions.push(extension);

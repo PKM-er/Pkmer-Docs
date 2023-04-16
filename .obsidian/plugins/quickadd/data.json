@@ -70,7 +70,7 @@
   "devMode": false,
   "templateFolderPath": "Config/QuickAdd",
   "announceUpdates": true,
-  "version": "0.17.1",
+  "version": "0.20.1",
   "migrations": {
     "migrateToMacroIDFromEmbeddedMacro": true,
     "useQuickAddTemplateFolder": true,

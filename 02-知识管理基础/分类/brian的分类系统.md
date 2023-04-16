@@ -13,7 +13,7 @@ modified: 20230414093606
 
 翻译自：[Cataloging, Classification, Information Science, PKMs and YOU! - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/cataloging-classification-information-science-pkms-and-you/10071)
 
-自从整个 PKM/B（base）事情开始流行以来，关于如何组织事情的讨论一直没完没了的。系统似乎一直在推荐，从 PARA 到 Johnny Decimal，再到 folksonomies 等等。这是一个非常迷人和有趣的时代，看到这种发展也非常令人兴奋。然而，在所有这些来回和争论中丢失的一件事是，有一整个领域专门用于知识的表示组织编目和分类，这个领域已经存在了数百年并且拥有数千人的经验涉及人员：图书馆和信息科学。据我所知，这些新颖的 PKM 或 PKB 组织系统几乎都没有从图书馆和信息科学的投入中受益。 LIS 领域可以提供很多东西来帮助所有 PKM 人员。我将在下面稍微讨论一下。但你为什么要相信我？我有什么资格？这两个都是好问题！我叫 Brian M. Watson（这是我的 [推特](https://twitter.com/brimwats) )。我是一位在不列颠哥伦比亚大学信息学院的一位在读博士生。我在画廊、档案馆、图书馆、博物馆和特藏 (GLAMS) 学习公平编目（equitable cataloging），我在印第安纳大学布卢明顿分校获得图书馆学硕士学位，在那里我学习元数据和数字人文学科。我还拥有德鲁大学的文学硕士学位，主要研究书籍的历史和性行为。换句话说，我研究人们如何组织事物，以及机构如何以更合乎道德的方式进行组织。但这不是我今天来这里的目的。今天我要谈谈我的系统
+自从整个 PKM/B（base）事情开始流行以来，关于如何组织东西的讨论一直没完没了的。系统似乎还一直在推荐给我，从 PARA 到 Johnny Decimal，再到 folksonomies 等等。这是一个非常迷人和有趣的时代，看到这种发展也非常令人兴奋。然而，在所有这些来回和争论中丢失的一件事是，有一整个领域专门用于知识的表示组织编目和分类，这个领域已经存在了数百年并且拥有数千人的有经验人士：图书馆和信息科学。据我所知，这些新诞生的 PKM 或 PKB 组织系统几乎都没有从图书馆和信息科学中受益。 LIS 领域可以提供很多东西来帮助所有 PKM 人员。我将在下面稍稍讨论一下。但你为什么要相信我呢？我有什么资格？这两个都是好问题！我叫 Brian M. Watson（这是我的 [推特](https://twitter.com/brimwats) )。我是一位在不列颠哥伦比亚大学信息学院的一位在读博士生。我在画廊、档案馆、图书馆、博物馆和特藏 (GLAMS) 学习公平编目（equitable cataloging），我在印第安纳大学布卢明顿分校获得图书馆学硕士学位，在那里我学习元数据和数字人文学科。我还拥有德鲁大学的文学硕士学位，主要研究书籍的历史和性行为。换句话说，我研究人们如何组织事物，以及机构如何以更合乎道德的方式进行组织。但这不是我今天来这里的目的。今天我要谈谈我的系统
 
 首先，是一些定义：
 
@@ -39,7 +39,7 @@ modified: 20230414093606
 
 ![编目](https://forum.obsidian.md/uploads/default/original/2X/2/2279218ed797990dceaee08453943e17291b6e25.png)
 
-当我看到像内容地图 (moc：Map of Content) 这样带有标签定义的东西时，我看到一个受控的词汇表跳跃和跳过分层分类系统。 不受控制的词汇表更像是你在 librarything 上看到的混乱的标记系统（或者可能是你组织不良的 PKM）
+当我看到像内容地图 (moc：Map of Content) 这样带有标签定义的东西时，我看到一个受控的词汇表跳过了分层分类系统。 不受控制的词汇表更像是你在图书馆里看到的混乱的标记系统（或者可能是组织不良的 PKM）
 
 ![MOC组织不良的PKM](https://forum.obsidian.md/uploads/default/original/2X/2/29238f67ebcf48dd46112ff21ff422dc1ccd5c58.jpeg)
 
@@ -84,7 +84,7 @@ Tiago Forte 的 [PARA Method: A Universal System for Organizing Digital Informat
 
 我在窗口中使用目录 Opus 来用颜色标记某些区域。在我的 Zotero，我的 Airtable，我的 Google 日历和我的文档中，颜色是相似的。这意味着我一眼就能看出它来自我生活的哪个领域。
 
-在其余部分，我们只关注 PKB 文件夹。
+其余部分，我们只关注 PKB 文件夹。
 
 ### Johnny 十进制
 
@@ -163,9 +163,9 @@ Y — Literature Includes Literary history, Bibliography, and the arts that have
 Yf — Fiction To save time it is not unusual to omit the class-mark of the class Fiction, calling for and charging novels by the book-mark alone.
 ```
 
-从中获得灵感，当我与尼克 - 米洛交谈时，我正在做一个非常个性化的版本。
+从中获得灵感，当我与Nick Milo交谈时，我正在做一个非常个性化的版本。
 
-如果你最近一直在关注尼克 - 米洛的 LYT 工具包，你会注意到从杜威十进制分类法中跳出来的一大步。尼克听取了人们对杜威是一个种族主义和性别歧视的大人物的担忧，即使在他的时代也是如此。(资料来源一：[one](https://slate.com/human-interest/2019/09/melvil-dewey-american-library-association-award-name-change.html)，二：[two](https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/80557-ala-votes-to-strip-melvil-dewey-s-name-from-its-top-honor.html)，三：[three](https://www.smithsonianmag.com/smart-news/melvil-deweys-name-stripped-top-library-award-180972514/)）。
+如果你最近一直在关注Nick Milo的 LYT 工具包，你会注意到从杜威十进制分类法中跳出来的一大步。尼克听取了人们对杜威是一个种族主义和性别歧视的大人物的担忧，即使在他的时代也是如此。(资料来源一：[one](https://slate.com/human-interest/2019/09/melvil-dewey-american-library-association-award-name-change.html)，二：[two](https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/80557-ala-votes-to-strip-melvil-dewey-s-name-from-its-top-honor.html)，三：[three](https://www.smithsonianmag.com/smart-news/melvil-deweys-name-stripped-top-library-award-180972514/)）。
 
 在与尼克进行了一次愉快的交谈后，我们共同合作，将 UDC 和 Cutter 分类结合起来，形成了现在的 LYT：
 
