@@ -49,7 +49,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ## 插件列表
 
-- [[Advanced-Obsidian-URI]]
+- [[obsidian-advanced-uri]]
 - [[Advanced-Tables]]
 - [[Anki]]
 - [[Better-footnote]]
