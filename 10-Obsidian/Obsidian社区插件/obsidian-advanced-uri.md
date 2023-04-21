@@ -1,17 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Advanced Obsidian URI
+title: obsidian-advanced-uri
 description: 
 tags: 
 author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230420190216
-public: yes
+modified: 20230421131830
 ---
 
-# Obsidian 插件：Advanced Obsidian URI
+# obsidian-advanced-uri
 
 青年：大师，不得了了，看我发现了什么！
 
@@ -277,17 +276,17 @@ obsidian://advanced-uri?vault=testNote&filepath=emoji&block=20230419
 
 禅师：搜索关键词：Advanced URI，即可显示 obsidian-advanced-uri 插件自带的一些命令：
 
-![[Pasted image 20230420123946.png]]
+![Pasted image 20230420123946](https://s1.vika.cn/space/2023/04/21/70b26435f9f7416a9aac3f4f9bfd4e9d)
 
 青年：我看到了第一条命令：“copy URI for command”，是否就可以一键得到 URI？
 
 禅师：点击第一条命令“copy URI for command”，会弹出第二面板，输入框提示“Select a file to be opened before executing the command”，在执行命令前选择一个文档，这也就对应 Advanced-URI 中的参数 filepath 的值。我们选择 emoji 文档。
 
-![[Pasted image 20230420124637.png]]
+![Pasted image 20230420124637](https://s1.vika.cn/space/2023/04/21/ee38db2030bf40928e782acdc5ededbd)
 
 然后弹出第三个面板，这个面板就是我们使用 Ctrl+P 调出的命令面板，在命令面板中输入“导出为 PDF”，点击搜索出的命令。
 
-![[Pasted image 20230420124810.png]]
+![Pasted image 20230420124810](https://s1.vika.cn/space/2023/04/21/cbbf09ef4d02415ab8d0750795d3d991)
 
 这时会有一个弹出框提醒 URI 已经复制进剪切板了：Advanced URI copied to your clipboard，接下来我们使用这个 URI，粘贴在文档中的内容如下：
 
@@ -335,7 +334,7 @@ uid: 1111
 
 大师在阿苏的电脑上一顿操作猛如虎，最后在 obsidian-advanced-uri 插件的设置选项里发现了问题的根源，原来 obsidian-advanced-uri 插件默认在 frontmatter 里将 uid 设置为 id，并且打开“Use UID instead of file paths”。
 
-![[Pasted image 20230420155119.png]]
+![Pasted image 20230420155119](https://s1.vika.cn/space/2023/04/21/0c6d6409a13f41fd93450a8c99bbe0ef)
 
 阿苏将 frontmatter 里的 uid 改为 id，链接就可以成功跳转了。
 
@@ -369,7 +368,7 @@ id: 1111
 
 禅师：这个 mode 选项是在选择命令的时候是可选择的，如图所示，我们可以选择直接打开，也可以选择 append 方式或者 prepend 方式，更重要的是还可以在开始的输入框内输入需要添加的内容。
 
-![[Pasted image 20230420164515.png]]
+![Pasted image 20230420164515](https://s1.vika.cn/space/2023/04/21/1a0418f8a10441d1a6c3e06f2fbe76f1)
 
 青年：这种可视化的 Advanced URI 书写方式太贴心了，我注意到命令“copy URI for file with options”是不是也是可以像这样既能输入内容又能选择编辑位置？
 

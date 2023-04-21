@@ -52,7 +52,7 @@ modified: 20230413182941
 
 - [[Obsidian社区插件]]：介绍绝大多数优秀的社区插件，给出使用说明及应用场景
 - [[Obsidian社区插件的安装]]
-- [[Advanced-Obsidian-URI]]
+- [[obsidian-advanced-uri]]
 - [[Advanced-Tables]]
 - [[Anki]]
 - [[Better-footnote]]
