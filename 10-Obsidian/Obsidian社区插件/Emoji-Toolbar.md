@@ -16,13 +16,9 @@ public: yes
 ## 概述
 
 > [!插件名片]
-
 > - 插件名称：Emoji Toolbar
-
 > - 插件作者：oliveryh
-
 > - 插件说明：快速搜索表情符号并将其插入到您的编辑器中。
-
 > - 插件项目地址：[点我跳转](https://github.com/oliveryh/obsidian-emoji-toolbar)
 
 ## 效果&特性

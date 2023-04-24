@@ -13,7 +13,7 @@ aliases: []
 
 # 2022-12-10 Obsidian Roundup
 
-#【Obsidian Roundup】2022-12-10 停更一周
+# Obsidian Roundup 2022-12-10 停更一周
 
 [Obsidian 原文链接](https://www.obsidianroundup.org/2022-12-10/?ref=obsidian-roundup-newsletter)
 

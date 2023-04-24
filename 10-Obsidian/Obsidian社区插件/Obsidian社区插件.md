@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230257
+modified: 20230411172049
 public: yes
 ---
 
@@ -49,7 +49,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ## 插件列表
 
-- [[Advanced-Obsidian-URI]]
+- [[obsidian-advanced-uri]]
+- [[obsidian-textgenerator-plugin]]
 - [[Advanced-Tables]]
 - [[Anki]]
 - [[Better-footnote]]
@@ -71,7 +72,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[Excalidraw]]
 - [[Fast-Image-Cleaner]]
 - [[Find-unlinked-files]]
-- [[Floating-TOC]]
+- [[floating-toc]]
 - [[Force-note-view-mode]]
 - [[Hider]]
 - [[Homepage]]
@@ -105,10 +106,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[Reminder]]
 - [[Scroll-to-top]]
 - [[Sortable]]
-- [[Style-settings]]
+- [[obsidian-style-settings]]
 - [[Surfing]]
 - [[table-相关]]
-- [[Table-Enhancer]]
+- [[ob-table-enhancer]]
 - [[Tag-Wrangler]]
 - [[Task]]
 - [[Task-Progress-Bar]]

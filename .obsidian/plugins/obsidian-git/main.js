@@ -1988,7 +1988,7 @@ var require_lib = __commonJS({
       var timer = null;
       var occupationTimer = null;
       var executionTimer = null;
-      var self3 = this;
+      var self2 = this;
       var done = function(locked, err, ret) {
         if (occupationTimer) {
           clearTimeout(occupationTimer);
@@ -1999,11 +1999,11 @@ var require_lib = __commonJS({
           executionTimer = null;
         }
         if (locked) {
-          if (!!self3.queues[key2] && self3.queues[key2].length === 0) {
-            delete self3.queues[key2];
+          if (!!self2.queues[key2] && self2.queues[key2].length === 0) {
+            delete self2.queues[key2];
           }
-          if (self3.domainReentrant) {
-            delete self3.domains[key2];
+          if (self2.domainReentrant) {
+            delete self2.domains[key2];
           }
         }
         if (!resolved) {
@@ -2021,8 +2021,8 @@ var require_lib = __commonJS({
           resolved = true;
         }
         if (locked) {
-          if (!!self3.queues[key2] && self3.queues[key2].length > 0) {
-            self3.queues[key2].shift()();
+          if (!!self2.queues[key2] && self2.queues[key2].length > 0) {
+            self2.queues[key2].shift()();
           }
         }
       };
@@ -2034,13 +2034,13 @@ var require_lib = __commonJS({
           clearTimeout(timer);
           timer = null;
         }
-        if (self3.domainReentrant && locked) {
-          self3.domains[key2] = process.domain;
+        if (self2.domainReentrant && locked) {
+          self2.domains[key2] = process.domain;
         }
-        var maxExecutionTime = opts.maxExecutionTime || self3.maxExecutionTime;
+        var maxExecutionTime = opts.maxExecutionTime || self2.maxExecutionTime;
         if (maxExecutionTime) {
           executionTimer = setTimeout(function() {
-            if (!!self3.queues[key2]) {
+            if (!!self2.queues[key2]) {
               done(locked, new Error("Maximum execution time is exceeded " + key2));
             }
           }, maxExecutionTime);
@@ -2061,7 +2061,7 @@ var require_lib = __commonJS({
             }
           }
         } else {
-          self3._promiseTry(function() {
+          self2._promiseTry(function() {
             return fn();
           }).then(function(ret) {
             done(locked, void 0, ret);
@@ -2070,26 +2070,26 @@ var require_lib = __commonJS({
           });
         }
       };
-      if (self3.domainReentrant && !!process.domain) {
+      if (self2.domainReentrant && !!process.domain) {
         exec = process.domain.bind(exec);
       }
-      if (!self3.queues[key2]) {
-        self3.queues[key2] = [];
+      if (!self2.queues[key2]) {
+        self2.queues[key2] = [];
         exec(true);
-      } else if (self3.domainReentrant && !!process.domain && process.domain === self3.domains[key2]) {
+      } else if (self2.domainReentrant && !!process.domain && process.domain === self2.domains[key2]) {
         exec(false);
-      } else if (self3.queues[key2].length >= self3.maxPending) {
+      } else if (self2.queues[key2].length >= self2.maxPending) {
         done(false, new Error("Too many pending tasks in queue " + key2));
       } else {
         var taskFn = function() {
           exec(true);
         };
         if (opts.skipQueue) {
-          self3.queues[key2].unshift(taskFn);
+          self2.queues[key2].unshift(taskFn);
         } else {
-          self3.queues[key2].push(taskFn);
+          self2.queues[key2].push(taskFn);
         }
-        var timeout = opts.timeout || self3.timeout;
+        var timeout = opts.timeout || self2.timeout;
         if (timeout) {
           timer = setTimeout(function() {
             timer = null;
@@ -2097,10 +2097,10 @@ var require_lib = __commonJS({
           }, timeout);
         }
       }
-      var maxOccupationTime = opts.maxOccupationTime || self3.maxOccupationTime;
+      var maxOccupationTime = opts.maxOccupationTime || self2.maxOccupationTime;
       if (maxOccupationTime) {
         occupationTimer = setTimeout(function() {
-          if (!!self3.queues[key2]) {
+          if (!!self2.queues[key2]) {
             done(false, new Error("Maximum occupation time is exceeded in queue " + key2));
           }
         }, maxOccupationTime);
@@ -2114,10 +2114,10 @@ var require_lib = __commonJS({
         opts = cb;
         cb = null;
       }
-      var self3 = this;
+      var self2 = this;
       var getFn = function(key2, fn2) {
         return function(cb2) {
-          self3.acquire(key2, fn2, cb2, opts);
+          self2.acquire(key2, fn2, cb2, opts);
         };
       };
       var fnx = keys.reduceRight(function(prev, key2) {
@@ -7693,12 +7693,12 @@ var require_common2 = __commonJS({
           if (!debug3.enabled) {
             return;
           }
-          const self3 = debug3;
+          const self2 = debug3;
           const curr = Number(/* @__PURE__ */ new Date());
           const ms = curr - (prevTime || curr);
-          self3.diff = ms;
-          self3.prev = prevTime;
-          self3.curr = curr;
+          self2.diff = ms;
+          self2.prev = prevTime;
+          self2.curr = curr;
           prevTime = curr;
           args[0] = createDebug.coerce(args[0]);
           if (typeof args[0] !== "string") {
@@ -7713,15 +7713,15 @@ var require_common2 = __commonJS({
             const formatter = createDebug.formatters[format];
             if (typeof formatter === "function") {
               const val = args[index2];
-              match = formatter.call(self3, val);
+              match = formatter.call(self2, val);
               args.splice(index2, 1);
               index2--;
             }
             return match;
           });
-          createDebug.formatArgs.call(self3, args);
-          const logFn = self3.log || createDebug.log;
-          logFn.apply(self3, args);
+          createDebug.formatArgs.call(self2, args);
+          const logFn = self2.log || createDebug.log;
+          logFn.apply(self2, args);
         }
         debug3.namespace = namespace;
         debug3.useColors = createDebug.useColors();
@@ -20908,7 +20908,7 @@ Diff.prototype = {
       options = {};
     }
     this.options = options;
-    var self3 = this;
+    var self2 = this;
     function done(value) {
       if (callback) {
         setTimeout(function() {
@@ -20954,15 +20954,15 @@ Diff.prototype = {
         }
         if (!canAdd || canRemove && addPath.newPos < removePath.newPos) {
           basePath = clonePath(removePath);
-          self3.pushComponent(basePath.components, void 0, true);
+          self2.pushComponent(basePath.components, void 0, true);
         } else {
           basePath = addPath;
           basePath.newPos++;
-          self3.pushComponent(basePath.components, true, void 0);
+          self2.pushComponent(basePath.components, true, void 0);
         }
-        _oldPos = self3.extractCommon(basePath, newString, oldString, diagonalPath);
+        _oldPos = self2.extractCommon(basePath, newString, oldString, diagonalPath);
         if (basePath.newPos + 1 >= newLen && _oldPos + 1 >= oldLen) {
-          return done(buildValues(self3, basePath.components, newString, oldString, self3.useLongestToken));
+          return done(buildValues(self2, basePath.components, newString, oldString, self2.useLongestToken));
         } else {
           bestPath[diagonalPath] = basePath;
         }
@@ -22231,6 +22231,9 @@ var IsomorphicGit = class extends GitManager {
     const status2 = await this.branchInfo();
     const trackingBranch = status2.tracking;
     const currentBranch2 = status2.current;
+    if (trackingBranch == null || currentBranch2 == null) {
+      return 0;
+    }
     const localCommit = await this.resolveRef(currentBranch2);
     const upstreamCommit = await this.resolveRef(trackingBranch);
     const changedFiles = await this.getFileChangesCount(
@@ -26917,6 +26920,9 @@ var SimpleGit = class extends GitManager {
     const status2 = await this.git.status();
     const trackingBranch = status2.tracking;
     const currentBranch2 = status2.current;
+    if (trackingBranch == null || currentBranch2 == null) {
+      return 0;
+    }
     const remoteChangedFiles = (await this.git.diffSummary(
       [currentBranch2, trackingBranch, "--"],
       (err) => this.onError(err)
@@ -29851,10 +29857,10 @@ function listen(node, event, handler, options) {
   node.addEventListener(event, handler, options);
   return () => node.removeEventListener(event, handler, options);
 }
-function self2(fn) {
+function stop_propagation(fn) {
   return function(event) {
-    if (event.target === this)
-      fn.call(this, event);
+    event.stopPropagation();
+    return fn.call(this, event);
   };
 }
 function attr(node, attribute, value) {
@@ -30479,18 +30485,14 @@ function create_if_block(ctx) {
       ctx[7](div);
       if (!mounted) {
         dispose = [
-          listen(
-            div,
-            "auxclick",
+          listen(div, "auxclick", stop_propagation(
             /*open*/
             ctx[4]
-          ),
-          listen(
-            div,
-            "click",
+          )),
+          listen(div, "click", stop_propagation(
             /*open*/
             ctx[4]
-          )
+          ))
         ];
         mounted = true;
       }
@@ -30582,23 +30584,11 @@ function create_fragment(ctx) {
       append2(span, t3);
       if (!mounted) {
         dispose = [
-          listen(
-            div0,
-            "click",
-            /*showDiff*/
-            ctx[5]
-          ),
-          listen(
-            div0,
-            "auxclick",
-            /*showDiff*/
-            ctx[5]
-          ),
-          listen(div3, "click", self2(
+          listen(main, "click", stop_propagation(
             /*showDiff*/
             ctx[5]
           )),
-          listen(div3, "auxclick", self2(
+          listen(main, "auxclick", stop_propagation(
             /*showDiff*/
             ctx[5]
           )),
@@ -30738,7 +30728,7 @@ function add_css2(target) {
 }
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[10] = list[i];
+  child_ctx[8] = list[i];
   return child_ctx;
 }
 function create_else_block(ctx) {
@@ -30751,7 +30741,7 @@ function create_else_block(ctx) {
   let div2;
   let t2_value = (
     /*entity*/
-    ctx[10].title + ""
+    ctx[8].title + ""
   );
   let t2;
   let div3_aria_label_value;
@@ -30765,32 +30755,14 @@ function create_else_block(ctx) {
       /*click_handler*/
       ctx[7](
         /*entity*/
-        ctx[10]
-      )
-    );
-  }
-  function click_handler_1() {
-    return (
-      /*click_handler_1*/
-      ctx[8](
-        /*entity*/
-        ctx[10]
-      )
-    );
-  }
-  function click_handler_2() {
-    return (
-      /*click_handler_2*/
-      ctx[9](
-        /*entity*/
-        ctx[10]
+        ctx[8]
       )
     );
   }
   let if_block = !/*closed*/
   ctx[4][
     /*entity*/
-    ctx[10].title
+    ctx[8].title
   ] && create_if_block_1(ctx);
   return {
     c() {
@@ -30820,7 +30792,7 @@ function create_else_block(ctx) {
         ctx[5]
       );
       attr(div3, "aria-label", div3_aria_label_value = /*entity*/
-      ctx[10].vaultPath);
+      ctx[8].vaultPath);
       attr(div4, "class", "nav-folder");
       toggle_class(
         div4,
@@ -30828,7 +30800,7 @@ function create_else_block(ctx) {
         /*closed*/
         ctx[4][
           /*entity*/
-          ctx[10].title
+          ctx[8].title
         ]
       );
     },
@@ -30847,11 +30819,7 @@ function create_else_block(ctx) {
       append2(div4, t4);
       current = true;
       if (!mounted) {
-        dispose = [
-          listen(div1, "click", click_handler),
-          listen(div2, "click", click_handler_1),
-          listen(div3, "click", self2(click_handler_2))
-        ];
+        dispose = listen(div3, "click", click_handler);
         mounted = true;
       }
     },
@@ -30859,7 +30827,7 @@ function create_else_block(ctx) {
       ctx = new_ctx;
       if ((!current || dirty & /*hierarchy*/
       1) && t2_value !== (t2_value = /*entity*/
-      ctx[10].title + ""))
+      ctx[8].title + ""))
         set_data(t2, t2_value);
       if (!current || dirty & /*side*/
       32) {
@@ -30872,13 +30840,13 @@ function create_else_block(ctx) {
       }
       if (!current || dirty & /*hierarchy*/
       1 && div3_aria_label_value !== (div3_aria_label_value = /*entity*/
-      ctx[10].vaultPath)) {
+      ctx[8].vaultPath)) {
         attr(div3, "aria-label", div3_aria_label_value);
       }
       if (!/*closed*/
       ctx[4][
         /*entity*/
-        ctx[10].title
+        ctx[8].title
       ]) {
         if (if_block) {
           if_block.p(ctx, dirty);
@@ -30907,7 +30875,7 @@ function create_else_block(ctx) {
           /*closed*/
           ctx[4][
             /*entity*/
-            ctx[10].title
+            ctx[8].title
           ]
         );
       }
@@ -30928,7 +30896,7 @@ function create_else_block(ctx) {
       if (if_block)
         if_block.d();
       mounted = false;
-      run_all(dispose);
+      dispose();
     }
   };
 }
@@ -30941,7 +30909,7 @@ function create_if_block2(ctx) {
     props: {
       diff: (
         /*entity*/
-        ctx[10].data
+        ctx[8].data
       ),
       view: (
         /*view*/
@@ -30966,7 +30934,7 @@ function create_if_block2(ctx) {
       if (dirty & /*hierarchy*/
       1)
         logfilecomponent_changes.diff = /*entity*/
-        ctx2[10].data;
+        ctx2[8].data;
       if (dirty & /*view*/
       4)
         logfilecomponent_changes.view = /*view*/
@@ -30999,7 +30967,7 @@ function create_if_block_1(ctx) {
     props: {
       hierarchy: (
         /*entity*/
-        ctx[10]
+        ctx[8]
       ),
       plugin: (
         /*plugin*/
@@ -31027,7 +30995,7 @@ function create_if_block_1(ctx) {
       if (dirty & /*hierarchy*/
       1)
         logtreecomponent_changes.hierarchy = /*entity*/
-        ctx2[10];
+        ctx2[8];
       if (dirty & /*plugin*/
       2)
         logtreecomponent_changes.plugin = /*plugin*/
@@ -31081,7 +31049,7 @@ function create_each_block(ctx) {
   function select_block_type(ctx2, dirty) {
     if (
       /*entity*/
-      ctx2[10].data
+      ctx2[8].data
     )
       return 0;
     return 1;
@@ -31241,8 +31209,6 @@ function instance2($$self, $$props, $$invalidate) {
     $$invalidate(4, closed[item.title] = !closed[item.title], closed);
   }
   const click_handler = (entity) => fold(entity);
-  const click_handler_1 = (entity) => fold(entity);
-  const click_handler_2 = (entity) => fold(entity);
   $$self.$$set = ($$props2) => {
     if ("hierarchy" in $$props2)
       $$invalidate(0, hierarchy = $$props2.hierarchy);
@@ -31260,18 +31226,7 @@ function instance2($$self, $$props, $$invalidate) {
         $$invalidate(5, side = view.leaf.getRoot().side == "left" ? "right" : "left");
     }
   };
-  return [
-    hierarchy,
-    plugin,
-    view,
-    topLevel,
-    closed,
-    side,
-    fold,
-    click_handler,
-    click_handler_1,
-    click_handler_2
-  ];
+  return [hierarchy, plugin, view, topLevel, closed, side, fold, click_handler];
 }
 var LogTreeComponent = class extends SvelteComponent {
   constructor(options) {
@@ -32401,18 +32356,14 @@ function create_if_block5(ctx) {
       ctx[11](div);
       if (!mounted) {
         dispose = [
-          listen(
-            div,
-            "auxclick",
+          listen(div, "auxclick", stop_propagation(
             /*open*/
             ctx[5]
-          ),
-          listen(
-            div,
-            "click",
+          )),
+          listen(div, "click", stop_propagation(
             /*open*/
             ctx[5]
-          )
+          ))
         ];
         mounted = true;
       }
@@ -32524,37 +32475,13 @@ function create_fragment5(ctx) {
       append2(div4, t5);
       if (!mounted) {
         dispose = [
-          listen(
-            div0,
-            "click",
-            /*showDiff*/
-            ctx[7]
-          ),
-          listen(
-            div0,
-            "auxclick",
-            /*showDiff*/
-            ctx[7]
-          ),
-          listen(
-            div1,
-            "click",
+          listen(div1, "click", stop_propagation(
             /*discard*/
             ctx[8]
-          ),
-          listen(
-            div2,
-            "click",
+          )),
+          listen(div2, "click", stop_propagation(
             /*stage*/
             ctx[6]
-          ),
-          listen(div6, "click", self2(
-            /*showDiff*/
-            ctx[7]
-          )),
-          listen(div6, "auxclick", self2(
-            /*showDiff*/
-            ctx[7]
           )),
           listen(
             main,
@@ -32562,7 +32489,11 @@ function create_fragment5(ctx) {
             /*hover*/
             ctx[4]
           ),
-          listen(main, "click", self2(
+          listen(main, "click", stop_propagation(
+            /*showDiff*/
+            ctx[7]
+          )),
+          listen(main, "auxclick", stop_propagation(
             /*showDiff*/
             ctx[7]
           )),
@@ -32754,7 +32685,7 @@ var fileComponent_default = FileComponent;
 init_polyfill_buffer();
 var import_obsidian22 = require("obsidian");
 function add_css5(target) {
-  append_styles(target, "svelte-jdrlm5", "main.svelte-jdrlm5 .nav-file-title-content.svelte-jdrlm5{display:flex;align-items:center}main.svelte-jdrlm5 .git-tools.svelte-jdrlm5{display:flex;margin-left:auto}main.svelte-jdrlm5 .git-tools .type.svelte-jdrlm5{padding-left:var(--size-2-1);display:flex;align-items:center;justify-content:center}main.svelte-jdrlm5 .git-tools .type[data-type=M].svelte-jdrlm5{color:orange}main.svelte-jdrlm5 .git-tools .type[data-type=D].svelte-jdrlm5{color:red}");
+  append_styles(target, "svelte-pmbo0n", "main.svelte-pmbo0n .nav-file-title-content.svelte-pmbo0n{display:flex;align-items:center}");
 }
 function create_fragment6(ctx) {
   let main;
@@ -32787,11 +32718,11 @@ function create_fragment6(ctx) {
       div1 = element("div");
       span = element("span");
       t2 = text(t2_value);
-      attr(div0, "class", "nav-file-title-content svelte-jdrlm5");
-      attr(span, "class", "type svelte-jdrlm5");
+      attr(div0, "class", "nav-file-title-content svelte-pmbo0n");
+      attr(span, "class", "type");
       attr(span, "data-type", span_data_type_value = /*change*/
       ctx[0].working_dir);
-      attr(div1, "class", "git-tools svelte-jdrlm5");
+      attr(div1, "class", "git-tools");
       attr(div2, "class", "nav-file-title");
       attr(
         div2,
@@ -32801,7 +32732,7 @@ function create_fragment6(ctx) {
       );
       attr(div2, "aria-label", div2_aria_label_value = /*change*/
       ctx[0].vault_path);
-      attr(main, "class", "nav-file svelte-jdrlm5");
+      attr(main, "class", "nav-file svelte-pmbo0n");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -32820,12 +32751,14 @@ function create_fragment6(ctx) {
             /*hover*/
             ctx[2]
           ),
-          listen(
-            main,
-            "click",
+          listen(main, "click", stop_propagation(
             /*open*/
             ctx[3]
-          ),
+          )),
+          listen(main, "auxclick", stop_propagation(
+            /*open*/
+            ctx[3]
+          )),
           listen(
             main,
             "focus",
@@ -32940,12 +32873,10 @@ function create_if_block6(ctx) {
       insert(target, div, anchor);
       ctx[10](div);
       if (!mounted) {
-        dispose = listen(
-          div,
-          "click",
+        dispose = listen(div, "click", stop_propagation(
           /*open*/
           ctx[5]
-        );
+        ));
         mounted = true;
       }
     },
@@ -33046,27 +32977,9 @@ function create_fragment7(ctx) {
       append2(div3, t4);
       if (!mounted) {
         dispose = [
-          listen(
-            div0,
-            "click",
-            /*showDiff*/
-            ctx[6]
-          ),
-          listen(
-            div0,
-            "auxclick",
-            /*showDiff*/
-            ctx[6]
-          ),
-          listen(
-            div1,
-            "click",
+          listen(div1, "click", stop_propagation(
             /*unstage*/
             ctx[7]
-          ),
-          listen(div5, "click", self2(
-            /*showDiff*/
-            ctx[6]
           )),
           listen(
             main,
@@ -33080,7 +32993,11 @@ function create_fragment7(ctx) {
             /*focus_handler*/
             ctx[9]
           ),
-          listen(main, "click", self2(
+          listen(main, "click", stop_propagation(
+            /*showDiff*/
+            ctx[6]
+          )),
+          listen(main, "auxclick", stop_propagation(
             /*showDiff*/
             ctx[6]
           ))
@@ -33249,7 +33166,7 @@ function add_css7(target) {
 }
 function get_each_context4(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[17] = list[i];
+  child_ctx[15] = list[i];
   return child_ctx;
 }
 function create_else_block3(ctx) {
@@ -33262,7 +33179,7 @@ function create_else_block3(ctx) {
   let div2;
   let t2_value = (
     /*entity*/
-    ctx[17].title + ""
+    ctx[15].title + ""
   );
   let t2;
   let t3;
@@ -33276,24 +33193,6 @@ function create_else_block3(ctx) {
   let current;
   let mounted;
   let dispose;
-  function click_handler() {
-    return (
-      /*click_handler*/
-      ctx[11](
-        /*entity*/
-        ctx[17]
-      )
-    );
-  }
-  function click_handler_1() {
-    return (
-      /*click_handler_1*/
-      ctx[12](
-        /*entity*/
-        ctx[17]
-      )
-    );
-  }
   function select_block_type_2(ctx2, dirty) {
     if (
       /*fileType*/
@@ -33304,20 +33203,20 @@ function create_else_block3(ctx) {
   }
   let current_block_type = select_block_type_2(ctx, -1);
   let if_block0 = current_block_type(ctx);
-  function click_handler_5() {
-    return (
-      /*click_handler_5*/
-      ctx[16](
-        /*entity*/
-        ctx[17]
-      )
-    );
-  }
   let if_block1 = !/*closed*/
   ctx[5][
     /*entity*/
-    ctx[17].title
+    ctx[15].title
   ] && create_if_block_4(ctx);
+  function click_handler_3() {
+    return (
+      /*click_handler_3*/
+      ctx[14](
+        /*entity*/
+        ctx[15]
+      )
+    );
+  }
   return {
     c() {
       div7 = element("div");
@@ -33355,7 +33254,7 @@ function create_else_block3(ctx) {
         ctx[6]
       );
       attr(div6, "aria-label", div6_aria_label_value = /*entity*/
-      ctx[17].vaultPath);
+      ctx[15].vaultPath);
       attr(div7, "class", "nav-folder");
       toggle_class(
         div7,
@@ -33363,7 +33262,7 @@ function create_else_block3(ctx) {
         /*closed*/
         ctx[5][
           /*entity*/
-          ctx[17].title
+          ctx[15].title
         ]
       );
     },
@@ -33388,11 +33287,7 @@ function create_else_block3(ctx) {
       append2(div7, t6);
       current = true;
       if (!mounted) {
-        dispose = [
-          listen(div1, "click", click_handler),
-          listen(div2, "click", click_handler_1),
-          listen(div6, "click", self2(click_handler_5))
-        ];
+        dispose = listen(div7, "click", click_handler_3);
         mounted = true;
       }
     },
@@ -33400,7 +33295,7 @@ function create_else_block3(ctx) {
       ctx = new_ctx;
       if ((!current || dirty & /*hierarchy*/
       1) && t2_value !== (t2_value = /*entity*/
-      ctx[17].title + ""))
+      ctx[15].title + ""))
         set_data(t2, t2_value);
       if (current_block_type === (current_block_type = select_block_type_2(ctx, dirty)) && if_block0) {
         if_block0.p(ctx, dirty);
@@ -33423,13 +33318,13 @@ function create_else_block3(ctx) {
       }
       if (!current || dirty & /*hierarchy*/
       1 && div6_aria_label_value !== (div6_aria_label_value = /*entity*/
-      ctx[17].vaultPath)) {
+      ctx[15].vaultPath)) {
         attr(div6, "aria-label", div6_aria_label_value);
       }
       if (!/*closed*/
       ctx[5][
         /*entity*/
-        ctx[17].title
+        ctx[15].title
       ]) {
         if (if_block1) {
           if_block1.p(ctx, dirty);
@@ -33458,7 +33353,7 @@ function create_else_block3(ctx) {
           /*closed*/
           ctx[5][
             /*entity*/
-            ctx[17].title
+            ctx[15].title
           ]
         );
       }
@@ -33480,7 +33375,7 @@ function create_else_block3(ctx) {
       if (if_block1)
         if_block1.d();
       mounted = false;
-      run_all(dispose);
+      dispose();
     }
   };
 }
@@ -33583,21 +33478,21 @@ function create_else_block_1(ctx) {
   let div1;
   let mounted;
   let dispose;
-  function click_handler_3() {
+  function click_handler_1() {
     return (
-      /*click_handler_3*/
-      ctx[14](
+      /*click_handler_1*/
+      ctx[12](
         /*entity*/
-        ctx[17]
+        ctx[15]
       )
     );
   }
-  function click_handler_4() {
+  function click_handler_2() {
     return (
-      /*click_handler_4*/
-      ctx[15](
+      /*click_handler_2*/
+      ctx[13](
         /*entity*/
-        ctx[17]
+        ctx[15]
       )
     );
   }
@@ -33621,8 +33516,8 @@ function create_else_block_1(ctx) {
       insert(target, div1, anchor);
       if (!mounted) {
         dispose = [
-          listen(div0, "click", click_handler_3),
-          listen(div1, "click", click_handler_4)
+          listen(div0, "click", stop_propagation(click_handler_1)),
+          listen(div1, "click", stop_propagation(click_handler_2))
         ];
         mounted = true;
       }
@@ -33646,12 +33541,12 @@ function create_if_block_5(ctx) {
   let div;
   let mounted;
   let dispose;
-  function click_handler_2() {
+  function click_handler() {
     return (
-      /*click_handler_2*/
-      ctx[13](
+      /*click_handler*/
+      ctx[11](
         /*entity*/
-        ctx[17]
+        ctx[15]
       )
     );
   }
@@ -33666,7 +33561,7 @@ function create_if_block_5(ctx) {
     m(target, anchor) {
       insert(target, div, anchor);
       if (!mounted) {
-        dispose = listen(div, "click", click_handler_2);
+        dispose = listen(div, "click", stop_propagation(click_handler));
         mounted = true;
       }
     },
@@ -33690,7 +33585,7 @@ function create_if_block_4(ctx) {
     props: {
       hierarchy: (
         /*entity*/
-        ctx[17]
+        ctx[15]
       ),
       plugin: (
         /*plugin*/
@@ -33722,7 +33617,7 @@ function create_if_block_4(ctx) {
       if (dirty & /*hierarchy*/
       1)
         treecomponent_changes.hierarchy = /*entity*/
-        ctx2[17];
+        ctx2[15];
       if (dirty & /*plugin*/
       2)
         treecomponent_changes.plugin = /*plugin*/
@@ -33777,7 +33672,7 @@ function create_if_block_3(ctx) {
     props: {
       change: (
         /*entity*/
-        ctx[17].data
+        ctx[15].data
       ),
       view: (
         /*view*/
@@ -33798,7 +33693,7 @@ function create_if_block_3(ctx) {
       if (dirty & /*hierarchy*/
       1)
         pulledfilecomponent_changes.change = /*entity*/
-        ctx2[17].data;
+        ctx2[15].data;
       if (dirty & /*view*/
       4)
         pulledfilecomponent_changes.view = /*view*/
@@ -33827,7 +33722,7 @@ function create_if_block_22(ctx) {
     props: {
       change: (
         /*entity*/
-        ctx[17].data
+        ctx[15].data
       ),
       manager: (
         /*plugin*/
@@ -33852,7 +33747,7 @@ function create_if_block_22(ctx) {
       if (dirty & /*hierarchy*/
       1)
         filecomponent_changes.change = /*entity*/
-        ctx2[17].data;
+        ctx2[15].data;
       if (dirty & /*plugin*/
       2)
         filecomponent_changes.manager = /*plugin*/
@@ -33885,7 +33780,7 @@ function create_if_block_13(ctx) {
     props: {
       change: (
         /*entity*/
-        ctx[17].data
+        ctx[15].data
       ),
       manager: (
         /*plugin*/
@@ -33910,7 +33805,7 @@ function create_if_block_13(ctx) {
       if (dirty & /*hierarchy*/
       1)
         stagedfilecomponent_changes.change = /*entity*/
-        ctx2[17].data;
+        ctx2[15].data;
       if (dirty & /*plugin*/
       2)
         stagedfilecomponent_changes.manager = /*plugin*/
@@ -33946,7 +33841,7 @@ function create_each_block4(ctx) {
   function select_block_type(ctx2, dirty) {
     if (
       /*entity*/
-      ctx2[17].data
+      ctx2[15].data
     )
       return 0;
     return 1;
@@ -34040,7 +33935,7 @@ function create_fragment8(ctx) {
       current = true;
     },
     p(ctx2, [dirty]) {
-      if (dirty & /*hierarchy, plugin, view, fileType, FileType, closed, side, fold, unstage, stage, discard*/
+      if (dirty & /*hierarchy, plugin, view, fileType, FileType, closed, fold, side, unstage, stage, discard*/
       2031) {
         each_value = /*hierarchy*/
         ctx2[0].children;
@@ -34128,12 +34023,10 @@ function instance8($$self, $$props, $$invalidate) {
   function fold(item) {
     $$invalidate(5, closed[item.title] = !closed[item.title], closed);
   }
-  const click_handler = (entity) => fold(entity);
-  const click_handler_1 = (entity) => fold(entity);
-  const click_handler_2 = (entity) => unstage(entity.path);
-  const click_handler_3 = (entity) => discard(entity);
-  const click_handler_4 = (entity) => stage(entity.path);
-  const click_handler_5 = (entity) => fold(entity);
+  const click_handler = (entity) => unstage(entity.path);
+  const click_handler_1 = (entity) => discard(entity);
+  const click_handler_2 = (entity) => stage(entity.path);
+  const click_handler_3 = (entity) => fold(entity);
   $$self.$$set = ($$props2) => {
     if ("hierarchy" in $$props2)
       $$invalidate(0, hierarchy = $$props2.hierarchy);
@@ -34168,9 +34061,7 @@ function instance8($$self, $$props, $$invalidate) {
     click_handler,
     click_handler_1,
     click_handler_2,
-    click_handler_3,
-    click_handler_4,
-    click_handler_5
+    click_handler_3
   ];
 }
 var TreeComponent = class extends SvelteComponent {
@@ -34201,17 +34092,17 @@ function add_css8(target) {
 }
 function get_each_context5(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[45] = list[i];
+  child_ctx[40] = list[i];
   return child_ctx;
 }
 function get_each_context_1(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[45] = list[i];
+  child_ctx[40] = list[i];
   return child_ctx;
 }
 function get_each_context_2(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[50] = list[i];
+  child_ctx[45] = list[i];
   return child_ctx;
 }
 function create_if_block_8(ctx) {
@@ -34391,7 +34282,7 @@ function create_if_block8(ctx) {
       append2(div6, div5);
       append2(div5, div3);
       append2(div3, div2);
-      ctx[36](div2);
+      ctx[34](div2);
       append2(div5, t3);
       append2(div5, div4);
       append2(div4, t4);
@@ -34410,7 +34301,7 @@ function create_if_block8(ctx) {
       append2(div12, div10);
       append2(div12, t10);
       append2(div12, div11);
-      ctx[41](div11);
+      ctx[36](div11);
       append2(div14, t11);
       append2(div14, div13);
       append2(div13, t12);
@@ -34423,56 +34314,30 @@ function create_if_block8(ctx) {
       current = true;
       if (!mounted) {
         dispose = [
-          listen(
-            div0,
-            "click",
-            /*click_handler_2*/
-            ctx[34]
-          ),
-          listen(
-            div1,
-            "click",
-            /*click_handler_3*/
-            ctx[35]
-          ),
-          listen(
-            div2,
-            "click",
+          listen(div2, "click", stop_propagation(
             /*unstageAll*/
             ctx[19]
-          ),
-          listen(div6, "click", self2(
-            /*click_handler_4*/
-            ctx[37]
           )),
           listen(
-            div8,
+            div6,
             "click",
-            /*click_handler_5*/
-            ctx[38]
+            /*click_handler_2*/
+            ctx[35]
           ),
-          listen(
-            div9,
-            "click",
-            /*click_handler_6*/
-            ctx[39]
-          ),
-          listen(
-            div10,
-            "click",
-            /*click_handler_7*/
-            ctx[40]
-          ),
-          listen(
-            div11,
-            "click",
+          listen(div10, "click", stop_propagation(
+            /*discard*/
+            ctx[22]
+          )),
+          listen(div11, "click", stop_propagation(
             /*stageAll*/
             ctx[18]
-          ),
-          listen(div15, "click", self2(
-            /*click_handler_8*/
-            ctx[42]
-          ))
+          )),
+          listen(
+            div15,
+            "click",
+            /*click_handler_3*/
+            ctx[37]
+          )
         ];
         mounted = true;
       }
@@ -34583,10 +34448,10 @@ function create_if_block8(ctx) {
     d(detaching) {
       if (detaching)
         detach(div18);
-      ctx[36](null);
+      ctx[34](null);
       if (if_block0)
         if_block0.d();
-      ctx[41](null);
+      ctx[36](null);
       if (if_block1)
         if_block1.d();
       if (if_block2)
@@ -34824,7 +34689,7 @@ function create_each_block_2(ctx) {
     props: {
       change: (
         /*stagedFile*/
-        ctx[50]
+        ctx[45]
       ),
       view: (
         /*view*/
@@ -34849,7 +34714,7 @@ function create_each_block_2(ctx) {
       if (dirty[0] & /*status*/
       64)
         stagedfilecomponent_changes.change = /*stagedFile*/
-        ctx2[50];
+        ctx2[45];
       if (dirty[0] & /*view*/
       2)
         stagedfilecomponent_changes.view = /*view*/
@@ -35103,7 +34968,7 @@ function create_each_block_1(ctx) {
     props: {
       change: (
         /*change*/
-        ctx[45]
+        ctx[40]
       ),
       view: (
         /*view*/
@@ -35129,7 +34994,7 @@ function create_each_block_1(ctx) {
       if (dirty[0] & /*status*/
       64)
         filecomponent_changes.change = /*change*/
-        ctx2[45];
+        ctx2[40];
       if (dirty[0] & /*view*/
       2)
         filecomponent_changes.view = /*view*/
@@ -35216,8 +35081,8 @@ function create_if_block_14(ctx) {
         dispose = listen(
           div2,
           "click",
-          /*click_handler_9*/
-          ctx[43]
+          /*click_handler_4*/
+          ctx[38]
         );
         mounted = true;
       }
@@ -35504,7 +35369,7 @@ function create_each_block5(ctx) {
     props: {
       change: (
         /*change*/
-        ctx[45]
+        ctx[40]
       ),
       view: (
         /*view*/
@@ -35526,7 +35391,7 @@ function create_each_block5(ctx) {
       if (dirty[0] & /*lastPulledFiles*/
       128)
         pulledfilecomponent_changes.change = /*change*/
-        ctx2[45];
+        ctx2[40];
       if (dirty[0] & /*view*/
       2)
         pulledfilecomponent_changes.view = /*view*/
@@ -36059,26 +35924,21 @@ function instance9($$self, $$props, $$invalidate) {
     $$invalidate(2, commitMessage);
   }
   const click_handler_1 = () => $$invalidate(2, commitMessage = "");
-  const click_handler_2 = () => $$invalidate(13, stagedOpen = !stagedOpen);
-  const click_handler_3 = () => $$invalidate(13, stagedOpen = !stagedOpen);
   function div2_binding_1($$value) {
     binding_callbacks[$$value ? "unshift" : "push"](() => {
       buttons[8] = $$value;
       $$invalidate(8, buttons);
     });
   }
-  const click_handler_4 = () => $$invalidate(13, stagedOpen = !stagedOpen);
-  const click_handler_5 = () => $$invalidate(12, changesOpen = !changesOpen);
-  const click_handler_6 = () => $$invalidate(12, changesOpen = !changesOpen);
-  const click_handler_7 = () => discard();
+  const click_handler_2 = () => $$invalidate(13, stagedOpen = !stagedOpen);
   function div11_binding($$value) {
     binding_callbacks[$$value ? "unshift" : "push"](() => {
       buttons[9] = $$value;
       $$invalidate(8, buttons);
     });
   }
-  const click_handler_8 = () => $$invalidate(12, changesOpen = !changesOpen);
-  const click_handler_9 = () => $$invalidate(14, lastPulledFilesOpen = !lastPulledFilesOpen);
+  const click_handler_3 = () => $$invalidate(12, changesOpen = !changesOpen);
+  const click_handler_4 = () => $$invalidate(14, lastPulledFilesOpen = !lastPulledFilesOpen);
   $$self.$$set = ($$props2) => {
     if ("plugin" in $$props2)
       $$invalidate(0, plugin = $$props2.plugin);
@@ -36136,16 +35996,11 @@ function instance9($$self, $$props, $$invalidate) {
     div7_binding,
     textarea_input_handler,
     click_handler_1,
-    click_handler_2,
-    click_handler_3,
     div2_binding_1,
-    click_handler_4,
-    click_handler_5,
-    click_handler_6,
-    click_handler_7,
+    click_handler_2,
     div11_binding,
-    click_handler_8,
-    click_handler_9
+    click_handler_3,
+    click_handler_4
   ];
 }
 var SourceControl = class extends SvelteComponent {

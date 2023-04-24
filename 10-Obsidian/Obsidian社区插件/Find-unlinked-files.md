@@ -20,15 +20,10 @@ public: yes
 利用这列表，您可以删除这些未使用的文件或将它们重新利用到它应该有的位置。
 
 > [!插件名片]
-
 > - 插件名称：Find unlinked files
-
 > - 插件作者：Vinzent
-
 > - 插件说明：在仓库中查找未在任何位置链接的文件
-
 > - 插件项目地址：[点我跳转](https://github.com/Vinzent03/find-unlinked-files)
-
 > - 插件适配：仅适用于 Obsidian v0.9.7+。
 
 ## 效果&特性
