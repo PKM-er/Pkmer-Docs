@@ -1,13 +1,12 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Hider
-description: 
-tags: 
+description:
+tags:
 author: OS
 type: other
 draft: false
-editable: false
-modified: 20230401230257
+modified: 20230329151247
 public: yes
 ---
 
@@ -20,10 +19,14 @@ public: yes
 这种隐藏方式无需 CSS 和 编程知识，完全是依靠插件设置中菜单开关完成的。
 
 > [!插件名片]
-> - 插件名称：obsidian-hider
-> - 插件作者：kepano
-> - 插件说明：自定义隐藏界面 UI。
-> - 插件项目地址：[点我跳转](https://github.com/kepano/obsidian-hider)
+
+> -   插件名称：obsidian-hider
+
+> -   插件作者：kepano
+
+> -   插件说明：自定义隐藏界面 UI。
+
+> -   插件项目地址：[点我跳转](https://github.com/kepano/obsidian-hider)
 
 ## 效果&特性
 
