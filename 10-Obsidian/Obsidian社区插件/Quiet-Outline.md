@@ -15,7 +15,7 @@ public: yes
 
 Quiet Outline，是增强大纲插件，按需自动展开大纲，可设定展开层级，功能丰富。
 
-> [!插件名片]
+> [!Note] 插件名片
 > - 插件名称：Quiet Outline
 > - 插件作者：guopenghui
 > - 插件说明：清除笔记中不再使用的图像以节省空间。

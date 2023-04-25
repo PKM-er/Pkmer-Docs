@@ -16,6 +16,12 @@ public: yes
 
 Floating Toc 插件能实现悬浮目录。悬浮目录的效果近似你在其他网页文字处理协同上见到的效果，一般会悬浮在网页左侧，。简单来说就是在侧边存在能根据正文中标题文字自动生成的大纲。之前，我也介绍过另一款 TOC 插件：[[Dynamic Toc（TOC插件）]]。
 
+> [!Note] 插件名片
+> -   插件名称：Floating TOC
+> -   插件作者：Benny Wydooghe
+> -   插件说明：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
+> -   插件项目地址：[点我跳转](https://github.com/cumany/obsidian-floating-toc-plugin)
+
 ## 效果&特性
 
 -   生成一个浮动的标题目录，在笔记文档的左侧

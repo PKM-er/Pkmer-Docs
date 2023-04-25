@@ -15,8 +15,7 @@ public: yes
 
 为 Obsidian 中的标记表添加改进的导航、格式和操作。
 
-> [!插件名片]
->
+> [!Note] 插件名片
 > - 插件名称：Advanced Tables
 > - 插件作者：Tony Grosinger
 > - 插件说明：改进了表格导航、格式和操作

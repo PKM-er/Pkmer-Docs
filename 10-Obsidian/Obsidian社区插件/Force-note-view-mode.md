@@ -21,14 +21,10 @@ public: yes
 
 在不同的使用场景下，统一化的设置似乎就会有所制约。
 
-> [!插件名片]
-
+> [!Note] 插件名片
 > -   插件名称：Force note view mode by front matter
-
 > -   插件作者：Benny Wydooghe
-
 > -   插件说明：自定义隐藏界面 UI。
-
 > -   插件项目地址：[点我跳转](https://github.com/bwydoogh/obsidian-force-view-mode-of-note)
 
 ## 特性&功能

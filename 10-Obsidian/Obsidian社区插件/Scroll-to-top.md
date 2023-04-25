@@ -13,7 +13,7 @@ public: yes
 
 # Obsidian 插件：Scroll to top（快速定位到页头页尾）
 
-> [!插件名片]
+> [!Note] 插件名片
 > - 插件名称：Scroll to Top
 > - 插件作者：cloudhao1999
 > - 插件说明：为 Obsidian 添加了一个按钮，可以快速滚动到当前笔记的顶部。

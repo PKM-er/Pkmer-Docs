@@ -17,7 +17,7 @@ public: yes
 
 撰写长文时，我们经常需要不停地来回翻阅几个文件，或是打开一个没有处理完的文档继续工作。Remember cursor position 能自动定位到之前读到一半或是写完停留的地方。
 
-> [!插件名片]
+> [!Note] 插件名片
 > - 插件名称：Remember cursor position
 > - 插件作者：Dmitry Savosh
 > - 插件说明：记住每个文件光标和滚动位置
