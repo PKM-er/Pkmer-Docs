@@ -15,7 +15,7 @@ public: yes
 
 为 Obsidian 添加一个最近浏览文件的列表，方便你快速查看和回溯最近的文件。
 
-> [!插件名片]
+> [!Note] 插件名片
 > - 插件名称：Recent Files
 > - 插件作者：Tony Grosinger
 > - 插件说明：显示最近打开的文件列表

@@ -25,11 +25,8 @@ public: yes
 > [!Note] 插件名片
 
 > -   插件名称：Obsidain Lite
-
 > -   插件作者：Bon、Cuman、windly
-
 > -   插件说明：我们致力于解决中文区用户的 OB 使用问题
-
 > -   插件项目地址：[点我跳转](https://github.com/Wanxp/obsidian-douban)
 
 ## 安装

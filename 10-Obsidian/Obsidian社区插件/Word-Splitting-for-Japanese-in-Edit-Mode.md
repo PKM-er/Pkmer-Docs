@@ -20,8 +20,8 @@ Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
 >
 > 这一切的方式都是来源于在不同语言环境下分词的功劳。
 
-> [!插件名片]
-> - 插件名称：# Word Splitting for Japanese in Edit Mode
+> [!Note] 插件名片
+> - 插件名称：Word Splitting for Japanese in Edit Mode
 > - 插件作者：sonarAIT
 > - 插件说明：Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
 > - 插件项目地址：[点我跳转](https://github.com/sonarAIT/cm-japanese-patch)

@@ -17,7 +17,7 @@ public: yes
 
 像打字机一样（打字机风格），输入时候的滚动使视图保持在编辑器的中心。
 
-> [!插件名片]
+> [!Note] 插件名片
 > - 插件名称：Typewriter Scroll Obsidian Plugin
 > - 插件作者：death_au
 > - 插件说明：打字机风格的滚动，使视图保持在编辑器的中心。
