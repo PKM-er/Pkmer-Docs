@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Local image plus
-description:
-tags:
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+editable: false
+modified: 20230401230257
 public: yes
 ---
 
@@ -24,16 +25,16 @@ public: yes
 
 ### 自动方式
 
--   在插件中打开 `On paste processing`：即在你黏贴网络图片的过程中。
+- 在插件中打开 `On paste processing`：即在你黏贴网络图片的过程中。
 
 ### 手动方式
 
 通过 ctrl+p 命令来使用：有两个选项
 
--   Download images locally：只处理你选中的笔记中的图像.
--   Download images locally for all your notes：根据插件中的设置，\*\*仓库中所用的图像到本地。
+- Download images locally：只处理你选中的笔记中的图像.
+- Download images locally for all your notes：根据插件中的设置，\*\* 仓库中所用的图像到本地。
 
 ### 设置
 
--   `Media foloder`：指定下载的图片存储路径。
--   `Show notification`：完成下载图片存储后弹出提示。
+- `Media foloder`：指定下载的图片存储路径。
+- `Show notification`：完成下载图片存储后弹出提示。
