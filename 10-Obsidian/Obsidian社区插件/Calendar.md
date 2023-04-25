@@ -1,13 +1,12 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Calendar
-description: 
-tags: 
+description:
+tags:
 author: OS
 type: other
 draft: false
-editable: false
-modified: 20230414111628
+modified: 20230329151248
 public: yes
 ---
 
@@ -20,17 +19,21 @@ public: yes
 点击时，它会以当天的日期作为文件名生成一个笔记，方便我们快速记录，同时它支持日模板及周模板定制，在点击日期时可以自动使用你定义的模板，方便作总结或读书笔记等有固定格式的场景。同时在日期上的悬浮点可以提示你是否创建过当天的日记以及通过点的数量来判断你笔记内容的多少。
 
 > [!插件名片]
-> - 插件名称：Calendar
-> - 插件作者：Liam Cain
-> - 插件说明：黑曜石的简单日历小部件
-> - 插件项目地址：[点我跳转](https://github.com/liamcain/obsidian-calendar-plugin)
+
+> -   插件名称：Calendar
+
+> -   插件作者：Liam Cain
+
+> -   插件说明：黑曜石的简单日历小部件
+
+> -   插件项目地址：[点我跳转](https://github.com/liamcain/obsidian-calendar-plugin)
 
 ## 特性&效果
 
 ![Pasted image 20230122195032](https://s1.vika.cn/space/2023/03/15/9f1d6e620d2a4f08bc7092fd6641d6c3)
 
-- 点击对应天数就可以建立以这个日期为名字的笔记
-- 可以在月历上显示你对应笔记是否有未完成的任务
+-   点击对应天数就可以建立以这个日期为名字的笔记
+-   可以在月历上显示你对应笔记是否有未完成的任务
 
 ## 安装
 
@@ -59,7 +62,7 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 “设置——插件选项——Calendar”打开 Calendar 的控制面板
 
-- show week number：这样你的日历视图就会多出来一栏，用于显示月历中当前【周数】
+-   show week number：这样你的日历视图就会多出来一栏，用于显示月历中当前【周数】
     ![Pasted image 20230122195402](https://s1.vika.cn/space/2023/03/15/438acf73697c46c0b1f40ce3a14f8b14)
     和日记一样，单击【周数】就可以创建属于你的周复盘啦：
 
@@ -71,7 +74,7 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 ![Pasted image 20230122195645](https://s1.vika.cn/space/2023/03/15/450ffd22cd36408882242c4d6ddd2f32)
 
-- **Weekly note format**
+-   **Weekly note format**
 
 这个是设置【周记文件名】的，在右侧的输入框输入你的周记文件名，新建的时候就会自动命名。
 
@@ -81,11 +84,11 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 或者说，【周复盘 -YYYY 年第 WW 周】，显示出来的就是【周复盘 -2021 年第 34 周】
 
-- **Weekly note tmeplate**
+-   **Weekly note tmeplate**
 
 使用周记模板，新建一个模板，然后在后面输入周记模板路径就可以。
 
-- **Weekly note folder**
+-   **Weekly note folder**
 
 周记文件保存在哪个文件夹中，按照你自己想保存的设置即可
 

@@ -1,13 +1,12 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Image Caption 如何给图片增加说明
-description: 
-tags: 
+description:
+tags:
 author: OS
 type: other
 draft: false
-editable: false
-modified: 20230401230257
+modified: 20230329151247
 public: yes
 ---
 
@@ -23,15 +22,19 @@ public: yes
 
 在你使用 Obsidian 写笔记时，如何为图片增加说明文字（Caption）呢？
 
-> [!插件名片]
-> - 插件名称：Image Captions
-> - 插件作者：bicarlsen
-> - 插件说明：为你笔记中的图片添加标题、说明。
-> - 插件项目地址：[点我跳转](https://github.com/bicarlsen/obsidian_image_caption)
+> [!Note] 插件名片
+
+> -   插件名称：Image Captions
+
+> -   插件作者：bicarlsen
+
+> -   插件说明：为你笔记中的图片添加标题、说明。
+
+> -   插件项目地址：[点我跳转](https://github.com/bicarlsen/obsidian_image_caption)
 
 ## 效果&特性
 
-- 为图片加 caption 效果
+-   为图片加 caption 效果
 
 ## 安装
 
