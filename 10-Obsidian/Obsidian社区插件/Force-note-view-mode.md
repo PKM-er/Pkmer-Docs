@@ -53,5 +53,3 @@ obsidianUIMode: source
 obsidianEditingMode: live
 ---
 ```
-
-### 扩展阅读

@@ -34,11 +34,15 @@ public: yes
 
 ## 设置
 
-1.近乎不需要设置
+1.近乎不需要设置即可使用
+2.新版本增加了 对 Twitter Emoji 的支持。
+
+>[!Warning] 注意
+>如果你的环境网络不好，可能导致开启 Twitter Emoji 后，显示不出来对应的图标。
 
 ## 使用方法
 
-1. Ctrl + P，输入 emoji toolbar，可以呼出对应的 emoji 工具栏。
+1. Ctrl/Cmd + P，输入 emoji toolbar，可以呼出对应的 emoji 工具栏。
 2. 你也可以在设置中，给这个功能设置快捷键。如何设置 [[自定义快捷键]]
 
 ![Pasted image 20230127101945](https://s1.vika.cn/space/2023/03/15/75e8680602de425f936da2b73d59e2aa)

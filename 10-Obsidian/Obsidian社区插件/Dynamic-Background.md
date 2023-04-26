@@ -15,8 +15,7 @@ public: yes
 
 这个插件可以为 Obsidian 编辑器 **增加动态效果和墙纸**，提升视觉体验，增加工作乐趣。
 
-> [!插件名片]
->
+> [!Note] 插件名片
 > - 插件名称：Obsidian Dynamic Background
 > - 插件作者：samuelsong70
 > - 插件说明：增加动态效果和墙纸

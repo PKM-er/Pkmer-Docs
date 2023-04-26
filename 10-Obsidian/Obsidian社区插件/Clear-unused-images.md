@@ -24,7 +24,6 @@ public: yes
 > - 插件项目地址：[点我跳转](https://github.com/ozntel/oz-clear-unused-images-obsidian)
 
 > [!Warning]
-
 > 对于把 OB 当作图片管理器，或者一些笔记就是图片形式存储的同学。请慎用此插件。
 
 ## 效果&特性
@@ -82,5 +81,3 @@ public: yes
 如果你在插件设置中打开了“删除日志”选项，你会看到一个弹出的模式，显示哪些图片从你的数据库中已经删除了。
 
 ![Pasted image 20230128180054](https://s1.vika.cn/space/2023/03/15/8cba6b6049524f14afad73189c84c78e)
-
-## 视频
