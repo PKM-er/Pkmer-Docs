@@ -66,7 +66,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[Douban]]
 - [[Dynamic-Background]]
 - [[Dynamic-Highlights]]
-- [[Easy-Tpying]]
+- [[Easy Tpying]]
 - [[Editing-Toolbar]]
 - [[Emoji-Toolbar]]
 - [[Excalidraw]]

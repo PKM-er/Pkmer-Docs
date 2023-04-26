@@ -16,14 +16,10 @@ public: yes
 
 可以根据 [[正则表达式]]，为不同的内容指定高亮方案。比如时间，日期，特殊的文案等。
 
-> [!插件名片]
-
+> [!Note] 插件名片
 > -   插件名称：Dynamic Highlights
-
 > -   插件作者：nothingislost
-
 > -   插件说明：根据你设定的规则动态高亮显示文本
-
 > -   插件项目地址：[点我跳转](https://github.com/nothingislost/obsidian-dynamic-highlights)
 
 ## 效果&特性

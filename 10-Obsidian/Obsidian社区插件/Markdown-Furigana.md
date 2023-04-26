@@ -15,13 +15,9 @@ public: yes
 学习日文时经常需要知道汉字的发音（假名），Markdown Furigana 插件可以很方便的输入与显示振假名（振り反名／ふりがな），同时也能处理注音符号与汉语拚音。
 
 > [!Note] 插件名片
-
 > -   插件名称：Markdown Furigana
-
 > -   插件作者：Steven Kraft
-
 > -   插件说明：日语书写中给对应的汉字生成注音假名
-
 > -   插件项目地址：[点我跳转](https://github.com/steven-kraft/obsidian-markdown-furigana)
 
 ## 语法
@@ -56,13 +52,13 @@ HTML 标签 ruby
 
 ### 样式 ruby-position
 
-#### 注音在上
+#### 注音样式在上
 
 ```
 <ruby  style="ruby-position:over">漢字<rt>ㄏㄢˋ ㄗˋ</rt></ruby>
 ```
 
-#### 注音在下
+#### 注音样式在下
 
 ```
 <ruby  style="ruby-position:under">漢字 <rt>ㄏㄢˋㄗˋ </rt></ruby>

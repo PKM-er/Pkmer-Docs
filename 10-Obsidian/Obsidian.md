@@ -68,7 +68,7 @@ modified: 20230413182941
 - [[Douban]]
 - [[Dynamic-Background]]
 - [[Dynamic-Highlights]]
-- [[Easy-Tpying]]
+- [[Easy Tpying]]
 - [[Editing-Toolbar]]
 - [[Emoji-Toolbar]]
 - [[Excalidraw]]
