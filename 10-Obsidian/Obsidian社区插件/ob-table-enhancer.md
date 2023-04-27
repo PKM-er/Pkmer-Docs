@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230414172006
+modified: 20230427180926
 public: yes
 ---
 
@@ -27,7 +27,6 @@ public: yes
 ![212839879-d5a86622-7f8a-433e-84f1-a78fa3c2735a.gif](https://s1.vika.cn/space/2023/04/14/6adcb40bd56c4524be3df588338428fa)
 
  目前 0.5.10 版本插件已经内置了 [Table-Generator](https://github.com/Quorafind/Obsidian-Table-Generator) 的功能
-
 
 - 通过单击右键单击菜单中的 `Create new table` 命令来打开表格生成器。
 ![212823688-e3281939-1d03-48a2-b319-9aa86b9ec42e.gif](https://s1.vika.cn/space/2023/04/14/172f0922588f40e4bdf9da5f835e540c)
