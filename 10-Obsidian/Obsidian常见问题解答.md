@@ -54,6 +54,12 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 
 ![Pasted image 20230128113423](https://s1.vika.cn/space/2023/03/15/e4ab5bec068f4f0f97ac7f725c9d864b)
 
+### Ribbon 区域图标如何调整
+
+方法1：设置 > 外观> Ribbon menu > 点击 Manage 按钮。1.0.0之后支持
+方法2：鼠标左键点击后进行拖拽操作排序
+方法3：
+
 ### Obsidian 能否最小到托盘
 
 Obsidian 能否像其他软件一样，常驻在系统托盘
