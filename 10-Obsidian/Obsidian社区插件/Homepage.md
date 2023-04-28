@@ -7,7 +7,6 @@ author: OS
 type: other
 draft: false
 modified: 20230329151247
-public: yes
 ---
 
 # Obsidian 插件：Homepage（像浏览器一样设置起始页）

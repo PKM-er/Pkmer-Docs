@@ -8,7 +8,6 @@ type: other
 draft: false
 editable: false
 modified: 20230427191022
-public: yes
 ---
 
 # Word Splitting for Japanese in Edit Mode

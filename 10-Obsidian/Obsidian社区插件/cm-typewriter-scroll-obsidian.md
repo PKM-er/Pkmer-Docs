@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：typewrite scroll（像打字机一样）
+title: Obsidian 插件：Typewrite scroll（像打字机一样）
 description: 
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427191025
-public: yes
+modified: 20230428173756
 ---
 
 # Obsidian 插件：Typewrite scroll（像打字机一样）

@@ -8,7 +8,6 @@ type: other
 draft: false
 editable: false
 modified: 20230401230258
-public: yes
 ---
 
 # Obsidian 插件：Custom File Explorer sorting（给文件夹和文件自定义排序）

@@ -7,7 +7,6 @@ author: OS
 type: other
 draft: false
 modified: 20230329151248
-public: yes
 ---
 
 # Obsidian 插件：Calendar
