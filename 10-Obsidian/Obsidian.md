@@ -96,7 +96,7 @@ modified: 20230413182941
 - [[obsidian-tray]]
 - [[obsidian42-brat]]
 - [[obsidian-outliner]]
-- [[Pandoc-Plugin]]
+- [[obsidian-pandoc]]
 - [[pane-relief]]
 - [[obsidian-projects]]
 - [[Quick-Explorer]]
