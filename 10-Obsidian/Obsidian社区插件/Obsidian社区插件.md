@@ -95,7 +95,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian42-brat]]
 - [[Obsidian社区插件的安装]]
 - [[obsidian-outliner]]
-- [[Pandoc-Plugin]]
+- [[obsidian-pandoc]]
 - [[pane-relief]]
 - [[obsidian-projects]]
 - [[Quick-Explorer]]
