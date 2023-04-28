@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Language Learner（事半功倍学习英文单词）
-description:
-tags:
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
+editable: false
+modified: 20230428115639
 public: yes
 ---
 
@@ -17,11 +18,10 @@ public: yes
 为 Obsidian 新增查单词面板与生词收集面板，查单词面板用来搜索单词，生词词面板用来添加新的或不熟悉的单词。
 
 > [!Note] 插件名片
->
-> -   插件名称：
-> -   插件作者：
-> -   插件说明：
-> -   插件项目地址：[点我跳转]()
+> - 插件名称：Language Learner
+> - 插件作者：guopenghui
+> - 插件说明：辅助你在 Obsidian 英语学习，提供查词，生词等功能。
+> - 插件项目地址：[点我跳转](https://github.com/guopenghui/obsidian-language-learner)
 
 ## 效果&特性
 
@@ -42,8 +42,8 @@ public: yes
 
 ### 及时查单词
 
--   目前支持字典：有道词典、剑桥词典（中英）、句酷（中英）、沪江小 D（中 - 英法德西日韩）
--   有道词典：有柯林斯、辩析、词组、同根词等子功能
+- 目前支持字典：有道词典、剑桥词典（中英）、句酷（中英）、沪江小 D（中 - 英法德西日韩）
+- 有道词典：有柯林斯、辩析、词组、同根词等子功能
 
 #### 查单词操作 1
 

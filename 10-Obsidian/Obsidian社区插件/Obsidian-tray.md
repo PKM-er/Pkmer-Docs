@@ -1,27 +1,27 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Obsidian tray 最小化到系统托盘
+title: Obsidian 插件：Obsidian tray 将 Obsidian 最小化到系统托盘
 description: 
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427175211
+modified: 20230428114012
 public: yes
 ---
 
-# Obsidian 插件：Obsidian tray 最小化到系统托盘
+# Obsidian 插件：Obsidian tray 将 Obsidian 最小化到系统托盘
 
 ## 概述
 
 让 Obsidian 点击窗口关闭按钮后，不是直接关闭程序，而是最小化到系统托盘。
 
 > [!Note] 插件名片
-> - 插件名称：obsidian tray
+> - 插件名称：Obsidian tray
 > - 插件作者：dragonwocky
-> - 插件说明：快速搜索表情符号并将其插入到您的编辑器中。
-> - 插件项目地址：[点我跳转]([https://github.com/dragonwocky/obsidian-tray)
+> - 插件说明：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘。
+> - 插件项目地址：[点我跳转](https://github.com/dragonwocky/obsidian-tray)
 
 ## 效果&特性
 

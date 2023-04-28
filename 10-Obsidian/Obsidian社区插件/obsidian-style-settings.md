@@ -1,17 +1,17 @@
 ---
 uid: 20230414151116
-title: Style settings
+title: Style settings 为你的主题添加更多自定能力
 description: 
 tags: 
 author: Cuman
 type: other
 draft: false
 editable: false
-modified: 20230427180454
+modified: 20230428103451
 public: yes
 ---
 
-# Style settings
+# Style settings 为你的主题添加更多自定能力
 
 ## 概述
 

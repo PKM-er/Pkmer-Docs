@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427180943
+modified: 20230428114538
 public: yes
 ---
 
@@ -19,8 +19,8 @@ public: yes
 >
 > - 插件名称：Obsidian42 BRAT
 > - 插件作者：TfTHacker
-> - 插件说明：Obsidian 读书标注软件，适用 PDF，MS Office 等
-> - 插件项目地址：[点我跳转](<[https://github.com/TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat)>)
+> - 插件说明：让你可以安装未上架的插件，主题。
+> - 插件项目地址：[点我跳转](https://github.com/TfTHacker/obsidian42-brat)
 
 ## 效果&特性
 
