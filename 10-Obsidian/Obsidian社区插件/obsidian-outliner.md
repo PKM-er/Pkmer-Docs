@@ -1,18 +1,25 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Outliner plugin
-description:
-tags:
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151246
+editable: false
+modified: 20230428121145
 public: yes
 ---
 
 # Obsidian 插件：Outliner plugin
 
-Outliner 外挂用来方便操控清单项目的编辑。使用清单项目（Lists & items）来记录笔记时，透过 Outliner 可收快速操作的便利。
+为 Obsidian 的大纲添加快捷操作，像在 Workflowy 或 RoamResearch 中一样，使用快捷键调整大纲的顺序和层级变化，移动大纲上的项目。
+
+> [!Note] 插件名片
+> - 插件名称：Outliner plugin
+> - 插件作者：Viacheslav Slinko
+> - 插件说明：为 Obsidian 的大纲添加快捷操作
+> - 插件项目地址：[点我跳转](https://github.com/vslinko/obsidian-outliner)
 
 ## 效果&特性
 

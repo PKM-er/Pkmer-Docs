@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427180929
+modified: 20230428113625
 public: yes
 ---
 
@@ -21,8 +21,8 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 
 > [!插件名片]
 > - 插件名称：Number Headings
-> - 插件作者：Kevin Albrecht
-> - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
+> - 插件作者：onlyafly
+> - 插件说明：给笔记中的标题自动编号。
 > - 插件项目地址：[点我跳转](https://github.com/onlyafly/number-headings-obsidian)
 
 ## 效果

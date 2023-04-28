@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230257
+modified: 20230428120142
 public: yes
 ---
 
@@ -16,10 +16,10 @@ public: yes
 Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 
 > [!Note] 插件名片
-> -   插件名称：Obsidian Easy Typing
-> -   插件作者：Yaozhuwa
-> -   插件说明：根据你设定的规则动态高亮显示文本
-> -   插件项目地址：[点我跳转](https://github.com/nothingislost/obsidian-dynamic-highlights)
+> - 插件名称：Obsidian Easy Typing
+> - 插件作者：Yaozhuwa
+> - 插件说明：根据你设定的规则动态高亮显示文本
+> - 插件项目地址：[点我跳转](https://github.com/Yaozhuwa/easy-typing-obsidian)
 
 ## 效果&特性
 
@@ -43,6 +43,7 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 ### 文本自动格式化
 
 基于规则的文本自动格式化：
+
 - 文本自动格式化提供了首字母大写功能。此
 - 可以根据用户设置的规则在输入过程中对每一行的特定部分自动添加空格。
 	- 在中文和英文之间添加空格；
@@ -79,7 +80,6 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 | 无要求              | 该区块与其他区块间没有空格要求，即空不空格分割都可以         |
 | 软空格              | 该区块与其他区块可以由软空格分割，即标点符号也可以作为一种软空格。  |
 | 严格空格             | 该区块与其他区块间必须有空格分割。                  |
-
 
 #### 自定义正则区块
 

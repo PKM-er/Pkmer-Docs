@@ -1,17 +1,17 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Obsidian Banners
+title: Obsidian 插件：Obsidian Banners 为你的笔记添加头图
 description: 
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427180910
+modified: 20230428113458
 public: yes
 ---
 
-# Obsidian 插件：Obsidian Banners
+# Obsidian 插件：Obsidian Banners 为你的笔记添加头图
 
 ## 概述
 
@@ -19,10 +19,10 @@ public: yes
 
 > [!Note] 插件名片
 >
-> - 插件名称：Number Headings
-> - 插件作者：Kevin Albrecht
+> - 插件名称：Banners
+> - 插件作者：noatpad
 > - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
-> - 插件项目地址：[点我跳转](https://github.com/onlyafly/number-headings-obsidian)
+> - 插件项目地址：[点我跳转](https://github.com/noatpad/obsidian-banners)
 
 ## 效果
 

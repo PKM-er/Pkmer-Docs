@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230257
+modified: 20230428115959
 public: yes
 ---
 
@@ -35,6 +35,7 @@ public: yes
 ## 设置
 
 1.近乎不需要设置即可使用
+
 2.新版本增加了 对 Twitter Emoji 的支持。
 
 >[!Warning] 注意

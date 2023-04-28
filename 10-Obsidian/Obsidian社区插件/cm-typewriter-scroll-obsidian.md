@@ -11,7 +11,7 @@ modified: 20230427191025
 public: yes
 ---
 
-# Obsidian 插件：typewrite scroll（像打字机一样）
+# Obsidian 插件：Typewrite scroll（像打字机一样）
 
 ## 概述
 

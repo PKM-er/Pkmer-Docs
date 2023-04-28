@@ -63,7 +63,7 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 ### Obsidian 能否最小到托盘
 
 Obsidian 能否像其他软件一样，常驻在系统托盘
-使用插件，请参考：[[Obsidian-tray]]
+使用插件，请参考：[[obsidian-tray]]
 
 ## 显示
 
@@ -117,7 +117,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 ### Obsidian 编辑时怎样使打字界面始终居于页面中央
 
-使用插件可达成此效果，请参考：[[typewrite-scroll]]
+使用插件可达成此效果，请参考：[[cm-typewriter-scroll-obsidian]]
 
 
 ## 编辑
@@ -126,7 +126,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 有时候我们进行笔记编辑，或者阅读笔记时候，希望下次可以继续当前这个位置，下次打开时候能自动跳转到对应位置，继续阅读或者编辑工作。而不是默认每次都从头开始。
 
-插件法：可以使用  [[Remember-cursor-position]]
+插件法：可以使用  [[remember-cursor-position]]
 
 ### 代码域（代码块）如何复制
 
@@ -154,14 +154,14 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 方法一：MacOS 通常设定 `Fn` 组合键以提供 `Home`、`End` 功能（例如 `Fn+←`` 或 `Fn+→``），这样就要按三个按键才能移动位置（`Fn+Cmd+←`` 或 `Fn+Cmd+→``)。
 
-方法二：使用插件，参考 [[Scroll-to-top]]
+方法二：使用插件，参考 [[obsidian-scroll-to-top-plugin]]
 
 ### Obsidian 表格比较乱如何格式化
 
 虽然 Markdown 表达表格非常容易，但看起来比较凌乱，体验感不好。手工排版容易出错，而且出错后又很难查错，因此需要工具帮助我们，最基本的需求是在书写的时候能够自动的格式化表格，就如下面的视频所看到的一样。
 
 - 自动格式化表格输入
-使用插件实现，请参看：[[Advanced-Tables]]
+使用插件实现，请参看：[[table-editor-obsidian]]
 
 - 可视化编辑表格
 使用插件实现，请参看：[[ob-table-enhancer]]
