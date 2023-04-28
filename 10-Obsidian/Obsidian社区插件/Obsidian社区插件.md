@@ -49,72 +49,23 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ## 插件列表
 
-- [[obsidian-advanced-uri]]
-- [[obsidian-textgenerator-plugin]]
-- [[table-editor-obsidian]]
-- [[obsidian-to-anki-plugin]]
-- [[better-fn]]
-- [[obsidian-booknote-plugin]]
-- [[buttons]]
-- [[calendar]]
-- [[oz-clear-unused-images]]
-- [[cmdr]]
-- [[custom-sort]]
-- [[Dataview]]
-- [[obsidian-day-planner]]
-- [[DB-folder]]
-- [[obsidian-douban-plugin]]
-- [[obsidian-dynamic-background]]
-- [[obsidian-dynamic-highlights]]
-- [[easy-typing-obsidian]]
-- [[editing-toolbar]]
-- [[obsidian-emoji-toolbar]]
-- [[obsidian-excalidraw-plugin]]
-- [[nl-fast-image-cleaner]]
-- [[find-unlinked-files]]
-- [[floating-toc]]
-- [[obsidian-view-mode-by-frontmatter]]
-- [[obsidian-hider]]
-- [[homepage]]
-- [[obsidian-icon-folder]]
-- [[obsidian-image-caption]]
-- [[obsidian-image-toolkit]]
-- [[obsidian-kanban]]
-- [[obsidian-language-learner]]
-- [[lapel]]
-- [[obsidian-local-images-plus]]
-- [[obsidian-markdown-furigana]]
-- [[metaedit]]
-- [[multi-column-markdown]]
-- [[note-refactor-obsidian]]
-- [[number-headings-obsidian]]
-- [[obsidian-banners]]
-- [[obsidian-gallery]]
-- [[Obsidian-Lite]]
-- [[obsidian-tray]]
-- [[obsidian42-brat]]
-- [[Obsidian社区插件的安装]]
-- [[obsidian-outliner]]
-- [[obsidian-pandoc]]
-- [[pane-relief]]
-- [[obsidian-projects]]
-- [[Quick-Explorer]]
-- [[QuickAdd]]
-- [[obsidian-quiet-outline]]
-- [[recent-files-obsidian]]
-- [[remember-cursor-position]]
-- [[obsidian-reminder-plugin]]
-- [[obsidian-scroll-to-top-plugin]]
-- [[Sortable]]
-- [[obsidian-style-settings]]
-- [[surfing]]
-- [[table-相关]]
-- [[ob-table-enhancer]]
-- [[tag-wrangler]]
-- [[obsidian-tasks-plugin]]
-- [[obsidian-task-progress-bar]]
-- [[Templater]]
-- [[cm-typewriter-scroll-obsidian]]
-- [[Various-Complements]]
-- [[obsidian-weread-plugin]]
-- [[japanese-word-splitter]]
+### 功能增强
+
+- [[calendar]]：添加一个简单的日历视图，用于可视化日记和在不同日记间跳转。
+
+
+### 编辑增强
+
+- [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
+- [[floating-toc]]：在文档左侧生成一个悬浮的目录。
+- [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
+- 
+
+
+### 美化
+
+- [[Obsidian-Banners]]：为文档页面添加头图和图标
+
+### 工具
+
+- [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表。

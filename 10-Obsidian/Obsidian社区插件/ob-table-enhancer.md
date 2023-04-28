@@ -20,7 +20,7 @@ public: yes
 > - 插件作者：Stardusten
 > - 插件说明：Obsidian 实时预览模式下直接操作 md 表格
 > - 是否上架：目前未上架官方市场
-> - 插件项目地址：[点我跳转]<https://github.com/Stardusten/ob-table-enhancer)>
+> - 插件项目地址：[点我跳转](https://github.com/Stardusten/ob-table-enhancer)
 
 ## 效果&特性
 

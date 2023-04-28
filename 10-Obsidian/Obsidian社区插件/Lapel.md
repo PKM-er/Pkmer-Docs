@@ -8,7 +8,6 @@ type: other
 draft: false
 editable: false
 modified: 20230427232047
-public: yes
 ---
 
 # Obsidian 插件：Lapel 为你显示标题等级

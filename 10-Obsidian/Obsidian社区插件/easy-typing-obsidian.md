@@ -8,7 +8,6 @@ type: other
 draft: false
 editable: false
 modified: 20230428120142
-public: yes
 ---
 
 # Obsidian 插件：Easy Tpying
