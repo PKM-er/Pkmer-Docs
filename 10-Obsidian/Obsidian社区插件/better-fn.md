@@ -7,7 +7,8 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428173808
+modified: 20230429002059
+public: yes
 ---
 
 # Obsidian 插件：Better footnote
