@@ -1,17 +1,17 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Recent Files
+title: Obsidian 插件：Recent Files 添加最近浏览过的文件列表
 description: 
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230257
+modified: 20230428235958
 public: yes
 ---
 
-# Obsidian 插件：Recent Files
+# Obsidian 插件：Recent Files 添加最近浏览过的文件列表
 
 为 Obsidian 添加一个最近浏览文件的列表，方便你快速查看和回溯最近的文件。
 
