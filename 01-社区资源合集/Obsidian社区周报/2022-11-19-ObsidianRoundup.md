@@ -27,7 +27,7 @@ modified: 20230401230259
 **也不是所有的插件都会立马上架插件市场，因为它们需要先经过代码审核。你可以使用 [Beta Reviewer's Auto-update Tool](https://github.com/TfTHacker/obsidian42-brat) 来手动下载那些还没上架的插件。当然这也意味着他们还不够稳定和安全，因为它们还没被代码审核过。**（译注：有些时候存在重复的条目的原因是因为对应的作者因为某些原因重开了 PR，导致会重复出现在更新内容中。）
 
 - 来自 `@Boninall` 的 [Obsidian Daily Notes Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor) 让你可以在同一个页面中实时编辑多个日记，你可以参考 Roam Research 的默认的每日笔记视图。尽管我没有在用 Daily Note，但我认为已经有不少人等了这个功能很久，真高兴见到它的出现。
-- 来自 `@luckman212` 的 [Split Pane View Helper](https://github.com/luckman212/obsidian-split-pane-view) 让用户通过热键或工具条快速新建打开当前页面的源码或预览视图。
+- 来自 `@luckman212` 的 [Split Pane View Helper](https://github.com/luckman212/obsidian-split-pane-view) 让用户通过快捷键或工具条快速新建打开当前页面的源码或预览视图。
 - 来自 `@dvargas92495` 的 [SlamePage]( <https://github.com/samepage-network/obsidian-samepag> 是一个 inter-TFT-protocol 的客户端。
 - 来自 `@bingryan` [Obsidian markdown export]( <https://github.com/bingryan/obsidian-markdown-export-plugin> 是一款 markdown export 插件。
 - 来自 `@twibiral` 的 [obsidian-doom](https://github.com/twibiral/ObsiDOOM) 可以让你在 Obsidian 应用程序中玩著名的 FPS 游戏 DOOM。你还可以玩《波斯王子》、《真人快打》、《GTA》、《模拟城市》和《极品飞车》。我很惊讶这么久才有人做这个 😂。
