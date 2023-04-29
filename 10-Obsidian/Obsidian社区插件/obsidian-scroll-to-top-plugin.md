@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181107
+modified: 20230430000148
 public: yes
 ---
 
@@ -21,7 +21,7 @@ public: yes
 
 ## 效果&特性
 
-![[Pasted image 20230126233938.png]]
+- 会在笔记编辑器右下角，生成上下箭头按钮图标
 
 ## 安装
 
@@ -33,3 +33,15 @@ public: yes
 ## 使用
 
 安装开启后，点击笔记文档的向上向下箭头即可。
+
+- 上箭头：滚动到文档顶部
+- 下箭头：滚动到文档底部
+
+## 设置
+
+![](https://cdn.pkmer.cn/images/a98623c3025d77359f7964f2ef38f505_MD5.png)
+
+- 控制是否开启某个功能，比如只保留滚动到顶部
+- 控制是否展示按钮提示词
+- 控制提示词的内容
+- 修改按钮的图标样式，基于 lucide.dev 图标集；
