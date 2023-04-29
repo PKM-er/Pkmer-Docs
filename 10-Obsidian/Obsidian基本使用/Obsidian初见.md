@@ -142,7 +142,7 @@ iOS App，可以在 Appstore 中搜索并安装。
 1. 安装完毕后，打开软件后，因为没有仓库，所以 Obsidian 会弹出初次创建页面。
 2. 你可以选择创建全新的仓库（可以理解为工作区或者笔记本，空间）
 3. 如果你之前下载过别人的示例库，或者其他基于 Markdown 笔记，也可以选择打开对应目录，作为自己的笔记。
-![Pasted image 20230221095904](https://s1.vika.cn/space/2023/03/15/fbf6bea6d0e64a4ebe17eb022f689e89)
+![Pasted image 20230221095904](Resource/Images/12f857bad1199159f04e587690b3b8ee_MD5.png)
 
 ## 如何设置界面语言
 

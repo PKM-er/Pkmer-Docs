@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428115750
+modified: 20230429181604
 public: yes
 ---
 
@@ -19,18 +19,14 @@ public: yes
 
 正因为有了说明文字（Caption），我们才能更加清楚地了解此图的含义。
 
-![Pasted image 20230213152216](https://s1.vika.cn/space/2023/03/15/4a349caf6a5c40228b55c3e256592da8)
+![Pasted image 20230213152216](https://cdn.pkmer.cn/images/f0bda348c1e7c43fa25a2b2751d15739_MD5.jpg)
 
 在你使用 Obsidian 写笔记时，如何为图片增加说明文字（Caption）呢？
 
 > [!Note] 插件名片
-
 > - 插件名称：Image Captions
-
 > - 插件作者：bicarlsen
-
 > - 插件说明：为你笔记中的图片添加标题、说明。
-
 > - 插件项目地址：[点我跳转](https://github.com/bicarlsen/obsidian_image_caption)
 
 ## 效果&特性

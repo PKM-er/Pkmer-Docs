@@ -7,7 +7,7 @@ author: Cuman
 type: other
 draft: false
 editable: false
-modified: 20230428103451
+modified: 20230429181107
 public: yes
 ---
 
@@ -44,13 +44,13 @@ public: yes
 
 css 片段下载后放到如图所示的代码片段文件夹
 
-![image.png](https://s1.vika.cn/space/2023/04/14/ab504527a232453ab3e374bf483c527b)
+![image.png](https://cdn.pkmer.cn/images/00e6205f96945284a9216c3efdae11f7_MD5.png)
 
-![image.png](https://s1.vika.cn/space/2023/04/14/673573145fc24225ba9020ad24fa9905)
+![image.png](https://cdn.pkmer.cn/images/4fde2116bf2bbc84e86055a86a7c951d_MD5.png)
 
 启用片段后就可以在 Style setting 设置文件夹中看到相应设置项了。
 
-![image.png](https://s1.vika.cn/space/2023/04/14/9ff6e76ab2cd4a8da57e6bf45aab187e)
+![image.png](https://cdn.pkmer.cn/images/7f5f4ff80bd5c9c91f6ec2d356d209ba_MD5.png)
 
 > [!info] 提示
 > 目前支持 style setting 插件的主题很多，比如国内主题 blue topaz 就是一个很好的例子。

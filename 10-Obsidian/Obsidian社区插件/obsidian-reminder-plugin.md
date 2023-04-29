@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427234624
+modified: 20230429181107
 public: yes
 ---
 
@@ -56,7 +56,7 @@ public: yes
 - [x] You will not be notified about the reminders you have already checked. (@2021-08-14)
 ```
 
-![input-reminder-time.gif](https://s1.vika.cn/space/2023/04/27/34387b51ddd447388083f8a0ba71ab22)
+![input-reminder-time.gif](https://cdn.pkmer.cn/images/133e1677ca90a3f85d2c38dd280a78d1_MD5.gif)
 
 ### 查看方法—提醒列表
 
@@ -64,15 +64,15 @@ public: yes
 
 如果单击提醒列表项，将跳转显示到对应笔记文件。
 
-![image.png](https://s1.vika.cn/space/2023/04/27/2c3e832528ba4cd181a6b2752a6b41ac)
+![image.png](https://cdn.pkmer.cn/images/5d718b10d449075829627802767c6fed_MD5.png)
 
 ### 系统通知提醒
 
-![image.png](https://s1.vika.cn/space/2023/04/27/652192cc73734f27b6ea716b4353bf2a)
+![image.png](https://cdn.pkmer.cn/images/67d54efdb120312443fab1bf1b88265a_MD5.png)
 
 如果单击 `Mark as Done`（已完成），你的待办项目将被自动标记。另外，您可以通过以后选择 `Remind Me Later`（稍后提醒我），你的提醒将被推迟。
 
-![image.png](https://s1.vika.cn/space/2023/04/27/1ad4b1dd00a04ace8b2c5aa09b029e05)
+![image.png](https://cdn.pkmer.cn/images/49727fba6c33b84c48cea8c340b9528f_MD5.png)
 
 ## 与其他插件的兼容性
 

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428115639
+modified: 20230429181108
 public: yes
 ---
 
@@ -25,7 +25,7 @@ public: yes
 
 ## 效果&特性
 
-![Pasted image 20230127165341](https://s1.vika.cn/space/2023/03/15/6f892bc256ab42a68915e8f2729cab8c)
+![Pasted image 20230127165341](https://cdn.pkmer.cn/images/b50801650322a416bb4ef9b9acfc5681_MD5.png)
 
 ## 准备
 
@@ -77,6 +77,6 @@ public: yes
 
 统计近 7 日的学习结果。
 
-![Pasted image 20230127170141](https://s1.vika.cn/space/2023/03/15/9ed98841b8474156a505e0030f610070)
+![Pasted image 20230127170141](https://cdn.pkmer.cn/images/abc76970241b39177e0cca101046d36d_MD5.png)
 
 ## 视频

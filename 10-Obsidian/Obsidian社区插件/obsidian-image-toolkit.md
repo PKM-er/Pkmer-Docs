@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428115716
+modified: 20230429181108
 public: yes
 ---
 
@@ -26,7 +26,7 @@ public: yes
 
 ## 效果&特性
 
-![image.png](https://s1.vika.cn/space/2023/04/24/ba1faef349c541149bf2a6948b9781bf)
+![image.png](https://cdn.pkmer.cn/images/4890948bde6941fa6509ee8aa6417bf3_MD5.png)
 
 1. 通过鼠标滚轮或单击工具栏缩放图标来放大或缩小图片。
 2. 通过拖动鼠标光标或按键盘方向键来浏览笔记中的图片。

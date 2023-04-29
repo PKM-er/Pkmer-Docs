@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Icon Folder（给文件夹增加图标）
-description:
-tags:
+description: 
+tags: 
 author: OS
 type: other
 draft: false
-modified: 20230329151247
-public: yes
+editable: false
+modified: 20230429181108
 ---
 
 # Obsidian 插件：Icon Folder（给文件夹增加图标）
@@ -17,14 +17,14 @@ public: yes
 会为每个文件夹增加新的右键菜单，可以图形化给文件夹设置图标。
 
 > [!Note] 插件名片
-> -   插件名称：Icon Folder
-> -   插件作者：FlorianWoelki
-> -   插件说明：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件。
-> -   插件项目地址：[点我跳转](https://github.com/FlorianWoelki/obsidian-icon-folder)
+> - 插件名称：Icon Folder
+> - 插件作者：FlorianWoelki
+> - 插件说明：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件。
+> - 插件项目地址：[点我跳转](https://github.com/FlorianWoelki/obsidian-icon-folder)
 
 ## 效果
 
-![Pasted image 20230110191650](https://s1.vika.cn/space/2023/03/15/0364664aaa5c456f84225129d0ec2640)
+![Pasted image 20230110191650](https://cdn.pkmer.cn/images/9ae0188f8195e036b9ada0a5508126b6_MD5.png)
 
 ## 安装
 
@@ -42,9 +42,9 @@ public: yes
 2. 添加需要有一个下载插件下载过程，视你的网络速度而定。
 3. 下载完成后，你会发现之前名字的图标已经被插件识别
 
-![Pasted image 20230210145955](https://s1.vika.cn/space/2023/03/15/9f19b9098f504387b5ab409ce27d1923)
+![Pasted image 20230210145955](https://cdn.pkmer.cn/images/ac97aa3edf7496cbdb59169fad17e5ce_MD5.png)
 
-![Pasted image 20230210150005](https://s1.vika.cn/space/2023/03/15/960eb46f4d604e6b8c829bf29c3ef1e4)
+![Pasted image 20230210150005](https://cdn.pkmer.cn/images/a9658c2df81635670620a2ac71265cc4_MD5.png)
 
 这里以 Remix Icons(Ri) 为例，点击安装。
 
@@ -54,7 +54,7 @@ public: yes
 
 1. 在文件列表，对应的文件夹下，鼠标右键，选择“Change icon”
 2. 在弹出的窗口中选择自己喜欢的图标吧
-   ![Pasted image 20230210150035](https://s1.vika.cn/space/2023/03/15/9f6d7264225446f8a0de9bbb40d80e6c)
+   ![Pasted image 20230210150035](https://cdn.pkmer.cn/images/fb4490cc0c9f836c1d832ae0fdfd6d18_MD5.png)
 
 ### 取消文件夹图标
 

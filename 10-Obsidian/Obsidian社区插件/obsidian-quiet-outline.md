@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230257
+modified: 20230429181107
 public: yes
 ---
 
@@ -34,11 +34,11 @@ Quiet Outline，是增强大纲插件，按需自动展开大纲，可设定展�
     - 你可以使用数学公示，粗体，斜体，甚至是 HTML 代码来当作大纲标题
     - 你可以使用粗体、斜体，内链来当作大纲标题
 
-![notquiet](https://s1.vika.cn/space/2023/03/15/21d9759419804eb691add585e239ffe4)
+![notquiet](https://cdn.pkmer.cn/images/35a56e2ed4aeab402b3cfa5fa2509b3f_MD5.gif)
 
-![quiet](https://s1.vika.cn/space/2023/03/15/53a842911ce3466088fbc5ae6d2a96b8)
+![quiet](https://cdn.pkmer.cn/images/6f7190247ce84c9b1683538fd54e3799_MD5.gif)
 
-![markdown](https://s1.vika.cn/space/2023/03/15/6b4d47f92b32434f950330c3b1e6f9df)
+![markdown](https://cdn.pkmer.cn/images/d7121a9ea7d310c0056f6cafe5f513d7_MD5.gif)
 
 ## 安装
 

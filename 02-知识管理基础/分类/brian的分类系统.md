@@ -37,11 +37,11 @@ modified: 20230414093606
 
 编目通常具有称为受控词汇表的东西。受控词汇表通常看起来像这样（这玩意儿来自美国国会图书馆主题标题 [Library of Congress Subject Headings PDF Files](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html)，关于这玩意儿深入有价值的东西可以看我的博客 [Internship Diaries #3: Thesaurasize Me, Captain – bloggings & musings](https://musings.brimwats.com/blog/2020-03-05.ki-thesaurasize-me/)）：
 
-![编目](https://forum.obsidian.md/uploads/default/original/2X/2/2279218ed797990dceaee08453943e17291b6e25.png)
+![编目](https://cdn.pkmer.cn/images/ea482d94632818896eee9f403113a5e9_MD5.png)
 
 当我看到像内容地图 (moc：Map of Content) 这样带有标签定义的东西时，我看到一个受控的词汇表跳过了分层分类系统。 不受控制的词汇表更像是你在图书馆里看到的混乱的标记系统（或者可能是组织不良的 PKM）
 
-![MOC组织不良的PKM](https://forum.obsidian.md/uploads/default/original/2X/2/29238f67ebcf48dd46112ff21ff422dc1ccd5c58.jpeg)
+![MOC组织不良的PKM](https://cdn.pkmer.cn/images/15b60f75cb376077cfe70bde2b33f2d7_MD5.jpeg)
 
 打标签非常有用，但是缺乏控制和意义的标签会很快破坏掉整个系统。正如一篇文章所说，“一个（受控术语）胜过一千个标签”。“a (controlled term) is worth a thousand tags”
 
@@ -80,7 +80,7 @@ Tiago Forte 的 [PARA Method: A Universal System for Organizing Digital Informat
 
 我用我的顶级文档组织来即兴发挥这些：
 
-![PARA在PKB中的实践](https://forum.obsidian.md/uploads/default/original/2X/3/34345894a4c96f07c9d2173e3847bd79bda07a3a.png)
+![PARA在PKB中的实践](https://cdn.pkmer.cn/images/9145771c3fd119434544d88408cfbeba_MD5.png)
 
 我在窗口中使用目录 Opus 来用颜色标记某些区域。在我的 Zotero，我的 Airtable，我的 Google 日历和我的文档中，颜色是相似的。这意味着我一眼就能看出它来自我生活的哪个领域。
 
@@ -99,7 +99,7 @@ Johnny Noble 的 [Johnny Decimal](https://johnnydecimal.com/)
 
 这迫使你对事物进行相当广泛的分组，但这就是重点。它可能长这样：
 
-![Johhy十进制分类](https://forum.obsidian.md/uploads/default/original/2X/c/ca3ef8bf8ba795fc2de1204efae5e15f5c0b7c74.png)
+![Johhy十进制分类](https://cdn.pkmer.cn/images/4adf3127e266fa69e6b774c2f79c0ea0_MD5.png)
 
 我将稍后讲解文件夹标题，每个子文件夹同样这样用 Johnny 十进制进行标注。
 
@@ -113,21 +113,21 @@ Johnny Noble 的 [Johnny Decimal](https://johnnydecimal.com/)
 
 我不会按 Zotero PARA Sidebar 那样的数字顺序进行规划，还记得 PARA 吗？这个分类系统应该在任何地方都能应用，我的 Zotero 也一样。
 
-![Zotero PARA](https://forum.obsidian.md/uploads/default/optimized/2X/6/687c7ed6df9666371bc67ba4ba864642b42fdea0_2_921x748.png)
+![Zotero PARA](https://cdn.pkmer.cn/images/f2973b5aac5c203bc3eec617e4ea56e5_MD5.png)
 
-![Zotero PARA new](https://forum.obsidian.md/uploads/default/original/2X/9/907a4e4be3c6264f0a8212a6c34bb28040d5e649.png)
+![Zotero PARA new](https://cdn.pkmer.cn/images/4c45dcdd52d5866c56025c88ceb56b6b_MD5.png)
 
 诚然，其中大部分仍在建设中，所以类别数字还没有出现。它们最终会有的！
 
 作为一个边栏，你可以看到我的 zotero 中每个提示色的要点是什么（也与我的文件夹颜色 + 颜色理论有关，但我只是把它作为一个数据点。）
 
-![Zotero Notes Color](https://forum.obsidian.md/uploads/default/original/2X/5/551e62fad5f93b458701d3799c3c8da278baeb58.png)
+![Zotero Notes Color](https://cdn.pkmer.cn/images/3f497e76f9995bd412564e9707c07cb9_MD5.png)
 
-![Zotero Notes](https://forum.obsidian.md/uploads/default/original/2X/8/8bb8602206a852ddf20a772785683f33cded4858.png)
+![Zotero Notes](https://cdn.pkmer.cn/images/89cc306ffd29bebe87873b97f37256cf_MD5.png)
 
 这些笔记最终出现在 Obsidian 中，我可以在那里看看图谱，看看 Hannah Turner 是如何进入我的学术工作的：
 
-![Zotero in Obsidian](https://forum.obsidian.md/uploads/default/optimized/2X/5/5da18292dbb4adddb8142d9b23054358eef20c48_2_1035x651.png)
+![Zotero in Obsidian](https://cdn.pkmer.cn/images/abf6ee4460e38fd1bcf6da8ef067da63_MD5.png)
 
 ## 通用十进制分类
 
@@ -188,12 +188,12 @@ History of Others & Self
 
 尼克已经非常清楚的一件事，我也会清楚的是，这是一个个人知识库，所以你应该把这些分类作为一个起点，自己做。这就是我所做的：
 
-![Pasted image 20201216045935 759×431 11.3 KB (obsidian.md)](https://forum.obsidian.md/uploads/default/original/2X/c/ca3ef8bf8ba795fc2de1204efae5e15f5c0b7c74.png)
+![Pasted image 20201216045935 759×431 11.3 KB (obsidian.md)](https://cdn.pkmer.cn/images/4adf3127e266fa69e6b774c2f79c0ea0_MD5.png)
 
-![Pasted image 20201216045942 1024×833 69 KB](https://forum.obsidian.md/uploads/default/optimized/2X/6/687c7ed6df9666371bc67ba4ba864642b42fdea0_2_921x748.png)
+![Pasted image 20201216045942 1024×833 69 KB](https://cdn.pkmer.cn/images/f2973b5aac5c203bc3eec617e4ea56e5_MD5.png)
 
 我有一个比大多数人大得多的历史部分，所以对我来说重要的是它有自己的部分，就像这样:
 
-![Pasted image 20201216062013 1073×1303 95.6 KB](https://forum.obsidian.md/uploads/default/optimized/2X/5/5d81c9a7e764a8986b589cdfc17d44cb7fea65ed_2_616x750.png)
+![Pasted image 20201216062013 1073×1303 95.6 KB](https://cdn.pkmer.cn/images/00c6bbf3b66c746f51b9188f12d96387_MD5.png)
 
 [^1]: 我也不知道啥意思，没查到

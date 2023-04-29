@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428114538
+modified: 20230429181107
 public: yes
 ---
 
@@ -39,15 +39,15 @@ public: yes
 
 1. 进入 Obsidian42 BRAT 插件内，在 Beta plugin list 一栏中，点击 Add beta plugin。
 
-![](https://s1.vika.cn/space/2023/03/15/308c2346da9645fb910157f5cffacc05)
+![](https://cdn.pkmer.cn/images/406f7387103711b0b4fae377422e993f_MD5.png)
 
 1. 将插件地址：（以 Bartender 插件为例子）的 github 地址为 `https://github.com/nothingislost/obsidian-bartender`。在弹出的窗口输入 `https://github.com/` 后的 `nothingislost/obsidian-bartender`，然后点击 Add plugin。
 
-![](https://s1.vika.cn/space/2023/03/15/7581f0275aca493faec5a1b9c052297b)
+![](https://cdn.pkmer.cn/images/913c3d5d0f73854d5a2e05d2b431119b_MD5.png)
 
 在下方出现该插件后，就是成功安装上该插件了。
 
-![](https://s1.vika.cn/space/2023/03/15/7d0555796eb54448ba550763d4d5ecdc)
+![](https://cdn.pkmer.cn/images/6b0eea1ff526cb5e1248e744ae3104ae_MD5.png)
 
 然后到插件列表启动该插件就可以了。
 

@@ -6,13 +6,13 @@ author: windilycloud
 type: other
 draft: false
 editable: false
-modified: 20230423232046
+modified: 20230429181107
 ---
 
 # obsidian-textgenerator-plugin
 
 > [!note] Text Generator
-> 插件ID：obsidian-textgenerator-plugin
+> 插件 ID：obsidian-textgenerator-plugin
 > 插件作者：Noureddine Haouari
 > 插件描述：使用 OpenAI 的模型进行文本生成
 > 插件版本：0.3.3
@@ -43,7 +43,7 @@ modified: 20230423232046
 3. 安装后打开插件设置界面，填入 API Key，即可使用。其余配置可均为默认。
 4. 在任意一行文本后按 `ctrl + j`，即可在后面自动生成文本。
 
-![image.png](https://s1.vika.cn/space/2023/04/23/72c7f7df82e04124a1142757a1f6d4b5)
+![image.png](https://cdn.pkmer.cn/images/1f0831c86ab7dd8df5dcfcea39a62927_MD5.png)
 
 ### 上下文的选择
 
@@ -64,11 +64,11 @@ modified: 20230423232046
 2. 选择模型
 3. 计算当前文档的 token 数
 
-![image.png](https://s1.vika.cn/space/2023/04/23/f394840dfec8410fbab57da585ab129d)
+![image.png](https://cdn.pkmer.cn/images/dc609923f38591cab01d25e109d7c16a_MD5.png)
 
 ### 社区模版包
 
-![image.png](https://s1.vika.cn/space/2023/04/23/9b93af025bcd4dfabba1c01bde97ac67)
+![image.png](https://cdn.pkmer.cn/images/af0466ab0787c9a3267eb4d4e40dd317_MD5.png)
 
 通过调用 `Templates Packages Manager` 命令，打开并可安装社区的 prompt 模版包。
 
@@ -76,7 +76,7 @@ modified: 20230423232046
 
 通过 上述社区模版包安装，会自动安装下述模版：
 
-![image.png](https://s1.vika.cn/space/2023/04/23/16ba6faafd0a47af8d5426b4fde5f96c)
+![image.png](https://cdn.pkmer.cn/images/b473521b0381be0eba60003d30a8a623_MD5.png)
 
 分别是：
 

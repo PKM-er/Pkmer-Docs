@@ -6,7 +6,8 @@ tags:
 author: OS
 type: other
 draft: false
-modified: 20230329151248
+editable: false
+modified: 20230429181109
 ---
 
 # Obsidian 插件：Buttons

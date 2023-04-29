@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230414111701
+modified: 20230429181108
 public: yes
 ---
 
@@ -24,7 +24,7 @@ public: yes
 
 ## 特性&效果
 
-![Pasted image 20230126212024](https://s1.vika.cn/space/2023/03/15/1b65e37a6950491b88bbe1c5a6daae81)
+![Pasted image 20230126212024](https://cdn.pkmer.cn/images/19aa4a1580b5aff38a7fbcc8ecfc1ffe_MD5.png)
 
 ## 使用方法
 

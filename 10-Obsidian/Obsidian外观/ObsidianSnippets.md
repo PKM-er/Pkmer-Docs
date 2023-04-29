@@ -25,7 +25,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 在 Obsidian 中的 CSS snippets 都是以.css 的档案格式储存在特定的文件夹。如果你有将 CSS snippets 放到该文件夹，就会在 Obsidian 显示开关。
 
-![Pasted image 20230126215854](https://s1.vika.cn/space/2023/03/15/59d45e9c13424cf8ab2e4b4daed284b0)
+![Pasted image 20230126215854](https://cdn.pkmer.cn/images/2082fd7f6036cd4da2572868af81b729_MD5.png)
 
 ## 使用
 

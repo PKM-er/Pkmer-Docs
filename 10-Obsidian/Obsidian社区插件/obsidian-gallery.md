@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427180906
+modified: 20230429181108
 public: yes
 ---
 
@@ -29,9 +29,9 @@ public: yes
 
 ## 效果&特性
 
-![Pasted image 20230310105749](https://s1.vika.cn/space/2023/01/25/f328337cbd5749188c99e1052d50ecae)
+![Pasted image 20230310105749](https://cdn.pkmer.cn/images/a47c4a5e7fff172bdf5caef0a47c0648_MD5.png)
 
-![obsidian-image-gallery](https://s1.vika.cn/space/2023/03/15/5c26976fff284e65bf78166b5b558d5e)
+![obsidian-image-gallery](https://cdn.pkmer.cn/images/3a0181128f67d2918d9c8ced32e3f807_MD5.gif)
 
 ## 使用
 
@@ -54,7 +54,7 @@ type: vertical
 ```
 ````
 
-![Pasted image 20230310110903](https://s1.vika.cn/space/2023/01/25/95eaa8846bc442f98ad4824b3fc429bf)
+![Pasted image 20230310110903](https://cdn.pkmer.cn/images/d1d04025ab1c0330a3778e0013eb599b_MD5.jpg)
 
 - 通过单击图库的任何图像部分可访问的 Lightbox 视图。
 - 如果需要，单击右上角的按钮以在新选项卡中打开原始图像。

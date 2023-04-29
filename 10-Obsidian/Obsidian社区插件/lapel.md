@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427232047
+modified: 20230429181108
 ---
 
 # Obsidian 插件：Lapel 为你显示标题等级
@@ -25,7 +25,7 @@ modified: 20230427232047
 
 ## 效果&特性
 
-![Pasted image 20230215232821](https://s1.vika.cn/space/2023/03/15/b5fd17b11ffe46f89eeb1e4e8aac7c02)
+![Pasted image 20230215232821](https://cdn.pkmer.cn/images/9b67b733eac74ff9c2c0c7d699fd6b52_MD5.png)
 
 - 在编辑器中显示对应标题级别（例如 H1、H2、H3 等）。
 - 点击显示标题级别，可以通过下拉菜单，快速切换标题级别。

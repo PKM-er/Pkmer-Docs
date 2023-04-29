@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427191022
+modified: 20230429181108
 ---
 
 # Word Splitting for Japanese in Edit Mode

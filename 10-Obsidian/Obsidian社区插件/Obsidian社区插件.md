@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230411172049
+modified: 20230429181107
 public: yes
 ---
 
@@ -53,14 +53,11 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[calendar]]：添加一个简单的日历视图，用于可视化日记和在不同日记间跳转。
 
-
 ### 编辑增强
 
 - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
 - [[floating-toc]]：在文档左侧生成一个悬浮的目录。
 - [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
-- 
-
 
 ### 美化
 

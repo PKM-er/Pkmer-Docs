@@ -7,14 +7,13 @@ author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230423173032
+modified: 20230429181108
 ---
 
 # obsidian-advanced-uri
 
-
 > [!note] Advanced URI
-> 插件ID：obsidian-advanced-uri
+> 插件 ID：obsidian-advanced-uri
 > 插件作者：Vinzent
 > 插件描述：obsidian URI 的功能增强
 > 插件版本：1.35.0
@@ -69,17 +68,17 @@ F-->21[Advanced URI:copy URI for search and replace]
 
 URI（Uniform Resource Identifier）翻译成中文就是统一资源标识符。RFC2396 分别对这 3 个单词进行了如下定义：
 
-1.  Uniform：规定统一的格式可方便处理多种不同类型的资源，而不用根据上下文环境来识别资源指定的访问方式。另外，加入新增的协议方案（如http:或 ftp:）也更容易。
-2.  Resource：资源的定义是“可标识的任何东西”。除了文档文件、图像或服务（例如当天的天气预报）等能够区别于其他类型的，全都可作为资源。另外，资源不仅可以是单一的，也可以是多数的集合体。
-3.  Identifier：表示可标识的对象。也称为标识符。
+1. Uniform：规定统一的格式可方便处理多种不同类型的资源，而不用根据上下文环境来识别资源指定的访问方式。另外，加入新增的协议方案（如 http: 或 ftp:）也更容易。
+2. Resource：资源的定义是“可标识的任何东西”。除了文档文件、图像或服务（例如当天的天气预报）等能够区别于其他类型的，全都可作为资源。另外，资源不仅可以是单一的，也可以是多数的集合体。
+3. Identifier：表示可标识的对象。也称为标识符。
 
 其实说白了就是通过一个链接定位资源的方式，也可以理解为通过一个链接告诉目标软件需要干什么事。
 
-Obsidian自带了一些URI，该插件的主要功能是增加一些URI，让其能执行更多操作。理论上通过这个插件能执行任意操作，因为该URI允许执行Obsidain的命令，结合脚本插件能大大拓宽能做的范畴。
+Obsidian 自带了一些 URI，该插件的主要功能是增加一些 URI，让其能执行更多操作。理论上通过这个插件能执行任意操作，因为该 URI 允许执行 Obsidain 的命令，结合脚本插件能大大拓宽能做的范畴。
 
-![Obsidian_FDtSIsEZg0.gif](https://s1.vika.cn/space/2023/04/23/2f90780ba0dd4a5ea25adf443784eac5)
+![Obsidian_FDtSIsEZg0.gif](https://cdn.pkmer.cn/images/810b8780b49f7de3f2d83b7d79ef2a4e_MD5.gif)
 
-如上图所示：我在typora中写好了一个打开`table-test`文件的URI，在typora，浏览器或者任意支持点击链接的地方都能定位到 Obsidian的`table-test`文件。一个链接定位万物。
+如上图所示：我在 typora 中写好了一个打开 `table-test` 文件的 URI，在 typora，浏览器或者任意支持点击链接的地方都能定位到 Obsidian 的 `table-test` 文件。一个链接定位万物。
 
 ## 用法
 
@@ -235,15 +234,15 @@ Advanced URI 以 obsidian://advanced-uri 开头，后接参数，以参数控制
 
 Ctrl+P 打开命令框，搜索“Advanced URI”，选择“Advanced URI：copy URI for command”
 
-![Pasted image 20230420123946](https://s1.vika.cn/space/2023/04/21/70b26435f9f7416a9aac3f4f9bfd4e9d)
+![Pasted image 20230420123946](https://cdn.pkmer.cn/images/7198bbfef3528682c32d45d8fee4ab3e_MD5.png)
 
 选择 emoji 文档：
 
-![Pasted image 20230420124637](https://s1.vika.cn/space/2023/04/21/ee38db2030bf40928e782acdc5ededbd)
+![Pasted image 20230420124637](https://cdn.pkmer.cn/images/40e1aaa975bd6ade3e1f7637c8866a40_MD5.png)
 
 选择命令“导出为 PDF”：
 
-![Pasted image 20230420124810](https://s1.vika.cn/space/2023/04/21/cbbf09ef4d02415ab8d0750795d3d991)
+![Pasted image 20230420124810](https://cdn.pkmer.cn/images/b48d875ecbb26b6c827938d262f1df7e_MD5.png)
 
 自动生成 Advanced URI 并自动复制进剪切板“
 
@@ -261,7 +260,7 @@ obsidian://advanced-uri?vault=testNote&commandid=workspace%253Aexport-pdf&uid=9d
 
 Ctrl+P 打开命令框，在命令框里输入“Advanced URI”，可以看到几个以 Advanced URI 开头的命令：
 
-![Pasted image 20230420123946](https://s1.vika.cn/space/2023/04/21/70b26435f9f7416a9aac3f4f9bfd4e9d)
+![Pasted image 20230420123946](https://cdn.pkmer.cn/images/7198bbfef3528682c32d45d8fee4ab3e_MD5.png)
 
 （1）Advanced URI：copy URI for command
 

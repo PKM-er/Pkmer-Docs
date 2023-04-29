@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230258
+modified: 20230429181109
 ---
 
 # Obsidian 插件：Custom File Explorer sorting（给文件夹和文件自定义排序）
@@ -21,7 +21,6 @@ modified: 20230401230258
 > - 插件作者：SebastianMC
 > - 插件说明：通过 YAML 语法给 Obsidian 的文件管理器增加自定义排序的功能
 > - 插件项目地址：[点我跳转](https://github.com/SebastianMC/obsidian-custom-sort)
-
 
 ### 原理
 
@@ -63,7 +62,6 @@ modified: 20230401230258
 >  00-小白...
 > ---
 > ```
->
 
 语法：
 
@@ -86,14 +84,13 @@ modified: 20230401230258
 
 状图标状态方便你查看现在的问题：
 
-- ![image.png](https://s1.vika.cn/space/2023/04/25/7a3d0d6b74f5462b9a18569ad0480271)：插件未生效，没有自定义排序生效。
-- ![image.png](https://s1.vika.cn/space/2023/04/25/b0ad7d9e46b94af1a3480cb3ff412788)：  插件已激活，并且生效了自定义排序。
--  ![image.png](https://s1.vika.cn/space/2023/04/25/0e7d36403b6a4166989b68da345ef959)：自定义排序配置中的语法错误。
-- ![image.png](https://s1.vika.cn/space/2023/04/25/337b84f182b343be9fe8a3f0bdd8895b)：插件未生效，有一般性错误。
-- ![image.png](https://s1.vika.cn/space/2023/04/25/55ec4bfa0fab496b983a889d7aa6a267)：  插件已激活，但未应用自定义排序。
--  ![image.png](https://s1.vika.cn/space/2023/04/25/2bf041e6a82940a69177787fc4bbd468)：仅适用于 iPad 等大屏幕移动设备）。插件已启用。但未应用自定义排序。
+- ![image.png](Resource/Images/dfff3100aadf9d8071a8596f88d4f918_MD5.png)：插件未生效，没有自定义排序生效。
+- ![image.png](https://cdn.pkmer.cn/images/28da170461b48881ceb144ff0e9e1981_MD5.png)：  插件已激活，并且生效了自定义排序。
+- ![image.png](https://cdn.pkmer.cn/images/e0cb82c19128ed14fa03e2bcccb39865_MD5.png)：自定义排序配置中的语法错误。
+- ![image.png](Resource/Images/d597a459a1eac7d09dc4704f1dc6e0bc_MD5.png)：插件未生效，有一般性错误。
+- ![image.png](Resource/Images/ebf549bb438bbe32a1895be8ca70851b_MD5.png)：  插件已激活，但未应用自定义排序。
+- ![image.png](Resource/Images/04b22bea0e95e36999844bb99148755a_MD5.png)：仅适用于 iPad 等大屏幕移动设备）。插件已启用。但未应用自定义排序。
     在小屏幕移动设备（手机）上，图标是静态的：
-
 
 ### 基本排序语法速查
 
@@ -102,9 +99,9 @@ modified: 20230401230258
 - `order-desc: a-z`  按字母逆序排列，又名逆自然排序，或降序排列
     - 'z' 在 'a' 之前，数字 11 会排在 2 之前
 - `order-asc: true a-z` - 仅按照字母排序
-    - a”在“z”之前，数字被视为文本，11在2之前
+    - a”在“z”之前，数字被视为文本，11 在 2 之前
 - `order-desc: true a-z` - 字母逆序排列，数字逆序排列
-    - “Z”在“a”之前，数字被视为文本，11在 2 之前
+    - “Z”在“a”之前，数字被视为文本，11 在 2 之前
 - `order-asc: created` - 按创建日期排序笔记
     - 创建日期最早的笔记会优先排列，子文件夹会放在所有同级笔记顶部
 - `order-desc: created` - 按创建日期倒序排列笔记

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230414111741
+modified: 20230429181108
 public: yes
 ---
 
@@ -23,4 +23,4 @@ Obsidian 社群中有一位神人— [[Zsolt Viczian]]（人称：匈牙利大�
 
 Excalidraw 是一款在线开源的绘图软件，提供手绘风格与普通风格的绘画功能，还有图形数据库可以下载别人画好的图案直接用。
 
-![Pasted image 20230126224250](https://s1.vika.cn/space/2023/03/15/78312a36468b4aa8b9b7ab17d364894a)
+![Pasted image 20230126224250](https://cdn.pkmer.cn/images/2fcac53b10844b1b268aa3414b007cf0_MD5.png)

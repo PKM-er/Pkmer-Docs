@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428120142
+modified: 20230429181108
 ---
 
 # Obsidian 插件：Easy Tpying
@@ -50,13 +50,13 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 	- 在文本和行内公式、行内代码、双向链接之间添加空格；
 	- 以及在文本区块和用户自定义正则匹配区块之间添加空格。
 
-![image.png](https://s1.vika.cn/space/2023/04/26/72d9c5820690400990b73bcb1fbf2ad9)
+![image.png](https://cdn.pkmer.cn/images/638091ac6e79c7f51b304cfead5c34b2_MD5.png)
 
 文本自动格式化的总开关如上，关闭后不会再输入过程中自动格式化文本。但是不会影响符号编辑增强的功能，也不会影响插件的内置命令：格式化全文、格式化当前行/当前选中区域。
 
 #### 首字母大写
 
-![image.png](https://s1.vika.cn/space/2023/04/26/bd5812871831409fb52912ce67680f77)
+![image.png](https://cdn.pkmer.cn/images/a0782b68c5569cacb70cf3e90463f4af_MD5.png)
 
 - 在英文输入模式下自动将每个句子的首字母大写。
 - 用户可以在设置中选择是让首字母大写仅在输入时生效，还是在全局范围内生效。
@@ -66,13 +66,13 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 
 文本和标点间自动空格，会智能地在其他文本和英文标点间添加空格。
 
-![image.png](https://s1.vika.cn/space/2023/04/26/7a3321671d064d6fad8f4a38a81cd528)
+![image.png](https://cdn.pkmer.cn/images/f1ae0c214f723dbdf78d0087f8c527eb_MD5.png)
 
 #### 不同区块间的空格策略
 
 将每个文本行分割成几个区块：文本块、行内公式块、行内代码块、链接块、用户自定义正则匹配块。块与块之间的空格策略可以在设置中改变。
 
-![image.png](https://s1.vika.cn/space/2023/04/26/1b246e9daffc41258dd16bee47cc2a0e)
+![image.png](https://cdn.pkmer.cn/images/c7f087449a936bfaea6e21e6c1b5f561_MD5.png)
 
 | 空格策略             | 说明                                 |
 |------------------|------------------------------------|

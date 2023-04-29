@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230428142344
+modified: 20230429181108
 public: yes
 ---
 
@@ -29,7 +29,7 @@ public: yes
 
 ## 效果&特性
 
-![image.png](https://s1.vika.cn/space/2023/04/28/c45108b683b34eeaaa2e0d3dbbf8aea1)
+![image.png](Resource/Images/21981670a3242cd3b2ee83fff7455f45_MD5.png)
 
 ## 使用方法
 
@@ -72,7 +72,7 @@ style: bullet
 ```
 ````
 
-![image.png](https://s1.vika.cn/space/2023/04/28/07c572f8520e4772aa453d79e6469b62)
+![image.png](Resource/Images/ba23df5ef52d6384fdd587d2afeae686_MD5.png)
 
 - 数字编号目录
 - 语法：
@@ -84,7 +84,7 @@ style: number
 ````
 
 - 样式如图：
-![image.png](https://s1.vika.cn/space/2023/04/28/de17372e04924ca28333b8cf7444a6a4)
+![image.png](Resource/Images/10f4504e0fdbdb32d77f1fa3a2b4879c_MD5.png)
 
 - 标签/面包屑模式
 - 语法：
@@ -96,7 +96,7 @@ style: inline
 ````
 
 - 样式如图：
-![image.png](https://s1.vika.cn/space/2023/04/28/a40ad8f81a4e48c28809f4809c6ff73e)
+![image.png](Resource/Images/da30dd202b0290ff38cebf1c1df4c666_MD5.png)
 - 混合风格：你可以在生成的多级目录中使用不同的编号风格。比如数字和圆点混用
 - 语法：
 
@@ -107,9 +107,9 @@ varied_style: boolean
 ````
 
 - 样式如图：
-![image.png](https://s1.vika.cn/space/2023/04/28/f729724df3244dd38cacc0a58946fb97)
+![image.png](Resource/Images/5668d6e7a8f216f17d5a610c0353e4b1_MD5.png)
 
-![image.png](https://s1.vika.cn/space/2023/04/28/d3d6dddc287840e98bc4c1515c933aab)
+![image.png](Resource/Images/b210ed42af009574a2bf7dc8da97595d_MD5.png)
 
 ### 需要注意的特殊情况
 

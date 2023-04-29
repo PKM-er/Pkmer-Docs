@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230257
+modified: 20230429181108
 public: yes
 ---
 
@@ -32,19 +32,19 @@ public: yes
 1. 5 种适用于 Obsidian 黑暗或深色配色的动态效果：
 
 - 数字雨 (Matrix / Digital Rain)
-    ![digital-rain-effect](https://s1.vika.cn/space/2023/03/15/facd682e073349b79b43875eaa2bd7f1)
+    ![digital-rain-effect](Resource/Images/7261c1cdea0daa7bc4af0f307bfb44db_MD5.gif)
 - 下雨 (Rain)
-    ![rain-effect](https://s1.vika.cn/space/2023/03/15/63366f1a760b43b28aa31399e1bf7f28)
+    ![rain-effect](Resource/Images/7533d94e782e150e4418be1ff0cebdb4_MD5.gif)
 - 随机圆圈 (Random Circle)
 - 下雪 (Snow)
-    ![snow-effect](https://s1.vika.cn/space/2023/03/15/2b0b414e1b8e427288d26ad9f8e8ce1d)
+    ![snow-effect](Resource/Images/49be7a17e01b64bae07e734b32aa41a4_MD5.gif)
 - 星空 (Star Sky)
 
 1. 2 种适用于 Obsidian 明亮或浅色配色的动态效果：
 
 - 随机圆圈 (Random Circle)
 - 波浪 (Wave)
-- ![wave-effect](https://s1.vika.cn/space/2023/03/15/f7c12bf93924457ab502ceaa0b76b651)
+- ![wave-effect](Resource/Images/c1f729a05561bae61810620cbd8df841_MD5.gif)
 
 ## 安装
 

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428173808
+modified: 20230429181057
 ---
 
 # Obsidian 插件：Better footnote
@@ -25,7 +25,7 @@ Better Footnote 可以让你在预览模式将光标放到脚注上时，自动�
 
 ## 效果&特性
 
-![594d-4dd98d035214545bb926390024878c05](https://s1.vika.cn/space/2023/03/15/42a9527f806b49f794d5a45e91f41899)
+![594d-4dd98d035214545bb926390024878c05](https://cdn.pkmer.cn/images/3cec7efc96ed4852f1b9f839ef923d2a_MD5.gif)
 
 ## 安装
 

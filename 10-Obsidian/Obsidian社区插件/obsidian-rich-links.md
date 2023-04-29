@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230428103329
+modified: 20230429181107
 ---
 
 # Obsidian 插件：Rich-links（为链接增加美化样式）
@@ -23,7 +23,7 @@ modified: 20230428103329
 
 ## 效果&特性
 
-![image.png](https://s1.vika.cn/space/2023/04/28/0a6d5b452e114b2885e4b581f346d543)
+![image.png](https://cdn.pkmer.cn/images/773085333dca8bd0a8ba14d9a72baa9a_MD5.png)
 
 可以将笔记中的 URL 转化为卡片预览样式，简单类似 Notion 一样。
 
@@ -46,7 +46,7 @@ modified: 20230428103329
 - 圈选你要改变成卡片样式的链接文本。
 - 使用 Ctrl/Cmd + P 呼出命令面板，搜索并选择 `Rich Links:Create Rich Links` ，插件会自动处理。如图：
 
-![image.png](https://s1.vika.cn/space/2023/04/28/692cdf7c7c25446ebe63326ab303db79)
+![image.png](https://cdn.pkmer.cn/images/ea5e84d9c1557491fb46394fa99b00fd_MD5.png)
 
 >[!Warning] 注意
 >在一些网络情况不好的情况下， 这个插件运行并不正常，会导致美化卡片样式无法返回。

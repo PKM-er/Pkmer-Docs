@@ -354,7 +354,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 渲染效果如下：
 
-![图片示例](https://s1.vika.cn/space/2023/03/15/36d51f521b7a49c8b27168fb31c037c7)
+![图片示例](https://cdn.pkmer.cn/images/49f8d5f75e3369aad7fbf1f99e39c35a_MD5.png)
 
 ### 链接图片
 
@@ -366,7 +366,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 渲染效果如下：
 
-![Pasted image 20230121213911](https://s1.vika.cn/space/2023/03/15/8cbf769746694fe29abf66e4c15c232d)
+![Pasted image 20230121213911](https://cdn.pkmer.cn/images/76db8488e36ad5d1449f9a28f4ef3c22_MD5.png)
 
 ### iframe 方式嵌入图片
 
@@ -375,12 +375,8 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 示例:
 
 ```html
-<iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
+<iframe src="https://www.bilibili.com/video/BV1QY4y147VR"></iframe>
 ```
-
-效果:
-
-<iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
 
 基本语法:
 

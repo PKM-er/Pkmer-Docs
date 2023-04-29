@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230257
+modified: 20230429181107
 public: yes
 ---
 
@@ -26,7 +26,7 @@ public: yes
 1. 安装并启用后，会在左侧面板生成一个 时钟样式的图标
 2. 点击该图标，可以看到最近浏览过的文档
 
-![Pasted image 20230123000328](https://s1.vika.cn/space/2023/03/15/1106473c94f14e7497611ea515a07ada)
+![Pasted image 20230123000328](https://cdn.pkmer.cn/images/5e43ff4bdd31ad16e66226ac1c05a67b_MD5.png)
 
 ## 安装
 

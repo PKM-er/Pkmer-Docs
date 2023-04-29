@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230423140625
+modified: 20230429181107
 public: yes
 ---
 
@@ -23,7 +23,7 @@ public: yes
 
 ## 效果&特性
 
-![7123f2c356ed6041188c3fde48f0fb66](https://s1.vika.cn/space/2023/03/15/141f60b6d5c54b97929337e571d36705)
+![7123f2c356ed6041188c3fde48f0fb66](https://cdn.pkmer.cn/images/dbf3ba55896f464ccb4471bd297c7051_MD5.gif)
 
 - 自动格式化表格
 - Excel 样式的表格导航 （使用  `Tab`  和  `Enter`  在行和列之间导航）
@@ -67,7 +67,7 @@ public: yes
 
 打开控制面板的快捷键为：`Ctrl` + `Shift` + `D`。 控制面板如下图所示。
 
-![Pasted image 20230127122132](https://s1.vika.cn/space/2023/03/15/beabcbd8403a433590a9dd98baf9f4a9)
+![Pasted image 20230127122132](https://cdn.pkmer.cn/images/b4220a330fe4a53b1f2ded1e516a9ba6_MD5.png)
 
 制面板上提供了表格操作的快捷方式。从图形可以很容易推测出每个图标对应的操作。
 
