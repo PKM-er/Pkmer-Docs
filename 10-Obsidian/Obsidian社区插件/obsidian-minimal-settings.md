@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230428232508
+modified: 20230429171715
 public: yes
 ---
 
@@ -22,7 +22,7 @@ public: yes
 > - 插件说明：允许在该插件的设置界面中自定义该 Minimal 主题的一些样式
 > - 插件项目地址：[点我跳转](https://github.com/kepano/obsidian-minimal-settings)
 
->[!Tips] 提示
+>[!Tip] 提示
 >该插件可以与 Hider 插件搭配使用，做到进一步简化 Obsidian 用户界面，包括去除菜单栏、工具提示、标题栏、滚动条等等。这些功能以前包含在 Minimal Theme 主题中，但现在已经被分离出来。
 
 ## 准备

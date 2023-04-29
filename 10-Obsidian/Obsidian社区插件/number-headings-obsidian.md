@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428113625
+modified: 20230429171726
 public: yes
 ---
 
@@ -82,7 +82,7 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 #### 方法二
 
 1. 在文档的 front matter (前页) 添加一行代码 1. 例如 number headings:first-level 1,max 6,1.1,auto,contents 'toc。
-   
+
    ![Pasted image 20230120233657](https://s1.vika.cn/space/2023/03/15/64eb9417d94648279368c16b74ef2b64)
 
 ### 去除标题编号
