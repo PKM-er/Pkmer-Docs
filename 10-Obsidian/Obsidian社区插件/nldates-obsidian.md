@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230428234720
+modified: 20230429173021
 public: yes
 ---
 
@@ -23,7 +23,8 @@ public: yes
 > - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
 
 >[!Tips] 提示
->说是自然语言，其实还是使用英文进行书写，并不是支持我们常用的中文中的明天，后天这样的描述方式。
+>- 该插件已经支持多种语言书写方式，包括英文和中文的日期描述词汇。比如中文的：今日，当日，昨日，明日等。
+>- 如果对这些称呼不熟悉，可以在 JS 文件中替换对应的文本词汇。
 
 ## 使用
 
