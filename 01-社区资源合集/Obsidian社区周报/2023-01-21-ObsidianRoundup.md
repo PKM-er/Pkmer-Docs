@@ -57,7 +57,7 @@ Obsidian 在 2022 的 Product Hunt 的生产力类别金猫奖中被提名；
 - [Omnisearch 1.10](https://github.com/scambier/obsidian-omnisearch/releases/tag/1.10.0) 增加了对 Canvas 的支持，以及 Text Extractor。
 - [CardBoard v0.7.0](https://github.com/roovo/obsidian-card-board/releases/tag/0.7.0) 修复了一个讨厌的罕见错误，现在支持所有有效的 CommonMark 无序列表标记 `(-, +, *)`。
 - [Front Matter Title](https://github.com/Snezhig/obsidian-front-matter-title/tree/2.9.0) 2.9.0 改进了别名处理的效果。
-- [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title/releases/tag/1.3.0) 1.3.0 支持画布，能够将网站列入黑名单，为正常粘贴提供热键，并进行了一些修正。
+- [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title/releases/tag/1.3.0) 1.3.0 支持画布，能够将网站列入黑名单，为正常粘贴提供快捷键，并进行了一些修正。
 - [Another Quick Switcher 8.4.0](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/tag/8.4.0) 增加了在默认应用中打开的选项。
 - [Excalidraw 1.8.10](https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.10) 提升了一些体验。这里有一个 [视频版](https://www.youtube.com/watch?v=wTtaXmRJ7wg) 的发布说明。
 

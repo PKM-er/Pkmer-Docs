@@ -6,7 +6,7 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20230414110933
+modified: 20230429171735
 ---
 
 # Markdown 基础
@@ -45,7 +45,7 @@ I really like using Markdown.
 I think I'll use it to format all of my documents from now on.
 ```
 
-> [!tips] 首行缩进
+> [!Tip] 首行缩进
 > 首行缩进两个字符有个历史原因，由于以前打印纸张很贵，首行缩进两个字符可以清晰的分段。而现在通过空一行的方式，是一种更优雅的分段方式。而 Markdown 就采取的这种方式。参考 [为什么网上的文章越来越少采用首行缩进了？](https://www.zhihu.com/question/539160773)
 
 段落换行：几乎每个 Markdown 应用程序都支持两个或多个空格进行换行，称为  `结尾空格（trailing whitespace)`  的方式，但这是有争议的，因为很难在编辑器中直接看到空格，并且很多人在每个句子后面都会有意或无意地添加两个空格。由于这个原因，你可能要使用除结尾空格以外的其它方式来换行。幸运的是，几乎每个 Markdown 应用程序都支持另一种换行方式：HTML 的  `<br>`  标签。
@@ -514,10 +514,6 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
 ## 实体字符
 
 在 Markdown 中，字符  `<`、`>`、`"`、`'`  和反引号是特殊字符。它们是 Markdown 语法自身的一部分，那么你如何将这些字符包含进你的文本中呢? 一种方法是转义，即加斜杠 `\<`，另一种办法是使用实体字符即字符引用。
@@ -537,3 +533,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 | 商标&trade;    | `&trade;`    |
 | 空格           | `&nbsp;`     |
 | 中文全角空格   | `&amp`       |
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.

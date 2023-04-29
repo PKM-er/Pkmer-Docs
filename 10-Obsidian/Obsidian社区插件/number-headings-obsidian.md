@@ -77,12 +77,17 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 #### 方法一
 
 1. 打开命令面板（键入 CMD + P 快速启动命令面板）。搜索 Number Headings
-2. 开始输入其中一项操作的名称。见下图。3. 您还可以将命令分配给热键以便于使用。
+2. 开始输入其中一项操作的名称。见下图。3. 您还可以将命令分配给快捷键以便于使用。
 
 #### 方法二
 
 1. 在文档的 front matter (前页) 添加一行代码 1. 例如 number headings:first-level 1,max 6,1.1,auto,contents 'toc。
+<<<<<<< HEAD
    ![Pasted image 20230120233657](https://cdn.pkmer.cn/images/40e7d86c10af5c9c198b3c9fb429b734_MD5.png)
+=======
+
+   ![Pasted image 20230120233657](https://s1.vika.cn/space/2023/03/15/64eb9417d94648279368c16b74ef2b64)
+>>>>>>> 14dff420a4a709f37a56fb6be9758a9d305dcd05
 
 ### 去除标题编号
 
