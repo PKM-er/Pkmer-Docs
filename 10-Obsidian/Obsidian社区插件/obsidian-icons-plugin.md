@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230429001752
+modified: 20230430000624
 public: yes
 ---
 
@@ -25,12 +25,13 @@ public: yes
 >[!Warning] 注意
 >- 兼容：这个插件目前运行尚算良好
 >- 缺点：这个插件并不支持实时预览模式
+>- 缺点：该插件的会占用 Obsidian 的开发者控制台的快捷键
 
-![image.png](https://s1.vika.cn/space/2023/04/28/02d43f90eaad40a9841558ebfc7cf5b4)
+![image.png](https://cdn.pkmer.cn/images/bbdbc6782887925fbe84bd94b51cebda_MD5.png)
 
 ## 效果&特性
 
-![image.png](https://s1.vika.cn/space/2023/04/28/8bca900904374974be7e1e59020c13dc)
+![image.png](https://cdn.pkmer.cn/images/a74a5eabdd62d4dabf6538016c18f891_MD5.png)
 
 ## 使用
 

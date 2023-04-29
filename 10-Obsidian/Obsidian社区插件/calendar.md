@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181109
+modified: 20230429233813
 ---
 
 # Obsidian 插件：Calendar
@@ -26,7 +26,7 @@ modified: 20230429181109
 
 ## 特性&效果
 
-![Pasted image 20230122195032](Resource/Images/61f0e58b19cad4a8e23a04f7f79c4b96_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230429233807.png)
 
 - 点击对应天数就可以建立以这个日期为名字的笔记
 - 可以在月历上显示你对应笔记是否有未完成的任务
