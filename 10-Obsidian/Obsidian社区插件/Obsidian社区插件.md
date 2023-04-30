@@ -66,3 +66,6 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 工具
 
 - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表。
+
+
+![](https://cdn.pkmer.cn/images/f0a22dd5ee505ebdbd0f24fa4cb07319_MD5.png)

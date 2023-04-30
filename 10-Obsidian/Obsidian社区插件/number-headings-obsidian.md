@@ -36,11 +36,9 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 
 ## 安装
 
-1.打开 社区插件市场
-
-2.搜索“Number Headings”
-
-3.点击下载，并在完成后启用
+1. 打开 社区插件市场
+2. 搜索“Number Headings”
+3. 点击下载，并在完成后启用
 
 ## 设置
 
@@ -82,12 +80,11 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 #### 方法二
 
 1. 在文档的 front matter (前页) 添加一行代码 1. 例如 number headings:first-level 1,max 6,1.1,auto,contents 'toc。
-<<<<<<< HEAD
+
    ![Pasted image 20230120233657](https://cdn.pkmer.cn/images/40e7d86c10af5c9c198b3c9fb429b734_MD5.png)
-=======
 
    ![Pasted image 20230120233657](https://s1.vika.cn/space/2023/03/15/64eb9417d94648279368c16b74ef2b64)
->>>>>>> 14dff420a4a709f37a56fb6be9758a9d305dcd05
+
 
 ### 去除标题编号
 
