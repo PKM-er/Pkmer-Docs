@@ -27,7 +27,7 @@ modified: 20230430010307
 
 ## 效果&特性
 
-![](https://cdn.pkmer.cn/images/Convert%20url%20to%20preview%20%20iframe%20.gif)
+![](Resource/Images/2d7db315d6681f8dd943e96e3bfc7c9e_MD5.gif)
 
 ## 使用
 
@@ -35,6 +35,6 @@ modified: 20230430010307
 - 鼠标右键单击（或使用命令面板 `Convert to Url Preview`（转换为 URL 预览）
 - 点击 ``Url to Preview/Iframe`
 
-![image.png](https://cdn.pkmer.cn/images/438f2d9319b8f575b022ac0d9863605f_MD5.png)
+![image.png](Resource/Images/438f2d9319b8f575b022ac0d9863605f_MD5.png)
 
 - 该插件没有任何设置项
