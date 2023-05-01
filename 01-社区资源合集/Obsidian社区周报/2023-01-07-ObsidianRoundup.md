@@ -48,7 +48,7 @@ Obsidian 的默认安装程序更新到了 Electron v21 版本，这意味着你
 - 由 `@adriandersen` 开发的 [FuzzyTag](https://github.com/adriandersen/obsidian-fuzzytag) 让用户在 Frontmatter 中输入标签时模糊匹配；
 - 由 `@joleaf` 开发的 [DMN 插件](https://github.com/joleaf/obsidian-dmn-plugin) 可以使用 dmn-js 查看 DMNs；
 - 由 `@Fevol` 开发的 [Translate](https://github.com/Fevol/obsidian-translate) 使用户使用 Google Translate、DeepL、Azure 等翻译文本和笔记更容易；
-- 由 `@scambier` 开发的 [Text Extractor](https://github.com/scambier/obsidian-text-extractor) 有助于用户从图像（OCR）和 PDF 中提取文本；它本身并不带有特殊的功能，更多是为了方便 [Omnisearch](https://github.com/scambier/obsidian-omnisearch/releases/tag/1.10.0-beta.1) 或其他插件调用；
+- 由 `@scambier` 开发的 [Text Extractor](https://github.com/scambier/obsidian-text-extractor) 有助于用户从图片（OCR）和 PDF 中提取文本；它本身并不带有特殊的功能，更多是为了方便 [Omnisearch](https://github.com/scambier/obsidian-omnisearch/releases/tag/1.10.0-beta.1) 或其他插件调用；
 - 由 `@alangrainger` 开发的 [Google Photos](https://github.com/alangrainger/obsidian-google-photos) 是一个用于 Obsidian 的 Google Photos 集成插件；
 - 由 `@nqthqn` 开发的 [Wordy](https://github.com/nqthqn/obsidian-wordy) 让用户可以使用 Datamuse API 的词库、词典等；
 - 由 `@KrazyManJ` 开发的 [Keyshots](https://github.com/KrazyManJ/obsidian-keyshots) 增强了 Obsidian 的快捷键体验，支持了流行的 IDE 如 Visual Studio Code 或 JetBrains Family 的常见快捷键命令（组）；

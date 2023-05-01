@@ -55,7 +55,7 @@ aliases: []
 
 ### 开发者相关
 
-- Omnisearch 的 PDF 索引和图像的 OCR 功能已经作为 [库](https://github.com/scambier/obsidian-text-extract) 发布。
+- Omnisearch 的 PDF 索引和图片的 OCR 功能已经作为 [库](https://github.com/scambier/obsidian-text-extract) 发布。
 
 # 外观
 
