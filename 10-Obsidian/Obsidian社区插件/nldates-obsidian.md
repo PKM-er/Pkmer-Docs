@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230429231548
+modified: 20230502001449
 public: yes
 ---
 
@@ -57,7 +57,7 @@ public: yes
 - 你可以自定义每周以周几开始（默认是周一）
 - 时间格式默认：HH:mm
 
-## 示例
+## 时间格式示例
 
 插件支持大多数日期/时间格式，包括：
 
@@ -68,3 +68,11 @@ public: yes
 - 2 weeks from now
 - Sat Aug 17 2013 18:40:39 GMT+0900 (JST)
 - 2014-11-30T08:15:30-05:30
+
+## 扩展时间格式示例
+
+- 星期（过去事件中离当前点最近的星期）："sunday", "monday","tuesday","wednesday","thursday","friday","saturday"
+- 缩写的星期：sun, mon, tue, wed, thu, fri, sat
+- 月中的第几天：first: 1, second: 2, third: 3, fourth: 4, fifth: 5, sixth: 6, seventh: 7, eighth: 8, ninth: 9, tenth: 10, eleventh: 11, twelfth: 12, thirteenth: 13, fourteenth: 14, fifteenth: 15, sixteenth: 16, seventeenth: 17, eighteenth: 18, nineteenth: 19, twentieth: 20, "twenty first": 21, "twenty-first": 21, "twenty second": 22, "twenty-second": 22, "twenty third": 23, "twenty-third": 23, "twenty fourth": 24, "twenty-fourth": 24, "twenty fifth": 25, "twenty-fifth": 25, "twenty sixth": 26, "twenty-sixth": 26, "twenty seventh": 27, "twenty-seventh": 27, "twenty eighth": 28, "twenty-eighth": 28, "twenty ninth": 29, "twenty-ninth": 29, thirtieth: 30, "thirty first": 31, "thirty-first": 31。
+- 月度数据（每个月份的第一天）：january, february, march, april, may, june, july, august, september, october, november, december。
+- 中文：今日,当日,昨日,明日,今夜,今夕,今晩,今朝。
