@@ -50,7 +50,7 @@ modified: 20230401230259
 - [Divide & Conquer](https://github.com/chrisgrieser/obsidian-divide-and-conquer/releases/tag/1.0.0) 在 1.0 版本有了一个新的维护者；你现在在插件和主题界面中有了新的 UI 按钮来方便你快速找到问题插件。
 - [Full Calendar 0.8.0](https://github.com/davish/obsidian-full-calendar/releases/tag/0.8.0) 增加了任务事件；你可以在事件中添加复选框，并在日历中勾选完成，它将在 front matter 更新完成的时间。
 - [Colorful Tag 1.2.2](https://github.com/rien7/obsidian-colorful-tag/releases/tag/1.2.2) 支持嵌套标签，隐藏 hashtags 和标签名称。
-- [Omnisearch 1.8.0](https://github.com/scambier/obsidian-omnisearch/releases/tag/1.8.0) 增加 URI 来方便你调用，以及增加了图像的 OCR。
+- [Omnisearch 1.8.0](https://github.com/scambier/obsidian-omnisearch/releases/tag/1.8.0) 增加 URI 来方便你调用，以及增加了图片的 OCR。
 
 # 功能请求
 
