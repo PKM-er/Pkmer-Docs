@@ -6,7 +6,7 @@ author: Boninall
 type: other
 draft: false
 editable: false
-modified: 20230501111049
+modified: 20230503223241
 ---
 
 # dataview
@@ -18,4 +18,3 @@ modified: 20230501111049
 > 插件版本：0.5.55
 > 插件源码地址：[obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
 > 插件文档地址：[Dataview Doc)](https://blacksmithgu.github.io/obsidian-dataview/)
-

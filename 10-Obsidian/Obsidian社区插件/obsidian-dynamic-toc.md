@@ -29,7 +29,6 @@ public: yes
 
 ## 效果&特性
 
-![image.png](Resource/Images/21981670a3242cd3b2ee83fff7455f45_MD5.png)
 
 ## 使用方法
 
