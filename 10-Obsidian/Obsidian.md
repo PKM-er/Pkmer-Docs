@@ -65,7 +65,6 @@ Obsidian 最强大的地方在于插件系统，即使是官方的一些功能�
 - [[obsidian-to-anki-plugin]]
 - [[better-fn]]
 - [[obsidian-booknote-plugin]]
-- [[buttons]]
 - [[calendar]]
 - [[oz-clear-unused-images]]
 - [[cmdr]]
