@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230429171715
+modified: 20230501112051
 public: yes
 ---
 
@@ -82,7 +82,7 @@ public: yes
 - 在浅色模式样式之间循环
 - 在深色模式样式之间循环
 - 增加 / 减小字体大小
-- 切换图像网格
+- 切换图片网格
 - 切换侧边栏边框
 - 循环调整图像宽度选项
 - 循环调整表格宽度选项

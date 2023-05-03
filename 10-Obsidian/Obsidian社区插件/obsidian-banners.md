@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230501112040
 public: yes
 ---
 
@@ -33,9 +33,9 @@ public: yes
 ### 创建 Banners
 
 - 在打开的笔记中，您可以使用 命令面板搜索并选择
-    Add/Change banner with local image 命令选择本地图像作为笔记的头图；
-- 或者您可以选择“**Paste banner from clipboard**”命令，将复制图像 URL 粘体为头图图像。
-- 还可以拖动横幅图像以重新定位图像，以及使用“锁定/解锁横幅位置”命令将横幅的位置“锁定”到位，反之亦然。
+    Add/Change banner with local image 命令选择本地图片作为笔记的头图；
+- 或者您可以选择“**Paste banner from clipboard**”命令，将复制图像 URL 粘体为头图图片。
+- 还可以拖动横幅图片以重新定位图片，以及使用“锁定/解锁横幅位置”命令将横幅的位置“锁定”到位，反之亦然。
 
 以上方法插件会自动帮你写入 YAML 语法到你笔记的 Frontmatter 区域。
 
@@ -48,7 +48,7 @@ public: yes
 到目前为止，您可以使用以下字段（使用默认的 frontmatter 字段前缀）：
 
 ````语法
-#头图图像的源路径可以是URL或图像的内部链接。
+#头图图片的源路径可以是URL或图片的内部链接。
 #注意：请确保它用引号括起来，以避免分析错误，例如“![[file]]”
 banner: string
 
@@ -66,7 +66,7 @@ banner_icon: string
 
 ### 样式
 
-- **height**：头图高度，指定每个头图图像应该有多高。
+- **height**：头图高度，指定每个头图图片应该有多高。
 - **style**：更改头图在笔记中的外观。目前有 2 个选项： - Solid：简单、轮廓清晰的头图图像。 - Gradient：一个渐变为透明的头图。
     ![Pasted image 20230310121511](Resource/Images/eed105d4b9e597fbb2c044729d2ccae6_MD5.png)
 
@@ -84,5 +84,5 @@ banner_icon: string
 ### 高级样式
 
 - **Show banner in internal embed**:：选择头图是否应显示在文件的内联内部嵌入中。
-- **Preview internal banner height**：如果启用“在内部嵌入中显示头图”，此设置将确定嵌入中横幅图像的高度。
+- **Preview internal banner height**：如果启用“在内部嵌入中显示头图”，此设置将确定嵌入中横幅图片的高度。
     ![Pasted image 20230310122215](Resource/Images/9a6192ee7983f75c5fa2711da0a6e1ef_MD5.png)

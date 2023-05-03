@@ -27,7 +27,7 @@ modified: 20230401230259
 
 这些插件通过了代码审查，现在可以在插件市场可以下载了。对于全部的通过列表，请查看 [插件统计页面](https://obsidian-plugin-stats.vercel.app/new)。
 
-- 来自 `louis030195` 的 [Ava](https://github.com/louis030195/obsidian-ava) 是一个新的 AI 相关插件，它支持你使用 Stable Diffusion 来直接在 Obsidian 中生成图像。不过，它看起来需要一些折腾，但是如果你对图像生成感兴趣的话，那么我觉得很值。
+- 来自 `louis030195` 的 [Ava](https://github.com/louis030195/obsidian-ava) 是一个新的 AI 相关插件，它支持你使用 Stable Diffusion 来直接在 Obsidian 中生成图片。不过，它看起来需要一些折腾，但是如果你对图片生成感兴趣的话，那么我觉得很值。
 - 来自 [cloudhao1999](https://github.com/cloudhao1999) 的 [Obsidian Scroll to Top](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) 允许你点击图标就回到顶部或者滑到底部。
 - 来自 [MohrJonas](https://github.com/MohrJonas) 的 [Obsidian OCR](https://github.com/MohrJonas/obsidian-ocr) 为 Obsidian 带来了 OCR 功能，让你可以在图片和 PDF 中搜索文本。
 - 来自 [benr77](https://github.com/benr77) [Obsidian Gitlab Issues](https://github.com/benr77/obsidian-gitlab-issues) 允许你将你的 Gitlab issues 加载到你的库里面作为笔记输出。
