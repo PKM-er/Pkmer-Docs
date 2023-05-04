@@ -6,13 +6,13 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20230429171735
+modified: 20230504142212
 ---
 
 # Markdown 基础
 
 > [!warning]
-> 本文只包含 markdown 基础语法，并不包含笔记软件特定语法，这样区分以便读者选择通用语法使用，以便后续迁移笔记软件。
+> 本文只包含 Markdown 基础语法，并不包含笔记软件特定语法，这样区分以便读者选择通用语法使用，以便后续迁移笔记软件。
 
 ## 什么是 Markdown?
 
@@ -512,7 +512,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 呈现的输出如下所示：
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here's a simple footnote,[^1] and here's a longer one.[^2]
 
 ## 实体字符
 
@@ -536,4 +536,4 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
 
-[^bignote]: Here's one with multiple paragraphs and code.
+[^2]: Here's one with multiple paragraphs and code.
