@@ -6,14 +6,14 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230504003619
+modified: 20230504102735
 ---
 
 # Obsidian 插件：Comments 为你的笔记增加评论和批注功能
 
 ## 概述
 
-有时候，我们阅读书籍的时候，希望在特定的内容上增加批注或者评论，无论是出于以后回顾的目的，还是出于记录当时<label class="ob-comment" title="" style=""> 思考 <input type="checkbox"> <span style=""> sdfsdffsdfdsdfsdfs </span></label>灵感的方式，这都是一种从纸质书时代开始，原始且有效的简易方法。
+有时候，我们阅读书籍的时候，希望在特定的内容上增加批注或者评论，无论是出于以后回顾的目的，还是出于记录当时思考灵感的方式，这都是一种从纸质书时代开始，原始且有效的简易方法。
 
 Comments 这个插件就为我们提供了这样的功能，可以为笔记上增加批注或评论，以弥补原生应用的不足。
 
@@ -54,4 +54,41 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 	- Q/A->问题可以是标题，单击侧栏中的问题将显示突出显示的文本（可以用于从侧面板审查笔记的关键思想）
 	- 建议记录笔记批注的原因，以方便日后回忆，比如是灵感，还是对应实例或是不同见解。
 - 风格（可选）：如上面的示例所示，由于它是简单的 HTML 语法，因此可以按照自己的喜好定义样式。目前有两种样式，位于 `<label class="ob-comment" style="...">` 中的样式将指定突出显示文本的样式，而 `<input type="checkbox"> <span style="">` 将指定注释弹出窗口的样式（此样式与侧面板使用相同）。
-- 注释部分：由于注释使用<input type="checkbox"> <span>来标识内容，实际的评论可以包括更多的 div/span/HTML 元素来进一步自定义，它将在行内和侧面板中正确呈现。
+- 注释部分：由于注释使用 `<input type="checkbox"> <span>` 来标识内容，实际的评论可以包括更多的 div/span/HTML 元素来进一步自定义，它将在行内和侧面板中正确呈现。
+
+### 设置
+
+- 支持设置批注的默认文字颜色，当然你可以在插入的 HTML 代码中自己修改；
+- 支持设 hi 批注的默认背景颜色，当然你可以在插入的 HTML 代码中自己修改；
+- 支持隐藏插件在 Ribbon 区域的图标；
+![image.png](https://cdn.pkmer.cn/images/20230504102255.png)
+
+### 自定义样式
+
+插件中所有的内嵌高亮显示/弹出窗口都是使用 CSS 完成的，因此可以通过修改 obsidian comments 插件文件夹中的 style.css 进行自定义。
+
+要修改高亮显示文本的默认背景色/文本颜色，参考如下代码片段：
+
+```CSS
+.ob-comment {
+  color: #8f0303;
+  background-color: #CCA300;
+}
+```
+
+修改批注气泡的默认背景颜色 /文本颜色以进行：
+
+```CSS
+.ob-comment span {
+  background-color: #FFDE5C;
+  color: #b30202;
+}
+```
+
+修改悬停在其上时的高亮颜色：
+
+```CSS
+.ob-comment:hover {
+  background-color: #FFDE5C;
+}
+```
