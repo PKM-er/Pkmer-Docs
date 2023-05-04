@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504211748
+modified: 20230504213041
 public: yes
 ---
 
@@ -69,4 +69,8 @@ public: yes
 
 ## 延伸阅读
 
-为了方便新手不需要代码就可以设置Obsidian的一些样式，建议安装[[obsidian-style-settings]] 并使用默认主题片段 ![[obsidian-style-settings#^992e4d]]
+修改样式目前有三种途径
+
+- 根据上面教程 自己找到 css 选择器，自己写 css 片段
+- 找到别人分享的 css 片段的内容，复制到自己的片段中
+- 通过 style setting 插件修改，建议安装 [[obsidian-style-settings]] 并使用默认主题片段 ![[obsidian-style-settings#^992e4d]]
