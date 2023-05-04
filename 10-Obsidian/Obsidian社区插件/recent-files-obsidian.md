@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181107
+modified: 20230504185119
 public: yes
 ---
 
@@ -41,7 +41,7 @@ public: yes
 2. Open note in：选择点击最近浏览列表的文件时，是以何种方式打开。比如标签页、窗口、面板。
 3. Omniited pathname patterns：可以过滤你不想看到的内容，比如文件夹、指定后缀名的文件。
 
-## 功能使用
+## 使用
 
 ### 启用
 
@@ -56,7 +56,6 @@ public: yes
 4. 按住<kbd>Ctr</kbd>拖拽到笔记内部，可以建立内部链接
 5. 按住<kbd>Ctr</kbd>拖拽到笔记文件管理器中，可以快速移动笔记位置。
 
-> [! 注意]
-
+>[!Tip] 提示
 > 1. 最近文件列表，只有在该插件启用后，浏览过的文档才会被记录
 > 2. 该插件不支持记录，白板（canvas）功能生成的文件

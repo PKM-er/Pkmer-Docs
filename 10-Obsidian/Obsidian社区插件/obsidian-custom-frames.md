@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230504183318
+modified: 20230504184935
 ---
 
 # Obsidian 插件：Custom Frames 集成更多网页应用到笔记中
@@ -31,19 +31,6 @@ modified: 20230504183318
 
 支持自定义一个网站链接，后面这个链接，可以以标签的方式在 OB 内打开，而不是需要第三方浏览器，整个工作都在 Obsidian 内完成。比如我们设置 baidu，bing 的搜索界面入口地址。方便我们查询资料而不是需要切换窗口到浏览器。
 
-### 预置第三方网页应用
-
-插件默认提供了一些可能和查找资料、事务管理等相关的网址，如下：
-
-- Obsidian Forum
-- Detexify
-- Google Calendar
-- Google Keep
-- Todoist
-- Notion
-- Twitter
-- Google Tasks
-
 ### 自定义集成第三方网页应用
 
 ![image.png](https://cdn.pkmer.cn/images/20230504154313.png)
@@ -58,6 +45,10 @@ modified: 20230504183318
 - Disable on Mobile：默认开启，在移动端禁用此网页引用。这样设计的原因是，部分网页应用不能完全适配移动端，可能带来体验问题，所以默认是不在移动端开启。
 - Add Ribbon Icon：默认关闭，在 Ribbon 区域增加一个按钮
 - Open in Center：默认关闭，在标签页中直接打开网页应用，好像在使用浏览器一样。开启后对应的自定义网页应用，会像一些插件一样，在在侧边栏中的一个窗口面板中打开。
+
+>[!Warning] 注意
+>- Display name 和 URL 是必填项，如果不填写，对应功能无法运作
+>- 所有信息修改后，需要重启 Obsidian 才能生效。
 
 ### 笔记模式
 
@@ -78,6 +69,19 @@ style: height: 1000px;
 urlSuffix: #reminders
 ```
 ````
+
+### 预置第三方网页应用
+
+插件默认提供了一些可能和查找资料、事务管理等相关的网址，如下：
+
+- Obsidian Forum
+- Detexify
+- Google Calendar
+- Google Keep
+- Todoist
+- Notion
+- Twitter
+- Google Tasks
 
 ## 已知问题
 
