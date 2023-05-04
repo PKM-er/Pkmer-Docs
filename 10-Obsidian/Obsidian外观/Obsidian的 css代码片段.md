@@ -1,17 +1,20 @@
 ---
 uid: 20230329145808
-title: 02、Obsidian 的 Snippets
+title: Obsidian的 css代码片段
 description: 
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230401230258
+modified: 20230504203216
+aliases: Obsidian css代码片段
 public: yes
 ---
 
-# 02、Obsidian 的 Snippets
+# Obsidian 的 css 代码片段
+
+Obsidian 的 Snippets
 
 主题可以帮助你获得
 
@@ -34,5 +37,3 @@ Obsidian 还支持一种外部样式代码引用的方式。
 2、 Obsidian > 设置 > 外观，最后一项【CSS 代码片段】，刷新一下，会显示出新增的文件，把后面的切换按钮打开即可。
 
 涉及软件界面的修改，有时候可能需要重启软件生效。
-
-![[Pasted image 20230126215910.png]]
