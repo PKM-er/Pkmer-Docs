@@ -6,7 +6,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504230547
+modified: 20230504234029
 ---
 
 # supercharged-links-obsidian
@@ -23,15 +23,15 @@ modified: 20230504230547
 
 ## 特性
 
-例如,当您的笔记代表某物时,例如一篇论文、一个地点、一个人或一周中的一天。然后,可以使用 Supercharged 链接使这些注释脱颖而出。另一个用例可能是为带有 `#todo` 标签的注释添加醒目的颜色。
+例如，当您的笔记代表某物时，例如一篇论文、一个地点、一个人或一周中的一天。然后，可以使用 Supercharged 链接使这些注释脱颖而出。另一个用例可能是为带有 `#todo` 标签的注释添加醒目的颜色。
 
 这种视觉反馈可以帮助您快速找到正确的笔记
 
-借助 [[obsidian-style-settings]],可以对 Supercharged 进行样式设计。
+借助 [[obsidian-style-settings]] ，可以对 Supercharged 进行样式设计。
 
 ## 入门
 
-假设我有一个关于 Jim 的笔记,名为“Jim.md”,并包含标签“#person”。
+假设我有一个关于 Jim 的笔记，名为“Jim.md”，并包含标签“#person”。
 
  ```MD
 ---
@@ -51,7 +51,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 如果需要把 yaml 中包含 `status :经常联系` 的笔记设置一个特别的样式
 
-首先,需要在顶部的“Target Attributes for Styling”选项中设置插件要为您的样式包含哪些 yaml 字段。我们这里填写 status
+首先，需要在顶部的“Target Attributes for Styling”选项中设置插件要为您的样式包含哪些 yaml 字段。我们这里填写 status
 
 ![image.png](https://cdn.pkmer.cn/images/202305020905351.png)
 
@@ -69,7 +69,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 同样道理，可以对包含某个标签的笔记进行样式设计比如查找带有“#person”标签的笔记。
 
-在设置中的样式标题下,创建一个新的选择器。在选择器类型下,选择“标签”,然后在下方添加“人”:
+在设置中的样式标题下，创建一个新的选择器。在选择器类型下，选择“标签”，然后在下方添加“人”:
 
  ![image.png](https://cdn.pkmer.cn/images/202305020914769.png)
 
@@ -79,21 +79,21 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 ## 高级使用
 
-虽然样式设置集成提供了大量可自定义选项,但如果您熟悉 CSS 和 HTML,则可以进一步设置链接样式。
+虽然样式设置集成提供了大量可自定义选项，但如果您熟悉 CSS 和 HTML，则可以进一步设置链接样式。
 
 假设我在某处有一些指向 `[[Jim]]` 的链接。
 
-如果没有激活插件,HTML 链接元素通常如下所示:
+如果没有激活插件，HTML 链接元素通常如下所示:
 
 ```
 <a data-href="Jim" href="Jim" class="internal-link" target="_blank" rel="noopener">Jim</a>
  ```
 
-这不会提供有关 Jim.md 注释中内容的任何信息!因此,我们将无法自定义它。
+这不会提供有关 Jim.md 注释中内容的任何信息!因此，我们将无法自定义它。
 
-这就是这个插件的用武之地: 它将在 `<a>` 元素中添加两个额外的属性:`data-link-status` 和 `data-link-tags`。 **重要的是**,这些属性都带有 `data-link` 前缀,这样就不会和 Obsidian 中的其他属性冲突。
+这就是这个插件的用武之地: 它将在 `<a>` 元素中添加两个额外的属性:`data-link-status` 和 `data-link-tags`。 **重要的是**，这些属性都带有 `data-link` 前缀，这样就不会和 Obsidian 中的其他属性冲突。
 
-激活插件后, `</a> <a>` 元素会被渲染成这种 html 格式:
+激活插件后， `</a> <a>` 元素会被渲染成这种 html 格式:
 
  ```
 </a> <a data-href="Jim" href="Jim" class="internal-link data-link-text data-link-icon data-link-icon-after" target="_blank" rel="noopener" data-link-status="call soon" data-link-tags="#person" >吉姆</a>
@@ -113,7 +113,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 }
 ```
 
-这将针对所有包含 `data-link-tags` 属性的 HTML 元素,即所有增压链接。
+这将针对所有包含 `data-link-tags` 属性的 HTML 元素，即所有增压链接。
 
 比如要对 yaml 字段中包含 `category: people` 属性的笔记前面增加一个表情，可以这样写 css 片段
 
@@ -125,12 +125,12 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 ![image.png](https://cdn.pkmer.cn/images/202305020934915.png)
 
-当笔记包含 `status` 属性 时,可以用类似标签的蓝色圆角矩形突出显示链接:
+当笔记包含 `status` 属性 时，可以用类似标签的蓝色圆角矩形突出显示链接:
 
  ```CSS
 :not(:empty)[data-link-next-status] {
     color: white;
-    background-color: rgb(29, 29, 129);
+    background-color: rgb(29， 29， 129);
     border-radius: 18px;
     padding: 5px 15px;
 }
@@ -151,7 +151,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 如果对包含 #hide 链接的笔记进行隐藏:
 
  ```CSS
-a.internal-link[data-link-tags *="hide"],
+a.internal-link[data-link-tags *="hide"]，
 .cm-hmd-internal-link > [data-link-tags *="hide"]{
     visibility: hidden !important;
     display: none;
