@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230505234920
+modified: 20230506002038
 ---
 
 # Obsidian 插件：External Favicon 为笔记中的网页链接增加网站图标
@@ -29,9 +29,17 @@ modified: 20230505234920
 
 ## 使用
 
+- 该插件没有插件设置选项
 - 自动检测当前笔记中链接内容，获取网站图标（Favicons）
 - 如果网站没有设置网站图标，则会使用默认图标代替
 - 支持针对两种格式链接的
 	- 链接形式 1：`[Obsidian](https://obsidian.md/)`
 	- 链接形式 2：`https://obsidian.md/`
 - 网站图标仅被添加到网页链接前方
+
+>[!Tip] 提示
+>- 这是一个新插件，若有问题请给予谅解
+>- 该插件仅支持阅读模式，实时阅览模式尚存在一点问题
+
+>[!Tip] 提示
+>- 类似插件还有：[[link-favicon]]

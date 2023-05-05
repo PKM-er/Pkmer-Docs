@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230505234429
+modified: 20230506001926
 ---
 
 # Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
@@ -85,3 +85,6 @@ body .link-favicon[data-is-readable-a-a] {
 	background-image: none;
 }
 ```
+
+>[!Tip] 提示
+>- 类似插件还有：[[external-favicon]]
