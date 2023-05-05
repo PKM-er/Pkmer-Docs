@@ -13,18 +13,18 @@ modified: 20230412220442
 
 ## Obsidian 是什么
 
-Obsidian 是一个强大且扩展性极高的知识库软件，建立在你本地文件夹中的纯文本文件中。
+Obsidian 是一个强大且扩展性极高的知识库软件，建立在你本地文件夹中的纯文本文件中。说人话就是记笔记的软件，但不仅仅是记笔记，按照惯例，上图比较好：
 
-说人话就是记笔记的软件，但不仅仅是记笔记，按照惯例，上图比较好：
+![image.png](https://cdn.pkmer.cn/images/20230505185457.png)
 
-![Screen_Shot_2023-01-08_at_10.42.53_PM.png](Resource/Images/7fb5e934e8378798515283b67c6afbcd_MD5.png)
 
 - 来自 Obsidian Discord 社区频道
 - 左侧面板是常用链接跳转，左侧面板下方是习惯记录
 - 中间是笔记近况，从笔记里自动统计更新最近的笔记以及笔记状态
 - 右上方是图谱，命令和设置，一键记录习惯，添加笔记，更改设置；右下方是 memos，用于记录灵感。
 
-![image.png](Resource/Images/fce093fdcd8bcba1e161dbbc89041d58_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230505185335.png)
+
 
 - 来自 [PKMer-Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example)
 - 左侧是目录树和最近文件
@@ -38,7 +38,7 @@ Obsidian 是一个强大且扩展性极高的知识库软件，建立在你本�
 - OKR Tracke 跟踪记录当天当前阶段的 OKR 完成状况，比如 `Sleep:: 10.3` 代表今天睡了 10.3 小时
 - 睡眠和运动数据生成统计图，可以清楚看出睡眠时长还是挺不稳定的，运动天数和时长都很少
 
-![Pasted image 20221222142445.png](Resource/Images/45446d4d10a37cbcddb9440a8fe8b626_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230505185524.png)
 
 - 来自 Obsidian Discord 社区频道
 - 主要展现数学笔记
