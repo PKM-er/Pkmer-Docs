@@ -6,7 +6,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504234815
+modified: 20230506110403
 ---
 
 # table 样式
@@ -110,4 +110,22 @@ md 的表格展示形式一般比较单一，有必要通过 css 实现加强 md
 :is(.markdown-preview-view,.markdown-rendered) table {
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
 }
+```
+
+- 三线表样式
+![image.png](https://cdn.pkmer.cn/images/202305061103479.png)
+
+```css
+table {
+    border: 1px solid transparent;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    text-align: left;
+}
+
+thead {
+    border-bottom: 1.5px solid black;
+    text-align: left;
+}
+
 ```
