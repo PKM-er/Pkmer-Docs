@@ -3,11 +3,11 @@ uid: 20230410232448
 title: Spaced Repetition
 description: 
 tags: 
-author: OS
+author: Boninall
 type: basic
 draft: false
 editable: false
-modified: 20230429181107
+modified: 20230504234448
 public: yes
 ---
 
@@ -17,9 +17,19 @@ public: yes
 
 Spaced Repetition(SR) 是的利用遗忘曲线间隔重复复习抽认卡片和笔记来防止笔记遗忘的 Obsidian 插件。其复习算法使用 SM-2，与 Anki 相同，与 Ob 联动可以充分发挥起作用。下面首先将简单介绍 SR 的基本使用，然后再介绍进阶使用。注意，这里不会介绍 SM-2 算法，如有需要自行百度。
 
+> [!Note] 插件名片
+> - 插件名称：Spaced Repetition
+> - 插件作者：Stephen Mwangi
+> - 插件说明：显示最近打开的文件列表
+> - 插件项目地址：[点我跳转](https://github.com/st3v3nmw/obsidian-spaced-repetition)
+
 ## 基本使用
 
-SR 基本使用步骤 1. 定义 **卡组** 2. 创建笔记并所属所属卡组 3. 笔记内创建 **卡片** 4. 查看与复习
+SR 基本使用步骤：
+
+1. 定义 **卡组** 
+2. 创建笔记并所属所属卡组
+3. 笔记内创建 **卡片** 4. 查看与复习
 
 ### Decks（卡组）
 
