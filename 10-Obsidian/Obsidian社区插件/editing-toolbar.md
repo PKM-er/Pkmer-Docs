@@ -14,7 +14,7 @@ modified: 20230429181108
 
 Editing Toolbar 是 [[Cumany]] 二次开发的可视化编辑工具栏，旨在增强 Obsidian 的可视化编辑体验。提供类似于 Word，在线办公软件 的浮动工具栏等交互方式。
 
->[!Note] 插件名片
+> [!Note] 插件名片
 > - 插件名称：Editing Toolbar
 > - 插件作者：Cumany
 > - 插件说明：旨在增强 Obsidian 的可视化编辑体验。提供类似于 Word，在线办公软件 的浮动工具栏等交互方式。
