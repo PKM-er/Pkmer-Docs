@@ -1,23 +1,25 @@
 ---
 uid: 20230504213101
-title: calendar 插件的样式修改
+title: Calendar 插件的样式修改
 description: 
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504213203
+modified: 20230506140806
 ---
 
-# calendar 插件的样式修改
+# Calendar 插件的样式修改
+
 ## 概述
 
-- 根据笔记yaml 区域的tag内容，在日历展示不同的图标，比如把tags中的emoji 符号展示在日历中。
-- tags 值包含flagged 显示星标
+- 根据笔记 yaml 区域的 tag 内容，在日历展示不同的图标，比如把 tags 中的 emoji 符号展示在日历中。
+- tags 值包含 flagged 显示星标
 - 周末背景色加深
-## 实现效果
- ![image.png](https://cdn.pkmer.cn/images/202305042319386.png)
 
+## 实现效果
+
+ ![image.png](https://cdn.pkmer.cn/images/202305042319386.png)
 
 ## 实现代码
 
@@ -37,7 +39,6 @@ tags: 🎂 tag1
 }
 
 ```
-
 
 ```css
 /* 当日记frontmatter区域中的标签中包含 flagged 标签时，日历中会显示星标*/
@@ -68,4 +69,3 @@ tags: 🎂 tag1
   --color-background-weekend: hsla(var(--interactive-accent-hsl), 0.1);
 }
 ```
-
