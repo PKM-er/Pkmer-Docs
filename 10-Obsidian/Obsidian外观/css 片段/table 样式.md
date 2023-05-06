@@ -6,14 +6,14 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230506140758
+modified: 20230507005205
 ---
 
 # 表格（Table）样式
 
 ## 概述
 
-md 的表格展示形式一般比较单一，有必要通过 css 实现加强 md 的表格展示效果。
+Markdown 的表格展示形式一般比较单一，有必要通过 CSS 实现加强 Markdown 的表格展示效果。
 
 ## 样式举例
 
