@@ -1,15 +1,15 @@
 ---
 uid: 20230328213324
-title: Obsidian 白板
+title: Obsidian白板优秀范例
 description: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230413192016
+modified: 20230507012716
 ---
 
-# Obsidian 白板
+# Obsidian 白板优秀范例
 
 ## 白板（Canvas）优秀案例
 
