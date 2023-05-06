@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230506122018
+modified: 20230506122211
 ---
 
 # Obsidian 插件：Paste URL into selection 快速给文字添加链接
@@ -21,7 +21,7 @@ Paste URL into selection 解决了快速给文字添加链接的问题，使用 
 > - 插件名称：Paste URL into selection
 > - 插件作者：denolehov
 > - 插件说明：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
-> - 插件项目地址：[点我跳转](https://github.com/ordidxzero/obsidian-external-favicon)
+> - [插件项目地址：[点我跳转](https://github.com/denolehov/obsidian-url-into-selection)
 > - 插件兼容：Obsidian v0.9.8 及以上版本。
 
 ## 效果&特性
