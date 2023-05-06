@@ -11,7 +11,7 @@ modified: 20230507014143
 
 # Obsidian 插件：Templater
 
->[!Note] 插件名片
+> [!Note] 插件名片
 >- 插件名称：Templater
 >- 插件作者：SilentVoid
 >- 插件说明：

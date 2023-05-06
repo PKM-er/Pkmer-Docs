@@ -19,7 +19,7 @@ public: yes
 
 Tips：如果发现没有自动变更编号，可以使用保存快捷，保存当前笔记
 
->[!Note] 插件名片
+> [!Note] 插件名片
 > - 插件名称：Number Headings
 > - 插件作者：onlyafly
 > - 插件说明：给笔记中的标题自动编号。

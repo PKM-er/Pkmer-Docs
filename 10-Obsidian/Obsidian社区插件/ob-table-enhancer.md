@@ -15,7 +15,7 @@ public: yes
 
 ## 概述
 
->[!Note] 插件名片
+> [!Note] 插件名片
 > - 插件名称：Table Enhancer
 > - 插件作者：Stardusten
 > - 插件说明：Obsidian 实时预览模式下直接操作 md 表格

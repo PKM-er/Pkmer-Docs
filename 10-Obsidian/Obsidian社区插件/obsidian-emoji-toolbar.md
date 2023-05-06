@@ -14,7 +14,7 @@ public: yes
 
 ## 概述
 
->[!Note] 插件名片
+> [!Note] 插件名片
 >- 插件名称：Emoji Toolbar
 >- 插件作者：oliveryh
 >- 插件说明：快速搜索表情符号并将其插入到您的编辑器中。

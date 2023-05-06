@@ -13,7 +13,7 @@ modified: 20230507014929
 
 ## 概述
 
->[!Note] 插件名片
+> [!Note] 插件名片
 > - 插件名称：Better Word Count
 > - 插件作者：Luke Leppan
 > - 插件说明：
