@@ -1,15 +1,15 @@
 ---
 uid: 20230504232329
-title: table 样式
+title: 表格（Table）样式
 description: 
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230506110403
+modified: 20230506140758
 ---
 
-# table 样式
+# 表格（Table）样式
 
 ## 概述
 
