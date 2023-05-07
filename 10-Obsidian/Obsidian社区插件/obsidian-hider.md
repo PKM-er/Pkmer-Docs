@@ -22,7 +22,7 @@ public: yes
 > [!Note] 插件名片
 > - 插件名称：obsidian-hider
 > - 插件作者：kepano
-> - 插件说明：自定义隐藏界面 UI。
+> - 插件说明：自定义隐藏界面元素、信息。
 > - 插件项目地址：[点我跳转](https://github.com/kepano/obsidian-hider)
 
 ## 效果&特性

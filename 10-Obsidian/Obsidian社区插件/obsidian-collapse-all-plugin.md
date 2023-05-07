@@ -6,19 +6,19 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230507125316
+modified: 20230507190044
 ---
 
 # Obsidian 插件：Collapse All
 
 ## 概述
 
-Obsidian_to_Anki 也是使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据，因此 Anki 必须安装 AnkiConnect，同步数据时 Anki 也必须处于执行状态。
+单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹。
 
 > [!Note] 插件名片
-> - 插件名称：clear unused images
+> - 插件名称：Collapse All
 > - 插件作者：OfficerHalf
-> - 插件说明：清除笔记中不再使用的图像以节省空间。
+> - 插件说明：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹。
 > - 插件项目地址：[点我跳转](https://github.com/OfficerHalf/obsidian-collapse-all)
 
 >[!Tip] 提示
