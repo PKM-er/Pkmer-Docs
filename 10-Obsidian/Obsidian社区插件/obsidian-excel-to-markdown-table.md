@@ -6,7 +6,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504093531
+modified: 20230507130137
 ---
 
 # obsidian-excel-to-markdown-table
@@ -43,4 +43,4 @@ xcel to Markdown Table 是一个 Obsidian 第三方插件，用于将 Microsoft 
 
 ## 功能延伸
 
-这个功能跟 蚕子的 [增强编辑](https://github.com/obsidian-canzi/Enhanced-editing) 插件功能类似，通过增强编辑插件的 `智能粘贴「Ctrl+Alt+V」` 可以把复制的Office表格直接粘贴为MarkDown语法表格
+这个功能跟 蚕子的 [增强编辑](https://github.com/obsidian-canzi/Enhanced-editing) 插件功能类似，通过增强编辑插件的 `智能粘贴「Ctrl+Alt+V」` 可以把复制的 Office 表格直接粘贴为 MarkDown 语法表格

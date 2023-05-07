@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429233813
+modified: 20230507115333
 ---
 
 # Obsidian 插件：Calendar
@@ -44,31 +44,34 @@ modified: 20230429233813
 
 日历视图上单击对应的日期，在对话框中点击（create），就会显示当天的日记。
 
-![Pasted image 20230122195157](Resource/Images/16aa45a2b12db245a87d85e906dd3672_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230507112212.png)
 
 #### 日记的格式
 
 Calendar 中生成的日记，**就是按照核心插件中的日记模式生成的**。
 
-如果你想要用 Calendar 生成 **一个带模板的日记**，就直接在核心插件【日记】这一栏设置即可！
+如果你想要用 Calendar 生成日记的日期格式、存放位置，甚至是日记模板做控制，就直接在核心插件【日记】中设置即可！
 
-![Pasted image 20230122195245](Resource/Images/c94619ff26812c0e6190de975ad54a34_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230507112737.png)
+
+>[!Tip] 提示
+>- Calendar 插件的一些功能迁移来核心插件【日记】
 
 ### 周记使用
 
 “设置——插件选项——Calendar”打开 Calendar 的控制面板
 
 - show week number：这样你的日历视图就会多出来一栏，用于显示月历中当前【周数】
-    ![Pasted image 20230122195402](Resource/Images/b4a162e32345fbf473321b470ea49138_MD5.png)
-    和日记一样，单击【周数】就可以创建属于你的周复盘啦：
 
-![Pasted image 20230122195424](Resource/Images/3042f0599867aaf80cbf56c0d2d1f5b2_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230507114324.png)
+
+和日记一样，单击【周数】就可以创建属于你的周复盘啦：
 
 #### 周记的格式
 
 依赖：
 
-![Pasted image 20230122195645](Resource/Images/4619f6f989ebc80d8020729a041713c4_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230507115326.png)
 
 - **Weekly note format**
 

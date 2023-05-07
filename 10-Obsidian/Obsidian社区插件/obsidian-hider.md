@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230507130907
 public: yes
 ---
 
@@ -40,24 +40,16 @@ public: yes
 
 ## 使用方法
 
-Hide App ribbon：隐藏 Obisidan 的 Ribbon 区域
-
-Hide Tab bar：隐藏标签页所在的标签栏
-
-Hide Status bar：隐藏状态栏
-
-Hide Vault name：隐藏仓库的仓库名称（在文件列表顶部）
-
-Hide Scrollbars：隐藏滚动条
-
-Hide sidebar toggle buttons：隐藏左右侧边栏的展开/收起按钮
-
-Hide tooltips：隐藏所有的工具提示
-
-Hide instructions：
-
-Hide Search suggestions：隐藏搜索建议
-
-Hide count of search term matches：隐藏搜索匹配结果的数量提示
-
-Hide metadata block in Reading view：隐藏阅读模式下，metadata 信息的展示
+- 隐藏界面类
+	- Hide App ribbon：隐藏 Obisidan 的 Ribbon 区域
+	- Hide sidebar toggle buttons：隐藏 `左/右` 侧边栏的 `展开/收起` 按钮
+	- Hide Tab bar：隐藏标签页所在的标签栏
+	- Hide Status bar：隐藏状态栏
+	- Hide Scrollbars：隐藏滚动条
+- 隐藏信息类：
+	- Hide Vault name：隐藏仓库的仓库名称（在文件列表顶部）
+	- Hide tooltips：隐藏所有的工具提示
+	- Hide instructions：隐藏提示指南
+	- Hide Search suggestions：隐藏搜索建议
+	- Hide count of search term matches：隐藏搜索匹配结果的数量提示
+	- Hide metadata block in Reading view：隐藏阅读模式下，metadata 信息的展示

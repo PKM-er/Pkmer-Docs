@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230507013419
+modified: 20230507115549
 ---
 
 # Obsidian 插件：Typewrite scroll（像打字机一样写笔记）
@@ -33,17 +33,15 @@ modified: 20230507013419
 3. 安装
 4. 开启插件
 
-## 设置
+## 使用
 
 - Toggle Typewriter Scrolling：是否开启打字机模式，默认开启。关闭后，跟你平常输入是一样的。
 - Center offset：通过滑块调整，打字机始终保持的位置，比如始终是固定视图头部、或者视图的中间等等。
 - Zen Mode（禅模式）：开启后，除了像打字机一样，视图始终居中进行输入外，会增加额外的聚焦模式，让你只专注当前输入的行，其他内容会透明。
 - Zen Opacity（禅模式透明度）：进入禅模式后，其他非焦点内容的透明度调节。
 
-## 使用方法
+### 设置
 
 开关时默认打开的，正常使用即可。
 
 如果发现不能使用，请检查是否关闭了：Toggle Typewriter Scrolling。
-
-## 视频
