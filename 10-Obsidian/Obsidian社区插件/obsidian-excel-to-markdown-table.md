@@ -32,7 +32,7 @@ xcel to Markdown Table 是一个 Obsidian 第三方插件，用于将 Microsoft 
  | # |名称 |方法 |备注 |
  |---|--------|--------|--------|
  |1|粘贴 |`Ctrl/Cmd + V` |只粘贴包含两列或多列的表格 |
- |2|热键 |`Crtl/Cmd + Alt + V` |粘贴带有一列的表格<br/>如果需要,从设置中重新分配热键 |
+ |2|快捷键 |`Crtl/Cmd + Alt + V` |粘贴带有一列的表格<br/>如果需要,从设置中重新分配快捷键 |
  |3|命令面板 |`Ctrl/Cmd + P` > `Excel 转 Markdown` |粘贴带有一列的表格 |
 
 下图是一个从 Excel 复制粘贴到 Obsidian 的示例。

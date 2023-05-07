@@ -41,7 +41,7 @@ Obsidian 在 2022 的 Product Hunt 的生产力类别金猫奖中被提名；
 - 由 `@ohm-en` 开发的 [Obsidian Plugin Manager](https://github.com/ohm-en/obsidian-plugin-manager) 允许懒惰加载插件，使 Obsidian 启动更快，并通过快捷键或者命令列表来切换插件。
 - 由 `@ycnmhd` 开发的 [Graph Presets](https://github.com/ycnmhd/obsidian-graph-presets) 带来了基于 markdown 的图表控制功能，你可以在这些图表之间切换。
 - 由 `@LordGrimmauld` 开发的 [ActivityWatch](https://github.com/LordGrimmauld/aw-watcher-obsidian) 增加了 ActivityWatch 和 Obsidian 之间的兼容性。
-- 由 `@AstralTomate` 开发的 [Obsidian Graph Search Hotkey](https://github.com/AstralTomate/obsidian-graph-search-hotkey) 允许用户设置一个热键来将焦点切换到图谱视图中的搜索栏。
+- 由 `@AstralTomate` 开发的 [Obsidian Graph Search Hotkey](https://github.com/AstralTomate/obsidian-graph-search-hotkey) 允许用户设置一个快捷键来将焦点切换到图谱视图中的搜索栏。
 - 由 `@ImaginaryProgramming` 开发的 [Vault Transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) 允许你复制一个笔记并将其粘贴到另一个 vault 。
 - 由 `@brianpetro` 开发的 [Smart Prompts](https://github.com/brianpetro/obsidian-smart-prompts) 的（ChatGPT）提示模板工具，旨在让用户可以更方便地与 OpenAI 的 ChatGPT 等语言界面互动。
 - 由 `@BambusControl` 开发的 [Unicode Search](https://github.com/BambusControl/obsidian-unicode-search) ，使搜索和插入 Unicode 字符到你的编辑器更容易。

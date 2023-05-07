@@ -28,7 +28,7 @@ modified: 20230504173943
 
 隐藏除列表/标题及其内容之外的所有内容。
 
- | 命令         |           默认热键 (Windows/Linux)           |                默认热键 (MacOS)                |
+ | 命令         |           默认快捷键 (Windows/Linux)           |                默认快捷键 (MacOS)                |
  | ------------ |:--------------------------------------------:|:----------------------------------------------:|
  | 扩展当前标题列表       |         <kbd>Ctrl</kbd> <kbd>.</kbd>         |              <kbd>Command</kbd><kbd>.</kbd>   |
  | 整个文档还原 | <kbd>Ctrl</kbd><kbd>Shift</kbd> <kbd>.</kbd> | <kbd>Command</kbd><kbd>Shift</kbd><kbd>.</kbd> |
