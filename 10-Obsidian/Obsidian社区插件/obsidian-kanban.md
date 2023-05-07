@@ -3,11 +3,11 @@ uid: 20230329145808
 title: Obsidian 插件：Kanban
 description: 
 tags: 
-author: OS
+author: bon
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230507131319
 public: yes
 ---
 

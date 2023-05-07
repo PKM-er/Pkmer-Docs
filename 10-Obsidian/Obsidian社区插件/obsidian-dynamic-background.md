@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230507125834
 public: yes
 ---
 
@@ -32,19 +32,19 @@ public: yes
 1. 5 种适用于 Obsidian 黑暗或深色配色的动态效果：
 
 - 数字雨 (Matrix / Digital Rain)
-    ![digital-rain-effect](Resource/Images/7261c1cdea0daa7bc4af0f307bfb44db_MD5.gif)
+    ![digital-rain-effect](https://cdn.pkmer.cn/images/7261c1cdea0daa7bc4af0f307bfb44db_MD5.gif)
 - 下雨 (Rain)
-    ![rain-effect](Resource/Images/7533d94e782e150e4418be1ff0cebdb4_MD5.gif)
+    ![rain-effect](https://cdn.pkmer.cn/images/7533d94e782e150e4418be1ff0cebdb4_MD5.gif)
 - 随机圆圈 (Random Circle)
 - 下雪 (Snow)
-    ![snow-effect](Resource/Images/49be7a17e01b64bae07e734b32aa41a4_MD5.gif)
+    ![snow-effect](https://cdn.pkmer.cn/images/49be7a17e01b64bae07e734b32aa41a4_MD5.gif)
 - 星空 (Star Sky)
 
 1. 2 种适用于 Obsidian 明亮或浅色配色的动态效果：
 
 - 随机圆圈 (Random Circle)
 - 波浪 (Wave)
-- ![wave-effect](Resource/Images/c1f729a05561bae61810620cbd8df841_MD5.gif)
+- ![wave-effect](https://cdn.pkmer.cn/images/c1f729a05561bae61810620cbd8df841_MD5.gif)
 
 ## 安装
 
@@ -68,11 +68,8 @@ public: yes
 - 从  `Dynamic Effect`  下拉框选择一个效果
 
 > [!注意]
-
 > 有两类动态效果
-
 > 一类适用于 Obsidian 黑暗或深色配色
-
 > 一类适用于 Obsidian 明亮或浅色配色，可根据 Obsidian 的配色选择相应的动态效果。
 
 ### 设置墙纸

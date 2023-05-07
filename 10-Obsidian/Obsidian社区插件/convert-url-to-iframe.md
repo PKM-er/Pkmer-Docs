@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230430010307
+modified: 20230507122814
 ---
 
 # Obsidian 插件：Convert url to preview (iframe) 将 URL 转化为嵌入的页面
@@ -19,7 +19,7 @@ modified: 20230430010307
 > - 插件名称：Convert url to preview (iframe)
 > - 插件作者：Hachez Floran
 > - 插件说明：将任何 URL 转换为网页预览插入到笔记中
-> - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
+> - 插件项目地址：[点我跳转](https://github.com/FHachez/obsidian-convert-url-to-iframe)
 
 >[!Tip] 提示
 >- 该插件没有任何设置项
@@ -27,7 +27,7 @@ modified: 20230430010307
 
 ## 效果&特性
 
-![](Resource/Images/2d7db315d6681f8dd943e96e3bfc7c9e_MD5.gif)
+![image.png](https://cdn.pkmer.cn/images/20230507122810.png)
 
 ## 使用
 
@@ -35,6 +35,6 @@ modified: 20230430010307
 - 鼠标右键单击（或使用命令面板 `Convert to Url Preview`（转换为 URL 预览）
 - 点击 ``Url to Preview/Iframe`
 
-![image.png](Resource/Images/438f2d9319b8f575b022ac0d9863605f_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230507122656.png)
 
 - 该插件没有任何设置项

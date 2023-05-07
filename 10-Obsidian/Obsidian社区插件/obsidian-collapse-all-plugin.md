@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230427233228
+modified: 20230507125316
 ---
 
 # Obsidian 插件：Collapse All
@@ -20,7 +20,9 @@ Obsidian_to_Anki 也是使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashca
 > - 插件作者：OfficerHalf
 > - 插件说明：清除笔记中不再使用的图像以节省空间。
 > - 插件项目地址：[点我跳转](https://github.com/OfficerHalf/obsidian-collapse-all)
-> - 插件条件：Obsidian 官方已经在 0.16.0 及以后插件支持了此插件的功能
+
+>[!Tip] 提示
+>- Obsidian 官方已经在 0.16.0 及以后插件支持了此插件的功能
 
 ## 安装
 

@@ -6,7 +6,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230430004721
+modified: 20230507152537
 ---
 
 # Obsidian 插件：Sortable 为表格提供简单的排序功能
@@ -23,12 +23,13 @@ modified: 20230430004721
 
 ## 效果&特性
 
-- 第一次点击：升序
-- 第二次点击：降序
-- 第三次点击：恢复默认顺序
+![GIF 2023-5-7 15-25-04.gif](https://cdn.pkmer.cn/images/GIF%202023-5-7%2015-25-04.gif)
 
 ## 使用
 
+- 第一次点击：升序
+- 第二次点击：降序
+- 第三次点击：恢复默认顺序
 - 插件本身不包含任何设置项。
 
 ### 支持排序的数据类型

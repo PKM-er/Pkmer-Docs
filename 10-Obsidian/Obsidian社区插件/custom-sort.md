@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181109
+modified: 20230507123214
 ---
 
 # Obsidian 插件：Custom File Explorer sorting（给文件夹和文件自定义排序）
@@ -84,12 +84,12 @@ modified: 20230429181109
 
 状图标状态方便你查看现在的问题：
 
-- ![image.png](Resource/Images/dfff3100aadf9d8071a8596f88d4f918_MD5.png)：插件未生效，没有自定义排序生效。
+- ![image.png](https://cdn.pkmer.cn/images/20230507123118.png)：插件未生效，没有自定义排序生效。
 - ![image.png](https://cdn.pkmer.cn/images/28da170461b48881ceb144ff0e9e1981_MD5.png)：  插件已激活，并且生效了自定义排序。
 - ![image.png](https://cdn.pkmer.cn/images/e0cb82c19128ed14fa03e2bcccb39865_MD5.png)：自定义排序配置中的语法错误。
-- ![image.png](Resource/Images/d597a459a1eac7d09dc4704f1dc6e0bc_MD5.png)：插件未生效，有一般性错误。
-- ![image.png](Resource/Images/ebf549bb438bbe32a1895be8ca70851b_MD5.png)：  插件已激活，但未应用自定义排序。
-- ![image.png](Resource/Images/04b22bea0e95e36999844bb99148755a_MD5.png)：仅适用于 iPad 等大屏幕移动设备）。插件已启用。但未应用自定义排序。
+- ![image.png](https://cdn.pkmer.cn/images/20230507123133.png)：插件未生效，有一般性错误。
+- ![image.png](https://cdn.pkmer.cn/images/20230507123153.png)：  插件已激活，但未应用自定义排序。
+- ![image.png](https://cdn.pkmer.cn/images/20230507123206.png)：仅适用于 iPad 等大屏幕移动设备）。插件已启用。但未应用自定义排序。
     在小屏幕移动设备（手机）上，图标是静态的：
 
 ### 基本排序语法速查

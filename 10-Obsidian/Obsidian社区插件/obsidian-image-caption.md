@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181604
+modified: 20230507131250
 public: yes
 ---
 
@@ -53,6 +53,4 @@ public: yes
 
 ```
 
-![[background.png|"ABC"]]
-
-![[background.png| ABC]]
+![image.png](https://cdn.pkmer.cn/images/20230507131245.png)
