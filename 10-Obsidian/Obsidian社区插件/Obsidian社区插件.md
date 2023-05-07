@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230507190133
+modified: 20230507203432
 public: yes
 ---
 
@@ -69,6 +69,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
+- [[remember-cursor-position]]：记住每个文件光标和滚动位置
 
 ### 目录类
 
@@ -121,8 +122,9 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 美化
 
 - [[Obsidian-Banners]]：为文档页面添加头图和图标
-- [[heading-level-indent]]
+- [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解。
 - [[obsidian-hider]]：自定义隐藏界面元素、信息
+- [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
 
 ### 文件管理类
 
@@ -130,10 +132,13 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
  - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
  - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
  - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹。
+ - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
+ - [[recent-files-obsidian]]：显示最近打开的文件列表
 
 ### 工具
 
 - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表。
+- [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
 
 ### 插入预览 和 第三方集成
 
