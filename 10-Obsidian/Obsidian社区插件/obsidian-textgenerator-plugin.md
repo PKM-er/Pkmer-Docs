@@ -6,7 +6,7 @@ author: windilycloud
 type: other
 draft: false
 editable: false
-modified: 20230429181107
+modified: 20230507190228
 ---
 
 # obsidian-textgenerator-plugin
@@ -33,6 +33,9 @@ modified: 20230429181107
 8. Youtube 抽取：从 Youtube 视频中生成文字
 9. 音频抽取：从音频文件中生成文字，包括 m4a，mp3，mp4，mpeg，mpga，wav，webm 格式文件
 10. 社区模版：使用其他人分享的模版
+
+>[!Note] 前置条件
+>- 需要你自己拥有对应的 OpenAI key
 
 ## 用法
 

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230507152814
+modified: 20230507190133
 public: yes
 ---
 
@@ -58,13 +58,92 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
 - [[floating-toc]]：在文档左侧生成一个悬浮的目录。
 - [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
+- [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
+- [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
+- [[obsidian-comments]]：为笔记增加批注或评论。
+- [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板。
+- [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽。
+- [[creases]]：给 Obsidian 的标题增加折叠和展开的功能。
+- [[lapel]]：在标题旁边显示标题等级
+- [[highlightr-plugin]]：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
+- [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
+- [[obsidian-dynamic-highlights]]
+- [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
+
+### 目录类
+
+- [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
+- [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
+- [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
+
+### 日期&提醒&任务类
+
+- [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
+- [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中。
+- [[obsidian-tasks-plugin]]
+- [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条。
+- [[obsidian-task-progress-bar]]
+- [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
+- [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器。
+
+### 链接类
+
+- [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
+- [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
+- [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
+- [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标。
+- [[link-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+- [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
+- [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式。
+- [[auto-card-link]]：根据你设定的规则动态高亮显示文本
+
+### 标签类
+
+- [[tag-wrangler]]：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到。
+
+### 表格类
+
+- [[obsidian-sortable]]：提供搜索 Obsidian 设置和插件设置选项的能力
+- [[table-editor-obsidian]]：改进了表格导航、格式和操作
+- [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
+
+### 自动化
+
+- [[obsidian-pangu]]：提供了一个全新的增强型文件管理器。
+
+### 图标类
+
+- [[obsidian-icons-plugin]]：提供插入图标符号的功能。
+- [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合。
+- [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中。
+- [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换。
 
 ### 美化
 
 - [[Obsidian-Banners]]：为文档页面添加头图和图标
+- [[heading-level-indent]]
+- [[obsidian-hider]]：自定义隐藏界面元素、信息
+
+### 文件管理类
+
+ - [[file-tree-alternative]]：提供了一个全新的增强型文件管理器。
+ - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
+ - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
+ - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹。
 
 ### 工具
 
 - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表。
 
-![](https://cdn.pkmer.cn/images/f0a22dd5ee505ebdbd0f24fa4cb07319_MD5.png)
+### 插入预览 和 第三方集成
+
+ - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页。
+ - [[surfing]]
+ - [[convert-url-to-iframe]]：将任何 URL 转换为网页预览插入到笔记中
+ - [[simple-embeds]]：把 Twitter 和 YouTube 网页链接嵌入当前笔记中预览
+ - [[mx-bili-plugin]]
+ - [[media-extended]]
+
+## AI 相关
+
+[[obsidian-textgenerator-plugin]]：使用 OpenAI 的模型进行文本生成
