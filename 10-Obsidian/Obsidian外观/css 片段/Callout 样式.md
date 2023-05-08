@@ -19,7 +19,7 @@ Obsidian 的 callout 因为可以自定义 class 所以配合 css 可以实现�
 
 ### 更改图标
 
-![image.png](https://cdn.pkmer.cn/images/202305051339765.png)
+![image.png](https://cdn.pkmer.cn/images/202305051339765.png!pkmer)
 
  其中图标代码名称从这里可以选择 [Lucide](https://lucide.dev/)
 
@@ -40,7 +40,7 @@ Obsidian 的 callout 因为可以自定义 class 所以配合 css 可以实现�
 
 ### 更改背景色和图标
 
-![image.png](https://cdn.pkmer.cn/images/202305051340008.png)
+![image.png](https://cdn.pkmer.cn/images/202305051340008.png!pkmer)
 
 ```css
 /* Obsidian snippet to create a custom 'activity-log' callout
@@ -80,7 +80,7 @@ Obsidian 的 callout 因为可以自定义 class 所以配合 css 可以实现�
 ```
 
 - 预览模式
-![image.png](https://cdn.pkmer.cn/images/202305051352628.png)
+![image.png](https://cdn.pkmer.cn/images/202305051352628.png!pkmer)
 - css 片段
 
 ```css

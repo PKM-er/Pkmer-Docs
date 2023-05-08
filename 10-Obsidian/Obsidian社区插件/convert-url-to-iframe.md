@@ -27,7 +27,7 @@ modified: 20230507122814
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230507122810.png)
+![image.png](https://cdn.pkmer.cn/images/20230507122810.png!pkmer)
 
 ## 使用
 
@@ -35,6 +35,6 @@ modified: 20230507122814
 - 鼠标右键单击（或使用命令面板 `Convert to Url Preview`（转换为 URL 预览）
 - 点击 ``Url to Preview/Iframe`
 
-![image.png](https://cdn.pkmer.cn/images/20230507122656.png)
+![image.png](https://cdn.pkmer.cn/images/20230507122656.png!pkmer)
 
 - 该插件没有任何设置项

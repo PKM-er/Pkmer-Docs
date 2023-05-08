@@ -25,7 +25,7 @@ Hover Editor 插件通过将悬停弹窗变成一个功能齐全的编辑器，�
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230507100018.png)
+![image.png](https://cdn.pkmer.cn/images/20230507100018.png!pkmer)
 
 - 通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
 - 支持你在这个弹窗中编辑或者浏览笔记

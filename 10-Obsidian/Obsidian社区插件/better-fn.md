@@ -25,7 +25,7 @@ Better Footnote 可以让你在预览模式将光标放到脚注上时，自动�
 
 ## 效果&特性
 
-![594d-4dd98d035214545bb926390024878c05](https://cdn.pkmer.cn/images/3cec7efc96ed4852f1b9f839ef923d2a_MD5.gif)
+![594d-4dd98d035214545bb926390024878c05](https://cdn.pkmer.cn/images/3cec7efc96ed4852f1b9f839ef923d2a_MD5.gif!pkmer)
 
 ## 安装
 

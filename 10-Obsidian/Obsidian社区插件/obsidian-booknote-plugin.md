@@ -26,7 +26,7 @@ public: yes
 
 ## 效果
 
-![banners](https://cdn.pkmer.cn/images/327fce9e5662b114dfdb022a4937b8b9_MD5.gif)
+![banners](https://cdn.pkmer.cn/images/327fce9e5662b114dfdb022a4937b8b9_MD5.gif!pkmer)
 
 ## 使用
 
@@ -68,7 +68,7 @@ banner_icon: string
 
 - **height**：头图高度，指定每个头图图像应该有多高。
 - **style**：更改头图在笔记中的外观。目前有 2 个选项： - Solid：简单、轮廓清晰的头图图像。 - Gradient：一个渐变为透明的头图。
-    ![Pasted image 20230310121511](https://cdn.pkmer.cn/images/eed105d4b9e597fbb2c044729d2ccae6_MD5.png)
+    ![Pasted image 20230310121511](https://cdn.pkmer.cn/images/eed105d4b9e597fbb2c044729d2ccae6_MD5.png!pkmer)
 
 - Frontmatter：如果已设置，可使用自定义的 Frontmatter 字段用于头图设置。例如，默认值 banner 将使用字段 banner_x、banner_y ，他们决定头图聚焦的具体位置。
 - 头图拖动：拖动头图的位置，也会自动修改头图的坐标值（banner_x、banner_y ）。拖动头图需要按住 Shift 拖动，才能移动它。这有助于避免意外的头图移动。
@@ -85,4 +85,4 @@ banner_icon: string
 
 - **Show banner in internal embed**:：选择头图是否应显示在文件的内联内部嵌入中。
 - **Preview internal banner height**：如果启用“在内部嵌入中显示头图”，此设置将确定嵌入中横幅图像的高度。
-    ![Pasted image 20230310122215](https://cdn.pkmer.cn/images/9a6192ee7983f75c5fa2711da0a6e1ef_MD5.png)
+    ![Pasted image 20230310122215](https://cdn.pkmer.cn/images/9a6192ee7983f75c5fa2711da0a6e1ef_MD5.png!pkmer)

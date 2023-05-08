@@ -23,7 +23,7 @@ modified: 20230505145325
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230505141723.png)
+![image.png](https://cdn.pkmer.cn/images/20230505141723.png!pkmer)
 
 - 自动从网页 URL 获取数据，并将其作为卡片样式放入到笔记中。
 

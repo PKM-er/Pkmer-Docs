@@ -29,7 +29,7 @@ modified: 20230506103204
 - 支持单个替换某个具体的图标
 - 支持批量导入和导出需要替换的图标
 
-![image.png](https://cdn.pkmer.cn/images/20230506102910.png)
+![image.png](https://cdn.pkmer.cn/images/20230506102910.png!pkmer)
 
 >[!Warning] 注意
 >- 替换的图标集合或者单个图标，必须是 SVG 格式的图标

@@ -24,7 +24,7 @@ modified: 20230505180048
 
 该插件将markdown繁杂的围栏式语法，通过自动补全的方式使得只需专注于内容输入 ，而无需操心语法。整个表格输入过程中，仅由第一个`|`是手动输入的。该插件配合[[editing-toolbar]]能起到可视化编辑表格的效果，不用使用快捷键。
 
-![7123f2c356ed6041188c3fde48f0fb66](https://cdn.pkmer.cn/images/dbf3ba55896f464ccb4471bd297c7051_MD5.gif)
+![7123f2c356ed6041188c3fde48f0fb66](https://cdn.pkmer.cn/images/dbf3ba55896f464ccb4471bd297c7051_MD5.gif!pkmer)
 
 - 自动格式化表格
 - Excel 样式的表格导航 （使用  `Tab`  和  `Enter`  在行和列之间导航）
@@ -67,7 +67,7 @@ modified: 20230505180048
 
 插件本身支持图形化的操作，可以通过面板对表格进行控制。打开控制面板的快捷键为：`Ctrl` + `Shift` + `D`。 控制面板如下图所示。
 
-![Pasted image 20230127122132](https://cdn.pkmer.cn/images/b4220a330fe4a53b1f2ded1e516a9ba6_MD5.png)
+![Pasted image 20230127122132](https://cdn.pkmer.cn/images/b4220a330fe4a53b1f2ded1e516a9ba6_MD5.png!pkmer)
 
 制面板上提供了表格操作的快捷方式。从图形可以很容易推测出每个图标对应的操作。当鼠标位于图标上方时还有提示消息，告知用户该图标的功能。
 

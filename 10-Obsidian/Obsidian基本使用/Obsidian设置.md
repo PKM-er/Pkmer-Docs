@@ -17,7 +17,7 @@ public: yes
 
 在界面点击左下角的「齿轮」图标，可开启 Obsidian 的 Settings 界面。
 
-![Pasted image 20230126212524](https://cdn.pkmer.cn/images/24d80d3798850df359f0e20a3af91693_MD5.png)
+![Pasted image 20230126212524](https://cdn.pkmer.cn/images/24d80d3798850df359f0e20a3af91693_MD5.png!pkmer)
 
 你可以把 Obsidian 的设置（ Settings）看成主要由 2 大部分组成：
 
@@ -26,7 +26,7 @@ public: yes
   - 核心插件选项（官方出品并维护）
   - 社区插件选项（来自开源社区贡献）
 
-![Pasted image 20230126212816](https://cdn.pkmer.cn/images/a636257def179221cf4a96ba616807e6_MD5.png)
+![Pasted image 20230126212816](https://cdn.pkmer.cn/images/a636257def179221cf4a96ba616807e6_MD5.png!pkmer)
 
 ## 自带设置选项
 
@@ -55,9 +55,9 @@ Obsidian 软件的主要设置，可分成 8 个设置模块：
 6. Use tabs：可使用 tab 进行缩排。
 7. Line wrap：当一段文字太长时，会将文字自动往下排版，不需要左右移动屏幕的卷轴。左边是关闭的画面、右边是开启的画面。
 
-![Pasted image 20230221094953](https://cdn.pkmer.cn/images/e42a944a7083680c4239837926f1d7cf_MD5.png)
+![Pasted image 20230221094953](https://cdn.pkmer.cn/images/e42a944a7083680c4239837926f1d7cf_MD5.png!pkmer)
 
-![Pasted image 20230221095002](https://cdn.pkmer.cn/images/acaf5de0f7579d211e9dce9e8c62cb45_MD5.png)
+![Pasted image 20230221095002](https://cdn.pkmer.cn/images/acaf5de0f7579d211e9dce9e8c62cb45_MD5.png!pkmer)
 
 #### Files & Links (文件&连接)
 
@@ -73,11 +73,11 @@ Obsidian 软件的主要设置，可分成 8 个设置模块：
    - A 是开启 Wikilinks 的格式；
    - B 是传统的 Markdown 连接格式。
 
-   ![Pasted image 20230126213643](https://cdn.pkmer.cn/images/a73d25a09a624bfea9bf34ec64cb4e3f_MD5.png)
+   ![Pasted image 20230126213643](https://cdn.pkmer.cn/images/a73d25a09a624bfea9bf34ec64cb4e3f_MD5.png!pkmer)
 
-![Pasted image 20230221095014](https://cdn.pkmer.cn/images/17366436160e81a9996243cdccf49a7a_MD5.png)
+![Pasted image 20230221095014](https://cdn.pkmer.cn/images/17366436160e81a9996243cdccf49a7a_MD5.png!pkmer)
 
-![Pasted image 20230221095019](https://cdn.pkmer.cn/images/17366436160e81a9996243cdccf49a7a_MD5.png)
+![Pasted image 20230221095019](https://cdn.pkmer.cn/images/17366436160e81a9996243cdccf49a7a_MD5.png!pkmer)
 
 #### 外观 (Appearance)
 
@@ -89,7 +89,7 @@ Obsidian 软件的主要设置，可分成 8 个设置模块：
 
 #### 关于（About）
 
-![Pasted image 20230221095034](https://cdn.pkmer.cn/images/feeac939e5c0016bb92aae813284a008_MD5.png)
+![Pasted image 20230221095034](https://cdn.pkmer.cn/images/feeac939e5c0016bb92aae813284a008_MD5.png!pkmer)
 
 1. Automatic updates：自动检查是否有新版本，建议开启。
 2. Language：调整语言设定，支持切换为「简体中文」。
@@ -103,7 +103,7 @@ Obsidian 软件的主要设置，可分成 8 个设置模块：
 
 #### 账户（Account）
 
-![Pasted image 20230126214303](https://cdn.pkmer.cn/images/f85120a976dc301fb8d527f0d24aca83_MD5.png)
+![Pasted image 20230126214303](https://cdn.pkmer.cn/images/f85120a976dc301fb8d527f0d24aca83_MD5.png!pkmer)
 
 Obsidian 是一款优秀的免费软件，基于本地化设计，可以在不连上网路的情况使用。
 
@@ -118,26 +118,26 @@ Obsidian Sync：官方提供的 Obsidian 笔记同步服务。
 Obsidian 官方提供的插件服务。以下稍微介绍每个插件的功能。
 
 - Tag pane：显示「标签面板」。
-![](https://cdn.pkmer.cn/images/5942abc424bdeaf08216ec89f79f3d4f_MD5.png)
+![](https://cdn.pkmer.cn/images/5942abc424bdeaf08216ec89f79f3d4f_MD5.png!pkmer)
 
 标签面板
 
 - Page preview：对着  `[[连接笔记]]`  按下 cmd/ctrl 时，可以用浮动视窗预览该笔记的文字。
 
-![](https://cdn.pkmer.cn/images/657150f1cd609052baddea31528e7d5e_MD5.gif)
+![](https://cdn.pkmer.cn/images/657150f1cd609052baddea31528e7d5e_MD5.gif!pkmer)
 
 Page Preview
 
 - Starred：可将笔记加入到「星标」面板。
 
-![](https://cdn.pkmer.cn/images/c677a6c34ddfd362e0abdb1e3ba17d51_MD5.png)
+![](https://cdn.pkmer.cn/images/c677a6c34ddfd362e0abdb1e3ba17d51_MD5.png!pkmer)
 
 - Daily notes：可使用「每日笔记」，后续将专文介绍。
 - Templates：可使用「笔记模板」快速插入内容，后续将专文介绍。
 - Outline：显示此则笔记的大纲。
 - Workspaces：可储存目前的面板布局设置，可储存多套不同的界面布局，以适应不同工作使用需求。
 
-![](https://cdn.pkmer.cn/images/0d8b762186b628c83225a05c83b08f4b_MD5.png)
+![](https://cdn.pkmer.cn/images/0d8b762186b628c83225a05c83b08f4b_MD5.png!pkmer)
 
 ## 社区插件 (Community plugins)
 

@@ -27,7 +27,7 @@ public: yes
 
 {地球|ほし} {漢|おとこ} {強敵|とも} {本気|マジ} {凝視|みつめ} る
 
-![Pasted image 20230126195656](https://cdn.pkmer.cn/images/7507a79e4a47f4178e9b57e126ac5c4f_MD5.png)
+![Pasted image 20230126195656](https://cdn.pkmer.cn/images/7507a79e4a47f4178e9b57e126ac5c4f_MD5.png!pkmer)
 
 1. {漢字|ㄏㄢ ˋ ㄗ ˋ}： {漢字|ㄏㄢ ˋ ㄗ ˋ}
 
@@ -41,7 +41,7 @@ public: yes
 <ruby>漢<rt>ㄏㄢˋ</rt>字<rt>ㄗˋ</rt></ruby>
 ```
 
-![Pasted image 20230126195843](https://cdn.pkmer.cn/images/5ab1ca163822e3dd4fb2695d5762f43b_MD5.png)
+![Pasted image 20230126195843](https://cdn.pkmer.cn/images/5ab1ca163822e3dd4fb2695d5762f43b_MD5.png!pkmer)
 
 ## 扩展阅读
 

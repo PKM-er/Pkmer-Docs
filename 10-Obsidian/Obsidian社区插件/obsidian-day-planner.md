@@ -23,7 +23,7 @@ public: yes
 
 ## 特性&效果
 
-![Pasted image 20230126212024](https://cdn.pkmer.cn/images/19aa4a1580b5aff38a7fbcc8ecfc1ffe_MD5.png)
+![Pasted image 20230126212024](https://cdn.pkmer.cn/images/19aa4a1580b5aff38a7fbcc8ecfc1ffe_MD5.png!pkmer)
 
 ## 使用方法
 

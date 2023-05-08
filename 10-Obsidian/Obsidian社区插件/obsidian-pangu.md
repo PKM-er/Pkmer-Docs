@@ -24,7 +24,7 @@ modified: 20230503003434
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230503003427.png)
+![image.png](https://cdn.pkmer.cn/images/20230503003427.png!pkmer)
 
 - 一键自动化增加文字与数字，英文和中文之间的空格
 

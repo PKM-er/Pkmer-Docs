@@ -26,7 +26,7 @@ public: yes
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/4890948bde6941fa6509ee8aa6417bf3_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/4890948bde6941fa6509ee8aa6417bf3_MD5.png!pkmer)
 
 - 通过鼠标滚轮或点击工具栏缩放图标来放大或缩小图片
 - 通过鼠标拖拽或键盘方向按键（上、下、左、右）来移动图片

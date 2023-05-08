@@ -21,7 +21,7 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230507013947.png)
+![image.png](https://cdn.pkmer.cn/images/20230507013947.png!pkmer)
 
 1. 所有的 Memos 都来自于 Obsidian 的 Daily Notes， 所以你最好先开启 Obsidian 的 Daily Notes 插件。
 2. 其中 Memos 可以根据你的设定来在某个指定标题下索引内容 ( 例如 `# 日程` )。

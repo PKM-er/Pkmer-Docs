@@ -19,7 +19,7 @@ public: yes
 
 正因为有了说明文字（Caption），我们才能更加清楚地了解此图的含义。
 
-![Pasted image 20230213152216](https://cdn.pkmer.cn/images/f0bda348c1e7c43fa25a2b2751d15739_MD5.jpg)
+![Pasted image 20230213152216](https://cdn.pkmer.cn/images/f0bda348c1e7c43fa25a2b2751d15739_MD5.jpg!pkmer)
 
 在你使用 Obsidian 写笔记时，如何为图片增加说明文字（Caption）呢？
 
@@ -53,4 +53,4 @@ public: yes
 
 ```
 
-![image.png](https://cdn.pkmer.cn/images/20230507131245.png)
+![image.png](https://cdn.pkmer.cn/images/20230507131245.png!pkmer)

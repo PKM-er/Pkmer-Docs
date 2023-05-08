@@ -22,7 +22,7 @@ public: yes
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230503222718.png)
+![image.png](https://cdn.pkmer.cn/images/20230503222718.png!pkmer)
 
 ## 安装
 
@@ -40,4 +40,4 @@ public: yes
 1. Ctrl + P，输入 emoji toolbar，可以呼出对应的 emoji 工具栏。
 2. 你也可以在设置中，给这个功能设置快捷键。如何设置 [[自定义快捷键]]
 
-![image.png](https://cdn.pkmer.cn/images/20230503222752.png)
+![image.png](https://cdn.pkmer.cn/images/20230503222752.png!pkmer)

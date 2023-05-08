@@ -53,7 +53,7 @@ mindmap-plugin: basic
 
 在更多菜单中，你可以找到 _打开为思维导图_ 就可以把当前文档转换为思维导图模式。
 
-![basic.e715be2b.gif](https://cdn.pkmer.cn/images/202305041751327.gif)
+![basic.e715be2b.gif](https://cdn.pkmer.cn/images/202305041751327.gif!pkmer)
 
 #### 方法 2
 

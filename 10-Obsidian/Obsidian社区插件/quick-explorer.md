@@ -25,7 +25,7 @@ Obsidian 原有的标题栏导航条只能提供两种简单的功能，快速�
 
 ## 效果&特性
 
-![quick-explorer.png](https://cdn.pkmer.cn/images/quick-explorer.png)
+![quick-explorer.png](https://cdn.pkmer.cn/images/quick-explorer.png!pkmer)
 
 增加一个面包屑导航，可以每层文件夹或者笔记中进行平层的快速切换，也可以快速跳到具体某个层级中的笔记。
 

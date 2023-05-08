@@ -26,7 +26,7 @@ modified: 20230430101943
 
 ## 效果&特性
 
-![](https://cdn.pkmer.cn/images/GIF%202023-4-30%2010-18-34.gif)
+![](https://cdn.pkmer.cn/images/GIF%202023-4-30%2010-18-34.gif!pkmer)
 
 支持以下网站的链接预览化：
 

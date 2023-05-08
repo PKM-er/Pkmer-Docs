@@ -24,11 +24,11 @@ modified: 20230504171354
 
 ## 使用方法
 
-点击左侧边栏的 MD 图标 ![image.png](https://cdn.pkmer.cn/images/202305041705210.png)
+点击左侧边栏的 MD 图标 ![image.png](https://cdn.pkmer.cn/images/202305041705210.png!pkmer)
 
 即可在右侧边栏出现常用的 markdown 语法面板。
 
-![image.png](https://cdn.pkmer.cn/images/202305041705248.png)
+![image.png](https://cdn.pkmer.cn/images/202305041705248.png!pkmer)
 
  插件自带两个命令
 

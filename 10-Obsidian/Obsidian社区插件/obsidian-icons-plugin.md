@@ -27,11 +27,11 @@ public: yes
 >- 缺点：这个插件并不支持实时预览模式
 >- 缺点：该插件的会占用 Obsidian 的开发者控制台的快捷键
 
-![image.png](https://cdn.pkmer.cn/images/bbdbc6782887925fbe84bd94b51cebda_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/bbdbc6782887925fbe84bd94b51cebda_MD5.png!pkmer)
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/a74a5eabdd62d4dabf6538016c18f891_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/a74a5eabdd62d4dabf6538016c18f891_MD5.png!pkmer)
 
 ## 使用
 

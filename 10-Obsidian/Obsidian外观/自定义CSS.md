@@ -20,21 +20,21 @@ public: yes
 
 按下后会出现类似下图的样式。不用被这些代码吓住，这其实就是当前页面的 css 代码。
 
-![image.png](https://cdn.pkmer.cn/images/202305042054692.png)
+![image.png](https://cdn.pkmer.cn/images/202305042054692.png!pkmer)
 
 比如这里你想修改标题颜色只需要点击这个箭头
 
-![image.png](https://cdn.pkmer.cn/images/202305042055323.png)
+![image.png](https://cdn.pkmer.cn/images/202305042055323.png!pkmer)
 
 然后把鼠标指向要修改的元素，这里指向标题
 
-![image.png](https://cdn.pkmer.cn/images/202305042057355.png)
+![image.png](https://cdn.pkmer.cn/images/202305042057355.png!pkmer)
 
 这里的 `span.cm-header.cm-header-1` 就是标题对应的 css 选择器。
 
 同时左侧调试窗口的内容也变成了 标题对应的 css 设置。
 
-![image.png](https://cdn.pkmer.cn/images/202305042100564.png)
+![image.png](https://cdn.pkmer.cn/images/202305042100564.png!pkmer)
 
 在这里我们发现一条规则 `.HyperMD-header-1, .inline-title[data-level='1'], .HyperMD-list-line .cm-header-1` 里面包含了 .cm-header-1 就是我们要修改的选择器。
 
@@ -53,13 +53,13 @@ public: yes
 
 通过字母含义不难看出 color 就是负责颜色的。 这里的值为 `var(--h1-color)` 其实用了 css 的高级写法，我们先不用管它怎么写，双击 `var(--h1-color)` 这个值，删除后浏览器预设一些颜色值，可供选择，这里的颜色可以输入名称，也支持十六进制色值。
 
-![image.png](https://cdn.pkmer.cn/images/202305042108839.png)
+![image.png](https://cdn.pkmer.cn/images/202305042108839.png!pkmer)
 
 设置好颜色后，会立马在 Obsidian 看到修改后的效果，但这个只是临时效果，重启后就消失了，要永久生效，需要把规则保存为 css 代码片段。
 
 对这条 css 右键 - 复制规则，即可把 css 片段内容复制到剪贴板中。
 
-![image.png](https://cdn.pkmer.cn/images/202305042111606.png)
+![image.png](https://cdn.pkmer.cn/images/202305042111606.png!pkmer)
 
 `
 

@@ -23,7 +23,7 @@ modified: 20230507152537
 
 ## 效果&特性
 
-![GIF 2023-5-7 15-25-04.gif](https://cdn.pkmer.cn/images/GIF%202023-5-7%2015-25-04.gif)
+![GIF 2023-5-7 15-25-04.gif](https://cdn.pkmer.cn/images/GIF%202023-5-7%2015-25-04.gif!pkmer)
 
 ## 使用
 

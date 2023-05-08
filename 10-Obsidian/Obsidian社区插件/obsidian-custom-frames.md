@@ -25,7 +25,7 @@ modified: 20230504184935
 
 ## 效果&特性
 
-![screenshot-big.png](https://cdn.pkmer.cn/images/screenshot-big.png)
+![screenshot-big.png](https://cdn.pkmer.cn/images/screenshot-big.png!pkmer)
 
 ## 使用
 
@@ -33,11 +33,11 @@ modified: 20230504184935
 
 ### 自定义集成第三方网页应用
 
-![image.png](https://cdn.pkmer.cn/images/20230504154313.png)
+![image.png](https://cdn.pkmer.cn/images/20230504154313.png!pkmer)
 
 在插件设置中，可以选择 `Custom` ，并 `Add Frame` 添加自定义的第三方网页应用。
 
-![image.png](https://cdn.pkmer.cn/images/20230504154729.png)
+![image.png](https://cdn.pkmer.cn/images/20230504154729.png!pkmer)
 
 - Display Name：**必填**，用于鼠标指向时，提示你对应的网页应用名称，也是这个应用的唯一 ID。只要你能区分开，随便使用你喜欢的名字。
 - Icon：**选填**，为自定义的网页应用添加图标。只要填写图标的英文名称即可，但该名称必须是 Lucide icons 图标集内的。如果不熟悉，可以点击插件提供的链接，跳转到 Lucide icons 自己挑选。

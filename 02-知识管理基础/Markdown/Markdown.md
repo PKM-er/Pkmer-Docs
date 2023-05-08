@@ -354,7 +354,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 渲染效果如下：
 
-![图片示例](https://cdn.pkmer.cn/images/49f8d5f75e3369aad7fbf1f99e39c35a_MD5.png)
+![图片示例](https://cdn.pkmer.cn/images/49f8d5f75e3369aad7fbf1f99e39c35a_MD5.png!pkmer)
 
 ### 链接图片
 
@@ -366,7 +366,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 渲染效果如下：
 
-![Pasted image 20230121213911](https://cdn.pkmer.cn/images/76db8488e36ad5d1449f9a28f4ef3c22_MD5.png)
+![Pasted image 20230121213911](https://cdn.pkmer.cn/images/76db8488e36ad5d1449f9a28f4ef3c22_MD5.png!pkmer)
 
 ### iframe 方式嵌入图片
 

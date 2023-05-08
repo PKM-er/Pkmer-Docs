@@ -81,7 +81,7 @@ console.log("Hello!");
 ````
 
 - 通过 ctrl+p 输入 admontion 快捷插入 callout 或者 ad 语法块
-  ![image.png](https://cdn.pkmer.cn/images/202305041045797.png)
+  ![image.png](https://cdn.pkmer.cn/images/202305041045797.png!pkmer)
 
 
 ## 高级玩法
@@ -90,9 +90,9 @@ Ad 插件支持自定义类型，而自定义类型通常绑定了唯一的 css 
 
 比如实现双栏布局。在 ad 插件设置中增加一个类型 col2.
 
-![image.png](https://cdn.pkmer.cn/images/202305041054371.png)
+![image.png](https://cdn.pkmer.cn/images/202305041054371.png!pkmer)
 
-![image.png](https://cdn.pkmer.cn/images/202305041053207.png)
+![image.png](https://cdn.pkmer.cn/images/202305041053207.png!pkmer)
 
 并增加一个 css 片段内容如下,就可以实现 ad-col2 类型包裹的内容自动分两栏的效果。
 

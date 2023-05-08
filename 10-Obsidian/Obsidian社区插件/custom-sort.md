@@ -84,12 +84,12 @@ modified: 20230507123214
 
 状图标状态方便你查看现在的问题：
 
-- ![image.png](https://cdn.pkmer.cn/images/20230507123118.png)：插件未生效，没有自定义排序生效。
-- ![image.png](https://cdn.pkmer.cn/images/28da170461b48881ceb144ff0e9e1981_MD5.png)：  插件已激活，并且生效了自定义排序。
-- ![image.png](https://cdn.pkmer.cn/images/e0cb82c19128ed14fa03e2bcccb39865_MD5.png)：自定义排序配置中的语法错误。
-- ![image.png](https://cdn.pkmer.cn/images/20230507123133.png)：插件未生效，有一般性错误。
-- ![image.png](https://cdn.pkmer.cn/images/20230507123153.png)：  插件已激活，但未应用自定义排序。
-- ![image.png](https://cdn.pkmer.cn/images/20230507123206.png)：仅适用于 iPad 等大屏幕移动设备）。插件已启用。但未应用自定义排序。
+- ![image.png](https://cdn.pkmer.cn/images/20230507123118.png!pkmer)：插件未生效，没有自定义排序生效。
+- ![image.png](https://cdn.pkmer.cn/images/28da170461b48881ceb144ff0e9e1981_MD5.png!pkmer)：  插件已激活，并且生效了自定义排序。
+- ![image.png](https://cdn.pkmer.cn/images/e0cb82c19128ed14fa03e2bcccb39865_MD5.png!pkmer)：自定义排序配置中的语法错误。
+- ![image.png](https://cdn.pkmer.cn/images/20230507123133.png!pkmer)：插件未生效，有一般性错误。
+- ![image.png](https://cdn.pkmer.cn/images/20230507123153.png!pkmer)：  插件已激活，但未应用自定义排序。
+- ![image.png](https://cdn.pkmer.cn/images/20230507123206.png!pkmer)：仅适用于 iPad 等大屏幕移动设备）。插件已启用。但未应用自定义排序。
     在小屏幕移动设备（手机）上，图标是静态的：
 
 ### 基本排序语法速查

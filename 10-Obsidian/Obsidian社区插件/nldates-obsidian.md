@@ -37,7 +37,7 @@ public: yes
 
 输入 `@today` 并按 `Enter` 键，将自动展开为当前日期。同时按 `Shift` 键可以将输入文本保留为别名（例如 `@today`→`[[2021-12-27 | today]]`）。
 
-![116645561-1d565700-a944-11eb-9166-f55e72dc65bc.gif](https://cdn.pkmer.cn/images/a7607c768ef450c1973411cf249a3aab_MD5.gif)
+![116645561-1d565700-a944-11eb-9166-f55e72dc65bc.gif](https://cdn.pkmer.cn/images/a7607c768ef450c1973411cf249a3aab_MD5.gif!pkmer)
 
 ### 设置
 

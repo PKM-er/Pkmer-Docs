@@ -53,29 +53,29 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 首先，需要在顶部的“Target Attributes for Styling”选项中设置插件要为您的样式包含哪些 yaml 字段。我们这里填写 status
 
-![image.png](https://cdn.pkmer.cn/images/202305020905351.png)
+![image.png](https://cdn.pkmer.cn/images/202305020905351.png!pkmer)
 
 然后 在 new selecter 中设置 `attribute value` 并指向 status 这个属性名称
 
-![image.png](https://cdn.pkmer.cn/images/202305020908307.png)
+![image.png](https://cdn.pkmer.cn/images/202305020908307.png!pkmer)
 
 通过 [[obsidian-style-settings]] 插件就可以发现针对这个属性的样式设置，比如这里增加一个表情符号
 
-![image.png](https://cdn.pkmer.cn/images/202305020910240.png)
+![image.png](https://cdn.pkmer.cn/images/202305020910240.png!pkmer)
 
 然后就发现这个笔记名称前面已经多了一个表情符号，可以更醒目的识别这个笔记。
 
-![image.png](https://cdn.pkmer.cn/images/202305020912386.png)
+![image.png](https://cdn.pkmer.cn/images/202305020912386.png!pkmer)
 
 同样道理，可以对包含某个标签的笔记进行样式设计比如查找带有“#person”标签的笔记。
 
 在设置中的样式标题下，创建一个新的选择器。在选择器类型下，选择“标签”，然后在下方添加“人”:
 
- ![image.png](https://cdn.pkmer.cn/images/202305020914769.png)
+ ![image.png](https://cdn.pkmer.cn/images/202305020914769.png!pkmer)
 
  然后通过 style setting 就可以对这个标签进行设置，比如设置背景色和添加一个电话符号
 
-![image.png](https://cdn.pkmer.cn/images/202305020914497.png)
+![image.png](https://cdn.pkmer.cn/images/202305020914497.png!pkmer)
 
 ## 高级使用
 
@@ -123,7 +123,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 }
 ``` 
 
-![image.png](https://cdn.pkmer.cn/images/202305020934915.png)
+![image.png](https://cdn.pkmer.cn/images/202305020934915.png!pkmer)
 
 当笔记包含 `status` 属性 时，可以用类似标签的蓝色圆角矩形突出显示链接:
 
@@ -136,7 +136,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 }
  ``` 
 
-![image.png](https://cdn.pkmer.cn/images/202305020933246.png)
+![image.png](https://cdn.pkmer.cn/images/202305020933246.png!pkmer)
 
 如果要鼠标悬停时显示所有 `status` 属性的值:
 
@@ -146,7 +146,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 }
  ``` 
 
-![image.png](https://cdn.pkmer.cn/images/202305020933239.png)
+![image.png](https://cdn.pkmer.cn/images/202305020933239.png!pkmer)
 
 如果对包含 #hide 链接的笔记进行隐藏:
 

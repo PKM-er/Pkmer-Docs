@@ -76,7 +76,7 @@ URI（Uniform Resource Identifier）翻译成中文就是统一资源标识符�
 
 Obsidian 自带了一些 URI，该插件的主要功能是增加一些 URI，让其能执行更多操作。理论上通过这个插件能执行任意操作，因为该 URI 允许执行 Obsidain 的命令，结合脚本插件能大大拓宽能做的范畴。
 
-![Obsidian_FDtSIsEZg0.gif](https://cdn.pkmer.cn/images/810b8780b49f7de3f2d83b7d79ef2a4e_MD5.gif)
+![Obsidian_FDtSIsEZg0.gif](https://cdn.pkmer.cn/images/810b8780b49f7de3f2d83b7d79ef2a4e_MD5.gif!pkmer)
 
 如上图所示：我在 typora 中写好了一个打开 `table-test` 文件的 URI，在 typora，浏览器或者任意支持点击链接的地方都能定位到 Obsidian 的 `table-test` 文件。一个链接定位万物。
 
@@ -234,15 +234,15 @@ Advanced URI 以 obsidian://advanced-uri 开头，后接参数，以参数控制
 
 Ctrl+P 打开命令框，搜索“Advanced URI”，选择“Advanced URI：copy URI for command”
 
-![Pasted image 20230420123946](https://cdn.pkmer.cn/images/7198bbfef3528682c32d45d8fee4ab3e_MD5.png)
+![Pasted image 20230420123946](https://cdn.pkmer.cn/images/7198bbfef3528682c32d45d8fee4ab3e_MD5.png!pkmer)
 
 选择 emoji 文档：
 
-![Pasted image 20230420124637](https://cdn.pkmer.cn/images/40e1aaa975bd6ade3e1f7637c8866a40_MD5.png)
+![Pasted image 20230420124637](https://cdn.pkmer.cn/images/40e1aaa975bd6ade3e1f7637c8866a40_MD5.png!pkmer)
 
 选择命令“导出为 PDF”：
 
-![Pasted image 20230420124810](https://cdn.pkmer.cn/images/b48d875ecbb26b6c827938d262f1df7e_MD5.png)
+![Pasted image 20230420124810](https://cdn.pkmer.cn/images/b48d875ecbb26b6c827938d262f1df7e_MD5.png!pkmer)
 
 自动生成 Advanced URI 并自动复制进剪切板“
 
@@ -260,7 +260,7 @@ obsidian://advanced-uri?vault=testNote&commandid=workspace%253Aexport-pdf&uid=9d
 
 Ctrl+P 打开命令框，在命令框里输入“Advanced URI”，可以看到几个以 Advanced URI 开头的命令：
 
-![Pasted image 20230420123946](https://cdn.pkmer.cn/images/7198bbfef3528682c32d45d8fee4ab3e_MD5.png)
+![Pasted image 20230420123946](https://cdn.pkmer.cn/images/7198bbfef3528682c32d45d8fee4ab3e_MD5.png!pkmer)
 
 （1）Advanced URI：copy URI for command
 

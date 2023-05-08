@@ -25,7 +25,7 @@ Creases 插件给 Obsidian 的标题增加折叠和展开的功能。
 
 ## 效果&特性
 
-![156103767-33f311de-39ac-422d-b8ea-987ea9c63f7b.png](https://cdn.pkmer.cn/images/156103767-33f311de-39ac-422d-b8ea-987ea9c63f7b.png)
+![156103767-33f311de-39ac-422d-b8ea-987ea9c63f7b.png](https://cdn.pkmer.cn/images/156103767-33f311de-39ac-422d-b8ea-987ea9c63f7b.png!pkmer)
 
 ## 使用
 

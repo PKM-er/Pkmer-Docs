@@ -46,7 +46,7 @@ modified: 20230507190228
 3. 安装后打开插件设置界面，填入 API Key，即可使用。其余配置可均为默认。
 4. 在任意一行文本后按 `ctrl + j`，即可在后面自动生成文本。
 
-![image.png](https://cdn.pkmer.cn/images/1f0831c86ab7dd8df5dcfcea39a62927_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/1f0831c86ab7dd8df5dcfcea39a62927_MD5.png!pkmer)
 
 ### 上下文的选择
 
@@ -67,11 +67,11 @@ modified: 20230507190228
 2. 选择模型
 3. 计算当前文档的 token 数
 
-![image.png](https://cdn.pkmer.cn/images/dc609923f38591cab01d25e109d7c16a_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/dc609923f38591cab01d25e109d7c16a_MD5.png!pkmer)
 
 ### 社区模版包
 
-![image.png](https://cdn.pkmer.cn/images/af0466ab0787c9a3267eb4d4e40dd317_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/af0466ab0787c9a3267eb4d4e40dd317_MD5.png!pkmer)
 
 通过调用 `Templates Packages Manager` 命令，打开并可安装社区的 prompt 模版包。
 
@@ -79,7 +79,7 @@ modified: 20230507190228
 
 通过 上述社区模版包安装，会自动安装下述模版：
 
-![image.png](https://cdn.pkmer.cn/images/b473521b0381be0eba60003d30a8a623_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/b473521b0381be0eba60003d30a8a623_MD5.png!pkmer)
 
 分别是：
 

@@ -25,7 +25,7 @@ modified: 20230508163311
 
 打开命令面板 （cmd/ctrl-p），然后输入 mindmap 选择下面命令。
 
-![image.png](https://cdn.pkmer.cn/images/202305042004599.png)
+![image.png](https://cdn.pkmer.cn/images/202305042004599.png!pkmer)
 
 打开固定 mindmap 会新建一个 md 文档，非固定就在当前文档插入 mindmap。
 
@@ -53,7 +53,7 @@ modified: 20230508163311
 
 会渲染成如下效果
 
-![image.png](https://cdn.pkmer.cn/images/202305042009330.png)
+![image.png](https://cdn.pkmer.cn/images/202305042009330.png!pkmer)
 
 - 支持 latex 公式
   单行公式使用 `$` 包裹，多行公式使用 `$$` 包裹。

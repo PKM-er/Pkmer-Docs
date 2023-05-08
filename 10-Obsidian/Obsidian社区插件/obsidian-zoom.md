@@ -22,7 +22,7 @@ modified: 20230504173943
 
 通过这个插件可以把其他标题和列表内容隐藏,专注当前标题或者列表层级的内容,让写作更专注。
 
-![demo.gif](https://cdn.pkmer.cn/images/202305041724055.gif)
+![demo.gif](https://cdn.pkmer.cn/images/202305041724055.gif!pkmer)
 
 ## 使用方法
 

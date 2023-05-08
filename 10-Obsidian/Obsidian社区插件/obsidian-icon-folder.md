@@ -24,7 +24,7 @@ modified: 20230430010909
 
 ## 效果
 
-![Pasted image 20230110191650](https://cdn.pkmer.cn/images/9ae0188f8195e036b9ada0a5508126b6_MD5.png)
+![Pasted image 20230110191650](https://cdn.pkmer.cn/images/9ae0188f8195e036b9ada0a5508126b6_MD5.png!pkmer)
 
 ## 安装
 
@@ -42,9 +42,9 @@ modified: 20230430010909
 2. 添加需要有一个下载插件下载过程，视你的网络速度而定。
 3. 下载完成后，你会发现之前名字的图标已经被插件识别
 
-![Pasted image 20230210145955](https://cdn.pkmer.cn/images/ac97aa3edf7496cbdb59169fad17e5ce_MD5.png)
+![Pasted image 20230210145955](https://cdn.pkmer.cn/images/ac97aa3edf7496cbdb59169fad17e5ce_MD5.png!pkmer)
 
-![Pasted image 20230210150005](https://cdn.pkmer.cn/images/a9658c2df81635670620a2ac71265cc4_MD5.png)
+![Pasted image 20230210150005](https://cdn.pkmer.cn/images/a9658c2df81635670620a2ac71265cc4_MD5.png!pkmer)
 
 这里以 Remix Icons(Ri) 为例，点击安装。
 
@@ -54,7 +54,7 @@ modified: 20230430010909
 
 1. 在文件列表，对应的文件夹下，鼠标右键，选择“Change icon”
 2. 在弹出的窗口中选择自己喜欢的图标吧
-   ![Pasted image 20230210150035](https://cdn.pkmer.cn/images/fb4490cc0c9f836c1d832ae0fdfd6d18_MD5.png)
+   ![Pasted image 20230210150035](https://cdn.pkmer.cn/images/fb4490cc0c9f836c1d832ae0fdfd6d18_MD5.png!pkmer)
 
 ### 取消文件夹图标
 

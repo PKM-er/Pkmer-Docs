@@ -25,7 +25,7 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 
 ## 效果&特性
 
-![example_2.png](https://cdn.pkmer.cn/images/example_2.png)
+![example_2.png](https://cdn.pkmer.cn/images/example_2.png!pkmer)
 
 ## 使用
 
@@ -64,7 +64,7 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 - 支持设置批注的默认文字颜色，当然你可以在插入的 HTML 代码中自己修改；
 - 支持设 hi 批注的默认背景颜色，当然你可以在插入的 HTML 代码中自己修改；
 - 支持隐藏插件在 Ribbon 区域的图标；
-![image.png](https://cdn.pkmer.cn/images/20230504102255.png)
+![image.png](https://cdn.pkmer.cn/images/20230504102255.png!pkmer)
 
 ### 自定义样式
 

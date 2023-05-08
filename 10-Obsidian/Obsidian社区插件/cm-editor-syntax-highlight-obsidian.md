@@ -27,7 +27,7 @@ modified: 20230429171721
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/92eafcb126c5f86f53f0840a3f6a764e_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/92eafcb126c5f86f53f0840a3f6a764e_MD5.png!pkmer)
 
 ## 使用
 

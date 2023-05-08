@@ -29,7 +29,7 @@ Highlightr 就是以此目诞生的，将小而美的高亮菜单添加到了 Ob
 
 ### 高亮样式
 
-![image.png](https://cdn.pkmer.cn/images/20230504232528.png)
+![image.png](https://cdn.pkmer.cn/images/20230504232528.png!pkmer)
 
 - 插件默认支持多种高亮样式：Lowlight、Floating、Readlistic、Rounded。
 

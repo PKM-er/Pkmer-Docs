@@ -29,7 +29,7 @@ public: yes
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/ce795fc29fd5aa2960cc698dbd9ebb86_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/ce795fc29fd5aa2960cc698dbd9ebb86_MD5.png!pkmer)
 
 - 重命名标签（及其所有子标签）
 - 开始新的标签搜索（类似于简单的点击）
@@ -50,7 +50,7 @@ public: yes
 
 在标签面板中任意一个标签上点击右键，即可看到如下几个选项：
 
-![Pasted image 20230424221209](https://cdn.pkmer.cn/images/2c979cb739decf30700a079a45ca0da8_MD5.png)
+![Pasted image 20230424221209](https://cdn.pkmer.cn/images/2c979cb739decf30700a079a45ca0da8_MD5.png!pkmer)
 
 - 选项一：更改标签名称
     可批量更改此标签及其嵌套标签的名称。
@@ -74,6 +74,6 @@ public: yes
 
 在 Tag wrangler 标签树下，在任意一个标签上右键，可在弹出的菜单中将该标签其加入搜索
 
-![image.png](https://cdn.pkmer.cn/images/18c6c4a2c588b441fdcd91b360671a9e_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/18c6c4a2c588b441fdcd91b360671a9e_MD5.png!pkmer)
 
-![image.png](https://cdn.pkmer.cn/images/be3ce565d1bad9660f0dcaecc6e67ee1_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/be3ce565d1bad9660f0dcaecc6e67ee1_MD5.png!pkmer)

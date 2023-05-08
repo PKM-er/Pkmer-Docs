@@ -17,7 +17,7 @@ public: yes
 
 通过 Obsidian 内置的“第三方插件”-“社区插件”直接进行下载。但会不可预测的遇到“无法打开”的情况，即存在网络问题。
 
-![](https://cdn.pkmer.cn/images/4141b98fb96d57bafd005f7ad7bbb943_MD5.png)
+![](https://cdn.pkmer.cn/images/4141b98fb96d57bafd005f7ad7bbb943_MD5.png!pkmer)
 
 > [!推荐]
 > 使用 我们的 Obsidian Lite ，一劳永逸的解决该问题
@@ -32,11 +32,11 @@ public: yes
 
 上一步获得是该插件官方认可的（ github 地址），在插件地址页面，点击右侧的“release”
 
-![](https://cdn.pkmer.cn/images/f7c8f5661d79491658024083a89b7dcc_MD5.png)
+![](https://cdn.pkmer.cn/images/f7c8f5661d79491658024083a89b7dcc_MD5.png!pkmer)
 
 之后就能看到该插件不同的发行版本，例如下图显示的有 0.1.2 版本、0.1.1 版本。
 
-![](https://cdn.pkmer.cn/images/f7cedd89bbd3a58c50a616f34646f788_MD5.png)
+![](https://cdn.pkmer.cn/images/f7cedd89bbd3a58c50a616f34646f788_MD5.png!pkmer)
 
 请注意上图红框部分，OB 的插件主要由 3 类文件，命名为 `main.js`、`manifest.json`、`styles.css`，也有些插件可能没有其中的某个文件。请将上述 3 个文件下载到本地，请勿重命名，然后新建一个文件夹将上述的文件放入。
 

@@ -23,7 +23,7 @@ modified: 20230430004222
 
 ## 效果&特性
 
-![](https://cdn.pkmer.cn/images/auto-link-title.gif)
+![](https://cdn.pkmer.cn/images/auto-link-title.gif!pkmer)
 
 ## 使用
 

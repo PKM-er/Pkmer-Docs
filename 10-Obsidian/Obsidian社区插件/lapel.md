@@ -25,7 +25,7 @@ modified: 20230429181108
 
 ## 效果&特性
 
-![Pasted image 20230215232821](https://cdn.pkmer.cn/images/9b67b733eac74ff9c2c0c7d699fd6b52_MD5.png)
+![Pasted image 20230215232821](https://cdn.pkmer.cn/images/9b67b733eac74ff9c2c0c7d699fd6b52_MD5.png!pkmer)
 
 - 在编辑器中显示对应标题级别（例如 H1、H2、H3 等）。
 - 点击显示标题级别，可以通过下拉菜单，快速切换标题级别。

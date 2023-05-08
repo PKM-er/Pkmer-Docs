@@ -47,7 +47,7 @@ public: yes
 - 移动到 Obsidian 的 垃圾回收站（.Trash）。和其他删除的文件混在一起，如果你默认开启删除笔记也是放到 OB 自己的回收站的话。
 - 移动到操作系统的回收站。和其他操作系统的删除文件混在一起。
 - 直接删除：不经过任何回收站，直接从电脑上删除，你可能无法找回。
-    ![Pasted image 20230128175756](https://cdn.pkmer.cn/images/f1837d7771ea3af8844d4827bd1040d6_MD5.png)
+    ![Pasted image 20230128175756](https://cdn.pkmer.cn/images/f1837d7771ea3af8844d4827bd1040d6_MD5.png!pkmer)
 
 ### 排除文件夹
 
@@ -55,11 +55,11 @@ public: yes
 
 - 当需要排除多个文件夹时，可以用“，”分隔。
 - 请确保在保险库中提供完整的路径。
-    ![Pasted image 20230128175751](https://cdn.pkmer.cn/images/a4a1c29058ee2bc2ae59e85b130216d5_MD5.png)
+    ![Pasted image 20230128175751](https://cdn.pkmer.cn/images/a4a1c29058ee2bc2ae59e85b130216d5_MD5.png!pkmer)
 
 也可以排除上面提供的文件夹路径下的所有子文件夹：
 
-![Pasted image 20230128175818](https://cdn.pkmer.cn/images/a1007c783b8bacac6b31c12a3f21edee_MD5.png)
+![Pasted image 20230128175818](https://cdn.pkmer.cn/images/a1007c783b8bacac6b31c12a3f21edee_MD5.png!pkmer)
 
 ## 使用方法
 
@@ -67,12 +67,12 @@ public: yes
 
 1. 开启插件后
 2. 从插件设置中激活功能区（Ribbon）图标，并从左侧功能区单击图标以运行清理
-   ![Pasted image 20230128175857](https://cdn.pkmer.cn/images/0fcfc4bfb2a022061cd065cdbad9f36f_MD5.png)
+   ![Pasted image 20230128175857](https://cdn.pkmer.cn/images/0fcfc4bfb2a022061cd065cdbad9f36f_MD5.png!pkmer)
 
 ### 命令面板
 
 1. 打开命令面板（使用 Ctrl/Cmd+P）运行“清除未使用的图像”。【 "Clear Unused Images"】
-   ![Pasted image 20230128175938](https://cdn.pkmer.cn/images/30201755cb521b5d57b16f878ae13903_MD5.png)
+   ![Pasted image 20230128175938](https://cdn.pkmer.cn/images/30201755cb521b5d57b16f878ae13903_MD5.png!pkmer)
 
 2. 当然你也可以给这个命令增加 快捷键。
 
@@ -80,4 +80,4 @@ public: yes
 
 如果你在插件设置中打开了“删除日志”选项，你会看到一个弹出的模式，显示哪些图片从你的数据库中已经删除了。
 
-![Pasted image 20230128180054](https://cdn.pkmer.cn/images/ffa739e449346b4157680143ef4a3a88_MD5.png)
+![Pasted image 20230128180054](https://cdn.pkmer.cn/images/ffa739e449346b4157680143ef4a3a88_MD5.png!pkmer)

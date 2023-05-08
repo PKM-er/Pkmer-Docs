@@ -56,7 +56,7 @@ public: yes
 - [x] You will not be notified about the reminders you have already checked. (@2021-08-14)
 ```
 
-![input-reminder-time.gif](https://cdn.pkmer.cn/images/133e1677ca90a3f85d2c38dd280a78d1_MD5.gif)
+![input-reminder-time.gif](https://cdn.pkmer.cn/images/133e1677ca90a3f85d2c38dd280a78d1_MD5.gif!pkmer)
 
 ### 查看方法—提醒列表
 
@@ -64,15 +64,15 @@ public: yes
 
 如果单击提醒列表项，将跳转显示到对应笔记文件。
 
-![image.png](https://cdn.pkmer.cn/images/5d718b10d449075829627802767c6fed_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/5d718b10d449075829627802767c6fed_MD5.png!pkmer)
 
 ### 系统通知提醒
 
-![image.png](https://cdn.pkmer.cn/images/67d54efdb120312443fab1bf1b88265a_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/67d54efdb120312443fab1bf1b88265a_MD5.png!pkmer)
 
 如果单击 `Mark as Done`（已完成），你的待办项目将被自动标记。另外，您可以通过以后选择 `Remind Me Later`（稍后提醒我），你的提醒将被推迟。
 
-![image.png](https://cdn.pkmer.cn/images/49727fba6c33b84c48cea8c340b9528f_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/49727fba6c33b84c48cea8c340b9528f_MD5.png!pkmer)
 
 ## 与其他插件的兼容性
 

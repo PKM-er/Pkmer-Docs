@@ -29,7 +29,7 @@ public: yes
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/f0a22dd5ee505ebdbd0f24fa4cb07319_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/f0a22dd5ee505ebdbd0f24fa4cb07319_MD5.png!pkmer)
 
 ## 使用
 

@@ -28,13 +28,13 @@ Obsidian Projects 插件是一款项目管理插件，由于支持多种视图�
 提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 
 - 画廊模式
-![image.png](https://cdn.pkmer.cn/images/80acb2021fedbba8d36f14996b830fab_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/80acb2021fedbba8d36f14996b830fab_MD5.png!pkmer)
 
 - 表格模式
-![image.png](https://cdn.pkmer.cn/images/ba38a1c66dfeb8329634503761959f67_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/ba38a1c66dfeb8329634503761959f67_MD5.png!pkmer)
 
 - 日历视图
-![image.png](https://cdn.pkmer.cn/images/eb9b97454d67f93e568debc7bf120389_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/eb9b97454d67f93e568debc7bf120389_MD5.png!pkmer)
 
 ## 安装
 
@@ -49,7 +49,7 @@ Obsidian Projects 的使用步骤相当简单，在安装后你只需要在左�
 
 初次打开 Projects 现在应该已经提示你可以选择一个文件夹，或者尝试使用 Projects 内置的 Demo Projects，打开后可以看到以下的界面
 
-![image.png](https://cdn.pkmer.cn/images/b0c142fd84b8094b5bb60e608c8a6d0e_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/b0c142fd84b8094b5bb60e608c8a6d0e_MD5.png!pkmer)
 
 ### 选择示例（Try a demo project）
 
@@ -98,13 +98,13 @@ Obsidian Projects 的使用步骤相当简单，在安装后你只需要在左�
 
 ### 样式管理
 
-![image.png](https://cdn.pkmer.cn/images/4334bc9fc045f441d8df86fee96c89a4_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/4334bc9fc045f441d8df86fee96c89a4_MD5.png!pkmer)
 
 1、支持通过条件、组合条件，为不同数据进行标记不同样式。比如某给数据为空的笔记特别颜色标记出来。
 
 ### 筛选管理
 
-![image.png](https://cdn.pkmer.cn/images/e6ec972caef4f71a92bf3537b99968e3_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/e6ec972caef4f71a92bf3537b99968e3_MD5.png!pkmer)
 
 1、支持通过条件、组合条件，筛选出来特定的笔记数据。
 
@@ -131,7 +131,7 @@ Obsidian Projects 的使用步骤相当简单，在安装后你只需要在左�
 
 ### 日历视图
 
-![image.png](https://cdn.pkmer.cn/images/eb9b97454d67f93e568debc7bf120389_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/eb9b97454d67f93e568debc7bf120389_MD5.png!pkmer)
 
 1、你点击这里可以添加笔记；
 
@@ -145,7 +145,7 @@ Obsidian Projects 的使用步骤相当简单，在安装后你只需要在左�
 
 ### 看板视图
 
-![image.png](https://cdn.pkmer.cn/images/5d911f78191b108c8632b3d3078d8da0_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/5d911f78191b108c8632b3d3078d8da0_MD5.png!pkmer)
 
 1、添加新的笔记，而且附带对应的状态作为 YAML ；
 
@@ -159,4 +159,4 @@ Obsidian Projects 的使用步骤相当简单，在安装后你只需要在左�
 
 如果你喜欢其他笔记软件的画廊模式，一个个大大的卡片，和精美的图片让你很舒服，你可以尝试画廊视图。
 
-![image.png](https://cdn.pkmer.cn/images/80acb2021fedbba8d36f14996b830fab_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/80acb2021fedbba8d36f14996b830fab_MD5.png!pkmer)

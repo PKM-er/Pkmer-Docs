@@ -26,7 +26,7 @@ created: 2023-03-10 09:48:22
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230502011634.png)
+![image.png](https://cdn.pkmer.cn/images/20230502011634.png!pkmer)
 
 ## 使用
 
@@ -43,7 +43,7 @@ name: This Year
 
 将会生成如下进度（注意因为书写此文档的时间，可能下面的图片不是实际插件的结果）：
 
-![image.png](https://cdn.pkmer.cn/images/20230502011727.png)
+![image.png](https://cdn.pkmer.cn/images/20230502011727.png!pkmer)
 
 >[!Warning] 警告
 >- 兼容：此插件对格式存在严格的要求，子选项必须顶格书写，或者使用 4 给连续的空格来完成缩进。注意一定不能使用 `Tab` 来缩进，否则会导致插件解析错误，整个笔记可能变成无法打开的状态。

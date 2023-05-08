@@ -27,13 +27,13 @@ TagFolder 就是通过笔记中的标签，重新组织所有的笔记。
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230508164548.png)
+![image.png](https://cdn.pkmer.cn/images/20230508164548.png!pkmer)
 
 ## 使用
 
  - `Ctrl/Cmd+P` 找到 Show Tag Folder，可以打开对应管理面板。
 
-![image.png](https://cdn.pkmer.cn/images/20230508171215.png)
+![image.png](https://cdn.pkmer.cn/images/20230508171215.png!pkmer)
 
 ### 如何理解 tag 管理
 
@@ -47,7 +47,7 @@ Tuna : #food #red
 
 那么使用插件管理后，形成的文件夹结构就是：
 
-![image.png](https://cdn.pkmer.cn/images/20230508171457.png)
+![image.png](https://cdn.pkmer.cn/images/20230508171457.png!pkmer)
 
 > [!Tip] 注意
 > - 笔记中是否包含标签（tag）都可以插件组织管理，不包含标签的笔记，会被分类到 `untagged` 分类下。

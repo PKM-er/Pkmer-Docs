@@ -18,7 +18,7 @@ Markdown 的表格展示形式一般比较单一，有必要通过 CSS 实现加
 ## 样式举例
 
 - 奇偶行背景色加深
-![image.png](https://cdn.pkmer.cn/images/202305042335035.png)
+![image.png](https://cdn.pkmer.cn/images/202305042335035.png!pkmer)
 
 ```css
 
@@ -29,7 +29,7 @@ Markdown 的表格展示形式一般比较单一，有必要通过 CSS 实现加
 ```
 
 - 表头颜色加深
-![image.png](https://cdn.pkmer.cn/images/202305042347650.png)
+![image.png](https://cdn.pkmer.cn/images/202305042347650.png!pkmer)
 
 ```css
 :is(.markdown-preview-view,.markdown-rendered,.markdown-source-view) th,
@@ -113,7 +113,7 @@ Markdown 的表格展示形式一般比较单一，有必要通过 CSS 实现加
 ```
 
 - 三线表样式
-![image.png](https://cdn.pkmer.cn/images/202305061103479.png)
+![image.png](https://cdn.pkmer.cn/images/202305061103479.png!pkmer)
 
 ```css
 table {

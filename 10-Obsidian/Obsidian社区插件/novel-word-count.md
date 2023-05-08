@@ -23,7 +23,7 @@ modified: 20230504121511
 
 ## 效果&特性
 
-![readme-screenshot-2.png](https://cdn.pkmer.cn/images/readme-screenshot-2.png)
+![readme-screenshot-2.png](https://cdn.pkmer.cn/images/readme-screenshot-2.png!pkmer)
 
 - 在文件资源管理器窗格中，为每个文件、文件夹和仓库旁边显示您选择的统计信息。
 - 插件提供可选的统计信息，包括字数统计、页面统计、字符统计、笔记统数量统计、创建/修改日期、文件大小。

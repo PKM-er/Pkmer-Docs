@@ -26,7 +26,7 @@ modified: 20230507115333
 
 ## 特性&效果
 
-![image.png](https://cdn.pkmer.cn/images/20230429233807.png)
+![image.png](https://cdn.pkmer.cn/images/20230429233807.png!pkmer)
 
 - 点击对应天数就可以建立以这个日期为名字的笔记
 - 可以在月历上显示你对应笔记是否有未完成的任务
@@ -44,7 +44,7 @@ modified: 20230507115333
 
 日历视图上单击对应的日期，在对话框中点击（create），就会显示当天的日记。
 
-![image.png](https://cdn.pkmer.cn/images/20230507112212.png)
+![image.png](https://cdn.pkmer.cn/images/20230507112212.png!pkmer)
 
 #### 日记的格式
 
@@ -52,7 +52,7 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 如果你想要用 Calendar 生成日记的日期格式、存放位置，甚至是日记模板做控制，就直接在核心插件【日记】中设置即可！
 
-![image.png](https://cdn.pkmer.cn/images/20230507112737.png)
+![image.png](https://cdn.pkmer.cn/images/20230507112737.png!pkmer)
 
 >[!Tip] 提示
 >- Calendar 插件的一些功能迁移来核心插件【日记】
@@ -63,7 +63,7 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 - show week number：这样你的日历视图就会多出来一栏，用于显示月历中当前【周数】
 
-![image.png](https://cdn.pkmer.cn/images/20230507114324.png)
+![image.png](https://cdn.pkmer.cn/images/20230507114324.png!pkmer)
 
 和日记一样，单击【周数】就可以创建属于你的周复盘啦：
 
@@ -71,7 +71,7 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 依赖：
 
-![image.png](https://cdn.pkmer.cn/images/20230507115326.png)
+![image.png](https://cdn.pkmer.cn/images/20230507115326.png!pkmer)
 
 - **Weekly note format**
 

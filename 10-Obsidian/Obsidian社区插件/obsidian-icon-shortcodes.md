@@ -35,7 +35,7 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的段
 - [Font Awesome](https://fontawesome.com/) 和 [Remixicon](https://github.com/Remix-Design/RemixIcon) 图标集合需要下载后支持。进入插件设置，选择 `Icon Packs` 中 Browser，可以浏览并下载对应的图标集合。
 - Custom Icons 可以轻松插入和管理自定义图标（支持格式：.bmp，.png，.jpg，.jpeg，.gif，.svg 和.webp）
 
-![image.png](https://cdn.pkmer.cn/images/20230506105842.png)
+![image.png](https://cdn.pkmer.cn/images/20230506105842.png!pkmer)
 
 ### 自定义样式
 

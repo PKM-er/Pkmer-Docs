@@ -39,7 +39,7 @@ public: yes
 
 ## 设置
 
-![](https://cdn.pkmer.cn/images/a98623c3025d77359f7964f2ef38f505_MD5.png)
+![](https://cdn.pkmer.cn/images/a98623c3025d77359f7964f2ef38f505_MD5.png!pkmer)
 
 - 控制是否开启某个功能，比如只保留滚动到顶部
 - 控制是否展示按钮提示词

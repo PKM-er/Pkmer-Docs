@@ -25,6 +25,6 @@ Excalidraw 是一款在线开源的绘图软件，提供手绘风格与普通风
 
 ## 效果&特性
 
-![Pasted image 20230126224250](https://cdn.pkmer.cn/images/2fcac53b10844b1b268aa3414b007cf0_MD5.png)
+![Pasted image 20230126224250](https://cdn.pkmer.cn/images/2fcac53b10844b1b268aa3414b007cf0_MD5.png!pkmer)
 
 ## 使用

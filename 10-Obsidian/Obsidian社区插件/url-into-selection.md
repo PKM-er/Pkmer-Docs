@@ -26,7 +26,7 @@ Paste URL into selection 解决了快速给文字添加链接的问题，使用 
 
 ## 效果&特性
 
-![98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif](https://cdn.pkmer.cn/images/98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif)
+![98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif](https://cdn.pkmer.cn/images/98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif!pkmer)
 
 ## 使用
 

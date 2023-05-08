@@ -32,7 +32,7 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 > [!Note]
 > 如果发现没有刷新标题编号，可以稍等，或者手动保存文档，以触发标题编号的刷新
 
-![Pasted image 20230120233859](https://cdn.pkmer.cn/images/d4d33e896b1006d15513725cab7fa095_MD5.png)
+![Pasted image 20230120233859](https://cdn.pkmer.cn/images/d4d33e896b1006d15513725cab7fa095_MD5.png!pkmer)
 
 ## 安装
 
@@ -44,7 +44,7 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 
 安装完成以后，我们还需要对它进行设置，让它符合您的需求。**Number headings** 的设置界面如下图所示。
 
-![Pasted image 20230120233246](https://cdn.pkmer.cn/images/9921c92fc0cb37c3fa38a7436aa21645_MD5.png)
+![Pasted image 20230120233246](https://cdn.pkmer.cn/images/9921c92fc0cb37c3fa38a7436aa21645_MD5.png!pkmer)
 
 可以设置的内容不是很多，笔者对 **Number headings** 的设置进行了解释。
 
@@ -81,7 +81,7 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 
 1. 在文档的 front matter (前页) 添加一行代码 1. 例如 number headings:first-level 1,max 6,1.1,auto,contents 'toc。
 
-   ![Pasted image 20230120233657](https://cdn.pkmer.cn/images/40e7d86c10af5c9c198b3c9fb429b734_MD5.png)
+   ![Pasted image 20230120233657](https://cdn.pkmer.cn/images/40e7d86c10af5c9c198b3c9fb429b734_MD5.png!pkmer)
 
    ![Pasted image 20230120233657](https://s1.vika.cn/space/2023/03/15/64eb9417d94648279368c16b74ef2b64)
 

@@ -368,7 +368,7 @@ id: 1111
 
 禅师：这个 mode 选项是在选择命令的时候是可选择的，如图所示，我们可以选择直接打开，也可以选择 append 方式或者 prepend 方式，更重要的是还可以在开始的输入框内输入需要添加的内容。
 
-![Pasted image 20230420164515](https://cdn.pkmer.cn/images/ff9fd15169c469598f37feaea83a743e_MD5.png)
+![Pasted image 20230420164515](https://cdn.pkmer.cn/images/ff9fd15169c469598f37feaea83a743e_MD5.png!pkmer)
 
 青年：这种可视化的 Advanced URI 书写方式太贴心了，我注意到命令“copy URI for file with options”是不是也是可以像这样既能输入内容又能选择编辑位置？
 

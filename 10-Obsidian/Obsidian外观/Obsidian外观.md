@@ -17,7 +17,7 @@ Obsidian 提供一些和其他软件类似的基础外观设定和操作
 
 ## 基本功能
 
-![Pasted image 20230221095028](https://cdn.pkmer.cn/images/4edb41f1ae4622901e57c4beb2e10a74_MD5.png)
+![Pasted image 20230221095028](https://cdn.pkmer.cn/images/4edb41f1ae4622901e57c4beb2e10a74_MD5.png!pkmer)
 
 - 多标签页：你可以理解成浏览器众多标签页，你可以新建、拖拽、关闭，各自标签页历史的回退和前进；
 - 独立窗口：你可以理解成浏览器分开了不同窗口；

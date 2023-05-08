@@ -24,7 +24,7 @@ modified: 20230507115549
 
 ## 效果&特性
 
-![](https://cdn.pkmer.cn/images/GIF%202023-4-30%209-57-43.gif)
+![](https://cdn.pkmer.cn/images/GIF%202023-4-30%209-57-43.gif!pkmer)
 
 ## 安装
 

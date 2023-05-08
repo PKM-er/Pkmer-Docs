@@ -25,7 +25,7 @@ public: yes
 
 ## 效果&特性
 
-![Pasted image 20230127165341](https://cdn.pkmer.cn/images/b50801650322a416bb4ef9b9acfc5681_MD5.png)
+![Pasted image 20230127165341](https://cdn.pkmer.cn/images/b50801650322a416bb4ef9b9acfc5681_MD5.png!pkmer)
 
 ## 准备
 
@@ -77,6 +77,6 @@ public: yes
 
 统计近 7 日的学习结果。
 
-![Pasted image 20230127170141](https://cdn.pkmer.cn/images/abc76970241b39177e0cca101046d36d_MD5.png)
+![Pasted image 20230127170141](https://cdn.pkmer.cn/images/abc76970241b39177e0cca101046d36d_MD5.png!pkmer)
 
 ## 视频
