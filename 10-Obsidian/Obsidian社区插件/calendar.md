@@ -21,7 +21,7 @@ modified: 20230507115333
 > [!Note] 插件名片
 > - 插件名称：Calendar
 > - 插件作者：Liam Cain
-> - 插件说明：黑曜石的简单日历小部件
+> - 插件说明：为 Obsidian 添加一个简单日历功能
 > - 插件项目地址：[点我跳转](https://github.com/liamcain/obsidian-calendar-plugin)
 
 ## 特性&效果
