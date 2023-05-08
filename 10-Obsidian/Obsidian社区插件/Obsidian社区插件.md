@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230507203432
+modified: 20230508180221
 public: yes
 ---
 
@@ -70,37 +70,43 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-dynamic-highlights]]
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
+- [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
+- [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录。
 
 ### 目录类
 
 - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
 - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
 - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
+- [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
 
 ### 日期&提醒&任务类
 
+- [[calendar]]：为 Obsidian 添加一个简单日历功能
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
-- [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中。
+- [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
 - [[obsidian-tasks-plugin]]
-- [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条。
+- [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
 - [[obsidian-task-progress-bar]]
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
-- [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器。
+- [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
+- [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 
 ### 链接类
 
 - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
 - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
-- [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标。
+- [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
 - [[link-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
 - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
-- [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式。
+- [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：根据你设定的规则动态高亮显示文本
 
 ### 标签类
 
-- [[tag-wrangler]]：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到。
+- [[tag-wrangler]]：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到
+- [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
 
 ### 表格类
 
@@ -108,41 +114,51 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[table-editor-obsidian]]：改进了表格导航、格式和操作
 - [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
 
-### 自动化
+### 自动化&效率
 
-- [[obsidian-pangu]]：提供了一个全新的增强型文件管理器。
+- [[obsidian-pangu]]：提供了一个全新的增强型文件管理器
+- [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
+- [[QuickAdd]]
+- [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
 
 ### 图标类
 
 - [[obsidian-icons-plugin]]：提供插入图标符号的功能。
-- [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合。
-- [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中。
-- [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换。
+- [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合
+- [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
+- [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换
+
+### 统计类
+
+- [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
+- [[better-word-count]]：
 
 ### 美化
 
 - [[Obsidian-Banners]]：为文档页面添加头图和图标
-- [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解。
+- [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
 - [[obsidian-hider]]：自定义隐藏界面元素、信息
 - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
+- [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
 
 ### 文件管理类
 
  - [[file-tree-alternative]]：提供了一个全新的增强型文件管理器。
  - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
  - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
- - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹。
+ - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
  - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
  - [[recent-files-obsidian]]：显示最近打开的文件列表
 
 ### 工具
 
-- [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表。
+- [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
 - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+- [[obsidian-tabs]]：为 Obsidian 增加标签页功能
 
 ### 插入预览 和 第三方集成
 
- - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页。
+ - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
  - [[surfing]]
  - [[convert-url-to-iframe]]：将任何 URL 转换为网页预览插入到笔记中
  - [[simple-embeds]]：把 Twitter 和 YouTube 网页链接嵌入当前笔记中预览

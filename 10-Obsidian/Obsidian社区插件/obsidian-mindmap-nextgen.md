@@ -6,20 +6,20 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504202629
+modified: 20230508163311
 ---
 
 # obsidian-mindmap-nextgen
+
+## 概述
+
+使用 [markmap](https://markmap.js.org/) 库把你的笔记用思维导图的形式打开。跟 [[obsidian-enhancing-mindmap]] 插件不同的是，它可以用代码块的形式直接把思维导图嵌入到当前笔记中。
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Mindmap Nextgen
 > - 插件作者：VeroCloud Pty Ltd (original by James Lynch)
 > - 插件说明：用于将笔记预览为 Markmap 思维导图
 > - 插件项目地址：[点我访问](https://github.com/verocloud/obsidian-mindmap-nextgen)
-
-## 概述
-
-使用 [markmap](https://markmap.js.org/) 库把你的笔记用思维导图的形式打开。跟 [[obsidian-enhancing-mindmap]] 插件不同的是，它可以用代码块的形式直接把思维导图嵌入到当前笔记中。
 
 ## 使用
 
@@ -61,6 +61,7 @@ modified: 20230504202629
 
   ```yaml
   ---
+
 
 markmap:
   screenshotTextColor: #28F48D
