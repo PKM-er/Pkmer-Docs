@@ -2,11 +2,11 @@
 uid: 20230429092554
 title: Editor Syntax Highlight
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429171721
+modified: 20230509150606
 ---
 
 # Editor Syntax Highlight

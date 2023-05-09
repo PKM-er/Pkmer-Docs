@@ -2,7 +2,7 @@
 uid: 20230428105320
 title: Obisdian 插件：Emoji Toolbar（快速插入 Emoji 符号）
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

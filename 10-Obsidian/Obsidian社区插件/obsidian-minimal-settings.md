@@ -2,7 +2,7 @@
 uid: 20230428213702
 title: Minimal Theme Settings 为你 Minimal 主题提供自定义选项
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

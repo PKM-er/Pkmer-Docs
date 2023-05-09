@@ -2,7 +2,7 @@
 uid: 20230506102304
 title: Obsidian 插件：Icon Swapper 修改默认图标变为你自己个性化的样式
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

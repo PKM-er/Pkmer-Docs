@@ -2,7 +2,7 @@
 uid: 20230502011042
 title: Obsidian 插件：ProgressBar 快速在笔记中增加进度条
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

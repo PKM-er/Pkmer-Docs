@@ -2,7 +2,7 @@
 uid: 20230504152108
 title: Obsidian 插件：Custom Frames 集成更多网页应用到笔记中
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

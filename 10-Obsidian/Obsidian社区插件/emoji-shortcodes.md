@@ -2,7 +2,7 @@
 uid: 20230506111321
 title: Obsidian 插件：Emoji Shortcodes 快速输入 emoji 表情符号
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

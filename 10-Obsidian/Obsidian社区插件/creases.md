@@ -2,7 +2,7 @@
 uid: 20230502004305
 title: Obsidian 插件：Creases 控制不同标题的折叠展开状态
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

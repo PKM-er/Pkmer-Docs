@@ -2,7 +2,7 @@
 uid: 20230427232149
 title: Obsidian 插件：Collapse All
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

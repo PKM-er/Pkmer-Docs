@@ -2,7 +2,7 @@
 uid: 20230504001023
 title: Obsidian 插件：Comments 为你的笔记增加评论和批注功能
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

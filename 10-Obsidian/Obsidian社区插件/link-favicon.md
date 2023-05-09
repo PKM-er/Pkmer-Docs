@@ -2,7 +2,7 @@
 uid: 20230505232116
 title: Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

@@ -2,7 +2,7 @@
 uid: 20230430003417
 title: Obsidian 插件：Sortable 为表格提供简单的排序功能
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

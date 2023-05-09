@@ -1,15 +1,15 @@
 ---
 uid: 20230504113543
-title: Obsidian 插件
+title: Obsidian 插件：Novel word count 增加统计信息
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504121511
+modified: 20230509150923
 ---
 
-# Obsidian 插件
+# Obsidian 插件：Novel word count 增加统计信息
 
 ## 概述
 

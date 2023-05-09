@@ -2,11 +2,11 @@
 uid: 20230507014811
 title: Obsidian 插件：Better Word Count
 description: 
-author: 
+author: bon
 type: other
 draft: false
 editable: false
-modified: 20230507014929
+modified: 20230509105037
 ---
 
 # Obsidian 插件：Better Word Count

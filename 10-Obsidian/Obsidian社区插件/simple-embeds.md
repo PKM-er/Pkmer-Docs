@@ -2,7 +2,7 @@
 uid: 20230430090320
 title: Obsidian 插件：Simple Embeds 为链接
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

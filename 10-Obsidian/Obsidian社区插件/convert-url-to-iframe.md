@@ -2,7 +2,7 @@
 uid: 20230430005136
 title: Obsidian 插件：Convert url to preview (iframe) 将 URL 转化为嵌入的页面
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

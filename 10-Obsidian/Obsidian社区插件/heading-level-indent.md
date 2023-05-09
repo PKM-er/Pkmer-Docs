@@ -2,7 +2,7 @@
 uid: 20230502002201
 title: Obsidian 插件：Heading Level Indent 为不同等级标题增加缩进
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

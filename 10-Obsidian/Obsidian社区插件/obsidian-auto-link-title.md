@@ -2,7 +2,7 @@
 uid: 20230430001441
 title: Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

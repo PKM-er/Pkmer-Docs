@@ -2,8 +2,7 @@
 uid: 20230506120039
 title: Obsidian 插件：Paste URL into selection 快速给文字添加链接
 description: 
-author: 
-type: other
+author:OS
 draft: false
 editable: false
 modified: 20230506122211

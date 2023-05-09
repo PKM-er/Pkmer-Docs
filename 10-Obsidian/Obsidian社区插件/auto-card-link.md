@@ -2,7 +2,7 @@
 uid: 20230505140611
 title: Obsidian 插件：Auto Card Link 将网页链接自动转化为卡片样式
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

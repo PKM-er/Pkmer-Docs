@@ -2,7 +2,7 @@
 uid: 20230427170309
 title: Obsidian 初见
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false
