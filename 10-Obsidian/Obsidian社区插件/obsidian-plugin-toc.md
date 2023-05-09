@@ -2,7 +2,7 @@
 uid: 20230428142959
 title: Obsidian 插件：Table of content 为你的笔记创建笔记目录
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

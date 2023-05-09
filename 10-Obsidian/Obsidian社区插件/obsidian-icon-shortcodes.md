@@ -2,7 +2,7 @@
 uid: 20230506103414
 title: Obsidian 插件：Icon Shortcodes
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

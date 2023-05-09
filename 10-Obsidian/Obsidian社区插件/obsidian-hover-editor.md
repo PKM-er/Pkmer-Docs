@@ -2,7 +2,7 @@
 uid: 20230507014507
 title: Obsidian 插件：Hover Editor
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

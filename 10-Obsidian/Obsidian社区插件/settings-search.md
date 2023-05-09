@@ -2,7 +2,7 @@
 uid: 20230429230727
 title: Obsidian 插件：Settings Search 帮助快捷定位和查询设置项
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

@@ -2,7 +2,7 @@
 uid: 20230503001315
 title: Obsidian 插件：盘古 PanGu 快速格式化文档
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

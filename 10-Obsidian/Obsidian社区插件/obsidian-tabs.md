@@ -2,7 +2,7 @@
 uid: 20230429173235
 title: Obsidian Tabs 为 Obsidian 增加标签页功能
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

@@ -2,7 +2,7 @@
 uid: 20230428105320
 title: Obsidian Dynamic ToC 为你的笔记创建目录
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false
