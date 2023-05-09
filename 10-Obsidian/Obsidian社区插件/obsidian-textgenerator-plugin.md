@@ -6,7 +6,7 @@ author: windilycloud
 type: other
 draft: false
 editable: false
-modified: 20230507190228
+modified: 20230509181433
 ---
 
 # obsidian-textgenerator-plugin
