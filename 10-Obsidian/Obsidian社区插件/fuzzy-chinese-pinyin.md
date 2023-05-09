@@ -7,7 +7,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230509184106
+modified: 20230509184540
 ---
 
 # Obsidian 插件：Fuzzy Chinese Pinyin
@@ -20,7 +20,7 @@ Fuzzy Chinese Pinyin 提供中文拼音搜索的功能，其他功能与核心�
 > - 插件名称：Fuzzy Chinese Pinyin
 > - 插件作者：lazyloong
 > - 插件说明：可以基于汉语拼音进行模糊搜索
-> - 插件项目地址：[点我跳转](https://github.com/kepano/obsidian-hider)
+> - 插件项目地址：[点我跳转](https://github.com/lazyloong/obsidian-fuzzy-chinese)
 
 ## 效果&特性
 
