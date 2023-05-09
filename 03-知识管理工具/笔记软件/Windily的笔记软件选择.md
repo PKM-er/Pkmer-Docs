@@ -133,7 +133,7 @@ modified: 20230503232738
 
 1. 社区分享：教程，笔记，讨论等
 2. 软件稳定：用的人越多，跑路越轻松，因为总有大牛写脚本，写软件帮人跑路，比如这个 [heptabase完美导出](https://www.bilibili.com/video/BV1R8411p7S1/)。甚至可能的话，会有大牛会接替维护这个软件或者重新开发该软件。
-3. 功能强大：用的人越多，有着不同需求的人也越多，对于高扩展性的软件，总有一些无私风险的人 ，为社区填砖加瓦。即使这些需求非常离谱和看起来没啥卵用。比如在笔记软件里玩游戏 [ObsiDOOM)](https://github.com/twibiral/ObsiDOOM) ，五秒不打字，就把笔记删了 [dangerzone-writing-plugin](https://github.com/akaalias/dangerzone-writing-plugin)
+3. 功能强大：用的人越多，有着不同需求的人也越多，对于高扩展性的软件，总有一些无私风险的人 ，为社区填砖加瓦。即使这些需求非常离谱和看起来没啥卵用。比如在笔记软件里玩游戏 [ObsiDOOM](https://github.com/twibiral/ObsiDOOM) ，五秒不打字，就把笔记删了 [dangerzone-writing-plugin](https://github.com/akaalias/dangerzone-writing-plugin)
 
 对于社区生态来说，没办法给出一个准确排名，但按照使用人数及热度来说，好的社区生态大致如下，排名部分先后：
 
