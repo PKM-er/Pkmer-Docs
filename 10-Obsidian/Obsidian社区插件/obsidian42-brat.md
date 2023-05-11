@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Obsidian42-BRAT（安装测试版插件）
-description: 
+description: Obsidian 插件：Obsidian42-BRAT 让你可以安装未上架的插件，主题。
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181107
+modified: 20230511215053
 public: yes
 ---
 

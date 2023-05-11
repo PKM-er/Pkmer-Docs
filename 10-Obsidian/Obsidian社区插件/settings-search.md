@@ -1,12 +1,12 @@
 ---
 uid: 20230429230727
 title: Obsidian 插件：Settings Search 帮助快捷定位和查询设置项
-description: 
+description: Obsidian 插件：Settings Search 帮助快捷定位和查询设置项
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230430000712
+modified: 20230511215213
 ---
 
 # Obsidian 插件：Settings Search 帮助快捷定位和查询设置项

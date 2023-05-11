@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Excalidraw
-description: 
+description: Obsidian 插件：Excalidraw
 tags: 
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230507014650
+modified: 20230511214308
 public: yes
 ---
 

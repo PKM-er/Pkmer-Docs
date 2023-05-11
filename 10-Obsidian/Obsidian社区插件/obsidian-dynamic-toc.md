@@ -1,16 +1,16 @@
 ---
 uid: 20230428105320
-title: Obsidian Dynamic ToC 为你的笔记创建目录
-description: 
+title: Obsidian 插件： Dynamic ToC 为你的笔记创建目录
+description: Obsidian 插件： Dynamic ToC 为你的笔记创建目录
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230511214234
 public: yes
 ---
 
-# Obsidian Dynamic ToC 为你的笔记创建目录
+# Obsidian 插件： Dynamic ToC 为你的笔记创建目录
 
 ## 概述
 
@@ -28,7 +28,6 @@ public: yes
 >- 该插件下述功能，在 Obsidian 1.1.16 上运行稳定。
 
 ## 效果&特性
-
 
 ## 使用方法
 

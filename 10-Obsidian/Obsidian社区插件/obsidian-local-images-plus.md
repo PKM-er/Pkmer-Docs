@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Local image plus
-description: 
+description: Obsidian 插件：Local image plus
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428114955
+modified: 20230511214700
 public: yes
 ---
 
@@ -20,7 +20,7 @@ public: yes
 > [!Note] 插件名片
 > - 插件名称：Local image plus
 > - 插件作者：Sergei-Korneev
-> - 插件说明：日语书写中给对应的汉字生成注音假名
+> - 插件说明：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 > - 插件项目地址：[点我跳转](https://github.com/Sergei-Korneev/obsidian-local-images-plus)
 
 ## 特性

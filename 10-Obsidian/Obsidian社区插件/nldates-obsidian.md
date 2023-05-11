@@ -1,16 +1,16 @@
 ---
 uid: 20230428232851
-title: Natural Language Dates 使用自然语言来记录日期
-description: 
+title: Natural Language Dates 使用自然语言来插入日期
+description: Obsidian 插件：Natural Language Dates 使用自然语言来插入日期
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230502001449
+modified: 20230511212101
 public: yes
 ---
 
-# Natural Language Dates 使用自然语言来记录日期
+# Natural Language Dates 使用自然语言来插入日期
 
 ## 概述
 

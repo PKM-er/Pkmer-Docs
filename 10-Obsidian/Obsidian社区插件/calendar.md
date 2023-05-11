@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Calendar
-description: 
+description: Obsidian 插件：Calendar为 Obsidian 添加一个简单日历功能
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230507115333
+modified: 20230511205342
 ---
 
 # Obsidian 插件：Calendar

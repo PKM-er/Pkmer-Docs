@@ -1,12 +1,12 @@
 ---
 uid: 20230502015236
 title: Obsidian 插件：Weather Fetcher 为笔记快速添加当前天气情况
-description: 
+description: Obsidian 插件：Weather Fetcher 为笔记快速添加当前天气情况
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230502020107
+modified: 20230511215311
 ---
 
 # Obsidian 插件：Weather Fetcher 为笔记快速添加当前天气情况

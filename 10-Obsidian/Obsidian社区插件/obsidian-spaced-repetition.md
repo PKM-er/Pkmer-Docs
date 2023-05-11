@@ -1,13 +1,13 @@
 ---
 uid: 20230410232448
 title: Spaced Repetition
-description: 
+description: Spaced Repetition
 tags: 
 author: Boninall
 type: basic
 draft: false
 editable: false
-modified: 20230504234448
+modified: 20230511214905
 public: yes
 ---
 
@@ -20,7 +20,7 @@ Spaced Repetition(SR) 是的利用遗忘曲线间隔重复复习抽认卡片和�
 > [!Note] 插件名片
 > - 插件名称：Spaced Repetition
 > - 插件作者：Stephen Mwangi
-> - 插件说明：显示最近打开的文件列表
+> - 插件说明：
 > - 插件项目地址：[点我跳转](https://github.com/st3v3nmw/obsidian-spaced-repetition)
 
 ## 基本使用

@@ -1,12 +1,12 @@
 ---
 uid: 20230504230750
 title: Obsidian 插件：Highlightr
-description: 
+description: Obsidian 插件：Highlightr 将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504233222
+modified: 20230511211527
 ---
 
 # Obsidian 插件：Highlightr

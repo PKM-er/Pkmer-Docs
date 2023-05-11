@@ -1,12 +1,12 @@
 ---
 uid: 20230505234604
 title: Obsidian 插件：External Favicon 为笔记中的网页链接增加网站图标
-description: 
+description: Obsidian 插件：External Favicon 为笔记中的网页链接增加网站图标
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230506002038
+modified: 20230511211356
 ---
 
 # Obsidian 插件：External Favicon 为笔记中的网页链接增加网站图标

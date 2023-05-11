@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Kanban
-description: 
+description: Obsidian 插件：Kanban 作看板，可以连接你的笔记
 tags: 
 author: bon
 type: other
 draft: false
 editable: false
-modified: 20230507131319
+modified: 20230511214538
 public: yes
 ---
 

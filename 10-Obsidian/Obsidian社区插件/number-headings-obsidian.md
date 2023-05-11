@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Number Headings
-description: 
+description: Obsidian 插件：Number Headings 给笔记中的标题自动编号，以及动态目录。
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511162304
+modified: 20230511212120
 public: yes
 ---
 

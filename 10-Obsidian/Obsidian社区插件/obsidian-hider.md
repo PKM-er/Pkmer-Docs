@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Hider
-description: 
+description: Obsidian 插件：Hider 自定义隐藏界面元素、信息。
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230509183144
+modified: 20230511214346
 public: yes
 ---
 

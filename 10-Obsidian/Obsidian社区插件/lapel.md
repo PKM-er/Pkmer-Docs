@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Lapel 为你显示标题等级
-description: 
+description: Obsidian 插件：Lapel 为你显示标题等级
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230511211905
 ---
 
 # Obsidian 插件：Lapel 为你显示标题等级

@@ -7,7 +7,7 @@ author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230511212215
 ---
 
 # obsidian-advanced-uri
@@ -15,7 +15,7 @@ modified: 20230429181108
 > [!note] Advanced URI
 > 插件 ID：obsidian-advanced-uri
 > 插件作者：Vinzent
-> 插件描述：obsidian URI 的功能增强
+> 插件描述：Obsidian URI 的功能增强
 > 插件版本：1.35.0
 > 插件源码地址：[obsidian-advanced-uri (github.com)](https://github.com/Vinzent03/obsidian-advanced-uri)
 > 插件文档地址：[Obsidian Advanced URI Docs](https://vinzent03.github.io/obsidian-advanced-uri/)

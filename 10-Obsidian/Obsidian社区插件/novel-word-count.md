@@ -1,7 +1,7 @@
 ---
 uid: 20230504113543
 title: Obsidian 插件：Novel word count 增加统计信息
-description: 
+description: Obsidian 插件：Novel word count 增加统计信息
 author: OS
 type: other
 draft: false
