@@ -1,12 +1,12 @@
 ---
 uid: 20230504102443
 title: obsidian-admonition
-description: 
+description: Obsidian 插件：Admonition 你可以自己定义各种增强块样式，比如警告，笔记，提醒等
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504110053
+modified: 20230511212159
 ---
 
 # obsidian-admonition
@@ -39,8 +39,8 @@ color:                  # 自定义颜色(颜色必须是 RGB 格式的三组数
 
 #### 特殊用法
 
-- 嵌套ad 通过增加反引号的数量来决定嵌套的层级
-  
+- 嵌套 ad 通过增加反引号的数量来决定嵌套的层级
+
 `````ad-note
 title: 这是一个嵌套Ad
 collapse: open
@@ -62,7 +62,6 @@ collapse: close
 我是最外层的
 `````
 
-
 - Ad 中嵌套代码块 其中 `~~~` 为代码块内容
 
 ````ad-info
@@ -82,7 +81,6 @@ console.log("Hello!");
 
 - 通过 ctrl+p 输入 admontion 快捷插入 callout 或者 ad 语法块
   ![image.png](https://cdn.pkmer.cn/images/202305041045797.png!pkmer)
-
 
 ## 高级玩法
 

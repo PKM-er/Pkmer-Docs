@@ -1,12 +1,12 @@
 ---
 uid: 20230501110213
 title: dataview
-description: 
+description: Obsidian 插件：Dataview 高性能的索引笔记文件，并创建复杂的查询视图，如表格，列表，任务，日历视图
 author: Boninall
 type: other
 draft: false
 editable: false
-modified: 20230503223241
+modified: 20230511211209
 ---
 
 # dataview

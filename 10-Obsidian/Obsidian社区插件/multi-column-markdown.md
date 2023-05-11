@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
-description: 
+description: Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230511211920
 public: yes
 ---
 

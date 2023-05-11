@@ -1,12 +1,12 @@
 ---
 uid: 20230505140611
 title: Obsidian 插件：Auto Card Link 将网页链接自动转化为卡片样式
-description: 
+description: Obsidian 插件自动将链接变成卡片样式
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230505145325
+modified: 20230511204512
 ---
 
 # Obsidian 插件：Auto Card Link 将网页链接自动转化为卡片样式
@@ -18,7 +18,7 @@ modified: 20230505145325
 > [!Note] 插件名片
 > - 插件名称：Auto Card Link
 > - 插件作者：Nekoshita Yuki
-> - 插件说明：根据你设定的规则动态高亮显示文本
+> - 插件说明：自动将链接变成卡片样式
 > - 插件项目地址：[点我跳转](https://github.com/nekoshita/obsidian-auto-card-link)
 
 ## 效果&特性

@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Easy Tpying
-description: 
+description: Obsidian 插件：Easy Tpying 自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230511211240
 ---
 
 # Obsidian 插件：Easy Tpying
@@ -108,21 +108,24 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 ![image.png](https://cdn.pkmer.cn/images/202305041002627.png!pkmer)
 
 比如默认的规则会把一些格式也自动格式化，就需要添加自定义规则进行排除。
+
 常见的规则有：
-- 对链接的内容不格式化，包括本地文件链接、网络连接、obsidian链接、zotero链接、ftp链接
+
+- 对链接的内容不格式化，包括本地文件链接、网络连接、obsidian 链接、zotero 链接、ftp 链接
    `(file:///|https?://|ftp://|obsidian://|zotero://|www.)[^\s（）《》。,，！？;；：“”‘’\)\(\[\]\{\}']+|++`
-- 对callout包裹的内容不格式化
+- 对 callout 包裹的内容不格式化
   `\[\!.*?\][-+]{0,1}|-+`
-- 对双尖括号包裹的内容不格式化，这样使用类似templater语法就不会错误的格式化
+- 对双尖括号包裹的内容不格式化，这样使用类似 templater 语法就不会错误的格式化
   `<.*?>|--`
-- 对时间格式不格式化，比如12:54
+- 对时间格式不格式化，比如 12:54
   `\d{2}:\d{1,2}|++`
-- 对tag标签的内容不格式化
+- 对 tag 标签的内容不格式化
   `#[\u4e00-\u9fa5\w\/]+|++`
 
 ## 功能延伸
 
 插件跟 Obsidian pangu ，linter 等编辑增强插件有许多功能相似之处，不同的地方在于
--  在 Easy Typing 开启状态下，格式规范是实时进行的。我们需要在输入法中输入拼音字母然后选定中文，在这个过程中如果没有选定词语就删除字母，会在原地留下一个空格。
--  Obsidian pangu和linter插件都是在内容输入完成后一键全文规范格式，需要手动操作。
--  Easy Typing 的自定义规则功能更强大，适合高级用户使用。
+
+- 在 Easy Typing 开启状态下，格式规范是实时进行的。我们需要在输入法中输入拼音字母然后选定中文，在这个过程中如果没有选定词语就删除字母，会在原地留下一个空格。
+- Obsidian pangu 和 linter 插件都是在内容输入完成后一键全文规范格式，需要手动操作。
+- Easy Typing 的自定义规则功能更强大，适合高级用户使用。

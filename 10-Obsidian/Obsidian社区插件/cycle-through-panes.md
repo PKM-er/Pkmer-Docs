@@ -1,20 +1,20 @@
 ---
 uid: 20230504110835
-title: cycle-through-panes
-description: 
+title: Obsidian 插件：Cycle through Panes 循环浏览你打开的 tab
+description: Obsidian 插件：Cycle through Panes 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样！
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230507125026
+modified: 20230511211150
 ---
 
-# cycle-through-panes
+# Obsidian 插件：Cycle through Panes 循环浏览你打开的 tab
 
 > [!Note] 插件名片
 > - 插件名称：Cycle through Panes
 > - 插件作者：Vinadon & phibr0
-> - 插件说明：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样！官方已经支持此功能
+> - 插件说明：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样！
 > - 插件分类：界面相关
 > - 插件项目地址：[点我访问](https://github.com/phibr0/cycle-through-panes)
 
