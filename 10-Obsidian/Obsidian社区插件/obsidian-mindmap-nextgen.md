@@ -1,12 +1,12 @@
 ---
 uid: 20230504195614
 title: obsidian-mindmap-nextgen
-description: 
+description: Obsidian Mindmap Nextgen 用于将笔记预览为 Markmap 思维导图
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230508163311
+modified: 20230511214741
 ---
 
 # obsidian-mindmap-nextgen
@@ -61,6 +61,7 @@ modified: 20230508163311
 
   ```yaml
   ---
+
 
 
 markmap:

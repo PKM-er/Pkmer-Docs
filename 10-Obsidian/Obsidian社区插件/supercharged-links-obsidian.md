@@ -1,12 +1,12 @@
 ---
 uid: 20230430235610
 title: supercharged-links-obsidian
-description: 
+description: Supercharged Links 可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504234029
+modified: 20230511215235
 ---
 
 # supercharged-links-obsidian

@@ -6,8 +6,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511205711
-
+modified: 20230511215328
 ---
 
 # Obsidian 插件：Convert url to preview (iframe) 将 URL 转化为嵌入的页面

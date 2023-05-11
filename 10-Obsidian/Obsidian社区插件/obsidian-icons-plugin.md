@@ -1,12 +1,12 @@
 ---
 uid: 20230429000437
-title: Obsidian插件：Obsidian Icons 提供插入图标符号的功能
-description: 
+title: Obsidian 插件：Obsidian Icons 提供插入图标符号的功能
+description: Obsidian 插件：Obsidian Icons 提供插入图标符号的功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230503222824
+modified: 20230511214513
 public: yes
 ---
 

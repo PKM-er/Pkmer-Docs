@@ -1,12 +1,12 @@
 ---
 uid: 20230504165924
 title: obsidian-markdown-formatting-assistant-plugin
-description: 
+description: Markdown Formatting Assistant 提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示 OB 常用和所有命令提高工作效率。
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504171354
+modified: 20230511214715
 ---
 
 # obsidian-markdown-formatting-assistant-plugin
@@ -35,9 +35,6 @@ modified: 20230504171354
  - `ALT+Q`  弹出常用 markdown 格式
  -  `ALT-C` 打开 Callout 快捷输入窗口
 
-## 已知bug
+## 已知 bug
 
-目前在Obsidian 1.1.16 和 Markdown assistant v0.4.1 输入`\`  无法弹出快捷菜单。
-
-
-
+目前在 Obsidian 1.1.16 和 Markdown assistant v0.4.1 输入 `\` 无法弹出快捷菜单。

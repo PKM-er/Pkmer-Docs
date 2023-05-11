@@ -1,12 +1,12 @@
 ---
 uid: 20230502011042
 title: Obsidian 插件：ProgressBar 快速在笔记中增加进度条
-description: 
+description: Obsidian 插件：ProgressBar 快速在笔记中增加进度条
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230502014522
+modified: 20230511215154
 created: 2023-03-10 09:48:22
 ---
 
@@ -107,4 +107,3 @@ max: 25
     name: 预计4级别背诵5000个单词
 ```
 ````
-

@@ -1,7 +1,7 @@
 ---
 uid: 20230509170900
 title: Obsidian 插件：List Callouts 为大纲列表增加强化样式
-description: 
+description: Obsidian 插件：List Callouts 为大纲列表增加强化样式
 author: 
 type: other
 draft: false

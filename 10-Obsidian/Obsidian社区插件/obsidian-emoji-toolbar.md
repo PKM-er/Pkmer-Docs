@@ -1,12 +1,12 @@
 ---
 uid: 20230428105320
 title: Obisdian 插件：Emoji Toolbar（快速插入 Emoji 符号）
-description: 
+description: Obisdian 插件：Emoji Toolbar（快速插入 Emoji 符号）
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230503222758
+modified: 20230511214244
 public: yes
 ---
 

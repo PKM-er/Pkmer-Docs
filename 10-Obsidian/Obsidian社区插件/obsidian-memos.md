@@ -1,12 +1,12 @@
 ---
 uid: 20230507013718
 title: Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
-description: 
+description: Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230507131345
+modified: 20230511214728
 ---
 
 # Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
