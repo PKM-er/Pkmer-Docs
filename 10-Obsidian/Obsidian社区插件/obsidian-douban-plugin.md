@@ -2,12 +2,12 @@
 uid: 20230329145808
 title: Obsidian 插件：Douban
 description: Obsidian 插件：Douban 给 Obsidian 增加和豆瓣信息同步的能力
-tags: 
+tags: Obsidian,插件,第三方集成,豆瓣,douban,数据联动
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511214115
+modified: 20230512120801
 public: yes
 ---
 

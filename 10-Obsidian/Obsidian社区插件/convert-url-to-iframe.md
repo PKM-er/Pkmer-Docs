@@ -2,11 +2,12 @@
 uid: 20230430005136
 title: Obsidian 插件：Convert url to preview (iframe) 将 URL 转化为嵌入的页面
 description: Obsidian 插件：Convert url to preview (iframe) 将任何 URL 转换为网页预览插入到笔记中
+tags: Obsidian,插件,链接,美化,卡片样式,嵌入播放
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511215328
+modified: 20230512114550
 ---
 
 # Obsidian 插件：Convert url to preview (iframe) 将 URL 转化为嵌入的页面

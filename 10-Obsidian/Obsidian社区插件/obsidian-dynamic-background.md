@@ -2,12 +2,12 @@
 uid: 20230329145808
 title: Dynamic Background 为 Obsidian 添加动态背景
 description: Obsidian 插件：Dynamic Background 为 Obsidian 添加动态背景
-tags: 
+tags: Obsidian,插件,动态背景,美化
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511214141
+modified: 20230512120816
 public: yes
 ---
 

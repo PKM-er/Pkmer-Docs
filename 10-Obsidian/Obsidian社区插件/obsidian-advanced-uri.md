@@ -2,12 +2,12 @@
 uid: 20230329145808
 title: obsidian-advanced-uri
 description: Obsidian URI 的功能增强
-tags: 
+tags: Obsidian,插件,uri,增强
 author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230511212215
+modified: 20230512120601
 ---
 
 # obsidian-advanced-uri

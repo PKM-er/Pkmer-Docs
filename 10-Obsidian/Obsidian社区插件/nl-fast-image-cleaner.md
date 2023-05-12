@@ -2,12 +2,12 @@
 uid: 20230329145808
 title: nl-fast-image-cleaner
 description: Obsidian 插件：快速删除笔记中图片和引用链接
-tags: 
+tags: Obsidian,插件,引用链接,无效链接
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511212018
+modified: 20230512120004
 ---
 
 # nl-fast-image-cleaner

@@ -2,11 +2,12 @@
 uid: 20230502083811
 title: Obsidian 插件：File Tree Alternative 强大的文件管理器
 description: Obsidian 插件：File Tree Alternative 强大的文件管理器
+tags: Obsidian,插件,文件管理器,排序,管理
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511211409
+modified: 20230512115019
 ---
 
 # Obsidian 插件：File Tree Alternative 强大的文件管理器

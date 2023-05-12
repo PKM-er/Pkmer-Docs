@@ -2,11 +2,12 @@
 uid: 20230504110835
 title: Obsidian 插件：Cycle through Panes 循环浏览你打开的 tab
 description: Obsidian 插件：Cycle through Panes 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样！
+tags: Obsidian,插件,标签页管理
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230511211150
+modified: 20230512114649
 ---
 
 # Obsidian 插件：Cycle through Panes 循环浏览你打开的 tab

@@ -2,11 +2,12 @@
 uid: 20230507014811
 title: Obsidian 插件：Better Word Count
 description: Obsidian 插件：Better Word Count
+tags: Obsidian,插件,统计
 author: bon
 type: other
 draft: false
 editable: false
-modified: 20230511205402
+modified: 20230512114434
 ---
 
 # Obsidian 插件：Better Word Count

@@ -2,11 +2,12 @@
 uid: 20230428235014
 title: Copy button for code blocks 给代码块添加一键复制按钮
 description: Obsidian 插件：Copy button for code blocks 给代码块添加一键复制按钮
+tags: Obsidian,插件,代码块,效率
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511205704
+modified: 20230512114535
 public: yes
 ---
 
