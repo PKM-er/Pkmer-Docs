@@ -1,18 +1,20 @@
 ---
 uid: 20230329145808
-title: obsidian-advanced-uri
+title: Advanced URI
 description: Obsidian URI 的功能增强
 tags: Obsidian,插件,uri,增强
 author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230512120601
+modified: 20230513000416
 ---
 
-# obsidian-advanced-uri
+# Advanced URI
 
-> [!note] Advanced URI
+增强 Obsidian 的 URI 能力
+
+> [!Note] 插件名片
 > 插件 ID：obsidian-advanced-uri
 > 插件作者：Vinzent
 > 插件描述：Obsidian URI 的功能增强
@@ -76,9 +78,7 @@ URI（Uniform Resource Identifier）翻译成中文就是统一资源标识符�
 
 Obsidian 自带了一些 URI，该插件的主要功能是增加一些 URI，让其能执行更多操作。理论上通过这个插件能执行任意操作，因为该 URI 允许执行 Obsidain 的命令，结合脚本插件能大大拓宽能做的范畴。
 
-![Obsidian_FDtSIsEZg0.gif](https://cdn.pkmer.cn/images/810b8780b49f7de3f2d83b7d79ef2a4e_MD5.gif!pkmer)
-
-如上图所示：我在 typora 中写好了一个打开 `table-test` 文件的 URI，在 typora，浏览器或者任意支持点击链接的地方都能定位到 Obsidian 的 `table-test` 文件。一个链接定位万物。
+如上图所示：在 typora 中写好了一个打开 `table-test` 文件的 URI，在 typora，浏览器或者任意支持点击链接的地方都能定位到 Obsidian 的 `table-test` 文件。一个链接定位万物。
 
 ## 用法
 
