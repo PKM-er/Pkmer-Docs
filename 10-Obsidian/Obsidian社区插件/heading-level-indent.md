@@ -2,11 +2,12 @@
 uid: 20230502002201
 title: Obsidian 插件：Heading Level Indent 为不同等级标题增加缩进
 description: Obsidian 插件：Heading Level Indent 为不同等级标题增加缩进
+tags: Obsidian,插件,缩进,美化
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511211517
+modified: 20230512115135
 ---
 
 # Obsidian 插件：Heading Level Indent 为不同等级标题增加缩进

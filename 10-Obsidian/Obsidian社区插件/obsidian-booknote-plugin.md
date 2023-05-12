@@ -1,12 +1,13 @@
 ---
 uid: 20230509104823
 title: Obsidian 插件：BookNote 让你在 Obsidian 中阅读标注 PDF
-description: 
-author: 
+description: Obsidian 插件：BookNote 让你在 Obsidian 中阅读标注 PDF
+tags: Obsidian,插件,pdf标注,阅读标注,读书笔记
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511213226
+modified: 20230512120732
 ---
 
 # Obsidian 插件：BookNote 让你在 Obsidian 中阅读标注 PDF

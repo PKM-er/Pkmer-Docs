@@ -2,12 +2,12 @@
 uid: 20230329145808
 title: Obsidian 插件：Obsidian Banners 为你的笔记添加头图
 description: Obsidian 插件：Obsidian Banners 为你的笔记添加头图
-tags: 
+tags: Obsidian,插件,banner,美化,头图
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511212405
+modified: 20230512120628
 public: yes
 ---
 

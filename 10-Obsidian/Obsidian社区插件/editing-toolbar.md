@@ -2,12 +2,12 @@
 uid: 20230329145808
 title: Obsidian 插件：Editing Toolbar 必装的可视化编辑工具
 description: Obsidian 插件：Editing Toolbar 必装的可视化编辑工具，增强可视化编辑体验。提供类似于 Word，在线办公软件 的浮动工具栏等交互方式。
-tags: 
+tags: Obsidian,插件,编辑器,美化,可视化,效率
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511211310
+modified: 20230512114810
 ---
 
 # Obsidian 插件：Editing Toolbar 必装的可视化编辑工具

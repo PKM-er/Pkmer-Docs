@@ -2,12 +2,12 @@
 uid: 20230329145808
 title: Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
 description: Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
-tags: 
+tags: Obsidian,插件,目录,笔记目录,悬浮目录
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511211502
+modified: 20230512115111
 ---
 
 # Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
