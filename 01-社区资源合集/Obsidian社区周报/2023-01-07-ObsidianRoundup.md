@@ -40,7 +40,7 @@ Obsidian 的默认安装程序更新到了 Electron v21 版本，这意味着你
 - 由 `@ptrsvltns` 开发的 [File Forgetting Curve](https://github.com/ptrsvltns/file-forgetting-curve-obsidian) 是一个间隔重复插件；
 - 由 `@maotong06` 开发的 [Paste As Html](https://github.com/maotong06/obsidian-paste-as-html-plugin) 让用户从浏览器中复制 HTML 时保留原样式以及内容地粘贴到 Obsidian；
 - 由 `@Boninall` 开发的 [Canvas Presentation](https://github.com/Quorafind/Obsidian-Canvas-Presentation) 允许你在 Canvas 中基于顺序来显示卡片；
-- 由 `@nguyenvanduocit` 开发的 [Open Gate](https://github.com/nguyenvanduocit/obisdian-open-gate) 让你可以在 Obsidian 中嵌入绝大部分网站；
+- 由 `@nguyenvanduocit` 开发的 [Open Gate](https://github.com/nguyenvanduocit/obsidian-open-gate) 让你可以在 Obsidian 中嵌入绝大部分网站；
 - 由 `@MatthewAlner` 开发的 [Toggle Case](https://github.com/MatthewAlner/obsidian-toggle-case) 让用户更容易操作文本，在 " 小写 "" 大写 " 和 " 标题大小写 " 之间进行切换，就像 [Text Format](https://github.com/Benature/obsidian-text-format) 插件那样；
 - 由 `@Canna71` 开发的 [Read Later](https://github.com/Canna71/obsidian-readlater) 使用户更容易将网页同步为 markdown，并与稍后读应用程序（Pocket, Instapaper）整合；
 - 由 `@Holmes555` 开发的 [Workona To Obsidian](https://github.com/Holmes555/workona-to-obsidian) 让用户通过生成的 JSON 文件导入 Workona 资源；

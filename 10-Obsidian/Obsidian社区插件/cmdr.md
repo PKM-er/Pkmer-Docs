@@ -1,7 +1,7 @@
 ---
 uid: 20230329145808
-title: Obisdian 插件：Commander 添加自定义功能按钮
-description: Obisdian 插件：Commander 给 Obsidian 的不同功能区增加自定义快捷按钮。
+title: Obsidian 插件：Commander 添加自定义功能按钮
+description: Obsidian 插件：Commander 给 Obsidian 的不同功能区增加自定义快捷按钮。
 tags: Obsidian,插件,命令,自定义
 author: OS
 type: other
@@ -10,7 +10,7 @@ editable: false
 modified: 20230512114503
 ---
 
-# Obisdian 插件：Commander 添加自定义功能按钮
+# Obsidian 插件：Commander 添加自定义功能按钮
 
 有些时候，常用命令太多，虽然也可以为它们设置快捷键，但是快捷键一多，就不太好记；再加上写东西的时候突然要腾出手来按各种组合键，很打断思路。
 
