@@ -1,17 +1,17 @@
 ---
 uid: 20230414151116
-title: Style settings 为你的主题添加更多自定能力
+title: Obsidian 插件：Style settings 为你的主题添加更多自定能力
 description: Style settings 为你的主题添加更多自定能力
 tags: 
 author: Cuman
 type: other
 draft: false
 editable: false
-modified: 20230511214925
+modified: 20230514022129
 public: yes
 ---
 
-# Style settings 为你的主题添加更多自定能力
+# Obsidian 插件：Style settings 为你的主题添加更多自定能力
 
 ## 概述
 

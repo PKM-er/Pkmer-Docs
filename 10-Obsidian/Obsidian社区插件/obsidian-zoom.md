@@ -1,15 +1,15 @@
 ---
 uid: 20230504172203
-title: obsidian-zoom
+title: Obsidian 插件：Zoom
 description: obsidian-zoom 通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230511215038
+modified: 20230514022206
 ---
 
-# obsidian-zoom
+# Obsidian 插件：Zoom
 
 > [!Note] 插件名片
 > - 插件名称：Zoom

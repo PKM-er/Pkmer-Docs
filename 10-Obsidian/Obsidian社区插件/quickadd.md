@@ -1,15 +1,15 @@
 ---
 uid: 20230508001129
-title: QuickAdd
+title: Obsidian 插件：QuickAdd
 description: 
 author: windilycloud 
 type: basic
 draft: false
 editable: false
-modified: 20230513124759
+modified: 20230514022226
 ---
 
-# QuickAdd
+# Obsidian 插件：QuickAdd
 
 > [!Note] 插件名片
 > - 插件名称：QuickAdd
