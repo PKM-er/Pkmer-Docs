@@ -6,7 +6,7 @@ author: Pkmer
 type: other
 draft: false
 editable: false
-modified: 20230426185551
+modified: 20230512174513
 ---
 
 # Obsidian 常见问题解答
@@ -26,6 +26,7 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 ### 如何收起文件列表/左侧侧边栏/左侧面板
 
 方法 1：点击 [[文件列表]] 左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png!pkmer)
+
 方法 2：Ctrl + P，输入”折叠/收起左侧边栏”
 
 ### 重启 Obsidian 的方法
@@ -50,19 +51,23 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 - 希望所有仓库之间，高度统一
 
 设置 -> 关于 -> 切换配置文件夹 中
+
 设置对应的文件夹。
 
 ![Pasted image 20230128113423](https://cdn.pkmer.cn/images/4f8264f25e0f7ed4fdd4db023aaf6065_MD5.png!pkmer)
 
 ### Ribbon 区域图标如何调整
 
-方法1：设置 > 外观> Ribbon menu > 点击 Manage 按钮。1.0.0之后支持
-方法2：鼠标左键点击后进行拖拽操作排序
-方法3：
+方法 1：设置 > 外观> Ribbon menu > 点击 Manage 按钮。1.0.0 之后支持
+
+方法 2：鼠标左键点击后进行拖拽操作排序
+
+方法 3：
 
 ### Obsidian 能否最小到托盘
 
 Obsidian 能否像其他软件一样，常驻在系统托盘
+
 使用插件，请参考：[[obsidian-tray]]
 
 ## 显示
@@ -119,17 +124,15 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 使用插件可达成此效果，请参考：[[cm-typewriter-scroll-obsidian]]
 
-
 ## 编辑
 
 ### Obsidian 能否记忆我每篇笔记编辑或者阅读到的位置
 
 有时候我们进行笔记编辑，或者阅读笔记时候，希望下次可以继续当前这个位置，下次打开时候能自动跳转到对应位置，继续阅读或者编辑工作。而不是默认每次都从头开始。
 
-插件法：可以使用  [[remember-cursor-position]]
+插件法：可以使用 [[remember-cursor-position]]
 
 ### 代码域（代码块）如何复制
-
 
 - 实时阅览下复制代码域（代码块）中的内容
 
