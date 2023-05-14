@@ -6,7 +6,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514102151
+modified: 20230514142241
 ---
 
 # Obsidian 插件：Text Wrapper 给选中文本加上 HTML 标签
@@ -23,7 +23,7 @@ modified: 20230514102151
 
 ## 效果&特性
 
-- 选中文本后能通过快捷键来快速添加 HTML 标签，例如`<div></div>` 或者一些很少见的 `<dt></dt>`
+- 选中文本后能通过快捷键来快速添加 HTML 标签，例如 `<div></div>` 或者一些很少见的 `<dt></dt>`
 
 ## 使用
 

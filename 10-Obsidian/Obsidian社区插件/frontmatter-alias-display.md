@@ -1,15 +1,15 @@
 ---
 uid: 20230513222807
-title: Obsidian 插件：Frontmatter Alias Display 让你在文件名下直接看到别名
+title: Obsidian 插件：Frontmatter Alias Display 让你的笔记名下直接看到别名
 description: Obsidian 插件：Frontmatter Alias Display 让你在文件名下直接看到别名
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514085201
+modified: 20230514131831
 ---
 
-# Obsidian 插件：Frontmatter Alias Display 让你在文件名下直接看到别名
+# Obsidian 插件：Frontmatter Alias Display 让你的笔记名下直接看到别名
 
 ## 概述
 
@@ -22,6 +22,8 @@ modified: 20230514085201
 > - 插件项目地址：[点我跳转](https://github.com/muhammadv-i/obsidian-frontmatter-alias-display)
 
 ## 效果&特性
+
+![image.png](https://cdn.pkmer.cn/images/20230514131806.png!pkmer)
 
 ## 使用
 

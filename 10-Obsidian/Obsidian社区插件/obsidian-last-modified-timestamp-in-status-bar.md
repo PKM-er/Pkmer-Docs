@@ -6,7 +6,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230513223745
+modified: 20230514132859
 ---
 
 # Obsidian 插件：Last Modified Timestamp In Status Bar 在状态栏可视化你的最后编辑时间
@@ -23,6 +23,8 @@ modified: 20230513223745
 
 ## 效果&特性
 
+![image.png](https://cdn.pkmer.cn/images/20230514132514.png!pkmer)
+
 ## 使用
 
 - 在你启用该插件后，会自动在你的状态栏中插入时间戳，上边如无意外就是你最后编辑的时间；
@@ -34,3 +36,11 @@ modified: 20230513223745
 ```
 最终编辑于： 2022年02月02日 02时02分02秒
 ```
+
+### 可定制
+
+- Timestamp format：创建时间和最后修改时间的时间戳格式
+- Timestamp title：状态栏中的时间戳标题，用于创建时间和最后修改时间
+- Update Interval：最后修改时间的刷新间隔时间
+
+![image.png](https://cdn.pkmer.cn/images/20230514132747.png!pkmer)

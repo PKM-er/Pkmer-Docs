@@ -6,7 +6,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514092436
+modified: 20230514142129
 ---
 
 # Obsidian 插件：Search Obsidian In Google 让你在谷歌搜索中搜索 Obsidian 中的笔记
@@ -23,7 +23,7 @@ modified: 20230514092436
 
 ## 效果&特性
 
-- 支持在搜索结果中展示 Obsidian 中的笔记摘抄；
+- 支持在搜索结果中展示 Obsidian 中的笔记内容；
 - 模糊匹配；
 - 自动排序；
 - 点击后在 Obsidian 中打开；
@@ -41,3 +41,8 @@ modified: 20230514092436
 > [!tip]
 > - 点击任意标题后会请求你允许以后默认都打开，记得允许~
 > - 这个插件不需要 `Local REST API` 插件配合；
+
+> [!Tip] 推荐
+> - 如果你对这个插件感兴趣，不妨看看如下内容
+> - [[search-on-internet]] ，可以搜索并自定义搜索引擎
+> - [[obsidian-custom-frames]]，将第三方 web 引用直接集成到 Obsidian
