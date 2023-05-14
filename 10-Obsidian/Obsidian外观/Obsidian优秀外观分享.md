@@ -6,7 +6,7 @@ author: Obsidian社区
 type: awesome
 draft: false
 editable: true
-modified: 20230410154850
+modified: 20230513173345
 ---
 
 # Obsidian 优秀外观分享
@@ -14,6 +14,7 @@ modified: 20230410154850
 以下外观截图均来自 Obsidian 的 Discord 社区：
 
 ![image_1680574185597.png](https://cdn.pkmer.cn/images/6eb3526db7d64cf73b48df4e6380363d_MD5.png!pkmer)
+
 ![image.png](https://cdn.pkmer.cn/images/fce093fdcd8bcba1e161dbbc89041d58_MD5.png!pkmer)
 
 ![Screen_Shot_2023-01-08_at_10.42.53_PM.png](https://cdn.pkmer.cn/images/7fb5e934e8378798515283b67c6afbcd_MD5.png!pkmer)
@@ -47,3 +48,7 @@ modified: 20230410154850
 ![Pasted image 20221222131607.png](https://cdn.pkmer.cn/images/1dbdc37311b1413c76a40c5f6490f381_MD5.png!pkmer)
 
 ![Pasted image 20221222131114.png](https://cdn.pkmer.cn/images/109e0eea124d28f4ba10e6fbbe450e1d_MD5.png!pkmer)
+
+![微信图片_20230513173252.jpg](https://cdn.pkmer.cn/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230513173252.jpg!pkmer)
+
+来自群友：绛芸

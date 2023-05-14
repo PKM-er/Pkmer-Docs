@@ -7,7 +7,7 @@ author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230512120613
+modified: 20230513171955
 ---
 
 # obsidian-advanced-uri- 青年与禅师的技术尬聊
@@ -276,17 +276,17 @@ obsidian://advanced-uri?vault=testNote&filepath=emoji&block=20230419
 
 禅师：搜索关键词：Advanced URI，即可显示 obsidian-advanced-uri 插件自带的一些命令：
 
-![Pasted image 20230420123946](Resource/Images/7198bbfef3528682c32d45d8fee4ab3e_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230513171905.png!pkmer)
 
 青年：我看到了第一条命令：“copy URI for command”，是否就可以一键得到 URI？
 
 禅师：点击第一条命令“copy URI for command”，会弹出第二面板，输入框提示“Select a file to be opened before executing the command”，在执行命令前选择一个文档，这也就对应 Advanced-URI 中的参数 filepath 的值。我们选择 emoji 文档。
 
-![Pasted image 20230420124637](Resource/Images/40e1aaa975bd6ade3e1f7637c8866a40_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230513171940.png!pkmer)
 
 然后弹出第三个面板，这个面板就是我们使用 Ctrl+P 调出的命令面板，在命令面板中输入“导出为 PDF”，点击搜索出的命令。
 
-![Pasted image 20230420124810](Resource/Images/b48d875ecbb26b6c827938d262f1df7e_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230513171953.png!pkmer)
 
 这时会有一个弹出框提醒 URI 已经复制进剪切板了：Advanced URI copied to your clipboard，接下来我们使用这个 URI，粘贴在文档中的内容如下：
 
@@ -334,7 +334,8 @@ uid: 1111
 
 大师在阿苏的电脑上一顿操作猛如虎，最后在 obsidian-advanced-uri 插件的设置选项里发现了问题的根源，原来 obsidian-advanced-uri 插件默认在 frontmatter 里将 uid 设置为 id，并且打开“Use UID instead of file paths”。
 
-![Pasted image 20230420155119](Resource/Images/bdc88305e7d1bdd212beed52e6e1da3b_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/20230513172017.png!pkmer)
+
 
 阿苏将 frontmatter 里的 uid 改为 id，链接就可以成功跳转了。
 
