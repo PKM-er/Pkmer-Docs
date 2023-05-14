@@ -1,40 +1,50 @@
 ---
 uid: 20230508145808
-title: Obsidian 插件：Tasks-calendar-wrapper（ 任务的时间线及日历视图）
-description: 
-tags: task
+title: Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图
+description: Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图
+tags: Obsidian,插件,Tasks-calendar-wrapper,任务,时间线,任务日历
 author: Simen_Chen
 type: other
 draft: no
 editable: false
-modified: 20230514225758
+modified: 20230514232926
 public: yes
 ---
 
-# Obsidian 插件：Tasks-calendar-wrapper（ 任务的时间线及日历视图）
+# Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图
 
 ## 概述
 
-基于 [Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar)) 和 [Obsidian-Tasks-Timeline ]([https://github.com/702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline)) 进行打包和二次开发的插件，提供了设置页面和更新支持，插件选项的详细信息，请参阅以上两个项目。
+很多时候我们希望通过 Obsidian 管理自己的待办，并且希望能够通过时间和月历多种维度，来管理追踪任务的进度。虽然 [[dataview]] 可以很好解决这样的问题，但是我们每个人对于编程和学习复杂的语法能力不同。
 
-> [!插件名片]
+那么有没有一个插件，能够让我们快速基于笔记中的任务，生成美观好看，动态的任务跟踪效果呢？Tasks-calendar-wrapper 就是基于此目的，提供给很多初学者，快速实现多种美观的任务管理样式。该插件基于 [Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) 和 [Obsidian-Tasks-Timeline ]([https://github.com/702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline)) 进行打包和二次开发的插件，提供了设置页面和更新支持，插件选项的详细信息，请参阅以上两个项目。
+
+> [!Note] 插件名片
 > - 插件名称：Tasks calendar wrapper
 > - 插件作者：Leonezz
-> - 插件说明：ob 任务的时间线及日历视图。
+> - 插件说明：Obsidian 任务的时间线及日历视图。
 > - 插件项目地址：[点我跳转](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper)
 
 > [!Warning]
-> 20230514
-> 1、当前插件对任务的热重载，还未解决，开发者正在解决，目前是在 inbox.md 或日记文件夹中，输入文字，会刷新任务列表
-> 2、obsidian 开发者面板，此插件还有一些不影响使用的报错。
+> 2023.05.14
+> 1、当前插件对任务的热重载还未解决，开发者正在解决，目前是在 inbox.md 或日记文件夹中，输入文字，会刷新任务列表
+> 2、Obsidian 开发者面板，此插件还有一些不影响使用的报错。
 
 ## 效果&特性
 
-- 该插件为 github 开发者 [702573N](https://github.com/702573N) 开发的 [Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) 和 [Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) 提供了设置页面和更新支持；
+### 任务时间线效果
+
+![image.png](https://cdn.pkmer.cn/images/20230514232452.png!pkmer)
+
+### 任务日历效果
+
+![image.png](https://cdn.pkmer.cn/images/20230514232511.png!pkmer)
+
+- 该插件为 Github 开发者 [702573N](https://github.com/702573N) 开发的 [Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) 和 [Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) 提供了设置页面和更新支持；
 - 点击任务列表，可打开对应文件，快速跳转。
 - 能够按照任务状态，对当天的任务计数，以及基于时间段和优先级对任务进行筛选，按任务类型与紧急程度进行展示；
 - 该插件能够在自定义单文件，快捷输入任务，支持配置不同文件，并且在侧边插件面板中，快速切换，进行任务的输入；
-- 能够与 obsidian 日记功能，配合使用；
+- 能够与 Obsidian 日记功能，配合使用；
 
 ## 安装
 
@@ -43,17 +53,17 @@ public: yes
 3. 安装
 4. 开启插件
 
-## 用法
+## 使用
 
-`Ctrl`+`P` 或者点击按钮，呼出命令面板，输入或找到“Tasks Calendar Wrapper: Open Tasks Timeline View”，选择命令，obsidian 库中任务的 timeline 视图，将显示在界面右侧窗口。
+`Ctrl`+`P` 或者点击按钮，呼出命令面板，输入或找到“Tasks Calendar Wrapper: Open Tasks Timeline View”，选择命令，Obsidian 库中任务的 timeline 视图，将显示在界面右侧窗口。
 
-![[Pasted image 20230514205016.png]]
+![Pasted image 20230514205016](https://cdn.pkmer.cn/images/Pasted%20image%2020230514205016.png!pkmer)
 
 ## 插件的设置
 
 obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 
-![[Pasted image 20230514205149.png]]
+![Pasted image 20230514205149](https://cdn.pkmer.cn/images/Pasted%20image%2020230514205149.png!pkmer)
 
 ## UI 设置
 
@@ -61,7 +71,7 @@ obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 
 是否在 “today（今天）”面板上，使用基于任务完成状态的计数器和过滤器。点击以下三个按钮，可基于任务状态，进行任务的过滤。
 
-![[Pasted image 20230509134126.png]]
+![Pasted image 20230509134126](https://cdn.pkmer.cn/images/Pasted%20image%2020230509134126.png!pkmer)
 
 注意事项
 
@@ -71,7 +81,7 @@ obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 
 是否使用快速输入面板。
 
-![[Pasted image 20230514212156.png]]
+![Pasted image 20230514212156](https://cdn.pkmer.cn/images/Pasted%20image%2020230514212156.png!pkmer)
 
 用法：
 
@@ -83,11 +93,11 @@ obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 
 在插件设置面板，添加快速输入的目标任务文件路径。
 
-![[Pasted image 20230509134606.png]]
+![Pasted image 20230509134606](https://cdn.pkmer.cn/images/Pasted%20image%2020230509134606.png!pkmer)
 
 将显示在快速面板，下拉菜单：
 
-![[Pasted image 20230509134257.png]]
+![Pasted image 20230509134257](https://cdn.pkmer.cn/images/Pasted%20image%2020230509134257.png!pkmer)
 
 用法举例：
 
@@ -98,19 +108,19 @@ obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 
 将文件设置为 `Inbox.md`，用于快速输入面板中的任务项。可自定义文件，此文件选项，将在快速输入面板的下拉文件列表中，显示为首位。
 
-![[Pasted image 20230508222325.png]]
+![Pasted image 20230508222325](https://cdn.pkmer.cn/images/Pasted%20image%2020230508222325.png!pkmer)
 
 ### 新键任务的存放位置
 
 指定新任务项，在记录任务文件中，存放的对应标题层级： `## Tasks`
 
-![[Pasted image 20230514213304.png]]
+![Pasted image 20230514213304](https://cdn.pkmer.cn/images/Pasted%20image%2020230514213304.png!pkmer)
 
 ### 日记文件夹
 
 指定保存日记的文件夹。读取符合预设时间格式命名的日记文件，自动加载当天日记文件，到快捷输入面板。如果没有创建当天日记文件，会提示按照本插件设置的文件名命名格式，创建。
 
-![[Pasted image 20230514215824.png]]
+![Pasted image 20230514215824](https://cdn.pkmer.cn/images/Pasted%20image%2020230514215824.png!pkmer)
 
 用法举例
 
@@ -140,7 +150,7 @@ obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 
 勾选 `Today Focus On Load`，设置启动时，默认聚焦今日任务。点击 `Today`，也可锁定当天任务列表界面，进行聚焦。不点击，顶部会列出之前所有的任务，可在插件设置中
 
-![[Pasted image 20230509141022.png]]
+![Pasted image 20230509141022](https://cdn.pkmer.cn/images/Pasted%20image%2020230509141022.png!pkmer)
 
 ### 加载今日任务时，激活筛选器
 
@@ -152,7 +162,7 @@ obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 
 是否使用相对日期来描述任务日期，例如：明天 00:00
 
-![[Pasted image 20230514222815.png]]
+![Pasted image 20230514222815](https://cdn.pkmer.cn/images/Pasted%20image%2020230514222815.png!pkmer)
 
 ### 使用循环
 
@@ -166,13 +176,13 @@ obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 
 是否显示任务的标签。可使用调色板，为标签自定义颜色!
 
-![[Pasted image 20230514221849.png]]
+![Pasted image 20230514221849](https://cdn.pkmer.cn/images/Pasted%20image%2020230514221849.png!pkmer)
 
 ### 隐藏标签
 
 指定哪些标签，不需要与标签一起显示，请注意，默认情况下，所有标签文本都将从显示的项目文本中隐藏，还要注意的是标签只是隐藏，而不是从文本中移除。
 
-![[Pasted image 20230514221936.png]]
+![Pasted image 20230514221936](https://cdn.pkmer.cn/images/Pasted%20image%2020230514221936.png!pkmer)
 
 ### 使用文件名
 
@@ -188,7 +198,7 @@ obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 
 指定面板中，任务展示列表的日期使用的格式，请注意，格式应该是 moment 格式，更多细节，请参阅 [doc of moment.js](https://momentjs.com/docs/#/displaying/format/)。如：`yyy,MMM, D`
 
-![[Pasted image 20230514222744.png]]
+![Pasted image 20230514222744](https://cdn.pkmer.cn/images/Pasted%20image%2020230514222744.png!pkmer)
 
 ### 排序方式（待后续完善教程）
 
