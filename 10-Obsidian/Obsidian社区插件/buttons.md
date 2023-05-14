@@ -1,16 +1,16 @@
 ---
 uid: 20230514144947
-title: # Obsidian 插件：Buttons 按钮插件
+title: Obsidian 插件：Buttons
 description: 
 tags: obsidian,自动化,效率
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230514173321
+modified: 20230515000356
 ---
 
-# # Obsidian 插件：Buttons
+# Obsidian 插件：Buttons
 
 按钮插件是 Obsidian 中为数不多的自定义程度比较强的插件了，通过 Buttons 插件可以把系统和插件内置的命令可视化展示，类似建立快捷方式一样，可以迅速执行你设置好的命令。
 
