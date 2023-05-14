@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: obsidian-advanced-uri- 青年与禅师的技术尬聊
+title: Obsidian 插件：Advanced URI 青年与禅师的技术尬聊
 description: obsidian-advanced-uri- 青年与禅师的技术尬聊
 tags: Obsidian,插件,uri,增强
 author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230513171955
+modified: 20230514113209
 ---
 
-# obsidian-advanced-uri- 青年与禅师的技术尬聊
+# Obsidian 插件：Advanced URI 青年与禅师的技术尬聊
 
 青年：大师，不得了了，看我发现了什么！
 
@@ -335,7 +335,6 @@ uid: 1111
 大师在阿苏的电脑上一顿操作猛如虎，最后在 obsidian-advanced-uri 插件的设置选项里发现了问题的根源，原来 obsidian-advanced-uri 插件默认在 frontmatter 里将 uid 设置为 id，并且打开“Use UID instead of file paths”。
 
 ![image.png](https://cdn.pkmer.cn/images/20230513172017.png!pkmer)
-
 
 阿苏将 frontmatter 里的 uid 改为 id，链接就可以成功跳转了。
 

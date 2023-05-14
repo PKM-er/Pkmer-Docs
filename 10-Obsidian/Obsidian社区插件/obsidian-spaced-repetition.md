@@ -1,17 +1,17 @@
 ---
 uid: 20230410232448
-title: Spaced Repetition
+title: Obsidian 插件：Spaced Repetition
 description: Spaced Repetition
 tags: 
 author: Boninall
 type: basic
 draft: false
 editable: false
-modified: 20230511214905
+modified: 20230514022125
 public: yes
 ---
 
-# Spaced Repetition
+# Obsidian 插件：Spaced Repetition
 
 ## 简介
 
