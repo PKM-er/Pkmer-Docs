@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511215115
+modified: 20230514120133
 public: yes
 ---
 
@@ -52,6 +52,9 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 功能增强
 
 - [[calendar]]：添加一个简单的日历视图，用于可视化日记和在不同日记间跳转。
+- [[Tray]]：增强桌面端功能
+- [[frontmatter-alias-display]]：让你在文件名下直接看到别名
+- [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 
 ### 编辑增强
 
@@ -91,6 +94,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
 - [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
+- [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 
 ### 链接类
 
@@ -120,6 +124,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
 - [[QuickAdd]]
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
+- [[obsidian-auto-template-prompt]]：在创建文件时自动打开一个命令窗口让你插入模板。
+- [[file-order]]：允许你快速给文件夹的文件加上数字编号
+- [[obs-text-wrapper]]：给选中文本加上 HTML 标签
+- [[obsidian-wrap-with-shortcuts]]：给选中文本加上自定义前后缀标签
 
 ### 图标类
 
@@ -140,6 +148,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-hider]]：自定义隐藏界面元素、信息
 - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
 - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
+- [[custom-state-for-task-list]]：优化你的任务样式
+- [[optimize-canvas-connections]]：优化 Canvas 中的连接线
 
 ### 文件管理类
 
@@ -164,6 +174,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
  - [[simple-embeds]]：把 Twitter 和 YouTube 网页链接嵌入当前笔记中预览
  - [[mx-bili-plugin]]
  - [[media-extended]]
+ - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
 
 ## AI 相关
 
