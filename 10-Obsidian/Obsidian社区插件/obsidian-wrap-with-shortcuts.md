@@ -6,7 +6,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514105752
+modified: 20230514133500
 ---
 
 # Obsidian 插件：Wrap With Shortcuts 给选中文本加上前后标签
@@ -26,6 +26,8 @@ modified: 20230514105752
 - 选中文本后能通过快捷键来快速添加前后标签，例如 `<div></div>` ，但是你也可以给它加上不同的前后标签，例如 `[time::` 在前，`]` 在后，这样就可以快速使用 Dataview 进行索引啦~
 
 ## 使用
+
+![image.png](https://cdn.pkmer.cn/images/20230514133326.png!pkmer)
 
 - 开启后需要到设置页，给自己加上对应的前后缀的内容（点击加号以后会让你填入名称、前缀、后缀）；
 - 设置好后，可以到快捷键页面中给对应的 TagName 加上快捷键（注意，你必须要重开一次 Obsidian 或者重开一次插件才能让它在快捷键中出现）；

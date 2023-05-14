@@ -6,7 +6,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514115209
+modified: 20230514132110
 ---
 
 # Obsidian 插件：Global Search And Replace 给 Obsidian 全库进行文本替换
@@ -22,6 +22,8 @@ Obsidian 的默认替换插件只限于单个文本中进行操作，如果你�
 > - 插件项目地址：[点我跳转](https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace)
 
 ## 效果&特性
+
+![image.png](https://cdn.pkmer.cn/images/20230514132110.png!pkmer)
 
 - 可以查找全库的对应文本，然后替换对应的文本
 
