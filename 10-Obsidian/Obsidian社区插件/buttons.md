@@ -1,7 +1,7 @@
 ---
 uid: 20230514144947
 title: Obsidian 插件：Buttons
-description: 
+description: Obsidian 插件：Buttons 用快捷方式管理命令的最佳方式
 tags: obsidian,自动化,效率
 author: cuman
 type: other

@@ -1,13 +1,13 @@
 ---
 uid: 20230507013346
 title: Obsidian 插件：Templater
-description: 
+description: Obsidian 插件：Templater, Obsidian的效率神器
 tags: obsidian插件,模板,自动化
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230514235337
+modified: 20230515000915
 ---
 
 # Obsidian 插件：Templater

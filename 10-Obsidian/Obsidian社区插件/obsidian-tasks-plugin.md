@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Tasks
-description: Obsidian 插件：Tasks
+description: Obsidian 插件：Tasks,任务管理必备插件
 tags: Obsidain插件,任务,事务管理
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230514180703
+modified: 20230515001049
 public: yes
 ---
 
