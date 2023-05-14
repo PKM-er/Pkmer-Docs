@@ -2,12 +2,12 @@
 uid: 20230507013346
 title: Obsidian 插件：Templater
 description: 
-tags: obsidian插件，模板, 自动化
+tags: obsidian插件,模板,自动化
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230514173313
+modified: 20230514235337
 ---
 
 # Obsidian 插件：Templater
