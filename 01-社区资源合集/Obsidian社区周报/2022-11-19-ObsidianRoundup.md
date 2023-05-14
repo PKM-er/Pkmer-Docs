@@ -27,7 +27,7 @@ modified: 20230401230259
 **也不是所有的插件都会立马上架插件市场，因为它们需要先经过代码审核。你可以使用 [Beta Reviewer's Auto-update Tool](https://github.com/TfTHacker/obsidian42-brat) 来手动下载那些还没上架的插件。当然这也意味着他们还不够稳定和安全，因为它们还没被代码审核过。**（译注：有些时候存在重复的条目的原因是因为对应的作者因为某些原因重开了 PR，导致会重复出现在更新内容中。）
 
 - 来自 `@Boninall` 的 [Obsidian Daily Notes Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor) 让你可以在同一个页面中实时编辑多个日记，你可以参考 Roam Research 的默认的每日笔记视图。尽管我没有在用 Daily Note，但我认为已经有不少人等了这个功能很久，真高兴见到它的出现。
-- 来自 `@luckman212` 的 [Split Pane View Helper](https://github.com/luckman212/obsidian-split-pane-view) 让用户通过热键或工具条快速新建打开当前页面的源码或预览视图。
+- 来自 `@luckman212` 的 [Split Pane View Helper](https://github.com/luckman212/obsidian-split-pane-view) 让用户通过快捷键或工具条快速新建打开当前页面的源码或预览视图。
 - 来自 `@dvargas92495` 的 [SlamePage]( <https://github.com/samepage-network/obsidian-samepag> 是一个 inter-TFT-protocol 的客户端。
 - 来自 `@bingryan` [Obsidian markdown export]( <https://github.com/bingryan/obsidian-markdown-export-plugin> 是一款 markdown export 插件。
 - 来自 `@twibiral` 的 [obsidian-doom](https://github.com/twibiral/ObsiDOOM) 可以让你在 Obsidian 应用程序中玩著名的 FPS 游戏 DOOM。你还可以玩《波斯王子》、《真人快打》、《GTA》、《模拟城市》和《极品飞车》。我很惊讶这么久才有人做这个 😂。
@@ -50,7 +50,7 @@ modified: 20230401230259
 - [Divide & Conquer](https://github.com/chrisgrieser/obsidian-divide-and-conquer/releases/tag/1.0.0) 在 1.0 版本有了一个新的维护者；你现在在插件和主题界面中有了新的 UI 按钮来方便你快速找到问题插件。
 - [Full Calendar 0.8.0](https://github.com/davish/obsidian-full-calendar/releases/tag/0.8.0) 增加了任务事件；你可以在事件中添加复选框，并在日历中勾选完成，它将在 front matter 更新完成的时间。
 - [Colorful Tag 1.2.2](https://github.com/rien7/obsidian-colorful-tag/releases/tag/1.2.2) 支持嵌套标签，隐藏 hashtags 和标签名称。
-- [Omnisearch 1.8.0](https://github.com/scambier/obsidian-omnisearch/releases/tag/1.8.0) 增加 URI 来方便你调用，以及增加了图像的 OCR。
+- [Omnisearch 1.8.0](https://github.com/scambier/obsidian-omnisearch/releases/tag/1.8.0) 增加 URI 来方便你调用，以及增加了图片的 OCR。
 
 # 功能请求
 

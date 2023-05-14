@@ -6,13 +6,13 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20230414110933
+modified: 20230504142212
 ---
 
 # Markdown 基础
 
 > [!warning]
-> 本文只包含 markdown 基础语法，并不包含笔记软件特定语法，这样区分以便读者选择通用语法使用，以便后续迁移笔记软件。
+> 本文只包含 Markdown 基础语法，并不包含笔记软件特定语法，这样区分以便读者选择通用语法使用，以便后续迁移笔记软件。
 
 ## 什么是 Markdown?
 
@@ -45,7 +45,7 @@ I really like using Markdown.
 I think I'll use it to format all of my documents from now on.
 ```
 
-> [!tips] 首行缩进
+> [!Tip] 首行缩进
 > 首行缩进两个字符有个历史原因，由于以前打印纸张很贵，首行缩进两个字符可以清晰的分段。而现在通过空一行的方式，是一种更优雅的分段方式。而 Markdown 就采取的这种方式。参考 [为什么网上的文章越来越少采用首行缩进了？](https://www.zhihu.com/question/539160773)
 
 段落换行：几乎每个 Markdown 应用程序都支持两个或多个空格进行换行，称为  `结尾空格（trailing whitespace)`  的方式，但这是有争议的，因为很难在编辑器中直接看到空格，并且很多人在每个句子后面都会有意或无意地添加两个空格。由于这个原因，你可能要使用除结尾空格以外的其它方式来换行。幸运的是，几乎每个 Markdown 应用程序都支持另一种换行方式：HTML 的  `<br>`  标签。
@@ -342,7 +342,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 ### 添加图片
 
-要添加图像，请使用感叹号 ( `!` ), 然后在方括号增加替代文本，图片链接放在圆括号里，括号里的链接后可以增加一个可选的图片标题文本。
+要添加图片，请使用感叹号 ( `!` ), 然后在方括号增加替代文本，图片链接放在圆括号里，括号里的链接后可以增加一个可选的图片标题文本。
 
 插入图片 Markdown 语法代码：`![图片alt](图片链接 "图片title")`。
 
@@ -354,7 +354,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 渲染效果如下：
 
-![图片示例](https://s1.vika.cn/space/2023/03/15/36d51f521b7a49c8b27168fb31c037c7)
+![图片示例](https://cdn.pkmer.cn/images/49f8d5f75e3369aad7fbf1f99e39c35a_MD5.png!pkmer)
 
 ### 链接图片
 
@@ -366,7 +366,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 渲染效果如下：
 
-![Pasted image 20230121213911](https://s1.vika.cn/space/2023/03/15/8cbf769746694fe29abf66e4c15c232d)
+![Pasted image 20230121213911](https://cdn.pkmer.cn/images/76db8488e36ad5d1449f9a28f4ef3c22_MD5.png!pkmer)
 
 ### iframe 方式嵌入图片
 
@@ -375,12 +375,8 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 示例:
 
 ```html
-<iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
+<iframe src="https://www.bilibili.com/video/BV1QY4y147VR"></iframe>
 ```
-
-效果:
-
-<iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
 
 基本语法:
 
@@ -516,11 +512,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 呈现的输出如下所示：
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
+Here's a simple footnote,[^1] and here's a longer one.[^2]
 
 ## 实体字符
 
@@ -541,3 +533,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 | 商标&trade;    | `&trade;`    |
 | 空格           | `&nbsp;`     |
 | 中文全角空格   | `&amp`       |
+
+[^1]: This is the first footnote.
+
+[^2]: Here's one with multiple paragraphs and code.

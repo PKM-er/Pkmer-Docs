@@ -6,7 +6,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230413204043
+modified: 20230511205029
 ---
 
 # Obsidian 核心插件
@@ -17,8 +17,8 @@ modified: 20230413204043
 
 这些插件又被官方分为了两大类：
 
-- [[#核心插件]]
-- [[#社区插件]]
+- [[Obsidian#核心插件]]
+- [[Obsidian#社区插件]]
 
 ## 核心插件
 

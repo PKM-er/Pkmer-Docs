@@ -6,7 +6,7 @@ author: Pkmer
 type: other
 draft: true
 editable: false
-modified: 20230401230257
+modified: 20230503155056
 ---
 
 # README
@@ -26,6 +26,16 @@ Pkmer，即 `PKM` 和 `er` 的结合，寓意 Personal Knowledge Management 个�
 1. 提出意见：可以在 Github 的 [Issue](https://github.com/PKM-er/Pkmer-Docs/issues) 里，提出对文档的改进意见，未来的发展方向等内容
 2. 参与讨论：可以在 Github 的 [Disccuss](https://github.com/PKM-er/Pkmer-Docs/discussions)，可以直接发表您的看法
 3. 编写文档：通过 [Pull Request](https://github.com/PKM-er/Pkmer-Docs/pulls) 的方式，完善该库的内容。包括但不限于写教程，分享心得，软件使用技巧，工作流分享等。参见 [文档协作流程](00-关于/协作者指南/协作者指南.md)
+
+## 贡献者
+
+感谢所有的贡献者！
+
+![contributors](https://contrib.rocks/image?repo=PKM-er/Pkmer-Docs)
+
+特别鸣谢：
+
+- [Ryooo](https://www.zhihu.com/people/rao-yao-47-68)
 
 ## 开源协议
 

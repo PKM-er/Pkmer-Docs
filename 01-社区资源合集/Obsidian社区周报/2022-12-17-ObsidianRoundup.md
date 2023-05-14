@@ -82,10 +82,10 @@ share:
 - `@maotong06` 开发的 [Paste As Html](https://github.com/maotong06/obsidian-paste-as-html-plugin) 可以让用户将 HTML 内容复制粘贴，且保持原来的 css 风格；
 - `@ecustic` 开发的 [文件颜色](https://github.com/ecustic/obsidian-file-color) 让你更容易设置文件树中的文件夹和文件颜色；
 - `@Boninall` 开发的 [Canvas Presentation](https://github.com/Quorafind/Obsidian-Canvas-Presentation) 让你可以在 Canvas 中按顺序展示卡片以及卡片组；
-- `@nguyenvanduocit` 开发的 [Open Gate](https://github.com/nguyenvanduocit/obisdian-open-gate) 使得你更方便地嵌入 iframe 不可以嵌入的网站，类似 Custom Frames 插件；
+- `@nguyenvanduocit` 开发的 [Open Gate](https://github.com/nguyenvanduocit/obsidian-open-gate) 使得你更方便地嵌入 iframe 不可以嵌入的网站，类似 Custom Frames 插件；
 - `@janschlatter` 开发的 [Historical Query](https://github.com/janschlatter/ndb-obsidian) 使搜索和插入来自 deutsche-Biographie.de 的传记数据更加容易；
 - `@MatthewAlner` 开发的 [Toggle Case](https://github.com/MatthewAlner/obsidian-toggle-case) 使你更容易切换大小写，类似于 [Text Format](https://github.com/Benature/obsidian-text-format)；
-- `@microtower00` 开发的 [AI 图像](https://github.com/microtower00/obsidian-ai-images) 使用 OpenAI API 密钥，允许你在 Obsidian 界面中使用 AI 图像的生成；
+- `@microtower00` 开发的 [AI 图像](https://github.com/microtower00/obsidian-ai-images) 使用 OpenAI API 密钥，允许你在 Obsidian 界面中使用 AI 图片的生成；
 - `@Canna71` 开发的 [Read Later](https://github.com/Canna71/obsidian-readlater) 通过从 Readlater 之类的稍后读服务中获取书签并将其存储为 markdown 笔记，使得同步网页到 markdown ，并与 Pocket 和 Instapaper 等稍后读应用程序整合变得更加简单；
 - `@sandorex` 开发的 [Set In Obsidian](https://github.com/sandorex/set-in-obsidian-plugin) 帮助你进行时间规划。
 

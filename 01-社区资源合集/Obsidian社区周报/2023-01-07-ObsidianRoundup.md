@@ -40,7 +40,7 @@ Obsidian 的默认安装程序更新到了 Electron v21 版本，这意味着你
 - 由 `@ptrsvltns` 开发的 [File Forgetting Curve](https://github.com/ptrsvltns/file-forgetting-curve-obsidian) 是一个间隔重复插件；
 - 由 `@maotong06` 开发的 [Paste As Html](https://github.com/maotong06/obsidian-paste-as-html-plugin) 让用户从浏览器中复制 HTML 时保留原样式以及内容地粘贴到 Obsidian；
 - 由 `@Boninall` 开发的 [Canvas Presentation](https://github.com/Quorafind/Obsidian-Canvas-Presentation) 允许你在 Canvas 中基于顺序来显示卡片；
-- 由 `@nguyenvanduocit` 开发的 [Open Gate](https://github.com/nguyenvanduocit/obisdian-open-gate) 让你可以在 Obsidian 中嵌入绝大部分网站；
+- 由 `@nguyenvanduocit` 开发的 [Open Gate](https://github.com/nguyenvanduocit/obsidian-open-gate) 让你可以在 Obsidian 中嵌入绝大部分网站；
 - 由 `@MatthewAlner` 开发的 [Toggle Case](https://github.com/MatthewAlner/obsidian-toggle-case) 让用户更容易操作文本，在 " 小写 "" 大写 " 和 " 标题大小写 " 之间进行切换，就像 [Text Format](https://github.com/Benature/obsidian-text-format) 插件那样；
 - 由 `@Canna71` 开发的 [Read Later](https://github.com/Canna71/obsidian-readlater) 使用户更容易将网页同步为 markdown，并与稍后读应用程序（Pocket, Instapaper）整合；
 - 由 `@Holmes555` 开发的 [Workona To Obsidian](https://github.com/Holmes555/workona-to-obsidian) 让用户通过生成的 JSON 文件导入 Workona 资源；
@@ -48,7 +48,7 @@ Obsidian 的默认安装程序更新到了 Electron v21 版本，这意味着你
 - 由 `@adriandersen` 开发的 [FuzzyTag](https://github.com/adriandersen/obsidian-fuzzytag) 让用户在 Frontmatter 中输入标签时模糊匹配；
 - 由 `@joleaf` 开发的 [DMN 插件](https://github.com/joleaf/obsidian-dmn-plugin) 可以使用 dmn-js 查看 DMNs；
 - 由 `@Fevol` 开发的 [Translate](https://github.com/Fevol/obsidian-translate) 使用户使用 Google Translate、DeepL、Azure 等翻译文本和笔记更容易；
-- 由 `@scambier` 开发的 [Text Extractor](https://github.com/scambier/obsidian-text-extractor) 有助于用户从图像（OCR）和 PDF 中提取文本；它本身并不带有特殊的功能，更多是为了方便 [Omnisearch](https://github.com/scambier/obsidian-omnisearch/releases/tag/1.10.0-beta.1) 或其他插件调用；
+- 由 `@scambier` 开发的 [Text Extractor](https://github.com/scambier/obsidian-text-extractor) 有助于用户从图片（OCR）和 PDF 中提取文本；它本身并不带有特殊的功能，更多是为了方便 [Omnisearch](https://github.com/scambier/obsidian-omnisearch/releases/tag/1.10.0-beta.1) 或其他插件调用；
 - 由 `@alangrainger` 开发的 [Google Photos](https://github.com/alangrainger/obsidian-google-photos) 是一个用于 Obsidian 的 Google Photos 集成插件；
 - 由 `@nqthqn` 开发的 [Wordy](https://github.com/nqthqn/obsidian-wordy) 让用户可以使用 Datamuse API 的词库、词典等；
 - 由 `@KrazyManJ` 开发的 [Keyshots](https://github.com/KrazyManJ/obsidian-keyshots) 增强了 Obsidian 的快捷键体验，支持了流行的 IDE 如 Visual Studio Code 或 JetBrains Family 的常见快捷键命令（组）；
