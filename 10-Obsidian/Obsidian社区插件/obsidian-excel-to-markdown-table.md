@@ -21,7 +21,7 @@ modified: 20230514022001
 
 可以把 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
 
-xcel to Markdown Table 是一个 Obsidian 第三方插件，用于将 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 中的数据，粘贴为 Obsidian 编辑器中的 Markdown 表格。
+Excel to Markdown Table 是一个 Obsidian 第三方插件，用于将 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 中的数据，粘贴为 Obsidian 编辑器中的 Markdown 表格。
 
 ![153448883-7ff1b12a-aaca-4eb5-b1e3-4bc227481d04.gif](https://cdn.pkmer.cn/images/202305040931252.gif!pkmer)
 

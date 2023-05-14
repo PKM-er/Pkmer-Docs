@@ -3,12 +3,11 @@ uid: 20230513220542
 title: obsidian-auto-template-prompt
 description: Obsidian 插件：Auto Template Prompt 自动插入模板
 tags: Obsidian,插件,template,模板,效率
-description: 
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230513221302
+modified: 20230514190946
 ---
 
 # obsidian-auto-template-prompt
@@ -26,7 +25,6 @@ Obsidian 默认情况下你自动创建的文件或者从文件浏览器中创�
 ## 效果&特性
 
 ![image.png](https://cdn.pkmer.cn/images/20230514132021.png!pkmer)
-
 
 ## 使用
 
