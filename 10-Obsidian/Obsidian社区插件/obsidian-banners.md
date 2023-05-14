@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230512120628
+modified: 20230514125206
 public: yes
 ---
 
@@ -26,7 +26,13 @@ public: yes
 
 ## 效果
 
-![banners](Resource/Images/327fce9e5662b114dfdb022a4937b8b9_MD5.gif)
+![image.png](https://cdn.pkmer.cn/images/20230514124921.png!pkmer)
+
+- 可以将剪贴板中的图片变为你笔记中的头图
+- 可以使用外部图片链接做为你笔记的头图
+- 支持增加 icon 做为笔记的头图的装饰
+- 提供建议的样式设定，改变头图样式，淡出或明显风格
+- 支持鼠标拖拽的方式调整调整头图聚焦的展示位置
 
 ## 使用
 
@@ -39,7 +45,7 @@ public: yes
 
 以上方法插件会自动帮你写入 YAML 语法到你笔记的 Frontmatter 区域。
 
-### 设置
+### 参数简易讲解
 
 这个插件使用 YAML 语法，在笔记的 Frontmatter/元数据 区域来存储关于头图的信息。
 
@@ -67,8 +73,11 @@ banner_icon: string
 ### 样式
 
 - **height**：头图高度，指定每个头图图片应该有多高。
-- **style**：更改头图在笔记中的外观。目前有 2 个选项： - Solid：简单、轮廓清晰的头图图像。 - Gradient：一个渐变为透明的头图。
-    ![Pasted image 20230310121511](Resource/Images/eed105d4b9e597fbb2c044729d2ccae6_MD5.png)
+- **style**：更改头图在笔记中的外观。目前有 2 个选项：
+	- Solid：简单、轮廓清晰的头图图像
+	- Gradient：一个渐变为透明的头图
+
+![image.png](https://cdn.pkmer.cn/images/20230514124507.png!pkmer)
 
 - Frontmatter：如果已设置，可使用自定义的 Frontmatter 字段用于头图设置。例如，默认值 banner 将使用字段 banner_x、banner_y ，他们决定头图聚焦的具体位置。
 - 头图拖动：拖动头图的位置，也会自动修改头图的坐标值（banner_x、banner_y ）。拖动头图需要按住 Shift 拖动，才能移动它。这有助于避免意外的头图移动。
@@ -77,12 +86,14 @@ banner_icon: string
     - **Vertical alignment**：垂直对齐，将 icon 相对于头图的底部边缘垂直对齐。如果设置为“自定义”，也可以输入相对于头图下边缘中心的自定义偏移（如果有）。输入可以是任何有效的 CSS 长度值。
     - **Use Twemoji**：如果设置了，它将使用 Twemoji（Twitter 的表情符号集），而不是您设备上的常用表情符号。默认情况下，此选项处于启用状态，因为使用此选项可以更好地支持表情符号。
 
-    > [!WARNING]
+> [!Warning] 注意
+> - 此选项会导致一个问题，参见 [[为什么 Obsidian 的头图 或者 banners 插件显示异常]]
 
-    > 此选项会导致一个问题，参见 [[为什么 Obsidian 的头图 或者 banners 插件显示异常]]
+![image.png](https://cdn.pkmer.cn/images/20230514124651.png!pkmer)
 
 ### 高级样式
 
 - **Show banner in internal embed**:：选择头图是否应显示在文件的内联内部嵌入中。
 - **Preview internal banner height**：如果启用“在内部嵌入中显示头图”，此设置将确定嵌入中横幅图片的高度。
-    ![Pasted image 20230310122215](Resource/Images/9a6192ee7983f75c5fa2711da0a6e1ef_MD5.png)
+
+![image.png](https://cdn.pkmer.cn/images/20230514124741.png!pkmer)
