@@ -2,11 +2,12 @@
 uid: 20230504232329
 title: 表格（Table）样式
 description: 
+tags: css
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230507005205
+modified: 20230514144232
 ---
 
 # 表格（Table）样式
