@@ -17,15 +17,15 @@
       "tag-key": true,
       "default-array-style": "single-line",
       "default-array-keys": true,
-      "force-single-line-array-style": "",
+      "force-single-line-array-style": "tags",
       "force-multi-line-array-style": ""
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "uid:\ntitle:\nkeywords: \ndescription:\nauthor: \ntype: other\ndraft: false\neditable: false\nmodified:  "
+      "text-to-insert": "uid:\ntitle:\ntags: \ndescription:\nauthor: \ntype: other\ndraft: false\neditable: false\nmodified:  "
     },
     "move-tags-to-yaml": {
-      "enabled": false,
+      "enabled": true,
       "how-to-handle-existing-tags": "Nothing",
       "tags-to-ignore": ""
     },
@@ -35,7 +35,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "uid\ntitle\nkeywords\ndescription\ntags\nauthor\ntype\ndraft\neditable\nmodified",
+      "yaml-key-priority-sort-order": "uid\ntitle\ntags\nkeywords\ndescription\ntags\nauthor\ntype\ndraft\neditable\nmodified",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "None"
     },
@@ -216,6 +216,15 @@
     },
     "remove-multiple-blank-lines-on-paste": {
       "enabled": true
+    },
+    "blockquote-style": {
+      "enabled": false,
+      "style": "space"
+    },
+    "remove-space-before-or-after-characters": {
+      "enabled": false,
+      "characters-to-remove-space-before": ",!?;:).’”]",
+      "characters-to-remove-space-after": "¿¡‘“(["
     }
   },
   "lintOnSave": true,

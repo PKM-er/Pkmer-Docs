@@ -4554,8 +4554,10 @@ function resetCursorBlink() {
   if (import_obsidian.Platform.isMobile)
     return;
   const cursorLayer = document.getElementsByClassName("cm-cursorLayer")[0];
-  const curAnim = cursorLayer.style.animationName;
-  cursorLayer.style.animationName = curAnim === "cm-blink" ? "cm-blink2" : "cm-blink";
+  if (cursorLayer) {
+    const curAnim = cursorLayer.style.animationName;
+    cursorLayer.style.animationName = curAnim === "cm-blink" ? "cm-blink2" : "cm-blink";
+  }
 }
 function isWithinEquation(view) {
   const s = view instanceof import_view4.EditorView ? view.state : view;
@@ -5462,6 +5464,7 @@ function conceal(view) {
           ...concealModifier(eqn, "overline", "\u0304"),
           ...concealModifier(eqn, "bar", "\u0304"),
           ...concealModifier(eqn, "tilde", "\u0303"),
+          ...concealModifier(eqn, "vec", "\u20D7"),
           ...concealSymbols(eqn, "\\\\", "", brackets, "cm-bracket"),
           ...concealAtoZ(eqn, "\\\\mathcal{", "}", mathscrcal),
           ...concealModifiedGreekLetters(eqn, greek),
@@ -7679,6 +7682,7 @@ var debouncedSetSnippetsFromFileOrFolder = (0, import_obsidian5.debounce)((plugi
 var DEFAULT_SETTINGS = {
   snippets: DEFAULT_SNIPPETS,
   snippetsEnabled: true,
+  snippetsTrigger: "Tab",
   removeSnippetWhitespace: true,
   loadSnippetsFromFile: false,
   snippetsFileLocation: "",
@@ -7802,6 +7806,10 @@ var LatexSuiteSettingTab = class extends import_obsidian6.PluginSettingTab {
     const loadSnippetsFromFile = this.plugin.settings.loadSnippetsFromFile;
     snippetsSetting.settingEl.toggleClass("hidden", loadSnippetsFromFile);
     this.snippetsFileLocEl.toggleClass("hidden", !loadSnippetsFromFile);
+    new import_obsidian6.Setting(containerEl).setName("Key trigger for non-auto snippets").setDesc("What key to press to expand non-auto snippets.").addDropdown((dropdown) => dropdown.addOption("Tab", "Tab").addOption(" ", "Space").setValue(this.plugin.settings.snippetsTrigger).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.snippetsTrigger = value;
+      yield this.plugin.saveSettings();
+    })));
     containerEl.createEl("div", { text: "Conceal" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
     const fragment = document.createDocumentFragment();
     const line1 = document.createElement("div");
@@ -8314,7 +8322,7 @@ var runSnippetCursor = (view, key, withinMath, range, plugin) => {
       if (!(key.length === 1))
         continue;
       effectiveLine += key;
-    } else if (!(key === "Tab")) {
+    } else if (!(key === plugin.settings.snippetsTrigger)) {
       continue;
     }
     if (snippet.trigger in EXCLUSIONS) {
