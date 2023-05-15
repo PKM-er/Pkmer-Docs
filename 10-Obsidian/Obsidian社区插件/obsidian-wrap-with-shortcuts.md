@@ -1,12 +1,13 @@
 ---
 uid: 20230513222807
 title: Obsidian 插件：Wrap With Shortcuts 给选中文本加上前后标签
+tags: 
 description: Obsidian 插件：Wrap With Shortcuts 给选中文本加上前后标签
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514133500
+modified: 20230515233928
 ---
 
 # Obsidian 插件：Wrap With Shortcuts 给选中文本加上前后标签

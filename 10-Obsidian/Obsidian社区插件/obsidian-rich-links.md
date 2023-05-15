@@ -1,13 +1,13 @@
 ---
 uid: 20230428102045
 title: Obsidian 插件：Rich-links（为链接增加美化样式）
-tags: 
+tags: []
 description: Obsidian 插件：Rich-links（为链接增加美化样式）
 author: 
 type: other
 draft: false
 editable: false
-modified: 20230515231132
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Rich-links（为链接增加美化样式）

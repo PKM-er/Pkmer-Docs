@@ -1,13 +1,13 @@
 ---
 uid: 20230503114425
 title: Obsidian 插件 Latex suite
-tags: 
+tags: []
 description: Latex suite 通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 author: 
 type: other
 draft: false
 editable: false
-modified: 20230515231132
+modified: 20230515233929
 ---
 
 # Obsidian 插件 Latex suite

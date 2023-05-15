@@ -1,13 +1,13 @@
 ---
 uid: 20230428142959
 title: Obsidian 插件：Table of content 为你的笔记创建笔记目录
-tags: 
+tags: []
 description: Obsidian 插件：Table of content 为你的笔记创建笔记目录
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231132
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Table of content 为你的笔记创建笔记目录

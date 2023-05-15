@@ -1,13 +1,13 @@
 ---
 uid: 20230427170309
 title: Obsidian 初见
-tags: 
+tags: []
 description: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231135
+modified: 20230515233932
 ---
 
 # Obsidian 初见

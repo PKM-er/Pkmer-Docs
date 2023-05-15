@@ -1,14 +1,13 @@
 ---
 uid: 20230508145808
 title: Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图
+tags: [Obsidian, 插件, Tasks-calendar-wrapper, 任务, 时间线, 任务日历]
 description: Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图
-tags: Obsidian,插件,Tasks-calendar-wrapper,任务,时间线,任务日历
 author: Simen_Chen
 type: other
 draft: false
 editable: false
-modified: 20230515000612
-public: yes
+modified: 20230515233928
 ---
 
 # Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图

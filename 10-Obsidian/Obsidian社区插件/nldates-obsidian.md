@@ -1,13 +1,13 @@
 ---
 uid: 20230428232851
 title: Obsidian 插件：Natural Language Dates 使用自然语言来插入日期
-tags: Obsidian,插件,日期,编辑,效率
+tags: [Obsidian, 插件, 日期, 编辑, 效率]
 description: Obsidian 插件：Natural Language Dates 使用自然语言来插入日期
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231217
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Natural Language Dates 使用自然语言来插入日期
@@ -47,7 +47,7 @@ modified: 20230515231217
 | ----------------------------------- | ------------------------------------ | -------- |
 | 是否开启（Enable date autosuggest） | 全局开关，用于启用或禁用自动建议     | 默认开启 |
 | 触发符号（Trigger phrase）          | 触发自动建议所需的字符               | @        |
-| 是否插入链接（Insert as link?）     | 将日期插入为 Wiki 链接（即 [[<date>]]） | Yes      |
+| 是否插入链接（Insert as link?）     | 将日期插入为 Wiki 链接（即 `[[<date>]]`） | Yes      |
 
 ### 格式
 

@@ -1,13 +1,13 @@
 ---
 uid: 20230505140611
 title: Obsidian 插件：Auto Card Link 将网页链接自动转化为卡片样式
-tags: Obsidian,插件,链接,美化,卡片样式
+tags: [Obsidian, 插件, 链接, 美化, 卡片样式]
 description: Obsidian 插件自动将链接变成卡片样式
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231134
+modified: 20230515233931
 ---
 
 # Obsidian 插件：Auto Card Link 将网页链接自动转化为卡片样式

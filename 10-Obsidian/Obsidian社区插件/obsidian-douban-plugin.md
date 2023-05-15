@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Douban
-tags: Obsidian,插件,第三方集成,豆瓣,douban,数据联动
+tags: [Obsidian, 插件, 第三方集成, 豆瓣, douban, 数据联动]
 description: Obsidian 插件：Douban 给 Obsidian 增加和豆瓣信息同步的能力
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231216
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Douban
@@ -45,6 +45,3 @@ modified: 20230515231216
 - Custom Variables/支持自定义参数
 - Broadcast/广播
 
-## 使用方法
-
-参考 [[Obsidian 如何快速豆瓣读书、电影信息]]

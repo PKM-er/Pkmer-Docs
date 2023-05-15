@@ -1,13 +1,13 @@
 ---
 uid: 20230513221420
 title: Obsidian 插件：Custom State For Task List 优化你的任务样式
-tags: 
+tags: []
 description: Obsidian 插件：Custom State For Task List 优化你的任务样式
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230515231131
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Custom State For Task List 优化你的任务样式

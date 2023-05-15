@@ -1,12 +1,13 @@
 ---
 uid: 20230513222807
 title: Obsidian 插件：Last Modified Timestamp In Status Bar 在状态栏可视化你的最后编辑时间
+tags: 
 description: Obsidian 插件：Last Modified Timestamp In Status Bar 在状态栏可视化你的最后编辑时间
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514132859
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Last Modified Timestamp In Status Bar 在状态栏可视化你的最后编辑时间

@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 社区插件的安装
-tags: 
+tags: []
 description: Obsidian 社区插件的安装，社区插件安装教程，第三方插件安装方法
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231215
+modified: 20230515233351
 ---
 
 # Obsidian 社区插件的安装
@@ -51,14 +51,14 @@ modified: 20230515231215
 
 第一次启动插件，需要重启 Obsdiain。重启后，在第三方插件中就能看到更多信息。
 
-![[Pasted image 20230127224149.png]]
+![image.png](https://cdn.pkmer.cn/images/20230515233240.png!pkmer)
 
-上图左箭头代表刷新插件文件夹，这样以后就不用重启 OB 也能刷新插件。
+上图刷新图标代表刷新插件文件夹，这样以后就不用重启 OB 也能刷新插件。
 
-上图右箭头可以直接打开插件文件夹放置位置。
+上图文件夹图标可以直接打开插件文件夹放置位置。
 
 最后一步，我们还要点击插件右边的开关按钮，启动插件。这样插件就能正常运行了。
 
 ## 通过 BRAT 插件维护
 
-通过 [[Obsidian 插件：Obsidian42-BRAT（安装测试版插件）]]
+通过 [[obsidian42-brat]] 第三方插件进行维护，可以安装官方市场未上架的插件

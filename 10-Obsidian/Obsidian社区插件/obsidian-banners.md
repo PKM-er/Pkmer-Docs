@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Obsidian Banners 为你的笔记添加头图
-tags: Obsidian,插件,banner,美化,头图
+tags: [Obsidian, 插件, banner, 美化, 头图]
 description: Obsidian 插件：Obsidian Banners 为你的笔记添加头图
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231216
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Obsidian Banners 为你的笔记添加头图
@@ -86,7 +86,7 @@ banner_icon: string
     - **Use Twemoji**：如果设置了，它将使用 Twemoji（Twitter 的表情符号集），而不是您设备上的常用表情符号。默认情况下，此选项处于启用状态，因为使用此选项可以更好地支持表情符号。
 
 > [!Warning] 注意
-> - 此选项会导致一个问题，参见 [[为什么 Obsidian 的头图 或者 banners 插件显示异常]]
+> - 此选项会导致一个问题，Obsidian 的头图 或者 banners 插件显示异常
 
 ![image.png](https://cdn.pkmer.cn/images/20230514124651.png!pkmer)
 

@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
-tags: 
+tags: []
 description: Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231216
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊

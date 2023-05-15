@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230515231216
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Obsidian Mindmap Nextgen
@@ -62,6 +62,7 @@ modified: 20230515231216
 
   ```yaml
   ---
+
 
 
 

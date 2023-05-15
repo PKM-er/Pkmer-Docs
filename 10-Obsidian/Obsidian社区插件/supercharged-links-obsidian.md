@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230515231132
+modified: 20230515233928
 ---
 
 # Obsidian 插件：Supercharged Links

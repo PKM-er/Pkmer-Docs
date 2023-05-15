@@ -1,13 +1,13 @@
 ---
 uid: 20230429173235
 title: Obsidian 插件：Obsidian Tabs 为 Obsidian 增加标签页功能
-tags: 
+tags: []
 description: Obsidian Tabs 为 Obsidian 增加标签页功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231132
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Obsidian Tabs 为 Obsidian 增加标签页功能

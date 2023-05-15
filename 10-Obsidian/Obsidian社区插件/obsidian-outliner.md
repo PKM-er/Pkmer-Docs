@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Outliner plugin
-tags: 
+tags: []
 description: Obsidian 插件：Outliner plugin  Obsidian 的大纲添加快捷操作
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231216
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Outliner plugin

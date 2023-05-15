@@ -1,13 +1,13 @@
 ---
 uid: 20230413180208
 title: Obsidian
-tags: 
+tags: []
 description: 
 author: 
 type: awesome
 draft: false
 editable: false
-modified: 20230515231135
+modified: 20230515233932
 ---
 
 # Obsidian

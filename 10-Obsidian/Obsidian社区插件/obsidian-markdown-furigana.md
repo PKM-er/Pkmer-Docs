@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidain 插件：Markdown Furigana（日文学习如何增加假名）
-tags: 
+tags: []
 description: Obsidain 插件：Markdown Furigana（日文学习如何增加假名）
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231216
+modified: 20230515233929
 ---
 
 # Obsidain 插件：Markdown Furigana（日文学习如何增加假名）

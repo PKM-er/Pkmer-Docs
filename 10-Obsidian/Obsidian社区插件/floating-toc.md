@@ -1,20 +1,20 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
-tags: Obsidian,插件,目录,笔记目录,悬浮目录
+tags: [Obsidian, 插件, 目录, 笔记目录, 悬浮目录]
 description: Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231134
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
 
 ## 概述
 
-Floating Toc 插件能实现悬浮目录。悬浮目录的效果近似你在其他网页文字处理协同上见到的效果，一般会悬浮在网页左侧，。简单来说就是在侧边存在能根据正文中标题文字自动生成的大纲。之前，我也介绍过另一款 TOC 插件：[[Dynamic Toc（TOC插件）]]。
+Floating Toc 插件能实现悬浮目录。悬浮目录的效果近似你在其他网页文字处理协同上见到的效果，一般会悬浮在网页左侧，。简单来说就是在侧边存在能根据正文中标题文字自动生成的大纲。之前，我也介绍过另一款 TOC 插件：[[obsidian-dynamic-toc]]。
 
 > [!Note] 插件名片
 > - 插件名称：Floating TOC

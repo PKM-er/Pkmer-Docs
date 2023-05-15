@@ -1,13 +1,13 @@
 ---
 uid: 20230506165010
 title: Obsidian 插件：Paste URL into selection 快速给文字添加链接
-tags: 
+tags: []
 description: Obsidian 插件：Paste URL into selection 快速给文字添加链接
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231131
+modified: 20230515233928
 ---
 
 # Obsidian 插件：Paste URL into selection 快速给文字添加链接

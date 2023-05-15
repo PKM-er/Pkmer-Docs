@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
-tags: Obsidian,插件,多列编辑,分栏
+tags: [Obsidian, 插件, 多列编辑, 分栏]
 description: Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231217
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
@@ -82,4 +82,4 @@ modified: 20230515231217
 
 > [!提醒]
 
-> 这个方法，会引入一个插件，如果你担心插件的稳定性或是希望更加清爽，那么可以参考别的方法 [[Obsidian 能像其他笔记样分栏嘛]]
+> 这个方法，会引入一个插件，如果你担心插件的稳定性或是希望更加清爽，那么可以参考别的方法

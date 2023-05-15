@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Quiet Outline 强化大纲展示管理
-tags: 
+tags: []
 description: Obsidian 插件：Quiet Outline 强化大纲展示管理
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231216
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Quiet Outline 强化大纲展示管理

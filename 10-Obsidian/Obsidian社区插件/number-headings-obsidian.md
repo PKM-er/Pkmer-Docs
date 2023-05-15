@@ -7,12 +7,10 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231217
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Number Headings
-
-#标题 #排序 #Headings
 
 功能：支持给各级正文标题自动编号，【1.1、1.2、······11.1.1、1.1.2】 以此类推
 
@@ -50,7 +48,7 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 ### 设置选项
 
 - Skip top heading level：是否跳过最高级标题，默认关闭。
-    - 我自己的设置中跳过第一级（#），具体原因可以参见 [[文档的写作规范#标题]]
+    - 我自己的设置中跳过第一级（#），具体原因可以参见 [[文档写作规范#标题]]
 - First heading level：设定编号从第 X 级标题等级开始
     - 对应上面的选项，我自己设置的 1。默认为 1
 - Start numbering at：编号从什么位置计数

@@ -1,12 +1,13 @@
 ---
 uid: 20230513222807
 title: Obsidian 插件：Text Wrapper 给选中文本加上 HTML 标签
+tags: 
 description: Obsidian 插件：Text Wrapper 给选中文本加上 HTML 标签
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514142241
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Text Wrapper 给选中文本加上 HTML 标签

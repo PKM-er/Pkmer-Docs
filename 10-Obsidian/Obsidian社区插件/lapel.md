@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Lapel 为你显示标题等级
-tags: Obsidian,插件,标题,快捷操作
+tags: [Obsidian, 插件, 标题, 快捷操作]
 description: Obsidian 插件：Lapel 为你显示标题等级
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231133
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Lapel 为你显示标题等级
@@ -44,7 +44,3 @@ modified: 20230515231133
   --heading-marker: "☰";
 }
 ```
-
-## 扩展阅读
-
-[[Obsidian 如何在编辑中显示行号]]

@@ -1,12 +1,13 @@
 ---
 uid: 20230513222807
 title: Obsidian 插件：Frontmatter Alias Display 让你的笔记名下直接看到别名
+tags: 
 description: Obsidian 插件：Frontmatter Alias Display 让你在文件名下直接看到别名
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514131831
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Frontmatter Alias Display 让你的笔记名下直接看到别名

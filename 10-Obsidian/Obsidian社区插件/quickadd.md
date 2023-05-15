@@ -1,13 +1,13 @@
 ---
 uid: 20230508001129
 title: Obsidian 插件：QuickAdd
-tags: 
+tags: []
 description: 
 author: windilycloud 
 type: basic
 draft: false
 editable: false
-modified: 20230515231132
+modified: 20230515233928
 ---
 
 # Obsidian 插件：QuickAdd

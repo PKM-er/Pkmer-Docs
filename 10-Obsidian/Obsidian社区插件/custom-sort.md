@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Custom File Explorer sorting 自定义文件夹和文件排序
-tags: Obsidian,插件,文件排序,文件夹管理
+tags: [Obsidian, 插件, 文件排序, 文件夹管理]
 description: Obsidian 插件：Custom File Explorer sorting 自定义文件夹和文件排序
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231134
+modified: 20230515233648
 ---
 
 # Obsidian 插件：Custom File Explorer sorting 自定义文件夹和文件排序
@@ -32,7 +32,7 @@ modified: 20230515231134
 
 ### 准备
 
-1. 进入社区插件市场，如果不会开启社区插件市场，请参考：[[Obsidian 社区插件]]
+1. 进入社区插件市场，如果不会开启社区插件市场，请参考：[[Obsidian社区插件]]
 2. 搜索 Custom File Explorer sorting，下载，并启动
 
 ### 配置
@@ -46,7 +46,7 @@ modified: 20230515231134
 
 ### 使用
 
-如果你了解 [[YAML]] ,那么下面的内容对你比较容易。
+如果你了解 YAML ,那么下面的内容对你比较容易。
 
 不了解也没关系，我们会尽量简单讲下配置方法。
 
@@ -76,7 +76,7 @@ modified: 20230515231134
         - 00- 小白...
 
 > [! Note]
-> target-folder 和你目标文件目录的名字，前面的 [[缩进]] 需要使用空格。
+> target-folder 和你目标文件目录的名字，前面的缩进] 需要使用空格。
 
 ### Ribbon icon 提示
 

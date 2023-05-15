@@ -1,13 +1,13 @@
 ---
 uid: 20230513220542
 title: obsidian-auto-template-prompt
+tags: [Obsidian, 插件, template, 模板, 效率]
 description: Obsidian 插件：Auto Template Prompt 自动插入模板
-tags: Obsidian,插件,template,模板,效率
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514190946
+modified: 20230515233930
 ---
 
 # obsidian-auto-template-prompt
