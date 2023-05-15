@@ -1,12 +1,13 @@
 ---
 uid: 20230504152108
 title: Obsidian 插件：Custom Frames 集成更多网页应用到笔记中
+tags: 
 description: Obsidian 插件：Custom Frames 集成更多网页应用到笔记中
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511214057
+modified: 20230515231133
 ---
 
 # Obsidian 插件：Custom Frames 集成更多网页应用到笔记中

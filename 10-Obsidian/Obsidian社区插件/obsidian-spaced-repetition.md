@@ -1,14 +1,13 @@
 ---
 uid: 20230410232448
 title: Obsidian 插件：Spaced Repetition
+tags: [flashcards]
 description: Spaced Repetition
-tags: 
 author: Boninall
 type: basic
 draft: false
 editable: false
-modified: 20230514022125
-public: yes
+modified: 20230515231216
 ---
 
 # Obsidian 插件：Spaced Repetition

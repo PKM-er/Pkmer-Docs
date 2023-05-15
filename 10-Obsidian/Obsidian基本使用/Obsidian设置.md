@@ -1,14 +1,13 @@
 ---
 uid: 20230329145856
 title: Obsidian 设置
-description: 
 tags: 
+description: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230414210153
-public: yes
+modified: 20230515231218
 ---
 
 # Obsidian 设置

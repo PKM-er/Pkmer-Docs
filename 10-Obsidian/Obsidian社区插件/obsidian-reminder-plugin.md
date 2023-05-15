@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Reminder（为待办任务增加提醒）
-description: Obsidian 插件：Reminder（为待办任务增加提醒）
 tags: 
+description: Obsidian 插件：Reminder（为待办任务增加提醒）
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511214825
-public: yes
+modified: 20230515231216
 ---
 
 # Obsidian 插件：Reminder（为待办任务增加提醒）

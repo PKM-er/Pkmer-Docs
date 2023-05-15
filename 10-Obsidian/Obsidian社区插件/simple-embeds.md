@@ -1,12 +1,13 @@
 ---
 uid: 20230430090320
 title: Obsidian 插件：Simple Embeds 为链接
+tags: 
 description: Obsidian 插件：Simple Embeds 为链接
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511215219
+modified: 20230515231132
 ---
 
 # Obsidian 插件：Simple Embeds 为链接

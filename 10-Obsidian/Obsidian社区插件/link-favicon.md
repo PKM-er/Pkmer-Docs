@@ -1,13 +1,13 @@
 ---
 uid: 20230505232116
 title: Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
-description: Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
 tags: Obsidian,插件,链接,网站图标
+description: Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230512115934
+modified: 20230515231133
 ---
 
 # Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标

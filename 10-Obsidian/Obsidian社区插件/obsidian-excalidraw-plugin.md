@@ -1,12 +1,13 @@
 ---
 uid: 20230329145808
-title: Obsidian插件：Excalidraw
+title: Obsidian 插件：Excalidraw
+tags: 
 description: Obsidian 插件：Excalidraw
 author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230514113028
+modified: 20230515231133
 ---
 
 # Obsidian 插件：Excalidraw

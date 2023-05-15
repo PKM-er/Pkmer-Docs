@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
 title: 自定义 CSS
-description: 
 tags: 
+description: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504213041
-public: yes
+modified: 20230515231218
 ---
 
 # 自定义 CSS
@@ -70,6 +69,7 @@ public: yes
 ## 延伸阅读
 
 修改样式目前有下面几种途径
+
 - 使用社区主题，根据主题带的设置项调整
 - 根据上面教程 自己找到 css 选择器，自己写 css 片段
 - 找到别人分享的 css 片段的内容，复制到自己的片段中

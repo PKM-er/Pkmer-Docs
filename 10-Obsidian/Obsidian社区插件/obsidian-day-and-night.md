@@ -1,12 +1,13 @@
 ---
 uid: 20230509144614
 title: Obsidian 插件：Day and Night 自动切换明亮主题
+tags: 
 description: Obsidian 插件：Day and Night 自动切换明亮主题
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511214100
+modified: 20230515231133
 ---
 
 # Obsidian 插件：Day and Night 自动切换明亮主题

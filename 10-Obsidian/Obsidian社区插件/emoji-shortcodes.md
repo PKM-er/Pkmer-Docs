@@ -1,13 +1,13 @@
 ---
 uid: 20230506111321
 title: Obsidian 插件：Emoji Shortcodes 快速输入 emoji 表情符号
-description: Obsidian 插件：Emoji Shortcodes 快速输入 emoji 表情符号
 tags: Obsidian,插件,emoji,效率,表情符号
+description: Obsidian 插件：Emoji Shortcodes 快速输入 emoji 表情符号
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230512114827
+modified: 20230515231134
 ---
 
 # Obsidian 插件：Emoji Shortcodes 快速输入 emoji 表情符号

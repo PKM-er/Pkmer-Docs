@@ -1,12 +1,13 @@
 ---
 uid: 20230427232149
 title: Obsidian 插件：Collapse All
+tags: 
 description: Obsidian 插件：Collapse All 单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511214004
+modified: 20230515231133
 ---
 
 # Obsidian 插件：Collapse All

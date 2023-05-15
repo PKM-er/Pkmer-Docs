@@ -1,12 +1,13 @@
 ---
 uid: 20230506103414
 title: Obsidian 插件：Icon Shortcodes
+tags: 
 description: Obsidian 插件：Icon Shortcodes 通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511214501
+modified: 20230515231133
 ---
 
 # Obsidian 插件：Icon Shortcodes

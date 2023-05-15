@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Typewrite scroll 像打字机一样写笔记
-description: Obsidian 插件：Typewrite scroll 打字机风格的滚动，使视图保持在编辑器的中心。
 tags: 
+description: Obsidian 插件：Typewrite scroll 打字机风格的滚动，使视图保持在编辑器的中心。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511205427
+modified: 20230515231134
 ---
 
 # Obsidian 插件：Typewrite scroll 像打字机一样写笔记

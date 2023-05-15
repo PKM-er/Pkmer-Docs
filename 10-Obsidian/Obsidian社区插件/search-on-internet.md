@@ -1,12 +1,13 @@
 ---
 uid: 20230514014646
 title: Obsidian 插件：Search on Internet 快速搜索笔记内的内容
+tags: 
 description: 
 author: bon&山鸡
 type: other
 draft: false
 editable: false
-modified: 20230514021314
+modified: 20230515231132
 ---
 
 # Obsidian 插件：Search on Internet 快速搜索笔记内的内容

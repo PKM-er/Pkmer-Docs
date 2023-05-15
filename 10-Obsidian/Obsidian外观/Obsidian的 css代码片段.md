@@ -1,15 +1,14 @@
 ---
 uid: 20230329145808
-title: Obsidian的 css代码片段
-description: 
+title: Obsidian 的 css 代码片段
 tags: 
+description: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504203216
+modified: 20230515231218
 aliases: Obsidian css代码片段
-public: yes
 ---
 
 # Obsidian 的 css 代码片段

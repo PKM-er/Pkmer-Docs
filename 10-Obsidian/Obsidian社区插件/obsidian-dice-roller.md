@@ -1,12 +1,13 @@
 ---
 uid: 20230514013200
 title: Obsidian 插件：Dice Roller 为你的笔记添加一点随机性
+tags: 
 description: Obsidian 插件：Dice Roller 为你的笔记添加一点随机性
 author: bon
 type: other
 draft: false
 editable: false
-modified: 20230514021626
+modified: 20230515231133
 ---
 
 # Obsidian 插件：Dice Roller 为你的笔记添加一点随机性

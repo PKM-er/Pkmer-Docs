@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Easy Tpying
-description: Obsidian 插件：Easy Tpying 自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 tags: Obsidian,插件,输入,效率,自动化
+description: Obsidian 插件：Easy Tpying 自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230512114749
+modified: 20230515231134
 ---
 
 # Obsidian 插件：Easy Tpying

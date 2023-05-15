@@ -1,12 +1,13 @@
 ---
 uid: 20230423222800
 title: Obsidian 插件：Textgenerator
+tags: 
 description: obsidian-textgenerator-plugin 使用 OpenAI 的模型进行文本生成
 author: windilycloud
 type: other
 draft: false
 editable: false
-modified: 20230514022155
+modified: 20230515231132
 ---
 
 # Obsidian 插件：Textgenerator

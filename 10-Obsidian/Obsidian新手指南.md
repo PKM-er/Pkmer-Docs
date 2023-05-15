@@ -1,12 +1,13 @@
 ---
 uid: 20230412141451
 title: Obsidian 新手指南
+tags: 
 description: 
 author: windilycloud
 type: tutorial
 draft: false
 editable: false
-modified: 20230412220442
+modified: 20230515231134
 ---
 
 # Obsidian 新手指南
@@ -17,14 +18,12 @@ Obsidian 是一个强大且扩展性极高的知识库软件，建立在你本�
 
 ![image.png](https://cdn.pkmer.cn/images/20230505185457.png!pkmer)
 
-
 - 来自 Obsidian Discord 社区频道
 - 左侧面板是常用链接跳转，左侧面板下方是习惯记录
 - 中间是笔记近况，从笔记里自动统计更新最近的笔记以及笔记状态
 - 右上方是图谱，命令和设置，一键记录习惯，添加笔记，更改设置；右下方是 memos，用于记录灵感。
 
 ![image.png](https://cdn.pkmer.cn/images/20230505185335.png!pkmer)
-
 
 - 来自 [PKMer-Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example)
 - 左侧是目录树和最近文件

@@ -1,12 +1,13 @@
 ---
 uid: 20230430232037
 title: Obsidian 插件：Excel to Markdown Table
+tags: 
 description: Excel to Markdown Table 可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230514022001
+modified: 20230515231133
 ---
 
 # Obsidian 插件：Excel to Markdown Table

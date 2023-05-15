@@ -1,12 +1,13 @@
 ---
 uid: 20230513222807
 title: Obsidian 插件：File Order 允许你快速给文件夹的文件加上数字编号
+tags: 
 description: Obsidian 插件：File Order 允许你快速给文件夹的文件加上数字编号
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230514131556
+modified: 20230515231131
 ---
 
 # Obsidian 插件：File Order 允许你快速给文件夹的文件加上数字编号

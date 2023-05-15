@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Image toolkit
+tags: [插件, 图片, 格式调整, image]
 description: Obsidian 插件：Image toolkit 提供笔记中查看图片的基本操作
-tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230511214528
-public: yes
+modified: 20230515231216
 ---
 
 # Obsidian 插件：Image toolkit

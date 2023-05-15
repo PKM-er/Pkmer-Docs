@@ -9,7 +9,7 @@
       "force-yaml-escape-keys": ""
     },
     "format-tags-in-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "format-yaml-array": {
       "enabled": false,
@@ -31,7 +31,7 @@
     },
     "remove-yaml-keys": {
       "enabled": true,
-      "yaml-keys-to-remove": "keywords"
+      "yaml-keys-to-remove": "keywords\npublic"
     },
     "yaml-key-sort": {
       "enabled": true,

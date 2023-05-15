@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Advanced URI 青年与禅师的技术尬聊
-description: obsidian-advanced-uri- 青年与禅师的技术尬聊
 tags: Obsidian,插件,uri,增强
+description: obsidian-advanced-uri- 青年与禅师的技术尬聊
 author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230514113209
+modified: 20230515231133
 ---
 
 # Obsidian 插件：Advanced URI 青年与禅师的技术尬聊
