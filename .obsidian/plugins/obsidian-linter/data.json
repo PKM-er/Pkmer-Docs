@@ -12,7 +12,7 @@
       "enabled": true
     },
     "format-yaml-array": {
-      "enabled": false,
+      "enabled": true,
       "alias-key": true,
       "tag-key": true,
       "default-array-style": "single-line",
