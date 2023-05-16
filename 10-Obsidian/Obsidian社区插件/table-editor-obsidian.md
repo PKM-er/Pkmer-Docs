@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230516120327
 ---
 
 # Obsidian 插件：Advanced Tables
@@ -358,3 +358,7 @@ modified: 20230515233928
 ```
 
 在此示例中，格式化指令是末尾的“;%.2f”。如果没有它，结果将是值，“0.14285714285714285”，但是因为我们请求了两个小数点，结果将是“0.14”。
+
+>[!Tip] 关联推荐
+>- [[obsidian-sortable]]：提供搜索 Obsidian 设置和插件设置选项的能力
+>- [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。

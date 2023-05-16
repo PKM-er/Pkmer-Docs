@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230516121957
 ---
 
 # Obsidian 社区插件
@@ -75,12 +75,23 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录。
 
-### 目录类
+### 图像
+
+- [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
+- [[obsidian-image-caption]]：给图片增加说明题注
+- [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
+
+### 视图模式
+
+- [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+
+### 目录和大纲类
 
 - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
 - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
 - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
 - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
+- [[obsidian-zoom]]：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。
 
 ### 日期&提醒&任务类
 
@@ -93,7 +104,18 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
 - [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
+- [[obsidian-task-archiver]]：帮你快速归类待办任务
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
+
+### 搜索
+
+- [[fuzzy-chinese-pinyin]]：基于汉语拼音进行模糊搜索
+- [[search-on-internet]]：快速在搜索引擎中搜索笔记内容
+- [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
+
+### 脚注&引用
+
+- [[better-fn]]：为 Obsidian 注脚增加悬浮展示功能，鼠标指向后，注脚的解释会出现在对应位置
 
 ### 链接类
 
@@ -106,6 +128,11 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：根据你设定的规则动态高亮显示文本
 
+### 阅读和 PDF
+
+- [[obsidian-booknote-plugin]]：让你在 Obsidian 中阅读标注 PDF
+- [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
+
 ### 标签类
 
 - [[tag-wrangler]]：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到
@@ -117,16 +144,24 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[table-editor-obsidian]]：改进了表格导航、格式和操作
 - [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
 
+### 脑图
+
+- [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图
+- [[obsidian-enhancing-mindmap]]：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
+
 ### 自动化&效率
 
+- [[template-plugin]]：可以替代核心模板插件的效率神器
+- [[QuickAdd]]：组合 Obsidian 里所有操作，低阶使用可可视化自动化操作，高阶使用可编写脚本实现万物互联
 - [[obsidian-pangu]]：提供了一个全新的增强型文件管理器
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
-- [[QuickAdd]]
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
 - [[obsidian-auto-template-prompt]]：在创建文件时自动打开一个命令窗口让你插入模板。
 - [[file-order]]：允许你快速给文件夹的文件加上数字编号
 - [[obs-text-wrapper]]：给选中文本加上 HTML 标签
 - [[obsidian-wrap-with-shortcuts]]：给选中文本加上自定义前后缀标签
+- [[obsidian-dice-roller]]：在文档任意地方生成需要随机的内容，这些随机的候选项可以你来定义
+- [[obsidian-markdown-formatting-assistant-plugin]]：提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示 OB 常用和所有命令提高工作效率。
 
 ### 图标类
 
@@ -149,23 +184,41 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
 - [[custom-state-for-task-list]]：优化你的任务样式
 - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
+- [[obsidian-day-and-night]]：根据设定的时间自动切换浅色和深色主题
+- [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
+- [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
 
 ### 文件管理类
 
- - [[file-tree-alternative]]：提供了一个全新的增强型文件管理器。
+ - [[file-tree-alternative]]：提供了一个全新的增强型文件管理器
  - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
  - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
  - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
  - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
  - [[recent-files-obsidian]]：显示最近打开的文件列表
+ - [[obsidian-gallery]]：让你的笔记变成画廊
+- [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+
+### 标签页管理
+
+- [[obsidian-tabs]]：为 Obsidian 增加标签页功能
+- [[cycle-through-panes]]：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样！
 
 ### 工具
 
 - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
 - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
-- [[obsidian-tabs]]：为 Obsidian 增加标签页功能
+- [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
+- [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
 
-### 插入预览 和 第三方集成
+### 语言
+
+- [[obsidian-markdown-furigana]]：日文学习如何增加假名
+- [[japanese-word-splitter]]：添加支持日语分词
+- [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能。
+- [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容
+
+### 插入预览
 
  - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
  - [[surfing]]
@@ -175,6 +228,12 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
  - [[media-extended]]
  - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
 
-## AI 相关
+### 第三方集成
 
-[[obsidian-textgenerator-plugin]]：使用 OpenAI 的模型进行文本生成
+- [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
+- [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
+- [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据
+
+### AI 相关
+
+- [[obsidian-textgenerator-plugin]]：使用 OpenAI 的模型进行文本生成

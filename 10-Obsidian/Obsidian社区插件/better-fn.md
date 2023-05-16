@@ -10,7 +10,7 @@ editable: false
 modified: 20230515233931
 ---
 
-# Obsidian 插件：Better footnote
+# Obsidian 插件：Better footnote 增加悬浮展示功能
 
 Better Footnote 可以让你在预览模式将光标放到脚注上时，自动显示脚注的内容，不需要移到文章最下方才能看到。
 

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230516120153
 ---
 
 # Obsidian 插件：BookNote 让你在 Obsidian 中阅读标注 PDF
@@ -136,3 +136,7 @@ md 文档中的回链信息
 | comment | 注释      |
 | width   | 截图宽度    |
 | height  | 截图高度    |
+
+>[!Tip] 提示
+>- 如果你对读书感兴趣：[[obsidian-weread-plugin]]
+>- 如果你对你豆瓣的读书记录感兴趣：[[obsidian-douban-plugin]]

@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Local image plus
+title: Obsidian 插件：Local image plus 将网络图片自动变为本地
 tags: []
 description: Obsidian 插件：Local image plus
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230516113952
 ---
 
-# Obsidian 插件：Local image plus
+# Obsidian 插件：Local image plus 将网络图片自动变为本地
 
 ## 概述
 
