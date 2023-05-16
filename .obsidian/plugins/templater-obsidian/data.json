@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "10-Obsidian/Obsidian社区插件",
-      "template": "Config/Template/_template-plugin.md"
+      "template": "Config/Template/template-plugin.md"
     }
   ],
   "syntax_highlighting": true,

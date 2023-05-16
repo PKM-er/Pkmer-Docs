@@ -23,7 +23,7 @@ modified: 20230516103032
 
 Metaedit 是 Obsidian 为数不多的管理 Obsidian 元数据的，所谓元数据就是指 Obsidian`---` 包裹的前置区域部分，这部分语法使用的是 yaml 格式所以也称为 yaml 区域。
 
-有时候我们的笔记很多元数据都是固定的，虽然通过模板插件 [[_template-plugin]] 预设一些固定的 yaml 值，但有时候我们需要一些可选项的值，比如 tags，分类等。这时候 metaedit 就可以提前把可选择项的值维护进去，这样笔记里直接选择就可以了。当然这个插件真正的魅力并不局限于此，它最大的价值就是跟 dataview 联动，弥补 [[dataview]] 不能更改查询结果的缺陷。
+有时候我们的笔记很多元数据都是固定的，虽然通过模板插件 [[template-plugin]] 预设一些固定的 yaml 值，但有时候我们需要一些可选项的值，比如 tags，分类等。这时候 metaedit 就可以提前把可选择项的值维护进去，这样笔记里直接选择就可以了。当然这个插件真正的魅力并不局限于此，它最大的价值就是跟 dataview 联动，弥补 [[dataview]] 不能更改查询结果的缺陷。
 
 ![metaedit.gif](https://cdn.pkmer.cn/images/202305160840263.gif!pkmer)
 
