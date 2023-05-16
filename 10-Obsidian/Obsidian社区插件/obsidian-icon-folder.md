@@ -77,3 +77,14 @@ Icon Packs folder path 展示用于保存下载的图标包文件路径。
 > 插件会使用你当前仓库，插件目录下该插件的文件夹来保存对应文件，这样对你整个仓库的文件结构破坏最小。
 
 你可以在网络上寻找对应的 SVG 图标包，来构建自己的图标文件夹
+
+> [!Tip] 推荐阅读
+> - [[Obsidian-Banners]]：为文档页面添加头图和图标
+> - [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
+> - [[obsidian-hider]]：自定义隐藏界面元素、信息
+> - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
+> - [[custom-state-for-task-list]]：优化你的任务样式
+> - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
+> - [[obsidian-day-and-night]]：根据设定的时间自动切换浅色和深色主题
+> - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
+> - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项

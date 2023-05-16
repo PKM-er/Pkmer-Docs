@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230516195335
 ---
 
 # Obsidian 插件：Novel word count 增加统计信息
@@ -20,7 +20,7 @@ modified: 20230515233930
 > - 插件名称：Novel word count
 > - 插件作者：Isaac Lyman
 > - 插件说明：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
-> - 插件项目地址：[点我跳转](https://github.com/Darakah/obsidian-comments-plugin)
+> - 插件项目地址：[点我跳转](https://github.com/isaaclyman/novel-word-count-obsidian)
 
 ## 效果&特性
 
@@ -67,3 +67,6 @@ modified: 20230515233930
 - 创建日期
 - 最后更新日期
 - 文件大小
+
+> [!Tip] 推荐阅读
+> - [[better-word-count]]：

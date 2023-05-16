@@ -7,7 +7,7 @@ author: bon
 type: other
 draft: false
 editable: false
-modified: 20230515233931
+modified: 20230516195425
 ---
 
 # Obsidian 插件：Better Word Count
@@ -23,3 +23,6 @@ modified: 20230515233931
 ## 效果&特性
 
 ## 使用
+
+> [!Tip] 推荐阅读
+> - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息

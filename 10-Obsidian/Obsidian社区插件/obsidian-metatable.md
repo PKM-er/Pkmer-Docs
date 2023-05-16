@@ -38,3 +38,8 @@ frontmatter 为我们提供每个笔记前页，书写辅助信息的能力，�
 
 > [!Tip] 提示
 > - 如果对是否忽略属性值，或者对忽略特点参数进行设置，需要重新启动 Obsidian 后才能生效。
+
+> [!Tip] 推荐阅读
+> - [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
+> - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+> - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值

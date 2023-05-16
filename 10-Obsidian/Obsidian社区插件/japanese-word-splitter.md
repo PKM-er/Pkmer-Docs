@@ -40,3 +40,8 @@ Obsidian 默认的日文分词效果
 
 > [!Warning]
 > 最低版本要求 Obsidian 0.13.8 以上
+
+> [!Tip] 推荐阅读
+> - [[obsidian-markdown-furigana]]：日文学习如何增加假名
+> - [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
+> - [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容

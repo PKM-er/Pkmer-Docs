@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230516192751
 ---
 
 # Obsidian 插件：Quiet Outline 强化大纲展示管理
@@ -53,3 +53,8 @@ Quiet Outline，是增强大纲插件，按需自动展开大纲，可设定展�
 安装并开启插件后，插件不会自动为你生成大纲界面。
 
 需要使用命令面板 (Ctrl+P) 打开，搜索 `Quiet Outline`，回车开启，在右侧显示
+
+> [!Tip] 推荐阅读
+> - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
+> - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
+> - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样

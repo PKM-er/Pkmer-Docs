@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230516195227
 ---
 
 # Advanced URIDynamic Background 为 Obsidian 添加动态背景
@@ -92,3 +92,14 @@ modified: 20230515233929
 
 - 打开插件设置窗口
 - 在  `Blur`  框中输入模糊值，0 代表不模糊
+
+> [!Tip] 推荐阅读
+> - [[Obsidian-Banners]]：为文档页面添加头图和图标
+> - [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
+> - [[obsidian-hider]]：自定义隐藏界面元素、信息
+> - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
+> - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
+> - [[custom-state-for-task-list]]：优化你的任务样式
+> - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
+> - [[obsidian-day-and-night]]：根据设定的时间自动切换浅色和深色主题
+> - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项

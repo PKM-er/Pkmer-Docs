@@ -7,7 +7,7 @@ author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230516145933
+modified: 20230516192210
 ---
 
 # Obsidian 插件：Metaedit--- 不可多得的 YAML 管理器
@@ -92,3 +92,8 @@ dv.table(["name", "status"], pages)
 
 ```
 ````
+
+> [!Tip] 推荐阅读
+> - [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
+> - [[obsidian-metatable]]：美化 frontmatter 的显示样式
+> - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图

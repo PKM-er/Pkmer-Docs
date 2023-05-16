@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230516192144
 ---
 
 # Obsidian 插件：Force note view mode 自定义每个笔记的视图
@@ -53,3 +53,8 @@ obsidianUIMode: source
 obsidianEditingMode: live
 ---
 ```
+
+> [!Tip] 推荐阅读
+> - [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
+> - [[obsidian-metatable]]：美化 frontmatter 的显示样式
+> - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值

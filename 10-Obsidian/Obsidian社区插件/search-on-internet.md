@@ -52,3 +52,7 @@ URL 中 `{{title}}` 代表我们划词的内容。
 - 百度：`https://www.baidu.com/s?ie=UTF-8&wd={{title}}`
 - 知网随问：`https://qa.cnki.net/web/query?q={{title}}`
 - 有道词典发音：`https://dict.youdao.com/dictvoice?audio={{title}}`
+
+> [!Tip] 推荐阅读
+> - [[fuzzy-chinese-pinyin]]：基于汉语拼音进行模糊搜索
+> - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
