@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230516005003929
 ---
 
 # Obsidian 插件：Obsidian Tabs 为 Obsidian 增加标签页功能
@@ -28,7 +28,8 @@ modified: 20230515233929
 
 ## 效果&特性
 
-![demo.webp](https://cdn.pkmer.cn/images/ebd30423dc3f9906ebc3040731554e4c_MD5.webp)
+![image.png](https://cdn.pkmer.cn/images/202305160907814.png!pkmer)
+
 
 ## 使用
 
