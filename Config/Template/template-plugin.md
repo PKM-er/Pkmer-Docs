@@ -3,7 +3,7 @@ uid:
 title: Obsidian 插件：
 tags: 
 description: 
-author: cuman
+author: 
 type: basic
 draft: false
 editable: false
