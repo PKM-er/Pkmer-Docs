@@ -64,7 +64,7 @@ modified: 20230516121218
 
 新建一个 css 文件 比如 my.css 把复制的内容粘贴进去，保存即可。
 
-然后参考这里 [[Obsidian的 css代码片段|Obsidian css代码片段]] 启用 my.css 片段 就可以看到效果了。
+然后参考这里 [[Obsidian的CSS代码片段|Obsidian css代码片段]] 启用 my.css 片段 就可以看到效果了。
 
 ## 延伸阅读
 

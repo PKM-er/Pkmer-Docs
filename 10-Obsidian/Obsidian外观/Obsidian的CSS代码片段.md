@@ -1,17 +1,17 @@
 ---
 uid: 20230329145808
-title: Obsidian 的 css 代码片段
+title: Obsidian 的 CSS 代码片段
 tags: []
 description: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233931
+modified: 20230516155810
 aliases: [Obsidian css代码片段]
 ---
 
-# Obsidian 的 css 代码片段
+# Obsidian 的 CSS 代码片段
 
 Obsidian 的 Snippets
 
