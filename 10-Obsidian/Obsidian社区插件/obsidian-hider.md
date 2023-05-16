@@ -52,3 +52,14 @@ modified: 20230515233929
 	- Hide Search suggestions：隐藏搜索建议
 	- Hide count of search term matches：隐藏搜索匹配结果的数量提示
 	- Hide metadata block in Reading view：隐藏阅读模式下，metadata 信息的展示
+
+> [!Tip] 推荐阅读
+> - [[Obsidian-Banners]]：为文档页面添加头图和图标
+> - [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
+> - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
+> - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
+> - [[custom-state-for-task-list]]：优化你的任务样式
+> - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
+> - [[obsidian-day-and-night]]：根据设定的时间自动切换浅色和深色主题
+> - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
+> - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项

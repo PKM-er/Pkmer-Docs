@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516111437
+modified: 20230516192655
 ---
 
 # Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
@@ -70,6 +70,7 @@ Floating Toc 插件能实现悬浮目录。悬浮目录的效果近似你在其�
 
 [Obsidian 这款浮动目录插件，文章越长使用起来越方便_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ze4y1C7Yw/)
 
->[!Tip] 提示
->- 类似插件还有：[[obsidian-plugin-toc]]
->- 类似插件还有：[[obsidian-dynamic-toc]]
+>[!Tip] 关联推荐
+>- [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
+>- [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
+>- [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲

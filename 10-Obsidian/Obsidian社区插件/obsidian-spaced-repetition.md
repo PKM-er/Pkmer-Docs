@@ -1,13 +1,13 @@
 ---
 uid: 20230410232448
-title: Obsidian 插件：Spaced Repetition
+title: Obsidian 插件：Spaced Repetition 利用遗忘曲线间隔重复复习笔记中的内容
 tags: [flashcards]
 description: Spaced Repetition
 author: Boninall
 type: basic
 draft: false
 editable: false
-modified: 20230515231216
+modified: 20230516194837
 ---
 
 # Obsidian 插件：Spaced Repetition 利用遗忘曲线间隔重复复习笔记中的内容
@@ -149,3 +149,8 @@ Ob 最小的组成单位是 md 文件（笔记）。而前面所说的都是针�
 
 1. `ctrl + p` , 并输入 `Spaced Repetition:查看数据`，回车调用
 2. 查看对应数据。
+
+> [!Tip] 推荐阅读
+> - [[obsidian-markdown-furigana]]：日文学习如何增加假名
+> - [[japanese-word-splitter]]：添加支持日语分词
+> - [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能

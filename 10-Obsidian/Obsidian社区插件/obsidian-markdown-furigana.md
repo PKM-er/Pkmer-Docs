@@ -63,3 +63,8 @@ HTML 标签 ruby
 ```
 <ruby  style="ruby-position:under">漢字 <rt>ㄏㄢˋㄗˋ </rt></ruby>
 ```
+
+> [!Tip] 推荐阅读
+> - [[japanese-word-splitter]]：添加支持日语分词
+> - [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
+> - [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容

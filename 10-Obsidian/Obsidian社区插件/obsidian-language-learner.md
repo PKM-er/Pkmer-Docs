@@ -78,4 +78,7 @@ modified: 20230515233929
 
 ![Pasted image 20230127170141](https://cdn.pkmer.cn/images/abc76970241b39177e0cca101046d36d_MD5.png!pkmer)
 
-## 视频
+> [!Tip] 推荐阅读
+> - [[obsidian-markdown-furigana]]：日文学习如何增加假名
+> - [[japanese-word-splitter]]：添加支持日语分词
+> - [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容

@@ -41,3 +41,8 @@ aliases: ["这是一个笔记别名"]
 > [!tip]
 > - 该特性暂不支持 Graph View；
 > - 还不支持其它的设置；
+
+> [!Tip] 推荐阅读
+> - [[obsidian-metatable]]：美化 frontmatter 的显示样式
+> - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+> - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
