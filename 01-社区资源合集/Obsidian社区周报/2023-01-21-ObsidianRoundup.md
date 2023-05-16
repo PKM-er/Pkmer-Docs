@@ -1,18 +1,17 @@
 ---
 uid: 20230329102645
-title: 🌠 更多 LLM 集成和烹饪、锻炼等的样本笔记
+title: 2023-01-21-ObsidianRoundup
+tags: 
 description: 
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230401230258
-aliases:
+modified: 20230516122135
+aliases: []
 ---
 
-[🌠 More LLM Integrations & Sample Notes for Cooking, Workouts, etc.](https://www.eleanorkonik.com/2023-01-21/)
-
-# 🌠 更多 LLM 集成和烹饪、锻炼等的样本笔记
+# 2023-01-21-ObsidianRoundup
 
 Obsidian 在 2022 的 Product Hunt 的生产力类别金猫奖中被提名；
 

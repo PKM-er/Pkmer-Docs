@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230516120333
 ---
 
 # Obsidian 插件：Sortable 为表格提供简单的排序功能
@@ -39,3 +39,7 @@ modified: 20230515233929
 - 自定义比较函数是规划路线的一部分（请参见此 [issue](https://github.com/alexandru-dinu/obsidian-sortable/issues/12)
 - 不会修改 Markdown 源代码。通过重新排列表格行（即 tr 元素）进行排序。
 - 没有依赖项，不需要你额外再去下载或者安装其他插件。
+
+>[!Tip] 关联推荐
+>- [[table-editor-obsidian]]：改进了表格导航、格式和操作
+>- [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。

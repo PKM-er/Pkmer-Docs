@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230516120421
 ---
 
 # Obsidian 插件：External Favicon 为笔记中的网页链接增加网站图标
@@ -42,5 +42,5 @@ modified: 20230515233930
 >- 这是一个新插件，若有问题请给予谅解
 >- 该插件仅支持阅读模式，实时阅览模式尚存在一点问题
 
->[!Tip] 提示
+>[!Tip] 关联推荐
 >- 类似插件还有：[[link-favicon]]

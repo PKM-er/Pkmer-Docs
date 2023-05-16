@@ -10,7 +10,7 @@ editable: false
 modified: 20230515233929
 ---
 
-# Obsidian 插件：Language Learner（事半功倍学习英文单词）
+# Obsidian 插件：Language Learner 事半功倍学习英文单词
 
 ## 概述
 

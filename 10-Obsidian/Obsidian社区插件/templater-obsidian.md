@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230516115705
 ---
 
 # Obsidian 插件：Templater 可以替代核心模板插件的效率神器

@@ -10,7 +10,7 @@ editable: false
 modified: 20230515233930
 ---
 
-# Obsidian 插件：Fuzzy Chinese Pinyin
+# Obsidian 插件：Fuzzy Chinese Pinyin 基于汉语拼音进行模糊搜索
 
 Obsidian 的搜索可以为我们提供多种模式的搜索，包括标题、标签等。但是我们的输入可能绝大部分还是以中文为主，这时候我们可能会习惯，一般搜索引擎提供的基于汉语拼音进行搜索的能力。
 

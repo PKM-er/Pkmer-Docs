@@ -10,7 +10,7 @@ editable: false
 modified: 20230515231216
 ---
 
-# Obsidian 插件：Image toolkit
+# Obsidian 插件：Image toolkit 提供笔记中查看图片的基本操作
 
 #插件 #图片 #格式调整 #image
 

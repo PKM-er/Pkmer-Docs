@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Clear unused images（快速删除无用的图片）
+title: Obsidian 插件：Clear unused images 快速删除无用的图片
 tags: []
 description: Obsidian 插件：Clear unused images（快速删除无用的图片）
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230516121612
 ---
 
-# Obsidian 插件：Clear unused images（快速删除无用的图片）
+# Obsidian 插件：Clear unused images 快速删除无用的图片
 
 ## 概述
 

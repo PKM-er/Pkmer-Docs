@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233931
+modified: 20230516121218
 ---
 
 # 自定义 CSS
@@ -74,3 +74,27 @@ modified: 20230515233931
 - 根据上面教程 自己找到 css 选择器，自己写 css 片段
 - 找到别人分享的 css 片段的内容，复制到自己的片段中
 - 通过 style setting 插件修改，建议安装 [[obsidian-style-settings]] 并使用默认主题片段 ![[obsidian-style-settings#^992e4d]]
+
+## CSS 修改优秀范例
+
+### 编辑器
+
+- [[编辑模式下当前行高亮]]
+- [[编辑器高亮格式样式]]
+- [[Callout 样式]]
+
+### 链接
+
+- [[网址前自动加图标]]
+
+### 文件管理器
+
+- [[文件浏览器样式]]
+
+### 表格样式
+
+- [[table 样式]]
+
+### 插件样式
+
+- [[calendar 插件的样式修改]]
