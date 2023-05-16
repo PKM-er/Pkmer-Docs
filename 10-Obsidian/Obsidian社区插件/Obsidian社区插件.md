@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516121957
+modified: 20230516145939
 ---
 
 # Obsidian 社区插件
@@ -148,6 +148,13 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图
 - [[obsidian-enhancing-mindmap]]：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
+
+### Frontmatter
+
+- [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
+- [[obsidian-metatable]]：美化 frontmatter 的显示样式
+- [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+- [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
 
 ### 自动化&效率
 

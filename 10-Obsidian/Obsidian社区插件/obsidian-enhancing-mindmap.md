@@ -84,6 +84,6 @@ mindmap-plugin: basic
 | 切换导图布局           | 选中某节点 ，Ctrl/Cmd + U / D / L / R / M / J / K / T / Q |
 | 删除归纳、外框、联系线 | Delete/Backspace                                          |
 
-## 功能延伸
 
-类似插件 [[obsidian-mindmap-nextgen]]
+>[!Tip] 关联推荐
+>- [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图

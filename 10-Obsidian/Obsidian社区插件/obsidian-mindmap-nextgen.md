@@ -80,3 +80,5 @@ markmap:
 这里设置了文字颜色，是否高亮，标题是否为根节点信息。详细的设置参数参考 [JSON options - markmap docs](https://markmap.js.org/docs/json-options)
 其中  `extraJs` 和 `extraCss` 参数目前还不支持。
 
+>[!Tip] 关联推荐
+>- [[obsidian-enhancing-mindmap]]：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
