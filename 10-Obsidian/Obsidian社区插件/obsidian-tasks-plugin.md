@@ -1,7 +1,7 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Tasks 更方便的任务管理
-tags: [Obsidain, 插件, 任务, 事务管理]
+tags: [Obsidian, 插件, 任务, 事务管理]
 description: Obsidian 插件：Tasks,任务管理必备插件
 author: cuman
 type: other
