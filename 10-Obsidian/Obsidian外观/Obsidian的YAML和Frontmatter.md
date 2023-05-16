@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231218
+modified: 20230516142224
 ---
 
 # Obsidian 的 YAML 和 Frontmatter
@@ -121,3 +121,7 @@ approxNumberOfResults: 5
 ```
 
 其中 query 指的是采用什么检索式，这里的检索式采用 Obsidian 支持的检索式即可，fields 指的是将哪些 YAML Front matter 的参数拿来使用，最后 approxNumberOfResults 指的是获取多少行。
+
+>[!Tip] 关联推荐
+>- 如果你对 frontmatter 的其他应用感兴趣，可以看：[[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+>- [

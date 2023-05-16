@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230516145817
 ---
 
 # Obsidian 插件：File Order 允许你快速给文件夹的文件加上数字编号
