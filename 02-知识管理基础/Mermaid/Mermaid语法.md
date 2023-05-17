@@ -36,3 +36,6 @@ modified: 20230517175343
 [[Mermaid语法-Git图]]
 [[Mermaid语法-一些示例]]
 
+## 工具
+
+[可视化编辑mermaid](https://mermaid-js.github.io/mermaid-live-editor/)

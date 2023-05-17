@@ -23,7 +23,7 @@ sequenceDiagram
     老马-)老铁: 再见！
 ```
 
-**注意：**由于 mermaid 语法的特性，“end” 一词可能会中断图表语法的解析。如果一定要使用“end”，则必须使用括号 `()`，引号 `""` 或括号 `{}`，`[]` 来括起“end”。即 `(end)` 、`[end]` 、`{end}`。
+** 注意：** 由于 mermaid 语法的特性，“end” 一词可能会中断图表语法的解析。如果一定要使用“end”，则必须使用括号 `()`，引号 `""` 或括号 `{}`，`[]` 来括起“end”。即 `(end)` 、`[end]` 、`{end}`。
 
 ## 语法
 
@@ -67,10 +67,7 @@ sequenceDiagram
 
 消息既可以实线，也可以虚线显示。
 
-```mermaid
-[Actor][Arrow][Actor]:Message text
-```
-
+ 
 目前支持的箭头有 6 种：
 
 |**类型**|**描述**|
@@ -101,6 +98,7 @@ sequenceDiagram
 ```mermaid
 sequenceDiagram
     老马->>+老铁: 好啊，老铁！
+    
     老铁-->>-老马: 好！
 ```
 
@@ -109,14 +107,18 @@ sequenceDiagram
 ```mermaid
 sequenceDiagram
     老马->>+老铁: 好啊，老铁！
+    
     老马->>+老铁: 老铁，听见我没？
+    
     老铁-->>-老马: 老马，我听到了！
+    
     老铁-->>-老马: 我已出舱，感觉良好！
+    
 ```
 
 ## 注解 Notes
 
-可以在序列图中添加注解。通过语法 Note [ right of | left of | over ] [Actor]：注解内容
+可以在序列图中添加注解。通过语法 Note  right of | left of | over  Actor：注解内容
 
 参见下面的示例：
 
