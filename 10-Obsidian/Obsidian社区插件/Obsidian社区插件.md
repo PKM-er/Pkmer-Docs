@@ -7,14 +7,12 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516121957
+modified: 20230517161556
 ---
 
 # Obsidian 社区插件
 
-Obsidian 允许其他开发者编写第三方插件来扩展 Obsidian 的功能。
-
-你可以把这点理解清楚 Chrome 或者 Edge 浏览器一样的扩展。
+Obsidian 允许其他开发者编写第三方插件来扩展 Obsidian 的功能。你可以把这点理解清楚 Chrome 或者 Edge 浏览器一样的扩展。
 
 ## 用户相关
 
@@ -57,45 +55,52 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 编辑增强
 
+这些插件优化或者提升 Obsidian 笔记编辑的直接体验，一般笔记插件直接作用在具体的笔记窗口，直观的、可视化的让你操作 Obsidian 的体验得到提升。它们可能包含了，可视化餐袋，或者浮动目录等。
+
 - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
 - [[floating-toc]]：在文档左侧生成一个悬浮的目录。
 - [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
-- [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 - [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
 - [[obsidian-comments]]：为笔记增加批注或评论。
-- [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板。
-- [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽。
 - [[creases]]：给 Obsidian 的标题增加折叠和展开的功能。
 - [[lapel]]：在标题旁边显示标题等级
 - [[highlightr-plugin]]：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
+- [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录。
+- [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽。
+- [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板。
 
 ### 图像
+
+这些插件大大强化了，笔记中图片的操作体验，比如查看图片，比如将网络图片集成倒本地等。
 
 - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
 - [[obsidian-image-caption]]：给图片增加说明题注
 - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
-
-### 视图模式
-
-- [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+ - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
 
 ### 目录和大纲类
 
+这些插件和大纲、目录有关，它们提供了：快速生成大纲、目录；快速定位目录；快速修改挪动不同笔记标题下内容的能力。活用这些插件，有助于我们更好的组织和梳理自己笔记的核心脉络。
+
 - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
 - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
-- [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
+- [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样
 - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
+- [[obsidian-outliner]]
 - [[obsidian-zoom]]：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。
 
 ### 日期&提醒&任务类
 
+这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
+
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
+- [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
 - [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
 - [[obsidian-tasks-plugin]]
@@ -103,11 +108,12 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-task-progress-bar]]
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
 - [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
-- [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-task-archiver]]：帮你快速归类待办任务
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 
 ### 搜索
+
+搜索是一种无法替代的工具，对于每天需要处理大量信息、笔记的用户来说，它是必不可少的。在 Obsidian 笔记中，已经推出了几个强大的搜索插件来满足你不同的需求:
 
 - [[fuzzy-chinese-pinyin]]：基于汉语拼音进行模糊搜索
 - [[search-on-internet]]：快速在搜索引擎中搜索笔记内容
@@ -119,6 +125,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 链接类
 
+这些 Obsidian 插件可以帮助你强化笔记中链接的使用体验，包括从链接粘贴、自动提取链接标题、显示链接对应的网站图标、增加链接的美化样式，以及将网页 URL 转换为嵌入的预览卡片时样式等等。
+
 - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
 - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
@@ -126,7 +134,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[link-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
 - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
-- [[auto-card-link]]：根据你设定的规则动态高亮显示文本
+- [[auto-card-link]]：自动将链接变成卡片样式
 
 ### 阅读和 PDF
 
@@ -140,6 +148,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 表格类
 
+鉴于 Obsidian 基于 Markdown 的方式，表格体验一直被大家反馈是使用过程中的难点，希望下面这些插件，能提升你在表格上的局部体验。
+
 - [[obsidian-sortable]]：提供搜索 Obsidian 设置和插件设置选项的能力
 - [[table-editor-obsidian]]：改进了表格导航、格式和操作
 - [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
@@ -149,7 +159,23 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图
 - [[obsidian-enhancing-mindmap]]：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 
+### 视图模式
+
+这些插件跟 Obsidian 提供的多种视图模式有关，让你更加灵活的使用不同的视图模式。
+
+- [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+
+### Frontmatter
+
+- [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
+- [[obsidian-metatable]]：美化 frontmatter 的显示样式
+- [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+- [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
+- [[obsidian-meta-bind-plugin]]：让你的笔记具有交互性，通过各种控件修改笔记信息
+
 ### 自动化&效率
+
+Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些丰富的生态，让它具备了可以提升办公效率的特性，让你从繁重，重复的码字过程中解脱出来，相信下面这些插件能帮到你：
 
 - [[template-plugin]]：可以替代核心模板插件的效率神器
 - [[QuickAdd]]：组合 Obsidian 里所有操作，低阶使用可可视化自动化操作，高阶使用可编写脚本实现万物互联
@@ -174,8 +200,11 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
 - [[better-word-count]]：
+- [[file-explorer-note-count]]：增加文件数量统计功能
 
 ### 美化
+
+对审美有着独特追求的你，一定不能错过这些插件，插件虽小，但是能够大大提升你 Obsidian 中个性化的成分。
 
 - [[Obsidian-Banners]]：为文档页面添加头图和图标
 - [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
@@ -190,6 +219,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 文件管理类
 
+强化笔记的组织管理能力，让你组织管理笔记更加高效和科学。
+
  - [[file-tree-alternative]]：提供了一个全新的增强型文件管理器
  - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
  - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
@@ -197,7 +228,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
  - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
  - [[recent-files-obsidian]]：显示最近打开的文件列表
  - [[obsidian-gallery]]：让你的笔记变成画廊
-- [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+ - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+ - [[obsidian-file-color]]：让你文件管理多姿多彩
 
 ### 标签页管理
 
@@ -210,26 +242,28 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
 - [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
 - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
+- [[obsidian42-brat]]：让你可以安装未上架的插件，主题
 
 ### 语言
 
 - [[obsidian-markdown-furigana]]：日文学习如何增加假名
 - [[japanese-word-splitter]]：添加支持日语分词
-- [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能。
+- [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
 - [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容
 
 ### 插入预览
 
- - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
  - [[surfing]]
  - [[convert-url-to-iframe]]：将任何 URL 转换为网页预览插入到笔记中
  - [[simple-embeds]]：把 Twitter 和 YouTube 网页链接嵌入当前笔记中预览
  - [[mx-bili-plugin]]
  - [[media-extended]]
  - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
+ - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
 
 ### 第三方集成
 
+ - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
 - [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
 - [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据

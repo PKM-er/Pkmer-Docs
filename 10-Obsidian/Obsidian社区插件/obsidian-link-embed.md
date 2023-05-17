@@ -56,3 +56,12 @@ url: 'https://www.baidu.com'
 
 >[!Tip] 提示
 >- 你或许发现了，这个插件和我们介绍的 [[auto-card-link]] 很相似
+
+> [!Tip] 推荐阅读
+> - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
+> - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
+> - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
+> - [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[link-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
+> - [[auto-card-link]]：根据你设定的规则动态高亮显示文本

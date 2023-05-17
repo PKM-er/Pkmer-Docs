@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230516192144
 ---
 
 # Obsidian 插件：Force note view mode 自定义每个笔记的视图
@@ -24,7 +24,7 @@ modified: 20230515233928
 > [!Note] 插件名片
 > - 插件名称：Force note view mode by front matter
 > - 插件作者：Benny Wydooghe
-> - 插件说明：自定义隐藏界面 UI。
+> - 插件说明：自定义每个笔记的视图
 > - 插件项目地址：[点我跳转](https://github.com/bwydoogh/obsidian-force-view-mode-of-note)
 
 ## 特性&功能
@@ -53,3 +53,9 @@ obsidianUIMode: source
 obsidianEditingMode: live
 ---
 ```
+
+> [!Tip] 推荐阅读
+> - [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
+> - [[obsidian-metatable]]：美化 frontmatter 的显示样式
+> - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
+> - [[obsidian-meta-bind-plugin]]：让你的笔记具有交互性，通过各种控件修改笔记信息

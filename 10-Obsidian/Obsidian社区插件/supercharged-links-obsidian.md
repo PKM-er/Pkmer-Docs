@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230516193108
 ---
 
 # Obsidian 插件：Supercharged Links
@@ -180,4 +180,11 @@ a.internal-link[data-link-tags *="hide"]，
 - Dataview (inline fields) 
 - Omnisearch
 
-
+> [!Tip] 推荐阅读
+> - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
+> - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
+> - [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[link-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
+> - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
+> - [[auto-card-link]]：根据你设定的规则动态高亮显示文本

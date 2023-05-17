@@ -54,3 +54,8 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的段
   /* (font awesome soild in this example) */
 }
 ```
+
+> [!Tip] 推荐阅读
+> - [[obsidian-icons-plugin]]：提供插入图标符号的功能
+> - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
+> - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换

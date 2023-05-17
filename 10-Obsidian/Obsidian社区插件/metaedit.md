@@ -1,21 +1,21 @@
 ---
 uid: 20230516082453
-title: Obsidian 插件：metaedit--- 不可多得的 YAML 管理器
+title: Obsidian 插件：Metaedit--- 不可多得的 YAML 管理器
 tags: [编辑工具, 效率]
 description: 帮你快捷管理Ob的元数据信息，可以预设 yaml 区域的值
 author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230516103032
+modified: 20230516192210
 ---
 
-# Obsidian 插件：metaedit--- 不可多得的 YAML 管理器
+# Obsidian 插件：Metaedit--- 不可多得的 YAML 管理器
 
 > [!Note] 插件名片
 > - 插件名称：MetaEdit
 > - 插件作者：Christian B. B. Houmann
-> - 插件说明：帮你快捷管理 Ob 的元数据，可以预设 yaml 区域的值。
+> - 插件说明：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值。
 > - 插件分类：编辑工具, 效率
 > - 插件项目地址：[点我访问](https://github.com/chhoumann/MetaEdit)
 
@@ -92,3 +92,9 @@ dv.table(["name", "status"], pages)
 
 ```
 ````
+
+> [!Tip] 推荐阅读
+> - [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
+> - [[obsidian-metatable]]：美化 frontmatter 的显示样式
+> - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+> - [[obsidian-meta-bind-plugin]]：让你的笔记具有交互性，通过各种控件修改笔记信息
