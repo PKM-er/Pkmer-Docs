@@ -3,7 +3,7 @@ uid: 20230329145808
 title: Obsidian 插件：Kanban
 tags: [插件, 图片, 格式调整]
 description: Obsidian 插件：Kanban 作看板，可以连接你的笔记
-author: bon
+author: Bon
 type: other
 draft: false
 editable: false

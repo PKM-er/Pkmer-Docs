@@ -70,3 +70,4 @@ modified: 20230516195335
 
 > [!Tip] 推荐阅读
 > - [[better-word-count]]：
+> - [[file-explorer-note-count]]：增加文件数量统计功能

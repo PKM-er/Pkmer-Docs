@@ -58,3 +58,4 @@ obsidianEditingMode: live
 > - [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
 > - [[obsidian-metatable]]：美化 frontmatter 的显示样式
 > - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
+> - [[obsidian-meta-bind-plugin]]：让你的笔记具有交互性，通过各种控件修改笔记信息

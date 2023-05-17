@@ -3,7 +3,7 @@ uid: 20230514014646
 title: Obsidian 插件：Search on Internet 快速在搜索引擎中搜索笔记内容
 tags: []
 description: 
-author: bon,山鸡
+author: Bon,山鸡
 type: other
 draft: false
 editable: false

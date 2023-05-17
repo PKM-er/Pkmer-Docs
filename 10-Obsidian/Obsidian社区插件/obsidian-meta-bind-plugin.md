@@ -21,7 +21,7 @@ modified: 20230517123536
 > [!Note] 插件名片
 > - 插件名称：Meta Bind Plugin
 > - 插件作者：Moritz Jung
-> - 插件说明：自动将链接变成卡片样式
+> - 插件说明：让你的笔记具有交互性，通过各种控件修改笔记信息
 > - 插件项目地址：[点我跳转](https://github.com/mProjectsCode/obsidian-meta-bind-plugin)
 
 ## 效果&特性
@@ -219,3 +219,10 @@ INPUT[toggle(showcase):toggle]
 - 展示效果
 
 ![image.png](https://cdn.pkmer.cn/images/20230517123256.png!pkmer)
+
+> [!Tip] 推荐阅读
+> - [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
+> - [[obsidian-metatable]]：美化 frontmatter 的显示样式
+> - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+> - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
+> - [[obsidian-meta-bind-plugin]]：让你的笔记具有交互性，通过各种控件修改笔记信息
