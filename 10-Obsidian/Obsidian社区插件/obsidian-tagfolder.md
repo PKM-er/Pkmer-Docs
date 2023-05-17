@@ -7,7 +7,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230516144745
+modified: 20230517174529
 ---
 
 # Obsidian 插件：TagFolder 通过标签方式组织管理笔记
@@ -121,3 +121,5 @@ sweet -red | food -sweet
 > - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
 > - [[recent-files-obsidian]]：显示最近打开的文件列表
 > - [[obsidian-gallery]]：让你的笔记变成画廊
+> - [[tag-wrangler]]：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到
+> - [[obsidian-frontmatter-tag-suggest]]：很好解决记忆标签和快速输入的问题，提供标签自动建议的方法，让你可以键入简单字母来快速联想出来对应的标签
