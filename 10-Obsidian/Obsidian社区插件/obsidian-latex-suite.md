@@ -27,7 +27,8 @@ modified: 20230517230151
 
 ==以下是原速公式输入示例==
 
-![demo.gif](https://cdn.pkmer.cn/images/demo.gif!pkmer)
+![555.gif](https://cdn.pkmer.cn/images/202305172350638.gif!pkmer)
+
 
 ## 基本用法
 
