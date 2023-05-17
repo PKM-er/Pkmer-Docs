@@ -47,4 +47,5 @@ modified: 20230516005003929
 12. 持续努力通过兼容性补丁最大化主题的兼容性。
 
 > [!Tip] 推荐阅读
-> - [[cycle-through-panes]]：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样！
+> - [[cycle-through-panes]]：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样
+> - [[close-similar-tabs]]：自动关闭重复打开的标签页，防止标签栏拥挤和冲突

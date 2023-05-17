@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230516194954
+modified: 20230517180916
 ---
 
 # Obsidian 插件：Cycle through Panes 快速循环浏览标签页
@@ -38,3 +38,4 @@ modified: 20230516194954
 
 > [!Tip] 推荐阅读
 > - [[obsidian-tabs]]：为 Obsidian 增加标签页功能
+> - [[close-similar-tabs]]：自动关闭重复打开的标签页，防止标签栏拥挤和冲突
