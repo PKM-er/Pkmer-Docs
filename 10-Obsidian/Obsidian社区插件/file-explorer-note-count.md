@@ -3,7 +3,7 @@ uid: 20230517152954
 title: Obsidian 插件：File Explorer Note Count 增加文件数量统计功能
 tags: []
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false

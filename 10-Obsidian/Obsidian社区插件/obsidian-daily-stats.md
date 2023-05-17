@@ -3,7 +3,7 @@ uid: 20230517182801
 title: Obsidian 插件：Daily Stats 自动统计笔记更新修改的热力图
 tags: []
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false
