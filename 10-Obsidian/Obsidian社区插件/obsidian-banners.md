@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230517223113
 ---
 
 # Obsidian 插件：Obsidian Banners 为你的笔记添加头图
@@ -17,7 +17,6 @@ modified: 20230515233930
 为你笔记添加头图，以及和头图相关的一系列装饰元素。
 
 > [!Note] 插件名片
->
 > - 插件名称：Banners
 > - 插件作者：noatpad
 > - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。

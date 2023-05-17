@@ -1,13 +1,13 @@
 ---
 uid: 20230509181857
-title: Obsidian 插件：Fuzzy Chinese Pinyin
+title: Obsidian 插件：Fuzzy Chinese Pinyin 基于汉语拼音进行模糊搜索
 tags: [Obsidian, 插件, 拼音, 模糊搜索]
 description: Obsidian 插件：Fuzzy Chinese Pinyin 可以基于汉语拼音进行模糊搜索
-author: 
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230517230119
 ---
 
 # Obsidian 插件：Fuzzy Chinese Pinyin 基于汉语拼音进行模糊搜索

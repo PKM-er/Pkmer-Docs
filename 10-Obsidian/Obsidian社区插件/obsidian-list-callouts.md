@@ -3,11 +3,11 @@ uid: 20230509170900
 title: Obsidian 插件：List Callouts 为大纲列表增加强化样式
 tags: []
 description: Obsidian 插件：List Callouts 为大纲列表增加强化样式
-author: 
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230517230049
 ---
 
 # Obsidian 插件：List Callouts 为大纲列表增加强化样式

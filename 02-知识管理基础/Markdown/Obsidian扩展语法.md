@@ -3,7 +3,7 @@ uid: 20230516140955
 title: Obsidian 扩展语法
 tags: []
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false
