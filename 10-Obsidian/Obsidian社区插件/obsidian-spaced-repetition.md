@@ -3,7 +3,7 @@ uid: 20230410232448
 title: Obsidian 插件：Spaced Repetition 利用遗忘曲线间隔重复复习笔记中的内容
 tags: [flashcards]
 description: Spaced Repetition
-author: Boninall
+author: Bon
 type: basic
 draft: false
 editable: false
