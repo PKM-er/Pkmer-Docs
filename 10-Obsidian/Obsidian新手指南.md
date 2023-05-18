@@ -99,12 +99,3 @@ Obsidian 是什么？是一款背靠社区生态，可以自己打造的知识�
 
 ![image.png](https://cdn.pkmer.cn/images/5cc99249b4f2439d3ec75814b9c19fc0_MD5.png!pkmer)
 
-教程及资源：
-
-- QQ 群：774176839
-- [discord官方讨论群](https://discord.com/invite/veuWUTm)
-- [obsidian最新消息推送-英文](https://www.obsidianroundup.org/)
-- [obsidian开发计划](https://trello.com/b/Psqfqp7I/obsidian-roadmap)
-- [obsidian中文论坛](https://forum-zh.obsidian.md/)
-- [obsidian英文论坛](https://forum.obsidian.md/)
-- [obsidian pkmer](https://pkmer.cn/Pkmer-Docs/10-Obsidian/Obsidian/)
