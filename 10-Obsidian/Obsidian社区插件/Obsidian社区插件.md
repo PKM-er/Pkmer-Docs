@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517225607
+modified: 20230518204733
 ---
 
 # Obsidian 社区插件
@@ -20,7 +20,8 @@ Obsidian 允许其他开发者编写第三方插件来扩展 Obsidian 的功能�
 
 默认情况下，Obsidian 将打开安全模式，以保护用户免受潜在的伤害。在安全模式下，Obsidian 不会运行任何第三方插件。
 
-请注意，第三方插件可以访问你电脑上的文件，连接互联网，甚至安装额外的程序。了解更多关于插件安全性的信息，请阅读 [[#插件安全性|此部分]]。
+> [!Tip] 提示
+> 第三方插件可以访问你电脑上的文件，连接互联网，甚至安装额外的程序。了解更多关于插件安全性的信息，请阅读 [[#插件安全性|此部分]]。
 
 为了安装第三方插件，你需要在 `设置` -> `第三方插件` -> `安全模式` 中关闭安全模式。
 
@@ -49,7 +50,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 功能增强
 
 - [[calendar]]：添加一个简单的日历视图，用于可视化日记和在不同日记间跳转。
-- [[Tray]]：增强桌面端功能
+- [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 - [[frontmatter-alias-display]]：让你在文件名下直接看到别名
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 
@@ -160,6 +161,11 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图
 - [[obsidian-enhancing-mindmap]]：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 
+### 绘图
+
+- [[obsidian-excalidraw-plugin]]：在 Obsidian 中 使用 Excalidraw 绘图
+- [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
+
 ### 视图模式
 
 这些插件跟 Obsidian 提供的多种视图模式有关，让你更加灵活的使用不同的视图模式。
@@ -180,7 +186,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐渐壮大起来的插件生态圈。这些卓越的插件不仅增强了 Obsidian 的功能，而且可以在很大程度上提高你的工作和学习效率，让你从繁琐，重复的码字过程中解脱出来。相信这些插件能够帮助你更高效、便捷地管理和利用笔记，让你的学习、工作和生活更加舒适顺畅。相信下面这些插件能帮到你：
 
-- [[template-plugin]]：可以替代核心模板插件的效率神器
+- [[templater-obsidian]]：可以替代核心模板插件的效率神器
 - [[QuickAdd]]：组合 Obsidian 里所有操作，低阶使用可可视化自动化操作，高阶使用可编写脚本实现万物互联
 - [[obsidian-pangu]]：提供了一个全新的增强型文件管理器
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
