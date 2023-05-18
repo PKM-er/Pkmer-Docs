@@ -76,3 +76,7 @@ modified: 20230515233928
 ![image.png](https://cdn.pkmer.cn/images/18c6c4a2c588b441fdcd91b360671a9e_MD5.png!pkmer)
 
 ![image.png](https://cdn.pkmer.cn/images/be3ce565d1bad9660f0dcaecc6e67ee1_MD5.png!pkmer)
+
+> [!Tip] 推荐阅读
+> - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+> - [[obsidian-frontmatter-tag-suggest]]：很好解决记忆标签和快速输入的问题，提供标签自动建议的方法，让你可以键入简单字母来快速联想出来对应的标签

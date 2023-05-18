@@ -7,8 +7,9 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230517175517
+modified: 20230517175234
 ---
+
 
 # Mermaid 语法 - 流程图
 
@@ -24,15 +25,16 @@ modified: 20230517175517
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     id
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id
 ```
+
 
 > 注意： `id` 即显示在矩形中的名称。
 
@@ -42,13 +44,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     id1[这是文本]
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1[这是文本]
 ```
 
@@ -61,13 +63,13 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart TD
+graph TD
     开始 --> 结束
 ```
 ````
 
 ```mermaid
-flowchart TD
+graph TD
     开始 --> 结束
 ```
 
@@ -75,12 +77,12 @@ flowchart TD
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     开始 --> 结束
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     开始 --> 结束
 ```
 
@@ -101,13 +103,13 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1(mermaid)
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1(mermaid)
 ```
 
@@ -115,13 +117,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     id1([mermaid])
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1([mermaid])
 ```
 
@@ -130,20 +132,20 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1[[mermaid]]
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1[[mermaid]]
 ```
 
 #### 圆柱形节点
 
 ```mermaid
-flowchart LR
+graph LR
     id1[(Database)]
 ```
 
@@ -152,13 +154,13 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1((mermaid))
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1((mermaid))
 ```
 
@@ -166,13 +168,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     id1>mermaid]
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1>mermaid]
 ```
 
@@ -182,13 +184,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     id1{mermaid}
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1{mermaid}
 ```
 
@@ -196,13 +198,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     id1{{mermaid}}
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1{{mermaid}}
 ```
 
@@ -210,13 +212,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart TD
+graph TD
     id1[/mermaid/]
 ```
 ````
 
 ```mermaid
-flowchart TD
+graph TD
     id1[/mermaid/]
 ```
 
@@ -224,13 +226,13 @@ flowchart TD
 
 ````
 ```mermaid
-flowchart TD
+graph TD
     id1[\mermaid\]
 ```
 ````
 
 ```mermaid
-flowchart TD
+graph TD
     id1[\mermaid\]
 ```
 
@@ -238,13 +240,13 @@ flowchart TD
 
 ````
 ```mermaid
-flowchart TD
+graph TD
     A[/mermaid\]
 ```
 ````
 
 ```mermaid
-flowchart TD
+graph TD
     A[/mermaid\]
 ```
 
@@ -252,13 +254,13 @@ flowchart TD
 
 ````
 ```mermaid
-flowchart TD
+graph TD
     B[\mermaid/]
 ```
 ````
 
 ```mermaid
-flowchart TD
+graph TD
     B[\mermaid/]
 ```
 
@@ -270,13 +272,13 @@ flowchart TD
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     A-->B
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A-->B
 ```
 
@@ -284,13 +286,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     A --- B
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A --- B
 ```
 
@@ -298,13 +300,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     A-- 文字 ---B
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A-- 文字 ---B
 ```
 
@@ -312,13 +314,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     A---|文字|B
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A---|文字|B
 ```
 
@@ -326,20 +328,20 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     A-->|文字|B
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A-->|文字|B
 ```
 
 或者
 
 ```mermaid
-flowchart LR
+graph LR
     A-- 文字 -->B
 ```
 
@@ -348,13 +350,13 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart LR;
+graph LR;
    A-.->B;
 ```
 ````
 
 ```mermaid
-flowchart LR;
+graph LR;
    A-.->B;
 ```
 
@@ -362,13 +364,13 @@ flowchart LR;
 
 ````
 ```mermaid
-flowchart LR
+graph LR
    A-. 文字 .-> B
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
    A-. 文字 .-> B
 ```
 
@@ -376,13 +378,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
    A ==> B
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
    A ==> B
 ```
 
@@ -390,13 +392,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
    A == 文字 ==> B
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
    A == 文字 ==> B
 ```
 
@@ -406,13 +408,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
    A -- 文字 --> B -- 文字 --> C
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
    A -- 文字 --> B -- 文字 --> C
 ```
 
@@ -420,13 +422,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
    a --> b & c--> d
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
    a --> b & c--> d
 ```
 
@@ -434,13 +436,13 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart TB
+graph TB
     A & B--> C & D
 ```
 ````
 
 ```mermaid
-flowchart TB
+graph TB
     A & B--> C & D
 ```
 
@@ -450,7 +452,7 @@ flowchart TB
 
 ````
 ```mermaid
-flowchart TB
+graph TB
     A --> C
     A --> D
     B --> C
@@ -459,7 +461,7 @@ flowchart TB
 ````
 
 ```mermaid
-flowchart TB
+graph TB
     A --> C
     A --> D
     B --> C
@@ -473,7 +475,7 @@ flowchart TB
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A --o B
     B --x C
 ```
@@ -481,7 +483,7 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A --o B
     B --x C
 ```
@@ -490,7 +492,7 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     A o--o B
     B <--> C
     C x--x D
@@ -498,7 +500,7 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A o--o B
     B <--> C
     C x--x D
@@ -512,7 +514,7 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart TD
+graph TD
     A[开始] --> B{判断?};
     B -->|Yes| C[OK];
     C --> D[重新想想];
@@ -522,7 +524,7 @@ flowchart TD
 ````
 
 ```mermaid
-flowchart TD
+graph TD
     A[开始] --> B{判断?};
     B -->|Yes| C[OK];
     C --> D[重新想想];
@@ -537,7 +539,7 @@ flowchart TD
 ````
 
 ```mermaid
-flowchart TD
+graph TD
     A[开始] --> B{判断?};
     B -- Yes --> C[OK];
     C --> D[重新想想];
@@ -547,7 +549,7 @@ flowchart TD
 ````
 
 ```mermaid
-flowchart TD
+graph TD
     A[开始] --> B{判断?};
     B -- Yes --> C[OK];
     C --> D[重新想想];
@@ -572,13 +574,13 @@ flowchart TD
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     id1["这是 (text) 文本"]
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1["这是 (text) 文本"]
 ```
 
@@ -588,7 +590,7 @@ flowchart LR
 
 ```
 ```mermaid
-flowchart LR
+graph LR
     A["一个双引号:#quot;"] -->B["一个十进制数字表示的符号:#9829;"]
 ```
 
@@ -596,7 +598,7 @@ flowchart LR
 
 
 ```mermaid
-flowchart LR
+graph LR
     A["一个双引号:#quot;"] -->B["一个十进制数字表示的符号:#9829;"]
 ```
 
@@ -622,7 +624,7 @@ end
 
 ````
 ```mermaid
-flowchart TB
+graph TB
     c1-->a2
     subgraph A
     a1-->a2
@@ -637,7 +639,7 @@ flowchart TB
 ````
 
 ```mermaid
-flowchart TB
+graph TB
     c1-->a2
     subgraph A
     a1-->a2
@@ -654,7 +656,7 @@ flowchart TB
 
 ````
 ```mermaid
-flowchart TB
+graph TB
     c1-->a2
     subgraph ide1 [A]
     a1-->a2
@@ -663,7 +665,7 @@ flowchart TB
 ````
 
 ```mermaid
-flowchart TB
+graph TB
     c1-->a2
     subgraph ide1 [A]
     a1-->a2
@@ -676,7 +678,7 @@ flowchart TB
 
 ````
 ```mermaid
-flowchart TB
+graph TB
     c1-->a2
     subgraph A
     a1-->a2
@@ -694,7 +696,7 @@ flowchart TB
 ````
 
 ```mermaid
-flowchart TB
+graph TB
     c1-->a2
     subgraph A
     a1-->a2
@@ -716,7 +718,7 @@ flowchart TB
 
 ````
 ```mermaid
-flowchart LR
+graph LR
   subgraph TOP
     direction TB
     subgraph B1
@@ -734,7 +736,7 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart LR
+graph LR
   subgraph TOP
     direction TB
     subgraph B1
@@ -758,7 +760,7 @@ flowchart LR
 
 ````
 ```mermaid
-flowchart LR;
+graph LR;
     A-->B;
     B-->C;
     C-->D;
@@ -771,7 +773,7 @@ flowchart LR;
 ````
 
 ```mermaid
-flowchart LR;
+graph LR;
     A-->B;
     B-->C;
     C-->D;
@@ -788,14 +790,14 @@ flowchart LR;
 
 ````
 ```mermaid
-flowchart LR
+graph LR
 %% this is a comment A -- text --> B{node}
    A -- text --> B -- text2 --> C
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
 %% this is a comment A -- text --> B{node}
    A -- text --> B -- text2 --> C
 ```
@@ -824,7 +826,7 @@ linkStyle 3 stroke:#ff3,stroke-width:4px,color:red;
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     id1(开始)-->id2(结束)
     style id1 fill:#f9f,stroke:#333,stroke-width:4px
     style id2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
@@ -832,7 +834,7 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     id1(开始)-->id2(结束)
     style id1 fill:#f9f,stroke:#333,stroke-width:4px
     style id2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
@@ -876,14 +878,14 @@ class nodeId1,nodeId2 className;
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     A:::someclass --> B
     classDef someclass fill:#f96;
 ```
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A:::someclass --> B
     classDef someclass fill:#f96;
 ```
@@ -911,7 +913,7 @@ classDef default fill:#f9f,stroke:#333,stroke-width:4px;
 
 ````
 ```mermaid
-flowchart LR
+graph LR
     A[Hard edge] -->|Link text| B(Round edge)
     B --> C{Decision}
     C -->|One| D[Result one]
@@ -920,7 +922,7 @@ flowchart LR
 ````
 
 ```mermaid
-flowchart LR
+graph LR
     A[Hard edge] -->|Link text| B(Round edge)
     B --> C{Decision}
     C -->|One| D[Result one]

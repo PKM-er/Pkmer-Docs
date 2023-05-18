@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230517230330
 ---
 
 # Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
@@ -80,6 +80,5 @@ modified: 20230515233930
 - 每一栏后面都要跟一条结束语句<kbd>=== end-column ===</kbd>
 - 最后一栏内容结束时没有此<kbd>=== end-column ===</kbd>语句，而是跟此<kbd>=== multi-column-end</kbd>语句
 
-> [!提醒]
-
+> [!Tip] 提示
 > 这个方法，会引入一个插件，如果你担心插件的稳定性或是希望更加清爽，那么可以参考别的方法
