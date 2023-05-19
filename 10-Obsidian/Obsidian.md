@@ -7,7 +7,7 @@ author: windilycloud
 type: awesome
 draft: false
 editable: false
-modified: 20230518144615
+modified: 20230519173028
 ---
 
 # Obsidian
@@ -19,18 +19,17 @@ Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件�
 
  Obsidian 并不预设用户应该怎样使用软件，软件本体的功能有限，但社区插件提供的功能无限，你可以在其中探寻符合你使用习惯和思维方式的最佳实践。同 Obsidian 的思想一脉相承，我们也提供针对不同人群的入门指南，本文只是鸟瞰整个 Obsidian 功能生态。
 
-若以功能提供的方式进行划分，Obsidian可分为：
+若以功能提供的方式进行划分，Obsidian 可分为：
 
 - 本体功能：提供基础功能，如窗口管理，状态栏，基本编辑器，基本显示和交互，库的创建等，基础功能必选，不可移除。
 - 核心插件功能：在基础功能之上由官方维护的功能，如大纲，书签，命令面板，随机漫游等，这些都可以供用户开关，但不可移除。
 - 社区插件功能：在基础功能和核心插件之上构建的，由社区开发者维护的功能。这些功能能随意搭配组合使用，可供用户开关，可移除。
-- 主题样式定制：在社区有160多款由社区爱好者定制的主题，许多主题配合主题类插件能实现单主题数百种样式调整。
-- CSS片段样式定制：区别于主题，CSS片段针对某一个样式进行调整。需要CSS基础，CSS并不是门编程语言，而是一种修改界面样式的配置文件。
-
+- 主题样式定制：在社区有 160 多款由社区爱好者定制的主题，许多主题配合主题类插件能实现单主题数百种样式调整。
+- CSS 片段样式定制：区别于主题，CSS 片段针对某一个样式进行调整。需要 CSS 基础，CSS 并不是门编程语言，而是一种修改界面样式的配置文件。
 
 ## 社区教程和资源
 
-以下资源均是免费的 ，大家可以放心食用。
+以下资源均是免费的 ，大家可以放心食用。国内成体系的资源相对较少，国外非常非常多，在 [[Obsidian资源合集]] 里可以查看更多，下面只列出个人觉得比较适合新手入门的资源。
 
 ### 官方资源
 
@@ -47,13 +46,16 @@ Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件�
 
 ### 野生资源
 
-- [Pkmer Obsidian](https://pkmer.cn/Pkmer-Docs/10-Obsidian/Obsidian/)：国内社区爱好者组建的知识管理平台，用于收集、汇总、分享和展示最有价值的知识管理信息，包括教程，工具使用和用法，工作流程，心得体会等。
+- [Pkmer Obsidian](https://pkmer.cn/Pkmer-Docs/10-Obsidian/Obsidian/)：国内 Obsidian 爱好者组建的知识管理平台，用于收集、汇总、分享和展示最有价值的知识管理信息，包括教程，工具使用和用法，工作流程，心得体会等。
 - [浙江工商大学Obsidian讲座](https://www.bilibili.com/video/BV1Ag411v7o1)：详细阐述了大部分 Obsidian 的基础功能，并展示了和 Zotero 结合的使用方式。
 - [简睿学堂](https://space.bilibili.com/1119961064/video)：长期活跃和更新的简睿，分享了大量 Obsidian 初级和高级的用法，非常值得探索。
 - [Obsidian软件基础操作教程](https://www.bilibili.com/video/BV1qD4y1m7nv/)：由社区里熟知的蚕子大佬录制的，他为 Obsidian 开发了许许多多非常人性化的工具，如数十个 Quicker 动作，Obsidian 插件翻译工具，增强编辑工具等。由于 Obsidian 本身是纯文本，所以在今天，那些内容大都没有过时。
-- [笔记软件 Obsidian 使用教程 & 学习资源汇总：从入门到精通](https://zhuanlan.zhihu.com/p/619960525)：搜集了大量不同类型的Obsidian资源类型，部分已经过时，瑕不掩瑜。
+- [笔记软件 Obsidian 使用教程 & 学习资源汇总：从入门到精通](https://zhuanlan.zhihu.com/p/619960525)：搜集了大量不同类型的 Obsidian 资源类型，部分已经过时，瑕不掩瑜。
+- [找笔记方便、写作又给力的知识库，我是这么搭建出来的](https://sspai.com/post/77144)：一篇搭建笔记系统反响比较好的文章
 - [Obsidian周报-英文](https://www.obsidianroundup.org/)：由社区成员 Eleanorkonik 自发建立的 Obsidian 社区周报，总结和归纳最近一周在论坛，Discord 讨论和发布的最有价值的信息。同时也组织一些大佬做分享。
+- [Obsidian Hub-英文](https://publish.obsidian.md/hub/00+-+Start+here)：国外 Obsidian 爱好者组建的知识管理平台，共建关于 Obsidian 的各种用法和技巧，分享使用心得，资源非常丰富。
 - [Obsidian Observer-英文](https://medium.com/obsidian-observer)：由国外知名的工具爱好者 TftHacker 建立的 Obsidian 爱好者中心，分享大量关于 Obsidian 的使用和技巧。
+- [How to Take Smart Notes in Obsidian-英文](https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian)：如何做笔记，针对《How to take smart notes》这本书的实践
 
 ## Obsidian 基本使用
 
@@ -324,17 +326,17 @@ Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些�
 
 定制外观有几种方式，其难度依次上升：
 
-1. 使用主题：在100多个社区主题中，找到喜欢的主题，直接下载即可
-2. 使用[[obsidian-style-settings]]：该插件需要主题开发者做了相应适配，适配后可通过该插件调整主题样式
-3. 使用社区的CSS片段：在社区里看到喜欢的CSS片段，直接放在Snippets文件夹里就行了
-4. 自定义CSS片段：自己学点CSS，能立刻修改样式做成CSS片段使用
+1. 使用主题：在 100 多个社区主题中，找到喜欢的主题，直接下载即可
+2. 使用 [[obsidian-style-settings]]：该插件需要主题开发者做了相应适配，适配后可通过该插件调整主题样式
+3. 使用社区的 CSS 片段：在社区里看到喜欢的 CSS 片段，直接放在 Snippets 文件夹里就行了
+4. 自定义 CSS 片段：自己学点 CSS，能立刻修改样式做成 CSS 片段使用
 
-除了[[Obsidian优秀外观分享]]，我们还搜集了一些CSS片段，大家可酌情使用：
+除了 [[Obsidian优秀外观分享]]，我们还搜集了一些 CSS 片段，大家可酌情使用：
 
 - [[编辑器高亮格式样式]]：修改高亮语法的样式
 - [[编辑模式下当前行高亮]]：当前行高亮
 - [[网址前自动加图标]]：给链接添加图标
 - [[文件浏览器样式]]：给文件夹添加对应的图标
-- [[calendar 插件的样式修改]]：修改calendar插件的样式
-- [[Callout 样式]]：修改Callout的样式
+- [[calendar 插件的样式修改]]：修改 calendar 插件的样式
+- [[Callout 样式]]：修改 Callout 的样式
 - [[table 样式]]：修改表格的样式
