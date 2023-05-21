@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230521150913
 ---
 
 # Obsidian 插件：Paste URL into selection 快速给文字添加链接
@@ -31,7 +31,7 @@ Paste URL into selection 解决了快速给文字添加链接的问题，使用 
 
 ## 使用
 
-- 为文本添加链接
+- 为选中的文本添加链接
 	- 选中文本后，使用 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。
 
 >[!Tip] 提示
