@@ -1,12 +1,13 @@
 ---
 uid: 20230329102645
 title: O_O 活动（Obsidian October）
+tags: 
 description: 
-author: 
+author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230401230259
+modified: 20230517142424
 aliases: []
 share:
 ---
@@ -82,7 +83,7 @@ share:
 - `@maotong06` 开发的 [Paste As Html](https://github.com/maotong06/obsidian-paste-as-html-plugin) 可以让用户将 HTML 内容复制粘贴，且保持原来的 css 风格；
 - `@ecustic` 开发的 [文件颜色](https://github.com/ecustic/obsidian-file-color) 让你更容易设置文件树中的文件夹和文件颜色；
 - `@Boninall` 开发的 [Canvas Presentation](https://github.com/Quorafind/Obsidian-Canvas-Presentation) 让你可以在 Canvas 中按顺序展示卡片以及卡片组；
-- `@nguyenvanduocit` 开发的 [Open Gate](https://github.com/nguyenvanduocit/obisdian-open-gate) 使得你更方便地嵌入 iframe 不可以嵌入的网站，类似 Custom Frames 插件；
+- `@nguyenvanduocit` 开发的 [Open Gate](https://github.com/nguyenvanduocit/obsidian-open-gate) 使得你更方便地嵌入 iframe 不可以嵌入的网站，类似 Custom Frames 插件；
 - `@janschlatter` 开发的 [Historical Query](https://github.com/janschlatter/ndb-obsidian) 使搜索和插入来自 deutsche-Biographie.de 的传记数据更加容易；
 - `@MatthewAlner` 开发的 [Toggle Case](https://github.com/MatthewAlner/obsidian-toggle-case) 使你更容易切换大小写，类似于 [Text Format](https://github.com/Benature/obsidian-text-format)；
 - `@microtower00` 开发的 [AI 图像](https://github.com/microtower00/obsidian-ai-images) 使用 OpenAI API 密钥，允许你在 Obsidian 界面中使用 AI 图片的生成；

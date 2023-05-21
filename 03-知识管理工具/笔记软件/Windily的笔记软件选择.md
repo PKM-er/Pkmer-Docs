@@ -99,7 +99,7 @@ modified: 20230503232738
 - 输入效率：输入效率无疑是键盘遥遥领先于鼠标，毕竟键盘键比鼠标多。即使采用 quicker 这样的轮盘操作方式，在组合性上和快捷性上也是不如键盘的。下面是采用 latex-suite 纯文本插件输入的一段 latex 公式，原速播放，可以和用鼠标点 latex 符号相比，其输入效率远远超过鼠标。这些都是纯文本编辑器的标配，vim，emacs，vscode，Obsidian 都有，富文本编辑器理论上能实现，但我至今没看到过。
 - 笔记可视化：可能还有人觉得纯文本和富文本的区别在于笔记可视化，即 Notion 的多维表格，挂件，排版等。但这依然和纯文本富文本没多大关系。可以看 [[Obsidian优秀外观分享]]]，在 Obsidian 里通过插件，可以实现任意复杂度的排版，然而这玩意儿是不被推崇的。
 
-![demo.gif](https://cdn.pkmer.cn/images/demo.gif)
+![demo.gif](https://cdn.pkmer.cn/images/demo.gif!pkmer)
 
 ==纯文本和富文本的唯一区别我认为在于：编辑即文本==：纯文本的数据存储就是纯文本的，因此在复杂排版，可视化上，不可避免的引入一些内容外的字符。markdown 将这些字符限制在一个很狭小的范围，格式不要太多，够用就好。这就是格式和内容分离的初衷，也是很多纯文本笔记软件的设计哲学。富文本把内容之外的字符隐藏，不代表消失了，它会在该出现的时候出现，并且困扰你。纯文本则时时刻刻提醒你，适度引入格式字符。
 
@@ -133,7 +133,7 @@ modified: 20230503232738
 
 1. 社区分享：教程，笔记，讨论等
 2. 软件稳定：用的人越多，跑路越轻松，因为总有大牛写脚本，写软件帮人跑路，比如这个 [heptabase完美导出](https://www.bilibili.com/video/BV1R8411p7S1/)。甚至可能的话，会有大牛会接替维护这个软件或者重新开发该软件。
-3. 功能强大：用的人越多，有着不同需求的人也越多，对于高扩展性的软件，总有一些无私风险的人 ，为社区填砖加瓦。即使这些需求非常离谱和看起来没啥卵用。比如在笔记软件里玩游戏 [ObsiDOOM)](https://github.com/twibiral/ObsiDOOM) ，五秒不打字，就把笔记删了 [dangerzone-writing-plugin](https://github.com/akaalias/dangerzone-writing-plugin)
+3. 功能强大：用的人越多，有着不同需求的人也越多，对于高扩展性的软件，总有一些无私风险的人 ，为社区填砖加瓦。即使这些需求非常离谱和看起来没啥卵用。比如在笔记软件里玩游戏 [ObsiDOOM](https://github.com/twibiral/ObsiDOOM) ，五秒不打字，就把笔记删了 [dangerzone-writing-plugin](https://github.com/akaalias/dangerzone-writing-plugin)
 
 对于社区生态来说，没办法给出一个准确排名，但按照使用人数及热度来说，好的社区生态大致如下，排名部分先后：
 

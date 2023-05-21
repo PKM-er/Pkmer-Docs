@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Find unlinked files（快速定位没有链接的文件）
-description: 
-tags: 
+title: Obsidian 插件：Find unlinked files 快速查找没有链接的文件
+tags: [Obsidian, 插件, 文件管理, 失效链接]
+description: Obsidian 插件：Find unlinked files 快速查找没有链接的文件
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230516194914
 ---
 
-# Obsidian 插件：Find unlinked files（快速定位没有链接的文件）
+# Obsidian 插件：Find unlinked files 快速查找没有链接的文件
 
 ## 概述
 

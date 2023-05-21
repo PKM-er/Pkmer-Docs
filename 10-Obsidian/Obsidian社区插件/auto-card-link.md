@@ -1,12 +1,13 @@
 ---
 uid: 20230505140611
 title: Obsidian 插件：Auto Card Link 将网页链接自动转化为卡片样式
-description: 
-author: 
+tags: [Obsidian, 插件, 链接, 美化, 卡片样式]
+description: Obsidian 插件自动将链接变成卡片样式
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230505145325
+modified: 20230516193235
 ---
 
 # Obsidian 插件：Auto Card Link 将网页链接自动转化为卡片样式
@@ -18,12 +19,12 @@ modified: 20230505145325
 > [!Note] 插件名片
 > - 插件名称：Auto Card Link
 > - 插件作者：Nekoshita Yuki
-> - 插件说明：根据你设定的规则动态高亮显示文本
+> - 插件说明：自动将链接变成卡片样式
 > - 插件项目地址：[点我跳转](https://github.com/nekoshita/obsidian-auto-card-link)
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230505141723.png)
+![image.png](https://cdn.pkmer.cn/images/20230505141723.png!pkmer)
 
 - 自动从网页 URL 获取数据，并将其作为卡片样式放入到笔记中。
 
@@ -73,7 +74,11 @@ image: https://obsidian.md/images/banner.png
 - Enhance Default Paste（增强默认粘贴功能）
 	- 当粘贴命时，自动把链接粘贴转化为卡片样式。
 
->[!Tip] 提示
->- 类似插件还有：[[obsidian-link-embed]]
->- 类似插件还有：[[obsidian-rich-links]]
->- 类似插件还有：[[simple-embeds]]
+> [!Tip] 推荐阅读
+> - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
+> - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
+> - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
+> - [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[link-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
+> - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式

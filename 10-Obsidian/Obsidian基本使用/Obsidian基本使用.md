@@ -1,12 +1,13 @@
 ---
 uid: 20230329170612
 title: Obsidian 基本使用
+tags: []
 description: 
-author: 
+author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20230401230258
+modified: 20230517230015
 ---
 
 # Obsidian 基本使用

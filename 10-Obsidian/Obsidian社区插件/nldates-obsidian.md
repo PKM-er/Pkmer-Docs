@@ -1,16 +1,16 @@
 ---
 uid: 20230428232851
-title: Natural Language Dates 使用自然语言来记录日期
-description: 
-author: 
+title: Obsidian 插件：Natural Language Dates 使用自然语言来插入日期
+tags: [Obsidian, 插件, 日期, 编辑, 效率]
+description: Obsidian 插件：Natural Language Dates 使用自然语言来插入日期
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230502001449
-public: yes
+modified: 20230515233930
 ---
 
-# Natural Language Dates 使用自然语言来记录日期
+# Obsidian 插件：Natural Language Dates 使用自然语言来插入日期
 
 ## 概述
 
@@ -37,7 +37,7 @@ public: yes
 
 输入 `@today` 并按 `Enter` 键，将自动展开为当前日期。同时按 `Shift` 键可以将输入文本保留为别名（例如 `@today`→`[[2021-12-27 | today]]`）。
 
-![116645561-1d565700-a944-11eb-9166-f55e72dc65bc.gif](https://cdn.pkmer.cn/images/a7607c768ef450c1973411cf249a3aab_MD5.gif)
+![116645561-1d565700-a944-11eb-9166-f55e72dc65bc.gif](https://cdn.pkmer.cn/images/a7607c768ef450c1973411cf249a3aab_MD5.gif!pkmer)
 
 ### 设置
 
@@ -47,7 +47,7 @@ public: yes
 | ----------------------------------- | ------------------------------------ | -------- |
 | 是否开启（Enable date autosuggest） | 全局开关，用于启用或禁用自动建议     | 默认开启 |
 | 触发符号（Trigger phrase）          | 触发自动建议所需的字符               | @        |
-| 是否插入链接（Insert as link?）     | 将日期插入为 Wiki 链接（即 [[<date>]]） | Yes      |
+| 是否插入链接（Insert as link?）     | 将日期插入为 Wiki 链接（即 `[[<date>]]`） | Yes      |
 
 ### 格式
 

@@ -1,12 +1,13 @@
 ---
 uid: 20230429230727
 title: Obsidian 插件：Settings Search 帮助快捷定位和查询设置项
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Settings Search 帮助快捷定位和查询设置项
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230430000712
+modified: 20230515233928
 ---
 
 # Obsidian 插件：Settings Search 帮助快捷定位和查询设置项
@@ -25,7 +26,7 @@ Settings Search 提供了在设置页面进行搜索插件和设置选项的功�
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230429232935.png)
+![image.png](https://cdn.pkmer.cn/images/20230429232935.png!pkmer)
 
 ## 使用
 

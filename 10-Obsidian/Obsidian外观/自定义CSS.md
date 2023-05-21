@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
 title: 自定义 CSS
+tags: []
 description: 
-tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504213041
-public: yes
+modified: 20230516121218
 ---
 
 # 自定义 CSS
@@ -20,21 +19,21 @@ public: yes
 
 按下后会出现类似下图的样式。不用被这些代码吓住，这其实就是当前页面的 css 代码。
 
-![image.png](https://cdn.pkmer.cn/images/202305042054692.png)
+![image.png](https://cdn.pkmer.cn/images/202305042054692.png!pkmer)
 
 比如这里你想修改标题颜色只需要点击这个箭头
 
-![image.png](https://cdn.pkmer.cn/images/202305042055323.png)
+![image.png](https://cdn.pkmer.cn/images/202305042055323.png!pkmer)
 
 然后把鼠标指向要修改的元素，这里指向标题
 
-![image.png](https://cdn.pkmer.cn/images/202305042057355.png)
+![image.png](https://cdn.pkmer.cn/images/202305042057355.png!pkmer)
 
 这里的 `span.cm-header.cm-header-1` 就是标题对应的 css 选择器。
 
 同时左侧调试窗口的内容也变成了 标题对应的 css 设置。
 
-![image.png](https://cdn.pkmer.cn/images/202305042100564.png)
+![image.png](https://cdn.pkmer.cn/images/202305042100564.png!pkmer)
 
 在这里我们发现一条规则 `.HyperMD-header-1, .inline-title[data-level='1'], .HyperMD-list-line .cm-header-1` 里面包含了 .cm-header-1 就是我们要修改的选择器。
 
@@ -53,24 +52,49 @@ public: yes
 
 通过字母含义不难看出 color 就是负责颜色的。 这里的值为 `var(--h1-color)` 其实用了 css 的高级写法，我们先不用管它怎么写，双击 `var(--h1-color)` 这个值，删除后浏览器预设一些颜色值，可供选择，这里的颜色可以输入名称，也支持十六进制色值。
 
-![image.png](https://cdn.pkmer.cn/images/202305042108839.png)
+![image.png](https://cdn.pkmer.cn/images/202305042108839.png!pkmer)
 
 设置好颜色后，会立马在 Obsidian 看到修改后的效果，但这个只是临时效果，重启后就消失了，要永久生效，需要把规则保存为 css 代码片段。
 
 对这条 css 右键 - 复制规则，即可把 css 片段内容复制到剪贴板中。
 
-![image.png](https://cdn.pkmer.cn/images/202305042111606.png)
+![image.png](https://cdn.pkmer.cn/images/202305042111606.png!pkmer)
 
 `
 
 新建一个 css 文件 比如 my.css 把复制的内容粘贴进去，保存即可。
 
-然后参考这里 [[Obsidian的 css代码片段|Obsidian css代码片段]] 启用 my.css 片段 就可以看到效果了。
+然后参考这里 [[Obsidian的CSS代码片段|Obsidian css代码片段]] 启用 my.css 片段 就可以看到效果了。
 
 ## 延伸阅读
 
 修改样式目前有下面几种途径
+
 - 使用社区主题，根据主题带的设置项调整
 - 根据上面教程 自己找到 css 选择器，自己写 css 片段
 - 找到别人分享的 css 片段的内容，复制到自己的片段中
 - 通过 style setting 插件修改，建议安装 [[obsidian-style-settings]] 并使用默认主题片段 ![[obsidian-style-settings#^992e4d]]
+
+## CSS 修改优秀范例
+
+### 编辑器
+
+- [[编辑模式下当前行高亮]]
+- [[编辑器高亮格式样式]]
+- [[Callout 样式]]
+
+### 链接
+
+- [[网址前自动加图标]]
+
+### 文件管理器
+
+- [[文件浏览器样式]]
+
+### 表格样式
+
+- [[table 样式]]
+
+### 插件样式
+
+- [[calendar 插件的样式修改]]

@@ -1,12 +1,13 @@
 ---
 uid: 20230430003417
 title: Obsidian 插件：Sortable 为表格提供简单的排序功能
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Sortable 为表格提供简单的排序功能
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230430004721
+modified: 20230516120333
 ---
 
 # Obsidian 插件：Sortable 为表格提供简单的排序功能
@@ -23,12 +24,13 @@ modified: 20230430004721
 
 ## 效果&特性
 
-- 第一次点击：升序
-- 第二次点击：降序
-- 第三次点击：恢复默认顺序
+![GIF 2023-5-7 15-25-04.gif](https://cdn.pkmer.cn/images/GIF%202023-5-7%2015-25-04.gif!pkmer)
 
 ## 使用
 
+- 第一次点击：升序
+- 第二次点击：降序
+- 第三次点击：恢复默认顺序
 - 插件本身不包含任何设置项。
 
 ### 支持排序的数据类型
@@ -37,3 +39,7 @@ modified: 20230430004721
 - 自定义比较函数是规划路线的一部分（请参见此 [issue](https://github.com/alexandru-dinu/obsidian-sortable/issues/12)
 - 不会修改 Markdown 源代码。通过重新排列表格行（即 tr 元素）进行排序。
 - 没有依赖项，不需要你额外再去下载或者安装其他插件。
+
+>[!Tip] 关联推荐
+>- [[table-editor-obsidian]]：改进了表格导航、格式和操作
+>- [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。

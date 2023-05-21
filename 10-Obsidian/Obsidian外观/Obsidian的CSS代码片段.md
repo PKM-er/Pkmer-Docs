@@ -1,18 +1,17 @@
 ---
 uid: 20230329145808
-title: Obsidian的 css代码片段
+title: Obsidian 的 CSS 代码片段
+tags: []
 description: 
-tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504203216
-aliases: Obsidian css代码片段
-public: yes
+modified: 20230516155810
+aliases: [Obsidian css代码片段]
 ---
 
-# Obsidian 的 css 代码片段
+# Obsidian 的 CSS 代码片段
 
 Obsidian 的 Snippets
 
@@ -28,7 +27,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 在 Obsidian 中的 CSS snippets 都是以.css 的档案格式储存在特定的文件夹。如果你有将 CSS snippets 放到该文件夹，就会在 Obsidian 显示开关。
 
-![Pasted image 20230126215854](https://cdn.pkmer.cn/images/2082fd7f6036cd4da2572868af81b729_MD5.png)
+![Pasted image 20230126215854](https://cdn.pkmer.cn/images/2082fd7f6036cd4da2572868af81b729_MD5.png!pkmer)
 
 ## 使用
 

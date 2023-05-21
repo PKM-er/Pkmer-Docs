@@ -1,15 +1,16 @@
 ---
 uid: 20230430235610
-title: supercharged-links-obsidian
-description: 
+title: Obsidian 插件：Supercharged Links
+tags: [hide]
+description: Supercharged Links 可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504234029
+modified: 20230516193108
 ---
 
-# supercharged-links-obsidian
+# Obsidian 插件：Supercharged Links
 
 > [!Note] 插件名片
 > - 插件名称：Supercharged Links
@@ -53,29 +54,29 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 首先，需要在顶部的“Target Attributes for Styling”选项中设置插件要为您的样式包含哪些 yaml 字段。我们这里填写 status
 
-![image.png](https://cdn.pkmer.cn/images/202305020905351.png)
+![image.png](https://cdn.pkmer.cn/images/202305020905351.png!pkmer)
 
 然后 在 new selecter 中设置 `attribute value` 并指向 status 这个属性名称
 
-![image.png](https://cdn.pkmer.cn/images/202305020908307.png)
+![image.png](https://cdn.pkmer.cn/images/202305020908307.png!pkmer)
 
 通过 [[obsidian-style-settings]] 插件就可以发现针对这个属性的样式设置，比如这里增加一个表情符号
 
-![image.png](https://cdn.pkmer.cn/images/202305020910240.png)
+![image.png](https://cdn.pkmer.cn/images/202305020910240.png!pkmer)
 
 然后就发现这个笔记名称前面已经多了一个表情符号，可以更醒目的识别这个笔记。
 
-![image.png](https://cdn.pkmer.cn/images/202305020912386.png)
+![image.png](https://cdn.pkmer.cn/images/202305020912386.png!pkmer)
 
 同样道理，可以对包含某个标签的笔记进行样式设计比如查找带有“#person”标签的笔记。
 
 在设置中的样式标题下，创建一个新的选择器。在选择器类型下，选择“标签”，然后在下方添加“人”:
 
- ![image.png](https://cdn.pkmer.cn/images/202305020914769.png)
+ ![image.png](https://cdn.pkmer.cn/images/202305020914769.png!pkmer)
 
  然后通过 style setting 就可以对这个标签进行设置，比如设置背景色和添加一个电话符号
 
-![image.png](https://cdn.pkmer.cn/images/202305020914497.png)
+![image.png](https://cdn.pkmer.cn/images/202305020914497.png!pkmer)
 
 ## 高级使用
 
@@ -123,7 +124,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 }
 ``` 
 
-![image.png](https://cdn.pkmer.cn/images/202305020934915.png)
+![image.png](https://cdn.pkmer.cn/images/202305020934915.png!pkmer)
 
 当笔记包含 `status` 属性 时，可以用类似标签的蓝色圆角矩形突出显示链接:
 
@@ -136,7 +137,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 }
  ``` 
 
-![image.png](https://cdn.pkmer.cn/images/202305020933246.png)
+![image.png](https://cdn.pkmer.cn/images/202305020933246.png!pkmer)
 
 如果要鼠标悬停时显示所有 `status` 属性的值:
 
@@ -146,7 +147,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 }
  ``` 
 
-![image.png](https://cdn.pkmer.cn/images/202305020933239.png)
+![image.png](https://cdn.pkmer.cn/images/202305020933239.png!pkmer)
 
 如果对包含 #hide 链接的笔记进行隐藏:
 
@@ -179,4 +180,11 @@ a.internal-link[data-link-tags *="hide"]，
 - Dataview (inline fields) 
 - Omnisearch
 
-
+> [!Tip] 推荐阅读
+> - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
+> - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
+> - [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[link-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
+> - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
+> - [[auto-card-link]]：根据你设定的规则动态高亮显示文本

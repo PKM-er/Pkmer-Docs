@@ -1,12 +1,13 @@
 ---
 uid: 20230329102645
 title: 个人事项
+tags: []
 description: 
-author: 
+author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230401230259
+modified: 20230517142432
 ---
 
 [🌠 Canvas 与新课程和样本库的使用案例](https://www.obsidianroundup.org/2023-01-14/?ref=obsidian-roundup-newsletter)

@@ -1,12 +1,13 @@
 ---
 uid: 20230504230750
 title: Obsidian 插件：Highlightr
-description: 
-author: 
+tags: [Obsidian, 插件, 高亮, 可视化编辑]
+description: Obsidian 插件：Highlightr 将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504233222
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Highlightr
@@ -29,7 +30,7 @@ Highlightr 就是以此目诞生的，将小而美的高亮菜单添加到了 Ob
 
 ### 高亮样式
 
-![image.png](https://cdn.pkmer.cn/images/20230504232528.png)
+![image.png](https://cdn.pkmer.cn/images/20230504232528.png!pkmer)
 
 - 插件默认支持多种高亮样式：Lowlight、Floating、Readlistic、Rounded。
 

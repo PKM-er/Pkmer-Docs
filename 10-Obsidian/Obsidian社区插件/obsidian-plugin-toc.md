@@ -1,12 +1,13 @@
 ---
 uid: 20230428142959
 title: Obsidian 插件：Table of content 为你的笔记创建笔记目录
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Table of content 为你的笔记创建笔记目录
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Table of content 为你的笔记创建笔记目录
@@ -27,13 +28,13 @@ modified: 20230429181108
 
 ## 效果&特性
 
-![example.gif](https://cdn.pkmer.cn/images/18f61d9dfd67da3a58e82f3a6aa20bea_MD5.gif)
+![example.gif](https://cdn.pkmer.cn/images/18f61d9dfd67da3a58e82f3a6aa20bea_MD5.gif!pkmer)
 
 ## 使用方法
 
 - 使用 Ctrl/Cmd + P，呼出命令面板。
 - 输入 Tabel of Content
-![image.png](https://cdn.pkmer.cn/images/caa1621d5c5ea2ac9533b123f9349efb_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/caa1621d5c5ea2ac9533b123f9349efb_MD5.png!pkmer)
 - `Table of Contents：Create table of contents` ：生成当前标题等级下的目录。
 - `Table of Contents：Create table of contents for next heading level`：生成当前标题等级的下一级标题的目录 ：
 
@@ -56,3 +57,8 @@ ol li:before {
   padding-right: 5px;
 }
 ```
+
+> [!Tip] 推荐阅读
+> -  [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
+> -   [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
+> -  [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲

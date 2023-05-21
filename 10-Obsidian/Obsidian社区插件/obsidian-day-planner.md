@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Day Planner
-description: 
-tags: 
+tags: [Obsidian, 插件, 任务, 时间管理]
+description: Obsidian 插件：Day Planner 用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
-public: yes
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Day Planner
@@ -23,7 +22,7 @@ public: yes
 
 ## 特性&效果
 
-![Pasted image 20230126212024](https://cdn.pkmer.cn/images/19aa4a1580b5aff38a7fbcc8ecfc1ffe_MD5.png)
+![Pasted image 20230126212024](https://cdn.pkmer.cn/images/19aa4a1580b5aff38a7fbcc8ecfc1ffe_MD5.png!pkmer)
 
 ## 使用方法
 

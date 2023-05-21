@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Advanced Tables
-description: 
-tags: 
+tags: []
+description: Obsidian 插件：Advanced Tables 改进了表格导航、格式和操作
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230505180048
+modified: 20230516120327
 ---
 
 # Obsidian 插件：Advanced Tables
@@ -22,9 +22,9 @@ modified: 20230505180048
 
 ## 效果&特性
 
-该插件将markdown繁杂的围栏式语法，通过自动补全的方式使得只需专注于内容输入 ，而无需操心语法。整个表格输入过程中，仅由第一个`|`是手动输入的。该插件配合[[editing-toolbar]]能起到可视化编辑表格的效果，不用使用快捷键。
+该插件将 markdown 繁杂的围栏式语法，通过自动补全的方式使得只需专注于内容输入 ，而无需操心语法。整个表格输入过程中，仅由第一个 `|` 是手动输入的。该插件配合 [[editing-toolbar]] 能起到可视化编辑表格的效果，不用使用快捷键。
 
-![7123f2c356ed6041188c3fde48f0fb66](https://cdn.pkmer.cn/images/dbf3ba55896f464ccb4471bd297c7051_MD5.gif)
+![7123f2c356ed6041188c3fde48f0fb66](https://cdn.pkmer.cn/images/dbf3ba55896f464ccb4471bd297c7051_MD5.gif!pkmer)
 
 - 自动格式化表格
 - Excel 样式的表格导航 （使用  `Tab`  和  `Enter`  在行和列之间导航）
@@ -61,13 +61,11 @@ modified: 20230505180048
 | Enter            | 切换到下一行             |
 | Ctrl + Shift + D | 在侧边栏打开表格控制面板 |
 
-
-
 ### 表格控制面板
 
 插件本身支持图形化的操作，可以通过面板对表格进行控制。打开控制面板的快捷键为：`Ctrl` + `Shift` + `D`。 控制面板如下图所示。
 
-![Pasted image 20230127122132](https://cdn.pkmer.cn/images/b4220a330fe4a53b1f2ded1e516a9ba6_MD5.png)
+![Pasted image 20230127122132](https://cdn.pkmer.cn/images/b4220a330fe4a53b1f2ded1e516a9ba6_MD5.png!pkmer)
 
 制面板上提供了表格操作的快捷方式。从图形可以很容易推测出每个图标对应的操作。当鼠标位于图标上方时还有提示消息，告知用户该图标的功能。
 
@@ -325,8 +323,8 @@ modified: 20230505180048
 
 函数的不同构建块可以嵌套在一起，只要它们的 arity 匹配。例如，`sum` 的输出可以用作条件操作的输入。以下是一些有效嵌套的示例：
 
--   `<!-- TBLFM: @>=sum(@3..@4)+@3$1 -->` - 将第三行到第四行相加，再加上第三行第四列的值填到最后一行
--   `<!-- TBLFM: @3$3=if(@2$4+@2$5==@2$6, @3$3, @4$3) -->` - 在比较中添加两个单元格
+- `<!-- TBLFM: @>=sum(@3..@4)+@3$1 -->` - 将第三行到第四行相加，再加上第三行第四列的值填到最后一行
+- `<!-- TBLFM: @3$3=if(@2$4+@2$5==@2$6, @3$3, @4$3) -->` - 在比较中添加两个单元格
 
 ### 链接和多个公式
 
@@ -360,3 +358,7 @@ modified: 20230505180048
 ```
 
 在此示例中，格式化指令是末尾的“;%.2f”。如果没有它，结果将是值，“0.14285714285714285”，但是因为我们请求了两个小数点，结果将是“0.14”。
+
+>[!Tip] 关联推荐
+>- [[obsidian-sortable]]：提供搜索 Obsidian 设置和插件设置选项的能力
+>- [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。

@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Quiet Outline 强化大纲展示管理
-description: 
-tags: 
+tags: []
+description: Obsidian 插件：Quiet Outline 强化大纲展示管理
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181107
-public: yes
+modified: 20230517223938
 ---
 
 # Obsidian 插件：Quiet Outline 强化大纲展示管理
@@ -34,11 +33,11 @@ Quiet Outline，是增强大纲插件，按需自动展开大纲，可设定展�
     - 你可以使用数学公示，粗体，斜体，甚至是 HTML 代码来当作大纲标题
     - 你可以使用粗体、斜体，内链来当作大纲标题
 
-![notquiet](https://cdn.pkmer.cn/images/35a56e2ed4aeab402b3cfa5fa2509b3f_MD5.gif)
+![222.gif](https://cdn.pkmer.cn/images/202305172233796.gif!pkmer)
 
-![quiet](https://cdn.pkmer.cn/images/6f7190247ce84c9b1683538fd54e3799_MD5.gif)
+ ![333.gif](https://cdn.pkmer.cn/images/202305172237074.gif!pkmer)
 
-![markdown](https://cdn.pkmer.cn/images/d7121a9ea7d310c0056f6cafe5f513d7_MD5.gif)
+![3334.gif](https://cdn.pkmer.cn/images/202305172239904.gif!pkmer)
 
 ## 安装
 
@@ -54,3 +53,8 @@ Quiet Outline，是增强大纲插件，按需自动展开大纲，可设定展�
 安装并开启插件后，插件不会自动为你生成大纲界面。
 
 需要使用命令面板 (Ctrl+P) 打开，搜索 `Quiet Outline`，回车开启，在右侧显示
+
+> [!Tip] 推荐阅读
+> - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
+> - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
+> - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样

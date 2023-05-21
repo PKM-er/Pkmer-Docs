@@ -1,12 +1,13 @@
 ---
 uid: 20230411155729
 title: Obsidian 常见问题解答
+tags: []
 description: 
 author: Pkmer
 type: other
 draft: false
 editable: false
-modified: 20230426185551
+modified: 20230515233931
 ---
 
 # Obsidian 常见问题解答
@@ -25,7 +26,8 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 
 ### 如何收起文件列表/左侧侧边栏/左侧面板
 
-方法 1：点击 [[文件列表]] 左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png)
+方法 1：点击 [[文件列表]] 左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png!pkmer)
+
 方法 2：Ctrl + P，输入”折叠/收起左侧边栏”
 
 ### 重启 Obsidian 的方法
@@ -50,26 +52,30 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 - 希望所有仓库之间，高度统一
 
 设置 -> 关于 -> 切换配置文件夹 中
+
 设置对应的文件夹。
 
-![Pasted image 20230128113423](https://cdn.pkmer.cn/images/4f8264f25e0f7ed4fdd4db023aaf6065_MD5.png)
+![Pasted image 20230128113423](https://cdn.pkmer.cn/images/4f8264f25e0f7ed4fdd4db023aaf6065_MD5.png!pkmer)
 
 ### Ribbon 区域图标如何调整
 
-方法1：设置 > 外观> Ribbon menu > 点击 Manage 按钮。1.0.0之后支持
-方法2：鼠标左键点击后进行拖拽操作排序
-方法3：
+方法 1：设置 > 外观> Ribbon menu > 点击 Manage 按钮。1.0.0 之后支持
+
+方法 2：鼠标左键点击后进行拖拽操作排序
+
+方法 3：
 
 ### Obsidian 能否最小到托盘
 
 Obsidian 能否像其他软件一样，常驻在系统托盘
+
 使用插件，请参考：[[obsidian-tray]]
 
 ## 显示
 
 ### 加粗后无法正常显示
 
-![Pasted image 20230126220150](https://cdn.pkmer.cn/images/ca97a709a5e05e19b3d1d86ddd65620a_MD5.png)
+![Pasted image 20230126220150](https://cdn.pkmer.cn/images/ca97a709a5e05e19b3d1d86ddd65620a_MD5.png!pkmer)
 
 1. 这是不正确的缩进导致，`我是需要加粗的正文` 前面缩进了，被识别成了代码。正文内容顶格处理，不要增加缩进，之后就正常了。或者在标题和正文之间增加空行后再删除空行都可以解决这个问题。
 2. 使用的主题或者 snippets 存在 Bug，比如 Lime_ 百草霜主题中错误的将 font-weight 设置了较低的值。通过切换不同主题确认该问题。解决办法就是在 Github 上反馈给主题开发者。
@@ -80,7 +86,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 ### 笔记标题和正文存在空白
 
-![Pasted image 20230130153632|600](https://cdn.pkmer.cn/images/f1635fd3ff84de5d3cda715502d9862b_MD5.png)
+![Pasted image 20230130153632|600](https://cdn.pkmer.cn/images/f1635fd3ff84de5d3cda715502d9862b_MD5.png!pkmer)
 
 1. 可能是因为安装了 typewrite scroll 插件。此插件因为会让编辑行始终居中，所以会导致该显示问题。解决办法就是在 Github 上反馈给插件开发者。
 2. 可能是 banners 插件导致的，解决办法就是在 Github 上反馈给插件开发者。
@@ -97,7 +103,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 图片只是示例，可能你的主题不同，正文变化成别的演示也正常。
 
-![Pasted image 20230128144635](https://cdn.pkmer.cn/images/5f6b1ae281d26fbdc5d0ad723a2b4630_MD5.png)
+![Pasted image 20230128144635](https://cdn.pkmer.cn/images/5f6b1ae281d26fbdc5d0ad723a2b4630_MD5.png!pkmer)
 
 这是由于 Obsidian 默认缩进为代码块造成的，出现了该问题检查并删除缩进即可。
 
@@ -119,17 +125,15 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 使用插件可达成此效果，请参考：[[cm-typewriter-scroll-obsidian]]
 
-
 ## 编辑
 
 ### Obsidian 能否记忆我每篇笔记编辑或者阅读到的位置
 
 有时候我们进行笔记编辑，或者阅读笔记时候，希望下次可以继续当前这个位置，下次打开时候能自动跳转到对应位置，继续阅读或者编辑工作。而不是默认每次都从头开始。
 
-插件法：可以使用  [[remember-cursor-position]]
+插件法：可以使用 [[remember-cursor-position]]
 
 ### 代码域（代码块）如何复制
-
 
 - 实时阅览下复制代码域（代码块）中的内容
 
@@ -196,7 +200,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 在本地 OB 中可以打开局部图谱功能。
 
-![关系图谱（局部关系图）](https://cdn.pkmer.cn/images/8430ad43e991eb3d0525cee62154b448_MD5.png)
+![关系图谱（局部关系图）](https://cdn.pkmer.cn/images/8430ad43e991eb3d0525cee62154b448_MD5.png!pkmer)
 
 #### 局部关系图如何展示自己发布的网页上
 
@@ -206,7 +210,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 关系图谱，能显示笔记节点，也会显示笔记之间的箭头关系，但是连接线不显示。
 
-![Pasted image 20230128095104](https://cdn.pkmer.cn/images/97b460b94cf888230c7ac3d10d34cf18_MD5.png)
+![Pasted image 20230128095104](https://cdn.pkmer.cn/images/97b460b94cf888230c7ac3d10d34cf18_MD5.png!pkmer)
 
 这种情况不是频发的，属于偶发现象。
 
@@ -230,7 +234,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 ### 插件社区不能加载
 
-![Pasted image 20230123233401](https://cdn.pkmer.cn/images/b47e268997386b5fd862d46c5758b903_MD5.png)
+![Pasted image 20230123233401](https://cdn.pkmer.cn/images/b47e268997386b5fd862d46c5758b903_MD5.png!pkmer)
 
 由于 Obsidian 的插件都是在 Github 上托管的，国内访问存在问题，需要一些科学上网的手段。常见解决办法有：
 
@@ -268,7 +272,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 2. 在页面头部映入 banner icon
 3. banner icon 虽然显示了，但是多了一个裂开的图标（图裂、叉烧包）
 
-![banners 异常](https://cdn.pkmer.cn/images/2015216e183baf2e52ca06b1fb506953_MD5.png)
+![banners 异常](https://cdn.pkmer.cn/images/2015216e183baf2e52ca06b1fb506953_MD5.png!pkmer)
 
 原因：1. 这是因为你本身设备的网络原因导致的现象，banners 插件无法获取对应的 emoji 表情。
 
@@ -278,4 +282,4 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 2. 点击 banners 插件的设置
 3. 按照下图所示，关闭【Use Twemoji】，即可解决问题。【当然可能有人会觉得 Twemoji 比默认系统 emoji 更美观】
 
-![banners设置](https://cdn.pkmer.cn/images/066c9f4b1cad89a77853126e9f51b05f_MD5.png)
+![banners设置](https://cdn.pkmer.cn/images/066c9f4b1cad89a77853126e9f51b05f_MD5.png!pkmer)

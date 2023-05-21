@@ -1,16 +1,16 @@
 ---
 uid: 20230428105320
-title: Obsidian Dynamic ToC 为你的笔记创建目录
-description: 
-author: 
+title: Obsidian 插件： Dynamic ToC 为你的笔记创建目录
+tags: [Obsidian, 插件, 目录]
+description: Obsidian 插件： Dynamic ToC 为你的笔记创建目录
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
-public: yes
+modified: 20230515233929
 ---
 
-# Obsidian Dynamic ToC 为你的笔记创建目录
+# Obsidian 插件： Dynamic ToC 为你的笔记创建目录
 
 ## 概述
 
@@ -28,7 +28,6 @@ public: yes
 >- 该插件下述功能，在 Obsidian 1.1.16 上运行稳定。
 
 ## 效果&特性
-
 
 ## 使用方法
 
@@ -71,7 +70,7 @@ style: bullet
 ```
 ````
 
-![image.png](Resource/Images/ba23df5ef52d6384fdd587d2afeae686_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/ba23df5ef52d6384fdd587d2afeae686_MD5.png!pkmer)
 
 - 数字编号目录
 - 语法：
@@ -83,8 +82,7 @@ style: number
 ````
 
 - 样式如图：
-![image.png](Resource/Images/10f4504e0fdbdb32d77f1fa3a2b4879c_MD5.png)
-
+![](https://cdn.pkmer.cn/images/10f4504e0fdbdb32d77f1fa3a2b4879c_MD5.png!pkmer)
 - 标签/面包屑模式
 - 语法：
 
@@ -95,7 +93,7 @@ style: inline
 ````
 
 - 样式如图：
-![image.png](Resource/Images/da30dd202b0290ff38cebf1c1df4c666_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/da30dd202b0290ff38cebf1c1df4c666_MD5.png!pkmer)
 - 混合风格：你可以在生成的多级目录中使用不同的编号风格。比如数字和圆点混用
 - 语法：
 
@@ -106,9 +104,9 @@ varied_style: boolean
 ````
 
 - 样式如图：
-![image.png](Resource/Images/5668d6e7a8f216f17d5a610c0353e4b1_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/5668d6e7a8f216f17d5a610c0353e4b1_MD5.png!pkmer)
 
-![image.png](Resource/Images/b210ed42af009574a2bf7dc8da97595d_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/b210ed42af009574a2bf7dc8da97595d_MD5.png!pkmer)
 
 ### 需要注意的特殊情况
 
@@ -144,3 +142,8 @@ varied_style: boolean (default: false)
 ```toc
 title: "## Table of Contents"
 ```
+
+> [!Tip] 推荐阅读
+> - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
+> - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
+> - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲

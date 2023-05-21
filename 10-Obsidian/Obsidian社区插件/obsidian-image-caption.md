@@ -1,17 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Image Caption 如何给图片增加说明
-description: 
-tags: 
+title: Obsidian 插件：Image Caption 给图片增加说明
+tags: []
+description: Obsidian 插件：Image Caption 如何给图片增加说明
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181604
-public: yes
+modified: 20230516113905
 ---
 
-# Obsidian 插件：Image Caption 如何给图片增加说明
+# Obsidian 插件：Image Caption 给图片增加说明题注
 
 ## 概述
 
@@ -19,7 +18,7 @@ public: yes
 
 正因为有了说明文字（Caption），我们才能更加清楚地了解此图的含义。
 
-![Pasted image 20230213152216](https://cdn.pkmer.cn/images/f0bda348c1e7c43fa25a2b2751d15739_MD5.jpg)
+![Pasted image 20230213152216](https://cdn.pkmer.cn/images/f0bda348c1e7c43fa25a2b2751d15739_MD5.jpg!pkmer)
 
 在你使用 Obsidian 写笔记时，如何为图片增加说明文字（Caption）呢？
 
@@ -53,6 +52,4 @@ public: yes
 
 ```
 
-![[background.png|"ABC"]]
-
-![[background.png| ABC]]
+![image.png](https://cdn.pkmer.cn/images/20230507131245.png!pkmer)

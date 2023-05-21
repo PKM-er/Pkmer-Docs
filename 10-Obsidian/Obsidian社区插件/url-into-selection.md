@@ -1,12 +1,13 @@
 ---
-uid: 20230506120039
+uid: 20230506165010
 title: Obsidian 插件：Paste URL into selection 快速给文字添加链接
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Paste URL into selection 快速给文字添加链接
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230506122211
+modified: 20230515233928
 ---
 
 # Obsidian 插件：Paste URL into selection 快速给文字添加链接
@@ -26,7 +27,7 @@ Paste URL into selection 解决了快速给文字添加链接的问题，使用 
 
 ## 效果&特性
 
-![98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif](https://cdn.pkmer.cn/images/98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif)
+![98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif](https://cdn.pkmer.cn/images/98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif!pkmer)
 
 ## 使用
 
@@ -44,3 +45,12 @@ Paste URL into selection 解决了快速给文字添加链接的问题，使用 
 	- Auto Select：自动选择相近字符组合成链接粘贴链接标题
 	- `[](url)`：将链接变为对应格式；
 	- `<url>`：将链接变为对应格式；
+
+> [!Tip] 推荐阅读
+> - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
+> - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
+> - [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[link-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
+> - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
+> - [[auto-card-link]]：根据你设定的规则动态高亮显示文本

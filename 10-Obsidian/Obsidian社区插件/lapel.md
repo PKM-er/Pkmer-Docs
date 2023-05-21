@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Lapel 为你显示标题等级
-description: 
-tags: 
+tags: [Obsidian, 插件, 标题, 快捷操作]
+description: Obsidian 插件：Lapel 为你显示标题等级
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Lapel 为你显示标题等级
@@ -25,7 +25,7 @@ modified: 20230429181108
 
 ## 效果&特性
 
-![Pasted image 20230215232821](https://cdn.pkmer.cn/images/9b67b733eac74ff9c2c0c7d699fd6b52_MD5.png)
+![Pasted image 20230215232821](https://cdn.pkmer.cn/images/9b67b733eac74ff9c2c0c7d699fd6b52_MD5.png!pkmer)
 
 - 在编辑器中显示对应标题级别（例如 H1、H2、H3 等）。
 - 点击显示标题级别，可以通过下拉菜单，快速切换标题级别。
@@ -44,7 +44,3 @@ modified: 20230429181108
   --heading-marker: "☰";
 }
 ```
-
-## 扩展阅读
-
-[[Obsidian 如何在编辑中显示行号]]

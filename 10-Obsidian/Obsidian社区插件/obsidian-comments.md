@@ -1,12 +1,13 @@
 ---
 uid: 20230504001023
 title: Obsidian 插件：Comments 为你的笔记增加评论和批注功能
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Comments 为你的笔记增加评论和批注功能
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504102735
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Comments 为你的笔记增加评论和批注功能
@@ -25,7 +26,7 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 
 ## 效果&特性
 
-![example_2.png](https://cdn.pkmer.cn/images/example_2.png)
+![example_2.png](https://cdn.pkmer.cn/images/example_2.png!pkmer)
 
 ## 使用
 
@@ -41,7 +42,7 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 
 ### 添加批注的模式
 
-- 将添加批注绑定到热键（设置 ->热键）可以更快地使用。例如，绑定到快捷键 cmd/ctrl + C。
+- 将添加批注绑定到快捷键（设置 ->快捷键）可以更快地使用。例如，绑定到快捷键 cmd/ctrl + C。
 - 在编辑模式下，可为所选文本添加批注
 - 在预览模式下，所选文本将以特定的文本颜色和背景颜色突出显示
 - 在预览模式下，单击突出显示的文本将显示包含与其相关的注释的弹出窗口
@@ -53,7 +54,10 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 	- 用于指定此批注出现的文本行（如果您启用了编辑器模式行号），这在极大的笔记中很有用，因为当前侧面板链接不会导致页面跳转到它 ;
 	- Q/A->问题可以是标题，单击侧栏中的问题将显示突出显示的文本（可以用于从侧面板审查笔记的关键思想）
 	- 建议记录笔记批注的原因，以方便日后回忆，比如是灵感，还是对应实例或是不同见解。
-- 风格（可选）：如上面的示例所示，由于它是简单的 HTML 语法，因此可以按照自己的喜好定义样式。目前有两种样式，位于 `<label class="ob-comment" style="...">` 中的样式将指定突出显示文本的样式，而 `<input type="checkbox"> <span style="">` 将指定注释弹出窗口的样式（此样式与侧面板使用相同）。
+- 风格（可选）：
+	- 由于使用的 HTML 语法，因此可以按照自己的喜好定义样式，目前有两种样式
+	- 位于 `<label class="ob-comment" style="...">` 中的样式将指定突出显示文本的样式
+	- `<input type="checkbox"> <span style="">` 将指定注释弹出窗口的样式（此样式与侧面板使用相同）。
 - 注释部分：由于注释使用 `<input type="checkbox"> <span>` 来标识内容，实际的评论可以包括更多的 div/span/HTML 元素来进一步自定义，它将在行内和侧面板中正确呈现。
 
 ### 设置
@@ -61,7 +65,7 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 - 支持设置批注的默认文字颜色，当然你可以在插入的 HTML 代码中自己修改；
 - 支持设 hi 批注的默认背景颜色，当然你可以在插入的 HTML 代码中自己修改；
 - 支持隐藏插件在 Ribbon 区域的图标；
-![image.png](https://cdn.pkmer.cn/images/20230504102255.png)
+![image.png](https://cdn.pkmer.cn/images/20230504102255.png!pkmer)
 
 ### 自定义样式
 

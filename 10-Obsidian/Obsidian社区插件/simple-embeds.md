@@ -1,12 +1,13 @@
 ---
 uid: 20230430090320
 title: Obsidian 插件：Simple Embeds 为链接
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Simple Embeds 为链接
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230430101943
+modified: 20230515233928
 ---
 
 # Obsidian 插件：Simple Embeds 为链接
@@ -26,7 +27,7 @@ modified: 20230430101943
 
 ## 效果&特性
 
-![](https://cdn.pkmer.cn/images/GIF%202023-4-30%2010-18-34.gif)
+![](https://cdn.pkmer.cn/images/GIF%202023-4-30%2010-18-34.gif!pkmer)
 
 支持以下网站的链接预览化：
 

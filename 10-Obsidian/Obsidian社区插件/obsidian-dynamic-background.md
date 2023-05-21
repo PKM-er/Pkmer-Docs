@@ -1,17 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Dynamic Background（为 Obsidian 添加动态背景）
-description: 
-tags: 
+title: Advanced URIDynamic Background 为 Obsidian 添加动态背景
+tags: [Obsidian, 插件, 动态背景, 美化]
+description: Obsidian 插件：Dynamic Background 为 Obsidian 添加动态背景
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
-public: yes
+modified: 20230516195227
 ---
 
-# Obsidian 插件：Dynamic Background（为 Obsidian 添加动态背景）
+# Advanced URIDynamic Background 为 Obsidian 添加动态背景
 
 这个插件可以为 Obsidian 编辑器 **增加动态效果和墙纸**，提升视觉体验，增加工作乐趣。
 
@@ -32,19 +31,19 @@ public: yes
 1. 5 种适用于 Obsidian 黑暗或深色配色的动态效果：
 
 - 数字雨 (Matrix / Digital Rain)
-    ![digital-rain-effect](Resource/Images/7261c1cdea0daa7bc4af0f307bfb44db_MD5.gif)
+    ![digital-rain-effect](https://cdn.pkmer.cn/images/7261c1cdea0daa7bc4af0f307bfb44db_MD5.gif!pkmer)
 - 下雨 (Rain)
-    ![rain-effect](Resource/Images/7533d94e782e150e4418be1ff0cebdb4_MD5.gif)
+    ![rain-effect](https://cdn.pkmer.cn/images/7533d94e782e150e4418be1ff0cebdb4_MD5.gif!pkmer)
 - 随机圆圈 (Random Circle)
 - 下雪 (Snow)
-    ![snow-effect](Resource/Images/49be7a17e01b64bae07e734b32aa41a4_MD5.gif)
+    ![snow-effect](https://cdn.pkmer.cn/images/49be7a17e01b64bae07e734b32aa41a4_MD5.gif!pkmer)
 - 星空 (Star Sky)
 
 1. 2 种适用于 Obsidian 明亮或浅色配色的动态效果：
 
 - 随机圆圈 (Random Circle)
 - 波浪 (Wave)
-- ![wave-effect](Resource/Images/c1f729a05561bae61810620cbd8df841_MD5.gif)
+- ![wave-effect](https://cdn.pkmer.cn/images/c1f729a05561bae61810620cbd8df841_MD5.gif!pkmer)
 
 ## 安装
 
@@ -68,11 +67,8 @@ public: yes
 - 从  `Dynamic Effect`  下拉框选择一个效果
 
 > [!注意]
-
 > 有两类动态效果
-
 > 一类适用于 Obsidian 黑暗或深色配色
-
 > 一类适用于 Obsidian 明亮或浅色配色，可根据 Obsidian 的配色选择相应的动态效果。
 
 ### 设置墙纸
@@ -96,3 +92,14 @@ public: yes
 
 - 打开插件设置窗口
 - 在  `Blur`  框中输入模糊值，0 代表不模糊
+
+> [!Tip] 推荐阅读
+> - [[Obsidian-Banners]]：为文档页面添加头图和图标
+> - [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
+> - [[obsidian-hider]]：自定义隐藏界面元素、信息
+> - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
+> - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
+> - [[custom-state-for-task-list]]：优化你的任务样式
+> - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
+> - [[obsidian-day-and-night]]：根据设定的时间自动切换浅色和深色主题
+> - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项

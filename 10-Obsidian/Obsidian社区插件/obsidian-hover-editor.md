@@ -1,12 +1,13 @@
 ---
 uid: 20230507014507
 title: Obsidian 插件：Hover Editor
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Hover Editor 通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能。
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230507100131
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Hover Editor
@@ -25,15 +26,15 @@ Hover Editor 插件通过将悬停弹窗变成一个功能齐全的编辑器，�
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230507100018.png)
+![image.png](https://cdn.pkmer.cn/images/20230507100018.png!pkmer)
 
 - 通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
 - 支持你在这个弹窗中编辑或者浏览笔记
 
 ## 使用
 
-- 在原有的页面预览基础上，将弹出框变为一个完整的编辑器
-	- 支持大多数编辑器功能，包括在各个模式之间切换
+- 在原有的 `页面预览` 基础上，将弹窗变为一个完整的编辑器
+	- 支持大多数编辑功能，包括在各个模式之间切换
 	- 弹窗框可以进行拖动和调整大小
 	- 弹窗现在可以强制固定，防止自动关闭，你可以理解像便签一样固定在 Obsidian 上。
 	- 当拖动或调整大小时，弹出框将自动固定

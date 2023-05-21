@@ -1,12 +1,13 @@
 ---
 uid: 20230505232116
 title: Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
-description: 
-author: 
+tags: [Obsidian, 插件, 链接, 网站图标]
+description: Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230506001926
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
@@ -28,7 +29,7 @@ modified: 20230506001926
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230505232701.png)
+![image.png](https://cdn.pkmer.cn/images/20230505232701.png!pkmer)
 
 ## 使用
 

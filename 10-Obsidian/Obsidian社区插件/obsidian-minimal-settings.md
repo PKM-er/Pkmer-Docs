@@ -1,16 +1,16 @@
 ---
 uid: 20230428213702
-title: Minimal Theme Settings 为你 Minimal 主题提供自定义选项
-description: 
-author: 
+title: Obsidian 插件：Minimal Theme Settings 为你 Minimal 主题提供自定义选项
+tags: []
+description: Minimal Theme Settings 为你 Minimal 主题提供自定义选项
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230501112051
-public: yes
+modified: 20230515233929
 ---
 
-# Minimal Theme Settings 为你 Minimal 主题提供自定义选项
+# Obsidian 插件：Minimal Theme Settings 为你 Minimal 主题提供自定义选项
 
 # 概述
 
@@ -87,3 +87,14 @@ public: yes
 - 循环调整图像宽度选项
 - 循环调整表格宽度选项
 - 循环调整 iframe 宽度选项
+
+> [!Tip] 推荐阅读
+> - [[Obsidian-Banners]]：为文档页面添加头图和图标
+> - [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
+> - [[obsidian-hider]]：自定义隐藏界面元素、信息
+> - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
+> - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
+> - [[custom-state-for-task-list]]：优化你的任务样式
+> - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
+> - [[obsidian-day-and-night]]：根据设定的时间自动切换浅色和深色主题
+> - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景

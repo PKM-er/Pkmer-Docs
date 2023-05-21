@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Scroll to top（快速定位到页头页尾）
-description: 
-tags: 
+tags: []
+description: Obsidian 插件：Scroll to top（快速定位到页头页尾）
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230430000148
-public: yes
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Scroll to top（快速定位到页头页尾）
@@ -39,7 +38,7 @@ public: yes
 
 ## 设置
 
-![](https://cdn.pkmer.cn/images/a98623c3025d77359f7964f2ef38f505_MD5.png)
+![](https://cdn.pkmer.cn/images/a98623c3025d77359f7964f2ef38f505_MD5.png!pkmer)
 
 - 控制是否开启某个功能，比如只保留滚动到顶部
 - 控制是否展示按钮提示词

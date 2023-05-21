@@ -1,16 +1,16 @@
 ---
 uid: 20230428235014
-title: Copy button for code blocks 给代码块添加一键复制按钮
-description: 
-author: 
+title: Obsidian 插件：Copy button for code blocks 给代码块添加一键复制按钮
+tags: [Obsidian, 插件, 代码块, 效率]
+description: Obsidian 插件：Copy button for code blocks 给代码块添加一键复制按钮
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429001925
-public: yes
+modified: 20230515233930
 ---
 
-# Copy button for code blocks 给代码块添加一键复制按钮
+# Obsidian 插件：Copy button for code blocks 给代码块添加一键复制按钮
 
 ## 概述
 
@@ -29,7 +29,7 @@ public: yes
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/f0a22dd5ee505ebdbd0f24fa4cb07319_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/f0a22dd5ee505ebdbd0f24fa4cb07319_MD5.png!pkmer)
 
 ## 使用
 

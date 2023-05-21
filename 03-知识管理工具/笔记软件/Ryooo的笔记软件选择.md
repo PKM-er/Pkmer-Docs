@@ -1,12 +1,13 @@
 ---
 uid: 20230501003646
-title: Ryooo的笔记软件选择
+title: Ryooo 的笔记软件选择
+tags: 
 description: 
-author: 
+author: Ryooo
 type: other
 draft: false
 editable: false
-modified: 20230501003705
+modified: 20230517225948
 ---
 
 # Ryooo 的笔记软件选择

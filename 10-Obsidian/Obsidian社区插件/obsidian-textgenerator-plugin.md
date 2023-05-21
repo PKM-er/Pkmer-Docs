@@ -1,15 +1,16 @@
 ---
 uid: 20230423222800
-title: obsidian-textgenerator-plugin
-description: 
+title: Obsidian 插件：Textgenerator
+tags: []
+description: obsidian-textgenerator-plugin 使用 OpenAI 的模型进行文本生成
 author: windilycloud
 type: other
 draft: false
 editable: false
-modified: 20230429181107
+modified: 20230515233928
 ---
 
-# obsidian-textgenerator-plugin
+# Obsidian 插件：Textgenerator
 
 > [!note] Text Generator
 > 插件 ID：obsidian-textgenerator-plugin
@@ -25,14 +26,17 @@ modified: 20230429181107
 
 1. 自定义请求：通过 frontmatter 的方式，自定义请求头
 2. 自定义 api 参数：最大 token，Temperature，Frequency Penalty 等参数用于调节模型
-3. 自定义 Prompt 模版：根据模版的 prompt 生成文本
+3. 自定义 Prompt 模板：根据模板的 prompt 生成文本
 4. 包含上下文：可以添加标题，frontmatter，heading，高亮，段落等为默认上下文，使得更方便的添加 Prompt 让模型更精确
-5. 模版：根据模版内容生成文字
+5. 模板：根据模板内容生成文字
 6. PDF 抽取：根据 PDF 内容生成文字
 7. 网页抽取：根据网页内容中生成文字
 8. Youtube 抽取：从 Youtube 视频中生成文字
 9. 音频抽取：从音频文件中生成文字，包括 m4a，mp3，mp4，mpeg，mpga，wav，webm 格式文件
-10. 社区模版：使用其他人分享的模版
+10. 社区模板：使用其他人分享的模板
+
+>[!Note] 前置条件
+>- 需要你自己拥有对应的 OpenAI key
 
 ## 用法
 
@@ -43,7 +47,7 @@ modified: 20230429181107
 3. 安装后打开插件设置界面，填入 API Key，即可使用。其余配置可均为默认。
 4. 在任意一行文本后按 `ctrl + j`，即可在后面自动生成文本。
 
-![image.png](https://cdn.pkmer.cn/images/1f0831c86ab7dd8df5dcfcea39a62927_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/1f0831c86ab7dd8df5dcfcea39a62927_MD5.png!pkmer)
 
 ### 上下文的选择
 
@@ -51,7 +55,7 @@ modified: 20230429181107
 	- 如果左键选中文本，则该文本即为发送给 gpt 的上下文
 	- 如果打字光标前有文本，则该行文本即为发送给 gpt 的上下文
 	- 如果打字光标前无文本，则整个文档都将发送给 gpt 作为上下文
-	- 如果标题末尾添加 `*`，如 `## 这是一个标题*`，则该标题下的内容也将包含进上下文（续在设置里开启）
+	- 如果标题末尾添加 `*`，如 `## 这是一个标题*`，则该标题下的内容也将包含进上下文（需在设置里开启）
 - 设置界面选择
 	- 文档名称
 	- frontmatter
@@ -64,19 +68,19 @@ modified: 20230429181107
 2. 选择模型
 3. 计算当前文档的 token 数
 
-![image.png](https://cdn.pkmer.cn/images/dc609923f38591cab01d25e109d7c16a_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/dc609923f38591cab01d25e109d7c16a_MD5.png!pkmer)
 
-### 社区模版包
+### 社区模板包
 
-![image.png](https://cdn.pkmer.cn/images/af0466ab0787c9a3267eb4d4e40dd317_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/af0466ab0787c9a3267eb4d4e40dd317_MD5.png!pkmer)
 
-通过调用 `Templates Packages Manager` 命令，打开并可安装社区的 prompt 模版包。
+通过调用 `Templates Packages Manager` 命令，打开并可安装社区的 prompt 模板包。
 
-### 模版
+### 模板
 
-通过 上述社区模版包安装，会自动安装下述模版：
+通过 上述社区模板包安装，会自动安装下述模板：
 
-![image.png](https://cdn.pkmer.cn/images/b473521b0381be0eba60003d30a8a623_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/b473521b0381be0eba60003d30a8a623_MD5.png!pkmer)
 
 分别是：
 
@@ -90,4 +94,4 @@ modified: 20230429181107
 - 头脑风暴
 - 总结
 
-通过模版包和自定义模版，基本能满足任何方式的 prompt 了
+通过模板包和自定义模板，基本能满足任何方式的 prompt 了

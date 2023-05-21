@@ -1,12 +1,13 @@
 ---
 uid: 20230328213324
 title: Obsidian 核心插件
+tags: []
 description: 
 author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230413204043
+modified: 20230515233931
 ---
 
 # Obsidian 核心插件
@@ -17,8 +18,8 @@ modified: 20230413204043
 
 这些插件又被官方分为了两大类：
 
-- [[#核心插件]]
-- [[#社区插件]]
+- [[Obsidian#核心插件]]
+- [[Obsidian#社区插件]]
 
 ## 核心插件
 

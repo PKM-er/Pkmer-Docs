@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
-description: 
-tags: 
+tags: []
+description: Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
-public: yes
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
@@ -29,9 +28,9 @@ public: yes
 
 ## 效果&特性
 
-![Pasted image 20230310105749](https://cdn.pkmer.cn/images/a47c4a5e7fff172bdf5caef0a47c0648_MD5.png)
+![Pasted image 20230310105749](https://cdn.pkmer.cn/images/a47c4a5e7fff172bdf5caef0a47c0648_MD5.png!pkmer)
 
-![obsidian-image-gallery](https://cdn.pkmer.cn/images/3a0181128f67d2918d9c8ced32e3f807_MD5.gif)
+![obsidian-image-gallery](https://cdn.pkmer.cn/images/3a0181128f67d2918d9c8ced32e3f807_MD5.gif!pkmer)
 
 ## 使用
 
@@ -54,7 +53,7 @@ type: vertical
 ```
 ````
 
-![Pasted image 20230310110903](https://cdn.pkmer.cn/images/d1d04025ab1c0330a3778e0013eb599b_MD5.jpg)
+![Pasted image 20230310110903](https://cdn.pkmer.cn/images/d1d04025ab1c0330a3778e0013eb599b_MD5.jpg!pkmer)
 
 - 通过单击图库的任何图像部分可访问的 Lightbox 视图。
 - 如果需要，单击右上角的按钮以在新选项卡中打开原始图像。

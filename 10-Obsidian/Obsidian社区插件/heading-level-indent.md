@@ -1,12 +1,13 @@
 ---
 uid: 20230502002201
 title: Obsidian 插件：Heading Level Indent 为不同等级标题增加缩进
-description: 
-author: 
+tags: [Obsidian, 插件, 缩进, 美化]
+description: Obsidian 插件：Heading Level Indent 为不同等级标题增加缩进
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230502004257
+modified: 20230516195126
 ---
 
 # Obsidian 插件：Heading Level Indent 为不同等级标题增加缩进
@@ -29,7 +30,7 @@ modified: 20230502004257
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230502003613.png)
+![image.png](https://cdn.pkmer.cn/images/20230502003613.png!pkmer)
 
 ## 使用
 
@@ -54,4 +55,15 @@ modified: 20230502004257
 - 修复阅读模式中缩进延迟展示的问题
 - 添加源代码/实时预览模式的支持
 - 增加不同缩进等级之间的缩进线，类似大纲中绘制垂直缩进线。
-- 支持 callout 中的缩进。
+- 支持 callout 中的缩进
+
+> [!Tip] 推荐阅读
+> - [[Obsidian-Banners]]：为文档页面添加头图和图标
+> - [[obsidian-hider]]：自定义隐藏界面元素、信息
+> - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
+> - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
+> - [[custom-state-for-task-list]]：优化你的任务样式
+> - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
+> - [[obsidian-day-and-night]]：根据设定的时间自动切换浅色和深色主题
+> - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
+> - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项

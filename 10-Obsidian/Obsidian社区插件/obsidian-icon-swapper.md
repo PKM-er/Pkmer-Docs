@@ -1,12 +1,13 @@
 ---
 uid: 20230506102304
 title: Obsidian 插件：Icon Swapper 修改默认图标变为你自己个性化的样式
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Icon Swapper 修改默认图标变为你自己个性化的样式
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230506103204
+modified: 20230516194330
 ---
 
 # Obsidian 插件：Icon Swapper 修改默认图标变为你自己个性化的样式
@@ -29,8 +30,13 @@ modified: 20230506103204
 - 支持单个替换某个具体的图标
 - 支持批量导入和导出需要替换的图标
 
-![image.png](https://cdn.pkmer.cn/images/20230506102910.png)
+![image.png](https://cdn.pkmer.cn/images/20230506102910.png!pkmer)
 
 >[!Warning] 注意
 >- 替换的图标集合或者单个图标，必须是 SVG 格式的图标
 >- 如果不熟悉 SVG 图标，可以参考这里：[Boxicons](https://boxicons.com/)。
+
+> [!Tip] 推荐阅读
+> - [[obsidian-icons-plugin]]：提供插入图标符号的功能
+> - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合
+> - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中

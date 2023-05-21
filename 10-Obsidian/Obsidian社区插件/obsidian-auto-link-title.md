@@ -1,12 +1,13 @@
 ---
 uid: 20230430001441
 title: Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230430004222
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
@@ -23,7 +24,7 @@ modified: 20230430004222
 
 ## 效果&特性
 
-![](https://cdn.pkmer.cn/images/auto-link-title.gif)
+![](https://cdn.pkmer.cn/images/auto-link-title.gif!pkmer)
 
 ## 使用
 
@@ -65,3 +66,12 @@ Google 的 Gboard 输入法在键盘上方有一个剪贴板助手快捷方式�
 在台式机上，使用 Electron 的 BrowserWindow 来实现该功能，可以直接处理使用扩展字符集的语言，例如中文。
 
 然而，在移动设备上，我们没有使用 Electron 平台，因此我们必须简单地获取该页面。由于 web 服务器的 CORS 限制不允许直接访问，该插件使用 allorigins.win 代理来下载页面。该代理不支持其他字符集，将其返回为问号或乱码。
+
+> [!Tip] 推荐阅读
+> - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
+> - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
+> - [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[link-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标
+> - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
+> - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
+> - [[auto-card-link]]：根据你设定的规则动态高亮显示文本

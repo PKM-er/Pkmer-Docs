@@ -1,17 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Weread
-description: 
-tags: 
+title: Obsidian 插件：Weread 让 Obsidian 和你的微信阅读联动
+tags: []
+description: Obsidian 插件：Weread 让Obsidian 和你的微信阅读联动
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230427191024
-public: yes
+modified: 20230515233928
 ---
 
-# Obsidian 插件：Weread
+# Obsidian 插件：Weread 让 Obsidian 和你的微信阅读联动
 
 ## 概述
 
@@ -32,6 +31,3 @@ Obsidian 微信读书插件是一个社区插件，用来同步微信读书中�
 - 支持 Daily Notes,将当日读书笔记同步至 Daily Notes 中，已经在 [0.4.0](https://github.com/zhaohongxuan/obsidian-weread-plugin/releases/tag/0.4.0) 中支持
 - 同步热门划线到笔记中（TBD）
 
-## 使用
-
-参考 [[Obsidian 与微信读书]]

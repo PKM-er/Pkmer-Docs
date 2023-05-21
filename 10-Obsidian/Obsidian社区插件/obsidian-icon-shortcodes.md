@@ -1,12 +1,13 @@
 ---
 uid: 20230506103414
 title: Obsidian 插件：Icon Shortcodes
-description: 
-author: 
+tags: []
+description: Obsidian 插件：Icon Shortcodes 通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合。
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230506111735
+modified: 20230515233929
 ---
 
 # Obsidian 插件：Icon Shortcodes
@@ -35,7 +36,7 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的段
 - [Font Awesome](https://fontawesome.com/) 和 [Remixicon](https://github.com/Remix-Design/RemixIcon) 图标集合需要下载后支持。进入插件设置，选择 `Icon Packs` 中 Browser，可以浏览并下载对应的图标集合。
 - Custom Icons 可以轻松插入和管理自定义图标（支持格式：.bmp，.png，.jpg，.jpeg，.gif，.svg 和.webp）
 
-![image.png](https://cdn.pkmer.cn/images/20230506105842.png)
+![image.png](https://cdn.pkmer.cn/images/20230506105842.png!pkmer)
 
 ### 自定义样式
 
@@ -53,3 +54,8 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的段
   /* (font awesome soild in this example) */
 }
 ```
+
+> [!Tip] 推荐阅读
+> - [[obsidian-icons-plugin]]：提供插入图标符号的功能
+> - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
+> - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换

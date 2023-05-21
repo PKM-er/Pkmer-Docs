@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Icon Folder（给文件夹增加图标）
-description: 
-tags: 
+title: Obsidian 插件：Icon Folder 给文件夹增加图标
+tags: []
+description: Obsidian 插件：Icon Folder 给文件夹增加图标
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230430010909
+modified: 20230515233929
 ---
 
-# Obsidian 插件：Icon Folder（给文件夹增加图标）
+# Obsidian 插件：Icon Folder 给文件夹增加图标
 
 ## 概述
 
@@ -24,7 +24,7 @@ modified: 20230430010909
 
 ## 效果
 
-![Pasted image 20230110191650](https://cdn.pkmer.cn/images/9ae0188f8195e036b9ada0a5508126b6_MD5.png)
+![Pasted image 20230110191650](https://cdn.pkmer.cn/images/9ae0188f8195e036b9ada0a5508126b6_MD5.png!pkmer)
 
 ## 安装
 
@@ -42,9 +42,9 @@ modified: 20230430010909
 2. 添加需要有一个下载插件下载过程，视你的网络速度而定。
 3. 下载完成后，你会发现之前名字的图标已经被插件识别
 
-![Pasted image 20230210145955](https://cdn.pkmer.cn/images/ac97aa3edf7496cbdb59169fad17e5ce_MD5.png)
+![Pasted image 20230210145955](https://cdn.pkmer.cn/images/ac97aa3edf7496cbdb59169fad17e5ce_MD5.png!pkmer)
 
-![Pasted image 20230210150005](https://cdn.pkmer.cn/images/a9658c2df81635670620a2ac71265cc4_MD5.png)
+![Pasted image 20230210150005](https://cdn.pkmer.cn/images/a9658c2df81635670620a2ac71265cc4_MD5.png!pkmer)
 
 这里以 Remix Icons(Ri) 为例，点击安装。
 
@@ -54,7 +54,7 @@ modified: 20230430010909
 
 1. 在文件列表，对应的文件夹下，鼠标右键，选择“Change icon”
 2. 在弹出的窗口中选择自己喜欢的图标吧
-   ![Pasted image 20230210150035](https://cdn.pkmer.cn/images/fb4490cc0c9f836c1d832ae0fdfd6d18_MD5.png)
+   ![Pasted image 20230210150035](https://cdn.pkmer.cn/images/fb4490cc0c9f836c1d832ae0fdfd6d18_MD5.png!pkmer)
 
 ### 取消文件夹图标
 
@@ -77,3 +77,14 @@ Icon Packs folder path 展示用于保存下载的图标包文件路径。
 > 插件会使用你当前仓库，插件目录下该插件的文件夹来保存对应文件，这样对你整个仓库的文件结构破坏最小。
 
 你可以在网络上寻找对应的 SVG 图标包，来构建自己的图标文件夹
+
+> [!Tip] 推荐阅读
+> - [[Obsidian-Banners]]：为文档页面添加头图和图标
+> - [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
+> - [[obsidian-hider]]：自定义隐藏界面元素、信息
+> - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
+> - [[custom-state-for-task-list]]：优化你的任务样式
+> - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
+> - [[obsidian-day-and-night]]：根据设定的时间自动切换浅色和深色主题
+> - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
+> - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项

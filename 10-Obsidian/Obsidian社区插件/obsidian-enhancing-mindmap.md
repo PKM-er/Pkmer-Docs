@@ -1,15 +1,16 @@
 ---
 uid: 20230504174453
-title: obsidian-enhancing-mindmap
-description: 
+title: Obsidian 插件：Obsidian markmind
+tags: []
+description: 让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504180119
+modified: 20230515233929
 ---
 
-# obsidian-enhancing-mindmap
+# Obsidian 插件：Obsidian markmind
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian markmind
@@ -53,7 +54,7 @@ mindmap-plugin: basic
 
 在更多菜单中，你可以找到 _打开为思维导图_ 就可以把当前文档转换为思维导图模式。
 
-![basic.e715be2b.gif](https://cdn.pkmer.cn/images/202305041751327.gif)
+![basic.e715be2b.gif](https://cdn.pkmer.cn/images/202305041751327.gif!pkmer)
 
 #### 方法 2
 
@@ -83,6 +84,6 @@ mindmap-plugin: basic
 | 切换导图布局           | 选中某节点 ，Ctrl/Cmd + U / D / L / R / M / J / K / T / Q |
 | 删除归纳、外框、联系线 | Delete/Backspace                                          |
 
-## 功能延伸
 
-类似插件 [[obsidian-mindmap-nextgen]]
+>[!Tip] 关联推荐
+>- [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图

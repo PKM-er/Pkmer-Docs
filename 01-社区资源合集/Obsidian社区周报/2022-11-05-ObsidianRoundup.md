@@ -2,7 +2,7 @@
 uid: 20230329102645
 title: 插件新闻
 description: 
-author: 
+author: Bon
 type: other
 draft: false
 editable: false

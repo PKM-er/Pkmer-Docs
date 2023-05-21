@@ -1,15 +1,16 @@
 ---
 uid: 20230429173235
-title: Obsidian Tabs 为 Obsidian 增加标签页功能
-description: 
-author: 
+title: Obsidian 插件：Obsidian Tabs 为 Obsidian 增加标签页功能
+tags: []
+description: Obsidian Tabs 为 Obsidian 增加标签页功能
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429174618
+modified: 20230516005003929
 ---
 
-# Obsidian Tabs 为 Obsidian 增加标签页功能
+# Obsidian 插件：Obsidian Tabs 为 Obsidian 增加标签页功能
 
 ## 概述
 
@@ -27,7 +28,8 @@ modified: 20230429174618
 
 ## 效果&特性
 
-![demo.webp](https://cdn.pkmer.cn/images/ebd30423dc3f9906ebc3040731554e4c_MD5.webp)
+![image.png](https://cdn.pkmer.cn/images/202305160907814.png!pkmer)
+
 
 ## 使用
 
@@ -43,3 +45,7 @@ modified: 20230429174618
 10. 下一个通过 ctrl+tab 带出的选项卡是下划线选项卡。反之，通过 ctrl+shift+tab 聚焦的选项卡是下划线选项卡左侧的选项卡。 (可选)
 11. 并排显示视图。
 12. 持续努力通过兼容性补丁最大化主题的兼容性。
+
+> [!Tip] 推荐阅读
+> - [[cycle-through-panes]]：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样
+> - [[close-similar-tabs]]：自动关闭重复打开的标签页，防止标签栏拥挤和冲突

@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Easy Tpying
-description: 
-tags: 
+tags: [Obsidian, 插件, 输入, 效率, 自动化]
+description: Obsidian 插件：Easy Tpying 自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Easy Tpying
@@ -17,7 +17,7 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 > [!Note] 插件名片
 > - 插件名称：Obsidian Easy Typing
 > - 插件作者：Yaozhuwa
-> - 插件说明：根据你设定的规则动态高亮显示文本
+> - 插件说明：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 > - 插件项目地址：[点我跳转](https://github.com/Yaozhuwa/easy-typing-obsidian)
 
 ## 效果&特性
@@ -50,13 +50,13 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 	- 在文本和行内公式、行内代码、双向链接之间添加空格；
 	- 以及在文本区块和用户自定义正则匹配区块之间添加空格。
 
-![image.png](https://cdn.pkmer.cn/images/638091ac6e79c7f51b304cfead5c34b2_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/638091ac6e79c7f51b304cfead5c34b2_MD5.png!pkmer)
 
 文本自动格式化的总开关如上，关闭后不会再输入过程中自动格式化文本。但是不会影响符号编辑增强的功能，也不会影响插件的内置命令：格式化全文、格式化当前行/当前选中区域。
 
 #### 首字母大写
 
-![image.png](https://cdn.pkmer.cn/images/a0782b68c5569cacb70cf3e90463f4af_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/a0782b68c5569cacb70cf3e90463f4af_MD5.png!pkmer)
 
 - 在英文输入模式下自动将每个句子的首字母大写。
 - 用户可以在设置中选择是让首字母大写仅在输入时生效，还是在全局范围内生效。
@@ -66,13 +66,13 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 
 文本和标点间自动空格，会智能地在其他文本和英文标点间添加空格。
 
-![image.png](https://cdn.pkmer.cn/images/f1ae0c214f723dbdf78d0087f8c527eb_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/f1ae0c214f723dbdf78d0087f8c527eb_MD5.png!pkmer)
 
 #### 不同区块间的空格策略
 
 将每个文本行分割成几个区块：文本块、行内公式块、行内代码块、链接块、用户自定义正则匹配块。块与块之间的空格策略可以在设置中改变。
 
-![image.png](https://cdn.pkmer.cn/images/c7f087449a936bfaea6e21e6c1b5f561_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/c7f087449a936bfaea6e21e6c1b5f561_MD5.png!pkmer)
 
 | 空格策略             | 说明                                 |
 |------------------|------------------------------------|
@@ -105,24 +105,27 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 
 ## 高级玩法
 
-![image.png](https://cdn.pkmer.cn/images/202305041002627.png)
+![image.png](https://cdn.pkmer.cn/images/202305041002627.png!pkmer)
 
 比如默认的规则会把一些格式也自动格式化，就需要添加自定义规则进行排除。
+
 常见的规则有：
-- 对链接的内容不格式化，包括本地文件链接、网络连接、obsidian链接、zotero链接、ftp链接
+
+- 对链接的内容不格式化，包括本地文件链接、网络连接、obsidian 链接、zotero 链接、ftp 链接
    `(file:///|https?://|ftp://|obsidian://|zotero://|www.)[^\s（）《》。,，！？;；：“”‘’\)\(\[\]\{\}']+|++`
-- 对callout包裹的内容不格式化
+- 对 callout 包裹的内容不格式化
   `\[\!.*?\][-+]{0,1}|-+`
-- 对双尖括号包裹的内容不格式化，这样使用类似templater语法就不会错误的格式化
+- 对双尖括号包裹的内容不格式化，这样使用类似 templater 语法就不会错误的格式化
   `<.*?>|--`
-- 对时间格式不格式化，比如12:54
+- 对时间格式不格式化，比如 12:54
   `\d{2}:\d{1,2}|++`
-- 对tag标签的内容不格式化
+- 对 tag 标签的内容不格式化
   `#[\u4e00-\u9fa5\w\/]+|++`
 
 ## 功能延伸
 
 插件跟 Obsidian pangu ，linter 等编辑增强插件有许多功能相似之处，不同的地方在于
--  在 Easy Typing 开启状态下，格式规范是实时进行的。我们需要在输入法中输入拼音字母然后选定中文，在这个过程中如果没有选定词语就删除字母，会在原地留下一个空格。
--  Obsidian pangu和linter插件都是在内容输入完成后一键全文规范格式，需要手动操作。
--  Easy Typing 的自定义规则功能更强大，适合高级用户使用。
+
+- 在 Easy Typing 开启状态下，格式规范是实时进行的。我们需要在输入法中输入拼音字母然后选定中文，在这个过程中如果没有选定词语就删除字母，会在原地留下一个空格。
+- Obsidian pangu 和 linter 插件都是在内容输入完成后一键全文规范格式，需要手动操作。
+- Easy Typing 的自定义规则功能更强大，适合高级用户使用。

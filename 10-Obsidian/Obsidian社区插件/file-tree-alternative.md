@@ -1,17 +1,16 @@
 ---
 uid: 20230502083811
-title: file-tree-alternative
-description: 
-author: 
+title: Obsidian 插件：File Tree Alternative 强大的文件管理器
+tags: [Obsidian, 插件, 文件管理器, 排序, 管理]
+description: Obsidian 插件：File Tree Alternative 强大的文件管理器
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230503000618
+modified: 20230516120534
 ---
 
-# file-tree-alternative
-
-## Obsidian 插件：File Tree Alternative 强大的文件管理器
+# Obsidian 插件：File Tree Alternative 强大的文件管理器
 
 ## 概述
 
@@ -27,7 +26,7 @@ modified: 20230503000618
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230502084747.png)
+![image.png](https://cdn.pkmer.cn/images/20230502084747.png!pkmer)
 
 ## 使用
 
@@ -71,3 +70,12 @@ modified: 20230503000618
 ### 样式设定
 
 2.3.2 版本后，该插件已经直至自定义样式，而且已经将部分自定义内置，想要取微调这些样式，需要安装 [[obsidian-style-settings]] 插件，并参考对应文档。
+
+>[!Tip] 关联推荐
+> - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
+> - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
+> - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
+> - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
+> - [[recent-files-obsidian]]：显示最近打开的文件列表
+> - [[obsidian-gallery]]：让你的笔记变成画廊
+> - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记

@@ -1,17 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Obsidian42-BRAT（安装测试版插件）
-description: 
-tags: 
+title: Obsidian 插件：Obsidian42-BRAT安装测试版插件和主题
+tags: []
+description: Obsidian 插件：Obsidian42-BRAT 让你可以安装未上架的插件，主题。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181107
-public: yes
+modified: 20230516192302
 ---
 
-# Obsidian 插件：Obsidian42-BRAT（安装测试版插件）
+# Obsidian 插件：Obsidian42-BRAT 安装测试版插件和主题
 
 让你可以安装未上架的插件，主题。
 
@@ -39,15 +38,15 @@ public: yes
 
 1. 进入 Obsidian42 BRAT 插件内，在 Beta plugin list 一栏中，点击 Add beta plugin。
 
-![](https://cdn.pkmer.cn/images/406f7387103711b0b4fae377422e993f_MD5.png)
+![](https://cdn.pkmer.cn/images/406f7387103711b0b4fae377422e993f_MD5.png!pkmer)
 
 1. 将插件地址：（以 Bartender 插件为例子）的 github 地址为 `https://github.com/nothingislost/obsidian-bartender`。在弹出的窗口输入 `https://github.com/` 后的 `nothingislost/obsidian-bartender`，然后点击 Add plugin。
 
-![](https://cdn.pkmer.cn/images/913c3d5d0f73854d5a2e05d2b431119b_MD5.png)
+![](https://cdn.pkmer.cn/images/913c3d5d0f73854d5a2e05d2b431119b_MD5.png!pkmer)
 
 在下方出现该插件后，就是成功安装上该插件了。
 
-![](https://cdn.pkmer.cn/images/6b0eea1ff526cb5e1248e744ae3104ae_MD5.png)
+![](https://cdn.pkmer.cn/images/6b0eea1ff526cb5e1248e744ae3104ae_MD5.png!pkmer)
 
 然后到插件列表启动该插件就可以了。
 

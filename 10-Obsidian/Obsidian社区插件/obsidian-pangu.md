@@ -1,12 +1,13 @@
 ---
 uid: 20230503001315
 title: Obsidian 插件：盘古 PanGu 快速格式化文档
-description: 
-author: 
+tags: []
+description: Obsidian 插件：盘古 PanGu 快速格式化文档
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230503003434
+modified: 20230515233929
 ---
 
 # Obsidian 插件：盘古 PanGu 快速格式化文档
@@ -24,7 +25,7 @@ modified: 20230503003434
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230503003427.png)
+![image.png](https://cdn.pkmer.cn/images/20230503003427.png!pkmer)
 
 - 一键自动化增加文字与数字，英文和中文之间的空格
 

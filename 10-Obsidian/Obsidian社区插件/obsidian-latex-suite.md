@@ -1,15 +1,16 @@
 ---
 uid: 20230503114425
-title: latex-suite
-description: 
-author: 
+title: Obsidian 插件 Latex suite
+tags: []
+description: Latex suite 通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
+author: windilycloud
 type: other
 draft: false
 editable: false
-modified: 20230503151948
+modified: 20230517230151
 ---
 
-# latex-suite
+# Obsidian 插件 Latex suite
 
 > [!note] latex-suite
 > 插件 ID：obsidian-latex-suite
@@ -26,7 +27,8 @@ modified: 20230503151948
 
 ==以下是原速公式输入示例==
 
-![demo.gif](https://cdn.pkmer.cn/images/demo.gif)
+![555.gif](https://cdn.pkmer.cn/images/202305172350638.gif!pkmer)
+
 
 ## 基本用法
 
@@ -57,7 +59,6 @@ modified: 20230503151948
 {trigger: string, replacement: string, options: string, description?: string, priority?: number}
 ```
 
-其中 `trigger` 字段指定触发字符，`replacement` 代表将触发字符替换后的字符，`option` 是选项，t 代表文本模式，m 代表 latex 模式，r 代表正则模式，A 代表自动触发。文本模式指仅在正文中触发，latex 模式指仅在 latex 块中触发——`$` 包裹的部分，r 是使用正则表达式，w代表词边界，仅当触发字符前面（和后面）有单词分隔符时才运行此代码段。`$0` 代表光标跳转的位置，`[[0]]` 代表正则表达式替换的位置。 description 是片段描述，可选，priority 是优先级，当有多个同样的触发字符时，优先级高的会优先触发，默认是 0 优先级。
+其中 `trigger` 字段指定触发字符，`replacement` 代表将触发字符替换后的字符，`option` 是选项，t 代表文本模式，m 代表 latex 模式，r 代表正则模式，A 代表自动触发。文本模式指仅在正文中触发，latex 模式指仅在 latex 块中触发——`$` 包裹的部分，r 是使用正则表达式，w 代表词边界，仅当触发字符前面（和后面）有单词分隔符时才运行此代码段。`$0` 代表光标跳转的位置，`[[0]]` 代表正则表达式替换的位置。 description 是片段描述，可选，priority 是优先级，当有多个同样的触发字符时，优先级高的会优先触发，默认是 0 优先级。
 
 以第一个片段为例：指明 `$` 为触发字符，将字符替换成 `$$`，替换后光标在两个 `$` 符号中间，option 中的 `t` 代表文本模式，不会自动触发。
-

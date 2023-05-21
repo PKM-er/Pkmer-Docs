@@ -1,14 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Tag Wrangler
-description: 
-tags: 
+tags: []
+description: Obsidian 插件：Tag Wrangler 增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230430000346
-public: yes
+modified: 20230515233928
 ---
 
 # Obsidian 插件：Tag Wrangler
@@ -29,7 +28,7 @@ public: yes
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/ce795fc29fd5aa2960cc698dbd9ebb86_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/ce795fc29fd5aa2960cc698dbd9ebb86_MD5.png!pkmer)
 
 - 重命名标签（及其所有子标签）
 - 开始新的标签搜索（类似于简单的点击）
@@ -50,7 +49,7 @@ public: yes
 
 在标签面板中任意一个标签上点击右键，即可看到如下几个选项：
 
-![Pasted image 20230424221209](https://cdn.pkmer.cn/images/2c979cb739decf30700a079a45ca0da8_MD5.png)
+![Pasted image 20230424221209](https://cdn.pkmer.cn/images/2c979cb739decf30700a079a45ca0da8_MD5.png!pkmer)
 
 - 选项一：更改标签名称
     可批量更改此标签及其嵌套标签的名称。
@@ -74,6 +73,10 @@ public: yes
 
 在 Tag wrangler 标签树下，在任意一个标签上右键，可在弹出的菜单中将该标签其加入搜索
 
-![image.png](https://cdn.pkmer.cn/images/18c6c4a2c588b441fdcd91b360671a9e_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/18c6c4a2c588b441fdcd91b360671a9e_MD5.png!pkmer)
 
-![image.png](https://cdn.pkmer.cn/images/be3ce565d1bad9660f0dcaecc6e67ee1_MD5.png)
+![image.png](https://cdn.pkmer.cn/images/be3ce565d1bad9660f0dcaecc6e67ee1_MD5.png!pkmer)
+
+> [!Tip] 推荐阅读
+> - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+> - [[obsidian-frontmatter-tag-suggest]]：很好解决记忆标签和快速输入的问题，提供标签自动建议的方法，让你可以键入简单字母来快速联想出来对应的标签

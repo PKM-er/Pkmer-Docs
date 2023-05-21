@@ -1,12 +1,13 @@
 ---
 uid: 20230506111321
 title: Obsidian 插件：Emoji Shortcodes 快速输入 emoji 表情符号
-description: 
-author: 
+tags: [Obsidian, 插件, emoji, 效率, 表情符号]
+description: Obsidian 插件：Emoji Shortcodes 快速输入 emoji 表情符号
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230507013217
+modified: 20230515233930
 ---
 
 # Obsidian 插件：Emoji Shortcodes 快速输入 emoji 表情符号
@@ -23,7 +24,7 @@ Emoji Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的�
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230506111801.png)
+![image.png](https://cdn.pkmer.cn/images/20230506111801.png!pkmer)
 
 ## 使用
 
@@ -31,7 +32,7 @@ Emoji Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的�
 - 输入对应短代码后，插件会自动进行提示，方便你快速寻找。如果不喜欢建议可以在插件设置中 `Emoji Suggester` 中关闭。
 - 支持最近使用 emoji 表情历史记录，并可以在插件设置中开关选项（Use History Priority），或者减少历史记录数量，或清理历史记录。
 
-![image.png](https://cdn.pkmer.cn/images/20230506112934.png)
+![image.png](https://cdn.pkmer.cn/images/20230506112934.png!pkmer)
 
 >[!Tip] 提示
 >- 这个插件并不支持 emoji 之外的图标或者符号集合

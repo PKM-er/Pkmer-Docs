@@ -1,12 +1,13 @@
 ---
 uid: 20230504213101
 title: Calendar 插件的样式修改
+tags: [css]
 description: 
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230506140806
+modified: 20230515233931
 ---
 
 # Calendar 插件的样式修改
@@ -19,7 +20,7 @@ modified: 20230506140806
 
 ## 实现效果
 
- ![image.png](https://cdn.pkmer.cn/images/202305042319386.png)
+ ![image.png](https://cdn.pkmer.cn/images/202305042319386.png!pkmer)
 
 ## 实现代码
 

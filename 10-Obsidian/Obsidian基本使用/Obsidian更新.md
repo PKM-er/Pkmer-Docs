@@ -1,14 +1,13 @@
 ---
 uid: 20230329145856
 title: Obsidian 更新
+tags: []
 description: 
-tags: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230414111502
-public: yes
+modified: 20230515233932
 ---
 
 # Obsidian 更新

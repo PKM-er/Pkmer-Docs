@@ -1,15 +1,16 @@
 ---
 uid: 20230504113543
-title: Obsidian 插件
-description: 
-author: 
+title: Obsidian 插件：Novel word count 增加统计信息
+tags: [Obsidian, 插件, 统计, 自定义]
+description: Obsidian 插件：Novel word count 增加统计信息
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230504121511
+modified: 20230516195335
 ---
 
-# Obsidian 插件
+# Obsidian 插件：Novel word count 增加统计信息
 
 ## 概述
 
@@ -19,11 +20,11 @@ modified: 20230504121511
 > - 插件名称：Novel word count
 > - 插件作者：Isaac Lyman
 > - 插件说明：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
-> - 插件项目地址：[点我跳转](https://github.com/Darakah/obsidian-comments-plugin)
+> - 插件项目地址：[点我跳转](https://github.com/isaaclyman/novel-word-count-obsidian)
 
 ## 效果&特性
 
-![readme-screenshot-2.png](https://cdn.pkmer.cn/images/readme-screenshot-2.png)
+![readme-screenshot-2.png](https://cdn.pkmer.cn/images/readme-screenshot-2.png!pkmer)
 
 - 在文件资源管理器窗格中，为每个文件、文件夹和仓库旁边显示您选择的统计信息。
 - 插件提供可选的统计信息，包括字数统计、页面统计、字符统计、笔记统数量统计、创建/修改日期、文件大小。
@@ -52,7 +53,7 @@ modified: 20230504121511
 >- 页面统计的计算方法。选择是根据单词数（默认：300）还是根据字符数（默认：1500）计算页面。您可以更改要使用的单词数/字符数。
 >- 每页字数/每页字符数。根据所选的页面计数方法设置每页的单词数或字符数。
 
-6.重新分析所有文档。触发对库中所有文档的重新计数。如果您在 Obsidian 之外进行了更改，则此项非常有用。（此命令提供了热键绑定。）
+6.重新分析所有文档。触发对库中所有文档的重新计数。如果您在 Obsidian 之外进行了更改，则此项非常有用。（此命令提供了快捷键绑定。）
 
 7.调试模式。启用开发者控制台的调试输出，这在您需要报告问题时可能非常有用。
 
@@ -66,3 +67,7 @@ modified: 20230504121511
 - 创建日期
 - 最后更新日期
 - 文件大小
+
+> [!Tip] 推荐阅读
+> - [[better-word-count]]：
+> - [[file-explorer-note-count]]：增加文件数量统计功能

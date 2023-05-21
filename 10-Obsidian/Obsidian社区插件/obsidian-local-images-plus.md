@@ -1,17 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Local image plus
-description: 
-tags: 
+title: Obsidian 插件：Local image plus 将网络图片自动变为本地
+tags: []
+description: Obsidian 插件：Local image plus
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230428114955
-public: yes
+modified: 20230516113952
 ---
 
-# Obsidian 插件：Local image plus
+# Obsidian 插件：Local image plus 将网络图片自动变为本地
 
 ## 概述
 
@@ -20,7 +19,7 @@ public: yes
 > [!Note] 插件名片
 > - 插件名称：Local image plus
 > - 插件作者：Sergei-Korneev
-> - 插件说明：日语书写中给对应的汉字生成注音假名
+> - 插件说明：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 > - 插件项目地址：[点我跳转](https://github.com/Sergei-Korneev/obsidian-local-images-plus)
 
 ## 特性

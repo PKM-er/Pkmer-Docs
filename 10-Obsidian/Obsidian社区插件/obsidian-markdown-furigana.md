@@ -1,17 +1,16 @@
 ---
 uid: 20230329145808
 title: Obsidain 插件：Markdown Furigana（日文学习如何增加假名）
-description: 
-tags: 
+tags: []
+description: Obsidain 插件：Markdown Furigana（日文学习如何增加假名）
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230429181108
-public: yes
+modified: 20230515233929
 ---
 
-# Obsidain 插件：Markdown Furigana（日文学习如何增加假名）
+# Obsidain 插件：Markdown Furigana日文学习如何增加假名
 
 学习日文时经常需要知道汉字的发音（假名），Markdown Furigana 插件可以很方便的输入与显示振假名（振り反名／ふりがな），同时也能处理注音符号与汉语拚音。
 
@@ -27,7 +26,7 @@ public: yes
 
 {地球|ほし} {漢|おとこ} {強敵|とも} {本気|マジ} {凝視|みつめ} る
 
-![Pasted image 20230126195656](https://cdn.pkmer.cn/images/7507a79e4a47f4178e9b57e126ac5c4f_MD5.png)
+![Pasted image 20230126195656](https://cdn.pkmer.cn/images/7507a79e4a47f4178e9b57e126ac5c4f_MD5.png!pkmer)
 
 1. {漢字|ㄏㄢ ˋ ㄗ ˋ}： {漢字|ㄏㄢ ˋ ㄗ ˋ}
 
@@ -41,7 +40,7 @@ public: yes
 <ruby>漢<rt>ㄏㄢˋ</rt>字<rt>ㄗˋ</rt></ruby>
 ```
 
-![Pasted image 20230126195843](https://cdn.pkmer.cn/images/5ab1ca163822e3dd4fb2695d5762f43b_MD5.png)
+![Pasted image 20230126195843](https://cdn.pkmer.cn/images/5ab1ca163822e3dd4fb2695d5762f43b_MD5.png!pkmer)
 
 ## 扩展阅读
 
@@ -64,3 +63,8 @@ HTML 标签 ruby
 ```
 <ruby  style="ruby-position:under">漢字 <rt>ㄏㄢˋㄗˋ </rt></ruby>
 ```
+
+> [!Tip] 推荐阅读
+> - [[japanese-word-splitter]]：添加支持日语分词
+> - [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
+> - [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容

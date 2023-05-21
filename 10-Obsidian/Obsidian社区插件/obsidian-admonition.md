@@ -1,15 +1,16 @@
 ---
 uid: 20230504102443
-title: obsidian-admonition
-description: 
+title: Obsidian 插件：Admonition
+tags: []
+description: Obsidian 插件：Admonition 你可以自己定义各种增强块样式，比如警告，笔记，提醒等
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230504110053
+modified: 20230515233930
 ---
 
-# obsidian-admonition
+# Obsidian 插件：Admonition
 
 > [!Note] 插件名片
 > - 插件名称：Admonition
@@ -39,8 +40,8 @@ color:                  # 自定义颜色(颜色必须是 RGB 格式的三组数
 
 #### 特殊用法
 
-- 嵌套ad 通过增加反引号的数量来决定嵌套的层级
-  
+- 嵌套 ad 通过增加反引号的数量来决定嵌套的层级
+
 `````ad-note
 title: 这是一个嵌套Ad
 collapse: open
@@ -62,7 +63,6 @@ collapse: close
 我是最外层的
 `````
 
-
 - Ad 中嵌套代码块 其中 `~~~` 为代码块内容
 
 ````ad-info
@@ -81,8 +81,7 @@ console.log("Hello!");
 ````
 
 - 通过 ctrl+p 输入 admontion 快捷插入 callout 或者 ad 语法块
-  ![image.png](https://cdn.pkmer.cn/images/202305041045797.png)
-
+  ![image.png](https://cdn.pkmer.cn/images/202305041045797.png!pkmer)
 
 ## 高级玩法
 
@@ -90,9 +89,9 @@ Ad 插件支持自定义类型，而自定义类型通常绑定了唯一的 css 
 
 比如实现双栏布局。在 ad 插件设置中增加一个类型 col2.
 
-![image.png](https://cdn.pkmer.cn/images/202305041054371.png)
+![image.png](https://cdn.pkmer.cn/images/202305041054371.png!pkmer)
 
-![image.png](https://cdn.pkmer.cn/images/202305041053207.png)
+![image.png](https://cdn.pkmer.cn/images/202305041053207.png!pkmer)
 
 并增加一个 css 片段内容如下,就可以实现 ad-col2 类型包裹的内容自动分两栏的效果。
 
