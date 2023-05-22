@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230521161319
+modified: 20230522215018
 ---
 
 # Obsidian 插件常见问题
@@ -80,3 +80,10 @@ modified: 20230521161319
 3. 按照下图所示，关闭【Use Twemoji】，即可解决问题。【当然可能有人会觉得 Twemoji 比默认系统 emoji 更美观】
 
 ![banners设置](https://cdn.pkmer.cn/images/066c9f4b1cad89a77853126e9f51b05f_MD5.png!pkmer)
+
+### Obsidian 插件 Excalidraw 的橡皮擦在哪里
+
+- 按 Ctrl/Cmd+Z 就能取消上最近一次的操作；
+- 点击对应的形状（shape）后有刪除可用；
+
+![image.png](https://cdn.pkmer.cn/images/20230522215014.png!pkmer)
