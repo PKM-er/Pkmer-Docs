@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230521234235
+modified: 20230522214824
 ---
 
 # Obsidian 基础操作
@@ -73,6 +73,11 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 ## 显示&输入
 
+### Obsidian 为什么不能重命名文件名
+
+- 问题：我想重命名文件名为“LC-MS/MS”，但弹出错误
+	- Windows 系统对文件名有限制，文件名不能包含下列任何字符 \  / ：* ？ “
+
 ## Obsidian 中如何在正文内显示文件标题
 
 - Ob 默认在笔记页内标题栏、标签页上都会显示对应的文件标题
@@ -120,6 +125,13 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 这是 Markdown 的语法，不像 Word 有手动第一行缩进排版，它本身是一种写作即排版，缩进在 Markdown 里代表层级，多用于列表，普通文本不使用缩进。
 
 在 Markdown 里面， 行首缩紧四个空格 或 Tab 表示代码快。所以你的正文变成了特殊样式。
+
+### Obsidian 文件列表的提示功能可以关闭吗
+
+- 现象
+![image.png](https://cdn.pkmer.cn/images/20230522202809.png!pkmer)
+- 可以使用 [[obsidian-hider]] 插件
+	- 关闭 tooltips 即可
 
 ### Obsidian 如何在编辑中显示行号
 
@@ -292,14 +304,14 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 
 注意区别
 
-#我是标签
+`#我是标签`
 
 和
 
-# 我是标题
+`# 我是标题`
 
-- 标签：前者无空格
-- 标题：后者有空格
+- 标签：前者#号与内容之间无空格
+- 标题：后者#号与内容之间有空格
 
 ### Obsidian 中如何撤销和重做
 
@@ -310,6 +322,29 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 	- [[cmenu-plugin]]
 - 针对标签页，快捷键方法
 	- 打开最近关闭的标签： Ctrl + Shift + T
+
+### 为什么我的 Obsidian 显示加粗文字不正常
+
+- 已经加粗了文字，但是在阅读或者实时阅览 模式下，显示仍然不加错。
+- 原因：
+	- 可能原因 1：你使用的主题或者 snippets 存在 Bug
+		- Lime_ 百草霜主题老版中，将 font-weight 设置了较低的值。到主题文件，注释掉对应的语句，即可解决问题，位置如下：
+
+```CSS
+
+strong {
+
+    font-weight: 350 !important;
+
+    color: var(--inline-code);
+
+}
+
+```
+
+### Obsidian 如何批量、快速管理标签 Tag
+
+参看：[[tag-wrangler]] 插件
 
 ### 编辑时怎样使打字界面始终居于页面中央
 
@@ -338,6 +373,16 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
  - 阅读模式下复制代码域（代码块）中的内容
 
 鼠标移动到 代码块（代码域）右上角，会浮现”复制“按钮，点击即可复制。 点击后系统会通知【已复制到剪贴板】
+
+### Obsidian 复制代码到代码块，缩进消失
+
+- 从网页，或者其他编辑器中，复制代码到 Obsidian 的代码域中，缩进都消失了
+- 问题现象：
+![image.png|400](https://cdn.pkmer.cn/images/20230522203333.png!pkmer)
+- 解决：
+	- 其他编辑器或者环境，将代码放入 OB 中，需要使用快捷键
+		- Win： `ctrl+shift+v`
+		- Mac：⌘ + ⇧ + V
 
 ### 在代码段里输入 `
 
@@ -450,6 +495,11 @@ Quiet outline 主要是可以分层级展开正文标题，去梳理层级结构
 - 可以按 Shift 多选，按 Alt 单独选择。
 - 然后可以右键，选择 【将 x 个文件移动到...】。
 - 在弹出的对话框中选择目标文件夹。
+
+### Obsidian 有没有快速删除图片的方法
+
+- 快速删除没有使用的图片，参考 [[oz-clear-unused-images]]
+- 快速删除没有链接的文件，参考 [[find-unlinked-files]]
 
 ## 关系图谱
 
