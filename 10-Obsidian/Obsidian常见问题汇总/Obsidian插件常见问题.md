@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230522215018
+modified: 20230524151300
 ---
 
 # Obsidian 插件常见问题
@@ -46,6 +46,8 @@ modified: 20230522215018
 2. 可能是由于网络原因下载没下全：只下载全了 `manifest.json` 文件，导致插件列表有开启选项，但不能开启。解决办法就是卸载插件重新下。
 3. 插件代码有问题：这种情况很少很少，一般开发者都是调试好了的。解决办法是在 Github 向插件开发者反馈。
 
+## Calendar
+
 ### 打开 Calendar 后侧边栏不显示对应图标
 
 1. 先检查是否已经关闭了 OB 的社区插件安全模式
@@ -62,6 +64,8 @@ modified: 20230522215018
 		- 你可以鼠标指向 功能图标后，使用滚轮来滚动时期出现
 		- 或者把对应 Calendar 图标转过来。
 		- 或者减少一些不需要功能图标
+
+## banners
 
 ### 为什么 Obsidian 的头图 或者 banners 插件显示异常
 
@@ -81,9 +85,26 @@ modified: 20230522215018
 
 ![banners设置](https://cdn.pkmer.cn/images/066c9f4b1cad89a77853126e9f51b05f_MD5.png!pkmer)
 
+## Excalidraw
+
 ### Obsidian 插件 Excalidraw 的橡皮擦在哪里
 
 - 按 Ctrl/Cmd+Z 就能取消上最近一次的操作；
 - 点击对应的形状（shape）后有刪除可用；
 
 ![image.png](https://cdn.pkmer.cn/images/20230522215014.png!pkmer)
+
+## EasyTyping
+
+### 数字后面的中文字词会重复两次
+
+- 现象
+	- 如输入“2018 年“
+	- 显示会变为“2018 年年“
+	- 关闭插件后问题消失。重启主程序，重新加载插件均无效。
+- 解决
+	- 方案一：更换输入法，此问题一般出现在你的输入法是微软拼音输入法
+	- 方案二：关闭微软拼音中的【兼容性】选项
+	![image.png](https://cdn.pkmer.cn/images/20230524151250.png!pkmer)
+
+## Templater

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230522212849
+modified: 20230524233958
 ---
 
 # Obsidian 社区插件
@@ -91,7 +91,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
 - [[obsidian-image-caption]]：给图片增加说明题注
 - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
- - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
+- [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
+- [[mousewheel-image-zoom]]： 能够通过按住可配置键（默认为左 alt），在编辑/阅读模式下通过滚轮来调节图像的大小
 
 ### 目录和大纲类
 
@@ -171,6 +172,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 绘图
 
+在 Obsidian 中，您可以使用多种绘图工具，例如 Excalidraw 和 mermaid，来完成流程图、UML 图等专业图表的绘制，以辅助表达您的笔记内容。
+
 - [[obsidian-excalidraw-plugin]]：在 Obsidian 中 使用 Excalidraw 绘图
 - [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
 
@@ -183,6 +186,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
 
 ### Frontmatter
+
+在 Obsidian 中，我们可以使用 frontmatter 这个元数据区域来添加笔记的一些额外信息，例如别名、标签等等。这些信息可以帮助我们更好地组织笔记和查找笔记。而且 Obsidian 还有一些插件可以帮助我们更好地管理 frontmatter，这里介绍几种常用的插件：
 
 - [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
 - [[obsidian-metatable]]：美化 frontmatter 的显示样式

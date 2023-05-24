@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517144817
+modified: 20230524233349
 ---
 
 # Obsidian 插件：Better File Link 图形化插入文件和素材
@@ -63,3 +63,9 @@ Obsidian 本身提供了很丰富的插件引用和插入方式，[[Markdown#引
 - Audio: `mp3`, `webm`, `wav`, `m4a`, `ogg`, `3gp`, `flac`
 - Video: `mp4`, `webm`, `ogv`
 - PDF: `pdf`
+
+> [!Tip] 相关推荐
+> - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
+> - [[obsidian-image-caption]]：给图片增加说明题注
+> - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
+> - [[mousewheel-image-zoom]]： 能够通过按住可配置键（默认为左 alt），在编辑/阅读模式下通过滚轮来调节图像的大小
