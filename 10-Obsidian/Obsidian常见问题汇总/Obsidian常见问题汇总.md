@@ -7,7 +7,7 @@ author: Pkmer
 type: other
 draft: false
 editable: false
-modified: 20230522215035
+modified: 20230524151811
 ---
 
 # Obsidian 常见问题汇总
@@ -96,3 +96,4 @@ modified: 20230522215035
 - [打开 Calendar 后侧边栏不显示对应图标](Obsidian插件常见问题.md#打开%20Calendar%20后侧边栏不显示对应图标)
 - [为什么 Obsidian 的头图 或者 banners 插件显示异常](Obsidian插件常见问题.md#为什么%20Obsidian%20的头图%20或者%20banners%20插件显示异常)
 - [[Obsidian插件常见问题#Obsidian 插件 Excalidraw 的橡皮擦在哪里]]
+- [[Obsidian插件常见问题#数字后面的中文字词会重复两次]]
