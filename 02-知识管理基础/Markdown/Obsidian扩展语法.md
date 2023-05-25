@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516141955
+modified: 20230524231730
 ---
 
 # Obsidian 扩展语法
@@ -20,6 +20,20 @@ modified: 20230516141955
 ![[笔记文件名#标题名]]  引用具体笔记某个标题下的全部内容
 ![[笔记文件名^文本块]]  应用具体笔记下某个文本块的内容
 ```
+
+## 自定义图片大小
+
+以下方式都是允许的：
+
+- `![AltText|100x100](https://url/to/image.png)`，引用网络图片，并做裁剪，指定宽高
+- `![AltText|100](https://url/to/image.png)`，引用网络图片，指定宽度，图片按照宽度缩放
+- `![[image.png|100x100]]`，对本地图片（仓库中）宽度高度都做裁剪
+- `![[image.png|100]]`，对本地图片（仓库中）并指定宽度，图片按照宽度缩放
+
+或者这样表述你更你更理解：
+
+- `![图片名称|宽度数值](链接地址)`，引用网络图片，并做裁剪
+- `![[图片名|宽度数值]]`，对本地图片（仓库中）宽度高度都做裁剪
 
 ## Callout
 
@@ -165,7 +179,7 @@ modified: 20230516141955
 2. 复制嵌入代码
 例子：`<iframe src="//player.bilibili.com/player.html...." scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>`
 
-![image.png](https://cdn.pkmer.cn/images/20230516141418.png!pkmer)
+![image.png|566](https://cdn.pkmer.cn/images/20230516141418.png!pkmer)
 
 1. 修改嵌入代码为：`<iframe src="**http:**//[http://player.bilibili.com/player.html...](https://link.zhihu.com/?target=http%3A//player.bilibili.com/player.html...)." scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>`
 

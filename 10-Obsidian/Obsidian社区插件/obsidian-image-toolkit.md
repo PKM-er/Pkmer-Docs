@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Image toolkit
+title: Obsidian 插件：Image toolkit 提供笔记中查看图片的基本操作
 tags: [插件, 图片, 格式调整, image]
 description: Obsidian 插件：Image toolkit 提供笔记中查看图片的基本操作
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515231216
+modified: 20230524233115
 ---
 
 # Obsidian 插件：Image toolkit 提供笔记中查看图片的基本操作
@@ -91,3 +91,9 @@ modified: 20230515231216
 
 - 直接用鼠标拖动图片
 - 不支持通过方向键来移动图片
+
+> [!Tip] 相关推荐
+> - [[obsidian-image-caption]]：给图片增加说明题注
+> - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
+> - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
+> - [[mousewheel-image-zoom]]： 能够通过按住可配置键（默认为左 alt），在编辑/阅读模式下通过滚轮来调节图像的大小

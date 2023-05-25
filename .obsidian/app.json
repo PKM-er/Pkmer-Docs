@@ -13,5 +13,5 @@
   },
   "spellcheck": false,
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }

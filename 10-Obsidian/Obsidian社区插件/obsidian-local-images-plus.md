@@ -43,3 +43,9 @@ modified: 20230516113952
 
 - `Media foloder`：指定下载的图片存储路径。
 - `Show notification`：完成下载图片存储后弹出提示。
+
+> [!Tip] 相关推荐
+> - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
+> - [[obsidian-image-caption]]：给图片增加说明题注
+> - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
+> - [[mousewheel-image-zoom]]： 能够通过按住可配置键（默认为左 alt），在编辑/阅读模式下通过滚轮来调节图像的大小
