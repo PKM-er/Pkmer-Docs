@@ -1,3 +1,15 @@
+---
+uid: 20230525124444
+title: Obsidian 插件推荐：Regex Pipeline
+tags: []
+description: 
+author: 致九
+type: other
+draft: false
+editable: false
+modified: 20230525131138
+---
+
 # Obsidian 插件推荐：Regex Pipeline
 
 > [!Note] 插件名片
@@ -5,7 +17,7 @@
 > - 插件版本：1.4.0
 > - 插件作者：[No3371](https://github.com/No3371)
 > - 插件描述：
-> - 插件项目地址：https://github.com/No3371/obsidian-regex-pipeline
+> - 插件项目地址：<https://github.com/No3371/obsidian-regex-pipeline>
 
 ## Regex Pipeline 是什么？
 
