@@ -7,7 +7,7 @@ author:
 type: basic
 draft: false
 editable: false
-modified: 20230525183627
+modified: 20230526191115
 ---
 
 # Obsidian 插件：Second Window 使用新窗口中打开图像和笔记
@@ -35,3 +35,9 @@ modified: 20230525183627
 >[!Warning] 警告
 >- 少数情况下，对于图片新窗口打开失效
 >- 少数情况下，对于笔记的新窗口打开，会出现中文乱码
+>- 少数情况下，对于笔记的新窗口打开，会出现中文乱码
+
+> [!Tip] 相关推荐
+> - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
+> - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+> - [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
