@@ -1,13 +1,13 @@
 ---
 uid: 20230328202827
 title: Markdown 基础
-tags: 
+tags: [Markdown]
 description: 
 author: 
 type: basic
 draft: false
 editable: true
-modified: 20230516141050
+modified: 20230525150051
 ---
 
 # Markdown 基础
@@ -535,12 +535,13 @@ Here's a simple footnote,[^1] and here's a longer one.[^2]
 | 空格           | `&nbsp;`     |
 | 中文全角空格   | `&amp`       |
 
-[^1]: This is the first footnote.
-[^2]: Here's one with multiple paragraphs and code.
-
 ## 扩展语法
 
 除了上面标准的 Markdown 的支持，Obsidian 还支持一些自己的特有语法，便方便我们更高效的管理笔记。
 
 >[!Tip] 关联推荐
 >- [[Obsidian扩展语法]]
+
+[^1]: This is the first footnote.
+
+[^2]: Here's one with multiple paragraphs and code.

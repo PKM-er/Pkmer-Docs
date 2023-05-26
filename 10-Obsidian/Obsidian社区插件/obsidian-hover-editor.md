@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230525174230
 ---
 
 # Obsidian 插件：Hover Editor
@@ -20,6 +20,7 @@ Hover Editor 插件通过将悬停弹窗变成一个功能齐全的编辑器，�
 
 > [!Note] 插件名片
 > - 插件名称：Hover Editor
+> - 插件版本：0.11.11
 > - 插件作者：NothingIsLost
 > - 插件说明：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能。
 > - 插件项目地址：[点我跳转](https://github.com/nothingislost/obsidian-hover-editor)

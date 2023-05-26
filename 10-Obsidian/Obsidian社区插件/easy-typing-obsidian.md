@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Easy Tpying
+title: Obsidian 插件：Easy Tpying 自动格式化你的中英文标点输入格式
 tags: [Obsidian, 插件, 输入, 效率, 自动化]
 description: Obsidian 插件：Easy Tpying 自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230524102824
+modified: 20230525154614
 ---
 
-# Obsidian 插件：Easy Tpying
+# Obsidian 插件：Easy Tpying 自动格式化你的中英文标点输入格式
 
 Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 

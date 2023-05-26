@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Calendar
+title: Obsidian 插件：Calendar 简单使用的阅历和任务管理方式
 tags: []
 description: Obsidian 插件：Calendar为 Obsidian 添加一个简单日历功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230525154642
 ---
 
-# Obsidian 插件：Calendar
+# Obsidian 插件：Calendar 简单使用的阅历和任务管理方式
 
 ## 概述
 
