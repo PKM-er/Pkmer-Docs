@@ -2,12 +2,12 @@
 uid: 20230525124444
 title: Obsidian 插件推荐：Regex Pipeline
 tags: []
-description: 
+description: Regex Pipeline 是一款让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用 **正则表达式** 这个强大的文本处理技术可以执行更复杂的文本操作。
 author: 致九
 type: other
 draft: false
 editable: false
-modified: 20230525131138
+modified: 20230526131351
 ---
 
 # Obsidian 插件推荐：Regex Pipeline
@@ -16,12 +16,12 @@ modified: 20230525131138
 > - 插件名称：Regex Pipeline
 > - 插件版本：1.4.0
 > - 插件作者：[No3371](https://github.com/No3371)
-> - 插件描述：
+> - 插件描述：Regex Pipeline 是一款让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用 **正则表达式** 这个强大的文本处理技术可以执行更复杂的文本操作。
 > - 插件项目地址：<https://github.com/No3371/obsidian-regex-pipeline>
 
 ## Regex Pipeline 是什么？
 
-Regex Pipeline 是一款让方便用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用 **正则表达式** 这个强大的文本处理技术可以执行更复杂的文本操作。
+Regex Pipeline 是一款让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用 **正则表达式** 这个强大的文本处理技术可以执行更复杂的文本操作。
 
 以下是 [Regex Pipeline](https://github.com/No3371/obsidian-regex-pipeline) 对自己的介绍：
 
