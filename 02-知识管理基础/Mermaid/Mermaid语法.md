@@ -1,7 +1,7 @@
 ---
 uid: 20230518204621
 title: Mermaid 语法
-tags: []
+tags: [mermaid]
 description: 
 author: cuman,OS
 type: other

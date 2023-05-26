@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230522214824
+modified: 20230525174045
 ---
 
 # Obsidian 基础操作
@@ -24,13 +24,17 @@ Windows：Windows 的安装包是没办法自定义安装位置的。
 
 Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以随意移动。
 
-### 基本操作
+## 启动
 
-### 如何收起文件列表/左侧侧边栏/左侧面板
+### 无法启动显示，显示“DiscardVirtualMemory“
 
-方法 1：点击 [[文件列表]] 左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png!pkmer)
+- 现象
+![image.png|442](https://cdn.pkmer.cn/images/20230525173840.png!pkmer)
 
-方法 2：Ctrl + P，输入”折叠/收起左侧边栏”
+- 原因
+	- 你的操作系统版本过低，且使用了较高版本的安装包或更新。
+	- 如果你不想放弃你的操作系统，那么回退到更早的 Obsidian 是个方法。
+	- 强力建议，升级系统，一方面是整体安全问题，另外就是使用旧版本 Obsidian 无法体验新功能。
 
 ### 重启 Obsidian 的方法
 
@@ -39,6 +43,14 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 2、快捷键：Ctrl/Cmd + P，在 OB 的命令窗口中，输入“重新加载 Obsidian”
 
 有些 Obsidian 设置或插件，需要重启后才能生效，可以用到以上方法。
+
+## 基本操作
+
+### 如何收起文件列表/左侧侧边栏/左侧面板
+
+方法 1：点击 [[文件列表]] 左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png!pkmer)
+
+方法 2：Ctrl + P，输入”折叠/收起左侧边栏”
 
 ### Obsidian 多个仓库间可以公用一套配置
 
@@ -76,7 +88,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 ### Obsidian 为什么不能重命名文件名
 
 - 问题：我想重命名文件名为“LC-MS/MS”，但弹出错误
-	- Windows 系统对文件名有限制，文件名不能包含下列任何字符 \  / ：* ？ “
+	- Windows 系统对文件名有限制，文件名不能包含下列任何字符 \ / ：* ？ “
 
 ## Obsidian 中如何在正文内显示文件标题
 

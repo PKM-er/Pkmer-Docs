@@ -1,16 +1,16 @@
 ---
 uid: 20230518180515
-title: Obsidian 插件：Mermaid Tools
+title: Obsidian 插件：Mermaid Tools 快捷输入工具，降低你输入 Merimad 的难度
 tags: []
 description: 
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230518204835
+modified: 20230525155010
 ---
 
-# Obsidian 插件：Mermaid Tools
+# Obsidian 插件：Mermaid Tools 快捷输入工具，降低你输入 Merimad 的难度
 
 ## 概述
 

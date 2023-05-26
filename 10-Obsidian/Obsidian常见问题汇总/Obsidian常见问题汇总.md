@@ -7,7 +7,7 @@ author: Pkmer
 type: other
 draft: false
 editable: false
-modified: 20230524151811
+modified: 20230525174156
 ---
 
 # Obsidian 常见问题汇总
@@ -26,6 +26,11 @@ modified: 20230524151811
 
 - [[Obsidian基础操作问题#安装包获取途径]]
 - [[Obsidian基础操作问题.md#如何自定 Obsidian 的安装位置]]
+
+## 启动
+
+- [[Obsidian基础操作问题#重启 Obsidian 的方法]]
+- [[Obsidian基础操作问题#无法启动显示，显示“DiscardVirtualMemory“]]
 
 ## 基本操作
 

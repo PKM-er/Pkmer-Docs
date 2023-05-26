@@ -1,7 +1,7 @@
 ---
 uid: 20230516140955
 title: Obsidian 扩展语法
-tags: []
+tags: [Markdown]
 description: 
 author: OS
 type: other
