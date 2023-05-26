@@ -278,6 +278,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
 - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
 - [[obsidian42-brat]]：让你可以安装未上架的插件，主题
+- [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
 
 ### 语言
 
