@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230525183857
+modified: 20230526191143
 ---
 
 # Obsidian 社区插件
@@ -181,6 +181,12 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 窗口
 
+- [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
+- [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
+- [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+- [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
+- [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
+
 ### 视图模式
 
 这些插件跟 Obsidian 提供的多种视图模式有关，让你更加灵活的使用不同的视图模式。
@@ -278,6 +284,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
 - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
 - [[obsidian42-brat]]：让你可以安装未上架的插件，主题
+- [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
 
 ### 语言
 
