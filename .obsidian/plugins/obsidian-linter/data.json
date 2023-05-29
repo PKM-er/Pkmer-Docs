@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "uid:\ntitle:\ntags: \ndescription:\nauthor: cuman\ntype: other\ndraft: false\neditable: false\nmodified:  "
+      "text-to-insert": "uid:\ntitle:\ntags: \ndescription:\nauthor: \ntype: other\ndraft: false\neditable: false\nmodified:  "
     },
     "move-tags-to-yaml": {
       "enabled": true,
