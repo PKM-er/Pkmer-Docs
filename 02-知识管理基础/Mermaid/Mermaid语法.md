@@ -2,12 +2,12 @@
 uid: 20230518204621
 title: Mermaid 语法
 tags: [mermaid]
-description: 
+description: Mermaid 语法
 author: cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20230518205054
+modified: 20230530232626
 ---
 
 # Mermaid 语法
