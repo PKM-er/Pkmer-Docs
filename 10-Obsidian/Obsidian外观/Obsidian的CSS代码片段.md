@@ -2,7 +2,7 @@
 uid: 20230329145808
 title: Obsidian 的 CSS 代码片段
 tags: []
-description: 
+description: Obsidian 的 CSS 代码片段
 author: OS
 type: other
 draft: false

@@ -1,13 +1,13 @@
 ---
 uid: 20230329102645
 title: Obsidian 更新
-tags: 
-description: 
+tags: []
+description: Obsidian 更新
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230517161647
+modified: 20230530230548
 ---
 
 # Obsidian 更新

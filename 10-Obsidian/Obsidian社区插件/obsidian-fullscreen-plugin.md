@@ -2,7 +2,7 @@
 uid: 20230517194245
 title: Obsidian 插件：Fullscreen mode plugin 让笔记全屏化
 tags: []
-description: 
+description: Obsidian 插件：Fullscreen mode plugin 让笔记全屏化
 author: OS
 type: other
 draft: false

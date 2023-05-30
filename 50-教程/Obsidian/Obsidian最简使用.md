@@ -1,13 +1,13 @@
 ---
 uid: 20230529231934
-title: Obsidian最简使用
-tags: 
-description: 
+title: Obsidian 最简使用
+tags: []
+description: Obsidian 最简使用，基础入门，初见
 author: Ryooo
 type: tutorial
 draft: false
 editable: false
-modified: 20230529232018
+modified: 20230530231200
 ---
 
 # Obsidian 最简使用
@@ -17,9 +17,9 @@ modified: 20230529232018
 在使用 Obsidian 之前，首先得明白 Obsidian 的三个基本概念——笔记、附件与仓库。
 
 笔记是 Obsidian 中记录信息的基本单元。在 Obsidian 中，笔记通常以 Markdown 文件的形式存储。
- 
+
 附件则是除文本笔记（Markdown）外的其他形式的文件，例如图片、PDF、音频等。在 Obsidian 中，你可以使用拖放的方式将附件嵌入到笔记中。
-    
+
 仓库则是存储笔记和附件的地方。在 Obsidian 中，一个仓库通常对应于一个本地文件夹。一个仓库包含许多 Markdown 文件和附件。
 
 ## 二、创建仓库
@@ -48,7 +48,7 @@ modified: 20230529232018
 
 # 四、链接笔记
 
-之前我们在 Markdown 部分说过链接语法，不过 Obsidian 对这种语法进行了简化——在 Obsidian 中，通过 `[[文件名]]` 这样的语法即可链接其他笔记。 
+之前我们在 Markdown 部分说过链接语法，不过 Obsidian 对这种语法进行了简化——在 Obsidian 中，通过 `[[文件名]]` 这样的语法即可链接其他笔记。
 
 甚至，Obsidian 不需要我们完整地输出链接，只需要输入 `[[`，然后在弹出的候选框中输入所需笔记的部分标题，选中后回车，Obsidian 就会自动帮我们插入该篇笔记。
 
@@ -56,7 +56,7 @@ modified: 20230529232018
 
 # 五、插入图片
 
-与插入链接一样，Obsidian 也对插入图片的语法进行了优化——在 Obsidian 中，通过 `![[图片名]]` 这样的语法即可链接其他笔记。 
+与插入链接一样，Obsidian 也对插入图片的语法进行了优化——在 Obsidian 中，通过 `![[图片名]]` 这样的语法即可链接其他笔记。
 
 不过，在 Obsidian 中插入图片远没有那么麻烦，我们只需要复制图片后在需要插入图片的笔记中粘贴即可，剩下的功能 Obsidian 都会帮我们自动完成。
 

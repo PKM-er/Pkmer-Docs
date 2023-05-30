@@ -2,12 +2,12 @@
 uid: 20230429231506
 title: Obsidian 插件：Dynamic Highlights 快速为笔记增加高亮
 tags: [Obsidian, 插件, 缩进, 美化]
-description: Obsidian 插件：Dynamic Highlights
+description: Obsidian 插件：Dynamic Highlights 快速为笔记增加高亮
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230530225138
 ---
 
 # Obsidian 插件：Dynamic Highlights 快速为笔记增加高亮

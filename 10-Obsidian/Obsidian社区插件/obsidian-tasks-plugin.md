@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230530225902
 ---
 
 # Obsidian 插件：Tasks 更方便的任务管理
@@ -45,7 +45,6 @@ modified: 20230515233928
 > [!tip] 提示
 > 如果仅仅创建简单任务，直接用 Obsidian 的快捷键 `ctrl+L` 就可以把当前行内容转为任务。
 > ![image.png](https://cdn.pkmer.cn/images/202305160918451.png!pkmer)
-
 
 ### 查询任务
 

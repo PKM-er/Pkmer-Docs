@@ -2,12 +2,12 @@
 uid: 20230429173235
 title: Obsidian 插件：Obsidian Tabs 为 Obsidian 增加标签页功能
 tags: []
-description: Obsidian Tabs 为 Obsidian 增加标签页功能
+description: Obsidian 插件：Obsidian Tabs 为 Obsidian 增加标签页功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516005003929
+modified: 20230530225835
 ---
 
 # Obsidian 插件：Obsidian Tabs 为 Obsidian 增加标签页功能
@@ -29,7 +29,6 @@ modified: 20230516005003929
 ## 效果&特性
 
 ![image.png](https://cdn.pkmer.cn/images/202305160907814.png!pkmer)
-
 
 ## 使用
 

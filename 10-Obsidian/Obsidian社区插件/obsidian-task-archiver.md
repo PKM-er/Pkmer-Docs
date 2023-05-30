@@ -2,12 +2,12 @@
 uid: 20230513113641
 title: Obsidian 插件：Archiver 帮你快速归类待办任务
 tags: [Obsidian, 插件, Archiver, 存档, 归类, 已完成待办]
-description: Archiver 插件，他能将已经完成的任务归档到笔记中一个独立标题下方。
+description: Obsidian 插件：Archiver 插件，他能将已经完成的任务归档到笔记中一个独立标题下方。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230530225857
 ---
 
 # Obsidian 插件：Archiver 帮你快速归类待办任务

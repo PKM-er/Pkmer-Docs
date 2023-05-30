@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230530224334
 ---
 
 # Obsidian 插件：Typewrite scroll 像打字机一样写笔记

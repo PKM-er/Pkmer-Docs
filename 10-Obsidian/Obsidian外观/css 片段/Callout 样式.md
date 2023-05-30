@@ -1,16 +1,16 @@
 ---
 uid: 20230505133425
-title: Callout 样式
+title: Obsidian 样式：Callout 样式
 tags: [css]
-description: 
+description: Obsidian 样式：Callout 样式
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230515233931
+modified: 20230530230323
 ---
 
-# Callout 样式
+# Obsidian 样式：Callout 样式
 
 ## 概述
 

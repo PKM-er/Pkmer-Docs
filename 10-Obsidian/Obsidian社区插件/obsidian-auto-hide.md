@@ -1,16 +1,16 @@
 ---
 uid: 20230526153837
-title: Obsidian 插件：Auto Hide
+title: Obsidian 插件：Auto Hide 自动隐藏侧边栏
 tags: []
-description: 
-author: 
+description: Obsidian 插件：Auto Hide 自动隐藏侧边栏
+author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230526191036
+modified: 20230530225000
 ---
 
-# Obsidian 插件：Auto Hide
+# Obsidian 插件：Auto Hide 自动隐藏侧边栏
 
 ## 概述
 

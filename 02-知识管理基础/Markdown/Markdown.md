@@ -2,12 +2,12 @@
 uid: 20230328202827
 title: Markdown 基础
 tags: [Markdown]
-description: 
+description: Markdown 基础语法，标题，大纲，有序列表，无序里欸包，图片，表格，任务列表，语法
 author: 
 type: basic
 draft: false
 editable: true
-modified: 20230525150051
+modified: 20230530232621
 ---
 
 # Markdown 基础

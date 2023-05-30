@@ -2,12 +2,12 @@
 uid: 20230412141451
 title: Obsidian 新手指南
 tags: []
-description: 
+description: Obsidian 新手指南
 author: windilycloud
 type: tutorial
 draft: false
 editable: false
-modified: 20230515233931
+modified: 20230530231800
 ---
 
 # Obsidian 新手指南
@@ -82,23 +82,21 @@ Obsidian 是什么？是一款背靠社区生态，可以自己打造的知识�
 尽量选择官方下载链接，但由于托管在国外，可能会有网络问题。
 
 - 桌面端（Windos、macOS、Linux）：
-	- 首选到 [官方网站](http://obsidian.md)下载。
-	- 如果不能访问官方网站，那么 [官方中文论坛](https://forum-zh.obsidian.md/) 的[这个帖子](https://forum-zh.obsidian.md/t/topic/13718)也可以下载各版本的安装包
+	- 首选到 [官方网站](http://obsidian.md) 下载。
+	- 如果不能访问官方网站，那么 [官方中文论坛](https://forum-zh.obsidian.md/) 的 [这个帖子](https://forum-zh.obsidian.md/t/topic/13718) 也可以下载各版本的安装包
 - 安卓端
 	- 首选到 Play 商店下载
-	- 如果不能访问 Play 商店，那么 [官方中文论坛](https://forum-zh.obsidian.md/) 的[这个帖子](https://forum-zh.obsidian.md/t/topic/13718)也可以下载各版本的安装包
+	- 如果不能访问 Play 商店，那么 [官方中文论坛](https://forum-zh.obsidian.md/) 的 [这个帖子](https://forum-zh.obsidian.md/t/topic/13718) 也可以下载各版本的安装包
 - iOS 、iPadOS：到苹果商店下载即可。
 - 社区互助：QQ 群：774176839
 
 ## 设置语言
-
 
 下载后打开 Obsidian，如图：
 
 ![image.png](https://cdn.pkmer.cn/images/b84066bf36e6bcba815d66a53b2eb9a3_MD5.png!pkmer)
 
 先选择对应的中文语言，点击创建，选择一个文件夹作为你的个人笔记存储文件夹，即可使用了。
-
 
 ## 教程
 

@@ -1,13 +1,13 @@
 ---
 uid: 20230529232916
-title: Obsidian笔记信息挖掘
-tags: 
-description: 
+title: Obsidian 笔记信息挖掘
+tags: []
+description: Obsidian 笔记信息挖掘
 author: Ryooo
 type: tutorial
 draft: false
 editable: false
-modified: 20230529232925
+modified: 20230530231851
 ---
 
 # Obsidian 笔记信息挖掘

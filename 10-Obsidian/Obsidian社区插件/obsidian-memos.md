@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230530225712
 ---
 
 # Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式

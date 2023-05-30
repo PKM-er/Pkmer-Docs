@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230530230141
 ---
 
 # Obsidian 插件：Settings Search 帮助快捷定位和查询设置项

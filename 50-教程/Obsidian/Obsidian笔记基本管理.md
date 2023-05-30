@@ -2,12 +2,12 @@
 uid: 20230529232632
 title: Obsidian 笔记基本管理
 tags: [这就是一个标签]
-description: 
+description: Obsidian 笔记基本管理
 author: Ryooo
 type: tutorial
 draft: false
 editable: false
-modified: 20230529232743
+modified: 20230530231844
 ---
 
 # Obsidian 笔记基本管理

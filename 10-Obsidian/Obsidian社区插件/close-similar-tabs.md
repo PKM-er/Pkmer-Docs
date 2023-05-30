@@ -2,12 +2,12 @@
 uid: 20230517175502
 title: Obsidian 插件：Close Similar Tabs 防止打开重复的笔记
 tags: []
-description: 
-author: 
+description: Obsidian 插件：Close Similar Tabs 防止打开重复的笔记
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230525154824
+modified: 20230530224326
 ---
 
 # Obsidian 插件：Close Similar Tabs 防止打开重复的笔记

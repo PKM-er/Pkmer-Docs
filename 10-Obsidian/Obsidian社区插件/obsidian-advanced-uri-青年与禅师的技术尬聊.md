@@ -7,7 +7,7 @@ author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230530224951
 ---
 
 # Obsidian 插件：Advanced URI 青年与禅师的技术尬聊

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230530230236
 ---
 
 # Obsidian 插件：Weather Fetcher 为笔记快速添加当前天气情况
