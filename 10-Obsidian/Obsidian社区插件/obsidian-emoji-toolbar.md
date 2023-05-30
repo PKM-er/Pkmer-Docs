@@ -44,5 +44,5 @@ modified: 20230515233929
 
 > [!Tip] 推荐阅读
 > - [[obsidian-icons-plugin]]：提供插入图标符号的功能
-> - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合
+> - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
 > - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换

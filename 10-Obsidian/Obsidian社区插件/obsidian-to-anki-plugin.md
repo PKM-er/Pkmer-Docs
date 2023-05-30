@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230530225933
 ---
 
 # Obsidian 插件：Obsidian to Anki

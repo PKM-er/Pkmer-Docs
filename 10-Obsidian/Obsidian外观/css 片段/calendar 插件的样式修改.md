@@ -1,16 +1,16 @@
 ---
 uid: 20230504213101
-title: Calendar 插件的样式修改
+title: Obsidian 样式：Calendar 插件的样式修改
 tags: [css]
-description: 
+description: Obsidian 样式：Calendar 插件的样式修改
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230515233931
+modified: 20230530230321
 ---
 
-# Calendar 插件的样式修改
+# Obsidian 样式：Calendar 插件的样式修改
 
 ## 概述
 

@@ -2,7 +2,7 @@
 uid: 20230521004800
 title: Obsidian 插件常见问题
 tags: []
-description: 
+description: Obsidian 插件常见问题
 author: cuman
 type: other
 draft: false

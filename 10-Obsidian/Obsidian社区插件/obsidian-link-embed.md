@@ -1,16 +1,16 @@
 ---
 uid: 20230505144340
-title: Obsidian 插件：Link Embed
+title: Obsidian 插件：Link Embed 帮你将网页 URL 转换为嵌入预览卡片样式
 tags: []
 description: Obsidian 插件：Link Embed 帮你将网页 URL 转换为嵌入预览卡片样式。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230530225643
 ---
 
-# Obsidian 插件：Link Embed
+# Obsidian 插件：Link Embed 帮你将网页 URL 转换为嵌入预览卡片样式
 
 ## 概述
 

@@ -1,16 +1,16 @@
 ---
 uid: 20230503114425
-title: Obsidian 插件 Latex suite
+title: Obsidian 插件：Latex suite 通过片段、文本扩展和编辑器增强功能
 tags: []
 description: Latex suite 通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 author: windilycloud
 type: other
 draft: false
 editable: false
-modified: 20230517230151
+modified: 20230530225630
 ---
 
-# Obsidian 插件 Latex suite
+# Obsidian 插件：Latex suite 通过片段、文本扩展和编辑器增强功能
 
 > [!note] latex-suite
 > 插件 ID：obsidian-latex-suite
@@ -28,7 +28,6 @@ modified: 20230517230151
 ==以下是原速公式输入示例==
 
 ![555.gif](https://cdn.pkmer.cn/images/202305172350638.gif!pkmer)
-
 
 ## 基本用法
 

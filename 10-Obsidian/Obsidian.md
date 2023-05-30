@@ -242,7 +242,7 @@ Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些�
 ### 图标类
 
 - [[obsidian-icons-plugin]]：提供插入图标符号的功能。
-- [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合
+- [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
 - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
 - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换
 

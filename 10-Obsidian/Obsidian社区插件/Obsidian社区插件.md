@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230526191143
+modified: 20230530224113
 ---
 
 # Obsidian 社区插件
@@ -69,22 +69,25 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 这些插件可直接优化或提升 Obsidian 笔记编辑的用户体验。它们一般会直接应用于笔记编辑窗口，使 Obsidian 的操作界面更加直观、可视化，从而提升用户的使用体验。许多插件中还集成了 callout、可视化操作及浮动目录等功能，让你更容易地浏览、查看和编辑笔记内容。所有这些特性的集成对于 Obsidian 用户来说，可以让用户的操作过程变得更为简单、直观，同时也增加了对用户的使用体验的提升。
 
 - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
-- [[floating-toc]]：在文档左侧生成一个悬浮的目录。
 - [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
 - [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
 - [[obsidian-comments]]：为笔记增加批注或评论。
-- [[creases]]：给 Obsidian 的标题增加折叠和展开的功能。
-- [[lapel]]：在标题旁边显示标题等级
 - [[highlightr-plugin]]：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
-- [[obsidian-dynamic-highlights]]
+- [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录。
 - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽。
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板。
+
+### 标题增强
+
+- [[creases]]：给 Obsidian 的标题增加折叠和展开的功能。
+- [[lapel]]：在标题旁边显示标题等级
+- [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
 
 ### 图像
 
@@ -224,7 +227,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 ### 图标类
 
 - [[obsidian-icons-plugin]]：提供插入图标符号的功能。
-- [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合
+- [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
 - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
 - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换
 

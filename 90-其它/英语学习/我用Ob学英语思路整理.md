@@ -2,7 +2,7 @@
 uid: 20230517151235
 title: 使用 Obsidian 学习英语
 tags: []
-description: 
+description: 使用 Obsidian 学习英语
 author: ProudBenzene
 type: practice
 draft: false

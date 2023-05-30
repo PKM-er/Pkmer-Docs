@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: 自定义 CSS
+title: Obsidian 自定义 CSS
 tags: []
-description: 
+description: Obsidian 自定义 CSS
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516121218
+modified: 20230530230421
 ---
 
-# 自定义 CSS
+# Obsidian 自定义 CSS
 
 如果你正在设计你个性化的 CSS，你可以通过使用开发者工具来获得更多元素信息，提高设计效率。使用开发者工具
 

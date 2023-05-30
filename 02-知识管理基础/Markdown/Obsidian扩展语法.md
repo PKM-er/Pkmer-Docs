@@ -2,12 +2,12 @@
 uid: 20230516140955
 title: Obsidian 扩展语法
 tags: [Markdown]
-description: 
+description: Obsidian 扩展语法，引用内容，内容引用，引用具体标题内容，自定义图片大小，callout语法速查
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230524231730
+modified: 20230530231746
 ---
 
 # Obsidian 扩展语法

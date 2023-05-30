@@ -2,12 +2,12 @@
 uid: 20230516082453
 title: Obsidian 插件：Metaedit 不可多得的 YAML 管理器
 tags: [编辑工具, 效率]
-description: 帮你快捷管理Ob的元数据信息，可以预设 yaml 区域的值
+description: Obsidian 插件：Metaedit 帮你快捷管理Ob的元数据信息，可以预设 yaml 区域的值，不可多得的 YAML 管理器
 author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230525155208
+modified: 20230530224616
 ---
 
 # Obsidian 插件：Metaedit 不可多得的 YAML 管理器

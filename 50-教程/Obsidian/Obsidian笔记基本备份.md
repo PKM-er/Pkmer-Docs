@@ -2,12 +2,12 @@
 uid: 20230529233022
 title: Obsidian 笔记基本备份
 tags: []
-description: 
+description: Obsidian 笔记基本备份
 author: Ryooo
 type: tutorial
 draft: false
 editable: false
-modified: 20230529233513
+modified: 20230530231826
 ---
 
 # Obsidian 笔记基本备份

@@ -2,12 +2,12 @@
 uid: 20230410232448
 title: Obsidian 插件：Spaced Repetition 利用遗忘曲线间隔重复复习笔记中的内容
 tags: [flashcards]
-description: Spaced Repetition
+description: Obsidian 插件：Spaced Repetition 利用遗忘曲线间隔重复复习笔记中的内容
 author: Bon
 type: basic
 draft: false
 editable: false
-modified: 20230516194837
+modified: 20230530225822
 ---
 
 # Obsidian 插件：Spaced Repetition 利用遗忘曲线间隔重复复习笔记中的内容

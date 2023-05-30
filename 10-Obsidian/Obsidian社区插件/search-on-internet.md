@@ -2,12 +2,12 @@
 uid: 20230514014646
 title: Obsidian 插件：Search on Internet 快速在搜索引擎中搜索笔记内容
 tags: []
-description: 
+description: Obsidian 插件：Search on Internet 快速在搜索引擎中搜索笔记内容
 author: Bon,山鸡
 type: other
 draft: false
 editable: false
-modified: 20230516114451
+modified: 20230530230135
 ---
 
 # Obsidian 插件：Search on Internet 快速在搜索引擎中搜索笔记内容

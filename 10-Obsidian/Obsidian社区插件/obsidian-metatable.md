@@ -2,12 +2,12 @@
 uid: 20230516142806
 title: Obsidian 插件：Metatable 美化 frontmatter 的显示样式
 tags: []
-description: 
+description: Obsidian 插件：Metatable 美化 frontmatter 的显示样式
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516145130
+modified: 20230530225717
 ---
 
 # Obsidian 插件：Metatable 美化 frontmatter 的显示样式

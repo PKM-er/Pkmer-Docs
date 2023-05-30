@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230530225345
 ---
 
 # Obsidian 插件：Icon Folder 给文件夹增加图标

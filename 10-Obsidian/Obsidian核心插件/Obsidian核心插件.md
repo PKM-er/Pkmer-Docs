@@ -2,12 +2,12 @@
 uid: 20230328213324
 title: Obsidian 核心插件
 tags: []
-description: 
+description: Obsidian 核心插件
 author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230515233931
+modified: 20230530231646
 ---
 
 # Obsidian 核心插件

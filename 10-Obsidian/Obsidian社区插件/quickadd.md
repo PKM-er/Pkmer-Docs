@@ -1,16 +1,16 @@
 ---
 uid: 20230508001129
-title: Obsidian 插件：QuickAdd
+title: Obsidian 插件：QuickAdd 自动化操作的编辑器
 tags: []
-description: 
+description: Obsidian 插件：QuickAdd 自动化操作的编辑器
 author: windilycloud 
 type: basic
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230530230121
 ---
 
-# Obsidian 插件：QuickAdd
+# Obsidian 插件：QuickAdd 自动化操作的编辑器
 
 > [!Note] 插件名片
 > - 插件名称：QuickAdd

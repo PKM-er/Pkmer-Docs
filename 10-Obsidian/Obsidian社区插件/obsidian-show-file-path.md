@@ -2,7 +2,7 @@
 uid: 20230530200529
 title: Obsidian 插件：Show Current File Path 显示当前文件的路径
 tags: []
-description: 
+description: Obsidian 插件：Show Current File Path 显示当前文件的路径
 author: OS
 type: basic
 draft: false
