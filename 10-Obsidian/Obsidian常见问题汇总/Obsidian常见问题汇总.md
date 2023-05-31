@@ -7,7 +7,7 @@ author: Pkmer
 type: other
 draft: false
 editable: false
-modified: 20230530231902
+modified: 20230531195651
 ---
 
 # Obsidian 常见问题汇总
@@ -64,6 +64,10 @@ modified: 20230530231902
 - [[Obsidian基础操作问题#Obsidian 如何实现大纲层级线条或是缩进线]]
 - [[Obsidian基础操作问题#Obsidian 文件列表的提示功能可以关闭吗]]
 - [[Obsidian基础操作问题#Obsidian 复制代码到代码块，缩进消失]]
+
+## 搜索
+
+[[Obsidian基础操作问题#如何搜索带有 HTML 的内容]]
 
 ## 编辑
 
