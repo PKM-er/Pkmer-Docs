@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230525174045
+modified: 20230531195639
 ---
 
 # Obsidian 基础操作
@@ -90,7 +90,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 - 问题：我想重命名文件名为“LC-MS/MS”，但弹出错误
 	- Windows 系统对文件名有限制，文件名不能包含下列任何字符 \ / ：* ？ “
 
-## Obsidian 中如何在正文内显示文件标题
+### Obsidian 中如何在正文内显示文件标题
 
 - Ob 默认在笔记页内标题栏、标签页上都会显示对应的文件标题
 - 方法：
@@ -293,6 +293,15 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 
 }
 ```
+
+## 搜索
+
+### 如何搜索带有 HTML 的内容
+
+- 遇到如下格式的内容，搜索“我是样式的段落文字”，是无法搜索的，因为有图中 html 标记影响搜索关键字匹配
+![image.png](https://cdn.pkmer.cn/images/20230531192904.png!pkmer)
+
+- 解法：可以在笔记内切成阅读模式，这样 html 标记就不会影响搜索结果了
 
 ## 编辑
 

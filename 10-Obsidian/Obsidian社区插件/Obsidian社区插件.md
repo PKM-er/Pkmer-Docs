@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230530234402
+modified: 20230531195757
 ---
 
 # Obsidian 社区插件
@@ -126,6 +126,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
 - [[obsidian-task-archiver]]：帮你快速归类待办任务
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
+- [[tasks-calendar-wrapper]]：完美的时间线/日历视图的任务面板展示
 
 ### 搜索
 
