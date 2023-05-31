@@ -1,16 +1,16 @@
 ---
 uid: 20230531203039
-title: PARA 方法论 — 我如何整理我的数字信息
+title: PARA 方法论 — 如何整理我的数字信息
 tags: []
-description: 
-author: 
+description: PARA 方法论 — 如何整理我的数字信息
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531220144
+modified: 20230531220424
 ---
 
-# PARA 方法论 — 我如何整理我的数字信息
+# PARA 方法论 — 如何整理我的数字信息
 
 多年来，我们一直在苦苦寻找一个可以满足所有需求的数字信息整理系统。直到我们偶然发现了 P.A.R.A. 数字信息整理方法，才能找到一个完美的体系。
 
