@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230530231605
+modified: 20230601101859
 ---
 
 # Obsidian 的外观
@@ -31,4 +31,10 @@ Obsidian 提供一些和其他软件类似的基础外观设定和操作
 
 ## 主题
 
-请参考 [[Obsidian外观]]
+请参考 [[Obsidian优秀外观分享]]
+
+## 自定义
+
+如果你想自定义一些样式，给你自己使用，那么你需要了解 [[Obsidian的CSS代码片段]]，这里会告诉你如何开启对应设置。以及一些可以直接使用的优秀范例。
+
+如果你想学习如何自己定义样式，那么你可以参考 [[Obsidian的CSS代码片段#自定义 CSS 简单上手指南]] 中的 Obsidian 建议样式指导。当然你可能还需要附带了解下，[[Obsidian的YAML和Frontmatter]]
