@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531195757
+modified: 20230601170215
 ---
 
 # Obsidian 社区插件
@@ -252,6 +252,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
 - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
 - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换
+- [[emoji-magic]]：允许使用关键字搜索 emoji 表情符号，轻松添加到笔记中
 
 ### 统计类
 
