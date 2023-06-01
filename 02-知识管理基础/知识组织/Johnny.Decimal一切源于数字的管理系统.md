@@ -1,13 +1,13 @@
 ---
 uid: 20230601001347
 title: Johnny.Decimal 一切源于数字的管理系统
-tags: []
-description: 
-author: 
+tags: [Johnny.Decimal, 文件管理, 数据管理, 知识管理]
+description: Johnny.Decimal 一切源于数字的管理系统
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230601131818
+modified: 20230601135059
 ---
 
 # Johnny.Decimal 一切源于数字的管理系统
