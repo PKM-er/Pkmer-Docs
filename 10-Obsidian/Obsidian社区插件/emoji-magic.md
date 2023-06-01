@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230601170732
+modified: 20230601171813
 ---
 
 # Obsidian 插件：Emoji Magic 快速搜索 emoji 表情符号，轻松添加到笔记中
