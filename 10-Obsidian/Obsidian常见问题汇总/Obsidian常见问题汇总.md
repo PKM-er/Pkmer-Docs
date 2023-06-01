@@ -1,13 +1,13 @@
 ---
 uid: 20230411155729
 title: Obsidian 常见问题汇总
-tags: []
+tags: [Obsidian, 常见问题, 汇总, 基础操作, 主题，样式，编辑， 显示]
 description: Obsidian 常见问题汇总
 author: Pkmer
 type: other
 draft: false
 editable: false
-modified: 20230531195651
+modified: 20230601195708
 ---
 
 # Obsidian 常见问题汇总
@@ -106,3 +106,20 @@ modified: 20230531195651
 - [为什么 Obsidian 的头图 或者 banners 插件显示异常](Obsidian插件常见问题#为什么%20Obsidian%20的头图%20或者%20banners%20插件显示异常)
 - [[Obsidian插件常见问题#Obsidian 插件 Excalidraw 的橡皮擦在哪里]]
 - [[Obsidian插件常见问题#数字后面的中文字词会重复两次]]
+- [[Obsidian插件常见问题#备忘录 Memos 无法启动打开？]]
+
+## 主题
+
+### Bluetopz 主题和 BT 示例库
+
+- [[Obsidian主题常见问题#如何获取指定地区的天气？]]
+- [[Obsidian主题常见问题#如何更换字体？]]
+- [[Obsidian主题常见问题#如何更换 Ob 背景图？]]
+- [[Obsidian主题常见问题#工作区页面背景跟笔记背景的区别?]]
+- [[Obsidian主题常见问题#主页的歌曲和每日一言如何更新？]]
+- [[Obsidian主题常见问题#主页加载部分数据没有显示全？]]
+- [[Obsidian主题常见问题#带按钮的常用工具侧边栏如何实现？]]
+- [[Obsidian主题常见问题#侧边栏悬浮 memos 无法打开有错误提示？]]
+- [[Obsidian主题常见问题#为什么在 style setting 下切换配色没什么效果]]
+- [[Obsidian主题常见问题#如何移植动画版天气到自己的主页？并获取指定城市天气]]
+- [[Obsidian主题常见问题#如何取消开启 Ob 自动加载主页，我想打开 ob 出现上次关闭时的笔记？]]

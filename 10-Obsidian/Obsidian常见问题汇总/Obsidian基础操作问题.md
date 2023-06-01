@@ -1,13 +1,13 @@
 ---
 uid: 20230521003527
 title: Obsidian 基础操作
-tags: [我是标签]
-description: 
+tags: [Obsidian, 主题, 常见问题, BT示例库, Bluetopz]
+description: Obsidian 基础操作常见问题汇总
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531195639
+modified: 20230601194644
 ---
 
 # Obsidian 基础操作

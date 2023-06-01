@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230524151300
+modified: 20230601190628
 ---
 
 # Obsidian 插件常见问题
@@ -84,6 +84,13 @@ modified: 20230524151300
 3. 按照下图所示，关闭【Use Twemoji】，即可解决问题。【当然可能有人会觉得 Twemoji 比默认系统 emoji 更美观】
 
 ![banners设置](https://cdn.pkmer.cn/images/066c9f4b1cad89a77853126e9f51b05f_MD5.png!pkmer)
+
+## Memos
+
+### 备忘录 Memos 无法启动打开？
+
+1. 开启核心插件日记
+2. 在核心插件日记的插件设置中指定日记文件夹位置。
 
 ## Excalidraw
 
