@@ -2,7 +2,7 @@
 uid: 20230531202324
 title: PARA
 tags: [PARA, P.A.R.A, 笔记组织方法, 知识管理方法]
-description: 
+description: PARA, P.A.R.A, 笔记组织方法, 知识管理方法
 author: OS
 type: other
 draft: false
