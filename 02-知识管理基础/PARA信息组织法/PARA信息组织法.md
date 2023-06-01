@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230601170007
+modified: 20230601172741
 ---
 
 # PARA
@@ -29,7 +29,7 @@ PARA 是一个独特的、流行的、包含 Projects、Areas、Resources 和 Ar
 
 关于 PARA 我们推荐如下的理论、思考和有效实践：
 
-- [[PARA 方法论—我如何整理我的数字信息]]
+- [[PARA信息组织法—如何整理我的数字信息]]
 
 一些类似 PARA 的其他方法论：
 
