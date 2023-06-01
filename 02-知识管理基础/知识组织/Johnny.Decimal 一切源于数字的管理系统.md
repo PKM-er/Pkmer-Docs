@@ -1,16 +1,16 @@
 ---
 uid: 20230601001347
-title: Johnny.Decimal 一个组织项目的系统
+title: Johnny.Decimal 一切源于数字的管理系统
 tags: []
 description: 
 author: 
 type: other
 draft: false
 editable: false
-modified: 20230601113133
+modified: 20230601131818
 ---
 
-# Johnny.Decimal 一个组织项目的系统
+# Johnny.Decimal 一切源于数字的管理系统
 
 	这一切的一切，是源于，有时候我们会感到我们已经失去了对数据的控制。
 
@@ -133,3 +133,6 @@ cdj() {
  
 export cdj
 ```
+
+>[!Tip] 扩展阅读
+>- [[OS的文件简易命名规范]]
