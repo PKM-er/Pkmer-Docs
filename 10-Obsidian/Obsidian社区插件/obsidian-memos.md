@@ -1,13 +1,13 @@
 ---
 uid: 20230514020943
 title: Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
-tags: []
+tags: [Obsidian, 插件, Memos, 笔记，灵感笔记, 热力图]
 description: Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230530225712
+modified: 20230603020537
 ---
 
 # Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
@@ -17,7 +17,10 @@ modified: 20230530225712
 Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便你快速收集灵感。
 
 > [!Note] 插件名片
-@ -28,7 +30,11 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便
+> - 插件名称：Obsidian Memos
+> - 插件作者：Bonaill
+> - 插件说明：提供一个简易轻巧的笔记和灵感收集方式
+> - 插件项目地址：[点我跳转](https://github.com/Quorafind/Obsidian-Memos)
 
 1. 当你创建一个 Query 的时候，会存放在你的日记文件夹中的 Query.md 中，请不要直接编辑它。
 2. 当你删除一个 Memo 的时候，它会被发送到你的日记文件夹中的 Delete.md 中，请不要直接编辑它。

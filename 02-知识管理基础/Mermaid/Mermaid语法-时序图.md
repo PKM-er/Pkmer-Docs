@@ -1,13 +1,13 @@
 ---
 uid: 20230517175240
 title: Mermaid 语法 - 时序图
-tags: [mermaid]
+tags: [Mermaid, 语法, 时序图]
 description: Mermaid 语法，时序图
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230530232650
+modified: 20230603013626
 ---
 
 # Mermaid 语法 - 时序图

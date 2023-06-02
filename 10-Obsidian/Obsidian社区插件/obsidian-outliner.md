@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Outliner plugin
-tags: []
-description: Obsidian 插件：Outliner plugin  Obsidian 的大纲添加快捷操作
+title: Obsidian 插件：Outliner plugin 为大纲添加快捷操作
+tags: [Obsidian, 插件, Outliner, 大纲, 效率]
+description: Obsidian 插件：Outliner plugin 为大纲添加快捷操作
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230530225731
+modified: 20230603020159
 ---
 
-# Obsidian 插件：Outliner plugin
+# Obsidian 插件：Outliner plugin 为大纲添加快捷操作
 
 为 Obsidian 的大纲添加快捷操作，像在 Workflowy 或 RoamResearch 中一样，使用快捷键调整大纲的顺序和层级变化，移动大纲上的项目。
 

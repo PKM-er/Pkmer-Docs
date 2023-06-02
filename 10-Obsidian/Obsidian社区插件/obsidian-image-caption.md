@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Image Caption 给图片增加说明题注
-tags: []
+tags: [Obsidian, 插件, Image Caption, 图片，图片题注]
 description: Obsidian 插件：Image Caption 如何给图片增加说明
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230524233249
+modified: 20230603021115
 ---
 
 # Obsidian 插件：Image Caption 给图片增加说明题注

@@ -1,13 +1,13 @@
 ---
 uid: 20230513220542
 title: Obsidian 插件：Auto Template Prompt 自动插入模板
-tags: [Obsidian, 插件, template, 模板, 效率]
+tags: [Obsidian, 插件, Auto Template Prompt, template, 模板, 自动化, 效率]
 description: Obsidian 插件：Auto Template Prompt 自动插入模板
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230530225019
+modified: 20230603021903
 ---
 
 # Obsidian 插件：Auto Template Prompt 自动插入模板

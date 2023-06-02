@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Excalidraw 完美的绘图工具
-tags: []
+tags: [Obsidian, 插件, Excalidraw, 绘图工具, 手绘风格, 效率工具]
 description: Obsidian 插件：Excalidraw 完美的绘图工具
 author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230530225241
+modified: 20230603022427
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具

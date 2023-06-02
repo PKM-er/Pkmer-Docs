@@ -1,13 +1,13 @@
 ---
 uid: 20230508163524
 title: Obsidian 插件：TagFolder 通过标签方式组织管理笔记
-tags: []
+tags: [Obsidian, 插件, TagFolder, 文件管理, 标签]
 description: Obsidian 插件：TagFolder 通过标签方式组织管理笔记
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230530225837
+modified: 20230603015435
 ---
 
 # Obsidian 插件：TagFolder 通过标签方式组织管理笔记

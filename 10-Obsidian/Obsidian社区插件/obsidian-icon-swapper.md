@@ -1,13 +1,13 @@
 ---
 uid: 20230506102304
 title: Obsidian 插件：Icon Swapper 修改默认图标变为你自己个性化的样式
-tags: []
+tags: [Obsidian, 插件, Icon Swapper, 图标, emoji, 效率, 编辑器, 自定义]
 description: Obsidian 插件：Icon Swapper 修改默认图标变为你自己个性化的样式
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516194330
+modified: 20230603021244
 ---
 
 # Obsidian 插件：Icon Swapper 修改默认图标变为你自己个性化的样式

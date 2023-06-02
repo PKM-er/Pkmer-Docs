@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Advanced Tables 改进了表格导航、格式和操作
-tags: []
+tags: [Obsidian, 插件, Advanced Tables, 表格导航, 表格格式, 表格操作]
 description: Obsidian 插件：Advanced Tables 改进了表格导航、格式和操作
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230530230213
+modified: 20230603014203
 ---
 
 # Obsidian 插件：Advanced Tables 改进了表格导航、格式和操作

@@ -4,7 +4,7 @@ title: PARA
 tags: [PARA, P.A.R.A, 笔记组织方法, 知识管理方法]
 description: PARA, P.A.R.A, 笔记组织方法, 知识管理方法
 author: OS
-type: other
+type: awesome
 draft: false
 editable: false
 modified: 20230603000828

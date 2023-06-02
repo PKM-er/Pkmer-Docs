@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Advanced URIDynamic Background 为 Obsidian 添加动态背景
-tags: [Obsidian, 插件, 动态背景, 美化]
+title: Obsidian 插件：Dynamic Background 为 Obsidian 添加动态背景
+tags: [Obsidian, 插件, Dynamic Background, 动态背景, 美化]
 description: Obsidian 插件：Dynamic Background 为 Obsidian 添加动态背景
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516195227
+modified: 20230603022223
 ---
 
-# Advanced URIDynamic Background 为 Obsidian 添加动态背景
+# Obsidian 插件：Dynamic Background 为 Obsidian 添加动态背景
 
 这个插件可以为 Obsidian 编辑器 **增加动态效果和墙纸**，提升视觉体验，增加工作乐趣。
 

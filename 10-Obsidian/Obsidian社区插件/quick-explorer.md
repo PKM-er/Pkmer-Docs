@@ -1,13 +1,13 @@
 ---
 uid: 20230504185734
 title: Obsidian 插件：Quick Explorer 为标题增加面包屑导航功能
-tags: []
+tags: [Obsidian, 插件, Quick Explorer, 面包屑导航]
 description: Obsidian 插件：Quick Explorer 为标题增加面包屑导航功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516120655
+modified: 20230603014700
 ---
 
 # Obsidian 插件：Quick Explorer 为标题增加面包屑导航功能

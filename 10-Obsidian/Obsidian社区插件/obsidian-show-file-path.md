@@ -1,13 +1,13 @@
 ---
 uid: 20230530200529
 title: Obsidian 插件：Show Current File Path 显示当前文件的路径
-tags: []
+tags: [Obsidian, 插件, Show Current File Path, 路径，文件管理]
 description: Obsidian 插件：Show Current File Path 显示当前文件的路径
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230530202208
+modified: 20230603015653
 ---
 
 # Obsidian 插件：Show Current File Path 显示当前文件的路径

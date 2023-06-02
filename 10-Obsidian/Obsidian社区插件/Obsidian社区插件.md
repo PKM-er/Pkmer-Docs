@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 社区插件
-tags: []
+tags: [Obsidian, 社区插件]
 description: Obsidian 社区插件推荐，优秀插件介绍和使用方法
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230601170215
+modified: 20230603014956
 ---
 
 # Obsidian 社区插件
