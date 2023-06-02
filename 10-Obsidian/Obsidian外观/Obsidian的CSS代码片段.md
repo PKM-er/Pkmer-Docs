@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230601102450
+modified: 20230602142338
 aliases: [Obsidian css代码片段]
 ---
 
@@ -34,6 +34,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 涉及软件界面的修改，有时候可能需要重启软件生效。
 
 ### CSS 修改优秀范例
+
+## ICON
+
+- [[回归原始的Obsidian图标]]
 
 #### 编辑器
 
