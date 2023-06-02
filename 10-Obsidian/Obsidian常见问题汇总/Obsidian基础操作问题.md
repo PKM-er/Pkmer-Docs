@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230602144556
+modified: 20230602171800
 ---
 
 # Obsidian 基础操作
@@ -105,6 +105,20 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 ### Obsidian 如何开启或关闭大纲/有序列表的缩进线
 
 - 在 Obsidian 设置，编辑器 - 显示缩进参考线，点击开启或关闭即可
+
+### Obsidian 关闭文件管理器的缩进线
+
+- 主体法：在主体市场寻找这样效果的主体
+- CSS 法：将下面内容，保存到 .css 后缀的文件，放到对应目录。[[Obsidian的CSS代码片段]]
+
+```CSS
+.nav-folder.mod-root .nav-folder > .nav-folder-children {
+	border-left:unset !important;
+}
+.tree-item-children {
+	border-left:unset !important;
+}
+```
 
 ### 加粗后无法正常显示
 
