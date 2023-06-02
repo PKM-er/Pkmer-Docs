@@ -1,13 +1,13 @@
 ---
 uid: 20230504232329
 title: Obsidian 样式：表格（Table）样式
-tags: [css]
+tags: [Obsidian, css, 表格, Table, 样式]
 description: Obsidian 样式：表格（Table）样式
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230530230330
+modified: 20230602191908
 ---
 
 # Obsidian 样式：表格（Table）样式

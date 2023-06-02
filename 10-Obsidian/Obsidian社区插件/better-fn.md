@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531195819
+modified: 20230603011325
 ---
 
 # Obsidian 插件：Better footnote 增加悬浮展示功能

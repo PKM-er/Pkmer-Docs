@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 中的 YAML 和 Frontmatter
-tags: [FLAG]
+tags: [Obsidian, YAML, Frontmatter, FLAG]
 description: Obsidian 中的 YAML 和 Frontmatter
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230530231922
+modified: 20230602191955
 ---
 
 # Obsidian 中的 YAML 和 Frontmatter

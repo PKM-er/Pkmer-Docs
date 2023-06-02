@@ -1,13 +1,13 @@
 ---
 uid: 20230521004800
 title: Obsidian 插件常见问题
-tags: []
+tags: [Obsidian, 插件, 常见问题]
 description: Obsidian 插件常见问题
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230601190628
+modified: 20230602191823
 ---
 
 # Obsidian 插件常见问题
