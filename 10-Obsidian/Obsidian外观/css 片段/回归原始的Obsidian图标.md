@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230602141956
+modified: 20230602152132
 ---
 
 # 回归原始的 Obsidian 图标
@@ -16,7 +16,7 @@ modified: 20230602141956
 
 ![88.gif|433](https://cdn.pkmer.cn/images/202306021341855.gif!pkmer)
 
-Obsidian 根据单词的字面意思 " 黑曜石，是一种常见的非晶质宝石、火山晶体 "，所以当打开 Obsidian 软件 自然会跟宝石联系到一起，原始的 Obsidian 的图标看起来就是宝石，之前很少有关于图标的讨论。当 Obsidian 1.3.5 启用了全新的图标 [[Obsidian全新LOGO更换]] 时，
+Obsidian 根据单词的字面意思 " 黑曜石，是一种常见的非晶质宝石、火山晶体 "，所以当打开 Obsidian 软件 自然会跟宝石联系到一起，原始的 Obsidian 的图标看起来就是宝石，之前很少有关于图标的讨论。当 Obsidian 1.3.5 启用了全新的图标 [[Obsidian全新LOGO更换]] 后，
 
 一时间群里都是关于图标的讨论，因为跟原来的图标设计相比风格变化挺大的，于是就有了回归原始图标的想法。
 
