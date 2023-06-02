@@ -4,7 +4,7 @@ title: PARA 信息组织法 — 如何整理我的数字信息
 tags: [PARA, P.A.R.A, 笔记组织方法, 知识管理方法]
 description: PARA 方法论 — 如何整理我的数字信息
 author: OS
-type: other
+type: practice
 draft: false
 editable: false
 modified: 20230601174142

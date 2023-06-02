@@ -1,13 +1,13 @@
 ---
 uid: 20230428105320
 title: Obsidian 插件：Emoji Toolbar 快速插入 Emoji 符号
-tags: [Obsidian, 插件, emoji, 快速输入]
+tags: [Obsidian, 插件, Emoji Toolbar, emoji, 快速输入]
 description: Obsidian 插件：Emoji Toolbar 快速插入 Emoji 符号
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230601170111
+modified: 20230603022318
 ---
 
 # Obsidian 插件：Emoji Toolbar 快速插入 Emoji 符号

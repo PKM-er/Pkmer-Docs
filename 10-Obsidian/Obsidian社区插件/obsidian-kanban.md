@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Kanban
-tags: [插件, 图片, 格式调整]
-description: Obsidian 插件：Kanban 制作看板，可以连接你的笔记
+title: Obsidian 插件：Kanban 通过看板视图管理的你待办任务
+tags: [Obsidian, 插件, Kanban, 任务管理, 看板, 状态管理, 图片, 格式调整]
+description: Obsidian 插件：Kanban 通过看板视图管理的你待办任务
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230530225604
+modified: 20230603021026
 ---
 
-# Obsidian 插件：Kanban
+# Obsidian 插件：Kanban 通过看板视图管理的你待办任务
 
 #插件 #图片 #格式调整
 

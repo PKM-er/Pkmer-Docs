@@ -1,13 +1,13 @@
 ---
 uid: 20230513222807
 title: Obsidian 插件：Global Search And Replace 给 Obsidian 全库进行文本替换
-tags: []
+tags: [Obsidian, 插件, Global Search And Replace, 替换, 效率]
 description: Obsidian 插件：Global Search And Replace 给 Obsidian 全库进行文本替换
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230530225317
+modified: 20230603021421
 ---
 
 # Obsidian 插件：Global Search And Replace 给 Obsidian 全库进行文本替换

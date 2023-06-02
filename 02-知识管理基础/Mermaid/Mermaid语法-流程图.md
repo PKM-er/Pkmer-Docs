@@ -1,13 +1,13 @@
 ---
 uid: 20230517171610
 title: Mermaid 语法 - 流程图
-tags: [mermaid]
+tags: [Mermaid, 语法, 流程图]
 description: Mermaid 语法，流程图，节点，连接
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230530232642
+modified: 20230603013613
 ---
 
 # Mermaid 语法 - 流程图

@@ -1,13 +1,13 @@
 ---
 uid: 20230427232149
 title: Obsidian 插件：Collapse All 快速展开折叠文件夹
-tags: []
+tags: [Obsidian, 插件, Collapse All, 文件管理, 折叠, 展开]
 description: Obsidian 插件：Collapse All 单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230530225110
+modified: 20230603021926
 ---
 
 # Obsidian 插件：Collapse All 快速展开折叠文件夹
