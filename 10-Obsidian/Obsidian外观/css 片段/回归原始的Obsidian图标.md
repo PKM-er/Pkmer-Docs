@@ -1,20 +1,20 @@
 ---
 uid: 20230602120857
 title: 回归原始的 Obsidian 图标
-tags: [css, 图标]
+tags: [Obsidian, LOGO, css, 图标]
 description: Obsidian图标还原，还原旧版图标
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230602134122
+modified: 20230602141956
 ---
 
 # 回归原始的 Obsidian 图标
 
 ## 概述
 
-![88.gif](https://cdn.pkmer.cn/images/202306021341855.gif!pkmer)
+![88.gif|433](https://cdn.pkmer.cn/images/202306021341855.gif!pkmer)
 
 Obsidian 根据单词的字面意思 " 黑曜石，是一种常见的非晶质宝石、火山晶体 "，所以当打开 Obsidian 软件 自然会跟宝石联系到一起，原始的 Obsidian 的图标看起来就是宝石，之前很少有关于图标的讨论。当 Obsidian 1.3.5 启用了全新的图标 [[Obsidian全新LOGO更换]] 时，
 
@@ -81,15 +81,15 @@ body.theme-dark .titlebar-button.mod-logo:not(:hover)::before
 
 如果开启白板导出水印功能导出的白板是带有水印的。
 
-![image.png](https://cdn.pkmer.cn/images/202306021332769.png!pkmer)
+![image.png|541](https://cdn.pkmer.cn/images/202306021332769.png!pkmer)
 
 新版本 ob 导出的白板如下图所示
 
-![canvas白板介绍_middle2.png](https://cdn.pkmer.cn/images/202306021335333.png!pkmer)
+![canvas白板介绍_middle2.png|586](https://cdn.pkmer.cn/images/202306021335333.png!pkmer)
 
 通过 css 修改后效果如下
 
-![canvas白板介绍_middle.png](https://cdn.pkmer.cn/images/202306021335154.png!pkmer)
+![canvas白板介绍_middle.png|595](https://cdn.pkmer.cn/images/202306021335154.png!pkmer)
 
 css 代码
 
