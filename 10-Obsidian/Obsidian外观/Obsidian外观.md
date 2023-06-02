@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 的外观
-tags: []
+tags: [Obsidian, 外观, 主题, 设置]
 description: Obsidian 的外观
 author: OS
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20230601101859
+modified: 20230603011233
 ---
 
 # Obsidian 的外观

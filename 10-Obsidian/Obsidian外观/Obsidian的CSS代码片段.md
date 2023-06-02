@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 的 CSS 代码片段
-tags: []
+tags: [Obsidian, CSS, snippets, 外观, 主题]
 description: Obsidian 的 CSS 代码片段
 author: OS
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20230602142338
+modified: 20230603000725
 aliases: [Obsidian css代码片段]
 ---
 
@@ -35,7 +35,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ### CSS 修改优秀范例
 
-## ICON
+#### ICON
 
 - [[回归原始的Obsidian图标]]
 

@@ -1,13 +1,13 @@
 ---
 uid: 20230413180208
 title: Obsidian
-tags: []
+tags: [Obsidian]
 description: 
 author: windilycloud
 type: awesome
 draft: false
 editable: false
-modified: 20230519173028
+modified: 20230603000732
 ---
 
 # Obsidian

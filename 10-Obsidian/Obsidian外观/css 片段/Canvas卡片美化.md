@@ -1,13 +1,13 @@
 ---
 uid: 20230517230608
 title: Obsidian 样式：Canvas 卡片美化
-tags: [css]
+tags: [Obsidian, css, Canvas, 白板, 样式]
 description: Obsidian 样式：Canvas 卡片美化
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230530230327
+modified: 20230602192349
 ---
 
 # Obsidian 样式：Canvas 卡片美化

@@ -3,11 +3,11 @@ uid: 20230411155729
 title: Obsidian 常见问题汇总
 tags: [Obsidian, 常见问题, 汇总, 基础操作, 主题，样式，编辑， 显示]
 description: Obsidian 常见问题汇总
-author: Pkmer
-type: other
+author: OS
+type: awesome
 draft: false
 editable: false
-modified: 20230602144808
+modified: 20230603010154
 ---
 
 # Obsidian 常见问题汇总
@@ -44,7 +44,7 @@ modified: 20230602144808
 - [[Obsidian基础操作问题#Obsidian 多个仓库间可以公用一套配置]]
 - [[Obsidian基础操作问题#Obsidian 最小到托盘的方法]]
 - [[Obsidian基础操作问题#快速跳回笔记开头或结尾位置]]
-- [[obsidian基础操作问题#Obsidian 为什么不能重命名文件名]]
+- [[Obsidian基础操作问题#Obsidian 为什么不能重命名文件名]]
 
 ## 显示&输入
 
@@ -68,7 +68,7 @@ modified: 20230602144808
 
 ## 搜索
 
-[[Obsidian基础操作问题#如何搜索带有 HTML 的内容]]
+- [[Obsidian基础操作问题#如何搜索带有 HTML 的内容]]
 
 ## 编辑
 
@@ -88,9 +88,9 @@ modified: 20230602144808
 
 ## 关系图谱
 
-- [局部关系图如何显示在本地或者软件界面上](Obsidian基础操作问题#局部关系图如何显示在本地或者软件界面上)
-- [局部关系图如何展示自己发布的网页上](Obsidian基础操作问题#局部关系图如何展示自己发布的网页上)
-- [为什么 Obsidian 的关系图谱不显示连接线](Obsidian基础操作问题#为什么%20Obsidian%20的关系图谱不显示连接线)
+- [[Obsidian基础操作问题#局部关系图如何显示在本地或者软件界面上]]
+- [[Obsidian基础操作问题#局部关系图如何展示自己发布的网页上]]
+- [[Obsidian基础操作问题#为什么 Obsidian 的关系图谱不显示连接线]]
 
 ## 核心插件
 
@@ -98,14 +98,14 @@ modified: 20230602144808
 
 ### 基础问题
 
-- [如何打开社区插件](Obsidian插件常见问题#如何打开社区插件)；
-- [插件社区不能加载](Obsidian插件常见问题#插件社区不能加载)
-- [插件下载后不能启用](Obsidian插件常见问题#插件下载后不能启用)
+- [[Obsidian插件常见问题#如何打开社区插件]]
+- [[Obsidian插件常见问题#插件社区不能加载]]
+- [[Obsidian插件常见问题#插件下载后不能启用]]
 
 ### 插件兼容和使用
 
-- [打开 Calendar 后侧边栏不显示对应图标](Obsidian插件常见问题#打开%20Calendar%20后侧边栏不显示对应图标)
-- [为什么 Obsidian 的头图 或者 banners 插件显示异常](Obsidian插件常见问题#为什么%20Obsidian%20的头图%20或者%20banners%20插件显示异常)
+- [[Obsidian插件常见问题#打开 Calendar 后侧边栏不显示对应图标]]
+- [[Obsidian插件常见问题#为什么 Obsidian 的头图 或者 banners 插件显示异常]]
 - [[Obsidian插件常见问题#Obsidian 插件 Excalidraw 的橡皮擦在哪里]]
 - [[Obsidian插件常见问题#数字后面的中文字词会重复两次]]
 - [[Obsidian插件常见问题#备忘录 Memos 无法启动打开？]]

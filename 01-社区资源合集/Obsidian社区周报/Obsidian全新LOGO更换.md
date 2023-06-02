@@ -3,11 +3,11 @@ uid: 20230601232645
 title: Obsidian 全新 LOGO 更换，新图标，新形象
 tags: [Obsidian，全新LOGO]
 description: Obsidian 全新 LOGO 更换，新图标，新形象
-author: Bon
+author: Bon, OS
 type: other
 draft: false
 editable: false
-modified: 20230602101439
+modified: 20230603010621
 aliases: []
 ---
 

@@ -4,10 +4,10 @@ title: Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小
 tags: [Obsidian, 插件, Longform, 小说创作, 剧本创作]
 description: Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作
 author: OS
-type: basic
+type: practice
 draft: false
 editable: false
-modified: 20230602110329
+modified: 20230603010640
 ---
 
 # Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作
