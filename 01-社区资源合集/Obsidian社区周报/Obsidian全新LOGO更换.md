@@ -1,17 +1,17 @@
 ---
 uid: 20230601232645
-title: 新图标，新形象
-tags: [obr]
-description: 
+title: Obsidian 全新 LOGO 更换，新图标，新形象
+tags: [Obsidian，全新LOGO]
+description: Obsidian 全新 LOGO 更换，新图标，新形象
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230602100815
+modified: 20230602101439
 aliases: []
 ---
 
-# 新图标，新形象
+# Obsidian 全新 LOGO 更换，新图标，新形象
 
 译注：真的是一个漫长的故事呢。
 

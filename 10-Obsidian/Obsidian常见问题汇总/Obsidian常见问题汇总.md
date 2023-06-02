@@ -7,7 +7,7 @@ author: Pkmer
 type: other
 draft: false
 editable: false
-modified: 20230601195708
+modified: 20230602102713
 ---
 
 # Obsidian 常见问题汇总
@@ -77,6 +77,7 @@ modified: 20230601195708
 - [[Obsidian基础操作问题#Obsidian 中实现标题自动编号，像 Word 一样]]
 - [[Obsidian基础操作问题#Obsidian 如何实现记住上次文档编辑或阅读的位置]]
 - [[Obsidian基础操作问题#Obsidian 如何批量、快速管理标签 Tag]]
+- [[Obsidian基础操作问题#如何让有序列表自动编号]]
 
 ## 文件操作
 
