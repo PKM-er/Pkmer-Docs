@@ -7,7 +7,7 @@ author: Pkmer
 type: other
 draft: false
 editable: false
-modified: 20230602102713
+modified: 20230602144808
 ---
 
 # Obsidian 常见问题汇总
@@ -50,6 +50,7 @@ modified: 20230602102713
 
 下面的内容将为您介绍 Obsidian 的显示和输入问题的基础操作。帮助您解决显示和输入问题，并实现更加高效和舒适的编辑体验。我们相信，掌握了这些基础操作问题，您将可以更好地使用 Obsidian 并提高工作效率。
 
+- [[Obsidian基础操作问题#Obsidian 如何开启或关闭大纲/有序列表的缩进线]]
 - [[Obsidian基础操作问题#Obsidian 中如何在正文内显示文件标题]]
 - [[Obsidian基础操作问题#加粗后无法正常显示]]
 - [[Obsidian基础操作问题#表格字符无法正常显示]]

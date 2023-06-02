@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230602102644
+modified: 20230602144556
 ---
 
 # Obsidian 基础操作
@@ -101,6 +101,10 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 	- 使用业内标题
 		- 在 Obsidian 设置 -> 外观 -> 显示业内标题（Show inline title）
 		- 打开对应开关即可
+
+### Obsidian 如何开启或关闭大纲/有序列表的缩进线
+
+- 在 Obsidian 设置，编辑器 - 显示缩进参考线，点击开启或关闭即可
 
 ### 加粗后无法正常显示
 
