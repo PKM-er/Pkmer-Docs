@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230602105919
+modified: 20230602110329
 ---
 
 # Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作
@@ -184,11 +184,11 @@ Notebooks 可以选择使文件的第一行成为 H1 标题（默认情况下同
 
 ### 编辑样式
 
-![image.png](https://cdn.pkmer.cn/images/20230602103849.png!pkmer)
+![image.png|748](https://cdn.pkmer.cn/images/20230602103849.png!pkmer)
 
 ### 预览样式
 
-![image.png](https://cdn.pkmer.cn/images/20230602103855.png!pkmer)
+![image.png|748](https://cdn.pkmer.cn/images/20230602103855.png!pkmer)
 
 ### 对应 Snippets
 
@@ -375,3 +375,10 @@ Notebooks 可以选择使文件的第一行成为 H1 标题（默认情况下同
 有时候我们并不需要直接跳转到一个文章，而是需要临时产看或者修正细节，那么 [[obsidian-hover-editor]] 是非常好的选择。
 
 ![image.png](https://cdn.pkmer.cn/images/20230602105839.png!pkmer)
+
+## 参考
+
+- [Writing a novel in Markdown - pdworkman.com](https://pdworkman.com/writing-a-novel-in-markdown/)
+- [[obsidian-hover-editor]]
+- [[obsidian-kanban]]
+- [[obsidian-excalidraw-plugin]]
