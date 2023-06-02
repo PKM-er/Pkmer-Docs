@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230601194644
+modified: 20230602102644
 ---
 
 # Obsidian 基础操作
@@ -343,6 +343,12 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 	- [[cmenu-plugin]]
 - 针对标签页，快捷键方法
 	- 打开最近关闭的标签： Ctrl + Shift + T
+
+### 如何让有序列表自动编号
+
+在输入起始数字 `1.` 后，输入空格，再输入后面的内容
+
+之后再回车就会自动编号了
 
 ### 为什么我的 Obsidian 显示加粗文字不正常
 
