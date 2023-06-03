@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230602163309
+modified: 20230603182503
 ---
 
 # 回归原始的 Obsidian 图标
@@ -124,7 +124,25 @@ body.theme-dark .canvas-watermark::before
 
 ---
 
-## 更改应用程序图标
+## Windows 如何更换图标
+
+如果你使用了新版的安装包，那么会发现，桌面快捷方式，工具栏等等都会变成新版图标，如果你仍然喜欢原来经典图标带来的感受，那么可以参考下列方法：
+
+**更改应用程序图标**
+
+1. 右键单击应用程序，然后从弹出菜单中选择 **“属性** ”。
+2. 在“**常规**”选项卡上，单击“**图标路径**”旁边的“**浏览**”按钮。
+3. 选择所需的图标，或浏览到其他位置以选择该图标。 选择图标后，单击“ **打开**”。 单击“ **确定”** 应用。
+
+新图标将显示在“ **结果** ”窗格中。 新图标也会显示在菜单和客户端桌面通知区域中。
+
+>[!Tip] 提示
+>- 这个方法只能替换部分内容，可能无法替换全部程序内部图标
+
+   > [!info] 附件：旧版 ICO 图标下载
+>  [https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico](https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico)
+
+## Windows 更改应用程序图标
 
 继续上面文章，如果是 windows 系统，想彻底更换 Obsidian 在任务栏上的图标，直接更改应用程序即可。
 
@@ -146,7 +164,5 @@ body.theme-dark .canvas-watermark::before
 
 完成后，记得重启计算机，你会发现任务栏，快捷方式，程序图标全都换好了。
 
-   > [!info] 附件：旧版ICO图标下载
+   > [!info] 附件：旧版 ICO 图标下载
 >  [https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico](https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico)
-
-
