@@ -1,16 +1,16 @@
 ---
 uid: 20230601001347
-title: Johnny.Decimal 一切源于数字的管理系统
+title: Johnny.Decimal 源于数字编码的管理系统
 tags: [Johnny.Decimal, 文件管理, 数据管理, 知识管理]
 description: Johnny.Decimal 一切源于数字的管理系统
 author: OS
 type: practice
 draft: false
 editable: false
-modified: 20230603013729
+modified: 20230603104044
 ---
 
-# Johnny.Decimal 一切源于数字的管理系统
+# Johnny.Decimal 源于数字编码的管理系统
 
 	这一切的一切，是源于，有时候我们会感到我们已经失去了对数据的控制。
 

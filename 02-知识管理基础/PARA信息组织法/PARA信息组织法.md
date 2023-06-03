@@ -33,5 +33,5 @@ PARA 是一个独特的、流行的、包含 Projects、Areas、Resources 和 Ar
 
 一些类似 PARA 的其他方法论：
 
-- [[Johnny.Decimal一切源于数字的管理系统]]
+- [[Johnny.Decimal.源于数字编码的管理系统]]
 - [[OS的文件简易命名规范]]
