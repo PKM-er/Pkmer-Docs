@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603014956
+modified: 20230603165032
 ---
 
 # Obsidian 社区插件
@@ -83,6 +83,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
+- [[Obsidian如何制作多栏布局]]
 
 ### 标题增强
 
