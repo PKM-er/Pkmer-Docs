@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230602152132
+modified: 20230602163309
 ---
 
 # 回归原始的 Obsidian 图标
@@ -121,3 +121,32 @@ body.theme-dark .canvas-watermark::before
 }
 
 ```
+
+---
+
+## 更改应用程序图标
+
+继续上面文章，如果是 windows 系统，想彻底更换 Obsidian 在任务栏上的图标，直接更改应用程序即可。
+
+1. 下载 ResHacker
+	链接：<http://www.angusj.com/resourcehacker/resource_hacker.zip>
+2. 打开解压包中的 ResourceHacker.exe 应用程序，运行。
+3. 选择工具栏中的文件 点击打开选项
+	![image.png](https://cdn.pkmer.cn/images/202306021629542.png!pkmer)
+4. 浏览到 Obsidian.exe 文件。Obsidian 默认安装路径在 `C:\Users\XX用户\AppData\Local\Obsidian\Obsidian.exe`
+	![image.png](https://cdn.pkmer.cn/images/202306021631295.png!pkmer)
+5. 找到左侧图标，右键进行更换
+   ![image.png](https://cdn.pkmer.cn/images/202306021635721.png!pkmer)
+6. 找到替换的图标目录路径，选中之后点击打开【文后附旧版图标下载】
+   ![image.png](https://cdn.pkmer.cn/images/202306021637055.png!pkmer)
+7. 选择 replace 替换
+   ![image.png](https://cdn.pkmer.cn/images/202306021637045.png!pkmer)
+8. 会发现右侧已经更换成了旧图标，这时候点击保存
+   ![image.png](https://cdn.pkmer.cn/images/202306021638363.png!pkmer)
+
+完成后，记得重启计算机，你会发现任务栏，快捷方式，程序图标全都换好了。
+
+   > [!info] 附件：旧版ICO图标下载
+>  [https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico](https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico)
+
+
