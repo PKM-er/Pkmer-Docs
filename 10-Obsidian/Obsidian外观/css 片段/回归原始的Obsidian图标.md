@@ -7,14 +7,14 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230603230048
+modified: 20230603233236
 ---
 
 # 回归原始的 Obsidian 图标
 
 ## 概述
 
-![88.gif|433](https://cdn.pkmer.cn/images/202306021341855.gif!pkmer)
+![88.gif|523](https://cdn.pkmer.cn/images/202306021341855.gif!pkmer)
 
 Obsidian 根据单词的字面意思 " 黑曜石，是一种常见的非晶质宝石、火山晶体 "，所以当打开 Obsidian 软件 自然会跟宝石联系到一起，原始的 Obsidian 的图标看起来就是宝石，之前很少有关于图标的讨论。当 Obsidian 1.3.5 启用了全新的图标 [[Obsidian全新LOGO更换]] 后，
 
@@ -28,15 +28,15 @@ Obsidian 的图标主要存在于软件内和应用程序中，其中软件内�
 
 `设置--外观--窗口边框样式` 中如果选择 "Obsidian 风格 "
 
-![image.png](https://cdn.pkmer.cn/images/202306021249720.png!pkmer)
+![image.png|748](https://cdn.pkmer.cn/images/202306021249720.png!pkmer)
 
 就会出现新 logo
 
-![55.gif](https://cdn.pkmer.cn/images/202306021305337.gif!pkmer)
+![55.gif|496](https://cdn.pkmer.cn/images/202306021305337.gif!pkmer)
 
 使用下面片段即可还原为原始图标
 
-![77.gif](https://cdn.pkmer.cn/images/202306021328156.gif!pkmer)
+![77.gif|496](https://cdn.pkmer.cn/images/202306021328156.gif!pkmer)
 
 ```css
  /*
@@ -140,7 +140,7 @@ body.theme-dark .canvas-watermark::before
 >- 这个方法只能替换部分内容，可能无法替换全部程序内部图标
 
    > [!info] 附件：旧版 ICO 图标下载
->  [https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico](https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico)
+>  [旧版 ICO 图标免费下载](https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico)
 
 ## Windows 更改应用程序图标
 
@@ -165,4 +165,4 @@ body.theme-dark .canvas-watermark::before
 完成后，记得重启计算机，你会发现任务栏，快捷方式，程序图标全都换好了。
 
    > [!info] 附件：旧版 ICO 图标下载
->  [https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico](https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico)
+>  [旧版 ICO 图标免费下载](https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1685695479649/IconGroup103.ico)
