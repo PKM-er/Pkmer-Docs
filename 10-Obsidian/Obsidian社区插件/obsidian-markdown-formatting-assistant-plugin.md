@@ -1,7 +1,7 @@
 ---
 uid: 20230504165924
 title: Obsidian 插件 Markdown Formatting Assistant
-tags: [Obsidian, 插件, Markdown Formatting Assistant, Markdown, 编辑器, 效率]
+tags: [Obsidian, 插件, Markdown, 编辑器, 效率]
 description: Markdown Formatting Assistant 提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示 OB 常用和所有命令提高工作效率。
 author: cuman
 type: other

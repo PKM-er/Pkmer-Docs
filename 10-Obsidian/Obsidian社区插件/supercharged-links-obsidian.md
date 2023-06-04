@@ -1,7 +1,7 @@
 ---
 uid: 20230430235610
 title: Obsidian 插件：Supercharged Links
-tags: [Obsidian, 插件, Supercharged Links, 链接，网站图标, 链接样式, 美化, hide]
+tags: [Obsidian, 插件, 链接，网站图标, 链接样式, 美化, hide]
 description: Supercharged Links 可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 author: cuman
 type: other

@@ -1,7 +1,7 @@
 ---
 uid: 20230430090320
 title: Obsidian 插件：Simple Embeds 为链接可视化卡片样式
-tags: [Obsidian, 插件, Simple Embeds, 链接, 可视化, 卡片样式]
+tags: [Obsidian, 插件, 链接, 可视化, 卡片样式]
 description: Obsidian 插件：Simple Embeds 为链接可视化卡片样式
 author: OS
 type: other

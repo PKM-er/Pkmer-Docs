@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Force note view mode 自定义每个笔记的视图
-tags: [Obsidian, 插件, Force note view mode, 笔记视图]
+tags: [Obsidian, 插件, 笔记视图, frontmatter]
 description: Obsidian 插件：Force note view mode 自定义每个笔记的视图
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603015248
+modified: 20230604174613
 ---
 
 # Obsidian 插件：Force note view mode 自定义每个笔记的视图

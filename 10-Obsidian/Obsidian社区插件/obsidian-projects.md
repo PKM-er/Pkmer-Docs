@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Projects 提供笔记多视图的管理能力
-tags: [Obsidian, 插件, Projects, 视图, 管理, 批量编辑]
+tags: [Obsidian, 插件, 视图, 管理, 批量编辑]
 description: Obsidian 插件：Projects 提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603020009
+modified: 20230604174431
 ---
 
 # Obsidian 插件：Projects 提供笔记多视图的管理能力

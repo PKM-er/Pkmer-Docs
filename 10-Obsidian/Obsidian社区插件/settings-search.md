@@ -1,13 +1,13 @@
 ---
 uid: 20230429230727
 title: Obsidian 插件：Settings Search 帮助快捷定位和查询设置项
-tags: [Obsidian, 插件, Settings Search, 搜索, 效率，设置选项]
+tags: [Obsidian, 插件, 搜索, 效率，设置选项]
 description: Obsidian 插件：Settings Search 帮助快捷定位和查询设置项
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603014353
+modified: 20230604174726
 ---
 
 # Obsidian 插件：Settings Search 帮助快捷定位和查询设置项

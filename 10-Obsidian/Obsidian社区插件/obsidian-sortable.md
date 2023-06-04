@@ -1,13 +1,13 @@
 ---
 uid: 20230430003417
 title: Obsidian 插件：Sortable 为表格提供简单的排序功能
-tags: [Obsidian, 插件, Sortable, 表格，排序]
+tags: [Obsidian, 插件, 表格，排序]
 description: Obsidian 插件：Sortable 为表格提供简单的排序功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603015633
+modified: 20230604174459
 ---
 
 # Obsidian 插件：Sortable 为表格提供简单的排序功能
