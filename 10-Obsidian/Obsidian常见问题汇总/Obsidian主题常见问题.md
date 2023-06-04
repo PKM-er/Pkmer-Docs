@@ -7,7 +7,7 @@ author: cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20230603013936
+modified: 20230604234212
 ---
 
 # Obsidian 主题常见问题
@@ -15,6 +15,31 @@ modified: 20230603013936
 ## 主题类问题
 
 ### Bluetopz 主题和 BT 示例库
+
+#### 使用主题后，文件管理器，不同级的文件夹和文件缩进一样
+
+- 如图
+
+![image.png](https://cdn.pkmer.cn/images/20230604233953.png!pkmer)
+
+- 这是因为启用了文件夹图标，而没有调整附带选项导致，参考下图重新设置，并重启 OB
+
+![485f5048d52cdcfa0718ea78cc00e8d.png](https://cdn.pkmer.cn/images/485f5048d52cdcfa0718ea78cc00e8d.png!pkmer)
+
+#### 鼠标指向插入的图片时，鼠标指针变化样式
+
+- 如图
+![image.png](https://cdn.pkmer.cn/images/20230604223210.png!pkmer)
+- 这是主题引入的一些小设置，本身对主题和功能没有任何副作用，如果你介意，可以参考如下方法
+- 在主题的 CSS 文件找到如下
+
+```CSS
+body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*="emoji"]) {
+  display: block;
+  margin: auto !important;
+  cursor: unset;/*这里原设置是 cursor: pointer; 修改为cursor: unset; 即可*/
+}
+```
 
 #### 如何获取指定地区的天气？
 
