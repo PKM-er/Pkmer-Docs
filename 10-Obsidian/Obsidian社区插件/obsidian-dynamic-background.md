@@ -1,7 +1,7 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Dynamic Background 为 Obsidian 添加动态背景
-tags: [Obsidian, 插件, Dynamic Background, 动态背景, 美化]
+tags: [Obsidian, 插件, 动态背景, 美化]
 description: Obsidian 插件：Dynamic Background 为 Obsidian 添加动态背景
 author: OS
 type: other

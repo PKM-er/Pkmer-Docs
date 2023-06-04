@@ -1,7 +1,7 @@
 ---
 uid: 20230517172707
 title: Obsidian 插件：Frontmatter Tag Suggest 自动为你提供输入标签信息提示
-tags: [Obsidian, 插件, Frontmatter Tag Suggest, 标签, 自动提示, 效率]
+tags: [Obsidian, 插件, 标签, 自动提示, 效率]
 description: Obsidian 插件：Frontmatter Tag Suggest 自动为你提供输入标签信息提示
 author: OS
 type: other

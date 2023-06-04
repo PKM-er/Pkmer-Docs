@@ -1,13 +1,13 @@
 ---
 uid: 20230430001441
 title: Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
-tags: [Obsidian, 插件, Auto Link Title, 链接, 自动化, 网页标题, 格式化]
+tags: [Obsidian, 插件, 链接, 自动化, 网页标题, 格式化]
 description: Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603021840
+modified: 20230604172557
 ---
 
 # Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名

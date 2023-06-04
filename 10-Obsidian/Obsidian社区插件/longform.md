@@ -1,13 +1,13 @@
 ---
 uid: 20230601235029
 title: Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作
-tags: [Obsidian, 插件, Longform, 小说创作, 剧本创作]
+tags: [Obsidian, 插件, 小说创作, 剧本创作]
 description: Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作
 author: OS
 type: practice
 draft: false
 editable: false
-modified: 20230603010640
+modified: 20230604172506
 ---
 
 # Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作

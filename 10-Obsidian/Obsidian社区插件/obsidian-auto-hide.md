@@ -1,7 +1,7 @@
 ---
 uid: 20230526153837
 title: Obsidian 插件：Auto Hide 自动隐藏侧边栏
-tags: [Obsidian, 插件, Auto Hide, 自动隐藏, 侧边栏, 专注]
+tags: [Obsidian, 插件, 自动隐藏, 侧边栏, 专注]
 description: Obsidian 插件：Auto Hide 自动隐藏侧边栏
 author: OS
 type: basic

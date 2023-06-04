@@ -1,13 +1,13 @@
 ---
 uid: 20230504230750
 title: Obsidian 插件：Highlightr 小而美的高亮标注工具
-tags: [Obsidian, 插件, Highlightr, 高亮, 可视化编辑]
+tags: [Obsidian, 插件, 高亮, 可视化编辑]
 description: Obsidian 插件：Highlightr 将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531200200
+modified: 20230604172445
 ---
 
 # Obsidian 插件：Highlightr 小而美的高亮标注工具

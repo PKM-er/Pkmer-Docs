@@ -1,13 +1,13 @@
 ---
 uid: 20230526143813
 title: Obsidian 插件：Hide Sidebars on Window Resize 自动根据宽度隐藏侧边栏
-tags: [Obsidian, 插件, Hide Sidebars on Window Resize, 自定义, 界面美化, 界面简化]
+tags: [Obsidian, 插件, 自定义, 界面美化, 界面简化]
 description: Obsidian 插件：Hide Sidebars on Window Resize 自动根据宽度隐藏侧边栏
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230603021357
+modified: 20230604172806
 ---
 
 # Obsidian 插件：Hide Sidebars on Window Resize 自动根据宽度隐藏侧边栏

@@ -1,7 +1,7 @@
 ---
 uid: 20230504174453
 title: Obsidian 插件：Obsidian markmind 绘制思维导图、大纲和 PDF 文件标注工具
-tags: [Obsidian, 插件, Obsidian markmind, 思维导图, 大纲, PDF, 文件标注]
+tags: [Obsidian, 插件, 思维导图, 大纲, PDF, 文件标注]
 description: Obsidian 插件：Obsidian markmind，让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 author: cuman
 type: other
