@@ -13,5 +13,6 @@
   },
   "spellcheck": false,
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "livePreview": false
 }
