@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230603010154
+modified: 20230604234231
 ---
 
 # Obsidian 常见问题汇总
@@ -86,13 +86,13 @@ modified: 20230603010154
 - [[Obsidian基础操作问题#Obsidian 如何批量移动多个文件]]
 - [[Obsidian基础操作问题#Obsidian 有没有快速删除图片的方法]]
 
-## 关系图谱
+## 核心插件
+
+### 关系图谱
 
 - [[Obsidian基础操作问题#局部关系图如何显示在本地或者软件界面上]]
 - [[Obsidian基础操作问题#局部关系图如何展示自己发布的网页上]]
 - [[Obsidian基础操作问题#为什么 Obsidian 的关系图谱不显示连接线]]
-
-## 核心插件
 
 ## 社区插件
 
@@ -114,6 +114,8 @@ modified: 20230603010154
 
 ### Bluetopz 主题和 BT 示例库
 
+- [[Obsidian主题常见问题#使用主题后，文件管理器，不同级的文件夹和文件缩进一样]]
+- [[Obsidian主题常见问题#鼠标指向插入的图片时，鼠标指针变化样式]]
 - [[Obsidian主题常见问题#如何获取指定地区的天气？]]
 - [[Obsidian主题常见问题#如何更换字体？]]
 - [[Obsidian主题常见问题#如何更换 Ob 背景图？]]
