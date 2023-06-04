@@ -1,7 +1,7 @@
 ---
 uid: 20230428105320
 title: Obsidian 插件： Dynamic ToC 为你的笔记创建目录
-tags: [Obsidian, 插件, Dynamic ToC, 目录, 自动化, 效率, 编辑器]
+tags: [Obsidian, 插件, 目录, 自动化, 效率, 编辑器]
 description: Obsidian 插件： Dynamic ToC 为你的笔记创建目录
 author: OS
 type: other

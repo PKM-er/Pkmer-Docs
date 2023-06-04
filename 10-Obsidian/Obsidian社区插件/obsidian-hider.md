@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Hider 自定义隐藏界面元素、信息
-tags: [Obsidian, 插件, Hider, 自定义, 界面美化, 界面简化]
+tags: [Obsidian, 插件, 自定义, 界面美化, 界面简化]
 description: Obsidian 插件：Hider 自定义隐藏界面元素、信息。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603021403
+modified: 20230604172809
 ---
 
 # Obsidian 插件：Hider 自定义隐藏界面元素、信息

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516113508
+modified: 20230604173250
 ---
 
 # Obsidian 插件：Fast Image Cleaner 快速删除笔记中图片和引用链接
@@ -16,9 +16,9 @@ modified: 20230516113508
 
 > [!Note] 插件名片
 > - 插件名称：Fast Image Cleaner
-> - 插件作者：Nathaniel
+> - 插件作者：martinniee
 > - 插件说明：快速删除文档中的图像附件和引用链接
-> - 插件项目地址：[点我跳转](https://github.com/Vinzent03/find-unlinked-files)
+> - 插件项目地址：[点我跳转](https://github.com/martinniee/Obsidian-fast-image-cleaner)
 
 ## 效果&特性
 

@@ -1,13 +1,13 @@
 ---
 uid: 20230517142910
 title: Obsidian 插件：Better File Link 图形化插入文件和素材
-tags: [Obsidian, 插件, Better File Link, 图形化, 插入, 效率]
+tags: [Obsidian, 插件, 图形化, 插入, 效率]
 description: Obsidian 插件：Better File Link 图形化插入文件和素材
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603022519
+modified: 20230604172740
 ---
 
 # Obsidian 插件：Better File Link 图形化插入文件和素材

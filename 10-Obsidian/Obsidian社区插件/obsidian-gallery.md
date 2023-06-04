@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
-tags: [Obsidian, 插件, Obsidian Gallery, 美化, 素材管理, 画廊, 瀑布流]
+tags: [Obsidian, 插件, 美化, 素材管理, 画廊, 瀑布流]
 description: Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603021518
+modified: 20230604172758
 ---
 
 # Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
