@@ -1,13 +1,13 @@
 ---
 uid: 20230428213702
 title: Obsidian 插件：Minimal Theme Settings 为你 Minimal 主题提供自定义选项
-tags: [Obsidian, 插件, Minimal Theme Settings, 主题, 自定义, 美化]
+tags: [Obsidian, 插件, 主题, 自定义, 美化]
 description: Minimal Theme Settings 为你 Minimal 主题提供自定义选项
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603020227
+modified: 20230604174046
 ---
 
 # Obsidian 插件：Minimal Theme Settings 为你 Minimal 主题提供自定义选项

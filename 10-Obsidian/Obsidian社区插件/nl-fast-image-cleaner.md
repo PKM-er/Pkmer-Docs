@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604173250
+modified: 20230604173634
 ---
 
 # Obsidian 插件：Fast Image Cleaner 快速删除笔记中图片和引用链接
@@ -22,7 +22,7 @@ modified: 20230604173250
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230516113325.png!pkmer)
+![image.png|469](https://cdn.pkmer.cn/images/20230516113325.png!pkmer)
 
 1. 鼠标右键图片点击删除菜单选项，会删除图片附件文件及其引用链接
 2. 被删除的图片的情况
@@ -52,10 +52,12 @@ modified: 20230604173250
 ### 删除附件及链接
 
 - 实时预览模式下
-![image.png](https://cdn.pkmer.cn/images/20230516113325.png!pkmer)
+
+![image.png|700](https://cdn.pkmer.cn/images/20230516113325.png!pkmer)
 
 - 阅读模式下
-![image.png](https://cdn.pkmer.cn/images/20230516113431.png!pkmer)
+
+![image.png|700](https://cdn.pkmer.cn/images/20230516113431.png!pkmer)
 
 ### 删除附件当删除笔记
 
@@ -64,7 +66,7 @@ modified: 20230604173250
 
 ### 删除内容的设置
 
-![image.png](https://cdn.pkmer.cn/images/20230516113027.png!pkmer)
+![image.png|808](https://cdn.pkmer.cn/images/20230516113027.png!pkmer)
 
 - 请确保你在 "Fast Images Cleaner Settings" 下选择了被删除图片的位置。你有 3 个选项：
 	- 移动到黑曜石垃圾桶 - 文件将被移动到黑曜石保险库下的.trash。

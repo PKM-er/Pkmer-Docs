@@ -1,7 +1,7 @@
 ---
 uid: 20230504172203
 title: Obsidian 插件：Zoom 通过快捷键，快速聚焦到大纲
-tags: [Obsidian, 插件, Zoom, 效率, 大纲]
+tags: [Obsidian, 插件, 效率, 大纲]
 description: obsidian-zoom 通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。
 author: cuman
 type: other

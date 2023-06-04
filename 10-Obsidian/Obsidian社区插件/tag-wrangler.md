@@ -1,7 +1,7 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Tag Wrangler 增强的标签管理体验
-tags: [Obsidian, 插件, Tag Wrangler, 标签管理]
+tags: [Obsidian, 插件, 标签管理]
 description: Obsidian 插件：Tag Wrangler 增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到。
 author: OS
 type: other

@@ -1,7 +1,7 @@
 ---
 uid: 20230509170900
 title: Obsidian 插件：List Callouts 为大纲列表增加强化样式
-tags: [Obsidian, 插件, List Callouts, callout, 列表, 美化样式, 自定义, 强化样式]
+tags: [Obsidian, 插件, 列表, 美化样式, 自定义, 强化样式]
 description: Obsidian 插件：List Callouts 为大纲列表增加强化样式
 author: OS
 type: other

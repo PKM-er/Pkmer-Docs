@@ -1,7 +1,7 @@
 ---
 uid: 20230514014646
 title: Obsidian 插件：Search on Internet 快速在搜索引擎中搜索笔记内容
-tags: [Obsidian, 插件, Search on Internet, 搜索]
+tags: [Obsidian, 插件, 搜索]
 description: Obsidian 插件：Search on Internet 快速在搜索引擎中搜索笔记内容
 author: Bon,山鸡
 type: other
