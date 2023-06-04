@@ -7,7 +7,7 @@ author: 宏沉一笑
 type: basic
 draft: false
 editable: false
-modified: 20230604170306
+modified: 20230604171021
 ---
 
 # Obsidian 插件：Metadata Menu 图形化的 Frontmater 管理器
@@ -95,9 +95,9 @@ Metadata Menu 插件是基于 dataview 的一个功能增强的插件。它基�
 
 ### 建立一个文件类模板
 
-1. 在模板文件夹中建立一个文件 `笔记类
+1. 在模板文件夹中建立一个文件 `笔记类`
 
-![Pasted image 20230604150449](https://cdn.pkmer.cn/images/Pasted%20image%2020230604150449.png!pkmer)
+![Pasted image 20230604150449|370](https://cdn.pkmer.cn/images/Pasted%20image%2020230604150449.png!pkmer)
 
 1. 输入想要创建的文件类名字，并点击创建
 
@@ -127,7 +127,7 @@ Metadata Menu 插件是基于 dataview 的一个功能增强的插件。它基�
 
 1. 选择想要添加的文件类
 
-![Pasted image 20230604150533](https://cdn.pkmer.cn/images/Pasted%20image%2020230604150533.png!pkmer)
+![Pasted image 20230604150533|433](https://cdn.pkmer.cn/images/Pasted%20image%2020230604150533.png!pkmer)
 
 ![Pasted image 20230604150538](https://cdn.pkmer.cn/images/Pasted%20image%2020230604150538.png!pkmer)
 
