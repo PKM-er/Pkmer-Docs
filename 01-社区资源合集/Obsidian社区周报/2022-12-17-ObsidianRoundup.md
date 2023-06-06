@@ -1,18 +1,18 @@
 ---
 uid: 20230329102645
-title: O_O 活动（Obsidian October）
-tags: 
+title: Obsidian 周报
+tags: []
 description: 
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230517142424
+modified: 20230606194140
 aliases: []
 share:
 ---
 
-# O_O 活动（Obsidian October）
+# Obsidian 周报
 
 这个是 [Obsidian October](https://airtable.com/shrFnFY00zy1ORZgI/tblP9bDDDDCib7Roy) 的参赛者名单，其中获奖者如下（译注：分成官方评选和学生评选的两个方向，因为这次 Obsidian October 是返校季主题）：
 
