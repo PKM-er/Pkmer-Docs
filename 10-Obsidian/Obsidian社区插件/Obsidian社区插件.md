@@ -292,6 +292,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[recent-files-obsidian]]：显示最近打开的文件列表
  - [[obsidian-gallery]]：让你的笔记变成画廊
  - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+ - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
 
 ### 标签页管理
 
