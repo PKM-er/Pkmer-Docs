@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604165122
+modified: 20230606193343
 ---
 
 # Obsidian 社区插件
@@ -116,6 +116,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
 
+- [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
@@ -305,7 +306,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
 - [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
 
-### 工具
+### 文件管理工具
 
 - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
 - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
@@ -313,6 +314,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
 - [[obsidian42-brat]]：让你可以安装未上架的插件，主题
 - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
+- [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
 
 ### 语言
 

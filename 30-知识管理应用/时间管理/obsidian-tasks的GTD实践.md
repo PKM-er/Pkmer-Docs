@@ -1,18 +1,16 @@
 ---
 uid: 20230509215554
-title: obsidian-tasks 的 GTD 实践
+title: Obsidian Tasks 的 GTD 实践
+tags: [Tasks插件, GTD]
 description: alswl 分享基于Obsidain tasks的GTD实践历程
 author: alswl
 type: practice
 draft: false
 editable: false
-modified: 20230509220608
+modified: 20230606193133
 ---
 
-# obsidian-tasks 的 GTD 实践
-
-> [!note] 声明
-> 本文转自：[从 Toodledo 到 Obsidian Tasks - 我的 GTD 最佳实践](https://blog.alswl.com/2023/02/gtd/)，已获得作者 alswl 的转载许可
+# Obsidian Tasks 的 GTD 实践
 
 最近我完成了从 Toodledo 到 Obsidian Tasks（Obsidian 插件）的切换。这两款软件都是极其强大的时间管理工具。虽然 Toodledo 几乎是我最喜欢的 GTD 软件，但服务愈发不稳定让我烦恼，正好发现 Obsidian Tasks 在查询和知识库结合方面的能力发挥出了 1+1 > 2 的效果。
 
@@ -74,7 +72,7 @@ Toodledo 很快成为了我最喜欢的任务管理工具。它提供了非常�
 
 ![image.png](https://cdn.pkmer.cn/images/20230509215914.png!pkmer)
 
-<small>Image from www.omnigroup.com/omnifocus</small>
+<small>Image from <www.omnigroup.com/omnifocus</small>
 
 ### 其他一些
 
@@ -209,7 +207,7 @@ Toodledo 官方并没有提供 OpenAPI 接口，我以逆向的方式生成了�
 
 ![image.png](https://cdn.pkmer.cn/images/20230509220125.png!pkmer)
 
-<small>Image from https://github.com/obsidian-tasks-group/obsidian-tasks</small>>
+<small>Image from <https://github.com/obsidian-tasks-group/obsidian-tasks</small>
 
 我的个人 KMS 已经完整地从 [Notion](http://notion.com/) 迁移到了 Obisidian，现在使用 Obisidan Tasks 迁移成本很低。经过一段时间对 Obsidian Tasks 的学习，我将原来的使用模式较为顺利搬到了 Obsidian Tasks。我接着之前两个场景**整理**和**下一个任务**来介绍如何高效使用 Obsidian Tasks。
 
@@ -422,3 +420,6 @@ done on {{date}}
 工具很重要，但并不能解决所有问题。要做好时间管理，最重要的是要清楚<mark>自己的目标是什么</mark>当你心里有一个重要的使命时，它会不断地在你脑海中浮现，这时候甚至不需要 GTD 工具的管理。
 
 希望本文介绍的 GTD 方法可以在你的工作和生活中带来帮助，让你更高效地完成自己的任务，同时也不要忘记享受生活的美好。记住，时间是有限的，珍惜每分每秒，抓住每一个机会，让自己的人生更加精彩！
+
+> [!note] 声明
+> 本文转自：[从 Toodledo 到 Obsidian Tasks - 我的 GTD 最佳实践](https://blog.alswl.com/2023/02/gtd/)，已获得作者 alswl 的转载许可
