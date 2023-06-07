@@ -14,5 +14,6 @@
   "spellcheck": false,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
-  "livePreview": false
+  "livePreview": true,
+  "defaultViewMode": "source"
 }
