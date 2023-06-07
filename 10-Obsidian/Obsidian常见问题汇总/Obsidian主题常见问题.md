@@ -96,3 +96,4 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
 #### 如何移植动画猫到自己的主页中？
 
 - 跟多彩时钟一样，动画猫也是 react 组件生成的。需要首先安装 react_component 插件，并 copy`\88-Template\ReactJS\react_cat.md` 这样动画猫代码就生效了。
+

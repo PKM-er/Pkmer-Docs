@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230604234231
+modified: 20230607171611
 ---
 
 # Obsidian 常见问题汇总
@@ -87,6 +87,10 @@ modified: 20230604234231
 - [[Obsidian基础操作问题#Obsidian 有没有快速删除图片的方法]]
 
 ## 核心插件
+
+### 日记
+
+- [[Obsidian插件常见问题#每天打开 Obsidian 自动添加一个日记]]
 
 ### 关系图谱
 
