@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603013933
+modified: 20230607230941
 ---
 
 # Obsidian 基础操作
@@ -579,3 +579,11 @@ Quiet outline 主要是可以分层级展开正文标题，去梳理层级结构
 	- 重复上一步操作直到找到有问题的插件，或插件全部打开但图谱依旧正常。
 3. 可以参考 [这里](https://forum.obsidian.md/t/graph-view-lines-disapeared/6201/9)
 	- 简要说：在设置 中 关闭 硬件加速。
+
+## 移动端
+
+### Obsidian 在手机上如何插入手机中的图片
+
+- 通过底部工具栏的曲别针按钮
+![image.png|352](https://cdn.pkmer.cn/images/20230607230920.png!pkmer)
+

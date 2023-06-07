@@ -7,14 +7,14 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230607224840
+modified: 20230607225607
 ---
 
 # Obsidian 扩展语法
 
-## 笔记内容引用
+Obsidian 除了支持之前所说的 [[Markdown]] 基本语法，还有一些基于链接，和应用笔记，为了更方便产出而设置支持的扩展集。
 
-^4449fd
+## 笔记内容引用
 
 引用笔记内容到文本
 
