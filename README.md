@@ -31,6 +31,10 @@ Pkmer，即 `PKM` 和 `er` 的结合，寓意 Personal Knowledge Management 个�
 - [PKM-er/Blue-topaz-example: Blue topaz themes example vault for Obsidian](https://github.com/PKM-er/Blue-topaz-example)：一个展现 Obsidian 用法的示例库
 - [PKM-er/Obsidian-Surfing: An Obsidian plugin that lets you browse the web within Obsidian. ](https://github.com/PKM-er/Obsidian-Surfing)：一个在 Obsidian 里浏览网页的 Obsidian 浏览器插件
 
+## 加入交流群
+
+- QQ： 825255377
+
 ## 参与贡献
 
 1. 提出意见：可以在 Github 的 [Issue](https://github.com/PKM-er/Pkmer-Docs/issues) 里，提出对文档的改进意见，未来的发展方向等内容
@@ -46,7 +50,3 @@ Pkmer，即 `PKM` 和 `er` 的结合，寓意 Personal Knowledge Management 个�
 特别鸣谢：
 
 - [Ryooo](https://www.zhihu.com/people/rao-yao-47-68)
-
-## 开源协议
-
-[GNU General Public License version 3](https://opensource.org/license/gpl-3-0/)
