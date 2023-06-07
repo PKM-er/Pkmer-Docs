@@ -1,16 +1,16 @@
 ---
 uid: 20230606231209
-title: Obsidian 插件：Chronology
-tags: []
-description: 
-author: 
+title: Obsidian 插件：Chronology 帮助你记录所有修改编辑过的文件
+tags: [Obsidian, 插件, 月历, 记录, 修改编辑记录]
+description: Obsidian 插件：Chronology 帮助你记录所有修改编辑过的文件
+author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230606233625
+modified: 20230607102344
 ---
 
-# Obsidian 插件：Chronology
+# Obsidian 插件：Chronology 帮助你记录所有修改编辑过的文件
 
 ## 概述
 

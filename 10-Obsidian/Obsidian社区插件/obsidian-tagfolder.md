@@ -4,10 +4,10 @@ title: Obsidian 插件：TagFolder 通过标签方式组织管理笔记
 tags: [Obsidian, 插件, 文件管理, 标签]
 description: Obsidian 插件：TagFolder 通过标签方式组织管理笔记
 author: OS
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230603015435
+modified: 20230607102348
 ---
 
 # Obsidian 插件：TagFolder 通过标签方式组织管理笔记

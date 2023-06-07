@@ -7,7 +7,7 @@ author: windilycloud
 type: tutorial
 draft: false
 editable: false
-modified: 20230530231800
+modified: 20230607113434
 ---
 
 # Obsidian 新手指南
