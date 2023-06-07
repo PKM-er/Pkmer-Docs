@@ -7,10 +7,21 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230602191823
+modified: 20230607171522
 ---
 
 # Obsidian 插件常见问题
+
+## 核心插件
+
+### 日记插件
+
+#### 每天打开 Obsidian 自动添加一个日记
+
+- 这是核心插件中的功能，如果你打开了“日记”和新插件，并开启了。
+- 则：在没有对应日期日记文件的时候，Obsidian 会自动帮你创建一个对应日期的日记文件。
+
+![image.png](https://cdn.pkmer.cn/images/20230607171233.png!pkmer)
 
 ## 社区插件
 
