@@ -1,13 +1,13 @@
 ---
 uid: 20230517152954
 title: Obsidian 插件：File Explorer Note Count 增加文件数量统计功能
-tags: []
-description: 
+tags: [Obsidian, 插件, 文件数量统计功能, 笔记系统管理, 文件管理器, 笔记统计计数范围, 子文件夹统计]
+description: Obsidian 插件：File Explorer Note Count 增加文件数量统计功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517154424
+modified: 20230531200040
 ---
 
 # Obsidian 插件：File Explorer Note Count 增加文件数量统计功能

@@ -1,13 +1,13 @@
 ---
 uid: 20230430194810
 title: Obsidian 插件：Cmenu 添加一个类似 Word 的工具栏
-tags: [Obsidian, 插件, 美化, 编辑器, 效率]
+tags: [Obsidian, 插件, Word 风格工具栏, 流畅的编辑体验, Markdown 语法, Mini 工具栏, 常用 Markdown 命令, 懒人写作, 自定义菜单功能, 快捷方式, 笔记编辑, 加粗, 斜体, 删除线, 下划线, 上标, 下标, 代码, 代码块, 引用]
 description: Obsidian 插件：cmenu 提供一个类似word工具栏，以获得更流畅的写作/编辑体验
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230531195957
 ---
 
 # Obsidian 插件：Cmenu 添加一个类似 Word 的工具栏

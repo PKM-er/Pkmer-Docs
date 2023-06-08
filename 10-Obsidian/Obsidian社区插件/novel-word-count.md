@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516195335
+modified: 20230530224655
 ---
 
 # Obsidian 插件：Novel word count 增加统计信息

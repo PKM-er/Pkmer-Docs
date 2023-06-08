@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Remember cursor position（记住光标位置）
-tags: []
-description: Obsidian 插件：Remember cursor position（记住光标位置）
+title: Obsidian 插件：Remember cursor position 记住上次阅读的位置
+tags: [Obsidian, 插件, 光标, 效率]
+description: Obsidian 插件：Remember cursor position 记住上次阅读的位置
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230604174708
 ---
 
-# Obsidian 插件：Remember cursor position（记住光标位置）
+# Obsidian 插件：Remember cursor position 记住上次阅读的位置
 
 ## 概述
 

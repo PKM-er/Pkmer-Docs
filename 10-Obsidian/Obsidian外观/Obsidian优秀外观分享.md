@@ -1,13 +1,13 @@
 ---
 uid: 20230409231230
 title: Obsidian 优秀外观分享
-tags: []
-description: 
+tags: [Obsidian, 主题, 优秀外观分享]
+description: Obsidian 优秀外观分享
 author: Obsidian社区
 type: awesome
 draft: false
 editable: true
-modified: 20230515233931
+modified: 20230602192027
 ---
 
 # Obsidian 优秀外观分享

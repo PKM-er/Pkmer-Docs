@@ -1,12 +1,13 @@
 ---
 uid: 20230329140147
 title: Windily 的笔记软件选择
-description: 
+tags: []
+description: Windily 的笔记软件选择，个人知识管理，笔记选择
 author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230503232738
+modified: 20230530231116
 ---
 
 # Windily 的笔记软件选择

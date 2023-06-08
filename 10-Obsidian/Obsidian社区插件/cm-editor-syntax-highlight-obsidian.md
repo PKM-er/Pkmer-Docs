@@ -1,13 +1,13 @@
 ---
 uid: 20230429092554
 title: Obsidian 插件：Editor Syntax Highlight 在代码块中显示高亮配色方案
-tags: []
+tags: [Obsidian, 插件, 高亮配色方案, 代码块, 编程语言, 预设, 自定义, 高亮语法]
 description: Obsidian 插件：Editor Syntax Highlight 允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230531195914
 ---
 
 # Obsidian 插件：Editor Syntax Highlight 在代码块中显示高亮配色方案

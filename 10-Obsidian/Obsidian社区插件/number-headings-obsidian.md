@@ -1,16 +1,16 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Number Headings
+title: Obsidian 插件：Number Headings 给笔记中的标题自动编号，以及动态目录
 tags: [Obsidian, 插件, 标题, 自动编号, 目录, 排序, Headings]
 description: Obsidian 插件：Number Headings 给笔记中的标题自动编号，以及动态目录。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230530224106
 ---
 
-# Obsidian 插件：Number Headings
+# Obsidian 插件：Number Headings 给笔记中的标题自动编号，以及动态目录
 
 功能：支持给各级正文标题自动编号，【1.1、1.2、······11.1.1、1.1.2】 以此类推
 

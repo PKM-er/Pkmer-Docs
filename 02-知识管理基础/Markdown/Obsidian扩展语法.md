@@ -1,25 +1,44 @@
 ---
 uid: 20230516140955
 title: Obsidian 扩展语法
-tags: []
-description: 
+tags: [Markdown]
+description: Obsidian 扩展语法，引用内容，内容引用，引用具体标题内容，自定义图片大小，callout语法速查
 author: OS
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230516141955
+modified: 20230607225607
 ---
 
 # Obsidian 扩展语法
+
+Obsidian 除了支持之前所说的 [[Markdown]] 基本语法，还有一些基于链接，和应用笔记，为了更方便产出而设置支持的扩展集。
 
 ## 笔记内容引用
 
 引用笔记内容到文本
 
 ```Markdown
-![[笔记文件名#标题名]]  引用具体笔记某个标题下的全部内容
-![[笔记文件名^文本块]]  应用具体笔记下某个文本块的内容
+![[笔记文件名#标题名]]    引用具体笔记某个标题下的全部内容
+![[笔记文件名^文本块]]    引用具体笔记下某个文本块的内容
+[[笔记文件名#标题名]]    链接具体笔记某个标题
+[[笔记文件名^文本块]]    链接具体笔记某个文本块
+[[笔记文件名^文本块|显示别名]]    链接具体笔记某个文本块，并显示别名
 ```
+
+## 自定义图片大小
+
+以下方式都是允许的：
+
+- `![AltText|100x100](https://url/to/image.png)`，引用网络图片，并做裁剪，指定宽高
+- `![AltText|100](https://url/to/image.png)`，引用网络图片，指定宽度，图片按照宽度缩放
+- `![[image.png|100x100]]`，对本地图片（仓库中）宽度高度都做裁剪
+- `![[image.png|100]]`，对本地图片（仓库中）并指定宽度，图片按照宽度缩放
+
+或者这样表述你更你更理解：
+
+- `![图片名称|宽度数值](链接地址)`，引用网络图片，并做裁剪
+- `![[图片名|宽度数值]]`，对本地图片（仓库中）宽度高度都做裁剪
 
 ## Callout
 
@@ -165,7 +184,7 @@ modified: 20230516141955
 2. 复制嵌入代码
 例子：`<iframe src="//player.bilibili.com/player.html...." scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>`
 
-![image.png](https://cdn.pkmer.cn/images/20230516141418.png!pkmer)
+![image.png|566](https://cdn.pkmer.cn/images/20230516141418.png!pkmer)
 
 1. 修改嵌入代码为：`<iframe src="**http:**//[http://player.bilibili.com/player.html...](https://link.zhihu.com/?target=http%3A//player.bilibili.com/player.html...)." scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>`
 

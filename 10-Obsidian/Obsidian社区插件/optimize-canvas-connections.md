@@ -1,13 +1,13 @@
 ---
 uid: 20230513222807
 title: Obsidian 插件：Optimize Canvas Connections 优化 Canvas 中的连接线
-tags: 
+tags: [Obsidian, 插件, Canvas, 连接线]
 description: Obsidian 插件：Optimize Canvas Connections 优化 Canvas 中的连接线
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230604174643
 ---
 
 # Obsidian 插件：Optimize Canvas Connections 优化 Canvas 中的连接线

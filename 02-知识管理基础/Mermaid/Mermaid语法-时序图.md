@@ -1,13 +1,13 @@
 ---
 uid: 20230517175240
 title: Mermaid 语法 - 时序图
-tags: [mermaid]
-description: 
+tags: [Mermaid, 语法, 时序图]
+description: Mermaid 语法，时序图
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230517180142
+modified: 20230603013626
 ---
 
 # Mermaid 语法 - 时序图
@@ -67,7 +67,6 @@ sequenceDiagram
 
 消息既可以实线，也可以虚线显示。
 
- 
 目前支持的箭头有 6 种：
 
 |**类型**|**描述**|
@@ -118,7 +117,7 @@ sequenceDiagram
 
 ## 注解 Notes
 
-可以在序列图中添加注解。通过语法 Note  right of | left of | over  Actor：注解内容
+可以在序列图中添加注解。通过语法 Note right of | left of | over Actor：注解内容
 
 参见下面的示例：
 

@@ -2,12 +2,12 @@
 uid: 20230329145856
 title: Obsidian 设置
 tags: []
-description: 
+description: Obsidian 设置，基本设置，设置属性介绍
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233932
+modified: 20230530231937
 ---
 
 # Obsidian 设置
