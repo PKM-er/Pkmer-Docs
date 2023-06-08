@@ -7,7 +7,7 @@ author: cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20230608174708
+modified: 20230608180856
 ---
 
 # Obsidian 主题常见问题
@@ -107,6 +107,7 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
 
 ```CSS
 .list-collapse-indicator.collapse-indicator.collapse-icon.is-collapsed:after {
-	color: transparent !important;
+	color: transparent;
+	display：none;
 }
 ```
