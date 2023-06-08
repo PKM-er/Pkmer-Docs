@@ -7,7 +7,7 @@ author: cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20230608174548
+modified: 20230608174708
 ---
 
 # Obsidian 主题常见问题
@@ -106,7 +106,7 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
 参考下面代码，并放入 snippets 中，方法见 [[Obsidian的CSS代码片段]]
 
 ```CSS
-.markdown-source-view.mod-cm6 .cm-foldPlaceholder {
+.list-collapse-indicator.collapse-indicator.collapse-icon.is-collapsed:after {
 	color: transparent !important;
 }
 ```
