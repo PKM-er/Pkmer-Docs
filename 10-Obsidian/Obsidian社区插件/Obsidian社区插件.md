@@ -63,6 +63,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 - [[frontmatter-alias-display]]：让你在文件名下直接看到别名
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
+- [[obsidian-codemirror-options]]：
 
 ### 编辑增强
 
