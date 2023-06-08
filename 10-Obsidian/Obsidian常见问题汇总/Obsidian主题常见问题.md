@@ -7,7 +7,7 @@ author: cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20230608170042
+modified: 20230608174708
 ---
 
 # Obsidian 主题常见问题
@@ -99,12 +99,14 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
 
 #### 如何消除列表折叠后的折叠占位符
 
+- 阅读模式下
+
 ![f54833d49b2c8ec511bd82e60856c66.jpg](https://cdn.pkmer.cn/images/f54833d49b2c8ec511bd82e60856c66.jpg!pkmer)
 
 参考下面代码，并放入 snippets 中，方法见 [[Obsidian的CSS代码片段]]
 
 ```CSS
-.markdown-source-view.mod-cm6 .cm-foldPlaceholder {
+.list-collapse-indicator.collapse-indicator.collapse-icon.is-collapsed:after {
 	color: transparent !important;
 }
 ```
