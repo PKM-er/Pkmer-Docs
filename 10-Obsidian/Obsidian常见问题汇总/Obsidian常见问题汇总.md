@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230607171611
+modified: 20230607231101
 ---
 
 # Obsidian 常见问题汇总
@@ -85,6 +85,10 @@ modified: 20230607171611
 - [[Obsidian基础操作问题#启动时如何开启指定的笔记]]
 - [[Obsidian基础操作问题#Obsidian 如何批量移动多个文件]]
 - [[Obsidian基础操作问题#Obsidian 有没有快速删除图片的方法]]
+
+## 移动端
+
+- [[Obsidian基础操作问题#Obsidian 在手机上如何插入手机中的图片]]
 
 ## 核心插件
 
