@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230607231101
+modified: 20230608220512
 ---
 
 # Obsidian 常见问题汇总
@@ -89,8 +89,13 @@ modified: 20230607231101
 ## 移动端
 
 - [[Obsidian基础操作问题#Obsidian 在手机上如何插入手机中的图片]]
+- [[Obsidian基础操作问题#Obsidian 手机端的笔记库无法打开]]
 
 ## 核心插件
+
+### 模板插件
+
+- [[Obsidian插件常见问题#如何快速插入当前日期/时间]]
 
 ### 日记
 
@@ -135,3 +140,8 @@ modified: 20230607231101
 - [[Obsidian主题常见问题#为什么在 style setting 下切换配色没什么效果]]
 - [[Obsidian主题常见问题#如何移植动画版天气到自己的主页？并获取指定城市天气]]
 - [[Obsidian主题常见问题#如何取消开启 Ob 自动加载主页，我想打开 ob 出现上次关闭时的笔记？]]
+
+## 购买和捐赠
+
+- [[Obsidian基础操作问题#Obsidian 购买和捐赠一览表]]
+

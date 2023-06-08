@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603020822
+modified: 20230608211708
 ---
 
 # Obsidian 插件：Link Embed 帮你将网页 URL 转换为嵌入预览卡片样式
