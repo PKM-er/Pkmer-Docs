@@ -2,12 +2,12 @@
 uid: 20230329145856
 title: Obsidian 更新
 tags: []
-description: 
+description: Obsidian 更新，手动更新，自动更新
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233932
+modified: 20230530231641
 ---
 
 # Obsidian 更新

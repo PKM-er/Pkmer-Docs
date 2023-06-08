@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517230119
+modified: 20230531200143
 ---
 
 # Obsidian 插件：Fuzzy Chinese Pinyin 基于汉语拼音进行模糊搜索

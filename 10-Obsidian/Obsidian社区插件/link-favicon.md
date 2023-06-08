@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230531200237
 ---
 
 # Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标

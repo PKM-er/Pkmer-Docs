@@ -1,13 +1,13 @@
 ---
 uid: 20230517182801
 title: Obsidian 插件：Daily Stats 自动统计笔记更新修改的热力图
-tags: []
-description: 
+tags: [Obsidian, 插件, 热力图, 统计, 自动化]
+description: Obsidian 插件：Daily Stats 自动统计笔记更新修改的热力图
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517183348
+modified: 20230604172626
 ---
 
 # Obsidian 插件：Daily Stats 自动统计笔记更新修改的热力图

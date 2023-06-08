@@ -1,13 +1,13 @@
 ---
 uid: 20230517223023
 title: Obsidian 插件：Focus Mode 增加专注模式让你聚焦书写
-tags: []
-description: 
+tags: [Obsidian, 插件, 全屏模式, 专注模式]
+description: Obsidian 插件：Focus Mode 增加专注模式让你聚焦书写
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517230055
+modified: 20230604172746
 ---
 
 # Obsidian 插件：Focus Mode 增加专注模式让你聚焦书写
@@ -42,5 +42,8 @@ Focus Mode 插件为 Obsdian 带来了专注模式，让你获得意思安逸。
 
 - 该插件没有设置选项
 
-> [!Tip] 推荐阅读
+> [!Tip] 相关推荐
 > - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
+> - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+> - [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
+> - [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏

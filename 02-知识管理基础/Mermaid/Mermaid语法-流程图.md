@@ -1,15 +1,14 @@
 ---
 uid: 20230517171610
 title: Mermaid 语法 - 流程图
-tags: [mermaid]
-description: 
+tags: [Mermaid, 语法, 流程图]
+description: Mermaid 语法，流程图，节点，连接
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230517175234
+modified: 20230603013613
 ---
-
 
 # Mermaid 语法 - 流程图
 
@@ -34,7 +33,6 @@ graph LR
 graph LR
     id
 ```
-
 
 > 注意： `id` 即显示在矩形中的名称。
 

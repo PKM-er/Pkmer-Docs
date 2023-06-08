@@ -1,13 +1,13 @@
 ---
 uid: 20230508145808
-title: Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图
-tags: [Obsidian, 插件, Tasks-calendar-wrapper, 任务, 时间线, 任务日历]
+title: Obsidian 插件：Tasks-calendar-wrapper 支持快捷输入与时间线/日历视图的任务面板展示插件
+tags: [Obsidian, 插件, 任务, 时间线, 任务日历]
 description: Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图
 author: Simen_Chen
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230604174747
 ---
 
 # Obsidian 插件：Tasks-calendar-wrapper 支持快捷输入与时间线/日历视图的任务面板展示插件
@@ -26,7 +26,7 @@ modified: 20230515233928
 
 > [!Warning]
 > 2023.05.14
-> 1、开发者正在解决使用filter筛选任务后的取消与热重载问题，目前，个人测试的解决办法，是打开 inbox.md 或配置的日记文件，或继续输入文字，可激活插件任务列表的刷新。
+> 1、开发者正在解决使用 filter 筛选任务后的取消与热重载问题，目前，个人测试的解决办法，是打开 inbox.md 或配置的日记文件，或继续输入文字，可激活插件任务列表的刷新。
 > 2、Obsidian 的开发者面板，此插件还有一些不影响使用的报错。
 
 ## 效果&特性

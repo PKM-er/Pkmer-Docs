@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230517180916
+modified: 20230531200028
 ---
 
 # Obsidian 插件：Cycle through Panes 快速循环浏览标签页

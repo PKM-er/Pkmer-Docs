@@ -1,13 +1,13 @@
 ---
 uid: 20230503001315
 title: Obsidian 插件：盘古 PanGu 快速格式化文档
-tags: []
+tags: [Obsidian, 插件, 盘古, 格式化, 效率]
 description: Obsidian 插件：盘古 PanGu 快速格式化文档
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230604174055
 ---
 
 # Obsidian 插件：盘古 PanGu 快速格式化文档
@@ -20,7 +20,7 @@ modified: 20230515233929
 >
 > - 插件名称：盘古 PanGu
 > - 插件作者：Natumsol
-> - 插件说明：提供了一个全新的增强型文件管理器。
+> - 插件说明：一键自动化增加文字与数字，英文和中文之间的空格
 > - 插件项目地址：[点我跳转](https://github.com/Natumsol/obsidian-pangu)
 
 ## 效果&特性
@@ -37,3 +37,6 @@ modified: 20230515233929
 	- Mac：Command+Shift+S
 	- Windows：Shit+Ctrl+S
 	- 也可以到「设置 - 快捷键」里进行修改
+
+> [!Tip] 推荐阅读
+> - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验。

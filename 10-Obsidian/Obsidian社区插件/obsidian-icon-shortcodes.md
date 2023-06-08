@@ -1,32 +1,32 @@
 ---
 uid: 20230506103414
-title: Obsidian 插件：Icon Shortcodes
-tags: []
-description: Obsidian 插件：Icon Shortcodes 通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合。
+title: Obsidian 插件：Icon Shortcodes 通过短代码方式，快速筛选和输入
+tags: [Obsidian, 插件, 图标, emoji, 效率, 编辑器, 自定义]
+description: Obsidian 插件：Icon Shortcodes 通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230604172821
 ---
 
-# Obsidian 插件：Icon Shortcodes
+# Obsidian 插件：Icon Shortcodes 通过短代码方式，快速筛选和输入
 
 ## 概述
 
 有时候我们在记录笔记的时候，会使用到 emoji 表情符号，Obsidian 支持这种表情符号的显示，但是输入上十分依赖你的输入法或其他方式。
 
-Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合。
+Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合。
 
 > [!Note] 插件名片
 > - 插件名称：Icon Shortcodes
 > - 插件作者：AidenLx
-> - 插件说明：通过键入 emoji 对应的段代码方式，快速筛选和输入。并支持自定义图标集合。
+> - 插件说明：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合。
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/obsidian-icon-shortcodes)
 
 ## 使用
 
-- 通过键入 emoji 对应的段代码，对应触发关键字为 `:`（英文冒号）紧跟 emoji 对应的短代码。如 :smile 对应的就是笑脸。
+- 通过键入 emoji 对应的短代码，对应触发关键字为 `:`（英文冒号）紧跟 emoji 对应的短代码。如 :smile 对应的就是笑脸。
 - 输入对应短代码后，插件会自动进行提示，方便你快速寻找。
 - 支持模糊搜索：输入 `：` 后，你可以通过简单的关键字，在弹出的下来菜单中简易收拢搜索范围。比如 `:book to` 查找📖（：open_book :) 和📗（：green_book :)
 

@@ -1,13 +1,13 @@
 ---
 uid: 20230517194245
 title: Obsidian 插件：Fullscreen mode plugin 让笔记全屏化
-tags: []
-description: 
+tags: [Obsidian, 插件, 全屏模式]
+description: Obsidian 插件：Fullscreen mode plugin 让笔记全屏化
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517225915
+modified: 20230603021535
 ---
 
 # Obsidian 插件：Fullscreen mode plugin 让笔记全屏化
@@ -38,5 +38,7 @@ Obsidian 确实提供了相当丰富的功能和工作空间，这些功能和�
 - 左右侧边栏会自动收起
 - `Esc` 将返回到以前的布局，退出全屏模式
 
-> [!Tip] 推荐阅读
+> [!Tip] 相关推荐
+> - [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
 > - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+> - [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏

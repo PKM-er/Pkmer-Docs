@@ -1,13 +1,13 @@
 ---
 uid: 20230504001023
 title: Obsidian 插件：Comments 为你的笔记增加评论和批注功能
-tags: []
+tags: [Obsidian, 插件, 批注, 评论, 编辑器]
 description: Obsidian 插件：Comments 为你的笔记增加评论和批注功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230604172616
 ---
 
 # Obsidian 插件：Comments 为你的笔记增加评论和批注功能

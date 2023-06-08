@@ -13,5 +13,7 @@
   },
   "spellcheck": false,
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false,
+  "livePreview": true,
+  "defaultViewMode": "source"
 }

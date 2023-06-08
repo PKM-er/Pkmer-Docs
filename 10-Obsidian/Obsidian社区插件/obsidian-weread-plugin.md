@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Weread 让 Obsidian 和你的微信阅读联动
-tags: []
+tags: [Obsidian, 插件, 微信读书, 微信阅读，第三方工具, 联动]
 description: Obsidian 插件：Weread 让Obsidian 和你的微信阅读联动
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230604174625
 ---
 
 # Obsidian 插件：Weread 让 Obsidian 和你的微信阅读联动

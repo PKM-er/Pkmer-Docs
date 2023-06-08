@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
-title: Obsidian 插件：Image Caption 给图片增加说明
-tags: []
+title: Obsidian 插件：Image Caption 给图片增加说明题注
+tags: [Obsidian, 插件, 图片，图片题注]
 description: Obsidian 插件：Image Caption 如何给图片增加说明
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516113905
+modified: 20230603021115
 ---
 
 # Obsidian 插件：Image Caption 给图片增加说明题注
@@ -53,3 +53,9 @@ modified: 20230516113905
 ```
 
 ![image.png](https://cdn.pkmer.cn/images/20230507131245.png!pkmer)
+
+> [!Tip] 相关推荐
+> - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
+> - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
+> - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
+> - [[mousewheel-image-zoom]]： 能够通过按住可配置键（默认为左 alt），在编辑/阅读模式下通过滚轮来调节图像的大小

@@ -1,16 +1,16 @@
 ---
 uid: 20230517230608
-title: Canvas 卡片美化
-tags: [css]
-description: 
+title: Obsidian 样式：Canvas 卡片美化
+tags: [Obsidian, css, Canvas, 白板, 样式]
+description: Obsidian 样式：Canvas 卡片美化
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230517234340
+modified: 20230602192349
 ---
 
-# Canvas 卡片美化
+# Obsidian 样式：Canvas 卡片美化
 
 canvas 是 obsidian 的白板插件，默认的卡片框看起来比较单调，可以对白板卡片做一定的美化
 

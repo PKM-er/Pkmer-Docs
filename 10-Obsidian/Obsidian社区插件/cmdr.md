@@ -1,13 +1,13 @@
 ---
 uid: 20230329145808
 title: Obsidian 插件：Commander 添加自定义功能按钮
-tags: [Obsidian, 插件, 命令, 自定义]
+tags: [Obsidian, 插件, 自定义功能按钮, UI 自定义, 工具栏图标, 核心和社区插件, 用户界面定制, 快捷键命令, 无干扰工作流, 左侧栏, 状态栏]
 description: Obsidian 插件：Commander 给 Obsidian 的不同功能区增加自定义快捷按钮。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230531195947
 ---
 
 # Obsidian 插件：Commander 添加自定义功能按钮

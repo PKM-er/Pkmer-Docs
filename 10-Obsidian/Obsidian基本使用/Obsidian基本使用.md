@@ -2,12 +2,12 @@
 uid: 20230329170612
 title: Obsidian 基本使用
 tags: []
-description: 
+description: Obsidian 基本使用
 author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20230517230015
+modified: 20230530231709
 ---
 
 # Obsidian 基本使用
@@ -19,7 +19,7 @@ modified: 20230517230015
 - [[仓库]]
 - [[仓库切换器]]
 - [[多窗口模式]]
-- [[10-Obsidian/Obsidian基本使用/反向链接]]
+- [[出链]]
 - [[管理附件]]
 - [[快捷键]]
 - [[面板布局]]
