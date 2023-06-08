@@ -7,7 +7,7 @@ author: cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20230608180856
+modified: 20230608185731
 ---
 
 # Obsidian 主题常见问题
@@ -109,5 +109,17 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
 .list-collapse-indicator.collapse-indicator.collapse-icon.is-collapsed:after {
 	color: transparent;
 	display：none;
+}
+```
+
+#### 列表项中文字产生错位
+
+- 列表项产生了错位问题，具体原因未知，可能与设置有关
+
+![6fadc810bd28a900adb2901a71896d7.jpg](https://cdn.pkmer.cn/images/6fadc810bd28a900adb2901a71896d7.jpg!pkmer)
+
+```CSS
+.markdown-rendered .list-collapse-indicator {  
+	padding-right:unset;  
 }
 ```
