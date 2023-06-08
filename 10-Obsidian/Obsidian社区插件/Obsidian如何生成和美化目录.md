@@ -1,16 +1,16 @@
 ---
 uid: 20230608220650
-title: 如何生成和美化目录
-tags: []
-description: 
-author: 
-type: 
+title: Obsidian 如何生成和美化目录
+tags: [Obsidian, 插件, 目录, 美化]
+description: Obsidian
+author: OS
+type: practice
 draft: false
 editable: false
-modified: 20230608222722
+modified: 20230608224555
 ---
 
-# 如何生成和美化目录
+# Obsidian 如何生成和美化目录
 
 ## 如何给 Obsidian 生成目录
 
