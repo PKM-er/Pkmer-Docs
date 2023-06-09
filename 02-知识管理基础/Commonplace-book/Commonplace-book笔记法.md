@@ -2,12 +2,12 @@
 uid: 20230609114058
 title: Commonplace-book 笔记法
 tags: []
-description: 
+description: Commonplace-book 笔记法
 author: lillianwho
 type: other
 draft: false
 editable: false
-modified: 20230609114314
+modified: 20230609115842
 ---
 
 # Commonplace-book 笔记法
