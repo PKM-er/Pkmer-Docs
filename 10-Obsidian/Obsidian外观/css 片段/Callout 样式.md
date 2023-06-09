@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230602192358
+modified: 20230608231904
 ---
 
 # Obsidian 样式：Callout 样式
@@ -85,7 +85,10 @@ Obsidian 的 callout 因为可以自定义 class 所以配合 css 可以实现�
 - css 片段
 
 ```css
-
+ /*
+ * @Author: cumany cuman@qq.com
+ * @Source: Pkmer.cn
+*/
 /******callout bookinfo*****/
 .callout.callout[data-callout*="bookinfo"] {
   --callout-color: 64, 201, 75;
@@ -119,4 +122,76 @@ Obsidian 的 callout 因为可以自定义 class 所以配合 css 可以实现�
   overflow: hidden;
 }
 
+```
+
+## 恢复经典的 callout 样式
+
+在 Obsidian 早期版本，Callout 样式是这样的
+
+![image.png](https://cdn.pkmer.cn/images/202306082254849.png!pkmer)
+
+下面的 css 就是恢复 callout 为经典样式。
+
+```css
+ /*
+ * @Author: cumany cuman@qq.com
+ * @Source: Pkmer.cn
+*/
+.callout {
+  --callout-radius: 2px;
+  border-left: solid 4px rgb(var(--callout-color));
+}
+
+.callout .callout-title {
+  padding: 6px;
+  background-color: rgba(var(--callout-color), 0.4);
+}
+.callout .callout-content {
+  background-color: rgba(var(--callout-color), 0.1);
+}
+
+.callout {
+  padding: 0;
+  background-color:var(--admonition-bg-color);
+}
+
+.callout-content {
+  padding: 5px 15px;
+}
+```
+
+## 视窗风格的 callout 样式
+
+就像 windows 窗口风格一样的样式
+
+![image.png](https://cdn.pkmer.cn/images/202306082307558.png!pkmer)
+
+```css
+ /*
+ * @Author: cumany cuman@qq.com
+ * @Source: Pkmer.cn
+*/
+.callout {
+  border:none;
+  box-shadow: inset 0 0 0 2px rgba(var(--callout-color), 0.25), 0px 0.5px 1px 0.5px rgba(0, 0, 0, 0.1) !important;
+}
+ .callout .callout-title {
+  padding: 6px;
+  background-color: rgba(var(--callout-color), 0.4);
+}
+
+
+.callout .callout-content {
+  background-color: rgba(var(--callout-color), 0.1);
+}
+
+
+.callout {
+  padding: 0;
+  background-color:var(--admonition-bg-color);
+}
+
+.callout-content {
+  padding: 5px 15px;
+}
 ```
