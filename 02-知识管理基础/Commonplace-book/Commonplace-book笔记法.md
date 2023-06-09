@@ -1,13 +1,13 @@
 ---
 uid: 20230609114058
 title: Commonplace-book 笔记法
-tags: []
+tags: [Commonplace-book, 笔记]
 description: Commonplace-book 笔记法
 author: lillianwho
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20230609115842
+modified: 20230609155347
 ---
 
 # Commonplace-book 笔记法
@@ -69,3 +69,7 @@ modified: 20230609115842
 - [How And Why To Keep A “Commonplace Book” - Ryan Holiday](https://ryanholiday.net/how-and-why-to-keep-a-commonplace-book/)
 - [Commonplace Books Are Like a Diary Without the Risk of Annoying Yourself](https://www.nytimes.com/2022/03/22/magazine/commonplace-books-recommendation.html)
 - [How to Keep a Commonplace Book: 4 Benefits of Commonplacing](https://www.masterclass.com/articles/how-to-keep-a-commonplace-book)
+
+原文链接：
+
+[commonplace book :: 夜猫日记](https://lillianwho.com/posts/commonplace-book/)
