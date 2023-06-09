@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230609155325
+modified: 20230609160326
 ---
 
 # COMMONPLACE BOOK
@@ -49,7 +49,7 @@ Commonplace book 是一个资源中心或存放处，搜集整理生活和学习
 
 > [!Tip] 关联阅读
 > - 如果你对这个笔记法感兴趣，或者实际生活中能用到，可以看到
-> - [[Commonplace-book笔记法]]，由知名博主 lilianwho 撰写的相关内容。
+> - [[Commonplace-book笔记法]]，由知名博主 lillianwho 撰写的相关内容。
 > - 还有 [[提炼书中精华-如何建立读书笔记系统]]
 
 ## 不同国家不同时期示例
