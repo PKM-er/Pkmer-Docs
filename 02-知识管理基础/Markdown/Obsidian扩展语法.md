@@ -7,14 +7,14 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230607224840
+modified: 20230607225607
 ---
 
 # Obsidian 扩展语法
 
-## 笔记内容引用
+Obsidian 除了支持之前所说的 [[Markdown]] 基本语法，还有一些基于链接，和应用笔记，为了更方便产出而设置支持的扩展集。
 
-^4449fd
+## 笔记内容引用
 
 引用笔记内容到文本
 
@@ -155,7 +155,7 @@ modified: 20230607224840
 
 >[!Tip] 关联推荐
 >- 如果你觉得 callout 可以服用到其他地方：[[obsidian-list-callouts]]
->- 如果你希望优化样式：[[Callout 样式]]
+>- 如果你希望优化样式：[[Obsidian的Callout 样式]]
 
 ## 键盘文本语法
 

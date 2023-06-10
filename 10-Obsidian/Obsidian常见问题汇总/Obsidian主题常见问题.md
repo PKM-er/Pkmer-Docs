@@ -7,7 +7,7 @@ author: cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20230604234212
+modified: 20230608185731
 ---
 
 # Obsidian 主题常见问题
@@ -97,3 +97,29 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
 
 - 跟多彩时钟一样，动画猫也是 react 组件生成的。需要首先安装 react_component 插件，并 copy`\88-Template\ReactJS\react_cat.md` 这样动画猫代码就生效了。
 
+#### 如何消除列表折叠后的折叠占位符
+
+- 阅读模式下
+
+![f54833d49b2c8ec511bd82e60856c66.jpg](https://cdn.pkmer.cn/images/f54833d49b2c8ec511bd82e60856c66.jpg!pkmer)
+
+参考下面代码，并放入 snippets 中，方法见 [[Obsidian的CSS代码片段]]
+
+```CSS
+.list-collapse-indicator.collapse-indicator.collapse-icon.is-collapsed:after {
+	color: transparent;
+	display：none;
+}
+```
+
+#### 列表项中文字产生错位
+
+- 列表项产生了错位问题，具体原因未知，可能与设置有关
+
+![6fadc810bd28a900adb2901a71896d7.jpg](https://cdn.pkmer.cn/images/6fadc810bd28a900adb2901a71896d7.jpg!pkmer)
+
+```CSS
+.markdown-rendered .list-collapse-indicator {  
+	padding-right:unset;  
+}
+```

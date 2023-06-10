@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230606193343
+modified: 20230608222927
 ---
 
 # Obsidian 社区插件
@@ -63,6 +63,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 - [[frontmatter-alias-display]]：让你在文件名下直接看到别名
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
+- [[obsidian-codemirror-options]]：
 
 ### 编辑增强
 
@@ -104,6 +105,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 目录和大纲类
 
 这些插件和大纲、目录有关，它们提供了：快速生成大纲、目录；快速定位目录；快速修改挪动不同笔记标题下内容的能力。活用这些插件，有助于我们更好的组织和梳理自己笔记的核心脉络。
+
+如果你对大纲和目录希望快速了解是否适合你，可以看这篇横向对比 [[Obsidian如何生成和美化目录]]
 
 - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
 - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
@@ -154,6 +157,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：自动将链接变成卡片样式
+
+### 导出
+
+- [[obsidian-export-image]]：轻松将笔记转换为图片
 
 ### 阅读和 PDF
 

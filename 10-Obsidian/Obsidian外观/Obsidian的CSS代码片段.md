@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230603000725
+modified: 20230610163537
 aliases: [Obsidian css代码片段]
 ---
 
@@ -38,16 +38,18 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### ICON
 
 - [[回归原始的Obsidian图标]]
+- [[自定义待办图标]]
 
 #### 编辑器
 
 - [[编辑模式下当前行高亮]]
 - [[编辑器高亮格式样式]]
-- [[Callout 样式]]
+- [[Obsidian的Callout 样式]]
+- [[自定义选中文本部分高亮颜色]]
 
 #### 链接
 
-- [[网址前自动加图标]]
+- [[Obsidian网址前自动加图标]]
 
 #### 文件管理器
 
@@ -55,11 +57,16 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 #### 表格样式
 
-- [[table 样式]]
+- [[Obsidian样式-表格样式简明方法]]
+
+### 标签样式
+
+- [[Obsidian样式-多彩tag样式]]
 
 #### 插件样式
 
 - [[calendar 插件的样式修改]]
+- [[DataView在table视图下标签出现错位断裂的修复]]
 
 ## 自定义 CSS 简单上手指南
 
