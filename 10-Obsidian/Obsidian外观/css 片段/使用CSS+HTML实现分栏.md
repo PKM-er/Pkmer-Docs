@@ -27,7 +27,7 @@ modified: 20230610214329
 
 ## 效果
 
-![[Pasted image 20230610172223.png]]
+![Pasted image 20230610172223](https://cdn.pkmer.cn/images/Pasted%20image%2020230610172223.png!pkmer)
 
 ## CSS 片段
 
