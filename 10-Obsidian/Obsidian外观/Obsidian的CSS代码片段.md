@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230611162049
+modified: 20230611184924
 aliases: [Obsidian css代码片段]
 ---
 
@@ -47,7 +47,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian的Callout 样式]]
 - [[自定义选中文本部分高亮颜色]]
 - [[使用CSS+HTML实现分栏]]
-- [[自定义待办图标]]
 
 #### 链接
 
@@ -56,6 +55,11 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 文件管理器
 
 - [[文件浏览器样式]]
+
+#### 列表、待办
+
+- [[Obsidian样式-待办完成样式]]
+- [[自定义待办图标]]
 
 #### 表格样式
 
