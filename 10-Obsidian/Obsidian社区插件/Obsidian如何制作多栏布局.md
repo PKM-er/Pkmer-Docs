@@ -7,7 +7,7 @@ author: OS
 type: awesmoe
 draft: false
 editable: false
-modified: 20230609113632
+modified: 20230612120738
 ---
 
 # Obsidian 如何制作多栏布局
@@ -26,11 +26,11 @@ Obsidian 默认是单列的行模式，有点像你未经调整过的 Word。但
 
 ### Columns 插件
 
-[tnichols217/obsidian-columns (github.com)](https://github.com/tnichols217/obsidian-columns)
+使用 [[obsidian-columns]]
 
 >[!浅析]
->优点：这个方式不需要你记忆很多格式。
->优点：预设了方法可以调整不同栏的宽度
+>优点：有建议的书写方法，支持多种样式
+>优点：预设了方法可以调整不同栏的宽度，书写方法比较多
 >条件：自带设置属性偏多，需要你多安装一个插件
 
 ### Admontion 插件
