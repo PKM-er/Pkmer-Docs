@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230611184924
+modified: 20230612105354
 aliases: [Obsidian css代码片段]
 ---
 
@@ -60,6 +60,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-待办完成样式]]
 - [[自定义待办图标]]
+
+#### 引用
+
+- [[Obsidian样式-隐藏块引用ID]]
 
 #### 表格样式
 
