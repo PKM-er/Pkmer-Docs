@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230611231855
+modified: 20230612112123
 ---
 
 # 实体笔记 vs 数字笔记
@@ -79,6 +79,10 @@ modified: 20230611231855
 
 ## 参考
 
-1. (Examining the Effects of Student Multitasking with Laptops During the Lecture)[https://www.researchgate.net/publication/234074902_Examining_the_Effects_of_Student_Multitasking_with_Laptops_during_the_Lecture]
-2. [The Pen is Mightier than the Keyboard](http://pss.sagepub.com/content/early/2014/04/22/0956797614524581) (<https://curtismchale.ca/2023/05/17/physical-vs-digital-pkm/?ref=feedle.world#fnref-2> "Return to main content.")
-3. [Physical vs Digital Note Systems - YouTube](https://youtu.be/IIw4DlIHMYI)
+**[^1] :** [Examining the Effects of Student Multitasking with Laptops During the Lecture](https://www.researchgate.net/publication/234074902_Examining_the_Effects_of_Student_Multitasking_with_Laptops_during_the_Lecture)
+
+**[^2]  :** [The Pen is Mightier than the Keyboard](http://pss.sagepub.com/content/early/2014/04/22/0956797614524581)
+
+**[^3]  :** [Physical vs Digital PKM – Curtis McHale](https://curtismchale.ca/2023/05/17/physical-vs-digital-pkm/?ref=feedle.world#fnref-2)
+
+**[^4]  :** [Physical vs Digital Note Systems - YouTube](https://youtu.be/IIw4DlIHMYI)
