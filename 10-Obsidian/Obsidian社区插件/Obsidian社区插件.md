@@ -355,3 +355,5 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 ### AI 相关
 
 - [[obsidian-textgenerator-plugin]]：使用 OpenAI 的模型进行文本生成
+- [[copilot]]：一个能像 chatGPT 网页版对话的 Obsidian AI 插件
+- [[smart-connections]]：基于 OpenAI 提供的 api 查询本地库，推荐笔记链接，分析笔记相关性
