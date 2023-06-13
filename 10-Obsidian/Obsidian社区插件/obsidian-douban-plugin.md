@@ -3,11 +3,11 @@ uid: 20230329145808
 title: Obsidian 插件：Douban 给 Obsidian 增加和豆瓣信息同步的能力
 tags: [Obsidian, 插件, 第三方集成, 豆瓣, 数据联动]
 description: Obsidian 插件：Douban 给 Obsidian 增加和豆瓣信息同步的能力
-author: OS
+author: SigiL,OS
 type: other
 draft: false
 editable: false
-modified: 20230613190500
+modified: 20230613221246
 ---
 
 # Obsidian 插件：Douban 给 Obsidian 增加和豆瓣信息同步的能力
@@ -17,7 +17,7 @@ modified: 20230613190500
 可以在笔记中快速导入豆瓣电影/书籍/音乐/电视剧/日记/游戏的条目信息，也可以用于导入“你标记过的书影音”（包括你的评分、评论时间、在读/在看等状态）等信息，将其记录在 YAML Frontmatter 区域，作为笔记元数据。
 
 > [!Note] 插件名片
-> - 插件名称：douban
+> - 插件名称：Douban
 > - 插件作者：Wanxp
 > - 插件说明：给 Obsidian 增加和豆瓣信息同步的能力
 > - 插件项目地址：[点我跳转](https://github.com/Wanxp/obsidian-douban)
@@ -84,15 +84,14 @@ modified: 20230613190500
 
 你可以创建一个新的模板文件，使用 `id:{{id}}` 、`title:{{title}}` 格式的自定义参数，选用自己需要的豆瓣条目字段，保存为电影/书籍模板。
 
-![[Pasted image 20230613183353.png]]
-
 选用该模板文件，搜索豆瓣条目，就可以在笔记中导入所需的豆瓣条目信息。
 
-2. 结合 Timeline 插件实现个人读书/观影时间线效果
+1. 结合 Timeline 插件实现个人读书/观影时间线效果
 
 插件作者特别推荐了结合 Timeline 插件实现的个人豆瓣时间线功能，参照讨论 [结合timeline插件的妙用](https://github.com/Wanxp/obsidian-douban/issues/19#issuecomment-1428307130) 和 [官方文档](https://github.com/Wanxp/obsidian-douban/blob/master/doc/Obsidian-Douban-TimeLine.md)。
 
 [![](https://github.com/Wanxp/obsidian-douban/raw/master/doc/img/obsidian-douban-time-preview-example.gif)](https://github.com/Wanxp/obsidian-douban/blob/master/doc/img/obsidian-douban-time-preview-example.gif)
+
 首先需要安装 [Timelines](https://github.com/Darakah/obsidian-timelines) 插件，然后在 Obsidian-Douban 插件配置中登录自己的豆瓣账号，配置个人需要的自定义参数和模板，在模板的 YAML Frontmatter 中 **增加** 特定 tags，如“我看过的电影”，用于需要过滤成为时间线的笔记。
 
 ````
