@@ -1,16 +1,16 @@
 ---
 uid: 20230504232329
-title: Obsidian 样式：表格（Table）样式
+title: Obsidian 样式：表格（Table）样式建议修改方法
 tags: [Obsidian, css, 表格, Table, 样式]
 description: Obsidian 样式：表格（Table）样式
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230602191908
+modified: 20230610162834
 ---
 
-# Obsidian 样式：表格（Table）样式
+# Obsidian 样式：表格（Table）样式建议修改方法
 
 ## 概述
 

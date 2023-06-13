@@ -7,12 +7,32 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230607171522
+modified: 20230608201253
 ---
 
 # Obsidian 插件常见问题
 
 ## 核心插件
+
+### 模板插件
+
+#### 如何快速插入当前日期/时间
+
+- 方法一：使用 [[nldates-obsidian]] 插件
+- 方法二：
+	- 首先在设置－核心插件里打开模板功能。
+	- 移动端：在设置－移动端工具栏里找到模板： inserto current date/time 这两个命令，并将其加入移动端工具栏。
+	- 电脑端：在设置－快捷键中搜索 insert current date/time 这两个命令，并自行为其配置快捷键。
+	- 修改日期/时间格式：在设置－模板中进行。
+- 方法三：
+	- 搜狗输入法，输入“日期”的拼音，或者 r q 首字母，就可以快速输入今天的日期
+	- WINDOWS 10 自带的五笔输入法 可以用 wubiLex 工具导入输入时间的词组:
+
+```导入数据
+zzrq	%yyyy%年%MM%月%dd%日	1
+zzrq	%yyyy%-%MM%-%dd%	2
+zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
+```
 
 ### 日记插件
 
@@ -126,3 +146,26 @@ modified: 20230607171522
 	![image.png](https://cdn.pkmer.cn/images/20230524151250.png!pkmer)
 
 ## Templater
+
+### Obsidian 怎么显示笔记上次修改时间
+
+答：Templater 插件， `<%+ tp.file.last_modified_() %>`
+
+## 第三方工具
+
+### iCloud
+
+#### 求问怎么让 iCloud 里显示 .obsidian 文件夹？（默认似乎是不显示的）
+
+- 回答 1：使用 Windows 版 iCloud 客户端就可以打开了，顺便还可以同步
+- 回答 2:  在 macOS 上使用快捷键  ⌘ + ⇧ + .     就可以看到隐藏的文件夹了，进入到      iCloud/Obsidian/your_vault/   再使用上面的快捷键就能看到了。
+
+### Syncthing
+
+#### Syncthing 如何忽略文件
+
+有些文件不想同步，比如 Ob 的 workspace 文件同步易冲突，如果能选择性不同步部分文件？
+
+在下边设置界面输入即可，一行一个文件。（具体高级语法忘了，有空再补吧，也欢迎其它人补上）
+
+![image.png](https://cdn.pkmer.cn/images/20230608200724.png!pkmer)
