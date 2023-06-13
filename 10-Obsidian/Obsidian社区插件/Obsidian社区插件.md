@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230606193343
+modified: 20230613165941
 ---
 
 # Obsidian 社区插件
@@ -78,6 +78,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
+- [[obsidian-columns]]：支持多种方式来设定分栏目
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
@@ -106,6 +107,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些插件和大纲、目录有关，它们提供了：快速生成大纲、目录；快速定位目录；快速修改挪动不同笔记标题下内容的能力。活用这些插件，有助于我们更好的组织和梳理自己笔记的核心脉络。
 
+如果你对大纲和目录希望快速了解是否适合你，可以看这篇横向对比 [[Obsidian如何生成和美化目录]]
+
 - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
 - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
 - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样
@@ -118,6 +121,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
 
 - [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+- [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
@@ -155,6 +159,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：自动将链接变成卡片样式
+
+### 导出
+
+- [[obsidian-export-image]]：轻松将笔记转换为图片
 
 ### 阅读和 PDF
 
@@ -347,3 +355,5 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 ### AI 相关
 
 - [[obsidian-textgenerator-plugin]]：使用 OpenAI 的模型进行文本生成
+- [[copilot]]：一个能像 chatGPT 网页版对话的 Obsidian AI 插件
+- [[smart-connections]]：基于 OpenAI 提供的 api 查询本地库，推荐笔记链接，分析笔记相关性

@@ -155,7 +155,7 @@ Obsidian 除了支持之前所说的 [[Markdown]] 基本语法，还有一些基
 
 >[!Tip] 关联推荐
 >- 如果你觉得 callout 可以服用到其他地方：[[obsidian-list-callouts]]
->- 如果你希望优化样式：[[Callout 样式]]
+>- 如果你希望优化样式：[[Obsidian样式-Callout样式]]
 
 ## 键盘文本语法
 

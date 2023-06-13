@@ -46,7 +46,7 @@ modified: 20230530231200
 
 ![Pasted image 20230528152453](https://cdn.pkmer.cn/images/Pasted%20image%2020230528152453.png!pkmer)
 
-# 四、链接笔记
+## 四、链接笔记
 
 之前我们在 Markdown 部分说过链接语法，不过 Obsidian 对这种语法进行了简化——在 Obsidian 中，通过 `[[文件名]]` 这样的语法即可链接其他笔记。
 
@@ -54,12 +54,12 @@ modified: 20230530231200
 
 ![Pasted image 20230528161138](https://cdn.pkmer.cn/images/Pasted%20image%2020230528161138.png!pkmer)
 
-# 五、插入图片
+## 五、插入图片
 
 与插入链接一样，Obsidian 也对插入图片的语法进行了优化——在 Obsidian 中，通过 `![[图片名]]` 这样的语法即可链接其他笔记。
 
 不过，在 Obsidian 中插入图片远没有那么麻烦，我们只需要复制图片后在需要插入图片的笔记中粘贴即可，剩下的功能 Obsidian 都会帮我们自动完成。
 
-# 小结
+## 小结
 
 到这里，你已经基本学会了如何创建仓库与笔记。接下来，我们就来学习与知识组织有关的功能——[[Obsidian笔记基本管理]]。
