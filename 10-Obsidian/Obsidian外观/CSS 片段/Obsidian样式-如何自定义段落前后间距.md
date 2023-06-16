@@ -1,13 +1,13 @@
 ---
 uid: 20230613000147
 title: Obsidian 样式：如何自定义段落前后间距
-tags: [Obsidian, 样式, 自定义, 段落, 段落间距]
+tags: [Obsidian, css, 样式, 自定义, 段落, 段落间距]
 description: Obsidian 样式：如何自定义段落前后间距
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230613000845
+modified: 20230616095656
 ---
 
 # Obsidian 样式：如何自定义段落前后间距

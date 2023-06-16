@@ -1,13 +1,13 @@
 ---
 uid: 20230612104006
 title: Obsidian 样式：隐藏块引用 ID
-tags: [Obsidian, 样式, 块引用, 隐藏]
+tags: [Obsidian, css, 样式, 块引用, 隐藏]
 description: Obsidian 样式：隐藏块引用 ID
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230612105239
+modified: 20230616095706
 ---
 
 # Obsidian 样式：隐藏块引用 ID
