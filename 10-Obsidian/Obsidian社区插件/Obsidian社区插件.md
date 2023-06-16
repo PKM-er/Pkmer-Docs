@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230614215144
+modified: 20230616212809
 ---
 
 # Obsidian 社区插件
@@ -325,6 +325,11 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian42-brat]]：让你可以安装未上架的插件，主题
 - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
 - [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
+- [[hidden-folder-obsidian]]：快速隐藏文件夹
+
+### 管理工具
+
+- [[obsidian-plugin-groups]]：帮你轻松地分组和管理 Obsidian 第三方插件，启动关闭，加载插件
 
 ### 语言
 
