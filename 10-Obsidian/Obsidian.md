@@ -7,10 +7,12 @@ author: windilycloud
 type: awesome
 draft: false
 editable: false
-modified: 20230603000732
+modified: 20230616011254
 ---
 
 # Obsidian
+
+如果你是刚安装 Obsidian 担心上手进阶教程较难，可以参考这里 [[如何使用Obsidian笔记-一步一步的指南]]
 
 Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件相比，其自定义程度非常高。这个自定义程度可以大致分为两个方面：
 
@@ -41,7 +43,7 @@ Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件�
 ### 社群
 
 - QQ 群：774176839：最早的 Obsidian 爱好者汇集群，但有群人数 1000 限制，不活跃的会定时清理
-- QQ 群：825255377：Pkmer 关于知识管理的交流群
+- QQ 群：825255377：PKMer 关于知识管理的交流群
 - [discord官方讨论群](https://discord.com/invite/veuWUTm)：Obsidian 信息资源时效性最高的地方，可以在这获取最新的版本更新，插件更新，插件上架信息等。目前有近 10 万人，可惜不好访问。
 
 ### 野生资源

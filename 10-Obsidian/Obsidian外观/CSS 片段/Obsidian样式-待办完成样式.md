@@ -1,13 +1,13 @@
 ---
 uid: 20230611184142
 title: Obsidian 样式：待办任务样式
-tags: [Obsidian, 美化, 待办, 已完成, 删除线]
+tags: [Obsidian, css, 美化, 待办, 已完成, 删除线]
 description: Obsidian 样式：待办任务样式
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230611184528
+modified: 20230616095645
 ---
 
 # Obsidian 样式：待办任务样式
