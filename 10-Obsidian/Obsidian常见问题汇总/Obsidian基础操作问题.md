@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230608220601
+modified: 20230617213610
 ---
 
 # Obsidian 基础操作
@@ -393,6 +393,13 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 - 回答 3：[[obsidian-export-image]] 插件实现
 
 ## 搜索
+
+### 如何查找和替换文本
+
+- 通过快捷键 `ctrl+H`（快捷键可自定义，默认为 `ctrl+H`）调用查找 + 替换功能
+- 通过编辑框选项，选择替换功能
+
+>[!warning] 快捷键 `ctrl+F` 或者点击编辑框选项的 `查找` 只能调用查找窗口，不会显示替换窗口，反之则可以则可以同时调用查找和替换两个窗口
 
 ### 如何搜索带有 HTML 的内容
 
