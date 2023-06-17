@@ -7,7 +7,7 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20230530232621
+modified: 20230617225833
 ---
 
 # Markdown 基础
@@ -457,6 +457,12 @@ For example, you can embed Twitter tweets like so as suggested by search results
 | Paragraph | Text |
 ```
 
+如果您的表格中存在 `|`，可以使用转义字符 `\` 或者 HTML 实体字符 `&#124;`，如：
+
+有误：`[[ XX/YY/ZZ | 自定义名称 ]]`
+
+修正：`[[ XX/YY/ZZ \ | 自定义名称 ]]` 或 `[[ XX/YY/ZZ &#124; |自定义名称]]`
+
 ### 表格内容对齐
 
 您可以通过在标题行中的连字符的左侧，右侧或两侧添加冒号（`:`），将列中的文本对齐到左侧，右侧或中心。
@@ -480,8 +486,6 @@ For example, you can embed Twitter tweets like so as suggested by search results
 您可以在表格中设置文本格式。例如，您可以添加链接，代码（仅反引号（`` ` ``）中的单词或短语，而不是代码块）和强调。
 
 您不能添加标题，块引用，列表，水平规则，图像或 HTML 标签。
-
-您可以使用表格的 HTML 字符代码（`&#124;`）在表中显示竖线（`|`）字符。
 
 ## 脚注
 
