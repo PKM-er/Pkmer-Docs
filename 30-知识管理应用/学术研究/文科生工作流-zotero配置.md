@@ -1,13 +1,13 @@
 ---
 uid: 20230618095446
 title: 文科生工作流 -zotero 配置
-tags: []
-description: 
-author: 
+tags: [文科生, 个人知识管理, zotero, 配置]
+description: 文科生工作流 -zotero 配置
+author: 二宝学长
 type: other
 draft: false
 editable: false
-modified: 20230618100115
+modified: 20230618103401
 ---
 
 # 文科生工作流 -zotero 配置
