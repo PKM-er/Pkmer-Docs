@@ -23,10 +23,10 @@ modified: 20230619160125
 由上面需求的同学，下面的内容能帮到你。如何是用样式代码片段，参考：[[Obsidian的CSS代码片段]]
 
 ```CSS
-.markdown-source-view .view-content.inline-title {
+.view-content .markdown-source-view .inline-title {
 	align-self: center;
 }
-.markdown-preview-view .mod-header.inline-title {
+.markdown-preview-view .mod-header .inline-title {
 	text-align: center;
 }
 ```
