@@ -1,13 +1,13 @@
 ---
 uid: 20230619155040
 title: Obsidian 样式：笔记页内标题居中
-tags: []
-description: 
-author: 
+tags: [Obsidian, 样式, 页内标题, 对齐样式]
+description: Obsidian 样式：笔记页内标题居中
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230619160125
+modified: 20230619195950
 ---
 
 # Obsidian 样式：笔记页内标题居中
@@ -20,7 +20,7 @@ modified: 20230619160125
 
 ## CSS
 
-由上面需求的同学，下面的内容能帮到你。如何是用样式代码片段，参考：[[Obsidian的CSS代码片段]]
+由上面需求的同学，下面的内容能帮到你。如何使用样式代码片段，参考：[[Obsidian的CSS代码片段]]
 
 ```CSS
 .view-content .markdown-source-view .inline-title {

@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230619160144
+modified: 20230619201925
 aliases: [Obsidian css代码片段]
 ---
 
@@ -52,6 +52,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 链接
 
 - [[Obsidian网址前自动加图标]]
+- [[Obsidian样式-修改内链的链接颜色]]
 
 #### 文件管理器
 
