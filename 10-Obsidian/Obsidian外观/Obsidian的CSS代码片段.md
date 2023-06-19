@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230613002709
+modified: 20230619160144
 aliases: [Obsidian css代码片段]
 ---
 
@@ -47,6 +47,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-Callout样式]]
 - [[自定义选中文本部分高亮颜色]]
 - [[使用CSS+HTML实现分栏]]
+- [[Obsidian样式-笔记页内标题居中]]
 
 #### 链接
 
