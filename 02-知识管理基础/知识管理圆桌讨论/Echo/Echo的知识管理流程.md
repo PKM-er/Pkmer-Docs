@@ -22,6 +22,10 @@ modified: 20230620204358
 
 我是 Echo，一直在关注个人知识管理，以及工具如何更有效得辅助我们进行创意。
 
+> [!note] 个人生产力系统的工作流程：收集、整理、创作、分享
+> <iframe src="//player.bilibili.com/player.html?aid=779757639&bvid=BV19y4y1Z7Qr&cid=1019115284&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 ## 🌱 收集
 
 第一步收集，这里有两个问题。
