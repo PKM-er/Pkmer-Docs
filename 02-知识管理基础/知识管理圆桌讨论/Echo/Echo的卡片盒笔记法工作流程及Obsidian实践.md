@@ -22,6 +22,11 @@ modified: 20230620195938
 
 这篇文章和大家分享一下我的实践成果，工作流程和笔记软件是如何配合搭建动态知识系统的。
 
+> [!note] 搭建动态知识系统：卡片盒笔记法的工作流程及Obsidian实践
+> <iframe src="//player.bilibili.com/player.html?aid=611118023&bvid=BV1C84y1c7hj&cid=1056093105&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+
 ## 🌔什么是卡片盒笔记法
 
 简单来说，卡片盒笔记法是一种记录和组织文字笔记，以便于后续创意生成的系统方法。
