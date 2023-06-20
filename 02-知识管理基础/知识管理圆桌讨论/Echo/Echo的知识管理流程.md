@@ -3,11 +3,11 @@ uid: 20230620192925
 title: Echo 的知识管理流程
 tags: [知识管理]
 description: 
-author: Echo
+author: Echo_SEL
 type: practice
 draft: false
 editable: false
-modified: 20230620193923
+modified: 20230620204358
 ---
 
 # Echo 的知识管理流程

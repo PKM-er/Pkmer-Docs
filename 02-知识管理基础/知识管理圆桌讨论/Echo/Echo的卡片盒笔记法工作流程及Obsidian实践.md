@@ -3,7 +3,7 @@ uid: 20230620194401
 title: Echo 的卡片盒笔记法工作流程及 Obsidian 实践
 tags: [卡片笔记]
 description: Echo 的卡片盒笔记法工作流程及 Obsidian 实践
-author: Echo
+author: Echo_SEL
 type: other
 draft: false
 editable: false
