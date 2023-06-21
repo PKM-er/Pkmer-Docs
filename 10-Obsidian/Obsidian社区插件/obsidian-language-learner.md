@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145832
 title: Obsidian 插件：Language Learner 事半功倍学习英文单词
 tags: [Obsidian, 插件, 英语学习]
 description: Obsidian 插件：Language Learner 事半功倍学习英文单词

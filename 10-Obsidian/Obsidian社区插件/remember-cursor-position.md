@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145852
 title: Obsidian 插件：Remember cursor position 记住上次阅读的位置
 tags: [Obsidian, 插件, 光标, 效率]
 description: Obsidian 插件：Remember cursor position 记住上次阅读的位置

@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145845
 title: Obsidian 的 CSS 代码片段
 tags: [Obsidian, CSS, snippets, 外观, 主题]
 description: Obsidian 的 CSS 代码片段

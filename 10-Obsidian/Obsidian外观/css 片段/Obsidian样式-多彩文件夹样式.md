@@ -1,5 +1,5 @@
 ---
-uid: 20230616135007
+uid: 20230616135009
 title: Obsidian 样式 - 多彩文件夹样式
 tags: [Obsidian, css, 美化, 多彩文件夹]
 description: Obsidian多彩文件夹样式

@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145839
 title: Obsidian 插件：Scroll to top 快速定位到页头页尾
 tags: [Obsidian, 插件, 快速定位, 效率]
 description: Obsidian 插件：Scroll to top 快速定位到页头页尾
@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603015728
+modified: 20230621184044
 ---
 
 # Obsidian 插件：Scroll to top 快速定位到页头页尾
