@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145841
 title: Obsidian 插件：Obsidian to Anki
 tags: [Obsidian, 插件, Anki]
 description: Obsidian 插件：Obsidian to Anki

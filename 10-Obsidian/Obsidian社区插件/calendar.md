@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145810
 title: Obsidian 插件：Calendar 简单使用的阅历和任务管理方式
 tags: [obsidian, 插件, 月历, 日历, 待办, 任务管理, Calendar]
 description: Obsidian 插件：Calendar为 Obsidian 添加一个简单日历功能

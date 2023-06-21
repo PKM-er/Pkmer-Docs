@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145809
 title: Obsidian 插件：Better footnote 增加悬浮展示功能
 tags: [Obsidian, 插件, 脚注, 引用]
 description: Obsidian 插件 Better footnote 为 Obsidian 注脚增加悬浮展示功能，鼠标指向后，注脚的解释会出现在对应位置。

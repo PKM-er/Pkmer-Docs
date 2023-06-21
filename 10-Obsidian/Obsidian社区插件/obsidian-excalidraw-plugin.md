@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145825
 title: Obsidian 插件：Excalidraw 完美的绘图工具
 tags: [Obsidian, 插件, 绘图工具, 手绘风格, 效率工具]
 description: Obsidian 插件：Excalidraw 完美的绘图工具

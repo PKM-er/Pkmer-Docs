@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145826
 title: Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
 tags: [Obsidian, 插件, 美化, 素材管理, 画廊, 瀑布流]
 description: Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊

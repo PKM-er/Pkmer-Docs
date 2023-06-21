@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145851
 title: Obsidian 插件：Pane Relief 在笔记历前进后退按钮上显示历史数量
 tags: [Obsidian, 插件, 历史记录，前进和后退浏览]
 description: Obsidian 插件：Pane Relief 在笔记历前进后退按钮上显示历史数量

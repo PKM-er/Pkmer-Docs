@@ -1,5 +1,5 @@
 ---
-uid: 20230616135007
+uid: 20230616135008
 title: Obsidian 样式 - 标题栏样式美化
 tags: [Obsidian, css, 标题栏, 美化, 样式]
 description: Obsidian标题栏样式美化

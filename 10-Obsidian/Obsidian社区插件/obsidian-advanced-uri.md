@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145824
 title: Obsidian 插件：Advanced URI 的功能增强
 tags: [Obsidian, 插件, 增强]
 description: Obsidian URI 的功能增强

@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145817
 title: Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
 tags: [Obsidian, 插件, 目录, 笔记目录, 悬浮目录, 悬浮标题目录, 自动同步高亮滚动位置, 折叠/展开目录]
 description: Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录

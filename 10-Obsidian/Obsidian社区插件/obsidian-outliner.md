@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145835
 title: Obsidian 插件：Outliner plugin 为大纲添加快捷操作
 tags: [Obsidian, 插件, 大纲, 效率]
 description: Obsidian 插件：Outliner plugin 为大纲添加快捷操作

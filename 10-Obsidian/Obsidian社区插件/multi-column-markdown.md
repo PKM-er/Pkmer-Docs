@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145820
 title: Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
 tags: [Obsidian, 插件, 多列编辑, 分栏]
 description: Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码

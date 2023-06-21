@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145821
 title: Obsidian 插件：Fast Image Cleaner 快速删除笔记中图片和引用链接
 tags: [Obsidian, 插件, 引用链接, 无效链接]
 description: Obsidian 插件：快速删除笔记中图片和引用链接
