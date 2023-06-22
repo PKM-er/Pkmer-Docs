@@ -1,5 +1,5 @@
 ---
-uid: 20230327165523
+uid: 20230327165531
 title: zettelkasten
 tags: []
 description: 
@@ -7,7 +7,7 @@ author: Pkmer
 type: awesome
 draft: true
 editable: true
-modified: 20230618154210
+modified: 20230621183319
 ---
 
 # zettelkasten
