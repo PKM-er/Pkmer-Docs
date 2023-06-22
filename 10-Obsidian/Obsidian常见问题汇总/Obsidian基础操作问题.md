@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230617213610
+modified: 20230622162059
 ---
 
 # Obsidian 基础操作
@@ -109,6 +109,12 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 方法 1：点击 [[文件列表]] 左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png!pkmer)
 
 方法 2：Ctrl + P，输入”折叠/收起左侧边栏”
+
+### Obsidian 的文件管理器、文件列表不见了
+
+方案 1：可能时因为使用折叠左侧面板，导致收起，可以点击左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png!pkmer)，重新打开左侧面板。
+
+方案 2：可能是无疑种关闭了文件列表。在 Obsidian 设置 - 核心插件 - 文件列表重新开关下，可以解决。
 
 ### Obsidian 多个仓库间可以公用一套配置
 
