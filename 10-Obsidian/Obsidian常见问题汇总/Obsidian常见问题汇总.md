@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230608223536
+modified: 20230622163351
 ---
 
 # Obsidian 常见问题汇总
@@ -46,6 +46,7 @@ modified: 20230608223536
 在我们提供的描述中，我们力求让每个问题简单易懂，并提供最简单和最实用的解决方案，使您可以快速了解并掌握其所需的技能和知识。因此，无论您是新手或老手，都可以轻松地学习并使用 Obsidian，从而获得更好的使用体验和提高生产力。
 
 - [[Obsidian基础操作问题#如何收起文件列表 左侧侧边栏 左侧面板]]
+- [[Obsidian基础操作问题#Obsidian 的文件管理器、文件列表不见了]]
 - [[Obsidian基础操作问题#Ribbon 区域图标调整方法]]
 - [[Obsidian基础操作问题#重启 Obsidian 的方法]]
 - [[Obsidian基础操作问题#Obsidian 多个仓库间可以公用一套配置]]
@@ -134,6 +135,7 @@ modified: 20230608223536
 - [[Obsidian插件常见问题#Obsidian 插件 Excalidraw 的橡皮擦在哪里]]
 - [[Obsidian插件常见问题#数字后面的中文字词会重复两次]]
 - [[Obsidian插件常见问题#备忘录 Memos 无法启动打开？]]
+- [[Obsidian插件常见问题#开 React Components 这个插件会导致白板（canvas）异常]]
 
 ## 主题
 
