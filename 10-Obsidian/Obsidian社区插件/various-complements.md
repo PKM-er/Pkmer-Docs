@@ -63,7 +63,7 @@ Various Complements 提供多种笔记内的补全方案，让你灵活搭配实
 
 - 建议并使用当前库中设置的自定义词典内容来完成输入建议。
 
-![custom-dictionary-complement-demo.gif](https://cdn.pkmer.cn/images/custom-dictionary-complement-demo.gif!pkmer)
+![custom-dictionary-complement-demo.gif|568](https://cdn.pkmer.cn/images/custom-dictionary-complement-demo.gif!pkmer)
 
 - 设置方法
 	- ⚙️ Enable Custom dictionary complement: 打开 (必须)
