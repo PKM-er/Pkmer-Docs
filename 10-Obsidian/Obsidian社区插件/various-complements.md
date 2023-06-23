@@ -7,7 +7,7 @@ author:
 type: basic
 draft: false
 editable: false
-modified: 20230623004108
+modified: 20230623095533
 ---
 
 # Obsidian 插件：Various Complements 强大自动补全快捷输入工具
@@ -62,16 +62,19 @@ Various Complements 提供多种笔记内的补全方案，让你灵活搭配实
 ### 基于自定义字典自动补全
 
 - 建议并使用当前库中设置的自定义词典内容来完成输入建议。
-- 设置方法
-	- ⚙️ Enable Custom dictionary complement: ON (required)
-	- ⚙️ Custom dictionary paths: 比如 _Privates/dictionary-test.md
-	- ⚙️ Column delimiter: Tab
-	- ⚙️Word regex pattern:
-	- ⚙️ Delimiter to hide a suggestion:
-	- ⚙️ Delimiter to divide suggestions for display from ones for insertion:
-	- ⚙️ Caret location symbol after complement: `<CARET>`
 
 ![custom-dictionary-complement-demo.gif](https://cdn.pkmer.cn/images/custom-dictionary-complement-demo.gif!pkmer)
+
+- 设置方法
+	- ⚙️ Enable Custom dictionary complement: 打开 (必须)
+	- ⚙️ Custom dictionary paths: 设定自定义词典的路径，可以就在你笔记仓库内，注意这里要使用相对路径，比如 _Privates/dictionary-test.md，如图是我的自己设定的我仓库路径
+	- ⚙️ Column delimiter: Pipe，设定每个建议的列分割方式
+	- ⚙️Word regex pattern：我这里设置的是空
+	- ⚙️ Delimiter to hide a suggestion：我这里设置的是 “+=”
+	- ⚙️ Delimiter to divide suggestions for display from ones for insertion：我这里设置的“=>”
+	- ⚙️ Caret location symbol after complement: `$END$`
+
+![image.png|559](https://cdn.pkmer.cn/images/20230623093222.png!pkmer)
 
 #### 词典
 
