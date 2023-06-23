@@ -7,7 +7,7 @@ author: Ryooo
 type: tutorial
 draft: false
 editable: false
-modified: 20230530231844
+modified: 20230623233939
 ---
 
 # Obsidian 笔记基本管理
