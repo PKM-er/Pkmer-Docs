@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230628210154
+modified: 20230630001226
 ---
 
 # Obsidian 样式：待办事项美化复选框
@@ -45,7 +45,9 @@ input[type="checkbox"],
   height: 1.25em;
   display: inline-block;
 }
-
+.markdown-preview-view .task-list-item-checkbox {
+	top:unset;
+} 
 input[type="checkbox"]:focus {
   outline: 0;
 }
