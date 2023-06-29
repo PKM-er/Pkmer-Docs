@@ -1,5 +1,5 @@
 {
-  "renderNullAs": "\\-",
+  "renderNullAs": "",
   "taskCompletionTracking": false,
   "taskCompletionUseEmojiShorthand": false,
   "taskCompletionText": "completion",
