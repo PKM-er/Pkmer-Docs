@@ -1,5 +1,5 @@
 ---
-uid: 20230329145823
+uid: 20230329145824
 title: Obsidian 插件：Table Enhancer 实时预览模式下直接操作 md 表格
 tags: [Obsidian, 插件, 表格, 可视化编辑]
 description: Obsidian 插件： Table Enhancer 实时预览模式下直接操作 md 表格
@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230515233930
+modified: 20230629225635
 ---
 
 # Obsidian 插件：Table Enhancer 实时预览模式下直接操作 md 表格
