@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230629233257
+modified: 20230630181119
 aliases: [Obsidian css代码片段]
 ---
 
@@ -84,6 +84,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 白板（Canvas）
 
 - [[Obsidian样式-canvas白板卡片中文字居中]]
+
+#### dataview
+
+- [[Obsidian样式-建立书籍电影的卡片化视图]]
 
 #### 插件样式
 
