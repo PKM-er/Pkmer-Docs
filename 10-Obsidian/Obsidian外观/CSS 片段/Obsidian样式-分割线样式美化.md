@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230630232241
+modified: 20230701232854
 ---
 
 # Obsidian 样式：分割线样式美化
@@ -20,7 +20,7 @@ Obsidian 简约的界面，似乎缺少了那么一点个性化，很多同学�
 
 ## 使用
 
-- 方法 1：可以找到有类似效果的外观主题，比如使用 3F 老师的 [Blue-TopazT主题](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)
+- 方法 1：可以找到有类似效果的外观主题，比如使用 3F 老师的 [Blue-TopazT主题](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)，当然你也可以参考 Cuman 的 [Blue-topaz主题示例库](https://github.com/PKM-er/Blue-topaz-example)
 - 方法 2：可以使用独立 CSS 片段，如何使用独立 CSS 片段，参考 [[Obsidian的CSS代码片段]]
 	- 独立片段如下：
 

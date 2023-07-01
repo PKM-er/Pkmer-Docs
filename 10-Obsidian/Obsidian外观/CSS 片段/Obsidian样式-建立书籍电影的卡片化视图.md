@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230630231821
+modified: 20230701232836
 ---
 
 # Obsidian 样式：建立书籍电影的卡片化视图
@@ -38,3 +38,5 @@ Obsidian 被很多人认为是“All in one”的绝佳选择，抛开主观感�
 cssclasses: cards
 ---
 ````
+
+当然你也可以参考 [Blue-topaz主题示例库](https://github.com/PKM-er/Blue-topaz-example)
