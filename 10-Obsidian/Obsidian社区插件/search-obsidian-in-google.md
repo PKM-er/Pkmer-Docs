@@ -1,5 +1,5 @@
 ---
-uid: 20230513222807
+uid: 20230513222808
 title: Obsidian 插件：Search Obsidian In Google 让你在谷歌搜索中搜索 Obsidian 中的笔记
 tags: [Obsidian, 插件, 搜索, google, 谷歌]
 description: Obsidian 插件：Search Obsidian In Google 让你在谷歌搜索中搜索 Obsidian 中的笔记

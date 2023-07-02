@@ -1,5 +1,5 @@
 ---
-uid: 20230329145826
+uid: 20230329141826
 title: Obsidian 插件：Obsidian Banners 为你的笔记添加头图
 tags: [Obsidian, 插件, 美化, 头图]
 description: Obsidian 插件：Obsidian Banners 为你的笔记添加头图
