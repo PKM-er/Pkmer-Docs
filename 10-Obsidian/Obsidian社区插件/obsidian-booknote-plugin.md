@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230703155357
+modified: 20230703163621
 ---
 
 # Obsidian 插件：BookNote 让你在 Obsidian 中阅读标注 PDF
@@ -51,12 +51,10 @@ modified: 20230703155357
 ## 软件设置
 
 1. 插件设置
+   注意开启使用本地服务器，其中 webview 路径就是安装步骤 1 中的解压路径。
+   ![Pasted image 20230122232511](https://cdn.pkmer.cn/images/e37b4a5143089ca063d491769f9afd36_MD5.png!pkmer)
 
-注意开启使用本地服务器，其中 webview 路径就是安装步骤 1 中的解压路径。
-
-![Pasted image 20230122232511](https://cdn.pkmer.cn/images/e37b4a5143089ca063d491769f9afd36_MD5.png!pkmer)
-
-1. 重启 OB
+2. 重启 OB
 
 ## 使用方法
 
