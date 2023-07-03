@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230703115920
+modified: 20230703144059
 ---
 
 # Obsidian 样式：段落首行增加缩进
@@ -36,4 +36,47 @@ div.cm-line:not(.HyperMD-header) {
 .markdown-preview-view div p {
 	text-indent: 2em;
 }
+```
+
+## 扩展
+
+上述片段只针对文章内容简单的情况。如果包含代码块，banner 或者 frontmatter 时，会发现这些内容也被缩进了。
+
+如果有多个段落，这些段落在编辑模式需要用空行分割，这样阅读模式下才会识别会段落。
+
+如果编辑模式下没有空行分割还想在阅读模式下正确分割段落，就需要用到 [[obsidian-contextual-typography]] 插件，并配合下面的 css 即可
+
+PS:Blue Topaz 主题在 style setting 2.2.4 内置了段落首行缩进的设置，下面提取出来作为单独片段。
+
+```css
+
+.markdown-source-view.mod-cm6 div.cm-line:not(.HyperMD-header) {
+  text-indent: 2em;
+}
+
+.markdown-source-view.mod-cm6 div.cm-line:not(.HyperMD-header) .cm-hmd-frontmatter:first-of-type
+ {
+  margin-left: -2em;
+}
+.markdown-source-view.mod-cm6 div.has-banner.cm-line:not(.HyperMD-header) .cm-def.cm-hmd-frontmatter,
+.markdown-source-view.mod-cm6 div.has-banner.cm-line:not(.HyperMD-header) .collapse-indicator {
+  margin-left: 0;
+  left: -3em;
+}
+
+[data-type="markdown"] div[class="el-p"]:not(blockquote) > p{
+  text-indent: 2em;
+}
+
+
+[data-type="markdown"] div[class="el-p"]:not(blockquote) > p>br {
+  content: ' ';
+  white-space: pre;
+  line-height: calc((var(--paragraph-spacing) + 0.3)*1em);
+  display:unset;
+}
+[data-type="markdown"] div[class="el-p"]:not(blockquote) > p>br::after {
+   content: '\A\9\A0\A0';
+}
+
 ```
