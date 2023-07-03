@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230701233151
+modified: 20230703102639
 aliases: [Obsidian css代码片段]
 ---
 
@@ -50,6 +50,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-笔记页内标题居中]]
 - [[Obsidian样式-分割线样式美化]]
 - [[Obsidian样式-给笔记添加随机背景图]]
+- [[Obsidian样式-段落首行增加缩进]]
 
 #### 链接
 
