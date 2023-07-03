@@ -7,7 +7,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230703102623
+modified: 20230703104930
 ---
 
 # Obsidian 样式：段落首行增加缩进
@@ -26,6 +26,8 @@ modified: 20230703102623
 
 - 当然你可以使用一些插件来完成首行缩进的控制，比如 [obsidian-heading-level-indent: obsidian plugin for indenting content under headers based on their level](https://github.com/svonjoi/obsidian-heading-level-indent)
 - 通过 CSS 方式建议实现，如何使用自定义片段，可以参考 [[Obsidian的CSS代码片段]]
+	- 效果（支持实时编辑和阅读模式）
+![image.png|487](https://cdn.pkmer.cn/images/20230703104910.png!pkmer)
 
 ```CSS
 div.cm-line:not(.HyperMD-header) {
