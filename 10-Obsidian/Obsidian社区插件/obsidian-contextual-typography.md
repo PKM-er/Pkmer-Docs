@@ -3,11 +3,11 @@ uid: 20230703140246
 title: Obsidian 插件:Contextual Typography 增强阅读模式样式
 tags: [样式, 工具]
 description: 
-author: 
+author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230703142029
+modified: 20230703144259
 ---
 
 # Obsidian 插件:Contextual Typography 增强阅读模式样式
