@@ -7,7 +7,7 @@ author: windilycloud
 type: awesome
 draft: false
 editable: false
-modified: 20230616011254
+modified: 20230703151520
 ---
 
 # Obsidian
@@ -229,8 +229,8 @@ Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件�
 
 Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些丰富的生态，让它具备了可以提升办公效率的特性，让你从繁重，重复的码字过程中解脱出来，相信下面这些插件能帮到你：
 
-- [[QuickAdd]]：组合 Obsidian 里所有操作，低阶使用可可视化自动化操作，高阶使用可编写脚本实现万物互联
-- [[template-plugin]]：可以替代核心模板插件的效率神器
+- [[quickadd]]：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
+- [[templater-obsidian]]：可以替代核心模板插件的效率神器
 - [[obsidian-pangu]]：提供了一个全新的增强型文件管理器
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
