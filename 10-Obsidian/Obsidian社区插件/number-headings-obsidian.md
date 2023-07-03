@@ -1,7 +1,7 @@
 ---
 uid: 20230329141822
 title: Obsidian 插件：Number Headings 给笔记中的标题自动编号，以及动态目录
-tags: [Obsidian, 插件, 标题, 自动编号, 目录, 排序, Headings]
+tags: [Obsidian, 插件, 标题, 自动编号]
 description: Obsidian 插件：Number Headings 给笔记中的标题自动编号，以及动态目录。
 author: OS
 type: other

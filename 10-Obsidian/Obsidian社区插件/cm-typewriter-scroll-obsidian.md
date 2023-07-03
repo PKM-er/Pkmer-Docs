@@ -1,7 +1,7 @@
 ---
 uid: 20230329143811
 title: Obsidian 插件：Typewrite scroll 像打字机一样写笔记
-tags: [Obsidian, 插件, 免受干扰的写作, 打字机模式, 中心对齐文本视图, 插件作者, 禅模式, 专注模式, 写作体验]
+tags: [Obsidian, 插件, 免受干扰的写作, 打字机模式]
 description: Obsidian 插件：Typewrite scroll 打字机风格的滚动，使视图保持在编辑器的中心。
 author: OS
 type: other

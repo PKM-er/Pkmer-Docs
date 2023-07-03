@@ -1,7 +1,7 @@
 ---
 uid: 20230604160949
 title: Obsidian 插件：Metadata Menu 图形化的 Frontmater 管理器
-tags: [Obsidian, 插件, 编辑工具, 效率, YAML, 定制属性，修改，属性预览]
+tags: [Obsidian, 插件, 编辑工具, 效率, YAML]
 description: Obsidian 插件：Metadata Menu插件是基于dataview的一个功能增强的插件。它基于`属性::值`的一种结构，可以很方便的修改一个特定属性的值。比如：`性别::男`。通过插件，就可以通过鼠标点击，来直接修改为`女`
 author: 宏沉一笑
 type: basic

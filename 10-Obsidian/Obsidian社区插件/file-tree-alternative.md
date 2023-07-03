@@ -1,7 +1,7 @@
 ---
 uid: 20230502083811
 title: Obsidian 插件：File Tree Alternative 强大的文件管理器
-tags: [Obsidian, 插件, 增强型文件管理器, Evernote, 文件管理视图, 水平或垂直分割排布, 文件统计功能, 文件夹图标样式, 文件聚焦, 文件搜索, 自定义样式]
+tags: [Obsidian, 插件, 增强型文件管理器]
 description: Obsidian 插件：File Tree Alternative 强大的文件管理器
 author: OS
 type: other
