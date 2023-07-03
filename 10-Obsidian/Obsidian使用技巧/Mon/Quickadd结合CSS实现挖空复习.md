@@ -1,7 +1,7 @@
 ---
 uid: 20230702210608
 title: Quickadd 结合 CSS 实现挖空复习
-tags: [quickadd, css]
+tags: [Obsidian, quickadd,css]
 description: Quickadd 结合 CSS 实现挖空复习
 author: Mon
 type: practice

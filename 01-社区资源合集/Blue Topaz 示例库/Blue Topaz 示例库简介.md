@@ -1,18 +1,19 @@
 ---
 uid: 20230514160127
 title: Blue Topaz 示例库简介
+tags: [obsidian, 示例库]
 description: 
-tags: obsidian,示例库
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230514231100
+modified: 20230514232426
 ---
 
 # Blue Topaz 示例库简介
 
 [Examples库](https://github.com/cumany/Blue-topaz-examples) 由 Cuman 建立，是一个依赖 3f 创作的 [BT主题](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) 的一个 Obsidian 综合使用范例的功能库。
+
 本库内置了众多插件，和插件使用的范例。
 
 示例库分下面几个版本

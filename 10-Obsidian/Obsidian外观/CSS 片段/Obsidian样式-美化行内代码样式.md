@@ -1,7 +1,7 @@
 ---
 uid: 20230703175148
 title: Obsidian 样式：美化行内代码样式
-tags: [Obsidian, 样式, CSS, 美化，行内代码]
+tags: [Obsidian, 样式, CSS, 行内代码]
 description: Obsidian 样式：美化行内代码样式
 author: OS
 type: other
