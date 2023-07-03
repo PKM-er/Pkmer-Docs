@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230623004224
+modified: 20230703151410
 ---
 
 # Obsidian 社区插件
@@ -235,7 +235,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐渐壮大起来的插件生态圈。这些卓越的插件不仅增强了 Obsidian 的功能，而且可以在很大程度上提高你的工作和学习效率，让你从繁琐，重复的码字过程中解脱出来。相信这些插件能够帮助你更高效、便捷地管理和利用笔记，让你的学习、工作和生活更加舒适顺畅。相信下面这些插件能帮到你：
 
 - [[templater-obsidian]]：可以替代核心模板插件的效率神器
-- [[QuickAdd]]：组合 Obsidian 里所有操作，低阶使用可可视化自动化操作，高阶使用可编写脚本实现万物互联
+- [[quickadd]]：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
 - [[various-complements]]：这个 Obsidian 插件让你能够自动完成完成单词，和自定义内容的输入。
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
 - [[obsidian-auto-template-prompt]]：在创建文件时自动打开一个命令窗口让你插入模板。
