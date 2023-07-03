@@ -1,13 +1,13 @@
 ---
 uid: 20230703100306
 title: Obsidian 样式：段落首行增加缩进
-tags: []
-description: 
-author: 
+tags: [Obsidian, 样式, CSS, 段落首行缩进]
+description: Obsidian 样式：段落首行增加缩进
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230703104930
+modified: 20230703105701
 ---
 
 # Obsidian 样式：段落首行增加缩进
