@@ -1,13 +1,13 @@
 ---
 uid: 20230616204512
 title: Obsidian 插件：Hidden Folder 快速隐藏文件夹
-tags: []
-description: 
-author: 
+tags: [Obsidian, 插件, 隐藏, 文件管理]
+description: Obsidian 插件：Hidden Folder 快速隐藏文件夹
+author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230616212755
+modified: 20230705000648
 ---
 
 # Obsidian 插件：Hidden Folder 快速隐藏文件夹
@@ -16,7 +16,7 @@ modified: 20230616212755
 > - 插件名称：Hidden Folder
 > - 插件版本：1.0.7
 > - 插件作者：ptrsvltns
-> - 插件描述：快速隐藏文件夹
+> - 插件描述：在文件管理器中快速隐藏文件夹
 > - 插件项目地址：[点我跳转](https://github.com/ptrsvltns/hidden-folder-obsidian)
 
 ## 效果&特性

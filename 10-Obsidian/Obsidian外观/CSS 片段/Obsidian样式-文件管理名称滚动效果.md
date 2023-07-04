@@ -1,13 +1,13 @@
 ---
 uid: 20230629231921
 title: Obsidian 样式：文件管理器名称滚动效果
-tags: []
-description: 
-author: 
+tags: [Obsidian, 样式, 文件管理器, 名称滚动效果]
+description: Obsidian 样式：文件管理器名称滚动效果
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230629233242
+modified: 20230705000909
 ---
 
 # Obsidian 样式：文件管理器名称滚动效果
