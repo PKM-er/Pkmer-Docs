@@ -1,7 +1,7 @@
 ---
 uid: 20230329145850
 title: Obsidian 插件：Recent Files 添加最近浏览过的文件列表
-tags: [Obsidian, 插件, 最近浏览，历史文档, 文档列表]
+tags: [Obsidian, 插件, 最近浏览]
 description: Obsidian 插件：Recent Files 添加最近浏览过的文件列表
 author: OS
 type: other

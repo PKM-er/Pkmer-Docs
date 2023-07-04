@@ -1,7 +1,7 @@
 ---
 uid: 20230506103414
 title: Obsidian 插件：Icon Shortcodes 通过短代码方式，快速筛选和输入
-tags: [Obsidian, 插件, 图标, emoji, 效率, 编辑器, 自定义]
+tags: [Obsidian, 插件, 图标, emoji,自定义]
 description: Obsidian 插件：Icon Shortcodes 通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合。
 author: OS
 type: other

@@ -1,7 +1,7 @@
 ---
 uid: 20230630175244
 title: Obsidian 样式：建立书籍电影的卡片化视图
-tags: [Obsidian, 样式, 书籍电影, 卡片化, 视图, 美化]
+tags: [Obsidian, css,卡片化, 视图, 美化]
 description: Obsidian 样式：建立书籍电影的卡片化视图
 author: OS
 type: other

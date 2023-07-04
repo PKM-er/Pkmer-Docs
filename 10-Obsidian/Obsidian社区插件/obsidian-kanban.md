@@ -1,7 +1,7 @@
 ---
 uid: 20230329145831
 title: Obsidian 插件：Kanban 通过看板视图管理的你待办任务
-tags: [Obsidian, 插件, 任务管理, 看板, 状态管理, 图片, 格式调整]
+tags: [Obsidian, 插件, 任务管理, 看板]
 description: Obsidian 插件：Kanban 通过看板视图管理的你待办任务
 author: Bon
 type: other

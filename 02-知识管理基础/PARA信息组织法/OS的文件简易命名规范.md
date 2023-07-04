@@ -1,7 +1,7 @@
 ---
 uid: 20230601113810
 title: OS 的简易命名规范
-tags: [文件命名规范, 文件夹命名规范, 文件管理系统]
+tags: [命名规范, 文件管理系统]
 description: OS 的简易命名规范，文件管理规范，文件系统构建
 author: OS
 type: practice
