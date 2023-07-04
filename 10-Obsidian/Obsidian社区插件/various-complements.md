@@ -1,13 +1,13 @@
 ---
 uid: 20230622230954
 title: Obsidian 插件：Various Complements 强大自动补全快捷输入工具
-tags: []
-description: 
-author: 
+tags: [Obsidian, 插件, 自动补全, 快捷输入, 效率]
+description: Obsidian 插件：Various Complements 强大自动补全快捷输入工具
+author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230623095533
+modified: 20230705001009
 ---
 
 # Obsidian 插件：Various Complements 强大自动补全快捷输入工具
