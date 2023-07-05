@@ -92,3 +92,7 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 ```YAML
 number headings: first-level l, start-at 2, max 6, l.l, auto, contents ^toc
 ```
+
+> [!Tip] 相关推荐
+> - [[creases]]：给 Obsidian 的标题增加折叠和展开的功能。
+> - [[lapel]]：在标题旁边显示标题等级

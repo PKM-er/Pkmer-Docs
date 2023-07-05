@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230705003608
+modified: 20230705145933
 ---
 
 # Obsidian 插件：Attachment Management 简单可行的附件管理
@@ -41,7 +41,7 @@ Obsidian 可以自动帮你管理重命名笔记中的附件，你可以通过�
 
 ### 附件路径设置
 
-附件可以存储在一个指定组合的目录结构下，你可以使用下面这些规则：
+设置中的 Attachment path：附件可以存储在一个指定组合的目录结构下，你可以使用下面这些规则：
 
 - `${notepath}`：仓库根下的 Markdown 或 Canvas 文件的目录。
 - `${notename}`：Markdown 或 Canvas 文件的文件名（不包含文件扩展名）。
@@ -51,9 +51,24 @@ Obsidian 可以自动帮你管理重命名笔记中的附件，你可以通过�
 
 ### 附件名称格式设置
 
-设置如何重命名附件，可用变量：
+设置中 Attachment Format：你可以设置如何重命名附件，可用命名规则：
 
-- `${notename}`：Markdown 或 Canvas 文件的文件名（不包含文件扩展名）。
+- `${notename}`：使用 Markdown 或 Canvas 文件的文件名（不包含文件扩展名）。
 - `${originalname}`：第一次创建附件文件的文件名。
 - `${date}`：日期时间格式按时刻格式选项选项
 - 默认值 `img-{date}`。
+
+### 我自己的设置
+
+![image.png|514](https://cdn.pkmer.cn/images/20230705142822.png!pkmer)
+
+- 附件路径：我只是用了笔记名称，这样防止附件目录中很多路径层级是无效的。因为我们实际笔记中也会通过一定程度的文件夹层级来管理笔记组织。其中一定会出现一些层级是没有笔记的。
+- 当然如果你想更加省事，也可以不使用路径，而只靠附件名称来区分，也是一种方便搜索的方式。
+- 附件名称格式：我是用了 `IMG-${notename}-${date}`，这样的明明方式，方便我无论是在 ob 中管理附件，还是在系统提供的资源管理器或是其他软件中，都很容和引用它的笔记进行联想。
+
+> [!Tip] 相关推荐
+> - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
+> - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+> - [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
+> - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
+> - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作

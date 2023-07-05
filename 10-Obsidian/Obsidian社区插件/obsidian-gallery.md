@@ -90,3 +90,16 @@ type: vertical
 - 仅接受本地图片作为源；
 - 如果你设置的仓库中包含笔记和图像，那么这个插件只会识别图片；
 - 确保要嵌入的图像具有合理的大小：用 60 张 4k 照片生成一个堆砌结构，很可能会使应用程序迟缓卡顿。
+
+
+>[!Tip] 关联推荐
+> - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
+> - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
+> - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
+> - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
+> - [[recent-files-obsidian]]：显示最近打开的文件列表
+> - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+> - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
+> - [[hidden-folder-obsidian]]：在文件管理器中快速隐藏文件夹
+> - [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
+> - [[hidden-folder-obsidian]]：快速隐藏文件夹

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230705003709
+modified: 20230705162025
 ---
 
 # Obsidian 社区插件
@@ -125,7 +125,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
-- [[obsidian-tasks-plugin]]
+- [[obsidian-tasks-plugin]]：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
 - [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
 - [[obsidian-task-progress-bar]]
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
@@ -317,7 +317,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
 - [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
 - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
-- [[obsidian42-brat]]：让你可以安装未上架的插件，主题
 - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
 
 ### 标签页管理
@@ -336,6 +335,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 ### 管理工具
 
 - [[obsidian-plugin-groups]]：帮你轻松地分组和管理 Obsidian 第三方插件，启动关闭，加载插件
+- [[obsidian42-brat]]：让你可以安装未上架的插件、主题
 
 ### 语言
 

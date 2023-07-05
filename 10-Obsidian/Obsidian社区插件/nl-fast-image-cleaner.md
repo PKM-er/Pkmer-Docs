@@ -76,3 +76,10 @@ modified: 20230604173634
 ## 插件演示
 
 1. 插件演示视频：<https://www.bilibili.com/video/BV1U8411T7VH/?vd_source=bc02b194f06ee6c081a8d33ad7b3824d>
+
+> [!Tip] 相关推荐
+> - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
+> - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
+> - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+> - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
+> - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作

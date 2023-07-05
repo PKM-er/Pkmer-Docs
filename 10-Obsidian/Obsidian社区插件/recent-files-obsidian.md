@@ -58,3 +58,16 @@ modified: 20230604174705
 >[!Tip] 提示
 > 1. 最近文件列表，只有在该插件启用后，浏览过的文档才会被记录
 > 2. 该插件不支持记录，白板（canvas）功能生成的文件
+
+
+>[!Tip] 关联推荐
+> - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
+> - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
+> - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
+> - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
+> - [[obsidian-gallery]]：让你的笔记变成画廊
+> - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+> - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
+> - [[hidden-folder-obsidian]]：在文件管理器中快速隐藏文件夹
+> - [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
+> - [[hidden-folder-obsidian]]：快速隐藏文件夹
