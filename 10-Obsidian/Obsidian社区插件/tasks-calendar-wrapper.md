@@ -7,7 +7,7 @@ author: Simen_Chen
 type: other
 draft: false
 editable: false
-modified: 20230604174747
+modified: 20230705153221
 ---
 
 # Obsidian 插件：Tasks-calendar-wrapper 支持快捷输入与时间线/日历视图的任务面板展示插件
@@ -240,3 +240,16 @@ obsidian-tasks-calendar-wrapper 版本 0.1.8 的配置面板：
 ### 过滤空任务
 
 是否过滤未填写具体信息的 `空任务`。如果不过滤，将显示原始文本
+
+> [!Tip] 相关推荐
+> - [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+> - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
+> - [[calendar]]：为 Obsidian 添加一个简单日历功能
+> - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
+> - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
+> - [[obsidian-tasks-plugin]]：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
+> - [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
+> - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
+> - [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
+> - [[obsidian-task-archiver]]：帮你快速归类待办任务
+> - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间

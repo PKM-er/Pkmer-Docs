@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230703190258
+modified: 20230705145454
 aliases: [Obsidian css代码片段]
 ---
 
@@ -85,6 +85,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 标签样式
 
 - [[Obsidian样式-多彩tag样式]]
+
+### 标签页
+
+- [[Obsidian样式-标签页Tab样式]]
 
 #### 白板（Canvas）
 

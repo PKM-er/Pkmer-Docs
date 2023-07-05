@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531200103
+modified: 20230705144849
 ---
 
 # Obsidian 插件：File Tree Alternative 强大的文件管理器
@@ -79,3 +79,7 @@ modified: 20230531200103
 > - [[recent-files-obsidian]]：显示最近打开的文件列表
 > - [[obsidian-gallery]]：让你的笔记变成画廊
 > - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+> - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
+> - [[hidden-folder-obsidian]]：在文件管理器中快速隐藏文件夹
+> - [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
+> - [[hidden-folder-obsidian]]：快速隐藏文件夹
