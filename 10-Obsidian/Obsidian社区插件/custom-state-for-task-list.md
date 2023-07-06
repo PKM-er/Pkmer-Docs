@@ -1,7 +1,7 @@
 ---
 uid: 20230513221420
 title: Obsidian 插件：Custom State For Task List 优化你的任务样式
-tags: [Obsidian, 插件, 任务样式优化, 待办任务标签符号, Minimal 主题, 待办任务状态, 自定义样式, Markdown 语法]
+tags: [Obsidian, 插件, 任务样式优化, 待办任务标签符号, 待办任务状态]
 description: Obsidian 插件：Custom State For Task List 优化你的任务样式
 author: Bon
 type: other

@@ -1,7 +1,7 @@
 ---
 uid: 20230521003527
 title: Obsidian 基础操作
-tags: [Obsidian, 主题, 常见问题, BT示例库, Bluetopz, CSS]
+tags: [Obsidian, 主题, 常见问题, 示例库, Bluetopz, CSS]
 description: Obsidian 基础操作常见问题汇总
 author: OS
 type: other
@@ -267,7 +267,7 @@ Obsidian 的笔记中，标题可以显示当前标题等级。
 - 插件法
 	- 使用 [[Obsidian 插件：Lapel 为你显示标题等级]]
 - 主题法
-	- 一些主题默认支持显示标题等级，或是提供了对应的设置选项。如 Blue Topaz 等。
+	- 一些主题默认支持显示标题等级，或是提供了对应的设置选项。如 [[Blue Topaz 主题]] 等。
 - CSS 样式法
 	- 当然你可能有你偏爱的主题，不想因此更欢主题。那么可以选择使用独立的 CSS 片段。
 
