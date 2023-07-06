@@ -195,3 +195,22 @@ console.log(msg)
 
 			  More example text inside this column
 ```
+
+> [!Tip] 关联推荐
+> - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
+> - [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
+> - [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
+> - [[obsidian-comments]]：为笔记增加批注或评论。
+> - [[highlightr-plugin]]：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
+> - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
+> - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
+> - [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式
+> - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
+> - [[remember-cursor-position]]：记住每个文件光标和滚动位置
+> - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
+> - [[typewriter-mode]]：使光标所在行始终处于屏幕某处，降低用 Obsidian 写中长文时用鼠标滚动调整页面的频繁
+> - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
+> - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
+> - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
+> - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
+> - [[Obsidian如何制作多栏布局]]
