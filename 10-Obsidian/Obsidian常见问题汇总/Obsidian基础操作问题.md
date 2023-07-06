@@ -1,7 +1,7 @@
 ---
 uid: 20230521003527
 title: Obsidian 基础操作
-tags: [Obsidian, 主题, 常见问题, 示例库, Bluetopz, CSS]
+tags: [Obsidian, 主题, 常见问题, 示例库, Bluetopaz, CSS]
 description: Obsidian 基础操作常见问题汇总
 author: OS
 type: other
