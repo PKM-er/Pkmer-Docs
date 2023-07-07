@@ -1,16 +1,16 @@
 ---
 uid: 20230707195014
-title: Zettelkasten 方法介绍
+title: Zettelkasten 方法简介
 tags: [Zettelkasten, ZK, 笔记, 知识管理, 经验]
 description: 原文地址：https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1
 author: Jason-XJ
 type: other
 draft: false
 editable: false
-modified: 20230707200704
+modified: 20230707201311
 ---
 
-# Zettelkasten 方法介绍
+# Zettelkasten 方法简介
 
 >[!NOTE]
 >本文为翻译稿，原文信息如下：
