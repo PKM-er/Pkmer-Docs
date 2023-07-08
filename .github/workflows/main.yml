@@ -1,0 +1,17 @@
+name: Trigger Website Action
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger-website-action:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Trigger Website Action
+        run: ./Config/trigger_website_action.sh
