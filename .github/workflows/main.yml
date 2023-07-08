@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Trigger Website Action
-        run: ./Config/trigger_website_action.sh
+        run: chmod +x ./Config/trigger_website_action.sh && ./Config/trigger_website_action.sh
