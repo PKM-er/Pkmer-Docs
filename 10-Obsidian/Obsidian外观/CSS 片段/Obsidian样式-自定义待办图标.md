@@ -1,16 +1,16 @@
 ---
 uid: 20230608142847
-title: 自定义待办图标
-tags: [Obsidian, css, 待办, 样式]
-description: 
+title: Obsidian 样式：自定义待办图标
+tags: [Obsidian, css, 待办, 样式, 自定义, 图标]
+description: Obsidian 样式：自定义待办图标
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230610214458
+modified: 20230709151216
 ---
 
-# 自定义待办图标
+# Obsidian 样式：自定义待办图标
 
 ## 使用方式
 

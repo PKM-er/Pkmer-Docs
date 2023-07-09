@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230705145454
+modified: 20230709151842
 aliases: [Obsidian css代码片段]
 ---
 
@@ -38,7 +38,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### ICON
 
 - [[回归原始的Obsidian图标]]
-- [[自定义待办图标]]
+- [[Obsidian样式-自定义待办图标]]
 
 #### 编辑器
 
@@ -71,8 +71,9 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 列表、待办
 
 - [[Obsidian样式-待办完成样式]]
-- [[自定义待办图标]]
+- [[Obsidian样式-自定义待办图标]]
 - [[Obsidian样式-待办事项美化复选框]]
+- [[Obsidian样式-自定义大纲缩进线样式]]
 
 #### 引用
 
