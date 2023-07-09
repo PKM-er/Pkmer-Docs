@@ -7,7 +7,7 @@ author: Huajin
 type: basic
 draft: false
 editable: false
-modified: 20230709140441
+modified: 20230709235255
 ---
 
 # Obsidian 插件：Code Tab 不止于混合代码块
@@ -23,7 +23,7 @@ modified: 20230709140441
 
 ## 效果&特性
 
-生成 leetcode 样式的混合代码块，且不仅限于代码块。
+为代码块加上标签页，生成 leetcode 样式的混合代码块，且不仅限于代码块，可以自己设计内容比如 tasks，dataview 等。
 
 ## 安装
 
@@ -208,5 +208,44 @@ tab: 动态规划
 - 42.接雨水
 - 44.通配符匹配
 
+````
+`````
+
+#### 4、配合 dataview 进行查询
+
+- 效果展示
+
+![c4d925d82aff347d3d0fafee1f332d0.png](https://cdn.pkmer.cn/images/c4d925d82aff347d3d0fafee1f332d0.png!pkmer)
+
+![151e87a03a1ce00d2be2efdc70c8c44.png](https://cdn.pkmer.cn/images/151e87a03a1ce00d2be2efdc70c8c44.png!pkmer)
+
+- 源码
+
+`````示例语法
+````tab
+tab:难度为Easy
+```dataview
+table WITHOUT ID
+id AS "题号", name AS "题目", degree AS "难度"
+FROM "Code/LeetCode"
+WHERE degree = "Easy"
+SORT id
+```
+tab:难度为Medium
+```dataview
+TABLE WITHOUT ID
+id AS "题号", name AS "题目", degree AS "难度"
+FROM "Code/LeetCode"
+WHERE degree = "Medium"
+SORT id
+```
+tab:难度为Hard
+```dataview
+TABLE WITHOUT ID
+id AS "题号", name AS "题目", degree AS "难度"
+FROM "Code/LeetCode"
+WHERE degree = "Hard"
+SORT id
+```
 ````
 `````
