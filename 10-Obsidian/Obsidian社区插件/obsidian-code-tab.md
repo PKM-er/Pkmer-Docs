@@ -7,7 +7,7 @@ author: Huajin
 type: basic
 draft: false
 editable: false
-modified: 20230707213331
+modified: 20230709140441
 ---
 
 # Obsidian 插件：Code Tab 不止于混合代码块
@@ -60,6 +60,8 @@ tab: 标题2
 ![image-20230707143232858.png](https://cdn.pkmer.cn/images/image-20230707143232858.png!pkmer)
 
 ![image-20230707143154086.png](https://cdn.pkmer.cn/images/image-20230707143154086.png!pkmer)
+
+![image-20230707135559867.png](https://cdn.pkmer.cn/images/image-20230707135559867.png!pkmer)
 
 - 源码
 
@@ -147,7 +149,7 @@ int longestSemiRepetitiveSubstring(char * s){
 
 - 效果展示
 
-![image-20230707191139849.png](https://cdn.pkmer.cn/images/image-20230707191139849.png!pkmer)
+![image-20230707185908449.png](https://cdn.pkmer.cn/images/image-20230707185908449.png!pkmer)
 
 - 源码
 
