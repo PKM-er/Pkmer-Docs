@@ -3,7 +3,7 @@ uid: 20230703152137
 title: Blue Topaz 主题
 tags: [主题]
 description: 
-author: windlycloud
+author: cuman
 type: other
 draft: false
 editable: false
@@ -122,7 +122,6 @@ modified: 20230705000758
 
 ### 2.1 颜色设置
 
-####
 - Main text color
 
 #### 2.1.1 背景颜色设置

@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230603022427
+modified: 20230709191527
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
@@ -84,6 +84,7 @@ excalidraw 可以把常用的一些绘图存为小组件库，也可以从网上
 1. 实时嵌入：你可以修改绘图，其嵌入的地方都会同步更新。修改起来也非常方便，只要点一下嵌入的图就能进入绘图界面。
 2. 自定义大小：在默认设置中，你可以自定义嵌入图的默认大小，当然也可以用类似 `![[test.excalidraw|200]]` 这样的语法进行调节
 3. 自定义嵌入样式：绘图想要白色背景，嵌入想要黑色背景，透明背景？想要边框？想要无边框？想要不同的字体？没问题，设置里可以添加 CSS 样式文件！
+4. [[Excalidraw局部嵌入Obsidian]]： Excalidraw 生成链接局部嵌入图形到 Obsidian 中
 
 ### 基于 Obsidian 优化
 
