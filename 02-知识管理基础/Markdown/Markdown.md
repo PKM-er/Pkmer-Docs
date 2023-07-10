@@ -7,7 +7,7 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20230617225833
+modified: 20230710104110
 ---
 
 # Markdown 基础
@@ -519,7 +519,21 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 Here's a simple footnote,[^1] and here's a longer one.[^2]
 
-## 实体字符
+## HTML
+
+几乎所有支持 Markdown 的地方都支持 HTML，HTML 可以理解为 Markdown 的超集，你可以做出任何炫酷的样式和排版。常用的包括在 Markdwon 中实现：
+
+- 颜色：`<font color="red">红色文本</font>`
+- 文本对齐： `<p style="text-align: right">右对齐文本</p>`
+- 上下标：`10<sup>-6</sup>`，`H<sub>2</sub>O`
+- 嵌入视频：`<iframe src="视频地址"/>`
+- 第三方 api 嵌入：`<img src="https://contrib.rocks/image?repo=PKM-er/Pkmer-Docs"/>`
+- 可合并的表格
+- ......
+
+总而言之，你几乎可以实现任意文本格式和排版。与之相对的，HTML 的可读性并不是很好，通常是用于网页开发，在笔记中如果不在意这种对人来说不那么优雅的语法，完全可以写 HTML 做笔记。
+
+### 实体字符
 
 在 Markdown 中，字符  `<`、`>`、`"`、`'`  和反引号是特殊字符。它们是 Markdown 语法自身的一部分，那么你如何将这些字符包含进你的文本中呢? 一种方法是转义，即加斜杠 `\<`，另一种办法是使用实体字符即字符引用。
 
