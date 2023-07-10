@@ -1,7 +1,7 @@
 ---
 uid: 20230529231229
 title: 最简Markdown教程
-tags: 
+tags:  [markdown,教程]
 description: 
 author: Ryooo
 type: tutorial
