@@ -1,7 +1,7 @@
 ---
 uid: 20230329145842
 title: Obsidian 插件：Tray 将 Obsidian 最小化到系统托盘
-tags: [Obsidian, 插件, 系统托盘，增强工具]
+tags: [Obsidian, 插件, 增强工具]
 description: Obsidian 插件：Obsidian tray 将 Obsidian 最小化到系统托盘
 author: OS
 type: other

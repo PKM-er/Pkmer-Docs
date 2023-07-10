@@ -1,7 +1,7 @@
 ---
 uid: 20230603163007
 title: Obsidian 能像其他笔记样分栏嘛
-tags: [Obsidian, MCL Multi Column.css]
+tags: [Obsidian,分栏,css]
 description: Obsidian 能像其他笔记样分栏嘛
 author: OS
 type: other
