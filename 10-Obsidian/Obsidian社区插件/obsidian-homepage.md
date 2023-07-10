@@ -3,7 +3,7 @@ uid: 20230709224524
 title: Obsidian 插件：Homepage 打造属于自己的启动页
 tags: [obsidian, 插件, homepage, 主页, 启动页]
 description: 在启动 Obsidian 时，打开指定的笔记、图谱、白板文件或工作区布局
-author: 
+author: cuman
 type: basic
 draft: false
 editable: false
