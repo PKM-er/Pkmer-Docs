@@ -168,13 +168,13 @@ modified: 20230623193242
 
 - 插件安装
   - 周期笔记
-    - https://github.com/liamcain/obsidian-calendar-plugin
-    - https://github.com/liamcain/obsidian-periodic-notes
-  - 任务管理：https://github.com/obsidian-tasks-group/obsidian-tasks
-  - 查询工具：https://github.com/blacksmithgu/obsidian-dataview
-  - 笔记模版：https://github.com/SilentVoid13/Templater
-  - 自定义逻辑：https://github.com/saml-dev/obsidian-custom-js
-- 模版 - https://github.com/SilentVoid13/Templater
+    - [[calendar]]插件
+    - [periodic插件](https://github.com/liamcain/obsidian-periodic-notes)
+  - 任务管理：[[obsidian-tasks-plugin]]
+  - 查询工具：[[dataview]]
+  - 笔记模版：[[templater-obsidian]]
+  - 自定义逻辑：[obsidian-custom-js插件](https://github.com/saml-dev/obsidian-custom-js)
+- 模版 - [[templater-obsidian]]
   - [PARA](https://github.com/quanru/obsidian-example-LifeOS/blob/main/Templates/PARA.md)
   - 周期笔记
     - [Daily](https://github.com/quanru/obsidian-example-LifeOS/blob/main/Templates/PeriodicNotes/Daily.md)
@@ -182,7 +182,7 @@ modified: 20230623193242
     - [Monthly](https://github.com/quanru/obsidian-example-LifeOS/blob/main/Templates/PeriodicNotes/Monthly.md)
     - [Quarterly](https://github.com/quanru/obsidian-example-LifeOS/blob/main/Templates/PeriodicNotes/Quarterly.md)
     - [Yearly](https://github.com/quanru/obsidian-example-LifeOS/blob/main/Templates/PeriodicNotes/Yearly.md)
-- 脚本编写 - https://github.com/saml-dev/obsidian-custom-js
+- 脚本编写
   - [date](https://github.com/quanru/obsidian-example-LifeOS/blob/main/Scripts/date.js)
     - 根据周期笔记的文件名，解析出日期
     - 根据解析出的日期，获取日期范围
@@ -196,7 +196,7 @@ modified: 20230623193242
   - [area](https://github.com/quanru/obsidian-example-LifeOS/blob/main/Scripts/area.js)
     - 获取当前领域列表的快照
     - 根据日期范围内，获取领域列表
-- Dataview 视图 - https://github.com/blacksmithgu/obsidian-dataview
+- Dataview 视图
   - [taskDoneList](https://github.com/quanru/obsidian-example-LifeOS/blob/main/Templates/PeriodicNotes/views/taskDoneList.js)
     - 放到周期笔记中，可获取当前日期范围内完成的任务列表
   - [taskRecordList](https://github.com/quanru/obsidian-example-LifeOS/blob/main/Templates/PeriodicNotes/views/taskRecordList.js)
