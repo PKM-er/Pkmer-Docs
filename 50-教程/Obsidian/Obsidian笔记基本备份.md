@@ -1,7 +1,7 @@
 ---
 uid: 20230529233022
 title: Obsidian 笔记基本备份
-tags: []
+tags: [obsidain,教程]
 description: Obsidian 笔记基本备份
 author: Ryooo
 type: tutorial

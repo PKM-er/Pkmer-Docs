@@ -1,13 +1,13 @@
 ---
 uid: 20230529232806
 title: Obsidian 笔记基本查找
-tags: [Obsidian, 笔记基本查找]
+tags:  [obsidain,教程]
 description: Obsidian 笔记基本查找
 author: Ryooo
 type: tutorial
 draft: false
 editable: false
-modified: 20230530231836
+modified: 20230710210454
 ---
 
 # Obsidian 笔记基本查找

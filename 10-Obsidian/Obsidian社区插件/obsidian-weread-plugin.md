@@ -1,13 +1,13 @@
 ---
 uid: 20230329145844
 title: Obsidian 插件：Weread 让 Obsidian 和你的微信阅读联动
-tags: [Obsidian, 插件, 微信读书, 微信阅读，第三方工具, 联动]
+tags: [Obsidian, 插件, 微信读书, 微信阅读]
 description: Obsidian 插件：Weread 让Obsidian 和你的微信阅读联动
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174625
+modified: 20230710232732
 ---
 
 # Obsidian 插件：Weread 让 Obsidian 和你的微信阅读联动
@@ -31,3 +31,133 @@ Obsidian 微信读书插件是一个社区插件，用来同步微信读书中�
 - 支持 Daily Notes,将当日读书笔记同步至 Daily Notes 中，已经在 [0.4.0](https://github.com/zhaohongxuan/obsidian-weread-plugin/releases/tag/0.4.0) 中支持
 - 同步热门划线到笔记中（TBD）
 
+## 模板
+
+微信读书插件支持模板,模板可用的变量如下
+
+![image.png](https://cdn.pkmer.cn/images/202307102317148.png!pkmer)
+
+默认的模板为
+
+```yaml
+---
+isbn: {{metaData.isbn}}
+category: {{metaData.category}}
+---
+# 元数据
+> [!abstract] {{metaData.title}}
+> - ![ {{metaData.title}}|200]({{metaData.cover}})
+> - 书名： {{metaData.title}}
+> - 作者： {{metaData.author}}
+> - 简介： {{metaData.intro}}
+> - 出版时间 {{metaData.publishTime}}
+> - ISBN： {{metaData.isbn}}
+> - 分类： {{metaData.category}}
+> - 出版社： {{metaData.publisher}}
+
+# 高亮划线
+{% for chapter in chapterHighlights %}
+## {{chapter.chapterTitle}}
+{% for highlight in chapter.highlights %}
+{% if highlight.reviewContent %}{% else %}
+- 📌 {{ highlight.markText |trim }} ^{{highlight.chapterUid}}-{{highlight.range}}
+    - ⏱ {{highlight.createTime}}{% endif %} {% endfor %}{% endfor %}
+# 读书笔记
+{% for chapter in bookReview.chapterReviews %}{% if chapter.reviews or chapter.chapterReview %}
+## {{chapter.chapterTitle}}
+{% if  chapter.chapterReviews %}{% for chapterReview in chapter.chapterReviews %}
+### 章节评论 No.{{loop.index}}
+- {{chapterReview.content}} ^{{chapterReview.reviewId}}
+    - ⏱ {{chapterReview.createTime}} {% endfor%}{%endif %}{% if chapter.reviews %}{%for review in chapter.reviews %}
+### 划线评论
+- 📌 {{review.abstract |trim }}  ^{{review.reviewId}}
+    - 💭 {{review.content}}
+    - ⏱ {{review.createTime}}
+{% endfor %} {%endif %} {% endif %} {% endfor %}
+# 本书评论
+{% if bookReview.bookReviews %}{% for bookReview in bookReview.bookReviews %}
+## 书评 No.{{loop.index}} {{bookReview.mdContent}} ^{{bookReview.reviewId}}
+⏱ {{bookReview.createTime}}
+{% endfor%}{% endif %}
+```
+
+优化后的模板效果如下
+
+![image.png](https://cdn.pkmer.cn/images/202307102324143.png!pkmer)
+
+主要使用了 [[Obsidian样式-Callout样式#自定义排版]] 的片段即可实现。
+
+模板代码如下：
+
+```css
+---
+name: {{metaData.title}}
+cover: '{{metaData.cover}}'
+tags: weread
+author: {{metaData.author}}
+isbn: {{metaData.isbn}}
+rating: 
+banner: "![[true.jpg]]"
+publish: {{metaData.publisher}}
+publishyear: "{{metaData.publishTime|truncate(11,False,'')}}"
+category: {{metaData.category}}
+noteCount: {{metaData.noteCount}}
+reviewCount: {{metaData.reviewCount}}
+grade:
+status: {{metaData.finish}}
+readtime:
+pagecount: 
+pageprogress: 
+---
+
+## {{metaData.title}}
+
+> [!bookinfo]+ **《{{metaData.title}}》**
+> ![bookcover|200]({{metaData.cover}})
+>
+| 属性   | 内容                                       |
+|- | - | - |
+| ISBN   | {{metaData.isbn if metaData.isbn else 'null'}}  |
+| 作者   | {{metaData.author}}                         |
+| 出版年 | {{metaData.publishTime|truncate(11,False,'')}}   | 
+| 出版社 | {{metaData.publisher}}                       |
+| 来源   | [{{metaData.title}}](https://weread.qq.com/web/) |
+| 分类   | {{metaData.category}}                        |
+
+> [!abstract]- **内容简介**
+> 
+> 《{{metaData.title}}》
+> {{metaData.intro|striptags(true)|trim}}
+
+## 高亮划线
+{% for chapter in chapterHighlights -%}
+### {{chapter.chapterTitle}}
+{% for highlight in chapter.highlights -%}{% if highlight.reviewContent -%}
+> [!quote|notitle] 
+> {{ highlight.markText |trim }}  
+— 创建于 [[{{highlight.createTime.slice(0, 10)}}]]{{highlight.createTime.slice(10, 16)}} ^{{highlight.chapterUid}}-{{highlight.range}}
+- {{highlight.reviewContent}}
+{% else %}
+> [!quote|notitle] 
+> {{ highlight.markText |trim }}  
+— 创建于 [[{{highlight.createTime.slice(0, 10)}}]]{{highlight.createTime.slice(10, 16)}} ^{{highlight.chapterUid}}-{{highlight.range}}
+{% endif %} {%- endfor %}{%- endfor %}
+{% for chapter in bookReview.chapterReviews -%}
+{% if chapter.reviews or chapter.chapterReview -%}
+{%for review in chapter.reviews -%}
+> [!quote|notitle] 
+> {{review.abstract |trim }} 
+— 创建于 [[{{review.createTime.slice(0, 10)}}]]{{review.createTime.slice(10, 16)}} ^{{review.reviewId}}
+- {{review.content}}
+ {%- endfor %} 
+{% if  chapter.chapterReview -%}
+### 读书笔记
+> [!quote|notitle] 
+> {{chapter.chapterReview.content}}{%-endif %}
+{% if chapter.reviews %}{%for review in chapter.reviews -%}
+ {%- endfor %} {%-endif %} {%- endif %} {%- endfor %}
+{% if bookReview.bookReview -%}
+### 本书评论
+{{bookReview.bookReview.mdContent}} ^{{bookReview.bookReview.reviewId}}
+{%- endif %}
+```

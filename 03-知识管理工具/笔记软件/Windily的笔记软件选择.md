@@ -1,7 +1,7 @@
 ---
 uid: 20230329140147
 title: Windily 的笔记软件选择
-tags: []
+tags: [笔记软件]
 description: Windily 的笔记软件选择，个人知识管理，笔记选择
 author: windilycloud
 type: basic
