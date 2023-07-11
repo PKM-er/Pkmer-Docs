@@ -1,7 +1,7 @@
 ---
 uid: 20230329145828
 title: Obsidian 插件：Icon Folder 给文件夹增加图标
-tags: [Obsidian, 插件, 图标, emoji, 效率, 自定义, 文件夹]
+tags: [Obsidian, 插件, 文件夹图标]
 description: Obsidian 插件：Icon Folder 给文件夹增加图标
 author: OS
 type: other

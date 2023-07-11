@@ -1,7 +1,7 @@
 ---
 uid: 20230514020943
 title: Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
-tags: [Obsidian, 插件, Memos, 笔记，灵感笔记, 热力图]
+tags: [Obsidian, 插件, Memos]
 description: Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
 author: Bon
 type: other

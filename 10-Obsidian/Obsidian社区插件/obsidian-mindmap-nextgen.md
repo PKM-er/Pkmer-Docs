@@ -1,7 +1,7 @@
 ---
 uid: 20230504195614
 title: Obsidian 插件：Obsidian Mindmap Nextgen
-tags: [Obsidian, 插件, 思维导图, 代码块, 28F48D]
+tags: [Obsidian, 插件, 思维导图]
 description: Obsidian Mindmap Nextgen 用于将笔记预览为 Markmap 思维导图
 author: cuman
 type: other

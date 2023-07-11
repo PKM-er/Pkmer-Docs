@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230623102924
+modified: 20230709151842
 aliases: [Obsidian css代码片段]
 ---
 
@@ -38,16 +38,21 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### ICON
 
 - [[回归原始的Obsidian图标]]
-- [[自定义待办图标]]
+- [[Obsidian样式-自定义待办图标]]
 
 #### 编辑器
 
-- [[编辑模式下当前行高亮]]
+- [[Obsidian样式-编辑模式下当前行高亮]]
 - [[Obsidian美化代码域对编程语言的样式展示]]
 - [[Obsidian样式-Callout样式]]
 - [[自定义选中文本部分高亮颜色]]
 - [[使用CSS-HTML实现分栏]]
 - [[Obsidian样式-笔记页内标题居中]]
+- [[Obsidian样式-分割线样式美化]]
+- [[Obsidian样式-给笔记添加随机背景图]]
+- [[Obsidian样式-段落首行增加缩进]]
+- [[Obsidian样式-美化高亮样式]]
+- [[Obsidian样式-美化行内代码样式]]
 
 #### 链接
 
@@ -56,7 +61,8 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 #### 文件管理器
 
-- [[文件浏览器样式]]
+- [[Obsidian样式-文件浏览器样式]]
+- [[Obsidian样式-文件管理名称滚动效果]]
 
 #### 段落
 
@@ -65,7 +71,9 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 列表、待办
 
 - [[Obsidian样式-待办完成样式]]
-- [[自定义待办图标]]
+- [[Obsidian样式-自定义待办图标]]
+- [[Obsidian样式-待办事项美化复选框]]
+- [[Obsidian样式-自定义大纲缩进线样式]]
 
 #### 引用
 
@@ -79,9 +87,17 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-多彩tag样式]]
 
+### 标签页
+
+- [[Obsidian样式-标签页Tab样式]]
+
 #### 白板（Canvas）
 
 - [[Obsidian样式-canvas白板卡片中文字居中]]
+
+#### dataview
+
+- [[Obsidian样式-建立书籍电影的卡片化视图]]
 
 #### 插件样式
 

@@ -1,13 +1,13 @@
 ---
 uid: 20230521003527
 title: Obsidian 基础操作
-tags: [Obsidian, 主题, 常见问题, BT示例库, Bluetopz, CSS]
+tags: [Obsidian, 主题, 常见问题, 示例库, Bluetopaz, CSS]
 description: Obsidian 基础操作常见问题汇总
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230622162059
+modified: 20230706190617
 ---
 
 # Obsidian 基础操作
@@ -199,7 +199,9 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 ![Pasted image 20230130153632|600](https://cdn.pkmer.cn/images/f1635fd3ff84de5d3cda715502d9862b_MD5.png!pkmer)
 
-1. 可能是因为安装了 typewrite scroll 插件。此插件因为会让编辑行始终居中，所以会导致该显示问题。解决办法就是在 Github 上反馈给插件开发者。
+1. 可能是因为安装了 Typewrite scroll 插件。此插件因为会让编辑行始终居中，所以会导致该显示问题。
+	1. 解决办法就是在 Github 上反馈给插件开发者。
+	2. 可以换用其他插件，其他类打字机插件有开发者注意到了这个问题，如 [[typewriter-mode]]
 2. 可能是 banners 插件导致的，解决办法就是在 Github 上反馈给插件开发者。
 3. 主题原因，解决办法就是在 Github 上反馈给主题开发者。
 
@@ -267,7 +269,7 @@ Obsidian 的笔记中，标题可以显示当前标题等级。
 - 插件法
 	- 使用 [[Obsidian 插件：Lapel 为你显示标题等级]]
 - 主题法
-	- 一些主题默认支持显示标题等级，或是提供了对应的设置选项。如 Blue Topaz 等。
+	- 一些主题默认支持显示标题等级，或是提供了对应的设置选项。如 [[Blue Topaz 主题]] 等。
 - CSS 样式法
 	- 当然你可能有你偏爱的主题，不想因此更欢主题。那么可以选择使用独立的 CSS 片段。
 

@@ -1,8 +1,8 @@
 ---
 uid: 20230609150801
 title: COMMONPLACE BOOK
-tags: [Commonplace-book, 图书摘要法, 笔记摘要法]
-description: COMMONPLACE BOOK
+tags: [知识管理基础,图书摘要法, 笔记摘要法]
+description: COMMONPLACE BOOK,摘录笔记
 author: OS
 type: awesome
 draft: false

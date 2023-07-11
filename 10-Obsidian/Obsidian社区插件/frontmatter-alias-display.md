@@ -1,5 +1,5 @@
 ---
-uid: 20230513222807
+uid: 20230513222802
 title: Obsidian 插件：Frontmatter Alias Display 让你的笔记名下直接看到别名
 tags: [Obsidian, 插件, 别名显示, YAML 区域, 笔记别名]
 description: Obsidian 插件：Frontmatter Alias Display 让你在文件名下直接看到别名

@@ -1,7 +1,7 @@
 ---
 uid: 20230529231321
 title: 为什么要学习Markdown
-tags: 
+tags: [markdown]
 description: 
 author: Ryooo
 type: tutorial

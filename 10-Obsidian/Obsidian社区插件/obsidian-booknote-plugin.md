@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516120153
+modified: 20230703163621
 ---
 
 # Obsidian 插件：BookNote 让你在 Obsidian 中阅读标注 PDF
@@ -20,7 +20,7 @@ modified: 20230516120153
 >- 插件名称：BookNote
 >- 插件作者：围城
 >- 插件说明：Obsidian 读书标注软件，适用 PDF，MS Office 等
->- 插件项目地址：[点我跳转]()
+>- 插件项目地址：[点我跳转](https://kknwfe6755.feishu.cn/docs/doccnBfbtETItLHMmbDBGBRdPrh)
 
 ## 效果&特性
 
@@ -46,17 +46,15 @@ modified: 20230516120153
 
 1. 安装 booknote 插件
 
-通过
+通过项目地址，手动安装插件，手动安装参考 [[Obsidian社区插件的安装]]
 
 ## 软件设置
 
 1. 插件设置
+   注意开启使用本地服务器，其中 webview 路径就是安装步骤 1 中的解压路径。
+   ![Pasted image 20230122232511](https://cdn.pkmer.cn/images/e37b4a5143089ca063d491769f9afd36_MD5.png!pkmer)
 
-注意开启使用本地服务器，其中 webview 路径就是安装步骤 1 中的解压路径。
-
-![Pasted image 20230122232511](https://cdn.pkmer.cn/images/e37b4a5143089ca063d491769f9afd36_MD5.png!pkmer)
-
-1. 重启 OB
+2. 重启 OB
 
 ## 使用方法
 

@@ -44,3 +44,7 @@ modified: 20230604172500
   --heading-marker: "☰";
 }
 ```
+
+> [!Tip] 相关推荐
+> - [[creases]]：给 Obsidian 的标题增加折叠和展开的功能。
+> - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230623004224
+modified: 20230710232722
 ---
 
 # Obsidian 社区插件
@@ -81,6 +81,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-columns]]：支持多种方式来设定分栏目
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
+- [[typewriter-mode]]：使光标所在行始终处于屏幕某处，降低用 Obsidian 写中长文时用鼠标滚动调整页面的频繁
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
 - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
@@ -116,7 +117,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-outliner]]
 - [[obsidian-zoom]]：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。
 
-### 日期&提醒&任务类
+### 任务类&提醒
 
 这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
 
@@ -125,8 +126,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
-- [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
-- [[obsidian-tasks-plugin]]
+- [[obsidian-tasks-plugin]]：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
 - [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
 - [[obsidian-task-progress-bar]]
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
@@ -135,6 +135,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 - [[tasks-calendar-wrapper]]：完美的时间线/日历视图的任务面板展示
 
+### 日期
+
+- [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
+
 ### 搜索
 
 对于那些每天需要处理大量信息和笔记的用户来说，搜索是一个不可或缺的工具。为了满足用户不同的需求，在 Obsidian 中推出了多个强大的搜索插件，方便用户快速、准确地查找和管理笔记。这些插件操作简单、功能多样，可以根据关键字、标签、时间戳等多种方式进行搜索，快速定位笔记。此外，某些插件还支持高级搜索、全文搜索、模糊搜索等功能，让你更加轻松地处理大量信息和笔记。
@@ -142,6 +146,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[fuzzy-chinese-pinyin]]：基于汉语拼音进行模糊搜索
 - [[search-on-internet]]：快速在搜索引擎中搜索笔记内容
 - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
+- [[obsidian-better-command-palette]]：为命令面板添加了一个更用户友好、功能更丰富的强化
 
 ### 脚注&引用
 
@@ -236,7 +241,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐渐壮大起来的插件生态圈。这些卓越的插件不仅增强了 Obsidian 的功能，而且可以在很大程度上提高你的工作和学习效率，让你从繁琐，重复的码字过程中解脱出来。相信这些插件能够帮助你更高效、便捷地管理和利用笔记，让你的学习、工作和生活更加舒适顺畅。相信下面这些插件能帮到你：
 
 - [[templater-obsidian]]：可以替代核心模板插件的效率神器
-- [[QuickAdd]]：组合 Obsidian 里所有操作，低阶使用可可视化自动化操作，高阶使用可编写脚本实现万物互联
+- [[quickadd]]：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
 - [[various-complements]]：这个 Obsidian 插件让你能够自动完成完成单词，和自定义内容的输入。
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
 - [[obsidian-auto-template-prompt]]：在创建文件时自动打开一个命令窗口让你插入模板。
@@ -304,6 +309,19 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[obsidian-gallery]]：让你的笔记变成画廊
  - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
  - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
+ - [[hidden-folder-obsidian]]：在文件管理器中快速隐藏文件夹
+- [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
+- [[hidden-folder-obsidian]]：快速隐藏文件夹
+
+### 附件管理工具
+
+- [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
+- [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
+- [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+- [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
+- [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
+- [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
+- [[open-with]]：允许你通过在 Obsidian 中使用其他软件，打开笔记中常见格式文件
 
 ### 标签页管理
 
@@ -318,20 +336,10 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
 - [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
 
-### 文件管理工具
-
-- [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
-- [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
-- [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
-- [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
-- [[obsidian42-brat]]：让你可以安装未上架的插件，主题
-- [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
-- [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
-- [[hidden-folder-obsidian]]：快速隐藏文件夹
-
 ### 管理工具
 
 - [[obsidian-plugin-groups]]：帮你轻松地分组和管理 Obsidian 第三方插件，启动关闭，加载插件
+- [[obsidian42-brat]]：让你可以安装未上架的插件、主题
 
 ### 语言
 

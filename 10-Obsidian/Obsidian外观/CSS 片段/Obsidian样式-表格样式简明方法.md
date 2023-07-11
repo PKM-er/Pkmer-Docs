@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230610162834
+modified: 20230703133705
 ---
 
 # Obsidian 样式：表格（Table）样式建议修改方法
@@ -129,4 +129,13 @@ thead {
     text-align: left;
 }
 
+```
+
+- 表格添加分割线
+默认表格是添加的有表格框线的，如果某些主题去除了框线，想加回去，可以下面的片段恢复默认设置。
+
+```css
+div:is(.markdown-preview-view,.markdown-rendered) :is(th,td) {
+    border: var(--table-border-width) solid var(--table-border-color);
+}
 ```

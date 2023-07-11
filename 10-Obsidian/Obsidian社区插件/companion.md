@@ -1,7 +1,7 @@
 ---
 uid: 20230614210107
 title: Obsidian 插件：Companion 通过AI自动补全内容
-tags: [AI，人工智能]
+tags: [AI,人工智能]
 description: 通过chatGPT根据上下文自动自动补全内容
 author: windilycloud
 type: basic

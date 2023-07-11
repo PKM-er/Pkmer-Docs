@@ -1,8 +1,8 @@
 ---
 uid: 20230411155729
 title: Obsidian 常见问题汇总
-tags: [Obsidian, 常见问题, 汇总, 基础操作, 主题，样式，编辑， 显示]
-description: Obsidian 常见问题汇总
+tags: [Obsidian, 常见问题]
+description: Obsidian 常见问题汇总,包含ob的启动，安装，使用，主题常见的问题解答
 author: OS
 type: awesome
 draft: false
@@ -139,7 +139,7 @@ modified: 20230622163351
 
 ## 主题
 
-### Bluetopz 主题和 BT 示例库
+### Bluetopaz 主题和 BT 示例库
 
 - [[Obsidian主题常见问题#使用主题后，文件管理器，不同级的文件夹和文件缩进一样]]
 - [[Obsidian主题常见问题#鼠标指向插入的图片时，鼠标指针变化样式]]

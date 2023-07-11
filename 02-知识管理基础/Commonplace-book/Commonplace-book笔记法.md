@@ -1,7 +1,7 @@
 ---
 uid: 20230609114058
 title: Commonplace-book 笔记法
-tags: [Commonplace-book, 笔记]
+tags: [知识管理基础, 笔记法]
 description: Commonplace-book 笔记法
 author: lillianwho
 type: awesome
