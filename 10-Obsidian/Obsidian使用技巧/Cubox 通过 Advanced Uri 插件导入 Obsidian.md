@@ -1,20 +1,16 @@
 ---
 uid: 20230226222912
-title: Cubox 联动 Obsidian
+title: Cubox 通过Advanced Uri插件导入 Obsidian
 tags: []
-description: 
+description: Cubox通过advanced uri插件导入到Obsidian中
 author: ProudBenzene
-type: other
+type: practice
 draft: false
 editable: false
-modified: 20230711093901
-alias: [""]
-cssclass: img-grid
-URL:
-obsidianUIMode:
+modified: 20230711222802
 ---
 
-# Cubox 联动 Obsidian
+# Cubox 通过 Advanced Uri 插件导入 Obsidian
 
 ## 介绍
 
@@ -28,13 +24,13 @@ obsidianUIMode:
 
 那么这回，我就来分享一下如何一键从 Cubox 将文章视图 markdown 导出到 Ob。答案就是——使用「**动作**」！
 
-提示：使用本方法，需要在 Ob 中先安装「**Advanced URI**」插件🤗
+提示：使用本方法，需要在 Ob 中先安装 [[obsidian-advanced-uri]] 插件🤗
 
-![|300](image-20230226224438254.png) ![|300](image-20230226224357338.png)
+![|300](https://cdn.pkmer.cn/images/image-20230226224438254.png!pkmer) ![|300](https://cdn.pkmer.cn/images/image-20230226224357338.png!pkmer)
 
 按照图中提示，打开 Cubox 的动作设置界面，创建一个新的 URL 动作，并输入一串链接，即 **URL Scheme**。
 
-![|300](image-20230226224931049.png)
+![|300](https://cdn.pkmer.cn/images/image-20230226224931049.png!pkmer)
 
 这串链接乍一看很复杂，但分解一下，就非常简单：
 
