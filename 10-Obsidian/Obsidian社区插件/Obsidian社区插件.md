@@ -234,6 +234,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
 - [[obsidian-meta-bind-plugin]]：让你的笔记具有交互性，通过各种控件修改笔记信息
 - [[metadata-menu]]：图形化方便修改 YAML 值的一个工具
+- [[obsidian-state-switcher]]：Yaml Manager 避免直接修改 Yaml 区字段，让 frontmatter 修改变得简单
 
 ### 自动化&效率
 
