@@ -258,7 +258,7 @@ Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些�
 
 对审美有着独特追求的你，一定不能错过这些插件，插件虽小，但是能够大大提升你 Obsidian 中个性化的成分。
 
-- [[Obsidian-Banners]]：为文档页面添加头图和图标
+- [[obsidian-banners]]：为文档页面添加头图和图标
 - [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
 - [[obsidian-hider]]：自定义隐藏界面元素、信息
 - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
