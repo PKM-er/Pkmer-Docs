@@ -1,7 +1,7 @@
 ---
 uid: 20230502011042
 title: Obsidian 插件：ProgressBar 快速在笔记中增加进度条
-tags: [Obsidian, 插件, 进度条，自定义进度]
+tags: [Obsidian, 插件, 美化,进度条]
 description: Obsidian 插件：ProgressBar 快速在笔记中增加进度条
 author: OS,Bon
 type: other

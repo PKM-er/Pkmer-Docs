@@ -1,8 +1,8 @@
 ---
 uid: 20230411155729
 title: Obsidian 常见问题汇总
-tags: [Obsidian, 常见问题, 汇总, 基础操作, 主题，样式，编辑， 显示]
-description: Obsidian 常见问题汇总
+tags: [Obsidian, 常见问题]
+description: Obsidian 常见问题汇总,包含ob的启动，安装，使用，主题常见的问题解答
 author: OS
 type: awesome
 draft: false
