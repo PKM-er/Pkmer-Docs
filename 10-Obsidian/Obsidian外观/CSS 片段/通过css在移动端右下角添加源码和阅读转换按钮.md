@@ -1,13 +1,13 @@
 ---
 uid: 20230712220937
 title: 通过 css 在移动端右下角添加源码和阅读转换按钮
-tags: []
-description: 
-author: 
-type: other
+tags: [移动端, css]
+description: 通过 css 在移动端右下角添加源码和阅读转换按钮
+author: calmwaves
+type: basic
 draft: false
 editable: false
-modified: 20230712223354
+modified: 20230712231019
 ---
 
 # 通过 css 在移动端右下角添加源码和阅读转换按钮
@@ -16,7 +16,7 @@ modified: 20230712223354
 
 来自 [things主题](https://github.com/colineckert/obsidian-things)，右下角添加按钮，点击即可切换源码模式和阅读模式
 
-![[QQ图片20230712223334.gif]]co
+![QQ图片20230712223334](https://cdn.pkmer.cn/images/QQ%E5%9B%BE%E7%89%8720230712223334.gif)
 
 ## CSS 片段
 
