@@ -2,12 +2,12 @@
 uid: 20230711090245
 title: Obsidian 插件：echarts 图表化展示你的笔记
 tags: [obsidian, 插件, 图表生成]
-description: 
+description: Obsidian 插件：echarts 图表化展示你的笔记。一个可以在 obsidian 里运行 echarts 的插件，具体可以参考官方示例库代码。插件需要依赖 dataview 插件
 author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230711110156
+modified: 20230712172437
 ---
 
 # Obsidian 插件：echarts 图表化展示你的笔记

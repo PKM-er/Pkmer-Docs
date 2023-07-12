@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230710232722
+modified: 20230712172511
 ---
 
 # Obsidian 社区插件
@@ -191,6 +191,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-sortable]]：提供搜索 Obsidian 设置和插件设置选项的能力
 - [[table-editor-obsidian]]：改进了表格导航、格式和操作
 - [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
+- [[obsidian-echarts]]：一个可以在 obsidian 里运行 echarts 的插件，具体可以参考官方示例库代码。插件需要依赖 dataview 插件
 
 ### 脑图
 
@@ -310,8 +311,9 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
  - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
  - [[hidden-folder-obsidian]]：在文件管理器中快速隐藏文件夹
-- [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
-- [[hidden-folder-obsidian]]：快速隐藏文件夹
+ - [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
+ - [[hidden-folder-obsidian]]：快速隐藏文件夹
+ - [[obsidian-trash-explorer]]：让你可以管理 Obsidian 的 .trash 文件夹（也叫软件回收站），从中恢复和删除文件
 
 ### 附件管理工具
 
