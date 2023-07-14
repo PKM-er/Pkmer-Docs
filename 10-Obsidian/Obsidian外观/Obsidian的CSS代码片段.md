@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230709151842
+modified: 20230715010816
 aliases: [Obsidian css代码片段]
 ---
 
@@ -53,6 +53,8 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-段落首行增加缩进]]
 - [[Obsidian样式-美化高亮样式]]
 - [[Obsidian样式-美化行内代码样式]]
+- [[Obsidian样式-引用框样式]]
+- [[Obsidian 样式-编辑模式代码块显示行号]]
 
 #### 链接
 
@@ -98,6 +100,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### dataview
 
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
+
+#### 移动端
+
+[[通过css在移动端右下角添加源码和阅读转换按钮]]
 
 #### 插件样式
 

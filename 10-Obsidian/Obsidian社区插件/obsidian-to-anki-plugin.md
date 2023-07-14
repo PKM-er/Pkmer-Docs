@@ -1,13 +1,13 @@
 ---
 uid: 20230329145841
 title: Obsidian 插件：Obsidian to Anki
-tags: [Obsidian, 插件, Anki]
+tags: [Obsidian, 插件, Anki, 闪卡, Flashcards]
 description: Obsidian 插件：Obsidian to Anki
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174559
+modified: 20230715000907
 ---
 
 # Obsidian 插件：Obsidian to Anki
