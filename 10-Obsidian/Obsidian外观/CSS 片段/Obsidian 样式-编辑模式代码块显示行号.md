@@ -1,19 +1,20 @@
 ---
 uid: 20230714110747
-title: Obsidian 样式：代码块显示行号
+title: Obsidian 样式：编辑模式代码块显示行号
 tags: [Obsidian, css, 美化, 代码块]
 description: 代码块在编辑模式显示行号
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230714110908
+modified: 20230715010726
 ---
 
 # Obsidian 样式：编辑模式代码块显示行号
+
 ## 引言
 
-Obsidian作为md文档编辑器，写代码块本来就不是强项，无法跟专业的代码编辑相比，比如代码块无法显示行号。本文通过css的方法实现在编辑模式下显示代码行号 ，但因为受限于Obsidian的渲染机制，如果代码长度超过一屏幕，代码行号会被重置，也算一个瑕疵。
+Obsidian 作为 md 文档编辑器，写代码块本来就不是强项，无法跟专业的代码编辑相比，比如代码块无法显示行号。本文通过 css 的方法实现在编辑模式下显示代码行号 ，但因为受限于 Obsidian 的渲染机制，如果代码长度超过一屏幕，代码行号会被重置，也算一个瑕疵。
 
 ## 效果
 
@@ -21,9 +22,7 @@ Obsidian作为md文档编辑器，写代码块本来就不是强项，无法跟�
 
 ## 代码片段
 
-具体代码片段如何使用参考[[Obsidian的CSS代码片段|Obsidian css代码片段]]
-
-
+具体代码片段如何使用参考 [[Obsidian的CSS代码片段|Obsidian css代码片段]]
 
 ```css
 .HyperMD-codeblock-begin {
@@ -67,8 +66,5 @@ Obsidian作为md文档编辑器，写代码块本来就不是强项，无法跟�
 ## 延伸阅读
 
 上述代码只局限于编辑模式下显示代码块行号，如果想在阅读模式下也显示行号，就需要借助专业的插件实现了。
-比如  [[obsidian-better-codeblock]]
 
-
-
-
+比如 [[obsidian-better-codeblock]]
