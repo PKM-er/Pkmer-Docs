@@ -1,16 +1,16 @@
 ---
 uid: 20230616095119
-title: Obsidian 样式 - 引用框样式
+title: Obsidian 样式：引用框样式
 tags: [Obsidian, css, 引用框, 美化, 样式]
 description: obsidian代码框样式美化
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230616131536
+modified: 20230715010553
 ---
 
-# Obsidian 样式 - 引用框样式
+# Obsidian 样式：引用框样式
 
 ## 引言
 

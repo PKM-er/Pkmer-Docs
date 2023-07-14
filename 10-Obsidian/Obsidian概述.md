@@ -1,13 +1,13 @@
 ---
 uid: 20230409205013
 title: Obsidian 概述
-tags: [Obsidian, 概述]
+tags: [Obsidian, 概述, 简介, 初见]
 description: Obsidian 概述，简介，初见
 author: windilycloud
 type: basic
 draft: false
 editable: true
-modified: 20230607113426
+modified: 20230715010404
 ---
 
 # Obsidian 概述
