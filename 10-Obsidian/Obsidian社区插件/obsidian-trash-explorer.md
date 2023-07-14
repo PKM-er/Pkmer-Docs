@@ -1,13 +1,13 @@
 ---
 uid: 20230712165034
 title: Obsidian 插件：Trash Explorer 可视化管理笔记回收站
-tags: [Obsidian, 插件, 回收站, 可视化]
+tags: [Obsidian, 插件, 回收站, 可视化编辑]
 description: Obsidian 插件：Trash Explorer 可视化管理笔记回收站，让你可以管理 Obsidian 的 .trash 文件夹（也叫软件回收站），从中恢复和删除文件
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230712172311
+modified: 20230715010149
 ---
 
 # Obsidian 插件：Trash Explorer 可视化管理笔记回收站
