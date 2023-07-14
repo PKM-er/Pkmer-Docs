@@ -1,13 +1,13 @@
 ---
 uid: 20230516224434
 title: Obsidian 插件：Meta Bind Plugin 让你的笔记具有交互性
-tags: [Obsidian, 插件, 交互, 效率, 神奇]
+tags: [Obsidian, 插件, 交互, 效率, metadata, 数据可视化, frontmatter]
 description: Obsidian 插件：Meta Bind Plugin 让你的笔记具有交互性
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603020347
+modified: 20230715000559
 ---
 
 # Obsidian 插件：Meta Bind Plugin 让你的笔记具有交互性
