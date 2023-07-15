@@ -1,20 +1,20 @@
 ---
 uid: 20230715094110
-title: Obsidian 插件
+title: Obsidian 插件：chat-view-qq 保存消息到 Obsidian 中
 tags: [QQ消息, 信息收集]
-description: 
+description: chat-view-qq 保存QQ消息到 Obsidian 中
 author: GrowlR
 type: basic
 draft: false
 editable: false
-modified: 20230715102706
+modified: 20230715140905
 ---
 
-# Obsidian 插件
+# Obsidian 插件：chat-view-qq 保存消息到 Obsidian 中
 
 > [!Note] 插件名片
 > - 插件名称：obsidian-chat-view-qq
-> - 插件版本：0.5
+> - 插件版本：0.5.0
 > - 插件作者：[LincZero](https://github.com/LincZero/)
 > - 插件描述：保存 QQ 消息到 Obsidian 中
 > - 插件项目地址：[GitHub - LincZero/obsidian-chat-view-qq at v0.4.0](https://github.com/LincZero/obsidian-chat-view-qq/tree/v0.4.0)
@@ -25,7 +25,7 @@ modified: 20230715102706
 
 效果（插件项目的介绍图片）：
 
-![[665IOT2Z[GG{QFY$0M2A}G.png]]
+![665IOT2Z[GG{QFY$0M2A}G](https://cdn.pkmer.cn/images/665IOT2Z%5BGG%7BQFY%240M2A%7DG.png!pkmer)
 
 ## 插件使用
 
@@ -67,7 +67,7 @@ modified: 20230715102706
 ````
 
 1. 插件设置中：
-	![[Pasted image 20230715101917.png]]
+	![Pasted image 20230715101917](https://cdn.pkmer.cn/images/Pasted%20image%2020230715101917.png!pkmer)
 
 ## 曲线救国——新版 QQ 复制消息的方法
 
