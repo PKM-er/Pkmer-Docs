@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230715140904
+modified: 20230715213756
 ---
 
 # Obsidian 社区插件
@@ -69,6 +69,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些插件可直接优化或提升 Obsidian 笔记编辑的用户体验。它们一般会直接应用于笔记编辑窗口，使 Obsidian 的操作界面更加直观、可视化，从而提升用户的使用体验。许多插件中还集成了 callout、可视化操作及浮动目录等功能，让你更容易地浏览、查看和编辑笔记内容。所有这些特性的集成对于 Obsidian 用户来说，可以让用户的操作过程变得更为简单、直观，同时也增加了对用户的使用体验的提升。
 
+- [[Obsidian如何制作多栏布局]]
 - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
 - [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
 - [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
@@ -86,7 +87,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
-- [[Obsidian如何制作多栏布局]]
+- [[obsidian-chat-view-qq]]：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
 
 ### 标题增强
 
@@ -147,6 +148,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[search-on-internet]]：快速在搜索引擎中搜索笔记内容
 - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
 - [[obsidian-better-command-palette]]：为命令面板添加了一个更用户友好、功能更丰富的强化
+- [[smart-connections]]：该插件增强了核心插件 - 笔记漫游的功能
 
 ### 脚注&引用
 

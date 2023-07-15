@@ -1,23 +1,23 @@
 ---
 uid: 20230715094110
-title: Obsidian 插件：chat-view-qq 保存消息到 Obsidian 中
-tags: [QQ消息, 信息收集]
-description: chat-view-qq 保存QQ消息到 Obsidian 中
+title: Obsidian 插件：Chat View QQ 保存消息到 Obsidian 中
+tags: [Obsidian, 插件, QQ消息, 信息收集]
+description: Chat View QQ 保存QQ消息到 Obsidian 中
 author: GrowlR
 type: basic
 draft: false
 editable: false
-modified: 20230715170659
+modified: 20230715213636
 ---
 
-# Obsidian 插件：chat-view-qq 保存消息到 Obsidian 中
+# Obsidian 插件：Chat View QQ 保存消息到 Obsidian 中
 
 > [!Note] 插件名片
-> - 插件名称：obsidian-chat-view-qq
+> - 插件名称：Chat View QQ
 > - 插件版本：0.5.0
 > - 插件作者：[LincZero](https://github.com/LincZero/)
-> - 插件描述：保存 QQ 消息到 Obsidian 中
-> - 插件项目地址：[GitHub - LincZero/obsidian-chat-view-qq at v0.4.0](https://github.com/LincZero/obsidian-chat-view-qq/tree/v0.4.0)
+> - 插件描述：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
+> - 插件项目地址：[点击跳转](https://github.com/LincZero/obsidian-chat-view-qq/tree/v0.4.0)
 
 ## 概述
 

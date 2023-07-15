@@ -7,7 +7,7 @@ author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230715091306
+modified: 20230715213801
 ---
 
 # Obsidian 插件：Smart Random Note 增强版的随机漫游
@@ -15,7 +15,7 @@ modified: 20230715091306
 > [!Note] 插件名片
 > - 插件名称：Smart Random Note
 > - 插件作者：Eric Hall
-> - 插件说明：插件增强了核心插件笔记漫游的功能。
+> - 插件说明：该插件增强了核心插件 - 笔记漫游的功能
 > - 插件分类：搜索/排序, 插件
 > - 插件项目地址：[点我访问](https://github.com/erichalldev/obsidian-smart-random-note)
 
