@@ -7,7 +7,7 @@ author: GrowlR
 type: basic
 draft: false
 editable: false
-modified: 20230715140905
+modified: 20230715170659
 ---
 
 # Obsidian 插件：chat-view-qq 保存消息到 Obsidian 中
@@ -25,7 +25,7 @@ modified: 20230715140905
 
 效果（插件项目的介绍图片）：
 
-![665IOT2Z[GG{QFY$0M2A}G](https://cdn.pkmer.cn/images/665IOT2Z%5BGG%7BQFY%240M2A%7DG.png!pkmer)
+![cover|541](https://cdn.pkmer.cn/images/665IOT2Z%5BGG%7BQFY%240M2A%7DG.png!pkmer)
 
 ## 插件使用
 
