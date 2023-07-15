@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230712172511
+modified: 20230715140904
 ---
 
 # Obsidian 社区插件
@@ -296,6 +296,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
 - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
 - [[obsidian-file-color]]：让你文件管理多姿多彩
+- [[obsidian-chat-view-qq]]：chat-view-qq 保存 QQ 消息到 Obsidian 中
 
 ### 文件管理类
 
