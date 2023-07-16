@@ -2,12 +2,12 @@
 uid: 20230629140708
 title: Obsidian 插件技巧：Memos 和 Reminder 高效管理突发及琐碎待办
 tags: [Obsidian, 插件, 待办, memos, reminder, 提醒]
-description: 
-author: 
+description: Obsidian 插件技巧：Memos 和 Reminder 高效管理突发及琐碎待办
+author: 刘梦
 type: basic
 draft: false
 editable: false
-modified: 20230703100152
+modified: 20230716170639
 ---
 
 # Obsidian 插件技巧：Memos 和 Reminder 高效管理突发及琐碎待办
