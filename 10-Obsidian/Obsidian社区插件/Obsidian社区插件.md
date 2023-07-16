@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230715213756
+modified: 20230716172133
 ---
 
 # Obsidian 社区插件
@@ -195,8 +195,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
 - [[obsidian-echarts]]：一个可以在 obsidian 里运行 echarts 的插件，具体可以参考官方示例库代码。插件需要依赖 dataview 插件
 
-### 脑图
+### 白板（canvas）和脑图
 
+- [[canvas-presentation]]：帮助你根据顺序演示白板中的卡片
+- [[optimize-canvas-connections]]：优化 Canvas 中的连接线
 - [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图
 - [[obsidian-enhancing-mindmap]]：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 
