@@ -1,13 +1,13 @@
 ---
 uid: 20230717003729
-title: Obsidain美化文件夹图标-自定义文件夹图标
+title: Obsidain 美化文件夹图标 - 自定义文件夹图标
 tags: [Obsidian, css, 美化, 图标]
 description: Obsidain 文件图标美化 - 自定义文件夹图标
 author: Nathaniel
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230717005558
+modified: 20230717131044
 ---
 
 # Obsidain 美化文件夹图标 - 自定义文件夹图标
@@ -17,7 +17,7 @@ modified: 20230717005558
 - 使用 `svg `
 
  > [!NOTE]
- > 下面的步骤针对<span style="background:#affad1">所有的文件夹和文件</span>图标修改。有其他需求（修改指定文件夹的图标）则需要自行分析得到文件夹元素的选择器。
+ > 下面的步骤针对==所有的文件夹和文件==图标修改。有其他需求（修改指定文件夹的图标）则需要自行分析得到文件夹元素的选择器。
 
 ## 快速设置
 
@@ -26,7 +26,7 @@ modified: 20230717005558
 
 **步骤 1，创建 `custom-folder-icon.css ` 并在 文件中粘贴如下的代码**
 
-![](c084213f7c3b476781922690d084317d.png)
+![](https://cdn.pkmer.cn/images/c084213f7c3b476781922690d084317d.png!pkmer)
 
 ```css
 /* 设置文件夹图标 */
@@ -57,46 +57,46 @@ modified: 20230717005558
 
  > [!info]
  > 经过测试，控制宽度 `width ` 和高度 `height ` 在 `64px` 效果比较好
- > ![](bb35df882747e2783ca761f4f5c01263.png)
+ > ![](https://cdn.pkmer.cn/images/bb35df882747e2783ca761f4f5c01263.png!pkmer)
 
 **步骤 2，修改图标使用自定义的图标代码**
 
 1. 准备你喜欢的图标的 svg 格式代码
 形如 `<svg>...</svg>`
 可以从这个 [网站](https://www.svgrepo.com/svg/373286/macos-opened) 找到一个喜欢的图标（或者你有其他途径也行）。
-然后点击这个按钮 ![](83cd4e26be36a8fdd2e03a84b57a0fbb.png)
-![](ae07864f5d4a698b8b2fe5c8c848dc62.png)
+然后点击这个按钮 ![](https://cdn.pkmer.cn/images/83cd4e26be36a8fdd2e03a84b57a0fbb.png!pkmer)
+![](https://cdn.pkmer.cn/images/ae07864f5d4a698b8b2fe5c8c848dc62.png!pkmer)
 复制 SVG 代码
-![](49e8d1bf9647e6abd7bf9bc00cf95e8f.png)
+![](https://cdn.pkmer.cn/images/49e8d1bf9647e6abd7bf9bc00cf95e8f.png!pkmer)
 
 2. 使用这个 [网站](https://yoksel.github.io/url-encoder) 将其转为 base64 字符串
-![](447d995b947476cb5a205e5c661c48b6.png)
+![](https://cdn.pkmer.cn/images/447d995b947476cb5a205e5c661c48b6.png!pkmer)
 
 得到格式为 `data:image/svg+xml,%3Csvg width='80px' height='80px' .......` 的字符串。
 
-3. 将这个字符串作为 `background-image: url(<base64字符串>)` 的内容
+1. 将这个字符串作为 `background-image: url(<base64字符串>)` 的内容
 
 **步骤 3，在 Obsidian 中启用 `custom-folder-icon.css ` 文件对应的样式选项**
 
-![](99972021cc142ce9b2ad5d93f41258d2.png)
+![](https://cdn.pkmer.cn/images/99972021cc142ce9b2ad5d93f41258d2.png!pkmer)
 
-![](228bb3df69496f9bf33f5afbdb98d9cc.png)
+![](https://cdn.pkmer.cn/images/228bb3df69496f9bf33f5afbdb98d9cc.png!pkmer)
 
 **步骤 4，在 Obsidian 主页观察文件夹图标变化**
 
 预览效果：
 
-![](090679bca9169262bf7f114067dd3116.png)
+![](https://cdn.pkmer.cn/images/090679bca9169262bf7f114067dd3116.png!pkmer)
 
 也可以按照设置文件夹的方式设置文件（参照 css 代码中的内容）
 
 整体的效果如下
 
-![](3c40236c1ece0499a453cf567448d8fd.png)
+![](https://cdn.pkmer.cn/images/3c40236c1ece0499a453cf567448d8fd.png!pkmer)
 
 对比没设置图标的效果
 
-![](817fd82519dd8e0948e3046b9806d1cd.png)
+![](https://cdn.pkmer.cn/images/817fd82519dd8e0948e3046b9806d1cd.png!pkmer)
 
  > [!NOTE]
  > 如果熟悉 css ，则可以进一步美化

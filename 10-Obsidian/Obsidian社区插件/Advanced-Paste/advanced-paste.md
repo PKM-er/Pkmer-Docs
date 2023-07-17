@@ -7,7 +7,7 @@ author: Nathaniel
 type: basic
 draft: false
 editable: false
-modified: 20230715140138
+modified: 20230717131108
 ---
 
 # Obsidian 插件：advanced paste 定制化的粘贴插件
