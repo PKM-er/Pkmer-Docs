@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230717125806
+modified: 20230717161907
 ---
 
 # Obsidian 社区插件
@@ -325,6 +325,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
 - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
 - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+- [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
 - [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
 - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
 - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
