@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230712172511
+modified: 20230716172133
 ---
 
 # Obsidian 社区插件
@@ -69,6 +69,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些插件可直接优化或提升 Obsidian 笔记编辑的用户体验。它们一般会直接应用于笔记编辑窗口，使 Obsidian 的操作界面更加直观、可视化，从而提升用户的使用体验。许多插件中还集成了 callout、可视化操作及浮动目录等功能，让你更容易地浏览、查看和编辑笔记内容。所有这些特性的集成对于 Obsidian 用户来说，可以让用户的操作过程变得更为简单、直观，同时也增加了对用户的使用体验的提升。
 
+- [[Obsidian如何制作多栏布局]]
 - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
 - [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
 - [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
@@ -86,7 +87,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
-- [[Obsidian如何制作多栏布局]]
+- [[obsidian-chat-view-qq]]：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
 
 ### 标题增强
 
@@ -147,6 +148,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[search-on-internet]]：快速在搜索引擎中搜索笔记内容
 - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
 - [[obsidian-better-command-palette]]：为命令面板添加了一个更用户友好、功能更丰富的强化
+- [[smart-connections]]：该插件增强了核心插件 - 笔记漫游的功能
 
 ### 脚注&引用
 
@@ -193,8 +195,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
 - [[obsidian-echarts]]：一个可以在 obsidian 里运行 echarts 的插件，具体可以参考官方示例库代码。插件需要依赖 dataview 插件
 
-### 脑图
+### 白板（canvas）和脑图
 
+- [[canvas-presentation]]：帮助你根据顺序演示白板中的卡片
+- [[optimize-canvas-connections]]：优化 Canvas 中的连接线
 - [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图
 - [[obsidian-enhancing-mindmap]]：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 
@@ -296,6 +300,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
 - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
 - [[obsidian-file-color]]：让你文件管理多姿多彩
+- [[obsidian-chat-view-qq]]：chat-view-qq 保存 QQ 消息到 Obsidian 中
 
 ### 文件管理类
 
