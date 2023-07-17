@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230716172133
+modified: 20230717125806
 ---
 
 # Obsidian 社区插件
@@ -380,3 +380,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[copilot]]：一个能像 chatGPT 网页版对话的 Obsidian AI 插件
 - [[smart-connections]]：基于 OpenAI 提供的 api 查询本地库，推荐笔记链接，分析笔记相关性
 - [[companion]]：以类似微软 Copilot 的交互方式，基于文本生成 AI 进行文本自动补全
+
+### 分享&发布
+
+- [[html-server]]：帮你把 Obsidian 仓库作为一个 web 服务器，同时保持你的主题，并确保你的图像和文件链接的工作
