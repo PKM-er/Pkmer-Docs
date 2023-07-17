@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230715010816
+modified: 20230717175030
 aliases: [Obsidian css代码片段]
 ---
 
@@ -43,6 +43,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 编辑器
 
 - [[Obsidian样式-编辑模式下当前行高亮]]
+- [[Obsidian样式-加粗粗体样式优化]]
 - [[Obsidian美化代码域对编程语言的样式展示]]
 - [[Obsidian样式-Callout样式]]
 - [[自定义选中文本部分高亮颜色]]
@@ -54,7 +55,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-美化高亮样式]]
 - [[Obsidian样式-美化行内代码样式]]
 - [[Obsidian样式-引用框样式]]
-- [[Obsidian 样式-编辑模式代码块显示行号]]
+- [[Obsidian样式-编辑模式代码块显示行号]]
 
 #### 链接
 
@@ -65,7 +66,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-文件浏览器样式]]
 - [[Obsidian样式-文件管理名称滚动效果]]
-- [[Obsidain 美化文件夹图标 - 自定义文件夹图标]]
+- [[Obsidain美化文件夹图标-自定义文件夹图标]]
 
 #### 段落
 

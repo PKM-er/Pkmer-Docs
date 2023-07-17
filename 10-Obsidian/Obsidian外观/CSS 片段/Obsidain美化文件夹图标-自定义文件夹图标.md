@@ -7,7 +7,7 @@ author: Nathaniel
 type: basic
 draft: false
 editable: false
-modified: 20230717131044
+modified: 20230717175101
 ---
 
 # Obsidain 美化文件夹图标 - 自定义文件夹图标
