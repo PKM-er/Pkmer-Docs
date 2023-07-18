@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230718180808
+modified: 20230718183535
 ---
 
 # Obsidian 社区插件
@@ -81,6 +81,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
 - [[typewriter-mode]]：使光标所在行始终处于屏幕某处，降低用 Obsidian 写中长文时用鼠标滚动调整页面的频繁
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
+- [[longform]]：一款专为写作者和写作团队而设计的插件。它可以帮助用户创建和管理大型文学项目，例如书籍、小说、论文等。它可以将大文本拆分成更小的部分，例如章节、段落和场景，并提供基本编辑和组织工具。
 - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
@@ -278,6 +279,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 - [[obsidian-icons-plugin]]：提供插入图标符号的功能。
 - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
+- [[emoji-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入
 - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
 - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换
 - [[emoji-magic]]：允许使用关键字搜索 emoji 表情符号，轻松添加到笔记中
