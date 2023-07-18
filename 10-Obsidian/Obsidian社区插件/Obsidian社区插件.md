@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230717161907
+modified: 20230718175817
 ---
 
 # Obsidian 社区插件
@@ -88,6 +88,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
 - [[obsidian-chat-view-qq]]：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
+- [[cm-show-whitespace-obsidian]]：在编辑器中显示空白和制表符
 
 ### 标题增强
 
