@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230530225452
+modified: 20230718183358
 ---
 
 # Obsidian 插件：Emoji Shortcodes 快速输入 emoji 表情符号
@@ -19,7 +19,7 @@ Emoji Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的�
 > [!Note] 插件名片
 > - 插件名称：Emoji Shortcodes
 > - 插件作者：phibr0
-> - 插件说明：通过键入 emoji 对应的短代码方式，快速筛选和输入。
+> - 插件说明：通过键入 emoji 对应的短代码方式，快速筛选和输入
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/obsidian-icon-shortcodes)
 
 ## 效果&特性
