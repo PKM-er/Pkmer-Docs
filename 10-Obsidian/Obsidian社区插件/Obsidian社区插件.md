@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230718175817
+modified: 20230718180808
 ---
 
 # Obsidian 社区插件
@@ -69,9 +69,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些插件可直接优化或提升 Obsidian 笔记编辑的用户体验。它们一般会直接应用于笔记编辑窗口，使 Obsidian 的操作界面更加直观、可视化，从而提升用户的使用体验。许多插件中还集成了 callout、可视化操作及浮动目录等功能，让你更容易地浏览、查看和编辑笔记内容。所有这些特性的集成对于 Obsidian 用户来说，可以让用户的操作过程变得更为简单、直观，同时也增加了对用户的使用体验的提升。
 
-- [[Obsidian如何制作多栏布局]]
 - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
-- [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
 - [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
 - [[obsidian-comments]]：为笔记增加批注或评论。
 - [[highlightr-plugin]]：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
@@ -79,7 +77,6 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
-- [[obsidian-columns]]：支持多种方式来设定分栏目
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
 - [[typewriter-mode]]：使光标所在行始终处于屏幕某处，降低用 Obsidian 写中长文时用鼠标滚动调整页面的频繁
@@ -89,6 +86,12 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
 - [[obsidian-chat-view-qq]]：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
 - [[cm-show-whitespace-obsidian]]：在编辑器中显示空白和制表符
+
+### Callout 相关
+
+- [[Obsidian如何制作多栏布局]]
+- [[obsidian-columns]]：支持多种方式来设定分栏目
+- [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
 
 ### 标题增强
 
