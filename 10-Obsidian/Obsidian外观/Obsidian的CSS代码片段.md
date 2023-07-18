@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230717175030
+modified: 20230718232910
 aliases: [Obsidian css代码片段]
 ---
 
@@ -71,6 +71,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 段落
 
 - [[Obsidian样式-如何自定义段落前后间距]]
+- [[Obsidian样式-特殊标签-让Markdown的文本多彩多色]]
 
 #### 列表、待办
 
