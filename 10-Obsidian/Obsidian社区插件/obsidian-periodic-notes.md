@@ -3,7 +3,7 @@ uid: 20230718104656
 title: Obsidian 插件：Periodic Notes 日记增强插件，管理周期性笔记
 tags: [obsidian, 插件, 日记]
 description: 官方日记插件的增强版本，创建/管理您的每日、每周、每月、季度以及年度笔记。
-author: 
+author: cuman
 type: basic
 draft: false
 editable: false
