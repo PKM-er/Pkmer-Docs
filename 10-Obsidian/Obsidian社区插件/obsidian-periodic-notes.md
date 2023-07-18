@@ -7,7 +7,7 @@ author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230718175009
+modified: 20230718200814
 ---
 
 # Obsidian 插件：Periodic Notes 日记增强插件，管理周期性笔记
@@ -120,7 +120,7 @@ modified: 20230718175009
 - 增加了一个时间轴挂件，方便跳转其他笔记。
   ![image.png](https://cdn.pkmer.cn/images/202307181745074.png!pkmer)
 - 增加了日历集，用来切换不同的配置环境。
-  ![image.png](https://cdn.pkmer.cn/images/202307181741288.png!pkmer)
+  ![cover](https://cdn.pkmer.cn/images/202307181741288.png!pkmer)
   每个日历集都有一个完全独立的配置。最常见的用例是创建两个集合：“个人”和“工作”。
   ![image.png](https://cdn.pkmer.cn/images/202307181749457.png!pkmer)
 
