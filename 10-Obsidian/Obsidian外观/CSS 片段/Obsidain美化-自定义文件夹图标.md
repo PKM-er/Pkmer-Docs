@@ -1,20 +1,24 @@
 ---
 uid: 20230717003729
-title: Obsidain 美化 - 自定义文件夹图标
+title: Obsidain 美化：自定义文件夹图标
 tags: [Obsidian, css, 美化, 图标]
 description: Obsidain 文件图标美化 - 自定义文件夹图标
 author: Nathaniel
 type: basic
 draft: false
 editable: false
-modified: 20230718011101
+modified: 20230719162120
 ---
 
-![[image-20230718005419020.png]]
+# Obsidain 美化：自定义文件夹图标
 
-封面图
+## 引言
 
-# Obsidain美化-自定义文件夹图标
+自定义优化文件管理器中的文件夹样式图标
+
+## 实践
+
+![cover](https://cdn.pkmer.cn/images/image-20230718005419020.png!pkmer)
 
 方案
 
@@ -206,9 +210,8 @@ background-image: url("<图标svg转为base64的代码>")
 ```
 
 效果如下
-![[image-20230718011446054.png]]
 
-
+![image-20230718011446054](https://cdn.pkmer.cn/images/image-20230718011446054.png!pkmer)
 
 ## 资源
 
