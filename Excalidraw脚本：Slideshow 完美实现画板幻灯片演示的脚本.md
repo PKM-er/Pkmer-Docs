@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20230717171828
+modified: 20230719221508
 ---
 
 # Excalidraw 脚本：Slideshow 完美实现画板幻灯片演示的脚本
@@ -22,13 +22,11 @@ modified: 20230717171828
 > 脚本源码地址：[obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
 > 脚本作者演示：[Excalidraw-Obsidian Slideshow 3.0脚本的详细演练 - YouTube](https://www.youtube.com/watch?v=JwgtCrIVeEU&t=6s)
 
-![[230717 154514.gif]]
-
 ## 从 Excalidraw 脚本商店安装脚本
 
 在 Excalidraw 画板中，点击齿轮图标可以进入 Excalidraw 的相关脚本下载页面。在该页面上，您可以找到 Slideshow 脚本，并点击下载或更新，以获取最新版本的脚本。
 
-![[230717 153932.gif]]
+![230717 153932](https://cdn.pkmer.cn/images/230717%20153932.gif)
 
 ## 创建幻灯片
 
@@ -38,11 +36,11 @@ modified: 20230717171828
 
 通过绘制箭头来指示幻灯片的播放顺序和范围：使用 **右下箭头 ↘** 来标记幻灯片的开始和结束范围。
 
-![[230717 161200.gif]]
+![230717 161200](https://cdn.pkmer.cn/images/230717%20161200.gif)
 
 ### ②通过 Frames 框架来创建幻灯片
 
-![[230717 161709.gif]]
+![230717 161709](https://cdn.pkmer.cn/images/230717%20161709.gif)
 
 - 幻灯片演示的顺序根据框架的名称大小 (可以是字母或数字) 来排序：
   - eg：`Frame 1` -> `Frame 2` -> `Frame 3` ->......
@@ -51,7 +49,7 @@ modified: 20230717171828
 
 ## 演示幻灯片
 
-![[Pasted image 20230717162200.png]]
+![Pasted image 20230717162200](https://cdn.pkmer.cn/images/Pasted%20image%2020230717162200.png!pkmer)
 
 - 如果你只使用箭头标记形式创建的幻灯片，可以选中箭头的线点击 Slideshow 脚本的图标后就可以开始你的幻灯演示
 	- 如果线型被隐藏了，直接点击 Slideshow 脚本的图标就可以开始演示
@@ -62,15 +60,15 @@ modified: 20230717171828
 
 在第一次设计幻灯片的过程中，经常会出现错误或者需要添加其他布局。为了使编辑幻灯片变得更加简单，Slideshow 3.0 版本的 Zsolt Viczian 作者提供了一个工具栏。该工具栏可以让您在播放时进行编辑和修改幻灯片的播放。
 
-![[Pasted image 20230717163709.png]]
+![Pasted image 20230717163709](https://cdn.pkmer.cn/images/Pasted%20image%2020230717163709.png!pkmer)
 
-![[230717 165118.gif]]
+![230717 165118](https://cdn.pkmer.cn/images/230717%20165118.gif!pkmer)
 
 编辑箭头线条的方式除了在放映时编辑之外，也可以在画板中进行编辑：
 
 - `Ctrl`+**鼠标双击线条**进行编辑模式
 - 选中线条后，右键弹窗点击 `Edit line` 进入编辑模式
-![[230717 164428.gif]]
+![230717 164428](https://cdn.pkmer.cn/images/230717%20164428.gif)
 
 > [!note] 修改框架 Frames 的幻灯片顺序，直接修改编号即可
 > - 幻灯片演示的顺序根据框架的名称大小 (可以是字母或数字) 来排序：
@@ -82,7 +80,7 @@ modified: 20230717171828
 
 这是 Zsolt Viczian 作者在脚本介绍中插入的思维导图，这里附加上了一些中文翻译：
 
-![[Pasted image 20230717164746.png]]
+![Pasted image 20230717164746](https://cdn.pkmer.cn/images/Pasted%20image%2020230717164746.png!pkmer)
 
 > [!tip]
 > 在 1.9.5 版本的 Excalidraw 里面新增了 Frames 的功能，可以嵌入网页或者 Obsidian 里面笔记，可以让你的画板内容更加丰富。
