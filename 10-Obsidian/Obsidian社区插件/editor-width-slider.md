@@ -1,16 +1,16 @@
 ---
 uid: 20230720000017
-title: Obsidian 插件：Editor Width Slider
-tags: []
+title: Obsidian 插件：Editor Width Slider 帮你快速自定义笔记的栏宽
+tags: [Obsidian, 插件, 自定义, 栏宽]
 description: 
-author: 
+author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230720002358
+modified: 20230720003426
 ---
 
-# Obsidian 插件：Editor Width Slider
+# Obsidian 插件：Editor Width Slider 帮你快速自定义笔记的栏宽
 
 ## 概述
 
