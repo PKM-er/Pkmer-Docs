@@ -13,7 +13,7 @@ modified: 20230720061332
 # Obsidian 的 Endnote 工作流（先行讨论版）
 
 > [!note] 作者简介
-> 鄙人自称：山人（衍生版：妙嵇山人，Simen）目前，于毕业苦海的一叶扁舟上，挣扎着。曾经，想运营微信公众号 `研海星灯` , 也只是想想了，有一个电子博客 <https://eblog.vbreed.com,> 没写啥，也不了了之。回首过往，都是无疾而终，一地鸡毛。希望能在 Pkmer 平台上，重新出发。
+> 鄙人自称：山人（衍生版：Simen）目前，于毕业苦海的一叶扁舟上，挣扎着。曾经，想运营微信公众号 `研海星灯` , 也只是想想了，有一个电子博客 <https://eblog.vbreed.com,> 没写啥，也不了了之。回首过往，都是无疾而终，一地鸡毛。希望能在 Pkmer 平台上，重新出发。
 
 > [!note] 已有分享
 >## Pkmer 平台
@@ -24,7 +24,6 @@ modified: 20230720061332
 > 1. [毕业论文必备word设置系列](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI4NDQ4NjU0MA==&scene=23&album_id=1874987009807548418&count=3#wechat_redirect)
 > 	主要内容，基于 word 多级列表，实现两种章节标题与图表标题联动的自动编号，交叉引用后，进行章节目录与图表目录的自动生成，配置的两种自动标号，都支持按大纲的章节拆分 word 后，进行分章节撰写，改善单个 word 文件过大，引发的性能瓶颈问题。
 > 2. [毕业论文word格式设置流程的思维导图总结](https://boardmix.cn/app/share/CAE.CPb68gsgASoQszuEQw-Ho8bclU6b8WNX1zAGQAE/UvwquZ)
-> 3. [咖啡老师 b 站的视频，对上面系列做视频讲解，还没剪辑出来，最后有点乱，需要重新讲一遍]
 
 本文主要介绍在使用 obsidian 进行科学论文写作中，endnote 参考文献引用的工作流，需要先行学习二宝学长的 [[文科生的学术知识管理工作流-上篇]] ，[[文科生工作流-zotero配置]]，才能食用。
 
