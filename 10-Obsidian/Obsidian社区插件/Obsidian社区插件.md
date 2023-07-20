@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230720105918
+modified: 20230720161224
 ---
 
 # Obsidian 社区插件
@@ -285,13 +285,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换
 - [[emoji-magic]]：允许使用关键字搜索 emoji 表情符号，轻松添加到笔记中
 
-### 统计类
-
-- [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
-- [[better-word-count]]：
-- [[file-explorer-note-count]]：增加文件数量统计功能
-- [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
-
 ### 美化
 
 对于那些对于审美有着极高追求的你来说，这些插件将会成为你 Obsidian 学习和管理的不可或缺的个性化增强工具。虽然这些插件看似只是小小的工具，但它们却有着强大而独特的功能，能够显著提升 Obsidian UI 和设计中的个性化要素。通过本身定制化的特点和某些极具创意的功能，这些插件将使 Obsidian 更加个性化和符合你的审美标准。
@@ -339,6 +332,19 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
 - [[open-with]]：允许你通过在 Obsidian 中使用其他软件，打开笔记中常见格式文件
 
+### 学习
+
+- [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
+- [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容
+- [[blindfold-obsidian]]：实现了不依赖主题，和示例库的方法，来制作答案的隐藏和展示
+
+### 统计类
+
+- [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
+- [[better-word-count]]：
+- [[file-explorer-note-count]]：增加文件数量统计功能
+- [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
+
 ### 标签页管理
 
 为了让你更加高效地管理学习和工作中的海量笔记，这里向你推荐几款优秀的 Obsidian 插件，它们为 Obsidian 带来全新的标签页操作方式，提升笔记分类和定位的便捷性。这些插件不仅简单易用、操作方便，还可以让你在使用 Obsidian 时省去不必要的繁琐步骤。无论你是在寻找更高效的笔记组织方式还是提高工作效率，这些插件都会给你带来不同程度的改进和便利。
@@ -363,8 +369,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 - [[obsidian-markdown-furigana]]：日文学习如何增加假名
 - [[japanese-word-splitter]]：添加支持日语分词
-- [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
-- [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容
 
 ### 插入预览
 
