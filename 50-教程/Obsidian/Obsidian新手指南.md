@@ -1,7 +1,7 @@
 ---
 uid: 20230412141451
 title: Obsidian 新手指南
-tags: []
+tags:  [obsidain,教程]
 description: Obsidian 新手指南
 author: windilycloud
 type: tutorial

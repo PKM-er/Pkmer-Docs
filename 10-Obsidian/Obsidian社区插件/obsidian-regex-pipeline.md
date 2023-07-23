@@ -1,13 +1,13 @@
 ---
 uid: 20230525124444
 title: Obsidian 插件推荐：Regex Pipeline
-tags: [Obsidian, 插件, 正则表达式, 格式化文本]
+tags: [Obsidian, 插件, 正则表达式, 文档格式化]
 description: Regex Pipeline 是一款让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作。
 author: 致九
 type: other
 draft: false
 editable: false
-modified: 20230604174438
+modified: 20230715000813
 ---
 
 # Obsidian 插件推荐：Regex Pipeline
@@ -138,3 +138,11 @@ Regex Pipeline 是一款让用户用自定义的正则表达式进行格式化�
 虽然通过 Regex Pipeline 已经可以处理复杂的文字模式，更好的格式化自己的文档，但是现在该插件还只是局限于单个文档的处理，不能将规则应用于全局，面对需要将所有文件都处理的情况，还是要借助 vscode 这种更加成熟的软件中的搜索替换工具，
 
 还是期待一下作者的更新，能够满足这个需求。
+
+> [!Tip] 相关推荐
+> - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
+> - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
+> - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+> - [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
+> - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
+> - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作

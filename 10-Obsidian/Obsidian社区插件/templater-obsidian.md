@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230603014041
+modified: 20230629231550
 ---
 
 # Obsidian 插件：Templater 可以替代核心模板插件的效率神器
@@ -106,3 +106,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 这样新建文件的时候 就会调用这个模板效果如下：
 
 ![templater.gif](https://cdn.pkmer.cn/images/202305141719847.gif!pkmer)
+
+## 社区使用技巧
+
+- [[Templater实现关键词自动化套用模板]]：铅笔小明分享的通过关键词自动化套用模板

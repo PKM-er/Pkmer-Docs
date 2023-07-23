@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145849
 title: Obsidian 插件：Clear unused images 快速删除无用的图片
 tags: [Obsidian, 插件, 快速删除, 图片处理]
 description: Obsidian 插件：Clear unused images 快速删除无用的图片
@@ -80,3 +80,10 @@ modified: 20230604174647
 如果你在插件设置中打开了“删除日志”选项，你会看到一个弹出的模式，显示哪些图片从你的数据库中已经删除了。
 
 ![Pasted image 20230128180054](https://cdn.pkmer.cn/images/ffa739e449346b4157680143ef4a3a88_MD5.png!pkmer)
+
+> [!Tip] 相关推荐
+> - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
+> - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
+> - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+> - [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
+> - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作

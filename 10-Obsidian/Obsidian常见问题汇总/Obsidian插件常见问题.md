@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230608201253
+modified: 20230622163039
 ---
 
 # Obsidian 插件常见问题
@@ -150,6 +150,57 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 ### Obsidian 怎么显示笔记上次修改时间
 
 答：Templater 插件， `<%+ tp.file.last_modified_() %>`
+
+## React Components
+
+### 开 React Components 这个插件会导致白板（canvas）异常
+
+- 现象
+![QA_4CW[448ZAU}F1FZO~3YJ.jpg|406](https://cdn.pkmer.cn/images/20230622162549.png!pkmer)
+- 解决方案：
+	- 找到 React Components 插件的文件夹，打开 main.js 文件
+	- 找到 对应代码文本
+
+	```JS
+registerHeaderProcessor() {
+	this.registerMarkdownPostProcessor((_, ctx) => __awaiter(this, void 0, void 0, function* () {
+
+	var _a, _b;
+
+if (!((_a = ctx.containerEl) === null || _a === void 0 ? void 0 : _a.hasClass('markdown-previewsection'))) {
+	return;
+}
+
+const viewContainer = ctx.containerEl.parentElement;
+
+const existingHeader = (_b = viewContainer === null || viewContainer === void 0 ? void 0 :
+
+viewContainer.getElementsByClassName('reactHeaderComponent')) === null || _b === void 0 ? void
+
+0 : _b[0];
+const previousContext = this.renderedHeaderMap.get(existingHeader);
+
+if (!previousContext || previousContext != ctx) {
+	if (existingHeader) {
+		this.ReactDOM.unmountComponentAtNode(existingHeader);
+		existingHeader.remove();
+	}
+const container = document.createElement('div');
+container.addClasses(['reactHeaderComponent', 'markdown-preview-sizer', 'markdownpreview-section']);
+	this.renderedHeaderMap.set(container, ctx);
+	viewContainer === null || viewContainer === void 0 ? void 0 :
+viewContainer.insertBefore(container, ctx.containerEl);
+	this.attachComponent('const HeaderComponent = pluginInternalNoteHeaderComponent;<HeaderComponent/>', container, ctx)
+		}
+	}));
+}
+	```
+
+- 在 var _a, _b; 这一行之前加入
+
+```js
+if (!ctx.sourcePath || (!ctx.containerEl?.hasClass('markdown-preview-section'))){ return;}
+```
 
 ## 第三方工具
 

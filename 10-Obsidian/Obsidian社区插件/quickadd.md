@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230604174701
+modified: 20230721104131
 ---
 
 # Obsidian 插件：QuickAdd 自动化操作的编辑器
@@ -16,8 +16,12 @@ modified: 20230604174701
 > - 插件名称：QuickAdd
 > - 插件版本：0.23.0
 > - 插件作者：Christian B. B. Houmann
-> - 插件说明：组合 Obsidian 里所有操作，低阶使用可可视化自动化操作，高阶使用可编写脚本实现万物互联
+> - 插件说明：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
 > - 插件项目地址：[点我跳转](https://github.com/chhoumann/quickadd)
+
+## 社区使用技巧
+
+- [[Quickadd结合CSS实现挖空复习]]
 
 ## 参考资料
 

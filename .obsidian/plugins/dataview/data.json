@@ -1,5 +1,5 @@
 {
-  "renderNullAs": "\\-",
+  "renderNullAs": "",
   "taskCompletionTracking": false,
   "taskCompletionUseEmojiShorthand": false,
   "taskCompletionText": "completion",
@@ -19,7 +19,7 @@
   "inlineJsQueryPrefix": "$=",
   "inlineQueriesInCodeblocks": false,
   "enableInlineDataview": false,
-  "enableDataviewJs": false,
+  "enableDataviewJs": true,
   "enableInlineDataviewJs": false,
   "prettyRenderInlineFields": false,
   "dataviewJsKeyword": "dataviewjs"

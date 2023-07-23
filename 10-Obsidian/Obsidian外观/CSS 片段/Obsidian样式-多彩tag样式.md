@@ -1,13 +1,13 @@
 ---
 uid: 20230610161647
 title: Obsidian 样式：多彩的 tag 样式
-tags: [Obsidian, 标签, 美化, 样式]
+tags: [Obsidian, css, 标签, 美化, 样式]
 description: Obsidian 样式：多彩的 tag 样式
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230610162401
+modified: 20230616095651
 ---
 
 # Obsidian 样式：多彩的 tag 样式

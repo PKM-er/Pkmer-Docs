@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145840
 title: Obsidian 插件：Tasks 更方便的任务管理
 tags: [Obsidian, 插件, 任务, 事务管理]
 description: Obsidian 插件：Tasks,任务管理必备插件
@@ -183,3 +183,16 @@ done on {{date:YYYY-MM-DD}}
 ```
 
 ````
+
+> [!Tip] 相关推荐
+> - [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+> - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
+> - [[calendar]]：为 Obsidian 添加一个简单日历功能
+> - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
+> - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
+> - [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
+> - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
+> - [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
+> - [[obsidian-task-archiver]]：帮你快速归类待办任务
+> - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
+> - [[tasks-calendar-wrapper]]：完美的时间线/日历视图的任务面板展示

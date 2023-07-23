@@ -1,5 +1,5 @@
 ---
-uid: 20230513222807
+uid: 20230513222806
 title: Obsidian 插件：Wrap With Shortcuts 给选中文本加上前后标签
 tags: [Obsidian, 插件, 标签, 编辑, 美化]
 description: Obsidian 插件：Wrap With Shortcuts 给选中文本加上前后标签

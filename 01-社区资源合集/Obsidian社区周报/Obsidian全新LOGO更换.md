@@ -1,7 +1,7 @@
 ---
 uid: 20230601232645
 title: Obsidian 全新 LOGO 更换，新图标，新形象
-tags: [Obsidian，全新LOGO]
+tags: [Obsidian,周报]
 description: Obsidian 全新 LOGO 更换，新图标，新形象
 author: Bon, OS
 type: other

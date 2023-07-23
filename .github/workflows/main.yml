@@ -1,0 +1,21 @@
+name: Trigger Website Action
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger-website-action:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Trigger Website Action
+        run: |
+          curl -XPOST -u "cumany:${{secrets.PAT_TOKEN}}" \
+          -H "Accept: application/vnd.github.everest-preview+json" \
+          -H "Content-Type: application/json" https://api.github.com/repos/PKM-er/Pkmer-Website/dispatches \
+          --data '{"event_type": "docs-updated"}'

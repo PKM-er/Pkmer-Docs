@@ -1,5 +1,5 @@
 ---
-uid: 20230513222807
+uid: 20230513222804
 title: Obsidian 插件：Global Search And Replace 给 Obsidian 全库进行文本替换
 tags: [Obsidian, 插件, 替换, 效率]
 description: Obsidian 插件：Global Search And Replace 给 Obsidian 全库进行文本替换
