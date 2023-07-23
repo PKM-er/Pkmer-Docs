@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230720161224
+modified: 20230723232416
 ---
 
 # Obsidian 社区插件
@@ -110,6 +110,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
 - [[mousewheel-image-zoom]]： 能够通过按住可配置键（默认为左 alt），在编辑/阅读模式下通过滚轮来调节图像的大小
+- [[obsidian-image-caption]]：为你笔记中的图片添加标题、说明
+- [[在Obsidian中为图片添加注释]]：社区实践多种方法解决图片注释问题
 
 ### 目录和大纲类
 

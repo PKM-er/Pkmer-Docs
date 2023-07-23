@@ -1,20 +1,20 @@
 ---
 uid: 20230226222912
-title: Cubox 通过Advanced Uri插件导入 Obsidian
+title: Cubox 通过 Advanced Uri 插件导入 Obsidian
 tags: []
 description: Cubox通过advanced uri插件导入到Obsidian中
 author: ProudBenzene
 type: practice
 draft: false
 editable: false
-modified: 20230711222802
+modified: 20230723231145
 ---
 
 # Cubox 通过 Advanced Uri 插件导入 Obsidian
 
 ## 介绍
 
-*Cubox*是一款优秀的全平台「稍后读」软件，配合其浏览器插件和微信收藏助手，可以方便地收藏网上冲浪时令你一见钟情的文章，甚至是微信中的公众号文章、聊天记录或语音。每收藏一个网页，它就会自动生成「文章视图」和「网页快照」，不仅方便阅读，即使网站 404 了，也可以通过快照功能查看。
+Cubox 是一款优秀的全平台「稍后读」软件，配合其浏览器插件和微信收藏助手，可以方便地收藏网上冲浪时令你一见钟情的文章，甚至是微信中的公众号文章、聊天记录或语音。每收藏一个网页，它就会自动生成「文章视图」和「网页快照」，不仅方便阅读，即使网站 404 了，也可以通过快照功能查看。
 
 除此之外，它还可以作为*Newsletter*的接收端，汇聚整理你订阅的各种*Newsletter*文章。内置的其他功能如文章大纲、嵌套标签等也非常方便实用。如果你还没有使用过，可以输入我的推荐码 dgppze 领取 7 天会员，先体验一下😆
 
