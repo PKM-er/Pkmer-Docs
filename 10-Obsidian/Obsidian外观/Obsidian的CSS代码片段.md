@@ -99,6 +99,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 白板（Canvas）
 
 - [[Obsidian样式-canvas白板卡片中文字居中]]
+- [[Obsidian样式-Canvas样式的修改及增强卡片的显示效果]]
 
 #### dataview
 
