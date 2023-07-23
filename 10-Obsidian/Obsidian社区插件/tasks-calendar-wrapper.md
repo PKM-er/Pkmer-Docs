@@ -3,11 +3,11 @@ uid: 20230508145808
 title: Obsidian 插件：Tasks-calendar-wrapper 支持快捷输入与时间线/日历视图的任务面板展示插件
 tags: [Obsidian, 插件, 任务, 时间线, 任务日历]
 description: Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图
-author: Simen_Chen
+author: 山人
 type: other
 draft: false
 editable: false
-modified: 20230705153221
+modified: 20230723205513
 ---
 
 # Obsidian 插件：Tasks-calendar-wrapper 支持快捷输入与时间线/日历视图的任务面板展示插件
