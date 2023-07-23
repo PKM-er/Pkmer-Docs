@@ -1,13 +1,13 @@
 ---
-uid: 20230723214901
+uid: 20230723231037
 title: 在 Obsidian 中为图片添加注释
-tags: [Obsidian, 美化, 注释, 图片]
-description: 在obsidian中为图片添加注释
+tags: [Obsidian, 插件, 图片注释]
+description: 在 Obsidian 中为图片添加注释，多种方法让你为笔记中的图片增加注释信息
 author: Huajin
-type: basic
+type: other
 draft: false
 editable: false
-modified: 20230723232133
+modified: 20230723234819
 ---
 
 # 在 Obsidian 中为图片添加注释
