@@ -14,7 +14,7 @@ modified: 20230722053613
 
 **Canvas 样式的修改及增强卡片的显示效果**：
 
-![[Pasted image 20230722052842.png]]
+![Pasted image 20230722052842](https://cdn.pkmer.cn/images/Pasted%20image%2020230722052842.png!pkmer)
 
 ## Canvas 卡片局部 CSS 设置
 
