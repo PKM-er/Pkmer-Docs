@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230723232416
+modified: 20230724165833
 ---
 
 # Obsidian 社区插件
@@ -92,6 +92,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### Callout 相关
 
 - [[Obsidian如何制作多栏布局]]
+- [[Obsidian能像其他笔记样分栏嘛]]
 - [[obsidian-columns]]：支持多种方式来设定分栏目
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
 
@@ -112,6 +113,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[mousewheel-image-zoom]]： 能够通过按住可配置键（默认为左 alt），在编辑/阅读模式下通过滚轮来调节图像的大小
 - [[obsidian-image-caption]]：为你笔记中的图片添加标题、说明
 - [[在Obsidian中为图片添加注释]]：社区实践多种方法解决图片注释问题
+- [[Obsidian如何生成和美化目录]]
 
 ### 目录和大纲类
 
@@ -130,12 +132,14 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
 
-- [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+- [[obsidian-memos]]：提供一个简易轻巧的笔记和灵感收集方式
+- [[Obsidian插件技巧-Memos和Reminder高效管理突发及琐碎待办]]
 - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
 - [[obsidian-tasks-plugin]]：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
+- [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 - [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
 - [[obsidian-task-progress-bar]]
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
@@ -166,6 +170,9 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 在 Obsidian 中，链接是笔记之间和笔记与外部资源之间重要的互动方式，链接的使用体验影响着用户在查找、组织和浏览笔记时的效率和舒适度。为了增强链接的使用体验，Obsidian 提供了多种链接管理插件。这些插件可以帮助用户进行链接的猜测和提取、显示链接对应的网站图标、提高链接的美观性和可读性。
 
+- [[obsidian-advanced-uri]]：Obsidian URI 的功能增强
+- [[obsidian-advanced-uri-青年与禅师的技术尬聊]]
+- [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]
 - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
 - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
@@ -178,6 +185,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 导出
 
 - [[obsidian-export-image]]：轻松将笔记转换为图片
+- [[pandoc 插件导出 word 格式 正确识别本地图片]]
 
 ### 阅读和 PDF
 
@@ -254,6 +262,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐渐壮大起来的插件生态圈。这些卓越的插件不仅增强了 Obsidian 的功能，而且可以在很大程度上提高你的工作和学习效率，让你从繁琐，重复的码字过程中解脱出来。相信这些插件能够帮助你更高效、便捷地管理和利用笔记，让你的学习、工作和生活更加舒适顺畅。相信下面这些插件能帮到你：
 
 - [[templater-obsidian]]：可以替代核心模板插件的效率神器
+- [[Templater实现关键词自动化套用模板]]
 - [[quickadd]]：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
 - [[various-complements]]：这个 Obsidian 插件让你能够自动完成完成单词，和自定义内容的输入。
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
