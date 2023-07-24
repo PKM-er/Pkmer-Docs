@@ -1,16 +1,16 @@
 ---
 uid: 20230710164535
-title: Obsidian 插件
-tags: []
-description: 
-author: 
+title: Obsidian 插件：Open with 使用其他软件打开对应的资源
+tags: [Obsidian, 插件, 打开方式, 第三方软件]
+description: Obsidian 插件：Open with 使用其他软件打开对应的资源，允许你通过在 Obsidian 中使用其他软件，打开笔记中常见格式文件。
+author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230710231055
+modified: 20230724174615
 ---
 
-# Obsidian 插件
+# Obsidian 插件：Open with 使用其他软件打开对应的资源
 
 ## 概述
 
