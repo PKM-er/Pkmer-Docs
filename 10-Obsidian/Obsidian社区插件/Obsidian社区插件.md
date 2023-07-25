@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230724165833
+modified: 20230725164728
 ---
 
 # Obsidian 社区插件
@@ -125,8 +125,9 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
 - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样
 - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
-- [[obsidian-outliner]]
-- [[obsidian-zoom]]：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。
+- [[obsidian-outliner]]：为 Obsidian 的大纲添加快捷操作
+- [[obsidian-zoom]]：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容
+- [[automatic-list-styles]]：不借用主题和 css 片段前提下。来实现有序列表，增加不同的层级的前缀符号样式
 
 ### 任务类&提醒
 

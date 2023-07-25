@@ -3,11 +3,11 @@ uid: 20230521004800
 title: Obsidian 插件常见问题
 tags: [Obsidian, 插件, 常见问题]
 description: Obsidian 插件常见问题
-author: cuman
+author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230622163039
+modified: 20230725152946
 ---
 
 # Obsidian 插件常见问题
@@ -162,13 +162,17 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 	- 找到 对应代码文本
 
 	```JS
+
 registerHeaderProcessor() {
+
 	this.registerMarkdownPostProcessor((_, ctx) => __awaiter(this, void 0, void 0, function* () {
 
 	var _a, _b;
 
 if (!((_a = ctx.containerEl) === null || _a === void 0 ? void 0 : _a.hasClass('markdown-previewsection'))) {
+
 	return;
+
 }
 
 const viewContainer = ctx.containerEl.parentElement;
@@ -178,22 +182,37 @@ const existingHeader = (_b = viewContainer === null || viewContainer === void 0 
 viewContainer.getElementsByClassName('reactHeaderComponent')) === null || _b === void 0 ? void
 
 0 : _b[0];
+
 const previousContext = this.renderedHeaderMap.get(existingHeader);
 
 if (!previousContext || previousContext != ctx) {
+
 	if (existingHeader) {
+
 		this.ReactDOM.unmountComponentAtNode(existingHeader);
+
 		existingHeader.remove();
+
 	}
+
 const container = document.createElement('div');
+
 container.addClasses(['reactHeaderComponent', 'markdown-preview-sizer', 'markdownpreview-section']);
+
 	this.renderedHeaderMap.set(container, ctx);
+
 	viewContainer === null || viewContainer === void 0 ? void 0 :
+
 viewContainer.insertBefore(container, ctx.containerEl);
+
 	this.attachComponent('const HeaderComponent = pluginInternalNoteHeaderComponent;<HeaderComponent/>', container, ctx)
+
 		}
+
 	}));
+
 }
+
 	```
 
 - 在 var _a, _b; 这一行之前加入
