@@ -3,11 +3,11 @@ uid: 20230601185441
 title: Obsidian 主题常见问题
 tags: [Obsidian, 主题, 常见问题, BT示例库, Bluetopaz]
 description: Obsidian主题常见问题
-author: cuman,OS
+author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230608185731
+modified: 20230725152958
 ---
 
 # Obsidian 主题常见问题
