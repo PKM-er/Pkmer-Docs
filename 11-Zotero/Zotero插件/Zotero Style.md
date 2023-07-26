@@ -1,4 +1,4 @@
-![image](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/8b4bbcd5-24c3-47a4-8f65-c1ae09e3eb54)# Zotero Style
+# Zotero Style
 一款高度自由化、高度自定义Zotero扩展功能的插件。
 
 
