@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230725235100
+modified: 20230727000955
 ---
 
 # Obsidian 社区插件
@@ -304,16 +304,17 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 对于那些对于审美有着极高追求的你来说，这些插件将会成为你 Obsidian 学习和管理的不可或缺的个性化增强工具。虽然这些插件看似只是小小的工具，但它们却有着强大而独特的功能，能够显著提升 Obsidian UI 和设计中的个性化要素。通过本身定制化的特点和某些极具创意的功能，这些插件将使 Obsidian 更加个性化和符合你的审美标准。
 
 - [[Obsidian-Banners]]：为文档页面添加头图和图标
-- [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
-- [[obsidian-hider]]：自定义隐藏界面元素、信息
 - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
+- [[obsidian-file-color]]：让你文件管理多姿多彩
 - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
 - [[custom-state-for-task-list]]：优化你的任务样式
+- [[badges]]：一个简易插件，通过内置的样式来在 Obsidian 中获得简易的徽章效果
+- [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
+- [[obsidian-hider]]：自定义隐藏界面元素、信息
 - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
 - [[obsidian-day-and-night]]：根据设定的时间自动切换浅色和深色主题
 - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
 - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
-- [[obsidian-file-color]]：让你文件管理多姿多彩
 - [[obsidian-chat-view-qq]]：chat-view-qq 保存 QQ 消息到 Obsidian 中
 
 ### 文件管理类
