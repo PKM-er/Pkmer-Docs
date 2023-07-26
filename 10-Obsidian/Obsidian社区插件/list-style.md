@@ -3,7 +3,7 @@ uid: 20230725233140
 title: Obsidian 插件：Ordered List Styles 用中文的天干、地支做有序列表的序号
 tags: [Obsidian, 插件, 有序列表, 天干地支]
 description: Obsidian 插件：Ordered List Styles，用中文的天干、地支做有序列表的序号
-author: windilycloud
+author: Windysoul
 type: other
 draft: false
 editable: false
