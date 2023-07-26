@@ -7,7 +7,7 @@ author: PKMer
 type: basic
 draft: false
 editable: false
-modified: 20230726230210
+modified: 20230726232152
 ---
 
 # Obsidian 插件：PKMer
@@ -24,6 +24,9 @@ modified: 20230726230210
 > - 插件作者：PKMer(windily-cloud&cumany)
 > - 插件描述：这是一款 Obsidian 插件，旨在帮助国内用户轻松自由的访问优秀的 Obsidian 插件。
 > - 插件项目地址：
+
+> [!Tip] 提示
+> - 目前插件已经针对之前 memos 众筹用户和社区贡献者们优先开放
 
 ## 主要功能
 
