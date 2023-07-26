@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145811
 title: Obsidian 插件：Custom File Explorer sorting 自定义文件夹和文件排序
 tags: [Obsidian, 插件, 文件排序, 文件夹管理]
 description: Obsidian 插件：Custom File Explorer sorting 自定义文件夹和文件排序

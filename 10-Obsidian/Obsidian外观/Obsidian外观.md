@@ -1,13 +1,13 @@
 ---
-uid: 20230329145808
+uid: 20230329145848
 title: Obsidian 的外观
-tags: []
+tags: [Obsidian, 外观, 主题, 设置]
 description: Obsidian 的外观
 author: OS
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20230601101859
+modified: 20230703152107
 ---
 
 # Obsidian 的外观
@@ -30,8 +30,9 @@ Obsidian 提供一些和其他软件类似的基础外观设定和操作
 - 窗口样式都可设定，但是需要你自己慢慢摸索，这里就不对每一个细节进行了解了
 
 ## 主题
+[[Blue Topaz 主题]]
 
-请参考 [[Obsidian优秀外观分享]]
+案例：请参考 [[Obsidian优秀外观分享]]
 
 ## 自定义
 

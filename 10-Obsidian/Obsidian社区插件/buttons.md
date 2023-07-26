@@ -1,7 +1,7 @@
 ---
 uid: 20230514144947
 title: Obsidian 插件：Buttons 美化必备的按钮插件
-tags: [obsidian, 插件, 自动化, 效率, 按钮]
+tags: [Obsidian, 插件, 自动化, 效率, 按钮]
 description: Obsidian 插件：Buttons 用快捷方式管理命令的最佳方式
 author: cuman
 type: other

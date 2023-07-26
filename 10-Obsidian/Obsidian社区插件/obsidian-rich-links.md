@@ -1,24 +1,25 @@
 ---
 uid: 20230428102045
-title: Obsidian 插件：Rich-links（为链接增加美化样式）
-tags: []
-description: Obsidian 插件：Rich-links（为链接增加美化样式）
+title: Obsidian 插件：Rich links 为链接增加美化样式
+tags: [Obsidian, 插件, 链接, 美化, 卡片样式]
+description: Obsidian 插件：Rich-links 为链接增加美化样式
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517230038
+modified: 20230712202716
 ---
 
-# Obsidian 插件：Rich-links（为链接增加美化样式）
+# Obsidian 插件：Rich links 为链接增加美化样式
 
 ## 概述
 
-该插件可以为你笔记中的链接，增加美化样式（你可以通俗理解这种卡片样式和 Notion 很想）。
+该插件可以为你笔记中的链接，增加美化样式（你可以通俗理解这种卡片样式和 Notion 和相似）。
 
 > [!Note] 插件名片
-> - 插件名称：Obsidian Rich Links
-> - 插件作者：dhamaniasad
+> - 插件名称：Rich Links
+> - 插件作者：Asad Dhamani
+> - 插件版本：1.2.0
 > - 插件说明：为你笔记中的链接，增加美化样式
 > - 插件项目地址：[点我跳转](https://github.com/dhamaniasad/obsidian-rich-links)
 
@@ -50,7 +51,7 @@ modified: 20230517230038
 ![image.png](https://cdn.pkmer.cn/images/ea5e84d9c1557491fb46394fa99b00fd_MD5.png!pkmer)
 
 >[!Warning] 注意
->在一些网络情况不好的情况下， 这个插件运行并不正常，会导致美化卡片样式无法返回。
+>在一些网络情况不好的情况下， 会导致美化卡片样式无法返回。
 
 > [!Tip] 推荐阅读
 > - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。

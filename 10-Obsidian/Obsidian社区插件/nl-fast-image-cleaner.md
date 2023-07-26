@@ -1,5 +1,5 @@
 ---
-uid: 20230329145808
+uid: 20230329145821
 title: Obsidian 插件：Fast Image Cleaner 快速删除笔记中图片和引用链接
 tags: [Obsidian, 插件, 引用链接, 无效链接]
 description: Obsidian 插件：快速删除笔记中图片和引用链接
@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516113508
+modified: 20230604173634
 ---
 
 # Obsidian 插件：Fast Image Cleaner 快速删除笔记中图片和引用链接
@@ -16,13 +16,13 @@ modified: 20230516113508
 
 > [!Note] 插件名片
 > - 插件名称：Fast Image Cleaner
-> - 插件作者：Nathaniel
+> - 插件作者：martinniee
 > - 插件说明：快速删除文档中的图像附件和引用链接
-> - 插件项目地址：[点我跳转](https://github.com/Vinzent03/find-unlinked-files)
+> - 插件项目地址：[点我跳转](https://github.com/martinniee/Obsidian-fast-image-cleaner)
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230516113325.png!pkmer)
+![image.png|469](https://cdn.pkmer.cn/images/20230516113325.png!pkmer)
 
 1. 鼠标右键图片点击删除菜单选项，会删除图片附件文件及其引用链接
 2. 被删除的图片的情况
@@ -52,10 +52,12 @@ modified: 20230516113508
 ### 删除附件及链接
 
 - 实时预览模式下
-![image.png](https://cdn.pkmer.cn/images/20230516113325.png!pkmer)
+
+![image.png|700](https://cdn.pkmer.cn/images/20230516113325.png!pkmer)
 
 - 阅读模式下
-![image.png](https://cdn.pkmer.cn/images/20230516113431.png!pkmer)
+
+![image.png|700](https://cdn.pkmer.cn/images/20230516113431.png!pkmer)
 
 ### 删除附件当删除笔记
 
@@ -64,7 +66,7 @@ modified: 20230516113508
 
 ### 删除内容的设置
 
-![image.png](https://cdn.pkmer.cn/images/20230516113027.png!pkmer)
+![image.png|808](https://cdn.pkmer.cn/images/20230516113027.png!pkmer)
 
 - 请确保你在 "Fast Images Cleaner Settings" 下选择了被删除图片的位置。你有 3 个选项：
 	- 移动到黑曜石垃圾桶 - 文件将被移动到黑曜石保险库下的.trash。
@@ -74,3 +76,10 @@ modified: 20230516113508
 ## 插件演示
 
 1. 插件演示视频：<https://www.bilibili.com/video/BV1U8411T7VH/?vd_source=bc02b194f06ee6c081a8d33ad7b3824d>
+
+> [!Tip] 相关推荐
+> - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
+> - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
+> - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+> - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
+> - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作

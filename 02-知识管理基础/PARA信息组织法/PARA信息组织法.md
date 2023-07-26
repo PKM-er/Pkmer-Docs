@@ -4,10 +4,10 @@ title: PARA
 tags: [PARA, P.A.R.A, 笔记组织方法, 知识管理方法]
 description: PARA, P.A.R.A, 笔记组织方法, 知识管理方法
 author: OS
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20230601172741
+modified: 20230603103125
 ---
 
 # PARA
@@ -29,9 +29,9 @@ PARA 是一个独特的、流行的、包含 Projects、Areas、Resources 和 Ar
 
 关于 PARA 我们推荐如下的理论、思考和有效实践：
 
-- [[PARA信息组织法—如何整理我的数字信息]]
+- [[PARA信息组织法-如何整理我的数字信息]]
 
 一些类似 PARA 的其他方法论：
 
-- [[Johnny.Decimal一切源于数字的管理系统]]
+- [[Johnny-Decimal-源于数字编码的管理系统]]
 - [[OS的文件简易命名规范]]

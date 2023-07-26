@@ -1,13 +1,13 @@
 ---
 uid: 20230601185441
 title: Obsidian 主题常见问题
-tags: [Obsidian, 主题, 常见问题, BT示例库, Bluetopz]
+tags: [Obsidian, 主题, 常见问题, BT示例库, Bluetopaz]
 description: Obsidian主题常见问题
-author: cuman,OS
+author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230601195356
+modified: 20230725152958
 ---
 
 # Obsidian 主题常见问题
@@ -15,6 +15,31 @@ modified: 20230601195356
 ## 主题类问题
 
 ### Bluetopz 主题和 BT 示例库
+
+#### 使用主题后，文件管理器，不同级的文件夹和文件缩进一样
+
+- 如图
+
+![image.png](https://cdn.pkmer.cn/images/20230604233953.png!pkmer)
+
+- 这是因为启用了文件夹图标，而没有调整附带选项导致，参考下图重新设置，并重启 OB
+
+![485f5048d52cdcfa0718ea78cc00e8d.png](https://cdn.pkmer.cn/images/485f5048d52cdcfa0718ea78cc00e8d.png!pkmer)
+
+#### 鼠标指向插入的图片时，鼠标指针变化样式
+
+- 如图
+![image.png](https://cdn.pkmer.cn/images/20230604223210.png!pkmer)
+- 这是主题引入的一些小设置，本身对主题和功能没有任何副作用，如果你介意，可以参考如下方法
+- 在主题的 CSS 文件找到如下
+
+```CSS
+body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*="emoji"]) {
+  display: block;
+  margin: auto !important;
+  cursor: unset;/*这里原设置是 cursor: pointer; 修改为cursor: unset; 即可*/
+}
+```
 
 #### 如何获取指定地区的天气？
 
@@ -71,3 +96,30 @@ modified: 20230601195356
 #### 如何移植动画猫到自己的主页中？
 
 - 跟多彩时钟一样，动画猫也是 react 组件生成的。需要首先安装 react_component 插件，并 copy`\88-Template\ReactJS\react_cat.md` 这样动画猫代码就生效了。
+
+#### 如何消除列表折叠后的折叠占位符
+
+- 阅读模式下
+
+![f54833d49b2c8ec511bd82e60856c66.jpg](https://cdn.pkmer.cn/images/f54833d49b2c8ec511bd82e60856c66.jpg!pkmer)
+
+参考下面代码，并放入 snippets 中，方法见 [[Obsidian的CSS代码片段]]
+
+```CSS
+.list-collapse-indicator.collapse-indicator.collapse-icon.is-collapsed:after {
+	color: transparent;
+	display：none;
+}
+```
+
+#### 列表项中文字产生错位
+
+- 列表项产生了错位问题，具体原因未知，可能与设置有关
+
+![6fadc810bd28a900adb2901a71896d7.jpg](https://cdn.pkmer.cn/images/6fadc810bd28a900adb2901a71896d7.jpg!pkmer)
+
+```CSS
+.markdown-rendered .list-collapse-indicator {  
+	padding-right:unset;  
+}
+```

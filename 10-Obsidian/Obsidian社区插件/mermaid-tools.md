@@ -1,13 +1,13 @@
 ---
 uid: 20230518180515
 title: Obsidian 插件：Mermaid Tools 快捷输入工具，降低你输入 Merimad 的难度
-tags: [Obsidian, 插件, Mermaid Tools, Mermaid, 流程图工具, 操作简单直观, 流程图、UML 图, Flowchart 流程图, SequenceDiagram 时序图, ClassDiagram 类图, StateDiagram 状态图, EntityRelationshipDiagram 实体关系图, UserJourneyDiagram 用户旅程图, GanttChart 甘特图, PieChart 饼状图, RequirementDiagram 需求图, GitGraph Git 图表, 自定义元素, 检查语法错误]
+tags: [Obsidian, 插件, 流程图工具]
 description: Obsidian 插件：Mermaid Tools 快捷输入工具，降低你输入 Merimad 的难度
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531200244
+modified: 20230703165356
 ---
 
 # Obsidian 插件：Mermaid Tools 快捷输入工具，降低你输入 Merimad 的难度

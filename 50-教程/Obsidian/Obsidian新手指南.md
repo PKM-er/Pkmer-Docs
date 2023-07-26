@@ -1,13 +1,13 @@
 ---
 uid: 20230412141451
 title: Obsidian 新手指南
-tags: []
+tags:  [obsidain,教程]
 description: Obsidian 新手指南
 author: windilycloud
 type: tutorial
 draft: false
 editable: false
-modified: 20230530231800
+modified: 20230607113434
 ---
 
 # Obsidian 新手指南

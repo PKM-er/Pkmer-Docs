@@ -1,5 +1,5 @@
 ---
-uid: 20230327165523
+uid: 20230327165530
 title: README
 tags: []
 description: Pkmer共建指南，旨在规范协作流程，降低协作成本
@@ -24,12 +24,19 @@ Pkmer，即 `PKM` 和 `er` 的结合，寓意 Personal Knowledge Management 个�
 
 ## 在线阅读
 
-我们搭建了一个网站，阅读体验更好：[文档 🚀 破壳人 (pkmer.cn)](https://pkmer.cn/page/1/)
+我们搭建了一个网站，阅读体验更好：[PKMer 文档 (pkmer.cn)](https://pkmer.cn/page/1/)
 
 ## 其它开源项目
 
 - [PKM-er/Blue-topaz-example: Blue topaz themes example vault for Obsidian](https://github.com/PKM-er/Blue-topaz-example)：一个展现 Obsidian 用法的示例库
 - [PKM-er/Obsidian-Surfing: An Obsidian plugin that lets you browse the web within Obsidian. ](https://github.com/PKM-er/Obsidian-Surfing)：一个在 Obsidian 里浏览网页的 Obsidian 浏览器插件
+
+## 加入交流群
+
+- QQ： 825255377
+- 微信交流群
+  ![image](https://github.com/PKM-er/Pkmer-Docs/assets/42957010/6d2be9bb-362e-4867-97e3-4188050dff20)
+
 
 ## 参与贡献
 
@@ -46,7 +53,3 @@ Pkmer，即 `PKM` 和 `er` 的结合，寓意 Personal Knowledge Management 个�
 特别鸣谢：
 
 - [Ryooo](https://www.zhihu.com/people/rao-yao-47-68)
-
-## 开源协议
-
-[GNU General Public License version 3](https://opensource.org/license/gpl-3-0/)

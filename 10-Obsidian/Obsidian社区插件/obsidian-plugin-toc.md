@@ -1,13 +1,13 @@
 ---
 uid: 20230428142959
 title: Obsidian 插件：Table of content 为你的笔记创建笔记目录
-tags: []
+tags: [Obsidian, 插件, 目录, 笔记目录]
 description: Obsidian 插件：Table of content 为你的笔记创建笔记目录
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230603020035
 ---
 
 # Obsidian 插件：Table of content 为你的笔记创建笔记目录
@@ -59,6 +59,6 @@ ol li:before {
 ```
 
 > [!Tip] 推荐阅读
-> -  [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
-> -   [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
-> -  [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
+> - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
+> - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
+> - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲

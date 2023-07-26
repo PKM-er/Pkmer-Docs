@@ -1,13 +1,13 @@
 ---
 uid: 20230513222807
 title: Obsidian 插件：Optimize Canvas Connections 优化 Canvas 中的连接线
-tags: 
+tags: [Obsidian, 插件, Canvas, 连接线]
 description: Obsidian 插件：Optimize Canvas Connections 优化 Canvas 中的连接线
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230515233928
+modified: 20230604174643
 ---
 
 # Obsidian 插件：Optimize Canvas Connections 优化 Canvas 中的连接线
@@ -21,7 +21,7 @@ Optimize Canvas Connections 是一个功能非常简单的 Canvas 插件，但�
 > [!Note] 插件名片
 > - 插件名称：Optimize Canvas Connections
 > - 插件作者：Félix Chénier
-> - 插件说明：优化 Canvas 中的连接线。
+> - 插件说明：优化 Canvas 中的连接线
 > - 插件项目地址：[点我跳转](https://github.com/felixchenier/obsidian-optimize-canvas-connections)
 
 ## 效果&特性

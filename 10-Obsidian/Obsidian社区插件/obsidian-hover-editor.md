@@ -1,13 +1,13 @@
 ---
 uid: 20230507014507
 title: Obsidian 插件：Hover Editor 通过将悬停弹窗变成一个功能齐全的编辑器
-tags: []
+tags: [Obsidian, 插件, 悬浮窗口, 编辑器]
 description: Obsidian 插件：Hover Editor 通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230530225340
+modified: 20230604172813
 ---
 
 # Obsidian 插件：Hover Editor 通过将悬停弹窗变成一个功能齐全的编辑器

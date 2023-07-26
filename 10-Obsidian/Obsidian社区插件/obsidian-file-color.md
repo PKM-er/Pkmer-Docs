@@ -1,13 +1,13 @@
 ---
 uid: 20230517150916
 title: Obsidian 插件：File Color 让你文件管理多姿多彩
-tags: []
+tags: [Obsidian, 插件, 文件管理, 美化]
 description: Obsidian 插件：File Color 让你文件管理多姿多彩
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517152156
+modified: 20230603022453
 ---
 
 # Obsidian 插件：File Color 让你文件管理多姿多彩

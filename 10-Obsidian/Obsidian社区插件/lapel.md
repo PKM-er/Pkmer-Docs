@@ -1,13 +1,13 @@
 ---
-uid: 20230329145808
+uid: 20230329145819
 title: Obsidian 插件：Lapel 为你显示标题等级
-tags: [Obsidian, 插件, Lapel, 标题, 快捷操作, 显示标题等级]
+tags: [Obsidian, 插件, 标题, 快捷操作, 显示标题等级]
 description: Obsidian 插件：Lapel 为你显示标题等级
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531200229
+modified: 20230604172500
 ---
 
 # Obsidian 插件：Lapel 为你显示标题等级
@@ -44,3 +44,7 @@ modified: 20230531200229
   --heading-marker: "☰";
 }
 ```
+
+> [!Tip] 相关推荐
+> - [[creases]]：给 Obsidian 的标题增加折叠和展开的功能。
+> - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录

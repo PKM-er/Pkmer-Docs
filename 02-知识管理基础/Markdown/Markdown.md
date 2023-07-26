@@ -7,7 +7,7 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20230530232621
+modified: 20230710104110
 ---
 
 # Markdown 基础
@@ -457,6 +457,12 @@ For example, you can embed Twitter tweets like so as suggested by search results
 | Paragraph | Text |
 ```
 
+如果您的表格中存在 `|`，可以使用转义字符 `\` 或者 HTML 实体字符 `&#124;`，如：
+
+有误：`[[ XX/YY/ZZ | 自定义名称 ]]`
+
+修正：`[[ XX/YY/ZZ \ | 自定义名称 ]]` 或 `[[ XX/YY/ZZ &#124; |自定义名称]]`
+
 ### 表格内容对齐
 
 您可以通过在标题行中的连字符的左侧，右侧或两侧添加冒号（`:`），将列中的文本对齐到左侧，右侧或中心。
@@ -480,8 +486,6 @@ For example, you can embed Twitter tweets like so as suggested by search results
 您可以在表格中设置文本格式。例如，您可以添加链接，代码（仅反引号（`` ` ``）中的单词或短语，而不是代码块）和强调。
 
 您不能添加标题，块引用，列表，水平规则，图像或 HTML 标签。
-
-您可以使用表格的 HTML 字符代码（`&#124;`）在表中显示竖线（`|`）字符。
 
 ## 脚注
 
@@ -515,7 +519,21 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 Here's a simple footnote,[^1] and here's a longer one.[^2]
 
-## 实体字符
+## HTML
+
+几乎所有支持 Markdown 的地方都支持 HTML，HTML 可以理解为 Markdown 的超集，你可以做出任何炫酷的样式和排版。常用的包括在 Markdwon 中实现：
+
+- 颜色：`<font color="red">红色文本</font>`
+- 文本对齐： `<p style="text-align: right">右对齐文本</p>`
+- 上下标：`10<sup>-6</sup>`，`H<sub>2</sub>O`
+- 嵌入视频：`<iframe src="视频地址"/>`
+- 第三方 api 嵌入：`<img src="https://contrib.rocks/image?repo=PKM-er/Pkmer-Docs"/>`
+- 可合并的表格
+- ......
+
+总而言之，你几乎可以实现任意文本格式和排版。与之相对的，HTML 的可读性并不是很好，通常是用于网页开发，在笔记中如果不在意这种对人来说不那么优雅的语法，完全可以写 HTML 做笔记。
+
+### 实体字符
 
 在 Markdown 中，字符  `<`、`>`、`"`、`'`  和反引号是特殊字符。它们是 Markdown 语法自身的一部分，那么你如何将这些字符包含进你的文本中呢? 一种方法是转义，即加斜杠 `\<`，另一种办法是使用实体字符即字符引用。
 

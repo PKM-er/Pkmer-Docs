@@ -1,13 +1,13 @@
 ---
-uid: 20230329145808
+uid: 20230329145845
 title: Obsidian 的 CSS 代码片段
-tags: []
+tags: [Obsidian, CSS, snippets, 外观, 主题]
 description: Obsidian 的 CSS 代码片段
 author: OS
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20230601102450
+modified: 20230718232910
 aliases: [Obsidian css代码片段]
 ---
 
@@ -35,27 +35,84 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ### CSS 修改优秀范例
 
+#### ICON
+
+- [[回归原始的Obsidian图标]]
+- [[Obsidian样式-自定义待办图标]]
+
 #### 编辑器
 
-- [[编辑模式下当前行高亮]]
-- [[编辑器高亮格式样式]]
-- [[Callout 样式]]
+- [[Obsidian样式-编辑模式下当前行高亮]]
+- [[Obsidian样式-加粗粗体样式优化]]
+- [[Obsidian美化代码域对编程语言的样式展示]]
+- [[Obsidian样式-Callout样式]]
+- [[自定义选中文本部分高亮颜色]]
+- [[使用CSS-HTML实现分栏]]
+- [[Obsidian样式-笔记页内标题居中]]
+- [[Obsidian样式-分割线样式美化]]
+- [[Obsidian样式-给笔记添加随机背景图]]
+- [[Obsidian样式-段落首行增加缩进]]
+- [[Obsidian样式-美化高亮样式]]
+- [[Obsidian样式-美化行内代码样式]]
+- [[Obsidian样式-引用框样式]]
+- [[Obsidian样式-编辑模式代码块显示行号]]
 
 #### 链接
 
-- [[网址前自动加图标]]
+- [[Obsidian网址前自动加图标]]
+- [[Obsidian样式-修改内链的链接颜色]]
 
 #### 文件管理器
 
-- [[文件浏览器样式]]
+- [[Obsidian样式-文件浏览器样式]]
+- [[Obsidian样式-文件管理名称滚动效果]]
+- [[Obsidain美化-自定义文件夹图标]]
+
+#### 段落
+
+- [[Obsidian样式-如何自定义段落前后间距]]
+- [[Obsidian样式-特殊标签-让Markdown的文本多彩多色]]
+
+#### 列表、待办
+
+- [[Obsidian样式-待办完成样式]]
+- [[Obsidian样式-自定义待办图标]]
+- [[Obsidian样式-待办事项美化复选框]]
+- [[Obsidian样式-自定义大纲缩进线样式]]
+
+#### 引用
+
+- [[Obsidian样式-隐藏块引用ID]]
 
 #### 表格样式
 
-- [[table 样式]]
+- [[Obsidian样式-表格样式简明方法]]
+
+#### 标签样式
+
+- [[Obsidian样式-多彩tag样式]]
+
+### 标签页
+
+- [[Obsidian样式-标签页Tab样式]]
+
+#### 白板（Canvas）
+
+- [[Obsidian样式-canvas白板卡片中文字居中]]
+- [[Obsidian样式-Canvas样式的修改及增强卡片的显示效果]]
+
+#### dataview
+
+- [[Obsidian样式-建立书籍电影的卡片化视图]]
+
+#### 移动端
+
+[[通过css在移动端右下角添加源码和阅读转换按钮]]
 
 #### 插件样式
 
-- [[calendar 插件的样式修改]]
+- [[Obsidian-calendar插件的样式修改]]
+- [[DataView在table视图下标签出现错位断裂的修复]]
 
 ## 自定义 CSS 简单上手指南
 

@@ -1,13 +1,13 @@
 ---
-uid: 20230329145808
+uid: 20230329145824
 title: Obsidian 插件：Advanced URI 的功能增强
-tags: [Obsidian, 插件, uri, 增强]
+tags: [Obsidian, 插件, 增强]
 description: Obsidian URI 的功能增强
 author: asureading
 type: other
 draft: false
 editable: false
-modified: 20230530224948
+modified: 20230603021749
 ---
 
 # Obsidian 插件：Advanced URI 的功能增强

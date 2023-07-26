@@ -1,13 +1,13 @@
 ---
 uid: 20230517223023
 title: Obsidian 插件：Focus Mode 增加专注模式让你聚焦书写
-tags: []
+tags: [Obsidian, 插件, 全屏模式, 专注模式]
 description: Obsidian 插件：Focus Mode 增加专注模式让你聚焦书写
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230526190959
+modified: 20230604172746
 ---
 
 # Obsidian 插件：Focus Mode 增加专注模式让你聚焦书写

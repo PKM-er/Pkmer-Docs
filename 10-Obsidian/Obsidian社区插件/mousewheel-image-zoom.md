@@ -1,7 +1,7 @@
 ---
 uid: 20230524230942
 title: Obsidian 插件：Mousewheel Image zoom 通过鼠标滚轮快速调整图片大小
-tags: [Obsidian, 插件, Mousewheel Image zoom, 编辑工具, 效率, 快速调整图片大小]
+tags: [Obsidian, 插件, 编辑工具, 效率, 快速调整图片大小]
 description: Obsidian 插件：Mousewheel Image zoom 通过鼠标滚轮快速调整图片大小
 author: OS
 type: basic

@@ -1,13 +1,13 @@
 ---
 uid: 20230601164111
 title: Obsidian 插件：Emoji Magic 快速搜索 emoji 表情符号，轻松添加到笔记中
-tags: [Obsidian, 插件, Emoji Magic, 快速搜索, emoji, 表情符号]
+tags: [Obsidian, 插件, 快速搜索, emoji, 表情符号]
 description: Obsidian 插件：Emoji Magic 快速搜索 emoji 表情符号，轻松添加到笔记中
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230601171813
+modified: 20230604172400
 ---
 
 # Obsidian 插件：Emoji Magic 快速搜索 emoji 表情符号，轻松添加到笔记中

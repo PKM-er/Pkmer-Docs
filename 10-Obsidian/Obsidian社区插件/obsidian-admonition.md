@@ -1,13 +1,13 @@
 ---
 uid: 20230504102443
 title: Obsidian 插件：Admonition 你可以自己定义各种增强块样式，比如警告，笔记，提醒等
-tags: []
+tags: [Obsidian, 插件, 自定义, 美化, 增强块样式]
 description: Obsidian 插件：Admonition 你可以自己定义各种增强块样式，比如警告，笔记，提醒等
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230530224937
+modified: 20230604172542
 ---
 
 # Obsidian 插件：Admonition 你可以自己定义各种增强块样式，比如警告，笔记，提醒等

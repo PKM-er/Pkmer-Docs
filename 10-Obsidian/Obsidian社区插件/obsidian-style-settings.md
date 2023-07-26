@@ -1,16 +1,16 @@
 ---
 uid: 20230414151116
-title: Obsidian 插件：Style settings 为你的主题添加更多自定能力
-tags: []
-description: Obsidian 插件：Style settings 为你的主题添加更多自定能力
+title: Obsidian 插件：Style settings 为你的主题添加更多自定义能力
+tags: [Obsidian, 插件, 主题]
+description: Obsidian 插件：Style settings 为你的主题添加更多自定义能力
 author: Cuman
 type: other
 draft: false
 editable: false
-modified: 20230530225828
+modified: 20230604174507
 ---
 
-# Obsidian 插件：Style settings 为你的主题添加更多自定能力
+# Obsidian 插件：Style settings 为你的主题添加更多自定义能力
 
 ## 概述
 

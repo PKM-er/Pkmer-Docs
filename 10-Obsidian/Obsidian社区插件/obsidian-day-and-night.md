@@ -1,13 +1,13 @@
 ---
 uid: 20230509144614
 title: Obsidian 插件：Day and Night 根据设定的时间自动切换浅色和深色主题
-tags: []
+tags: [Obsidian, 插件, 美化, 浅色主题, 深色主题]
 description: Obsidian 插件：Day and Night 自动切换明亮主题
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230516111936
+modified: 20230604172630
 ---
 
 # Obsidian 插件：Day and Night 根据设定的时间自动切换浅色和深色主题

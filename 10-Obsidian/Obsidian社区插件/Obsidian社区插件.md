@@ -1,13 +1,13 @@
 ---
-uid: 20230329145808
+uid: 20230329145807
 title: Obsidian 社区插件
-tags: []
+tags: [Obsidian, 社区插件]
 description: Obsidian 社区插件推荐，优秀插件介绍和使用方法
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230601170215
+modified: 20230725235100
 ---
 
 # Obsidian 社区插件
@@ -63,13 +63,13 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 - [[frontmatter-alias-display]]：让你在文件名下直接看到别名
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
+- [[obsidian-codemirror-options]]：
 
 ### 编辑增强
 
 这些插件可直接优化或提升 Obsidian 笔记编辑的用户体验。它们一般会直接应用于笔记编辑窗口，使 Obsidian 的操作界面更加直观、可视化，从而提升用户的使用体验。许多插件中还集成了 callout、可视化操作及浮动目录等功能，让你更容易地浏览、查看和编辑笔记内容。所有这些特性的集成对于 Obsidian 用户来说，可以让用户的操作过程变得更为简单、直观，同时也增加了对用户的使用体验的提升。
 
 - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
-- [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
 - [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
 - [[obsidian-comments]]：为笔记增加批注或评论。
 - [[highlightr-plugin]]：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
@@ -79,10 +79,22 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
+- [[typewriter-mode]]：使光标所在行始终处于屏幕某处，降低用 Obsidian 写中长文时用鼠标滚动调整页面的频繁
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
+- [[longform]]：一款专为写作者和写作团队而设计的插件。它可以帮助用户创建和管理大型文学项目，例如书籍、小说、论文等。它可以将大文本拆分成更小的部分，例如章节、段落和场景，并提供基本编辑和组织工具。
+- [[editor-width-slider]]：允许你在状态栏中使用滑块来快速调整编辑器的行宽/栏宽
 - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
+- [[obsidian-chat-view-qq]]：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
+- [[cm-show-whitespace-obsidian]]：在编辑器中显示空白和制表符
+
+### Callout 相关
+
+- [[Obsidian如何制作多栏布局]]
+- [[Obsidian能像其他笔记样分栏嘛]]
+- [[obsidian-columns]]：支持多种方式来设定分栏目
+- [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
 
 ### 标题增强
 
@@ -99,27 +111,37 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
 - [[mousewheel-image-zoom]]： 能够通过按住可配置键（默认为左 alt），在编辑/阅读模式下通过滚轮来调节图像的大小
+- [[obsidian-image-caption]]：为你笔记中的图片添加标题、说明
+- [[在Obsidian中为图片添加注释]]：社区实践多种方法解决图片注释问题
+- [[Obsidian如何生成和美化目录]]
 
 ### 目录和大纲类
 
 这些插件和大纲、目录有关，它们提供了：快速生成大纲、目录；快速定位目录；快速修改挪动不同笔记标题下内容的能力。活用这些插件，有助于我们更好的组织和梳理自己笔记的核心脉络。
 
+如果你对大纲和目录希望快速了解是否适合你，可以看这篇横向对比 [[Obsidian如何生成和美化目录]]
+
 - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
 - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
 - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样
 - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
-- [[obsidian-outliner]]
-- [[obsidian-zoom]]：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。
+- [[obsidian-outliner]]：为 Obsidian 的大纲添加快捷操作
+- [[obsidian-zoom]]：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容
+- [[automatic-list-styles]]：不借用主题和 css 片段前提下。来实现有序列表，增加不同的层级的前缀符号样式
+- [[list-style]]：在文本行内通过标准的 list style typs，来实现有序列表的多种不同的层级、样式的前缀符号样式。
 
-### 日期&提醒&任务类
+### 任务类&提醒
 
 这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
 
+- [[obsidian-memos]]：提供一个简易轻巧的笔记和灵感收集方式
+- [[Obsidian插件技巧-Memos和Reminder高效管理突发及琐碎待办]]
+- [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
-- [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
-- [[obsidian-tasks-plugin]]
+- [[obsidian-tasks-plugin]]：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
+- [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 - [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
 - [[obsidian-task-progress-bar]]
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
@@ -128,6 +150,11 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 - [[tasks-calendar-wrapper]]：完美的时间线/日历视图的任务面板展示
 
+### 日期&时间
+
+- [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
+- [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
+
 ### 搜索
 
 对于那些每天需要处理大量信息和笔记的用户来说，搜索是一个不可或缺的工具。为了满足用户不同的需求，在 Obsidian 中推出了多个强大的搜索插件，方便用户快速、准确地查找和管理笔记。这些插件操作简单、功能多样，可以根据关键字、标签、时间戳等多种方式进行搜索，快速定位笔记。此外，某些插件还支持高级搜索、全文搜索、模糊搜索等功能，让你更加轻松地处理大量信息和笔记。
@@ -135,6 +162,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[fuzzy-chinese-pinyin]]：基于汉语拼音进行模糊搜索
 - [[search-on-internet]]：快速在搜索引擎中搜索笔记内容
 - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
+- [[obsidian-better-command-palette]]：为命令面板添加了一个更用户友好、功能更丰富的强化
+- [[smart-connections]]：该插件增强了核心插件 - 笔记漫游的功能
 
 ### 脚注&引用
 
@@ -144,6 +173,9 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 在 Obsidian 中，链接是笔记之间和笔记与外部资源之间重要的互动方式，链接的使用体验影响着用户在查找、组织和浏览笔记时的效率和舒适度。为了增强链接的使用体验，Obsidian 提供了多种链接管理插件。这些插件可以帮助用户进行链接的猜测和提取、显示链接对应的网站图标、提高链接的美观性和可读性。
 
+- [[obsidian-advanced-uri]]：Obsidian URI 的功能增强
+- [[obsidian-advanced-uri-青年与禅师的技术尬聊]]
+- [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]
 - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
 - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
@@ -152,6 +184,11 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：自动将链接变成卡片样式
+
+### 导出
+
+- [[obsidian-export-image]]：轻松将笔记转换为图片
+- [[pandoc 插件导出 word 格式 正确识别本地图片]]
 
 ### 阅读和 PDF
 
@@ -175,9 +212,12 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-sortable]]：提供搜索 Obsidian 设置和插件设置选项的能力
 - [[table-editor-obsidian]]：改进了表格导航、格式和操作
 - [[obsidian-excel-to-markdown-table]]：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
+- [[obsidian-echarts]]：一个可以在 obsidian 里运行 echarts 的插件，具体可以参考官方示例库代码。插件需要依赖 dataview 插件
 
-### 脑图
+### 白板（canvas）和脑图
 
+- [[canvas-presentation]]：帮助你根据顺序演示白板中的卡片
+- [[optimize-canvas-connections]]：优化 Canvas 中的连接线
 - [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图
 - [[obsidian-enhancing-mindmap]]：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 
@@ -217,16 +257,20 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
 - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
 - [[obsidian-meta-bind-plugin]]：让你的笔记具有交互性，通过各种控件修改笔记信息
+- [[metadata-menu]]：图形化方便修改 YAML 值的一个工具
+- [[obsidian-state-switcher]]：Yaml Manager 避免直接修改 Yaml 区字段，让 frontmatter 修改变得简单
 
 ### 自动化&效率
 
 Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐渐壮大起来的插件生态圈。这些卓越的插件不仅增强了 Obsidian 的功能，而且可以在很大程度上提高你的工作和学习效率，让你从繁琐，重复的码字过程中解脱出来。相信这些插件能够帮助你更高效、便捷地管理和利用笔记，让你的学习、工作和生活更加舒适顺畅。相信下面这些插件能帮到你：
 
 - [[templater-obsidian]]：可以替代核心模板插件的效率神器
-- [[QuickAdd]]：组合 Obsidian 里所有操作，低阶使用可可视化自动化操作，高阶使用可编写脚本实现万物互联
+- [[Templater实现关键词自动化套用模板]]
+- [[quickadd]]：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
+- [[various-complements]]：这个 Obsidian 插件让你能够自动完成完成单词，和自定义内容的输入。
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
+- [[auto-note-mover]]：可以自动将笔记根据规则，移动到各自的文件夹中
 - [[obsidian-auto-template-prompt]]：在创建文件时自动打开一个命令窗口让你插入模板。
-- [[file-order]]：允许你快速给文件夹的文件加上数字编号
 - [[obs-text-wrapper]]：给选中文本加上 HTML 标签
 - [[obsidian-wrap-with-shortcuts]]：给选中文本加上自定义前后缀标签
 - [[obsidian-dice-roller]]：在文档任意地方生成需要随机的内容，这些随机的候选项可以你来定义
@@ -250,16 +294,10 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 - [[obsidian-icons-plugin]]：提供插入图标符号的功能。
 - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
+- [[emoji-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入
 - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
 - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换
 - [[emoji-magic]]：允许使用关键字搜索 emoji 表情符号，轻松添加到笔记中
-
-### 统计类
-
-- [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
-- [[better-word-count]]：
-- [[file-explorer-note-count]]：增加文件数量统计功能
-- [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
 
 ### 美化
 
@@ -276,6 +314,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
 - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
 - [[obsidian-file-color]]：让你文件管理多姿多彩
+- [[obsidian-chat-view-qq]]：chat-view-qq 保存 QQ 消息到 Obsidian 中
 
 ### 文件管理类
 
@@ -284,11 +323,41 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[file-tree-alternative]]：提供了一个全新的增强型文件管理器
  - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
  - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
+ - [[file-order]]：允许你快速给文件夹的文件加上数字编号
  - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
  - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
  - [[recent-files-obsidian]]：显示最近打开的文件列表
  - [[obsidian-gallery]]：让你的笔记变成画廊
  - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+ - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
+ - [[hidden-folder-obsidian]]：在文件管理器中快速隐藏文件夹
+ - [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
+ - [[hidden-folder-obsidian]]：快速隐藏文件夹
+ - [[obsidian-trash-explorer]]：让你可以管理 Obsidian 的 .trash 文件夹（也叫软件回收站），从中恢复和删除文件
+
+### 附件管理工具
+
+- [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
+- [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
+- [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+- [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
+- [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
+- [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
+- [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
+- [[open-with]]：允许你通过在 Obsidian 中使用其他软件，打开笔记中常见格式文件
+
+### 学习
+
+- [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
+- [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容
+- [[blindfold-obsidian]]：实现了不依赖主题，和示例库的方法，来制作答案的隐藏和展示
+
+### 统计类
+
+- [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
+- [[better-word-count]]：
+- [[file-explorer-note-count]]：增加文件数量统计功能
+- [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
 
 ### 标签页管理
 
@@ -303,14 +372,10 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
 - [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
 
-### 工具
+### 管理工具
 
-- [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
-- [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
-- [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
-- [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
-- [[obsidian42-brat]]：让你可以安装未上架的插件，主题
-- [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
+- [[obsidian-plugin-groups]]：帮你轻松地分组和管理 Obsidian 第三方插件，启动关闭，加载插件
+- [[obsidian42-brat]]：让你可以安装未上架的插件、主题
 
 ### 语言
 
@@ -318,8 +383,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 - [[obsidian-markdown-furigana]]：日文学习如何增加假名
 - [[japanese-word-splitter]]：添加支持日语分词
-- [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
-- [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容
 
 ### 插入预览
 
@@ -341,3 +404,10 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 ### AI 相关
 
 - [[obsidian-textgenerator-plugin]]：使用 OpenAI 的模型进行文本生成
+- [[copilot]]：一个能像 chatGPT 网页版对话的 Obsidian AI 插件
+- [[smart-connections]]：基于 OpenAI 提供的 api 查询本地库，推荐笔记链接，分析笔记相关性
+- [[companion]]：以类似微软 Copilot 的交互方式，基于文本生成 AI 进行文本自动补全
+
+### 分享&发布
+
+- [[html-server]]：帮你把 Obsidian 仓库作为一个 web 服务器，同时保持你的主题，并确保你的图像和文件链接的工作

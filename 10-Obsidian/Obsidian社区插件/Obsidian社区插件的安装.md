@@ -1,13 +1,13 @@
 ---
-uid: 20230329145808
+uid: 20230329145846
 title: Obsidian 社区插件的安装
-tags: []
+tags: [Obsidian, 社区插件, 安装, 基础使用]
 description: Obsidian 社区插件的安装，社区插件安装教程，第三方插件安装方法
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233351
+modified: 20230703155408
 ---
 
 # Obsidian 社区插件的安装

@@ -1,13 +1,13 @@
 ---
-uid: 20230329102645
+uid: 20230329102648
 title: 插件新闻
-tags: 
+tags: []
 description: Obsidian 插件新闻
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230530230557
+modified: 20230621183146
 ---
 
 # 插件新闻

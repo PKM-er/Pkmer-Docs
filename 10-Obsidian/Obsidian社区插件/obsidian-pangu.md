@@ -1,13 +1,13 @@
 ---
 uid: 20230503001315
 title: Obsidian 插件：盘古 PanGu 快速格式化文档
-tags: []
+tags: [Obsidian, 插件, 盘古, 格式化, 效率, 文档格式化]
 description: Obsidian 插件：盘古 PanGu 快速格式化文档
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233929
+modified: 20230715000803
 ---
 
 # Obsidian 插件：盘古 PanGu 快速格式化文档

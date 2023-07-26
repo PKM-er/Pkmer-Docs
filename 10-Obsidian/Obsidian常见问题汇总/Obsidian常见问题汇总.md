@@ -1,13 +1,13 @@
 ---
 uid: 20230411155729
 title: Obsidian 常见问题汇总
-tags: [Obsidian, 常见问题, 汇总, 基础操作, 主题，样式，编辑， 显示]
-description: Obsidian 常见问题汇总
-author: Pkmer
-type: other
+tags: [Obsidian, 常见问题]
+description: Obsidian 常见问题汇总,包含ob的启动，安装，使用，主题常见的问题解答
+author: PKMer
+type: awesome
 draft: false
 editable: false
-modified: 20230601195708
+modified: 20230622163351
 ---
 
 # Obsidian 常见问题汇总
@@ -17,6 +17,13 @@ modified: 20230601195708
 遇到问题时，希望我们在这里为你整理的汇总内容，能够切实的解决困难，当然也欢迎你们加入 PKMer 的交流群（微信、QQ），提出你自己的见解和问题。
 
 我们相信，无论您是新手还是老手，在经过一些练习和摸索后，都能够掌握使用该软件所需的技能和技巧，并在其中体验到乐趣和便捷。
+
+## 知识管理
+
+### 笔记组织
+
+- [[Obsidian基础操作问题#什么候使用文件夹，什么时候使用标签，什么时候使用链接，什么时候使用 MOC？]]
+- [[Obsidian基础操作问题#科学的笔记体系有哪些要注意的点]]
 
 ## 安装
 
@@ -39,17 +46,20 @@ modified: 20230601195708
 在我们提供的描述中，我们力求让每个问题简单易懂，并提供最简单和最实用的解决方案，使您可以快速了解并掌握其所需的技能和知识。因此，无论您是新手或老手，都可以轻松地学习并使用 Obsidian，从而获得更好的使用体验和提高生产力。
 
 - [[Obsidian基础操作问题#如何收起文件列表 左侧侧边栏 左侧面板]]
+- [[Obsidian基础操作问题#Obsidian 的文件管理器、文件列表不见了]]
 - [[Obsidian基础操作问题#Ribbon 区域图标调整方法]]
 - [[Obsidian基础操作问题#重启 Obsidian 的方法]]
 - [[Obsidian基础操作问题#Obsidian 多个仓库间可以公用一套配置]]
 - [[Obsidian基础操作问题#Obsidian 最小到托盘的方法]]
 - [[Obsidian基础操作问题#快速跳回笔记开头或结尾位置]]
-- [[obsidian基础操作问题#Obsidian 为什么不能重命名文件名]]
+- [[Obsidian基础操作问题#Obsidian 为什么不能重命名文件名]]
+- [[Obsidian基础操作问题#不使用键盘，点击文件名在新面板打开]]
 
 ## 显示&输入
 
 下面的内容将为您介绍 Obsidian 的显示和输入问题的基础操作。帮助您解决显示和输入问题，并实现更加高效和舒适的编辑体验。我们相信，掌握了这些基础操作问题，您将可以更好地使用 Obsidian 并提高工作效率。
 
+- [[Obsidian基础操作问题#Obsidian 如何开启或关闭大纲/有序列表的缩进线]]
 - [[Obsidian基础操作问题#Obsidian 中如何在正文内显示文件标题]]
 - [[Obsidian基础操作问题#加粗后无法正常显示]]
 - [[Obsidian基础操作问题#表格字符无法正常显示]]
@@ -65,9 +75,13 @@ modified: 20230601195708
 - [[Obsidian基础操作问题#Obsidian 文件列表的提示功能可以关闭吗]]
 - [[Obsidian基础操作问题#Obsidian 复制代码到代码块，缩进消失]]
 
+## 输出&导出
+
+- [[Obsidian基础操作问题#怎么把 md 文档导出为图片]]
+
 ## 搜索
 
-[[Obsidian基础操作问题#如何搜索带有 HTML 的内容]]
+- [[Obsidian基础操作问题#如何搜索带有 HTML 的内容]]
 
 ## 编辑
 
@@ -77,6 +91,7 @@ modified: 20230601195708
 - [[Obsidian基础操作问题#Obsidian 中实现标题自动编号，像 Word 一样]]
 - [[Obsidian基础操作问题#Obsidian 如何实现记住上次文档编辑或阅读的位置]]
 - [[Obsidian基础操作问题#Obsidian 如何批量、快速管理标签 Tag]]
+- [[Obsidian基础操作问题#如何让有序列表自动编号]]
 
 ## 文件操作
 
@@ -84,34 +99,50 @@ modified: 20230601195708
 - [[Obsidian基础操作问题#Obsidian 如何批量移动多个文件]]
 - [[Obsidian基础操作问题#Obsidian 有没有快速删除图片的方法]]
 
-## 关系图谱
+## 移动端
 
-- [局部关系图如何显示在本地或者软件界面上](Obsidian基础操作问题#局部关系图如何显示在本地或者软件界面上)
-- [局部关系图如何展示自己发布的网页上](Obsidian基础操作问题#局部关系图如何展示自己发布的网页上)
-- [为什么 Obsidian 的关系图谱不显示连接线](Obsidian基础操作问题#为什么%20Obsidian%20的关系图谱不显示连接线)
+- [[Obsidian基础操作问题#Obsidian 在手机上如何插入手机中的图片]]
+- [[Obsidian基础操作问题#Obsidian 手机端的笔记库无法打开]]
 
 ## 核心插件
+
+### 模板插件
+
+- [[Obsidian插件常见问题#如何快速插入当前日期/时间]]
+
+### 日记
+
+- [[Obsidian插件常见问题#每天打开 Obsidian 自动添加一个日记]]
+
+### 关系图谱
+
+- [[Obsidian基础操作问题#局部关系图如何显示在本地或者软件界面上]]
+- [[Obsidian基础操作问题#局部关系图如何展示自己发布的网页上]]
+- [[Obsidian基础操作问题#为什么 Obsidian 的关系图谱不显示连接线]]
 
 ## 社区插件
 
 ### 基础问题
 
-- [如何打开社区插件](Obsidian插件常见问题#如何打开社区插件)；
-- [插件社区不能加载](Obsidian插件常见问题#插件社区不能加载)
-- [插件下载后不能启用](Obsidian插件常见问题#插件下载后不能启用)
+- [[Obsidian插件常见问题#如何打开社区插件]]
+- [[Obsidian插件常见问题#插件社区不能加载]]
+- [[Obsidian插件常见问题#插件下载后不能启用]]
 
 ### 插件兼容和使用
 
-- [打开 Calendar 后侧边栏不显示对应图标](Obsidian插件常见问题#打开%20Calendar%20后侧边栏不显示对应图标)
-- [为什么 Obsidian 的头图 或者 banners 插件显示异常](Obsidian插件常见问题#为什么%20Obsidian%20的头图%20或者%20banners%20插件显示异常)
+- [[Obsidian插件常见问题#打开 Calendar 后侧边栏不显示对应图标]]
+- [[Obsidian插件常见问题#为什么 Obsidian 的头图 或者 banners 插件显示异常]]
 - [[Obsidian插件常见问题#Obsidian 插件 Excalidraw 的橡皮擦在哪里]]
 - [[Obsidian插件常见问题#数字后面的中文字词会重复两次]]
 - [[Obsidian插件常见问题#备忘录 Memos 无法启动打开？]]
+- [[Obsidian插件常见问题#开 React Components 这个插件会导致白板（canvas）异常]]
 
 ## 主题
 
-### Bluetopz 主题和 BT 示例库
+### Bluetopaz 主题和 BT 示例库
 
+- [[Obsidian主题常见问题#使用主题后，文件管理器，不同级的文件夹和文件缩进一样]]
+- [[Obsidian主题常见问题#鼠标指向插入的图片时，鼠标指针变化样式]]
 - [[Obsidian主题常见问题#如何获取指定地区的天气？]]
 - [[Obsidian主题常见问题#如何更换字体？]]
 - [[Obsidian主题常见问题#如何更换 Ob 背景图？]]
@@ -123,3 +154,17 @@ modified: 20230601195708
 - [[Obsidian主题常见问题#为什么在 style setting 下切换配色没什么效果]]
 - [[Obsidian主题常见问题#如何移植动画版天气到自己的主页？并获取指定城市天气]]
 - [[Obsidian主题常见问题#如何取消开启 Ob 自动加载主页，我想打开 ob 出现上次关闭时的笔记？]]
+
+## 购买和捐赠
+
+- [[Obsidian基础操作问题#Obsidian 购买和捐赠一览表]]
+
+## 第三方工具
+
+### iCloud
+
+- [[Obsidian插件常见问题#求问怎么让 iCloud 里显示 .obsidian 文件夹？（默认似乎是不显示的）]]
+
+### Syncthing
+
+-[[Obsidian插件常见问题#Syncthing 如何忽略文件]]

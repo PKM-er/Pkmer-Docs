@@ -1,7 +1,7 @@
 ---
 uid: 20230529232916
 title: Obsidian 笔记信息挖掘
-tags: []
+tags:  [obsidain,教程]
 description: Obsidian 笔记信息挖掘
 author: Ryooo
 type: tutorial

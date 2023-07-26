@@ -1,13 +1,13 @@
 ---
 uid: 20230529233124
 title: Obsidian 使用案例展示
-tags: []
+tags:  [obsidain,教程]
 description: Obsidian 使用案例展示
 author: Ryooo
 type: tutorial
 draft: false
 editable: false
-modified: 20230530231943
+modified: 20230624003703
 ---
 
 # Obsidian 使用案例展示

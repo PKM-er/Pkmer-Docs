@@ -1,7 +1,7 @@
 ---
 uid: 20230525153033
 title: Obsidian 插件：Second Window 使用新窗口中打开图像和笔记
-tags: [Obsidian, 插件, Second Window, 新窗口, 多窗口管理]
+tags: [Obsidian, 插件, 新窗口, 多窗口管理]
 description: Obsidian 插件：Second Window 使用新窗口中打开图像和笔记
 author: OS
 type: basic

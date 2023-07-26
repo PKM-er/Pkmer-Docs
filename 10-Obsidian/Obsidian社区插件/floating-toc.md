@@ -1,8 +1,8 @@
 ---
-uid: 20230329145808
+uid: 20230329145817
 title: Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
-tags: [Obsidian, 插件, 目录, 笔记目录, 悬浮目录, Floating TOC, 悬浮标题目录, 自动同步高亮滚动位置, 折叠/展开目录]
-description: Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录
+tags: [Obsidian, 插件, 目录, 悬浮目录]
+description: Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录,自动同步高亮滚动位置, 折叠/展开目录
 author: OS
 type: other
 draft: false
@@ -30,7 +30,7 @@ Floating Toc 插件能实现悬浮目录。悬浮目录的效果近似你在其�
 - 可以在编辑模式，阅读模式下运行
 - 录跟踪当前滚动的位置，并同步高亮显示
 - Ctrl + 鼠标左键点击目录，可以折叠/展开当前目录。
-- 支持 [[多窗口模式]]
+- 支持 [[窗口管理]]
 
 ## 安装
 

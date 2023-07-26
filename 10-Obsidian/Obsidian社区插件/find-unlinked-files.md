@@ -1,7 +1,7 @@
 ---
-uid: 20230329145808
+uid: 20230329145816
 title: Obsidian 插件：Find unlinked files 快速查找没有链接的文件
-tags: [Obsidian, 插件, Find unlinked files, 文件管理, 失效链接, 笔记]
+tags: [Obsidian, 插件, 文件管理, 失效链接, 笔记]
 description: Obsidian 插件：Find unlinked files 快速查找没有链接的文件
 author: OS
 type: other
@@ -46,3 +46,10 @@ modified: 20230531200112
 - 添加忽略使用链接的文件
 - 添加忽略特定文件类型
 - 可以自定义输出整理未链接文件列表的名字，方便你查找
+
+> [!Tip] 相关推荐
+> - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
+> - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
+> - [[nl-fast-image-cleaner]]：快速删除笔记中图片和引用链接
+> - [[oz-clear-unused-images]]：清除笔记中不再使用的图像以节省空间
+> - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作

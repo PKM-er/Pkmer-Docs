@@ -3,11 +3,11 @@ uid: 20230504113543
 title: Obsidian 插件：Novel word count 增加统计信息
 tags: [Obsidian, 插件, 统计, 自定义]
 description: Obsidian 插件：Novel word count 增加统计信息
-author: OS
+author: OS,却能火里种金莲
 type: other
 draft: false
 editable: false
-modified: 20230530224655
+modified: 20230718135143
 ---
 
 # Obsidian 插件：Novel word count 增加统计信息
@@ -57,17 +57,36 @@ modified: 20230530224655
 
 7.调试模式。启用开发者控制台的调试输出，这在您需要报告问题时可能非常有用。
 
+![Snipaste_2023-07-18_13-18-09.png](https://cdn.pkmer.cn/images/Snipaste_2023-07-18_13-18-09.png!pkmer)
+
 ### 支持的统计数据项
 
-- 字数统计
-- 页面数统计
-- 页面数（小数）
-- 字符数统计
-- 笔记数量统计
-- 创建日期
-- 最后更新日期
-- 文件大小
+- 字数统计（**Word count:**）
+- 页面数统计（**Page count**）：总计页数默认情况下，一页为 300 个单词。要更改此设置，请参阅高级>页面计数方法。
+- 页面数（小数）（**Page count**）
+- 字符数统计（**Character count**）
+- 笔记数量统计（**Note count**）
+- 创建日期（**Created date**）：记录笔记创建的日期。
+	- 在文件夹上，以文件夹中所有笔记的最早创建日期为准。
+- 最后更新日期（**Last updated date**）：笔记最后更新的日期
+	- 在文件夹上，以该文件夹中所有笔记中最新编辑日期为准。
+- 文件大小（**File size**）：所有文件存储大小之合；
+- 别名（**First alias**）：显示别名
+	- 如果没有则不会显示任何内容。由于文件夹没有别名，所以它们也不会显示任何内容。
+- 插入 Embed 资源统计（**Embed count**）：通过 Embed 方式嵌入的图像、文件、注释等数量。
+- 链接数量（**Link count**）【暂不支持反向链接】
+	- 文件夹后缀是 2n，代表有两个笔记。其中“未命名”主动链接了“实例文件”，后缀 1x，代表 1 个主动链接。
 
-> [!Tip] 推荐阅读
-> - [[better-word-count]]：
-> - [[file-explorer-note-count]]：增加文件数量统计功能
+ ![Snipaste_2023-07-18_13-17-55.png](https://cdn.pkmer.cn/images/Snipaste_2023-07-18_13-17-55.png!pkmer)
+
+>[!Tip] 关联推荐
+> - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
+> - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
+> - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
+> - [[recent-files-obsidian]]：显示最近打开的文件列表
+> - [[obsidian-gallery]]：让你的笔记变成画廊
+> - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
+> - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
+> - [[hidden-folder-obsidian]]：在文件管理器中快速隐藏文件夹
+> - [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
+> - [[hidden-folder-obsidian]]：快速隐藏文件夹
