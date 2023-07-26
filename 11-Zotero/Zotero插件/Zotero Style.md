@@ -9,8 +9,7 @@
 
 1. 打开es[官网](https://www.easyscholar.cc/)
 2. 注册登录
-3. 根据自己需求决定是否付费。
-
+3. 根据自己需求决定是否付费
 
 ![es定价](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/0c661229-ce27-4293-8b4f-9132bf991e17)
 
