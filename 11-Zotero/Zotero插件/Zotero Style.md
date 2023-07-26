@@ -54,7 +54,9 @@ Zotero.Prefs.set(
 10. 我的配置如下
 
 `Fileds`: `sciwarn, sci, sciif5, cssci, xju`
+
 `Map`: `北大中文核心=北核, SCIIF=IF, SCIIF(5)=IF(5), SCI基础版=中科院,`
+
 `Rank Colors`: `#ffe2dd, #e8deee, #dbeddb, #fadec9, #e9e8e7`
 
 ![image](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/0dbaea52-a9a0-4384-80f8-39de276a369f)
