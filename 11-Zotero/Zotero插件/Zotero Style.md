@@ -4,7 +4,7 @@
 
 ## 常见问题
 
-### 期刊标签不显示
+### 1.期刊标签不显示
 > 期刊标签现需要配置easyScholar密钥（以前不需要）
 
 1. 打开es[官网](https://www.easyscholar.cc/)
@@ -74,13 +74,18 @@ Zotero.Prefs.set(
 
 ![image](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/1befe2d9-c1d6-433d-a127-2ac47f62b1e9)
 
-### 评级乱码
+### 2.评级乱码
 
 ![image](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/787d3303-c47e-490c-93c1-36bf85e90405)
 
 红框内右键，点击列设置，修改Mark和Option内容即可。
 
 我的配置：🐇 🥕
+
+### 3.全文翻译配置
+
+全文翻译虽然是`Zotero Style`的功能，但它基于`Zotero PDF Translate`和`Zotero Better Notes`插件。
+所以上述三个插件都需要安装。
 
 
 
