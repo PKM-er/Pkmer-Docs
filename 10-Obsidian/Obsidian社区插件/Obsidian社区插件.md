@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230727000955
+modified: 20230727122514
 ---
 
 # Obsidian 社区插件
@@ -352,6 +352,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
 - [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容
 - [[blindfold-obsidian]]：实现了不依赖主题，和示例库的方法，来制作答案的隐藏和展示
+- [[外语书阅读工作流]]：介绍了阅读和学习工作流外，配合 Spaced Repetition Recall 插件的使用方法
 
 ### 统计类
 
