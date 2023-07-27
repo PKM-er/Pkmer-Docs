@@ -1,16 +1,16 @@
 ---
 uid: 20230726233220
-title: Obsidian 插件：Badges 给你喜欢的文章增加好看的徽章样式
+title: Obsidian 插件：Badges 给你的笔记增加好看的徽章样式
 tags: [Obsidian, 插件, 徽章, 自定义样式, 美化]
-description: Obsidian 插件：Badges 给你喜欢的文章增加好看的徽章样式，：一个简易插件，通过内置的样式来在 Obsidian 中获得简易的徽章效果
+description: Obsidian 插件：Badges 给你的笔记增加好看的徽章样式，：一个简易插件，通过内置的样式来在 Obsidian 中获得简易的徽章效果
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230727000847
+modified: 20230727115401
 ---
 
-# Obsidian 插件：Badges 给你喜欢的文章增加好看的徽章样式
+# Obsidian 插件：Badges 给你的笔记增加好看的徽章样式
 
 ## 概述
 
