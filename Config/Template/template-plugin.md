@@ -1,12 +1,12 @@
 ---
 uid: 
-title: advanced-mathematics: 
-tags: [math,advanced-mathematics,calculus]
-description: advanced-mathematics, calculus, etc.
-author: Cyletix
-type: other
-draft: true
-editable: true
+title: Obsidian 插件：
+tags: 
+description: 
+author: 
+type: basic
+draft: false
+editable: false
 modified: 
 ---
 
