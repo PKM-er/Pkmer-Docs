@@ -7,7 +7,7 @@ author: Boninall
 type: other
 draft: false
 editable: false
-modified: 20230715135453
+modified: 20230724105051
 ---
 
 # Obsidian 插件：Dataview
@@ -19,6 +19,10 @@ modified: 20230715135453
 > 插件版本：0.5.55
 > 插件源码地址：[obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
 > 插件文档地址：[Dataview Doc](https://blacksmithgu.github.io/obsidian-dataview/)
+
+==huajin 这里需要再扩展下，先简单大体说下 dataivew 的用途。然后说这个系列的内容，应该介绍四个部分内容：dataview 基本语法尤、O321-dataview、dataview 社区实践经验、datavie 常见问题。
+
+==O321 -DATAIVEW 里面的内容引用方式有点乱，尤其是各种语法格式会有点乱腾，需要你给福老师改下，这个名字可能也要改，我建议是常规内容实践或者干脆 就跟 ”Dataview 社区实践经验“合并掉，但本社拿一些内容是不错的==
 
 ## 使用示例分享
 

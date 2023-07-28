@@ -3,11 +3,11 @@ uid: 20230521004800
 title: Obsidian 插件常见问题
 tags: [Obsidian, 插件, 常见问题]
 description: Obsidian 插件常见问题
-author: cuman
+author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230622163039
+modified: 20230728110231
 ---
 
 # Obsidian 插件常见问题
@@ -67,9 +67,10 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 由于 Obsidian 的插件都是在 Github 上托管的，国内访问存在问题，需要一些科学上网的手段。常见解决办法有：
 
 1. 科学上网，详细使用可以自行尝试解决。
-2. 下载开源 [Watt Toolkit](https://steampp.net/) ，这个软件能通过修改 Host 和 DNS 实现访问 Github，可能不稳定。
-3. 通过 Github 镜像站下载，这个一般都是在网上搜，我就不提供了，这玩意儿有安全风险，需要核对下载文件的哈希值，确保没被人中途篡改。
-4. [obsidian-proxy-github](https://gitee.com/juqkai/obsidian-proxy-github) ，这个插件就的原理就是 Github 镜像站代理下载。缺点依然是安全风险以及会时常弹出提醒框 (可手动删除文件中的 `Notice` 语句)。
+2. ==【推荐】使用 [[pkmer]] ，由 PKMer 出品的插件。==
+3. 下载开源 [Watt Toolkit](https://steampp.net/) ，这个软件能通过修改 Host 和 DNS 实现访问 Github，可能不稳定。
+4. 通过 Github 镜像站下载，这个一般都是在网上搜，我就不提供了，这玩意儿有安全风险，需要核对下载文件的哈希值，确保没被人中途篡改。
+5. [obsidian-proxy-github](https://gitee.com/juqkai/obsidian-proxy-github) ，这个插件就的原理就是 Github 镜像站代理下载。缺点依然是安全风险以及会时常弹出提醒框 (可手动删除文件中的 `Notice` 语句)。
 
 ### 插件下载后不能启用
 
@@ -162,13 +163,17 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 	- 找到 对应代码文本
 
 	```JS
+
 registerHeaderProcessor() {
+
 	this.registerMarkdownPostProcessor((_, ctx) => __awaiter(this, void 0, void 0, function* () {
 
 	var _a, _b;
 
 if (!((_a = ctx.containerEl) === null || _a === void 0 ? void 0 : _a.hasClass('markdown-previewsection'))) {
+
 	return;
+
 }
 
 const viewContainer = ctx.containerEl.parentElement;
@@ -178,22 +183,37 @@ const existingHeader = (_b = viewContainer === null || viewContainer === void 0 
 viewContainer.getElementsByClassName('reactHeaderComponent')) === null || _b === void 0 ? void
 
 0 : _b[0];
+
 const previousContext = this.renderedHeaderMap.get(existingHeader);
 
 if (!previousContext || previousContext != ctx) {
+
 	if (existingHeader) {
+
 		this.ReactDOM.unmountComponentAtNode(existingHeader);
+
 		existingHeader.remove();
+
 	}
+
 const container = document.createElement('div');
+
 container.addClasses(['reactHeaderComponent', 'markdown-preview-sizer', 'markdownpreview-section']);
+
 	this.renderedHeaderMap.set(container, ctx);
+
 	viewContainer === null || viewContainer === void 0 ? void 0 :
+
 viewContainer.insertBefore(container, ctx.containerEl);
+
 	this.attachComponent('const HeaderComponent = pluginInternalNoteHeaderComponent;<HeaderComponent/>', container, ctx)
+
 		}
+
 	}));
+
 }
+
 	```
 
 - 在 var _a, _b; 这一行之前加入

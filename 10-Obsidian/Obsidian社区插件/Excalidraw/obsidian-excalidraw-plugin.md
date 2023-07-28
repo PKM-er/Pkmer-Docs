@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230719221559
+modified: 20230720143400
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
@@ -73,7 +73,7 @@ excalidraw 可以把常用的一些绘图存为小组件库，也可以从网上
 - 一键重命名图片
 - 一键设置链接别名
 - 把图形转换为脑图模式
-- 使用 Excalidraw 做 PPT 演示：[[Excalidraw脚本：Slideshow 完美实现画板幻灯片演示的脚本]]
+- 使用 Excalidraw 做 PPT 演示：[[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
 - .......
 
 当然，你也可以到 [obsidian-excalidraw-plugin/Add Connector Point.md](https://github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Add%20Connector%20Point.md) 下载和学习脚本自己学习，这也有大叔录制的 [Youtube视频](https://www.youtube.com/watch?v=hePJcObHIso&feature=youtu.be) 教程，熟悉 Javascript 还是挺容易上手的。我曾经尝试过在 Excalidraw 里做动画，这些都是可以实现的。
