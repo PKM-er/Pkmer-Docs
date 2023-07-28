@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230727122514
+modified: 20230729011047
 ---
 
 # Obsidian 社区插件
@@ -57,37 +57,30 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 除此之外，遇到问题时，我们也为您提供了一些简单又实用的描述，帮助您高效地解决问题。我们相信，无论您是新手还是老手，在经过一些练习和摸索后，都能够掌握使用该软件所需的技能和技巧，并在其中体验到乐趣和便捷。
 
-### 功能增强
-
-- [[calendar]]：添加一个简单的日历视图，用于可视化日记和在不同日记间跳转。
-- [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
-- [[frontmatter-alias-display]]：让你在文件名下直接看到别名
-- [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
-- [[obsidian-codemirror-options]]：
-
 ### 编辑增强
 
 这些插件可直接优化或提升 Obsidian 笔记编辑的用户体验。它们一般会直接应用于笔记编辑窗口，使 Obsidian 的操作界面更加直观、可视化，从而提升用户的使用体验。许多插件中还集成了 callout、可视化操作及浮动目录等功能，让你更容易地浏览、查看和编辑笔记内容。所有这些特性的集成对于 Obsidian 用户来说，可以让用户的操作过程变得更为简单、直观，同时也增加了对用户的使用体验的提升。
 
-- [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
-- [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
-- [[obsidian-comments]]：为笔记增加批注或评论。
-- [[highlightr-plugin]]：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
+- [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式
-- [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
 - [[typewriter-mode]]：使光标所在行始终处于屏幕某处，降低用 Obsidian 写中长文时用鼠标滚动调整页面的频繁
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
 - [[longform]]：一款专为写作者和写作团队而设计的插件。它可以帮助用户创建和管理大型文学项目，例如书籍、小说、论文等。它可以将大文本拆分成更小的部分，例如章节、段落和场景，并提供基本编辑和组织工具。
-- [[editor-width-slider]]：允许你在状态栏中使用滑块来快速调整编辑器的行宽/栏宽
-- [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
-- [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
 - [[obsidian-chat-view-qq]]：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
 - [[cm-show-whitespace-obsidian]]：在编辑器中显示空白和制表符
+
+### 文字样式
+
+- [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。
+- [[obsidian-comments]]：为笔记增加批注或评论。
+- [[highlightr-plugin]]：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
+- [[style-text]]：自定义 CSS 样式应用于笔记中的选定文本
+- [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
 
 ### Callout 相关
 
@@ -152,8 +145,15 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 日期&时间
 
+- [[calendar]]：添加一个简单的日历视图，用于可视化日记和在不同日记间跳转。
 - [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
+
+### 代码域
+
+- [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
+- [[obsidian-codemirror-options]]：强化代码输入和编辑体验
+- [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 
 ### 搜索
 
@@ -244,9 +244,11 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些插件跟 Obsidian 提供的多种视图模式有关，让你更加灵活的使用不同的视图模式。
 
+- [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
 - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
 - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+- [[editor-width-slider]]：允许你在状态栏中使用滑块来快速调整编辑器的行宽/栏宽
 
 ### Frontmatter
 
@@ -259,6 +261,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-meta-bind-plugin]]：让你的笔记具有交互性，通过各种控件修改笔记信息
 - [[metadata-menu]]：图形化方便修改 YAML 值的一个工具
 - [[obsidian-state-switcher]]：Yaml Manager 避免直接修改 Yaml 区字段，让 frontmatter 修改变得简单
+- [[frontmatter-alias-display]]：让你在文件名下直接看到别名
 
 ### 自动化&效率
 
@@ -378,6 +381,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 - [[obsidian-plugin-groups]]：帮你轻松地分组和管理 Obsidian 第三方插件，启动关闭，加载插件
 - [[obsidian42-brat]]：让你可以安装未上架的插件、主题
+- [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 
 ### 语言
 
