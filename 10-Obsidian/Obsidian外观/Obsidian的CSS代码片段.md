@@ -99,6 +99,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### 白板（Canvas）
 
 - [[Obsidian样式-canvas白板卡片中文字居中]]
+- [[Obsidian样式-Canvas样式的修改及增强卡片的显示效果]]
 
 #### dataview
 
@@ -176,4 +177,4 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - 使用社区主题，根据主题带的设置项调整
 - 根据上面教程 自己找到 css 选择器，自己写 css 片段
 - 找到别人分享的 css 片段的内容，复制到自己的片段中
-- 通过 style setting 插件修改，建议安装 [[obsidian-style-settings]] 并使用默认主题片段 ![[obsidian-style-settings#^992e4d]]
+- 通过 style setting 插件修改，建议安装 [[obsidian-style-settings]] 并使用默认主题片段![[obsidian-style-settings#^992e4d]]
