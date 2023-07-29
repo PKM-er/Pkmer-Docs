@@ -7,7 +7,7 @@ author: windilycloud
 type: awesome
 draft: false
 editable: false
-modified: 20230703151520
+modified: 20230729211402
 ---
 
 # Obsidian
@@ -135,6 +135,7 @@ Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件�
 - [[obsidian-image-caption]]：给图片增加说明题注
 - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
+- [[Umi-OCR 本地图片识别并批量转换]]：不是 Obsidian 插件，但可配合插件实现在 Obsidian 中 OCR
 
 ### 目录和大纲类
 
