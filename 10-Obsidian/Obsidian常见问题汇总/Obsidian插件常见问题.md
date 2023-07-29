@@ -7,11 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-<<<<<<< HEAD
-modified: 20230725005736
-=======
 modified: 20230728110231
->>>>>>> main
 ---
 
 # Obsidian 插件常见问题
