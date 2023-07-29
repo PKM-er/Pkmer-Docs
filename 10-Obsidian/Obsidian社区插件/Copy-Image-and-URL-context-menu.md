@@ -1,13 +1,13 @@
 ---
 uid: 20230726211351
 title: Copy-Image-and-URL-context-menu
-tags: 
+tags: []
 description: 
 author: 
 type: other
 draft: false
 editable: false
-modified: 20230726211503
+modified: 20230729215830
 ---
 
 # Copy-Image-and-URL-context-menu
@@ -22,26 +22,43 @@ modified: 20230726211503
 
 ## 效果
 
-- 复制图像：
+对于图像：复制图像，在默认应用中打开图像，在系统资源管理器中显示，在文件列表中显示文件
 
-- 复制网址：
+复制网址
 
-- 将 PDF 在外部应用打开：
-
+从外部打开 PDF
 
 ## 使用
 
 > 首先注意，该插件仅在阅读视图下生效；另外发现一个 bug，不能复制 gif 动图，复制后剪贴板里的是静态图
 
-- 对于图像，在图像上右键后，会出现四个选项
-	- Copy Image，复制图片
-	  ![[010-CopyUrlAndImageContextMenu插件_image_1.png]]
-	- Open image in default app，在默认应用程序中打开图像
-	  ![[010-CopyUrlAndImageContextMenu插件_image_2.gif]]
-	- Show in system explorer，在系统资源管理器中显示
-	  ![[010-CopyUrlAndImageContextMenu插件_image_3.gif]]
-	- Reveal file in navigation，在导航中显示文件
-- 对于网址，在网址上右键后，会出现 copy URL 复制网址
-- 对于 PDF 文件，在其上右键后，会出现 Open PDF externally 从外部打开 PDF
-- 另外，所有功能都适用于移动设备，但仅在 Android 上进行了测试：
+### 对于图像
+
+在图像上右键后，会出现四个选项
+
+Copy Image，复制图片
+
+Open image in default app，在默认应用程序中打开图像
+
+Show in system explorer，在系统资源管理器中显示
+
+Reveal file in navigation，在导航中显示文件
+
+![[010-CopyUrlAndImageContextMenu插件_image_1.png]]
+
+### 对于网址
+
+在网址上右键后，会出现 copy URL 复制网址
+
+![[010-CopyUrlAndImageContextMenu插件_image_2.gif]]
+
+### 对于 PDF 文件
+
+在其上右键后，会出现 Open PDF externally 从外部打开 PDF
+![[010-CopyUrlAndImageContextMenu插件_image_3.gif]]
+
+### 移动端支持
+
+另外，所有功能都适用于移动设备，但仅在 Android 上进行了测试：
+
 ![[010-CopyUrlAndImageContextMenu插件_image_4.gif]]
