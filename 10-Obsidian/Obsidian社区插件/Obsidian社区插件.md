@@ -106,6 +106,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[mousewheel-image-zoom]]： 能够通过按住可配置键（默认为左 alt），在编辑/阅读模式下通过滚轮来调节图像的大小
 - [[obsidian-image-caption]]：为你笔记中的图片添加标题、说明
 - [[在Obsidian中为图片添加注释]]：社区实践多种方法解决图片注释问题
+- [[Copy-Image-and-URL-context-menu]]：使得图像可以在阅读模式直接复制
 - [[Obsidian如何生成和美化目录]]
 
 ### 目录和大纲类
