@@ -160,65 +160,34 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 - 解决方案：
 	- 找到 React Components 插件的文件夹，打开 main.js 文件
 	- 找到 对应代码文本
-
-	```JS
-
-registerHeaderProcessor() {
-
-	this.registerMarkdownPostProcessor((_, ctx) => __awaiter(this, void 0, void 0, function* () {
-
-	var _a, _b;
-
-if (!((_a = ctx.containerEl) === null || _a === void 0 ? void 0 : _a.hasClass('markdown-previewsection'))) {
-
-	return;
-
-}
-
-const viewContainer = ctx.containerEl.parentElement;
-
-const existingHeader = (_b = viewContainer === null || viewContainer === void 0 ? void 0 :
-
-viewContainer.getElementsByClassName('reactHeaderComponent')) === null || _b === void 0 ? void
-
-0 : _b[0];
-
-const previousContext = this.renderedHeaderMap.get(existingHeader);
-
-if (!previousContext || previousContext != ctx) {
-
-	if (existingHeader) {
-
-		this.ReactDOM.unmountComponentAtNode(existingHeader);
-
-		existingHeader.remove();
-
-	}
-
-const container = document.createElement('div');
-
-container.addClasses(['reactHeaderComponent', 'markdown-preview-sizer', 'markdownpreview-section']);
-
-	this.renderedHeaderMap.set(container, ctx);
-
-	viewContainer === null || viewContainer === void 0 ? void 0 :
-
-viewContainer.insertBefore(container, ctx.containerEl);
-
-	this.attachComponent('const HeaderComponent = pluginInternalNoteHeaderComponent;<HeaderComponent/>', container, ctx)
-
-		}
-
-	}));
-
-}
-
-	```
-
-- 在 var _a, _b; 这一行之前加入
+	- 在`var _a, _b`; 这一行之前加入 `if (!ctx.sourcePath || (!ctx.containerEl?.hasClass('markdown-preview-section'))){ return;}`
 
 ```js
-if (!ctx.sourcePath || (!ctx.containerEl?.hasClass('markdown-preview-section'))){ return;}
+registerHeaderProcessor() {
+	this.registerMarkdownPostProcessor((_, ctx) => __awaiter(this, void 0, void 0, function* () {
+	var _a, _b;
+if (!((_a = ctx.containerEl) === null || _a === void 0 ? void 0 : _a.hasClass('markdown-previewsection'))) {
+	return;
+}
+const viewContainer = ctx.containerEl.parentElement;
+const existingHeader = (_b = viewContainer === null || viewContainer === void 0 ? void 0 :
+viewContainer.getElementsByClassName('reactHeaderComponent')) === null || _b === void 0 ? void
+0 : _b[0];
+const previousContext = this.renderedHeaderMap.get(existingHeader);
+if (!previousContext || previousContext != ctx) {
+	if (existingHeader) {
+		this.ReactDOM.unmountComponentAtNode(existingHeader);
+		existingHeader.remove();
+	}
+const container = document.createElement('div');
+container.addClasses(['reactHeaderComponent', 'markdown-preview-sizer', 'markdownpreview-section']);
+	this.renderedHeaderMap.set(container, ctx);
+	viewContainer === null || viewContainer === void 0 ? void 0 :
+viewContainer.insertBefore(container, ctx.containerEl);
+	this.attachComponent('const HeaderComponent = pluginInternalNoteHeaderComponent;<HeaderComponent/>', container, ctx)
+		}
+	}));
+}
 ```
 
 ## Folder note
@@ -227,7 +196,7 @@ if (!ctx.sourcePath || (!ctx.containerEl?.hasClass('markdown-preview-section')))
 
 folder note 插件 Sync folder name 设置开启后文件夹名称更改时会自动重命名文件夹注释：
 
-![[Pasted image 20230724230207.png]]
+![Pasted image 20230724230207](https://cdn.pkmer.cn/images/202307292027226.png!pkmer)
 
 不过目前 **folder note 1.4.1** 版本该设置还存在一些问题，如果直接修改文件夹名称是 folderNote 主笔记内部的笔记链接会失效。
 
@@ -237,13 +206,13 @@ folder note 插件 Sync folder name 设置开启后文件夹名称更改时会�
 当用 canvas 作为 folderNote 主笔记时，直接修改文件夹名称时，内部嵌入的笔记全部失效，经测试，通过修改 canvas 笔记名时来间接文件夹名称，链接会进行更新，并不会失效。
 
 > [!example] 测试示意图
-> ![[Pasted image 20230725002427.png]]
+> ![Pasted image 20230725002427](https://cdn.pkmer.cn/images/202307292027311.png!pkmer)
 
 对于 md 文件作为 folderNote 主笔记时，直接修改文件夹文件名也会存在该问题，如果采用 Obsidian 的 Wiki 链接时，嵌入尽可能简短的形式，失效的链接会比在 canvas 中失效少一些，失效的情况：
 
 1. 当 md-folderNote 笔记嵌入外部的 canvas 时，直接修改文件夹文件名时会失效；
 2. 当 Wiki 链接在笔记中采用相对路径的情况时会失效。
-   ![[Pasted image 20230725003427.png]]
+   ![Pasted image 20230725003427](https://cdn.pkmer.cn/images/202307292032459.png!pkmer)
 
 ### 补救措施
 
