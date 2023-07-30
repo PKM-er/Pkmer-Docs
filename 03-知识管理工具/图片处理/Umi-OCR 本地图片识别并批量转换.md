@@ -18,10 +18,15 @@ Umi-OCR 是一款功能强大且易于使用的工具，可以使用它来识别
 
 > [!note] Umi-OCR
 > 软件名称：Umi-OCR
-> 软件作者：hiroi-sora>
+> 软件作者：hiroi-sora
 > 软件版本：1.3.5
 > 项目地址：[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 > 软件介绍：Umi-OCR 是一款基于 PaddleOCR 完全离线的 OCR 图片转文字识别软件，支持截屏/批量导入图片，多国语言识别，合并段落，竖排文字识别，排除水印区域，提取干净的文本。
+
+==视频说明==
+
+<iframe src="//player.bilibili.com/player.html?aid=743993235&bvid=BV1Rk4y1g72v&cid=1209613692&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 ![Pasted image 20230725162817](https://cdn.pkmer.cn/images/202307292110639.png!pkmer)
 
