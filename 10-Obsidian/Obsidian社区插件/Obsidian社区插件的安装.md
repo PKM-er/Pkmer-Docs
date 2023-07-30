@@ -19,7 +19,7 @@ modified: 20230703155408
 ![](https://cdn.pkmer.cn/images/4141b98fb96d57bafd005f7ad7bbb943_MD5.png!pkmer)
 
 > [!推荐]
-> 使用 我们的 Obsidian Lite ，一劳永逸的解决该问题
+> 使用 我们的 Obsidian Pkmer ，一劳永逸的解决该问题
 
 ## 手动安装
 
