@@ -87,6 +87,47 @@ Zotero.Prefs.set(
 全文翻译虽然是`Zotero Style`的功能，但它基于`Zotero PDF Translate`和`Zotero Better Notes`插件。
 所以上述三个插件都需要安装。
 
+**你需要打开PDF后按Shift+P才会出现`全文翻译`命令**
+
+### 4.关系图谱只有默认视图
+
+鼠标移动至关系图谱底部，切换视图的按钮才会出现，然后点击即可。
+![image](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/8513b01a-b607-42dc-ace3-ba5360f4f724)
+
+### 5.文献里出现了很多乱码笔记
+
+
+![image](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/efb8cfaa-98b3-4e9a-b574-401d2027900a)
+
+
+![image](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/a29b22bb-3f8c-45bc-afc6-d13aa300dcab)
+
+这是Zotero Style产生的，每一个乱码笔记对应一篇文献的阅读进度。
+
+如何不产生它？
+
+1. 在你的A PC（比如你实验室电脑）创建一个`style.json`，如果你想要它同步可以创建在可同步的目录下，比如`E:\OneDrive\style.json`
+2. 首选项点击Choose，选择刚刚创建的`style.json`
+![image](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/6ff8874c-0cc3-446b-bec6-f629ea803cac)
+3. 点击选项File
+![image](https://github.com/MuiseDestiny/Pkmer-Docs/assets/51939531/b6c9e7f4-4b11-48d3-968b-ad1ef7f672ee)
+4. 根据提示重启Zotero
+5. 在B PC上选择同步过来的`style.json`文献，然后重启Zotero
+
+这样就可以实现同步，且不产生所谓的乱码笔记，而且存储效率更高。
+
+### 6.`Shift+P`没有某些命令
+
+假设
+- 存在文献A，带有标签`已读`
+- 存在文献B，无标签
+
+首先需要明确的是，Shift+P是有操作对象的概念的，你选中文献A后按`Shift+P`，由于A有标签A，所以命令里会有`标签`，然后你可以随意定义A的`已读`标签的颜色。
+然而，当你选中B后，它没有标签，所以`标签`命令将会隐藏。
+
+
+
+
 
 
 
