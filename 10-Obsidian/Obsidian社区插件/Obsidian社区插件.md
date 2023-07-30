@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230730134107
+modified: 20230730203605
 ---
 
 # Obsidian 社区插件
@@ -187,10 +187,12 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：自动将链接变成卡片样式
 
-### 导出
+### 导出&分享&发布
 
 - [[obsidian-export-image]]：轻松将笔记转换为图片
 - [[pandoc 插件导出 word 格式 正确识别本地图片]]
+- [[html-server]]：帮你把 Obsidian 仓库作为一个 web 服务器，同时保持你的主题，并确保你的图像和文件链接的工作
+- [[obsidian-to-notion]]：
 
 ### 阅读和 PDF
 
@@ -416,6 +418,3 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[smart-connections]]：基于 OpenAI 提供的 api 查询本地库，推荐笔记链接，分析笔记相关性
 - [[companion]]：以类似微软 Copilot 的交互方式，基于文本生成 AI 进行文本自动补全
 
-### 分享&发布
-
-- [[html-server]]：帮你把 Obsidian 仓库作为一个 web 服务器，同时保持你的主题，并确保你的图像和文件链接的工作
