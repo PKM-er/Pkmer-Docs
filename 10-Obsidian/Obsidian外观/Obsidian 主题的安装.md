@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230730214911
+modified: 20230731103150
 ---
 
 # Obsidian 主题的安装
@@ -18,8 +18,16 @@ modified: 20230730214911
 
 ![image.png](https://cdn.pkmer.cn/images/202307302124408.png!pkmer)
 
-> [!推荐]
-> 使用 我们的 Obsidian Pkmer ，一劳永逸的解决该问题
+> [!Note] 推荐
+> - 使用 我们的 Obsidian Pkmer ，一劳永逸的解决该问题
+> - 插件版
+> 	- 目前插件已经针对之前 memos 众筹用户和社区贡献者们优先开放
+> - Web 下载
+> 	- 针对注册会员开放
+> - 用量
+> 	- 每个注册用户我们都提供免费额度，争取覆盖到大家的日常安装和更新
+> 	- 但并不能做到无限，因为服务器有对应的少许成本，如果大家愿意，欢迎发电支持
+>
 
 ## 手动安装
 
@@ -61,10 +69,10 @@ modified: 20230730214911
 
 ## 通过 BRAT 主题维护
 
-通过 [[obsidian42-brat]] 第三方主题进行维护，可以安装官方市场未上架的主题
+通过 [[obsidian42-brat]] 第三方主题进行维护，可以安装官方市场未上架的主题或者插件
 
-## 通过 github 安装
+## 通过 Github 安装
 
-原理跟手动安装一致，关键是从 github 仓库中找到这两个文件下载
+原理跟手动安装一致，关键是从 Github 仓库中找到这两个文件下载
 
 ![image.png](https://cdn.pkmer.cn/images/202307302145455.png!pkmer)

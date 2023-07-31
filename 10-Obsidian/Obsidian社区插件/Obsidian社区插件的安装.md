@@ -29,7 +29,7 @@ modified: 20230703155408
 
 ### 下载插件安装包
 
-上一步获得是该插件官方认可的（ github 地址），在插件地址页面，点击右侧的“release”
+上一步获得是该插件官方认可的（ Github 地址），在插件地址页面，点击右侧的“release”
 
 ![](https://cdn.pkmer.cn/images/f7c8f5661d79491658024083a89b7dcc_MD5.png!pkmer)
 
