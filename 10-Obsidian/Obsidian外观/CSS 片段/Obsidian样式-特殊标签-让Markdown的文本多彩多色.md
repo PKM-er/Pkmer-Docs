@@ -1,13 +1,13 @@
 ---
 uid: 20230718232352
 title: Obsidian 样式： “特殊标签” 让 Markdown 的文本多彩多色
-tags: [Obsidian, 样式, 标签, 多彩标签, h/red]
+tags: [Obsidian, 样式, 标签, 多彩标签, 多彩文本, 多彩标签, h/red]
 description: Obsidian 样式： “特殊标签” 让 Markdown 的文本多彩多色。本文通过 css 的方法实现在阅读模式、编辑模式及源码模式下都可以显示多种色彩的高亮、斜体的文本显示方法。通过修改 css 中的代码，还可以自行修改成想要的颜色。
 author: windysoul
 type: other
 draft: false
 editable: false
-modified: 20230718233502
+modified: 20230731105722
 ---
 
 # Obsidian 样式： “特殊标签” 让 Markdown 的文本多彩多色
