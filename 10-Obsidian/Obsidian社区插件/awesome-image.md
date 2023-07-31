@@ -1,13 +1,13 @@
 ---
 uid: 20230730133022
 title: Obsidian 图片增强插件——Awesome image obsidian
-tags: ["note"]
+tags: [Obsidian, 插件，图片增强]
 description: Obsidian 图片增强插件——Awesome image obsidian。提供笔记中图片常规操作，包括点击放大，旋转等功能。
 author: 奇货队长
 type: note
 draft: false
 editable: false
-modified: 20230730140853
+modified: 20230731105906
 date: 2023-07-29
 ---
 
