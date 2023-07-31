@@ -7,7 +7,7 @@ author: guyuedeng
 type: other
 draft: false
 editable: false
-modified: 20230731233308
+modified: 20230801000741
 ---
 
 # 鱼与熊掌兼得：Zotero 和 Obsidian 联动
@@ -22,7 +22,7 @@ Obisidan 和 Zotero 都是深受广大用户喜爱的知识管理和文献管理
 
 ### Obsidian
 
-1. Zotero Integration
+1. [[obsidian-zotero-desktop-connector|Zotero Integration]]
    安装 - 启用
 
 > [!Note] 插件名片
@@ -34,7 +34,8 @@ Obisidan 和 Zotero 都是深受广大用户喜爱的知识管理和文献管理
 
 ### Zotero
 
-1. Better BibTex for Zotero
+#### Better BibTex for Zotero
+
    安装 - 重启 zotero
 
 ## 2 Zotero 设置
@@ -42,24 +43,15 @@ Obisidan 和 Zotero 都是深受广大用户喜爱的知识管理和文献管理
 ### 2.1 设置引文格式为 IEEE
 
 1. 左上角打开编辑 - 首选项
-
-![](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232339.png!pkmer)
-
-1. 添加 IEEE 最新的引文（要保证是最新的）
-
-![Pasted image 20230730232425.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232425.png!pkmer)
-
-1. 输入 IEEE 进行搜索
-
-![Pasted image 20230730232433.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232433.png!pkmer)
-
-1. 双击第一个 IEEE，Zotero 会自动加载，关闭样式搜索界面。
-
-![Pasted image 20230730232438.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232438.png!pkmer)
-
-1. 可以看到 IEEE 已经加载进来
-
-![Pasted image 20230730232445.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232445.png!pkmer)
+   ![](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232339.png!pkmer)
+2. 添加 IEEE 最新的引文（要保证是最新的）
+   ![Pasted image 20230730232425.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232425.png!pkmer)
+3. 输入 IEEE 进行搜索
+   ![Pasted image 20230730232433.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232433.png!pkmer)
+4. 双击第一个 IEEE，Zotero 会自动加载，关闭样式搜索界面。
+   ![Pasted image 20230730232438.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232438.png!pkmer)
+5. 可以看到 IEEE 已经加载进来
+   ![Pasted image 20230730232445.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232445.png!pkmer)
 
 ### 2.2 设置引文样式
 
@@ -477,32 +469,19 @@ languages: {{language}}
 1. 把光标放在需要插入引文的地方；
 2. 按下 `Ctrl+P`，打开命令界面；
 3. 输入 `Cite`（设置的引文命令名），会自动按名称筛选命令（Cite 是自己设置的命令名字，按自己喜好自定义即可）；
-
-![Pasted image 20230730232802.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232802.png!pkmer)
-
-1. 按住 `Enter回车` 或者 `鼠标左键点击`，会出现以下界面，告诉它在等待从 zotero 选择哪一个条目:
-
-![Pasted image 20230730232818.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232818.png!pkmer)
-
-1. 此时切换到 zotero 界面，将鼠标放在任务栏的 `zotero` 上面，会发现多出来一个界面，快速格式化界面，切换到快速格式化界面
-
-![Pasted image 20230730232828.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232828.png!pkmer)
-
-1. 输入文献的标题，会进行搜索
-
-![Pasted image 20230730232835.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232835.png!pkmer)
-
-1. 第二种方法，点击左侧的 `Z`，选择经典视图
-
-![Pasted image 20230730232843.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232843.png!pkmer)
-
-1. 找到需要导入的文献，选中文献，点击 OK
-
-![Pasted image 20230730232848.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232848.png!pkmer)
-
-1. 回到 OB 界面，会发现多了一条引文。
-
-![Pasted image 20230730232858.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232858.png!pkmer)
+   ![Pasted image 20230730232802.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232802.png!pkmer)
+4. 按住 `Enter回车` 或者 `鼠标左键点击`，会出现以下界面，告诉它在等待从 zotero 选择哪一个条目:
+   ![Pasted image 20230730232818.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232818.png!pkmer)
+5. 此时切换到 zotero 界面，将鼠标放在任务栏的 `zotero` 上面，会发现多出来一个界面，快速格式化界面，切换到快速格式化界面
+   ![Pasted image 20230730232828.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232828.png!pkmer)
+6. 输入文献的标题，会进行搜索
+   ![Pasted image 20230730232835.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232835.png!pkmer)
+7. 第二种方法，点击左侧的 `Z`，选择经典视图
+   ![Pasted image 20230730232843.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232843.png!pkmer)
+8. 找到需要导入的文献，选中文献，点击 OK
+   ![Pasted image 20230730232848.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232848.png!pkmer)
+9. 回到 OB 界面，会发现多了一条引文。
+   ![Pasted image 20230730232858.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232858.png!pkmer)
 
 ### 5.2 激动人心的时候到了，导入文献笔记
 
@@ -510,44 +489,28 @@ languages: {{language}}
 
 1. 按下 `Ctrl+P`，打开命令界面；
 2. 输入 `a-My Import Zotero Note` 进行查找命令（这是自己设置的命令名字，按自己喜好自定义即可）；
-
-![Pasted image 20230730232940.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232940.png!pkmer)
-
-1. 按住 `Enter回车` 或者 `鼠标左键点击`，会出现以下界面，告诉它在等待从 zotero 选择哪一个条目:
-
-![Pasted image 20230730232946.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232946.png!pkmer)
-
-1. 此时切换到 zotero 界面，将鼠标放在任务栏的 `zotero` 上面，会发现多出来一个界面，快速格式化界面，切换到快速格式化界面
-
-![Pasted image 20230730232954.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232954.png!pkmer)
-
-1. 输入文献的标题，会进行搜索
-
-![Pasted image 20230730233008.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730233008.png!pkmer)
-
-1. 第二种方法，点击左侧的 `Z`，选择经典视图
-
-![Pasted image 20230730233028.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730233028.png!pkmer)
-
-1. 找到需要导入的文献，选中文献，点击 OK
-
-![Pasted image 20230730233037.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730233037.png!pkmer)
-
-1. 此时看到 OB 中打开导入的文献笔记
-
-![Pasted image 20230730233040.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730233040.png!pkmer)
+   ![Pasted image 20230730232940.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232940.png!pkmer)
+3. 按住 `Enter回车` 或者 `鼠标左键点击`，会出现以下界面，告诉它在等待从 zotero 选择哪一个条目:
+   ![Pasted image 20230730232946.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232946.png!pkmer)
+4. 此时切换到 zotero 界面，将鼠标放在任务栏的 `zotero` 上面，会发现多出来一个界面，快速格式化界面，切换到快速格式化界面
+   ![Pasted image 20230730232954.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232954.png!pkmer)
+5. 输入文献的标题，会进行搜索
+   ![Pasted image 20230730233008.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730233008.png!pkmer)
+6. 第二种方法，点击左侧的 `Z`，选择经典视图
+   ![Pasted image 20230730233028.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730233028.png!pkmer)
+7. 找到需要导入的文献，选中文献，点击 OK
+   ![Pasted image 20230730233037.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730233037.png!pkmer)
+8. 此时看到 OB 中打开导入的文献笔记
+   ![Pasted image 20230730233040.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730233040.png!pkmer)
 
 ### 5.3 模板使用
 
 #### 5.3.1 标注
 
 1. 黄色、红色、绿色、蓝色、紫色、洋红色、橘色、灰色分好类别，将模板中对应的标题改掉。比如如果黄色标注是普通注释，将模板中的 `## 黄色` 改为 `普通注释`。
-
-![aa3331ba2738be42c2ea2e17657694fb_MD5.png](https://cdn.pkmer.cn/images/aa3331ba2738be42c2ea2e17657694fb_MD5.png!pkmer)
-
-1. 如果只使用三种颜色，把模板中关于其他部分的命令删除即可。
-
-![Pasted image 20230730235854.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730235854.png!pkmer)
+2. ![aa3331ba2738be42c2ea2e17657694fb_MD5.png](https://cdn.pkmer.cn/images/aa3331ba2738be42c2ea2e17657694fb_MD5.png!pkmer)
+3. 如果只使用三种颜色，把模板中关于其他部分的命令删除即可。
+   ![Pasted image 20230730235854.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730235854.png!pkmer)
 
 ## 6 参考链接
 
