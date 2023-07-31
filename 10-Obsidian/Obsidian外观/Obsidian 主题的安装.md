@@ -1,5 +1,5 @@
 ---
-uid: 20230329145846
+uid: 20230730212149
 title: Obsidian 主题的安装
 tags: [Obsidian, 主题, 安装]
 description: Obsidian 社区主题的安装，社区主题安装教程，第三方主题安装方法
