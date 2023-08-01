@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230720143400
+modified: 20230801155252
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
@@ -30,9 +30,22 @@ Excalidraw 本是开源的在线协作手写软件，来自匈牙利的 Zsolt Vi
 
 关于在 excalidraw 里添加图形，文字，箭头这些看看就会了，就不多说了，说点特色功能。
 
+### 工具和样式面板
+
+- 虽然因为插件版本更新的不同，呼出菜单的方式和样式略有变化，但是核心功能一版不会丢失。另外就是图标的表意上基本也是近似的。
+- 对于在画板中已经创建的元素，需要通过鼠标框选才能选择多个。选择之后右击，菜单栏中有**Group Selection**, 能够组合成一个合并单元进行操作。
+
+![image.png|586](https://cdn.pkmer.cn/images/20230801151638.png!pkmer)
+
+### 右键菜单
+
+- 右击元素或者背景画布，会弹出一个右键的上下文菜单，可以对一个或多个元素进行翻转、复制样式、添加到库等操作。
+
+![image.png|334](https://cdn.pkmer.cn/images/20230801155050.png!pkmer)
+
 ### 图库
 
-![image.png](https://cdn.pkmer.cn/images/20230513192018.png!pkmer)
+![image.png|460](https://cdn.pkmer.cn/images/20230513192018.png!pkmer)
 
 excalidraw 可以把常用的一些绘图存为小组件库，也可以从网上白嫖别人绘制好的组件。上图就是我在 [Excalidraw Libraries](https://libraries.excalidraw.com/?target=_blank&referrer=app%3A%2F%2Fobsidian.md&useHash=true&token=QsBDpV33IaUrThzJN19Od&theme=dark&version=2&sort=default) 白嫖的一些便利贴和小人儿。这样一来，复用图形变得非常容易，绘画风格也会趋于一致，不用在不同图里面重复画一些相同的东西。对于视觉笔记工作者来说，表现力可以说是得到了进一步的提升。
 
