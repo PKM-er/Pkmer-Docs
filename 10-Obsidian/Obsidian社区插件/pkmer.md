@@ -7,7 +7,7 @@ author: PKMer
 type: basic
 draft: false
 editable: false
-modified: 20230731102840
+modified: 20230802001658
 ---
 
 # Obsidian 插件：PKMer
@@ -39,8 +39,6 @@ modified: 20230731102840
 ## 主要功能
 
 ![pkmer6.gif](https://cdn.pkmer.cn/images/202307270052648.gif!pkmer)
-
-![](https://cdn.pkmer.cn/images/202307270052648.gif!pkmer)
 
 - 插件浏览：
 	- 提供丰富的插件浏览视图，帮助用户按标签，下载量，更新日期，关注量等多维度找到想要的插件
