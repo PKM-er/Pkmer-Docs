@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230706190617
+modified: 20230801180721
 ---
 
 # Obsidian 基础操作
@@ -43,6 +43,17 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 2、快捷键：Ctrl/Cmd + P，在 OB 的命令窗口中，输入“重新加载 Obsidian”
 
 有些 Obsidian 设置或插件，需要重启后才能生效，可以用到以上方法。
+
+## Obsidian 的基本信息获取
+
+### 如何开启开发者模式/控制台
+
+- Win：Ctrl + Shitf + i
+- Mac：cmd+ option + i
+
+### 如何知道自己已经开启了多少插件
+
+- 点击 Obsidian 图标，找到 Help 菜单，点击 `调试信息`，里面的信息就是你正在开启的插件内容
 
 ## 笔记组织问题
 

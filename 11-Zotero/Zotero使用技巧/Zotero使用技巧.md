@@ -7,7 +7,9 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230721104956
+modified: 20230801162130
 ---
 
 # Zotero 使用技巧
+
+[[Zotero和Obsidian联动]]

@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230728110231
+modified: 20230801181323
 ---
 
 # Obsidian 插件常见问题
@@ -66,10 +66,10 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 
 由于 Obsidian 的插件都是在 Github 上托管的，国内访问存在问题，需要一些科学上网的手段。常见解决办法有：
 
-1. 科学上网，详细使用可以自行尝试解决。
-2. ==【推荐】使用 [[pkmer]] ，由 PKMer 出品的插件。==
-3. 下载开源 [Watt Toolkit](https://steampp.net/) ，这个软件能通过修改 Host 和 DNS 实现访问 Github，可能不稳定。
-4. 通过 Github 镜像站下载，这个一般都是在网上搜，我就不提供了，这玩意儿有安全风险，需要核对下载文件的哈希值，确保没被人中途篡改。
+1. ==【首位推荐】使用 [[pkmer]] ，由 PKMer 出品的插件。==，并不是自吹自擂，因为魔法也有失效的时候，所以 PKMer 目前提供的方法最稳定。
+2. 魔法上网，详细使用可以自行尝试解决，已有用户反馈并不稳定
+3. 下载开源 [Watt Toolkit](https://steampp.net/) ，这个软件能通过修改 Host 和 DNS 实现访问 Github，已有用户反馈并不稳定。
+4. 通过 Github 镜像站下载，这个一般都是在网上搜，这玩意儿有安全风险，需要核对下载文件的哈希值，确保没被人中途篡改，而且无法保证全新。
 5. [obsidian-proxy-github](https://gitee.com/juqkai/obsidian-proxy-github) ，这个插件就的原理就是 Github 镜像站代理下载。缺点依然是安全风险以及会时常弹出提醒框 (可手动删除文件中的 `Notice` 语句)。
 
 ### 插件下载后不能启用
@@ -161,7 +161,7 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 - 解决方案：
 	- 找到 React Components 插件的文件夹，打开 main.js 文件
 	- 找到下列对应代码文本
-	- 在`var _a, _b`; 这一行之前加入 `if (!ctx.sourcePath || (!ctx.containerEl?.hasClass('markdown-preview-section'))){ return;}`
+	- 在 `var _a, _b`; 这一行之前加入 `if (!ctx.sourcePath || (!ctx.containerEl?.hasClass('markdown-preview-section'))){ return;}`
 
 ```js
 registerHeaderProcessor() {

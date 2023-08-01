@@ -7,7 +7,7 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20230622163351
+modified: 20230801180738
 ---
 
 # Obsidian 常见问题汇总
@@ -38,6 +38,11 @@ modified: 20230622163351
 
 - [[Obsidian基础操作问题#重启 Obsidian 的方法]]
 - [[Obsidian基础操作问题#无法启动显示，显示“DiscardVirtualMemory“]]
+
+## Obsidian 的基本信息获取
+
+- [[Obsidian基础操作问题#Obsidian 的基本信息获取]]
+- [[Obsidian基础操作问题#如何开启开发者模式/控制台]]
 
 ## 基本操作
 

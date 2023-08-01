@@ -1,22 +1,22 @@
 ---
 uid: 20230726225239
-title: Obsidian 插件：PKMer
+title: Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
 tags: [Obsidian, 插件, PKMer, 下载, 插件获取]
-description: Obsidian PKMer 旨在帮助国内用户轻松自由的访问优秀的 Obsidian 插件。
+description: Obsidian PKMer 旨在帮助国内用户轻松自由的访问优秀的 Obsidian 插件。可能是 Obsidian 访问社区插件的一劳永逸解决方案。不需要魔法，完美解决 Obsidian 无法加载第三方插件
 author: PKMer
 type: basic
 draft: false
 editable: false
-modified: 20230731102840
+modified: 20230801181535
 ---
 
-# Obsidian 插件：PKMer
+# Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
 
 ## 概述
 
 长久一样来 Obsidian 做为一款优秀的免费笔记软件，惠及我们很多人，繁荣的社区插件，满足了我们各种各样的需求，开源插件带给了我们更多创造力，和工作流启发。
 
-但是因为网络原因，不少用户无法获取到插件，Obsidian PKMer 旨在帮助国内用户轻松自由的访问优秀的 Obsidian 插件。
+但是因为网络原因，不少用户无法获取到插件，Obsidian PKMer 旨在帮助国内用户轻松自由的访问优秀的 Obsidian 插件。不需要魔法，完美解决 Obsidian 无法加载第三方插件
 
 ![image.png](https://cdn.pkmer.cn/images/202307270026698.png!pkmer)
 
@@ -24,7 +24,7 @@ modified: 20230731102840
 > - 插件名称：PKMer
 > - 插件版本：0.0.1
 > - 插件作者：PKMer(windily-cloud&cumany)
-> - 插件描述：这是一款 Obsidian 插件，旨在帮助国内用户轻松自由的访问优秀的 Obsidian 插件。
+> - 插件描述：这是一款 Obsidian 插件，旨在帮助国内用户轻松自由的访问优秀的 Obsidian 插件、主题
 > - 插件项目地址：
 
 > [!Tip] 提示
@@ -65,9 +65,9 @@ PKMer 从 Obsidian 官方发布的插件信息列表中，找到最近更新的�
 
 ## 价格
 
-注册 [Pkmer](https://pkmer.cn/) 的用户完全免费使用该插件及下载插件，但为了防止滥用和过高的成本，免费下载 15 次/月 插件，Pkmer 会员则限制 200 次/月 插件（视实际情况而定）。
+注册 [Pkmer](https://pkmer.cn/) 的用户完全免费使用该插件及下载插件，但为了防止滥用和过高的成本，免费下载 15 次/月 插件，这个数量我们尽可能平衡了大家安装的插件和每个月大概可能需要更新的体量，PKMer 会员则限制 200 次/月 插件（视实际情况而定）。
 
-Pkmer 会员除了付费获取外，可以通过为社区提供知识管理相关的文档，视频，翻译，开发 Obsidian 插件，协助运营 Pkmer 等多种方式免费获取，具体方式可参考 [社区指南](https://pkmer.cn/show/20230330155738) 参与贡献。
+PKMer 会员除了付费获取外，可以通过为社区提供知识管理相关的文档，视频，翻译，开发 Obsidian 插件，协助运营 Pkmer 等多种方式免费获取，具体方式可参考 [社区指南](https://pkmer.cn/show/20230330155738) 参与贡献。
 
 ## 注意事项
 
