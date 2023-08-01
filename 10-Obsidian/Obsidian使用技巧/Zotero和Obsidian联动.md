@@ -7,7 +7,7 @@ author: guyuedeng
 type: other
 draft: false
 editable: false
-modified: 20230801000741
+modified: 20230801103805
 ---
 
 # 鱼与熊掌兼得：Zotero 和 Obsidian 联动
@@ -29,7 +29,7 @@ Obisidan 和 Zotero 都是深受广大用户喜爱的知识管理和文献管理
 > - 插件名称：Zotero Integration
 > - 插件版本：3.0.7
 > - 插件作者：mgmeyers
-> - 插件描述：从 Zotero 插入和导入引文、参考书目、注释和 PDF 注释到 Obsidian。需要更好的 BibTeX 为 Zotero 插件。
+> - 插件描述：从 Zotero 插入和导入引文、参考书目、注释和 PDF 注释到 Obsidian。需要 Better BibTeX 为 Zotero 插件。
 > - 插件项目地址：[点我跳转](https://github.com/mgmeyers/obsidian-zotero-integration)
 
 ### Zotero
