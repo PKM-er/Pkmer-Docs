@@ -7,7 +7,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230802174548
+modified: 20230802174659
 ---
 
 # Obsidian 样式：修复 1.3.7 版本标题语法高度问题
@@ -29,7 +29,7 @@ modified: 20230802174548
 如何使用自定义代码段，参考 [[Obsidian的CSS代码片段]]
 
 ```CSS
-.cm-s-obsidian .cm-line.HyperMD-header {
-padding-top: 0rem !important;
+.cm-s-obsidian div.cm-line.HyperMD-header {
+padding-top: 0rem;
 }
 ```
