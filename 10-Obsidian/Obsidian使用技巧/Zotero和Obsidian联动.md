@@ -2,7 +2,7 @@
 uid: 20230730231400
 title: 鱼与熊掌兼得：Zotero 和 Obsidian 联动
 tags: [Obsidian, 插件, Zotero, 导入]
-description: 鱼与熊掌兼得：Zotero 和 Obsidian 联动,Obisidan 和 Zotero 都是深受广大用户喜爱的知识管理和文献管理软件，两者定位和侧重点不同，一方以文献见长，一方以笔记和丰富的插件生态构建自己的工作流为主。
+description: 鱼与熊掌兼得：Zotero 和 Obsidian 联动,Obsidian 和 Zotero 都是深受广大用户喜爱的知识管理和文献管理软件，两者定位和侧重点不同，一方以文献见长，一方以笔记和丰富的插件生态构建自己的工作流为主。
 author: guyuedeng
 type: other
 draft: false
@@ -14,7 +14,7 @@ modified: 20230801103805
 
 ## 概述
 
-Obisidan 和 Zotero 都是深受广大用户喜爱的知识管理和文献管理软件，两者定位和侧重点不同，一方以文献见长，一方以笔记和丰富的插件生态构建自己的工作流为主。
+Obsidian 和 Zotero 都是深受广大用户喜爱的知识管理和文献管理软件，两者定位和侧重点不同，一方以文献见长，一方以笔记和丰富的插件生态构建自己的工作流为主。
 
 那么能不能将文献管理和笔记工作流完美融合，做到鱼与熊掌兼得呢？
 

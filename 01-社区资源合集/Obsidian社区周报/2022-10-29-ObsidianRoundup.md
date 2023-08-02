@@ -23,7 +23,7 @@ modified: 20230530230548
 
 - 由 `@GRONADE457` 开发的 [Mentions in Status Bar](https://github.com/GRONADE457/obsidian-mentions-in-status-bar) 可以在状态栏中显示所有的链接提醒。
 - 由 `@nqthqn` 开发的 [Wordy](https://github.com/nqthqn/obsidian-wordy) 可以使用 Datamuse API 作为词库并且查询词典等。
-- 由 `@Quorafind` 开发的 [New Bullet With Time](https://github.com/Quorafind/Obisidna-New-Bullet-With-Time) 可以让你在新建列表项的时候自动插入当前的时间。
+- 由 `@Quorafind` 开发的 [New Bullet With Time](https://github.com/Quorafind/Obsidian-New-Bullet-With-Time) 可以让你在新建列表项的时候自动插入当前的时间。
 - 由 `@sandrofigo` 开发的 [Pretty BibTeX](https://github.com/sandrofigo/obsidian-pretty-bibtex) 可以让你用更漂亮的方式显示 BibTeX 的条目。
 - 由 `@romantic-black` 开发的 [Vika Sync](https://github.com/romantic-black/obsidain-vika-sync) 可以让你的笔记库同步到 Vika 数据库，类似 Airtable 的数据库。
 - 由 `@cloudhao1999` 开发的 [Scroll to Top Plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) 添加了一个按钮来让你快速滑动到顶部。
