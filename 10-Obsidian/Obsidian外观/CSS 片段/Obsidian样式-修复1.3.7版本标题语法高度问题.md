@@ -1,13 +1,13 @@
 ---
 uid: 20230802165753
 title: Obsidian 样式：修复 1.3.7 版本标题语法高度问题
-tags: []
-description: 
-author: 
+tags: [Obsidian, 样式, 标题语法, 高度修复]
+description: Obsidian 样式：修复 1.3.7 版本标题语法高度问题。接到一些用户反馈，更新后，标题语法在编辑模式（所见即所得）变得奇怪
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230802174659
+modified: 20230802174926
 ---
 
 # Obsidian 样式：修复 1.3.7 版本标题语法高度问题
