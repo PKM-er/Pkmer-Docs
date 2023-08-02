@@ -1,5 +1,5 @@
 ---
-uid: 20230709163901
+uid: 20230709163902
 title: Obsidian 插件：Obsidian shared to Notion 一键把 Obsidian 中的文件传输到 Notion 中
 tags: [obsidian, 插件, notion, 导入]
 description: 一键将 Obsidian中的文件传输到 notion 中
