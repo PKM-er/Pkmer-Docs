@@ -209,7 +209,7 @@ Toodledo 官方并没有提供 OpenAPI 接口，我以逆向的方式生成了�
 
 ![image.png](https://cdn.pkmer.cn/images/20230509220125.png!pkmer)
 
-我的个人 KMS 已经完整地从 [Notion](http://notion.com/) 迁移到了 Obisidian，现在使用 Obisidan Tasks 迁移成本很低。经过一段时间对 Obsidian Tasks 的学习，我将原来的使用模式较为顺利搬到了 Obsidian Tasks。我接着之前两个场景**整理**和**下一个任务**来介绍如何高效使用 Obsidian Tasks。
+我的个人 KMS 已经完整地从 [Notion](http://notion.com/) 迁移到了 Obsidian，现在使用 Obsidian Tasks 迁移成本很低。经过一段时间对 Obsidian Tasks 的学习，我将原来的使用模式较为顺利搬到了 Obsidian Tasks。我接着之前两个场景**整理**和**下一个任务**来介绍如何高效使用 Obsidian Tasks。
 
 我通过以下几种形式组织待办任务：
 

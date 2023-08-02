@@ -25,7 +25,7 @@ modified: 20230621183146
 - 由 `@TfTHacker` 开发的 [Obsidian42 - Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds)  是一款让你在文中悬浮显示某一的块、笔记的同时引用文件的插件，同时可以显示该被引用内容的计数，以网络化方式来提供你更多的上下文关系以及提供你查看与之相关的信息。
 - 由 `@sbquinlan`  开发的 [Obsidian Handlebars Template Plugin](https://github.com/sbquinlan/obsidian-handlebars)  增加了对 Obsidian 的笔记中 handlebars 模板语言块的支持。Handlebars 是 Ghost 等内容管理系统使用的模板语言（译注：周报原作者的 newsletter 就运行在 Ghost 上），它非常强大。
 - 由  `@johackim` 开发的 [Writing](https://github.com/johackim/obsidian-writing)   尝试让你在 Obsidian 中更方便地撰写书籍以及调整它的内容格式；它目前提供了目标追踪以及字数统计功能，它目前打算支持导出为 pdf、epub 和 mobi 。
-- 由 `@Boninall` 开发的 [New Bullet With Time](https://github.com/Quorafind/Obisidna-New-Bullet-With-Time) 可以让你在新建列表项的时候自动插入当前的时间。
+- 由 `@Boninall` 开发的 [New Bullet With Time](https://github.com/Quorafind/Obsidian-New-Bullet-With-Time) 可以让你在新建列表项的时候自动插入当前的时间。
 - 由 `Boninall` 开发的 [Double Click Tab](https://github.com/Quorafind/Obsidian-Double-Click-Tab) 修改了你双击标签标题时的默认行为，允许你通过双击标签页来关闭标签。
 - 由 `@ennioitaliano`  开发的 [Auto Glossary](https://github.com/ennioitaliano/obsidian-auto-glossary)  允许你自动创建一个带有索引、词汇或两者的文件。
 - 由  `@0phoff` 开发的 [SideToggleCommand](https://github.com/0phoff/obsidian-sidetogglecmd)  提供更多的命令来让你控制你的侧边栏。
