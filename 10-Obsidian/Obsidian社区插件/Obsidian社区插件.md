@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230731233429
+modified: 20230801235157
 ---
 
 # Obsidian 社区插件
@@ -186,6 +186,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：自动将链接变成卡片样式
+
+## 关系图谱
+
+- [[graph-analysis]]：将图形分析能力添加到 Obsidian，此插件实现了一套算法，可以计算仓库中的笔记之间的关联关系。
 
 ### 导出&分享&发布
 
