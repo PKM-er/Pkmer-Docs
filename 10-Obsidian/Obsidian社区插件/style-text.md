@@ -1,16 +1,16 @@
 ---
 uid: 20230729002915
-title: Obsidian 插件：Style Text 简易的自定义文字大小颜色演示
+title: Obsidian 插件：Style Text 简易的自定义文字大小颜色样式
 tags: [Obsidian, 插件, 自定义, 文字样式]
-description: Obsidian 插件：Style Text 简易的自定义文字大小颜色演示。它支持你自定义正文笔记的文字样式，并且通过简单的圈选，右键选择样式即可完成调整。
+description: Obsidian 插件：Style Text 简易的自定义文字大小颜色样式。它支持你自定义正文笔记的文字样式，并且通过简单的圈选，右键选择样式即可完成调整。
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230729010915
+modified: 20230801185143
 ---
 
-# Obsidian 插件：Style Text 简易的自定义文字大小颜色演示
+# Obsidian 插件：Style Text 简易的自定义文字大小颜色样式
 
 ## 概述
 
