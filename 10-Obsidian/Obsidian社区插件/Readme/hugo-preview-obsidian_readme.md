@@ -1,5 +1,5 @@
 ---
-uid: 20230803212543
+uid: 2023080322200022
 title: Obsidian 插件：【Readme】Hugo preview Obsidian
 tags: ['obsidian插件', 'readme']
 description: Hugo预览插件（Obsidian）
@@ -36,7 +36,6 @@ Hugo预览插件（Obsidian）
 ## Readme(翻译）
 
 下面是 [[hugo-preview-obsidian]] 插件的自述翻译
-
 
 
 在Obsidian中预览Hugo。

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212317
+uid: 2023080322173975
 title: Obsidian 插件：【Readme】Editing Toolbar
 tags: ['编辑工具', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 提供了更强大的编辑工具栏，并内置了常用编辑功能，提供类似MS Word 的工具栏编辑体验。支持多种交互样式，也支持添加自定义功能和功能分组。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[editing-toolbar]] 插件的自述翻译
-
 
 
 ### [中文](./README-zh_cn.md) | English

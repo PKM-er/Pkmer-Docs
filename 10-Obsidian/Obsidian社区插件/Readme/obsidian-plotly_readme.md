@@ -1,5 +1,5 @@
 ---
-uid: 20230803213025
+uid: 2023080322244962
 title: Obsidian 插件：【Readme】Plotly
 tags: ['obsidian插件', 'readme']
 description: 使用这个插件，你可以在笔记中嵌入Plotly图表。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-plotly]] 插件的自述翻译
-
 
 
 # obsidian-plotly

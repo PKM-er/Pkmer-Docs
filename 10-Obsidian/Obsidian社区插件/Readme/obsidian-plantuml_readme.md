@@ -1,5 +1,5 @@
 ---
-uid: 20230803213024
+uid: 2023080322244882
 title: Obsidian 插件：【Readme】PlantUML
 tags: ['图表生成', '界面相关', '编辑器', '编程', 'obsidian插件', 'readme']
 description: 在 Obsidian 笔记中渲染 UML 图
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[obsidian-plantuml]] 插件的自述翻译
 
 
-
 # Obsidian对PlantUML的支持
 
 ![Maintenance](https://shields.joethei.xyz:/maintenance/yes/2022)
@@ -75,10 +74,7 @@ modified: 20230101000000
 普通的网络链接在[这里](https://plantuml.com/de/link)中描述。
 
 ### 包含一个 `.puml` 文件
-
 > ⚠️ 仅在使用本地渲染时有效
-
-
 
 这个功能的工作方式与[官方文档](https://plantuml.com/de/preprocessing#393335a6fd28a804)中描述的一样。
 

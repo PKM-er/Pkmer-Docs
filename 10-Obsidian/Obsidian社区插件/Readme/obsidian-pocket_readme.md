@@ -1,5 +1,5 @@
 ---
-uid: 20230803213031
+uid: 2023080322245531
 title: Obsidian 插件：【Readme】Pocket integration
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 轻松访问你的Pocket阅读列表条目并为它们创建笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-pocket]] 插件的自述翻译
-
 
 
 # obsidian-pocket

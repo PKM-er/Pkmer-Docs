@@ -1,5 +1,5 @@
 ---
-uid: 20230803212528
+uid: 2023080322194526
 title: Obsidian 插件：【Readme】Highlightr
 tags: ['编辑器', '美化', '效率', 'obsidian插件', 'readme']
 description: 一个简洁而美观的高亮菜单，可以设置各种不同的高亮颜色，使彩色高亮变得更加容易阅读。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[highlightr-plugin]] 插件的自述翻译
-
 
 
 # Highlightr-Plugin

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213227
+uid: 2023080322265875
 title: Obsidian 插件：【Readme】Simple Note Review
 tags: ['obsidian插件', 'readme']
 description: 简单，可定制的插件，用于轻松的笔记审阅，复查和重复。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[simple-note-review]] 插件的自述翻译
-
 
 
 # 简单笔记复习

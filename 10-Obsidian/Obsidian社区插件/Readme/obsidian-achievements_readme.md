@@ -1,5 +1,5 @@
 ---
-uid: 20230803211903
+uid: 2023080322133217
 title: Obsidian 插件：【Readme】Achievements
 tags: ['obsidian插件', 'readme']
 description: 为黑曜石增加成就。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-achievements]] 插件的自述翻译
-
 
 
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22obsidian-achievements%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)

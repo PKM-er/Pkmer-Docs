@@ -1,5 +1,5 @@
 ---
-uid: 20230803213257
+uid: 2023080322273241
 title: Obsidian 插件：【Readme】Supercharged Links
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 为内部链接添加属性，其值为目标笔记的前端属性
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[supercharged-links-obsidian]] 插件的自述翻译
 
 
-
 超级链接是Obsidian的一个插件，它可以根据笔记的元数据（如标签或YAML前置属性）来为您的存储库中的链接添加样式。您可以自动为链接添加颜色、表情符号或其他样式，使其更具视觉吸引力和易于导航。
 
 当您的笔记代表某个东西，比如一篇论文、一个地点、一个人或一周中的某一天时，超级链接可以确保这些笔记突出显示。另一个用例可能是为带有“#todo”标签的笔记添加醒目的颜色。这种视觉反馈有助于您快速找到正确的笔记！
@@ -71,114 +70,62 @@ Jim是我的一位同事
 我想要改变指向Jim笔记的链接的样式。特别地，我希望人物链接具有蓝色背景，并且我希望我需要打电话的人在前面有一个电话表情符号☎️：<img src="https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/images/phone-jim.png" style="height:30px;vertical-align:bottom">。
 
 ### 设置插件
-
 是时候设置插件来使其工作了！让我们进入插件设置。
-
 首先，你需要告诉插件在顶部的“用于样式的目标属性”选项中包含哪些前置属性。让我们在这里添加`status`，它表示我们是否需要给Jim打电话！
-
-
 
 <img src="https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/images/target-status.png" alt="drawing" style="width:500px;"/>
 
-
-
 接下来，我们需要告诉插件查找带有标签`#person`的笔记。在设置中，在“样式”标题下创建一个新的选择器。在选择器类型下，选择“标签”，在下方添加`person`：
-
-
 
 <img src="https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/images/tag-person.png" alt="drawing" style="width:700px;"/>
 
-
-
 我们还希望在笔记的`status`属性为`call soon`时添加一个表情符号。我们将告诉插件查找属性`status`，并且其值应为`call soon`。请注意，这也会查找[来自DataView的内联字段称为status](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/)。
-
-
 
 <img src="https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/images/call-soon.png" alt="drawing" style="width:700px;"/>
 
-
-
 对于我们的用例，一个重要的设置是仅在“样式选项”下启用“在链接之前添加内容”选项，否则这个样式将覆盖标签`#person`的样式！
 
-
-
 除了基于属性或标签进行样式设置外，我们还可以根据笔记的“路径”（包括名称、文件夹和扩展名）进行样式设置。例如，我们可以为`dailies`文件夹中的所有笔记设置样式。确保在匹配这里选择“包含值”而不是“完全匹配”：
-
-
 
 <img src="https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/images/path-dailies.png" alt="drawing" style="width:700px;"/>
 
 ### 是时候进行样式设置了！
-
 首先，请确保您已安装并启用了[Style Settings插件](https://github.com/mgmeyers/obsidian-style-settings)。然后，在设置中，导航到Style Settings的设置。现在我们准备好为带有标签`#person`的笔记设置样式了！我们将使用白色文本颜色，启用背景，并在那里使用漂亮的蓝色背景。
-
-
 
 <img src="https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/images/style-person.png" alt="drawing" style="width:700px;"/>
 
-
-
 接下来，让我们在即将通话的笔记之前添加表情符号。我们只需将☎️复制到文本区域“前置文本”中即可。
-
-
 
 <img src="https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/images/style-call-soon.png" alt="drawing" style="width:700px;"/>
 
-
-
 然后，大功告成！
-
-
 
 <img src="https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/images/result-call-jim.png" alt="drawing" style="width:700px;"/>
 
 ## 使用CSS进行高级样式设置
-
 如果您对CSS和HTML感到熟悉，可以使用CSS代码片段为链接创建更加个性化的样式。
 
-
-
 1. 在Obsidian中，通过转到设置>外观> CSS代码片段来创建CSS代码片段。
-
 2. 根据链接的数据属性（例如data-link-tags或data-link-status），编写自定义的CSS代码来设置链接的样式。
-
 3. 保存CSS文件并在Obsidian中启用该代码片段。
 
 ### 使用CSS进行样式设置的示例
-
 为了解释这是如何工作的，让我们先解释一下这个插件在后台做了什么。
 
-
-
 假设我在某个地方有一个指向`[[Jim]]`的链接。
-
 如果没有激活插件，HTML链接元素通常会像这样：
 
-
-
 ```
 
-
-
 ```
-
-
 
 这并没有提供关于Jim.md笔记中的内容的任何信息！因此，我们无法自定义它。
 
-
-
 这就是这个插件的作用：它将在`<a>`元素中添加两个额外的属性：`data-link-status`和`data-link-tags`。**重要的是**，这些属性以`data-link`为前缀，以避免与Obsidian中的其他属性冲突。
-
-
 
 激活插件后，`<a>`元素将被增强，如下所示：
 
-
-
 ```
-
-
 
 ```
 
@@ -245,7 +192,6 @@ a.internal-link[data-link-tags *="hide"],
 注意：这些演示有些过时。
 
 #### 实时预览
-
 <img src="https://i.imgur.com/8VJm1TJ.gif" style="width:500px">
 
 #### 内部链接简单样式化

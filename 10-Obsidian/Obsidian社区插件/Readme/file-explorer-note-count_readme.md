@@ -1,5 +1,5 @@
 ---
-uid: 20230803212401
+uid: 2023080322181376
 title: Obsidian 插件：【Readme】File Explorer Note Count
 tags: ['界面相关', '文件管理', '统计', '美化', 'obsidian插件', 'readme']
 description: 可以帮助你在文件管理器中查看每个文件夹下的笔记数量。甚至可以设置附加统计数值的统计项和样式，如修改历史等。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[file-explorer-note-count]] 插件的自述翻译
-
 
 
 # Obsidian文件浏览器计数

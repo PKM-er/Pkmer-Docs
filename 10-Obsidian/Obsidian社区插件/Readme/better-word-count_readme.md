@@ -1,5 +1,5 @@
 ---
-uid: 20230803212026
+uid: 2023080322150756
 title: Obsidian 插件：【Readme】Better Word Count
 tags: ['效率', '笔记文件处理', 'obsidian插件', 'readme']
 description: 统计编辑器中所选文本的字数。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[better-word-count]] 插件的自述翻译
-
 
 
 # 更好的字数统计

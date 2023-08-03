@@ -1,5 +1,5 @@
 ---
-uid: 20230803212343
+uid: 2023080322175916
 title: Obsidian 插件：【Readme】Expand Bullet
 tags: ['obsidian插件', 'readme']
 description: 一个用于将子弹内容转换为笔记的插件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-expand-bullet]] 插件的自述翻译
-
 
 
 # Obsidian扩展项目

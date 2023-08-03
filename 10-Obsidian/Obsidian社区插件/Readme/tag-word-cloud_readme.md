@@ -1,5 +1,5 @@
 ---
-uid: 20230803213311
+uid: 2023080322274875
 title: Obsidian 插件：【Readme】Tag, Word & Link Cloud
 tags: ['obsidian插件', 'readme']
 description: 展示你的标签/词/链接的云图
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tag-word-cloud]] 插件的自述翻译
-
 
 
 ## 标签、词语和链接云
@@ -77,57 +76,33 @@ source: file
 ~~~
 
 #### 显示文件夹/文件的所有标签。
-
 > ⚠️ 需要 Dataview
 
-
-
 ~~~markdown
-
 ```tagcloud
-
 source: query
-
 query: Folder/File
-
 ```
-
 ~~~
 
 #### 显示与我们的标签一起出现的所有标签。
-
 > ⚠️ 需要 Dataview
 
-
-
 ~~~markdown
-
 ```tagcloud
-
 source: query
-
 query: '#yourTag'
-
 ```
-
 ~~~
 
 #### 显示所有链接到笔记的标签。
-
 > ⚠️ 需要Dataview
 
-
-
 ~~~markdown
-
 ```tagcloud
-
 source: query
-
 query: '[[其他笔记]]'
-
 ```
-
 ~~~
 
 ### 选项
@@ -140,22 +115,13 @@ query: '[[其他笔记]]'
 
 ## 词云
 
-
-
 ![](https://i.joethei.space/7WCqI74ca8.png)
-
-
 
 词云显示了您的保险库/笔记中的所有单词。
 
 
-
-
-
 > ⚠ 仅在加载保险库和运行“重新计算词分布”命令时才会计算词分布。
-
 >
-
 > 这是因为计算过程需要大量的计算资源和时间。[^performance]
 
 ### 示例

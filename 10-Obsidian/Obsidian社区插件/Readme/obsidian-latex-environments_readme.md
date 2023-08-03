@@ -1,5 +1,5 @@
 ---
-uid: 20230803212645
+uid: 2023080322211642
 title: Obsidian 插件：【Readme】Latex Environments
 tags: ['数学', 'obsidian插件', 'readme']
 description: 允许快速插入和更改数学环境中的Latex环境。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-latex-environments]] 插件的自述翻译
-
 
 
 # obsidian-latex-environments

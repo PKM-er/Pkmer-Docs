@@ -1,5 +1,5 @@
 ---
-uid: 20230803212156
+uid: 2023080322163312
 title: Obsidian 插件：【Readme】Copilot
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中使用ChatGPT Copilot。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[copilot]] 插件的自述翻译
-
 
 
 # 🔍 Obsidian的Copilot

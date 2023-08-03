@@ -1,5 +1,5 @@
 ---
-uid: 20230803213054
+uid: 2023080322251643
 title: Obsidian 插件：【Readme】Query all the things
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中对数据执行基于SQL的查询，并使用模板按照您的要求进行渲染。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[qatt]] 插件的自述翻译
-
 
 
 # 查询所有的事物

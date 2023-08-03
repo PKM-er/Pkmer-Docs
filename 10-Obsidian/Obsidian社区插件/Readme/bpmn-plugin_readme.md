@@ -1,5 +1,5 @@
 ---
-uid: 20230803212036
+uid: 2023080322151829
 title: Obsidian 插件：【Readme】BPMN Plugin
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 这个插件使用bpmn-js可以查看BPMN图。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[bpmn-plugin]] 插件的自述翻译
-
 
 
 # Obsidian的BPMN插件 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/joleaf/obsidian-bpmn-plugin)](https://github.com/joleaf/obsidian-bpmn-plugin/releases) [![Release Obsidian Plugin](https://github.com/joleaf/obsidian-bpmn-plugin/actions/workflows/release.yml/badge.svg)](https://github.com/joleaf/obsidian-bpmn-plugin/actions/workflows/release.yml) ![Obsidian下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%238b6cef&label=downloads&query=%24%5B%22bpmn-plugin%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)

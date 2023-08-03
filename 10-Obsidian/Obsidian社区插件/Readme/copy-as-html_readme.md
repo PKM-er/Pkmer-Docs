@@ -1,5 +1,5 @@
 ---
-uid: 20230803212157
+uid: 2023080322163403
 title: Obsidian 插件：【Readme】Copy as HTML
 tags: ['obsidian插件', 'readme']
 description: 这是一个简单的插件，可以将所选择的 Markdown 转换为 HTML，并复制到剪贴板中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[copy-as-html]] 插件的自述翻译
-
 
 
 ## Copy as HTML Obsidian 插件

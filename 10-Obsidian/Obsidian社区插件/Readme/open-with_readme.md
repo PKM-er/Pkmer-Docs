@@ -1,5 +1,5 @@
 ---
-uid: 20230803212943
+uid: 2023080322241254
 title: Obsidian 插件：【Readme】Open with
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 这个插件可以让你通过命令方式，用其他软件打开你的 Obsidian 笔记。几乎所有的程序打开你的笔记，前提是其他软件识别你的笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[open-with]] 插件的自述翻译
-
 
 
 # Obsidian Open with [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-open-with)](https://github.com/phibr0/obsidian-open-with/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-open-with/total)

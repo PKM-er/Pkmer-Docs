@@ -1,5 +1,5 @@
 ---
-uid: 20230803212638
+uid: 2023080322210916
 title: Obsidian 插件：【Readme】KOReader Highlights
 tags: ['obsidian插件', 'readme']
 description: 从KOReader同步高亮/笔记
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-koreader-plugin]] 插件的自述翻译
-
 
 
 # Obsidian KOReader 插件

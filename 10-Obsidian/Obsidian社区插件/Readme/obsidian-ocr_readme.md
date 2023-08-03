@@ -1,5 +1,5 @@
 ---
-uid: 20230803212901
+uid: 2023080322233604
 title: Obsidian 插件：【Readme】Obsidian OCR
 tags: ['obsidian插件', 'readme']
 description: 使用光学字符识别技术在您的图像和PDF文件中搜索文本
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-ocr]] 插件的自述翻译
-
 
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)  

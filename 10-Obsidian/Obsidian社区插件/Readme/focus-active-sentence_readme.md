@@ -1,5 +1,5 @@
 ---
-uid: 20230803212422
+uid: 2023080322183646
 title: Obsidian 插件：【Readme】Focus Active Sentence
 tags: ['obsidian插件', 'readme']
 description: 突出显示光标当前所停留的句子。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[focus-active-sentence]] 插件的自述翻译
-
 
 
 一个为[Obsidian.md](https://obsidian.md/)设计的插件，它只突出显示当前活动的句子，并使文档的其余部分变暗。灵感来自iA writer。

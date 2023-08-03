@@ -1,5 +1,5 @@
 ---
-uid: 20230803212844
+uid: 2023080322231673
 title: Obsidian 插件：【Readme】Obsidian Charts
 tags: ['图表生成', '界面相关', 'obsidian插件', 'readme']
 description: 此插件可让您使用 Chartist 作为后端创建图表！
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-charts]] 插件的自述翻译
-
 
 
 # Obsidian-Charts [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-charts)](https://github.com/phibr0/obsidian-charts/releases) [![Release Obsidian Plugin](https://github.com/phibr0/obsidian-charts/actions/workflows/release.yml/badge.svg)](https://github.com/phibr0/obsidian-charts/actions/workflows/release.yml) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-charts/total)

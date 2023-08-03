@@ -1,5 +1,5 @@
 ---
-uid: 20230803211908
+uid: 2023080322133636
 title: Obsidian 插件：【Readme】Adamantine Pick
 tags: ['obsidian插件', 'readme']
 description: Obsidian的可嵌入式Pikchr图表渲染器插件
@@ -36,7 +36,6 @@ Obsidian的可嵌入式Pikchr图表渲染器插件
 ## Readme(翻译）
 
 下面是 [[adamantine-pick]] 插件的自述翻译
-
 
 
 ![GitHub发布（包括预发布）的最新日期](https://img.shields.io/github/v/release/notlibrary/obsidian-adamantine-pick?style=for-the-badge&sort=semver)

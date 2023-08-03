@@ -1,5 +1,5 @@
 ---
-uid: 20230803212446
+uid: 2023080322190434
 title: Obsidian 插件：【Readme】Gemmy
 tags: ['obsidian插件', 'readme']
 description: 黑曜石非助手。由黑曜石提供的2023年愚人节插件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[gemmy]] 插件的自述翻译
-
 
 
 # Gemmy - 黑曜石非助手

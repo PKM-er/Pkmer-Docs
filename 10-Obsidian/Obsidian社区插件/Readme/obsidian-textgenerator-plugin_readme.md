@@ -1,5 +1,5 @@
 ---
-uid: 20230803213327
+uid: 2023080322280650
 title: Obsidian 插件：【Readme】Text Generator
 tags: ['AI', '第三方工具集成', '编辑工具', '中文处理', 'obsidian插件', 'readme']
 description: 文本生成器是一个方便的插件，可帮助您使用 GPT-3 (OpenAI) 生成文本内容。
@@ -38,30 +38,17 @@ modified: 20230101000000
 下面是 [[obsidian-textgenerator-plugin]] 插件的自述翻译
 
 
-
 I am a language model developed by OpenAI.
 # Obsidian文本生成插件
 
 
-
-
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/TextGenPlugin?style=social)](https://twitter.com/intent/follow?screen_name=TextGenPlugin)
-
-
 
 **文本生成器**是一个开源的AI助手工具，将生成式人工智能的强大功能引入到Obsidian的知识创造和组织中。
 
-
-
 例如，使用文本生成器根据您的知识数据库生成想法、吸引人的标题、摘要、大纲和整段文字。
 
-
-
 可能性无限！
-
-
-
 
 
 如果您正在寻找一个讨论此插件用例并分享您的经验的地方，请访问我们的[**Discord服务器（已更新）**](https://discord.gg/BRYqetyjag)或[讨论区](https://github.com/nhaouari/obsidian-textgenerator-plugin/discussions/categories/use-cases)。在那里，您将找到一群志同道合的用户，他们热衷于帮助您充分利用这个强大的工具。
@@ -81,7 +68,6 @@ I am a language model developed by OpenAI.
 [![在这里插入图片的替代文字](https://img.youtube.com/vi/OergqWCdFKc/0.jpg)](https://www.youtube.com/watch?v=OergqWCdFKc)
 
 # 文档
-
 > [文档](https://bit.ly/3ORwT00).
 
 

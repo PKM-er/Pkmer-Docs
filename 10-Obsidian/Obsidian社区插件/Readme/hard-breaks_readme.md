@@ -1,5 +1,5 @@
 ---
-uid: 20230803212519
+uid: 2023080322193651
 title: Obsidian 插件：【Readme】Hard Breaks
 tags: ['obsidian插件', 'readme']
 description: 将Markdown中的软换行转换为硬换行
@@ -38,41 +38,23 @@ modified: 20230101000000
 下面是 [[hard-breaks]] 插件的自述翻译
 
 
-
 # Obsidian硬换行插件 <!-- 在目录中省略 -->
-
-
 
 > ✅ 经过测试，可以与Obsidian的新主要版本（1.0.x）一起使用！
 
-
-
 这是一个为[Obsidian](https://obsidian.md/)设计的插件，它添加了一个编辑器命令，用于在当前打开的文档中强制使用[*硬*换行](https://spec.commonmark.org/0.17/#hard-line-breaks)（与[*软*换行](https://spec.commonmark.org/0.17/#soft-line-breaks)相对）。硬换行仅在**文本段落和引用块**中强制使用！该插件不会影响表格、链接、列表等中的文本。
-
-
 
 Obsidian硬换行插件利用了[一组强大的开源Markdown解析工具](#acknowledgements)来确保它能够完成预期的功能。
 
-
-
 - [功能](#features)
-
 - [我需要这个插件吗？](#do-i-need-this-plugin)
-
 - [软换行和硬换行有什么区别？](#what-are-soft-vs-hard-line-breaks)
-
 - [为什么要强制使用硬换行？](#why-force-hard-line-breaks)
-
 - [安装](#installation)
-
 - [关于可能的附加功能的想法](#thoughts-on-possible-additional-features)
-
   - [在写作时自动使用硬换行](#automatic-hard-breaks-while-writing)
-
   - [在多个文档中强制使用换行](#force-line-breaks-in-multiple-documents)
-
 - [开发](#development)
-
 - [致谢](#acknowledgements)
 
 ## 特点

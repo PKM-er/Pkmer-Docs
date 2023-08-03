@@ -1,5 +1,5 @@
 ---
-uid: 20230803211944
+uid: 2023080322141713
 title: Obsidian 插件：【Readme】AsciiDoc Blocks Plugin
 tags: ['obsidian插件', 'readme']
 description: Obsidian中渲染asciidoc块的插件，最初是asciidoc表格。
@@ -36,7 +36,6 @@ Obsidian中渲染asciidoc块的插件，最初是asciidoc表格。
 ## Readme(翻译）
 
 下面是 [[obsidian-asciidoc-blocks]] 插件的自述翻译
-
 
 
 = Obsidian AsciiDoc Blocks 插件

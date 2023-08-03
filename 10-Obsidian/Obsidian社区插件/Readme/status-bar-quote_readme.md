@@ -1,5 +1,5 @@
 ---
-uid: 20230803213250
+uid: 2023080322272422
 title: Obsidian 插件：【Readme】Status Bar Quote
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian状态栏中展示你最喜欢的格言
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[status-bar-quote]] 插件的自述翻译
-
 
 
 <img width="1440" alt="Screen Shot 2022-10-18 at 9 00 32 PM" src="https://user-images.githubusercontent.com/45530894/196423905-933ec467-024f-4683-99df-551f351c4b87.png">

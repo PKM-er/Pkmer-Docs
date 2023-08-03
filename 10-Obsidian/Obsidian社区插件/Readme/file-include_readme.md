@@ -1,5 +1,5 @@
 ---
-uid: 20230803212403
+uid: 2023080322181597
 title: Obsidian 插件：【Readme】File Include
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian的markdown中包含或嵌入文件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[file-include]] 插件的自述翻译
-
 
 
 ![](demo.png)

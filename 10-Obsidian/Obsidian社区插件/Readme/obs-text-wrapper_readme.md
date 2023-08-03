@@ -1,5 +1,5 @@
 ---
-uid: 20230803213330
+uid: 2023080322281005
 title: Obsidian 插件：【Readme】Text Wrapper
 tags: ['obsidian插件', 'readme']
 description: 通过使用快捷键或从命令面板中选择，快速包装所选文本与 HTML 标签
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obs-text-wrapper]] 插件的自述翻译
-
 
 
 # 文本包装器

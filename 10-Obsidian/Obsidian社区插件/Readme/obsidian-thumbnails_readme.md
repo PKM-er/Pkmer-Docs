@@ -1,5 +1,5 @@
 ---
-uid: 20230803213336
+uid: 2023080322281709
 title: Obsidian 插件：【Readme】Thumbnails
 tags: ['obsidian插件', 'readme']
 description: 将 YouTube 缩略图插入您的笔记中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-thumbnails]] 插件的自述翻译
-
 
 
 ![版本徽章](https://img.shields.io/github/v/release/Meikul/obsidian-thumbnails)

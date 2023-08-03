@@ -1,5 +1,5 @@
 ---
-uid: 20230803213141
+uid: 2023080322260947
 title: Obsidian 插件：【Readme】Rewarder
 tags: ['obsidian插件', 'readme']
 description: 完成任务/待办事项可获得奖励，高度可配置。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-rewarder]] 插件的自述翻译
-
 
 
 ## 黑曜石奖励者

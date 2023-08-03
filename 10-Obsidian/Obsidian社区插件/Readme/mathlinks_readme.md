@@ -1,5 +1,5 @@
 ---
-uid: 20230803212739
+uid: 2023080322221181
 title: Obsidian 插件：【Readme】MathLinks
 tags: ['obsidian插件', 'readme']
 description: 在你的链接中渲染MathJax
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[mathlinks]] 插件的自述翻译
-
 
 
 # Obsidian MathLinks

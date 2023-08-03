@@ -1,5 +1,5 @@
 ---
-uid: 20230803212854
+uid: 2023080322232634
 title: Obsidian 插件：【Readme】Obsidian jTab
 tags: ['编辑器', '美化', '音乐相关', 'obsidian插件', 'readme']
 description: 使用 jTab 代码块将吉他和和弦图，以图片的形式添加到集中。jTab
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-jtab]] 插件的自述翻译
-
 
 
 ### Obsidian jTab指南

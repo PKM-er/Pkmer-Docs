@@ -1,5 +1,5 @@
 ---
-uid: 20230803212128
+uid: 2023080322160696
 title: Obsidian 插件：【Readme】Code Files
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中使用VS Code强大的Monaco编辑器编辑代码文件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[code-files]] 插件的自述翻译
-
 
 
 # Obsidian代码文件

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213502
+uid: 2023080322295186
 title: Obsidian 插件：【Readme】Youglish Plugin
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 支持你通过 Youtube 学习英语的发音。
@@ -38,27 +38,17 @@ modified: 20230101000000
 下面是 [[obsidian-youglish-plugin]] 插件的自述翻译
 
 
-
 # Youglish 插件
-
 ![](./1.gif)
-
-
 
 该插件使用 Youglish 小部件<sup>[1](#myfootnote1)</sup>。使用 YouTube 来提高你的发音。YouGlish 提供超过 5000 万个音轨，能够快速、公正地回答有关单词如何由真实人们在上下文中发音的问题。
 
 ## 安装
-
 - 如果您有先前版本的插件，请将其删除
-
 - 您需要 Obsidian v0.9.12+
-
 - 获取[最新版本]()
-
 - 解压文件并将其放置在您的 vault 的插件文件夹中：`<vault>/.obsidian/plugins/`
-
 - 重新加载 Obsidian
-
 - 如果提示安全模式，请禁用安全模式并启用插件。否则，请前往设置，第三方插件，确保安全模式关闭，并从那里启用插件。
 
 如何使用

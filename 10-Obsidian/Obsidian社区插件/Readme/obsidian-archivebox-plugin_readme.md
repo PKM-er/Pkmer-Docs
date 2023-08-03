@@ -1,5 +1,5 @@
 ---
-uid: 20230803211942
+uid: 2023080322141379
 title: Obsidian 插件：【Readme】ArchiveBox
 tags: ['obsidian插件', 'readme']
 description: ArchiveBox.io支持外部Obsidian链接
@@ -36,7 +36,6 @@ ArchiveBox.io支持外部Obsidian链接
 ## Readme(翻译）
 
 下面是 [[obsidian-archivebox-plugin]] 插件的自述翻译
-
 
 
 # Obsidian ArchiveBox 插件

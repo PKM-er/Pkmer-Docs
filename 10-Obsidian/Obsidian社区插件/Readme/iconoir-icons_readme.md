@@ -1,5 +1,5 @@
 ---
-uid: 20230803212550
+uid: 2023080322200821
 title: Obsidian 插件：【Readme】Iconoir Icons
 tags: ['obsidian插件', 'readme']
 description: 一个用于创建和显示定制的SVG Iconoir图标的插件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[iconoir-icons]] 插件的自述翻译
-
 
 
 # iconoir-icons

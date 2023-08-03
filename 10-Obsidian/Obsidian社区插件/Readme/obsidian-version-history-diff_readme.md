@@ -1,5 +1,5 @@
 ---
-uid: 20230803213425
+uid: 2023080322291445
 title: Obsidian 插件：【Readme】Version History Diff (Sync, File Recovery & Git)
 tags: ['obsidian插件', 'readme']
 description: 比较同步和文件恢复插件以及当前文件的Git版本历史。添加一个命令来打开同步插件的版本历史。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-version-history-diff]] 插件的自述翻译
-
 
 
 版本历史差异（用于同步和文件恢复核心插件和Git）

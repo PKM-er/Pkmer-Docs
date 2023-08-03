@@ -1,5 +1,5 @@
 ---
-uid: 20230803213103
+uid: 2023080322252648
 title: Obsidian 插件：【Readme】Quiet Outline
 tags: ['目录/标题', '美化', '效率', 'obsidian插件', 'readme']
 description: 一个强大纲编辑器，可以定位大纲，修改大纲，甚至通过拖动大纲来变换内容排版。支持多种内容做为标题，包括特殊样式，数学公示等。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-quiet-outline]] 插件的自述翻译
-
 
 
 # Obsidian Quiet Outline

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212605
+uid: 2023080322202792
 title: Obsidian 插件：【Readme】Importer
 tags: ['obsidian插件', 'readme']
 description: 从其他应用程序（如Evernote）导入笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-importer]] 插件的自述翻译
-
 
 
 ![Obsidian导入器截图](/images/social.png)

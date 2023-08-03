@@ -1,5 +1,5 @@
 ---
-uid: 20230803212433
+uid: 2023080322185069
 title: Obsidian 插件：【Readme】From Template
 tags: ['obsidian插件', 'readme']
 description: 从模板创建新笔记 - 为每个模板提供一个触发它的命令，以及一个填写模板中任何变量的表单。
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[obsidian-notes-from-template]] 插件的自述翻译
 
 
-
 # 模板笔记
 
 该插件添加了基于模板文件创建笔记的命令。它将遍历设置中的`templates`目录中的每个文件，并为每个文件创建一个名为'From Template: <X>'的命令。每个命令将根据给定的模板创建一个笔记，并使用弹出窗口请求模板中的每个变量的值，该模板使用[Mustache](https://github.com/janl/mustache.js)语法。
@@ -62,37 +61,20 @@ template-should-create: "open-pane"
 
 # {{标题}}
 
-
-
 {{概述：区域}}
-
 ^概述
-
-
 
 组织：{{组织}}
 
-
-
 {{正文}}
-
 ```
 
-
-
 这将会：
-
 - 弹出一个窗口，要求输入一个笔记标题、一个概述（在文本框中）、一个组织（文本字段）和一些标签。
-
 - 如果编辑器中的选择是“Joe Blogs - Weissman Heiss的经理 -（很多细节）”，则弹出窗口将以Joe Blogs作为标题，“Weissman Heiss的经理”作为概述，并在正文字段中填入很多细节。
-
 - 基于People目录中的模板创建一个笔记。
-
 - 用替换字符串替换选择的文本 - 在这种情况下，是一个指向该笔记的链接，并且概述段落的引用。如果没有选择文本，则不会将任何内容放入文档中。
-
 - 在新窗口中打开新的笔记
-
-
 
 ```
 
@@ -161,11 +143,8 @@ template-replacement: "{{templateResult}}"
 ## 更新日志
 
 ### 0.1.11
-
 - 为模态框添加了CSS类以进行样式设置
-
 - 添加了`multi`字段类型，允许多选和切换
-
 - 添加了字段描述：`{fieldname:text:default:description}`或`{fieldname:area:description}`
 
 ### 0.1.7 

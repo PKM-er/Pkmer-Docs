@@ -1,5 +1,5 @@
 ---
-uid: 20230803212533
+uid: 2023080322195007
 title: Obsidian 插件：【Readme】Hotkey Helper
 tags: ['快捷键', '效率', 'obsidian插件', 'readme']
 description: 一个快捷键助手，让你更容易的管理 Obsidian 的快捷键。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[hotkey-helper]] 插件的自述翻译
-
 
 
 ## 快捷键助手：更轻松地管理Obsidian的快捷键和选项

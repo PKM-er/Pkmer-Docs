@@ -1,5 +1,5 @@
 ---
-uid: 20230803212250
+uid: 2023080322171773
 title: Obsidian 插件：【Readme】Dialogue
 tags: ['编辑器', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 利用特定的语法，在 Markdown 中创建对话样式的笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-dialogue-plugin]] 插件的自述翻译
-
 
 
 # Obsidian 对话插件
@@ -118,7 +117,6 @@ modified: 20230101000000
 > Lorem ipsum dolor sit amet
 > Ut nec efficitur mauris, a lacinia purus. Fusce nisi arcu, sollicitudin eget sodales sit amet, consectetur a lorem. Nam egestas tristique felis, sed suscipit nunc commodo nec.
 ```
-
 ````
 
 #### 结果
@@ -156,8 +154,6 @@ modified: 20230101000000
 
 ### 带有分隔符的对话
 
-
-
 使用`delimiter`（或简写为`-`）命令将分隔符添加到对话中。
 
 #### 示例代码
@@ -184,10 +180,7 @@ delimiter
 
 ### 带有注释的对话
 
-
-
 注释可以通过`#`前缀添加到对话中（见下面的示例）。注释必须恰好为一个段落。
-
 注释的最大宽度可以使用`commentMaxWidth:`参数进行修改。
 
 ```对话

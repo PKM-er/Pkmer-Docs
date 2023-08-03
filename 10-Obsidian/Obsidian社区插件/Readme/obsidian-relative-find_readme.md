@@ -1,5 +1,5 @@
 ---
-uid: 20230803213129
+uid: 2023080322255434
 title: Obsidian 插件：【Readme】Relative Find
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 这个插件可以让你根据你的光标位置搜索。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-relative-find]] 插件的自述翻译
-
 
 
 # Obsidian相对查找 [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-relative-find)](https://github.com/phibr0/obsidian-relative-find/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-relative-find/total)

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213205
+uid: 2023080322263539
 title: Obsidian 插件：【Readme】Semantic Search
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI的文本嵌入进行文件的语义搜索。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[bbawj-semantic-search]] 插件的自述翻译
-
 
 
 基于您的意图查找所需内容。这是一个由OpenAI的嵌入式API提供支持、使用WASM和Rust构建的新文件切换工具。

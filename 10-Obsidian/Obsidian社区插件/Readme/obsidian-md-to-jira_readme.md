@@ -1,5 +1,5 @@
 ---
-uid: 20230803212733
+uid: 2023080322220563
 title: Obsidian 插件：【Readme】Markdown to Jira Converter
 tags: ['obsidian插件', 'readme']
 description: 一个插件，用于将笔记或选择转换为jira标记，反之亦然。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-md-to-jira]] 插件的自述翻译
-
 
 
 <h1 align="center">Obsidian Markdown转Jira（反向亦然）</h1>

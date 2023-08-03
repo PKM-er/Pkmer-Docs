@@ -1,5 +1,5 @@
 ---
-uid: 20230803212829
+uid: 2023080322230197
 title: Obsidian 插件：【Readme】Note Linker
 tags: ['obsidian插件', 'readme']
 description: 自动发现并在笔记之间创建新的链接。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obisidian-note-linker]] 插件的自述翻译
-
 
 
 ## 🔗 Obsidian笔记链接器

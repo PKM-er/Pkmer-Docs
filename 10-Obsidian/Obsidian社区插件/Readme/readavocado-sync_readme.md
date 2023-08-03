@@ -1,5 +1,5 @@
 ---
-uid: 20230803213115
+uid: 2023080322253898
 title: Obsidian 插件：【Readme】Readavocado Sync
 tags: ['obsidian插件', 'readme']
 description: 将你的Readavocado重点与Obsidian同步
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[readavocado-sync]] 插件的自述翻译
-
 
 
 # Readavocado同步插件

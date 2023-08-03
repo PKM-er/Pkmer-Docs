@@ -1,5 +1,5 @@
 ---
-uid: 20230803213051
+uid: 2023080322251281
 title: Obsidian 插件：【Readme】PubScale
 tags: ['obsidian插件', 'readme']
 description: 无缝同步Markdown笔记到PlanetScale表中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[pubscale]] 插件的自述翻译
-
 
 
 I am sorry, but I am unable to translate the text as it is not provided. Could you please provide the text that you would like me to translate into Chinese?

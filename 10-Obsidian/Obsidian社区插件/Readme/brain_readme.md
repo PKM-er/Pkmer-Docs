@@ -1,5 +1,5 @@
 ---
-uid: 20230803212037
+uid: 2023080322151917
 title: Obsidian 插件：【Readme】brAIn
 tags: ['obsidian插件', 'readme']
 description: 一个由ChatGPT驱动的聊天机器人，专注于回答你在Obsidian vault笔记中的问题。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[brain]] 插件的自述翻译
-
 
 
 # 🧠 Obsidian brAIn 插件

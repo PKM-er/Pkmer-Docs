@@ -1,5 +1,5 @@
 ---
-uid: 20230803213200
+uid: 2023080322263075
 title: Obsidian 插件：【Readme】Search on Internet
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 添加右键菜单，你可以针对圈选笔记文本，进行网络搜索。并且你可以使用自定义搜索引擎。
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[search-on-internet]] 插件的自述翻译
 
 
-
 <p align="left">
     <a href="https://github.com/HEmile/obsidian-search-on-internet/releases">
         <img src="https://img.shields.io/github/downloads/HEmile/obsidian-search-on-internet/total.svg"
@@ -56,38 +55,21 @@ modified: 20230101000000
 
 警告：右键菜单在最新的Obsidian版本中存在问题，因此此插件将无法正常工作！
 ## 在互联网上搜索
-
 添加了在外部网站上搜索选定文本的选项，如Google和维基百科。
-
 搜索在Obsidian中的iframe中打开。您可以添加自己的网站！
-
-
 
 ![](https://raw.githubusercontent.com/HEmile/obsidian-search-on-internet/master/resources/context_iframe.gif)
 
-
-
 它还将搜索选项添加到文件上下文菜单中，以根据笔记标题进行搜索。
-
 您还可以选择在默认浏览器中而不是Obsidian中打开搜索。
-
-
 
 ![](https://raw.githubusercontent.com/HEmile/obsidian-search-on-internet/master/resources/demo.gif)
 
-
-
 您还可以右键单击内部链接以对该链接进行搜索：
-
-
 
 ![](https://raw.githubusercontent.com/HEmile/obsidian-search-on-internet/master/resources/internal_link.png)
 
-
-
 对于外部链接也是如此：
-
-
 
 ![](https://raw.githubusercontent.com/HEmile/obsidian-search-on-internet/master/resources/external_link.png)
 

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212239
+uid: 2023080322170953
 title: Obsidian 插件：【Readme】Dataview
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 为 Obsidian 提供数据查询能力，这需要学习一些较为简单的语法，但可以实现丰富的查询和组合效果。包括生成表格，标签，跟踪特定的笔记变化，选择具体笔记内容。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[dataview]] 插件的自述翻译
-
 
 
 # Obsidian Dataview

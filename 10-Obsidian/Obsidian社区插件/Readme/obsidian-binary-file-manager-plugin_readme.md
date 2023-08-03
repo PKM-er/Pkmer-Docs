@@ -1,5 +1,5 @@
 ---
-uid: 20230803212029
+uid: 2023080322151120
 title: Obsidian 插件：【Readme】Binary File Manager
 tags: ['obsidian插件', 'readme']
 description: 检测拱顶中的新二进制文件并创建具有元数据的Markdown文件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-binary-file-manager-plugin]] 插件的自述翻译
-
 
 
 ## 二进制文件管理器插件

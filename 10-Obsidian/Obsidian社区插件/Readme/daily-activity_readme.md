@@ -1,5 +1,5 @@
 ---
-uid: 20230803212229
+uid: 2023080322170117
 title: Obsidian 插件：【Readme】Daily Activity
 tags: ['文件历史', '效率', '文件管理', 'obsidian插件', 'readme']
 description: 通过命令面板火快捷键，为你生成修改过的文件，创建的文件的统计或者是文件链接。
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[daily-activity]] 插件的自述翻译
 
 
-
 # Obsidian 活动插件
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/trydalch/obsidian-daily-activity?style=for-the-badge&sort=semver)](https://github.com/trydalch/obsidian-daily-activity/releases/latest)
@@ -62,20 +61,12 @@ modified: 20230101000000
 | (已弃用) 今天的统计信息              | 插入一个包含今天写作活动统计信息的表格。<br\> **将在将来的版本中删除**                                                                                                      |
 
 ## 示例
-
 - **日期的统计**
-
   - 没有选择：输出今天的统计数据
-
   - `yesterday`：昨天的统计数据
-
   - `2021-02-20`：2021-02-20的统计数据
-
   - `2021-02-15 to 2021-02-20`：这些日期之间的统计数据，包括这个范围。
-
   - `5 days ago to today`：该范围内的统计数据
-
-
 
   更多自然语言日期格式的示例，请参见此处：https://github.com/wanasit/chrono
 

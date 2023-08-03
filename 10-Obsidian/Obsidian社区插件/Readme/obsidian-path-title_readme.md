@@ -1,5 +1,5 @@
 ---
-uid: 20230803213010
+uid: 2023080322243519
 title: Obsidian 插件：【Readme】Path Title
 tags: ['obsidian插件', 'readme']
 description: 将路径（或可选替换）添加到每个窗格的文件名标题
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-path-title]] 插件的自述翻译
-
 
 
 # 黑曜石路径标题

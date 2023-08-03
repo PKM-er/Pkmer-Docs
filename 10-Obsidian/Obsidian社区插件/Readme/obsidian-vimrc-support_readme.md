@@ -1,5 +1,5 @@
 ---
-uid: 20230803213432
+uid: 2023080322292128
 title: Obsidian 插件：【Readme】Vimrc Support
 tags: ['Vim相关', 'obsidian插件', 'readme']
 description: 支持 Vimrc 配置文件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-vimrc-support]] 插件的自述翻译
-
 
 
 # Obsidian Vimrc 支持插件
@@ -179,90 +178,47 @@ nmap <C-o> :back
 
 ## 使用 `surround` 包围文本
 
-
-
 该插件定义了一个名为 `surround` 的自定义 Ex 命令，用于在可视模式下包围当前选择的文本或在正常模式下包围光标所在的单词。
-
 这对于习惯使用 `vim-surround` 插件的 Vim 用户非常有用。
-
-
 
 语法如下：`:surround [前缀文本] [后缀文本]`。
 
-
-
 以下是一些示例：
 
-
-
 - `surround ( )`
-
 - `surround " "`
-
 - `surround [[ ]]`
-
-
 
 下面是一个实现了 vim-surround 的许多功能的示例配置：
 
-
-
 ```
-
 exmap surround_wiki surround [[ ]]
-
 exmap surround_double_quotes surround " "
-
 exmap surround_single_quotes surround ' '
-
 exmap surround_backticks surround ` `
-
 exmap surround_brackets surround ( )
-
 exmap surround_square_brackets surround [ ]
-
 exmap surround_curly_brackets surround { }
 
-
-
 " 注意：必须使用 'map' 而不是 'nmap'
-
 map [[ :surround_wiki
-
 nunmap s
-
 vunmap s
-
 map s" :surround_double_quotes
-
 map s' :surround_single_quotes
-
 map s` :surround_backticks
-
 map sb :surround_brackets
-
 map s( :surround_brackets
-
 map s) :surround_brackets
-
 map s[ :surround_square_brackets
-
 map s[ :surround_square_brackets
-
 map s{ :surround_curly_brackets
-
 map s} :surround_curly_brackets
-
 ```
-
-
 
 用法：
 
-
-
 1. 在可视模式下选择一些文本，然后按下 `s`，然后按下所需的包围字符。例如，按下 `s"` 将用双引号包围所选文本。
-
 2. 在正常模式下将光标放在一个单词上，然后按下 `s`，然后按下所需的包围字符。例如，按下 `s"` 将用双引号包围该单词。
 
 ## 使用`pasteinto`插入链接/超链接
@@ -548,7 +504,6 @@ div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
 - 添加了`cmcommand`命令，用于执行任意CodeMirror命令。
 
 ### 0.4.5
-
 显然，0.4.4版本中的修复措施还不够好。希望我们现在已经解决了这个问题。
 
 ### 0.4.4
@@ -559,24 +514,17 @@ div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
 - 添加了转义字符反斜杠来包围命令。
 
 ### 0.4.2
-
 - 尝试修复 https://github.com/esm7/obsidian-vimrc-support/issues/42（感谢 @Andr3wD！）
-
 - 修复了“正常模式下的固定键盘布局”通常无法正常工作的问题。
 
 ### 0.4.1
 - `surround` 中的小修复。
 
 ### 0.4.0
-
 - `surround` 和 `pasteinto` 命令（感谢 @Andr3wD！）
-
 - Vim 和弦显示（感谢 @Andr3wD！）
-
 - Vim 模式显示（感谢 @Andr3wD！）
-
 - 修复了[折叠和展开错误](https://github.com/esm7/obsidian-vimrc-support/issues/35)。
-
 - 插件现在支持在正常模式下保持固定的键盘布局，如果配置为这样做的话。
 
 ### 0.3.1

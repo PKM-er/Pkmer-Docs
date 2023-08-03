@@ -1,5 +1,5 @@
 ---
-uid: 20230803211956
+uid: 2023080322143062
 title: Obsidian 插件：【Readme】Auto Hide
 tags: ['obsidian插件', 'readme']
 description: 点击编辑器/查看器面板时折叠侧边栏
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-auto-hide]] 插件的自述翻译
-
 
 
 # Obsidian自动隐藏插件

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212119
+uid: 2023080322155837
 title: Obsidian 插件：【Readme】Cloudinary
 tags: ['obsidian插件', 'readme']
 description: 将内容（图片、视频、音频）上传到Cloudinary，并将它们插入（复制或拖放）到您的笔记中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[cloudinary]] 插件的自述翻译
-
 
 
 # 云端图像管理平台

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213354
+uid: 2023080322284029
 title: Obsidian 插件：【Readme】tq
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 基于文件的任务管理
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tq-obsidian]] 插件的自述翻译
-
 
 
 tq是一个用于使用基于文件的工作流程管理任务的[Obsidian](https://obsidian.md)插件。每个任务都以一个Markdown笔记表示，其中包含一行任务和一些元数据在frontmatter中。任务通过在其他笔记中嵌入查询来查看，例如您的每日笔记。

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213404
+uid: 2023080322285361
 title: Obsidian 插件：【Readme】Typing Transformer
 tags: ['obsidian插件', 'readme']
 description: 改进的、可配置的自动格式化输入
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[typing-transformer-obsidian]] 插件的自述翻译
-
 
 
 <p align="right"><strong>英语</strong> | </p>

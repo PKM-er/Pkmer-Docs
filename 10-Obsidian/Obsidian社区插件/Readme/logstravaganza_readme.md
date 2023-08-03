@@ -1,5 +1,5 @@
 ---
-uid: 20230803212715
+uid: 2023080322214741
 title: Obsidian 插件：【Readme】Logstravaganza
 tags: ['obsidian插件', 'readme']
 description: 一个简单的代理，用于将`console.*()`调用的日志消息和未捕获的异常复制到一个注释中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[logstravaganza]] 插件的自述翻译
-
 
 
 # Logstravaganza

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213435
+uid: 2023080322292426
 title: Obsidian 插件：【Readme】WaveDrom
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 用于创建 wavedrom 图。
@@ -38,15 +38,12 @@ modified: 20230101000000
 下面是 [[obsidian-wavedrom]] 插件的自述翻译
 
 
-
 ## Obsidian WaveDrom 支持
 
 安装此插件允许您在 Obsidian 中使用 wavedrom fence。
 
 ```
-
 ```wavedrom
-
 ```
 
 ### 如何使用
@@ -64,7 +61,6 @@ modified: 20230101000000
 请参阅https://github.com/obsidianmd/obsidian-api
 
 什么是Wavedrom？
-
 https://wavedrom.com/
 
 

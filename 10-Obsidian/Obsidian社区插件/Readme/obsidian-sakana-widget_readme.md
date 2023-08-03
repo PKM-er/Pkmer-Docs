@@ -1,5 +1,5 @@
 ---
-uid: 20230803213150
+uid: 2023080322261898
 title: Obsidian 插件：【Readme】Sakana Widget
 tags: ['obsidian插件', 'readme']
 description: 把Sakana！小部件添加到你自己的Obsidian！
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-sakana-widget]] 插件的自述翻译
-
 
 
 <p align="center">

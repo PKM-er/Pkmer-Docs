@@ -1,5 +1,5 @@
 ---
-uid: 20230803213443
+uid: 2023080322293312
 title: Obsidian 插件：【Readme】Wikilinks to MDLinks
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将双链和 Markdown 链接互换。
@@ -38,18 +38,11 @@ modified: 20230101000000
 下面是 [[wikilinks-to-mdlinks-obsidian]] 插件的自述翻译
 
 
-
 # Wikilinks to MDLinks（一个 Obsidian.md 插件）
-
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/agathauy/wikilinks-to-mdlinks-obsidian)](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian/releases/latest)
-
 [![GitHub All Releases](https://img.shields.io/github/downloads/agathauy/wikilinks-to-mdlinks-obsidian/total)](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian/releases)
 
-
-
 该插件允许将单独选择的维基链接转换为 Markdown 链接，反之亦然。
-
-
 
 ![demo](https://raw.githubusercontent.com/agathauy/wikilinks-to-mdlinks-obsidian/master/demo2.gif)
 

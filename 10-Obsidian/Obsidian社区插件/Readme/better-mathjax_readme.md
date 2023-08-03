@@ -1,5 +1,5 @@
 ---
-uid: 20230803212024
+uid: 2023080322150392
 title: Obsidian 插件：【Readme】Better MathJax
 tags: ['obsidian插件', 'readme']
 description: 提供数学自动完成和可自定义的代码片段。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[better-mathjax]] 插件的自述翻译
-
 
 
 # BetterMathjax For Obsidian

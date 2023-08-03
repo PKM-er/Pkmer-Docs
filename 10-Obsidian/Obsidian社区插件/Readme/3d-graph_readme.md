@@ -1,5 +1,5 @@
 ---
-uid: 20230803211859
+uid: 2023080322132873
 title: Obsidian 插件：【Readme】3D Graph
 tags: ['关系图谱', '美化', 'obsidian插件', 'readme']
 description: 把 关系图谱 3D化，效果很绚丽

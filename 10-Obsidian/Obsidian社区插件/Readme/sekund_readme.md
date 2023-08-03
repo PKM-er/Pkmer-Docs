@@ -1,5 +1,5 @@
 ---
-uid: 20230803212910
+uid: 2023080322234356
 title: Obsidian 插件：【Readme】Obsidian Social (Sekund)
 tags: ['obsidian插件', 'readme']
 description: 分享笔记并收集反馈
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[sekund]] 插件的自述翻译
-
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X3C08KJ)

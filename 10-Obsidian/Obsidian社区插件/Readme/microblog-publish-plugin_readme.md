@@ -1,5 +1,5 @@
 ---
-uid: 20230803212800
+uid: 2023080322223339
 title: Obsidian 插件：【Readme】Micro.publish
 tags: ['obsidian插件', 'readme']
 description: 发布笔记到Micro.blog。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[microblog-publish-plugin]] 插件的自述翻译
-
 
 
 # Micro.publish

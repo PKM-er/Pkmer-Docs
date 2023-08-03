@@ -1,5 +1,5 @@
 ---
-uid: 20230803212504
+uid: 2023080322192215
 title: Obsidian 插件：【Readme】Google Tasks
 tags: ['obsidian插件', 'readme']
 description: 从Obsidian内部与你的Google Tasks互动
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-google-tasks]] 插件的自述翻译
-
 
 
 # Obsidian Google Tasks

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213307
+uid: 2023080322274443
 title: Obsidian 插件：【Readme】Tabout
 tags: ['obsidian插件', 'readme']
 description: 轻松地从链接或其他 Markdown 格式字符中“制表符出去”。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tabout]] 插件的自述翻译
-
 
 
 # Obsidian Tabout [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-tabout)](https://github.com/phibr0/obsidian-tabout/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-tabout/total)

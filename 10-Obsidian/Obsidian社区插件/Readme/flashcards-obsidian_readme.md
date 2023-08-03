@@ -1,5 +1,5 @@
 ---
-uid: 20230803212415
+uid: 2023080322182742
 title: Obsidian 插件：【Readme】Flashcards
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: Anki集成。
@@ -36,7 +36,6 @@ Anki集成。
 ## Readme(翻译）
 
 下面是 [[flashcards-obsidian]] 插件的自述翻译
-
 
 
 > :warning: **我目前正在寻找一个共同维护者。**请查看[#125](https://github.com/reuseman/flashcards-obsidian/issues/125)，如果你有兴趣，请告诉我 :)

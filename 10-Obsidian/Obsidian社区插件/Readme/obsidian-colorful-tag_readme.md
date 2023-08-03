@@ -1,5 +1,5 @@
 ---
-uid: 20230803212135
+uid: 2023080322161315
 title: Obsidian 插件：【Readme】Colorful Tag
 tags: ['界面相关', '效率', '美化', 'obsidian插件', 'readme']
 description: 你可以轻松地为标签添加前缀或后缀图标/符号，也可以更改标签的背景或文本颜色，边框样式
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-colorful-tag]] 插件的自述翻译
-
 
 
 # 多彩标签

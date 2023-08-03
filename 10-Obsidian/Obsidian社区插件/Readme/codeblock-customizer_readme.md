@@ -1,5 +1,5 @@
 ---
-uid: 20230803212131
+uid: 2023080322160870
 title: Obsidian 插件：【Readme】Codeblock Customizer
 tags: ['obsidian插件', 'readme']
 description: 在编辑和阅读模式下自定义您的代码块。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[codeblock-customizer]] 插件的自述翻译
-
 
 
 <h1 align="center">Codeblock Customizer 插件</h1>

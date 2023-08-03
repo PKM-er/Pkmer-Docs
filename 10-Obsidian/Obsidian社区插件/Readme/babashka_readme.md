@@ -1,5 +1,5 @@
 ---
-uid: 20230803212013
+uid: 2023080322145144
 title: Obsidian 插件：【Readme】Babashka
 tags: ['obsidian插件', 'readme']
 description: 在Babashka中评估Clojure(Script)代码块。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[babashka]] 插件的自述翻译
-
 
 
 Obsidian Babashka是Obsidian的插件，通过Babashka和Node Babashka分别运行Clojure和ClojureScript代码块。

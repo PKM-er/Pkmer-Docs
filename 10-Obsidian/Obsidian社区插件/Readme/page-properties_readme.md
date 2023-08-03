@@ -1,5 +1,5 @@
 ---
-uid: 20230803212957
+uid: 2023080322242503
 title: Obsidian 插件：【Readme】Page Properties
 tags: ['obsidian插件', 'readme']
 description: 添加类似于Logseq的页面属性。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[page-properties]] 插件的自述翻译
-
 
 
 # Obsidian页面属性

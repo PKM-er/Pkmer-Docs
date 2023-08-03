@@ -1,5 +1,5 @@
 ---
-uid: 20230803212649
+uid: 2023080322212069
 title: Obsidian 插件：【Readme】Ledger
 tags: ['金融', 'obsidian插件', 'readme']
 description: 普通文本会计
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ledger-obsidian]] 插件的自述翻译
-
 
 
 # Obsidian账本

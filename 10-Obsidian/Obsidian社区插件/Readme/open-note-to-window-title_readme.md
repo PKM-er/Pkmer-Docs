@@ -1,5 +1,5 @@
 ---
-uid: 20230803212221
+uid: 2023080322165461
 title: Obsidian 插件：【Readme】Custom window title
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这个插件在窗口标题中显示当前打开的音符。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[open-note-to-window-title]] 插件的自述翻译
-
 
 
 # 将活动笔记添加到窗口标题

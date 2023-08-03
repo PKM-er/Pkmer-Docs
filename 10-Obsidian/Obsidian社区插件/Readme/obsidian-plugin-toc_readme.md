@@ -1,5 +1,5 @@
 ---
-uid: 20230803213306
+uid: 2023080322274271
 title: Obsidian 插件：【Readme】Table of Contents
 tags: ['编辑工具', '目录/标题', 'obsidian插件', 'readme']
 description: 为笔记内生成静态目录。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-plugin-toc]] 插件的自述翻译
-
 
 
 # obsidian-plugin-toc

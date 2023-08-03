@@ -1,5 +1,5 @@
 ---
-uid: 20230803212725
+uid: 2023080322215748
 title: Obsidian 插件：【Readme】Markdoc
 tags: ['obsidian插件', 'readme']
 description: Markdoc文件的基本支持。
@@ -36,7 +36,6 @@ Markdoc文件的基本支持。
 ## Readme(翻译）
 
 下面是 [[markdoc]] 插件的自述翻译
-
 
 
 # Obsidian的Markdoc插件

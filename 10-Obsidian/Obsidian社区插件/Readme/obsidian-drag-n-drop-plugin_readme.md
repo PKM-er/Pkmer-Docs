@@ -1,5 +1,5 @@
 ---
-uid: 20230803212303
+uid: 2023080322172864
 title: Obsidian 插件：【Readme】Drag-n-Drop for blocks
 tags: ['obsidian插件', 'readme']
 description: 允许使用拖放的方式移动/复制/创建块，就像Logseq或Roam一样。
@@ -38,9 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-drag-n-drop-plugin]] 插件的自述翻译
 
 
-
 [![项目状态：不活跃 - 该项目已达到稳定、可用的状态，但不再进行积极开发；支持/维护将根据时间提供。](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
-
 ![GitHub发布（按日期排序）](https://img.shields.io/github/v/release/artem-barmin/obsidian-block-drag-n-drop)
 # 演示
 

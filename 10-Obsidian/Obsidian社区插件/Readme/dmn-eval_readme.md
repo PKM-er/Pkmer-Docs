@@ -1,5 +1,5 @@
 ---
-uid: 20230803212258
+uid: 2023080322172411
 title: Obsidian 插件：【Readme】DMN Eval
 tags: ['obsidian插件', 'readme']
 description: 该插件使得能够评估/执行DMN。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[dmn-eval]] 插件的自述翻译
-
 
 
 # Obsidian DMN-Eval-Plugin [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/joleaf/obsidian-dmn-eval-plugin)](https://github.com/joleaf/obsidian-dmn-eval-plugin/releases) [![Release Obsidian Plugin](https://github.com/joleaf/obsidian-dmn-eval-plugin/actions/workflows/release.yml/badge.svg)](https://github.com/joleaf/obsidian-dmn-eval-plugin/actions/workflows/release.yml) ![GitHub all releases](https://img.shields.io/github/downloads/joleaf/obsidian-dmn-eval-plugin/total)

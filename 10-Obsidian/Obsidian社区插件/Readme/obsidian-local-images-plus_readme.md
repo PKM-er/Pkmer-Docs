@@ -1,5 +1,5 @@
 ---
-uid: 20230803212712
+uid: 2023080322214378
 title: Obsidian 插件：【Readme】Local images plus
 tags: ['附件', '图片', '文件管理', 'obsidian插件', 'readme']
 description: 本地图片插件会在你的笔记中找到所有外部图片的链接，然后将图片下载并保存到本地，最后调整你笔记中的图片链接指向保存的图片文件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-local-images-plus]] 插件的自述翻译
-
 
 
 # Obsidian 本地图片增强插件

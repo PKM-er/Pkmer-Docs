@@ -1,5 +1,5 @@
 ---
-uid: 20230803213057
+uid: 2023080322251995
 title: Obsidian 插件：【Readme】Quick Latex for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 一款简单的插件，用于简化和加速Latex数学输入。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[quick-latex]] 插件的自述翻译
-
 
 
 # Obsidian的快速LaTeX插件
@@ -83,70 +82,38 @@ modified: 20230101000000
 * 选择一个表达式并按下"$"键，将自动用数学符号将表达式括起来。
 
 ### 7. 自动分数 - 使用“/”代替\frac{}{}。
-
 * 输入**\$e/2\$**，然后按下**“空格键”**，系统会自动将表达式替换为**\$\frac{e}{2}\$**。
-
-
 
 ![自动分数](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoFraction.gif)
 
-
-
 * **提示1：** 将分数表达式括在圆括号()中有助于系统识别分数的边界。
-
-
 
 ![自动分数 1](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoFraction1%20-%20enclose%20with%20round%20bracket.gif)
 
-
-
 * **提示2：** 在分数前面加上**空格**表示分数的开始。对于一系列分数特别有用！
-
-
 
 ![自动分数 2](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoFraction2%20-%20space.gif)
 
-
-
 * **提示3：** 对于较长的分子或分母表达式（特别是当表达式中有可能触发分数替换的空格时），请将表达式括在圆括号**()**中。
 
-
-
 ![自动分数 3](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoFraction3%20-%20numeratordenominator.gif)
-
-
 
 * **提示4：** 插件会删除分子和分母中最外层的括号。
 
 ### 8. 对齐块的快捷方式
-
 * 使用快捷键"Alt+Shift+A"（Mac: "Option+Shift+A"）快速插入**\begin{align\*} \end{align\*}**块
-
-
 
 * **提示1：**如果您已经输入了一些表达式，并希望在前后添加\begin{align\*}和\end{align\*}，您可以先选择文本，然后按下"Alt+Shift+A"（Mac: "Option+Shift+A"）。
 
-
-
 * **提示2：在align块内快速换行语法**
-
     * 在align块内按下**"enter"**（可以在设置中更改为"shift-enter"）将自动在行尾插入**\\\\**并进入下一行。
-
     * 按下**"shift+enter"**进入下一行**而不**添加这些符号。
 
-
-
 * **提示3：更改参数**
-
     * 默认参数"align*"可以在插件设置中更改。
 
-
-
 * **提示4：编辑快捷键**
-
     * 您可以在**设置 -> 快捷键**中编辑快捷键
-
-
 
 ![添加对齐块](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_alignblock.gif)
 

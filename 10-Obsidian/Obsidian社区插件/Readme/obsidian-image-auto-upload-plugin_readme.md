@@ -1,5 +1,5 @@
 ---
-uid: 20230803212551
+uid: 2023080322201052
 title: Obsidian 插件：【Readme】Image auto upload Plugin
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 这个插件可以使用PicGo从剪贴板上传图片。
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[obsidian-image-auto-upload-plugin]] 插件的自述翻译
 
 
-
 [Chinese Documentation](readme-zh.md)
 # Obsidian 图片自动上传插件
 
@@ -48,16 +47,10 @@ modified: 20230101000000
 
 # 开始
 
-
-
 1. 安装 [picgo](https://github.com/Molunerfinn/PicGo) 并进行配置
-
 2. 打开工具并打开设置 "设置 server"
-
 3. 在 Obsidian 中安装插件
-
 4. 打开插件设置，并设置 "picGo server" 为 http://127.0.0.1:{{picgo中的端口}}/upload（例如：http://127.0.0.1:36677/upload）
-
 5. 尝试粘贴图片
 
 # 特点

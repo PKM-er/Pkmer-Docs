@@ -1,5 +1,5 @@
 ---
-uid: 20230803213211
+uid: 2023080322264142
 title: Obsidian 插件：【Readme】Share as Gist
 tags: ['obsidian插件', 'readme']
 description: 将Obsidian笔记分享为GitHub.com gist
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-share-as-gist]] 插件的自述翻译
-
 
 
 “Share as Gist” Obsidian插件

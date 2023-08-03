@@ -1,5 +1,5 @@
 ---
-uid: 20230803212031
+uid: 2023080322151298
 title: Obsidian 插件：【Readme】Blockquote Levels
 tags: ['obsidian插件', 'readme']
 description: 添加命令用于增加/减少当前行或选择的引用块级别。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[blockquote-levels]] 插件的自述翻译
-
 
 
 <img src="https://raw.githubusercontent.com/czottmann/obsidian-blockquote-levels/main/readme-assets/blockquote-levels-256.png" height="128" alt="插件标志物：一个尖角，一个加号，一个尖角">

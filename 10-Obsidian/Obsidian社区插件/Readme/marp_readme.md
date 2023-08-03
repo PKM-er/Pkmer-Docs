@@ -1,5 +1,5 @@
 ---
-uid: 20230803212735
+uid: 2023080322220732
 title: Obsidian 插件：【Readme】Marp
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian上使用Marp的插件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[marp]] 插件的自述翻译
-
 
 
 # Obsidian Marp 插件

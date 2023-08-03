@@ -1,5 +1,5 @@
 ---
-uid: 20230803213344
+uid: 2023080322282677
 title: Obsidian 插件：【Readme】Todo sort
 tags: ['obsidian插件', 'readme']
 description: 按完成状态对待办事项进行排序
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[todo-sort]] 插件的自述翻译
-
 
 
 # 待办事项排序

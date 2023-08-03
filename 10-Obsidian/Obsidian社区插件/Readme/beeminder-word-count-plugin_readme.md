@@ -1,5 +1,5 @@
 ---
-uid: 20230803212018
+uid: 2023080322145709
 title: Obsidian 插件：【Readme】Beeminder Word Count Plugin
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 从Obsidian MD文件直接发布字数到Beeminder。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[beeminder-word-count-plugin]] 插件的自述翻译
-
 
 
 ## Obsidian插件 - Beeminder字数统计

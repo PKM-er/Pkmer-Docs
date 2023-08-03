@@ -1,5 +1,5 @@
 ---
-uid: 20230803213116
+uid: 2023080322253989
 title: Obsidian 插件：【Readme】Reading comments
 tags: ['obsidian插件', 'readme']
 description: 插件允许您在Obsidian阅读书籍或文章时创建内联评论。评论可以通过标签进行分层分组。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[reading-comments]] 插件的自述翻译
-
 
 
 # Obsidian阅读评论

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213229
+uid: 2023080322265979
 title: Obsidian 插件：【Readme】Simple RSS
 tags: ['obsidian插件', 'readme']
 description: 将RSS文章收集到笔记中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[simple-rss]] 插件的自述翻译
-
 
 
 # Obsidian简单RSS插件

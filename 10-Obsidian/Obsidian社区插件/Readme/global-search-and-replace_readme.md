@@ -1,5 +1,5 @@
 ---
-uid: 20230803212458
+uid: 2023080322191622
 title: Obsidian 插件：【Readme】Global Search and Replace
 tags: ['obsidian插件', 'readme']
 description: 在所有保险库文件中进行搜索和替换
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[global-search-and-replace]] 插件的自述翻译
-
 
 
 # Obsidian全局搜索和替换

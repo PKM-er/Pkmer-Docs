@@ -1,5 +1,5 @@
 ---
-uid: 20230803213350
+uid: 2023080322283525
 title: Obsidian 插件：【Readme】Toggle Meta Yaml
 tags: ['obsidian插件', 'readme']
 description: 切换元YAML。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-toggle-meta-yaml-plugin]] 插件的自述翻译
-
 
 
 # obsidian-toggle-meta-yaml-plugin

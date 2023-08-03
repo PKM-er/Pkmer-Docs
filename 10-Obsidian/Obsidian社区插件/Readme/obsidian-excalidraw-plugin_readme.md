@@ -1,5 +1,5 @@
 ---
-uid: 20230803212340
+uid: 2023080322175685
 title: Obsidian 插件：【Readme】Excalidraw
 tags: ['图表生成', '界面相关', '编辑工具', 'obsidian插件', 'readme']
 description: 可以让你在 Obsidian 中 使用 Excalidraw 绘图 
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-excalidraw-plugin]] 插件的自述翻译
-
 
 
 # Excalidraw

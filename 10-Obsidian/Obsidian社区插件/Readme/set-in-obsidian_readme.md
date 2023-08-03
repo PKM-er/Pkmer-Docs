@@ -1,5 +1,5 @@
 ---
-uid: 20230803213208
+uid: 2023080322263915
 title: Obsidian 插件：【Readme】Set In Obsidian
 tags: ['obsidian插件', 'readme']
 description: 时间规划插件
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[set-in-obsidian]] 插件的自述翻译
-
 
 
 # 在 Obsidian 插件中设置

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212329
+uid: 2023080322174834
 title: Obsidian 插件：【Readme】Emoji Shortcodes
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 可以使用 冒号加emoji 名称的方法， 快速插入你熟悉的 emoji 表情
@@ -38,25 +38,15 @@ modified: 20230101000000
 下面是 [[emoji-shortcodes]] 插件的自述翻译
 
 
-
 # Obsidian Emoji Shortcodes [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-emoji-shortcodes)](https://github.com/phibr0/obsidian-emoji-shortcodes/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-emoji-shortcodes/total)
-
-
 
 <img align="right" width="550" src="https://user-images.githubusercontent.com/59741989/129605183-1295bfbb-760d-4b45-bf94-452f38f2b54c.gif">
 
-
-
 此插件为Obsidian添加了对Emoji简码的支持。您可以在[这里](https://emojipedia.org/)找到Emoji简码。
-
-
 
 **示例**
 
-
-
 - `:joy:` 将变成 😂
-
 - `:heart:` 将保持为 :heart:
 
 ## 安装方法

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213504
+uid: 2023080322295382
 title: Obsidian 插件：【Readme】YTranscript
 tags: ['obsidian插件', 'readme']
 description: 获取所有 Youtube 视频的字幕
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ytranscript]] 插件的自述翻译
-
 
 
 # 用法

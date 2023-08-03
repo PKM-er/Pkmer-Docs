@@ -1,5 +1,5 @@
 ---
-uid: 20230803213411
+uid: 2023080322290020
 title: Obsidian 插件：【Readme】Upcoming
 tags: ['obsidian插件', 'readme']
 description: 可以快速查看即将来的每日笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-upcoming]] 插件的自述翻译
-
 
 
 # Obsidian Upcoming

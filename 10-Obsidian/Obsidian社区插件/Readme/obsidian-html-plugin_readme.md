@@ -1,5 +1,5 @@
 ---
-uid: 20230803212540
+uid: 2023080322195749
 title: Obsidian 插件：【Readme】HTML Reader
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的HTML文件阅读器插件。可以打开.html和.htm文件扩展名的文档。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-html-plugin]] 插件的自述翻译
-
 
 
 # Obsidian HTML阅读器插件

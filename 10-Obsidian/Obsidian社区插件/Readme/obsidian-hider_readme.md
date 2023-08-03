@@ -1,5 +1,5 @@
 ---
-uid: 20230803212526
+uid: 2023080322194332
 title: Obsidian 插件：【Readme】Hider
 tags: ['界面相关', '状态栏', 'obsidian插件', 'readme']
 description: 隐藏一些 Obsidian 官方的界面元素。包括工具提示，状态，标题栏，仓库名称，标签栏，搜索建议，frontmatter，滚动条。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-hider]] 插件的自述翻译
-
 
 
 在[Twitter](https://www.twitter.com/kepano)或[Buy me a coffee](https://www.buymeacoffee.com/kepano)上支持我的插件和主题开发 **@kepano**。

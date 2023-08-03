@@ -1,5 +1,5 @@
 ---
-uid: 20230803212614
+uid: 2023080322204079
 title: Obsidian 插件：【Readme】Interlinear Glossing
 tags: ['obsidian插件', 'readme']
 description: 在语言学文本中使用的格式化线性注释。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ling-gloss]] 插件的自述翻译
-
 
 
 # 黑曜石分词注释

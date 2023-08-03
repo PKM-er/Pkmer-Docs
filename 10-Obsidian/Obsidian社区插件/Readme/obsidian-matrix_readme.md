@@ -1,5 +1,5 @@
 ---
-uid: 20230803212859
+uid: 2023080322233342
 title: Obsidian 插件：【Readme】Obsidian matrix
 tags: ['数学', '效率', 'obsidian插件', 'readme']
 description: 让你在 Obsidian 中快速创建基于 LaTeX的数学矩阵
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-matrix]] 插件的自述翻译
-
 
 
 # 黑曜石矩阵

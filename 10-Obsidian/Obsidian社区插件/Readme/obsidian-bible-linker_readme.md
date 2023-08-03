@@ -1,5 +1,5 @@
 ---
-uid: 20230803212027
+uid: 2023080322150835
 title: Obsidian 插件：【Readme】Bible Linker
 tags: ['obsidian插件', 'readme']
 description: 轻松链接多个圣经经文
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-bible-linker]] 插件的自述翻译
-
 
 
 # Obsidian圣经链接插件

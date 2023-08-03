@@ -1,5 +1,5 @@
 ---
-uid: 20230803212419
+uid: 2023080322183324
 title: Obsidian 插件：【Readme】Floating TOC
 tags: ['目录/标题', 'obsidian插件', 'readme']
 description: 悬浮目录插件，它可以在笔记页面上悬浮显示当前目录的小部件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[floating-toc]] 插件的自述翻译
-
 
 
 ### [中文](./README-zh_cn.md) | English

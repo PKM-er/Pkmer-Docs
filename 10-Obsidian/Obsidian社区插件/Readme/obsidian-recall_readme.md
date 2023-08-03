@@ -1,5 +1,5 @@
 ---
-uid: 20230803213121
+uid: 2023080322254562
 title: Obsidian 插件：【Readme】Recall
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 一款可配置的灵活间隔重复插件，提供多种算法可供选择。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-recall]] 插件的自述翻译
-
 
 
 # 回忆 - Obsidian中的间隔重复系统！

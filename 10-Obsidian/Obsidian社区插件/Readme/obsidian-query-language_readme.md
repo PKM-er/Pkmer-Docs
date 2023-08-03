@@ -1,5 +1,5 @@
 ---
-uid: 20230803212905
+uid: 2023080322233934
 title: Obsidian 插件：【Readme】Obsidian Query Language
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: .这个插件允许您在Obsidian中查询笔记并表示数据。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-query-language]] 插件的自述翻译
-
 
 
 # Obsidian查询语言
@@ -202,21 +201,13 @@ badge: false
 Fuse还支持更复杂的查询，因此您可以创建一个查询对象，而不是使用字符串作为查询。虽然这种方式不太容易书写，但可以更加具体。以下是一个示例：
 
 ````
-
 ```oql
-
 name: 'notes文件夹中有多少个笔记'
-
 query: 
-
     path: "'notes"
-
 template: "string"
-
 format: "{name}: {count}
-
 ```
-
 ````
 
 ### 搜索笔记内容

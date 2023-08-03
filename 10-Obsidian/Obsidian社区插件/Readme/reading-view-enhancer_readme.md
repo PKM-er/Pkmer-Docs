@@ -1,5 +1,5 @@
 ---
-uid: 20230803213117
+uid: 2023080322254177
 title: Obsidian 插件：【Readme】Reading View Enhancer
 tags: ['obsidian插件', 'readme']
 description: 增强阅读视图。使用箭头键折叠/展开元素。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[reading-view-enhancer]] 插件的自述翻译
-
 
 
 # 阅读视图增强插件

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212650
+uid: 2023080322212241
 title: Obsidian 插件：【Readme】Limelight
 tags: ['obsidian插件', 'readme']
 description: 突出显示活动窗格
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-limelight]] 插件的自述翻译
-
 
 
 # 明亮的黑曜石

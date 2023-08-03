@@ -1,5 +1,5 @@
 ---
-uid: 20230803212655
+uid: 2023080322212692
 title: Obsidian 插件：【Readme】Link Favicons
 tags: ['obsidian插件', 'readme']
 description: 查看链接网站的网站图标。
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[link-favicon]] 插件的自述翻译
 
 
-
 ## 链接网站图标
 
 [Obsidian](https://obsidian.md)的插件
@@ -75,28 +74,17 @@ modified: 20230101000000
 图标提供商只会接收您链接的主机名，例如`forum.obsidian.md`，而不是`https://forum.obsidian.md/t/custom-link-favicons-hiding-in-community-plugins/24112/5?u=joethei`。
 
 ## 覆盖图标
-
 > 需要安装 [Icon Shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes) 插件
 
-
-
 您可以在设置中使用您选择的图标覆盖任何域名的网站图标。
-
 （请参见下面的演示 gif）
 
 ## 为URI方案定义图标
-
 > 需要[Icon Shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes)插件
 
-
-
 您还可以为`mailto://`、`obsidian://`或`calculator://`等URI方案添加图标。
-
 要做到这一点，请在设置中指定URI方案的名称（不包括`://`）。
-
 （请参见下面的演示gif图）
-
-
 
 ![自定义图标演示](https://i.joethei.space/IJkX7xvrUB.gif)
 

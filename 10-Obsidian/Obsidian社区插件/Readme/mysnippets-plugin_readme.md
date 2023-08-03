@@ -1,5 +1,5 @@
 ---
-uid: 20230803212813
+uid: 2023080322224514
 title: Obsidian 插件：【Readme】MySnippets
 tags: ['obsidian插件', 'readme']
 description: MySnippets是一个插件，它添加了一个状态栏菜单，允许用户快速开启和关闭他们的片段🖌。
@@ -38,7 +38,6 @@ MySnippets是一个插件，它添加了一个状态栏菜单，允许用户快�
 下面是 [[mysnippets-plugin]] 插件的自述翻译
 
 
-
 # MySnippets 插件
 
 ![MySnippets-Plugin 下载量](https://img.shields.io/github/downloads/chetachiezikeuzor/MySnippets-Plugin/total.svg)
@@ -66,47 +65,25 @@ MySnippets是一个插件，它添加了一个状态栏菜单，让用户可以�
 
 ## 如何使用
 
-
-
 MySnippets在您的工作区中添加了一个可爱的小状态栏图标。您只需点击即可在菜单中查看所有可爱的代码片段！在这里，您将在菜单底部看到两个按钮。第一个是“重新加载”按钮，第二个是“文件夹”按钮。点击“重新加载”按钮将允许插件重新读取您的代码片段文件夹，以防您决定创建新的代码片段或删除代码片段。点击“文件夹”按钮将打开包含您的代码片段的文件夹。这些按钮模仿了设置选项卡中的功能。
-
-
 
 <img src="https://user-images.githubusercontent.com/79069364/144683689-e125c321-8757-4afd-956a-4227b55363bf.gif" alt="open-snippet-folder" style="box-shadow: 0 2px 8px 0 var(--background-modifier-border); border-radius: 8px;">
 
-
-
 每个代码片段项都有一个切换和一个按钮。您可以使用切换将代码片段打开/关闭。
-
-
 
 <img src="https://user-images.githubusercontent.com/79069364/144683712-42da2acf-97f5-4987-9e9d-65b49560b9ec.gif" alt="pick-a-snippet" style="box-shadow: 0 2px 8px 0 var(--background-modifier-border); border-radius: 8px;">
 
-
-
 您还可以使用按钮使用默认应用程序打开代码片段。
-
-
 
 <img src="https://user-images.githubusercontent.com/79069364/144683696-b8c29740-94e4-48b0-b865-b2f9f6fffd61.gif" alt="open-snippet" style="box-shadow: 0 2px 8px 0 var(--background-modifier-border); border-radius: 8px;">
 
-
-
 在Mac上，您可以通过右键单击任何CSS文件，然后点击“获取信息”来更改默认应用程序。然后，转到“打开方式”部分，选择您想要使用的应用程序。使用“全部更改...”按钮将此应用程序设置为打开CSS文件的默认应用程序。
-
-
 
 <img src="https://raw.githubusercontent.com/chetachiezikeuzor/MySnippets-Plugin/master/assets/defaultApp.png" style="box-shadow: 0 2px 8px 0 var(--background-modifier-border); border-radius: 8px;">
 
-
-
 使用MySnippets，您可以更改设计美学。您可以选择在设置选项卡中为MySnippets选择“玻璃”样式，这样它就具有独特而未来感的外观！
 
-
-
 <img src="https://user-images.githubusercontent.com/79069364/144682628-d38979c2-c0d1-4709-8ecb-d9ab72c2cb77.png" alt="glass-menu" style="box-shadow: 0 2px 8px 0 var(--background-modifier-border); border-radius: 8px;">
-
-
 
 <img src="https://user-images.githubusercontent.com/79069364/144682602-d31beed0-ed0e-4194-a71f-faa6a05dc945.png" alt="default-menu" style="box-shadow: 0 2px 8px 0 var(--background-modifier-border); border-radius: 8px;">
 
@@ -133,19 +110,12 @@ MySnippets在您的工作区中添加了一个可爱的小状态栏图标。您�
 
 ##### 修复
 
-
-
 - MySnippets菜单的定位现在依赖于窗口坐标（解决了隐藏状态栏的问题）。
 
 ## 清单
 
-
-
 - [x] 打开代码片段菜单的命令
-
 - [x] 创建新的 CSS 代码片段函数
-
-
 
 ---
 

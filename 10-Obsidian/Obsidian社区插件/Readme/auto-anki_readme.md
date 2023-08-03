@@ -1,5 +1,5 @@
 ---
-uid: 20230803211951
+uid: 2023080322142491
 title: Obsidian 插件：【Readme】Auto Anki
 tags: ['obsidian插件', 'readme']
 description: 使用人工智能来自动化Anki中的间隔重复卡片的创建。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[auto-anki]] 插件的自述翻译
-
 
 
 # Obsidian自动Anki

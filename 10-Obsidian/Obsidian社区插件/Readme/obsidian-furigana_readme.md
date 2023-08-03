@@ -1,5 +1,5 @@
 ---
-uid: 20230803212440
+uid: 2023080322185847
 title: Obsidian 插件：【Readme】Furigana
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: tags辅助插件用于振り仮名和<ruby>标签
@@ -38,16 +38,10 @@ tags辅助插件用于振り仮名和<ruby>标签
 下面是 [[obsidian-furigana]] 插件的自述翻译
 
 
-
 黑曜石振仮名
-
 ===========
 
-
-
 为选定的文本添加一个命令来标记`<ruby>选定的文本...<rt></rt></ruby>`。
-
-
 
 **TODO**: 自动将汉字转换为平假名
 截图和使用说明

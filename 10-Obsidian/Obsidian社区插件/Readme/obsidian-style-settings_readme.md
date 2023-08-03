@@ -1,5 +1,5 @@
 ---
-uid: 20230803213254
+uid: 2023080322272976
 title: Obsidian 插件：【Readme】Style Settings
 tags: ['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 为主题、插件提供图形化设置，很多主题和插件作者会提供一些样式功能样式，都可以通过此插件调整。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-style-settings]] 插件的自述翻译
-
 
 
 # Obsidian Style Settings 插件
@@ -191,52 +190,28 @@ settings:
 
 ## `variable-text`
 
-
-
 `variable-text`代表任何基于文本的CSS值。设置的`id`将被用作变量名。`variable-text`设置需要一个`default`属性。
 
-
-
 ```css
-
 /* @settings
 
-
-
 name: 在这里输入你的部分名称
-
 id: 一个唯一的id
-
 settings:
-
     - 
-
         id: text
-
         title: UI字体
-
         description: 用于用户界面的字体
-
         type: variable-text
-
         default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
 
-
-
 */
-
 ```
-
-
 
 这将输出变量：
 
-
-
 ```
-
 --text: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-
 ```
 
 ## `variable-number`
@@ -354,72 +329,38 @@ settings:
 
 ## `variable-color`
 
-
-
 `variable-color`创建了一个带有多种输出格式选项的颜色选择器。`hex`或`rgb`格式的`default`属性是必需的。**注意：hex颜色值必须用引号括起来。**`format`属性也是必需的。
 
-
-
 可选参数：
-
 - 将`opacity`设置为`true`将在所有输出格式中启用透明度支持。
-
 - 可以通过`alt-format`设置提供备用输出格式的列表
 
-
-
 ```css
-
 /* @settings
 
-
-
 name: 在这里输入您的部分名称
-
 id: 一个唯一的id
-
 settings:
-
     - 
-
         id: accent
-
         title: 强调颜色
-
         type: variable-color
-
         opacity: false
-
         format: hex
-
         alt-format:
-
             -
-
                 id: accent-rgb
-
                 format: rgb
-
         default: '#007AFF'
 
-
-
 */
-
 ```
-
-
 
 这将输出变量：
 
-
-
 ```
-
 --accent: #007AFF;
-
 --accent-rgb: rgb(0, 123, 255);
-
 ```
 
 ## `variable-themed-color`
@@ -458,133 +399,95 @@ body.theme-dark.css-settings-manager { --accent: #2DB253; }
 - `hex`
 
 ```
-
 --accent: #007AFF;
-
 ```
 
 当 `opacity` 设置为 `true` 时：
 
 ```
-
 --accent: #007AFFFF;
-
 ```
 
 - `rgb`
 
 ```
-
 --accent: rgb(0, 122, 255);
-
 ```
 
 当 `opacity` 设置为 `true` 时：
 
 ```
-
 --accent: rgba(0, 122, 255, 1);
-
 ```
 
 - `rgb-values`
 
 ```
-
 --accent: 0, 122, 255;
-
 ```
 
 当 `opacity` 设置为 `true` 时：
 
 ```
-
 --accent: 0, 122, 255, 1;
-
 ```
 
 - `rgb-split`
 
 ```
-
 --accent-r: 0;
-
 --accent-g: 122;
-
 --accent-b: 255;
-
 ```
 
 当 `opacity` 设置为 `true` 时：
 
 ```
-
 --accent-r: 0;
-
 --accent-g: 122;
-
 --accent-b: 255;
-
 --accent-a: 1;
-
 ```
 
 - `hsl`
 
 ```
-
 --accent: hsl(211, 100%, 50%);
-
 ```
 
 当 `opacity` 设置为 `true` 时：
 
 ```
-
 --accent: hsla(211, 100%, 50%, 1);
-
 ```
 
 - `hsl-values`
 
 ```
-
 --accent: 211, 100%, 50%;
-
 ```
 
 当 `opacity` 设置为 `true` 时：
 
 ```
-
 --accent: 211, 100%, 50%, 1;
-
 ```
 
 - `hsl-split`
 
 ```
-
 --accent-h: 211;
-
 --accent-s: 100%;
-
 --accent-l: 50%;
-
 ```
 
 当 `opacity` 设置为 `true` 时：
 
 ```
-
 --accent-h: 211;
-
 --accent-s: 100%;
-
 --accent-l: 50%;
-
 --accent-a: 1;
-
 ```
 
 `color-gradient`函数会在两个已存在的颜色变量之间的渐变中输出固定数量的颜色。还需要一个`format`属性。*注意：必须在样式设置中设置`to`变量才能生成渐变。此外，渐变只会使用在当前样式设置`id`下定义的颜色。*
@@ -619,97 +522,53 @@ settings:
 可以通过使用以下后缀为Obsidian支持的每种语言提供标题和描述的翻译：
 
 ```
-
 en: 英语
-
 zh: 简体中文
-
 zh-TW: 繁體中文
-
 ru: 俄语
-
 ko: 韩语
-
 it: 意大利语
-
 id: 印度尼西亚语
-
 ro: 罗马尼亚语
-
 pt-BR: 巴西葡萄牙语
-
 cz: 捷克语
-
 de: 德语
-
 es: 西班牙语
-
 fr: 法语
-
 no: 挪威语
-
 pl: 波兰语
-
 pt: 葡萄牙语
-
 ja: 日语
-
 da: 丹麦语
-
 uk: 乌克兰语
-
 sq: 阿尔巴尼亚语
-
 tr: 土耳其语（部分）
-
 hi: 印地语（部分）
-
 nl: 荷兰语（部分）
-
 ar: 阿拉伯语（部分）
-
 ```
 
 例如：
 
 ```
-
 ```css
-
 /* @settings
 
-
-
 name: 在这里输入您的部分名称
-
 id: 一个唯一的ID
-
 settings:
-
     - 
-
         id: my-css-class
-
         title: 我的切换
-
         title.de: 我的切换
-
         title.ko: 내 토글
-
         description: 将my-css-class添加到body元素
-
         description.de: 将my-css-class添加到body元素
-
         description.ko: my-css-class를 body 요소에 추가합니다.
-
         type: class-toggle
 
-
-
 */
-
 ```
-
 ```
 
 

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212557
+uid: 2023080322201840
 title: Obsidian 插件：【Readme】Image To Lskypro
 tags: ['obsidian插件', 'readme']
 description: 自动将剪贴板中的图像上传到Lskypro。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[lskypro-auto-upload]] 插件的自述翻译
-
 
 
 # Obsidian LskyPro 自动上传插件

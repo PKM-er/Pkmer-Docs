@@ -1,5 +1,5 @@
 ---
-uid: 20230803213023
+uid: 2023080322244796
 title: Obsidian 插件：【Readme】Plaintext for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 允许打开指定文件作为纯文本。
@@ -38,21 +38,13 @@ modified: 20230101000000
 下面是 [[obsidian-plaintext]] 插件的自述翻译
 
 
-
 # Obsidian的纯文本
 
-
-
 这是一个[Obsidian](https://obsidian.md)插件，允许您将_任何_文件以纯文本形式打开。
-
 它已经为Obsidian **v0.13.14**开发，并在**Windows**上进行了测试。
 
-
-
 老实说，只要您可以运行任何Obsidian版本，您也可以_可能_运行此插件。
-
 唯一的要求是我们可以注册扩展名（例如，在v0.12.12中存在），以及`viewRegistry`存在，我假设这从Obsidian的开始就一直存在。
-
 但是，这只是猜测！
 
 ## 使用方法

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212332
+uid: 2023080322175069
 title: Obsidian 插件：【Readme】EmoTagsTitler
 tags: ['obsidian插件', 'readme']
 description: 将标签中包含的表情符号添加到笔记标题的开头。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[emoji-tags-titler]] 插件的自述翻译
-
 
 
 # EmoTagsTitler 

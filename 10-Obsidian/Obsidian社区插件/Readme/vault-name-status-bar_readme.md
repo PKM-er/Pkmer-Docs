@@ -1,5 +1,5 @@
 ---
-uid: 20230803213422
+uid: 2023080322291108
 title: Obsidian 插件：【Readme】Vault name in status bar
 tags: ['obsidian插件', 'readme']
 description: 在状态栏中看到您的保险库名称，并点击它以减少它。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[vault-name-status-bar]] 插件的自述翻译
-
 
 
 # 状态栏中的保险库名称

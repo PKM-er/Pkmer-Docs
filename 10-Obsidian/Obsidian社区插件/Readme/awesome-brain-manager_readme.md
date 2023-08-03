@@ -1,5 +1,5 @@
 ---
-uid: 20230803212008
+uid: 2023080322144526
 title: Obsidian 插件：【Readme】Awesome Brain Manager
 tags: ['obsidian插件', 'readme']
 description: 一个工具包试图解决大多数人在黑曜石中通常遇到的所有琐碎问题。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[awesome-brain-manager]] 插件的自述翻译
-
 
 
 # Awesome Brain Manager 插件

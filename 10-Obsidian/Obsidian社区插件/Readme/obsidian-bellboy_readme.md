@@ -1,5 +1,5 @@
 ---
-uid: 20230803212019
+uid: 2023080322145806
 title: Obsidian 插件：【Readme】Bellboy
 tags: ['obsidian插件', 'readme']
 description: 具有主见的文件结构管理器。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-bellboy]] 插件的自述翻译
-
 
 
 Obsidian Bellboy是为Obsidian打造的一个有主见的文件结构管理工具。旨在保持一个干净可读的知识管理文件系统，同时简化笔记重命名和组织冗余的繁琐任务。

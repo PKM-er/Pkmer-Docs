@@ -1,5 +1,5 @@
 ---
-uid: 20230803213224
+uid: 2023080322265485
 title: Obsidian 插件：【Readme】Simple Dice Roller
 tags: ['obsidian插件', 'readme']
 description: 一个即插即用的解决方案，可以让你平均和模拟骰子公式。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[simple-dice-roller]] 插件的自述翻译
-
 
 
 这是一个简单的即插即用的骰子掷筛器，它会搜索当前活动的叶子，并模拟或计算所有骰子公式的结果，无论它们在哪里。

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213331
+uid: 2023080322281176
 title: Obsidian 插件：【Readme】The One Ring 2E Statblocks
 tags: ['obsidian插件', 'readme']
 description: 为《指环王2E角色扮演游戏》渲染 NPC 和对手状态块。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tor2e-statblocks]] 插件的自述翻译
-
 
 
 这个插件用于渲染《魔戒》第二版的对手属性块。

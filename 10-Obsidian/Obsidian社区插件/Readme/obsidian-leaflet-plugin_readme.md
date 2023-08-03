@@ -1,5 +1,5 @@
 ---
-uid: 20230803212855
+uid: 2023080322232802
 title: Obsidian 插件：【Readme】Obsidian Leaflet
 tags: ['第三方工具集成', '图片', 'obsidian插件', 'readme']
 description: 在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-leaflet-plugin]] 插件的自述翻译
-
 
 
 # Obsidian Leaflet

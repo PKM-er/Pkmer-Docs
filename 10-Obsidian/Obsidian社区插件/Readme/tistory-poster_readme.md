@@ -1,5 +1,5 @@
 ---
-uid: 20230803213343
+uid: 2023080322282495
 title: Obsidian 插件：【Readme】Tistory Poster
 tags: ['obsidian插件', 'readme']
 description: 这个插件将在Obsidian中发布一条笔记到Tistory博客平台。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tistory-poster]] 插件的自述翻译
-
 
 
 # Tistory海报

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213104
+uid: 2023080322252726
 title: Obsidian 插件：【Readme】Quip
 tags: ['obsidian插件', 'readme']
 description: 发布Obsidian笔记到Quip.com的命令
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[quip]] 插件的自述翻译
-
 
 
 # Obsidian的Quip插件

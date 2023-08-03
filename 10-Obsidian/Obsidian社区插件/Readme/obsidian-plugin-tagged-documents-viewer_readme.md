@@ -1,5 +1,5 @@
 ---
-uid: 20230803213313
+uid: 2023080322275042
 title: Obsidian 插件：【Readme】Tagged Documents Viewer
 tags: ['obsidian插件', 'readme']
 description: 打开一个模态窗口，其中包含所有包含特定标签或标签的文档的可滚动内容。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-plugin-tagged-documents-viewer]] 插件的自述翻译
-
 
 
 # Obsidian 标签文档查看器插件

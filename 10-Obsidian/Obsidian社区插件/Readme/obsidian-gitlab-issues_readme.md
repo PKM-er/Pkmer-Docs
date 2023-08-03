@@ -1,5 +1,5 @@
 ---
-uid: 20230803212456
+uid: 2023080322191439
 title: Obsidian 插件：【Readme】GitLab Issues
 tags: ['obsidian插件', 'readme']
 description: 将Gitlab问题导入您的Obsidian保险库。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-gitlab-issues]] 插件的自述翻译
-
 
 
 Gitlab Issues for Obsidian

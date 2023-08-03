@@ -1,5 +1,5 @@
 ---
-uid: 20230803212926
+uid: 2023080322235690
 title: Obsidian 插件：【Readme】ObsiDOOM
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian应用中玩DOOM和许多其他复古游戏。您还可以玩波斯王子、格斗之王、侠盗猎车手、模拟城市和极品飞车。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidoom]] 插件的自述翻译
-
 
 
 # ObsiDOOM

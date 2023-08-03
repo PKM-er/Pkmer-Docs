@@ -1,5 +1,5 @@
 ---
-uid: 20230803212619
+uid: 2023080322204634
 title: Obsidian 插件：【Readme】Jelly Snippets
 tags: ['obsidian插件', 'readme']
 description: 一个简单的文本片段插件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[jelly-snippets]] 插件的自述翻译
-
 
 
 # jelly-snippets

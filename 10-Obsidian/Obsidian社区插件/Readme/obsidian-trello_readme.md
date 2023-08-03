@@ -1,5 +1,5 @@
 ---
-uid: 20230803212917
+uid: 2023080322234926
 title: Obsidian 插件：【Readme】Obsidian Trello
 tags: ['第三方工具集成', '界面相关', '任务管理', 'obsidian插件', 'readme']
 description: 将 Trello 卡片连接到 Obsidian 笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-trello]] 插件的自述翻译
-
 
 
 开发状态：维护模式

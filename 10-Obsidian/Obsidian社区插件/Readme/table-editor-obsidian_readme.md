@@ -1,5 +1,5 @@
 ---
-uid: 20230803211919
+uid: 2023080322134900
 title: Obsidian 插件：【Readme】Advanced Tables
 tags: ['界面相关', '编辑工具', '表格', '效率', 'obsidian插件', 'readme']
 description: 改进 Obsidian 内的表格书写，对齐，格式化的书写体验
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[table-editor-obsidian]] 插件的自述翻译
-
 
 
 # Obsidian的高级表格

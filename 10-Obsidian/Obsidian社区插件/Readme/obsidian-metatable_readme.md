@@ -1,5 +1,5 @@
 ---
-uid: 20230803212757
+uid: 2023080322223097
 title: Obsidian 插件：【Readme】Metatable
 tags: ['界面相关', '美化', 'obsidian插件', 'readme']
 description: 将  front-matter 显示为可折叠表格样式
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-metatable]] 插件的自述翻译
-
 
 
 ## Obsidian元表

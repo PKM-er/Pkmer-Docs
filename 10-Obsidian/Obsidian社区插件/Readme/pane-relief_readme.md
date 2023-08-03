@@ -1,5 +1,5 @@
 ---
-uid: 20230803212959
+uid: 2023080322242710
 title: Obsidian 插件：【Readme】Pane Relief
 tags: ['界面相关', '导航工具', '效率', 'obsidian插件', 'readme']
 description: 每个标签页都增加历史记录，向你的浏览器一样。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[pane-relief]] 插件的自述翻译
-
 
 
 ## Pane Relief：为 Obsidian 提供的每个标签历史记录和窗格管理

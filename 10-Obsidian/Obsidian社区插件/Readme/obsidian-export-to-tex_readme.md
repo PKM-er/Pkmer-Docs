@@ -1,5 +1,5 @@
 ---
-uid: 20230803212345
+uid: 2023080322180080
 title: Obsidian 插件：【Readme】Export To TeX
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将拱顶文件导出为适合粘贴到TeX文档中的格式
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-export-to-tex]] 插件的自述翻译
-
 
 
 # obsidian-export-to-tex

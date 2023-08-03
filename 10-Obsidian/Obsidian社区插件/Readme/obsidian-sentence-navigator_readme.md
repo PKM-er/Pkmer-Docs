@@ -1,5 +1,5 @@
 ---
-uid: 20230803213206
+uid: 2023080322263719
 title: Obsidian 插件：【Readme】Sentence Navigator
 tags: ['obsidian插件', 'readme']
 description: 操纵句子作为一个运动单位
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-sentence-navigator]] 插件的自述翻译
-
 
 
 # 句子导航器

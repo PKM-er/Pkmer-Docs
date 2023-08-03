@@ -1,5 +1,5 @@
 ---
-uid: 20230803213157
+uid: 2023080322262793
 title: Obsidian 插件：【Readme】Scrybble
 tags: ['obsidian插件', 'readme']
 description: 从你的ReMarkable平板电脑同步高亮到Obsidian！
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[scrybble.ink]] 插件的自述翻译
-
 
 
 Scrybble是一个插件，它可以将您的ReMarkable笔记与Obsidian vault同步。

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212956
+uid: 2023080322242421
 title: Obsidian 插件：【Readme】Page Heading From Links
 tags: ['模板', 'obsidian插件', 'readme']
 description: 在空白页中插入文件名作为标题
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[page-heading-from-links]] 插件的自述翻译
-
 
 
 # 页面标题 Obsidian 插件

@@ -1,5 +1,5 @@
 ---
-uid: 20230803211930
+uid: 2023080322140136
 title: Obsidian 插件：【Readme】AnkiBridge
 tags: ['obsidian插件', 'readme']
 description: .又一个Anki桥梁。专注于严格的语法和数据的完整性。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-ankibridge]] 插件的自述翻译
-
 
 
 # Obsidian AnkiBridge

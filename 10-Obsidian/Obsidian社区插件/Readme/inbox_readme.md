@@ -1,5 +1,5 @@
 ---
-uid: 20230803212606
+uid: 2023080322203038
 title: Obsidian 插件：【Readme】Inbox
 tags: ['obsidian插件', 'readme']
 description: 如果“收件箱”笔记中有要处理的数据，则在启动时显示应用程序通知。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[inbox]] 插件的自述翻译
-
 
 
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22inbox%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212847
+uid: 2023080322232004
 title: Obsidian 插件：【Readme】Obsidian Cloudinary Uploader
 tags: ['obsidian插件', 'readme']
 description: 将从剪贴板复制的图像上传到Cloudinary
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-cloudinary-uploader]] 插件的自述翻译
-
 
 
 # Obsidian Cloudinary Uploader

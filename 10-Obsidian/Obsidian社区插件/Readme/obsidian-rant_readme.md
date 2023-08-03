@@ -1,5 +1,5 @@
 ---
-uid: 20230803213110
+uid: 2023080322253442
 title: Obsidian 插件：【Readme】Rant-Lang
 tags: ['obsidian插件', 'readme']
 description: Rant是一个高级过程模板语言的薄包装。
@@ -36,7 +36,6 @@ Rant是一个高级过程模板语言的薄包装。
 ## Readme(翻译）
 
 下面是 [[obsidian-rant]] 插件的自述翻译
-
 
 
 # Obsidian Rant-Lang
@@ -97,23 +96,13 @@ Rant是一个高级过程模板语言的薄包装。
 
 ### 内联
 
-
-
 一个内联的Rant程序：
 
-
-
 ````markdown
-
 这个内联的Rant块是 `rant: {neat|awesome|fantastic}`！
-
 ````
 
-
-
 结果：
-
-
 
 ![内联示例](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-inline.png)
 
@@ -174,34 +163,19 @@ Rant程序可以输出如下的列表：
 
 ### 内联
 
-
-
 当你在一个名为`Programs`的文档中有一个称为`rant`的代码块，你想要将其嵌入到另一个文档中时，首先使用`^`符号给它一个ID：
 
-
-
 ````markdown
-
 ```rant
-
 {heads|tails|edge}
-
 ```
-
 ^coin-flip
-
 ````
-
-
 
 然后你可以这样嵌入它：
 
-
-
 ````markdown
-
 Flipping a coin... It landed on `rant: [[Programs#^coin-flip]]`!
-
 ````
 
 ### 在代码块中

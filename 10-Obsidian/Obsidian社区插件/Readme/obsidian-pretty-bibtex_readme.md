@@ -1,5 +1,5 @@
 ---
-uid: 20230803213038
+uid: 2023080322250119
 title: Obsidian 插件：【Readme】Pretty BibTeX
 tags: ['obsidian插件', 'readme']
 description: 以更美观的方式显示原始 BibTeX 参考文献条目
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-pretty-bibtex]] 插件的自述翻译
-
 
 
 # 漂亮的BibTeX Obsidian插件

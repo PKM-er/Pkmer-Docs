@@ -1,5 +1,5 @@
 ---
-uid: 20230803212353
+uid: 2023080322180777
 title: Obsidian 插件：【Readme】Fantasy Statblocks
 tags: ['界面相关', '样式工具', '游戏', 'obsidian插件', 'readme']
 description: 在Obsidian 中创建TTRPG风格的模块，TTPRG可以理解做桌面角色扮演游戏，比如著名的《龙与地下城》
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-5e-statblocks]] 插件的自述翻译
-
 
 
 # 幻想统计数据块

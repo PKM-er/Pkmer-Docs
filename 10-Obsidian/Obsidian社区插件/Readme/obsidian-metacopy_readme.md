@@ -1,5 +1,5 @@
 ---
-uid: 20230803212753
+uid: 2023080322222770
 title: Obsidian 插件：【Readme】Metacopy & URL
 tags: ['obsidian插件', 'readme']
 description: 复制一个前文键的值。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-metacopy]] 插件的自述翻译
-
 
 
 建议使用此插件与[Obsidian To Mkdocs](https://github.com/Mara-Li/mkdocs_obsidian_publish)一起使用。

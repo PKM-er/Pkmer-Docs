@@ -1,5 +1,5 @@
 ---
-uid: 20230803212858
+uid: 2023080322233255
 title: Obsidian 插件：【Readme】Obsidian Math+
 tags: ['obsidian插件', 'readme']
 description: 这是一个使用Excalidraw进行数学笔记的Obsidian插件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-math-plus]] 插件的自述翻译
-
 
 
 Obsidian Math+是一个快速高效地记录数学笔记的插件。

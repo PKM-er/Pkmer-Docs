@@ -1,5 +1,5 @@
 ---
-uid: 20230803213155
+uid: 2023080322262613
 title: Obsidian 插件：【Readme】Scroll Speed
 tags: ['界面相关', '美化', '效率', 'obsidian插件', 'readme']
 description: 此插件帮你改变 Obsidian 笔记中的页面滚动速度。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[scroll-speed]] 插件的自述翻译
-
 
 
 <div align="center">

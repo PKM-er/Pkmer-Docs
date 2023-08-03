@@ -1,5 +1,5 @@
 ---
-uid: 20230803213348
+uid: 2023080322283238
 title: Obsidian 插件：【Readme】TodoTxt
 tags: ['obsidian插件', 'readme']
 description: 管理Todo.txt文件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[todotxt]] 插件的自述翻译
-
 
 
 # Obsidian TodoTxt 插件

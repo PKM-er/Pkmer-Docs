@@ -1,5 +1,5 @@
 ---
-uid: 20230803213021
+uid: 2023080322244633
 title: Obsidian 插件：【Readme】Pipe tricks
 tags: ['obsidian插件', 'readme']
 description: 支持Wikilink管道技巧。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-pipe-tricks]] 插件的自述翻译
-
 
 
 # Obsidian的管道技巧插件

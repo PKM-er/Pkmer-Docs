@@ -1,5 +1,5 @@
 ---
-uid: 20230803213112
+uid: 2023080322253616
 title: Obsidian 插件：【Readme】React Components
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 在你的笔记中使用并编写React（Jsx）组件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-react-components]] 插件的自述翻译
-
 
 
 [![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/elias-sundqvist/obsidian-react-components?style=for-the-badge&sort=semver)](https://github.com/elias-sundqvist/obsidian-react-components/releases/latest)
@@ -183,61 +182,37 @@ return <h1>{frontmatter.title}</h1>
 ## 更新日志
 
 ### 0.1.6（2022年1月22日）*支持Obsidian v0.13.19*
-
 * jsx代码块在最近的Obsidian更新中出现问题（参见问题＃26）。通过此更新，它们应该再次正常工作。
-
 * 在`Markdown`组件中添加了对嵌入式笔记的支持（参见问题＃25）。
 
 ### 0.1.5 (2022-01-03) *移除调试日志*
-
 * 在添加实时预览支持时使用了大量的`console.log`调用，现已将其移除。
 
 ### 0.1.4（2022年1月2日）*应用修复*
-
 * 插件现在应该再次在Obsidian应用版本上正常工作。
 
 ### 0.1.3 (2022-01-01) *基本实时预览支持*
-
 * 支持代码块和内联代码。
-
 ![实时预览](https://user-images.githubusercontent.com/9102856/147861506-abb023d1-4ba1-4e46-bb33-504bf259a2ca.gif)
 
 ### 0.1.2 (2021-12-03) *组件代码块 + 启动和稳定性改进*
-
 * 在视图之间导航时，组件不再消失。
-
 * 修复了启动时组件闪烁的问题。
-
 * 现在可以像这样编写代码块：
-
   * ````markdown
-
     ```jsx::ComponentName
-
     someText
-
     ```
-
     ````
-
     这等同于  
-
      ````markdown
-
     ```jsx:
-
     <ComponentName src={`someText`}/>
-
     ```
-
     ````
-
     但更简洁。
 
-
-
     示例:
-
     ![Component Codeblock Example](https://user-images.githubusercontent.com/9102856/144520183-5dbdee07-76ae-49a6-aca6-732f53971a55.png)
 
 ### 0.1.1 (2021-08-29) *改进组件卸载*
@@ -270,12 +245,8 @@ return <h1>{frontmatter.title}</h1>
 
 ### 0.0.6 (2021-06-19) *添加对skypack导入的支持，修复了一些错误*
 
-
-
 * 添加了对基于URL的导入的支持，例如 `import styled from 'https://cdn.skypack.com/styled-components/'`
-
   * *示例:* ![](https://user-images.githubusercontent.com/9102856/121813903-8123ad80-cc6e-11eb-8c65-b8c77faf51a6.gif)
-
 * 改进了组件加载的稳定性
 
 ### 0.0.5 (2021-05-22) *启用Markdown渲染组件的动态更新，进行了一些小的更改*
@@ -312,25 +283,16 @@ return <h1>{frontmatter.title}</h1>
 * 添加了更多的hooks：`useCallback`、`useContext`、`useMemo`、`useReducer`、`useRef`。
 
 ### 0.0.2 (2021-05-10) *新增功能、错误修复和重构*
-
 * @lucasew 在组件范围内添加了一个`isPreviewMode`函数。 (PR #5)
-
   > 在React中有一个规则，即必须在每次渲染时调用相同的hooks，因此早期返回不好。
-
   > 
-
   > 用户可以轻松检查笔记是否处于预览模式，并在组件内返回null。
 
-
-
 * 当子组件代码被修改时，包含子组件的组件现在会正确更新。 (PR #11)
-
-
 
 * 创建具有无效名称的组件时，现在会向用户发出警告。 (PR #10)
 
 ### 0.0.1 (2021-05-04) *首次发布*
-
 * 实现了插件的基本功能
 
 ## 示例组件

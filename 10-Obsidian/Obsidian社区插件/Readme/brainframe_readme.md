@@ -1,5 +1,5 @@
 ---
-uid: 20230803212039
+uid: 2023080322152128
 title: Obsidian 插件：【Readme】Brainframe
 tags: ['obsidian插件', 'readme']
 description: 使Obsidian更像我们的第二大脑的工具
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[brainframe]] 插件的自述翻译
-
 
 
 脑框架，将您的生活连接在一起的应用程序。

@@ -1,5 +1,5 @@
 ---
-uid: 20230803211939
+uid: 2023080322141080
 title: Obsidian 插件：【Readme】Apply Patterns
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 对文本进行按顺序应用自定义查找和替换模式。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-apply-patterns]] 插件的自述翻译
-
 
 
 <h1 align="center">Obsidian 应用模式插件</h1>

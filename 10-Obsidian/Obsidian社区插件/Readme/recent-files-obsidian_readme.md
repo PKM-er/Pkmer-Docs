@@ -1,5 +1,5 @@
 ---
-uid: 20230803213122
+uid: 2023080322254658
 title: Obsidian 插件：【Readme】Recent Files
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 显示最近打开的文件列表
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[recent-files-obsidian]] 插件的自述翻译
-
 
 
 # Obsidian的最近文件

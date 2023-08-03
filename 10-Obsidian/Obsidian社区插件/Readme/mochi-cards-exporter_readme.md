@@ -1,5 +1,5 @@
 ---
-uid: 20230803212805
+uid: 2023080322223904
 title: Obsidian 插件：【Readme】Mochi Cards Exporter
 tags: ['转换工具', '第三方工具集成', 'obsidian插件', 'readme']
 description: 从Obsidian中将Markdown笔记导出为Mochi卡片
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[mochi-cards-exporter]] 插件的自述翻译
-
 
 
 # Mochi Cards导出插件

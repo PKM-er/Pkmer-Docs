@@ -1,5 +1,5 @@
 ---
-uid: 20230803212009
+uid: 2023080322144615
 title: Obsidian 插件：【Readme】Awesome Flashcard
 tags: ['obsidian插件', 'readme']
 description: 为Obsidian提供方便的Anki集成。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-awesome-flashcard]] 插件的自述翻译
-
 
 
 # 令人惊叹的记忆卡片

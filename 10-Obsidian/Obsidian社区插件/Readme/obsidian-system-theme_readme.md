@@ -1,5 +1,5 @@
 ---
-uid: 20230803213302
+uid: 2023080322273904
 title: Obsidian 插件：【Readme】System Theme
 tags: ['obsidian插件', 'readme']
 description: 插件自动更新系统主题。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-system-theme]] 插件的自述翻译
-
 
 
 # 已弃用

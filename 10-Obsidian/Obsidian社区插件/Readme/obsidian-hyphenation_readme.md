@@ -1,5 +1,5 @@
 ---
-uid: 20230803212544
+uid: 2023080322200120
 title: Obsidian 插件：【Readme】Hyphenation
 tags: ['obsidian插件', 'readme']
 description: 启用两端对齐文本和换行
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-hyphenation]] 插件的自述翻译
-
 
 
 # 连字

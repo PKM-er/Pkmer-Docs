@@ -1,5 +1,5 @@
 ---
-uid: 20230803213231
+uid: 2023080322270267
 title: Obsidian 插件：【Readme】Slide Note
 tags: ['obsidian插件', 'readme']
 description: 方便地在PDF课程幻灯片上做笔记 :P
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[slide-note]] 插件的自述翻译
-
 
 
 # Obsidian Slide Note

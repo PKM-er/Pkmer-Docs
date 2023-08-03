@@ -1,5 +1,5 @@
 ---
-uid: 20230803212144
+uid: 2023080322162252
 title: Obsidian 插件：【Readme】Completed Task Display
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 提供控件来显示或隐藏已完成的任务。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[completed-task-display]] 插件的自述翻译
-
 
 
 ## 完成的任务显示

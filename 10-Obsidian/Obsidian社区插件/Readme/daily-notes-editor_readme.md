@@ -1,5 +1,5 @@
 ---
-uid: 20230803212231
+uid: 2023080322170359
 title: Obsidian 插件：【Readme】Daily Notes Editor
 tags: ['obsidian插件', 'readme']
 description: 为您提供一个插件，可以在一个页面（内联）中编辑大量日常笔记，其工作方式类似于Roam Research的默认日常笔记视图。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[daily-notes-editor]] 插件的自述翻译
-
 
 
 <p align="center">

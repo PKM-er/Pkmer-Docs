@@ -1,5 +1,5 @@
 ---
-uid: 20230803212349
+uid: 2023080322180401
 title: Obsidian 插件：【Readme】Extract Highlights
 tags: ['快捷键', '笔记文件处理', '链接处理', '编辑器', 'obsidian插件', 'readme']
 description: 允许把笔记中的所有高亮语法的（使用==）的重点内容，通过快捷键，一次性放到到剪贴板中。这些内容在 Obsidian 中使用，会自动生成内链。
@@ -38,12 +38,8 @@ modified: 20230101000000
 下面是 [[extract-highlights-plugin]] 插件的自述翻译
 
 
-
 ## 提取亮点插件
-
 ![](https://github.com/akaalias/extract-highlights-plugin/workflows/Node.js%20CI/badge.svg)
-
-
 
 将当前 Obsidian 中的 Markdown 笔记中的亮点创建并提取到剪贴板中。基于 [icebear 的插件请求](https://forum.obsidian.md/t/extract-highlights-from-note/7867)。
 
@@ -145,31 +141,18 @@ modified: 20230101000000
 #### 正在进行中
 
 #### DONE
-
 - [x] 将"高亮"拆分为单独的笔记（假设我也在创建链接列表）
-
 - [x] 命令（<kbd>SHIFT</kbd> + <kbd>ALT</kbd> + <kbd>=</kbd>），然后将所有高亮文本复制到：
-
 - [x] 点击按钮，然后将所有高亮文本复制到：
-
 - [x] 允许使用`<mark></mark>`作为高亮
-
 - [x] 允许使用标准的粗体（`**`）作为高亮
-
 - [x] 允许选择性地包含或完全排除`## 高亮`标题
-
 - [x] 允许更改标题中的文本`## 我的自定义高亮`
-
 - [x] 允许在标题中包含笔记名称，例如`## 来自：$NOTE_TITLE`
-
 - [x] 允许为每个高亮添加脚注，并包含到源笔记的链接
-
 - [x] 允许选择性启用高亮的粗体
-
 - [x] 允许使用命令面板触发复制（在Electron中有一些问题）
-
 - [x] 我的剪贴板
-
 - [x] 一个新的笔记
 
 

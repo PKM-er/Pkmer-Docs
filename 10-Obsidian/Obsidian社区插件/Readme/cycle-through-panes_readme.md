@@ -1,5 +1,5 @@
 ---
-uid: 20230803212225
+uid: 2023080322165778
 title: Obsidian 插件：【Readme】Cycle through Panes
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 使用`ctrl + Tab`循环浏览你打开的窗格，就像在浏览器中浏览标签页一样！官方已经支持此功能
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[cycle-through-panes]] 插件的自述翻译
-
 
 
 # 在面板之间循环切换 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/phibr0/cycle-through-panes) ![](https://tokei.rs/b1/github/phibr0/cycle-through-panes) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/cycle-through-panes/total)

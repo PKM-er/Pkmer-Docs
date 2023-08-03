@@ -1,5 +1,5 @@
 ---
-uid: 20230803213019
+uid: 2023080322244455
 title: Obsidian 插件：【Readme】Pieces for Developers
 tags: ['obsidian插件', 'readme']
 description: 使用Pieces For Developers插件在Obsidian中简化您的编码工作流程，提供强大的功能，用于捕捉、管理、翻译和增强代码片段。（闭源）
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[pieces-for-developers]] 插件的自述翻译
-
 
 
 # 开发者插件 | Obsidian插件

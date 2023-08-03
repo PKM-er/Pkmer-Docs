@@ -1,5 +1,5 @@
 ---
-uid: 20230803212706
+uid: 2023080322213773
 title: Obsidian 插件：【Readme】Liquid Templates
 tags: ['模板', 'obsidian插件', 'readme']
 description: 使用支持 LiquidJS 标签的模板
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[liquid-templates]] 插件的自述翻译
 
 
-
 ## Liquid模板
 
 这是Obsidian（https://obsidian.md）的一个插件。
@@ -57,83 +56,45 @@ modified: 20230101000000
 
 这意味着您可以创建一个由较小模板组成的模板，例如（假设您的模板文件夹为`templates`）：
 
-
-
 *templates/header.md*
-
 ```
 
 # 头部
 
-
-
 插入一个通用的头部
-
 ```
-
-
 
 *templates/footer.md*
-
 ```
-
 ---
-
 我只是一个页脚
-
 ```
-
-
 
 *templates/awesome_template.md*
-
 ```
-
 {% include "header" %}
 
-
-
 这是我的笔记正文：{{title}}
-
 链接到今天的笔记[[{{date}}]]
 
-
-
 {% include "footer" %}
-
 ```
-
-
 
 当你使用"Awesome template"模板创建一个笔记时，你将得到：
 
-
-
 *一个很酷的标题.md*
-
 ```
 
 # 标题
 
-
-
 插入一个常见的标题
 
-
-
 这是我的笔记正文：一个很酷的标题
-
 链接到今天的笔记 [[2021-05-21]
 
-
-
 ---
-
 我只是一个页脚
-
 ```
-
-
 
 但除此之外，您可以使用所有基本的[标签](https://liquidjs.com/tags/overview.html)和[过滤器](https://liquidjs.com/filters/overview.html)
 

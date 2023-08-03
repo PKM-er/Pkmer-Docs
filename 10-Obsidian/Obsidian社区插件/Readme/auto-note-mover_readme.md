@@ -1,5 +1,5 @@
 ---
-uid: 20230803211959
+uid: 2023080322143402
 title: Obsidian 插件：【Readme】Auto Note Mover
 tags: ['obsidian插件', 'readme']
 description: Auto Note Mover会根据规则自动将活动笔记移动到各自的文件夹中。
@@ -38,7 +38,6 @@ Auto Note Mover会根据规则自动将活动笔记移动到各自的文件夹�
 下面是 [[auto-note-mover]] 插件的自述翻译
 
 
-
 # 自动笔记移动器
 
 自动笔记移动器将根据规则自动将活动笔记移动到它们各自的文件夹中。
@@ -59,21 +58,13 @@ Auto Note Mover有两种类型的触发器。
 
 ### 自动
 
-
-
 当您创建、编辑或重命名一个笔记时触发，如果符合规则，则移动该笔记。
-
-
 
 您也可以通过命令来激活触发器。
 
 ### 手动
 
-
-
 不会自动移动笔记。
-
-
 
 您可以通过命令触发。
 
@@ -128,7 +119,6 @@ Auto Note Mover有两种类型的触发器。
 ![comm](https://user-images.githubusercontent.com/33874906/152723205-70599951-75ee-4915-a160-17a3faed67b0.png)
 
 ### 在前置事项中禁用自动笔记移动器。
-
 ![fm0](https://user-images.githubusercontent.com/33874906/152722074-d550e13c-2955-40ab-b324-7e934d86ea1a.png)
 
 故障排除

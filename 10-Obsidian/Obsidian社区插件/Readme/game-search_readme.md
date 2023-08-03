@@ -1,5 +1,5 @@
 ---
-uid: 20230803212444
+uid: 2023080322190228
 title: Obsidian 插件：【Readme】Game Search
 tags: ['obsidian插件', 'readme']
 description: 帮助将游戏元数据插入游戏笔记或日志中
@@ -38,11 +38,9 @@ modified: 20230101000000
 下面是 [[game-search]] 插件的自述翻译
 
 
-
 # Obsidian 游戏搜索插件
 
 forked from
-
 https://github.com/anpigon/obsidian-book-search-plugin/
 
 ## 描述

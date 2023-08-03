@@ -1,5 +1,5 @@
 ---
-uid: 20230803212437
+uid: 2023080322185462
 title: Obsidian 插件：【Readme】Frontmatter Tag Suggest
 tags: ['obsidian插件', 'readme']
 description: 自动完成前台标签字段中的标签
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-frontmatter-tag-suggest]] 插件的自述翻译
-
 
 
 ## Obsidian前置元数据标签建议

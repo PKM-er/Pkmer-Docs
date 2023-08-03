@@ -1,5 +1,5 @@
 ---
-uid: 20230803212642
+uid: 2023080322211352
 title: Obsidian 插件：【Readme】Lapel
 tags: ['界面相关', '效率', '目录/标题', 'obsidian插件', 'readme']
 description: 在笔记的标题层面显示标题等级，并可以直接更改。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[lapel]] 插件的自述翻译
-
 
 
 翻译结果如下：

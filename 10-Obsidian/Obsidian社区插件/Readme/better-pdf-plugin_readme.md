@@ -1,5 +1,5 @@
 ---
-uid: 20230803212025
+uid: 2023080322150500
 title: Obsidian 插件：【Readme】Better PDF Plugin
 tags: ['PDF', '编辑器', 'obsidian插件', 'readme']
 description: 允许你插入、缩放、旋转和裁剪 pdf 页面到您的笔记中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[better-pdf-plugin]] 插件的自述翻译
-
 
 
 Obsidian Better PDF 插件的目标是在 Obsidian 中实现原生的 PDF 处理工作流程。

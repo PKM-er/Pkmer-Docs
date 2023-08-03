@@ -1,5 +1,5 @@
 ---
-uid: 20230803212046
+uid: 2023080322152831
 title: Obsidian 插件：【Readme】Calibre
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您访问Calibre库并直接在Obsidian中阅读书籍。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-calibre-plugin]] 插件的自述翻译
-
 
 
 ![GitHub标签（最新的SemVer）](https://img.shields.io/github/v/tag/caronchen/obsidian-calibre-plugin) ![GitHub所有发布](https://img.shields.io/github/downloads/caronchen/obsidian-calibre-plugin/total) ![GitHub发布日期](https://img.shields.io/github/release-date/caronchen/obsidian-calibre-plugin) ![GitHub最后提交](https://img.shields.io/github/last-commit/caronchen/obsidian-calibre-plugin)

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213219
+uid: 2023080322265021
 title: Obsidian 插件：【Readme】Show Whitespace
 tags: ['界面相关', '编辑工具', 'obsidian插件', 'readme']
 description: 在编辑器中强化显示你输入的空格，防止因为不可见的输入导致格式错乱。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[cm-show-whitespace-obsidian]] 插件的自述翻译
-
 
 
 # 显示空白符的 Obsidian 插件

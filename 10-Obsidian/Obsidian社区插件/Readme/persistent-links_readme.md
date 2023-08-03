@@ -1,5 +1,5 @@
 ---
-uid: 20230803213016
+uid: 2023080322244196
 title: Obsidian 插件：【Readme】Persistent Links
 tags: ['obsidian插件', 'readme']
 description: 在将块和标题在文件之间移动时，自动修复内部链接。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[persistent-links]] 插件的自述翻译
-
 
 
 # 持久链接

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213007
+uid: 2023080322243360
 title: Obsidian 插件：【Readme】Paste URL into selection
 tags: ['链接处理', '效率', '编辑工具', 'obsidian插件', 'readme']
 description: 将选定的文本编程超链接模式
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[url-into-selection]] 插件的自述翻译
-
 
 
 将URL粘贴到选定的文本中，使用常规的`Ctrl/Cmd + V`键插入链接（URL），以"notion-style"的方式。

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212228
+uid: 2023080322170033
 title: Obsidian 插件：【Readme】Daf Yomi
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 准备达夫读书笔记
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-daf-yomi]] 插件的自述翻译
-
 
 
 # Obsidian Daf Yomi

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213053
+uid: 2023080322251554
 title: Obsidian 插件：【Readme】QR Code Generator Plugin
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 这是一个二维码生成器。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-qrcode-plugin]] 插件的自述翻译
-
 
 
 # QR Code Generator Obsidian 插件

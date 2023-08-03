@@ -1,5 +1,5 @@
 ---
-uid: 20230803212416
+uid: 2023080322182925
 title: Obsidian 插件：【Readme】Fleeting Notes Sync
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，用于将Fleeting Notes与Obsidian同步。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[fleeting-notes-obsidian]] 插件的自述翻译
-
 
 
 # 瞬息笔记插件

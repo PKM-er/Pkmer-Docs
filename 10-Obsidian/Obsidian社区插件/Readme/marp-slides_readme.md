@@ -1,5 +1,5 @@
 ---
-uid: 20230803212736
+uid: 2023080322220923
 title: Obsidian 插件：【Readme】Marp Slides
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中创建Marp演示文稿。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[marp-slides]] 插件的自述翻译
-
 
 
 # Obsidian的Marp幻灯片

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212507
+uid: 2023080322192502
 title: Obsidian 插件：【Readme】GPT Notes
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI的GPT-3语言模型生成任何主题的笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[gpt3-notes]] 插件的自述翻译
-
 
 
 # Obsidian GPT-3 笔记

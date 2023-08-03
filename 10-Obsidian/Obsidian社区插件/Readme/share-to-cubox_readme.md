@@ -1,5 +1,5 @@
 ---
-uid: 20230803213212
+uid: 2023080322264235
 title: Obsidian 插件：【Readme】Share to Cubox
 tags: ['obsidian插件', 'readme']
 description: 分享Obsidian笔记到Cubox。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[share-to-cubox]] 插件的自述翻译
-
 
 
 # Obsidian的Cubox插件

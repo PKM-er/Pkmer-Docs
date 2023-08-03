@@ -1,5 +1,5 @@
 ---
-uid: 20230803213013
+uid: 2023080322243857
 title: Obsidian 插件：【Readme】Pending notes
 tags: ['obsidian插件', 'readme']
 description: Obsidian插件可以在你的保险库中搜索没有笔记的链接。
@@ -36,7 +36,6 @@ Obsidian插件可以在你的保险库中搜索没有笔记的链接。
 ## Readme(翻译）
 
 下面是 [[obsidian-pending-notes]] 插件的自述翻译
-
 
 
 # Obsidian待处理笔记插件

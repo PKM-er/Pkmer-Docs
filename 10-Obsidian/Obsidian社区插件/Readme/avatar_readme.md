@@ -1,5 +1,5 @@
 ---
-uid: 20230803212008
+uid: 2023080322144426
 title: Obsidian 插件：【Readme】Avatar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示一个头像图片。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[avatar]] 插件的自述翻译
-
 
 
 # 黑曜石头像

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213155
+uid: 2023080322262514
 title: Obsidian 插件：【Readme】Scroll Offset
 tags: ['obsidian插件', 'readme']
 description: 在光标之前或之后保留自定义距离。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-scroll-offset]] 插件的自述翻译
-
 
 
 # Obsidian滚动偏移

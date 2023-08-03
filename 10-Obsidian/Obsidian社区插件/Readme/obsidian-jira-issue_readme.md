@@ -1,5 +1,5 @@
 ---
-uid: 20230803212620
+uid: 2023080322204738
 title: Obsidian 插件：【Readme】Jira Issue
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian笔记中跟踪Atlassian Jira问题的进展。
@@ -38,26 +38,15 @@ modified: 20230101000000
 下面是 [[obsidian-jira-issue]] 插件的自述翻译
 
 
-
 # Obsidian jira-issue
-
 ![测试状态](https://github.com/marc0l92/obsidian-jira-issue/actions/workflows/ci.yaml/badge.svg)
-
-
-
 
 
 该插件允许您从[Obsidian.md](https://obsidian.md/)笔记中跟踪[Atlassian Jira](https://www.atlassian.com/software/jira)问题的进展。
 
 
 
-
-
-
-
 ![问题](./assets/issues.png)
-
-
 
 ![搜索结果](./assets/searchResults2.png)
 
@@ -77,82 +66,47 @@ modified: 20230101000000
 
 ## Markdown 语法
 
-
-
 该插件支持以下组件：
 
 ### 📃`jira-issue`:
-
 - [文档](https://marc0l92.github.io/obsidian-jira-issue/docs/components/jira-issue)
-
 - 示例:
-
 ````
-
 ```jira-issue
-
 AAA-111
-
 AAA-222
-
 https://my.jira-server.com/browse/BBB-333
-
 ```
 
 # 这是一个注释
-
 ```
-
 ````
 
 ### 🔎`jira-search`
-
 - [文档](https://marc0l92.github.io/obsidian-jira-issue/docs/components/jira-search)
-
 - 简单示例:
-
 ````
-
 ```jira-search
-
 resolution = Unresolved AND assignee = currentUser() AND status = 'In Progress' order by priority DESC
-
     ```
-
 ````
-
 - 高级示例:
-
 ````
-
 ```jira-search
-
 type: TABLE
-
 query: status = 'In Progress' order by priority DESC
-
 limit: 15
-
 columns: KEY, SUMMARY, -ASSIGNEE, -REPORTER, STATUS, NOTES
-
 ```
-
 ````
 
 ### 🔢`jira-count`
-
 - [文档](https://marc0l92.github.io/obsidian-jira-issue/docs/components/jira-count)
-
 - 示例:
-
 ````
-
 ```jira-count
-
 project = REF AND status changed to (Done, "Won't Fix", Archived, "Can't Reproduce", "PM Validated") after -14d
-
 ```
-
 ````
 
 ### 🏷️内联问题

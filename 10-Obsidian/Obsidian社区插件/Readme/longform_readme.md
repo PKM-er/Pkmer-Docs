@@ -1,5 +1,5 @@
 ---
-uid: 20230803212716
+uid: 2023080322214824
 title: Obsidian 插件：【Readme】Longform
 tags: ['文件管理', 'obsidian插件', 'readme']
 description: Obsidian 插件，可帮助您编写和编辑小说、剧本和其他长期项目。
@@ -36,7 +36,6 @@ Obsidian 插件，可帮助您编写和编辑小说、剧本和其他长期项�
 ## Readme(翻译）
 
 下面是 [[longform]] 插件的自述翻译
-
 
 
 长篇是一个为[Obsidian](https://obsidian.md)设计的插件，它帮助你编写和编辑小说、剧本和其他长篇项目。它允许你将一系列笔记或“场景”组织成有序的手稿。它还支持单个笔记的项目，用于较短的作品。主要功能包括：

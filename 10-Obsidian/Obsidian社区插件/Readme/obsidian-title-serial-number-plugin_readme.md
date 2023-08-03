@@ -1,5 +1,5 @@
 ---
-uid: 20230803213344
+uid: 2023080322282586
 title: Obsidian 插件：【Readme】Title Serial Number Plugin
 tags: ['obsidian插件', 'readme']
 description: 该插件为您的Markdown标题添加序列号。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-title-serial-number-plugin]] 插件的自述翻译
-
 
 
 # Obsidian标题序列号插件

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213142
+uid: 2023080322261035
 title: Obsidian 插件：【Readme】Ring a secretary
 tags: ['obsidian插件', 'readme']
 description: 又一个由ChatGPT驱动的数字秘书
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ring-a-secretary]] 插件的自述翻译
-
 
 
 # 给秘书打电话

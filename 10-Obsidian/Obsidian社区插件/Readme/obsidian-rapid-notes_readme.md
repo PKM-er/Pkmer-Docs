@@ -1,5 +1,5 @@
 ---
-uid: 20230803213111
+uid: 2023080322253527
 title: Obsidian 插件：【Readme】Rapid Notes
 tags: ['obsidian插件', 'readme']
 description: 快速在特定文件夹中创建和放置基于预定义前缀的笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-rapid-notes]] 插件的自述翻译
-
 
 
 # 快速笔记插件

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212127
+uid: 2023080322160618
 title: Obsidian 插件：【Readme】Code Emitter
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有Rust、Kotlin、Python、Javascript、TypeScript等。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[code-emitter]] 插件的自述翻译
-
 
 
 # Obsidian代码发射器

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212601
+uid: 2023080322202281
 title: Obsidian 插件：【Readme】Image Window
 tags: ['obsidian插件', 'readme']
 description: 允许在 Obsidian 新窗口中查看图像和笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[image-window]] 插件的自述翻译
-
 
 
 # 图像窗口

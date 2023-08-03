@@ -1,5 +1,5 @@
 ---
-uid: 20230803212915
+uid: 2023080322234761
 title: Obsidian 插件：【Readme】Obsidian to Flomo
 tags: ['obsidian插件', 'readme']
 description: 快速分享内容到Flomo。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-to-flomo]] 插件的自述翻译
-
 
 
 # Obsidian to Flomo

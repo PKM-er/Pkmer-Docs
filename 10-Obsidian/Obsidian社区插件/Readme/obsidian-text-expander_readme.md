@@ -1,5 +1,5 @@
 ---
-uid: 20230803213324
+uid: 2023080322280396
 title: Obsidian 插件：【Readme】Text Expander
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 在编辑器中扩展文本快捷键，运行shell命令和python脚本
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-text-expander]] 插件的自述翻译
-
 
 
 ⚠️ 不支持基于CM6的编辑器（Obsidian版本大于等于v13.0.0的默认选项）。请考虑使用传统编辑器。

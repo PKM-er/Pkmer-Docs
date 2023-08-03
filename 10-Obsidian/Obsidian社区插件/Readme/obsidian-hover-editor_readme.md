@@ -1,5 +1,5 @@
 ---
-uid: 20230803212538
+uid: 2023080322195558
 title: Obsidian 插件：【Readme】Hover Editor
 tags: ['界面相关', '编辑工具', '笔记文件处理', 'obsidian插件', 'readme']
 description: 将“页面预览”悬停弹出框转换为完全可用的编辑器实例
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-hover-editor]] 插件的自述翻译
-
 
 
 ## Obsidian悬停编辑器

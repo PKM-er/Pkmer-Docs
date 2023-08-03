@@ -1,5 +1,5 @@
 ---
-uid: 20230803213323
+uid: 2023080322280210
 title: Obsidian 插件：【Readme】Text Dataset Aid Plugin
 tags: ['obsidian插件', 'readme']
 description: 这个Obsidian插件有助于为语言模型创建微调数据集。
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[obsidian-dataset-aid]] 插件的自述翻译
 
 
-
 ![图片](https://user-images.githubusercontent.com/88785126/203184536-9199f720-a03b-423b-9bf6-81a68c7fbd28.png)
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=下载量&query=%24%5B%22obsidian-dataset-aid%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
 ## 个性化你的第二大脑小伙伴（文本生成模型）
@@ -50,18 +49,11 @@ modified: 20230101000000
 # 上下文
 
 条件：完全工作
-
 NLP和文本生成数据集的创建具有极大的影响力，并有潜力使研究人员能够训练能够自动生成文本的模型。然而，创建自定义数据集是一个繁琐而缓慢的过程。
-
-
 
 文本数据集辅助工具是一个有用的工具，可以通过手动辅助创建用于文本生成模型（如GPT-3）的微调数据集！这可以使经过微调的模型生成的文本更加个性化、详细或格式更好。不再通过热键配置处理菜单！
 
-
-
 该插件可用于快速生成NLP和文本生成模型的训练数据。这将加快这些领域的研究进展，并使从业者更容易训练这些模型。
-
-
 
 文本数据集辅助插件是一个有用的工具，可以通过手动辅助创建用于文本生成模型（如GPT-3）的微调数据集。这可以使经过微调的模型生成的文本更加个性化、详细或格式更好。不再通过热键配置处理菜单！
 

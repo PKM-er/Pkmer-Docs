@@ -1,5 +1,5 @@
 ---
-uid: 20230803212258
+uid: 2023080322172487
 title: Obsidian 插件：【Readme】DMN Plugin
 tags: ['obsidian插件', 'readme']
 description: 该插件可以使用dmn-js查看DMN。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[dmn-plugin]] 插件的自述翻译
-
 
 
 # Obsidian DMN插件 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/joleaf/obsidian-dmn-plugin)](https://github.com/joleaf/obsidian-dmn-plugin/releases) [![Release Obsidian Plugin](https://github.com/joleaf/obsidian-dmn-plugin/actions/workflows/release.yml/badge.svg)](https://github.com/joleaf/obsidian-dmn-plugin/actions/workflows/release.yml) ![GitHub all releases](https://img.shields.io/github/downloads/joleaf/obsidian-dmn-plugin/total)

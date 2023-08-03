@@ -1,5 +1,5 @@
 ---
-uid: 20230803213331
+uid: 2023080322281091
 title: Obsidian 插件：【Readme】text2anki-openai
 tags: ['obsidian插件', 'readme']
 description: 这是一个使用OpenAI从文本生成闪卡并将其添加到Anki的黑曜石插件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[text2anki-openai]] 插件的自述翻译
-
 
 
 # 使用OpenAI的Text2Anki

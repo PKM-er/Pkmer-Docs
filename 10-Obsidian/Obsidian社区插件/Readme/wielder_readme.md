@@ -1,5 +1,5 @@
 ---
-uid: 20230803213442
+uid: 2023080322293224
 title: Obsidian 插件：【Readme】Wielder
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中支持 Clojure/ClojureScript 
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[wielder]] 插件的自述翻译
-
 
 
 ## Obsidian Wielder

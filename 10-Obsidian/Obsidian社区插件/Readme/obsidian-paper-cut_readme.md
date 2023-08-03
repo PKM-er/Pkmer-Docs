@@ -1,5 +1,5 @@
 ---
-uid: 20230803213000
+uid: 2023080322242789
 title: Obsidian 插件：【Readme】PaperCut
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 以最简单的方式表达一个想法……否则。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-paper-cut]] 插件的自述翻译
-
 
 
 # Obsidian Papercut 插件

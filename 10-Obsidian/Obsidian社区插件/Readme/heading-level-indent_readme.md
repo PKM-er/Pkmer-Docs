@@ -1,5 +1,5 @@
 ---
-uid: 20230803212520
+uid: 2023080322193758
 title: Obsidian 插件：【Readme】Heading Level Indent
 tags: ['obsidian插件', 'readme']
 description: 根据标题级别缩进内容。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[heading-level-indent]] 插件的自述翻译
-
 
 
 # 标题级别缩进

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212319
+uid: 2023080322174075
 title: Obsidian 插件：【Readme】Editor Commands Remap
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 将热键映射到编辑器命令。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[editor-commands-remap]] 插件的自述翻译
-
 
 
 # 编辑器命令重映射：Obsidian插件

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212312
+uid: 2023080322173530
 title: Obsidian 插件：【Readme】Dynamic Timetable
 tags: ['obsidian插件', 'readme']
 description: 根据任务的预计时间计算完成时间，并动态创建时间表。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[dynamic-timetable]] 插件的自述翻译
-
 
 
 # Obsidian动态课程表

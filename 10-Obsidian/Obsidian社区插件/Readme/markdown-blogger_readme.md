@@ -1,5 +1,5 @@
 ---
-uid: 20230803212728
+uid: 2023080322215932
 title: Obsidian 插件：【Readme】Markdown Blogger
 tags: ['obsidian插件', 'readme']
 description: 允许开发者将Markdown笔记推送到他们的本地博客、作品集或静态网站。适用于Astro.js、Next.js以及任何配置为渲染Markdown页面的框架。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[markdown-blogger]] 插件的自述翻译
-
 
 
 # Markdown博客插件

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212040
+uid: 2023080322152215
 title: Obsidian 插件：【Readme】Breadcrumbs
 tags: ['界面相关', '导航工具', 'obsidian插件', 'readme']
 description: 使用面包屑路径或矩阵视图可视化保管库的层次结构
@@ -38,10 +38,7 @@ modified: 20230101000000
 下面是 [[breadcrumbs]] 插件的自述翻译
 
 
-
 # 面包屑导航
-
-
 
 该插件为Obsidian添加了多个新视图。
 
@@ -69,27 +66,18 @@ modified: 20230101000000
 1. 前置字段。这是位于笔记顶部的yaml格式字段。例如，`me.md`文件可以具有以下前置字段：
 
 ```
-
 ---
-
 parent: [[dad]]
-
 parent: [[mom]]
-
 sibling: [[sister Lara]]
-
 child: [[child Andre]]
-
 ---
-
 ```
 
 2. 内联（必须使用[Dataview](https://github.com/blacksmithgu/obsidian-dataview#data)插件），在正常文本中使用如下方式：
 
 ```
-
 Punching is a very effective MMA technique (sibling:: [ [[Kicking]], [[Elbowing]], [[Kneeing]] ], parent:: [[Striking]])
-
 ```
 
 （注意Dataview内联元数据的双冒号）。
@@ -97,13 +85,9 @@ Punching is a very effective MMA technique (sibling:: [ [[Kicking]], [[Elbowing]
 3. 您也可以同时使用这两种方法。例如，您的`Course. 101 - Basics of Financing.md`文件可能具有以下内容：
 
 ```
-
 ---
-
 up: [[Year 2022 courses]]
-
 same: [[Course. 103 - Basics of Programming]]
-
 ---
 
 # 课程. 101 - 融资基础

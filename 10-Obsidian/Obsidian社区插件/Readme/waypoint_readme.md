@@ -1,5 +1,5 @@
 ---
-uid: 20230803213435
+uid: 2023080322292523
 title: Obsidian 插件：【Readme】Waypoint
 tags: ['界面相关', '目录/标题', '效率', 'obsidian插件', 'readme']
 description: Waypoint 是一个 Obsidian 插件，可以自动生成文件夹注释中的目录/MOC。一旦生成了一个航路点，它将自动链接到文件夹及其子文件夹中的每个笔记。Waypoint插件将检测您何时创建/重命名/移动/删除注释，并自动保持最新状态。
@@ -36,7 +36,6 @@ Waypoint 是一个 Obsidian 插件，可以自动生成文件夹注释中的目�
 ## Readme(翻译）
 
 下面是 [[waypoint]] 插件的自述翻译
-
 
 
 # Waypoint - [Obsidian.md](https://obsidian.md/)的自动目录生成器

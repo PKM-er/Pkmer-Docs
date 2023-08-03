@@ -1,5 +1,5 @@
 ---
-uid: 20230803213314
+uid: 2023080322275128
 title: Obsidian 插件：【Readme】Task Collector (TC)
 tags: ['obsidian插件', 'readme']
 description: 使用热键和上下文菜单更改任务状态并收集文档中的任务。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-task-collector]] 插件的自述翻译
-
 
 
 # Obsidian: 任务收集器

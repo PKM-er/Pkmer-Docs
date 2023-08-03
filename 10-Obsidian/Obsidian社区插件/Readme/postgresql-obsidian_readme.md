@@ -1,5 +1,5 @@
 ---
-uid: 20230803213035
+uid: 2023080322245858
 title: Obsidian 插件：【Readme】PostgreSQL Obsidian
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记的元数据上传到PostgreSQL数据库
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[postgresql-obsidian]] 插件的自述翻译
-
 
 
 <h1 align="center">

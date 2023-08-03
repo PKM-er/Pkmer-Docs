@@ -1,5 +1,5 @@
 ---
-uid: 20230803212856
+uid: 2023080322232990
 title: Obsidian 插件：【Readme】Obsidian Markdown export
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的Markdown导出插件。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-markdown-export-plugin]] 插件的自述翻译
-
 
 
 # Obsidian Markdown 导出

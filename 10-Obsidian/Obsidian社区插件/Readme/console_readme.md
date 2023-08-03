@@ -1,5 +1,5 @@
 ---
-uid: 20230803212149
+uid: 2023080322162684
 title: Obsidian 插件：【Readme】Console Markdown Plugin
 tags: ['obsidian插件', 'readme']
 description: 渲染控制台命令及其输出。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[console]] 插件的自述翻译
-
 
 
 # Obsidian控制台插件

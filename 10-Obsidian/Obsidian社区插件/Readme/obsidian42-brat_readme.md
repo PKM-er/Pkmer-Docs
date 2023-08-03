@@ -1,5 +1,5 @@
 ---
-uid: 20230803212919
+uid: 2023080322235173
 title: Obsidian 插件：【Readme】Obsidian42 - BRAT
 tags: ['插件', '效率', '第三方工具集成', 'obsidian插件', 'readme']
 description: 简称 BRAT。它让你更容易获取那些未在官方市场上架爱的主体和插件。需要你知道对应插件的 Github 项目地址
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian42-brat]] 插件的自述翻译
-
 
 
 # Beta Reviewers Auto-update Tester

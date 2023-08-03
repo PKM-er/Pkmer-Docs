@@ -1,5 +1,5 @@
 ---
-uid: 20230803212823
+uid: 2023080322225583
 title: Obsidian 插件：【Readme】No Tabs
 tags: ['obsidian插件', 'readme']
 description: 创建新笔记时替换之前的选项卡。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[no-tabs]] 插件的自述翻译
-
 
 
 # 无标签 Obsidian 插件

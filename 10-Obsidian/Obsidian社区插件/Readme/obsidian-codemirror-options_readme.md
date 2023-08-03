@@ -1,5 +1,5 @@
 ---
-uid: 20230803212132
+uid: 2023080322160961
 title: Obsidian 插件：【Readme】CodeMirror Options
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 增强 Obsidian 的桌面编辑模式，添加诸如 WYSIWYG/实时预览、语法高亮等功能。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-codemirror-options]] 插件的自述翻译
-
 
 
 # Obsidian CodeMirror选项
@@ -78,23 +77,13 @@ Obsidian开发人员最近向内部人员发布了“实时预览”模式。这
 
 ##### 隐藏Markdown标记
 
-
-
 一旦离开标记元素，此功能将隐藏Markdown标记，从而在编辑模式下实现所见即所得/实时预览功能
-
-
 
 目前，标记隐藏支持*强调*，**加粗**，~~删除线~~，==高亮==，`内联代码`
 
-
-
 - [[列表中的内部链接]]
-
 - ##### 列表中的标题
-
 - [x] 复选框
-
-
 
 此功能还根据活动行而不是活动元素隐藏某些标记。
 
@@ -161,48 +150,26 @@ Obsidian开发人员最近向内部人员发布了“实时预览”模式。这
   - [data-hashtags="<space_delimited_list_of_all_tags_found>"]
 
 #### 前置CSS
-
 此功能将解析前置变量并将其添加到`div.view-content`中作为CSS变量和数据属性。
-
-
 
 这使您可以将前置变量用作选择器或值，如下面的代码片段所示。
 
-
-
 ```yaml
-
 ---
-
 custom-font-size: 1em
-
 text-color: pink
-
 tags: [codemirror, plugin, demo]
-
 ---
-
 ```
-
-
 
 ```css
-
 div[data-tags*="demo"] .CodeMirror-line,
-
 div[data-tags*="demo"] p {
-
   font-size: var(--custom-font-size);
-
 }
-
 ```
 
-
-
 由于变量和属性应用于`div.view-content`，因此您可以使用它们来为编辑和预览模式设置样式。
-
-
 
 在CSS中使用变量之前，必须在插件设置页面中注册它们。这是为了防止将前置内容中的所有内容污染DOM。
 
@@ -212,14 +179,9 @@ div[data-tags*="demo"] p {
 这个实现还允许在同一行上使用多个图像，并支持Obsidian的图像大小语法。
 
 ### 模板语法支持
-
 OpenMD与Templater的内置语法高亮功能不兼容。为了解决这个问题，OpenMD现在原生支持Templater语法。
 
-
-
 您需要确保禁用Templater的原生语法高亮选项，以避免任何冲突。
-
-
 
 可以使用样式设置来更改或自定义语法高亮主题。
 
@@ -279,157 +241,80 @@ Markdown语法支持在列表项中使用标题，但默认的编辑模式解析
 
 ## 语法高亮
 
-
-
 <img src="https://user-images.githubusercontent.com/89109712/132953836-bac79ab0-581c-469b-a971-6c2dcde2773f.gif" width=70% height=70%>
-
-
 
 启用此插件后，将在编辑和预览模式下对代码块应用一致的语法高亮主题。
 
-
-
 默认情况下，该插件将"Material: Palenight"主题应用于明亮和暗黑模式。
-
-
 
 如果您想自定义语法高亮主题，请安装Style Settings并在Style Settings插件选项中的CodeMirror Options部分进行探索。
 
-
-
 该插件目前包含4个主题选项：
 
-
-
 - Solarized Light
-
 - Material Palenight
-
 - Dracula
-
 - Custom
-
-
 
 使用自定义主题时，您可以自定义任何可用的语法高亮颜色。您还可以使用自定义主题选项使用Style Settings导入自己的主题。
 
-
-
 以下是导入Dracula主题仅用于暗黑模式的示例：
 
-
-
 ```json
-
 {
-
 "CodeMirror Options@@cm-background@@dark": "#282a36",
-
 "CodeMirror Options@@cm-foreground@@dark": "#f8f8f2",
-
 "CodeMirror Options@@cm-comment@@dark": "#6272a4",
-
 "CodeMirror Options@@cm-string@@dark": "#f1fa8c",
-
 "CodeMirror Options@@cm-string-2@@dark": "#f1fa8c",
-
 "CodeMirror Options@@cm-number@@dark": "#bd93f9",
-
 "CodeMirror Options@@cm-variable@@dark": "#50fa7b",
-
 "CodeMirror Options@@cm-variable-2@@dark": "#ffffff",
-
 "CodeMirror Options@@cm-def@@dark": "#50fa7b",
-
 "CodeMirror Options@@cm-operator@@dark": "#ff79c6",
-
 "CodeMirror Options@@cm-keyword@@dark": "#ff79c6",
-
 "CodeMirror Options@@cm-atom@@dark": "#bd93f9",
-
 "CodeMirror Options@@cm-meta@@dark": "#f8f8f2",
-
 "CodeMirror Options@@cm-tag@@dark": "#ff79c6",
-
 "CodeMirror Options@@cm-attribute@@dark": "#50fa7b",
-
 "CodeMirror Options@@cm-qualifier@@dark": "#50fa7b",
-
 "CodeMirror Options@@cm-property@@dark": "#66d9ef",
-
 "CodeMirror Options@@cm-builtin@@dark": "#50fa7b",
-
 "CodeMirror Options@@cm-variable-3@@dark": "#ffb86c",
-
 "CodeMirror Options@@cm-type@@dark": "#ffb86c",
-
 "CodeMirror Options@@cm-activeline-background@@dark": "#414458",
-
 "CodeMirror Options@@cm-matchingbracket@@dark": "#ffffff"
-
 }
-
 ```
-
-
 
 类似地，您可以使用@@light导入一个主题以供明亮模式使用：
 
-
-
 ```json
-
 {
-
 "CodeMirror Options@@cm-background@@light": "#282a36",
-
 "CodeMirror Options@@cm-foreground@@light": "#f8f8f2",
-
 "CodeMirror Options@@cm-comment@@light": "#6272a4",
-
 "CodeMirror Options@@cm-string@@light": "#f1fa8c",
-
 "CodeMirror Options@@cm-string-2@@light": "#f1fa8c",
-
 "CodeMirror Options@@cm-number@@light": "#bd93f9",
-
 "CodeMirror Options@@cm-variable@@light": "#50fa7b",
-
 "CodeMirror Options@@cm-variable-2@@light": "#ffffff",
-
 "CodeMirror Options@@cm-def@@light": "#50fa7b",
-
 "CodeMirror Options@@cm-operator@@light": "#ff79c6",
-
 "CodeMirror Options@@cm-keyword@@light": "#ff79c6",
-
 "CodeMirror Options@@cm-atom@@light": "#bd93f9",
-
 "CodeMirror Options@@cm-meta@@light": "#f8f8f2",
-
 "CodeMirror Options@@cm-tag@@light": "#ff79c6",
-
 "CodeMirror Options@@cm-attribute@@light": "#50fa7b",
-
 "CodeMirror Options@@cm-qualifier@@light": "#50fa7b",
-
 "CodeMirror Options@@cm-property@@light": "#66d9ef",
-
 "CodeMirror Options@@cm-builtin@@light": "#50fa7b",
-
 "CodeMirror Options@@cm-variable-3@@light": "#ffb86c",
-
 "CodeMirror Options@@cm-type@@light": "#ffb86c",
-
 "CodeMirror Options@@cm-activeline-background@@light": "#414458",
-
 "CodeMirror Options@@cm-matchingbracket@@light": "#ffffff"
-
 }
-
 ```
-
-
 
 CSS属性与CodeMirror使用的标准属性非常相似。您可以在[这里](https://codemirror.net/theme/)找到更多主题颜色，并将其调整为上述导入格式。您可以在[这里](https://codemirror.net/demo/theme.html)测试查看主题颜色。
 
@@ -473,11 +358,8 @@ CSS属性与CodeMirror使用的标准属性非常相似。您可以在[这里](h
 - 当编辑器的后向小部件高度超过一定长度时，您将无法再点击元素。这个问题已经解决。
 
 ### 0.9.1
-
 - 修复了语法高亮逻辑的问题
-
   - 插件现在在查找"java"、"bash"和其他语言时应该更可靠
-
 - 修复了损坏的语法高亮样式
 
 ### 0.9.0

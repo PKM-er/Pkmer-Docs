@@ -1,5 +1,5 @@
 ---
-uid: 20230803212923
+uid: 2023080322235494
 title: Obsidian 插件：【Readme】Obsidian42 - WordNet Dictionary
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 将普林斯顿大学开发的大型英语词汇数据库WordNet带入Obsidian。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-wordnet-plugin]] 插件的自述翻译
-
 
 
 # Obsidian-WordNet

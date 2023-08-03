@@ -1,5 +1,5 @@
 ---
-uid: 20230803213359
+uid: 2023080322284686
 title: Obsidian 插件：【Readme】Tray
 tags: ['obsidian插件', 'readme']
 description: 从系统托盘中运行Obsidian，以实现可自定义的窗口管理和全局快速笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tray]] 插件的自述翻译
-
 
 
 **托盘**是一个[Obsidian](https://obsidian.md/)插件，可以用于在系统启动时启动应用程序并在后台运行，添加全局热键和托盘菜单，以切换窗口可见性并在操作系统的任何位置创建快速笔记。

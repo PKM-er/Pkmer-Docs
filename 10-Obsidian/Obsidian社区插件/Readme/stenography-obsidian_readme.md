@@ -1,5 +1,5 @@
 ---
-uid: 20230803213250
+uid: 2023080322272509
 title: Obsidian 插件：【Readme】Stenography
 tags: ['obsidian插件', 'readme']
 description: 使用Stenography API，利用机器学习将代码块翻译成简单的英文。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[stenography-obsidian]] 插件的自述翻译
-
 
 
 ## 隐写术黑曜石插件

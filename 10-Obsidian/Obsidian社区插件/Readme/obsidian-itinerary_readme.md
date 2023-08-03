@@ -1,5 +1,5 @@
 ---
-uid: 20230803212615
+uid: 2023080322204183
 title: Obsidian 插件：【Readme】Itinerary
 tags: ['obsidian插件', 'readme']
 description: 通过从您的笔记中渲染日历，可以更轻松地规划您的旅行或活动。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-itinerary]] 插件的自述翻译
-
 
 
 # 黑曜石行程

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212756
+uid: 2023080322223017
 title: Obsidian 插件：【Readme】MetaEdit
 tags: ['编辑工具', '效率', 'obsidian插件', 'readme']
 description: 帮你快捷管理 meta信息，你可以为meta 信息项设置可选项。
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[metaedit]] 插件的自述翻译
 
 
-
 # MetaEdit for Obsidian
 
 ![v554FnTthq](https://user-images.githubusercontent.com/29108628/118363633-9933de80-b595-11eb-9603-31a3be0e0ccc.gif)
@@ -74,52 +73,31 @@ https://user-images.githubusercontent.com/29108628/119513092-3223e000-bd74-11eb-
 https://user-images.githubusercontent.com/29108628/121333246-ebf48200-c918-11eb-889b-23b9a80299b2.mp4
 
 ## API
-
 您可以通过使用 `app.plugins.plugins["metaedit"].api` 来访问API。
 
-
-
 我建议使用解构的方式来使用API，如下所示：
-
 ```js
-
 const {autoprop} = this.app.plugins.plugins["metaedit"].api;
-
 ```
 
 ### `autoprop(propertyName: string)`
-
 接受一个包含属性名称的字符串。在用户设置中查找该属性，并打开一个建议器，显示该属性的可能值。
 
-
-
 返回所选的值。如果未选择任何值，或者在设置中未找到该属性，则返回`null`。
-
-
 
 这是一个异步函数，所以你应该使用`await`来调用它。
 
 ### `update(propertyName: string, propertyValue: string, file: TFile | string)`
-
 在给定的文件中，将具有给定名称的属性更新为给定的值。
 
-
-
 如果文件是一个字符串，则应该是文件路径。否则，可以使用`TFile`。
-
-
 
 这是一个异步函数，所以你应该使用`await`来调用它。
 
 ### `getPropertyValue(propertyName: string, file: TFile | string)`
-
 获取给定文件中给定属性的值。
 
-
-
 如果文件是一个字符串，则应该是文件路径。否则，可以使用`TFile`。
-
-
 
 这是一个异步函数，所以你应该使用`await`来调用它。
 
@@ -127,51 +105,28 @@ const {autoprop} = this.app.plugins.plugins["metaedit"].api;
 
 #### 新任务模板（需要[Templater](https://github.com/SilentVoid13/Templater)插件）
 ```
-
 <%*
-
 const {autoprop} = this.app.plugins.plugins["metaedit"].api;
-
 _%>
-
 #任务
-
 完成状态:: 0
-
 项目::
-
 状态:: <% await autoprop("Status") %>
-
 优先级:: <% await autoprop("Priority") %>
-
 截止日期::
 
-
-
 完成状态:: 0
-
 能量::
-
 预计时间::
 
-
-
 总数:: 1
-
 已完成:: 0
-
 未完成:: 1
-
-
 
 ---
 
-
-
 - [ ] <% tp.file.cursor() %>
-
 ```
-
 ![3EfcPLYkj6](https://user-images.githubusercontent.com/29108628/119262986-85175f00-bbdd-11eb-8073-424fe9ec93c2.gif)
 
 #### 在Dataview表格中完成任务（按钮版本）
@@ -209,12 +164,8 @@ dv.table(["名称", "状态", "项目", "截止日期", ""], dv.pages("#tasks")
     .map(t => [t.file.link, t.status, t.project, t["due-date"], 
     buttonMaker('状态', '已完成', t.file.path)]))
 ```
-
 ````
-
 ![BnAVIV4XCM](https://user-images.githubusercontent.com/29108628/119342519-7d1af600-bc95-11eb-8ff8-09f19027131e.gif)
-
-
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213150
+uid: 2023080322261998
 title: Obsidian 插件：【Readme】SamePage
 tags: ['obsidian插件', 'readme']
 description: 将官方黑曜石客户端整合到思想工具协议中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[samepage]] 插件的自述翻译
-
 
 
 # SamePage

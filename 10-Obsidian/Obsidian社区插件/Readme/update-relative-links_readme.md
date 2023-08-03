@@ -1,5 +1,5 @@
 ---
-uid: 20230803213412
+uid: 2023080322290115
 title: Obsidian 插件：【Readme】Update Relative Links
 tags: ['obsidian插件', 'readme']
 description: 更新相对链接
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[update-relative-links]] 插件的自述翻译
-
 
 
 # 更新相对链接

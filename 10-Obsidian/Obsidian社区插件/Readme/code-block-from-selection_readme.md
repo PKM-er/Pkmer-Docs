@@ -1,5 +1,5 @@
 ---
-uid: 20230803212123
+uid: 2023080322160213
 title: Obsidian 插件：【Readme】Code block from selection
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 为所选文本添加代码块。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[code-block-from-selection]] 插件的自述翻译
-
 
 
 # 从选定文本创建代码块

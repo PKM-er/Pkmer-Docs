@@ -1,5 +1,5 @@
 ---
-uid: 20230803212341
+uid: 2023080322175764
 title: Obsidian 插件：【Readme】Excel to Markdown Table
 tags: ['表格', 'obsidian插件', 'readme']
 description: Obsidian插件，可以将来自Microsoft Excel、Google Sheets、Apple Numbers和LibreOffice Calc的数据粘贴为Obsidian编辑器中的Markdown表格。
@@ -36,7 +36,6 @@ Obsidian插件，可以将来自Microsoft Excel、Google Sheets、Apple Numbers�
 ## Readme(翻译）
 
 下面是 [[obsidian-excel-to-markdown-table]] 插件的自述翻译
-
 
 
 # Obsidian Excel to Markdown Table
@@ -76,19 +75,11 @@ Obsidian插件，可以将来自Microsoft Excel、Google Sheets、Apple Numbers�
 
 ### 来自GitHub
 
-
-
 1. 从GitHub存储库的Releases部分下载最新版本
-
 2. 将文件放入您的保险库的插件文件夹中：`<vault>/.obsidian/plugins/obsidian-excel-to-markdown-table`
-
 3. 重新加载Obsidian
-
 4. 如果提示安全模式，您可以禁用安全模式并启用插件。
-
     否则，前往设置，第三方插件，确保安全模式关闭，并从那里启用插件。
-
-
 
 > 注意：`.obsidian`文件夹可能是隐藏的。在macOS上，您应该能够按下`Command+Shift+Dot`来在Finder中显示该文件夹。
 

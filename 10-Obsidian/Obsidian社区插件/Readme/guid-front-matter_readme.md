@@ -1,5 +1,5 @@
 ---
-uid: 20230803211909
+uid: 2023080322133752
 title: Obsidian 插件：【Readme】Add an ID to the front matter
 tags: ['obsidian插件', 'readme']
 description: 为每个markdown文档的前置元数据添加一个全局唯一的ID。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[guid-front-matter]] 插件的自述翻译
-
 
 
 # Obsidian GUID 插件

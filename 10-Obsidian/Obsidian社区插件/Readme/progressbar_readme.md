@@ -1,5 +1,5 @@
 ---
-uid: 20230803213041
+uid: 2023080322250376
 title: Obsidian 插件：【Readme】ProgressBar
 tags: ['obsidian插件', 'readme']
 description: 将CodeBlock根据时间或手动方式渲染为进度条。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[progressbar]] 插件的自述翻译
-
 
 
 # Obsidian ProgressBar

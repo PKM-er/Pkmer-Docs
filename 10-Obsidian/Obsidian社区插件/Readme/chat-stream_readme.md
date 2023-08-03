@@ -1,5 +1,5 @@
 ---
-uid: 20230803212102
+uid: 2023080322154266
 title: Obsidian 插件：【Readme】Chat Stream
 tags: ['obsidian插件', 'readme']
 description: 使用画布笔记创建分支式GPT聊天。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[chat-stream]] 插件的自述翻译
-
 
 
 # 聊天流

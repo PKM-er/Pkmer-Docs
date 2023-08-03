@@ -1,5 +1,5 @@
 ---
-uid: 20230803212000
+uid: 2023080322143588
 title: Obsidian 插件：【Readme】Auto Split
 tags: ['obsidian插件', 'readme']
 description: 使用分割编辑器和预览打开笔记
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-auto-split]] 插件的自述翻译
-
 
 
 ## 自动分屏

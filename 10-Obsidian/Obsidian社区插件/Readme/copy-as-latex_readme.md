@@ -1,5 +1,5 @@
 ---
-uid: 20230803212158
+uid: 2023080322163490
 title: Obsidian 插件：【Readme】Copy as LaTeX
 tags: ['obsidian插件', 'readme']
 description: 快速将Markdown复制为Latex，带有引文的插件
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[copy-as-latex]] 插件的自述翻译
 
 
-
 # 复制为Latex
 
 设计用于在Obsidian环境中进行大部分写作，包括从一个良好管理的参考文献集合中引用等。比Pandoc更轻量级，不假设你正在写整个文档。目标是：
@@ -46,7 +45,6 @@ modified: 20230101000000
 - 快速
 
 ## 示例
-
 ```markdown
 
 # 主标题

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213107
+uid: 2023080322253082
 title: Obsidian 插件：【Readme】Quran Lookup
 tags: ['obsidian插件', 'readme']
 description: 使用这个文本替换插件，轻松在Obsidian中添加古兰经经文和翻译。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-quran-lookup]] 插件的自述翻译
-
 
 
 ## 以真主的名义，最仁慈的，最怜悯的。

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212337
+uid: 2023080322175456
 title: Obsidian 插件：【Readme】ePub Reader
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的ePub阅读器插件。可以打开以“.epub”文件扩展名的文档。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-epub-plugin]] 插件的自述翻译
-
 
 
 ![GitHub标签（最新的SemVer）](https://img.shields.io/github/v/tag/caronchen/obsidian-epub-plugin) ![GitHub所有发布](https://img.shields.io/github/downloads/caronchen/obsidian-epub-plugin/total) ![GitHub发布日期](https://img.shields.io/github/release-date/caronchen/obsidian-epub-plugin) ![GitHub最后提交](https://img.shields.io/github/last-commit/caronchen/obsidian-epub-plugin)

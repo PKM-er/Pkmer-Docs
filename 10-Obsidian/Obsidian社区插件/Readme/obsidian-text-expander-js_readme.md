@@ -1,5 +1,5 @@
 ---
-uid: 20230803212612
+uid: 2023080322203828
 title: Obsidian 插件：【Readme】Inline Scripts
 tags: ['obsidian插件', 'readme']
 description: 输入文本快捷键，然后用JavaScript生成的文本替换它们。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-text-expander-js]] 插件的自述翻译
-
 
 
 # Obsidian插件 - 内联脚本（公测版）

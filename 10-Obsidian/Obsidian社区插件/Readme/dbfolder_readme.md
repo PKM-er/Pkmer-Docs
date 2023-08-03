@@ -1,5 +1,5 @@
 ---
-uid: 20230803212242
+uid: 2023080322171181
 title: Obsidian 插件：【Readme】DB Folder
 tags: ['obsidian插件', 'readme']
 description: 文件夹具有从类似数据库的文件夹中存储和检索数据的能力
@@ -38,37 +38,22 @@ modified: 20230101000000
 下面是 [[dbfolder]] 插件的自述翻译
 
 
-
 ## 数据库文件夹插件
-
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/RafaelGB/obsidian-db-folder?style=for-the-badge&sort=semver)](https://github.com/RafaelGB/obsidian-db-folder/releases/latest)
-
 [![Github All Releases](https://img.shields.io/github/downloads/RafaelGB/obsidian-db-folder/total?style=for-the-badge)]()
-
-
 
 该插件是一个基于文件夹、链接、标签或dataview查询的类似Notion的数据库。
 
-
-
 - **[文档](https://rafaelgb.github.io/obsidian-db-folder/)**
-
 - **[路线图](https://github.com/users/RafaelGB/projects/7/views/4)**
-
 - **[更新日志](https://rafaelgb.github.io/obsidian-db-folder/changelog/)**
 
 ### 如何使用？
-
 数据库有自己的视图类型。它将根据许多类型的来源（文件夹、标签、链接和dataview查询）搜索所有的笔记。然后它将显示您指定的列/元数据。请查看我们的[文档](https://rafaelgb.github.io/obsidian-db-folder/features/Columns/)获取更多信息。
-
-
 
 您添加或编辑的信息将保存到目标Obsidian笔记中。
 
-
-
 最近的教程：
-
 - [在Obsidian中使用Notion数据库](https://www.youtube.com/watch?v=ibarYqG4W5I)
 
 ## 资源

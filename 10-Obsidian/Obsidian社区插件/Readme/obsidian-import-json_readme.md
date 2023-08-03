@@ -1,5 +1,5 @@
 ---
-uid: 20230803212622
+uid: 2023080322205180
 title: Obsidian 插件：【Readme】JSON/CSV Importer
 tags: ['obsidian插件', 'readme']
 description: 从一个包含数据数组的JSON文件中导入，使用Handlebars模板文件创建笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-import-json]] 插件的自述翻译
-
 
 
 # 导入JSON/CSV
@@ -127,22 +126,13 @@ CSV解码器应该可以自动检测出实际的分隔符，可以是逗号、�
 
 #### substring
 
-
-
 {{substring string start length}}
-
-
 
 这将返回一个字符串，其中包含从偏移量start（0=第一个字母）开始的'string'的部分，并且将从该偏移量返回'length'个字符（如果字符串比start+length短，则返回字符串的剩余部分）。
 
-
-
 ```hb
-
 {{substring "HAROLD" 3 2}}
-
 {{!-- 将返回字符串"OL"，因为3对应于字符串中的第四个字母，2表示从该位置开始返回的字符数。 --}}
-
 ```
 
 #### strarray
@@ -153,11 +143,7 @@ CSV解码器应该可以自动检测出实际的分隔符，可以是逗号、�
 
 #### replacereg
 
-
-
 {{replacereg string regexp replace}}
-
-
 
 这个函数在给定的字符串'string'中搜索与正则表达式'regexp'匹配的任何内容（不要使用toRegExp，只需提供字符串），并将每个匹配项替换为'replace'字符串（'replace'字符串可以包含来自正则表达式字符串的占位符）。
 
@@ -171,19 +157,11 @@ CSV解码器应该可以自动检测出实际的分隔符，可以是逗号、�
 
 #### setvar
 
-
-
 {{setvar varName varValue}}
-
-
 
 这将varValue赋值给一个名为varName的本地变量（如果它不存在，则会创建）。通常varName将是一个字符串，因此需要用双引号括起来。
 
-
-
 可以在handlebars模板中使用表达式{{varName}}来使用该变量。
-
-
 
 {{setVar...}}函数本身不会将任何字符串放入生成的输出中。
 

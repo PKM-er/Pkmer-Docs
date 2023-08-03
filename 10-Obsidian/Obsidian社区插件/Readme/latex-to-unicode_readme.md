@@ -1,5 +1,5 @@
 ---
-uid: 20230803212647
+uid: 2023080322211894
 title: Obsidian 插件：【Readme】LaTeX to Unicode converter
 tags: ['obsidian插件', 'readme']
 description: 将LaTeX命令转换为Unicode序列
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[latex-to-unicode]] 插件的自述翻译
-
 
 
 # 将简单的LaTeX符号转换为Unicode

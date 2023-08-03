@@ -1,5 +1,5 @@
 ---
-uid: 20230803213048
+uid: 2023080322251023
 title: Obsidian 插件：【Readme】Pseudocode
 tags: ['obsidian插件', 'readme']
 description: 帮助在代码块中渲染类似LaTeX风格的伪代码。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[pseudocode-in-obs]] 插件的自述翻译
-
 
 
 # Obsidian-Pseudocode

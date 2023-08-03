@@ -1,5 +1,5 @@
 ---
-uid: 20230803213439
+uid: 2023080322292919
 title: Obsidian 插件：【Readme】Weekly Review
 tags: ['obsidian插件', 'readme']
 description: 打开过去一周创建的所有文件来查看。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[weekly-review]] 插件的自述翻译
-
 
 
 # 每周回顾

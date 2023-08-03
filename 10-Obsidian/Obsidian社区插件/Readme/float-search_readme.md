@@ -1,5 +1,5 @@
 ---
-uid: 20230803212418
+uid: 2023080322183217
 title: Obsidian 插件：【Readme】Floating Search
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian默认的搜索视图来搜索文本。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[float-search]] 插件的自述翻译
-
 
 
 # Obsidian浮动搜索

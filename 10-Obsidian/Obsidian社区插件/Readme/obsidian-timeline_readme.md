@@ -1,5 +1,5 @@
 ---
-uid: 20230803213340
+uid: 2023080322282154
 title: Obsidian 插件：【Readme】Timeline
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 用于构建时间轴。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-timeline]] 插件的自述翻译
-
 
 
 构建令人惊叹的时间线

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212349
+uid: 2023080322180469
 title: Obsidian 插件：【Readme】Extract PDF Annotations
 tags: ['obsidian插件', 'readme']
 description: 提取PDF注释（笔记和高亮）并按主题分类
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-extract-pdf-annotations]] 插件的自述翻译
-
 
 
 # Obsidian提取PDF批注插件

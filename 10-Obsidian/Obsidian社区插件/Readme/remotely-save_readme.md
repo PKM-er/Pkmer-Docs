@@ -1,5 +1,5 @@
 ---
-uid: 20230803213135
+uid: 2023080322260182
 title: Obsidian 插件：【Readme】Remotely Save
 tags: ['第三方工具集成', '文件管理', '效率', 'obsidian插件', 'readme']
 description: 非官方同步不插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[remotely-save]] 插件的自述翻译
-
 
 
 # 远程保存

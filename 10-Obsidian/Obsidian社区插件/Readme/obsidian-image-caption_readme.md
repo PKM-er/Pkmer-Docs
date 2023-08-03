@@ -1,5 +1,5 @@
 ---
-uid: 20230803212552
+uid: 2023080322201164
 title: Obsidian 插件：【Readme】Image Caption
 tags: ['obsidian插件', 'readme']
 description: 为图片添加标题。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-image-caption]] 插件的自述翻译
-
 
 
 # Obsidian图像标题

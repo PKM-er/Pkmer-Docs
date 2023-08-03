@@ -1,5 +1,5 @@
 ---
-uid: 20230803213451
+uid: 2023080322294119
 title: Obsidian 插件：【Readme】Wordnik Definitions
 tags: ['obsidian插件', 'readme']
 description: 从Wordnik抓取一个主题的信息，并将其带入Obsidian笔记中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-wordnik]] 插件的自述翻译
-
 
 
 # Obsidian Wordnik

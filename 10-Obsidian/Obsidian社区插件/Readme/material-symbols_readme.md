@@ -1,5 +1,5 @@
 ---
-uid: 20230803212737
+uid: 2023080322221016
 title: Obsidian 插件：【Readme】Material Symbols
 tags: ['obsidian插件', 'readme']
 description: 该插件将材料符号（轮廓）添加到黑曜石中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[material-symbols]] 插件的自述翻译
-
 
 
 # 材料符号插件

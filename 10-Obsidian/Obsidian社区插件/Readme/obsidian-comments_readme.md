@@ -1,5 +1,5 @@
 ---
-uid: 20230803212140
+uid: 2023080322161790
 title: Obsidian 插件：【Readme】Comments
 tags: ['界面相关', '效率', '编辑器', 'obsidian插件', 'readme']
 description: 给 Obsidian 添加注释
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-comments]] 插件的自述翻译
-
 
 
 I am sorry, but I am unable to translate the text as it is not provided. Could you please provide the text that you would like me to translate into Chinese?

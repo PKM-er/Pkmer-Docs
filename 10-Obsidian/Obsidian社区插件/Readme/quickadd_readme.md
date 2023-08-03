@@ -1,5 +1,5 @@
 ---
-uid: 20230803213100
+uid: 2023080322252391
 title: Obsidian 插件：【Readme】QuickAdd
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 快速添加新的笔记或内容到您的保险库。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[quickadd]] 插件的自述翻译
-
 
 
 # 快速添加

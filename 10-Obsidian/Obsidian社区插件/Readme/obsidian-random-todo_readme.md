@@ -1,5 +1,5 @@
 ---
-uid: 20230803213109
+uid: 2023080322253361
 title: Obsidian 插件：【Readme】Random To-Do
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 打开一个包含你自定义待办标记的随机文件，或者在其位置上随机标记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-random-todo]] 插件的自述翻译
-
 
 
 这是一个为Obsidian（https://obsidian.md）开发的插件。

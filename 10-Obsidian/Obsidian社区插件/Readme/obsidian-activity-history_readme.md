@@ -1,5 +1,5 @@
 ---
-uid: 20230803211905
+uid: 2023080322133382
 title: Obsidian 插件：【Readme】Activity History
 tags: ['文件历史', '统计', 'obsidian插件', 'readme']
 description: 跟踪指定项目的活动，Github 之类的活动板
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-activity-history]] 插件的自述翻译
-
 
 
 # Obsidian活动历史

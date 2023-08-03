@@ -1,5 +1,5 @@
 ---
-uid: 20230803212537
+uid: 2023080322195380
 title: Obsidian 插件：【Readme】Hotkeys for templates
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 添加热键以插入特定模板
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-hotkeys-for-templates]] 插件的自述翻译
-
 
 
 # 模板的快捷键

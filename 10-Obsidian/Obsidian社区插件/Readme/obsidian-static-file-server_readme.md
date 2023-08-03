@@ -1,5 +1,5 @@
 ---
-uid: 20230803213248
+uid: 2023080322272238
 title: Obsidian 插件：【Readme】Static File Server
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将黑曜石子文件夹作为静态文件服务器托管。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-static-file-server]] 插件的自述翻译
-
 
 
 [![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/elias-sundqvist/obsidian-static-file-server?style=for-the-badge&sort=semver)](https://github.com/elias-sundqvist/obsidian-static-file-server/releases/latest)
@@ -83,21 +82,16 @@ modified: 20230101000000
 ## 更新日志
 
 ### 0.0.4（2021-06-08）*小错误修复*
-
 * 希望解决问题＃1。现在在服务器启动之前始终验证端口。
 
 ### 0.0.3（2021-05-04）*小修复*
-
 * 修复了lishind在（此社区插件列表PR）[https://github.com/obsidianmd/obsidian-releases/pull/304#issuecomment-846665181]中提到的各种问题。
-
 * 删除错误日志记录（错误消息仍然可以在开发者工具的网络选项卡中找到）。
 
 ### 0.0.2 (2021-05-04) *修复了误导性的设置占位符*
-
 * 文件夹路径不应以 `/` 开头。将占位符从 `e.g. /somepath` 更改为 `e.g. FolderName`
 
 ### 0.0.1 (2021-05-04) *首次发布*
-
 * 实现了插件的基本功能
 
 ## 许可证

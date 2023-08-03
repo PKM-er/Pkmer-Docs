@@ -1,5 +1,5 @@
 ---
-uid: 20230803212611
+uid: 2023080322203713
 title: Obsidian 插件：【Readme】Initiative Tracker
 tags: ['游戏', 'obsidian插件', 'readme']
 description: Obsidian的TTRPG行动跟踪器
@@ -36,7 +36,6 @@ Obsidian的TTRPG行动跟踪器
 ## Readme(翻译）
 
 下面是 [[initiative-tracker]] 插件的自述翻译
-
 
 
 🥇 我们的文档已经迁移到***[这里](https://plugins.javalent.com/initiative-tracker)***。

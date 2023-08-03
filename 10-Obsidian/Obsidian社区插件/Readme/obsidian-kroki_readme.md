@@ -1,5 +1,5 @@
 ---
-uid: 20230803212640
+uid: 2023080322211101
 title: Obsidian 插件：【Readme】Kroki
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 渲染Kroki图。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-kroki]] 插件的自述翻译
-
 
 
 # Obsidian Kroki

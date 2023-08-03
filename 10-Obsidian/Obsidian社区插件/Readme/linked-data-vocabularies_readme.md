@@ -1,5 +1,5 @@
 ---
-uid: 20230803212702
+uid: 2023080322213423
 title: Obsidian 插件：【Readme】Linked Data Vocabularies
 tags: ['obsidian插件', 'readme']
 description: 将国会图书馆主题词表（LCSH）作为元数据添加到您的笔记中。
@@ -38,44 +38,24 @@ modified: 20230101000000
 下面是 [[linked-data-vocabularies]] 插件的自述翻译
 
 
-
 # Obsidian Linked Data Vocabularies 插件
 
-
-
 > [!important]
-
 > 
-
 > 如果您是现有用户，您需要更新您的数据。为此，您需要将 Linked Data Helper 插件更新到 1.0.0 版本，并再次按照其设置中概述的步骤进行操作。
 
-
-
 > [!note] 为什么您应该使用这个插件？
-
 > 
-
 > 它允许您向笔记中添加链接数据。
-
 > 请参阅 [@brimwats](https://github.com/brimwats) 的 [解释](#explanation-of-linked-data) 以更好地理解链接数据。
-
-
 
 ![modal](./assets/modal.png)
 
-
-
 ![result](assets/result.png)
-
-
 
 目前，支持 Library of Congress Subject Headings。
 
-
-
 该插件为所选标题、URL（可选）、更广泛的、更狭窄的和相关的标题添加了 YAML 键。它还支持将其作为内联 YAML 插入到当前选择中，以便与 [Dataview](https://github.com/blacksmithgu/obsidian-dataview) 一起使用。
-
-
 
 **要生成所需的数据，您必须安装 [Linked Data Helper](https://github.com/kometenstaub/linked-data-helper) 插件。** 要使用 Obsidian Sync 同步数据，您需要在同步设置中启用“同步所有其他类型”。
 

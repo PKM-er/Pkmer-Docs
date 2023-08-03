@@ -1,5 +1,5 @@
 ---
-uid: 20230803213032
+uid: 2023080322245615
 title: Obsidian 插件：【Readme】Pocketbook Cloud Highlight Importer
 tags: ['obsidian插件', 'readme']
 description: 将您的Pocketbook Cloud帐户中的笔记和高亮导入到您的保险库中。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[pocketbook-cloud-highlight-importer]] 插件的自述翻译
-
 
 
 这是一个为Obsidian（https://obsidian.md）设计的插件，用于导入您在[Pocketbook E-Ink阅读器](https://pocketbook.de/)上或在手机上的[Pocketbook应用程序](https://play.google.com/store/apps/details?id=com.obreey.reader&hl=de&gl=US)上创建的高亮，使用[Pocketbook Cloud](https://cloud.pocketbook.digital)账户。

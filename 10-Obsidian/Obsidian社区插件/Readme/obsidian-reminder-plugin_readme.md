@@ -1,5 +1,5 @@
 ---
-uid: 20230803213134
+uid: 2023080322260030
 title: Obsidian 插件：【Readme】Reminder
 tags: ['任务管理', '日期相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 的任务，添加时间提醒。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-reminder-plugin]] 插件的自述翻译
-
 
 
 ## Obsidian 提醒插件

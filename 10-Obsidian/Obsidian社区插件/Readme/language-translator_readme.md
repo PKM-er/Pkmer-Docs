@@ -1,5 +1,5 @@
 ---
-uid: 20230803212641
+uid: 2023080322211183
 title: Obsidian 插件：【Readme】Language Translator
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，可以将所选文本翻译成所需的语言。
@@ -38,52 +38,28 @@ modified: 20230101000000
 下面是 [[language-translator]] 插件的自述翻译
 
 
-
 <p align="center">
-
   <a href="https://github.com/twentytwokhz/language-translator">
-
     <img src="https://github.com/twentytwokhz/language-translator/raw/master/translator.png" alt="Logo" height=100>
-
   </a>
-
   <h1 align="center">语言翻译器</h1>
 
-
-
   <p align="center">
-
     一个Obsidian插件，可以将选定的文本翻译成所需的语言。
-
     <br />
-
     <br />
-
     
-
     ·
-
     
-
   </p>
-
 </p>
 
-
-
 ![GitHub发布（按日期排序）](https://img.shields.io/github/v/release/twentytwokhz/language-translator)
-
 ![GitHub发布日期](https://img.shields.io/github/release-date/twentytwokhz/language-translator)
-
 ![GitHub问题](https://img.shields.io/github/issues/twentytwokhz/language-translator)
 
-
-
 ![GitHub所有发布](https://img.shields.io/github/downloads/twentytwokhz/language-translator/total)
-
 ![GitHub](https://img.shields.io/github/license/twentytwokhz/language-translator)
-
-
 
 <!-- 关于项目 -->
 # 语言翻译器

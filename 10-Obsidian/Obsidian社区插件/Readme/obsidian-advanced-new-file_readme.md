@@ -1,5 +1,5 @@
 ---
-uid: 20230803211916
+uid: 2023080322134521
 title: Obsidian 插件：【Readme】Advanced New File
 tags: ['笔记文件处理', '效率', 'obsidian插件', 'readme']
 description: 可以通过快捷键或者命令面板，建立新的笔记文件，并在建立过程中就指定好笔记位置。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-advanced-new-file]] 插件的自述翻译
-
 
 
 ## Obsidian高级新建文件

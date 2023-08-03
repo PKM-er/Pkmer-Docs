@@ -1,5 +1,5 @@
 ---
-uid: 20230803212803
+uid: 2023080322223664
 title: Obsidian 插件：【Readme】Mindmap Nextgen
 tags: ['obsidian插件', 'readme']
 description: 一个插件，用于将笔记预览为Markmap思维导图
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-mindmap-nextgen]] 插件的自述翻译
-
 
 
 # Mindmap NextGen

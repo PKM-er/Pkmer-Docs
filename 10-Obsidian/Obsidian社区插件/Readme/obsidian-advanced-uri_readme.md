@@ -1,5 +1,5 @@
 ---
-uid: 20230803211920
+uid: 2023080322135004
 title: Obsidian 插件：【Readme】Advanced URI
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: Obsidian URI的高级模式
@@ -36,7 +36,6 @@ Obsidian URI的高级模式
 ## Readme(翻译）
 
 下面是 [[obsidian-advanced-uri]] 插件的自述翻译
-
 
 
 # Obsidian高级URI

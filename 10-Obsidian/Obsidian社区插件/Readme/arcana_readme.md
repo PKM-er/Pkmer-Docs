@@ -1,5 +1,5 @@
 ---
-uid: 20230803211941
+uid: 2023080322141280
 title: Obsidian 插件：【Readme】Arcana
 tags: ['obsidian插件', 'readme']
 description: 通过AI提供的洞察和建议，让你的笔记记录变得更加强大。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[arcana]] 插件的自述翻译
-
 
 
 [!["请我喝咖啡"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AFV7)

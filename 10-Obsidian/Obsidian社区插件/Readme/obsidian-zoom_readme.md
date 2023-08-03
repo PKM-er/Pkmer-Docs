@@ -1,5 +1,5 @@
 ---
-uid: 20230803213506
+uid: 2023080322295573
 title: Obsidian 插件：【Readme】Zoom
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。【此插件存在bug，可能于其他插件冲突】
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-zoom]] 插件的自述翻译
-
 
 
 # Obsidian Zoom

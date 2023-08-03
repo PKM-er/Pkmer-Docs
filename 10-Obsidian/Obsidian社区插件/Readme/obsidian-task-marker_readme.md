@@ -1,5 +1,5 @@
 ---
-uid: 20230803213314
+uid: 2023080322275214
 title: Obsidian 插件：【Readme】Task Marker
 tags: ['obsidian插件', 'readme']
 description: 使用热键和上下文菜单更改任务状态。完成、取消和标记任务，以及在所选任务状态之间循环。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-task-marker]] 插件的自述翻译
-
 
 
 # 任务标记器

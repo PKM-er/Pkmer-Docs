@@ -1,5 +1,5 @@
 ---
-uid: 20230803212936
+uid: 2023080322240662
 title: Obsidian 插件：【Readme】Open Gate
 tags: ['obsidian插件', 'readme']
 description: 将任何网站嵌入Obsidian，从现在起，您一个地方就拥有所有所需的东西。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[open-gate]] 插件的自述翻译
-
 
 
 ![](./stuff/img.png)

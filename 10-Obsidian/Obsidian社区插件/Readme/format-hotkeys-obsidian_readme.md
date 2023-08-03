@@ -1,5 +1,5 @@
 ---
-uid: 20230803212432
+uid: 2023080322184885
 title: Obsidian 插件：【Readme】Format Hotkeys
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: Obsidian的Google Docs样式格式快捷键
@@ -36,7 +36,6 @@ Obsidian的Google Docs样式格式快捷键
 ## Readme(翻译）
 
 下面是 [[format-hotkeys-obsidian]] 插件的自述翻译
-
 
 
 # Obsidian格式热键

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212400
+uid: 2023080322181303
 title: Obsidian 插件：【Readme】File Explorer Markdown Titles
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 在文件资源管理器中显示笔记的第一个markdown标题
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[file-explorer-markdown-titles]] 插件的自述翻译
-
 
 
 # Obsidian文件浏览器Markdown标题

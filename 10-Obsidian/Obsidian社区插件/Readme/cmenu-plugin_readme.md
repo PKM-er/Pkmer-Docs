@@ -1,5 +1,5 @@
 ---
-uid: 20230803212120
+uid: 2023080322155925
 title: Obsidian 插件：【Readme】cMenu
 tags: ['编辑工具', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加了一个悬浮的精简文本样式编辑工具栏，让你不用记忆各种mardown 命令，也能进行编辑。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[cmenu-plugin]] 插件的自述翻译
-
 
 
 # cMenu插件
@@ -148,13 +147,8 @@ cMenu还有一些样式上的变化，也可以进行自定义。对于使用插
 
 ##### 已更改
 
-
-
 - 接口已重命名以匹配插件信息
-
 - 现在在菜单创建时使用`workspace.getActiveViewOfType(MarkdownView)`而不是`activeLeaf`
-
-
 
 ---
 
@@ -166,19 +160,13 @@ cMenu还有一些样式上的变化，也可以进行自定义。对于使用插
 
 ##### 修复
 
-
-
 - cMenu将附加到`.mod-vertical.mod-root`父级而不是`body`父级。
-
 - cMenu的左定位是通过在菜单创建时动态查找宽度的函数设置的。
-
   ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu-v020.gif)
 
 ### [0.3.0](https://github.com/chetachiezikeuzor/cMenu-Plugin/releases/tag/0.3.0) - 2021年8月2日
 
 ##### 修复
-
-
 
 - 修复了一个小[错误](https://github.com/chetachiezikeuzor/cMenu-Plugin/issues/3#issuecomment-891371471)，导致额外的调整大小手柄被创建。
 
@@ -191,25 +179,16 @@ cMenu还有一些样式上的变化，也可以进行自定义。对于使用插
 
 ##### 添加
 
-
-
 - 添加了新的玻璃效果设置。
-
   ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/glass-cMenu.gif)
-
 - 添加了新的自定义命令设置。
-
   ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/chesser%20cMenu.gif)
-
-
 
 ---
 
 ### [1.0.1](https://github.com/chetachiezikeuzor/cMenu-Plugin/releases/tag/1.0.1) - 2021年8月11日
 
 ##### 添加
-
-
 
 - 在命令图标选择器中添加了更多的图标
 
@@ -221,17 +200,12 @@ cMenu还有一些样式上的变化，也可以进行自定义。对于使用插
 
 ##### 添加
 
-
-
 - 添加了几个更多的图标
-
 - 添加了对用户界面的更新
 
 ### [1.0.3](https://github.com/chetachiezikeuzor/cMenu-Plugin/releases/tag/1.0.3) - 2021年8月13日
 
 ##### 添加
-
-
 
 - 添加了羽毛图标
 
@@ -239,39 +213,23 @@ cMenu还有一些样式上的变化，也可以进行自定义。对于使用插
 
 ##### 添加
 
-
-
 - 添加了新的状态栏菜单，用于额外的cMenu设置：隐藏/显示按钮，底部值更改
-
   ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu%20status%20bar%20menu.gif)
-
 - 添加了修改后的文本编辑命令
-
   - 命令执行后将保持编辑器的焦点
 
 ### [1.1.2](https://github.com/chetachiezikeuzor/cMenu-Plugin/releases/tag/1.1.2) - 2021年9月14日
 
 ##### 添加
 
-
-
 - 添加了[remix icons](https://remixicon.com)用于命令自定义（使其有点慢 :/）
-
 - 添加了重新加载功能（按钮用于执行添加/删除后的执行）
-
 - 添加了自定义列设置
-
 - 添加了在设置中重新排序命令的功能
-
   ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/reorder_commands.gif)
-
 - 添加了隐藏/显示cMenu的命令
-
   ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/hide_show_command.gif)
-
 - 添加了[删除标签](https://github.com/chetachiezikeuzor/cMenu-Plugin/pull/23)功能
-
-
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212654
+uid: 2023080322212614
 title: Obsidian 插件：【Readme】Link Exploder
 tags: ['白板相关', '链接处理', 'obsidian插件', 'readme']
 description: 在画布中，为嵌入的笔记生成关联的链接关系。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[link-exploder]] 插件的自述翻译
-
 
 
 ![横幅](./images/banner.png)

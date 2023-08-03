@@ -1,5 +1,5 @@
 ---
-uid: 20230803212439
+uid: 2023080322185653
 title: Obsidian 插件：【Readme】Fullscreen Focus Mode
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加全屏模式，你可以在这个模式下查看单个文档
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-fullscreen-plugin]] 插件的自述翻译
-
 
 
 ## Obsidian全屏插件

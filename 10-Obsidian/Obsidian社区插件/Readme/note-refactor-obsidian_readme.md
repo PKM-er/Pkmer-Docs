@@ -1,5 +1,5 @@
 ---
-uid: 20230803212830
+uid: 2023080322230278
 title: Obsidian 插件：【Readme】Note Refactor
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 把笔记内容提取到新的笔记中并分割笔记
@@ -38,44 +38,24 @@ modified: 20230101000000
 下面是 [[note-refactor-obsidian]] 插件的自述翻译
 
 
-
 # 注意重构
-
-
 
 ![GitHub工作流状态](https://img.shields.io/github/workflow/status/lynchjames/note-refactor-obsidian/Release%20Build?logo=github&style=for-the-badge) ![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/lynchjames/note-refactor-obsidian?style=for-the-badge&sort=semver)
 
 
-
-
-
 该存储库包含一个用于[Obsidian](https://obsidian.md/)的插件，用于将选定的部分提取到新的笔记中。
-
-
 
 默认的快捷键为：
 
-
-
 | 快捷键                                                                   | 动作                           |
-
 | ------------------------------------------------------------------------ | -------------------------------- |
-
 | <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>                    | **提取选定内容到新笔记 - 第一行作为文件名：** 将选定内容复制到新笔记中，第一行作为文件名，并替换为链接。                 |
-
 | <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>                    | **提取选定内容到新笔记 - 仅内容：** 将选定内容复制到新笔记中，提示输入文件名，并替换为链接。                 |
 
-
-
     
-
 >:warning: 为了避免意外操作，笔记拆分命令的快捷键默认未设置。
 
-
-
 新的笔记文件将在存储库的根目录下创建，文件名为选定文本的第一行，内容为选定文本的其余部分。
-
-
 
 文件名中的标题字符（`#`）和其他非法字符，包括`:`、`\`、`/`，将被删除。
 
@@ -106,8 +86,6 @@ modified: 20230101000000
 ## 命令
 
 ### 分割笔记
-
-
 
 将当前行的当前笔记分割成一个新的笔记或追加到现有笔记中。
 
@@ -177,20 +155,13 @@ modified: 20230101000000
 
 ### 默认情况下进行转录
 
-
-
 此配置设置意味着通过任何提取或笔记拆分命令创建的新笔记的所有插入的内部链接将被添加为转录/笔记嵌入`![[new note]]`，而不是链接`[[new note]]`。
 
 ### 第一行作为注释标题
 
-
-
 此配置设置允许将所选文本的第一行作为新注释内容的标题，标题格式可配置为`#`、`##`、`###`等。
 
-
-
 此设置适用于“仅首行文件名”或“仅内容”命令。
-
 ![注释标题演示](https://raw.githubusercontent.com/lynchjames/note-refactor-obsidian/master/images/Note-Refactor-Demo-Include-First-Line-as-Note-Heading.gif)
 
 ### 笔记链接模板

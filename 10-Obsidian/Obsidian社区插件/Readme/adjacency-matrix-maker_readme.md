@@ -1,5 +1,5 @@
 ---
-uid: 20230803211911
+uid: 2023080322134040
 title: Obsidian 插件：【Readme】Adjacency Matrix Maker
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 创建你的金库的互动邻接矩阵
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[adjacency-matrix-maker]] 插件的自述翻译
 
 
-
 # 邻接矩阵生成器
 
 邻接矩阵是一种表示 Obsidian 图的不同方式。
@@ -51,12 +50,7 @@ modified: 20230101000000
 
 这个图传达了与这个邻接矩阵相同的信息：
 
-
-
 ![](https://i.imgur.com/VZuvAhq.png)
-
-
-
 
 
 ![](https://i.imgur.com/glL4mGc.png)
@@ -128,13 +122,9 @@ modified: 20230101000000
 
 #### `图像缩放比例 = 1`
 
-
-
 ![](https://i.imgur.com/0fu419R.png)
 
 #### `图像缩放 = 100`
-
-
 
 ![](https://i.imgur.com/1gRD7hV.png)
 

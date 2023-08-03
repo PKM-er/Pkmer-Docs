@@ -1,5 +1,5 @@
 ---
-uid: 20230803212945
+uid: 2023080322241440
 title: Obsidian 插件：【Readme】Optimize Canvas Connections
 tags: ['obsidian插件', 'readme']
 description: 一个插件，通过使用最近的边重新连接笔记来简化画布。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[optimize-canvas-connections]] 插件的自述翻译
-
 
 
 # 优化画布连接

@@ -1,5 +1,5 @@
 ---
-uid: 20230803212759
+uid: 2023080322223258
 title: Obsidian 插件：【Readme】Metronome
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加互动节拍器。
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[obsidian-metronome-plugin]] 插件的自述翻译
 
 
-
 # 黑曜石节拍器 🎵
 
 使用此插件在您的笔记中添加交互式节拍器。可以仅使用可视化节拍器，也可以打开点击或蜂鸣声。自定义节奏、拍子、乐器、大小等。与 [obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) 搭配使用，让您的乐谱和节拍器在单个笔记中和谐共存！
@@ -74,29 +73,16 @@ size: medium
 
 # 我的基本节拍器
 
-
-
 ```metronome
-
 bpm: 120
-
 ```
-
 ````
-
-
 
 这将在你的笔记中生成一个可视化的节拍器。默认情况下，它是静音的，但你可以按下取消静音按钮来听到它的点击声（或者更改`muted`选项，使其默认点击声&mdash;有关更多选项，请参见下文）。
 
-
-
 ![Kiku](images/demo-2.gif)
 
-
-
 你可以进一步自定义节拍器：
-
-
 
 ````markdown
 
@@ -132,8 +118,6 @@ tockNotes: A4
 ## 示例
 
 在节拍器上设置`autoStart: no`
-
-
 
 如果一个节拍器的`autoStart: no`，当你打开笔记时它不会开始闪烁。你也可以使用Obsidian的实时预览功能来直接编辑节拍器。
 
@@ -232,23 +216,13 @@ tockNotes: E4
 
 ### `pulse` 样式（默认）
 
-
-
 ````markdown
-
 ```metronome
-
 bpm: 125
-
 size: large
-
 style: pulse
-
 ```
-
 ````
-
-
 
 ![](images/demo-6.gif)
 

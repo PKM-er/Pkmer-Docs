@@ -1,5 +1,5 @@
 ---
-uid: 20230803212659
+uid: 2023080322213132
 title: Obsidian 插件：【Readme】Link Server
 tags: ['obsidian插件', 'readme']
 description: 该插件将在端口3333上打开一个反向代理服务器以获取Obsidian API的wikiLink信息。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[link-info-server]] 插件的自述翻译
-
 
 
 # 链接服务器插件

@@ -1,5 +1,5 @@
 ---
-uid: 20230803213101
+uid: 2023080322252475
 title: Obsidian 插件：【Readme】Quickly
 tags: ['obsidian插件', 'readme']
 description: 通过操作系统的快捷键快速导航和创建笔记。
@@ -36,7 +36,6 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[quickly]] 插件的自述翻译
-
 
 
 任何功能请求/改进建议请在此处打开：[https://github.com/tmfelwu/obsidian-inbox/issues](https://github.com/tmfelwu/obsidian-inbox/issues)。

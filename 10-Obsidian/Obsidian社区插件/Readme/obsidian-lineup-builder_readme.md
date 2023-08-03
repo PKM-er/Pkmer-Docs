@@ -1,5 +1,5 @@
 ---
-uid: 20230803212651
+uid: 2023080322212328
 title: Obsidian 插件：【Readme】Lineup Builder
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中构建足球阵容。
@@ -38,7 +38,6 @@ modified: 20230101000000
 下面是 [[obsidian-lineup-builder]] 插件的自述翻译
 
 
-
 # Obsidian阵容构建插件
 
 
@@ -73,18 +72,11 @@ modified: 20230101000000
 ### 示例
 
 ````
-
 ```lineup
-
 阵型：4231
-
 球员：Kepa，Chilwell，Silva，Rudi，Azpi，Kante，Kovacic，CHO，Mount，Havertz，Lukaku
-
 ```
-
 ````
-
-
 
 ![示例](media/example_screenshot.png)
 
