@@ -1,0 +1,104 @@
+---
+uid: 20230803204725
+title: Obsidian 插件：【Readme】Shortcut Launcher
+tags: ['obsidian插件', 'readme']
+description: 在Obsidian中使用自定义命令触发Apple Shortcuts应用中的快捷键。
+author: MacStories
+type: readme
+draft: false
+editable: false
+modified: 20230101000000
+---
+
+# Obsidian 插件：Shortcut Launcher
+
+> [!Note] 插件名片
+> - 插件名称：Shortcut Launcher
+> - 插件作者：MacStories
+> - 插件说明：在Obsidian中使用自定义命令触发Apple Shortcuts应用中的快捷键。
+> - 插件分类：['obsidian插件', 'readme']
+> - 项目地址：[点我访问](https://github.com/macstories/obsidian-shortcut-launcher)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-shortcut-launcher)
+
+## 概述
+
+在Obsidian中使用自定义命令触发Apple Shortcuts应用中的快捷键。
+
+
+
+> [!tip] 原文出处
+> 
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/macstories/obsidian-shortcut-launcher/main/README.md)
+> 
+
+---
+
+## Readme(翻译）
+
+下面是 [[obsidian-shortcut-launcher]] 插件的自述翻译
+
+
+# Obsidian快捷方式启动器
+
+![](https://cdn.macstories.net/osl-1643193603979.png)
+
+从Obsidian作为自定义命令触发Apple的快捷方式应用程序中的快捷方式。
+
+Obsidian快捷方式启动器（简称为'OSL'）允许您触发快捷方式并将Obsidian中的值作为输入传递。在iOS和iPadOS上，使用Apple官方的快捷方式URL方案从Obsidian触发快捷方式；在macOS上，OSL可以在后台运行快捷方式-而无需打开快捷方式应用程序。
+
+![](https://cdn.macstories.net/cleanshot-2022-01-21-at-5-39-50-2x-1642783463880.png)
+
+该插件**需要iOS 15、iPadOS 15或macOS Monterey**。
+
+安装 Obsidian 快捷启动器
+
+您可以在 **Obsidian 的社区插件** 部分找到该插件。只需搜索“Obsidian 快捷启动器”，安装它，然后启用插件即可在 Obsidian 中使用它。
+
+为快捷方式创建启动器
+
+![在Obsidian中为快捷方式创建启动器。](https://cdn.macstories.net/monday-24-jan-2022-18-21-39-1643044904822.png)
+
+OSL通过为您想要在Shortcuts应用程序中运行的快捷方式创建"启动器"来工作。这些启动器显示为Obsidian中的单独命令。
+
+您可以通过点击"New"按钮在OSL的设置中为快捷方式创建新的启动器。创建新的启动器时，您需要配置三个主要字段：
+
+* **命令名称**：启动器的名称。这将显示为Obsidian中的一个命令。这个名称可以是任何您想要的，不需要与快捷方式的名称匹配。
+* **快捷方式名称**：您想要在Shortcuts应用程序中启动的快捷方式的确切名称。
+* **输入类型**：您想要从Obsidian传递到Shortcuts应用程序的输入。有关更多详细信息，请参见下一节。
+
+从Obsidian传递输入值
+
+Obsidian快捷启动器允许您通过Obsidian发送的输入文本运行快捷方式。您可以从Obsidian传递七种不同的输入类型到快捷方式：
+
+* **选定的文本**：来自Obsidian的当前文本选择。
+* **当前段落**：光标当前所在段落的文本。（在阅读模式下不可用。）
+* **整个文档**：当前文档的全部文本。
+* **文档链接**：当前文档的Obsidian URL。
+* **文档名称**：当前文档的名称，不包括文件扩展名。
+* **文档路径**：Obsidian保险库中当前文档的相对路径。
+* **选定的链接/嵌入内容**：光标下的[[内部链接]]引用的文件的内容。如果内部链接指向一个笔记，将笔记的全部文本作为输入传递给快捷方式；如果内部链接指向一个附件（例如图像），文件将首先使用base64编码，然后作为base64编码的文本传递给快捷方式。（在阅读模式下不可用。）
+
+以下是一个示例，其中Obsidian命令将当前文档的名称传递给了Shortcuts应用中的一个快捷方式：
+
+![](https://cdn.macstories.net/monday-24-jan-2022-18-23-05-1643044990698.png)
+
+以下是您如何从Obsidian接收附件并在Shortcuts中使用base64解码它们的示例：
+
+![](https://cdn.macstories.net/cleanshot-2022-01-26-at-12-03-47-2x-1643195055516.png)
+
+使用自定义分隔符传递多个值
+
+OSL还提供了一个“多个”选项，可以一次将多个值传递给快捷方式。当您选择此选项时，可以选择多个输入类型，这些类型将一起使用分隔符一次性传递给快捷方式。
+
+默认情况下，分隔符字符是`,`（逗号），但您可以将其更改为任何您想要的字符。要在快捷方式中访问多个输入值，请使用“拆分文本”操作，并为自定义分隔符输入一个值。
+
+在Obsidian中使用输入运行快捷方式
+
+OSL将文本传递给快捷方式，可以在快捷方式应用程序的默认“快捷方式输入”变量中使用。对于以base64编码的文本传递的文件，您需要首先使用快捷方式中的专用“解码Base64”操作解码输入。
+
+由于系统限制，在iOS和iPadOS 15上，OSL需要离开Obsidian并打开快捷方式应用程序来运行快捷方式。这是因为在iOS和iPadOS 15上，只有其他应用程序可以通过URL scheme调用快捷方式。
+
+在macOS Monterey上，OSL可以在后台运行快捷方式-完全不需要打开快捷方式应用程序-这要归功于shell命令。在Mac上使用OSL时，您可以在不离开Obsidian的情况下将快捷方式触发为命令-这是一个完美补充该应用程序的强大体验。
+
+
+

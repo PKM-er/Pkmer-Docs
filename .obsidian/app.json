@@ -15,6 +15,7 @@
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "livePreview": true,
-  "defaultViewMode": "source",
-  "autoPairMarkdown": false
+  "defaultViewMode": "preview",
+  "autoPairMarkdown": false,
+  "focusNewTab": true
 }

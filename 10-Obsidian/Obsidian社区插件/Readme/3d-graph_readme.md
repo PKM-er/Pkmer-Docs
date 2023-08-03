@@ -1,5 +1,5 @@
 ---
-uid: 20230802224925
+uid: 20230803203344
 title: Obsidian 插件：【Readme】3D Graph
 tags: ['关系图谱', '美化', 'obsidian插件', 'readme']
 description: 把 关系图谱 3D化，效果很绚丽
@@ -28,28 +28,34 @@ modified: 20230101000000
 
 > [!tip] 原文出处
 > 
->下面自述文件的来源于 [readme](https://ghproxy.net/https://raw.githubusercontent.com/AlexW00/obsidian-3d-graph/master/README.md)
-> 下面是 [[3d-graph]] 插件的自述翻译
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/AlexW00/obsidian-3d-graph/master/README.md)
+> 
 
+---
 
 ## Readme(翻译）
 
+下面是 [[3d-graph]] 插件的自述翻译
 
-## 黑曜石3D图表
 
-黑曜石的3D图表!
+Obsidian 3D图表
 
-### 展示厅。
+一个用于Obsidian的3D图表！
+
+### 展示：
 
 https://user-images.githubusercontent.com/55558407/190087315-8386feee-b861-4520-bb94-19051c7a46c4.mp4
 
 ### ⬇️ 安装
 
-3D-Graph是一个官方社区插件。你可以通过以下方式下载。 
-- 点击[这里](https://obsidian.md/plugins?id=3d-graph) - 在Obsidian插件标签中搜索 "3D-Graph"。
+3D-Graph是一个官方的社区插件。您可以通过以下方式下载：
+- 点击[这里](https://obsidian.md/plugins?id=3d-graph)
+- 在Obsidian插件选项卡中搜索"3D-Graph"
 
-### 👨💻 开发
+### 👨‍💻 开发
 
-该插件是用TypeScript编写的，并使用D3.js进行图形渲染。 更多信息请查看[dev docs](docs/dev-docs.md)。
+该插件使用TypeScript编写，并使用D3.js进行图形渲染。
+更多信息请查看[开发文档](docs/dev-docs.md)。
+
 
 

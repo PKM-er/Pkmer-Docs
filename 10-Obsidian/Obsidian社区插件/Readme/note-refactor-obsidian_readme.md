@@ -1,0 +1,226 @@
+---
+uid: 20230803204405
+title: Obsidian 插件：【Readme】Note Refactor
+tags: ['文件重构', 'obsidian插件', 'readme']
+description: 把笔记内容提取到新的笔记中并分割笔记
+author: James Lynch
+type: readme
+draft: false
+editable: false
+modified: 20230101000000
+---
+
+# Obsidian 插件：Note Refactor
+
+> [!Note] 插件名片
+> - 插件名称：Note Refactor
+> - 插件作者：James Lynch
+> - 插件说明：把笔记内容提取到新的笔记中并分割笔记
+> - 插件分类：['文件重构', 'obsidian插件', 'readme']
+> - 项目地址：[点我访问](https://github.com/lynchjames/note-refactor-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-refactor-obsidian)
+
+## 概述
+
+把笔记内容提取到新的笔记中并分割笔记
+
+![Note Refactor](https://cdn.pkmer.cn/covers/note-refactor-obsidian_new.gif!pkmer)
+
+> [!tip] 原文出处
+> 
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/note-refactor-obsidian/main/README.md)
+> 
+
+---
+
+## Readme(翻译）
+
+下面是 [[note-refactor-obsidian]] 插件的自述翻译
+
+
+# 注意重构
+
+![GitHub工作流状态](https://img.shields.io/github/workflow/status/lynchjames/note-refactor-obsidian/Release%20Build?logo=github&style=for-the-badge) ![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/lynchjames/note-refactor-obsidian?style=for-the-badge&sort=semver)
+
+
+该存储库包含一个用于[Obsidian](https://obsidian.md/)的插件，用于将选定的部分提取到新的笔记中。
+
+默认的快捷键为：
+
+| 快捷键                                                                   | 动作                           |
+| ------------------------------------------------------------------------ | -------------------------------- |
+| <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>                    | **提取选定内容到新笔记 - 第一行作为文件名：** 将选定内容复制到新笔记中，第一行作为文件名，并替换为链接。                 |
+| <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>                    | **提取选定内容到新笔记 - 仅内容：** 将选定内容复制到新笔记中，提示输入文件名，并替换为链接。                 |
+
+    
+>:warning: 为了避免意外操作，笔记拆分命令的快捷键默认未设置。
+
+新的笔记文件将在存储库的根目录下创建，文件名为选定文本的第一行，内容为选定文本的其余部分。
+
+文件名中的标题字符（`#`）和其他非法字符，包括`:`、`\`、`/`，将被删除。
+
+## 用法
+
+此表格显示了此插件的不同用例以及在每种情况下如何使用命令和设置。
+
+### 提取
+
+| | 用例                                                      | 命令                          | 插件设置                         |
+| --- | --- | --- | --- |
+| 1 | 1. 将选择内容完全提取到一个新的笔记中。<br />2. 新笔记的文件名由用户提供。 | 提取选择到新笔记 - 仅内容 | **包括标题**<br />False |
+| 2 | 1. 将选择内容完全提取到一个新的笔记中。<br />2. 新笔记的文件名由选择的第一行设置。 | 提取选择到新笔记 - 第一行作为文件名 | **排除第一行**<br />False <br/><br />**包括标题**<br />False |
+| 3 | 1. 将选择内容提取到一个新的笔记中。<br />2. 新笔记的文件名由选择的第一行设置。<br />3. 新笔记中包括第一行作为标题。 | 提取选择到新笔记 - 第一行作为文件名 | **排除第一行**<br />False <br/><br />**包括标题**<br />True |
+| 4 | 1. 将选择内容提取到一个新的笔记中。<br />2. 新笔记的文件名由选择的第一行设置。<br />3. 新笔记中不包括第一行。 | 提取选择到新笔记 - 第一行作为文件名 | **排除第一行**<br />True <br/><br /> |
+| 5 | 1. 将选择内容完全提取到一个新的笔记中。<br />2. 新笔记的文件名由**文件名前缀**设置生成。 | 提取选择到新笔记 - 仅前缀作为文件名 | |
+
+### 分割
+
+| | 用例                                                      | 命令                          | 插件设置                         |
+| --- | --- | --- | --- |
+| 1 | 1. 将光标所在行的内容拆分为新的笔记，保持原样。<br />2. 新笔记的文件名由用户提供。 | 仅拆分笔记内容 | **包括标题**<br/>False |
+| 2 | 1. 将光标所在行的内容拆分为新的笔记。<br />2. 新笔记的文件名由用户提供。<br />3. 将第一行作为新笔记的标题。 | 仅拆分笔记内容 | **包括标题**<br/>True |
+| 3 | 1. 将光标所在行的内容拆分为新的笔记，保持原样。<br />2. 新笔记的文件名从所选内容的第一行设置。 | 以光标位置拆分笔记 - 第一行作为文件名 | **包括标题**<br />False |
+| 4 | 1. 将光标所在行的内容拆分为新的笔记。<br />2. 新笔记的文件名从所选内容的第一行设置。<br />3. 将第一行作为新笔记的标题。 | 以光标位置拆分笔记 - 第一行作为文件名 | **排除第一行**<br />False <br/><br />**包括标题**<br />True |
+| 5 | 1. 将带有标题的内容拆分为每个标题下的新笔记。<br />2. 每个新笔记的文件名从标题中设置。 | 以标题拆分笔记 - H1<br/><br/> 以标题拆分笔记 - H2 <br/><br/> 以标题拆分笔记 - H3 |  |
+
+## 命令
+
+### 分割笔记
+
+将当前行的当前笔记分割成一个新的笔记或追加到现有笔记中。
+
+#### 在此处拆分 - 将当前行作为笔记文件名
+
+此命令将当前笔记从当前行拆分为一个新的笔记，并将当前行作为新笔记的文件名。
+
+#### 在此处拆分注释 - 仅内容
+
+此命令将当前注释拆分为一个新注释，或者将其附加到现有注释中，从当前行开始。用户将被提示输入新注释的文件名。
+
+#### 按标题拆分笔记 - H1、H2、H3
+
+该命令将当前笔记按所选级别的每个标题（H1、H2或H3）拆分为一个新的笔记，并使用标题作为每个新笔记的文件名。
+
+![按标题拆分演示](https://raw.githubusercontent.com/lynchjames/note-refactor-obsidian/master/images/Note-Refactor-Demo-Split-by-Headings.gif)
+
+### 提取选择
+
+将当前选择提取到一个新的笔记中或追加到现有笔记中。
+
+将选择内容提取到新笔记或附加到现有笔记 - 使用第一行作为文件名
+
+此命令将选定的文本复制到新笔记的内容中，使用第一行作为新笔记的文件名，或附加到现有笔记中。
+
+将选择内容提取到新笔记或追加到现有笔记 - 仅内容
+
+此命令仅将所选文本复制到新笔记的内容中，或追加到现有笔记中。用户将被提示输入新笔记的文件名。
+
+#### 将所选内容提取到新的笔记中 - 仅作为文件名前缀
+
+此命令仅将所选文本复制到新笔记的内容中，或追加到现有笔记中。文件名根据**文件名前缀**设置的值自动生成。新笔记将在后台创建，不会在新窗格中显示。
+
+## 配置
+
+![插件设置](https://raw.githubusercontent.com/lynchjames/note-refactor-obsidian/master/images/plugin-settings.png)
+
+### 新笔记的默认保存位置
+
+新笔记的保存位置可以作为插件配置设置，与Obsidian核心的“新笔记的默认保存位置”设置保持一致。
+
+有3个选项可供选择：
+
+1. Vault文件夹
+2. 与当前文件相同的文件夹
+3. 指定的文件夹
+
+指定的文件夹选项允许您指定一个包含多个日期时间格式的文件夹路径。
+
+**示例**
+
+设置为`Zettels/{{date:YYYY}}/{{date:MMMM}}`的文件夹路径将在以下文件夹结构中添加一个新文件：
+
+- [Vault]
+  - Zettels
+    - 2020
+      - October
+
+### 文件名前缀
+文件名前缀选项允许您为新笔记指定一个前缀，该前缀可以包含多个日期时间格式。
+
+**示例**
+
+设置为`{{date:YYYYMMDDHHmm}}-`的前缀将添加一个具有以下文件名的新文件：
+
+`202010311425-我的新笔记`
+
+### 默认情况下进行转录
+
+此配置设置意味着通过任何提取或笔记拆分命令创建的新笔记的所有插入的内部链接将被添加为转录/笔记嵌入`![[new note]]`，而不是链接`[[new note]]`。
+
+### 第一行作为注释标题
+
+此配置设置允许将所选文本的第一行作为新注释内容的标题，标题格式可配置为`#`、`##`、`###`等。
+
+此设置适用于“仅首行文件名”或“仅内容”命令。
+![注释标题演示](https://raw.githubusercontent.com/lynchjames/note-refactor-obsidian/master/images/Note-Refactor-Demo-Include-First-Line-as-Note-Heading.gif)
+
+### 笔记链接模板
+
+此设置用于设置生成链接到提取的笔记的内容的模板。这将覆盖默认的默认转录设置。
+
+当插件命令被执行时，将支持以下占位符，并将其替换为动态值：
+
+- `{{date}}` 当前日期，还支持日期和时间格式，如 `YYYYMMDD` 和 `HH:mm`。
+- `{{title}}` 原始笔记的标题。
+- `{{new_note_title}}` 新笔记的标题。
+- `{{new_note_content}}` 用于新笔记的重构内容。
+
+### 重构笔记模板
+
+此设置用于设置生成重构笔记内容的模板。
+
+当插件命令被执行时，以下占位符将被支持并替换为动态值：
+
+- `{{date}}` 当前日期，也支持日期和时间格式，如 `YYYYMMDD` 和 `HH:mm`。
+- `{{title}}` 原始笔记的标题。
+- `{{new_note_title}}` 新笔记的标题。
+- `{{new_note_content}}` 重构后的新笔记内容。
+
+## 兼容性
+
+自定义插件仅适用于 Obsidian v0.9.7+。
+
+此存储库的当前 API 目标为 Obsidian **v0.9.10**。
+
+安装
+
+从Obsidian的0.9.7版本开始，可以直接在应用程序内安装此插件。该插件可以在“设置”窗格下的第三方插件中找到，该窗格可以从“设置”窗格下的“社区插件”目录中访问。
+
+## 手动安装
+
+1. 下载[最新版本](https://github.com/lynchjames/note-refactor-obsidian/releases/latest)
+1. 从压缩包中提取note-refactor-obsidian文件夹到你的vault的插件文件夹：`<vault>/.obsidian/plugins/`  
+注意：在某些机器上，`.obsidian`文件夹可能是隐藏的。在MacOS上，你可以按下`Command+Shift+Dot`来在Finder中显示该文件夹。
+1. 重新加载Obsidian
+1. 如果提示安全模式，你可以禁用安全模式并启用插件。
+
+会检查是否覆盖现有文件，但是...
+
+    💥 请先在测试vault中尝试，并确保备份！ 💥
+
+## 鸣谢
+
+感谢[MrJackphil](https://github.com/mrjackphil)，本插件基于他创建的[代码片段](https://forum.obsidian.md/t/code-snippet-extract-note/6698)。
+
+## 对于开发者
+
+欢迎并感谢您的Pull requests。😀
+
+如果您想为该插件的开发做出贡献，请按照[CONTRIBUTING.md](CONTRIBUTING.md)中提供的指南进行操作。
+
+捐赠
+
+此插件免费提供。如果您想向我捐赠一些东西，可以通过[PayPal](https://paypal.me/lynchjames2020)进行捐赠。谢谢！
+
+
+
