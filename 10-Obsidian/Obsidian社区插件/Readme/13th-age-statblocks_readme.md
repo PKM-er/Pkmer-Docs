@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[13th-age-statblocks]] 插件的自述翻译
 
 
+
 # 13th Age属性块
 
 该插件用于渲染13th Age插件，并包含基于SRD内容的怪物基础。

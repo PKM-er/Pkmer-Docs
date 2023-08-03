@@ -3,7 +3,7 @@ uid: 20230803203525
 title: Obsidian 插件：【Readme】Badges
 tags: ['obsidian插件', 'readme']
 description: 在笔记中添加内联徽章/标注。
-author: @gapmiss
+author: gapmiss
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[badges]] 插件的自述翻译
+
 
 
 徽章
