@@ -7,7 +7,7 @@ author: PKMer
 type: basic
 draft: false
 editable: false
-modified: 20230802001658
+modified: 20230803101228
 ---
 
 # Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
@@ -25,7 +25,7 @@ modified: 20230802001658
 > - 插件版本：0.0.1
 > - 插件作者：PKMer(windily-cloud&cumany)
 > - 插件描述：这是一款 Obsidian 插件，旨在帮助国内用户轻松自由的访问优秀的 Obsidian 插件、主题
-> - 插件项目地址：
+> - 插件项目地址：[点我跳转](https://pkmer.cn/products/market/)
 
 > [!Tip] 提示
 > - 插件
