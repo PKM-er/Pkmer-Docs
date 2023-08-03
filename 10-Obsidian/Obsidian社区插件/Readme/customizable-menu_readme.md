@@ -1,9 +1,9 @@
 ---
-uid: 20230803203730
+uid: 20230803212222
 title: Obsidian 插件：【Readme】Customizable Menu
 tags: ['快捷键', '效率', 'obsidian插件', 'readme']
 description: 允许您将任何命令，包括 OB 自己的和插件提供的，添加到 Obsidian 的右键菜单中。
-author: kzhovn
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[customizable-menu]] 插件的自述翻译
+
 
 
 # Obsidian可定制的右键菜单

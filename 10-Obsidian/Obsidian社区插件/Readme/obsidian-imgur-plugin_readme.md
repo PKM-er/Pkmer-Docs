@@ -1,9 +1,9 @@
 ---
-uid: 20230803204146
+uid: 20230803212602
 title: Obsidian 插件：【Readme】Imgur Plugin
 tags: ['第三方工具集成', '图片', '链接处理', 'obsidian插件', 'readme']
 description: 此插件将剪贴板中的图像上传到 imgur.com 并将上传的图像嵌入到您的笔记中
-author: Kirill Gavrilov
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-imgur-plugin]] 插件的自述翻译
+
 
 
 # Obsidian Imgur 插件

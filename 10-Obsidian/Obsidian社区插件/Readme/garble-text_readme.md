@@ -1,9 +1,9 @@
 ---
-uid: 20230803204037
+uid: 20230803212445
 title: Obsidian 插件：【Readme】Garble Text
 tags: ['安全', 'obsidian插件', 'readme']
 description: 在Obsidian中混淆文本会将整个应用程序（笔记，侧边栏等）中的所有内容转换为行，以便您可以在不暴露敏感数据的情况下拍摄屏幕截图。
-author: kurakart
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[garble-text]] 插件的自述翻译
+
 
 
 **此插件不再维护。对造成的任何不便表示抱歉。**

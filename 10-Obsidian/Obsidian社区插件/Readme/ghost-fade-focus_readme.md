@@ -1,9 +1,9 @@
 ---
-uid: 20230803204043
+uid: 20230803212451
 title: Obsidian 插件：【Readme】Ghost Fade Focus
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 专注于当前行，其他的像鬼魂一样消失了！
-author: Sami Korpela
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ghost-fade-focus]] 插件的自述翻译
+
 
 
 # 幽灵淡出焦点

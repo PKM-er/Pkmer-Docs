@@ -1,9 +1,9 @@
 ---
-uid: 20230803203558
+uid: 20230803212043
 title: Obsidian 插件：【Readme】Buttondown
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记发送到您的buttondown.email帐户作为电子邮件草稿。
-author: caro401
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-buttondown-plugin]] 插件的自述翻译
+
 
 
 # Obsidian Buttondown 插件

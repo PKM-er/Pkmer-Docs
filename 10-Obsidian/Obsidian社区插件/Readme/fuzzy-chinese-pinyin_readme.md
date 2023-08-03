@@ -1,9 +1,9 @@
 ---
-uid: 20230803204034
+uid: 20230803212441
 title: Obsidian 插件：【Readme】Fuzzy Chinese Pinyin
 tags: ['obsidian插件', 'readme']
 description: 提供使用中文拼音进行模糊搜索的功能。
-author: lazyloong
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[fuzzy-chinese-pinyin]] 插件的自述翻译
+
 
 
 # 模糊中文拼音

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204427
+uid: 20230803212852
 title: Obsidian 插件：【Readme】Obsidian Graphviz
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 渲染Graphviz图表
-author: Feng Peng
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-graphviz]] 插件的自述翻译
+
 
 
 # Obsidian Graphviz

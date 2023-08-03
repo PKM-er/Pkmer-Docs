@@ -1,9 +1,9 @@
 ---
-uid: 20230803205031
+uid: 20230803213450
 title: Obsidian 插件：【Readme】Wordle for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 创建一个可以玩 Wordle 的视图。
-author: dbarenholz
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-wordle]] 插件的自述翻译
+
 
 
 # Obsidian的Wordle插件

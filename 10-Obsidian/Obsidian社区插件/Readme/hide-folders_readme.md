@@ -1,9 +1,9 @@
 ---
-uid: 20230803204113
+uid: 20230803212524
 title: Obsidian 插件：【Readme】Hide Folders
 tags: ['obsidian插件', 'readme']
 description: 根据配置的名称，快速切换文件导航器中特定文件夹的可见性。对于隐藏附件文件夹非常有用。
-author: JonasDoesThings
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[hide-folders]] 插件的自述翻译
+
 
 
 # obsidian-hide-folders

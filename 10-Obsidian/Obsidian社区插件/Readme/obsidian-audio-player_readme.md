@@ -1,9 +1,9 @@
 ---
-uid: 20230803203455
+uid: 20230803211948
 title: Obsidian 插件：【Readme】Audio Player
 tags: ['obsidian插件', 'readme']
 description: player音频播放器具有后台播放、书签和波形可视化功能，而不是默认的HTML5音频播放器。
-author: noonesimg
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ player音频播放器具有后台播放、书签和波形可视化功能，而�
 ## Readme(翻译）
 
 下面是 [[obsidian-audio-player]] 插件的自述翻译
+
 
 
 # Obsidian音频播放器

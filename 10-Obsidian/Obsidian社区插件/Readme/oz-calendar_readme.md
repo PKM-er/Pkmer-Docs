@@ -1,9 +1,9 @@
 ---
-uid: 20230803204516
+uid: 20230803212952
 title: Obsidian 插件：【Readme】OZ Calendar
 tags: ['obsidian插件', 'readme']
 description: 使用任何带有日期的YAML键在日历中查看您的笔记。
-author: Ozan Tellioglu
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[oz-calendar]] 插件的自述翻译
+
 
 
 # OZ日历插件

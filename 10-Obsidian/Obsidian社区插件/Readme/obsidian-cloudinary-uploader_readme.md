@@ -1,9 +1,9 @@
 ---
-uid: 20230803204422
+uid: 20230803212847
 title: Obsidian 插件：【Readme】Obsidian Cloudinary Uploader
 tags: ['obsidian插件', 'readme']
 description: 将从剪贴板复制的图像上传到Cloudinary
-author: Jordan Handy
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-cloudinary-uploader]] 插件的自述翻译
+
 
 
 # Obsidian Cloudinary Uploader

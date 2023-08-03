@@ -1,9 +1,9 @@
 ---
-uid: 20230803203603
+uid: 20230803212048
 title: Obsidian 插件：【Readme】Callout Manager
 tags: ['obsidian插件', 'readme']
 description: 轻松创建和自定义标注。
-author: eth-p
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[callout-manager]] 插件的自述翻译
+
 
 
 # Callout 管理器

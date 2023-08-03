@@ -1,9 +1,9 @@
 ---
-uid: 20230803203720
+uid: 20230803212211
 title: Obsidian 插件：【Readme】Cryptsidian
 tags: ['obsidian插件', 'readme']
 description: 使用密码加密你Obsidian Vault中的所有文件。
-author: triumphantomato
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[cryptsidian]] 插件的自述翻译
 
 
+
 ## Cryptsidian：Obsidian.md的加密
 
 使用密码加密Obsidian.md Vault中的所有文件。
@@ -53,22 +54,39 @@ modified: 20230101000000
 
 ## 👋🏾 新项目：OpenRelay  
 
+
+
 *想要更多的隐私？请查看我的[新项目：OpenRelay](https://openrelay.typedream.app/)，这是一个由社区构建的、以隐私为首要考虑的VPN，可以明确证明没有日志！[技术文档在这里](https://github.com/triumphantomato/openrelay)。*
+
+
 
 ---
 
 ### Cryptsidian安装和使用
+
 您可以通过Obsidian中的Community Plugins选项卡搜索"Cryptsidian"来安装插件。
+
+
 
 手动安装：将main.js和manifest.json（从Releases中）复制到此位置的vault中：`VaultFolder/.obsidian/plugins/cryptsidian/`。
 
+
+
 Git克隆：将此存储库`git clone`到`VaultFolder/.obsidian/plugins/cryptsidian`中，并运行`npm install`和`npm run dev`。
+
+
 
 **使用方法：**打开命令面板（在Mac上为cmd + P），然后输入"cryptsidian"以打开加密和解密模态框。要加密，请选择加密模态框并输入密码。要解密，请选择解密模态框并输入相同的密码。
 
+
+
 如果您在加密和解密时使用不同的密码，您的文件将变得损坏。
 
+
+
 在Obsidian应用关闭后，文件仍然保持加密（或解密）状态。
+
+
 
 ---
 

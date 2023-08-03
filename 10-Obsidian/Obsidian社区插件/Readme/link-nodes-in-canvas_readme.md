@@ -1,9 +1,9 @@
 ---
-uid: 20230803204236
+uid: 20230803212658
 title: Obsidian 插件：【Readme】Link Nodes in Canvas
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: 一个插件，可以根据它们之间的链接，在Canvas上为您添加边缘。
-author: Boninall
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[link-nodes-in-canvas]] 插件的自述翻译
+
 
 
 - 在画布中使用命令生成节点之间的边缘（选定的节点）。

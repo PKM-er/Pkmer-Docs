@@ -1,9 +1,9 @@
 ---
-uid: 20230803203705
+uid: 20230803212154
 title: Obsidian 插件：【Readme】CookLang Editor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中编辑和显示CookLang食谱
-author: death_au
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[cooklang-obsidian]] 插件的自述翻译
+
 
 
 # CookLang 编辑器 Obsidian 插件

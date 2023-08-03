@@ -1,9 +1,9 @@
 ---
-uid: 20230803203510
+uid: 20230803212001
 title: Obsidian 插件：【Readme】Auto Template Trigger
 tags: ['obsidian插件', 'readme']
 description: 创建笔记时自动提示模板。
-author: Numeroflip
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[auto-template-trigger]] 插件的自述翻译
+
 
 
 # 自动模板触发器

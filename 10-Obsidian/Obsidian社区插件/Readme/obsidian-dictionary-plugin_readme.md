@@ -1,9 +1,9 @@
 ---
-uid: 20230803203756
+uid: 20230803212252
 title: Obsidian 插件：【Readme】Dictionary
 tags: ['编辑工具', '翻译', '学习', 'obsidian插件', 'readme']
 description: Obsidian 笔记增加多语言词典。包括英式英语，美式英语，印度语、西班牙语，法语，日语，俄罗斯，德语，意大利，韩语，巴西，阿拉伯，土耳其，中文
-author: phibr0
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian 笔记增加多语言词典。包括英式英语，美式英语，印�
 ## Readme(翻译）
 
 下面是 [[obsidian-dictionary-plugin]] 插件的自述翻译
+
 
 
 <img align="right" style="width: 27vw" src="https://media.discordapp.net/attachments/796853434397360128/847198380878069771/Screen_Shot_2021-05-26_at_12.43.43_PM.png?width=736&height=676">

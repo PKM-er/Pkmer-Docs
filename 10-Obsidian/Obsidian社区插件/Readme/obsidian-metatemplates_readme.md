@@ -1,9 +1,9 @@
 ---
-uid: 20230803204334
+uid: 20230803212758
 title: Obsidian 插件：【Readme】metatemplates
 tags: ['模板', 'obsidian插件', 'readme']
 description: 使用YAML前置语法从模板生成笔记
-author: avirut
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-metatemplates]] 插件的自述翻译
+
 
 
 利用YAML前置元数据从模板生成笔记

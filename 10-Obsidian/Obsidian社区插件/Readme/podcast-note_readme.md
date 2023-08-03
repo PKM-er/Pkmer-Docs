@@ -1,9 +1,9 @@
 ---
-uid: 20230803204549
+uid: 20230803213033
 title: Obsidian 插件：【Readme】Podcast Note
 tags: ['音频和视频', '模板', 'obsidian插件', 'readme']
 description: Podcast Note可以自动将播客信息添加到您的笔记中。
-author: Marc Julian Schwarz
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Podcast Note可以自动将播客信息添加到您的笔记中。
 ## Readme(翻译）
 
 下面是 [[podcast-note]] 插件的自述翻译
+
 
 
 <p align="center">

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204856
+uid: 20230803213327
 title: Obsidian 插件：【Readme】Text Progress Bar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示低保真文本进度条。
-author: Michael Adams
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[text-progress-bar]] 插件的自述翻译
+
 
 
 # Obsidian的文本进度条

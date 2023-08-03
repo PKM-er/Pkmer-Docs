@@ -1,9 +1,9 @@
 ---
-uid: 20230803204214
+uid: 20230803212634
 title: Obsidian 插件：【Readme】Kindle CSV Converter
 tags: ['obsidian插件', 'readme']
 description: 将您的Kindle笔记以.csv格式导入到Obsidian中。
-author: Alvaro Cas
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[kindle-csv-converter]] 插件的自述翻译
+
 
 
 # Kindle CSV Converter Obsidian

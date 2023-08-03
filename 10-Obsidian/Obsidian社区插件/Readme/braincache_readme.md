@@ -1,9 +1,9 @@
 ---
-uid: 20230803203552
+uid: 20230803212038
 title: Obsidian 插件：【Readme】braincache
 tags: ['obsidian插件', 'readme']
 description: 从Obsidian创建Braincache闪存卡
-author: XSPGMike
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[braincache]] 插件的自述翻译
+
 
 
 ## braincache-obsidian插件

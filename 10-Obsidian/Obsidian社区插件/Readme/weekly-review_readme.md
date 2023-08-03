@@ -1,9 +1,9 @@
 ---
-uid: 20230803205020
+uid: 20230803213439
 title: Obsidian 插件：【Readme】Weekly Review
 tags: ['obsidian插件', 'readme']
 description: 打开过去一周创建的所有文件来查看。
-author: Brandon Boswell
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[weekly-review]] 插件的自述翻译
+
 
 
 # 每周回顾

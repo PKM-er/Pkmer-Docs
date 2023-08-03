@@ -1,9 +1,9 @@
 ---
-uid: 20230803204625
+uid: 20230803213113
 title: Obsidian 插件：【Readme】Read Later
 tags: ['obsidian插件', 'readme']
 description: 将网页同步到Markdown，并与阅读稍后应用（Pocket，Instapaper）集成。
-author: Gabriele Cannata
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-readlater]] 插件的自述翻译
+
 
 
 # Obsidian稍后阅读

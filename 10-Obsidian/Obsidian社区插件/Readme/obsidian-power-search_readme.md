@@ -1,9 +1,9 @@
 ---
-uid: 20230803204552
+uid: 20230803213036
 title: Obsidian 插件：【Readme】Power Search
 tags: ['obsidian插件', 'readme']
 description: 根据当前行搜索笔记
-author: Aviral Batra
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-power-search]] 插件的自述翻译
 
 
+
 # Obsidian 强大搜索
 
 Obsidian 搜索是一个插件，允许你在输入时搜索你的笔记（目前可以搜索 Obsidian 笔记和 Anki 笔记）。这有一些好处：
@@ -60,25 +61,47 @@ Obsidian 搜索是一个插件，允许你在输入时搜索你的笔记（目�
 ### Anki
 
 
+
+
+
 1. 如果您尚未安装ankiconnect，请在Anki中安装它
+
 2. 转到工具 -> 插件 -> AnkiConnect -> 配置，并将```app://obsidian.md```添加到```webCorsOriginList```中，如果您以前没有更改过配置，则应该是这样的
 
+
+
 ```JSON
+
 {
+
     "apiKey": null,
+
     "apiLogPath": null,
+
     "webBindAddress": "127.0.0.1",
+
     "webBindPort": 8765,
+
     "webCorsOrigin": "http://localhost",
+
     "webCorsOriginList": [
+
         "http://localhost",
+
         "app://obsidian.md"
+
     ]
+
 }
+
 ```
 
+
+
 3. 重新启动Anki以应用更改
+
 4. 在Anki后台运行的情况下运行插件
+
 5. 在设置中激活Anki索引
 
 激活索引
@@ -102,6 +125,8 @@ Obsidian Power Search是一个自动插件-您不需要以任何方式激活搜�
 待办事项
 
 ## API
+
+
 
 待办事项
 

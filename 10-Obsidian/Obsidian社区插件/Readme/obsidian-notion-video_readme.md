@@ -1,9 +1,9 @@
 ---
-uid: 20230803204408
+uid: 20230803212833
 title: Obsidian 插件：【Readme】Notion Video Embed
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中嵌入您的Notion视频
-author: lastknightcoder
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-notion-video]] 插件的自述翻译
+
 
 
 ## 简介

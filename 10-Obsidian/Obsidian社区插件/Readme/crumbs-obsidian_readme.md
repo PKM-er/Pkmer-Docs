@@ -1,9 +1,9 @@
 ---
-uid: 20230803203718
+uid: 20230803212209
 title: Obsidian 插件：【Readme】Crumbs
 tags: ['obsidian插件', 'readme']
 description: 面包屑导航
-author: Tony Grosinger
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[crumbs-obsidian]] 插件的自述翻译
+
 
 
 # 面包屑

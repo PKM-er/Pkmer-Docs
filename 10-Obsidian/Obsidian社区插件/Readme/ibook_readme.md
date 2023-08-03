@@ -1,9 +1,9 @@
 ---
-uid: 20230803204131
+uid: 20230803212545
 title: Obsidian 插件：【Readme】ibook
 tags: ['obsidian插件', 'readme']
 description: 适用于Apple ibook的插件。
-author: bingryan
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ibook]] 插件的自述翻译
+
 
 
 # Obsidian ibook 插件

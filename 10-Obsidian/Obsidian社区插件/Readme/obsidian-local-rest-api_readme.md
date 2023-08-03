@@ -1,9 +1,9 @@
 ---
-uid: 20230803204252
+uid: 20230803212713
 title: Obsidian 插件：【Readme】Local REST API
 tags: ['obsidian插件', 'readme']
 description: 通过安全的REST API与您的笔记进行交互，解锁您的自动化需求。
-author: Adam Coddington
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-local-rest-api]] 插件的自述翻译
+
 
 
 # Obsidian的本地REST API

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203604
+uid: 20230803212049
 title: Obsidian 插件：【Readme】Canvas Conversation
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: Obsidian的一个插件，允许您使用ChatGPT创建画布对话。
-author: André Baltazar
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian的一个插件，允许您使用ChatGPT创建画布对话。
 ## Readme(翻译）
 
 下面是 [[obsidian-canvas-conversation]] 插件的自述翻译
+
 
 
 # Obsidian画布对话

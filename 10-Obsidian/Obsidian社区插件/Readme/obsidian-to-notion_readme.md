@@ -1,9 +1,9 @@
 ---
-uid: 20230803204442
+uid: 20230803212908
 title: Obsidian 插件：【Readme】Obsidian shared to Notion
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的插件。该插件通过Notion API将Obsidian MD文件共享到Notion。
-author: Easychris
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-to-notion]] 插件的自述翻译
+
 
 
 # Obsidian to Notion

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204054
+uid: 20230803212503
 title: Obsidian 插件：【Readme】Google Photos
 tags: ['obsidian插件', 'readme']
 description: Obsidian与Google照片的集成
-author: Alan Grainger
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian与Google照片的集成
 ## Readme(翻译）
 
 下面是 [[google-photos]] 插件的自述翻译
+
 
 
 # Obsidian的Google相册

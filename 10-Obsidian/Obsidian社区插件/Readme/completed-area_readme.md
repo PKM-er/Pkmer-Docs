@@ -1,9 +1,9 @@
 ---
-uid: 20230803203654
+uid: 20230803212143
 title: Obsidian 插件：【Readme】Completed Area
 tags: ['编辑工具', '任务管理', 'obsidian插件', 'readme']
 description: 这个插件可以切换待办条目的状态，与此同时把已完成的条目移动到一个独立的区域。
-author: Daha
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[completed-area]] 插件的自述翻译
+
 
 
 # 完成区域

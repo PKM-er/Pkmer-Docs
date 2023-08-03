@@ -1,9 +1,9 @@
 ---
-uid: 20230803203615
+uid: 20230803212100
 title: Obsidian 插件：【Readme】Character Insertion
 tags: ['obsidian插件', 'readme']
 description: 在光标下插入指定符号的插件。
-author: TakamiChie
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[character-insertion]] 插件的自述翻译
+
 
 
 # 字符插入插件

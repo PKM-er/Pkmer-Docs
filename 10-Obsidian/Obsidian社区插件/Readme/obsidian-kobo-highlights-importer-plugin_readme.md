@@ -1,9 +1,9 @@
 ---
-uid: 20230803204217
+uid: 20230803212636
 title: Obsidian 插件：【Readme】Kobo Highlights Importer
 tags: ['obsidian插件', 'readme']
 description: 从Kobo设备导入亮点
-author: Kevin Hellemun & Flavio Cordari
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-kobo-highlights-importer-plugin]] 插件的自述翻译
 
 
+
 # Obsidian Kobo 高亮导入插件
 
 该插件旨在使从 Kobo 设备导入高亮更加简单。
@@ -68,7 +69,10 @@ modified: 20230101000000
 
 # {{标题}}
 
+
+
 {{亮点}}
+
 ```
 
 ### 示例
@@ -83,7 +87,10 @@ bookTitle: {{title}}
 
 # {{标题}}
 
+
+
 {{亮点}}
+
 ```
 
 ### 变量

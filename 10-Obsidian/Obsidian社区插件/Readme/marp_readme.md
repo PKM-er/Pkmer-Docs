@@ -1,9 +1,9 @@
 ---
-uid: 20230803204313
+uid: 20230803212735
 title: Obsidian 插件：【Readme】Marp
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian上使用Marp的插件。
-author: JichouP
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[marp]] 插件的自述翻译
+
 
 
 # Obsidian Marp 插件

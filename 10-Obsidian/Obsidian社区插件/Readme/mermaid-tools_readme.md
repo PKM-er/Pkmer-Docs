@@ -1,9 +1,9 @@
 ---
-uid: 20230803204328
+uid: 20230803212751
 title: Obsidian 插件：【Readme】Mermaid Tools
 tags: ['obsidian插件', 'readme']
 description: 改进 Obsidian 的 Mermaid.js 体验：带有常见元素的可视化工具栏和更多功能
-author: dartungar
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[mermaid-tools]] 插件的自述翻译
+
 
 
 # Obsidian的美人鱼工具.md

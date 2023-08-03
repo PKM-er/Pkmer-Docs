@@ -1,9 +1,9 @@
 ---
-uid: 20230803203636
+uid: 20230803212122
 title: Obsidian 插件：【Readme】Code Block Enhancer
 tags: ['编辑工具', '编程', '美化', 'obsidian插件', 'readme']
 description: 增强 Obsidian 代码域的体验，提供复制按钮、行号、语言名称提示，代码块的上下文菜单。。
-author: hafuhafu
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-code-block-enhancer]] 插件的自述翻译
 
 
+
 # Obsidian代码块增强插件
 
 这是一个为Obsidian（https://obsidian.md）开发的插件。
@@ -57,9 +58,11 @@ modified: 20230101000000
 ![Gif](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/GIF.gif?raw=true)
 
 ### 默认暗色主题
+
 ![Obsidian_Default_Dark_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Default_Dark_Theme.png?raw=true)
 
 ### 默认的浅色主题
+
 ![Obsidian_Default_Light_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Default_Light_Theme.png?raw=true)
 
 ### Gruvbox主题

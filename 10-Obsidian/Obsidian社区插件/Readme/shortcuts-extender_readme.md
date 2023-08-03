@@ -1,9 +1,9 @@
 ---
-uid: 20230803204726
+uid: 20230803213217
 title: Obsidian 插件：【Readme】Shortcuts extender
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 使用快捷键输入特殊符号而无需切换语言
-author: kitchenrunner
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[shortcuts-extender]] 插件的自述翻译
+
 
 
 # Obsidian快捷键扩展

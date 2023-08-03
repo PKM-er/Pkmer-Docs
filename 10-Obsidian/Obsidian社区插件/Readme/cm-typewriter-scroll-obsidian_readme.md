@@ -1,9 +1,9 @@
 ---
-uid: 20230803204948
+uid: 20230803213403
 title: Obsidian 插件：【Readme】Typewriter Scroll
 tags: ['编辑工具', '界面相关', 'obsidian插件', 'readme']
 description: 为笔记编写，增加打字机滚动风格，在输入过程中，输入内容会始终保持编辑器居中的位置。
-author: death_au
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[cm-typewriter-scroll-obsidian]] 插件的自述翻译
+
 
 
 # 打字机滚动 Obsidian 插件

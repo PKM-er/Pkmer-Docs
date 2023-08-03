@@ -1,9 +1,9 @@
 ---
-uid: 20230803204151
+uid: 20230803212608
 title: Obsidian 插件：【Readme】Incremental Writing
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 逐步审阅笔记和块随着时间的推移。
-author: Jamesb | Experimental Learning
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-incremental-writing]] 插件的自述翻译
+
 
 
 # Obsidian的增量写作插件

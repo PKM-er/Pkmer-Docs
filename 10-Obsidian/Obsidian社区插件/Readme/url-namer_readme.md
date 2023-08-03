@@ -1,9 +1,9 @@
 ---
-uid: 20230803204958
+uid: 20230803213415
 title: Obsidian 插件：【Readme】URL Namer
 tags: ['obsidian插件', 'readme']
 description: 检索 HTML 原标题来命名原始URL链接。
-author: zfei
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[url-namer]] 插件的自述翻译
+
 
 
 # Obsidian URL Namer

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204517
+uid: 20230803212953
 title: Obsidian 插件：【Readme】Ozan's Image in Editor Plugin
 tags: ['界面相关', '图片', 'PDF', 'obsidian插件', 'readme']
 description: 为笔记编辑器中添加图片查看器，查看图像、引用、iFrame和PDF文件，无需切换到预览模式。
-author: Ozan Tellioglu
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[oz-image-plugin]] 插件的自述翻译
+
 
 
 # Ozan在编辑器插件中的图像
@@ -88,17 +89,31 @@ modified: 20230101000000
 
 ## 📕 渲染转引
 
+
+
 插件现在可以在编辑器中渲染转引。您可以使用`文件`转引、`块 ID`和`标题`：
 
+
+
 -   `![[myFile]]`
+
 -   `![[myFile#^316sd1]]`
+
 -   `![[myFile#Header2]]`
+
+
 
 要使用此功能，您需要在插件设置中启用渲染。
 
+
+
 示例视图：
 
+
+
 <img src="https://raw.githubusercontent.com/ozntel/oz-image-in-editor-obsidian/master/images/transclusion-header.png" width="70%"/>
+
+
 
 <img src="https://raw.githubusercontent.com/ozntel/oz-image-in-editor-obsidian/master/images/transclusion-block.png" width="70%"/>
 

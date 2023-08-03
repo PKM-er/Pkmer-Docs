@@ -1,9 +1,9 @@
 ---
-uid: 20230803203625
+uid: 20230803212109
 title: Obsidian 插件：【Readme】Chess Study
 tags: ['obsidian插件', 'readme']
 description: 一个国际象棋学习助手和PGN查看器/编辑器。
-author: Christoph Lindstädt
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[chess-study]] 插件的自述翻译
+
 
 
 <!-- 在目录中省略 -->

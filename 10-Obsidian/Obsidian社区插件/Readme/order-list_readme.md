@@ -1,9 +1,9 @@
 ---
-uid: 20230803204512
+uid: 20230803212946
 title: Obsidian 插件：【Readme】Order List
 tags: ['obsidian插件', 'readme']
 description: 添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
-author: Henry Gustafson
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[order-list]] 插件的自述翻译
+
 
 
 # 订单列表

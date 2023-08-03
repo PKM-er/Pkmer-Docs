@@ -1,9 +1,9 @@
 ---
-uid: 20230803204445
+uid: 20230803212913
 title: Obsidian 插件：【Readme】Obsidian Things3 Sync
 tags: ['obsidian插件', 'readme']
 description: 一个用于同步Obsidian和Things3的插件，支持多语言，标签和日期。
-author: royx
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-things3-sync]] 插件的自述翻译
+
 
 
 # Obsidian Things3 同步

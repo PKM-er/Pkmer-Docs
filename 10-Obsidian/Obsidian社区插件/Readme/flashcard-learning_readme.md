@@ -1,9 +1,9 @@
 ---
-uid: 20230803204002
+uid: 20230803212414
 title: Obsidian 插件：【Readme】Flashcard Learning
 tags: ['obsidian插件', 'readme']
 description: 改进的闪卡学习系统。
-author: Gaétan Muck
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[flashcard-learning]] 插件的自述翻译
+
 
 
 # 闪卡学习

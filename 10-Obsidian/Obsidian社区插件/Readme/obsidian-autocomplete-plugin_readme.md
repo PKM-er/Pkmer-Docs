@@ -1,9 +1,9 @@
 ---
-uid: 20230803203511
+uid: 20230803212002
 title: Obsidian 插件：【Readme】Autocomplete
 tags: ['编辑工具', '自动化', 'obsidian插件', 'readme']
 description: 提供文本自动完成功能，以提高输入速度。此插件已经长期不维护了。
-author: Yeboster
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-autocomplete-plugin]] 插件的自述翻译
+
 
 
 # Obsidian自动完成插件

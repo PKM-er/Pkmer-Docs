@@ -1,9 +1,9 @@
 ---
-uid: 20230803204953
+uid: 20230803213408
 title: Obsidian 插件：【Readme】Unfilled Stats Highlighter
 tags: ['obsidian插件', 'readme']
 description: 通过自动识别和添加未填写的统计数据，简化您的统计/习惯追踪过程，使其更容易被发现和填写。
-author: Zachary Hynes
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[unfilled-stats-highlighter]] 插件的自述翻译
+
 
 
 未填充的统计信息高亮插件

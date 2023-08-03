@@ -1,9 +1,9 @@
 ---
-uid: 20230803204119
+uid: 20230803212531
 title: Obsidian 插件：【Readme】Home tab
 tags: ['obsidian插件', 'readme']
 description: 一个类似浏览器的搜索标签，用于搜索您的本地文件。
-author: Renso
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[home-tab]] 插件的自述翻译
+
 
 
 Obsidian Home tab是一个[Obsidian](https://obsidian.md/)插件，它添加了一个类似浏览器的默认主页新标签，包含一个搜索栏和一个星标文件的网格。

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203731
+uid: 20230803212223
 title: Obsidian 插件：【Readme】CustomJS
 tags: ['自动化', '编程', '效率', 'obsidian插件', 'readme']
 description: 允许用户编写自定义Javascript，你可以在任何地方调用，包括dataviewjs块和templater模板。
-author: Sam Lewis
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[customjs]] 插件的自述翻译
+
 
 
 # CustomJS
@@ -78,26 +79,48 @@ CustomJS是Obsidian的一个插件，允许用户编写自定义的Javascript代
 CustomJS通过编写JavaScript类来工作。每个文件只能包含一个类。
 
 ````
+
 // 在scripts/coolString.js中的vault中
+
 class CoolString {
+
     coolify(s) {
+
         return `😎 ${s} 😎`
+
     }
+
 }
 
 
+
+
+
 // *.md中的dataviewjs块
+
 ```dataviewjs
+
 const {CoolString} = customJS
+
 dv.list(dv.pages().file.name.map(n => CoolString.coolify(n)))
+
 ```
 
+
+
 // templater模板
+
 <%*
+
 const {CoolString} = customJS;
+
 tR += CoolString.coolify(tp.file.title);
+
 %>
+
 ````
+
+
 
 确保将`scripts/coolString.js`添加到CustomJS的设置页面，完成！当进入dataviewjs块的预览模式时，您应该看到所有文件的列表，带有额外的😎 - 插入templater模板将输出类似的结果，只显示当前文件名。
 
@@ -105,15 +128,25 @@ tR += CoolString.coolify(tp.file.title);
 您可以将任何内容作为参数传递给函数，以实现一些令人难以置信的代码重用。以下是我用来管理任务的dataview示例：
 
 #### 每日笔记
+
 ````
-```dataviewjs
-const {DvTasks} = customJS
-DvTasks.getOverdueTasks({app, dv, luxon, that:this, date:'2021-08-25'})
-```
 
 ```dataviewjs
+
 const {DvTasks} = customJS
+
+DvTasks.getOverdueTasks({app, dv, luxon, that:this, date:'2021-08-25'})
+
+```
+
+
+
+```dataviewjs
+
+const {DvTasks} = customJS
+
 DvTasks.getTasksNoDueDate({app, dv, luxon, that:this})
+
 ```
 
 ### 今天的任务
@@ -125,103 +158,201 @@ DvTasks.getTodayTasks({app, dv, luxon, that:this, date:'2021-08-25'})
 ### 每日日记
 
 ```
+
 class DvTasks {
+
   relDateString(d, luxon) {
+
     if (!(d instanceof luxon.DateTime)) return '–'
+
     const now = luxon.DateTime.now()
+
     const days = Math.ceil(d.diff(now, 'days').days)
+
     if (days < 0) return '逾期 ' + d.toFormat('L/d')
+
     if (days === 0) return '今天'
+
     if (days === 1) return '明天'
+
     if (days < 7) return d.toFormat('cccc')
+
     return d.toFormat('ccc L/d')
+
   }
+
+
 
   getButtonStrings(status) {
+
     const completed = status === 'Completed'
+
     const btnStr = completed ? '撤销' : '完成'
+
     const updateStr = completed ? '待办' : '已完成'
+
     return { btnStr, updateStr }
+
   }
+
+
 
   getCustomLink(name, target) {
+
     return `[[${target}|${name}]]`
+
   }
+
+
 
   getTodayTasks(args) {
+
     const { luxon, dv, date, that } = args
+
     const finalDate = date ?? dv.current().file.name
+
     return this.getTasksTable({
+
       ...args,
+
       filterFn: t => t.status != 'Completed' && t.dueDate && t.dueDate?.hasSame(luxon.DateTime.fromISO(finalDate), 'day')
+
     })
+
   }
+
+
 
   getOverdueTasks(args) {
+
     const { luxon, dv, date, that } = args
+
     const finalDate = date ?? dv.current().file.name
+
     return this.getTasksTable({
+
       ...args,
+
       prependText: '逾期',
+
       filterFn: t => t.dueDate && t.dueDate < luxon.DateTime.fromISO(finalDate) && t.status != 'Completed'
+
     })
+
   }
+
+
 
   getTasksNoDueDate(args) {
+
     return this.getTasksTable({
+
       ...args,
+
       prependText: '无截止日期',
+
       filterFn: t => !t.dueDate
+
     })
+
   }
 
+
+
   getTasksTable(args) {
+
     const {
+
       that,
+
       app,
+
       dv,
+
       luxon,
+
       getSortProp = t => t.dueDate,
+
       sortOrder = 'asc',
+
       filterFn = t => t.task,
+
       completedCol = false,
+
       prependHeaderLevel = 3,
+
       prependText
+
     } = args;
+
     const { metaedit, buttons } = app.plugins.plugins
+
     const { update } = metaedit.api
+
     const { createButton } = buttons
 
 
+
+
+
     const dueStr = completedCol ? '已完成' : '截止日期';
+
     const pages = dv.pages("#task").sort(getSortProp, sortOrder).where(filterFn)
+
     if (pages.length === 0) {
+
       // console.log('Empty dataview:', args)
+
       return
+
     }
+
+
 
     if (prependText) {
+
       dv.header(prependHeaderLevel, prependText)
+
     }
 
+
+
     dv.table(["名称", "类别", dueStr, "", ""], pages
+
       .map(t => {
+
         const { btnStr, updateStr } = this.getButtonStrings(t.status)
+
         return [
+
           this.getCustomLink(t.task, t.file.name),
+
           t.category,
+
           this.relDateString(t.dueDate, luxon),
+
           createButton({
+
             app,
+
             el: that.container,
+
             args: { name: btnStr },
+
             clickOverride: { click: update, params: ['状态', updateStr, t.file.path] }
+
           }),
+
         ]
+
       })
+
     )
+
   }
+
 }
+
 ```
 
 #### 结果

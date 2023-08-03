@@ -1,9 +1,9 @@
 ---
-uid: 20230803204535
+uid: 20230803213015
 title: Obsidian 插件：【Readme】Persistent Graph
 tags: ['obsidian插件', 'readme']
 description: 保存和恢复图上节点的位置。
-author: Sanqui
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[persistent-graph]] 插件的自述翻译
+
 
 
 ## Obsidian持久图插件

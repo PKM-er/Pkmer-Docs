@@ -1,9 +1,9 @@
 ---
-uid: 20230803204953
+uid: 20230803213409
 title: Obsidian 插件：【Readme】Unicode Search
 tags: ['obsidian插件', 'readme']
 description: 搜索并插入Unicode字符到您的编辑器中
-author: BambusControl
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[unicode-search]] 插件的自述翻译
+
 
 
 # Obsidian Unicode 搜索

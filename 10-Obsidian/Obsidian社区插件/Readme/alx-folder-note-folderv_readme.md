@@ -1,9 +1,9 @@
 ---
-uid: 20230803203426
+uid: 20230803211927
 title: Obsidian 插件：【Readme】AidenLx's Folder Note - folderv Component
 tags: ['obsidian插件', 'readme']
 description: 可选的`folderv`组件用于alx-folder-note
-author: AidenLx
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[alx-folder-note-folderv]] 插件的自述翻译
+
 
 
 # AidenLx的文件夹笔记 - `folderv` 组件

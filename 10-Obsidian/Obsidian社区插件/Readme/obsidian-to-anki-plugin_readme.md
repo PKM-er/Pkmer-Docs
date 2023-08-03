@@ -1,9 +1,9 @@
 ---
-uid: 20230803204450
+uid: 20230803212919
 title: Obsidian 插件：【Readme】Obsidian_to_Anki
 tags: ['第三方工具集成', '学习', 'obsidian插件', 'readme']
 description: 这是一个 Anki 集成插件！专为高效批量导出而设计。
-author: Pseudonium
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-to-anki-plugin]] 插件的自述翻译
+
 
 
 # Obsidian_to_Anki

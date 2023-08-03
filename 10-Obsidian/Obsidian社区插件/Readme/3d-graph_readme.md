@@ -1,9 +1,9 @@
 ---
-uid: 20230803203344
+uid: 20230803211859
 title: Obsidian 插件：【Readme】3D Graph
 tags: ['关系图谱', '美化', 'obsidian插件', 'readme']
 description: 把 关系图谱 3D化，效果很绚丽
-author: Alexander Weichart
+author: AI
 type: readme
 draft: false
 editable: false

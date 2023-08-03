@@ -1,9 +1,9 @@
 ---
-uid: 20230803203508
+uid: 20230803212000
 title: Obsidian 插件：【Readme】Auto pair chinese symbol
 tags: ['编辑工具', '中文处理', 'obsidian插件', 'readme']
 description: 支持 《》 【】（）‘’ “” 「」 符号输入时自动补齐
-author: renmu123
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-auto-pair-chinese-symbol]] 插件的自述翻译
+
 
 
 # 特性

@@ -1,9 +1,9 @@
 ---
-uid: 20230803205028
+uid: 20230803213447
 title: Obsidian 插件：【Readme】Word Splitting for Japanese in Edit Mode
 tags: ['obsidian插件', 'readme']
 description: Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
-author: sonarAIT
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,12 +38,19 @@ Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
 下面是 [[japanese-word-splitter]] 插件的自述翻译
 
 
+
 # 在编辑模式下为日语进行单词分割
+
+
 
 这是一个为Obsidian内置的CodeMirror编辑器添加支持日语单词分割的补丁。
 
+
+
 该插件基于[@linonetwo](https://github.com/linonetwo)的[chs word splitting module](https://github.com/linonetwo/segmentit)进行修改，以适应日语版本。
+
 对于日语单词分割，我们使用了[Taku Kudo](https://github.com/taku910)创建的[tiny-segmenter](http://chasen.org/~taku/software/TinySegmenter/)。
+
 特别感谢[@linonetwo](https://github.com/linonetwo)和[Taku Kudo](https://github.com/taku910)！
 
 ## 演示

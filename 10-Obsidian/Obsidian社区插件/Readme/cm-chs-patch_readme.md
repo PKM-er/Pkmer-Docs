@@ -1,9 +1,9 @@
 ---
-uid: 20230803205029
+uid: 20230803213448
 title: Obsidian 插件：【Readme】Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
 tags: ['obsidian插件', 'readme']
 description: 加强文本编辑器中文分词功能
-author: AidenLx
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[cm-chs-patch]] 插件的自述翻译
+
 
 
 # 在编辑模式和Vim模式下的简体中文分词

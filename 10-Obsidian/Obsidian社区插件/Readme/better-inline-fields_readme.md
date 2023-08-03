@@ -1,9 +1,9 @@
 ---
-uid: 20230803203535
+uid: 20230803212023
 title: Obsidian 插件：【Readme】Better Inline Fields
 tags: ['搜索/排序', '界面相关', '笔记文件处理', '统计', 'obsidian插件', 'readme']
 description: 增强Dataview样式内联字段
-author: David Sarman
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[better-inline-fields]] 插件的自述翻译
+
 
 
 # 更好的内联字段

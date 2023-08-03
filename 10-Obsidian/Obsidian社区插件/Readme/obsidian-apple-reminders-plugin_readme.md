@@ -1,9 +1,9 @@
 ---
-uid: 20230803203444
+uid: 20230803211938
 title: Obsidian 插件：【Readme】Apple Reminders
 tags: ['第三方工具集成', '移动端', 'obsidian插件', 'readme']
 description: 一个插件，试图将苹果提醒带入Obsidian。
-author: Rishi Raval
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-apple-reminders-plugin]] 插件的自述翻译
+
 
 
 # Apple提醒事项

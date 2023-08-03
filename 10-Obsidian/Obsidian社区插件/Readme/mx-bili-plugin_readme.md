@@ -1,9 +1,9 @@
 ---
-uid: 20230803204323
+uid: 20230803212746
 title: Obsidian 插件：【Readme】Media Extended BiliBili Plugin
 tags: ['音频和视频', '效率', '第三方工具集成', 'obsidian插件', 'readme']
 description: 为 Media Extended 插件增加高级bilibili视频支持。笔记嵌入视频片段，笔记嵌入时间戳，支持高清分辨率/倍速/循环/自动播放
-author: AidenLx
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[mx-bili-plugin]] 插件的自述翻译
+
 
 
 # 媒体扩展 BiliBili 插件

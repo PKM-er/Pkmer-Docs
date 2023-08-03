@@ -1,9 +1,9 @@
 ---
-uid: 20230803204423
+uid: 20230803212848
 title: Obsidian 插件：【Readme】Obsidian Columns
 tags: ['编辑器', '美化', '界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 笔记添加多栏结构，你可以通过这种多栏结构，来优化 OB 笔记的排版。
-author: Trevor Nichols
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-columns]] 插件的自述翻译
+
 
 
 # 石英柱
@@ -115,25 +116,45 @@ flexGrow=2
 所有的块都有一个高度设置，可以将代码块的高度限制为任何 CSS 高度值（例如：100px）
 
 ### col
+
 col代码块可以具有`shortest`的高度，这将限制所有列的高度为其子元素中最短的高度。
 
+
+
 例如：
+
 `````md
+
 ````col
+
 height=shortest
+
 ===
-```col-md
-line 1
-line 2
-line 3
-line 4
-```
 
 ```col-md
+
 line 1
+
 line 2
+
+line 3
+
+line 4
+
 ```
+
+
+
+```col-md
+
+line 1
+
+line 2
+
+```
+
 ````
+
 `````
 
 #### 行
@@ -234,6 +255,7 @@ console.log(msg)
 从技术上讲，它只是设置了flex-basis属性。
 
 ### 默认跨度
+
 如果未明确指定，默认跨度设置为列的默认跨度值。目前，每个列的代码块都设置为此值，并且无法更改。
 
 ## 即将推出的功能

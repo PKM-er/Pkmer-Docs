@@ -1,9 +1,9 @@
 ---
-uid: 20230803203724
+uid: 20230803212216
 title: Obsidian 插件：【Readme】Custom Attachment Location
 tags: ['附件', '文件管理', '文件', 'obsidian插件', 'readme']
 description: 使用变量（$filename，$data等）自定义附件位置，就像Typora一样。
-author: RainCat1998
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-custom-attachment-location]] 插件的自述翻译
+
 
 
 # Obsidian自定义附件位置

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204042
+uid: 20230803212450
 title: Obsidian 插件：【Readme】Get Stock Information
 tags: ['obsidian插件', 'readme']
 description: 接受一个股票代码，并返回一个带有最新股票信息的调用块。
-author: Mike Jongbloet
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[get-stock-information]] 插件的自述翻译
+
 
 
 # 获取股票信息

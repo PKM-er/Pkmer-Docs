@@ -1,9 +1,9 @@
 ---
-uid: 20230803204602
+uid: 20230803213050
 title: Obsidian 插件：【Readme】Publish to Steemit
 tags: ['obsidian插件', 'readme']
 description: 一个用于将Obsidian文档发布到Steemit的插件。
-author: anpigon
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-steemit]] 插件的自述翻译
+
 
 
 # Obsidian Steemit 插件

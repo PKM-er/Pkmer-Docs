@@ -1,9 +1,9 @@
 ---
-uid: 20230803203412
+uid: 20230803211918
 title: Obsidian 插件：【Readme】Advanced Random Note
 tags: ['obsidian插件', 'readme']
 description: 从自定义查询创建命令以打开随机笔记。
-author: Karsten Finderup Pedersen
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[advanced-random-note]] 插件的自述翻译
+
 
 
 高级随机笔记 Obsidian 插件

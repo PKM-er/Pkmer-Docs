@@ -1,9 +1,9 @@
 ---
-uid: 20230803204515
+uid: 20230803212950
 title: Obsidian 插件：【Readme】Outliner
 tags: ['编辑工具', '编辑器', 'obsidian插件', 'readme']
 description: 为 Obsidian 的大纲添加快捷操作，像在Workflowy或RoamResearch中一样，使用快捷键调整大纲的顺序和层级变化，移动大纲上的项目。
-author: Viacheslav Slinko
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-outliner]] 插件的自述翻译
+
 
 
 # Obsidian大纲

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203928
+uid: 20230803212344
 title: Obsidian 插件：【Readme】Export Image plugin
 tags: ['图片', '转换工具', 'obsidian插件', 'readme']
 description: 将你的 Obsidian 笔记导出成图片。每次只能对一个笔记进行导出操作，且需要你切换到阅读模式。
-author: Zhou Hua
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-export-image]] 插件的自述翻译
+
 
 
 # Obsidian导出图片插件

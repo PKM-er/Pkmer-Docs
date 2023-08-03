@@ -1,9 +1,9 @@
 ---
-uid: 20230803204912
+uid: 20230803213338
 title: Obsidian 插件：【Readme】Time Ruler
 tags: ['obsidian插件', 'readme']
 description: 一个拖放式的时间标尺，结合了任务列表和日历视图的优点（与任务、完整日历和数据视图集成）。
-author: Joshua Tazman Reinier
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[time-ruler]] 插件的自述翻译
+
 
 
 时间尺结合了嵌套任务列表和基于事件的日历视图的优点。可以拖放任务进行时间块和重新安排，并在只读在线日历上查看任务。与Tasks和FullCalendar插件很好地集成。

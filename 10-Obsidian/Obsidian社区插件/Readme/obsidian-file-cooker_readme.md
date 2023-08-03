@@ -1,9 +1,9 @@
 ---
-uid: 20230803203947
+uid: 20230803212358
 title: Obsidian 插件：【Readme】File Cooker
 tags: ['obsidian插件', 'readme']
 description: 从搜索结果、当前文件、Dataview查询字符串中处理批注。
-author: iuian
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-file-cooker]] 插件的自述翻译
+
 
 
 > Welcome to join our WeChat discussion group: SuppleThinking

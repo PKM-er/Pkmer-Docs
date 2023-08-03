@@ -1,9 +1,9 @@
 ---
-uid: 20230803204631
+uid: 20230803213120
 title: Obsidian 插件：【Readme】Readwise Official
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 官方Readwise与Obsidian集成。
-author: Readwise
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[readwise-official]] 插件的自述翻译
+
 
 
 # Readwise 官方插件 📚

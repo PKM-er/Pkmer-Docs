@@ -1,9 +1,9 @@
 ---
-uid: 20230803204339
+uid: 20230803212801
 title: Obsidian 插件：【Readme】Min3ditorHotkeys
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 受编码编辑器启发的额外编辑器快捷键
-author: Davor Sauer
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-min3ditorhotkeys-plugin]] 插件的自述翻译
+
 
 
 # Obsidian Min3ditorHotkeys 插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204348
+uid: 20230803212812
 title: Obsidian 插件：【Readme】Multi-line Formatting
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 对所选文本应用格式，处理段落换行。
-author: nmady
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[multi-line-formatting]] 插件的自述翻译
 
 
+
 ## Obsidian多行格式化插件
 
 该插件旨在提供对整个选择区域的格式化，即使该选择区域中间有段落分隔符！然而，该插件是新的，并且只进行了有限的测试。我非常感谢您的耐心和错误报告！
@@ -67,6 +68,8 @@ modified: 20230101000000
 再次强调，这是一个经过有限测试的早期版本插件。请通过报告任何意外行为来帮助我改进它。
 
 ### Codeblocks
+
+
 
 然而，该插件**不**设计用于与代码块一起使用。在大多数情况下，代码块部分将被跳过，但是应用于代码块和靠近代码块的任何部分的格式可能不正确，因为跳过依赖于`MetadataCache`，该缓存可能不是最新的。此外，当选择包括嵌入在列表项或块引用中的代码块时，行为可能不如预期（实际上，处理嵌入的代码块尚未实现）。
 

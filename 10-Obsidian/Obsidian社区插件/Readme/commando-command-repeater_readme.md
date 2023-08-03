@@ -1,9 +1,9 @@
 ---
-uid: 20230803203651
+uid: 20230803212139
 title: Obsidian 插件：【Readme】Commando
 tags: ['obsidian插件', 'readme']
 description: 使用定义的或每次调用的值，使命令可以重复调用。
-author: qaptoR
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[commando-command-repeater]] 插件的自述翻译
+
 
 
 # Commando插件

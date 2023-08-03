@@ -1,9 +1,9 @@
 ---
-uid: 20230803204534
+uid: 20230803213014
 title: Obsidian 插件：【Readme】Periodic Notes
 tags: ['日志类', 'obsidian插件', 'readme']
 description: 创建/管理您的日常、每周和每月笔记
-author: Liam Cain
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[periodic-notes]] 插件的自述翻译
+
 
 
 # 周期性笔记

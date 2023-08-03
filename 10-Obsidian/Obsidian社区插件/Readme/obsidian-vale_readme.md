@@ -1,9 +1,9 @@
 ---
-uid: 20230803205000
+uid: 20230803213417
 title: Obsidian 插件：【Readme】Vale
 tags: ['obsidian插件', 'readme']
 description: 使用 Vale 检查文档风格来保证一致性。
-author: Marcus Olsson
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-vale]] 插件的自述翻译
+
 
 
 # Obsidian Vale

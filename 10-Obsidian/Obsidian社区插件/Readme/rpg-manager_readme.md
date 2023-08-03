@@ -1,9 +1,9 @@
 ---
-uid: 20230803204657
+uid: 20230803213145
 title: Obsidian 插件：【Readme】RPG Manager
 tags: ['obsidian插件', 'readme']
 description: 桌面角色扮演游戏活动管理器。
-author: Carlo Nicora
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[rpg-manager]] 插件的自述翻译
+
 
 
 # Obsidian角色扮演游戏管理器

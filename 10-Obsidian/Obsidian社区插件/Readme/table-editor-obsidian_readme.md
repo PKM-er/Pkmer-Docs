@@ -1,9 +1,9 @@
 ---
-uid: 20230803203415
+uid: 20230803211919
 title: Obsidian 插件：【Readme】Advanced Tables
 tags: ['界面相关', '编辑工具', '表格', '效率', 'obsidian插件', 'readme']
 description: 改进 Obsidian 内的表格书写，对齐，格式化的书写体验
-author: Tony Grosinger
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[table-editor-obsidian]] 插件的自述翻译
+
 
 
 # Obsidian的高级表格

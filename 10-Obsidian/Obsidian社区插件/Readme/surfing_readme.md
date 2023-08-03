@@ -1,9 +1,9 @@
 ---
-uid: 20230803204815
+uid: 20230803213258
 title: Obsidian 插件：【Readme】Surfing
 tags: ['obsidian插件', 'readme']
 description: 在黑曜石上网络冲浪
-author: Boninall
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[surfing]] 插件的自述翻译
+
 
 
 ## 冲浪

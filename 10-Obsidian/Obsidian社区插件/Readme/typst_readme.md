@@ -1,9 +1,9 @@
 ---
-uid: 20230803204950
+uid: 20230803213405
 title: Obsidian 插件：【Readme】Typst Renderer
 tags: ['obsidian插件', 'readme']
 description: 使用Typst将`typst`代码块和数学块渲染为图像。
-author: fenjalien
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[typst]] 插件的自述翻译
+
 
 
 # Typst 渲染器

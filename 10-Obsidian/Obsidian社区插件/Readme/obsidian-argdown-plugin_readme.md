@@ -1,9 +1,9 @@
 ---
-uid: 20230803203450
+uid: 20230803211943
 title: Obsidian 插件：【Readme】Argument Map with Argdown
 tags: ['思维导图', 'obsidian插件', 'readme']
 description: 允许您编写argdown代码块并在预览中查看地图
-author: amdecker
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,11 +38,15 @@ modified: 20230101000000
 下面是 [[obsidian-argdown-plugin]] 插件的自述翻译
 
 
+
 # 使用Obsidian中的Argdown进行论证图的制作
 
 ## 版本2.0的变化
+
 * 版本2.0带有Argdown处理器。无需安装任何额外的程序！
+
 * 要开始使用，请只需从Obsidian社区插件列表中安装插件并开始绘制思维导图。就这样。
+
 * 在设置页面上，您可以将默认视图更改为源格式或思维导图。
 
 ## 特点
@@ -55,25 +59,45 @@ modified: 20230101000000
 ![演示](https://raw.githubusercontent.com/amdecker/obsidian-argdown-plugin/master/demo.gif)
 
 ## 如何使用
+
 请访问https://argdown.org以获取有关用法和语法的更多信息。
 
+
+
 在您的笔记中添加一个Argdown代码块，然后开始输入。预览将自动更新。
+
 ````markdown
+
 ```argdown 
+
 [Statement]: this is a statement
+
     + pro one
+
     + pro 2
+
     - con 1
+
 ```
+
 ````
+
 或者
+
 ````markdown
+
 ```argdown-map
+
 [Statement]: this is a statement
+
     + pro one
+
     + pro 2
+
     - con 1
+
 ```
+
 ````
 
 ## 暗黑模式

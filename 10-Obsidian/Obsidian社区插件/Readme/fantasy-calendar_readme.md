@@ -1,9 +1,9 @@
 ---
-uid: 20230803203939
+uid: 20230803212351
 title: Obsidian 插件：【Readme】Fantasy Calendar
 tags: ['日期相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 中使用 Fantsy Calendar。
-author: Jeremy Valentine
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[fantasy-calendar]] 插件的自述翻译
+
 
 
 # 幻想日历

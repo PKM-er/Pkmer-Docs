@@ -1,9 +1,9 @@
 ---
-uid: 20230803203653
+uid: 20230803212142
 title: Obsidian 插件：【Readme】Companion
 tags: ['obsidian插件', 'readme']
 description: 通过类似合作伙伴的界面，使用人工智能进行自动补全，包括ChatGPT。
-author: rizerphe
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[companion]] 插件的自述翻译
+
 
 
 # Obsidian Companion

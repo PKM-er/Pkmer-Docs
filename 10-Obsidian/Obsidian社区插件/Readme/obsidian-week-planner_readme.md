@@ -1,9 +1,9 @@
 ---
-uid: 20230803205019
+uid: 20230803213438
 title: Obsidian 插件：【Readme】Week Planner
 tags: ['obsidian插件', 'readme']
 description: 创建周计划文件。
-author: Ralf Wirdemann
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-week-planner]] 插件的自述翻译
+
 
 
 # Obsidian周计划插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204728
+uid: 20230803213219
 title: Obsidian 插件：【Readme】Show Diff
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian文件中呈现Git差异
-author: Ivan Lednev
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[show-diff]] 插件的自述翻译
+
 
 
 🐞 [创建问题、功能请求、分享你的想法](https://github.com/ivan-lednev/obsidian-automatic-changelog/issues)

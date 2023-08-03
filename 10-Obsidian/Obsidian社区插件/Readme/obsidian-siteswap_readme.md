@@ -1,9 +1,9 @@
 ---
-uid: 20230803204738
+uid: 20230803213230
 title: Obsidian 插件：【Readme】Siteswap
 tags: ['obsidian插件', 'readme']
 description: 通过JugglingLab gif服务器可视化杂耍模式Siteswap。
-author: Tim Dresser
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,35 +38,66 @@ modified: 20230101000000
 下面是 [[obsidian-siteswap]] 插件的自述翻译
 
 
+
 ## Obsidian Siteswap
+
+
 
 该插件通过Juggling Lab GIF服务器呈现“[Siteswap](https://en.wikipedia.org/wiki/Siteswap)”杂耍符号。有关GIF服务器的完整文档在[这里](https://jugglinglab.org/html/animinfo.html)。
 
+
+
 该插件需要互联网连接。
+
+
 
 可以通过以下方式直观地显示直接的siteswaps：
 
+
+
 <pre>
+
 ```siteswap
+
 (4x,2)*
+
 ```
+
 </pre>
+
+
 
 ![](<https://jugglinglab.org/anim?redirect=true;height=200;width=200;pattern=(4%2C2x)*>)
 
+
+
 如果您想指定比模式更多的细节，请使用以下形式：
 
+
+
 <pre>
+
 ```siteswap
+
 pattern: 3
+
 hands: (-25)(2.5).(25)(-2.5).(-25)(0).
+
 colors: mixed
+
 ```
+
 </pre>
+
+
 
 ![](<https://jugglinglab.org/anim?redirect=true;pattern=3;height=200;width=200;hands=(-25)(2.5).(25)(-2.5).(-25)(0).;colors=mixed>)
 
+
+
 细节通过YAML指定 - 每行包含一个键的名称，后跟一个冒号和一个空格，然后是一个值。
+
+
 
 某些属性可以通过插件设置全局定义。如果全局设置与指定给定动画的细节冲突，则全局属性将被覆盖。
 

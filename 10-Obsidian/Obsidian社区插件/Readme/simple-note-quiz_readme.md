@@ -1,9 +1,9 @@
 ---
-uid: 20230803204735
+uid: 20230803213226
 title: Obsidian 插件：【Readme】Simple note quiz
 tags: ['obsidian插件', 'readme']
 description: 开始在你当前的笔记上做一个简单的测验。
-author: dorisxx
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[simple-note-quiz]] 插件的自述翻译
+
 
 
 发布1.1.0版本说明：
@@ -80,9 +81,11 @@ modified: 20230101000000
 ### 4. 通过点击“正确”或“错误”来自行标记，您也可以按下“左箭头键<-”或“右箭头键->”
 
 ### 5. 继续答题
+
 ![image](https://user-images.githubusercontent.com/35266345/151298679-1268bfd0-dfdf-4b90-9479-c517750cb69e.png)
 
 ### 6. 查看你的分数并决定是否要做出改变
+
 ![image](https://user-images.githubusercontent.com/35266345/151298716-1081ddec-319b-4b79-9270-8995559848ef.png)
 
 7. 标记告诉你哪些问题你回答正确/错误，要清除标记，请参考步骤2，如果你开始一个新的测验，标记将会更新。

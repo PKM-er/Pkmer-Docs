@@ -1,9 +1,9 @@
 ---
-uid: 20230803205002
+uid: 20230803213419
 title: Obsidian 插件：【Readme】Various Complements
 tags: ['编辑工具', '效率', '中文处理', 'obsidian插件', 'readme']
 description: 可以自动根据你当前的输入，检测词典，并给出对应的提示。词典内容可以自定义，也可使是你本库内已经输入的内容。或者自动化输入一些格式，比如不同的callout类型。
-author: tadashi-aikawa
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[various-complements]] 插件的自述翻译
+
 
 
 # obsidian-various-complements-plugin

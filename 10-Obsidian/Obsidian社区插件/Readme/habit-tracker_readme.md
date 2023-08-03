@@ -1,9 +1,9 @@
 ---
-uid: 20230803204103
+uid: 20230803212513
 title: Obsidian 插件：【Readme】Habit Tracker
 tags: ['界面相关', '日期相关', '效率', 'obsidian插件', 'readme']
 description: 创建了一个简单的月历视图，用于可视化您的 Obsidian 使用记录。
-author: David Moeller
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[habit-tracker]] 插件的自述翻译
+
 
 
 # Obsidian的习惯追踪插件

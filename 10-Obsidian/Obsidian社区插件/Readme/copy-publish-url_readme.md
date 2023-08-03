@@ -1,9 +1,9 @@
 ---
-uid: 20230803204601
+uid: 20230803213049
 title: Obsidian 插件：【Readme】Publish and GitHub URL
 tags: ['obsidian插件', 'readme']
 description: 复制或打开你发布网站上相应笔记的URL。你也可以在GitHub上打开它的提交历史记录。
-author: kometenstaub
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[copy-publish-url]] 插件的自述翻译
+
 
 
 发布和GitHub URL插件

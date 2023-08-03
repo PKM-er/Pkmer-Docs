@@ -1,9 +1,9 @@
 ---
-uid: 20230803203948
+uid: 20230803212359
 title: Obsidian 插件：【Readme】File Diff
 tags: ['obsidian插件', 'readme']
 description: 查看两个文件之间的差异，并选择合并选项。
-author: Till Friebe
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[file-diff]] 插件的自述翻译
+
 
 
 # Obsidian文件差异

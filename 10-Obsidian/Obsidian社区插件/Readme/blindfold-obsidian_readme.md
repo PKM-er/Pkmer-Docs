@@ -1,9 +1,9 @@
 ---
-uid: 20230803203543
+uid: 20230803212030
 title: Obsidian 插件：【Readme】BlindFold
 tags: ['obsidian插件', 'readme']
 description: 通过完全隐藏文本来折叠它。
-author: my99n
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[blindfold-obsidian]] 插件的自述翻译
+
 
 
 # Obsidian的蒙眼布

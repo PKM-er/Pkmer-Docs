@@ -1,9 +1,9 @@
 ---
-uid: 20230803204934
+uid: 20230803213353
 title: Obsidian 插件：【Readme】Tomorrow's Daily Note
 tags: ['obsidian插件', 'readme']
 description: 用于创建明天的日常笔记以进行预先计划。
-author: Will Olson
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-tomorrows-daily-note]] 插件的自述翻译
+
 
 
 # 明日的日记笔记

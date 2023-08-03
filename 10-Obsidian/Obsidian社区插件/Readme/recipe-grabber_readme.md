@@ -1,9 +1,9 @@
 ---
-uid: 20230803204634
+uid: 20230803213122
 title: Obsidian 插件：【Readme】Recipe Grabber
 tags: ['obsidian插件', 'readme']
 description: 快速获取任何在线食谱的重要内容。
-author: seethroughdev
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[recipe-grabber]] 插件的自述翻译
+
 
 
 这个插件允许你将任何食谱的URL粘贴到你的Obsidian页面中，并以简洁的食谱格式获取内容，同时包括图片和链接返回原始页面。

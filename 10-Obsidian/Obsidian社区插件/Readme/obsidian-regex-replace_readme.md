@@ -1,9 +1,9 @@
 ---
-uid: 20230803204637
+uid: 20230803213125
 title: Obsidian 插件：【Readme】Regex Find and Replace
 tags: ['obsidian插件', 'readme']
 description: 提供一个可选择支持正则表达式和范围（全文或文本选择）的查找/替换对话框。
-author: Martin Eder
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-regex-replace]] 插件的自述翻译
+
 
 
 ![发布](https://img.shields.io/github/v/release/Gru80/obsidian-regex-replace)

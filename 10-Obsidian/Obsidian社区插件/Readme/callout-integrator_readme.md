@@ -1,9 +1,9 @@
 ---
-uid: 20230803203602
+uid: 20230803212047
 title: Obsidian 插件：【Readme】Callout Integrator
 tags: ['obsidian插件', 'readme']
 description: 将长篇文字整合到引用框中
-author: Cleoche
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[callout-integrator]] 插件的自述翻译
+
 
 
 # Callout集成器

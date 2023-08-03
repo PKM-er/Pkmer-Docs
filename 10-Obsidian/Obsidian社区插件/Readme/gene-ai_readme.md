@@ -1,9 +1,9 @@
 ---
-uid: 20230803204039
+uid: 20230803212447
 title: Obsidian 插件：【Readme】Gene 🧬
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI API生成文本的插件。
-author: Matiss Jurevics
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[gene-ai]] 插件的自述翻译
+
 
 
 基因：Obsidian的AI助手

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204402
+uid: 20230803212826
 title: Obsidian 插件：【Readme】Note Auto Creator
 tags: ['obsidian插件', 'readme']
 description: 当创建链接到它们时自动创建笔记。
-author: Simon T. Clement
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-note-autocreator]] 插件的自述翻译
+
 
 
 # Obsidian的自动笔记创建器

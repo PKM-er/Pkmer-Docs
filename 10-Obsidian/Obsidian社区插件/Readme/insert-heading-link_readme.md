@@ -1,9 +1,9 @@
 ---
-uid: 20230803204156
+uid: 20230803212613
 title: Obsidian 插件：【Readme】Insert Heading Link
 tags: ['obsidian插件', 'readme']
 description: 添加一个命令来创建一个链接到标题。
-author: Signynt
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[insert-heading-link]] 插件的自述翻译
+
 
 
 插入标题链接

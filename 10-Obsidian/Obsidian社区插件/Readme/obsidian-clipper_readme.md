@@ -1,9 +1,9 @@
 ---
-uid: 20230803204422
+uid: 20230803212846
 title: Obsidian 插件：【Readme】Obsidian Clipper
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以帮助你从网络上捕捉精彩瞬间。
-author: John Christopher
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-clipper]] 插件的自述翻译
+
 
 
 # Obsidian剪贴板

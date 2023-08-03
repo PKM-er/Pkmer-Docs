@@ -1,9 +1,9 @@
 ---
-uid: 20230803204639
+uid: 20230803213127
 title: Obsidian 插件：【Readme】Related Notes Finder
 tags: ['搜索/排序', '任务管理', '关系图谱', 'obsidian插件', 'readme']
 description: 用于产找当前笔记中出现的词汇，和其他可能相关的笔记。
-author: Joshua Michalik
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-related-notes-finder]] 插件的自述翻译
+
 
 
 # 相关笔记查找器

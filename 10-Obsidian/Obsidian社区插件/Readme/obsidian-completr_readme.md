@@ -1,9 +1,9 @@
 ---
-uid: 20230803203656
+uid: 20230803212145
 title: Obsidian 插件：【Readme】Completr
 tags: ['obsidian插件', 'readme']
 description: 这个插件提供了针对LaTeX、Frontmatter和标准写作的高级自动完成功能。
-author: tth05
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-completr]] 插件的自述翻译
+
 
 
 # Completr

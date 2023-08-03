@@ -1,9 +1,9 @@
 ---
-uid: 20230803204327
+uid: 20230803212750
 title: Obsidian 插件：【Readme】Mermaid Themes
 tags: ['obsidian插件', 'readme']
 description: 支持主题和自定义的mermaid.js的备选支持。
-author: jvsteiner
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[mermaid-themes]] 插件的自述翻译
+
 
 
 # Mermaid主题

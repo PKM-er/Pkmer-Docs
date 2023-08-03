@@ -1,9 +1,9 @@
 ---
-uid: 20230803204200
+uid: 20230803212618
 title: Obsidian 插件：【Readme】JavaScript Init
 tags: ['编程', 'obsidian插件', 'readme']
 description: 在 Obsidian 加载时或任何其他时间运行JavaScript。
-author: ryanpcmcquen
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-javascript-init]] 插件的自述翻译
+
 
 
 ## Obsidian JavaScript 初始化

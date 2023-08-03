@@ -1,9 +1,9 @@
 ---
-uid: 20230803205035
+uid: 20230803213456
 title: Obsidian 插件：【Readme】Workona To Obsidian
 tags: ['obsidian插件', 'readme']
 description: 用于导入 Workona 资源。
-author: Holmes555
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[workona-to-obsidian]] 插件的自述翻译
+
 
 
 # Workona To Obsidian 插件

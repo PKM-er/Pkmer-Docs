@@ -1,9 +1,9 @@
 ---
-uid: 20230803204215
+uid: 20230803212635
 title: Obsidian 插件：【Readme】Kindle Export
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记导出到您的Kindle，包括嵌入式笔记和图像。
-author: Simeon Stanek
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-kindle-export]] 插件的自述翻译
+
 
 
 # 项目2：obsidian-kindle-export

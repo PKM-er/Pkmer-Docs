@@ -1,9 +1,9 @@
 ---
-uid: 20230803204019
+uid: 20230803212428
 title: Obsidian 插件：【Readme】Footlinks
 tags: ['文件重构', '链接处理', '效率', '自动化', 'obsidian插件', 'readme']
 description: 自动提取笔记中的链接，并将这些链接，在笔记尾部生成对应的 脚注格式。
-author: Daha
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[footlinks]] 插件的自述翻译
+
 
 
 # 脚注链接

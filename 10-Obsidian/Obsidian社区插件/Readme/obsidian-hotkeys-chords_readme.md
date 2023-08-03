@@ -1,9 +1,9 @@
 ---
-uid: 20230803204121
+uid: 20230803212534
 title: Obsidian 插件：【Readme】Hotkeys Chords
 tags: ['obsidian插件', 'readme']
 description: 可配置的热键组合以激活Obsidian命令
-author: Dario Balboni
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-hotkeys-chords]] 插件的自述翻译
+
 
 
 # Obsidian的快捷键和和弦

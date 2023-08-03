@@ -1,9 +1,9 @@
 ---
-uid: 20230803203653
+uid: 20230803212141
 title: Obsidian 插件：【Readme】Commits
 tags: ['文件历史', '统计', 'obsidian插件', 'readme']
 description: 跟踪和回顾 Obisidian 仓库指定项目的变更情况。
-author: darakah
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-commits]] 插件的自述翻译
+
 
 
 # Obsidian Commits

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203514
+uid: 20230803212005
 title: Obsidian 插件：【Readme】AutoMOC
 tags: ['obsidian插件', 'readme']
 description: 查找当前笔记中缺失的链接引用，并将它们导入到当前笔记中。
-author: Diego Alcantara
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[auto-moc]] 插件的自述翻译
+
 
 
 # Obsidian的AutoMOC插件

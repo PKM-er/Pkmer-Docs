@@ -1,9 +1,9 @@
 ---
-uid: 20230803204011
+uid: 20230803212421
 title: Obsidian 插件：【Readme】Flowershow
 tags: ['obsidian插件', 'readme']
 description: 直接从你的Obsidian vault中使用Flowershow进行发布。
-author: Rufus Pollock
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[flowershow]] 插件的自述翻译
+
 
 
 # 🌷 Obsidian 花展插件

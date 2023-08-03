@@ -1,9 +1,9 @@
 ---
-uid: 20230803203743
+uid: 20230803212237
 title: Obsidian 插件：【Readme】Dashing Cursor
 tags: ['obsidian插件', 'readme']
 description: 使光标跟随页面滚动而闪烁
-author: Shukai Ni
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-dashing-cursor]] 插件的自述翻译
+
 
 
 # Obsidian Dashing Cursor

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204354
+uid: 20230803212819
 title: Obsidian 插件：【Readme】New Bullet With Time
 tags: ['日期相关', '编辑器', '自动化', 'obsidian插件', 'readme']
 description: 允许你自动添加当前时间到新的项目符号行。
-author: Boninall
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-new-bullet-with-time]] 插件的自述翻译
+
 
 
 # 新的带有时间的项目

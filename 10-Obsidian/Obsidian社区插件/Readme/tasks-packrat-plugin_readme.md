@@ -1,9 +1,9 @@
 ---
-uid: 20230803204518
+uid: 20230803212954
 title: Obsidian 插件：【Readme】Packrat
 tags: ['obsidian插件', 'readme']
 description: 使用任务插件创建和完成的重复任务的已完成实例进行管理。
-author: Thomas Herden
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tasks-packrat-plugin]] 插件的自述翻译
+
 
 
 # **Packrat** 🐀

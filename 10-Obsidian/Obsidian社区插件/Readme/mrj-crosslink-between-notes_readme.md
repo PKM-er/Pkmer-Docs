@@ -1,9 +1,9 @@
 ---
-uid: 20230803203401
+uid: 20230803211910
 title: Obsidian 插件：【Readme】Add links to current note
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 这个插件增加了一个命令，允许在所选笔记的底部添加一个与当前笔记的链接
-author: MrJackphil
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[mrj-crosslink-between-notes]] 插件的自述翻译
+
 
 
 在当前笔记中添加链接的插件，可以在选定的笔记底部添加一个链接。

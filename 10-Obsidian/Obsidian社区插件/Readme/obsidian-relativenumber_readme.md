@@ -1,9 +1,9 @@
 ---
-uid: 20230803204642
+uid: 20230803213130
 title: Obsidian 插件：【Readme】Relativenumber (relative line numbers)
 tags: ['obsidian插件', 'readme']
 description: 在编辑器的侧边栏显示相对行号。
-author: Rob Stevenson
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-relativenumber]] 插件的自述翻译
+
 
 
 ## Obsidian相对行号插件

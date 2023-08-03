@@ -1,9 +1,9 @@
 ---
-uid: 20230803204447
+uid: 20230803212915
 title: Obsidian 插件：【Readme】Obsidian to Flomo
 tags: ['obsidian插件', 'readme']
 description: 快速分享内容到Flomo。
-author: Xiaoyu Li
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-to-flomo]] 插件的自述翻译
+
 
 
 # Obsidian to Flomo

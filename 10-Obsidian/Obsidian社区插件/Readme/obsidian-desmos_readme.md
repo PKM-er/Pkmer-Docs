@@ -1,9 +1,9 @@
 ---
-uid: 20230803203751
+uid: 20230803212246
 title: Obsidian 插件：【Readme】Desmos
 tags: ['obsidian插件', 'readme']
 description: 将Desmos图形嵌入您的笔记中
-author: Nigecat
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-desmos]] 插件的自述翻译
+
 
 
 # 黑曜石Desmos

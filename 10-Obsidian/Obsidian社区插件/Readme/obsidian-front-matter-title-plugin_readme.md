@@ -1,9 +1,9 @@
 ---
-uid: 20230803204026
+uid: 20230803212434
 title: Obsidian 插件：【Readme】Front Matter Title
 tags: ['obsidian插件', 'readme']
 description: 允许您在前面的事情中定义一个标题，以显示为文件名
-author: Snezhig
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-front-matter-title-plugin]] 插件的自述翻译
+
 
 
 # 前言标题

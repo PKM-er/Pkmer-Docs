@@ -1,9 +1,9 @@
 ---
-uid: 20230803204309
+uid: 20230803212731
 title: Obsidian 插件：【Readme】Markdown prettifier
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 修复并格式化丑陋的Markdown。
-author: pelao
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[markdown-prettifier]] 插件的自述翻译
+
 
 
 注意：不再维护

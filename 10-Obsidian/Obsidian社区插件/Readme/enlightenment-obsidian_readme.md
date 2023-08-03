@@ -1,9 +1,9 @@
 ---
-uid: 20230803203912
+uid: 20230803212336
 title: Obsidian 插件：【Readme】Enlightenment
 tags: ['obsidian插件', 'readme']
 description: 注意你正在关注的内容。Enlightenment为预览添加了一个“Zen模式”，隐藏了你的笔记内容，除了你的指针下面的内容。
-author: ryanjamurphy
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[enlightenment-obsidian]] 插件的自述翻译
+
 
 
 ## 启蒙 ✨

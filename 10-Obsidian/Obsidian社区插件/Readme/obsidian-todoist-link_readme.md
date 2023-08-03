@@ -1,9 +1,9 @@
 ---
-uid: 20230803204923
+uid: 20230803213346
 title: Obsidian 插件：【Readme】Todoist Link
 tags: ['obsidian插件', 'readme']
 description: 创建包括从Obsidian双向链接的Todoist任务和项目
-author: dennisseidel
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,11 +38,14 @@ modified: 20230101000000
 下面是 [[obsidian-todoist-link]] 插件的自述翻译
 
 
+
 # Todoist 链接
 
 无缝地从 Obsidian 创建 *Todoist* 任务和项目。
 
 ## 设置
+
+
 
 转到设置并添加您的Todoist API密钥。您可以在[此处](https://todoist.com/app/settings/integrations)获取您的Todoist API密钥。
 

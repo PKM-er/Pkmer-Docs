@@ -1,9 +1,9 @@
 ---
-uid: 20230803204213
+uid: 20230803212632
 title: Obsidian 插件：【Readme】Khoj
 tags: ['obsidian插件', 'readme']
 description: 自然、增量搜索你的第二个大脑🦅
-author: Khoj AI
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[khoj]] 插件的自述翻译
+
 
 
 <p align="center"><img src="src/khoj/interface/web/assets/icons/khoj-logo-sideways.svg" width="230" alt="Khoj Logo"></p>

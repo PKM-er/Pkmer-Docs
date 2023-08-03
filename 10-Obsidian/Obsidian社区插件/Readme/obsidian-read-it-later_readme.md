@@ -1,9 +1,9 @@
 ---
-uid: 20230803204440
+uid: 20230803212906
 title: Obsidian 插件：【Readme】Obsidian ReadItLater
 tags: ['快捷键', '自动化', 'obsidian插件', 'readme']
 description: 从你的剪贴板收集有趣的信息到你的保险库中。网站将被转换为MD，推文和Youtube视频嵌入，纯文本只会保存到一个新的通知中。
-author: Dominik Pieper
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-read-it-later]] 插件的自述翻译
+
 
 
 # Obsidian的ReadItLater插件

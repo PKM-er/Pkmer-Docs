@@ -1,9 +1,9 @@
 ---
-uid: 20230803204416
+uid: 20230803212841
 title: Obsidian 插件：【Readme】Obsidian Attendance
 tags: ['obsidian插件', 'readme']
 description: 帮助你在笔记中直接记录出勤情况。
-author: Tiim
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-attendance]] 插件的自述翻译
+
 
 
 # Obsidian考勤

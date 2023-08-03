@@ -1,9 +1,9 @@
 ---
-uid: 20230803205008
+uid: 20230803213426
 title: Obsidian 插件：【Readme】Vextab
 tags: ['obsidian插件', 'readme']
 description: 用于渲染 Vextab 图。
-author: Luis Guzman
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[vextab]] 插件的自述翻译
+
 
 
 # Obsidian Vextab

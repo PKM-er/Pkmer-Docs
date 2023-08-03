@@ -1,9 +1,9 @@
 ---
-uid: 20230803204359
+uid: 20230803212824
 title: Obsidian 插件：【Readme】Nomnoml Diagram
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在Obsidian笔记中绘制nomnoml图表
-author: Daeik Kim
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-nomnoml-diagram]] 插件的自述翻译
+
 
 
 ## Obsidian nomnoml Diagram

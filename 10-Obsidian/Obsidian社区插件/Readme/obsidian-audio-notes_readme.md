@@ -1,9 +1,9 @@
 ---
-uid: 20230803203454
+uid: 20230803211947
 title: Obsidian 插件：【Readme】Audio Notes
 tags: ['obsidian插件', 'readme']
 description: 为音频文件创建笔记。
-author: Jason Maldonis
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,8 +38,11 @@ modified: 20230101000000
 下面是 [[obsidian-audio-notes]] 插件的自述翻译
 
 
+
 ![版本](https://img.shields.io/badge/version-0.7.2-blue)
+
 ![许可证](https://img.shields.io/badge/license-MIT-brightgreen)
+
 
 # Obsidian音频笔记
 
@@ -168,31 +171,56 @@ Obsidian提供了一个名为*音频录制器*的核心插件，允许您直接�
 
 ### 自己生成转录文本
 
+
+
 这个过程可能会很困难，因为安装OpenAI Whisper很困难，但是下面是它的工作原理：
+
+
 
 你可以使用OpenAI Whisper从计算机上的音频文件生成转录文本。
 
+
+
 运行OpenAI Whisper需要Python 3.9。我建议使用[miniconda](https://docs.conda.io/en/latest/miniconda.html)来安装Python 3.9。一旦安装了Python，使用`pip install git+https://github.com/openai/whisper.git`来安装OpenAI Whisper。你可能还需要安装`ffmpeg`，这更加困难。请参阅OpenAI Whisper的文档获取更多信息。
+
+
 
 下面的Python脚本将对你的音频文件进行语音识别，并将转录文本保存到你的保险库中。一旦转录文本在你的保险库中，音频笔记插件就可以使用它来自动生成文本。
 
+
+
 你可以使用`pip install tkinter`来安装`tkinter`，以便显示一个“选择文件”对话框，而不是在代码中设置文件名。
 
+
+
 ```
+
 import whisper
+
 import json
+
+
 
 ```
 
 # 如果已安装tkinter，则显示一个“选择文件”对话框。
+
 try:
+
     import tkinter as tk
+
     from tkinter.filedialog import askopenfilename
+
     root = tk.Tk()
+
     root.withdraw()
+
     audio_filename = askopenfilename()
+
     print(f"You selected: {audio_filename}")
+
 except ImportError:
+
     audio_filename = r"<path-to-audio-file-in-your-vault>.mp3"
 
 # 设置以下信息以进行语音识别：

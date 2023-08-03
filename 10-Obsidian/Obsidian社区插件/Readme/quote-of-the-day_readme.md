@@ -1,9 +1,9 @@
 ---
-uid: 20230803204615
+uid: 20230803213104
 title: Obsidian 插件：【Readme】Quote of the Day
 tags: ['obsidian插件', 'readme']
 description: 在编辑器中插入随机引用
-author: Florin Bobis
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,29 +38,54 @@ modified: 20230101000000
 下面是 [[quote-of-the-day]] 插件的自述翻译
 
 
+
 <p align="center">
+
   <a href="https://github.com/twentytwokhz/quote-of-the-day">
+
     <img src="https://github.com/twentytwokhz/quote-of-the-day/raw/master/qotd.png" alt="Logo" height=100>
+
   </a>
+
+
 
   <h1 align="center">每日名言</h1>
 
+
+
   <p align="center">
+
     一个用于插入随机名言的 Obsidian 插件。
+
     <br />
+
     <br />
+
     
+
     ·
+
     
+
   </p>
+
 </p>
 
+
+
 ![GitHub 发布（按日期排序）](https://img.shields.io/github/v/release/twentytwokhz/quote-of-the-day)
+
 ![GitHub 发布日期](https://img.shields.io/github/release-date/twentytwokhz/quote-of-the-day)
+
 ![GitHub 问题](https://img.shields.io/github/issues/twentytwokhz/quote-of-the-day)
 
+
+
 ![GitHub 所有发布](https://img.shields.io/github/downloads/twentytwokhz/quote-of-the-day/total)
+
 ![GitHub](https://img.shields.io/github/license/twentytwokhz/quote-of-the-day)
+
+
 
 <!-- 关于项目 -->
 关于该项目

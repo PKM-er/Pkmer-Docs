@@ -1,9 +1,9 @@
 ---
-uid: 20230803203646
+uid: 20230803212133
 title: Obsidian 插件：【Readme】Colored Text
 tags: ['obsidian插件', 'readme']
 description: 给选定的文本上色。
-author: Erinc Ayaz
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[colored-text]] 插件的自述翻译
+
 
 
 # Obsidian 彩色文本插件

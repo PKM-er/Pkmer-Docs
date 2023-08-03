@@ -1,9 +1,9 @@
 ---
-uid: 20230803203545
+uid: 20230803212032
 title: Obsidian 插件：【Readme】Blur
 tags: ['obsidian插件', 'readme']
 description: 创建混淆的文本块。
-author: @gapmiss
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[blur]] 插件的自述翻译
+
 
 
 # 模糊

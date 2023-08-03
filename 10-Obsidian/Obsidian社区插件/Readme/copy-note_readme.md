@@ -1,9 +1,9 @@
 ---
-uid: 20230803203910
+uid: 20230803212334
 title: Obsidian 插件：【Readme】Enhance Copy Note
 tags: ['笔记文件处理', '编辑工具', 'obsidian插件', 'readme']
 description: 增强原生的黑曜石笔记复制功能。
-author: kzhovn
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[copy-note]] 插件的自述翻译
+
 
 
 在命令面板和文件菜单中添加了一个“复制活动笔记”命令，模仿文件资源管理器菜单中的“制作副本”命令的行为，以及一个“复制文件夹”命令，用于复制所选文件夹及其所有内容。

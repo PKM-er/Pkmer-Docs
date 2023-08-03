@@ -1,9 +1,9 @@
 ---
-uid: 20230803203835
+uid: 20230803212316
 title: Obsidian 插件：【Readme】echarts
 tags: ['图表生成', '美化', 'obsidian插件', 'readme']
 description: 一个可以在obsidian 里运行echarts 的插件，具体可以参考官方示例库代码。插件需要依赖dataview插件
-author: windily-cloud && Cuman
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-echarts]] 插件的自述翻译
+
 
 
 obsidian-echarts是一个在obsidian中渲染echarts的插件，具体详情请参考[Apache ECharts](https://echarts.apache.org/en/index.html)，这是一个开源的JavaScript可视化库。插件依赖于dataview插件，[example](https://github.com/cumany/obsidian-echarts/tree/main/example)文件夹中包含一些基本示例。更多示例可以在[Blue-topaz-examples](https://github.com/cumany/Blue-topaz-examples)中找到。

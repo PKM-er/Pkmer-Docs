@@ -1,9 +1,9 @@
 ---
-uid: 20230803203600
+uid: 20230803212045
 title: Obsidian 插件：【Readme】Calendar
 tags: ['导航工具', '日志类', '日期相关', '效率', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加日历功能，可以在日历中跳转和查看自己的是否有待办未完成，也可以跳转到对应的日记。
-author: Liam Cain
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[calendar]] 插件的自述翻译
+
 
 
 # 黑曜石日历插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203341
+uid: 20230803211858
 title: Obsidian 插件：【Readme】13th Age Statblocks
 tags: ['obsidian插件', 'readme']
 description: 在黑曜石中渲染13世纪的状态块。
-author: ben
+author: AI
 type: readme
 draft: false
 editable: false

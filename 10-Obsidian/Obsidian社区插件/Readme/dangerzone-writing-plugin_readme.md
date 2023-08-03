@@ -1,9 +1,9 @@
 ---
-uid: 20230803203741
+uid: 20230803212235
 title: Obsidian 插件：【Readme】Dangerzone Writing
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 这个插件很危险！当你开始它时，你必须不停地写100秒。如果你停下来，思考和环顾四周，3秒钟后，插件将删除你在这个笔记中写的内容。
-author: Alexis Rondeau
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[dangerzone-writing-plugin]] 插件的自述翻译
+
 
 
 ## 🔥 Obsidian的危险区写作插件 🔥

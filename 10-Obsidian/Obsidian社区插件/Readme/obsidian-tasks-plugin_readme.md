@@ -1,9 +1,9 @@
 ---
-uid: 20230803204841
+uid: 20230803213317
 title: Obsidian 插件：【Readme】Tasks
 tags: ['任务管理', '自动化', 'obsidian插件', 'readme']
 description: Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
-author: Martin Schenck and Clare Macrae
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian 增强任务管理，为任务增加优先级，计划日期，完成�
 ## Readme(翻译）
 
 下面是 [[obsidian-tasks-plugin]] 插件的自述翻译
+
 
 
 <h1 align="center">Obsidian 任务</h1>

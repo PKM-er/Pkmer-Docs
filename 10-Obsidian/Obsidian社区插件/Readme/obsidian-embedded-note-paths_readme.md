@@ -1,9 +1,9 @@
 ---
-uid: 20230803203855
+uid: 20230803212326
 title: Obsidian 插件：【Readme】Embedded Note Paths
 tags: ['obsidian插件', 'readme']
 description: 在每个笔记上插入笔记文件路径。
-author: b0o
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-embedded-note-paths]] 插件的自述翻译
+
 
 
 这个插件已经归档！

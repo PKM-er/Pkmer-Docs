@@ -1,9 +1,9 @@
 ---
-uid: 20230803203739
+uid: 20230803212233
 title: Obsidian 插件：【Readme】Daily notes opener
 tags: ['obsidian插件', 'readme']
 description: 轻松在新窗格中打开日记和周期性记录；自定义周期性记录的背景；快速添加新行到日记中。
-author: Reorx
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-daily-notes-opener]] 插件的自述翻译
 
 
+
 ## Obsidian每日笔记打开器
 
 该插件添加了一个命令，用于在新窗格中打开每日笔记（以便可以使用键盘快捷键！），并且可以对每日笔记的行为进行额外控制。
@@ -61,6 +62,7 @@ modified: 20230101000000
 ![dnnt-demo-2](https://user-images.githubusercontent.com/405972/161797369-b842d6ab-91b0-486a-82a6-6ec00bcdfd9e.gif)
 
 ### 3. 在新窗格中添加今天的周期性笔记行
+
 ![dnnt-demo-3](https://user-images.githubusercontent.com/405972/161797474-ef56562d-a71e-4559-a209-bea376043bb9.gif)
 
 ## 设置

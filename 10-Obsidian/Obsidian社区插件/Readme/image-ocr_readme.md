@@ -1,9 +1,9 @@
 ---
-uid: 20230803204140
+uid: 20230803212557
 title: Obsidian 插件：【Readme】Image OCR
 tags: ['obsidian插件', 'readme']
 description: 在图像上运行OCR，并将结果粘贴在描述中。
-author: kaffarell
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[image-ocr]] 插件的自述翻译
+
 
 
 # 图像OCR

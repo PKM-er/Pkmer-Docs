@@ -1,9 +1,9 @@
 ---
-uid: 20230803204059
+uid: 20230803212509
 title: Obsidian 插件：【Readme】Grandfather
 tags: ['界面相关', '状态栏', 'obsidian插件', 'readme']
 description: 状态栏上显示时间和日期的简单插件。
-author: Danny Hernandez
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-grandfather]] 插件的自述翻译
 
 
+
 # 祖父
 这是一个相当简单的插件，它在状态栏上显示时间（如果需要，还可以显示日期）。我只是为了尝试使用 Obsidian API 而制作了这个插件，因为我正在将我的笔记迁移到 Obsidian 上。
 
@@ -52,8 +53,11 @@ modified: 20230101000000
 - 安装并启用Grandfather插件
 
 ### 来自GitHub发布
+
 - 前往最新的发布版本[这里](https://github.com/noatpad/obsidian-grandfather/releases/latest)，并下载`grandfather.zip`文件
+
 - 将zip文件的内容解压到您的存储库的插件文件夹中：`<vault>/.obsidian/plugins`
+
 - 重新加载Obsidian，并在设置->社区插件中启用该插件
 
 ### 来自GitHub仓库

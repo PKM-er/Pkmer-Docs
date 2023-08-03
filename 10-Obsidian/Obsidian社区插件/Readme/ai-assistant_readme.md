@@ -1,9 +1,9 @@
 ---
-uid: 20230803203420
+uid: 20230803211923
 title: Obsidian 插件：【Readme】AI Assistant
 tags: ['obsidian插件', 'readme']
 description: Obsidian的AI助手插件。
-author: Quentin Grail
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian的AI助手插件。
 ## Readme(翻译）
 
 下面是 [[ai-assistant]] 插件的自述翻译
+
 
 
 # Obsidian AI助手

@@ -1,9 +1,9 @@
 ---
-uid: 20230803205006
+uid: 20230803213424
 title: Obsidian 插件：【Readme】Vega Visualizations
 tags: ['obsidian插件', 'readme']
 description: 用于渲染 Vega 或 Vega-Lite 数据可视化图，如折线图和散点图。
-author: Justin Kim
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-vega]] 插件的自述翻译
+
 
 
 # Vega可视化插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203711
+uid: 20230803212201
 title: Obsidian 插件：【Readme】Copy document as HTML
 tags: ['obsidian插件', 'readme']
 description: 将当前文档复制到剪贴板，以HTML格式，包括图像。
-author: mvdkwast
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[copy-document-as-html]] 插件的自述翻译
+
 
 
 # 将文档复制为HTML

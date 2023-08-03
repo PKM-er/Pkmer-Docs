@@ -1,9 +1,9 @@
 ---
-uid: 20230803204202
+uid: 20230803212620
 title: Obsidian 插件：【Readme】Journal Review
 tags: ['obsidian插件', 'readme']
 description: 回顾你每天的笔记，比如“去年的今天发生了什么”。
-author: Kageetai
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[journal-review]] 插件的自述翻译
+
 
 
 # Obsidian插件日志回顾

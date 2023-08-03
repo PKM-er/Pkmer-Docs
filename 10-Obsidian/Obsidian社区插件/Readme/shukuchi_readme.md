@@ -1,9 +1,9 @@
 ---
-uid: 20230803204729
+uid: 20230803213220
 title: Obsidian 插件：【Readme】Shukuchi
 tags: ['obsidian插件', 'readme']
 description: 跳转到链接（URL或内部链接）并跳转到它们的目标位置。
-author: tadashi-aikawa
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[shukuchi]] 插件的自述翻译
+
 
 
 # Shukuchi (縮地)

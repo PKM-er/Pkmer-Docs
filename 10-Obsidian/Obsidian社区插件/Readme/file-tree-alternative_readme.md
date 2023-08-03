@@ -1,9 +1,9 @@
 ---
-uid: 20230803203956
+uid: 20230803212408
 title: Obsidian 插件：【Readme】File Tree Alternative Plugin
 tags: ['界面相关', '文件管理', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加一个全新的文件列表。文件夹和文件的内容会在不同面板内展示
-author: Ozan Tellioglu
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[file-tree-alternative]] 插件的自述翻译
+
 
 
 # Obsidian文件树替代插件

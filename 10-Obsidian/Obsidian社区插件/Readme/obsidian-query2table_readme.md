@@ -1,9 +1,9 @@
 ---
-uid: 20230803204606
+uid: 20230803213055
 title: Obsidian 插件：【Readme】query2table
 tags: ['界面相关', '搜索/排序', 'obsidian插件', 'readme']
 description: 将查询返回的文件表示为其YAML前言的表格
-author: avirut
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-query2table]] 插件的自述翻译
+
 
 
 # 已归档

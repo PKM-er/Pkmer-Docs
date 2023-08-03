@@ -1,9 +1,9 @@
 ---
-uid: 20230803204428
+uid: 20230803212853
 title: Obsidian 插件：【Readme】Obsidian Handlebars Template Plugin
 tags: ['obsidian插件', 'readme']
 description: 这是一个 Obsidian 插件，它为笔记添加了对 handlebars 模板块的支持。
-author: Sean Quinlan
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-handlebars]] 插件的自述翻译
+
 
 
 # Obsidian Handlebars模板插件

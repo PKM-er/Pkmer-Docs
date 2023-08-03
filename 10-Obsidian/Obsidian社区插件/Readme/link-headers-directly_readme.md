@@ -1,9 +1,9 @@
 ---
-uid: 20230803204235
+uid: 20230803212656
 title: Obsidian 插件：【Readme】Link Headers Directly
 tags: ['obsidian插件', 'readme']
 description: 当一个标题被链接时，预览模式只会显示标题，而不是笔记名称。
-author: Signynt
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[link-headers-directly]] 插件的自述翻译
+
 
 
 直接链接标题

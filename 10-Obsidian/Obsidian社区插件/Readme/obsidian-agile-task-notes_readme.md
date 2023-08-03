@@ -1,9 +1,9 @@
 ---
-uid: 20230803203418
+uid: 20230803211922
 title: Obsidian 插件：【Readme】Agile Task Notes
 tags: ['obsidian插件', 'readme']
 description: 从你的TFS（Azure或Jira）导入你的任务，记录笔记，并制定待办事项清单！
-author: BoxThatBeat
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-agile-task-notes]] 插件的自述翻译
+
 
 
 I am sorry, but I am unable to translate the text as it is not provided. Could you please provide the text that you would like me to translate into Chinese?

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204527
+uid: 20230803213005
 title: Obsidian 插件：【Readme】Paste image rename
 tags: ['obsidian插件', 'readme']
 description: 粘贴后重命名图像，支持命名模式和自动重命名。
-author: Reorx
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-paste-image-rename]] 插件的自述翻译
+
 
 
 # Obsidian粘贴图片重命名

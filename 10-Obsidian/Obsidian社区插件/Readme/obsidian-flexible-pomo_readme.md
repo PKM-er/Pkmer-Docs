@@ -1,9 +1,9 @@
 ---
-uid: 20230803204006
+uid: 20230803212417
 title: Obsidian 插件：【Readme】Flexible Pomodoro For Obsidian
 tags: ['obsidian插件', 'readme']
 description: 在你的状态栏中添加一个番茄钟计时器。这个番茄钟还有额外的选项，比如提前记录和延长。
-author: grassbl8d
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-flexible-pomo]] 插件的自述翻译
+
 
 
 # Obsidian的灵活番茄钟

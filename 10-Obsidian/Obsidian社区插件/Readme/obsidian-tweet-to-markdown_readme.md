@@ -1,9 +1,9 @@
 ---
-uid: 20230803204946
+uid: 20230803213401
 title: Obsidian 插件：【Readme】Tweet to Markdown
 tags: ['obsidian插件', 'readme']
 description: 将推文保存为 Markdown 文件，以及它们的图像、投票等等。
-author: kbravh
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,22 +38,39 @@ modified: 20230101000000
 下面是 [[obsidian-tweet-to-markdown]] 插件的自述翻译
 
 
+
 <br />
+
 <p align="center">
+
   <a href="https://github.com/kbravh/obsidian-tweet-to-markdown">
+
     <img src="https://raw.githubusercontent.com/kbravh/obsidian-tweet-to-markdown/main/images/obsidian-ttm-logo.svg" alt="Logo" height=200>
+
   </a>
+
+
 
   <h3 align="center">Tweet to Markdown</h3>
 
+
+
   <p align="center">
+
     一个Obsidian插件，可以快速将推文保存为Markdown格式。
+
     <br />
+
     <br />
+
     
+
     ·
+
     
+
   </p>
+
 </p>
 ## ⚠️ 注意！⚠️
 
@@ -84,7 +101,10 @@ modified: 20230101000000
 从https://ttm.kbravh.dev免费获取API密钥是使用此插件的最简单方法，因为您不必经过Twitter的开发者申请流程。他们的申请流程很繁琐，而且他们并不总是批准请求。但是，您完全可以按照下面的指南从Twitter检索自己的Bearer令牌。这将为您的使用提供最大的控制、自由和安全性。
 
 ### 免费的TTM API密钥（❌已禁用）
+
 ~~您可以通过使用GitHub或Twitter帐户登录https://ttm.kbravh.dev注册免费的API密钥，并转到您的帐户页面。一旦您登录并从帐户页面检索到您的API密钥，将其复制并粘贴到Tweet to Markdown设置页面的API密钥/承载令牌字段中。如果您更希望更加保护令牌，您可以将其存储在环境变量`TTM_API_KEY`中。~~
+
+
 
 请注意：在Unix机器上，请确保在您的配置文件（例如`~/.bash_profile`）中设置此环境变量，以便Obsidian可以使用它。
 
@@ -153,6 +173,7 @@ modified: 20230101000000
 请注意：很遗憾，目前无法使用v2 API从推文中检索gif或视频。
 
 ### 下载后打开推文
+
 一旦推文下载完成并创建了文件，这将决定文件将如何（或是否）被打开。您可以选择在新标签页中打开推文，替换活动标签页中的当前笔记，或根本不打开。默认情况下，推文将在新标签页中打开。
 
 ## 注意事项定制
@@ -174,6 +195,7 @@ modified: 20230101000000
 您可以在这里提供一个由空格分隔的标签列表。这些标签将作为 `tags: ["tag1", "tag2", ...]` 包含在前置元数据中，并可以通过 Obsidian 进行搜索。
 
 #### cssclass
+
 如果您在此处添加一个类名，它将作为 `cssclass: classname` 添加到前置元数据中，并且Obsidian将会将该类应用于您的每个新推文笔记。然后，您可以使用CSS对这些笔记进行样式设置，并针对该类名进行定位。
 
 #### 自由格式的前置元数据
@@ -204,19 +226,29 @@ another: second value
 禁用此选项将不会为任何提及、标签等创建超链接。原始推文中的任何链接仍将存在。
 
 ### 包括日期
+
 默认情况下，根据下面定义的格式和语言环境，将包括推文的日期。要完全删除日期，请切换此功能。
 
 ### 日期格式
 要自定义下载推文时保存日期的格式，您可以在插件设置中提供一个格式字符串。这些格式字符串可以在[Moment.js文档](https://momentjs.com/docs/#/displaying/format/)中找到。您还可以设置您的语言环境，默认为`en`。默认格式为`LLL`，它会生成一个类似于`September 4, 1986 8:30 PM`的日期，使用`en`语言环境。
 
 ## 粘贴链接
+
 从1.3.0版本开始，您可以将Twitter链接粘贴到任何文件中，并自动将其转换为推文并嵌入到您的笔记中。✨
+
+
 
 ![粘贴推文链接的演示](https://raw.githubusercontent.com/kbravh/obsidian-tweet-to-markdown/main/images/link_paste_demo.gif)
 
+
+
 您可以在插件设置面板中启用此设置，称为**粘贴时下载推文**。在设置中，您可以选择将推文直接嵌入到当前笔记中，还是将其链接为Obsidian嵌入（`![[note title]]`）。
 
+
+
 **Nota bene 📢：**如果您还使用[Auto Link Title插件](obsidian://show-plugin?id=obsidian-auto-link-title)，您可能会发现它在我们有机会处理之前首先捕捉到粘贴的链接。不幸的是，没有办法设置插件运行的顺序。解决方法是在您粘贴之前，在任何您希望此插件捕捉到的Twitter链接前面添加字母`t`，就像这样：`thttps://twitter.com/...`。这将使Auto Link Title忽略它，以便我们可以处理它。您必须在粘贴链接之前添加`t`；您不能在文档中输入`t`然后粘贴，因为Auto Link Title仍然会捕捉到它。
+
+
 
 <!-- CONTRIBUTING -->
 

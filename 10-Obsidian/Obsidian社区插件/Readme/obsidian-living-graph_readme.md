@@ -1,9 +1,9 @@
 ---
-uid: 20230803204248
+uid: 20230803212709
 title: Obsidian 插件：【Readme】Living Graph
 tags: ['obsidian插件', 'readme']
 description: 一个有趣的图形插件
-author: Garrett
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-living-graph]] 插件的自述翻译
+
 
 
 # 活动图

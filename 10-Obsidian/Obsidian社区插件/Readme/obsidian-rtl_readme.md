@@ -1,9 +1,9 @@
 ---
-uid: 20230803204659
+uid: 20230803213147
 title: Obsidian 插件：【Readme】RTL Support
 tags: ['界面相关', '编辑器', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加了 RTL 支持。RTL 从右到左文本方向的语言，如阿拉伯语、希伯来语和波斯语。
-author: esm
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-rtl]] 插件的自述翻译
+
 
 
 # Obsidian RTL 插件
@@ -123,13 +124,22 @@ direction: rtl
 
 ### 0.3.0
 
+
+
 **重要提示：此版本不再支持传统（CM5）的Obsidian编辑器。**
+
 如果您仍在使用传统编辑器，直到Obsidian将其删除之前，您无法升级到此版本的插件。
+
+
 
 **此版本对插件的工作方式进行了重大改进，修复了大部分已知的错误。**
 
+
+
 - RTL / LTR现在（再次）仅针对特定视图设置，而不是所有打开的窗格。
+
 - 修复了与插件干扰Obsidian其他部分（例如Community Plugin视图）的所有已知错误。
+
 - **插件现在可以在Obsidian移动版中使用**（仅在Android上进行了测试）。
 
 ### 0.2.2

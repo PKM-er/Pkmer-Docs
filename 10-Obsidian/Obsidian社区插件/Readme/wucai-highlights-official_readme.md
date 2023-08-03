@@ -1,9 +1,9 @@
 ---
-uid: 20230803205038
+uid: 20230803213500
 title: Obsidian 插件：【Readme】WuCai highlights Official
 tags: ['obsidian插件', 'readme']
 description: 将吴才的亮点同步到您的笔记中
-author: 希果壳五彩
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[wucai-highlights-official]] 插件的自述翻译
+
 
 
 # 希果壳五彩亮点官方插件 📚

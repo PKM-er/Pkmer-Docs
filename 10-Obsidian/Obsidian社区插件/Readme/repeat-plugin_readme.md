@@ -1,9 +1,9 @@
 ---
-uid: 20230803204647
+uid: 20230803213135
 title: Obsidian 插件：【Readme】Repeat
 tags: ['obsidian插件', 'readme']
 description: 使用周期性或间隔重复来复习笔记。
-author: Andre Perunicic
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[repeat-plugin]] 插件的自述翻译
+
 
 
 # Obsidian的重复插件

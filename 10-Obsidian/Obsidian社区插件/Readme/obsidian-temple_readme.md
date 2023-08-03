@@ -1,9 +1,9 @@
 ---
-uid: 20230803204846
+uid: 20230803213321
 title: Obsidian 插件：【Readme】Temple
 tags: ['模板', 'obsidian插件', 'readme']
 description: Obsidian插件，由Nunjucks驱动的模板。
-author: garyng
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian插件，由Nunjucks驱动的模板。
 ## Readme(翻译）
 
 下面是 [[obsidian-temple]] 插件的自述翻译
+
 
 
 # 黑曜石神殿
@@ -133,19 +134,29 @@ tags: []
 ## 用法
 
 ```
+
 路径: {{ file.path }}
+
 名称: {{ file.name }}
+
 基本名称: {{ file.basename }}
+
 扩展名: {{ file.extension }}
+
 ```
 
 输出结果:
 
 ```
+
 路径: Untitled 20210103181939.md
+
 名称: Untitled 20210103181939.md
+
 基本名称: Untitled 20210103181939
+
 扩展名: md
+
 ```
 
 # `datetime`
@@ -229,18 +240,23 @@ title: title.md
 您可以在设置中覆盖提取正则表达式。
 
 # `clipboard`
+
 从系统剪贴板中提取数据。使用 [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy)。
 
 ## 用法
 
 ```
+
 文本: {{ clipboard.text }}
+
 ```
 
 输出:
 
 ```
+
 文本: 内容
+
 ```
 
 

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204306
+uid: 20230803212728
 title: Obsidian 插件：【Readme】Markdown Formatting Assistant
 tags: ['编辑工具', '编辑器', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示OB常用和所有命令提高工作效率。
-author: Reocin
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-markdown-formatting-assistant-plugin]] 插件的自述翻译
+
 
 
 # 插件不再维护

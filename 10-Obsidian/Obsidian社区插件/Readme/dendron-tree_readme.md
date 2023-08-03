@@ -1,9 +1,9 @@
 ---
-uid: 20230803203750
+uid: 20230803212245
 title: Obsidian 插件：【Readme】Dendron Tree
 tags: ['obsidian插件', 'readme']
 description: 为Dendron笔记添加树形结构以进行探索。
-author: Levi Rizki Saputra
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[dendron-tree]] 插件的自述翻译
+
 
 
 # 黑曜石树状图

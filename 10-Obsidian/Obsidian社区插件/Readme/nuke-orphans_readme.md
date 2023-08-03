@@ -1,9 +1,9 @@
 ---
-uid: 20230803204410
+uid: 20230803212834
 title: Obsidian 插件：【Readme】Nuke Orphans
 tags: ['obsidian插件', 'readme']
 description: 清理孤立文件和附件的插件
-author: Sandorex
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[nuke-orphans]] 插件的自述翻译
+
 
 
 # Nuke Orphans Obsidian 插件

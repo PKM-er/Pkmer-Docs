@@ -1,9 +1,9 @@
 ---
-uid: 20230803204005
+uid: 20230803212416
 title: Obsidian 插件：【Readme】Fleeting Notes Sync
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，用于将Fleeting Notes与Obsidian同步。
-author: Matthew Wong
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[fleeting-notes-obsidian]] 插件的自述翻译
+
 
 
 # 瞬息笔记插件

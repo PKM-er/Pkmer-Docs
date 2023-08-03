@@ -1,9 +1,9 @@
 ---
-uid: 20230803204930
+uid: 20230803213349
 title: Obsidian 插件：【Readme】Toggle Case
 tags: ['obsidian插件', 'readme']
 description: 此插件允许您设置x在“小写”、“大写”和“标题大小写”之间切换的快捷键。
-author: automattech
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-toggle-case]] 插件的自述翻译
+
 
 
 # 切换大小写

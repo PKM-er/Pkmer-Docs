@@ -1,9 +1,9 @@
 ---
-uid: 20230803204424
+uid: 20230803212849
 title: Obsidian 插件：【Readme】Obsidian Enhancing Export
 tags: ['obsidian插件', 'readme']
 description: 一款基于Pandoc的Obsidian导出插件，它允许导出到Html、DOCX、ePub和PDF或Hugo等格式。
-author: YISH
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-enhancing-export]] 插件的自述翻译
+
 
 
 # Obsidian增强导出插件

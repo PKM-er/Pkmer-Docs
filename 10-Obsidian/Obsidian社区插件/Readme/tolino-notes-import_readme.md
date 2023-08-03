@@ -1,9 +1,9 @@
 ---
-uid: 20230803204933
+uid: 20230803213352
 title: Obsidian 插件：【Readme】Tolino notes Importer
 tags: ['obsidian插件', 'readme']
 description: 从Tolino E-Reader导入笔记。
-author: juergenbr
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tolino-notes-import]] 插件的自述翻译
+
 
 
 # 从Tolino电子阅读器导入笔记的Obsidian插件

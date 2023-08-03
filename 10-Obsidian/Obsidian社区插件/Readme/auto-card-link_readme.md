@@ -1,9 +1,9 @@
 ---
-uid: 20230803203459
+uid: 20230803211952
 title: Obsidian 插件：【Readme】Auto Card Link
 tags: ['obsidian插件', 'readme']
 description: 自动从网址获取元数据，并将其作为卡片样式的链接。
-author: Nekoshita Yuki
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[auto-card-link]] 插件的自述翻译
+
 
 
 # 自动卡片链接

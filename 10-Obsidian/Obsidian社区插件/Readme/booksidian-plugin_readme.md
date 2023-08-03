@@ -1,9 +1,9 @@
 ---
-uid: 20230803203548
+uid: 20230803212035
 title: Obsidian 插件：【Readme】Booksidian
 tags: ['界面相关', '搜索/排序', '第三方工具集成', 'PDF', '效率', '美化', '学习', '信息收集', 'obsidian插件', 'readme']
 description: Booksidian 将您的 Goodreads 数据 放到 Obsidian 仓库中。可以从Goodreads RSS提要上可用的参数列表中选择（+一些可以从中推断出的额外内容，如副标题或系列），从而设置书注释的正文和标题。
-author: Micha Brugger
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ Booksidian 将您的 Goodreads 数据 放到 Obsidian 仓库中。可以从Goodr
 下面是 [[booksidian-plugin]] 插件的自述翻译
 
 
+
 # Booksidian
 
 Booksidian将您的Goodreads数据带到Obsidian。
@@ -64,7 +65,10 @@ Booksidian将您的Goodreads数据带到Obsidian。
 ![image](https://user-images.githubusercontent.com/46029522/152002763-444c05e1-3a5f-426b-9493-beb99deb9aa3.png)
 
 ### 运行Booksidian
+
 您可以通过执行“Booksidian Sync”命令或按下菜单栏中的“B”来运行Booksidian同步。
+
+
 
 或者，您可以通过更新插件设置中的`frequency`来将Booksidian设置为自动同步。
 

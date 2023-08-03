@@ -1,9 +1,9 @@
 ---
-uid: 20230803204015
+uid: 20230803212425
 title: Obsidian 插件：【Readme】Folder Index
 tags: ['obsidian插件', 'readme']
 description: 文件夹的自动MOC
-author: turulix
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-folder-index]] 插件的自述翻译
+
 
 
 # Obsidian文件夹索引

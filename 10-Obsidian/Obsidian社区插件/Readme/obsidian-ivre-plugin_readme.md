@@ -1,9 +1,9 @@
 ---
-uid: 20230803204158
+uid: 20230803212616
 title: Obsidian 插件：【Readme】IVRE
 tags: ['obsidian插件', 'readme']
 description: IVRE集成到Obsidian：从IVRE抓取数据并将其带入Obsidian笔记中。
-author: The IVRE contributors
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ IVRE集成到Obsidian：从IVRE抓取数据并将其带入Obsidian笔记中。
 ## Readme(翻译）
 
 下面是 [[obsidian-ivre-plugin]] 插件的自述翻译
+
 
 
 [![加入 Gitter 聊天](https://badges.gitter.im/ivre/ivre.svg)](https://gitter.im/ivre/ivre)

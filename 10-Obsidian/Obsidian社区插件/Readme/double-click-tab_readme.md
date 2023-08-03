@@ -1,9 +1,9 @@
 ---
-uid: 20230803203806
+uid: 20230803212300
 title: Obsidian 插件：【Readme】Double Click Tab
 tags: ['obsidian插件', 'readme']
 description: 双击标签标题时修改默认行为的插件，比如关闭标签。
-author: Boninall
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[double-click-tab]] 插件的自述翻译
+
 
 
 # 双击标签页

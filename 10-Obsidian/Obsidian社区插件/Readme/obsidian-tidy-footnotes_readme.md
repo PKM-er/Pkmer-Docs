@@ -1,9 +1,9 @@
 ---
-uid: 20230803204910
+uid: 20230803213337
 title: Obsidian 插件：【Readme】Tidy Footnotes
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 可以将所有注脚都合并到一个地方，也能给注脚重新排序
-author: Charlie Chao
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-tidy-footnotes]] 插件的自述翻译
+
 
 
 # Obsidian整理脚注

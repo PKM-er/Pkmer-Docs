@@ -1,9 +1,9 @@
 ---
-uid: 20230803205033
+uid: 20230803213453
 title: Obsidian 插件：【Readme】Wordy
 tags: ['obsidian插件', 'readme']
 description: 使用 Datamuse API 查找同义词、押韵词等等。
-author: nqthqn
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-wordy]] 插件的自述翻译
+
 
 
 寻找同义词和更多相关信息，请使用[Datamuse API](https://www.datamuse.com/api/)。这是一个[Obsidian](https://obsidian.md/)插件。

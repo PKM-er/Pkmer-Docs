@@ -1,9 +1,9 @@
 ---
-uid: 20230803204525
+uid: 20230803213003
 title: Obsidian 插件：【Readme】Party🎉
 tags: ['obsidian插件', 'readme']
 description: Obsidian上的party.js实现。在您的笔记中创建五彩纸屑、火花，甚至自定义效果！
-author: Shap Po
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian上的party.js实现。在您的笔记中创建五彩纸屑、火花，�
 ## Readme(翻译）
 
 下面是 [[obsidian-party]] 插件的自述翻译
+
 
 
 <h1 align="center">

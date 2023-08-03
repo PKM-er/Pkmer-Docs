@@ -1,9 +1,9 @@
 ---
-uid: 20230803204512
+uid: 20230803212947
 title: Obsidian 插件：【Readme】Ordered List Style
 tags: ['obsidian插件', 'readme']
 description: 设置有序列表样式为内联。字母列表，罗马数字列表等。
-author: erykwalder
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[list-style]] 插件的自述翻译
+
 
 
 # 有序列表样式

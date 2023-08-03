@@ -1,9 +1,9 @@
 ---
-uid: 20230803204212
+uid: 20230803212631
 title: Obsidian 插件：【Readme】Keyshots
 tags: ['obsidian插件', 'readme']
 description: 添加来自像Visual Studio Code或JetBrains Family等流行IDE的经典热键/快捷键命令。
-author: KrazyManJ
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[keyshots]] 插件的自述翻译
+
 
 
 <a href="https://github.com/KrazyManJ/obsidian-keyshots">

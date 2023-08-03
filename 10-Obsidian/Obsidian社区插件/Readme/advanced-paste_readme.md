@@ -1,9 +1,9 @@
 ---
-uid: 20230803203411
+uid: 20230803211917
 title: Obsidian 插件：【Readme】Advanced Paste
 tags: ['obsidian插件', 'readme']
 description: 该插件提供了高级粘贴命令，并使您能够创建自定义的粘贴转换。
-author: kxxt
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[advanced-paste]] 插件的自述翻译
+
 
 
 # Obsidian高级粘贴

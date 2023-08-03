@@ -1,9 +1,9 @@
 ---
-uid: 20230803204457
+uid: 20230803212928
 title: Obsidian 插件：【Readme】Obsius Publish
 tags: ['obsidian插件', 'readme']
 description: 将单个笔记立即可在网上使用。
-author: Jon Grythe Stødle
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsius-publish]] 插件的自述翻译
+
 
 
 # Obsius发布

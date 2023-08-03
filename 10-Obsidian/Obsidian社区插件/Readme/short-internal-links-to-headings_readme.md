@@ -1,9 +1,9 @@
 ---
-uid: 20230803204724
+uid: 20230803213215
 title: Obsidian 插件：【Readme】Short Internal Links to Headings
 tags: ['obsidian插件', 'readme']
 description: 将内部链接到标题仅显示为标题名称。
-author: Scott Moore
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[short-internal-links-to-headings]] 插件的自述翻译
+
 
 
 # 将内部链接缩短为标题

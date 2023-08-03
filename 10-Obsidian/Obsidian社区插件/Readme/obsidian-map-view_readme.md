@@ -1,9 +1,9 @@
 ---
-uid: 20230803204300
+uid: 20230803212722
 title: Obsidian 插件：【Readme】Map View
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 一个可交互的地图视图来记录您的笔记。
-author: esm
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-map-view]] 插件的自述翻译
+
 
 
 # Obsidian.md 地图视图

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203406
+uid: 20230803211914
 title: Obsidian 插件：【Readme】Advanced Cursors
 tags: ['obsidian插件', 'readme']
 description: 更强大地使用多个光标。
-author: SkepticMystic
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[advanced-cursors]] 插件的自述翻译
+
 
 
 # 高级光标
@@ -147,36 +148,65 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用[�
 
 #### 项目符号列表后跟编号列表
 
+
+
 ```re
+
 /^- +[\d\w][\.\)] /m
+
 ```
+
+
 
 匹配以项目符号开头，后跟编号项目符号的情况：
 
+
+
 - `- 1. `
+
 - `- 1) `
+
 - `- a. `
+
 - `- a)`
+
+
 
 通常同时使用两者是多余的，因此您可以删除其中一个。
 
 #### 不相交的项目符号
 
+
+
 ```re
+
 /\n\n>? ?[-\d]+\.?/
+
 ```
+
+
 
 如果您希望项目符号之间没有额外的空行，请使用此方法查找有问题的项目符号。
 
+
+
 ```md
+
 - 1
+
 - 2
+
 - 3
+
 ```
 
 ```re
+
 /\b.*?\.(?=\s|$)/m
+
 ```
+
+
 
 选择在单词边界`\b`和句号`\.`之间的最短字符串。
 
@@ -214,8 +244,12 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用[�
 
 #### 在标题之间导航
 
+
+
 ```re
+
 /^#+.*?$/m
+
 ```
 
 #### 在反向链接之间导航（不包括块引用）

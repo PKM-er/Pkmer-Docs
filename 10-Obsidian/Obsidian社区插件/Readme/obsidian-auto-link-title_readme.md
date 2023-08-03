@@ -1,9 +1,9 @@
 ---
-uid: 20230803203507
+uid: 20230803211958
 title: Obsidian 插件：【Readme】Auto Link Title
 tags: ['链接处理', '效率', '自动化', 'obsidian插件', 'readme']
 description: 该插件在粘贴网页时，自动获取网页以提取链接标题，从而创建具有正确标题集的markdown链接。
-author: Matt Furden
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,10 +38,12 @@ modified: 20230101000000
 下面是 [[obsidian-auto-link-title]] 插件的自述翻译
 
 
+
 ## Obsidian自动链接标题
 ![自动链接示例](auto-link-title.gif)
 
 ### 自动为新链接添加标题
+
 该插件在链接被粘贴时自动获取网页并提取链接标题，创建一个带有正确标题的markdown链接。
 
 例如：
@@ -49,7 +51,10 @@ modified: 20230101000000
 当粘贴 `https://github.com/zolrath/obsidian-auto-link-title` 时，插件会获取页面并检索标题，从而得到以下粘贴内容：`[zolrath/obsidian-auto-link-title: Automatically fetch the titles of pasted links](https://github.com/zolrath/obsidian-auto-link-title)`
 
 ### 为现有的原始URL添加标题
+
 此外，您可以使用`ctrl-shift-e`（Windows）或`cmd-shift-e`（OS X）来将现有的原始链接转换为带有正确标题的markdown格式链接。
+
+
 
 如果您的文本光标位于URL `https://github.com/zolrath/obsidian-auto-link-title`内，按下`ctrl-shift-e`或`cmd-shift-e`将文本转换为`[zolrath/obsidian-auto-link-title: Automatically fetch the titles of pasted links](https://github.com/zolrath/obsidian-auto-link-title)`。
 
@@ -58,6 +63,7 @@ modified: 20230101000000
 如果您的文本光标位于`[some plugin](https://github.com/zolrath/obsidian-auto-link-title)`内，按下`ctrl+shift+e`将获取网站的标题并替换它，结果为`[zolrath/obsidian-auto-link-title: Automatically fetch the titles of pasted links](https://github.com/zolrath/obsidian-auto-link-title)`。
 
 ### 手机粘贴
+
 为了粘贴URL，请确保您执行“点击并按住 -> 粘贴”操作将URL粘贴到您的文档中。
 
 Gboard

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204320
+uid: 20230803212743
 title: Obsidian 插件：【Readme】mdx as md
 tags: ['编辑器', 'obsidian插件', 'readme']
 description: 在Obsidian中编辑mdx文件作为markdown
-author: Nikolay Kozhukharenko
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[mdx-as-md-obsidian]] 插件的自述翻译
+
 
 
 # mdx作为md Obsidian插件

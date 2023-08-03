@@ -1,9 +1,9 @@
 ---
-uid: 20230803204445
+uid: 20230803212912
 title: Obsidian 插件：【Readme】Obsidian Tabs
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加标签页模式，像你的浏览器一样
-author: foreveryone
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-tabs]] 插件的自述翻译
+
 
 
 # 堇青石标签

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204000
+uid: 20230803212412
 title: Obsidian 插件：【Readme】Find & Replace in Selection
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 替换当前选择内的文本
-author: TClark1011
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-find-and-replace-in-selection]] 插件的自述翻译
+
 
 
 Obsidian Find & Replace In Selection 插件

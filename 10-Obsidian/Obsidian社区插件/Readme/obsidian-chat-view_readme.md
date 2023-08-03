@@ -1,9 +1,9 @@
 ---
-uid: 20230803203618
+uid: 20230803212103
 title: Obsidian 插件：【Readme】Chat View
 tags: ['obsidian插件', 'readme']
 description: 聊天视图让您可以快速轻松地在 Markdown 文件中创建优雅的聊天 UI。
-author: Aditya Majethia
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-chat-view]] 插件的自述翻译
 
 
+
 # Obsidian 聊天视图插件
 Chat View 让您可以在 Markdown 文件中快速轻松地创建优雅的聊天界面。
 
@@ -59,17 +60,27 @@ Chat View 让您可以在 Markdown 文件中快速轻松地创建优雅的聊天
 💡 **如果您想在消息中显示管道 `|` 字符，您只需要用反斜杠进行转义，就像这样：`\|`。**
 
 ## 添加分隔符和注释
+
 您可以通过在一行上输入`'...'`来向聊天视图中添加分隔符。要添加注释，请以`'#'`字符开头的行。请看下面的示例：
 
+
+
 ~~~
+
 ```chat
+
 < 费茨威廉·达西 | 只要听我说，好吗？你根本无法想象我为了说这句话所需要鼓起的勇气。
+
 ```
 
 # 丽茜凝视着达西，脸上带着困惑的表情。达西现在大汗淋漓。这只会让她更加不安。发生了什么事？
+
 > 伊丽莎白·班纳特 | 达西先生，你没事吧？你为什么来这里？
+
 ...
+
 < 菲茨威廉·达西 | 我来这里是为了告诉你，我爱上了你。我深深地、毫无保留地爱上了你。
+
 ```
 
 ## 自定义
@@ -97,37 +108,71 @@ Chat View 让您可以在 Markdown 文件中快速轻松地创建优雅的聊天
 
 ## 支持WebVTT！
 
+
+
 从版本1.2.0开始，Obsidian Chat View现在支持WebVTT格式！不要使用常规的`chat`标题，而是给你的代码块命名为`chat-webvtt`。然后将你的WebVTT代码粘贴在其中！有几点需要注意：
 
+
+
 1. 请确保你正确地遵循WebVTT格式。确保你的代码从第一行开始以`WEBVTT`开头。
+
 2. 你可以使用元数据自定义聊天视图。**在`WEBVTT`和你的元数据之间不应该有空行。**
+
 3. 你可以在元数据中将`Self`参数设置为逗号分隔的名称列表。所有来自上述名称的聊天气泡将出现在右侧，而不是默认的左侧，以表示指定人物的聊天是第一人称的。
+
 4. 插件只能识别提示的正文中的语音标签（`<v></v>`）。其他任何内容都将被视为普通文本。
+
+
 
 以下是由WebVTT代码生成的聊天视图示例。
 
+
+
 ~~~
+
 ```chat-webvtt
+
 WEBVTT
+
 Self: John Smith, fjorn@gmail.com
+
 MaxWidth: 70
+
 Header: h3
 
+
+
 00:00:00.000 --> 00:01:04.270
+
 <v John Smith>No one touch it, it just works. It is the definition of an absolutely perfect Chat View. Do not defile it! Or else...</v>
 
+
+
 00:00:05.790 --> 00:00:06.930
+
 <v John Smith>Going forward, obviously.</v>
 
+
+
 00:00:04.310 --> 00:00:04.940
+
 <v Bob Anderson>Uhm?</v>
 
+
+
 00:00:04.310 --> 00:00:04.940
+
 <v fjorn@gmail.com>Uhm - would be correct! I have no idea what John is talking about!</v>
+
 ```
+
 ~~~
 
+
+
 以上代码将生成以下聊天视图：
+
+
 
 ![Chat View WebVTT Preview](https://github.com/adifyr/obsidian-chat-view/raw/master/images/chatview_preview_webvtt.jpg)
 
@@ -152,23 +197,41 @@ Header: h3
 
 ## 在聊天视图消息中支持Markdown和HTML
 
+
+
 在Chat View插件的1.3.0版本发布之后，Chat View的消息部分现在支持HTML和Markdown渲染！这意味着您现在可以在Chat View消息中包含HTML和Markdown元素！**看一下：**
+
+
 
 ![Chat View Markdown & HTML Support](https://github.com/adifyr/obsidian-chat-view/blob/master/images/chatview_preview_md_html.gif)
 
+
+
 上面的Chat View是从以下代码块生成的：
 
+
+
 ~~~
+
 ```chat
+
 [Brian Williams=pink, Stacy Adams=orange]
+
 {mw=80}
+
 < Brian Williams | <h6>Pier Trip Suggestions</h6> Hi Stacy, I'm planning to go on a trip to a pier in the state! So, I wanted to ask if you had any suggestions. I have a couple of pre-conditions though: <ul><li>It needs to be a beautiful spot. [So that I can take loads of pics!](https://theculturetrip.com/north-america/usa/california/articles/the-coolest-piers-in-california-from-santa-monica-to-santa-barbara/)</li><li>It needs to be affordable. [This one's kinda expensive.](https://www.tripadvisor.in/Attraction_Review-g60713-d102779-Reviews-Pier_39-San_Francisco_California.html)</li></ul> **So, can you please help me out?** I'll be sure to send over a souvenir. Thanks! | Yesterday at 5:45 PM
+
 > Stacy Adams | ![Santa Monica Pier](https://images.hdqwalls.com/wallpapers/santa-monica-ferris-wheel-colorful-golden-hour-hz.jpg) <h6>How About Santa Monica?</h6> Jutting out into the Pacific Ocean at the intersection of Ocean and Colorado, it symbolizes the *Heart of Santa Monica* and is one of the most photographed locations in the world. It also has affordable rentals and accomodation! | Today at 10:30 AM
+
 ```
+
 ~~~
 
 ### ⚠️ 重要
+
 覆盖整行的Markdown语法，例如标题（#），列表（-），换行（---）等，将以相同的格式呈现整个聊天视图消息。对于这种情况，建议使用HTML标签，就像上面的示例中使用的那样。
+
+
 
 ---
 

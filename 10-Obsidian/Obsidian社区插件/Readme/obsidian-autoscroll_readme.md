@@ -1,9 +1,9 @@
 ---
-uid: 20230803203515
+uid: 20230803212006
 title: Obsidian 插件：【Readme】Autoscroll
 tags: ['obsidian插件', 'readme']
 description: .这个插件可以让你以指定的速度自动向下滚动内容。
-author: Petr Nazarov
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-autoscroll]] 插件的自述翻译
+
 
 
 # Obsidian Autoscroll 插件

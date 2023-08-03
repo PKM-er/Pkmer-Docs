@@ -1,9 +1,9 @@
 ---
-uid: 20230803203629
+uid: 20230803212114
 title: Obsidian 插件：【Readme】Chorded Hotkeys
 tags: ['obsidian插件', 'readme']
 description: 同时按下多个字母可以触发文本插入、模板插入或命令执行。
-author: Trey Connor Meyers
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-chorded-hotkeys]] 插件的自述翻译
+
 
 
 # Obsidian和弦热键

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204757
+uid: 20230803213247
 title: Obsidian 插件：【Readme】Squiggle
 tags: ['obsidian插件', 'readme']
 description: 使用Squiggle在你的笔记中进行概率估计。
-author: Jesse Hoogland
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[squiggle]] 插件的自述翻译
+
 
 
 # Obsidian Squiggle 插件

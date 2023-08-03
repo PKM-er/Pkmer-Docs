@@ -1,9 +1,9 @@
 ---
-uid: 20230803204528
+uid: 20230803213006
 title: Obsidian 插件：【Readme】Paste Mode
 tags: ['obsidian插件', 'readme']
 description: 粘贴内容，并在任何缩进级别标记块引用。
-author: Jacob Levernier
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-paste-to-current-indentation]] 插件的自述翻译
 
 
+
 ## 黑曜石粘贴模式
 
 一个用于粘贴和管理缩进文本（包括块引用）的[Obsidian](https://obsidian.md/)插件。该插件特别适用于在列表中嵌入代码、引用和其他内容。
@@ -46,19 +47,35 @@ modified: 20230101000000
 
 ### "粘贴模式"
 
+
+
 粘贴模式接管了Obsidian中的粘贴功能。它有八种“粘贴模式”，确定在Obsidian中粘贴文本时会发生什么。**除了“透传”模式会使用Obsidian的默认粘贴功能外，下面的所有模式都会遵循光标当前的缩进。**
+
+
 
 ![粘贴模式演示](img/all-paste-modes.gif)
 
+
+
 1. “文本”模式：粘贴剪贴板中的文本。
+
 2. “文本引用”模式：将剪贴板中的文本作为引用粘贴（在插件的设置菜单中添加前缀，默认为“`> `”）。
+
 3. “Markdown”模式：在粘贴之前将任何HTML转换为Markdown。
+
 4. “Markdown引用”模式：在粘贴之前将任何HTML转换为Markdown，然后将结果作为引用粘贴（在插件的设置菜单中添加前缀，默认为“`> `”）。
+
 5. “代码块”模式：在“\`\`\`”代码块标记内粘贴剪贴板中的文本。
+
 6. “代码块引用”模式：将剪贴板中的文本作为引用粘贴在“\`\`\`”代码块标记内。
+
 7. “透传”模式：使用Obsidian的默认粘贴功能。
 
+
+
 当前的粘贴模式显示在Obsidian的状态栏中：
+
+
 
 ![状态栏显示当前的粘贴模式](img/status-bar.png)
 
@@ -112,6 +129,8 @@ modified: 20230101000000
 - 添加测试
 
 ### 开发此插件
+
+
 
 下面的文档是从[Obsidian示例插件](https://github.com/obsidianmd/obsidian-sample-plugin)中保留下来的。
 

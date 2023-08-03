@@ -1,9 +1,9 @@
 ---
-uid: 20230803204147
+uid: 20230803212603
 title: Obsidian 插件：【Readme】Import Foundry VTT journal entries
 tags: ['obsidian插件', 'readme']
 description: 从你选择的Foundry VTT世界导入你的日志条目到你的Obsidian Vault文件夹中。
-author: farling42
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[import-foundry]] 插件的自述翻译
+
 
 
 [![ko-fi](https://img.shields.io/badge/Ko--Fi-farling-success)](https://ko-fi.com/farling)

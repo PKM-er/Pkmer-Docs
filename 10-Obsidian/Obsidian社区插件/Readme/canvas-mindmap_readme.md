@@ -1,9 +1,9 @@
 ---
-uid: 20230803203608
+uid: 20230803212053
 title: Obsidian 插件：【Readme】Canvas Mindmap
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以让你的画布像思维导图一样工作。
-author: Boninall
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[canvas-mindmap]] 插件的自述翻译
+
 
 
 # Obsidian 画布思维导图

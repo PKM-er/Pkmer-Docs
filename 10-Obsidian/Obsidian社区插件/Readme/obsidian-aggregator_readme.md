@@ -1,9 +1,9 @@
 ---
-uid: 20230803203417
+uid: 20230803211921
 title: Obsidian 插件：【Readme】Aggregator
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以帮助你从文件中收集信息，并在文件中做出总结。
-author: SErAphLi
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-aggregator]] 插件的自述翻译
+
 
 
 # Obsidian聚合器

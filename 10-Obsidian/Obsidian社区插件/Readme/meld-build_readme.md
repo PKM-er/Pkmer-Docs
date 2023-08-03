@@ -1,9 +1,9 @@
 ---
-uid: 20230803204324
+uid: 20230803212747
 title: Obsidian 插件：【Readme】Meld Build
 tags: ['obsidian插件', 'readme']
 description: 编写并执行（沙盒化）JavaScript以渲染模板，查询DataView并创建动态注释。
-author: meld-cp
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[meld-build]] 插件的自述翻译
+
 
 
 # Meld Build - 一个 Obsidian 插件

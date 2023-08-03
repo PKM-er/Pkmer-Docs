@@ -1,9 +1,9 @@
 ---
-uid: 20230803204733
+uid: 20230803213224
 title: Obsidian 插件：【Readme】Simple Embeds
 tags: ['转换工具', '界面相关', 'obsidian插件', 'readme']
 description: 在预览文件时，将Twitter和YouTube链接替换为嵌入式内容。
-author: Sam Warnick
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[simple-embeds]] 插件的自述翻译
+
 
 
 # 简单嵌入

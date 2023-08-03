@@ -1,9 +1,9 @@
 ---
-uid: 20230803204153
+uid: 20230803212610
 title: Obsidian 插件：【Readme】Influx
 tags: ['obsidian插件', 'readme']
 description: 一个可以在笔记的页脚聚合简洁的反向链接剪辑的日记插件。
-author: Jens M Gleditsch
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[influx]] 插件的自述翻译
+
 
 
 > **警告**

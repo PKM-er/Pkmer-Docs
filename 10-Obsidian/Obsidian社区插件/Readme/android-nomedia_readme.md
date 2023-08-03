@@ -1,9 +1,9 @@
 ---
-uid: 20230803203430
+uid: 20230803211929
 title: Obsidian 插件：【Readme】Android nomedia
 tags: ['obsidian插件', 'readme']
 description: 通过向每个文件夹添加“nomedia”文件，在Android设备上隐藏Vault中的媒体文件。
-author: JakeisAwesome
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[android-nomedia]] 插件的自述翻译
+
 
 
 # Android nomedia

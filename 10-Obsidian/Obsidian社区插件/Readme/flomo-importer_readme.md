@@ -1,9 +1,9 @@
 ---
-uid: 20230803204010
+uid: 20230803212420
 title: Obsidian 插件：【Readme】Flomo Importer
 tags: ['obsidian插件', 'readme']
 description: 将Flomo备忘录转换为Obsidian笔记。
-author: Jialu Y
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[flomo-importer]] 插件的自述翻译
+
 
 
 # Flomo导入工具

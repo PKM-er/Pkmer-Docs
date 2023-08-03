@@ -1,9 +1,9 @@
 ---
-uid: 20230803204844
+uid: 20230803213319
 title: Obsidian 插件：【Readme】Telegraph Publish
 tags: ['obsidian插件', 'readme']
 description: 将你的Obsidian笔记发布到Telegraph页面上。
-author: Reorx
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-telegraph-publish]] 插件的自述翻译
+
 
 
 ## Obsidian Telegraph 发布

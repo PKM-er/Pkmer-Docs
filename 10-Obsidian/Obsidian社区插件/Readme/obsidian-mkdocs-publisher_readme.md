@@ -1,9 +1,9 @@
 ---
-uid: 20230803204047
+uid: 20230803212455
 title: Obsidian 插件：【Readme】Github Publisher
 tags: ['obsidian插件', 'readme']
 description: Github Publisher 是一个插件，可以帮助你根据前置条件条目状态将文件发送到配置的Github存储库中。
-author: Mara-Li
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Github Publisher 是一个插件，可以帮助你根据前置条件条目状态
 ## Readme(翻译）
 
 下面是 [[obsidian-mkdocs-publisher]] 插件的自述翻译
+
 
 
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22obsidian-mkdocs-publisher%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)

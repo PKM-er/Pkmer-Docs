@@ -1,9 +1,9 @@
 ---
-uid: 20230803204118
+uid: 20230803212530
 title: Obsidian 插件：【Readme】HK Code Block
 tags: ['obsidian插件', 'readme']
 description: 由Heekang Park开发的Obsidian插件；使代码块在阅读视图中看起来更好。
-author: Heekang Park
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[hk-code-block]] 插件的自述翻译
+
 
 
 # HK 代码块

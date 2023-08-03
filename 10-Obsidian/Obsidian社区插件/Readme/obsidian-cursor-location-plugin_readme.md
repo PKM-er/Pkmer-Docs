@@ -1,9 +1,9 @@
 ---
-uid: 20230803203723
+uid: 20230803212215
 title: Obsidian 插件：【Readme】Cursor Location
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这显示了光标的位置（字符和行号）。
-author: Sean Slater
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-cursor-location-plugin]] 插件的自述翻译
+
 
 
 # 光标位置 [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/spslater/obsidian-cursor-location-plugin)](https://github.com/spslater/obsidian-cursor-location-plugin/releases) ![GitHub all releases](https://img.shields.io/github/downloads/spslater/obsidian-cursor-location-plugin/total)

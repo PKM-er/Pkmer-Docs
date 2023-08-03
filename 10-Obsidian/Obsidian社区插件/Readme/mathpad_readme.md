@@ -1,9 +1,9 @@
 ---
-uid: 20230803204318
+uid: 20230803212741
 title: Obsidian 插件：【Readme】Mathpad
 tags: ['obsidian插件', 'readme']
 description: Onsidian计算机代数系统和计算器
-author: Gabriele Cannata
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Onsidian计算机代数系统和计算器
 ## Readme(翻译）
 
 下面是 [[mathpad]] 插件的自述翻译
+
 
 
 # Mathpad

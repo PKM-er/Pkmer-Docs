@@ -1,9 +1,9 @@
 ---
-uid: 20230803203753
+uid: 20230803212248
 title: Obsidian 插件：【Readme】Diagrams
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在 Obsidian 中创建和编辑 Draw.io 图表
-author: Sam Greenhalgh
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[drawio-obsidian]] 插件的自述翻译
+
 
 
 # Obsidian.md的Draw.io图表插件

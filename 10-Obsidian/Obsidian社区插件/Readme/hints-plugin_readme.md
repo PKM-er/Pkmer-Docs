@@ -1,9 +1,9 @@
 ---
-uid: 20230803204117
+uid: 20230803212529
 title: Obsidian 插件：【Readme】Hints Flow
 tags: ['obsidian插件', 'readme']
 description: 直接将数据保存到Obsidian，使用指定的模板。从Telegram、WhatsApp、Slack、电子邮件、短信、Raycast等捕获。
-author: Hints
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[hints-plugin]] 插件的自述翻译
+
 
 
 直接将数据保存到Obsidian中，使用指定的模板。从Telegram、WhatsApp、Slack、Email、SMS、Raycast等平台进行捕捉。

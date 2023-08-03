@@ -1,9 +1,9 @@
 ---
-uid: 20230803204832
+uid: 20230803213310
 title: Obsidian 插件：【Readme】Tag Wrangler
 tags: ['文件重构', '编辑工具', '文件管理', '标签', 'obsidian插件', 'readme']
 description: 从标签面板重命名、合并、切换和搜索标签。
-author: PJ Eby
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tag-wrangler]] 插件的自述翻译
+
 
 
 # Obsidian标签管理插件

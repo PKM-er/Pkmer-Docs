@@ -1,9 +1,9 @@
 ---
-uid: 20230803203950
+uid: 20230803212402
 title: Obsidian 插件：【Readme】File Forgetting Curve
 tags: ['obsidian插件', 'readme']
 description: 文件遗忘曲线
-author: ptrsvltns
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[file-forgetting-curve-obsidian]] 插件的自述翻译
+
 
 
 在Obsidian中的文件遗忘曲线：

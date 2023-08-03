@@ -1,9 +1,9 @@
 ---
-uid: 20230803204643
+uid: 20230803213131
 title: Obsidian 插件：【Readme】Release Timeline
 tags: ['obsidian插件', 'readme']
 description: 根据笔记元数据以数据视图类似的语法渲染发布时间线。
-author: cakechaser
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-release-timeline]] 插件的自述翻译
+
 
 
 # Obsidian版本发布时间线

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204229
+uid: 20230803212649
 title: Obsidian 插件：【Readme】Ledger
 tags: ['金融', 'obsidian插件', 'readme']
 description: 普通文本会计
-author: Tony Grosinger
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ledger-obsidian]] 插件的自述翻译
+
 
 
 # Obsidian账本

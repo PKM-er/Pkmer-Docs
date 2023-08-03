@@ -1,9 +1,9 @@
 ---
-uid: 20230803204806
+uid: 20230803213253
 title: Obsidian 插件：【Readme】Structured Plugin
 tags: ['obsidian插件', 'readme']
 description: 使用“.”结构化插件，在笔记中创建层次结构。
-author: dobrovolsky
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-structured-plugin]] 插件的自述翻译
+
 
 
 # Obsidian结构化插件

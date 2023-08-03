@@ -1,9 +1,9 @@
 ---
-uid: 20230803204556
+uid: 20230803213042
 title: Obsidian 插件：【Readme】Project Garden
 tags: ['obsidian插件', 'readme']
 description: 在一个地方看到你所有的项目
-author: Ben Goosman
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-project-garden]] 插件的自述翻译
+
 
 
 # Obsidian 项目花园

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203500
+uid: 20230803211952
 title: Obsidian 插件：【Readme】Auto Class
 tags: ['obsidian插件', 'readme']
 description: 根据笔记路径自动应用CSS类到markdown视图。
-author: OfficerHalf
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,9 +38,14 @@ modified: 20230101000000
 下面是 [[auto-class]] 插件的自述翻译
 
 
+
 ## 自动分类
 
+
+
 [![质量门状态](https://sonarcloud.io/api/project_badges/measure?project=OfficerHalf_obsidian-auto-class&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=OfficerHalf_obsidian-auto-class)
+
+
 
 一个 Obsidian 插件，可以根据笔记的路径和标签自动将 CSS 类应用于 Markdown 视图，就像您在 `cssClasses` YAML 键中添加了它们一样。结合针对 CSS 类的 CSS 代码片段，您可以在单个存储库中的不同路径上应用不同的代码片段，而无需自己添加任何 HTML 或 CSS 类。
 

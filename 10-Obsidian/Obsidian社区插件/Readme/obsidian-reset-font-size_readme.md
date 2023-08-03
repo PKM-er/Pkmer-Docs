@@ -1,9 +1,9 @@
 ---
-uid: 20230803204648
+uid: 20230803213136
 title: Obsidian 插件：【Readme】Reset Font Size
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 添加按钮和命令以将字体大小重置回其默认值。
-author: luckman212
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-reset-font-size]] 插件的自述翻译
+
 
 
 # 重置字体大小

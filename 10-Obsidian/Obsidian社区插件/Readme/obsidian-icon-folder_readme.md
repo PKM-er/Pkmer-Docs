@@ -1,9 +1,9 @@
 ---
-uid: 20230803204132
+uid: 20230803212546
 title: Obsidian 插件：【Readme】Icon Folder
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 此插件允许您向文件夹添加图标。
-author: FlorianWoelki
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-icon-folder]] 插件的自述翻译
+
 
 
 # Obsidian图标文件夹

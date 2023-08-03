@@ -1,9 +1,9 @@
 ---
-uid: 20230803204948
+uid: 20230803213404
 title: Obsidian 插件：【Readme】Typing speed
 tags: ['obsidian插件', 'readme']
 description: 在状态栏中显示当前打字速度的插件
-author: supercyp
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[typing-speed]] 插件的自述翻译
+
 
 
 I am sorry, but I am unable to translate the text as it is not provided. Could you please provide the text that you would like me to translate into Chinese?

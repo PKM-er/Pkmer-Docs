@@ -1,9 +1,9 @@
 ---
-uid: 20230803204751
+uid: 20230803213241
 title: Obsidian 插件：【Readme】Soomda
 tags: ['obsidian插件', 'readme']
 description: 快速隐藏你的侧边栏。
-author: Michael Lee
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-soomda]] 插件的自述翻译
+
 
 
 🙈 Soomda

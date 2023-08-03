@@ -1,9 +1,9 @@
 ---
-uid: 20230803204210
+uid: 20230803212629
 title: Obsidian 插件：【Readme】Key Promoter
 tags: ['obsidian插件', 'readme']
 description: 通过当使用鼠标时显示它们来学习键盘快捷键。
-author: Johannes Theiner
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[key-promoter]] 插件的自述翻译
+
 
 
 # 快捷键提示插件

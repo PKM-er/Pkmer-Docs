@@ -1,9 +1,9 @@
 ---
-uid: 20230803204241
+uid: 20230803212703
 title: Obsidian 插件：【Readme】Linkify
 tags: ['obsidian插件', 'readme']
 description: 将匹配文本转换为链接
-author: Matthew Chan
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[linkify]] 插件的自述翻译
+
 
 
 # Linkify

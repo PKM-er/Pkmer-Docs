@@ -1,9 +1,9 @@
 ---
-uid: 20230803203454
+uid: 20230803211947
 title: Obsidian 插件：【Readme】Attachment Name Formatting
 tags: ['obsidian插件', 'readme']
 description: 格式化附件名（文件名附件类型索引号.xxx）
-author: JYC333
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-attachment-name-formatting]] 插件的自述翻译
+
 
 
 ## Obsidian附件名称格式化

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203452
+uid: 20230803211945
 title: Obsidian 插件：【Readme】Askify Sync
 tags: ['obsidian插件', 'readme']
 description: Obsidian和Askify之间的同步。
-author: Kishlay Raj
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian和Askify之间的同步。
 ## Readme(翻译）
 
 下面是 [[askify-obsidian-sync]] 插件的自述翻译
+
 
 
 # Obsidian Askify 同步插件

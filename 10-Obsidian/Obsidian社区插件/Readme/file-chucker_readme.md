@@ -1,9 +1,9 @@
 ---
-uid: 20230803203944
+uid: 20230803212355
 title: Obsidian 插件：【Readme】File Chucker
 tags: ['obsidian插件', 'readme']
 description: 快速移动文件到新的或已存在的文件夹，然后打开下一个文件。
-author: Ken Lim
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[file-chucker]] 插件的自述翻译
+
 
 
 # Obsidian的文件扔插件

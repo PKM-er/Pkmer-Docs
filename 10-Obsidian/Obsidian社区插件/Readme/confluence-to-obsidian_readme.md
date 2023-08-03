@@ -1,9 +1,9 @@
 ---
-uid: 20230803203658
+uid: 20230803212147
 title: Obsidian 插件：【Readme】Confluence to Obsidian
 tags: ['obsidian插件', 'readme']
 description: 将Confluence空间导入Obsidian vault。
-author: K
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[confluence-to-obsidian]] 插件的自述翻译
+
 
 
 # Confluence 转 Obsidian

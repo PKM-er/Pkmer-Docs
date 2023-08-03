@@ -1,9 +1,9 @@
 ---
-uid: 20230803204310
+uid: 20230803212733
 title: Obsidian 插件：【Readme】Markdown Table Editor
 tags: ['表格', '效率', 'obsidian插件', 'readme']
 description: 为 Markdown 表格提供编辑器，能将 CSV、Microsoft Excel/Google Sheets 数据 转化成 Markdown 的表格。你可以再点击表格后，在悬浮窗口维护你的表格。
-author: Ganessh Kumar R P
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[markdown-table-editor]] 插件的自述翻译
 
 
+
 # Obsidian表格编辑器
 
 Obsidian插件，提供Markdown表格的编辑器。它可以从Obsidian Markdown编辑器中打开CSV、Microsoft Excel/Google Sheets数据作为Markdown表格。
@@ -68,11 +69,18 @@ Obsidian插件，提供Markdown表格的编辑器。它可以从Obsidian Markdow
 ## 1. 使用指南
 
 ### 更新日志 0.2.0
+
 感谢 [@cumany](https://github.com/cumany) 为这个版本做出的贡献。
+
 1. 添加了“更新表格”按钮
+
 2. 添加了对弹出窗口的支持（如果安装了obsidian-hover-editor插件）
 
+
+
 https://user-images.githubusercontent.com/42957010/158850763-875d1ce4-fded-4ca4-a000-848d8c8268f4.mp4
+
+
 
 [@emisjerry](https://github.com/emisjerry) 制作了一个[中文视频演示](https://www.youtube.com/watch?v=rZX_ZVPOgC8)这个插件（带有英文字幕）。感谢emisjerry！
 
@@ -156,11 +164,19 @@ https://user-images.githubusercontent.com/42957010/158850763-875d1ce4-fded-4ca4-
 
 ### 2.1 从GitHub获取
 
+
+
 1. 从GitHub存储库的Releases部分下载最新版本
+
 2. 将文件放入您的保险库的插件文件夹中：`<vault>/.obsidian/plugins/obsidian-excel-to-markdown-table`
+
 3. 重新加载Obsidian
+
 4. 如果提示安全模式，您可以禁用安全模式并启用插件。
+
     否则，前往设置，第三方插件，确保安全模式关闭，并从那里启用插件。
+
+
 
 > 注意：`.obsidian`文件夹可能是隐藏的。在macOS上，您应该能够按下`Command+Shift+Dot`来在Finder中显示该文件夹。
 

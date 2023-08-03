@@ -1,9 +1,9 @@
 ---
-uid: 20230803204652
+uid: 20230803213139
 title: Obsidian 插件：【Readme】Review
 tags: ['链接处理', '日期相关', 'obsidian插件', 'readme']
 description: 允许你将当前的笔记添加到未来的笔记(或者过去的笔记。以确保你在指定的日期，有机会再次能够回顾该笔记。
-author: ryanjamurphy
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[review-obsidian]] 插件的自述翻译
 
 
+
 ## 评论
 
 一个用于[Obsidian](https://obsidian.md)的插件。
@@ -49,10 +50,15 @@ modified: 20230101000000
 评论与[自然语言日期插件](https://github.com/argenos/nldates-obsidian)集成（因此需要该插件）。请先安装它。
 
 ### 设置
+
 确保你**查看**（嘿）插件的设置来分配：
+
 - 评论部分的标题（默认为`## Review`）。
+
 - 调用评论时每行添加的前缀（例如，使用`!`将使每个块自动成为嵌入块）。
+
 - 调用评论块时每个块添加的前缀（例如，使用`!`将使每个块自动成为嵌入块）。
+
 - 每个评论的默认值（例如，如果你使用`tomorrow`，当你调用评论时，只需按<kbd>enter</kbd>将你要评论的事物放在明天的日记中）。
 
 ### 如何使用
@@ -63,6 +69,7 @@ modified: 20230101000000
 - 然后，该插件会为给定的日期创建一个新的每日笔记，并添加一个新的复习部分（如果已经存在一个每日笔记，则将此部分追加到该笔记中）。
 
 ### 演示
+
 ![一个gif展示了如上所述的插件的使用。](https://i.imgur.com/9AqrSKy.gif)
 
 ### 手动安装插件

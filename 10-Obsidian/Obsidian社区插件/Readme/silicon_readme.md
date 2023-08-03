@@ -1,9 +1,9 @@
 ---
-uid: 20230803204732
+uid: 20230803213223
 title: Obsidian 插件：【Readme】Silicon AI
 tags: ['obsidian插件', 'readme']
 description: 通过硅AI为您的笔记增加一些智能。
-author: deepfates
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[silicon]] 插件的自述翻译
+
 
 
 硅：Obsidian的人工智能

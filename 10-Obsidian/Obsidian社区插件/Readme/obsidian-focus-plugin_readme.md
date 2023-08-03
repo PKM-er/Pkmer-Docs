@@ -1,9 +1,9 @@
 ---
-uid: 20230803204013
+uid: 20230803212423
 title: Obsidian 插件：【Readme】Focus and Highlight
 tags: ['obsidian插件', 'readme']
 description: Obsidian的一个插件，可以突出显示并专注于当前选定的标题
-author: BO YI TSAI
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian的一个插件，可以突出显示并专注于当前选定的标题
 ## Readme(翻译）
 
 下面是 [[obsidian-focus-plugin]] 插件的自述翻译
+
 
 
 # 焦点和突出显示

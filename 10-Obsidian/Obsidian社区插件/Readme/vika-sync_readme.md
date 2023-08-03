@@ -1,9 +1,9 @@
 ---
-uid: 20230803205009
+uid: 20230803213427
 title: Obsidian 插件：【Readme】Vika Sync
 tags: ['obsidian插件', 'readme']
 description: 将你的笔记同步到Vika
-author: romantic-black
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[vika-sync]] 插件的自述翻译
+
 
 
 受Johnny Obsidian的[与Vika同步脚本](https://milinshushe.feishu.cn/docs/doccnSwkXMw7tEQJwmBg72yzpLb)的启发 | [使用前请看使用说明](https://github.com/romantic-black/obsidain-vika-sync/blob/master/README_zh.md)

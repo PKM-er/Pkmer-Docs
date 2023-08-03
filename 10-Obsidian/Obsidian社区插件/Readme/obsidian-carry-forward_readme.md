@@ -1,9 +1,9 @@
 ---
-uid: 20230803203614
+uid: 20230803212059
 title: Obsidian 插件：【Readme】Carry-Forward
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 从笔记中复制文本，链接回其复制的源，或复制一个链接到笔记块。
-author: Jacob Levernier
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-carry-forward]] 插件的自述翻译
+
 
 
 <h1 align="center">Obsidian Carry-Forward插件</h1>

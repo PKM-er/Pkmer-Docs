@@ -1,9 +1,9 @@
 ---
-uid: 20230803204309
+uid: 20230803212732
 title: Obsidian 插件：【Readme】Markdown shortcuts
 tags: ['obsidian插件', 'readme']
 description: 允许使用快捷键编写Markdown
-author: Jules Guesnon
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[markdown-shortcuts]] 插件的自述翻译
+
 
 
 [![发布版本号](https://img.shields.io/github/release/JulesGuesnon/obsidian-markdown-commands.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) [![Github所有版本下载量](https://img.shields.io/github/downloads/JulesGuesnon/obsidian-markdown-commands/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)

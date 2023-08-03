@@ -1,9 +1,9 @@
 ---
-uid: 20230803204317
+uid: 20230803212740
 title: Obsidian 插件：【Readme】MathLive
 tags: ['obsidian插件', 'readme']
 description: 使用MathLive可以更快速和更直观地编辑MathJax。
-author: Dan Zilberman
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[mathlive]] 插件的自述翻译
+
 
 
 # Obsidian MathLive

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204804
+uid: 20230803213252
 title: Obsidian 插件：【Readme】Stopwatch Plugin
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 在Obsidian上显示秒表！
-author: Tokuhiro Matsuno
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-stopwatch-plugin]] 插件的自述翻译
+
 
 
 这是一个为Obsidian（https://obsidian.md）设计的秒表插件。

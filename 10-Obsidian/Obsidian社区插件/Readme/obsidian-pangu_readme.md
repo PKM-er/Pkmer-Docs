@@ -1,9 +1,9 @@
 ---
-uid: 20230803203345
+uid: 20230803211900
 title: Obsidian 插件：【Readme】盘古 PanGu
 tags: ['编辑工具', '中文处理', '自动化', 'obsidian插件', 'readme']
 description: 格式化你的文本内容，通过快捷键自动添加，汉字和英文字母之间的空格，保持严谨的书写格式。
-author: Natumsol
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-pangu]] 插件的自述翻译
+
 
 
 ## Obsidian Pangu 插件

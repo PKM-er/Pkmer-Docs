@@ -1,9 +1,9 @@
 ---
-uid: 20230803204100
+uid: 20230803212510
 title: Obsidian 插件：【Readme】Graph Analysis
 tags: ['obsidian插件', 'readme']
 description: 在你的保险箱中使用酷的图形算法发现笔记之间的隐藏联系。
-author: SkepticMystic & Emile
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[graph-analysis]] 插件的自述翻译
+
 
 
 # 图分析

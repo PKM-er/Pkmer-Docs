@@ -1,9 +1,9 @@
 ---
-uid: 20230803204218
+uid: 20230803212638
 title: Obsidian 插件：【Readme】KOReader Highlights
 tags: ['obsidian插件', 'readme']
 description: 从KOReader同步高亮/笔记
-author: Federico "Edo" Granata
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-koreader-plugin]] 插件的自述翻译
+
 
 
 # Obsidian KOReader 插件

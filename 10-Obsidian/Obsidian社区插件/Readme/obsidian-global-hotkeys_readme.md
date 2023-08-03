@@ -1,9 +1,9 @@
 ---
-uid: 20230803204049
+uid: 20230803212457
 title: Obsidian 插件：【Readme】Global Hotkeys
 tags: ['obsidian插件', 'readme']
 description: Obsidian桌面应用程序中可配置的系统热键用于运行命令
-author: Marc Jessome
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian桌面应用程序中可配置的系统热键用于运行命令
 ## Readme(翻译）
 
 下面是 [[obsidian-global-hotkeys]] 插件的自述翻译
+
 
 
 # Obsidian的全局热键

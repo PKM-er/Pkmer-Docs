@@ -1,9 +1,9 @@
 ---
-uid: 20230803205046
+uid: 20230803213509
 title: Obsidian 插件：【Readme】Zotero Integration
 tags: ['obsidian插件', 'readme']
 description: 从 Zotero 插入和导入引文、参考文献、注释和PDF注释。
-author: mgmeyers
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-zotero-desktop-connector]] 插件的自述翻译
+
 
 
 ## Obsidian Zotero集成

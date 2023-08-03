@@ -1,9 +1,9 @@
 ---
-uid: 20230803203446
+uid: 20230803211940
 title: Obsidian 插件：【Readme】April's Automatic Timelines
 tags: ['obsidian插件', 'readme']
 description: 故事讲述者的简易时间线生成器
-author: April Gras
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[aprils-automatic-timelines]] 插件的自述翻译
+
 
 
 # 四月自动生成时间线

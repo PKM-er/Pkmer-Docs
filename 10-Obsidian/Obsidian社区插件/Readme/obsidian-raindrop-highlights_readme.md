@@ -1,9 +1,9 @@
 ---
-uid: 20230803204618
+uid: 20230803213108
 title: Obsidian 插件：【Readme】Raindrop Highlights
 tags: ['obsidian插件', 'readme']
 description: 同步你的Raindrop.io重点内容。
-author: kaiiiz
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-raindrop-highlights]] 插件的自述翻译
+
 
 
 # Obsidian Raindrop Highlights 插件（社区插件）

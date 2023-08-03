@@ -1,9 +1,9 @@
 ---
-uid: 20230803203622
+uid: 20230803212106
 title: Obsidian 插件：【Readme】Checklist Reset
 tags: ['obsidian插件', 'readme']
 description: 添加一个命令来重置文档中任何清单的状态
-author: Luke Hansford
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-checklist-reset]] 插件的自述翻译
+
 
 
 # Obsidian清单重置

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204758
+uid: 20230803213247
 title: Obsidian 插件：【Readme】Stack Overflow Answers
 tags: ['obsidian插件', 'readme']
 description: 直接将Stack Overflow答案复制粘贴到Obsidian中。
-author: bramses
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-stack-overflow]] 插件的自述翻译
+
 
 
 # 观看此视频以查看插件的实际效果（点击缩略图）

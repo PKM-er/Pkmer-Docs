@@ -1,9 +1,9 @@
 ---
-uid: 20230803205041
+uid: 20230803213503
 title: Obsidian 插件：【Readme】YouHaveBeenStaring
 tags: ['界面相关', '统计', '状态栏', '时间管理', 'obsidian插件', 'readme']
 description: 告诉你用了多久 Obsidian 了
-author: Felix Almer
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[youhavebeenstaring-plugin]] 插件的自述翻译
+
 
 
 # Obsidian插件 *YouHaveBeenStaring*

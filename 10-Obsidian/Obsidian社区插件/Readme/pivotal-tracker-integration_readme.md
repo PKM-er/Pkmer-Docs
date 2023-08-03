@@ -1,9 +1,9 @@
 ---
-uid: 20230803204541
+uid: 20230803213022
 title: Obsidian 插件：【Readme】Pivotal Tracker Integration
 tags: ['obsidian插件', 'readme']
 description: 从Pivotal Tracker中提取故事、错误和任务。
-author: jondeates
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[pivotal-tracker-integration]] 插件的自述翻译
+
 
 
 # Obsidian Pivotal Tracker 集成插件

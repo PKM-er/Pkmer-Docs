@@ -1,9 +1,9 @@
 ---
-uid: 20230803203423
+uid: 20230803211925
 title: Obsidian 插件：【Readme】AI Notes Summary
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI生成对参考笔记的摘要。
-author: R. Ian Bull (irbull)
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ai-summary]] 插件的自述翻译
+
 
 
 # Obsidian AI Summary 插件

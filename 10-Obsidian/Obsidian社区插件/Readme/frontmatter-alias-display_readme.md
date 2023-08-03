@@ -1,9 +1,9 @@
 ---
-uid: 20230803204027
+uid: 20230803212435
 title: Obsidian 插件：【Readme】Frontmatter Alias Display
 tags: ['obsidian插件', 'readme']
 description: 在文件资源管理器中，将前置元数据别名显示为显示名称。
-author: muhammadv-i
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[frontmatter-alias-display]] 插件的自述翻译
+
 
 
 # 前言别名显示

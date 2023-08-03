@@ -1,9 +1,9 @@
 ---
-uid: 20230803204550
+uid: 20230803213034
 title: Obsidian 插件：【Readme】PodNotes
 tags: ['obsidian插件', 'readme']
 description: 轻松记录播客节目。
-author: Christian B. B. Houmann
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[podnotes]] 插件的自述翻译
+
 
 
 # [PodNotes](https://chhoumann.github.io/PodNotes)

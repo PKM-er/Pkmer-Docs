@@ -1,9 +1,9 @@
 ---
-uid: 20230803203524
+uid: 20230803212014
 title: Obsidian 插件：【Readme】Background Image
 tags: ['obsidian插件', 'readme']
 description: 这允许您将远程URL指定为背景图像，并进行一些设置以调整体验。
-author: shmolf
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[background-image]] 插件的自述翻译
+
 
 
 # Obsidian编辑器背景插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203642
+uid: 20230803212130
 title: Obsidian 插件：【Readme】Code Preview
 tags: ['obsidian插件', 'readme']
 description: 文件路径预览代码块
-author: Hank
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-code-preview]] 插件的自述翻译
+
 
 
 # Obsidian代码预览插件

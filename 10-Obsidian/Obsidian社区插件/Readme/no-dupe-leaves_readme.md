@@ -1,9 +1,9 @@
 ---
-uid: 20230803204357
+uid: 20230803212821
 title: Obsidian 插件：【Readme】No Dupe Leaves
 tags: ['obsidian插件', 'readme']
 description: 不要重新打开已经打开的笔记
-author: Simon Cambier
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[no-dupe-leaves]] 插件的自述翻译
+
 
 
 # Obsidian“无重复叶子”插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203717
+uid: 20230803212208
 title: Obsidian 插件：【Readme】Crossbow
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中查找反向链接
-author: shoedler
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[crossbow]] 插件的自述翻译
+
 
 
 # 🏹 十字弓

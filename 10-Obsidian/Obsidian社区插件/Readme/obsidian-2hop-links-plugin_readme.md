@@ -1,9 +1,9 @@
 ---
-uid: 20230803203343
+uid: 20230803211858
 title: Obsidian 插件：【Readme】2Hop Links Plugin
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这个插件将显示前面2跳链接的页面。
-author: Tokuhiro Matsuno
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-2hop-links-plugin]] 插件的自述翻译
+
 
 
 # Obsidian 2Hop Links 插件

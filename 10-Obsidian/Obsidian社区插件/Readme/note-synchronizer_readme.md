@@ -1,9 +1,9 @@
 ---
-uid: 20230803204406
+uid: 20230803212830
 title: Obsidian 插件：【Readme】Note Synchronizer
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，用于将Obsidian笔记与Anki等基于笔记的软件同步，更严格地遵循Zettelkasten的原则，并将每个Obsidian文件视为一个笔记。
-author: Songchen Tan
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[note-synchronizer]] 插件的自述翻译
+
 
 
 # Obsidian Anki 同步器

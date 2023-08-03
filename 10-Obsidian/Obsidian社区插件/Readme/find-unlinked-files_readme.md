@@ -1,9 +1,9 @@
 ---
-uid: 20230803204001
+uid: 20230803212413
 title: Obsidian 插件：【Readme】Find orphaned files and broken links
 tags: ['链接处理', '效率', 'obsidian插件', 'readme']
 description: 找到孤立的文件(没有引用的文件) 和 损坏的链接
-author: Vinzent
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[find-unlinked-files]] 插件的自述翻译
+
 
 
 # 查找孤立的文件（没有反向链接的文件）和损坏的链接

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204712
+uid: 20230803213159
 title: Obsidian 插件：【Readme】Search Obsidian in Google
 tags: ['obsidian插件', 'readme']
 description: 一个简单的插件，用于在Google（或其他搜索引擎）中搜索当前的笔记。
-author: YuNing Chen
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[search-obsidian-in-google]] 插件的自述翻译
+
 
 
 # 在Google中搜索Obsidian

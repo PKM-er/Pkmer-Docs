@@ -1,9 +1,9 @@
 ---
-uid: 20230803203502
+uid: 20230803211954
 title: Obsidian 插件：【Readme】Auto Front Matter
 tags: ['obsidian插件', 'readme']
 description: 自动更新前置事项
-author: conorzhong
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[auto-front-matter]] 插件的自述翻译
+
 
 
 # Obsidian自动添加Front Matter

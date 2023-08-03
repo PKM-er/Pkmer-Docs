@@ -1,9 +1,9 @@
 ---
-uid: 20230803203610
+uid: 20230803212055
 title: Obsidian 插件：【Readme】Canvas Random Note
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: 从你的保险库中添加随机笔记到Obsidian画布上
-author: jmilldotdev
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[canvas-randomnote]] 插件的自述翻译
+
 
 
 # Obsidian画布随机笔记

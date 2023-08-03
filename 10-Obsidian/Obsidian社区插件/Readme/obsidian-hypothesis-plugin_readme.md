@@ -1,9 +1,9 @@
 ---
-uid: 20230803204130
+uid: 20230803212545
 title: Obsidian 插件：【Readme】Hypothes.is
 tags: ['obsidian插件', 'readme']
 description: and notes同步您的假设重点和笔记
-author: weichenw
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ and notes同步您的假设重点和笔记
 下面是 [[obsidian-hypothesis-plugin]] 插件的自述翻译
 
 
+
 ## Obsidian Hypothesis 插件（社区插件）
 
 Obsidian Hypothesis（社区插件）是一个非官方插件，用于将[Hypothesis](https://hypothes.is/)的**网页**文章的高亮/注释同步到你的 Obsidian Vault 中。
@@ -70,9 +71,14 @@ Obsidian Hypothesis（社区插件）是一个非官方插件，用于将[Hypoth
 
 ### 同步自上次更新以来的所有新的亮点
 
+
+
 - 点击：Hypothesis功能区图标
+
 - 命令：同步新的亮点
+
 - 命令：重新同步已删除的文件
+
   >（注意：在v0.1.5之前同步的文件需要重置同步历史并删除所有同步的文件，以使此功能正常工作）
 
 ## 限制和注意事项

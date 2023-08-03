@@ -1,9 +1,9 @@
 ---
-uid: 20230803204959
+uid: 20230803213416
 title: Obsidian 插件：【Readme】User Plugins
 tags: ['插件', '效率', 'obsidian插件', 'readme']
 description: 用 JS 文件或片段来快速编写一个插件。注意此插件仅适用高级用户，在笔记中插入你不熟悉的JS会引发很多问题。
-author: mnowotnik
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-user-plugins]] 插件的自述翻译
+
 
 
 # Obsidian的用户插件

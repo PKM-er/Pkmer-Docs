@@ -1,9 +1,9 @@
 ---
-uid: 20230803204851
+uid: 20230803213324
 title: Obsidian 插件：【Readme】Text expand
 tags: ['obsidian插件', 'readme']
 description: 搜索并粘贴/引用找到的文件链接
-author: MrJackphil
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[mrj-text-expand]] 插件的自述翻译
+
 
 
 # 文本扩展

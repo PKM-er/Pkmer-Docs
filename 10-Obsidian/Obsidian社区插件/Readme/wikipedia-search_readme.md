@@ -1,9 +1,9 @@
 ---
-uid: 20230803205026
+uid: 20230803213445
 title: Obsidian 插件：【Readme】Wikipedia Search
 tags: ['obsidian插件', 'readme']
 description: 搜索维基百科文章并链接它们。
-author: StrangeGirlMurph
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[wikipedia-search]] 插件的自述翻译
+
 
 
 # Obsidian Wikipedia 搜索插件

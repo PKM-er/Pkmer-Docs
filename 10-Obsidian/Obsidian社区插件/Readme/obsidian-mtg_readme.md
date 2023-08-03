@@ -1,9 +1,9 @@
 ---
-uid: 20230803204435
+uid: 20230803212901
 title: Obsidian 插件：【Readme】Obsidian MtG
 tags: ['obsidian插件', 'readme']
 description: 一个用于管理《魔法风云会》套牌和卡牌列表的Obsidian插件
-author: omardelarosa
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-mtg]] 插件的自述翻译
+
 
 
 # Obsidian MtG 插件

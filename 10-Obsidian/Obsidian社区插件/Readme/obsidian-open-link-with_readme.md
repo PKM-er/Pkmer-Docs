@@ -1,9 +1,9 @@
 ---
-uid: 20230803204506
+uid: 20230803212939
 title: Obsidian 插件：【Readme】Open Link With
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 在 Obsidian 中可以选择外部链接用什么浏览器打开。
-author: MamoruDS
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-open-link-with]] 插件的自述翻译
+
 
 
 # obsidian-open-link-with

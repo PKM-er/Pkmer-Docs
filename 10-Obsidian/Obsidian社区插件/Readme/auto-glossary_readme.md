@@ -1,9 +1,9 @@
 ---
-uid: 20230803203503
+uid: 20230803211955
 title: Obsidian 插件：【Readme】Auto Glossary
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中自动创建文件的词汇表、文件索引或两者都创建。
-author: Ennio Italiano
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[auto-glossary]] 插件的自述翻译
+
 
 
 # 黑曜石自动术语表

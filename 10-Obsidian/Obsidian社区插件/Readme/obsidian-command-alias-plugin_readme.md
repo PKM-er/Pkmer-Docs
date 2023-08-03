@@ -1,9 +1,9 @@
 ---
-uid: 20230803203649
+uid: 20230803212136
 title: Obsidian 插件：【Readme】Command Alias
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 这个插件为Obsidian命令提供了别名。
-author: @Yajamon
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-command-alias-plugin]] 插件的自述翻译
+
 
 
 Obsidian命令别名插件

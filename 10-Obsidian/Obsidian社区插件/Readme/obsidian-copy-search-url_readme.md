@@ -1,9 +1,9 @@
 ---
-uid: 20230803203712
+uid: 20230803212203
 title: Obsidian 插件：【Readme】Copy Search URL
 tags: ['obsidian插件', 'readme']
 description: 在搜索视图中添加一个按钮，用于复制Obsidian搜索URL。
-author: Carlo Zottmann
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-copy-search-url]] 插件的自述翻译
+
 
 
 <img src="https://raw.githubusercontent.com/czottmann/obsidian-copy-search-url/main/readme-assets/copy-search-url-256.png" height="128" alt="插件标志物：一个列表图标，一个加号，一个链接图标">

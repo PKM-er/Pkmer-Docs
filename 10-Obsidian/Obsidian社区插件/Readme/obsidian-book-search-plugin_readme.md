@@ -1,9 +1,9 @@
 ---
-uid: 20230803203547
+uid: 20230803212034
 title: Obsidian 插件：【Readme】Book Search
 tags: ['obsidian插件', 'readme']
 description: 帮助你找书并创建笔记。
-author: anpigon
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-book-search-plugin]] 插件的自述翻译
+
 
 
 # Obsidian图书搜索插件
@@ -141,21 +142,37 @@ https://user-images.githubusercontent.com/3969643/184918274-8ad24546-2e01-4288-a
 请在下面找到此模板中使用的变量的定义（参见：[模板变量定义](#template-variables-definitions)）。
 
 ```
----
-tag: 📚书籍
-title: "{{title}}"
-author: [{{author}}]
-publisher: {{publisher}}
-publish: {{publishDate}}
-total: {{totalPage}}
-isbn: {{isbn10}} {{isbn13}}
-cover: {{coverUrl}}
-status: 未读
-created: {{DATE:YYYY-MM-DD HH:mm:ss}}
-updated: {{DATE:YYYY-MM-DD HH:mm:ss}}
+
 ---
 
+tag: 📚书籍
+
+title: "{{title}}"
+
+author: [{{author}}]
+
+publisher: {{publisher}}
+
+publish: {{publishDate}}
+
+total: {{totalPage}}
+
+isbn: {{isbn10}} {{isbn13}}
+
+cover: {{coverUrl}}
+
+status: 未读
+
+created: {{DATE:YYYY-MM-DD HH:mm:ss}}
+
+updated: {{DATE:YYYY-MM-DD HH:mm:ss}}
+
+---
+
+
+
 ![cover|150]({{coverUrl}})
+
 ```
 
 # {{title}}
@@ -220,27 +237,41 @@ SORT status DESC, file.ctime ASC
 #### 打印出一个书籍对象：
 
 ````
+
 ```json
+
 <%=book%>
+
 ```
+
 ````
 
 或者
 
 ````
+
 ```json
+
 <%=JSON.stringify(book, null, 2)%>
+
 ```
+
 ````
 
 #### 当你想要列出或链接作者时：
 
 ```
----
-authors: <%=book.authors.map(author=>`\n  - ${author}`).join('')%>
+
 ---
 
+authors: <%=book.authors.map(author=>`\n  - ${author}`).join('')%>
+
+---
+
+
+
 authors: <%=book.authors.map(author => `[[${author}]]`).join(', ')%>
+
 ```
 
 ## 许可证

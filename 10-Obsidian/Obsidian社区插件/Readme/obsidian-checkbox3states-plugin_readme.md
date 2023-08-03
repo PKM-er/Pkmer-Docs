@@ -1,9 +1,9 @@
 ---
-uid: 20230803203621
+uid: 20230803212105
 title: Obsidian 插件：【Readme】Checkbox 3 states
 tags: ['obsidian插件', 'readme']
 description: 复选框列表的第三种状态。
-author: Renaud Héluin @ NovaGaïa
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-checkbox3states-plugin]] 插件的自述翻译
+
 
 
 # 复选框三态插件

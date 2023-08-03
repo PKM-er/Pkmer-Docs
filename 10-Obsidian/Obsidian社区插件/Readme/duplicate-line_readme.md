@@ -1,9 +1,9 @@
 ---
-uid: 20230803203813
+uid: 20230803212306
 title: Obsidian 插件：【Readme】Duplicate Line
 tags: ['obsidian插件', 'readme']
 description: 复制一行
-author: 1C0D
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[duplicate-line]] 插件的自述翻译
+
 
 
 # 复制行（s）

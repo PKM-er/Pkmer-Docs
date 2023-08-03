@@ -1,9 +1,9 @@
 ---
-uid: 20230803203936
+uid: 20230803212350
 title: Obsidian 插件：【Readme】Extract url content
 tags: ['链接处理', '转换工具', 'obsidian插件', 'readme']
 description: 将URL提取内容转换为Markdown
-author: Stephen Solka
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[extract-url]] 插件的自述翻译
+
 
 
 # Obsidian插件：将URL转换为markdown格式

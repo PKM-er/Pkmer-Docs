@@ -1,9 +1,9 @@
 ---
-uid: 20230803204731
+uid: 20230803213222
 title: Obsidian 插件：【Readme】Sidebar Toggler
 tags: ['obsidian插件', 'readme']
 description: 黑曜石侧边栏的更精细的控制。用于外部窗口管理器。
-author: pseudometa
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-sidebar-toggler]] 插件的自述翻译
 
 
+
 # 侧边栏切换器
 
 ![](https://img.shields.io/github/downloads/chrisgrieser/obsidian-sidebar-toggler/total?label=总下载量&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/obsidian-sidebar-toggler?label=最新版本&style=plastic) [![](https://img.shields.io/badge/更新日志-点击这里-FFE800?style=plastic)](Changelog.md)
@@ -45,13 +46,22 @@ modified: 20230101000000
 更精细地控制Obsidian的侧边栏。与外部窗口管理器一起使用。
 
 ## 插件的功能
+
 它添加了四个命令来切换侧边栏。与Obsidian的原生命令相反，原生命令只允许*切换*侧边栏，而你可以明确地确定是显示还是隐藏它们。
+
 - 隐藏左侧边栏
+
 - 隐藏右侧边栏
+
 - 显示左侧边栏
+
 - 显示右侧边栏
 
+
+
 此外，该插件为这些命令注册了URI方案。URI必须包含`showLeft`或`showRight`，并且两者只接受`true`和`false`作为有效输入。你也可以同时包含两者以一次性影响两个侧边栏。
+
+
 
 ```text
 

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204604
+uid: 20230803213052
 title: Obsidian 插件：【Readme】qmd as md
 tags: ['obsidian插件', 'readme']
 description: 该插件提供了初步支持查看具有.qmd扩展名的文件。QMD文件包含markdown和可执行代码单元的组合，是Quarto开源出版系统支持的格式。
-author: Daniel Borek
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[qmd-as-md-obsidian]] 插件的自述翻译
+
 
 
 # qmd as md Obsidian插件

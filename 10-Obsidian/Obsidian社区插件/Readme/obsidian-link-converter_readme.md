@@ -1,9 +1,9 @@
 ---
-uid: 20230803204430
+uid: 20230803212856
 title: Obsidian 插件：【Readme】Obsidian Link Converter
 tags: ['obsidian插件', 'readme']
 description: 扫描保险库中的所有链接，并将其转换为您所需的格式。
-author: Ozan Tellioglu
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-link-converter]] 插件的自述翻译
+
 
 
 # Obsidian链接转换插件

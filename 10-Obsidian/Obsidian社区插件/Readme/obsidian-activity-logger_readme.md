@@ -1,9 +1,9 @@
 ---
-uid: 20230803203353
+uid: 20230803211906
 title: Obsidian 插件：【Readme】Activity Logger
 tags: ['文件历史', 'obsidian插件', 'readme']
 description: 记录你的活动，如创建笔记、修改笔记、删除笔记等等。该功能可能在1.0.0 之后的版本使用异常。
-author: Creling
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-activity-logger]] 插件的自述翻译
+
 
 
 <!--

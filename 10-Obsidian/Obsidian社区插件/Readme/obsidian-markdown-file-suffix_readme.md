@@ -1,9 +1,9 @@
 ---
-uid: 20230803203402
+uid: 20230803211910
 title: Obsidian 插件：【Readme】Addional Markdown suffix (.mdx/.svx).
 tags: ['obsidian插件', 'readme']
 description: 将.mdx / .svx等附加文件当做markdown文件使用。
-author: swissmation.com
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-markdown-file-suffix]] 插件的自述翻译
+
 
 
 # Obsidian中的附加Markdown文件后缀支持

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203647
+uid: 20230803212134
 title: Obsidian 插件：【Readme】Colorful Note Borders
 tags: ['obsidian插件', 'readme']
 description: 根据文件夹位置或前置元数据，为笔记添加可自定义的彩色边框，增强Obsidian中的视觉组织。
-author: rusi
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[colorful-note-borders]] 插件的自述翻译
+
 
 
 Obsidian的Colorful Note Borders插件旨在帮助您根据自定义规则在视觉上区分您的笔记。通过在笔记周围应用彩色边框，您可以根据它们的文件夹位置或特定的frontmatter元数据轻松识别和分类它们。

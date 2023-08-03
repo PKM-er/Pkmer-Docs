@@ -1,9 +1,9 @@
 ---
-uid: 20230803204415
+uid: 20230803212840
 title: Obsidian 插件：【Readme】Obsidian asciimath
 tags: ['obsidian插件', 'readme']
 description: 为Obsidian添加Asciimath支持。
-author: widcardw
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-asciimath]] 插件的自述翻译
+
 
 
 # Obsidian Asciimath

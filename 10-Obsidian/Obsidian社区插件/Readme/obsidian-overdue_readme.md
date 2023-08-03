@@ -1,9 +1,9 @@
 ---
-uid: 20230803204515
+uid: 20230803212951
 title: Obsidian 插件：【Readme】Overdue
 tags: ['任务管理', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 未在截止日期前完成的任务，会为你自动将任务其标记为[[逾期]]/[[OVERDUE]]
-author: Peter Parente
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,10 +38,16 @@ modified: 20230101000000
 下面是 [[obsidian-overdue]] 插件的自述翻译
 
 
+
 # Obsidian逾期插件
 
+
+
 如果您在截止日期之前没有勾选复选框项目，此插件将将其标记为`[[逾期]]`。
+
 例如，假设您有以下项目：
+
+
 
 ```markdown
 
@@ -52,11 +58,19 @@ modified: 20230101000000
 
 # 在另一个文件.md中
 
+
+
 - [x] 我完成的其他事情[[2020-01-02]]
+
 - [ ] 我忘记的其他事情[[2020-02-15]]
+
 ```
 
+
+
 当插件在2020年1月1日之后的任何时间运行时，它将进行以下更改：
+
+
 
 ```markdown
 

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204508
+uid: 20230803212942
 title: Obsidian 插件：【Readme】Open vault in VSCode
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: Ribbon按钮和命令以Visual Studio Code工作区打开保险库
-author: NomarCub
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Ribbon按钮和命令以Visual Studio Code工作区打开保险库
 ## Readme(翻译）
 
 下面是 [[open-vscode]] 插件的自述翻译
+
 
 
 # 在VSCode中打开

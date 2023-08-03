@@ -1,9 +1,9 @@
 ---
-uid: 20230803205001
+uid: 20230803213418
 title: Obsidian 插件：【Readme】Vantage - Advanced search builder
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 在 Obsidian 中构建高级查询命令
-author: ryanjamurphy
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[vantage-obsidian]] 插件的自述翻译
+
 
 
 Vantage - Obsidian的高级搜索构建器

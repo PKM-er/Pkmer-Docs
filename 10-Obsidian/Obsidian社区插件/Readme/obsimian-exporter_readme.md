@@ -1,9 +1,9 @@
 ---
-uid: 20230803204456
+uid: 20230803212927
 title: Obsidian 插件：【Readme】Obsimian
 tags: ['编程', 'obsidian插件', 'readme']
 description: Obsidian 模拟框架用于测试 Obsidian 插件，并输出插件相关的信息。
-author: Oliver Lade
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian 模拟框架用于测试 Obsidian 插件，并输出插件相关的信�
 ## Readme(翻译）
 
 下面是 [[obsimian-exporter]] 插件的自述翻译
+
 
 
 # Obsimian

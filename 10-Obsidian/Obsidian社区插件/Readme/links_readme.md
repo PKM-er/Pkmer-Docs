@@ -1,9 +1,9 @@
 ---
-uid: 20230803204242
+uid: 20230803212704
 title: Obsidian 插件：【Readme】Links
 tags: ['obsidian插件', 'readme']
 description: 操作链接
-author: MiiKey
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[links]] 插件的自述翻译
+
 
 
 # Obsidian链接 <!-- 在目录中省略 -->

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204742
+uid: 20230803213234
 title: Obsidian 插件：【Readme】Smart Links
 tags: ['obsidian插件', 'readme']
 description: 可定制字符串的自动链接
-author: David Lynch
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-smart-links]] 插件的自述翻译
+
 
 
 # Obsidian智能链接

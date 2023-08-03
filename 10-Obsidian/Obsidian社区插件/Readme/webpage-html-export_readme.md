@@ -1,9 +1,9 @@
 ---
-uid: 20230803205019
+uid: 20230803213437
 title: Obsidian 插件：【Readme】Webpage HTML Export
 tags: ['obsidian插件', 'readme']
 description: 将文档、文件夹或库导出成 HTML 文件，有黑白主题以及大纲目录。
-author: Nathan George
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[webpage-html-export]] 插件的自述翻译
+
 
 
 # 网页 HTML 导出

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204553
+uid: 20230803213037
 title: Obsidian 插件：【Readme】Prettier Format
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 对您的笔记进行主观格式化。
-author: Andrew Lisowski
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-plugin-prettier]] 插件的自述翻译
+
 
 
 # obsidian-plugin-prettier

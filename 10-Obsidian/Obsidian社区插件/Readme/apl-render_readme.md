@@ -1,9 +1,9 @@
 ---
-uid: 20230803203442
+uid: 20230803211936
 title: Obsidian 插件：【Readme】APL Render
 tags: ['obsidian插件', 'readme']
 description: 渲染APL语法
-author: my99n
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[apl-render]] 插件的自述翻译
+
 
 
 # obsidian的APL代码

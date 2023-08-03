@@ -1,9 +1,9 @@
 ---
-uid: 20230803203557
+uid: 20230803212042
 title: Obsidian 插件：【Readme】Bulk Rename
 tags: ['obsidian插件', 'readme']
 description: 现在，您可以根据模式重命名文件
-author: Oleg Lustenko
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-bulk-rename-plugin]] 插件的自述翻译
+
 
 
 # Obsidian批量重命名插件

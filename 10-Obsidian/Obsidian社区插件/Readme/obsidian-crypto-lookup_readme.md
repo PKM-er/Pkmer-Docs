@@ -1,9 +1,9 @@
 ---
-uid: 20230803203719
+uid: 20230803212210
 title: Obsidian 插件：【Readme】Crypto Lookup
 tags: ['obsidian插件', 'readme']
 description: .Obsidian的一个插件，使用Cryptonator API以目标货币拉回加密货币的价格。
-author: Andrew Lombardi
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-crypto-lookup]] 插件的自述翻译
+
 
 
 Obsidian的加密货币查询

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204922
+uid: 20230803213345
 title: Obsidian 插件：【Readme】Todoist completed tasks
 tags: ['obsidian插件', 'readme']
 description: 将已完成的Todoist任务添加到Obsidian笔记中
-author: Andrey Kulishov
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[todoist-completed-tasks-plugin]] 插件的自述翻译
+
 
 
 # Todoist已完成任务 - Obsidian插件

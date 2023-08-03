@@ -1,9 +1,9 @@
 ---
-uid: 20230803203957
+uid: 20230803212409
 title: Obsidian 插件：【Readme】Filename Emoji Remover
 tags: ['界面相关', '笔记文件处理', 'obsidian插件', 'readme']
 description: 可以自动将笔记文件名中的表情符号删除。
-author: Yüksel Tolun
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-filename-emoji-remover]] 插件的自述翻译
+
 
 
 # Obsidian文件名表情符号移除插件

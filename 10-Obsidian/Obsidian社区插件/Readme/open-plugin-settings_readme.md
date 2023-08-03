@@ -1,9 +1,9 @@
 ---
-uid: 20230803204507
+uid: 20230803212940
 title: Obsidian 插件：【Readme】Open Plugin Settings
 tags: ['obsidian插件', 'readme']
 description: 创建一个命令来打开指定的插件设置。
-author: Mara-Li
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[open-plugin-settings]] 插件的自述翻译
+
 
 
 打开插件设置

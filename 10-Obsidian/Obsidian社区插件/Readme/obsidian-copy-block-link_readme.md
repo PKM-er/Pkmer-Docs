@@ -1,9 +1,9 @@
 ---
-uid: 20230803203709
+uid: 20230803212159
 title: Obsidian 插件：【Readme】Copy Block Link
 tags: ['编辑工具', '链接处理', 'obsidian插件', 'readme']
 description: 为 块 和 标题增加右键复制菜单，可以复制对应的链接。方便你快速活取正确的链接。
-author: mgmeyers
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-copy-block-link]] 插件的自述翻译
+
 
 
 ## Obsidian复制块链接

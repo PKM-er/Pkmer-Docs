@@ -1,9 +1,9 @@
 ---
-uid: 20230803204255
+uid: 20230803212717
 title: Obsidian 插件：【Readme】Loom
 tags: ['obsidian插件', 'readme']
 description: 黑曜石中的织布机
-author: celeste
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[loom]] 插件的自述翻译
+
 
 
 织布机（四点）

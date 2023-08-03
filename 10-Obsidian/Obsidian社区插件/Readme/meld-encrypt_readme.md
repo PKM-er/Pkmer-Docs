@@ -1,9 +1,9 @@
 ---
-uid: 20230803204326
+uid: 20230803212749
 title: Obsidian 插件：【Readme】Meld Encrypt
 tags: ['安全', 'obsidian插件', 'readme']
 description: 为你的笔记提供加密功能。加密的笔记永远不会被解密到磁盘（除非您使用就地解密功能）。
-author: meld-cp
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[meld-encrypt]] 插件的自述翻译
+
 
 
 # Obsidian加密插件

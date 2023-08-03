@@ -1,9 +1,9 @@
 ---
-uid: 20230803204139
+uid: 20230803212556
 title: Obsidian 插件：【Readme】Image Layouts
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加美丽的图像布局
-author: Luke Chadwick
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-image-layouts]] 插件的自述翻译
+
 
 
 # Obsidian 图片布局

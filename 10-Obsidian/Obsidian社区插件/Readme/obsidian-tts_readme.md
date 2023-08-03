@@ -1,9 +1,9 @@
 ---
-uid: 20230803204858
+uid: 20230803213329
 title: Obsidian 插件：【Readme】Text to Speech
 tags: ['效率', '第三方工具集成', '转换工具', 'obsidian插件', 'readme']
 description: Obsidian 的语音合成功能。听取您的笔记。
-author: Johannes Theiner
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian 的语音合成功能。听取您的笔记。
 ## Readme(翻译）
 
 下面是 [[obsidian-tts]] 插件的自述翻译
+
 
 
 # 🗣️文本转语音

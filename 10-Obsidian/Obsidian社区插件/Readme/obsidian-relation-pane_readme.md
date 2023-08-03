@@ -1,9 +1,9 @@
 ---
-uid: 20230803204639
+uid: 20230803213128
 title: Obsidian 插件：【Readme】Relation Pane
 tags: ['obsidian插件', 'readme']
 description: 显示一个总结笔记之间关系的面板。
-author: mottox2
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-relation-pane]] 插件的自述翻译
+
 
 
 # Obsidian关系面板

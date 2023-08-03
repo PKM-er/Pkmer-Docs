@@ -1,9 +1,9 @@
 ---
-uid: 20230803204021
+uid: 20230803212429
 title: Obsidian 插件：【Readme】Footnote Shortcut
 tags: ['编辑工具', '快捷键', '效率', 'obsidian插件', 'readme']
 description: 方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
-author: Alexis Rondeau, Micha Brugger
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-footnotes]] 插件的自述翻译
+
 
 
 # Obsidian脚注插件

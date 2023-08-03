@@ -1,9 +1,9 @@
 ---
-uid: 20230803203955
+uid: 20230803212407
 title: Obsidian 插件：【Readme】File Publisher
 tags: ['obsidian插件', 'readme']
 description: 将文件发布到给定的POST api。
-author: Devin Sackett
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[file-publisher]] 插件的自述翻译
+
 
 
 # Obsidian文件发布器

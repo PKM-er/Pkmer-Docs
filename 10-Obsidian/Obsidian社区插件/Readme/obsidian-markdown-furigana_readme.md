@@ -1,9 +1,9 @@
 ---
-uid: 20230803204307
+uid: 20230803212729
 title: Obsidian 插件：【Readme】Markdown Furigana
 tags: ['图表生成', '日语相关', 'obsidian插件', 'readme']
 description: Obsidian的简单Markdown到ふりがな渲染插件。
-author: Steven Kraft
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian的简单Markdown到ふりがな渲染插件。
 ## Readme(翻译）
 
 下面是 [[obsidian-markdown-furigana]] 插件的自述翻译
+
 
 
 ## Markdown Furigana 插件（Obsidian）

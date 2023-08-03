@@ -1,9 +1,9 @@
 ---
-uid: 20230803204256
+uid: 20230803212718
 title: Obsidian 插件：【Readme】Luhman
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 处理具有Luhman式ID作为文件名的Zettelkasten的命令
-author: Dylan Elliott
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[luhman]] 插件的自述翻译
+
 
 
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22luhman%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204459
+uid: 20230803212931
 title: Obsidian 插件：【Readme】Omnivore
 tags: ['obsidian插件', 'readme']
 description: 这是Obsidian的Omnivore插件。
-author: Omnivore
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-omnivore]] 插件的自述翻译
+
 
 
 这个插件将你保存的[Omnivore](https://omnivore.app/)文章和高亮导入到Obsidian中。

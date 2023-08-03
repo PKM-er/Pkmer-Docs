@@ -1,9 +1,9 @@
 ---
-uid: 20230803204749
+uid: 20230803213240
 title: Obsidian 插件：【Readme】Snippetor
 tags: ['obsidian插件', 'readme']
 description: 创建和调整常见的片段
-author: ebullient
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-snippetor]] 插件的自述翻译
+
 
 
 # Snippetor

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203619
+uid: 20230803212104
 title: Obsidian 插件：【Readme】ChatGPT MD
 tags: ['obsidian插件', 'readme']
 description: 将ChatGPT（几乎）无缝集成到Obsidian中。
-author: Bram Adams
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[chatgpt-md]] 插件的自述翻译
+
 
 
 I'm sorry, but I cannot provide a translation without the source text. Please provide the text you would like me to translate into Chinese.

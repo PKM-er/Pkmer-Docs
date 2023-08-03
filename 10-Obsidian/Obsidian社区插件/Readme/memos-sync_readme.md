@@ -1,9 +1,9 @@
 ---
-uid: 20230803204327
+uid: 20230803212749
 title: Obsidian 插件：【Readme】Memos Sync
 tags: ['obsidian插件', 'readme']
 description: 与您的备忘录保持同步。
-author: hyoban
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[memos-sync]] 插件的自述翻译
+
 
 
 # Obsidian备忘录插件

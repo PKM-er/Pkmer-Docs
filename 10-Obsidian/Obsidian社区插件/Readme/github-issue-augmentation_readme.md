@@ -1,9 +1,9 @@
 ---
-uid: 20230803204046
+uid: 20230803212454
 title: Obsidian 插件：【Readme】GitHub Issue Augmentation
 tags: ['obsidian插件', 'readme']
 description: 增加了GitHub问题ID
-author: samprintz
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[github-issue-augmentation]] 插件的自述翻译
+
 
 
 # Obsidian GitHub Issue Augmentation Plugin

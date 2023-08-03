@@ -1,9 +1,9 @@
 ---
-uid: 20230803204955
+uid: 20230803213411
 title: Obsidian 插件：【Readme】Upcoming
 tags: ['obsidian插件', 'readme']
 description: 可以快速查看即将来的每日笔记。
-author: Charlie Chao
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-upcoming]] 插件的自述翻译
+
 
 
 # Obsidian Upcoming

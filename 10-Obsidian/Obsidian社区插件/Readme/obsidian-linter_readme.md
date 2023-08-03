@@ -1,9 +1,9 @@
 ---
-uid: 20230803204243
+uid: 20230803212705
 title: Obsidian 插件：【Readme】Linter
 tags: ['样式工具', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 格式化和样式化你的笔记。它可用于格式化YAML标签、别名、数组和元数据；脚注；标题；间距；数学块；常规markdown内容，如列表、斜体和粗体样式；以及更多使用自定义规则选项。
-author: Victor Tao
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-linter]] 插件的自述翻译
+
 
 
 <!--- 此文件是自动生成的。请参阅 docs.ts 和 *_template.md 文件以获取源代码。 -->

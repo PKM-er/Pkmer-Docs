@@ -1,9 +1,9 @@
 ---
-uid: 20230803204720
+uid: 20230803213209
 title: Obsidian 插件：【Readme】Settings Search
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian.md中全局搜索设置
-author: Jeremy Valentine
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[settings-search]] 插件的自述翻译
+
 
 
 ## 设置搜索

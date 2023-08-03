@@ -1,9 +1,9 @@
 ---
-uid: 20230803204257
+uid: 20230803212718
 title: Obsidian 插件：【Readme】Lumberjack 🪓 🪵
 tags: ['obsidian插件', 'readme']
 description: 记录你的想法！Lumberjack添加了URL命令，帮助你消除低效率，直接开始写作。
-author: ryanjamurphy
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[lumberjack-obsidian]] 插件的自述翻译
 
 
+
 Lumberjack 🪓 🪵
 
 Lumberjack可以帮助您快速从任何地方跳转到Obsidian中记录新内容。它的日志命令可以在应用程序内部使用，以在您的每日笔记末尾创建一个带有预设前缀的新行，并确保您处于编辑模式，这样您就可以迅速记录下心中所想，然后继续您正在做的事情。
@@ -47,6 +48,7 @@ Lumberjack可以帮助您快速从任何地方跳转到Obsidian中记录新内�
 ### 演示视频：
 
 #### 日志
+
 <img src="https://user-images.githubusercontent.com/3618647/136626863-e4bb5fd0-e6d8-4341-aee4-d2a6359cc912.MP4" style="width: 24em;" alt="通过快捷方式在iOS上演示Lumberjack日志URL方案">
 
 #### 木材

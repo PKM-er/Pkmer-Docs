@@ -1,9 +1,9 @@
 ---
-uid: 20230803204232
+uid: 20230803212652
 title: Obsidian 插件：【Readme】Link Archive
 tags: ['obsidian插件', 'readme']
 description: 这个插件会把你笔记中的链接归档，这样即使原网站关闭或者被移除，你也可以访问到它们。
-author: Tamás Deme
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-link-archive]] 插件的自述翻译
+
 
 
 # Obsidian链接存档

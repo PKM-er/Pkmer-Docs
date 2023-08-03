@@ -1,9 +1,9 @@
 ---
-uid: 20230803205022
+uid: 20230803213441
 title: Obsidian 插件：【Readme】Whisper
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI Whisper进行语音转文本。
-author: Nik Danilov
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[whisper]] 插件的自述翻译
+
 
 
 使用OpenAI Whisper在Obsidian中进行语音转文本🗣️📝

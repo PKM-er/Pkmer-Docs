@@ -1,9 +1,9 @@
 ---
-uid: 20230803204701
+uid: 20230803213149
 title: Obsidian 插件：【Readme】S3 Image Uploader
 tags: ['obsidian插件', 'readme']
 description: 一款为Obsidian设计的图像上传器，可以让您在AWS S3上自行托管图像。
-author: jvsteiner
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[s3-image-uploader]] 插件的自述翻译
+
 
 
 # S3 图片上传器

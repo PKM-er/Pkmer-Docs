@@ -1,9 +1,9 @@
 ---
-uid: 20230803204223
+uid: 20230803212644
 title: Obsidian 插件：【Readme】LaTeX Algorithms
 tags: ['obsidian插件', 'readme']
 description: 在LaTeX中编写算法块的插件
-author: SamZhang02
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[latex-algorithms]] 插件的自述翻译
+
 
 
 # Obsidian中的LaTeX算法

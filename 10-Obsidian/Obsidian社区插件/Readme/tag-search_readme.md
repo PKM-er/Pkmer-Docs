@@ -1,9 +1,9 @@
 ---
-uid: 20230803204830
+uid: 20230803213309
 title: Obsidian 插件：【Readme】Tag Search
 tags: ['搜索/排序', '标签', 'obsidian插件', 'readme']
 description: 提供一个标签模糊搜索的功能，需要你使用命令面板来使用它。该功能只会返回标签的结果。
-author: R. W. Blickhan
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tag-search]] 插件的自述翻译
+
 
 
 # Obsidian标签搜索

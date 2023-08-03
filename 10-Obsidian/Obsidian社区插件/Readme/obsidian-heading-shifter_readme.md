@@ -1,9 +1,9 @@
 ---
-uid: 20230803204110
+uid: 20230803212521
 title: Obsidian 插件：【Readme】Heading Shifter
 tags: ['obsidian插件', 'readme']
 description: 轻松调整和更改 Markdown 标题。
-author: kasahala
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-heading-shifter]] 插件的自述翻译
+
 
 
 # Obsidian标题转换器

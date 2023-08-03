@@ -1,9 +1,9 @@
 ---
-uid: 20230803204302
+uid: 20230803212723
 title: Obsidian 插件：【Readme】Mark and Select
 tags: ['obsidian插件', 'readme']
 description: 允许用户设置标记，自由移动光标并从标记位置到光标位置进行选择。
-author: anselmwang
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-mark-and-select]] 插件的自述翻译
+
 
 
 # 标记和选择

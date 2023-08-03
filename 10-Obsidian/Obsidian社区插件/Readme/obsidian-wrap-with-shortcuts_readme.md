@@ -1,9 +1,9 @@
 ---
-uid: 20230803205036
+uid: 20230803213458
 title: Obsidian 插件：【Readme】Wrap with shortcuts
 tags: ['obsidian插件', 'readme']
 description: 将所选文本用快捷键来快速添加固定标签。例如：下划线、下标、ルビ（ふりがな）
-author: Manic Chuang
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-wrap-with-shortcuts]] 插件的自述翻译
+
 
 
 ## 使用快捷键将Obsidian中的文本包裹起来

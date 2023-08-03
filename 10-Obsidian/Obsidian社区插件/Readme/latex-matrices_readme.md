@@ -1,9 +1,9 @@
 ---
-uid: 20230803204225
+uid: 20230803212646
 title: Obsidian 插件：【Readme】Latex Matrices
 tags: ['obsidian插件', 'readme']
 description: 加快LaTeX矩阵的编写速度。
-author: Daniele Susino
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[latex-matrices]] 插件的自述翻译
+
 
 
 # 黑曜石LaTeX矩阵

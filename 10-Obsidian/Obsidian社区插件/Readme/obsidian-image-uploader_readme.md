@@ -1,9 +1,9 @@
 ---
-uid: 20230803204144
+uid: 20230803212600
 title: Obsidian 插件：【Readme】Image Uploader
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 这个插件可以在粘贴时自动将剪贴板中的图像上传到任何图像托管。
-author: Creling
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-image-uploader]] 插件的自述翻译
+
 
 
 # Obsidian 图片上传器

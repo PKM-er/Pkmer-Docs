@@ -1,9 +1,9 @@
 ---
-uid: 20230803204524
+uid: 20230803213001
 title: Obsidian 插件：【Readme】PARA Shortcuts
 tags: ['obsidian插件', 'readme']
 description: 这个插件提供有用的命令来使用PARA方法设置和管理您的知识。
-author: gOAT
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,7 +38,10 @@ modified: 20230101000000
 下面是 [[para-shortcuts]] 插件的自述翻译
 
 
+
 # para-shortcuts
+
+
 
 该插件提供了一些有用的命令，以使用PARA方法来设置和管理您的知识。
 
@@ -67,7 +70,9 @@ PARA文件夹结构的简要总结：
 - [推迟一个条目](postpone-an-entry)
 
 ### 初始化 Vault
+
 Para 遵循简单的文件夹结构来组织您的知识。
+
 此命令将在 Vault 的根目录中相应地创建文件夹。
 
 ### 创建新条目

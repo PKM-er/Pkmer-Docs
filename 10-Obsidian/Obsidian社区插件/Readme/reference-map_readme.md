@@ -1,9 +1,9 @@
 ---
-uid: 20230803204636
+uid: 20230803213124
 title: Obsidian 插件：【Readme】Reference Map
 tags: ['obsidian插件', 'readme']
 description: 文献综述和发现的参考文献和引文图谱。
-author: Anoop K. Chandran
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[reference-map]] 插件的自述翻译
+
 
 
 ![ORM-Header-logo](./images/reference-map.png)

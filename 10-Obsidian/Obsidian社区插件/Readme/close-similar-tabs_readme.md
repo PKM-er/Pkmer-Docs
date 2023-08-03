@@ -1,9 +1,9 @@
 ---
-uid: 20230803203633
+uid: 20230803212118
 title: Obsidian 插件：【Readme】Close Similar Tabs
 tags: ['obsidian插件', 'readme']
 description: 关闭相似的标签页。
-author: 1C0D
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[close-similar-tabs]] 插件的自述翻译
+
 
 
 # 关闭相似标签页

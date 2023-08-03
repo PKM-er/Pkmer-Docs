@@ -1,9 +1,9 @@
 ---
-uid: 20230803204127
+uid: 20230803212541
 title: Obsidian 插件：【Readme】Html Server
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您启动一个本地的HTTP服务器，通过Web浏览器访问您的保险库。
-author: Pr0dt0s
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[html-server]] 插件的自述翻译
+
 
 
 # Obsidian HTML 服务器

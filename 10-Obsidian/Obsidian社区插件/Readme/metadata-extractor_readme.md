@@ -1,9 +1,9 @@
 ---
-uid: 20230803204331
+uid: 20230803212754
 title: Obsidian 插件：【Readme】Metadata Extractor
 tags: ['obsidian插件', 'readme']
 description: 定期导出元数据以与第三方应用程序（如启动器或图形分析软件）集成。
-author: kometenstaub
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[metadata-extractor]] 插件的自述翻译
+
 
 
 # 元数据提取器 Obsidian 插件
@@ -93,53 +94,103 @@ interface tagToFile {
 
 ### Markdown笔记元数据导出
 
+
+
 第二个函数将每个文件名的元数据写入磁盘中的JSON文件。以下是JSON结构作为TypeScript接口的示例。
 
+
+
 ```ts
+
 /**
+
  * JSON导出：Metadata[]
+
  */
+
 import {extendedFrontMatterCache} from "./interfaces";
 
+
+
 interface Metadata {
+
 	fileName: string;
+
 	relativePath: string;
+
 	tags?: string[];
+
 	headings?: { heading: string; level: number }[];
+
 	aliases?: string[];
+
 	links?: links[];
+
 	backlinks?: backlinks[];
+
 	frontmatter?: extendedFrontMatterCache;
+
 }
+
+
 
 interface links {
+
 	link: string;
+
 	relativePath?: string;
+
 	cleanLink?: string;
+
 	displayText?: string;
+
 }
+
+
 
 interface backlinks {
+
 	fileName: string;
+
 	link: string;
+
 	relativePath: string;
+
 	cleanLink?: string;
+
 	displayText?: string;
+
 }
 
+
+
 interface extendedFrontMatterCache {
+
 	cssclass?: string;
+
 	publish?: boolean;
+
 	position: Pos; // Pos is from the Obsidian API
+
 	[key: string]: any;
+
 }
+
 ```
+
+
 
 导出的数组包含一个JSON数组，其中包含`Metadata`对象，每个对象对应您的存储库中的一个Markdown文件。
 
+
+
 所有对象都有`fileName`和`relativePath`属性。`fileName`不包含`.md`扩展名，`relativePath`是从存储库根目录开始的路径。
 
+
+
 如果文件有标签，则对象具有一个`tags`属性，其中包含标签的数组。标签都是小写的，如果文件中的标签出现多次，则在`tags`中只会出现一次。如果文件有任何frontmatter，则包含在`frontmatter`中。对象的结构取决于您的frontmatter。
+
+
 
 `aliases`，`links`和`backlinks`也只在文件中存在时才会出现。
 

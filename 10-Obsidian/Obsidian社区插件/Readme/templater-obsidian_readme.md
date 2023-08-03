@@ -1,9 +1,9 @@
 ---
-uid: 20230803204845
+uid: 20230803213320
 title: Obsidian 插件：【Readme】Templater
 tags: ['模板', '自动化', 'obsidian插件', 'readme']
 description: 增强模板，你可以通过创建和编辑自定义模板，达到快速创建笔记结构。
-author: SilentVoid
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[templater-obsidian]] 插件的自述翻译
+
 
 
 # Templater Obsidian 插件

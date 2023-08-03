@@ -1,9 +1,9 @@
 ---
-uid: 20230803203747
+uid: 20230803212241
 title: Obsidian 插件：【Readme】Day Planner
 tags: ['任务管理', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器。
-author: James Lynch
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-day-planner]] 插件的自述翻译
 
 
+
 # 日程安排
 
 ![GitHub工作流状态](https://img.shields.io/github/workflow/status/lynchjames/obsidian-day-planner/Release%20Build?logo=github&style=for-the-badge) ![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/lynchjames/obsidian-day-planner?style=for-the-badge&sort=semver)
@@ -63,7 +64,11 @@ modified: 20230101000000
 
 ### 日程安排备注
 
+
+
 在备注中，您可以创建一个带有时间和任务的待办事项清单，这些任务将在一天内自动跟踪。您现在可以在任务之间包含标题和其他内容。以下是一个示例：
+
+
 
 ```markdown
 
@@ -76,11 +81,18 @@ modified: 20230101000000
 
 ### 早晨准备
 
+
+
 这是我准备上班并进行常规准备的地方。
 
+
+
 - [ ] 09:30 准备工作
+
 - [ ] 09:45 复习昨天的笔记
+
 - [ ] 10:30 创建 #文章评论 的新笔记
+
 - [ ] 11:30 休息
 
 ### 阅读
@@ -101,34 +113,65 @@ modified: 20230101000000
 
 ### 下午复习
 
+
+
 我利用这个时间来复习我早些时候完成的工作，并完成任何准备明天的任务。
 
+
+
 - [ ] 15:00 复习笔记并更新每日笔记[[20201103]]
+
 - [ ] 15:45 散步
+
 - [ ] 16:30 阅读
+
 - [ ] 17:20 准备明天的会议
+
 - [ ] 18:00 结束
+
 ```
+
+
 
 这也可以作为一个文件提供，文件名为[day-planner-example.md](https://github.com/lynchjames/obsidian-day-planner/blob/main/examples/day-planner-example.md)。
 
+
+
 Day Planner的标题和`---`规则用于标识Day Planner的范围。必须使用一个标题，但可以是`#`、`##`、`###`或`####`。
+
+
 
 任务列表项的格式很重要，因为这是用来计算每个任务的时间和任务之间的间隔的。使用的格式应该是：
 
+
+
  `- [ ] HH:mm 任务文本` 
+
  
+
  **应使用24小时制。** 
+
+
 
 现在还支持嵌套的检查列表项或项目，以捕捉定时任务的子任务。定时任务必须位于复选框列表的顶层。
 
+
+
 `BREAK`和`END`是定义休息和任务时间跟踪结束的关键字。它们不区分大小写，因此也可以使用`break`和`end`。`BREAK`和`END`关键字都是可配置的，并且可以在Day Planner设置选项卡中自定义。
+
+
 
 在本例中，`END`用作带有时间的项目，以便为最后一个任务，即17:00的"准备明天的会议"，提供准确的时间间隔。
 
+
+
 笔记将自动更新：过去的任务将被勾选并标记为已完成。
 
+
+
 使用上面的示例，在14:30时，笔记将自动更新为：
+
+
 
 ```markdown
 
@@ -242,7 +285,11 @@ Day Planner插件有两种使用模式：
 
 ### 状态栏 - 现在和下一个
 
+
+
 您可以选择显示当前任务和下一个任务的时间和开始文本。
+
+
 
 ![现在和下一个](https://raw.githubusercontent.com/lynchjames/obsidian-day-planner/main/images/now-and-next.png)
 

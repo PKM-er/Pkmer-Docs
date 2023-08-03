@@ -1,9 +1,9 @@
 ---
-uid: 20230803203638
+uid: 20230803212124
 title: Obsidian 插件：【Readme】Code Block Labels
 tags: ['obsidian插件', 'readme']
 description: 为篱笆代码块添加标签
-author: Sean Bowers
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-codeblock-labels]] 插件的自述翻译
+
 
 
 # Obsidian 代码块标签插件

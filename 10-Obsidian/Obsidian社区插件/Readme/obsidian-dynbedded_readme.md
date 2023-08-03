@@ -1,9 +1,9 @@
 ---
-uid: 20230803203824
+uid: 20230803212313
 title: Obsidian 插件：【Readme】Dynbedded
 tags: ['obsidian插件', 'readme']
 description: 动态嵌入为Obsidian.md
-author: Marcus Breiden
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-dynbedded]] 插件的自述翻译
+
 
 
 嵌入片段、模板和任何可通过将当前范围委派给嵌入文件来链接的内容，可以使用直接引用或以日期命名格式相对于今天的引用。

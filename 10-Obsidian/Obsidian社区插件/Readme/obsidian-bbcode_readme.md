@@ -1,9 +1,9 @@
 ---
-uid: 20230803203528
+uid: 20230803212017
 title: Obsidian 插件：【Readme】BBCode Convertor
 tags: ['obsidian插件', 'readme']
 description: 将Markdown文件转换为BBCode
-author: Alex Lockhart
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-bbcode]] 插件的自述翻译
+
 
 
 Obsidian BBCode转换器

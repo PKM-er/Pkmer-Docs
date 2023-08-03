@@ -1,9 +1,9 @@
 ---
-uid: 20230803204706
+uid: 20230803213154
 title: Obsidian 插件：【Readme】Script Launcher
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您从Obsidian应用程序启动脚本。您可以在底部栏上添加脚本快捷方式，并只需一次点击即可启动它们！
-author: Alessandro Ruggiero
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[script-launcher]] 插件的自述翻译
+
 
 
 # 脚本启动器

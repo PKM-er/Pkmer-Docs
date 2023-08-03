@@ -1,9 +1,9 @@
 ---
-uid: 20230803204945
+uid: 20230803213401
 title: Obsidian 插件：【Readme】Trim Whitespace
 tags: ['obsidian插件', 'readme']
 description: 从你的 Obsidian 文档中删除不必要的空格
-author: Zack Lovatt
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-trim-whitespace]] 插件的自述翻译
+
 
 
 # 去除空白字符

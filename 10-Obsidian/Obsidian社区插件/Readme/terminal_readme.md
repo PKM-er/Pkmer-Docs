@@ -1,9 +1,9 @@
 ---
-uid: 20230803204848
+uid: 20230803213321
 title: Obsidian 插件：【Readme】Terminal
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中集成控制台、shell和终端。
-author: polyipseity
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[terminal]] 插件的自述翻译
+
 
 
 终端适用于Obsidian [![release](https://img.shields.io/github/v/release/polyipseity/obsidian-terminal)][最新版本] [![Obsidian下载量](https://img.shields.io/badge/dynamic/json?logo=Obsidian&color=%238b6cef&label=下载量&query=$["terminal"].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json)][社区插件] [![Python](https://img.shields.io/badge/Python-≥3.10-gold?labelColor=blue&logo=Python&logoColor=white)][Python]

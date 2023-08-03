@@ -1,9 +1,9 @@
 ---
-uid: 20230803204138
+uid: 20230803212554
 title: Obsidian 插件：【Readme】Image Gallery
 tags: ['界面相关', '美化', '效率', '图片', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加一个画廊模式，以瀑布流的图片展示你的图片素材。需要你指定图片素材的路径。
-author: Luca Orio
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-image-gallery]] 插件的自述翻译
+
 
 
 ![Obsidian图库](assets/obsidian-image-gallery-header.jpg)

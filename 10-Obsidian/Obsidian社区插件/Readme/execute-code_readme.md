@@ -1,9 +1,9 @@
 ---
-uid: 20230803203924
+uid: 20230803212342
 title: Obsidian 插件：【Readme】Execute Code
 tags: ['obsidian插件', 'readme']
 description: 允许在笔记中执行代码片段。
-author: twibiral
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,36 +38,66 @@ modified: 20230101000000
 下面是 [[execute-code]] 插件的自述翻译
 
 
+
 # Obsidian 执行代码插件
+
 <div align='right'>
 
+
+
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?color=8572db&labelColor=1e1e1e&label=下载量&query=$['execute-code'].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json) 
+
 ![GitHub package.json 版本](https://img.shields.io/github/package-json/version/twibiral/obsidian-execute-code?color=8572db&labelColor=1e1e1e&label=当前版本) 
+
 ![GitHub 发布日期](https://img.shields.io/github/release-date/twibiral/obsidian-execute-code?color=8572db&labelColor=1e1e1e&label=最新发布)
 
+
+
 </div>
+
+
 
 该插件允许您在笔记中的代码块中执行代码片段。该插件为支持的语言的代码块添加了一个“运行”按钮。单击按钮会执行代码块的代码。执行完成后，会显示执行结果。当您的代码片段需要用户输入时，会创建一个交互式输入元素。
 
+
+
 只有在执行完成后才会显示结果。现在无法在命令行中输入文本到执行的程序中。
+
+
 
 ![展示插件工作原理的视频。](https://github.com/twibiral/obsidian-execute-code/blob/master/images/execute_code_example.gif?raw=true)
 
+
+
 支持以下[编程语言](#supported-programming-languages-): C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript, Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell, Scala, Racket, F#, Batch, Shell & Powershell, Octave 和 Maxima。
+
+
 
 Python、Rust 和 Octave 支持嵌入绘图。所有语言都支持["魔术"命令](#magic-commands-)，可帮助您访问 Obsidian 中的路径或在笔记中显示图像。
 
+
+
 您可以创建在每个相同语言的代码块之前或之后执行的代码块，并定义[全局代码注入](#global-code-injection-and-reusing-code-blocks-)。
+
+
 
 查看[更新日志](CHANGELOG.md)以了解最近版本的更改。
 
+
+
 <div align='center'>
 
+
+
 [![给我们买杯咖啡](https://img.shields.io/badge/-给我们买杯咖啡-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/timwibiral)
+
 </div>
 
 ## 特色内容
+
 [![由 I Versus AI 制作的视频](https://img.youtube.com/vi/eQz4eAW3ZDk/0.jpg)](https://www.youtube.com/watch?v=eQz4eAW3ZDk)
+
+
 
 "I Versus AI 制作的《逃离 ChatGPT。轻松制作自己的代码解释器》"
 
@@ -448,18 +478,32 @@ import pandas as pd
 您可以使用`label='string'`参数为特定的代码块添加标签，然后在其他代码块中使用`import='string'`或`import=['string1', 'string2', ...]`参数显式导入它们，以便它们不会像预处理/后处理块一样自动导入：
 
 `````
+
 ```python {label='block 1'}
+
 print('running block 1')
+
 ```
+
+
 
 ```python {label='block 2'}
+
 print('running block 2')
+
 ```
 
+
+
 ```python {import=['block 1', 'block 2']}
+
 print('should run block 1 and 2')
+
 ```
+
 `````
+
+
 
 标记的代码块将在运行代码块之前执行，但在全局注入和预处理块之后。
 
@@ -483,20 +527,31 @@ print('不应运行任何预代码块或全局注入')
 在一个代码块中定义的变量、函数等将在其他代码块中可用。代码块按需执行；文件中代码块的顺序不影响它们执行的顺序：
 
 ``````
+
 ```js
+
 console.log(f)
+
 ```
+
 ```js
+
 let f = 3;
+
 ```
+
 ``````
 
 先运行第一个代码块，然后是第二个，再运行第一个，将得到：
 
 ```
+
 Uncaught ReferenceError: f is not defined
+
 undefined
+
 3
+
 ```
 
 要管理笔记本模式的打开运行时，可以使用命令面板中的“打开代码运行时管理”命令。从侧边栏窗口中，您可以停止内核。**注意：强制停止需要在Windows上使用`taskkill`，在Unix上使用`pkill`。99%的系统应该预装了这些工具：如果您的系统没有，请[提交一个问题](https://github.com/twibiral/obsidian-execute-code/issues/new/choose)**。

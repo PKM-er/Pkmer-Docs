@@ -1,9 +1,9 @@
 ---
-uid: 20230803204952
+uid: 20230803213407
 title: Obsidian 插件：【Readme】Underline
 tags: ['界面相关', '快捷键', '编辑器', 'obsidian插件', 'readme']
 description: 使用 ctrl+u 给文字增加下划线。该插件在新版版本下会出现错误。
-author: Benature
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-underline]] 插件的自述翻译
+
 
 
 # obsidian-underline

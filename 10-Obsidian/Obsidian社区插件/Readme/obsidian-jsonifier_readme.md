@@ -1,9 +1,9 @@
 ---
-uid: 20230803204204
+uid: 20230803212623
 title: Obsidian 插件：【Readme】JSONifier
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 使用JSON.stringify()或JSON.parse()高亮文本，并复制到剪贴板。
-author: Kjell Connelly
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-jsonifier]] 插件的自述翻译
+
 
 
 ## Obsidian JSONifier

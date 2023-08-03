@@ -1,9 +1,9 @@
 ---
-uid: 20230803203959
+uid: 20230803212411
 title: Obsidian 插件：【Readme】Financial Doc
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中直接使用CSV格式和Chart.js进行财务文件和跟踪。
-author: Studio Webux
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[findoc]] 插件的自述翻译
+
 
 
 <div align="center">

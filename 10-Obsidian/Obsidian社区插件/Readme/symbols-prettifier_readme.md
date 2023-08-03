@@ -1,9 +1,9 @@
 ---
-uid: 20230803204816
+uid: 20230803213259
 title: Obsidian 插件：【Readme】Symbols Prettifier
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您使用您经常输入的实际符号（如箭头）来美化符号。
-author: Florian Woelki
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[symbols-prettifier]] 插件的自述翻译
+
 
 
 # Obsidian 符号美化工具

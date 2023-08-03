@@ -1,9 +1,9 @@
 ---
-uid: 20230803204854
+uid: 20230803213326
 title: Obsidian 插件：【Readme】Text Format
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 解决从PDF 或其他软件复制内容后，格式错乱问题。此插件将会格式化选定的文本小写/大写/大写/标题大小写，或者删除多余的空格/换行符，以及一些其他功能。
-author: Benature
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-text-format]] 插件的自述翻译
+
 
 
 # 文本格式
@@ -90,14 +91,24 @@ modified: 20230101000000
 
 ### PDF复制/OCR
 
+
+
 | 命令                                      | 描述                                                                                                                                                                                                                                        |
+
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 | 删除选择中的多余**空格**     | 确保单词之间只有一个空格                                                                                                                                                                                                                |
+
 | 删除**空行**                     | 用`\n`替换`\n\n`                                                                                                                                                                                                                           |
+
 | 合并选择中的**断行段落** ⚙️ | 将选定的行合并为单行，除非行之间由空行分隔。*同时，空行将合并为一行（可选，默认启用），多余的空格将被删除（可选，默认启用）* |
+
 | 删除**连字符**                           | 删除连字符（例如从PDF中粘贴文本时）[#15](https://github.com/Benature/obsidian-text-format/issues/15)                                                                                                                                 |
+
 | 通过**空格**分割行(s)              | 将` `替换为`\n`以供OCR使用                                                                                                                                                                                                            |
+
 | 转换为**中文字符** (,;:!?) ⚙️   | 用于OCR使用                                                                                                                                                                                                                                  |
+
 | 替换**连字**                         | 将[连字](https://en.wikipedia.org/wiki/Ligature_(writing))替换为非连字[#24](https://github.com/Benature/obsidian-text-format/issues/24)                                                                                             |
 
 ### 学术/学习
@@ -109,10 +120,15 @@ modified: 20230101000000
 | **Zotero** 笔记格式和粘贴 ⚙️                  | 请参见 [下方 ⬇️](#zotero-format)                                |
 
 #### Zotero格式
+
 格式模板可以参考https://www.zotero.org/support/note_templates
+
 - 默认
+
   - Zotero: `<p>{{highlight quotes='true'}} {{citation}} {{comment}}</p>`
+
   - 插件配置: `“(?<text>.*)” \((?<item>.*?)\) \(\[pdf\]\((?<pdf_url>.*?)\)\)`
+
   - 结果: `{text} [🔖]({pdf_url})`
 
 将引用索引转换为论文笔记的文件名

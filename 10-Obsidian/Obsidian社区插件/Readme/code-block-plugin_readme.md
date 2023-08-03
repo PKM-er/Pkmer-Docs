@@ -1,9 +1,9 @@
 ---
-uid: 20230803203635
+uid: 20230803212121
 title: Obsidian 插件：【Readme】Code Block
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以将文本转换成带有自动语言检测功能的代码块。
-author: Patrik Lindefors
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[code-block-plugin]] 插件的自述翻译
+
 
 
 # 代码块插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204824
+uid: 20230803213305
 title: Obsidian 插件：【Readme】Table Generator
 tags: ['表格', 'obsidian插件', 'readme']
 description: 一个快速生成Markdown表格的插件，类似Typora。
-author: Boninall
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-table-generator]] 插件的自述翻译
+
 
 
 # Obsidian表格生成器

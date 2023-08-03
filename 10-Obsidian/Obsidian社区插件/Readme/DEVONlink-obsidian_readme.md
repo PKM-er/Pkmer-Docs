@@ -1,9 +1,9 @@
 ---
-uid: 20230803203752
+uid: 20230803212247
 title: Obsidian 插件：【Readme】DEVONlink
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 在DEVONthink中打开或显示当前笔记。
-author: ryanjamurphy
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[DEVONlink-obsidian]] 插件的自述翻译
+
 
 
 DEVONlink - 将Obsidian与DEVONthink集成

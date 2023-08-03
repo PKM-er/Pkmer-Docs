@@ -1,9 +1,9 @@
 ---
-uid: 20230803204214
+uid: 20230803212633
 title: Obsidian 插件：【Readme】Kill and Yank
 tags: ['obsidian插件', 'readme']
 description: 在编辑器中启用杀死和抢夺（如Emacs）
-author: INOUE Takuya
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[kill-and-yank]] 插件的自述翻译
+
 
 
 Obsidian杀死和复制

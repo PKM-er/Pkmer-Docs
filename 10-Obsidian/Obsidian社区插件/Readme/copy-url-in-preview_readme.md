@@ -1,9 +1,9 @@
 ---
-uid: 20230803203711
+uid: 20230803212202
 title: Obsidian 插件：【Readme】Copy Image and URL context menu
 tags: ['obsidian插件', 'readme']
 description: 阅读视图（以前的预览模式）中的复制图像、复制URL和外部打开PDF上下文菜单
-author: NomarCub
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[copy-url-in-preview]] 插件的自述翻译
+
 
 
 # 复制图像和URL上下文菜单

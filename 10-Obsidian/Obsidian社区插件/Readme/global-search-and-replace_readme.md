@@ -1,9 +1,9 @@
 ---
-uid: 20230803204049
+uid: 20230803212458
 title: Obsidian 插件：【Readme】Global Search and Replace
 tags: ['obsidian插件', 'readme']
 description: 在所有保险库文件中进行搜索和替换
-author: Mahmoud Fawzy Khalil
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[global-search-and-replace]] 插件的自述翻译
+
 
 
 # Obsidian全局搜索和替换

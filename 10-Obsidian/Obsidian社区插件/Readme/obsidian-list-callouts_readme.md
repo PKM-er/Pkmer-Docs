@@ -1,9 +1,9 @@
 ---
-uid: 20230803204244
+uid: 20230803212707
 title: Obsidian 插件：【Readme】List Callouts
 tags: ['界面相关', '笔记文件处理', '美化', '效率', 'obsidian插件', 'readme']
 description: 在列表项的开头键入自定义字符，可将对应列表项转换成特殊样式。你可以理解成一种更轻量化的高亮标记方法。
-author: mgmeyers
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-list-callouts]] 插件的自述翻译
+
 
 
 # Obsidian 列表标注

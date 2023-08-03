@@ -1,9 +1,9 @@
 ---
-uid: 20230803204537
+uid: 20230803213018
 title: Obsidian 插件：【Readme】Phone to Roam to Obsidian
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: phonetoroam.com的黑曜石客户端
-author: Dylan Garrett
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ phonetoroam.com的黑曜石客户端
 下面是 [[phone-to-roam-to-obsidian]] 插件的自述翻译
 
 
+
 这是一个用于Obsidian（https://obsidian.md）的Phone to Roam（https://www.phonetoroam.com）客户端。Phone to Roam允许通过短信、Telegram、电子邮件和其他一些集成方式将笔记发送到您的笔记保存软件中。
 
 该插件会定期从Phone to Roam获取新的笔记，并将它们附加到发送消息的当天的每日笔记中。
@@ -49,6 +50,8 @@ phonetoroam.com的黑曜石客户端
 通过登录 https://www.phonetoroam.com 获取您的 `roam_key`，并在插件设置中进行设置。
 
 ### 自动追加
+
+
 
 设置要追加到从手机到Roam的每个笔记中的标签或其他文本。
 

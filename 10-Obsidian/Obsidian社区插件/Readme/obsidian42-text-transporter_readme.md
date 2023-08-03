@@ -1,9 +1,9 @@
 ---
-uid: 20230803204453
+uid: 20230803212922
 title: Obsidian 插件：【Readme】Obsidian42 - Text Transporter
 tags: ['编辑工具', '快捷键', 'obsidian插件', 'readme']
 description: 您的保险库中文本的高级文本工具
-author: TfTHacker
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian42-text-transporter]] 插件的自述翻译
+
 
 
 # 文本传送器 - Obsidian的高级文本管理工具

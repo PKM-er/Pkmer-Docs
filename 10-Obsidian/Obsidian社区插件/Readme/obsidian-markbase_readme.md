@@ -1,9 +1,9 @@
 ---
-uid: 20230803204303
+uid: 20230803212724
 title: Obsidian 插件：【Readme】Markbase for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 官方Markbase插件，可以在您自己的数字花园中在线共享Obsidian笔记
-author: Markbase
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-markbase]] 插件的自述翻译
+
 
 
 # Obsidian的Markbase

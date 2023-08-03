@@ -1,9 +1,9 @@
 ---
-uid: 20230803205043
+uid: 20230803213505
 title: Obsidian 插件：【Readme】Zen
 tags: ['obsidian插件', 'readme']
 description: 让你的 Obsidian 进入到禅模式
-author: Maxymillion
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[zen]] 插件的自述翻译
+
 
 
 # 禅

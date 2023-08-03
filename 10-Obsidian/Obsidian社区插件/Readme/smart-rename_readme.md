@@ -1,9 +1,9 @@
 ---
-uid: 20230803204744
+uid: 20230803213235
 title: Obsidian 插件：【Readme】Smart Rename
 tags: ['obsidian插件', 'readme']
 description: 重命名笔记，保留现有链接中的先前标题
-author: mnaoumov
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[smart-rename]] 插件的自述翻译
+
 
 
 # 智能重命名

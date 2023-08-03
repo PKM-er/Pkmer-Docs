@@ -1,9 +1,9 @@
 ---
-uid: 20230803204315
+uid: 20230803212737
 title: Obsidian 插件：【Readme】MathJax WikiLinks
 tags: ['obsidian插件', 'readme']
 description: 允许在WikiLink别名中渲染MathJax。
-author: Aaron Manning
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-mathjax-wikilinks]] 插件的自述翻译
+
 
 
 Obsidian MathJax WikiLinks

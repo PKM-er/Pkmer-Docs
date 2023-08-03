@@ -1,9 +1,9 @@
 ---
-uid: 20230803205021
+uid: 20230803213440
 title: Obsidian 插件：【Readme】Weread Plugin
 tags: ['第三方工具集成', '编辑工具', '信息收集', 'obsidian插件', 'readme']
 description: 可以让你的 Obsidian 和微信阅读联动，获取相关阅读标注，笔记信息。
-author: hank zhao
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-weread-plugin]] 插件的自述翻译
+
 
 
 # Obsidian微信读书插件

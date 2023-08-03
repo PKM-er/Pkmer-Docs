@@ -1,9 +1,9 @@
 ---
-uid: 20230803203843
+uid: 20230803212321
 title: Obsidian 插件：【Readme】Editor Width Slider
 tags: ['obsidian插件', 'readme']
 description: 使用滑块自定义Obsidian编辑器的宽度，以获得个性化的编辑体验。
-author: @MugishoMp
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[editor-width-slider]] 插件的自述翻译
+
 
 
 # Obsidian线宽滑块插件

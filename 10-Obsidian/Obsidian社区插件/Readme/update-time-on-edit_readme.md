@@ -1,9 +1,9 @@
 ---
-uid: 20230803204957
+uid: 20230803213413
 title: Obsidian 插件：【Readme】Update time on edit
 tags: ['obsidian插件', 'readme']
 description: 保持 frontmatter 和最后编辑时间同步
-author: beaussan
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[update-time-on-edit]] 插件的自述翻译
+
 
 
 # 更新编辑插件上的时间

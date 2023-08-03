@@ -1,9 +1,9 @@
 ---
-uid: 20230803203525
+uid: 20230803212014
 title: Obsidian 插件：【Readme】Badges
 tags: ['obsidian插件', 'readme']
 description: 在笔记中添加内联徽章/标注。
-author: gapmiss
+author: AI
 type: readme
 draft: false
 editable: false

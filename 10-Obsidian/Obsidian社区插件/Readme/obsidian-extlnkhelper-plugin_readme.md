@@ -1,9 +1,9 @@
 ---
-uid: 20230803203932
+uid: 20230803212347
 title: Obsidian 插件：【Readme】External Link Helper
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，可以让您更容易地将外部链接插入您的笔记中。
-author: Jhonghee Park
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-extlnkhelper-plugin]] 插件的自述翻译
+
 
 
 # 用于查找外部链接的Obsidian插件

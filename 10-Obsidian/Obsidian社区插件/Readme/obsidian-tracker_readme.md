@@ -1,9 +1,9 @@
 ---
-uid: 20230803204938
+uid: 20230803213355
 title: Obsidian 插件：【Readme】Tracker
 tags: ['统计', 'obsidian插件', 'readme']
 description: 将笔记中的变化收集起来，并且提供不同预设的图形分析模板。
-author: pyrochlore
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-tracker]] 插件的自述翻译
+
 
 
 # Obsidian Tracker 插件

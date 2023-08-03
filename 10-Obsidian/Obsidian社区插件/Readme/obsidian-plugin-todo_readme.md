@@ -1,9 +1,9 @@
 ---
-uid: 20230803204448
+uid: 20230803212916
 title: Obsidian 插件：【Readme】Obsidian TODO | Text-based GTD
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: Obsidian中基于文本的GTD。从您的保险库中收集所有未完成的TODO，并在今天、计划、收件箱和某天/也许列表中呈现它们。
-author: Lars Lockefeer
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian中基于文本的GTD。从您的保险库中收集所有未完成的TOD
 ## Readme(翻译）
 
 下面是 [[obsidian-plugin-todo]] 插件的自述翻译
+
 
 
 ## Obsidian TODO 插件

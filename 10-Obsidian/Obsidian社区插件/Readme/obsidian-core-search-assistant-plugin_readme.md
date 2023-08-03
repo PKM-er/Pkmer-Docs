@@ -1,9 +1,9 @@
 ---
-uid: 20230803203713
+uid: 20230803212204
 title: Obsidian 插件：【Readme】Core Search Assistant
 tags: ['搜索/排序', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 增强内置搜索：键盘界面、卡片预览、更大的预览
-author: qawatake
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-core-search-assistant-plugin]] 插件的自述翻译
+
 
 
 # 核心搜索助手
@@ -77,7 +78,11 @@ modified: 20230101000000
 
 ### 1. None
 
+
+
 仍然可以通过 `Ctrl + Enter` 进行手动预览。
+
+
 
 ![none-view-min](https://user-images.githubusercontent.com/38106890/150082308-493df0a0-e9d4-46ee-8957-c11a2f5ce628.gif)
 
@@ -98,25 +103,46 @@ modified: 20230101000000
 ![card-view-min](https://user-images.githubusercontent.com/38106890/150082177-6a14a509-b6f9-449f-90d1-7e198ae2d3d3.gif)
 
 ## 手动预览
+
 **目前在传统编辑器中不支持手动预览。**
+
+
 
 在预览模态框中，可以使用以下热键。
 
+
+
 | 键 | 动作 |
+
 | -- | -- |
+
 | `Ctrl + N`, `↓` | 向下滚动一点。 |
+
 | `Ctrl + P`, `↑` | 向上滚动一点。 |
+
 | `Space` | 向下滚动很多。 |
+
 | `Shit + Space` | 向上滚动很多。 |
+
 | `Ctrl + Enter` | 打开选定的项目。 |
+
 | `Ctrl + Shift + Enter` | 在新窗格中打开选定的项目。 |
+
 | `Esc`, `Ctrl + Space` | 关闭模态框。 |
+
 | `Tab` | 焦点移到下一个匹配项。 |
+
 | `Shift + Tab` | 焦点移到上一个匹配项。 |
+
 | `Ctrl + E` | 切换预览模式。 |
+
 | `Ctrl + I` | 复制选定项目的维基链接。 |
 
+
+
 - 您**可以自定义热键**在设置选项卡中。
+
+
 
 ![focus-min](https://user-images.githubusercontent.com/38106890/151547284-739a18a3-3467-4964-b59b-de8c2673018c.gif)
 

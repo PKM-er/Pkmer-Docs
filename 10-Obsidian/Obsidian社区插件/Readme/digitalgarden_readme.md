@@ -1,9 +1,9 @@
 ---
-uid: 20230803203757
+uid: 20230803212253
 title: Obsidian 插件：【Readme】Digital Garden
 tags: ['obsidian插件', 'readme']
 description: 将你的笔记发布到数字花园，供他人欣赏。
-author: Ole Eskild Steensen
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[digitalgarden]] 插件的自述翻译
+
 
 
 🏡 Obsidian数字花园

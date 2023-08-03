@@ -1,9 +1,9 @@
 ---
-uid: 20230803203428
+uid: 20230803211928
 title: Obsidian 插件：【Readme】Amazing Marvin
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 一个简单的插件，可以帮助从Amazing Marvin获取数据
-author: Shirayuki Nekomata
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,16 +38,28 @@ modified: 20230101000000
 下面是 [[obsidian-amazingmarvin-plugin]] 插件的自述翻译
 
 
+
 [![发布](https://github.com/ikuyarihS/obsidian-amazingmarvin-plugin/actions/workflows/release.yaml/badge.svg)](https://github.com/ikuyarihS/obsidian-amazingmarvin-plugin/actions/workflows/release.yaml)
+
 [![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/ikuyarihS/obsidian-amazingmarvin-plugin?style=flat&sort=semver)](https://github.com/ikuyarihS/obsidian-amazingmarvin-plugin/releases/latest)
+
 ![GitHub所有发布](https://img.shields.io/github/downloads/ikuyarihS/obsidian-amazingmarvin-plugin/total?style=flat)
+
+
 
 这是一个Obsidian插件（https://obsidian.md）。
 
+
+
 **注意：**
 
+
+
 您将需要来自Amazing Marvin的API令牌。
+
 您可以在此处获取 - https://app.amazingmarvin.com/pre?api
+
+
 
 有关更多信息，请阅读此处 - https://github.com/amazingmarvin/MarvinAPI/wiki/Marvin-API
 ## 示例

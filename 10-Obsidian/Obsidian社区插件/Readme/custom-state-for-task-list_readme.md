@@ -1,9 +1,9 @@
 ---
-uid: 20230803203728
+uid: 20230803212220
 title: Obsidian 插件：【Readme】Custom State for Task List
 tags: ['obsidian插件', 'readme']
 description: 向任务列表项添加自定义状态。
-author: Okami Wong
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[custom-state-for-task-list]] 插件的自述翻译
+
 
 
 # Obsidian中的自定义任务列表状态

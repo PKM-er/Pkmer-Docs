@@ -1,9 +1,9 @@
 ---
-uid: 20230803204246
+uid: 20230803212707
 title: Obsidian 插件：【Readme】List Modified
 tags: ['obsidian插件', 'readme']
 description: 一个简单的黑曜石插件，它将符合某些标准的所有修改文件链接到每日笔记中。
-author: Francis Kafieh
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-list-modified]] 插件的自述翻译
+
 
 
 # Obsidian 列出修改的文件

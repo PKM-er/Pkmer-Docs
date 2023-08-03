@@ -1,9 +1,9 @@
 ---
-uid: 20230803203540
+uid: 20230803212028
 title: Obsidian 插件：【Readme】Bible Reference
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian.md应用程序轻松记录圣经学习笔记。自动提示圣经经文作为参考。
-author: tim-hub
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-bible-reference]] 插件的自述翻译
+
 
 
 ## Obsidian圣经参考

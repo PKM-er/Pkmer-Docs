@@ -1,9 +1,9 @@
 ---
-uid: 20230803204544
+uid: 20230803213026
 title: Obsidian 插件：【Readme】Pluck
 tags: ['转换工具', '链接处理', 'obsidian插件', 'readme']
 description: 快速从网页中创建Obsidian笔记。
-author: Kevin Barrett
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-pluck]] 插件的自述翻译
+
 
 
 Pluck是Obsidian（https://obsidian.md）的一个插件，它可以让您快速将网页内容插入到笔记中。Pluck将页面的HTML转换为Markdown，然后将该Markdown粘贴到光标位置。

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203659
+uid: 20230803212148
 title: Obsidian 插件：【Readme】Consistent attachments and links
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 自动移动笔记附件并更新链接
-author: Dmitry Savosh
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[consistent-attachments-and-links]] 插件的自述翻译
 
 
+
 # 一致的附件和链接
 
 这个插件适用于[Obsidian](https://obsidian.md/)，它允许你重新组织你的库，使其更加一致。接下来，插件将自动维护你的库的一致性。
@@ -65,19 +66,33 @@ Obsidian具有非常聪明的文件链接搜索功能，但如果您希望您的
 <br>
 
 如何配置Obsidian
+
 插件正常工作所需的Obsidian设置：
+
+
 
 - **“文件和链接>自动更新内部链接”：禁用。**插件本身负责更新链接。当Obsidian显示一个对话框询问是否更新链接时，请拒绝。
 
+
+
 - **“新链接格式”：相对文件路径。**否则，无法保证链接的严格符合性。
+
+
 
 - **“使用\[\[Wikilinks\]\]”：禁用。**Wikilinks不是一个Markdown标准。
 
+
+
 推荐的附加设置（插件工作不需要）：
+
+
 
 - **“新附件的默认位置”：在当前文件夹的子文件夹中。**这不是必需的，但这样可以确保附件始终位于您的笔记旁边。选项“与当前文件夹相同的文件夹”也适用。
 
+
+
 - **“子文件夹名称”：“_attachments”**。或者其他任何名称。
+
 <br>
 
 如何检查库的一致性
@@ -155,12 +170,21 @@ Obsidian具有非常聪明的文件链接搜索功能，但如果您希望您的
 
 ### 将所有嵌入路径转换为相对路径
 
+
+
 搜索所有笔记中的嵌入内容，并将其路径转换为相对格式。
 
+
+
 示例：  
+
 `![](title.png)`  
+
 将变成：  
+
 `![](../attachments/title.png)`  
+
+
 
 这是确保所有嵌入链接准确指向正确文件的一项最重要的步骤之一，有助于保持一致性。
 

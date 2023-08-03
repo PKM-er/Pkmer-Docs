@@ -1,9 +1,9 @@
 ---
-uid: 20230803204350
+uid: 20230803212814
 title: Obsidian 插件：【Readme】Natural Language Dates
 tags: ['日期相关', '效率', 'obsidian插件', 'readme']
 description: 基于日常自然语言创建日期
-author: Argentina Ortega Sainz
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,7 +38,10 @@ modified: 20230101000000
 下面是 [[nldates-obsidian]] 插件的自述翻译
 
 
+
 # Obsidian中的自然语言日期
+
+
 
 使用自然语言的灵活性，插入时间戳并与您的日常笔记进行交叉链接。NLDates提供了一套工具，使在Obsidian中处理日期和时间变得无障碍。
 

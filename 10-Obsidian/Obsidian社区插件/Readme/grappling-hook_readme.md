@@ -1,9 +1,9 @@
 ---
-uid: 20230803203340
+uid: 20230803211856
 title: Obsidian 插件：【Readme】🪝 Grappling Hook
 tags: ['obsidian插件', 'readme']
 description: 针对使用快速切换器仍然花费太多时间的人，提供了一款非常快速的文件切换插件——Obsidian。
-author: pseudometa
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[grappling-hook]] 插件的自述翻译
 
 
+
 # 🪝 抓钩
 
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=下载量&query=%24%5B%22grappling-hook%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/grappling-hook?label=最新版本&style=plastic) [![](https://img.shields.io/badge/更新日志-点击这里-FFE800?style=plastic)](Changelog.md)
@@ -57,14 +58,26 @@ Obsidian 插件，用于快速切换文件。适用于那些觉得快速切换�
 ## 特点
 
 ### 书签循环器
+
 转到最近修改的书签笔记。如果您已经在一个书签笔记上，它会按照最后修改日期的顺序转到下一个书签笔记。这样可以快速在一组重要的核心文件之间进行循环。该命令适用于您使用动态核心主要笔记和许多辅助笔记的工作流程。
+
+
 
 当您选择了文本时，书签循环器会切换到其替代模式，并将所选文本复制到最后修改的书签笔记中，而不管您所在的笔记是什么。
 
+
+
 > __注意__  
+
 > 只考虑已书签的*文件*。已书签的*块*或*标题*将被忽略。
 
+
+
 ![Illustration bookmark cycler](./illustration/bookmark-cycler.png)
+
+
+
+
 
 
 

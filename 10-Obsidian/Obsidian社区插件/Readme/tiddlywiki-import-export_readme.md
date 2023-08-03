@@ -1,9 +1,9 @@
 ---
-uid: 20230803204147
+uid: 20230803212604
 title: Obsidian 插件：【Readme】Import/Export TiddlyWiki
 tags: ['obsidian插件', 'readme']
 description: 从Obsidian导入和导出TiddlyWiki。
-author: Lucas Bordeau
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[tiddlywiki-import-export]] 插件的自述翻译
+
 
 
 导入/导出 TiddlyWiki

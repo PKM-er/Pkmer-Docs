@@ -1,9 +1,9 @@
 ---
-uid: 20230803204734
+uid: 20230803213225
 title: Obsidian 插件：【Readme】Simple Mention
 tags: ['obsidian插件', 'readme']
 description: in the text.获取高亮提及和提及建议。 查找文本中提及的所有发生。
-author: der-tobi
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ in the text.获取高亮提及和提及建议。 查找文本中提及的所有�
 ## Readme(翻译）
 
 下面是 [[obsidian-simple-mention]] 插件的自述翻译
+
 
 
 # Obsidian简单提及

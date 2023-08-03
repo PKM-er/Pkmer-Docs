@@ -1,9 +1,9 @@
 ---
-uid: 20230803204318
+uid: 20230803212742
 title: Obsidian 插件：【Readme】Matter
 tags: ['obsidian插件', 'readme']
 description: 官方事务黑曜石集成。
-author: Matter
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[matter]] 插件的自述翻译
+
 
 
 # Matter Obsidian 插件

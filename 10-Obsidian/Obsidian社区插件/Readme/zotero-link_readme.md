@@ -1,9 +1,9 @@
 ---
-uid: 20230803205047
+uid: 20230803213510
 title: Obsidian 插件：【Readme】Zotero Link
 tags: ['obsidian插件', 'readme']
 description: 该插件方便在 Obsidian 中插入 Zotero Item 链接
-author: Shmavon Gazanchyan
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[zotero-link]] 插件的自述翻译
+
 
 
 # Zotero链接

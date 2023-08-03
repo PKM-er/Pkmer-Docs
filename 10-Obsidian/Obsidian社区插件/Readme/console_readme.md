@@ -1,9 +1,9 @@
 ---
-uid: 20230803203700
+uid: 20230803212149
 title: Obsidian 插件：【Readme】Console Markdown Plugin
 tags: ['obsidian插件', 'readme']
 description: 渲染控制台命令及其输出。
-author: Daniel Ellermann
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[console]] 插件的自述翻译
+
 
 
 # Obsidian控制台插件

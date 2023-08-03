@@ -1,9 +1,9 @@
 ---
-uid: 20230803204400
+uid: 20230803212825
 title: Obsidian 插件：【Readme】Note aliases
 tags: ['obsidian插件', 'readme']
 description: 这个插件管理Obsidian中的笔记别名。
-author: Pulsovi
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[note-aliases]] 插件的自述翻译
+
 
 
 # 注意别名

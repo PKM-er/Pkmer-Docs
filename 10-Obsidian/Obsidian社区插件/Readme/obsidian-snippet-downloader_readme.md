@@ -1,9 +1,9 @@
 ---
-uid: 20230803204748
+uid: 20230803213239
 title: Obsidian 插件：【Readme】Snippet Downloader
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，可以帮助从仓库中管理CSS片段（下载/更新）
-author: Mara-Li
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-snippet-downloader]] 插件的自述翻译
+
 
 
 # Obsidian代码片段下载器

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203704
+uid: 20230803212153
 title: Obsidian 插件：【Readme】Convert url to preview (iframe)
 tags: ['转换工具', '链接处理', 'obsidian插件', 'readme']
 description: 将一个url（例如youtube）转换为一个iframe（预览）
-author: FHachez
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,15 +38,27 @@ modified: 20230101000000
 下面是 [[convert-url-to-iframe]] 插件的自述翻译
 
 
+
 # Obsidian插件：将URL（例如YouTube）转换为iframe（预览）[![GitHub标签（按日期最新）](https://img.shields.io/github/v/tag/FHachez/obsidian-convert-url-to-iframe)](https://github.com/FHachez/obsidian-convert-url-to-iframe/releases) ![GitHub所有版本](https://img.shields.io/github/downloads/FHachez/obsidian-convert-url-to-iframe/total)
+
 **将任何URL转换为预览。**
+
+
 
 ![演示](images/demo-url-to-preview-0.4.0.gif)
 
+
+
 1. 选择一个URL
+
 2. 右键单击它（或使用命令“转换为URL预览”）
+
 3. 点击“Url to Preview/Iframe”。
+
 ![上下文菜单](images/contextual-menu.png)
+
+
+
 
 
 默认快捷键是`cmd + alt + i`。
@@ -62,8 +74,11 @@ modified: 20230101000000
 - 启用移动模式。
 
 ## 0.4.0
+
 - 现在我们不再使用自定义映射来嵌入YouTube，而是依赖于OEmbed标准。感谢https://www.npmjs.com/package/oembed-parser
+
     - 这样可以保留YouTube上的时间戳，并为许多网站获取默认大小。
+
 - 添加上下文菜单（右键单击链接）![contextual menu](images/contextual-menu.png)
 
 ## 0.3.0

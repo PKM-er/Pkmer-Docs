@@ -1,9 +1,9 @@
 ---
-uid: 20230803204531
+uid: 20230803213011
 title: Obsidian 插件：【Readme】Pathfinder 2E Action Icons
 tags: ['obsidian插件', 'readme']
 description: 这是一个在Obsidian中显示Pathfinder 2E动作图标的插件。
-author: Thiago Coutinho
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[pf2-action-icons]] 插件的自述翻译
+
 
 
 Pathfinder 2E行动图标

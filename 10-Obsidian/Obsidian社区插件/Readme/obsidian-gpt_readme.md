@@ -1,9 +1,9 @@
 ---
-uid: 20230803204056
+uid: 20230803212505
 title: Obsidian 插件：【Readme】GPT
 tags: ['obsidian插件', 'readme']
 description: Obsidian编辑器中通过API使用GPT和大型语言模型完成
-author: Jonathan Miller
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ Obsidian编辑器中通过API使用GPT和大型语言模型完成
 ## Readme(翻译）
 
 下面是 [[obsidian-gpt]] 插件的自述翻译
+
 
 
 # Obsidian GPT（及其伙伴）

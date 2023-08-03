@@ -1,9 +1,9 @@
 ---
-uid: 20230803204803
+uid: 20230803213251
 title: Obsidian 插件：【Readme】Stille
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 集中精力一次写一个部分。
-author: Michael Lee
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-stille]] 插件的自述翻译
+
 
 
 ## 🌗 Stille

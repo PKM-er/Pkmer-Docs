@@ -1,9 +1,9 @@
 ---
-uid: 20230803203706
+uid: 20230803212156
 title: Obsidian 插件：【Readme】Copilot
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中使用ChatGPT Copilot。
-author: Logan Yang
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[copilot]] 插件的自述翻译
+
 
 
 # 🔍 Obsidian的Copilot

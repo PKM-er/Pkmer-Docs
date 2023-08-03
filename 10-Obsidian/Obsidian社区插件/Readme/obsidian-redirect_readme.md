@@ -1,9 +1,9 @@
 ---
-uid: 20230803204635
+uid: 20230803213123
 title: Obsidian 插件：【Readme】Redirect
 tags: ['obsidian插件', 'readme']
 description: 通过允许为任何文件设置别名，特别是非标记文件的管理更加容易。
-author: Jacob Levernier
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-redirect]] 插件的自述翻译
+
 
 
 # Obsidian 重定向

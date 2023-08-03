@@ -1,9 +1,9 @@
 ---
-uid: 20230803204951
+uid: 20230803213406
 title: Obsidian 插件：【Readme】Ultimate Todoist Sync
 tags: ['obsidian插件', 'readme']
 description: 这是迄今为止最好的Obsidian Todoist任务同步插件。
-author: HeroBlackInk
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ultimate-todoist-sync]] 插件的自述翻译
+
 
 
 # Obsidian的终极Todoist同步插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204534
+uid: 20230803213013
 title: Obsidian 插件：【Readme】Perilous Writing
 tags: ['obsidian插件', 'readme']
 description: 持续写作，否则将失去所有进展。
-author: Sameer Ismail
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[perilous-writing]] 插件的自述翻译
+
 
 
 # 危险的写作

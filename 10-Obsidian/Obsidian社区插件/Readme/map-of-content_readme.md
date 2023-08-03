@@ -1,9 +1,9 @@
 ---
-uid: 20230803204259
+uid: 20230803212721
 title: Obsidian 插件：【Readme】Map of Content
 tags: ['obsidian插件', 'readme']
 description: 自动为您的保险库生成目录地图
-author: Robin Haupt
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[map-of-content]] 插件的自述翻译
+
 
 
 使用这个插件，您将始终准确地知道自己在知识库中的位置，以及所有笔记之间的连接方式。它帮助您以分散的方式组织笔记，其中每个笔记通过其他不同的笔记与中心笔记相连接。

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203758
+uid: 20230803212253
 title: Obsidian 插件：【Readme】Dirtreeist
 tags: ['obsidian插件', 'readme']
 description: 从代码块中的markdown列表渲染出目录结构图。
-author: kasahala
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-dirtreeist]] 插件的自述翻译
+
 
 
 # Obsidian Dirtreeist

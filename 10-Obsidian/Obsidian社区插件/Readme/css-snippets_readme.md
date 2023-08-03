@@ -1,9 +1,9 @@
 ---
-uid: 20230803203720
+uid: 20230803212212
 title: Obsidian 插件：【Readme】css snippets
 tags: ['样式工具', '美化', 'obsidian插件', 'readme']
 description: 用于加载自定义css片段
-author: Daniel Brandenburg
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[css-snippets]] 插件的自述翻译
+
 
 
 # Obsidian CSS Snippet Manager

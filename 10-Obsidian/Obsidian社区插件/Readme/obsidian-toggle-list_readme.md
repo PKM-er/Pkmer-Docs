@@ -1,9 +1,9 @@
 ---
-uid: 20230803204932
+uid: 20230803213351
 title: Obsidian 插件：【Readme】ToggleList
 tags: ['obsidian插件', 'readme']
 description: 切换清单状态（段落/列表/清单/自定义样式...）
-author: Lite C
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-toggle-list]] 插件的自述翻译
+
 
 
 # Obsidian的ToggleList插件

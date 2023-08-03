@@ -1,9 +1,9 @@
 ---
-uid: 20230803203933
+uid: 20230803212348
 title: Obsidian 插件：【Readme】External Link Opener
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中使用模态或标签打开外部链接。
-author: zorazrr
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-link-opener]] 插件的自述翻译
+
 
 
 # Obsidian外部链接打开器

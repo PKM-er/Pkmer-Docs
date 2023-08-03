@@ -1,9 +1,9 @@
 ---
-uid: 20230803204839
+uid: 20230803213315
 title: Obsidian 插件：【Readme】Task Progress Bar
 tags: ['任务管理', '美化', '界面相关', 'obsidian插件', 'readme']
 description:  Obsidian 任务的任务进度条插件。
-author: Boninall
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-task-progress-bar]] 插件的自述翻译
+
 
 
 # Obsidian 任务进度条

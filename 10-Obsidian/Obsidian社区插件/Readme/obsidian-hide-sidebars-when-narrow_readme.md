@@ -1,9 +1,9 @@
 ---
-uid: 20230803204114
+uid: 20230803212526
 title: Obsidian 插件：【Readme】Hide Sidebars on Window Resize
 tags: ['obsidian插件', 'readme']
 description: 当窗口缩小时，自动隐藏侧边栏。
-author: NomarCub, Michael Hanson
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-hide-sidebars-when-narrow]] 插件的自述翻译
+
 
 
 ## 调整窗口大小时隐藏侧边栏

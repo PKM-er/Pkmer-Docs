@@ -1,9 +1,9 @@
 ---
-uid: 20230803203649
+uid: 20230803212137
 title: Obsidian 插件：【Readme】Command Palette--
 tags: ['obsidian插件', 'readme']
 description: 命令面板没有不需要的命令
-author: qawatake
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-command-palette-minus-plugin]] 插件的自述翻译
+
 
 
 命令面板--

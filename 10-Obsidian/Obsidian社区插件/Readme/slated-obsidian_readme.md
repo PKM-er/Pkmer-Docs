@@ -1,9 +1,9 @@
 ---
-uid: 20230803204739
+uid: 20230803213231
 title: Obsidian 插件：【Readme】Slated
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 为 Obsidian 提供高级任务管理能力。此插件已经不再维护。
-author: Tony Grosinger
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[slated-obsidian]] 插件的自述翻译
+
 
 
 # 预定为黑曜石

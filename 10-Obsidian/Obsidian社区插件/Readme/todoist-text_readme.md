@@ -1,9 +1,9 @@
 ---
-uid: 20230803204927
+uid: 20230803213347
 title: Obsidian 插件：【Readme】Todoist Text
 tags: ['obsidian插件', 'readme']
 description: 将您的 Todoist 任务与 Markdown 复选框绑定到一起。
-author: Wes Moncrief
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[todoist-text]] 插件的自述翻译
+
 
 
 # Todoist Text - Obsidian 插件

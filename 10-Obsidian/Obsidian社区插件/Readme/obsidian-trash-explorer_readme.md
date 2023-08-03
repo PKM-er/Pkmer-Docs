@@ -1,9 +1,9 @@
 ---
-uid: 20230803204943
+uid: 20230803213358
 title: Obsidian 插件：【Readme】Trash Explorer
 tags: ['文件管理', '效率', 'obsidian插件', 'readme']
 description: 在Obsidian 文件管理中，可以看到 .trash 文件夹。并操作恢复或者删除。这个关联你的设置将文件删除放到软件回收站。
-author: Per Mortensen
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-trash-explorer]] 插件的自述翻译
+
 
 
 # Obsidian垃圾文件夹浏览器

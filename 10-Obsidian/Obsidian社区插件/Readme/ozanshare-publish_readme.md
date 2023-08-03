@@ -1,9 +1,9 @@
 ---
-uid: 20230803204518
+uid: 20230803212953
 title: Obsidian 插件：【Readme】OzanShare Publish
 tags: ['obsidian插件', 'readme']
 description: 从你的保险库一键发布你的markdown笔记。（封闭源）
-author: Ozan Tellioglu
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[ozanshare-publish]] 插件的自述翻译
+
 
 
 # OzanShare发布插件

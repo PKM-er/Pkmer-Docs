@@ -1,9 +1,9 @@
 ---
-uid: 20230803204050
+uid: 20230803212459
 title: Obsidian 插件：【Readme】Go to Line
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 这个插件提供了一个跳转行命令。
-author: phibr0
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-go-to-line]] 插件的自述翻译
 
 
+
 # Obsidian Go To Line [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-go-to-line)](https://github.com/phibr0/obsidian-go-to-line/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-go-to-line/total)
 
 > 此插件是根据 Discord 上的 @arvn 的要求创建的。
@@ -59,9 +60,13 @@ modified: 20230101000000
 
 #### 3. `复制光标行号`
 
+
+
 将主要的行号和字符信息复制到剪贴板中（会销毁当前剪贴板的内容）。如果存在多个光标，则只会复制一个。
 
 #### 4. `复制所有光标行号`
+
+
 
 将所有光标行和字符信息复制到剪贴板中（会销毁当前剪贴板内容）。
 

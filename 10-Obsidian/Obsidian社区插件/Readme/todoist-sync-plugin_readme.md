@@ -1,9 +1,9 @@
 ---
-uid: 20230803204925
+uid: 20230803213346
 title: Obsidian 插件：【Readme】Todoist Sync Plugin
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 让 Obsidian 和你的 Todoist 任务列表联动，你可以在 Obsidian 中操作对应的任务列表。
-author: jamiebrynes7
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[todoist-sync-plugin]] 插件的自述翻译
+
 
 
 # Obsidian x Todoist 插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204711
+uid: 20230803213158
 title: Obsidian 插件：【Readme】Search Everywhere
 tags: ['obsidian插件', 'readme']
 description: 按两次Shift键就可以像在IntelliJ中一样搜索全部
-author: Mom0
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-search-everywhere-plugin]] 插件的自述翻译
+
 
 
 # Obsidian搜索插件

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204028
+uid: 20230803212436
 title: Obsidian 插件：【Readme】Frontmatter Links
 tags: ['obsidian插件', 'readme']
 description: 将笔记前文中的链接渲染为链接。
-author: Dion Tryban (Trikzon)
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[frontmatter-links]] 插件的自述翻译
+
 
 
 # Obsidian前置链接

@@ -1,9 +1,9 @@
 ---
-uid: 20230803203740
+uid: 20230803212235
 title: Obsidian 插件：【Readme】Daily Stats
 tags: ['界面相关', '统计', 'obsidian插件', 'readme']
 description: 每日输入单词计数插件，您可以在屏幕右下角看到今天的字数。
-author: Dhruvik Parikh
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-daily-stats]] 插件的自述翻译
+
 
 
 ## Obsidian每日统计

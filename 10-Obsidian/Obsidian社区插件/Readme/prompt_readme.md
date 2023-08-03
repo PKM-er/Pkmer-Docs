@@ -1,9 +1,9 @@
 ---
-uid: 20230803204559
+uid: 20230803213045
 title: Obsidian 插件：【Readme】Prompt
 tags: ['obsidian插件', 'readme']
 description: 从你的保险库中的提示文件中显示鼓舞人心的提示。
-author: Hung-Su Nguyen
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[prompt]] 插件的自述翻译
+
 
 
 # Obsidian的提示插件

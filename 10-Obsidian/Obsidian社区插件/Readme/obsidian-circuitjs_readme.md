@@ -1,9 +1,9 @@
 ---
-uid: 20230803204421
+uid: 20230803212846
 title: Obsidian 插件：【Readme】Obsidian CircuitJS
 tags: ['obsidian插件', 'readme']
 description: 将CircuitJS电路仿真嵌入笔记中
-author: Steven Gann
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-circuitjs]] 插件的自述翻译
+
 
 
 Obsidian CircuitJS

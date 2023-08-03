@@ -1,9 +1,9 @@
 ---
-uid: 20230803203453
+uid: 20230803211946
 title: Obsidian 插件：【Readme】Attachment Management
 tags: ['obsidian插件', 'readme']
 description: 附件管理插件，用于自定义附件路径和自动重命名等功能。
-author: trganda
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[attachment-management]] 插件的自述翻译
+
 
 
 # Obsidian附件管理

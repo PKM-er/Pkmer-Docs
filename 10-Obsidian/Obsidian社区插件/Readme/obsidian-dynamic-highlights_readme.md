@@ -1,9 +1,9 @@
 ---
-uid: 20230803203820
+uid: 20230803212309
 title: Obsidian 插件：【Readme】Dynamic Highlights
 tags: ['obsidian插件', 'readme']
 description: 根据光标选择或搜索查询动态突出显示文本，支持完整的正则表达式、移动端和实时预览。
-author: nothingislost
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-dynamic-highlights]] 插件的自述翻译
+
 
 
 动态高亮

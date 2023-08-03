@@ -1,9 +1,9 @@
 ---
-uid: 20230803205030
+uid: 20230803213449
 title: Obsidian 插件：【Readme】Word Sprint
 tags: ['obsidian插件', 'readme']
 description: 为你的写作项目（如Nanowrimo）提供 Word Sprint 功能
-author: Andrew Lombardi
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-word-sprint]] 插件的自述翻译
+
 
 
 Word Sprint for Obsidian是一个插件，它帮助Obsidian用户在进行任何写作任务时达到我们所追求的流动状态。它提供了创建时间段（默认为25分钟）和次数的能力，并在写作过程中给予指导，以保持你的写作状态，而不是去查看Twitter。

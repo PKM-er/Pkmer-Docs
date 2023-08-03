@@ -1,9 +1,9 @@
 ---
-uid: 20230803203744
+uid: 20230803212238
 title: Obsidian 插件：【Readme】DataLoom
 tags: ['表格', '界面相关', '效率', 'obsidian插件', 'readme']
 description: 给你类似于 Notion 中的表格编辑体验。
-author: Trey Wallis
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,17 +38,29 @@ modified: 20230101000000
 下面是 [[notion-like-tables]] 插件的自述翻译
 
 
+
 ![](/docusaurus/static/img/cover.png)
+
+
 
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=下载量&query=%24%5B%22notion-like-tables%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
 
+
+
 在 [dataloom.xyz](https://dataloom.xyz) 找到详细的文档。
+
+
 
 DataLoom 是一个适用于桌面和移动设备的 [Obsidian.md](https://obsidian.md/) 插件。DataLoom 允许您将来自不同来源的数据编织在一起，形成一个连贯的表格视图。
 
+
+
 支持开发
 
+
+
 <a href="https://buymeacoffee.com/treywallis" target="_blank" rel="noopener">
+
 <img width="180px" src="https://img.buymeacoffee.com/button-api/?text=请我喝咖啡&amp;emoji=&amp;slug=treywallis&amp;button_colour=6a8695&amp;font_colour=ffffff&amp;font_family=Poppins&amp;outline_colour=000000&amp;coffee_colour=FFDD00" referrerpolicy="no-referrer" alt="?text=请我喝咖啡&amp;emoji=&amp;slug=treywallis&amp;button_colour=6a8695&amp;font_colour=ffffff&amp;font_family=Poppins&amp;outline_colour=000000&amp;coffee_colour=FFDD00"></a>
 ## 关于
 

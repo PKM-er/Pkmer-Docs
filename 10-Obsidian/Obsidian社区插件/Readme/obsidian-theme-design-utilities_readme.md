@@ -1,9 +1,9 @@
 ---
-uid: 20230803204903
+uid: 20230803213332
 title: Obsidian 插件：【Readme】Theme Design Utilities
 tags: ['美化', '效率', 'obsidian插件', 'readme']
 description: 一些实用工具和提高生活质量的功能，供 Obsidian 主题设计者使用。
-author: pseudometa
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-theme-design-utilities]] 插件的自述翻译
 
 
+
 # 主题设计工具
 
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=下载量&query=%24%5B%22obsidian-theme-design-utilities%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/obsidian-theme-design-utilities?label=最新版本&style=plastic) [![](https://img.shields.io/badge/更新日志-点击这里-FFE800?style=plastic)](Changelog.md)
@@ -45,33 +46,61 @@ modified: 20230101000000
 为[Obsidian](https://obsidian.md/)主题设计师提供一些实用工具和生活品质功能。
 
 ## 目录
+
 <!--toc:start-->
+
 - [目录](#目录)
+
 - [新增的命令](#新增的命令)
+
   - [移动仿真](#移动仿真)
+
   - [在所有三种模式之间切换](#在所有三种模式之间切换)
+
   - [循环浏览已安装的主题](#循环浏览已安装的主题)
+
   - [浅色/深色模式切换](#浅色深色模式切换)
+
   - [冻结 Obsidian](#冻结-obsidian)
+
   - [切换开发者工具](#切换开发者工具)
+
   - [乱码文本](#乱码文本)
+
   - [`.foobar` 测试类](#foobar-测试类)
+
   - [用于调试的红色轮廓](#用于调试的红色轮廓)
+
   - [永久测试通知](#永久测试通知)
+
   - [CSS 特性兼容性（Chrome 版本）](#css-特性兼容性chrome-版本)
+
   - [显示备忘单](#显示备忘单)
+
 - [文档和示例笔记](#文档和示例笔记)
+
   - [备忘单](#备忘单)
+
   - [Markdown 笔记：显示当前主题颜色](#markdown-笔记显示当前主题颜色)
+
   - [Markdown 笔记和 CSS 代码片段：玩转颜色](#markdown-笔记和-css-代码片段玩转颜色)
+
 - [其他 Obsidian 主题设计资源](#其他-obsidian-主题设计资源)
+
   - [Obsidian 插件](#obsidian-插件)
+
   - [指南](#指南)
+
 - [安装](#安装)
+
 - [贡献](#贡献)
+
 - [关于开发者](#关于开发者)
+
   - [个人资料](#个人资料)
+
   - [给我买杯咖啡](#给我买杯咖啡)
+
 <!--toc:end-->
 
 ## 添加的命令
@@ -80,10 +109,14 @@ modified: 20230101000000
 方便地启用Obsidian的移动仿真，即Obsidian在移动设备上的显示效果。这有助于为移动设备样式化您的主题。
 
 ### 在所有三种模式之间循环切换
+
 在源代码模式、实时预览模式和阅读模式之间循环切换。设置一个快捷键，可以快速查看主题在所有三种视图模式下的外观。
 
 ### 循环浏览已安装的主题
+
 循环浏览所有已安装的主题。与主题切换插件不同的是，它不会打开一个模态框，而是直接切换到下一个已安装的主题。
+
+
 
 <img width=60% alt="主题循环演示" src="demo/theme-cycler.gif">
 
@@ -100,9 +133,11 @@ modified: 20230101000000
 <img src="https://user-images.githubusercontent.com/73286100/144731519-2f64352e-5264-45c3-bb3c-eb05c56a8322.png" alt="image" width=25%>
 
 ### 切换开发者工具
+
 打开/关闭开发者工具（开发者控制台）。与Obsidian内置的打开开发者工具的方法相同，但在命令面板中可用，可以为其设置自定义热键。
 
 混淆文本
+
 混淆整个应用程序中的所有文本。当悬停在元素上时，“解混淆”它们。这样，您可以在保持隐私的同时共享屏幕截图。
 
 ### `.foobar` 测试类
@@ -115,6 +150,7 @@ modified: 20230101000000
 ```
 
 ### 用于调试的红色轮廓
+
 为所有元素添加红色轮廓。再次运行命令以删除轮廓。这些轮廓对于调试非常有用，[本质上相当于CSS中的`console.log()`](https://www.youtube.com/shorts/ii-lSK2_Nu4)。
 
 ### 永久测试通知
@@ -159,7 +195,10 @@ modified: 20230101000000
 <img src="./demo/color-playground_note-current_theme-screenshot.png" alt="currrent_theme colors note, screenshots" width=40%>
 
 ### Markdown笔记和CSS片段：玩转颜色
+
 [`theme-design-utilities-colorplay.md`](https://github.com/chrisgrieser/obsidian-theme-design-utilities/tree/main/color-playground/theme-design-utilities-colorplay.md)是一个Markdown笔记，它和它的[伴侣CSS片段](https://github.com/chrisgrieser/obsidian-theme-design-utilities/tree/main/color-playground/theme-design-utilities-colorplay.md)展示了彩色方块。将该笔记添加到您的保险库中，将CSS片段添加到您的片段集合中。您可以通过编辑CSS片段或使用[Style Settings插件](https://github.com/mgmeyers/obsidian-style-settings)来更改颜色。
+
+
 
 <img src="./demo/color-playground_note-colorplay-screenshot.png" alt="colorplay colors note, screenshot" width=40%>
 
@@ -204,6 +243,7 @@ eslint --fix *.ts
 - [LinkedIn](https://www.linkedin.com/in/christopher-grieser-ba693b17a/)
 
 ### 请给我买杯咖啡
+
 
 
 

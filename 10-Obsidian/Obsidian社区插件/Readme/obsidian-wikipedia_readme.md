@@ -1,9 +1,9 @@
 ---
-uid: 20230803205026
+uid: 20230803213444
 title: Obsidian 插件：【Readme】Wikipedia
 tags: ['obsidian插件', 'readme']
 description: 从维基百科获取第一节的标题作为笔记的标题。
-author: Jonathan Miller
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,9 +38,14 @@ modified: 20230101000000
 下面是 [[obsidian-wikipedia]] 插件的自述翻译
 
 
+
 # Obsidian Wikipedia
 
+
+
 这是一个为 Obsidian（https://obsidian.md）开发的插件。
+
+
 
 该插件获取维基百科的第一节内容，并将其粘贴到您的活动笔记中。
 

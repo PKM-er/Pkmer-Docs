@@ -1,9 +1,9 @@
 ---
-uid: 20230803204656
+uid: 20230803213144
 title: Obsidian 插件：【Readme】Rollover Daily Todos
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 以循环滚动的方式，将存在不完整的待办事项的笔记，展现在你面前。
-author: Matt Sessions
+author: AI
 type: readme
 draft: false
 editable: false
@@ -38,17 +38,26 @@ modified: 20230101000000
 下面是 [[obsidian-rollover-daily-todos]] 插件的自述翻译
 
 
+
 # 每日待办事项滚动
+
+
 
 [![构建](https://github.com/lumoe/obsidian-rollover-daily-todos/actions/workflows/ci.yml/badge.svg)](https://github.com/lumoe/obsidian-rollover-daily-todos/actions/workflows/ci.yml)
 
+
+
 这个 Obsidian 插件会将上一个日记中未完成的待办事项（可以是昨天或一周前）滚动到今天。当通过内部的“每日笔记”插件或“周期性笔记”插件创建新的每日笔记时，会自动触发此操作。也可以通过命令面板中的命令来运行。
+
+
 
 ![插件工作的演示](./demo.gif)
 
 ## 用法
 
 ### 1. 新的每日笔记
+
+
 
 只需使用“每日笔记”或“周期性笔记”插件创建一个新的每日笔记。前一天未完成的待办事项将会转移到今天的每日笔记中。
 

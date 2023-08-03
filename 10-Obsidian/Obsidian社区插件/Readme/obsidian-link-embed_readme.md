@@ -1,9 +1,9 @@
 ---
-uid: 20230803204232
+uid: 20230803212653
 title: Obsidian 插件：【Readme】Link Embed
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您将笔记中的URL转换为嵌入式预览。
-author: SErAphLi
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-link-embed]] 插件的自述翻译
+
 
 
 # Obsidian链接嵌入

@@ -1,9 +1,9 @@
 ---
-uid: 20230803204718
+uid: 20230803213206
 title: Obsidian 插件：【Readme】Sentence Navigator
 tags: ['obsidian插件', 'readme']
 description: 操纵句子作为一个运动单位
-author: Tim Hor & Andrew Brown
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-sentence-navigator]] 插件的自述翻译
+
 
 
 # 句子导航器

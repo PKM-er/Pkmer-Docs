@@ -1,9 +1,9 @@
 ---
-uid: 20230803203436
+uid: 20230803211932
 title: Obsidian 插件：【Readme】Another Quick Switcher
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian插件，是另一种快速切换的选择。
-author: tadashi-aikawa
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-another-quick-switcher]] 插件的自述翻译
+
 
 
 # Obsidian另一个快速切换插件

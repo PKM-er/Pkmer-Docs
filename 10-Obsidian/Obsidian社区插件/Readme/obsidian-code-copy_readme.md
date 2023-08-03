@@ -1,9 +1,9 @@
 ---
-uid: 20230803203639
+uid: 20230803212125
 title: Obsidian 插件：【Readme】Code Copy
 tags: ['快捷键', '效率', 'obsidian插件', 'readme']
 description: 为代码块添加一个复制按钮。该功能官方已经提供。
-author: superDuperCyberTechno
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-code-copy]] 插件的自述翻译
+
 
 
 # Obsidian代码复制

@@ -1,9 +1,9 @@
 ---
-uid: 20230803205040
+uid: 20230803213502
 title: Obsidian 插件：【Readme】Yaml Manager
 tags: ['obsidian插件', 'readme']
 description: 直接管理编辑 Yaml 的内容
-author: Lijyze
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[obsidian-state-switcher]] 插件的自述翻译
+
 
 
 # Obsidian Yaml 管理器

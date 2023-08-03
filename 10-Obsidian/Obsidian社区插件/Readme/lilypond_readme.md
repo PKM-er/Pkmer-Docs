@@ -1,9 +1,9 @@
 ---
-uid: 20230803204229
+uid: 20230803212650
 title: Obsidian 插件：【Readme】Lilypond
 tags: ['obsidian插件', 'readme']
 description: 渲染Lilypond模板。
-author: DOT-ASTERISK
+author: AI
 type: readme
 draft: false
 editable: false
@@ -36,6 +36,7 @@ modified: 20230101000000
 ## Readme(翻译）
 
 下面是 [[lilypond]] 插件的自述翻译
+
 
 
 # Obsidian Lilypond 插件
