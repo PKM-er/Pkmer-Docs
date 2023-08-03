@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322184310
 title: Obsidian 插件：Folder notes
 tags: ['obsidian插件', 'readme']
 description: 在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于Notion提供的功能。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232557
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Folder notes

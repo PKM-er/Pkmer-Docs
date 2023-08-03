@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322231833
 title: Obsidian 插件：Obsidian CircuitJS
 tags: ['obsidian插件', 'readme']
 description: 将CircuitJS电路仿真嵌入笔记中
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232530
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian CircuitJS

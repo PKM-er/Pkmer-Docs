@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322252905
 title: Obsidian 插件：Quote Share
 tags: ['obsidian插件', 'readme']
 description: .这个插件可以让您轻松地从文本中生成漂亮的渐变图像，并在社交媒体上分享它们。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232429
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Quote Share

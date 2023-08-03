@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322265272
 title: Obsidian 插件：Sidebar Toggler
 tags: ['obsidian插件', 'readme']
 description: 黑曜石侧边栏的更精细的控制。用于外部窗口管理器。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232450
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Sidebar Toggler

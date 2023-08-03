@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322270173
 title: Obsidian 插件：Slated
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 为 Obsidian 提供高级任务管理能力。此插件已经不再维护。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232423
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Slated

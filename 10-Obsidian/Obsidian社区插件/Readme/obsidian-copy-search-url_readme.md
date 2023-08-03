@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322163920
 title: Obsidian 插件：Copy Search URL
 tags: ['obsidian插件', 'readme']
 description: 在搜索视图中添加一个按钮，用于复制Obsidian搜索URL。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232527
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Copy Search URL

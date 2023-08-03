@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322235329
 title: Obsidian 插件：Obsidian42 - Strange New Worlds
 tags: ['obsidian插件', 'readme']
 description: 揭示网络思维和你的保险库创造的奇异新世界。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232436
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian42 - Strange New Worlds

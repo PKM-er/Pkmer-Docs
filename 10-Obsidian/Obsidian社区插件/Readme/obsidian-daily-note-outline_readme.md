@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322170273
 title: Obsidian 插件：Daily Note Outline
 tags: ['obsidian插件', 'readme']
 description: 添加一个自定义视图，显示多个日常笔记的大纲，包括标题、链接、标签和列表项。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232526
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Daily Note Outline

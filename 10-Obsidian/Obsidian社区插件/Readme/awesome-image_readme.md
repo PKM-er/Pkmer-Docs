@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322144708
 title: Obsidian 插件：Awesome Image
 tags: ['obsidian插件', 'readme']
 description: 图像管理和查看的一站式解决方案。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232615
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Awesome Image

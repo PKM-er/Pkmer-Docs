@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322240575
 title: Obsidian 插件：Open files with commands
 tags: ['obsidian插件', 'readme']
 description: 创建只能一次打开一个文件的命令，并且可以与指挥官插件一起使用。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232435
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Open files with commands

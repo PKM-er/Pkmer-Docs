@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322240219
 title: Obsidian 插件：Onyx Boox Annotation & Highlight Extractor
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以提取Onyx Boox平板电脑导出的注释和高亮文件，并将它们转换为符合Zettelkasten方法的参考文献和永久笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232435
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Onyx Boox Annotation & Highlight Extractor

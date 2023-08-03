@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322281799
 title: Obsidian 插件：Tidy Footnotes
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 可以将所有注脚都合并到一个地方，也能给注脚重新排序
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232442
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Tidy Footnotes

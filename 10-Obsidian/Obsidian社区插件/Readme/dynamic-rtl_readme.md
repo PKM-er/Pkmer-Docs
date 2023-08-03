@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322173364
 title: Obsidian 插件：Dynamic RTL
 tags: ['obsidian插件', 'readme']
 description: 每行/段根据语言动态调整RTL/LTR方向！
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232602
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Dynamic RTL

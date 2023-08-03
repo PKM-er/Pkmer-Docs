@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322242162
 title: Obsidian 插件：OzanShare Publish
 tags: ['obsidian插件', 'readme']
 description: 从你的保险库一键发布你的markdown笔记。（封闭源）
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232433
+modified: 20230101000000
 ---
 
 # Obsidian 插件：OzanShare Publish

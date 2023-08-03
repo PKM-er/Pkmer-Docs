@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322235251
 title: Obsidian 插件：Obsidian42 - Jump-to-Date
 tags: ['日期相关', 'obsidian插件', 'readme']
 description: 快速导航日期的弹出式日历。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232510
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian42 - Jump-to-Date

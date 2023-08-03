@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322245332
 title: Obsidian 插件：Plugin Update Tracker
 tags: ['obsidian插件', 'readme']
 description: 了解安装的插件有更新时，并评估升级的风险。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232456
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Plugin Update Tracker

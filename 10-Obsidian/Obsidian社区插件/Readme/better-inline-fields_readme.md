@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322150291
 title: Obsidian 插件：Better Inline Fields
 tags: ['搜索/排序', '界面相关', '笔记文件处理', '统计', 'obsidian插件', 'readme']
 description: 增强Dataview样式内联字段
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232614
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Better Inline Fields

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322223819
 title: Obsidian 插件：Mixa
 tags: ['obsidian插件', 'readme']
 description: 直接从Obsidian发布您的笔记和博客文章到Mixa。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232543
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Mixa

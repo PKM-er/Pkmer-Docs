@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322141810
 title: Obsidian 插件：Askify Sync
 tags: ['obsidian插件', 'readme']
 description: Obsidian和Askify之间的同步。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232617
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Askify Sync

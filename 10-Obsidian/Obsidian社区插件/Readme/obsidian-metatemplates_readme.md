@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322223178
 title: Obsidian 插件：metatemplates
-tags: ['模板', 'obsidian插件', 'readme', plugins]
+tags: ['模板', 'obsidian插件', 'readme']
 description: 使用YAML前置语法从模板生成笔记
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232502
+modified: 20230101000000
 ---
 
 # Obsidian 插件：metatemplates

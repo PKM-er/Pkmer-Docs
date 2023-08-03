@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322191537
 title: Obsidian 插件：Global Hotkeys
 tags: ['obsidian插件', 'readme']
 description: Obsidian桌面应用程序中可配置的系统热键用于运行命令
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232516
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Global Hotkeys

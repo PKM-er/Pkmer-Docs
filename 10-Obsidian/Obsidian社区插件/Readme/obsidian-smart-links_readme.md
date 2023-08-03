@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322270525
 title: Obsidian 插件：Smart Links
 tags: ['obsidian插件', 'readme']
 description: 可定制字符串的自动链接
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232450
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Smart Links

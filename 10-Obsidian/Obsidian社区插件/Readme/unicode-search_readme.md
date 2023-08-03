@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322285836
 title: Obsidian 插件：Unicode Search
 tags: ['obsidian插件', 'readme']
 description: 搜索并插入Unicode字符到您的编辑器中
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232416
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Unicode Search

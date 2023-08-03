@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322135947
 title: Obsidian 插件：Amazing Marvin
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 一个简单的插件，可以帮助从Amazing Marvin获取数据
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232536
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Amazing Marvin

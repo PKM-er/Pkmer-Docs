@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322203495
 title: Obsidian 插件：Influx
 tags: ['obsidian插件', 'readme']
 description: 一个可以在笔记的页脚聚合简洁的反向链接剪辑的日记插件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232551
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Influx

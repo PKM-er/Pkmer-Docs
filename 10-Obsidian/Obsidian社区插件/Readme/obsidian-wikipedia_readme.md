@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322293412
 title: Obsidian 插件：Wikipedia
 tags: ['obsidian插件', 'readme']
 description: 从维基百科获取第一节的标题作为笔记的标题。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232436
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Wikipedia

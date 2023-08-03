@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322293512
 title: Obsidian 插件：Wikipedia Search
 tags: ['obsidian插件', 'readme']
 description: 搜索维基百科文章并链接它们。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232414
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Wikipedia Search

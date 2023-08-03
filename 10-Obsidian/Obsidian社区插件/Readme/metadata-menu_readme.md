@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322222935
 title: Obsidian 插件：Metadata Menu
 tags: ['obsidian插件', 'readme']
 description: 对于数据质量爱好者和Dataview用户：访问和管理您的笔记的元数据
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232543
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Metadata Menu

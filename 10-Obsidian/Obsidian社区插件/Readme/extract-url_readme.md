@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322180547
 title: Obsidian 插件：Extract url content
 tags: ['链接处理', '转换工具', 'obsidian插件', 'readme']
 description: 将URL提取内容转换为Markdown
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232600
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Extract url content

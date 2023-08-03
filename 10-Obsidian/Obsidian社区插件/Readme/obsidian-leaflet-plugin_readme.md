@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322232802
 title: Obsidian 插件：Obsidian Leaflet
-tags: ['第三方工具集成', '图片', 'obsidian插件', 'readme', 3388ff, location, friends, people, Paris]
+tags: ['第三方工具集成', '图片', 'obsidian插件', 'readme']
 description: 在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232509
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Leaflet

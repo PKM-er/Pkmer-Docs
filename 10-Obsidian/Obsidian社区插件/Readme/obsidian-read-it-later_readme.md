@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322234015
 title: Obsidian 插件：Obsidian ReadItLater
 tags: ['快捷键', '自动化', 'obsidian插件', 'readme']
 description: 从你的剪贴板收集有趣的信息到你的保险库中。网站将被转换为MD，推文和Youtube视频嵌入，纯文本只会保存到一个新的通知中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232453
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian ReadItLater

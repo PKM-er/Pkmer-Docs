@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322283330
 title: Obsidian 插件：Toggl Track
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 添加与 Toggl Track API 的集成，以在Obsidian内管理计时器。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232441
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Toggl Track

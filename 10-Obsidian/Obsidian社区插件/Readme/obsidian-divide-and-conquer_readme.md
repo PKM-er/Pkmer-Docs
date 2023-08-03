@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322172323
 title: Obsidian 插件：Divide & Conquer
 tags: ['obsidian插件', 'readme']
 description: 批量启用/禁用插件的命令。 当您有许多插件时，这很有用，可用于调试。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232523
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Divide & Conquer

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322291930
 title: Obsidian 插件：Vim Multibyte Char Search
 tags: ['obsidian插件', 'readme']
 description: 按输入法对应的ASCII编码的第一个字符搜索多字节字符。例如，对于中文，可以按拼音的第一个拼音进行搜索。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232438
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Vim Multibyte Char Search

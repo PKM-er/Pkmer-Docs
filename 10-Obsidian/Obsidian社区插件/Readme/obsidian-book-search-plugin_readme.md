@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322151554
 title: Obsidian 插件：Book Search
 tags: ['obsidian插件', 'readme']
 description: 帮助你找书并创建笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232532
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Book Search

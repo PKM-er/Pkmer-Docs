@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322133853
 title: Obsidian 插件：Add links to current note
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 这个插件增加了一个命令，允许在所选笔记的底部添加一个与当前笔记的链接
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232543
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Add links to current note

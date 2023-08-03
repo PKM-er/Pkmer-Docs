@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322161139
 title: Obsidian 插件：Colored Text
 tags: ['obsidian插件', 'readme']
 description: 给选定的文本上色。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232608
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Colored Text

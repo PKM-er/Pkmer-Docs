@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322181075
 title: Obsidian 插件：File Color
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，用于在文件树中为文件夹和文件设置颜色。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232519
+modified: 20230101000000
 ---
 
 # Obsidian 插件：File Color

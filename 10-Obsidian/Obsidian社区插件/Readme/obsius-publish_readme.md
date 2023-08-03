@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322235864
 title: Obsidian 插件：Obsius Publish
 tags: ['obsidian插件', 'readme']
 description: 将单个笔记立即可在网上使用。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232435
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsius Publish

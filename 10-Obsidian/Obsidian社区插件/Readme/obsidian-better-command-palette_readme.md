@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322145999
 title: Obsidian 插件：Better Command Palette
 tags: ['obsidian插件', 'readme']
 description: 一个命令面板可以做你想要它做的所有事情。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232532
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Better Command Palette

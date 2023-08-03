@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322184409
 title: Obsidian 插件：Footlinks
 tags: ['文件重构', '链接处理', '效率', '自动化', 'obsidian插件', 'readme']
 description: 自动提取笔记中的链接，并将这些链接，在笔记尾部生成对应的 脚注格式。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232557
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Footlinks

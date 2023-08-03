@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322241254
 title: Obsidian 插件：Open with
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 这个插件可以让你通过命令方式，用其他软件打开你的 Obsidian 笔记。几乎所有的程序打开你的笔记，前提是其他软件识别你的笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232434
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Open with

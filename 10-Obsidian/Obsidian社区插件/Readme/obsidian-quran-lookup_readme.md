@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322253082
 title: Obsidian 插件：Quran Lookup
 tags: ['obsidian插件', 'readme']
 description: 使用这个文本替换插件，轻松在Obsidian中添加古兰经经文和翻译。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232455
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Quran Lookup

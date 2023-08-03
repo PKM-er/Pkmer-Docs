@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322284487
 title: Obsidian 插件：Translator
 tags: ['obsidian插件', 'readme']
 description: 用于翻译所选文本。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232440
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Translator

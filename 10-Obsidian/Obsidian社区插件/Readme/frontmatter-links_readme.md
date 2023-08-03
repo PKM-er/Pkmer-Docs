@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322185359
 title: Obsidian 插件：Frontmatter Links
 tags: ['obsidian插件', 'readme']
 description: 将笔记前文中的链接渲染为链接。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232556
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Frontmatter Links

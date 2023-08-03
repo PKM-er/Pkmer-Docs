@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322243437
 title: Obsidian 插件：Path Finder
 tags: ['obsidian插件', 'readme']
 description: 一个可以查找两个节点之间的所有路径并将其渲染为图形或文本的插件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232458
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Path Finder

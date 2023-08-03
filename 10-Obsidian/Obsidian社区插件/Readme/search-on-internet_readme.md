@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322263075
 title: Obsidian 插件：Search on Internet
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 添加右键菜单，你可以针对圈选笔记文本，进行网络搜索。并且你可以使用自定义搜索引擎。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232425
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Search on Internet

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322214292
 title: Obsidian 插件：Local images
 tags: ['obsidian插件', 'readme']
 description: 本地图像插件会查找笔记中所有指向外部图像的链接，然后下载并本地保存图像，最后调整笔记中的图像链接以指向已保存的图像文件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232506
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Local images

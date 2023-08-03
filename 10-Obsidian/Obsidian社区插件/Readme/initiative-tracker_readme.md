@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322203713
 title: Obsidian 插件：Initiative Tracker
 tags: ['游戏', 'obsidian插件', 'readme']
 description: Obsidian的TTRPG行动跟踪器
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232551
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Initiative Tracker

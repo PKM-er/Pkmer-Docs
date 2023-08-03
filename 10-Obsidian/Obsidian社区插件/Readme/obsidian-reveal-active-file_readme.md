@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322143985
 title: Obsidian 插件：Automatically reveal active file
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 这个插件将自动在侧边导航中显示当前活动文件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232452
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Automatically reveal active file

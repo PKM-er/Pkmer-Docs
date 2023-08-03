@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322222591
 title: Obsidian 插件：Mermaid.js Helper (OMH)
 tags: ['obsidian插件', 'readme']
 description: 帮助 mermaid.js 工作流程和更多的插件
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232544
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Mermaid.js Helper (OMH)

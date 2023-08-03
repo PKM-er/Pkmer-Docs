@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322230118
 title: Obsidian 插件：Note Folder Autorename
 tags: ['统计', 'obsidian插件', 'readme']
 description: 将笔记转换为文件夹，并在移动或重命名时自动移动/重命名它们的文件夹。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232540
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Note Folder Autorename

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322234528
 title: Obsidian 插件：Obsidian Tabs
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加标签页模式，像你的浏览器一样
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232447
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Tabs

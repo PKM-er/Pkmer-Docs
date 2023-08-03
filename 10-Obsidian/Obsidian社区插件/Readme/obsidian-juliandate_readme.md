@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322205477
 title: Obsidian 插件：Julian Date
 tags: ['日期相关', '快捷键', 'obsidian插件', 'readme']
 description: 添加一个快捷方式来插入当前哥伦布日期，用于天文观测。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232510
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Julian Date

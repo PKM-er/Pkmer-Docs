@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322264643
 title: Obsidian 插件：Shortcuts extender
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 使用快捷键输入特殊符号而无需切换语言
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232425
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Shortcuts extender

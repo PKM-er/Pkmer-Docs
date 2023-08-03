@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322255732
 title: Obsidian 插件：Release Timeline
 tags: ['obsidian插件', 'readme']
 description: 根据笔记元数据以数据视图类似的语法渲染发布时间线。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232452
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Release Timeline

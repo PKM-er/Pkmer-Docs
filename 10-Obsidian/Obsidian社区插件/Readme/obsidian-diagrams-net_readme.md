@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322171701
 title: Obsidian 插件：Diagrams.net
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在 Obsidian 中创建和编辑 Draw.io 图表
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232524
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Diagrams.net

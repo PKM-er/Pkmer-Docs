@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322180219
 title: Obsidian 插件：External Link Helper
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，可以让您更容易地将外部链接插入您的笔记中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232520
+modified: 20230101000000
 ---
 
 # Obsidian 插件：External Link Helper

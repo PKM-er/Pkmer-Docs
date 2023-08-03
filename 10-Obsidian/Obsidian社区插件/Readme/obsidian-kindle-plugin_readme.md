@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322210648
 title: Obsidian 插件：Kindle Highlights
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 使用您的亚马逊登录或上传您的“我的剪辑”文件来同步您的Kindle书籍突出显示
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232510
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Kindle Highlights

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322231422
 title: Obsidian 插件：Obsidian Badge
 tags: ['任务管理', '美化', '效率', 'obsidian插件', 'readme']
 description: 可以自定义一个进度样式，方便你传入任何地方。需要了解下简单的语法规则。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232533
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Badge

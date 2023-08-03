@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322220643
 title: Obsidian 插件：Markdown Tree
 tags: ['obsidian插件', 'readme']
 description: 使用基于Markdown的代码风格，使用制表符、空格和换行符创建一个美观且直观的目录树。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232545
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Markdown Tree

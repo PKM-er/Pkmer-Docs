@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322272976
 title: Obsidian 插件：Style Settings
 tags: ['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 为主题、插件提供图形化设置，很多主题和插件作者会提供一些样式功能样式，都可以通过此插件调整。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232448
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Style Settings

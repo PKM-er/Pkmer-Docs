@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322200938
 title: Obsidian 插件：Icons
 tags: ['样式工具', '美化', 'obsidian插件', 'readme']
 description: 将图标添加到您的 Obsidian 中，扩充默认支持的图标集。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232513
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Icons

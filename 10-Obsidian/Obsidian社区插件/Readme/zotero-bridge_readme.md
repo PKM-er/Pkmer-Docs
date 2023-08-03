@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322295773
 title: Obsidian 插件：Zotero Bridge
 tags: ['obsidian插件', 'readme']
 description: 通过 ZotServer 连接到 Zotero
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232413
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Zotero Bridge

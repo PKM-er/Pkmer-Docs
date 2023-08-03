@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322165155
 title: Obsidian 插件：Custom File Explorer sorting
 tags: ['obsidian插件', 'readme']
 description: 允许在文件资源管理器中手动和自动，基于配置驱动的重新排序和排序文件和文件夹。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232605
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Custom File Explorer sorting

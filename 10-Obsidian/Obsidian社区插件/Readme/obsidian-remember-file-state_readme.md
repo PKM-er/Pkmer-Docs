@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322255928
 title: Obsidian 插件：Remember File State
 tags: ['obsidian插件', 'readme']
 description: 记住每个文件的光标位置、选择、滚动等等
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232452
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Remember File State

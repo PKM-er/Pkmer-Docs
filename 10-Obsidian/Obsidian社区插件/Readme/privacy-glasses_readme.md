@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322250288
 title: Obsidian 插件：Privacy Glasses
-tags: ['安全', 'obsidian插件', 'readme', 0xorial]
+tags: ['安全', 'obsidian插件', 'readme']
 description: 提供按钮或者快捷键，来让你快速模糊屏幕上的文本，以提高隐私安全。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232431
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Privacy Glasses

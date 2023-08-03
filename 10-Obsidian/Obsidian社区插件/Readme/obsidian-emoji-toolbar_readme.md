@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322174987
 title: Obsidian 插件：Emoji Toolbar
 tags: ['编辑工具', '界面相关', '效率', 'obsidian插件', 'readme']
 description: 快速搜索表情符号并将其插入到您的编辑器中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232521
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Emoji Toolbar

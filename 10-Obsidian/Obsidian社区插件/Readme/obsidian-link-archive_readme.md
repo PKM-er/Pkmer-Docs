@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322212424
 title: Obsidian 插件：Link Archive
 tags: ['obsidian插件', 'readme']
 description: 这个插件会把你笔记中的链接归档，这样即使原网站关闭或者被移除，你也可以访问到它们。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232507
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Link Archive

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322145909
 title: Obsidian 插件：Better CodeBlock
 tags: ['obsidian插件', 'readme']
 description: 在阅读视图中为代码块添加标题、行号和折叠按钮
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232532
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Better CodeBlock

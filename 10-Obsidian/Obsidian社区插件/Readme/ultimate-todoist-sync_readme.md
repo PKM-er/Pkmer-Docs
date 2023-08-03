@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322285565
 title: Obsidian 插件：Ultimate Todoist Sync
-tags: ['obsidian插件', 'readme', projectTag, tag]
+tags: ['obsidian插件', 'readme']
 description: 这是迄今为止最好的Obsidian Todoist任务同步插件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232416
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Ultimate Todoist Sync

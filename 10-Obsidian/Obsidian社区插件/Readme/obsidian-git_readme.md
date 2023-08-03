@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322232314
 title: Obsidian 插件：Obsidian Git
 tags: ['备份', 'obsidian插件', 'readme']
 description: 可以通过与 GitHub 等其他远程存储库集成，实现版本控制、内容同步及备份。Obsidian Git 支持多人协作，可以在团队中共享笔记，可快速跟踪文档的历史修改情况，并能够进行版本回滚。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232516
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Git

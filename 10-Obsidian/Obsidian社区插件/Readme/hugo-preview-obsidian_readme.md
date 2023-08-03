@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322200022
 title: Obsidian 插件：Hugo preview Obsidian
 tags: ['obsidian插件', 'readme']
 description: Hugo预览插件（Obsidian）
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232552
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Hugo preview Obsidian

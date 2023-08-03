@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322255615
 title: Obsidian 插件：Relativenumber (relative line numbers)
 tags: ['obsidian插件', 'readme']
 description: 在编辑器的侧边栏显示相对行号。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232452
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Relativenumber (relative line numbers)

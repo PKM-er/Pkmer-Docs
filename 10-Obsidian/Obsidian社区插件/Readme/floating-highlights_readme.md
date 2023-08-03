@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322183122
 title: Obsidian 插件：Floating Highlights
 tags: ['obsidian插件', 'readme']
 description: 增强的高亮功能适用于黑曜石
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232557
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Floating Highlights

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322141615
 title: Obsidian 插件：Argument Map with Argdown
 tags: ['思维导图', 'obsidian插件', 'readme']
 description: 允许您编写argdown代码块并在预览中查看地图
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232534
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Argument Map with Argdown

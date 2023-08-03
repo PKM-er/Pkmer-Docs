@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322202064
 title: Obsidian 插件：Image Upload Toolkit
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，用于将嵌入在Markdown中的本地图片上传到远程存储，并导出Markdown以发布到静态网站。目前，它支持Imgur和Aliyun OSS。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232552
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Image Upload Toolkit

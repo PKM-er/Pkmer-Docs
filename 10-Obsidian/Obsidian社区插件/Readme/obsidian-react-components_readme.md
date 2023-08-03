@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322253616
 title: Obsidian 插件：React Components
-tags: ['自动化', 'obsidian插件', 'readme', 5), 11), 10)]
+tags: ['自动化', 'obsidian插件', 'readme']
 description: 在你的笔记中使用并编写React（Jsx）组件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232454
+modified: 20230101000000
 ---
 
 # Obsidian 插件：React Components

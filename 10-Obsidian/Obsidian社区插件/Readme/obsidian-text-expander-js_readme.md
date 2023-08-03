@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322203828
 title: Obsidian 插件：Inline Scripts
-tags: ['obsidian插件', 'readme', 1, 2, 3]
+tags: ['obsidian插件', 'readme']
 description: 输入文本快捷键，然后用JavaScript生成的文本替换它们。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232446
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Inline Scripts

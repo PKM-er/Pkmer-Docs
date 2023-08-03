@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322144804
 title: Obsidian 插件：Awesome Reader
 tags: ['obsidian插件', 'readme']
 description: 使Obsidian成为一个合适的阅读器。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232615
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Awesome Reader

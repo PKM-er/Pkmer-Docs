@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322161684
 title: Obsidian 插件：Commando
 tags: ['obsidian插件', 'readme']
 description: 使用定义的或每次调用的值，使命令可以重复调用。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232608
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Commando

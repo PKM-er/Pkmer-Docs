@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322161421
 title: Obsidian 插件：Command Alias
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 这个插件为Obsidian命令提供了别名。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232528
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Command Alias

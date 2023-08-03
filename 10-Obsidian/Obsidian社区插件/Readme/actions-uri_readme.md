@@ -1,5 +1,5 @@
 ---
-uid: 20230803231121
+uid: 2023080322133300
 title: Obsidian 插件：Actions URI
 tags: ['obsidian插件', 'readme']
 description: 在应用程序中增加了额外的`x-callback-url`端点，用于常见的操作--它是黑曜石URI的一个干净、超强的补充。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232620
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Actions URI

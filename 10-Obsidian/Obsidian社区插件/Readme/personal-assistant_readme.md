@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322244281
 title: Obsidian 插件：Personal Assistant
 tags: ['obsidian插件', 'readme']
 description: 通过一个命令在Obsidian中简化工作流程，管理备忘录、格式化记录、引用、前置内容、本地图、主题和插件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232432
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Personal Assistant

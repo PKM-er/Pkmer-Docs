@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322273822
 title: Obsidian 插件：System Dark Mode
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 自动使用操作系统的设置在浅色模式和深色模式之间切换。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232448
+modified: 20230101000000
 ---
 
 # Obsidian 插件：System Dark Mode

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322252564
 title: Obsidian 插件：QuickShare
 tags: ['obsidian插件', 'readme']
 description: 一键安全共享您的Obsidian笔记。笔记经过端到端加密。无需API密钥或配置。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232455
+modified: 20230101000000
 ---
 
 # Obsidian 插件：QuickShare

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322134715
 title: Obsidian 插件：Advanced Random Note
 tags: ['obsidian插件', 'readme']
 description: 从自定义查询创建命令以打开随机笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232619
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Advanced Random Note

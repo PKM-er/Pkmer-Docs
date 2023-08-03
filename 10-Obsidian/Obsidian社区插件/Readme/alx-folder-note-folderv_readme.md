@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322135750
 title: "Obsidian 插件：AidenLx's Folder Note - folderv Component"
 tags: ['obsidian插件', 'readme']
 description: 可选的`folderv`组件用于alx-folder-note
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232619
+modified: 20230101000000
 ---
 
 # Obsidian 插件：AidenLx's Folder Note - folderv Component

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322150835
 title: Obsidian 插件：Bible Linker
 tags: ['obsidian插件', 'readme']
 description: 轻松链接多个圣经经文
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232532
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Bible Linker

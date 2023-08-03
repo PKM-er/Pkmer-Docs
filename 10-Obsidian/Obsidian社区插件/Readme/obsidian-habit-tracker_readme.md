@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322193172
 title: Obsidian 插件：Habit Tracker
 tags: ['日期相关', '界面相关', 'obsidian插件', 'readme']
 description: 创建一个简单的日历视图，用于记录和显示你的笔记活动记录
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232515
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Habit Tracker

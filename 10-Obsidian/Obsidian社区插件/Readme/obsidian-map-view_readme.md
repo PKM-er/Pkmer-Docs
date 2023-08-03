@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322215392
 title: Obsidian 插件：Map View
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 一个可交互的地图视图来记录您的笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232506
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Map View
@@ -87,7 +87,7 @@ modified: 20230803232506
         - [2.0.3](#203)
         - [2.0.0](#200)
 
-<!-- Created by <https://github.com/ekalinin/github-markdown-toc> -->
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: erez, at: Fri Jul 28 09:51:19 AM IDT 2023 -->
 
 <!--te-->

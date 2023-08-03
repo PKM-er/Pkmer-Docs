@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322231755
 title: Obsidian 插件：Obsidian Chess
 tags: ['游戏', 'obsidian插件', 'readme']
 description: 让你可以记录国际象棋的棋局
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232530
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Chess

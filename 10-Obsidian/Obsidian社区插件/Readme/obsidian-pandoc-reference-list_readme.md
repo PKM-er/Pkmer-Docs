@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322242627
 title: Obsidian 插件：Pandoc Reference List
 tags: ['obsidian插件', 'readme']
 description: 在当前文档中，为每个pandoc citekey显示一个格式化的参考资料在侧边栏中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232459
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Pandoc Reference List

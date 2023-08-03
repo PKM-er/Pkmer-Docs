@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322174753
 title: Obsidian 插件：Emoji Magic
 tags: ['obsidian插件', 'readme']
 description: 轻松添加表情符号，使用强大的关键字搜索。🔮 ✨ 🐇
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232601
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Emoji Magic

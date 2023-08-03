@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322171036
 title: Obsidian 插件：Day and Night
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，可以根据设定的时间表自动在日间主题和夜间主题之间切换主题。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232525
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Day and Night

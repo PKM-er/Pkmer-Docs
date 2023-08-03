@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322251023
 title: Obsidian 插件：Pseudocode
 tags: ['obsidian插件', 'readme']
 description: 帮助在代码块中渲染类似LaTeX风格的伪代码。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232430
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Pseudocode
@@ -136,7 +136,7 @@ modified: 20230803232430
 
 :tada: 伪代码插件现在可以在 Obsidian 的社区插件部分找到。要安装它，只需搜索**Pseudocode**并点击安装按钮。
 
-<!-- ### 使用[BRAT](<https://github.com/TfTHacker/obsidian42-brat#Quick-Guide-for-using-BRAT)>
+<!-- ### 使用[BRAT](https://github.com/TfTHacker/obsidian42-brat#Quick-Guide-for-using-BRAT)
 
 1. 从Obsidian的社区插件中安装**Obsidian-42 BRAT**。
 2. 打开命令面板，运行命令`BRAT: Add a beta plugin for testing`。输入此存储库的URL `https://github.com/Yaotian-Liu/obsidian-pseudocode`。

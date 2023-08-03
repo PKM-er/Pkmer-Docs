@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322144426
 title: Obsidian 插件：Avatar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示一个头像图片。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232616
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Avatar

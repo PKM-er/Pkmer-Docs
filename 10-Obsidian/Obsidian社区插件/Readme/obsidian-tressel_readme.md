@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322284789
 title: Obsidian 插件：Tressel Sync for Obsidian
 tags: ['obsidian插件', 'readme']
 description: Tressel 官方插件，可将您的推文和线程同步/导出到 Obsidian 中
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232439
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Tressel Sync for Obsidian

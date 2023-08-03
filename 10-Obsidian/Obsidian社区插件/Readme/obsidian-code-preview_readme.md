@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322160781
 title: Obsidian 插件：Code Preview
-tags: ['obsidian插件', 'readme', 2d82cc20]
+tags: ['obsidian插件', 'readme']
 description: 文件路径预览代码块
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232529
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Code Preview

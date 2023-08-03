@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322273631
 title: Obsidian 插件：Sync Google Calendar
 tags: ['obsidian插件', 'readme']
 description: 将Google日历中的事件同步，并像任务一样管理它们。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232421
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Sync Google Calendar

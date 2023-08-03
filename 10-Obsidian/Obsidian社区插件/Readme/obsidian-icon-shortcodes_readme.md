@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322200519
 title: Obsidian 插件：Icon Shortcodes
 tags: ['效率', '编辑器', 'obsidian插件', 'readme']
 description: 插入 emoji 表情符号和带短码的自定义图标。（图标支持多种格式：.bmp, .png, .jpg, .jpeg, .gif, .svg, and .webp)）
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232513
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Icon Shortcodes

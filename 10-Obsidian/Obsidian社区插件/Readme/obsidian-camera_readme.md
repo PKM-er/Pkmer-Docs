@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322231592
 title: Obsidian 插件：Obsidian Camera
 tags: ['编辑器', '第三方工具集成', '效率', 'obsidian插件', 'readme']
 description: 可以通过你对应设备谁想投，拍摄照片和视频记录，将其保存在仓库中，并创建并粘贴链接到记录。【注意此插件并非适配所有的笔记本和移动端手机】
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232531
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Camera
@@ -75,13 +75,13 @@ Obsidian 相机是 Obsidian（<https://obsidian.md）的相机插件。>
 
 ## 演示
 
-<!-- ![demo.gif](<https://raw.githubusercontent.com/aldrinjenson/obsidian-camera/master/demo.gif)> -->
+<!-- ![demo.gif](https://raw.githubusercontent.com/aldrinjenson/obsidian-camera/master/demo.gif) -->
 
 ![demo.gif](demo.gif)
 
 <!-- ![modal screenshot](./ss1.png) -->
 
-<!-- ![modal screenshot](<https://raw.githubusercontent.com/aldrinjenson/obsidian-camera/master/ss2.png)> -->
+<!-- ![modal screenshot](https://raw.githubusercontent.com/aldrinjenson/obsidian-camera/master/ss2.png) -->
 
 
 

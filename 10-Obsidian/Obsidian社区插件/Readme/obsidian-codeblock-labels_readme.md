@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322160296
 title: Obsidian 插件：Code Block Labels
 tags: ['obsidian插件', 'readme']
 description: 为篱笆代码块添加标签
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232529
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Code Block Labels

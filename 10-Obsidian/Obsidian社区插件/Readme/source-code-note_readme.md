@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322271715
 title: Obsidian 插件：Source Code Note
 tags: ['obsidian插件', 'readme']
 description: 帮助您轻松组织源代码注释。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232422
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Source Code Note

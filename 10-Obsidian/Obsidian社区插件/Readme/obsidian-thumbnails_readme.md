@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322281709
 title: Obsidian 插件：Thumbnails
 tags: ['obsidian插件', 'readme']
 description: 将 YouTube 缩略图插入您的笔记中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232442
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Thumbnails
@@ -39,7 +39,7 @@ modified: 20230803232442
 
 ![版本徽章](https://img.shields.io/github/v/release/Meikul/obsidian-thumbnails)
 
-<!--![下载徽章](<https://img.shields.io/github/downloads/Meikul/obsidian-thumbnails/total.svg)-->>
+<!--![下载徽章](https://img.shields.io/github/downloads/Meikul/obsidian-thumbnails/total.svg)-->
 
 # Obsidian 缩略图
 

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322211445
 title: Obsidian 插件：Last Modified Timestamp in Status Bar
 tags: ['obsidian插件', 'readme']
 description: 在状态栏动态显示文件修改时间戳。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232549
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Last Modified Timestamp in Status Bar

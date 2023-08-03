@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322265749
 title: Obsidian 插件：Simple note quiz
 tags: ['obsidian插件', 'readme']
 description: 开始在你当前的笔记上做一个简单的测验。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232424
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Simple note quiz

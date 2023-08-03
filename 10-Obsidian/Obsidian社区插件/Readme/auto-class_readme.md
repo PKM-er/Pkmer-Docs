@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322142680
 title: Obsidian 插件：Auto Class
 tags: ['obsidian插件', 'readme']
 description: 根据笔记路径自动应用CSS类到markdown视图。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232616
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Auto Class

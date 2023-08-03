@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322171489
 title: Obsidian 插件：Desmos
 tags: ['obsidian插件', 'readme']
 description: 将Desmos图形嵌入您的笔记中
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232524
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Desmos

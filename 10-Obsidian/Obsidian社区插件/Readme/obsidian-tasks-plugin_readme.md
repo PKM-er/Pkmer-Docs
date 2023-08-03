@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322275496
 title: Obsidian 插件：Tasks
 tags: ['任务管理', '自动化', 'obsidian插件', 'readme']
 description: Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232446
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Tasks

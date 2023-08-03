@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322213336
 title: Obsidian 插件：Linked Data Helper
 tags: ['obsidian插件', 'readme']
 description: 准备Linked Data词汇所需的数据。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232548
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Linked Data Helper

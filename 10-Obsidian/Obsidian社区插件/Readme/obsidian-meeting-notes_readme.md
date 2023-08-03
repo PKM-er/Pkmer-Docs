@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322221903
 title: Obsidian 插件：Meeting notes
 tags: ['obsidian插件', 'readme']
 description: 自动在指定文件夹中创建会议笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232502
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Meeting notes

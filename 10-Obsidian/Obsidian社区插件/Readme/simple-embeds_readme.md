@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322265568
 title: Obsidian 插件：Simple Embeds
 tags: ['转换工具', '界面相关', 'obsidian插件', 'readme']
 description: 在预览文件时，将Twitter和YouTube链接替换为嵌入式内容。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232424
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Simple Embeds
@@ -121,5 +121,4 @@ _iOS 应用_
 _Android 应用_
 
 [^1]: 许多主题在预览区域设置了最大宽度，通常约为 750 像素。嵌入内容不会超过主题允许的宽度。
-
 [^2]: 部分支持。存在一些已知问题。

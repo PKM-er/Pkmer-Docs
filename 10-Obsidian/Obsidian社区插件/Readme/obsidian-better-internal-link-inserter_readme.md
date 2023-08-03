@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322231508
 title: Obsidian 插件：Obsidian Better Internal Link Inserter
 tags: ['obsidian插件', 'readme']
 description: 允许在链接建议中使用所选单词作为别名
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232532
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Better Internal Link Inserter

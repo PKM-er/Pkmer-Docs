@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322262793
 title: Obsidian 插件：Scrybble
 tags: ['obsidian插件', 'readme']
 description: 从你的ReMarkable平板电脑同步高亮到Obsidian！
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232426
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Scrybble

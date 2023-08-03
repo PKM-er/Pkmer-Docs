@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322254083
 title: Obsidian 插件：Reading Time
 tags: ['界面相关', '状态栏', '时间管理', 'obsidian插件', 'readme']
 description: 将当前笔记的阅读时间添加到 Obsidian 的状态栏
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232453
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Reading Time

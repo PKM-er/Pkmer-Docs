@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322262981
 title: Obsidian 插件：Search Obsidian in Google
 tags: ['obsidian插件', 'readme']
 description: 一个简单的插件，用于在Google（或其他搜索引擎）中搜索当前的笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232426
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Search Obsidian in Google

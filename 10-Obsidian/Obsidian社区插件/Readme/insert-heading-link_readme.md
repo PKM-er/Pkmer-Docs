@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322203968
 title: Obsidian 插件：Insert Heading Link
 tags: ['obsidian插件', 'readme']
 description: 添加一个命令来创建一个链接到标题。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232551
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Insert Heading Link

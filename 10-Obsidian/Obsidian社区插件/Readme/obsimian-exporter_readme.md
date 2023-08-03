@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322235778
 title: Obsidian 插件：Obsimian
 tags: ['编程', 'obsidian插件', 'readme']
 description: Obsidian 模拟框架用于测试 Obsidian 插件，并输出插件相关的信息。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232435
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsimian

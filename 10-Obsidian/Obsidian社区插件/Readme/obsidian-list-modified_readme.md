@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322213938
 title: Obsidian 插件：List Modified
 tags: ['obsidian插件', 'readme']
 description: 一个简单的黑曜石插件，它将符合某些标准的所有修改文件链接到每日笔记中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232506
+modified: 20230101000000
 ---
 
 # Obsidian 插件：List Modified

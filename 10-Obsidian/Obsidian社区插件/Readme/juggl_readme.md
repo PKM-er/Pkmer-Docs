@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322205396
 title: Obsidian 插件：Juggl
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 为Obsidian添加一个完全交互式、可样式化和可扩展的图形视图。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232551
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Juggl
@@ -52,7 +52,7 @@ modified: 20230803232551
         <img src="https://img.shields.io/discord/794500624163143720?logo=discord"
             alt="在Discord上聊天" width="120"></a>
 </p>
-Juggl是一个完全交互式、可样式化和可扩展的图形视图，适用于[Obsidian](<https://obsidian.md)。它被设计为一个高级的>“本地”图形视图，称为“工作区”，您可以轻松地在其中操纵所有的思想：通过浏览您的保险库来进行美丽的图形！
+Juggl是一个完全交互式、可样式化和可扩展的图形视图，适用于[Obsidian](https://obsidian.md)。它被设计为一个高级的“本地”图形视图，称为“工作区”，您可以轻松地在其中操纵所有的思想：通过浏览您的保险库来进行美丽的图形！
 
 例如，您可以选择展开图形的哪些部分，以确保屏幕上没有太多的信息。您可以使用强大的 [Cytoscape.js库](https://js.cytoscape.org) 完全控制图形的样式：Juggl 具有一个有用的样式窗格，用于设置节点的颜色、形状、大小和图标。这有助于您立即了解每个节点的内容。
 

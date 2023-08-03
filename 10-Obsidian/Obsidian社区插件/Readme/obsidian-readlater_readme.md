@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322253698
 title: Obsidian 插件：Read Later
 tags: ['obsidian插件', 'readme']
 description: 将网页同步到Markdown，并与阅读稍后应用（Pocket，Instapaper）集成。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232453
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Read Later

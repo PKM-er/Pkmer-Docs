@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322185563
 title: Obsidian 插件：Full Calendar
 tags: ['日期相关', '任务管理', '文件管理', '美化', 'obsidian插件', 'readme']
 description: 以独立界面方式，在 Obsidian 中保存活动并管理您的日历以及所有其他笔记。以便您可以保持您不断变化的日常日程安排和特殊事件和计划，以及您的任务和笔记，并在所有这些之间自由链接。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232517
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Full Calendar

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322221352
 title: Obsidian 插件：Mathpad
 tags: ['obsidian插件', 'readme']
 description: Onsidian计算机代数系统和计算器
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232545
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Mathpad

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322203149
 title: Obsidian 插件：Incremental ID
 tags: ['obsidian插件', 'readme']
 description: 允许生成类似Jira的ID。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232551
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Incremental ID

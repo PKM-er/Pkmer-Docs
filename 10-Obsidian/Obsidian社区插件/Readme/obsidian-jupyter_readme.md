@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322205643
 title: Obsidian 插件：Jupyter
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 在Obsidian中使用Jupyter运行Python代码。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232510
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Jupyter

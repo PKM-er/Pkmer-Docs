@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322254952
 title: Obsidian 插件：Reference Map
 tags: ['obsidian插件', 'readme']
 description: 文献综述和发现的参考文献和引文图谱。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232428
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Reference Map

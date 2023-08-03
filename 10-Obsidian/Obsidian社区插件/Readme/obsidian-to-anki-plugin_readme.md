@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322235098
 title: Obsidian 插件：Obsidian_to_Anki
-tags: ['第三方工具集成', '学习', 'obsidian插件', 'readme', flashcard样式。]
+tags: ['第三方工具集成', '学习', 'obsidian插件', 'readme']
 description: 这是一个 Anki 集成插件！专为高效批量导出而设计。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232441
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian_to_Anki

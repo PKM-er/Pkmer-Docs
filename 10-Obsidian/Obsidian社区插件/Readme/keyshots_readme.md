@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322210205
 title: Obsidian 插件：Keyshots
 tags: ['obsidian插件', 'readme']
 description: 添加来自像Visual Studio Code或JetBrains Family等流行IDE的经典热键/快捷键命令。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232550
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Keyshots

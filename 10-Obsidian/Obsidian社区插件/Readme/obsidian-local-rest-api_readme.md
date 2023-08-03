@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322214550
 title: Obsidian 插件：Local REST API
 tags: ['obsidian插件', 'readme']
 description: 通过安全的REST API与您的笔记进行交互，解锁您的自动化需求。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232506
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Local REST API

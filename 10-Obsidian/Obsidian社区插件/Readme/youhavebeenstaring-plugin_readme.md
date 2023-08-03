@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322295287
 title: Obsidian 插件：YouHaveBeenStaring
 tags: ['界面相关', '统计', '状态栏', '时间管理', 'obsidian插件', 'readme']
 description: 告诉你用了多久 Obsidian 了
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232413
+modified: 20230101000000
 ---
 
 # Obsidian 插件：YouHaveBeenStaring

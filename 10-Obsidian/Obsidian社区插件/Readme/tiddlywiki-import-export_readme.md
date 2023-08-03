@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322202682
 title: Obsidian 插件：Import/Export TiddlyWiki
 tags: ['obsidian插件', 'readme']
 description: 从Obsidian导入和导出TiddlyWiki。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232418
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Import/Export TiddlyWiki

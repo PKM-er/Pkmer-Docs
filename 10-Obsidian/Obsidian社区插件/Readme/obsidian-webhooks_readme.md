@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322235008
 title: Obsidian 插件：Obsidian Webhooks
 tags: ['obsidian插件', 'readme']
 description: 通过Webhooks连接编辑器与物联网的插件和服务。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232437
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Webhooks

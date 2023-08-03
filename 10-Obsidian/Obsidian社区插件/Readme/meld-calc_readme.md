@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322222196
 title: Obsidian 插件：Meld Calc
 tags: ['obsidian插件', 'readme']
 description: 做数学！在你的笔记中评估数学表达式。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232544
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Meld Calc

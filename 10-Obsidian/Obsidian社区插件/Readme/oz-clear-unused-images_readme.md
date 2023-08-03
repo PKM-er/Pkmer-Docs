@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322155673
 title: Obsidian 插件：Clear Unused Images
 tags: ['自动化', '文件管理', '图片', '附件', '效率', 'obsidian插件', 'readme']
 description: 清除笔记中不再使用的图像以节省空间。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232433
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Clear Unused Images

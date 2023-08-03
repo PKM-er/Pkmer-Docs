@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322213040
 title: Obsidian 插件：Link Range
 tags: ['obsidian插件', 'readme']
 description: 这个 Obsidian 插件为 Obsidian 带来了范围内的 wiki-link 支持。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232548
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Link Range

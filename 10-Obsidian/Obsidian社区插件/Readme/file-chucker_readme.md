@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322180914
 title: Obsidian 插件：File Chucker
 tags: ['obsidian插件', 'readme']
 description: 快速移动文件到新的或已存在的文件夹，然后打开下一个文件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232559
+modified: 20230101000000
 ---
 
 # Obsidian 插件：File Chucker

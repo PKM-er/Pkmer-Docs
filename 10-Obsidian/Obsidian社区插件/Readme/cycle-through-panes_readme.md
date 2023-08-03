@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322165778
 title: Obsidian 插件：Cycle through Panes
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 使用`ctrl + Tab`循环浏览你打开的窗格，就像在浏览器中浏览标签页一样！官方已经支持此功能
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232604
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Cycle through Panes

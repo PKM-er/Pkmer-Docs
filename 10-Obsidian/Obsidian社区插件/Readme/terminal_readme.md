@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322280025
 title: Obsidian 插件：Terminal
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中集成控制台、shell和终端。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232419
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Terminal

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322254755
 title: Obsidian 插件：Recipe Grabber
 tags: ['obsidian插件', 'readme']
 description: 快速获取任何在线食谱的重要内容。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232428
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Recipe Grabber

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322225020
 title: Obsidian 插件：Neo4j Graph View
 tags: ['界面相关', '搜索/排序', 'obsidian插件', 'readme']
 description: Neo4j的高级图形可视化和查询插件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232541
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Neo4j Graph View

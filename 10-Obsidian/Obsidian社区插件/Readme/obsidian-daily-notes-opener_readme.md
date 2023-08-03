@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322170433
 title: Obsidian 插件：Daily notes opener
 tags: ['obsidian插件', 'readme']
 description: 轻松在新窗格中打开日记和周期性记录；自定义周期性记录的背景；快速添加新行到日记中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232525
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Daily notes opener

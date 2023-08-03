@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322144526
 title: Obsidian 插件：Awesome Brain Manager
 tags: ['obsidian插件', 'readme']
 description: 一个工具包试图解决大多数人在黑曜石中通常遇到的所有琐碎问题。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232616
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Awesome Brain Manager
@@ -114,7 +114,7 @@ modified: 20230803232616
 
 #### 文档方向切换功能展示
 
-<a href="ttps://<www.bilibili.com/video/BV1ne4y1P7qf/?spm_id_from=333.999.0.0>">
+<a href="ttps://www.bilibili.com/video/BV1ne4y1P7qf/?spm_id_from=333.999.0.0">
   <img src="https://raw.githubusercontent.com/JuckZ/awesome-brain-manager/master/public/recording/preview/文档方向.png" alt="文档方向切换功能展示" width="200">
 </a>
 

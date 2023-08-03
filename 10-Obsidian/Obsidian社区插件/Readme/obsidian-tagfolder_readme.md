@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322274958
 title: Obsidian 插件：TagFolder
 tags: ['文件管理', '标签', 'obsidian插件', 'readme']
 description: 将标签变为文件夹形式，管理你的笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232447
+modified: 20230101000000
 ---
 
 # Obsidian 插件：TagFolder

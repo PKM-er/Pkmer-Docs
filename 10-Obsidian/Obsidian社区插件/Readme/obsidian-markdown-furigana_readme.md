@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322220099
 title: Obsidian 插件：Markdown Furigana
 tags: ['图表生成', '日语相关', 'obsidian插件', 'readme']
 description: Obsidian的简单Markdown到ふりがな渲染插件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232504
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Markdown Furigana

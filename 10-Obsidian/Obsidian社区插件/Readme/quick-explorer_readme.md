@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322251815
 title: Obsidian 插件：Quick Explorer
 tags: ['界面相关', '文件管理', '导航工具', 'obsidian插件', 'readme']
 description: 为你展示当前文件的路径（面包屑导航），你可以在这个导航上操作跳转到其他文件
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232430
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Quick Explorer

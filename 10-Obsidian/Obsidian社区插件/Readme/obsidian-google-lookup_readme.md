@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322191927
 title: Obsidian 插件：Google Calendar and Contacts Lookup
 tags: ['日期相关', '第三方工具集成', 'obsidian插件', 'readme']
 description: 让你在 Obsidian 中使用你 Google 帐户的联系人和日历事件信息。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232516
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Google Calendar and Contacts Lookup

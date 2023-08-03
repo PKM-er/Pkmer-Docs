@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322140892
 title: Obsidian 插件：Apple Books Highlights
 tags: ['obsidian插件', 'readme']
 description: 自动同步您的Apple Books亮点。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232618
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Apple Books Highlights

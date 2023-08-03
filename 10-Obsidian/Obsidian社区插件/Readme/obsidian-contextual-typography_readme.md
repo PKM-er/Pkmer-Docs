@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322162970
 title: Obsidian 插件：Contextual Typography
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 在预览模式中，该插件为所有顶级div添加了一个data-tag-name属性，其中包含子标签的名称，从而允许上下文的排版样式。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232527
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Contextual Typography

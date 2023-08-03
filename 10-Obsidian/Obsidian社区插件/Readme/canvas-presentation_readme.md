@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322153549
 title: Obsidian 插件：Canvas Presentation
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: 一个插件，帮助您基于序列显示卡片。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232611
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Canvas Presentation

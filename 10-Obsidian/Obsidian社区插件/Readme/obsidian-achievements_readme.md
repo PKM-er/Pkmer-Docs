@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322133217
 title: Obsidian 插件：Achievements
-tags: ['obsidian插件', 'readme', 标签]
+tags: ['obsidian插件', 'readme']
 description: 为黑曜石增加成就。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232537
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Achievements

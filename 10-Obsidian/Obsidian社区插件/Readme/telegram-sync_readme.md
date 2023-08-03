@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322275671
 title: Obsidian 插件：Telegram Sync
 tags: ['obsidian插件', 'readme']
 description: 将Telegram中的消息和文件转移到Obsidian。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232419
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Telegram Sync

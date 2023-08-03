@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322172792
 title: Obsidian 插件：Doubleshift
 tags: ['obsidian插件', 'readme']
 description: 按两次Shift（或其他任何键），就像在IntelliJ中一样，打开命令面板，并创建自己的快捷键。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232522
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Doubleshift

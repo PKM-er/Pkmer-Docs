@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322282234
 title: Obsidian 插件：Timelines
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 使用指定的标签和语法组合，在 Obsidian 中创建笔记的时间线视图
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232442
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Timelines

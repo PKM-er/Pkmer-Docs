@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322245699
 title: Obsidian 插件：Podcast Note
 tags: ['音频和视频', '模板', 'obsidian插件', 'readme']
 description: Podcast Note可以自动将播客信息添加到您的笔记中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232431
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Podcast Note

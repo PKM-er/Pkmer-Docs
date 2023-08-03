@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322160961
 title: Obsidian 插件：CodeMirror Options
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 增强 Obsidian 的桌面编辑模式，添加诸如 WYSIWYG/实时预览、语法高亮等功能。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232529
+modified: 20230101000000
 ---
 
 # Obsidian 插件：CodeMirror Options

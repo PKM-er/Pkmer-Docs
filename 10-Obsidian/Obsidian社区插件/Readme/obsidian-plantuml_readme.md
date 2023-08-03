@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322244882
 title: Obsidian 插件：PlantUML
 tags: ['图表生成', '界面相关', '编辑器', '编程', 'obsidian插件', 'readme']
 description: 在 Obsidian 笔记中渲染 UML 图
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232457
+modified: 20230101000000
 ---
 
 # Obsidian 插件：PlantUML

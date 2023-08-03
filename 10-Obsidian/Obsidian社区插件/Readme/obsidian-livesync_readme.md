@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322263451
 title: Obsidian 插件：Self-hosted LiveSync
 tags: ['obsidian插件', 'readme']
 description: 社区实施自托管的Livesync。立即将您的保险库更改反映到其他设备上。请确保禁用其他同步解决方案，以避免内容损坏或重复。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232506
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Self-hosted LiveSync

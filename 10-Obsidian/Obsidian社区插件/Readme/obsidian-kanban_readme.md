@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322205728
 title: Obsidian 插件：Kanban
 tags: ['界面相关', '任务管理', '效率', 'obsidian插件', 'readme']
 description: 在 Obsidian 中创建MarkDown支持的看板
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232510
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Kanban

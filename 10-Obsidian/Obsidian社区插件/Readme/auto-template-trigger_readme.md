@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322143685
 title: Obsidian 插件：Auto Template Trigger
 tags: ['obsidian插件', 'readme']
 description: 创建笔记时自动提示模板。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232616
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Auto Template Trigger

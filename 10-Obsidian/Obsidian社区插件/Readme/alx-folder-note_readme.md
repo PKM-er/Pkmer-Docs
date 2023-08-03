@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322135658
 title: "Obsidian 插件：AidenLx's Folder Note"
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 使用文件夹笔记为文件夹添加描述、摘要和更多信息。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232619
+modified: 20230101000000
 ---
 
 # Obsidian 插件：AidenLx's Folder Note

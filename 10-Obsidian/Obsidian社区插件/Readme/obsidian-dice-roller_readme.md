@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322171849
 title: Obsidian 插件：Dice Roller
 tags: ['搜索/排序', '界面相关', 'obsidian插件', 'readme']
 description: 为你的笔记增加一点随机性，你可以通过插入特定语法的方式，在需要生成随机数字，字母地方，生成变动的数据，甚至是变动的笔记，用于你来随机回顾笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232524
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Dice Roller

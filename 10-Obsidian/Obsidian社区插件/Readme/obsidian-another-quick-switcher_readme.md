@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322140321
 title: Obsidian 插件：Another Quick Switcher
-tags: ['obsidian插件', 'readme', what-is-the-2-hop-link]
+tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian插件，是另一种快速切换的选择。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232535
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Another Quick Switcher

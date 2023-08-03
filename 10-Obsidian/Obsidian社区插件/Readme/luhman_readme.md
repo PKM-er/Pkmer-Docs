@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322214990
 title: Obsidian 插件：Luhman
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 处理具有Luhman式ID作为文件名的Zettelkasten的命令
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232546
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Luhman

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322200221
 title: Obsidian 插件：Hypothes.is
 tags: ['obsidian插件', 'readme']
 description: and notes同步您的假设重点和笔记
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232514
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Hypothes.is

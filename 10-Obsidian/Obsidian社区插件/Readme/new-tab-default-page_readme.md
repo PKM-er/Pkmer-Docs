@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322171328
 title: Obsidian 插件：Default New Tab Page
 tags: ['obsidian插件', 'readme']
 description: 在创建新标签时，可以打开你选择的笔记，就像在浏览器中一样。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232540
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Default New Tab Page

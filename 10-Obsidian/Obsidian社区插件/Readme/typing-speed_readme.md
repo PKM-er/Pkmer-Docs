@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322285275
 title: Obsidian 插件：Typing speed
 tags: ['obsidian插件', 'readme']
 description: 在状态栏中显示当前打字速度的插件
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232417
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Typing speed

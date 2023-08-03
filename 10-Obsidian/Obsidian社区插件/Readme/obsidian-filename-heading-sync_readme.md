@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322182236
 title: Obsidian 插件：Filename Heading Sync
 tags: ['模板', 'obsidian插件', 'readme']
 description: 黑曜石插件，用于保持文件名与文件的第一个标题同步
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232518
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Filename Heading Sync

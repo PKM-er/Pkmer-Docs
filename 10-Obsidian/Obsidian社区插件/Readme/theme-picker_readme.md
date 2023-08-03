@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322281350
 title: Obsidian 插件：Theme Picker
 tags: ['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 快速预览和选择已安装的主题
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232418
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Theme Picker

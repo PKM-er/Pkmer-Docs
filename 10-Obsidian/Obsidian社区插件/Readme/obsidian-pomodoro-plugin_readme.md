@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322233841
 title: Obsidian 插件：Obsidian Pomodoro Plugin
 tags: ['任务管理', '效率', '时间管理', 'obsidian插件', 'readme']
 description: 为 Obsidian 田间一个简单番茄钟。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232456
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Pomodoro Plugin

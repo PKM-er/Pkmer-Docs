@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322253262
 title: Obsidian 插件：Random Structural Diary
 tags: ['日志类', 'obsidian插件', 'readme']
 description: 这是一个插件，用于从预先准备的问题列表中随机选择问题。它允许您每次回答不同的问题。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232428
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Random Structural Diary

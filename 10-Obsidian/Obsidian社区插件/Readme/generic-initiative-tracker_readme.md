@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322190629
 title: Obsidian 插件：Generic Initiative Tracker
 tags: ['obsidian插件', 'readme']
 description: 通用TTRPG行动跟踪器
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232556
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Generic Initiative Tracker

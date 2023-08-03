@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322241516
 title: Obsidian 插件：Order List
 tags: ['obsidian插件', 'readme']
 description: 添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232434
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Order List

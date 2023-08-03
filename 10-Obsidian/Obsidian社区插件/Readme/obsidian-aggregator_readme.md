@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322135089
 title: Obsidian 插件：Aggregator
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以帮助你从文件中收集信息，并在文件中做出总结。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232536
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Aggregator

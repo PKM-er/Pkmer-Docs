@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322280650
 title: Obsidian 插件：Text Generator
 tags: ['AI', '第三方工具集成', '编辑工具', '中文处理', 'obsidian插件', 'readme']
 description: 文本生成器是一个方便的插件，可帮助您使用 GPT-3 (OpenAI) 生成文本内容。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232443
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Text Generator

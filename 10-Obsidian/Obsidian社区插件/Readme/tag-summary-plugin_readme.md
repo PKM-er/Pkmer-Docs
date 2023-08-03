@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322274711
 title: Obsidian 插件：Tag Summary
-tags: ['obsidian插件', 'readme', chapter1, crazy, crazy）。如果您只想包括包含列表中所有标签的文本块，可以使用**include:**标签声明，如下例所示。, crazy标签的段落。如果您想要排除包含特定标签的文本块，可以添加**exclude:**标签，如下所示。, chapter2标签并且同时包含, chapter4标签但不包含, chapter2**。]
+tags: ['obsidian插件', 'readme']
 description: 这个插件可以创建具有相同标签的段落或文本块的摘要。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232420
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Tag Summary

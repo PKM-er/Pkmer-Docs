@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322181224
 title: Obsidian 插件：File Diff
 tags: ['obsidian插件', 'readme']
 description: 查看两个文件之间的差异，并选择合并选项。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232559
+modified: 20230101000000
 ---
 
 # Obsidian 插件：File Diff

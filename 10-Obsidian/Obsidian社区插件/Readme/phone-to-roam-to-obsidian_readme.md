@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322244370
 title: Obsidian 插件：Phone to Roam to Obsidian
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: phonetoroam.com的黑曜石客户端
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232432
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Phone to Roam to Obsidian

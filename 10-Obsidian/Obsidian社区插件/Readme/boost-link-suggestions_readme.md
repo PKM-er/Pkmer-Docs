@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322151731
 title: Obsidian 插件：Boost Link Suggestions
 tags: ['obsidian插件', 'readme']
 description: 一个替代的内联链接建议者，可以按链接数量和手动提升排序结果。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232613
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Boost Link Suggestions

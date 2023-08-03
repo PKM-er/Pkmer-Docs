@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322273723
 title: Obsidian 插件：Sync Graph Settings
 tags: ['obsidian插件', 'readme']
 description: .这是一个插件，用于将全局图表设置（如颜色组）同步到本地图表。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232421
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Sync Graph Settings

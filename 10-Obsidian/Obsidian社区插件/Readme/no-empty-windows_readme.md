@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322225505
 title: Obsidian 插件：No Empty Windows
 tags: ['obsidian插件', 'readme']
 description: 当最后一个标签关闭时，使用cmd+W在Mac上关闭Obsidian窗口。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232540
+modified: 20230101000000
 ---
 
 # Obsidian 插件：No Empty Windows

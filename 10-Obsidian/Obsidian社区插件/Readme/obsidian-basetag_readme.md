@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322145516
 title: Obsidian 插件：Base Tag Renderer
 tags: ['obsidian插件', 'readme']
 description: 这个插件在预览模式下渲染标签的基本名称。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232532
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Base Tag Renderer

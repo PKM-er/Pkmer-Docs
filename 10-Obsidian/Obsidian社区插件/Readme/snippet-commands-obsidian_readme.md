@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322271063
 title: Obsidian 插件：Snippet Commands
 tags: ['obsidian插件', 'readme']
 description: 注册自定义CSS片段作为命令（可以绑定热键）
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232423
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Snippet Commands

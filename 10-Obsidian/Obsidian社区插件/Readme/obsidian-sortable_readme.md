@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322271620
 title: Obsidian 插件：Sortable
 tags: ['表格', '搜索/排序', 'obsidian插件', 'readme']
 description: 为 Obsidian 的表格增加排序功能
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232449
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Sortable

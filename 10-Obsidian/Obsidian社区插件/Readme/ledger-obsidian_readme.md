@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322212069
 title: Obsidian 插件：Ledger
 tags: ['金融', 'obsidian插件', 'readme']
 description: 普通文本会计
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232549
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Ledger

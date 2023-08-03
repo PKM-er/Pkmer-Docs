@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322174518
 title: Obsidian 插件：Embedded Code Title
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这是一个 Obsidian 插件，可以将标题嵌入到代码块中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232521
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Embedded Code Title

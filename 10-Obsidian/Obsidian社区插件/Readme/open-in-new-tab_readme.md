@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322240740
 title: Obsidian 插件：Open In New Tab
 tags: ['obsidian插件', 'readme']
 description: 像浏览器一样在新标签页中打开文件
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232435
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Open In New Tab

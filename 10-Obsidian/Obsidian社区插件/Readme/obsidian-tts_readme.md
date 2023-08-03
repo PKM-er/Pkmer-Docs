@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322280914
 title: Obsidian 插件：Text to Speech
 tags: ['效率', '第三方工具集成', '转换工具', 'obsidian插件', 'readme']
 description: Obsidian 的语音合成功能。听取您的笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232439
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Text to Speech
@@ -75,7 +75,7 @@ Obsidian 的语音合成功能。听取您的笔记。
 - [MacOS](https://support.apple.com/guide/mac-help/change-the-system-language-mh26684/mac)
 - [iOS](https://support.apple.com/guide/iphone/change-the-language-and-region-iphce20717a3/ios)
 
-<!--- [Android](<https://support.google.com/accessibility/android/answer/6006983?hl=en)--->>
+<!--- [Android](https://support.google.com/accessibility/android/answer/6006983?hl=en)--->
 
 ## 安装插件
 

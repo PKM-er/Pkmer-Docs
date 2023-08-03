@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322244549
 title: Obsidian 插件：Pinboard Sync
 tags: ['obsidian插件', 'readme']
 description: 将Pinboard.in链接与每日笔记同步
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232431
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Pinboard Sync

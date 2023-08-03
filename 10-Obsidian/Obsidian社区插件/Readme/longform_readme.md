@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322214824
 title: Obsidian 插件：Longform
 tags: ['文件管理', 'obsidian插件', 'readme']
 description: Obsidian 插件，可帮助您编写和编辑小说、剧本和其他长期项目。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232547
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Longform

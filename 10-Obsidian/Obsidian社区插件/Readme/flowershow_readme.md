@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322183547
 title: Obsidian 插件：Flowershow
 tags: ['obsidian插件', 'readme']
 description: 直接从你的Obsidian vault中使用Flowershow进行发布。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232557
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Flowershow

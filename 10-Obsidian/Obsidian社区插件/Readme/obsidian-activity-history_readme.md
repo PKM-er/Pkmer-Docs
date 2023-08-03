@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322133382
 title: Obsidian 插件：Activity History
 tags: ['文件历史', '统计', 'obsidian插件', 'readme']
 description: 跟踪指定项目的活动，Github 之类的活动板
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232537
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Activity History

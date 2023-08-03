@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322293716
 title: Obsidian 插件：Word Splitting for Japanese in Edit Mode
 tags: ['obsidian插件', 'readme']
 description: Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232551
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Word Splitting for Japanese in Edit Mode

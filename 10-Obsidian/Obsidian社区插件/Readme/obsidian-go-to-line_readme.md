@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322191720
 title: Obsidian 插件：Go to Line
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 这个插件提供了一个跳转行命令。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232516
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Go to Line

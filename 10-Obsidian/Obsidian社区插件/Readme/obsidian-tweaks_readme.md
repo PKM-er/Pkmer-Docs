@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322235575
 title: Obsidian 插件：ObsidianTweaks
 tags: ['快捷键', '效率', 'obsidian插件', 'readme']
 description: 提供了一些快捷键和小功能，包括快速改变大纲等级，加粗，斜体设置等等。部分功能官方已这次hi对应的快捷键。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232439
+modified: 20230101000000
 ---
 
 # Obsidian 插件：ObsidianTweaks

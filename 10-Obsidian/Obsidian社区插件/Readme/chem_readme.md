@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322154806
 title: Obsidian 插件：Chem
 tags: ['obsidian插件', 'readme']
 description: 提供化学支持。将SMILES字符串转化为化学结构。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232611
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Chem

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322223339
 title: Obsidian 插件：Micro.publish
 tags: ['obsidian插件', 'readme']
 description: 发布笔记到Micro.blog。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232543
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Micro.publish

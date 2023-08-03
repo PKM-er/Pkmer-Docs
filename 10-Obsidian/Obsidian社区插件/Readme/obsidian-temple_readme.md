@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322275918
 title: Obsidian 插件：Temple
 tags: ['模板', 'obsidian插件', 'readme']
 description: Obsidian插件，由Nunjucks驱动的模板。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232446
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Temple

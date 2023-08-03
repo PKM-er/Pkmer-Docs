@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322212868
 title: Obsidian 插件：Link indexer
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 根据各种条件生成带有链接的索引注释。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232507
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Link indexer

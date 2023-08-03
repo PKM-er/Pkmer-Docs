@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322263262
 title: Obsidian 插件：Select current line
 tags: ['obsidian插件', 'readme']
 description: 选择光标所在的当前行。按下“ESC”键进行选择。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232425
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Select current line

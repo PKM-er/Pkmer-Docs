@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322172171
 title: Obsidian 插件：Discord Rich Presence
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 更新你的Discord状态，让你的朋友们知道你正在Obsidian中做什么。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232523
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Discord Rich Presence

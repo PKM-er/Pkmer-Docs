@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322292622
 title: Obsidian 插件：Weather Fetcher
 tags: ['obsidian插件', 'readme']
 description: 获取当前天气且插入到 Obsidian 中
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232415
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Weather Fetcher

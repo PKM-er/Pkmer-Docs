@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322231192
 title: Obsidian 插件：Obsidian Anki Sync
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 黑曜石插件，可以制作闪卡，并将它们同步到Anki。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232435
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Anki Sync

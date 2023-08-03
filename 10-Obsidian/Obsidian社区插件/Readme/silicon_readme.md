@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322265390
 title: Obsidian 插件：Silicon AI
 tags: ['obsidian插件', 'readme']
 description: 通过硅AI为您的笔记增加一些智能。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232424
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Silicon AI

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322293312
 title: Obsidian 插件：Wikilinks to MDLinks
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将双链和 Markdown 链接互换。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232414
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Wikilinks to MDLinks

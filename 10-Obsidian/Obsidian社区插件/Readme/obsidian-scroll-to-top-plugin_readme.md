@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322262703
 title: Obsidian 插件：Scroll to Top Plugin
 tags: ['界面相关', '效率', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加按钮，可以快速滚动到当前笔记的顶部。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232451
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Scroll to Top Plugin

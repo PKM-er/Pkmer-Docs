@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322270074
 title: Obsidian 插件：Siteswap
 tags: ['obsidian插件', 'readme']
 description: 通过JugglingLab gif服务器可视化杂耍模式Siteswap。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232450
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Siteswap

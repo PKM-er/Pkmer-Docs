@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322284166
 title: Obsidian 插件：Tracker
 tags: ['统计', 'obsidian插件', 'readme']
 description: 将笔记中的变化收集起来，并且提供不同预设的图形分析模板。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232440
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Tracker

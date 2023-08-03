@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322164180
 title: Obsidian 插件：Create Note in Folder
 tags: ['obsidian插件', 'readme']
 description: 在特定文件夹中添加命令以创建一个笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232606
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Create Note in Folder

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322230197
 title: Obsidian 插件：Note Linker
 tags: ['obsidian插件', 'readme']
 description: 自动发现并在笔记之间创建新的链接。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232538
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Note Linker

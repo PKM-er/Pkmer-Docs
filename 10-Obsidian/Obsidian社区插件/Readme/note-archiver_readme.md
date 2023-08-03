@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322225845
 title: Obsidian 插件：Note archiver
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记存档到另一个文件夹的工具
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232540
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Note archiver

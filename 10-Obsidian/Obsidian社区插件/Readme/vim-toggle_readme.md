@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322292021
 title: Obsidian 插件：Vim Toggle
 tags: ['obsidian插件', 'readme']
 description: （它切换vim的开/关）允许在设置中切换和自定义该切换。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232415
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Vim Toggle

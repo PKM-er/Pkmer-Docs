@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322240030
 title: Obsidian 插件：Omnisearch
 tags: ['搜索/排序', '效率', 'obsidian插件', 'readme']
 description: 提供更强大的智能搜索，可以搜索 PDF文件和图像中的文字内容。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232435
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Omnisearch

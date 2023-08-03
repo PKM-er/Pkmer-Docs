@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322242867
 title: Obsidian 插件：PARA Shortcuts
 tags: ['obsidian插件', 'readme']
 description: 这个插件提供有用的命令来使用PARA方法设置和管理您的知识。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232432
+modified: 20230101000000
 ---
 
 # Obsidian 插件：PARA Shortcuts

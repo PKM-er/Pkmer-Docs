@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322292226
 title: Obsidian 插件：Vocabulary View
 tags: ['obsidian插件', 'readme']
 description: 写下一些单词及其解释，并以词汇测试的形式预览它们。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232437
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Vocabulary View

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322231921
 title: Obsidian 插件：Obsidian Clipper
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以帮助你从网络上捕捉精彩瞬间。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232529
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Clipper

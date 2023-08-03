@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322213685
 title: Obsidian 插件：Linter
 tags: ['样式工具', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 格式化和样式化你的笔记。它可用于格式化YAML标签、别名、数组和元数据；脚注；标题；间距；数学块；常规markdown内容，如列表、斜体和粗体样式；以及更多使用自定义规则选项。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232507
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Linter
@@ -83,7 +83,7 @@ disabled rules: [capitalize-headings]
 
 #### 范围忽略
 
-如果您想要禁用文件的特定部分的规则，可以使用范围忽略来实现。范围忽略的语法是 `<!-- linter-disable -->`，其中可选的 `<!-- linter-enable -->` 用于指定 Linter 在哪里重新开始进行代码检查。
+如果您想要禁用文件的特定部分的规则，可以使用范围忽略来实现。范围忽略的语法是 `<!-- linter-disable -->`，其中可选的`<!-- linter-enable -->` 用于指定 Linter 在哪里重新开始进行代码检查。
 
 如果省略范围忽略的结束部分，则默认忽略从范围忽略开始到文件末尾的内容。因此，在不结束范围忽略时要小心。
 

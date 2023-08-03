@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322155591
 title: Obsidian 插件：Citations
 tags: ['编辑工具', '第三方工具集成', '链接处理', 'obsidian插件', 'readme']
 description: 将你的学术资料 在 Obsidian 中使用，如自动从Zotero库中搜索和插入引文。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232530
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Citations

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322284686
 title: Obsidian 插件：Tray
 tags: ['obsidian插件', 'readme']
 description: 从系统托盘中运行Obsidian，以实现可自定义的窗口管理和全局快速笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232417
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Tray

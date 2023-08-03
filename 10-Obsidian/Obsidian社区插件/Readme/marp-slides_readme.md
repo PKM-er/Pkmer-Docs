@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322220923
 title: Obsidian 插件：Marp Slides
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中创建Marp演示文稿。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232545
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Marp Slides
@@ -39,7 +39,7 @@ modified: 20230803232545
 
 [![版本](https://img.shields.io/github/manifest-json/v/samuele-cozzi/obsidian-marp-slides?color=blue)](https://github.com/samuele-cozzi/obsidian-marp-slides/releases/latest)![下载量](https://img.shields.io/github/downloads/samuele-cozzi/obsidian-marp-slides/total)[![CodeFactor](https://www.codefactor.io/repository/github/samuele-cozzi/obsidian-marp-slides/badge)](https://www.codefactor.io/repository/github/samuele-cozzi/obsidian-marp-slides)[![可维护性](https://api.codeclimate.com/v1/badges/78932986b29ffe273e56/maintainability)](https://codeclimate.com/github/samuele-cozzi/obsidian-marp-slides/maintainability)[![测试覆盖率](https://api.codeclimate.com/v1/badges/78932986b29ffe273e56/test_coverage)](https://codeclimate.com/github/samuele-cozzi/obsidian-marp-slides/test_coverage)[![许可证](https://img.shields.io/github/license/samuele-cozzi/obsidian-marp-slides)](https://github.com/samuele-cozzi/obsidian-marp-slides/blob/main/LICENSE)
 
-<!-- ![Obsidian下载量](<https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22better-word-count%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&style=for-the-badge)> -->
+<!-- ![Obsidian下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22better-word-count%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&style=for-the-badge) -->
 
 Marp 幻灯片是基于 [Marp](https://marp.app/) 的非常简单且强大的 [Obsidian](href="https://obsidian.md") 幻灯片扩展。
 

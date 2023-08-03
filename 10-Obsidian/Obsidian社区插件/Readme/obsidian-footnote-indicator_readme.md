@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322184509
 title: Obsidian 插件：Footnote & Citation Indicator
 tags: ['obsidian插件', 'readme']
 description: 指示在凹槽中存在脚注。在状态栏中显示脚注和引文计数。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232518
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Footnote & Citation Indicator

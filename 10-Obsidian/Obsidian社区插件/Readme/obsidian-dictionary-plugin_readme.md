@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322171921
 title: Obsidian 插件：Dictionary
 tags: ['编辑工具', '翻译', '学习', 'obsidian插件', 'readme']
 description: Obsidian 笔记增加多语言词典。包括英式英语，美式英语，印度语、西班牙语，法语，日语，俄罗斯，德语，意大利，韩语，巴西，阿拉伯，土耳其，中文
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232523
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Dictionary
@@ -39,7 +39,7 @@ Obsidian 笔记增加多语言词典。包括英式英语，美式英语，印�
 
 <img align="right" style="width: 27vw" src="https://media.discordapp.net/attachments/796853434397360128/847198380878069771/Screen_Shot_2021-05-26_at_12.43.43_PM.png?width=736&height=676">
 
-# Obsidian 字典插件 [![GitHub 标签（按日期最新）](<https://img.shields.io/github/v/tag/phibr0/obsidian-dictionary)>](<https://github.com/phibr0/obsidian-dictionary/releases)> ![GitHub 所有版本](<https://img.shields.io/github/downloads/phibr0/obsidian-dictionary/total)>
+# Obsidian 字典插件 [![GitHub标签（按日期最新）](https://img.shields.io/github/v/tag/phibr0/obsidian-dictionary)](https://github.com/phibr0/obsidian-dictionary/releases) ![GitHub所有版本](https://img.shields.io/github/downloads/phibr0/obsidian-dictionary/total)
 
 该插件为 [Obsidian](https://obsidian.md) 笔记工具添加了一个字典功能。
 

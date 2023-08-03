@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322142008
 title: Obsidian 插件：Attachment Name Formatting
 tags: ['obsidian插件', 'readme']
 description: 格式化附件名（文件名附件类型索引号.xxx）
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232534
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Attachment Name Formatting

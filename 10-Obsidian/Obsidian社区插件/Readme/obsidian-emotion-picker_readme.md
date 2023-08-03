@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322175153
 title: Obsidian 插件：Emotion Picker
 tags: ['obsidian插件', 'readme']
 description: 从列表中选择一种情绪插入到笔记中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232521
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Emotion Picker

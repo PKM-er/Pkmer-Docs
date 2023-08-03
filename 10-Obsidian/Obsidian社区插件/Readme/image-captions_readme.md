@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322201279
 title: Obsidian 插件：Image Captions
 tags: ['obsidian插件', 'readme']
 description: 当指定了alt文本时，为图像添加字幕
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232552
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Image Captions

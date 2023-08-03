@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322160870
 title: Obsidian 插件：Codeblock Customizer
 tags: ['obsidian插件', 'readme']
 description: 在编辑和阅读模式下自定义您的代码块。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232609
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Codeblock Customizer

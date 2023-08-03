@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322134137
 title: Obsidian 插件：Admonition
 tags: ['样式工具', '美化', '效率', '编辑工具', 'obsidian插件', 'readme']
 description: Obsidian 的块样式，你可以自己定义各种增强块样式，比如警告，笔记，提醒等
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232537
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Admonition

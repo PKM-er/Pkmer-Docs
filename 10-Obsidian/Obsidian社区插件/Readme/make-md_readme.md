@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322215240
 title: Obsidian 插件：MAKE.md
 tags: ['搜索/排序', '界面相关', '链接处理', '编辑工具', '快捷键', '任务管理', '样式工具', '导航工具', '表格', '效率', '美化', 'obsidian插件', 'readme']
 description: Make.md 为你带来了超强的 Obsidian 体验增强功能。自定义顺序对你的文件进行排序，并使用Spaces 添加文件图标。用 Flow 编辑器编辑内嵌文件。并使用Maker Mode为你的文本样式和添加新的markdown块而不需要写markdown。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232546
+modified: 20230101000000
 ---
 
 # Obsidian 插件：MAKE.md

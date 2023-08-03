@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322153820
 title: Obsidian 插件：Card View Switcher
 tags: ['obsidian插件', 'readme']
 description: 快速切换卡片视图
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232531
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Card View Switcher

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322260478
 title: Obsidian 插件：Restore Tab Key
 tags: ['obsidian插件', 'readme']
 description: 恢复tab键行为：tab键插入一个tab，就像它应该的那样。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232427
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Restore Tab Key

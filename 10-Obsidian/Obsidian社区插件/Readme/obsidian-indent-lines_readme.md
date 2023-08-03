@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322203375
 title: Obsidian 插件：Indentation Lines
 tags: ['界面相关', '美化', '效率', 'obsidian插件', 'readme']
 description: 为有序和无序列表创建缩进线。官方已经支持，无序额外安装插件实现。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232511
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Indentation Lines

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322243938
 title: Obsidian 插件：Perilous Writing
 tags: ['obsidian插件', 'readme']
 description: 持续写作，否则将失去所有进展。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232432
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Perilous Writing

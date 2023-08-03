@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322182624
 title: Obsidian 插件：Flashcard Learning
 tags: ['obsidian插件', 'readme']
 description: 改进的闪卡学习系统。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232558
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Flashcard Learning

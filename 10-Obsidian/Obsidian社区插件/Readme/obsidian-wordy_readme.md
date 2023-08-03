@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322294322
 title: Obsidian 插件：Wordy
 tags: ['obsidian插件', 'readme']
 description: 使用 Datamuse API 查找同义词、押韵词等等。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232436
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Wordy

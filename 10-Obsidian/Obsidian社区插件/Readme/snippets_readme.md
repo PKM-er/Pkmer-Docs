@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322271332
 title: Obsidian 插件：Snippets plugin
 tags: ['自动化', '编程', 'obsidian插件', 'readme']
 description: 这个插件允许你在 Obsidian 中运行一些简单的脚本，用于启动一些对应服务，如 Java、Python
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232422
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Snippets plugin

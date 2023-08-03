@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322224196
 title: Obsidian 插件：Movie
 tags: ['obsidian插件', 'readme']
 description: 搜索电影信息和预告片。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232543
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Movie

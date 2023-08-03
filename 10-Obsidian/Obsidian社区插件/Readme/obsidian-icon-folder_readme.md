@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322200421
 title: Obsidian 插件：Icon Folder
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 此插件允许您向文件夹添加图标。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232513
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Icon Folder

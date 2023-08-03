@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322204183
 title: Obsidian 插件：Itinerary
 tags: ['obsidian插件', 'readme']
 description: 通过从您的笔记中渲染日历，可以更轻松地规划您的旅行或活动。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232511
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Itinerary

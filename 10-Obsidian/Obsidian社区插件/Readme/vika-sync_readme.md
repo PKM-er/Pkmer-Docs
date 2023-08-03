@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322291638
 title: Obsidian 插件：Vika Sync
 tags: ['obsidian插件', 'readme']
 description: 将你的笔记同步到Vika
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232415
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Vika Sync

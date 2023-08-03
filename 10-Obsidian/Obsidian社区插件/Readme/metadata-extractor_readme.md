@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322222850
 title: Obsidian 插件：Metadata Extractor
 tags: ['obsidian插件', 'readme']
 description: 定期导出元数据以与第三方应用程序（如启动器或图形分析软件）集成。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232544
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Metadata Extractor

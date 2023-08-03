@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322210831
 title: Obsidian 插件：koncham workspace
 tags: ['工作区', 'obsidian插件', 'readme']
 description: 黑曜石工作空间管理
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232550
+modified: 20230101000000
 ---
 
 # Obsidian 插件：koncham workspace

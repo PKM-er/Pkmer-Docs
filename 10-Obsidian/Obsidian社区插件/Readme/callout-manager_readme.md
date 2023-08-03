@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322153006
 title: Obsidian 插件：Callout Manager
 tags: ['obsidian插件', 'readme']
 description: 轻松创建和自定义标注。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232612
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Callout Manager

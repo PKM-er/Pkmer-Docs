@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322281005
 title: Obsidian 插件：Text Wrapper
 tags: ['obsidian插件', 'readme']
 description: 通过使用快捷键或从命令面板中选择，快速包装所选文本与 HTML 标签
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232538
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Text Wrapper

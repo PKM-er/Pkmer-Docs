@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322233934
 title: Obsidian 插件：Obsidian Query Language
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: .这个插件允许您在Obsidian中查询笔记并表示数据。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232455
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Query Language

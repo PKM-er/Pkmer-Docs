@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322205563
 title: Obsidian 插件：Jump to link
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 这个插件允许使用热键在当前文档中打开链接。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232543
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Jump to link

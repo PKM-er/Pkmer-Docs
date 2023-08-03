@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322224862
 title: Obsidian 插件：Natural Language Syntax Highlighting
 tags: ['界面相关', '美化', '样式工具', '学习', 'obsidian插件', 'readme']
 description: 在编辑器中突出显示形容词、名词、副词、动词等。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232540
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Natural Language Syntax Highlighting

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322135274
 title: Obsidian 插件：AI Assistant
 tags: ['obsidian插件', 'readme']
 description: Obsidian的AI助手插件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232619
+modified: 20230101000000
 ---
 
 # Obsidian 插件：AI Assistant

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322193363
 title: Obsidian 插件：HackerNews
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 该插件会定期获取并在 Obsidian 面板中显示Hackernews 的热门新闻。Hackernews 上共享了一些最佳故事，博客，新闻和资源，并且此插件在使用黑曜石时有助于保持更新。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232515
+modified: 20230101000000
 ---
 
 # Obsidian 插件：HackerNews
@@ -39,7 +39,7 @@ modified: 20230803232515
 
 <img src="https://user-images.githubusercontent.com/4745789/131798196-7946c290-b663-48ac-b7ae-bf9de27bb20c.png" alt="Obsidian HackerNews Plugin" width="400" />
 
-# Obsidian HackerNews [![GitHub 标签（按日期最新）](<https://img.shields.io/github/v/tag/arpitbbhayani/obsidian-hackernews)>](<https://github.com/arpitbbhayani/obsidian-hackernews/releases)> ![GitHub 所有版本](<https://img.shields.io/github/downloads/arpitbbhayani/obsidian-hackernews/total)>
+# Obsidian HackerNews [![GitHub标签（按日期最新）](https://img.shields.io/github/v/tag/arpitbbhayani/obsidian-hackernews)](https://github.com/arpitbbhayani/obsidian-hackernews/releases) ![GitHub所有版本](https://img.shields.io/github/downloads/arpitbbhayani/obsidian-hackernews/total)
 
 该插件定期从 [HackerNews](https://news.ycombinator.com/) 获取并在 [Obsidian](https://obsidian.md) 窗格中显示热门故事。一些最好的故事、博客、新闻和资源都在 [HackerNews](https://news.ycombinator.com/) 上分享，这个插件可以在使用 Obsidian 时帮助你保持更新。
 

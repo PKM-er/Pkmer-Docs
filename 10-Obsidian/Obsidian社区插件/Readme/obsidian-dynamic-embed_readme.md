@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322173227
 title: Obsidian 插件：Dynamic Embed
 tags: ['obsidian插件', 'readme']
 description: 将片段、模板和任何可链接的内容嵌入，通过将当前范围委派给嵌入的文件，将其作为内容而不是引用来处理。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232522
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Dynamic Embed

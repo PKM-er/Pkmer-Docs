@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322215838
 title: Obsidian 插件：Markdown Attributes
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 在Obsidian.md中为元素添加markdown属性
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232546
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Markdown Attributes

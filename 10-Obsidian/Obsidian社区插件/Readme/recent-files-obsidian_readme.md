@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322254658
 title: Obsidian 插件：Recent Files
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 显示最近打开的文件列表
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232428
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Recent Files

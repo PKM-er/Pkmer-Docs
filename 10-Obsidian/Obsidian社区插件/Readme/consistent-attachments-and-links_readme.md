@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322162597
 title: Obsidian 插件：Consistent attachments and links
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 自动移动笔记附件并更新链接
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232608
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Consistent attachments and links

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322275214
 title: Obsidian 插件：Task Marker
 tags: ['obsidian插件', 'readme']
 description: 使用热键和上下文菜单更改任务状态。完成、取消和标记任务，以及在所选任务状态之间循环。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232446
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Task Marker
@@ -99,7 +99,7 @@ modified: 20230803232446
 <!-- 该插件已提交至Obsidian **社区插件**进行审核，但目前尚未在社区插件商店中提供。暂时有两种方法可以安装该插件：
 
 - 手动下载`main.js`、`manifest.json`和`styles.css`，并将它们放置在Obsidian存储库的`.obsidian/obsidian-task-marker`文件夹中。
-- 或者，您可以使用[obsidian42-brat](<https://github.com/TfTHacker/obsidian42-brat)来安装和更新该插件。> -->
+- 或者，您可以使用[obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat)来安装和更新该插件。 -->
 
 ### 资源
 

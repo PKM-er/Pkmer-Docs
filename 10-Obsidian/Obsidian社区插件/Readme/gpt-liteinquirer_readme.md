@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322192598
 title: Obsidian 插件：GPT-LiteInquirer
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中直接体验OpenAI ChatGPT的帮助，无需打断您的创作流程即可起草内容。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232555
+modified: 20230101000000
 ---
 
 # Obsidian 插件：GPT-LiteInquirer

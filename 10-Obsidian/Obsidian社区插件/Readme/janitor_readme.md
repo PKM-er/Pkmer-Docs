@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322204410
 title: Obsidian 插件：Janitor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian Vault上执行清理任务
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232551
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Janitor

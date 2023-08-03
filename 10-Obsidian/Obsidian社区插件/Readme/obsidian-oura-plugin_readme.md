@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322241764
 title: Obsidian 插件：Oura Plugin for Obsidian
 tags: ['obsidian插件', 'readme']
 description: taking app一个用于将OURA环数据导入笔记应用程序的插件
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232459
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Oura Plugin for Obsidian

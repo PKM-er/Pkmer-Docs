@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322133136
 title: Obsidian 插件：Account Linker
 tags: ['obsidian插件', 'readme']
 description: 用于在前台描述外部服务账户的插件
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232537
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Account Linker

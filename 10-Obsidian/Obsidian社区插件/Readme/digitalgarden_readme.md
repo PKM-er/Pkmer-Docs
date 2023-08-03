@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322171996
 title: Obsidian 插件：Digital Garden
 tags: ['obsidian插件', 'readme']
 description: 将你的笔记发布到数字花园，供他人欣赏。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232603
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Digital Garden

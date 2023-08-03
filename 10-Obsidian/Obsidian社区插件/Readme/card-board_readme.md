@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322153912
 title: Obsidian 插件：CardBoard
 tags: ['界面相关', '任务管理', '日期相关', '笔记文件处理', '美化', 'obsidian插件', 'readme']
 description: 根据 tag 或者 任务生成对应的看板，能够自定义看板的时间维度，或者筛选对应的tag
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232611
+modified: 20230101000000
 ---
 
 # Obsidian 插件：CardBoard

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322154626
 title: Obsidian 插件：Checklist
 tags: ['任务管理', '效率', 'obsidian插件', 'readme']
 description: 将所有笔记待办清单合并到一个视图中，你可以在这个视图种管理和完成相关的任务
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232530
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Checklist

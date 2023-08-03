@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322212149
 title: Obsidian 插件：Lilypond
 tags: ['obsidian插件', 'readme']
 description: 渲染Lilypond模板。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232549
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Lilypond

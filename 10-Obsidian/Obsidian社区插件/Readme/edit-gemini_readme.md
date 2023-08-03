@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322173900
 title: Obsidian 插件：Edit Gemini
 tags: ['obsidian插件', 'readme']
 description: 允许用户编辑和创建 .gmi 文件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232602
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Edit Gemini

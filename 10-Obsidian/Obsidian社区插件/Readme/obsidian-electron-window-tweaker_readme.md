@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322174307
 title: Obsidian 插件：Electron Window Tweaker
 tags: ['编程', 'obsidian插件', 'readme']
 description: 调整 Electron 窗口各种相关设置。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232521
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Electron Window Tweaker

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322234356
 title: Obsidian 插件：Obsidian Social (Sekund)
 tags: ['obsidian插件', 'readme']
 description: 分享笔记并收集反馈
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232425
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Social (Sekund)

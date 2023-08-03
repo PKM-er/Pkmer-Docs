@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322164090
 title: Obsidian 插件：Creases
 tags: ['界面相关', '美化', 'obsidian插件', 'readme']
 description: 让笔记显示的标题，显示折叠功能图表
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232606
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Creases

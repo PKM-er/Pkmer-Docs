@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322232634
 title: Obsidian 插件：Obsidian jTab
-tags: ['编辑器', '美化', '音乐相关', 'obsidian插件', 'readme', 5（自定义颜色）建议并成为测试人员。]
+tags: ['编辑器', '美化', '音乐相关', 'obsidian插件', 'readme']
 description: 使用 jTab 代码块将吉他和和弦图，以图片的形式添加到集中。jTab
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232511
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian jTab

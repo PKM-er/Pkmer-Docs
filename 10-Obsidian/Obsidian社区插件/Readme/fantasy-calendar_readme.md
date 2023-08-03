@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322180623
 title: Obsidian 插件：Fantasy Calendar
 tags: ['日期相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 中使用 Fantsy Calendar。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232559
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Fantasy Calendar

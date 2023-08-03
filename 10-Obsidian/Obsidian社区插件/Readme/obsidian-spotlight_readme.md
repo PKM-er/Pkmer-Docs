@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322271975
 title: Obsidian 插件：Spotlight
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 在指定的项目或具有某种标签组合的情况下，提供随机笔记或从金库中提取笔记块的块。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232449
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Spotlight

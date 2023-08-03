@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322252818
 title: Obsidian 插件：Quote of the Day
 tags: ['obsidian插件', 'readme']
 description: 在编辑器中插入随机引用
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232429
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Quote of the Day

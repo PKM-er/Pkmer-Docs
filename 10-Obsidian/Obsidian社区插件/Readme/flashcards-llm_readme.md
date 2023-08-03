@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322182829
 title: Obsidian 插件：Flashcards LLM
 tags: ['obsidian插件', 'readme']
 description: 使用大型语言模型（如ChatGPT）从Obsidian笔记中自动生成闪卡。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232558
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Flashcards LLM

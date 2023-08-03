@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322192873
 title: Obsidian 插件：Group Snippets
 tags: ['obsidian插件', 'readme']
 description: 创建代码片段文件夹，一键激活它们！
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232515
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Group Snippets
@@ -111,5 +111,4 @@ modified: 20230803232515
 - [Snippets Commands](https://github.com/deathau/snippet-commands-obsidian)
 
 [^1]: 插件的翻译适用于颜色方案，并添加了英文的 `dark` 和 `light`。
-
 [^2]: 在这里，toggle 的意思是插件将禁用组列表中的禁用片段，并启用启用的片段，模仿在外观选项卡的 Snippet CSS 中切换片段的行为。

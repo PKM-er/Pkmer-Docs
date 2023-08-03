@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322202564
 title: Obsidian 插件：Import Foundry VTT journal entries
 tags: ['obsidian插件', 'readme']
 description: 从你选择的Foundry VTT世界导入你的日志条目到你的Obsidian Vault文件夹中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232552
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Import Foundry VTT journal entries

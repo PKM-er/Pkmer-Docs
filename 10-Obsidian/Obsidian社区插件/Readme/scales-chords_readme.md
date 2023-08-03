@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322262233
 title: Obsidian 插件：Scales and Chords
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在你的Obsidian保险库中捕获音乐制表符号。和弦变成可点击的链接到模态图像（由scales-chords.com提供）。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232426
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Scales and Chords

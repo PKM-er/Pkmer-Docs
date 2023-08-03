@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322224355
 title: Obsidian 插件：Multi-Column Markdown
 tags: ['界面相关', '编辑工具', '美化', 'obsidian插件', 'readme']
 description: 在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232542
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Multi-Column Markdown

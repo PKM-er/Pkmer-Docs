@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322173676
 title: Obsidian 插件：Easy toggle sidebars
 tags: ['obsidian插件', 'readme']
 description: 切换两侧边栏（双击中键或使用自定义快捷键），或者通过点击中键并将鼠标移向相应的边栏来切换每个边栏。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232602
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Easy toggle sidebars

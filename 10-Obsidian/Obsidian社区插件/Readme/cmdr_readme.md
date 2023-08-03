@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322161602
 title: Obsidian 插件：Commander
 tags: ['界面相关', '效率', '导航工具', 'obsidian插件', 'readme']
 description: 给 Obsidian 的不同功能区增加自定义快捷按钮。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232609
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Commander

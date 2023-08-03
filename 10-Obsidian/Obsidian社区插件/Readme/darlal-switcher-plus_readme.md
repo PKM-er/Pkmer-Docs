@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322252313
 title: Obsidian 插件：Quick Switcher++
 tags: ['导航工具', '效率', 'obsidian插件', 'readme']
 description: 使用 Quick Switcher++可以让你更快在标题之间，Obsidian 的各个模块之间，工作区模式之间，进行快速切换。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232604
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Quick Switcher++

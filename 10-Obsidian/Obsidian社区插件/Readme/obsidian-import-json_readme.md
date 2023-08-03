@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322205180
 title: Obsidian 插件：JSON/CSV Importer
-tags: ['obsidian插件', 'readme', each]
+tags: ['obsidian插件', 'readme']
 description: 从一个包含数据数组的JSON文件中导入，使用Handlebars模板文件创建笔记。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232512
+modified: 20230101000000
 ---
 
 # Obsidian 插件：JSON/CSV Importer

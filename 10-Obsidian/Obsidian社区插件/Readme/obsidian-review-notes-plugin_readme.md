@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322260853
 title: Obsidian 插件：Review Notes Plugin
 tags: ['obsidian插件', 'readme']
 description: 这个插件显示最近修改和新创建的文件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232452
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Review Notes Plugin

@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322280396
 title: Obsidian 插件：Text Expander
-tags: ['自动化', 'obsidian插件', 'readme', 1, 2, 3]
+tags: ['自动化', 'obsidian插件', 'readme']
 description: 在编辑器中扩展文本快捷键，运行shell命令和python脚本
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232443
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Text Expander

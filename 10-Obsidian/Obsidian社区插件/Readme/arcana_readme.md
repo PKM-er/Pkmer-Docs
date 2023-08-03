@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322141280
 title: Obsidian 插件：Arcana
 tags: ['obsidian插件', 'readme']
 description: 通过AI提供的洞察和建议，让你的笔记记录变得更加强大。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232617
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Arcana

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322214030
 title: Obsidian 插件：Literate Haskell
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，用于将`.lhs`文件集成到您的PKM中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232547
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Literate Haskell

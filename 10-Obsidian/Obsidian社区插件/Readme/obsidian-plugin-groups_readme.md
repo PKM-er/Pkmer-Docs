@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322245167
 title: Obsidian 插件：Plugin Groups
 tags: ['效率', '自动化', '插件', 'obsidian插件', 'readme']
 description: 增强你的插件管理，一次启用和禁用多个插件，或者延迟它们的启动以加快Obsidian的启动时间。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232457
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Plugin Groups

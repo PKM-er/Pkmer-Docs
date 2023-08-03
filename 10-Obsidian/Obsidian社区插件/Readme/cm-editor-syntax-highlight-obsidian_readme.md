@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322174161
 title: Obsidian 插件：Editor Syntax Highlight
 tags: ['编程', '美化', 'obsidian插件', 'readme']
 description: 为 Obsidian 的代码块，增强不同语言高亮显示方案。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232610
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Editor Syntax Highlight

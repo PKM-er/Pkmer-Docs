@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322274616
 title: Obsidian 插件：Tag Search
 tags: ['搜索/排序', '标签', 'obsidian插件', 'readme']
 description: 提供一个标签模糊搜索的功能，需要你使用命令面板来使用它。该功能只会返回标签的结果。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232421
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Tag Search

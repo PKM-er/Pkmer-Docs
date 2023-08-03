@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322260660
 title: Obsidian 插件：Reveal file in explorer
 tags: ['obsidian插件', 'readme']
 description: 点击标题栏可在资源管理器中显示活动文件，并且（可选）在打开文件时折叠其他目录。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232427
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Reveal file in explorer

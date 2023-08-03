@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322221104
 title: Obsidian 插件：MathJax WikiLinks
 tags: ['obsidian插件', 'readme']
 description: 允许在WikiLink别名中渲染MathJax。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232503
+modified: 20230101000000
 ---
 
 # Obsidian 插件：MathJax WikiLinks

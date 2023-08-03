@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322260290
 title: Obsidian 插件：Repeat
 tags: ['obsidian插件', 'readme']
 description: 使用周期性或间隔重复来复习笔记。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232427
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Repeat

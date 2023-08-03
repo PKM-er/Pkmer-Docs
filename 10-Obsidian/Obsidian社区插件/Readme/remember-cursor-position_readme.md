@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322255829
 title: Obsidian 插件：Remember cursor position
 tags: ['编辑工具', '文件历史', 'obsidian插件', 'readme']
 description: 记住每个笔记的光标和滚动位置
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232427
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Remember cursor position

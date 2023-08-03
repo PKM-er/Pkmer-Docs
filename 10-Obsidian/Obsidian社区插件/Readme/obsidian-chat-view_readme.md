@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322154356
 title: Obsidian 插件：Chat View
 tags: ['obsidian插件', 'readme']
 description: 聊天视图让您可以快速轻松地在 Markdown 文件中创建优雅的聊天 UI。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232530
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Chat View

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322272599
 title: Obsidian 插件：Stille
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 集中精力一次写一个部分。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232448
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Stille

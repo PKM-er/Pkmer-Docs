@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322211183
 title: Obsidian 插件：Language Translator
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，可以将所选文本翻译成所需的语言。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232550
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Language Translator

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322221748
 title: Obsidian 插件：Media Extended
 tags: ['音频和视频', '效率', '第三方工具集成', 'obsidian插件', 'readme']
 description: 改善 Obsidian 中的媒体（视频/音频）播放的体验，你可以通过简单的方法在OB中播放视频并添加时间戳来记录对应节点的笔记了。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232544
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Media Extended

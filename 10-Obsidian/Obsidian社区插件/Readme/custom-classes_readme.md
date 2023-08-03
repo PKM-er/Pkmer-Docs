@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322165083
 title: Obsidian 插件：Custom Classes
 tags: ['obsidian插件', 'readme']
 description: 直接从您的笔记中为所选择的Markdown元素添加自己的HTML类。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232605
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Custom Classes

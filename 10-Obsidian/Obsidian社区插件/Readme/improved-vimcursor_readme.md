@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322202911
 title: Obsidian 插件：Improved VimCursor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中，光标的体验有了改进。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232552
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Improved VimCursor

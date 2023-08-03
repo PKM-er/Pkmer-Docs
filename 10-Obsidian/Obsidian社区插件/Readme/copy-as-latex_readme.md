@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322163490
 title: Obsidian 插件：Copy as LaTeX
 tags: ['obsidian插件', 'readme']
 description: 快速将Markdown复制为Latex，带有引文的插件
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232607
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Copy as LaTeX

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322281264
 title: Obsidian 插件：Theme Design Utilities
 tags: ['美化', '效率', 'obsidian插件', 'readme']
 description: 一些实用工具和提高生活质量的功能，供 Obsidian 主题设计者使用。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232443
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Theme Design Utilities

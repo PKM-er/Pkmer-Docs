@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322262124
 title: Obsidian 插件：Save as Gist
 tags: ['obsidian插件', 'readme']
 description: 将当前笔记保存为GitHub Gist
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232451
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Save as Gist

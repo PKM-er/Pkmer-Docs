@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322191255
 title: Obsidian 插件：GitHub Issue Augmentation
 tags: ['obsidian插件', 'readme']
 description: 增加了GitHub问题ID
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232556
+modified: 20230101000000
 ---
 
 # Obsidian 插件：GitHub Issue Augmentation

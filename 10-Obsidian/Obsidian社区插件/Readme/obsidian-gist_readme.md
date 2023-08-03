@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322191054
 title: Obsidian 插件：Gist
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 这是一个用于显示GitHub Gist的插件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232516
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Gist

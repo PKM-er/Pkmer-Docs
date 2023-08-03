@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322290619
 title: Obsidian 插件：Vale
 tags: ['obsidian插件', 'readme']
 description: 使用 Vale 检查文档风格来保证一致性。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232438
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Vale

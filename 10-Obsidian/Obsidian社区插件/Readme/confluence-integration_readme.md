@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322162414
 title: Obsidian 插件：Confluence Integration
 tags: ['obsidian插件', 'readme']
 description: 将Obsidian中的Markdown内容发布到Atlassian Confluence。它支持一些Obsidian的Markdown扩展，以实现更丰富的内容。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232608
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Confluence Integration

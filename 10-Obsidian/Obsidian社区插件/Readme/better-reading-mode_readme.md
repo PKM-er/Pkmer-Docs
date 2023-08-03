@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322150589
 title: Obsidian 插件：Better Reading Mode
 tags: ['obsidian插件', 'readme']
 description: Obsidian的Live预览模式中启用生物阅读模式的插件。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232614
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Better Reading Mode

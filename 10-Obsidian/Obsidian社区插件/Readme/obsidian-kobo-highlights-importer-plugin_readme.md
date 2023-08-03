@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322210741
 title: Obsidian 插件：Kobo Highlights Importer
 tags: ['obsidian插件', 'readme']
 description: 从Kobo设备导入亮点
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232510
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Kobo Highlights Importer

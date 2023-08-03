@@ -1,13 +1,13 @@
 ---
-uid: 20230803231105
+uid: 2023080322205075
 title: Obsidian 插件：Journey
-tags: ['文件历史', '笔记文件处理', 'obsidian插件', 'readme', tag]
+tags: ['文件历史', '笔记文件处理', 'obsidian插件', 'readme']
 description: 发现你的笔记之间的故事
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232511
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Journey

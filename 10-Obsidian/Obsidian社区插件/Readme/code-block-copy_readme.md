@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322163661
 title: Obsidian 插件：Copy button for code blocks
 tags: ['样式工具', '界面相关', '编辑工具', 'obsidian插件', 'readme']
 description: 为代码块添加一个可见的复制按钮
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232609
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Copy button for code blocks

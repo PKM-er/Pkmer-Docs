@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322243117
 title: Obsidian 插件：Paste image Png to Jpeg
 tags: ['图片', '自动化', 'obsidian插件', 'readme']
 description: 自动处理被粘贴到笔记中图像(png jpg jpeg)1，将图像转换为jpeg格式并压缩它2，将图像存储在当前笔记目录中的图像文件夹3，将图像的名称更改为当前笔记的名称加上一个数字
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232458
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Paste image Png to Jpeg

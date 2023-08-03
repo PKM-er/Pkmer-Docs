@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322283825
 title: "Obsidian 插件：Tomorrow's Daily Note"
 tags: ['obsidian插件', 'readme']
 description: 用于创建明天的日常笔记以进行预先计划。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232440
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Tomorrow's Daily Note

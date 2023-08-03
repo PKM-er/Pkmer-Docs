@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322265979
 title: Obsidian 插件：Simple RSS
 tags: ['obsidian插件', 'readme']
 description: 将RSS文章收集到笔记中。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232424
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Simple RSS

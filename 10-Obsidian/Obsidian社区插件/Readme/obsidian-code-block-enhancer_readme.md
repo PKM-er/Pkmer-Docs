@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322160119
 title: Obsidian 插件：Code Block Enhancer
 tags: ['编辑工具', '编程', '美化', 'obsidian插件', 'readme']
 description: 增强 Obsidian 代码域的体验，提供复制按钮、行号、语言名称提示，代码块的上下文菜单。。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232529
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Code Block Enhancer

@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322230440
 title: Obsidian 插件：Notes dater
 tags: ['obsidian插件', 'readme']
 description: 将活动笔记的创建日期和最后更新日期添加到状态栏。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232539
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Notes dater

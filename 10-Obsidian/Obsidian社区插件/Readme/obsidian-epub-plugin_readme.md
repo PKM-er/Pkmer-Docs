@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322175456
 title: Obsidian 插件：ePub Reader
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的ePub阅读器插件。可以打开以“.epub”文件扩展名的文档。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232521
+modified: 20230101000000
 ---
 
 # Obsidian 插件：ePub Reader

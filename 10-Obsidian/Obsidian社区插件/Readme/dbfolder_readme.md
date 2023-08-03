@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322171181
 title: Obsidian 插件：DB Folder
 tags: ['obsidian插件', 'readme']
 description: 文件夹具有从类似数据库的文件夹中存储和检索数据的能力
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232603
+modified: 20230101000000
 ---
 
 # Obsidian 插件：DB Folder

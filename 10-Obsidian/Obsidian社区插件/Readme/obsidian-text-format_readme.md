@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322280569
 title: Obsidian 插件：Text Format
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 解决从PDF 或其他软件复制内容后，格式错乱问题。此插件将会格式化选定的文本小写/大写/大写/标题大小写，或者删除多余的空格/换行符，以及一些其他功能。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232443
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Text Format

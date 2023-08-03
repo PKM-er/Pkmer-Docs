@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322230857
 title: Obsidian 插件：Number Headings
 tags: ['自动化', '目录/标题', '效率', 'obsidian插件', 'readme']
 description: 自动编号或重新编号 Obsidian 文档中的标题。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232539
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Number Headings

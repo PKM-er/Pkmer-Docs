@@ -1,5 +1,5 @@
 ---
-uid: 20230803231105
+uid: 2023080322232389
 title: Obsidian 插件：Obsidian GoLinks
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的插件，可以将go/链接渲染为可点击的链接。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230803232516
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian GoLinks
