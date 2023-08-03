@@ -1,13 +1,13 @@
 ---
-uid: 2023080322260572
-title: Obsidian 插件：【Readme】Reveal Active File Button
+uid: 20230803231105
+title: Obsidian 插件：Reveal Active File Button
 tags: ['obsidian插件', 'readme']
 description: 在文件资源管理器的顶部添加一个按钮，以显示活动文件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232427
 ---
 
 # Obsidian 插件：Reveal Active File Button
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Reveal Active File Button
 > - 插件作者：Clare Macrae
 > - 插件说明：在文件资源管理器的顶部添加一个按钮，以显示活动文件。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/claremacrae/reveal-active-file-button-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?reveal-active-file-button)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Reveal Active File Button](https://cdn.pkmer.cn/covers/reveal-active-file-button.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/claremacrae/reveal-active-file-button-plugin/main/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +37,7 @@ modified: 20230101000000
 
 下面是 [[reveal-active-file-button]] 插件的自述翻译
 
-
-## "揭示活动文件按钮" Obsidian 插件
+## " 揭示活动文件按钮 " Obsidian 插件
 
 <!-- toc -->
 
@@ -64,7 +63,7 @@ modified: 20230101000000
 
 ## 使用方法
 
-要使Obsidian文件浏览器/导航器滚动以显示您的活动文件，请单击十字准线图标：
+要使 Obsidian 文件浏览器/导航器滚动以显示您的活动文件，请单击十字准线图标：
 
 ![RevealActiveFile](docs/images/reveal-active-file-icon.png)
 
@@ -83,11 +82,11 @@ modified: 20230101000000
 
 如果您是在将此插件添加到社区插件列表之前对其进行测试的少数人之一，请删除旧版本，因为该插件已更名。
 
-有关如何执行此操作的帮助，请参阅[删除版本1.0.0](docs/RemoveV100.md)。
+有关如何执行此操作的帮助，请参阅 [删除版本1.0.0](docs/RemoveV100.md)。
 
 ## 更新日志
 
-请参阅[更新日志](CHANGELOG.md)。
+请参阅 [更新日志](CHANGELOG.md)。
 
 ## 相关插件
 
@@ -98,8 +97,7 @@ modified: 20230101000000
 - [Automatically Reveal Active File](https://github.com/shichongrui/obsidian-reveal-active-file)
   - 如果您希望始终显示活动文件，请使用此插件
   - 并且您不介意 Obsidian 跳转到其他视图，如搜索结果或标签面板
-
-- 感谢Nathan Smith的[Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all)插件，本代码在其基础上进行了大量修改。
+- 感谢 Nathan Smith 的 [Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all) 插件，本代码在其基础上进行了大量修改。
 
 
 

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322150392
-title: Obsidian 插件：【Readme】Better MathJax
+uid: 20230803231105
+title: Obsidian 插件：Better MathJax
 tags: ['obsidian插件', 'readme']
 description: 提供数学自动完成和可自定义的代码片段。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232614
 ---
 
 # Obsidian 插件：Better MathJax
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Better MathJax
 > - 插件作者：GreasyCat
 > - 插件说明：提供数学自动完成和可自定义的代码片段。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/greasycat/BetterMathjax)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-mathjax)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Better MathJax](https://cdn.pkmer.cn/covers/better-mathjax.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/greasycat/BetterMathjax/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +37,13 @@ modified: 20230101000000
 
 下面是 [[better-mathjax]] 插件的自述翻译
 
-
 # BetterMathjax For Obsidian
+
 这个插件将通过提供自动补全功能来改善 Obsidian 中的 Mathjax 体验。
 
 ## 特点
-在检测到`$$`或`$$$$`块后，自动完成并进行内联Mathjax渲染。
+
+在检测到 `$$` 或 `$$$$` 块后，自动完成并进行内联 Mathjax 渲染。
 
 ![2023-01-26_18-29-32.png](https://s2.loli.net/2023/01/27/gCUNFnHspqAE8e7.png)
 
@@ -60,11 +61,12 @@ modified: 20230101000000
 
 # 安装
 
-### 1. 从Obsidian社区插件列表下载
+### 1. 从 Obsidian 社区插件列表下载
 
 ### 2. 手动安装
-- 创建`$YOUR_VAULT_FOLDER$/.obsidian/better-mathjax`文件夹
-- 将发布文件`main.js.bak`，`manifest.json`和`styles.css`放入`$YOUR_VAULT_FOLDER$/.obsidian/better-mathjax`中
+
+- 创建 `$YOUR_VAULT_FOLDER$/.obsidian/better-mathjax` 文件夹
+- 将发布文件 `main.js.bak`，`manifest.json` 和 `styles.css` 放入 `$YOUR_VAULT_FOLDER$/.obsidian/better-mathjax` 中
 
 # 用法
 
@@ -81,6 +83,7 @@ modified: 20230101000000
 7. 手动重新加载配置文件：`无`
 
 # 特别感谢
+
 - [MathJax数据来源](https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm) CC2.5
 - [LCS实现](https://github.com/jeancroy/FuzzySearch) MIT
 - [我第一次尝试的MathJax自动补全](https://github.com/greasycat/BetterLatexForObsidian) MIT

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322144526
-title: Obsidian 插件：【Readme】Awesome Brain Manager
+uid: 20230803231105
+title: Obsidian 插件：Awesome Brain Manager
 tags: ['obsidian插件', 'readme']
 description: 一个工具包试图解决大多数人在黑曜石中通常遇到的所有琐碎问题。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232616
 ---
 
 # Obsidian 插件：Awesome Brain Manager
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Awesome Brain Manager
 > - 插件作者：Juck
 > - 插件说明：一个工具包试图解决大多数人在黑曜石中通常遇到的所有琐碎问题。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/JuckZ/awesome-brain-manager)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?awesome-brain-manager)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 一个工具包试图解决大多数人在黑曜石中通常遇到的所有琐碎问题。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/JuckZ/awesome-brain-manager/develop/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[awesome-brain-manager]] 插件的自述翻译
-
 
 # Awesome Brain Manager 插件
 
@@ -84,13 +81,13 @@ modified: 20230101000000
 
 <details open>
   <summary><h2>🤔 1. 为什么选择 Awesome Brain Manager </h2></summary>
-  
+
 - 🎨 精心设计，你的 obsidian 会与众不同
 - ✨ 丰富功能；一个插件，也能够满足很多需求
 - 🔐 支持 obsidian 的核心价值观，没有隐私安全问题
 - ✈️ 将持续优化性能
-- 💪 基于Jest的覆盖率测试(将来)
-- 😁 欢迎[加入](https://github.com/JuckZ#-%E5%A6%82%E4%BD%95%E8%81%94%E7%B3%BB%E6%88%91)，共同开发
+- 💪 基于 Jest 的覆盖率测试 (将来)
+- 😁 欢迎 [加入](https://github.com/JuckZ#-%E5%A6%82%E4%BD%95%E8%81%94%E7%B3%BB%E6%88%91)，共同开发
 
 </details>
 
@@ -117,7 +114,7 @@ modified: 20230101000000
 
 #### 文档方向切换功能展示
 
-<a href="ttps://www.bilibili.com/video/BV1ne4y1P7qf/?spm_id_from=333.999.0.0">
+<a href="ttps://<www.bilibili.com/video/BV1ne4y1P7qf/?spm_id_from=333.999.0.0>">
   <img src="https://raw.githubusercontent.com/JuckZ/awesome-brain-manager/master/public/recording/preview/文档方向.png" alt="文档方向切换功能展示" width="200">
 </a>
 
@@ -134,17 +131,17 @@ modified: 20230101000000
     - 任务到期自动完成并提醒（即使重启 Obsidian 后也能弹窗），到期时间默认 25 分钟，可以在设置面板设置
     - 数据看板：每日专注时长，每日任务完成情况，当日时间线，日历月视图等
 2. 鼠标特效
-    - 目前支持 11 种，可以在[cursor-effects](https://tholman.com/cursor-effects/)查看
+    - 目前支持 11 种，可以在 [cursor-effects](https://tholman.com/cursor-effects/) 查看
 3. 按键特效
     - 目前支持 4 种
 4. 窗口抖动特效（文本输入时触发）
 5. 所有特效可以任意组合使用
 6. 文档方向切换（支持从左到右和从右到左）
-7. 文章配图（需要安装[obsidian-banners](https://github.com/noatpad/obsidian-banners)插件）
+7. 文章配图（需要安装 [obsidian-banners](https://github.com/noatpad/obsidian-banners) 插件）
     - 支持三种图源（pixabay, pexels, dummyimage）
     - 支持在文档内容中单击右键，为当前文档配图
     - 支持使用右键单击文件浏览器视图中的任意文件夹，为整个目录下的文档配图
-8. [ntfy](https://docs.ntfy.sh)支持，可以在 Windows/MacOS/Android/IOS/Linux/Web 等多种平台订阅通知消息，通知能力不再受到 Electron 的限制
+8. [ntfy](https://docs.ntfy.sh) 支持，可以在 Windows/MacOS/Android/IOS/Linux/Web 等多种平台订阅通知消息，通知能力不再受到 Electron 的限制
     - 即使关闭 obsidian，也能收到通知
     - 你能在任何设备上订阅并收到来自 obsidian 的提醒，比如日程提醒，生日提醒，习惯打卡提醒等
     - 为了更好的体验，该功能后续开放，同时提供免费的 ntfy 服务 😁

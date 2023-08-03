@@ -1,13 +1,13 @@
 ---
-uid: 2023080322165609
-title: Obsidian 插件：【Readme】CustomJS
+uid: 20230803231105
+title: Obsidian 插件：CustomJS
 tags: ['自动化', '编程', '效率', 'obsidian插件', 'readme']
 description: 允许用户编写自定义Javascript，你可以在任何地方调用，包括dataviewjs块和templater模板。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232604
 ---
 
 # Obsidian 插件：CustomJS
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：CustomJS
 > - 插件作者：Sam Lewis
-> - 插件说明：允许用户编写自定义Javascript，你可以在任何地方调用，包括dataviewjs块和templater模板。
-> - 插件分类：['自动化', '编程', '效率', 'obsidian插件', 'readme']
+> - 插件说明：允许用户编写自定义 Javascript，你可以在任何地方调用，包括 dataviewjs 块和 templater 模板。
+> - 插件分类：[' 自动化 ', ' 编程 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/saml-dev/obsidian-custom-js)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?customjs)
 
 ## 概述
 
-允许用户编写自定义Javascript，你可以在任何地方调用，包括dataviewjs块和templater模板。
+允许用户编写自定义 Javascript，你可以在任何地方调用，包括 dataviewjs 块和 templater 模板。
 
 ![CustomJS](https://cdn.pkmer.cn/covers/customjs.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/saml-dev/obsidian-custom-js/master/README.md)
-> 
+>
 
 ---
 
@@ -37,45 +37,49 @@ modified: 20230101000000
 
 下面是 [[customjs]] 插件的自述翻译
 
-
 # CustomJS
 
-CustomJS是Obsidian的一个插件，允许用户编写自定义的Javascript代码，您可以在任何可以编写JS的地方调用它，包括`dataviewjs`块和templater模板。
+CustomJS 是 Obsidian 的一个插件，允许用户编写自定义的 Javascript 代码，您可以在任何可以编写 JS 的地方调用它，包括 `dataviewjs` 块和 templater 模板。
 
 ✅ 在桌面和移动设备上都可以使用！
 
 ## 安装
 
-推荐的是，在Obsidian社区插件浏览器中可以使用CustomJS。
+推荐的是，在 Obsidian 社区插件浏览器中可以使用 CustomJS。
 
 #### 手动安装
-前往[releases](https://github.com/samlewis0602/obsidian-custom-js/releases)页面下载最新的`main.js`和`manifest.json`文件。在`.obsidian/plugins`文件夹内创建一个名为`customjs`的文件夹，并将这两个文件放入其中。
+
+前往 [releases](https://github.com/samlewis0602/obsidian-custom-js/releases) 页面下载最新的 `main.js` 和 `manifest.json` 文件。在 `.obsidian/plugins` 文件夹内创建一个名为 `customjs` 的文件夹，并将这两个文件放入其中。
 
 ## 设置
-告诉CustomJS加载什么代码。
-注意：在路径中只使用正斜杠，反斜杠会破坏非Windows平台。
+
+告诉 CustomJS 加载什么代码。
+
+注意：在路径中只使用正斜杠，反斜杠会破坏非 Windows 平台。
 
 ### 单个文件
+
 一个以逗号分隔的文件列表，您想要加载的文件。
 
 ### 文件夹
-指向包含您想要加载的JS文件的文件夹的路径。文件夹设置将递归地加载该文件夹中的所有`*.js`文件。因此，设置`scripts`将加载`scripts/a.js`和`scripts/other/b.js`。
+
+指向包含您想要加载的 JS 文件的文件夹的路径。文件夹设置将递归地加载该文件夹中的所有 `*.js` 文件。因此，设置 `scripts` 将加载 `scripts/a.js` 和 `scripts/other/b.js`。
 
 > ⚠️ 为了保持一致性，文件按照***文件名***的字母顺序加载，以便彼此之间可以有依赖关系。
 
 ### 注册可调用脚本
 
-允许您将[可调用脚本](#invocable-scripts)绑定到热键。
+允许您将 [可调用脚本](#invocable-scripts) 绑定到热键。
 
 ### 启动脚本
 
-在插件加载时执行的[可调用脚本](#invocable-scripts)。您可以在 Obsidian 加载时使用它来初始化一些内容。
+在插件加载时执行的 [可调用脚本](#invocable-scripts)。您可以在 Obsidian 加载时使用它来初始化一些内容。
 
-> ⚠️ 在“启动脚本”中对“window.customJS”对象所做的更改可能会被覆盖。为了避免这种情况，请遵循[状态](#state)提示。
+> ⚠️ 在“启动脚本”中对“window.customJS”对象所做的更改可能会被覆盖。为了避免这种情况，请遵循 [状态](#state) 提示。
 
 ## 用法/示例
 
-CustomJS通过编写JavaScript类来工作。每个文件只能包含一个类。
+CustomJS 通过编写 JavaScript 类来工作。每个文件只能包含一个类。
 
 ````
 // 在scripts/coolString.js中的vault中
@@ -99,12 +103,14 @@ tR += CoolString.coolify(tp.file.title);
 %>
 ````
 
-确保将`scripts/coolString.js`添加到CustomJS的设置页面，完成！当进入dataviewjs块的预览模式时，您应该看到所有文件的列表，带有额外的😎 - 插入templater模板将输出类似的结果，只显示当前文件名。
+确保将 `scripts/coolString.js` 添加到 CustomJS 的设置页面，完成！当进入 dataviewjs 块的预览模式时，您应该看到所有文件的列表，带有额外的😎 - 插入 templater 模板将输出类似的结果，只显示当前文件名。
 
 ## 高级示例
-您可以将任何内容作为参数传递给函数，以实现一些令人难以置信的代码重用。以下是我用来管理任务的dataview示例：
+
+您可以将任何内容作为参数传递给函数，以实现一些令人难以置信的代码重用。以下是我用来管理任务的 dataview 示例：
 
 #### 每日笔记
+
 ````
 ```dataviewjs
 const {DvTasks} = customJS

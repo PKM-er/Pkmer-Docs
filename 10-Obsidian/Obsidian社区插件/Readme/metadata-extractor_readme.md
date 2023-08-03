@@ -1,13 +1,13 @@
 ---
-uid: 2023080322222850
-title: Obsidian 插件：【Readme】Metadata Extractor
+uid: 20230803231105
+title: Obsidian 插件：Metadata Extractor
 tags: ['obsidian插件', 'readme']
 description: 定期导出元数据以与第三方应用程序（如启动器或图形分析软件）集成。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232544
 ---
 
 # Obsidian 插件：Metadata Extractor
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Metadata Extractor
 > - 插件作者：kometenstaub
 > - 插件说明：定期导出元数据以与第三方应用程序（如启动器或图形分析软件）集成。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/kometenstaub/metadata-extractor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?metadata-extractor)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 定期导出元数据以与第三方应用程序（如启动器或图形分析软件）集成。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kometenstaub/metadata-extractor/main/README.md)
-> 
+>
 
 ---
 
@@ -37,20 +35,19 @@ modified: 20230101000000
 
 下面是 [[metadata-extractor]] 插件的自述翻译
 
-
 # 元数据提取器 Obsidian 插件
 
 该插件允许您将仅通过插件访问的 Obsidian 保险库元数据写入硬盘。这使得第三方应用程序能够访问它们通常无法访问的 Obsidian 元数据。示例用例包括启动器应用程序（如 Alfred、Ulauncher）或图形分析软件。
 
-有关通过第三方应用程序控制 Obsidian 的更多信息，请参阅[此指南](https://github.com/kometenstaub/metadata-extractor/blob/main/docs/Guide%20-%20Controlling%20Obsidian%20via%20Third-Party-App.md)。
+有关通过第三方应用程序控制 Obsidian 的更多信息，请参阅 [此指南](https://github.com/kometenstaub/metadata-extractor/blob/main/docs/Guide%20-%20Controlling%20Obsidian%20via%20Third-Party-App.md)。
 
-有四个JSON导出文件
+有四个 JSON 导出文件
 
 它们可以按计划执行。
 
 ### 标签导出
 
-将每个标签及其对应的文件路径写入磁盘中的JSON文件。
+将每个标签及其对应的文件路径写入磁盘中的 JSON 文件。
 
 示例：
 
@@ -77,8 +74,7 @@ modified: 20230101000000
 ]
 ```
 
-
-TypeScript接口：
+TypeScript 接口：
 
 ```ts
 /**
@@ -91,9 +87,9 @@ interface tagToFile {
 };
 ```
 
-### Markdown笔记元数据导出
+### Markdown 笔记元数据导出
 
-第二个函数将每个文件名的元数据写入磁盘中的JSON文件。以下是JSON结构作为TypeScript接口的示例。
+第二个函数将每个文件名的元数据写入磁盘中的 JSON 文件。以下是 JSON 结构作为 TypeScript 接口的示例。
 
 ```ts
 /**
@@ -135,13 +131,13 @@ interface extendedFrontMatterCache {
 }
 ```
 
-导出的数组包含一个JSON数组，其中包含`Metadata`对象，每个对象对应您的存储库中的一个Markdown文件。
+导出的数组包含一个 JSON 数组，其中包含 `Metadata` 对象，每个对象对应您的存储库中的一个 Markdown 文件。
 
-所有对象都有`fileName`和`relativePath`属性。`fileName`不包含`.md`扩展名，`relativePath`是从存储库根目录开始的路径。
+所有对象都有 `fileName` 和 `relativePath` 属性。`fileName` 不包含 `.md` 扩展名，`relativePath` 是从存储库根目录开始的路径。
 
-如果文件有标签，则对象具有一个`tags`属性，其中包含标签的数组。标签都是小写的，如果文件中的标签出现多次，则在`tags`中只会出现一次。如果文件有任何frontmatter，则包含在`frontmatter`中。对象的结构取决于您的frontmatter。
+如果文件有标签，则对象具有一个 `tags` 属性，其中包含标签的数组。标签都是小写的，如果文件中的标签出现多次，则在 `tags` 中只会出现一次。如果文件有任何 frontmatter，则包含在 `frontmatter` 中。对象的结构取决于您的 frontmatter。
 
-`aliases`，`links`和`backlinks`也只在文件中存在时才会出现。
+`aliases`，`links` 和 `backlinks` 也只在文件中存在时才会出现。
 
 #### `links` 接口
 
@@ -161,9 +157,9 @@ interface extendedFrontMatterCache {
 
 `link`、`cleanLink` 和 `displayText` 的行为与 [链接接口](#links-interface) 相同。
 
-### 非Markdown文件元数据导出
+### 非 Markdown 文件元数据导出
 
-第三个函数会生成一个包含所有文件夹和非Markdown文件的JSON文件。其结构如下所示。
+第三个函数会生成一个包含所有文件夹和非 Markdown 文件的 JSON 文件。其结构如下所示。
 
 ```ts
 /**
@@ -192,7 +188,7 @@ interface file {
 
 ### 画布元数据导出
 
-第四个导出将`name`、`basename`和`relativePath`作为对象以数组的形式写入一个JSON文件。
+第四个导出将 `name`、`basename` 和 `relativePath` 作为对象以数组的形式写入一个 JSON 文件。
 
 ```json
 [
@@ -215,7 +211,4 @@ interface file {
 
 但是，您也可以为每个文件指定绝对路径。在这种情况下，路径需要包括文件名和扩展名。上面的设置将不起作用。
 
-您还可以设置写入JSON文件的频率（以分钟为单位，默认设置为0，因此未启用），以及是否在启动时写入JSON文件（默认设置为false）。
-
-
-
+您还可以设置写入 JSON 文件的频率（以分钟为单位，默认设置为 0，因此未启用），以及是否在启动时写入 JSON 文件（默认设置为 false）。

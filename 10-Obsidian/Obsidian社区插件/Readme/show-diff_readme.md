@@ -1,13 +1,13 @@
 ---
-uid: 2023080322264926
-title: Obsidian 插件：【Readme】Show Diff
+uid: 20230803231105
+title: Obsidian 插件：Show Diff
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian文件中呈现Git差异
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232425
 ---
 
 # Obsidian 插件：Show Diff
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Show Diff
 > - 插件作者：Ivan Lednev
-> - 插件说明：在Obsidian文件中呈现Git差异
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：在 Obsidian 文件中呈现 Git 差异
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ivan-lednev/obsidian-automatic-changelog)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?show-diff)
 
 ## 概述
 
-在Obsidian文件中呈现Git差异
+在 Obsidian 文件中呈现 Git 差异
 
 ![Show Diff](https://cdn.pkmer.cn/covers/show-diff.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ivan-lednev/obsidian-automatic-changelog/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,10 @@ modified: 20230101000000
 
 下面是 [[show-diff]] 插件的自述翻译
 
-
 🐞 [创建问题、功能请求、分享你的想法](https://github.com/ivan-lednev/obsidian-automatic-changelog/issues)
 
 <!-- TOC -->
+
   * [目的](#purpose)
   * [用法](#usage)
     * [`dates`](#dates)
@@ -50,19 +50,22 @@ modified: 20230101000000
     * [命令：生成今天的差异代码块](#command--generate-diff-code-block-for-today)
   * [贡献](#contributing)
   * [致谢](#acknowledgements)
+
 <!-- TOC -->
+
 ## 目的
 
-该插件允许您在笔记中呈现类似于以下的Git diff输出：
+该插件允许您在笔记中呈现类似于以下的 Git diff 输出：
+
 ![](demo.png)
 
-我个人将其与obsidian-git组合使用，以便在给定的一天中对我所做的工作进行修订，就像自动生成的更改日志一样，但您可以将其指向文件系统中的任何存储库。
+我个人将其与 obsidian-git 组合使用，以便在给定的一天中对我所做的工作进行修订，就像自动生成的更改日志一样，但您可以将其指向文件系统中的任何存储库。
 
 ## 用法
 
-要使插件在您的vault上工作，它应该是一个git仓库。您可以使用[obsidian-git](https://github.com/denolehov/obsidian-git)为您的vault添加自动git备份。
+要使插件在您的 vault 上工作，它应该是一个 git 仓库。您可以使用 [obsidian-git](https://github.com/denolehov/obsidian-git) 为您的 vault 添加自动 git 备份。
 
-该插件使用`show-diff`语言标签来渲染Markdown代码块。一个空的代码块将显示今天和昨天之间的差异：
+该插件使用 `show-diff` 语言标签来渲染 Markdown 代码块。一个空的代码块将显示今天和昨天之间的差异：
 
 <pre>
 ```show-diff
@@ -72,6 +75,7 @@ modified: 20230101000000
 ### `dates`
 
 使用 `dates` 可以指定一个日期范围来显示更改：
+
 <pre>
 ```show-diff
 dates:
@@ -83,6 +87,7 @@ dates:
 ### `commits`
 
 使用 `commits` 可以指定一个提交范围来显示更改：
+
 <pre>
 ```show-diff
 commits:
@@ -94,6 +99,7 @@ commits:
 ### `路径`
 
 默认情况下，该插件会指向您所在的保险库，但您可以将插件指向文件系统中的任何存储库：
+
 <pre>
 ```show-diff
 路径：/path/to/my-pet-project
@@ -102,7 +108,8 @@ commits:
 
 ### `exclude`
 
-默认情况下，`.obsidian`（Obsidian的设置和缓存）被排除在外。您可以使用单个路径覆盖此设置：
+默认情况下，`.obsidian`（Obsidian 的设置和缓存）被排除在外。您可以使用单个路径覆盖此设置：
+
 <pre>
 ```show-diff
 exclude: trash
@@ -110,6 +117,7 @@ exclude: trash
 </pre>
 
 或者使用路径列表覆盖：
+
 <pre>
 ```show-diff
 exclude:
@@ -122,6 +130,7 @@ exclude:
 ### 命令：生成今天的差异代码块
 
 该插件提供了一个命令，可以快速在笔记中插入一个类似于以下的代码块：
+
 <pre>
 ```show-diff
 dates:
@@ -132,13 +141,11 @@ dates:
 
 ## 贡献
 
-如果你发现了一个 bug 或者有一些改进插件的想法，欢迎创建一个 issue：https://github.com/ivan-lednev/obsidian-automatic-changelog/issues。
+如果你发现了一个 bug 或者有一些改进插件的想法，欢迎创建一个 issue：<https://github.com/ivan-lednev/obsidian-automatic-changelog/issues。>
 
 我们也欢迎 Pull-requests！如果你想贡献但不知道从何开始，你可以创建一个 issue 或者给我写封邮件：bishop1860@gmail.com。
 
 你也可以通过给我买杯咖啡来支持我：
-
-
 
 致谢
 

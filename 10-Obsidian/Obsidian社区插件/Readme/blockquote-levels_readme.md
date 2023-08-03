@@ -1,13 +1,13 @@
 ---
-uid: 2023080322151298
-title: Obsidian 插件：【Readme】Blockquote Levels
+uid: 20230803231105
+title: Obsidian 插件：Blockquote Levels
 tags: ['obsidian插件', 'readme']
 description: 添加命令用于增加/减少当前行或选择的引用块级别。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232614
 ---
 
 # Obsidian 插件：Blockquote Levels
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Blockquote Levels
 > - 插件作者：Carlo Zottmann
 > - 插件说明：添加命令用于增加/减少当前行或选择的引用块级别。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/czottmann/obsidian-blockquote-levels)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?blockquote-levels)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Blockquote Levels](https://cdn.pkmer.cn/covers/blockquote-levels_new.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/czottmann/obsidian-blockquote-levels/main/README.md)
-> 
+>
 
 ---
 
@@ -37,19 +37,19 @@ modified: 20230101000000
 
 下面是 [[blockquote-levels]] 插件的自述翻译
 
-
 <img src="https://raw.githubusercontent.com/czottmann/obsidian-blockquote-levels/main/readme-assets/blockquote-levels-256.png" height="128" alt="插件标志物：一个尖角，一个加号，一个尖角">
+
 # 块引用级别
 
-这个插件为[Obsidian](https://obsidian.md)添加了命令，用于增加/减少当前行或选定文本的块引用级别。
+这个插件为 [Obsidian](https://obsidian.md) 添加了命令，用于增加/减少当前行或选定文本的块引用级别。
 
 使用方法
 
-该插件引入了两个新的命令，"Blockquote Levels: Increase"（增加引用级别）和"Blockquote Levels: Decrease"（减少引用级别）。
+该插件引入了两个新的命令，"Blockquote Levels: Increase"（增加引用级别）和 "Blockquote Levels: Decrease"（减少引用级别）。
 
-"Increase"（增加）将Markdown引用前缀（`>`）添加到当前行、当前选择或多个选择中。后续调用将添加后续的前缀，从而增加引用级别。
+"Increase"（增加）将 Markdown 引用前缀（`>`）添加到当前行、当前选择或多个选择中。后续调用将添加后续的前缀，从而增加引用级别。
 
-"Decrease"（减少）从当前行、当前选择或多个选择中删除第一个Markdown引用前缀（`>`）。混合使用是可以的，因为每行都是单独处理的；当所选行的引用级别不同时，每行只会删除一个前缀（`>`）（如果存在）。
+"Decrease"（减少）从当前行、当前选择或多个选择中删除第一个 Markdown 引用前缀（`>`）。混合使用是可以的，因为每行都是单独处理的；当所选行的引用级别不同时，每行只会删除一个前缀（`>`）（如果存在）。
 
 插件默认不设置热键，您可以根据需要自行设置，或者使用命令面板触发命令。世界由你掌控！
 
@@ -59,19 +59,19 @@ modified: 20230101000000
 
 ## 安装
 
-1. 在 Obsidian 的社区插件浏览器中搜索 "Blockquote Levels"。([点击此链接](https://obsidian.md/plugins?id=zottmann)可以直接打开)
+1. 在 Obsidian 的社区插件浏览器中搜索 "Blockquote Levels"。([点击此链接](https://obsidian.md/plugins?id=zottmann) 可以直接打开)
 2. 安装插件。
 3. 在 Obsidian 设置的 "Community plugins" 下启用该插件。
 
 就是这样。
 
-## 通过BRAT安装（适用于预发布版或测试版）
+## 通过 BRAT 安装（适用于预发布版或测试版）
 
-1. 安装[BRAT](https://github.com/TfTHacker/obsidian42-brat)。
-2. 将“Blockquote Levels”添加到BRAT：
+1. 安装 [BRAT](https://github.com/TfTHacker/obsidian42-brat)。
+2. 将“Blockquote Levels”添加到 BRAT：
     1. 通过设置→社区插件打开“Obsidian42 - BRAT”。
-    2. 点击“添加Beta插件”。
-    3. 使用存储库地址`czottmann/obsidian-blockquote-levels`。
+    2. 点击“添加 Beta 插件”。
+    3. 使用存储库地址 `czottmann/obsidian-blockquote-levels`。
 3. 在设置→选项→社区插件下启用“Blockquote Levels”。
 
 开发
@@ -82,11 +82,8 @@ modified: 20230101000000
 
 ## 作者
 
-Carlo Zottmann，<carlo@zottmann.org>，https://zottmann.org/
+Carlo Zottmann，<carlo@zottmann.org>，<https://zottmann.org/>
 
 ## 许可证
 
-MIT，参见[LICENSE.md](https://github.com/czottmann/obsidian-blockquote-levels/blob/main/LICENSE.md)。
-
-
-
+MIT，参见 [LICENSE.md](https://github.com/czottmann/obsidian-blockquote-levels/blob/main/LICENSE.md)。

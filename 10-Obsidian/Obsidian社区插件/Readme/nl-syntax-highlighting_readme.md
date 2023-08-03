@@ -1,13 +1,13 @@
 ---
-uid: 2023080322224862
-title: Obsidian 插件：【Readme】Natural Language Syntax Highlighting
+uid: 20230803231105
+title: Obsidian 插件：Natural Language Syntax Highlighting
 tags: ['界面相关', '美化', '样式工具', '学习', 'obsidian插件', 'readme']
 description: 在编辑器中突出显示形容词、名词、副词、动词等。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232540
 ---
 
 # Obsidian 插件：Natural Language Syntax Highlighting
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Natural Language Syntax Highlighting
 > - 插件作者：artisticat
 > - 插件说明：在编辑器中突出显示形容词、名词、副词、动词等。
-> - 插件分类：['界面相关', '美化', '样式工具', '学习', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', ' 美化 ', ' 样式工具 ', ' 学习 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/artisticat1/nl-syntax-highlighting)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?nl-syntax-highlighting)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Natural Language Syntax Highlighting](https://cdn.pkmer.cn/covers/nl-syntax-highlighting.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/nl-syntax-highlighting/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,9 @@ modified: 20230101000000
 
 下面是 [[nl-syntax-highlighting]] 插件的自述翻译
 
-
 # 自然语言语法高亮
 
-这是一个为[Obsidian.md](https://obsidian.md/)设计的插件，可以在编辑器中高亮显示形容词、名词、副词、动词和连词。灵感来自于iA Writer。
+这是一个为 [Obsidian.md](https://obsidian.md/) 设计的插件，可以在编辑器中高亮显示形容词、名词、副词、动词和连词。灵感来自于 iA Writer。
 
 ![截图1](img/screenshot_1.png)
 
@@ -50,11 +49,8 @@ modified: 20230101000000
 
 贡献
 
-欢迎任何贡献和PR。
+欢迎任何贡献和 PR。
 
 ## 致谢
 
-该插件使用[compromise](https://github.com/spencermountain/compromise)自然语言处理库来检测词性。
-
-
-
+该插件使用 [compromise](https://github.com/spencermountain/compromise) 自然语言处理库来检测词性。

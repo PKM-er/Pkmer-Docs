@@ -1,13 +1,13 @@
 ---
-uid: 2023080322202682
-title: Obsidian 插件：【Readme】Import/Export TiddlyWiki
+uid: 20230803231105
+title: Obsidian 插件：Import/Export TiddlyWiki
 tags: ['obsidian插件', 'readme']
 description: 从Obsidian导入和导出TiddlyWiki。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232418
 ---
 
 # Obsidian 插件：Import/Export TiddlyWiki
@@ -15,28 +15,25 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Import/Export TiddlyWiki
 > - 插件作者：Lucas Bordeau
-> - 插件说明：从Obsidian导入和导出TiddlyWiki。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：从 Obsidian 导入和导出 TiddlyWiki。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lucasbordeau/obsidian-tiddlywiki)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tiddlywiki-import-export)
 
 ## 概述
 
-从Obsidian导入和导出TiddlyWiki。
-
-
+从 Obsidian 导入和导出 TiddlyWiki。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucasbordeau/obsidian-tiddlywiki/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[tiddlywiki-import-export]] 插件的自述翻译
-
 
 导入/导出 TiddlyWiki
 

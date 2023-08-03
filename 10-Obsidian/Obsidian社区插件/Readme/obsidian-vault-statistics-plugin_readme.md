@@ -1,13 +1,13 @@
 ---
-uid: 2023080322291201
-title: Obsidian 插件：【Readme】Vault Statistics
+uid: 20230803231105
+title: Obsidian 插件：Vault Statistics
 tags: ['统计', '状态栏', 'obsidian插件', 'readme']
 description: 为整个仓库添加状态栏，并显示统计信息，如笔记数量、文件数量、附件数量和链接数量等等。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232438
 ---
 
 # Obsidian 插件：Vault Statistics
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Vault Statistics
 > - 插件作者：Bryan Kyle
 > - 插件说明：为整个仓库添加状态栏，并显示统计信息，如笔记数量、文件数量、附件数量和链接数量等等。
-> - 插件分类：['统计', '状态栏', 'obsidian插件', 'readme']
+> - 插件分类：[' 统计 ', ' 状态栏 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/bkyle/obsidian-vault-statistics-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-vault-statistics-plugin)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 为整个仓库添加状态栏，并显示统计信息，如笔记数量、文件数量、附件数量和链接数量等等。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bkyle/obsidian-vault-statistics-plugin/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ modified: 20230101000000
 
 下面是 [[obsidian-vault-statistics-plugin]] 插件的自述翻译
 
+# Obsidian Vault 统计插件
 
-# Obsidian Vault统计插件
-
-状态栏项目，显示包括笔记数量、文件数量、附件数量和链接数量在内的Vault统计信息。
+状态栏项目，显示包括笔记数量、文件数量、附件数量和链接数量在内的 Vault 统计信息。
 
 ## 使用方法
 
@@ -53,7 +50,7 @@ modified: 20230101000000
 
 ### 显示所有统计信息
 
-可以通过创建并启用以下内容的CSS片段来显示所有统计信息。
+可以通过创建并启用以下内容的 CSS 片段来显示所有统计信息。
 
 ```css
 /* 显示所有保险库统计信息。 */
@@ -83,7 +80,7 @@ modified: 20230101000000
 
 所有重要的更改都将在此文件中记录。
 
-该格式基于[Keep a Changelog](https://keepachangelog.com/en/1.0.0/)，并且该项目遵循[语义化版本控制](https://semver.org/spec/v2.0.0.html)。
+该格式基于 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)，并且该项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html)。
 
 ### [未发布]
 
@@ -125,7 +122,7 @@ modified: 20230101000000
 ### [0.0.6] - 2021-12-14
 
 - 修复
-  - 修复：报告的值只包含2个有效数字（#7）
+  - 修复：报告的值只包含 2 个有效数字（#7）
 
 ### [0.0.5] - 2021-12-12
 

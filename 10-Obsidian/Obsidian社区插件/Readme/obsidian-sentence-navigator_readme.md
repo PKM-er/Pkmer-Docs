@@ -1,13 +1,13 @@
 ---
-uid: 2023080322263719
-title: Obsidian 插件：【Readme】Sentence Navigator
+uid: 20230803231105
+title: Obsidian 插件：Sentence Navigator
 tags: ['obsidian插件', 'readme']
 description: 操纵句子作为一个运动单位
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232451
 ---
 
 # Obsidian 插件：Sentence Navigator
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Sentence Navigator
 > - 插件作者：Tim Hor & Andrew Brown
 > - 插件说明：操纵句子作为一个运动单位
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/timhor/obsidian-sentence-navigator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-sentence-navigator)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 操纵句子作为一个运动单位
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/timhor/obsidian-sentence-navigator/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-sentence-navigator]] 插件的自述翻译
-
 
 # 句子导航器
 
@@ -56,11 +53,11 @@ modified: 20230101000000
 
 ### 重要说明
 
-- 如果光标已经位于一个句子或列表项的开头，'移动到当前句子'将跳转到前一个句子的开头。
+- 如果光标已经位于一个句子或列表项的开头，' 移动到当前句子 ' 将跳转到前一个句子的开头。
 
 安装插件
 
-请参考[此处](https://help.obsidian.md/Advanced+topics/Third-party+plugins#For+users)的官方安装说明来安装第三方插件。
+请参考 [此处](https://help.obsidian.md/Advanced+topics/Third-party+plugins#For+users) 的官方安装说明来安装第三方插件。
 
 配置设置
 
@@ -72,16 +69,13 @@ modified: 20230101000000
 
 开始操作：
 
-- 切换到指定的Node版本：`nvm use`
+- 切换到指定的 Node 版本：`nvm use`
 - 安装依赖：`yarn install`
 - 运行扩展：`yarn start`
-- 运行测试：`yarn test`（使用`--watch`进行观察模式）
+- 运行测试：`yarn test`（使用 `--watch` 进行观察模式）
 
 ## 支持
 
 这个插件完全免费使用，但如果你想表示感谢，考虑给我买杯咖啡吧！😄
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/timhor)
-
-
-

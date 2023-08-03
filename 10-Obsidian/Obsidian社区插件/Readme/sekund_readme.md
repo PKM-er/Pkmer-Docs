@@ -1,13 +1,13 @@
 ---
-uid: 2023080322234356
-title: Obsidian 插件：【Readme】Obsidian Social (Sekund)
+uid: 20230803231105
+title: Obsidian 插件：Obsidian Social (Sekund)
 tags: ['obsidian插件', 'readme']
 description: 分享笔记并收集反馈
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232425
 ---
 
 # Obsidian 插件：Obsidian Social (Sekund)
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Obsidian Social (Sekund)
 > - 插件作者：Candide Kemmler
 > - 插件说明：分享笔记并收集反馈
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Sekund/sekund-plugin-react)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sekund)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 分享笔记并收集反馈
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Sekund/sekund-plugin-react/main/README.md)
-> 
+>
 
 ---
 
@@ -37,9 +35,9 @@ modified: 20230101000000
 
 下面是 [[sekund]] 插件的自述翻译
 
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X3C08KJ)
-## Obsidian社交插件
+
+## Obsidian 社交插件
 
 ![screenshot-full](screenshot-full.png)
 
@@ -49,7 +47,7 @@ modified: 20230101000000
 
 ### 从添加一些联系人开始
 
-这个Obsidian插件使得与朋友和/或同事分享笔记成为可能。作为一个社交网络，第一步是开始将人们添加到您的联系人中。
+这个 Obsidian 插件使得与朋友和/或同事分享笔记成为可能。作为一个社交网络，第一步是开始将人们添加到您的联系人中。
 
 [YouTube视频](https://www.youtube.com/watch?v=dOmWFUkA55M)
 
@@ -57,13 +55,13 @@ modified: 20230101000000
 
 一旦他们确认认识你，你就可以开始与他们分享你的笔记，他们也可以做同样的事情。
 
-当人们在插件中看到你分享的笔记时，点击标题将会下载笔记到一个名为`__sekund__`的特殊文件夹中，这意味着他们可以链接到这个笔记。
+当人们在插件中看到你分享的笔记时，点击标题将会下载笔记到一个名为 `__sekund__` 的特殊文件夹中，这意味着他们可以链接到这个笔记。
 
 [YouTube视频](https://www.youtube.com/watch?v=dYRIT0TjHdA)
 
-### Markdown评论
+### Markdown 评论
 
-有一个支持Markdown和表情符号的评论界面。
+有一个支持 Markdown 和表情符号的评论界面。
 
 以这种方式下载的笔记是只读的，您对笔记的更新将立即对与您共享的人可见。您只需在进行了一些更改后点击“更新”按钮即可。
 
@@ -78,6 +76,3 @@ modified: 20230101000000
 ### 链接计数器
 
 一项实验性功能使您能够查看有多少人链接到了您的笔记。
-
-
-

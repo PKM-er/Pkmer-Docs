@@ -1,13 +1,13 @@
 ---
-uid: 2023080322161139
-title: Obsidian 插件：【Readme】Colored Text
+uid: 20230803231105
+title: Obsidian 插件：Colored Text
 tags: ['obsidian插件', 'readme']
 description: 给选定的文本上色。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232608
 ---
 
 # Obsidian 插件：Colored Text
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Colored Text
 > - 插件作者：Erinc Ayaz
 > - 插件说明：给选定的文本上色。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/erincayaz/obsidian-colored-text)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?colored-text)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 给选定的文本上色。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/erincayaz/obsidian-colored-text/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[colored-text]] 插件的自述翻译
-
 
 # Obsidian 彩色文本插件
 
@@ -46,7 +43,7 @@ modified: 20230101000000
 
 ## 特点
 
-- 有用于存储可以在状态栏中显示的颜色的插槽。默认情况下，插槽的数量设置为5，但可以在设置中调整为1到20之间的任何值。
+- 有用于存储可以在状态栏中显示的颜色的插槽。默认情况下，插槽的数量设置为 5，但可以在设置中调整为 1 到 20 之间的任何值。
 - 您可以通过使用热键或点击颜色插槽来切换插槽。
 - 您可以通过打开颜色输入菜单、使用热键或点击状态栏中的所需颜色单元来更改当前插槽的颜色。
 - 在输入菜单中，有两种选择颜色的方式。您可以从默认设置为最常用颜色并可以在设置中自定义的喜爱颜色中选择，或者您可以使用颜色调色板选择自定义颜色。
@@ -54,7 +51,8 @@ modified: 20230101000000
 
 ## 使用方法
 
-目前有4个可用的命令：
+目前有 4 个可用的命令：
+
 - 更改所选文本的颜色
 - 在插槽之间切换，向前
 - 在插槽之间切换，向后
@@ -72,7 +70,7 @@ modified: 20230101000000
 - [x] 调整状态栏中颜色单元格的数量
 - [x] 右键点击能够更改颜色
 - [x] 在设置中选择喜欢的颜色，并能够从中选择
-- [ ] 将添加LaTeX/Mathjax支持
+- [ ] 将添加 LaTeX/Mathjax 支持
 - [ ] 将实施测试
 
 

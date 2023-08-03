@@ -1,13 +1,13 @@
 ---
-uid: 2023080322210384
-title: Obsidian 插件：【Readme】Kill and Yank
+uid: 20230803231105
+title: Obsidian 插件：Kill and Yank
 tags: ['obsidian插件', 'readme']
 description: 在编辑器中启用杀死和抢夺（如Emacs）
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232550
 ---
 
 # Obsidian 插件：Kill and Yank
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Kill and Yank
 > - 插件作者：INOUE Takuya
-> - 插件说明：在编辑器中启用杀死和抢夺（如Emacs）
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：在编辑器中启用杀死和抢夺（如 Emacs）
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/inouetakuya/obsidian-kill-and-yank)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?kill-and-yank)
 
 ## 概述
 
-在编辑器中启用杀死和抢夺（如Emacs）
-
-
+在编辑器中启用杀死和抢夺（如 Emacs）
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/inouetakuya/obsidian-kill-and-yank/main/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,11 @@ modified: 20230101000000
 
 下面是 [[kill-and-yank]] 插件的自述翻译
 
+Obsidian 杀死和复制
 
-Obsidian杀死和复制
+Obsidian 插件，使编辑器中的杀死和复制功能类似于 Emacs。
 
-Obsidian插件，使编辑器中的杀死和复制功能类似于Emacs。
-
-Obsidian https://obsidian.md
+Obsidian <https://obsidian.md>
 
 使用方法
 
@@ -70,9 +67,9 @@ Obsidian https://obsidian.md
 
 注意
 
-该插件在编辑器中启用了kill和yank功能，但不会在标题中启用kill和yank功能。
+该插件在编辑器中启用了 kill 和 yank 功能，但不会在标题中启用 kill 和 yank 功能。
 
-如果您希望继续在标题中使用kill和yank功能，请更改默认的键映射。
+如果您希望继续在标题中使用 kill 和 yank 功能，请更改默认的键映射。
 
 开发
 
@@ -105,6 +102,3 @@ yarn build
 ### 手动安装此插件
 
 将 `main.js`、`styles.css`、`manifest.json` 复制到您的 vault 文件夹 `VaultFolder/.obsidian/plugins/kill-and-yank/` 中。
-
-
-

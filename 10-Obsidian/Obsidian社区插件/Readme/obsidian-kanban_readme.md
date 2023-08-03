@@ -1,13 +1,13 @@
 ---
-uid: 2023080322205728
-title: Obsidian 插件：【Readme】Kanban
+uid: 20230803231105
+title: Obsidian 插件：Kanban
 tags: ['界面相关', '任务管理', '效率', 'obsidian插件', 'readme']
 description: 在 Obsidian 中创建MarkDown支持的看板
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232510
 ---
 
 # Obsidian 插件：Kanban
@@ -15,28 +15,27 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Kanban
 > - 插件作者：mgmeyers
-> - 插件说明：在 Obsidian 中创建MarkDown支持的看板
-> - 插件分类：['界面相关', '任务管理', '效率', 'obsidian插件', 'readme']
+> - 插件说明：在 Obsidian 中创建 MarkDown 支持的看板
+> - 插件分类：[' 界面相关 ', ' 任务管理 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/mgmeyers/obsidian-kanban)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-kanban)
 
 ## 概述
 
-在 Obsidian 中创建MarkDown支持的看板
+在 Obsidian 中创建 MarkDown 支持的看板
 
 ![Kanban](https://cdn.pkmer.cn/covers/obsidian-kanban.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-kanban/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-kanban]] 插件的自述翻译
-
 
 # Obsidian 看板插件
 
@@ -55,11 +54,6 @@ modified: 20230101000000
 
 ## 支持
 
-如果您觉得这个插件有用并且想要支持它的开发，您可以在Github上赞助[我](https://github.com/mgmeyers)，或者给我买杯咖啡。
+如果您觉得这个插件有用并且想要支持它的开发，您可以在 Github 上赞助 [我](https://github.com/mgmeyers)，或者给我买杯咖啡。
 
 [![GitHub赞助商](https://img.shields.io/github/sponsors/mgmeyers?label=赞助&logo=GitHub%20Sponsors&style=for-the-badge)](https://github.com/sponsors/mgmeyers)
-
-
-
-
-

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322234679
-title: Obsidian 插件：【Readme】Obsidian title index
+uid: 20230803231105
+title: Obsidian 插件：Obsidian title index
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 一个简单的插件，可以为你的markdown标题添加序列号。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232441
 ---
 
 # Obsidian 插件：Obsidian title index
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Obsidian title index
 > - 插件作者：renmu123
-> - 插件说明：一个简单的插件，可以为你的markdown标题添加序列号。
-> - 插件分类：['文件重构', 'obsidian插件', 'readme']
+> - 插件说明：一个简单的插件，可以为你的 markdown 标题添加序列号。
+> - 插件分类：[' 文件重构 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/renmu123/obsidian-markdown-index)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-title-index)
 
 ## 概述
 
-一个简单的插件，可以为你的markdown标题添加序列号。
-
-
+一个简单的插件，可以为你的 markdown 标题添加序列号。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/renmu123/obsidian-markdown-index/master/README.md)
-> 
+>
 
 ---
 
@@ -37,16 +35,18 @@ modified: 20230101000000
 
 下面是 [[obsidian-title-index]] 插件的自述翻译
 
-
 感谢 [markdown_index](https://github.com/legendmohe/markdown_index)
 
 # 如何使用
+
 按下 `ctrl + p`，然后输入 `add-markdown-index`。
 
 # 功能
-markdown_index是一个可以为你的markdown标题添加序号的扩展。
+
+markdown_index 是一个可以为你的 markdown 标题添加序号的扩展。
 
 假设原始文本如下：
+
 ```
 
 # a
@@ -62,7 +62,9 @@ foolbar
 foolbar
 
 ```
+
     这是代码块
+
 ```
 
 foolbar
@@ -91,7 +93,9 @@ foolbar
 foolbar
 
 ```
+
     这是代码块
+
 ```
 
 1.3. a-e
@@ -102,6 +106,3 @@ foolbar
 # 2. f
 愚蠢的酒吧
 ```
-
-
-

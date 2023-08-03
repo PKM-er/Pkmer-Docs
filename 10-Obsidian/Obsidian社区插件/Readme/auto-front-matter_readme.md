@@ -1,13 +1,13 @@
 ---
-uid: 2023080322142863
-title: Obsidian 插件：【Readme】Auto Front Matter
+uid: 20230803231105
+title: Obsidian 插件：Auto Front Matter
 tags: ['obsidian插件', 'readme']
 description: 自动更新前置事项
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232616
 ---
 
 # Obsidian 插件：Auto Front Matter
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Auto Front Matter
 > - 插件作者：conorzhong
 > - 插件说明：自动更新前置事项
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/conorzhong/obsidian-auto-front-matter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-front-matter)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 自动更新前置事项
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/conorzhong/obsidian-auto-front-matter/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ modified: 20230101000000
 
 下面是 [[auto-front-matter]] 插件的自述翻译
 
+# Obsidian 自动添加 Front Matter
 
-# Obsidian自动添加Front Matter
-
-自动在Front Matter中添加`title`、`id`、`datetimeCreate`、`datetimeUpdate`，然后重新排序它们。它不会影响Front Matter中的其他键。
+自动在 Front Matter 中添加 `title`、`id`、`datetimeCreate`、`datetimeUpdate`，然后重新排序它们。它不会影响 Front Matter 中的其他键。
 
 使用方法
 
@@ -53,6 +50,3 @@ modified: 20230101000000
 选项
 
 当文件更改时更新前置元数据
-
-
-

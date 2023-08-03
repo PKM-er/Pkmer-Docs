@@ -1,13 +1,13 @@
 ---
-uid: 2023080322180219
-title: Obsidian 插件：【Readme】External Link Helper
+uid: 20230803231105
+title: Obsidian 插件：External Link Helper
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，可以让您更容易地将外部链接插入您的笔记中。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232520
 ---
 
 # Obsidian 插件：External Link Helper
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：External Link Helper
 > - 插件作者：Jhonghee Park
 > - 插件说明：这是一个插件，可以让您更容易地将外部链接插入您的笔记中。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/nakalsio/obsidian-danpung)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-extlnkhelper-plugin)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![External Link Helper](https://cdn.pkmer.cn/covers/obsidian-extlnkhelper-plugin.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nakalsio/obsidian-danpung/master/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +37,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-extlnkhelper-plugin]] 插件的自述翻译
 
-
-# 用于查找外部链接的Obsidian插件
+# 用于查找外部链接的 Obsidian 插件
 
 该插件允许您搜索在您的笔记中找到的外部链接。搜索功能具有两种可能的操作。
 
@@ -54,7 +53,7 @@ modified: 20230101000000
 
 在外部链接查看器中，您还可以进行以下操作。
 
-1. 点击源Markdown文件的名称将打开该笔记。
+1. 点击源 Markdown 文件的名称将打开该笔记。
 2. 点击相关标签将搜索与所选标签匹配的外部链接。
 
 ## 3. 设置
@@ -63,6 +62,3 @@ modified: 20230101000000
 2. 您可以调整模糊搜索如何匹配您的链接。
 
 ![设置](images/settings.png)
-
-
-

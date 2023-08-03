@@ -1,13 +1,13 @@
 ---
-uid: 2023080322181075
-title: Obsidian 插件：【Readme】File Color
+uid: 20230803231105
+title: Obsidian 插件：File Color
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，用于在文件树中为文件夹和文件设置颜色。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232519
 ---
 
 # Obsidian 插件：File Color
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：File Color
 > - 插件作者：ecustic
-> - 插件说明：一个Obsidian插件，用于在文件树中为文件夹和文件设置颜色。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：一个 Obsidian 插件，用于在文件树中为文件夹和文件设置颜色。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ecustic/obsidian-file-color)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-file-color)
 
 ## 概述
 
-一个Obsidian插件，用于在文件树中为文件夹和文件设置颜色。
+一个 Obsidian 插件，用于在文件树中为文件夹和文件设置颜色。
 
 ![File Color](https://cdn.pkmer.cn/covers/obsidian-file-color.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ecustic/obsidian-file-color/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +37,11 @@ modified: 20230101000000
 
 下面是 [[obsidian-file-color]] 插件的自述翻译
 
-
-# Obsidian文件颜色
+# Obsidian 文件颜色
 
 ![Obsidian文件颜色横幅](./docs/images/hero-rounded.png)
 
-这是一个为[Obsidian](https://obsidian.md)设计的插件，它允许您为文件和文件夹在文件浏览器中选择颜色。
+这是一个为 [Obsidian](https://obsidian.md) 设计的插件，它允许您为文件和文件夹在文件浏览器中选择颜色。
 
 ## 使用方法
 
@@ -72,9 +71,11 @@ modified: 20230101000000
       text-decoration-color: inherit;
     }
     ```
+
     这将使下划线使用此插件定义的颜色。结果如下所示：
 
     ![带有图标和文件夹注释的示例](./docs/images/icons-notes-rounded.png)
+
 ---
 
 <div align="center">

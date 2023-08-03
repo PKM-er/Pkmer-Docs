@@ -1,13 +1,13 @@
 ---
-uid: 2023080322133217
-title: Obsidian 插件：【Readme】Achievements
-tags: ['obsidian插件', 'readme']
+uid: 20230803231105
+title: Obsidian 插件：Achievements
+tags: ['obsidian插件', 'readme', 标签]
 description: 为黑曜石增加成就。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232537
 ---
 
 # Obsidian 插件：Achievements
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Achievements
 > - 插件作者：Zachatoo
 > - 插件说明：为黑曜石增加成就。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Zachatoo/obsidian-achievements)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-achievements)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 为黑曜石增加成就。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Zachatoo/obsidian-achievements/main/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +35,8 @@ modified: 20230101000000
 
 下面是 [[obsidian-achievements]] 插件的自述翻译
 
-
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22obsidian-achievements%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
+
 # 奥斯尼亚成就
 
 通过努力获得成就来使你的笔记变得有趣！
@@ -81,9 +79,9 @@ modified: 20230101000000
 
 快速操作
 
-打开快速切换器。您可以在设置-热键中找到打开快速切换器的快捷键。
+打开快速切换器。您可以在设置 - 热键中找到打开快速切换器的快捷键。
 
-创建一个标注。您可以在设置-热键中找到创建标注的快捷键。
+创建一个标注。您可以在设置 - 热键中找到创建标注的快捷键。
 
 ### 标题
 
@@ -111,8 +109,8 @@ modified: 20230101000000
 
 ## 归属
 
--   感谢pjeby提供的[monkey-around](https://github.com/pjeby/monkey-around)，我用它来钩入Obsidian中的事件。
--   感谢marcusolsson提供的[obsidian-svelte](https://github.com/marcusolsson/obsidian-svelte)，我用它来创建许多UI元素。
+- 感谢 pjeby 提供的 [monkey-around](https://github.com/pjeby/monkey-around)，我用它来钩入 Obsidian 中的事件。
+- 感谢 marcusolsson 提供的 [obsidian-svelte](https://github.com/marcusolsson/obsidian-svelte)，我用它来创建许多 UI 元素。
 
 
 

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322242421
-title: Obsidian 插件：【Readme】Page Heading From Links
+uid: 20230803231105
+title: Obsidian 插件：Page Heading From Links
 tags: ['模板', 'obsidian插件', 'readme']
 description: 在空白页中插入文件名作为标题
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232433
 ---
 
 # Obsidian 插件：Page Heading From Links
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Page Heading From Links
 > - 插件作者：Mark Beattie
 > - 插件说明：在空白页中插入文件名作为标题
-> - 插件分类：['模板', 'obsidian插件', 'readme']
+> - 插件分类：[' 模板 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/beet/page-headings-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?page-heading-from-links)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 在空白页中插入文件名作为标题
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/beet/page-headings-obsidian-plugin/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[page-heading-from-links]] 插件的自述翻译
-
 
 # 页面标题 Obsidian 插件
 
@@ -50,7 +47,7 @@ Obsidian 插件，用于从文件名中填充页面标题。
 
 页面标题由文件名和以下转换给出：
 
-* 后缀（通常为`.md`）被移除。
+* 后缀（通常为 `.md`）被移除。
 * 下划线 `_` 被替换为一个空格 `' '`。
 * 第一个单词首字母大写。
 

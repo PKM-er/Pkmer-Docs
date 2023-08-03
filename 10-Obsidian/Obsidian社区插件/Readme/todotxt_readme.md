@@ -1,13 +1,13 @@
 ---
-uid: 2023080322283238
-title: Obsidian 插件：【Readme】TodoTxt
+uid: 20230803231105
+title: Obsidian 插件：TodoTxt
 tags: ['obsidian插件', 'readme']
 description: 管理Todo.txt文件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232418
 ---
 
 # Obsidian 插件：TodoTxt
@@ -15,28 +15,27 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：TodoTxt
 > - 插件作者：Mark Grimes
-> - 插件说明：管理Todo.txt文件。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：管理 Todo.txt 文件。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/mvgrimes/obsidian-todotxt-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?todotxt)
 
 ## 概述
 
-管理Todo.txt文件。
+管理 Todo.txt 文件。
 
 ![TodoTxt](https://cdn.pkmer.cn/covers/todotxt.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mvgrimes/obsidian-todotxt-plugin/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[todotxt]] 插件的自述翻译
-
 
 # Obsidian TodoTxt 插件
 
@@ -48,11 +47,11 @@ modified: 20230101000000
 
 ## 附加功能
 
-TodoTxt插件支持一些基本todotxt规范的扩展：
+TodoTxt 插件支持一些基本 todotxt 规范的扩展：
 
 ### 截止日期
 
-可以通过在TODO事项的文本中包含`due:yyyy-mm-dd`来指定截止日期。插件将突出显示截止日期，并在日期接近时变为橙色，然后在截止日期被错过时变为红色。日期必须以`yyyy-mm-dd`格式指定（如果需要，可以用`0`填充月份或日期），并且不能包含任何空格。
+可以通过在 TODO 事项的文本中包含 `due:yyyy-mm-dd` 来指定截止日期。插件将突出显示截止日期，并在日期接近时变为橙色，然后在截止日期被错过时变为红色。日期必须以 `yyyy-mm-dd` 格式指定（如果需要，可以用 `0` 填充月份或日期），并且不能包含任何空格。
 
 ### 待定
 
@@ -81,26 +80,25 @@ TodoTxt插件支持一些基本todotxt规范的扩展：
 
 ## TODO
 
-- [ ] 处理parseTodo()错误
-- [x] 删除一个Todo
-- [x] 编辑一个Todo
-- [x] 快捷键创建新的Todo
-- [ ] 全局快捷键创建新的Todo
-- [ ] 命令面板命令创建新的Todo
-- [ ] 配置菜单设置默认的.todotxt文件
-- [x] 键盘导航通过TODOs
+- [ ] 处理 parseTodo() 错误
+- [x] 删除一个 Todo
+- [x] 编辑一个 Todo
+- [x] 快捷键创建新的 Todo
+- [ ] 全局快捷键创建新的 Todo
+- [ ] 命令面板命令创建新的 Todo
+- [ ] 配置菜单设置默认的.todotxt 文件
+- [x] 键盘导航通过 TODOs
 - [x] 优先级颜色有点亮
 
 开发过程中有用的命令：
 
   $ npm run dev # 通过 esbuild 将 typescript 编译到 ./dist
+
   $ npm run css # 通过 postcss 将 css 编译到 ./dist
+
   $ npm run cp # 将文件从 ./dist 复制到 Obsidian 插件目录中
 
 ## 感谢
 
-* 感谢[todotxt](https://github.com/todotxt)的作者们。
-* 感谢[SwiftoDo](https://swiftodoapp.com/)的作者们为规范文档中的截止日期和重复任务扩展做出的贡献。
-
-
-
+* 感谢 [todotxt](https://github.com/todotxt) 的作者们。
+* 感谢 [SwiftoDo](https://swiftodoapp.com/) 的作者们为规范文档中的截止日期和重复任务扩展做出的贡献。

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322180706
-title: Obsidian 插件：【Readme】Fantasy Content Generator
+uid: 20230803231105
+title: Obsidian 插件：Fantasy Content Generator
 tags: ['游戏', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 用于生成基于种族的幻想内容，例如 战利品、酒馆、饮品和角色的名称等。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232559
 ---
 
 # Obsidian 插件：Fantasy Content Generator
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Fantasy Content Generator
 > - 插件作者：Gregory-Jagermeister
 > - 插件说明：用于生成基于种族的幻想内容，例如 战利品、酒馆、饮品和角色的名称等。
-> - 插件分类：['游戏', '编辑器', '效率', 'obsidian插件', 'readme']
+> - 插件分类：[' 游戏 ', ' 编辑器 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?fantasy-content-generator)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Fantasy Content Generator](https://cdn.pkmer.cn/covers/fantasy-content-generator.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Gregory-Jagermeister/Fantasy-Content-Generator/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[fantasy-content-generator]] 插件的自述翻译
-
 
 # 幻想内容生成器
 
@@ -75,7 +74,7 @@ modified: 20230101000000
 
 ## 内联生成器
 
-如果你发现自己需要一个快速的精灵名字，或者真的想要一个快速的地牢描述，那么不要再找其他的了，直接使用内联生成器吧。你可以通过使用Callout令牌（默认设置为'@'，可以在设置中更改）并浏览可能的生成器列表来激活它。
+如果你发现自己需要一个快速的精灵名字，或者真的想要一个快速的地牢描述，那么不要再找其他的了，直接使用内联生成器吧。你可以通过使用 Callout 令牌（默认设置为 '@'，可以在设置中更改）并浏览可能的生成器列表来激活它。
 
 ### 内联示例
 
@@ -84,6 +83,7 @@ modified: 20230101000000
 配置
 
 下面是此插件中所有设置的表格
+
 | 设置 | 选项 |
 | ------- | ------- |
 | 重置 | 点击重置按钮返回默认值 |
@@ -107,7 +107,7 @@ modified: 20230101000000
 - ~~在备注中进行随机化。~~
 - 可能会有更多的生成类型。
 - 更好的用户界面
-- ~~JSON导入和导出~~
+- ~~JSON 导入和导出~~
 
 
 

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322271423
-title: Obsidian 插件：【Readme】Soomda
+uid: 20230803231105
+title: Obsidian 插件：Soomda
 tags: ['obsidian插件', 'readme']
 description: 快速隐藏你的侧边栏。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232449
 ---
 
 # Obsidian 插件：Soomda
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Soomda
 > - 插件作者：Michael Lee
 > - 插件说明：快速隐藏你的侧边栏。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/michaellee/soomda)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-soomda)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 快速隐藏你的侧边栏。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/michaellee/soomda/master/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +35,14 @@ modified: 20230101000000
 
 下面是 [[obsidian-soomda]] 插件的自述翻译
 
-
 🙈 Soomda
 
-一个Obsidian插件，可以让你快速隐藏侧边栏。
+一个 Obsidian 插件，可以让你快速隐藏侧边栏。
 
 ## 入门指南
-- 安装完Soomda后，在“设置”中的“社区插件>已安装插件”下确保插件已激活。
-- 激活后，您将在左侧的功能区中看到一个新的叶子形状图标。这是打开和关闭Soomda的切换按钮。
+
+- 安装完 Soomda 后，在“设置”中的“社区插件>已安装插件”下确保插件已激活。
+- 激活后，您将在左侧的功能区中看到一个新的叶子形状图标。这是打开和关闭 Soomda 的切换按钮。
 
 ## 开发
 
@@ -63,6 +61,3 @@ modified: 20230101000000
 ## 许可证
 
 MIT
-
-
-

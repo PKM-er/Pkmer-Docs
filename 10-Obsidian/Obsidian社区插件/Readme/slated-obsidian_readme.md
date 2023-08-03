@@ -1,13 +1,13 @@
 ---
-uid: 2023080322270173
-title: Obsidian 插件：【Readme】Slated
+uid: 20230803231105
+title: Obsidian 插件：Slated
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 为 Obsidian 提供高级任务管理能力。此插件已经不再维护。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232423
 ---
 
 # Obsidian 插件：Slated
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Slated
 > - 插件作者：Tony Grosinger
 > - 插件说明：为 Obsidian 提供高级任务管理能力。此插件已经不再维护。
-> - 插件分类：['任务管理', 'obsidian插件', 'readme']
+> - 插件分类：[' 任务管理 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/tgrosinger/slated-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?slated-obsidian)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Slated](https://cdn.pkmer.cn/covers/slated-obsidian.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tgrosinger/slated-obsidian/main/README.md)
-> 
+>
 
 ---
 
@@ -37,26 +37,25 @@ modified: 20230101000000
 
 下面是 [[slated-obsidian]] 插件的自述翻译
 
-
 # 预定为黑曜石
 
 ## ⚠ 项目已归档
 
-经过深思熟虑和实验，我决定改变在Obsidian中管理任务的方式。我现在采取的方法与之前的Slated有所不同，我觉得这需要一个新的插件，而不是将其改编为Slated并强加给现有用户。新的插件名为[tq](https://github.com/tgrosinger/tq-obsidian)，可以在社区插件列表中找到。
+经过深思熟虑和实验，我决定改变在 Obsidian 中管理任务的方式。我现在采取的方法与之前的 Slated 有所不同，我觉得这需要一个新的插件，而不是将其改编为 Slated 并强加给现有用户。新的插件名为 [tq](https://github.com/tgrosinger/tq-obsidian)，可以在社区插件列表中找到。
 
-如果你想继续使用Slated，请与我联系，我们可以讨论取消归档这个存储库。
+如果你想继续使用 Slated，请与我联系，我们可以讨论取消归档这个存储库。
 
 感谢您的理解和支持！
 
 ## 概述
 
-在Obsidian知识库中进行高级任务管理。
+在 Obsidian 知识库中进行高级任务管理。
 
 - 设置重复任务
 - 推迟任务到另一个每日笔记
 - 将所有未完成的任务移动到今天的每日笔记中
-- 在Obsidian移动版中可用
-- 全部使用100%的Obsidian Markdown！
+- 在 Obsidian 移动版中可用
+- 全部使用 100% 的 Obsidian Markdown！
 
 ## 截图
 
@@ -68,7 +67,7 @@ modified: 20230101000000
 
 ## 如何使用
 
-任务使用普通的Markdown语法创建，例如`- [ ] 浇花`。一旦创建了任务，可以使用此插件添加的命令来配置重复或移动任务。最简单的方法是将它们绑定到热键上，或者使用命令面板。
+任务使用普通的 Markdown 语法创建，例如 `- [ ] 浇花`。一旦创建了任务，可以使用此插件添加的命令来配置重复或移动任务。最简单的方法是将它们绑定到热键上，或者使用命令面板。
 
 ![slated-command-palette](https://raw.githubusercontent.com/tgrosinger/slated-obsidian/main/resources/screenshots/slated-command-palette.png)
 
@@ -89,25 +88,25 @@ modified: 20230101000000
 
 ### 更多例子
 
-- [ ] 去看牙医；上午8:30
-- [x] 预订渡轮 📅 上午7:00
+- [ ] 去看牙医；上午 8:30
+- [x] 预订渡轮 📅 上午 7:00
 - [ ] (A) 吸尘楼梯
 - [ ] 做面包；每个星期日
 - [ ] 带狗去兽医那里
-- [ ] 洗碗 📅 每个工作日下午5点
+- [ ] 洗碗 📅 每个工作日下午 5 点
 
 定价
 
 该插件免费提供给所有人使用，但如果您想表示感谢或帮助支持持续开发，可以通过以下方法之一向我提供一点帮助：
 
 [![GitHub赞助商](https://img.shields.io/github/sponsors/tgrosinger?style=social)](https://github.com/sponsors/tgrosinger)
+
 [![Paypal](https://img.shields.io/badge/paypal-tgrosinger-yellow?style=social&logo=paypal)](https://paypal.me/tgrosinger)
+
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/tgrosinger)
 
 ## 鸣谢
 
-非常感谢[Liam Cain](https://github.com/liamcain)对[Obsidian Calendar
-Plugin](https://github.com/liamcain/obsidian-calendar-plugin)的改进，使其能够被其他插件广泛使用！
+非常感谢 [Liam Cain](https://github.com/liamcain) 对 [Obsidian Calendar
 
-
-
+Plugin](https://github.com/liamcain/obsidian-calendar-plugin) 的改进，使其能够被其他插件广泛使用！

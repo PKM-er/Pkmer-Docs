@@ -1,13 +1,13 @@
 ---
-uid: 2023080322193947
-title: Obsidian 插件：【Readme】Heatmap Calendar
+uid: 20230803231105
+title: Obsidian 插件：Heatmap Calendar
 tags: ['界面相关', '美化', '统计', 'obsidian插件', 'readme']
 description: 可视化您的数据在热图日历类似于 github 活动日历
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232554
 ---
 
 # Obsidian 插件：Heatmap Calendar
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Heatmap Calendar
 > - 插件作者：Richard Slettevoll
 > - 插件说明：可视化您的数据在热图日历类似于 github 活动日历
-> - 插件分类：['界面相关', '美化', '统计', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', ' 美化 ', ' 统计 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Richardsl/heatmap-calendar-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?heatmap-calendar)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 可视化您的数据在热图日历类似于 github 活动日历
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Richardsl/heatmap-calendar-obsidian/master/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +35,13 @@ modified: 20230101000000
 
 下面是 [[heatmap-calendar]] 插件的自述翻译
 
+# Obsidian 热力图日历插件
 
-# Obsidian热力图日历插件
-
-使用这个[Obsidian](https://obsidian.md/)插件，可以将您的数据可视化为类似于GitHub活动日历的热力图日历。
+使用这个 [Obsidian](https://obsidian.md/) 插件，可以将您的数据可视化为类似于 GitHub 活动日历的热力图日历。
 
 非常适用于跟踪各种事物的进展，如运动、财务、兴趣、恶习、社交、项目进展等。
 
-它旨在与[DataviewJS](https://blacksmithgu.github.io/obsidian-dataview/)一起使用，但也可以作为独立插件或与其他插件一起使用，因为该插件的所有功能都是将函数***renderHeatmapCalendar()***添加到全局命名空间中。
+它旨在与 [DataviewJS](https://blacksmithgu.github.io/obsidian-dataview/) 一起使用，但也可以作为独立插件或与其他插件一起使用，因为该插件的所有功能都是将函数***renderHeatmapCalendar()***添加到全局命名空间中。
 
 <p>
     <picture>
@@ -58,13 +55,13 @@ modified: 20230101000000
 
 使用方法：
 
-1. 在您的日常笔记中注释您想要跟踪的数据（参见[Dataview注释文档](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/)）
-2. 在您想要显示热力图日历的位置创建一个[DataviewJS块](https://blacksmithgu.github.io/obsidian-dataview/api/intro/)
-3. 使用[DataviewJS](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/)收集您想要显示的数据
+1. 在您的日常笔记中注释您想要跟踪的数据（参见 [Dataview注释文档](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/)）
+2. 在您想要显示热力图日历的位置创建一个 [DataviewJS块](https://blacksmithgu.github.io/obsidian-dataview/api/intro/)
+3. 使用 [DataviewJS](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/) 收集您想要显示的数据
 4. 使用**renderHeatmapCalendar()**将数据传递给热力图日历
 ![热力图日历示例](https://github.com/Richardsl/heatmap-calendar-obsidian/blob/master/github-images/heatmap-calendar-howto3.jpg?raw=true)
 
-## 完整示例代码：
+## 完整示例代码
 
 ~~~javascript
 \```dataviewjs
@@ -101,20 +98,23 @@ renderHeatmapCalendar(this.container, calendarData)
 ```
 ~~~
 
-## 颜色：
-您不需要提供任何颜色，日历默认使用绿色，就像Github一样。
+## 颜色
+
+您不需要提供任何颜色，日历默认使用绿色，就像 Github 一样。
+
 如果您在*calendarData.colors*中提供了颜色，第一个索引将被视为新的默认颜色。
 
-通过在calendarData.colors中指定您给定的颜色名称，可以为每个条目添加自定义颜色。
+通过在 calendarData.colors 中指定您给定的颜色名称，可以为每个条目添加自定义颜色。
+
 您甚至可以在同一个日历中使用多种颜色，只需为不同的条目使用不同的颜色。
 
-示例中使用的颜色方案是在[leonardocolor.io](https://leonardocolor.io)上创建的。
+示例中使用的颜色方案是在 [leonardocolor.io](https://leonardocolor.io) 上创建的。
 
-### 添加全局颜色：
+### 添加全局颜色
 
 您还可以通过设置面板添加一个可在任何地方使用的颜色方案。
 
-要这样做，请转到“Obsidian设置 > 热力图日历”，您将看到一个可用颜色的列表，您可以添加自己的颜色。您必须指定一个“颜色名称”，以便在呈现调用中引用它，并提供一个有效的颜色数组。
+要这样做，请转到“Obsidian 设置 > 热力图日历”，您将看到一个可用颜色的列表，您可以添加自己的颜色。您必须指定一个“颜色名称”，以便在呈现调用中引用它，并提供一个有效的颜色数组。
 
 当您这样做时，您现在可以通过将您的名称传递给“colors”选项来在任何地方引用您的方案。例如，假设您定义了一个名为“githubGreen”的新颜色。现在，在您的代码中，您可以这样引用它：
 
@@ -127,6 +127,7 @@ const calendarData = {
 
 renderHeatmapCalendar(this.container, calendarData)
 ```
+
 ```
 
 强度：

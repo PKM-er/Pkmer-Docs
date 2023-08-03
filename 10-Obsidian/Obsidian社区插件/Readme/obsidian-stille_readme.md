@@ -1,13 +1,13 @@
 ---
-uid: 2023080322272599
-title: Obsidian 插件：【Readme】Stille
+uid: 20230803231105
+title: Obsidian 插件：Stille
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 集中精力一次写一个部分。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232448
 ---
 
 # Obsidian 插件：Stille
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Stille
 > - 插件作者：Michael Lee
 > - 插件说明：集中精力一次写一个部分。
-> - 插件分类：['界面相关', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/michaellee/stille)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-stille)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Stille](https://cdn.pkmer.cn/covers/obsidian-stille.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/michaellee/stille/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-stille]] 插件的自述翻译
-
 
 ## 🌗 Stille
 
@@ -47,16 +46,18 @@ modified: 20230101000000
 [了解更多关于 Stille 的信息。](https://michaelsoolee.com/obsidian-focus-plugin-stille/)
 
 ## 安装 Stille
-您可以[点击此链接](https://obsidian.md/plugins?id=obsidian-stille)，它将打开 Obsidian 并为您提供安装 Stille 的选项。
+
+您可以 [点击此链接](https://obsidian.md/plugins?id=obsidian-stille)，它将打开 Obsidian 并为您提供安装 Stille 的选项。
 
 或者
 
 您可以在 Obsidian 中通过转到“设置 > 社区插件”并在*社区插件*下的**浏览**按钮上单击。然后在搜索框中搜索 *Stille* 进行安装。
 
 ## 入门指南
-- 安装完Stille后，在“设置”中的“社区插件>已安装插件”下确保插件已激活。
-- 激活后，您将在左侧功能区中看到一个新的月亮形状的图标。这是切换Stille开关的按钮。您还将在底部状态栏中看到一个Stille的状态，指示其是否开启或关闭。
-- Stille还配有一个快捷键，用于切换开启或关闭，macOS上是`command + shift + s`，Windows上是`control + shift + s`。
+
+- 安装完 Stille 后，在“设置”中的“社区插件>已安装插件”下确保插件已激活。
+- 激活后，您将在左侧功能区中看到一个新的月亮形状的图标。这是切换 Stille 开关的按钮。您还将在底部状态栏中看到一个 Stille 的状态，指示其是否开启或关闭。
+- Stille 还配有一个快捷键，用于切换开启或关闭，macOS 上是 `command + shift + s`，Windows 上是 `control + shift + s`。
 
 ## 开发
 
@@ -77,13 +78,11 @@ modified: 20230101000000
 [Limelight by Junegunn Choi](https://github.com/junegunn/limelight.vim)
 
 显示感激之情
-如果您在使用[Stille for Obsidian](https://obsidian.md/plugins?id=obsidian-stille)时受益，请考虑[给我买一块比萨饼](https://michaellee.gumroad.com/l/buy-michael-pizza) :pizza:
 
-这将使我保持动力，继续支持和改进Stille。
+如果您在使用 [Stille for Obsidian](https://obsidian.md/plugins?id=obsidian-stille) 时受益，请考虑 [给我买一块比萨饼](https://michaellee.gumroad.com/l/buy-michael-pizza) :pizza:
+
+这将使我保持动力，继续支持和改进 Stille。
 
 ## 许可证
 
 MIT
-
-
-

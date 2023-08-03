@@ -1,13 +1,13 @@
 ---
-uid: 2023080322154178
-title: Obsidian 插件：【Readme】Charts View
+uid: 20230803231105
+title: Obsidian 插件：Charts View
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: Obsidian中的数据可视化解决方案，支持图表和图形。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232531
 ---
 
 # Obsidian 插件：Charts View
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Charts View
 > - 插件作者：caronchen
-> - 插件说明：Obsidian中的数据可视化解决方案，支持图表和图形。
-> - 插件分类：['图表生成', 'obsidian插件', 'readme']
+> - 插件说明：Obsidian 中的数据可视化解决方案，支持图表和图形。
+> - 插件分类：[' 图表生成 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/caronchen/obsidian-chartsview-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-chartsview-plugin)
 
 ## 概述
 
-Obsidian中的数据可视化解决方案，支持图表和图形。
+Obsidian 中的数据可视化解决方案，支持图表和图形。
 
 ![Charts View](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/caronchen/obsidian-chartsview-plugin/master/README.md)
-> 
+>
 
 ---
 
@@ -37,11 +37,11 @@ Obsidian中的数据可视化解决方案，支持图表和图形。
 
 下面是 [[obsidian-chartsview-plugin]] 插件的自述翻译
 
-
 ![GitHub标签（最新的SemVer）](https://img.shields.io/github/v/tag/caronchen/obsidian-chartsview-plugin) ![GitHub所有发布](https://img.shields.io/github/downloads/caronchen/obsidian-chartsview-plugin/total) ![GitHub发布日期](https://img.shields.io/github/release-date/caronchen/obsidian-chartsview-plugin) ![GitHub最后提交](https://img.shields.io/github/last-commit/caronchen/obsidian-chartsview-plugin)
-# Obsidian图表视图插件
 
-这是一个基于[Ant Design Charts](https://charts.ant.design/)的数据可视化插件，适用于[Obsidian](https://obsidian.md)。支持绘图和图表。
+# Obsidian 图表视图插件
+
+这是一个基于 [Ant Design Charts](https://charts.ant.design/) 的数据可视化插件，适用于 [Obsidian](https://obsidian.md)。支持绘图和图表。
 
 - [Obsidian图表视图插件](#obsidian-charts-view-plugin)
   - [图表模板](#chart-templates)
@@ -75,7 +75,9 @@ Obsidian中的数据可视化解决方案，支持图表和图形。
 图表模板
 
 ### 词频统计
-使用命令`插入模板`->`词频统计`来插入代码块。
+
+使用命令 `插入模板`->`词频统计` 来插入代码块。
+
 ```chartsview
 #-----------------#
 #- 图表类型      -#
@@ -97,78 +99,94 @@ options:
   wordStyle:
     rotation: 30
 ```
+
 ![image](https://user-images.githubusercontent.com/150803/136478725-be28a56b-0075-4f0a-a719-f61b30e83b6a.png)
 
 #### 多个文件
+
 ```
 数据: "wordcount:Words,PARA,@Inbox/"
 ```
 
 #### 所有文件
+
 ```
 数据："wordcount:/"
 ```
 
 #### 文件夹
+
 ``` 
 data: "wordcount:@Inbox/"
 ```
 
 ### 饼图
+
 使用命令 `Charts View: Insert Template` -> `Pie` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/119069882-87c95700-ba19-11eb-8cef-02d1e021d1a2.png)
 
 ### 词云
+
 使用命令 `Charts View: Insert Template` -> `WordCloud` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/119069991-bba47c80-ba19-11eb-873f-847563daea39.png)
 
 ### 矩形树图
+
 使用命令 `Charts View: Insert Template` -> `Treemap` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/119070047-decf2c00-ba19-11eb-9d59-21c051da593c.png)
 
 ### DualAxes
+
 使用命令 `Charts View: Insert Template` -> `DualAxes` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/119969638-618b5480-bfe1-11eb-8a36-0a5d60408b00.png)
 
 ### 混合
-使用`data.<任意名称>`和`options.<任意名称>`来设置数据和选项。保持数据和选项的`<任意名称>`相同。
 
-使用命令`Charts View: Insert Template` -> `Mix`来插入代码块。
+使用 `data.<任意名称>` 和 `options.<任意名称>` 来设置数据和选项。保持数据和选项的 `<任意名称>` 相同。
+
+使用命令 `Charts View: Insert Template` -> `Mix` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/120421841-a1638a80-c399-11eb-9464-d773931fdd6f.png)
 
 ### 柱状图
+
 使用命令 `Charts View: Insert Template` -> `Bar` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/123117024-fa43b180-d473-11eb-84eb-8e1806ce5dec.png)
 
 ### 组织树图
+
 使用命令 `Charts View: Insert Template` -> `OrganizationTreeGraph` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/123117254-2b23e680-d474-11eb-845f-0d663a458fa7.png)
 
 ### 雷达图
+
 使用命令 `Charts View: Insert Template` -> `Radar` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/123117394-4a227880-d474-11eb-8a11-23f3cd482251.png)
 
 ### TinyLine
+
 使用命令 `Charts View: Insert Template` -> `TinyLine` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/123117476-5a3a5800-d474-11eb-9db8-4b3785bb010c.png)
 
-### Dataviewjs示例（柱状图）
-使用dataviewjs来展示图表数据。
-使用命令`Charts View: Insert Template` -> `Dataviewjs示例（柱状图）`来插入代码块。
+### Dataviewjs 示例（柱状图）
+
+使用 dataviewjs 来展示图表数据。
+
+使用命令 `Charts View: Insert Template` -> `Dataviewjs示例（柱状图）` 来插入代码块。
 
 ![image](https://user-images.githubusercontent.com/150803/140684190-fa6a08ea-3394-44fe-ae92-265810f6b9a9.png)
 
 图表向导
-使用命令`Charts View: Wizard`来插入代码块。
+
+使用命令 `Charts View: Wizard` 来插入代码块。
 
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/150803/208235339-87f12358-b276-43d5-bdb1-f6ce92cfdbae.png">
 
@@ -178,13 +196,16 @@ data: "wordcount:@Inbox/"
 
 <img width="732" alt="image" src="https://user-images.githubusercontent.com/150803/208235436-f48bafef-7920-4922-b012-424c25de30c9.png">
 
-## 来自CSV文件的数据
+## 来自 CSV 文件的数据
 
-### 从外部CSV文件导入数据（桌面）
-使用命令“Charts View: Import data from external CSV file”从CSV文件中插入数据。
+### 从外部 CSV 文件导入数据（桌面）
 
-### 从内部CSV文件加载数据
-从数据路径加载CSV文件。
+使用命令“Charts View: Import data from external CSV file”从 CSV 文件中插入数据。
+
+### 从内部 CSV 文件加载数据
+
+从数据路径加载 CSV 文件。
+
 数据路径应在设置中指定。
 
 ```chartsview
@@ -269,7 +290,7 @@ options.line:
           fillOpacity: 1
 ```
 
-#### 多个CSV文件
+#### 多个 CSV 文件
 
 ```chartsview
 #-----------------#
@@ -306,6 +327,7 @@ options.line:
 数据视图插件集成
 
 ### 允许的方法
+
 * dv.current()
 * dv.pages(source?)
 * dv.pagePaths(source?)
@@ -318,13 +340,16 @@ options.line:
 * dv.query(source, settings?)
 * dv.io
 
-参见[Dataview代码块参考](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/)
+参见 [Dataview代码块参考](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/)
 
 ## 互动
 
 ### 启用搜索交互
-通过添加一个选项`enableSearchInteraction`，在点击图表元素时启用Obsidian中的搜索交互。
+
+通过添加一个选项 `enableSearchInteraction`，在点击图表元素时启用 Obsidian 中的搜索交互。
+
 使用默认值：
+
 ```
 #-----------------#
 #- chart options -#
@@ -333,7 +358,9 @@ options:
   ...
   enableSearchInteraction: true
 ```
+
 或自定义：
+
 ```
 #-----------------#
 #- chart options -#
@@ -344,10 +371,11 @@ options:
     field: 'word'
     operator: 'path'
 ```
-- `field`指示搜索关键字的获取位置。
-- `operator`枚举自[Obsidian搜索操作符](https://help.obsidian.md/Plugins/Search#Search+operators)：
 
-| operator     | Obsidian搜索操作符 |
+- `field` 指示搜索关键字的获取位置。
+- `operator` 枚举自 [Obsidian搜索操作符](https://help.obsidian.md/Plugins/Search#Search+operators)：
+
+| operator     | Obsidian 搜索操作符 |
 | ------------ | ------------------------ |
 | `default`    |                          |
 | `tag`        | `tag:`                   |
@@ -362,17 +390,14 @@ options:
 | `block`      | `block:`                 |
 | `content`    | `content:`               |
 | `section`    | `section:`               |
-| `fileopen`   | 打开Vault内的文件 |
+| `fileopen`   | 打开 Vault 内的文件 |
 
-请参阅https://github.com/caronchen/obsidian-chartsview-plugin/wiki/Chart-examples
+请参阅<https://github.com/caronchen/obsidian-chartsview-plugin/wiki/Chart-examples>
 
 ## 手动安装插件
 
 - 将 `main.js`、`styles.css`、`manifest.json` 复制到你的 vault 文件夹 `VaultFolder/.obsidian/plugins/obsidian-chartsview-plugin/` 中。
 
-Ant Design Charts演示
+Ant Design Charts 演示
 
-请参阅https://charts.ant.design/en/examples/gallery
-
-
-
+请参阅<https://charts.ant.design/en/examples/gallery>

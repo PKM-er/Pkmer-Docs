@@ -1,13 +1,13 @@
 ---
-uid: 2023080322152215
-title: Obsidian 插件：【Readme】Breadcrumbs
+uid: 20230803231105
+title: Obsidian 插件：Breadcrumbs
 tags: ['界面相关', '导航工具', 'obsidian插件', 'readme']
 description: 使用面包屑路径或矩阵视图可视化保管库的层次结构
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232613
 ---
 
 # Obsidian 插件：Breadcrumbs
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Breadcrumbs
 > - 插件作者：SkepticMystic
 > - 插件说明：使用面包屑路径或矩阵视图可视化保管库的层次结构
-> - 插件分类：['界面相关', '导航工具', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', ' 导航工具 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/SkepticMystic/breadcrumbs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?breadcrumbs)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Breadcrumbs](https://cdn.pkmer.cn/covers/breadcrumbs.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/SkepticMystic/breadcrumbs/master/README.md)
-> 
+>
 
 ---
 
@@ -37,16 +37,15 @@ modified: 20230101000000
 
 下面是 [[breadcrumbs]] 插件的自述翻译
 
-
 # 面包屑导航
 
-该插件为Obsidian添加了多个新视图。
+该插件为 Obsidian 添加了多个新视图。
 
-[wiki](https://breadcrumbs-wiki.onrender.com)上有比当前过时和有限的自述文件更详细的插件信息。
+[wiki](https://breadcrumbs-wiki.onrender.com) 上有比当前过时和有限的自述文件更详细的插件信息。
 
-加入我们在[GitHub](https://github.com/SkepticMystic/breadcrumbs/discussions)或[Discord](https://discord.com/channels/686053708261228577/929513881041248266)的讨论！例如，了解其他用户如何[充分利用Breadcrumbs](https://github.com/SkepticMystic/breadcrumbs/discussions/175 "Getting the most out of Breadcrumbs · Discussion #175 · SkepticMystic/breadcrumbs")。
+加入我们在 [GitHub](https://github.com/SkepticMystic/breadcrumbs/discussions) 或 [Discord](https://discord.com/channels/686053708261228577/929513881041248266) 的讨论！例如，了解其他用户如何 [充分利用Breadcrumbs](https://github.com/SkepticMystic/breadcrumbs/discussions/175 "Getting the most out of Breadcrumbs · Discussion #175 · SkepticMystic/breadcrumbs")。
 
-您可以在[这里](https://github.com/SkepticMystic/breadcrumbs/blob/master/CHANGELOG.md)找到更新日志。
+您可以在 [这里](https://github.com/SkepticMystic/breadcrumbs/blob/master/CHANGELOG.md) 找到更新日志。
 
 ## 基础知识
 
@@ -63,7 +62,7 @@ modified: 20230101000000
 
 为了获得这种结构，插件要求您使用某种类型的元数据来指示笔记的层次结构：
 
-1. 前置字段。这是位于笔记顶部的yaml格式字段。例如，`me.md`文件可以具有以下前置字段：
+1. 前置字段。这是位于笔记顶部的 yaml 格式字段。例如，`me.md` 文件可以具有以下前置字段：
 
 ```
 ---
@@ -74,15 +73,15 @@ child: [[child Andre]]
 ---
 ```
 
-2. 内联（必须使用[Dataview](https://github.com/blacksmithgu/obsidian-dataview#data)插件），在正常文本中使用如下方式：
+1. 内联（必须使用 [Dataview](https://github.com/blacksmithgu/obsidian-dataview#data) 插件），在正常文本中使用如下方式：
 
 ```
 Punching is a very effective MMA technique (sibling:: [ [[Kicking]], [[Elbowing]], [[Kneeing]] ], parent:: [[Striking]])
 ```
 
-（注意Dataview内联元数据的双冒号）。
+（注意 Dataview 内联元数据的双冒号）。
 
-3. 您也可以同时使用这两种方法。例如，您的`Course. 101 - Basics of Financing.md`文件可能具有以下内容：
+1. 您也可以同时使用这两种方法。例如，您的 `Course. 101 - Basics of Financing.md` 文件可能具有以下内容：
 
 ```
 ---

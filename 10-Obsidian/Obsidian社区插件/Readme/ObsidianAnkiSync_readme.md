@@ -1,13 +1,13 @@
 ---
-uid: 2023080322231192
-title: Obsidian 插件：【Readme】Obsidian Anki Sync
+uid: 20230803231105
+title: Obsidian 插件：Obsidian Anki Sync
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 黑曜石插件，可以制作闪卡，并将它们同步到Anki。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232435
 ---
 
 # Obsidian 插件：Obsidian Anki Sync
@@ -15,28 +15,27 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Obsidian Anki Sync
 > - 插件作者：debanjandhar12
-> - 插件说明：黑曜石插件，可以制作闪卡，并将它们同步到Anki。
-> - 插件分类：['第三方工具集成', 'obsidian插件', 'readme']
+> - 插件说明：黑曜石插件，可以制作闪卡，并将它们同步到 Anki。
+> - 插件分类：[' 第三方工具集成 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/debanjandhar12/Obsidian-Anki-Sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ObsidianAnkiSync)
 
 ## 概述
 
-黑曜石插件，可以制作闪卡，并将它们同步到Anki。
+黑曜石插件，可以制作闪卡，并将它们同步到 Anki。
 
 ![Obsidian Anki Sync](https://cdn.pkmer.cn/covers/ObsidianAnkiSync.jpeg!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/debanjandhar12/Obsidian-Anki-Sync/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[ObsidianAnkiSync]] 插件的自述翻译
-
 
 # Obsidian Anki Sync - 又一个 Anki 插件
 
@@ -52,39 +51,35 @@ modified: 20230101000000
 $$\sin \theta = \frac{对边}{斜边}$$
 <!-- replaceblock-end -->
 ```
+
 [![Cards](https://raw.githubusercontent.com/debanjandhar12/Obsidian-Anki-Sync/main/docs/images/Tut0.jpg)](#examples)
 
-使用此插件创建卡片还有许多**其他方法**。详细信息和更多示例请参阅[教程](https://github.com/debanjandhar12/Obsidian-Anki-Sync/blob/main/docs/Tutorial.md)。
+使用此插件创建卡片还有许多**其他方法**。详细信息和更多示例请参阅 [教程](https://github.com/debanjandhar12/Obsidian-Anki-Sync/blob/main/docs/Tutorial.md)。
 
 ## 特点
 
-- 🖼 渲染Markdown中的**数学公式、代码、图片、表格等等**
-- 🔏 在每次同步之前**自动备份**Anki卡组。
+- 🖼 渲染 Markdown 中的**数学公式、代码、图片、表格等等**
+- 🔏 在每次同步之前**自动备份**Anki 卡组。
 - 📘 在*每个文件*或*每个块*的基础上将卡片添加到用户指定的卡组中。
 - 📂 忽略模板文件夹。
-- ❔ 通过使用[replaceblock](https://github.com/debanjandhar12/Obsidian-Anki-Sync/blob/main/docs/replaceblock.md)，在Latex数学公式和代码块中使用**填空卡片**。
-- ❔ 通过使用[highlight](https://github.com/debanjandhar12/Obsidian-Anki-Sync/blob/main/docs/clozeblock.md)或Anki的填空语法，使用**填空卡片**。
-- ♻ 同步是通过从Obsidian到Anki创建、更新、删除anki-sync-blocks来完成的。
+- ❔ 通过使用 [replaceblock](https://github.com/debanjandhar12/Obsidian-Anki-Sync/blob/main/docs/replaceblock.md)，在 Latex 数学公式和代码块中使用**填空卡片**。
+- ❔ 通过使用 [highlight](https://github.com/debanjandhar12/Obsidian-Anki-Sync/blob/main/docs/clozeblock.md) 或 Anki 的填空语法，使用**填空卡片**。
+- ♻ 同步是通过从 Obsidian 到 Anki 创建、更新、删除 anki-sync-blocks 来完成的。
 - 🥳 还有许多其他功能，如**额外字段、标签**等等...
 
 ## 安装
 
-1. 从Obsidian的“社区插件”部分下载插件，可以在设置窗格的“第三方插件”下访问。确保关闭安全模式。
+1. 从 Obsidian 的“社区插件”部分下载插件，可以在设置窗格的“第三方插件”下访问。确保关闭安全模式。
+2. 如果尚未安装，请下载 Anki。
+3. 在 Anki 上安装 AnkiConnect。
 
-2. 如果尚未安装，请下载Anki。
+   - 打开 Anki。
+   - 选择“工具”>“插件”。现在会打开一个 Anki 插件对话框。
+   - 现在在插件对话框中点击“获取插件...”，然后在标有“代码”的文本框中输入 [2055492159](https://ankiweb.net/shared/info/2055492159)，然后按下“确定”按钮继续。
+   - 重新启动 Anki。
 
-3. 在Anki上安装AnkiConnect。
-
-   - 打开Anki。
-
-   - 选择“工具”>“插件”。现在会打开一个Anki插件对话框。
-
-   - 现在在插件对话框中点击“获取插件...”，然后在标有“代码”的文本框中输入[2055492159](https://ankiweb.net/shared/info/2055492159)，然后按下“确定”按钮继续。
-
-   - 重新启动Anki。
-
-4. 现在，您可以通过点击“同步到Anki”按钮来使用插件。 <br />
-   注意：在点击Obsidian中的“同步到Anki”按钮之前，请确保Anki正在运行。
+4. 现在，您可以通过点击“同步到 Anki”按钮来使用插件。 <br />
+   注意：在点击 Obsidian 中的“同步到 Anki”按钮之前，请确保 Anki 正在运行。
 
 5. 如果收到下面的消息，请点击“是”。 <br />
    <p align="center">
@@ -138,7 +133,9 @@ C:\Users\{Windows用户名}\AppData\Roaming\Anki2\{Anki配置文件名}
 </details>
 
 ## 支持
+
 喜欢这个工具吗？请考虑捐赠 💸 以帮助它改进！您也可以通过传播这个消息来帮助我们。<br/>
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/debanjandhar12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" style="border-radius:1px" />
 </p>

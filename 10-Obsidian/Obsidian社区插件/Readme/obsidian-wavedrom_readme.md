@@ -1,13 +1,13 @@
 ---
-uid: 2023080322292426
-title: Obsidian 插件：【Readme】WaveDrom
+uid: 20230803231105
+title: Obsidian 插件：WaveDrom
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 用于创建 wavedrom 图。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232437
 ---
 
 # Obsidian 插件：WaveDrom
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：WaveDrom
 > - 插件作者：Alex Stewart
 > - 插件说明：用于创建 wavedrom 图。
-> - 插件分类：['图表生成', 'obsidian插件', 'readme']
+> - 插件分类：[' 图表生成 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/kingsquirrel152/obsidian-wavedrom)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-wavedrom)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 用于创建 wavedrom 图。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kingsquirrel152/obsidian-wavedrom/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-wavedrom]] 插件的自述翻译
-
 
 ## Obsidian WaveDrom 支持
 
@@ -56,12 +53,10 @@ modified: 20230101000000
 
 - 将 `main.js`、`styles.css` 和 `manifest.json` 复制到你的 vault `vault/.obsidian/plugins/plugin-id/` 目录下。
 
-### API文档
+### API 文档
 
-请参阅https://github.com/obsidianmd/obsidian-api
+请参阅<https://github.com/obsidianmd/obsidian-api>
 
-什么是Wavedrom？
-https://wavedrom.com/
+什么是 Wavedrom？
 
-
-
+<https://wavedrom.com/>

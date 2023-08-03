@@ -1,13 +1,13 @@
 ---
-uid: 2023080322275581
-title: Obsidian 插件：【Readme】Tasks Calendar Wrapper
+uid: 20230803231105
+title: Obsidian 插件：Tasks Calendar Wrapper
 tags: ['obsidian插件', 'readme']
 description: 这是Obsidian-Tasks-Calendar（https://github.com/702573N/Obsidian-Tasks-Calendar）和Obsidian-Tasks-Timeline（https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232420
 ---
 
 # Obsidian 插件：Tasks Calendar Wrapper
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Tasks Calendar Wrapper
 > - 插件作者：zhuwenq
-> - 插件说明：这是Obsidian-Tasks-Calendar（https://github.com/702573N/Obsidian-Tasks-Calendar）和Obsidian-Tasks-Timeline（https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：这是 Obsidian-Tasks-Calendar（<https://github.com/702573N/Obsidian-Tasks-Calendar）和 Obsidian-Tasks-Timeline（https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。>
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tasks-calendar-wrapper)
 
 ## 概述
 
-这是Obsidian-Tasks-Calendar（https://github.com/702573N/Obsidian-Tasks-Calendar）和Obsidian-Tasks-Timeline（https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。
+这是 Obsidian-Tasks-Calendar（<https://github.com/702573N/Obsidian-Tasks-Calendar）和 Obsidian-Tasks-Timeline（https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。>
 
 ![Tasks Calendar Wrapper](https://cdn.pkmer.cn/covers/tasks-calendar-wrapper.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Leonezz/obsidian-tasks-calendar-wrapper/master/README.md)
-> 
+>
 
 ---
 
@@ -37,16 +37,15 @@ modified: 20230101000000
 
 下面是 [[tasks-calendar-wrapper]] 插件的自述翻译
 
-
 # 任务日历包装器
 
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22tasks-calendar-wrapper%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
 
-该插件目前提供了一个时间线视图，用于显示来自您的[Obsidian](https://obsidian.md/)存储库的任务，具有可自定义的过滤器和渲染选项。
+该插件目前提供了一个时间线视图，用于显示来自您的 [Obsidian](https://obsidian.md/) 存储库的任务，具有可自定义的过滤器和渲染选项。
 
 ## 概述
 
-[ExampleValut](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/tree/master/ExampleVault) 提供了一个使用此插件的示例，使用[Blue-Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css)轻主题的屏幕截图如下：
+[ExampleValut](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/tree/master/ExampleVault) 提供了一个使用此插件的示例，使用 [Blue-Topaz](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) 轻主题的屏幕截图如下：
 
 ![](imgs/overview.png)
 
@@ -58,9 +57,9 @@ modified: 20230101000000
 
 关于
 
-这是Obsidian-Tasks-Calendar（https://github.com/702573N/Obsidian-Tasks-Calendar）和Obsidian-Tasks-Timeline（https://github.com/702573N/Obsidian-Tasks-Timeline）的简单包装器。
+这是 Obsidian-Tasks-Calendar（<https://github.com/702573N/Obsidian-Tasks-Calendar）和 Obsidian-Tasks-Timeline（https://github.com/702573N/Obsidian-Tasks-Timeline）的简单包装器。>
 
-该插件为[702573N](https://github.com/702573N)的出色工作提供设置页面和更新支持，有关选项的详细信息，请参阅[Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar)和[Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline)。
+该插件为 [702573N](https://github.com/702573N) 的出色工作提供设置页面和更新支持，有关选项的详细信息，请参阅 [Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) 和 [Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline)。
 
 ## 使用方法
 
@@ -70,19 +69,19 @@ modified: 20230101000000
 
 对于一个项目的日期，如果该项目属于一个日记笔记，那么该日记笔记的日期将被设置为该项目的创建日期。此外，如果没有提供开始日期和计划日期，那么它们也将被设置为日记笔记的日期。
 
-对于一般的日期格式，建议使用[Tasks插件](https://github.com/obsidian-tasks-group/obsidian-tasks)的表情符号格式或[Dataview](https://github.com/blacksmithgu/obsidian-dataview)的格式。这两种格式都在该插件中支持。
+对于一般的日期格式，建议使用 [Tasks插件](https://github.com/obsidian-tasks-group/obsidian-tasks) 的表情符号格式或 [Dataview](https://github.com/blacksmithgu/obsidian-dataview) 的格式。这两种格式都在该插件中支持。
 
-例如，一个以2023-06-03作为开始日期的项目可以是：
+例如，一个以 2023-06-03 作为开始日期的项目可以是：
 
-- [ ] 在2023-06-03开始的任务 🛫 2023-06-03
+- [ ] 在 2023-06-03 开始的任务 🛫 2023-06-03
 
 或者：
 
-- [ ] 在2023-06-03开始的任务 [start::2023-06-03]
+- [ ] 在 2023-06-03 开始的任务 [start::2023-06-03]
 
-或者在日期为2023-06-03的日记笔记中：
+或者在日期为 2023-06-03 的日记笔记中：
 
-- [ ] 在2023-06-03开始的任务
+- [ ] 在 2023-06-03 开始的任务
 
 ## 安装
 
@@ -95,6 +94,7 @@ modified: 20230101000000
 ### 快速输入
 
 快速输入面板提供了四个按钮和一个输入框。
+
 ![](imgs/quick_entry.png)
 
 #### 按钮
@@ -105,7 +105,7 @@ modified: 20230101000000
 
 ![](imgs/newtask.png)
 
-为了使输入更加简单，您可以在面板中输入一些[Tasks-Plugin](https://github.com/obsidian-tasks-group/obsidian-tasks)定义的表情符号格式的日期，例如，您可以输入单词“due”和一个空格，表情符号📅将替换单词“due”。现在可用的单词-表情符号对如下：
+为了使输入更加简单，您可以在面板中输入一些 [Tasks-Plugin](https://github.com/obsidian-tasks-group/obsidian-tasks) 定义的表情符号格式的日期，例如，您可以输入单词“due”和一个空格，表情符号📅将替换单词“due”。现在可用的单词 - 表情符号对如下：
 
 - due: 📅（截止日期）
 - start: 🛫（开始日期）
@@ -117,7 +117,7 @@ modified: 20230101000000
 - low: 🔽（低优先级）
 - lowest: ⏬（最低优先级）
 - repeat: 🔁（重复）
-- recurring: 🔁（与repeat相同）
+- recurring: 🔁（与 repeat 相同）
 
 此外，还支持一些自然语言日期：
 
@@ -135,15 +135,15 @@ modified: 20230101000000
 
 #### 任务项组件
 
-对于特定的任务项，此视图显示项目内容、状态、优先级、日期、文件名和部分（如果存在），以及标签。此外，还有一个带有铅笔图标的按钮，用于调用[任务插件](https://github.com/obsidian-tasks-group/obsidian-tasks)的任务编辑模态框进行编辑。
+对于特定的任务项，此视图显示项目内容、状态、优先级、日期、文件名和部分（如果存在），以及标签。此外，还有一个带有铅笔图标的按钮，用于调用 [任务插件](https://github.com/obsidian-tasks-group/obsidian-tasks) 的任务编辑模态框进行编辑。
 
 状态以图标形式显示，其他元数据以图标和徽章显示。
 
 ![](imgs/item.png)
 
-自v0.2.1起，现在您可以从内置图标切换到主题定义的状态和图标！
+自 v0.2.1 起，现在您可以从内置图标切换到主题定义的状态和图标！
 
-以下是使用主题[AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin)的屏幕截图。
+以下是使用主题 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) 的屏幕截图。
 
 ![](imgs/theme-defined-markers.png)
 
@@ -195,6 +195,3 @@ modified: 20230101000000
 # 许可证
 
 MIT。
-
-
-

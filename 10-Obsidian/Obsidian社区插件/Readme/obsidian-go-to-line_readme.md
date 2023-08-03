@@ -1,13 +1,13 @@
 ---
-uid: 2023080322191720
-title: Obsidian 插件：【Readme】Go to Line
+uid: 20230803231105
+title: Obsidian 插件：Go to Line
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 这个插件提供了一个跳转行命令。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232516
 ---
 
 # Obsidian 插件：Go to Line
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Go to Line
 > - 插件作者：phibr0
 > - 插件说明：这个插件提供了一个跳转行命令。
-> - 插件分类：['导航工具', 'obsidian插件', 'readme']
+> - 插件分类：[' 导航工具 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/phibr0/obsidian-go-to-line)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-go-to-line)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 这个插件提供了一个跳转行命令。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/obsidian-go-to-line/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,12 @@ modified: 20230101000000
 
 下面是 [[obsidian-go-to-line]] 插件的自述翻译
 
-
 # Obsidian Go To Line [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-go-to-line)](https://github.com/phibr0/obsidian-go-to-line/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-go-to-line/total)
 
 > 此插件是根据 Discord 上的 @arvn 的要求创建的。
 
 此插件添加了在 Obsidian 中转到特定行和字符的新命令。
+
 您可以使用命令面板找到命令，或为其设置热键。
 
 默认情况下，单个光标的位置保存为 `行:列`，多个光标保存为 `行:列,行:列,...`。可以在“转到行”设置窗格中自定义分隔符 `:` 和 `,`。
@@ -51,7 +49,7 @@ modified: 20230101000000
 
 #### 1. `转到行`
 
-将出现一个文本字段，您可以输入行号或使用`行：列`的格式，例如`15:27`表示第15行第27个字符。
+将出现一个文本字段，您可以输入行号或使用 `行：列` 的格式，例如 `15:27` 表示第 15 行第 27 个字符。
 
 #### 2. `跳转到剪贴板内容所在的行`
 
@@ -75,8 +73,3 @@ modified: 20230101000000
 ## 支持我
 
 如果你觉得这个插件对你有帮助，请考虑支持我：
-
-
-
-
-

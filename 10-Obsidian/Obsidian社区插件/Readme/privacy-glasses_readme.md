@@ -1,13 +1,13 @@
 ---
-uid: 2023080322250288
-title: Obsidian 插件：【Readme】Privacy Glasses
-tags: ['安全', 'obsidian插件', 'readme']
+uid: 20230803231105
+title: Obsidian 插件：Privacy Glasses
+tags: ['安全', 'obsidian插件', 'readme', 0xorial]
 description: 提供按钮或者快捷键，来让你快速模糊屏幕上的文本，以提高隐私安全。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232431
 ---
 
 # Obsidian 插件：Privacy Glasses
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Privacy Glasses
 > - 插件作者：Jill Alberts
 > - 插件说明：提供按钮或者快捷键，来让你快速模糊屏幕上的文本，以提高隐私安全。
-> - 插件分类：['安全', 'obsidian插件', 'readme']
+> - 插件分类：[' 安全 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/jillalberts/privacy-glasses)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?privacy-glasses)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Privacy Glasses](https://cdn.pkmer.cn/covers/privacy-glasses.GIF!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jillalberts/privacy-glasses/master/README.md)
-> 
+>
 
 ---
 
@@ -37,20 +37,19 @@ modified: 20230101000000
 
 下面是 [[privacy-glasses]] 插件的自述翻译
 
+# 👓 Obsidian 的隐私眼镜插件
 
-# 👓 Obsidian的隐私眼镜插件
-
-Obsidian的"隐私眼镜"插件。在公共场合工作时保护您的隐私！
+Obsidian 的 " 隐私眼镜 " 插件。在公共场合工作时保护您的隐私！
 
 ![](https://raw.githubusercontent.com/jillalberts/privacy-glasses/master/assets/screencast.gif)
 
-https://github.com/jillalberts/privacy-glasses
+<https://github.com/jillalberts/privacy-glasses>
 
 ---
 
-# 注意：
+# 注意
 
-我不再对这个项目非常积极地工作，但是代码是开源的，并且在MIT许可下分发，所以任何想要修复或改进任何内容的人都可以自由地提交拉取请求（甚至是fork这个项目！）。
+我不再对这个项目非常积极地工作，但是代码是开源的，并且在 MIT 许可下分发，所以任何想要修复或改进任何内容的人都可以自由地提交拉取请求（甚至是 fork 这个项目！）。
 
 ### 👀 它是做什么的
 
@@ -58,12 +57,11 @@ https://github.com/jillalberts/privacy-glasses
 
 - 激活其中一个将切换隐私眼镜。
 
-当隐私眼镜处于激活状态时，根据您选择的设置，您文档的文本以及标题将被模糊化。您还可以选择在Obsidian的侧边栏中模糊文本。
+当隐私眼镜处于激活状态时，根据您选择的设置，您文档的文本以及标题将被模糊化。您还可以选择在 Obsidian 的侧边栏中模糊文本。
 
 **❗ 您可以通过将鼠标悬停在其上来临时显示一小部分文本。**
 
 - 这对于在文档中找到您的位置或快速检查拼写错误很有用。
-
 - 要再次模糊化它，只需将鼠标指针移开即可。
 
 在编辑模式下，只要鼠标指针在其他地方，您就可以继续使用键盘输入和导航，而不会显示任何文本。
@@ -75,52 +73,40 @@ https://github.com/jillalberts/privacy-glasses
 ### ❓为什么？
 
 - 你想在公交车/火车上创作你的精彩剧本，而不想坐在你旁边的人窃取你的惊人创意。
-
 - 你在咖啡店写日记，不想让附近桌子上的人读到你最深层的内心想法。
-
 - 你在飞机上起草一份敏感的公司备忘录，不想让你的座位伙伴拍下你正在输入的内容。
-
 - 你是一名作家，只想把文字写在纸上，同时限制自己反复自我编辑的习惯。
 
 ### ❌ 这个插件不做什么
 
 - 这个插件不会加密你的写作内容。
 	- 它只是临时在你当前的 Obsidian 主题上叠加了一个新的 CSS 样式。你的文件保持不变。
-
 - 这个插件不会读取或更改你的存储库中的任何 markdown 文件。
 	- 它只是临时在你当前的 Obsidian 主题上叠加了新的 CSS 样式。它对你文件的内容一无所知。
-
 - 这个插件除了防止他人随意从你的屏幕上读取内容外，不提供任何其他安全保护。
-
 - 这个插件不会出于任何原因连接到互联网。（然而，如果你在设置对话框中点击其中一个链接，Obsidian 将会启动你的浏览器加载网页。）
 
 ### 💪 对于高级用户
 
-- “切换隐私眼镜”命令可以在Obsidian的设置中绑定到键盘快捷键，以便最大程度地方便激活！
-
-- 您可以将此插件与“隐藏器”插件结合使用，隐藏Obsidian的标题栏，使旁观者无法看到您的保险库的名称！
-
+- “切换隐私眼镜”命令可以在 Obsidian 的设置中绑定到键盘快捷键，以便最大程度地方便激活！
+- 您可以将此插件与“隐藏器”插件结合使用，隐藏 Obsidian 的标题栏，使旁观者无法看到您的保险库的名称！
 - 您可以在保持一个非敏感文档可见的同时，处理一个敏感的混淆文档！
 	- 在插件的设置中，选择一个混淆模式用于编辑模式，但对于预览模式选择“[关闭]”。
 	- 激活隐私眼镜（通过👓带状图标或“切换隐私眼镜”命令）
 	- 现在，您可以在不同的窗格中打开您的文档，并将非敏感的文档切换到预览模式。您正在编辑模式中处理的敏感文档将保持混淆，而预览模式中的非敏感文档将保持完全可见。
-	- 如果您需要在多个窗格中工作的帮助，您可以参考Obsidian帮助保险库中的“窗格”部分。
+	- 如果您需要在多个窗格中工作的帮助，您可以参考 Obsidian 帮助保险库中的“窗格”部分。
 
 ### ⚠️ 问题
 
-- 这个插件在各种主题上已经运行得相当好，但是**如果你在没有将鼠标指针悬停在上面的情况下仍然看到未模糊的文本部分，请给我发送电子邮件或在GitHub上提交问题**。
-
-	- 请说明具体哪些部分没有被模糊以及你正在使用的主题、扩展和CSS代码片段。与此同时，你可以尝试使用其他主题作为解决方法。（如果问题在各种主题中持续存在，包括“无”主题，那几乎肯定是由于其他插件或代码片段的干扰引起的；我会有兴趣查看一下。）
-
+- 这个插件在各种主题上已经运行得相当好，但是**如果你在没有将鼠标指针悬停在上面的情况下仍然看到未模糊的文本部分，请给我发送电子邮件或在 GitHub 上提交问题**。
+	- 请说明具体哪些部分没有被模糊以及你正在使用的主题、扩展和 CSS 代码片段。与此同时，你可以尝试使用其他主题作为解决方法。（如果问题在各种主题中持续存在，包括“无”主题，那几乎肯定是由于其他插件或代码片段的干扰引起的；我会有兴趣查看一下。）
 - 请按照下面的“联系作者”部分报告问题。
 
 ### ✍ 联系作者
 
 - 如需报告问题或建议功能：
-
-	- 在GitHub上开启一个问题：https://github.com/jillalberts/privacy-glasses/issues
-
-	- 或发送电子邮件至jillian dot alberts at gmail dot com
+	- 在 GitHub 上开启一个问题：<https://github.com/jillalberts/privacy-glasses/issues>
+	- 或发送电子邮件至 jillian dot alberts at gmail dot com
 
 ### 🕰 发布
 
@@ -175,6 +161,7 @@ https://github.com/jillalberts/privacy-glasses
 - 2021-03-30: 版本 0.1（以“模糊编辑模式”为名的初步发布）。仅支持编辑模式中的模糊文本。调整模糊级别需要手动编辑 CSS 文件。
 
 # 测试用例
+
 - 完全隐私
 	- 左侧面板隐藏，右侧面板隐藏
 	- 鼠标悬停显示正常

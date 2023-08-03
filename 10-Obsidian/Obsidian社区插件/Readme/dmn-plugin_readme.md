@@ -1,13 +1,13 @@
 ---
-uid: 2023080322172487
-title: Obsidian 插件：【Readme】DMN Plugin
+uid: 20230803231105
+title: Obsidian 插件：DMN Plugin
 tags: ['obsidian插件', 'readme']
 description: 该插件可以使用dmn-js查看DMN。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232603
 ---
 
 # Obsidian 插件：DMN Plugin
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：DMN Plugin
 > - 插件作者：joleaf
-> - 插件说明：该插件可以使用dmn-js查看DMN。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：该插件可以使用 dmn-js 查看 DMN。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/joleaf/obsidian-dmn-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dmn-plugin)
 
 ## 概述
 
-该插件可以使用dmn-js查看DMN。
+该插件可以使用 dmn-js 查看 DMN。
 
 ![DMN Plugin](https://cdn.pkmer.cn/covers/dmn-plugin.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joleaf/obsidian-dmn-plugin/main/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +37,13 @@ modified: 20230101000000
 
 下面是 [[dmn-plugin]] 插件的自述翻译
 
+# Obsidian DMN 插件 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/joleaf/obsidian-dmn-plugin)](https://github.com/joleaf/obsidian-dmn-plugin/releases) [![Release Obsidian Plugin](https://github.com/joleaf/obsidian-dmn-plugin/actions/workflows/release.yml/badge.svg)](https://github.com/joleaf/obsidian-dmn-plugin/actions/workflows/release.yml) ![GitHub all releases](https://img.shields.io/github/downloads/joleaf/obsidian-dmn-plugin/total)
 
-# Obsidian DMN插件 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/joleaf/obsidian-dmn-plugin)](https://github.com/joleaf/obsidian-dmn-plugin/releases) [![Release Obsidian Plugin](https://github.com/joleaf/obsidian-dmn-plugin/actions/workflows/release.yml/badge.svg)](https://github.com/joleaf/obsidian-dmn-plugin/actions/workflows/release.yml) ![GitHub all releases](https://img.shields.io/github/downloads/joleaf/obsidian-dmn-plugin/total)
+该插件允许您在 [Obsidian](https://www.obsidian.md) 笔记中交互地查看 DMN。
 
-该插件允许您在[Obsidian](https://www.obsidian.md)笔记中交互地查看DMN。
-该查看器基于[dmn-js](https://github.com/bpmn-io/dmn-js)库。
-如果您想在笔记中评估/执行您的DMN，请查看[DMN Eval插件](https://github.com/joleaf/obsidian-dmn-eval-plugin)。
+该查看器基于 [dmn-js](https://github.com/bpmn-io/dmn-js) 库。
+
+如果您想在笔记中评估/执行您的 DMN，请查看 [DMN Eval插件](https://github.com/joleaf/obsidian-dmn-eval-plugin)。
 
 安装。。
 
@@ -55,13 +56,13 @@ modified: 20230101000000
 
 ### .. 从此存储库手动操作
 
-1. 下载最新的[发布版本](https://github.com/joleaf/obsidian-dmn-plugin/releases)的 `*.zip` 文件。
-2. 将zip文件解压到您的Obsidian保险库的 `.obsidian/plugins` 文件夹中。
+1. 下载最新的 [发布版本](https://github.com/joleaf/obsidian-dmn-plugin/releases) 的 `*.zip` 文件。
+2. 将 zip 文件解压到您的 Obsidian 保险库的 `.obsidian/plugins` 文件夹中。
 
 ## 如何使用
 
-1. 将有效的 `*.dmn` 文件添加到您的保险库中（例如，`my-diagram.dmn`）（例如，使用[Camunda Modeler](https://camunda.com/de/download/modeler/)建模）
-2. 将DMN添加到您的笔记中：
+1. 将有效的 `*.dmn` 文件添加到您的保险库中（例如，`my-diagram.dmn`）（例如，使用 [Camunda Modeler](https://camunda.com/de/download/modeler/) 建模）
+2. 将 DMN 添加到您的笔记中：
 
 ````
 ```dmn
@@ -91,7 +92,7 @@ url: [[my-diagram.dmn]]
 
 ## 如何进行开发
 
-1. 将此存储库克隆到（非生产）Vault的插件文件夹中（`.obsidian/plugins/`）
+1. 将此存储库克隆到（非生产）Vault 的插件文件夹中（`.obsidian/plugins/`）
 2. 运行 `npm i`
 3. 运行 `npm run dev`
 4. 在**Community Plugins**选项卡中启用插件
@@ -99,6 +100,3 @@ url: [[my-diagram.dmn]]
 捐赠
 
 <a href='https://ko-fi.com/joleaf' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='在ko-fi.com给我买杯咖啡' />
-
-
-

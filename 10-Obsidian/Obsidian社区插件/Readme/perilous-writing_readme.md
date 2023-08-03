@@ -1,13 +1,13 @@
 ---
-uid: 2023080322243938
-title: Obsidian 插件：【Readme】Perilous Writing
+uid: 20230803231105
+title: Obsidian 插件：Perilous Writing
 tags: ['obsidian插件', 'readme']
 description: 持续写作，否则将失去所有进展。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232432
 ---
 
 # Obsidian 插件：Perilous Writing
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Perilous Writing
 > - 插件作者：Sameer Ismail
 > - 插件说明：持续写作，否则将失去所有进展。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/sameersismail/obsidian-perilous-writing)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?perilous-writing)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 持续写作，否则将失去所有进展。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sameersismail/obsidian-perilous-writing/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ modified: 20230101000000
 
 下面是 [[perilous-writing]] 插件的自述翻译
 
-
 # 危险的写作
 
-这是一个[Obsidian](https://obsidian.md)插件，它会以威胁你正在进行的工作的方式，要求你输出写作内容。它模拟了[Manu Ebert](https://github.com/maebert)的优秀作品[The Most Dangerous Writing App](https://github.com/maebert/themostdangerouswritingapp)。
+这是一个 [Obsidian](https://obsidian.md) 插件，它会以威胁你正在进行的工作的方式，要求你输出写作内容。它模拟了 [Manu Ebert](https://github.com/maebert) 的优秀作品 [The Most Dangerous Writing App](https://github.com/maebert/themostdangerouswritingapp)。
 
 # 用法
 
@@ -63,7 +60,7 @@ modified: 20230101000000
 
     <img width="774" alt="image" src="https://user-images.githubusercontent.com/38896593/217983938-b4cddfed-2c5a-4a00-b142-bb4800e959ae.png">
 
-5. 只有新字符会重置计时器，退格键不会。在Vim仿真下，正常模式操作也不会重置计时器。
+5. 只有新字符会重置计时器，退格键不会。在 Vim 仿真下，正常模式操作也不会重置计时器。
 
 # 安装
 
@@ -71,7 +68,7 @@ modified: 20230101000000
 
 ## 手册
 
-下载最新版本，并将`main.js`和`manifest.json`文件复制到一个新的插件目录中，如下所示的(4)和(5)。
+下载最新版本，并将 `main.js` 和 `manifest.json` 文件复制到一个新的插件目录中，如下所示的 (4) 和 (5)。
 
 ## 从源格式
 
@@ -89,11 +86,9 @@ modified: 20230101000000
     ```sh
     cp main.js manifest.json $VAULT_SOURCE/.obsidian/obsidian-perilous-writing
     ```
+
 6. 在 Obsidian 的设置选项卡中启用插件。
 
 # 致谢
 
-受到[Manu Ebert](https://github.com/maebert)的[The Most Dangerous Writing App](https://github.com/maebert/themostdangerouswritingapp)的启发。
-
-
-
+受到 [Manu Ebert](https://github.com/maebert) 的 [The Most Dangerous Writing App](https://github.com/maebert/themostdangerouswritingapp) 的启发。

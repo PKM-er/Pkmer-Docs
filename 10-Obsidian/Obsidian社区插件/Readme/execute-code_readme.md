@@ -1,13 +1,13 @@
 ---
-uid: 2023080322175834
-title: Obsidian 插件：【Readme】Execute Code
+uid: 20230803231105
+title: Obsidian 插件：Execute Code
 tags: ['obsidian插件', 'readme']
 description: 允许在笔记中执行代码片段。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232600
 ---
 
 # Obsidian 插件：Execute Code
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Execute Code
 > - 插件作者：twibiral
 > - 插件说明：允许在笔记中执行代码片段。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/twibiral/obsidian-execute-code)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?execute-code)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 允许在笔记中执行代码片段。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/twibiral/obsidian-execute-code/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,14 @@ modified: 20230101000000
 
 下面是 [[execute-code]] 插件的自述翻译
 
-
 # Obsidian 执行代码插件
+
 <div align='right'>
 
-![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?color=8572db&labelColor=1e1e1e&label=下载量&query=$['execute-code'].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json) 
-![GitHub package.json 版本](https://img.shields.io/github/package-json/version/twibiral/obsidian-execute-code?color=8572db&labelColor=1e1e1e&label=当前版本) 
+![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?color=8572db&labelColor=1e1e1e&label=下载量&query=$['execute-code'].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json)
+
+![GitHub package.json 版本](https://img.shields.io/github/package-json/version/twibiral/obsidian-execute-code?color=8572db&labelColor=1e1e1e&label=当前版本)
+
 ![GitHub 发布日期](https://img.shields.io/github/release-date/twibiral/obsidian-execute-code?color=8572db&labelColor=1e1e1e&label=最新发布)
 
 </div>
@@ -53,20 +53,22 @@ modified: 20230101000000
 
 ![展示插件工作原理的视频。](https://github.com/twibiral/obsidian-execute-code/blob/master/images/execute_code_example.gif?raw=true)
 
-支持以下[编程语言](#supported-programming-languages-): C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript, Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell, Scala, Racket, F#, Batch, Shell & Powershell, Octave 和 Maxima。
+支持以下 [编程语言](#supported-programming-languages-): C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript, Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell, Scala, Racket, F#, Batch, Shell & Powershell, Octave 和 Maxima。
 
-Python、Rust 和 Octave 支持嵌入绘图。所有语言都支持["魔术"命令](#magic-commands-)，可帮助您访问 Obsidian 中的路径或在笔记中显示图像。
+Python、Rust 和 Octave 支持嵌入绘图。所有语言都支持 ["魔术"命令](#magic-commands-)，可帮助您访问 Obsidian 中的路径或在笔记中显示图像。
 
-您可以创建在每个相同语言的代码块之前或之后执行的代码块，并定义[全局代码注入](#global-code-injection-and-reusing-code-blocks-)。
+您可以创建在每个相同语言的代码块之前或之后执行的代码块，并定义 [全局代码注入](#global-code-injection-and-reusing-code-blocks-)。
 
-查看[更新日志](CHANGELOG.md)以了解最近版本的更改。
+查看 [更新日志](CHANGELOG.md) 以了解最近版本的更改。
 
 <div align='center'>
 
 [![给我们买杯咖啡](https://img.shields.io/badge/-给我们买杯咖啡-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/timwibiral)
+
 </div>
 
 ## 特色内容
+
 [![由 I Versus AI 制作的视频](https://img.youtube.com/vi/eQz4eAW3ZDk/0.jpg)](https://www.youtube.com/watch?v=eQz4eAW3ZDk)
 
 "I Versus AI 制作的《逃离 ChatGPT。轻松制作自己的代码解释器》"
@@ -76,7 +78,7 @@ Python、Rust 和 Octave 支持嵌入绘图。所有语言都支持["魔术"命�
 <details>
 <summary>JavaScript</summary>
 
-- 要求：已安装Node.js并在设置中设置了正确的路径。
+- 要求：已安装 Node.js 并在设置中设置了正确的路径。
 
 ```javascript
 function hello(name) {
@@ -86,48 +88,51 @@ function hello(name) {
 hello("Bob")
 ```
 
-- 默认情况下，JavaScript在笔记本模式下运行。您可以在设置中关闭此功能。
+- 默认情况下，JavaScript 在笔记本模式下运行。您可以在设置中关闭此功能。
 
 </details>
-	
+
 <details>
 <summary>TypeScript</summary>
 
-- 要求：已安装Node.js，然后在命令行中运行`npm install typescript -g`和`npm install ts-node -g`。（`-g`表示全局安装）
-- 问题：如果您使用全局的node.js安装，但它无法正常工作，请尝试在设置中将`ts-node`路径设置为`npx ts-node`而不是`ts-node`。
+- 要求：已安装 Node.js，然后在命令行中运行 `npm install typescript -g` 和 `npm install ts-node -g`。（`-g` 表示全局安装）
+- 问题：如果您使用全局的 node.js 安装，但它无法正常工作，请尝试在设置中将 `ts-node` 路径设置为 `npx ts-node` 而不是 `ts-node`。
 
 ```ts  
 let message: string = 'Hello, World!';
 console.log(message);  
 ```
+
 </details>
 
 <details>
 <summary>CSharp</summary>
 
-- 要求：安装dotnet core sdk并在命令行中运行`dotnet tool install -g dotnet-script`，然后配置dotnet-script的完整路径。
+- 要求：安装 dotnet core sdk 并在命令行中运行 `dotnet tool install -g dotnet-script`，然后配置 dotnet-script 的完整路径。
 
 ```cs 
 Console.WriteLine("Hello, World!");  
 ```  
+
 </details>
 
 <details>
 <summary>Dart</summary>
 
-- 要求：已安装dart sdk并在设置中设置了正确的路径。
+- 要求：已安装 dart sdk 并在设置中设置了正确的路径。
 
 ```dart
 void main() {
   print("Hello World");
 }
 ```
+
 </details>
 
 <details>
 <summary>Python</summary>
 
-- 要求：已安装Python并在设置中设置了正确的路径。
+- 要求：已安装 Python 并在设置中设置了正确的路径。
 
 ```python
 def hello(name):
@@ -137,8 +142,8 @@ if __name__ == "__main__":
 	hello("Eve")
 ```
 
-- 默认情况下，Python在笔记本模式下运行。您可以在设置中关闭此功能。
-- 默认情况下，使用matplotlib/seaborn绘制的图表会嵌入在笔记中。您可以在设置中关闭此功能。
+- 默认情况下，Python 在笔记本模式下运行。您可以在设置中关闭此功能。
+- 默认情况下，使用 matplotlib/seaborn 绘制的图表会嵌入在笔记中。您可以在设置中关闭此功能。
 
 ```python
 import seaborn as sns
@@ -153,12 +158,13 @@ plt.show()
 ```
 
 ![嵌入图表的示例。](https://github.com/twibiral/obsidian-execute-code/blob/master/images/plotting_example.png?raw=true)
-</details>	
+
+</details>
 
 <details>
 <summary>R</summary>
 
-- 要求：已安装R并在设置中设置了正确的路径。
+- 要求：已安装 R 并在设置中设置了正确的路径。
 
 ```r
 hello <- function(name){
@@ -167,6 +173,7 @@ hello <- function(name){
 
 hello("Bob")
 ```
+
 - 默认情况下，图表可以嵌入在笔记中。您可以在设置中关闭此功能。
 
 ```r
@@ -174,12 +181,13 @@ y = c(12, 15, 28, 17, 18)
 x = 1:length(y)
 plot(x, y, type="l")
 ```
+
 </details>
 
 <details>
 <summary>Java</summary>
 
-- 要求：已安装Java **11或更高版本**并在设置中设置了正确的路径。
+- 要求：已安装 Java **11 或更高版本**并在设置中设置了正确的路径。
 
 ```java
 public class HelloWorld {
@@ -188,22 +196,24 @@ public class HelloWorld {
 	}
 }
 ```
+
 </details>
 
 <details>
 <summary>Lua</summary>
 
-- 要求：安装lua并配置lua路径。
+- 要求：安装 lua 并配置 lua 路径。
 
 ```lua
 print('Hello, World!')
 ```
+
 </details>
 
 <details>
 <summary>Lean</summary>
 
-- 要求：安装lean并配置lean路径。
+- 要求：安装 lean 并配置 lean 路径。
 
 ```lean
 def main : IO Unit :=
@@ -211,12 +221,13 @@ def main : IO Unit :=
 
 #eval main
 ```
+
 </details>
 
 <details>
 <summary>C++</summary>
 
-- 要求：已安装[Cling](https://github.com/root-project/cling)并在设置中设置了正确的路径。
+- 要求：已安装 [Cling](https://github.com/root-project/cling) 并在设置中设置了正确的路径。
 - 代码将逐行执行，无需主函数。
 
 ```cpp
@@ -241,12 +252,13 @@ void main() {
 	std::cout << "Hello, World!" << std::endl;
 }
 ```
+
 </details>
 
 <details>
 <summary>C</summary>
 
-- 要求：已安装[Cling](https://github.com/root-project/cling)并在设置中设置了正确的路径。
+- 要求：已安装 [Cling](https://github.com/root-project/cling) 并在设置中设置了正确的路径。
 - 代码将逐行执行，无需主函数。
 
 ```c
@@ -271,25 +283,26 @@ int main() {
 <details>
 <summary>Shell</summary>
 
-- 要求：在设置中设置首选shell的路径。默认为Bash。（仅适用于Linux和macOS）
+- 要求：在设置中设置首选 shell 的路径。默认为 Bash。（仅适用于 Linux 和 macOS）
 
 ```shell
 echo "Hello World!"
 ls -la
 ```
+
 </details>
 
 <details>
 <summary>Powershell</summary>
 
-- 要求：用于在Windows上执行shell命令。默认为Powershell，但可以在设置中设置为首选shell。
-- 在MacOS上：您可能需要在插件设置中将命令从`powershell`更改为`pwsh`。确保设置正确的路径。
+- 要求：用于在 Windows 上执行 shell 命令。默认为 Powershell，但可以在设置中设置为首选 shell。
+- 在 MacOS 上：您可能需要在插件设置中将命令从 `powershell` 更改为 `pwsh`。确保设置正确的路径。
 
 ```powershell
 echo "Hello World!"
 ```
 
-- 如果您喜欢批处理：在菜单中更改powershell的路径设置
+- 如果您喜欢批处理：在菜单中更改 powershell 的路径设置
 ![如何使用魔术命令的示例。](https://github.com/twibiral/obsidian-execute-code/blob/master/images/batch_settings.png?raw=true)
 </details>
 
@@ -297,23 +310,24 @@ echo "Hello World!"
 <details>
 <summary>Batch</summary>
 
-- **要求**：用于在Windows上执行批处理命令（也称为BAT或CMD）。默认为命令提示符，但可以在设置中设置为首选shell。
+- **要求**：用于在 Windows 上执行批处理命令（也称为 BAT 或 CMD）。默认为命令提示符，但可以在设置中设置为首选 shell。
 - **重要**：<br>
 	百分号在批处理文件中用于表示命令行参数：例如%1，%2，... <br>
 	在批处理文件中，两个百分号被视为单个百分号：例如%%f <br>
-	在执行代码时，如果使用变量，请使用2个百分号。更多信息请参阅[此处](https://stackoverflow.com/questions/14509652/what-is-the-difference-between-and-in-a-cmd-file)<br>
-	
+	在执行代码时，如果使用变量，请使用 2 个百分号。更多信息请参阅 [此处](https://stackoverflow.com/questions/14509652/what-is-the-difference-between-and-in-a-cmd-file)<br>
+
 ```batch
 ECHO Hello World!
 ```
+
 </details>
 
 
 <details>
 <summary>Prolog</summary>
 
-- 要求：无要求，使用[Tau-Prolog](https://github.com/tau-prolog/tau-prolog)工作。
-- 重要提示：在代码块中的"`% query`"行之后添加您的查询，如下所示
+- 要求：无要求，使用 [Tau-Prolog](https://github.com/tau-prolog/tau-prolog) 工作。
+- 重要提示：在代码块中的 "`% query`" 行之后添加您的查询，如下所示
 
 ```prolog
 likes(john, pizza).
@@ -323,12 +337,11 @@ likes(jane, beer).
 % query
 likes(john, X).
 ```
+
 </details>
 
 <details>
 <summary>Groovy</summary>
-
--
 
 ## 魔术命令 🪄
 
@@ -347,6 +360,7 @@ likes(john, X).
 - `@html(HtmlSource)`：在笔记中显示 HTML。
 
 （`@show(...)` 和 `@html(...)` 目前仅支持 JavaScript 和 Python。）
+
 （旧命令 `@note` 和 `@vault` 仍然受支持，但可能在将来被移除。）
 
 使用 Python 的魔术命令示例：
@@ -392,6 +406,7 @@ print("笔记标题：", @title)
 在预览中运行 ⏩
 
 在代码块中的语言名称前添加 `run-`（如下例所示）可以在预览中渲染代码块。
+
 这样可以在预览中执行代码。
 
 `````` 
@@ -405,7 +420,7 @@ if __name__ == "__main__":
 
 ## 代码块参数 🏷
 
-代码块支持以`{key='value', otherkey=['val1', 'val2']}`的形式指定额外的参数。将它们添加到代码块中，如下所示：
+代码块支持以 `{key='value', otherkey=['val1', 'val2']}` 的形式指定额外的参数。将它们添加到代码块中，如下所示：
 
 ``````
 ```python {label='my label'}
@@ -423,7 +438,7 @@ print('my labelled code block')
 
 ### 全局的前置和后置代码块
 
-您可以使用`pre`参数来创建在每个后续代码块之前执行的代码块：
+您可以使用 `pre` 参数来创建在每个后续代码块之前执行的代码块：
 
 ``````
 ```python {pre}
@@ -431,21 +446,21 @@ import pandas as pd
 ```
 ``````
 
-这个代码块会在您在笔记中定义的每个python代码块之前添加，并导入pandas包。
+这个代码块会在您在笔记中定义的每个 python 代码块之前添加，并导入 pandas 包。
 
-`post`代码块的工作方式相同，但是post代码块中的代码会在其他代码块之后执行。
+`post` 代码块的工作方式相同，但是 post 代码块中的代码会在其他代码块之后执行。
 
 前置/后置代码块只适用于在它们下面定义的代码块，并且只适用于相同语言的代码块。
 
-您还可以同时指定前置和后置代码块，方法是使用`{pre, post}`。
+您还可以同时指定前置和后置代码块，方法是使用 `{pre, post}`。
 
-注意，`pre`/`post`参数是特殊的，因为您不需要显式地指定键/值对，但如果您愿意，可以这样做：
+注意，`pre`/`post` 参数是特殊的，因为您不需要显式地指定键/值对，但如果您愿意，可以这样做：
 
-`{pre}`等同于`{export='pre'}`，`{pre, post}`等同于`{export=['pre', 'post']}`。
+`{pre}` 等同于 `{export='pre'}`，`{pre, post}` 等同于 `{export=['pre', 'post']}`。
 
 ### 标记的代码块
 
-您可以使用`label='string'`参数为特定的代码块添加标签，然后在其他代码块中使用`import='string'`或`import=['string1', 'string2', ...]`参数显式导入它们，以便它们不会像预处理/后处理块一样自动导入：
+您可以使用 `label='string'` 参数为特定的代码块添加标签，然后在其他代码块中使用 `import='string'` 或 `import=['string1', 'string2', ...]` 参数显式导入它们，以便它们不会像预处理/后处理块一样自动导入：
 
 `````
 ```python {label='block 1'}
@@ -465,7 +480,7 @@ print('should run block 1 and 2')
 
 ### 忽略代码导出
 
-如果您想要手动忽略代码块中的特定导出，例如预/后/全局导出，您可以使用`ignore`参数来实现，该参数接受`pre`、`post`、`global`、这三者中的任意一个的数组，或者`all`来忽略所有导出：
+如果您想要手动忽略代码块中的特定导出，例如预/后/全局导出，您可以使用 `ignore` 参数来实现，该参数接受 `pre`、`post`、`global`、这三者中的任意一个的数组，或者 `all` 来忽略所有导出：
 
 `````python {ignore='all'}
 print('不应运行任何全局注入或预/后代码块')
@@ -478,7 +493,7 @@ print('不应运行任何预代码块或全局注入')
 
 ### 笔记本模式
 
-一些语言（目前支持JS和Python）支持*笔记本模式*。如果一个语言正在使用笔记本模式（可在设置中配置），那么给定文件中的所有代码块将在同一个环境中执行。
+一些语言（目前支持 JS 和 Python）支持*笔记本模式*。如果一个语言正在使用笔记本模式（可在设置中配置），那么给定文件中的所有代码块将在同一个环境中执行。
 
 在一个代码块中定义的变量、函数等将在其他代码块中可用。代码块按需执行；文件中代码块的顺序不影响它们执行的顺序：
 
@@ -499,11 +514,11 @@ undefined
 3
 ```
 
-要管理笔记本模式的打开运行时，可以使用命令面板中的“打开代码运行时管理”命令。从侧边栏窗口中，您可以停止内核。**注意：强制停止需要在Windows上使用`taskkill`，在Unix上使用`pkill`。99%的系统应该预装了这些工具：如果您的系统没有，请[提交一个问题](https://github.com/twibiral/obsidian-execute-code/issues/new/choose)**。
+要管理笔记本模式的打开运行时，可以使用命令面板中的“打开代码运行时管理”命令。从侧边栏窗口中，您可以停止内核。**注意：强制停止需要在 Windows 上使用 `taskkill`，在 Unix 上使用 `pkill`。99% 的系统应该预装了这些工具：如果您的系统没有，请 [提交一个问题](https://github.com/twibiral/obsidian-execute-code/issues/new/choose)**。
 
 ## 样式设置 🎨
 
-该插件支持使用[Style Settings插件](https://github.com/mgmeyers/obsidian-style-settings)自定义样式。可以自定义代码块输出和错误的颜色。
+该插件支持使用 [Style Settings插件](https://github.com/mgmeyers/obsidian-style-settings) 自定义样式。可以自定义代码块输出和错误的颜色。
 
 ## 安装 💾
 
@@ -511,7 +526,7 @@ undefined
 
 或者
 
-点击[此链接](https://obsidian.md/plugins?search=execute%20code#)，然后点击“在 Obsidian 中打开”。
+点击 [此链接](https://obsidian.md/plugins?search=execute%20code#)，然后点击“在 Obsidian 中打开”。
 
 ## 查找路径设置（例如 JavaScript | Node）
 
@@ -531,16 +546,16 @@ undefined
 
 ## 已知问题 🛠
 
-- 在Linux上，使用Snap/Flatpak/AppImage安装的Obsidian运行在一个隔离的环境中。因此，它们将无法访问您安装的任何程序。如果您使用的是Linux，请确保安装`.deb`版本的Obsidian。如果您的发行版不兼容`.deb`文件，可能会出现问题。
-- 切换主题后缺少`运行`按钮：尝试关闭并重新打开您的笔记，并等待几分钟。似乎obsidian在主题切换后没有调用后处理器。
+- 在 Linux 上，使用 Snap/Flatpak/AppImage 安装的 Obsidian 运行在一个隔离的环境中。因此，它们将无法访问您安装的任何程序。如果您使用的是 Linux，请确保安装 `.deb` 版本的 Obsidian。如果您的发行版不兼容 `.deb` 文件，可能会出现问题。
+- 切换主题后缺少 `运行` 按钮：尝试关闭并重新打开您的笔记，并等待几分钟。似乎 obsidian 在主题切换后没有调用后处理器。
 - 如果文件中包含重复的代码块，则可能不会执行预处理块/后处理块。
-- 在Python中，当笔记本模式打开时，嵌入的绘图可能无法关闭。
+- 在 Python 中，当笔记本模式打开时，嵌入的绘图可能无法关闭。
 
 ## 未来工作 📑
 
-- 类似于Jupyter的笔记本模式
-- 执行失败时的错误警告（例如，当未安装Python时）
-- 测试此插件与dataview的组合是否有效。
+- 类似于 Jupyter 的笔记本模式
+- 执行失败时的错误警告（例如，当未安装 Python 时）
+- 测试此插件与 dataview 的组合是否有效。
 
 ## 贡献 🤝
 
@@ -554,7 +569,4 @@ undefined
   <img alt="List of contributors to this project." src="https://contrib.rocks/image?repo=twibiral/obsidian-execute-code" />
 </a>
 
-<sub>使用[contrib.rocks](https://contrib.rocks)制作。</sub>
-
-
-
+<sub>使用 [contrib.rocks](https://contrib.rocks) 制作。</sub>

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322162684
-title: Obsidian 插件：【Readme】Console Markdown Plugin
+uid: 20230803231105
+title: Obsidian 插件：Console Markdown Plugin
 tags: ['obsidian插件', 'readme']
 description: 渲染控制台命令及其输出。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232607
 ---
 
 # Obsidian 插件：Console Markdown Plugin
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Console Markdown Plugin
 > - 插件作者：Daniel Ellermann
 > - 插件说明：渲染控制台命令及其输出。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/dellermann/obsidian-console)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?console)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 渲染控制台命令及其输出。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dellermann/obsidian-console/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ modified: 20230101000000
 
 下面是 [[console]] 插件的自述翻译
 
+# Obsidian 控制台插件
 
-# Obsidian控制台插件
-
-该插件在Obsidian中呈现控制台命令及其输出。
+该插件在 Obsidian 中呈现控制台命令及其输出。
 
 使用方法
 
@@ -58,6 +55,3 @@ $ ls -l
 版权
 
 版权所有（c）Daniel Ellermann
-
-
-

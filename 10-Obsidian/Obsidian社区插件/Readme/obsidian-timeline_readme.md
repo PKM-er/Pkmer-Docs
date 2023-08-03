@@ -1,13 +1,13 @@
 ---
-uid: 2023080322282154
-title: Obsidian 插件：【Readme】Timeline
+uid: 20230803231105
+title: Obsidian 插件：Timeline
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 用于构建时间轴。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232442
 ---
 
 # Obsidian 插件：Timeline
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Timeline
 > - 插件作者：George Butco
 > - 插件说明：用于构建时间轴。
-> - 插件分类：['界面相关', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/George-debug/obsidian-timeline)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-timeline)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 用于构建时间轴。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/George-debug/obsidian-timeline/master/README.md)
-> 
+>
 
 ---
 
@@ -37,21 +35,21 @@ modified: 20230101000000
 
 下面是 [[obsidian-timeline]] 插件的自述翻译
 
-
 构建令人惊叹的时间线
-我们建议您使用[代码片段](https://github.com/George-debug/obsidian-timeline/tree/master/src/style/snippet)来处理`脚注`和`节点链接`，并与`其他插件`一起使用。
+
+我们建议您使用 [代码片段](https://github.com/George-debug/obsidian-timeline/tree/master/src/style/snippet) 来处理 `脚注` 和 `节点链接`，并与 `其他插件` 一起使用。
 
 ![创建您自己的时间线](https://user-images.githubusercontent.com/57345333/180435506-7d51bec3-0cc8-48b1-9f22-24199c988dbf.gif)
 
 如何使用它
 
-选择`timeline`或`timeline-labeled`标签
+选择 `timeline` 或 `timeline-labeled` 标签
 
-- ### `timeline`标签
+- ### `timeline` 标签
 
-  每行开头需要有`+`符号：
+  每行开头需要有 `+` 符号：
 
-  - 每个事件总共有3个`+`符号：一个表示时间，一个表示标题，一个表示内容
+  - 每个事件总共有 3 个 `+` 符号：一个表示时间，一个表示标题，一个表示内容
   - 如果你觉得写起来更容易，可以用空行将它们分开
   ~~~markdown
   ```timeline
@@ -67,9 +65,8 @@ modified: 20230101000000
   ~~~
 
 
-- ### `timeline-labeled`标签
-
-  - 每个事件都有对应的标签（`date`、`title`和`content`），并且标签位于行首
+- ### `timeline-labeled` 标签
+  - 每个事件都有对应的标签（`date`、`title` 和 `content`），并且标签位于行首
   - 如果你觉得写起来更容易，可以用空行将它们分开
   ~~~markdown
   ```timeline-labeled
@@ -88,25 +85,23 @@ modified: 20230101000000
 
   <br/>
 
-`[]`是可选的！
+`[]` 是可选的！
 
-你可以在代码块的开头使用`[]`来添加预先编写的类或你自己的类到包装器中。 <br />
+你可以在代码块的开头使用 `[]` 来添加预先编写的类或你自己的类到包装器中。 <br />
 
 自定义
 
-使用预先编写的`line`、`body`和`active color`类：
+使用预先编写的 `line`、`body` 和 `active color` 类：
 
 - ### line:
   - line-2
   - line-3
   - line-4
   - line-5
-
 - ### body:
   - body-2
   - body-3
   - body-4
-
 - ### active color:
   - active-color-background-modifier-success
   - active-color-background-modifier-error
@@ -122,19 +117,18 @@ modified: 20230101000000
 
 ![带颜色的时间线](https://user-images.githubusercontent.com/57345333/180477136-256d5cf5-aaf3-41ee-9055-e4e82de35af2.gif)
 
-对于`active color`，我们使用obsidian的css变量作为活动颜色，以便与主题匹配。默认的活动颜色是`background-modifier-success`。
-如果您想使用自己的颜色，请使用附加到`.timeline`类的`--timeline-active-color` css变量
+对于 `active color`，我们使用 obsidian 的 css 变量作为活动颜色，以便与主题匹配。默认的活动颜色是 `background-modifier-success`。
+
+如果您想使用自己的颜色，请使用附加到 `.timeline` 类的 `--timeline-active-color` css 变量
+
 ```css
 .timeline
     --timeline-active-color: #00c137
 ```
 
 ## 特别感谢
+
 - [Welding Torch](https://github.com/Welding-Torch)
 - [Ivan Che](https://github.com/taqyon)
 
 ## 支持
-
-
-
-

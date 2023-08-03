@@ -1,13 +1,13 @@
 ---
-uid: 2023080322232232
-title: Obsidian 插件：【Readme】Obsidian Ghost Publish
+uid: 20230803231105
+title: Obsidian 插件：Obsidian Ghost Publish
 tags: ['obsidian插件', 'readme']
 description: 一键发布到Ghost站点
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232517
 ---
 
 # Obsidian 插件：Obsidian Ghost Publish
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Obsidian Ghost Publish
 > - 插件作者：@jaynguyens
-> - 插件说明：一键发布到Ghost站点
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：一键发布到 Ghost 站点
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/jaynguyens/obsidian-ghost-publish)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-ghost-publish)
 
 ## 概述
 
-一键发布到Ghost站点
-
-
+一键发布到 Ghost 站点
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jaynguyens/obsidian-ghost-publish/master/README.md)
-> 
+>
 
 ---
 
@@ -37,20 +35,19 @@ modified: 20230101000000
 
 下面是 [[obsidian-ghost-publish]] 插件的自述翻译
 
-
 # Obsidian Ghost Publish
 
 使用一键发布功能，将 [Obsidian](https://obsidian.md/) 中的内容发布到 [Ghost](https://ghost.org/) 网站的插件。
 
 ## 如何使用
 
-- 创建一个自定义集成，按照此[链接](https://ghost.org/integrations/custom-integrations/)。您需要一个**管理员 API 密钥**和**API URL**。
+- 创建一个自定义集成，按照此 [链接](https://ghost.org/integrations/custom-integrations/)。您需要一个**管理员 API 密钥**和**API URL**。
 - 安装插件后，启用插件并将 API 密钥和 API URL 添加到设置中。
 - 就这样！您现在可以通过单击侧边栏上的 Ghost 图标或使用命令面板（CMD+P）来发布当前文档。
 
 ## 前言格式
 
-Obsidian Ghost Publish使用前言来指定您希望如何发布您的帖子。
+Obsidian Ghost Publish 使用前言来指定您希望如何发布您的帖子。
 
 目前，格式限于：
 
@@ -67,7 +64,7 @@ feature_image: string（默认值：未定义）
 
 注意：
 
-- `published`允许您指定是立即发布帖子还是起草帖子。
+- `published` 允许您指定是立即发布帖子还是起草帖子。
 
 ### 如何在开发环境中运行
 

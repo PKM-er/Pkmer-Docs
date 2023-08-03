@@ -1,13 +1,13 @@
 ---
-uid: 2023080322194044
-title: Obsidian 插件：【Readme】Hidden Folder
+uid: 20230803231105
+title: Obsidian 插件：Hidden Folder
 tags: ['obsidian插件', 'readme']
 description: 隐藏文件夹
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232554
 ---
 
 # Obsidian 插件：Hidden Folder
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Hidden Folder
 > - 插件作者：ptrsvltns
 > - 插件说明：隐藏文件夹
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ptrsvltns/hidden-folder-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hidden-folder-obsidian)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Hidden Folder](https://cdn.pkmer.cn/covers/hidden-folder-obsidian.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ptrsvltns/hidden-folder-obsidian/main/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +37,7 @@ modified: 20230101000000
 
 下面是 [[hidden-folder-obsidian]] 插件的自述翻译
 
-
-Obsidian中的隐藏文件夹：
+Obsidian 中的隐藏文件夹：
 
 - 正则表达式
 - 用于启用或禁用的缎带图标
@@ -105,6 +104,3 @@ Obsidian中的隐藏文件夹：
   - folder1
   - folder2
 ```
-
-
-

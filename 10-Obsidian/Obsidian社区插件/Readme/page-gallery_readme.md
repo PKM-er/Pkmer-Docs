@@ -1,13 +1,13 @@
 ---
-uid: 2023080322242338
-title: Obsidian 插件：【Readme】Page Gallery
+uid: 20230803231105
+title: Obsidian 插件：Page Gallery
 tags: ['obsidian插件', 'readme']
 description: 根据所选页面内容创建可嵌入的图库。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232433
 ---
 
 # Obsidian 插件：Page Gallery
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Page Gallery
 > - 插件作者：Nathan Clark
 > - 插件说明：根据所选页面内容创建可嵌入的图库。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/tokenshift/obsidian-page-gallery)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?page-gallery)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Page Gallery](https://cdn.pkmer.cn/covers/page-gallery.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tokenshift/obsidian-page-gallery/main/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +37,7 @@ modified: 20230101000000
 
 下面是 [[page-gallery]] 插件的自述翻译
 
-
-# Obsidian页面图库
+# Obsidian 页面图库
 
 根据页面中的图片生成所选页面的图库视图。
 
@@ -46,7 +45,7 @@ modified: 20230101000000
 
 先决条件
 
-依赖于[obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)来列出页面和页面元数据。
+依赖于 [obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) 来列出页面和页面元数据。
 
 ## 用法
 
@@ -58,6 +57,7 @@ orientation: landscape
 columns: 3
 fields: [file.name, Description]
 ```
+
 ![使用 page-gallery 插件的示例](./docs/example.png)
 
 *照片来自 [Unsplash](https://unsplash.com/)*
@@ -95,6 +95,3 @@ pageGallery:
 ```
 
 **注意：** 这将覆盖页面出现在的 *任何* 页面画廊的这些设置。
-
-
-

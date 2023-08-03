@@ -1,13 +1,13 @@
 ---
-uid: 2023080322274443
-title: Obsidian 插件：【Readme】Tabout
+uid: 20230803231105
+title: Obsidian 插件：Tabout
 tags: ['obsidian插件', 'readme']
 description: 轻松地从链接或其他 Markdown 格式字符中“制表符出去”。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232421
 ---
 
 # Obsidian 插件：Tabout
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Tabout
 > - 插件作者：phibr0
 > - 插件说明：轻松地从链接或其他 Markdown 格式字符中“制表符出去”。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/phibr0/obsidian-tabout)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tabout)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 轻松地从链接或其他 Markdown 格式字符中“制表符出去”。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/obsidian-tabout/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[tabout]] 插件的自述翻译
-
 
 # Obsidian Tabout [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-tabout)](https://github.com/phibr0/obsidian-tabout/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-tabout/total)
 
@@ -59,8 +56,3 @@ modified: 20230101000000
 ## 支持我
 
 如果你觉得这个插件对你有帮助，请考虑支持我：
-
-
-
-
-

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322142680
-title: Obsidian 插件：【Readme】Auto Class
+uid: 20230803231105
+title: Obsidian 插件：Auto Class
 tags: ['obsidian插件', 'readme']
 description: 根据笔记路径自动应用CSS类到markdown视图。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232616
 ---
 
 # Obsidian 插件：Auto Class
@@ -15,28 +15,27 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Auto Class
 > - 插件作者：OfficerHalf
-> - 插件说明：根据笔记路径自动应用CSS类到markdown视图。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：根据笔记路径自动应用 CSS 类到 markdown 视图。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/OfficerHalf/obsidian-auto-class)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-class)
 
 ## 概述
 
-根据笔记路径自动应用CSS类到markdown视图。
+根据笔记路径自动应用 CSS 类到 markdown 视图。
 
 ![Auto Class](https://cdn.pkmer.cn/covers/auto-class.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/OfficerHalf/obsidian-auto-class/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[auto-class]] 插件的自述翻译
-
 
 ## 自动分类
 
@@ -46,7 +45,7 @@ modified: 20230101000000
 
 ### 安装
 
-通过使用[BRAT插件](https://github.com/TfTHacker/obsidian42-brat)并使用存储库`OfficerHalf/obsidian-auto-class`，从社区插件注册表中安装名为Auto Class的插件，或者通过将发布文件（`main.js`，`manifest.json`和`styles.css`）复制到您的vault中的`.obsidian/plugins/auto-class`目录中手动安装。
+通过使用 [BRAT插件](https://github.com/TfTHacker/obsidian42-brat) 并使用存储库 `OfficerHalf/obsidian-auto-class`，从社区插件注册表中安装名为 Auto Class 的插件，或者通过将发布文件（`main.js`，`manifest.json` 和 `styles.css`）复制到您的 vault 中的 `.obsidian/plugins/auto-class` 目录中手动安装。
 
 ### 使用
 
@@ -58,7 +57,4 @@ modified: 20230101000000
 
 ### 贡献
 
-请随意提出问题或打开PR。
-
-
-
+请随意提出问题或打开 PR。

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322245699
-title: Obsidian 插件：【Readme】Podcast Note
+uid: 20230803231105
+title: Obsidian 插件：Podcast Note
 tags: ['音频和视频', '模板', 'obsidian插件', 'readme']
 description: Podcast Note可以自动将播客信息添加到您的笔记中。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232431
 ---
 
 # Obsidian 插件：Podcast Note
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Podcast Note
 > - 插件作者：Marc Julian Schwarz
-> - 插件说明：Podcast Note可以自动将播客信息添加到您的笔记中。
-> - 插件分类：['音频和视频', '模板', 'obsidian插件', 'readme']
+> - 插件说明：Podcast Note 可以自动将播客信息添加到您的笔记中。
+> - 插件分类：[' 音频和视频 ', ' 模板 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/marcjulianschwarz/obsidian-podcast-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?podcast-note)
 
 ## 概述
 
-Podcast Note可以自动将播客信息添加到您的笔记中。
+Podcast Note 可以自动将播客信息添加到您的笔记中。
 
 ![Podcast Note](https://cdn.pkmer.cn/covers/podcast-note.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/marcjulianschwarz/obsidian-podcast-note/main/README.md)
-> 
+>
 
 ---
 
@@ -37,25 +37,31 @@ Podcast Note可以自动将播客信息添加到您的笔记中。
 
 下面是 [[podcast-note]] 插件的自述翻译
 
-
 <p align="center">
 <img width="180" src="https://user-images.githubusercontent.com/67844154/159135750-7bfb6623-ba92-4344-9426-8a43ed2de379.png">
 </p>
 播客笔记是一种很好的记录播客内容的方式。通过一个单一的URL，您可以获取播客的标题、图片和描述。使用自定义模板，您可以根据自己的喜好来设置笔记的样式。更多的设置和功能将在下面进一步解释。
 
 如何使用它
+
 您可以通过打开命令面板（cmd + p）并搜索“Podcast Note”命令来添加新的播客笔记：
 
 ### 添加播客笔记
-将打开一个提示框，您可以在其中输入您想要记录笔记的播客的URL。
+
+将打开一个提示框，您可以在其中输入您想要记录笔记的播客的 URL。
+
 当然，您也可以指定一个键盘快捷键来触发该提示框。
 
 从选择中添加播客笔记
+
 此命令仅在编辑模式下可见。
-确保您选择的文本包含指向播客剧集的Markdown链接。运行该命令将为所选文本中的每个URL创建新的播客笔记。它还会自动链接这些笔记。
+
+确保您选择的文本包含指向播客剧集的 Markdown 链接。运行该命令将为所选文本中的每个 URL 创建新的播客笔记。它还会自动链接这些笔记。
 
 ### 支持的播客服务
+
 目前支持以下播客服务：
+
 - Apple Podcast
 - Spotify Podcast
 - Google Podcast
@@ -69,23 +75,26 @@ Podcast Note可以自动将播客信息添加到您的笔记中。
 
 ## 演示
 
-### 示例播客笔记：
+### 示例播客笔记
 
 ![播客笔记示例](https://user-images.githubusercontent.com/67844154/131222181-e9a52afa-fee2-4eff-83e1-f03deb633df3.png)
 
 ## 设置
 
 ### 1. 模板
+
 在这里，您可以指定您的播客笔记的元数据的外观。
+
 使用以下三个占位符：
-- `{{Title}}`       -> 播客的标题
-- `{{ImageURL}}`    -> 播客的图片URL
+
+- `{{Title}}` -> 播客的标题
+- `{{ImageURL}}` -> 播客的图片 URL
 - `{{Description}}` -> 简短的播客描述
-- `{{ShowNotes}}`   -> 播客节目笔记（仅适用于PocketCasts和Castro）
-- `{{EpisodeDate}}` -> 播客发布日期（仅适用于PocketCasts）
-- `{{PodcastURL}}`  -> 播客的URL
-- `{{Date}}`        -> 日期（格式：日-月-年）
-- `{{Timestamp}}`   -> 当前时间戳
+- `{{ShowNotes}}` -> 播客节目笔记（仅适用于 PocketCasts 和 Castro）
+- `{{EpisodeDate}}` -> 播客发布日期（仅适用于 PocketCasts）
+- `{{PodcastURL}}` -> 播客的 URL
+- `{{Date}}` -> 日期（格式：日 - 月 - 年）
+- `{{Timestamp}}` -> 当前时间戳
 
 ---
 tags: [播客]
@@ -93,13 +102,16 @@ date: {{日期}}
 ---
 
 # {{标题}}
+
 ![]({{图片URL}})
 
-## 描述：
+## 描述
+
 > {{描述}}
 -> [播客链接]({{播客链接}})
 
-## 注意事项：
+## 注意事项
+
 ```
 **将创建此笔记：**
 <br><br>

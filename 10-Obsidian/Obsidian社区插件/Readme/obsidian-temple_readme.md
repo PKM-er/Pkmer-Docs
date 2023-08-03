@@ -1,13 +1,13 @@
 ---
-uid: 2023080322275918
-title: Obsidian 插件：【Readme】Temple
+uid: 20230803231105
+title: Obsidian 插件：Temple
 tags: ['模板', 'obsidian插件', 'readme']
 description: Obsidian插件，由Nunjucks驱动的模板。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232446
 ---
 
 # Obsidian 插件：Temple
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Temple
 > - 插件作者：garyng
-> - 插件说明：Obsidian插件，由Nunjucks驱动的模板。
-> - 插件分类：['模板', 'obsidian插件', 'readme']
+> - 插件说明：Obsidian 插件，由 Nunjucks 驱动的模板。
+> - 插件分类：[' 模板 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/garyng/obsidian-temple)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-temple)
 
 ## 概述
 
-Obsidian插件，由Nunjucks驱动的模板。
+Obsidian 插件，由 Nunjucks 驱动的模板。
 
 ![Temple](https://cdn.pkmer.cn/covers/obsidian-temple.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/garyng/obsidian-temple/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +37,11 @@ Obsidian插件，由Nunjucks驱动的模板。
 
 下面是 [[obsidian-temple]] 插件的自述翻译
 
-
 # 黑曜石神殿
 
 ![GitHub标签（按日期最新）](https://img.shields.io/github/v/tag/garyng/obsidian-temple?label=release&style=for-the-badge)
 
-一个基于[Nunjucks](https://mozilla.github.io/nunjucks/)的Obsidian模板插件。
+一个基于 [Nunjucks](https://mozilla.github.io/nunjucks/) 的 Obsidian 模板插件。
 
 ## 配置
 
@@ -66,9 +65,9 @@ Obsidian插件，由Nunjucks驱动的模板。
 
 ## 模板化
 
-由于`obsidian-temple`在底层使用了`nunjucks`，您可以使用`nunjucks`支持的所有功能。请查阅[官方Nunjucks文档](https://mozilla.github.io/nunjucks/templating.html)以了解如何编写`nunjucks`模板。
+由于 `obsidian-temple` 在底层使用了 `nunjucks`，您可以使用 `nunjucks` 支持的所有功能。请查阅 [官方Nunjucks文档](https://mozilla.github.io/nunjucks/templating.html) 以了解如何编写 `nunjucks` 模板。
 
-### 示例：根据文件名填充`aliases`与Zettelkasten ID
+### 示例：根据文件名填充 `aliases` 与 Zettelkasten ID
 
 ```njk
 ---
@@ -78,7 +77,7 @@ tags: []
 ---
 ```
 
-如果文件名为`20201224030406 title.md`，那么模板的输出将是：
+如果文件名为 `20201224030406 title.md`，那么模板的输出将是：
 
 ```
 ---
@@ -88,13 +87,14 @@ tags: []
 ---
 ```
 
-如果文件名中将`uid`作为后缀，例如：`title 20201224030406.md`，也同样适用。
+如果文件名中将 `uid` 作为后缀，例如：`title 20201224030406.md`，也同样适用。
 
-`zettel`只是由`obsidian-temple`提供的对象之一，更多信息请参见[Providers](#providers)。
+`zettel` 只是由 `obsidian-temple` 提供的对象之一，更多信息请参见 [Providers](#providers)。
 
 ## 提供者
 
 `obsidian-temple` 目前包含了几个可以为 `nunjucks` 提供 [`context` 对象](https://mozilla.github.io/nunjucks/api.html#renderstring) 的提供者：
+
 - `file`
 - `zettel`
 - `datetime`
@@ -124,7 +124,7 @@ tags: []
 
 # 供应商文档
 
-最好在Obsidian内查看此文档，可以通过激活命令面板 > 然后选择“Obsidian Temple: 插入所有供应商文档”来生成。
+最好在 Obsidian 内查看此文档，可以通过激活命令面板 > 然后选择“Obsidian Temple: 插入所有供应商文档”来生成。
 
 # `file`
 
@@ -150,7 +150,7 @@ tags: []
 
 # `datetime`
 
-返回当前日期和时间作为Luxon [`DateTime`](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/e5e63b56d6bb52a95cc5e7cfadc5d1bec3023f14/types/luxon/index.d.ts#L151)。
+返回当前日期和时间作为 Luxon [`DateTime`](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/e5e63b56d6bb52a95cc5e7cfadc5d1bec3023f14/types/luxon/index.d.ts#L151)。
 
 ## 使用
 
@@ -180,9 +180,9 @@ tags: []
 秒钟：36
 ```
 
-## 使用`dateFormat`过滤器进行格式化
+## 使用 `dateFormat` 过滤器进行格式化
 
-`dateFormat`使用[Luxon](https://moment.github.io/luxon/index.html)来进行日期格式化。例如：
+`dateFormat` 使用 [Luxon](https://moment.github.io/luxon/index.html) 来进行日期格式化。例如：
 
 ``` 
 now: {{ datetime.now | dateFormat("ffff") }}
@@ -194,7 +194,7 @@ now: {{ datetime.now | dateFormat("ffff") }}
 now: Sunday, January 3, 2021, 10:21 PM Singapore Standard Time
 ```
 
-请参阅[Luxon的文档](https://moment.github.io/luxon/docs/manual/formatting.html#table-of-tokens)以获取可用的完整格式化标记列表。
+请参阅 [Luxon的文档](https://moment.github.io/luxon/docs/manual/formatting.html#table-of-tokens) 以获取可用的完整格式化标记列表。
 
 # 设置
 
@@ -204,11 +204,11 @@ now: Sunday, January 3, 2021, 10:21 PM Singapore Standard Time
 
 # `zettel`
 
-从具有Zettelkasten ID的笔记中提取uid和标题。
+从具有 Zettelkasten ID 的笔记中提取 uid 和标题。
 
 ## 用法
 
-给定一个名为`20201224030406 title.md`的文件，以下模板
+给定一个名为 `20201224030406 title.md` 的文件，以下模板
 
 ```
 uid: {{ zettel.uid }}
@@ -222,13 +222,14 @@ uid: 20201224030406
 title: title.md
 ```
 
-即使`uid`被用作后缀，例如`title 20201224030406.md`，也可以正常工作。
+即使 `uid` 被用作后缀，例如 `title 20201224030406.md`，也可以正常工作。
 
 ## 设置
 
 您可以在设置中覆盖提取正则表达式。
 
 # `clipboard`
+
 从系统剪贴板中提取数据。使用 [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy)。
 
 ## 用法
@@ -242,6 +243,3 @@ title: title.md
 ```
 文本: 内容
 ```
-
-
-

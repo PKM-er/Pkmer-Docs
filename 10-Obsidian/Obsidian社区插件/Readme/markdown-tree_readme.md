@@ -1,13 +1,13 @@
 ---
-uid: 2023080322220643
-title: Obsidian 插件：【Readme】Markdown Tree
+uid: 20230803231105
+title: Obsidian 插件：Markdown Tree
 tags: ['obsidian插件', 'readme']
 description: 使用基于Markdown的代码风格，使用制表符、空格和换行符创建一个美观且直观的目录树。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232545
 ---
 
 # Obsidian 插件：Markdown Tree
@@ -15,28 +15,25 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Markdown Tree
 > - 插件作者：carvah
-> - 插件说明：使用基于Markdown的代码风格，使用制表符、空格和换行符创建一个美观且直观的目录树。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：使用基于 Markdown 的代码风格，使用制表符、空格和换行符创建一个美观且直观的目录树。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/carvah/markdown-tree-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-tree)
 
 ## 概述
 
-使用基于Markdown的代码风格，使用制表符、空格和换行符创建一个美观且直观的目录树。
-
-
+使用基于 Markdown 的代码风格，使用制表符、空格和换行符创建一个美观且直观的目录树。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/carvah/markdown-tree-plugin/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[markdown-tree]] 插件的自述翻译
-
 
 # Markdown Tree 插件
 
@@ -84,7 +81,4 @@ root
                 └── file3.pdf
 ```
 
-感谢https://gitlab.com/nfriend制作了最常用的目录插件，可以在https://tree.nathanfriend.io/上在线使用。
-
-
-
+感谢<https://gitlab.com/nfriend 制作了最常用的目录插件，可以在 https://tree.nathanfriend.io/上在线使用。>

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322151380
-title: Obsidian 插件：【Readme】Blur
+uid: 20230803231105
+title: Obsidian 插件：Blur
 tags: ['obsidian插件', 'readme']
 description: 创建混淆的文本块。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232614
 ---
 
 # Obsidian 插件：Blur
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Blur
 > - 插件作者：@gapmiss
 > - 插件说明：创建混淆的文本块。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/gapmiss/blur)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?blur)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Blur](https://cdn.pkmer.cn/covers/blur.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/gapmiss/blur/master/README.md)
-> 
+>
 
 ---
 
@@ -37,17 +37,16 @@ modified: 20230101000000
 
 下面是 [[blur]] 插件的自述翻译
 
-
 # 模糊
 
-轻量级的[Obsidian.md](https://obsidian.md/)插件，用于创建模糊的文本块。
+轻量级的 [Obsidian.md](https://obsidian.md/) 插件，用于创建模糊的文本块。
 
-2种模式：
+2 种模式：
 
 1. `inline`（内联）
 2. `block`（代码块）
 
-3种方法：
+3 种方法：
 
 1. **blur**（模糊）- 用于模糊化
 2. **brick**（砖块）- 用于删除
@@ -109,16 +108,16 @@ modified: 20230101000000
 
 ## 插件安装
 
-从Obsidian的设置或首选项中：
+从 Obsidian 的设置或首选项中：
 
 1. ~~社区插件 > 浏览~~
 2. ~~搜索 "iconoir"~~
 
 或者：
 
-1. 下载最新的[发布存档](https://github.com/gapmiss/blur/releases/download/1.0.0/blur.zip)
+1. 下载最新的 [发布存档](https://github.com/gapmiss/blur/releases/download/1.0.0/blur.zip)
 2. 解压下载的存档
-3. 将 `blur` 文件夹移动到 `/path/to/vault/.obsidian/plugins/` 
+3. 将 `blur` 文件夹移动到 `/path/to/vault/.obsidian/plugins/`
 4. 设置 > 社区插件 > 重新加载 **已安装的插件**
 5. 启用插件
 
@@ -126,11 +125,11 @@ modified: 20230101000000
 
 1. 下载 `main.js`、`manifest.json` 和 `styles.css`
 2. 创建一个新的文件夹 `/path/to/vault/.obsidian/plugins/blur`
-3. 将所有3个文件移动到 `/path/to/vault/.obsidian/plugins/blur`
+3. 将所有 3 个文件移动到 `/path/to/vault/.obsidian/plugins/blur`
 4. 设置 > 社区插件 > 重新加载 **已安装的插件**
 5. 启用插件
 
-自定义`CSS`样式可以通过[obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings)插件应用。
+自定义 `CSS` 样式可以通过 [obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) 插件应用。
 
 ### 视频演示
 
@@ -143,24 +142,24 @@ modified: 20230101000000
 2. **砖块** - `行高`, `背景颜色`, `边框半径`
 3. **骨骼** - `行高`, `背景颜色`, `边框半径`
 和
-4. **编辑器** - `切换`以在鼠标悬停时显示混淆的文本
+4. **编辑器** - `切换` 以在鼠标悬停时显示混淆的文本
 
 ![插件样式设置的截图](assets/style-settings.png)
 
-##### 用于设置样式的`CSS`片段
+##### 用于设置样式的 `CSS` 片段
 
-以下需要使用[obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings)插件。
+以下需要使用 [obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) 插件。
 
-1. 创建一个名为`obsidian-blur-plugin.css`的片段文件，内容如下
+1. 创建一个名为 `obsidian-blur-plugin.css` 的片段文件，内容如下
 
 或者
 
-1. 下载[obsidian-blur-plugin.css](assets/obsidian-blur-plugin.css)
+1. 下载 [obsidian-blur-plugin.css](assets/obsidian-blur-plugin.css)
 
 然后
 
-2. 将文件保存到`/path/to/vault/.obsidian/snippets`
-3. 在*设置 > 外观 > CSS片段*下启用片段
+1. 将文件保存到 `/path/to/vault/.obsidian/snippets`
+2. 在*设置 > 外观 > CSS 片段*下启用片段
 
 ```yaml
 /* @settings

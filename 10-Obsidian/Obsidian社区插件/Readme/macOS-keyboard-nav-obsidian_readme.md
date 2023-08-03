@@ -1,13 +1,13 @@
 ---
-uid: 2023080322215158
-title: Obsidian 插件：【Readme】macOS Keyboard Navigation
+uid: 20230803231105
+title: Obsidian 插件：macOS Keyboard Navigation
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 这个插件恢复 macOS 默认键盘导航效果，特别是alt+和alt+，和alt+shift+和alt+shift+
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232546
 ---
 
 # Obsidian 插件：macOS Keyboard Navigation
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：macOS Keyboard Navigation
 > - 插件作者：ryanjamurphy
-> - 插件说明：这个插件恢复 macOS 默认键盘导航效果，特别是alt+和alt+，和alt+shift+和alt+shift+
-> - 插件分类：['快捷键', 'obsidian插件', 'readme']
+> - 插件说明：这个插件恢复 macOS 默认键盘导航效果，特别是 alt+ 和 alt+，和 alt+shift+ 和 alt+shift+
+> - 插件分类：[' 快捷键 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ryanjamurphy/macOS-keyboard-nav-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?macOS-keyboard-nav-obsidian)
 
 ## 概述
 
-这个插件恢复 macOS 默认键盘导航效果，特别是alt+和alt+，和alt+shift+和alt+shift+
+这个插件恢复 macOS 默认键盘导航效果，特别是 alt+ 和 alt+，和 alt+shift+ 和 alt+shift+
 
 ![macOS Keyboard Navigation](https://cdn.pkmer.cn/covers/macOS-keyboard-nav-obsidian.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/macOS-keyboard-nav-obsidian/master/README.md)
-> 
+>
 
 ---
 
@@ -37,9 +37,9 @@ modified: 20230101000000
 
 下面是 [[macOS-keyboard-nav-obsidian]] 插件的自述翻译
 
+## macOS 键盘导航
 
-## macOS键盘导航
-该插件恢复了在Obsidian中使用默认的macOS键盘导航方式，具体包括<kbd>alt</kbd>+<kbd>↑</kbd>、<kbd>alt</kbd>+<kbd>↓</kbd>，以及<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>↑</kbd>、<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>↓</kbd>。
+该插件恢复了在 Obsidian 中使用默认的 macOS 键盘导航方式，具体包括<kbd>alt</kbd>+<kbd>↑</kbd>、<kbd>alt</kbd>+<kbd>↓</kbd>，以及<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>↑</kbd>、<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>↓</kbd>。
 
 ![快速演示](https://i.imgur.com/x2V6Kvw.gif)
 

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322214030
-title: Obsidian 插件：【Readme】Literate Haskell
+uid: 20230803231105
+title: Obsidian 插件：Literate Haskell
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，用于将`.lhs`文件集成到您的PKM中。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232547
 ---
 
 # Obsidian 插件：Literate Haskell
@@ -15,28 +15,25 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Literate Haskell
 > - 插件作者：James Jensen
-> - 插件说明：一个黑曜石插件，用于将`.lhs`文件集成到您的PKM中。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：一个黑曜石插件，用于将 `.lhs` 文件集成到您的 PKM 中。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/jajaperson/obsidian-literate-haskell)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?literate-haskell)
 
 ## 概述
 
-一个黑曜石插件，用于将`.lhs`文件集成到您的PKM中。
-
-
+一个黑曜石插件，用于将 `.lhs` 文件集成到您的 PKM 中。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jajaperson/obsidian-literate-haskell/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[literate-haskell]] 插件的自述翻译
-
 
 # Obsidian Literate Haskell 插件
 

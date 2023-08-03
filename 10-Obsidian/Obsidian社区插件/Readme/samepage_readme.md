@@ -1,13 +1,13 @@
 ---
-uid: 2023080322261998
-title: Obsidian 插件：【Readme】SamePage
+uid: 20230803231105
+title: Obsidian 插件：SamePage
 tags: ['obsidian插件', 'readme']
 description: 将官方黑曜石客户端整合到思想工具协议中。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232426
 ---
 
 # Obsidian 插件：SamePage
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：SamePage
 > - 插件作者：SamePage
 > - 插件说明：将官方黑曜石客户端整合到思想工具协议中。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/samepage-network/obsidian-samepage)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?samepage)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 将官方黑曜石客户端整合到思想工具协议中。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/samepage-network/obsidian-samepage/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[samepage]] 插件的自述翻译
-
 
 # SamePage
 
@@ -53,6 +50,3 @@ modified: 20230101000000
 ## 警告
 
 SamePage 扩展系列仍处于**测试版**阶段，尚不稳定，不适用于真实或敏感数据。在 SamePage 上共享的所有数据都被视为公开的，数据丢失的可能性很高。
-
-
-

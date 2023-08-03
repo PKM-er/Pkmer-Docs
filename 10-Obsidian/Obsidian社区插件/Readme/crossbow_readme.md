@@ -1,13 +1,13 @@
 ---
-uid: 2023080322164348
-title: Obsidian 插件：【Readme】Crossbow
+uid: 20230803231105
+title: Obsidian 插件：Crossbow
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中查找反向链接
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232606
 ---
 
 # Obsidian 插件：Crossbow
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Crossbow
 > - 插件作者：shoedler
 > - 插件说明：在您的笔记中查找反向链接
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/shoedler/crossbow)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?crossbow)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Crossbow](https://cdn.pkmer.cn/covers/crossbow.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/shoedler/crossbow/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +37,11 @@ modified: 20230101000000
 
 下面是 [[crossbow]] 插件的自述翻译
 
-
 # 🏹 十字弓
 
 ![image](https://user-images.githubusercontent.com/38029550/229279990-f10723bc-380e-4e29-b4f2-47f9b8a5beb9.png)
 
-Crossbow是[Obsidian](https://obsidian.md)的一个插件。
+Crossbow 是 [Obsidian](https://obsidian.md) 的一个插件。
 
 通过这个插件，可以为标题、标签和文件提供方便的链接建议，帮助您轻松地编织一个相互连接的笔记网络，提升您的笔记图谱的能力。
 
@@ -53,6 +52,7 @@ Crossbow是[Obsidian](https://obsidian.md)的一个插件。
 应用建议
 
 在侧边栏中点击建议会显示当前笔记中该单词的出现列表。
+
 点击其中一个出现的位置将滚动到该位置，并显示一个匹配的缓存项列表，您可以链接到这些匹配项。这些匹配项是根据匹配的质量进行排名的。
 
 您可以通过点击匹配项旁边的适当图标来应用匹配项：
@@ -63,7 +63,7 @@ Crossbow是[Obsidian](https://obsidian.md)的一个插件。
 
 ![image](https://user-images.githubusercontent.com/38029550/229280048-fe7a8e31-8cbf-4090-a7f0-4bf0b83814d7.png)
 
-> 在Obsidian中，链接中的管道符（`|`）表示链接的“显示文本”。这意味着管道符后面的文本将显示为链接的文本，而不是链接本身。
+> 在 Obsidian 中，链接中的管道符（`|`）表示链接的“显示文本”。这意味着管道符后面的文本将显示为链接的文本，而不是链接本身。
 
 ### 暂时禁用建议
 
@@ -85,14 +85,16 @@ mindmap
       标签
 ```
 
-Crossbow利用Obsidian的内部缓存，不会手动解析您的存储库。
-为了在当前笔记中找到匹配项，它会将活动编辑器的内容剥离任何Markdown语法，然后在剥离后的内容中搜索建议。
+Crossbow 利用 Obsidian 的内部缓存，不会手动解析您的存储库。
+
+为了在当前笔记中找到匹配项，它会将活动编辑器的内容剥离任何 Markdown 语法，然后在剥离后的内容中搜索建议。
 
 关于匹配建议的说明
 
-Crossbow在创建建议时具有自己的观点，但也可以进行配置。从1.1.1版本开始，过滤的过程如下：
+Crossbow 在创建建议时具有自己的观点，但也可以进行配置。从 1.1.1 版本开始，过滤的过程如下：
 
 首先，它收集活动编辑器（当前笔记）中的所有单词和存储库中的所有缓存项（通过它们的缓存键进行标识）。
+
 然后，它按照每个单词和缓存键的简单过程创建建议：
 
 ```mermaid
@@ -160,7 +162,7 @@ graph TD
     Q_WORD_IGNOR --> STOP
 ```
 
-请记住，这些步骤是按顺序处理的。例如，看一下第9步中的长度过滤器。此时，单词和缓存键已经是彼此的子字符串（第5步），这意味着此步骤会添加类似"donut"和"donut hole punching machine manual"的内容。而不是一般差异很大的内容，这会产生很多误报。
+请记住，这些步骤是按顺序处理的。例如，看一下第 9 步中的长度过滤器。此时，单词和缓存键已经是彼此的子字符串（第 5 步），这意味着此步骤会添加类似 "donut" 和 "donut hole punching machine manual" 的内容。而不是一般差异很大的内容，这会产生很多误报。
 
 ## 手动安装方法
 

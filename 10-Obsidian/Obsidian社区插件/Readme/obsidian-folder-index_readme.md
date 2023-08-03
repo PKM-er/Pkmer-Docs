@@ -1,13 +1,13 @@
 ---
-uid: 2023080322184027
-title: Obsidian 插件：【Readme】Folder Index
+uid: 20230803231105
+title: Obsidian 插件：Folder Index
 tags: ['obsidian插件', 'readme']
 description: 文件夹的自动MOC
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232518
 ---
 
 # Obsidian 插件：Folder Index
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Folder Index
 > - 插件作者：turulix
-> - 插件说明：文件夹的自动MOC
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：文件夹的自动 MOC
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/turulix/obsidian-folder-index)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-folder-index)
 
 ## 概述
 
-文件夹的自动MOC
-
-
+文件夹的自动 MOC
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/turulix/obsidian-folder-index/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,14 @@ modified: 20230101000000
 
 下面是 [[obsidian-folder-index]] 插件的自述翻译
 
-
-# Obsidian文件夹索引
+# Obsidian 文件夹索引
 
 ![最新版本](https://img.shields.io/github/v/release/turulix/obsidian-folder-index?sort=semver)
+
 ![GitHub下载量](https://img.shields.io/github/downloads/turulix/obsidian-folder-index/total)
+
 ![构建状态](https://img.shields.io/github/actions/workflow/status/turulix/obsidian-folder-index/release.yml)
+
 ![GitHub星标数](https://img.shields.io/github/stars/turulix/obsidian-folder-index?style=social)
 
 ## 特点
@@ -53,7 +53,7 @@ modified: 20230101000000
 - 文件按字母顺序排序
 - 标题按字母顺序排序
 - 重写的图形视图以显示文件夹结构，并相应地链接它们
-- 支持[文件树替代插件](https://github.com/ozntel/file-tree-alternative)（我强烈推荐使用此插件）
+- 支持 [文件树替代插件](https://github.com/ozntel/file-tree-alternative)（我强烈推荐使用此插件）
 
 如何使用
 
@@ -65,7 +65,7 @@ modified: 20230101000000
 
 #### 手动索引
 
-您还可以直接使用``folder-index-content``块处理器，如下所示：
+您还可以直接使用 ``folder-index-content`` 块处理器，如下所示：
 
 ````
 ```folder-index-content
@@ -82,16 +82,15 @@ modified: 20230101000000
 
 ### 手动安装
 
-1. 前往[Releases](https://github.com/turulix/obsidian-folder-index/releases)下载最新版本的ZIP文件。
-2. 将该ZIP文件解压到Obsidian插件文件夹中。如果您不知道该文件夹的位置，可以在Obsidian中进入`Community Plugins`。在`Installed Plugins`右侧有一个文件夹图标。点击它，它会打开您的插件文件夹。
-3. 将ZIP文件的内容解压到该文件夹中。
-4. 现在，您应该在插件文件夹中有一个名为'obsidian-folder-index'的文件夹，其中包含一个`main.js`文件、一个`manifest.json`文件和一个`styles.css`文件。
+1. 前往 [Releases](https://github.com/turulix/obsidian-folder-index/releases) 下载最新版本的 ZIP 文件。
+2. 将该 ZIP 文件解压到 Obsidian 插件文件夹中。如果您不知道该文件夹的位置，可以在 Obsidian 中进入 `Community Plugins`。在 `Installed Plugins` 右侧有一个文件夹图标。点击它，它会打开您的插件文件夹。
+3. 将 ZIP 文件的内容解压到该文件夹中。
+4. 现在，您应该在插件文件夹中有一个名为 'obsidian-folder-index' 的文件夹，其中包含一个 `main.js` 文件、一个 `manifest.json` 文件和一个 `styles.css` 文件。
 
 ### 捐赠
 
 如果你喜欢这个插件并想要支持我，考虑给我买杯咖啡吧 :D
+
 在开发过程中已经花了太多钱买咖啡了 :P
+
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/turulix)
-
-
-

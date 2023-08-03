@@ -1,13 +1,13 @@
 ---
-uid: 2023080322223339
-title: Obsidian 插件：【Readme】Micro.publish
+uid: 20230803231105
+title: Obsidian 插件：Micro.publish
 tags: ['obsidian插件', 'readme']
 description: 发布笔记到Micro.blog。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232543
 ---
 
 # Obsidian 插件：Micro.publish
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Micro.publish
 > - 插件作者：Otavio Cordeiro
-> - 插件说明：发布笔记到Micro.blog。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：发布笔记到 Micro.blog。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/otaviocc/obsidian-microblog)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?microblog-publish-plugin)
 
 ## 概述
 
-发布笔记到Micro.blog。
+发布笔记到 Micro.blog。
 
 ![Micro.publish](https://cdn.pkmer.cn/covers/microblog-publish-plugin.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/otaviocc/obsidian-microblog/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,9 @@ modified: 20230101000000
 
 下面是 [[microblog-publish-plugin]] 插件的自述翻译
 
-
 # Micro.publish
 
-Micro.publish是一个由社区维护的插件，用于将Obsidian的笔记发布到Micro.blog博客。
+Micro.publish 是一个由社区维护的插件，用于将 Obsidian 的笔记发布到 Micro.blog 博客。
 
 这个插件是否改善了你的工作流程？请用一杯咖啡表示感谢。
 
@@ -54,17 +53,17 @@ Micro.publish是一个由社区维护的插件，用于将Obsidian的笔记发�
 
 ### 首选项
 
-从首选项窗口中，可以使用应用令牌登录到Micro.blog，该令牌可以在[此处](https://micro.blog/account/apps)生成。
+从首选项窗口中，可以使用应用令牌登录到 Micro.blog，该令牌可以在 [此处](https://micro.blog/account/apps) 生成。
 
 ![](images/01-preferences.png)
 
-登录后，插件允许设置标签、帖子可见性和默认博客（如果用户有多个托管博客）的默认值。在发布到Micro.blog时，将使用这些默认值。
+登录后，插件允许设置标签、帖子可见性和默认博客（如果用户有多个托管博客）的默认值。在发布到 Micro.blog 时，将使用这些默认值。
 
 ![](images/02-preferences.png)
 
 ### 命令
 
-通过Obsidian的命令面板触发Micro.publish。
+通过 Obsidian 的命令面板触发 Micro.publish。
 
 ![](images/03-command.png)
 
@@ -99,14 +98,11 @@ $ npm run build
 
 ## 贡献
 
-1. Fork这个仓库，并按照前一节中的步骤使用fork的仓库
+1. Fork 这个仓库，并按照前一节中的步骤使用 fork 的仓库
 2. 为更改创建一个特性分支
-3. 提交更改并将其推送到fork的仓库
+3. 提交更改并将其推送到 fork 的仓库
 4. 提交一个拉取请求
 
 免责声明
 
-本项目与Micro.blog和Obsidian无关。这是一个由社区维护的插件。
-
-
-
+本项目与 Micro.blog 和 Obsidian 无关。这是一个由社区维护的插件。

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322135840
-title: Obsidian 插件：【Readme】Alias from heading
+uid: 20230803231105
+title: Obsidian 插件：Alias from heading
 tags: ['obsidian插件', 'readme']
 description: 隐式添加一个与文档中第一个标题匹配的别名。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232536
 ---
 
 # Obsidian 插件：Alias from heading
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Alias from heading
 > - 插件作者：Chris Basham
 > - 插件说明：隐式添加一个与文档中第一个标题匹配的别名。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/basham/obsidian-alias-from-heading)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-alias-from-heading)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 隐式添加一个与文档中第一个标题匹配的别名。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/basham/obsidian-alias-from-heading/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ modified: 20230101000000
 
 下面是 [[obsidian-alias-from-heading]] 插件的自述翻译
 
-
 # 标题别名
 
-在[Obsidian](https://obsidian.md)中，别名可以方便地为文档链接提供显示名称。然而，存在一些问题：
+在 [Obsidian](https://obsidian.md) 中，别名可以方便地为文档链接提供显示名称。然而，存在一些问题：
 
 - [别名是在YAML中管理的](https://help.obsidian.md/Linking+notes+and+files/Aliases)，可能使用起来不太方便。
 - 链接的显示名称不会随着别名的更改而同步更新。
@@ -48,10 +45,10 @@ modified: 20230101000000
 该插件通过以下方式解决了这些问题：
 
 - 隐式地为文档添加一个别名，该别名与该文档中的第一个标题匹配，无论标题级别如何。
-- 当[输入`[[`添加链接](https://help.obsidian.md/How+to/Internal+link)时，该别名将作为建议显示。
-- 如果在同一文档中存在重复的别名（来自YAML或标题），在输入`[[`或使用快速切换器时，不会出现重复的链接建议。
+- 当 [输入`[[`添加链接](https://help.obsidian.md/How+to/Internal+link) 时，该别名将作为建议显示。
+- 如果在同一文档中存在重复的别名（来自 YAML 或标题），在输入 `[[` 或使用快速切换器时，不会出现重复的链接建议。
 - 更新文档中的第一个标题只会更新与该标题匹配的链接的显示名称。这样可以根据特定的上下文自定义链接的显示名称，但默认情况下，链接的显示名称将与标题保持同步。
-- 在YAML中定义的任何别名仍然按照它们的标准方式工作，并且不会影响该插件的行为。与标题别名不同，更新YAML中的别名不会更新其关联链接的显示名称。
+- 在 YAML 中定义的任何别名仍然按照它们的标准方式工作，并且不会影响该插件的行为。与标题别名不同，更新 YAML 中的别名不会更新其关联链接的显示名称。
 
 ```md
 <!-- 2022-06-08-1030.md -->
@@ -69,6 +66,7 @@ aliases: "🍅 建造一个花园"
 - 建造框架
 - 准备地面
 - 填充花床
+
 ```
 
 使用这个插件，别名的前置内容不再需要。
@@ -99,7 +97,7 @@ aliases: "🍅 建造一个花园"
 
 ```
 
-然而，通常更易读的做法是使用友好的显示名称链接到文档。键入`[[`，按照标题搜索文档，并选择插入。 
+然而，通常更易读的做法是使用友好的显示名称链接到文档。键入 `[[`，按照标题搜索文档，并选择插入。
 
 ```md
 <!-- 2022-02-02-1445.md -->
@@ -111,7 +109,7 @@ aliases: "🍅 建造一个花园"
 - 发芽种子
 - ...
 
-现在，显示名称与它链接到的第一个文档的第一个标题匹配，它们保持同步。将第一个文档中的标题从`🍅 建造一个花园`更新为`🥕 建造一个提升的花园床`。现在第二个文档显示了变化。
+现在，显示名称与它链接到的第一个文档的第一个标题匹配，它们保持同步。将第一个文档中的标题从 `🍅 建造一个花园` 更新为 `🥕 建造一个提升的花园床`。现在第二个文档显示了变化。
 
 ```md
 <!-- 2022-02-02-1445.md -->
@@ -135,6 +133,7 @@ aliases: "🍅 建造一个花园"
 - [[2022-06-08-1030|2022-06-08-1030]]
 - 发芽种子
 - ...
+
 ```
 
 如果想要自定义显示名称或者不显示名称，只需手动内联更改。除非手动改回与标题匹配，否则它不会与标题保持同步。

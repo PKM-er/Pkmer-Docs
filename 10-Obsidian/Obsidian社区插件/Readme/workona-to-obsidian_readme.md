@@ -1,13 +1,13 @@
 ---
-uid: 2023080322294511
-title: Obsidian 插件：【Readme】Workona To Obsidian
+uid: 20230803231105
+title: Obsidian 插件：Workona To Obsidian
 tags: ['obsidian插件', 'readme']
 description: 用于导入 Workona 资源。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232414
 ---
 
 # Obsidian 插件：Workona To Obsidian
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Workona To Obsidian
 > - 插件作者：Holmes555
 > - 插件说明：用于导入 Workona 资源。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Holmes555/workona-to-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?workona-to-obsidian)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 用于导入 Workona 资源。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Holmes555/workona-to-obsidian/master/README.md)
-> 
+>
 
 ---
 
@@ -37,15 +35,17 @@ modified: 20230101000000
 
 下面是 [[workona-to-obsidian]] 插件的自述翻译
 
-
 # Workona To Obsidian 插件
 
 [![ko-fi](https://img.shields.io/badge/Ko--Fi-holmes555-success)](https://ko-fi.com/holmes555?style=flat)
+
 [![paypal](https://img.shields.io/badge/Paypal-holmes555-success)](https://paypal.me/holmes555)
+
 ![最新发布下载次数](https://img.shields.io/github/downloads/Holmes555/workona-to-obsidian/main.js?style=flat)
+
 ![GitHub 许可证](https://img.shields.io/github/license/Holmes555/workona-to-obsidian?style=flat)
 
-这个插件允许你从Workona生成的JSON文件中导入所有资源。它将创建与你的工作区和资源部分相同的文件夹结构。对于每个资源，它将创建一个新的.md笔记，其中实现了你提供的模板或默认模板：
+这个插件允许你从 Workona 生成的 JSON 文件中导入所有资源。它将创建与你的工作区和资源部分相同的文件夹结构。对于每个资源，它将创建一个新的.md 笔记，其中实现了你提供的模板或默认模板：
 
 ```
 ---
@@ -60,7 +60,9 @@ modified: 20230101000000
 
 描述：{{description}}
 ```
+
 如果您正在指定自己的模板，您可以从以下变量中选择：
+
 ```
 [标题，日期，工作区部分标题标签，工作区子部分标题标签，资源部分标题标签，链接，描述]
 

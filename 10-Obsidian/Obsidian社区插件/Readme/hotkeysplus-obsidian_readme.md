@@ -1,13 +1,13 @@
 ---
-uid: 2023080322195475
-title: Obsidian 插件：【Readme】Hotkeys++
+uid: 20230803231105
+title: Obsidian 插件：Hotkeys++
 tags: ['快捷键', '效率', 'obsidian插件', 'readme']
 description: 为 Obsidian 常见操作添加快捷键，如有序无序列表切换，任务是否完成，快速变为引用，快速复制当前行。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232553
 ---
 
 # Obsidian 插件：Hotkeys++
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Hotkeys++
 > - 插件作者：Argentina Ortega Sainz
 > - 插件说明：为 Obsidian 常见操作添加快捷键，如有序无序列表切换，任务是否完成，快速变为引用，快速复制当前行。
-> - 插件分类：['快捷键', '效率', 'obsidian插件', 'readme']
+> - 插件分类：[' 快捷键 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/argenos/hotkeysplus-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hotkeysplus-obsidian)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Hotkeys++](https://cdn.pkmer.cn/covers/hotkeysplus-obsidian.GIF!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/argenos/hotkeysplus-obsidian/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,9 @@ modified: 20230101000000
 
 下面是 [[hotkeysplus-obsidian]] 插件的自述翻译
 
-
 # hotkeysplus-obsidian
 
-这个仓库包含了我在[Obsidian](https://obsidian.md/)中使用的一些快捷键。默认的快捷键如下：
+这个仓库包含了我在 [Obsidian](https://obsidian.md/) 中使用的一些快捷键。默认的快捷键如下：
 
 | 快捷键                                            | 动作                                      | 作者                                      |
 | ------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
@@ -57,7 +56,4 @@ modified: 20230101000000
 
 ## 安装
 
-将[最新版本](https://github.com/argenos/hotkeysplus-obsidian/releases/latest)解压到您的`<vault>/.obsidian/plugins/`文件夹中。
-
-
-
+将 [最新版本](https://github.com/argenos/hotkeysplus-obsidian/releases/latest) 解压到您的 `<vault>/.obsidian/plugins/` 文件夹中。

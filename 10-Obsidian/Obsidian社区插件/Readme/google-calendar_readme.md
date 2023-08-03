@@ -1,13 +1,13 @@
 ---
-uid: 2023080322191818
-title: Obsidian 插件：【Readme】Google Calendar
+uid: 20230803231105
+title: Obsidian 插件：Google Calendar
 tags: ['日期相关', '第三方工具集成', 'obsidian插件', 'readme']
 description: 让你的 Obsidian 与您的 Google 日历进行交互
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232555
 ---
 
 # Obsidian 插件：Google Calendar
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Google Calendar
 > - 插件作者：YukiGasai
 > - 插件说明：让你的 Obsidian 与您的 Google 日历进行交互
-> - 插件分类：['日期相关', '第三方工具集成', 'obsidian插件', 'readme']
+> - 插件分类：[' 日期相关 ', ' 第三方工具集成 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/YukiGasai/obsidian-google-calendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?google-calendar)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Google Calendar](https://cdn.pkmer.cn/covers/google-calendar.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/YukiGasai/obsidian-google-calendar/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,9 @@ modified: 20230101000000
 
 下面是 [[google-calendar]] 插件的自述翻译
 
+# Google 日历
 
-# Google日历
-
-在Obsidian内管理您的Google日历
+在 Obsidian 内管理您的 Google 日历
 
 ## 特点
 
@@ -53,28 +52,28 @@ modified: 20230101000000
 
 ## 安装
 
-- 从[社区插件商店](obsidian://show-plugin?id=google-calendar)进行一键安装
+- 从 [社区插件商店](obsidian://show-plugin?id=google-calendar) 进行一键安装
 - 进入设置并激活插件
 - 进入插件设置
-- 创建一个自己的OAuth客户端（公共测试客户端已满，将不再起作用）
-- 点击登录并使用Google进行身份验证
+- 创建一个自己的 OAuth 客户端（公共测试客户端已满，将不再起作用）
+- 点击登录并使用 Google 进行身份验证
 
-### 创建自己的OAuth客户端（很简单）
+### 创建自己的 OAuth 客户端（很简单）
 
-[这里](https://yukigasai.github.io/obsidian-google-calendar/#/Basics/Installation)是一个逐步指南，描述了该过程并附有图片。
+[这里](https://yukigasai.github.io/obsidian-google-calendar/#/Basics/Installation) 是一个逐步指南，描述了该过程并附有图片。
 
 - [创建Google Cloud项目](https://console.cloud.google.com/projectcreate?)
 - [激活Google日历API](https://console.cloud.google.com/marketplace/product/google/calendar-json.googleapis.com)
 - [配置OAUTH屏幕](https://console.cloud.google.com/apis/credentials/consent?)
-  - 选择Extern
+  - 选择 Extern
   - 填写必要的输入
-  - 如果使用“@gmail”，请将您的电子邮件添加为测试者，并添加gmail和googlemail
+  - 如果使用“@gmail”，请将您的电子邮件添加为测试者，并添加 gmail 和 googlemail
 - [添加OAUTH客户端](https://console.cloud.google.com/apis/credentials/oauthclient)
-  - 选择Web客户端
-  - 将`http://127.0.0.1:42813`添加为JavaScript来源
-  - 将`https://google-auth-obsidian-redirect.vercel.app`添加为JavaScript来源（仅在您想在移动设备上使用插件时才需要）
-  - 将`http://127.0.0.1:42813/callback`添加为重定向URI
-  - 将`https://google-auth-obsidian-redirect.vercel.app/callback`添加为重定向URI（仅在您想在移动设备上使用插件时才需要）
+  - 选择 Web 客户端
+  - 将 `http://127.0.0.1:42813` 添加为 JavaScript 来源
+  - 将 `https://google-auth-obsidian-redirect.vercel.app` 添加为 JavaScript 来源（仅在您想在移动设备上使用插件时才需要）
+  - 将 `http://127.0.0.1:42813/callback` 添加为重定向 URI
+  - 将 `https://google-auth-obsidian-redirect.vercel.app/callback` 添加为重定向 URI（仅在您想在移动设备上使用插件时才需要）
 - 在设置选项卡中打开“使用自己的身份验证客户端”
 - 在插件设置下的字段中添加密钥
 - 按下登录按钮
@@ -91,7 +90,7 @@ modified: 20230101000000
 
 #### 月视图
 
-基于[obsidian-calendar-ui](https://github.com/liamcain/obsidian-calendar-ui)的日历，用于显示一个月内的事件
+基于 [obsidian-calendar-ui](https://github.com/liamcain/obsidian-calendar-ui) 的日历，用于显示一个月内的事件
 
 ![](https://i.imgur.com/JEnuZ2E.png)
 
@@ -109,7 +108,7 @@ modified: 20230101000000
 
 #### 年视图
 
-一个类似Github的日历视图，可以查看一整年的所有事件
+一个类似 Github 的日历视图，可以查看一整年的所有事件
 
 ![](https://i.imgur.com/rlcitLA.png)
 
@@ -140,13 +139,13 @@ modified: 20230101000000
 
 ### @注释
 
-在文本中通过输入@today或@01.01.2022来引用Google日历事件，然后选择要插入的事件。
+在文本中通过输入@today 或@01.01.2022 来引用 Google 日历事件，然后选择要插入的事件。
 
 其他选项包括@tomorrow（明天）、@yesterday（昨天）、@+1（后一天）、@-1（前一天）。
 
 ### CodeBlock
 
-该插件添加了一个自定义的codeBlock gEvent，用于在文件中插入Web、Day、Week、Month、Year和Schedule视图。选项使用yaml解析。您可以使用视图的设置将配置复制为代码块。
+该插件添加了一个自定义的 codeBlock gEvent，用于在文件中插入 Web、Day、Week、Month、Year 和 Schedule 视图。选项使用 yaml 解析。您可以使用视图的设置将配置复制为代码块。
 
 #### 参数
 
@@ -167,19 +166,19 @@ modified: 20230101000000
 
 ### 自动创建笔记
 
-该插件允许您从Google事件自动生成笔记。
+该插件允许您从 Google 事件自动生成笔记。
 
 1. 要实现此功能，请在设置中激活它。
 2. 选择一个导入日期范围。这是检查事件的范围。中心始终是今天。
-3. 如果插件启动，包含“:obsidian:”的Google事件将创建新的笔记。
+3. 如果插件启动，包含“:obsidian:”的 Google 事件将创建新的笔记。
 
-您还可以通过添加模板标题“:obsidian-UniTemplate:”来定义创建新笔记时应使用的模板。请确保激活核心插件Templates或Templater插件。
+您还可以通过添加模板标题“:obsidian-UniTemplate:”来定义创建新笔记时应使用的模板。请确保激活核心插件 Templates 或 Templater 插件。
 
-您还可以通过在文本前面添加文件夹位置来定义新笔记应保存的位置，例如`：Folder/Path-obsidian:`
+您还可以通过在文本前面添加文件夹位置来定义新笔记应保存的位置，例如 `：Folder/Path-obsidian:`
 
-示例`：Uni/Math-obsidian-UniTemplate:` 在Math文件夹中使用UniTemplate模板创建节点。
+示例 `：Uni/Math-obsidian-UniTemplate:` 在 Math 文件夹中使用 UniTemplate 模板创建节点。
 
-要将事件信息插入模板，请对两个插件使用`{{gEvent.AnyField}}`
+要将事件信息插入模板，请对两个插件使用 `{{gEvent.AnyField}}`
 
 示例
 
@@ -190,13 +189,14 @@ modified: 20230101000000
 
 ```
 
-要使用的字段在[Google日历API](https://developers.google.com/calendar/api/v3/reference/events)中定义，并可以从下拉菜单中选择。
+要使用的字段在 [Google日历API](https://developers.google.com/calendar/api/v3/reference/events) 中定义，并可以从下拉菜单中选择。
 
-使用@Annotation将模板字符串插入已插入事件的文件中，将自动用事件信息替换模板。
+使用@Annotation 将模板字符串插入已插入事件的文件中，将自动用事件信息替换模板。
 
 使用每日笔记
 
-为了使这个插件成为Obsidian中日历的一站式解决方案，您可以启用“显示每日笔记”设置。这将允许您在月视图中查看您的每日笔记和Google事件，并在打开事件选择时添加查看或创建每日笔记的选项。
+为了使这个插件成为 Obsidian 中日历的一站式解决方案，您可以启用“显示每日笔记”设置。这将允许您在月视图中查看您的每日笔记和 Google 事件，并在打开事件选择时添加查看或创建每日笔记的选项。
+
 ![带有每日笔记的模态框](https://i.imgur.com/LhhP7C2.png)
 
 感谢以下插件：
@@ -214,6 +214,3 @@ modified: 20230101000000
 如果你喜欢这个插件，也许可以考虑赞助一下 👉👈
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q1G07N2)
-
-
-

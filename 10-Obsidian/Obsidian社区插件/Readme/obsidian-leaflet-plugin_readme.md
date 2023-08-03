@@ -1,13 +1,13 @@
 ---
-uid: 2023080322232802
-title: Obsidian 插件：【Readme】Obsidian Leaflet
-tags: ['第三方工具集成', '图片', 'obsidian插件', 'readme']
+uid: 20230803231105
+title: Obsidian 插件：Obsidian Leaflet
+tags: ['第三方工具集成', '图片', 'obsidian插件', 'readme', 3388ff, location, friends, people, Paris]
 description: 在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232509
 ---
 
 # Obsidian 插件：Obsidian Leaflet
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Obsidian Leaflet
 > - 插件作者：Jeremy Valentine
 > - 插件说明：在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
-> - 插件分类：['第三方工具集成', '图片', 'obsidian插件', 'readme']
+> - 插件分类：[' 第三方工具集成 ', ' 图片 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/javalent/obsidian-leaflet)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-leaflet-plugin)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Obsidian Leaflet](https://cdn.pkmer.cn/covers/obsidian-leaflet-plugin.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/obsidian-leaflet/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,10 @@ modified: 20230101000000
 
 下面是 [[obsidian-leaflet-plugin]] 插件的自述翻译
 
-
 # Obsidian Leaflet
+
 > **开发状态**: 维护模式
-> 
+>
 > 由于大量优先级较高的 Javalent 插件项目，该插件目前进入维护模式。这**不是**永久状态。
 > - Pull Request 将会被审查。
 > - *耶*，如果可能的话，将会审查并修复错误。
@@ -60,7 +60,7 @@ modified: 20230101000000
 
 ## 使用插件和示例
 
-可以使用`leaflet`代码块创建地图。例如：
+可以使用 `leaflet` 代码块创建地图。例如：
 
 ````markdown
 ```leaflet
@@ -109,11 +109,11 @@ darkMode: true
 | [marker](#markers)                      | 在地图上创建不可变的标记。                                                                                  |                                             |
 | [commandMarker](#defined-in-code-block) | 创建执行命令的不可变标记。                                                                                  |                                             |
 | [markerFile](#marker-file)              | 从笔记的正文中创建不可变标记。                                                                              |                                             |
-| [markerFolder](#marker-folders)         | 从给定路径（相对于 Vault 根目录的相对路径或绝对路径）中的 _所有_ 笔记创建不可变标记。通过在每个文件夹级别附加一个 '/' 来限制深度。 |                                             |
-| [markerTag\*](#marker-tags)             | 从具有指定标签的 _所有_ 笔记中创建不可变标记。                                                              |                                             |
+| [markerFolder](#marker-folders)         | 从给定路径（相对于 Vault 根目录的相对路径或绝对路径）中的 *所有* 笔记创建不可变标记。通过在每个文件夹级别附加一个 '/' 来限制深度。 |                                             |
+| [markerTag\*](#marker-tags)             | 从具有指定标签的 *所有* 笔记中创建不可变标记。                                                              |                                             |
 | [filterTag\*](#filter-tag)              | 过滤要用于创建标记的文件。只使用与标签匹配的标记。                                                          |                                             |
-| [linksTo\*](#links)                     | 从链接到某个笔记的 _所有_ 笔记中创建不可变标记。                                                             |                                             |
-| [linksFrom\*](#links)                   | 从链接自某个笔记的 _所有_ 笔记中创建不可变标记。                                                             |                                             |
+| [linksTo\*](#links)                     | 从链接到某个笔记的 *所有* 笔记中创建不可变标记。                                                             |                                             |
+| [linksFrom\*](#links)                   | 从链接自某个笔记的 *所有* 笔记中创建不可变标记。                                                             |                                             |
 | [darkMode](#dark-mode)                  | 反转地图颜色。                                                                                             | false                                       |
 | [overlay](#overlays)                    | 在地图上添加一个圆形覆盖层。                                                                                |                                             |
 | [overlayTag](#overlay-tag)              | 定义要在指定的标记笔记中搜索的 YAML 标签。                                                                  |                                             |
@@ -140,9 +140,9 @@ darkMode: true
 
 > \*: 需要 [DataView 插件](https://github.com/blacksmithgu/obsidian-dataview)。
 
-### YAML语法
+### YAML 语法
 
-从版本**3.11.0**开始，所有参数可以使用YAML语法来定义，而不是使用多个相同的标签。原始语法仍然有效，但两者不能混合使用。
+从版本**3.11.0**开始，所有参数可以使用 YAML 语法来定义，而不是使用多个相同的标签。原始语法仍然有效，但两者不能混合使用。
 
 例如：
 
@@ -158,29 +158,29 @@ marker:
 ```
 ````
 
-#### YAML中的标记标签
+#### YAML 中的标记标签
 
-YAML将`#`符号视为注释，因此`markerTag`或`filterTag`参数必须用引号括起来(`"#tag"`)，或者不使用`#`符号定义。
+YAML 将 `#` 符号视为注释，因此 `markerTag` 或 `filterTag` 参数必须用引号括起来 (`"#tag"`)，或者不使用 `#` 符号定义。
 
 #### 链接
 
 I
 
-## 地图ID
+## 地图 ID
 
-从**3.0.0**版本开始，地图ID是必需的。如果打开一个带有旧地图块的笔记，插件将会警告您该地图现在需要一个ID。
+从**3.0.0**版本开始，地图 ID 是必需的。如果打开一个带有旧地图块的笔记，插件将会警告您该地图现在需要一个 ID。
 
-一旦给旧地图分配了一个ID，插件将尝试将标记数据与新地图关联起来。
+一旦给旧地图分配了一个 ID，插件将尝试将标记数据与新地图关联起来。
 
-在更新到3.0.0后第一次打开插件时，将会创建您的标记数据的备份，以防您需要降级。如果遇到问题，请在Github上创建一个问题。
+在更新到 3.0.0 后第一次打开插件时，将会创建您的标记数据的备份，以防您需要降级。如果遇到问题，请在 Github 上创建一个问题。
 
 初始地图视图
 
 ### 初始坐标
 
-地图将根据使用`lat`和`long`定义的纬度和经度打开。如果未提供，则默认使用设置中定义的纬度和经度。
+地图将根据使用 `lat` 和 `long` 定义的纬度和经度打开。如果未提供，则默认使用设置中定义的纬度和经度。
 
-或者，可以使用`coordinates`参数来定义纬度和经度。坐标可以定义为数字数组，或者作为具有`location`前置标签的注释的维基链接：
+或者，可以使用 `coordinates` 参数来定义纬度和经度。坐标可以定义为数字数组，或者作为具有 `location` 前置标签的注释的维基链接：
 
 ```
 coordinates: [36, -89]
@@ -193,19 +193,21 @@ coordinates: [[具有位置前置标签的注释]]
 >
 > 缩放级别和图像地图可能有点不直观。
 >
-> 请查看下面的[使用图像地图进行缩放](#zooming-with-image-maps)。
+> 请查看下面的 [使用图像地图进行缩放](#zooming-with-image-maps)。
 
-可以使用`defaultZoom`参数设置地图的初始缩放级别。该参数必须是`minZoom`和`maxZoom`参数之间的数字 - 如果超出范围，将设置为最接近的参数。
+可以使用 `defaultZoom` 参数设置地图的初始缩放级别。该参数必须是 `minZoom` 和 `maxZoom` 参数之间的数字 - 如果超出范围，将设置为最接近的参数。
 
-或者，如果已经定义了`coordinates`注释，初始缩放级别可以从该注释的正文中读取为`<distance> <unit>`。
+或者，如果已经定义了 `coordinates` 注释，初始缩放级别可以从该注释的正文中读取为 `<distance> <unit>`。
 
 例如，如果一个注释具有以下正文：
 
 ### 带有前置信息的笔记.md
+
 ---
 位置: [-36, 89]
 附近: 100 英里
 ---
+
 ```
 
 地图定义如下:
@@ -219,17 +221,17 @@ coordinates: [[具有位置前置标签的注释]]
 
 现实世界地图
 
-如果未提供`image`参数，则会创建现实世界地图。默认情况下，这些地图将加载`OpenStreetMap`地图，但可以使用`tileServer`参数提供其他瓦片服务器。
+如果未提供 `image` 参数，则会创建现实世界地图。默认情况下，这些地图将加载 `OpenStreetMap` 地图，但可以使用 `tileServer` 参数提供其他瓦片服务器。
 
 **您需要确保您使用的瓦片服务器是公开可用的。**
 
-目前，需要API访问权限的瓦片服务器无法使用。
+目前，需要 API 访问权限的瓦片服务器无法使用。
 
-如果提供了其他瓦片服务器，则可以使用`osmLayer: false`参数关闭`OpenStreetMap`图层。
+如果提供了其他瓦片服务器，则可以使用 `osmLayer: false` 参数关闭 `OpenStreetMap` 图层。
 
 ### 瓦片服务器
 
-如上所述，可以使用`tileServer`和`tileOverlay`参数添加额外的瓦片服务器。两者具有相同的语法：
+如上所述，可以使用 `tileServer` 和 `tileOverlay` 参数添加额外的瓦片服务器。两者具有相同的语法：
 
 `tileServer: <domain>|<alias (optional)>`
 
@@ -246,7 +248,7 @@ tileServer:
 -   https://tiles.wmflabs.org/hillshading/{z}/{x}/{y}.png|Hills
 ```
 
-在`tileServer`中指定的瓦片服务器将作为额外的**图层**添加，并可以完全切换。
+在 `tileServer` 中指定的瓦片服务器将作为额外的**图层**添加，并可以完全切换。
 
 ### 瓦片覆盖
 
@@ -266,43 +268,48 @@ tileServer: https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png|Dark|o
 
 例如：
 ----
+
 ```leaflet
 osmLayer: false
 tileServer: https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}
 tileSubdomains: 1,2,3
 ```
+
 ---
 
-这样地图将从以下URL加载地图数据：
-https://webrd01.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}
-https://webrd02.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}
-https://webrd03.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}
+这样地图将从以下 URL 加载地图数据：
+
+<https://webrd01.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}>
+
+<https://webrd02.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}>
+
+<https://webrd03.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}>
 
 ## 图像地图
 
 > **:warning: 制作图像地图？**
 >
-> 对于图像地图，**强烈建议**您首先设置[边界](#bounds)。
+> 对于图像地图，**强烈建议**您首先设置 [边界](#bounds)。
 >
 > 这将使您处理图像变得更加容易！
 >
-> 阅读有关该过程的[讨论](https://github.com/valentine195/obsidian-leaflet-plugin/discussions/130)。Josh Plunkett还制作了一段很棒的视频，详细介绍了该过程，视频链接在[这里](https://www.youtube.com/watch?v=54EyMzJP5DU)。
+> 阅读有关该过程的 [讨论](https://github.com/valentine195/obsidian-leaflet-plugin/discussions/130)。Josh Plunkett 还制作了一段很棒的视频，详细介绍了该过程，视频链接在 [这里](https://www.youtube.com/watch?v=54EyMzJP5DU)。
 
-### 图片地图的URL / 文件路径
+### 图片地图的 URL / 文件路径
 
 图片地图可以通过以下三种方式加载：
 
-1. 直接URL（例如，https://i.imgur.com/jH8j3mJ.jpg）
+1. 直接 URL（例如，<https://i.imgur.com/jH8j3mJ.jpg）>
 2. Obsidian URL（例如，obsidian://open?vault=VaultName&file=Path/To/Image.jpg）
-3. Obsidian图片的wikilink（例如，[[Image.jpg]]）
+3. Obsidian 图片的 wikilink（例如，[[Image.jpg]]）
 
 使用图像地图进行缩放
 
 您可能会注意到，基本的图像地图和缩放并不一定按照您的预期方式进行。例如，您可能会发现将最大缩放值设置得更高只会使地图“开始更远”，而不是实际允许您进行更多缩放。
 
-这是因为图像地图本质上是在LeafletJS模块之上进行的一种黑客方式。仍然存在一个基础地图，它仍然具有其纬度和经度，只是无法看到。然后，在该地图上绘制图像（居中于[0, 0]），然后拉伸以适应。如果更改参数（例如缩放级别），则会更改基础地图...但图像仍然被放置在[0, 0]并拉伸以适应！
+这是因为图像地图本质上是在 LeafletJS 模块之上进行的一种黑客方式。仍然存在一个基础地图，它仍然具有其纬度和经度，只是无法看到。然后，在该地图上绘制图像（居中于 [0, 0]），然后拉伸以适应。如果更改参数（例如缩放级别），则会更改基础地图...但图像仍然被放置在 [0, 0] 并拉伸以适应！
 
-相反，需要为您的地图设置[图像边界](#bounds)。这告诉Leaflet在底层地图图层上将图像放置在哪些坐标上。无论地图实例如何更改，图像都将位于相同的位置并具有相同的大小，每次都是如此！
+相反，需要为您的地图设置 [图像边界](#bounds)。这告诉 Leaflet 在底层地图图层上将图像放置在哪些坐标上。无论地图实例如何更改，图像都将位于相同的位置并具有相同的大小，每次都是如此！
 
 ### 多图层地图
 
@@ -318,7 +325,7 @@ image:
 ```
 ````
 
-这将生成一个具有3个图层的地图。图像1位于顶部，图像2位于中间，图像3位于底部。图像将围绕其中心点对齐。
+这将生成一个具有 3 个图层的地图。图像 1 位于顶部，图像 2 位于中间，图像 3 位于底部。图像将围绕其中心点对齐。
 
 地图右上角的控制框将允许您更改图层。
 
@@ -328,7 +335,7 @@ image:
 
 ### 边界
 
-可以使用`bounds`参数为图像地图设置自定义边界：
+可以使用 `bounds` 参数为图像地图设置自定义边界：
 
 ````
 ```leaflet
@@ -339,7 +346,7 @@ bounds:
 ```
 ````
 
-这将导致图像地图的纬度和经度更新以适应边界。_如果提供的边界与图像的宽高比不匹配，则会扭曲图像。_
+这将导致图像地图的纬度和经度更新以适应边界。*如果提供的边界与图像的宽高比不匹配，则会扭曲图像。*
 
 地图上定义的任何标记或覆盖物都不会被更新。
 
@@ -349,25 +356,25 @@ bounds:
 
 ### 单位和比例
 
-如果提供了`scale`参数，插件将通过`scale`对两点之间的计算距离进行缩放，并将结果显示为`xxx unit`。
+如果提供了 `scale` 参数，插件将通过 `scale` 对两点之间的计算距离进行缩放，并将结果显示为 `xxx unit`。
 
-在真实世界的地图上，只需要提供`unit`参数。它将尝试将测量结果从`meters`缩放到`unit`。
+在真实世界的地图上，只需要提供 `unit` 参数。它将尝试将测量结果从 `meters` 缩放到 `unit`。
 
 标记
 
 可以通过右键单击将新标记添加到地图中。
 
-如果在插件设置或同一目录中的`markers.json`文件中创建了任何其他标记类型，则会显示一个列表供选择。
+如果在插件设置或同一目录中的 `markers.json` 文件中创建了任何其他标记类型，则会显示一个列表供选择。
 
 创建了标记后，可以将其拖动到其他位置。
 
-在地图上创建的标记将保存到地图实例中。以这种方式保存的标记数据将持续存在，只要地图与一个笔记相关联 - 如果从笔记中删除了地图块，或者如果删除了包含地图块的所有笔记，则与其关联的数据将在7天后被删除。
+在地图上创建的标记将保存到地图实例中。以这种方式保存的标记数据将持续存在，只要地图与一个笔记相关联 - 如果从笔记中删除了地图块，或者如果删除了包含地图块的所有笔记，则与其关联的数据将在 7 天后被删除。
 
 ### 标记缩放级别断点
 
 当地图缩放超过或低于断点时，给定缩放级别断点的标记将从地图上移除。
 
-这些断点可以在地图上创建的标记的右键菜单中设置，也可以在源代码块中创建的标记的参数中设置（有关更多信息，请参见[代码块中定义的对象](#objects-defined-in-the-code-block)）。
+这些断点可以在地图上创建的标记的右键菜单中设置，也可以在源代码块中创建的标记的参数中设置（有关更多信息，请参见 [代码块中定义的对象](#objects-defined-in-the-code-block)）。
 
 请注意！确保断点在地图的缩放范围内，否则标记可能永远不会显示！
 
@@ -385,15 +392,15 @@ bounds:
 
 如果您有多个同名的注释，您应该指定注释的直接路径。否则，地图可能不会打开您期望的那个注释。
 
-一旦链接，点击将打开注释（<kbd>Ctrl</kbd>/<kbd>Cmd</kbd>-点击将在新窗口中打开）。
+一旦链接，点击将打开注释（<kbd>Ctrl</kbd>/<kbd>Cmd</kbd>- 点击将在新窗口中打开）。
 
 此外，可以通过将注释从文件树拖放到地图上来创建标记。
 
 标记链接也可以设置为外部网站。点击标记将打开该网站。
 
-#### Obsidian命令作为链接
+#### Obsidian 命令作为链接
 
-标记链接也可以通过两种方式之一设置为定义的Obsidian命令。
+标记链接也可以通过两种方式之一设置为定义的 Obsidian 命令。
 
 命令必须是在调色板中显示的命令的完整名称。
 
@@ -403,9 +410,9 @@ bounds:
 >
 > 将命令用作标记目标可能会产生意想不到的后果。
 >
-> 请参阅[此问题](https://github.com/valentine195/obsidian-leaflet-plugin/issues/38)以供参考。
+> 请参阅 [此问题](https://github.com/valentine195/obsidian-leaflet-plugin/issues/38) 以供参考。
 
-在代码块中使用`commandMarker:`代替`marker:`
+在代码块中使用 `commandMarker:` 代替 `marker:`
 
 在地图上创建
 
@@ -413,13 +420,13 @@ bounds:
 
 ### 批量编辑
 
-从3.9.0版本开始，地图上添加了一个批量编辑按钮。点击此按钮将打开一个模态窗口，方便对地图上定义的所有可编辑标记进行批量编辑。
+从 3.9.0 版本开始，地图上添加了一个批量编辑按钮。点击此按钮将打开一个模态窗口，方便对地图上定义的所有可编辑标记进行批量编辑。
 
 ## 叠加层
 
-可以通过<kbd>Shift</kbd>-右键单击地图，拖动鼠标设置半径，然后再次单击来添加叠加层。按下<kbd>Escape</kbd>键将取消绘制并删除叠加层。以这种方式添加到地图上的叠加层与标记一样保存在地图实例中，并在重新打开地图时重新创建。
+可以通过<kbd>Shift</kbd>- 右键单击地图，拖动鼠标设置半径，然后再次单击来添加叠加层。按下<kbd>Escape</kbd>键将取消绘制并删除叠加层。以这种方式添加到地图上的叠加层与标记一样保存在地图实例中，并在重新打开地图时重新创建。
 
-此外，还可以在源代码块中使用`overlay`参数指定叠加层，如下所示：
+此外，还可以在源代码块中使用 `overlay` 参数指定叠加层，如下所示：
 
 `overlay: [<color>, [<lat>, <long>], <radius> <unit?>, <desc>]`
 
@@ -432,15 +439,15 @@ overlay:
     ...
 ```
 
-这将创建一个以`<lat>, <long>`为中心、半径为`<radius>`的`<color>`叠加层圆。
+这将创建一个以 `<lat>, <long>` 为中心、半径为 `<radius>` 的 `<color>` 叠加层圆。
 
 > **请注意**
 >
 > 叠加层按照指定的顺序绘制。如果较小的叠加层被较大的叠加层遮挡，较小的叠加层将无法交互。
 
-`<color>`可以是任何有效的CSS颜色，包括十六进制、`rgb()`和`hsl()`。
+`<color>` 可以是任何有效的 CSS 颜色，包括十六进制、`rgb()` 和 `hsl()`。
 
-请注意，由于YAML语法的限制，以`#`开头的字符串和包含逗号的条目必须用引号括起来。
+请注意，由于 YAML 语法的限制，以 `#` 开头的字符串和包含逗号的条目必须用引号括起来。
 
 示例：
 
@@ -464,9 +471,9 @@ overlay:
 
 ### 使用笔记前置元数据创建叠加层
 
-与标记类似，可以使用`markerFile`、`markerFolder`和`markerTag`参数从找到的笔记中创建叠加层。`filterTag`参数可以用来根据标签筛选要使用的文件。
+与标记类似，可以使用 `markerFile`、`markerFolder` 和 `markerTag` 参数从找到的笔记中创建叠加层。`filterTag` 参数可以用来根据标签筛选要使用的文件。
 
-插件将扫描笔记的前置元数据，并根据前置元数据中的`mapoverlay`参数生成叠加层，使用与上述相同的语法。
+插件将扫描笔记的前置元数据，并根据前置元数据中的 `mapoverlay` 参数生成叠加层，使用与上述相同的语法。
 
 ### 叠加标签
 
@@ -492,7 +499,7 @@ nearby: 50 km
 
 图像叠加
 
-可以使用代码块中的`imageOverlay`参数将图像叠加到地图上。
+可以使用代码块中的 `imageOverlay` 参数将图像叠加到地图上。
 
 该参数使用以下语法：
 
@@ -512,9 +519,9 @@ imageOverlay:
 
 可以使用右上角的图层控制框来切换图像叠加的开启或关闭。与具有多个图层的地图类似，如果提供了可选的别名，则图层框将显示别名而不是文件名。
 
-GeoJSON（地理JSON）是一种用于描述地理数据结构（如点、线和形状）的格式。请参阅[此链接](https://datatracker.ietf.org/doc/html/rfc7946)以获取完整的GeoJSON格式参考。
+GeoJSON（地理 JSON）是一种用于描述地理数据结构（如点、线和形状）的格式。请参阅 [此链接](https://datatracker.ietf.org/doc/html/rfc7946) 以获取完整的 GeoJSON 格式参考。
 
-可以使用以下语法将GeoJSON加载到地图中：
+可以使用以下语法将 GeoJSON 加载到地图中：
 
 ````
 ```leaflet
@@ -532,29 +539,29 @@ geojson:
 ```
 ````
 
-请注意，GeoJSON按照提供的顺序绘制。如果一个较小的文件与一个较大的文件重叠，您可能无法与其进行交互。
+请注意，GeoJSON 按照提供的顺序绘制。如果一个较小的文件与一个较大的文件重叠，您可能无法与其进行交互。
 
-特别大或大量的GeoJSON文件可能会减慢初始渲染速度。
+特别大或大量的 GeoJSON 文件可能会减慢初始渲染速度。
 
 ### 链接到笔记
 
-GeoJSON文件可以通过在末尾添加`|[[]]`来链接到一个笔记。
+GeoJSON 文件可以通过在末尾添加 `|[[]]` 来链接到一个笔记。
 
 **请注意，在链接到笔记时需要提供别名。**
 
 ### 样式和颜色
 
-可以在地图的代码块中使用`geojsonColor`参数来定义GeoJSON要素的默认颜色。该颜色必须是有效的CSS颜色。
+可以在地图的代码块中使用 `geojsonColor` 参数来定义 GeoJSON 要素的默认颜色。该颜色必须是有效的 CSS 颜色。
 
-此外，地图将尝试读取为GeoJSON要素定义的样式属性以应用样式。样式应该使用[MapBox SimpleStyle规范](https://github.com/mapbox/simplestyle-spec/tree/master/1.1.0)来定义。
+此外，地图将尝试读取为 GeoJSON 要素定义的样式属性以应用样式。样式应该使用 [MapBox SimpleStyle规范](https://github.com/mapbox/simplestyle-spec/tree/master/1.1.0) 来定义。
 
 ### 工具提示
 
-当鼠标悬停时，地图将尝试读取GeoJSON要素的标题以显示工具提示。该标题应该在GeoJSON要素属性的`title`、`description`或`name`字段中定义。
+当鼠标悬停时，地图将尝试读取 GeoJSON 要素的标题以显示工具提示。该标题应该在 GeoJSON 要素属性的 `title`、`description` 或 `name` 字段中定义。
 
-GPX，即GPS交换格式，文件可以通过使用`gpx`参数将其添加到地图中，类似于将GeoJSON文件添加到地图中的方式。
+GPX，即 GPS 交换格式，文件可以通过使用 `gpx` 参数将其添加到地图中，类似于将 GeoJSON 文件添加到地图中的方式。
 
-> 想要在Obsidian中显示您的Apple Health锻炼数据吗？按照[这些](https://support.apple.com/guide/iphone/share-health-and-fitness-data-iph27f6325b2/ios)步骤操作，然后将导出的GPX文件添加到您的保险库中，并在地图中使用它们！
+> 想要在 Obsidian 中显示您的 Apple Health 锻炼数据吗？按照 [这些](https://support.apple.com/guide/iphone/share-health-and-fitness-data-iph27f6325b2/ios) 步骤操作，然后将导出的 GPX 文件添加到您的保险库中，并在地图中使用它们！
 
 ````
 ```leaflet
@@ -572,7 +579,7 @@ gpx:
 ```
 ````
 
-特别大或大量的GPX文件可能会减慢渲染速度。
+特别大或大量的 GPX 文件可能会减慢渲染速度。
 
 ### GPX 标记点
 
@@ -587,11 +594,11 @@ gpxMarkers:
 ```
 ````
 
-### GPX数据
+### GPX 数据
 
-GPX文件被解析为可以在地图上显示为热线的数据点。单击GPX路线将打开一个控制框，可以在其中选择这些数据点。将鼠标悬停在轨迹上的某个点上将显示该特定点的信息。
+GPX 文件被解析为可以在地图上显示为热线的数据点。单击 GPX 路线将打开一个控制框，可以在其中选择这些数据点。将鼠标悬停在轨迹上的某个点上将显示该特定点的信息。
 
-目前，从GPX文件解析出的数据包括：
+目前，从 GPX 文件解析出的数据包括：
 
 1. 步频
 2. 海拔
@@ -609,7 +616,7 @@ GPX文件被解析为可以在地图上显示为热线的数据点。单击GPX�
 | 标记    | `marker: <type*>,<latitude>,<longitude>,<link*>,<description*>,<minZoom*>,<maxZoom*>` |
 | 覆盖物  | `overlay: [<color*>, [<latitude, longitude>], <radius*>, <description*>]`             |
 
-可以定义任意数量的对象，但是_这些对象都不能进行编辑_。如果需要对这些对象进行更改，必须编辑代码块。
+可以定义任意数量的对象，但是 _ 这些对象都不能进行编辑 _。如果需要对这些对象进行更改，必须编辑代码块。
 
 标记链接可以定义为 Obsidian 的内部链接。
 
@@ -628,19 +635,19 @@ GPX文件被解析为可以在地图上显示为热线的数据点。单击GPX�
 
 #### 注意事项前置元数据
 
-`markerFile`、`markerFolder`、`markerTag`、`filterTag`、`linksTo`和`linksFrom`参数告诉插件“在哪里查找笔记”。笔记本身通过使用笔记前置元数据标签来确定如何创建标记。
+`markerFile`、`markerFolder`、`markerTag`、`filterTag`、`linksTo` 和 `linksFrom` 参数告诉插件“在哪里查找笔记”。笔记本身通过使用笔记前置元数据标签来确定如何创建标记。
 
 从笔记创建的所有标记都会自动将其链接设置为该笔记。
 
 | 前置元数据标签 | 用途                                                                                           |
 | --------------- | ----------------------------------------------------------------------------------------------- |
-| location        | 在此位置创建一个标记。如果`coordinates`参数指向此笔记，也会使用此位置。                           |
-| mapmarker       | 使用此标记类型创建使用`location`创建的标记。可选。                                               |
-| mapzoom         | 从此笔记创建的标记将其缩放断点设置为`[min, max]`。可选。                                         |
+| location        | 在此位置创建一个标记。如果 `coordinates` 参数指向此笔记，也会使用此位置。                           |
+| mapmarker       | 使用此标记类型创建使用 `location` 创建的标记。可选。                                               |
+| mapzoom         | 从此笔记创建的标记将其缩放断点设置为 `[min, max]`。可选。                                         |
 | mapmarkers      | 要创建的标记数组。有关语法，请参见下文。                                                       |
 | mapoverlay      | 要创建的覆盖层数组。有关语法，请参见下文。                                                       |
 
-mapmarker参数可用于定义创建的标记的类型。这可以是以下两种情况之一：
+mapmarker 参数可用于定义创建的标记的类型。这可以是以下两种情况之一：
 
 1. 设置中给出的标记类型的名称。
 2. 一个定义，定义了图标名称、颜色以及是否将图标叠加在默认标记类型上。
@@ -664,12 +671,16 @@ mapmarker:
 使用`mapmarkers`定义的标记应具有以下语法：
 
 ```
+
 ---
+
 mapmarkers:
+
   - [<type>, [<latitude>, <longitude>], <optional description>, <optional minZoom>, <optional maxZoom>]
   - [<type>, [<latitude>, <longitude>], <optional description>, <optional minZoom>, <optional maxZoom>]
   - ...
 ---
+
 ```
 
 ##### mapoverlays
@@ -679,12 +690,16 @@ mapmarkers:
 使用`mapoverlay`定义的标记应具有以下语法：
 
 ```
+
 ---
+
 mapoverlay:
+
   - [<color>, [<latitude>, <longitude>], <radius> <unit?>, <optional description>]
   - [<color>, [<latitude>, <longitude>], <radius> <unit?>, <optional description>]
   - ...
 ---
+
 ```
 
 如上所示，覆盖层的半径应使用`<radius> <unit>`（例如`100 miles`）指定。如果未提供`<unit>`，它将默认为`meters`。请参阅[此处](src/utils/units.ts)以获取支持的单位列表。
@@ -719,10 +734,13 @@ mapoverlay:
 示例：
 
 ```
+
 markerTag:
+
   - tag1
   - [tag2, tag3]
   - tag4
+
 ```
 
 上述示例将解析：
@@ -746,16 +764,23 @@ markerTag:
 可以使用 YAML 数组语法指定多个文件：
 
 ```
+
 linksTo: [[文件]]
+
 linksFrom:
+
     - [[文件 1]]
+
     - [[文件 2]]
+
 ```
 
 示例
 
 ```
+
 markerFile: [[MarkerFile]]
+
 ```
 
 将会
@@ -763,8 +788,11 @@ markerFile: [[MarkerFile]]
 1. 加载MarkerFile.md笔记文件，并且如果它有正确的frontmatter字段，就会创建一个标记。
 
 ```
+
 markerFile: [[MarkerFile]]
+
 markerFolder: People and Locations
+
 ```
 
 将会
@@ -773,7 +801,9 @@ markerFolder: People and Locations
 2. 在People and Locations文件夹中查找其他笔记
 
 ```
+
 markerTag: #location, #friends
+
 ```
 
 将会
@@ -781,10 +811,15 @@ markerTag: #location, #friends
 1. 查找所有同时带有`#location`和`#friends`标签的笔记，并使用它们的frontmatter创建标记
 
 ```
+
 markerFolder: People and Locations
+
 markerFolder: Interests/Maps of the World
+
 markerTag: #people, #friends
+
 markerTag: #Paris
+
 ```
 
 将会搜索满足以下条件的笔记：
@@ -812,7 +847,7 @@ markerTag: #Paris
 }
 ```
 
-在自定义代码片段中覆盖此CSS将允许自定义暗黑模式的外观。有关CSS `filter`属性的参考，请参阅[此文章](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)。
+在自定义代码片段中覆盖此 CSS 将允许自定义暗黑模式的外观。有关 CSS `filter` 属性的参考，请参阅 [此文章](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)。
 
 ## 设置
 
@@ -820,7 +855,7 @@ markerTag: #Paris
 
 标记数据可以导出为 CSV 文件。该数据的格式如下：
 
-| 列1      | 列2         | 列3      | 列4         | 列5          | 列6           | 列7      |
+| 列 1      | 列 2         | 列 3      | 列 4         | 列 5          | 列 6           | 列 7      |
 | -------- | ----------- | -------- | ----------- | ------------ | ------------- | -------- |
 | 地图 ID   | 标记类型    | 纬度     | 经度        | 标记链接     | 标记图层      | 标记 ID   |
 
@@ -840,13 +875,13 @@ markerTag: #Paris
 
 ### 默认启用绘制模式
 
-如果禁用，则除非在地图块中将`draw`参数设置为true，否则绘制控制器将不会添加到地图中。
+如果禁用，则除非在地图块中将 `draw` 参数设置为 true，否则绘制控制器将不会添加到地图中。
 
 ### 显示笔记预览
 
-在悬停链接标记时使用Obsidian的笔记预览。
+在悬停链接标记时使用 Obsidian 的笔记预览。
 
-请注意，必须启用Obsidian页面预览核心插件才能使用此功能。
+请注意，必须启用 Obsidian 页面预览核心插件才能使用此功能。
 
 ### 显示覆盖工具提示
 
@@ -866,7 +901,7 @@ markerTag: #Paris
 
 #### 标记图标
 
-要使用的[Font Awesome Free](https://fontawesome.com/icons?d=gallery&p=2&s=solid&m=free)图标名称。
+要使用的 [Font Awesome Free](https://fontawesome.com/icons?d=gallery&p=2&s=solid&m=free) 图标名称。
 
 标记颜色
 
@@ -887,49 +922,49 @@ markerTag: #Paris
 | 参数             | 描述                                                                                                 |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
 | 标记名称         | 在添加标记时显示在上下文菜单中（例如，位置、事件、人物）                                               |
-| 标记图标         | 使用[Font Awesome Free](https://fontawesome.com/icons?d=gallery&p=2&s=solid&m=free)图标名称           |
-| 上传图片         | 上传自定义图片以用作标记图标，而不是使用Font Awesome图标                                              |
+| 标记图标         | 使用 [Font Awesome Free](https://fontawesome.com/icons?d=gallery&p=2&s=solid&m=free) 图标名称           |
+| 上传图片         | 上传自定义图片以用作标记图标，而不是使用 Font Awesome 图标                                              |
 | 图层图标         | 将此图标叠加在基本标记上。如果关闭，则使用图标本身。                                                  |
 | 图标颜色         | 覆盖默认图标颜色                                                                                      |
-| 关联标签         | 如果文件具有此标签且未设置`mapmarker`，则不可更改的标记将使用此标记类型。                               |
+| 关联标签         | 如果文件具有此标签且未设置 `mapmarker`，则不可更改的标记将使用此标记类型。                               |
 
 如果图层图标打开，可以通过点击和拖动来移动图标，以自定义图标的叠加位置。如果在移动图标时按住<kbd>Shift</kbd>键，它将自动对齐到中线。
 
 #### 创建本地标记类型
 
-新的标记类型也可以在`markers.json`文件中定义。这些标记类型将对与json文件相同目录中的任何笔记可用。json文件应包含一个Icon对象数组，详见[Icon接口](https://github.com/javalent/obsidian-leaflet/blob/1fa4c237deceff1def883872fdad3822f9bff560/types/saved.d.ts#L7)。
+新的标记类型也可以在 `markers.json` 文件中定义。这些标记类型将对与 json 文件相同目录中的任何笔记可用。json 文件应包含一个 Icon 对象数组，详见 [Icon接口](https://github.com/javalent/obsidian-leaflet/blob/1fa4c237deceff1def883872fdad3822f9bff560/types/saved.d.ts#L7)。
 
 使用图像作为标记图标
 
-在创建额外的标记时，可以上传图像作为标记图标，而不是选择Font Awesome图标。
+在创建额外的标记时，可以上传图像作为标记图标，而不是选择 Font Awesome 图标。
 
-点击“上传图像”按钮并选择要使用的图像。插件将加载图像并将其缩放为`24px x 24px`。一旦上传了标记的图像，就无法编辑它。
+点击“上传图像”按钮并选择要使用的图像。插件将加载图像并将其缩放为 `24px x 24px`。一旦上传了标记的图像，就无法编辑它。
 
-如果已经上传了图像，则选择Font Awesome图标将删除该图像。
+如果已经上传了图像，则选择 Font Awesome 图标将删除该图像。
 
 #### 关联标签
 
 将标签与标记类型关联。
 
-如果使用`markerFile`、`markerFolder`或`markerTag`找到了一个笔记，插件将首先使用前置元数据`mapmarker`参数来确定标记类型。如果没有设置该参数，则将使用笔记的标签来查找与其中一个标签关联的标记类型。
+如果使用 `markerFile`、`markerFolder` 或 `markerTag` 找到了一个笔记，插件将首先使用前置元数据 `mapmarker` 参数来确定标记类型。如果没有设置该参数，则将使用笔记的标签来查找与其中一个标签关联的标记类型。
 
 标签按照标记类型的定义顺序进行搜索。
 
 # 插件集成：行动追踪器
 
-如果已安装[行动追踪器](https://github.com/valentine195/obsidian-initiative-tracker)插件，可以从行动追踪器视图中打开战斗地图。
+如果已安装 [行动追踪器](https://github.com/valentine195/obsidian-initiative-tracker) 插件，可以从行动追踪器视图中打开战斗地图。
 
-该战斗地图将预加载加载的战斗中的任何活动生物作为标记。可以为PC和NPC设置默认的标记类型，并且还可以进一步设置每个个体生物将使用的标记类型。
+该战斗地图将预加载加载的战斗中的任何活动生物作为标记。可以为 PC 和 NPC 设置默认的标记类型，并且还可以进一步设置每个个体生物将使用的标记类型。
 
-战斗地图将与行动追踪器战斗同步其状态-当生物被添加、移除等时，它们的状态将在地图上更新。
+战斗地图将与行动追踪器战斗同步其状态 - 当生物被添加、移除等时，它们的状态将在地图上更新。
 
 # 版本历史
 
-请参阅[更新日志](https://github.com/valentine195/obsidian-leaflet-plugin/blob/master/CHANGELOG.md)。
+请参阅 [更新日志](https://github.com/valentine195/obsidian-leaflet-plugin/blob/master/CHANGELOG.md)。
 
 # 安装
 
-从Obsidian v0.9.8开始，您可以通过以下步骤在Obsidian中激活此插件：
+从 Obsidian v0.9.8 开始，您可以通过以下步骤在 Obsidian 中激活此插件：
 
 - 打开设置 > 第三方插件
 - 确保安全模式处于关闭状态
@@ -938,12 +973,12 @@ markerTag: #Paris
 - 点击安装
 - 安装完成后，关闭社区插件窗口并激活新安装的插件
 
-## 来自GitHub
+## 来自 GitHub
 
-- 从GitHub存储库的Releases部分下载最新版本
-- 从zip文件中提取插件文件夹到您的vault的插件文件夹：`<vault>/.obsidian/plugins/`
-  注意：在某些机器上，`.obsidian`文件夹可能是隐藏的。在MacOS上，您可以按`Command+Shift+Dot`来在Finder中显示该文件夹。
-- 重新加载Obsidian
+- 从 GitHub 存储库的 Releases 部分下载最新版本
+- 从 zip 文件中提取插件文件夹到您的 vault 的插件文件夹：`<vault>/.obsidian/plugins/`
+  注意：在某些机器上，`.obsidian` 文件夹可能是隐藏的。在 MacOS 上，您可以按 `Command+Shift+Dot` 来在 Finder 中显示该文件夹。
+- 重新加载 Obsidian
 - 如果提示安全模式，您可以禁用安全模式并启用插件。
   否则，请前往设置，第三方插件，确保安全模式关闭，并从那里启用插件。
 
@@ -952,15 +987,16 @@ markerTag: #Paris
 # 警告
 
 该插件没有稳定性保证，可能会导致数据丢失的错误。
+
 请确保您有自动备份。
 
-# TTRPG插件
+# TTRPG 插件
 
-如果您正在使用Obsidian来运行/计划TTRPG，您可能会发现我的其他插件很有用：
+如果您正在使用 Obsidian 来运行/计划 TTRPG，您可能会发现我的其他插件很有用：
 
-- [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks/) - 在笔记中创建5e风格的状态块
+- [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks/) - 在笔记中创建 5e 风格的状态块
 - [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) - 在笔记中掷骰子和重新掷骰子
-- [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) - 在Obsidian中查看倡议追踪器
+- [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) - 在 Obsidian 中查看倡议追踪器
 
 
 

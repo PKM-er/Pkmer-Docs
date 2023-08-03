@@ -1,13 +1,13 @@
 ---
-uid: 2023080322151554
-title: Obsidian 插件：【Readme】Book Search
+uid: 20230803231105
+title: Obsidian 插件：Book Search
 tags: ['obsidian插件', 'readme']
 description: 帮助你找书并创建笔记。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232532
 ---
 
 # Obsidian 插件：Book Search
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Book Search
 > - 插件作者：anpigon
 > - 插件说明：帮助你找书并创建笔记。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/anpigon/obsidian-book-search-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-book-search-plugin)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 帮助你找书并创建笔记。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/anpigon/obsidian-book-search-plugin/master/README.md)
-> 
+>
 
 ---
 
@@ -37,11 +35,12 @@ modified: 20230101000000
 
 下面是 [[obsidian-book-search-plugin]] 插件的自述翻译
 
-
-# Obsidian图书搜索插件
+# Obsidian 图书搜索插件
 
 ![GitHub工作流程状态](https://img.shields.io/github/workflow/status/anpigon/obsidian-book-search-plugin/Release%20Obsidian%20plugin?logo=github)
+
 ![GitHub发布（最新的SemVer）](https://img.shields.io/github/v/release/anpigon/obsidian-book-search-plugin?sort=semver)
+
 [![韩语](https://img.shields.io/badge/Language-한국어-blueviolet)](README.ko.md)
 
 轻松创建图书笔记。
@@ -54,13 +53,13 @@ modified: 20230101000000
 
 ### 特点
 
-- 为Google搜索添加了语言选择功能。
-- 可以与[模板插件](https://github.com/SilentVoid13/Templater)一起使用。
-- 为模板启用了[内联脚本](https://github.com/anpigon/obsidian-book-search-plugin#inline-script)。
+- 为 Google 搜索添加了语言选择功能。
+- 可以与 [模板插件](https://github.com/SilentVoid13/Templater) 一起使用。
+- 为模板启用了 [内联脚本](https://github.com/anpigon/obsidian-book-search-plugin#inline-script)。
 
 ## 演示
 
-https://user-images.githubusercontent.com/3969643/184918274-8ad24546-2e01-4288-a855-c8eeb1feca7d.mp4
+<https://user-images.githubusercontent.com/3969643/184918274-8ad24546-2e01-4288-a855-c8eeb1feca7d.mp4>
 
 <br>
 
@@ -68,17 +67,17 @@ https://user-images.githubusercontent.com/3969643/184918274-8ad24546-2e01-4288-a
 
 用于查询图书的信息，可以使用以下方式：
 
-- 书名、作者、出版商或ISBN（10位或13位）进行查询。
+- 书名、作者、出版商或 ISBN（10 位或 13 位）进行查询。
 
-使用Google图书API获取图书信息。
+使用 Google 图书 API 获取图书信息。
 
 <br>
 
 ## 安装方法
 
-点击链接安装Book Search插件：[安装链接](https://obsidian.md/plugins?id=obsidian-book-search-plugin)
+点击链接安装 Book Search 插件：[安装链接](https://obsidian.md/plugins?id=obsidian-book-search-plugin)
 
-或者，在Obsidian社区插件中搜索并安装它。
+或者，在 Obsidian 社区插件中搜索并安装它。
 
 <img width="700" src="https://user-images.githubusercontent.com/3969643/184918934-585375a9-7b25-4905-81c8-5f092ed74991.png">
 
@@ -86,19 +85,19 @@ https://user-images.githubusercontent.com/3969643/184918274-8ad24546-2e01-4288-a
 
 如何使用
 
-### 1. 点击带有丝带图标的按钮，或执行“创建新的笔记本”命令。
+### 1. 点击带有丝带图标的按钮，或执行“创建新的笔记本”命令
 
 <img width="600" src="https://user-images.githubusercontent.com/3969643/161973483-ab007598-e0b8-433f-9697-75ee0ef74195.png">
 
-### 2. 通过关键词搜索图书。
+### 2. 通过关键词搜索图书
 
 <img width="600" src="https://user-images.githubusercontent.com/3969643/161973979-51f642c9-626a-4015-a7e9-dfdbe6ec2cbc.png">
 
-### 3. 从搜索结果中选择图书。
+### 3. 从搜索结果中选择图书
 
 <img width="600" src="https://user-images.githubusercontent.com/3969643/161974310-13c3b39b-51dc-472f-b787-db64f74caf74.png">
 
-### 4. 哇！一个便签已经创建好了。
+### 4. 哇！一个便签已经创建好了
 
 <img width="600" src="https://user-images.githubusercontent.com/3969643/161974593-1b7bfe69-cb9d-47d7-a43d-1d725295a122.png">
 
@@ -106,16 +105,17 @@ https://user-images.githubusercontent.com/3969643/184918274-8ad24546-2e01-4288-a
 
 如何使用设置
 
-<img width="700"  src="https://user-images.githubusercontent.com/3969643/184919550-68eff0e4-2b02-41bb-8f17-30a5354359a3.png">
+<img width="700" src="https://user-images.githubusercontent.com/3969643/184919550-68eff0e4-2b02-41bb-8f17-30a5354359a3.png">
 
 ### 新文件位置
 
-设置新文件创建的文件夹位置。否则，新文件将在Obsidian根文件夹中创建。
+设置新文件创建的文件夹位置。否则，新文件将在 Obsidian 根文件夹中创建。
 
 ### 新文件名
 
-您可以设置文件名的格式。默认格式为`{{title}} - {{author}}`。
-您可以使用`{{DATE}}`或`{{DATE:YYYYMMDD}}`来设置唯一的文件名。
+您可以设置文件名的格式。默认格式为 `{{title}} - {{author}}`。
+
+您可以使用 `{{DATE}}` 或 `{{DATE:YYYYMMDD}}` 来设置唯一的文件名。
 
 ### 模板文件
 
@@ -123,8 +123,9 @@ https://user-images.githubusercontent.com/3969643/184918274-8ad24546-2e01-4288-a
 
 ### 服务提供商
 
-您可以设置您用于搜索图书的服务。目前只有谷歌和Naver（네이버）可用。
-要使用Naver图书搜索，需要提供clientId和clientSecret。我将在我的博客上解释如何从Naver获取clientId和clientSecret。
+您可以设置您用于搜索图书的服务。目前只有谷歌和 Naver（네이버）可用。
+
+要使用 Naver 图书搜索，需要提供 clientId 和 clientSecret。我将在我的博客上解释如何从 Naver 获取 clientId 和 clientSecret。
 
 ### <strike>(已弃用) 插入到前置内容中的文本</strike>
 
@@ -132,7 +133,7 @@ https://user-images.githubusercontent.com/3969643/184918274-8ad24546-2e01-4288-a
 
 ### <strike>(已弃用) 插入到内容中的文本</strike>
 
-<strike>您可以向[Dataview内联元数据](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/#pages)的内容中添加文本。</strike> 请使用下面描述的模板文件。
+<strike>您可以向 [Dataview内联元数据](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/#pages) 的内容中添加文本。</strike> 请使用下面描述的模板文件。
 
 <br>
 
@@ -220,17 +221,21 @@ SORT status DESC, file.ctime ASC
 #### 打印出一个书籍对象：
 
 ````
+
 ```json
 <%=book%>
 ```
+
 ````
 
 或者
 
 ````
+
 ```json
 <%=JSON.stringify(book, null, 2)%>
 ```
+
 ````
 
 #### 当你想要列出或链接作者时：

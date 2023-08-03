@@ -1,13 +1,13 @@
 ---
-uid: 2023080322161052
-title: Obsidian 插件：【Readme】Collapse All
+uid: 20230803231105
+title: Obsidian 插件：Collapse All
 tags: ['导航工具', '文件管理', 'obsidian插件', 'readme']
 description: 这个插件添加了一个按钮来折叠文件资源管理器中的所有文件夹。官方已经有类似的功能
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232528
 ---
 
 # Obsidian 插件：Collapse All
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Collapse All
 > - 插件作者：OfficerHalf
 > - 插件说明：这个插件添加了一个按钮来折叠文件资源管理器中的所有文件夹。官方已经有类似的功能
-> - 插件分类：['导航工具', '文件管理', 'obsidian插件', 'readme']
+> - 插件分类：[' 导航工具 ', ' 文件管理 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/OfficerHalf/obsidian-collapse-all)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-collapse-all-plugin)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Collapse All](https://cdn.pkmer.cn/covers/obsidian-collapse-all-plugin_new.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/OfficerHalf/obsidian-collapse-all/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,9 @@ modified: 20230101000000
 
 下面是 [[obsidian-collapse-all-plugin]] 插件的自述翻译
 
-
 注意：此插件不再需要
 
-Obsidian自v0.16.0版本起，原生支持文件资源管理器和标签窗格的全部折叠按钮。
+Obsidian 自 v0.16.0 版本起，原生支持文件资源管理器和标签窗格的全部折叠按钮。
 
 ## 折叠所有 Obsidian 插件
 
@@ -66,7 +65,4 @@ Obsidian自v0.16.0版本起，原生支持文件资源管理器和标签窗格�
 
 ## 更新日志
 
-请参阅[更新日志](CHANGELOG.md)。
-
-
-
+请参阅 [更新日志](CHANGELOG.md)。

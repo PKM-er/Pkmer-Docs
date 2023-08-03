@@ -1,13 +1,13 @@
 ---
-uid: 2023080322261122
-title: Obsidian 插件：【Readme】Rofi Helper
+uid: 20230803231105
+title: Obsidian 插件：Rofi Helper
 tags: ['obsidian插件', 'readme']
 description: 为了在Rofi中在打开的黑曜石标签之间切换，将叶子ID参数添加到URI协议中。包含了一个示例的Rofi脚本。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232427
 ---
 
 # Obsidian 插件：Rofi Helper
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Rofi Helper
 > - 插件作者：digitalsignalperson
-> - 插件说明：为了在Rofi中在打开的黑曜石标签之间切换，将叶子ID参数添加到URI协议中。包含了一个示例的Rofi脚本。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：为了在 Rofi 中在打开的黑曜石标签之间切换，将叶子 ID 参数添加到 URI 协议中。包含了一个示例的 Rofi 脚本。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/digitalsignalperson/obsidian-rofi-helper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?rofi-helper)
 
 ## 概述
 
-为了在Rofi中在打开的黑曜石标签之间切换，将叶子ID参数添加到URI协议中。包含了一个示例的Rofi脚本。
+为了在 Rofi 中在打开的黑曜石标签之间切换，将叶子 ID 参数添加到 URI 协议中。包含了一个示例的 Rofi 脚本。
 
 ![Rofi Helper](https://cdn.pkmer.cn/covers/rofi-helper.jpeg!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/digitalsignalperson/obsidian-rofi-helper/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +37,11 @@ modified: 20230101000000
 
 下面是 [[rofi-helper]] 插件的自述翻译
 
+# Rofi 助手
 
-# Rofi助手
+该插件为 URI 协议添加了一个叶子 id 参数，用于在 Rofi 中在打开的 Obsidian 标签之间切换。示例 Rofi 脚本已包含在内。
 
-该插件为URI协议添加了一个叶子id参数，用于在Rofi中在打开的Obsidian标签之间切换。示例Rofi脚本已包含在内。
-
-该插件为id和filename添加了URI参数。可以像下面这样使用它们：
+该插件为 id 和 filename 添加了 URI 参数。可以像下面这样使用它们：
 
 ```
 obsidian://switch?vault=myvault&id=43ee39f0a20b097a
@@ -50,7 +49,7 @@ obsidian://switch?vault=myvault&id=43ee39f0a20b097a
 obsidian://switch?vault=myvault&filename=Today.md
 ```
 
-示例脚本`obsidian-rofi.py`已包含在内。可以与[Rofi](https://github.com/davatorium/rofi)一起使用，如以下示例所示：
+示例脚本 `obsidian-rofi.py` 已包含在内。可以与 [Rofi](https://github.com/davatorium/rofi) 一起使用，如以下示例所示：
 
 ```
 
@@ -68,14 +67,13 @@ rofi -modes "window,obsidian" -show window -show-icons -modi "window,obsidian:./
 
 ![屏幕截图](example.jpg)
 
-
-这仅在Linux上进行了测试。
+这仅在 Linux 上进行了测试。
 
 # 工作原理
 
-`workspace.json`文件包含了所有打开的窗口、标签和面板的嵌套结构。有时候你可能会在多个位置打开同一个文件。幸运的是，每个“叶子”关联的“id”是唯一的。
+`workspace.json` 文件包含了所有打开的窗口、标签和面板的嵌套结构。有时候你可能会在多个位置打开同一个文件。幸运的是，每个“叶子”关联的“id”是唯一的。
 
-下面是一个来自workspace.json的片段：
+下面是一个来自 workspace.json 的片段：
 
 ```json
 {
@@ -101,17 +99,17 @@ rofi -modes "window,obsidian" -show window -show-icons -modi "window,obsidian:./
           },
 ```
 
-我们在第一个窗口的第一个标签中有一个名为"Today.md"的文件，它的唯一叶子id是"43ee39f0a20b097a"。
+我们在第一个窗口的第一个标签中有一个名为 "Today.md" 的文件，它的唯一叶子 id 是 "43ee39f0a20b097a"。
 
-对于名为"myvault"的vault，你可以使用以下URI命令切换到这个标签：
+对于名为 "myvault" 的 vault，你可以使用以下 URI 命令切换到这个标签：
 
 ```
 obsidian://switch?vault=myvault&id=43ee39f0a20b097a
 ```
 
-`obsidian-rofi.py` Python脚本将生成Rofi使用的选项，包括ROFI_INFO数据，如`\0info\x1f43ee39f0a20b097a`。
+`obsidian-rofi.py` Python 脚本将生成 Rofi 使用的选项，包括 ROFI_INFO 数据，如 `\0info\x1f43ee39f0a20b097a`。
 
-提供给Rofi的示例数据：
+提供给 Rofi 的示例数据：
 
 ```
 Today.md                          窗口 #1   标签 #1 \0info\x1f43ee39f0a20b097a
@@ -161,17 +159,19 @@ AddressTrickPriority.md           窗口 #8   标签 #1 \0info\x1fa2e8678d3caef5
 BrokenGunAlbum.md                 窗口 #8   标签 #2 \0info\x1f711a19246c26c83a
 ```
 
-在选择完成后，Rofi将退出，并调用xdg-open命令执行URI命令。
+在选择完成后，Rofi 将退出，并调用 xdg-open 命令执行 URI 命令。
 
-# 使脚本与rofi配合工作
+# 使脚本与 rofi 配合工作
 
-在包含的示例脚本`obsidian-rofi.py`中，使用您的个人设置来设置这两个变量：
+在包含的示例脚本 `obsidian-rofi.py` 中，使用您的个人设置来设置这两个变量：
+
 ```
 vault_name = 'my-vault'
 vault_path = '/home/my-name/my-files/my-vault'
 ```
 
-如果您在本地运行此脚本`python obsidian-rofi.py`，它应该打印出一个类似前一节中所示的列表，如下所示：
+如果您在本地运行此脚本 `python obsidian-rofi.py`，它应该打印出一个类似前一节中所示的列表，如下所示：
+
 ```
 Today.md                          窗口＃1   标签＃1 \0info\x1f43ee39f0a20b097a
 BalanceQuoteStumble.md            窗口＃1   标签＃2 \0info\x1fabc2e775384ee4bd
@@ -181,11 +181,8 @@ NuclearBachelorDolphin.md         窗口＃1   标签＃5 \0info\x1ff7382c4f782e
 ...
 ```
 
-接下来，您应该运行`chmod +x obsidian-rofi.py`，因为它将被rofi调用为脚本。
+接下来，您应该运行 `chmod +x obsidian-rofi.py`，因为它将被 rofi 调用为脚本。
 
-通过运行`./obsidian-rofi.py`确认您从程序中获得相同的输出。您可能需要调整`#!/bin/python`的shebang。
+通过运行 `./obsidian-rofi.py` 确认您从程序中获得相同的输出。您可能需要调整 `#!/bin/python` 的 shebang。
 
-最后，前面的部分提供了一些不同的rofi命令示例。确保python脚本位于您的路径中的一个文件夹中（检查`echo $PATH`），以使它们正常工作。
-
-
-
+最后，前面的部分提供了一些不同的 rofi 命令示例。确保 python 脚本位于您的路径中的一个文件夹中（检查 `echo $PATH`），以使它们正常工作。

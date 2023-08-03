@@ -1,13 +1,13 @@
 ---
-uid: 2023080322180777
-title: Obsidian 插件：【Readme】Fantasy Statblocks
+uid: 20230803231105
+title: Obsidian 插件：Fantasy Statblocks
 tags: ['界面相关', '样式工具', '游戏', 'obsidian插件', 'readme']
 description: 在Obsidian 中创建TTRPG风格的模块，TTPRG可以理解做桌面角色扮演游戏，比如著名的《龙与地下城》
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232538
 ---
 
 # Obsidian 插件：Fantasy Statblocks
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Fantasy Statblocks
 > - 插件作者：Jeremy Valentine
-> - 插件说明：在Obsidian 中创建TTRPG风格的模块，TTPRG可以理解做桌面角色扮演游戏，比如著名的《龙与地下城》
-> - 插件分类：['界面相关', '样式工具', '游戏', 'obsidian插件', 'readme']
+> - 插件说明：在 Obsidian 中创建 TTRPG 风格的模块，TTPRG 可以理解做桌面角色扮演游戏，比如著名的《龙与地下城》
+> - 插件分类：[' 界面相关 ', ' 样式工具 ', ' 游戏 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/javalent/fantasy-statblocks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-5e-statblocks)
 
 ## 概述
 
-在Obsidian 中创建TTRPG风格的模块，TTPRG可以理解做桌面角色扮演游戏，比如著名的《龙与地下城》
+在 Obsidian 中创建 TTRPG 风格的模块，TTPRG 可以理解做桌面角色扮演游戏，比如著名的《龙与地下城》
 
 ![Fantasy Statblocks](https://cdn.pkmer.cn/covers/obsidian-5e-statblocks.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/fantasy-statblocks/main/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +37,11 @@ modified: 20230101000000
 
 下面是 [[obsidian-5e-statblocks]] 插件的自述翻译
 
-
 # 幻想统计数据块
 
+> 警告：我们正在所有 Javalent 存储库中开始将 Readme 转换为 [Javalent的插件文档](https://plugins.javalent.com/home)。请收藏此链接并首先查看它，然后再参考此 Readme。
 
-> 警告：我们正在所有Javalent存储库中开始将Readme转换为[Javalent的插件文档](https://plugins.javalent.com/home)。请收藏此链接并首先查看它，然后再参考此Readme。
-
-
-在[Obsidian](https://obsidian.md/)中创建、管理和查看幻想怪物手册。
+在 [Obsidian](https://obsidian.md/) 中创建、管理和查看幻想怪物手册。
 
 <img src="https://raw.githubusercontent.com/valentine195/obsidian-5e-statblocks/beta/images/example.PNG">
 
@@ -54,17 +51,17 @@ modified: 20230101000000
 
 所有字段都是可选的 - 如果未提供，该状态块将不会呈现这些字段。
 
-`monster`字段可以与其他字段组合以覆盖该字段。参见[覆盖字段](#覆盖字段)。
+`monster` 字段可以与其他字段组合以覆盖该字段。参见 [覆盖字段](#覆盖字段)。
 
-施法特性需要一个特殊字段（`spells`）- 请参见[施法](#施法)。
+施法特性需要一个特殊字段（`spells`）- 请参见 [施法](#施法)。
 
-> **:warning: YAML语法**
+> **:warning: YAML 语法**
 >
-> 请注意，状态块中提供的参数被解析为[yaml](https://yaml.org/spec/1.2.2/)。
+> 请注意，状态块中提供的参数被解析为 [yaml](https://yaml.org/spec/1.2.2/)。
 >
-> YAML非常强大，但您必须注意语法，否则可能会出现错误！
+> YAML 非常强大，但您必须注意语法，否则可能会出现错误！
 >
-> 常见错误包括：不在带有`:`或`*`的参数周围加上引号（例如**近战武器攻击：**），以及缩进不正确。
+> 常见错误包括：不在带有 `:` 或 `*` 的参数周围加上引号（例如**近战武器攻击：**），以及缩进不正确。
 
 ````
 ```statblock
@@ -125,12 +122,12 @@ reactions:
 ```
 ````
 
-使用[骰子掷子器](https://github.com/valentine195/obsidian-dice-roller)
+使用 [骰子掷子器](https://github.com/valentine195/obsidian-dice-roller)
 
 您可以将骰子掷子器插件集成到您的状态块中，这将允许您在状态块内进行掷骰子。此集成需要以下步骤：
 
-1. 安装并启用[骰子掷子器](https://github.com/valentine195/obsidian-dice-roller)插件。
-2. 在设置中启用[集成骰子掷子器](#integrate-dice-roller)，或在笔记的状态块中添加`dice: true`参数。
+1. 安装并启用 [骰子掷子器](https://github.com/valentine195/obsidian-dice-roller) 插件。
+2. 在设置中启用 [集成骰子掷子器](#integrate-dice-roller)，或在笔记的状态块中添加 `dice: true` 参数。
 
 然后，插件将解析常见类型的骰子掷子的怪物属性。插件将为以下字符串创建骰子掷子器：
 
@@ -138,23 +135,23 @@ reactions:
 2. 伤害/治疗（`19 (2d10 + 8)`）
 3. 豁免（`Strength +5`）
 
-> 想要更改如何添加骰子掷子器吗？在设置中创建[自定义布局](#layouts)。
+> 想要更改如何添加骰子掷子器吗？在设置中创建 [自定义布局](#layouts)。
 
 ### 渲染的骰子
 
-如果打开了[渲染骰子结果](#render-dice-rolls)设置或在属性块中添加了`render: true`参数，属性块中的骰子投掷结果可以在屏幕上滚动3D骰子。
+如果打开了 [渲染骰子结果](#render-dice-rolls) 设置或在属性块中添加了 `render: true` 参数，属性块中的骰子投掷结果可以在屏幕上滚动 3D 骰子。
 
 <img src="https://raw.githubusercontent.com/valentine195/obsidian-5e-statblocks/beta/images/render.gif">
 
 ## 图片
 
-可以使用`image`参数将图片添加到状态块中。这应该是一个指向存储在您的vault中某个位置的图片的wikilink。
+可以使用 `image` 参数将图片添加到状态块中。这应该是一个指向存储在您的 vault 中某个位置的图片的 wikilink。
 
-图片将被放置在名称旁边，居中于一个75px的圆内。
+图片将被放置在名称旁边，居中于一个 75px 的圆内。
 
 ## 覆盖字段
 
-`monster`字段可以与其他字段结合使用，以覆盖指定SRD怪物的字段。例如：
+`monster` 字段可以与其他字段结合使用，以覆盖指定 SRD 怪物的字段。例如：
 
 ````
 ```statblock
@@ -181,9 +178,9 @@ traits+:
 
 ## 扩展
 
-`extends`键可以用于扩展现有的生物，类似于在覆盖字段中显示的`monster`键。不同之处在于生成的怪物不会合并；它保持与基础生物的链接。这允许您创建一个命名版本的哥布林，例如；对基础哥布林的任何更改都会传播到扩展中。
+`extends` 键可以用于扩展现有的生物，类似于在覆盖字段中显示的 `monster` 键。不同之处在于生成的怪物不会合并；它保持与基础生物的链接。这允许您创建一个命名版本的哥布林，例如；对基础哥布林的任何更改都会传播到扩展中。
 
-该键支持单个生物名称或生物数组。后面指定的生物字段将优先，而在statblock中直接定义的字段将最终优先。
+该键支持单个生物名称或生物数组。后面指定的生物字段将优先，而在 statblock 中直接定义的字段将最终优先。
 
 该字段也是完全递归的；扩展一个扩展了另一个生物的生物将会一直级联这些扩展。
 
@@ -217,7 +214,7 @@ traits:
 
 ## 施法
 
-施法特性需要使用以下语法的特殊`spells`字段：
+施法特性需要使用以下语法的特殊 `spells` 字段：
 
 > **请注意：**
 >
@@ -243,7 +240,7 @@ spells:
 
 ## 幻想时代
 
-使用幻想时代插件的用户可以使用`fage_stats`来设置九个属性。
+使用幻想时代插件的用户可以使用 `fage_stats` 来设置九个属性。
 
 ### 完整示例
 
@@ -320,7 +317,7 @@ spells:
 ```
 ````
 
-对于Fate Core，可以使用相同的布局来处理任何事物 - 实体、派系、地点、物品等，只需要名称和方面即可。要添加（或更改）自定义压力轨迹，请复制布局并编辑“stress”块。
+对于 Fate Core，可以使用相同的布局来处理任何事物 - 实体、派系、地点、物品等，只需要名称和方面即可。要添加（或更改）自定义压力轨迹，请复制布局并编辑“stress”块。
 
 ### 完整示例
 
@@ -377,11 +374,11 @@ spells:
 
 <img src="https://i.imgur.com/9u308Z9.png">
 
-## 第13纪元
+## 第 13 纪元
 
-您可以使用“基本第13纪元怪物布局”为**第13纪元**创建一个统计块。大多数块都是有条件的，这意味着除非将其添加到YAML中，否则不会显示“特征”、“更恶劣的特殊能力”和“触发动作”块。此外，您可以编写嵌套特征以描述对各种自然点数的影响的攻击/动作。
+您可以使用“基本第 13 纪元怪物布局”为**第 13 纪元**创建一个统计块。大多数块都是有条件的，这意味着除非将其添加到 YAML 中，否则不会显示“特征”、“更恶劣的特殊能力”和“触发动作”块。此外，您可以编写嵌套特征以描述对各种自然点数的影响的攻击/动作。
 
-在此处查看带有空字段的完整统计块[here](./src/layouts/13th%20age/monster/base-monster-statblock.md)。
+在此处查看带有空字段的完整统计块 [here](./src/layouts/13th%20age/monster/base-monster-statblock.md)。
 
 ### 完整示例
 
@@ -450,60 +447,63 @@ description: "<h2>图标</h2><p>据说受原始巫师国王训练的巫师将自
 
 > **:pencil: 注意！**
 >
-> 如果设置了`columns`，插件将始终尝试将统计块分割为指定的列数，而不考虑高度。
+> 如果设置了 `columns`，插件将始终尝试将统计块分割为指定的列数，而不考虑高度。
 >
-> 它仍然会遵守笔记的宽度，除非设置了`forceColumns`。
+> 它仍然会遵守笔记的宽度，除非设置了 `forceColumns`。
 
 # 野兽图鉴
 
-statblock插件维护了一系列可以在statblocks中引用并在其他插件中使用的生物，比如[倡议追踪器](https://github.com/valentine195/obsidian-initiative-tracker)。
+statblock 插件维护了一系列可以在 statblocks 中引用并在其他插件中使用的生物，比如 [倡议追踪器](https://github.com/valentine195/obsidian-initiative-tracker)。
 
 您可以通过几种方式将自定义怪物添加到这个怪物图鉴中。
 
 在笔记中创建生物
 
 #### 手动保存生物
-自定义生物可以通过在笔记中创建一个自定义怪物的状态块代码块来保存，如[使用部分](#usage)所述。
 
-您可以完全定义自己的自定义怪物，也可以使用现有的怪物在您的怪物手册中，并[覆盖字段](#overriding-fields)。
+自定义生物可以通过在笔记中创建一个自定义怪物的状态块代码块来保存，如 [使用部分](#usage) 所述。
+
+您可以完全定义自己的自定义怪物，也可以使用现有的怪物在您的怪物手册中，并 [覆盖字段](#overriding-fields)。
 
 当状态块被渲染后，您可以通过点击右上角的菜单图标并选择“保存到怪物手册”来保存生物。
 
 <img src="https://raw.githubusercontent.com/valentine195/obsidian-5e-statblocks/beta/images/save.png">
 
-#### 在Frontmatter中创建生物
-由于插件使用YAML语法，使用statblock代码块创建的statblock在frontmatter中是有效的。
+#### 在 Frontmatter 中创建生物
 
-如果在frontmatter中给出了`statblock: true`参数的笔记，并且在[设置](#settings)中打开了[解析笔记的Frontmatter](#parse-frontmatter-for-creatures)选项，或者使用了"解析笔记的Frontmatter"命令，那么它的frontmatter将被解析为自定义怪物。
+由于插件使用 YAML 语法，使用 statblock 代码块创建的 statblock 在 frontmatter 中是有效的。
 
-**该笔记的frontmatter还必须有一个`name`参数来保存该生物。其他字段都是可选的。**
+如果在 frontmatter 中给出了 `statblock: true` 参数的笔记，并且在 [设置](#settings) 中打开了 [解析笔记的Frontmatter](#parse-frontmatter-for-creatures) 选项，或者使用了 " 解析笔记的 Frontmatter" 命令，那么它的 frontmatter 将被解析为自定义怪物。
+
+**该笔记的 frontmatter 还必须有一个 `name` 参数来保存该生物。其他字段都是可选的。**
 
 一旦在笔记中找到了该生物，它将被添加到怪物手册中，并与笔记内容同步。
 
-如果移除了statblock字段或将其设置为false，或者删除了该笔记，该生物将从怪物手册中移除。
+如果移除了 statblock 字段或将其设置为 false，或者删除了该笔记，该生物将从怪物手册中移除。
 
 #### 自动化内联生物注册
-如果前置信息指定了 `statblock: inline` 并且[解析笔记中的前置信息](#解析生物的前置信息)，那么笔记中的第一个 statblock 将自动在插件中注册，就像你将其 YAML 复制到前置信息中一样。
+
+如果前置信息指定了 `statblock: inline` 并且 [解析笔记中的前置信息](#解析生物的前置信息)，那么笔记中的第一个 statblock 将自动在插件中注册，就像你将其 YAML 复制到前置信息中一样。
 
 ### 在设置中创建生物
 
-可以通过单击“添加生物”按钮直接在设置中的[自制生物](#homebrew-creatures)部分创建生物。
+可以通过单击“添加生物”按钮直接在设置中的 [自制生物](#homebrew-creatures) 部分创建生物。
 
-可以使用上面显示的YAML语法或JSON来创建生物。
+可以使用上面显示的 YAML 语法或 JSON 来创建生物。
 
 ### 导入生物
 
-可以从各种常见来源将生物导入到[设置](#import-creatures)中的魔兽图鉴中。
+可以从各种常见来源将生物导入到 [设置](#import-creatures) 中的魔兽图鉴中。
 
 **:warning: 请只导入您拥有并具有合法访问权限的内容。**
 
-此外，生物还可以作为纯粹的JSON导入。
+此外，生物还可以作为纯粹的 JSON 导入。
 
 访问图鉴
 
-您的图鉴存储在插件中，并且可以在可以运行JavaScript的插件中以编程方式访问，例如[Dataview](https://github.com/blacksmithgu/obsidian-dataview)、[Templater](https://github.com/SilentVoid13/Templater)或[CustomJS](https://github.com/samlewis0602/obsidian-custom-js)。
+您的图鉴存储在插件中，并且可以在可以运行 JavaScript 的插件中以编程方式访问，例如 [Dataview](https://github.com/blacksmithgu/obsidian-dataview)、[Templater](https://github.com/SilentVoid13/Templater) 或 [CustomJS](https://github.com/samlewis0602/obsidian-custom-js)。
 
-只读的图鉴副本可在`window`对象上使用，并可以在您的脚本中像这样访问：
+只读的图鉴副本可在 `window` 对象上使用，并可以在您的脚本中像这样访问：
 
 ```js
 const bestiary = app.plugins.getPlugin("obsidian-5e-statblocks").bestiary;
@@ -511,9 +511,9 @@ const bestiary = app.plugins.getPlugin("obsidian-5e-statblocks").bestiary;
 const bestiary = window.bestiary;
 ```
 
-这将为您提供一个只读的JavaScript [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)。
+这将为您提供一个只读的 JavaScript [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)。
 
-生物按名称存储在图鉴中-您可以像这样从图鉴中检索生物：
+生物按名称存储在图鉴中 - 您可以像这样从图鉴中检索生物：
 
 ```js
 const ancient_black_dragon = bestiary.get("Ancient Black Dragon");
@@ -525,23 +525,23 @@ const ancient_black_dragon = bestiary.get("Ancient Black Dragon");
 const creatures = bestiary.values();
 ```
 
-自动生成的状态块可以使用[CSS片段](https://help.obsidian.md/How+to/Add+custom+styles#Use+Themes+and+or+CSS+snippets)进行自定义。
+自动生成的状态块可以使用 [CSS片段](https://help.obsidian.md/How+to/Add+custom+styles#Use+Themes+and+or+CSS+snippets) 进行自定义。
 
-使用`.statblock` CSS类可以在CSS中定位渲染的statblock。
+使用 `.statblock` CSS 类可以在 CSS 中定位渲染的 statblock。
 
-此外，如果您正在使用[布局](#layouts)，则布局名称的slugified版本将添加到statblock元素中。
+此外，如果您正在使用 [布局](#layouts)，则布局名称的 slugified 版本将添加到 statblock 元素中。
 
-例如，默认情况下，"Basic 5e Layout"将添加到statblock容器中，类名为`.basic-5e-layout`。
+例如，默认情况下，"Basic 5e Layout" 将添加到 statblock 容器中，类名为 `.basic-5e-layout`。
 
 ### 针对特定怪物进行定位
 
-与布局一样，怪物名称会被转换为slug格式，并作为类添加到statblock容器中。
+与布局一样，怪物名称会被转换为 slug 格式，并作为类添加到 statblock 容器中。
 
-例如，渲染一只古老黑龙的statblock将会获得`.ancient-black-dragon`类。
+例如，渲染一只古老黑龙的 statblock 将会获得 `.ancient-black-dragon` 类。
 
 ## 颜色
 
-该插件创建并使用4个CSS变量来确定statblocks的颜色。
+该插件创建并使用 4 个 CSS 变量来确定 statblocks 的颜色。
 
 ```css
 :root {
@@ -552,15 +552,15 @@ const creatures = bestiary.values();
 }
 ```
 
-这些可以在全局范围内被覆盖（在`:root`元素上）以全局地改变默认颜色，或者直接应用于statblock容器本身以[针对特定的statblocks](#targeting-a-statblock)。
+这些可以在全局范围内被覆盖（在 `:root` 元素上）以全局地改变默认颜色，或者直接应用于 statblock 容器本身以 [针对特定的statblocks](#targeting-a-statblock)。
 
 # 布局
 
-从Fantasy Statblocks v2.0.0开始，可以在设置中创建自定义布局。基本的5e布局将始终存在，但插件使用的默认布局可以更改。
+从 Fantasy Statblocks v2.0.0 开始，可以在设置中创建自定义布局。基本的 5e 布局将始终存在，但插件使用的默认布局可以更改。
 
 使用布局
 
-除非在statblock参数中指定了布局，否则statblock将使用在设置中指定的默认布局：
+除非在 statblock 参数中指定了布局，否则 statblock 将使用在设置中指定的默认布局：
 
 ````
 ```statblock
@@ -573,7 +573,7 @@ layout: My Custom Layout
 
 通过设置可以创建新的布局，可以通过点击“新建布局”按钮或复制现有布局并点击“编辑”按钮来进行操作。
 
-这将打开布局创建器，在布局中可以添加和管理[**布局块**](#blocks)。
+这将打开布局创建器，在布局中可以添加和管理 [**布局块**](#blocks)。
 
 ### 名称
 
@@ -581,7 +581,7 @@ layout: My Custom Layout
 
 ### 区块
 
-Statblock布局由多个区块组成。有几种类型的区块，每个区块可以与怪物的**属性**相关联。
+Statblock 布局由多个区块组成。有几种类型的区块，每个区块可以与怪物的**属性**相关联。
 
 可以通过点击“添加区块”按钮将区块添加到布局中，然后可以选择区块的类型。一旦区块被添加到布局中，可以通过点击“编辑区块”按钮来编辑它，当鼠标悬停在区块上时，该按钮会出现；也可以通过点击“删除区块”按钮来删除它。
 
@@ -595,7 +595,7 @@ Statblock布局由多个区块组成。有几种类型的区块，每个区块�
 
 #### 块属性
 
-除了[group](#group-blocks)和[inline](#inline-blocks)之外，所有块都将具有以下属性字段：
+除了 [group](#group-blocks) 和 [inline](#inline-blocks) 之外，所有块都将具有以下属性字段：
 
 | 属性                  | 描述                                                                                     |
 | --------------------- | ---------------------------------------------------------------------------------------- |
@@ -605,14 +605,14 @@ Statblock布局由多个区块组成。有几种类型的区块，每个区块�
 | Has Rule              | 在属性后将显示一条水平线。                                                             |
 | Parse for Dice\*      | 插件将尝试从块中解析常见的骰子投掷字符串。                                               |
 | Link Dice to Property | 布局将使用提供的属性生成骰子投掷器。                                                     |
-| Dice Callback\*†      | 可以提供JavaScript代码来确定如何解析骰子的字符串。                                       |
+| Dice Callback\*†      | 可以提供 JavaScript 代码来确定如何解析骰子的字符串。                                       |
 
 <sup>\* 需要插件。</sup><br/>
 <sup>† 高级选项。</sup>
 
 特定的块类型可能具有其他属性字段。
 
-此外，块还有“高级选项”。高级选项允许您提供JavaScript回调来解析怪物属性，并应返回字符串。
+此外，块还有“高级选项”。高级选项允许您提供 JavaScript 回调来解析怪物属性，并应返回字符串。
 
 #### 分组块
 
@@ -624,13 +624,13 @@ Statblock布局由多个区块组成。有几种类型的区块，每个区块�
 
 #### 标题块
 
-标题块将以较大的字体呈现文本（例如基本5e布局的名称）。
+标题块将以较大的字体呈现文本（例如基本 5e 布局的名称）。
 
 > 属性类型必需：标题块应指向一个字符串类型的怪物属性。
 
 #### 子标题块
 
-子标题块用于较小的属性，例如基本5e布局中的怪物类型。
+子标题块用于较小的属性，例如基本 5e 布局中的怪物类型。
 
 子标题块允许将多个怪物属性与其关联。
 
@@ -638,7 +638,7 @@ Statblock布局由多个区块组成。有几种类型的区块，每个区块�
 
 #### 图像块
 
-如果链接属性是指向图像的链接，图像块将显示该图像。该链接应该是指向存储库中图像的Obsidian内部链接。也可以使用指向外部网站的链接，但可能会遇到隐私设置的问题。
+如果链接属性是指向图像的链接，图像块将显示该图像。该链接应该是指向存储库中图像的 Obsidian 内部链接。也可以使用指向外部网站的链接，但可能会遇到隐私设置的问题。
 
 > 属性类型必需：图像块应该指向一个怪物属性，该属性将是一个字符串。
 
@@ -650,7 +650,7 @@ Statblock布局由多个区块组成。有几种类型的区块，每个区块�
 
 属性块还有一个额外的高级选项，可以提供一个回调函数来解析属性并将其用作字段的值。回调函数将接收怪物对象和插件作为参数。
 
-例如，基本的5e布局的熟练加值属性使用此选项来确定其属性值：
+例如，基本的 5e 布局的熟练加值属性使用此选项来确定其属性值：
 
 ```js
 if ("cr" in monster && monster.cr in plugin.CR) {
@@ -675,13 +675,13 @@ saves:
 
 #### 法术块
 
-法术块是插件显示法术的方式。有关法术块属性的格式，请参阅[法术部分](#spellcasting)。
+法术块是插件显示法术的方式。有关法术块属性的格式，请参阅 [法术部分](#spellcasting)。
 
 #### 表格块
 
 表格块将显示一个包含标题和值的表格。
 
-表格块有一个额外的块属性叫做“表头”。**布局只会显示有表头的值。** 这意味着如果你的怪物属性有6个值，但你只指定了5个表头，**只有前五个值会被显示。**
+表格块有一个额外的块属性叫做“表头”。**布局只会显示有表头的值。** 这意味着如果你的怪物属性有 6 个值，但你只指定了 5 个表头，**只有前五个值会被显示。**
 
 > 属性类型要求：表格块应该指向一个怪物属性，该属性是一个**数字数组**。
 
@@ -691,15 +691,15 @@ saves:
 
 特征块还有一个额外的可选块属性，称为“节标题”。这将在特征显示之前添加到状态块中。
 
-> 属性类型必需：特征块应指向一个怪物属性，该属性是一个**由[string, string]值组成的数组**。
+> 属性类型必需：特征块应指向一个怪物属性，该属性是一个**由 [string, string] 值组成的数组**。
 
 ### 在布局中使用骰子掷子器
 
 您可以将骰子掷子器插件集成到您的状态块中，从而可以进行掷骰子。此集成需要以下步骤：
 
-1. 安装并启用[Dice Roller](https://github.com/valentine195/obsidian-dice-roller)插件。
-2. 在设置中启用[集成骰子掷子器](#integrate-dice-roller)。
-3. 切换要解析的块的[解析骰子](#block-properties)块属性。
+1. 安装并启用 [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) 插件。
+2. 在设置中启用 [集成骰子掷子器](#integrate-dice-roller)。
+3. 切换要解析的块的 [解析骰子](#block-properties) 块属性。
 
 然后，插件将尝试解析常见的骰子掷子字符串。插件默认解析以下字符串：
 
@@ -707,27 +707,27 @@ saves:
 2. 伤害/治疗（`19 (2d10 + 8)`）
 3. 救援（`力量 +5`）
 
-或者，您可以在[链接骰子到属性](#block-properties)块属性中指定一个怪物的属性作为骰子字符串。这应该是一个骰子字符串，例如`5d10 + 50`。
+或者，您可以在 [链接骰子到属性](#block-properties) 块属性中指定一个怪物的属性作为骰子字符串。这应该是一个骰子字符串，例如 `5d10 + 50`。
 
 #### 骰子回调
 
-如果打开了[高级选项](#show-advanced-options)，您还可以为该块提供一个`骰子回调`函数。这允许您解析属性字符串以获取您想要的_确切_骰子点数。
+如果打开了 [高级选项](#show-advanced-options)，您还可以为该块提供一个 `骰子回调` 函数。这允许您解析属性字符串以获取您想要的 _ 确切 _ 骰子点数。
 
-回调函数将接收`plugin`、`monster`和`property`参数。
+回调函数将接收 `plugin`、`monster` 和 `property` 参数。
 
-布局可以在[此讨论](https://github.com/valentine195/obsidian-5e-statblocks/discussions/41)中共享。
+布局可以在 [此讨论](https://github.com/valentine195/obsidian-5e-statblocks/discussions/41) 中共享。
 
 将布局添加到插件中可以通过打开一个拉取请求来完成。
 
-您应该在[layouts](src/layouts)文件夹中添加一个新的布局文件，并将布局添加到[layout index](src/layouts/index.ts)文件的`DefaultLayout`导出中。
+您应该在 [layouts](src/layouts) 文件夹中添加一个新的布局文件，并将布局添加到 [layout index](src/layouts/index.ts) 文件的 `DefaultLayout` 导出中。
 
 # 设置
 
-启用导出为PNG
+启用导出为 PNG
 
-该插件将添加一个选项，可以将渲染的统计块导出为PNG文件。
+该插件将添加一个选项，可以将渲染的统计块导出为 PNG 文件。
 
-插件将与Dice Roller插件集成，并将骰子投掷结果添加到渲染的统计块中。
+插件将与 Dice Roller 插件集成，并将骰子投掷结果添加到渲染的统计块中。
 
 渲染骰子掷骰将默认使用图形化骰子。
 
@@ -741,9 +741,9 @@ saves:
 
 ### 解析生物的前言
 
-该插件将自动解析在[Bestiary Folder](#bestiary-folder)中指定的文件夹中的生物。
+该插件将自动解析在 [Bestiary Folder](#bestiary-folder) 中指定的文件夹中的生物。
 
-如果关闭了该功能，可以使用"Parse Frontmatter for Creatures"命令来告诉插件解析生物。
+如果关闭了该功能，可以使用 "Parse Frontmatter for Creatures" 命令来告诉插件解析生物。
 
 ### 图鉴文件夹
 
@@ -767,13 +767,13 @@ saves:
 
 一个包含当前怪物手册中所有生物的列表。
 
-可以在此处使用YAML或JSON [创建](#creating-creatures-in-settings) 其他生物。
+可以在此处使用 YAML 或 JSON [创建](#creating-creatures-in-settings) 其他生物。
 
 在此部分可以对生物进行筛选、删除、编辑和预览。
 
 # 安装
 
-从Obsidian v0.9.8开始，您可以通过以下步骤在Obsidian中激活此插件：
+从 Obsidian v0.9.8 开始，您可以通过以下步骤在 Obsidian 中激活此插件：
 
 - 打开设置 > 第三方插件
 - 确保安全模式处于关闭状态
@@ -782,12 +782,12 @@ saves:
 - 点击安装
 - 安装完成后，关闭社区插件窗口并激活新安装的插件
 
-## 来自GitHub
+## 来自 GitHub
 
-- 从GitHub存储库的Releases部分下载最新版本
-- 从zip文件中提取插件文件夹到您的vault的插件文件夹：`<vault>/.obsidian/plugins/`  
-  注意：在某些机器上，`.obsidian`文件夹可能是隐藏的。在MacOS上，您可以按`Command+Shift+Dot`来在Finder中显示该文件夹。
-- 重新加载Obsidian
+- 从 GitHub 存储库的 Releases 部分下载最新版本
+- 从 zip 文件中提取插件文件夹到您的 vault 的插件文件夹：`<vault>/.obsidian/plugins/`
+  注意：在某些机器上，`.obsidian` 文件夹可能是隐藏的。在 MacOS 上，您可以按 `Command+Shift+Dot` 来在 Finder 中显示该文件夹。
+- 重新加载 Obsidian
 - 如果提示安全模式，您可以禁用安全模式并启用插件。
   否则，请前往设置，第三方插件，确保安全模式关闭，并从那里启用插件。
 
@@ -796,30 +796,33 @@ saves:
 # 警告
 
 该插件没有稳定性保证，可能会导致数据丢失的错误。
+
 请确保您有自动备份。
 
-# TTRPG插件
+# TTRPG 插件
 
-如果您正在使用Obsidian来运行/计划TTRPG，您可能会发现我的其他插件很有用：
+如果您正在使用 Obsidian 来运行/计划 TTRPG，您可能会发现我的其他插件很有用：
 
-- [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - 在Obsidian.md笔记中添加交互式地图
-- [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) - 在Obsidian.md中进行内联掷骰
-- [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) - 在Obsidian中跟踪TTRPG的先攻顺序
-
-
+- [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - 在 Obsidian.md 笔记中添加交互式地图
+- [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) - 在 Obsidian.md 中进行内联掷骰
+- [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) - 在 Obsidian 中跟踪 TTRPG 的先攻顺序
 
 归属
 
-第13纪元社区许可披露
-Fantasy Statblocks使用Fire Opal Media Inc.拥有的商标和/或版权，这些商标和/或版权在Fire Opal Media Inc.的第13纪元社区使用政策下使用。
+第 13 纪元社区许可披露
+
+Fantasy Statblocks 使用 Fire Opal Media Inc.拥有的商标和/或版权，这些商标和/或版权在 Fire Opal Media Inc.的第 13 纪元社区使用政策下使用。
+
 我们被明确禁止向您收费以使用或访问此内容。
-Fantasy Statblocks未经Fire Opal Media Inc.的出版、认可或特别批准。
 
-### PF2E社区使用披露
-Fantasy Statblocks使用Paizo Inc.拥有的商标和/或版权，根据Paizo的社区使用政策(paizo.com/communityuse)使用。
+Fantasy Statblocks 未经 Fire Opal Media Inc.的出版、认可或特别批准。
+
+### PF2E 社区使用披露
+
+Fantasy Statblocks 使用 Paizo Inc.拥有的商标和/或版权，根据 Paizo 的社区使用政策 (paizo.com/communityuse) 使用。
+
 我们被明确禁止向您收费以使用或访问此内容。
-Fantasy Statblocks未经Paizo的出版、认可或特别批准。
-有关Paizo Inc.和Paizo产品的更多信息，请访问paizo.com。
 
+Fantasy Statblocks 未经 Paizo 的出版、认可或特别批准。
 
-
+有关 Paizo Inc.和 Paizo 产品的更多信息，请访问 paizo.com。

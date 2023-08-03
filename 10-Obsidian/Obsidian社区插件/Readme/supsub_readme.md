@@ -1,13 +1,13 @@
 ---
-uid: 2023080322273329
-title: Obsidian 插件：【Readme】SupSub
+uid: 20230803231105
+title: Obsidian 插件：SupSub
 tags: ['obsidian插件', 'readme']
 description: 轻松在您的笔记中设置上标和下标。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232422
 ---
 
 # Obsidian 插件：SupSub
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：SupSub
 > - 插件作者：Wjgoarxiv
 > - 插件说明：轻松在您的笔记中设置上标和下标。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/wjgoarxiv/obsidian-supsub)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?supsub)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 轻松在您的笔记中设置上标和下标。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/wjgoarxiv/obsidian-supsub/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[supsub]] 插件的自述翻译
-
 
 # SupSub
 
@@ -52,11 +49,8 @@ modified: 20230101000000
 
 ## 贡献
 
-欢迎贡献！如果您遇到任何问题或有改进建议，请在GitHub存储库中打开新的问题或提交拉取请求。
+欢迎贡献！如果您遇到任何问题或有改进建议，请在 GitHub 存储库中打开新的问题或提交拉取请求。
 
 ## 许可证
 
-本插件根据[MIT许可证](LICENSE)进行许可。
-
-
-
+本插件根据 [MIT许可证](LICENSE) 进行许可。

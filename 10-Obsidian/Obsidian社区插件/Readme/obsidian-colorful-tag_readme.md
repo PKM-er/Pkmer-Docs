@@ -1,13 +1,13 @@
 ---
-uid: 2023080322161315
-title: Obsidian 插件：【Readme】Colorful Tag
+uid: 20230803231105
+title: Obsidian 插件：Colorful Tag
 tags: ['界面相关', '效率', '美化', 'obsidian插件', 'readme']
 description: 你可以轻松地为标签添加前缀或后缀图标/符号，也可以更改标签的背景或文本颜色，边框样式
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232528
 ---
 
 # Obsidian 插件：Colorful Tag
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Colorful Tag
 > - 插件作者：RieN7
 > - 插件说明：你可以轻松地为标签添加前缀或后缀图标/符号，也可以更改标签的背景或文本颜色，边框样式
-> - 插件分类：['界面相关', '效率', '美化', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', ' 效率 ', ' 美化 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/rien7/obsidian-colorful-tag)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-colorful-tag)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Colorful Tag](https://cdn.pkmer.cn/covers/obsidian-colorful-tag.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/rien7/obsidian-colorful-tag/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-colorful-tag]] 插件的自述翻译
-
 
 # 多彩标签
 
@@ -53,9 +52,10 @@ modified: 20230101000000
 - 为标签详细信息添加默认值
 - 为每个标签添加阴影文本
 
-您可以在标签详细信息的默认值中使用`{{DATE}}`，它将被当前日期替换。
+您可以在标签详细信息的默认值中使用 `{{DATE}}`，它将被当前日期替换。
 
 所有支持的变量包括：
+
 - `{{DATE}}`
 - `{{TIME}}`
 - `{{DATETIME}}`
@@ -66,11 +66,12 @@ modified: 20230101000000
 如何安装
 
 ### 社区插件
-您可以从Obsidian的社区插件页面安装此插件。
 
-在社区插件页面中搜索“Colorful Tag”，或点击[这里](https://obsidian.md/plugins?search=colorful%20tag#)。
+您可以从 Obsidian 的社区插件页面安装此插件。
 
-您现在可以通过[BRAT](https://github.com/TfTHacker/obsidian42-brat)安装此插件。
+在社区插件页面中搜索“Colorful Tag”，或点击 [这里](https://obsidian.md/plugins?search=colorful%20tag#)。
+
+您现在可以通过 [BRAT](https://github.com/TfTHacker/obsidian42-brat) 安装此插件。
 
 这是此插件的存储库：`rien7/obsidian-colorful-tag`
 
@@ -87,13 +88,14 @@ modified: 20230101000000
 您可以使用按标签设置来更改特定标签的设置。
 
 设置列表：
+
 - `前缀`
 - `后缀`
 - `半径`
 - `背景颜色`
 - `文本颜色`
 - `文本大小`
-- `边框`：更改标签的边框。使用有效的CSS值，如`none`，`1px solid #fff`，`1px solid rgb(255, 255, 255)`，`1px solid hsl(0, 0%, 100%)`...
+- `边框`：更改标签的边框。使用有效的 CSS 值，如 `none`，`1px solid #fff`，`1px solid rgb(255, 255, 255)`，`1px solid hsl(0, 0%, 100%)`...
 - `字体粗细`：更改标签的字体粗细。
 - `嵌套标签`：将设置应用于嵌套标签。
 - `移除井号`：移除标签中的井号（“#”）。
@@ -109,9 +111,9 @@ modified: 20230101000000
 
 您可以使用阴影文本为标签添加阴影文本。
 
-您需要在“标签详细设置”中设置模板。注意：模板必须包含`{{TAG}}`。
+您需要在“标签详细设置”中设置模板。注意：模板必须包含 `{{TAG}}`。
 
-例如，您有一个名为`TODO`的标签，其详细信息如下：
+例如，您有一个名为 `TODO` 的标签，其详细信息如下：
 
 ```yaml
 colorful-tag:
@@ -120,7 +122,7 @@ colorful-tag:
       text: colorful tag
 ```
 
-然后，您将`[{{priority}}] {{TAG}} {{text}}`设置为模板，标签将呈现为`[⭐⭐] #TODO colorful tag`。
+然后，您将 `[{{priority}}] {{TAG}} {{text}}` 设置为模板，标签将呈现为 `[⭐⭐] #TODO colorful tag`。
 
 ## 路线图
 
@@ -136,9 +138,8 @@ colorful-tag:
 
 支持我
 
-您的支持将是我改进Colorful Tag的动力。如果您喜欢这个插件，请考虑给我买杯咖啡。谢谢！
-    
+您的支持将是我改进 Colorful Tag 的动力。如果您喜欢这个插件，请考虑给我买杯咖啡。谢谢！
+
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rien7)
-
-
-

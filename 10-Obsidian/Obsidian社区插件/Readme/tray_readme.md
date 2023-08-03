@@ -1,13 +1,13 @@
 ---
-uid: 2023080322284686
-title: Obsidian 插件：【Readme】Tray
+uid: 20230803231105
+title: Obsidian 插件：Tray
 tags: ['obsidian插件', 'readme']
 description: 从系统托盘中运行Obsidian，以实现可自定义的窗口管理和全局快速笔记。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232417
 ---
 
 # Obsidian 插件：Tray
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Tray
 > - 插件作者：dragonwocky
-> - 插件说明：从系统托盘中运行Obsidian，以实现可自定义的窗口管理和全局快速笔记。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：从系统托盘中运行 Obsidian，以实现可自定义的窗口管理和全局快速笔记。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/dragonwocky/obsidian-tray)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tray)
 
 ## 概述
 
-从系统托盘中运行Obsidian，以实现可自定义的窗口管理和全局快速笔记。
+从系统托盘中运行 Obsidian，以实现可自定义的窗口管理和全局快速笔记。
 
 ![Tray](https://cdn.pkmer.cn/covers/tray.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dragonwocky/obsidian-tray/main/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +37,8 @@ modified: 20230101000000
 
 下面是 [[tray]] 插件的自述翻译
 
+**托盘**是一个 [Obsidian](https://obsidian.md/) 插件，可以用于在系统启动时启动应用程序并在后台运行，添加全局热键和托盘菜单，以切换窗口可见性并在操作系统的任何位置创建快速笔记。
 
-**托盘**是一个[Obsidian](https://obsidian.md/)插件，可以用于在系统启动时启动应用程序并在后台运行，添加全局热键和托盘菜单，以切换窗口可见性并在操作系统的任何位置创建快速笔记。
 配置
 
 ### 窗口管理
@@ -62,7 +62,7 @@ modified: 20230101000000
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 | 快速笔记位置           | 新的快速笔记将被放置在这个文件夹中。                                                                                                                                                        |                              |
 | 快速笔记日期格式       | 新的快速笔记将使用这种模式的文件名。格式：[Moment.js格式字符串](https://momentjs.com/docs/#/displaying/format/)                                                                             | `YYYY-MM-DD`                 |
-| 快速笔记热键           | 这个热键在全局范围内注册，即使Obsidian没有键盘焦点也能被检测到。格式：[Electron accelerator](https://www.electronjs.org/docs/latest/api/accelerator)                                      | <kbd>CmdOrCtrl+Shift+Q</kbd> |
+| 快速笔记热键           | 这个热键在全局范围内注册，即使 Obsidian 没有键盘焦点也能被检测到。格式：[Electron accelerator](https://www.electronjs.org/docs/latest/api/accelerator)                                      | <kbd>CmdOrCtrl+Shift+Q</kbd> |
 
 安装
 
@@ -92,7 +92,4 @@ modified: 20230101000000
 
 该插件按原样提供，并且仅供个人使用。它尚未在每个平台上进行测试，并且可能无法与所有未来的更新一起正常工作。如果您注意到某些功能无法按预期工作，请提交错误报告或拉取请求以修复问题。
 
-Obsidian徽标作为系统托盘/菜单栏图标的默认图像与该插件一起分发，旨在在Obsidian内使用。该徽标仍然是Obsidian项目的财产，并不受插件源代码的相同许可证保护。
-
-
-
+Obsidian 徽标作为系统托盘/菜单栏图标的默认图像与该插件一起分发，旨在在 Obsidian 内使用。该徽标仍然是 Obsidian 项目的财产，并不受插件源代码的相同许可证保护。

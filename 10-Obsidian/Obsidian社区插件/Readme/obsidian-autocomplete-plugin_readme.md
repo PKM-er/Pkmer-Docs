@@ -1,13 +1,13 @@
 ---
-uid: 2023080322143774
-title: Obsidian 插件：【Readme】Autocomplete
+uid: 20230803231105
+title: Obsidian 插件：Autocomplete
 tags: ['编辑工具', '自动化', 'obsidian插件', 'readme']
 description: 提供文本自动完成功能，以提高输入速度。此插件已经长期不维护了。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232533
 ---
 
 # Obsidian 插件：Autocomplete
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Autocomplete
 > - 插件作者：Yeboster
 > - 插件说明：提供文本自动完成功能，以提高输入速度。此插件已经长期不维护了。
-> - 插件分类：['编辑工具', '自动化', 'obsidian插件', 'readme']
+> - 插件分类：[' 编辑工具 ', ' 自动化 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Yeboster/autocomplete-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-autocomplete-plugin)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Autocomplete](https://cdn.pkmer.cn/covers/obsidian-autocomplete-plugin.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Yeboster/autocomplete-obsidian/master/README.md)
-> 
+>
 
 ---
 
@@ -37,18 +37,17 @@ modified: 20230101000000
 
 下面是 [[obsidian-autocomplete-plugin]] 插件的自述翻译
 
-
-# Obsidian自动完成插件
+# Obsidian 自动完成插件
 
 该插件提供了一个文本自动完成功能，以提高打字速度。
 
-> ⚠️ 由于我不再使用Obsidian，因此不再维护此插件。
-> 
-> 我可能会在将来更新它，但在那之前，请使用其他插件，如[Obsidian completr](https://github.com/tth05/obsidian-completr)。
+> ⚠️ 由于我不再使用 Obsidian，因此不再维护此插件。
+>
+> 我可能会在将来更新它，但在那之前，请使用其他插件，如 [Obsidian completr](https://github.com/tth05/obsidian-completr)。
 
 ![预览](https://media.giphy.com/media/CFbhjfTLDPnUm45vje/giphy.gif)
 
-> 该插件仍在开发中，如果遇到错误，请在[GitHub问题](https://github.com/Yeboster/autocomplete-obsidian/issues/new/choose)中提供重现步骤。
+> 该插件仍在开发中，如果遇到错误，请在 [GitHub问题](https://github.com/Yeboster/autocomplete-obsidian/issues/new/choose) 中提供重现步骤。
 
 ## 特性
 
@@ -83,7 +82,5 @@ modified: 20230101000000
 ## 贡献
 
 如果您想改进这个插件，欢迎您 ❤️
-在`develop`分支上发起一个拉取请求（因为我们使用[git-flow](https://github.com/nvie/gitflow)）
 
-
-
+在 `develop` 分支上发起一个拉取请求（因为我们使用 [git-flow](https://github.com/nvie/gitflow)）

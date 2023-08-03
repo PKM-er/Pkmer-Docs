@@ -1,13 +1,13 @@
 ---
-uid: 2023080322223258
-title: Obsidian 插件：【Readme】Metronome
+uid: 20230803231105
+title: Obsidian 插件：Metronome
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加互动节拍器。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232502
 ---
 
 # Obsidian 插件：Metronome
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Metronome
 > - 插件作者：Curt Grimes
 > - 插件说明：在您的笔记中添加互动节拍器。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/curtgrimes/obsidian-metronome-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-metronome-plugin)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Metronome](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/curtgrimes/obsidian-metronome-plugin/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-metronome-plugin]] 插件的自述翻译
-
 
 # 黑曜石节拍器 🎵
 
@@ -78,7 +77,7 @@ bpm: 120
 ```
 ````
 
-这将在你的笔记中生成一个可视化的节拍器。默认情况下，它是静音的，但你可以按下取消静音按钮来听到它的点击声（或者更改`muted`选项，使其默认点击声&mdash;有关更多选项，请参见下文）。
+这将在你的笔记中生成一个可视化的节拍器。默认情况下，它是静音的，但你可以按下取消静音按钮来听到它的点击声（或者更改 `muted` 选项，使其默认点击声&mdash; 有关更多选项，请参见下文）。
 
 ![Kiku](images/demo-2.gif)
 
@@ -267,7 +266,7 @@ style: dots
 
 ![](images/demo-style-dots.gif)
 
-### `stopAfter`和`countdown`
+### `stopAfter` 和 `countdown`
 
 您可以在一段时间后停止节拍器：
 
@@ -281,7 +280,7 @@ stopAfter: 12s
 
 ![](images/demo-stop-after.gif)
 
-默认情况下，倒计时按钮会在`stopAfter`持续时间的最后10秒出现，但您可以让它显示更长的时间：
+默认情况下，倒计时按钮会在 `stopAfter` 持续时间的最后 10 秒出现，但您可以让它显示更长的时间：
 
 ````markdown
 ```metronome
@@ -305,7 +304,7 @@ countdown: always
 
 ### 与主题兼容
 
-这个节拍器在Obsidian的明亮或暗黑模式下与社区主题完美兼容。
+这个节拍器在 Obsidian 的明亮或暗黑模式下与社区主题完美兼容。
 
 #### 主题：黑曜石默认（暗色模式）
 
@@ -322,6 +321,3 @@ countdown: always
 #### 主题：[Cecilia May Primary](https://github.com/ceciliamay/obsidianmd-theme-primary)（浅色模式）
 
 ![](images/demo-theme-cecilia-may-primary-light.gif)
-
-
-

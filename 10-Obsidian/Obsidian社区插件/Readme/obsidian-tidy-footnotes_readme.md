@@ -1,13 +1,13 @@
 ---
-uid: 2023080322281799
-title: Obsidian 插件：【Readme】Tidy Footnotes
+uid: 20230803231105
+title: Obsidian 插件：Tidy Footnotes
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 可以将所有注脚都合并到一个地方，也能给注脚重新排序
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232442
 ---
 
 # Obsidian 插件：Tidy Footnotes
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Tidy Footnotes
 > - 插件作者：Charlie Chao
 > - 插件说明：可以将所有注脚都合并到一个地方，也能给注脚重新排序
-> - 插件分类：['文件重构', 'obsidian插件', 'readme']
+> - 插件分类：[' 文件重构 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/charliecm/obsidian-tidy-footnotes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tidy-footnotes)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Tidy Footnotes](https://cdn.pkmer.cn/covers/obsidian-tidy-footnotes.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/charliecm/obsidian-tidy-footnotes/main/README.md)
-> 
+>
 
 ---
 
@@ -37,27 +37,27 @@ modified: 20230101000000
 
 下面是 [[obsidian-tidy-footnotes]] 插件的自述翻译
 
+# Obsidian 整理脚注
 
-# Obsidian整理脚注
-
-在[Obsidian](https://obsidian.md)中添加一个命令，可以整理你的[脚注](https://help.obsidian.md/How+to/Format+your+notes#Footnotes)，使其易于阅读：
+在 [Obsidian](https://obsidian.md) 中添加一个命令，可以整理你的 [脚注](https://help.obsidian.md/How+to/Format+your+notes#Footnotes)，使其易于阅读：
 
 - 将所有脚注定义整合到一个地方，并按出现顺序排序
 - 重新索引编号脚注（例如，`[^1][^4][^2]` 变为 `[^1][^2][^3]`）
 
 ![演示](https://raw.githubusercontent.com/charliecm/obsidian-tidy-footnotes/main/demo.gif)
 
-灵感来自[obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes)插件。
+灵感来自 [obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) 插件。
 
 ## 安装方法
 
-从Obsidian内部：
+从 Obsidian 内部：
+
 1. 进入设置 → **社区插件**。
 2. 禁用**安全模式**。
 3. 点击**浏览**，搜索**Tidy Footnotes**，然后点击**安装**。
 4. 点击切换按钮以启用插件。
 
-对于手动安装，请下载此存储库并将`main.js`和`manifest.json`复制到您的保险库中：`VaultFolder/.obsidian/plugins/tidy-footnotes/`。
+对于手动安装，请下载此存储库并将 `main.js` 和 `manifest.json` 复制到您的保险库中：`VaultFolder/.obsidian/plugins/tidy-footnotes/`。
 
 如何使用
 
@@ -88,9 +88,4 @@ modified: 20230101000000
 
 ## 支持
 
-如果您真的喜欢这个插件并希望支持它的开发，请考虑[给我买杯咖啡](https://www.buymeacoffee.com/charliecm) 🙂 谢谢！
-
-
-
-
-
+如果您真的喜欢这个插件并希望支持它的开发，请考虑 [给我买杯咖啡](https://www.buymeacoffee.com/charliecm) 🙂 谢谢！

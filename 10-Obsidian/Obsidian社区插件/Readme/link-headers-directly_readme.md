@@ -1,13 +1,13 @@
 ---
-uid: 2023080322212783
-title: Obsidian 插件：【Readme】Link Headers Directly
+uid: 20230803231105
+title: Obsidian 插件：Link Headers Directly
 tags: ['obsidian插件', 'readme']
 description: 当一个标题被链接时，预览模式只会显示标题，而不是笔记名称。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232549
 ---
 
 # Obsidian 插件：Link Headers Directly
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Link Headers Directly
 > - 插件作者：Signynt
 > - 插件说明：当一个标题被链接时，预览模式只会显示标题，而不是笔记名称。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Signynt/link-headers-directly)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?link-headers-directly)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Link Headers Directly](https://cdn.pkmer.cn/covers/link-headers-directly.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Signynt/link-headers-directly/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +37,11 @@ modified: 20230101000000
 
 下面是 [[link-headers-directly]] 插件的自述翻译
 
-
 直接链接标题
 
 当标题被链接时，预览模式将只显示标题，而不显示笔记名称。
 
-你有一个名为Trees.md的笔记：
+你有一个名为 Trees.md 的笔记：
 
 桦树是一种薄叶的落叶硬木树，属于桦木属。
 
@@ -67,6 +66,3 @@ modified: 20230101000000
 > 我最喜欢的树之一是**桦树**，因为它让我想起了春天。
 
 ![有插件](https://raw.githubusercontent.com/signynt/link-headers-directly/master/resources/gifs/with-plugin.gif)
-
-
-

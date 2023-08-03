@@ -1,13 +1,13 @@
 ---
-uid: 2023080322264013
-title: Obsidian 插件：【Readme】Settings Search
+uid: 20230803231105
+title: Obsidian 插件：Settings Search
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian.md中全局搜索设置
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232425
 ---
 
 # Obsidian 插件：Settings Search
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Settings Search
 > - 插件作者：Jeremy Valentine
-> - 插件说明：在Obsidian.md中全局搜索设置
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：在 Obsidian.md 中全局搜索设置
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/valentine195/obsidian-settings-search)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?settings-search)
 
 ## 概述
 
-在Obsidian.md中全局搜索设置
-
-
+在 Obsidian.md 中全局搜索设置
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/settings-search/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ modified: 20230101000000
 
 下面是 [[settings-search]] 插件的自述翻译
 
-
 ## 设置搜索
 
-该插件为Obsidian设置添加了全局搜索功能。
+该插件为 Obsidian 设置添加了全局搜索功能。
 
 就是这样。这就是插件。
 
@@ -52,7 +49,7 @@ modified: 20230101000000
 
 该插件通过渲染所有设置选项卡并获取任何已渲染的设置来工作。
 
-有时，设置是动态渲染的，因此在渲染选项卡时不可用。如果您想与插件进行交互并动态添加设置，可以使用API来实现。它在`window`上作为`window.SettingsSearch`可用。
+有时，设置是动态渲染的，因此在渲染选项卡时不可用。如果您想与插件进行交互并动态添加设置，可以使用 API 来实现。它在 `window` 上作为 `window.SettingsSearch` 可用。
 
 ```ts
 interface Resource {
@@ -83,6 +80,3 @@ SettingsSearch.removeResources(...resources: Resource[]);
 SettingsSearch.removeTabResources(id: string)
 
 ```
-
-
-

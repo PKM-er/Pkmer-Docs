@@ -1,13 +1,13 @@
 ---
-uid: 2023080322214466
-title: Obsidian 插件：【Readme】Local Quotes
+uid: 20230803231105
+title: Obsidian 插件：Local Quotes
 tags: ['obsidian插件', 'readme']
 description: 从整个存储库中收集您的引用，并在不同位置嵌入它们，并设置刷新延迟。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232547
 ---
 
 # Obsidian 插件：Local Quotes
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Local Quotes
 > - 插件作者：sundevista
 > - 插件说明：从整个存储库中收集您的引用，并在不同位置嵌入它们，并设置刷新延迟。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/sundevista/local-quotes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?local-quotes)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Local Quotes](https://cdn.pkmer.cn/covers/local-quotes_new.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sundevista/local-quotes/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,10 @@ modified: 20230101000000
 
 下面是 [[local-quotes]] 插件的自述翻译
 
-
 [文档](https://decatetsu.github.io/local-quotes/) / [路线图](https://github.com/users/decatetsu/projects/2/views/1)
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/sundevista)
+
 # 📜 本地引用
 
 从保险库中收集您的引用，并将它们嵌入到不同的位置。
@@ -62,9 +62,9 @@ modified: 20230101000000
 
 ## 🗒️ 引用清单
 
-这是一个收集你的引用的简单方法。只需用`:::`将引用的作者姓名括起来，然后使用列表（无序/有序，使用`-`或`1.`）开始写下引用。重要的是逐行写下引用，因为当出现空行时，你的引用系列就会中断。此外，你的笔记必须有`quotes`标签（可以在设置中更改）。
+这是一个收集你的引用的简单方法。只需用 `:::` 将引用的作者姓名括起来，然后使用列表（无序/有序，使用 `-` 或 `1.`）开始写下引用。重要的是逐行写下引用，因为当出现空行时，你的引用系列就会中断。此外，你的笔记必须有 `quotes` 标签（可以在设置中更改）。
 
-访问页面[引用清单](https://decatetsu.github.io/local-quotes/terms/quote-listings/)了解更多详情。
+访问页面 [引用清单](https://decatetsu.github.io/local-quotes/terms/quote-listings/) 了解更多详情。
 
 ## ⚒️ 引用制作工具
 
@@ -77,9 +77,9 @@ modified: 20230101000000
 插件使用代码块和特殊的代码块语言（`localquote`）来表示您的引用块。有一些设置可以让您配置引用块：
 
 - `id`（必需）- 用于引用标识的任何字符串或数字（`1`，`d2f`，`my-quote1`）。
-- `search`（必需）- 搜索查询，可以只是作者的姓名，但您也可以使用[一些运算符](https://decatetsu.github.io/local-quotes/terms/search/)。
+- `search`（必需）- 搜索查询，可以只是作者的姓名，但您也可以使用 [一些运算符](https://decatetsu.github.io/local-quotes/terms/search/)。
 - `refresh`（可选）- 刷新间隔，当此时间过去时，插件将使用另一个随机引用更新引用文本（`1m`，`2d`，`30s`，[更多示例](#-refresh-intervals)）。
-- `customClass`（可选）- 可以添加到父div的类。
+- `customClass`（可选）- 可以添加到父 div 的类。
 
 ```` 
 ```localquote
@@ -104,11 +104,11 @@ customClass my-quote-class
 
 ## 🗓 一次性引用
 
-你想要看到只创建一次的引用吗，比如在日记中？有一个简单的解决方案——**一次性引用**！只需在插件的设置中设置`模板文件夹`，并使用特殊的代码块语言。当笔记放在模板文件夹中时，引用不会被渲染。但是当它在模板文件夹之外时，打开笔记时它会立即渲染，并且以后不会再改变。完全是一次性的。
+你想要看到只创建一次的引用吗，比如在日记中？有一个简单的解决方案——**一次性引用**！只需在插件的设置中设置 `模板文件夹`，并使用特殊的代码块语言。当笔记放在模板文件夹中时，引用不会被渲染。但是当它在模板文件夹之外时，打开笔记时它会立即渲染，并且以后不会再改变。完全是一次性的。
 
-这个功能附带了一个特殊的模态框`一次性引用制作器`。
+这个功能附带了一个特殊的模态框 `一次性引用制作器`。
 
-请查看[此页面](https://decatetsu.github.io/local-quotes/block-types/one-time-quote-block/)以获取更详细的信息。
+请查看 [此页面](https://decatetsu.github.io/local-quotes/block-types/one-time-quote-block/) 以获取更详细的信息。
 
 ```` 
 ```localquote-once
@@ -127,11 +127,8 @@ search Kamina, TTGL
 
 ## ⏫ 未来更新
 
-您可以在[此处](https://github.com/users/decatetsu/projects/2/views/1)查看我目前正在进行的工作。如果您希望某个功能首先完成，可以在该功能的问题中提出。我会注意到的。此外，您可以在[CHANGELOG](CHANGELOG.md)中查看尚未发布但已经完成的功能和更改，它们将在下一个版本中提供。
+您可以在 [此处](https://github.com/users/decatetsu/projects/2/views/1) 查看我目前正在进行的工作。如果您希望某个功能首先完成，可以在该功能的问题中提出。我会注意到的。此外，您可以在 [CHANGELOG](CHANGELOG.md) 中查看尚未发布但已经完成的功能和更改，它们将在下一个版本中提供。
 
 ## ℹ️ 帮助
 
-如果您有任何问题、功能想法或者发现了一个错误，您可以创建一个[Issue](https://github.com/decatetsu/local-quotes/issues)并与我讨论。我是初学者，如果您有更多经验，您也可以进行[Pull Request](https://github.com/decatetsu/local-quotes/pulls)。
-
-
-
+如果您有任何问题、功能想法或者发现了一个错误，您可以创建一个 [Issue](https://github.com/decatetsu/local-quotes/issues) 并与我讨论。我是初学者，如果您有更多经验，您也可以进行 [Pull Request](https://github.com/decatetsu/local-quotes/pulls)。

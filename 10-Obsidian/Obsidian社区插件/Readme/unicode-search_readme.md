@@ -1,13 +1,13 @@
 ---
-uid: 2023080322285836
-title: Obsidian 插件：【Readme】Unicode Search
+uid: 20230803231105
+title: Obsidian 插件：Unicode Search
 tags: ['obsidian插件', 'readme']
 description: 搜索并插入Unicode字符到您的编辑器中
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232416
 ---
 
 # Obsidian 插件：Unicode Search
@@ -15,28 +15,27 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Unicode Search
 > - 插件作者：BambusControl
-> - 插件说明：搜索并插入Unicode字符到您的编辑器中
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：搜索并插入 Unicode 字符到您的编辑器中
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/BambusControl/obsidian-unicode-search)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?unicode-search)
 
 ## 概述
 
-搜索并插入Unicode字符到您的编辑器中
+搜索并插入 Unicode 字符到您的编辑器中
 
 ![Unicode Search](https://cdn.pkmer.cn/covers/unicode-search.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/BambusControl/obsidian-unicode-search/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[unicode-search]] 插件的自述翻译
-
 
 # Obsidian Unicode 搜索
 
@@ -46,7 +45,7 @@ modified: 20230101000000
 
 ## 使用方法
 
-该插件添加了一个用于搜索Unicode字符的命令。
+该插件添加了一个用于搜索 Unicode 字符的命令。
 
 ![搜索命令预览](./assets/command.png)
 
@@ -60,7 +59,7 @@ modified: 20230101000000
 
 ## 开发
 
-提供了Docker compose以便更轻松地设置环境。
+提供了 Docker compose 以便更轻松地设置环境。
 
 安装依赖项。
 
@@ -73,6 +72,3 @@ docker-compose run --rm npm install
 ```console
 docker-compose run --rm npm run build
 ```
-
-
-

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322280739
-title: Obsidian 插件：【Readme】Text Progress Bar
+uid: 20230803231105
+title: Obsidian 插件：Text Progress Bar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示低保真文本进度条。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232419
 ---
 
 # Obsidian 插件：Text Progress Bar
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Text Progress Bar
 > - 插件作者：Michael Adams
 > - 插件说明：在你的笔记中显示低保真文本进度条。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/michaeladams/obsidian-text-progress-bar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?text-progress-bar)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Text Progress Bar](https://cdn.pkmer.cn/covers/text-progress-bar.jpeg!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/michaeladams/obsidian-text-progress-bar/master/README.md)
-> 
+>
 
 ---
 
@@ -37,13 +37,13 @@ modified: 20230101000000
 
 下面是 [[text-progress-bar]] 插件的自述翻译
 
-
-# Obsidian的文本进度条
+# Obsidian 的文本进度条
 
 [![发布](https://img.shields.io/github/v/release/michaeladams/obsidian-text-progress-bar?display_name=tag)](https://github.com/michaeladams/obsidian-text-progress-bar/releases/latest)
+
 [![测试](https://github.com/michaeladams/obsidian-text-progress-bar/actions/workflows/test.yml/badge.svg)](https://github.com/michaeladams/obsidian-text-progress-bar/actions/workflows/test.yml)
 
-为Obsidian添加了基于文本和表情符号的进度条。
+为 Obsidian 添加了基于文本和表情符号的进度条。
 
 ## 用法
 
@@ -122,7 +122,8 @@ length:10
 ```
 ~~~
 
-或者使用ASCII字符来进行过渡：
+或者使用 ASCII 字符来进行过渡：
+
 ~~~
 ```text-progress-bar
 已读书籍：5/10
@@ -137,9 +138,10 @@ length:3
 
 ![ASCII过渡](images/example-transition-ascii.jpg)
 
-### 多个进度条。
+### 多个进度条
 
 可以使用多个标签将进度条分组在一个块中。
+
 ~~~
 ```text-progress-bar
 JAN:10.0/10

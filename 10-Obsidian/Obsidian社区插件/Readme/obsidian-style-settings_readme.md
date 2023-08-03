@@ -1,13 +1,13 @@
 ---
-uid: 2023080322272976
-title: Obsidian 插件：【Readme】Style Settings
+uid: 20230803231105
+title: Obsidian 插件：Style Settings
 tags: ['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 为主题、插件提供图形化设置，很多主题和插件作者会提供一些样式功能样式，都可以通过此插件调整。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232448
 ---
 
 # Obsidian 插件：Style Settings
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Style Settings
 > - 插件作者：mgmeyers
 > - 插件说明：为主题、插件提供图形化设置，很多主题和插件作者会提供一些样式功能样式，都可以通过此插件调整。
-> - 插件分类：['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
+> - 插件分类：[' 样式工具 ', ' 界面相关 ', ' 美化 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/mgmeyers/obsidian-style-settings)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-style-settings)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Style Settings](https://cdn.pkmer.cn/covers/obsidian-style-settings.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-style-settings/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-style-settings]] 插件的自述翻译
-
 
 # Obsidian Style Settings 插件
 
@@ -98,7 +97,7 @@ settings:
 
 ## `heading`
 
-`heading`可以用来将设置组织和分组到可折叠的嵌套部分中。除了必需的属性外，`heading`必须包含一个介于`1`和`6`之间的`level`属性，并且可以选择包含一个`collapsed`属性：
+`heading` 可以用来将设置组织和分组到可折叠的嵌套部分中。除了必需的属性外，`heading` 必须包含一个介于 `1` 和 `6` 之间的 `level` 属性，并且可以选择包含一个 `collapsed` 属性：
 
 ```css
 /* @settings
@@ -118,7 +117,7 @@ settings:
 
 ## `class-toggle`
 
-`class-toggle`会在`body`元素上切换一个CSS类，允许CSS主题和片段切换功能的开启和关闭。设置的`id`将被用作类名。`default`参数可以选择设置为`true`。
+`class-toggle` 会在 `body` 元素上切换一个 CSS 类，允许 CSS 主题和片段切换功能的开启和关闭。设置的 `id` 将被用作类名。`default` 参数可以选择设置为 `true`。
 
 ```css
 /* @settings
@@ -137,10 +136,10 @@ settings:
 
 ## `class-select`
 
-`class-select`创建了一个预定义选项的下拉菜单，用于CSS变量。设置的`id`将被用作变量名。
+`class-select` 创建了一个预定义选项的下拉菜单，用于 CSS 变量。设置的 `id` 将被用作变量名。
 
-- 当`allowEmpty`为`false`时，**必须**指定一个`default`选项。
-- 当`allowEmpty`为`true`时，`default`属性是可选的，可以设置为`none`。
+- 当 `allowEmpty` 为 `false` 时，**必须**指定一个 `default` 选项。
+- 当 `allowEmpty` 为 `true` 时，`default` 属性是可选的，可以设置为 `none`。
 
 ```css
 /* @settings
@@ -190,7 +189,7 @@ settings:
 
 ## `variable-text`
 
-`variable-text`代表任何基于文本的CSS值。设置的`id`将被用作变量名。`variable-text`设置需要一个`default`属性。
+`variable-text` 代表任何基于文本的 CSS 值。设置的 `id` 将被用作变量名。`variable-text` 设置需要一个 `default` 属性。
 
 ```css
 /* @settings
@@ -216,7 +215,7 @@ settings:
 
 ## `variable-number`
 
-`variable-number`代表任何数字型的CSS值。设置的`id`将被用作变量名。`variable-number`设置需要一个`default`属性。可选地，可以设置一个`format`属性。这个值将被附加到数字后面。例如，`format: px`将会得到`42px`。
+`variable-number` 代表任何数字型的 CSS 值。设置的 `id` 将被用作变量名。`variable-number` 设置需要一个 `default` 属性。可选地，可以设置一个 `format` 属性。这个值将被附加到数字后面。例如，`format: px` 将会得到 `42px`。
 
 ```css
 /* @settings
@@ -241,13 +240,13 @@ settings:
 --line-width: 42rem;
 ```
 
-`variable-number-slider`表示任何数字型的CSS值。设置的`id`将被用作变量名。`variable-number-slider`设置需要一个`default`属性，以及以下三个属性：
+`variable-number-slider` 表示任何数字型的 CSS 值。设置的 `id` 将被用作变量名。`variable-number-slider` 设置需要一个 `default` 属性，以及以下三个属性：
 
 - `min`：滑块的最小可能值
 - `max`：滑块的最大可能值
-- `step`：滑块每个“刻度”的大小。例如，步长为100将只允许滑块以100的增量移动。
+- `step`：滑块每个“刻度”的大小。例如，步长为 100 将只允许滑块以 100 的增量移动。
 
-可选地，可以设置一个`format`属性。这个值将附加到数字后面。例如，`format: px`将得到`42px`
+可选地，可以设置一个 `format` 属性。这个值将附加到数字后面。例如，`format: px` 将得到 `42px`
 
 ```css
 /* @settings
@@ -274,7 +273,7 @@ settings:
 --line-width: 42;
 ```
 
-`variable-select`创建了一个预定义选项的下拉菜单，用于CSS变量。设置的`id`将被用作变量名。`variable-select`设置需要一个`default`属性以及一个`options`列表。
+`variable-select` 创建了一个预定义选项的下拉菜单，用于 CSS 变量。设置的 `id` 将被用作变量名。`variable-select` 设置需要一个 `default` 属性以及一个 `options` 列表。
 
 ```css
 /* @settings
@@ -329,11 +328,12 @@ settings:
 
 ## `variable-color`
 
-`variable-color`创建了一个带有多种输出格式选项的颜色选择器。`hex`或`rgb`格式的`default`属性是必需的。**注意：hex颜色值必须用引号括起来。**`format`属性也是必需的。
+`variable-color` 创建了一个带有多种输出格式选项的颜色选择器。`hex` 或 `rgb` 格式的 `default` 属性是必需的。**注意：hex 颜色值必须用引号括起来。**`format` 属性也是必需的。
 
 可选参数：
-- 将`opacity`设置为`true`将在所有输出格式中启用透明度支持。
-- 可以通过`alt-format`设置提供备用输出格式的列表
+
+- 将 `opacity` 设置为 `true` 将在所有输出格式中启用透明度支持。
+- 可以通过 `alt-format` 设置提供备用输出格式的列表
 
 ```css
 /* @settings
@@ -365,7 +365,7 @@ settings:
 
 ## `variable-themed-color`
 
-`variable-themed-color`与`variable-color`相同，只是它生成了两个颜色选择器，用于生成浅色和深色变体。
+`variable-themed-color` 与 `variable-color` 相同，只是它生成了两个颜色选择器，用于生成浅色和深色变体。
 
 ```css
 /* @settings
@@ -394,7 +394,7 @@ body.theme-dark.css-settings-manager { --accent: #2DB253; }
 
 ### `variable-color` 格式选项
 
-有7个格式选项：
+有 7 个格式选项：
 
 - `hex`
 
@@ -490,14 +490,15 @@ body.theme-dark.css-settings-manager { --accent: #2DB253; }
 --accent-a: 1;
 ```
 
-`color-gradient`函数会在两个已存在的颜色变量之间的渐变中输出固定数量的颜色。还需要一个`format`属性。*注意：必须在样式设置中设置`to`变量才能生成渐变。此外，渐变只会使用在当前样式设置`id`下定义的颜色。*
+`color-gradient` 函数会在两个已存在的颜色变量之间的渐变中输出固定数量的颜色。还需要一个 `format` 属性。*注意：必须在样式设置中设置 `to` 变量才能生成渐变。此外，渐变只会使用在当前样式设置 `id` 下定义的颜色。*
 
 参数：
-- `from`：起始颜色，或者在步骤0处的颜色
-- `to`：结束颜色，或者在步骤100处的颜色
-- `step`：输出CSS变量的增量。例如，将`step`设置为`10`将输出`--var-0`，`--var-10`，`--var-20`等...
-- `format`：可以是以下之一：`hsl`，`rgb`或`hex`；
-- `pad`?：当设置时，变量的数字部分将用`0`填充，直到包含指定的位数。例如，将`pad`设置为`3`，`step`设置为`10`将输出`--var-000`，`--var-010`，`--var-020`
+
+- `from`：起始颜色，或者在步骤 0 处的颜色
+- `to`：结束颜色，或者在步骤 100 处的颜色
+- `step`：输出 CSS 变量的增量。例如，将 `step` 设置为 `10` 将输出 `--var-0`，`--var-10`，`--var-20` 等...
+- `format`：可以是以下之一：`hsl`，`rgb` 或 `hex`；
+- `pad`?：当设置时，变量的数字部分将用 `0` 填充，直到包含指定的位数。例如，将 `pad` 设置为 `3`，`step` 设置为 `10` 将输出 `--var-000`，`--var-010`，`--var-020`
 
 ```css
 /* @settings
@@ -519,7 +520,7 @@ settings:
 
 本地化支持
 
-可以通过使用以下后缀为Obsidian支持的每种语言提供标题和描述的翻译：
+可以通过使用以下后缀为 Obsidian 支持的每种语言提供标题和描述的翻译：
 
 ```
 en: 英语
@@ -569,6 +570,7 @@ settings:
 
 */
 ```
+
 ```
 
 

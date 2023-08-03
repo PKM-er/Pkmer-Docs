@@ -1,13 +1,13 @@
 ---
-uid: 2023080322164846
-title: Obsidian 插件：【Readme】CSV Table
+uid: 20230803231105
+title: Obsidian 插件：CSV Table
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将 CSV 数据呈现为笔记中的表格。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232526
 ---
 
 # Obsidian 插件：CSV Table
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：CSV Table
 > - 插件作者：Adam Coddington
 > - 插件说明：将 CSV 数据呈现为笔记中的表格。
-> - 插件分类：['转换工具', 'obsidian插件', 'readme']
+> - 插件分类：[' 转换工具 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/coddingtonbear/obsidian-csv-table)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-csv-table)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 将 CSV 数据呈现为笔记中的表格。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/coddingtonbear/obsidian-csv-table/master/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +35,13 @@ modified: 20230101000000
 
 下面是 [[obsidian-csv-table]] 插件的自述翻译
 
-
 ## Obsidian CSV 表格
 
 如果你有一个 CSV 文件的数据，想要在 Obsidian 中将其渲染为表格，现在你可以了。
 
 ## 快速入门
 
-假设你有一个名为`countries.csv`的CSV文件：
+假设你有一个名为 `countries.csv` 的 CSV 文件：
 
 ```plaintext
 name,capitol,population
@@ -93,7 +90,7 @@ source: countries.csv
 ## 选项
 
 - `source`：（必填）在笔记中渲染的 csv 文件的路径（相对于您的 vault 根目录）。
-- `csvOptions`：用于解码引用的 CSV 文件的选项；请参阅 https://csv.js.org/parse/options/ 获取可用选项。
+- `csvOptions`：用于解码引用的 CSV 文件的选项；请参阅 <https://csv.js.org/parse/options/> 获取可用选项。
 - `columns`：要渲染的列的列表。每个项目可以是要显示的字段的名称或表达式（参见下面的“表达式”），并且可以重新命名。如果未指定，则将渲染引用的 CSV 中的所有列。有关详细信息，请参见“选择特定列”。
 - `filter`：要用于限制显示的引用 CSV 行的过滤器表达式列表（参见下面的“表达式”）或单个过滤器表达式。如果未指定，则将渲染引用的 CSV 的所有行，同时考虑下面指定的 `maxRows` 的值。有关详细信息，请参见“过滤显示的行”。
 - `sortBy`：要用于对显示的行进行排序的排序表达式列表（参见下面的“表达式”）或单个排序表达式。如果未指定，则将按照引用的 CSV 中的顺序显示行。有关详细信息，请参见“排序行”。
@@ -102,13 +99,13 @@ source: countries.csv
 
 ### 表达式
 
-该库使用`filtrex`进行表达式评估；请参阅其文档以了解有关表达式语法和可用函数的更多信息：https://github.com/m93a/filtrex#expressions。
+该库使用 `filtrex` 进行表达式评估；请参阅其文档以了解有关表达式语法和可用函数的更多信息：<https://github.com/m93a/filtrex#expressions。>
 
 在“过滤显示的行”中可以看到一个过滤表达式的示例，但实际上它们的工作方式与您可能预期的完全相同。
 
 ### 选择特定的列
 
-您可以使用`columns`字段来控制要渲染的CSV文件的哪些列，例如：
+您可以使用 `columns` 字段来控制要渲染的 CSV 文件的哪些列，例如：
 
 ~~~
 ```csvtable
@@ -180,7 +177,7 @@ source: my_csv_file.csv
 
 ### 过滤显示的行
 
-也许您只想显示CSV文件的一部分行？如果是这样，您可以提供一个`filter`表达式来限制显示哪些行：
+也许您只想显示 CSV 文件的一部分行？如果是这样，您可以提供一个 `filter` 表达式来限制显示哪些行：
 
 ~~~
 ```csvtable
@@ -215,11 +212,11 @@ filter:
 ```
 ~~~
 
-请注意，过滤语言要求您在比较中使用双引号括起的字符串--如果您在上面输入`name == 'Colombia'`，过滤器将不会返回结果。
+请注意，过滤语言要求您在比较中使用双引号括起的字符串 -- 如果您在上面输入 `name == 'Colombia'`，过滤器将不会返回结果。
 
 ### 排序行
 
-如果您想要对显示的CSV文件的行进行排序，可以提供一个排序表达式：
+如果您想要对显示的 CSV 文件的行进行排序，可以提供一个排序表达式：
 
 ~~~
 ```csvtable
@@ -251,7 +248,7 @@ sortBy: name
     </tbody>
 </table>
 
-此外，您还可以将`sortBy`表达式指定为一个列表；文档将按照指定的所有字段按照等级顺序进行排序：
+此外，您还可以将 `sortBy` 表达式指定为一个列表；文档将按照指定的所有字段按照等级顺序进行排序：
 
 ~~~
 ```csvtable
@@ -262,7 +259,7 @@ sortBy:
 ```
 ~~~
 
-如果您使用扩展格式指定`sortBy`表达式，允许您同时指定表达式和排序方向，您还可以按照相反的顺序对显示的数据进行排序：
+如果您使用扩展格式指定 `sortBy` 表达式，允许您同时指定表达式和排序方向，您还可以按照相反的顺序对显示的数据进行排序：
 
 ~~~
 ```csvtable

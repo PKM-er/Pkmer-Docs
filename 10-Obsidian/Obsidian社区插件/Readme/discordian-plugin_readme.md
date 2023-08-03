@@ -1,13 +1,13 @@
 ---
-uid: 2023080322172256
-title: Obsidian 插件：【Readme】Discordian Theme
+uid: 20230803231105
+title: Obsidian 插件：Discordian Theme
 tags: ['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 配合 Discordian 主题的控制UI元素细节的插件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232603
 ---
 
 # Obsidian 插件：Discordian Theme
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Discordian Theme
 > - 插件作者：@radekkozak
-> - 插件说明：配合 Discordian 主题的控制UI元素细节的插件。
-> - 插件分类：['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
+> - 插件说明：配合 Discordian 主题的控制 UI 元素细节的插件。
+> - 插件分类：[' 样式工具 ', ' 界面相关 ', ' 美化 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/radekkozak/discordian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?discordian-plugin)
 
 ## 概述
 
-配合 Discordian 主题的控制UI元素细节的插件。
-
-
+配合 Discordian 主题的控制 UI 元素细节的插件。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/radekkozak/discordian-plugin/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,11 @@ modified: 20230101000000
 
 下面是 [[discordian-plugin]] 插件的自述翻译
 
+# Discordian 插件
 
-# Discordian插件
+Discordian 插件是 [Discordian主题](https://github.com/radekkozak/discordian) 的附属插件，允许您从 Obsidian 设置面板自定义它。
 
-Discordian插件是[Discordian主题](https://github.com/radekkozak/discordian)的附属插件，允许您从Obsidian设置面板自定义它。
-
-使用Discordian主题不需要此插件，但**强烈推荐**使用。
+使用 Discordian 主题不需要此插件，但**强烈推荐**使用。
 
 ## 可用设置
 
@@ -56,6 +53,7 @@ Discordian插件是[Discordian主题](https://github.com/radekkozak/discordian)�
 ## 贡献
 
 发现了一些问题？想要提出一些新的功能？
+
 你可以简单地按照以下步骤进行：
 
 1. [提交问题](https://github.com/radekkozak/discordian-plugin/issues/new) 讨论提议的更改或发现的错误
@@ -70,6 +68,3 @@ Discordian插件是[Discordian主题](https://github.com/radekkozak/discordian)�
     - **不要直接构建或提交 `main.js`！** 它将由 CI 服务器自动生成和处理。
 
 现在喝杯咖啡，等待我的迅速回复或 PR 合并。谢谢！
-
-
-

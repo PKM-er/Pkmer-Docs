@@ -1,13 +1,13 @@
 ---
-uid: 2023080322184509
-title: Obsidian 插件：【Readme】Footnote & Citation Indicator
+uid: 20230803231105
+title: Obsidian 插件：Footnote & Citation Indicator
 tags: ['obsidian插件', 'readme']
 description: 指示在凹槽中存在脚注。在状态栏中显示脚注和引文计数。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232518
 ---
 
 # Obsidian 插件：Footnote & Citation Indicator
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Footnote & Citation Indicator
 > - 插件作者：pseudometa
 > - 插件说明：指示在凹槽中存在脚注。在状态栏中显示脚注和引文计数。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/chrisgrieser/obsidian-footnote-indicator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-footnote-indicator)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 指示在凹槽中存在脚注。在状态栏中显示脚注和引文计数。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/obsidian-footnote-indicator/master/README.md)
-> 
+>
 
 ---
 
@@ -37,25 +35,28 @@ modified: 20230101000000
 
 下面是 [[obsidian-footnote-indicator]] 插件的自述翻译
 
-
 # 脚注和引用指示器
 
 ![](https://img.shields.io/github/downloads/chrisgrieser/obsidian-footnote-indicator/total?label=总下载量&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/obsidian-footnote-indicator?label=最新版本&style=plastic) [![](https://img.shields.io/badge/更新日志-点击这里-FFE800?style=plastic)](Changelog.md)
 
-这是一个用于[Obsidian](https://obsidian.md/)的插件，用于计算脚注和Pandoc引用。它还在侧边栏中指示它们的存在。
+这是一个用于 [Obsidian](https://obsidian.md/) 的插件，用于计算脚注和 Pandoc 引用。它还在侧边栏中指示它们的存在。
 
 就是这样，这就是这个插件。
 
 ![推广图片](images/Promo.png)
 
 ## 限制
-- 由于Obsidian不会为*内联*脚注分配css类，因此无法在边栏中显示它们。（但是，在状态栏中它们会被正确计数。）
+
+- 由于 Obsidian 不会为*内联*脚注分配 css 类，因此无法在边栏中显示它们。（但是，在状态栏中它们会被正确计数。）
 
 ## 安装
-该插件可通过Obsidian的社区插件浏览器进行安装：`设置` → `社区插件` → `浏览` → 搜索*"Footnote & Citation Indicator"*
+
+该插件可通过 Obsidian 的社区插件浏览器进行安装：`设置` → `社区插件` → `浏览` → 搜索 *"Footnote & Citation Indicator"*
 
 ## 贡献
-请使用存储库中的`.eslintrc`配置，并在提交拉取请求之前运行eslint，请*不要*使用`prettier`。 🙂
+
+请使用存储库中的 `.eslintrc` 配置，并在提交拉取请求之前运行 eslint，请*不要*使用 `prettier`。 🙂
+
 ```shell
 
 # 运行 eslint 修复最常见的错误

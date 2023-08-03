@@ -1,13 +1,13 @@
 ---
-uid: 2023080322294019
-title: Obsidian 插件：【Readme】Wordle for Obsidian
+uid: 20230803231105
+title: Obsidian 插件：Wordle for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 创建一个可以玩 Wordle 的视图。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232436
 ---
 
 # Obsidian 插件：Wordle for Obsidian
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Wordle for Obsidian
 > - 插件作者：dbarenholz
 > - 插件说明：创建一个可以玩 Wordle 的视图。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/dbarenholz/obsidian-wordle)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-wordle)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 创建一个可以玩 Wordle 的视图。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dbarenholz/obsidian-wordle/main/README.md)
-> 
+>
 
 ---
 
@@ -37,23 +35,25 @@ modified: 20230101000000
 
 下面是 [[obsidian-wordle]] 插件的自述翻译
 
-
-# Obsidian的Wordle插件
+# Obsidian 的 Wordle 插件
 
 **注意：该插件已不再积极维护。**
 
-这是一个Obsidian插件，允许你直接从编辑器中玩Wordle游戏！
-它已经针对Obsidian **v0.13.19**进行开发，并在**Windows**上进行了测试。
+这是一个 Obsidian 插件，允许你直接从编辑器中玩 Wordle 游戏！
+
+它已经针对 Obsidian **v0.13.19**进行开发，并在**Windows**上进行了测试。
 
 ## 安装
 
-从**发布**页面获取最新版本，并将所有文件复制到`.obsidian/plugins/obsidian-wordle/`。就是这样！
-当获得批准后，您还可以通过在Obsidian中搜索**wordle**来安装它。
+从**发布**页面获取最新版本，并将所有文件复制到 `.obsidian/plugins/obsidian-wordle/`。就是这样！
+
+当获得批准后，您还可以通过在 Obsidian 中搜索**wordle**来安装它。
 
 ## 路线图
 
 目前，没有计划。
-如果您对功能感兴趣，请在Github上提出问题！
+
+如果您对功能感兴趣，请在 Github 上提出问题！
 
 ## 贡献
 

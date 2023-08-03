@@ -1,13 +1,13 @@
 ---
-uid: 2023080322244196
-title: Obsidian 插件：【Readme】Persistent Links
+uid: 20230803231105
+title: Obsidian 插件：Persistent Links
 tags: ['obsidian插件', 'readme']
 description: 在将块和标题在文件之间移动时，自动修复内部链接。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232432
 ---
 
 # Obsidian 插件：Persistent Links
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Persistent Links
 > - 插件作者：Ivan Lednev
 > - 插件说明：在将块和标题在文件之间移动时，自动修复内部链接。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ivan-lednev/obsidian-persistent-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?persistent-links)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Persistent Links](https://cdn.pkmer.cn/covers/persistent-links.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ivan-lednev/obsidian-persistent-links/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[persistent-links]] 插件的自述翻译
-
 
 # 持久链接
 
@@ -56,17 +55,12 @@ modified: 20230101000000
 - 仅在剪切和粘贴事件中自动工作
 - 仅适用于 Wiki 链接
 
-如果您希望插件支持其他工作流，请随时创建一个问题：https://github.com/ivan-lednev/obsidian-persistent-links/issues。
+如果您希望插件支持其他工作流，请随时创建一个问题：<https://github.com/ivan-lednev/obsidian-persistent-links/issues。>
 
 ## 贡献
 
-如果你发现了一个 bug 或者有一些改进插件的想法，欢迎创建一个 issue：https://github.com/ivan-lednev/obsidian-persistent-links/issues。
+如果你发现了一个 bug 或者有一些改进插件的想法，欢迎创建一个 issue：<https://github.com/ivan-lednev/obsidian-persistent-links/issues。>
 
 同时也欢迎提交 pull 请求！如果你想要贡献但不知道从何开始，你可以创建一个 issue 或者给我发邮件：bishop1860@gmail.com。
 
 你也可以通过给我买杯咖啡来支持我：
-
-
-
-
-

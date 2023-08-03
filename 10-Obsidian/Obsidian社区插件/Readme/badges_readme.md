@@ -1,13 +1,13 @@
 ---
-uid: 2023080322145334
-title: Obsidian 插件：【Readme】Badges
+uid: 20230803231105
+title: Obsidian 插件：Badges
 tags: ['obsidian插件', 'readme']
 description: 在笔记中添加内联徽章/标注。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232615
 ---
 
 # Obsidian 插件：Badges
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Badges
 > - 插件作者：@gapmiss
 > - 插件说明：在笔记中添加内联徽章/标注。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/gapmiss/badges)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?badges)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Badges](https://cdn.pkmer.cn/covers/badges.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/gapmiss/badges/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[badges]] 插件的自述翻译
-
 
 徽章
 
@@ -112,12 +111,12 @@ modified: 20230101000000
 | 语法             | 详情                                                                                   |
 | --------------- | ---------------------------------------------------------------------------------- |
 | <code>\|</code> | 开始管道符号                                                                  |
-| `GHX`           | Github风格，可以选择`ghb`表示蓝色风格或`ghs`表示绿色成功风格 |
+| `GHX`           | Github 风格，可以选择 `ghb` 表示蓝色风格或 `ghs` 表示绿色成功风格 |
 | `>`             | 大于符号（分隔符）                                                    |
-| `KEY:VAL`       | `KEY`是类型或标签，`VAL`是显示的值文本。例如`release:1.0.0` |
+| `KEY:VAL`       | `KEY` 是类型或标签，`VAL` 是显示的值文本。例如 `release:1.0.0` |
 
 > ⚠️ 注意:
-> `VAL`不能包含`|`管道符号或`:`冒号符号，因为它们被用作自定义语法的分隔符。
+> `VAL` 不能包含 `|` 管道符号或 `:` 冒号符号，因为它们被用作自定义语法的分隔符。
 
 ```markdown
 `[!!|ghb>发布:1.2.1]`
@@ -170,7 +169,7 @@ modified: 20230101000000
 | <code>\|</code> | 管道符号                                                                                                                |
 | `KEY:VAL`       | `KEY` 是类型或标签，`VAL` 是显示的值文本。例如：`release:1.0.0`                                                          |
 | <code>\|</code> | 管道符号                                                                                                                |
-| `COLOR-RGB`     | 3个（R.G.B.）数字（0-255）值，用逗号分隔。例如：`144,144,144` 或 CSS 变量例如：`var(--color-red-rgb)` |
+| `COLOR-RGB`     | 3 个（R.G.B.）数字（0-255）值，用逗号分隔。例如：`144,144,144` 或 CSS 变量例如：`var(--color-red-rgb)` |
 
 > ⚠️ 注意：
 > `VAL` 不能包含 `|` 管道符号或 `:` 冒号符号，因为它们被用作自定义语法的分隔符。
@@ -193,36 +192,37 @@ modified: 20230101000000
 ###### 结果
 
 ![](assets/Badges-demo-Obsidian-v1.3.7-20230709171541.png)
+
 ![](assets/Badges-demo-Obsidian-v1.3.7-20230709171534.png)
 
 ### 安装
 
-从Obsidian的设置或首选项中：
+从 Obsidian 的设置或首选项中：
 
 1. ~~社区插件 > 浏览~~ 等待官方审核
 2. ~~搜索“Badges”~~
 
 或者：
 
-1. 下载最新的[发布存档](https://github.com/gapmiss/badges/releases/download/1.0.0/badges-v1.0.0.zip)
+1. 下载最新的 [发布存档](https://github.com/gapmiss/badges/releases/download/1.0.0/badges-v1.0.0.zip)
 2. 解压下载的存档
-3. 将`badges`文件夹移动到`/path/to/vault/.obsidian/plugins/`目录下
+3. 将 `badges` 文件夹移动到 `/path/to/vault/.obsidian/plugins/` 目录下
 4. 设置 > 社区插件 > 重新加载**已安装的插件**
 5. 启用插件
 
 或者：
 
-1. 下载`main.js`、`manifest.json`和`styles.css`
-2. 创建一个新的文件夹`/path/to/vault/.obsidian/plugins/badges`
-3. 将所有3个文件移动到`/path/to/vault/.obsidian/plugins/badges`目录下
+1. 下载 `main.js`、`manifest.json` 和 `styles.css`
+2. 创建一个新的文件夹 `/path/to/vault/.obsidian/plugins/badges`
+3. 将所有 3 个文件移动到 `/path/to/vault/.obsidian/plugins/badges` 目录下
 4. 设置 > 社区插件 > 重新加载**已安装的插件**
 5. 启用插件
 
 ### CSS
 
-可以通过CSS片段应用自定义的CSS样式。所有的颜色和样式都可以被覆盖。
+可以通过 CSS 片段应用自定义的 CSS 样式。所有的颜色和样式都可以被覆盖。
 
-请参阅[CSS片段 - Obsidian帮助](https://help.obsidian.md/Extending+Obsidian/CSS+snippets)。
+请参阅 [CSS片段 - Obsidian帮助](https://help.obsidian.md/Extending+Obsidian/CSS+snippets)。
 
 ##### 变量
 
@@ -271,9 +271,6 @@ npm run dev
 
 ### 注意事项
 
-[Lucide](https://github.com/lucide-icons/lucide) 图标：https://lucide.dev
+[Lucide](https://github.com/lucide-icons/lucide) 图标：<https://lucide.dev>
 
-Lucide 图标许可证：https://lucide.dev/license
-
-
-
+Lucide 图标许可证：<https://lucide.dev/license>

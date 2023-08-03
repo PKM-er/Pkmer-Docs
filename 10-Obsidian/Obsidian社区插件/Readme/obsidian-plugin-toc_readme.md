@@ -1,13 +1,13 @@
 ---
-uid: 2023080322274271
-title: Obsidian 插件：【Readme】Table of Contents
+uid: 20230803231105
+title: Obsidian 插件：Table of Contents
 tags: ['编辑工具', '目录/标题', 'obsidian插件', 'readme']
 description: 为笔记内生成静态目录。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232457
 ---
 
 # Obsidian 插件：Table of Contents
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Table of Contents
 > - 插件作者：hipstersmoothie
 > - 插件说明：为笔记内生成静态目录。
-> - 插件分类：['编辑工具', '目录/标题', 'obsidian插件', 'readme']
+> - 插件分类：[' 编辑工具 ', ' 目录/标题 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/hipstersmoothie/obsidian-plugin-toc)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-plugin-toc)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Table of Contents](https://cdn.pkmer.cn/covers/obsidian-plugin-toc.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hipstersmoothie/obsidian-plugin-toc/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-plugin-toc]] 插件的自述翻译
-
 
 # obsidian-plugin-toc
 
@@ -68,15 +67,17 @@ modified: 20230101000000
 
 **示例：**
 
-_输入：_ 在二级标题下运行“目录”  
+_输入：_ 在二级标题下运行“目录”
 _输出：_ “目录”只包含该二级标题的子标题
 
 安装
 
-要么直接从Obsidian安装最新版本，要么将最新版本解压缩到`<vault>/.obsidian/plugins/`文件夹中。
+要么直接从 Obsidian 安装最新版本，要么将最新版本解压缩到 `<vault>/.obsidian/plugins/` 文件夹中。
 
 安装完插件后，您需要确保“目录”开关已打开。
+
 设置完成后，您将在命令面板（`CMD + P`）中看到此插件的命令。
+
 您可以将命令分配给热键以便于使用。
 
 这是我的设置：
@@ -88,7 +89,8 @@ _输出：_ “目录”只包含该二级标题的子标题
 
 ### 详细的嵌套有序列表
 
-如果你想让目录使用嵌套列表计数（例如：1.1，1.2），请在Obsidian中添加以下CSS代码片段。
+如果你想让目录使用嵌套列表计数（例如：1.1，1.2），请在 Obsidian 中添加以下 CSS 代码片段。
+
 这将影响你笔记中的所有有序列表。
 
 ```css
@@ -107,7 +109,4 @@ ol li:before {
 }
 ```
 
-> 注意：确保在Obsidian的选项中启用该代码片段。
-
-
-
+> 注意：确保在 Obsidian 的选项中启用该代码片段。

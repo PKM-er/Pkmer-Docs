@@ -1,13 +1,13 @@
 ---
-uid: 2023080322223744
-title: Obsidian 插件：【Readme】Minimal Theme Settings
+uid: 20230803231105
+title: Obsidian 插件：Minimal Theme Settings
 tags: ['样式工具', '美化', 'obsidian插件', 'readme']
 description: 为 Minimal 主题中主要样式提供图形化设置界面
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232501
 ---
 
 # Obsidian 插件：Minimal Theme Settings
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Minimal Theme Settings
 > - 插件作者：@kepano
 > - 插件说明：为 Minimal 主题中主要样式提供图形化设置界面
-> - 插件分类：['样式工具', '美化', 'obsidian插件', 'readme']
+> - 插件分类：[' 样式工具 ', ' 美化 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/kepano/obsidian-minimal-settings)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-minimal-settings)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Minimal Theme Settings](https://cdn.pkmer.cn/covers/obsidian-minimal-settings.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kepano/obsidian-minimal-settings/main/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +37,11 @@ modified: 20230101000000
 
 下面是 [[obsidian-minimal-settings]] 插件的自述翻译
 
-
 # 概述
 
 该插件是 [Minimal Theme](https://github.com/kepano/obsidian-minimal) 的附属插件，允许您从 Obsidian 设置面板自定义主题。使用 Minimal Theme 不需要该插件，但强烈推荐使用。
 
-支持我的插件和主题开发，请关注我的 Twitter 账号 **@kepano** 或者[给我买杯咖啡](https://www.buymeacoffee.com/kepano)。
-
-
+支持我的插件和主题开发，请关注我的 Twitter 账号 **@kepano** 或者 [给我买杯咖啡](https://www.buymeacoffee.com/kepano)。
 
 ---
 
@@ -78,7 +75,7 @@ modified: 20230101000000
 - 焦点模式
 - 自定义图标
 - 图像网格
-- 表格、图像和iframe的宽度设置
+- 表格、图像和 iframe 的宽度设置
 
 # 快捷键
 
@@ -92,7 +89,7 @@ modified: 20230101000000
 - 切换侧边栏边框
 - 在图像宽度选项之间循环切换
 - 在表格宽度选项之间循环切换
-- 在iframe宽度选项之间循环切换
+- 在 iframe 宽度选项之间循环切换
 
 
 

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322260390
-title: Obsidian 插件：【Readme】Reset Font Size
+uid: 20230803231105
+title: Obsidian 插件：Reset Font Size
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 添加按钮和命令以将字体大小重置回其默认值。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232452
 ---
 
 # Obsidian 插件：Reset Font Size
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Reset Font Size
 > - 插件作者：luckman212
 > - 插件说明：添加按钮和命令以将字体大小重置回其默认值。
-> - 插件分类：['样式工具', 'obsidian插件', 'readme']
+> - 插件分类：[' 样式工具 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/luckman212/obsidian-reset-font-size)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-reset-font-size)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 添加按钮和命令以将字体大小重置回其默认值。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/luckman212/obsidian-reset-font-size/main/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,11 @@ modified: 20230101000000
 
 下面是 [[obsidian-reset-font-size]] 插件的自述翻译
 
-
 # 重置字体大小
 
 为什么
 
-是否曾经发现自己的笔记“放大”，似乎没有办法将文本恢复到正常大小？按下<kbd>cmd/ctrl+0</kbd>没有效果，退出并重新启动Obsidian也不行。
+是否曾经发现自己的笔记“放大”，似乎没有办法将文本恢复到正常大小？按下<kbd>cmd/ctrl+0</kbd>没有效果，退出并重新启动 Obsidian 也不行。
 
 <img src="https://raw.githubusercontent.com/luckman212/obsidian-reset-font-size/main/img/zoomed.png"/>
 
@@ -66,7 +63,4 @@ modified: 20230101000000
 
 ### 快捷键
 
-我建议将<kbd>Cmd+Shift+0</kbd>（或在Windows上为<kbd>Ctrl+Shift+0</kbd>）设置为一个键绑定。
-
-
-
+我建议将<kbd>Cmd+Shift+0</kbd>（或在 Windows 上为<kbd>Ctrl+Shift+0</kbd>）设置为一个键绑定。

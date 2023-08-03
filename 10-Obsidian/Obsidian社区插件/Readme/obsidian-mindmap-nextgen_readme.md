@@ -1,13 +1,13 @@
 ---
-uid: 2023080322223664
-title: Obsidian 插件：【Readme】Mindmap Nextgen
+uid: 20230803231105
+title: Obsidian 插件：Mindmap Nextgen
 tags: ['obsidian插件', 'readme']
 description: 一个插件，用于将笔记预览为Markmap思维导图
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232501
 ---
 
 # Obsidian 插件：Mindmap Nextgen
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Mindmap Nextgen
 > - 插件作者：VeroCloud Pty Ltd (original by James Lynch)
-> - 插件说明：一个插件，用于将笔记预览为Markmap思维导图
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：一个插件，用于将笔记预览为 Markmap 思维导图
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/verocloud/obsidian-mindmap-nextgen)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-mindmap-nextgen)
 
 ## 概述
 
-一个插件，用于将笔记预览为Markmap思维导图
+一个插件，用于将笔记预览为 Markmap 思维导图
 
 ![Mindmap Nextgen](https://cdn.pkmer.cn/covers/obsidian-mindmap-nextgen.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/verocloud/obsidian-mindmap-nextgen/main/README.md)
-> 
+>
 
 ---
 
@@ -37,17 +37,18 @@ modified: 20230101000000
 
 下面是 [[obsidian-mindmap-nextgen]] 插件的自述翻译
 
-
 # Mindmap NextGen
 
 ![GitHub工作流状态](https://img.shields.io/github/actions/workflow/status/verocloud/obsidian-mindmap-nextgen/release.yml?logo=github&style=for-the-badge)
+
 ![GitHub发布（最新的语义化版本）](https://img.shields.io/github/v/release/verocloud/obsidian-mindmap-nextgen?style=for-the-badge&sort=semver)
 
-Obsidian插件，使用[Markmap](https://markmap.js.org/)将您的笔记显示为思维导图。
+Obsidian 插件，使用 [Markmap](https://markmap.js.org/) 将您的笔记显示为思维导图。
 
-类似的插件也适用于[Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode)。
+类似的插件也适用于 [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode)。
 
 ## 目录
+
 + [使用方法](#usage)
 + ["更多选项"菜单](#more-options-menu)
   + [固定/取消固定](#pinunpin)
@@ -69,13 +70,13 @@ Obsidian插件，使用[Markmap](https://markmap.js.org/)将您的笔记显示�
 
 ## 用法
 
-打开命令面板（cmd/ctrl-p）并开始输入其中一个2个命令的名称。
+打开命令面板（cmd/ctrl-p）并开始输入其中一个 2 个命令的名称。
 
 <img width="720" alt="Command palette commands" src="https://user-images.githubusercontent.com/10291002/216599311-75ec8e62-3e99-4e09-abc3-86ff125ab308.png">
 
-固定和非固定思维导图有什么区别？固定的思维导图与单个Markdown文档链接。非固定的思维导图将根据您最后点击的文档进行更新。
+固定和非固定思维导图有什么区别？固定的思维导图与单个 Markdown 文档链接。非固定的思维导图将根据您最后点击的文档进行更新。
 
-您还可以使用标记为“markmap”的Markdown代码块在文档中插入思维导图。例如：
+您还可以使用标记为“markmap”的 Markdown 代码块在文档中插入思维导图。例如：
 
 ~~~
 ```markmap

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322271332
-title: Obsidian 插件：【Readme】Snippets plugin
+uid: 20230803231105
+title: Obsidian 插件：Snippets plugin
 tags: ['自动化', '编程', 'obsidian插件', 'readme']
 description: 这个插件允许你在 Obsidian 中运行一些简单的脚本，用于启动一些对应服务，如 Java、Python
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232422
 ---
 
 # Obsidian 插件：Snippets plugin
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Snippets plugin
 > - 插件作者：Pelao
 > - 插件说明：这个插件允许你在 Obsidian 中运行一些简单的脚本，用于启动一些对应服务，如 Java、Python
-> - 插件分类：['自动化', '编程', 'obsidian插件', 'readme']
+> - 插件分类：[' 自动化 ', ' 编程 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/cristianvasquez/obsidian-snippets-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?snippets)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Snippets plugin](https://cdn.pkmer.cn/covers/snippets.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/cristianvasquez/obsidian-snippets-plugin/master/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +37,15 @@ modified: 20230101000000
 
 下面是 [[snippets]] 插件的自述翻译
 
-
 日期更新：'2020-06-22'
+
 版本：0.0.4
+
 # 运行代码片段插件
 
-该插件允许您在obsidian.md内部运行Python、Javascript等代码片段。
+该插件允许您在 obsidian.md 内部运行 Python、Javascript 等代码片段。
 
-它适用于简单的用途，比如启动服务、运行程序等。我只在Linux上进行了测试，并且是实验性的。
+它适用于简单的用途，比如启动服务、运行程序等。我只在 Linux 上进行了测试，并且是实验性的。
 
 该插件会读取您的“代码片段插件设置”，其中包含每种语言的配置信息。
 
@@ -64,7 +65,7 @@ modified: 20230101000000
 
 ![write mode example](./img/shell_date.png)
 
-2. 按下 `Ctrl/Cmd`+`Shift`+`Enter`，或从调色板中选择 `Snippets: Run` 命令。
+1. 按下 `Ctrl/Cmd`+`Shift`+`Enter`，或从调色板中选择 `Snippets: Run` 命令。
 
 代码将（希望）运行，并且任何输出都将附加在代码片段之后。
 
@@ -80,7 +81,7 @@ modified: 20230101000000
 
 |                |                           |
 | -------------- | ------------------------- |
-| {{vault_path}} | vault的路径               |
+| {{vault_path}} | vault 的路径               |
 | {{folder}}     | 文件夹的名称              |
 | {{file_name}}  | 文件的名称                |
 | {{file_path}}  | 文件的绝对路径            |
@@ -166,27 +167,26 @@ readme.md
     npm run build
 
 将 main.js、manifest.json 和 styles.css 复制到您的 vault 的插件文件夹中，
+
 位于 [YourVaultFolder]/.obsidian/plugins/review-obsidian/。
 
 ## 观察
 
-这个原型是非常实验性的；我写它是因为我想在Obsidian中使用Python。
+这个原型是非常实验性的；我写它是因为我想在 Obsidian 中使用 Python。
 
 开发者
 
-欢迎并感谢您的Pull请求。 :)
+欢迎并感谢您的 Pull 请求。 :)
 
 版本
 
 ### 0.0.4
 
--   添加了JavaScript选项。
--   添加了Shell选项。
--   当Markdown视图不存在时不会出现错误。
+- 添加了 JavaScript 选项。
+- 添加了 Shell 选项。
+- 当 Markdown 视图不存在时不会出现错误。
 
 感谢：
+
 * [catworld](https://github.com/catword)
 * [mgmeyers](https://github.com/mgmeyers)
-
-
-

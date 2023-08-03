@@ -1,13 +1,13 @@
 ---
-uid: 2023080322182476
-title: Obsidian 插件：【Readme】Find and replace in selection
+uid: 20230803231105
+title: Obsidian 插件：Find and replace in selection
 tags: ['编辑工具', '搜索/排序', '效率', 'obsidian插件', 'readme']
 description: 为搜索和替换进行增强，除了查找的内容并将其替换为指定的文本外，还支持正则，通配符的查找方式。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232558
 ---
 
 # Obsidian 插件：Find and replace in selection
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Find and replace in selection
 > - 插件作者：Dmitry Savosh
 > - 插件说明：为搜索和替换进行增强，除了查找的内容并将其替换为指定的文本外，还支持正则，通配符的查找方式。
-> - 插件分类：['编辑工具', '搜索/排序', '效率', 'obsidian插件', 'readme']
+> - 插件分类：[' 编辑工具 ', ' 搜索/排序 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/dy-sh/obsidian-find-and-replace-in-selection)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?find-and-replace-in-selection)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Find and replace in selection](https://cdn.pkmer.cn/covers/find-and-replace-in-selection.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dy-sh/obsidian-find-and-replace-in-selection/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,9 @@ modified: 20230101000000
 
 下面是 [[find-and-replace-in-selection]] 插件的自述翻译
 
-
 # 在选定内容中查找和替换
 
-这个插件为[Obsidian](https://obsidian.md/)添加了一个"在选定内容中查找和替换"的命令。该命令在选定的文本中进行搜索，并将找到的所有字符/单词/文本结构替换为其他内容。该插件可以搜索普通文本或正则表达式。
+这个插件为 [Obsidian](https://obsidian.md/) 添加了一个 " 在选定内容中查找和替换 " 的命令。该命令在选定的文本中进行搜索，并将找到的所有字符/单词/文本结构替换为其他内容。该插件可以搜索普通文本或正则表达式。
 
 如何配置
 
@@ -58,13 +57,13 @@ modified: 20230101000000
 - 要查找的文本： "**"
 - 替换为： ""（空）
 
-**将所有H2标题替换为H3标题**：
+**将所有 H2 标题替换为 H3 标题**：
 
 - 要查找的正则表达式： "^## "（末尾有空格）
 - 正则表达式标志： "gm"（全局，多行）
 - 替换为： "### "（末尾有空格）
 
-如果您想将所有H1变为H2，所有H2变为H3，H3变为H4，则需要从H3开始，然后是H2，然后是H1。
+如果您想将所有 H1 变为 H2，所有 H2 变为 H3，H3 变为 H4，则需要从 H3 开始，然后是 H2，然后是 H1。
 
 **删除所有嵌入链接的显示文本**：
 
@@ -73,9 +72,9 @@ modified: 20230101000000
 - 替换为： "```![]($2)```"
 
 结果如下：
+
 ```![Description](URL)```
+
 将变为：
+
 ```![](URL)```
-
-
-

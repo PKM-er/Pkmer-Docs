@@ -1,13 +1,13 @@
 ---
-uid: 2023080322273427
-title: Obsidian 插件：【Readme】Surfing
+uid: 20230803231105
+title: Obsidian 插件：Surfing
 tags: ['obsidian插件', 'readme']
 description: 在黑曜石上网络冲浪
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232422
 ---
 
 # Obsidian 插件：Surfing
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Surfing
 > - 插件作者：Boninall
 > - 插件说明：在黑曜石上网络冲浪
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/PKM-er/Obsidian-Surfing)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?surfing)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Surfing](https://cdn.pkmer.cn/covers/surfing.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/PKM-er/Obsidian-Surfing/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[surfing]] 插件的自述翻译
-
 
 ## 冲浪
 
@@ -77,30 +76,31 @@ modified: 20230101000000
 
 使用方法
 
-使用BookmarkLets打开URL
+使用 BookmarkLets 打开 URL
 
-该插件注册了一个Obsidian URI协议，允许您使用URL `obsidian://web-open?url=<url>`在Obsidian中打开eb-broswer。其中`<url>`指的是网址链接。
-匹配的[bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet)可以通过在浏览器中点击书签来在Obsidain中打开当前浏览器的URL。
+该插件注册了一个 Obsidian URI 协议，允许您使用 URL `obsidian://web-open?url=<url>` 在 Obsidian 中打开 eb-broswer。其中 `<url>` 指的是网址链接。
 
-1. 在插件设置中打开`Open URL In Obsidian Web`选项。
-2. 在此选项下有一个bookmarklets的链接，将此链接拖到浏览器的书签栏中。您也可以点击此链接（将复制bookmarklets代码），然后自己创建bookmarklets。
-3. 现在您可以点击书签，在Obsidian中打开您浏览器的当前页面。
+匹配的 [bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) 可以通过在浏览器中点击书签来在 Obsidain 中打开当前浏览器的 URL。
 
-### 在Surfing中使用Quickadd在ChatGPT中搜索选定的内容
+1. 在插件设置中打开 `Open URL In Obsidian Web` 选项。
+2. 在此选项下有一个 bookmarklets 的链接，将此链接拖到浏览器的书签栏中。您也可以点击此链接（将复制 bookmarklets 代码），然后自己创建 bookmarklets。
+3. 现在您可以点击书签，在 Obsidian 中打开您浏览器的当前页面。
+
+### 在 Surfing 中使用 Quickadd 在 ChatGPT 中搜索选定的内容
 
 1. 基于这个脚本创建一个宏：[search-in-surfing](https://gist.github.com/Quorafind/c70c6c698feeed66465d59efc39e4e1c)
-2. 在Surfing中打开ChatGPT，并选择一些文本，然后运行该宏。
+2. 在 Surfing 中打开 ChatGPT，并选择一些文本，然后运行该宏。
 
 ## 安装
 
 - 尚未准备好上市
-- 可以通过[Brat](https://github.com/TfTHacker/obsidian42-brat)插件进行安装
+- 可以通过 [Brat](https://github.com/TfTHacker/obsidian42-brat) 插件进行安装
 - 手动安装
 
-1. 在此github页面上找到发布页面并点击
-2. 下载最新的发布zip文件
-3. 解压缩文件，将解压后的文件夹复制到Obsidian插件文件夹中，确保文件夹中有main.js和manifest.json文件
-4. 重新启动Obsidian（如果不重新启动，您必须刷新插件列表），在设置界面中启用插件
+1. 在此 github 页面上找到发布页面并点击
+2. 下载最新的发布 zip 文件
+3. 解压缩文件，将解压后的文件夹复制到 Obsidian 插件文件夹中，确保文件夹中有 main.js 和 manifest.json 文件
+4. 重新启动 Obsidian（如果不重新启动，您必须刷新插件列表），在设置界面中启用插件
 5. 完成！
 
 ## 贡献
@@ -109,9 +109,4 @@ modified: 20230101000000
 
 ## 支持
 
-如果您喜欢这个插件，请通过在[https://www.buymeacoffee.com/boninall](https://www.buymeacoffee.com/boninall)上给我买杯咖啡来支持我的工作和热情。
-
-
-
-
-
+如果您喜欢这个插件，请通过在 [https://www.buymeacoffee.com/boninall](https://www.buymeacoffee.com/boninall) 上给我买杯咖啡来支持我的工作和热情。

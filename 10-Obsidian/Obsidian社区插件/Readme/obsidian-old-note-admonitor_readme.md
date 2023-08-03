@@ -1,13 +1,13 @@
 ---
-uid: 2023080322235945
-title: Obsidian 插件：【Readme】Old Note Admonitor
+uid: 20230803231105
+title: Obsidian 插件：Old Note Admonitor
 tags: ['obsidian插件', 'readme']
 description: 这个Obsidian插件会在笔记未更新超过特定天数时显示警告。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232500
 ---
 
 # Obsidian 插件：Old Note Admonitor
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Old Note Admonitor
 > - 插件作者：tadashi-aikawa
-> - 插件说明：这个Obsidian插件会在笔记未更新超过特定天数时显示警告。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：这个 Obsidian 插件会在笔记未更新超过特定天数时显示警告。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-old-note-admonitor)
 
 ## 概述
 
-这个Obsidian插件会在笔记未更新超过特定天数时显示警告。
+这个 Obsidian 插件会在笔记未更新超过特定天数时显示警告。
 
 ![Old Note Admonitor](https://cdn.pkmer.cn/covers/obsidian-old-note-admonitor.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tadashi-aikawa/obsidian-old-note-admonitor/master/README.md)
-> 
+>
 
 ---
 
@@ -37,11 +37,12 @@ modified: 20230101000000
 
 下面是 [[obsidian-old-note-admonitor]] 插件的自述翻译
 
-
 # 旧笔记提醒器
 
 [![release](https://img.shields.io/github/release/tadashi-aikawa/obsidian-old-note-admonitor.svg)](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor/releases/latest)
+
 [![CI](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor/workflows/CI/badge.svg)](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor/actions)
+
 ![downloads](https://img.shields.io/github/downloads/tadashi-aikawa/obsidian-old-note-admonitor/total)
 
 这个 Obsidian 插件会在笔记超过特定天数未更新时显示提醒。
@@ -60,10 +61,10 @@ modified: 20230101000000
 
 #### 消息模板
 
-如果今天是2022-09-11，便签上的日期是2022-09-01，
+如果今天是 2022-09-11，便签上的日期是 2022-09-01，
 
-- 如果设置`${numberOfDays} days passed!`，则显示`10 days passed!`
-- 如果设置`${numberOfDays} days passed since ${date}`，则显示`10 days passed since 2022-09-01`
+- 如果设置 `${numberOfDays} days passed!`，则显示 `10 days passed!`
+- 如果设置 `${numberOfDays} days passed since ${date}`，则显示 `10 days passed since 2022-09-01`
 
 `默认：内容已经超过${numberOfDays}天没有更新`
 
@@ -85,13 +86,13 @@ modified: 20230101000000
 
 ![前置内容](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-old-note-admonitor/master/resources/front-matter.png)
 
-`前置内容键`选项可以指定任何键名。
+`前置内容键` 选项可以指定任何键名。
 
 `默认值：updated`
 
 ##### 捕获组
 
-如果将`^// updated: (?<date>[0-9]{4}/[0-9]{2}/[0-9]{2})`设置为`捕获组模式`，则日期将被提取如下。
+如果将 `^// updated: (?<date>[0-9]{4}/[0-9]{2}/[0-9]{2})` 设置为 `捕获组模式`，则日期将被提取如下。
 
 ![capture-group](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-old-note-admonitor/master/resources/capture-group.png)
 
@@ -99,10 +100,10 @@ modified: 20230101000000
 
 #### 显示警告的最少天数
 
-如果今天是2022年9月11日，而便签上的日期是2022年9月1日。
+如果今天是 2022 年 9 月 11 日，而便签上的日期是 2022 年 9 月 1 日。
 
-- 如果设置为10或更多，则显示警告
-- 如果设置为小于10，则不显示警告
+- 如果设置为 10 或更多，则显示警告
+- 如果设置为小于 10，则不显示警告
 
 `默认值：180`
 
@@ -166,7 +167,7 @@ Daily Report/11/
 task release VERSION=1.2.3
 ```
 
-[Task]: https://github.com/go-task/task
+[Task]: <https://github.com/go-task/task>
 
 
 

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322275299
-title: Obsidian 插件：【Readme】Task Progress Bar
+uid: 20230803231105
+title: Obsidian 插件：Task Progress Bar
 tags: ['任务管理', '美化', '界面相关', 'obsidian插件', 'readme']
-description:  Obsidian 任务的任务进度条插件。
+description: Obsidian 任务的任务进度条插件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232446
 ---
 
 # Obsidian 插件：Task Progress Bar
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Task Progress Bar
 > - 插件作者：Boninall
 > - 插件说明： Obsidian 任务的任务进度条插件。
-> - 插件分类：['任务管理', '美化', '界面相关', 'obsidian插件', 'readme']
+> - 插件分类：[' 任务管理 ', ' 美化 ', ' 界面相关 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Task-Progress-Bar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-task-progress-bar)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Task Progress Bar](https://cdn.pkmer.cn/covers/obsidian-task-progress-bar.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Task-Progress-Bar/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-task-progress-bar]] 插件的自述翻译
-
 
 # Obsidian 任务进度条
 
@@ -52,17 +51,12 @@ modified: 20230101000000
 
 如何安装
 
-💜：直接从Obsidian市场安装。
+💜：直接从 Obsidian 市场安装。
 
-🚗：将`Quorafind/Obsidian-Task-Progress-Bar`添加到BRAT中。
+🚗：将 `Quorafind/Obsidian-Task-Progress-Bar` 添加到 BRAT 中。
 
 ### 手动下载
 
 🚚：下载最新版本。解压并将三个文件（main.js、manifest.json、styles.css）放入文件夹 `{{obsidian_vault}}/.obsidian/plugins/Obsidian-Task-Progress-Bar`。
 
-如果您喜欢使用Obsidian-Task-Progress-Bar，请通过在[https://www.buymeacoffee.com/boninall](https://www.buymeacoffee.com/boninall)上给我买杯咖啡来支持我的工作和热情。
-
-
-
-
-
+如果您喜欢使用 Obsidian-Task-Progress-Bar，请通过在 [https://www.buymeacoffee.com/boninall](https://www.buymeacoffee.com/boninall) 上给我买杯咖啡来支持我的工作和热情。

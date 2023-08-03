@@ -1,13 +1,13 @@
 ---
-uid: 2023080322281623
-title: Obsidian 插件：【Readme】Things Logbook
+uid: 20230803231105
+title: Obsidian 插件：Things Logbook
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 将你的 Obsidian 日记 和 你的 Things 进行同步。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232418
 ---
 
 # Obsidian 插件：Things Logbook
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Things Logbook
 > - 插件作者：Liam Cain
 > - 插件说明：将你的 Obsidian 日记 和 你的 Things 进行同步。
-> - 插件分类：['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
+> - 插件分类：[' 第三方工具集成 ', ' 任务管理 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/liamcain/obsidian-things-logbook)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?things-logbook)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Things Logbook](https://cdn.pkmer.cn/covers/things-logbook.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/liamcain/obsidian-things-logbook/main/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +37,13 @@ modified: 20230101000000
 
 下面是 [[things-logbook]] 插件的自述翻译
 
+# 📕 Obsidian 的 Things 日志本
 
-# 📕 Obsidian的Things日志本
-
-这个插件为[Obsidian](https://obsidian.md/)将定期同步你的[Things](https://culturedcode.com/things/)日志本与你的Obsidian每日笔记。
+这个插件为 [Obsidian](https://obsidian.md/) 将定期同步你的 [Things](https://culturedcode.com/things/) 日志本与你的 Obsidian 每日笔记。
 
 为什么？
 
-据我所知，我喜欢使用Things进行任务管理。但我也希望Obsidian的每日笔记能够全面展示我的日常生活。这个插件将完成的任务从Things中转储到我的每日笔记中，这意味着我可以保持相同的工作流程，而我的第二大脑有了一个新的数据来源。
+据我所知，我喜欢使用 Things 进行任务管理。但我也希望 Obsidian 的每日笔记能够全面展示我的日常生活。这个插件将完成的任务从 Things 中转储到我的每日笔记中，这意味着我可以保持相同的工作流程，而我的第二大脑有了一个新的数据来源。
 
 免责声明 🚨
 
@@ -69,8 +68,8 @@ modified: 20230101000000
 | 设置项           | 描述                                                                                             |
 | --------------- | ------------------------------------------------------------------------------------------------ |
 | 分区标题         | 控制任务在你的日记中显示的位置。默认为 `## Logbook`                                               |
-| 同步频率         | 您希望多久从Things数据库中获取一次任务。                                                         |
-| 标签前缀         | 允许您将Things标签添加到父标签中（例如 `#logbook/work` `#logbook/school`）。                       |
+| 同步频率         | 您希望多久从 Things 数据库中获取一次任务。                                                         |
+| 标签前缀         | 允许您将 Things 标签添加到父标签中（例如 `#logbook/work` `#logbook/school`）。                       |
 
 ## 表达感谢 🙏
 
@@ -81,6 +80,3 @@ modified: 20230101000000
 喜欢我的工作并想看到更多类似的内容？你可以赞助我。
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/liamcain?style=social)](https://github.com/sponsors/liamcain)
-
-
-

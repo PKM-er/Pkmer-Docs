@@ -1,13 +1,13 @@
 ---
-uid: 2023080322172171
-title: Obsidian 插件：【Readme】Discord Rich Presence
+uid: 20230803231105
+title: Obsidian 插件：Discord Rich Presence
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 更新你的Discord状态，让你的朋友们知道你正在Obsidian中做什么。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232523
 ---
 
 # Obsidian 插件：Discord Rich Presence
@@ -15,28 +15,27 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Discord Rich Presence
 > - 插件作者：Luke Leppan
-> - 插件说明：更新你的Discord状态，让你的朋友们知道你正在Obsidian中做什么。
-> - 插件分类：['第三方工具集成', 'obsidian插件', 'readme']
+> - 插件说明：更新你的 Discord 状态，让你的朋友们知道你正在 Obsidian 中做什么。
+> - 插件分类：[' 第三方工具集成 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lukeleppan/obsidian-discordrpc)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-discordrpc)
 
 ## 概述
 
-更新你的Discord状态，让你的朋友们知道你正在Obsidian中做什么。
+更新你的 Discord 状态，让你的朋友们知道你正在 Obsidian 中做什么。
 
 ![Discord Rich Presence](https://cdn.pkmer.cn/covers/obsidian-discordrpc.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukeleppan/obsidian-discordrpc/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-discordrpc]] 插件的自述翻译
-
 
 ## Obsidian Discord Rich Presence 插件
 
@@ -48,11 +47,11 @@ modified: 20230101000000
 
 ### 使用方法
 
-在设置中启用插件后，你的Discord状态应该显示你正在使用Obsidian.md。
+在设置中启用插件后，你的 Discord 状态应该显示你正在使用 Obsidian.md。
 
-如果Discord没有打开，那么你会在屏幕底部看到“重新连接到Discord”。你可以点击它尝试重新连接。只有当Discord打开时，它才会连接。
+如果 Discord 没有打开，那么你会在屏幕底部看到“重新连接到 Discord”。你可以点击它尝试重新连接。只有当 Discord 打开时，它才会连接。
 
-你还可以通过命令面板中的“重新连接到Discord”命令重新连接到Discord富文本。如果有问题的话。
+你还可以通过命令面板中的“重新连接到 Discord”命令重新连接到 Discord 富文本。如果有问题的话。
 
 ### 特点
 
@@ -94,7 +93,7 @@ modified: 20230101000000
 
 ### 安装
 
-您可以通过Obsidian中的Community Plugins选项卡安装插件。
+您可以通过 Obsidian 中的 Community Plugins 选项卡安装插件。
 
 #### 手动安装插件
 

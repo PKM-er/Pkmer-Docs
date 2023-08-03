@@ -1,13 +1,13 @@
 ---
-uid: 2023080322213257
-title: Obsidian 插件：【Readme】Link with alias
+uid: 20230803231105
+title: Obsidian 插件：Link with alias
 tags: ['obsidian插件', 'readme']
 description: 在目标文档的前置元数据中创建链接和别名。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232548
 ---
 
 # Obsidian 插件：Link with alias
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Link with alias
 > - 插件作者：Pavel Vojtechovsky
 > - 插件说明：在目标文档的前置元数据中创建链接和别名。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/pvojtechovsky/obsidian-link-with-alias)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?link-with-alias)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Link with alias](https://cdn.pkmer.cn/covers/link-with-alias.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pvojtechovsky/obsidian-link-with-alias/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[link-with-alias]] 插件的自述翻译
-
 
 # 别名链接
 
@@ -55,11 +54,11 @@ modified: 20230101000000
 
 用户选择一些文本并运行命令“使用别名创建链接”。该命令将从所选文本中复制目标和显示名称创建一个新链接，并打开链接自动完成弹出窗口，然后...
 
-A) ... 用户可以从自动完成弹出窗口中选择一个值，按Enter键，链接和别名就会被创建。
+A) ... 用户可以从自动完成弹出窗口中选择一个值，按 Enter 键，链接和别名就会被创建。
 
 ![运行命令，按Enter键，完成](use-case1.gif)
 
-B) ... 用户可以编辑链接目标，然后从自动完成弹出窗口中选择一个值，按Enter键，链接和别名就会被创建。请注意，链接文本保持不变。
+B) ... 用户可以编辑链接目标，然后从自动完成弹出窗口中选择一个值，按 Enter 键，链接和别名就会被创建。请注意，链接文本保持不变。
 
 ![运行命令，编辑链接，选择自动完成，按Enter键，完成](use-case5.gif)
 
@@ -89,23 +88,20 @@ B) 或者链接目标是否保持为空，以便您可以立即输入目标笔�
 
 # 注意事项
 
--   仅当目标笔记的前置元数据中不存在别名时，才会将别名添加进去
--   别名按照从长到短的顺序排序，以便正确检测 Obsidian 的反向链接
--   链接自动完成弹出窗口是 Obsidian 提供的标准窗口。有时它会自动替换链接文本，但在这种情况下并不需要。"使用别名创建链接" 操作将保持链接文本与之前完全相同。
+- 仅当目标笔记的前置元数据中不存在别名时，才会将别名添加进去
+- 别名按照从长到短的顺序排序，以便正确检测 Obsidian 的反向链接
+- 链接自动完成弹出窗口是 Obsidian 提供的标准窗口。有时它会自动替换链接文本，但在这种情况下并不需要。" 使用别名创建链接 " 操作将保持链接文本与之前完全相同。
 
 ![运行命令，按 Enter，完成](use-case4.gif)
 
 关于我
 
-我是一名软件开发人员和架构师，拥有超过35年的编程经验。我对创建和维护人类可理解、最新、分布式和可信赖的知识非常感兴趣。
+我是一名软件开发人员和架构师，拥有超过 35 年的编程经验。我对创建和维护人类可理解、最新、分布式和可信赖的知识非常感兴趣。
 
-我热爱生活、大自然、人们、心理学和舞蹈。我对Obsidian非常兴奋，因为它帮助我实验、原型设计和准备这个知识库的概念。
+我热爱生活、大自然、人们、心理学和舞蹈。我对 Obsidian 非常兴奋，因为它帮助我实验、原型设计和准备这个知识库的概念。
 
-感谢您的支持，这使我能够为Obsidian插件和我梦想中的知识库项目提供更多时间。
+感谢您的支持，这使我能够为 Obsidian 插件和我梦想中的知识库项目提供更多时间。
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pavel_knowledge)
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="BuyMeACoffee" width="170">](https://www.buymeacoffee.com/pavel.knowledge)
-
-
-

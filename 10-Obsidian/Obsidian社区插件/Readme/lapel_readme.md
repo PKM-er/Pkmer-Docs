@@ -1,13 +1,13 @@
 ---
-uid: 2023080322211352
-title: Obsidian 插件：【Readme】Lapel
+uid: 20230803231105
+title: Obsidian 插件：Lapel
 tags: ['界面相关', '效率', '目录/标题', 'obsidian插件', 'readme']
 description: 在笔记的标题层面显示标题等级，并可以直接更改。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232550
 ---
 
 # Obsidian 插件：Lapel
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Lapel
 > - 插件作者：Liam Cain
 > - 插件说明：在笔记的标题层面显示标题等级，并可以直接更改。
-> - 插件分类：['界面相关', '效率', '目录/标题', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', ' 效率 ', ' 目录/标题 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/liamcain/obsidian-lapel)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?lapel)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Lapel](https://cdn.pkmer.cn/covers/lapel.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/liamcain/obsidian-lapel/main/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +37,8 @@ modified: 20230101000000
 
 下面是 [[lapel]] 插件的自述翻译
 
-
 翻译结果如下：
+
 # Lapel 🤵
 
 装扮你的编辑器。**Lapel** 在每个标题旁边显示一个标记，以快速区分不同的标题级别
@@ -52,7 +52,7 @@ modified: 20230101000000
 
 ## 💅 自定义
 
-可以使用CSS分别针对每个标题级别进行定制。例如，如果您希望所有的H6看起来像汉堡菜单，只需更改标题标记：
+可以使用 CSS 分别针对每个标题级别进行定制。例如，如果您希望所有的 H6 看起来像汉堡菜单，只需更改标题标记：
 
 ```css
 .cm-heading-marker[data-level="6"] {
@@ -69,6 +69,3 @@ modified: 20230101000000
 喜欢我的工作并想看到更多类似的内容？你可以赞助我。
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/liamcain?style=social)](https://github.com/sponsors/liamcain)
-
-
-

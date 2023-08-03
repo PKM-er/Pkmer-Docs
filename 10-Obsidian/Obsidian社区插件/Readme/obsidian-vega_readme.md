@@ -1,13 +1,13 @@
 ---
-uid: 2023080322291306
-title: Obsidian 插件：【Readme】Vega Visualizations
+uid: 20230803231105
+title: Obsidian 插件：Vega Visualizations
 tags: ['obsidian插件', 'readme']
 description: 用于渲染 Vega 或 Vega-Lite 数据可视化图，如折线图和散点图。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232438
 ---
 
 # Obsidian 插件：Vega Visualizations
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Vega Visualizations
 > - 插件作者：Justin Kim
 > - 插件说明：用于渲染 Vega 或 Vega-Lite 数据可视化图，如折线图和散点图。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Some-Regular-Person/obsidian-vega)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-vega)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Vega Visualizations](https://cdn.pkmer.cn/covers/obsidian-vega.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Justin-J-K/obsidian-vega/master/README.md)
-> 
+>
 
 ---
 
@@ -37,16 +37,15 @@ modified: 20230101000000
 
 下面是 [[obsidian-vega]] 插件的自述翻译
 
+# Vega 可视化插件
 
-# Vega可视化插件
+在 [Obsidian笔记应用](https://obsidian.md) 中使用 JSON 格式的 Vega 或 Vega-Lite 规范创建高度可定制的数据可视化。有关格式化 [Vega规范](https://vega.github.io/vega/docs/) 和 [Vega-Lite规范](https://vega.github.io/vega-lite/docs/) 的更多文档可以在 Vega 网站上找到。
 
-在[Obsidian笔记应用](https://obsidian.md)中使用JSON格式的Vega或Vega-Lite规范创建高度可定制的数据可视化。有关格式化[Vega规范](https://vega.github.io/vega/docs/)和[Vega-Lite规范](https://vega.github.io/vega-lite/docs/)的更多文档可以在Vega网站上找到。
-
-要添加图表或绘图，请创建一个代码块，语言设置为`vega`或`vega-lite`，然后添加JSON规范。
+要添加图表或绘图，请创建一个代码块，语言设置为 `vega` 或 `vega-lite`，然后添加 JSON 规范。
 
 ## 例子
 
-### 使用Vega-Lite的柱状图
+### 使用 Vega-Lite 的柱状图
 
 ~~~markdown
 ```vega-lite
@@ -69,7 +68,7 @@ modified: 20230101000000
 
 ![柱状图示例](assets/example1.png)
 
-### 使用Vega绘制折线图
+### 使用 Vega 绘制折线图
 
 ~~~markdown
 ```vega
@@ -128,7 +127,5 @@ modified: 20230101000000
 Vega，Vega-Lite
 
 BSD 3-Clause "New" or "Revised" License
+
 版权所有（c）2015-2021，华盛顿大学交互数据实验室
-
-
-

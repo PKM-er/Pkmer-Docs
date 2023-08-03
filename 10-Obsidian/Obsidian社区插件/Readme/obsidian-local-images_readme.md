@@ -1,13 +1,13 @@
 ---
-uid: 2023080322214292
-title: Obsidian 插件：【Readme】Local images
+uid: 20230803231105
+title: Obsidian 插件：Local images
 tags: ['obsidian插件', 'readme']
 description: 本地图像插件会查找笔记中所有指向外部图像的链接，然后下载并本地保存图像，最后调整笔记中的图像链接以指向已保存的图像文件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232506
 ---
 
 # Obsidian 插件：Local images
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Local images
 > - 插件作者：catalysm, aleksey-rezvov
 > - 插件说明：本地图像插件会查找笔记中所有指向外部图像的链接，然后下载并本地保存图像，最后调整笔记中的图像链接以指向已保存的图像文件。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/aleksey-rezvov/obsidian-local-images)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-local-images)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Local images](https://cdn.pkmer.cn/covers/obsidian-local-images.jpeg!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aleksey-rezvov/obsidian-local-images/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-local-images]] 插件的自述翻译
-
 
 # Obsidian 本地图片
 
@@ -70,15 +69,14 @@ Obsidian 本地图片是 Obsidian 桌面版的一个插件。
 
 ## 信用
 
-该插件是基于[niekcandaele](https://github.com/niekcandaele/obsidian-local-images)的代码库开发的。下载、保存的关键原则以及一些文本都是从那里得到的。甚至插件的名称也是原创的。
+该插件是基于 [niekcandaele](https://github.com/niekcandaele/obsidian-local-images) 的代码库开发的。下载、保存的关键原则以及一些文本都是从那里得到的。甚至插件的名称也是原创的。
 
 开发
 
 # 启动监听模式下的打包工具
+
 npm run dev
 
 # 设置符号链接是很有用的，这样你就不必不断地复制文件了
+
 ln -s /home/user/code/obsidian-local-images /home/user/notes/dev/.obsidian/plugins/local-images
-
-
-

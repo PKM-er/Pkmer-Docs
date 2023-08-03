@@ -1,13 +1,13 @@
 ---
-uid: 2023080322212328
-title: Obsidian 插件：【Readme】Lineup Builder
+uid: 20230803231105
+title: Obsidian 插件：Lineup Builder
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中构建足球阵容。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232508
 ---
 
 # Obsidian 插件：Lineup Builder
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Lineup Builder
 > - 插件作者：James Fallon
-> - 插件说明：在Obsidian中构建足球阵容。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：在 Obsidian 中构建足球阵容。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/James-Fallon/obsidian-lineup-builder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-lineup-builder)
 
 ## 概述
 
-在Obsidian中构建足球阵容。
+在 Obsidian 中构建足球阵容。
 
 ![Lineup Builder](https://cdn.pkmer.cn/covers/obsidian-lineup-builder.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/James-Fallon/obsidian-lineup-builder/master/README.md)
-> 
+>
 
 ---
 
@@ -37,21 +37,19 @@ modified: 20230101000000
 
 下面是 [[obsidian-lineup-builder]] 插件的自述翻译
 
+# Obsidian 阵容构建插件
 
-# Obsidian阵容构建插件
-
-
-该插件允许您通过指定阵型和球员列表在Obsidian中构建足球阵容。
+该插件允许您通过指定阵型和球员列表在 Obsidian 中构建足球阵容。
 
 阵容在代码块中定义，并在预览模式下可见。
 
 ## 使用插件
 
-要创建一个阵容，您需要使用以下选项定义一个`lineup`代码块：
+要创建一个阵容，您需要使用以下选项定义一个 `lineup` 代码块：
 
 ### 阵型
 
-`formation`选项是当前可用的阵型之一：
+`formation` 选项是当前可用的阵型之一：
 
 - 433
 - 4231
@@ -65,9 +63,9 @@ modified: 20230101000000
 
 球员
 
-`players`选项定义了首发11人，从下到上，从左到右排序。
+`players` 选项定义了首发 11 人，从下到上，从左到右排序。
 
-例如，对于433阵型：Mendy,Chilwell,Silva,Rudiger,James,Mount,Jorginho,Kante,Werner,Lukaku,Havertz
+例如，对于 433 阵型：Mendy,Chilwell,Silva,Rudiger,James,Mount,Jorginho,Kante,Werner,Lukaku,Havertz
 
 ### 示例
 
@@ -94,14 +92,14 @@ modified: 20230101000000
 
 ### 特别感谢
 
-在没有使用[THeK3nger的国际象棋插件](https://github.com/THeK3nger/obsidian-chessboard)作为参考的情况下，这将不可能实现。
+在没有使用 [THeK3nger的国际象棋插件](https://github.com/THeK3nger/obsidian-chessboard) 作为参考的情况下，这将不可能实现。
 
 ## 待办事项
 
-- [x] 添加5ATB阵型
-- [x] 清理SVG代码以重用重复元素
+- [x] 添加 5ATB 阵型
+- [x] 清理 SVG 代码以重用重复元素
 - [x] 添加维基媒体的信用线
-- [x] 提交PR以将其添加到社区插件列表中
+- [x] 提交 PR 以将其添加到社区插件列表中
 - [ ] 研究不同的输入方法来列出球员
 - [ ] 自定义球队颜色
 - [ ] 自定义球场

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322185069
-title: Obsidian 插件：【Readme】From Template
+uid: 20230803231105
+title: Obsidian 插件：From Template
 tags: ['obsidian插件', 'readme']
 description: 从模板创建新笔记 - 为每个模板提供一个触发它的命令，以及一个填写模板中任何变量的表单。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232500
 ---
 
 # Obsidian 插件：From Template
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：From Template
 > - 插件作者：mo-seph
 > - 插件说明：从模板创建新笔记 - 为每个模板提供一个触发它的命令，以及一个填写模板中任何变量的表单。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/mo-seph/obsidian-note-from-template)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-notes-from-template)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![From Template](https://cdn.pkmer.cn/covers/obsidian-notes-from-template.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mo-seph/obsidian-note-from-template/master/README.md)
-> 
+>
 
 ---
 
@@ -37,18 +37,18 @@ modified: 20230101000000
 
 下面是 [[obsidian-notes-from-template]] 插件的自述翻译
 
-
 # 模板笔记
 
-该插件添加了基于模板文件创建笔记的命令。它将遍历设置中的`templates`目录中的每个文件，并为每个文件创建一个名为'From Template: <X>'的命令。每个命令将根据给定的模板创建一个笔记，并使用弹出窗口请求模板中的每个变量的值，该模板使用[Mustache](https://github.com/janl/mustache.js)语法。
+该插件添加了基于模板文件创建笔记的命令。它将遍历设置中的 `templates` 目录中的每个文件，并为每个文件创建一个名为 'From Template: <X>' 的命令。每个命令将根据给定的模板创建一个笔记，并使用弹出窗口请求模板中的每个变量的值，该模板使用 [Mustache](https://github.com/janl/mustache.js) 语法。
 
 ![模板演示](https://raw.githubusercontent.com/mo-seph/obsidian-note-from-template/master/docs/TemplateDemo.gif)
 
-Obsidian论坛上的讨论帖子：https://forum.obsidian.md/t/plugin-create-notes-from-templates/23452
+Obsidian 论坛上的讨论帖子：<https://forum.obsidian.md/t/plugin-create-notes-from-templates/23452>
 
 # 快速入门
 
 一个示例模板文件可能是：
+
 ```
 ---
 template-output: People
@@ -70,9 +70,10 @@ template-should-create: "open-pane"
 ```
 
 这将会：
+
 - 弹出一个窗口，要求输入一个笔记标题、一个概述（在文本框中）、一个组织（文本字段）和一些标签。
-- 如果编辑器中的选择是“Joe Blogs - Weissman Heiss的经理 -（很多细节）”，则弹出窗口将以Joe Blogs作为标题，“Weissman Heiss的经理”作为概述，并在正文字段中填入很多细节。
-- 基于People目录中的模板创建一个笔记。
+- 如果编辑器中的选择是“Joe Blogs - Weissman Heiss 的经理 -（很多细节）”，则弹出窗口将以 Joe Blogs 作为标题，“Weissman Heiss 的经理”作为概述，并在正文字段中填入很多细节。
+- 基于 People 目录中的模板创建一个笔记。
 - 用替换字符串替换选择的文本 - 在这种情况下，是一个指向该笔记的链接，并且概述段落的引用。如果没有选择文本，则不会将任何内容放入文档中。
 - 在新窗口中打开新的笔记
 
@@ -83,10 +84,13 @@ template-should-create: "open-pane"
 ## YAML 标签
 模板可以包含 YAML 标签，这些标签将与模板的其余部分一样被填充。因此，以下内容将按预期工作：
 ```
+
 ---
 organsiation: "{{organisation}}"
 ---
+
 {{name}} works at {{organisation}}
+
 ```
 
 为了符合 YAML 的规范，值不能以 `{` 开头，否则它们将被视为字典。因此，请确保在前置元数据中使用 `organisation: "{{org}}"` 而不是 `organisation: {{org}}`。
@@ -107,14 +111,21 @@ organsiation: "{{organisation}}"
 ### 示例
 - 使用复杂的文件名创建一个新的笔记，然后通过概述的引用插入标题：
 ``` 
+
 template-filename: "{{title}} - autocreated"
+
 template-replacement: "{{title}} - ![[{{filename#^overview}}]]"
+
 ```
 - 模板将始终将结果放回当前文档：
 ```
+
 template-should-create: "none"
+
 template-should-replace: "always"
+
 template-replacement: "{{templateResult}}"
+
 ```
 
 ## 字段类型

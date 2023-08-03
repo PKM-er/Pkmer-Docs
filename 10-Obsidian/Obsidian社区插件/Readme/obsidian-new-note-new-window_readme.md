@@ -1,13 +1,13 @@
 ---
-uid: 2023080322225263
-title: Obsidian 插件：【Readme】New Note New Window
+uid: 20230803231105
+title: Obsidian 插件：New Note New Window
 tags: ['obsidian插件', 'readme']
 description: 一款可以轻松在浮动窗口中打开新笔记的插件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232501
 ---
 
 # Obsidian 插件：New Note New Window
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：New Note New Window
 > - 插件作者：Pedro Reyes
 > - 插件说明：一款可以轻松在浮动窗口中打开新笔记的插件。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Pr0dt0s/new-note-new-window)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-new-note-new-window)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 一款可以轻松在浮动窗口中打开新笔记的插件。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Pr0dt0s/new-note-new-window/master/README.md)
-> 
+>
 
 ---
 
@@ -37,16 +35,15 @@ modified: 20230101000000
 
 下面是 [[obsidian-new-note-new-window]] 插件的自述翻译
 
+# Obsidian 中的新笔记新窗口
 
-# Obsidian中的新笔记新窗口
-
-这是一个用于在[Obsidian](https://obsidian.md)中以浮动窗口打开新笔记的插件。
+这是一个用于在 [Obsidian](https://obsidian.md) 中以浮动窗口打开新笔记的插件。
 
 ## 如何使用
 
 - 只需运行提供的命令**New Note New Window: Create New Note in Window**，或者更好的是通过设置添加自定义快捷键！
 
-新的笔记将被创建在Obsidian设置>文件和链接中设置的“新笔记的默认位置”文件夹路径下。
+新的笔记将被创建在 Obsidian 设置>文件和链接中设置的“新笔记的默认位置”文件夹路径下。
 
 ## 设置
 
@@ -58,11 +55,11 @@ modified: 20230101000000
 
 ## 手动安装插件
 
-- 将最新的[发布版本](https://github.com/Pr0dt0s/new-note-new-window/releases)中的`main.js`和`manifest.json`复制到你的存储库`VaultFolder/.obsidian/plugins/new-note-new-window/`目录下。
+- 将最新的 [发布版本](https://github.com/Pr0dt0s/new-note-new-window/releases) 中的 `main.js` 和 `manifest.json` 复制到你的存储库 `VaultFolder/.obsidian/plugins/new-note-new-window/` 目录下。
 
 ## 待办事项
 
-- [ ] 添加一个选项，可以使用一组配置组合来创建新的命令。例如，能够为在路径X上创建文件和在路径Y上创建文件分别创建独立的热键。
+- [ ] 添加一个选项，可以使用一组配置组合来创建新的命令。例如，能够为在路径 X 上创建文件和在路径 Y 上创建文件分别创建独立的热键。
 
 ## 贡献者 ✨
 
@@ -82,7 +79,7 @@ modified: 20230101000000
     <tr>
       <td align="center" size="13px" colspan="7">
         <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          
+
         </img>
       </td>
     </tr>
@@ -95,6 +92,3 @@ modified: 20230101000000
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 该项目遵循 [all-contributors](https://github.com/all-contributors/all-contributors) 规范。欢迎任何形式的贡献！
-
-
-

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322282408
-title: Obsidian 插件：【Readme】TimeStamper
+uid: 20230803231105
+title: Obsidian 插件：TimeStamper
 tags: ['obsidian插件', 'readme']
 description: 在当前光标位置插入自定义或预定义的时间戳或日期戳。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232441
 ---
 
 # Obsidian 插件：TimeStamper
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：TimeStamper
 > - 插件作者：Martin Eder
 > - 插件说明：在当前光标位置插入自定义或预定义的时间戳或日期戳。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Gru80/obsidian-timestamper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-timestamper)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![TimeStamper](https://cdn.pkmer.cn/covers/obsidian-timestamper.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Gru80/obsidian-timestamper/master/README.md)
-> 
+>
 
 ---
 
@@ -37,20 +37,25 @@ modified: 20230101000000
 
 下面是 [[obsidian-timestamper]] 插件的自述翻译
 
-
 ![发布](https://img.shields.io/github/v/release/Gru80/obsidian-timestamper)
+
 ![下载量](https://img.shields.io/github/downloads/Gru80/obsidian-timestamper/total.svg)
-时间戳 - Obsidian插件
+
+时间戳 - Obsidian 插件
+
 向您的笔记添加时间戳或日期戳：
+
 - 两个格式字符串可以在插件设置中预先配置（并通过命令或热键插入）
 - 可以通过对话框插入即席自定义时间戳（最近使用的格式将被保存并提供为建议）
 
 ![TimeStamper](res/dialog.png)
 
-支持Obsidian的桌面和移动版本。
+支持 Obsidian 的桌面和移动版本。
 
 ## 插件设置
+
 该插件带有一些配置选项：
+
 - 一个用于快速插入时间戳的默认模板字符串（通过命令或可配置的热键）
 - 一个用于快速插入日期时间戳的默认模板字符串（通过命令或可配置的热键）
 - 一个选项，用于指定是否在插入时间/日期时间戳后自动添加换行符
@@ -58,7 +63,9 @@ modified: 20230101000000
 ![PluginSettings](res/settings.png)
 
 ## 快捷键配置
-可以在Obsidian快捷键选项页面中配置快捷键，以便快速访问以下命令：
+
+可以在 Obsidian 快捷键选项页面中配置快捷键，以便快速访问以下命令：
+
 - 打开对话框以输入自定义的时间/日期格式字符串
 - 插入预定义的时间戳
 - 插入预定义的日期戳
@@ -66,7 +73,9 @@ modified: 20230101000000
 ![快捷键](res/hotkeys.png)
 
 格式字符串
-该插件使用了Obsidian默认提供的moment.js，因此可以使用moment.js中的所有已知标记来创建自定义的时间/日期戳：
+
+该插件使用了 Obsidian 默认提供的 moment.js，因此可以使用 moment.js 中的所有已知标记来创建自定义的时间/日期戳：
+
 [支持的所有标记列表](https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format/)
 
 |                             | 标记               | 输出                                     |
@@ -123,8 +132,5 @@ modified: 20230101000000
 | 时区                        | z or zz            | EST CST ... MST PST                      |
 |                             | Z                  | -07:00 -06:00 ... +06:00 +07:00          |
 |                             | ZZ                 | -0700 -0600 ... +0600 +0700              |
-| Unix时间戳                  | X                  | 1360013296                               |
-| Unix毫秒级时间戳            | x                  | 1,36001E+12                              |
-
-
-
+| Unix 时间戳                  | X                  | 1360013296                               |
+| Unix 毫秒级时间戳            | x                  | 1,36001E+12                              |

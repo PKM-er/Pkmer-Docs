@@ -1,13 +1,13 @@
 ---
-uid: 2023080322274711
-title: Obsidian 插件：【Readme】Tag Summary
-tags: ['obsidian插件', 'readme']
+uid: 20230803231105
+title: Obsidian 插件：Tag Summary
+tags: ['obsidian插件', 'readme', chapter1, crazy, crazy）。如果您只想包括包含列表中所有标签的文本块，可以使用**include:**标签声明，如下例所示。, crazy标签的段落。如果您想要排除包含特定标签的文本块，可以添加**exclude:**标签，如下所示。, chapter2标签并且同时包含, chapter4标签但不包含, chapter2**。]
 description: 这个插件可以创建具有相同标签的段落或文本块的摘要。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232420
 ---
 
 # Obsidian 插件：Tag Summary
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Tag Summary
 > - 插件作者：J.D Gauchat
 > - 插件说明：这个插件可以创建具有相同标签的段落或文本块的摘要。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/macrojd/tag-summary)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-summary-plugin)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 这个插件可以创建具有相同标签的段落或文本块的摘要。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/macrojd/tag-summary/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ modified: 20230101000000
 
 下面是 [[tag-summary-plugin]] 插件的自述翻译
 
-
 # 标签摘要
 
-这是一个[Obsidian](https://obsidian.md)的插件。
+这是一个 [Obsidian](https://obsidian.md) 的插件。
 
 标签摘要可以创建包含相同标签的段落或文本块的摘要。该插件会扫描您的文件，寻找由空行分隔的文本块，并创建一个包含所有包含指定标签的文本块的摘要。例如，如果您的笔记中有以下段落：
 
@@ -96,7 +93,7 @@ exclude: #crazy
 ```
 ````
 
-这将向摘要中添加包含#chapter1标签但不包含#crazy标签的每个文本块。如果处理上面列出的段落，只有第一个段落将被添加到摘要中。**exclude:**标签可以与**tags:**和**include:**标签结合使用以指定复杂条件。以下示例创建一个摘要，其中包含包含#chapter1 OR #chapter2标签并且同时包含#chapter3 AND #chapter4标签但不包含#crazy标签的文本块。
+这将向摘要中添加包含#chapter1 标签但不包含#crazy 标签的每个文本块。如果处理上面列出的段落，只有第一个段落将被添加到摘要中。**exclude:**标签可以与**tags:**和**include:**标签结合使用以指定复杂条件。以下示例创建一个摘要，其中包含包含#chapter1 OR #chapter2标签并且同时包含#chapter3 AND #chapter4标签但不包含#crazy 标签的文本块。
 
 ````markdown
 ```add-summary
@@ -112,7 +109,7 @@ exclude: #crazy
 
 - 打开您想要包含摘要的笔记。
 - 将光标移动到要添加摘要的位置。
-- 按下Command+P（Mac）或Control+P（Windows）打开命令面板（或在移动设备上向下拖动笔记）。
+- 按下 Command+P（Mac）或 Control+P（Windows）打开命令面板（或在移动设备上向下拖动笔记）。
 - 搜索**Tag Summary: Add Summary**命令并点击它。
 - 在弹出窗口中，选择要包含和排除的标签以创建摘要，然后按下添加摘要按钮。
 
@@ -133,7 +130,7 @@ exclude: #crazy
 
 使用方法
 
-该插件不会影响Obsidian、链接和标签的工作方式。您仍然可以按照您一直以来的方式组织您的笔记，但现在您可以为段落、文本块或列表上的项目分配标签，然后使用这些标签创建摘要，其中包括特定的标签列表。
+该插件不会影响 Obsidian、链接和标签的工作方式。您仍然可以按照您一直以来的方式组织您的笔记，但现在您可以为段落、文本块或列表上的项目分配标签，然后使用这些标签创建摘要，其中包括特定的标签列表。
 
 在构建您的笔记时，请考虑以下事项：
 
@@ -146,13 +143,12 @@ exclude: #crazy
 
 免责声明
 
-本插件不提供任何形式的保证，作者和Obsidian对于任何数据丢失或不便概不负责。
+本插件不提供任何形式的保证，作者和 Obsidian 对于任何数据丢失或不便概不负责。
+
 请自行承担使用本插件的风险。
 
 来自作者
 
-我为个人使用创建了这个插件。我会不时发布更新。如果你发现了一个bug，你可以通过我的网站与我联系：
+我为个人使用创建了这个插件。我会不时发布更新。如果你发现了一个 bug，你可以通过我的网站与我联系：
+
 [www.jdgauchat.com](https://www.jdgauchat.com/)
-
-
-

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322240219
-title: Obsidian 插件：【Readme】Onyx Boox Annotation & Highlight Extractor
+uid: 20230803231105
+title: Obsidian 插件：Onyx Boox Annotation & Highlight Extractor
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以提取Onyx Boox平板电脑导出的注释和高亮文件，并将它们转换为符合Zettelkasten方法的参考文献和永久笔记。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232435
 ---
 
 # Obsidian 插件：Onyx Boox Annotation & Highlight Extractor
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Onyx Boox Annotation & Highlight Extractor
 > - 插件作者：Akos Balasko
-> - 插件说明：这个插件可以提取Onyx Boox平板电脑导出的注释和高亮文件，并将它们转换为符合Zettelkasten方法的参考文献和永久笔记。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：这个插件可以提取 Onyx Boox 平板电脑导出的注释和高亮文件，并将它们转换为符合 Zettelkasten 方法的参考文献和永久笔记。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?onyx-boox-extractor)
 
 ## 概述
 
-这个插件可以提取Onyx Boox平板电脑导出的注释和高亮文件，并将它们转换为符合Zettelkasten方法的参考文献和永久笔记。
-
-
+这个插件可以提取 Onyx Boox 平板电脑导出的注释和高亮文件，并将它们转换为符合 Zettelkasten 方法的参考文献和永久笔记。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor/master/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +35,13 @@ modified: 20230101000000
 
 下面是 [[onyx-boox-extractor]] 插件的自述翻译
 
+Onyx Boox 批注和高亮提取器
 
-Onyx Boox批注和高亮提取器
-
-通过这个插件，您可以提取您在Onyx Boox电子墨水设备上做的批注和高亮，并将它们转换为经典的Zettelkasten笔记。
+通过这个插件，您可以提取您在 Onyx Boox 电子墨水设备上做的批注和高亮，并将它们转换为经典的 Zettelkasten 笔记。
 
 你将会得到什么？
 
-- 如果你在Onyx Boox上阅读一本书，这个插件将会生成一个带有元数据（标题和作者）的“参考笔记”。
+- 如果你在 Onyx Boox 上阅读一本书，这个插件将会生成一个带有元数据（标题和作者）的“参考笔记”。
 - 如果你在书中划重点，这个文本将会成为一个与参考笔记相关联的“文学笔记”，并且在前言中存储有元信息（创建时间、页码、章节标题、书名）。
 - 如果你对划重点的文本进行注释，这个注释将会成为一个与文学笔记和参考笔记相关联的“永久笔记”。
 
@@ -54,7 +51,7 @@ Onyx Boox批注和高亮提取器
 
 插件生成的不同笔记如下：
 
-### 参考注释：
+### 参考注释
 
 ```
 
@@ -63,7 +60,8 @@ Onyx Boox批注和高亮提取器
 
 ```
 
-### 文学笔记：
+### 文学笔记
+
 ```
 ---
 _来源_：《书名》
@@ -82,7 +80,7 @@ _参考笔记_：[链接到参考笔记]
 ---
 ```
 
-### 永久笔记：
+### 永久笔记
 
 ```
 ---

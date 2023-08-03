@@ -1,13 +1,13 @@
 ---
-uid: 2023080322274875
-title: Obsidian 插件：【Readme】Tag, Word & Link Cloud
+uid: 20230803231105
+title: Obsidian 插件：Tag, Word & Link Cloud
 tags: ['obsidian插件', 'readme']
 description: 展示你的标签/词/链接的云图
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232420
 ---
 
 # Obsidian 插件：Tag, Word & Link Cloud
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Tag, Word & Link Cloud
 > - 插件作者：Johannes Theiner
 > - 插件说明：展示你的标签/词/链接的云图
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/joethei/obsidian-tagcloud)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-word-cloud)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Tag, Word & Link Cloud](https://cdn.pkmer.cn/covers/tag-word-cloud.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joethei/obsidian-tagcloud/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,9 @@ modified: 20230101000000
 
 下面是 [[tag-word-cloud]] 插件的自述翻译
 
-
 ## 标签、词语和链接云
 
-[Obsidian](https://obsidian.md)插件
+[Obsidian](https://obsidian.md) 插件
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/joethei/obsidian-tagcloud)
 ![GitHub manifest.json dynamic (path)](https://img.shields.io/github/manifest-json/minAppVersion/joethei/obsidian-tagcloud?label=lowest%20supported%20app%20version)
@@ -50,11 +49,12 @@ modified: 20230101000000
 
 使用此插件，您可以在笔记中创建标签、链接或词语云。
 
-要实现这一点，请创建一个语言设置为`tagcloud`、`wordcloud`或`linkcloud`的[代码块](https://help.obsidian.md/How+to/Format+your+notes#Code+blocks)。
+要实现这一点，请创建一个语言设置为 `tagcloud`、`wordcloud` 或 `linkcloud` 的 [代码块](https://help.obsidian.md/How+to/Format+your+notes#Code+blocks)。
 
-您可以使用[YAML](https://learnxinyminutes.com/docs/yaml/)语法来配置您的云。
+您可以使用 [YAML](https://learnxinyminutes.com/docs/yaml/) 语法来配置您的云。
 
 ## 标签云
+
 ![](https://i.joethei.space/9URSIqXbEs.png)
 
 显示符合您选择的所有标签。
@@ -75,7 +75,8 @@ source: file
 ```
 ~~~
 
-#### 显示文件夹/文件的所有标签。
+#### 显示文件夹/文件的所有标签
+
 > ⚠️ 需要 Dataview
 
 ~~~markdown
@@ -85,7 +86,8 @@ query: Folder/File
 ```
 ~~~
 
-#### 显示与我们的标签一起出现的所有标签。
+#### 显示与我们的标签一起出现的所有标签
+
 > ⚠️ 需要 Dataview
 
 ~~~markdown
@@ -95,8 +97,9 @@ query: '#yourTag'
 ```
 ~~~
 
-#### 显示所有链接到笔记的标签。
-> ⚠️ 需要Dataview
+#### 显示所有链接到笔记的标签
+
+> ⚠️ 需要 Dataview
 
 ~~~markdown
 ```tagcloud
@@ -111,14 +114,13 @@ query: '[[其他笔记]]'
 |----------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | query    | 需要 [Dataview](https://github.com/blacksmithgu/obsidian-dataview)，需要将 `source` 设置为 `query` | 有效的 [Dataview Source](https://blacksmithgu.github.io/obsidian-dataview/query/sources/) |
 
-所有其他选项仍然适用于[这里](#general-options)。
+所有其他选项仍然适用于 [这里](#general-options)。
 
 ## 词云
 
 ![](https://i.joethei.space/7WCqI74ca8.png)
 
 词云显示了您的保险库/笔记中的所有单词。
-
 
 > ⚠ 仅在加载保险库和运行“重新计算词分布”命令时才会计算词分布。
 >
@@ -144,11 +146,12 @@ source: file
 
 | **名称**   | **描述**                                                                                                 | **可能的值** | **默认值** |
 |-----------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------|
-| stopwords | 从结果中删除所有[停用词](https://www.opinosis-analytics.com/knowledge-base/stop-words-explained/) | `true`/ `false`     | `true`      |
+| stopwords | 从结果中删除所有 [停用词](https://www.opinosis-analytics.com/knowledge-base/stop-words-explained/) | `true`/ `false`     | `true`      |
 
-其他所有选项仍然适用于[这里](#general-options)
+其他所有选项仍然适用于 [这里](#general-options)
 
 ## 链接云
+
 ![](https://i.joethei.space/Obsidian_438TsZQC1w.png)
 
 链接云显示了您的存储库中的所有链接。

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322232990
-title: Obsidian 插件：【Readme】Obsidian Markdown export
+uid: 20230803231105
+title: Obsidian 插件：Obsidian Markdown export
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的Markdown导出插件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232504
 ---
 
 # Obsidian 插件：Obsidian Markdown export
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Obsidian Markdown export
 > - 插件作者：bingryan
-> - 插件说明：这是一个Obsidian的Markdown导出插件。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：这是一个 Obsidian 的 Markdown 导出插件。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/bingryan/obsidian-markdown-export-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-markdown-export-plugin)
 
 ## 概述
 
-这是一个Obsidian的Markdown导出插件。
+这是一个 Obsidian 的 Markdown 导出插件。
 
 ![Obsidian Markdown export](https://cdn.pkmer.cn/covers/obsidian-markdown-export-plugin_new.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bingryan/obsidian-markdown-export-plugin/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,9 @@ modified: 20230101000000
 
 下面是 [[obsidian-markdown-export-plugin]] 插件的自述翻译
 
-
 # Obsidian Markdown 导出
 
-这是一个为 Obsidian（https://obsidian.md）设计的 Markdown 导出插件。
+这是一个为 Obsidian（<https://obsidian.md）设计的> Markdown 导出插件。
 
 它可以让你一键将 Markdown 导出为一个包（包括图片）。
 
@@ -58,14 +57,14 @@ modified: 20230101000000
 
 如何安装
 
-### 从Obsidian内部
+### 从 Obsidian 内部
 
-您可以通过以下步骤在Obsidian内部激活此插件：
+您可以通过以下步骤在 Obsidian 内部激活此插件：
 
 - 打开设置 > 第三方插件
 - 确保安全模式处于关闭状态
 - 点击浏览社区插件
-- 搜索"Obsidian markdown export"
+- 搜索 "Obsidian markdown export"
 - 点击安装
 - 安装完成后，关闭社区插件窗口并激活新安装的插件
 

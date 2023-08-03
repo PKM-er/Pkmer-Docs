@@ -1,13 +1,13 @@
 ---
-uid: 2023080322182079
-title: Obsidian 插件：【Readme】File Tree Alternative Plugin
+uid: 20230803231105
+title: Obsidian 插件：File Tree Alternative Plugin
 tags: ['界面相关', '文件管理', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加一个全新的文件列表。文件夹和文件的内容会在不同面板内展示
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232559
 ---
 
 # Obsidian 插件：File Tree Alternative Plugin
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：File Tree Alternative Plugin
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：为 Obsidian 添加一个全新的文件列表。文件夹和文件的内容会在不同面板内展示
-> - 插件分类：['界面相关', '文件管理', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', ' 文件管理 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ozntel/file-tree-alternative)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-tree-alternative)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 为 Obsidian 添加一个全新的文件列表。文件夹和文件的内容会在不同面板内展示
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozntel/file-tree-alternative/main/README.md)
-> 
+>
 
 ---
 
@@ -37,22 +35,22 @@ modified: 20230101000000
 
 下面是 [[file-tree-alternative]] 插件的自述翻译
 
-
-# Obsidian文件树替代插件
+# Obsidian 文件树替代插件
 
 ![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/ozntel/file-tree-alternative?style=for-the-badge)
+
 ![GitHub所有发布](https://img.shields.io/github/downloads/ozntel/file-tree-alternative/total?style=for-the-badge)
 
-Obsidian的默认文件浏览器将所有文件和文件夹显示在一个视图中。文件树替代插件帮助您为文件夹和文件分别创建视图。
+Obsidian 的默认文件浏览器将所有文件和文件夹显示在一个视图中。文件树替代插件帮助您为文件夹和文件分别创建视图。
 
-该插件定期更新。您可以使用以下链接查看每个版本的详细信息[发布更新](https://github.com/ozntel/file-tree-alternative/blob/main/Releases.md)
+该插件定期更新。您可以使用以下链接查看每个版本的详细信息 [发布更新](https://github.com/ozntel/file-tree-alternative/blob/main/Releases.md)
 
 ## 插件特点
 
 ### 一般
 
-- 您可以使用`Evernote`视图，同时显示文件夹和文件列表。或者简单地关闭它以获得单独的视图。该插件支持水平或垂直拆分视图。请确保相应地调整插件设置。
-- 如果您错误地关闭了`文件树叶`，您可以使用`Ribbon图标`来激活它。您可以从插件设置中关闭`ribbon图标`。只有在意外关闭插件视图或有意关闭以重新构建时，它才会起作用。
+- 您可以使用 `Evernote` 视图，同时显示文件夹和文件列表。或者简单地关闭它以获得单独的视图。该插件支持水平或垂直拆分视图。请确保相应地调整插件设置。
+- 如果您错误地关闭了 `文件树叶`，您可以使用 `Ribbon图标` 来激活它。您可以从插件设置中关闭 `ribbon图标`。只有在意外关闭插件视图或有意关闭以重新构建时，它才会起作用。
 
 ### 文件夹窗格功能
 
@@ -85,7 +83,7 @@ Obsidian的默认文件浏览器将所有文件和文件夹显示在一个视图
 - 您可以从插件设置中打开“搜索”功能，以通过文件名筛选文件。
   - 您可以在搜索框中使用“all:”语法来从所有文件夹中搜索文件，而不仅仅是活动文件夹。
   - 您可以在搜索框中使用“tag:”语法来搜索带有标签的文件。它将显示所有与标签完全或部分匹配的文件。
-- 您可以固定按钮和标题在文件列表的顶部。并非所有主题都与此选项兼容。您可能需要添加自定义CSS来有效使用此选项：
+- 您可以固定按钮和标题在文件列表的顶部。并非所有主题都与此选项兼容。您可能需要添加自定义 CSS 来有效使用此选项：
 
     <img src="https://raw.githubusercontent.com/ozntel/file-tree-alternative/main/images/fixed-top-files.png" width="180"></img>
 
@@ -93,26 +91,25 @@ Obsidian的默认文件浏览器将所有文件和文件夹显示在一个视图
 
 # 样式设置
 
-从2.3.2版本开始，该插件支持自定义样式设置。要使用它，您需要安装插件。您可以自定义大小、颜色等。
+从 2.3.2 版本开始，该插件支持自定义样式设置。要使用它，您需要安装插件。您可以自定义大小、颜色等。
 
 ## 示例图片
 
--   单文件夹视图：
+- 单文件夹视图：
 
       <img src="https://github.com/ozntel/file-tree-alternative/raw/main/images/folders-view.png" style="width: 400px;" />
 
--   置顶固定：
+- 置顶固定：
 
       <img src="https://github.com/ozntel/file-tree-alternative/raw/main/images/files-pinned.png" style="width: 400px;" />
 
 ## 示例记录
 
 <a href="https://youtu.be/fbz8IZtXuUE" target="_blank">
-    <img src="https://github.com/ozntel/file-tree-alternative/raw/main/images/obsidian-plugin.png" style="width: 300px;" /> 
+    <img src="https://github.com/ozntel/file-tree-alternative/raw/main/images/obsidian-plugin.png" style="width: 300px;" />
 </a>
 
-您还可以查看由Antone Heyward创建的Youtube视频，详细解释了该插件的功能：
-
+您还可以查看由 Antone Heyward 创建的 Youtube 视频，详细解释了该插件的功能：
 
 ## 联系方式
 

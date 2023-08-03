@@ -1,13 +1,13 @@
 ---
-uid: 2023080322153732
-title: Obsidian 插件：【Readme】Card View Mode
+uid: 20230803231105
+title: Obsidian 插件：Card View Mode
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 以卡片模式查看你的笔记。该插件已经无法使用。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232531
 ---
 
 # Obsidian 插件：Card View Mode
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Card View Mode
 > - 插件作者：PADAone
 > - 插件说明：以卡片模式查看你的笔记。该插件已经无法使用。
-> - 插件分类：['界面相关', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/yo-goto/obsidian-card-view-mode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-card-view-mode)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 以卡片模式查看你的笔记。该插件已经无法使用。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yo-goto/obsidian-card-view-mode/master/README.md)
-> 
+>
 
 ---
 
@@ -37,16 +35,17 @@ modified: 20230101000000
 
 下面是 [[obsidian-card-view-mode]] 插件的自述翻译
 
+# Obsidian 卡片视图模式
 
-# Obsidian卡片视图模式
 ![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/yo-goto/obsidian-card-view-mode)
+
 ![GitHub所有发布](https://img.shields.io/github/downloads/yo-goto/obsidian-card-view-mode/total?color=red)
 
 ![主要截图](https://raw.githubusercontent.com/yo-goto/obsidian-card-view-mode/master/resource/screenshot_main_light-min.png)
 
-## 特性1 卡片视图
+## 特性 1 卡片视图
 
-这个插件的灵感来自于[Scrapbox](https://scrapbox.io/product?lang=en)（一个基于网络的维基工具）和尼克拉斯·卢曼的Zettelkasten方法（卡片盒）。
+这个插件的灵感来自于 [Scrapbox](https://scrapbox.io/product?lang=en)（一个基于网络的维基工具）和尼克拉斯·卢曼的 Zettelkasten 方法（卡片盒）。
 
 我发现在开发过程中，所有的笔记都不处于同一个阶段。我们需要一些方法来区分这些阶段。卡片视图功能是一种衡量笔记并表达它们的方式。你可以评估你的笔记是否是**原子的**，然后，如果你觉得你的笔记太长而且不是原子的，你可以分割或提取内容。
 
@@ -54,11 +53,11 @@ modified: 20230101000000
 
 我强烈推荐你将这个插件与滑动窗格插件一起使用。我设计这个插件与滑动窗格插件和嵌入式笔记标题插件兼容。
 
-## 特性2 注意力窗格
+## 特性 2 注意力窗格
 
 另一个特性是“注意力窗格”。一个活动的窗格卡片会被突出显示，其他窗格会变灰。这样可以让你轻松找到活动的窗格，并专注于笔记。你可以在众多笔记中关注特定的窗格！！
 
-活动和非活动的卡片使用不同的RGB颜色值进行渲染。你可以在设置选项卡中设置数值差异。如果你想禁用这个特性，将数值设为0。
+活动和非活动的卡片使用不同的 RGB 颜色值进行渲染。你可以在设置选项卡中设置数值差异。如果你想禁用这个特性，将数值设为 0。
 
 ## 演示
 
@@ -95,7 +94,7 @@ modified: 20230101000000
 
 ## 特别感谢
 
-特别感谢这些令人惊叹的插件！我在开发我的第一个公共插件时参考了这些插件。插件的基本结构主要基于Sliding Pane。我参考了其他插件来构建颜色配置系统。
+特别感谢这些令人惊叹的插件！我在开发我的第一个公共插件时参考了这些插件。插件的基本结构主要基于 Sliding Pane。我参考了其他插件来构建颜色配置系统。
 
 - [Sliding Panes (Andy Matuschak Mode)](https://github.com/deathau/sliding-panes-obsidian) by deathau
 - [Admonition](https://github.com/valentine195/obsidian-admonition) by valentine195
@@ -103,11 +102,8 @@ modified: 20230101000000
 - [Embedded Code Title](https://github.com/tadashi-aikawa/obsidian-embedded-code-title) by tadashi-aikawa
 - [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) by liamcain
 
-## 原始的CSS
+## 原始的 CSS
 
-我将这个插件从一个自定义的CSS片段开发成了一个SCSS文件。如果你对CSS样式感兴趣，你可以点击下面的链接查看原始的片段。
+我将这个插件从一个自定义的 CSS 片段开发成了一个 SCSS 文件。如果你对 CSS 样式感兴趣，你可以点击下面的链接查看原始的片段。
 
 [Gist链接](https://gist.github.com/yo-goto/742906c6463310e3f4e18c745dede016)
-
-
-

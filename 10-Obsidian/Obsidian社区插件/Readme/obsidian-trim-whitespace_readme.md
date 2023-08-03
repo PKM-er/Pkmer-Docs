@@ -1,13 +1,13 @@
 ---
-uid: 2023080322284883
-title: Obsidian 插件：【Readme】Trim Whitespace
+uid: 20230803231105
+title: Obsidian 插件：Trim Whitespace
 tags: ['obsidian插件', 'readme']
 description: 从你的 Obsidian 文档中删除不必要的空格
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232439
 ---
 
 # Obsidian 插件：Trim Whitespace
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Trim Whitespace
 > - 插件作者：Zack Lovatt
 > - 插件说明：从你的 Obsidian 文档中删除不必要的空格
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/zlovatt/obsidian-trim-whitespace)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-trim-whitespace)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 从你的 Obsidian 文档中删除不必要的空格
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zlovatt/obsidian-trim-whitespace/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-trim-whitespace]] 插件的自述翻译
-
 
 # 去除空白字符
 
@@ -80,7 +77,7 @@ Trim Whitespace 插件可以去除 Obsidian 文档中不必要的空白字符。
 
 #### 多个
 
-修剪连续的空白组（2个或更多连续的**内联**空格/制表符，或**连续的行**）
+修剪连续的空白组（2 个或更多连续的**内联**空格/制表符，或**连续的行**）
 
 |                       Before                       |                After                |
 | -------------------------------------------------- | ----------------------------------- |
@@ -118,8 +115,8 @@ Trim Whitespace 插件可以去除 Obsidian 文档中不必要的空白字符。
 
 要安装，请选择以下方式之一：
 
-1. 从[Obsidian社区插件库](obsidian://show-plugin?id=obsidian-trim-whitespace)下载，或者
-2. 使用[Releases](http://github.com/zlovatt/obsidian-trim-whitespace/releases)中的zip文件手动安装
+1. 从 [Obsidian社区插件库](obsidian://show-plugin?id=obsidian-trim-whitespace) 下载，或者
+2. 使用 [Releases](http://github.com/zlovatt/obsidian-trim-whitespace/releases) 中的 zip 文件手动安装
 
 ### 已知的问题
 
@@ -127,13 +124,13 @@ Trim Whitespace 插件可以去除 Obsidian 文档中不必要的空白字符。
 
 ### 贡献
 
-想要帮助开发或维护这个插件吗？请务必！非常欢迎PR和意见！
+想要帮助开发或维护这个插件吗？请务必！非常欢迎 PR 和意见！
 
 ### 应该给予的赞誉
 
-- 社区对[这个论坛帖子](https://forum.obsidian.md/t/trim-trailing-whitespace/17047)的兴趣
-- 插件基础知识来自[@Benature](https://github.com/Benature)的[obsidian-text-format](https://github.com/Benature/obsidian-text-format)
-- 得到了[Obsidian社区](https://obsidian.md/community)Discord服务器的大量支持
+- 社区对 [这个论坛帖子](https://forum.obsidian.md/t/trim-trailing-whitespace/17047) 的兴趣
+- 插件基础知识来自 [@Benature](https://github.com/Benature) 的 [obsidian-text-format](https://github.com/Benature/obsidian-text-format)
+- 得到了 [Obsidian社区](https://obsidian.md/community)Discord 服务器的大量支持
 
 
 

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322280308
-title: Obsidian 插件：【Readme】Text expand
+uid: 20230803231105
+title: Obsidian 插件：Text expand
 tags: ['obsidian插件', 'readme']
 description: 搜索并粘贴/引用找到的文件链接
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232543
 ---
 
 # Obsidian 插件：Text expand
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Text expand
 > - 插件作者：MrJackphil
 > - 插件说明：搜索并粘贴/引用找到的文件链接
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/mrjackphil/obsidian-text-expand)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mrj-text-expand)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Text expand](https://cdn.pkmer.cn/covers/mrj-text-expand_new.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mrjackphil/obsidian-text-expand/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +37,11 @@ modified: 20230101000000
 
 下面是 [[mrj-text-expand]] 插件的自述翻译
 
-
 # 文本扩展
 
 ![](./screenshots/1.gif)
 
-该插件将使用[Obsidian搜索功能](https://publish.obsidian.md/help/Plugins/Search)搜索文件，然后粘贴结果。可以使用[模板功能](#template-engines)自定义输出。
+该插件将使用 [Obsidian搜索功能](https://publish.obsidian.md/help/Plugins/Search) 搜索文件，然后粘贴结果。可以使用 [模板功能](#template-engines) 自定义输出。
 
 ## 目录
 
@@ -54,12 +53,15 @@ modified: 20230101000000
         - [可用序列](#special-sequences)
 
 如何使用
+
 - 您应该像这样包装您的搜索请求
+
 ```
     ```expander
     SEARCH_QUERY
     ```
 ```
+
 - 打开命令面板（`Ctrl + P`）
 - 查找并运行“Text expand: expand”命令
 - 它应该在包装的请求下方搜索并放置结果
@@ -67,15 +69,16 @@ modified: 20230101000000
 ## 搜索功能
 
 扩展代码块中的第一行始终是一个搜索请求。
+
 您可以将其留空以使用搜索面板中的结果。
 
 一旦开始搜索，插件会等待一段时间（可配置），然后将搜索面板中的结果提取到模板引擎中。
 
 模板引擎
 
-### eta模板引擎
+### eta 模板引擎
 
-您可以使用[eta](https://eta.js.org)模板引擎来管理结果。
+您可以使用 [eta](https://eta.js.org) 模板引擎来管理结果。
 
 ```
 
@@ -111,10 +114,12 @@ modified: 20230101000000
 | listItems   | Array  | 文件的列表项数组                |                                                              |
 
 ### 序列模板引擎（遗留版本）
+
 使用模板功能可以自定义输出。
-- 将模板放在SEARCH_QUERY行下方
+
+- 将模板放在 SEARCH_QUERY 行下方
 - 在代码块中放置光标和模板
-- 打开命令面板（`Ctrl+P`）并找到`Text expand: expand`命令
+- 打开命令面板（`Ctrl+P`）并找到 `Text expand: expand` 命令
 
 创建列表的示例：
 
@@ -142,8 +147,8 @@ modified: 20230101000000
     >这是一个页脚
     ```
 
-- 以`^`开头的行是标题。它将添加在列表的顶部
-- 以`>`开头的行是页脚。它将添加在列表的底部
+- 以 `^` 开头的行是标题。它将添加在列表的顶部
+- 以 `>` 开头的行是页脚。它将添加在列表的底部
 - 没有特殊符号开头的行将为每个文件重复。此外，所有特殊序列将被替换。
 
 #### 特殊序列
@@ -151,36 +156,39 @@ modified: 20230101000000
 | 正则表达式               | 描述                                                                                                                   | 用法示例                                                     |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | `$filename`              | 文件的基本名称                                                                                                         | `$filename`                                                |
-| `$link`                  | Wiki链接                                                                                                               | `$link`                                                    |
-| `$searchresult`          | 根据在搜索窗口中选择的上下文数量显示的Obsidian搜索结果的上下文                                                         | `$searchresult`                                            |
+| `$link`                  | Wiki 链接                                                                                                               | `$link`                                                    |
+| `$searchresult`          | 根据在搜索窗口中选择的上下文数量显示的 Obsidian 搜索结果的上下文                                                         | `$searchresult`                                            |
 | `$matchline`             | 包含搜索查询的行                                                                                                       | `$matchline`                                               |
-| `$matchline:NUMBER`      | 包含搜索查询和匹配行之前和之后的NUMBER行的行                                                                               | `$matchline:10`                                            |
-| `$matchline:+NUMBER`     | 包含搜索查询和匹配行之后的NUMBER行的行                                                                                   | `$matchline:+10`                                           |
-| `$matchline:COUNT:LIMIT` | 包含搜索查询和周围NUMBER行以及通过LIMIT字符限制行的行                                                                   | `$matchline:0:10`                                          |
+| `$matchline:NUMBER`      | 包含搜索查询和匹配行之前和之后的 NUMBER 行的行                                                                               | `$matchline:10`                                            |
+| `$matchline:+NUMBER`     | 包含搜索查询和匹配行之后的 NUMBER 行的行                                                                                   | `$matchline:+10`                                           |
+| `$matchline:COUNT:LIMIT` | 包含搜索查询和周围 NUMBER 行以及通过 LIMIT 字符限制行的行                                                                   | `$matchline:0:10`                                          |
 | `$lines`                 | 文件的完整内容                                                                                                         | `$lines`                                                   |
-| `$lines:NUMBER`          | 文件中的NUMBER行                                                                                                       | `$lines:10`                                                |
+| `$lines:NUMBER`          | 文件中的 NUMBER 行                                                                                                       | `$lines:10`                                                |
 | `$ext`                   | 文件的扩展名                                                                                                           |                                                            |
 | `$created`               |                                                                                                                        |                                                            |
 | `$size`                  |                                                                                                                        |                                                            |
 | `$parent`                | 父文件夹                                                                                                               |                                                            |
 | `$path`                  | 文件的路径                                                                                                             |                                                            |
-| `$frontmatter:NAME`      | 来自字段`NAME`的frontmatter值                                                                                          |                                                            |
+| `$frontmatter:NAME`      | 来自字段 `NAME` 的 frontmatter 值                                                                                          |                                                            |
 | `$header:##`             | 所有标题作为链接                                                                                                       |                                                            |
 | `$header:###HEADER`      | 标题作为链接                                                                                                           | `$header:##Ideas`<br/> `$header:"## Plugins for Obsidian"` |
 | `$blocks`                | 笔记中所有块的路径作为链接                                                                                             |                                                            |
 
 ## 设置
+
 - 延迟（默认：`100ms`）- 插件不会等待搜索完成。它会等待一段延迟时间，然后粘贴结果。
 - 行尾（默认：`<-->`）- 展开内容下方的线条的样式
 - 默认模板（默认：`- [[$filename]]`）- 当没有提供模板时，展开内容的样式
 - 前缀 - 在模板部分中使用哪个前缀来识别页眉/页脚
 
 ## 安装
-- 只需使用内置插件管理器，找到`Text expand`插件
+
+- 只需使用内置插件管理器，找到 `Text expand` 插件
 
 ### 手动安装
+
 - 您需要 Obsidian v0.9.18+ 版本以获取插件的最新版本
-- 获取[最新版本](https://github.com/mrjackphil/obsidian-text-expand/releases/latest)
+- 获取 [最新版本](https://github.com/mrjackphil/obsidian-text-expand/releases/latest)
 - 解压文件并将其放置在您的 vault 的插件文件夹中：`<vault>/.obsidian/plugins/`
 - 重新加载 Obsidian
 - 如果提示安全模式，请禁用安全模式并启用插件。否则，请前往设置，第三方插件，确保安全模式已关闭，并从那里启用插件。

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322213938
-title: Obsidian 插件：【Readme】List Modified
+uid: 20230803231105
+title: Obsidian 插件：List Modified
 tags: ['obsidian插件', 'readme']
 description: 一个简单的黑曜石插件，它将符合某些标准的所有修改文件链接到每日笔记中。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232506
 ---
 
 # Obsidian 插件：List Modified
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：List Modified
 > - 插件作者：Francis Kafieh
 > - 插件说明：一个简单的黑曜石插件，它将符合某些标准的所有修改文件链接到每日笔记中。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/franciskafieh/obsidian-list-modified)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-list-modified)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![List Modified](https://cdn.pkmer.cn/covers/obsidian-list-modified.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/franciskafieh/obsidian-list-modified/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-list-modified]] 插件的自述翻译
-
 
 # Obsidian 列出修改的文件
 
@@ -54,11 +53,11 @@ modified: 20230101000000
 
 # 使用和配置
 
-请阅读[维基](https://github.com/franciskafieh/obsidian-list-modified/wiki)。
+请阅读 [维基](https://github.com/franciskafieh/obsidian-list-modified/wiki)。
 
-为什么不使用Dataview？
+为什么不使用 Dataview？
 
-- 目前，查询无法在时间上“冻结”（以纯文本形式显示在Obsidian之外）。
+- 目前，查询无法在时间上“冻结”（以纯文本形式显示在 Obsidian 之外）。
   - 这会阻止您在切换应用程序时轻松转移日志。
 - 查询依赖于文件的创建/修改属性，这与同步不兼容（即日期变为文件上次同步的时间）。
 
@@ -67,9 +66,7 @@ modified: 20230101000000
 该插件不应造成任何损害，但是**为了以防万一，您应该始终备份！**我对任何损害不负责任！
 
 # 支持
-如果OLM在任何方面对您有所帮助，并且您希望为未来的开发提供资金支持，请随时在Ko-fi上支持我！所有捐款都将不胜感激 :)
+
+如果 OLM 在任何方面对您有所帮助，并且您希望为未来的开发提供资金支持，请随时在 Ko-fi 上支持我！所有捐款都将不胜感激 :)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7GBZLX)
-
-
-

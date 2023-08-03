@@ -1,13 +1,13 @@
 ---
-uid: 2023080322160526
-title: Obsidian 插件：【Readme】Code Editor Shortcuts
+uid: 20230803231105
+title: Obsidian 插件：Code Editor Shortcuts
 tags: ['obsidian插件', 'readme']
 description: 添加经常出现在代码编辑器（如Visual Studio Code（vscode）或Sublime Text）中的快捷键（热键）
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232521
 ---
 
 # Obsidian 插件：Code Editor Shortcuts
@@ -15,28 +15,25 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Code Editor Shortcuts
 > - 插件作者：Tim Hor
-> - 插件说明：添加经常出现在代码编辑器（如Visual Studio Code（vscode）或Sublime Text）中的快捷键（热键）
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：添加经常出现在代码编辑器（如 Visual Studio Code（vscode）或 Sublime Text）中的快捷键（热键）
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/timhor/obsidian-editor-shortcuts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-editor-shortcuts)
 
 ## 概述
 
-添加经常出现在代码编辑器（如Visual Studio Code（vscode）或Sublime Text）中的快捷键（热键）
-
-
+添加经常出现在代码编辑器（如 Visual Studio Code（vscode）或 Sublime Text）中的快捷键（热键）
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/timhor/obsidian-editor-shortcuts/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-editor-shortcuts]] 插件的自述翻译
-
 
 # 代码编辑器快捷键
 
@@ -99,7 +96,7 @@ modified: 20230101000000
 
 ### 多重光标
 
-大多数这些快捷键都适用于[多重光标](https://help.obsidian.md/How+to/Multiple+cursors)。然而，在实时预览中，撤消和重做操作不会直观地工作 - 每个光标的操作将被单独处理，而不是分组在一起。正在进行的工作是逐步将它们迁移到更新的Obsidian编辑器API，以便进行分组，并且已经完成了以下操作：
+大多数这些快捷键都适用于 [多重光标](https://help.obsidian.md/How+to/Multiple+cursors)。然而，在实时预览中，撤消和重做操作不会直观地工作 - 每个光标的操作将被单独处理，而不是分组在一起。正在进行的工作是逐步将它们迁移到更新的 Obsidian 编辑器 API，以便进行分组，并且已经完成了以下操作：
 
 - 在上方插入行
 - 在下方插入行
@@ -114,7 +111,7 @@ modified: 20230101000000
 
 安装插件
 
-请参考官方安装第三方插件的说明[链接](https://help.obsidian.md/Extending+Obsidian/Community+plugins)。
+请参考官方安装第三方插件的说明 [链接](https://help.obsidian.md/Extending+Obsidian/Community+plugins)。
 
 ## 配置设置
 
@@ -132,16 +129,13 @@ modified: 20230101000000
 
 开始操作：
 
-- 切换到指定的Node版本：`nvm use`
+- 切换到指定的 Node 版本：`nvm use`
 - 安装依赖：`yarn install`
 - 运行扩展：`yarn start`
-- 运行测试：`yarn test`（使用`--watch`进行观察模式）
+- 运行测试：`yarn test`（使用 `--watch` 进行观察模式）
 
 ## 支持
 
 这个插件完全免费使用，但如果你想表示感谢，考虑给我买杯咖啡吧！😄
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/timhor)
-
-
-

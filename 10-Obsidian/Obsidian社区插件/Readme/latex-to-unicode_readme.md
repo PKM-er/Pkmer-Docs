@@ -1,13 +1,13 @@
 ---
-uid: 2023080322211894
-title: Obsidian 插件：【Readme】LaTeX to Unicode converter
+uid: 20230803231105
+title: Obsidian 插件：LaTeX to Unicode converter
 tags: ['obsidian插件', 'readme']
 description: 将LaTeX命令转换为Unicode序列
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232549
 ---
 
 # Obsidian 插件：LaTeX to Unicode converter
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：LaTeX to Unicode converter
 > - 插件作者：fjdu
-> - 插件说明：将LaTeX命令转换为Unicode序列
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：将 LaTeX 命令转换为 Unicode 序列
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/fjdu/obsidian-latex-unicode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?latex-to-unicode)
 
 ## 概述
 
-将LaTeX命令转换为Unicode序列
-
-
+将 LaTeX 命令转换为 Unicode 序列
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/fjdu/obsidian-latex-unicode/master/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +35,13 @@ modified: 20230101000000
 
 下面是 [[latex-to-unicode]] 插件的自述翻译
 
+# 将简单的 LaTeX 符号转换为 Unicode
 
-# 将简单的LaTeX符号转换为Unicode
-
-Obsidian支持LaTeX，但有些情况下Unicode符号就足够了。
+Obsidian 支持 LaTeX，但有些情况下 Unicode 符号就足够了。
 
 ## 工作原理
 
-运行命令“LaTeX to Unicode”。在弹出框中输入LaTeX命令，然后插入转换结果。
+运行命令“LaTeX to Unicode”。在弹出框中输入 LaTeX 命令，然后插入转换结果。
 
 ```
 输入：3^2 + 4^2 = 5^2
@@ -70,7 +67,8 @@ Obsidian支持LaTeX，但有些情况下Unicode符号就足够了。
 ```
 
 ## 致谢
-- 该插件基于[unicodeit](https://www.unicodeit.net/)，具体来说是基于[这个GitHub仓库](https://github.com/svenkreiss/unicodeit/)。`unicodeit`的许可证和源代码已包含在`unicodeit`目录中。
+
+- 该插件基于 [unicodeit](https://www.unicodeit.net/)，具体来说是基于 [这个GitHub仓库](https://github.com/svenkreiss/unicodeit/)。`unicodeit` 的许可证和源代码已包含在 `unicodeit` 目录中。
 
 
 

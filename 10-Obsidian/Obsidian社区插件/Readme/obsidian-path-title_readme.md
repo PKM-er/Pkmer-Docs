@@ -1,13 +1,13 @@
 ---
-uid: 2023080322243519
-title: Obsidian 插件：【Readme】Path Title
+uid: 20230803231105
+title: Obsidian 插件：Path Title
 tags: ['obsidian插件', 'readme']
 description: 将路径（或可选替换）添加到每个窗格的文件名标题
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232458
 ---
 
 # Obsidian 插件：Path Title
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Path Title
 > - 插件作者：Justin Deal
 > - 插件说明：将路径（或可选替换）添加到每个窗格的文件名标题
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/jdeal/obsidian-path-title-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-path-title)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Path Title](https://cdn.pkmer.cn/covers/obsidian-path-title.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jdeal/obsidian-path-title-plugin/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-path-title]] 插件的自述翻译
-
 
 # 黑曜石路径标题
 
@@ -56,7 +55,7 @@ modified: 20230101000000
 
 ### 精确路径替换
 
-您可以将整个路径的精确匹配替换为另一个路径。例如，这里我们将"Notes/Ideas"替换为"💡"。
+您可以将整个路径的精确匹配替换为另一个路径。例如，这里我们将 "Notes/Ideas" 替换为 "💡"。
 
 ![](https://cdn.zappy.app/c7c80545823b131908a173aff455059a.png)
 
@@ -80,13 +79,10 @@ modified: 20230101000000
 
 ### 正则表达式替换
 
-您可以使用正则表达式在路径中的任何位置匹配文本，并使用$1、$2等来插入正则表达式匹配的组，将其替换为替代文本。这样可以通过单个规则更改多个路径。
+您可以使用正则表达式在路径中的任何位置匹配文本，并使用 $1、$2 等来插入正则表达式匹配的组，将其替换为替代文本。这样可以通过单个规则更改多个路径。
 
 ![](https://cdn.zappy.app/4a49fc9af3368e517121c63a2c7274ad.png)
 
 ![](https://cdn.zappy.app/1ce42f3bce22a390ffb31bf218e5a61b.png)
 
 ![](https://cdn.zappy.app/8ca611abe0aefcac318ec13c149a6c11.png)
-
-
-

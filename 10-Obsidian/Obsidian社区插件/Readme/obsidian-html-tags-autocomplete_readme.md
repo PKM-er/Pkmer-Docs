@@ -1,13 +1,13 @@
 ---
-uid: 2023080322195932
-title: Obsidian 插件：【Readme】HTML Tags Autocomplete
+uid: 20230803231105
+title: Obsidian 插件：HTML Tags Autocomplete
 tags: ['编程', '编辑工具', '效率', 'obsidian插件', 'readme']
 description: 自动添加结束 HTML 标签。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232514
 ---
 
 # Obsidian 插件：HTML Tags Autocomplete
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：HTML Tags Autocomplete
 > - 插件作者：bicarlsen
 > - 插件说明：自动添加结束 HTML 标签。
-> - 插件分类：['编程', '编辑工具', '效率', 'obsidian插件', 'readme']
+> - 插件分类：[' 编程 ', ' 编辑工具 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/bicarlsen/obsidian_html_tags_autocomplete)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-html-tags-autocomplete)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![HTML Tags Autocomplete](https://cdn.pkmer.cn/covers/obsidian-html-tags-autocomplete.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bicarlsen/obsidian_html_tags_autocomplete/main/README.md)
-> 
+>
 
 ---
 
@@ -37,19 +37,17 @@ modified: 20230101000000
 
 下面是 [[obsidian-html-tags-autocomplete]] 插件的自述翻译
 
+# Obsidian HTML 标签自动完成
 
-# Obsidian HTML标签自动完成
-
-自动完成HTML标签。就是这么简单。
+自动完成 HTML 标签。就是这么简单。
 
 ![自动完成示例](autocomplete_example.png)
 
 该插件有三个功能：
-1. **添加闭合标签。**在输入HTML标签进行格式化时，会建议添加闭合标签。例如，在文本中输入`<sub>`，该插件会为您添加闭合标签`</sub>`。
 
+1. **添加闭合标签。**在输入 HTML 标签进行格式化时，会建议添加闭合标签。例如，在文本中输入 `<sub>`，该插件会为您添加闭合标签 `</sub>`。
 2. **跳过标签。**在光标移动到标签旁边或标签内部时，可以跳过整个标签。
-
-3. （即将推出）**修改匹配标签。**如果修改了一个HTML标签，它的匹配标签也会被更新。
+3. （即将推出）**修改匹配标签。**如果修改了一个 HTML 标签，它的匹配标签也会被更新。
 
 ## 命令
 
@@ -66,6 +64,3 @@ modified: 20230101000000
 在标签内部或旁边时，使用“转到匹配标签”命令，如果存在匹配的标签。
 
 **建议的快捷键**：`Ctrl + m`
-
-
-

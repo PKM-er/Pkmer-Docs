@@ -1,13 +1,13 @@
 ---
-uid: 2023080322232076
-title: Obsidian 插件：【Readme】Obsidian Columns
+uid: 20230803231105
+title: Obsidian 插件：Obsidian Columns
 tags: ['编辑器', '美化', '界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 笔记添加多栏结构，你可以通过这种多栏结构，来优化 OB 笔记的排版。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232528
 ---
 
 # Obsidian 插件：Obsidian Columns
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Obsidian Columns
 > - 插件作者：Trevor Nichols
 > - 插件说明：为 Obsidian 笔记添加多栏结构，你可以通过这种多栏结构，来优化 OB 笔记的排版。
-> - 插件分类：['编辑器', '美化', '界面相关', 'obsidian插件', 'readme']
+> - 插件分类：[' 编辑器 ', ' 美化 ', ' 界面相关 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/tnichols217/obsidian-columns)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-columns)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Obsidian Columns](https://cdn.pkmer.cn/covers/obsidian-columns.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tnichols217/obsidian-columns/main/README.md)
-> 
+>
 
 ---
 
@@ -37,22 +37,27 @@ modified: 20230101000000
 
 下面是 [[obsidian-columns]] 插件的自述翻译
 
-
 # 石英柱
 
-允许您在Obsidian中创建列\
+允许您在 Obsidian 中创建列\
+
 此插件还可以在移动设备上使用列包装功能（您可以在设置中启用）
 
-**新功能：Callout语法** 使用col和col-md callouts来创建您的列
+**新功能：Callout 语法** 使用 col 和 col-md callouts 来创建您的列
 
 添加了一个特殊的列表语法来创建列。\
-添加了两种代码块语言：col和col-md。\
-col-md代码块只是markdown\
-col代码块将每个markdown元素呈现为自己的列。
-- 使用md代码块将元素分组为一列
-添加了col和col-md callouts，以便无需javascript创建列
+
+添加了两种代码块语言：col 和 col-md。\
+
+col-md 代码块只是 markdown\
+
+col 代码块将每个 markdown 元素呈现为自己的列。
+
+- 使用 md 代码块将元素分组为一列
+添加了 col 和 col-md callouts，以便无需 javascript 创建列
 
 ## Callout 语法
+
 Callout 语法完全不使用 JavaScript，这使得它与实时预览非常兼容，而无需使用代码块，这也意味着 Callout 语法无法限制列的高度。
 
 col callout 将 Callout 中的每个项都呈现为自己的列，但 col-md 将它们分组为一列。
@@ -67,6 +72,7 @@ col callout 将 Callout 中的每个项都呈现为自己的列，但 col-md 将
 ```
 
 要使用 col-md callout，请在 col callout 中创建一个 col-md callout
+
 ```md
 > [!col]
 > A col callout
@@ -78,6 +84,7 @@ col callout 将 Callout 中的每个项都呈现为自己的列，但 col-md 将
 ```
 
 可以通过在 col-md 名称后添加宽度来调整 col-md callout 的宽度：
+
 ```md
 > [!col]
 > A col callout
@@ -87,12 +94,14 @@ col callout 将 Callout 中的每个项都呈现为自己的列，但 col-md 将
 >> 
 >> This column is now 3 times the width of the first column
 ```
+
 由于实时预览和 CSS attr() 函数的限制，col-md callout 的宽度属性只能是 0.5 的倍数，最多为 10，例如 1、1.5、6.5 等。
 
 可以通过在 Callout 中创建一个新的列来嵌套更多列。下面是更多示例。
 
 ## 代码块设置块
-所有的块都有一个设置头，定义为`===`分隔符上方的所有内容
+
+所有的块都有一个设置头，定义为 `===` 分隔符上方的所有内容
 
 - col
 	- height: CSS 高度或 `shortest`
@@ -115,9 +124,11 @@ flexGrow=2
 所有的块都有一个高度设置，可以将代码块的高度限制为任何 CSS 高度值（例如：100px）
 
 ### col
-col代码块可以具有`shortest`的高度，这将限制所有列的高度为其子元素中最短的高度。
+
+col 代码块可以具有 `shortest` 的高度，这将限制所有列的高度为其子元素中最短的高度。
 
 例如：
+
 `````md
 ````col
 height=shortest
@@ -138,15 +149,16 @@ line 2
 
 #### 行
 
-在`col`代码块中使用"==="来表示列中的新行
+在 `col` 代码块中使用 "===" 来表示列中的新行
 
-col-md块具有额外的flexGrow设置，用于设置代码块的相对宽度。
+col-md 块具有额外的 flexGrow 设置，用于设置代码块的相对宽度。
 
 ## 示例
 
 ![image](https://user-images.githubusercontent.com/62992267/181198772-f9f11e54-d0f2-4a60-a0aa-8ebb364bffe8.png)
 
 由下面的 MD 生成：
+
 ````````md
 ```````col
 ``````col-md

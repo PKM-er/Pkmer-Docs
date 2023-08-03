@@ -1,13 +1,13 @@
 ---
-uid: 2023080322154356
-title: Obsidian 插件：【Readme】Chat View
+uid: 20230803231105
+title: Obsidian 插件：Chat View
 tags: ['obsidian插件', 'readme']
 description: 聊天视图让您可以快速轻松地在 Markdown 文件中创建优雅的聊天 UI。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232530
 ---
 
 # Obsidian 插件：Chat View
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Chat View
 > - 插件作者：Aditya Majethia
 > - 插件说明：聊天视图让您可以快速轻松地在 Markdown 文件中创建优雅的聊天 UI。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/adifyr/obsidian-chat-view)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-chat-view)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Chat View](https://cdn.pkmer.cn/covers/obsidian-chat-view.jpeg!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/adifyr/obsidian-chat-view/master/README.md)
-> 
+>
 
 ---
 
@@ -37,21 +37,23 @@ modified: 20230101000000
 
 下面是 [[obsidian-chat-view]] 插件的自述翻译
 
-
 # Obsidian 聊天视图插件
+
 Chat View 让您可以在 Markdown 文件中快速轻松地创建优雅的聊天界面。
 
 ![Obsidian 聊天视图概览](https://github.com/adifyr/obsidian-chat-view/raw/master/images/obsidian_chatview_plugin.jpg)
 
 ## 用法
 
-每个聊天消息必须以 `'<'`、`'>'` 或 `'^'` 作为前缀，分别表示左对齐、右对齐和居中对齐的消息。每个聊天消息由3个部分组成：标题、消息和副文本。这些部分由 `'|'` 字符分隔。请看下面的示例，了解它是如何工作的：
+每个聊天消息必须以 `'<'`、`'>'` 或 `'^'` 作为前缀，分别表示左对齐、右对齐和居中对齐的消息。每个聊天消息由 3 个部分组成：标题、消息和副文本。这些部分由 `'|'` 字符分隔。请看下面的示例，了解它是如何工作的：
+
 ~~~
 ```chat
 < 菲茨威廉·达西 | 我违背了我的判断，违背了家人的期望...你出生的低劣，我的地位和环境。 | 1846年7月23日下午5:42
 > 伊丽莎白·班纳特 | 等一下，达西先生，我恐怕我不明白你的意思。 | 1846年7月23日下午5:42
 ```
 ~~~
+
 以上代码将生成以下聊天视图：
 
 ![Chat View Preview 1](https://github.com/adifyr/obsidian-chat-view/raw/master/images/chatview_preview1.jpg)
@@ -59,7 +61,8 @@ Chat View 让您可以在 Markdown 文件中快速轻松地创建优雅的聊天
 💡 **如果您想在消息中显示管道 `|` 字符，您只需要用反斜杠进行转义，就像这样：`\|`。**
 
 ## 添加分隔符和注释
-您可以通过在一行上输入`'...'`来向聊天视图中添加分隔符。要添加注释，请以`'#'`字符开头的行。请看下面的示例：
+
+您可以通过在一行上输入 `'...'` 来向聊天视图中添加分隔符。要添加注释，请以 `'#'` 字符开头的行。请看下面的示例：
 
 ~~~
 ```chat
@@ -86,6 +89,7 @@ Chat View 让您可以在 Markdown 文件中快速轻松地创建优雅的聊天
 
 下面的示例展示了这三个选项如何协同工作。
 ~~~
+
 ```chat
 {header=h3, mw=75}
 [Elizabeth Bennett=blue, Fitzwilliam Darcy=yellow]
@@ -125,6 +129,7 @@ Header: h3
 00:00:04.310 --> 00:00:04.940
 <v fjorn@gmail.com>Uhm - would be correct! I have no idea what John is talking about!</v>
 ```
+
 ~~~
 
 以上代码将生成以下聊天视图：
@@ -136,6 +141,7 @@ Header: h3
 从版本1.2.0开始，Chat View插件现在支持简约模式。您可以通过在代码块的配置行中添加以下内容来启用简约模式：`{..., mode=minimal}`。这将生成一个没有气泡和紧凑间距的Chat View，使其看起来更像是一个论坛帖子。以下示例展示了简约模式的效果：
 
 ~~~
+
 ```chat
 {mw=90,mode=minimal}
 [Albus Dumbledore=teal, Minerva McGonagall=pink]
@@ -144,6 +150,7 @@ Header: h3
 < Minerva McGonagall | 晚上好，邓布利多教授。告诉我，这些传闻真的是真的吗？ | 1982年4月25日上午2:07
 < Albus Dumbledore | 很遗憾，教授，它们是真的。好的和坏的都有。哈格里正在带着那个男孩来。 | 1982年4月25日上午2:08
 ```
+
 ~~~
 
 上面的代码块将生成以下Chat View：
@@ -159,12 +166,14 @@ Header: h3
 上面的Chat View是从以下代码块生成的：
 
 ~~~
+
 ```chat
 [Brian Williams=pink, Stacy Adams=orange]
 {mw=80}
 < Brian Williams | <h6>Pier Trip Suggestions</h6> Hi Stacy, I'm planning to go on a trip to a pier in the state! So, I wanted to ask if you had any suggestions. I have a couple of pre-conditions though: <ul><li>It needs to be a beautiful spot. [So that I can take loads of pics!](https://theculturetrip.com/north-america/usa/california/articles/the-coolest-piers-in-california-from-santa-monica-to-santa-barbara/)</li><li>It needs to be affordable. [This one's kinda expensive.](https://www.tripadvisor.in/Attraction_Review-g60713-d102779-Reviews-Pier_39-San_Francisco_California.html)</li></ul> **So, can you please help me out?** I'll be sure to send over a souvenir. Thanks! | Yesterday at 5:45 PM
 > Stacy Adams | ![Santa Monica Pier](https://images.hdqwalls.com/wallpapers/santa-monica-ferris-wheel-colorful-golden-hour-hz.jpg) <h6>How About Santa Monica?</h6> Jutting out into the Pacific Ocean at the intersection of Ocean and Colorado, it symbolizes the *Heart of Santa Monica* and is one of the most photographed locations in the world. It also has affordable rentals and accomodation! | Today at 10:30 AM
 ```
+
 ~~~
 
 ### ⚠️ 重要
@@ -194,6 +203,7 @@ Header: h3
 所有这些都汇集成了下面所示的聊天视图类型：
 
 ~~~
+
 ```chat-transcript
 > Other-Firstname Other-Lastname
 [Firstname Lastname=blue, Other-Firstname Other-Lastname=pink]
@@ -205,6 +215,7 @@ Header: h3
 [1:40:26 PM] Other-Firstname Other-Lastname：当然，谢谢！很高兴能遇到一个能帮助我解决这个问题的人。
 Firstname Lastname已离开此聊天。
 ```
+
 ~~~
 
 上面的代码块将呈现以下聊天视图：

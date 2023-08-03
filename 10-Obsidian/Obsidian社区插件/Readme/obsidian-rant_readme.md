@@ -1,13 +1,13 @@
 ---
-uid: 2023080322253442
-title: Obsidian 插件：【Readme】Rant-Lang
+uid: 20230803231105
+title: Obsidian 插件：Rant-Lang
 tags: ['obsidian插件', 'readme']
 description: Rant是一个高级过程模板语言的薄包装。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232454
 ---
 
 # Obsidian 插件：Rant-Lang
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Rant-Lang
 > - 插件作者：Leander Neiß
-> - 插件说明：Rant是一个高级过程模板语言的薄包装。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：Rant 是一个高级过程模板语言的薄包装。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lanice/obsidian-rant)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-rant)
 
 ## 概述
 
-Rant是一个高级过程模板语言的薄包装。
+Rant 是一个高级过程模板语言的薄包装。
 
 ![Rant-Lang](https://cdn.pkmer.cn/covers/obsidian-rant.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lanice/obsidian-rant/master/README.md)
-> 
+>
 
 ---
 
@@ -37,16 +37,18 @@ Rant是一个高级过程模板语言的薄包装。
 
 下面是 [[obsidian-rant]] 插件的自述翻译
 
-
 # Obsidian Rant-Lang
+
 ![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/lanice/obsidian-rant?style=for-the-badge)
+
 ![GitHub所有发布](https://img.shields.io/github/downloads/lanice/obsidian-rant/total?style=for-the-badge)
 
-这是一个围绕[Rant语言](https://rant-lang.org/) Rust库的薄包装，用于在Obsidian中使用。
+这是一个围绕 [Rant语言](https://rant-lang.org/) Rust 库的薄包装，用于在 Obsidian 中使用。
 
-> "**Rant**是一种高级过程化模板语言，具有多种工具，可轻松创建动态代码模板、游戏对话、故事、名称生成器、测试数据等等。" - 来自[Rant的GitHub页面](https://github.com/rant-lang/rant)
+> "**Rant**是一种高级过程化模板语言，具有多种工具，可轻松创建动态代码模板、游戏对话、故事、名称生成器、测试数据等等。" - 来自 [Rant的GitHub页面](https://github.com/rant-lang/rant)
 
 ## 目录
+
 - [使用方法](#usage)
 - [示例](#examples)
   - [内联](#inline)
@@ -64,22 +66,25 @@ Rant是一个高级过程模板语言的薄包装。
 
 ## 用法
 
-使用`rant`类型的代码块，您可以在其中输入Rant程序。
-然后使用Rant编译和执行该程序，并在Obsidian预览模式中显示结果。
+使用 `rant` 类型的代码块，您可以在其中输入 Rant 程序。
 
-使用命令`Re-rant with random seed (active file)`（默认快捷键：`Cmd+R`/`Ctrl+R`）在活动（预览）文件中再次运行Rant以处理每个块。
+然后使用 Rant 编译和执行该程序，并在 Obsidian 预览模式中显示结果。
 
-还可以通过在内联代码块前加上"`rant:`"来插入Rant程序。
+使用命令 `Re-rant with random seed (active file)`（默认快捷键：`Cmd+R`/`Ctrl+R`）在活动（预览）文件中再次运行 Rant 以处理每个块。
 
-在`rant`块（包括内联和代码块）中，程序的结果将使用Obsidian MarkdownParser进行渲染。
-这意味着您可以在`rant`块中添加样式、链接或其他Markdown处理元素，并且它们将被相应地渲染。
-为了避免Rant语法错误，您可以将这些元素用双引号括起来，因为Rant将双引号内的所有内容视为[字符串字面量](https://docs.rant-lang.org/language/text.html#string-literals)，并且不会对内容进行求值。
+还可以通过在内联代码块前加上 "`rant:`" 来插入 Rant 程序。
 
-对于常见的Markdown操作，Rant上下文中添加了以下全局函数：`bold`、`italic`、`bold-italic`、`highlight`、`link`
+在 `rant` 块（包括内联和代码块）中，程序的结果将使用 Obsidian MarkdownParser 进行渲染。
 
-您还可以使用[块链接](https://help.obsidian.md/How+to/Link+to+blocks)将现有rant代码块的结果嵌入到任何其他文档或其他rant块中，请参阅[这些示例](#embedding-rant-blocks)了解详细信息。
+这意味着您可以在 `rant` 块中添加样式、链接或其他 Markdown 处理元素，并且它们将被相应地渲染。
 
-一个产生洗牌的扑克牌的Rant程序，取自[官方Rant示例](https://github.com/rant-lang/rant/tree/master/examples/rant)：
+为了避免 Rant 语法错误，您可以将这些元素用双引号括起来，因为 Rant 将双引号内的所有内容视为 [字符串字面量](https://docs.rant-lang.org/language/text.html#string-literals)，并且不会对内容进行求值。
+
+对于常见的 Markdown 操作，Rant 上下文中添加了以下全局函数：`bold`、`italic`、`bold-italic`、`highlight`、`link`
+
+您还可以使用 [块链接](https://help.obsidian.md/How+to/Link+to+blocks) 将现有 rant 代码块的结果嵌入到任何其他文档或其他 rant 块中，请参阅 [这些示例](#embedding-rant-blocks) 了解详细信息。
+
+一个产生洗牌的扑克牌的 Rant 程序，取自 [官方Rant示例](https://github.com/rant-lang/rant/tree/master/examples/rant)：
 
 ````markdown
 ```rant
@@ -96,7 +101,7 @@ Rant是一个高级过程模板语言的薄包装。
 
 ### 内联
 
-一个内联的Rant程序：
+一个内联的 Rant 程序：
 
 ````markdown
 这个内联的Rant块是 `rant: {neat|awesome|fantastic}`！
@@ -108,13 +113,14 @@ Rant是一个高级过程模板语言的薄包装。
 
 ### 样式化
 
-这是一个使用全局 markdown 函数应用 markdown 样式的示例（在 `bold` 函数之前的单个反引号用作[提示](https://docs.rant-lang.org/language/text.html#hinting)）：
+这是一个使用全局 markdown 函数应用 markdown 样式的示例（在 `bold` 函数之前的单个反引号用作 [提示](https://docs.rant-lang.org/language/text.html#hinting)）：
 
 ````markdown
 ```rant
 `[bold: {Hello|Hi|Hey}] world!
 ```
 ````
+
 结果：
 
 ![样式化示例](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-styling.png)
@@ -128,6 +134,7 @@ Rant是一个高级过程模板语言的薄包装。
 [rep:10][sep:"-"]{[link: A Page]|"[External link](https://www.wikipedia.org)"|Just text}
 ```
 ````
+
 结果：
 
 ![Link example](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-links.png)
@@ -141,13 +148,14 @@ Rant是一个高级过程模板语言的薄包装。
 突然 "`dice: 2d4`" {goblins|dragons|gelatinous cubes} 向你冲过来！
 ```
 ````
+
 结果：
 
 ![骰子掷出器示例](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-dice.png)
 
 ### 列表
 
-Rant程序可以输出如下的列表：
+Rant 程序可以输出如下的列表：
 
 ````markdown
 ```rant
@@ -155,15 +163,16 @@ Rant程序可以输出如下的列表：
 [rep:5][sep:\n]{"- [[A page]]"|"- Just text"|"- `dice: 2d12`"}
 ```
 ````
+
 结果：
 
 ![列表示例](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-list.png)
 
-嵌入Rant块
+嵌入 Rant 块
 
 ### 内联
 
-当你在一个名为`Programs`的文档中有一个称为`rant`的代码块，你想要将其嵌入到另一个文档中时，首先使用`^`符号给它一个ID：
+当你在一个名为 `Programs` 的文档中有一个称为 `rant` 的代码块，你想要将其嵌入到另一个文档中时，首先使用 `^` 符号给它一个 ID：
 
 ````markdown
 ```rant
@@ -214,7 +223,7 @@ import: [[Programs#^flip-coin-with-values]]
 
 ## 安装
 
-### 从Obsidian内部
+### 从 Obsidian 内部
 
 1. 打开设置 > 社区插件
 2. 确保“安全模式”处于关闭状态
@@ -222,17 +231,17 @@ import: [[Programs#^flip-coin-with-values]]
 4. 安装并启用
 5. 获得收益
 
-### 通过[BRAT](https://github.com/TfTHacker/obsidian42-brat)方式
+### 通过 [BRAT](https://github.com/TfTHacker/obsidian42-brat) 方式
 
-1. 将`lanice/obsidian-rant`添加到`Obsidian42 - BRAT`设置菜单中的Beta插件列表中
-2. 在[Community plugins](https://help.obsidian.md/Advanced+topics/Community+plugins)设置菜单中启用插件
+1. 将 `lanice/obsidian-rant` 添加到 `Obsidian42 - BRAT` 设置菜单中的 Beta 插件列表中
+2. 在 [Community plugins](https://help.obsidian.md/Advanced+topics/Community+plugins) 设置菜单中启用插件
 
 ### 手动安装
 
-1. 下载[最新版本](https://github.com/lanice/obsidian-rant/releases/latest)
-2. 从压缩包中提取`obsidian-rant`文件夹到你的笔记库`<vault>/.obsidian/plugins/`
-3. 重新加载Obsidian
-4. 在[Community plugins](https://help.obsidian.md/Advanced+topics/Community+plugins)设置菜单中启用插件
+1. 下载 [最新版本](https://github.com/lanice/obsidian-rant/releases/latest)
+2. 从压缩包中提取 `obsidian-rant` 文件夹到你的笔记库 `<vault>/.obsidian/plugins/`
+3. 重新加载 Obsidian
+4. 在 [Community plugins](https://help.obsidian.md/Advanced+topics/Community+plugins) 设置菜单中启用插件
 
 
 

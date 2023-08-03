@@ -1,13 +1,13 @@
 ---
-uid: 2023080322273904
-title: Obsidian 插件：【Readme】System Theme
+uid: 20230803231105
+title: Obsidian 插件：System Theme
 tags: ['obsidian插件', 'readme']
 description: 插件自动更新系统主题。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232448
 ---
 
 # Obsidian 插件：System Theme
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：System Theme
 > - 插件作者：jgauth
 > - 插件说明：插件自动更新系统主题。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/jgauth/obsidian-system-theme)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-system-theme)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 插件自动更新系统主题。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jgauth/obsidian-system-theme/master/README.md)
-> 
+>
 
 ---
 
@@ -37,32 +35,38 @@ modified: 20230101000000
 
 下面是 [[obsidian-system-theme]] 插件的自述翻译
 
-
 # 已弃用
-从Obsidian v1.0.1开始，此问题已得到修复。https://forum.obsidian.md/t/obsidian-release-v1-0-1-insider-build/45735
+
+从 Obsidian v1.0.1 开始，此问题已得到修复。<https://forum.obsidian.md/t/obsidian-release-v1-0-1-insider-build/45735>
 
 # obsidian-system-theme
 
-在Linux上，Obsidian的“适应系统”主题设置需要重新启动Obsidian才能应用系统主题的更改。
+在 Linux 上，Obsidian 的“适应系统”主题设置需要重新启动 Obsidian 才能应用系统主题的更改。
 
-该插件使用Electron的[nativeTheme api](https://www.electronjs.org/docs/latest/api/native-theme)来解决这个限制。启用后，将系统主题在浅色/深色之间切换应自动应用于Obsidian。
+该插件使用 Electron 的 [nativeTheme api](https://www.electronjs.org/docs/latest/api/native-theme) 来解决这个限制。启用后，将系统主题在浅色/深色之间切换应自动应用于 Obsidian。
 
-这段代码与[kepano的obsidian-system-dark-mode](https://github.com/kepano/obsidian-system-dark-mode)几乎完全相同，只是底层主题API有所改变。
+这段代码与 [kepano的obsidian-system-dark-mode](https://github.com/kepano/obsidian-system-dark-mode) 几乎完全相同，只是底层主题 API 有所改变。
 
-#### 手动安装：
-需要npm
+#### 手动安装
+
+需要 npm
 
 # 1. 切换到插件目录
+
 cd my-vault/.obsidian/plugins
 
 # 2. 克隆仓库
+
 git clone git@github.com:jgauth/obsidian-system-theme.git && cd obsidian-system-theme
 
 # 3. 安装依赖
+
 npm install
 
 # 4. 构建
+
 npm run build
+
 ```
 然后重新启动 Obsidian 并启用插件。
 

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322255434
-title: Obsidian 插件：【Readme】Relative Find
+uid: 20230803231105
+title: Obsidian 插件：Relative Find
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 这个插件可以让你根据你的光标位置搜索。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232452
 ---
 
 # Obsidian 插件：Relative Find
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Relative Find
 > - 插件作者：phibr0
 > - 插件说明：这个插件可以让你根据你的光标位置搜索。
-> - 插件分类：['搜索/排序', 'obsidian插件', 'readme']
+> - 插件分类：[' 搜索/排序 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/phibr0/obsidian-relative-find)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-relative-find)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 这个插件可以让你根据你的光标位置搜索。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/obsidian-relative-find/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,11 @@ modified: 20230101000000
 
 下面是 [[obsidian-relative-find]] 插件的自述翻译
 
+# Obsidian 相对查找 [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-relative-find)](https://github.com/phibr0/obsidian-relative-find/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-relative-find/total)
 
-# Obsidian相对查找 [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-relative-find)](https://github.com/phibr0/obsidian-relative-find/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-relative-find/total)
+> 这个插件是根据@arvn 在 Discord 上的请求创建的。
 
-> 这个插件是根据@arvn在Discord上的请求创建的。
-
-该插件提供了一个新的命令“相对于光标位置查找”，用于查找光标之后或之前的单词出现次数（或者整个文档中的单词出现次数，如果您愿意的话）。另外，@boninall提出了一个（有点不相关的）功能请求，该功能允许您通过命令/热键将Obsidian的搜索窗格中的搜索结果复制到剪贴板中。
+该插件提供了一个新的命令“相对于光标位置查找”，用于查找光标之后或之前的单词出现次数（或者整个文档中的单词出现次数，如果您愿意的话）。另外，@boninall 提出了一个（有点不相关的）功能请求，该功能允许您通过命令/热键将 Obsidian 的搜索窗格中的搜索结果复制到剪贴板中。
 
 ## 安装步骤
 
@@ -54,8 +51,3 @@ modified: 20230101000000
 ## 支持我
 
 如果你觉得这个插件对你有帮助，请考虑支持我：
-
-
-
-
-

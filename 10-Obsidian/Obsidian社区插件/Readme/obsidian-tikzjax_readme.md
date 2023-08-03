@@ -1,13 +1,13 @@
 ---
-uid: 2023080322281890
-title: Obsidian 插件：【Readme】TikZJax
+uid: 20230803231105
+title: Obsidian 插件：TikZJax
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在你的笔记中渲染LaTeX和TikZ图表。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232442
 ---
 
 # Obsidian 插件：TikZJax
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：TikZJax
 > - 插件作者：artisticat1
-> - 插件说明：在你的笔记中渲染LaTeX和TikZ图表。
-> - 插件分类：['图表生成', 'obsidian插件', 'readme']
+> - 插件说明：在你的笔记中渲染 LaTeX 和 TikZ 图表。
+> - 插件分类：[' 图表生成 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/artisticat1/obsidian-tikzjax)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tikzjax)
 
 ## 概述
 
-在你的笔记中渲染LaTeX和TikZ图表。
-
-
+在你的笔记中渲染 LaTeX 和 TikZ 图表。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/obsidian-tikzjax/main/README.md)
-> 
+>
 
 ---
 
@@ -37,15 +35,16 @@ modified: 20230101000000
 
 下面是 [[obsidian-tikzjax]] 插件的自述翻译
 
-
 <img width=275 align="right" src="./imgs/screenshot.png">
+
 # Obsidian TikZJax
 
-一个用于Obsidian的插件，可以在你的笔记中渲染LaTeX和TikZ图表。
+一个用于 Obsidian 的插件，可以在你的笔记中渲染 LaTeX 和 TikZ 图表。
 
 你可以渲染图形、图表、电路、化学图表、交换图表等等。
 
-以下包在`\usepackage{}`中可用：
+以下包在 `\usepackage{}` 中可用：
+
 - chemfig
 - tikz-cd
 - circuitikz
@@ -58,13 +57,14 @@ modified: 20230101000000
 - tikz-3dplot
 
 ## 用法
+
 `tikz` 代码块中的内容将由 TikZJax 渲染。
 
 - 请记得使用 `\usepackage{}` 加载所需的任何包，并包含 `\begin{document}` 和 `\end{document}`。
-
 - 使用独立文档类 (`\documentclass{standalone}`)。
 
 ### 示例
+
 <img width=300 align="right" src="./imgs/img1.png">
 
 ````latex
@@ -208,7 +208,5 @@ C' \arrow[rr,"k'" near end] \arrow[dr,swap,"c"] && D' \arrow[dr,swap,"d"] \\
 ````
 
 ## 致谢
-感谢[@kisonecat](https://github.com/kisonecat)的[TikZJax](https://github.com/kisonecat/tikzjax)插件，否则本插件将无法实现！特别是，它使用了[@drgrice1的分支](https://github.com/drgrice1/tikzjax/tree/ww-modifications)，该分支添加了一些额外的功能。
 
-
-
+感谢 [@kisonecat](https://github.com/kisonecat) 的 [TikZJax](https://github.com/kisonecat/tikzjax) 插件，否则本插件将无法实现！特别是，它使用了 [@drgrice1的分支](https://github.com/drgrice1/tikzjax/tree/ww-modifications)，该分支添加了一些额外的功能。

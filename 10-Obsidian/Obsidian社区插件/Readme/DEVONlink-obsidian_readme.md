@@ -1,13 +1,13 @@
 ---
-uid: 2023080322171556
-title: Obsidian 插件：【Readme】DEVONlink
+uid: 20230803231105
+title: Obsidian 插件：DEVONlink
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 在DEVONthink中打开或显示当前笔记。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232603
 ---
 
 # Obsidian 插件：DEVONlink
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：DEVONlink
 > - 插件作者：ryanjamurphy
-> - 插件说明：在DEVONthink中打开或显示当前笔记。
-> - 插件分类：['第三方工具集成', 'obsidian插件', 'readme']
+> - 插件说明：在 DEVONthink 中打开或显示当前笔记。
+> - 插件分类：[' 第三方工具集成 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ryanjamurphy/DEVONlink-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?DEVONlink-obsidian)
 
 ## 概述
 
-在DEVONthink中打开或显示当前笔记。
+在 DEVONthink 中打开或显示当前笔记。
 
 ![DEVONlink](https://cdn.pkmer.cn/covers/DEVONlink-obsidian_new.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/DEVONlink-obsidian/master/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +37,14 @@ modified: 20230101000000
 
 下面是 [[DEVONlink-obsidian]] 插件的自述翻译
 
+DEVONlink - 将 Obsidian 与 DEVONthink 集成
 
-DEVONlink - 将Obsidian与DEVONthink集成
+在 DEVONthink 中打开或显示当前笔记。或者，使用 DEVONthink 的 AI 功能插入相关文件。
 
-在DEVONthink中打开或显示当前笔记。或者，使用DEVONthink的AI功能插入相关文件。
-
-与配套的AppleScript配对，将Obsidian和DEVONthink的笔记集成在一起。在此处阅读有关插件的更多信息，并找到AppleScript：https://axle.design/devonlink-integrate-obsidian-and-devonthink
+与配套的 AppleScript 配对，将 Obsidian 和 DEVONthink 的笔记集成在一起。在此处阅读有关插件的更多信息，并找到 AppleScript：<https://axle.design/devonlink-integrate-obsidian-and-devonthink>
 
 ![此视频展示了用户如何使用插件和AppleScript在Obsidian和DEVONthink之间来回打开笔记。](https://i.imgur.com/VRurr9L.gif)
+
 ![版本2引入了一种将DEVONthink的AI中的相关项目插入到Obsidian笔记中的方法。](https://user-images.githubusercontent.com/3618647/113517367-c6c04d80-953c-11eb-81ca-5f898c776ff0.gif)
 
 ### 如何使用
@@ -60,7 +60,7 @@ DEVONlink - 将Obsidian与DEVONthink集成
 
 ### 安装插件
 
-在Obsidian的社区插件库中查找并选择"安装"。
+在 Obsidian 的社区插件库中查找并选择 " 安装 "。
 
 ### 手动安装插件
 

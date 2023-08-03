@@ -1,13 +1,13 @@
 ---
-uid: 2023080322191537
-title: Obsidian 插件：【Readme】Global Hotkeys
+uid: 20230803231105
+title: Obsidian 插件：Global Hotkeys
 tags: ['obsidian插件', 'readme']
 description: Obsidian桌面应用程序中可配置的系统热键用于运行命令
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232516
 ---
 
 # Obsidian 插件：Global Hotkeys
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Global Hotkeys
 > - 插件作者：Marc Jessome
-> - 插件说明：Obsidian桌面应用程序中可配置的系统热键用于运行命令
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：Obsidian 桌面应用程序中可配置的系统热键用于运行命令
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/mjessome/obsidian-global-hotkeys)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-global-hotkeys)
 
 ## 概述
 
-Obsidian桌面应用程序中可配置的系统热键用于运行命令
-
-
+Obsidian 桌面应用程序中可配置的系统热键用于运行命令
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mjessome/obsidian-global-hotkeys/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ Obsidian桌面应用程序中可配置的系统热键用于运行命令
 
 下面是 [[obsidian-global-hotkeys]] 插件的自述翻译
 
+# Obsidian 的全局热键
 
-# Obsidian的全局热键
-
-这是一个[Obsidian](https://obsidian.md)插件，为系统范围内的全局热键提供支持。
+这是一个 [Obsidian](https://obsidian.md) 插件，为系统范围内的全局热键提供支持。
 
 ## 特点
 
@@ -52,7 +49,7 @@ Obsidian桌面应用程序中可配置的系统热键用于运行命令
 
 ## 设置
 
-在“全局热键”设置中，您可以输入一个系统范围的键盘组合，以执行指定的命令。键盘组合是根据[Electron的加速器](https://www.electronjs.org/docs/api/accelerator)来指定的。
+在“全局热键”设置中，您可以输入一个系统范围的键盘组合，以执行指定的命令。键盘组合是根据 [Electron的加速器](https://www.electronjs.org/docs/api/accelerator) 来指定的。
 
 ## 待办事项
 

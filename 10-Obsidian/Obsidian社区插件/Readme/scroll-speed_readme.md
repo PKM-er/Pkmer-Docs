@@ -1,13 +1,13 @@
 ---
-uid: 2023080322262613
-title: Obsidian 插件：【Readme】Scroll Speed
+uid: 20230803231105
+title: Obsidian 插件：Scroll Speed
 tags: ['界面相关', '美化', '效率', 'obsidian插件', 'readme']
 description: 此插件帮你改变 Obsidian 笔记中的页面滚动速度。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232426
 ---
 
 # Obsidian 插件：Scroll Speed
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Scroll Speed
 > - 插件作者：Florian Ludewig
 > - 插件说明：此插件帮你改变 Obsidian 笔记中的页面滚动速度。
-> - 插件分类：['界面相关', '美化', '效率', 'obsidian插件', 'readme']
+> - 插件分类：[' 界面相关 ', ' 美化 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/flolu/obsidian-scroll-speed)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?scroll-speed)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Scroll Speed](https://cdn.pkmer.cn/covers/scroll-speed.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/flolu/obsidian-scroll-speed/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[scroll-speed]] 插件的自述翻译
-
 
 <div align="center">
   <a href="https://github.com/flolu/obsidian-scroll-speed">
@@ -46,14 +45,16 @@ modified: 20230101000000
   <h1>Obsidian滚动速度</h1>
   <p> Obsidian.md插件，用于更改文件内的鼠标滚动速度 </p>
 </div>
+
 # 特点
 
 **滚动速度**
-将鼠标滚动灵敏度调整为您喜欢的程度。1表示非常慢，10表示非常快。
+
+将鼠标滚动灵敏度调整为您喜欢的程度。1 表示非常慢，10 表示非常快。
 
 # 安装
 
-1. 前往最新的[发布页面](https://github.com/flolu/obsidian-scroll-speed/releases/latest)
+1. 前往最新的 [发布页面](https://github.com/flolu/obsidian-scroll-speed/releases/latest)
 2. 下载 `main.js` 和 `manifest.json` 文件
 3. 创建 `.obsidian/plugins/scroll-speed` 目录
 4. 将 `main.js` 和 `manifest.json` 文件移动到 `.obsidian/plugins/scroll-speed` 目录中

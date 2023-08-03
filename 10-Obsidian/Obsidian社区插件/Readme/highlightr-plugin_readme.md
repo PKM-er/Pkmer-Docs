@@ -1,13 +1,13 @@
 ---
-uid: 2023080322194526
-title: Obsidian 插件：【Readme】Highlightr
+uid: 20230803231105
+title: Obsidian 插件：Highlightr
 tags: ['编辑器', '美化', '效率', 'obsidian插件', 'readme']
 description: 一个简洁而美观的高亮菜单，可以设置各种不同的高亮颜色，使彩色高亮变得更加容易阅读。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232553
 ---
 
 # Obsidian 插件：Highlightr
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Highlightr
 > - 插件作者：Chetachi
 > - 插件说明：一个简洁而美观的高亮菜单，可以设置各种不同的高亮颜色，使彩色高亮变得更加容易阅读。
-> - 插件分类：['编辑器', '美化', '效率', 'obsidian插件', 'readme']
+> - 插件分类：[' 编辑器 ', ' 美化 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/chetachiezikeuzor/Highlightr-Plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?highlightr-plugin)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Highlightr](https://cdn.pkmer.cn/covers/highlightr-plugin.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chetachiezikeuzor/Highlightr-Plugin/master/README.md)
-> 
+>
 
 ---
 
@@ -37,19 +37,19 @@ modified: 20230101000000
 
 下面是 [[highlightr-plugin]] 插件的自述翻译
 
-
 # Highlightr-Plugin
 
 ![Highlightr-Plugin 下载量](https://img.shields.io/github/downloads/chetachiezikeuzor/Highlightr-Plugin/total.svg)
+
 ![Highlightr-Plugin 发布版本](https://img.shields.io/github/v/release/chetachiezikeuzor/Highlightr-Plugin)
 
 <img src="https://raw.githubusercontent.com/chetachiezikeuzor/Highlightr-Plugin/master/assets/Highlightr%20Demo%20Header.png" style=" box-shadow: 0 2px 8px 0 var(--background-modifier-border); border-radius: 8px; ">
 
-状态：此插件目前可在Obsidian插件商店中使用。
+状态：此插件目前可在 Obsidian 插件商店中使用。
 
-叹气。你是否希望通过突出显示你的笔记来满足你的创造驱动力？我的意思是，是的，我们可以使用Markdown语法来创建高亮，但是自定义颜色呢？哦，是的，我们知道所有那些“支持”这一点的酷CSS黑客，但是避免使用专有格式化的原则呢？好吧，我们可以使用HTML的`<mark>`标签，对吧？但是天哪，打出来太麻烦了！好吧好吧，那么模板生成器的模板怎么样？[就像这个](https://www.reddit.com/r/ObsidianMD/comments/nu0olr/multicolored_highlighting_in_obsidian/)。但是这感觉不太...本地。好吧，看来Highlightr来拯救我们了！
+叹气。你是否希望通过突出显示你的笔记来满足你的创造驱动力？我的意思是，是的，我们可以使用 Markdown 语法来创建高亮，但是自定义颜色呢？哦，是的，我们知道所有那些“支持”这一点的酷 CSS 黑客，但是避免使用专有格式化的原则呢？好吧，我们可以使用 HTML 的 `<mark>` 标签，对吧？但是天哪，打出来太麻烦了！好吧好吧，那么模板生成器的模板怎么样？[就像这个](https://www.reddit.com/r/ObsidianMD/comments/nu0olr/multicolored_highlighting_in_obsidian/)。但是这感觉不太...本地。好吧，看来 Highlightr 来拯救我们了！
 
-Highlightr是一个简单的插件，将一个简约而美观的高亮菜单带入Obsidian笔记应用程序中。该插件通过用户友好的一系列高亮颜色，使彩色高亮更加容易。
+Highlightr 是一个简单的插件，将一个简约而美观的高亮菜单带入 Obsidian 笔记应用程序中。该插件通过用户友好的一系列高亮颜色，使彩色高亮更加容易。
 
 ## 演示
 
@@ -57,7 +57,7 @@ Highlightr是一个简单的插件，将一个简约而美观的高亮菜单带�
 
 使用便捷性
 
-在您的笔记中进行美观的高亮显示，以补充您的记笔记过程。所选颜色在不同主题和明暗模式下都是通用的。使用内联CSS对于保持您的笔记的持久性至关重要。当您导出时，您不会依赖于任何外部CSS样式。这将使您的笔记更加灵活！
+在您的笔记中进行美观的高亮显示，以补充您的记笔记过程。所选颜色在不同主题和明暗模式下都是通用的。使用内联 CSS 对于保持您的笔记的持久性至关重要。当您导出时，您不会依赖于任何外部 CSS 样式。这将使您的笔记更加灵活！
 
 ## 工作原理
 
@@ -83,15 +83,15 @@ Obsidian 应用程序版本 12.8 添加了一个强大的自定义上下文菜�
 
 免责声明
 
-插件组件将无法与[cMenu插件](https://github.com/chetachiezikeuzor/cMenu-Plugin)一起使用。
+插件组件将无法与 [cMenu插件](https://github.com/chetachiezikeuzor/cMenu-Plugin) 一起使用。
 
 ## 安装
 
-此插件可在Obsidian社区插件商店中获得。您可以从那里安装它。如果要手动安装，您可以下载必要的文件并将它们放置在插件文件夹中。
+此插件可在 Obsidian 社区插件商店中获得。您可以从那里安装它。如果要手动安装，您可以下载必要的文件并将它们放置在插件文件夹中。
 
 ## 更新日志
 
-### [1.0.0](https://github.com/chetachiezikeuzor/Highlightr-Plugin/releases/tag/1.0.0) - 2021年10月10日
+### [1.0.0](https://github.com/chetachiezikeuzor/Highlightr-Plugin/releases/tag/1.0.0) - 2021 年 10 月 10 日
 
 ##### 添加
 
@@ -101,7 +101,7 @@ Obsidian 应用程序版本 12.8 添加了一个强大的自定义上下文菜�
 - 添加了按高亮器添加命令的功能
   <img src="https://user-images.githubusercontent.com/79069364/142739122-aed7a0ee-e7d8-4595-90f5-9e809f44ef04.gif" style=" box-shadow: 0 2px 8px 0 var(--background-modifier-border); border-radius: 8px; ">
 
-### [1.0.1](https://github.com/chetachiezikeuzor/Highlightr-Plugin/releases/tag/1.0.1) - 2021年10月12日
+### [1.0.1](https://github.com/chetachiezikeuzor/Highlightr-Plugin/releases/tag/1.0.1) - 2021 年 10 月 12 日
 
 ##### 添加
 
@@ -109,9 +109,9 @@ Obsidian 应用程序版本 12.8 添加了一个强大的自定义上下文菜�
 
 修复
 
-- Bug: 添加了检查以确保activeView不为空
+- Bug: 添加了检查以确保 activeView 不为空
 
-### [1.1.0](https://github.com/chetachiezikeuzor/Highlightr-Plugin/releases/tag/1.1.0) - 2021年10月14日
+### [1.1.0](https://github.com/chetachiezikeuzor/Highlightr-Plugin/releases/tag/1.1.0) - 2021 年 10 月 14 日
 
 ##### 添加
 
@@ -125,7 +125,7 @@ Obsidian 应用程序版本 12.8 添加了一个强大的自定义上下文菜�
 - 创建空白高亮现在在末尾添加空格
   <img alt="addedspace" src="https://user-images.githubusercontent.com/79069364/144176500-79484143-b329-488b-855d-c46a42ece35c.gif" style=" box-shadow: 0 2px 8px 0 var(--background-modifier-border); border-radius: 8px; ">
 
-### [1.1.1](https://github.com/chetachiezikeuzor/Highlightr-Plugin/releases/tag/1.1.1) - 2021年10月15日
+### [1.1.1](https://github.com/chetachiezikeuzor/Highlightr-Plugin/releases/tag/1.1.1) - 2021 年 10 月 15 日
 
 ##### 已更改
 
@@ -139,15 +139,13 @@ Obsidian 应用程序版本 12.8 添加了一个强大的自定义上下文菜�
 - [x] 使用命令取消高亮
 - [x] 撤销高亮功能
 - [x] 自定义高亮颜色
-- [x] CSS类设置
+- [x] CSS 类设置
 
 支持
 
 如果您喜欢这个插件并考虑捐赠以支持持续开发，请使用下面的按钮！
 
-由Chetachi ❤️ 创建
-
-
+由 Chetachi ❤️ 创建
 
 <a href="https://paypal.me/chelseaezikeuzor">
 <img src="https://raw.githubusercontent.com/chetachiezikeuzor/Highlightr-Plugin/master/assets/paypal.svg" height="70"></a>

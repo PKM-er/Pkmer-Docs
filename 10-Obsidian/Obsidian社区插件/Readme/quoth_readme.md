@@ -1,13 +1,13 @@
 ---
-uid: 2023080322252988
-title: Obsidian 插件：【Readme】Quoth
+uid: 20230803231105
+title: Obsidian 插件：Quoth
 tags: ['obsidian插件', 'readme']
 description: 更灵活的嵌入。嵌入精确的选择，内联嵌入，可选择性地包括作者和标题。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232429
 ---
 
 # Obsidian 插件：Quoth
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Quoth
 > - 插件作者：Eric Rykwalder
 > - 插件说明：更灵活的嵌入。嵌入精确的选择，内联嵌入，可选择性地包括作者和标题。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/erykwalder/quoth)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quoth)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 更灵活的嵌入。嵌入精确的选择，内联嵌入，可选择性地包括作者和标题。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/erykwalder/quoth/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,10 @@ modified: 20230101000000
 
 下面是 [[quoth]] 插件的自述翻译
 
-
 # Quoth 插件
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，
+
 它允许以比标准的嵌入语法更灵活的方式嵌入其他 Markdown 文件。
 
 它可以实现以下功能：
@@ -53,13 +51,17 @@ modified: 20230101000000
 复制引用
 
 使用该插件的最简单方法是使用复制引用命令。
+
 这将从源模式或预览模式中选择一个引用代码块
+
 并将其复制到剪贴板中，可以粘贴到其他文档中。
-此操作的快捷键取决于您的操作系统，可以是`Ctrl-Shift-'`或`Cmd-Shift-'`。
+
+此操作的快捷键取决于您的操作系统，可以是 `Ctrl-Shift-'` 或 `Cmd-Shift-'`。
 
 ## 代码块
 
 代码块也可以手动构建，某些功能需要手动构建。
+
 代码块中的所有字段如下所示：
 
     ```quoth
@@ -109,7 +111,7 @@ modified: 20230101000000
 > **默认值:** `" ... "`
 >
 > **描述:** 如何组合多个范围。
-> 只有在指定了2个或更多个范围时才使用该字段。
+> 只有在指定了 2 个或更多个范围时才使用该字段。
 
 > #### `display`
 >
@@ -148,12 +150,12 @@ modified: 20230101000000
 
 当前实现存在一些限制：
 
-- 仅在可以重建底层markdown的情况下，从预览模式复制才有效。
-  目前不支持诸如mathjax之类的内容。
+- 仅在可以重建底层 markdown 的情况下，从预览模式复制才有效。
+  目前不支持诸如 mathjax 之类的内容。
   您始终可以从源代码/实时模式复制。
-- 嵌入内容不能包含另一个quoth代码块，
+- 嵌入内容不能包含另一个 quoth 代码块，
   因为这可能导致无限递归。
-- 渲染依赖于对Obsidian的renderMarkdown API的异步调用，
+- 渲染依赖于对 Obsidian 的 renderMarkdown API 的异步调用，
   因此依赖于后处理的嵌入（如其他嵌入）将无法工作。
 - 它仅用于显示。它不能执行更新原始源代码的操作，例如勾选复选框。
 

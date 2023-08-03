@@ -1,13 +1,13 @@
 ---
-uid: 2023080322200316
-title: Obsidian 插件：【Readme】ibook
+uid: 20230803231105
+title: Obsidian 插件：ibook
 tags: ['obsidian插件', 'readme']
 description: 适用于Apple ibook的插件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232552
 ---
 
 # Obsidian 插件：ibook
@@ -15,28 +15,27 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：ibook
 > - 插件作者：bingryan
-> - 插件说明：适用于Apple ibook的插件。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：适用于 Apple ibook 的插件。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/bingryan/obsidian-ibook-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ibook)
 
 ## 概述
 
-适用于Apple ibook的插件。
+适用于 Apple ibook 的插件。
 
 ![ibook](https://cdn.pkmer.cn/covers/ibook.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bingryan/obsidian-ibook-plugin/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[ibook]] 插件的自述翻译
-
 
 # Obsidian ibook 插件
 
@@ -48,11 +47,11 @@ modified: 20230101000000
 
 # 注意
 
-- 如果你想使用ibook中的高亮文本颜色，请使用[这个模板](https://github.com/bingryan/obsidian-ibook-plugin/blob/master/docs/example.md#ibook-selected-colors)。
+- 如果你想使用 ibook 中的高亮文本颜色，请使用 [这个模板](https://github.com/bingryan/obsidian-ibook-plugin/blob/master/docs/example.md#ibook-selected-colors)。
 
 # 要求（存在默认值）
 
-mac ibook的数据存在本地sqlite3中。此插件使用本地SQLite3选择数据库。
+mac ibook 的数据存在本地 sqlite3 中。此插件使用本地 SQLite3 选择数据库。
 
 ```shell
 brew install sqlite3
@@ -70,9 +69,9 @@ brew install sqlite3
 
 ![](docs/images/screenshot-3.png)
 
-### 通过搜索[goodreads](https://www.goodreads.com/)导出图书信息
+### 通过搜索 [goodreads](https://www.goodreads.com/) 导出图书信息
 
-使用`cmd + shift + i`通过文件名搜索图书信息，并插入当前光标位置
+使用 `cmd + shift + i` 通过文件名搜索图书信息，并插入当前光标位置
 
 ![](docs/images/screenshot-4.png)
 
@@ -80,11 +79,11 @@ brew install sqlite3
 
 [✓] 支持通过搜索书名/作者导出
 
-[✓] 将ibook的高亮和注释导出到您的Obsidian vault中。
+[✓] 将 ibook 的高亮和注释导出到您的 Obsidian vault 中。
 
 [✓] 用户自定义模板
 
-[✓] 通过[goodreads](https://www.goodreads.com/)搜索书籍信息
+[✓] 通过 [goodreads](https://www.goodreads.com/) 搜索书籍信息
 
 [✗] 更多...
 
@@ -98,12 +97,12 @@ brew install sqlite3
 
 # 如何安装
 
-在Obsidian中，您可以通过以下步骤激活此插件：
+在 Obsidian 中，您可以通过以下步骤激活此插件：
 
 - 打开设置 > 第三方插件
 - 确保安全模式处于关闭状态
 - 点击浏览社区插件
-- 搜索"Obsidian ibook"
+- 搜索 "Obsidian ibook"
 - 点击安装
 - 安装完成后，关闭社区插件窗口并激活新安装的插件
 

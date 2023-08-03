@@ -1,13 +1,13 @@
 ---
-uid: 2023080322241845
-title: Obsidian 插件：【Readme】Outliner
+uid: 20230803231105
+title: Obsidian 插件：Outliner
 tags: ['编辑工具', '编辑器', 'obsidian插件', 'readme']
 description: 为 Obsidian 的大纲添加快捷操作，像在Workflowy或RoamResearch中一样，使用快捷键调整大纲的顺序和层级变化，移动大纲上的项目。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232459
 ---
 
 # Obsidian 插件：Outliner
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Outliner
 > - 插件作者：Viacheslav Slinko
-> - 插件说明：为 Obsidian 的大纲添加快捷操作，像在Workflowy或RoamResearch中一样，使用快捷键调整大纲的顺序和层级变化，移动大纲上的项目。
-> - 插件分类：['编辑工具', '编辑器', 'obsidian插件', 'readme']
+> - 插件说明：为 Obsidian 的大纲添加快捷操作，像在 Workflowy 或 RoamResearch 中一样，使用快捷键调整大纲的顺序和层级变化，移动大纲上的项目。
+> - 插件分类：[' 编辑工具 ', ' 编辑器 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/vslinko/obsidian-outliner)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-outliner)
 
 ## 概述
 
-为 Obsidian 的大纲添加快捷操作，像在Workflowy或RoamResearch中一样，使用快捷键调整大纲的顺序和层级变化，移动大纲上的项目。
+为 Obsidian 的大纲添加快捷操作，像在 Workflowy 或 RoamResearch 中一样，使用快捷键调整大纲的顺序和层级变化，移动大纲上的项目。
 
 ![Outliner](https://cdn.pkmer.cn/covers/obsidian-outliner.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vslinko/obsidian-outliner/main/README.md)
-> 
+>
 
 ---
 
@@ -37,19 +37,19 @@ modified: 20230101000000
 
 下面是 [[obsidian-outliner]] 插件的自述翻译
 
-
-# Obsidian大纲
+# Obsidian 大纲
 
 ![GitHub工作流状态](https://img.shields.io/github/workflow/status/vslinko/obsidian-outliner/Release?logo=github&style=for-the-badge)
+
 ![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/vslinko/obsidian-outliner?style=for-the-badge&sort=semver)
 
-**像Workflowy或RoamResearch一样处理列表**
+**像 Workflowy 或 RoamResearch 一样处理列表**
 
 ⁉️ [讨论想法或提问](https://github.com/vslinko/obsidian-outliner/discussions)<br>
 ⚙️ [跟踪开发过程](https://github.com/users/vslinko/projects/3/views/1)<br>
 🐛 [报告问题](https://github.com/vslinko/obsidian-outliner/issues)
 
-与[Obsidian Zoom插件](https://github.com/vslinko/obsidian-zoom)兼容。
+与 [Obsidian Zoom插件](https://github.com/vslinko/obsidian-zoom) 兼容。
 
 ## 演示
 
@@ -57,9 +57,9 @@ modified: 20230101000000
 
 如何安装
 
-从Obsidian内部
+从 Obsidian 内部
 
-您可以通过以下步骤在Obsidian内部激活此插件：
+您可以通过以下步骤在 Obsidian 内部激活此插件：
 
 - 打开设置>第三方插件
 - 确保安全模式关闭
@@ -70,7 +70,7 @@ modified: 20230101000000
 
 ### 手动安装
 
-从[最新版本](https://github.com/vslinko/obsidian-outliner/releases/latest)下载`main.js`、`manifest.json`和`styles.css`，并将它们放入`<vault>/.obsidian/plugins/obsidian-outliner`文件夹中。
+从 [最新版本](https://github.com/vslinko/obsidian-outliner/releases/latest) 下载 `main.js`、`manifest.json` 和 `styles.css`，并将它们放入 `<vault>/.obsidian/plugins/obsidian-outliner` 文件夹中。
 
 如何使用
 
@@ -82,7 +82,7 @@ modified: 20230101000000
 
 如果你喜欢上面演示中的样式，你可以在插件设置选项卡中启用它们。
 
-> **免责声明：**这些样式仅与内置的Obsidian主题兼容。
+> **免责声明：**这些样式仅与内置的 Obsidian 主题兼容。
 
 | 设置                           | 默认值 |
 | ----------------------------- | :----: |
@@ -126,7 +126,7 @@ modified: 20230101000000
 
 - 如果列表项为空，则回车键会取消缩进。
 - 如果存在子项，则回车键会在子级别上创建新行。
-- Shift-Enter键会创建一个新的注释行。
+- Shift-Enter 键会创建一个新的注释行。
 
 [更多信息](https://github.com/vslinko/obsidian-outliner/discussions/98#discussioncomment-649514)
 
@@ -151,7 +151,7 @@ modified: 20230101000000
 
 ### 调试模式
 
-打开开发者工具（Command+Option+I或Control+Shift+I）以复制调试日志。
+打开开发者工具（Command+Option+I 或 Control+Shift+I）以复制调试日志。
 
 | 设置       | 默认值  |
 | ---------- | :----: |

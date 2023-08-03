@@ -1,13 +1,13 @@
 ---
-uid: 2023080322171773
-title: Obsidian 插件：【Readme】Dialogue
+uid: 20230803231105
+title: Obsidian 插件：Dialogue
 tags: ['编辑器', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 利用特定的语法，在 Markdown 中创建对话样式的笔记。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232524
 ---
 
 # Obsidian 插件：Dialogue
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Dialogue
 > - 插件作者：Jakub Holub
 > - 插件说明：利用特定的语法，在 Markdown 中创建对话样式的笔记。
-> - 插件分类：['编辑器', '界面相关', '美化', 'obsidian插件', 'readme']
+> - 插件分类：[' 编辑器 ', ' 界面相关 ', ' 美化 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/holubj/obsidian-dialogue-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dialogue-plugin)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Dialogue](https://cdn.pkmer.cn/covers/obsidian-dialogue-plugin.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/holubj/obsidian-dialogue-plugin/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-dialogue-plugin]] 插件的自述翻译
-
 
 # Obsidian 对话插件
 
@@ -72,8 +71,8 @@ modified: 20230101000000
 
 对话中的消息必须以以下方式前缀：
 
--   要么 `<`（左侧的消息）
--   要么 `>`（右侧的消息）。
+- 要么 `<`（左侧的消息）
+- 要么 `>`（右侧的消息）。
 
 消息必须恰好为一个段落。
 
@@ -154,7 +153,7 @@ modified: 20230101000000
 
 ### 带有分隔符的对话
 
-使用`delimiter`（或简写为`-`）命令将分隔符添加到对话中。
+使用 `delimiter`（或简写为 `-`）命令将分隔符添加到对话中。
 
 #### 示例代码
 
@@ -180,8 +179,9 @@ delimiter
 
 ### 带有注释的对话
 
-注释可以通过`#`前缀添加到对话中（见下面的示例）。注释必须恰好为一个段落。
-注释的最大宽度可以使用`commentMaxWidth:`参数进行修改。
+注释可以通过 `#` 前缀添加到对话中（见下面的示例）。注释必须恰好为一个段落。
+
+注释的最大宽度可以使用 `commentMaxWidth:` 参数进行修改。
 
 ```对话
 左：Ingmar Bergman
@@ -191,13 +191,14 @@ delimiter
 < Nunc id auctor lectus, feugiat aliquet sem.
 ```
 
-# Lorem ipsum dolor坐下
+# Lorem ipsum dolor 坐下
 
-> Lorem ipsum dolor坐下
+> Lorem ipsum dolor 坐下
 
-# Vivamus nunc orci, aliquet varius rutrum et, pulvinar vitae nunc. Pellentesque a consequat ipsum.
+# Vivamus nunc orci, aliquet varius rutrum et, pulvinar vitae nunc. Pellentesque a consequat ipsum
 
 > Ut nec efficitur mauris, a lacinia purus. Fusce nisi arcu, sollicitudin eget sodales sit amet, consectetur a lorem. Nam egestas tristique felis, sed suscipit nunc commodo nec.
+
 ```
 
 #### 结果
@@ -248,8 +249,3 @@ delimiter
 ## 表达感谢 🙏
 
 如果你喜欢这个插件并想要支持它的开发，你可以给我买杯咖啡！
-
-
-
-
-

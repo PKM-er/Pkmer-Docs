@@ -1,13 +1,13 @@
 ---
-uid: 2023080322180623
-title: Obsidian 插件：【Readme】Fantasy Calendar
+uid: 20230803231105
+title: Obsidian 插件：Fantasy Calendar
 tags: ['日期相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 中使用 Fantsy Calendar。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232559
 ---
 
 # Obsidian 插件：Fantasy Calendar
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Fantasy Calendar
 > - 插件作者：Jeremy Valentine
 > - 插件说明：在 Obsidian 中使用 Fantsy Calendar。
-> - 插件分类：['日期相关', 'obsidian插件', 'readme']
+> - 插件分类：[' 日期相关 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/fantasycalendar/obsidian-fantasy-calendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?fantasy-calendar)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Fantasy Calendar](https://cdn.pkmer.cn/covers/fantasy-calendar.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/fantasycalendar/obsidian-fantasy-calendar/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +37,11 @@ modified: 20230101000000
 
 下面是 [[fantasy-calendar]] 插件的自述翻译
 
-
 # 幻想日历
 
-**现在是[幻想日历](https://fantasy-calendar.com/)家族的一部分！**
+**现在是 [幻想日历](https://fantasy-calendar.com/) 家族的一部分！**
 
-在Obsidian中创建幻想日历！
+在 Obsidian 中创建幻想日历！
 
 ![](https://raw.githubusercontent.com/valentine195/obsidian-fantasy-calendar/master/assets/example.png)
 
@@ -76,11 +75,11 @@ modified: 20230101000000
 >
 > 插件不会预装任何日历。您必须自己创建它们！
 >
-> 有关更多信息，请参见[创建日历](#creating-a-calendar)和[日历预设](#presets)。
+> 有关更多信息，请参见 [创建日历](#creating-a-calendar) 和 [日历预设](#presets)。
 
 > **:calendar: 在现实世界中使用插件？**
 >
-> 插件的公历日历[预设](#presets)是完全准确的！
+> 插件的公历日历 [预设](#presets) 是完全准确的！
 
 ### 命令
 
@@ -100,7 +99,7 @@ modified: 20230101000000
 
 ### 大型和小型日历
 
-根工作区中存在一个大型日历，而左侧或右侧窗格中存在一个小型日历。虽然有两个不同的命令，但是日历会自动检测它们在Obsidian中的位置 - 当您移动它们时，它们会相应地调整大小。
+根工作区中存在一个大型日历，而左侧或右侧窗格中存在一个小型日历。虽然有两个不同的命令，但是日历会自动检测它们在 Obsidian 中的位置 - 当您移动它们时，它们会相应地调整大小。
 
 ### 当前日期
 
@@ -138,7 +137,7 @@ modified: 20230101000000
 
 ### 预设
 
-有几个常见的预设可应用于创建的日历，包括几个TTRPG设置和公历（或“真实”日历）。
+有几个常见的预设可应用于创建的日历，包括几个 TTRPG 设置和公历（或“真实”日历）。
 
 ### 基本信息
 
@@ -186,7 +185,7 @@ modified: 20230101000000
 
 #### 偏移量
 
-在计算时，闰日的条件将会被偏移这么多年 - 例如，每4年出现一次闰日，偏移量为1，则闰日将会出现在第1年、第5年、第9年...
+在计算时，闰日的条件将会被偏移这么多年 - 例如，每 4 年出现一次闰日，偏移量为 1，则闰日将会出现在第 1 年、第 5 年、第 9 年...
 
 #### 条件
 
@@ -198,13 +197,13 @@ modified: 20230101000000
 
 #### 真实世界的例子
 
-格里高利历的闰年有以下3个条件：
+格里高利历的闰年有以下 3 个条件：
 
-1. 间隔为4，非排除，非偏移。
-2. 间隔为100，排除，非偏移。
-3. 间隔为400，非排除，非偏移。
+1. 间隔为 4，非排除，非偏移。
+2. 间隔为 100，排除，非偏移。
+3. 间隔为 400，非排除，非偏移。
 
-这个闰年将每4年出现一次，但是**除非**年份能被100整除，否则不会出现，**除非**年份能被400整除。
+这个闰年将每 4 年出现一次，但是**除非**年份能被 100 整除，否则不会出现，**除非**年份能被 400 整除。
 
 ### 闰年的闰日
 
@@ -317,9 +316,9 @@ fc-date:
 
 #### fc-calendar
 
-`fc-calendar`字段用于指定事件将添加到哪个日历中。
+`fc-calendar` 字段用于指定事件将添加到哪个日历中。
 
-该字段是可选的，如果没有与`fc-date`一起提供，插件将把事件添加到**默认日历**中。
+该字段是可选的，如果没有与 `fc-date` 一起提供，插件将把事件添加到**默认日历**中。
 
 ##### 单一日历
 
@@ -369,7 +368,7 @@ fc-category: 事件类别1
 
 日期字符串必须按照设置中指定的格式进行格式化。
 
-如果您需要事件重复（例如每年或每月一次），可以提供日期对象。日期对象必须提供的唯一值是日期，插件将为未提供的值重复事件。请注意，月份可以作为月份名称或月份数字（例如，2代表二月）提供。
+如果您需要事件重复（例如每年或每月一次），可以提供日期对象。日期对象必须提供的唯一值是日期，插件将为未提供的值重复事件。请注意，月份可以作为月份名称或月份数字（例如，2 代表二月）提供。
 
 ```
 ---
@@ -398,7 +397,7 @@ fc-date:        # 事件将在2021年的二月的第3天重复。
 
 ```
 
-打开[解析笔记标题以获取日期](#parse-note-titles-for-dates)将使此字段变为可选，如果标题中存在与[date format](#date-format)设置中指定的格式匹配的日期。
+打开 [解析笔记标题以获取日期](#parse-note-titles-for-dates) 将使此字段变为可选，如果标题中存在与 [date format](#date-format) 设置中指定的格式匹配的日期。
 
 #### 事件显示名称
 
@@ -424,11 +423,11 @@ fc-display-name: Weather        # 日历将显示“Weather”作为标题，而
 
 该插件具有一个 API，可用于获取您创建的日历的信息。这使您可以轻松地在 DataviewJS 中使用来自您的日历的数据！
 
-完整的 API 可以在[这里](./src/@types/api.d.ts)找到。
+完整的 API 可以在 [这里](./src/@types/api.d.ts) 找到。
 
-### 访问API
+### 访问 API
 
-插件API可以在全局window对象上作为`FantasyCalendarAPI`访问。
+插件 API 可以在全局 window 对象上作为 `FantasyCalendarAPI` 访问。
 
 ```js
 const day = FantasyCalendarAPI.getDay({ year: 2022, month: 11, day: 25 });
@@ -450,7 +449,7 @@ const day = FantasyCalendarAPI.getDay({ year: 2022, month: 11, day: 25 });
 
 ### 日期格式
 
-此设置允许您覆盖日期字符串的预期日期格式。默认日期格式是UTC格式的日期，`YYYY-MM-DD`。
+此设置允许您覆盖日期字符串的预期日期格式。默认日期格式是 UTC 格式的日期，`YYYY-MM-DD`。
 
 请注意，提供的字符数不允许您指定更少的数字。插件将事件添加到**指定的确切日期**。
 
@@ -462,7 +461,7 @@ const day = FantasyCalendarAPI.getDay({ year: 2022, month: 11, day: 25 });
 
 此设置允许您更改插件写入数据的目录。
 
-从精彩的[Fantasy-Calendar](https://app.fantasy-calendar.com)应用程序导入一个日历。
+从精彩的 [Fantasy-Calendar](https://app.fantasy-calendar.com) 应用程序导入一个日历。
 
 ### 日历
 
@@ -470,15 +469,15 @@ const day = FantasyCalendarAPI.getDay({ year: 2022, month: 11, day: 25 });
 
 ## 路线图
 
--   [ ] 在大型日历年视图中实现无限滚动
--   [ ] 通过拖放笔记到某一天上创建事件
--   [ ] 在日历上进行事件筛选
+- [ ] 在大型日历年视图中实现无限滚动
+- [ ] 通过拖放笔记到某一天上创建事件
+- [ ] 在日历上进行事件筛选
 
 # 安装
 
 插件已经提交到社区插件商店，并正在等待批准。
 
-与此同时，可以通过[Obsidian BRAT插件](https://github.com/TfTHacker/obsidian42-brat)进行安装。
+与此同时，可以通过 [Obsidian BRAT插件](https://github.com/TfTHacker/obsidian42-brat) 进行安装。
 
 <!-- 从Obsidian v0.9.8开始，您可以通过以下步骤在Obsidian中激活此插件：
 
@@ -489,48 +488,51 @@ const day = FantasyCalendarAPI.getDay({ year: 2022, month: 11, day: 25 });
 - 点击安装
 - 安装完成后，关闭社区插件窗口并激活新安装的插件 -->
 
-## 来自GitHub
+## 来自 GitHub
 
-- 从GitHub存储库的Releases部分下载最新版本。**这不应该是插件的源代码，而是`main.js`、`manifest.json`和`styles.css`文件。**
-- 将插件文件夹从zip文件中提取到您的vault的插件文件夹中：`<vault>/.obsidian/plugins/`
-  - 注意：在某些机器上，`.obsidian`文件夹可能是隐藏的。在MacOS上，您可以按下`Command+Shift+Dot`来在Finder中显示该文件夹。
-- 重新加载Obsidian
+- 从 GitHub 存储库的 Releases 部分下载最新版本。**这不应该是插件的源代码，而是 `main.js`、`manifest.json` 和 `styles.css` 文件。**
+- 将插件文件夹从 zip 文件中提取到您的 vault 的插件文件夹中：`<vault>/.obsidian/plugins/`
+  - 注意：在某些机器上，`.obsidian` 文件夹可能是隐藏的。在 MacOS 上，您可以按下 `Command+Shift+Dot` 来在 Finder 中显示该文件夹。
+- 重新加载 Obsidian
 - 如果提示安全模式，您可以禁用安全模式并启用插件。否则，请前往设置，第三方插件，确保安全模式关闭，并从那里启用插件。
 
 您可以按照相同的步骤来更新插件。
 
 ### 从源代码构建
 
-安装插件后，您可以使用`npm`从源代码构建新的`main.js`和`styles.css`文件。
+安装插件后，您可以使用 `npm` 从源代码构建新的 `main.js` 和 `styles.css` 文件。
 
-- 在终端中打开源代码目录并运行`npm install`。
-- 运行`npm run build`将在源代码目录内构建`main.js`和`styles.css`文件。
-- 在您的存储库插件文件夹中导航到`fantasy-calendar`文件夹，并用新生成的文件替换`main.js`和`styles.css`文件。
-- 重新加载Obsidian以使用新文件。这可以通过[Obsidian的热重载插件](https://github.com/pjeby/hot-reload)自动完成。
+- 在终端中打开源代码目录并运行 `npm install`。
+- 运行 `npm run build` 将在源代码目录内构建 `main.js` 和 `styles.css` 文件。
+- 在您的存储库插件文件夹中导航到 `fantasy-calendar` 文件夹，并用新生成的文件替换 `main.js` 和 `styles.css` 文件。
+- 重新加载 Obsidian 以使用新文件。这可以通过 [Obsidian的热重载插件](https://github.com/pjeby/hot-reload) 自动完成。
 
-如果您首先设置了`.env`文件，您还可以使用`npm run dev`命令进行更简化的工作流程。
+如果您首先设置了 `.env` 文件，您还可以使用 `npm run dev` 命令进行更简化的工作流程。
 
-- 打开源代码目录并创建一个名为`.env`的文件。
+- 打开源代码目录并创建一个名为 `.env` 的文件。
 - 在文件中添加以下行：
+
 ```
 OUTDIR="/您的存储库/.obsidian/plugins/fantasy-calendar的绝对路径"
 ```
-- 在源代码目录中运行`npm run dev`。这将构建`main.js`和`styles.css`文件，并将它们放在您在`.env`文件中指定的文件夹中。
-- `dev`脚本将在您保存更改时自动重新构建这些文件。
+
+- 在源代码目录中运行 `npm run dev`。这将构建 `main.js` 和 `styles.css` 文件，并将它们放在您在 `.env` 文件中指定的文件夹中。
+- `dev` 脚本将在您保存更改时自动重新构建这些文件。
 
 # 警告
 
 该插件没有稳定性保证，可能会导致数据丢失的错误。
+
 请确保您有自动备份。
 
-# TTRPG插件
+# TTRPG 插件
 
-如果您正在使用Obsidian来运行/计划TTRPG，您可能会发现我的其他插件很有用：
+如果您正在使用 Obsidian 来运行/计划 TTRPG，您可能会发现我的其他插件很有用：
 
-- [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - 在Obsidian.md笔记中添加交互式地图
+- [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - 在 Obsidian.md 笔记中添加交互式地图
 - [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) - 为您的笔记添加一点随机性！
-- [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks/) - 在笔记中创建5e风格的状态块
-- [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) - 在Obsidian中跟踪TTRPG的先攻顺序
+- [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks/) - 在笔记中创建 5e 风格的状态块
+- [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) - 在 Obsidian 中跟踪 TTRPG 的先攻顺序
 
 
 

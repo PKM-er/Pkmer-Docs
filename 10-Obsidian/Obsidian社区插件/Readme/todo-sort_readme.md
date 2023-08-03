@@ -1,13 +1,13 @@
 ---
-uid: 2023080322282677
-title: Obsidian 插件：【Readme】Todo sort
+uid: 20230803231105
+title: Obsidian 插件：Todo sort
 tags: ['obsidian插件', 'readme']
 description: 按完成状态对待办事项进行排序
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232418
 ---
 
 # Obsidian 插件：Todo sort
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Todo sort
 > - 插件作者：Ryan Gomba
 > - 插件说明：按完成状态对待办事项进行排序
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ryangomba/obsidian-todo-sort)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?todo-sort)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 按完成状态对待办事项进行排序
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryangomba/obsidian-todo-sort/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ modified: 20230101000000
 
 下面是 [[todo-sort]] 插件的自述翻译
 
-
 # 待办事项排序
 
-这是一个为 Obsidian（https://obsidian.md）设计的插件，可以在笔记中按完成状态对待办事项进行排序。
+这是一个为 Obsidian（<https://obsidian.md）设计的插件，可以在笔记中按完成状态对待办事项进行排序。>
 
 ## 发布
 

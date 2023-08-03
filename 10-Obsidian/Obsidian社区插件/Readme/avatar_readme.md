@@ -1,13 +1,13 @@
 ---
-uid: 2023080322144426
-title: Obsidian 插件：【Readme】Avatar
+uid: 20230803231105
+title: Obsidian 插件：Avatar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示一个头像图片。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232616
 ---
 
 # Obsidian 插件：Avatar
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Avatar
 > - 插件作者：froehlichA
 > - 插件说明：在你的笔记中显示一个头像图片。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/froehlichA/obsidian-avatar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?avatar)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Avatar](https://cdn.pkmer.cn/covers/avatar.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/froehlichA/obsidian-avatar/master/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +37,13 @@ modified: 20230101000000
 
 下面是 [[avatar]] 插件的自述翻译
 
-
 # 黑曜石头像
 
 该插件为您提供了一个组件，它将显示一个带有一些附带文本的小图像。就是这样。
 
 ![预览模式](./docs/avatar_preview.PNG)
 
-要使用，请将以下代码片段插入到您的Markdown中。
+要使用，请将以下代码片段插入到您的 Markdown 中。
 
 ````
 ```avatar
@@ -62,11 +61,11 @@ description: This will be displayed as the description!
 ```
 ````
 
-**在实时预览模式下**，点击图片以更改它（然后从您的库中选择一个，或者粘贴一个在线图片的URL），或者点击描述进行编辑（不要忘记点击保存更改的按钮！）
+**在实时预览模式下**，点击图片以更改它（然后从您的库中选择一个，或者粘贴一个在线图片的 URL），或者点击描述进行编辑（不要忘记点击保存更改的按钮！）
 
 ![编辑模式](./docs/avatar_edit.PNG)
 
-描述编辑器支持Obsidian的所有Markdown功能。
+描述编辑器支持 Obsidian 的所有 Markdown 功能。
 
 安装
 
@@ -76,7 +75,7 @@ description: This will be displayed as the description!
 2. 打开 `设置` -> `社区插件`
 3. 如果提示，请点击 `启用社区插件`
 4. 点击 `浏览`，并搜索 `Avatar`
-6. 安装并启用插件
+5. 安装并启用插件
 
 ### 手动安装
 

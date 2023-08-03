@@ -1,13 +1,13 @@
 ---
-uid: 2023080322134326
-title: Obsidian 插件：【Readme】Advanced Cursors
+uid: 20230803231105
+title: Obsidian 插件：Advanced Cursors
 tags: ['obsidian插件', 'readme']
 description: 更强大地使用多个光标。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232620
 ---
 
 # Obsidian 插件：Advanced Cursors
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Advanced Cursors
 > - 插件作者：SkepticMystic
 > - 插件说明：更强大地使用多个光标。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/SkepticMystic/advanced-cursors)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?advanced-cursors)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Advanced Cursors](https://cdn.pkmer.cn/covers/advanced-cursors.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/SkepticMystic/advanced-cursors/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,9 @@ modified: 20230101000000
 
 下面是 [[advanced-cursors]] 插件的自述翻译
 
-
 # 高级光标
 
-Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用[多个光标](https://help.obsidian.md/How+to/Working+with+multiple+cursors)。
+Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [多个光标](https://help.obsidian.md/How+to/Working+with+multiple+cursors)。
 
 这个插件与 `@spslater` 的 [Cursor Position 插件](https://github.com/spslater/obsidian-cursor-location-plugin) 配合使用效果非常好。
 
@@ -57,31 +56,32 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用[�
 ### 将当前选择的下一个实例添加到选择中
 
 该命令与前一个命令大致相同，只是它保留了先前的光标选择。
+
 同样，如果没有找到下一个实例，它将循环回到笔记的开头。
 
-这与在VS Code中使用`Ctrl + d`执行的操作相同。
+这与在 VS Code 中使用 `Ctrl + d` 执行的操作相同。
 
 ![](Assets/cursors-readme2.gif)
 
 ### 移动到当前选择的上一个实例
 
-与[移动到当前选择的下一个实例](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#Move-to-next-instance-of-current-selection)相同，只是向后移动。
+与 [移动到当前选择的下一个实例](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#Move-to-next-instance-of-current-selection) 相同，只是向后移动。
 
 ### 将当前选择的上一个实例添加到选择中
 
-与[将当前选择的下一个实例添加到选择中](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#Add-next-instance-of-current-selection-to-selections)相同，只是向后移动。
+与 [将当前选择的下一个实例添加到选择中](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#Add-next-instance-of-current-selection-to-selections) 相同，只是向后移动。
 
 ### 复制行上/下
 
 该命令根据您选择的选项，将当前选定的行向上或向下复制。
 
-就像在VS Code中使用`Alt + Shift + ↑/↓`一样。
+就像在 VS Code 中使用 `Alt + Shift + ↑/↓` 一样。
 
 ### 在每个光标位置插入递增值
 
 运行此命令将打开一个模态框，让您选择一个“起始”数字和一个递增值“inc”。提交后，高级光标将使用从“start”开始并以“inc”递增的递增值覆盖您当前的每个选择。
 
-“start”和“inc”都可以是任意实数。结果数字将四舍五入为4位小数。
+“start”和“inc”都可以是任意实数。结果数字将四舍五入为 4 位小数。
 
 ![](Assets/AC-IncrementingI.gif)
 
@@ -99,17 +99,17 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用[�
 
 ![](Assets/cursors2.gif)
 
-您现在还可以使用[保存的查询](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#saved-queries)快速运行查询。
+您现在还可以使用 [保存的查询](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#saved-queries) 快速运行查询。
 
 ## 保存的查询
 
-在高级光标的设置选项卡中，您将看到一个界面，允许您“添加新查询”。这允许您设置一个查询（正则表达式或文字），以便从[匹配模态框](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#open-regex-match-modal)快速访问，或者从命令面板中运行为Obsidian命令。
+在高级光标的设置选项卡中，您将看到一个界面，允许您“添加新查询”。这允许您设置一个查询（正则表达式或文字），以便从 [匹配模态框](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#open-regex-match-modal) 快速访问，或者从命令面板中运行为 Obsidian 命令。
 
-在“添加新查询”模态框中，您有4个选项：
+在“添加新查询”模态框中，您有 4 个选项：
 
 1. 查询的“名称”，
 2. 实际的“查询”本身，
-3. 任何要应用于查询的[正则表达式标志](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions#advanced_searching_with_flags)（如果它是一个正则表达式），
+3. 任何要应用于查询的 [正则表达式标志](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions#advanced_searching_with_flags)（如果它是一个正则表达式），
    - “g”标志会自动添加，但如果您自己添加它也不会出错。
 4. 一个切换按钮，用于指示“查询”应该被解释为正则表达式还是文字字符串。
 
@@ -178,7 +178,7 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用[�
 /\b.*?\.(?=\s|$)/m
 ```
 
-选择在单词边界`\b`和句号`\.`之间的最短字符串。
+选择在单词边界 `\b` 和句号 `\.` 之间的最短字符串。
 
 #### DOIs
 
@@ -204,7 +204,7 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用[�
 /==.*?==/
 ```
 
-#### 捕获特定的HTML标签
+#### 捕获特定的 HTML 标签
 
 ```re
 /(?<=id="green">).*?(?=\<)/
@@ -229,6 +229,3 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用[�
 ```re
 /#标签/
 ```
-
-
-

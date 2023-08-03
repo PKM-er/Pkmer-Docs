@@ -1,13 +1,13 @@
 ---
-uid: 2023080322140321
-title: Obsidian 插件：【Readme】Another Quick Switcher
-tags: ['obsidian插件', 'readme']
+uid: 20230803231105
+title: Obsidian 插件：Another Quick Switcher
+tags: ['obsidian插件', 'readme', what-is-the-2-hop-link]
 description: 这是一个Obsidian插件，是另一种快速切换的选择。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232535
 ---
 
 # Obsidian 插件：Another Quick Switcher
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Another Quick Switcher
 > - 插件作者：tadashi-aikawa
-> - 插件说明：这是一个Obsidian插件，是另一种快速切换的选择。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：这是一个 Obsidian 插件，是另一种快速切换的选择。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-another-quick-switcher)
 
 ## 概述
 
-这是一个Obsidian插件，是另一种快速切换的选择。
+这是一个 Obsidian 插件，是另一种快速切换的选择。
 
 ![Another Quick Switcher](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_new.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +37,15 @@ modified: 20230101000000
 
 下面是 [[obsidian-another-quick-switcher]] 插件的自述翻译
 
-
-# Obsidian另一个快速切换插件
+# Obsidian 另一个快速切换插件
 
 [![release](https://img.shields.io/github/release/tadashi-aikawa/obsidian-another-quick-switcher.svg)](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/latest)
+
 [![Tests](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/workflows/Tests/badge.svg)](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/actions)
+
 ![downloads](https://img.shields.io/github/downloads/tadashi-aikawa/obsidian-another-quick-switcher/total)
 
-这是一个Obsidian插件，是快速切换器的另一个选择。
+这是一个 Obsidian 插件，是快速切换器的另一个选择。
 
 - 它可以创建自定义搜索命令（`自定义搜索`）
 - 它允许您根据自己的喜好自定义快速切换器中的热键
@@ -64,7 +65,6 @@ modified: 20230101000000
 ### 1. 自定义搜索
 
 ![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/custom-searches.gif)
-
 
 自定义搜索功能使您能够创建自己的搜索命令。
 
@@ -108,10 +108,10 @@ modified: 20230101000000
 > ![Demo](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/save-button.png)
 
 > **注意**
-> `(逗号分隔的标签)`的示例包括`#hoge`，`#hoge,#huga`等等。
+> `(逗号分隔的标签)` 的示例包括 `#hoge`，`#hoge,#huga` 等等。
 
 > **注意**
-> `(逗号分隔的扩展名)`的示例包括`.md`，`.md,.canvas`等等。
+> `(逗号分隔的扩展名)` 的示例包括 `.md`，`.md,.canvas` 等等。
 
 #### 预设搜索命令
 
@@ -169,7 +169,7 @@ modified: 20230101000000
 
 ### 3. Grep
 
-此功能需要[ripgrep](https://github.com/BurntSushi/ripgrep)并将可执行命令设置为“Ripgrep命令”选项。
+此功能需要 [ripgrep](https://github.com/BurntSushi/ripgrep) 并将可执行命令设置为“Ripgrep 命令”选项。
 
 ![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/grep.gif)
 
@@ -193,7 +193,7 @@ modified: 20230101000000
 
 ### 5. 在对话框中显示反向链接
 
-您可以在对话框中显示有关建议的反向链接（默认快捷键为`Mod h`）。
+您可以在对话框中显示有关建议的反向链接（默认快捷键为 `Mod h`）。
 
 它可以显示不仅是现有笔记的反向链接，还包括幻影（不存在的）笔记的反向链接。
 
@@ -209,17 +209,17 @@ modified: 20230101000000
 
 您可以在不关闭对话框的情况下预览文件。它会显示一个浮动视图，不会干扰内容。此外，在预览文件并关闭对话框后，它会恢复编辑器的状态。
 
-对于使用早于v8.0.0版本的用户
+对于使用早于 v8.0.0 版本的用户
 
-请阅读[发布说明](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/tag/8.0.0)中的“🔥 Breaking changes”部分。
+请阅读 [发布说明](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/tag/8.0.0) 中的“🔥 Breaking changes”部分。
 
-对于使用早于v7.0.0版本的用户
+对于使用早于 v7.0.0 版本的用户
 
-请阅读[发布说明](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/tag/7.0.0)中的“🔥 Breaking changes”部分。
+请阅读 [发布说明](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/tag/7.0.0) 中的“🔥 Breaking changes”部分。
 
-对于使用低于v6.0.0版本的用户
+对于使用低于 v6.0.0 版本的用户
 
-请阅读[发布说明](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/tag/6.0.0)中的“🔥 Breaking changes”部分。
+请阅读 [发布说明](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/tag/6.0.0) 中的“🔥 Breaking changes”部分。
 
 📱 移动设备支持
 
@@ -227,7 +227,7 @@ modified: 20230101000000
 
 ## 功能请求 / 错误
 
-请创建一个新的[问题]。
+请创建一个新的 [问题]。
 
 ## 🖥️ 对于开发者/贡献者
 
@@ -235,7 +235,7 @@ modified: 20230101000000
 
 1. 修复明显的错误
 2. 修正拼写错误或错误的文档
-3. 如果我在GitHub问题或讨论中要求这样做
+3. 如果我在 GitHub 问题或讨论中要求这样做
 
 ### 开发
 
@@ -249,16 +249,18 @@ task dev
 发布
 
 # 稳定
+
 任务发布 版本=1.2.3
 
 # Beta
+
 任务发布 版本=1.2.3-beta1
 
 附录
 
 什么是“2-hop-link”？
 
-[2-hop-link]是指当前文件中的出站链接以及具有指向它们的出站链接的文件。
+[2-hop-link] 是指当前文件中的出站链接以及具有指向它们的出站链接的文件。
 
 例如，如果存在以下关系，
 
@@ -269,7 +271,7 @@ flowchart LR
     O[Owl] --> A
 ```
 
-从“Dog”到[2-hop-link]如下所示。
+从“Dog”到 [2-hop-link] 如下所示。
 
 ```mermaid
 flowchart LR
@@ -299,7 +301,7 @@ flowchart LR
     classDef focus fill:#f96
 ```
 
-从“Dog”到[2-hop-link]如下所示。
+从“Dog”到 [2-hop-link] 如下所示。
 
 ```mermaid
 flowchart LR
@@ -318,10 +320,9 @@ flowchart LR
     classDef focus fill:#f96
 ```
 
-
-[task]: https://github.com/go-task/task
-[issue]: https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/issues
-[discussion]: https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/discussions
+[task]: <https://github.com/go-task/task>
+[issue]: <https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/issues>
+[discussion]: <https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/discussions>
 
 [2-hop-link]: #what-is-the-2-hop-link
 

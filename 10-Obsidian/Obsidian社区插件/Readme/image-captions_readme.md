@@ -1,13 +1,13 @@
 ---
-uid: 2023080322201279
-title: Obsidian 插件：【Readme】Image Captions
+uid: 20230803231105
+title: Obsidian 插件：Image Captions
 tags: ['obsidian插件', 'readme']
 description: 当指定了alt文本时，为图像添加字幕
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232552
 ---
 
 # Obsidian 插件：Image Captions
@@ -15,28 +15,25 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Image Captions
 > - 插件作者：Alan Grainger
-> - 插件说明：当指定了alt文本时，为图像添加字幕
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：当指定了 alt 文本时，为图像添加字幕
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/alangrainger/obsidian-image-captions)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?image-captions)
 
 ## 概述
 
-当指定了alt文本时，为图像添加字幕
-
-
+当指定了 alt 文本时，为图像添加字幕
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/alangrainger/obsidian-image-captions/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[image-captions]] 插件的自述翻译
-
 
 # 添加图片标题
 
@@ -86,7 +83,4 @@ modified: 20230101000000
 
 ---
 
-该插件基于https://github.com/bicarlsen/obsidian_image_caption的概念。
-
-
-
+该插件基于<https://github.com/bicarlsen/obsidian_image_caption 的概念。>

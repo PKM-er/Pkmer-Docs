@@ -1,13 +1,13 @@
 ---
-uid: 2023080322181750
-title: Obsidian 插件：【Readme】File Order
+uid: 20230803231105
+title: Obsidian 插件：File Order
 tags: ['obsidian插件', 'readme']
 description: 在文件名中使用数字前缀来定义自定义顺序，并拖放文件以更新该顺序。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232559
 ---
 
 # Obsidian 插件：File Order
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：File Order
 > - 插件作者：lukasbach
 > - 插件说明：在文件名中使用数字前缀来定义自定义顺序，并拖放文件以更新该顺序。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lukasbach/obsidian-file-order)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-order)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![File Order](https://cdn.pkmer.cn/covers/file-order_new.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukasbach/obsidian-file-order/main/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +37,13 @@ modified: 20230101000000
 
 下面是 [[file-order]] 插件的自述翻译
 
-
 # 文件顺序 Obsidian 插件
 
 > 使用文件名中的数字前缀来定义自定义顺序，并使用文件资源管理器中的拖放来更新该顺序。
 
-- 在 Obsidian 的社区插件列表中找到插件 "文件顺序" 并安装。
+- 在 Obsidian 的社区插件列表中找到插件 " 文件顺序 " 并安装。
 
-安装后，您可以右键单击任何文件夹或项目，然后点击 "重新排序项目" 打开重新排序对话框。在那里，您可以拖放项目来自定义它们的顺序。通过点击 "文件" 或 "文件夹" 标题旁边的向下箭头，您可以访问其他选项。在那里，您可以自定义前缀长度的最小值（例如，使所有前缀数字至少为 3 个字符长），自定义分隔符（默认为一个空格，但可以是任何字符）或起始索引。
+安装后，您可以右键单击任何文件夹或项目，然后点击 " 重新排序项目 " 打开重新排序对话框。在那里，您可以拖放项目来自定义它们的顺序。通过点击 " 文件 " 或 " 文件夹 " 标题旁边的向下箭头，您可以访问其他选项。在那里，您可以自定义前缀长度的最小值（例如，使所有前缀数字至少为 3 个字符长），自定义分隔符（默认为一个空格，但可以是任何字符）或起始索引。
 
 重新排序项目将自动更新您正在重新排序的任何文件的所有引用。
 
@@ -82,7 +81,7 @@ yarn
 yarn dev
 ```
 
-_注意：如果您尚未安装热重载插件，系统将提示您安装。在开始热重载之前，您需要在Obsidian Vault中启用该插件。您可能需要刷新插件列表才能看到它。_
+_注意：如果您尚未安装热重载插件，系统将提示您安装。在开始热重载之前，您需要在 Obsidian Vault 中启用该插件。您可能需要刷新插件列表才能看到它。_
 
 ### 发布
 
@@ -91,6 +90,3 @@ _注意：如果您尚未安装热重载插件，系统将提示您安装。在�
 ---
 
 <sub>这个插件是由 (create-obsidian-plugin)[https://www.npmjs.com/package/create-obsidian-plugin] 生成的</sub>
-
-
-

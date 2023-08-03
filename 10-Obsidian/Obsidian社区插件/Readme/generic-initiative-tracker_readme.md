@@ -1,13 +1,13 @@
 ---
-uid: 2023080322190629
-title: Obsidian 插件：【Readme】Generic Initiative Tracker
+uid: 20230803231105
+title: Obsidian 插件：Generic Initiative Tracker
 tags: ['obsidian插件', 'readme']
 description: 通用TTRPG行动跟踪器
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232556
 ---
 
 # Obsidian 插件：Generic Initiative Tracker
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Generic Initiative Tracker
 > - 插件作者：Beau Shinkle
-> - 插件说明：通用TTRPG行动跟踪器
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：通用 TTRPG 行动跟踪器
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/beaushinkle/obsidian-generic-initiative-tracker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?generic-initiative-tracker)
 
 ## 概述
 
-通用TTRPG行动跟踪器
+通用 TTRPG 行动跟踪器
 
 ![Generic Initiative Tracker](https://cdn.pkmer.cn/covers/generic-initiative-tracker.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/beaurancourt/obsidian-generic-initiative-tracker/main/README.md)
-> 
+>
 
 ---
 
@@ -37,24 +37,23 @@ modified: 20230101000000
 
 下面是 [[generic-initiative-tracker]] 插件的自述翻译
 
+# Obsidian.md 的 TTRPG 通用先攻追踪器
 
-# Obsidian.md的TTRPG通用先攻追踪器
-
-该插件可以在Obsidian.md中用作先攻追踪器。
+该插件可以在 Obsidian.md 中用作先攻追踪器。
 
 启用后，插件将在右侧窗格中添加一个额外的视图，可以在战斗中添加玩家和生物来追踪他们的先攻。
 
-这是一个精简版的分支，旨在将先攻概念与DnD 5e特定内容分离，使其适用于各种系统。
+这是一个精简版的分支，旨在将先攻概念与 DnD 5e 特定内容分离，使其适用于各种系统。
 
 ## 主要区别
 
 - 没有经验值或等级设置
 - 不再支持自制生物
-- 放弃了所有5e特定的导入功能
+- 放弃了所有 5e 特定的导入功能
 - 大幅简化了设置界面
 - 使遭遇渲染器使用内部链接
 - 为具有相同名称的多个生物提供唯一索引
-- 支持倡议修饰符的骰子字符串（如2d6）
+- 支持倡议修饰符的骰子字符串（如 2d6）
 - 杂项错误修复
 
 在笔记中创建遭遇
@@ -73,9 +72,9 @@ creatures:
 
 ![image](https://user-images.githubusercontent.com/1045160/145105220-4f920d03-c84a-4edd-984c-f139988d16e7.png)
 
-（gruvbox主题）
+（gruvbox 主题）
 
-然后，单击遭遇名称旁边的按钮将在初始追踪器中启动遭遇。名称会尝试像使用`[[{name}]]`包围它们一样进行wikilink。
+然后，单击遭遇名称旁边的按钮将在初始追踪器中启动遭遇。名称会尝试像使用 `[[{name}]]` 包围它们一样进行 wikilink。
 
 配置了玩家后，效果如下：
 
@@ -87,7 +86,7 @@ creatures:
 
 ### 参数
 
-每个遭遇有3个参数，下面有更详细的说明。
+每个遭遇有 3 个参数，下面有更详细的说明。
 
 ````
 ```encounter
@@ -120,9 +119,9 @@ players:                                # 只有与提供的名称匹配的玩�
 
 #### 生物
 
-最复杂的参数`creatures`可以用来添加额外的生物到遭遇中。
+最复杂的参数 `creatures` 可以用来添加额外的生物到遭遇中。
 
-基本生物将被定义为一个数组，其语法为`[名称，生命值，防御等级，先攻修正]`。
+基本生物将被定义为一个数组，其语法为 `[名称，生命值，防御等级，先攻修正]`。
 
 **请注意，在所有情况下，生命值、防御等级和修正都是可选的。**
 
@@ -134,7 +133,7 @@ creatures:
 ```
 ````
 
-可以使用`X: [名称，生命值，防御等级，先攻修正]`来添加多个相同的生物，这将添加`X`个生物：
+可以使用 `X: [名称，生命值，防御等级，先攻修正]` 来添加多个相同的生物，这将添加 `X` 个生物：
 
 ````
 ```encounter
@@ -173,13 +172,13 @@ creatures:
 
 点击“重新掷骰”按钮可以重新掷骰所有生物的先攻。
 
-点击“重置HP和状态”可以重置生物的生命值和状态效果。
+点击“重置 HP 和状态”可以重置生物的生命值和状态效果。
 
 点击“新遭遇”可以开始一个新的遭遇（只有玩家角色）。
 
 ### 命令
 
-该插件在Obsidian中注册了几个命令，可以分配给热键或在命令面板（<kbd>Ctrl</kbd> / <kbd>Cmd</kbd> + <kbd>P</kbd>）中使用。
+该插件在 Obsidian 中注册了几个命令，可以分配给热键或在命令面板（<kbd>Ctrl</kbd> / <kbd>Cmd</kbd> + <kbd>P</kbd>）中使用。
 
 #### 开放式倡议跟踪器
 
@@ -217,9 +216,10 @@ creatures:
 
 # 自定义条件
 
-该插件将根据标记为`#condition`的笔记动态填充条件。我仍在努力改进描述文本的呈现效果，但目前它是可用的。
+该插件将根据标记为 `#condition` 的笔记动态填充条件。我仍在努力改进描述文本的呈现效果，但目前它是可用的。
 
 ![image](https://user-images.githubusercontent.com/1045160/149223266-25afdf23-85b6-4616-9399-3986ab63bf7f.png)
+
 ![image](https://user-images.githubusercontent.com/1045160/149223344-107a3d00-647d-4ce3-a965-7f0bc8fdc293.png)
 
 # 路线图
@@ -232,7 +232,7 @@ creatures:
 
 # 安装
 
-从Obsidian v0.9.8开始，您可以通过以下步骤在Obsidian中激活此插件：
+从 Obsidian v0.9.8 开始，您可以通过以下步骤在 Obsidian 中激活此插件：
 
 - 打开设置 > 第三方插件
 - 确保安全模式处于关闭状态
@@ -241,12 +241,12 @@ creatures:
 - 点击安装
 - 安装完成后，关闭社区插件窗口并激活新安装的插件
 
-## 来自GitHub
+## 来自 GitHub
 
-- 从GitHub存储库的Releases部分下载最新版本
-- 从zip文件中提取插件文件夹到您的vault的插件文件夹：`<vault>/.obsidian/plugins/`
-  注意：在某些机器上，`.obsidian`文件夹可能是隐藏的。在MacOS上，您可以按`Command+Shift+Dot`来在Finder中显示该文件夹。
-- 重新加载Obsidian
+- 从 GitHub 存储库的 Releases 部分下载最新版本
+- 从 zip 文件中提取插件文件夹到您的 vault 的插件文件夹：`<vault>/.obsidian/plugins/`
+  注意：在某些机器上，`.obsidian` 文件夹可能是隐藏的。在 MacOS 上，您可以按 `Command+Shift+Dot` 来在 Finder 中显示该文件夹。
+- 重新加载 Obsidian
 - 如果提示安全模式，您可以禁用安全模式并启用插件。
   否则，请前往设置，第三方插件，确保安全模式关闭并从那里启用插件。
 
@@ -255,15 +255,16 @@ creatures:
 # 警告
 
 该插件没有稳定性保证，可能会导致数据丢失的错误。
+
 请确保您有自动备份。
 
-# TTRPG插件
+# TTRPG 插件
 
-查看valentine195的其他插件！
+查看 valentine195 的其他插件！
 
-- [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - 在Obsidian.md笔记中添加交互式地图
-- [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) - Obsidian.md的内联骰子滚动
-- [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) - 以5e风格格式化Statblocks
+- [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - 在 Obsidian.md 笔记中添加交互式地图
+- [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) - Obsidian.md 的内联骰子滚动
+- [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) - 以 5e 风格格式化 Statblocks
 
 
 

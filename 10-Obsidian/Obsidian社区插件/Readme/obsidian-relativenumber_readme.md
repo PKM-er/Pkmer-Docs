@@ -1,13 +1,13 @@
 ---
-uid: 2023080322255615
-title: Obsidian 插件：【Readme】Relativenumber (relative line numbers)
+uid: 20230803231105
+title: Obsidian 插件：Relativenumber (relative line numbers)
 tags: ['obsidian插件', 'readme']
 description: 在编辑器的侧边栏显示相对行号。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232452
 ---
 
 # Obsidian 插件：Relativenumber (relative line numbers)
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Relativenumber (relative line numbers)
 > - 插件作者：Rob Stevenson
 > - 插件说明：在编辑器的侧边栏显示相对行号。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/thisdotrob/obsidian-relativenumber-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-relativenumber)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 在编辑器的侧边栏显示相对行号。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/thisdotrob/obsidian-relativenumber-plugin/master/README.md)
-> 
+>
 
 ---
 
@@ -37,16 +35,12 @@ modified: 20230101000000
 
 下面是 [[obsidian-relativenumber]] 插件的自述翻译
 
+## Obsidian 相对行号插件
 
-## Obsidian相对行号插件
-
-一个[Obsidian](https://obsidian.md/)插件，用于启用相对行号（类似于Vim的relativenumber）。
+一个 [Obsidian](https://obsidian.md/) 插件，用于启用相对行号（类似于 Vim 的 relativenumber）。
 
 在实时预览和传统编辑器模式下都可以工作。
 
 请先在主设置中关闭“显示行号”选项。
 
-传统模式借用了原始的[相对行号插件](https://github.com/nadavspi/obsidian-relative-line-numbers)的一些代码。
-
-
-
+传统模式借用了原始的 [相对行号插件](https://github.com/nadavspi/obsidian-relative-line-numbers) 的一些代码。

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322150756
-title: Obsidian 插件：【Readme】Better Word Count
+uid: 20230803231105
+title: Obsidian 插件：Better Word Count
 tags: ['效率', '笔记文件处理', 'obsidian插件', 'readme']
 description: 统计编辑器中所选文本的字数。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232614
 ---
 
 # Obsidian 插件：Better Word Count
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Better Word Count
 > - 插件作者：Luke Leppan
 > - 插件说明：统计编辑器中所选文本的字数。
-> - 插件分类：['效率', '笔记文件处理', 'obsidian插件', 'readme']
+> - 插件分类：[' 效率 ', ' 笔记文件处理 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lukeleppan/better-word-count)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-word-count)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Better Word Count](https://cdn.pkmer.cn/covers/better-word-count.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukeleppan/better-word-count/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[better-word-count]] 插件的自述翻译
-
 
 # 更好的字数统计
 
@@ -51,9 +50,9 @@ modified: 20230101000000
 - 允许您存储有关您的保险库的统计信息。
 - 适用于所有语言。
 - 可以显示各种不同的统计信息，包括：
-  - 当前文件中的单词、字符、句子、脚注和Pandoc引用。
-  - 保险库中的总单词数、字符数、句子数、脚注数、Pandoc引用数和文件数。
-  - 今天输入的单词、字符、句子、脚注和Pandoc引用。
+  - 当前文件中的单词、字符、句子、脚注和 Pandoc 引用。
+  - 保险库中的总单词数、字符数、句子数、脚注数、Pandoc 引用数和文件数。
+  - 今天输入的单词、字符、句子、脚注和 Pandoc 引用。
 - 高度可定制的状态栏，可根据您的需求进行调整。
 
 ## 贡献者
@@ -92,6 +91,3 @@ modified: 20230101000000
 如果你喜欢这个插件，你可以通过点击下面的按钮来支持我。我目前是一名学生，所以任何帮助都会很有用。
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/lukeleppan)
-
-
-

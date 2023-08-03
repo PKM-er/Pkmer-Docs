@@ -1,13 +1,13 @@
 ---
-uid: 2023080322184310
-title: Obsidian 插件：【Readme】Folder notes
+uid: 20230803231105
+title: Obsidian 插件：Folder notes
 tags: ['obsidian插件', 'readme']
 description: 在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于Notion提供的功能。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232557
 ---
 
 # Obsidian 插件：Folder notes
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Folder notes
 > - 插件作者：Lost Paul
-> - 插件说明：在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于Notion提供的功能。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于 Notion 提供的功能。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/LostPaul/obsidian-folder-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?folder-notes)
 
 ## 概述
 
-在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于Notion提供的功能。
+在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于 Notion 提供的功能。
 
 ![Folder notes](https://cdn.pkmer.cn/covers/folder-notes.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LostPaul/obsidian-folder-notes/main/README.md)
-> 
+>
 
 ---
 
@@ -37,9 +37,9 @@ modified: 20230101000000
 
 下面是 [[folder-notes]] 插件的自述翻译
 
+# Obsidian 文件夹笔记
 
-# Obsidian文件夹笔记
-在文件夹中创建笔记，可以在不折叠文件夹的情况下访问，类似于Notion提供的功能。
+在文件夹中创建笔记，可以在不折叠文件夹的情况下访问，类似于 Notion 提供的功能。
 
 ## 目录
 
@@ -60,11 +60,13 @@ modified: 20230101000000
 - 从文件资源管理器中隐藏文件夹笔记
 
 #### 即将
+
 - 为每个现有的文件夹创建文件夹注释
 
 ## 展示
 
 #### 打开文件夹笔记
+
 ![wzk25GXUpc](https://user-images.githubusercontent.com/70213368/227169041-9bc7552e-c5f5-4001-94d9-b4c80ea88bd1.gif)
 
 自动创建文件夹笔记
@@ -78,16 +80,13 @@ modified: 20230101000000
 <img width="582" alt="Obsidian_w4hTprcOjW" src="https://user-images.githubusercontent.com/70213368/227159064-e116ea0c-c249-4750-9b0f-b010e4a6afc5.png">
 
 ## 鸣谢
+
 感谢所有创建了激发我灵感并从中借鉴代码的插件作者。
-- 模板建议者，由[SilentVoid13](https://github.com/SilentVoid13)和[Liamcain](https://github.com/liamcain)创建（他们的插件：[Templater](https://github.com/SilentVoid13/Templater/)，[Periodic notes](https://github.com/liamcain/obsidian-periodic-notes)）
-- 应用模板到笔记，最早见于[Mgmeyers](https://github.com/mgmeyers)的https://github.com/mgmeyers/obsidian-kanban/
-- 文件夹下划线，灵感来自https://github.com/aidenlx/alx-folder-note
-- 阻止文件夹折叠，基本思路来自https://github.com/alangrainger/obsidian-folder-notes和一些代码行
-- 基本思路来自https://github.com/xpgo/obsidian-folder-note-plugin
+
+- 模板建议者，由 [SilentVoid13](https://github.com/SilentVoid13) 和 [Liamcain](https://github.com/liamcain) 创建（他们的插件：[Templater](https://github.com/SilentVoid13/Templater/)，[Periodic notes](https://github.com/liamcain/obsidian-periodic-notes)）
+- 应用模板到笔记，最早见于 [Mgmeyers](https://github.com/mgmeyers) 的<https://github.com/mgmeyers/obsidian-kanban/>
+- 文件夹下划线，灵感来自<https://github.com/aidenlx/alx-folder-note>
+- 阻止文件夹折叠，基本思路来自<https://github.com/alangrainger/obsidian-folder-notes 和一些代码行>
+- 基本思路来自<https://github.com/xpgo/obsidian-folder-note-plugin>
 
 支持插件的开发
-
-
-
-
-

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322210916
-title: Obsidian 插件：【Readme】KOReader Highlights
+uid: 20230803231105
+title: Obsidian 插件：KOReader Highlights
 tags: ['obsidian插件', 'readme']
 description: 从KOReader同步高亮/笔记
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232510
 ---
 
 # Obsidian 插件：KOReader Highlights
@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：KOReader Highlights
 > - 插件作者：Federico "Edo" Granata
-> - 插件说明：从KOReader同步高亮/笔记
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：从 KOReader 同步高亮/笔记
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Edo78/obsidian-koreader-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-koreader-plugin)
 
 ## 概述
 
-从KOReader同步高亮/笔记
-
-
+从 KOReader 同步高亮/笔记
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Edo78/obsidian-koreader-sync/master/README.md)
-> 
+>
 
 ---
 
@@ -37,25 +35,23 @@ modified: 20230101000000
 
 下面是 [[obsidian-koreader-plugin]] 插件的自述翻译
 
-
 # Obsidian KOReader 插件
 
-将[KOReader][1]中的笔记同步到[Obsidian][2]的存储库中。KOReader设备必须连接到运行Obsidian的设备上，以便插件可以扫描其文件。
+将 [KOReader][1] 中的笔记同步到 [Obsidian][2] 的存储库中。KOReader 设备必须连接到运行 Obsidian 的设备上，以便插件可以扫描其文件。
 
-在每个笔记的开头，有一系列称为Frontmatter的YAML数据。这些数据主要由插件本身使用（您可以像[dataview示例](#dataview-examples)中所示那样使用它们），但是如果擅自更改它们，可能会导致意外行为，因此请使用提供的[commands](#commands)与它们进行正确的交互。
+在每个笔记的开头，有一系列称为 Frontmatter 的 YAML 数据。这些数据主要由插件本身使用（您可以像 [dataview示例](#dataview-examples) 中所示那样使用它们），但是如果擅自更改它们，可能会导致意外行为，因此请使用提供的 [commands](#commands) 与它们进行正确的交互。
 
-当您在Obsidian中舒适地阅读笔记时，请考虑一下这个插件对您有多有用，并通过推文或咖啡表达您的感激之情：:coffee:
+当您在 Obsidian 中舒适地阅读笔记时，请考虑一下这个插件对您有多有用，并通过推文或咖啡表达您的感激之情：:coffee:
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3DI%2527m%2520enjoying%2520%2540Edo78%2527s%2520%2523Obsidian%2520plugin%2520to%2520sync%2520my%2520%2523KOReader%2520notes.%250AThank%2520you%2520for%2520your%2520great%2520work.%250A%250Ahttps%253A%252F%252Fgithub.com%252FEdo78%252Fobsidian-koreader-sync)](https://twitter.com/intent/tweet?text=I%27m%20enjoying%20%40Edo78%27s%20%23Obsidian%20plugin%20to%20sync%20my%20%23KOReader%20notes.%0AThank%20you%20for%20your%20great%20work.%0A%0Ahttps%3A%2F%2Fgithub.com%2FEdo78%2Fobsidian-koreader-sync)
 
-
-
-[1]: https://github.com/koreader/koreader
-[2]: https://obsidian.md/
+[1]: <https://github.com/koreader/koreader>
+[2]: <https://obsidian.md/>
 
 ## 配置
 
 有四个主要设置：
+
 - `KOReader 挂载路径` 必须正确设置为 KOReader 挂载的路径
 - `高亮文件夹位置` 可以保持默认值 `/`（或者您可以创建一个文件夹并从下拉菜单中选择它）
 - `保持同步` 定义插件是否应该将笔记与 KOReader 同步导入（参见 [同步](#sync)）
@@ -65,10 +61,12 @@ modified: 20230101000000
 
 该区域包含一些在极少数边缘情况下可能有用，但在日常使用中可能会带来危险的设置。
 
-- `启用重置导入的笔记` 可以一次性执行[命令](#commands) `重置同步列表`
+- `启用重置导入的笔记` 可以一次性执行 [命令](#commands) `重置同步列表`
 
 ### 视图配置
-该插件使用[Eta.js](https://eta.js.org/)作为模板引擎来创建笔记的正文（与插件[Templater](https://github.com/SilentVoid13/Templater)使用的相同）。
+
+该插件使用 [Eta.js](https://eta.js.org/) 作为模板引擎来创建笔记的正文（与插件 [Templater](https://github.com/SilentVoid13/Templater) 使用的相同）。
+
 默认模板非常简洁。
 
 ## 标题：[[<%= it.bookPath %>|<%= it.title %>]]
@@ -82,6 +80,7 @@ modified: 20230101000000
 **==<%= it.highlight %>==**
 
 <%= it.text %>
+
 ```
 在“视图设置”部分，您可以找到使用自定义模板的选项。如果您选择这样做，您必须在存储库中创建一个`.md`文件，并在其中编写您的模板（我建议将默认模板复制到其中作为起点），然后在“模板文件”中写入路径。
 
@@ -108,6 +107,7 @@ dv.pages().where(n => {
 return n['koreader-sync'] && n['koreader-sync'].type == 'koreader-sync-note' && n['koreader-sync'].metadata.managed_book_title == title
 }).sort(p => p['koreader-sync'].data.page).forEach(p => dv.paragraph(dv.fileLink(p.file.name, true), {style: 'test-css'}))
 ```
+
 ~~~
 这个模板的核心是一个js [dataview embedded](#dataview-embedded) 查询。如果你不知道自己在做什么，不要乱动它（因为我几乎不懂Dataview）。
 
@@ -176,6 +176,7 @@ return n['koreader-sync'] && n['koreader-sync'].type == 'koreader-sync-note' && 
 ~~~
 
 ### 特定书籍的章节（包含注释）
+
 ~~~markdown
 ```dataview
 列表
@@ -185,6 +186,7 @@ where koreader-sync.data.title = "如何智能记笔记：一种简单的技术�
 ~~~
 
 ### 特定书籍的特定章节的笔记
+
 ~~~markdown
 ```dataview
 list
@@ -193,6 +195,7 @@ where koreader-sync.data.title = "如何智能记笔记：一种简单的技术�
 ~~~
 
 ### 特定书籍的笔记文本（没有链接到笔记，只有文本存在）
+
 ~~~markdown
 ```dataview
 list without id koreader-sync.data.text
@@ -202,6 +205,7 @@ where koreader-sync.data.text
 ~~~
 
 ### 尚未编辑的笔记列表
+
 ~~~markdown
 ```dataview
 list 
@@ -210,6 +214,7 @@ where koreader-sync.metadata.yet_to_be_edited
 ~~~
 
 ### 需要保持同步的笔记列表
+
 ~~~markdown
 ```dataview
 list 
@@ -218,6 +223,7 @@ where koreader-sync.metadata.keep_in_sync
 ~~~
 
 ### 将保持同步的笔记列表
+
 ~~~markdown
 ```dataview
 list 
@@ -225,8 +231,8 @@ where koreader-sync.metadata.keep_in_sync and koreader-sync.metadata.yet_to_be_e
 ```
 ~~~
 
-[1]: https://koreader.rocks/
-[2]: https://obsidian.md
+[1]: <https://koreader.rocks/>
+[2]: <https://obsidian.md>
 
 
 

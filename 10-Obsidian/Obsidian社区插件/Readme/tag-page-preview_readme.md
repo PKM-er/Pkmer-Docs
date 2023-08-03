@@ -1,13 +1,13 @@
 ---
-uid: 2023080322274535
-title: Obsidian 插件：【Readme】Tag Page Preview
+uid: 20230803231105
+title: Obsidian 插件：Tag Page Preview
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 为每个 标签（#Tag），当在笔记中点击时，会弹出包含此标签的一个文件列表。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232421
 ---
 
 # Obsidian 插件：Tag Page Preview
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Tag Page Preview
 > - 插件作者：aidurber
 > - 插件说明：为每个 标签（#Tag），当在笔记中点击时，会弹出包含此标签的一个文件列表。
-> - 插件分类：['链接处理', 'obsidian插件', 'readme']
+> - 插件分类：[' 链接处理 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/aidurber/tag-page-preview)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-page-preview)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Tag Page Preview](https://cdn.pkmer.cn/covers/tag-page-preview.PNG!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Aidurber/tag-page-preview/master/README.md)
-> 
+>
 
 ---
 
@@ -37,9 +37,9 @@ modified: 20230101000000
 
 下面是 [[tag-page-preview]] 插件的自述翻译
 
-
 # ⚠️ 注意
-我无法找到时间来保持这个存储库的良好维护，并与Obsidian保持最新。生活总是会有阻碍。这个插件应该由愿意花时间构建一个Obsidian社区应得的插件的人进行分叉/重建。
+
+我无法找到时间来保持这个存储库的良好维护，并与 Obsidian 保持最新。生活总是会有阻碍。这个插件应该由愿意花时间构建一个 Obsidian 社区应得的插件的人进行分叉/重建。
 
 # 标签页面预览
 
@@ -71,6 +71,3 @@ yarn dev
 yarn release
 git push --follow-tags origin master
 ```
-
-
-

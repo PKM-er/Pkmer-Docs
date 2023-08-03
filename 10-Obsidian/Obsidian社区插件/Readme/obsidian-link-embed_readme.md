@@ -1,13 +1,13 @@
 ---
-uid: 2023080322212533
-title: Obsidian 插件：【Readme】Link Embed
+uid: 20230803231105
+title: Obsidian 插件：Link Embed
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您将笔记中的URL转换为嵌入式预览。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232507
 ---
 
 # Obsidian 插件：Link Embed
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Link Embed
 > - 插件作者：SErAphLi
-> - 插件说明：这个插件允许您将笔记中的URL转换为嵌入式预览。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：这个插件允许您将笔记中的 URL 转换为嵌入式预览。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Seraphli/obsidian-link-embed)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-link-embed)
 
 ## 概述
 
-这个插件允许您将笔记中的URL转换为嵌入式预览。
+这个插件允许您将笔记中的 URL 转换为嵌入式预览。
 
 ![Link Embed](https://cdn.pkmer.cn/covers/obsidian-link-embed.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Seraphli/obsidian-link-embed/main/README.md)
-> 
+>
 
 ---
 
@@ -37,34 +37,33 @@ modified: 20230101000000
 
 下面是 [[obsidian-link-embed]] 插件的自述翻译
 
+# Obsidian 链接嵌入
 
-# Obsidian链接嵌入
-
-该插件允许您将笔记中的URL转换为嵌入式预览。
+该插件允许您将笔记中的 URL 转换为嵌入式预览。
 
 效果如下。
 
 ![演示](https://raw.githubusercontent.com/Seraphli/obsidian-link-embed/main/docs/demo.gif)
 
-**注意** 从2.0.0版本开始，嵌入使用`MarkdownCodeBlockProcessor`进行渲染，避免了扩展HTML块。您可以使用设置中的`Convert`按钮将旧的嵌入转换为新的代码块。
+**注意** 从 2.0.0 版本开始，嵌入使用 `MarkdownCodeBlockProcessor` 进行渲染，避免了扩展 HTML 块。您可以使用设置中的 `Convert` 按钮将旧的嵌入转换为新的代码块。
 
-PS：如果您知道其他提供免费API供用户从URL中获取元数据的网站，请告诉我。有了您的帮助，该插件可以更加强大。
+PS：如果您知道其他提供免费 API 供用户从 URL 中获取元数据的网站，请告诉我。有了您的帮助，该插件可以更加强大。
 
 ## 用法
 
 最简单的方法是将链接粘贴到此处，然后创建嵌入预览。
 
-此外，有三种方法可以将URL传递给此插件。
+此外，有三种方法可以将 URL 传递给此插件。
 
-1. 选择要解析的URL
+1. 选择要解析的 URL
 
 如果没有选择任何内容
 
-2. 将光标放在要解析的URL文本中
+1. 将光标放在要解析的 URL 文本中
 
 或者
 
-3. 将URL复制到剪贴板中
+1. 将 URL 复制到剪贴板中
 
 然后
 
@@ -75,7 +74,7 @@ PS：如果您知道其他提供免费API供用户从URL中获取元数据的网
 
 ### 设置
 
-如果您在设置中启用了“自动嵌入”，插件将在您将链接粘贴到空行中时自动用嵌入预览替换该链接。尽管这个选项非常方便，但我将默认设置为false，以防有人不知道发生了什么。
+如果您在设置中启用了“自动嵌入”，插件将在您将链接粘贴到空行中时自动用嵌入预览替换该链接。尽管这个选项非常方便，但我将默认设置为 false，以防有人不知道发生了什么。
 
 您可以在插件设置中更改默认解析器。
 
@@ -102,9 +101,9 @@ PS：如果您知道其他提供免费API供用户从URL中获取元数据的网
 
 ## 来自不同解析器的示例结果
 
-**示例1**
+**示例 1**
 
-https://arxiv.org/abs/2202.08434
+<https://arxiv.org/abs/2202.08434>
 
 JSONLink
 
@@ -139,9 +138,9 @@ Iframely
 }
 ```
 
-**示例2**
+**示例 2**
 
-https://www.redblobgames.com/articles/visibility/
+<https://www.redblobgames.com/articles/visibility/>
 
 JSONLink
 
@@ -175,6 +174,3 @@ Iframely
 	"url": "https://www.redblobgames.com/articles/visibility/"
 }
 ```
-
-
-

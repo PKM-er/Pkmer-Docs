@@ -1,13 +1,13 @@
 ---
-uid: 2023080322141906
-title: Obsidian 插件：【Readme】Attachment Management
+uid: 20230803231105
+title: Obsidian 插件：Attachment Management
 tags: ['obsidian插件', 'readme']
 description: 附件管理插件，用于自定义附件路径和自动重命名等功能。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232617
 ---
 
 # Obsidian 插件：Attachment Management
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Attachment Management
 > - 插件作者：trganda
 > - 插件说明：附件管理插件，用于自定义附件路径和自动重命名等功能。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/trganda/obsidian-attachment-management)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?attachment-management)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Attachment Management](https://cdn.pkmer.cn/covers/attachment-management.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/trganda/obsidian-attachment-management/main/README.md)
-> 
+>
 
 ---
 
@@ -37,20 +37,19 @@ modified: 20230101000000
 
 下面是 [[attachment-management]] 插件的自述翻译
 
+# Obsidian 附件管理
 
-# Obsidian附件管理
-
-该插件支持使用变量`${notepath}`, `${notename}`和`${date}`更灵活地设置附件的位置。
+该插件支持使用变量 `${notepath}`, `${notename}` 和 `${date}` 更灵活地设置附件的位置。
 
 ## 功能路线图
 
 该插件目前支持以下功能：
 
-- [x] 使用`${notepath}`, `${notename}`, `${date}`和`${parent}`设置附件位置
-- [x] 在将文件粘贴到`markdown`或`canvas`时自动重命名附件
-- [x] 在重命名文章（`markdown`或`canvas`）文件时自动重命名附件文件或文件夹
-- [x] 在将文件拖放到`markdown`或`canvas`时自动重命名附件
-- [x] 将由`markdown`或`canvas`链接的附件文件重新排列到您配置的相应路径（实验性功能）
+- [x] 使用 `${notepath}`, `${notename}`, `${date}` 和 `${parent}` 设置附件位置
+- [x] 在将文件粘贴到 `markdown` 或 `canvas` 时自动重命名附件
+- [x] 在重命名文章（`markdown` 或 `canvas`）文件时自动重命名附件文件或文件夹
+- [x] 在将文件拖放到 `markdown` 或 `canvas` 时自动重命名附件
+- [x] 将由 `markdown` 或 `canvas` 链接的附件文件重新排列到您配置的相应路径（实验性功能）
 - [x] 处理重复的附件
   - [x] 在创建时处理重复的附件（第一次在笔记中粘贴或拖放附件）
   - [x] 在重命名时处理重复的附件
@@ -60,7 +59,7 @@ modified: 20230101000000
 
 ## 安装方法
 
-- 从Obsidian社区插件中安装。
+- 从 Obsidian 社区插件中安装。
 - 克隆这个仓库
   - 运行 `npm i` 安装依赖
   - 运行 `npm run build` 以启动编译并进入监听模式。
@@ -87,15 +86,15 @@ modified: 20230101000000
 
 ### 保存新附件的根路径
 
-您必须选择一个根文件夹来保存与`markdown`或`canvas`文件相关联的附件。
+您必须选择一个根文件夹来保存与 `markdown` 或 `canvas` 文件相关联的附件。
 
 ![SCR-20230511-rgge](./images/SCR-20230511-rgge.png)
 
-可以使用Obsidian中的“文件和链接”配置进行设置，或在此选项中重新设置。
+可以使用 Obsidian 中的“文件和链接”配置进行设置，或在此选项中重新设置。
 
-- 复制Obsidian设置：使用Obsidian中的“文件和链接”配置。
+- 复制 Obsidian 设置：使用 Obsidian 中的“文件和链接”配置。
 - 在下面指定的文件夹中：设置一个固定的文件夹。
-- 在下面指定的文件夹旁边的注释中：在当前`markdown`或`canvas`文件的子文件夹中。
+- 在下面指定的文件夹旁边的注释中：在当前 `markdown` 或 `canvas` 文件的子文件夹中。
 
 ### 附件路径
 
@@ -119,11 +118,11 @@ modified: 20230101000000
 
 ### 日期格式
 
-使用[Moment格式选项](https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format)来设置`${date}`，默认值为`YYYYMMDDHHmmssSSS`。您应该始终使用`${date}`变量来防止相同的文件名。
+使用 [Moment格式选项](https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format) 来设置 `${date}`，默认值为 `YYYYMMDDHHmmssSSS`。您应该始终使用 `${date}` 变量来防止相同的文件名。
 
 ### 处理所有附件
 
-默认情况下，仅自动重命名图像文件（参见[接受的文件格式](https://help.obsidian.md/Advanced+topics/Accepted+file+formats)），如果启用此选项，则所有创建的文件（除了`md`或`canvas`）将自动重命名。
+默认情况下，仅自动重命名图像文件（参见 [接受的文件格式](https://help.obsidian.md/Advanced+topics/Accepted+file+formats)），如果启用此选项，则所有创建的文件（除了 `md` 或 `canvas`）将自动重命名。
 
 #### 排除扩展名模式
 
@@ -131,11 +130,12 @@ modified: 20230101000000
 
 ![SCR-20230511-roat](./images/SCR-20230511-roat.png)
 
-自动重命名附件文件夹/文件名，当您重命名相应的md/canvas文件所在的文件夹/文件名时。
+自动重命名附件文件夹/文件名，当您重命名相应的 md/canvas 文件所在的文件夹/文件名时。
 
 ### 排除路径
 
 如果您希望某些路径被此插件跳过，请将它们添加到文本区域中。
+
 如果您有多个路径，请使用分号 ';' 进行分隔。
 
 默认情况下，“排除路径”仅适用于您添加的文件夹，您可以切换“排除子路径”以排除子路径。
@@ -146,7 +146,7 @@ modified: 20230101000000
 
 安装并启用插件后，配置完成后，您可以像往常一样粘贴或拖放附件文件，它将自动重命名。
 
-该插件支持一个命令“重新排列链接的附件/重新排列所有链接的附件”。如果运行此命令，它将根据您的配置重命名所有链接在“markdown”或“canvas”文件中的附件（默认为图像文件，如果要重命名其他类型，您需要启用[处理所有附件](#handle-all-attachments)）。
+该插件支持一个命令“重新排列链接的附件/重新排列所有链接的附件”。如果运行此命令，它将根据您的配置重命名所有链接在“markdown”或“canvas”文件中的附件（默认为图像文件，如果要重命名其他类型，您需要启用 [处理所有附件](#handle-all-attachments)）。
 
 ![SCR-20230511-rrtk](./images/SCR-20230511-rrtk.png)
 
@@ -160,23 +160,20 @@ modified: 20230101000000
 文件设置 > 最近的父文件夹设置 > 全局设置
 ```
 
-如果您想将文件或文件夹的设置重置为全局设置，请使用命令`Reset Override Setting`或覆盖设置面板上的`Reset`按钮。顺便说一下，**重置只会对您设置的每个文件或文件夹起作用**。更合适的重置方法将在将来添加。
+如果您想将文件或文件夹的设置重置为全局设置，请使用命令 `Reset Override Setting` 或覆盖设置面板上的 `Reset` 按钮。顺便说一下，**重置只会对您设置的每个文件或文件夹起作用**。更合适的重置方法将在将来添加。
 
 ### 已知问题
 
-- ~~目前不支持处理重复的文件名（正在开发中）。在备份中，您可以使用数据变量[`x`](https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format/)将Unix时间戳与毫秒作为文件名（这将防止重复的文件名）。~~
-- 当在`canvas`中放置一个文件时，它会延迟显示更新后的链接/文件名。
+- ~~目前不支持处理重复的文件名（正在开发中）。在备份中，您可以使用数据变量 [`x`](https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format/) 将 Unix 时间戳与毫秒作为文件名（这将防止重复的文件名）。~~
+- 当在 `canvas` 中放置一个文件时，它会延迟显示更新后的链接/文件名。
 
 ![屏幕录制](./images/canvas_drop_delay.gif)
 
 - 假设您有以下结构的默认配置：
   - 附加目录，"assets/notes/hello/1.png"
   - 文章目录，"notes/Hello.md"
-  - 如果您运行`Rearrange ***`命令可能会导致错误，因为该文件夹已经存在，但是名称的大小写不同。
+  - 如果您运行 `Rearrange ***` 命令可能会导致错误，因为该文件夹已经存在，但是名称的大小写不同。
 
 问：如果我将“/”添加到排除路径中会怎么样？
 
 答：它将排除整个保险库文件夹。
-
-
-

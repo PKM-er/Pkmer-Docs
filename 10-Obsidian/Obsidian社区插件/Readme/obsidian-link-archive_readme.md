@@ -1,13 +1,13 @@
 ---
-uid: 2023080322212424
-title: Obsidian 插件：【Readme】Link Archive
+uid: 20230803231105
+title: Obsidian 插件：Link Archive
 tags: ['obsidian插件', 'readme']
 description: 这个插件会把你笔记中的链接归档，这样即使原网站关闭或者被移除，你也可以访问到它们。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232507
 ---
 
 # Obsidian 插件：Link Archive
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Link Archive
 > - 插件作者：Tamás Deme
 > - 插件说明：这个插件会把你笔记中的链接归档，这样即使原网站关闭或者被移除，你也可以访问到它们。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/tomzorz/obsidian-link-archive)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-link-archive)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 这个插件会把你笔记中的链接归档，这样即使原网站关闭或者被移除，你也可以访问到它们。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tomzorz/obsidian-link-archive/master/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +35,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-link-archive]] 插件的自述翻译
 
-
-# Obsidian链接存档
+# Obsidian 链接存档
 
 该插件会将您笔记中的链接存档，即使原始网站关闭或删除，您仍然可以访问这些链接。
 
@@ -47,7 +44,7 @@ modified: 20230101000000
 在点击工具栏/左侧边栏上的“存档链接”按钮后，插件会执行以下操作：
 
 1. 查找当前笔记中的每个外部链接，
-2. 将每个链接提交到https://archive.org，
+2. 将每个链接提交到<https://archive.org，>
 3. 一旦链接被保存，它会在笔记中的常规链接后面嵌入一个“(已存档)”链接。
 
 插件将尝试不为已存档的链接（以及存档链接本身）重新创建存档链接，但这依赖于不修改存档链接的格式。
@@ -63,7 +60,7 @@ modified: 20230101000000
 **v0.2.0**
 
 - 添加错误处理。
-- 插件正确处理Markdown链接。
+- 插件正确处理 Markdown 链接。
 - 添加更好的进度报告。
 - 将插件重构为多个文件。
 - 添加自定义链接文本的设置。

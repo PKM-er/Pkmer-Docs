@@ -1,13 +1,13 @@
 ---
-uid: 2023080322262335
-title: Obsidian 插件：【Readme】Screwdriver
+uid: 20230803231105
+title: Obsidian 插件：Screwdriver
 tags: ['obsidian插件', 'readme']
 description: 您的保险库中放入和取出任何文件的实用程序。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232451
 ---
 
 # Obsidian 插件：Screwdriver
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Screwdriver
 > - 插件作者：vorotamoroz
 > - 插件说明：您的保险库中放入和取出任何文件的实用程序。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/vrtmrz/obsidian-screwdriver)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-screwdriver)
 
@@ -27,16 +27,15 @@ modified: 20230101000000
 ![Screwdriver](https://cdn.pkmer.cn/covers/obsidian-screwdriver_new.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vrtmrz/obsidian-screwdriver/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-screwdriver]] 插件的自述翻译
-
 
 ## 螺丝刀
 
@@ -49,7 +48,8 @@ modified: 20230101000000
 ### 如何使用
 
 #### 安装
-通过[BRAT](https://github.com/TfTHacker/obsidian42-brat)安装此插件。
+
+通过 [BRAT](https://github.com/TfTHacker/obsidian42-brat) 安装此插件。
 
 准备一个用于保存转储的文件。
 
@@ -114,11 +114,9 @@ urls:
 注意：通过编辑文档可以修改转储的文件。
 
 #### 恢复
+
 `Ctrl+P` -> `恢复文件` 将文件恢复到您的存储空间中。
 
 注意：按照 ``` 后面的文件名编写
 
-如果您正在使用[自托管的LiveSync](https://github.com/vrtmrz/obsidian-livesync)或[remotely-save](https://github.com/fyears/remotely-save)，同步配置可能会很有用。
-
-
-
+如果您正在使用 [自托管的LiveSync](https://github.com/vrtmrz/obsidian-livesync) 或 [remotely-save](https://github.com/fyears/remotely-save)，同步配置可能会很有用。

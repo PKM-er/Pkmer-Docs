@@ -1,13 +1,13 @@
 ---
-uid: 2023080322175533
-title: Obsidian 插件：【Readme】Etherpad Lite
+uid: 20230803231105
+title: Obsidian 插件：Etherpad Lite
 tags: ['obsidian插件', 'readme']
 description: .复制并与Etherpad Lite服务器同步笔记，以解锁与他人的简单基于网络的协作。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232521
 ---
 
 # Obsidian 插件：Etherpad Lite
@@ -15,28 +15,25 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Etherpad Lite
 > - 插件作者：egradman
-> - 插件说明：.复制并与Etherpad Lite服务器同步笔记，以解锁与他人的简单基于网络的协作。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：.复制并与 Etherpad Lite 服务器同步笔记，以解锁与他人的简单基于网络的协作。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/egradman/obsidian-etherpad-lite)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-etherpad-plugin)
 
 ## 概述
 
-.复制并与Etherpad Lite服务器同步笔记，以解锁与他人的简单基于网络的协作。
-
-
+.复制并与 Etherpad Lite 服务器同步笔记，以解锁与他人的简单基于网络的协作。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/egradman/obsidian-etherpad-lite/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[obsidian-etherpad-plugin]] 插件的自述翻译
-
 
 # Etherpad-lite Obsidian 插件
 
@@ -48,47 +45,44 @@ modified: 20230101000000
 
 有三个命令：
 
-将当前笔记转换为Etherpad
+将当前笔记转换为 Etherpad
 
-此命令将当前笔记的文本上传到您的Etherpad-Lite服务器。服务器上的笔记ID将与您的保险库中的笔记的基本名称相同。此命令会在您的文档的正文前添加一个元数据键（`etherpad_id`），以向插件表明此笔记的正式位置在云端。
+此命令将当前笔记的文本上传到您的 Etherpad-Lite 服务器。服务器上的笔记 ID 将与您的保险库中的笔记的基本名称相同。此命令会在您的文档的正文前添加一个元数据键（`etherpad_id`），以向插件表明此笔记的正式位置在云端。
 
-### 从Etherpad替换笔记内容
+### 从 Etherpad 替换笔记内容
 
-该命令会显式地用服务器上的版本替换当前笔记的内容。它使用`etherpad_id`前置数据键来确定从哪里获取。如果不存在这样的键，则该命令不执行任何操作。
+该命令会显式地用服务器上的版本替换当前笔记的内容。它使用 `etherpad_id` 前置数据键来确定从哪里获取。如果不存在这样的键，则该命令不执行任何操作。
 
-这与打开具有`etherpad-id`键的笔记时的行为完全相同。
+这与打开具有 `etherpad-id` 键的笔记时的行为完全相同。
 
-在系统浏览器中访问Etherpad的笔记
+在系统浏览器中访问 Etherpad 的笔记
 
-此命令将在您的系统浏览器中打开Etherpad-Lite服务器。复制URL并与他人分享！
+此命令将在您的系统浏览器中打开 Etherpad-Lite 服务器。复制 URL 并与他人分享！
 
 ## 配置
 
 设置服务器的 `host`、`port` 和 `apikey`。
 
-API密钥可以在服务器安装根目录下的 `APIKEY.txt` 文件中找到。
+API 密钥可以在服务器安装根目录下的 `APIKEY.txt` 文件中找到。
 
-设置一个Etherpad-Lite服务器
+设置一个 Etherpad-Lite 服务器
 
 “等等...我必须设置自己的服务器吗？”
 
-比听起来容易。可以在AWS上使用免费的EC2机器，甚至在Heroku上完成。大约需要2分钟，但超出了本文档的范围。您可以保持所有默认设置，以获得一个功能齐全（但不安全）的系统。按照[Etherpad-Lite说明](https://github.com/ether/etherpad-lite)进行操作。
+比听起来容易。可以在 AWS 上使用免费的 EC2 机器，甚至在 Heroku 上完成。大约需要 2 分钟，但超出了本文档的范围。您可以保持所有默认设置，以获得一个功能齐全（但不安全）的系统。按照 [Etherpad-Lite说明](https://github.com/ether/etherpad-lite) 进行操作。
 
-别忘了从`APIKEY.txt`中获取您的API密钥！
+别忘了从 `APIKEY.txt` 中获取您的 API 密钥！
 
 我知道。这部分感觉像是一个诱饵和转换。
 
 ## 待办事项
 
-- 断开文档与Etherpad的连接并删除远程版本的命令
+- 断开文档与 Etherpad 的连接并删除远程版本的命令
 - 当文档打开时自动更新？
-- 选择偏好随机的pad_id的选项
+- 选择偏好随机的 pad_id 的选项
 
 ## 注意事项
 
 - 哎呀！由于我使用的某个库存在一些错误的依赖关系，目前在移动设备上无法正常工作。我会尽快修复！
 
-https://user-images.githubusercontent.com/103129/158699049-6d7801d9-82d0-416a-bcdb-dcdb6fd14987.mp4
-
-
-
+<https://user-images.githubusercontent.com/103129/158699049-6d7801d9-82d0-416a-bcdb-dcdb6fd14987.mp4>

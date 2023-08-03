@@ -1,13 +1,13 @@
 ---
-uid: 2023080322160618
-title: Obsidian 插件：【Readme】Code Emitter
+uid: 20230803231105
+title: Obsidian 插件：Code Emitter
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有Rust、Kotlin、Python、Javascript、TypeScript等。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232609
 ---
 
 # Obsidian 插件：Code Emitter
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Code Emitter
 > - 插件作者：YISH
-> - 插件说明：一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有Rust、Kotlin、Python、Javascript、TypeScript等。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有 Rust、Kotlin、Python、Javascript、TypeScript 等。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/mokeyish/obsidian-code-emitter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?code-emitter)
 
 ## 概述
 
-一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有Rust、Kotlin、Python、Javascript、TypeScript等。
+一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有 Rust、Kotlin、Python、Javascript、TypeScript 等。
 
 ![Code Emitter](https://cdn.pkmer.cn/covers/code-emitter.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mokeyish/obsidian-code-emitter/master/README.md)
-> 
+>
 
 ---
 
@@ -37,13 +37,13 @@ modified: 20230101000000
 
 下面是 [[code-emitter]] 插件的自述翻译
 
-
-# Obsidian代码发射器
+# Obsidian 代码发射器
 
 ![GitHub发布（包括预发布）的最新版本](https://img.shields.io/github/v/release/mokeyish/obsidian-code-emitter?display_name=tag&include_prereleases)
+
 ![GitHub所有版本的下载量](https://img.shields.io/github/downloads/mokeyish/obsidian-code-emitter/total?style=flat-square)
 
-该插件允许以类似jupyter笔记本的方式执行代码块。它基于HTTP REST API和JS沙箱和Webassembly技术，不需要本地环境要求，因此支持Obsidian支持的所有平台。
+该插件允许以类似 jupyter 笔记本的方式执行代码块。它基于 HTTP REST API 和 JS 沙箱和 Webassembly 技术，不需要本地环境要求，因此支持 Obsidian 支持的所有平台。
 
 支持的平台包括：
 
@@ -57,12 +57,12 @@ modified: 20230101000000
 
 | 支持的语言 | 方式                                                         |
 | ---------- | ------------------------------------------------------------ |
-| Rust       | https://play.rust-lang.org                                   |
-| Kotlin     | https://play.kotlinlang.org                                  |
-| V          | https://play.vosca.dev/                                      |
-| JavaScript | JS沙箱（[qiankun](https://github.com/umijs/qiankun/blob/master/src/sandbox/index.ts)） |
-| TypeScript | [TypeScript](https://www.typescriptlang.org/)编译器 + JS沙箱 |
-| Wenyan     | [Wenyan](https://github.com/wenyan-lang/wenyan)编译器 + JS沙箱 |
+| Rust       | <https://play.rust-lang.org>                                   |
+| Kotlin     | <https://play.kotlinlang.org>                                  |
+| V          | <https://play.vosca.dev/>                                      |
+| JavaScript | JS 沙箱（[qiankun](https://github.com/umijs/qiankun/blob/master/src/sandbox/index.ts)） |
+| TypeScript | [TypeScript](https://www.typescriptlang.org/) 编译器 + JS 沙箱 |
+| Wenyan     | [Wenyan](https://github.com/wenyan-lang/wenyan) 编译器 + JS 沙箱 |
 | Python     | WebAssembly（[Pyodide](https://github.com/pyodide/pyodide)）  |
 | Java       | [Sololearn](https://www.sololearn.com)                       |
 | Go         | [Sololearn](https://www.sololearn.com)                       |
@@ -70,7 +70,7 @@ modified: 20230101000000
 | CSharp     | [Sololearn](https://www.sololearn.com)                       |
 | Swift      | [Sololearn](https://www.sololearn.com)                       |
 
-**注意**：只有`Python`、`TypeScript`、`JavaScript`在本地沙箱（js / webassembly）中运行。其他语言将发送代码到第三方网站以评估结果（例如：https://play.kotlinlang.org，https://play.rust-lang.org）。请注意避免发送可能包含敏感信息的源代码。
+**注意**：只有 `Python`、`TypeScript`、`JavaScript` 在本地沙箱（js / webassembly）中运行。其他语言将发送代码到第三方网站以评估结果（例如：<https://play.kotlinlang.org，https://play.rust-lang.org）。请注意避免发送可能包含敏感信息的源代码。>
 
 **广告**：您可能会喜欢我的其他插件🤪
 
@@ -82,7 +82,7 @@ modified: 20230101000000
 
 ## 安装
 
-1. 在[obsidian](https://obsidian.md/)的社区插件中搜索`Code Emitter`，并安装它。
+1. 在 [obsidian](https://obsidian.md/) 的社区插件中搜索 `Code Emitter`，并安装它。
 
 ## 例子
 
@@ -100,9 +100,9 @@ b = np.random.rand(2,5)
 print(a@b)
 ```
 
-### 任何支持CORS的语言
+### 任何支持 CORS 的语言
 
-以下是支持Ruby的示例。
+以下是支持 Ruby 的示例。
 
 ```typescript
 const url = 'https://api2.sololearn.com/v2/codeplayground/v2/compile';
@@ -150,13 +150,13 @@ console.log((await runCode(ruby_code, 'rb')).data.output);
 
 ## 许可证
 
-此插件沙箱包含来自[https://github.com/umijs/qiankun](https://github.com/umijs/qiankun/blob/master/src/sandbox/index.ts)的代码，该代码根据以下许可证进行许可：
+此插件沙箱包含来自 [https://github.com/umijs/qiankun](https://github.com/umijs/qiankun/blob/master/src/sandbox/index.ts) 的代码，该代码根据以下许可证进行许可：
 
-- MIT许可证（LICENSE-MIT或[http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)）
+- MIT 许可证（LICENSE-MIT 或 [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)）
 
 其他代码根据以下许可证进行许可：
 
-- GPL-3.0许可证（LICENSE-GPL-3.0或[https://opensource.org/licenses/GPL-3.0](https://opensource.org/licenses/GPL-3.0))
+- GPL-3.0 许可证（LICENSE-GPL-3.0 或 [https://opensource.org/licenses/GPL-3.0](https://opensource.org/licenses/GPL-3.0))
 
 
 

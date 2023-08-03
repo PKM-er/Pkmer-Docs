@@ -1,13 +1,13 @@
 ---
-uid: 2023080322250376
-title: Obsidian 插件：【Readme】ProgressBar
+uid: 20230803231105
+title: Obsidian 插件：ProgressBar
 tags: ['obsidian插件', 'readme']
 description: 将CodeBlock根据时间或手动方式渲染为进度条。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232430
 ---
 
 # Obsidian 插件：ProgressBar
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：ProgressBar
 > - 插件作者：Wei Zhang
-> - 插件说明：将CodeBlock根据时间或手动方式渲染为进度条。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：将 CodeBlock 根据时间或手动方式渲染为进度条。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/zwpaper/obsidian-progressbar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?progressbar)
 
 ## 概述
 
-将CodeBlock根据时间或手动方式渲染为进度条。
+将 CodeBlock 根据时间或手动方式渲染为进度条。
 
 ![ProgressBar](https://cdn.pkmer.cn/covers/progressbar.jpeg!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zwpaper/obsidian-progressbar/main/README.md)
-> 
+>
 
 ---
 
@@ -37,13 +37,14 @@ modified: 20230101000000
 
 下面是 [[progressbar]] 插件的自述翻译
 
-
 # Obsidian ProgressBar
 
-这是一个为 Obsidian（https://obsidian.md）生成进度条的代码块插件。
+这是一个为 Obsidian（<https://obsidian.md）生成进度条的代码块插件。>
 
 Obsidian ProgressBar 插件可以将 `progressbar` 代码块渲染为基于时间或手动的进度条，
+
 支持以下类型：
+
 - **day-year**：显示今年过去了多少天的进度条。
 - **day-month**：显示本月过去了多少天的进度条。
 - **day-week**：显示本周过去了多少天的进度条。

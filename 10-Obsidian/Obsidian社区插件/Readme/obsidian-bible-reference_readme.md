@@ -1,13 +1,13 @@
 ---
-uid: 2023080322150923
-title: Obsidian 插件：【Readme】Bible Reference
+uid: 20230803231105
+title: Obsidian 插件：Bible Reference
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian.md应用程序轻松记录圣经学习笔记。自动提示圣经经文作为参考。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232532
 ---
 
 # Obsidian 插件：Bible Reference
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Bible Reference
 > - 插件作者：tim-hub
-> - 插件说明：使用Obsidian.md应用程序轻松记录圣经学习笔记。自动提示圣经经文作为参考。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：使用 Obsidian.md 应用程序轻松记录圣经学习笔记。自动提示圣经经文作为参考。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/tim-hub/obsidian-bible-reference)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-bible-reference)
 
 ## 概述
 
-使用Obsidian.md应用程序轻松记录圣经学习笔记。自动提示圣经经文作为参考。
+使用 Obsidian.md 应用程序轻松记录圣经学习笔记。自动提示圣经经文作为参考。
 
 ![Bible Reference](https://cdn.pkmer.cn/covers/obsidian-bible-reference.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tim-hub/obsidian-bible-reference/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +37,10 @@ modified: 20230101000000
 
 下面是 [[obsidian-bible-reference]] 插件的自述翻译
 
-
-## Obsidian圣经参考
+## Obsidian 圣经参考
 
 [![CodeQL](https://github.com/tim-hub/obsidian-bible-reference/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/tim-hub/obsidian-bible-reference/actions/workflows/codeql-analysis.yml) [![Build](https://github.com/tim-hub/obsidian-bible-reference/actions/workflows/build.yml/badge.svg)](https://github.com/tim-hub/obsidian-bible-reference/actions/workflows/build.yml)
+
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tim-hub)
 
 > 这对项目的发展将非常感激。👍
@@ -82,8 +82,8 @@ modified: 20230101000000
 
 ## 其他
 
-> 此插件《圣经经文查询功能》目前由公共圣经API提供支持，
-> 这里介绍了所使用的API以及支持的圣经版本
+> 此插件《圣经经文查询功能》目前由公共圣经 API 提供支持，
+> 这里介绍了所使用的 API 以及支持的圣经版本
 >
 > - [圣经API和圣经版本](docs/bible-api-and-source.md)
 
@@ -95,16 +95,13 @@ modified: 20230101000000
   - 等等
 - [Obsidian圣经参考的问题或功能请求](https://github.com/tim-hub/obsidian-bible-reference/issues)
 - [关于Obsidian圣经参考的讨论](https://github.com/tim-hub/obsidian-bible-reference/discussions)
-  - 这是Jeremy(@JPT62089)关于Svelte、本地化和其他功能的[讨论](https://github.com/tim-hub/obsidian-bible-reference/discussions/77)
+  - 这是 Jeremy(@JPT62089) 关于 Svelte、本地化和其他功能的 [讨论](https://github.com/tim-hub/obsidian-bible-reference/discussions/77)
 
 ### 鸣谢
 
 | 姓名           |               Github 用户名                | 备注                                                                        |
 | :------------- | :------------------------------------------: | --------------------------------------------------------------------------- |
-| Tim Morgan     |    [@seven1m](https://github.com/seven1m)    | 为开源的bible-api项目和bible-api.com的维护做出贡献。 |
-| Bolls Life API | [@bpavlisinec](mailto:bpavlisinec@gmail.com) | 提供免费的公共圣经API。                                              |
+| Tim Morgan     |    [@seven1m](https://github.com/seven1m)    | 为开源的 bible-api 项目和 bible-api.com 的维护做出贡献。 |
+| Bolls Life API | [@bpavlisinec](mailto:bpavlisinec@gmail.com) | 提供免费的公共圣经 API。                                              |
 
 > [**所有贡献者**](https://github.com/tim-hub/obsidian-bible-reference/graphs/contributors) 👍🙏
-
-
-

@@ -1,13 +1,13 @@
 ---
-uid: 2023080322215320
-title: Obsidian 插件：【Readme】Map of Content
+uid: 20230803231105
+title: Obsidian 插件：Map of Content
 tags: ['obsidian插件', 'readme']
 description: 自动为您的保险库生成目录地图
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232546
 ---
 
 # Obsidian 插件：Map of Content
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Map of Content
 > - 插件作者：Robin Haupt
 > - 插件说明：自动为您的保险库生成目录地图
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?map-of-content)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 自动为您的保险库生成目录地图
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Robin-Haupt-1/Obsidian-Map-of-Content/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[map-of-content]] 插件的自述翻译
-
 
 使用这个插件，您将始终准确地知道自己在知识库中的位置，以及所有笔记之间的连接方式。它帮助您以分散的方式组织笔记，其中每个笔记通过其他不同的笔记与中心笔记相连接。
 
@@ -54,7 +51,4 @@ modified: 20230101000000
 
 ![第二个示例的内容地图](https://raw.githubusercontent.com/Robin-Haupt-1/Obsidian-Map-of-Content/main/doc/example%203.png "第二个示例的内容地图")
 
-您可以在Obsidian社区插件商店中搜索“Map of Content”来下载它。
-
-
-
+您可以在 Obsidian 社区插件商店中搜索“Map of Content”来下载它。

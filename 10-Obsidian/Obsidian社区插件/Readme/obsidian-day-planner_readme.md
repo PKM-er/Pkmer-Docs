@@ -1,13 +1,13 @@
 ---
-uid: 2023080322171111
-title: Obsidian 插件：【Readme】Day Planner
+uid: 20230803231105
+title: Obsidian 插件：Day Planner
 tags: ['任务管理', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232525
 ---
 
 # Obsidian 插件：Day Planner
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Day Planner
 > - 插件作者：James Lynch
 > - 插件说明：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器。
-> - 插件分类：['任务管理', '效率', '界面相关', 'obsidian插件', 'readme']
+> - 插件分类：[' 任务管理 ', ' 效率 ', ' 界面相关 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lynchjames/obsidian-day-planner)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-day-planner)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Day Planner](https://cdn.pkmer.cn/covers/obsidian-day-planner.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/obsidian-day-planner/main/README.md)
-> 
+>
 
 ---
 
@@ -37,14 +37,13 @@ modified: 20230101000000
 
 下面是 [[obsidian-day-planner]] 插件的自述翻译
 
-
 # 日程安排
 
 ![GitHub工作流状态](https://img.shields.io/github/workflow/status/lynchjames/obsidian-day-planner/Release%20Build?logo=github&style=for-the-badge) ![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/lynchjames/obsidian-day-planner?style=for-the-badge&sort=semver)
 
-该存储库包含一个用于[Obsidian](https://obsidian.md/)的插件，用于从Markdown笔记中的任务列表进行日程安排和管理番茄钟。
+该存储库包含一个用于 [Obsidian](https://obsidian.md/) 的插件，用于从 Markdown 笔记中的任务列表进行日程安排和管理番茄钟。
 
-> 这是插件的早期alpha版本，它将在Obsidian打开且插件已启用时持续运行。**请先在测试保险库中尝试插件，并确保您的笔记已在云存储或Git中备份。**
+> 这是插件的早期 alpha 版本，它将在 Obsidian 打开且插件已启用时持续运行。**请先在测试保险库中尝试插件，并确保您的笔记已在云存储或 Git 中备份。**
 
 ## 特点
 
@@ -57,9 +56,9 @@ modified: 20230101000000
 
 ## 用法
 
-安装完成后，插件将在您的存储库根目录下创建一个名为“Day Planners”的文件夹。一个以今天日期为文件名格式的笔记将自动创建在`Day Planners/Day Planner-YYYYMMDD.md`。
+安装完成后，插件将在您的存储库根目录下创建一个名为“Day Planners”的文件夹。一个以今天日期为文件名格式的笔记将自动创建在 `Day Planners/Day Planner-YYYYMMDD.md`。
 
-您也可以选择使用[命令模式](#day-planner-mode)，在任何笔记中添加一个当前日期的日程安排。
+您也可以选择使用 [命令模式](#day-planner-mode)，在任何笔记中添加一个当前日期的日程安排。
 
 ### 日程安排备注
 
@@ -110,25 +109,27 @@ modified: 20230101000000
 - [ ] 18:00 结束
 ```
 
-这也可以作为一个文件提供，文件名为[day-planner-example.md](https://github.com/lynchjames/obsidian-day-planner/blob/main/examples/day-planner-example.md)。
+这也可以作为一个文件提供，文件名为 [day-planner-example.md](https://github.com/lynchjames/obsidian-day-planner/blob/main/examples/day-planner-example.md)。
 
-Day Planner的标题和`---`规则用于标识Day Planner的范围。必须使用一个标题，但可以是`#`、`##`、`###`或`####`。
+Day Planner 的标题和 `---` 规则用于标识 Day Planner 的范围。必须使用一个标题，但可以是 `#`、`##`、`###` 或 `####`。
 
 任务列表项的格式很重要，因为这是用来计算每个任务的时间和任务之间的间隔的。使用的格式应该是：
 
- `- [ ] HH:mm 任务文本` 
- 
- **应使用24小时制。** 
+ `- [ ] HH:mm 任务文本`
+
+
+
+ **应使用 24 小时制。**
 
 现在还支持嵌套的检查列表项或项目，以捕捉定时任务的子任务。定时任务必须位于复选框列表的顶层。
 
-`BREAK`和`END`是定义休息和任务时间跟踪结束的关键字。它们不区分大小写，因此也可以使用`break`和`end`。`BREAK`和`END`关键字都是可配置的，并且可以在Day Planner设置选项卡中自定义。
+`BREAK` 和 `END` 是定义休息和任务时间跟踪结束的关键字。它们不区分大小写，因此也可以使用 `break` 和 `end`。`BREAK` 和 `END` 关键字都是可配置的，并且可以在 Day Planner 设置选项卡中自定义。
 
-在本例中，`END`用作带有时间的项目，以便为最后一个任务，即17:00的"准备明天的会议"，提供准确的时间间隔。
+在本例中，`END` 用作带有时间的项目，以便为最后一个任务，即 17:00 的 " 准备明天的会议 "，提供准确的时间间隔。
 
 笔记将自动更新：过去的任务将被勾选并标记为已完成。
 
-使用上面的示例，在14:30时，笔记将自动更新为：
+使用上面的示例，在 14:30 时，笔记将自动更新为：
 
 ```markdown
 

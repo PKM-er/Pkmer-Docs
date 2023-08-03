@@ -1,13 +1,13 @@
 ---
-uid: 2023080322151829
-title: Obsidian 插件：【Readme】BPMN Plugin
+uid: 20230803231105
+title: Obsidian 插件：BPMN Plugin
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 这个插件使用bpmn-js可以查看BPMN图。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232613
 ---
 
 # Obsidian 插件：BPMN Plugin
@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：BPMN Plugin
 > - 插件作者：joleaf
-> - 插件说明：这个插件使用bpmn-js可以查看BPMN图。
-> - 插件分类：['图表生成', 'obsidian插件', 'readme']
+> - 插件说明：这个插件使用 bpmn-js 可以查看 BPMN 图。
+> - 插件分类：[' 图表生成 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/joleaf/obsidian-bpmn-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bpmn-plugin)
 
 ## 概述
 
-这个插件使用bpmn-js可以查看BPMN图。
+这个插件使用 bpmn-js 可以查看 BPMN 图。
 
 ![BPMN Plugin](https://cdn.pkmer.cn/covers/bpmn-plugin.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joleaf/obsidian-bpmn-plugin/main/README.md)
-> 
+>
 
 ---
 
@@ -37,26 +37,27 @@ modified: 20230101000000
 
 下面是 [[bpmn-plugin]] 插件的自述翻译
 
+# Obsidian 的 BPMN 插件 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/joleaf/obsidian-bpmn-plugin)](https://github.com/joleaf/obsidian-bpmn-plugin/releases) [![Release Obsidian Plugin](https://github.com/joleaf/obsidian-bpmn-plugin/actions/workflows/release.yml/badge.svg)](https://github.com/joleaf/obsidian-bpmn-plugin/actions/workflows/release.yml) ![Obsidian下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%238b6cef&label=downloads&query=%24%5B%22bpmn-plugin%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
 
-# Obsidian的BPMN插件 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/joleaf/obsidian-bpmn-plugin)](https://github.com/joleaf/obsidian-bpmn-plugin/releases) [![Release Obsidian Plugin](https://github.com/joleaf/obsidian-bpmn-plugin/actions/workflows/release.yml/badge.svg)](https://github.com/joleaf/obsidian-bpmn-plugin/actions/workflows/release.yml) ![Obsidian下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%238b6cef&label=downloads&query=%24%5B%22bpmn-plugin%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
+该插件允许您在 [Obsidian](https://www.obsidian.md) 笔记中交互式地查看 BPMN 图表。
 
-该插件允许您在[Obsidian](https://www.obsidian.md)笔记中交互式地查看BPMN图表。
-该查看器基于[bpmn-js](https://github.com/bpmn-io/bpmn-js)库。
-此外，还提供了基本的BPMN编辑功能。
+该查看器基于 [bpmn-js](https://github.com/bpmn-io/bpmn-js) 库。
+
+此外，还提供了基本的 BPMN 编辑功能。
 
 安装。。
 
 ### .. 在 Obsidian 中自动化
 
 1. 在 Obsidian 设置中转到**社区插件**并**禁用**安全模式
-2. 点击**浏览**并搜索"[BPMN 插件](obsidian://show-plugin?id=bpmn-plugin)"
+2. 点击**浏览**并搜索 "[BPMN 插件](obsidian://show-plugin?id=bpmn-plugin)"
 3. 点击安装
 4. 在**社区插件**选项卡中切换插件开启状态
 
 ### .. 从此存储库手动操作
 
-1. 下载最新的[发布版本](https://github.com/joleaf/obsidian-bpmn-plugin/releases)的 `*.zip` 文件。
-2. 将zip文件解压到您的Obsidian保险库的 `.obsidian/plugins` 文件夹中。
+1. 下载最新的 [发布版本](https://github.com/joleaf/obsidian-bpmn-plugin/releases) 的 `*.zip` 文件。
+2. 将 zip 文件解压到您的 Obsidian 保险库的 `.obsidian/plugins` 文件夹中。
 
 ## 如何使用（CodeBlock）
 
@@ -91,13 +92,13 @@ url: [[my-diagram.bpmn]]
 
 ![示例](example/bpmn-plugin.gif)
 
-如何使用（打开BPMN文件）
+如何使用（打开 BPMN 文件）
 
-只需在您的黑曜石保险库中打开BPMN文件，即可在全屏模式下进行编辑。
+只需在您的黑曜石保险库中打开 BPMN 文件，即可在全屏模式下进行编辑。
 
 ## 如何进行开发
 
-1. 将此存储库克隆到（非生产）Vault的插件文件夹中（`.obsidian/plugins/`）
+1. 将此存储库克隆到（非生产）Vault 的插件文件夹中（`.obsidian/plugins/`）
 2. 运行 `npm i`
 3. 运行 `npm run dev`
 4. 在**社区插件**选项卡中启用插件的切换按钮
@@ -105,6 +106,3 @@ url: [[my-diagram.bpmn]]
 捐赠
 
 <a href='https://ko-fi.com/joleaf' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='在ko-fi.com给我买杯咖啡' />
-
-
-

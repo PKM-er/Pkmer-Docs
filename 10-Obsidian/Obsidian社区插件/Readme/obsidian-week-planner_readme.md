@@ -1,13 +1,13 @@
 ---
-uid: 2023080322292823
-title: Obsidian 插件：【Readme】Week Planner
+uid: 20230803231105
+title: Obsidian 插件：Week Planner
 tags: ['obsidian插件', 'readme']
 description: 创建周计划文件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230803232437
 ---
 
 # Obsidian 插件：Week Planner
@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Week Planner
 > - 插件作者：Ralf Wirdemann
 > - 插件说明：创建周计划文件。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/rwirdemann/obsidian-week-planner)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-week-planner)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 创建周计划文件。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/rwirdemann/obsidian-week-planner/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,9 @@ modified: 20230101000000
 
 下面是 [[obsidian-week-planner]] 插件的自述翻译
 
+# Obsidian 周计划插件
 
-# Obsidian周计划插件
-
-https://user-images.githubusercontent.com/28768/197604992-021aadc1-1bb0-4622-a4c8-dc424d05d9cb.mov
+<https://user-images.githubusercontent.com/28768/197604992-021aadc1-1bb0-4622-a4c8-dc424d05d9cb.mov>
 
 该插件反映了我个人的工作流程，围绕着三个核心思想进行组织：
 
@@ -48,7 +45,7 @@ https://user-images.githubusercontent.com/28768/197604992-021aadc1-1bb0-4622-a4c
 - 本周：本周的目标
 - 今天：有序的今天的待办事项列表
 
-这三个待办事项容器中的每一个都由一个单独的Obsidian文档类型表示，组织在以下文件夹结构中：
+这三个待办事项容器中的每一个都由一个单独的 Obsidian 文档类型表示，组织在以下文件夹结构中：
 
 ```
 周计划
@@ -85,9 +82,9 @@ https://user-images.githubusercontent.com/28768/197604992-021aadc1-1bb0-4622-a4c
 - `随处移动` 打开一个模态框，将光标下的任务移动到收件箱或特定日期的文档中
 - `添加待办事项` 打开一个待办事项模态框，创建一个新的待办事项并将其插入到收件箱或特定日期的文档中
 
-所有的`显示`命令都会打开相关的文档。如果文档不存在，它们会自动创建文档和底层文件夹结构。
+所有的 `显示` 命令都会打开相关的文档。如果文档不存在，它们会自动创建文档和底层文件夹结构。
 
-`显示`命令会考虑实际日期和一组工作日。因此，`显示今天`始终会为实际日期创建/打开一个待办事项笔记，无论今天是否是工作日。但是，`显示明天`和`显示昨天`会考虑工作日，因此如果你在星期日触发`显示昨天`，则会创建/打开上周五的待办事项笔记。
+`显示` 命令会考虑实际日期和一组工作日。因此，`显示今天` 始终会为实际日期创建/打开一个待办事项笔记，无论今天是否是工作日。但是，`显示明天` 和 `显示昨天` 会考虑工作日，因此如果你在星期日触发 `显示昨天`，则会创建/打开上周五的待办事项笔记。
 
 计划过程
 
@@ -110,6 +107,3 @@ https://user-images.githubusercontent.com/28768/197604992-021aadc1-1bb0-4622-a4c
 ## 许可证
 
 * [Apache许可证，版本2.0](https://www.apache.org/licenses/LICENSE-2.0)
-
-
-
