@@ -1,21 +1,21 @@
 ---
 uid: 20230804105320
-title: 浓缩精华——Blue Topaz Legacy
+title: BT 主题精华片段集合：Blue Topaz Legacy
 tags: [主题增强, BlueTopaz]
 description: 把BlueTopaz优秀的片段提取出来，其他主题也可以使用。
 author: ProudBenzene
 type: other
 draft: false
 editable: false
-modified: 20230804110614
+modified: 20230804113007
 ---
+
+# BT 主题精华片段集合：Blue Topaz Legacy
 
 > [!note]
 > A css snippet used to bring useful features in the BT theme to Obsidian non-Blue Topaz theme users.
 >
 > **原作者主题见**： <https://github.com/PKM-er/Blue-Topaz_Obsidian-css>
-
-# 浓缩精华——Blue Topaz Legacy
 
 ## 制作初衷
 
@@ -124,7 +124,7 @@ modified: 20230804110614
 - kanban **伪看板**
 - table **表格单行全部显示**
 
-关于 Callout 的部分可以见 [[浓缩精华——Blue Topaz Legacy#Callout 增强|Callout增强]]
+关于 Callout 的部分可以见 [[BT 主题精华片段集合：Blue Topaz Legacy#Callout 增强|Callout增强]]
 
 ## 类笔记样式背景设置
 
