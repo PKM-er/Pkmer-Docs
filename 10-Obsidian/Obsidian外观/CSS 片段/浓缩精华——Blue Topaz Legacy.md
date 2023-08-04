@@ -2,12 +2,12 @@
 uid: 20230804105320
 title: 浓缩精华——Blue Topaz Legacy
 tags: [主题增强, BlueTopaz]
-description: B把BlueTopaz优秀的片段提取出来，其他主题也可以使用。
+description: 把BlueTopaz优秀的片段提取出来，其他主题也可以使用。
 author: ProudBenzene
 type: other
 draft: false
 editable: false
-modified: 20230804110304
+modified: 20230804110614
 ---
 
 > [!note]
