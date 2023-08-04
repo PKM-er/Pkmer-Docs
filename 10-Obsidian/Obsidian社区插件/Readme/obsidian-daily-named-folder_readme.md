@@ -1,6 +1,6 @@
 ---
 uid: 2023080322170194
-title: Obsidian 插件：Daily Named Folder
+title: Obsidian 插件：【Readme】Daily Named Folder
 tags: ['笔记文件处理', '日志类', 'obsidian插件', 'readme']
 description: 每日笔记，但嵌套在每日文件夹中，并附有一行摘要，更适合附件管理和快速浏览。
 author: AI

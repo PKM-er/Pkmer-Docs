@@ -1,6 +1,6 @@
 ---
 uid: 2023080322194918
-title: Obsidian 插件：Homepage
+title: Obsidian 插件：【Readme】Homepage
 tags: ['导航工具', '效率', '美化', 'obsidian插件', 'readme']
 description: 在启动 Obsidian 时，打开指定的笔记、白板文件或工作区布局，而不是最近打开的（OB 默认设置）。
 author: AI

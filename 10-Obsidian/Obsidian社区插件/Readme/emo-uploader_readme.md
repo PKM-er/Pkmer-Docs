@@ -1,6 +1,6 @@
 ---
 uid: 2023080322174671
-title: Obsidian 插件：Emo
+title: Obsidian 插件：【Readme】Emo
 tags: ['obsidian插件', 'readme']
 description: 嵌入Markdown在线文件/图像链接。此插件用于将图像上传到Obsidian中的托管或文件上传到Github。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322250931
-title: Obsidian 插件：ProZen
+title: Obsidian 插件：【Readme】ProZen
 tags: ['obsidian插件', 'readme']
 description: 进入禅模式，专注于写作。该插件将当前标签扩展到全屏，除内容外删除一切。
 author: AI

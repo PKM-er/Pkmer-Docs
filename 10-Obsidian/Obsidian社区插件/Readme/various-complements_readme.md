@@ -1,6 +1,6 @@
 ---
 uid: 2023080322290811
-title: Obsidian 插件：Various Complements
+title: Obsidian 插件：【Readme】Various Complements
 tags: ['编辑工具', '效率', '中文处理', 'obsidian插件', 'readme']
 description: 可以自动根据你当前的输入，检测词典，并给出对应的提示。词典内容可以自定义，也可使是你本库内已经输入的内容。或者自动化输入一些格式，比如不同的callout类型。
 author: AI

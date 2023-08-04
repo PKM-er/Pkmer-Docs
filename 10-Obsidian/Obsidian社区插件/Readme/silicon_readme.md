@@ -1,6 +1,6 @@
 ---
 uid: 2023080322265390
-title: Obsidian 插件：Silicon AI
+title: Obsidian 插件：【Readme】Silicon AI
 tags: ['obsidian插件', 'readme']
 description: 通过硅AI为您的笔记增加一些智能。
 author: AI

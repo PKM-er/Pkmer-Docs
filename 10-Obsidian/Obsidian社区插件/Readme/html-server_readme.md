@@ -1,6 +1,6 @@
 ---
 uid: 2023080322195836
-title: Obsidian 插件：Html Server
+title: Obsidian 插件：【Readme】Html Server
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您启动一个本地的HTTP服务器，通过Web浏览器访问您的保险库。
 author: AI

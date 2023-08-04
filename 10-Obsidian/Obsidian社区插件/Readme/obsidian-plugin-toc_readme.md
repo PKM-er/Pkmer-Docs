@@ -1,6 +1,6 @@
 ---
 uid: 2023080322274271
-title: Obsidian 插件：Table of Contents
+title: Obsidian 插件：【Readme】Table of Contents
 tags: ['编辑工具', '目录/标题', 'obsidian插件', 'readme']
 description: 为笔记内生成静态目录。
 author: AI

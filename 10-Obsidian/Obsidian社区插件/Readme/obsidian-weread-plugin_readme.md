@@ -1,6 +1,6 @@
 ---
 uid: 2023080322293012
-title: Obsidian 插件：Weread Plugin
+title: Obsidian 插件：【Readme】Weread Plugin
 tags: ['第三方工具集成', '编辑工具', '信息收集', 'obsidian插件', 'readme']
 description: 可以让你的 Obsidian 和微信阅读联动，获取相关阅读标注，笔记信息。
 author: AI

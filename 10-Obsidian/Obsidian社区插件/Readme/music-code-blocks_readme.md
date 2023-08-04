@@ -1,6 +1,6 @@
 ---
 uid: 2023080322133054
-title: Obsidian 插件：ABC Music Notation
+title: Obsidian 插件：【Readme】ABC Music Notation
 tags: ['音乐相关', 'obsidian插件', 'readme']
 description: 通过abcjs使用ABC音乐符号直接从代码块渲染乐谱
 author: AI

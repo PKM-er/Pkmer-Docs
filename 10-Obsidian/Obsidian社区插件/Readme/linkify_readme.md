@@ -1,6 +1,6 @@
 ---
 uid: 2023080322213504
-title: Obsidian 插件：Linkify
+title: Obsidian 插件：【Readme】Linkify
 tags: ['obsidian插件', 'readme']
 description: 将匹配文本转换为链接
 author: AI

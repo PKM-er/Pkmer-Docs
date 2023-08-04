@@ -1,6 +1,6 @@
 ---
 uid: 2023080322143402
-title: Obsidian 插件：Auto Note Mover
+title: Obsidian 插件：【Readme】Auto Note Mover
 tags: ['obsidian插件', 'readme']
 description: Auto Note Mover会根据规则自动将活动笔记移动到各自的文件夹中。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322262514
-title: Obsidian 插件：Scroll Offset
+title: Obsidian 插件：【Readme】Scroll Offset
 tags: ['obsidian插件', 'readme']
 description: 在光标之前或之后保留自定义距离。
 author: AI

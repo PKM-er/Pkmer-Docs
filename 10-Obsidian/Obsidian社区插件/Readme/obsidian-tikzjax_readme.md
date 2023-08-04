@@ -1,6 +1,6 @@
 ---
 uid: 2023080322281890
-title: Obsidian 插件：TikZJax
+title: Obsidian 插件：【Readme】TikZJax
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在你的笔记中渲染LaTeX和TikZ图表。
 author: AI

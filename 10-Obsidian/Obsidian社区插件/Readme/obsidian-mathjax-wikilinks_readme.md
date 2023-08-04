@@ -1,6 +1,6 @@
 ---
 uid: 2023080322221104
-title: Obsidian 插件：MathJax WikiLinks
+title: Obsidian 插件：【Readme】MathJax WikiLinks
 tags: ['obsidian插件', 'readme']
 description: 允许在WikiLink别名中渲染MathJax。
 author: AI

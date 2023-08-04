@@ -1,6 +1,6 @@
 ---
 uid: 2023080322145806
-title: Obsidian 插件：Bellboy
+title: Obsidian 插件：【Readme】Bellboy
 tags: ['obsidian插件', 'readme']
 description: 具有主见的文件结构管理器。
 author: AI

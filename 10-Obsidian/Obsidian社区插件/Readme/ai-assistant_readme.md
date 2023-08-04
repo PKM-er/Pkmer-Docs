@@ -1,6 +1,6 @@
 ---
 uid: 2023080322135274
-title: Obsidian 插件：AI Assistant
+title: Obsidian 插件：【Readme】AI Assistant
 tags: ['obsidian插件', 'readme']
 description: Obsidian的AI助手插件。
 author: AI

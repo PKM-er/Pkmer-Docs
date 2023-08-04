@@ -1,6 +1,6 @@
 ---
 uid: 2023080322223744
-title: Obsidian 插件：Minimal Theme Settings
+title: Obsidian 插件：【Readme】Minimal Theme Settings
 tags: ['样式工具', '美化', 'obsidian插件', 'readme']
 description: 为 Minimal 主题中主要样式提供图形化设置界面
 author: AI

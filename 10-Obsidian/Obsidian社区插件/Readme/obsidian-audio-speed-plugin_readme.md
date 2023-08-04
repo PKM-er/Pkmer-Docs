@@ -1,6 +1,6 @@
 ---
 uid: 2023080322142299
-title: Obsidian 插件：Audio Speed Plugin
+title: Obsidian 插件：【Readme】Audio Speed Plugin
 tags: ['obsidian插件', 'readme']
 description: 在 Markdown 预览期间改变音频文件的播放速率。
 author: AI

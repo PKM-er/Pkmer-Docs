@@ -1,6 +1,6 @@
 ---
 uid: 2023080322283931
-title: Obsidian 插件：Topic Linking
+title: Obsidian 插件：【Readme】Topic Linking
 tags: ['obsidian插件', 'readme']
 description: 将 PDF文件和网页链接转换为Markdown，并从Markdown 创建主题
 author: AI

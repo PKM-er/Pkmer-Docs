@@ -1,6 +1,6 @@
 ---
 uid: 2023080322150392
-title: Obsidian 插件：Better MathJax
+title: Obsidian 插件：【Readme】Better MathJax
 tags: ['obsidian插件', 'readme']
 description: 提供数学自动完成和可自定义的代码片段。
 author: AI

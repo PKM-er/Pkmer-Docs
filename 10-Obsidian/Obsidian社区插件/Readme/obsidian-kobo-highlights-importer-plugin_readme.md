@@ -1,6 +1,6 @@
 ---
 uid: 2023080322210741
-title: Obsidian 插件：Kobo Highlights Importer
+title: Obsidian 插件：【Readme】Kobo Highlights Importer
 tags: ['obsidian插件', 'readme']
 description: 从Kobo设备导入亮点
 author: AI

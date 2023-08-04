@@ -1,6 +1,6 @@
 ---
 uid: 2023080322274958
-title: Obsidian 插件：TagFolder
+title: Obsidian 插件：【Readme】TagFolder
 tags: ['文件管理', '标签', 'obsidian插件', 'readme']
 description: 将标签变为文件夹形式，管理你的笔记。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322273427
-title: Obsidian 插件：Surfing
+title: Obsidian 插件：【Readme】Surfing
 tags: ['obsidian插件', 'readme']
 description: 在黑曜石上网络冲浪
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322153732
-title: Obsidian 插件：Card View Mode
+title: Obsidian 插件：【Readme】Card View Mode
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 以卡片模式查看你的笔记。该插件已经无法使用。
 author: AI

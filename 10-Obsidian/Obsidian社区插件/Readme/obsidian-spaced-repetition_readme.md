@@ -1,6 +1,6 @@
 ---
 uid: 2023080322271799
-title: Obsidian 插件：Spaced Repetition
+title: Obsidian 插件：【Readme】Spaced Repetition
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 通过复习闪卡和整个笔记来抗击遗忘曲线。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322265101
-title: Obsidian 插件：Shukuchi
+title: Obsidian 插件：【Readme】Shukuchi
 tags: ['obsidian插件', 'readme']
 description: 跳转到链接（URL或内部链接）并跳转到它们的目标位置。
 author: AI

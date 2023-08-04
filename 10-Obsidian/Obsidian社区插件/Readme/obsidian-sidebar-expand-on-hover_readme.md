@@ -1,6 +1,6 @@
 ---
 uid: 2023080322265188
-title: Obsidian 插件：Sidebar Expand on Hover
+title: Obsidian 插件：【Readme】Sidebar Expand on Hover
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这个黑曜石插件可以根据鼠标悬停在左侧标签上展开或折叠侧边栏。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322272422
-title: Obsidian 插件：Status Bar Quote
+title: Obsidian 插件：【Readme】Status Bar Quote
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian状态栏中展示你最喜欢的格言
 author: AI

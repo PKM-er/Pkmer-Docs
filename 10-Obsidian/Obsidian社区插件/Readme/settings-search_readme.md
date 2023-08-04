@@ -1,6 +1,6 @@
 ---
 uid: 2023080322264013
-title: Obsidian 插件：Settings Search
+title: Obsidian 插件：【Readme】Settings Search
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian.md中全局搜索设置
 author: AI

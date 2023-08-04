@@ -1,6 +1,6 @@
 ---
 uid: 2023080322155925
-title: Obsidian 插件：cMenu
+title: Obsidian 插件：【Readme】cMenu
 tags: ['编辑工具', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加了一个悬浮的精简文本样式编辑工具栏，让你不用记忆各种mardown 命令，也能进行编辑。
 author: AI

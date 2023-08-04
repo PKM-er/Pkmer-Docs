@@ -1,6 +1,6 @@
 ---
 uid: 2023080322221514
-title: Obsidian 插件：Maximise Active Pane
+title: Obsidian 插件：【Readme】Maximise Active Pane
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 简单地用活动窗格填充工作区。
 author: AI

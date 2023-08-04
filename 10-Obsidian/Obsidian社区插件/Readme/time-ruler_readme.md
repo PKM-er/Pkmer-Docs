@@ -1,6 +1,6 @@
 ---
 uid: 2023080322281976
-title: Obsidian 插件：Time Ruler
+title: Obsidian 插件：【Readme】Time Ruler
 tags: ['obsidian插件', 'readme']
 description: 一个拖放式的时间标尺，结合了任务列表和日历视图的优点（与任务、完整日历和数据视图集成）。
 author: AI

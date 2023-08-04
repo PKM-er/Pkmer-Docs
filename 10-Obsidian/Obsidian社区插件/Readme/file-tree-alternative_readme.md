@@ -1,6 +1,6 @@
 ---
 uid: 2023080322182079
-title: Obsidian 插件：File Tree Alternative Plugin
+title: Obsidian 插件：【Readme】File Tree Alternative Plugin
 tags: ['界面相关', '文件管理', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加一个全新的文件列表。文件夹和文件的内容会在不同面板内展示
 author: AI

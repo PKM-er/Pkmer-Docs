@@ -1,6 +1,6 @@
 ---
 uid: 2023080322293512
-title: Obsidian 插件：Wikipedia Search
+title: Obsidian 插件：【Readme】Wikipedia Search
 tags: ['obsidian插件', 'readme']
 description: 搜索维基百科文章并链接它们。
 author: AI

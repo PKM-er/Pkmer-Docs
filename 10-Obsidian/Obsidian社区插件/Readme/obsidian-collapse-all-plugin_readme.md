@@ -1,6 +1,6 @@
 ---
 uid: 2023080322161052
-title: Obsidian 插件：Collapse All
+title: Obsidian 插件：【Readme】Collapse All
 tags: ['导航工具', '文件管理', 'obsidian插件', 'readme']
 description: 这个插件添加了一个按钮来折叠文件资源管理器中的所有文件夹。官方已经有类似的功能
 author: AI

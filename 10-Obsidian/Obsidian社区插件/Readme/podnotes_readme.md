@@ -1,6 +1,6 @@
 ---
 uid: 2023080322245780
-title: Obsidian 插件：PodNotes
+title: Obsidian 插件：【Readme】PodNotes
 tags: ['obsidian插件', 'readme']
 description: 轻松记录播客节目。
 author: AI

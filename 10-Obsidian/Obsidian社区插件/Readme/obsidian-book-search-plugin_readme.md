@@ -1,6 +1,6 @@
 ---
 uid: 2023080322151554
-title: Obsidian 插件：Book Search
+title: Obsidian 插件：【Readme】Book Search
 tags: ['obsidian插件', 'readme']
 description: 帮助你找书并创建笔记。
 author: AI

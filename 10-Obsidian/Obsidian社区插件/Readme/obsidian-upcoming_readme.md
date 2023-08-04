@@ -1,6 +1,6 @@
 ---
 uid: 2023080322290020
-title: Obsidian 插件：Upcoming
+title: Obsidian 插件：【Readme】Upcoming
 tags: ['obsidian插件', 'readme']
 description: 可以快速查看即将来的每日笔记。
 author: AI

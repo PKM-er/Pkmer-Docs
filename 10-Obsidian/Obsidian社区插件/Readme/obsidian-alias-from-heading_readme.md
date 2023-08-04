@@ -1,6 +1,6 @@
 ---
 uid: 2023080322135840
-title: Obsidian 插件：Alias from heading
+title: Obsidian 插件：【Readme】Alias from heading
 tags: ['obsidian插件', 'readme']
 description: 隐式添加一个与文档中第一个标题匹配的别名。
 author: AI

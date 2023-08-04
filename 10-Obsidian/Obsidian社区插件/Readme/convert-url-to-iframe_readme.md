@@ -1,6 +1,6 @@
 ---
 uid: 2023080322163147
-title: Obsidian 插件：Convert url to preview (iframe)
+title: Obsidian 插件：【Readme】Convert url to preview (iframe)
 tags: ['转换工具', '链接处理', 'obsidian插件', 'readme']
 description: 将一个url（例如youtube）转换为一个iframe（预览）
 author: AI

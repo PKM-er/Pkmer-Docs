@@ -1,6 +1,6 @@
 ---
 uid: 2023080322145334
-title: Obsidian 插件：Badges
+title: Obsidian 插件：【Readme】Badges
 tags: ['obsidian插件', 'readme']
 description: 在笔记中添加内联徽章/标注。
 author: AI

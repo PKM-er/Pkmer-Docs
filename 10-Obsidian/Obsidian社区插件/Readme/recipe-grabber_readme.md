@@ -1,6 +1,6 @@
 ---
 uid: 2023080322254755
-title: Obsidian 插件：Recipe Grabber
+title: Obsidian 插件：【Readme】Recipe Grabber
 tags: ['obsidian插件', 'readme']
 description: 快速获取任何在线食谱的重要内容。
 author: AI

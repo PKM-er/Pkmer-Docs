@@ -1,6 +1,6 @@
 ---
 uid: 2023080322154451
-title: Obsidian 插件：ChatGPT MD
+title: Obsidian 插件：【Readme】ChatGPT MD
 tags: ['obsidian插件', 'readme']
 description: 将ChatGPT（几乎）无缝集成到Obsidian中。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322215484
-title: Obsidian 插件：MarginNote Companion
+title: Obsidian 插件：【Readme】MarginNote Companion
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，用于连接MarginNote 3和Obsidian
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322160526
-title: Obsidian 插件：Code Editor Shortcuts
+title: Obsidian 插件：【Readme】Code Editor Shortcuts
 tags: ['obsidian插件', 'readme']
 description: 添加经常出现在代码编辑器（如Visual Studio Code（vscode）或Sublime Text）中的快捷键（热键）
 author: AI

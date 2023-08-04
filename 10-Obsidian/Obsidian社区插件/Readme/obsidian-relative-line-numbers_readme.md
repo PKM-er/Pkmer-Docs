@@ -1,6 +1,6 @@
 ---
 uid: 2023080322255526
-title: Obsidian 插件：Relative Line Numbers
+title: Obsidian 插件：【Readme】Relative Line Numbers
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 在编辑模式中启用相对行号
 author: AI

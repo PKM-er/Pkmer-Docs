@@ -1,6 +1,6 @@
 ---
 uid: 2023080322251281
-title: Obsidian 插件：PubScale
+title: Obsidian 插件：【Readme】PubScale
 tags: ['obsidian插件', 'readme']
 description: 无缝同步Markdown笔记到PlanetScale表中。
 author: AI

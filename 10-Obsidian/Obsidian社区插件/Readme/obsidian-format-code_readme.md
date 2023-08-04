@@ -1,6 +1,6 @@
 ---
 uid: 2023080322184788
-title: Obsidian 插件：Format code blocks of various languages
+title: Obsidian 插件：【Readme】Format code blocks of various languages
 tags: ['obsidian插件', 'readme']
 description: 这个插件引入了格式化代码的命令（内部使用prettier）
 author: AI

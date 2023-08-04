@@ -1,6 +1,6 @@
 ---
 uid: 2023080322264235
-title: Obsidian 插件：Share to Cubox
+title: Obsidian 插件：【Readme】Share to Cubox
 tags: ['obsidian插件', 'readme']
 description: 分享Obsidian笔记到Cubox。
 author: AI

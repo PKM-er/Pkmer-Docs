@@ -1,6 +1,6 @@
 ---
 uid: 2023080322173094
-title: Obsidian 插件：Duplicate Line
+title: Obsidian 插件：【Readme】Duplicate Line
 tags: ['obsidian插件', 'readme']
 description: 复制一行
 author: AI

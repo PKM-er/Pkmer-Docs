@@ -1,6 +1,6 @@
 ---
 uid: 2023080322272694
-title: Obsidian 插件：Stopwatch Plugin
+title: Obsidian 插件：【Readme】Stopwatch Plugin
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 在Obsidian上显示秒表！
 author: AI

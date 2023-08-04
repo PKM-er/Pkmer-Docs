@@ -1,6 +1,6 @@
 ---
 uid: 2023080322200120
-title: Obsidian 插件：Hyphenation
+title: Obsidian 插件：【Readme】Hyphenation
 tags: ['obsidian插件', 'readme']
 description: 启用两端对齐文本和换行
 author: AI

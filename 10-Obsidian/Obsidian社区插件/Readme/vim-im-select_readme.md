@@ -1,6 +1,6 @@
 ---
 uid: 2023080322291736
-title: Obsidian 插件：Vim IM Select
+title: Obsidian 插件：【Readme】Vim IM Select
 tags: ['obsidian插件', 'readme']
 description: 支持在不同的 Vim 模式中自动选择合适的输入法。
 author: AI

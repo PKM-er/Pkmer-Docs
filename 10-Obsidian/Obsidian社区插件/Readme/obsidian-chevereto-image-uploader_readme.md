@@ -1,6 +1,6 @@
 ---
 uid: 2023080322155228
-title: Obsidian 插件：Chevereto Image Uploader
+title: Obsidian 插件：【Readme】Chevereto Image Uploader
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以将你剪贴板中的图片上传到Chevereto。
 author: AI

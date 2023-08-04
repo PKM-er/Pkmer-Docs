@@ -1,6 +1,6 @@
 ---
 uid: 2023080322153185
-title: Obsidian 插件：Canvas CSS class
+title: Obsidian 插件：【Readme】Canvas CSS class
 tags: ['白板相关', '样式工具', 'obsidian插件', 'readme']
 description: 给画布添加一个CSS类，还有其他属性。
 author: AI

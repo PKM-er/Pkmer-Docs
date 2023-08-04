@@ -1,6 +1,6 @@
 ---
 uid: 2023080322173364
-title: Obsidian 插件：Dynamic RTL
+title: Obsidian 插件：【Readme】Dynamic RTL
 tags: ['obsidian插件', 'readme']
 description: 每行/段根据语言动态调整RTL/LTR方向！
 author: AI

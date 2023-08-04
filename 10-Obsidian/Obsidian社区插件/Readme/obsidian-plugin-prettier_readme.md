@@ -1,6 +1,6 @@
 ---
 uid: 2023080322250034
-title: Obsidian 插件：Prettier Format
+title: Obsidian 插件：【Readme】Prettier Format
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 对您的笔记进行主观格式化。
 author: AI

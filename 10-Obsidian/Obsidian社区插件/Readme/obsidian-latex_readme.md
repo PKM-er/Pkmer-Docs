@@ -1,6 +1,6 @@
 ---
 uid: 2023080322180156
-title: Obsidian 插件：Extended MathJax
+title: Obsidian 插件：【Readme】Extended MathJax
 tags: ['数学', 'obsidian插件', 'readme']
 description: 启用额外的 MathJax 包并为 MathJax 添加全局序言
 author: AI

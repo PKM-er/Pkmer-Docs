@@ -1,6 +1,6 @@
 ---
 uid: 2023080322190131
-title: Obsidian 插件：Gallery
+title: Obsidian 插件：【Readme】Gallery
 tags: ['界面相关', '图片', 'obsidian插件', 'readme']
 description: 将笔记以画廊方式展示，并且可以添加标记 /过滤器 /向图像添加注释。此插件已经长期不维护
 author: AI

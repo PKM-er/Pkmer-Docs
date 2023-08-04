@@ -1,6 +1,6 @@
 ---
 uid: 2023080322231271
-title: Obsidian 插件：Obsidian asciimath
+title: Obsidian 插件：【Readme】Obsidian asciimath
 tags: ['obsidian插件', 'readme']
 description: 为Obsidian添加Asciimath支持。
 author: AI

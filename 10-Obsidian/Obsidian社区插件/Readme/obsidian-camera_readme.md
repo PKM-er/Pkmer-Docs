@@ -1,6 +1,6 @@
 ---
 uid: 2023080322231592
-title: Obsidian 插件：Obsidian Camera
+title: Obsidian 插件：【Readme】Obsidian Camera
 tags: ['编辑器', '第三方工具集成', '效率', 'obsidian插件', 'readme']
 description: 可以通过你对应设备谁想投，拍摄照片和视频记录，将其保存在仓库中，并创建并粘贴链接到记录。【注意此插件并非适配所有的笔记本和移动端手机】
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322285077
-title: Obsidian 插件：txt as md
+title: Obsidian 插件：【Readme】txt as md
 tags: ['编辑器', '编辑工具', 'obsidian插件', 'readme']
 description: 允许你在 Obsidian 中编辑 txt 文本文件，和编辑 Markdown 文件一样。
 author: AI

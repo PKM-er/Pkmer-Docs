@@ -1,6 +1,6 @@
 ---
 uid: 2023080322222676
-title: Obsidian 插件：Meta Bind Plugin
+title: Obsidian 插件：【Readme】Meta Bind Plugin
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以在您的笔记中创建输入字段，并将它们绑定到元数据字段。
 author: AI

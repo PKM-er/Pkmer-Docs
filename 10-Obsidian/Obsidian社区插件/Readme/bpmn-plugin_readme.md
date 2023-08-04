@@ -1,6 +1,6 @@
 ---
 uid: 2023080322151829
-title: Obsidian 插件：BPMN Plugin
+title: Obsidian 插件：【Readme】BPMN Plugin
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 这个插件使用bpmn-js可以查看BPMN图。
 author: AI

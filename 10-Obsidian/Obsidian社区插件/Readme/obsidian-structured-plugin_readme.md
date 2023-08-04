@@ -1,6 +1,6 @@
 ---
 uid: 2023080322272780
-title: Obsidian 插件：Structured Plugin
+title: Obsidian 插件：【Readme】Structured Plugin
 tags: ['obsidian插件', 'readme']
 description: 使用“.”结构化插件，在笔记中创建层次结构。
 author: AI

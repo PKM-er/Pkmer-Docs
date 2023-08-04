@@ -1,6 +1,6 @@
 ---
 uid: 2023080322135004
-title: Obsidian 插件：Advanced URI
+title: Obsidian 插件：【Readme】Advanced URI
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: Obsidian URI的高级模式
 author: AI

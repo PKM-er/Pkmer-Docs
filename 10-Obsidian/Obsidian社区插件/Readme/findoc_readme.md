@@ -1,6 +1,6 @@
 ---
 uid: 2023080322182318
-title: Obsidian 插件：Financial Doc
+title: Obsidian 插件：【Readme】Financial Doc
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中直接使用CSV格式和Chart.js进行财务文件和跟踪。
 author: AI

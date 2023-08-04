@@ -1,6 +1,6 @@
 ---
 uid: 2023080322202445
-title: Obsidian 插件：Imgur Plugin
+title: Obsidian 插件：【Readme】Imgur Plugin
 tags: ['第三方工具集成', '图片', '链接处理', 'obsidian插件', 'readme']
 description: 此插件将剪贴板中的图像上传到 imgur.com 并将上传的图像嵌入到您的笔记中
 author: AI

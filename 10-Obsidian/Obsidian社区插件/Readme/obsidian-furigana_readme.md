@@ -1,6 +1,6 @@
 ---
 uid: 2023080322185847
-title: Obsidian 插件：Furigana
+title: Obsidian 插件：【Readme】Furigana
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: tags辅助插件用于振り仮名和<ruby>标签
 author: AI

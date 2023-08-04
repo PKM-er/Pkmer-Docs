@@ -1,6 +1,6 @@
 ---
 uid: 2023080322135176
-title: Obsidian 插件：Agile Task Notes
+title: Obsidian 插件：【Readme】Agile Task Notes
 tags: ['obsidian插件', 'readme']
 description: 从你的TFS（Azure或Jira）导入你的任务，记录笔记，并制定待办事项清单！
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322192124
-title: Obsidian 插件：Google Photos
+title: Obsidian 插件：【Readme】Google Photos
 tags: ['obsidian插件', 'readme']
 description: Obsidian与Google照片的集成
 author: AI

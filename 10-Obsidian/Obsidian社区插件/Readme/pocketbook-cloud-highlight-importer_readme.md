@@ -1,6 +1,6 @@
 ---
 uid: 2023080322245615
-title: Obsidian 插件：Pocketbook Cloud Highlight Importer
+title: Obsidian 插件：【Readme】Pocketbook Cloud Highlight Importer
 tags: ['obsidian插件', 'readme']
 description: 将您的Pocketbook Cloud帐户中的笔记和高亮导入到您的保险库中。
 author: AI

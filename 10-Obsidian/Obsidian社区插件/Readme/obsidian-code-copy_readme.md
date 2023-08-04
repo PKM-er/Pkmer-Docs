@@ -1,6 +1,6 @@
 ---
 uid: 2023080322160439
-title: Obsidian 插件：Code Copy
+title: Obsidian 插件：【Readme】Code Copy
 tags: ['快捷键', '效率', 'obsidian插件', 'readme']
 description: 为代码块添加一个复制按钮。该功能官方已经提供。
 author: AI

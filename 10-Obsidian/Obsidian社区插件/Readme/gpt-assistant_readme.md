@@ -1,6 +1,6 @@
 ---
 uid: 2023080322192411
-title: Obsidian 插件：GPT Assistant
+title: Obsidian 插件：【Readme】GPT Assistant
 tags: ['obsidian插件', 'readme']
 description: 使用基于GPT-3的模型在您的笔记上，并从您的知识库中获得个性化答案。
 author: AI

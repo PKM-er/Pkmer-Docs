@@ -1,6 +1,6 @@
 ---
 uid: 2023080322294019
-title: Obsidian 插件：Wordle for Obsidian
+title: Obsidian 插件：【Readme】Wordle for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 创建一个可以玩 Wordle 的视图。
 author: AI

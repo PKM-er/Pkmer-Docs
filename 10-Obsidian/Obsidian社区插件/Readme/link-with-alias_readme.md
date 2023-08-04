@@ -1,6 +1,6 @@
 ---
 uid: 2023080322213257
-title: Obsidian 插件：Link with alias
+title: Obsidian 插件：【Readme】Link with alias
 tags: ['obsidian插件', 'readme']
 description: 在目标文档的前置元数据中创建链接和别名。
 author: AI

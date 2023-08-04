@@ -1,6 +1,6 @@
 ---
 uid: 2023080322211810
-title: Obsidian 插件：Latex Suite
+title: Obsidian 插件：【Readme】Latex Suite
 tags: ['obsidian插件', 'readme']
 description: 通过片段、文本扩展和编辑增强功能，使LaTeX数学排版速度接近手写速度。
 author: AI

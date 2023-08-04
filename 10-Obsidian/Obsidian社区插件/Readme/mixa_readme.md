@@ -1,6 +1,6 @@
 ---
 uid: 2023080322223819
-title: Obsidian 插件：Mixa
+title: Obsidian 插件：【Readme】Mixa
 tags: ['obsidian插件', 'readme']
 description: 直接从Obsidian发布您的笔记和博客文章到Mixa。
 author: AI

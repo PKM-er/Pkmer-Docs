@@ -1,6 +1,6 @@
 ---
 uid: 2023080322241337
-title: Obsidian 插件：OpenWeather
+title: Obsidian 插件：【Readme】OpenWeather
 tags: ['obsidian插件', 'readme']
 description: 该插件以可配置的字符串格式返回OpenWeather的当前天气。
 author: AI

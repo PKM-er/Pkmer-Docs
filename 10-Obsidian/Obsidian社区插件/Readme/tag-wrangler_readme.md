@@ -1,6 +1,6 @@
 ---
 uid: 2023080322274793
-title: Obsidian 插件：Tag Wrangler
+title: Obsidian 插件：【Readme】Tag Wrangler
 tags: ['文件重构', '编辑工具', '文件管理', '标签', 'obsidian插件', 'readme']
 description: 从标签面板重命名、合并、切换和搜索标签。
 author: AI

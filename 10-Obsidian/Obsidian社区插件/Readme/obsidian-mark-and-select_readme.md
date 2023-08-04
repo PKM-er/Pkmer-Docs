@@ -1,6 +1,6 @@
 ---
 uid: 2023080322215591
-title: Obsidian 插件：Mark and Select
+title: Obsidian 插件：【Readme】Mark and Select
 tags: ['obsidian插件', 'readme']
 description: 允许用户设置标记，自由移动光标并从标记位置到光标位置进行选择。
 author: AI

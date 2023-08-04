@@ -1,6 +1,6 @@
 ---
 uid: 2023080322184119
-title: Obsidian 插件：Folder Note
+title: Obsidian 插件：【Readme】Folder Note
 tags: ['笔记文件处理', '界面相关', '搜索/排序', '导航工具', '自动化', 'obsidian插件', 'readme']
 description: 为文件夹中生成卡片风格的文件夹概述。
 author: AI

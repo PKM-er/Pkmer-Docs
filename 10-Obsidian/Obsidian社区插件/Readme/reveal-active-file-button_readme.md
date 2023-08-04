@@ -1,6 +1,6 @@
 ---
 uid: 2023080322260572
-title: Obsidian 插件：Reveal Active File Button
+title: Obsidian 插件：【Readme】Reveal Active File Button
 tags: ['obsidian插件', 'readme']
 description: 在文件资源管理器的顶部添加一个按钮，以显示活动文件。
 author: AI

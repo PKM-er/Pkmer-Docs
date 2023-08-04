@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171246
-title: Obsidian 插件：DeepL
+title: Obsidian 插件：【Readme】DeepL
 tags: ['obsidian插件', 'readme']
 description: 允许使用DeepL将所选文本翻译成25种以上的语言。
 author: AI

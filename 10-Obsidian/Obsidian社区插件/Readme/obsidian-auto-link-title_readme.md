@@ -1,6 +1,6 @@
 ---
 uid: 2023080322143306
-title: Obsidian 插件：Auto Link Title
+title: Obsidian 插件：【Readme】Auto Link Title
 tags: ['链接处理', '效率', '自动化', 'obsidian插件', 'readme']
 description: 该插件在粘贴网页时，自动获取网页以提取链接标题，从而创建具有正确标题集的markdown链接。
 author: AI

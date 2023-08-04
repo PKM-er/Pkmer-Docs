@@ -1,6 +1,6 @@
 ---
 uid: 2023080322152128
-title: Obsidian 插件：Brainframe
+title: Obsidian 插件：【Readme】Brainframe
 tags: ['obsidian插件', 'readme']
 description: 使Obsidian更像我们的第二大脑的工具
 author: AI

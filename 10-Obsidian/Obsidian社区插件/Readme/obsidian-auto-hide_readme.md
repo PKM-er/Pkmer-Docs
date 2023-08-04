@@ -1,6 +1,6 @@
 ---
 uid: 2023080322143062
-title: Obsidian 插件：Auto Hide
+title: Obsidian 插件：【Readme】Auto Hide
 tags: ['obsidian插件', 'readme']
 description: 点击编辑器/查看器面板时折叠侧边栏
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322182742
-title: Obsidian 插件：Flashcards
+title: Obsidian 插件：【Readme】Flashcards
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: Anki集成。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322174518
-title: Obsidian 插件：Embedded Code Title
+title: Obsidian 插件：【Readme】Embedded Code Title
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这是一个 Obsidian 插件，可以将标题嵌入到代码块中。
 author: AI

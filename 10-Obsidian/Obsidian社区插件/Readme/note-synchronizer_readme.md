@@ -1,6 +1,6 @@
 ---
 uid: 2023080322230356
-title: Obsidian 插件：Note Synchronizer
+title: Obsidian 插件：【Readme】Note Synchronizer
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，用于将Obsidian笔记与Anki等基于笔记的软件同步，更严格地遵循Zettelkasten的原则，并将每个Obsidian文件视为一个笔记。
 author: AI

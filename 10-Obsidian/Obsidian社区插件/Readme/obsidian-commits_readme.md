@@ -1,6 +1,6 @@
 ---
 uid: 2023080322161874
-title: Obsidian 插件：Commits
+title: Obsidian 插件：【Readme】Commits
 tags: ['文件历史', '统计', 'obsidian插件', 'readme']
 description: 跟踪和回顾 Obisidian 仓库指定项目的变更情况。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322133752
-title: Obsidian 插件：Add an ID to the front matter
+title: Obsidian 插件：【Readme】Add an ID to the front matter
 tags: ['obsidian插件', 'readme']
 description: 为每个markdown文档的前置元数据添加一个全局唯一的ID。
 author: AI

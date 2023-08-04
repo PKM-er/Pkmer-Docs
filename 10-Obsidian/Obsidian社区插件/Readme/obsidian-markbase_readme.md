@@ -1,6 +1,6 @@
 ---
 uid: 2023080322215671
-title: Obsidian 插件：Markbase for Obsidian
+title: Obsidian 插件：【Readme】Markbase for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 官方Markbase插件，可以在您自己的数字花园中在线共享Obsidian笔记
 author: AI

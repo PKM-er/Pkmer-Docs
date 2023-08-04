@@ -1,6 +1,6 @@
 ---
 uid: 2023080322243195
-title: Obsidian 插件：Paste image rename
+title: Obsidian 插件：【Readme】Paste image rename
 tags: ['obsidian插件', 'readme']
 description: 粘贴后重命名图像，支持命名模式和自动重命名。
 author: AI

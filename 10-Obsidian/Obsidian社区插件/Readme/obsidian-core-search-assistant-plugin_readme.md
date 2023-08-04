@@ -1,6 +1,6 @@
 ---
 uid: 2023080322164007
-title: Obsidian 插件：Core Search Assistant
+title: Obsidian 插件：【Readme】Core Search Assistant
 tags: ['搜索/排序', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 增强内置搜索：键盘界面、卡片预览、更大的预览
 author: AI

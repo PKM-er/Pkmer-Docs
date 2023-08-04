@@ -1,6 +1,6 @@
 ---
 uid: 2023080322142491
-title: Obsidian 插件：Auto Anki
+title: Obsidian 插件：【Readme】Auto Anki
 tags: ['obsidian插件', 'readme']
 description: 使用人工智能来自动化Anki中的间隔重复卡片的创建。
 author: AI

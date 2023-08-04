@@ -1,6 +1,6 @@
 ---
 uid: 2023080322152480
-title: Obsidian 插件：Bulk Rename
+title: Obsidian 插件：【Readme】Bulk Rename
 tags: ['obsidian插件', 'readme']
 description: 现在，您可以根据模式重命名文件
 author: AI

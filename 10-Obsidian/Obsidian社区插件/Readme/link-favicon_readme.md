@@ -1,6 +1,6 @@
 ---
 uid: 2023080322212692
-title: Obsidian 插件：Link Favicons
+title: Obsidian 插件：【Readme】Link Favicons
 tags: ['obsidian插件', 'readme']
 description: 查看链接网站的网站图标。
 author: AI

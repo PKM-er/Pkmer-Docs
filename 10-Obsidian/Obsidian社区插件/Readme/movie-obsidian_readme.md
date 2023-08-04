@@ -1,6 +1,6 @@
 ---
 uid: 2023080322224196
-title: Obsidian 插件：Movie
+title: Obsidian 插件：【Readme】Movie
 tags: ['obsidian插件', 'readme']
 description: 搜索电影信息和预告片。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322263915
-title: Obsidian 插件：Set In Obsidian
+title: Obsidian 插件：【Readme】Set In Obsidian
 tags: ['obsidian插件', 'readme']
 description: 时间规划插件
 author: AI

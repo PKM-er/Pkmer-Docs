@@ -1,6 +1,6 @@
 ---
 uid: 2023080322180469
-title: Obsidian 插件：Extract PDF Annotations
+title: Obsidian 插件：【Readme】Extract PDF Annotations
 tags: ['obsidian插件', 'readme']
 description: 提取PDF注释（笔记和高亮）并按主题分类
 author: AI

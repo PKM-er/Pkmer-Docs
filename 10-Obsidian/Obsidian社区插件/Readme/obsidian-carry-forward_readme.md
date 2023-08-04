@@ -1,6 +1,6 @@
 ---
 uid: 2023080322153993
-title: Obsidian 插件：Carry-Forward
+title: Obsidian 插件：【Readme】Carry-Forward
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 从笔记中复制文本，链接回其复制的源，或复制一个链接到笔记块。
 author: AI

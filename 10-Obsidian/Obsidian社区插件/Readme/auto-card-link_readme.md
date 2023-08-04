@@ -1,6 +1,6 @@
 ---
 uid: 2023080322142587
-title: Obsidian 插件：Auto Card Link
+title: Obsidian 插件：【Readme】Auto Card Link
 tags: ['obsidian插件', 'readme']
 description: 自动从网址获取元数据，并将其作为卡片样式的链接。
 author: AI

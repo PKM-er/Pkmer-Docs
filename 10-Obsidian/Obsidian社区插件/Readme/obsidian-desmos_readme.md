@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171489
-title: Obsidian 插件：Desmos
+title: Obsidian 插件：【Readme】Desmos
 tags: ['obsidian插件', 'readme']
 description: 将Desmos图形嵌入您的笔记中
 author: AI

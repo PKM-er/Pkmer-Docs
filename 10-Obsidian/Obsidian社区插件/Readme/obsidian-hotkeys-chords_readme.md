@@ -1,6 +1,6 @@
 ---
 uid: 2023080322195097
-title: Obsidian 插件：Hotkeys Chords
+title: Obsidian 插件：【Readme】Hotkeys Chords
 tags: ['obsidian插件', 'readme']
 description: 可配置的热键组合以激活Obsidian命令
 author: AI

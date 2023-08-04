@@ -1,6 +1,6 @@
 ---
 uid: 2023080322283525
-title: Obsidian 插件：Toggle Meta Yaml
+title: Obsidian 插件：【Readme】Toggle Meta Yaml
 tags: ['obsidian插件', 'readme']
 description: 切换元YAML。
 author: AI

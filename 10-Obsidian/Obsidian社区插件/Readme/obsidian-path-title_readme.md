@@ -1,6 +1,6 @@
 ---
 uid: 2023080322243519
-title: Obsidian 插件：Path Title
+title: Obsidian 插件：【Readme】Path Title
 tags: ['obsidian插件', 'readme']
 description: 将路径（或可选替换）添加到每个窗格的文件名标题
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322233429
-title: Obsidian 插件：Obsidian Memos
+title: Obsidian 插件：【Readme】Obsidian Memos
 tags: ['界面相关', '笔记文件处理', '效率', 'obsidian插件', 'readme']
 description: 添加一个速捕捉你想法的新方式。如果你熟悉 flomo 的话，这个插件很方便。
 author: AI

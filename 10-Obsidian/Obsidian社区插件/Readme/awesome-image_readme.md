@@ -1,6 +1,6 @@
 ---
 uid: 2023080322144708
-title: Obsidian 插件：Awesome Image
+title: Obsidian 插件：【Readme】Awesome Image
 tags: ['obsidian插件', 'readme']
 description: 图像管理和查看的一站式解决方案。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322234679
-title: Obsidian 插件：Obsidian title index
+title: Obsidian 插件：【Readme】Obsidian title index
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 一个简单的插件，可以为你的markdown标题添加序列号。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322153092
-title: Obsidian 插件：Canvas Conversation
+title: Obsidian 插件：【Readme】Canvas Conversation
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: Obsidian的一个插件，允许您使用ChatGPT创建画布对话。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322234356
-title: Obsidian 插件：Obsidian Social (Sekund)
+title: Obsidian 插件：【Readme】Obsidian Social (Sekund)
 tags: ['obsidian插件', 'readme']
 description: 分享笔记并收集反馈
 author: AI

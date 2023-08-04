@@ -1,6 +1,6 @@
 ---
 uid: 2023080322225096
-title: Obsidian 插件：Netwik
+title: Obsidian 插件：【Readme】Netwik
 tags: ['obsidian插件', 'readme']
 description: .联合保险库。这个插件提供访问全球笔记网络的功能。任何人都可以创建、查看或编辑笔记。所有的更改都将在所有参与者之间同步。
 author: AI

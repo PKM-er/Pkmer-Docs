@@ -1,6 +1,6 @@
 ---
 uid: 2023080322251995
-title: Obsidian 插件：Quick Latex for Obsidian
+title: Obsidian 插件：【Readme】Quick Latex for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 一款简单的插件，用于简化和加速Latex数学输入。
 author: AI

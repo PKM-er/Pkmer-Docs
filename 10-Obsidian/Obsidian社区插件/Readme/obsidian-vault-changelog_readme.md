@@ -1,6 +1,6 @@
 ---
 uid: 2023080322290910
-title: Obsidian 插件：Vault Changelog
+title: Obsidian 插件：【Readme】Vault Changelog
 tags: ['文件历史', 'obsidian插件', 'readme']
 description: 在库中自动生成一个最近变更的文件
 author: AI

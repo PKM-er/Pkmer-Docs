@@ -1,6 +1,6 @@
 ---
 uid: 2023080322183743
-title: Obsidian 插件：Focus and Highlight
+title: Obsidian 插件：【Readme】Focus and Highlight
 tags: ['obsidian插件', 'readme']
 description: Obsidian的一个插件，可以突出显示并专注于当前选定的标题
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322264424
-title: Obsidian 插件：Short Internal Links to Headings
+title: Obsidian 插件：【Readme】Short Internal Links to Headings
 tags: ['obsidian插件', 'readme']
 description: 将内部链接到标题仅显示为标题名称。
 author: AI

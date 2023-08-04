@@ -1,6 +1,6 @@
 ---
 uid: 2023080322252988
-title: Obsidian 插件：Quoth
+title: Obsidian 插件：【Readme】Quoth
 tags: ['obsidian插件', 'readme']
 description: 更灵活的嵌入。嵌入精确的选择，内联嵌入，可选择性地包括作者和标题。
 author: AI

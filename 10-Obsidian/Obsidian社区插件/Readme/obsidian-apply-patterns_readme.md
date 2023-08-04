@@ -1,6 +1,6 @@
 ---
 uid: 2023080322141080
-title: Obsidian 插件：Apply Patterns
+title: Obsidian 插件：【Readme】Apply Patterns
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 对文本进行按顺序应用自定义查找和替换模式。
 author: AI

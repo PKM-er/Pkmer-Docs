@@ -1,6 +1,6 @@
 ---
 uid: 2023080322211894
-title: Obsidian 插件：LaTeX to Unicode converter
+title: Obsidian 插件：【Readme】LaTeX to Unicode converter
 tags: ['obsidian插件', 'readme']
 description: 将LaTeX命令转换为Unicode序列
 author: AI

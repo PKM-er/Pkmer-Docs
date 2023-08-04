@@ -1,6 +1,6 @@
 ---
 uid: 2023080322134040
-title: Obsidian 插件：Adjacency Matrix Maker
+title: Obsidian 插件：【Readme】Adjacency Matrix Maker
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 创建你的金库的互动邻接矩阵
 author: AI

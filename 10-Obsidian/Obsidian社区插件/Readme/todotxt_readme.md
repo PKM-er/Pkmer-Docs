@@ -1,6 +1,6 @@
 ---
 uid: 2023080322283238
-title: Obsidian 插件：TodoTxt
+title: Obsidian 插件：【Readme】TodoTxt
 tags: ['obsidian插件', 'readme']
 description: 管理Todo.txt文件。
 author: AI

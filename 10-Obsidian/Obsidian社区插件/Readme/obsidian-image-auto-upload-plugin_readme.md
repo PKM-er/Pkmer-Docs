@@ -1,6 +1,6 @@
 ---
 uid: 2023080322201052
-title: Obsidian 插件：Image auto upload Plugin
+title: Obsidian 插件：【Readme】Image auto upload Plugin
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 这个插件可以使用PicGo从剪贴板上传图片。
 author: AI

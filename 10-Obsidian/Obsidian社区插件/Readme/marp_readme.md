@@ -1,6 +1,6 @@
 ---
 uid: 2023080322220732
-title: Obsidian 插件：Marp
+title: Obsidian 插件：【Readme】Marp
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian上使用Marp的插件。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322281709
-title: Obsidian 插件：Thumbnails
+title: Obsidian 插件：【Readme】Thumbnails
 tags: ['obsidian插件', 'readme']
 description: 将 YouTube 缩略图插入您的笔记中。
 author: AI

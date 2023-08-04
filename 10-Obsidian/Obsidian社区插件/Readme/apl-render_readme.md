@@ -1,6 +1,6 @@
 ---
 uid: 2023080322140795
-title: Obsidian 插件：APL Render
+title: Obsidian 插件：【Readme】APL Render
 tags: ['obsidian插件', 'readme']
 description: 渲染APL语法
 author: AI

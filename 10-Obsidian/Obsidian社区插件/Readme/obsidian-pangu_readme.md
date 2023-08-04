@@ -1,6 +1,6 @@
 ---
 uid: 2023080322132963
-title: Obsidian 插件：盘古 PanGu
+title: Obsidian 插件：【Readme】盘古 PanGu
 tags: ['编辑工具', '中文处理', '自动化', 'obsidian插件', 'readme']
 description: 格式化你的文本内容，通过快捷键自动添加，汉字和英文字母之间的空格，保持严谨的书写格式。
 author: AI

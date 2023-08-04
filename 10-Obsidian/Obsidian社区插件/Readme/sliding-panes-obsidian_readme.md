@@ -1,6 +1,6 @@
 ---
 uid: 2023080322270351
-title: Obsidian 插件：Sliding Panes (Andy Matuschak Mode)
+title: Obsidian 插件：【Readme】Sliding Panes (Andy Matuschak Mode)
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 支持笔记面板的堆叠模式。该模式官方已经支持。
 author: AI

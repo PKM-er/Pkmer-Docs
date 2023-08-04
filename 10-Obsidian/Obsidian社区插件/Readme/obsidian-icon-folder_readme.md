@@ -1,6 +1,6 @@
 ---
 uid: 2023080322200421
-title: Obsidian 插件：Icon Folder
+title: Obsidian 插件：【Readme】Icon Folder
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 此插件允许您向文件夹添加图标。
 author: AI

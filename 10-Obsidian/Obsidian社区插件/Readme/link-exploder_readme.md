@@ -1,6 +1,6 @@
 ---
 uid: 2023080322212614
-title: Obsidian 插件：Link Exploder
+title: Obsidian 插件：【Readme】Link Exploder
 tags: ['白板相关', '链接处理', 'obsidian插件', 'readme']
 description: 在画布中，为嵌入的笔记生成关联的链接关系。
 author: AI

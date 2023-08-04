@@ -1,6 +1,6 @@
 ---
 uid: 2023080322155317
-title: Obsidian 插件：Chord Lyrics
+title: Obsidian 插件：【Readme】Chord Lyrics
 tags: ['obsidian插件', 'readme']
 description: 在歌词上显示和弦名称。支持自动换行、节标题和自动检测。
 author: AI

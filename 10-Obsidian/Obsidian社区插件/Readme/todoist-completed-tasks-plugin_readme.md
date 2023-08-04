@@ -1,6 +1,6 @@
 ---
 uid: 2023080322282779
-title: Obsidian 插件：Todoist completed tasks
+title: Obsidian 插件：【Readme】Todoist completed tasks
 tags: ['obsidian插件', 'readme']
 description: 将已完成的Todoist任务添加到Obsidian笔记中
 author: AI

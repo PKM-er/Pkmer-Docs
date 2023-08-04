@@ -1,6 +1,6 @@
 ---
 uid: 2023080322181451
-title: Obsidian 插件：File Forgetting Curve
+title: Obsidian 插件：【Readme】File Forgetting Curve
 tags: ['obsidian插件', 'readme']
 description: 文件遗忘曲线
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322150098
-title: Obsidian 插件：Better File Link
+title: Obsidian 插件：【Readme】Better File Link
 tags: ['编辑工具', '图片', '界面相关', 'obsidian插件', 'readme']
 description: 图形化菜单，让你可以用熟悉的方式，从操作系统的路径插入需要的图片和文件到 OB中。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322140237
-title: Obsidian 插件：Annotator
+title: Obsidian 插件：【Readme】Annotator
 tags: ['PDF', '第三方工具集成', 'obsidian插件', 'readme']
 description: Obsidian中阅读和注释PDF和EPUB的插件。
 author: AI

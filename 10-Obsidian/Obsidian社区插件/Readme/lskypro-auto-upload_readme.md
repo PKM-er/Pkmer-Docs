@@ -1,6 +1,6 @@
 ---
 uid: 2023080322201840
-title: Obsidian 插件：Image To Lskypro
+title: Obsidian 插件：【Readme】Image To Lskypro
 tags: ['obsidian插件', 'readme']
 description: 自动将剪贴板中的图像上传到Lskypro。
 author: AI

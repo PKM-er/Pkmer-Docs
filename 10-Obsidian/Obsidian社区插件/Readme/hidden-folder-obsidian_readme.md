@@ -1,6 +1,6 @@
 ---
 uid: 2023080322194044
-title: Obsidian 插件：Hidden Folder
+title: Obsidian 插件：【Readme】Hidden Folder
 tags: ['obsidian插件', 'readme']
 description: 隐藏文件夹
 author: AI

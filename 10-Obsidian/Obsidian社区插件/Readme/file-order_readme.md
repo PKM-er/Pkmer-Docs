@@ -1,6 +1,6 @@
 ---
 uid: 2023080322181750
-title: Obsidian 插件：File Order
+title: Obsidian 插件：【Readme】File Order
 tags: ['obsidian插件', 'readme']
 description: 在文件名中使用数字前缀来定义自定义顺序，并拖放文件以更新该顺序。
 author: AI

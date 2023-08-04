@@ -1,6 +1,6 @@
 ---
 uid: 2023080322141713
-title: Obsidian 插件：AsciiDoc Blocks Plugin
+title: Obsidian 插件：【Readme】AsciiDoc Blocks Plugin
 tags: ['obsidian插件', 'readme']
 description: Obsidian中渲染asciidoc块的插件，最初是asciidoc表格。
 author: AI

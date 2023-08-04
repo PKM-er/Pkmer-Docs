@@ -1,6 +1,6 @@
 ---
 uid: 2023080322205075
-title: Obsidian 插件：Journey
+title: Obsidian 插件：【Readme】Journey
 tags: ['文件历史', '笔记文件处理', 'obsidian插件', 'readme']
 description: 发现你的笔记之间的故事
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322132544
-title: Obsidian 插件：🪝 Grappling Hook
+title: Obsidian 插件：【Readme】🪝 Grappling Hook
 tags: ['obsidian插件', 'readme']
 description: 针对使用快速切换器仍然花费太多时间的人，提供了一款非常快速的文件切换插件——Obsidian。
 author: AI

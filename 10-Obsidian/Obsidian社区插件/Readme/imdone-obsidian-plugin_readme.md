@@ -1,6 +1,6 @@
 ---
 uid: 2023080322240402
-title: Obsidian 插件：Open cards in imdone from obsidian.
+title: Obsidian 插件：【Readme】Open cards in imdone from obsidian.
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 从Obsidian中打开imdone看板中的卡片，从imdone中在Obsidian中打开卡片的源头。
 author: AI

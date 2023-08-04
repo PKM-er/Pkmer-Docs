@@ -1,6 +1,6 @@
 ---
 uid: 2023080322293224
-title: Obsidian 插件：Wielder
+title: Obsidian 插件：【Readme】Wielder
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中支持 Clojure/ClojureScript 
 author: AI

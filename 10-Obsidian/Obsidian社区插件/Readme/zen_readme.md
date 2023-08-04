@@ -1,6 +1,6 @@
 ---
 uid: 2023080322295483
-title: Obsidian 插件：Zen
+title: Obsidian 插件：【Readme】Zen
 tags: ['obsidian插件', 'readme']
 description: 让你的 Obsidian 进入到禅模式
 author: AI

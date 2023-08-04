@@ -1,6 +1,6 @@
 ---
 uid: 2023080322231755
-title: Obsidian 插件：Obsidian Chess
+title: Obsidian 插件：【Readme】Obsidian Chess
 tags: ['游戏', 'obsidian插件', 'readme']
 description: 让你可以记录国际象棋的棋局
 author: AI

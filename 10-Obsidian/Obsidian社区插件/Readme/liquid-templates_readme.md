@@ -1,6 +1,6 @@
 ---
 uid: 2023080322213773
-title: Obsidian 插件：Liquid Templates
+title: Obsidian 插件：【Readme】Liquid Templates
 tags: ['模板', 'obsidian插件', 'readme']
 description: 使用支持 LiquidJS 标签的模板
 author: AI

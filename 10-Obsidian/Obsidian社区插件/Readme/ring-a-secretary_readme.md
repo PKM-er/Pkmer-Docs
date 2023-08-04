@@ -1,6 +1,6 @@
 ---
 uid: 2023080322261035
-title: Obsidian 插件：Ring a secretary
+title: Obsidian 插件：【Readme】Ring a secretary
 tags: ['obsidian插件', 'readme']
 description: 又一个由ChatGPT驱动的数字秘书
 author: AI

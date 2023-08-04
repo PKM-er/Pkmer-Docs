@@ -1,6 +1,6 @@
 ---
 uid: 2023080322140608
-title: Obsidian 插件：Aosr
+title: Obsidian 插件：【Readme】Aosr
 tags: ['obsidian插件', 'readme']
 description: 另一种黑曜石间隔重复法。它使用闪卡来帮助复习和记忆知识。
 author: AI

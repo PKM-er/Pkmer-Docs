@@ -1,6 +1,6 @@
 ---
 uid: 2023080322261233
-title: Obsidian 插件：Rollover Daily Todos
+title: Obsidian 插件：【Readme】Rollover Daily Todos
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 以循环滚动的方式，将存在不完整的待办事项的笔记，展现在你面前。
 author: AI

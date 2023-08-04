@@ -1,6 +1,6 @@
 ---
 uid: 2023080322295773
-title: Obsidian 插件：Zotero Bridge
+title: Obsidian 插件：【Readme】Zotero Bridge
 tags: ['obsidian插件', 'readme']
 description: 通过 ZotServer 连接到 Zotero
 author: AI

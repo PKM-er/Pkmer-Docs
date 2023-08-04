@@ -1,6 +1,6 @@
 ---
 uid: 2023080322201164
-title: Obsidian 插件：Image Caption
+title: Obsidian 插件：【Readme】Image Caption
 tags: ['obsidian插件', 'readme']
 description: 为图片添加标题。
 author: AI

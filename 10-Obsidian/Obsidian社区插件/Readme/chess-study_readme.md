@@ -1,6 +1,6 @@
 ---
 uid: 2023080322154977
-title: Obsidian 插件：Chess Study
+title: Obsidian 插件：【Readme】Chess Study
 tags: ['obsidian插件', 'readme']
 description: 一个国际象棋学习助手和PGN查看器/编辑器。
 author: AI

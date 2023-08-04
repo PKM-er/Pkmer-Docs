@@ -1,6 +1,6 @@
 ---
 uid: 2023080322183841
-title: Obsidian 插件：Focus Mode
+title: Obsidian 插件：【Readme】Focus Mode
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 中添加专注模式，快速关闭各种panel，让你专注在当前笔记上。
 author: AI

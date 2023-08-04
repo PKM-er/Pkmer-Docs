@@ -1,6 +1,6 @@
 ---
 uid: 2023080322204292
-title: Obsidian 插件：IVRE
+title: Obsidian 插件：【Readme】IVRE
 tags: ['obsidian插件', 'readme']
 description: IVRE集成到Obsidian：从IVRE抓取数据并将其带入Obsidian笔记中。
 author: AI

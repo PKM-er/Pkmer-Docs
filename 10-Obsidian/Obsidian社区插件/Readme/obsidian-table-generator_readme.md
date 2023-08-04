@@ -1,6 +1,6 @@
 ---
 uid: 2023080322274189
-title: Obsidian 插件：Table Generator
+title: Obsidian 插件：【Readme】Table Generator
 tags: ['表格', 'obsidian插件', 'readme']
 description: 一个快速生成Markdown表格的插件，类似Typora。
 author: AI

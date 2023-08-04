@@ -1,6 +1,6 @@
 ---
 uid: 2023080322181597
-title: Obsidian 插件：File Include
+title: Obsidian 插件：【Readme】File Include
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian的markdown中包含或嵌入文件。
 author: AI

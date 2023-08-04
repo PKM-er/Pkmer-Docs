@@ -1,6 +1,6 @@
 ---
 uid: 2023080322243275
-title: Obsidian 插件：Paste Mode
+title: Obsidian 插件：【Readme】Paste Mode
 tags: ['obsidian插件', 'readme']
 description: 粘贴内容，并在任何缩进级别标记块引用。
 author: AI

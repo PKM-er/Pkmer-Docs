@@ -1,6 +1,6 @@
 ---
 uid: 2023080322234761
-title: Obsidian 插件：Obsidian to Flomo
+title: Obsidian 插件：【Readme】Obsidian to Flomo
 tags: ['obsidian插件', 'readme']
 description: 快速分享内容到Flomo。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322225669
-title: Obsidian 插件：Nomnoml Diagram
+title: Obsidian 插件：【Readme】Nomnoml Diagram
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在Obsidian笔记中绘制nomnoml图表
 author: AI

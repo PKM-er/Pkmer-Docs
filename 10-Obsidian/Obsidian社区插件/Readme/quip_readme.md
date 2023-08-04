@@ -1,6 +1,6 @@
 ---
 uid: 2023080322252726
-title: Obsidian 插件：Quip
+title: Obsidian 插件：【Readme】Quip
 tags: ['obsidian插件', 'readme']
 description: 发布Obsidian笔记到Quip.com的命令
 author: AI

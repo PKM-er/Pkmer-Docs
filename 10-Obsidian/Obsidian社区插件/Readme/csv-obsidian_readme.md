@@ -1,6 +1,6 @@
 ---
 uid: 2023080322164774
-title: Obsidian 插件：CSV Editor
+title: Obsidian 插件：【Readme】CSV Editor
 tags: ['编辑器', 'obsidian插件', 'readme']
 description: 在Obsidian中编辑CSV文件
 author: AI

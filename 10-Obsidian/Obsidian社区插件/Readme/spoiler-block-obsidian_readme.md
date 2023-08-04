@@ -1,6 +1,6 @@
 ---
 uid: 2023080322271885
-title: Obsidian 插件：Spoiler Block
+title: Obsidian 插件：【Readme】Spoiler Block
 tags: ['obsidian插件', 'readme']
 description: 一个简单的黑曜石插件，可以隐藏信息，直到你想揭示它
 author: AI

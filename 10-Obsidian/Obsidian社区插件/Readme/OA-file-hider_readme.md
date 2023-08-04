@@ -1,6 +1,6 @@
 ---
 uid: 2023080322181525
-title: Obsidian 插件：File Hider
+title: Obsidian 插件：【Readme】File Hider
 tags: ['obsidian插件', 'readme']
 description: 允许您从Obsidian文件浏览器中隐藏文件和文件夹，如果您不再想看到它们。
 author: AI

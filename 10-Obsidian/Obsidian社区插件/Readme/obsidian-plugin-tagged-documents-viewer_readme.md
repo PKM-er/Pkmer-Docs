@@ -1,6 +1,6 @@
 ---
 uid: 2023080322275042
-title: Obsidian 插件：Tagged Documents Viewer
+title: Obsidian 插件：【Readme】Tagged Documents Viewer
 tags: ['obsidian插件', 'readme']
 description: 打开一个模态窗口，其中包含所有包含特定标签或标签的文档的可滚动内容。
 author: AI

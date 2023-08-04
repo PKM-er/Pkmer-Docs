@@ -1,6 +1,6 @@
 ---
 uid: 2023080322280210
-title: Obsidian 插件：Text Dataset Aid Plugin
+title: Obsidian 插件：【Readme】Text Dataset Aid Plugin
 tags: ['obsidian插件', 'readme']
 description: 这个Obsidian插件有助于为语言模型创建微调数据集。
 author: AI

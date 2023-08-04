@@ -1,6 +1,6 @@
 ---
 uid: 2023080322284288
-title: Obsidian 插件：Transcription
+title: Obsidian 插件：【Readme】Transcription
 tags: ['obsidian插件', 'readme']
 description: 通过 Whisper 从链接的 Markdown 音频文件创建高质量转录的插件
 author: AI

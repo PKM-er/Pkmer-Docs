@@ -1,6 +1,6 @@
 ---
 uid: 2023080322144426
-title: Obsidian 插件：Avatar
+title: Obsidian 插件：【Readme】Avatar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示一个头像图片。
 author: AI

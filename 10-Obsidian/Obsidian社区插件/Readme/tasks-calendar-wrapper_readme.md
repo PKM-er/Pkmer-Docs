@@ -1,6 +1,6 @@
 ---
 uid: 2023080322275581
-title: Obsidian 插件：Tasks Calendar Wrapper
+title: Obsidian 插件：【Readme】Tasks Calendar Wrapper
 tags: ['obsidian插件', 'readme']
 description: 这是Obsidian-Tasks-Calendar（https://github.com/702573N/Obsidian-Tasks-Calendar）和Obsidian-Tasks-Timeline（https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。
 author: AI

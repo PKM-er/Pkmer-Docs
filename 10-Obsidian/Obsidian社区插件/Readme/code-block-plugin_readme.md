@@ -1,6 +1,6 @@
 ---
 uid: 2023080322160018
-title: Obsidian 插件：Code Block
+title: Obsidian 插件：【Readme】Code Block
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以将文本转换成带有自动语言检测功能的代码块。
 author: AI

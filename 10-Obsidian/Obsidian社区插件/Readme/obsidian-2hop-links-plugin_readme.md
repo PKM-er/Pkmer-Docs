@@ -1,6 +1,6 @@
 ---
 uid: 2023080322132788
-title: Obsidian 插件：2Hop Links Plugin
+title: Obsidian 插件：【Readme】2Hop Links Plugin
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这个插件将显示前面2跳链接的页面。
 author: AI

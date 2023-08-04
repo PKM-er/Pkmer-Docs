@@ -1,6 +1,6 @@
 ---
 uid: 2023080322295096
-title: Obsidian 插件：Yaml Manager
+title: Obsidian 插件：【Readme】Yaml Manager
 tags: ['obsidian插件', 'readme']
 description: 直接管理编辑 Yaml 的内容
 author: AI

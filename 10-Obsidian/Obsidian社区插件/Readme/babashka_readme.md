@@ -1,6 +1,6 @@
 ---
 uid: 2023080322145144
-title: Obsidian 插件：Babashka
+title: Obsidian 插件：【Readme】Babashka
 tags: ['obsidian插件', 'readme']
 description: 在Babashka中评估Clojure(Script)代码块。
 author: AI

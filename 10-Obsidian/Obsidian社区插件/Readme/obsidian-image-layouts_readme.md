@@ -1,6 +1,6 @@
 ---
 uid: 2023080322201611
-title: Obsidian 插件：Image Layouts
+title: Obsidian 插件：【Readme】Image Layouts
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加美丽的图像布局
 author: AI

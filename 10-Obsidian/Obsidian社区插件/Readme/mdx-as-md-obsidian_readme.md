@@ -1,6 +1,6 @@
 ---
 uid: 2023080322221592
-title: Obsidian 插件：mdx as md
+title: Obsidian 插件：【Readme】mdx as md
 tags: ['编辑器', 'obsidian插件', 'readme']
 description: 在Obsidian中编辑mdx文件作为markdown
 author: AI

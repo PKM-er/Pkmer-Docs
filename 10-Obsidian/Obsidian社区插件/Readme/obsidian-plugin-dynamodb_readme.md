@@ -1,6 +1,6 @@
 ---
 uid: 2023080322144906
-title: Obsidian 插件：AWS DynamoDB For Obsidian
+title: Obsidian 插件：【Readme】AWS DynamoDB For Obsidian
 tags: ['obsidian插件', 'readme']
 description: 查询AWS DynamoDB并在文档内渲染表格
 author: AI

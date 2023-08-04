@@ -1,6 +1,6 @@
 ---
 uid: 2023080322165382
-title: Obsidian 插件：Custom State for Task List
+title: Obsidian 插件：【Readme】Custom State for Task List
 tags: ['obsidian插件', 'readme']
 description: 向任务列表项添加自定义状态。
 author: AI

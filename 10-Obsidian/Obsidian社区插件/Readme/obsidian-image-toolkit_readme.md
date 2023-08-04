@@ -1,6 +1,6 @@
 ---
 uid: 2023080322201953
-title: Obsidian 插件：Image Toolkit
+title: Obsidian 插件：【Readme】Image Toolkit
 tags: ['界面相关', '图片', '编辑工具', 'obsidian插件', 'readme']
 description: 为 Obsidian 中的图片添加增强功能，点击图片显示在一个弹出层中，您可以查看、拖动、缩放、旋转图像。
 author: AI

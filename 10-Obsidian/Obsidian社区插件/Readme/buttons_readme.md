@@ -1,6 +1,6 @@
 ---
 uid: 2023080322152663
-title: Obsidian 插件：Buttons
+title: Obsidian 插件：【Readme】Buttons
 tags: ['自动化', '效率', 'obsidian插件', 'readme']
 description: 在 Obsidian 笔记中创建按钮，以运行命令。命令按钮的样式可以有你或者你的主题自定义。命令的内容可以是 OB 默认的，也可以是插件提供的。甚至你可以自己通过它拉执行 JS命令。
 author: AI

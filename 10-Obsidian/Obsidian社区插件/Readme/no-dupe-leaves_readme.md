@@ -1,6 +1,6 @@
 ---
 uid: 2023080322225421
-title: Obsidian 插件：No Dupe Leaves
+title: Obsidian 插件：【Readme】No Dupe Leaves
 tags: ['obsidian插件', 'readme']
 description: 不要重新打开已经打开的笔记
 author: AI

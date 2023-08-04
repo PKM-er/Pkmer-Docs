@@ -1,6 +1,6 @@
 ---
 uid: 2023080322244633
-title: Obsidian 插件：Pipe tricks
+title: Obsidian 插件：【Readme】Pipe tricks
 tags: ['obsidian插件', 'readme']
 description: 支持Wikilink管道技巧。
 author: AI

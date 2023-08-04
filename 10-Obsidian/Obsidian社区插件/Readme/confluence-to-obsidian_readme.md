@@ -1,6 +1,6 @@
 ---
 uid: 2023080322162506
-title: Obsidian 插件：Confluence to Obsidian
+title: Obsidian 插件：【Readme】Confluence to Obsidian
 tags: ['obsidian插件', 'readme']
 description: 将Confluence空间导入Obsidian vault。
 author: AI

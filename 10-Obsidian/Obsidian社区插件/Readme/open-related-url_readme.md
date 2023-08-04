@@ -1,6 +1,6 @@
 ---
 uid: 2023080322241077
-title: Obsidian 插件：Open Related Url
+title: Obsidian 插件：【Readme】Open Related Url
 tags: ['obsidian插件', 'readme']
 description: 在笔记的YAML前言中打开URL。
 author: AI

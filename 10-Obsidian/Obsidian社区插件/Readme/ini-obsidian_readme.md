@@ -1,6 +1,6 @@
 ---
 uid: 2023080322203600
-title: Obsidian 插件：ini Editor
+title: Obsidian 插件：【Readme】ini Editor
 tags: ['编辑器', 'obsidian插件', 'readme']
 description: 在Obsidian中编辑ini文件。需要至少 0.10版本以上
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322215838
-title: Obsidian 插件：Markdown Attributes
+title: Obsidian 插件：【Readme】Markdown Attributes
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 在Obsidian.md中为元素添加markdown属性
 author: AI

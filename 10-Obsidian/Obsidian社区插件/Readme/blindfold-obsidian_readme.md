@@ -1,6 +1,6 @@
 ---
 uid: 2023080322151210
-title: Obsidian 插件：BlindFold
+title: Obsidian 插件：【Readme】BlindFold
 tags: ['obsidian插件', 'readme']
 description: 通过完全隐藏文本来折叠它。
 author: AI

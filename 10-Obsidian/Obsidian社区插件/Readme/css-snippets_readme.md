@@ -1,6 +1,6 @@
 ---
 uid: 2023080322164704
-title: Obsidian 插件：css snippets
+title: Obsidian 插件：【Readme】css snippets
 tags: ['样式工具', '美化', 'obsidian插件', 'readme']
 description: 用于加载自定义css片段
 author: AI

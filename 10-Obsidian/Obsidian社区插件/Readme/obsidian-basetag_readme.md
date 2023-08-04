@@ -1,6 +1,6 @@
 ---
 uid: 2023080322145516
-title: Obsidian 插件：Base Tag Renderer
+title: Obsidian 插件：【Readme】Base Tag Renderer
 tags: ['obsidian插件', 'readme']
 description: 这个插件在预览模式下渲染标签的基本名称。
 author: AI

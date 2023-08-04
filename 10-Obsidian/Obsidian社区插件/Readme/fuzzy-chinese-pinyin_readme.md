@@ -1,6 +1,6 @@
 ---
 uid: 2023080322185937
-title: Obsidian 插件：Fuzzy Chinese Pinyin
+title: Obsidian 插件：【Readme】Fuzzy Chinese Pinyin
 tags: ['obsidian插件', 'readme']
 description: 提供使用中文拼音进行模糊搜索的功能。
 author: AI

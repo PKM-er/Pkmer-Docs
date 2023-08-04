@@ -1,6 +1,6 @@
 ---
 uid: 2023080322280308
-title: Obsidian 插件：Text expand
+title: Obsidian 插件：【Readme】Text expand
 tags: ['obsidian插件', 'readme']
 description: 搜索并粘贴/引用找到的文件链接
 author: AI

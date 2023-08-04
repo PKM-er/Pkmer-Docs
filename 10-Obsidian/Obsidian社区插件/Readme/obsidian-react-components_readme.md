@@ -1,6 +1,6 @@
 ---
 uid: 2023080322253616
-title: Obsidian 插件：React Components
+title: Obsidian 插件：【Readme】React Components
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 在你的笔记中使用并编写React（Jsx）组件。
 author: AI

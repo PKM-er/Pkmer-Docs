@@ -1,6 +1,6 @@
 ---
 uid: 2023080322270444
-title: Obsidian 插件：Smart Connections
+title: Obsidian 插件：【Readme】Smart Connections
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI的人工智能找到类似笔记的链接。
 author: AI

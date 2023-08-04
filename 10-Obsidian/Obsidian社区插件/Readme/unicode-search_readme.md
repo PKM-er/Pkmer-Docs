@@ -1,6 +1,6 @@
 ---
 uid: 2023080322285836
-title: Obsidian 插件：Unicode Search
+title: Obsidian 插件：【Readme】Unicode Search
 tags: ['obsidian插件', 'readme']
 description: 搜索并插入Unicode字符到您的编辑器中
 author: AI

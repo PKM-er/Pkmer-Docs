@@ -1,6 +1,6 @@
 ---
 uid: 2023080322261371
-title: Obsidian 插件：RPG Manager
+title: Obsidian 插件：【Readme】RPG Manager
 tags: ['obsidian插件', 'readme']
 description: 桌面角色扮演游戏活动管理器。
 author: AI

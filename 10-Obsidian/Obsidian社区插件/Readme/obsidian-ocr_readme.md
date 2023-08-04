@@ -1,6 +1,6 @@
 ---
 uid: 2023080322233604
-title: Obsidian 插件：Obsidian OCR
+title: Obsidian 插件：【Readme】Obsidian OCR
 tags: ['obsidian插件', 'readme']
 description: 使用光学字符识别技术在您的图像和PDF文件中搜索文本
 author: AI

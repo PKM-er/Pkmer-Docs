@@ -1,6 +1,6 @@
 ---
 uid: 2023080322282069
-title: Obsidian 插件：TimeDiff plugin
+title: Obsidian 插件：【Readme】TimeDiff plugin
 tags: ['obsidian插件', 'readme']
 description: 在“timediff” markdown块中计算并显示两个日期之间的小时和分钟差异
 author: AI

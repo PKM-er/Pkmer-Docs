@@ -1,6 +1,6 @@
 ---
 uid: 2023080322265979
-title: Obsidian 插件：Simple RSS
+title: Obsidian 插件：【Readme】Simple RSS
 tags: ['obsidian插件', 'readme']
 description: 将RSS文章收集到笔记中。
 author: AI

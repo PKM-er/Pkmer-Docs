@@ -1,6 +1,6 @@
 ---
 uid: 2023080322204079
-title: Obsidian 插件：Interlinear Glossing
+title: Obsidian 插件：【Readme】Interlinear Glossing
 tags: ['obsidian插件', 'readme']
 description: 在语言学文本中使用的格式化线性注释。
 author: AI

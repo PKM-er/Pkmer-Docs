@@ -1,6 +1,6 @@
 ---
 uid: 2023080322271620
-title: Obsidian 插件：Sortable
+title: Obsidian 插件：【Readme】Sortable
 tags: ['表格', '搜索/排序', 'obsidian插件', 'readme']
 description: 为 Obsidian 的表格增加排序功能
 author: AI

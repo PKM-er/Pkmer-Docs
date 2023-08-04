@@ -1,6 +1,6 @@
 ---
 uid: 2023080322223097
-title: Obsidian 插件：Metatable
+title: Obsidian 插件：【Readme】Metatable
 tags: ['界面相关', '美化', 'obsidian插件', 'readme']
 description: 将  front-matter 显示为可折叠表格样式
 author: AI

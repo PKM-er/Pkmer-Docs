@@ -1,6 +1,6 @@
 ---
 uid: 2023080322284982
-title: Obsidian 插件：Tweet to Markdown
+title: Obsidian 插件：【Readme】Tweet to Markdown
 tags: ['obsidian插件', 'readme']
 description: 将推文保存为 Markdown 文件，以及它们的图像、投票等等。
 author: AI

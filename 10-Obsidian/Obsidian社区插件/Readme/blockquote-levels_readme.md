@@ -1,6 +1,6 @@
 ---
 uid: 2023080322151298
-title: Obsidian 插件：Blockquote Levels
+title: Obsidian 插件：【Readme】Blockquote Levels
 tags: ['obsidian插件', 'readme']
 description: 添加命令用于增加/减少当前行或选择的引用块级别。
 author: AI

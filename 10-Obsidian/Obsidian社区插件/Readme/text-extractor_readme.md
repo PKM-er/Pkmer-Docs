@@ -1,6 +1,6 @@
 ---
 uid: 2023080322280482
-title: Obsidian 插件：Text Extractor
+title: Obsidian 插件：【Readme】Text Extractor
 tags: ['obsidian插件', 'readme']
 description: 一个（伴侣）插件，用于帮助从图像（OCR）和PDF中提取文本。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322172864
-title: Obsidian 插件：Drag-n-Drop for blocks
+title: Obsidian 插件：【Readme】Drag-n-Drop for blocks
 tags: ['obsidian插件', 'readme']
 description: 允许使用拖放的方式移动/复制/创建块，就像Logseq或Roam一样。
 author: AI

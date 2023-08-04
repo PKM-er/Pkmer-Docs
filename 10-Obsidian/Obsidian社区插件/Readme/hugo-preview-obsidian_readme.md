@@ -1,6 +1,6 @@
 ---
 uid: 2023080322200022
-title: Obsidian 插件：Hugo preview Obsidian
+title: Obsidian 插件：【Readme】Hugo preview Obsidian
 tags: ['obsidian插件', 'readme']
 description: Hugo预览插件（Obsidian）
 author: AI

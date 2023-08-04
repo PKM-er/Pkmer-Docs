@@ -1,6 +1,6 @@
 ---
 uid: 2023080322204738
-title: Obsidian 插件：Jira Issue
+title: Obsidian 插件：【Readme】Jira Issue
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian笔记中跟踪Atlassian Jira问题的进展。
 author: AI

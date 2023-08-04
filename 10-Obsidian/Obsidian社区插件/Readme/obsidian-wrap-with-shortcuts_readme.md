@@ -1,6 +1,6 @@
 ---
 uid: 2023080322294706
-title: Obsidian 插件：Wrap with shortcuts
+title: Obsidian 插件：【Readme】Wrap with shortcuts
 tags: ['obsidian插件', 'readme']
 description: 将所选文本用快捷键来快速添加固定标签。例如：下划线、下标、ルビ（ふりがな）
 author: AI

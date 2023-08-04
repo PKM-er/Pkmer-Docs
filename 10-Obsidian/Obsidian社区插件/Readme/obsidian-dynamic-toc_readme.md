@@ -1,6 +1,6 @@
 ---
 uid: 2023080322173453
-title: Obsidian 插件：Dynamic Table of Contents
+title: Obsidian 插件：【Readme】Dynamic Table of Contents
 tags: ['编辑工具', '目录/标题', 'obsidian插件', 'readme']
 description: 用于生成与您的文档大纲保持同步的目录。
 author: AI

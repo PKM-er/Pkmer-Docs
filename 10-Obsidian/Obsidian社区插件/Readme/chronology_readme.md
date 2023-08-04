@@ -1,6 +1,6 @@
 ---
 uid: 2023080322155495
-title: Obsidian 插件：Chronology
+title: Obsidian 插件：【Readme】Chronology
 tags: ['文件管理', '文件历史', '统计', '效率', '美化', 'obsidian插件', 'readme']
 description: 提供笔记日历视图和笔记创建和修改的时间线
 author: AI

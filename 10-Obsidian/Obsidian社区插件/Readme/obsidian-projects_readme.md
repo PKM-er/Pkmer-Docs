@@ -1,6 +1,6 @@
 ---
 uid: 2023080322250554
-title: Obsidian 插件：Projects
+title: Obsidian 插件：【Readme】Projects
 tags: ['界面相关', '搜索/排序', '任务管理', '样式工具', '美化', '文件管理', '效率', 'obsidian插件', 'readme']
 description: 提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求。
 author: AI

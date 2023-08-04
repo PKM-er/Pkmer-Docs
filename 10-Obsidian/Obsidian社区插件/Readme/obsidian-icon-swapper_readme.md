@@ -1,6 +1,6 @@
 ---
 uid: 2023080322200623
-title: Obsidian 插件：Icon Swapper
+title: Obsidian 插件：【Readme】Icon Swapper
 tags: ['界面相关', '美化', 'obsidian插件', 'readme']
 description: 允许替换 Obsidian 的默认图标，可以导出和导入图标配置。但要求图标必须以 SVG 格式。
 author: AI

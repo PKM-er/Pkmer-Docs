@@ -1,6 +1,6 @@
 ---
 uid: 2023080322192873
-title: Obsidian 插件：Group Snippets
+title: Obsidian 插件：【Readme】Group Snippets
 tags: ['obsidian插件', 'readme']
 description: 创建代码片段文件夹，一键激活它们！
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322243360
-title: Obsidian 插件：Paste URL into selection
+title: Obsidian 插件：【Readme】Paste URL into selection
 tags: ['链接处理', '效率', '编辑工具', 'obsidian插件', 'readme']
 description: 将选定的文本编程超链接模式
 author: AI

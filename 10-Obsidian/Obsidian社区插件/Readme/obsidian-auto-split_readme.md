@@ -1,6 +1,6 @@
 ---
 uid: 2023080322143588
-title: Obsidian 插件：Auto Split
+title: Obsidian 插件：【Readme】Auto Split
 tags: ['obsidian插件', 'readme']
 description: 使用分割编辑器和预览打开笔记
 author: AI

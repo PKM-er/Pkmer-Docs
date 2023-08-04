@@ -1,6 +1,6 @@
 ---
 uid: 2023080322284386
-title: Obsidian 插件：Translate
+title: Obsidian 插件：【Readme】Translate
 tags: ['obsidian插件', 'readme']
 description: 使用 Google 翻译，DeepL，Azure 等工具翻译文本和笔记。
 author: AI

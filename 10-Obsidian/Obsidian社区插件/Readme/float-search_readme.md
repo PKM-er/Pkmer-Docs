@@ -1,6 +1,6 @@
 ---
 uid: 2023080322183217
-title: Obsidian 插件：Floating Search
+title: Obsidian 插件：【Readme】Floating Search
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian默认的搜索视图来搜索文本。
 author: AI

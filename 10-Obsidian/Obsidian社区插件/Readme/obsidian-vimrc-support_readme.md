@@ -1,6 +1,6 @@
 ---
 uid: 2023080322292128
-title: Obsidian 插件：Vimrc Support
+title: Obsidian 插件：【Readme】Vimrc Support
 tags: ['Vim相关', 'obsidian插件', 'readme']
 description: 支持 Vimrc 配置文件。
 author: AI

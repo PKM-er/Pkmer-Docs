@@ -1,6 +1,6 @@
 ---
 uid: 2023080322281005
-title: Obsidian 插件：Text Wrapper
+title: Obsidian 插件：【Readme】Text Wrapper
 tags: ['obsidian插件', 'readme']
 description: 通过使用快捷键或从命令面板中选择，快速包装所选文本与 HTML 标签
 author: AI

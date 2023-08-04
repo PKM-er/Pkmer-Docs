@@ -1,6 +1,6 @@
 ---
 uid: 2023080322133636
-title: Obsidian 插件：Adamantine Pick
+title: Obsidian 插件：【Readme】Adamantine Pick
 tags: ['obsidian插件', 'readme']
 description: Obsidian的可嵌入式Pikchr图表渲染器插件
 author: AI

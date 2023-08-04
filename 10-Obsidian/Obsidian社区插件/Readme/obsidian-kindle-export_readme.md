@@ -1,6 +1,6 @@
 ---
 uid: 2023080322210565
-title: Obsidian 插件：Kindle Export
+title: Obsidian 插件：【Readme】Kindle Export
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记导出到您的Kindle，包括嵌入式笔记和图像。
 author: AI

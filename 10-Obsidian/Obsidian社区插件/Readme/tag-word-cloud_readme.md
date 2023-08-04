@@ -1,6 +1,6 @@
 ---
 uid: 2023080322274875
-title: Obsidian 插件：Tag, Word & Link Cloud
+title: Obsidian 插件：【Readme】Tag, Word & Link Cloud
 tags: ['obsidian插件', 'readme']
 description: 展示你的标签/词/链接的云图
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322295671
-title: Obsidian 插件：Zoottelkeeper Plugin
+title: Obsidian 插件：【Readme】Zoottelkeeper Plugin
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 会自动更新所有文件夹的索引文件：如果你创建/删除/移动一个笔记，索引文件将自动更新。可以自定义特殊的文件夹页面
 author: AI

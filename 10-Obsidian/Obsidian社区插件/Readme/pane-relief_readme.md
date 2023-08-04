@@ -1,6 +1,6 @@
 ---
 uid: 2023080322242710
-title: Obsidian 插件：Pane Relief
+title: Obsidian 插件：【Readme】Pane Relief
 tags: ['界面相关', '导航工具', '效率', 'obsidian插件', 'readme']
 description: 每个标签页都增加历史记录，向你的浏览器一样。
 author: AI

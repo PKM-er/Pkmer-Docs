@@ -1,6 +1,6 @@
 ---
 uid: 2023080322245076
-title: Obsidian 插件：Pluck
+title: Obsidian 插件：【Readme】Pluck
 tags: ['转换工具', '链接处理', 'obsidian插件', 'readme']
 description: 快速从网页中创建Obsidian笔记。
 author: AI

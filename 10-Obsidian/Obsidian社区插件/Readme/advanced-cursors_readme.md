@@ -1,6 +1,6 @@
 ---
 uid: 2023080322134326
-title: Obsidian 插件：Advanced Cursors
+title: Obsidian 插件：【Readme】Advanced Cursors
 tags: ['obsidian插件', 'readme']
 description: 更强大地使用多个光标。
 author: AI

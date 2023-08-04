@@ -1,6 +1,6 @@
 ---
 uid: 2023080322170880
-title: Obsidian 插件：DataLoom
+title: Obsidian 插件：【Readme】DataLoom
 tags: ['表格', '界面相关', '效率', 'obsidian插件', 'readme']
 description: 给你类似于 Notion 中的表格编辑体验。
 author: AI

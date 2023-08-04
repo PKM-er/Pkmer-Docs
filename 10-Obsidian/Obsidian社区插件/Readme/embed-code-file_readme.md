@@ -1,6 +1,6 @@
 ---
 uid: 2023080322174447
-title: Obsidian 插件：Embed Code File
+title: Obsidian 插件：【Readme】Embed Code File
 tags: ['编程', '美化', '文件管理', 'obsidian插件', 'readme']
 description: 支持从本地路径，远程文件等方式，在笔记中加载对应代码，并展示对应的语法高亮方案。甚至支持指定文件中具体那块内容（M行到N行），
 author: AI

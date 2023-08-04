@@ -1,6 +1,6 @@
 ---
 uid: 2023080322175378
-title: Obsidian 插件：Enlightenment
+title: Obsidian 插件：【Readme】Enlightenment
 tags: ['obsidian插件', 'readme']
 description: 注意你正在关注的内容。Enlightenment为预览添加了一个“Zen模式”，隐藏了你的笔记内容，除了你的指针下面的内容。
 author: AI

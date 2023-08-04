@@ -1,6 +1,6 @@
 ---
 uid: 2023080322164435
-title: Obsidian 插件：Crumbs
+title: Obsidian 插件：【Readme】Crumbs
 tags: ['obsidian插件', 'readme']
 description: 面包屑导航
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322252475
-title: Obsidian 插件：Quickly
+title: Obsidian 插件：【Readme】Quickly
 tags: ['obsidian插件', 'readme']
 description: 通过操作系统的快捷键快速导航和创建笔记。
 author: AI

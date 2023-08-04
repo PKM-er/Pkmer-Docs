@@ -1,6 +1,6 @@
 ---
 uid: 2023080322223178
-title: Obsidian 插件：metatemplates
+title: Obsidian 插件：【Readme】metatemplates
 tags: ['模板', 'obsidian插件', 'readme']
 description: 使用YAML前置语法从模板生成笔记
 author: AI

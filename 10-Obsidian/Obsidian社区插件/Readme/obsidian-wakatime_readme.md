@@ -1,6 +1,6 @@
 ---
 uid: 2023080322292319
-title: Obsidian 插件：WakaTime
+title: Obsidian 插件：【Readme】WakaTime
 tags: ['效率', '美化', '统计', 'obsidian插件', 'readme']
 description: WakaTime Obsidian插件，用于从您的 Obsidian 使用活动中自动生成，使用情况的度量、数据报告和时间跟踪。
 author: AI

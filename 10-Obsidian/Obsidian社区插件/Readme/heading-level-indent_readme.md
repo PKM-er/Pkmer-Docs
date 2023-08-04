@@ -1,6 +1,6 @@
 ---
 uid: 2023080322193758
-title: Obsidian 插件：Heading Level Indent
+title: Obsidian 插件：【Readme】Heading Level Indent
 tags: ['obsidian插件', 'readme']
 description: 根据标题级别缩进内容。
 author: AI

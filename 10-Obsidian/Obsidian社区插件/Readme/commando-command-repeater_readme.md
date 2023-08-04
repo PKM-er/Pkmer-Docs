@@ -1,6 +1,6 @@
 ---
 uid: 2023080322161684
-title: Obsidian 插件：Commando
+title: Obsidian 插件：【Readme】Commando
 tags: ['obsidian插件', 'readme']
 description: 使用定义的或每次调用的值，使命令可以重复调用。
 author: AI

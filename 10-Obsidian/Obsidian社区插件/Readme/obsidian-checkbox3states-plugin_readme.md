@@ -1,6 +1,6 @@
 ---
 uid: 2023080322154543
-title: Obsidian 插件：Checkbox 3 states
+title: Obsidian 插件：【Readme】Checkbox 3 states
 tags: ['obsidian插件', 'readme']
 description: 复选框列表的第三种状态。
 author: AI

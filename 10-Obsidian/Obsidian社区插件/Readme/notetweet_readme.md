@@ -1,6 +1,6 @@
 ---
 uid: 2023080322230522
-title: Obsidian 插件：NoteTweet
+title: Obsidian 插件：【Readme】NoteTweet
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 从Obsidian发布推文。
 author: AI

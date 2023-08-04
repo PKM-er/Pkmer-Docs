@@ -1,6 +1,6 @@
 ---
 uid: 2023080322155756
-title: Obsidian 插件：Close Similar Tabs
+title: Obsidian 插件：【Readme】Close Similar Tabs
 tags: ['obsidian插件', 'readme']
 description: 关闭相似的标签页。
 author: AI

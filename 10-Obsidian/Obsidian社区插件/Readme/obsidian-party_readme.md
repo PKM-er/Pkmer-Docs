@@ -1,6 +1,6 @@
 ---
 uid: 2023080322242950
-title: Obsidian 插件：Party🎉
+title: Obsidian 插件：【Readme】Party🎉
 tags: ['obsidian插件', 'readme']
 description: Obsidian上的party.js实现。在您的笔记中创建五彩纸屑、火花，甚至自定义效果！
 author: AI

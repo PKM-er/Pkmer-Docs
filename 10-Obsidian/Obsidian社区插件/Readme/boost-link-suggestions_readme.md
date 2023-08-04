@@ -1,6 +1,6 @@
 ---
 uid: 2023080322151731
-title: Obsidian 插件：Boost Link Suggestions
+title: Obsidian 插件：【Readme】Boost Link Suggestions
 tags: ['obsidian插件', 'readme']
 description: 一个替代的内联链接建议者，可以按链接数量和手动提升排序结果。
 author: AI

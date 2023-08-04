@@ -1,6 +1,6 @@
 ---
 uid: 2023080322143886
-title: Obsidian 插件：Automatic List Styles
+title: Obsidian 插件：【Readme】Automatic List Styles
 tags: ['obsidian插件', 'readme']
 description: 自动格式化有序列表的样式，每一层递增列表样式。
 author: AI

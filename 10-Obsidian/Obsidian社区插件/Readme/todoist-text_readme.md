@@ -1,6 +1,6 @@
 ---
 uid: 2023080322283140
-title: Obsidian 插件：Todoist Text
+title: Obsidian 插件：【Readme】Todoist Text
 tags: ['obsidian插件', 'readme']
 description: 将您的 Todoist 任务与 Markdown 复选框绑定到一起。
 author: AI

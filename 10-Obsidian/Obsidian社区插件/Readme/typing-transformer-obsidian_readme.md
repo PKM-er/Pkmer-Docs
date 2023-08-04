@@ -1,6 +1,6 @@
 ---
 uid: 2023080322285361
-title: Obsidian 插件：Typing Transformer
+title: Obsidian 插件：【Readme】Typing Transformer
 tags: ['obsidian插件', 'readme']
 description: 改进的、可配置的自动格式化输入
 author: AI

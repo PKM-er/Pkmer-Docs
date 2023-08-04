@@ -1,6 +1,6 @@
 ---
 uid: 2023080322294615
-title: Obsidian 插件：Workspaces Plus
+title: Obsidian 插件：【Readme】Workspaces Plus
 tags: ['工作区', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 快速切换管理工作区的布局。你可以按照你不同的习惯，规划工作区。
 author: AI

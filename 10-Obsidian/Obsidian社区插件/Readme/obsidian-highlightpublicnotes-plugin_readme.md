@@ -1,6 +1,6 @@
 ---
 uid: 2023080322194428
-title: Obsidian 插件：Highlight Public Notes
+title: Obsidian 插件：【Readme】Highlight Public Notes
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 这个插件通过将笔记着色为红色来警告笔记是公开的（基于frontmatter属性）。
 author: AI

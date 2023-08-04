@@ -1,6 +1,6 @@
 ---
 uid: 2023080322161602
-title: Obsidian 插件：Commander
+title: Obsidian 插件：【Readme】Commander
 tags: ['界面相关', '效率', '导航工具', 'obsidian插件', 'readme']
 description: 给 Obsidian 的不同功能区增加自定义快捷按钮。
 author: AI

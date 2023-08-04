@@ -1,6 +1,6 @@
 ---
 uid: 2023080322212957
-title: Obsidian 插件：Link Nodes in Canvas
+title: Obsidian 插件：【Readme】Link Nodes in Canvas
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: 一个插件，可以根据它们之间的链接，在Canvas上为您添加边缘。
 author: AI

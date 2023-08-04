@@ -1,6 +1,6 @@
 ---
 uid: 2023080322224102
-title: Obsidian 插件：Mousewheel Image zoom
+title: Obsidian 插件：【Readme】Mousewheel Image zoom
 tags: ['obsidian插件', 'readme']
 description: .这个插件可以通过滚动来增加/减少图像的大小。
 author: AI

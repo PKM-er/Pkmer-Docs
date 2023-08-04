@@ -1,6 +1,6 @@
 ---
 uid: 2023080322231673
-title: Obsidian 插件：Obsidian Charts
+title: Obsidian 插件：【Readme】Obsidian Charts
 tags: ['图表生成', '界面相关', 'obsidian插件', 'readme']
 description: 此插件可让您使用 Chartist 作为后端创建图表！
 author: AI

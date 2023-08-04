@@ -1,6 +1,6 @@
 ---
 uid: 2023080322214466
-title: Obsidian 插件：Local Quotes
+title: Obsidian 插件：【Readme】Local Quotes
 tags: ['obsidian插件', 'readme']
 description: 从整个存储库中收集您的引用，并在不同位置嵌入它们，并设置刷新延迟。
 author: AI

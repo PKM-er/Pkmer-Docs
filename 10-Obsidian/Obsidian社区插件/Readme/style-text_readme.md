@@ -1,6 +1,6 @@
 ---
 uid: 2023080322273069
-title: Obsidian 插件：Style Text
+title: Obsidian 插件：【Readme】Style Text
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian Notes中为选定的文本应用自定义CSS样式。
 author: AI

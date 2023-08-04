@@ -1,6 +1,6 @@
 ---
 uid: 2023080322134420
-title: Obsidian 插件：Advanced Merger
+title: Obsidian 插件：【Readme】Advanced Merger
 tags: ['obsidian插件', 'readme']
 description: 合并一个文件夹的笔记以便更容易导出。
 author: AI

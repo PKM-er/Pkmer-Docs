@@ -1,6 +1,6 @@
 ---
 uid: 2023080322140516
-title: Obsidian 插件：Any Block
+title: Obsidian 插件：【Readme】Any Block
 tags: ['obsidian插件', 'readme']
 description: 您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如`列表转表格`。
 author: AI

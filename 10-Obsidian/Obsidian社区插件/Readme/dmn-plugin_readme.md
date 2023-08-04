@@ -1,6 +1,6 @@
 ---
 uid: 2023080322172487
-title: Obsidian 插件：DMN Plugin
+title: Obsidian 插件：【Readme】DMN Plugin
 tags: ['obsidian插件', 'readme']
 description: 该插件可以使用dmn-js查看DMN。
 author: AI

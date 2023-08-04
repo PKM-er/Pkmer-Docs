@@ -1,6 +1,6 @@
 ---
 uid: 2023080322234097
-title: Obsidian 插件：Obsidian Rich Links
+title: Obsidian 插件：【Readme】Obsidian Rich Links
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 让笔记中的 URL 转换为有样式的链接预览，类似 Notion 那样
 author: AI

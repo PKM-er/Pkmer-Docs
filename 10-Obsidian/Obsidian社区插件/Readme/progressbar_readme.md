@@ -1,6 +1,6 @@
 ---
 uid: 2023080322250376
-title: Obsidian 插件：ProgressBar
+title: Obsidian 插件：【Readme】ProgressBar
 tags: ['obsidian插件', 'readme']
 description: 将CodeBlock根据时间或手动方式渲染为进度条。
 author: AI

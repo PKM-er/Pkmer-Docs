@@ -1,6 +1,6 @@
 ---
 uid: 2023080322294904
-title: Obsidian 插件：WuCai highlights Official
+title: Obsidian 插件：【Readme】WuCai highlights Official
 tags: ['obsidian插件', 'readme']
 description: 将吴才的亮点同步到您的笔记中
 author: AI

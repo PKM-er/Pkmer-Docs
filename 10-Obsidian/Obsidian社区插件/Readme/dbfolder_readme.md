@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171181
-title: Obsidian 插件：DB Folder
+title: Obsidian 插件：【Readme】DB Folder
 tags: ['obsidian插件', 'readme']
 description: 文件夹具有从类似数据库的文件夹中存储和检索数据的能力
 author: AI

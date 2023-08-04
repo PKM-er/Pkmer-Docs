@@ -1,6 +1,6 @@
 ---
 uid: 2023080322295970
-title: Obsidian 插件：Zotero Link
+title: Obsidian 插件：【Readme】Zotero Link
 tags: ['obsidian插件', 'readme']
 description: 该插件方便在 Obsidian 中插入 Zotero Item 链接
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322253898
-title: Obsidian 插件：Readavocado Sync
+title: Obsidian 插件：【Readme】Readavocado Sync
 tags: ['obsidian插件', 'readme']
 description: 将你的Readavocado重点与Obsidian同步
 author: AI

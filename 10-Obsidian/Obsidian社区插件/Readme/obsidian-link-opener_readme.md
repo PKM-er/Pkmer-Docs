@@ -1,6 +1,6 @@
 ---
 uid: 2023080322180316
-title: Obsidian 插件：External Link Opener
+title: Obsidian 插件：【Readme】External Link Opener
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中使用模态或标签打开外部链接。
 author: AI

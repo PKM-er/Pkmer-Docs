@@ -1,6 +1,6 @@
 ---
 uid: 2023080322231347
-title: Obsidian 插件：Obsidian Attendance
+title: Obsidian 插件：【Readme】Obsidian Attendance
 tags: ['obsidian插件', 'readme']
 description: 帮助你在笔记中直接记录出勤情况。
 author: AI

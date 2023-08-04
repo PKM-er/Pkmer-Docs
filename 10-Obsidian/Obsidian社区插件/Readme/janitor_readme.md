@@ -1,6 +1,6 @@
 ---
 uid: 2023080322204410
-title: Obsidian 插件：Janitor
+title: Obsidian 插件：【Readme】Janitor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian Vault上执行清理任务
 author: AI

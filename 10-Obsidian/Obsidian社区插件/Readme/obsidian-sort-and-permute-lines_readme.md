@@ -1,6 +1,6 @@
 ---
 uid: 2023080322271525
-title: Obsidian 插件：Sort & Permute lines
+title: Obsidian 插件：【Readme】Sort & Permute lines
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 对整个文件或选择的行进行排序和重新排列。
 author: AI

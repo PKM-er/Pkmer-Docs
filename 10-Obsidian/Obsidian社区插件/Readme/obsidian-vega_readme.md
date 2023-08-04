@@ -1,6 +1,6 @@
 ---
 uid: 2023080322291306
-title: Obsidian 插件：Vega Visualizations
+title: Obsidian 插件：【Readme】Vega Visualizations
 tags: ['obsidian插件', 'readme']
 description: 用于渲染 Vega 或 Vega-Lite 数据可视化图，如折线图和散点图。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322172411
-title: Obsidian 插件：DMN Eval
+title: Obsidian 插件：【Readme】DMN Eval
 tags: ['obsidian插件', 'readme']
 description: 该插件使得能够评估/执行DMN。
 author: AI

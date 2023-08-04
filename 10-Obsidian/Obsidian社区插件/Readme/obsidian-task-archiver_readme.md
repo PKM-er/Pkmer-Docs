@@ -1,6 +1,6 @@
 ---
 uid: 2023080322141475
-title: Obsidian 插件：Archiver
+title: Obsidian 插件：【Readme】Archiver
 tags: ['任务管理', '文件重构', 'obsidian插件', 'readme']
 description: 将已完成的任务移动到带有日期树的存档中
 author: AI

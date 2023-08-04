@@ -1,6 +1,6 @@
 ---
 uid: 2023080322222770
-title: Obsidian 插件：Metacopy & URL
+title: Obsidian 插件：【Readme】Metacopy & URL
 tags: ['obsidian插件', 'readme']
 description: 复制一个前文键的值。
 author: AI

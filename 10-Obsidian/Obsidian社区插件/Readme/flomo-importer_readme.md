@@ -1,6 +1,6 @@
 ---
 uid: 2023080322183462
-title: Obsidian 插件：Flomo Importer
+title: Obsidian 插件：【Readme】Flomo Importer
 tags: ['obsidian插件', 'readme']
 description: 将Flomo备忘录转换为Obsidian笔记。
 author: AI

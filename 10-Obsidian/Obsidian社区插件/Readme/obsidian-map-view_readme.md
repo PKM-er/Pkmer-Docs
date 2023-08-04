@@ -1,6 +1,6 @@
 ---
 uid: 2023080322215392
-title: Obsidian 插件：Map View
+title: Obsidian 插件：【Readme】Map View
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 一个可交互的地图视图来记录您的笔记。
 author: AI

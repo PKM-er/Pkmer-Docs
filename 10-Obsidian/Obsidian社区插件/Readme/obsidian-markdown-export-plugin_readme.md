@@ -1,6 +1,6 @@
 ---
 uid: 2023080322232990
-title: Obsidian 插件：Obsidian Markdown export
+title: Obsidian 插件：【Readme】Obsidian Markdown export
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的Markdown导出插件。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322142211
-title: Obsidian 插件：Audio Player
+title: Obsidian 插件：【Readme】Audio Player
 tags: ['obsidian插件', 'readme']
 description: player音频播放器具有后台播放、书签和波形可视化功能，而不是默认的HTML5音频播放器。
 author: AI

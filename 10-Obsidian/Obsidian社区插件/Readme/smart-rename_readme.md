@@ -1,6 +1,6 @@
 ---
 uid: 2023080322270712
-title: Obsidian 插件：Smart Rename
+title: Obsidian 插件：【Readme】Smart Rename
 tags: ['obsidian插件', 'readme']
 description: 重命名笔记，保留现有链接中的先前标题
 author: AI

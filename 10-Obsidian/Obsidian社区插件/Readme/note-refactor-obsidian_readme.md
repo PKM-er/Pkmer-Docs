@@ -1,6 +1,6 @@
 ---
 uid: 2023080322230278
-title: Obsidian 插件：Note Refactor
+title: Obsidian 插件：【Readme】Note Refactor
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 把笔记内容提取到新的笔记中并分割笔记
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322283621
-title: Obsidian 插件：ToggleList
+title: Obsidian 插件：【Readme】ToggleList
 tags: ['obsidian插件', 'readme']
 description: 切换清单状态（段落/列表/清单/自定义样式...）
 author: AI

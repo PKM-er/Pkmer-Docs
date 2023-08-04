@@ -1,6 +1,6 @@
 ---
 uid: 2023080322264926
-title: Obsidian 插件：Show Diff
+title: Obsidian 插件：【Readme】Show Diff
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian文件中呈现Git差异
 author: AI

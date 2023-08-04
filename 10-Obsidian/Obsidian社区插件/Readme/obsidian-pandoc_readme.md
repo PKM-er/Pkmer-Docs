@@ -1,6 +1,6 @@
 ---
 uid: 2023080322233760
-title: Obsidian 插件：Obsidian Pandoc
+title: Obsidian 插件：【Readme】Obsidian Pandoc
 tags: ['第三方工具集成', '转换工具', 'PDF', 'obsidian插件', 'readme']
 description: 为 Obsidian 增加将笔记导出各种文件格式的能力例如DOCX、ePub 和 PDF。此插件不能独立运行，需要配合 Pandoc 额外程序才可以。
 author: AI

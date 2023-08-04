@@ -1,6 +1,6 @@
 ---
 uid: 2023080322222591
-title: Obsidian 插件：Mermaid.js Helper (OMH)
+title: Obsidian 插件：【Readme】Mermaid.js Helper (OMH)
 tags: ['obsidian插件', 'readme']
 description: 帮助 mermaid.js 工作流程和更多的插件
 author: AI

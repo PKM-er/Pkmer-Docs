@@ -1,6 +1,6 @@
 ---
 uid: 2023080322281176
-title: Obsidian 插件：The One Ring 2E Statblocks
+title: Obsidian 插件：【Readme】The One Ring 2E Statblocks
 tags: ['obsidian插件', 'readme']
 description: 为《指环王2E角色扮演游戏》渲染 NPC 和对手状态块。
 author: AI

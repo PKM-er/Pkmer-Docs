@@ -1,6 +1,6 @@
 ---
 uid: 2023080322222935
-title: Obsidian 插件：Metadata Menu
+title: Obsidian 插件：【Readme】Metadata Menu
 tags: ['obsidian插件', 'readme']
 description: 对于数据质量爱好者和Dataview用户：访问和管理您的笔记的元数据
 author: AI

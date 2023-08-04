@@ -1,6 +1,6 @@
 ---
 uid: 2023080322151917
-title: Obsidian 插件：brAIn
+title: Obsidian 插件：【Readme】brAIn
 tags: ['obsidian插件', 'readme']
 description: 一个由ChatGPT驱动的聊天机器人，专注于回答你在Obsidian vault笔记中的问题。
 author: AI

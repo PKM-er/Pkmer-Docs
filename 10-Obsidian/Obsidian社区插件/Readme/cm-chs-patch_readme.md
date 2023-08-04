@@ -1,6 +1,6 @@
 ---
 uid: 2023080322293824
-title: Obsidian 插件：Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
+title: Obsidian 插件：【Readme】Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
 tags: ['obsidian插件', 'readme']
 description: 加强文本编辑器中文分词功能
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322250634
-title: Obsidian 插件：Prominent Starred Files
+title: Obsidian 插件：【Readme】Prominent Starred Files
 tags: ['obsidian插件', 'readme']
 description: 在文件资源管理器中突出显示加星标记的笔记
 author: AI

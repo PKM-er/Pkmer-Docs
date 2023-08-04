@@ -1,6 +1,6 @@
 ---
 uid: 2023080322264330
-title: Obsidian 插件：Shell commands
+title: Obsidian 插件：【Readme】Shell commands
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 定义你想通过命令面板、热键、URI链接或自动事件执行的系统命令。例如：打开外部应用程序或执行自动文件修改。
 author: AI

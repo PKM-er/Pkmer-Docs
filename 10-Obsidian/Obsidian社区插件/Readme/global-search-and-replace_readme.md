@@ -1,6 +1,6 @@
 ---
 uid: 2023080322191622
-title: Obsidian 插件：Global Search and Replace
+title: Obsidian 插件：【Readme】Global Search and Replace
 tags: ['obsidian插件', 'readme']
 description: 在所有保险库文件中进行搜索和替换
 author: AI

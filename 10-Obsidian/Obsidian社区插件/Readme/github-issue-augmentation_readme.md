@@ -1,6 +1,6 @@
 ---
 uid: 2023080322191255
-title: Obsidian 插件：GitHub Issue Augmentation
+title: Obsidian 插件：【Readme】GitHub Issue Augmentation
 tags: ['obsidian插件', 'readme']
 description: 增加了GitHub问题ID
 author: AI
