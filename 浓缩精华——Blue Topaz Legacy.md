@@ -220,3 +220,5 @@ modified:
 ## 最后
 
 天下主题千千万，css 的适配工作并不容易。目前本片段的适配主要针对本人自用的 Anuppuccin 主题，在其他主题中仍然可能出现奇怪的兼容问题。如果你在使用过程中，遇到 css 不生效或者 css 冲突的情况，或者有想要迁移到本片段的**其他 bt 主题重要功能**，欢迎**提交 issue 和 PR**( ͡° ͜ʖ ͡°)✧只有在社区大家的共同维护下，css 片段才能兼容更多主题，css 片段适配才能走得更远(ง •̀_•́)ง
+
+项目细节及下载地址：[ProudBenzene/Blue-Topaz-Legacy](https://github.com/ProudBenzene/Blue-Topaz-Legacy)
