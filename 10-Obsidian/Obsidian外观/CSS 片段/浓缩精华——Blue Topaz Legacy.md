@@ -1,13 +1,13 @@
 ---
-uid: 
+uid: 20230804105320
 title: 浓缩精华——Blue Topaz Legacy
-tags: []
-description: 
+tags: [主题增强, BlueTopaz]
+description: B把BlueTopaz优秀的片段提取出来，其他主题也可以使用。
 author: ProudBenzene
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20230804110304
 ---
 
 > [!note]
@@ -19,7 +19,7 @@ modified:
 
 ## 制作初衷
 
-*Blue Topaz* 主题是一个非常优秀的主题，由 3f 等多位大佬一起开发而来，内含许多种自定义方案以及强大的扩展功能。但是除去这些最为明显的优势，该主题在==「**基础优化**」==方面的优秀也是不可忽视的。例如在许多从其他平台迁移而来的用户看来理所当然的「首行缩进」、「两端对齐」功能，图片自适应显示强调字体的颜色、挖空涂黑等等新的字体强调方式，以及一些 admonition 小组件的 css 处理。这些功能不仅默认主题中没有，大部分主题（如 *AnuPpuccin*等）也都缺失这些功能, 或者在相应功能上不如 bt 完善。为了在其他主题中也可以使用这些基础优化，达到舒适的编辑体验，我将 *Blue Topaz*主题中包含重要基础优化的片段摘录出来，重新整合成了「**Blue Topaz Legacy**」css 片段，供大家使用。
+[[Blue Topaz]] 主题是一个非常优秀的主题，由 3f 等多位大佬一起开发而来，内含许多种自定义方案以及强大的扩展功能。但是除去这些最为明显的优势，该主题在==「**基础优化**」==方面的优秀也是不可忽视的。例如在许多从其他平台迁移而来的用户看来理所当然的「首行缩进」、「两端对齐」功能，图片自适应显示强调字体的颜色、挖空涂黑等等新的字体强调方式，以及一些 admonition 小组件的 css 处理。这些功能不仅默认主题中没有，大部分主题（如 *AnuPpuccin*等）也都缺失这些功能, 或者在相应功能上不如 bt 完善。为了在其他主题中也可以使用这些基础优化，达到舒适的编辑体验，我将 *Blue Topaz*主题中包含重要基础优化的片段摘录出来，重新整合成了「**Blue Topaz Legacy**」css 片段，供大家使用。
 
 除此之外，本片段也集合了少数非 bt 主题，但我个人认为好用的小功能。各功能是否启用，大家可以通过 Style Settings 插件设置自行把握。
 
@@ -27,7 +27,7 @@ modified:
 
 ## Typography：字体与排版
 
-![字体与排版设置|300](assets/浓缩精华——Blue%20Topaz%20Legacy.assets/image-20230804081213575.png)
+![字体与排版设置|300](https://cdn.pkmer.cn/images/202308041056172.png!pkmer)
 
 ### 字体与排版设置
 
@@ -41,14 +41,14 @@ modified:
 - 增加**标题设置**，可以对不同层级的标题的**段前距**、**段后距**以及**缩进程度**进行调整
 - 增加**段落排版**功能，支持设置**首行缩进**、**两端对齐**等功能
 
-![强掉字体展示](assets/浓缩精华——Blue%20Topaz%20Legacy.assets/image-20230711230856232.png)
+![强掉字体展示](https://cdn.pkmer.cn/images/202308041056173.png!pkmer)
 
 > [!attention]+ 注意
 > 若要在阅读模式使用段落首行缩进与两端对齐样式，需要下载安装 *Contextual Typography* 插件。
 
 ## Markdown 元素
 
-![Markdown 元素|300](assets/浓缩精华——Blue%20Topaz%20Legacy.assets/image-20230804081653737.png)
+![Markdown 元素|300](https://cdn.pkmer.cn/images/202308041056175.png!pkmer)
 
 ### 链接美化
 
@@ -128,7 +128,7 @@ modified:
 
 ## 类笔记样式背景设置
 
-![类笔记样式背景设置|300](assets/浓缩精华——Blue%20Topaz%20Legacy.assets/image-20230804083408324.png)
+![类笔记样式背景设置|300](https://cdn.pkmer.cn/images/202308041056176.png!pkmer)
 
 具体包括：
 
@@ -167,7 +167,7 @@ modified:
   `![[xxx.png|+grid]]`
 - 方法三：在笔记 YAML 处输入 `cssclass: img-grid`
 
-![图片排版优化示例](assets/浓缩精华——Blue%20Topaz%20Legacy.assets/image-20230524125630410.png)
+![图片排版优化示例](https://cdn.pkmer.cn/images/202308041056177.png!pkmer)
 
 #### 图片大小与位置
 
@@ -180,7 +180,7 @@ modified:
 
 `right` / `Right` / `RIGHT` / `R`
 
-- 在图片后加上 `|inlR`、`|inlL` 或 `|inl`，可以使图片变为行内显示，也可以跟控制大小同时使用。`![[image-20230204021300718.png|inl|100]]` 可用变体有：
+- 在图片后加上 `|inlR`、`|inlL` 或 `|inl`，可以使图片变为行内显示，也可以跟控制大小同时使用。`![image-20230204021300718|inl|100](https://cdn.pkmer.cn/images/202308041056180.png!pkmer)` 可用变体有：
 
 `inlineL` / `InlineL` / `INLINEL` / `inlL`
 
@@ -193,7 +193,7 @@ modified:
 
 使用效果：
 
-![图文混排示例](assets/浓缩精华——Blue%20Topaz%20Legacy.assets/image-20230711230310740.png)
+![图文混排示例](https://cdn.pkmer.cn/images/202308041056178.png!pkmer)
 
 #### 图例效果
 
@@ -203,7 +203,7 @@ modified:
 
 - 行内或连续的图例，使用 `#inl`
 
-![图例示例](assets/浓缩精华——Blue%20Topaz%20Legacy.assets/image-20230711230421971.png)
+![图例示例](https://cdn.pkmer.cn/images/202308041056179.png!pkmer)
 
 ### Callout 增强
 
@@ -219,6 +219,6 @@ modified:
 
 ## 最后
 
-天下主题千千万，css 的适配工作并不容易。目前本片段的适配主要针对本人自用的 Anuppuccin 主题，在其他主题中仍然可能出现奇怪的兼容问题。如果你在使用过程中，遇到 css 不生效或者 css 冲突的情况，或者有想要迁移到本片段的**其他 bt 主题重要功能**，欢迎**提交 issue 和 PR**( ͡° ͜ʖ ͡°)✧只有在社区大家的共同维护下，css 片段才能兼容更多主题，css 片段适配才能走得更远(ง •̀_•́)ง
+天下主题千千万，css 的适配工作并不容易。目前本片段的适配主要针对本人自用的 Anuppuccin 主题，在其他主题中仍然可能出现奇怪的兼容问题。如果你在使用过程中，遇到 css 不生效或者 css 冲突的情况，或者有想要迁移到本片段的**其他 bt 主题重要功能**，欢迎**提交 issue 和 PR**( ͡° ͜ʖ ͡°)✧只有在社区大家的共同维护下，css 片段才能兼容更多主题，css 片段适配才能走得更远 (ง •̀_•́)ง
 
 项目细节及下载地址：[ProudBenzene/Blue-Topaz-Legacy](https://github.com/ProudBenzene/Blue-Topaz-Legacy)
