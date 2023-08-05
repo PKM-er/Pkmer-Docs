@@ -101,6 +101,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
 - [[awesome-image]]：提供笔记中查看图片的基本操作
+- [[Copy-Image-and-URL-context-menu]]：为图片增加右键菜单，并提供了一些新功能，包括复制图像，复制网址等。
 - [[obsidian-image-caption]]：给图片增加说明题注
 - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
@@ -187,7 +188,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：自动将链接变成卡片样式
 
-## 关系图谱
+### 关系图谱
 
 - [[graph-analysis]]：将图形分析能力添加到 Obsidian，此插件实现了一套算法，可以计算仓库中的笔记之间的关联关系。
 
