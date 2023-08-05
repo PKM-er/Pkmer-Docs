@@ -12,11 +12,9 @@ modified: 20230805224751
 
 # Obsidian 插件：Quick Plugin Switcher——快速插件切换器
 
-这个插件简化了管理插件的过程
+这个插件简化了管理插件的过程，点击侧边栏的按钮，直接在主界面显示快速切换插件功能区
 
 ![[Pasted image 20230805215435.png]]
-
-点击侧边栏的按钮，直接在主界面显示快速切换插件功能区
 
 > [!note] Quick Plugin Switcher
 > 插件 ID：quick-plugin-switcher
