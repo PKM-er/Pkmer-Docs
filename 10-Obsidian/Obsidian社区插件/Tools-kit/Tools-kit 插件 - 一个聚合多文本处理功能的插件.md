@@ -10,13 +10,6 @@ editable: false
 modified: 20230731121852
 ---
 
-**TOC**
-
-  - [一-特性效果](#一-特性效果)
-    - [1.1-标题的编号](#1.1-标题的编号)
-    - [1.2-目录_TOC_的生成](#1.2-目录_TOC_的生成)
-    - [1.3-批量给二级标题添加“回到顶部”链接](#1.3-批量给二级标题添加“回到顶部”链接)
-    - [1.4-批量给文档中的图片生成实体图注](#1.4-批量给文档中的图片生成实体图注)
 
 # Tools-kit——插件——一个聚合多文本处理功能的插件
 
@@ -35,6 +28,7 @@ modified: 20230731121852
  > 由于此插件很多功能（feature）是根据**个人需求**创作的， 并且定位为一个聚合工具包，因此主要介绍几个典型的功能选项，以供参考。
  >
  > 因此插件的定位，未来可能会新增用于文本处理的功能或者其他实用的功能。本插件对外保持开放策略，如果有好的想法或建议，欢迎可以在 github issue 提出，有条件会考虑实现。如果有特殊的（定制化）的需求，也可以讨论交流。
+
 
 **与 markdown 文档处理有关的功能特性**（主要考虑在 非 Obsidian 环境的平台上使用。比如个人博客，第三方平台）
 
@@ -55,15 +49,9 @@ modified: 20230731121852
  > [!important]
  > 为了便于使用下面将要介绍的功能，把常用的功能都添加到编辑器右键菜单中
  >
- > ![](Resource/Images/image-20230731084732251.png)
-
-<center>Figure 0-1-image-20230731084732251</center>
-
-[Back-To-Top](#Tools-kit——插件——一个聚合多文本处理功能的插件)
+ > ![](https://cdn.pkmer.cn/images/202308070018862.png!pkmer)
 
 ## 一-特性效果
-
-[Back-To-Top](#Tools-kit——插件——一个聚合多文本处理功能的插件)
 
 ### 1.1-标题的编号
 
@@ -78,9 +66,8 @@ modified: 20230731121852
  > 特别地，为了增加不同的层级的辨识度，为二级标题的编号提供了额外的（汉字）编号风格（默认为 数字 `1.1.2 xxx`），编号后看起来像这样 `一-xxxx`
  >
  > 可以在插件设置中配置：
- > ![](Resource/Images/image-20230731080434741.png)
+ > ![](https://cdn.pkmer.cn/images/202308070019632.png!pkmer)
 
-<center>Figure 1-1-image-20230731080434741</center>
 
 使用之前
 
@@ -128,8 +115,6 @@ modified: 20230731121852
 ### 3.2-我是三级标题b
 ### 3.3-我是三级标题c
 ``` 
-
-[Back-To-Top](#Tools-kit——插件——一个聚合多文本处理功能的插件)
 
 ### 1.2-目录_TOC_的生成
 
@@ -201,11 +186,7 @@ modified: 20230731121852
 
 预览效果：
 
-![](Resource/Images/image-20230731081111280.png)
-
-<center>Figure 1-2-image-20230731081111280</center>
-
-[Back-To-Top](#Tools-kit——插件——一个聚合多文本处理功能的插件)
+![](https://cdn.pkmer.cn/images/202308070019055.png!pkmer)
 
 ### 1.3-批量给二级标题添加“回到顶部”链接
 
@@ -217,9 +198,8 @@ modified: 20230731121852
 
 使用和之前几个功能类似, 也提供的设置选项，有两个风格选择。即显示的文本 ①中文 `[回到顶部](#一级标题)` 或 ② 英文 `[Back to top](#一级标题)`。
 
-![](Resource/Images/image-20230731082149237.png)
+![](https://cdn.pkmer.cn/images/202308070020678.png!pkmer)
 
-<center>Figure 1-3-image-20230731082149237</center>
 
  > [!question]
  > 感觉将链接放置到 每个标题的 最后方，用箭头符号 ↑ 来作为显示文本比较好，避免太多文字的干扰？ `[↑](#一级标题)`
@@ -308,11 +288,8 @@ modified: 20230731121852
 
 效果：
 
-![](Resource/Images/image-20230731082014919.png)
+![](https://cdn.pkmer.cn/images/202308070020305.png!pkmer)
 
-<center>Figure 1-4-image-20230731082014919</center>
-
-[Back-To-Top](#Tools-kit——插件——一个聚合多文本处理功能的插件)
 
 ### 1.4-批量给文档中的图片生成实体图注
 
@@ -325,7 +302,7 @@ modified: 20230731121852
 
 使用之前
 
- ```markdown
+```
  # heading
 
 ## 1
@@ -344,12 +321,11 @@ modified: 20230731121852
 
 
 ![](attachs/Pasted%20image%2020230722213732.png) 
-
 ``` 
 
 使用之后
 
- ```markdown
+```
 # heading
 
 ## 1
@@ -383,9 +359,8 @@ modified: 20230731121852
 
 效果：
 
-![](Resource/Images/image-20230731083103153.png)
+![](https://cdn.pkmer.cn/images/202308070021915.png!pkmer)
 
-<center>Figure 1-5-image-20230731083103153</center>
 
  > [!important]
  > 此功能支持多个链接风格，考虑到多种情况
@@ -407,7 +382,7 @@ modified: 20230731121852
 
 假设 为 上面的示例内容中的其中一个图片添加显示文本
 
-```markdown
+```
 ## 3
 ![我是markdown链接中的显示文本，我将会作为图注的内容](attachs/Pasted%20image%2020230722213723.png)
 
@@ -418,7 +393,7 @@ modified: 20230731121852
 
 生成的图注文本如下
 
- ```markdown
+```
 ## 3
 ![我是markdown链接中的显示文本，我将会作为图注的内容](attachs/Pasted%20image%2020230722213723.png)
 <center>Figure 3-1-我是markdown链接中的显示文本，我将会作为图注的内容</center>
@@ -433,8 +408,6 @@ modified: 20230731121852
 
 对比上下两个图片的图注文字部分
 
-![](Resource/Images/image-20230731084038812.png)
-
-<center>Figure 1-6-image-20230731084038812</center>
+![](https://cdn.pkmer.cn/images/202308070021014.png!pkmer)
 
 （完）
