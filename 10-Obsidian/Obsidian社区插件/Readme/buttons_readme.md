@@ -125,7 +125,7 @@ Templater 参数允许您在按钮内部提供一个 Templater 命令。当按�
 
     ```button
     name Make an Hourly Note
-    type note(23:08) template
+    type note(<% tp.date.now("HH:MM") %>) template
     action Log Template Note
     templater true
     ```
@@ -139,14 +139,14 @@ Templater 参数允许您在按钮内部提供一个 Templater 命令。当按�
     templater true
     ```
 
-然后 `09` 会变回 `23:08`。
+然后 `09` 会变回 `<% tp.date.now("HH:MM") %>`。
 
 Templater 参数也适用于文本按钮类型：
 
     ```button
     name Add Current Time
     type line(1) text
-    action 23:22:02
+    action <% tp.date.now("HH:mm:ss") %>
     replace [1,1]
     templater true
     ```
@@ -225,7 +225,7 @@ Templater 参数也适用于文本按钮类型：
     ```button
     name Log
     type append text
-    action 23:22
+    action <% tp.date.now("HH:mm") %>
     templater true
     ```
 
@@ -298,7 +298,7 @@ Templater 参数也适用于文本按钮类型：
 
     ```button
     name 新建会议
-    type note(Meeting-23-08, split) note
+    type note(Meeting-<%tp.date.now("HH-MM") %>, split) note
     action 会议笔记模板
     templater true
     ```
@@ -390,7 +390,7 @@ Templater 参数也适用于文本按钮类型：
 - 插入内联按钮：使用命令面板中的**插入内联按钮**快速插入新的内联按钮
 - 按钮生成器：从命令面板中打开按钮生成器，快速轻松地创建新的按钮
 - 新的按钮参数 - `swap`：使用 `swap [id1, id2, id3]` 参数以及内联按钮来创建在每次点击时执行多个操作的按钮
-- 新的按钮参数 - `templater`：templater 参数允许您在按钮内部放置一个 templater 命令。当点击按钮时，templater 命令将被转换为其值，然后再转换回 templater 命令：`note(08-06) template`
+- 新的按钮参数 - `templater`：templater 参数允许您在按钮内部放置一个 templater 命令。当点击按钮时，templater 命令将被转换为其值，然后再转换回 templater 命令：`note(<% tp.date.now("MM-DD") %>) template`
 
 ### 0.3.2
 
