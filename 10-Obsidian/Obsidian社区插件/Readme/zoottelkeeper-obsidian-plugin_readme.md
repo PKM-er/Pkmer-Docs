@@ -183,7 +183,12 @@ tags:
 
 ---
 
+<%* if (tp.file.title.endsWith(tp.file.folder())) { %>
 
+%% Zoottelkeeper: 自动生成的索引文件列表开始  %%
+%% Zoottelkeeper: 自动生成的索引文件列表结束  %%
+
+<%* } %>
 
 警告：请确保在将占位符（以 %% Zottelkeeper 开头的行）粘贴到 Obsidian 中时，每行末尾的 '%%' 字符之前有两个空格，否则它们将无法被识别，因此整个索引文件将被重新生成，删除自定义文本！
   
