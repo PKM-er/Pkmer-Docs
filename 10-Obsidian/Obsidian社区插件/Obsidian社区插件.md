@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230730203605
+modified: 20230801235157
 ---
 
 # Obsidian 社区插件
@@ -101,6 +101,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
 - [[awesome-image]]：提供笔记中查看图片的基本操作
+- [[Copy-Image-and-URL-context-menu]]：为图片增加右键菜单，并提供了一些新功能，包括复制图像，复制网址等。
 - [[obsidian-image-caption]]：给图片增加说明题注
 - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
@@ -186,6 +187,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：自动将链接变成卡片样式
+
+### 关系图谱
+
+- [[graph-analysis]]：将图形分析能力添加到 Obsidian，此插件实现了一套算法，可以计算仓库中的笔记之间的关联关系。
 
 ### 导出&分享&发布
 
@@ -404,9 +409,11 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
  - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
 
-### 第三方集成
+### 第三方集成和联动
 
- - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
+- [[Zotero和Obsidian联动]]
+- [[obsidian-zotero-desktop-connector]]
+- [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
 - [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
 - [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据

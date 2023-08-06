@@ -1,13 +1,13 @@
 ---
 uid: 20230706131405
 title: Obsidian 插件：Typewriter Mode 更完美的打字机模式
-tags: [Obsidian, 插件, 打字机, 模式]
+tags: [Obsidian, 插件, 打字机模式]
 description: Obsidian 插件：Typewriter Mode 更完美的打字机模式
 author: Huajin
 type: basic
 draft: false
 editable: false
-modified: 20230706190656
+modified: 20230731110201
 ---
 
 # Obsidian 插件：Typewriter Mode 更完美的打字机模式

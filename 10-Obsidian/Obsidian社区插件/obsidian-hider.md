@@ -40,7 +40,7 @@ modified: 20230604172809
 ## 使用方法
 
 - 隐藏界面类
-	- Hide App ribbon：隐藏 Obisidan 的 Ribbon 区域
+	- Hide App ribbon：隐藏 Obsidian 的 Ribbon 区域
 	- Hide sidebar toggle buttons：隐藏 `左/右` 侧边栏的 `展开/收起` 按钮
 	- Hide Tab bar：隐藏标签页所在的标签栏
 	- Hide Status bar：隐藏状态栏

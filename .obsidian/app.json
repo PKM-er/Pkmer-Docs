@@ -16,5 +16,6 @@
   "useMarkdownLinks": false,
   "livePreview": true,
   "defaultViewMode": "source",
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "focusNewTab": true
 }

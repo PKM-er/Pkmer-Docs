@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230604172413
+modified: 20230802185304
 ---
 
 # Obsidian 插件：File Order 允许你快速给文件夹的文件加上数字编号
@@ -19,12 +19,15 @@ modified: 20230604172413
 > [!Note] 插件名片
 > - 插件名称：File Order
 > - 插件作者：Lukas Bach
+> - 插件版本：0.0.6
 > - 插件说明：允许你快速给文件夹的文件加上数字编号。
 > - 插件项目地址：[点我跳转](https://github.com/lukasbach/obsidian-file-order)
 
 ## 效果&特性
 
 ![image.png](https://cdn.pkmer.cn/images/20230514131555.png!pkmer)
+
+![image.png|460](https://cdn.pkmer.cn/images/20230802185129.png!pkmer)
 
 ## 使用
 
