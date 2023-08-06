@@ -132,7 +132,7 @@ modified: 20230101000000
 - 翻译文件
 - 在 [index](plugin/i18n/index.ts) 中：
     1. 使用 `import <language> from "./locales/<language>";` 导入语言文件
-    2. 在编辑 localeMap 之前，你需要知道 Obsidian 在你的语言中使用的确切名称。你可以使用 `<% tp.obsidian.moment.locale() %>`（如果你有 templater）或者打开开发者控制台（使用 CTRL+MAJ+I）并输入 `moment.locale()` 来找到它。
+    2. 在编辑 localeMap 之前，你需要知道 Obsidian 在你的语言中使用的确切名称。你可以使用 `en`（如果你有 templater）或者打开开发者控制台（使用 CTRL+MAJ+I）并输入 `moment.locale()` 来找到它。
     3. 使用语言代码和语言名称编辑 `LocaleMap`。你需要有 `obsidian-code-language : language`（例如 `fr : french`，或者对于中文 `"zh-cn":cn`）。
 
 - 提交你的更改并将其推送到你的 fork
