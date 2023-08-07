@@ -16,9 +16,9 @@ OS: windowsOnly
 
 # 使用绿色版 Obsidian
 
-## 为什么要使用绿色版 Obsidian？
-
-- 这不是个问题！打开这个文章，自然知道为什么要使用绿色版 Obsidian！
+- 之前我们也在 [[Obsidian基础操作问题#如何自定 Obsidian 的安装位置]]，介绍过这个方法， 这篇文章是更加细致的解读
+- 为什么要使用绿色版 Obsidian？
+	- 这不是个问题！打开这个文章，自然知道为什么要使用绿色版 Obsidian！
 
 ## 如何获得绿色版 Obsidian？
 
