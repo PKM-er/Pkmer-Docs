@@ -373,7 +373,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 ### 统计类
 
 - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
-- [[better-word-count]]：
+- [[better-word-count]]：自定义统计全库字数，文件数等统计数据
 - [[file-explorer-note-count]]：增加文件数量统计功能
 - [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
 
@@ -394,6 +394,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 - [[obsidian-plugin-groups]]：帮你轻松地分组和管理 Obsidian 第三方插件，启动关闭，加载插件
 - [[obsidian42-brat]]：让你可以安装未上架的插件、主题
+- [[quick-plugin-switcher]]：更轻松的管理插件的启用
 - [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 
 ### 语言
