@@ -1,20 +1,20 @@
 ---
 uid: 20230803110853
-title: 给列表添加动态引导线
+title: Obsidian样式-给列表添加动态引导线
 tags: [样式, 列表]
 description: 仿照logseq的Bullet Threading插件的动态引导线
 author: calmwaves
 type: other
 draft: false
 editable: false
-modified: 20230803111119
+modified: 20230808092029
 ---
 
-# 给列表添加动态引导线
+# Obsidian 样式 - 给列表添加动态引导线
 
 ## 效果
 
-![[guideline.gif]]
+![guideline](https://cdn.pkmer.cn/images/202308080918309.gif)
 
 ## css 片段
 
