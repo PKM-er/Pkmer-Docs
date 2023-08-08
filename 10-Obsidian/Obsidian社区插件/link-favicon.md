@@ -22,7 +22,7 @@ modified: 20230531200237
 > - 插件名称：Link Favicons
 > - 插件作者：Johannes Theiner
 > - 插件说明：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标。
-> - 插件项目地址：[点我跳转](https://github.com/nekoshita/obsidian-auto-card-link)
+> - 插件项目地址：[点我跳转](https://github.com/joethei/obsidian-link-favicon)
 
 >[!tip] sfsf
 >[百度](http://www.baidu.com)

@@ -1,6 +1,6 @@
 ---
 uid: 20230726211351
-title: Copy-Image-and-URL-context-menu
+title: Obsidian 插件：Copy Image and URL context menu 增强图片处理功能
 tags: [Obsidian, 插件]
 description: 为右键菜单提供复制图片和网址的功能
 author: calmwaves
@@ -10,7 +10,7 @@ editable: false
 modified: 20230729230626
 ---
 
-# Copy-Image-and-URL-context-menu
+# Obsidian 插件：Copy Image and URL context menu 增强图片处理功能
 
 ## 概述
 
@@ -18,7 +18,7 @@ modified: 20230729230626
 > - 插件名称：Copy Image and URL context menu
 > - 插件版本：1.5.0
 > - 插件作者：NomarCub
-> - 插件说明：为右键菜单提供了一些新功能，包括复制图像，复制网址等。
+> - 插件说明：为图片增加右键菜单，并提供了一些新功能，包括复制图像，复制网址等。
 > - 插件项目地址：[点我跳转](https://github.com/NomarCub/obsidian-copy-url-in-preview)
 
 ## 效果

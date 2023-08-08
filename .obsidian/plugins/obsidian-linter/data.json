@@ -25,7 +25,7 @@
       "text-to-insert": "uid:\ntitle:\ntags: \ndescription:\nauthor: \ntype: other\ndraft: false\neditable: false\nmodified:  "
     },
     "move-tags-to-yaml": {
-      "enabled": true,
+      "enabled": false,
       "how-to-handle-existing-tags": "Nothing",
       "tags-to-ignore": ""
     },
@@ -41,10 +41,10 @@
     },
     "yaml-timestamp": {
       "enabled": true,
-      "date-created": true,
+      "date-created": false,
       "date-created-key": "uid",
       "force-retention-of-create-value": false,
-      "date-modified": true,
+      "date-modified": false,
       "date-modified-key": "modified",
       "format": "YYYYMMDDHHmmss"
     },
@@ -225,11 +225,20 @@
       "enabled": false,
       "characters-to-remove-space-before": ",!?;:).’”]",
       "characters-to-remove-space-after": "¿¡‘“(["
+    },
+    "quote-style": {
+      "enabled": false,
+      "single-quote-enabled": true,
+      "single-quote-style": "''",
+      "double-quote-enabled": true,
+      "double-quote-style": "\"\""
     }
   },
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
+  "lintOnFileChange": false,
+  "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "Resource",

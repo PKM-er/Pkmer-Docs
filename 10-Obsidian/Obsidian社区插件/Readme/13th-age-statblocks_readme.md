@@ -1,9 +1,9 @@
 ---
-uid: 20230802224923
+uid: 2023080322132709
 title: Obsidian 插件：【Readme】13th Age Statblocks
 tags: ['obsidian插件', 'readme']
 description: 在黑曜石中渲染13世纪的状态块。
-author: ben
+author: AI
 type: readme
 draft: false
 editable: false
@@ -15,48 +15,57 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：13th Age Statblocks
 > - 插件作者：ben
-> - 插件说明：在黑曜石中渲染13世纪的状态块。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：在黑曜石中渲染 13 世纪的状态块。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ben/obsidian-13th-age-statblocks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?13th-age-statblocks)
 
 ## 概述
 
-在黑曜石中渲染13世纪的状态块。
+在黑曜石中渲染 13 世纪的状态块。
 
 ![13th Age Statblocks](https://cdn.pkmer.cn/covers/13th-age-statblocks.png!pkmer)
 
 > [!tip] 原文出处
-> 
->下面自述文件的来源于 [readme](https://ghproxy.net/https://raw.githubusercontent.com/ben/obsidian-13th-age-statblocks/master/README.md)
-> 下面是 [[13th-age-statblocks]] 插件的自述翻译
+>
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ben/obsidian-13th-age-statblocks/master/README.md)
+>
 
+---
 
 ## Readme(翻译）
 
+下面是 [[13th-age-statblocks]] 插件的自述翻译
 
-# 13世纪的状态块
+# 13th Age 属性块
 
-这个插件可以渲染13世纪的插件，并包括SRD内容，可以作为你的怪物的依据。
+该插件用于渲染 13th Age 插件，并包含基于 SRD 内容的怪物基础。
 
 ![](https://user-images.githubusercontent.com/39902/149404290-3dcb6793-0437-496d-b066-b2d7d5355374.png)
 
 ![](https://user-images.githubusercontent.com/39902/149404315-5a9d6d45-55da-421b-b424-9596d2f95d55.png)
 
-
 ### 开发
 
-- 克隆此版本。 - `npm i`或`yarn`安装依赖项 - `npm run dev`以观察模式开始编译。
+- 克隆这个仓库。
+- 运行 `npm i` 或 `yarn` 安装依赖。
+- 运行 `npm run dev` 以启动编译并进入监听模式。
 
-### 手动安装该插件
+### 手动安装插件
 
-- 复制`main.js`, `styles.css`, `manifest.json`到你的保险库`VaultFolder/.obsidian/plugins/13th-age-statblocks/`。
+- 将 `main.js`、`styles.css`、`manifest.json` 复制到你的 vault `VaultFolder/.obsidian/plugins/13th-age-statblocks/` 目录下。
 
-### 用eslint提高代码质量（可选） - [ESLint](https://eslint.org/)是一个分析代码的工具，可以快速发现问题。你可以对你的插件运行ESLint，找到常见的错误和改进代码的方法。 - 要在这个项目中使用eslint，确保从终端安装eslint： - `npm install -g eslint` - 要使用eslint分析这个项目，使用这个命令： - `eslint main.如果你的源代码在一个文件夹中，例如 "src"，你可以用这个命令来分析该文件夹中的所有文件： - `eslint .src\` - eslint将创建一个报告，并按文件和行号提出改进建议。
+### 使用 eslint 提高代码质量（可选）
 
+- [ESLint](https://eslint.org/) 是一个分析代码以快速发现问题的工具。您可以运行 ESLint 来分析您的插件，以找出常见的错误和改进代码的方法。
+- 要在此项目中使用 eslint，请确保从终端安装 eslint：
+  - `npm install -g eslint`
+- 要使用 eslint 分析此项目，请使用以下命令：
+  - `eslint main.ts`
+  - eslint 将根据文件和行号创建一个报告，提供代码改进的建议。
+- 如果您的源代码在一个文件夹中，比如 `src`，您可以使用以下命令使用 eslint 分析该文件夹中的所有文件：
+  - `eslint .\src\`
 
-### API文档
+### API 文档
 
-参见https://github.com/obsidianmd/obsidian-api
-
-
+请参阅<https://github.com/obsidianmd/obsidian-api>
