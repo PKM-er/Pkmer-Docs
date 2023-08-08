@@ -35,6 +35,7 @@ Obsidian 的可嵌入式 Pikchr 图表渲染器插件
 
 ## Readme(翻译）
 
+
 下面是 [[adamantine-pick]] 插件的自述翻译
 
 ![GitHub发布（包括预发布）的最新日期](https://img.shields.io/github/v/release/notlibrary/obsidian-adamantine-pick?style=for-the-badge&sort=semver)
