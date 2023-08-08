@@ -41,7 +41,7 @@
     },
     "yaml-timestamp": {
       "enabled": true,
-      "date-created": false,
+      "date-created": true,
       "date-created-key": "uid",
       "force-retention-of-create-value": false,
       "date-modified": false,
