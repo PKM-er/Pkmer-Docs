@@ -1,7 +1,7 @@
 ---
 uid: 20230412141451
 title: Obsidian 新手指南
-tags:  [obsidain,教程]
+tags: [obsidain, 教程]
 description: Obsidian 新手指南
 author: windilycloud
 type: tutorial
@@ -89,6 +89,9 @@ Obsidian 是什么？是一款背靠社区生态，可以自己打造的知识�
 	- 如果不能访问 Play 商店，那么 [官方中文论坛](https://forum-zh.obsidian.md/) 的 [这个帖子](https://forum-zh.obsidian.md/t/topic/13718) 也可以下载各版本的安装包
 - iOS 、iPadOS：到苹果商店下载即可。
 - 社区互助：QQ 群：774176839
+- 如果你希望了解更加直观，可以参看下面社区制作的系列视频，也可以关注我们的 B 站账号，和微信公众号：PKMer 知识社区
+
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1fp4y137vg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 
 ## 设置语言
 
@@ -100,10 +103,10 @@ Obsidian 是什么？是一款背靠社区生态，可以自己打造的知识�
 
 ## 教程
 
-![image.png](https://cdn.pkmer.cn/images/d54eb4d020e788a5008876c1f2b23823_MD5.png!pkmer)
+![image.png|568](https://cdn.pkmer.cn/images/d54eb4d020e788a5008876c1f2b23823_MD5.png!pkmer)
 
 接下来，点击左下角的问号，可浏览官方中文文档，大致过一遍即可。同时你也可以在沙箱仓库随意尝试。
 
-![image.png](https://cdn.pkmer.cn/images/5cc99249b4f2439d3ec75814b9c19fc0_MD5.png!pkmer)
+![image.png|550](https://cdn.pkmer.cn/images/5cc99249b4f2439d3ec75814b9c19fc0_MD5.png!pkmer)
 
 接下来：[[Obsidian最简使用]]
