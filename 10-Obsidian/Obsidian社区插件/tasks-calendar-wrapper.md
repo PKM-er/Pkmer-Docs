@@ -23,6 +23,7 @@ modified: 20230723205513
 > - 插件作者：Leonezz
 > - 插件说明：Obsidian 任务的时间线及日历视图。
 > - 插件项目地址：[点我跳转](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tasks-calendar-wrapper)
 
 > [!Warning]
 > 2023.05.14

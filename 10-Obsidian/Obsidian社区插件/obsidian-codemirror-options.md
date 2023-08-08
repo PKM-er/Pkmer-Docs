@@ -24,6 +24,7 @@ Obsidian CodeMirror Options 是一种非常适合用来编辑和渲染 Markdown�
 > - 插件作者：NothingIsLost
 > - 插件描述：强化代码输入和编辑体验
 > - 插件项目地址：[点我跳转](https://github.com/nothingislost/obsidian-codemirror-options)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-codemirror-options)
 
 ## 效果&特性
 

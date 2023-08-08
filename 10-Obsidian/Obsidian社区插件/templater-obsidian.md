@@ -22,6 +22,7 @@ Templater 号称 Obsidian 四大金刚之一 ([[quickadd]],[[dataview]],[[obsidi
 > - 插件说明：增强模板，你可以通过创建和编辑自定义模板，达到快速创建笔记结构。
 > - 插件分类：模板, 自动化
 > - 插件项目地址：[点我访问](https://github.com/SilentVoid13/Templater)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?templater-obsidian)
 > - 官方文档: [Introduction - Templater (silentvoid13.github.io)](https://silentvoid13.github.io/Templater/)
 
 ## 功能介绍

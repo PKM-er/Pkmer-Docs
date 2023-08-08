@@ -23,6 +23,7 @@ modified: 20230603021145
 > - 插件作者：visini
 > - 插件说明：提供插入图标符号的功能。
 > - 插件项目地址：[点我跳转](https://github.com/visini/obsidian-icons-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-icons-plugin)
 
 >[!Warning] 注意
 >- 兼容：这个插件目前运行尚算良好

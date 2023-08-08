@@ -23,6 +23,7 @@ modified: 20230705144849
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：提供了一个全新的增强型文件管理器。
 > - 插件项目地址：[点我跳转](https://github.com/ozntel/file-tree-alternative)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-tree-alternative)
 
 ## 效果&特性
 

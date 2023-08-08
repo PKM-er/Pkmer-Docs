@@ -22,6 +22,7 @@ modified: 20230603021818
 > - 插件作者：skelato1
 > - 插件描述：可以更轻松地折叠（和展开）侧边栏
 > - 插件项目地址：[点我跳转](https://github.com/skelato1/obsidian-auto-hide/tree/master)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-auto-hide)
 
 ## 效果&特性
 

@@ -21,6 +21,7 @@ modified: 20230706191022
 > - 插件作者：Dmitry Savosh
 > - 插件说明：记住每个文件光标和滚动位置
 > - 插件项目地址：[点我跳转](https://github.com/dy-sh/obsidian-remember-cursor-position)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?remember-cursor-position)
 
 ## 效果&特性
 

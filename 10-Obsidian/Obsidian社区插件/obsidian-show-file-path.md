@@ -24,6 +24,7 @@ modified: 20230603015653
 > - 插件作者：Ravi Mashru
 > - 插件描述：显示正在编辑的文件所在的路径
 > - 插件项目地址：[点我跳转](https://github.com/ravimashru/obsidian-show-file-path)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-show-file-path)
 
 > [!Tip] 提示
 > - 如果你只是想显示路径，那么 Obsidian 现在的版本已经默认支持此功能

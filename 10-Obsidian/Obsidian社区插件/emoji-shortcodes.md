@@ -21,6 +21,7 @@ Emoji Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的�
 > - 插件作者：phibr0
 > - 插件说明：通过键入 emoji 对应的短代码方式，快速筛选和输入
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/obsidian-icon-shortcodes)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?emoji-shortcodes)
 
 ## 效果&特性
 

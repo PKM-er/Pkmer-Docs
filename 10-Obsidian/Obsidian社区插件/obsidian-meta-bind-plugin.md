@@ -23,6 +23,7 @@ modified: 20230715000559
 > - 插件作者：Moritz Jung
 > - 插件说明：让你的笔记具有交互性，通过各种控件修改笔记信息
 > - 插件项目地址：[点我跳转](https://github.com/mProjectsCode/obsidian-meta-bind-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-meta-bind-plugin)
 
 ## 效果&特性
 

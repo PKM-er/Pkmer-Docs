@@ -19,6 +19,7 @@ modified: 20230517161809
 > - 插件作者：Luke Leppan
 > - 插件说明：
 > - 插件项目地址：[点我跳转](https://github.com/lukeleppan/better-word-count)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-word-count)
 
 ## 效果&特性
 

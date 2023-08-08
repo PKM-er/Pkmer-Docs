@@ -19,6 +19,7 @@ modified: 20230603014203
 > - 插件作者：Tony Grosinger
 > - 插件说明：改进了表格导航、格式和操作
 > - 插件项目地址：[点我跳转](https://github.com/tgrosinger/advanced-tables-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?table-editor-obsidian)
 
 ## 效果&特性
 

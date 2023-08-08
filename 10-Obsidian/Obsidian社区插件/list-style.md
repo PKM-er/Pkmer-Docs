@@ -22,6 +22,7 @@ modified: 20230725235050
 > - 插件作者：erykwalder
 > - 插件描述：在文本行内通过标准的 list style typs，来实现有序列表的多种不同的层级、样式的前缀符号样式。
 > - 插件项目地址：[点我跳转](https://github.com/erykwalder/obsidian-list-style)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?list-style)
 
 ## 效果&特性
 

@@ -18,6 +18,7 @@ modified: 20230715000813
 > - 插件作者：[No3371](https://github.com/No3371)
 > - 插件描述：Regex Pipeline 是一款让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用 **正则表达式** 这个强大的文本处理技术可以执行更复杂的文本操作。
 > - 插件项目地址：<https://github.com/No3371/obsidian-regex-pipeline>
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-regex-pipeline)
 
 ## Regex Pipeline 是什么？
 

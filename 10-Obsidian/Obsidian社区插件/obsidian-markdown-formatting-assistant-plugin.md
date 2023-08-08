@@ -18,6 +18,7 @@ modified: 20230603020653
 > - 插件说明：提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示 OB 常用和所有命令提高工作效率。
 > - 插件分类：编辑工具, 编辑器, 效率, 界面相关
 > - 插件项目地址：[点我访问](https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-markdown-formatting-assistant-plugin)
 
 ## 概述
 

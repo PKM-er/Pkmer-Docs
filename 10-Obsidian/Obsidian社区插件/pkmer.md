@@ -28,6 +28,7 @@ modified: 20230803101521
 > - 插件作者：PKMer(windily-cloud&cumany)
 > - 插件描述：这是一款 Obsidian 插件，旨在帮助国内用户轻松自由的访问优秀的 Obsidian 插件、主题
 > - 插件项目地址：[点我跳转](https://pkmer.cn/products/market/)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pkmer)
 
 > [!Tip] 提示
 > - 插件

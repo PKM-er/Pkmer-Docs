@@ -20,6 +20,7 @@ modified: 20230630100436
 > - 插件作者：TfTHacker
 > - 插件说明：让你可以安装未上架的插件，主题。
 > - 插件项目地址：[点我跳转](https://github.com/TfTHacker/obsidian42-brat)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian42-brat)
 
 ## 效果&特性
 

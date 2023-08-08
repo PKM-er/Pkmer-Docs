@@ -19,6 +19,7 @@ Quiet Outline，是增强大纲插件，按需自动展开大纲，可设定展�
 > - 插件作者：guopenghui
 > - 插件说明：增强大纲插件，按需自动展开大纲
 > - 插件项目地址：[点我跳转](https://github.com/guopenghui/obsidian-quiet-outline)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-quiet-outline)
 
 ## 效果&特性
 

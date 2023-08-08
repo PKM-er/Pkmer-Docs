@@ -22,6 +22,7 @@ modified: 20230730133521
 > - 插件作者：sissilab
 > - 插件说明：提供笔记中查看图片的基本操作
 > - 插件项目地址：[点我跳转](https://github.com/sissilab/obsidian-image-toolkit)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-image-toolkit)
 
 ## 效果&特性
 

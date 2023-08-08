@@ -23,6 +23,7 @@ date: 2023-07-29
 > - 插件版本：0.1.2
 > - 插件说明：提供笔记中查看图片的基本操作
 > - 插件项目地址：[点我跳转](https://github.com/AwesomeDog/obsidian-awesome-image)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?awesome-image)
 
 ## 效果&特性
 

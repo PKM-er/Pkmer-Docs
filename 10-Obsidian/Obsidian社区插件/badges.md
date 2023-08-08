@@ -22,6 +22,7 @@ modified: 20230727115401
 > - 插件作者：gapmiss
 > - 插件描述：一个简易插件，通过内置的样式来在 Obsidian 中获得简易的徽章效果
 > - 插件项目地址：[点我跳转](https://github.com/gapmiss/badges)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?badges)
 
 ## 效果&特性
 

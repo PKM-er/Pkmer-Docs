@@ -24,6 +24,7 @@ Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
 > - 插件作者：sonarAIT
 > - 插件说明：Obsidian 内置 CodeMirror 编辑器的补丁，支持日语分词
 > - 插件项目地址：[点我跳转](https://github.com/sonarAIT/cm-japanese-patch)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?japanese-word-splitter)
 
 ## 效果&特性
 

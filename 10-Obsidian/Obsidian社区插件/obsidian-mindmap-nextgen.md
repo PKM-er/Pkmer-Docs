@@ -21,6 +21,7 @@ modified: 20230604174042
 > - 插件作者：VeroCloud Pty Ltd (original by James Lynch)
 > - 插件说明：用于将笔记预览为 Markmap 思维导图
 > - 插件项目地址：[点我访问](https://github.com/verocloud/obsidian-mindmap-nextgen)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-mindmap-nextgen)
 
 ## 使用
 

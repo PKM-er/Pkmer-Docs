@@ -21,6 +21,7 @@ Obsidian 默认情况下你自动创建的文件或者从文件浏览器中创�
 > - 插件作者：numeroflip
 > - 插件说明：在创建文件时自动打开一个命令窗口让你插入模板。
 > - 插件项目地址：[点我跳转](https://github.com/numeroflip/obsidian-auto-template-prompt)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-auto-template-prompt)
 
 ## 效果&特性
 

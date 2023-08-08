@@ -21,6 +21,7 @@ modified: 20230517230330
 > - 插件作者：ckRobinson
 > - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
 > - 插件项目地址：[点我跳转](https://github.com/ckRobinson/multi-column-markdown)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?multi-column-markdown)
 
 ## 效果&特性
 

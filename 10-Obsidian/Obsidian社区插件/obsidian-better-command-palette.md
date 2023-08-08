@@ -25,6 +25,7 @@ modified: 20230710232759
 > - 插件作者：Alex Bieg
 > - 插件描述：为命令面板添加了一个更用户友好、功能更丰富的强化
 > - 插件项目地址：[点我跳转](https://github.com/AlexBieg/obsidian-better-command-palette)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-better-command-palette)
 
 ## 效果&特性
 

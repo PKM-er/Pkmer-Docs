@@ -18,6 +18,7 @@ modified: 20230614215020
 > - 插件作者：rizerphe
 > - 插件描述：通过 chatGPT 根据上下文自动自动补全内容
 > - 插件项目地址：[rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?companion)
 
 ## 概述
 

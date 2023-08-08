@@ -18,6 +18,7 @@ modified: 20230703164552
 > - 插件说明：为 Obsidian 增加将笔记导出各种文件格式的能力例如 DOCX、ePub 和 PDF。此插件不能独立运行，需要配合 Pandoc 额外程序才可以。
 > - 插件分类：第三方工具集成, 转换工具, PDF
 > - 插件项目地址：[点我访问](https://github.com/OliverBalfour/obsidian-pandoc)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-pandoc)
 
 ## 概述
 

@@ -21,6 +21,7 @@ modified: 20230613222349
 > - 插件作者：Wanxp
 > - 插件说明：给 Obsidian 增加和豆瓣信息同步的能力
 > - 插件项目地址：[点我跳转](https://github.com/Wanxp/obsidian-douban)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-douban-plugin)
 
 ## 安装
 

@@ -21,6 +21,7 @@ modified: 20230515233648
 > - 插件作者：SebastianMC
 > - 插件说明：通过 YAML 语法给 Obsidian 的文件管理器增加自定义排序的功能
 > - 插件项目地址：[点我跳转](https://github.com/SebastianMC/obsidian-custom-sort)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?custom-sort)
 
 ### 原理
 

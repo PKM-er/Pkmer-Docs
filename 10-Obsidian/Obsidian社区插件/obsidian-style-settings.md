@@ -23,6 +23,7 @@ modified: 20230604174507
 > - 插件作者：mgmeyers
 > - 插件说明：给主题，插件，css 片段提供样式设置的插件
 > - 插件项目地址：[点我跳转](https://github.com/mgmeyers/obsidian-style-settings/)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-style-settings)
 
 ## 效果&特性
 

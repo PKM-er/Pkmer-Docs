@@ -21,6 +21,7 @@ Spaced Repetition(SR) 是的利用遗忘曲线间隔重复复习抽认卡片和�
 > - 插件作者：Stephen Mwangi
 > - 插件说明：利用遗忘曲线间隔重复复习抽认卡片和笔记来防止笔记遗忘
 > - 插件项目地址：[点我跳转](https://github.com/st3v3nmw/obsidian-spaced-repetition)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-spaced-repetition)
 
 ## 基本使用
 

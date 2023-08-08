@@ -20,6 +20,7 @@ modified: 20230729230626
 > - 插件作者：NomarCub
 > - 插件说明：为图片增加右键菜单，并提供了一些新功能，包括复制图像，复制网址等。
 > - 插件项目地址：[点我跳转](https://github.com/NomarCub/obsidian-copy-url-in-preview)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?Copy-Image-and-URL-context-menu)
 
 ## 效果
 

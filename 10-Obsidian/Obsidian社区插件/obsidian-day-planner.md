@@ -19,6 +19,7 @@ modified: 20230604172635
 > - 插件作者：James Lynch
 > - 插件说明：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器。
 > - 插件项目地址：[点我跳转](https://github.com/lynchjames/obsidian-day-planner)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-day-planner)
 
 ## 特性&效果
 

@@ -23,6 +23,7 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的短
 > - 插件作者：AidenLx
 > - 插件说明：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合。
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/obsidian-icon-shortcodes)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-icon-shortcodes)
 
 ## 使用
 

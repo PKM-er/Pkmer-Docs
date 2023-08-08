@@ -17,6 +17,7 @@ modified: 20230531195957
 > - 插件作者：chetachiezikeuzor
 > - 插件说明：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽。
 > - 插件项目地址：[chetachiezikeuzor/cMenu-Plugin](https://github.com/chetachiezikeuzor/cMenu-Plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cmenu-plugin)
 
 ## 概述
 

@@ -23,6 +23,7 @@ Obsidian 本来已经有很多种利用任务标签符号，来添加不同的�
 > - 插件作者：Okami Wong
 > - 插件说明：自定义任务状态样式。
 > - 插件项目地址：[点我跳转](https://github.com/OkamiWong/obsidian-custom-state-for-task-list)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?custom-state-for-task-list)
 
 ## 效果&特性
 

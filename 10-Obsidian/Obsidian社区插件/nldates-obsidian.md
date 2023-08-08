@@ -21,6 +21,7 @@ modified: 20230515233930
 > - 插件作者：argenos
 > - 插件说明：使用自然语言插入时间戳，并链接对应笔记中。
 > - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?nldates-obsidian)
 
 >[!Tips] 提示
 >- 该插件已经支持多种语言书写方式，包括英文、中文、日语等多国语言的日期描述词汇。比如中文的：今日，当日，昨日，明日等。

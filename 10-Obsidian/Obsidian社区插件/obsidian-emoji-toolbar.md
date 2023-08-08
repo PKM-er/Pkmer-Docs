@@ -25,6 +25,7 @@ modified: 20230604172700
 >- 插件作者：oliveryh
 >- 插件说明：快速搜索表情符号并将其插入到您的编辑器中。
 >- 插件项目地址：[点我跳转](https://github.com/oliveryh/obsidian-emoji-toolbar)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-emoji-toolbar)
 
 ## 效果&特性
 

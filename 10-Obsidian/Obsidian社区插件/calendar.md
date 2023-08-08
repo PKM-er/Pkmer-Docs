@@ -23,6 +23,7 @@ modified: 20230531195856
 > - 插件作者：Liam Cain
 > - 插件说明：为 Obsidian 添加一个简单日历功能
 > - 插件项目地址：[点我跳转](https://github.com/liamcain/obsidian-calendar-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?calendar)
 
 ## 特性&效果
 

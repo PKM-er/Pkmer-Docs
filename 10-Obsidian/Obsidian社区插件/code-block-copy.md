@@ -21,6 +21,7 @@ modified: 20230515233930
 > - 插件作者：jdbrice
 > - 插件说明：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板。
 > - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?code-block-copy)
 > - 适配：仅适用于 Obsidian v0.9.7 及以上
 
 >[!Warning] 注意

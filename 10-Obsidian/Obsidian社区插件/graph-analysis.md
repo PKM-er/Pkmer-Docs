@@ -22,6 +22,7 @@ modified: 20230801235457
 > - 插件作者：SkepticMystic
 > - 插件描述：将图形分析能力添加到 Obsidian，此插件实现了一套算法，可以计算仓库中的笔记之间的关联关系。
 > - 插件项目地址：[点我跳转](https://github.com/juanjoarranz/style-text-obsidian-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?graph-analysis)
 
 ## 基本功能
 

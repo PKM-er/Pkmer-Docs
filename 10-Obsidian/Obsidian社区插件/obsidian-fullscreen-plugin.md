@@ -25,6 +25,7 @@ Obsidian 确实提供了相当丰富的功能和工作空间，这些功能和�
 > - 插件作者：Razum
 > - 插件说明：让笔记编辑器变为聚焦模式，或说全屏化
 > - 插件项目地址：[点我跳转](https://github.com/Razumihin/obsidian-fullscreen-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-fullscreen-plugin)
 
 ## 效果&特性
 

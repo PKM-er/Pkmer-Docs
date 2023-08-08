@@ -24,6 +24,7 @@ Emoji Magic 是一款针对 Obsidian 的表情 Magic 插件，它可以让你通
 > - 插件作者：simplgy
 > - 插件描述：允许使用关键字搜索 emoji 表情符号，轻松添加到笔记中
 > - 插件项目地址：[点我跳转](https://github.com/SimplGy/obsidian-emoji-magic)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?emoji-magic)
 
 ## 效果&特性
 

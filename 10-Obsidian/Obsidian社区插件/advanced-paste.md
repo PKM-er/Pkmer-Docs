@@ -18,6 +18,7 @@ modified: 20230717131108
 > - 插件作者：[kxxt](https://github.com/kxxt) (国人)
 > - 插件描述：此插件可以提供多个高级命令并允许创建用于粘贴的自定义转换功能
 > - 插件项目地址：[点我跳转](https://github.com/kxxt/obsidian-advanced-paste)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?advanced-paste)
 
 ## 特性&效果
 

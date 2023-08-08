@@ -18,6 +18,7 @@ modified: 20230712172437
 > - 插件说明：一个可以在 obsidian 里运行 echarts 的插件，具体可以参考官方示例库代码。插件需要依赖 dataview 插件
 > - 插件分类：图表生成, 美化
 > - 插件项目地址：[点我访问](https://github.com/cumany/obsidian-echarts)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-echarts)
 
 ## 概述
 

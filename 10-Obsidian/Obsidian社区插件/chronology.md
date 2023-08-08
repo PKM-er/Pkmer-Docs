@@ -22,6 +22,7 @@ modified: 20230607102344
 > - 插件作者：Gabriele Cannata
 > - 插件描述：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
 > - 插件项目地址：[点我跳转](https://github.com/Canna71/obsidian-chronology/tree/master)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chronology)
 
 ## 效果&特性
 

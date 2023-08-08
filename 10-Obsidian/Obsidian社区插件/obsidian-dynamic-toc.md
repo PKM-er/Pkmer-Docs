@@ -21,6 +21,7 @@ modified: 20230725233649
 > - 插件作者：Aidurber
 > - 插件说明：帮助你在笔记中生成对应的目录
 > - 插件项目地址：[点我跳转](https://github.com/Aidurber/obsidian-plugin-dynamic-toc)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dynamic-toc)
 > - 优点：自动将你新输入的标题，整合到目录中
 
 >[!Warning] 注意

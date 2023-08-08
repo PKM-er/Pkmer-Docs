@@ -21,6 +21,7 @@ Obsidian Windows 端通常不支持将其缩小至右下角的托盘区域。本
 > - 插件作者：dragonwocky
 > - 插件说明：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘。
 > - 插件项目地址：[点我跳转](https://github.com/dragonwocky/obsidian-tray)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tray)
 
 ## 效果&特性
 

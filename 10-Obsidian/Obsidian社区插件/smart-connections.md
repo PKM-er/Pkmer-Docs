@@ -18,6 +18,7 @@ modified: 20230613100602
 > - 插件作者：Brian Petro
 > - 插件描述：基于 OpenAI 提供的 api 查询本地库，推荐笔记链接，分析笔记相关性
 > - 插件项目地址：[brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?smart-connections)
 
 ## 概述
 

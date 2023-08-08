@@ -21,6 +21,7 @@ modified: 20230604172758
 > - 插件作者：Darakah
 > - 插件说明：让你收集的图片，在笔记中可以按照画廊模式展示。
 > - 插件项目地址：[点我跳转](https://github.com/Darakah/obsidian-gallery)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-gallery)
 
 > [!WARNING]
 > 需要 Obsidian 版本至少 1.1.8

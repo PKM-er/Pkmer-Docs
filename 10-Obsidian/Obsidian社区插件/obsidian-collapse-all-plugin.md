@@ -21,6 +21,7 @@ modified: 20230603021926
 > - 插件作者：OfficerHalf
 > - 插件说明：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹。
 > - 插件项目地址：[点我跳转](https://github.com/OfficerHalf/obsidian-collapse-all)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-collapse-all-plugin)
 
 >[!Tip] 提示
 >- Obsidian 官方已经在 0.16.0 及以后插件支持了此插件的功能

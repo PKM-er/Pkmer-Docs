@@ -24,6 +24,7 @@ modified: 20230801185143
 > - 插件作者：Juanjo Arranz
 > - 插件描述：自定义 CSS 样式应用于笔记中的选定文本
 > - 插件项目地址：[点我跳转](https://github.com/juanjoarranz/style-text-obsidian-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?style-text)
 
 ## 效果&特性
 

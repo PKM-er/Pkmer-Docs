@@ -21,6 +21,7 @@ modified: 20230604172816
 > - 插件作者：FlorianWoelki
 > - 插件说明：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件。
 > - 插件项目地址：[点我跳转](https://github.com/FlorianWoelki/obsidian-icon-folder)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-icon-folder)
 
 ## 效果
 

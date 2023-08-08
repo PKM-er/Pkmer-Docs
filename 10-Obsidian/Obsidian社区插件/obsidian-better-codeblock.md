@@ -18,6 +18,7 @@ modified: 20230714125758
 > - 插件说明：在阅读视图中为代码块添加标题、行号和折叠按钮
 > - 插件分类：0
 > - 插件项目地址：[点我访问](https://github.com/stargrey/obsidian-better-codeblock)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-better-codeblock)
 
 ## 概述
 

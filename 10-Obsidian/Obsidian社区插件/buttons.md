@@ -22,6 +22,7 @@ modified: 20230531195834
 > - 插件说明：在 Obsidian 笔记中创建按钮，执行相关运行命令。按钮样式支持自定义，支持调用 Ob 命令和其他插件命令，也可以执行 JS 脚本命令。
 > - 插件分类：自动化, 效率
 > - 插件项目地址：[点我访问](https://github.com/shabegom/buttons)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?buttons)
 
 ## 特性
 

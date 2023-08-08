@@ -21,6 +21,7 @@ modified: 20230608211708
 > - 插件作者：SErAphLi
 > - 插件说明：帮你将网页 URL 转换为嵌入预览卡片样式。
 > - 插件项目地址：[点我跳转](https://github.com/Seraphli/obsidian-link-embed)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-link-embed)
 
 ## 效果&特性
 

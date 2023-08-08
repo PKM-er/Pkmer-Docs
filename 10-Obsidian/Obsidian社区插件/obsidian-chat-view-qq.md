@@ -18,6 +18,7 @@ modified: 20230715213636
 > - 插件作者：[LincZero](https://github.com/LincZero/)
 > - 插件描述：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
 > - 插件项目地址：[点击跳转](https://github.com/LincZero/obsidian-chat-view-qq/tree/v0.4.0)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-chat-view-qq)
 
 ## 概述
 

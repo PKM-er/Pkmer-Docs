@@ -19,6 +19,7 @@ modified: 20230604172542
 > - 插件作者：Jeremy Valentine
 > - 插件说明：Obsidian 的块样式，你可以自己定义各种增强块样式，比如警告，笔记，提醒等
 > - 插件项目地址：[点我访问](https://github.com/valentine195/obsidian-admonition)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-admonition)
 
 由于 Obsidian 0.14 版本内置了 callout 功能，admontion 插件 9(简称 AD 插件) 9.0 以后已经演变成了 callout 辅助工具，所以只要是 callout 支持的类型，或者自定义的 callout 类型，ad 写法也是支持的。虽然 ad 的功能一定程度上被替代，但在某些功能特性上仍然有不可替代的作用。
 

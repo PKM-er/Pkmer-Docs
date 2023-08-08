@@ -21,6 +21,7 @@ modified: 20230604173754
 > - 插件作者：guopenghui
 > - 插件说明：辅助你在 Obsidian 英语学习，提供查词，生词等功能。
 > - 插件项目地址：[点我跳转](https://github.com/guopenghui/obsidian-language-learner)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-language-learner)
 
 ## 效果&特性
 

@@ -21,6 +21,7 @@ Fuzzy Chinese Pinyin 提供中文拼音搜索的功能，其他功能与核心�
 > - 插件作者：lazyloong
 > - 插件说明：可以基于汉语拼音进行模糊搜索
 > - 插件项目地址：[点我跳转](https://github.com/lazyloong/obsidian-fuzzy-chinese)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?fuzzy-chinese-pinyin)
 
 ## 效果&特性
 

@@ -21,6 +21,7 @@ modified: 20230604174756
 > - 插件作者：fyears
 > - 插件说明：来获取和插入当前的天气到笔记编辑器的插件。
 > - 插件项目地址：[点我跳转](https://github.com/fyears/weather-fetcher)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?weather-fetcher)
 
 >[!Tip] 提示
 >- 此插件仅支持英文

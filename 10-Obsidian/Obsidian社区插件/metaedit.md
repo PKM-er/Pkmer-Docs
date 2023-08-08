@@ -18,6 +18,7 @@ modified: 20230604172518
 > - 插件说明：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值。
 > - 插件分类：编辑工具, 效率
 > - 插件项目地址：[点我访问](https://github.com/chhoumann/MetaEdit)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?metaedit)
 
 ## 概述
 

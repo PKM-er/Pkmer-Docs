@@ -21,6 +21,7 @@ modified: 20230604174631
 > - 插件作者：Manic Chuang
 > - 插件说明：给选中文本加上前后标签。
 > - 插件项目地址：[点我跳转](https://github.com/manic/obsidian-wrap-with-shortcuts)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-wrap-with-shortcuts)
 
 ## 效果&特性
 

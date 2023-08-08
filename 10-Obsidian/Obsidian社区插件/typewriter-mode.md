@@ -24,6 +24,7 @@ modified: 20230731110201
 > - 插件作者：Davis Riedel
 > - 插件描述：使光标所在行始终处于屏幕某处，降低用 Obsidian 写中长文时用鼠标滚动调整页面的频繁
 > - 插件项目地址：[点我跳转](https://github.com/davisriedel/obsidian-typewriter-mode)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?typewriter-mode)
 
 ## 效果&特性
 

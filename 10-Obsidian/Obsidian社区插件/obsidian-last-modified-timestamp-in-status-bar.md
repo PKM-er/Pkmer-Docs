@@ -21,6 +21,7 @@ modified: 20230603020910
 > - 插件作者：Yustynn
 > - 插件说明：在状态栏可视化你的最后编辑时间。
 > - 插件项目地址：[点我跳转](https://github.com/Yustynn/obsidian-last-modified-timestamp-in-status-bar)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-last-modified-timestamp-in-status-bar)
 
 ## 效果&特性
 

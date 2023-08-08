@@ -21,6 +21,7 @@ modified: 20230604174020
 > - 插件作者：Sergei-Korneev
 > - 插件说明：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 > - 插件项目地址：[点我跳转](https://github.com/Sergei-Korneev/obsidian-local-images-plus)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-local-images-plus)
 
 ## 特性
 

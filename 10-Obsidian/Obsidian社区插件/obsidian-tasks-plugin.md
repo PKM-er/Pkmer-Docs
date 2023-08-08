@@ -22,6 +22,7 @@ modified: 20230530225902
 > - 插件说明：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
 > - 插件分类：任务管理, 自动化
 > - 插件项目地址：[点我访问](https://github.com/obsidian-tasks-group/obsidian-tasks)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tasks-plugin)
 > - 官方文档: [Introduction - Tasks User Guide - Obsidian Publish](https://publish.obsidian.md/tasks/Introduction)
 
 ## 功能

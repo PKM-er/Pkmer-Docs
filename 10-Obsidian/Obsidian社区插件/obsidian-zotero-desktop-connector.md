@@ -22,5 +22,6 @@ modified: 20230801103849
 > - 插件作者：mgmeyers
 > - 插件描述：从 Zotero 插入和导入引文、参考书目、注释和 PDF 注释到 Obsidian。需要 Better BibTeX 为 Zotero 插件。
 > - 插件项目地址：[点我跳转](https://github.com/mgmeyers/obsidian-zotero-integration)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-zotero-desktop-connector)
 
 实战联动指南参考 [[Zotero和Obsidian联动]]

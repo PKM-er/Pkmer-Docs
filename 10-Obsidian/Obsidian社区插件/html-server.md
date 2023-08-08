@@ -26,6 +26,7 @@ Html Server 插件就是为了这个诞生的，帮你把安装了此插件的 O
 > - 插件作者：Pr0dt0s
 > - 插件描述：帮你把 Obsidian 仓库作为一个 web 服务器，同时保持你的主题，并确保你的图像和文件链接的工作
 > - 插件项目地址：[点我跳转](https://github.com/Pr0dt0s/obsidian-html-server)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?html-server)
 
 ## 效果&特性
 

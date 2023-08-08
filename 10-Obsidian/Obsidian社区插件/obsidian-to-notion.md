@@ -21,6 +21,7 @@ Obsidian 是一款流行的个人知识管理和笔记软件，而 Notion 则是
 > - 插件作者：Easychris
 > - 插件描述：一键把 Obsidian 中的文件传输到 Notion 中
 > - 插件项目地址：[点我跳转](https://github.com/EasyChris/obsidian-to-notion)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-to-notion)
 
 想要实现这些功能，我们需要使用 Notion 的集成功能 integrations。
 

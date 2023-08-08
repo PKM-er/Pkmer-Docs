@@ -21,6 +21,7 @@ modified: 20230516193235
 > - 插件作者：Nekoshita Yuki
 > - 插件说明：自动将链接变成卡片样式
 > - 插件项目地址：[点我跳转](https://github.com/nekoshita/obsidian-auto-card-link)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-card-link)
 
 ## 效果&特性
 

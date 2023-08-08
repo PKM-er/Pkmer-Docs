@@ -21,6 +21,7 @@ modified: 20230604174647
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：清除笔记中不再使用的图像以节省空间。
 > - 插件项目地址：[点我跳转](https://github.com/ozntel/oz-clear-unused-images-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?oz-clear-unused-images)
 
 > [!Warning]
 > 对于把 OB 当作图片管理器，或者一些笔记就是图片形式存储的同学。请慎用此插件。

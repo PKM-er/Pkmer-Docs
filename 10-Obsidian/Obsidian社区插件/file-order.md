@@ -22,6 +22,7 @@ modified: 20230802185304
 > - 插件版本：0.0.6
 > - 插件说明：允许你快速给文件夹的文件加上数字编号。
 > - 插件项目地址：[点我跳转](https://github.com/lukasbach/obsidian-file-order)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-order)
 
 ## 效果&特性
 

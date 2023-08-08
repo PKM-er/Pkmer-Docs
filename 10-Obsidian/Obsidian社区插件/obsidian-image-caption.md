@@ -27,6 +27,7 @@ modified: 20230723232249
 > - 插件作者：bicarlsen
 > - 插件说明：为你笔记中的图片添加标题、说明
 > - 插件项目地址：[点我跳转](https://github.com/bicarlsen/obsidian_image_caption)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-image-caption)
 
 有关于图片注释，你看还可以看社区多方面的实践 [[在Obsidian中为图片添加注释]]
 

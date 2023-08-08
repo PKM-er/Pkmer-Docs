@@ -21,6 +21,7 @@ modified: 20230603014453
 > - 插件作者：YuNing Chen
 > - 插件说明：让你在谷歌搜索中搜索 Obsidian 中的笔记。
 > - 插件项目地址：[点我跳转](https://github.com/qazxcdswe123/search-obsidian-in-google)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?search-obsidian-in-google)
 
 ## 效果&特性
 

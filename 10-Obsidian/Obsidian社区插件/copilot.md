@@ -18,6 +18,7 @@ modified: 20230609110515
 > - 插件作者：Logan Yang
 > - 插件描述：一个能像 chatGPT 网页版对话的 Obsidian AI 插件
 > - 插件项目地址：[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copilot)
 
 ## 该市
 
