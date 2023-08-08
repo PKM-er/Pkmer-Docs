@@ -1,10 +1,10 @@
 ---
 uid: 20230805223421
 title: Obsidian 插件：Quick Plugin Switcher——快速插件切换器
-tags: []
-description: 
-author: 
-type: other
+tags: [Obsidian, plugin]
+description: 这个插件简化了管理插件的过程
+author: 熊猫别熬夜
+type: basic
 draft: false
 editable: false
 modified: 20230805224751
@@ -14,7 +14,7 @@ modified: 20230805224751
 
 这个插件简化了管理插件的过程，点击侧边栏的按钮，直接在主界面显示快速切换插件功能区
 
-![[Pasted image 20230805215435.png]]
+![Pasted image 20230805215435](https://cdn.pkmer.cn/images/202308080926318.png!pkmer)
 
 > [!note] Quick Plugin Switcher
 > 插件 ID：quick-plugin-switcher
@@ -26,25 +26,25 @@ modified: 20230805224751
 
 ## 1-Toggle pluggins(切换插件)
 
-![[Pasted image 20230805215708.png]]
+![Pasted image 20230805215708](https://cdn.pkmer.cn/images/202308080926423.png!pkmer)
 
 ## 2-Filterable item list(可筛选项目列表)
 
 - 大多数切换过滤器对最常切换的插件有用
 - 首先启用所有启用的插件在顶部
 
-![[Pasted image 20230805215954.png]]
+![Pasted image 20230805215954](https://cdn.pkmer.cn/images/202308080926915.png!pkmer)
 
 > [!note]
 > 按组分类 (By Group) 前，需要鼠标右键选中的插件分配到指定的 Group，组数大小在插件选项中调整
-> ![[Pasted image 20230805220257.png]]
-> ![[Pasted image 20230805220439.png]]
+> ![Pasted image 20230805220257](https://cdn.pkmer.cn/images/202308080926964.png!pkmer)
+> ![Pasted image 20230805220439](https://cdn.pkmer.cn/images/202308080926962.png!pkmer)
 
 ## 3-Search tool(搜索工具)
 
-![[Pasted image 20230805220517.png]]
+![Pasted image 20230805220517](https://cdn.pkmer.cn/images/202308080926563.png!pkmer)
 
-![[Pasted image 20230805220608.png]]
+![Pasted image 20230805220608](https://cdn.pkmer.cn/images/202308080926893.png!pkmer)
 
 > [!tip]
 > 如果您在搜索的**末尾添加一个空格**，它将修改搜索为“**以…开头**”而不是“**包含**”。
@@ -53,8 +53,8 @@ modified: 20230805224751
 
 每个项目上通过鼠标右键都有一个上下文菜单（**右键单击**）：
 
-![[Pasted image 20230805224902.png]]
+![Pasted image 20230805224902](https://cdn.pkmer.cn/images/202308080926511.png!pkmer)
 
 在此菜单中，您可以禁用和重新启用所有插件：
 
-![[Pasted image 20230805221011.png]]
+![Pasted image 20230805221011](https://cdn.pkmer.cn/images/202308080926080.png!pkmer)
