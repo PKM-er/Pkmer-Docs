@@ -115,7 +115,7 @@ Obsidian 提供了轻便的待办任务体系，通过不同插件，不同主�
 ![image.png](https://cdn.pkmer.cn/images/20230513180320.png!pkmer)
 
 > [!Tip] 相关推荐
-> - [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+> - [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 > - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 > - [[calendar]]：为 Obsidian 添加一个简单日历功能
 > - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
