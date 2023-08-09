@@ -7,14 +7,14 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230530225902
+modified: 20230809120132
 ---
 
 # Obsidian 插件：Tasks 更方便的任务管理
 
 ## 概述
 
-在 obsidian 中做简单的任务管理，就需要 task 插件,它可进行任务添加，设定任务日期，快速汇总查询任务便于进行项目管理。相比 [[dataview]] tasks 插件命令更简洁。
+在 Obsidian 中做简单的任务管理，就需要 task 插件,它可进行任务添加，设定任务日期，快速汇总查询任务便于进行项目管理。相比 [[dataview]] tasks 插件命令更简洁。
 
  > [!Note] 插件名片
 > - 插件名称：Tasks

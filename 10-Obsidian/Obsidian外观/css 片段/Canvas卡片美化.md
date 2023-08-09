@@ -7,12 +7,12 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230608233846
+modified: 20230809120109
 ---
 
 # Obsidian 样式：Canvas 卡片美化
 
-canvas 是 obsidian 的白板插件，默认的卡片框看起来比较单调，可以对白板卡片做一定的美化。
+canvas 是 Obsidian 的白板插件，默认的卡片框看起来比较单调，可以对白板卡片做一定的美化。
 
 ## 卡片文字居中
 

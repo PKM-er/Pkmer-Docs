@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174547
+modified: 20230809120151
 ---
 
 # Obsidian 插件：Archiver 帮你快速归类待办任务
@@ -96,7 +96,7 @@ Obsidian 提供了轻便的待办任务体系，通过不同插件，不同主�
 - `{{date}}`
     - 自动填充当前日期
 - `{{obsidianTasksCompletedDate}}`
-    - 指向任务的完成日期 (✅ 2023-03-29). 通过这种方式，您可以将使用 obsidian-tasks 插件创建的任务存档到它们所属的位置
+    - 指向任务的完成日期 (✅ 2023-03-29). 通过这种方式，您可以将使用 [[obsidian-tasks-plugin]] 插件创建的任务存档到它们所属的位置
 - `{{sourceFileName}}`
     - Resolves to the base name of the file you're in
 - `{{sourceFilePath}}`
