@@ -7,7 +7,7 @@ author: 宝藏斌少
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20230809092921
 ---
 
 # Obsidian Prism 主题：3.3.0 版本 style settings 中文翻译内容
