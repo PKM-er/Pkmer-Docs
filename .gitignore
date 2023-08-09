@@ -8,7 +8,8 @@
 !.obsidian/plugins/obsidian-outliner/
 !.obsidian/plugins/table-editor-obsidian/
 !.obsidian/plugins/obsidian-latex-suite/
-!.obsidian/plugins/templater-obsidian
+!.obsidian/plugins/templater-obsidian/
+!.obsidian/plugins/obsidian-pkmer/
 !.obsidian/app.json
 .history
 # 针对Mac系统的忽略
