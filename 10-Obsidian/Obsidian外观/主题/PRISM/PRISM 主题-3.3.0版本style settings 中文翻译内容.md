@@ -1,13 +1,13 @@
 ---
 uid: 20230804233103
 title: Obsidian Prism 主题：3.3.0 版本 style settings 中文翻译内容
-tags: [Obsidian, 主题, prsim, 使用说明, 中文汉化]
-description: 
-author: 宝藏斌少
+tags: [Obsidian, 主题, prsim, 使用说明, 中文汉化, style settings]
+description: Obsidian Prism 主题：3.3.0 版本 style settings 中文翻译内容
+author: 宝藏彬少
 type: other
 draft: false
 editable: false
-modified: 20230809092921
+modified: 20230809143219
 ---
 
 # Obsidian Prism 主题：3.3.0 版本 style settings 中文翻译内容

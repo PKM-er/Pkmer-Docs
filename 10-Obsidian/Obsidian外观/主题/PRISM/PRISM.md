@@ -1,9 +1,9 @@
 ---
 uid: 20230804233101
 title: PRISM 主题：教程 MOC
-tags: []
-description: 
-author: 宝藏斌少
+tags: [Obsidian,主题,教程,功能指南]
+description: PRISM 主题：教程 MOC
+author: 宝藏彬少
 type: other
 draft: false
 editable: false
