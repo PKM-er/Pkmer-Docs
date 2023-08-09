@@ -7,7 +7,7 @@ author: windilycloud
 type: tutorial
 draft: false
 editable: false
-modified: 20230809161052
+modified: 20230809164728
 ---
 
 # Obsidian 新手指南
@@ -91,9 +91,7 @@ Obsidian 是什么？是一款背靠社区生态，可以自己打造的知识�
 - 社区互助：QQ 群：774176839
 - 如果你希望了解更加直观，可以参看下面社区制作的系列视频，也可以关注我们的 B 站账号，和微信公众号：PKMer 知识社区
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1fp4y137vg&page=1?autoplay=false"  autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
-
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1fp4y137vg&page=1?autoplay=0"  autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1fp4y137vg&page=1&autoplay=false" autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ## 设置语言
 
