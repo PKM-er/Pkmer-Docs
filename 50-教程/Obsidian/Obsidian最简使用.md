@@ -7,7 +7,7 @@ author: Ryooo
 type: tutorial
 draft: false
 editable: false
-modified: 20230530231200
+modified: 20230809164658
 ---
 
 # Obsidian 最简使用
@@ -65,4 +65,5 @@ modified: 20230530231200
 到这里，你已经基本学会了如何创建仓库与笔记。接下来，我们就来学习与知识组织有关的功能——[[Obsidian笔记基本管理]]。
 
 - 如果你希望了解更加直观，可以参看下面社区制作的系列视频，也可以关注我们的 B 站账号，和微信公众号：PKMer 知识社区
-<iframe src="https://player.bilibili.com/player.html?bvid=BV19z4y1s7nk&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
+
+<iframe src="https://player.bilibili.com/player.html?bvid=BV19z4y1s7nk&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
