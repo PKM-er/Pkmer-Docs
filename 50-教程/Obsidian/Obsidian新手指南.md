@@ -93,6 +93,8 @@ Obsidian 是什么？是一款背靠社区生态，可以自己打造的知识�
 
 <iframe src="https://player.bilibili.com/player.html?bvid=BV1fp4y137vg&page=1?autoplay=false"  autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1fp4y137vg&page=1?autoplay=0"  autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
+
 ## 设置语言
 
 下载后打开 Obsidian，如图：
