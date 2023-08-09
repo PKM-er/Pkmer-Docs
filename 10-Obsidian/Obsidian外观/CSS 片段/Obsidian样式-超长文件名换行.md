@@ -2,7 +2,7 @@
 uid: 20230809121941
 title: Obsidian 样式：超长文件名换行或多行显示
 tags: [Obsidian, 样式, 文件名, 换行显示, 多行显示]
-description: 
+description: Obsidian 样式：超长文件名换行或多行显示
 author: 宝藏彬少
 type: other
 draft: false
