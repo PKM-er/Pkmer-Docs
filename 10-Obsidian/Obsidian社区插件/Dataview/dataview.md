@@ -3,11 +3,11 @@ uid: 20230501110213
 title: Obsidian 插件：Dataview
 tags: [Obsidian, 插件, dataview, 数据查询]
 description: Obsidian 插件：Dataview 高性能的索引笔记文件，并创建复杂的查询视图，如表格，列表，任务，日历视图
-author: Windlysoul,Huajin,PKMer
+author: Windysoul,Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810091314
+modified: 20230810174330
 ---
 
 # Obsidian 插件：Dataview
@@ -53,7 +53,7 @@ Dataview 插件的用途主要有三个方面。
 	- [[23 - 操作符]]
 	- [[24 - 表达式]]
 	- [[25 - Funtion 函数]]
-	- [[30 - FAQ]]
+	- [[30 - FAQ-常见问题]]
 	- [[31 - DQL 与 SQL 的异同]]
 	- [[32 - ISO 8601]]
 	- [[33 - YAML 基础]]

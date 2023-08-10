@@ -2,12 +2,12 @@
 uid: 20230724104531
 title: Literals 字面常量
 tags: [obsidian, 插件, dataview, 语法, literals]
-description: 
+description: 基本语法学习指南，Literals 字面常量
 author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230809230142
+modified: 20230810180053
 ---
 
 # Literals 字面常量

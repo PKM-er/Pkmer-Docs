@@ -2,12 +2,12 @@
 uid: 20230724104535
 title: DQL 与 SQL 的区别
 tags: [obsidian, 插件, dataview]
-description: 
+description: 基本语法学习指南，DQL 与 SQL 的区别
 author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230809230108
+modified: 20230810181351
 ---
 
 # DQL 与 SQL 的区别
@@ -29,4 +29,4 @@ DQL 查询从上到下逐行执行。它更像是一个计算机程序，而不�
 - SQL 中没有 FLATTEN 命令，但在 DQL 中，你可以使用它来减少结果集的深度。
 - SQL 使用 Order By 命令排序，DQL 使用 Sort 排序；
 
-下一步，我们介绍下[[32 - ISO 8601]]
+下一步，我们介绍下 [[32 - ISO 8601]]

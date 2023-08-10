@@ -2,12 +2,12 @@
 uid: 20230724104529
 title: YAML
 tags: [obsidian, metadata, yaml]
-description: 
+description: 基本语法学习指南，YAML 语法规则
 author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230809230637
+modified: 20230810180143
 ---
 
 # YAML

@@ -2,12 +2,12 @@
 uid: 20230724104524
 title: Metadata 的数据类型
 tags: [obsidian, metadata]
-description: 
+description: 基本语法学习指南，Metadata 的数据类型
 author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230809230150
+modified: 20230810180036
 ---
 
 # Metadata 的数据类型
