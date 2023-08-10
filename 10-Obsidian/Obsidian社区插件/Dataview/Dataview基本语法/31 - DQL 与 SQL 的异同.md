@@ -28,3 +28,5 @@ DQL 查询从上到下逐行执行。它更像是一个计算机程序，而不�
 - DQL 可以有很多个 WHERE 命令、SORT 命令和 GROUP BY 命令；
 - SQL 中没有 FLATTEN 命令，但在 DQL 中，你可以使用它来减少结果集的深度。
 - SQL 使用 Order By 命令排序，DQL 使用 Sort 排序；
+
+下一步，我们介绍下[[32 - ISO 8601]]

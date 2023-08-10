@@ -56,3 +56,4 @@ metadata:
 2. Metatable：优化 YAML Frontmatter 的显示效果；
 3. Text {{expand}} ：抽取 YAML Frontmatter 的值，类似行内 Dataview 查询；
 4. Juggl：根据 YAML Frontmatter 的内容生成线段联系；
+
