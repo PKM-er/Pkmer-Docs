@@ -1,13 +1,13 @@
 ---
 uid: 20230723144349
 title: Dataview 语法实战
-tags: [obsidian, dataview, 示例]
-description: Dataview 语法实战
+tags: [obsidian, dataview, 示例, 实际教学]
+description: Dataview 语法实战，实际教学，实战
 author: Windysoul,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230809230858
+modified: 20230810175249
 ---
 
 # Dataview 语法实战
@@ -28,7 +28,7 @@ modified: 20230809230858
 
 ## 文章汇总
 
-我们在这里提供了许多使用 Dataview 的案例供大家直接使用。每篇文章实际上是基于我们的 Vault 中的一个 Example 库，Example 库中的文件的 YAML 区域具有名为==主题==和==createdDate==的元数据。如果想要具体使用到自己的笔记中，需要根据自己的笔记作适当修改，比如修改查询的范围要改成自己的笔记中的范围，把查询的条件根据自己的笔记适当修改等。
+我们在这里提供了许多使用 Dataview 的案例供大家直接使用。每篇文章实际上是基于我们的 Vault 中的一个 Example 库，Example 库中的文件的 YAML 区域具有名为==主题==和 ==createdDate== 的元数据。如果想要具体使用到自己的笔记中，需要根据自己的笔记作适当修改，比如修改查询的范围要改成自己的笔记中的范围，把查询的条件根据自己的笔记适当修改等。
 
 - [[添加某一主题笔记列表--表格用法]]
 - [[添加某一主题笔记列表--基本用法]]

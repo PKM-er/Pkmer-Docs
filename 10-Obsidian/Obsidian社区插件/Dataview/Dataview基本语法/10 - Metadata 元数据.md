@@ -2,12 +2,12 @@
 uid: 20230724104533
 title: Metadata 元数据
 tags: [obsidian, metadata]
-description: 
+description: Dataview 基本语法学习指南,元数据
 author: Huajin,PKMe
 type: other
 draft: false
 editable: false
-modified: 20230731020221
+modified: 20230810175839
 ---
 
 # Metadata 元数据
