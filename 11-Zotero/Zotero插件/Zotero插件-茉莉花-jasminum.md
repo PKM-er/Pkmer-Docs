@@ -3,11 +3,11 @@ uid: 20230721103405
 title: Zotero 插件：茉莉花（jasminum）
 tags: [zotero]
 description: 
-author: l0o0
+author: L0o0
 type: other
 draft: false
 editable: false
-modified: 20230806233947
+modified: 20230811190746
 ---
 
 # Zotero 插件：茉莉花（jasminum）
