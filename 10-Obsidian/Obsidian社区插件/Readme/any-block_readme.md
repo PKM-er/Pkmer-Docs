@@ -43,7 +43,7 @@ modified: 20230811095110
 
 ## Readme(翻译）
 
-下面是 [[any-block]] 插件的自述翻译
+下面是 [[10-Obsidian/Obsidian社区插件/any-block]] 插件的自述翻译
 
 # obsidian-any-block
 
@@ -100,7 +100,7 @@ modified: 20230811095110
 - [[2 - 使用示例 - 代码块引用块选择器]]
 - [[3 - 使用示例 - 全局选择器]]
 - [[4 - 使用示例 - 更多处理器]]
-- [[5 - 插件设计理念]]
+- [[10-Obsidian/Obsidian社区插件/any-block/any-block]]
 - [[9 - For Developer]]
 - [[10 - TODO]]
 
