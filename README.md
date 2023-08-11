@@ -3,11 +3,11 @@ uid: 20230327165530
 title: README
 tags: []
 description: Pkmer共建指南，旨在规范协作流程，降低协作成本
-author: Pkmer
+author: PKMer
 type: other
 draft: true
 editable: false
-modified: 20230530231813
+modified: 20230811183219
 ---
 
 # README
@@ -36,7 +36,6 @@ Pkmer，即 `PKM` 和 `er` 的结合，寓意 Personal Knowledge Management 个�
 - QQ： 825255377
 - 微信交流群
   ![image](https://github.com/PKM-er/Pkmer-Docs/assets/42957010/6d2be9bb-362e-4867-97e3-4188050dff20)
-
 
 ## 参与贡献
 
