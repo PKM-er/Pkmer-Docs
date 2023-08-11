@@ -40,7 +40,7 @@ modified: 20230604174507
 
 如果你使用的 Obsidian 默认主题，插件提供了一个 css 片段可以用来调整默认主题的背景，字体，颜色等设置。
 
-片段下载地址 [obsidian-default-theme.css](https://raw.githubusercontent.com/mgmeyers/obsidian-style-settings/main/obsidian-default-theme.css) ^992e4d
+片段下载地址 [obsidian-default-theme.css](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-style-settings/main/obsidian-default-theme.css) ^992e4d
 
 css 片段下载后放到如图所示的代码片段文件夹
 
