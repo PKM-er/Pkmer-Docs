@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # 概述
 
-该插件是 [Minimal Theme](https://github.com/kepano/obsidian-minimal) 的附属插件，允许您从 Obsidian 设置面板自定义主题。使用 Minimal Theme 不需要该插件，但强烈推荐使用。
+该插件是 [[Minimal]]的附属插件，允许您从 Obsidian 设置面板自定义主题。使用 Minimal Theme 不需要该插件，但强烈推荐使用。
 
 支持我的插件和主题开发，请关注我的 Twitter 账号 **@kepano** 或者 [给我买杯咖啡](https://www.buymeacoffee.com/kepano)。
 

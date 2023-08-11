@@ -1,25 +1,29 @@
 ---
 uid: 20230808230612
 title: Minimal 主题介绍
-tags: [Minimal, theme, config, Obsidian]
+tags: [Minimal, 主题, Obsidian]
 description: 
 author: wtjl
 type: default
 draft: false
 editable: true
-modified: 
+modified: 20230811100419
 ---
 
 # Minimal 主题介绍
 
-> [Minimal](https://minimal.guide/Home) 作为当前安装量 Top1 的主题, 也是资历最老的主题之一, 在跟随 Obsidian 几个版本的迭代之后, 仍然保持着较高的水准, 值得推荐给所有 Obsidian 用户使用和学习.
+> minimal主题作为当前安装量 Top1 的主题, 也是资历最老的主题之一, 在跟随 Obsidian 几个版本的迭代之后, 仍然保持着较高的水准, 值得推荐给所有 Obsidian 用户使用和学习.
+
+![image.png](https://cdn.pkmer.cn/images/202308111007747.png!pkmer)
+
+
 
 ## 特性
 
-- color schemes
-- [cards](https://minimal.guide/Block+types/Cards)
-- [image grids](https://minimal.guide/Block+types/Image+grids)
-- [helper classes](https://minimal.guide/Features/Helper+classes)
+- 自定义配色
+- 卡片视图
+- 图像网格
+- yaml class声明
 - ...
 
 > 可定制程度较高, 并且有不少高级特性. 但并不怎么开箱即用...
@@ -28,13 +32,15 @@ modified:
 
 直接在 `设置 - 外观 - 主题 - 管理` 界面下搜索, 然后下载并使用即可.
 
+> 推荐国内安装下载地址 [主题集市 (pkmer.cn)](https://pkmer.cn/products/theme/themeMarket/?minimal)
+
 ## 配置
 
 包括 `Minimal Theme Settings` 和 `Style Settings` 两部分.
 
-> 这两个插件均可从社区插件市场下载.
-
 ### Minimal Theme Settings
+
+通过[[obsidian-minimal-settings_readme]] 插件可以对主题样式进行调整，下面是主题的主要设置项：
 
 - Color scheme: 选择预定义的主题外观 (个人倾向于 Notion、Atom)
 - Features: 常用特性的开关, 比如
@@ -46,7 +52,9 @@ modified:
 
 > 主要是一些 Feature 的开关, 总体上需要调整的点不多.
 
-### [Style Settings](https://minimal.guide/Plugins/Style+Settings)
+### Style Settings 
+
+通过 [[obsidian-style-settings]] 插件可以对主题样式进行调整，下面是主题的主要设置项：
 
 - Minimal
     - Accent color
@@ -116,6 +124,6 @@ modified:
 }
 ```
 
-## 使用
+代码使用方式，进入style setting插件设置 import 导入
 
-## 参考
+![image.png](https://cdn.pkmer.cn/images/202308111015092.png!pkmer)
