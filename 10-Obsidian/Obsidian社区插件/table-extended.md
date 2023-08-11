@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20230809092705
 ---
 
 # Obsidian 插件：Table Extended 表格合并利器
@@ -31,6 +31,7 @@ modified:
 > - 插件作者：AidenLx
 > - 插件描述：为表格增加合并列和行和省略表头的功能
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/table-extended)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?table-extended)
 
 ## 效果&特性
 

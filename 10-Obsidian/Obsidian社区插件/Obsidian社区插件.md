@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230801235157
+modified: 20230809112132
 ---
 
 # Obsidian 社区插件
@@ -141,7 +141,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
 - [[obsidian-tasks-plugin]]：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
-- [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+- [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 - [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
 - [[obsidian-task-progress-bar]]
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
@@ -385,17 +385,15 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[cycle-through-panes]]：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样
 - [[close-similar-tabs]]：自动关闭重复打开的标签页，防止标签栏拥挤和冲突
 
-### 窗口管理工具
-
-- [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
-- [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
-
 ### 管理工具
 
 - [[obsidian-plugin-groups]]：帮你轻松地分组和管理 Obsidian 第三方插件，启动关闭，加载插件
 - [[obsidian42-brat]]：让你可以安装未上架的插件、主题
 - [[quick-plugin-switcher]]：更轻松的管理插件的启用
 - [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
+- [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
+- [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
+- [[customizable-menu]]：右键菜单增强，可以自定义右键菜单绑定的命令，鼠标党福音
 
 ### 语言
 

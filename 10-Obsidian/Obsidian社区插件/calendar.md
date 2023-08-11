@@ -96,7 +96,7 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 > - 输入的文件夹名称一定要真实存在，系统不会按照你输入的文件夹名自动建立文件夹
 
 > [!Tip] 相关推荐
-> - [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+> - [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 > - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 > - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 > - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。

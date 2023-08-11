@@ -1,13 +1,13 @@
 ---
 uid: 20230804233102
 title: Prsim 主题：使用说明详解
-tags: [Obsidian,主题,prsim,使用说明]
-description: 
-author: 宝藏斌少
+tags: [Obsidian, 主题, prsim, 使用说明]
+description: Prsim 主题：使用说明详解
+author: 宝藏彬少
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20230809092846
 ---
 
 # Prsim 主题：使用说明详解

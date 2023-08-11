@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230802174605
+modified: 20230809122112
 aliases: [Obsidian css代码片段]
 ---
 
@@ -68,6 +68,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-文件浏览器样式]]
 - [[Obsidian样式-文件管理名称滚动效果]]
 - [[Obsidain美化-自定义文件夹图标]]
+- [[Obsidian样式-超长文件名换行]]
 
 #### 段落
 

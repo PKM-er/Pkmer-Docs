@@ -162,7 +162,7 @@ Obsidian Projects 的使用步骤相当简单，在安装后你只需要在左�
 ![image.png](https://cdn.pkmer.cn/images/80acb2021fedbba8d36f14996b830fab_MD5.png!pkmer)
 
 > [!Tip] 相关推荐
-> - [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+> - [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 > - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 > - [[calendar]]：为 Obsidian 添加一个简单日历功能
 > - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
