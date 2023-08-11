@@ -1,6 +1,6 @@
 ---
 uid: 20230811091915
-title: AnyBlock 插件系列教程之 --9.插件接入二次开发（文档编写中）
+title: AnyBlock 插件系列教程之 --9.插件接入二次开发
 tags: [obsidian, 教程, anybock]
 description: 
 author: 
