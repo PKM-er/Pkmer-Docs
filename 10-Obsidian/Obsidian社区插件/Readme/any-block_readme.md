@@ -22,7 +22,13 @@ modified: 20230101000000
 
 ## 概述
 
-您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如 `列表转表格`。
+黑曜石插件 AnyBlock（后文可能会简称 `AB` ）。你可以通过一些方法灵活地创建一个“块”。
+同时该插件提供了一些实用的功能，例如 `列表转化为表格`
+
+插件由两个核心部分组成：**选择器**和**处理器。**
+选择器可以选择一段文本区域，并将其转化为“块”。
+处理器可以将选择器转化为的“块”，进行一定程度的再处理。
+
 
 ![Any Block](https://cdn.pkmer.cn/covers/any-block.png!pkmer)
 
@@ -37,100 +43,94 @@ modified: 20230101000000
 
 下面是 [[any-block]] 插件的自述翻译
 
-[其他语言](./docs/)
 
-（Github Pages 施工中………………利于多语言文档的建设，以及日益增多的处理器的介绍）
 
 # obsidian-any-block
 
 一个 Obsidian 插件。您可以通过某种方式灵活地创建一个“块”。
-
-用途
-
-功能：块转换、列表转表格或其他树状图，请参阅 `demo` 示例文件夹以获取详细信息
-
-[用法教程和示例库](./docs/en)
-
+功能：块转换、列表转表格或其他树状图
 如果有错误，请尝试关闭“严格换行”。
 
-支持的命令
+## 简介
+说其中一些比较常用的处理器：
+- 列表转表格
+- 列表转列表格
+- 列表转流程图
+- 列表转思维导图
+- 列表转标签栏
+- 列表转时间线
+- 标题转列表从而转其他（can use title2list processor）
 
-查看设置面板或 [使用教程和示例库](./docs/en)
+![](https://cdn.pkmer.cn/images/202308110925636.png!pkmer)
 
-以下是一些常见的处理器：
+![](https://cdn.pkmer.cn/images/202308110925637.png!pkmer)
 
-- list2table（2datatable）
-- list2listtable
-- list2mermaid（graph LR）
-- list2mindmad（mermaid v9.3.0 mindmap）
-- list2tab
-- list2timeline
-- title2list + list2somthing
+![](https://cdn.pkmer.cn/images/202308110925638.png!pkmer)
 
-![](docs/en/png/list2table.png)
+![](https://cdn.pkmer.cn/images/202308110925639.gif!pkmer)
 
-![](docs/en/png/list2tableT.png)
+![](https://cdn.pkmer.cn/images/202308110925640.gif!pkmer)
 
-![](docs/en/png/list2lt.png)
+![](https://cdn.pkmer.cn/images/202308110925641.png!pkmer)
 
-![](docs/en/png/list2tab.png)
+![](https://cdn.pkmer.cn/images/202308110925642.png!pkmer)
 
-![](docs/en/png/list2mermaid.png)
+![](https://cdn.pkmer.cn/images/202308110925643.png!pkmer)
 
-![](docs/en/png/list2mindmap.png)
+![](https://cdn.pkmer.cn/images/202308110925644.png!pkmer)
 
-![](docs/en/png/titleSelector.png)
+![](https://cdn.pkmer.cn/images/202308110925645.gif!pkmer)
 
-![](docs/en/png/addTitle.png)
+![](https://cdn.pkmer.cn/images/202308110925647.png!pkmer)
 
-![](docs/en/png/scroll.png)
+![](https://cdn.pkmer.cn/images/202308110925648.gif!pkmer)
 
-![](docs/en/png/overfold.png)
+![](https://cdn.pkmer.cn/images/202308110925649.gif!pkmer)
 
-![](docs/en/png/flod.png)
+![](https://cdn.pkmer.cn/images/202308110925650.png!pkmer)
 
-![](docs/en/png/heimu.gif)
 
-![](docs/en/png/userProcessor.png)
+## 教程文档
 
-## 支持
+- [[0. 基础教程]]
+- [[1. 使用示例 - 列表选择器]]
+- [[2. 使用示例 - 代码块引用块选择器]]
+- [[3. 使用示例 - 全局选择器]]
+- [[4. 使用示例 - 更多处理器]]
+- [[5. 插件设计理念]]
+- [[9. For Developer]]
+- [[9. TODO]]
 
-开发不易，赞助入口（可备注：OB 插件支持）
 
-![](docs/en/png/support_zfb.png)![](docs/en/png/support_wechat.png)
+## Todo
 
-![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22obsidian-any-block%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
+**(Don't repet it in issue)**
 
-## 待办事项
-
-**(不要在问题中重复提及)**
-
-- 首要任务
-	- 可视化编辑表格
-	  （这三个点要依次渐进实现，实现前一个才能实现下一个）
-		1. `| ` 增加下级项=>`\ ` 或 `/ ` 或 `& ` 增加同级项（能更好地压缩高度，也有主于 ul 表格的生成。开发难度：`|` 和 `\` 混杂在一起不好处理）
-		2. `表格项` 的接口需要扩展，加多一个接口项：来表明这个项是通过换行生成还是 `|` 或 `\`，否则难以做到下面的问题
-		3. 可视化编辑表格（实现难度：必须先解决上面的问题，否则反向编辑会有问题（会将内联块拆除掉了））
-	- 其他
-		- 增加处理器或选择器。例如：转置表格、QA 处理器
-- 加强
+- reinforce
+	- 选择器
+		- **嵌套选择器**
+		  没有嵌套的程序是没有灵魂的 !!!
+		  （但问题在于，例如说第一层是tree，可能会破坏结构，有歧义。因为现在的tree格式是number-str的，那需要number-dom才行）
+		  （或者说：列表选择器不能嵌套列表选择器有歧义，需要嵌套引用选择器，在此基础上你解除引用选择器间接嵌套）
 	- 处理器
-		- 优化 2ultable，在这个模式中让内联换行变成同级换行而非下级换行的意思
+		- QA处理器
+		- 优化2ultable，在这个模式中让内联换行变成同级换行而非下级换行的意思
 	- 层级
 		- 负级列表开关
 		- 根据层级关系，推荐合理的处理器（如检测到树相关的就推荐树类处理器）
 	- 样式
 		- 树表格的间隔着色样式获取可以优化
-		  方案 1：例如多行的格可以视情况使用渐变（单数不用，复数需要，但会不会有不统一的问题）？
-		  方案 2：仿 mindmap 的着色，后面的列就不要隔行着色了
+		  方案1：例如多行的格可以视情况使用渐变（单数不用，复数需要，但会不会有不统一的问题）？
+		  方案2：仿mindmap的着色，后面的列就不要隔行着色了
 	- 转化
-		- 右键选择转化为：md 原生 (表格)/html 格式/图片
-- 修复错误
-	- **引用块内的列表/列表内的引用块无法识别**
-	- **表格转置与表头符号冲突、转置模式目前是纯 css 实现的。如果大家的行高不相同，会出现不匹配的情况。**
-	  后续会将 css 实现改进为转化 table 元素实现
+		- 右键选择转化为：md原生(表格)/html格式/图片
+- fixing bug
+	- 复选框列表的兼容、有序列表的兼容
+	- **引用块内的列表/列表内的引用块 无法识别**
+	- **表格转置与表头符号冲突、转置模式目前是纯css实现的 如果大家的行高不相同，会出现不匹配的情况。**
+	  后续会将css实现改进为转化table元素实现
 
-参考、导入
+Reference、import
 
 - [html-to-md](https://github.com/stonehank/html-to-md)
 - [mermaid](https://github.com/mermaid-js/mermaid)
