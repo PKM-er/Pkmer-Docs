@@ -1,9 +1,7 @@
 ---
 uid: 20230725164407
 title: Umi-OCR 本地图片识别并批量转换
-tags:
-  - OCR
-  - 图片识别，手写体，辅助工具
+tags: [OCR, 图片识别, 手写体, 辅助工具]
 description: Umi-OCR 是一款功能强大且易于使用的工具，可以使用它来识别 Obsidian 中的图片文字、手写文字或者批量识别图片能够极大地提升你的工作效率。
 author: 熊猫别熬夜
 type: other
