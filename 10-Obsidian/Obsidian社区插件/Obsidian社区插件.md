@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230809112132
+modified: 20230814184430
 ---
 
 # Obsidian 社区插件
@@ -283,6 +283,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[templater-obsidian]]：可以替代核心模板插件的效率神器
 - [[Templater实现关键词自动化套用模板]]
 - [[quickadd]]：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
+- [[dataview]]：高性能的索引 md 文件，并创建复杂的查询视图，如表格，列表，任务，日历视图
 - [[various-complements]]：这个 Obsidian 插件让你能够自动完成完成单词，和自定义内容的输入。
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
 - [[auto-note-mover]]：可以自动将笔记根据规则，移动到各自的文件夹中
