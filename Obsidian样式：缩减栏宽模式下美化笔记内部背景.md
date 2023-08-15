@@ -36,7 +36,7 @@ modified: 20230815020803
   width: 100%;
   position: fixed;
   left: 0;
-  top: 0;
+  top: 100px;
   height: 100vh;
   transform: scale(1.1);
   filter: blur(0px) contrast(1) saturate(0.5);
@@ -70,7 +70,7 @@ modified: 20230815020803
   width: 100%;
   position: fixed;
   left: 0;
-  top: 0;
+  top: 100px;
   height: 100vh;
   transform: scale(1.1);
   filter: blur(0px) contrast(1) saturate(0.5);
