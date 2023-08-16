@@ -7,14 +7,14 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230603014453
+modified: 20230814191203
 ---
 
 # Obsidian 插件：Search Obsidian In Google 让你在谷歌搜索中搜索 Obsidian 中的笔记
 
 ## 概述
 
-如果你之前有使用过 cubox 或者印象笔记，你可能对其能在搜索引擎中插入来自你裁剪库的搜索印象深刻，现在这个插件就是让你也拥有了和他们一样的能力，甚至，你的数据都是存在自己本地的。
+如果你之前有使用过 Cubox 或者印象笔记，你可能对其能在搜索引擎中插入来自你裁剪库的搜索印象深刻，现在这个插件就是让你也拥有了和他们一样的能力，甚至，你的数据都是存在自己本地的。
 
 > [!Note] 插件名片
 > - 插件名称：Search Obsidian In Google

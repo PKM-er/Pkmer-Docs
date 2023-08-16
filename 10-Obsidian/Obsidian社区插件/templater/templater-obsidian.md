@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230802195850
+modified: 20230816105704
 ---
 
 # Obsidian 插件：Templater 可以替代核心模板插件的效率神器
@@ -42,10 +42,10 @@ Templater 号称 Obsidian 四大金刚之一 ([[quickadd]],[[dataview]],[[obsidi
 ## 设置
 
 - Templater 的设置项
-![image.png](https://cdn.pkmer.cn/images/202305141646579.png!pkmer)
-![image.png](https://cdn.pkmer.cn/images/202305141648407.png!pkmer)
+![image.png|811](https://cdn.pkmer.cn/images/202305141646579.png!pkmer)
+![image.png|811](https://cdn.pkmer.cn/images/202305141648407.png!pkmer)
 
-![image.png](https://cdn.pkmer.cn/images/202305141650262.png!pkmer)
+![image.png|811](https://cdn.pkmer.cn/images/202305141650262.png!pkmer)
 
 ## 常用的语法变量
 
@@ -111,3 +111,5 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 ## 社区使用技巧
 
 - [[Templater实现关键词自动化套用模板]]：铅笔小明分享的通过关键词自动化套用模板
+- [[Templater插件基本语法格式]]
+- [[Templater插件两次单选语法]]]

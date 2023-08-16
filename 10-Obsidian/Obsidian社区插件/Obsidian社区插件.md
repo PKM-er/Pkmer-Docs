@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230814184430
+modified: 20230816111351
 ---
 
 # Obsidian 社区插件
@@ -281,7 +281,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐渐壮大起来的插件生态圈。这些卓越的插件不仅增强了 Obsidian 的功能，而且可以在很大程度上提高你的工作和学习效率，让你从繁琐，重复的码字过程中解脱出来。相信这些插件能够帮助你更高效、便捷地管理和利用笔记，让你的学习、工作和生活更加舒适顺畅。相信下面这些插件能帮到你：
 
 - [[templater-obsidian]]：可以替代核心模板插件的效率神器
-- [[Templater实现关键词自动化套用模板]]
+	- [[Templater实现关键词自动化套用模板]]
 - [[quickadd]]：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
 - [[dataview]]：高性能的索引 md 文件，并创建复杂的查询视图，如表格，列表，任务，日历视图
 - [[various-complements]]：这个 Obsidian 插件让你能够自动完成完成单词，和自定义内容的输入。
@@ -292,6 +292,8 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-wrap-with-shortcuts]]：给选中文本加上自定义前后缀标签
 - [[obsidian-dice-roller]]：在文档任意地方生成需要随机的内容，这些随机的候选项可以你来定义
 - [[obsidian-markdown-formatting-assistant-plugin]]：提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示 OB 常用和所有命令提高工作效率。
+- [[text-extractor_readme]]：：在编辑器中扩展文本快捷键，运行 shell 命令和 python 脚本
+	- [[obsidian-text-expander]]：基本语法示例
 
 ### 格式化
 
