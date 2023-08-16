@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230816121906
+modified: 20230816184410
 ---
 
 # Obsidian 社区插件
@@ -85,13 +85,14 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[highlightr-plugin]]：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
 - [[style-text]]：自定义 CSS 样式应用于笔记中的选定文本
 - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
+- [[Obsidian样式-特殊标签-让Markdown的文本多彩多色]]
 
 ### Callout 相关
 
 - [[Obsidian如何制作多栏布局]]
 - [[Obsidian能像其他笔记样分栏嘛]]
 - [[obsidian-columns]]：支持多种方式来设定分栏目
-- [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
+- [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
 
 ### 标题增强
 
@@ -242,27 +243,24 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-excalidraw-plugin]]：在 Obsidian 中 使用 Excalidraw 绘图
 - [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
 
-### 窗口
+### 窗口&视图模式
 
-在日常工作和学习中，我们需要通过窗口和界面布局来提高工作效率和信息管理的质量。在 Obsidian 中，有多种插件可以帮助用户更方便地窗口和界面布局。
+窗口：在日常工作和学习中，我们需要通过窗口和界面布局来提高工作效率和信息管理的质量。在 Obsidian 中，有多种插件可以帮助用户更方便地窗口和界面布局。
 
 这些插件可以根据用户的需要进行个性化布局和设置，提高工作效率和文档管理质量，是 Obsidian 的重要辅助工具。
 
-- [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
-- [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
-- [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
-- [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
-- [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
-
-### 视图模式
-
-这些插件跟 Obsidian 提供的多种视图模式有关，让你更加灵活的使用不同的视图模式。
+而也有一些插件，提供了提供的多种视图模式有关，让你更加灵活的使用不同的视图模式，比如专注模式等。
 
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
 - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
 - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
 - [[editor-width-slider]]：允许你在状态栏中使用滑块来快速调整编辑器的行宽/栏宽
+- [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
+- [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
+- [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+- [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
+- [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
 
 ### Frontmatter
 
@@ -337,7 +335,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
 - [[obsidian-chat-view-qq]]：chat-view-qq 保存 QQ 消息到 Obsidian 中
 
-### 文件管理类
+### 文件管理/文件夹管理
 
 善于使用优秀的 Obsidian 插件，能够提高你的笔记管理效率和科学性。下面是一些实用的插件：它们提供了增强型文件管理器、面包屑导航、文件字数展示、窗格历史记录等多种功能，让你可以更高效地组织笔记、轻松浏览笔记目录，实现科学的笔记管理。此外，这些插件还支持多种文件夹展开和统计功能，让你更方便地管理笔记。优秀的笔记管理插件，将为你带来更加便捷、高效的学习和工作体验。
 
@@ -356,7 +354,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[hidden-folder-obsidian]]：快速隐藏文件夹
  - [[obsidian-trash-explorer]]：让你可以管理 Obsidian 的 .trash 文件夹（也叫软件回收站），从中恢复和删除文件
 
-### 附件管理工具
+### 附件管理工具/图片管理
 
 - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
 - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
@@ -367,12 +365,16 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件，相比 Obsidian 自带的搜索替换，Regex Pipeline 利用正则表达式这个强大的文本处理技术可以执行更复杂的文本操作
 - [[open-with]]：允许你通过在 Obsidian 中使用其他软件，打开笔记中常见格式文件
 
-### 学习
+### 学习&语言
+
+许多学习者选择使用笔记应用程序以替代传统的纸笔笔记方式。尤其是 Obsidian 这类高效而强大的工具，不仅提供了优秀的笔记编写和管理功能，还有许多插件可供选择，能够满足用户多样化的需求，下面这些你不容错过：
 
 - [[obsidian-language-learner]]：事半功倍，辅助你在 Obsidian 英语学习，提供查词，生词等功能
 - [[obsidian-spaced-repetition]]：利用遗忘曲线间隔重复复习笔记中的内容
 - [[blindfold-obsidian]]：实现了不依赖主题，和示例库的方法，来制作答案的隐藏和展示
 - [[外语书阅读工作流]]：介绍了阅读和学习工作流外，配合 Spaced Repetition Recall 插件的使用方法
+- [[obsidian-markdown-furigana]]：日文学习如何增加假名
+- [[japanese-word-splitter]]：添加支持日语分词
 
 ### 统计类
 
@@ -380,6 +382,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[better-word-count]]：自定义统计全库字数，文件数等统计数据
 - [[file-explorer-note-count]]：增加文件数量统计功能
 - [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
+- [[obsidian-tracker]]
 
 ### 标签页管理
 
@@ -396,15 +399,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[quick-plugin-switcher]]：更轻松的管理插件的启用
 - [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 - [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
-- [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
 - [[customizable-menu]]：右键菜单增强，可以自定义右键菜单绑定的命令，鼠标党福音
-
-### 语言
-
-许多学习者选择使用笔记应用程序以替代传统的纸笔笔记方式。尤其是 Obsidian 这类高效而强大的工具，不仅提供了优秀的笔记编写和管理功能，还有许多插件可供选择，能够满足用户多样化的需求，下面这些你不容错过：
-
-- [[obsidian-markdown-furigana]]：日文学习如何增加假名
-- [[japanese-word-splitter]]：添加支持日语分词
 
 ### 插入预览
 
