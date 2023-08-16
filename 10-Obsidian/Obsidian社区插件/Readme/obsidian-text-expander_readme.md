@@ -1,13 +1,13 @@
 ---
-uid: 2023080322280396
-title: Obsidian 插件：【Readme】Text Expander
+uid: 20230804181805
+title: Obsidian 插件：Text Expander
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 在编辑器中扩展文本快捷键，运行shell命令和python脚本
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230816110627
 ---
 
 # Obsidian 插件：Text Expander
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在编辑器中扩展文本快捷键，运行 shell 命令和 python 脚本
 
-![Text Expander](https://cdn.pkmer.cn/covers/obsidian-text-expander_new.gif!pkmer)
+![Text Expander|363](https://cdn.pkmer.cn/covers/obsidian-text-expander_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -173,6 +173,4 @@ modified: 20230101000000
 ### 1.0.1
 
 - 修复由于 "Shell 可执行文件 " 值不正确而导致的错误
-
-
-
+- [[obsidian-text-expander]]
