@@ -1,5 +1,5 @@
 ---
-uid: 20230811091915
+uid: 20230811091917
 title: Obsidian 插件：Any Block 一个简易而又强大的块编辑器
 tags: [obsidian, 教程, anybock]
 description: Obsidian 插件：Any Block 一个简易而又强大的块编辑器
