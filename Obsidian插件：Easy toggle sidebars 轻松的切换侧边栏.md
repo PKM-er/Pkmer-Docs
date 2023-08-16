@@ -12,6 +12,14 @@ modified: 20230816193218
 
 # Obsidian 插件：Easy toggle sidebars 便捷的控制侧边栏
 
+> [!note] Easy toggle sidebars
+> 插件 ID：easy-toggle-sidebars
+> 插件作者：1C0D
+> 插件描述：通过双击鼠标中键或点击鼠标中键并将鼠标移向相应的侧边栏，可以切换侧边栏。
+> 插件版本：1.7.4
+> 插件源码地址：[1C0D/obsidian-easy-toggle-sidebars --- 1C0D/黑曜石-易于切换-侧边栏 (github.com)](https://github.com/1C0D/obsidian-easy-toggle-sidebars)
+> 插件文档地址：[1C0D/obsidian-easy-toggle-sidebars --- 1C0D/黑曜石-易于切换-侧边栏 (github.com)](https://github.com/1C0D/obsidian-easy-toggle-sidebars)
+
 使用鼠标右键或鼠标中键：
 
 - 双击切换两个侧边栏
