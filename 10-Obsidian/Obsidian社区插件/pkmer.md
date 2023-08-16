@@ -64,6 +64,11 @@ PKMer 从 Obsidian 官方发布的插件信息列表中，找到最近更新的�
 
 在本插件内，用户点击下载按钮，如果用户 Obsidian 插件目录中，不存在名为插件 id 的目录，则会新建一个目录，在该插件内解压插件内容到该目录。如果存在名为插件 id 的目录，则会直接解压插件内容覆盖里面的 `main.js`, `manifest.json` 和 `styles.css` 三个文件，并不会删除和覆盖 `data.json` 等配置文件。
 
+## 相关视频
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=956765724&bvid=BV1qp4y1V7SL&cid=1222533808&page=1&autoplay=false" autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="90%" height="600">  </iframe>
+
 ## 价格
 
 注册 [Pkmer](https://pkmer.cn/) 的用户完全免费使用该插件及下载插件，但为了防止滥用和过高的成本，免费下载 15 次/月 插件，这个数量我们尽可能平衡了大家安装的插件和每个月大概可能需要更新的体量，PKMer 会员则限制 200 次/月 插件（视实际情况而定）。
