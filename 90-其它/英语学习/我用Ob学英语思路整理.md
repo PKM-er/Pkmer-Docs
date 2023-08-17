@@ -118,7 +118,7 @@ langr-origin: " 大英赛模拟试题（一）"
 - 新建一篇笔记，在 metadata 中添加 `cssclass: zettelkasten`
 - 在正文部分粘贴以下代码即可：
 
-```dvjs
+```html
 dv.table(["卡片","简介"],
 dv.pages('"生词本"')
 	.map(b => [b.file.link, b.description]))
@@ -212,7 +212,7 @@ border-color: rgb(245,227,181); /* 设置背景颜色 */
 
 ````dataview
 ```
-```dvjs
+```html
 let nofold = '!"88-Template" and !"99-Attachment" and !"50-Inbox" and !#moc'
 let fold = '"生词本"'
 let files = dv.pages(fold).file

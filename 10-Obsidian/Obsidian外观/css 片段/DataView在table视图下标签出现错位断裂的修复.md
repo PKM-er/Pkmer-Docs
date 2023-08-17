@@ -24,7 +24,7 @@ modified: 20230610161338
 
 ## CSS 代码段
 
-```CSS
+```css
 div.block-language-dataview.node-insert-event table td ul {
   list-style: none;
   flex-direction: row-reverse;
@@ -38,7 +38,7 @@ div.block-language-dataview.node-insert-event table td ul {
 
 ### 代码解释
 
-```CSS
+```css
 div.block-language-dataview.node-insert-event table td ul {
   list-style: none;
   flex-direction: row-reverse;
@@ -57,7 +57,7 @@ div.block-language-dataview.node-insert-event table td ul {
 
     * 表示倒序序列排序
 
-```CSS
+```css
 .tag {
   float: left;
   white-space: nowrap;

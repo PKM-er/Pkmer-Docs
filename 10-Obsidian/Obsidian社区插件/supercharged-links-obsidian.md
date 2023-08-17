@@ -109,7 +109,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 比如要根据文件中的 topic 标签更改笔记链接的每个外观的颜色:
 
- ```CSS
+ ```css
 [data-link-tags*="#topic" i]{
     color: #ff6600 !important;
 }
@@ -119,7 +119,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 比如要对 yaml 字段中包含 `category: people` 属性的笔记前面增加一个表情，可以这样写 css 片段
 
- ```CSS
+ ```css
 .data-link-icon[data-link-category$="People" i]::before{
     content: "👤 "
 }
@@ -129,7 +129,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 当笔记包含 `status` 属性 时，可以用类似标签的蓝色圆角矩形突出显示链接:
 
- ```CSS
+ ```css
 :not(:empty)[data-link-next-status] {
     color: white;
     background-color: rgb(29， 29， 129);
@@ -142,7 +142,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 如果要鼠标悬停时显示所有 `status` 属性的值:
 
- ```CSS
+ ```css
 .data-link-icon-after[data-link-status]:hover::after{
     content: " ► "attr(data-link-status)
 }
@@ -152,7 +152,7 @@ Jim 是我的同事，负责技术开发相关的工作。
 
 如果对包含 #hide 链接的笔记进行隐藏:
 
- ```CSS
+ ```css
 a.internal-link[data-link-tags *="hide"]，
 .cm-hmd-internal-link > [data-link-tags *="hide"]{
     visibility: hidden !important;

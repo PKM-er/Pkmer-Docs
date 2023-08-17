@@ -22,7 +22,7 @@ modified: 20230709151216
 
 ## CSS 代码段
 
-```CSS
+```css
 
 li[data-task="T"] > input:checked {
   --checkbox-marker-color: none;
@@ -39,7 +39,7 @@ body:not(.tasks) li[data-task="T"].task-list-item.is-checked {
 
 ### 代码解释
 
-```CSS
+```css
 
 li[data-task="T"] > input:checked {
   --checkbox-marker-color: none;
@@ -75,7 +75,7 @@ li[data-task="T"] > input:checked {
     - 两侧双引号，意味着内部**双引号应注意转义或更换为单引号**
     - 推荐一个 SVG 库 [Heroicons](https://heroicons.dev/)
 
-```CSS
+```css
 body:not(.tasks) li[data-task="T"].task-list-item.is-checked {
   color: #42424275;
   text-decoration: line-through;

@@ -33,7 +33,7 @@ modified: 20230604174042
 
 在文档中使用 mindmap 代码块即可生成思维导图。例如
 
-```markmap
+```html
 # Mindmap
 ## Mindmap
 ```
@@ -42,7 +42,7 @@ modified: 20230604174042
 
 - 支持 checkbox 的形式如
 
-```markmap
+```html
 
 # Housework
 ## Main

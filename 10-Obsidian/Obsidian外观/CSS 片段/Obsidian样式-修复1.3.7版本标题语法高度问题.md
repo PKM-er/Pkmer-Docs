@@ -28,7 +28,7 @@ modified: 20230802174926
 
 如何使用自定义代码段，参考 [[Obsidian的CSS代码片段]]
 
-```CSS
+```css
 .cm-s-obsidian div.cm-line.HyperMD-header {
 padding-top: 0rem;
 }

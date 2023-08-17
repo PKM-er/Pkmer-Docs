@@ -137,7 +137,7 @@ Pocket 笔记的模板与 Obsidian 中的任何其他模板类似，可以参考
 
 这是 obsidian-pocket 的默认模板。它将使用所有可用的元数据填充 Pocket 项目笔记的 [YAML 前置元数据](https://help.obsidian.md/Advanced+topics/YAML+front+matter)，以便 YAML 前置元数据有效，标签正常工作，并显示 Pocket 项目的主要图片（如果有）：
 
-```plaintext
+```html
 ---
 Title: "{{title}}"
 URL: {{url}}
@@ -152,7 +152,7 @@ Excerpt: >
 
 如果您将 [此 URL](https://www.technologyreview.com/2021/07/08/1027908/carbon-removal-hype-is-a-dangerous-distraction-climate-change/) 保存到 Pocket，并使用此插件将其同步到 Obsidian，然后使用上述模板为相应的 Pocket 项目创建一个笔记，您的笔记将以以下内容开始：
 
-```plaintext
+```html
 ---
 Title: "Carbon removal hype is becoming a dangerous distraction"
 URL: https://www.technologyreview.com/2021/07/08/1027908/carbon-removal-hype-is-a-dangerous-distraction-climate-change/

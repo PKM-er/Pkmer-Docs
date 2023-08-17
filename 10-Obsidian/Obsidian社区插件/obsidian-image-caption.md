@@ -41,7 +41,7 @@ modified: 20230723232249
 
 ## 使用
 
-```语法
+```html
 ![[my_amazing_image.png|Look at my caption ma!]]
 ![[my_amazing_image.png|"Look at my caption ma!"]]
 ![[my_amazing_image.png|50x50 "Look at my caption ma!"]]

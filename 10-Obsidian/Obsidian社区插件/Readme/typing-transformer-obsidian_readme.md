@@ -72,7 +72,7 @@ Typing Transformer 目前支持三种类型的转换规则：
 
 输入转换规则的语法如下：
 
-```coffeescript
+```html
 '<触发词>' -> '<结果>'
 ```
 
@@ -115,7 +115,7 @@ Typing Transformer 目前支持三种类型的转换规则：
 
 删除规则的语法如下：
 
-```coffeescript
+```html
 '<删除触发器>' -x '<结果>'
 ```
 
@@ -135,7 +135,7 @@ Typing Transformer 目前支持三种类型的转换规则：
 
 选择规则的语法如下：
 
-```coffeescript
+```html
 '<触发字符>' -> '<左插入>' + '<右插入>'
 ```
 
@@ -149,7 +149,7 @@ Typing Transformer 目前支持三种类型的转换规则：
 
 以下规则是默认支持的：
 
-```coffeescript
+```html
 '·'  -> '\`' + '\`'
 '￥'  -> '$' + '$'
 '《'  -> '《' + '》'

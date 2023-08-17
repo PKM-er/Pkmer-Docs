@@ -34,7 +34,7 @@ modified: 20230608211708
 - 支持从剪贴板中的 url 进行转化。
 - 支持黏贴后自动转化，需要在插件设置中打开 `Auto Embed`
 
-````YAML
+````yaml
 ```embed
 title: '百度一下，你就知道'
 image: 'https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/topnav/newfanyi-da0cea8f7e.png'

@@ -30,7 +30,7 @@ Obsidian 提供一个简约的文件管理器，让我们可以管理笔记和�
 - 又或是使用独立的 CSS
 	- 如何使用独立的 CSS，参考 [[Obsidian的CSS代码片段|Obsidian css代码片段]]
 
-```CSS
+```css
 /** 文件名**/
 body .nav-file-title-content:not(.is-being-renamed):hover {
   animation: filemove 1.5s 1 normal linear;

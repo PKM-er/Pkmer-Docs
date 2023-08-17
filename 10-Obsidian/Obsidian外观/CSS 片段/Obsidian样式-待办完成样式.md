@@ -24,7 +24,7 @@ modified: 20230628210647
 
 如果你喜欢那个主题，但是又想增加任务代办的完成删除线，那么可以参考下面代码
 
-```CSS
+```css
 .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"], .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] {
     text-decoration: var(--checklist-done-decoration) !important;
     color: var(--checklist-done-color);

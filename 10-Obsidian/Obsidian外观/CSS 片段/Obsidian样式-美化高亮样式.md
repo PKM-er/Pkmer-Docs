@@ -29,7 +29,7 @@ modified: 20230703190229
 - 又或是下面的样式片段，如何使用样式片段，可以参考 [[Obsidian的CSS代码片段]]
 	- 这里我没有特别强化具体颜色样式，因为它们都带有 color 字样，你可以随时参考其他颜色，来让他更加个性化
 
-```CSS
+```css
 /*实时编辑*/
 .theme-light .markdown-source-view div.cm-line span.cm-highlight {
 	background-color:red;

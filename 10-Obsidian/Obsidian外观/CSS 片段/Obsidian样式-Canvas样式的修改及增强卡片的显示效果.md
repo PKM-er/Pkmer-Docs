@@ -107,7 +107,7 @@ body{
 
 ### 卡片激活状态的 CSS 设置
 
-```CSS
+```css
 /* 未选择卡片时标签的颜色 */
 .canvas-node.is-themed .canvas-node-label {
     color: white;

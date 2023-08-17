@@ -24,7 +24,7 @@ Obsidian 自从 1.0 后统一很多 UI 元素，使得整体界面，开始像�
 - 使用特定的主题搭配 [[obsidian-style-settings]] 插件，比如使用 3F 老师的 [Blue-TopazT主题](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)，当然你也可以参考 Cuman 的 [Blue-topaz主题示例库](https://github.com/PKM-er/Blue-topaz-example)
 - 或者直接使用下面的 CSS 片段，如何使用独立 CSS 片段可以参考 [[Obsidian的CSS代码片段]]
 
-```CSS
+```css
 body {
     --blur-depth: 0px;
     --blur-depth-cp: 10px;

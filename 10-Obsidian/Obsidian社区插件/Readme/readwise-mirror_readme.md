@@ -142,7 +142,7 @@ Readwise 高亮部分的很大价值在于与其关联的笔记。例如，如�
 
 #### 默认的前置元数据模板
 
-```markdown+nunjucks
+```yaml
 ---
 id: {{ id }}
 updated: {{ updated }}
@@ -153,7 +153,7 @@ author: {{ author }}
 
 #### 默认标题模板
 
-```markdown+nunjucks
+```yaml
 %%
 ID: {{ id }}
 更新时间: {{ updated }}
@@ -212,7 +212,7 @@ Readwise 链接：{{ highlights_url }}
 
 #### 默认的高亮模板
 
-```markdown+nunjucks
+```yaml
 {{ text }}{%- if category == 'books' %} ([{{ location }}]({{ location_url }})){%- endif %}{%- if color %} %% 颜色: {{ color }} %%{%- endif %} ^{{id}}{%- if note %}
 
 注释: {{ note }}

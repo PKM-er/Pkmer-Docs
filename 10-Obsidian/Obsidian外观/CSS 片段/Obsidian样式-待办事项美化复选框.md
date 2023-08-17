@@ -28,7 +28,7 @@ modified: 20230630001226
 
 ![image.png](https://cdn.pkmer.cn/images/20230628210132.png!pkmer)
 
-```CSS
+```css
 input[type="checkbox"],
 .cm-formatting-task {
   -webkit-appearance: none;

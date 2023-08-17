@@ -26,7 +26,7 @@ Obsidian 虽然没有块的概念，但是具有类似文本编辑段落的形�
 
 - 此方法依赖 [[obsidian-style-settings]] 插件
 
-```CSS
+```css
 body {
     --paragraph-margin-top:10px;
     --paragraph-margin-bottom:5px;

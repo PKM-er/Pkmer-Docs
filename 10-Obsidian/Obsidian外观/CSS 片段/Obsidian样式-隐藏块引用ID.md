@@ -28,7 +28,7 @@ modified: 20230616095706
 
 参考样式：
 
-```CSS
+```css
 div.cm-line > span.cm-blockid {
 	display:none;
 }

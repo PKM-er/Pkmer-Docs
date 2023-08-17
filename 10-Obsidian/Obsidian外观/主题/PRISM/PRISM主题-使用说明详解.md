@@ -91,7 +91,7 @@ modified: 20230809092846
 
 只需替换为 `flower` 您要使用的图标下方显示的名称即可。
 
-```CSS
+```css
 .callout[data-callout="note"] {
    --callout-icon: flower;
 }
@@ -103,7 +103,7 @@ modified: 20230809092846
 
 下面是如何设置名为 `nature` 的自定义标注样式的示例。将以下内容添加到 CSS 代码段中并启用它。
 
-```CSS
+```css
 .prism-theme .callout[data-callout="nature"] .callout-title {
    color: var(--color-green-text);
    background-color: var(--color-green-base);
@@ -148,7 +148,7 @@ This is a custom callout
 
 在 CSS 代码段中使用以下选择器开始自定义变量：
 
-```CSS
+```css
 .prism-theme.theme-light.pt-color-scheme-custom-lt {
  /* Your customised variables here */
 }

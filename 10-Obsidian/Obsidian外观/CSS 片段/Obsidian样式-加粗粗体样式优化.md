@@ -21,7 +21,7 @@ modified: 20230717175020
 - 使用对应的主题
 - 使用独立的片段，参考 [[Obsidian的CSS代码片段|Obsidian css代码片段]]
 
-```CSS
+```css
 body {
     --bold-color:red;
     --bold-weight:700;

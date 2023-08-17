@@ -43,7 +43,7 @@ modified: 20230101000000
 
 假设你有一个名为 `countries.csv` 的 CSV 文件：
 
-```plaintext
+```html
 name,capitol,population
 United States of America,"Washington, DC",328200000
 Colombia,Bogota,50340000

@@ -78,7 +78,7 @@ modified: 20230603014306
 
 您可以在自己的 CSS 代码片段中使用这些类名。例如，如果您想将所有 YouTube 嵌入式内容设为全宽，可以添加以下代码：
 
-```CSS
+```css
 .embed-container.youtube {
     max-width: 100%;
 }
@@ -86,7 +86,7 @@ modified: 20230603014306
 
 或者如果你想居中所有的 Twitter 嵌入
 
-```CSS
+```css
 .embed-container.twitter {
     margin: 0 auto;
 }

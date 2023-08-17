@@ -55,7 +55,7 @@ modified: 20230515233648
 
 > [! 范例]
 >
-> ```YAML
+> ```yaml
 > ---
 > sorting-spec: |
 > target-folder: /

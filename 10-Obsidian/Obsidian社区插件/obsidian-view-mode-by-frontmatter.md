@@ -38,7 +38,7 @@ modified: 20230604174613
 
 语法：在笔记顶部输入
 
-```YAML
+```yaml
 ---
 obsidianUIMode: preview
 ---
@@ -48,7 +48,7 @@ obsidianUIMode: preview
 
 或者
 
-```YAML
+```yaml
 ---
 obsidianUIMode: source
 obsidianEditingMode: live

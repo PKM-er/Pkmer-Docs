@@ -193,7 +193,7 @@ Notebooks 可以选择使文件的第一行成为 H1 标题（默认情况下同
 
 ### 对应 Snippets
 
-```CSS
+```css
 /* Font for the markdown source (edit) view */
 .longform-leaf .cm-s-obsidian
 {

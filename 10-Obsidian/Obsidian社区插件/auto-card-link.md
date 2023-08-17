@@ -36,7 +36,7 @@ modified: 20230516193235
 
 ### 卡片样式微调
 
-````YAML
+````yaml
 ```cardlink
 url: https://obsidian.md/
 title: "Obsidian"
@@ -60,7 +60,7 @@ image: https://obsidian.md/images/banner.png
 - 插入的方式是以 YAML 语法，使用代码块生成的，与 HTML 标签不同，它不会打乱你的 Markdown 文件
 - 参见下面：
 
-````YAML
+````yaml
 ```cardlink
 url: https://obsidian.md/
 title: "Obsidian"

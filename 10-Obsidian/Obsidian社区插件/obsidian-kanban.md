@@ -37,7 +37,7 @@ modified: 20230705170724
 
 像编辑笔记一样，利用 frontmatter，新建一个 markdown 文档，然后用 yaml 语法进行 yaml 标记：
 
-```YAML
+```yaml
 kanban-plugin: basic
 ```
 

@@ -22,7 +22,7 @@ modified: 20230619195950
 
 由上面需求的同学，下面的内容能帮到你。如何使用样式代码片段，参考：[[Obsidian的CSS代码片段]]
 
-```CSS
+```css
 .view-content .markdown-source-view .inline-title {
 	align-self: center;
 }

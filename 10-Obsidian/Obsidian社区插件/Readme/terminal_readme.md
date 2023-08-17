@@ -202,7 +202,7 @@ __终端仿真器__
 
 对于新的语言环境，请创建一个以其语言标签命名的新目录，并将 [`assets/locales/en/translation.json`](assets/locales/en/translation.json) 复制到其中。然后，在 [`assets/locales/en/language.json`](assets/locales/en/language.json) 中按以下格式添加一个条目：
 
-```JSONc
+```json
 {
 	// ...
 	"en": "English",
@@ -219,7 +219,7 @@ __终端仿真器__
 - 不要翻译 `{{` 和 `}}` 之间的任何内容（`{{example}}`）。它们是 __ 插值 __，将在运行时替换为本地化字符串。
 - 不要翻译 `$t(` 和 `)` 之间的任何内容（`$t(example)`）。它们是对其他本地化字符串的引用。要找到所引用的本地化字符串，请按照由点（`.`）分隔的键的路径进行查找。例如，键 [`youtu.be./dQw4w9WgXcQ`](https://youtu.be./dQw4w9WgXcQ) 引用了以下内容：
 
-```JSONc
+```json
 {
 	// ...
 	"youtu": {

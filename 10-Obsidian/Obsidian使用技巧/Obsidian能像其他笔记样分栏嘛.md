@@ -38,7 +38,7 @@ modified: 20230603165054
 
 ![image.png](https://cdn.pkmer.cn/images/20230603163405.png!pkmer)
 
-```语法
+```html
 > [!multi-column]
 >
 >> [!note]+ 待办事项
@@ -56,7 +56,7 @@ modified: 20230603165054
 
 ![image.png](https://cdn.pkmer.cn/images/20230603163424.png!pkmer)
 
-```语法
+```html
 > [!multi-column]
 >
 >> [!note]+ 待办事项
@@ -76,7 +76,7 @@ modified: 20230603165054
 
 ![image.png](https://cdn.pkmer.cn/images/20230603164937.png!pkmer)
 
-```语法
+```html
 > [!multi-column]
 >
 >> [!note]+ 待办事项

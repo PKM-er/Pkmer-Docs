@@ -151,7 +151,7 @@ Johnny Noble 的 [Johnny Decimal](https://johnnydecimal.com/)
 
 第一个分类法看起来是这样的：
 
-```txt
+```html
 For a very small Library
 A — Works of reference and works of a general character covering several classes Includes such works as are usually kept in the Delivery Room or the Reading Room for the free use of the public, such as the best dictionaries of languages and other subjects ; encyclopaedias, both general and special, handbooks of dates, dictionaries of biography and peerages, gazetteers, manuals of statistics, books of quotations, concordances, etc.
 B — Philosophy and Religion Includes Moral philosophy.
@@ -169,7 +169,7 @@ Yf — Fiction To save time it is not unusual to omit the class-mark of the clas
 
 在与尼克进行了一次愉快的交谈后，我们共同合作，将 UDC 和 Cutter 分类结合起来，形成了现在的 LYT：
 
-```txt
+```html
 The Self
 000 Knowledge Management
 100 Personal Management

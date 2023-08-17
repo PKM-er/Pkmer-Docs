@@ -67,12 +67,12 @@ tags: kr-dev steemit
 
 被 HTML 注释标签包围的文本（见下文）将被忽略，不会发布到 Steemit。如果有一些你想从 Steemit 中排除但保留在同一个 Obsidian markdown 文件中的内容，这将非常方便。
 
-```plaintext
+```html
 %%
 这是一个多行注释，很酷！
 %%
 ```
 
-```plaintext
+```html
 %% 这是一个行内注释。%%
 ```

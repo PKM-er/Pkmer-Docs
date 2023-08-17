@@ -39,7 +39,7 @@ modified: 20230604172758
 
 水平堆砌滚动方式：
 
-````语法
+````html
 ```img-gallery
 path: Attachments/Folder
 type: horizontal
@@ -47,7 +47,7 @@ type: horizontal
 
 垂直堆砌滚动方式：
 
-````语法
+````html
 ```img-gallery
 path: Attachments/Folder
 type: vertical

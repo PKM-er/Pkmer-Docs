@@ -150,7 +150,7 @@ LiquidJS 的 [内置 `date` 过滤器](https://liquidjs.com/filters/date.html) �
 
 这可以用于 " 每周回顾 " 模板，例如：
 
-```plaintext
+```html
 - [[{{ 7 | days_ago | date }}]]
 - [[{{ 6 | days_ago | date }}]]
 - [[{{ 5 | days_ago | date }}]]

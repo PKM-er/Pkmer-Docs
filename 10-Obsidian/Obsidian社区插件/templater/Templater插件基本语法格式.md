@@ -12,7 +12,7 @@ modified: 20230816110059
 
 # Templater 基本语法格式
 
-```格式
+```html
 <% %>
 ```
 
@@ -24,17 +24,17 @@ modified: 20230816110059
 
 **自动放入文档名**
 
-```格式
+```html
 <% tp.file.title %>
 ```
 
 **弹出选项**
 
-```格式
+```html
 <% tp.system.suggester([],[])%>
 ```
 
-```格式
+```html
 <% tp.system.suggester(["Happy", "Sad", "Confused"], ["Happy", "Sad", "Confused"]) %>
 ```
 
@@ -44,37 +44,37 @@ modified: 20230816110059
 
 **弹出文本框（可输入数值）**
 
-```格式
+```html
 <% tp.system.prompt(" 收款 ") %>
 ```
 
 **弹出文本框 + 框内提示信息**
 
-```格式
+```html
 <% tp.system.prompt("What is your mood today ?", "happy") %>
 ```
 
 **自动复制剪贴板内容**
 
-```格式
+```html
 <% tp.system.clipboard() %>
 ```
 
 **选择一个文件夹并插入一个文档链接**
 
-```格式
+```html
 [[<% (await tp.system.suggester((item) => item.basename, app.vault.getMarkdownFiles().filter(file => file.path.startsWith('0')))).basename %>]]
 ```
 
 **选择多个文件夹并插入一个文档链接**
 
-```格式
+```html
 [[<% (await tp.system.suggester((item) => item.basename, app.vault.getMarkdownFiles().filter(file => file.path.startsWith('1-') || file.path.startsWith('4-')))).basename %>]]
 ```
 
 **单选 - 储存变量 - 输出结果**
 
-```格式
+```html
 <%*
 const execution_value = await tp.system.suggester(["Yes", "No"], ["true", "no"])
 %>

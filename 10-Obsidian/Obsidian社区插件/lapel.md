@@ -40,7 +40,7 @@ modified: 20230604172500
 	- 每个标题级别可以用 CSS 分别定义样式
 	- 例如，如果您希望所有 H6 看起来像更多菜单，只需增加 CSS Snippets 文件如下即可：
 
-```CSS
+```css
 .cm-heading-marker[data-level="6"] {
   --heading-marker: "☰";
 }
