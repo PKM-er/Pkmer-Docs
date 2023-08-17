@@ -1,8 +1,8 @@
 ---
 uid: 20230721104919
 title: Zotero 基本使用
-tags: []
-description: 
+tags: [zotero]
+description:
 author: PKMer
 type: other
 draft: false
