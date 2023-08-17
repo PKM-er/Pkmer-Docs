@@ -7,7 +7,7 @@ author: winding,不秃燃的小老弟
 type: other
 draft: false
 editable: false
-modified: 20230817161602
+modified: 20230817165642
 ---
 
 # 【引文 插件】在 WPS 中使用 Zotero Word 插件
@@ -16,17 +16,19 @@ modified: 20230817161602
 
 ---
 
-> [!info]  **Zotero Word 插件在 WPS 的使用操作与 Office Word 类似，因此不再展开说明，点击下方蓝字可查看 📝** [[3.1-在 Word 中插入引文]]
+> [!info] **Zotero Word 插件在 WPS 的使用操作与 Office Word 类似，因此不再展开说明，点击下方蓝字可查看 📝** [[3.1-在 Word 中插入引文]]
 
 > **🔊🔊🔊 必看！！！**：当新建一个空白的 Word 文档用 WPS 打开撰写论文等情况时：一定要先用 WPS 里的 Zotero Word 加载项插入几个文献，再点击**Add/Edit Citation 等这 6 个按钮**，尤其是一定要多次点击**Refresh**和**Unlink Citations**按钮，检查是否正常使用！！！（无法正常使用请见本文档 **四、Refresh/Unlink Citations 莫名失效**）
 
-> [!warning]  **以下是 WPS 的 Zotero Word 加载项的常见问题及解决方法，均以 Window 系统为例演示 📝：**
+> [!warning] **以下是 WPS 的 Zotero Word 加载项的常见问题及解决方法，均以 Window 系统为例演示 📝：**
 
 一、没有显示 Zotero 加载项
 
 ---
 
-![73de88ecec3bbba2ddefc69fa5741dbf_MD5](https://cdn.pkmer.cn/images/202308171549090.png!pkmer) :::success **❓**如上图所示，WPS 的文档界面不显示 Zotero 加载项。**解决办法如下**： :::
+![73de88ecec3bbba2ddefc69fa5741dbf_MD5](https://cdn.pkmer.cn/images/202308171549090.png!pkmer)
+
+ > [!note] **❓**如上图所示，WPS 的文档界面不显示 Zotero 加载项。**解决办法如下**：
 
 ## 1、检查 Microsoft Word 加载项
 
@@ -42,7 +44,7 @@ modified: 20230817161602
 
 ![e0845b210b6f6ca8076a81a78e5853f3_MD5](https://cdn.pkmer.cn/images/202308171549093.png!pkmer)
 
-### ![4a3c7755cb85eb19bc614090a3f08676_MD5](https://cdn.pkmer.cn/images/202308171549094.png!pkmer)
+![4a3c7755cb85eb19bc614090a3f08676_MD5](https://cdn.pkmer.cn/images/202308171549094.png!pkmer)
 
 ## 2、WPS.VBA 插件的安装
 
@@ -96,17 +98,17 @@ modified: 20230817161602
 
 ![b8282b0cdce33505057400c176ea2cc5_MD5](https://cdn.pkmer.cn/images/202308171549104.png!pkmer)
 
-:::success **❓**如上图所示，在 WPS 使用 Zotero 加载项的各个按钮时，会出现弹窗警告。**解决方法如下**： :::
+> [!note] **❓**如上图所示，在 WPS 使用 Zotero 加载项的各个按钮时，会出现弹窗警告。**解决方法如下**：
 
 ## 1、解决方法一
 
 新建一个 Word 文档，先用 **Office **打开此文档，用 Zotero 加载项 **插入一篇文献 **后，保存此文档即可。
 
-![83ee28582510c7573aceb4284b3c4ac0_MD5](https://cdn.pkmer.cn/images/202308171549105.png!pkmer):::warning **🏷️ 注**：设置较简单，仅适用于**同时安装 Office 和 WPS**。以后再使用时，可能还会报错。
+![83ee28582510c7573aceb4284b3c4ac0_MD5](https://cdn.pkmer.cn/images/202308171549105.png!pkmer)
 
-如仍报错：可能是将光标置于插入引文 Citaion 和参考文献 References 位置的**前后或内部**
-
-解决方法：将光标定位在远离上述位置如正文文字处 :::
+> **🏷️ 注**：设置较简单，仅适用于**同时安装 Office 和 WPS**。以后再使用时，可能还会报错。
+> 如仍报错：可能是将光标置于插入引文 Citaion 和参考文献 References 位置的**前后或内部**
+> 解决方法：将光标定位在远离上述位置如正文文字处
 
 ## 2、解决方法二
 
@@ -114,13 +116,12 @@ modified: 20230817161602
 
 ![a24bbdd6425f0d2aea3a7f34a0989386_MD5](https://cdn.pkmer.cn/images/202308171549106.png!pkmer)
 
-> [!warning] > **🏷️ 注**：设置较复杂，适用于 **同时装有 Office 和 WPS **或 **只装有 WPS** :::
+> [!warning] **🏷️ 注**：设置较复杂，适用于 **同时装有 Office 和 WPS **或 **只装有 WPS**
+>  **🏷️ 注**：若【**开发工具**】选项卡的内容为灰色，即无法点击操作。
+>  **解决方法**：安装 WPS.VBA 插件（详见本文档 **WPS.VBA 插件的安装**）
+>  或需升级更新 WPS 版本，以及可能需要安装使用 WPS 专业版等版本。
 
-warning **🏷️ 注**：若【**开发工具**】选项卡的内容为灰色，即无法点击操作。
-
-**解决方法**：安装 WPS.VBA 插件（详见本文档 **WPS.VBA 插件的安装**）
-
-或需升级更新 WPS 版本，以及可能需要安装使用 WPS 专业版等版本。 ::: 2）弹出对话框，双击进入上方地址栏并复制**地址**，或地址栏处右键单击，再单击【**将地址复制为文本**】。复制好地址后，即可关闭当前窗口。
+2）弹出对话框，双击进入上方地址栏并复制**地址**，或地址栏处右键单击，再单击【**将地址复制为文本**】。复制好地址后，即可关闭当前窗口。
 
 ![81ab37e57b20cd4223c7e3b4c42f0232_MD5](https://cdn.pkmer.cn/images/202308171549107.png!pkmer)
 
@@ -148,15 +149,18 @@ warning **🏷️ 注**：若【**开发工具**】选项卡的内容为灰色�
 
 7）左上角单击【**保存**】图标或快捷键 **Ctrl+S** 保存 **Normal.dotm** 文档。重新用 WPS 打开一个 Word 文档检查是否不再出现报错窗口。
 
-![8a33ca40095a62ad5b3c6857dc6add55_MD5](https://cdn.pkmer.cn/images/202308171549114.png!pkmer):::warning **🏷️ 注**：如仍报错：可能是将光标置于插入引文 Citaion 和参考文献 References 位置的**前后或内部**
+![8a33ca40095a62ad5b3c6857dc6add55_MD5](https://cdn.pkmer.cn/images/202308171549114.png!pkmer)
 
-解决方法：将光标定位在远离上述位置如正文文字处 :::
+> **🏷️ 注**：如仍报错：可能是将光标置于插入引文 Citaion 和参考文献 References 位置的**前后或内部**
+> 解决方法：将光标定位在远离上述位置如正文文字处
 
 **三、Refresh/Unlink Citations 问号图标**
 
 ---
 
-![d566856af09a69bd03db196b1e3744cf_MD5](https://cdn.pkmer.cn/images/202308171549115.png!pkmer):::success **❓**如上图所示，\*\*Refresh \*\* 和 \*\*Unlink Citations \*\* 图标显示为问号，**解决办法如下**： :::
+![d566856af09a69bd03db196b1e3744cf_MD5](https://cdn.pkmer.cn/images/202308171549115.png!pkmer)
+
+> **❓**如上图所示，\*\*Refresh \*\* 和 \*\*Unlink Citations \*\* 图标显示为问号，**解决办法如下**：
 
 ## 1、直接安装美化后的图标文件
 
@@ -164,7 +168,7 @@ warning **🏷️ 注**：若【**开发工具**】选项卡的内容为灰色�
 
 ![a01d83b2dbe0f1d2c356c891336416ec_MD5](https://cdn.pkmer.cn/images/202308171549116.png!pkmer)
 
-> [!warning] > **🏷️ 注**：只需选择使用一个自己喜爱的图标文件或可自己编辑设计图标。
+> [!warning] **🏷️ 注**：只需选择使用一个自己喜爱的图标文件或可自己编辑设计图标。
 
 下方是 5 个已编辑好的 **Refresh **和 **Unlink Citations **图标的图片展示。
 
@@ -176,7 +180,7 @@ warning **🏷️ 注**：若【**开发工具**】选项卡的内容为灰色�
 
 ![7b352103fed9e315ab8c3543f0ceb4f1_MD5](https://cdn.pkmer.cn/images/202308171549118.png!pkmer)
 
-> [!warning] > **🏷️ 注**：因为没更换 Zotero 安装路径的 Zotero.dotm，且 Office Word 的启动项文件夹未放置 Zotero.dotm。
+> [!warning] **🏷️ 注**：因为没更换 Zotero 安装路径的 Zotero.dotm，且 Office Word 的启动项文件夹未放置 Zotero.dotm。
 
 > [!info]
 > 这样做的考虑是：保持 Office Word 的 Refresh 和 Unlink Citations 图标不变动，同时保留原有的 Zotero.dotm，以备不时之需。当然也可自己按喜好设置更换。
