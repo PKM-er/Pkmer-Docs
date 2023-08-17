@@ -37,7 +37,7 @@ modified: 20230705145020
 
 > `^folder1`
 
-```结果
+```html
 - folder1 <- match
   - folder1
   - folder2
@@ -50,7 +50,7 @@ modified: 20230705145020
 
 > `abc`
 
-```结果
+```html
 - folder1
   - folder1
     - subabcfolder1 <- match
@@ -64,7 +64,7 @@ modified: 20230705145020
 
 > `\/folder$`
 
-```结果
+```html
 - folder1
   - folder1
   - folder2
@@ -75,7 +75,7 @@ modified: 20230705145020
 
 > `\/?folder$`
 
-```结果
+```html
 - folder1 <- match
   - folder1
   - folder2
@@ -86,7 +86,7 @@ modified: 20230705145020
 
 > `folder1\/folder`
 
-```结果
+```html
 - folder1
   - folder1 <- match
   - folder2

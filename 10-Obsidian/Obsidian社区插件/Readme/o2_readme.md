@@ -65,7 +65,7 @@ O2 是一个将 Obsidian Markdown 文件转换为其他 Markdown 平台（如 Je
 
 您应该有一个类似这样的文件夹结构。（当然，您可以在设置中更改文件夹名称）
 
-```text
+```html
 您的保险库
 ├── ready（放置您想要转换的笔记的位置）
 ├── backup（放置转换前的原始笔记的位置）
@@ -90,7 +90,7 @@ O2 是一个将 Obsidian Markdown 文件转换为其他 Markdown 平台（如 Je
 
 #### 设置
 
-```text
+```html
 你的Jekyll项目（例如：/Users/user1/Documents/GitHub/user1.github.io）
 ├── _posts（转换后的笔记存放的位置）
 └── assets

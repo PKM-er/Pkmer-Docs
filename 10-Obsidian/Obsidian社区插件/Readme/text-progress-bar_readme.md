@@ -54,7 +54,7 @@ modified: 20230101000000
 默认值将从插件设置中获取。
 
 ~~~
-```text-progress-bar
+```html-progress-bar
 已读书籍：1/10
 ```
 ~~~
@@ -64,7 +64,7 @@ modified: 20230101000000
 可选地，可以指定所有设置：
 
 ~~~
-```text-progress-bar
+```html-progress-bar
 已读书籍：5/10
 transition:|
 fill:▓
@@ -82,7 +82,7 @@ length:10
 想要表情符号吗？我们有：
 
 ~~~
-```text-progress-bar
+```html-progress-bar
 孵化的小鸡：5/10
 fill:🐥
 empty:🥚
@@ -97,7 +97,7 @@ length:10
 指定一个过渡来显示部分完成的字符：
 
 ~~~
-```text-progress-bar
+```html-progress-bar
 那不是月亮：10/20
 transition: 🌘,🌗,🌔
 fill:🌕
@@ -113,7 +113,7 @@ length:3
 并使用小数来指定表情符号的部分完成情况
 
 ~~~
-```text-progress-bar
+```html-progress-bar
 已读书籍：5.5/10
 transition:📖
 fill:📗
@@ -125,7 +125,7 @@ length:10
 或者使用 ASCII 字符来进行过渡：
 
 ~~~
-```text-progress-bar
+```html-progress-bar
 已读书籍：5/10
 transition:⣦
 fill:⣿
@@ -143,7 +143,7 @@ length:3
 可以使用多个标签将进度条分组在一个块中。
 
 ~~~
-```text-progress-bar
+```html-progress-bar
 JAN:10.0/10
 FEB:1.0/10
 MAR:5.5/10

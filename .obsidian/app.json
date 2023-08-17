@@ -17,5 +17,6 @@
   "livePreview": true,
   "defaultViewMode": "source",
   "autoPairMarkdown": false,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "showLineNumber": true
 }

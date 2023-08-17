@@ -103,7 +103,7 @@ Wikilink 格式（`![[path/to/image.png]]`）在幻灯片中**不起作用**，*
 
 #### 示例：如果将 `MarpTheme` 设置为 `主题文件夹位置`
 
-```text
+```html
 <你的笔记库>
 └── MarpTheme  ← 创建这个文件夹
     ├── beamer.css  ← 然后在这里保存自定义的 CSS！

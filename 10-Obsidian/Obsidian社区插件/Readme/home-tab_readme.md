@@ -85,7 +85,7 @@ Obsidian Home tab 是一个 [Obsidian](https://obsidian.md/) 插件，它添加�
 
 例如，以下代码块将呈现搜索栏和标记的文件。
 
-````text
+````html
 ```search-bar
 only search bar
 show starred files

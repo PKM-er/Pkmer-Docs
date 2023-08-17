@@ -131,7 +131,7 @@ due before in two weeks
 
 比如查询 pkmer 文件夹下，`代办任务` 标题下的任务
 
-````text
+````html
 ```tasks
 not done
 heading includes 代办任务

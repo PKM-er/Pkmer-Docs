@@ -201,7 +201,7 @@ Readwise 链接：{{ highlights_url }}
 亮点模板暴露以下变量：
 
 - ```id```: 亮点的id
-- ```text```: 被突出显示的文本
+- ```html```: 被突出显示的文本
 - ```note```: 你的注释
 - ```location```: 位置
 - ```location_url```: 位置的URL

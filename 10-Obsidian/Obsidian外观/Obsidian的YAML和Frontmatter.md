@@ -97,7 +97,7 @@ Obsidian 目前使用或优化 YAML Front-matter 的插件并不算多，据我�
 
 如果你已经按部就班设置了适合自己的 YAML Frontmatter ，那么你可以根据以下的代码块适应性修改来生成自己的 Dataview 表格：
 
-```text
+```html
 ​```Dataview
 table Completed, Priority, Project, defer-date as "Defer Date", due-date as "Due Date", recur-length as "Recur Length", defer-date + recur-length as "Next Date"
 from #tasks
@@ -110,7 +110,7 @@ sort doDate asc
 
 而 Query2table 也是类似的，采用下方的代码生成：
 
-```text
+```html
 ​```query2table
 query: "tag: article"
 fields: 
