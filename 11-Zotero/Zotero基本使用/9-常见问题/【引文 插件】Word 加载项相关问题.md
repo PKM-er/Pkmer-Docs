@@ -7,32 +7,26 @@ author: Northword,winding,ShareStuff
 type: other
 draft: false
 editable: false
-modified: 20230817161519
+modified: 20230817195210
 ---
 
 # 【引文 插件】Word 加载项相关问题
 
-Word 中没有 Zotero 选项卡
-
----
+## Word 中没有 Zotero 选项卡
 
 一些朋友在 Word 中的 Zotero 选项卡突然消失了，或者使用的时候报错要求重装/升级该加载项。 **这一加载项需要在 \[Zotero 首选项\] 中安装** 。具体步骤如下：
 
 1. 保存好正在编辑的 Word 文档，并**彻底退出 Word**。
-2. 打开 \[Zotero 首选项\]。
+2. 打开 [[Zotero 首选项]]。
 3. 在 \[引用/Cite\] -> \[文字处理软件/Word Processors\] 中点击 \[重新安装 Microsoft Word 加载项/Reinstall Microsoft Word Add-in\] 即可完成安装/更新/重装。
     ![a17bbb40e5942085e558ce34c6f7b5fa_MD5](https://cdn.pkmer.cn/images/202308171550068.png!pkmer)
 
 > [!warning]
 > 如果退出 Word 后重新安装这一加载项仍然报错，建议重启电脑后再尝试。
 
-报错“无法与 Zotero 通讯”
-
----
+## 报错“无法与 Zotero 通讯”
 
 您已经修改该引文，是否保留更改？
-
----
 
 ![ff6fee71764b3f721be73d1bc601b855_MD5](https://cdn.pkmer.cn/images/202308171550069.png!pkmer)
 
@@ -44,8 +38,7 @@ Word 中没有 Zotero 选项卡
 
 如果已经点了 “是 yes”，Zotero 不再对这一处引文进行更新，而后续又想要 Zotero 对其更新，可以参照以下方法：
 
-使 Zotero 恢复对引文的更新
------------------
+## 使 Zotero 恢复对引文的更新
 
 首先分析一下 Word 加载项 在 word 留下的域代码结构，以 [https://doi.org/10.1021/acscatal.0c05697](https://doi.org/10.1021/acscatal.0c05697) 为例，其正常插入 Word 后产生的域代码为：
 

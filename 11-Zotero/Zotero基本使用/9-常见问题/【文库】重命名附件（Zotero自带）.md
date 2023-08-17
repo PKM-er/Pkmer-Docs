@@ -7,24 +7,20 @@ author: winding
 type: other
 draft: false
 editable: false
-modified: 20230817161638
+modified: 20230817194738
 ---
 
 # 【文库】重命名附件（Zotero 自带）
 
 > Zotero 6 及以上自带重命名附件功能，无需借助 zotfile。
 
-设置位置
-
----
+## 设置位置
 
 编辑 - 首选项 - 常规 - 使用父类元数据自动重命名附件文件。开启即可。
 
 ![33bc8a01b8bd11b245ec7ba23dd2441e_MD5](https://cdn.pkmer.cn/images/202308171549318.png!pkmer)
 
-设置重命名格式
-
----
+## 设置重命名格式
 
 见 [[7-高级设置]] -Zotero- 通用设置第一项。
 

@@ -14,9 +14,7 @@ modified: 20230817155055
 
 正常来说，Zotero 在安装时会自动在浏览器里安装这一个插件，但有可能因为各种原因未成功安装。
 
-Chrome 或 Edge 用户
-
----
+## Chrome 或 Edge 用户
 
 如果浏览器中没有 Zotero Connecter 导致无法抓取元数据，请根据使用的浏览器选择对应的版本安装：
 
@@ -30,9 +28,7 @@ Chrome 或 Edge 用户
 
 [\-> 如何在 Chrome 中安装第三方插件](https://chrome.zzzmh.cn/help?token=setup)
 
-Safari 用户
-
----
+## Safari 用户
 
 Zotero 6.0 以上版本才有支持 Safari 的插件。如果你还未安装新版 Zotero，或安装以后 Safari 里依然找不到 Zotero Connecter，你可以重新下载新的 Zotero 安装包，并重新（覆盖）安装。
 
