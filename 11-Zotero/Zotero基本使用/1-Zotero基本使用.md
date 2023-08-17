@@ -7,13 +7,13 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230817164007
+modified: 20230817180431
 ---
 
 # Zotero 基本使用
 
 - [[0-文档简介]]
-- [[1-Zotero 是什么？为什么使用 Zotero？]]
+- [[Zotero]]
 - [[2-快速上手]]
 	- [[2.1-Zotero下载与安装]]
 	- [[2.2-将条目添加进文献库]]

@@ -12,7 +12,7 @@ modified: 20230817161115
 
 # 在 word 里面使用 zotero 一些奇奇怪怪的问题
 
-### 一、word 的 zotero 被禁用了怎么办
+## 一、word 的 zotero 被禁用了怎么办
 
 以 Word 为例，点击程序左上角的【Office 按钮】
 
@@ -28,13 +28,13 @@ modified: 20230817161115
 
 选择其中的【禁用项目】后可以启用被禁用的加载项内容
 
-### 二、zotero word 插件在那个文件夹
+## 二、zotero word 插件在那个文件夹
 
 `C:\\Program Files (x86)\\Zotero\\extensions\\zoteroWinWordIntegration@zotero.org\\install`
 
-### 三、zotero 中文字处理软件加载不了 word，应该怎么办?
+## 三、zotero 中文字处理软件加载不了 word，应该怎么办?
 
-### 四、word 里面的 zotero 插件不能搜索文献，只能用经典视图选中文献怎么办
+## 四、word 里面的 zotero 插件不能搜索文献，只能用经典视图选中文献怎么办
 
 重新禁用再启用一下 Word 插件，不行再重装
 

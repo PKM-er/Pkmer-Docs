@@ -7,7 +7,7 @@ author: Northword,ShareStuff
 type: other
 draft: false
 editable: false
-modified: 20230817161427
+modified: 20230817195336
 ---
 
 # 【引文】Zotero 将引注链接到参考文献表
@@ -251,8 +251,6 @@ Public Sub ZoteroLinkCitation()
 - 手动更新引注时会出现引注已被修改的弹窗
 - 无法实现从参考文献表跳转到引注
 - 同时引用多个引注时只能链接最后一个。
-
----
 
 1. 来源添加 [↩︎](#fnref1)
 2. [Word: Possibility to link references and bibliography in a document? -  Zotero Forums](https://forums.zotero.org/discussion/comment/324312/#Comment_324312) [↩︎](#fnref2)
