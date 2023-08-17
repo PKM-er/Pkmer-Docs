@@ -33,7 +33,7 @@ Obsidian 被很多人认为是“All in one”的绝佳选择，抛开主观感�
 1. 在当前笔记最顶部增加 front-matter，参考 [[Obsidian的YAML和Frontmatter]]
 2. 声明 cssClasses
 
-````yaml
+````YAML
 ---
 cssclasses: cards
 ---

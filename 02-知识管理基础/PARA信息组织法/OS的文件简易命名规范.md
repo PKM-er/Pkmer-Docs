@@ -239,11 +239,11 @@ modified: 20230601154840
 
 以上内容只是提供一个可供参考的模板，在实际命名中，要实际情况实际分析，灵活变更。寻找适合你自己的命名规则，比如你是一个摄影师，或者实验室工作：
 
-```html
+```实验素材
 YYYYMMDD_Attr1.Attr2.Attr3.Attr4_Tag1.Tag2_Author1_Comment.ext
 ```
 
-```html
+```实验素材
 20140623-FR3S.129C.2653-NewProgress_BD.JPG
 
     日期：20230601，2023年06月01日
@@ -256,11 +256,11 @@ YYYYMMDD_Attr1.Attr2.Attr3.Attr4_Tag1.Tag2_Author1_Comment.ext
     研究人员：BD（Bruce D）
 ```
 
-```html
+```影像素材
 YYYYMMDD-Theme.Scene.Camera.ResFps.Codec.FileNum-Tags_Authors.ext
 ```
 
-```html
+```影像素材
 20211025-102501-幼儿园儿童节活动.开幕.EOSR6MarkII.4k60.BTS-Zhang.mov
 
     时间：2023年06月01日 10点25分01秒

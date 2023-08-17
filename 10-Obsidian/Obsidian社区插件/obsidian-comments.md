@@ -74,7 +74,7 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 
 要修改高亮显示文本的默认背景色/文本颜色，参考如下代码片段：
 
-```css
+```CSS
 .ob-comment {
   color: #8f0303;
   background-color: #CCA300;
@@ -83,7 +83,7 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 
 修改批注气泡的默认背景颜色 /文本颜色以进行：
 
-```css
+```CSS
 .ob-comment span {
   background-color: #FFDE5C;
   color: #b30202;
@@ -92,7 +92,7 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 
 修改悬停在其上时的高亮颜色：
 
-```css
+```CSS
 .ob-comment:hover {
   background-color: #FFDE5C;
 }

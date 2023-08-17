@@ -41,7 +41,7 @@ modified: 20230612115653
 - 通过增加空行来划分栏目数量
 - 双栏
 
-````html
+````语法
 > [!col]
 > A col callout
 >
@@ -50,7 +50,7 @@ modified: 20230612115653
 
 - 三栏：
 
-````html
+````语法
 > [!col]
 > A col callout
 >
@@ -68,7 +68,7 @@ modified: 20230612115653
 - 可以通过在 col-md 名称后添加宽度来调整 col-md 标注的宽度
 - 双栏
 
-````html
+````语法
 > [!col]
 > A col callout
 >
@@ -90,7 +90,7 @@ col 代码块，输入更加快捷，如下面示例，而且插件提供了高�
 
 - 语法
 
-`````html
+`````语法
 ````col
 height=longtest
 ===
@@ -116,7 +116,7 @@ line 2
 ![image.png](https://cdn.pkmer.cn/images/20230612115317.png!pkmer)
 - 语法
 
-````````html
+````````语法
 ```````col
 ``````col-md
 flexGrow=1
@@ -170,7 +170,7 @@ console.log(msg)
 
 ![image.png](https://cdn.pkmer.cn/images/20230612115428.png!pkmer)
 
-```html
+```语法
 - !!!col
 	- 1
 

@@ -110,13 +110,13 @@ Cardboard 与 [[obsidian-tasks-plugin]] 插件和 Dataview 插件中使用的到
 
 - Dataview 插件
 
-```html
+```语法
 - [ ] todo in Dataview format [due:: 2021-10-30] [completion:: 2021-10-29]
 ```
 
 - Tasks 插件
 
-```html
+```语法
 - [ ] todo in Tasks format 📅 2021-10-30 ✅ 2021-10-29
 ```
 

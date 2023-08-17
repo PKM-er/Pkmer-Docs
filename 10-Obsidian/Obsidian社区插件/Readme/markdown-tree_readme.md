@@ -70,7 +70,7 @@ root
 
 渲染后的输出将为：
 
-```html
+```plaintext
 .
 └── root
     └── second

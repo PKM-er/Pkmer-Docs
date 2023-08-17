@@ -24,7 +24,7 @@ modified: 20230619201503
 2. 在 Obsidian 外观中安装并使用其他主题，很多主题都为双链设置了颜色。
 3. 使用 CSS 片段，直接干预颜色，无视你使用主题具体是什么，也无视你设置的主题色
 
-```css
+```CSS
 .cm-hmd-internal-link .cm-underline {
 	color:#eeab35 !important;
 }

@@ -39,7 +39,7 @@ modified: 20230715000559
 
 - 使用方法：
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[slider(addLabels, minValue(1), maxValue(10)):slider1]
 ```
@@ -61,7 +61,7 @@ INPUT[slider(addLabels, minValue(1), maxValue(10)):slider1]
 
 - 使用方法：
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[date(showcase):date1]
 ```
@@ -74,7 +74,7 @@ INPUT[date(showcase):date1]
 
 - 使用方法：
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[date_picker(showcase):date2]
 ```
@@ -87,7 +87,7 @@ INPUT[date_picker(showcase):date2]
 
 - 选择使用方法
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[time(showcase):time]
 ```
@@ -101,7 +101,7 @@ INPUT[time(showcase):time]
 
 - 使用方法：
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[select(
 title(单选题：选择下列答案中的一个),
@@ -129,7 +129,7 @@ option(option d)
 
 - 使用方法：
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[multi_select(
 title(多选题：选择下列答案中的一个或多个),
@@ -156,7 +156,7 @@ option(option d)
 
 - 使用方法
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[text:nested["object"]]
 ```
@@ -174,7 +174,7 @@ INPUT[text:nested["object"]]
 
 - 使用方法：
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[text_area(
 title(text area),
@@ -196,7 +196,7 @@ class(meta-bind-high)
 
 比文本框更进一步，支持简单的 markdown 语法甚至是内链，有了这个方式，你可以制作一个自己的灵感手机框，直接写入到具体的笔记中。
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[editor(showcase):editor]
 ```
@@ -211,7 +211,7 @@ INPUT[editor(showcase):editor]
 
 - 使用方法
 
-````yaml
+````YAML
 ```meta-bind
 INPUT[toggle(showcase):toggle]
 ```

@@ -45,13 +45,13 @@ color:                  # 自定义颜色(颜色必须是 RGB 格式的三组数
 
 - 嵌套 ad 通过增加反引号的数量来决定嵌套的层级
 
-`````html
+`````ad-note
 title: 这是一个嵌套Ad
 collapse: open
 
 Hello!
 
-````html
+````ad-note
 title: 我是被嵌套的
 我是一个被嵌套进去的ad
 

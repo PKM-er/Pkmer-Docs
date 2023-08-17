@@ -154,7 +154,7 @@ int longestSemiRepetitiveSubstring(char * s){
 
 - 源码
 
-`````html
+`````实例内容
 ````tab
 tab: 每日任务
 - [ ] 建设PKMER
@@ -178,7 +178,7 @@ tab: 长期任务
 
 - 源码
 
-`````html
+`````示例语法
 ````tab
 tab: 分治法
 ##### Easy
@@ -222,7 +222,7 @@ tab: 动态规划
 
 - 源码
 
-`````html
+`````示例语法
 ````tab
 tab:难度为Easy
 ```dataview

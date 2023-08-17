@@ -46,7 +46,7 @@ Dataview 中可以使用的字面常量有三种
 
 如果你尝试用 `typeof()` 函数获取类似 `2023-07-21` 或者 `"2023-07-21"` 的数据类型，他会告诉你是 number 类型和 string 类型。我们需要用 `date()` 函数把这些类型转换成日期；
 
-`````
+`````示例代码
 ```dataview
 table without id
 typeof(2023-07-21), typeof("2023-07-21")
@@ -70,7 +70,7 @@ limit 1
 
 比如你想记录这周创建的所有文件，你可以这样写
 
-`````
+`````示例代码
 ```dataview
 table file.cday
 where file.cday >= date(sow)

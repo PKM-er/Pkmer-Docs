@@ -186,7 +186,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 - 主体法：在主体市场寻找这样效果的主体
 - CSS 法：将下面内容，保存到 .css 后缀的文件，放到对应目录。[[Obsidian的CSS代码片段]]
 
-```css
+```CSS
 .nav-folder.mod-root .nav-folder > .nav-folder-children {
 	border-left:unset !important;
 }
@@ -237,7 +237,7 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 
 回答：将如下代码加入片段，启用即可，可自定义想要的字体。（任何主题都适用）
 
-```css
+```CSS
 /* 字体设置 */
 body {
   font-family:"times new roman"," 宋体 "!important;
@@ -286,7 +286,7 @@ Obsidian 的笔记中，标题可以显示当前标题等级。
 
 如何使用独立 CSS 片段，可以参考 [[02、Obsidian 的 Snippets]]
 
-```css
+```CSS
 /*使用H1-H6 代替#号来显示标题等级*/
 
 /*适配Live preview模式*/
@@ -435,7 +435,7 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 	- 明明按照 # 号后面空格增加 内容的方式，但是就是不变成标题。
 - 解决
 
-```markdown
+```Markdown
 注意区别 
  # 我是标题，但没变成该有的样子
 和 
@@ -481,7 +481,7 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 	- 可能原因 1：你使用的主题或者 snippets 存在 Bug
 		- Lime_ 百草霜主题老版中，将 font-weight 设置了较低的值。到主题文件，注释掉对应的语句，即可解决问题，位置如下：
 
-```css
+```CSS
 
 strong {
 
@@ -511,7 +511,7 @@ strong {
 
 - 实时阅览下复制代码域（代码块）中的内容
 
-```css
+```CSS
 .class A {
 	color:red;
 }

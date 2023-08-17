@@ -33,7 +33,7 @@ modified: 20230725152958
 - 这是主题引入的一些小设置，本身对主题和功能没有任何副作用，如果你介意，可以参考如下方法
 - 在主题的 CSS 文件找到如下
 
-```css
+```CSS
 body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*="emoji"]) {
   display: block;
   margin: auto !important;
@@ -105,7 +105,7 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
 
 参考下面代码，并放入 snippets 中，方法见 [[Obsidian的CSS代码片段]]
 
-```css
+```CSS
 .list-collapse-indicator.collapse-indicator.collapse-icon.is-collapsed:after {
 	color: transparent;
 	display：none;
@@ -118,7 +118,7 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
 
 ![6fadc810bd28a900adb2901a71896d7.jpg](https://cdn.pkmer.cn/images/6fadc810bd28a900adb2901a71896d7.jpg!pkmer)
 
-```css
+```CSS
 .markdown-rendered .list-collapse-indicator {  
 	padding-right:unset;  
 }

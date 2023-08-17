@@ -27,7 +27,7 @@ modified: 20230810175839
 
 相信你已经装了 Dataview 插件，不妨输入以下内容，他会显示当前文件的所有元数据。
 
-`````
+`````示例代码
 ```dataview
 table this
 where file = this.file

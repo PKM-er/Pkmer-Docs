@@ -23,7 +23,7 @@ modified: 20230709151825
 - 可以选择一些带有大纲优化样式的主题
 - 当然也可以使用下面代码优化大纲线的样式
 
-```css
+```CSS
 /*实时编辑模式*/
 .markdown-source-view.mod-cm6 .cm-indent::before {
 	border-right: 1px solid var(--indentation-guide-color) !important;

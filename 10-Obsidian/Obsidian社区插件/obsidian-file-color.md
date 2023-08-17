@@ -43,7 +43,7 @@ File Color 插件就是针对文件管理器而开发的，他能够让你针对
 
 - 与 [[folder-note]] 一起使用时：文件夹或文件名称的下划线不会被着色，为了解决这一问题，你可以尝试添加代码
 
-```css
+```CSS
 .nav-folder.alx-folder-with-note>.nav-folder-title>.nav-folder-title-content {
   text-decoration-style: dotted;
   text-decoration-color: inherit;

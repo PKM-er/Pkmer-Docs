@@ -258,7 +258,7 @@ mkdir test
     print("Hello world!")
     ```
 
-    ```html
+    ```result
     Hello world!
     ```
 
@@ -274,11 +274,11 @@ mkdir test
     print("Hello world!")
     ```
 
-    ```html linenos
+    ```result linenos
     Hello world!
     ```
 
-    ```html highlight:"1"
+    ```result highlight:"1"
     Hello world!
     ```
 
@@ -291,7 +291,7 @@ mkdir test
     print(random.randint(1, 100))
     ```
 
-    ```html prompt:"Result (may be different depending on your environment)"
+    ```result prompt:"Result (may be different depending on your environment)"
     42
     ```
 

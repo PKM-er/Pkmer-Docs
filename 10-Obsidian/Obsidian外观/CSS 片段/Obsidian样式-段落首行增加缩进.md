@@ -29,7 +29,7 @@ modified: 20230703144059
 	- 效果（支持实时编辑和阅读模式）
 ![image.png|856](https://cdn.pkmer.cn/images/20230703115909.png!pkmer)
 
-```css
+```CSS
 div.cm-line:not(.HyperMD-header) {
 	text-indent: 2em;
 }

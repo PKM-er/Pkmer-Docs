@@ -99,7 +99,7 @@ Notion API Token 和 Database ID 为必填项，决定了文件传输到何处�
 建议打开，打开后，你文件的 YAML 区域的 tags 属性中的值就可以被转换 notion 数据库中的 tags；
 简单的说，你在文件的最开头这样写，就可以为该文件创建一些 notion 能够识别的标签：
 
-`````
+`````示例代码
 ---
 tags:
   - tags1

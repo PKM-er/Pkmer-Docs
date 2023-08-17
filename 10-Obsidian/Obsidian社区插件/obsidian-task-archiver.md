@@ -39,7 +39,7 @@ Obsidian 提供了轻便的待办任务体系，通过不同插件，不同主�
 
 - 有时候我们会使用嵌套任务/或者子任务，如
 
-```markdown
+```Markdown
 -   [ ] Incomplete task
     -   [x] Completed subtask
         -   Task details

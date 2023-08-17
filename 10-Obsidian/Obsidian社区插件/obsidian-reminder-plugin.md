@@ -50,7 +50,7 @@ modified: 20230604174442
 - 如果熟悉，也有可以直接 ` (@2021-08-14)` 或 `(@2021-08-14 09:37)`
 - Reminder 支持具体到具体的时间点
 
-```html
+```语法
 - [ ] This is a sample task with reminder (@2021-08-14)
 - [ ] Also you can specify time (@2021-08-14 09:37)
 - [x] You will not be notified about the reminders you have already checked. (@2021-08-14)

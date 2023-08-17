@@ -43,7 +43,7 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的短
 
 为了自定义图标以更改其颜色，尺寸等，可以指制作 CSS 片段。参考下面的代码：
 
-```css
+```CSS
 .isc-icon > *:first-child {
   /** changes for all icons. */
 }

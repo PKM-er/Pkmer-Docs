@@ -168,13 +168,13 @@ IEEE 亦可设置成其他样式，但要保证 OB 中和 zotero 中一致，并
 - 普通内容占位符{{……}}
 - 针对该占位符包含多个独立内容，使用 `loop.last` 提取完整信息
 
-```xml
+```Nunjucks
 {% for t in creators %}{{t.firstName}}{{t.lastName}}{{t.name}}{% if not loop.last %}, {% endif %}{% endfor %}
 ```
 
 - 对于日期，默认导入形式为时间戳，需要使用 `format()` 进行转换
 
-```xml
+```Nunjucks
  {% if date %}{{date | format("YYYY-MM")}}{% endif %}
 ```
 
@@ -185,13 +185,13 @@ IEEE 亦可设置成其他样式，但要保证 OB 中和 zotero 中一致，并
 - 在 `Annotation` 内可找到每条注释的相关信息
 - 基本语法
 
-```xml
+```Nunjucks
 {% for annotation in annotations %}...do something...{% endfor %}
 ```
 
 - 可以在 `for` 循环内添加 `if……endif` 语句进行判断，从而对不同格式的注释进行设置
 
-```xml
+```Nunjucks
 {% for annotation in annotations %}
 {% if annotation.color == '#a28ae5' %}## {{annotation.annotatedText}}{{annotation.comment}}{% endif %}
 {% endfor %}
@@ -199,7 +199,7 @@ IEEE 亦可设置成其他样式，但要保证 OB 中和 zotero 中一致，并
 
 - 提取图片
 
-```xml
+```Nunjucks
 {% for annotation in annotations %}
 {% if annotation.color == '#a28ae5' %}## {{annotation.annotatedText}}{{annotation.comment}}{% endif %}
 {% if annotation.imageBaseName %}![[{{annotation.imageBaseName}}]]{% endif %}
@@ -216,7 +216,7 @@ zotero 自带的导出 markdown 笔记会包含跳转链接，我们以此观察
 
 - 所以我们可以在数据中找到拥有类似信息的内容加以删减、组合
 
-```xml
+```Nunjucks
 {% for annotation in annotations %}
 {% if annotation.color == '#a28ae5' %}## {{annotation.annotatedText}}{{annotation.comment}}{% endif %}
 {{pdfZoteroLink|replace("//select/", "//open-pdf/")|replace(")", "")}}?page={{annotation.page}}&annotation={{annotation.id}})
@@ -227,7 +227,7 @@ zotero 自带的导出 markdown 笔记会包含跳转链接，我们以此观察
 
 >`#a28ae5` 可以更改为不同的颜色
 
-```html
+```Plain
 {% for annotation in annotations %}
 {% if annotation.color == '#a28ae5' %}## {{annotation.annotatedText}}{{annotation.comment}}{% endif %}
 [随便写啥](zotero://open-pdf/library/items/{% for t in attachments %}{% if loop.first %}{{t.itemKey}}{% endif %}{% endfor %}?{{annotation.page}}&annotation={{annotation.id}})
@@ -238,13 +238,13 @@ zotero 自带的导出 markdown 笔记会包含跳转链接，我们以此观察
 
 - 你可以选择将条目信息与注释的模板进行拆分、排列组合，进一步拓展插件的使用情境
 
-```xml
+```Nunjucks
 {% include "[[模板文件名]]" %}
 ```
 
 - 通过 `persist` 可以实现分节的效果，使得多次导入同一条目时之前的信息不会被覆盖
 
-```xml
+```Nunjucks
 ## {{title}}
 
 ### Notes
@@ -254,7 +254,7 @@ zotero 自带的导出 markdown 笔记会包含跳转链接，我们以此观察
 
 - 也可以通过过滤器 `filterby` 仅导入自上次导入以来添加的批注
 
-```xml
+```Nunjucks
 {% persist "annotations" %}
 {% set newAnnotations = annotations | filterby("date", "dateafter", lastImportDate) %}
 {% if newAnnotations.length > 0 %}
@@ -271,7 +271,7 @@ zotero 自带的导出 markdown 笔记会包含跳转链接，我们以此观察
 
 ### 4.5 如何设置注释编号
 
-```xml
+```Nunjucks
 {% set i=1%}{% for annotation in annotations %}
 ### 第{{i}}个注释{% set i=i+1 %}{% endfor %}
 
@@ -279,7 +279,7 @@ zotero 自带的导出 markdown 笔记会包含跳转链接，我们以此观察
 
 ### 4.6 最终模板
 
-```xml
+```Nunjucks
 ---
 status: todo
 weight: 1

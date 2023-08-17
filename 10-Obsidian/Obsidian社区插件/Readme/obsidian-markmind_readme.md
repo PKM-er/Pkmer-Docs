@@ -114,7 +114,7 @@ Obsidian MarkMind 是一款基于 Obsidian API 的思维导图、大纲和 PDF �
    - 右键点击一个文件夹，选择 `新建思维导图板`
    - 手动添加 YAML 代码：
 
-```yaml
+```YAML
 ---
 
 mindmap-plugin: basic (或 rich)
@@ -133,7 +133,7 @@ mindmap-plugin: basic (或 rich)
 - 单击笔记上的“更多选项”，然后选择“打开大纲”
 - 手动添加 YAML 代码：
 
-```yaml
+```YAML
 ---
 
 mindmap-plugin: basic
@@ -174,7 +174,7 @@ display-mode: outline
 - 单击笔记上的 `更多选项`，然后选择 `以表格形式打开`
 - 手动添加 YAML 代码：
 
-```yaml
+```YAML
 ---
 
 mindmap-plugin: basic
@@ -196,7 +196,7 @@ display-mode: table
 
 #### 富文本模式的 Markdown 格式
 
-```yaml
+```YAML
 ---
 
 mindmap-plugin: rich
@@ -247,7 +247,7 @@ mindmap-plugin: rich
    - web
 4. 将以下 YAML 代码添加到 MindMap 文档中：
 
-```yaml
+```YAML
 ---
 
 annotate-target: test/test.PDF
@@ -264,7 +264,7 @@ annotate-type: pdf
    - 这应该是一个相对路径，指向您的 vault 文件夹
 2. 或者您可以在 YAML 中添加文件夹路径：
 
-```yaml
+```YAML
 ---
 
 annotate-target: test/test.PDF

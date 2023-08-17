@@ -69,7 +69,7 @@ modified: 20230531200237
 
 如果想对网站图标（Favicons） 进行样式修改，则可以参考下面的 CSS 片段：
 
-```css
+```CSS
 body .link-favicon[data-is-readable-a-a] {
 	filter: grayscale(100%);
 }
@@ -77,7 +77,7 @@ body .link-favicon[data-is-readable-a-a] {
 
 如果想禁用网站图标（Favicons）样式，则可以参考下面的 CSS 片段：
 
-```css
+```CSS
 .external-link::after {
 	display: none;
 	content: '';

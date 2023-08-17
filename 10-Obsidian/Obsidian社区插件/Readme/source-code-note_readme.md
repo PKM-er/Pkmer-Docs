@@ -60,7 +60,7 @@ modified: 20230101000000
 
 **示例**
 
-```java
+```Java
 /** 
  * 注册元数据字符串。
  * 
@@ -80,7 +80,7 @@ public String registerMetadata(@RequestBody final MetaDataRegisterDTO metaDataRe
 }
 ```
 
-```java
+```Java
 /** 
  * 注册元数据字符串。 
  * 

@@ -98,7 +98,7 @@ aat-event-picture: https://f4.bcbits.com/img/a1344871335_65 # 一些外部链接
 
 默认情况下，插件将依赖于以下正则表达式：
 
-```reggex
+```regex
 (?<year>-?[0-9]*)-(?<month>-?[0-9]*)-(?<day>-?[0-9]*)
 ```
 
@@ -139,7 +139,7 @@ aat-event-start-date: 14&23-2M-687C
 
 我们的正则表达式将如下所示
 
-```reggexp
+```regexp
 (?<phase>[0-9]*)\&(?<day>[0-9]*)-(?<moon>[0-9]*)M-(?<cycle>[0-9]*)C
 ```
 

@@ -56,7 +56,7 @@ modified: 20230604172621
 
 还可以在 Markdown 笔记中，通过代码块语法添加一个网页应用。该代码块在实时预览和阅读模式下，会转换一个嵌入网页的样式。
 
-````yaml
+````YAML
 ```custom-frames
 frame: YOUR FRAME'S NAME(你自定义的 Display Name )
 ```
@@ -64,7 +64,7 @@ frame: YOUR FRAME'S NAME(你自定义的 Display Name )
 
 或者，也可以将自定义样式设置传递给嵌入，允许更改嵌入的高度等内容，以及将附加到框架的常规 URL 的附加后缀，这对于在 Google Keep 中显示特定注释等非常有用。
 
-````yaml
+````YAML
 ```custom-frames
 frame: Google Keep
 style: height: 1000px;

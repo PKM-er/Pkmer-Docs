@@ -31,7 +31,7 @@ modified: 20230619164804
 
 ## CSS 片段
 
-```css
+```CSS
 div.column3 p {
   column-count: 3;
   padding: 3%;
@@ -85,7 +85,7 @@ div.column-head3 h3 {
 
 ### CSS 部分
 
-```css
+```CSS
 div.column3 p {
   column-count: 3;
   padding: 3%;
@@ -107,7 +107,7 @@ div.column3 p {
     - 如不足则从头循环 本例等于 10% 0% 10% 0%
 - `background-color: #fff00075` 设置背景色为 HEX 色值 `#fff000` 不透明度 75%
 
-```css
+```CSS
 div.column-darkblue p {
   column-rule: 1px solid darkblue;
   column-gap: 30px;
@@ -125,7 +125,7 @@ div.column-darkblue p {
 
 `column-width: 50px` 列宽 50 像素
 
-```css
+```CSS
 div.column-head3 h3 {
   text-align: center;
 }

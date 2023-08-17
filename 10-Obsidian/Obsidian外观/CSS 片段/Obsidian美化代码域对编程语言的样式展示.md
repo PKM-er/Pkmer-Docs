@@ -32,7 +32,7 @@ modified: 20230616095715
 
 如何使用自定样式的方法，可以参考 [[Obsidian的CSS代码片段]]（2 步安装自定义样式）
 
-```css
+```CSS
 .cm-hmd-codeblock.cm-keyword {
     color:#7bafea !important;
 }

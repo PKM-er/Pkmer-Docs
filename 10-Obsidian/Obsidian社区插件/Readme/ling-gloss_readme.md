@@ -58,7 +58,7 @@ modified: 20230101000000
 
 基本的术语由两行组成，即源语言文本和元语言。可以使用 `\gla`（术语级别 A）和 `\glb`（术语级别 B）命令来实现这一点。这些命令接受由空格分隔的元素（单词或语素）的列表，这些元素将按元素逐个垂直对齐。默认情况下，级别 A 行应用斜体样式，而级别 B 行没有默认样式。
 
-```html
+```gloss
 \gla Péter-nek van egy macská-ja
 \glb Peter-DAT exist INDEF cat-POSS.3SG
 ```
@@ -67,7 +67,7 @@ modified: 20230101000000
 
 此外，如果需要在单个术语元素中使用空格，可以将其包装在方括号 `[like this]` 中。要在术语元素中直接使用方括号，可以通过在前面加上插入符号 `^` 来 " 转义 " 它们，例如 `^[this^]`。可以使用空方括号 `[]` 在术语中写入空元素。
 
-```html
+```gloss
 \gla János tegnap [vi-tt el] két könyv-et Péter-nek
 \glb John^[TOP^] yesterday^[FOC^] [take-PST away] two book-ACC Peter-DAT
 ```
@@ -76,7 +76,7 @@ modified: 20230101000000
 
 如果需要额外的行，例如用于音译，可以使用 `\glc`（gloss level C）命令，其功能与 `\gla` 和 `\glb` 命令相同。C 级行没有默认样式，就像 B 级一样。
 
-```html
+```gloss
 \gla Péter-nek van egy macská-ja
 \glb pe:tɛrnɛk vɒn ɛɟ mɒt͡ʃka:jɒ
 \glc Peter-DAT exist INDEF cat-POSS.3SG
@@ -88,7 +88,7 @@ modified: 20230101000000
 
 可以使用 `\ft` 命令在术语表的底部添加一行自由翻译。该命令接受一行文本作为参数。默认情况下，自由翻译行会用引号括起来，并应用斜体样式。
 
-```html
+```gloss
 \gla Péter-nek van egy macská-ja
 \glb pe:tɛrnɛk vɒn ɛɟ mɒt͡ʃka:jɒ
 \glc Peter-DAT exist INDEF cat-POSS.3SG
@@ -99,7 +99,7 @@ modified: 20230101000000
 
 使用 `\ex` 命令可以在译文上方添加原始源文本行，该命令与 `\ft` 命令类似，接受一行文本作为参数。默认情况下，原始文本行会应用粗体样式。
 
-```html
+```gloss
 \ex Péternek van egy macskája.
 \gla Péter-nek van egy macská-ja
 \glb pe:tɛrnɛk vɒn ɛɟ mɒt͡ʃka:jɒ
@@ -113,14 +113,14 @@ modified: 20230101000000
 
 如果命令行太长，可以通过缩进后续行来将其分成多行。此外，空行会被忽略，可以用于分隔跨越多行的命令。下面的两个示例产生相同的结果，如下所示：
 
-```html
+```gloss
 \ex János tegnap elvitt két könyvet Péternek.
 \gla János tegnap elvi-tt két könyv-et Péter-nek.
 \glb John:NOM yesterday take-PST two book-ACC Peter-DAT
 \ft John took two books to Peter yesterday.
 ```
 
-```html
+```gloss
 \ex János tegnap elvitt két könyvet Péternek.
 
 \gla János tegnap
@@ -156,7 +156,7 @@ modified: 20230101000000
 - 任何额外的方括号括起来的 `[token]` 都会添加到最后一个 A 级元素的后面的行中
   - 请注意，此机制允许添加超过 3 行的术语表行，如下所示
 
-```html
+```ngloss
 \gl János [ja:noʃ] [John:NOM]
 	tegnap [tɛgnɒp] [yesterday]
 	elvi-tt [ɛlvit:] [take-PST]
@@ -167,7 +167,7 @@ modified: 20230101000000
 
 ![Example 06a](_examples/example06a.png)
 
-```html
+```ngloss
 \set glastyle cjk
 \ex 牆上掛著一幅畫 / 墙上挂着一幅画
 \gl 牆 [墙] [qiáng] [wall] [^[TOP]
@@ -186,7 +186,7 @@ modified: 20230101000000
 
 下面的示例产生与上面相同的结果，尽管可读性通常较差：
 
-```html
+```ngloss
 \gl János[ja:noʃ][John:NOM]  tegnap[tɛgnɒp][yesterday]  elvi-tt[ɛlvit:][take-PST]  két[ke:t][two]  könyv-et[køɲvɛt][book-ACC]  Péter-nek[pe:tɛrnɛk][Peter-DAT]
 ```
 
@@ -263,7 +263,7 @@ modified: 20230101000000
 .ling-gloss-level-x:nth-child(5) { font-size: 1.5em; }
 ```
 
-```html
+```ngloss
 \set glastyle cjk
 \ex 牆上掛著一幅畫 / 墙上挂着一幅画
 \gl 牆 [墙] [qiáng] [wall] [^[TOP]
@@ -292,7 +292,7 @@ modified: 20230101000000
 
 该选项允许在 A 级元素中使用下划线字符作为空格。这对于支持空格的括号标记语法 `ngloss` 特别有用，因为无法在 A 级中使用支持空格的括号标记。该选项不接受任何值。
 
-```html
+```ngloss
 \set glaspaces
 \gl nǐ_hǎo [hello]
     shì_jiè [world]
@@ -321,7 +321,7 @@ modified: 20230101000000
 
 应该显示以下词汇表，如下所示：
 
-```html
+```ngloss
 \set glastyle big solid
 \set ftstyle dashed
 \gl János [ja:noʃ] [John:NOM]
@@ -337,7 +337,7 @@ modified: 20230101000000
 
 默认情况下，插件为 `glastyle` 选项定义了一个名为 `cjk` 的样式，该样式删除了默认的斜体样式。这适用于通常不使用斜体的 CJK 字符：
 
-```html
+```ngloss
 \set glastyle cjk
 \gl 你好 [nǐhǎo] [hello]
 	世界 [shìjiè] [world]

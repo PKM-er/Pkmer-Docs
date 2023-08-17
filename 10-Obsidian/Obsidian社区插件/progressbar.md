@@ -38,7 +38,7 @@ Obsidian ProgressBar 插件会检测 `progressbar` 类型的代码块，并使
 
 - 注意代码块一定要包含 `progressbar`
 
-````yaml
+````YAML
 ```progressbar
 kind: day-year
 name: This Year
@@ -62,7 +62,7 @@ name: This Year
 
 ### 常用语法
 
-````yaml
+````YAML
 # == kind ==
 # 当指定基于时间的进度条时必填
 # 如果手动指定值，则可选
@@ -99,7 +99,7 @@ max: 25
 
 比如：预定完成 50 篇文章，当前只写了一篇；
 
-````yaml
+````YAML
 ```progressbar
     value: 1
     max: 50
@@ -110,7 +110,7 @@ max: 25
 
 比如：4 级别背诵 5000 个单词，当前背诵了 1023 个；
 
-````yaml
+````YAML
 ```progressbar
     value: 1023
     max: 5000
@@ -121,7 +121,7 @@ max: 25
 
 比如：我这个月做了多少俯卧撑（一行的宽度）：
 
-````yaml
+````YAML
 ```progressbar
 name: 俯卧撑
 width: var(--file-line-width) # 或者 100%

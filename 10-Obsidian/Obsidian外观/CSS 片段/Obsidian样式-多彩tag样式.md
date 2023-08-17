@@ -26,7 +26,7 @@ modified: 20230616095651
 - 颜色可以根据不同的标签内容自己设定
 - 使用方法：参加 [[Obsidian的CSS代码片段]]
 
-```css
+```CSS
 /*整体修改标签的外观样式*/
 .tag {
   background-color: var(--text-accent);

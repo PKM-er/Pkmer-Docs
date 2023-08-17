@@ -44,7 +44,7 @@ modified: 20230725233649
 
 通过 `min_depth` `max_depth` 来控制目录中显示层级的深度。
 
-```html
+```语法
 min_depth: number (default: 2)
 max_depth: number (default: 6)
 ```
@@ -54,7 +54,7 @@ max_depth: number (default: 6)
 - 如果不设置，则不显示对应目录名称，仅显示目录内容
 - 自定义目录名称的语法录下：
 
-```html
+```语法
 title: "## Table of Contents"
 ```
 
@@ -65,7 +65,7 @@ title: "## Table of Contents"
 - 圆点目录，也可以成为默认样式
 - 语法：
 
-````yaml
+````YAML
 ```toc
 style: bullet
 ```
@@ -76,7 +76,7 @@ style: bullet
 - 数字编号目录
 - 语法：
 
-````yaml
+````YAML
 ```toc
 style: number
 ```
@@ -87,7 +87,7 @@ style: number
 - 标签/面包屑模式
 - 语法：
 
-````html
+````语法
 ```toc
 style: inline
 ```
@@ -98,7 +98,7 @@ style: inline
 - 混合风格：你可以在生成的多级目录中使用不同的编号风格。比如数字和圆点混用
 - 语法：
 
-````html
+````语法
 ```toc
 varied_style: boolean
 ```
@@ -116,7 +116,7 @@ varied_style: boolean
 
 以下是标题深度不一致的示例。而不是 4 级标题，应该是 3 级标题。
 
-```markdown
+```Markdown
 ## Level 2
 
 #### Level 4
@@ -124,13 +124,13 @@ varied_style: boolean
 
 以下是一致的标题深度的示例。在 2 级前进之后，下一个级别是 3 级标题。
 
-```markdown
+```Markdown
 ## Level 2
 
 ### Level 3
 ```
 
-````yaml 语法
+````YAML 语法
 ```toc
 style: bullet | number | inline (default: bullet)
 title: string (default: undefined)

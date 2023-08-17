@@ -24,7 +24,7 @@ Obsidian 简约的界面，似乎缺少了那么一点个性化，很多同学�
 - 方法 2：可以使用独立 CSS 片段，如何使用独立 CSS 片段，参考 [[Obsidian的CSS代码片段]]
 	- 独立片段如下：
 
-```css
+```CSS
 /*阅读模式渐变色分割线*/
 .markdown-preview-view hr {
 	border-top: 1px solid;

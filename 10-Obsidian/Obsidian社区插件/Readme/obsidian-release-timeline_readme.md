@@ -62,7 +62,7 @@ Release Timeline 使用与 [Obsidian Dataview](https://github.com/blacksmithgu/o
 查询示例：
 
 ~~~markdown
-```reglease-timeline
+```release-timeline
 table 
 year_field, alias_field
 from [[CRPG]] and [[Isometric games]]

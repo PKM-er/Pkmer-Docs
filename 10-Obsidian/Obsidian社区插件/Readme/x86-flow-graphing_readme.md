@@ -59,7 +59,7 @@ modified: 20230101000000
 
 以下是一个可与该插件一起使用的有效 x86 代码块示例
 
-```html
+```x86
 	cmp [ebp+var_8], 1
 	jz loc_401027
 	cmp [ebp+var_8], 2
