@@ -38,7 +38,7 @@ modified: 20230604174020
 通过 ctrl+p 命令来使用：有两个选项
 
 - Download images locally：只处理你选中的笔记中的图像.
-- Download images locally for all your notes：根据插件中的设置，\*\* 仓库中所用的图像到本地。
+- Download images locally for all your notes：根据插件中的设置，**仓库中所用的图像到本地。
 
 ### 设置
 

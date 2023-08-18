@@ -50,7 +50,7 @@ Obsidian Roundup 现在正式和原作者的另一个栏目统一归到了 `[Obs
 
 ## 还未审核的插件（截止到上周五）
 
-也不是所有的插件都会立马上架插件市场，因为它们需要先经过代码审核；你可以使用 [Beta Reviewer's Auto-update Tool](https://github.com/TfTHacker/obsidian42-brat) 来手动下载那些还没上架的插件；当然这也意味着他们还不够稳定和安全，因为它们还没被代码审核过；\*\*（译注：有些时候存在重复的条目的原因是因为对应的作者因为某些原因重开了 PR，导致会重复出现在更新内容中；）
+也不是所有的插件都会立马上架插件市场，因为它们需要先经过代码审核；你可以使用 [Beta Reviewer's Auto-update Tool](https://github.com/TfTHacker/obsidian42-brat) 来手动下载那些还没上架的插件；当然这也意味着他们还不够稳定和安全，因为它们还没被代码审核过；**（译注：有些时候存在重复的条目的原因是因为对应的作者因为某些原因重开了 PR，导致会重复出现在更新内容中；）
 
 - 由 `@BambusControl` 开发的 [Unicode Search](https://github.com/BambusControl/obsidian-unicode-search) 使搜索和插入 Unicode 字符到你的编辑器更容易；
 - 由 `@AwesomeDog` 开发的 [Awesome Image](https://github.com/AwesomeDog/obsidian-awesome-image) 让你更容易从互联网上自动下载图片，而且带有了原来的 Image Toolkit 的部分功能；
