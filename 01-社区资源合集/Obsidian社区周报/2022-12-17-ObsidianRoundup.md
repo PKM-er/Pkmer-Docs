@@ -61,7 +61,7 @@ share:
 
 ## 还未审核的插件（截止到上周五）
 
-也不是所有的插件都会立马上架插件市场，因为它们需要先经过代码审核；你可以使用 [Beta Reviewer's Auto-update Tool](https://github.com/TfTHacker/obsidian42-brat) 来手动下载那些还没上架的插件；当然这也意味着他们还不够稳定和安全，因为它们还没被代码审核过；\*\*（译注：有些时候存在重复的条目的原因是因为对应的作者因为某些原因重开了 PR，导致会重复出现在更新内容中；）
+也不是所有的插件都会立马上架插件市场，因为它们需要先经过代码审核；你可以使用 [Beta Reviewer's Auto-update Tool](https://github.com/TfTHacker/obsidian42-brat) 来手动下载那些还没上架的插件；当然这也意味着他们还不够稳定和安全，因为它们还没被代码审核过；**（译注：有些时候存在重复的条目的原因是因为对应的作者因为某些原因重开了 PR，导致会重复出现在更新内容中；）
 
 - `@Holmes555` 开发的 [Workona To Obsidian](https://github.com/Holmes555/workona-to-obsidian) 让用户可以通过生成 JSON 文件导入 Workona 资源；
 - `@bgoosman` 开发的 [Project Garden](https://github.com/bgoosman/obsidian-project-garden) 使你更容易在一个地方看到所有的项目；
