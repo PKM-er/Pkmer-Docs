@@ -22,6 +22,7 @@ modified: 20230604172500
 > - 插件作者：liamcain
 > - 插件说明：在标题旁边显示标题等级
 > - 插件项目地址：[点我跳转](https://github.com/liamcain/obsidian-lapel)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?lapel)
 
 ## 效果&特性
 

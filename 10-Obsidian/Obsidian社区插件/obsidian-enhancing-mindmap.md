@@ -18,6 +18,7 @@ modified: 20230603022359
 > - 插件说明：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 > - 插件分类：思维导图, PDF
 > - 插件项目地址：[点我访问](https://github.com/MarkMindCkm/obsidian-markmind)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-enhancing-mindmap)
 
 ## 概述
 

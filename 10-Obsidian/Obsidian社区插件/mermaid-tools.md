@@ -25,6 +25,7 @@ Mermaid Toolbar 可以增强 Obsidian 的流程图绘制能力，让你在笔记
 > - 插件作者：dartungar
 > - 插件说明：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
 > - 插件项目地址：[点我跳转](https://github.com/dartungar/obsidian-mermaid)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mermaid-tools)
 
 ## 效果&特性
 

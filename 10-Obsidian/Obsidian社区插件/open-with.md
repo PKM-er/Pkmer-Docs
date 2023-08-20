@@ -1,16 +1,16 @@
 ---
 uid: 20230710164535
-title: Obsidian 插件
-tags: []
-description: 
-author: 
+title: Obsidian 插件：Open with 使用其他软件打开对应的资源
+tags: [Obsidian, 插件, 打开方式, 第三方软件]
+description: Obsidian 插件：Open with 使用其他软件打开对应的资源，允许你通过在 Obsidian 中使用其他软件，打开笔记中常见格式文件。
+author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230710231055
+modified: 20230724174615
 ---
 
-# Obsidian 插件
+# Obsidian 插件：Open with 使用其他软件打开对应的资源
 
 ## 概述
 
@@ -24,6 +24,7 @@ Obsidian 已经内置了对一些文件格式的支持，比如图片，pdf，�
 > - 插件作者：phibr0
 > - 插件描述：允许你通过在 Obsidian 中使用其他软件，打开笔记中常见格式文件。
 > - 插件项目地址：[点我跳转](https://github.com/phibr0/obsidian-open-with)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-with)
 
 ## 效果&特性
 

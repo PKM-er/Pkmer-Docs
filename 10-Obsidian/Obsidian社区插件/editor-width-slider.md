@@ -26,6 +26,7 @@ Editor Width Slider 就是为了解决这个，提供了一个简易的滑块，
 > - 插件作者：MugishoMp
 > - 插件描述：允许你在状态栏中使用滑块来快速调整编辑器的行宽/栏宽。
 > - 插件项目地址：[点我跳转](https://github.com/MugishoMp/obsidian-editor-width-slider)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?editor-width-slider)
 
 ## 效果&特性
 

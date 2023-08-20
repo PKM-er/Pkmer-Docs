@@ -25,6 +25,7 @@ Focus Mode 插件为 Obsdian 带来了专注模式，让你获得意思安逸。
 > - 插件作者：ryanpcmcquen
 > - 插件说明：为 Obsdian 带来了专注模式
 > - 插件项目地址：[点我跳转](https://github.com/ryanpcmcquen/obsidian-focus-mode)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-focus-mode)
 
 ## 效果&特性
 

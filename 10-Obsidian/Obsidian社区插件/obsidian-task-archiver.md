@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174547
+modified: 20230809120151
 ---
 
 # Obsidian 插件：Archiver 帮你快速归类待办任务
@@ -21,6 +21,7 @@ Obsidian 提供了轻便的待办任务体系，通过不同插件，不同主�
 > - 插件作者：Ivan Lednev
 > - 插件说明：提供对任务，列表项的快捷操作
 > - 插件项目地址：[点我跳转](https://github.com/kepano/obsidian-hider)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-task-archiver)
 
 ## 效果&特性
 
@@ -95,7 +96,7 @@ Obsidian 提供了轻便的待办任务体系，通过不同插件，不同主�
 - `{{date}}`
     - 自动填充当前日期
 - `{{obsidianTasksCompletedDate}}`
-    - 指向任务的完成日期 (✅ 2023-03-29). 通过这种方式，您可以将使用 obsidian-tasks 插件创建的任务存档到它们所属的位置
+    - 指向任务的完成日期 (✅ 2023-03-29). 通过这种方式，您可以将使用 [[obsidian-tasks-plugin]] 插件创建的任务存档到它们所属的位置
 - `{{sourceFileName}}`
     - Resolves to the base name of the file you're in
 - `{{sourceFilePath}}`
@@ -114,7 +115,7 @@ Obsidian 提供了轻便的待办任务体系，通过不同插件，不同主�
 ![image.png](https://cdn.pkmer.cn/images/20230513180320.png!pkmer)
 
 > [!Tip] 相关推荐
-> - [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+> - [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 > - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 > - [[calendar]]：为 Obsidian 添加一个简单日历功能
 > - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求

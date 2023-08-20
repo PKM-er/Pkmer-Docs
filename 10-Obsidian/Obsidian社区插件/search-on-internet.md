@@ -21,6 +21,7 @@ Search on internet 利用 Obsidian 强大的 iframe 支持，实现了右键搜�
 > - 插件作者：Emile
 > - 插件说明：在文档任意地方生成需要随机的内容，这些随机的候选项可以你来定义。
 > - 插件项目地址：[点我跳转](<https://github.com/HEmile/obsidian-search-on-internet>
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?search-on-internet)
 
 ## 效果&特性
 

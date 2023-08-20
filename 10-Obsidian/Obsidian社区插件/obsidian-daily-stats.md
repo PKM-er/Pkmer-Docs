@@ -19,6 +19,7 @@ modified: 20230604172626
 > - 插件作者：Dhruvik Parikh
 > - 插件说明：自动统计笔记更新修改的热力图
 > - 插件项目地址：[点我跳转](https://github.com/dhruvik7/obsidian-daily-stats)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-daily-stats)
 
 ## 效果&特性
 

@@ -22,6 +22,7 @@ modified: 20230712202716
 > - 插件版本：1.2.0
 > - 插件说明：为你笔记中的链接，增加美化样式
 > - 插件项目地址：[点我跳转](https://github.com/dhamaniasad/obsidian-rich-links)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-rich-links)
 
 ## 效果&特性
 

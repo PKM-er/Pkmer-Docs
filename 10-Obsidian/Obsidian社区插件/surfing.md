@@ -18,6 +18,7 @@ modified: 20230711180108
 > - 插件说明：obsidian 的网络浏览器插件,允许你在 Obsidian v1.0 的标签页中浏览任意网页
 > - 插件分类：体验增强
 > - 插件项目地址：[点我访问](https://github.com/quorafind/obsidian-surfing)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?surfing)
 
 ## 简介
 

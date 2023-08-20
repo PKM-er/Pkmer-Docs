@@ -21,6 +21,7 @@ Obsidian 的默认替换插件只限于单个文本中进行操作，如果你�
 > - 插件作者：Mahmoud Fawzy Khalil
 > - 插件说明：全库进行文本替换。
 > - 插件项目地址：[点我跳转](https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-global-search-and-replace)
 
 ## 效果&特性
 

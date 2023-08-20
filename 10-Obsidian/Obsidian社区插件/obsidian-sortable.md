@@ -21,6 +21,7 @@ modified: 20230604174459
 > - 插件作者：Alexandru Dinu
 > - 插件说明：提供搜索 Obsidian 设置和插件设置选项的能力
 > - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-sortable)
 
 ## 效果&特性
 

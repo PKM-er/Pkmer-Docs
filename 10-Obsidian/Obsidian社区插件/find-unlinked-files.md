@@ -23,6 +23,7 @@ modified: 20230531200112
 > - 插件作者：Vinzent
 > - 插件说明：在仓库中查找未在任何位置链接的文件
 > - 插件项目地址：[点我跳转](https://github.com/Vinzent03/find-unlinked-files)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?find-unlinked-files)
 > - 插件适配：仅适用于 Obsidian v0.9.7+。
 
 ## 效果&特性

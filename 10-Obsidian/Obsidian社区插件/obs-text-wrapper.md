@@ -21,6 +21,7 @@ modified: 20230603021710
 > - 插件作者：smx0
 > - 插件说明：给选中文本加上 HTML 标签。
 > - 插件项目地址：[点我跳转](https://github.com/smx0/obs-text-wrapper)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obs-text-wrapper)
 
 ## 效果&特性
 

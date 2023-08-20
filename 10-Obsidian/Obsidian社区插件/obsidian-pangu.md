@@ -22,6 +22,7 @@ modified: 20230715000803
 > - 插件作者：Natumsol
 > - 插件说明：一键自动化增加文字与数字，英文和中文之间的空格
 > - 插件项目地址：[点我跳转](https://github.com/Natumsol/obsidian-pangu)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-pangu)
 
 ## 效果&特性
 

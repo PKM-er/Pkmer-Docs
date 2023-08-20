@@ -19,6 +19,7 @@ modified: 20230604174051
 > - 插件作者：Viacheslav Slinko
 > - 插件说明：为 Obsidian 的大纲添加快捷操作
 > - 插件项目地址：[点我跳转](https://github.com/vslinko/obsidian-outliner)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-outliner)
 
 ## 效果&特性
 

@@ -21,6 +21,7 @@ modified: 20230603020035
 > - 插件作者：[hipstersmoothie](https://github.com/hipstersmoothie)
 > - 插件说明：帮助你在笔记中生成对应的目录
 > - 插件项目地址：[点我跳转](https://github.com/hipstersmoothie/obsidian-plugin-toc)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-plugin-toc)
 > - **优点**：和其他目录插件设计思路对比，这个插件希望目录更加灵活，能够在不同标题等级下，生成目录
 
 >[!Warning] 注意

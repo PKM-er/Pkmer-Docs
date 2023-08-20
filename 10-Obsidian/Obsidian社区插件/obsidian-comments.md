@@ -23,6 +23,7 @@ Comments 这个插件就为我们提供了这样的功能，可以为笔记上�
 > - 插件作者：darakah
 > - 插件说明：为笔记增加批注或评论。
 > - 插件项目地址：[点我跳转](https://github.com/Darakah/obsidian-comments-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-comments)
 
 ## 效果&特性
 

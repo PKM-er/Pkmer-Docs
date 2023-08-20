@@ -21,6 +21,7 @@ modified: 20230604174046
 > - 插件作者：kepano
 > - 插件说明：允许在该插件的设置界面中自定义该 Minimal 主题的一些样式
 > - 插件项目地址：[点我跳转](https://github.com/kepano/obsidian-minimal-settings)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-minimal-settings)
 
 >[!Tip] 提示
 >该插件可以与 Hider 插件搭配使用，做到进一步简化 Obsidian 用户界面，包括去除菜单栏、工具提示、标题栏、滚动条等等。这些功能以前包含在 Minimal Theme 主题中，但现在已经被分离出来。

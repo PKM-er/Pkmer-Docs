@@ -21,6 +21,7 @@ modified: 20230715000643
 >- 插件作者：death_au
 >- 插件说明：打字机风格的滚动，使视图保持在编辑器的中心。
 >- 插件项目地址：[点我跳转](https://github.com/deathau/cm-typewriter-scroll-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cm-typewriter-scroll-obsidian)
 
 ## 效果&特性
 

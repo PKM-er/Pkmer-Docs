@@ -22,6 +22,7 @@ modified: 20230711145619
 > - 插件作者：lijyze
 > - 插件描述：避免直接操作 YAML frontmatter
 > - 插件项目地址：[点击跳转](https://github.com/lijyze/obsidian-state-switcher)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-state-switcher)
 
 ## 特性&功能
 

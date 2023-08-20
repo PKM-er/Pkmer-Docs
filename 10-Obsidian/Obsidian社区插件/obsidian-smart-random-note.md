@@ -18,6 +18,7 @@ modified: 20230715213801
 > - 插件说明：该插件增强了核心插件 - 笔记漫游的功能
 > - 插件分类：搜索/排序, 插件
 > - 插件项目地址：[点我访问](https://github.com/erichalldev/obsidian-smart-random-note)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-smart-random-note)
 
 ## 概述
 

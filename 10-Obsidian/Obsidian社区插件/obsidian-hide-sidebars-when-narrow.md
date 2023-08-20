@@ -24,6 +24,7 @@ modified: 20230604172806
 > - 插件作者：NomarCub, Michael Hanson
 > - 插件描述：自动根据宽度隐藏侧边栏
 > - 插件项目地址：[点我跳转](https://github.com/NomarCub/obsidian-hide-sidebars-on-window-resize)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-hide-sidebars-when-narrow)
 
 ## 效果&特性
 

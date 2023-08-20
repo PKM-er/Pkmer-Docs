@@ -21,6 +21,7 @@ modified: 20230531200040
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：增加文件数量统计功能
 > - 插件项目地址：[点我跳转](https://github.com/muhammadv-i/obsidian-frontmatter-alias-display)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-explorer-note-count)
 
 ## 效果&特性
 

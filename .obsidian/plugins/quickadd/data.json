@@ -70,7 +70,8 @@
   "devMode": false,
   "templateFolderPath": "Config/QuickAdd",
   "announceUpdates": true,
-  "version": "0.23.0",
+  "version": "1.2.1",
+  "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",
     "defaultModel": "Ask me",

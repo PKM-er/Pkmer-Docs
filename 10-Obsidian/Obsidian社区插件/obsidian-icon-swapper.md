@@ -23,6 +23,7 @@ modified: 20230603021244
 > - 插件作者：mgmeyers
 > - 插件说明：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换。
 > - 插件项目地址：[点我跳转](https://github.com/mgmeyers/obsidian-icon-swapper)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-icon-swapper)
 
 ## 使用
 

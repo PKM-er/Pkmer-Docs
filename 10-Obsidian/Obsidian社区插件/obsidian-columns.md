@@ -22,6 +22,7 @@ modified: 20230612115653
 > - 插件作者：Trevor Nichols
 > - 插件描述：支持分栏书写美化你的笔记样式
 > - 插件项目地址：[点我跳转](https://github.com/tnichols217/obsidian-columns)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-columns)
 
 ## 样式&效果
 

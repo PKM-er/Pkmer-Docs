@@ -21,6 +21,7 @@ modified: 20230703163621
 >- 插件作者：围城
 >- 插件说明：Obsidian 读书标注软件，适用 PDF，MS Office 等
 >- 插件项目地址：[点我跳转](https://kknwfe6755.feishu.cn/docs/doccnBfbtETItLHMmbDBGBRdPrh)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-booknote-plugin)
 
 ## 效果&特性
 

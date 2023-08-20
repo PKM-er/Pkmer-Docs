@@ -22,6 +22,7 @@ modified: 20230531200211
 > - 插件作者：Jeremy Valentine
 > - 插件描述：允许在 Obsidian 中使用新窗口中打开图像和笔记
 > - 插件项目地址：[点我跳转]<https://github.com/javalent/second-window>
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?image-window)
 
 ## 效果&特性
 

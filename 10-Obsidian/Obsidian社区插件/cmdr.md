@@ -21,6 +21,7 @@ modified: 20230531195947
 > - 插件作者：Johnny✨ and phibr0
 > - 插件说明：给 Obsidian 的不同功能区增加自定义快捷按钮。
 > - 插件项目地址：[点我跳转](https://github.com/phibr0/obsidian-commander)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cmdr)
 
 ## 效果&特性
 

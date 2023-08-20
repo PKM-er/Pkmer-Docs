@@ -19,6 +19,7 @@ Better Footnote 可以让你在预览模式将光标放到脚注上时，自动�
 > - 插件作者：AidenLx
 > - 插件说明：为 Obsidian 注脚增加悬浮展示功能，鼠标指向后，注脚的解释会出现在对应位置。
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/better-fn)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-fn)
 > - 适配：Obsidian v0.12.4 以上.
 
 ## 效果&特性

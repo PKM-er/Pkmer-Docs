@@ -23,6 +23,7 @@ modified: 20230516120421
 > - 插件作者：ordidxzero
 > - 插件说明：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标。
 > - 插件项目地址：[点我跳转](https://github.com/ordidxzero/obsidian-external-favicon)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?external-favicon)
 
 ## 效果&特性
 

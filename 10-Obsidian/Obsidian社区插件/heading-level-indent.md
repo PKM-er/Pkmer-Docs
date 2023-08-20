@@ -23,6 +23,7 @@ modified: 20230531200152
 > - 插件作者：svonjoi
 > - 插件说明：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解。
 > - 插件项目地址：[点我跳转](https://github.com/svonjoi/obsidian-heading-level-indent)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?heading-level-indent)
 
 >[!Tip]
 >- 仅适用于阅读视图

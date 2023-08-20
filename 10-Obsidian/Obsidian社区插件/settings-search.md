@@ -23,6 +23,7 @@ Settings Search 提供了在设置页面进行搜索插件和设置选项的功�
 > - 插件作者：javalent
 > - 插件说明：提供搜索 Obsidian 设置和插件设置选项的能力
 > - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?settings-search)
 
 ## 效果&特性
 

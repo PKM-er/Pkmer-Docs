@@ -23,6 +23,7 @@ List Callouts 插件则是实现了两者结合的作用，在大纲列表上，
 > - 插件作者：mgmeyers
 > - 插件说明：在大纲列表上，通过设定的字符符号，生成对应的强化图标和强调高亮色
 > - 插件项目地址：[点我跳转](https://github.com/mgmeyers/obsidian-list-callouts)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-list-callouts)
 
 ## 效果&使用
 

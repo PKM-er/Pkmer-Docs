@@ -25,6 +25,7 @@ TagFolder 就是通过笔记中的标签，重新组织所有的笔记。
 > - 插件作者：vorotamoroz
 > - 插件说明：通过笔记中的标签，重新组织所有的笔记
 > - 插件项目地址：[点我跳转](https://github.com/vrtmrz/obsidian-tagfolder)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tagfolder)
 
 ## 效果&特性
 

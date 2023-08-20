@@ -19,6 +19,7 @@ modified: 20230603022223
 > - 插件作者：samuelsong70
 > - 插件说明：增加动态效果和墙纸
 > - 插件项目地址：[点我跳转](https://github.com/samuelsong70/obsidian-dynamic-background/)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dynamic-background)
 
 ## 效果&特性
 

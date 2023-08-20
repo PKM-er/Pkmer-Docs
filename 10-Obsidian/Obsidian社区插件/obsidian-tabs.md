@@ -21,6 +21,7 @@ modified: 20230603015456
 > - 插件作者：gitobsidiantutorial
 > - 插件说明：为 Obsidian 增加标签页功能
 > - 插件项目地址：[点我跳转](https://github.com/gitobsidiantutorial/obsidian-tabs)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tabs)
 
 >[!Tip] 提示
 >- 该插件运行尚算正常，不会引起 Obsidian 崩溃，但部分功能可能已经无法生效。

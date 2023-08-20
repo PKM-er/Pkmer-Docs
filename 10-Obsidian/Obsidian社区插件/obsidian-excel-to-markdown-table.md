@@ -17,6 +17,7 @@ modified: 20230604172726
 > - 插件作者：Ganessh Kumar R P
 > - 插件说明：可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
 > - 插件项目地址：[点我访问](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-excel-to-markdown-table)
 
 ## 概述
 

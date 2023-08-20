@@ -18,6 +18,7 @@ modified: 20230718200814
 > - 插件说明：创建/管理您的每日、每周、每月、季度以及年度笔记
 > - 插件分类：日记类
 > - 插件项目地址：[点我访问](https://github.com/liamcain/obsidian-periodic-notes)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-periodic-notes)
 
 > [!caution] 版本号差异
 > 插件分为稳定版和体验版

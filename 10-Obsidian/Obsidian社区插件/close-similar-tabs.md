@@ -25,6 +25,7 @@ modified: 20230531195906
 > - 插件作者：1C0D
 > - 插件说明：自动关闭重复打开的标签页，防止标签栏拥挤和冲突
 > - 插件项目地址：[点我跳转](https://github.com/1C0D/Obsidian-Close-Similar-Tabs)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?close-similar-tabs)
 
 ## 效果&特性
 

@@ -23,6 +23,7 @@ modified: 20230603021602
 > - 插件作者：Jonathan Miller
 > - 插件说明：很好解决记忆标签和快速输入的问题，提供标签自动建议的方法，让你可以键入简单字母来快速联想出来对应的标签
 > - 插件项目地址：[点我跳转](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-frontmatter-tag-suggest)
 
 ## 效果&特性
 

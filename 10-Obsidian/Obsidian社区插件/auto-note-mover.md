@@ -3,11 +3,11 @@ uid: 20230720102116
 title: Obsidian 插件：Auto Note Mover 自动将笔记根据规则，移动到各自的文件夹中
 tags: [Obsidian, 插件, 自动化, 移动笔记, 文件归类]
 description: Obsidian 插件：Auto Note Mover 自动将笔记根据规则，移动到各自的文件夹中
-author: OS
+author: OS,Brown Bear
 type: basic
 draft: false
 editable: false
-modified: 20230720105730
+modified: 20230816110304
 ---
 
 # Obsidian 插件：Auto Note Mover 自动将笔记根据规则，移动到各自的文件夹中
@@ -24,6 +24,7 @@ Auto Note Mover 可以自动将笔记根据规则，移动到各自的文件夹�
 > - 插件作者：faru
 > - 插件描述：可以自动将笔记根据规则，移动到各自的文件夹中
 > - 插件项目地址：[点我跳转](https://github.com/farux/obsidian-auto-note-mover)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-note-mover)
 
 ## 效果&特性
 
@@ -85,6 +86,12 @@ Auto Note Mover 可以自动将笔记根据规则，移动到各自的文件夹�
 - 基于任务
 
 ![image.png](https://cdn.pkmer.cn/images/20230720105257.png!pkmer)
+
+### 自动投放实战
+
+* \# 一个井号 + 文本等同于标签，含有特定标签放入特定文件夹
+* ^ 一个上角标 + 文本，等同于文档名，含有特定文档名放入特定文件夹
+* `[I|i]ndex$`，美元号表示以什么结尾，前面的中括号里的一个大写 I，一个写 i 表示单词开头字母大写或小写都可以。
 
 ### 与日记联动
 

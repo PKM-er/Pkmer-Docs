@@ -27,6 +27,7 @@ Obsidian Cardboard 是一款在 Obsidian 笔记应用中实现看板模式任务
 > - 插件作者：roovo
 > - 插件描述：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 > - 插件项目地址：[点我跳转](https://github.com/roovo/obsidian-card-board)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?card-board)
 
 ## 效果&特性
 

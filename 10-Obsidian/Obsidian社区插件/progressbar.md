@@ -26,6 +26,7 @@ created: 2023-03-10 09:48:22
 > - 插件作者：Wei Zhang
 > - 插件说明：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条。
 > - 插件项目地址：[点我跳转](https://github.com/zwpaper/obsidian-progressbar/blob/main/README.zh-CN.md)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?progressbar)
 
 ## 效果&特性
 

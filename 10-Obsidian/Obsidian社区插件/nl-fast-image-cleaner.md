@@ -19,6 +19,7 @@ modified: 20230604173634
 > - 插件作者：martinniee
 > - 插件说明：快速删除文档中的图像附件和引用链接
 > - 插件项目地址：[点我跳转](https://github.com/martinniee/Obsidian-fast-image-cleaner)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?nl-fast-image-cleaner)
 
 ## 效果&特性
 

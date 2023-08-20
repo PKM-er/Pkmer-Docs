@@ -21,6 +21,7 @@ modified: 20230531200129
 > - 插件作者：muhammadv-i
 > - 插件说明：让你在文件名下直接看到别名。
 > - 插件项目地址：[点我跳转](https://github.com/muhammadv-i/obsidian-frontmatter-alias-display)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?frontmatter-alias-display)
 
 ## 效果&特性
 

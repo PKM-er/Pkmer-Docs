@@ -21,6 +21,7 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 > - 插件作者：onlyafly
 > - 插件说明：给笔记中的标题自动编号，以及动态目录。
 > - 插件项目地址：[点我跳转](https://github.com/onlyafly/number-headings-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?number-headings-obsidian)
 
 ## 效果
 

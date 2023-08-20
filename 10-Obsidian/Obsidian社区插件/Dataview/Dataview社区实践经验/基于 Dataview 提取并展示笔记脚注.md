@@ -1,5 +1,5 @@
 ---
-uid: 20230702112220
+uid: 20230702112223
 title: 基于 Dataview 提取并展示笔记脚注
 tags: [dataview, 脚注, footnote]
 description: 基于 Dataview 提取并展示笔记脚注

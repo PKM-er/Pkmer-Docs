@@ -19,7 +19,7 @@ modified: 20230703155408
 ![](https://cdn.pkmer.cn/images/4141b98fb96d57bafd005f7ad7bbb943_MD5.png!pkmer)
 
 > [!推荐]
-> 使用 我们的 Obsidian Lite ，一劳永逸的解决该问题
+> 使用 我们的 Obsidian Pkmer ，一劳永逸的解决该问题
 
 ## 手动安装
 
@@ -29,7 +29,7 @@ modified: 20230703155408
 
 ### 下载插件安装包
 
-上一步获得是该插件官方认可的（ github 地址），在插件地址页面，点击右侧的“release”
+上一步获得是该插件官方认可的（ Github 地址），在插件地址页面，点击右侧的“release”
 
 ![](https://cdn.pkmer.cn/images/f7c8f5661d79491658024083a89b7dcc_MD5.png!pkmer)
 

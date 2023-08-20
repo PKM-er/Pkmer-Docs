@@ -1,12 +1,13 @@
 ---
 uid: 20230404000634
 title: Git 协作手把手教程
+tags: 
 description: 一份Step by step Git协作指南
 author: Jason-XJ
 type: tutorial
 draft: false
 editable: true
-modified: 20230414500000
+modified: 20230812231458
 ---
 
 # Git 协作手把手教程
@@ -64,7 +65,7 @@ modified: 20230414500000
 
 ### Step 5: Obsidian 打开文档
 
-在 obsidian 中打开仓库选择刚才 clone 的文件夹，即可打开这个项目，打开后请选择信任仓库作者并启用插件
+在 Obsidian 中打开仓库选择刚才 clone 的文件夹，即可打开这个项目，打开后请选择信任仓库作者并启用插件
 
 ![Pasted image 20230405212018](https://cdn.pkmer.cn/images/70fca5c9b023bbc23d881a9bb5c041c1_MD5.png!pkmer)
 

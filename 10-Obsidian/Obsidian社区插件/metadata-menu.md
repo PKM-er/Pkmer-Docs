@@ -19,6 +19,7 @@ modified: 20230604171021
 > - 插件说明：Metadata Menu 是方便修改 YAML 值的一个工具
 > - 插件分类：编辑工具, 效率, YAML, 定制属性，修改，属性预览
 > - 插件项目地址：[点我访问](https://github.com/mdelobelle/metadatamenu)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?metadata-menu)
 
 ## 概述
 

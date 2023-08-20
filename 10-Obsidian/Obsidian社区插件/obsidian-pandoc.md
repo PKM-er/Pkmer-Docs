@@ -7,7 +7,7 @@ author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230703164552
+modified: 20230809171709
 ---
 
 # Obsidian 插件：Pandoc 万能格式导出插件
@@ -18,6 +18,7 @@ modified: 20230703164552
 > - 插件说明：为 Obsidian 增加将笔记导出各种文件格式的能力例如 DOCX、ePub 和 PDF。此插件不能独立运行，需要配合 Pandoc 额外程序才可以。
 > - 插件分类：第三方工具集成, 转换工具, PDF
 > - 插件项目地址：[点我访问](https://github.com/OliverBalfour/obsidian-pandoc)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-pandoc)
 
 ## 概述
 
@@ -62,6 +63,19 @@ Pandoc 软件的安装路径**非常重要**
 ![image.png](https://cdn.pkmer.cn/images/202307031643262.png!pkmer)
 
 ![image.png](https://cdn.pkmer.cn/images/202307031643046.png!pkmer)
+
+## 兼容
+
+- pandoc 导出其他格式时，对图片的格式和路径有不同的情况需要你了解
+
+|插件设置的格式|md 文档中图片格式|导出结果|
+|:--|:--|:--|
+|html|`![[附件/20230809171345.png]]`|成功|
+|html|`![[20230809171345.png]]` |失败|
+|markdown|`![](附件/20230809171345.png)` |直接导出失败 <br>添加参数 --resouce-path="D:\Obsidian\" 成功 |
+|markdown|`![[附件/20230809171345.png]]` |导出成功，但 wiki 哥哥是图片不识别|
+|markdown|`![](20230809171345.png)` |直接导出失败 <br>添加参数 --resouce-path="D:\Obsidian\附件 " 成功 |
+|markdown|`![](file:///D:/Obsidian/附件/20230809171345.png)`|  |
 
 ## 扩展阅读
 

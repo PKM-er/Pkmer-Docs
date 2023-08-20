@@ -23,6 +23,7 @@ modified: 20230705170724
 > - 插件作者：mgmeyers
 > - 插件说明：在 Obsidian 制作看板，可以连接你的笔记
 > - 插件项目地址：[点我跳转](https://github.com/mgmeyers/obsidian-kanban)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-kanban)
 
 ## 效果&特性
 
@@ -89,7 +90,7 @@ kanban 既然 提供了链接笔记的能力，那么他就能很好的起到地
 比如工作、购物、爱好学习，可能就是不同的列，并在 kanban 中用不同的条目去链接对应笔记。这有点类似 MOC 的管理方式，但是得益于 kanban 区块化的界面。
 
 > [!Tip] 关联推荐
-> - [[Obsidian-Tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
+> - [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 > - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 > - [[calendar]]：为 Obsidian 添加一个简单日历功能
 > - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求

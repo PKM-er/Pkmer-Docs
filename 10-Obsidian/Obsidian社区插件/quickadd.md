@@ -18,6 +18,7 @@ modified: 20230721104131
 > - 插件作者：Christian B. B. Houmann
 > - 插件说明：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
 > - 插件项目地址：[点我跳转](https://github.com/chhoumann/quickadd)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quickadd)
 
 ## 社区使用技巧
 

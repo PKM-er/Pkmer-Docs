@@ -23,6 +23,7 @@ Optimize Canvas Connections 是一个功能非常简单的 Canvas 插件，但�
 > - 插件作者：Félix Chénier
 > - 插件说明：优化 Canvas 中的连接线
 > - 插件项目地址：[点我跳转](https://github.com/felixchenier/obsidian-optimize-canvas-connections)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?optimize-canvas-connections)
 
 ## 效果&特性
 

@@ -21,6 +21,7 @@ modified: 20230604174442
 > - 插件作者：uphy
 > - 插件说明：为 Markdown 中的待办事项，添加提醒管理。
 > - 插件项目地址：[点我跳转](https://github.com/uphy/obsidian-reminder)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-reminder-plugin)
 
 ## 效果&特性
 

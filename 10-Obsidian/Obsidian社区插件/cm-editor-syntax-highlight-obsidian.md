@@ -21,6 +21,7 @@ modified: 20230531195914
 > - 插件作者：deathau
 > - 插件说明：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
 > - 插件项目地址：[点我跳转](https://github.com/deathau/cm-editor-syntax-highlight-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cm-editor-syntax-highlight-obsidian)
 
 >[!Tip] 提示
 >- 该插件目前运行稳定，并不会引起其他问题。

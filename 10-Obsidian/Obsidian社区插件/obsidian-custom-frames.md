@@ -23,6 +23,7 @@ modified: 20230604172621
 > - 插件作者：Ellpeck
 > - 插件说明：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页。
 > - 插件项目地址：[点我跳转](https://github.com/pjeby/pane-relief)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-custom-frames)
 
 ## 效果&特性
 

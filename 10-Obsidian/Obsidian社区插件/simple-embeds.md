@@ -21,6 +21,7 @@ modified: 20230603014306
 > - 插件作者：Sam Warnick
 > - 插件说明：把 Twitter 和 YouTube 网页链接嵌入当前笔记中预览
 > - 插件项目地址：[点我跳转](https://github.com/samwarnick/obsidian-simple-embeds)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?simple-embeds)
 
 >[!Tip] 提示
 >- 如果你其他视频网站有兴趣，或者希望做视频笔记，使用时间戳等，可以参考这个插件。[[media-extended]] 和 [[mx-bili-plugin]]

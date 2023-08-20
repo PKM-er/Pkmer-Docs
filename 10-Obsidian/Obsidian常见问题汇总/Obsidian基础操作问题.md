@@ -3,11 +3,11 @@ uid: 20230521003527
 title: Obsidian 基础操作
 tags: [Obsidian, 主题, 常见问题, 示例库, Bluetopaz, CSS]
 description: Obsidian 基础操作常见问题汇总
-author: OS
+author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230706190617
+modified: 20230801180721
 ---
 
 # Obsidian 基础操作
@@ -43,6 +43,17 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 2、快捷键：Ctrl/Cmd + P，在 OB 的命令窗口中，输入“重新加载 Obsidian”
 
 有些 Obsidian 设置或插件，需要重启后才能生效，可以用到以上方法。
+
+## Obsidian 的基本信息获取
+
+### 如何开启开发者模式/控制台
+
+- Win：Ctrl + Shitf + i
+- Mac：cmd+ option + i
+
+### 如何知道自己已经开启了多少插件
+
+- 点击 Obsidian 图标，找到 Help 菜单，点击 `调试信息`，里面的信息就是你正在开启的插件内容
 
 ## 笔记组织问题
 
@@ -269,7 +280,7 @@ Obsidian 的笔记中，标题可以显示当前标题等级。
 - 插件法
 	- 使用 [[Obsidian 插件：Lapel 为你显示标题等级]]
 - 主题法
-	- 一些主题默认支持显示标题等级，或是提供了对应的设置选项。如 [[Blue Topaz 主题]] 等。
+	- 一些主题默认支持显示标题等级，或是提供了对应的设置选项。如 [[Blue Topaz]] 等。
 - CSS 样式法
 	- 当然你可能有你偏爱的主题，不想因此更欢主题。那么可以选择使用独立的 CSS 片段。
 
@@ -526,7 +537,7 @@ strong {
 
 ### 在代码段里输入 `
 
-```Text
+```html
 ``` ` ``` 
 ```a ` b ```
 ``` hello ` world ```

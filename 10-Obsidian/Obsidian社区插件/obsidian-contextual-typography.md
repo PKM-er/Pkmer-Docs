@@ -18,6 +18,7 @@ modified: 20230703144259
 > - 插件说明：在阅读模式中，该插件为所有顶级 div 添加了一个 data-tag-name 属性，其中包含子标签的名称，为自定义 css 实现更精准的选择控制。
 > - 插件分类：样式工具
 > - 插件项目地址：[点我访问](https://github.com/mgmeyers/obsidian-contextual-typography)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-contextual-typography)
 
 ## 概述
 

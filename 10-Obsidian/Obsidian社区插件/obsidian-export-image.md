@@ -18,6 +18,7 @@ modified: 20230608211315
 > - 插件作者：Zhou Hua
 > - 插件描述：轻松将笔记转换为图片
 > - 插件项目地址：[点我跳转](https://github.com/zhouhua/obsidian-export-image)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-export-image)
 
 ## 效果&使用
 

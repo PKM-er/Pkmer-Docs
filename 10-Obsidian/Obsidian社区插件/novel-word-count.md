@@ -21,6 +21,7 @@ modified: 20230718135143
 > - 插件作者：Isaac Lyman
 > - 插件说明：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
 > - 插件项目地址：[点我跳转](https://github.com/isaaclyman/novel-word-count-obsidian)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?novel-word-count)
 
 ## 效果&特性
 

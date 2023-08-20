@@ -21,6 +21,7 @@ modified: 20230604172557
 > - 插件作者：Matt Furden
 > - 插件说明：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
 > - 插件项目地址：[点我跳转](https://github.com/zolrath/obsidian-auto-link-title)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-auto-link-title)
 
 ## 效果&特性
 

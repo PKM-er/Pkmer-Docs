@@ -20,6 +20,7 @@ modified: 20230709235255
 > - 插件作者：Davis Riedel
 > - 插件描述：创造一个类似 leetcode 样式的混合代码块，且不仅限于代码块。
 > - 插件项目地址：[点我跳转](https://github.com/lazyloong/obsidian-code-tab)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-code-tab)
 
 ## 效果&特性
 

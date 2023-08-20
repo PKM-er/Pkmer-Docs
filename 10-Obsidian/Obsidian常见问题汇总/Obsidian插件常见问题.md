@@ -3,11 +3,11 @@ uid: 20230521004800
 title: Obsidian 插件常见问题
 tags: [Obsidian, 插件, 常见问题]
 description: Obsidian 插件常见问题
-author: cuman
+author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230622163039
+modified: 20230801181323
 ---
 
 # Obsidian 插件常见问题
@@ -66,10 +66,11 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 
 由于 Obsidian 的插件都是在 Github 上托管的，国内访问存在问题，需要一些科学上网的手段。常见解决办法有：
 
-1. 科学上网，详细使用可以自行尝试解决。
-2. 下载开源 [Watt Toolkit](https://steampp.net/) ，这个软件能通过修改 Host 和 DNS 实现访问 Github，可能不稳定。
-3. 通过 Github 镜像站下载，这个一般都是在网上搜，我就不提供了，这玩意儿有安全风险，需要核对下载文件的哈希值，确保没被人中途篡改。
-4. [obsidian-proxy-github](https://gitee.com/juqkai/obsidian-proxy-github) ，这个插件就的原理就是 Github 镜像站代理下载。缺点依然是安全风险以及会时常弹出提醒框 (可手动删除文件中的 `Notice` 语句)。
+1. ==【首位推荐】使用 [[pkmer]] ，由 PKMer 出品的插件。==，并不是自吹自擂，因为魔法也有失效的时候，所以 PKMer 目前提供的方法最稳定。
+2. 魔法上网，详细使用可以自行尝试解决，已有用户反馈并不稳定
+3. 下载开源 [Watt Toolkit](https://steampp.net/) ，这个软件能通过修改 Host 和 DNS 实现访问 Github，已有用户反馈并不稳定。
+4. 通过 Github 镜像站下载，这个一般都是在网上搜，这玩意儿有安全风险，需要核对下载文件的哈希值，确保没被人中途篡改，而且无法保证全新。
+5. [obsidian-proxy-github](https://gitee.com/juqkai/obsidian-proxy-github) ，这个插件就的原理就是 Github 镜像站代理下载。缺点依然是安全风险以及会时常弹出提醒框 (可手动删除文件中的 `Notice` 语句)。
 
 ### 插件下载后不能启用
 
@@ -88,7 +89,7 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 > 这个问题主要来自两个方面
 >  - 你的网络可能无法访问 Ob 的社区下载源
 >  - 你可能听到网络上的教程，安装了一些插件，导致无法访问或者下载完整的插件
->  - 遇到以上问题，想永久稳定的解决请参考这个：[[Obsidian 插件：Obsidian Lite]]
+>  - 遇到以上问题，想永久稳定的解决请参考这个：[[pkmer]]
 
 1. 以上都不是，但是还看不到 Calendar 插件
 	- 这可能是因为面板上的功能图标过多，新开启的插件会排放在尾部。
@@ -159,48 +160,84 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 ![QA_4CW[448ZAU}F1FZO~3YJ.jpg|406](https://cdn.pkmer.cn/images/20230622162549.png!pkmer)
 - 解决方案：
 	- 找到 React Components 插件的文件夹，打开 main.js 文件
-	- 找到 对应代码文本
-
-	```JS
-registerHeaderProcessor() {
-	this.registerMarkdownPostProcessor((_, ctx) => __awaiter(this, void 0, void 0, function* () {
-
-	var _a, _b;
-
-if (!((_a = ctx.containerEl) === null || _a === void 0 ? void 0 : _a.hasClass('markdown-previewsection'))) {
-	return;
-}
-
-const viewContainer = ctx.containerEl.parentElement;
-
-const existingHeader = (_b = viewContainer === null || viewContainer === void 0 ? void 0 :
-
-viewContainer.getElementsByClassName('reactHeaderComponent')) === null || _b === void 0 ? void
-
-0 : _b[0];
-const previousContext = this.renderedHeaderMap.get(existingHeader);
-
-if (!previousContext || previousContext != ctx) {
-	if (existingHeader) {
-		this.ReactDOM.unmountComponentAtNode(existingHeader);
-		existingHeader.remove();
-	}
-const container = document.createElement('div');
-container.addClasses(['reactHeaderComponent', 'markdown-preview-sizer', 'markdownpreview-section']);
-	this.renderedHeaderMap.set(container, ctx);
-	viewContainer === null || viewContainer === void 0 ? void 0 :
-viewContainer.insertBefore(container, ctx.containerEl);
-	this.attachComponent('const HeaderComponent = pluginInternalNoteHeaderComponent;<HeaderComponent/>', container, ctx)
-		}
-	}));
-}
-	```
-
-- 在 var _a, _b; 这一行之前加入
+	- 找到下列对应代码文本
+	- 在 `var _a, _b`; 这一行之前加入 `if (!ctx.sourcePath || (!ctx.containerEl?.hasClass('markdown-preview-section'))){ return;}`
 
 ```js
-if (!ctx.sourcePath || (!ctx.containerEl?.hasClass('markdown-preview-section'))){ return;}
+registerHeaderProcessor() {
+
+	this.registerMarkdownPostProcessor((_, ctx) => __awaiter(this, void 0, void 0, function* () {
+	var _a, _b;
+if (!((_a = ctx.containerEl) === null || _a === void 0 ? void 0 : _a.hasClass('markdown-previewsection'))) {
+
+	return;
+
+}
+const viewContainer = ctx.containerEl.parentElement;
+const existingHeader = (_b = viewContainer === null || viewContainer === void 0 ? void 0 :
+viewContainer.getElementsByClassName('reactHeaderComponent')) === null || _b === void 0 ? void
+0 : _b[0];
+
+const previousContext = this.renderedHeaderMap.get(existingHeader);
+if (!previousContext || previousContext != ctx) {
+
+	if (existingHeader) {
+
+		this.ReactDOM.unmountComponentAtNode(existingHeader);
+
+		existingHeader.remove();
+
+	}
+
+const container = document.createElement('div');
+
+container.addClasses(['reactHeaderComponent', 'markdown-preview-sizer', 'markdownpreview-section']);
+
+	this.renderedHeaderMap.set(container, ctx);
+
+	viewContainer === null || viewContainer === void 0 ? void 0 :
+
+viewContainer.insertBefore(container, ctx.containerEl);
+
+	this.attachComponent('const HeaderComponent = pluginInternalNoteHeaderComponent;<HeaderComponent/>', container, ctx)
+
+		}
+
+	}));
+
+}
+
 ```
+
+## Folder note
+
+### folderNote 修改文件夹名后笔记链接断开
+
+folder note 插件 Sync folder name 设置开启后文件夹名称更改时会自动重命名文件夹注释：
+
+![Pasted image 20230724230207](https://cdn.pkmer.cn/images/202307292027226.png!pkmer)
+
+不过目前 **folder note 1.4.1** 版本该设置还存在一些问题，如果直接修改文件夹名称是 folderNote 主笔记内部的笔记链接会失效。
+
+> [!caution]
+> 使用 folder note 插件开启 `Sync folder name` 设置时，最好通过修改笔记名来修改修改文件夹名，直接修改文件夹名内部链接会产生大量错误。
+
+当用 canvas 作为 folderNote 主笔记时，直接修改文件夹名称时，内部嵌入的笔记全部失效，经测试，通过修改 canvas 笔记名时来间接文件夹名称，链接会进行更新，并不会失效。
+
+> [!example] 测试示意图
+> ![Pasted image 20230725002427](https://cdn.pkmer.cn/images/202307292027311.png!pkmer)
+
+对于 md 文件作为 folderNote 主笔记时，直接修改文件夹文件名也会存在该问题，如果采用 Obsidian 的 Wiki 链接时，嵌入尽可能简短的形式，失效的链接会比在 canvas 中失效少一些，失效的情况：
+
+1. 当 md-folderNote 笔记嵌入外部的 canvas 时，直接修改文件夹文件名时会失效；
+2. 当 Wiki 链接在笔记中采用相对路径的情况时会失效。
+   ![Pasted image 20230725003427](https://cdn.pkmer.cn/images/202307292032459.png!pkmer)
+
+### 补救措施
+
+1. 重新修改文件名回来 (**补救**)，之后再通过 folderNote 笔记名修改；
+2. 重新一个一个的**切换至其他笔记** (_不推荐_)；
+3. 关闭该设置，手动去同步文件名和主笔记名 (**推荐**)。
 
 ## 第三方工具
 

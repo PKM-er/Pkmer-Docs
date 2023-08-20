@@ -21,6 +21,7 @@ modified: 20230621183723
 > - 插件作者：noatpad
 > - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
 > - 插件项目地址：[点我跳转](https://github.com/noatpad/obsidian-banners)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-banners)
 
 ## 效果
 

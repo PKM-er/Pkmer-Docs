@@ -17,6 +17,7 @@ modified: 20230603014245
 > - 插件作者：mdelobelle
 > - 插件说明：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 > - 插件项目地址：[点我访问](https://github.com/mdelobelle/obsidian_supercharged_links)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?supercharged-links-obsidian)
 
 ## 概述
 
