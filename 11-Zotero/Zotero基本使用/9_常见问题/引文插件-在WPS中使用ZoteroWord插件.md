@@ -14,7 +14,7 @@ modified: 20230817195133
 
 ## 前言（很重要哦！）
 
-> [!info] **Zotero Word 插件在 WPS 的使用操作与 Office Word 类似，因此不再展开说明，点击下方蓝字可查看 📝** [[3_1-在 Word 中插入引文]]
+> [!info] **Zotero Word 插件在 WPS 的使用操作与 Office Word 类似，因此不再展开说明，点击下方蓝字可查看 📝** [[3_1-在Word中插入引文]]
 > **🔊🔊🔊 必看！！！**：当新建一个空白的 Word 文档用 WPS 打开撰写论文等情况时：一定要先用 WPS 里的 Zotero Word 加载项插入几个文献，再点击**Add/Edit Citation 等这 6 个按钮**，尤其是一定要多次点击**Refresh**和**Unlink Citations**按钮，检查是否正常使用！！！（无法正常使用请见本文档 **四、Refresh/Unlink Citations 莫名失效**）
 
 > [!warning] **以下是 WPS 的 Zotero Word 加载项的常见问题及解决方法，均以 Window 系统为例演示 📝：**
