@@ -27,7 +27,7 @@ modified: 20230817195133
 
 ### 1、检查 Microsoft Word 加载项
 
-检查 Zotero 是否已正常安装好** Microsoft Word 加载项**。安装此加载项的步骤，详见 Zotero 百科全书的 [[【引文 插件】Word 加载项相关问题]]（点击左侧蓝字自查）
+检查 Zotero 是否已正常安装好** Microsoft Word 加载项**。安装此加载项的步骤，详见 Zotero 百科全书的 [[引文 插件-Word加载项相关问题]]（点击左侧蓝字自查）
 
 ![42fea2a0d227bed01785cc85ce58399e_MD5](https://cdn.pkmer.cn/images/202308171549091.png!pkmer)
 

@@ -37,4 +37,4 @@ Zotero PDF Translate 是由@windingwind 开发的，用于文献管理软件 Zot
 
 本文档主要介绍了翻译插件的基本功能，使用方法。
 
-下一篇 [[8_4_文献预览：PDF Preview QuickLook]]
+下一篇 [[8_4_文献预览-PDF Preview QuickLook]]

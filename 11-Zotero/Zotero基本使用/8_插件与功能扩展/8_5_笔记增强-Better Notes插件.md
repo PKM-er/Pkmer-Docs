@@ -31,4 +31,4 @@ Zotero Better Notes 是由@windingwind 开发的，用于文献管理软件 Zote
 
 从 [文档简介](https://zotero.yuque.com/books/share/f3fe159f-956c-4f10-ade3-c87559cacb60/biigg4) 开始了解 Better Notes！
 
-下一篇 [[8_6_标签管理：Tag插件]]
+下一篇 [[8_6_标签管理-Tag插件]]

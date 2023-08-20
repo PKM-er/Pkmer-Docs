@@ -65,4 +65,4 @@ modified: 20230817192937
 
  主页及下载：[https://github.com/404neko/ZoteroQuickLookReload](https://github.com/404neko/ZoteroQuickLookReload)
 
-下一篇 [[8_5_笔记增强：Better Notes插件]]
+下一篇 [[8_5_笔记增强-Better Notes插件]]

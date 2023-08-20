@@ -32,4 +32,4 @@ modified: 20230817193221
 
 ![190d8a95195fdf64899c4e66c108b67c_MD5](https://cdn.pkmer.cn/images/202308171546184.png!pkmer)
 
-下一篇 [[8_10_护眼模式：ZoteroTheme]]
+下一篇 [[8_10_护眼模式-ZoteroTheme]]
