@@ -1,6 +1,6 @@
 ---
 uid: 20230724104533
-title: Metadata 元数据
+title: Dataview 中的Metadata 元数据
 tags: [obsidian, metadata]
 description: Dataview 基本语法学习指南,元数据
 author: Huajin,PKMer
@@ -10,7 +10,7 @@ editable: false
 modified: 20230810175839
 ---
 
-# Metadata 元数据
+# Dataview 中的Metadata 元数据
 
 或许你在其他地方也听过 Metadata 这个概念，它的适用范围远远不止于 Dataview 这个插件。
 

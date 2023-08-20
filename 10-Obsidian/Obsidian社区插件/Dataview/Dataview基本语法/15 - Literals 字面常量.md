@@ -1,6 +1,6 @@
 ---
 uid: 20230724104531
-title: Literals 字面常量
+title: Dataview 支持的Literals 字面常量
 tags: [obsidian, 插件, dataview, 语法, literals]
 description: 基本语法学习指南，Literals 字面常量
 author: Huajin,PKMer
@@ -10,7 +10,7 @@ editable: false
 modified: 20230810180053
 ---
 
-# Literals 字面常量
+# Dataview 支持的Literals 字面常量
 
 > [!question] 何为字面常量
 > 字面常量就是一些静态常量，比如数字 1、字符串“literals”等；

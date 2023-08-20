@@ -1,6 +1,6 @@
 ---
 uid: 20230723144340
-title: Function 函数
+title: Dataview 支持的Function 函数
 tags: [obsidian, 插件, dataview, 语法, function]
 description: 基本语法学习指南，Function 函数
 author: Huajin,PKMer
@@ -10,7 +10,7 @@ editable: false
 modified: 20230810180117
 ---
 
-# Function 函数
+# Dataview 支持的Function 函数
 
 Dataview 提供了一些函数让我们对查询的结果做进一步处理，你可以在除了 From 以外的地方使用。
 

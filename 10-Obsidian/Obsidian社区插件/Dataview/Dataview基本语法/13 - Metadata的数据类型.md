@@ -1,6 +1,6 @@
 ---
 uid: 20230724104524
-title: Metadata 的数据类型
+title: Dataview 中的Metadata 的数据类型
 tags: [obsidian, metadata]
 description: 基本语法学习指南，Metadata 的数据类型
 author: Huajin,PKMer
@@ -10,7 +10,7 @@ editable: false
 modified: 20230810180036
 ---
 
-# Metadata 的数据类型
+# Dataview 中的Metadata 的数据类型
 
 Metadata 是一个键值对（Key - Value，在这里称 Field Name - Field）
 
