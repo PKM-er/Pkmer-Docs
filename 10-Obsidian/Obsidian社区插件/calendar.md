@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531195856
+modified: 20230824234703
 ---
 
 # Obsidian 插件：Calendar 简单使用的阅历和任务管理方式
@@ -22,6 +22,7 @@ modified: 20230531195856
 > - 插件名称：Calendar
 > - 插件作者：Liam Cain
 > - 插件说明：为 Obsidian 添加一个简单日历功能
+> - 插件分类：[' 导航工具 ', ' 日志类 ', ' 日期相关 ', ' 效率 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/liamcain/obsidian-calendar-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?calendar)
 
@@ -29,15 +30,10 @@ modified: 20230531195856
 
 ![image.png](https://cdn.pkmer.cn/images/20230429233807.png!pkmer)
 
-- 点击对应天数就可以建立以这个日期为名字的笔记
-- 可以在月历上显示你对应笔记是否有未完成的任务
-
-## 安装
-
-1. 进入 Obsidian 插件中心
-2. 搜索 Calendar
-3. 安装
-4. 开启插件
+- 轻松跳转到任何**每日笔记**。
+- 为没有笔记的日期创建新的每日笔记。（这对于需要补充旧笔记或者提前计划未来笔记非常有帮助！这将使用您当前的**每日笔记**模板！）
+- 可视化您的写作。每天都包括一个近似您当天写了多少的仪表盘。
+- 使用**周记**作为额外的组织层级！它们的使用方式与每日笔记相同，但具有自己的自定义选项。
 
 ## 使用
 
@@ -94,6 +90,42 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 > [! Tip] 提示
 > - 输入的文件夹名称一定要真实存在，系统不会按照你输入的文件夹名自动建立文件夹
+
+## 自定义
+
+以下 CSS 变量可以在您的 `obsidian.css` 文件中进行覆盖。
+
+```css
+/* obsidian-calendar-plugin */
+/* https://github.com/liamcain/obsidian-calendar-plugin */
+
+#calendar-container {
+  --color-background-heading: transparent;
+  --color-background-day: transparent;
+  --color-background-weeknum: transparent;
+  --color-background-weekend: transparent;
+
+  --color-dot: var(--text-muted);
+  --color-arrow: var(--text-muted);
+  --color-button: var(--text-muted);
+
+  --color-text-title: var(--text-normal);
+  --color-text-heading: var(--text-muted);
+  --color-text-day: var(--text-normal);
+  --color-text-today: var(--interactive-accent);
+  --color-text-weeknum: var(--text-muted);
+}
+```
+
+除了 CSS 变量之外，还有一些类可以进行进一步的自定义。例如，如果您不喜欢标题的亮度，可以使用以下代码进行覆盖：
+
+```css
+#calendar-container .year {
+  color: var(--text-normal);
+}
+```
+
+> **注意：**在覆盖类时，特别重要的是要在前面加上 `#calendar-container` 以避免 Obsidian 内部的任何意外更改！
 
 > [!Tip] 相关推荐
 > - [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理

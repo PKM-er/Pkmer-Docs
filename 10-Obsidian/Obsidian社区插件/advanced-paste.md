@@ -1,6 +1,6 @@
 ---
 uid: 20230715051519
-title: Obsidian 插件：advanced paste 定制化的粘贴插件
+title: Obsidian 插件：Advanced Paste 定制化的粘贴插件
 tags: [粘贴, 自定义, 表格, 文本处理]
 description: 一个可以定制化的粘贴插件，可以在粘贴到 Obsidian 之前处理文本。比如 csv 转 md 表格，网页 html 转 md 表格
 author: Nathaniel
@@ -10,7 +10,7 @@ editable: false
 modified: 20230717131108
 ---
 
-# Obsidian 插件：advanced paste 定制化的粘贴插件
+# Obsidian 插件：Advanced Paste 定制化的粘贴插件
 
 > [!Note] 插件名片
 > - 插件名称：advanced-paste
@@ -25,7 +25,10 @@ modified: 20230717131108
 > [!note]
 > 插件默认提供了几个命令，也可以自己编写脚本用于实现特殊需求
 
-![Pasted image 20230715053646](https://cdn.pkmer.cn/images/Pasted%20image%2020230715053646.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/covers/advanced-paste_new.gif!pkmer)
+
+
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715053646.png!pkmer)
 
 - 默认转换（Default）
 	- convert html to markdown (将 html 处理为 markdown 格式)
@@ -72,20 +75,20 @@ modified: 20230717131108
 
 1. 配置脚本储存目录
 进入 插件选项（option）
-![Pasted image 20230715061414](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061414.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061414.png!pkmer)
 设置一个目录路径，比如当前是 `attachments/adpaste-scripts` 表示根目录下的 `attachment` 文件夹下的 `adpaste-scripts` 文件夹（前提需要有这个文件夹）
-![Pasted image 20230715061432](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061432.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061432.png!pkmer)
 在此文件夹下创建一个后缀为 `.js` 的文件（比如 `my-script.js`），并在其中编写代码（可以直接将**源码**中内容复制）
-![Pasted image 20230715061738](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061738.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061738.png!pkmer)
 2. 重启 obsidian
 此时，可以在快捷键设置中中查看添加的命令
-![Pasted image 20230715061937](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061937.png!pkmer)
-![Pasted image 20230715061949](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061949.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061937.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715061949.png!pkmer)
 3. 分配一个快捷键（可选）
 4. 粘贴之前执行命令
-![Pasted image 20230715062103](https://cdn.pkmer.cn/images/Pasted%20image%2020230715062103.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715062103.png!pkmer)
 效果
-![Pasted image 20230715062135](https://cdn.pkmer.cn/images/Pasted%20image%2020230715062135.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715062135.png!pkmer)
 源码：
 
 ```js
@@ -196,34 +199,34 @@ export function transformHTMLTableToMDTable(input) {
 
 假设这是网页中包含表格的部分
 
-![Pasted image 20230715060823](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060823.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060823.png!pkmer)
 
 复制它
 
-![Pasted image 20230715060834](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060834.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060834.png!pkmer)
 
 然后转到 Obsidian 中，在粘贴之前，调用命令（或者按下设定好的快捷键）触发执行
 
-![Pasted image 20230715060840](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060840.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060840.png!pkmer)
 
 转换后的效果：
 
-![Pasted image 20230715060746](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060746.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060746.png!pkmer)
 
 对比使用插件内置的**默认转换**的效果
 
-![Pasted image 20230715060722](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060722.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715060722.png!pkmer)
 
 除了网页上的表格，CSV 中的表格也可以在粘贴前转换（前提是简单的，非合并的表格）
 
 CSV( Excel ) 中的表格
 
-![Pasted image 20230715062958](https://cdn.pkmer.cn/images/Pasted%20image%2020230715062958.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715062958.png!pkmer)
 
 处理后的效果
 
-![Pasted image 20230715063026](https://cdn.pkmer.cn/images/Pasted%20image%2020230715063026.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715063026.png!pkmer)
 
-![Pasted image 20230715063039](https://cdn.pkmer.cn/images/Pasted%20image%2020230715063039.png!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/images/Pasted%20image%2020230715063039.png!pkmer)
 
 （完）

@@ -15,7 +15,7 @@ modified: 20230810174330
 > [!note] 插件名片
 > 插件 ID：dataview
 > 插件作者：Michael Brenan
-> 插件描述：高性能的索引 md 文件，并创建复杂的查询视图，如表格，列表，任务，日历视图
+> 插件描述：为 Obsidian 提供数据查询能力，这需要学习一些较为简单的语法，但可以实现丰富的查询和组合效果。包括生成表格，标签，跟踪特定的笔记变化，选择具体笔记内容。
 > 插件版本：0.5.55
 > 插件源码地址：[obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
 > 插件文档地址：[Dataview Doc](https://blacksmithgu.github.io/obsidian-dataview/)

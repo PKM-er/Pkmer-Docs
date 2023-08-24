@@ -25,6 +25,8 @@ modified: 20230516193235
 
 ## 效果&特性
 
+![Auto Card Link](https://cdn.pkmer.cn/covers/auto-card-link.gif!pkmer)
+
 ![image.png](https://cdn.pkmer.cn/images/20230505141723.png!pkmer)
 
 - 自动从网页 URL 获取数据，并将其作为卡片样式放入到笔记中。

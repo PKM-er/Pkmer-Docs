@@ -23,8 +23,9 @@ Canvas Presentation 插件，就是帮助你根据顺序演示白板中的卡片
 > 插件版本：0.0.3
 > 插件作者：Boninall
 > 插件说明：帮助你根据顺序演示白板中的卡片
+> 插件分类：[' 白板相关 ', 'obsidian 插件 ']
 > 插件项目地址：[点我跳转](https://github.com/Quorafind/Obsidian-Canvas-Presentation)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-presentation)
+> 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-presentation)
 
 ## 效果&特性
 
