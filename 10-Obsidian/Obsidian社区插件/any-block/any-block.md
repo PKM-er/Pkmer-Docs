@@ -23,6 +23,48 @@ modified: 20230811150654
 > [!Note] 由来
 > - Any Block 插件的系列文章，大部分内容都是由，插件作者提供，包含了在开发这个插件的一些思考，都记在这了……）
 
+## 简介
+
+说其中一些比较常用的处理器：
+
+- 列表转表格
+- 列表转列表格
+- 列表转流程图
+- 列表转思维导图
+- 列表转标签栏
+- 列表转时间线
+- 标题转列表从而转其他（can use title2list processor）
+
+![](https://cdn.pkmer.cn/images/202308110925636.png!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925637.png!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925638.png!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925639.gif!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925640.gif!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925641.png!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925642.png!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925643.png!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925644.png!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925645.gif!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925647.png!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925648.gif!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925649.gif!pkmer)
+
+![](https://cdn.pkmer.cn/images/202308110925650.png!pkmer)
+
+
+
 AnyBlock 最容易理解的一个功能就是 List 转 Table，但这并不是插件的核心，只是一种比较有用的附带功能。
 
 - [[0 - 基础教程]]
@@ -33,7 +75,7 @@ AnyBlock 最容易理解的一个功能就是 List 转 Table，但这并不是�
 - [[9 - For Developer]]
 - [[10 - TODO]]
 
-# AnyBlock 插件系列教程之 -- 插件类别理念
+## AnyBlock 插件系列教程之 -- 插件类别理念
 
 ## 插件分类
 
