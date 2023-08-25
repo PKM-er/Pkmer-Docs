@@ -1,25 +1,28 @@
 ---
 uid: 20230329145312
 title: Obsidian 插件：Commander 添加自定义功能按钮
-tags: [Obsidian, 插件, 自定义功能按钮,快捷键命令]
+tags: [Obsidian, 插件, 自定义功能按钮, 快捷键命令]
 description: Obsidian 插件：Commander 给 Obsidian 的不同功能区增加自定义快捷按钮。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531195947
+modified: 20230825093815
 ---
 
 # Obsidian 插件：Commander 添加自定义功能按钮
 
 有些时候，常用命令太多，虽然也可以为它们设置快捷键，但是快捷键一多，就不太好记；再加上写东西的时候突然要腾出手来按各种组合键，很打断思路。
 
+![Commander](https://cdn.pkmer.cn/covers/cmdr.PNG!pkmer)
+
 这个时候我们会更习惯**「工具栏」（Toolbar）**的形式：**只需点击按钮就能完成各种操作，并且它们通常会搭配图标，很直观。**比如备忘录应用的顶部就是工具条，部分应用还支持自定义工具条。
 
 > [!Note] 插件名片
 > - 插件名称：Commander
 > - 插件作者：Johnny✨ and phibr0
-> - 插件说明：给 Obsidian 的不同功能区增加自定义快捷按钮。
+> - 插件说明：给 Obsidian 的不同功能区增加自定义快捷按钮
+> - 插件分类：[' 界面相关 ', ' 效率 ', ' 导航工具 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/phibr0/obsidian-commander)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cmdr)
 
@@ -75,3 +78,5 @@ modified: 20230531195947
 其他 UI 区域的设置方式也是类似，不再赘述。值得一提的是，状态栏（Status Bar）也能够隐藏一些内容（反向链接、编辑器状态、词数统计等）：
 
 ![Pasted image 20230126232441](https://cdn.pkmer.cn/images/43619a7bacf99ffab0ac97a0987fa861_MD5.png!pkmer)
+
+![Footer](https://user-images.githubusercontent.com/46250921/178547234-7566819b-ea3f-4e8e-8f88-a0f01d1ff270.svg)
