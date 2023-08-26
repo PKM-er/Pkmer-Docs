@@ -3,11 +3,11 @@ uid: 20230817140317
 title: Zotero 是什么？为什么使用 Zotero？
 tags: [zotero]
 description: 
-author: winding,Northword,汪汪,PKMer
+author: windingwind,Northword,汪汪,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20230818143656
+modified: 20230825145903
 ---
 
 # Zotero 是什么？为什么使用 Zotero？

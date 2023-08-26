@@ -2,12 +2,12 @@
 uid: 20230817144559
 title: 【抓取 插件】Zotero Connector 浏览器插件安装问题
 tags: [zotero]
-description:
-author: winding
+description: 
+author: windingwind
 type: other
 draft: false
 editable: false
-modified: 20230817155055
+modified: 20230825145853
 ---
 
 # 【抓取 插件】Zotero Connector 浏览器插件安装问题

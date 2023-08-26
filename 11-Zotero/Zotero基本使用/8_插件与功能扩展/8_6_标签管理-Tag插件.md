@@ -3,11 +3,11 @@ uid: 20230817143825
 title: 8.6- 标签管理：Tag 插件
 tags: [zotero]
 description: 
-author: winding,ShareStuff
+author: windingwind,ShareStuff
 type: other
 draft: false
 editable: false
-modified: 20230817193115
+modified: 20230825145814
 ---
 
 # 8.6- 标签管理：Tag 插件
