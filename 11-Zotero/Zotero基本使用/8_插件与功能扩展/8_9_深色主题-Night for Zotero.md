@@ -3,11 +3,11 @@ uid: 20230817144026
 title: 8.9- 深色主题：Night for Zotero
 tags: [zotero]
 description: 
-author: winding,Ali,ShareStuff
+author: windingwind,Ali,ShareStuff
 type: other
 draft: false
 editable: false
-modified: 20230817193221
+modified: 20230825145821
 ---
 
 # 8.9- 深色主题：Night for Zotero

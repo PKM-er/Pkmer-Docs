@@ -3,7 +3,7 @@ uid: 20230817143604
 title: 8.3- 阅读翻译：PDF Translate 插件
 tags: [zotero]
 description: 
-author: winding,Northword
+author: windingwind,Northword
 type: other
 draft: false
 editable: false

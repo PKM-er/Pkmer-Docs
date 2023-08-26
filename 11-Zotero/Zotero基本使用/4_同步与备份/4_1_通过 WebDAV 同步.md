@@ -3,7 +3,7 @@ uid: 20230817142727
 title: 4.1- 通过 WebDAV 同步
 tags: [zotero]
 description: 
-author: winding
+author: windingwind
 type: other
 draft: false
 editable: false

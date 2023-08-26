@@ -3,7 +3,7 @@ uid: 20230817141519
 title: 3.4- 使用 Zotero bib 生成参考文献表
 tags: [zotero]
 description: 
-author: winding,Northword
+author: windingwind,Northword
 type: other
 draft: false
 editable: false

@@ -3,11 +3,11 @@ uid: 20230817143054
 title: 4.2- 通过 Zotfile 与第三方网盘备份
 tags: [zotero]
 description: 
-author: winding
+author: windingwind
 type: other
 draft: false
 editable: false
-modified: 20230818114033
+modified: 20230825145915
 ---
 
 # 4.2- 通过 Zotfile 与第三方网盘备份

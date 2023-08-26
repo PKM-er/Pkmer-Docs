@@ -3,11 +3,11 @@ uid: 20230817144704
 title: 【抓取 导入】导入 PDF 并自动生成条目
 tags: [zotero]
 description: 
-author: winding,ShareStuff
+author: windingwind,ShareStuff
 type: other
 draft: false
 editable: false
-modified: 20230817195439
+modified: 20230825145900
 ---
 
 # 【抓取 导入】导入 PDF 并自动生成条目
