@@ -7,7 +7,7 @@ author: 奇货队长
 type: other
 draft: false
 editable: false
-modified: 20230827004256
+modified: 20230827223917
 ---
 
 # iPhone 上 Obsidian 如何自定义字体
@@ -18,19 +18,19 @@ PKMer 群里有使用 iPhone 的小伙伴，提问过 Obsidian 中使用自定�
 
 ### 前置条件
 
-在 appstore 中下载 ==iFont== APP
+在 Appstore 中下载 ==iFont== APP
 
-![ifont.png](https://cdn.pkmer.cn/images/ifont.png!pkmer)
+![ifont.png|400](https://cdn.pkmer.cn/images/ifont.png!pkmer)
 
 ### 导入方法
 
 1. 用 safari 访问字体网站下载你需要的字体
 
-![字体网站.png|400](https://cdn.pkmer.cn/images/%E5%AD%97%E4%BD%93%E7%BD%91%E7%AB%99.png!pkmer)
+![字体网站.png|375](https://cdn.pkmer.cn/images/%E5%AD%97%E4%BD%93%E7%BD%91%E7%AB%99.png!pkmer)
 
-![下载字体.png|400](https://cdn.pkmer.cn/images/%E4%B8%8B%E8%BD%BD%E5%AD%97%E4%BD%93.png!pkmer)
+![下载字体.png|375](https://cdn.pkmer.cn/images/%E4%B8%8B%E8%BD%BD%E5%AD%97%E4%BD%93.png!pkmer)
 
-1. 下载完成后点击==下载按钮==-==下载==- 点击字体后面的==放大镜==
+1. 下载完成后点击 ==下载按钮== -> ==下载== -> 点击字体后面的 ==放大镜==
 ![找到下载的字体.png|350](https://cdn.pkmer.cn/images/%E6%89%BE%E5%88%B0%E4%B8%8B%E8%BD%BD%E7%9A%84%E5%AD%97%E4%BD%93.png!pkmer)
 
 ![点击放大镜.png|500](https://cdn.pkmer.cn/images/%E7%82%B9%E5%87%BB%E6%94%BE%E5%A4%A7%E9%95%9C.png!pkmer)
@@ -53,4 +53,4 @@ PKMer 群里有使用 iPhone 的小伙伴，提问过 Obsidian 中使用自定�
 
 1. 打开手机的==设置==界面 -==通用==-==vpn 与设备管理==，找到刚才安装的配置文件，点击安装，安装完成后，自定义字体就安装成功了！
 2. 进入 obsidian ==设置==-==外观==-==字体==，填写你安装字体的首字母并选择你安装的字体，然后成功设置字体
-![成功设置字体.png](https://cdn.pkmer.cn/images/%E6%88%90%E5%8A%9F%E8%AE%BE%E7%BD%AE%E5%AD%97%E4%BD%93.png!pkmer)
+![成功设置字体.png|375](https://cdn.pkmer.cn/images/%E6%88%90%E5%8A%9F%E8%AE%BE%E7%BD%AE%E5%AD%97%E4%BD%93.png!pkmer)
