@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230809122112
+modified: 20230827004313
 aliases: [Obsidian css代码片段]
 ---
 
@@ -57,6 +57,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-引用框样式]]
 - [[Obsidian样式-编辑模式代码块显示行号]]
 - [[Obsidian样式-修复1.3.7版本标题语法高度问题]]
+- [[iPhone-Obsidian自定义字体]]
 
 #### 链接
 
