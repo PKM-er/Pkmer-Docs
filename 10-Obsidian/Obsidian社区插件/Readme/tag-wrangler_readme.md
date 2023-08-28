@@ -45,14 +45,11 @@ modified: 20230101000000
 
 ![标签管理器上下文菜单的图像](https://raw.githubusercontent.com/pjeby/tag-wrangler/master/contextmenu.png)
 
-* 打开或创建 [标签页面](#tag-pages)（**0.5.0 版本新增**）
-* [重命名标签](#renaming-tags)（以及其所有子标签）
-* 开始对该标签进行新的搜索（类似于普通点击）
-* 将标签添加为当前搜索的要求（`tag:#whatever`）
-* 将标签添加为当前搜索的排除项（`-tag:#whatever`）
+
+
+
 * 打开具有该标签的随机笔记（如果您已安装并启用了 [Smart Random Note](https://github.com/erichalldev/obsidian-smart-random-note/) 插件）
-* 折叠标签窗格中同一级别的所有标签
-* 展开标签窗格中同一级别的所有标签
+
 
 根据搜索和标签窗格的当前状态，某些操作可能不可用（例如，只有在标签窗格显示层次结构标签时才可用展开和折叠）。
 
