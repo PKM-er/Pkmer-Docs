@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230809120151
+modified: 20230828132955
 ---
 
 # Obsidian 插件：Archiver 帮你快速归类待办任务
@@ -113,6 +113,13 @@ Obsidian 提供了轻便的待办任务体系，通过不同插件，不同主�
 可以使用此功能在存档中创建日期：
 
 ![image.png](https://cdn.pkmer.cn/images/20230513180320.png!pkmer)
+
+### 其他设置
+
+- Depth of new archive headings：这里设置归档标题等级，`2级`
+- Order archived tasks：归档任务排序，可选择 `Newest first`
+- Archive heading text：设置归档标题为：`任务归档`
+
 
 > [!Tip] 相关推荐
 > - [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理

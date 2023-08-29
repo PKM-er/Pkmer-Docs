@@ -3,11 +3,11 @@ uid: 20230817144935
 title: 【文库】重命名附件（Zotero 自带）
 tags: [zotero]
 description: 
-author: winding
+author: windingwind
 type: other
 draft: false
 editable: false
-modified: 20230817194738
+modified: 20230825145838
 ---
 
 # 【文库】重命名附件（Zotero 自带）

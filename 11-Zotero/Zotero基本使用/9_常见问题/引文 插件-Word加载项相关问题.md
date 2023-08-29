@@ -3,11 +3,11 @@ uid: 20230817144756
 title: 【引文 插件】Word 加载项相关问题
 tags: [zotero]
 description: 
-author: Northword,winding,ShareStuff
+author: Northword,windingwind,ShareStuff
 type: other
 draft: false
 editable: false
-modified: 20230817195210
+modified: 20230825145845
 ---
 
 # 【引文 插件】Word 加载项相关问题
@@ -32,7 +32,7 @@ modified: 20230817195210
 
 该弹窗通常是用户手动修改了引文或参考文献表，比如该弹窗即为某文献在文中编码为“\[1\]”，用户手动把它修改为了“\[111\]”，Zotero 再次刷新时会询问用户是否保留这些修改？
 
-如果用户需要保留自己的修改，则点击“是 yes”，如果用户需要抛弃自己的修改，使用 Zotero 生成的内容，则需要选择“否 No”。 
+如果用户需要保留自己的修改，则点击“是 yes”，如果用户需要抛弃自己的修改，使用 Zotero 生成的内容，则需要选择“否 No”。
 
 > [!danger] 注意
 > 请谨慎选择“是 Yes”，该操作会让 Zotero 不再更新此处！

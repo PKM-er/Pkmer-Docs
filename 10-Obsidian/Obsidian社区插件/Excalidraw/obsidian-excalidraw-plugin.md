@@ -12,11 +12,17 @@ modified: 20230801155252
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
 
+
+![Excalidraw](https://cdn.pkmer.cn/covers/obsidian-excalidraw-plugin.PNG!pkmer)
+
+
 > [!Note] Excalidraw
 > - 插件名称：Excalidraw
 > - 插件作者：Zsolt Viczian
+> - 插件分类：[' 图表生成 ', ' 界面相关 ', ' 编辑工具 ', 'obsidian 插件 ']
 > - 插件说明：在 Obsidian 中 使用 Excalidraw 绘图
-> - 插件项目地址：[点我跳转](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+> - 项目地址：[点我访问](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-excalidraw-plugin)
 
 ![微信图片_20230513174136.jpg](https://cdn.pkmer.cn/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230513174136.jpg!pkmer)
 
@@ -117,3 +123,8 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 ## 支持开源开发者
 
 如果你深度使用 Excalidraw 并可以用其提高生产力，建议登录 [Buy ZsoltViczián a Coffee. ko-fi.com/zsolt - Ko-fi ❤️.](https://ko-fi.com/zsolt) 赞助一波，需要 paypal 或者信用卡。没有这两样的也可以 [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) 到这个项目下，登录后点右上角的星星，让更多人看到。
+
+
+## Excalidraw 的朋友们
+
+如果你喜欢 Excalidraw，请考虑尝试一下 [ExcaliBrain](https://github.com/zsviczian/excalibrain)（也可通过 Obsidian Community Plugins 获得）。

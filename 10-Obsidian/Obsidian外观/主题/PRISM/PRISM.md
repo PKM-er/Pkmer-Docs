@@ -1,13 +1,13 @@
 ---
 uid: 20230804233101
 title: PRISM 主题：教程 MOC
-tags: [Obsidian,主题,教程,功能指南]
+tags: [Obsidian, 主题, 教程, 功能指南]
 description: PRISM 主题：教程 MOC
 author: 宝藏彬少
 type: other
 draft: false
 editable: false
-modified: 20230809092824
+modified: 20230825123610
 ---
 
 # PRISM 主题：教程 MOC
@@ -29,3 +29,4 @@ Prism 主题是一个全面、高度可定制和优雅的浅色/深色主题，�
 
 - [[PRISM主题-使用说明详解]]
 - [[PRISM 主题-3.3.0版本style settings 中文翻译内容]]
+- [[Prism主题高亮样式通用CSS片段]]

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233648
+modified: 20230826191048
 ---
 
 # Obsidian 插件：Custom File Explorer sorting 自定义文件夹和文件排序
@@ -40,7 +40,7 @@ modified: 20230515233648
 
 1. 在你喜欢的路径建立一个名为 sortspec 的笔记文件；
     - 推荐：使用了 Template 插件的同学，把它放到 Template 目录，这样仓库管理的文件夹比较统一。
-    - 如果没有使用 Templaye 插件，完全没关系，可以放在一个固定的文件夹甚至根目录下。
+    - 如果没有使用 Template 插件，完全没关系，可以放在一个固定的文件夹甚至根目录下。
 2. 打开插件 Custom File Explorer sorting 的设置
 3. 关注 Path to the designated note containing sorting specification 这个选项。
 4. 并在这个选项的后面文本框中，输入 输入你在 [1] 中的路径，这个路径是从根目录计算的 比如 在根目录下，写成“sortspec”，在 Book 目录下写成 “/Book/sortspec”。
