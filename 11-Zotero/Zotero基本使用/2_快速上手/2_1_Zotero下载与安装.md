@@ -3,11 +3,11 @@ uid: 20230817140715
 title: 2.1-Zotero 下载与安装
 tags: [zotero]
 description: 
-author: winding,Northword
+author: windingwind,Northword
 type: other
 draft: false
 editable: false
-modified: 20230817231408
+modified: 20230825145702
 ---
 
 # 2.1-Zotero 下载与安装

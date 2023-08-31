@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230809122112
+modified: 20230827004313
 aliases: [Obsidian css代码片段]
 ---
 
@@ -58,6 +58,8 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-编辑模式代码块显示行号]]
 - [[Obsidian样式-修复1.3.7版本标题语法高度问题]]
 - [[obsidian安卓上利用css修改界面字体]]
+- [[Obsidian样式-缩减栏宽模式下美化笔记内部背景]]
+- [[iPhone-Obsidian自定义字体]]
 
 #### 链接
 
@@ -181,4 +183,4 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - 使用社区主题，根据主题带的设置项调整
 - 根据上面教程 自己找到 css 选择器，自己写 css 片段
 - 找到别人分享的 css 片段的内容，复制到自己的片段中
-- 通过 style setting 插件修改，建议安装 [[obsidian-style-settings]] 并使用默认主题片段 ![[obsidian-style-settings#^992e4d]]
+- 通过 style setting 插件修改，建议安装 [[obsidian-style-settings]] 并使用默认主题片段

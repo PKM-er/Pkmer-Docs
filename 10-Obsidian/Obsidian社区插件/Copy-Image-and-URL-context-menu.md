@@ -67,4 +67,4 @@ modified: 20230821172705
 
 安卓上长按图片可以保存 obsidian 笔记里的图片到相册，查看下面的 gif 演示：
 
-![[010-CopyUrlAndImageContextMenu_image_5.gif]]
+![010-CopyUrlAndImageContextMenu_image_5](https://cdn.pkmer.cn/images/202308312233291.gif)

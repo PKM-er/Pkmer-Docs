@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531195914
+modified: 20230825093528
 ---
 
 # Obsidian 插件：Editor Syntax Highlight 在代码块中显示高亮配色方案
@@ -20,6 +20,7 @@ modified: 20230531195914
 > - 插件名称：Editor Syntax Highlight
 > - 插件作者：deathau
 > - 插件说明：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
+> - 插件分类：[' 编程 ', ' 美化 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/deathau/cm-editor-syntax-highlight-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cm-editor-syntax-highlight-obsidian)
 
@@ -35,6 +36,12 @@ modified: 20230531195914
 
 - 无需设置，插件也不提供设置。
 - 自动会根据 Obsidian 的代码块自动配合不同编程语言实现高亮。
+
+## 兼容性
+
+自定义插件仅适用于 Obsidian v0.9.7+。
+
+此存储库的当前 API 针对 Obsidian **v0.9.7**。
 
 > [!Tip] 关联推荐
 > - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。

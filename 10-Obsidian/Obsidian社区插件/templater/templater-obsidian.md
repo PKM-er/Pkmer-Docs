@@ -20,7 +20,7 @@ Templater 号称 Obsidian 四大金刚之一 ([[quickadd]],[[dataview]],[[obsidi
 > - 插件名称：Templater
 > - 插件作者：SilentVoid
 > - 插件说明：增强模板，你可以通过创建和编辑自定义模板，达到快速创建笔记结构。
-> - 插件分类：模板, 自动化
+> - 插件分类：[' 模板 ', ' 自动化 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我访问](https://github.com/SilentVoid13/Templater)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?templater-obsidian)
 > - 官方文档: [Introduction - Templater (silentvoid13.github.io)](https://silentvoid13.github.io/Templater/)
@@ -79,21 +79,12 @@ Templater 号称 Obsidian 四大金刚之一 ([[quickadd]],[[dataview]],[[obsidi
 
 ```md
 ---
-<%-* 
-let  newtitle
-if(tp.file.title.includes("未命名") || tp.file.title.toLowerCase().includes("untitled")) 
-{ title=await tp.system.prompt("请输入要创建的文件名");
-  newtitle=title||tp.date.now("YYYYMMDDHHmmss")
-	await tp.file.rename(newtitle)}
-	else newtitle=tp.file.title
--%>
-
-UID: <% tp.date.now("YYYYMMDDHHmmss") %> 
+UID: 20230819231847 
 aliases: 
 tags: 
 source: 
 cssclass: 
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2023-08-19
 ---
 
 ## ✍内容

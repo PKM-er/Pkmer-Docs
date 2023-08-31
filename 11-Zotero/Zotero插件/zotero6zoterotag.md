@@ -1,22 +1,20 @@
 ---
-uid: 20230817143825
-title: 8.6- 标签管理：Tag 插件
-tags: [zotero]
-description: 
-author: windingwind,ShareStuff
+uid: 20230821175434
+title: Zotero 插件：Zotero Tag 插件介绍
+tags: []
+description: Zotero 插件：Zotero Tag 插件介绍
+author: YG
 type: other
 draft: false
 editable: false
-modified: 20230825145814
+modified: 20230822001029
 ---
 
-# 8.6- 标签管理：Tag 插件
+# Zotero 插件：Zotero Tag 插件介绍
 
-## [![109afa6f613a740e70186ec61249a91c_MD5](https://cdn.pkmer.cn/images/202308171546720.png!pkmer)](https://github.com/windingwind/zotero-tag/blob/master/addon/chrome/skin/default/zoterotag/favicon.png)Zotero Tag 插件介绍
+主页与下载：<https://github.com/windingwind/zotero-tag>
 
-主页与下载：[https://github.com/windingwind/zotero-tag](https://github.com/windingwind/zotero-tag)
-
-_One add-on to rule Tags all._
+*One add-on to rule Tags all.*
 
 用一个插件管理 Zotero 中的标签。
 
@@ -29,7 +27,7 @@ _One add-on to rule Tags all._
 
 安装插件后，可在库视图中选中数个条目，右键菜单选择管理标签，即可批量添加、移除、检查较少使用标签、导入导出标签。
 
-[![b2549db57c2d46b7ea693d66f6216ffb_MD5](https://cdn.pkmer.cn/images/202308171546721.png!pkmer)](https://github.com/windingwind/zotero-tag/blob/master/imgs/readme-settings-rightclickmenu.png)
+![Zotero 插件：Zotero Tag|757](https://cdn.pkmer.cn/images/d636615e7b5e6fbd1c12c0d094e50e93_MD5.png!pkmer)
 
 其他设置可在编辑 ->首选项找到。
 
@@ -39,22 +37,23 @@ _One add-on to rule Tags all._
 
 使用标签组规则来批量管理标签。为每个标签组分配指定动作: 条目添加时/条目打开时/条目关闭时……，并在动作触发时为对应条目添加/移除标签组；
 
-使用半角逗号 ','(comma) 分隔标签组中的多个标签；在标签前加前缀 '~~' 以指明该标签的行为是移除，默认是添加;
+使用半角逗号’,’(comma) 分隔标签组中的多个标签；在标签前加前缀’~~’ 以指明该标签的行为是移除，默认是添加;
 
 **例:** 要为新添加的条目设置 /unread 标签，并在阅读完成（关闭 Zotero 阅读器）时移除未读标签，则：
 
-| **标签** | **动作**             |
-| -------- | -------------------- |
-| /unread  | add on item add      |
-| /unread  | remove on item close |
+|     |     |
+| --- | --- |
+| **标签** | **动作** |
+| /unread | add on item add |
+| /unread | remove on item close |
 
-[![f3f6f070fb00eda2f798531a4eb57166_MD5](https://cdn.pkmer.cn/images/202308171546722.png!pkmer)](https://github.com/windingwind/zotero-tag/blob/master/imgs/readme-settings-rule.png)
+![Zotero 插件：Zotero Tag|532](https://cdn.pkmer.cn/images/687b0e649c8b7dada09234c35afdfcd9_MD5.png!pkmer)
 
 ## 快捷键
 
 Alt+(1-9) 可分配给标签组。
 
-[![d92c55070b5103625ef144fcef5ede4a_MD5](https://cdn.pkmer.cn/images/202308171546723.png!pkmer)](https://github.com/windingwind/zotero-tag/blob/master/imgs/readme-settings-shortcuts.png)
+![Zotero 插件：Zotero Tag](https://cdn.pkmer.cn/images/93e542bbee892f25beb36faee0809e1f_MD5.png!pkmer)
 
 ## 彩色标签
 
@@ -64,14 +63,14 @@ Alt+(1-9) 可分配给标签组。
 
 [Setting Guide](https://github.com/windingwind/zotero-tag/blob/master/docs/item-star.md)
 
-[![21e6f082f9c6c08bca3fb10bf1d64573_MD5](https://cdn.pkmer.cn/images/202308171546724.png!pkmer)](https://user-images.githubusercontent.com/33902321/159643528-9eb77420-9c93-4244-b6e5-f9720af7698e.png)
+![Zotero 插件：Zotero Tag](https://cdn.pkmer.cn/images/8af705651de4aae609a24da6ae500213_MD5.png!pkmer)
 
 ## 高级能力
 
 - 在库视图中右键点击条目或分类
-- 点击 'Manage Tags/管理标签 '
+- 点击’Manage Tags/管理标签’
 
-[![67ba44c5106b9fe7182ac8b18f72ed50_MD5](https://cdn.pkmer.cn/images/202308171546725.png!pkmer)](https://github.com/windingwind/zotero-tag/blob/master/imgs/readme-manage-tags.png)
+![Zotero 插件：Zotero Tag|487](https://cdn.pkmer.cn/images/20230822000600.png!pkmer)
 
 ### 添加/移除标签
 
@@ -106,7 +105,6 @@ CSV 文件内容示例：
 -,toremove,
 =,BIM,building information modeling,Building Information Modeling (BIM)
 =,this is comma($COMMA$),$COMMA$
-
 ```
 
 每行的说明：
@@ -115,5 +113,3 @@ CSV 文件内容示例：
 2. 所有条目将移除 `toremove` 标签。
 3. `building information modeling` 和 `Building Information Modeling (BIM)` 标签将被替换为 `BIM` 标签。
 4. `,` 标签将替换为 `this is comma(,)`。在输入 CSV 文件中，标签中的半角逗号应替换为 `$COMMA$`。
-
-下一篇 [[8_7_查询引用次数]]

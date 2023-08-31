@@ -3,11 +3,11 @@ uid: 20230817143755
 title: 8.5- 笔记增强：Better Notes 插件
 tags: [zotero]
 description: 
-author: winding,Northword,ShareStuff
+author: windingwind,Northword,ShareStuff
 type: other
 draft: false
 editable: false
-modified: 20230817193003
+modified: 20230825145810
 ---
 
 # 8.5- 笔记增强：Better Notes 插件

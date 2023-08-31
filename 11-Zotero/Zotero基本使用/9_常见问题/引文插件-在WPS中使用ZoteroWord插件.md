@@ -3,11 +3,11 @@ uid: 20230817144839
 title: 【引文 插件】在 WPS 中使用 Zotero Word 插件
 tags: [zotero]
 description: 
-author: winding,不秃燃的小老弟
+author: windingwind,不秃燃的小老弟
 type: other
 draft: false
 editable: false
-modified: 20230817195133
+modified: 20230825145847
 ---
 
 # 【引文 插件】在 WPS 中使用 Zotero Word 插件

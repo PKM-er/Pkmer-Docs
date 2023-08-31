@@ -20,7 +20,8 @@ modified: 20230607102344
 > - 插件名称：Chronology
 > - 插件版本：1.1.4
 > - 插件作者：Gabriele Cannata
-> - 插件描述：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
+> - 插件描述：按照月历模式导航，轻松了解编辑修改锅的笔记内容
+> - 插件分类：[' 文件管理 ', ' 文件历史 ', ' 统计 ', ' 效率 ', ' 美化 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/Canna71/obsidian-chronology/tree/master)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chronology)
 

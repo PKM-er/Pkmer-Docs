@@ -3,11 +3,11 @@ uid: 20230817143710
 title: 8.4- 文献预览：PDF Preview QuickLook
 tags: [zotero]
 description: 
-author: winding
+author: windingwind
 type: other
 draft: false
 editable: false
-modified: 20230817192937
+modified: 20230825145806
 ---
 
 # 8.4- 文献预览：PDF Preview QuickLook
