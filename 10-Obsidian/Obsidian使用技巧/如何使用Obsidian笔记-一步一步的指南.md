@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230616011312
+modified: 20230824234320
 ---
 
 # 如何使用 Obsidian 笔记：一步一步的指南
@@ -63,7 +63,7 @@ Obsidian 是以 Markdown 格式保存的纯文本文件构建你知识库。本�
 
 ![1686847888580.jpg](https://cdn.pkmer.cn/images/1686847888580.jpg!pkmer)
 
-简单来说，“Obsidian Vault”（我们称之为仓库）是你在本地文件系统（或者如果你愿意，可以是你的 Dropbox）上的一个文件夹，Obsidian 会将你的笔记收集和存储在其中。你可以将所有的笔记保存在一个保险库中，也可以创建多个不同的保险库，完全取决于你的个人偏好。
+简单来说，“Obsidian Vault”（我们称之为仓库）是你在本地文件系统（或者如果你愿意，可以是你的 Dropbox）上的一个文件夹，Obsidian 会将你的笔记收集和存储在其中。你可以将所有的笔记保存在一个仓库中，也可以创建多个不同的仓库，完全取决于你的个人偏好。
 
 你可以通过点击并选择你希望将 Markdown 文件集合保存在其中的文件夹来选择一个仓库。
 
@@ -127,7 +127,7 @@ Obsidian 是以 Markdown 格式保存的纯文本文件构建你知识库。本�
 
 ## 在 Obsidian 笔记仓库中进行搜索
 
-一旦您将一些笔记添加到您的保险库中，您会希望能够搜索您的旧内容。
+一旦您将一些笔记添加到您的仓库中，您会希望能够搜索您的旧内容。
 
 ![image.png](https://cdn.pkmer.cn/images/20230616010737.png!pkmer)
 

@@ -3,7 +3,7 @@ uid: 20230817143255
 title: 6- 期刊追踪：RSS 订阅
 tags: [zotero]
 description: 
-author: winding,Ali
+author: windingwind,Ali
 type: other
 draft: false
 editable: false

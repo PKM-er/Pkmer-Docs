@@ -1,13 +1,13 @@
 ---
-uid: 2023080322134040
-title: Obsidian 插件：【Readme】Adjacency Matrix Maker
+uid: 20230822233837
+title: Obsidian 插件：Adjacency Matrix Maker
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 创建你的金库的互动邻接矩阵
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230824234340
 ---
 
 # Obsidian 插件：Adjacency Matrix Maker
@@ -91,7 +91,7 @@ modified: 20230101000000
 
 ### 保存图像
 
-您可以通过点击“保存图像”按钮将邻接矩阵的图像保存到您的保险库中。如果成功，您将在右上角看到一个通知，上面写着“图像已保存”。
+您可以通过点击“保存图像”按钮将邻接矩阵的图像保存到您的仓库中。如果成功，您将在右上角看到一个通知，上面写着“图像已保存”。
 
 图像的默认名称和路径可以在 [图像设置](README.md#save-image-configuration) 中进行配置。
 

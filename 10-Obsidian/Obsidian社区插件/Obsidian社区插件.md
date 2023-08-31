@@ -261,6 +261,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
 - [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
 - [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
+- [[easy-toggle-sidebars_readme]]：便捷的控制侧边栏
 
 ### Frontmatter
 

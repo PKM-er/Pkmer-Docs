@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230621184226
+modified: 20230828121713
 ---
 
 # Obsidian 插件：Tag Wrangler 增强的标签管理体验
@@ -24,6 +24,7 @@ modified: 20230621184226
 > - 插件名称：Tag Wrangler
 > - 插件作者：PJ Eby
 > - 插件说明：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到。
+> - 插件分类：[' 文件重构 ', ' 编辑工具 ', ' 标签管理 ', ' 标签 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/pjeby/tag-wrangler)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-wrangler)
 
@@ -68,11 +69,20 @@ modified: 20230621184226
 
 在参考完官方文档后，我设计了一个标签文档，专门用来管理标签。
 
+* 打开或创建 [标签页面](#tag-pages)（**0.5.0 版本新增**）
+* [重命名标签](#renaming-tags)（以及其所有子标签）
+* 折叠标签窗格中同一级别的所有标签
+* 展开标签窗格中同一级别的所有标签
+
 官方文档：[tag-wrangler - GitHub](https://link.zhihu.com/?target=https%3A//github.com/pjeby/tag-wrangler)
 
 ### 标签搜索
 
 在 Tag wrangler 标签树下，在任意一个标签上右键，可在弹出的菜单中将该标签其加入搜索
+
+* 开始对该标签进行新的搜索（类似于普通点击）
+	* 将标签添加为当前搜索的要求（`tag:#whatever`）
+	* 将标签添加为当前搜索的排除项（`-tag:#whatever`）
 
 ![image.png](https://cdn.pkmer.cn/images/18c6c4a2c588b441fdcd91b360671a9e_MD5.png!pkmer)
 
