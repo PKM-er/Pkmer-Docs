@@ -1,13 +1,13 @@
 ---
-uid: 2023080322163058
-title: Obsidian 插件：【Readme】Control Characters
+uid: 20230816192922
+title: Obsidian 插件：Control Characters
 tags: ['obsidian插件', 'readme']
 description: 在编辑模式下显示控制/不可打印字符
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230831195805
 ---
 
 # Obsidian 插件：Control Characters
