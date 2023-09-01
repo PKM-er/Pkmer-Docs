@@ -16,7 +16,7 @@ modified: 20230816111338
 > - 插件名称：Text Expander
 > - 插件作者：Nikita Konodyuk
 > - 插件说明：在编辑器中扩展文本快捷键，运行 shell 命令和 python 脚本
-> - 插件分类：[' 自动化 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：[' 自动化 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/konodyuk/obsidian-text-expander)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-text-expander)
 

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603014203
+modified: 20230831151619
 ---
 
 # Obsidian 插件：Advanced Tables 改进了表格导航、格式和操作
@@ -18,6 +18,7 @@ modified: 20230603014203
 > - 插件名称：Advanced Tables
 > - 插件作者：Tony Grosinger
 > - 插件说明：改进了表格导航、格式和操作
+> - 插件分类：[' 界面相关 ', ' 编辑工具 ', ' 表格 ', ' 效率 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/tgrosinger/advanced-tables-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?table-editor-obsidian)
 
