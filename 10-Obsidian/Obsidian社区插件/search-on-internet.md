@@ -7,7 +7,7 @@ author: Bon,山鸡
 type: other
 draft: false
 editable: false
-modified: 20230603014421
+modified: 20230831150630
 ---
 
 # Obsidian 插件：Search on Internet 快速在搜索引擎中搜索笔记内容
@@ -20,6 +20,7 @@ Search on internet 利用 Obsidian 强大的 iframe 支持，实现了右键搜�
 > - 插件名称：Search on Internet
 > - 插件作者：Emile
 > - 插件说明：在文档任意地方生成需要随机的内容，这些随机的候选项可以你来定义。
+> - 插件分类：[' 搜索/排序 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](<https://github.com/HEmile/obsidian-search-on-internet>
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?search-on-internet)
 
@@ -34,13 +35,18 @@ Search on internet 利用 Obsidian 强大的 iframe 支持，实现了右键搜�
 
 最后，在右侧会弹出一个窗口，显示所查询信息的含义。
 
+![](https://raw.githubusercontent.com/HEmile/obsidian-search-on-internet/master/resources/context_iframe.gif)
+
 ### 设置
 
 - Open in iframe：默认打开，在 Obsidian 内打开搜索结果。如果关闭，Obsidian 就会调用你默认的浏览器打开检索结果。调用浏览器的行为可能还会被一些软件认为是敏感操作，而被阻止。
 - Add Search：添加一个新的搜索引擎。
 	- Name：识别符，随意填写，显示在右键菜单中 。
 	- URL：最关键的参数，之后进行说明。
-	- Tags：默认为空，个人建议为空。刚更新插件后出现的字段，目前不清楚有何用处。
+	- Tags：默认为空，个人建议为空。刚更新插件后出现的字段，目前不清楚有何用处
+![](https://raw.githubusercontent.com/HEmile/obsidian-search-on-internet/master/resources/img.png)
+
+![](https://raw.githubusercontent.com/HEmile/obsidian-search-on-internet/master/resources/internal_link.png)
 
 ### URL 的设置
 

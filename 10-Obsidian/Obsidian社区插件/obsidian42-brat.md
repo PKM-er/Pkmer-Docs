@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230630100436
+modified: 20230831151054
 ---
 
 # Obsidian 插件：Obsidian42-BRAT 安装测试版插件和主题
@@ -19,21 +19,23 @@ modified: 20230630100436
 > - 插件名称：Obsidian42 BRAT
 > - 插件作者：TfTHacker
 > - 插件说明：让你可以安装未上架的插件，主题。
+> - 插件分类：[' 插件 ', ' 效率 ', ' 第三方工具集成 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/TfTHacker/obsidian42-brat)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian42-brat)
+
+`Beta Reviewers Auto-update Tester` 这是一个非常特殊的插件，旨在为插件和主题的开发者和测试人员提供更加便利的生活。
+
+**Beta Reviewers Auto-update Tool**，简称**BRAT**，是一个插件，它使您更容易协助其他开发者进行插件和主题的审查和测试。
+
+只需将 Obsidian 插件的 beta 版本的 GitHub 仓库路径添加到测试列表中，现在您可以直接检查更新。更新将被下载并重新加载插件。不再需要创建文件夹、下载文件、将它们复制到正确的位置等等。这个插件会为您处理所有这些事情。
+
+在以下网址的**文档**中了解更多关于 BRAT 的信息：<https://tfthacker.com/BRAT>
 
 ## 效果&特性
 
 - 支持未上架或者已经上架的插件的安装，更新。
 - 支持未上架或者已经上架的主题的安装，更新。
 - 支持单独更新某一个插件/主题。
-
-## 安装
-
-1. 进入 Obsidian 社区插件
-2. 搜索 Obsidian42 BRAT
-3. 安装
-4. 开启插件
 
 ## 使用
 

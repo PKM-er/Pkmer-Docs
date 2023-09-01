@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531200237
+modified: 20230831153433
 ---
 
 # Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
@@ -87,6 +87,24 @@ body .link-favicon[data-is-readable-a-a] {
 	background-image: none;
 }
 ```
+
+#### 颜色反转
+
+默认情况下，对于不易显示的图标，会应用颜色滤镜以提高可读性。
+
+有多个指标可以用来判断图标是否可读：
+
+- `is-dark`，`is-light`：图标的颜色感知亮度是否为暗色/亮色。
+- `is-readable-a-a`：根据 [W3C AA规范](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)。
+- `is-readable-a-a-a`：根据 [W3C AAA规范](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html)。
+
+默认情况下，使用 AA 值。
+
+不建议使用 `is-dark`，`is-light` 值，因为它们不考虑背景颜色。
+
+这些值是从平均颜色计算得出的。
+
+使用最主要的颜色会更准确，但目前尚未实现。
 
 >[!Tip] 提示
 >- 类似插件还有：[[external-favicon]]

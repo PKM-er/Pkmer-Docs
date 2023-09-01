@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230621183723
+modified: 20230831152220
 ---
 
 # Obsidian 插件：Obsidian Banners 为你的笔记添加头图
@@ -19,7 +19,8 @@ modified: 20230621183723
 > [!Note] 插件名片
 > - 插件名称：Banners
 > - 插件作者：noatpad
-> - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
+> - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
+> - 插件分类：[' 编辑工具 ', ' 模板 ', ' 图片 ', ' 美化 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/noatpad/obsidian-banners)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-banners)
 
@@ -96,6 +97,14 @@ banner_icon: string
 - **Preview internal banner height**：如果启用“在内部嵌入中显示头图”，此设置将确定嵌入中横幅图片的高度。
 
 ![image.png](https://cdn.pkmer.cn/images/20230514124741.png!pkmer)
+
+## 兼容性
+
+目前有一些插件被报告与横幅存在冲突：
+
+- [Breadcrumbs](https://github.com/SkepticMystic/breadcrumbs)
+- [Obsidian Code Block Enhancer](https://github.com/nyable/obsidian-code-block-enhancer)
+- [Obsidian Embedded Note Titles](https://github.com/mgmeyers/obsidian-embedded-note-titles)
 
 > [!Tip] 推荐阅读
 > - [[heading-level-indent]]：能根据标题级别缩进内容，用于创建视觉层次结构，使文档的结构和组织更容易理解
