@@ -110,3 +110,8 @@ Obsidian 是什么？是一款背靠社区生态，可以自己打造的知识�
 ![image.png|550](https://cdn.pkmer.cn/images/5cc99249b4f2439d3ec75814b9c19fc0_MD5.png!pkmer)
 
 接下来：[[Obsidian最简使用]]
+
+
+## 视频
+
+<iframe src="https://player.bilibili.com/player.html?bvid=BV19z4y1s7nk&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>

@@ -1,13 +1,18 @@
 ---
-uid: 2023080322274097
-title: Obsidian 插件：【Readme】Table Extended
-tags: ['编辑工具', '界面相关', '表格', 'obsidian插件', 'readme']
+uid: 20230822233838
+title: Obsidian 插件：Table Extended
+tags:
+  - 编辑工具
+  - 界面相关
+  - 表格
+  - obsidian插件
+  - readme
 description: 非可视化操作表格，但因为表格增加了新扩展，能够支持单元格合并等效果，但是需要你熟悉下新的语法格式
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230829153910
 ---
 
 # Obsidian 插件：Table Extended
@@ -16,7 +21,7 @@ modified: 20230101000000
 > - 插件名称：Table Extended
 > - 插件作者：AidenLx
 > - 插件说明：非可视化操作表格，但因为表格增加了新扩展，能够支持单元格合并等效果，但是需要你熟悉下新的语法格式
-> - 插件分类：[' 编辑工具 ', ' 界面相关 ', ' 表格 ', 'obsidian 插件 ', 'readme']
+
 > - 项目地址：[点我访问](https://github.com/aidenlx/table-extended)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?table-extended)
 
@@ -74,14 +79,14 @@ Obsidian 的 [内置表格语法](https://help.obsidian.md/How+to/Format+your+no
 [mdit]: <https://markdown-it.github.io/>
 [mmdt]: <https://github.com/RedBug312/markdown-it-multimd-table>
 
-已知问题
+### 已知问题
 
 - 此插件尚不与 [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) 兼容，因为其自动格式化会破坏 mmd6 表格语法。
   - 相关问题：[advanced-tables-obsidian #59](https://github.com/tgrosinger/advanced-tables-obsidian/issues/59#issuecomment-812886995)
 - 带有“-tx-”的表格有时会忽略转义字符，例如，`\|` 无法在表格中转义 `|`，只有 `\\|` 有效。
 - 扩展的原生语法有时可能无法正常工作，控制台输出为：“无法获取 Markdown 文本，正在转义...”
 
-如何使用
+### 如何使用
 
 最新版本使用了一种新的语法来表示扩展表格，以取代围栏式的 `tx` 代码块，这样可以更好地支持反向链接和前向链接，在表格之前使用 `-tx-` 前缀：
 
@@ -263,63 +268,6 @@ And more      | With an escaped '\|'       ||
 </tbody>
 </table>
 
-### 跨行合并
-
-`^^` 表示上方合并的单元格。<br>
-
-```markdown
-阶段 | 直接产物 | ATP产量
-----: | --------------: | ---------:
-糖酵解 | 2 ATP ||
-^^ | 2 NADH | 3--5 ATP |
-丙酮酸氧化 | 2 NADH | 5 ATP |
-柠檬酸循环 | 2 ATP ||
-^^ | 6 NADH | 15 ATP |
-^^ | 2 FADH2 | 3 ATP |
-**30--32** ATP |||
-```
-
-解析如下：
-
-<table>
-<thead>
-<tr>
-<th align="right">阶段</th>
-<th align="right">直接产物</th>
-<th align="right">ATP产量</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="right" rowspan="2">糖酵解</td>
-<td align="right" colspan="2">2 ATP</td>
-</tr>
-<tr>
-<td align="right">2 NADH</td>
-<td align="right">3–5 ATP</td>
-</tr>
-<tr>
-<td align="right">丙酮酸氧化</td>
-<td align="right">2 NADH</td>
-<td align="right">5 ATP</td>
-</tr>
-<tr>
-<td align="right" rowspan="3">柠檬酸循环</td>
-<td align="right" colspan="2">2 ATP</td>
-</tr>
-<tr>
-<td align="right">6 NADH</td>
-<td align="right">15 ATP</td>
-</tr>
-<tr>
-<td align="right">2 FADH2</td>
-<td align="right">3 ATP</td>
-</tr>
-<tr>
-<td align="right" colspan="3"><strong>30–32</strong> ATP</td>
-</tr>
-</tbody>
-</table>
 
 ### 多行标题
 

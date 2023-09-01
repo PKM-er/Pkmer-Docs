@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604172445
+modified: 20230831153518
 ---
 
 # Obsidian 插件：Highlightr 小而美的高亮标注工具
@@ -21,11 +21,14 @@ Highlightr 就是以此目诞生的，将小而美的高亮菜单添加到了 Ob
 > [!Note] 插件名片
 > - 插件名称：Highlightr
 > - 插件作者：chetachi
-> - 插件说明：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色。
+> - 插件说明：将小而美的高亮菜单添加到了 Obsidian 中，通过所见即所得的方式，为笔记内容中文本增加高亮颜色
+> - 插件分类：[' 编辑器 ', ' 美化 ', ' 效率 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我访问](https://github.com/chetachiezikeuzor/Highlightr-Plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?highlightr-plugin)
 
 ## 效果&特性
+
+![Highlightr](https://cdn.pkmer.cn/covers/highlightr-plugin.png!pkmer)
 
 ## 使用
 

@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230603021710
+modified: 20230831160801
 ---
 
 # Obsidian 插件：Text Wrapper 给选中文本加上 HTML 标签
@@ -24,6 +24,8 @@ modified: 20230603021710
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obs-text-wrapper)
 
 ## 效果&特性
+
+该插件允许用户在编辑器中快速使用可自定义的 HTML 标签包装所选文本。最多可以在设置中配置三个标签，并绑定到热键。您还可以使用从命令面板访问的模态框输入新标签。如果没有选择文本，则标签将相邻设置。该插件对于那些经常使用较少知名 HTML 标签（如 `<dd>`，`<dt>` 和 `<dl>`）的人特别有用。
 
 - 选中文本后能通过快捷键来快速添加 HTML 标签，例如 `<div></div>` 或者一些很少见的 `<dt></dt>`
 

@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20230809092705
+modified: 20230829153844
 ---
 
 # Obsidian 插件：Table Extended 表格合并利器
@@ -30,6 +30,7 @@ modified: 20230809092705
 > - 插件版本：1.6.1
 > - 插件作者：AidenLx
 > - 插件描述：为表格增加合并列和行和省略表头的功能
+> - 插件分类：[' 编辑工具 ', ' 界面相关 ', ' 表格 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/table-extended)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?table-extended)
 
@@ -101,6 +102,64 @@ Content      |  *Long Cell*  ||
 `````
 
 ![Table Extended效果图四.png|541](https://cdn.pkmer.cn/images/Table%20Extended%E6%95%88%E6%9E%9C%E5%9B%BE%E5%9B%9B.png!pkmer)
+
+### 跨行合并
+
+`^^` 表示上方合并的单元格。<br>
+
+```markdown
+阶段 | 直接产物 | ATP产量
+----: | --------------: | ---------:
+糖酵解 | 2 ATP ||
+^^ | 2 NADH | 3--5 ATP |
+丙酮酸氧化 | 2 NADH | 5 ATP |
+柠檬酸循环 | 2 ATP ||
+^^ | 6 NADH | 15 ATP |
+^^ | 2 FADH2 | 3 ATP |
+**30--32** ATP |||
+```
+
+解析如下：
+
+<table>
+<thead>
+<tr>
+<th align="right">阶段</th>
+<th align="right">直接产物</th>
+<th align="right">ATP产量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right" rowspan="2">糖酵解</td>
+<td align="right" colspan="2">2 ATP</td>
+</tr>
+<tr>
+<td align="right">2 NADH</td>
+<td align="right">3–5 ATP</td>
+</tr>
+<tr>
+<td align="right">丙酮酸氧化</td>
+<td align="right">2 NADH</td>
+<td align="right">5 ATP</td>
+</tr>
+<tr>
+<td align="right" rowspan="3">柠檬酸循环</td>
+<td align="right" colspan="2">2 ATP</td>
+</tr>
+<tr>
+<td align="right">6 NADH</td>
+<td align="right">15 ATP</td>
+</tr>
+<tr>
+<td align="right">2 FADH2</td>
+<td align="right">3 ATP</td>
+</tr>
+<tr>
+<td align="right" colspan="3"><strong>30–32</strong> ATP</td>
+</tr>
+</tbody>
+</table>
 
 ### 块级元素
 

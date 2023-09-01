@@ -22,9 +22,6 @@ modified: 20230614215020
 
 ## 概述
 
-![演示](https://raw.githubusercontent.com/rizerphe/obsidian-companion/main/screenshots/demo.gif)
-
-
 ![Obsidian_nn7JxjA0MD.gif](https://cdn.pkmer.cn/images/Obsidian_nn7JxjA0MD.gif!pkmer)
 
 companion 插件是一个通过 chatGPT 进行 自动补全的 Obsidian 插件。它利用 AI 模型 chatGPT 来根据上下文自动生成内容，帮助用户快速完成写作和笔记。使用 companion 插件，用户可以在编辑器中输入 文字，并通过 AI 模型生成相关的补充内容。这个插件能够提供即时的建议、提示和扩展，帮助用户更高效地写作和整理思路。
