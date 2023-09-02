@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174752
+modified: 20230829153559
 ---
 
 # Obsidian 插件：Paste URL into selection 快速给文字添加链接
@@ -22,6 +22,7 @@ Paste URL into selection 解决了快速给文字添加链接的问题，使用 
 > - 插件名称：Paste URL into selection
 > - 插件作者：denolehov
 > - 插件说明：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
+> - 插件分类：[' 链接处理 ', ' 效率 ', ' 编辑工具 ', 'obsidian 插件 ']
 > - [插件项目地址：[点我跳转](https://github.com/denolehov/obsidian-url-into-selection)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?url-into-selection)
 > - 插件兼容：Obsidian v0.9.8 及以上版本。
@@ -29,6 +30,8 @@ Paste URL into selection 解决了快速给文字添加链接的问题，使用 
 ## 效果&特性
 
 ![98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif](https://cdn.pkmer.cn/images/98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif!pkmer)
+
+![示例](https://user-images.githubusercontent.com/4748206/98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif)
 
 ## 使用
 
@@ -46,6 +49,10 @@ Paste URL into selection 解决了快速给文字添加链接的问题，使用 
 	- Auto Select：自动选择相近字符组合成链接粘贴链接标题
 	- `[](url)`：将链接变为对应格式；
 	- `<url>`：将链接变为对应格式；
+
+### 兼容性
+
+自定义插件仅适用于 Obsidian v0.9.8+。
 
 > [!Tip] 推荐阅读
 > - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。

@@ -7,7 +7,7 @@ author: calmwaves
 type: basic
 draft: false
 editable: false
-modified: 20230729230626
+modified: 20230821172705
 ---
 
 # Obsidian 插件：Copy Image and URL context menu 增强图片处理功能
@@ -31,7 +31,9 @@ modified: 20230729230626
 
 ## 使用
 
-> 首先注意，该插件仅在阅读视图下生效；另外发现一个 bug，不能复制 gif 动图，复制后剪贴板里的是静态图
+> [!warning]
+> 首先注意，该插件仅在阅读视图下生效；
+> 另外发现一个 bug，不能复制 gif 动图，复制后剪贴板里的是静态图
 
 ### 对于图像
 
@@ -52,7 +54,8 @@ modified: 20230729230626
 
 ### 对于 PDF 文件
 
-在其上右键后，会出现 Open PDF externally 从外部打开 PDF
+> [!warning]
+> 对于 PDF 文件，目前有点问题，当鼠标划过 pdf 左边和上边的边框时就会出现 Open PDF externally，目前还没有解决，具体可查看 [issue](https://github.com/NomarCub/obsidian-copy-url-in-preview/issues/25)
 
 ![010-CopyUrlAndImageContextMenu插件_image_3](https://cdn.pkmer.cn/images/202307292305948.gif!pkmer)
 
@@ -61,3 +64,7 @@ modified: 20230729230626
 另外，所有功能都适用于移动设备，但仅在 Android 上进行了测试：
 
 ![010-CopyUrlAndImageContextMenu插件_image_4](https://cdn.pkmer.cn/images/202307292305535.gif)
+
+安卓上长按图片可以保存 obsidian 笔记里的图片到相册，查看下面的 gif 演示：
+
+![010-CopyUrlAndImageContextMenu_image_5](https://cdn.pkmer.cn/images/202308312233291.gif)

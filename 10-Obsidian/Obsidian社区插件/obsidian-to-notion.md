@@ -55,7 +55,7 @@ Notion 提供了广泛的集成选项，可以满足个人用户、团队和企�
 
 ### Notion 配置
 
-创建一个集成
+#### 创建一个集成
 
 - 创建的地方：
 	- notion 桌面端中点击 `设置 -> My connections -> Develop or manage intefrations`，
@@ -65,6 +65,15 @@ Notion 提供了广泛的集成选项，可以满足个人用户、团队和企�
 	- Associated workspace：选择要安装集成的工作空间。工作区所有者也将能够管理集成。你可以稍后升级集成以使用开放授权 OAuth；
 	- Name：你想创建的集成的名字；
 	- Logo：集成的图片（obsidian 的黑曜石图片链接：<https://obsidian.md/images/obsidian-logo-gradient.svg）；>
+
+![](https://files.readme.io/2ec137d-093ad49-create-integration.gif)
+
+> [!Warning] 注意
+>数据库首先自定义的名称必须为 "Name"，否则同步到 Notion 将会失败
+
+![](https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220618102029.png)
+
+#### 第二步
 
 点击我们创建好集成后你会得到一个 Secrets 码，复制下来填入本插件设置中的 Notion API Token 处。
 
