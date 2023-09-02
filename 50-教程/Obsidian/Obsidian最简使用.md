@@ -7,7 +7,7 @@ author: Ryooo
 type: tutorial
 draft: false
 editable: false
-modified: 20230809164658
+modified: 20230829102156
 ---
 
 # Obsidian 最简使用
@@ -66,4 +66,8 @@ modified: 20230809164658
 
 - 如果你希望了解更加直观，可以参看下面社区制作的系列视频，也可以关注我们的 B 站账号，和微信公众号：PKMer 知识社区
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV19z4y1s7nk&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+## 视频
+
+### 【从零开始学 OB】—— Obsidian 五大基础配置
+
+<iframe src="https://player.bilibili.com/player.html?aid=274653969&bvid=BV1jF411Z79w&cid=1232619455&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>

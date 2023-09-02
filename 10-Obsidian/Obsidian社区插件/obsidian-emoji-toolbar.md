@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604172700
+modified: 20230901101448
 ---
 
 # Obsidian 插件：Emoji Toolbar 快速插入 Emoji 符号
@@ -24,6 +24,7 @@ modified: 20230604172700
 >- 插件名称：Emoji Toolbar
 >- 插件作者：oliveryh
 >- 插件说明：快速搜索表情符号并将其插入到您的编辑器中。
+> - 插件分类：[' 编辑工具 ', ' 界面相关 ', ' 效率 ', 'obsidian 插件 ']
 >- 插件项目地址：[点我跳转](https://github.com/oliveryh/obsidian-emoji-toolbar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-emoji-toolbar)
 
@@ -31,12 +32,9 @@ modified: 20230604172700
 
 ![image.png](https://cdn.pkmer.cn/images/20230503222718.png!pkmer)
 
-## 安装
-
-1. 进入 Obsidian 社区插件
-2. 搜索 Emoji Toolbar
-3. 安装
-4. 开启插件
+- 模糊/语义搜索匹配 emoji 表情
+- 支持展示最近使用的表情符号
+- Twitter 表情符号格式化预览和插入模态框，以改善表情符号的支持。这可以在表情符号工具栏设置选项卡中切换开/关。
 
 ## 设置
 

@@ -7,7 +7,7 @@ author: OS,却能火里种金莲
 type: other
 draft: false
 editable: false
-modified: 20230718135143
+modified: 20230829162639
 ---
 
 # Obsidian 插件：Novel word count 增加统计信息
@@ -20,12 +20,13 @@ modified: 20230718135143
 > - 插件名称：Novel word count
 > - 插件作者：Isaac Lyman
 > - 插件说明：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
+> - 插件分类：[' 文件管理 ', ' 统计 ', ' 界面相关 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/isaaclyman/novel-word-count-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?novel-word-count)
 
 ## 效果&特性
 
-![readme-screenshot-2.png](https://cdn.pkmer.cn/images/readme-screenshot-2.png!pkmer)
+![Novel Word Count](https://cdn.pkmer.cn/covers/novel-word-count.png!pkmer)
 
 - 在文件资源管理器窗格中，为每个文件、文件夹和仓库旁边显示您选择的统计信息。
 - 插件提供可选的统计信息，包括字数统计、页面统计、字符统计、笔记统数量统计、创建/修改日期、文件大小。
@@ -59,6 +60,25 @@ modified: 20230718135143
 7.调试模式。启用开发者控制台的调试输出，这在您需要报告问题时可能非常有用。
 
 ![Snipaste_2023-07-18_13-18-09.png](https://cdn.pkmer.cn/images/Snipaste_2023-07-18_13-18-09.png!pkmer)
+
+### 设置
+
+您可以选择最多三种数据类型并排显示。
+
+**缩写描述。** 启用以显示缩写计数：
+
+| 完整描述 | 缩写 |
+| ---------------- | ----------- |
+| 3,250 个字 | 3,250w |
+| 30 页 | 30p |
+| 23,800 个字符 | 23,800ch |
+| 12 个笔记 | 12n |
+| 3 个链接 | 3x |
+| 5 个嵌入 | 5em |
+| 别名：七月 +3 | 七月 |
+| 创建于 1/22/2022 | 1/22/2022/c |
+| 更新于 1/22/2022 | 1/22/2022/u |
+| 13.39 KB | 13.39kb |
 
 ### 支持的统计数据项
 

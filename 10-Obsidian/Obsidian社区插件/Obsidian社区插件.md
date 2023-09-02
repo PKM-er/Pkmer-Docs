@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230816184410
+modified: 20230829165230
 ---
 
 # Obsidian 社区插件
@@ -59,7 +59,16 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 社区技巧
 
+- [[obsidian_2023_seyee |用 Obsidian 两年多，现在我怎么同步和使用]] by Seyee
 - [[如何获得Obsidian绿色版]]
+- [[Obsidian那些实用的操作]]
+- [[如何使用Obsidian笔记-一步一步的指南]]
+- [[外语书阅读工作流]]
+- [[在Obsidian中为图片添加注释]]
+- [[Templater实现关键词自动化套用模板]]
+- [[Obsidian插件技巧-Memos和Reminder高效管理突发及琐碎待办]]
+- [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]
+- [[Quickadd结合CSS实现挖空复习]] by Mon
 
 ### 编辑增强
 
@@ -219,6 +228,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[tag-wrangler]]：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到
 - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
 - [[obsidian-frontmatter-tag-suggest]]：很好解决记忆标签和快速输入的问题，提供标签自动建议的方法，让你可以键入简单字母来快速联想出来对应的标签
+- [[multi-tag]]：一次向多个笔记添加标签。右键单击文件夹，或者选择多个笔记并右键单击所选内容
 
 ### 表格类
 

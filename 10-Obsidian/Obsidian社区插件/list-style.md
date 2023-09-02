@@ -7,7 +7,7 @@ author: Windysoul
 type: other
 draft: false
 editable: false
-modified: 20230725235050
+modified: 20230831155227
 ---
 
 # Obsidian 插件：Ordered List Styles 用中文的天干、地支做有序列表的序号
@@ -29,6 +29,15 @@ modified: 20230725235050
 ![order list styles|541](https://cdn.pkmer.cn/images/20230725234246.png!pkmer)
 
 ## 使用
+
+可以使用常见列表样式类型，如 `upper-alpha`。此外，对于一些常见的类型，还提供了简写方式：
+
+- `{A}`: 大写字母
+- `{a}`: 小写字母
+- `{I}`: 大写罗马数字
+- `{i}`: 小写罗马数字
+- `{01}`: 带前导零的十进制
+- `{1}`: 十进制（默认值，尽管在您的主题中可能不是这样）
 
 1. {trad-chinese-informal} 安装、启用插件，无需设置，即可使用。
 2. 在文本行内通过标准的 list style typs（[list-style-type - CSS: Cascading Style Sheets | MDN (mozilla.org)](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)）来实现有序列表的多种不同的层级、样式的前缀符号样式，下面的注释仅给出了**天干、地支、中文一二三**的 *list style type*，更多的*list style types*的写法可查看所给的链接。

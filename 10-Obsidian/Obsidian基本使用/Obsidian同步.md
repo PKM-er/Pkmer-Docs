@@ -147,3 +147,7 @@ webdav 类须配合 Obsidian 插件自动同步移动端，或者使用 webdav �
 
 - [[Syncthing]]：点对点同步方案，适用于 Android、Mac、Windows、Linux，增量同步
 - [微力同步](http://www.verysync.com/)：支持 Win、Mac、Linux 以及 Android、iOS 平台，增量同步
+
+## 视频
+
+<iframe src="https://player.bilibili.com/player.html?aid=574602710&bvid=BV1qz4y1W7mf&cid=1229764901&page=1&autoplay=false"  autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233521
+modified: 20230901101300
 ---
 
 # Obsidian 插件：Editing Toolbar 必装的可视化编辑工具
@@ -85,6 +85,18 @@ Editing Toolbar 是 Cumany 二次开发的可视化编辑工具栏，旨在增�
 1. 支持菜单拖动排序
 2. 增加格式刷功能 内置字体颜色和背景颜色两种格式刷（鼠标中键或者右键可取消格式刷状态）
    ![增加格式刷功能 内置字体颜色和背景颜色两](https://cdn.pkmer.cn/images/043688f59a5fa25d87f3d6bfa1c60de9_MD5.gif!pkmer)
+
+   1. 工具栏图标宽度自适应缩小
+       ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main/pic/202209072157728.gif)
+
+### 与其他插件一起使用
+
+1. [[obsidian-emoji-toolbar]] 快速插入表情符号
+   ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main/pic/202209092001600.gif)
+
+2. [Obsidian-Table-Generator](https://github.com/Quorafind/Obsidian-Table-Generator/) 和 [ob-table-enhance](https://github.com/Stardusten/ob-table-enhancer) 快速插入和编辑表格
+   ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main/pic/202209092008571.gif)
+
 > [!Tip] 关联推荐
 > - [[lapel]]：在标题旁边显示标题等级，并提供快捷切换标题等级的能力
 > - [[cm-editor-syntax-highlight-obsidian]]：允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案
