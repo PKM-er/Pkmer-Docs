@@ -88,6 +88,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[style-text]]：自定义 CSS 样式应用于笔记中的选定文本
 - [[cmenu-plugin]]：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽
 - [[Obsidian样式-特殊标签-让Markdown的文本多彩多色]]
+- [[control-characters]]：显示隐藏的字符
 
 ### Callout 相关
 
