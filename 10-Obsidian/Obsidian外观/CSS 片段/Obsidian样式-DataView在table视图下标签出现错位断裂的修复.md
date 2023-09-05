@@ -1,16 +1,16 @@
 ---
 uid: 20230608224500
-title: DataView 在 table 视图下标签出现错位断裂的修复
+title: Obsidian 样式：DataView 在 table 视图下标签出现错位断裂的修复
 tags: [Obsidian, CSS, DataView, 修复]
 description: DataView 在 table 视图下标签出现错位断裂的修复
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230610161338
+modified: 20230905153328
 ---
 
-# DataView 在 table 视图下标签出现错位断裂的修复
+# Obsidian 样式：DataView 在 table 视图下标签出现错位断裂的修复
 
 ## 使用方式
 

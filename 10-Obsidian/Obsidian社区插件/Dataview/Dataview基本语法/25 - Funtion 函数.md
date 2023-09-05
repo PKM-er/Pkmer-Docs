@@ -7,10 +7,10 @@ author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810180117
+modified: 20230904121804
 ---
 
-# Dataview 支持的Function 函数
+# Dataview 支持的 Function 函数
 
 Dataview 提供了一些函数让我们对查询的结果做进一步处理，你可以在除了 From 以外的地方使用。
 

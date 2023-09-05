@@ -66,8 +66,9 @@ PKMer 从 Obsidian 官方发布的插件信息列表中，找到最近更新的�
 
 ## 相关视频
 
+<iframe src="https://player.bilibili.com/player.html?aid=915396535&bvid=BV1Mu4y1v7FG&cid=1252667599&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
-<iframe src="https://player.bilibili.com/player.html?aid=956765724&bvid=BV1qp4y1V7SL&cid=1222533808&page=1&autoplay=false" autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="90%" height="600">  </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=956765724&bvid=BV1qp4y1V7SL&cid=1222533808&page=1&autoplay=false" autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="80%" height="500">  </iframe>
 
 ## 价格
 

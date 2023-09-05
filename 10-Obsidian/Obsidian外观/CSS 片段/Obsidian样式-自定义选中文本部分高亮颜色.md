@@ -1,16 +1,16 @@
 ---
 uid: 20230608173139
-title: 自定义选中文本部分高亮颜色
+title: Obsidian 样式：自定义选中文本部分高亮颜色
 tags: [Obsidian, css, 样式]
 description: 自定义选中文本部分高亮颜色
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230709151135
+modified: 20230905153319
 ---
 
-# 自定义选中文本部分高亮颜色
+# Obsidian 样式：自定义选中文本部分高亮颜色
 
 ## 使用方式
 

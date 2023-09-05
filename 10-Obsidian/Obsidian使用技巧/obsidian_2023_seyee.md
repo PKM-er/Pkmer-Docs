@@ -1,13 +1,13 @@
 ---
 uid: 20230828235530
-title: 用 obsidian 两年多，现在我怎么同步和使用？
-tags: ["obsidian"]
+title: 用 Obsidian 两年多，现在我怎么同步和使用？
+tags: [obsidian]
 description: 
 author: Seyee
 type: practice
-draft: true
+draft: false
 editable: false
-modified: 20230901004252
+modified: 20230905002612
 ---
 
 # 用 Obsidian 两年多，现在我怎么同步和使用？

@@ -1,16 +1,16 @@
 ---
 uid: 20230703160524
-title: pandoc 插件导出 word 格式 正确识别本地图片
+title: Pandoc 插件导出 Word 格式 正确识别本地图片
 tags: [Obsidian, pandoc]
 description: 
-author: Cuman
+author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230703163312
+modified: 20230905153209
 ---
 
-# pandoc 插件导出 word 格式 正确识别本地图片
+# Pandoc 插件导出 Word 格式 正确识别本地图片
 
  pandoc 插件可以把 OB 的 md 格式导出各种格式，比如 Office 格式。
 
@@ -78,4 +78,5 @@ modified: 20230703163312
 其实就是对应的表格第一行的情况。
 
 如果库名称包含空格会导出失败?
+
 解决办法：用%20 代替空格即可
