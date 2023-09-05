@@ -3,7 +3,7 @@ uid: 20230327165531
 title: zettelkasten
 tags: []
 description: 
-author: Pkmer
+author: PKMer
 type: awesome
 draft: true
 editable: true

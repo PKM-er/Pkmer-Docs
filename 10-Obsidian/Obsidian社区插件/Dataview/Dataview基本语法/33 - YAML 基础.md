@@ -1,16 +1,16 @@
 ---
 uid: 20230724104529
-title:  Dataview中支持两种形式YAML的写法
+title: Dataview 中支持两种形式YAML的写法
 tags: [obsidian, metadata, yaml]
 description: 基本语法学习指南，YAML 语法规则
 author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810180143
+modified: 20230904121744
 ---
 
-#  Dataview中支持两种形式YAML的写法
+# Dataview 中支持两种形式 YAML 的写法
 
 > [!summary] YAML 语法规则
 > - 大小写敏感，可以使用中文；

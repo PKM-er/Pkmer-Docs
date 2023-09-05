@@ -7,10 +7,10 @@ author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810180053
+modified: 20230904121816
 ---
 
-# Dataview 支持的Literals 字面常量
+# Dataview 支持的 Literals 字面常量
 
 > [!question] 何为字面常量
 > 字面常量就是一些静态常量，比如数字 1、字符串“literals”等；

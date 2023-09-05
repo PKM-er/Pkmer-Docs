@@ -7,10 +7,10 @@ author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810175131
+modified: 20230904121753
 ---
 
-# Dataview 相关的FAQ - 常见问题
+# Dataview 相关的 FAQ - 常见问题
 
 不知道你在使用 Dataview 查询的过程中，是否遇到过 `Dataview: Error:`。Dataview 在解析你的代码过程中，如果遇到无法解析 (Parsing Failed) 的错误，就会显示一个报错信息。在报错信息中，Dataview 会用箭头为你指出无法解析的地方，并且在下放给出可能的修改提示。
 

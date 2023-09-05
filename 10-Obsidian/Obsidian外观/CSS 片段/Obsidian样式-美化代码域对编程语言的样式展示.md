@@ -1,16 +1,16 @@
 ---
 uid: 20230608155414
-title: Obsidian 美化代码域对编程语言的样式展示
+title: Obsidian 样式：美化代码域对编程语言的样式展示
 tags: [Obsidian, css, 代码域, 高亮方案, snippets]
 description: 美化代码域对编程语言的样式展示
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230616095715
+modified: 20230905153408
 ---
 
-# Obsidian 美化代码域对编程语言的样式展示
+# Obsidian 样式：美化代码域对编程语言的样式展示
 
 ## 引言
 
