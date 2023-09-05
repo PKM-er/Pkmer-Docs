@@ -16,7 +16,7 @@ modified: 20230905222338
 
 ## cards 将 Dataview tables 转换为卡片
 
-在 yaml 区用 cssclass 添加 `cards` 将笔记中的所有数据视图表转换为卡片
+在 yaml 区用 cssclass 申明 `cards` 将笔记中的所有Dataview tables转换为卡片
 
 ![[Pasted image 20230905215657.png]]
 
@@ -30,7 +30,7 @@ modified: 20230905222338
 
 ## list-cards 将有序列表转换为卡片
 
-在 yaml 区用 cssclass 添加 `list-cards` 将笔记中的所有项目符号列表转换为卡片
+在 yaml 区用 cssclass 申明 `list-cards` 将笔记中的所有无序列表转换为卡片
 
 ![[Pasted image 20230905220849.png]]
 
@@ -51,7 +51,7 @@ modified: 20230905222338
 | `cards-2-3`           | 使卡片中的图像适合 2：3 的比例         |
 | `cards-cols-1` 到 `8` | 强制使用特定数量的列（从 1 到 8）|
 
-例如你想要卡片布局每行只显示 3 排卡片：
+例如你想要卡片布局每行只显示 3 排卡片，另外添加申明 `cards-cols-1` ：
 
 ![[Pasted image 20230905221016.png]]
 
