@@ -1,16 +1,16 @@
 ---
 uid: 20230610161526
-title: 使用纯 CSS+HTML 实现分栏
+title: Obsidian 样式：使用纯 CSS+HTML 实现分栏
 tags: [Obsidian, CSS, 样式, 排版]
 description: 使用 CSS+HTML 实现分栏
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230619164804
+modified: 20230905153429
 ---
 
-# 使用纯 CSS+HTML 实现分栏
+# Obsidian 样式：使用纯 CSS+HTML 实现分栏
 
 ## 使用方式
 

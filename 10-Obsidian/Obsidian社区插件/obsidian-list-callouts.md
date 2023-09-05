@@ -22,6 +22,7 @@ List Callouts 插件则是实现了两者结合的作用，在大纲列表上，
 > - 插件名称：List Callouts
 > - 插件作者：mgmeyers
 > - 插件说明：在大纲列表上，通过设定的字符符号，生成对应的强化图标和强调高亮色
+> - 插件分类：[' 界面相关 ', ' 笔记文件处理 ', ' 美化 ', ' 效率 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/mgmeyers/obsidian-list-callouts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-list-callouts)
 
@@ -29,6 +30,7 @@ List Callouts 插件则是实现了两者结合的作用，在大纲列表上，
 
 ![image.png](https://cdn.pkmer.cn/images/20230509171807.png!pkmer)
 
+在列表项的开头键入自定义字符，可将对应列表项转换成特殊样式。你可以理解成一种更轻量化的高亮标记方法。
 ## 使用
 
 - 输入：在大纲列表项的开头键入一个字符（可配置）将对应列表项变成一个高亮样式。

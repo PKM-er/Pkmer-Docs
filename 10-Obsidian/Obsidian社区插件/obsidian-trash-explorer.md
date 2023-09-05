@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230715010149
+modified: 20230831175928
 ---
 
 # Obsidian 插件：Trash Explorer 可视化管理笔记回收站
@@ -25,7 +25,8 @@ Trash Explorer 就是为了可视化这个操作而诞生的，你可以直接�
 > - 插件版本：1.2.0
 > - 插件作者：Per Mortensen
 > - 插件描述：让你可以管理 Obsidian 的 .trash 文件夹（也叫软件回收站），从中恢复和删除文件
-> - 插件项目地址：
+> - 插件分类：[' 文件管理 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件项目地址：[点我访问](https://github.com/proog/obsidian-trash-explorer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-trash-explorer)
 
 ## 效果&特性
@@ -56,6 +57,10 @@ Trash Explorer 就是为了可视化这个操作而诞生的，你可以直接�
 	- 点击刷新 restore 图标，恢复内容一般恢复到仓库根目录，无法回到具体文件原有的位置
 - 删除
 	- 点击删除图标，支持直接删除的笔记或者附件
+
+### 限制
+
+该插件受到 Obsidian 放置垃圾项的限制，因为它无法访问它们的原始位置。特别是父级文件夹结构如何，Obsidian 始终将项目移动到 `.trash` 文件夹的根目录，因此在恢复时不会保留任何父文件夹。例如，将文件 `Recipes/Belgian waffles.md` 放入垃圾箱将把它移动到 `.trash/Belgian waffles.md`，并在恢复时将其移动到存储库的根目录下的 `Belgian waffles.md`。
 
 > [!Warning] 重要
 > - 在这个插件里面进行的删除操作，等同于操作系统的删除操作，并不会进入到系统回收站，所以删除请谨慎。

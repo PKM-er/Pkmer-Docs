@@ -1,16 +1,16 @@
 ---
 uid: 20230717003729
-title: Obsidain 美化：自定义文件夹图标
+title: Obsidain 样式：美化自定义文件夹图标
 tags: [Obsidian, css, 美化, 图标]
 description: Obsidain 文件图标美化 - 自定义文件夹图标
 author: Nathaniel
 type: basic
 draft: false
 editable: false
-modified: 20230719162120
+modified: 20230905153454
 ---
 
-# Obsidain 美化：自定义文件夹图标
+# Obsidain 样式：美化自定义文件夹图标
 
 ## 引言
 

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174647
+modified: 20230831175634
 ---
 
 # Obsidian 插件：Clear unused images 快速删除无用的图片
@@ -20,6 +20,7 @@ modified: 20230604174647
 > - 插件名称：clear unused images
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：清除笔记中不再使用的图像以节省空间。
+> - 插件分类：[' 自动化 ', ' 文件管理 ', ' 图片 ', ' 附件 ', ' 效率 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/ozntel/oz-clear-unused-images-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?oz-clear-unused-images)
 
@@ -30,13 +31,6 @@ modified: 20230604174647
 
 - 该插件从所有 Markdown 文档中获取所有的图像链接，并将这些图像与您的金库中可用的所有图像文件进行比较。
 - 如果检索的图像文件中的任何一个未在仓库的任何文档中引用，它们将被自动删除。
-
-## 安装
-
-1. 进入 Obsidian 社区插件
-2. 搜索 clear unused images
-3. 安装
-4. 开启插件
 
 ## 设置
 
@@ -63,6 +57,10 @@ modified: 20230604174647
 
 ## 使用方法
 
+### 支持的格式
+
+**扫描的图像格式**：jpg、jpeg、png、gif、svg、bmp
+
 ### 功能更按钮
 
 1. 开启插件后
@@ -81,6 +79,10 @@ modified: 20230604174647
 如果你在插件设置中打开了“删除日志”选项，你会看到一个弹出的模式，显示哪些图片从你的数据库中已经删除了。
 
 ![Pasted image 20230128180054](https://cdn.pkmer.cn/images/ffa739e449346b4157680143ef4a3a88_MD5.png!pkmer)
+
+- 如果所有图像都被使用了，你将会看到以下通知：
+
+![image.png](https://cdn.pkmer.cn/images/20230831175546.png!pkmer)
 
 > [!Tip] 相关推荐
 > - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容

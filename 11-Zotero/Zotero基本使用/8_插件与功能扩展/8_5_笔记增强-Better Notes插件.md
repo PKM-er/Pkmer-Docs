@@ -21,7 +21,7 @@ modified: 20230825145810
 下载地址：
 
 - GitHub Release：[https://github.com/windingwind/zotero-better-notes/releases](https://github.com/windingwind/zotero-better-notes)
-- 国内镜像：[https://zotero-chinese.gitee.io/zotero-plugins/](https://zotero-chinese.gitee.io/zotero-plugins/)
+- 国内镜像：[Zotero 插件集市 (pkmer.cn)](https://pkmer.cn/products/zotero/zoteroMarket/)
 
 ![bbfd399afa52ef129e0081d42c5397db_MD5](https://cdn.pkmer.cn/images/202308171546699.png!pkmer)
 

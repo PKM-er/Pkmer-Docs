@@ -325,6 +325,10 @@ Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些�
 
 - [[obsidian-textgenerator-plugin]]：使用 OpenAI 的模型进行文本生成
 
+### 第三方联动
+
+- [[Quicker动作之BookxNote和Obsidian联动]]
+
 ## Obsidian 外观定制
 
 定制外观有几种方式，其难度依次上升：
@@ -336,15 +340,28 @@ Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些�
 
 除了 [[Obsidian优秀外观分享]]，我们还搜集了一些 CSS 片段，大家可酌情使用：
 
-- [[Obsidian美化代码域对编程语言的样式展示]]：修改高亮语法的样式
+- [[Obsidian样式-美化代码域对编程语言的样式展示]]：修改高亮语法的样式
 - [[Obsidian样式-编辑模式下当前行高亮]]：当前行高亮
 - [[Obsidian网址前自动加图标]]：给链接添加图标
 - [[Obsidian样式-文件浏览器样式]]：给文件夹添加对应的图标
-- [[Obsidian-calendar插件的样式修改]]：修改 calendar 插件的样式
+- [[Obsidian样式-Calendar插件的样式修改]]：修改 calendar 插件的样式
 - [[Obsidian样式-Callout样式]]：修改 Callout 的样式
 - [[Obsidian样式-表格样式简明方法]]：修改表格的样式
 
+## 经验分享
 
-## 第三方联动
-
-- [[Quicker动作之BookxNote和Obsidian联动]]
+- [[obsidian-tasks的GTD实践]]：Obsidian Tasks 的 GTD 实践 by alswl
+- [[Obsidian_2023_seyee]]：用 Obsidian 两年多，现在我怎么同步和使用？ by seyee
+- [[一种实用新型 Obsidian 实践之构建我的第二大脑]] + [[我给我的 Obsidian 实践写了一个插件]]：林宜丙 对使用Obsidian的实践
+- [[我的个人任务管理系统分享]]：浅谈个人对任务管理的理解，涉及任务管理, 清单, 番茄工作法 by Thomas Teng
+- [[卡片笔记的“输入即输出”]]：笔记越来越庞大，管理起来越来越力不从心的心路历程 by asureading
+- Echo
+	- [[Echo的知识管理流程]]
+	- [[Echo的建立专业且博学的PK系统]]
+	- [[Echo的卡片盒笔记法工作流程及Obsidian实践]]
+- Ryooo
+	- [[卢曼卡片盒与知识组织]]
+	- [[个人笔记组织方法]]
+- Terry
+	- [[myZettelkasten 介绍]]
+	- [[从企业管理角度看待笔记方法]]

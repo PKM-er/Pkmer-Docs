@@ -1,28 +1,28 @@
 ---
 uid: 20230827002917
-title: iPhone 上 Obsidian 如何自定义字体
+title: Obsidian 样式：iPhone 上 Obsidian 如何自定义字体
 tags: [iPhone, iOS, 自定义字体]
 description: iPhone 上 Obsidian 如何自定义字体
 author: 奇货队长
 type: other
 draft: false
 editable: false
-modified: 20230828095624
+modified: 20230905153250
 ---
 
-# iPhone 上 Obsidian 如何自定义字体
+# Obsidian 样式：iPhone 上 Obsidian 如何自定义字体
 
-### 缘起
+## 缘起
 
 PKMer 群里有使用 iPhone 的小伙伴，提问过 Obsidian 中使用自定义字体的需求，但是却不知道怎样将下载的字体导入到 iPhone 中。
 
-### 前置条件
+## 前置条件
 
 在 Appstore 中下载 ==iFont== APP
 
 ![ifont.png|400](https://cdn.pkmer.cn/images/ifont.png!pkmer)
 
-### 导入方法
+## 导入方法
 
 1. 用 safari 访问字体网站下载你需要的字体
 
