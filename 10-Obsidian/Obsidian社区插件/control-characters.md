@@ -1,10 +1,13 @@
 ---
 uid: 20230816192922
 title: Obsidian 插件：Control Characters 像 Word 一样显示隐藏的标点符号
-tags: ['obsidian插件', '格式化排版', 'word']
+tags:
+  - obsidian插件
+  - 格式化排版
+  - word
 description: 在编辑模式下显示控制/不可打印字符
-author: AI
-type: readme
+author: 熊猫别熬夜
+type: basic
 draft: false
 editable: false
 modified: 20230831201044
@@ -25,7 +28,7 @@ modified: 20230831201044
 可以帮助 Obsidian 像 Word 一样显示这些符号显示隐藏的标点符号，包括换行符和空格等，不过该插件最近的一次更新时一年前了，对新版本的 Obsidian 支持不够完善，部分功能可能存在问题：
 
 > [!note]+ 官方介绍文档与实际的显示效果
-> ![[Pasted image 20230831200617.png]]
+> ![Pasted image 20230831200617](https://cdn.pkmer.cn/images/202309052127458.png!pkmer)
 
 可以调整插件的样式或添加其他字符的显示，可以参考下面提供的 CSS Snippets 进行修改。
 
@@ -48,7 +51,7 @@ body {
 }
 ```
 
-![[Pasted image 20230831200912.png]]
+![Pasted image 20230831200912](https://cdn.pkmer.cn/images/202309052127040.png!pkmer)
 
 ---
 
@@ -56,13 +59,13 @@ body {
 
 下面是 [[control-characters]] 插件的自述翻译
 
-# 控制字符
+### 控制字符
 
 在编辑模式下显示控制字符。
 
-![演示截图](https://i.joethei.space/Obsidian_136foBrkZM.png)
+![image.png](https://cdn.pkmer.cn/images/202309052129901.png!pkmer)
 
-## 仅在选择中显示字符
+### 仅在选择中显示字符
 
 默认情况下，插件会在笔记中显示所有字符。
 
@@ -70,7 +73,7 @@ body {
 
 您还可以在前言中使用 `cc-selection` 键覆盖此行为。
 
-## 覆盖笔记的设置
+### 覆盖笔记的设置
 
 您还可以通过使用 [Frontmatter](https://help.obsidian.md/Advanced+topics/YAML+front+matter) 更改单个笔记的设置。
 
@@ -88,7 +91,7 @@ Quo usque tandem abutere, Catilina, patientia nostra?
 Lorem ipsum dolor sit amet, consectetur adipisici elit.
 ```
 
-## 自定义
+### 自定义
 
 您可以使用 [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) 插件自定义大部分样式。
 
