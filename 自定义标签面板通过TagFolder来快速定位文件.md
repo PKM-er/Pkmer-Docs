@@ -148,7 +148,7 @@ cssclasses:
 
 ![[Pasted image 20230907122615.png]]
 
-改标签样式片段来自 [serenity 主题](https://github.com/Bluemoondragon07/Obsidian-Serenity)
+该标签样式片段来自 [serenity 主题](https://github.com/Bluemoondragon07/Obsidian-Serenity)
 
 ```css
 /* ================== tags ==================== */
