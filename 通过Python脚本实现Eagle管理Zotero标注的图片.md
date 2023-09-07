@@ -187,5 +187,3 @@ Eagle 提供了强大的标签和分类功能，让用户按需整理和归类�
 如果你想导入 Obsidian 进行管理的话，这里推荐 Obsidian 另一种附件管理神器 Billfish，把 Eagle 导出的素材包导入 Billfish 中时，图片回链保存。
 
 > 我一开始尝试用 Billfish 来批量添加回链的，不过图片的信息不好批量添加，因此转向了 Eagle，用 Eagle 的定期的发送素材包到 Billfish 里面也算是一种方法了。
-
-最后，如果你想直接获取 PDF 图片，而不是手动标注的话，下一篇会出一篇通过 Zotero 导出 BiB 条目，利用 Python 的 Fitz 库来批量获取文献中图片，通过会导入Eagle里面进行管理。
