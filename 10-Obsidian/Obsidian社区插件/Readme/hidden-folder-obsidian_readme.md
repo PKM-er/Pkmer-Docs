@@ -51,7 +51,7 @@ Obsidian 中的隐藏文件夹：
 
 > `^folder1`
 
-```txt
+```
 - folder1 <- 匹配
   - folder1
   - folder2
@@ -62,7 +62,7 @@ Obsidian 中的隐藏文件夹：
 
 > `abc`
 
-```txt
+```
 - folder1
   - folder1
     - subabcfolder1 <- 匹配
@@ -74,7 +74,7 @@ Obsidian 中的隐藏文件夹：
 
 > `\/folder$`
 
-```txt
+```
 - folder1
   - folder1
   - folder2
@@ -85,7 +85,7 @@ Obsidian 中的隐藏文件夹：
 
 > `\/?folder$`
 
-```txt
+```
 - folder1 <- 匹配
   - folder1
   - folder2
@@ -96,7 +96,7 @@ Obsidian 中的隐藏文件夹：
 
 > `folder1\/folder`
 
-```txt
+```
 - folder1
   - folder1 <- 匹配
   - folder2

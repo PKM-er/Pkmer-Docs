@@ -1,15 +1,16 @@
 ---
 uid: 20230414082448
-title: brian 的分类系统
+title: Brian 的分类系统
+tags: []
 description: 
 author: Brian
 type: basic
 draft: false
 editable: false
-modified: 20230414093606
+modified: 20230908172712
 ---
 
-# brian 的分类系统
+# Brian 的分类系统
 
 翻译自：[Cataloging, Classification, Information Science, PKMs and YOU! - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/cataloging-classification-information-science-pkms-and-you/10071)
 
@@ -151,7 +152,7 @@ Johnny Noble 的 [Johnny Decimal](https://johnnydecimal.com/)
 
 第一个分类法看起来是这样的：
 
-```txt
+```
 For a very small Library
 A — Works of reference and works of a general character covering several classes Includes such works as are usually kept in the Delivery Room or the Reading Room for the free use of the public, such as the best dictionaries of languages and other subjects ; encyclopaedias, both general and special, handbooks of dates, dictionaries of biography and peerages, gazetteers, manuals of statistics, books of quotations, concordances, etc.
 B — Philosophy and Religion Includes Moral philosophy.
@@ -163,13 +164,13 @@ Y — Literature Includes Literary history, Bibliography, and the arts that have
 Yf — Fiction To save time it is not unusual to omit the class-mark of the class Fiction, calling for and charging novels by the book-mark alone.
 ```
 
-从中获得灵感，当我与Nick Milo交谈时，我正在做一个非常个性化的版本。
+从中获得灵感，当我与 Nick Milo 交谈时，我正在做一个非常个性化的版本。
 
-如果你最近一直在关注Nick Milo的 LYT 工具包，你会注意到从杜威十进制分类法中跳出来的一大步。尼克听取了人们对杜威是一个种族主义和性别歧视的大人物的担忧，即使在他的时代也是如此。(资料来源一：[one](https://slate.com/human-interest/2019/09/melvil-dewey-american-library-association-award-name-change.html)，二：[two](https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/80557-ala-votes-to-strip-melvil-dewey-s-name-from-its-top-honor.html)，三：[three](https://www.smithsonianmag.com/smart-news/melvil-deweys-name-stripped-top-library-award-180972514/)）。
+如果你最近一直在关注 Nick Milo 的 LYT 工具包，你会注意到从杜威十进制分类法中跳出来的一大步。尼克听取了人们对杜威是一个种族主义和性别歧视的大人物的担忧，即使在他的时代也是如此。(资料来源一：[one](https://slate.com/human-interest/2019/09/melvil-dewey-american-library-association-award-name-change.html)，二：[two](https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/80557-ala-votes-to-strip-melvil-dewey-s-name-from-its-top-honor.html)，三：[three](https://www.smithsonianmag.com/smart-news/melvil-deweys-name-stripped-top-library-award-180972514/)）。
 
 在与尼克进行了一次愉快的交谈后，我们共同合作，将 UDC 和 Cutter 分类结合起来，形成了现在的 LYT：
 
-```txt
+```
 The Self
 000 Knowledge Management
 100 Personal Management
@@ -196,4 +197,4 @@ History of Others & Self
 
 ![Pasted image 20201216062013 1073×1303 95.6 KB](https://cdn.pkmer.cn/images/00c6bbf3b66c746f51b9188f12d96387_MD5.png!pkmer)
 
-[^1]:  i18n（国际化，_internationalization_，因为最开始的字母i和最后的字母n之间有18个字符，简写成i18n），让软件支持不同国家的语言实现国际化，通过建立词汇表，可以实现国际化是因为在不同的语言环境下，同一个词汇可能有不同的翻译，如果每次都需要重新编写代码来适应不同的语言环境，就会增加代码的维护难度和复杂度。而通过建立词汇表，将需要翻译的文本放在一个集中的地方，即使需要支持新的语言或者修改某些翻译内容，也只需要修改词汇表中的内容，而不需要修改代码。这样也可以让翻译工作更加专业化，提高翻译的质量和效率。因此，建立词汇表是实现国际化的重要手段之一，也是现代软件开发中常用的方法。
+[^1]: i18n（国际化，_internationalization_，因为最开始的字母 i 和最后的字母 n 之间有 18 个字符，简写成 i18n），让软件支持不同国家的语言实现国际化，通过建立词汇表，可以实现国际化是因为在不同的语言环境下，同一个词汇可能有不同的翻译，如果每次都需要重新编写代码来适应不同的语言环境，就会增加代码的维护难度和复杂度。而通过建立词汇表，将需要翻译的文本放在一个集中的地方，即使需要支持新的语言或者修改某些翻译内容，也只需要修改词汇表中的内容，而不需要修改代码。这样也可以让翻译工作更加专业化，提高翻译的质量和效率。因此，建立词汇表是实现国际化的重要手段之一，也是现代软件开发中常用的方法。
