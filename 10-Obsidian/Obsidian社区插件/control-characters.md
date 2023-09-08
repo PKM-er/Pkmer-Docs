@@ -28,7 +28,7 @@ modified: 20230831201044
 可以帮助 Obsidian 像 Word 一样显示这些符号显示隐藏的标点符号，包括换行符和空格等，不过该插件最近的一次更新时一年前了，对新版本的 Obsidian 支持不够完善，部分功能可能存在问题：
 
 > [!note]+ 官方介绍文档与实际的显示效果
-> ![Pasted image 20230831200617](https://cdn.pkmer.cn/images/202309052127458.png!pkmer)
+> ![Obsidian 插件：Control Characters](https://cdn.pkmer.cn/images/202309052127458.png!pkmer)
 
 可以调整插件的样式或添加其他字符的显示，可以参考下面提供的 CSS Snippets 进行修改。
 
@@ -51,7 +51,7 @@ body {
 }
 ```
 
-![Pasted image 20230831200912](https://cdn.pkmer.cn/images/202309052127040.png!pkmer)
+![Obsidian 插件：Control Characters](https://cdn.pkmer.cn/images/202309052127040.png!pkmer)
 
 ---
 
@@ -63,7 +63,7 @@ body {
 
 在编辑模式下显示控制字符。
 
-![image.png](https://cdn.pkmer.cn/images/202309052129901.png!pkmer)
+![Obsidian 插件：Control Characters](https://cdn.pkmer.cn/images/202309052129901.png!pkmer)
 
 ### 仅在选择中显示字符
 

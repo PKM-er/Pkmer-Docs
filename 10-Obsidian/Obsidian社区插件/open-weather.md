@@ -1,45 +1,32 @@
 ---
-uid: 2023080322241337
-title: Obsidian 插件：【Readme】OpenWeather
-tags: ['obsidian插件', 'readme']
+uid: 20230822233837
+title: Obsidian 插件：OpenWeather
+tags: [obsidian插件]
 description: 该插件以可配置的字符串格式返回OpenWeather的当前天气。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230908160152
 ---
 
 # Obsidian 插件：OpenWeather
-
-> [!Note] 插件名片
-> - 插件名称：OpenWeather
-> - 插件作者：willasm
-> - 插件说明：该插件以可配置的字符串格式返回 OpenWeather 的当前天气。
-> - 插件分类：['obsidian 插件 ', 'readme']
-> - 项目地址：[点我访问](https://github.com/willasm/obsidian-open-weather)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-weather)
 
 ## 概述
 
 该插件以可配置的字符串格式返回 OpenWeather 的当前天气。
 
-![OpenWeather](https://cdn.pkmer.cn/covers/open-weather.png!pkmer)
-
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/willasm/obsidian-open-weather/master/README.md)
->
-
----
-
-## Readme(翻译）
-
-下面是 [[open-weather]] 插件的自述翻译
-
-# Obsidian 的 OpenWeather 插件
+> [!Note] 插件名片
+> - 插件名称：OpenWeather
+> - 插件作者：willasm
+> - 插件说明：该插件以可配置的字符串格式返回 OpenWeather 的当前天气。
+> - 插件分类：['obsidian 插件 ']
+> - 项目地址：[点我访问](https://github.com/willasm/obsidian-open-weather)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-weather)
 
 ## 特点
+
+![OpenWeather](https://cdn.pkmer.cn/covers/open-weather.png!pkmer)
 
 - 在状态栏中显示当前天气
 - 将当前天气插入到您的文档中
@@ -48,41 +35,49 @@ modified: 20230101000000
 - [模板支持](#template-support)，可自动将天气插入到您的新文档中
 - [DIV支持](#div-support)，实现动态天气显示
 
+## 使用
+
 默认天气字符串与示例截图
 
-#### **状态栏字符串**
+### **状态栏字符串**
 
 `' | %desc% | 当前温度：%temp%°C | 体感温度：%feels%°C | '`
 
-![状态栏](/images/Statusbar-1.png)
+![image.png](https://cdn.pkmer.cn/images/20230908155815.png!pkmer)
+
+### 天气格式字符串示例 1
 
 `'%desc% • 当前温度：%temp%°C • 体感温度：%feels%°C\n'`
 
-![Format One](/images/Format1-1.png)
+![image.png](https://cdn.pkmer.cn/images/20230908155757.png!pkmer)
+
+### 天气格式字符串示例 2
 
 '%name%: %dateMonth4% %dateDay2% - %timeH2%:%timeM% %ampm1%\n 当前温度: %temp%°C • 体感温度: %feels%°C\n 风速: %wind-speed% km/h，来自 %wind-dir%^，阵风可达 %wind-gust% km/h^\n 日出时间: %sunrise% • 日落时间: %sunset%\n'
 
-#### **天气格式字符串三**
+![image.png](https://cdn.pkmer.cn/images/20230908155805.png!pkmer)
+
+#### **天气格式字符串示例 3**
 
 `'%icon%&nbsp;%dateMonth4% %dateDay2% %dateYear1% • %timeH2%:%timeM% %ampm1% • %desc%<br>&nbsp;记录温度：%temp% • 体感温度：%feels%<br>&nbsp;风速：%wind-speed% 公里/小时，来自%wind-dir%^，阵风高达%wind-gust% 公里/小时^<br>&nbsp;日出时间：%sunrise% • 日落时间：%sunset%'`
 
-![格式三](/images/Format3-1.png)
+![image.png](https://cdn.pkmer.cn/images/20230908155949.png!pkmer)
 
-#### **天气格式字符串四**
+#### **天气格式字符串示例 4**
 
 `'%icon%&nbsp;%dateMonth4% %dateDay2% %dateYear1% • %timeH2%:%timeM% %ampm1% • %desc%<br>&nbsp;当前温度：%temp% • 体感温度：%feels%<br>&nbsp;风速：%wind-speed% 公里/小时，来自 %wind-dir%^，阵风可达 %wind-gust% 公里/小时^<br>&nbsp;日出时间：%sunrise% • 日落时间：%sunset%'`
 
-![格式四](/images/Format4-1.png)
+![image.png](https://cdn.pkmer.cn/images/20230908160027.png!pkmer)
 
 #### **在 DIV 中使用格式字符串三和四，并使用 CSS 进行样式化**
 
 格式字符串三...
 
-![格式三](/images/Format3-2.png)
+![image.png](https://cdn.pkmer.cn/images/20230908160044.png!pkmer)
 
 格式字符串四...
 
-![格式四](/images/Format4-2.png)
+![image.png](https://cdn.pkmer.cn/images/20230908160050.png!pkmer)
 
 注意：在设置中编辑时不需要 `\n`。只需输入 `return` 以添加新行，保存的设置文件中将添加 `\n`。字符串格式 3 和 4 中的 `<br>` 在 HTML 中使用时是必需的。
 
@@ -90,45 +85,45 @@ modified: 20230101000000
 
 ## 设置
 
-#### **输入位置**
+### **输入位置**
 
 输入您所在城市的名称（必填）
 
-#### **OpenWeather API 密钥**
+### **OpenWeather API 密钥**
 
 在此处输入您的 OpenWeather API 密钥（必填）
 
 插件需要一个免费的 OpenWeather API 密钥才能正常工作。
 
-请访问<https://openweathermap.org 进行注册并获取密钥。>
+请访问<https://openweathermap.org> 进行注册并获取密钥。>
 
 注册页面的直接链接为<https://home.openweathermap.org/users/sign_up。>
 
 注意：您需要验证您的电子邮件地址，然后您的 API 密钥将通过电子邮件发送给您。密钥本身可能需要几个小时才能激活。所有这些信息都将包含在他们发送给您的电子邮件中。
 
-#### **度量单位**
+### **度量单位**
 
 可以在这里选择标准、公制和英制单位。（注意：标准单位是开尔文，在大多数情况下并不实用）
 
-#### **排除文件夹**
+### **排除文件夹**
 
 要从自动 [模板](#template-support) 字符串替换中排除的文件夹。这应该设置为您的保险库模板文件夹。
 
-#### **天气字符串格式化**
+### **天气字符串格式化**
 
 在这里定义你的天气字符串（最多可用 4 个字符串）
 
 提示：这些字符串可以包含任何你想要的内容，不仅仅是天气信息。
 
-#### **在状态栏中显示天气** 注意：此功能不会在移动应用程序上显示
+### **在状态栏中显示天气** 注意：此功能不会在移动应用程序上显示
 
 切换在状态栏中显示当前天气的开关
 
-#### **天气字符串格式状态栏** 注意：此内容不会在移动应用上显示
+### **天气字符串格式状态栏** 注意：此内容不会在移动应用上显示
 
 在这里定义您的状态栏天气字符串
 
-#### **更新频率**
+### **更新频率**
 
 在状态栏和 [DIV](#div-support) 中显示的天气更新的时间间隔（1、5、10、15、20、30 或 60 分钟）
 
@@ -175,7 +170,9 @@ modified: 20230101000000
   - 小时 2 `%timeH2%` - 1（12 小时制）
   - 分钟 `%timeM%` - 05
   - 秒钟 `%timeS%` - 05
-- ### 天气占位符注释
+
+### 天气占位符注释
+
   - `%Icon%` - 这将被图像标签 `<img src={Icon Url} />` 替换。如果它嵌入在 [div](#div-support) 代码块中，将更加有用。
   - `%wind-gust%` 只有当条件存在时，API 才会返回这个数据。如果你希望在字符串中将这个数据设为可选项，可以用尖括号括起来。
   - 例如：`风速 %wind-speed% km/h^，阵风可达 %wind-gust% km/h^`

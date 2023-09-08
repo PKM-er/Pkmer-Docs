@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230905142834
+modified: 20230908161315
 ---
 
 # Obsidian 社区插件
@@ -79,6 +79,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[weather-fetcher]]：来获取和插入当前的天气到笔记编辑器的插件
 - [[obsidian-chat-view-qq]]：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
 - [[cm-show-whitespace-obsidian]]：在编辑器中显示空白和制表符
+- [[fantasy-name]]：插入一个随机组合出来的人名
 
 ### 文字样式
 
@@ -135,6 +136,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[automatic-list-styles]]：不借用主题和 css 片段前提下。来实现有序列表，增加不同的层级的前缀符号样式
 - [[list-style]]：在文本行内通过标准的 list style typs，来实现有序列表的多种不同的层级、样式的前缀符号样式
 - [[obsidian-tracker]]：将笔记中的变化收集起来，并且提供不同预设的图形分析模板
+- [[order-list]]：添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
 
 ### 任务类&提醒
 
@@ -366,6 +368,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
  - [[hidden-folder-obsidian]]：快速隐藏文件夹
  - [[obsidian-trash-explorer]]：让你可以管理 Obsidian 的 .trash 文件夹（也叫软件回收站），从中恢复和删除文件
+ - [[edit-history]]：保留您的笔记的自动编辑历史记录，可以查看历史记录，与之对比或恢复以前的编辑。
 
 ### 附件管理工具/图片管理
 
@@ -414,6 +417,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
 - [[customizable-menu]]：右键菜单增强，可以自定义右键菜单绑定的命令，鼠标党福音
 - [[bartender]]：Bartender 提供了拖拽排序文件夹功能，允许重新排列状态栏和侧边栏中的元素
+- [[css-editor]]：在 Obsidian 中像笔记一样编辑 CSS 代码片段文件
 
 ### 插入预览
 
@@ -427,12 +431,13 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 ### 第三方集成和联动
 
-- [[Zotero和Obsidian联动]]
+- [[zotlit]]：最完美的 Zotero 和 Obsidian 联动插件
 - [[obsidian-zotero-desktop-connector]]
 - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
 - [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
 - [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据
+- [[open-weather]]：该插件以可配置的字符串格式返回 OpenWeather 的当前天气。
 
 ### AI 相关
 

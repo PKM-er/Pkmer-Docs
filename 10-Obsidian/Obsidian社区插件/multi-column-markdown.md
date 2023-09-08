@@ -1,16 +1,20 @@
 ---
 uid: 20230329145820
-title: Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
-tags: [Obsidian, 插件, 多列编辑, 分栏]
-description: Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
+title: Obsidian 插件：Multi-Column Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
+tags:
+  - Obsidian
+  - 插件
+  - 多列编辑
+  - 分栏
+description: Obsidian 插件：Multi-Column Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230517230330
+modified: 20230907114900
 ---
 
-# Obsidian 插件：Multi-Columan Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
+# Obsidian 插件：Multi-Column Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
 
 ## 概述
 
@@ -25,7 +29,7 @@ modified: 20230517230330
 
 ## 效果&特性
 
-![Pasted image 20230221174425](https://cdn.pkmer.cn/images/28aa9456049bdb0e79b47755d15af857_MD5.png!pkmer)
+![Obsidian 插件：Multi-Column Markdown Obsidian 也能分栏](https://cdn.pkmer.cn/images/28aa9456049bdb0e79b47755d15af857_MD5.png!pkmer)
 
 - 通过命令面板可以快速生成语法模板
 - 语法模板里面进行配置，生成对应的填写空间
@@ -42,7 +46,7 @@ modified: 20230517230330
 
 通过 命令面板，或者自定义快捷键方式，快速输入多栏语法
 
-![Pasted image 20230221213034](https://cdn.pkmer.cn/images/5ed3d6714f9742d671fb2b437d251765_MD5.png!pkmer)
+![Obsidian 插件：Multi-Column Markdown Obsidian 也能分栏](https://cdn.pkmer.cn/images/5ed3d6714f9742d671fb2b437d251765_MD5.png!pkmer)
 
 - 选择后会自动插入对应的模板
 - 代码域内 `star-multi-column` ,表示的是 ID，用于引用
@@ -75,7 +79,7 @@ modified: 20230517230330
     - Center
     - Middle
 - 代码域内 Alignment 参数：控制栏内文本对齐方式 - Left (Default) - Center - Right
-    ![Pasted image 20230221214142](https://cdn.pkmer.cn/images/0fd834d8560094b69271079e4c5daba6_MD5.png!pkmer)
+    ![Obsidian 插件：Multi-Column Markdown Obsidian 也能分栏](https://cdn.pkmer.cn/images/0fd834d8560094b69271079e4c5daba6_MD5.png!pkmer)
 
 - 每一栏的内容：就按照平时输入笔记的方法输入内容就是了
 - 每一栏后面都要跟一条结束语句<kbd>=== end-column ===</kbd>

@@ -1,52 +1,41 @@
 ---
-uid: 2023080322241516
-title: Obsidian 插件：【Readme】Order List
+uid: 20230822233837
+title: Obsidian 插件：Order List 超级方便的大纲排序小工具
 tags: ['obsidian插件', 'readme']
 description: 添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230908161242
 ---
 
-# Obsidian 插件：Order List
+# Obsidian 插件：Order List 超级方便的大纲排序小工具
+
+## 概述
+
+添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序
 
 > [!Note] 插件名片
 > - 插件名称：Order List
 > - 插件作者：Henry Gustafson
 > - 插件说明：添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/lizard-heart/obsidian-order-list-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?order-list)
 
-## 概述
+## 效果&特性
 
-添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
+这个插件为 [Obsidian](https://obsidian.md/) 添加了一个 "Order selected list" 命令。这将按照段落末尾的数字对选定的列表进行排序。
 
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lizard-heart/obsidian-order-list-plugin/main/README.md)
->
+## 使用
 
----
-
-## Readme(翻译）
-
-下面是 [[order-list]] 插件的自述翻译
-
-# 订单列表
-
-这个插件为 [Obsidian](https://obsidian.md/) 添加了一个 "Order selected list" 命令。这将按照末尾的数字对选定的列表进行排序。
-
-如何配置
-
-为“Order selected list”命令分配一个热键。
-
-## 如何使用
-
-- 在编辑器中选择任何带有或不带有项目符号的列表。
-- 从命令面板中运行命令“Order selected list”（或您分配的热键）。
+- 在编辑器中圈选任何带有或不带有项目符号的列表。
+- 从命令面板中运行命令“Order selected list”（你也可以设置快捷建）。
+- 移动规则
+	- 项目会按照数字大小，自小至大排序
+	- 没有序号数字的不排序
+	- 包含子项目的会跟着父级项目一起移动
 
 ### 示例
 
