@@ -101,7 +101,7 @@ modified: 20230907161904
 
 ### 快速一览
 
-```txt
+```
 | Item              | Grams |
 | ----------------- | ----- |
 | Whole Wheat Flour | 110   |
@@ -120,14 +120,14 @@ modified: 20230907161904
 
 接下来是书写公式：
 
-```txt
+```
 <!-- TBLFM: DESTINATION=SOURCE -->
 ```
 
 - DESTINATION：需要计算的列
 - SOURCE：计算规则
 
-```txt
+```
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 ```
 

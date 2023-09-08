@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: true
-modified: 20230715010404
+modified: 20230908172026
 ---
 
 # Obsidian 概述
@@ -120,7 +120,7 @@ Obsidian 的使用需要清楚 [^1] 三个目录：
 
 其中着重注意库目录，这个文件夹包含了你整个个人数据，备份这个文件夹，你将可以在任何能安装 Obsidian 的地方还原包括笔记，插件，主题，快捷键，布局等在内的所有配置。它长这样
 
-```txt
+```
 Pkmer-Docs
 ├── .obsidian   //obsidian的配置文件夹
 ├── 00-关于
@@ -141,7 +141,7 @@ Pkmer-Docs
 
 除了默认的 `.obsidian` 外，其余的都是你的笔记。这个文件夹各部分如下：
 
-```txt
+```
 .obsidian
 ├── app.json  //整个软件的配置
 ├── appearance.json  //外观配置

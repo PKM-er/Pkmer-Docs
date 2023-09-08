@@ -1,5 +1,5 @@
 ---
-uid: 20230822233838
+uid: 20230822233840
 title: Obsidian 插件：Table Extended
 tags:
   - 编辑工具
@@ -267,7 +267,6 @@ And more      | With an escaped '\|'       ||
 </tr>
 </tbody>
 </table>
-
 
 ### 多行标题
 
