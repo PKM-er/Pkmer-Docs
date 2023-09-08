@@ -7,7 +7,7 @@ author: PKMer
 type: basic
 draft: false
 editable: false
-modified: 20230812223109
+modified: 20230907161750
 ---
 
 # Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
@@ -16,11 +16,11 @@ modified: 20230812223109
 
 长久一样来 Obsidian 做为一款优秀的免费笔记软件，惠及我们很多人，繁荣的社区插件，满足了我们各种各样的需求，开源插件带给了我们更多创造力，和工作流启发。
 
-![image.png](https://cdn.pkmer.cn/images/202308021933370.png!pkmer)
+![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件](https://cdn.pkmer.cn/images/202308021933370.png!pkmer)
 
 但是因为网络原因，都会遇到上图显示的麻烦，提示 " 无法加载社区插件 "," 无法加载社区主题 " 的老生常谈的问题，为了彻底解决这个问题，Obsidian PKMer 首次使用国内 cdn 加速，提供了插件市场和主题市场，不需要魔法，完美解决 Obsidian 无法加载第三方插件。
 
-![image.png|cover](https://cdn.pkmer.cn/images/202307270026698.png!pkmer)
+![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件|cover](https://cdn.pkmer.cn/images/202307270026698.png!pkmer)
 
 > [!Note] 插件名片
 > - 插件名称：PKMer
@@ -68,7 +68,7 @@ PKMer 从 Obsidian 官方发布的插件信息列表中，找到最近更新的�
 
 <iframe src="https://player.bilibili.com/player.html?aid=915396535&bvid=BV1Mu4y1v7FG&cid=1252667599&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
-<iframe src="https://player.bilibili.com/player.html?aid=956765724&bvid=BV1qp4y1V7SL&cid=1222533808&page=1&autoplay=false" autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="80%" height="500">  </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=956765724&bvid=BV1qp4y1V7SL&cid=1222533808&page=1&autoplay=false" autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ## 价格
 
