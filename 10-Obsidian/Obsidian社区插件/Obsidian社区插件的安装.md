@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230703155408
+modified: 20230910003609
 ---
 
 # Obsidian 社区插件的安装
@@ -19,7 +19,7 @@ modified: 20230703155408
 ![](https://cdn.pkmer.cn/images/4141b98fb96d57bafd005f7ad7bbb943_MD5.png!pkmer)
 
 > [!推荐]
-> 使用 我们的 Obsidian Pkmer ，一劳永逸的解决该问题
+> 使用 我们的 Obsidian PKMer ，一劳永逸的解决该问题
 
 ## 手动安装
 

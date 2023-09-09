@@ -7,7 +7,7 @@ author: Bon
 type: awesome
 draft: false
 editable: false
-modified: 20230606194101
+modified: 20230910003329
 ---
 
 # Obsidian 社区周报
@@ -16,7 +16,7 @@ modified: 20230606194101
 
 每周 Obsidian 新闻，专注于社区更新、新插件、工作流程指南、主题、辅助工具和代码。由社区 eleanorkonik 无偿收集相关 Obsidian 资源并发布在其 [个人网站](https://www.eleanorkonik.com/) 上，除了每周更新的 Obsidian 社区周报外，还有包括她个人的历史相关研究和 RoamResearch 相关内容，欢迎访问并予以支持。
 
-Pkmer 成员已获得汉化和发布授权。
+PKMer 成员已获得汉化和发布授权。
 
 ## 周报
 

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230908161315
+modified: 20230910003844
 ---
 
 # Obsidian 社区插件
@@ -273,7 +273,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
 - [[easy-toggle-sidebars_readme]]：便捷的控制侧边栏
 
-### Frontmatter
+### Property&Front-matter
 
 在 Obsidian 中，我们可以使用 frontmatter 这个元数据区域来添加笔记的一些额外信息，例如别名、标签等等。这些信息可以帮助我们更好地组织笔记和查找笔记。而且 Obsidian 还有一些插件可以帮助我们更好地管理 frontmatter，这里介绍几种常用的插件：
 
@@ -361,7 +361,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
  - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
  - [[recent-files-obsidian]]：显示最近打开的文件列表
- - [[obsidian-gallery]]：让你的笔记变成画廊
  - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
  - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
  - [[hidden-folder-obsidian]]：在文件管理器中快速隐藏文件夹
@@ -373,6 +372,8 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 ### 附件管理工具/图片管理
 
 - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容
+- [[obsidian-gallery]]：让你的笔记变成画廊
+- [[obsidian-image-layouts]]：在您的笔记中添加美丽的图像布局
 - [[find-unlinked-files]]：遍历整个仓库，搜索没有反向链接的文件。它将创建一个文件，其中包含指向这些未链接文件的链接列表
 - [[settings-search]]：提供搜索 Obsidian 设置和插件设置选项的能力
 - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件

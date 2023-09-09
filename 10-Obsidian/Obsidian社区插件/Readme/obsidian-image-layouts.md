@@ -1,45 +1,37 @@
 ---
-uid: 2023080322201611
-title: Obsidian 插件：【Readme】Image Layouts
-tags: ['obsidian插件', 'readme']
+uid: 20230822233854
+title: Obsidian 插件：Image Layouts 简易图像横排工具
+tags:
+  - obsidian插件
 description: 在您的笔记中添加美丽的图像布局
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230908234030
 ---
 
-# Obsidian 插件：Image Layouts
+# Obsidian 插件：Image Layouts 简易图像横排工具
+
+## 概述
+
+在笔记中添加美丽的图像布局，包括横排，瀑布流模式等。
 
 > [!Note] 插件名片
 > - 插件名称：Image Layouts
 > - 插件作者：Luke Chadwick
 > - 插件说明：在您的笔记中添加美丽的图像布局
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/vertis/obsidian-image-layouts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-image-layouts)
 
-## 概述
+## 效果&特性
 
-在您的笔记中添加美丽的图像布局
+![cover](https://cdn.pkmer.cn/images/20230908233245.png!pkmer)
 
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vertis/obsidian-image-layouts/main/README.md)
->
+作者希望能够以一种“美丽”的方式在 Obsidian 笔记中布置图片。这是作者的第一次尝试。它还有些不完善，因为它还很新，但我希望它在展示图片密集的笔记时有用。我希望能够通过视觉方式讲述故事，这是一个很好的第一步。
 
----
-
-## Readme(翻译）
-
-下面是 [[obsidian-image-layouts]] 插件的自述翻译
-
-# Obsidian 图片布局
-
-我希望能够以一种“美丽”的方式在 Obsidian 笔记中布置图片。这是我第一次尝试。它还有些不完善，因为它还很新，但我希望它在展示图片密集的笔记时有用。我希望能够通过视觉方式讲述故事，这是一个很好的第一步。
-
-## 用法
+## 使用
 
 为了获取图像布局，请使用\`\`\` 后跟您想要的布局，例如\`\`\`image-layout-a
 
@@ -68,7 +60,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](docs/layout-a.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233343.png!pkmer)
 
 ### image-layout-b
 
@@ -77,7 +69,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1592634244339-809d45f1dd25?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHNhaWxpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](docs/layout-b.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233402.png!pkmer)
 
 ### 图片布局 -C
 
@@ -86,7 +78,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1667778679906-ca90d133c0c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
     ```
 
-![](docs/layout-c.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233529.png!pkmer)
 
 ### image-layout-d
 
@@ -96,7 +88,7 @@ modified: 20230101000000
 ![](https://images.unsplash.com/photo-1520939817895-060bdaf4fe1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3846&q=80)
 ```
 
-![](docs/layout-d.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233518.png!pkmer)
 
 ### image-layout-e
 
@@ -106,7 +98,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1592477725143-2e57dc728f0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3206&q=80)
     ```
 
-![](docs/layout-e.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233551.png!pkmer)
 
 ### image-layout-f
 
@@ -117,7 +109,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1610298324710-5a73230400c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGFsbSUyMHRyZWV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](docs/layout-f.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233608.png!pkmer)
 
 ### image-layout-g
 
@@ -128,7 +120,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3174&q=80)
     ```
 
-![](docs/layout-g.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233634.png!pkmer)
 
 ### image-layout-h
 
@@ -138,7 +130,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1498757581981-8ddb3c0b9b07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1588&q=80)
     ```
 
-![](docs/layout-h.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233647.png!pkmer)
 
 ### 图片布局 -i
 
@@ -149,9 +141,9 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1522043436628-a4bd7867030b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdpbnRlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](docs/layout-i.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233720.png!pkmer)
 
-砖砌布局的初步支持
+### 砖砌布局的初步支持
 
 ### 砌体 2
 
@@ -167,7 +159,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](docs/masonry-2.png)
+![image.png|355](https://cdn.pkmer.cn/images/20230908233848.png!pkmer)
 
 ### 砌体 3
 
@@ -183,7 +175,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](docs/masonry-3.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233922.png!pkmer)
 
 ### Masonry 4
 
@@ -199,7 +191,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](docs/masonry-4.png)
+![image.png](https://cdn.pkmer.cn/images/20230908233938.png!pkmer)
 
 ### Masonry 5
 
@@ -215,7 +207,7 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](docs/masonry-5.png)
+![image.png](https://cdn.pkmer.cn/images/20230908234025.png!pkmer)
 
 ### 砌体 6
 
@@ -239,4 +231,4 @@ modified: 20230101000000
     ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](docs/masonry-6.png)
+![image.png](https://cdn.pkmer.cn/images/20230908234007.png!pkmer)

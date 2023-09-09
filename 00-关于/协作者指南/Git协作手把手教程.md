@@ -1,13 +1,13 @@
 ---
 uid: 20230404000634
 title: Git 协作手把手教程
-tags: 
+tags: []
 description: 一份Step by step Git协作指南
 author: Jason-XJ
 type: tutorial
 draft: false
 editable: true
-modified: 20230812231458
+modified: 20230910003322
 ---
 
 # Git 协作手把手教程
@@ -138,7 +138,7 @@ modified: 20230812231458
 
 ### Step 5: `PR` 至 PKMer 项目文档
 
-`PR`：Pull Request 的简称，即申请合并到 Pkmer Github 主项目，登录到个人 Github 项目的网站，会有一个 `Pull Request` 的绿色提示，点击后按照指示操作即可
+`PR`：Pull Request 的简称，即申请合并到 PKMer Github 主项目，登录到个人 Github 项目的网站，会有一个 `Pull Request` 的绿色提示，点击后按照指示操作即可
 
 ![Pasted image 20230405221733](https://cdn.pkmer.cn/images/0eb9e66de25a2c8f1a76376b23dec80e_MD5.png!pkmer)
 
