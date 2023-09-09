@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230531195834
+modified: 20230910003311
 ---
 
 # Obsidian 插件：Buttons 美化必备的按钮插件
@@ -83,7 +83,7 @@ graph TD
 
 ````xml
 ```button
-name Pkmer
+name PKMer
 type command
 action 在新面板中打开光标处链接
 ```
@@ -94,7 +94,7 @@ action 在新面板中打开光标处链接
 
 ````xml
 ```button
-name pkmer website
+name PKMer website
 type link
 action https://pkmer.cn
 ```
