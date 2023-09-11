@@ -4,10 +4,10 @@ title: Obsidian 插件：Better Word Count
 tags: [Obsidian, 插件, 统计]
 description: Obsidian 插件：Better Word Count
 author: Bon
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230824234305
+modified: 20230911010359
 ---
 
 # Obsidian 插件：Better Word Count

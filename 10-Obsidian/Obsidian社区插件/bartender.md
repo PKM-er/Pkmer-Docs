@@ -4,10 +4,10 @@ title: Obsidian 插件：利用 Bartender 进行拖拽排序侧边栏和状态�
 tags: [Obsidian, 文件排序]
 description: Bartender 提供了拖拽排序文件夹功能，允许重新排列状态栏和侧边栏中的元素。
 author: Huajin
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230902003926
+modified: 20230911010332
 ---
 
 # Obsidian 插件：利用 Bartender 进行拖拽排序侧边栏和状态栏

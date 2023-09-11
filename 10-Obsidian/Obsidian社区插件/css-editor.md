@@ -1,14 +1,13 @@
 ---
-uid: 20230901102531
+uid: 20230901102529
 title: Obsidian 插件：CSS Editor 这也许是 Obsidian DIY 达人的利器
-tags:
-  - obsidian插件
+tags: [obsidian插件]
 description: 在Obsidian中编辑CSS代码片段文件。
-author: AI
-type: readme
+author: OS
+type: basic
 draft: false
 editable: false
-modified: 20230908172726
+modified: 20230911105237
 ---
 
 # Obsidian 插件：CSS Editor 这也许是 Obsidian DIY 达人的利器

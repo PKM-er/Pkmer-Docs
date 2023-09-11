@@ -1,47 +1,38 @@
 ---
-uid: 2023080322184598
-title: Obsidian 插件：【Readme】Footnote Shortcut
-tags: ['编辑工具', '快捷键', '效率', 'obsidian插件', 'readme']
+uid: 20230822233906
+title: Obsidian 插件：Footnote Shortcut
+tags:
+  - 编辑工具
+  - 快捷键
+  - 效率
+  - obsidian插件
 description: 方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
-author: AI
-type: readme
+author: OS
+type: basic
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230911004618
 ---
 
 # Obsidian 插件：Footnote Shortcut
-
-> [!Note] 插件名片
-> - 插件名称：Footnote Shortcut
-> - 插件作者：Alexis Rondeau, Micha Brugger
-> - 插件说明：方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 效率 ', 'obsidian 插件 ', 'readme']
-> - 项目地址：[点我访问](https://github.com/MichaBrugger/obsidian-footnotes)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-footnotes)
 
 ## 概述
 
 方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
 
+> [!Note] 插件名片
+> - 插件名称：Footnote Shortcut
+> - 插件作者：Alexis Rondeau, Micha Brugger
+> - 插件说明：方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
+> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 效率 ', 'obsidian 插件 ']
+> - 项目地址：[点我访问](https://github.com/MichaBrugger/obsidian-footnotes)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-footnotes)
+
+## 效果&特性
+
 ![Footnote Shortcut](https://cdn.pkmer.cn/covers/obsidian-footnotes.png!pkmer)
 
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MichaBrugger/obsidian-footnotes/master/README.md)
->
-
----
-
-## Readme(翻译）
-
-下面是 [[obsidian-footnotes]] 插件的自述翻译
-
-# Obsidian 脚注插件
-
-![Obsidian下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%27obsidian-footnotes%27%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json) [![活跃开发](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d) ![发布版本](https://img.shields.io/github/v/release/MichaBrugger/obsidian-footnotes)
-
-此快捷键可让您：
+此插件：
 
 - 在文本中插入一个新的编号脚注标记（例如 `[^1]`），并自动递增索引
 - 在文本中插入一个新的命名脚注标记（例如 `[^Citation]`）
@@ -50,9 +41,9 @@ modified: 20230101000000
 - 从脚注跳转到脚注详细信息
 - 从脚注详细信息返回到脚注
 
-![概览](https://user-images.githubusercontent.com/68677082/228686351-fe71a0ec-be56-4d70-93c1-01925dd6380f.gif)
+![Obsidian 插件：Footnote Shortcut](https://user-images.githubusercontent.com/68677082/228686351-fe71a0ec-be56-4d70-93c1-01925dd6380f.gif)
 
-## 重要提示：您必须设置脚注热键
+## 使用
 
 安装并激活此插件后，您仍然需要设置您的热键。这很简单和快速：
 
@@ -63,13 +54,11 @@ modified: 20230101000000
 - <kbd>Alt</kbd>+<kbd>0</kbd> 作为我的自动编号脚注热键
 - <kbd>Alt</kbd>+<kbd>-</kbd> 作为我的命名脚注热键
 
-![热键](https://user-images.githubusercontent.com/68677082/228659877-8ea81271-37c4-4fdf-99de-1d4b6ca1c85f.png)
-
-## 默认功能详细信息
+![Obsidian 插件：Footnote Shortcut](https://cdn.pkmer.cn/images/20230911004323.png!pkmer)
 
 ### 编号脚注
 
-场景：不存在之前的编号脚注（例如“[^1]”）：
+#### 场景：不存在之前的编号脚注（例如“[^1]”）
 
 - 假设我的光标在我想要存在编号脚注的位置（例如 `Foo bar baz▊`）
 - 当我按下“自动编号脚注热键”
@@ -77,7 +66,7 @@ modified: 20230101000000
 - 并且一个新的脚注详细信息标记（例如 `[^1]: `）会插入到文档的最后一行
 - 并且我的光标现在被放置在详细信息标记的末尾（例如 `[^1]: ▊`）
 
-场景：存在之前的编号脚注（例如“[^1]”）：
+#### 场景：存在之前的编号脚注（例如“[^1]”）
 
 - 假设我的文本中有一个或多个编号脚注
 - 并且我的光标在我想要插入编号脚注的位置（例如 `Foo bar[^1] baz▊`）
@@ -88,7 +77,7 @@ modified: 20230101000000
 
 ### 命名脚注
 
-场景：添加一个命名的脚注：
+#### 场景：添加一个命名的脚注
 
 - 假设我的光标在我想要存在命名脚注的位置（例如 `Foo bar baz▊`）
 - 当我按下 `命名脚注热键`
@@ -213,7 +202,7 @@ Example sentence[^1] with two[^3] footnotes[^2] already.
   [^1]: 跨越多行的详细信息
   ```
 
-## 背景
+## 作者阐述的开发背景
 
 该插件基于 [jacob.4ristotle](https://forum.obsidian.md/u/jacob.4ristotle/summary) 在 ["Footnote Shortcut"](https://forum.obsidian.md/t/footnote-shortcut/8872) 主题中提出的伟大想法。
 
