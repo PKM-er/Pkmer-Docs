@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230910003844
+modified: 20230911105411
 ---
 
 # Obsidian 社区插件
@@ -154,6 +154,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
 - [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
 - [[obsidian-task-archiver]]：帮你快速归类待办任务
+- [[completed-task-display]]：提供控件来显示或隐藏已完成的任务。
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 - [[tasks-calendar-wrapper]]：完美的时间线/日历视图的任务面板展示
 
@@ -169,6 +170,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-codemirror-options]]：强化代码输入和编辑体验
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 - [[obsidian-code-copy]]：为代码块添加一个复制按钮。该功能官方已经提供
+- [[code-styler]]：在阅读视图和编辑视图中对代码块和内联代码进行样式设置。
 
 ### 搜索
 
@@ -183,6 +185,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 脚注&引用
 
 - [[better-fn]]：为 Obsidian 注脚增加悬浮展示功能，鼠标指向后，注脚的解释会出现在对应位置
+- [[obsidian-footnotes]]：方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
+- [[obsidian-tidy-footnotes]]：可以将所有注脚都合并到一个地方，也能给注脚重新排序
 
 ### 链接类
 
@@ -215,6 +219,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[obsidian-booknote-plugin]]：让你在 Obsidian 中阅读标注 PDF
 - [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
+- [[better-comment-toggle]]：改进了注释的切换功能
 
 ### 标签类
 

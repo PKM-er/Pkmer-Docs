@@ -4,10 +4,10 @@ title: Obsidian 图片增强插件——Awesome image obsidian
 tags: [Obsidian, 插件，图片增强]
 description: Obsidian 图片增强插件——Awesome image obsidian。提供笔记中图片常规操作，包括点击放大，旋转等功能。
 author: 奇货队长
-type: note
+type: basic
 draft: false
 editable: false
-modified: 20230731105906
+modified: 20230911010320
 date: 2023-07-29
 ---
 

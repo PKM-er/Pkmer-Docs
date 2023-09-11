@@ -1,13 +1,14 @@
 ---
-uid: 20230901102530
+uid: 20230901102531
 title: Obsidian 插件：Code Styler
-tags: ['obsidian插件', 'readme']
+tags:
+  - obsidian插件
 description: 在阅读视图和编辑视图中对代码块和内联代码进行样式设置。
-author: AI
-type: readme
+author: OS
+type: basic
 draft: false
 editable: false
-modified: 20230908155304
+modified: 20230911105134
 ---
 
 # Obsidian 插件：Code Styler
@@ -16,7 +17,7 @@ modified: 20230908155304
 > - 插件名称：Code Styler
 > - 插件作者：Mayuran Visakan
 > - 插件说明：在阅读视图和编辑视图中对代码块和内联代码进行样式设置。
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/mayurankv/Obsidian-Code-Styler)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?code-styler)
 
