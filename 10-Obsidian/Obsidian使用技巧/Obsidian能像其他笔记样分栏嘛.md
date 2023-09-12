@@ -46,7 +46,7 @@ modified: 20230603165054
 >>- your notes or lists here. using markdown formatting
 >>- your notes or lists here. using markdown formatting
 >>- your notes or lists here. using markdown formatting
->>
+>
 >> [!warning|right-small]+ 进行中的事项
 >>
 >> your notes or lists here. using markdown formatting
@@ -62,11 +62,11 @@ modified: 20230603165054
 >> [!note]+ 待办事项
 >>
 >> your notes or lists here. using markdown formatting
->>
+>
 >> [!warning]+ 进行中的事项
 >>
 >> your notes or lists here. using markdown formatting
->>
+>
 >> [!success]+ 已完成事项
 >>
 >> your notes or lists here. using markdown formatting
@@ -82,17 +82,17 @@ modified: 20230603165054
 >> [!note]+ 待办事项
 >>
 >> your notes or lists here. using markdown formatting
->>
+>
 >> [!warning]+ 进行中的事项
 >>
 >>- your notes or lists here. using markdown formatting
 >>- your notes or lists here. using markdown formatting
 >>- your notes or lists here. using markdown formatting
->>
+>
 >> [!success]+ 已完成事项
 >>
 >> your notes or lists here. using markdown formatting
->>
+>
 >> [!info]+ 说明
 >>
 >> your notes or lists here. using markdown formatting
