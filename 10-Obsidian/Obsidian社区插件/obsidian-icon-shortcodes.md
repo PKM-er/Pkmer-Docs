@@ -1,13 +1,13 @@
 ---
 uid: 20230506103414
 title: Obsidian 插件：Icon Shortcodes 通过短代码方式，快速筛选和输入
-tags: [Obsidian, 插件, 图标, emoji,自定义]
+tags: [Obsidian, 插件, 图标, emoji, 自定义]
 description: Obsidian 插件：Icon Shortcodes 通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合。
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604172821
+modified: 20230911153749
 ---
 
 # Obsidian 插件：Icon Shortcodes 通过短代码方式，快速筛选和输入
@@ -22,6 +22,7 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的短
 > - 插件名称：Icon Shortcodes
 > - 插件作者：AidenLx
 > - 插件说明：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合。
+> - 插件分类：[' 效率 ', ' 编辑器 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/obsidian-icon-shortcodes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-icon-shortcodes)
 
@@ -38,6 +39,16 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的短
 - Custom Icons 可以轻松插入和管理自定义图标（支持格式：.bmp，.png，.jpg，.jpeg，.gif，.svg 和.webp）
 
 ![image.png](https://cdn.pkmer.cn/images/20230506105842.png!pkmer)
+
+### 备份和恢复自定义图标
+
+> 需要 v0.6.0+ 版本
+
+自 v0.6.0 版本开始，所有自定义图标都存储在配置目录（通常是 `.obsidian/icons`）下的 `icons` 文件夹中，您可以：
+
+- 打开文件夹（仅限桌面版）
+- 将所有图标/选定的图标包备份到 zip 文件中（将存储在根目录下的 vault 文件夹中）
+- 从 zip 文件中恢复图标
 
 ### 自定义样式
 

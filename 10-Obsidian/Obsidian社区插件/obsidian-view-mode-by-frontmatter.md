@@ -25,6 +25,7 @@ modified: 20230604174613
 > - 插件名称：Force note view mode by front matter
 > - 插件作者：Benny Wydooghe
 > - 插件说明：自定义每个笔记的视图
+> - 插件分类：[' 界面相关 ', ' 效率 ', ' 编辑器 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/bwydoogh/obsidian-force-view-mode-of-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-view-mode-by-frontmatter)
 

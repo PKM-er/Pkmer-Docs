@@ -20,6 +20,7 @@ modified: 20230603014306
 > - 插件名称：Simple Embeds
 > - 插件作者：Sam Warnick
 > - 插件说明：把 Twitter 和 YouTube 网页链接嵌入当前笔记中预览
+> - 插件分类：[' 转换工具 ', ' 界面相关 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/samwarnick/obsidian-simple-embeds)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?simple-embeds)
 
@@ -28,7 +29,7 @@ modified: 20230603014306
 
 ## 效果&特性
 
-![](https://cdn.pkmer.cn/images/GIF%202023-4-30%2010-18-34.gif!pkmer)
+![Obsidian 插件：Simple Embeds 为链接可视化卡片样式](https://cdn.pkmer.cn/images/GIF%202023-4-30%2010-18-34.gif!pkmer)
 
 支持以下网站的链接预览化：
 

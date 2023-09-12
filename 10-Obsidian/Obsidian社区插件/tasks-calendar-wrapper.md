@@ -1,16 +1,16 @@
 ---
 uid: 20230508145808
-title: Obsidian 插件：Tasks-calendar-wrapper 支持快捷输入与时间线/日历视图的任务面板展示插件
+title: Obsidian 插件：Tasks calendar wrapper 支持快捷输入与时间线/日历视图的任务面板展示插件
 tags: [Obsidian, 插件, 任务, 时间线, 任务日历]
 description: Obsidian 插件：Tasks-calendar-wrapper 快速生成没关的任务的时间线及日历视图
 author: 山人
 type: other
 draft: false
 editable: false
-modified: 20230723205513
+modified: 20230911144534
 ---
 
-# Obsidian 插件：Tasks-calendar-wrapper 支持快捷输入与时间线/日历视图的任务面板展示插件
+# Obsidian 插件：Tasks calendar wrapper 支持快捷输入与时间线/日历视图的任务面板展示插件
 
 ## 概述
 
@@ -45,13 +45,6 @@ modified: 20230723205513
 - 能够按照任务状态，对当天的任务计数，以及基于时间段和优先级对任务进行筛选，按任务类型与紧急程度进行展示；
 - 该插件能够在自定义单文件，快捷输入任务，支持配置不同文件，并且在侧边插件面板中，快速切换，进行任务的输入；
 - 能够与 Obsidian 日记功能，配合使用；
-
-## 安装
-
-1. 进入 Obsidian 社区插件
-2. 搜索 Tasks calendar wrapper
-3. 安装
-4. 开启插件
 
 ## 使用
 

@@ -24,7 +24,6 @@ modified: 20230101000000
 
 在你的保险箱中使用酷的图形算法发现笔记之间的隐藏联系。
 
-![Graph Analysis](https://cdn.pkmer.cn/covers/graph-analysis.png!pkmer)
 
 > [!tip] 原文出处
 >
