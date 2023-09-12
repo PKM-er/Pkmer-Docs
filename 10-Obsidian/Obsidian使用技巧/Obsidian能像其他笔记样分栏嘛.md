@@ -1,13 +1,13 @@
 ---
 uid: 20230603163007
 title: Obsidian 能像其他笔记样分栏嘛
-tags: [Obsidian,分栏,css]
+tags: [Obsidian, 分栏, css]
 description: Obsidian 能像其他笔记样分栏嘛
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603165054
+modified: 20230912164604
 ---
 
 # Obsidian 能像其他笔记样分栏嘛
@@ -32,7 +32,7 @@ modified: 20230603165054
 
 ## 安装
 
-下载安装 [地址](https://github.com/ckRobinson/multi-column-markdown/releases)。
+下载安装 [地址](https://github.com/efemkay/obsidian-modular-css-layout)。
 
 ### 两栏示例
 
@@ -46,7 +46,7 @@ modified: 20230603165054
 >>- your notes or lists here. using markdown formatting
 >>- your notes or lists here. using markdown formatting
 >>- your notes or lists here. using markdown formatting
->>
+>
 >> [!warning|right-small]+ 进行中的事项
 >>
 >> your notes or lists here. using markdown formatting
@@ -62,11 +62,11 @@ modified: 20230603165054
 >> [!note]+ 待办事项
 >>
 >> your notes or lists here. using markdown formatting
->>
+>
 >> [!warning]+ 进行中的事项
 >>
 >> your notes or lists here. using markdown formatting
->>
+>
 >> [!success]+ 已完成事项
 >>
 >> your notes or lists here. using markdown formatting
@@ -82,17 +82,17 @@ modified: 20230603165054
 >> [!note]+ 待办事项
 >>
 >> your notes or lists here. using markdown formatting
->>
+>
 >> [!warning]+ 进行中的事项
 >>
 >>- your notes or lists here. using markdown formatting
 >>- your notes or lists here. using markdown formatting
 >>- your notes or lists here. using markdown formatting
->>
+>
 >> [!success]+ 已完成事项
 >>
 >> your notes or lists here. using markdown formatting
->>
+>
 >> [!info]+ 说明
 >>
 >> your notes or lists here. using markdown formatting
