@@ -1,13 +1,13 @@
 ---
 uid: 20230603163007
 title: Obsidian 能像其他笔记样分栏嘛
-tags: [Obsidian,分栏,css]
+tags: [Obsidian, 分栏, css]
 description: Obsidian 能像其他笔记样分栏嘛
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603165054
+modified: 20230912164604
 ---
 
 # Obsidian 能像其他笔记样分栏嘛
