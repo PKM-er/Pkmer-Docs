@@ -32,7 +32,7 @@ modified: 20230603165054
 
 ## 安装
 
-下载安装 [地址](https://github.com/ckRobinson/multi-column-markdown/releases)。
+下载安装 [地址](https://github.com/efemkay/obsidian-modular-css-layout)。
 
 ### 两栏示例
 
