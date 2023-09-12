@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230905153934
+modified: 20230912181544
 aliases: [Obsidian css代码片段]
 ---
 
@@ -60,6 +60,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[obsidian安卓上利用css修改界面字体]]
 - [[Obsidian样式-缩减栏宽模式下美化笔记内部背景]]
 - [[Obsidian样式-iPhone-Obsidian自定义字体]]
+
+### 图片
+
+- [[Obsidian样式-图片点击长按放大]]
 
 ### Properties（老称呼 Front-matter，metadata）
 

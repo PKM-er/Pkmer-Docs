@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604172557
+modified: 20230911171929
 ---
 
 # Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
@@ -20,6 +20,7 @@ modified: 20230604172557
 > - 插件名称：Auto Link Title
 > - 插件作者：Matt Furden
 > - 插件说明：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
+> - 插件分类：[' 链接处理 ', ' 效率 ', ' 自动化 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/zolrath/obsidian-auto-link-title)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-auto-link-title)
 

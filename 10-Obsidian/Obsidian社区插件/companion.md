@@ -1,16 +1,22 @@
 ---
 uid: 20230614210107
-title: Obsidian 插件：Companion 通过AI自动补全内容
-tags: [AI,人工智能]
+title: Obsidian 插件：Companion 通过 AI 自动补全内容
+tags: [AI, 人工智能]
 description: 通过chatGPT根据上下文自动自动补全内容
 author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230614215020
+modified: 20230911150642
 ---
 
 # Obsidian 插件：Companion 通过 AI 自动补全内容
+
+## 概述
+
+![Obsidian_nn7JxjA0MD.gif](https://cdn.pkmer.cn/images/Obsidian_nn7JxjA0MD.gif!pkmer)
+
+companion 插件是一个通过 chatGPT 进行 自动补全的 Obsidian 插件。它利用 AI 模型 chatGPT 来根据上下文自动生成内容，帮助用户快速完成写作和笔记。使用 companion 插件，用户可以在编辑器中输入 文字，并通过 AI 模型生成相关的补充内容。这个插件能够提供即时的建议、提示和扩展，帮助用户更高效地写作和整理思路。
 
 > [!Note] 插件名片
 > - 插件名称：companion
@@ -20,11 +26,34 @@ modified: 20230614215020
 > - 插件项目地址：[rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?companion)
 
-## 概述
+## 效果&特性
 
-![Obsidian_nn7JxjA0MD.gif](https://cdn.pkmer.cn/images/Obsidian_nn7JxjA0MD.gif!pkmer)
+- 从 MarginNote 3 导入笔记/选中文本
+  - 支持链接到 MarginNote 的反向链接
+  - 支持导入摘录图片
+  - 支持导入视频笔记（需要安装 [media-extended](https://github.com/aidenlx/media-extended)）
+- 从 PDF 导入笔记层级树/目录
+- 多种快速将 MarginNote 数据插入到 Obsidian 笔记的方式
+  - 通过在 MarginNote 中选择 - 在 Obsidian 中粘贴来插入笔记（仅桌面版支持）
+  - 通过命令插入笔记：快捷键、移动工具栏按钮和/或滑动手势（需要配置）
+  - 自动粘贴：在 MarginNote 3 中选择笔记/PDF 文本时，自动插入到 Obsidian 的活跃笔记中
+- 模板支持：指定如何插入 MarginNote 3 的笔记/选中文本/目录
+  - 通过编辑器中的上下文菜单选项
+  - 通过命令（启用 `show in command`）
+- 导入元数据：将 MarginNote 3 中的标题链接转换为 Obsidian 中的 `aliases`，并添加返回到源 MarginNote 笔记的按钮
 
-companion 插件是一个通过 chatGPT 进行 自动补全的 Obsidian 插件。它利用 AI 模型 chatGPT 来根据上下文自动生成内容，帮助用户快速完成写作和笔记。使用 companion 插件，用户可以在编辑器中输入 文字，并通过 AI 模型生成相关的补充内容。这个插件能够提供即时的建议、提示和扩展，帮助用户更高效地写作和整理思路。
+前往 [MarginNote Companion wiki](https://github.com/aidenlx/marginnote-companion/wiki) 查看更多详细信息
+
+所需的 API 功能仅适用于 Obsidian v0.12.17+。
+
+## 安装
+
+安装插件之前：
+
+1. 从 [obsidian-bridge 的 GitHub Release](https://github.com/aidenlx/obsidian-bridge/releases) 下载最新的 `.mnaddon` 安装程序
+2. 按照 [说明](https://github.com/aidenlx/obsidian-bridge#installation-%E5%AE%89%E8%A3%85) 在 MarginNote 3 中安装和启用 obsidian-bridge（打开笔记本/文档时在屏幕一侧显示的桥图标，单击图标以启用它）
+
+## 使用
 
 使用 companion 插件很简单 ，只需按照以下步骤进行操作：
 
@@ -56,5 +85,4 @@ companion 插件支持非常丰富的自定义选项， 包括但不限于：
 这是一款类似于微软开发的 copliot 代码自动补全的插件，这种交互形式我个人非常喜欢，在你专心构思时不会打扰你，当你停顿时能给出建议。经过实测，在我写作过程中会频繁触发自动补全，短短 10 分钟触发了大概 150 次左右，这对目前来说的 GPT 价格来说并不友好，所以**尽量设置比较短的建议和提示**。最后，该自动补全插件并不会将全文当作 prompt，应该仅仅是局部上下文当作 prompt，所以触发次数多，但不费 token，日常使用也完全可接受。
 
 [^1]:Jurassic-2 是由 AI21 Labs 公司开发的生成语言模型，在 2023 年 5 月 1 日开放给大众使用。官方指出，无论是在结果多样性还是意义保存方面，AI21 Labs 都优于 OpenAI。
-
 [^2]: goose.ai 是一款完全托管通过 API 提供自然语言处理（NLP） 作为服务的工具，完全和 OpenAI 的 API 兼容，比 OpenAI 的要便宜许多，选择上也更丰富。

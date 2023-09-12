@@ -52,6 +52,8 @@ modified: 20230907161045
 
 ![Obsidian 插件：Zotero Integration|600](https://cdn.pkmer.cn/images/20230907160159.png!pkmer)
 
+![image.png](https://cdn.pkmer.cn/images/20230912141103.png!pkmer)
+
 ### 模板设置
 
 - 使用的模板语言为 Nunjucks，需要一定的学习成本

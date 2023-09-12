@@ -7,19 +7,20 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604172758
+modified: 20230911153224
 ---
 
 # Obsidian 插件：Obsidian Gallery 让你的笔记变成画廊
 
 ## 概述
 
-让你收集的图片，在笔记中可以按照画廊模式展示。
+将笔记以画廊方式展示，并且可以添加标记 /过滤器 /向图像添加注释。此插件已经长期不维护
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Gallery
 > - 插件作者：Darakah
 > - 插件说明：让你收集的图片，在笔记中可以按照画廊模式展示。
+> - 插件分类：[' 界面相关 ', ' 图片 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/Darakah/obsidian-gallery)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-gallery)
 
@@ -31,7 +32,7 @@ modified: 20230604172758
 
 ![Pasted image 20230310105749](https://cdn.pkmer.cn/images/a47c4a5e7fff172bdf5caef0a47c0648_MD5.png!pkmer)
 
-![obsidian-image-gallery](https://cdn.pkmer.cn/images/3a0181128f67d2918d9c8ced32e3f807_MD5.gif!pkmer)
+![Gallery](https://cdn.pkmer.cn/covers/obsidian-gallery.png!pkmer)
 
 ## 使用
 
@@ -91,7 +92,6 @@ type: vertical
 - 仅接受本地图片作为源；
 - 如果你设置的仓库中包含笔记和图像，那么这个插件只会识别图片；
 - 确保要嵌入的图像具有合理的大小：用 60 张 4k 照片生成一个堆砌结构，很可能会使应用程序迟缓卡顿。
-
 
 >[!Tip] 关联推荐
 > - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力

@@ -1,20 +1,18 @@
 ---
 uid: 20230603163007
-title: Obsidian 能像其他笔记样分栏嘛
-tags: [Obsidian, 分栏, css]
-description: Obsidian 能像其他笔记样分栏嘛
+title: Obsidian 能像其他笔记样分栏嘛 MCL Multi Column
+tags: [Obsidian, 分栏, CSS]
+description: Obsidian 能像其他笔记样分栏嘛 MCL Multi Column
 author: OS
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230912164604
+modified: 20230912190523
 ---
 
-# Obsidian 能像其他笔记样分栏嘛
+# Obsidian 能像其他笔记样分栏嘛 MCL Multi Column
 
 ## 多行分列语法 MCL Multi Column.css
-
-## 多栏样式（Multi Column）
 
 > [!tip] Callouts 类型
 > 1. 双栏：> [!multi-column] 【快捷输入：co-mulit，会自动帮你构建双栏空位】
@@ -32,7 +30,7 @@ modified: 20230912164604
 
 ## 安装
 
-下载安装 [地址](https://github.com/efemkay/obsidian-modular-css-layout)。
+下载安装 [地址](https://github.com/efemkay/obsidian-modular-css-layout/releases)。
 
 ### 两栏示例
 

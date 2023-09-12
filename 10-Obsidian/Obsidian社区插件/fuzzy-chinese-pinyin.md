@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531200143
+modified: 20230912161301
 ---
 
 # Obsidian 插件：Fuzzy Chinese Pinyin 基于汉语拼音进行模糊搜索
@@ -25,7 +25,9 @@ Fuzzy Chinese Pinyin 提供中文拼音搜索的功能，其他功能与核心�
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230509182704.png!pkmer)
+![Obsidian 插件：Fuzzy Chinese Pinyin 基于汉语拼音进行模糊搜索](https://cdn.pkmer.cn/covers/fuzzy-chinese-pinyin.jpeg!pkmer)
+
+![Obsidian 插件：Fuzzy Chinese Pinyin 基于汉语拼音进行模糊搜索](https://cdn.pkmer.cn/images/20230509182704.png!pkmer)
 
 ## 使用
 
@@ -49,3 +51,4 @@ Fuzzy Chinese Pinyin 提供中文拼音搜索的功能，其他功能与核心�
 > [!Tip] 推荐阅读
 > - [[search-on-internet]]：快速在搜索引擎中搜索笔记内容
 > - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
+

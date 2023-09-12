@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230607102348
+modified: 20230911121200
 ---
 
 # Obsidian 插件：TagFolder 通过标签方式组织管理笔记
@@ -23,8 +23,9 @@ TagFolder 就是通过笔记中的标签，重新组织所有的笔记。
 > [!Note] 插件名片
 > - 插件名称：TagFolder
 > - 插件作者：vorotamoroz
-> - 插件说明：通过笔记中的标签，重新组织所有的笔记
-> - 插件项目地址：[点我跳转](https://github.com/vrtmrz/obsidian-tagfolder)
+> - 插件说明：将标签变为文件夹形式，管理你的笔记。
+> - 插件分类：[' 文件管理 ', ' 标签 ', 'obsidian 插件 ', 'readme']
+> - 项目地址：[点我访问](https://github.com/vrtmrz/obsidian-tagfolder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tagfolder)
 
 ## 效果&特性
@@ -113,6 +114,20 @@ sweet -red | food -sweet
 - Tags
 	- Filename
 	- Count of items
+
+### 过滤器
+
+#### 目标文件夹
+
+如果我们设置了这个选项，插件将只会针对其中的文件进行操作。
+
+忽略特定文件夹中的文档。
+
+#### 忽略备注标签
+
+如果备注具有在此处设置的标签，则将视为不存在该备注。
+
+忽略标签：在这里设置的标签将被视为不存在。
 
 >[!Tip] 关联推荐
 > - [[file-tree-alternative]]：提供了一个全新的增强型文件管理器
