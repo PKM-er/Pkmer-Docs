@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230603020537
+modified: 20230913172653
 ---
 
 # Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
@@ -36,3 +36,13 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 
 1. 确认你的日记插件打开了；
 2. 检查设置是否已经设置好对应的标题，而且日记中有没有对应的标题；
+
+## 开发进度
+
+ memos 2.0 正在开发中，开发进度参考 [[memos-changelog]]
+
+## 加入内侧
+
+Memos 2.0.x 内测版火热进行中，通过社区共享知识、方法论等稿件，或社区为爱发电捐助都可以获得资格。Memos 2.0.x 内测版火热进行中，通过社区共享知识、方法论等稿件，或社区为爱发电捐助都可以获得资格。
+
+[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
