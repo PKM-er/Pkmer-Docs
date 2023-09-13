@@ -1,16 +1,13 @@
 ---
 uid: 20230902162908
 title: relation-pane：显示 与当前笔记相关的笔记的信息
-tags:
-  - 插件
-  - Obsidian
-  - 统计
+tags: [插件, Obsidian, 统计]
 description: relation-pane：显示 与当前笔记相关的笔记的信息
 author: Nathaniel
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230902164622
+modified: 20230914002059
 ---
 
 # relation-pane：显示 与当前笔记相关的笔记的信息
@@ -39,24 +36,16 @@ modified: 20230902164622
 
 ****
 
-![](image-20230902162708111.png)
+![](https://cdn.pkmer.cn/images/202309140021213.png!pkmer)
 
 ## 使用
 
-调用命令面板打开插件面板
+调用命令面板打开插件面板`Ctrl + p ` 输入 `Relation-Pane: Open relation view`
 
- ```bash
-Ctrl + p 
-``` 
+![](https://cdn.pkmer.cn/images/202309140021212.png!pkmer)
 
-输入 `Relation-Pane: Open relation view`
+如果当前笔记存在上述的几种情况，面板上会有链接显示
 
-![](image-20230902161625708.png)
+![](https://cdn.pkmer.cn/images/202309140022846.png!pkmer)
 
-如果当前笔记存在上述的几种情况
-
-面板上会有链接显示
-
-![](image-20230902162647798.png)
-
-![](image-20230902162727949.png)
+![](https://cdn.pkmer.cn/images/202309140022456.png!pkmer)
