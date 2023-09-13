@@ -1,6 +1,6 @@
 ---
 uid: 20230905155443
-title: obsidian1.4.5 版本暗藏的彩蛋：多标签查询功能，帮助更好的利用标签检索笔记
+title: Obsidian多标签查询功能
 tags: [obsidian, plugin, Tutorial, trick]
 description: obsidian1.4.5 版本暗藏的彩蛋：多标签查询功能，帮助更好的利用标签检索笔记
 author: Nathaniel
