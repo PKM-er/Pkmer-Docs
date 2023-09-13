@@ -11,11 +11,6 @@ type: other
 draft: false
 editable: false
 modified: 20230902164622
-aliases: []
-highlight: obsidian
-date created: 2023/09/02
-last_update: 2023/09/02
-noteState: ✅Completed
 ---
 
 # relation-pane：显示 与当前笔记相关的笔记的信息
