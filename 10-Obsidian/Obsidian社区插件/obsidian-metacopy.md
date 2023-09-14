@@ -1,7 +1,8 @@
 ---
-uid: 20230822233837
+uid: 20230822233946
 title: Obsidian 插件：Metacopy & URL 快速复制 Front-matter 属性内容
-tags: [Obsidian插件]
+tags:
+  - Obsidian插件
 description: 复制一个前文键的值。
 author: OS
 type: basic

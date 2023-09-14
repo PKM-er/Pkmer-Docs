@@ -1,7 +1,8 @@
 ---
-uid: 20230822233837
+uid: 20230822233941
 title: Obsidian 插件：Remember File State 记住每个笔记的浏览位置
-tags: [obsidian插件]
+tags:
+  - obsidian插件
 description: 记住每个文件的光标位置、选择、滚动等等
 author: OS
 type: basic

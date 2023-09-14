@@ -1,7 +1,9 @@
 ---
-uid: 20230822233837
+uid: 20230822233940
 title: Obsidian 插件：File Explorer Markdown Titles
-tags: [导航工具, obsidian插件]
+tags:
+  - 导航工具
+  - obsidian插件
 description: 在文件资源管理器中显示笔记的第一个markdown标题
 author: AI
 type: readme
