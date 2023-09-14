@@ -1,13 +1,13 @@
 ---
 uid: 20230818165559
 title: PKMer 社区 FAQ
-tags: []
+tags: 
 description: PKMer FAQ
 author: PKMer
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20230907170713
+modified: 20230914161559
 ---
 
 # PKMer 社区 FAQ
@@ -88,11 +88,11 @@ OS 回答：
 - 开发：插件开发，软件开发，脚本，主题开发等内容
 - 运营：管理社区的文章、运营、积极反馈 bug，提出新问题，组织和运营活动等内容、甚至在各个群中活跃气氛，解答问题，都是对社区的贡献
 
-## 有无具体的内容推荐
+## 为社区共享有无具体的内容推荐
 
 OS 回答：
 
-近期主要协作内容（建议），社区当然不止是 Obsidian，如果你个人能力突出，也有更好的想法，欢迎来社区提议，我们欢迎。
+以近期主要协作内容（建议），社区当然不止是 Obsidian，如果你个人能力突出，也有更好的想法，欢迎来社区提议，我们欢迎。
 
 - Obsidian
 	- Obsidian 社区插件使用教程
@@ -105,6 +105,7 @@ OS 回答：
 - logseq、TIddywiki
 - Agenda、devothink、todoist、Notion
 - 甚至你喜欢收集软件、知识管理动态，都可以来社区踊跃参加
+- ==如果你还有其他建议，也可以联系群管理员==
 
 ## 为什么用 Github 进行协作
 

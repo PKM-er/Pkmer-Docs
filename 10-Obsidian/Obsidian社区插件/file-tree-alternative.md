@@ -4,10 +4,10 @@ title: Obsidian 插件：File Tree Alternative 强大的文件管理器
 tags: [Obsidian, 插件, 增强型文件管理器]
 description: Obsidian 插件：File Tree Alternative 强大的文件管理器
 author: OS
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230705144849
+modified: 20230914145625
 ---
 
 # Obsidian 插件：File Tree Alternative 强大的文件管理器
@@ -21,7 +21,8 @@ modified: 20230705144849
 > [!Note] 插件名片
 > - 插件名称：File Tree Alternative Plugin
 > - 插件作者：Ozan Tellioglu
-> - 插件说明：提供了一个全新的增强型文件管理器。
+> - 插件说明：提供了一个全新的增强型文件管理器
+> - 插件分类：[' 界面相关 ', ' 文件管理 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/ozntel/file-tree-alternative)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-tree-alternative)
 
@@ -33,7 +34,7 @@ modified: 20230705144849
 
 这是一个全新的增强文件管理器，并不是简单在原有文件管理器上做得修改。所以需要你点击使用新的面板图标，才可以看到效果。
 
-## 通用设置
+### 通用设置
 
 - 提供一个独立的全新的文件管理器
 - 提供类似 Evernote 文件管理视图，同时显示文件夹和文件列表两个面板，支持水平或垂直分割方式排布方式，或关闭此功能，点击文件夹后，整个列表会直接进入到文件夹。在设置中 `Evernote View` 中选择。
@@ -71,6 +72,16 @@ modified: 20230705144849
 ### 样式设定
 
 2.3.2 版本后，该插件已经直至自定义样式，而且已经将部分自定义内置，想要取微调这些样式，需要安装 [[obsidian-style-settings]] 插件，并参考对应文档。
+
+#### 示例图片
+
+- 单文件夹视图：
+
+      <img src="https://github.com/ozntel/file-tree-alternative/raw/main/images/folders-view.png" style="width: 400px;" />
+
+- 置顶固定：
+
+      <img src="https://github.com/ozntel/file-tree-alternative/raw/main/images/files-pinned.png" style="width: 400px;" />
 
 >[!Tip] 关联推荐
 > - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力

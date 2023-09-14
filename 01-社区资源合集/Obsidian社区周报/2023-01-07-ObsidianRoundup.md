@@ -134,7 +134,7 @@ Obsidian 的默认安装程序更新到了 Electron v21 版本，这意味着你
 注意：这些插件尚未提交代码审查，主要用于测试目的；
 
 - 我通常不会介绍那些尚未发布正式测试版的进展中的作品，但这太令人兴奋了，不能不分享；`@blacksmithgu` 已经开始了 [Datacore](https://github.com/blacksmithgu/datacore) 的工作，这是 Dataview 的继任者，重点是用户体验和速度；看起来计划的功能包括一个新的 Javascript API、所见即所得的视图、功能性嵌入和实时编辑；
-- [Inbox](https://github.com/Zachatoo/obsidian-inbox) 让你在启动 Obsdiian 时，检查你设置的收件箱中是否有数据需要处理，如果有，会显示一个通知。
+- [Inbox](https://github.com/Zachatoo/obsidian-inbox) 让你在启动 Obsidian 时，检查你设置的收件箱中是否有数据需要处理，如果有，会显示一个通知。
 
 ## 对于开发者
 

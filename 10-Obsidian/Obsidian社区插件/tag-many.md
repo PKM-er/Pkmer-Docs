@@ -1,47 +1,34 @@
 ---
 uid: 20230822233844
 title: Obsidian 插件：【Readme】TagMany
-tags:
-  - obsidian插件
-  - readme
+tags: [obsidian插件, readme]
 description: 此插件允许您一次向文件夹中的多个笔记（可选择包括子文件夹）添加相同的标签。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230829152155
+modified: 20230914142027
 ---
 
 # Obsidian 插件：【Readme】TagMany
-
-> [!Note] 插件名片
-> - 插件名称：TagMany
-> - 插件作者：Joshua Martius
-> - 插件说明：此插件允许您一次向文件夹中的多个笔记（可选择包括子文件夹）添加相同的标签。
-> - 插件分类：['obsidian 插件 ', 'readme']
-> - 项目地址：[点我访问](https://github.com/joshua-martius/tagmany)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-many)
 
 ## 概述
 
 此插件允许您一次向文件夹中的多个笔记（可选择包括子文件夹）添加相同的标签。
 
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joshua-martius/tagmany/master/README.md)
->
+> [!Note] 插件名片
+> - 插件名称：TagMany
+> - 插件作者：Joshua Martius
+> - 插件说明：此插件允许您一次向文件夹中的多个笔记（可选择包括子文件夹）添加相同的标签。
+> - 插件分类：['obsidian 插件 ']
+> - 项目地址：[点我访问](https://github.com/joshua-martius/tagmany)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-many)
 
----
-
-## Readme(翻译）
-
-下面是 [[tag-many]] 插件的自述翻译
-
-# TagMany Obsidian 插件
+## 使用
 
 允许您将相同的标签添加到特定目录中的多个笔记中。
 
-目前不支持在根目录和标记画布上使用该插件。
+目前不支持在根目录和标记白板（canvas）上使用该插件。
 
 ## 如何使用
 

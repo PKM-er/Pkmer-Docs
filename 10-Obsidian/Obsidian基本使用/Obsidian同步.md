@@ -69,7 +69,7 @@ modified: 20230607140423
 
 ## 插件同步
 
-- [obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)：自托管 LiveSync 是一个社区实现的同步插件。 自托管或购买 CouchDB 当中间服务器。可在所有与 Obsdian 兼容的平台上使用。目前仍在积极开发。
+- [obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)：自托管 LiveSync 是一个社区实现的同步插件。 自托管或购买 CouchDB 当中间服务器。可在所有与 Obsidian 兼容的平台上使用。目前仍在积极开发。
 - [remotely-save](https://github.com/remotely-save/remotely-save)：支持 S3，webdav，onedrive，dropbox，目前能满足基本使用，开发进度停滞。
 
 通过插件同步需要配合其它第三方工具，可以自建也可以使用第三方。
