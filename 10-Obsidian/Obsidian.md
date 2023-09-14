@@ -7,7 +7,7 @@ author: windilycloud
 type: awesome
 draft: false
 editable: false
-modified: 20230729211402
+modified: 20230914154455
 ---
 
 # Obsidian
@@ -132,6 +132,7 @@ Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件�
 这些插件大大强化了，笔记中图片的操作体验，比如查看图片，比如将网络图片集成倒本地等。
 
 - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
+- [[obsidian-image-layouts]]：在您的笔记中添加美丽的图像布局
 - [[obsidian-image-caption]]：给图片增加说明题注
 - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
@@ -225,6 +226,7 @@ Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件�
 - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
 - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
 - [[obsidian-meta-bind-plugin]]：让你的笔记具有交互性，通过各种控件修改笔记信息
+- [[obsidian-metacopy]]：快速复制 Front-matter 属性内容
 
 ### 自动化&效率
 
@@ -352,7 +354,7 @@ Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些�
 
 - [[obsidian-tasks的GTD实践]]：Obsidian Tasks 的 GTD 实践 by alswl
 - [[Obsidian_2023_seyee]]：用 Obsidian 两年多，现在我怎么同步和使用？ by seyee
-- [[一种实用新型 Obsidian 实践之构建我的第二大脑]] + [[我给我的 Obsidian 实践写了一个插件]]：林宜丙 对使用Obsidian的实践
+- [[一种实用新型 Obsidian 实践之构建我的第二大脑]] + [[我给我的 Obsidian 实践写了一个插件]]：林宜丙 对使用 Obsidian 的实践
 - [[我的个人任务管理系统分享]]：浅谈个人对任务管理的理解，涉及任务管理, 清单, 番茄工作法 by Thomas Teng
 - [[卡片笔记的“输入即输出”]]：笔记越来越庞大，管理起来越来越力不从心的心路历程 by asureading
 - Echo

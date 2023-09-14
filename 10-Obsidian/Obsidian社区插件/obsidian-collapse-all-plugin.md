@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603021926
+modified: 20230914104613
 ---
 
 # Obsidian 插件：Collapse All 快速展开折叠文件夹
@@ -20,6 +20,7 @@ modified: 20230603021926
 > - 插件名称：Collapse All
 > - 插件作者：OfficerHalf
 > - 插件说明：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹。
+> - 插件分类：[' 导航工具 ', ' 文件管理 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/OfficerHalf/obsidian-collapse-all)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-collapse-all-plugin)
 
@@ -47,9 +48,11 @@ modified: 20230603021926
 
 右键单击文件资源管理器中的文件夹，然后选择  `Collapse this level` （折叠此级别）或者 `Expand this level` 命令（展开此级别），会仅折叠或展开该文件夹及其子节点。
 
-### 展开附件文件夹
+### 排除附件文件夹
 
 默认情况下，将不会展开附件文件夹（如果配置）。这是可以在插件设置中配置的选项，丰俭由人。
+
+请参阅 [更新日志](CHANGELOG.md)。
 
 >[!Tip] 关联推荐
 > - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力

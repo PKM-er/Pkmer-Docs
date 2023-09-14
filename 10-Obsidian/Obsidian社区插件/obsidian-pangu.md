@@ -4,10 +4,10 @@ title: Obsidian 插件：盘古 PanGu 快速格式化文档
 tags: [Obsidian, 插件, 盘古, 格式化, 效率, 文档格式化]
 description: Obsidian 插件：盘古 PanGu 快速格式化文档
 author: OS
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230715000803
+modified: 20230914161209
 ---
 
 # Obsidian 插件：盘古 PanGu 快速格式化文档
@@ -21,6 +21,7 @@ modified: 20230715000803
 > - 插件名称：盘古 PanGu
 > - 插件作者：Natumsol
 > - 插件说明：一键自动化增加文字与数字，英文和中文之间的空格
+> - [' 编辑工具 ', ' 中文处理 ', ' 自动化 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/Natumsol/obsidian-pangu)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-pangu)
 

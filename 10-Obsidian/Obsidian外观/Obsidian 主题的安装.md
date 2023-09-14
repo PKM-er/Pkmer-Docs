@@ -57,7 +57,7 @@ modified: 20230731103150
 
 ### 应用新主题
 
-重启 Obsdiain 后，在外观 -- 主题中就可以选择刚才下载的主题。
+重启 Obsidian 后，在外观 -- 主题中就可以选择刚才下载的主题。
 
 ![image.png](https://cdn.pkmer.cn/images/202307302143847.png!pkmer)
 

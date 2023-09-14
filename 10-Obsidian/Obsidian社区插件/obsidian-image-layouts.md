@@ -1,14 +1,13 @@
 ---
 uid: 20230822233854
 title: Obsidian 插件：Image Layouts 简易图像横排工具
-tags:
-  - obsidian插件
+tags: [Obsidian插件]
 description: 在您的笔记中添加美丽的图像布局
-author: AI
-type: readme
+author: OS
+type: basic
 draft: false
 editable: false
-modified: 20230908234030
+modified: 20230914161145
 ---
 
 # Obsidian 插件：Image Layouts 简易图像横排工具

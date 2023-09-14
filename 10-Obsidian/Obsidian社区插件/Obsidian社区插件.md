@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230911105411
+modified: 20230914160448
 ---
 
 # Obsidian 社区插件
@@ -72,6 +72,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
+- [[obsidian-remember-file-state]]：
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
 - [[typewriter-mode]]：使光标所在行始终处于屏幕某处，降低用 Obsidian 写中长文时用鼠标滚动调整页面的频繁
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
@@ -80,6 +81,16 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-chat-view-qq]]：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
 - [[cm-show-whitespace-obsidian]]：在编辑器中显示空白和制表符
 - [[fantasy-name]]：插入一个随机组合出来的人名
+
+### 格式化
+
+描述格式化是指通过使用不同的格式技巧和标点符号排版等方式来提高文本的可读性和视觉效果，使得文本更清晰易读、更美观易懂，同时也提高了文本质量和可读性。在 Obsidian 中，有多种插件可以帮助用户对文本进行描述格式化。
+
+这些插件提供了不同的描述格式化功能，使用户能够更方便地将文本进行结构化、清晰化、排版美化等操作，提高文本质量和可读性。
+
+- [[obsidian-pangu]]：快速格式化文档
+- [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件
+- [[easy-typing-obsidian]]：自动格式化你的中英文标点输入格式
 
 ### 文字样式
 
@@ -150,7 +161,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-tasks-plugin]]：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
 - [[obsidian-checklist-plugin]]：将所有笔记待办清单合并到一个视图中，你可以在这个视图种管理和完成相关的任务
 - [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
-- [[obsidian-task-progress-bar]]
+- [[obsidian-task-progress-bar]]： 简洁易用的任务统计和完成查看工具
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
 - [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
 - [[obsidian-task-archiver]]：帮你快速归类待办任务
@@ -171,6 +182,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[code-block-copy]]：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板
 - [[obsidian-code-copy]]：为代码块添加一个复制按钮。该功能官方已经提供
 - [[code-styler]]：在阅读视图和编辑视图中对代码块和内联代码进行样式设置。
+- [[obsidian-better-codeblock]]：在阅读视图中为代码块添加标题、行号和折叠按钮
 
 ### 搜索
 
@@ -267,16 +279,18 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 而也有一些插件，提供了提供的多种视图模式有关，让你更加灵活的使用不同的视图模式，比如专注模式等。
 
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
+- [[workspaces-plus]]：快速管理不同工作区不同布局对应不同工作流
 - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
 - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
-- [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+- [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
 - [[editor-width-slider]]：允许你在状态栏中使用滑块来快速调整编辑器的行宽/栏宽
 - [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
 - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
-- [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+- [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
 - [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
 - [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
 - [[easy-toggle-sidebars_readme]]：便捷的控制侧边栏
+- [[obsidian-sidebar-toggler]]：Obsidian 侧边栏的更精细的控制。用于外部窗口管理器。
 
 ### Property&Front-matter
 
@@ -290,6 +304,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[metadata-menu]]：图形化方便修改 YAML 值的一个工具
 - [[obsidian-state-switcher]]：Yaml Manager 避免直接修改 Yaml 区字段，让 frontmatter 修改变得简单
 - [[frontmatter-alias-display]]：让你在文件名下直接看到别名
+- [[obsidian-metacopy]]：让你快速复制当前笔记的 Front-matter 的值。
 
 ### 自动化&效率
 
@@ -313,16 +328,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-markdown-formatting-assistant-plugin]]：提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示 OB 常用和所有命令提高工作效率。
 - [[text-extractor_readme]]：：在编辑器中扩展文本快捷键，运行 shell 命令和 python 脚本
 - [[obsidian-text-expander]]：在编辑器中扩展文本快捷键，运行 shell 命令和 python 脚本
-
-### 格式化
-
-描述格式化是指通过使用不同的格式技巧和标点符号排版等方式来提高文本的可读性和视觉效果，使得文本更清晰易读、更美观易懂，同时也提高了文本质量和可读性。在 Obsidian 中，有多种插件可以帮助用户对文本进行描述格式化。
-
-这些插件提供了不同的描述格式化功能，使用户能够更方便地将文本进行结构化、清晰化、排版美化等操作，提高文本质量和可读性。
-
-- [[obsidian-pangu]]：快速格式化文档
-- [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件
-- [[easy-typing-obsidian]]：自动格式化你的中英文标点输入格式
 
 ### 图标类
 
@@ -372,7 +377,8 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[obsidian-show-file-path]]：显示正在编辑的文件所在的路径
  - [[hidden-folder-obsidian]]：快速隐藏文件夹
  - [[obsidian-trash-explorer]]：让你可以管理 Obsidian 的 .trash 文件夹（也叫软件回收站），从中恢复和删除文件
- - [[edit-history]]：保留您的笔记的自动编辑历史记录，可以查看历史记录，与之对比或恢复以前的编辑。
+ - [[edit-history]]：保留您的笔记的自动编辑历史记录，可以查看历史记录，与之对比或恢复以前的编辑
+ - [[file-explorer-markdown-titles]]：在文件资源管理器中显示笔记的第一个 markdown 标题
 
 ### 附件管理工具/图片管理
 
@@ -404,7 +410,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[better-word-count]]：自定义统计全库字数，文件数等统计数据
 - [[file-explorer-note-count]]：增加文件数量统计功能
 - [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
-- [[obsidian-tracker]]
+- [[obsidian-tracker]]：
 
 ### 标签页管理
 
@@ -443,7 +449,8 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
 - [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据
-- [[open-weather]]：该插件以可配置的字符串格式返回 OpenWeather 的当前天气。
+- [[open-weather]]：该插件以可配置的字符串格式返回 OpenWeather 的当前天气
+- [[rss-reader]]：让你的 Obsidian 秒变 RSS 阅读器
 
 ### AI 相关
 

@@ -4,10 +4,10 @@ title: Obsidian 如何制作多栏布局
 tags: []
 description: 
 author: OS
-type: awesmoe
+type: awesome
 draft: false
 editable: false
-modified: 20230907114911
+modified: 202309140716127374911
 ---
 
 # Obsidian 如何制作多栏布局

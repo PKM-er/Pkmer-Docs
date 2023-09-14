@@ -67,4 +67,4 @@ Obsidian 作为 md 文档编辑器，写代码块本来就不是强项，无法�
 
 上述代码只局限于编辑模式下显示代码块行号，如果想在阅读模式下也显示行号，就需要借助专业的插件实现了。
 
-比如 [[obsidian-better-codeblock]]
+比如 [[10-Obsidian/Obsidian社区插件/obsidian-better-codeblock]]

@@ -1,45 +1,31 @@
 ---
-uid: 2023080322222770
-title: Obsidian 插件：【Readme】Metacopy & URL
-tags: ['obsidian插件', 'readme']
+uid: 20230822233946
+title: Obsidian 插件：Metacopy & URL 快速复制 Front-matter 属性内容
+tags:
+  - Obsidian插件
 description: 复制一个前文键的值。
-author: AI
-type: readme
+author: OS
+type: basic
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230914153850
 ---
 
-# Obsidian 插件：Metacopy & URL
+# Obsidian 插件：Metacopy & URL 快速复制 Front-matter 属性内容
+
+## 概述
+
+让你快速复制当前笔记的 Front-matter 的值。
 
 > [!Note] 插件名片
 > - 插件名称：Metacopy & URL
 > - 插件作者：Mara-Li
 > - 插件说明：复制一个前文键的值。
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/Lisandra-dev/obsidian-metacopy)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-metacopy)
 
-## 概述
-
-复制一个前文键的值。
-
-![Metacopy & URL](https://cdn.pkmer.cn/covers/obsidian-metacopy.gif!pkmer)
-
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Lisandra-dev/obsidian-metacopy/master/README.md)
->
-
----
-
-## Readme(翻译）
-
-下面是 [[obsidian-metacopy]] 插件的自述翻译
-
-建议使用此插件与 [Obsidian To Mkdocs](https://github.com/Mara-Li/mkdocs_obsidian_publish) 一起使用。
-
-# Obsidian — MetaCopy
+## 使用
 
 该插件的目的是快速获取前置元数据键的值。您可以在设置中设置多个值，例如：`key1, key2, key3, ...`
 
@@ -50,15 +36,10 @@ modified: 20230101000000
 
 该值将添加到您的剪贴板中，因此您可以将其粘贴到任何地方。
 
-是的。就是这样。
+> [!Tip] 提示
+> - 1.4.x 之后，Obsidian 带来了 Properties 的新特性，感觉有异曲同工之妙
 
-以下是插件的演示效果：
-
-![presentation.gif](docs/presentation.gif)
-
-# 链接创建者
-
-## 基本选项
+### 基本选项
 
 如果您想要创建一个指向页面的链接，您可以使用这个插件。
 
@@ -127,10 +108,6 @@ modified: 20230101000000
 
 要在 Metacopy 中使用 Obsidian2mkdocs，需要进行以下配置：
 
-![](docs/metacopy3.png)
-
-![](docs/metacopy2.png)
-
 此模板允许像在 Notion 或 Google Docs 中那样复制链接。
 
 文件模板如下：
@@ -141,23 +118,4 @@ category: something/like/that
 share: true
 ```
 
-[这是一个演示](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d)：
-[![点击查看视频！](docs/demo.gif)](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d)
----
-
 该插件的灵感来自于 [Copy Publish URL](https://github.com/kometenstaub/copy-publish-url)，但适用于所有链接（而不仅仅是发布链接）。
-
-# 🖥️ 开发
-
-- Fork / 克隆仓库
-- `npm install`
-- `npm run dev` (或 `npm run build`)
-
-# 安装
-
-1. 您可以使用指向存储库的链接来使用 [BRAT](https://github.com/TfTHacker/obsidian42-brat)。
-2. 您可以使用社区插件注册表。
-3. 同样，您可以手动安装插件，使用 [发布](https://github.com/Mara-Li/obsidian-metacopy/releases) 并将 obsidian-metacopy-x.x.xx.zip 解压缩到您的 `.obsidian/plugins` 文件夹中。
-
-
-
