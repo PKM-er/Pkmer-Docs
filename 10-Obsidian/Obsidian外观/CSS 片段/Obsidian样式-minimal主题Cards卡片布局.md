@@ -1,9 +1,12 @@
 ---
 uid: 20230905221421
 title: Obsidian 样式：minimal 主题 Cards 卡片布局
-tags: [css, CSS美化, 卡片样式]
-description: 
-author: 
+tags:
+  - css
+  - CSS美化
+  - 卡片样式
+description: minimal 主题 Cards 卡片布局
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
