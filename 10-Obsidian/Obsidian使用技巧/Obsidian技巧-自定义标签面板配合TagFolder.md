@@ -1,34 +1,35 @@
 ---
 uid: 20230907123156
-title: 自定义标签面板通过 TagFolder 来快速定位文件
-tags: []
-description: 
-author: 
+title: 自定义标签面板配合 TagFolder 来快速定位文件
+tags:
+  - Obsidian
+description: Obsidian自定义标签面板配合 TagFolder 来快速定位文件
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20230907123811
+modified: 20230916192026
 ---
 
-# 自定义标签面板通过 TagFolder 来快速定位文件
+# 自定义标签面板配合 TagFolder 来快速定位文件
 
-![[Pasted image 20230907122056.png]]
+![Pasted image 20230907122056](https://cdn.pkmer.cn/images/202309161921469.png!pkmer)
 
 ## 前言
 
-最近发现一款特别好用的标签插件：[Tag Folder](https://github.com/vrtmrz/obsidian-tagfolder)，可以像文件夹一样显示 Obsidian 的标签：
+最近发现一款特别好用的标签插件：[[obsidian-tagfolder]] ，可以像文件夹一样显示 Obsidian 的标签：
 
-![[Pasted image 20230907101457.png]]
+![Pasted image 20230907101457](https://cdn.pkmer.cn/images/202309161921047.png!pkmer)
 
 最主要的功能是通过它获取的标签文件列表可以快速定位到某一个文件，如何设置下图，不想 Obsidian 自带的标签点击后要搜索一会儿才会出结果，这个是直接列出存在标签的文件。
 
-![[Pasted image 20230907122138.png]]
+![Pasted image 20230907122138](https://cdn.pkmer.cn/images/202309161922526.png!pkmer)
 
 ### 关闭未标记文档归类到根目录下的选项
 
 默认设置是会把没有打标签的文档归类到根目录下，像我这种一开始没有怎么打标签的人，这种空白的标签的文档有很多，在设置里面可以把这个选项关了。
 
-![[Pasted image 20230907102245.png]]
+![Pasted image 20230907102245](https://cdn.pkmer.cn/images/202309161922891.png!pkmer)
 
 它会把没打标记的文档归类到 `_untagged` 的虚拟标签文件下，并不会真的给你的文档打上 `_untagged` 标签。
 
@@ -36,7 +37,7 @@ modified: 20230907123811
 
 不过如果你不喜欢这个 `_untagged` 标签，不想把它显示在界面下，或者不想让某个的标签显示到界面上时，同样可摘设置里面设置排除标签选项：
 
-![[Pasted image 20230907102657.png]]
+![Pasted image 20230907102657](https://cdn.pkmer.cn/images/202309161922226.png!pkmer)
 
 这里面的其他的一些选项就不逐一介绍了，插件本身设置选项就介绍的很清楚了。
 
@@ -44,16 +45,15 @@ modified: 20230907123811
 
 我主要关注的功能是这个功能："**点击标签时，在标签文件夹内搜索标签**"：
 
-![[Pasted image 20230907103018.png]]
+![Pasted image 20230907103018](https://cdn.pkmer.cn/images/202309161922594.png!pkmer)
 
 并且当你按住 `Ctrl` 键继续单击其他标签时，它会继续加上该标签达到多重标签筛选的效果，这就引起我的兴趣了，就是说如果我建立了一个类似标签面的存在，我只需要通过点击我想要的标签就可以快速筛选，我个人比较喜欢 Zotero 一行行排序起来的标签，不过 Obsidian 里面大多数是嵌套，排序的话就太多了，于是就想利用 Catllout 来对每个标签等级为一级的标签作为一个 Catllout 收集，然后下面就是它的子标签，且并不显示父标签，就是像 Zotero 那样直接单独显示一个子标签，实现结果如下：
 
-![[Pasted image 20230907112926.png]]
+![Pasted image 20230907112926](https://cdn.pkmer.cn/images/202309161922490.png!pkmer)
 
 ## dataviewjs 代码
 
-````
-```dataviewjs
+```js
 let tags = {};
 dv.pages("").file.etags.distinct()
   .filter(t => {
@@ -80,7 +80,6 @@ for (let firstLevel in tags) {
 
 dv.paragraph(result);
 ```
-````
 
 ### 标签面板的一些微调
 
@@ -138,15 +137,15 @@ cssclasses:
 
 第一次安装要手动下载它提供的 icon 包：
 
-![[Pasted image 20230907120422.png]]
+![Pasted image 20230907120422](https://cdn.pkmer.cn/images/202309161922230.png!pkmer)
 
 之后对着你要更改图标的笔记右键的下拉菜单中选择 `Change Icon` 在弹窗中你想要图标就行了
 
-![[Pasted image 20230907123810.png]]
+![Pasted image 20230907123810](https://cdn.pkmer.cn/images/202309161922370.png!pkmer)
 
 ### 推荐一个标签样式 by serenity 主题
 
-![[Pasted image 20230907122615.png]]
+![Pasted image 20230907122615](https://cdn.pkmer.cn/images/202309161922788.png!pkmer)
 
 该标签样式片段来自 [serenity 主题](https://github.com/Bluemoondragon07/Obsidian-Serenity)
 

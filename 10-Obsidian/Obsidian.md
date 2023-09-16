@@ -365,3 +365,5 @@ Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些�
 - Terry
 	- [[myZettelkasten 介绍]]
 	- [[从企业管理角度看待笔记方法]]
+- 熊猫别熬夜
+	- [[Obsidian技巧-自定义标签面板配合TagFolder]]：自定义漂亮的标签面板
