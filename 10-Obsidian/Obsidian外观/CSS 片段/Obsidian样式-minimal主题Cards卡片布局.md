@@ -18,21 +18,21 @@ modified: 20230905222338
 
 在 yaml 区用 cssclass 申明 `cards` 将笔记中的所有Dataview tables转换为卡片
 
-![[Pasted image 20230905215657.png]]
+![Pasted image 20230905215657](https://cdn.pkmer.cn/images/202309162149518.png!pkmer)
 
-![[Pasted image 20230905215717.png]]
+![Pasted image 20230905215717](https://cdn.pkmer.cn/images/202309162149607.png!pkmer)
 
 ### 表格排序 sortable
 
 要使用排序菜单，请安装 [Sortable](https://minimal.guide/plugins/sortable) 插件。这仅与使用数据视图表（而不是项目符号列表）的卡兼容
 
-![[148671518-660a5c8c-6c31-4db6-8fa9-d5e9b22b0b6f.gif]]
+![148671518-660a5c8c-6c31-4db6-8fa9-d5e9b22b0b6f](https://cdn.pkmer.cn/images/202309162149942.gif)
 
 ## list-cards 将有序列表转换为卡片
 
 在 yaml 区用 cssclass 申明 `list-cards` 将笔记中的所有无序列表转换为卡片
 
-![[Pasted image 20230905220849.png]]
+![Pasted image 20230905220849](https://cdn.pkmer.cn/images/202309162149987.png!pkmer)
 
 ### 卡片的布局设定
 
@@ -53,11 +53,11 @@ modified: 20230905222338
 
 例如你想要卡片布局每行只显示 3 排卡片，另外添加申明 `cards-cols-1` ：
 
-![[Pasted image 20230905221016.png]]
+![Pasted image 20230905221016](https://cdn.pkmer.cn/images/202309162150131.png!pkmer)
 
 ## style setting 里面的设置
 
-![[Pasted image 20230905220558.png]]
+![Pasted image 20230905220558](https://cdn.pkmer.cn/images/202309162150430.png!pkmer)
 
 ## Minimal 的 List-Card 样式
 
