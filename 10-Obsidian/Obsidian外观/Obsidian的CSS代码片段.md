@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230912181544
+modified: 20230918105313
 aliases: [Obsidian css代码片段]
 ---
 
@@ -68,6 +68,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### Properties（老称呼 Front-matter，metadata）
 
 - [[Obsidian样式-如何在阅读模式下隐藏Properties]]
+- [[Obsidian样式-修复banner和Properties高度冲突以及多余留白改善]]
 
 ### 状态栏
 
