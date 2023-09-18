@@ -367,7 +367,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[file-tree-alternative]]：提供了一个全新的增强型文件管理器
  - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
  - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
- - [[file-order]]：允许你快速给文件夹的文件加上数字编号
+ - [[file-order]]：允许你快速给文件夹和文件排序并添加数字编号
  - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
  - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
  - [[recent-files-obsidian]]：显示最近打开的文件列表
