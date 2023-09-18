@@ -1,16 +1,16 @@
 ---
 uid: 20230918104801
-title: Obsidian 样式：修复 banner 和 Properties 高度冲突，多余留白改善
+title: Obsidian 样式：修复 banner 和 Properties 高度冲突以及多余留白改善
 tags: []
-description: Obsidian 样式：修复 banner 和 Properties 高度冲突，多余留白改善
+description: Obsidian 样式：修复 banner 和 Properties 高度冲突以及多余留白改善
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230918105116
+modified: 20230918105309
 ---
 
-# Obsidian 样式：修复 banner 和 Properties 高度冲突，多余留白改善
+# Obsidian 样式：修复 banner 和 Properties 高度冲突以及多余留白改善
 
 ## 引言
 
