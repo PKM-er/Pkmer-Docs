@@ -1,7 +1,13 @@
 ---
-uid: 20230822233837
+uid: 20230822234037
 title: Obsidian 插件：Folder Note
-tags: [笔记文件处理, 界面相关, 搜索/排序, 导航工具, 自动化, obsidian插件]
+tags:
+  - 笔记文件处理
+  - 界面相关
+  - 搜索/排序
+  - 导航工具
+  - 自动化
+  - obsidian插件
 description: 为文件夹中生成卡片风格的文件夹概述。
 author: OS
 type: basic
