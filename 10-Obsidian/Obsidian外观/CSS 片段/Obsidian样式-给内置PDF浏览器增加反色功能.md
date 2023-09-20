@@ -2,12 +2,12 @@
 uid: 20230905145333
 title: Obsidian 样式：给内置 PDF 浏览器增加反色功能
 tags: []
-description: 
+description: Obsidian 样式：给内置 PDF 浏览器增加反色功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230905153816
+modified: 20230920232947
 ---
 
 # Obsidian 样式：给内置 PDF 浏览器增加反色功能

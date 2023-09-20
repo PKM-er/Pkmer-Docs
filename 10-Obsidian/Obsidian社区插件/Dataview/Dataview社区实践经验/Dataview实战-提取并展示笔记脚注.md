@@ -1,16 +1,16 @@
 ---
 uid: 20230702112223
-title: 基于 Dataview 提取并展示笔记脚注
+title: Dataview 实战：基于 Dataview 提取并展示笔记脚注
 tags: [dataview, 脚注, footnote]
 description: 基于 Dataview 提取并展示笔记脚注
 author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230723232856
+modified: 20230904135552
 ---
 
-# 基于 Dataview 提取并展示笔记脚注
+# Dataview 实战：基于 Dataview 提取并展示笔记脚注
 
 ## 功能概述
 

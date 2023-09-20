@@ -1,16 +1,16 @@
 ---
 uid: 20230804181810
-title: Obsidian 插件：Tracker
-tags: ['统计', 'obsidian插件', 'readme']
+title: Obsidian 插件：Tracker 图形化笔记的维护状态
+tags: [统计, obsidian插件, readme]
 description: 将笔记中的变化收集起来，并且提供不同预设的图形分析模板。
-author: AI,Brown Bear
+author: Brown Bear
 type: readme
 draft: false
 editable: false
-modified: 20230914141803
+modified: 20230918144504
 ---
 
-# Obsidian 插件：Tracker
+# Obsidian 插件：Tracker 图形化笔记的维护状态
 
 ## 概述
 

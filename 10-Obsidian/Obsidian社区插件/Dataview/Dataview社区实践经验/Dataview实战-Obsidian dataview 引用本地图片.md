@@ -1,16 +1,16 @@
 ---
 uid: 20230715090934
-title: Obsidian dataview 引用本地图片
+title: Dataview 实战：Obsidian dataview 引用本地图片
 tags: [obsidian, dataview, 本地图片]
 description: dataview引用本地图片
 author: 奇货队长
 type: basic
 draft: false
 editable: false
-modified: 20230715135221
+modified: 20230904135555
 ---
 
-# Obsidian dataview 引用本地图片
+# Dataview 实战：Obsidian dataview 引用本地图片
 
 ---
 

@@ -4,10 +4,10 @@ title: Obsidian 社区插件
 tags: [Obsidian, 社区插件]
 description: Obsidian 社区插件推荐，优秀插件介绍和使用方法
 author: OS
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20230914160448
+modified: 20230920221937
 ---
 
 # Obsidian 社区插件
@@ -139,6 +139,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
 - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
+- [[any-block]]：个简易而又强大的块编辑器，您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如 `列表转表格`
 - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样
 - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
 - [[obsidian-outliner]]：为 Obsidian 的大纲添加快捷操作
@@ -148,6 +149,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[list-style]]：在文本行内通过标准的 list style typs，来实现有序列表的多种不同的层级、样式的前缀符号样式
 - [[obsidian-tracker]]：将笔记中的变化收集起来，并且提供不同预设的图形分析模板
 - [[order-list]]：添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
+- [[obsidian-party]]：Obsidian 上的 party.js 实现。在您的笔记中创建五彩纸屑、火花，甚至自定义效果！
 
 ### 任务类&提醒
 
@@ -219,6 +221,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 关系图谱
 
 - [[graph-analysis]]：将图形分析能力添加到 Obsidian，此插件实现了一套算法，可以计算仓库中的笔记之间的关联关系。
+- [[obsidian-relation-pane]]：显示一个总结笔记间关系的面板
 
 ### 导出&分享&发布
 
@@ -243,6 +246,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
 - [[obsidian-frontmatter-tag-suggest]]：很好解决记忆标签和快速输入的问题，提供标签自动建议的方法，让你可以键入简单字母来快速联想出来对应的标签
 - [[multi-tag]]：一次向多个笔记添加标签。右键单击文件夹，或者选择多个笔记并右键单击所选内容
+- [[tag-word-cloud]]：展示你的标签/词/链接的词云图
 
 ### 表格类
 
@@ -410,7 +414,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[better-word-count]]：自定义统计全库字数，文件数等统计数据
 - [[file-explorer-note-count]]：增加文件数量统计功能
 - [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
-- [[obsidian-tracker]]：
+- [[obsidian-tracker]]：将笔记中的变化收集起来，并且提供不同预设的图形分析模板
 
 ### 标签页管理
 

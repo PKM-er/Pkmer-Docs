@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230712202716
+modified: 20230920231804
 ---
 
 # Obsidian 插件：Rich links 为链接增加美化样式
@@ -21,6 +21,7 @@ modified: 20230712202716
 > - 插件作者：Asad Dhamani
 > - 插件版本：1.2.0
 > - 插件说明：为你笔记中的链接，增加美化样式
+> - 插件分类：[' 链接处理 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/dhamaniasad/obsidian-rich-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-rich-links)
 
@@ -29,13 +30,6 @@ modified: 20230712202716
 ![image.png](https://cdn.pkmer.cn/images/773085333dca8bd0a8ba14d9a72baa9a_MD5.png!pkmer)
 
 可以将笔记中的 URL 转化为卡片预览样式，简单类似 Notion 一样。
-
-## 安装
-
-1. 进入 Obsidian 社区插件
-2. 搜索 Rich Links
-3. 安装
-4. 开启插件
 
 ## 设置
 
