@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230911145657
+modified: 20230920221103
 ---
 
 # Obsidian 插件：Multi-Column Markdown Obsidian 也能分栏，超级方便无需 CSS 代码
@@ -20,7 +20,7 @@ modified: 20230911145657
 > - 插件名称：Multi-Column Markdown
 > - 插件作者：ckRobinson
 > - 插件说明：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
-> - 插件分类：[' 界面相关 ', ' 编辑工具 ', ' 美化 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：[' 界面相关 ', ' 编辑工具 ', ' 美化 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/ckRobinson/multi-column-markdown)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?multi-column-markdown)
 
@@ -77,9 +77,79 @@ modified: 20230911145657
 - 每一栏后面都要跟一条结束语句<kbd>=== end-column ===</kbd>
 - 最后一栏内容结束时没有此<kbd>=== end-column ===</kbd>语句，而是跟此<kbd>=== multi-column-end</kbd>语句
 
+## 语法参考
+
+### 区域起始标签
+
+每个多列区域必须以以下之一开始：
+
+> \```start-multi-column \
+> ID: A_unique_region_ID\
+> \```
+
+或
+
+> \```multi-column-start \
+> ID: A_unique_region_ID_1\
+> \```
+
+或
+
+> ::::: {.columns id=A_unique_region_ID_2}\
+> *(有关 Pandoc 的围栏 div 语法的更多信息，请参见下文。)*
+
+在定义起始标签之后，必须为该区域声明一个 ID。如果同一文档中有多个区域，则使用 ID 来区分它们。
+
+每个 ID 在同一文档中必须是唯一的，否则可能会出现意外的渲染问题。可以在多个文档中使用相同的 ID，以便例如在用于您的周期性笔记的模板中使用 ID“dailynote”。
+
+通过使用“插入多列区域”命令（更多信息请参见下文），起始 ID 将预先设置为一个随机生成的 4 个字符的字符串。
+
+您还可以使用“修复缺失的 ID”命令，在当前打开的文档中搜索并为所有缺少 ID 的区域附加随机 ID。
+
+### 有效的语法标签
+
+每种标签类型可以使用以下选项进行定义：
+
+#### 开始多列区域
+
+> \```start-multi-column\
+> ID: A_unique_region_ID\
+> *任何其他设置标志（见下文）*\
+> \```
+
+> \```multi-column-start\
+> ID: A_unique_region_ID_2\
+> *任何其他设置标志（见下文）*\
+> \```
+
+> ::::: {.columns id=A_unique_region_ID_2 *任何其他设置标志（见下文）*}
+
+#### 结束多列区域
+
+\--- end-multi-column\
+
+\--- multi-column-end\
+
+> :::\
+> *(只有在使用 Pandoc 围栏 div 语法开始一个区域时，此结束区域语法才有效。)*
+
+#### 结束一列
+
+\--- column-end \---\
+
+\--- end-column \---\
+
+\--- column-break \---\
+
+\--- break-column \---\
+
+> ::: columnbreak\
+> :::\
+> *(在列断点后需要换行。)*
+
 ## 已知问题
 
-### **实时预览**
+### 实时预览
 
 - 任何文件交互都会导致嵌入内容重新加载。
     - 所有这类问题都是由于 Obsidian 在每次文件交互（点击、按键等）时重新绘制整个编辑器引起的。重新绘制会导致所有嵌入内容重新加载，使它们在屏幕上闪烁。目前还没有解决这个问题的方法。
@@ -88,11 +158,11 @@ modified: 20230911145657
 - 在文档内点击会导致文档在重新定位到光标位置之前闪烁。
 - 在编辑器外点击，然后再点击回来，可能会在某些情况下导致视口跳到编辑器底部。
 
-### **代码块开始标签**
+### 代码块开始标签
 
 - 在同时打开同一文档的编辑视图和阅读视图时，使用代码块开始标签会导致渲染问题。
 
-### **次要渲染问题**
+### 次要渲染问题
 
 - 任何列中的一般渲染问题：
     - 如果列以意外的方式呈现其内容，请尝试切换到一个新文件，然后再切换回来，这通常可以解决问题。

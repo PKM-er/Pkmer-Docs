@@ -2,12 +2,12 @@
 uid: 20230912181236
 title: Obsidian 样式：点击图片长按放大
 tags: [Obsidian, Prism, CSS, 图片放大]
-description: 
+description: Obsidian 样式：点击图片长按放大
 author: 宝藏彬少
 type: other
 draft: false
 editable: false
-modified: 20230912181524
+modified: 20230920233055
 ---
 
 # Obsidian 样式：点击图片长按放大

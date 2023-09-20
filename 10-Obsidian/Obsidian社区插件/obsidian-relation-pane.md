@@ -1,16 +1,16 @@
 ---
 uid: 20230902162908
-title: relation-pane：显示 与当前笔记相关的笔记的信息
+title: Obsidian 插件：Relation Pane 显示与当前笔记相关的笔记的信息
 tags: [插件, Obsidian, 统计]
 description: relation-pane：显示 与当前笔记相关的笔记的信息
 author: Nathaniel
 type: basic
 draft: false
 editable: false
-modified: 20230914002059
+modified: 20230918144336
 ---
 
-# relation-pane：显示 与当前笔记相关的笔记的信息
+# Obsidian 插件：Relation Pane 显示与当前笔记相关的笔记的信息
 
 > [!Note] 插件名片
 > - 插件名称：Relation Pane
@@ -40,7 +40,7 @@ modified: 20230914002059
 
 ## 使用
 
-调用命令面板打开插件面板`Ctrl + p ` 输入 `Relation-Pane: Open relation view`
+调用命令面板打开插件面板 `Ctrl + p ` 输入 `Relation-Pane: Open relation view`
 
 ![](https://cdn.pkmer.cn/images/202309140021212.png!pkmer)
 
