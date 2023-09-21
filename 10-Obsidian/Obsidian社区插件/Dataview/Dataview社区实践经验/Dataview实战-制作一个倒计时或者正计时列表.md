@@ -19,7 +19,7 @@ Dataview 是你进阶使用 Obsidian 中不可缺少的一步，通常我们会�
 上面这些，通通是用的 Dataview 的行内查询 (Inline DQL) 实现的，所有的时间记录都会自动修改，不需要手动修改。
 
 > [!warning] 注意
-> 使用行内查询之前，需要在 Dataview 设置中打开 Enable Inline Queries 设置。你可以在 [[20 - 四种查询方式|Dataview 的四种查询方式]] 中查看行内查询的简单介绍和语法，可以在 [[Dataview语法实战-行内 DQL 示例]] 中参看我们提供的一些简单的使用方向。
+> 使用行内查询之前，需要在 Dataview 设置中打开 Enable Inline Queries 设置。你可以在 [[20 - 四种查询方式|Dataview 的四种查询方式]] 中查看行内查询的简单介绍和语法，可以在 [[Dataview语法实战-行内DQL示例]] 中参看我们提供的一些简单的使用方向。
 
 ## 源码
 

@@ -1,13 +1,13 @@
 ---
 uid: 20230914144952
 title: Dataview 语法实战：行内 DQL 示例
-tags: [Obsidian, obsidain, 示例]
+tags: [Obsidian, Dataview, 示例]
 description: 介绍了 Dataview 的一些基础的 Inline DQL 的使用实例
 author: 
 type: other
-draft: fl731
+draft: false
 editable: false
-modified: 20230918122541
+modified: 20230921110016
 ---
 
 # Dataview 语法实战：行内 DQL 示例
