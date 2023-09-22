@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230612115653
+modified: 20230921161801
 ---
 
 # Obsidian 插件：Obsidian Columns 支持分栏书写美化你的笔记样式
@@ -21,10 +21,13 @@ modified: 20230612115653
 > - 插件版本：0.12.0
 > - 插件作者：Trevor Nichols
 > - 插件描述：支持分栏书写美化你的笔记样式
+> - 插件分类：[' 编辑器 ', ' 美化 ', ' 界面相关 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/tnichols217/obsidian-columns)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-columns)
 
 ## 样式&效果
+
+![Obsidian Columns](https://cdn.pkmer.cn/covers/obsidian-columns.PNG!pkmer)
 
 - 允许你在 Obsidian 中创建多列、多栏。
 - 添加一种特殊的列表语法来创建列。
@@ -65,10 +68,21 @@ modified: 20230612115653
 
 ![image.png](https://cdn.pkmer.cn/images/20230612113735.png!pkmer)
 
-- 可以通过在 col-md 名称后添加宽度来调整 col-md 标注的宽度
-- 双栏
+要使用 col-md callout，请在 col callout 中创建一个 col-md callout
 
-````语法
+```
+> [!col]
+> A col callout
+>
+>> [!col-md]
+>> The second column of the callout
+>> 
+>> More lines on the second column of the callout
+```
+
+- 可以通过在 col-md 名称后添加宽度来调整 col-md 标注的宽度
+
+````
 > [!col]
 > A col callout
 >

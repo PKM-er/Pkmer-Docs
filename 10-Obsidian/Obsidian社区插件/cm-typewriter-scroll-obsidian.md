@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230715000643
+modified: 20230921150747
 ---
 
 # Obsidian 插件：Typewrite scroll 像打字机一样写笔记
@@ -19,20 +19,14 @@ modified: 20230715000643
 > [!Note] 插件名片
 >- 插件名称：Typewriter Scroll Obsidian Plugin
 >- 插件作者：death_au
->- 插件说明：打字机风格的滚动，使视图保持在编辑器的中心。
+>- 插件说明：打字机风格的滚动，使视图保持在编辑器的中心
+>- 插件分类：[' 编辑工具 ', ' 界面相关 ', 'obsidian 插件 ']
 >- 插件项目地址：[点我跳转](https://github.com/deathau/cm-typewriter-scroll-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cm-typewriter-scroll-obsidian)
 
 ## 效果&特性
 
 ![](https://cdn.pkmer.cn/images/GIF%202023-4-30%209-57-43.gif!pkmer)
-
-## 安装
-
-1. 进入 Obsidian 社区插件
-2. 搜索 typewrite scroll
-3. 安装
-4. 开启插件
 
 ## 使用
 
@@ -46,3 +40,7 @@ modified: 20230715000643
 开关时默认打开的，正常使用即可。
 
 如果发现不能使用，请检查是否关闭了：Toggle Typewriter Scrolling。
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=831190741&bvid=BV1g34y1N7AY&cid=1271636138&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
