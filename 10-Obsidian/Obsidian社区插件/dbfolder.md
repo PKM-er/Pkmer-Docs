@@ -1,7 +1,8 @@
 ---
-uid: 20230822233837
+uid: 20230822234742
 title: Obsidian 插件：DB Folder
-tags: ['obsidian插件']
+tags:
+  - obsidian插件
 description: 文件夹具有从类似数据库的文件夹中存储和检索数据的能力
 author: OS
 type: basic

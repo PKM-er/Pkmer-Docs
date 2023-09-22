@@ -1,13 +1,13 @@
 ---
-uid: 2023080322223819
-title: Obsidian 插件：【Readme】Mixa
+uid: 20230822233837
+title: Obsidian 插件：Mixa
 tags: ['obsidian插件', 'readme']
 description: 直接从Obsidian发布您的笔记和博客文章到Mixa。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20230922100601
 ---
 
 # Obsidian 插件：Mixa
@@ -84,7 +84,7 @@ draft: true
 
 您专注于内容，我们来处理其他事务
 
-在您自己的域名下创建一个快速、美观且具有出色 SEO 的网站。将您的笔记或博客文章带来，并在几秒钟内发布。使用实时预览编辑器启用您需要的功能。无需编码。使用您喜欢的工具（如 Obisidian）进行写作。
+在您自己的域名下创建一个快速、美观且具有出色 SEO 的网站。将您的笔记或博客文章带来，并在几秒钟内发布。使用实时预览编辑器启用您需要的功能。无需编码。使用您喜欢的工具（如 Obsidian）进行写作。
 
 ### 一键发布
 
