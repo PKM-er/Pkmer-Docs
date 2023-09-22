@@ -1,7 +1,11 @@
 ---
-uid: 20230822233837
+uid: 20230822234747
 title: Obsidian 插件：Obsidian Badge
-tags: [任务管理, 美化, 效率, obsidian插件]
+tags:
+  - 任务管理
+  - 美化
+  - 效率
+  - obsidian插件
 description: 可以自定义一个进度样式，方便你传入任何地方。需要了解下简单的语法规则。
 author: OS
 type: basic

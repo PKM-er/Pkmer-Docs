@@ -1,7 +1,10 @@
 ---
-uid: 20230822233837
+uid: 20230822234744
 title: Obsidian 插件：ABC Music Notation 让 Obsidian 变成乐谱编辑器
-tags: [音乐相关, Obsidian, Obsidian插件]
+tags:
+  - 音乐相关
+  - Obsidian
+  - Obsidian插件
 description: 通过abcjs使用ABC音乐符号直接从代码块渲染乐谱
 author: OS
 type: basic

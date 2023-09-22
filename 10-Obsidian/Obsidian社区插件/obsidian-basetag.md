@@ -1,7 +1,9 @@
 ---
-uid: 20230822233837
+uid: 20230822234749
 title: Obsidian 插件：Base Tag Renderer 嵌套标签显示缩略名
-tags: ['obsidian插件', 'readme']
+tags:
+  - obsidian插件
+  - readme
 description: 这个插件在预览模式下渲染标签的基本名称。
 author: AI
 type: readme

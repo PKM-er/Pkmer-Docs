@@ -1,5 +1,5 @@
 ---
-uid: 20230822233837
+uid: 20230822234752
 title: Obsidian 插件：Zen 聚焦协作的禅模式插件
 tags: [obsidian插件]
 description: 让你的 Obsidian 进入到禅模式
@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230921163808
+modified: 20230922105137
 ---
 
 # Obsidian 插件：Zen 聚焦协作的禅模式插件

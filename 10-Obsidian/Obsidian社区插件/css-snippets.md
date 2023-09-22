@@ -1,7 +1,11 @@
 ---
-uid: 20230822233837
+uid: 20230822234740
 title: Obsidian 插件：CSS Snippet Manager
-tags: [样式工具, 美化, obsidian插件, readme]
+tags:
+  - 样式工具
+  - 美化
+  - obsidian插件
+  - readme
 description: 用于加载自定义css片段
 author: OS
 type: basic
