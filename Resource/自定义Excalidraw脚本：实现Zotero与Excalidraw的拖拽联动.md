@@ -46,6 +46,23 @@ modified: 20230929013723
 
 ### Zotero to Excalidraw 脚本
 
+该脚本的中心思想就是通过拖拽的文本，定位到图片名，从而复制该图片到 OB 的笔记库中，并对拖拽的文本进行处理，去除多余的空格以及全角转半角，拆分为 zotero_txt、zotero_author、zotero_link、zotero_comment、zotero_image 这 5 个文本，自定义组合：
+
+- 如果拖拽文本包含 "zotero://" 则进行拆分组合，否则只对文本进行格式化处理
+	- 判断 zotero_txt 是否包含文本？
+		- True：为文本标注，组合文本为需要的格式
+			- 判断 zotero_comment、zotero_author 是否包含文本？
+				- True：包含文本，即添加
+				- False：为空值
+			- 组合 zotero_txt、zotero_author、zotero_comment
+			- 添加组合文本并带有回链 zotero_link 到 Excalidraw 画板
+		- False：为图片标注
+			- 通过 match_zotero_image 来图片名 zotero_image
+				- 复制 Zotero 的图片到指定文件夹
+					- 等待 0.2 秒，来复制文件
+
+> [!tip]+ 如果你是拖拽替他文本，该脚本可以帮你格式化处理一下的
+
 ```javascript
 function processText(text) {
     // 替换英文之间的多个空格为一个空格
@@ -57,7 +74,7 @@ function processText(text) {
     // 将全角字符转换为半角字符
     text = text.replace(/[\uFF01-\uFF5E]/g, function (match) { return String.fromCharCode(match.charCodeAt(0) - 65248); });
 
-    // // 在中英文之间添加空格
+    // // 在中英文之间添加空格，由于Excalidraw中中英文添加空格会导致换行，所以不推荐处理
     // text = text.replace(/([\u4e00-\u9fa5])([a-zA-Z])/g, '$1 $2');
     // text = text.replace(/([a-zA-Z])([\u4e00-\u9fa5])/g, '$1 $2');
 
