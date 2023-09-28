@@ -59,7 +59,8 @@ modified: 20230929013723
 		- False：为图片标注
 			- 通过 match_zotero_image 来图片名 zotero_image
 				- 复制 Zotero 的图片到指定文件夹
-					- 等待 0.2 秒，来复制文件
+					- 等待 0.2 秒来复制文件
+			- 添加图片并带有回链 zotero_link 到 Excalidraw 画板
 
 > [!tip]+ 如果你是拖拽替他文本，该脚本可以帮你格式化处理一下的
 
