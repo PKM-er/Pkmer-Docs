@@ -21,7 +21,7 @@ modified: 20230929013723
 
 > PS：本文使用的的是 Zotero-7.0.0-beta.24，按理说 Zotero 6 也可以正常使用。
 
-![[1ab745a1e779aca8a1c4ca30eb1b6acf.gif]]
+![[GIF-230929 092151.gif]]
 
 ## 实现过程
 
