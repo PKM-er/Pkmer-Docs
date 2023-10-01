@@ -48,5 +48,5 @@ modified: 20230604172806
 > [!Tip] 相关推荐
 > - [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
 > - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
-> - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+> - [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
 > - [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏

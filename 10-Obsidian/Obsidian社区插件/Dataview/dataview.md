@@ -7,7 +7,7 @@ author: Windysoul,Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810174330
+modified: 20230905142828
 ---
 
 # Obsidian 插件：Dataview
@@ -39,7 +39,10 @@ Dataview 插件的用途主要有三个方面。
 
 本系列文章大致分为三个部分：
 
-- [[Dataview基本语法|开篇-Dataview基本语法]]；
+- [[Dataview语法参考库]]
+	- 本教程涉及的文档结构和 Front-matter 信息
+	- 可以参考放在自己的仓库中用作练习
+- [[Dataview基本语法|开篇-Dataview基本语法]]
 	- [[01 - 简单示例]]
 	- [[10 - Metadata 元数据]]
 	- [[11 - 添加元数据至文件]]
@@ -57,7 +60,7 @@ Dataview 插件的用途主要有三个方面。
 	- [[31 - DQL 与 SQL 的异同]]
 	- [[32 - ISO 8601]]
 	- [[33 - YAML 基础]]
-- [[Dataview语法实战|进阶-Dataview语法实战]]；
+- [[Dataview语法实战|进阶-Dataview语法实战]]：
 	- [[汇集主题--关于笔记的创建日期和主题的汇集]]
 	- [[添加某一主题笔记列表--表格用法]]
 	- [[添加某一主题笔记列表--基本用法]]
@@ -67,7 +70,7 @@ Dataview 插件的用途主要有三个方面。
 	- [[添加相同主题笔记列表--进阶用法]]
 	- [[添加相同主题笔记列表--完全相同]]
 	- [[添加相同主题笔记列表--指定月份]]
-- [[Dataview社区实践经验|应用-Dataview社区实践经验]]；
-	- [[基于 Dataview 提取并展示笔记脚注]]
-	- [[Obsidian dataview 引用本地图片]]
-	- [[DataView在table视图下标签出现错位断裂的修复]]
+- [[Dataview社区实践经验|应用-Dataview社区实践经验]]：
+	- [[Dataview实战-提取并展示笔记脚注]]
+	- [[Dataview实战-Obsidian dataview 引用本地图片]]
+	- [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]

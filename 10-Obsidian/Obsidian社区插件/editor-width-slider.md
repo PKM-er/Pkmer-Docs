@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230720003426
+modified: 20230911161813
 ---
 
 # Obsidian 插件：Editor Width Slider 帮你快速自定义笔记的栏宽
@@ -30,7 +30,7 @@ Editor Width Slider 就是为了解决这个，提供了一个简易的滑块，
 
 ## 效果&特性
 
-![cover](https://cdn.pkmer.cn/images/GIF%202023-7-19%2023-57-47.gif!pkmer)
+![Obsidian 插件：Editor Width Slider 帮你快速自定义笔记的栏宽|cover](https://cdn.pkmer.cn/images/GIF%202023-7-19%2023-57-47.gif!pkmer)
 
 - 使用状态栏中的滑块调整编辑器的行宽。
 - 增加或减少行宽以提升自定义编辑/阅读体验。

@@ -16,7 +16,7 @@ modified: 20230531200028
 > - 插件名称：Cycle through Panes
 > - 插件作者：Vinadon & phibr0
 > - 插件说明：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样！
-> - 插件分类：界面相关
+> - 插件分类：[' 界面相关 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我访问](https://github.com/phibr0/cycle-through-panes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cycle-through-panes)
 

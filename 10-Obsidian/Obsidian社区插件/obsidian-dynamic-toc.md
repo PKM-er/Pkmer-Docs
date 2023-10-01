@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230725233649
+modified: 20230920232615
 ---
 
 # Obsidian 插件： Dynamic ToC 为你的笔记创建目录
@@ -20,6 +20,7 @@ modified: 20230725233649
 > - 插件名称：Obsidian Dynamic ToC
 > - 插件作者：Aidurber
 > - 插件说明：帮助你在笔记中生成对应的目录
+> - 插件分类：[' 编辑工具 ', ' 目录/标题 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/Aidurber/obsidian-plugin-dynamic-toc)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dynamic-toc)
 > - 优点：自动将你新输入的标题，整合到目录中
@@ -29,6 +30,8 @@ modified: 20230725233649
 >- 该插件下述功能，在 Obsidian 1.1.16 上运行稳定。
 
 ## 效果&特性
+
+![Dynamic Table of Contents](https://cdn.pkmer.cn/covers/obsidian-dynamic-toc.png!pkmer)
 
 ## 使用方法
 

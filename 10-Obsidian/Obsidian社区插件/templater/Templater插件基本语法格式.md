@@ -1,13 +1,13 @@
 ---
 uid: 20230816104618
 title: Templater 基本语法格式
-tags: [Obsdiain, 插件, Templater, 基本语法格式]
+tags: [Obsidian, 插件, Templater, 基本语法格式]
 description: Templater插件基本语法格式
 author: Brown Bear
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230816110059
+modified: 20230914161203
 ---
 
 # Templater 基本语法格式

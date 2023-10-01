@@ -1,7 +1,7 @@
 {
     "id": "pkmer",
     "name": "PKMer",
-    "version": "0.5.9",
+    "version": "0.6.3",
     "minAppVersion": "1.3.5",
     "description": "A marketplace of third-party plugins and themes developed by Obsidian enthusiasts in China to enhance the experience of using Obsidian in China.",
     "author": "PKMer(windily-cloud&cumany)",

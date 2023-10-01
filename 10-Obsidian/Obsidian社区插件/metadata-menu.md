@@ -7,7 +7,7 @@ author: 宏沉一笑
 type: basic
 draft: false
 editable: false
-modified: 20230604171021
+modified: 20230911162622
 ---
 
 # Obsidian 插件：Metadata Menu 图形化的 Frontmater 管理器
@@ -32,6 +32,26 @@ Metadata Menu 插件是基于 dataview 的一个功能增强的插件。它基�
 在五个配置项中，我们只关注 `Preset Fields settings`。在这里面定义的功能，可以在任意一个文档中使用。
 
 现在我们添加一个字段，来进行使用。
+
+### 字段类型
+
+元数据菜单为每个字段提供了一个类型。
+
+可用的类型有：
+
+- `Input`（自由文本）：如果没有为该字段设置任何内容（参见＃字段设置），则默认应用此类型。它将 `接受任何值`
+- `Boolean`：可以 `接受true或false` 或 null 值的字段
+- `Number`：可以 `接受数字`（浮点数）值，可选地在范围（`min`，`max`）内，并且可以通过 `step` 值（默认为 1）进行增加/减少
+- `Select`：可以从列表中 `接受单个值` 的字段
+- `Multi`：可以从列表中 `接受多个值` 的字段
+- `Cycle`：将从列表中 `循环显示值` 的字段
+- `File`：将从您的保险库中 `接受文件链接` 的字段
+- `MultiFile`：将 `接受多个链接` 的字段
+- `Date`：将 `接受日期` 的字段
+- `Lookup`：将 `接受查找查询` 的字段
+- `Canvas`：将根据画布中的链接 `更新` 的字段
+- `Canvas Group`：将根据画布中的组 `更新` 的字段
+- `Canvas Group Link`：将根据画布中的组链接 `更新` 的字段
 
 ## 全局属性修改
 

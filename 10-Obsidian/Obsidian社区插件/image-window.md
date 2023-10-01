@@ -40,5 +40,5 @@ modified: 20230531200211
 
 > [!Tip] 相关推荐
 > - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
-> - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+> - [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
 > - [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏

@@ -18,5 +18,6 @@
   "defaultViewMode": "source",
   "autoPairMarkdown": false,
   "focusNewTab": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "propertiesInDocument": "source"
 }

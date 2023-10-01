@@ -4,10 +4,10 @@ title: Obsidian 插件：Local image plus 将网络图片自动变为本地
 tags: [Obsidian, 插件, 图片本地化, 图片, 自动化]
 description: Obsidian 插件：Local image plus 将网络图片自动变为本地
 author: OS
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230604174020
+modified: 20230914154049
 ---
 
 # Obsidian 插件：Local image plus 将网络图片自动变为本地
@@ -28,6 +28,18 @@ modified: 20230604174020
 该插件是 Local image 插件的进化版。在笔记中查找指向外部图像的所有链接，在本地下载并保存图像，最后调整笔记中的链接以指向本地图像文件。
 
 ## 使用
+
+该插件会在你的笔记中找到所有外部图片链接，下载并保存图片到本地，最后调整笔记中的链接指向本地图片文件。
+
+例如，我们最初在笔记中有这样的标记：
+
+    ![](https://picsum.photos/200/300.jpg)
+
+本地图片插件会下载图片 300.jpg，并保存在 vault 的 **media** 子目录中，然后更改标记，使其指向本地存储的图片：
+
+    ![](media/300.jpg)
+
+当你从网页中复制粘贴部分内容并希望将图片保存在你的 vault 中时，这非常有用。因为外部链接可能会在未来被移动或过期。
 
 ### 自动方式
 

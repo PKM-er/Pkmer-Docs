@@ -1,7 +1,7 @@
 ---
 uid: 20230821175434
 title: Zotero 插件：Zotero Tag 插件介绍
-tags: []
+tags: [zotero插件]
 description: Zotero 插件：Zotero Tag 插件介绍
 author: YG
 type: other

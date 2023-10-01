@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174459
+modified: 20230914150425
 ---
 
 # Obsidian 插件：Sortable 为表格提供简单的排序功能
@@ -20,12 +20,17 @@ modified: 20230604174459
 > - 插件名称：Sortable
 > - 插件作者：Alexandru Dinu
 > - 插件说明：提供搜索 Obsidian 设置和插件设置选项的能力
+> - 插件分类：[' 表格 ', ' 搜索/排序 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-sortable)
 
 ## 效果&特性
 
 ![GIF 2023-5-7 15-25-04.gif](https://cdn.pkmer.cn/images/GIF%202023-5-7%2015-25-04.gif!pkmer)
+
+- 支持的数据类型：数字、字符串、[ISO日期](https://regex101.com/r/RfMAcx/1)。自定义比较函数是路线图的一部分（参见此 [问题](https://github.com/alexandru-dinu/obsidian-sortable/issues/12)）。
+- 不会更改 Markdown 源代码。排序是通过重新排列表格行（即 `tr` 元素）来完成的。
+- 没有依赖项。
 
 ## 使用
 

@@ -20,6 +20,7 @@ modified: 20230603011405
 > - 插件名称：Convert url to preview (iframe)
 > - 插件作者：Hachez Floran
 > - 插件说明：将任何 URL 转换为网页预览插入到笔记中
+> - 插件分类：[' 转换工具 ', ' 链接处理 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/FHachez/obsidian-convert-url-to-iframe)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?convert-url-to-iframe)
 

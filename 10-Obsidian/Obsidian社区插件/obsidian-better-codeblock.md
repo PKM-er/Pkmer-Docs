@@ -7,22 +7,28 @@ author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230714125758
+modified: 20230914160055
 ---
 
 # Obsidian 插件:Better CodeBlock 代码块显示增强
+
+## 概述
+
+Obsidian 的代码块一般无法显示具体行号，虽然通过 css 手段可以 [[Obsidian样式-编辑模式代码块显示行号|编辑模式下显示代码块行号]]，阅读模式下就需要借助插件实现了。better codeblock 插件就可以在阅读视图中为代码块添加标题、行号和折叠按钮，增强了代码块的显示效果。
 
 > [!Note] 插件名片
 > - 插件名称：Better CodeBlock
 > - 插件作者：StarGrey
 > - 插件说明：在阅读视图中为代码块添加标题、行号和折叠按钮
-> - 插件分类：0
 > - 插件项目地址：[点我访问](https://github.com/stargrey/obsidian-better-codeblock)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-better-codeblock)
 
-## 概述
+该插件的大部分代码和灵感来自以下两个插件（感谢他们的贡献），图标来自 Admonition。
 
-Obsidian 的代码块一般无法显示具体行号，虽然通过 css 手段可以 [[Obsidian样式-编辑模式代码块显示行号|编辑模式下显示代码块行号]]，阅读模式下就需要借助插件实现了。better codeblock 插件就可以在阅读视图中为代码块添加标题、行号和折叠按钮，增强了代码块的显示效果。
+- <https://github.com/tadashi-aikawa/obsidian-embedded-code-title>
+- <https://github.com/nyable/obsidian-code-block-enhancer>
+
+我将两个插件的代码合并并修改了其中一些功能。
 
 ## 插件设置项
 
@@ -43,4 +49,7 @@ Obsidian 的代码块一般无法显示具体行号，虽然通过 css 手段可
 - 用于设置默认折叠 `"FOLD"`
 ![72.gif](https://cdn.pkmer.cn/images/202307141244548.gif!pkmer)
 
-已知问题，如果遇到显示行号错位，重新切换下预览模式即可解决
+### 已知问题
+
+- 有时会出现自动换行错误，可以通过切换预览模式来解决
+- PDF 导出不能自动换行
