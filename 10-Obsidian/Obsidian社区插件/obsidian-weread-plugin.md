@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230710232732
+modified: 20230911121000
 ---
 
 # Obsidian 插件：Weread 让 Obsidian 和你的微信阅读联动
@@ -16,7 +16,17 @@ modified: 20230710232732
 
 Obsidian 微信读书插件是一个社区插件，用来同步微信读书中书籍 `元信息`、`高亮标注`，`划线感想`、`书评` 等，并将这些信息转换为 markdown 格式保存到 Obsidian 的文件夹中，初次使用，如果笔记数量较多，更新会比较慢，后面再去更新的时候只会更新 `划线数量` 或者 `笔记数量` 有变化的书籍，一般速度很快。
 
-## 功能
+> [!Note] 插件名片
+> - 插件名称：Weread Plugin
+> - 插件作者：hank zhao
+> - 插件说明：可以让你的 Obsidian 和微信阅读联动，获取相关阅读标注，笔记信息。
+> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 信息收集 ', 'obsidian 插件 ', 'readme']
+> - 项目地址：[点我访问](https://github.com/zhaohongxuan/obsidian-weread-plugin)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-weread-plugin)
+
+## 效果&特性
+
+![Weread Plugin](https://cdn.pkmer.cn/covers/obsidian-weread-plugin.png!pkmer)
 
 - 同步书籍元数据例如：书籍封面，作者、出版社、ISBN，出版时间等
 - 同步微信读书的高亮划线

@@ -1,7 +1,7 @@
 ---
 uid: 20230721103405
 title: Zotero 插件：茉莉花（jasminum）
-tags: [zotero]
+tags: [zotero插件]
 description: 
 author: L0o0
 type: other

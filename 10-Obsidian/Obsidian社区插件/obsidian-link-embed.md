@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230608211708
+modified: 20230912172951
 ---
 
 # Obsidian 插件：Link Embed 帮你将网页 URL 转换为嵌入预览卡片样式
@@ -54,6 +54,10 @@ url: 'https://www.baidu.com'
 | JSONLink           | ⭐⭐⭐       | ⭐              | ⭐⭐⭐     | 无限制       |
 | MicroLink(Default) | ⭐⭐⭐       | ⭐⭐⭐         | ⭐⭐        | 50 次/天      |
 | Iframely           | ⭐⭐          | ⭐⭐           | ⭐          | 1000 次/月    |
+
+**注意** 从插件 2.0.0 版本开始，嵌入使用 `MarkdownCodeBlockProcessor` 进行渲染，避免了扩展 HTML 块。您可以使用设置中的 `Convert` 按钮将旧的嵌入转换为新的代码块。
+
+PS：如果您知道其他提供免费 API 供用户从 URL 中获取元数据的网站，请告诉我。有了您的帮助，该插件可以更加强大。
 
 >[!Tip] 提示
 >- 你或许发现了，这个插件和我们介绍的 [[auto-card-link]] 很相似

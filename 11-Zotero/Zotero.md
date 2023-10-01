@@ -7,7 +7,7 @@ author: windingwind,Northword,汪汪,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20230825145903
+modified: 20230905010401
 ---
 
 # Zotero 是什么？为什么使用 Zotero？
@@ -46,6 +46,12 @@ Zotero 兼具简单的操作方式与强大的功能。通过一份简单的教�
 Zotero 社区的有力支持。当使用 Zotero 遇到问题时，你可以收到 Zotero 开发人员或者专家社区人员的回复，并且 Zotero 的插件编写者与使用爱好者遍布各地，你可以非常方便的通过你的社交媒体联系到他们。
 
 Zotero 关注你的隐私安全并且无需付费。Zotero 由独立的非营利组织开发，对你的数据没有任何财务利益。并且它是一个开源软件，这意味着如果 Zotero 目前的运营团队并没有将你的利益放在首位，其他任何人都可以自由地获取 Zotero 的源代码，继续对他进行维护和改进。
+
+## 如果 Zotero 插件安装遇到问题
+
+可以使用 PKMer 提供的服务，[Zotero 插件集市 (pkmer.cn)](https://pkmer.cn/products/zotero/zoteroMarket/)
+
+<iframe src="https://player.bilibili.com/player.html?aid=405216834&bvid=BV1tG411Z7Ny&cid=1245825970&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ## 教程的目录结构
 

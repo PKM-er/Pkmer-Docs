@@ -16,7 +16,7 @@ modified: 20230603015100
 > - 插件名称：Zoom
 > - 插件作者：Viacheslav Slinko
 > - 插件说明：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。
-> - 插件分类：界面相关
+> - 插件分类：[' 界面相关 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我访问](https://github.com/vslinko/obsidian-zoom)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-zoom)
 

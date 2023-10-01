@@ -4,10 +4,10 @@ title: Obsidian 如何制作多栏布局
 tags: []
 description: 
 author: OS
-type: awesmoe
+type: awesome
 draft: false
 editable: false
-modified: 20230612190800
+modified: 202309140716127374911
 ---
 
 # Obsidian 如何制作多栏布局
@@ -16,7 +16,7 @@ Obsidian 默认是单列的行模式，有点像你未经调整过的 Word。但
 
 ## 插件方法
 
-### Multi-Columan Markdown Obsidian 插件
+### Multi-Column Markdown Obsidian 插件
 
 使用 [[multi-column-markdown]]
 

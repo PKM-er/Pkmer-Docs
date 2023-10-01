@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174726
+modified: 20230911151603
 ---
 
 # Obsidian 插件：Settings Search 帮助快捷定位和查询设置项
@@ -33,11 +33,48 @@ Settings Search 提供了在设置页面进行搜索插件和设置选项的功�
 
 - 该插件没有单独的设置行需要操作。结果，会自动跳转到对应的插件选项位置，并高亮对应选项背景。
 
+### 键盘导航
+
+您可以使用键盘导航搜索结果。上下箭头键可用于浏览结果，按下回车键将带您进入设置。
+
 >[!Tip] 提示
 >- 该插件没有独立设置项需要操作。
 >- 兼容性：部分插件可能因为比较大，导致跳转过去后，设置界面空白。但一般不会引起 Obsidian 崩溃。
 >- 处理方法：遇到跳转异常，关闭设置界面后重新进行操作即可。
 
+### 自定义高亮样式
+
+有时，设置是动态渲染的，因此在渲染选项卡时不可用。如果您想与插件进行交互并动态添加设置，可以使用 API 来实现。它在 `window` 上作为 `window.SettingsSearch` 可用。
+
+```ts
+interface Resource {
+    //您的设置选项卡的ID。这通常是在清单中定义的插件的ID。
+    tab: string;
+    //您的设置选项卡的名称。这通常是在清单中定义的插件的名称。在搜索时，此名称用于将设置组织到标题下。
+    name: string;
+    //要添加的设置的名称。
+    text: string;
+    //要添加到设置的可选描述字符串。
+    desc: string;
+}
+
+/**
+ * 向设置搜索中添加任意数量的资源。
+ * 返回一个函数，可用于删除已注册的资源。
+ */
+SettingsSearch.addResources(...resources: Resource[]);
+
+/**
+ * 从设置搜索中删除任意数量的资源。
+ */
+SettingsSearch.removeResources(...resources: Resource[]);
+
+/**
+ * 删除与特定SettingTab ID相关联的所有资源。
+ */
+SettingsSearch.removeTabResources(id: string)
+
+```
 
 > [!Tip] 相关推荐
 > - [[attachment-management]]：可以基于一些建议规则，自动化归类你笔记中的附件内容

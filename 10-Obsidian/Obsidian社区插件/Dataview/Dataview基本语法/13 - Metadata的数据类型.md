@@ -7,10 +7,10 @@ author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810180036
+modified: 20230904121825
 ---
 
-# Dataview 中的Metadata 的数据类型
+# Dataview 中的 Metadata 的数据类型
 
 Metadata 是一个键值对（Key - Value，在这里称 Field Name - Field）
 

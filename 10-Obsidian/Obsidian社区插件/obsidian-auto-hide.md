@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230603021818
+modified: 20230921154145
 ---
 
 # Obsidian 插件：Auto Hide 自动隐藏侧边栏
@@ -26,6 +26,8 @@ modified: 20230603021818
 
 ## 效果&特性
 
+![234.gif](https://cdn.pkmer.cn/images/234.gif!pkmer)
+
 - 单击笔记内容，自动折叠侧边栏
 - 可以通过以下方式展开侧边栏
 	- 单击左侧/右侧功能区的空白区域
@@ -39,6 +41,6 @@ modified: 20230603021818
 
 > [!Tip] 相关推荐
 > - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
-> - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+> - [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
 > - [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
 > - [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏

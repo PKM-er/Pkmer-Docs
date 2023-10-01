@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230604174631
+modified: 20230912140944
 ---
 
 # Obsidian 插件：Wrap With Shortcuts 给选中文本加上前后标签
@@ -33,6 +33,11 @@ modified: 20230604174631
 
 - 开启后需要到设置页，给自己加上对应的前后缀的内容（点击加号以后会让你填入名称、前缀、后缀）；
 - 设置好后，可以到快捷键页面中给对应的 TagName 加上快捷键（注意，你必须要重开一次 Obsidian 或者重开一次插件才能让它在快捷键中出现）；
+
+### 应用
+
+- **下划线**默认使用 `Ctrl-u`（`Cmd-u`）作为包裹标签。
+- 你可以增加其他 tag 来实现对应效果
 
 > [!tip]
 > 虽然要分别设置前后缀，但是这个的可玩性和上限都远比同类型的 Text-wrapper 好。。。

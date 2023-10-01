@@ -7,7 +7,7 @@ author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230809171709
+modified: 20230920232829
 ---
 
 # Obsidian 插件：Pandoc 万能格式导出插件
@@ -60,7 +60,7 @@ Pandoc 软件的安装路径**非常重要**
 
 输入 Ctrl+P，调出命令面板，输入**doc**，选择导出为.doc 文件。
 
-![image.png](https://cdn.pkmer.cn/images/202307031643262.png!pkmer)
+![Obsidian Pandoc](https://cdn.pkmer.cn/covers/obsidian-pandoc.PNG!pkmer)
 
 ![image.png](https://cdn.pkmer.cn/images/202307031643046.png!pkmer)
 

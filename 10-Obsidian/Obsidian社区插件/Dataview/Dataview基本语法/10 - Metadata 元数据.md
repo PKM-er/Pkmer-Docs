@@ -7,10 +7,10 @@ author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810175839
+modified: 20230904121828
 ---
 
-# Dataview 中的Metadata 元数据
+# Dataview 中的 Metadata 元数据
 
 或许你在其他地方也听过 Metadata 这个概念，它的适用范围远远不止于 Dataview 这个插件。
 

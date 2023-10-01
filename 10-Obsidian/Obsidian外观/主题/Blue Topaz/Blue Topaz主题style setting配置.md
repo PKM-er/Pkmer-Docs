@@ -1,19 +1,21 @@
 ---
 uid: 20230809093201
-title: Blue Topaz主题style setting配置
-tags: 
+title: Blue Topaz 主题 style setting 配置
+tags: []
 description: 
-author: 
+author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230809093232
+modified: 20230905153025
 ---
 
 # Blue Topaz 主题 style setting 配置
+
 ## 概述
 
-[[Blue Topaz]] 主题提供了丰富的设置项，需要配合[[obsidian-style-settings]]插件进行设置，包括主题的常见设置以及代码块的配色设置。
+[[Blue Topaz]] 主题提供了丰富的设置项，需要配合 [[obsidian-style-settings]] 插件进行设置，包括主题的常见设置以及代码块的配色设置。
+
 ## 设置项
 
 ## 1.整体性设置

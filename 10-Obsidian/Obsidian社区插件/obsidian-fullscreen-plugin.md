@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230603021535
+modified: 20230914155043
 ---
 
 # Obsidian 插件：Fullscreen mode plugin 让笔记全屏化
@@ -24,6 +24,7 @@ Obsidian 确实提供了相当丰富的功能和工作空间，这些功能和�
 > - 插件名称：Fullscreen mode plugin
 > - 插件作者：Razum
 > - 插件说明：让笔记编辑器变为聚焦模式，或说全屏化
+> - 插件分类：[' 界面相关 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/Razumihin/obsidian-fullscreen-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-fullscreen-plugin)
 
@@ -41,5 +42,5 @@ Obsidian 确实提供了相当丰富的功能和工作空间，这些功能和�
 
 > [!Tip] 相关推荐
 > - [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
-> - [[obsidian-focus-mode]]：为 Obsdian 带来了专注模式
+> - [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
 > - [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏

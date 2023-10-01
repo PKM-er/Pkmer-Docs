@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604172809
+modified: 20230911144733
 ---
 
 # Obsidian 插件：Hider 自定义隐藏界面元素、信息
@@ -21,7 +21,7 @@ modified: 20230604172809
 > [!Note] 插件名片
 > - 插件名称：Hider
 > - 插件作者：kepano
-> - 插件说明：自定义隐藏界面元素、信息。
+> - 插件说明：隐藏一些 Obsidian 官方的界面元素。包括工具提示，状态，标题栏，仓库名称，标签栏，搜索建议，frontmatter，滚动条。
 > - 插件项目地址：[点我跳转](https://github.com/kepano/obsidian-hider)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-hider)
 
@@ -30,13 +30,6 @@ modified: 20230604172809
 1. 支持隐藏界面的元素
 2. 支持隐藏界面的控件
 3. 支持隐藏界面的信息
-
-## 安装
-
-1. 进入 Obsidian 社区插件
-2. 搜索
-3. 安装
-4. 开启插件
 
 ## 使用方法
 
