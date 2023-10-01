@@ -122,6 +122,6 @@ Zotero 本身是由程序本体（Zotero APP）与浏览器插件（Zotero Conne
 
 本页仅包括安装流程，具体使用方式请看:
 
-[[0_3ZoteroConnector]]
+[[0_03ZoteroConnector]]
 
-[[11-Zotero/0_基础使用/0_2Zotero基础配置]]
+[[0_02Zotero基础配置]]

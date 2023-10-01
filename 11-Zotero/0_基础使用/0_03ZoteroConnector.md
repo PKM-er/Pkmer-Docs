@@ -12,13 +12,13 @@ modified: 20231001225317
 
 # 0_3ZoteroConnector
 
-> 安装见 [[0_1Zotero组件安装#Zotero Connector]]
+> 安装见 [[0_01Zotero组件安装#Zotero Connector]]
 
 ## 使用步骤
 
 ### 配置
 
-1. [[0_1Zotero组件安装#Zotero Connector]]
+1. [[0_01Zotero组件安装#Zotero Connector]]
 在安装之后我们浏览器中通常会出现一个图标
 ![[Pasted image 20230724015657.png]] 或者 ![[Pasted image 20230724015648.png]] 这样...![[Pasted image 20230724015822.png]] 这样...![[Pasted image 20230724015827.png]] 这样...![[Pasted image 20230724015844.png]] 这样...![[Pasted image 20230724015850.png]] 这样...当然还有很多其他样子，这里就不列举了，以上这些，通通都是它！
 2. 右键 - 扩展选项

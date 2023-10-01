@@ -1,24 +1,18 @@
 ---
 uid: 20230609144302
-title: 0_4Zotero插件简述
+title: 0_4Zotero 插件简述
 tags: [zotero, 教程]
 description: 
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20231001225322
+modified: 20231001230705
 ---
 
 # 0_4Zotero 插件简述
 
-## 推荐插件列表
-
-为了解决访问 GitHub 常见的网络问题，这里是一些由 l0o0 等大佬构建的常用插件的官网/安装包：
-
-[集锦镜像](https://zotero-chinese.gitee.io/zotero-plugins/#/)
-
-### 最简插件推荐
+## 最简插件推荐
 
 > 注意，此部分推荐仅代表个人观点，仅让你的 Zotero 上手使用更为顺滑
 > 具体进阶设置与扩展支持请尝试更多插件
@@ -39,6 +33,12 @@ modified: 20231001225322
     相关的功能按钮如下图所示：
 ![[Pasted image 20231001223338.png]]
 - 注： 如果你下载到的插件安装包格式比较特殊 （如 .zoteroplugin 文件或 .zip 文件），这些文件可能无法在手动安装时的文件选择窗口中选中。对于这些特殊格式的安装包，你 只需要把安装包文件拖至上图这个插件列表页即可安装 。
+
+## 如果 Zotero 插件安装遇到问题
+
+可以使用 PKMer 提供的服务，[Zotero 插件集市 (pkmer.cn)](https://pkmer.cn/products/zotero/zoteroMarket/)
+
+<iframe src="https://player.bilibili.com/player.html?aid=405216834&bvid=BV1tG411Z7Ny&cid=1245825970&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ## 如何自动更新 Zotero 插件
 
