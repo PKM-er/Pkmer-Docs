@@ -1,16 +1,16 @@
 ---
 uid: 20230609145230
-title: Zotero 基础配置
+title: 0_2Zotero基础配置
 tags: [zotero, 教程]
 description: 
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20231001222811
+modified: 20231001225311
 ---
 
-# Zotero 基础配置
+# 0_2Zotero 基础配置
 
 > 使用 6Beta 版的话启动会弹出这个提示，如果想要升 7 的话需要手动检查更新，但这里，至少暂时还不建议更新到 7
 

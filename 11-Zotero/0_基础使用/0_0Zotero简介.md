@@ -1,16 +1,16 @@
 ---
 uid: 20230609143302
-title: Zotero 简介
+title: 0_0Zotero简介
 tags: [zotero, 教程]
 description: Zotero 简介
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230829232707
+modified: 20231001225258
 ---
 
-# Zotero 简介
+# 0_0Zotero 简介
 
 ## Zotero 是什么
 

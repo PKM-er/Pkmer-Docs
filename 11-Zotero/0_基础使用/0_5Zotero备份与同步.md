@@ -1,16 +1,16 @@
 ---
 uid: 20230609144202
-title: 0x05 Zotero 备份与同步
+title: 0_5Zotero 备份与同步
 tags: [zotero, 教程]
 description: 
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230724155120
+modified: 20231001225345
 ---
 
-# 0x05 Zotero 备份与同步
+# 0_5Zotero 备份与同步
 
 ## 存储
 
@@ -35,3 +35,5 @@ modified: 20230724155120
 #### Tara(Taraxacum) 蒲公英
 
 ### 手动魔改
+
+更多可见 [[1_2关于Zotero备份同步的一些问题]]

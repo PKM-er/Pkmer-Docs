@@ -1,16 +1,16 @@
 ---
 uid: 20230609143349
-title: Zotero 组件安装
+title: 0_1Zotero组件安装
 tags: [zotero, 教程]
 description: 
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230725145454
+modified: 20231001225306
 ---
 
-# Zotero 组件安装
+# 0_1Zotero 组件安装
 
 Zotero 本身是由程序本体（Zotero APP）与浏览器插件（Zotero Connector）二者构成
 

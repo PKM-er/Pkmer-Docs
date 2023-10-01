@@ -1,13 +1,13 @@
 ---
 uid: 20230706030450
-title: 0x06 迁移到Zotero
+title: 0_6迁移到Zotero
 tags: [zotero, 教程]
 description: 
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230724155143
+modified: 20231001225351
 ---
 
-# 0x06 迁移到 Zotero
+# 0_6 迁移到 Zotero

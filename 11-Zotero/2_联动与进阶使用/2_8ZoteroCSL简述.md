@@ -1,13 +1,13 @@
 ---
 uid: 20230724024602
-title: 2x08 Zotero CSL 简述
+title: 2_8ZoteroCSL简述
 tags: []
 description: 
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230725145533
+modified: 20231001225448
 ---
 
-# 2x08 Zotero CSL 简述
+# 2_8ZoteroCSL 简述

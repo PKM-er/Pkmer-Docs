@@ -1,16 +1,16 @@
 ---
 uid: 20230609145418
-title: Zotero Connector
+title: 0_3ZoteroConnector
 tags: [zotero, 教程]
 description: 
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20231001224249
+modified: 20231001225317
 ---
 
-# Zotero Connector
+# 0_3ZoteroConnector
 
 > 安装见 [[0_1Zotero组件安装#Zotero Connector]]
 

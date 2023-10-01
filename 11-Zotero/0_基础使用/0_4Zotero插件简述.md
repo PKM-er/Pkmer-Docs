@@ -1,16 +1,16 @@
 ---
 uid: 20230609144302
-title: Zotero 插件简述
+title: 0_4Zotero插件简述
 tags: [zotero, 教程]
 description: 
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20230724015100
+modified: 20231001225322
 ---
 
-# Zotero 插件简述
+# 0_4Zotero 插件简述
 
 ## 推荐插件列表
 

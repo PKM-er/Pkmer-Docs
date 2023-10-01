@@ -1,16 +1,16 @@
 ---
 uid: 20230724005715
-title: 1x02 关于 Zotero 备份同步的一些问题
+title: 1_2关于Zotero备份同步的一些问题
 tags: [zotero, 教程]
 description: 关于Zotero备份同步的一些问题
 author: darkluna999
 type: other
 draft: false
 editable: false
-modified: 20231001224641
+modified: 20231001225412
 ---
 
-# 1x02 关于 Zotero 备份同步的一些问题
+# 1_2 关于 Zotero 备份同步的一些问题
 
 > 出现 **iPhone/iPad 上的 Zotero 官方客户端或 Papership 应用中无法打开 PDF 附件** 的问题，基本 **全都是选择了不合适的同步方案** 。
 > 请务必注意：
