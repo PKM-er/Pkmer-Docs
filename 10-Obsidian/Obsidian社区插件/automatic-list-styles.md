@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230728105607
+modified: 20231004225515
 ---
 
 # Obsidian 插件：Automatic List Styles 有序列表美化前缀样式
@@ -21,7 +21,7 @@ modified: 20230728105607
 > - 插件版本：0.1.0
 > - 插件作者：Max McGuire
 > - 插件描述：不借用主题和 css 片段前提下，来实现有序列表，增加不同的层级的前缀符号样式
-> - 插件项目地址：[]()
+> - 插件项目地址：[点我跳转](Obsidian 插件：Automatic List Styles 有序列表美化前缀样式)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?automatic-list-styles)
 
 ## 效果&特性
