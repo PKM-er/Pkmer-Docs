@@ -7,7 +7,7 @@ author: Wen
 type: other
 draft: false
 editable: false
-modified: 20230930174931
+modified: 20231005234538
 ---
 
 # 利用 Mermaid 甘特图在 Obsidian 中管理项目进度
@@ -23,25 +23,25 @@ Obsidian 社区存在很多任务管理相关插件，自己常用来实现任�
 		- 快速给出满足查询条件的任务
 		- 通过界面管理任务优先级、截止日期等属性
 		- 循环发生的任务
-- [[obsidian-task-marker|Task Marker]]
+- obsidian-task-marker
 	- 该插件是本人开发的，可以方便更改任务状态、添加时间戳等
 - [[obsidian-kanban|Kanban]]
 	- 该插件可以用可视化的看板视图展示任务、笔记等
 - [[obsidian-periodic-notes|Periodic Notes]]
 	- 该插件可以用来管理周期性笔记，比如，每日、每周、每月、季度笔记等
 		- 在其中可以创建对应的任务
-- [[tasks-calendar|Tasks Calendar]]
+- tasks-calendar|Tasks Calendar
 	- 该插件可以用简化的语法查询通过 Tasks 及 Dataview 创建的任务
-- [[todoist-sync-plugin|Todoist Sync]]
+- todoist-sync-plugin|Todoist Sync
 	- 该插件可以将 Obsidian 中的任务同步到 Todoist，也可以在 Obsidian 中显示 Todoist 中的任务
 - [[obsidian-memos|Memos]]
 	- 该插件可以创建带有时间戳前缀的任务
-- [[obsidian-canvas|Canvas]]
+- [[白板]]
 	- 这是一个 Obsidian 官方插件，可以用图示、箭头的方式来表示任务之间的依赖关系
 
 上面简单介绍了一些任务管理插件的功能；可以看出，他们功能很丰富，涵盖任务管理的多个方面。但是，假如想要从更高层级的角度管理整个项目的进度，可能就需要借助其他项目管理工具。
 
-本文介绍如何利用 [[Mermaid]] 创建甘特图（Gantt Chart），以便从宏观的角度管理项目进度。
+本文介绍如何利用 [[Mermaid语法]] 创建甘特图（Gantt Chart），以便从宏观的角度管理项目进度。
 
 ## 甘特图语法
 
@@ -213,7 +213,6 @@ gantt
 本文介绍了如何利用 Mermaid 创建甘特图管理项目进度。感兴趣的读者还可从如下和 Mermaid 及甘特图相关的文档了解更为详细的内容：
 
 - [[Mermaid语法]]
-- [[Mermaid语法-甘特图]]
 
 ## 参考文献
 
