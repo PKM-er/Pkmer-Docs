@@ -7,10 +7,12 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20230929013723
+modified: 20231005231228
 ---
 
 # 自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动
+
+![image.png](https://cdn.pkmer.cn/images/202310052312620.png!pkmer)
 
 ## 概述
 
