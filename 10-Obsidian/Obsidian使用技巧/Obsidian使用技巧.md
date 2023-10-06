@@ -33,6 +33,7 @@ modified: 20230905141727
 - [[Obsidian如何制作多栏布局]]
 - [[Obsidian如何生成和美化目录]]
 - [[obsidian-tasks的GTD实践|基于 task 插件的实战 GTD 管理]]
+- [[将引用的内容嵌入到行的方案]]
 
 ## 与第三方软件联动
 
