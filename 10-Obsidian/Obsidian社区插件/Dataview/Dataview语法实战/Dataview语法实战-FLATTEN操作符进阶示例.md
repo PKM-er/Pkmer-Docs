@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20230918121858
+modified: 20231007232838
 ---
 
 # Dataview 语法实战：FLATTEN 操作符进阶示例
@@ -43,7 +43,7 @@ GROUP BY genres
 ```
 `````
 
-![Pasted image 20230831205113.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230831205113.png!pkmer)
+![Dataview语法实战-FLATTEN操作符进阶示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230831205113.png!pkmer)
 
 可以看到，只有 books 1 和 books 3 这两本类型完全一样的书籍被归为了一类，其他的书都是单独成行，这就是我们要先展开的目的
 
@@ -56,7 +56,7 @@ GROUP BY genres
 ```
 `````
 
-![Pasted image 20230831205015.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230831205015.png!pkmer)
+![Dataview语法实战-FLATTEN操作符进阶示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230831205015.png!pkmer)
 
 > [!warning] 注意顺序
 > 虽然 DQL 是可以重复使用操作符的，但是 dataview 执行 DQL 的顺序是自上而下，因此会先执行上面的代码。所以必须先写 `FLATTEN` 再写 `Group by`，另一个要注意这一点的还有排序操作符 `SORT` 和限制个数操作符 `LIMIT`。
@@ -67,7 +67,7 @@ GROUP BY genres
 
 已知，我们有一篇笔记，假设其路径为 "10 Example Data/dailys/2022-07-22"。笔记中包含了一个一级标题和两个二级标题（"Research" 和 "Topics"），以及一些无序列表，内容如图
 
-![[Pasted image 20230831213816.png|500]]
+![Dataview语法实战-FLATTEN操作符进阶示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230831213816.png!pkmer)
 
 现在我们想要一条一条的把 “Research" 标题下的无序列表列出来，我们知道 `file.lists.section` 可以获取列表所在的标题的链接，使用 `meta(..)` 函数可以把链接转换成链接包含的元数据，然后取出这个元数据中的 subpath 属性，也就是标题，然后用 `WHERE` 操作符就能够区分出是在 "Research" 还是在 "Topics" 标题之下了：`WHERE meta(file.lists.section).subpath = "Research"`。（忘了的可以看 [[14 - 隐式字段]] 和 [[25 - Function 函数]] 看看各个值代表什么）
 
@@ -99,7 +99,7 @@ FLATTEN round((pagesRead / totalPages) * 100) + "%" AS progress
 
 pagesRead 代表书本的已读的页数，totalPages 代表书本的总页数，因此可以得出 progress 代表的就是我们的读书进度。
 
-![Pasted image 20230831220019.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230831220019.png!pkmer)
+![Dataview语法实战-FLATTEN操作符进阶示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230831220019.png!pkmer)
 
 当然，在拼接上 "%" 之前，progress 属性的数据类型还是数值类型，你完全可以对他做一些其他操作，最后再拼接 "%" 变成字符串。这些操作可以是排序、筛选进度低于或高于某个值等。
 
@@ -114,7 +114,7 @@ FLATTEN progress + "%" AS Progress
 ```
 `````
 
-![Pasted image 20230831220642.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230831220642.png!pkmer)
+![Dataview语法实战-FLATTEN操作符进阶示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230831220642.png!pkmer)
 
 > [!warning] 注意
 > 最后，`FLATTEN` 只能拆数组，而且每用一次能拆一次。如果是数组中的数组，则需要多次用 `FLATTEN` 才能完全扁平化。另外，当一个属性的值是对象时，时无法用 `FLATTEN` 拆开的。
