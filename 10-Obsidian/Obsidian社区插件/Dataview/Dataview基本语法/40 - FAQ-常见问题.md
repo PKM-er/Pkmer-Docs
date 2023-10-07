@@ -1,19 +1,29 @@
 ---
 uid: 20230724104527
-title: Dataview 相关的FAQ - 常见问题
-tags: [obsidian, 插件, dataview, faq, 常见问题]
+title: Dataview 相关的 FAQ - 常见问题
+tags:
+  - obsidian
+  - 插件
+  - dataview
+  - faq
+  - 常见问题
 description: dtaview 插件的常见问题，FAQ
 author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230904121753
+modified: 20230810175131
 ---
 
 # Dataview 相关的 FAQ - 常见问题
 
 不知道你在使用 Dataview 查询的过程中，是否遇到过 `Dataview: Error:`。Dataview 在解析你的代码过程中，如果遇到无法解析 (Parsing Failed) 的错误，就会显示一个报错信息。在报错信息中，Dataview 会用箭头为你指出无法解析的地方，并且在下放给出可能的修改提示。
 
+🔺如果你的 dataview 代码报错，请你先考虑
+* 使用的符号均为**英文格式**
+* 留意各种**空格**，否则可能导致检索错误
+
+然后再看看下面有没有你遇到的情况
 1. 时间数据类型，月份要写成 07 而不是 7；
 	1. 错误示范：`2023-7-24`
 	2. 正确示范：`2023-07-24`
@@ -31,4 +41,4 @@ modified: 20230904121753
 
 欢迎大家在 q 群或者微信群提供更多自己使用 dataview 时经常犯的错误；
 
-下一步，我们介绍下 DQL 和 SQL 的异同 [[31 - DQL 与 SQL 的异同]]
+下一步，我们介绍下 DQL 和 SQL 的异同 [[41 - DQL 与 SQL 的异同]]

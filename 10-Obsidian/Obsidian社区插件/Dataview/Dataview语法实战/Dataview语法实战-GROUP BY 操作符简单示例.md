@@ -29,7 +29,7 @@ GROUP BY author
 ```
 `````
 
-![Pasted image 20230903002834.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230903002834.png!pkmer)
+![Dataview语法实战-GROUP BY 操作符简单示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230903002834.png!pkmer)
 
 此时如果我们还像以前那样，在第一行加上类似 `file.link` 之类的隐式字段，无法得到我们预期的结果。原因就是，我们现在操作的对象已经变成了一个由所有满足成组条件的文件组合成的一个列表，我们需要用关键字 `rows` 来指代每一个组。对比一下下面两种代码就明白了。
 
@@ -55,6 +55,6 @@ GROUP BY author
 
 这样我们才能够得到下面的结果，从结果也能看得出来他们被合并成了一个个列表。
 
-![Pasted image 20230903003317.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230903003317.png!pkmer)
+![Dataview语法实战-GROUP BY 操作符简单示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230903003317.png!pkmer)
 
 进阶示例请见：[[Dataview语法实战-GROUP BY 操作符进阶示例]].

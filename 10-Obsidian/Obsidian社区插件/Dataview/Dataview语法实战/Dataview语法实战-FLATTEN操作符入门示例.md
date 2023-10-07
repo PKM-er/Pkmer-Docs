@@ -16,11 +16,11 @@ modified: 20230918115800
 
 使用前
 
-![Pasted image 20230831203335.png|525](https://cdn.pkmer.cn/images/Pasted%20image%2020230831203335.png!pkmer)
+![Dataview语法实战-FLATTEN操作符入门示例|525](https://cdn.pkmer.cn/images/Pasted%20image%2020230831203335.png!pkmer)
 
 使用后
 
-![Pasted image 20230831203350.png|525](https://cdn.pkmer.cn/images/Pasted%20image%2020230831203350.png!pkmer)
+![Dataview语法实战-FLATTEN操作符入门示例|525](https://cdn.pkmer.cn/images/Pasted%20image%2020230831203350.png!pkmer)
 
 > [!cite] 相关教程
 > - [官方英文文档](https://blacksmithgu.github.io/obsidian-dataview/query/queries/#flatten)；
@@ -29,7 +29,7 @@ modified: 20230918115800
 > [!info] **前情提要**
 > 文中查询得到的结果内容为一些书籍，这类文件包含的元数据如图所示。本文只涉及到其中的 booktopics, genres, totalPages 和 pagesRead 元数据，分别代表<u>书的主题，类型，总页数和已读页数</u>。文章分为两部分，简单的基本实例部分和进阶的变体部分。
 
-![Pasted image 20230830220052.png|500](https://cdn.pkmer.cn/images/Pasted%20image%2020230830220052.png!pkmer)
+![Dataview语法实战-FLATTEN操作符入门示例|500](https://cdn.pkmer.cn/images/Pasted%20image%2020230830220052.png!pkmer)
 
 ## 基本实例
 
@@ -42,7 +42,7 @@ FROM "10 Example Data/books"
 ```
 `````
 
-![Pasted image 20230831201426.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230831201426.png!pkmer)
+![Dataview语法实战-FLATTEN操作符入门示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230831201426.png!pkmer)
 
 此时我们对 genres 属性用上 FLATTEN 操作符，就可以把每一个类型给拆分开，就像这样：
 

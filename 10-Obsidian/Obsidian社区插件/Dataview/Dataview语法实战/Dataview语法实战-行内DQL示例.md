@@ -7,7 +7,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20230921110016
+modified: 20231008001546
 ---
 
 # Dataview 语法实战：行内 DQL 示例
@@ -33,9 +33,9 @@ modified: 20230921110016
 e ≈ `= 1 + 1/1 + 1/(1*2) + 1/(1*2*3) + 1/(1*2*3*4) + 1/(1*2*3*4*5)`
 ```
 
-![[Pasted image 20230914212150.png]]
+![Dataview 的行内 DQL 示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230914212150.png!pkmer)
 
-- 在文中插入一些日期，比如在你的起始页中你可以加上一些倒计时或者正计时（详见 [[Dataview实战-制作一个倒计时或者正计时列表]]）
+- 在文中插入一些日期，比如在你的起始页中你可以加上一些倒计时或者正计时（详见 [[用 Dataview 制作一个倒计时或者正计时列表]]）
 
 ```
 今天还剩 `= round((date(tomorrow)-date(now)).seconds)` 秒，也就是 `= round((date(tomorrow)-date(now)).minutes)` 分钟。
@@ -50,7 +50,7 @@ e ≈ `= 1 + 1/1 + 1/(1*2) + 1/(1*2*3) + 1/(1*2*3*4) + 1/(1*2*3*4*5)`
 创建这篇文件的日期是：`= this.file.cday`.
 ```
 
-![[Pasted image 20230914210037.png]]
+![Dataview 的行内 DQL 示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230914210037.png!pkmer)
 
 如果样式不满意，可以用 DQL 的 `dateformat()` 函数修改修改，例如
 
@@ -60,7 +60,7 @@ or
 创建这篇文件的日期是：`= dateformat(this.file.cday, "ffff")`.
 ```
 
-![[Pasted image 20230914210058.png]]
+![Dataview 的行内 DQL 示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230914210058.png!pkmer)
 
 我们还可以加一些其他内容，比如加一个倒计时，或者是一个正计时
 
@@ -91,7 +91,7 @@ or
 今天是 **`= date(today)`**，现在的时间是 **`= dateformat(date(now), "HH:MM")`**。
 ```
 
-![[Pasted image 20230916135258.png]]
+![Dataview 的行内 DQL 示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230916135258.png!pkmer)
 
 这里用到了 `dateformat()` 函数把我们的时间以 `HH:MM` 的格式显示；
 
@@ -101,7 +101,7 @@ or
 这篇笔记已经存在了： `= round((date(now) - this.file.ctime).seconds, 2)` 秒；
 ```
 
-![[Pasted image 20230916140101.png]]
+![Dataview 的行内 DQL 示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230916140101.png!pkmer)
 
 对比一下直接输出、用点运算符输出和用 `round()` 函数四舍五入的结果，选择自己最需要的使用即可。
 
