@@ -1,13 +1,13 @@
 ---
-uid: 2023080322253616
-title: Obsidian 插件：【Readme】React Components
-tags: ['自动化', 'obsidian插件', 'readme']
+uid: 20230922233837
+title: Obsidian 插件：React Components
+tags: [自动化, Obsidian插件]
 description: 在你的笔记中使用并编写React（Jsx）组件。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20231008235422
 ---
 
 # Obsidian 插件：React Components
@@ -72,7 +72,7 @@ react-components-namespace: projects.test
 
 或者（如果已安装 dataview）可以使用 dataview 内联属性
 
-```m
+```
 defines-react-components:: true
 react-components-namespace:: projects.test
 ```
@@ -212,25 +212,26 @@ return <h1>{frontmatter.title}</h1>
 * 在视图之间导航时，组件不再消失。
 * 修复了启动时组件闪烁的问题。
 * 现在可以像这样编写代码块：
-  * ````markdown
+
+````markdown
     ```jsx::ComponentName
     someText
     ```
-    ````
+````
 
-    这等同于
+这等同于
 
-     ````markdown
+````markdown
     ```jsx:
     <ComponentName src={`someText`}/>
     ```
-    ````
+ ````
 
-    但更简洁。
+但更简洁。
 
-    示例:
+示例:
 
-    ![Component Codeblock Example](https://user-images.githubusercontent.com/9102856/144520183-5dbdee07-76ae-49a6-aca6-732f53971a55.png)
+![Component Codeblock Example](https://user-images.githubusercontent.com/9102856/144520183-5dbdee07-76ae-49a6-aca6-732f53971a55.png)
 
 ### 0.1.1 (2021-08-29) *改进组件卸载*
 
