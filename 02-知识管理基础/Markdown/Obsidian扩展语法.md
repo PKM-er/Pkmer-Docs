@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230607225607
+modified: 20231008235003
 ---
 
 # Obsidian 扩展语法
@@ -18,7 +18,7 @@ Obsidian 除了支持之前所说的 [[Markdown]] 基本语法，还有一些基
 
 引用笔记内容到文本
 
-```Markdown
+```markdown
 ![[笔记文件名#标题名]]    引用具体笔记某个标题下的全部内容
 ![[笔记文件名^文本块]]    引用具体笔记下某个文本块的内容
 [[笔记文件名#标题名]]    链接具体笔记某个标题
@@ -249,3 +249,8 @@ Obsidian里的
 %% 这是一行 Obsidian 里的注释%%
 
 %% 这里是 一段 假装有 很多行的 Obsidian 里的 注释 %%
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=959026749&bvid=BV1wp4y1c7jp&cid=1282492890&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+

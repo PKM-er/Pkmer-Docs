@@ -52,12 +52,12 @@ modified: 20230101000000
 3. 您应该会收到一个提示，要求您输入 [Todoist API 令牌](https://todoist.com/prefs/integrations)。（如果没有，您可以在设置中输入此令牌）。
 4. 在任何笔记中放置一个类似以下的代码块：
 
-   ````markdown
+````markdown
    ```todoist
    name: My Tasks
    filter: "today | overdue"
    ```
-   ````
+````
 
 5. 切换到预览模式，插件应该会用该筛选器的结果替换此代码块。
 

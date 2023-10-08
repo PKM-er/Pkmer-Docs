@@ -89,13 +89,13 @@ modified: 20230101000000
 
 - 在任何笔记中放置一个类似以下代码块的代码：
 
-   ````markdown
+````markdown
    ```sync-calendar
    name: "{numberTodos} todos @ Apr. 21"
    timeMin: "2023-04-21"
    timeMax: "2023-04-22"
    ```
-   ````
+````
 
 - 切换到预览模式，插件应该会用实际结果替换这个代码块。
 
