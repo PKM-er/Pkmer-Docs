@@ -4,10 +4,10 @@ title: Obsidian 安卓上利用 CSS 修改界面字体
 tags: [Obsidian, css]
 description: 将ttf文件转为css来自定义字体
 author: calmwaves
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230901102719
+modified: 20230922101122
 ---
 
 # Obsidian 安卓上利用 CSS 修改界面字体

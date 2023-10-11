@@ -42,7 +42,7 @@ Obsidian CodeMirror Options 是一种非常适合用来编辑和渲染 Markdown�
 
 ### 强化代码域的体验
 
-这个插件有很多奇妙的用途，这里介绍一种强化高亮配色的用法，如果你嫌弃安装插件麻烦，或者有其他，问题也可以参考 [[Obsidian美化代码域对编程语言的样式展示]]
+这个插件有很多奇妙的用途，这里介绍一种强化高亮配色的用法，如果你嫌弃安装插件麻烦，或者有其他，问题也可以参考 [[Obsidian样式-美化代码域对编程语言的样式展示]]
 
 但是如果希望有多少样式可选，主流编程语言的配色方案不同该如何选择呢？
 
@@ -58,7 +58,7 @@ Obsidian CodeMirror Options 是一种非常适合用来编辑和渲染 Markdown�
 
 配色方案，支持和 [[obsidian-style-settings]] 联动，如果你打开了 `Use CodeMirror for syntax highlighting in preview mode` 选项，并同时安装了 style settings 插件，那么可以进入 style settings 插件中设置配色方案。
 
-![image.png](https://cdn.pkmer.cn/images/20230608165225.png!pkmer)
+![Obsidian 插件：CodeMirror Options 强化输入和编辑体验](https://cdn.pkmer.cn/images/20230608165225.png!pkmer)
 
 - 可以选择一些默认的配色方案
 - 也可以在配色方案下，基于编程语言中的，定义、变量、数字、符号、运算符等来自定义样式颜色

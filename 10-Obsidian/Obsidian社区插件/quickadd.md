@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230721104131
+modified: 20230916184031
 ---
 
 # Obsidian 插件：QuickAdd 自动化操作的编辑器
@@ -47,7 +47,7 @@ Quickadd 的使用需要明白四个核心概念：
 3. 组合命令 Macro：obsidian 命令，编辑器命令，用户脚本，已有的 Template 或 Capture
 4. Multi：类似于文件夹的功能将上述内容进行管理
 
-## template
+### template
 
 大多数模板功能都分为两个部分：模板定义文件和模板设置文件。前者类似于一篇笔记，里面是一些占位符：
 
@@ -63,7 +63,7 @@ Quickadd 的使用需要明白四个核心概念：
 
 和 Quickadd 的模板功能很像的一个插件是 [[templater-obsidian]]，这个插件使用 `eta` 模板引擎生成模板，同样可编程高度自定义。差别在于 templater 提供更多模板的定制选项，更适合新手用户，二者并无冲突，模板的定义甚至可同时使用。
 
-## Capture
+### Capture
 
 通过已有规则以指定格式快速添加内容到指定笔记。其设置选项如下：
 
@@ -71,7 +71,7 @@ Quickadd 的使用需要明白四个核心概念：
 
 能实现的功能包括但不限于弹出窗口，捕获内容到任意笔记的任意块级内容前后。对于未创建的笔记也能使用。这个功能适用于笔记级别的添加操作，在当前文件下按规则自动添加内容的情况下，和 [[obsidian-latex-suite]] 插件是行级别的自动补全有点区别，后者体验更好。
 
-## Macro
+### Macro
 
 Quickadd 最强大的地方就是这个 Macro 了，它能把一系列的命令组合起来，形成一个处理流程。这些命令包括自定义的脚本，而本地软件的自定义脚本，能够通过系统命令，调用包括 Python，Rust 等其他语言写的脚本。
 
@@ -125,19 +125,19 @@ module.exports = async (params) => {
 
 这个脚本能快速通过 `Vscode`，`Vim` 打开我的脚本，CSS 文件夹，方便编辑和调试，这在补足 Obsidian 功能时非常好使，正则替换，全局替换，git 管理笔记这些使用场景，能显著提升幸福感。经 Quickadd 组合也就一个快捷键的事。
 
-### 插件联动
+## 插件联动
 
 除此之外，通过 Obsidian API 可以联动多个插件，[Macro: Change properties in your daily notes (requires MetaEdit)](https://quickadd.obsidian.guide/docs/Examples/Macro_ChangePropertyInDailyNotes) 联动的是 MetaEdit 插件，
 
-### 第三方在线服务联动
+## 第三方在线服务联动
 
 得益于能写脚本，[Capture: Fetch Tasks From Todoist](https://quickadd.obsidian.guide/docs/Examples/Capture_FetchTasksFromTodoist) 能够从 Todoist 这款软件中通过 API 的方式获取任务，更新到 Obsidian 中。常见的使用场景包括获取天气，豆瓣读书信息，电影信息，Readwise 收集等。
 
-### 第三方本地服务联动
+## 第三方本地服务联动
 
 第三方服务联动如果没提供 API 是很难获取到数据的，而本地服务则可以直接对数据存储进行操作。比如直接读取 Zotero 数据库，Sioyek 数据库获取书籍和笔记信息。
 
-### AI 增强
+## AI 增强
 
 继续进阶使用便是 AI 功能了，通过调用 ChatGPT 实现比 [[obsidian-textgenerator-plugin]] 这样做好的 AI 更加细腻的控制，定制化更强，难度理所当然更大一点。开发者也提供了一些友好的操作，[AI Assistant for Obsidian](https://bagerbach.com/blog/obsidian-ai#actionable-takeaways) 则比较详细的描述了如何使用 Quickadd 的 AI 辅助功能，包括：
 
@@ -165,3 +165,12 @@ module.exports = async (params) => {
 	4. Raycast
 
 注：这里只有 utools 是全平台的，AutoHotkey 是 Windows 独占的开源软件，Alfred，Raycast 是 Mac 独占商业软件。
+
+## 视频教程
+
+- 【【从零开始学 OB】—— QuickAdd (上) 助力提升笔记效率】
+
+<iframe src="https://player.bilibili.com/player.html?aid=574602710&bvid=BV1qz4y1W7mf&cid=1229764901&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
+- 【【从零开始学 OB】—— QuickAdd (下) 助力提升笔记效率】
+<iframe src="//player.bilibili.com/player.html?aid=363444368&bvid=BV1U94y1W7ba&cid=1264742241&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>

@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230801180721
+modified: 20230911150913
 ---
 
 # Obsidian 基础操作
@@ -43,6 +43,13 @@ Linux：Linux 的安装包是一个点击即可运行的可执行文件，可以
 2、快捷键：Ctrl/Cmd + P，在 OB 的命令窗口中，输入“重新加载 Obsidian”
 
 有些 Obsidian 设置或插件，需要重启后才能生效，可以用到以上方法。
+
+### 如何看到隐藏文件夹
+
+Obsidian 的主题问题、css 样式片段 snippets、插件都是隐藏在 `.obsidian` 文件夹
+
+- Win：直接在资源管理器中修改文件夹选项，显示隐藏文件即可
+- Mac：注意，`.obsidian` 文件夹可能是隐藏的。在 macOS 上，您可以按 `Command+Shift+.` 来在 Finder 中显示该文件夹。
 
 ## Obsidian 的基本信息获取
 

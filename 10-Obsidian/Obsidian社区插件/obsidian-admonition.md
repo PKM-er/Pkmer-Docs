@@ -7,17 +7,20 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230604172542
+modified: 20230921152548
 ---
 
 # Obsidian 插件：Admonition 你可以自己定义各种增强块样式，比如警告，笔记，提醒等
 
 ## 概述
 
+Obsidian 的块样式，你可以自己定义各种增强块样式，比如警告，笔记，提醒等
+
 > [!Note] 插件名片
 > - 插件名称：Admonition
 > - 插件作者：Jeremy Valentine
 > - 插件说明：Obsidian 的块样式，你可以自己定义各种增强块样式，比如警告，笔记，提醒等
+> - 插件分类：[' 样式工具 ', ' 美化 ', ' 效率 ', ' 编辑工具 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我访问](https://github.com/valentine195/obsidian-admonition)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-admonition)
 
@@ -25,9 +28,19 @@ modified: 20230604172542
 
 ## 效果&特性
 
+![Admonition](https://cdn.pkmer.cn/covers/obsidian-admonition.PNG!pkmer)
+
 Ad 插件最大的便利就是通过代码块包裹就可以自定义 css 实现个性化样式，如果内容包含代码，表格等内容，如果用 callout 每一行都需要添加 `>` 使用上不如 ad 代码包裹简洁。
 
-#### 语法
+- 支持各种内置的警示类型，如提示、警告、注意、笔记等。
+- 可自定义样式，可以在 callouts 中使用 Markdown 属性，或直接使用 CSS 进行样式化。
+- 支持嵌套引用块和代码块。
+- 警示可以与其他插件（如 Obsidian 的 [模板](https://help.obsidian.md/Plugins/Templates) 或 @SilentVoid13 的 [模板生成器](https://github.com/SilentVoid13/Templater)）结合使用。
+- 支持通过 `.json` 文件导入和导出自定义警示。
+
+## 使用
+
+基本语法
 
 ````
 ```ad-<type> # 类型这里可以是note,abstract,info,tip,success,question,warning,failure,danger,bug,example,quote

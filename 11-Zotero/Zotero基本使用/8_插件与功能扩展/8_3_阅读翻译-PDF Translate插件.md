@@ -21,7 +21,7 @@ modified: 20230817192756
 下载地址：
 
 * GitHub Release：[https://github.com/windingwind/zotero-pdf-translate/releases](https://github.com/windingwind/zotero-pdf-translate/releases)
-* 国内镜像：[https://zotero-chinese.gitee.io/zotero-plugins/](https://zotero-chinese.gitee.io/zotero-plugins/)
+* 国内镜像：[Zotero 插件集市 (pkmer.cn)](https://pkmer.cn/products/zotero/zoteroMarket/)
 
 ![](https://github.com/windingwind/zotero-pdf-translate/raw/main/imgs/translate.gif#from=url&id=rFkzw&originHeight=1216&originWidth=2544&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 

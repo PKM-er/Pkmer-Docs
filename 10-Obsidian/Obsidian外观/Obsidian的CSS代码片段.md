@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230901162031
+modified: 20231011141537
 aliases: [Obsidian css代码片段]
 ---
 
@@ -27,27 +27,27 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ## 使用
 
-1、别人给你的，或者你看到不错的代码片段（CSS）文件，放进 `snippets` 文件夹就行。或者自己建立一个 CSS 文件，书写你自己的样式当然需要一点 CSS 代码基础。
-
-2、 Obsidian > 设置 > 外观，最后一项【CSS 代码片段】，刷新一下，会显示出新增的文件，把后面的切换按钮打开即可。
+1. 别人给你的，或者你看到不错的代码片段（CSS）文件，放进 `snippets` 文件夹就行。或者自己建立一个 CSS 文件，书写你自己的样式当然需要一点 CSS 代码基础。
+2. Obsidian > 设置 > 外观，最后一项【CSS 代码片段】，刷新一下，会显示出新增的文件，把后面的切换按钮打开即可。
 
 涉及软件界面的修改，有时候可能需要重启软件生效。
 
-### CSS 修改优秀范例
+## CSS 修改优秀范例
 
-#### ICON
+### ICON
 
 - [[回归原始的Obsidian图标]]
 - [[Obsidian样式-自定义待办图标]]
 
-#### 编辑器
+### 编辑器
 
+- [[Obsidian样式-minimal主题Cards卡片布局]]
 - [[Obsidian样式-编辑模式下当前行高亮]]
 - [[Obsidian样式-加粗粗体样式优化]]
-- [[Obsidian美化代码域对编程语言的样式展示]]
+- [[Obsidian样式-美化代码域对编程语言的样式展示]]
 - [[Obsidian样式-Callout样式]]
-- [[自定义选中文本部分高亮颜色]]
-- [[使用CSS-HTML实现分栏]]
+- [[Obsidian样式-自定义选中文本部分高亮颜色]]
+- [[Obsidian样式-使用CSS-HTML实现分栏]]
 - [[Obsidian样式-笔记页内标题居中]]
 - [[Obsidian样式-分割线样式美化]]
 - [[Obsidian样式-给笔记添加随机背景图]]
@@ -59,34 +59,39 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-修复1.3.7版本标题语法高度问题]]
 - [[obsidian安卓上利用css修改界面字体]]
 - [[Obsidian样式-缩减栏宽模式下美化笔记内部背景]]
-- [[iPhone-Obsidian自定义字体]]
+- [[Obsidian样式-iPhone-Obsidian自定义字体]]
 
-#### Properties（老称呼 Front-matter，metadata）
+### 图片
+
+- [[Obsidian样式-图片点击长按放大]]
+
+### Properties（老称呼 Front-matter，metadata）
 
 - [[Obsidian样式-如何在阅读模式下隐藏Properties]]
+- [[Obsidian样式-修复banner和Properties高度冲突以及多余留白改善]]
 
-#### 状态栏
+### 状态栏
 
 - [[Obsidian样式-悬浮状态栏]]
 
-#### 链接
+### 链接
 
 - [[Obsidian网址前自动加图标]]
 - [[Obsidian样式-修改内链的链接颜色]]
 
-#### 文件管理器
+### 文件管理器
 
 - [[Obsidian样式-文件浏览器样式]]
 - [[Obsidian样式-文件管理名称滚动效果]]
-- [[Obsidain美化-自定义文件夹图标]]
+- [[Obsidain样式-自定义文件夹图标]]
 - [[Obsidian样式-超长文件名换行]]
 
-#### 段落
+### 段落
 
 - [[Obsidian样式-如何自定义段落前后间距]]
 - [[Obsidian样式-特殊标签-让Markdown的文本多彩多色]]
 
-#### 列表、待办
+### 列表、待办
 
 - [[Obsidian样式-待办完成样式]]
 - [[Obsidian样式-自定义待办图标]]
@@ -94,15 +99,15 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-自定义大纲缩进线样式]]
 - [[Obsidian样式-给列表添加动态引导线]]
 
-#### 引用
+### 引用
 
 - [[Obsidian样式-隐藏块引用ID]]
 
-#### 表格样式
+### 表格样式
 
 - [[Obsidian样式-表格样式简明方法]]
 
-#### 标签样式
+### 标签 Tag 样式
 
 - [[Obsidian样式-多彩tag样式]]
 
@@ -110,23 +115,28 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-标签页Tab样式]]
 
-#### 白板（Canvas）
+### PDF
+
+- [[Obsidian样式-给内置PDF浏览器增加反色功能]]
+
+### 白板（Canvas）
 
 - [[Obsidian样式-canvas白板卡片中文字居中]]
 - [[Obsidian样式-Canvas样式的修改及增强卡片的显示效果]]
 
-#### dataview
-
-- [[Obsidian样式-建立书籍电影的卡片化视图]]
-
-#### 移动端
+### 移动端
 
 [[通过css在移动端右下角添加源码和阅读转换按钮]]
 
-#### 插件样式
+### 插件样式
 
-- [[Obsidian-calendar插件的样式修改]]
-- [[DataView在table视图下标签出现错位断裂的修复]]
+- [[Obsidian样式-Calendar插件的样式修改]]
+- [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]
+- [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
+
+#### dataview
+
+- [[Obsidian样式-建立书籍电影的卡片化视图]]
 
 ## 自定义 CSS 简单上手指南
 

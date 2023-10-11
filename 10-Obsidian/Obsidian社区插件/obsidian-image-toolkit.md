@@ -21,6 +21,7 @@ modified: 20230730133521
 > - 插件名称：Obsidian Image Toolkit
 > - 插件作者：sissilab
 > - 插件说明：提供笔记中查看图片的基本操作
+> - 插件分类：[' 界面相关 ', ' 图片 ', ' 编辑工具 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/sissilab/obsidian-image-toolkit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-image-toolkit)
 
@@ -83,7 +84,7 @@ modified: 20230730133521
 
 - 当你右击某个弹出的图片时，将会在你光标右侧显示菜单，这些菜单包含的功能有缩放、全屏、刷新、旋转、翻转、拷贝、关闭等。
 
-**离开**:
+**退出**:
 
 - 按 Esc 关闭你鼠标所在的图片
 - 在菜单中点击”关闭“

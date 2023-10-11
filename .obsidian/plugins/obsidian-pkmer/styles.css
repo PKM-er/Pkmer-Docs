@@ -1,5 +1,5 @@
 
-[data-type='pkmer-downloader'] .noimg[data-v-5af85691] {
+[data-type='pkmer-downloader'] .noimg[data-v-98b8e3b6] {
 	display: flex;
 	height: 208px;
 	background-color: var(--theme-bg);
@@ -13,7 +13,7 @@
 	filter: saturate(70%) contrast(85%);
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
-[data-type='pkmer-downloader'] .noimg[data-v-5af85691]::before {
+[data-type='pkmer-downloader'] .noimg[data-v-98b8e3b6]::before {
 	color: white;
 	content: attr(data-name);
 	/* 设置标题文字 */
@@ -25,27 +25,27 @@
 	/* 设置标题与内容的间距 */
 	text-shadow: 0 2px 2px #000;
 }
-[data-type='pkmer-downloader'] .plugin_desc[data-v-5af85691] {
+[data-type='pkmer-downloader'] .plugin_desc[data-v-98b8e3b6] {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	display: -webkit-box;
 	-webkit-line-clamp: 2;
 	-webkit-box-orient: vertical;
 }
-[data-type='pkmer-downloader'] .plugin_name[data-v-5af85691] {
+[data-type='pkmer-downloader'] .plugin_name[data-v-98b8e3b6] {
 overflow: hidden;
     text-overflow: ellipsis;
 
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
 }
-[data-type='pkmer-downloader'] .mark[data-v-5af85691] {
+[data-type='pkmer-downloader'] .mark[data-v-98b8e3b6] {
 	position: absolute;
 	top: 0;
 	right: 0;
 	margin: 0;
 }
-[data-type='pkmer-downloader'] .overlay[data-v-5af85691] {
+[data-type='pkmer-downloader'] .overlay[data-v-98b8e3b6] {
 	z-index: 50;
 	position: fixed;
 	top: 0;
@@ -57,14 +57,14 @@ overflow: hidden;
 	align-items: center;
 	justify-content: center;
 }
-[data-type='pkmer-downloader'] .overlay img[data-v-5af85691]{
+[data-type='pkmer-downloader'] .overlay img[data-v-98b8e3b6]{
     min-width: 60vw;
     max-width: 80%;
     max-height: 80%;
     -o-object-fit: contain;
        object-fit: contain;
 }
-[data-type='pkmer-downloader'] .learn[data-v-5af85691] {
+[data-type='pkmer-downloader'] .learn[data-v-98b8e3b6] {
 	transform: rotate(0deg) translateX(-100%) translateZ(0);
 	color: #fff;
 	display: inline-block;
@@ -115,7 +115,7 @@ overflow: hidden;
     color: rgb(208, 111, 78);
 }
 
-[data-type='pkmer-downloader'] .noimg[data-v-ca9b9c09] {
+[data-type='pkmer-downloader'] .noimg[data-v-a0aa1f77] {
 	display: flex;
 	height: 208px;
 	background-color: var(--theme-bg);
@@ -129,7 +129,7 @@ overflow: hidden;
 	filter: saturate(70%) contrast(85%);
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
-[data-type='pkmer-downloader'] .noimg[data-v-ca9b9c09]::before {
+[data-type='pkmer-downloader'] .noimg[data-v-a0aa1f77]::before {
 	color: white;
 	content: attr(data-name);
 	/* 设置标题文字 */
@@ -141,20 +141,20 @@ overflow: hidden;
 	/* 设置标题与内容的间距 */
 	text-shadow: 0 2px 2px #000;
 }
-[data-type='pkmer-downloader'] .plugin_desc[data-v-ca9b9c09] {
+[data-type='pkmer-downloader'] .plugin_desc[data-v-a0aa1f77] {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	display: -webkit-box;
 	-webkit-line-clamp: 2;
 	-webkit-box-orient: vertical;
 }
-[data-type='pkmer-downloader'] .mark[data-v-ca9b9c09] {
+[data-type='pkmer-downloader'] .mark[data-v-a0aa1f77] {
 	position: absolute;
 	top: 0;
 	right: 0;
 	margin: 0;
 }
-[data-type='pkmer-downloader'] .mark[data-v-ca9b9c09]:before {
+[data-type='pkmer-downloader'] .mark[data-v-a0aa1f77]:before {
 	content: '';
 	position: absolute;
 	top: 0;
@@ -166,7 +166,7 @@ overflow: hidden;
 	transform: translateX(-100%);
 	border-top-right-radius: 0.75rem;
 }
-[data-type='pkmer-downloader'] .learn[data-v-ca9b9c09] {
+[data-type='pkmer-downloader'] .learn[data-v-a0aa1f77] {
 	transform: rotate(0deg) translateX(-100%) translateZ(0);
 	color: #fff;
 	display: inline-block;
@@ -179,7 +179,7 @@ overflow: hidden;
 	width: 50px;
 	text-align: center;
 }
-[data-type='pkmer-downloader'] .overlay[data-v-ca9b9c09] {
+[data-type='pkmer-downloader'] .overlay[data-v-a0aa1f77] {
 	z-index: 50;
   position: fixed;
   top: 0;
@@ -191,7 +191,7 @@ overflow: hidden;
   align-items: center;
   justify-content: center;
 }
-[data-type='pkmer-downloader'] .overlay img[data-v-ca9b9c09]{
+[data-type='pkmer-downloader'] .overlay img[data-v-a0aa1f77]{
     min-width: 60vw;
     max-width: 80%;
     max-height: 80%;
@@ -239,14 +239,14 @@ overflow: hidden;
     background-size: 100% 100%;
 }
 
-[data-type='pkmer-downloader'] .tab-container {
+[data-type='pkmer-downloader'] .pkmer-tab-container {
     margin-top: 30px;
 }
 [data-type='pkmer-downloader'] li.active span {
     color: var(--text-accent);
     border-color: var(--text-accent-hover);
 }
-[data-type='pkmer-downloader'] .tab-content {
+[data-type='pkmer-downloader'] .pkmer-tab-content {
     margin-top: 30px;
 }
 [data-type='pkmer-downloader'] .iconify{
@@ -6568,6 +6568,10 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 [data-type='pkmer-downloader'] .bg-green-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(34 197 94 / var(--tw-bg-opacity));
+}
+[data-type='pkmer-downloader'] .bg-green-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(22 163 74 / var(--tw-bg-opacity));
 }
 [data-type='pkmer-downloader'] .bg-white {
   --tw-bg-opacity: 1;

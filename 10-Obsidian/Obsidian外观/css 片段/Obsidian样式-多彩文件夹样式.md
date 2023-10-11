@@ -1,16 +1,16 @@
 ---
 uid: 20230616135009
-title: Obsidian 样式 - 多彩文件夹样式
+title: Obsidian 样式：美化多彩文件夹样式
 tags: [Obsidian, css, 美化, 多彩文件夹]
 description: Obsidian多彩文件夹样式
 author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230616171208
+modified: 20230905153507
 ---
 
-# Obsidian 样式 - 多彩文件夹样式
+# Obsidian 样式：美化多彩文件夹样式
 
 ## 概述
 

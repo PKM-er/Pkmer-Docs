@@ -1,7 +1,7 @@
 ---
 uid: 20230824140342
 title: 关于 PDF Translate
-tags: []
+tags: [zotero插件]
 description: 
 author: windingwind
 type: other

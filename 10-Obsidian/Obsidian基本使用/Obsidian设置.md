@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230621183524
+modified: 20231008235236
 ---
 
 # Obsidian 设置
@@ -143,3 +143,13 @@ Page Preview
 社区插件是 Obsidian 这款软件之所以强大的原因，有非常多厉害的大神开发出好用的插件功能，让 Obsidian 越来越强大。
 
 此功能默认是关闭的，因为使用非官方的插件有可能会造成笔记档案的遗失，或者功能还处于测试阶段。但别想得太可怕，只要确保使用前自己已经有备份笔记的习惯。
+
+## 视频教程
+
+### 【从零开始学 OB】—— Obsidian 设置（上）
+
+<iframe src="https://player.bilibili.com/player.html?aid=363705828&bvid=BV1t94y1p7d6&cid=1272500892&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
+### 【从零开始学 OB】—— Obsidian 设置（下）
+
+<iframe src="https://player.bilibili.com/player.html?aid=321415472&bvid=BV1Mw411Y7ni&cid=1280457398&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>

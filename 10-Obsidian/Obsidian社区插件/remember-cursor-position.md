@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230706191022
+modified: 20230914113918
 ---
 
 # Obsidian 插件：Remember cursor position 记住上次阅读的位置
@@ -20,6 +20,7 @@ modified: 20230706191022
 > - 插件名称：Remember cursor position
 > - 插件作者：Dmitry Savosh
 > - 插件说明：记住每个文件光标和滚动位置
+> - 插件分类：[' 编辑工具 ', ' 文件历史 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/dy-sh/obsidian-remember-cursor-position)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?remember-cursor-position)
 
@@ -27,20 +28,17 @@ modified: 20230706191022
 
 记住每个文件中光标位置和滚动的位置。当您在笔记之间切换、从一个链接转到另一个链接、返回时，您不需要滚动到上次所在的位置。对于长文档阅读和编辑。这非常方便。
 
-## 安装
-
-1. 进入 Obsidian 社区插件
-2. 搜索
-3. 安装
-4. 开启插件
-
-## 设置
-
-- 支持设置最大记录的文件光标数量。
-
 ## 使用方法
 
-暂无
+可以记住每个笔记的光标位置和滚动位置。当你在不同的笔记之间切换、从链接到链接、返回时，你不需要再次滚动到上次停留的位置，非常方便。
+
+光标位置、滚动位置和文本选择都会被存储在一个文件中（路径可以在设置中设置），所以即使你关闭 Obsidian 并重新打开，一切都会被恢复。
+
+它在编辑模式和预览模式下都有效。
+
+### 设置
+
+- 支持设置最大记录的文件光标数量。
 
 > [!Tip] 关联推荐
 > - [[editing-toolbar]]：添加一个浮动编辑栏，增强 Obsidian 的可视化编辑体验。

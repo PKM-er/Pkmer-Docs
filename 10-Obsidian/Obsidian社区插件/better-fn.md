@@ -4,10 +4,10 @@ title: Obsidian 插件：Better footnote 增加悬浮展示功能
 tags: [Obsidian, 插件, 脚注, 引用]
 description: Obsidian 插件 Better footnote 为 Obsidian 注脚增加悬浮展示功能，鼠标指向后，注脚的解释会出现在对应位置。
 author: OS
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230824234136
+modified: 20230911010349
 ---
 
 # Obsidian 插件：Better footnote 增加悬浮展示功能

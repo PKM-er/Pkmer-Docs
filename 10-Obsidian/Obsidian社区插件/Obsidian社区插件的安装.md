@@ -4,10 +4,10 @@ title: Obsidian 社区插件的安装
 tags: [Obsidian, 社区插件, 安装, 基础使用]
 description: Obsidian 社区插件的安装，社区插件安装教程，第三方插件安装方法
 author: OS
-type: other
+type: basic
 draft: false
 editable: false
-modified: 20230703155408
+modified: 20230914161155
 ---
 
 # Obsidian 社区插件的安装
@@ -19,7 +19,7 @@ modified: 20230703155408
 ![](https://cdn.pkmer.cn/images/4141b98fb96d57bafd005f7ad7bbb943_MD5.png!pkmer)
 
 > [!推荐]
-> 使用 我们的 Obsidian Pkmer ，一劳永逸的解决该问题
+> 使用 我们的 Obsidian PKMer ，一劳永逸的解决该问题
 
 ## 手动安装
 
@@ -41,15 +41,15 @@ modified: 20230703155408
 
 文件夹的名字需要是英文。一般我是以库的名称中非 Obsidian 的字段来命名，例如这个库叫 `obsidian-kanban`，我就把这文件夹命名为 `kanban`。
 
-### 将插件文件夹拷贝到 ob 库文件夹内
+### 将插件文件夹拷贝到 Obsidian 仓库文件夹内
 
 1. 需要将 Obsidian 的插件文件夹拷贝到 OB 库文件夹内。 以上述的 kanban 插件文件夹为例。需要在你仓库的文件夹中找到 `.obsidian` 文件夹
 2. 在 `.obsidian` 文件夹内新建一个 `plugins` 的文件夹。（如果已有可忽略这步）
 3. 将刚刚 kanban 文件夹（或者你下载好的文件）复制到 `plugins` 的文件夹内。（你也可以在这里新建插件的文件夹，将上一步下载的文件都放进去）
 
-### 重启 obsidian
+### 重启 Obsidian
 
-第一次启动插件，需要重启 Obsdiain。重启后，在第三方插件中就能看到更多信息。
+第一次启动插件，需要重启 Obsidian。重启后，在第三方插件中就能看到更多信息。
 
 ![image.png](https://cdn.pkmer.cn/images/20230515233240.png!pkmer)
 
