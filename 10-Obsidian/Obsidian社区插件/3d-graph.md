@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230921145913
+modified: 20231011110739
 ---
 
 # Obsidian 插件：3D Graph 一个把管系统图谱 3D 化的绚烂插件
@@ -23,6 +23,8 @@ modified: 20230921145913
 > - 插件分类：[' 关系图谱 ', ' 美化 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/AlexW00/obsidian-3d-graph)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?3d-graph)
+
+## 效果&特性
 
 ![3D Graph](https://cdn.pkmer.cn/covers/3d-graph.gif!pkmer)
 

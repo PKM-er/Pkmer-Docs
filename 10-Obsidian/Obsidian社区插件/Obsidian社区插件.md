@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231010212940
+modified: 20231011142006
 ---
 
 # Obsidian 社区插件
@@ -81,6 +81,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-chat-view-qq]]：保存 QQ 消息到 Obsidian 中，并保持 QQ 的会话格式
 - [[cm-show-whitespace-obsidian]]：在编辑器中显示空白和制表符
 - [[fantasy-name]]：插入一个随机组合出来的人名
+- [[html-tabs]]：在笔记中创建和渲染选项卡和标签面板
+- [[obsidian-code-tab]]：创造一个类似 leetcode 样式的混合代码块，且不仅限于代码块。
 
 ### 格式化
 
@@ -144,6 +146,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
 - [[obsidian-outliner]]：为 Obsidian 的大纲添加快捷操作
 - [[obsidian-list-callouts]]：在大纲列表上，通过设定的字符符号，生成对应的强化图标和强调高亮色
+- [[oin-gotoheading]]：提供在笔记标题之间快速跳转的操作
 - [[obsidian-zoom]]：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容
 - [[automatic-list-styles]]：不借用主题和 css 片段前提下。来实现有序列表，增加不同的层级的前缀符号样式
 - [[list-style]]：在文本行内通过标准的 list style typs，来实现有序列表的多种不同的层级、样式的前缀符号样式
@@ -177,6 +180,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[calendar]]：添加一个简单的日历视图，用于可视化日记和在不同日记间跳转。
 - [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
+- [[tokei]]：将一个数字时钟，放到笔记中
 
 ### 代码域
 
