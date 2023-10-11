@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230918105313
+modified: 20231011141537
 aliases: [Obsidian css代码片段]
 ---
 
@@ -107,7 +107,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-表格样式简明方法]]
 
-### 标签样式
+### 标签 Tag 样式
 
 - [[Obsidian样式-多彩tag样式]]
 
@@ -124,10 +124,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-canvas白板卡片中文字居中]]
 - [[Obsidian样式-Canvas样式的修改及增强卡片的显示效果]]
 
-### dataview
-
-- [[Obsidian样式-建立书籍电影的卡片化视图]]
-
 ### 移动端
 
 [[通过css在移动端右下角添加源码和阅读转换按钮]]
@@ -136,6 +132,11 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-Calendar插件的样式修改]]
 - [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]
+- [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
+
+#### dataview
+
+- [[Obsidian样式-建立书籍电影的卡片化视图]]
 
 ## 自定义 CSS 简单上手指南
 
