@@ -1,13 +1,13 @@
 ---
 uid: 20231011115133
 title: Obsidian 插件：Tokei 一个简单易用的时钟插件
-tags: [关系图谱, 美化, obsidian插件]
-description: 把 关系图谱 3D化，效果很绚丽
+tags: [时间, 挂件, Obsidian, Obsidian插件]
+description: Obsidian 插件：Tokei 一个简单易用的时钟插件
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20231011164958
+modified: 20231012005839
 ---
 
 # Obsidian 插件：Tokei 一个简单易用的时钟插件
