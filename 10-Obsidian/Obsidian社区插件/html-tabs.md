@@ -1,16 +1,16 @@
 ---
 uid: 20231011111619
-title: Obsidian 插件：HTML Tabs 在标题间自由跳转
-tags: [关系图谱, 美化, obsidian插件]
-description: 把 关系图谱 3D化，效果很绚丽
+title: Obsidian 插件：HTML Tabs 给笔记增加选项卡样式
+tags: [美化, obsidian插件, 选项卡]
+description: Obsidian 插件：HTML Tabs 给笔记增加选项卡样式
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20231011164943
+modified: 20231012110940
 ---
 
-# Obsidian 插件：HTML Tabs 在标题间自由跳转
+# Obsidian 插件：HTML Tabs 给笔记增加选项卡样式
 
 ## 概述
 
@@ -21,8 +21,8 @@ modified: 20231011164943
 > - 插件作者：Patrick Tournet
 > - 插件说明：在笔记中创建和渲染选项卡和标签面板
 > - 插件分类：[' 标题 ', ' 效率 ', 'obsidian 插件 ']
-> - 项目地址：[点我访问](https://github.com/oin/obsidian-gotoheading)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gotoheading)
+> - 项目地址：[点我访问](https://github.com/ptournet/obsidian-html-tabs)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?html-tabs)
 
 如果你对这个效果感兴趣，还可以查看这个插件 [[obsidian-code-tab]]
 

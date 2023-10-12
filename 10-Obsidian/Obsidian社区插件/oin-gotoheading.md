@@ -2,7 +2,7 @@
 uid: 20231011110513
 title: Obsidian 插件：Go To Heading 在标题间自由跳转
 tags: [关系图谱, 美化, obsidian插件]
-description: 把 关系图谱 3D化，效果很绚丽
+description: Obsidian 插件：Go To Heading 在标题间自由跳转
 author: OS
 type: basic
 draft: false
