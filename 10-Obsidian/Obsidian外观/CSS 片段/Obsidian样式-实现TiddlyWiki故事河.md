@@ -1,21 +1,19 @@
 ---
 uid: 20230904215512
-title: 通过 CSS 实现侧边栏悬浮、TiddlyWiki 故事河、自定义题图和题图图标
-tags:
-  - Obsidian
-  - css
-  - 移动端支持
+title: Obsidian 样式 - 实现 TiddlyWiki 故事河
+tags: [Obsidian, css, 移动端支持]
 description: 通过 CSS 实现侧边栏悬浮、TiddlyWiki 故事河、自定义题图和题图图标
 author: 阿菜
 type: other
 draft: false
 editable: false
-modified: 20230905003436
+modified: 20231012092236
 ---
 
-![[Pasted image 20231012052909.png]]
+# Obsidian 样式 - 实现 TiddlyWiki 故事河
 
-# 通过 CSS 实现
+![Pasted image 20231012052909](https://cdn.pkmer.cn/images/202310120917462.png!pkmer)
+
 - 侧边栏悬浮
 - TiddlyWiki 故事河布局
 - 自定义题图和题图图标
@@ -26,12 +24,11 @@ modified: 20230905003436
 
 ## 仿 TiddlyWiki 故事河布局
 
-一直以来都想在 Ob 中实现的 [TiddlyWiki](https://tiddlywiki.com/) 故事河布局，另外，这个片段也支持手机和平板，同样具有动态高度。==缺点==是不能更改排序顺序，只能依照打开顺序排序。
+一直以来都想在 Ob 中实现的 [[TiddyWiki]] 故事河布局，另外，这个片段也支持手机和平板，同样具有动态高度。**缺点**是不能更改排序顺序，只能依照打开顺序排序。
 
 > 可以试着配合 Obsidian 的打字机插件，用起来还可以。: )
 
-![[Pasted image 20231012052945.png]]
-
+![Pasted image 20231012052945](https://cdn.pkmer.cn/images/202310120919016.png!pkmer)
 
 ### 代码
 
@@ -117,8 +114,10 @@ div.app-container>.horizontal-main-container>.workspace>.workspace-split.mod-ver
 
 1. 目前只支持左侧边栏。
 2. 新增两个小改进。添加了一个小把手；可以自定义宽度了。
-![[Pasted image 20231012051826.png]]
+![Pasted image 20231012051826](https://cdn.pkmer.cn/images/202310120919188.png!pkmer)
+
 ### 代码
+
 ```CSS
 .workspace-split.mod-horizontal.mod-left-split {
     position: fixed;
@@ -226,9 +225,9 @@ body>div.app-container>div.horizontal-main-container>div>div.workspace-split.mod
 
 ## 横幅和图标
 
-![[Pasted image 20231012052909.png]]
+![Pasted image 20231012052909](https://cdn.pkmer.cn/images/202310120917462.png!pkmer)
 
-> 共两种方法，一个是旧的，一个是新的callout。
+> 共两种方法，一个是旧的，一个是新的 callout。
 
 ### 旧的方法
 
@@ -243,16 +242,16 @@ body>div.app-container>div.horizontal-main-container>div>div.workspace-split.mod
 		3. `bannericonc`：图标**居中对齐**
 		4. `bannericoncc`：图标**居中对齐**且呈现**圆形**
 4. 标题居中对齐，如果使用题头图标居中对齐，那么也一定会想让标题居中对齐。只需要在 `cssclasses` 中输入 `banner-title-center` 即可使标题居中对齐。
-   ![[Pasted image 20230905003048.png]]
+   ![Pasted image 20230905003048](https://cdn.pkmer.cn/images/202310120920664.png!pkmer)
 5. 这个片段对以下插件做了优化
 	1. Breadcrumbs，使 trail 视图下移，不会显示重叠。
 	2. Strange New World，用于题图和题头图标的图片不显示小按钮。
 
-### 新增的Callout
+### 新增的 Callout
 
-- CallOut支持Emoji作为图标了。
-	- Emoji有一个左对齐，一个居中对齐。
-	- 这里沿用了旧方法的四个名称，将其填入callout即可
+- CallOut 支持 Emoji 作为图标了。
+	- Emoji 有一个左对齐，一个居中对齐。
+	- 这里沿用了旧方法的四个名称，将其填入 callout 即可
 		1. `> > [!bannericonl] `：图标**左对齐**
 		2. `> > [!bannericonlc]`：图标**左对齐**且呈现**圆形**
 		3. `> > [!bannericonc]`：图标**居中对齐**
@@ -278,10 +277,11 @@ body>div.app-container>div.horizontal-main-container>div>div.workspace-split.mod
 
 #### 如何使用
 
-1. 在**属性视图**中的`cssclasses`里填入
+1. 在**属性视图**中的 `cssclasses` 里填入
 	1. `bannerimg`，必填的
 	2. `description`，激活描述的，选用。
 	3. `banner-title-center`，标题居中，选用
+
 ### 代码
 
 ```CSS
@@ -721,7 +721,7 @@ span[src$="bannericoncc"] img {
 	- Miner_Float_Sidebar
 	- 一个透明片段
 - 启用插件
-	- [Strange New World](https://github.com/TfTHacker/obsidian42-strange-new-worlds)
+	- [[obsidian42-strange-new-worlds_readme]]
 		- 用于在双链后方显示引用计数与卡片窗口
 	- [Collapse Node](https://github.com/Quorafind/Obsidian-Collapse-Node)
 		- 允许在 Obsidian 白板中折叠卡片
@@ -729,5 +729,5 @@ span[src$="bannericoncc"] img {
 ## FAQ
 
 - Q：在笔记卡片中显示为卡片分列的是什么功能？
-  ![[Pasted image 20230904235808.png]]
+  ![Pasted image 20230904235808](https://cdn.pkmer.cn/images/202310120920312.png!pkmer)
 	- A：minimal 主题的列表转卡片。在 cssclasses 中输入 `list-cards` 即可激活，详细设置请看 [minimal文档/卡片](https://minimal.guide/cards)
