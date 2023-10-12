@@ -60,6 +60,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[obsidian安卓上利用css修改界面字体]]
 - [[Obsidian样式-缩减栏宽模式下美化笔记内部背景]]
 - [[Obsidian样式-iPhone-Obsidian自定义字体]]
+- [[Obsidian样式-实现TiddlyWiki故事河]]
 
 ### 图片
 
