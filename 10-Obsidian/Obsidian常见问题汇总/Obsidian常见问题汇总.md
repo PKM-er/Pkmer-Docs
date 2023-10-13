@@ -7,7 +7,7 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20230801180738
+modified: 20231013235124
 ---
 
 # Obsidian 常见问题汇总
@@ -59,6 +59,10 @@ modified: 20230801180738
 - [[Obsidian基础操作问题#快速跳回笔记开头或结尾位置]]
 - [[Obsidian基础操作问题#Obsidian 为什么不能重命名文件名]]
 - [[Obsidian基础操作问题#不使用键盘，点击文件名在新面板打开]]
+
+## 标签页和链接
+
+- [[Obsidian基础操作问题#在浏览器里按住 ctrl 点击链接，链接会在新 tab 里打开，但不会跳转到新 tab，Obsidian 中如何实现]]
 
 ## 显示&输入
 
@@ -127,25 +131,84 @@ modified: 20230801180738
 
 ## 社区插件
 
-### 基础问题
+### 高频问题
 
 - [[Obsidian插件常见问题#如何打开社区插件]]
 - [[Obsidian插件常见问题#插件社区不能加载]]
-- [[Obsidian插件常见问题#插件下载后不能启用]]
 
 ### 插件兼容和使用
 
+#### Calendar
+
 - [[Obsidian插件常见问题#打开 Calendar 后侧边栏不显示对应图标]]
+- [[Obsidian插件常见问题#开启插件，但是不显示日历部分（by OS）]]
+- [[Obsidian插件常见问题#点的含义是什么？（by OS）]]
+- [[Obsidian插件常见问题#如何更改日历的样式？（by OS）]]
+- [[Obsidian插件常见问题#如何更改日历的样式？（by OS）]]
+- [[Obsidian插件常见问题#如何在不禁用插件的情况下隐藏日历插件？（by OS）]]
+- [[Obsidian插件常见问题#不小心关闭了 Calendar 插件。如何重新打开它？（by OS）]]
+- [[Obsidian插件常见问题#如何让日历从星期一开始？（by OS）]]
+- [[Obsidian插件常见问题#如何让日历从星期一开始？（by OS）]]
+- [[Obsidian插件常见问题#不喜欢显示周数，但我仍然想使用每周笔记。我还能使用它们吗？（by OS）]]
+
+#### Banners
+
 - [[Obsidian插件常见问题#为什么 Obsidian 的头图 或者 banners 插件显示异常]]
 - [[Obsidian插件常见问题#Obsidian 插件 Excalidraw 的橡皮擦在哪里]]
 - [[Obsidian插件常见问题#数字后面的中文字词会重复两次]]
 - [[Obsidian插件常见问题#备忘录 Memos 无法启动打开？]]
 - [[Obsidian插件常见问题#开 React Components 这个插件会导致白板（canvas）异常]]
 
+#### Dataview
+
+[[40 - FAQ-常见问题]]
+
+#### Enhancing mindmap
+
+- [[Obsidian插件常见问题#为什么我打开后很卡顿（by OS）]]
+
+#### Excalidraw
+
+- [[Obsidian插件常见问题#Excalidraw 能使用仓库里面的其他附件（图片吗）？（by OS）]]
+- [[Obsidian插件常见问题#Excalidraw 支持二合一平板手写笔使用吗？(by 苯环)]]
+- [[Obsidian插件常见问题#Excalidraw 如何识别手写字？ (by 熊猫)]]
+- [[Obsidian插件常见问题#Excalidraw 画板取消链接的 ` ` (by 熊猫)]]
+- [[Obsidian插件常见问题#Obsidian 插件 Excalidraw 的橡皮擦在哪里]]
+
+#### EasyTyping
+
+- [[Obsidian插件常见问题#数字后面的中文字词会重复两次]]
+
+#### Folder Note
+
+[[Obsidian插件常见问题#为什么建立了一个和文件夹同名的笔记，该笔记不显示（by OS）]]
+
+#### Make.md
+
+- [[Obsidian插件常见问题#为什么笔记上有多个悬浮工具栏（by OS）]]
+- [[Obsidian插件常见问题#新更新的 Properties 跟以前的属性有什么区别？（by 苯环）]]
+
+### Memos
+
+- [[Obsidian插件常见问题#备忘录 Memos 无法启动打开？]]
+
+### Templater
+
+- [[Obsidian插件常见问题#Obsidian 怎么显示笔记上次修改时间]]
+
+#### React Components
+
+- [[Obsidian插件常见问题#开 React Components 这个插件会导致白板（canvas）异常]]
+
+#### Folder note
+
+[[Obsidian插件常见问题#folderNote 修改文件夹名后笔记链接断开]]
+
 ## 主题
 
 ### Bluetopaz 主题和 BT 示例库
 
+- [[Obsidian主题常见问题#文档属性不显示内容 (by 熊猫)]]
 - [[Obsidian主题常见问题#使用主题后，文件管理器，不同级的文件夹和文件缩进一样]]
 - [[Obsidian主题常见问题#鼠标指向插入的图片时，鼠标指针变化样式]]
 - [[Obsidian主题常见问题#如何获取指定地区的天气？]]
@@ -172,4 +235,4 @@ modified: 20230801180738
 
 ### Syncthing
 
--[[Obsidian插件常见问题#Syncthing 如何忽略文件]]
+- [[Obsidian插件常见问题#Syncthing 如何忽略文件]]
