@@ -7,7 +7,7 @@ author: Bon
 type: basic
 draft: false
 editable: false
-modified: 20230914153558
+modified: 20231017111405
 ---
 
 # Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
@@ -23,8 +23,8 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 > - 插件项目地址：[点我跳转](https://github.com/Quorafind/Obsidian-Memos)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-memos)
 
-1. 当你创建一个 Query 的时候，会存放在你的日记文件夹中的 Query.md 中，请不要直接编辑它。
-2. 当你删除一个 Memo 的时候，它会被发送到你的日记文件夹中的 Delete.md 中，请不要直接编辑它。
+> [!Tip] 最新进展
+> 如果你想了解 Memos 最新进展，可以看这里 [[memos-changelog]]
 
 ## 效果&特性
 
@@ -100,6 +100,10 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 ### 为热力图设置不同的颜色
 
 您可以在此处下载 CSS 代码片段：[热力图颜色](./document/Heatmap-css-snippet.css)
+
+> [!Tip]
+> 1. 当你创建一个 Query 的时候，会存放在你的日记文件夹中的 Query.md 中，请不要直接编辑它。
+> 2. 当你删除一个 Memo 的时候，它会被发送到你的日记文件夹中的 Delete.md 中，请不要直接编辑它。
 
 ## 开发进度
 
