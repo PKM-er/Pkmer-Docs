@@ -20,6 +20,6 @@ Andriod&鸿蒙系统的默认机制是，其图片浏览器以及媒体播放器
 
 ### 方法二：通过手机app创建
 
-在Google Play商店中有一个app，叫作*Nomedia*，可以在app内轻松选择需要忽略的文件夹，点击按钮即可一键为其添加`.nomedia`文件。![[Screenshot_20231018_004922_com.mrck.nomedia.jpg]]![[Screenshot_20231018_010335_com.android.vending.jpg]]
+在Google Play商店中有一个app，叫作*Nomedia*，可以在app内轻松选择需要忽略的文件夹，点击按钮即可一键为其添加`.nomedia`文件。![](https://cdn.pkmer.cn/images/202310181256010.jpg!pkmer)![](https://cdn.pkmer.cn/images/202310181300093.jpg!pkmer)
 
 `.nomedia`文件添加完毕后，重启手机，你就会发现相册里乱七八糟的图片都不见啦，大功告成！😃
