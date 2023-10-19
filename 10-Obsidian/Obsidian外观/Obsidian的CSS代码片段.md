@@ -57,10 +57,11 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-引用框样式]]
 - [[Obsidian样式-编辑模式代码块显示行号]]
 - [[Obsidian样式-修复1.3.7版本标题语法高度问题]]
-- [[obsidian安卓上利用css修改界面字体]]
+- [[Obsidian安卓上利用css修改界面字体]]
 - [[Obsidian样式-缩减栏宽模式下美化笔记内部背景]]
 - [[Obsidian样式-iPhone-Obsidian自定义字体]]
 - [[Obsidian样式-实现TiddlyWiki故事河]]
+- [[Obsidian样式-完成任务时如何取消任务文本的删除线]]
 
 ### 图片
 

@@ -7,7 +7,7 @@ author: Windysoul,Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231008002405
+modified: 20231019232126
 ---
 
 # Obsidian 插件：Dataview
@@ -37,7 +37,7 @@ Dataview 插件的用途主要有三个方面。
 
 ## 本系列文章在讲什么？
 
-本系列文章分为四个部分：语法部分、示例部分、实战部分、
+本系列文章分为四个部分：基本语法、实例展示、语法实战、社区实践（来自社区大家贡献）
 
 ### [[Dataview基本语法|开篇-Dataview基本语法]]
 
@@ -53,8 +53,7 @@ Dataview 插件的用途主要有三个方面。
 - [[22 - 查询字段]]
 - [[23 - 操作符]]
 - [[24 - 表达式]]
-- [[25 - Funtion 函数]]
-- [[30 - FAQ-常见问题]]
+- [[30 - Function 函数]]
 - [[31 - DQL 与 SQL 的异同]]
 - [[32 - Dataview 中的数值运算函数]]
 - [[33 - Dataview 中的对象操纵函数]]
@@ -101,7 +100,7 @@ Dataview 插件的用途主要有三个方面。
 
 ### [[Dataview社区实践经验|应用-Dataview社区实践经验]]
 
-- [[Dataview实战-提取并展示笔记脚注]]]
+- [[Dataview实战-提取并展示笔记脚注]]
 - [[Dataview实战-Obsidian dataview 引用本地图片]]
 - [[Dataview实战-发挥元数据的魔力-掌握 Dataview 的四大查询类型]]
 - [[Dataview实战-定制你的数据表格并为表格列添加个性化样式]]
