@@ -97,7 +97,7 @@ for (i of img) {
 同样需要保存为 md 文件保存到指定文件夹
 
 > [!caution]+ 需要修改的路径 (`${file_name}` 和 `${folder}` 不修改)
-> ![](e432490bc32b2d5831699bee3a5cb896.png)
+> ![](https://cdn.pkmer.cn/images/202310202203076.png!pkmer)
 > - 第一个为 Obsidian 中存放素材的路径 (已创建的路径)
 > - 第二个为 Eagle 的素材 images 的路径
 
