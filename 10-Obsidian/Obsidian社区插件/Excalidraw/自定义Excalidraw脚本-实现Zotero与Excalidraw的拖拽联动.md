@@ -227,7 +227,7 @@ function match_zotero_image(text) {
 
 如果你想添加标注的卡片颜色，可以在**首选项 ->高级中编辑器 ->Accept the Risk and Continue->搜索：`annotations.noteTemplates`**，修改高亮标注的模板，添加{{color}}属性，其他属性见官方文档：[note templates [Zotero Documentation]](https://www.zotero.org/support/note_templates)：
 
-![[Pasted image 20231017234748.png]]
+![Pasted image 20231017234748](https://cdn.pkmer.cn/images/202310202207424.png!pkmer)
 
 ```
 <p>{{color}} {{highlight}} {{citation}} {{comment}}</p>
@@ -235,11 +235,11 @@ function match_zotero_image(text) {
 
 设置完成之后，再运行该脚本，插入的卡片就可以根据匹配标注的颜色了，根据选择可以设置 2 种卡片颜色方案：
 
-![[Pasted image 20231017234628.png]]
+![Pasted image 20231017234628](https://cdn.pkmer.cn/images/202310202207936.png!pkmer)
 
 > [!tip]+ 禁用卡片文字弹窗
 > 如果你不需要设定颜色，可以ESC，或者注释掉这个弹窗的代码。
-> ![[Pasted image 20231017234639.png]]
+> ![Pasted image 20231017234639](https://cdn.pkmer.cn/images/202310202207454.png!pkmer)
 > 注释掉这一行：
 >
 > ```
