@@ -73,6 +73,11 @@ reference: [简单调用霞鹜文楷字体 - 经验分享 - Obsidian 中文论�
 
 reference: [pourmand1376/obsidian-custom-font: A plugin to set custom font for obsidian](https://github.com/pourmand1376/obsidian-custom-font)
 
-新插件，我试用了一下，但是一直弹出 processing file，估计是中文字体文件太大了
 
-所以这个插件暂时还用不了
+2023-09-23，新版本已经能处理字体大文件了，可以使用这个插件来自定义字体。
+
+- 将字体文件（.woff、.ttf 和 .woff2）添加到 `.obsidian/fonts` 文件夹中。
+- 打开插件设置，然后从下拉菜单中选择所需的字体。
+- 所选字体现在将应用于整个保管库。您可以随时切换字体。
+
+~~2023-08-18，新插件，我试用了一下，但是一直弹出 processing file，估计是中文字体文件太大了，所以这个插件暂时还用不了~~

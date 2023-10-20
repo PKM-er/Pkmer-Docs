@@ -35,7 +35,7 @@ modified: 20230603014245
 
 假设我有一个关于 Jim 的笔记，名为“Jim.md”，并包含标签“#person”。
 
- ```MD
+```
 ---
 status: 经常联系
 age: 42
@@ -44,7 +44,6 @@ age: 42
 Jim 是我的同事，负责技术开发相关的工作。
 
 #person
-
 ```
 
 如果其他笔记引用了 Jim 笔记，可以通过插件设置 Jim 链接的样式，比如可以在链接前加个电话的表情符号<img src="https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/images/phone-jim.png" style="height:30px;vertical-align:bottom">.，并给链接加一个蓝色背景色。

@@ -1,9 +1,10 @@
 ---
 uid: 20230709190845
 title: Excalidraw 局部嵌入 Obsidian
-tags: [excalidraw]
+tags:
+  - excalidraw
 description: Excalidraw 生成链接局部嵌入图形到Obsidian中
-author: 铅笔小明
+author: 是明导么
 type: basic
 draft: false
 editable: false

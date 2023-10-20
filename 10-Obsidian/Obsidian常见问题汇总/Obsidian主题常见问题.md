@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230725152958
+modified: 20231013233235
 ---
 
 # Obsidian 主题常见问题
@@ -15,6 +15,18 @@ modified: 20230725152958
 ## 主题类问题
 
 ### Bluetopz 主题和 BT 示例库
+
+#### 文档属性不显示内容 (by 熊猫)
+
+如图
+
+![image.png](https://cdn.pkmer.cn/images/20231013233201.png!pkmer)
+
+答：找到主题中的此内容，将 display 注释掉
+
+```
+.workspace-split.mod-horizontal:is(.mod-left-split,.mod-right-split) .workspace-tab-container :is(.metadata-container,.frontmatter-container) { /* display: none; */ }
+```
 
 #### 使用主题后，文件管理器，不同级的文件夹和文件缩进一样
 

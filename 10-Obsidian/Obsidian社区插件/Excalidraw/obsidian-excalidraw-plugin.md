@@ -120,6 +120,12 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 
 这样深度融合进 Obsidian，配合 Markdown 语法，方便的嵌入，高度自定义的 Excalidraw 又怎能不爱？
 
+## 社区实践
+
+- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
+- [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
+- [[Excalidraw局部嵌入Obsidian]]
+
 ## 支持开源开发者
 
 如果你深度使用 Excalidraw 并可以用其提高生产力，建议登录 [Buy ZsoltViczián a Coffee. ko-fi.com/zsolt - Ko-fi ❤️.](https://ko-fi.com/zsolt) 赞助一波，需要 paypal 或者信用卡。没有这两样的也可以 [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) 到这个项目下，登录后点右上角的星星，让更多人看到。

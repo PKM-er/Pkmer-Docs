@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230921202148
+modified: 20231013234309
 ---
 
 # Obsidian 插件常见问题
@@ -105,7 +105,43 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 		- 或者把对应 Calendar 图标转过来。
 		- 或者减少一些不需要功能图标
 
-## banners
+### 开启插件，但是不显示日历部分（by OS）
+
+回答：一般是因为右侧侧边栏过窄，需要鼠标拖动加大右边栏宽度就好了
+
+### 点的含义是什么？（by OS）
+
+每个实心点代表你每日笔记中的 250 个单词。所以 4 个点意味着你在那一天写了一千个单词！如果你想改变这个阈值，你可以在日历设置中设置不同的“每个点的单词数”。
+
+另一方面，空心点表示该天有未完成的任务。（**注意：**无论剩余任务的数量如何，特定的一天只会有一个空心点）
+
+### 如何更改日历的样式？（by OS）
+
+默认情况下，日历应无缝地与您的主题相匹配，但如果您想进一步自定义它，您可以在您的 `obsidian.css` 文件（位于您的保险库内）中配置样式。
+
+在设置中，您可以启用“显示周数”选项，将“周数”列添加到日历中。单击周数即可打开“每周笔记”。
+
+### 如何在不禁用插件的情况下隐藏日历插件？（by OS）
+
+就像其他侧边栏视图（例如反向链接、大纲）一样，可以通过右键单击视图图标来关闭日历视图。
+
+### 不小心关闭了 Calendar 插件。如何重新打开它？（by OS）
+
+如果您关闭了日历小部件（右键单击面板导航并单击关闭），您可以通过命令面板重新打开视图。只需搜索“Calendar: Open view”。
+
+### 如何让日历从星期一开始？（by OS）
+
+您可以在设置菜单中切换“从星期一开始”。
+
+如果您希望每周笔记的格式中包含一个单词（例如 "2020 年第 21 周 "），您可以使用 `[]` 括号将单词括起来。这会告诉 [moment](https://momentjs.com/docs/#/displaying/format/) 忽略这些单词。因此，对于上面的示例，您可以将格式设置为 `[Week] ww [of Year] gggg`。
+
+### 不喜欢显示周数，但我仍然想使用每周笔记。我还能使用它们吗？（by OS）
+
+您可以通过在命令面板中搜索“Calendar: Open weekly Note”来打开当前的每周笔记。这将打开当前周的每周笔记。
+
+要配置“格式”、“文件夹”和“模板”，您需要暂时切换到设置中的“显示周数”，但如果您切换回关闭状态，您的设置将保持不变。
+
+## Banners
 
 ### 为什么 Obsidian 的头图 或者 banners 插件显示异常
 
@@ -125,14 +161,62 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 
 ![banners设置](https://cdn.pkmer.cn/images/066c9f4b1cad89a77853126e9f51b05f_MD5.png!pkmer)
 
-## Memos
+## Dataview
 
-### 备忘录 Memos 无法启动打开？
+[[40 - FAQ-常见问题]]
 
-1. 开启核心插件日记
-2. 在核心插件日记的插件设置中指定日记文件夹位置。
+## Enhancing mindmap
+
+### 为什么我打开后很卡顿（by OS）
+
+答：
+
+- 原理：首先图普类插件区别于一般的文字处理，或者局部处理插件，只针对选中或者当前笔记文字做处理，更多牵扯到了图形化渲染，所以性能损耗更高一些。
+- 这个问题，可以通过在插件设置里面，减小画布尺寸来达到缓解
 
 ## Excalidraw
+
+### Excalidraw 能使用仓库里面的其他附件（图片吗）？（by OS）
+
+回答：可以，参看下图
+
+![image.png](https://cdn.pkmer.cn/images/20231013231702.png!pkmer)
+
+### Excalidraw 支持二合一平板手写笔使用吗？(by 苯环)
+
+回答：支持。可以在手写笔模式和光标模式之间进行切换。
+
+### Excalidraw 如何识别手写字？ (by 熊猫)
+
+答：目前有两种识别手写字的方式：1、在平板上边写边输入，2、写完后通过 OCR 识别手写体。
+
+1、在平板上边写边输入：
+
+Excalidraw 的脚本市场在页面的右上角，有个齿轮⚙叠加播放的按钮，里面是它的脚本市场
+
+![image.png](https://cdn.pkmer.cn/images/20231013231852.png!pkmer)
+
+在 Excalidraw 的脚本市场里面，有一个叫 scribble hepler 脚本，支持边写边输入，而且效果很不错
+
+![image.png](https://cdn.pkmer.cn/images/20231013231910.png!pkmer)
+
+![image.png](https://cdn.pkmer.cn/images/20231013231922.png!pkmer)
+
+2、通过 OCR 识别
+
+首先 Excalidraw 是可以使用 OCR 的可以在设置里面设置
+
+![image.png](https://cdn.pkmer.cn/images/20231013232110.png!pkmer)
+
+然后还有通过外部的软件辅助识别，详细介绍见链接：
+
+[Umi-OCR 本地图片识别并批量转换]([https://pkmer.cn/show/20230725164407](https://pkmer.cn/show/20230725164407) )
+
+![image.png|400](https://cdn.pkmer.cn/images/20231013232126.png!pkmer)
+
+### Excalidraw 画板取消链接的 `[[ ]]` (by 熊猫)
+
+![image.png](https://cdn.pkmer.cn/images/20231013232254.png!pkmer)
 
 ### Obsidian 插件 Excalidraw 的橡皮擦在哪里
 
@@ -153,6 +237,35 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 	- 方案一：更换输入法，此问题一般出现在你的输入法是微软拼音输入法
 	- 方案二：关闭微软拼音中的【兼容性】选项
 	![image.png](https://cdn.pkmer.cn/images/20230524151250.png!pkmer)
+
+## Folder Note
+
+### 为什么建立了一个和文件夹同名的笔记，该笔记不显示（by OS）
+
+答：可能因为你使用 Folder note 插件，该插件会把文件加同名笔记，当作是文件夹本身的目录。可以通过点击 ctrl + 左键来查看同名笔记。
+
+当然也可以 通过插件设置显示对应的笔记
+
+![image.png](https://cdn.pkmer.cn/images/20231013145036.png!pkmer)
+
+## Make.md
+
+### 为什么笔记上有多个悬浮工具栏（by OS）
+
+![image.png|400](https://cdn.pkmer.cn/images/20231013231607.png!pkmer)
+
+答：同时开启了 make.md 插件，和 edting toolbar 插件
+
+### 新更新的 Properties 跟以前的属性有什么区别？（by 苯环）
+
+回答：图示的是 make.md 的功能，1.4 版本前 Obsidian 本体并没有属性功能。
+
+## Memos
+
+### 备忘录 Memos 无法启动打开？
+
+1. 开启核心插件日记
+2. 在核心插件日记的插件设置中指定日记文件夹位置。
 
 ## Templater
 
