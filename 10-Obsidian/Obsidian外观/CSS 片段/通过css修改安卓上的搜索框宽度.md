@@ -16,11 +16,11 @@ modified: 20231019163741
 
 安卓上默认主题下，单篇文章搜索的输入框太宽，导致无法使用【前一个】【后一个】按钮
 
-![[diOdFOidsFHPOAFSH.jpg]]
+![diOdFOidsFHPOAFSH](https://cdn.pkmer.cn/images/202310202218837.jpg!pkmer)
 
 通过 css 代码修改宽度，将【前一个】【后一个】按钮露出来
 
-![[wioaufioasuduao.jpg]]
+![wioaufioasuduao](https://cdn.pkmer.cn/images/202310202218570.jpg!pkmer)
 
 ## 代码
 
