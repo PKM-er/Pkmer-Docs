@@ -136,6 +136,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-Calendar插件的样式修改]]
 - [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]
+- [[Obsidian样式-简单更改Excalidraw工具栏布局]]
 
 ## 自定义 CSS 简单上手指南
 
