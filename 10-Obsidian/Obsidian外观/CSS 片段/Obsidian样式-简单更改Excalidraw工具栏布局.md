@@ -18,7 +18,7 @@ modified: 20231020213238
 
 ## 布局一：方便 Library 固定
 
-![[Pasted image 20231014143146.png]]
+![Pasted image 20231014143146](https://cdn.pkmer.cn/images/202310202134659.png!pkmer)
 
 ```css
 /* ====侧边栏的容器修改==== */
