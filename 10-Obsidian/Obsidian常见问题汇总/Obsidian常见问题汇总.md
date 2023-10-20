@@ -112,6 +112,7 @@ modified: 20231013235124
 
 - [[Obsidian基础操作问题#Obsidian 在手机上如何插入手机中的图片]]
 - [[Obsidian基础操作问题#Obsidian 手机端的笔记库无法打开]]
+- [[安卓&鸿蒙设备照片中乱入Obsidian图片解决方案]]
 
 ## 核心插件
 
