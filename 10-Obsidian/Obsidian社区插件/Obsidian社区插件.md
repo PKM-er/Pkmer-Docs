@@ -272,6 +272,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 在 Obsidian 中，您可以使用多种绘图工具，例如 Excalidraw 和 mermaid，来完成流程图、UML 图等专业图表的绘制，以辅助表达您的笔记内容。
 
 - [[obsidian-excalidraw-plugin]]：在 Obsidian 中 使用 Excalidraw 绘图
+	- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
 	- [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
 	- [[Excalidraw局部嵌入Obsidian]]
 - [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义

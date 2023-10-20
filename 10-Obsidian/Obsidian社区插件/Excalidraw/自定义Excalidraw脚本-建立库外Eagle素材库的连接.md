@@ -1,22 +1,18 @@
 ---
 uid: 20231014173618
-title: 自定义 Excalidraw 脚本：建立库外 Eagle 素材库的连接
-tags:
-  - Eagle
-  - Excalidraw
-  - 工作流
-  - 工作流搭建
-description: 
+title: 自定义 Excalidraw 脚本-建立库外 Eagle 素材库的连接
+tags: [Eagle, Excalidraw, 工作流, 工作流搭建]
+description: 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231014173747
+modified: 20231020215808
 ---
 
-# 自定义 Excalidraw 脚本：建立库外 Eagle 素材库的连接
+# 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
 
-![](75ac5a79fcae1ef285b667f562822afa.png)
+![](https://cdn.pkmer.cn/images/202310202158767.png!pkmer)
 
 > [!caution]+ 温馨提醒
 > 这个脚本是作用在 Obsidian 笔记库外的 Eagle 库，Eagle 在导入文件时会创建很多其他数据文件，并不适应于在 Obsidian 中建立，可以尝试用 Billfish 管理 Obsidian 内部的图片。
@@ -29,28 +25,29 @@ modified: 20231014173747
 
 该脚本的主要功能是通过拖拽将 Eagle 中素材拖入 Excalidraw 画板中时，会自动复制素材到 Obsidian 笔记库中，同时读取 Eagle 素材文件下的 metadata.json 文件中的信息，将存储的 url 连接随着素材嵌入到 Excalidraw 画板中，这样就可以让存放的图片、HTML、PDF、PPT 等素材嵌入到 Excalidraw 画板同时可以打开对应的外部链接。
 
-![](a6d12150b693233331f7dd67ed283353.gif)
+<iframe src="https://player.bilibili.com/player.html?aid=234651352&bvid=BV14841167do&cid=1232824646&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
 
 ### 针对 Office 和 PDF 的嵌入
 
 > [!tip]+ 针对 Office 三件套和 PDF 的优化
 > 如果嵌入的是 Office 三件套或者 PDF 的话，会出现弹窗选择插入缩略图还是链接：确定则插入缩略图附加文件回链，取消则只插入连接：
-> ![](dd02f038d93fec3f7c7241997ffb3a69.png)
+> ![](https://cdn.pkmer.cn/images/202310202201169.png!pkmer)
 
 ### 通过图片跳转 Eagle 原文件
 
 > [!tip]+ Eagle 的外部回链
 > Eagle 也存在外部链接，默认为 `eagle://item/{文件名}`，文件会在 Eagle 中打开。
 > 故当你选择一个图片时，再次单击这个脚本，就会在 Eagle 中打开这个图片。
-> ![](51a930a622057594918567856a4471d6.gif)
+> ![](https://cdn.pkmer.cn/images/202310202201951.gif)
 
 ## OpenSelectImage 脚本
 
 > [!tip]+ OpenSelectImage
 > 默认软件打开画板中选中的图片，适用于当您想用默认软件编辑笔记画板中的图片时，采用的一个快捷方式。
-> ![](2e9fc835eff246c4f5c2cc1214409d58.png)
+> ![](https://cdn.pkmer.cn/images/202310202201572.png!pkmer)
 
-![](76bb0e4c84a9690f4d346f5c9508d22c.gif)
+![](https://cdn.pkmer.cn/images/202310202201415.gif)
 
 ```JavaScript
 await ea.addElementsToView(); //to ensure all images are saved into the file
@@ -93,7 +90,7 @@ for (i of img) {
 
 修改完路径后将下面代码保存为 md 文件，修改放入 Excalidraw 指定的 Scripts 的文件夹中，在 Excalidraw 的画板中的工具面板中就会出现一个齿轮按钮，需要时点击运行就可以了。
 
-![](087b3d4160fc33203366856a4ec3bb5d.png)
+![](https://cdn.pkmer.cn/images/202310202201799.png!pkmer)
 
 ## EagleToExcalidraw 脚本
 
