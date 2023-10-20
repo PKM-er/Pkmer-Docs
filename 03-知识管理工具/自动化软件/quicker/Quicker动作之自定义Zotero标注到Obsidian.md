@@ -17,6 +17,9 @@ modified: 20231020211308
 
  之前介绍了一篇 Zotero 无缝衔接 Excalidraw 画板的脚本，但是很多情况我们还是以 Markdown 为主的来记录 Zotero 的文献笔记，本文将介绍如何通过 Quicker 来制作 Zotero 到 Obsidian 的自动化动作，可以根据自己习惯选择性的自定义粘贴格式。
 
+![273108604-388e10ae-18bc-4833-b78a-cc72e1259ccf.png](https://cdn.pkmer.cn/images/202310202114602.png!pkmer)
+
+
 ## 制作 Quiker 动作的思路
 
 首先介绍一下 Zotero 的 Annotation 的组成部分，在 Zotero 设置中编辑器中搜索 `noteTemplates`，可以看到 Zotero 的标注信息组成部分：
