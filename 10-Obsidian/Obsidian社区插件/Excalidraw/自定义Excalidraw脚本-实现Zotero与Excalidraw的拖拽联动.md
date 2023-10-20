@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231005231228
+modified: 20231017234749
 ---
 
 # 自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动
@@ -64,6 +64,111 @@ modified: 20231005231228
 > [!tip]+ 如果你是拖拽替他文本，该脚本可以帮你格式化处理一下的
 
 ```javascript
+const path = require('path');
+const fs = require("fs");
+
+let api = ea.getExcalidrawAPI();
+let el = ea.targetView.containerEl.querySelectorAll(".excalidraw-wrapper")[0];
+
+el.ondrop = async function (event) {
+    console.log("ondrop");
+    event.preventDefault();
+    var insert_txt = event.dataTransfer.getData("Text");
+
+    // 清空原本投入的文本
+    event.stopPropagation();
+    ea.clear();
+
+    // 设定一些样式
+    ea.style.strokeStyle = "solid";
+
+    let zotero_color = match_zotero_color(insert_txt);
+    // alert(zotero_color);
+
+    if (zotero_color) {
+        // 卡片背景颜色
+        ea.style.backgroundColor = zotero_color;
+        ea.style.backgroundColor = "#ffffff";
+        // 卡片字体颜色
+        ea.style.strokeColor = zotero_color;
+        // ea.style.strokeColor = "#1e1e1e"
+    }
+
+    ea.style.fillStyle = 'solid';
+    ea.style.roughness = 0;
+    // ea.style.roundness = { type: 3 }; // 圆角
+    ea.style.strokeWidth = 2;
+    ea.style.fontFamily = 4;
+    ea.style.fontSize = 20;
+
+    // 格式化文本(去空格、全角转半角)  
+    insert_txt = processText(insert_txt)
+
+    if (insert_txt.includes("zotero://")) {
+        console.log("Zotero");
+
+        zotero_txt = match_zotero_txt(insert_txt);
+        zotero_author = match_zotero_author(insert_txt);
+        if (zotero_author) {
+            zotero_author = `(${zotero_author})`;
+        };
+        zotero_comment = match_zotero_comment(insert_txt);
+        if (zotero_comment) {
+            zotero_comment = `\n\n📝：${zotero_comment}`;
+        };
+        zotero_link = match_zotero_link(insert_txt);
+
+        if (zotero_txt) {
+            console.log("ZoteroText");
+
+            let id = await ea.addText(0, 0, `📖：${zotero_txt}${zotero_author}${zotero_comment}`, { width: 600, box: true, wrapAt: 80, textAlign: "left", textVerticalAlign: "middle", box: "box" });
+            let el = ea.getElement(id);
+            el.link = zotero_link;
+            await ea.addElementsToView(true, false, false);
+            if (ea.targetView.draginfoDiv) {
+                document.body.removeChild(ea.targetView.draginfoDiv);
+                delete ea.targetView.draginfoDiv;
+            };
+        } else {
+            console.log("ZoteroImage");
+            zotero_image = match_zotero_image(insert_txt);
+            zotero_image_name = `${zotero_image}.png`;
+
+            // 📌修改到Zotero的library文件夹
+            zotero_image_path = `D:\\Zotero\\cache\\library\\${zotero_image}.png`;
+
+            // 📌定义附件保存的地址，修改到你定义的笔记文件夹
+            let Obsidian_image_Path = `D:\\PandaNotes\\Y-图形文件存储\\ZoteroImages\\${zotero_image}.png`
+
+            // 复制zotero的图片到Obsidian的笔记库
+            fs.copyFileSync(zotero_image_path, Obsidian_image_Path);
+
+            await new Promise((resolve) => setTimeout(resolve, 200)); // 暂停0.2秒，等待复制文件的过程
+
+            let id = await ea.addImage(0, 0, zotero_image_name);
+            let el = ea.getElement(id);
+            el.link = zotero_link;
+            await ea.addElementsToView(true, false, false);
+            if (ea.targetView.draginfoDiv) {
+                document.body.removeChild(ea.targetView.draginfoDiv);
+                delete ea.targetView.draginfoDiv;
+            };
+        };
+
+    } else {
+        let id = await ea.addText(0, 0, `${insert_txt} `, { width: 400, box: true, wrapAt: 50, textAlign: "left", textVerticalAlign: "middle", box: "box" });
+        let el = ea.getElement(id);
+        await ea.addElementsToView(true, false, false);
+        if (ea.targetView.draginfoDiv) {
+            document.body.removeChild(ea.targetView.draginfoDiv);
+            delete ea.targetView.draginfoDiv;
+        };
+
+    };
+};
+
+new Notice("ZoteroToExcalidraw脚本已启动！");
+
 function processText(text) {
     // 替换英文之间的多个空格为一个空格
     text = text.replace(/([a-zA-Z])([\u4e00-\u9fa5])/g, '$1 $2');
@@ -74,11 +179,17 @@ function processText(text) {
     // 将全角字符转换为半角字符
     text = text.replace(/[\uFF01-\uFF5E]/g, function (match) { return String.fromCharCode(match.charCodeAt(0) - 65248); });
 
-    // // 在中英文之间添加空格，由于Excalidraw中中英文添加空格会导致换行，所以不推荐处理
+    // // 在中英文之间添加空格
     // text = text.replace(/([\u4e00-\u9fa5])([a-zA-Z])/g, '$1 $2');
     // text = text.replace(/([a-zA-Z])([\u4e00-\u9fa5])/g, '$1 $2');
 
     return text;
+}
+
+function match_zotero_color(text) {
+    const regex = /#[a-zA-Z0-9]{6}/;
+    const matches = text.match(regex);
+    return matches ? matches[0] : "";
 }
 
 function match_zotero_txt(text) {
@@ -110,85 +221,27 @@ function match_zotero_image(text) {
     const matches = text.match(regex);
     return matches ? matches[1] : "";
 }
+```
 
-const path = require('path');
-const fs = require("fs");
+## 添加卡片颜色
 
-let api = ea.getExcalidrawAPI();
-let el = ea.targetView.containerEl.querySelectorAll(".excalidraw-wrapper")[0];
+如果你想添加标注的卡片颜色，可以在**首选项 ->高级中编辑器 ->Accept the Risk and Continue->搜索：`annotations.noteTemplates`**，修改高亮标注的模板，添加{{color}}属性，其他属性见官方文档：[note templates [Zotero Documentation]](https://www.zotero.org/support/note_templates)：
 
-el.ondrop = async function (event) {
-    console.log("ondrop");
-    event.preventDefault();
-    let insert_txt = event.dataTransfer.getData("Text");
-
-    // 清空原本投入的文本
-    event.stopPropagation();
-    ea.clear();
-    // 格式化文本(去空格、全角转半角)  
-
-    insert_txt = processText(insert_txt)
-
-    if (insert_txt.includes("zotero://")) {
-        console.log("Zotero");
-
-        zotero_txt = match_zotero_txt(insert_txt);
-        zotero_author = match_zotero_author(insert_txt);
-        if (zotero_author) {
-            zotero_author = `(${zotero_author})`;
-        };
-        zotero_comment = match_zotero_comment(insert_txt);
-        if (zotero_comment) {
-            zotero_comment = `\n\n📝：${zotero_comment}`;
-        };
-        zotero_link = match_zotero_link(insert_txt);
-
-        if (zotero_txt) {
-            console.log("ZoteroText");
-            let id = await ea.addText(0, 0, `📖：${zotero_txt}${zotero_author}${zotero_comment}`, { width: 600, box: true, wrapAt: 50, textAlign: "left", textVerticalAlign: "middle", box: "box" });
-            let el = ea.getElement(id);
-            el.link = zotero_link;
-            await ea.addElementsToView(true, false, false);
-            if (ea.targetView.draginfoDiv) {
-                document.body.removeChild(ea.targetView.draginfoDiv);
-                delete ea.targetView.draginfoDiv;
-            };
-        } else {
-            console.log("ZoteroImage");
-            zotero_image = match_zotero_image(insert_txt);
-            zotero_image_name = `${zotero_image}.png`;
-
-            // 📌修改到Zotero的library文件夹
-            zotero_image_path = `D:\\Zotero\\cache\\library\\${zotero_image}.png`;
-            // 📌定义附件保存的地址，修改到你定义的笔记文件夹
-            let Obsidian_image_Path = `D:\\PandaNotes\\Y-图形文件存储\\ZoteroImages\\${zotero_image}.png`
-
-            // 复制zotero的图片到Obsidian的笔记库
-            fs.copyFileSync(zotero_image_path, Obsidian_image_Path);
-
-            await new Promise((resolve) => setTimeout(resolve, 300)); // 暂停0.3秒，等待复制文件的过程
-
-            let id = await ea.addImage(0, 0, zotero_image_name);
-            let el = ea.getElement(id);
-            el.link = zotero_link;
-            await ea.addElementsToView(true, false, false);
-            if (ea.targetView.draginfoDiv) {
-                document.body.removeChild(ea.targetView.draginfoDiv);
-                delete ea.targetView.draginfoDiv;
-            };
-        };
-
-    } else {
-        let id = await ea.addText(0, 0, `${insert_txt} `, { width: 400, box: true, wrapAt: 50, textAlign: "left", textVerticalAlign: "middle", box: "box" });
-        let el = ea.getElement(id);
-        await ea.addElementsToView(true, false, false);
-        if (ea.targetView.draginfoDiv) {
-            document.body.removeChild(ea.targetView.draginfoDiv);
-            delete ea.targetView.draginfoDiv;
-        };
-
-    };
-};
-
+![Pasted image 20231017234748](https://cdn.pkmer.cn/images/202310202207424.png!pkmer)
 
 ```
+<p>{{color}} {{highlight}} {{citation}} {{comment}}</p>
+```
+
+设置完成之后，再运行该脚本，插入的卡片就可以根据匹配标注的颜色了，根据选择可以设置 2 种卡片颜色方案：
+
+![Pasted image 20231017234628](https://cdn.pkmer.cn/images/202310202207936.png!pkmer)
+
+> [!tip]+ 禁用卡片文字弹窗
+> 如果你不需要设定颜色，可以ESC，或者注释掉这个弹窗的代码。
+> ![Pasted image 20231017234639](https://cdn.pkmer.cn/images/202310202207454.png!pkmer)
+> 注释掉这一行：
+>
+> ```
+> let InsertStyle = await utils.suggester(fillStyles, fillStyles, "选择插入卡片颜色的形式，ESC退出(默认白底黑字)");
+> ```
