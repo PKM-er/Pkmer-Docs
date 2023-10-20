@@ -257,6 +257,7 @@ Obsidian 最有魅力的地方，就是它具有丰富的插件生态，这些�
 - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
 - [[better-word-count]]：
 - [[file-explorer-note-count]]：增加文件数量统计功能
+- [[每日字数的热力图]]
 
 ### 美化
 
