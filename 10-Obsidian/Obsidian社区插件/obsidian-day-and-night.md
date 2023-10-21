@@ -22,7 +22,7 @@ Obsidian 原生支持了明暗主题的配色，而且这种配色模式是可�
 > - 插件名称：Day and Night
 > - 插件作者：Kevin Patel
 > - 插件说明：根据设定的时间自动切换浅色和深色主题。
-> - 插件项目地址：[点我跳转](https://github.com/liamcain/obsidian-creases)
+> - 插件项目地址：[点我跳转](https://github.com/CyberT17/obsidian-day-and-night)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-day-and-night)
 
 ## 效果&特性
