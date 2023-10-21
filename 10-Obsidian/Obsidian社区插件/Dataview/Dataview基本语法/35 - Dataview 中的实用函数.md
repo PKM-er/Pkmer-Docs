@@ -1,17 +1,13 @@
 ---
 uid: 20230929120102
 title: Dataview 中的实用函数
-tags:
-  - Obsidian
-  - dataview
-  - 示例库
-  - function
+tags: [Obsidian, dataview, 示例库, function]
 description: 
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231003191556
+modified: 20231021213525
 ---
 
 # Dataview 中的实用函数
@@ -176,7 +172,7 @@ localtime(date(now))
 
 一个链接可以被拆分成以下四个部分：
 
-![[Pasted image 20231003185037.png]]
+![35 - Dataview 中的实用函数](https://cdn.pkmer.cn/images/Pasted%20image%2020231003185037.png!pkmer)
 
 - 链接展示名：`meta(link).display`，如果没有则为空；
 - 是否嵌入：`meta(link).embed`，如果有 `!` 则为 true，否则为 false；
