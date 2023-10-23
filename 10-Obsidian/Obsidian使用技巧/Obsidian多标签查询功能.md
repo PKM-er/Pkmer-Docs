@@ -1,19 +1,20 @@
 ---
 uid: 20230905155443
-title: obsidian1.4.5 版本暗藏的彩蛋：多标签查询功能，帮助更好的利用标签检索笔记
+title: Obsidian1.4.5 版本暗藏的彩蛋：多标签查询功能，帮助更好的利用标签检索笔记
 tags: [obsidian, plugin, Tutorial, trick]
 description: obsidian1.4.5 版本暗藏的彩蛋：多标签查询功能，帮助更好的利用标签检索笔记
 author: Nathaniel
 type: basic
 draft: false
 editable: false
-modified: 20230914001554
+modified: 20231024002054
 ---
-# obsidian1.4.5 版本暗藏的彩蛋：多标签查询功能，帮助更好的利用标签检索笔记
+
+# Obsidian1.4.5 版本暗藏的彩蛋：多标签查询功能，帮助更好的利用标签检索笔记
 
 ## 前言
 
-Obsidian 版本最近进行了更新，听说对旧版本 frontmatter 进行了较大的改动，增加了图形化操作 frontmatter 的特性。安装尝试后发现这个功能极大的提升了操作 frontmatter 字段的效率，特别是对于有使用 tag 进行元数据配置的用户来说，这个特性可以非常方便地编辑，修改，删除文档中的标签。
+Obsidian 版本最近进行了更新，听说对旧版本 front-matter 进行了较大的改动，增加了图形化操作 front-matter 的特性。安装尝试后发现这个功能极大的提升了操作 front-matter 字段的效率，特别是对于有使用 tag 进行元数据配置的用户来说，这个特性可以非常方便地编辑，修改，删除文档中的标签。
 
 除了体验主要的这一改动，笔者想要看看 **系统自带标签面板** 是否也有功能更新 ，于是经过尝试发现也有一个增加了非常有用的功能——多标签查询检索。
 
