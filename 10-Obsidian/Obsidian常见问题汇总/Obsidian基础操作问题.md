@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231013233650
+modified: 20231025153509
 ---
 
 # Obsidian 基础操作
@@ -665,6 +665,19 @@ Obsidian 中实现标题自动编号，像 Word 一样，而不是我一个个�
 	- 重复上一步操作直到找到有问题的插件，或插件全部打开但图谱依旧正常。
 3. 可以参考 [这里](https://forum.obsidian.md/t/graph-view-lines-disapeared/6201/9)
 	- 简要说：在设置 中 关闭 硬件加速。
+
+### 恢复和备份
+
+#### 不小心把笔记删了，怎么恢复
+
+- 删除了具体笔记中的内容，请使用 Obsidian 核心插件 - >文件恢复，通过快照浏览来找回记录
+	- [[obsidian-version-history-diff]]
+
+![image.png](https://cdn.pkmer.cn/images/20231025153311.png!pkmer)
+
+- 误删除了笔记文件
+	- 可以通过在回收站，或者你指定的 Obsidian 回收站（.trash）中找到
+	- 当然你也可以使用我们介绍过的插件强化这个功能 [[obsidian-trash-explorer]]
 
 ## 移动端
 

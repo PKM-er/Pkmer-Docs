@@ -7,7 +7,7 @@ author: PKMer
 type: basic
 draft: false
 editable: false
-modified: 20230911103819
+modified: 20231025143009
 ---
 
 # Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
@@ -79,11 +79,18 @@ PKMer 从 Obsidian 官方发布的插件信息列表中，找到最近更新的�
 
 注册 [PKMer](https://pkmer.cn/) 的用户完全免费使用该插件及下载插件：
 
-- 但为了防止滥用和过高的成本免费下载 100 次/月 插件，这个数量我们尽可能平衡了大家安装的插件和每个月大概可能需要更新的体量，也感谢所有社区支持者为大家助力了每月次数的增长。（[感恩好心人]([关于 PKMer](https://pkmer.cn/about/#support)
+- 但为了防止滥用和过高的成本免费下载 100 次/月 插件，这个数量我们尽可能平衡了大家安装的插件和每个月大概可能需要更新的体量，也感谢所有社区支持者为大家助力了每月次数的增长。（[感恩好心人]([关于 PKMer](https://pkmer.cn/about/#support) ))
 - PKMer 会员则限制 300 次/月 插件（视实际情况而定）。
 - 如果你也有余力，也可以 [支持 PKMer](https://pkmer.cn/products/price/)
 
 PKMer 会员除了付费获取外，可以通过为社区提供知识管理相关的文档，视频，翻译，开发 Obsidian 插件，协助运营 Pkmer 等多种方式免费获取，具体方式可参考 [社区指南](https://pkmer.cn/show/20230330155738) 参与贡献。
+
+## 移动端
+
+1. 在 PC 端注册登录网站（关注微信公众号方式）
+2. 进入个人中心，点击”获取 Token“
+3. 进入移动端，PKMer 插件设置，将 Token 填写
+4. 关闭插件，并重新加载插件；或者关闭 Obsidian 并杀掉程序
 
 ## 注意事项
 

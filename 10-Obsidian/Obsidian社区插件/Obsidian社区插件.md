@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231012005924
+modified: 20231025155312
 ---
 
 # Obsidian 社区插件
@@ -372,6 +372,11 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
 - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
 - [[obsidian-chat-view-qq]]：chat-view-qq 保存 QQ 消息到 Obsidian 中
+
+### 恢复&备份
+
+- [[show-diff]]：在 Obsidian 文件中呈现 Git 差异
+- [[obsidian-version-history-diff]]：比较同步和文件恢复插件以及当前文件的 Git 版本历史。添加一个命令来打开同步插件的版本历史。
 
 ### 文件管理/文件夹管理
 
