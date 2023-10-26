@@ -1,83 +1,94 @@
 
-[data-type='pkmer-downloader'] .noimg[data-v-98b8e3b6] {
-	display: flex;
-	height: 208px;
-	background-color: var(--theme-bg);
-	border-radius: 0.75rem;
-	font-size: 24px;
-	font-weight: bold;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	background: 50% 50% / cover;
-	filter: saturate(70%) contrast(85%);
-	box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+[data-type='pkmer-downloader'] .noimg[data-v-8401a7b8] {
+    display: flex;
+
+    background-color: var(--theme-bg);
+    border-radius: 0.75rem;
+    font-size: 24px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: 50% 50% / cover;
+    filter: saturate(70%) contrast(85%);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+        rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
-[data-type='pkmer-downloader'] .noimg[data-v-98b8e3b6]::before {
-	color: white;
-	content: attr(data-name);
-	/* 设置标题文字 */
-	display: block;
-	/* 将标题设置为块级元素 */
-	font-size: 28px;
-	/* 设置标题文字大小 */
-	margin-bottom: 20px;
-	/* 设置标题与内容的间距 */
-	text-shadow: 0 2px 2px #000;
+[data-type='pkmer-downloader'] .noimg[data-v-8401a7b8]::before {
+    color: white;
+    content: attr(data-name);
+    /* 设置标题文字 */
+    display: block;
+    /* 将标题设置为块级元素 */
+    font-size: 28px;
+    /* 设置标题文字大小 */
+    margin-bottom: 20px;
+    /* 设置标题与内容的间距 */
+    text-shadow: 0 2px 2px #000;
 }
-[data-type='pkmer-downloader'] .plugin_desc[data-v-98b8e3b6] {
-	overflow: hidden;
-	text-overflow: ellipsis;
-	display: -webkit-box;
-	-webkit-line-clamp: 2;
-	-webkit-box-orient: vertical;
+[data-type='pkmer-downloader'] .plugin_desc[data-v-8401a7b8] {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
 }
-[data-type='pkmer-downloader'] .plugin_name[data-v-98b8e3b6] {
-overflow: hidden;
+[data-type='pkmer-downloader'] .plugin_name[data-v-8401a7b8] {
+    overflow: hidden;
     text-overflow: ellipsis;
 
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
 }
-[data-type='pkmer-downloader'] .mark[data-v-98b8e3b6] {
-	position: absolute;
-	top: 0;
-	right: 0;
-	margin: 0;
+[data-type='pkmer-downloader'] .mark[data-v-8401a7b8] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
 }
-[data-type='pkmer-downloader'] .overlay[data-v-98b8e3b6] {
-	z-index: 50;
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background-color: rgba(0, 0, 0, 0.8);
-	display: flex;
-	align-items: center;
-	justify-content: center;
+[data-type='pkmer-downloader'] .overlay[data-v-8401a7b8] {
+    z-index: 50;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-[data-type='pkmer-downloader'] .overlay img[data-v-98b8e3b6]{
+[data-type='pkmer-downloader'] .overlay img[data-v-8401a7b8] {
     min-width: 60vw;
     max-width: 80%;
     max-height: 80%;
     -o-object-fit: contain;
        object-fit: contain;
 }
-[data-type='pkmer-downloader'] .learn[data-v-98b8e3b6] {
-	transform: rotate(0deg) translateX(-100%) translateZ(0);
-	color: #fff;
-	display: inline-block;
-	position: absolute;
-	top: 10px;
-	/* left: 0; */
-	z-index: 1;
+[data-type='pkmer-downloader'] .learn[data-v-8401a7b8] {
+    transform: rotate(0deg) translateX(-100%) translateZ(0);
+    color: #fff;
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    /* left: 0; */
+    z-index: 1;
 
-	text-transform: uppercase;
-	width: 50px;
-	text-align: center;
+    text-transform: uppercase;
+    width: 50px;
+    text-align: center;
 }
 
+[data-type='pkmer-downloader'] .num {
+    margin-left: -8px;
+    margin-top: -16px;
+    font-size: 9px;
+    color: #fff;
+    background: #ed4014;
+    text-align: center;
+    border-radius: 10px;
+    padding: 0 4px;
+}
 [data-type='pkmer-downloader'] .noimg {
     display: flex;
     filter: saturate(70%) contrast(85%);
@@ -115,83 +126,85 @@ overflow: hidden;
     color: rgb(208, 111, 78);
 }
 
-[data-type='pkmer-downloader'] .noimg[data-v-a0aa1f77] {
-	display: flex;
-	height: 208px;
-	background-color: var(--theme-bg);
-	border-radius: 0.75rem;
-	font-size: 24px;
-	font-weight: bold;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	background: 50% 50% / cover;
-	filter: saturate(70%) contrast(85%);
-	box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-}
-[data-type='pkmer-downloader'] .noimg[data-v-a0aa1f77]::before {
-	color: white;
-	content: attr(data-name);
-	/* 设置标题文字 */
-	display: block;
-	/* 将标题设置为块级元素 */
-	font-size: 28px;
-	/* 设置标题文字大小 */
-	margin-bottom: 20px;
-	/* 设置标题与内容的间距 */
-	text-shadow: 0 2px 2px #000;
-}
-[data-type='pkmer-downloader'] .plugin_desc[data-v-a0aa1f77] {
-	overflow: hidden;
-	text-overflow: ellipsis;
-	display: -webkit-box;
-	-webkit-line-clamp: 2;
-	-webkit-box-orient: vertical;
-}
-[data-type='pkmer-downloader'] .mark[data-v-a0aa1f77] {
-	position: absolute;
-	top: 0;
-	right: 0;
-	margin: 0;
-}
-[data-type='pkmer-downloader'] .mark[data-v-a0aa1f77]:before {
-	content: '';
-	position: absolute;
-	top: 0;
-	left: 0;
-	border-style: solid;
-	border-width: 40px;
-	z-index: 1;
-	border-color: rgba(206, 118, 3, 0.7) rgba(206, 118, 3, 0.7) transparent transparent;
-	transform: translateX(-100%);
-	border-top-right-radius: 0.75rem;
-}
-[data-type='pkmer-downloader'] .learn[data-v-a0aa1f77] {
-	transform: rotate(0deg) translateX(-100%) translateZ(0);
-	color: #fff;
-	display: inline-block;
-	position: absolute;
-	top: 10px;
-	/* left: 0; */
-	z-index: 1;
+[data-type='pkmer-downloader'] .noimg[data-v-8dfb0cbf] {
+    display: flex;
 
-	text-transform: uppercase;
-	width: 50px;
-	text-align: center;
+    background-color: var(--theme-bg);
+    border-radius: 0.75rem;
+    font-size: 24px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: 50% 50% / cover;
+    filter: saturate(70%) contrast(85%);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+        rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
-[data-type='pkmer-downloader'] .overlay[data-v-a0aa1f77] {
-	z-index: 50;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
-  display: flex;
-  align-items: center;
-  justify-content: center;
+[data-type='pkmer-downloader'] .noimg[data-v-8dfb0cbf]::before {
+    color: white;
+    content: attr(data-name);
+    /* 设置标题文字 */
+    display: block;
+    /* 将标题设置为块级元素 */
+    font-size: 28px;
+    /* 设置标题文字大小 */
+    margin-bottom: 20px;
+    /* 设置标题与内容的间距 */
+    text-shadow: 0 2px 2px #000;
 }
-[data-type='pkmer-downloader'] .overlay img[data-v-a0aa1f77]{
+[data-type='pkmer-downloader'] .plugin_desc[data-v-8dfb0cbf] {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+[data-type='pkmer-downloader'] .mark[data-v-8dfb0cbf] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+}
+[data-type='pkmer-downloader'] .mark[data-v-8dfb0cbf]:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-style: solid;
+    border-width: 40px;
+    z-index: 1;
+    border-color: rgba(206, 118, 3, 0.7) rgba(206, 118, 3, 0.7) transparent
+        transparent;
+    transform: translateX(-100%);
+    border-top-right-radius: 0.75rem;
+}
+[data-type='pkmer-downloader'] .learn[data-v-8dfb0cbf] {
+    transform: rotate(0deg) translateX(-100%) translateZ(0);
+    color: #fff;
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    /* left: 0; */
+    z-index: 1;
+
+    text-transform: uppercase;
+    width: 50px;
+    text-align: center;
+}
+[data-type='pkmer-downloader'] .overlay[data-v-8dfb0cbf] {
+    z-index: 50;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+[data-type='pkmer-downloader'] .overlay img[data-v-8dfb0cbf] {
     min-width: 60vw;
     max-width: 80%;
     max-height: 80%;
@@ -199,6 +212,16 @@ overflow: hidden;
        object-fit: contain;
 }
 
+[data-type='pkmer-downloader'] .num {
+    margin-left: -8px;
+    margin-top: -16px;
+    font-size: 9px;
+    color: #fff;
+    background: #ed4014;
+    text-align: center;
+    border-radius: 10px;
+    padding: 0 4px;
+}
 [data-type='pkmer-downloader'] .noimg {
     display: flex;
     filter: saturate(70%) contrast(85%);
@@ -228,6 +251,9 @@ overflow: hidden;
 }
 [data-type='pkmer-downloader'] button.active span {
     color: rgb(208, 111, 78);
+}
+[data-type='pkmer-downloader'] button.active .num {
+    color: rgb(239, 166, 142);
 }
 [data-type='pkmer-downloader'] img[src=""],
 [data-type='pkmer-downloader'] img:not([src]) {
@@ -6329,6 +6355,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 [data-type='pkmer-downloader'] .h-4 {
   height: 1rem;
 }
+[data-type='pkmer-downloader'] .h-40 {
+  height: 10rem;
+}
 [data-type='pkmer-downloader'] .h-5 {
   height: 1.25rem;
 }
@@ -6361,6 +6390,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 [data-type='pkmer-downloader'] .w-16 {
   width: 4rem;
+}
+[data-type='pkmer-downloader'] .w-20 {
+  width: 5rem;
 }
 [data-type='pkmer-downloader'] .w-3\/4 {
   width: 75%;
@@ -6604,6 +6636,10 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 [data-type='pkmer-downloader'] .p-6 {
   padding: 1.5rem;
 }
+[data-type='pkmer-downloader'] .px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
 [data-type='pkmer-downloader'] .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -6627,10 +6663,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 [data-type='pkmer-downloader'] .px-7 {
   padding-left: 1.75rem;
   padding-right: 1.75rem;
-}
-[data-type='pkmer-downloader'] .px-8 {
-  padding-left: 2rem;
-  padding-right: 2rem;
 }
 [data-type='pkmer-downloader'] .py-1 {
   padding-top: 0.25rem;
@@ -6668,9 +6700,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 [data-type='pkmer-downloader'] .pl-0 {
   padding-left: 0px;
 }
-[data-type='pkmer-downloader'] .pl-16 {
-  padding-left: 4rem;
-}
 [data-type='pkmer-downloader'] .pl-2 {
   padding-left: 0.5rem;
 }
@@ -6694,6 +6723,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 [data-type='pkmer-downloader'] .font-sans {
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+[data-type='pkmer-downloader'] .font-serif {
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 [data-type='pkmer-downloader'] .text-2xl {
   font-size: 1.5rem;
@@ -6730,6 +6762,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 [data-type='pkmer-downloader'] .uppercase {
   text-transform: uppercase;
 }
+[data-type='pkmer-downloader'] .italic {
+  font-style: italic;
+}
 [data-type='pkmer-downloader'] .leading-5 {
   line-height: 1.25rem;
 }
@@ -6752,13 +6787,13 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 [data-type='pkmer-downloader'] .text-inherit {
   color: inherit;
 }
+[data-type='pkmer-downloader'] .text-orange-500 {
+  --tw-text-opacity: 1;
+  color: rgb(249 115 22 / var(--tw-text-opacity));
+}
 [data-type='pkmer-downloader'] .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-[data-type='pkmer-downloader'] .text-yellow-400 {
-  --tw-text-opacity: 1;
-  color: rgb(250 204 21 / var(--tw-text-opacity));
 }
 [data-type='pkmer-downloader'] .no-underline {
   text-decoration-line: none;
@@ -6828,59 +6863,78 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
     height: var(--input-height);
     font-weight: var(--input-font-weight);
 }
+
+[data-type='pkmer-downloader'] .setting-item-control>input
+{
+    padding:1em;
+}
+
 [data-type='pkmer-downloader'] .first-letter\:mx-auto::first-letter {
   margin-left: auto;
   margin-right: auto;
 }
+
 [data-type='pkmer-downloader'] .hover\:isolate:hover {
   isolation: isolate;
 }
+
 [data-type='pkmer-downloader'] .hover\:bg-green-100:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(220 252 231 / var(--tw-bg-opacity));
 }
+
 [data-type='pkmer-downloader'] .hover\:bg-neutral-100:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(245 245 245 / var(--tw-bg-opacity));
 }
+
 [data-type='pkmer-downloader'] .hover\:shadow-xl:hover {
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
+
 [data-type='pkmer-downloader'] .focus\:isolate:focus {
   isolation: isolate;
 }
+
 [data-type='pkmer-downloader'] .focus\:border-transparent:focus {
   border-color: transparent;
 }
+
 [data-type='pkmer-downloader'] .focus\:shadow-lg:focus {
   --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
+
 @media (prefers-reduced-motion: no-preference) {
 
   [data-type='pkmer-downloader'] .motion-safe\:ease-out {
     transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
   }
 }
+
 :is(.theme-dark [data-type='pkmer-downloader'] .dark\:text-white) {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
+
 :is(.theme-dark [data-type='pkmer-downloader'] .dark\:hover\:bg-green-300\/20:hover) {
   background-color: rgb(134 239 172 / 0.2);
 }
+
 :is(.theme-dark [data-type='pkmer-downloader'] .dark\:hover\:bg-slate-900\/30:hover) {
   background-color: rgb(15 23 42 / 0.3);
 }
+
 @media (min-width: 640px) {
 
   [data-type='pkmer-downloader'] .sm\:-m-4 {
     margin: -1rem;
   }
 }
+
 @media (min-width: 768px) {
 
   [data-type='pkmer-downloader'] .md\:-mb-10 {
@@ -6893,6 +6947,10 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 
   [data-type='pkmer-downloader'] .md\:flex {
     display: flex;
+  }
+
+  [data-type='pkmer-downloader'] .md\:h-52 {
+    height: 13rem;
   }
 
   [data-type='pkmer-downloader'] .md\:w-1\/2 {
@@ -6940,7 +6998,17 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
     padding-left: 1.5rem;
     padding-right: 1.5rem;
   }
+
+  [data-type='pkmer-downloader'] .md\:px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  [data-type='pkmer-downloader'] .md\:pl-16 {
+    padding-left: 4rem;
+  }
 }
+
 @media (min-width: 1024px) {
 
   [data-type='pkmer-downloader'] .lg\:max-w-\[60vw\] {
