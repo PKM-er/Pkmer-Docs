@@ -1,6 +1,6 @@
 ---
 uid: 2023080322190535
-title: Obsidian 插件：【Readme】Gene 🧬
+title: Obsidian 插件：Gene 🧬
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI API生成文本的插件。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322151644
-title: Obsidian 插件：【Readme】Booksidian
+title: Obsidian 插件：Booksidian
 tags: ['界面相关', '搜索/排序', '第三方工具集成', 'PDF', '效率', '美化', '学习', '信息收集', 'obsidian插件', 'readme']
 description: Booksidian 将您的 Goodreads 数据 放到 Obsidian 仓库中。可以从Goodreads RSS提要上可用的参数列表中选择（+一些可以从中推断出的额外内容，如副标题或系列），从而设置书注释的正文和标题。
 author: AI

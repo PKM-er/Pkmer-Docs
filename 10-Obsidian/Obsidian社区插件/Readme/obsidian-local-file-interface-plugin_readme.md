@@ -1,6 +1,6 @@
 ---
 uid: 2023080322214208
-title: Obsidian 插件：【Readme】Local File Interface
+title: Obsidian 插件：Local File Interface
 tags: ['obsidian插件', 'readme']
 description: 提供将文件移入和移出保险库的命令
 author: AI

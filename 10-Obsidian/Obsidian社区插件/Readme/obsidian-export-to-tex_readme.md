@@ -1,6 +1,6 @@
 ---
 uid: 2023080322180080
-title: Obsidian 插件：【Readme】Export To TeX
+title: Obsidian 插件：Export To TeX
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将拱顶文件导出为适合粘贴到TeX文档中的格式
 author: AI

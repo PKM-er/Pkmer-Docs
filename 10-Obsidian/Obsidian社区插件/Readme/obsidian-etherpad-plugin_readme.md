@@ -1,6 +1,6 @@
 ---
 uid: 2023080322175533
-title: Obsidian 插件：【Readme】Etherpad Lite
+title: Obsidian 插件：Etherpad Lite
 tags: ['obsidian插件', 'readme']
 description: .复制并与Etherpad Lite服务器同步笔记，以解锁与他人的简单基于网络的协作。
 author: AI

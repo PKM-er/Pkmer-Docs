@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Copilot auto completion
 > - 插件作者：Jordi Smit
-> - 插件说明：使用ChatGPT API，为Obsidian添加一个高度可配置的类似副驾驶的自动补全功能。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：使用 ChatGPT API，为 Obsidian 添加一个高度可配置的类似副驾驶的自动补全功能。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copilot-auto-completion)
 
 ## 概述
 
-使用ChatGPT API，为Obsidian添加一个高度可配置的类似副驾驶的自动补全功能。
+使用 ChatGPT API，为 Obsidian 添加一个高度可配置的类似副驾驶的自动补全功能。
 
 ![Copilot auto completion](https://cdn.pkmer.cn/covers/copilot-auto-completion.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/j0rd1smit/obsidian-copilot-auto-completion/master/README.md)
-> 
+>
 
 ---
 
@@ -37,54 +37,84 @@ modified: 20230101000000
 
 下面是 [[copilot-auto-completion]] 插件的自述翻译
 
+# Obsidian 中的类似 Copilot 的自动补全
 
-# Obsidian中的类似Copilot的自动补全
-该插件为Obsidian添加了类似Copilot的自动补全功能。
-它使用OpenAI API或Azure OpenAi API根据光标前后的`n`个字符生成文本。
+该插件为 Obsidian 添加了类似 Copilot 的自动补全功能。
+
+它使用 OpenAI API 或 Azure OpenAi API 根据光标前后的 `n` 个字符生成文本。
+
 它会在光标旁边显示透明文本的建议补全。
-然后，您可以按Tab键插入建议。此外，您还可以按Escape键或移动光标来忽略建议。
+
+然后，您可以按 Tab 键插入建议。此外，您还可以按 Escape 键或移动光标来忽略建议。
+
 ## 用法
+
 当你在写作时，插件会监视光标前的文本是否与任何触发词或正则表达式匹配。
+
 如果匹配成功，它将排队一个预测请求。
-如果你移动光标、改变文档或按下Escape键，插件将取消预测请求。
-为了防止过多的API调用，预测请求将被排队一段时间。
+
+如果你移动光标、改变文档或按下 Escape 键，插件将取消预测请求。
+
+为了防止过多的 API 调用，预测请求将被排队一段时间。
+
 一旦预测请求被发出，插件将以透明文本显示建议。
-你可以通过按Tab键或使用"Obsidian Copilot: Accept"快速操作来接受它。
-如果你按下Escape键、移动光标或改变文档，建议将被取消。
+
+你可以通过按 Tab 键或使用 "Obsidian Copilot: Accept" 快速操作来接受它。
+
+如果你按下 Escape 键、移动光标或改变文档，建议将被取消。
 
 有时，你可能想在文档的特定位置强制进行预测请求。
+
 理论上，你可以添加一个总是匹配的触发规则，但这可能很耗费资源。
-相反，你可以使用"Obsidian Copilot: Predict"快速操作。
+
+相反，你可以使用 "Obsidian Copilot: Predict" 快速操作。
+
 插件将直接发出预测请求并显示建议。
+
 ![prediction_quick_action](assets/type_hint_prediction.gif)
 
-如果你正在处理一个隐私敏感的文档，可能不希望与API提供商共享其内容。
+如果你正在处理一个隐私敏感的文档，可能不希望与 API 提供商共享其内容。
+
 为了防止这种情况，你可以暂时禁用插件。
+
 最简单的方法是使用其中一个快速操作。
-打开命令面板（在Mac上是`CMD + P`，在Windows上是`CTRL + P`），然后搜索"Obsidian Copilot: Disable"。这个操作将使插件处于禁用状态。
-在这个状态下，插件将忽略所有的触发器，并且不会将任何文本发送给API提供商。
-即使你关闭并重新打开Obsidian，插件也会保持在这个状态。
-当你想要再次启用插件时，可以使用"Obsidian Copilot: Enable"快速操作。
+
+打开命令面板（在 Mac 上是 `CMD + P`，在 Windows 上是 `CTRL + P`），然后搜索 "Obsidian Copilot: Disable"。这个操作将使插件处于禁用状态。
+
+在这个状态下，插件将忽略所有的触发器，并且不会将任何文本发送给 API 提供商。
+
+即使你关闭并重新打开 Obsidian，插件也会保持在这个状态。
+
+当你想要再次启用插件时，可以使用 "Obsidian Copilot: Enable" 快速操作。
 
 ![disable](assets/disable_quick_action.jpg)
+
 ## 安装
-安装插件后，您需要配置您的API提供商。
+
+安装插件后，您需要配置您的 API 提供商。
+
 您可以按照以下步骤进行操作：
+
 1. 进入插件设置。
 2. 确保您已安装并在“社区插件”设置中启用了此插件。
 3. 进入“Obsidian Copilot”设置。
-4. 选择您的API提供商。
-5. 如果您选择了OpenAI API，则必须提供您的API密钥。
-6. 如果您选择了Azure OpenAI API，则必须提供您的API密钥和终端。
-7. 点击测试连接按钮以验证插件是否能够连接到API提供商。如果测试失败，请检查您的API密钥和终端。
+4. 选择您的 API 提供商。
+5. 如果您选择了 OpenAI API，则必须提供您的 API 密钥。
+6. 如果您选择了 Azure OpenAI API，则必须提供您的 API 密钥和终端。
+7. 点击测试连接按钮以验证插件是否能够连接到 API 提供商。如果测试失败，请检查您的 API 密钥和终端。
 8. 关闭设置窗口。
 9. 您现在可以开始使用该插件了。
 
 ![settings](assets/settings_demo.gif)
+
 它是如何工作的？
+
 ### 模型
+
 预测任务被定义为一个掩码替换任务。
-通过使用提示工程，我们可以创建一个Chat-LLM模型来执行这个任务。
+
+通过使用提示工程，我们可以创建一个 Chat-LLM 模型来执行这个任务。
+
 为此，我们给模型提供以下系统指令：
 
 ```text
@@ -96,8 +126,9 @@ THOUGHT: 这里你解释一下你认为<mask/>位置可能是什么的推理过�
 ANSWER: 这里你写下应该在<mask/>位置的文本
 ```
 
-然后，我们以`<truncated_text_before_cursor> <mask/> <truncated_text_after_cursor>`的格式向模型提供（截断的）光标前后的文本。
-例如，对于上面示例中Attention公式的用户消息，模型的输入将是：
+然后，我们以 `<truncated_text_before_cursor> <mask/> <truncated_text_after_cursor>` 的格式向模型提供（截断的）光标前后的文本。
+
+例如，对于上面示例中 Attention 公式的用户消息，模型的输入将是：
 
 ```text
 加权平均（序列）元素，权重根据输入查询和元素键动态计算。
@@ -121,15 +152,22 @@ ANSWER: \alpha_i = \frac{\exp(f_{score}(key_i, query))}{\sum_j \exp(f_{score}(ke
 ```
 
 思考部分帮助模型推理任务，并将注意机制集中在文本的相关部分。
+
 然而，思考部分对用户来说并不是很有用。
-因此，我们删除了这部分。结果，建议只包含在`ANSWER:`部分之后生成的文本。
+
+因此，我们删除了这部分。结果，建议只包含在 `ANSWER:` 部分之后生成的文本。
 
 正如你在上面的示例中所看到的，模型只能访问当前文档中的文本。
+
 这样可以防止模型泄露可能涉及隐私的其他文档中的信息。
+
 上述的模型设置已经运行得相当不错，但是通过使用上下文感知的少样本示例可以进一步改进。
+
 这里的关键思想是我们期望在文档的特定位置得到特定类型的答案。
+
 例如：
-- 在数学块中，我们期望得到LaTeX公式。
+
+- 在数学块中，我们期望得到 LaTeX 公式。
 - 在代码块中，我们期望得到与代码块相同语言的代码。
 - 在列表中，我们期望得到一个新的列表项。
 - 在标题中，我们期望得到代表段落内容的新标题。
@@ -137,12 +175,17 @@ ANSWER: \alpha_i = \frac{\exp(f_{score}(key_i, query))}{\sum_j \exp(f_{score}(ke
 - 等等。
 
 你可能还可以想到许多其他的例子和规则。
+
 因此，系统提示可能会变得长而复杂。
+
 相反，通过给模型一些示例的输入和输出对，可以更容易地避免这种情况。
+
 这些对隐含地向模型展示了在给定上下文中你期望的响应。
+
 例如，我们在数学块中给模型以下示例。
 
 输入：
+
 ```text
 # 样本均值
 样本均值，有时也称为平均值，定义如下：

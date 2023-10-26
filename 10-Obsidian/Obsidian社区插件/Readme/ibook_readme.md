@@ -1,6 +1,6 @@
 ---
 uid: 2023080322200316
-title: Obsidian 插件：【Readme】ibook
+title: Obsidian 插件：ibook
 tags: ['obsidian插件', 'readme']
 description: 适用于Apple ibook的插件。
 author: AI

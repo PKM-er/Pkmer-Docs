@@ -1,6 +1,6 @@
 ---
 uid: 2023080322295008
-title: Obsidian 插件：【Readme】x86 Assembly Flow Graphing
+title: Obsidian 插件：x86 Assembly Flow Graphing
 tags: ['obsidian插件', 'readme']
 description: 将格式良好的x86汇编代码转换为适当的流程图，使用Obsidian画布。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322223258
-title: Obsidian 插件：【Readme】Metronome
+title: Obsidian 插件：Metronome
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加互动节拍器。
 author: AI

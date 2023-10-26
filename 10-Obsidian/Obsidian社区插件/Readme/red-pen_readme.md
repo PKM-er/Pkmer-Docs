@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Red Pen
 > - 插件作者：Lucas Melin
 > - 插件说明：红笔作为你写作的校对者。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lucasmelin/red-pen)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?red-pen)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 红笔作为你写作的校对者。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucasmelin/red-pen/main/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[red-pen]] 插件的自述翻译
-
 
 <h1 align="center">红笔</h1>
 
@@ -56,11 +53,14 @@ modified: 20230101000000
 </a>
 
 </p>
+
 ## 开发
 
-该项目使用TypeScript提供类型检查和文档。
-该仓库依赖于TypeScript定义格式中的最新插件API（`obsidian.d.ts`），其中包含了描述其功能的TSDoc注释。
-### NodeJS指令
+该项目使用 TypeScript 提供类型检查和文档。
+
+该仓库依赖于 TypeScript 定义格式中的最新插件 API（`obsidian.d.ts`），其中包含了描述其功能的 TSDoc 注释。
+
+### NodeJS 指令
 
 [安装NodeJS](https://nodejs.org/en).
 
@@ -81,9 +81,10 @@ npm install
 ```bash
 npm run dev
 ```
-### Nix指令
 
-[安装Nix](https://github.com/DeterminateSystems/nix-installer)以及[`direnv`](https://direnv.net/)。
+### Nix 指令
+
+[安装Nix](https://github.com/DeterminateSystems/nix-installer) 以及 [`direnv`](https://direnv.net/)。
 
 导航到插件目录。
 
@@ -91,12 +92,10 @@ npm run dev
 cd red-pen
 ```
 
-运行`nix build`来编译插件。
+运行 `nix build` 来编译插件。
 
-然后可以在[`./result/lib/node_modules/red-pen`](./result/lib/node_modules/red-pen)目录中找到生成的`main.js`、`styles.css`和`manifest.json`文件。
+然后可以在 [`./result/lib/node_modules/red-pen`](./result/lib/node_modules/red-pen) 目录中找到生成的 `main.js`、`styles.css` 和 `manifest.json` 文件。
+
 手动安装插件
 
-将`main.js`、`styles.css`和`manifest.json`复制到Obsidian Vault `<VaultFolder>/.obsidian/plugins/red-pen/`目录下。
-
-
-
+将 `main.js`、`styles.css` 和 `manifest.json` 复制到 Obsidian Vault `<VaultFolder>/.obsidian/plugins/red-pen/` 目录下。

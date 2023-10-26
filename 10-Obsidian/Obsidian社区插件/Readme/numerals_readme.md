@@ -1,6 +1,6 @@
 ---
 uid: 2023080322230943
-title: Obsidian 插件：【Readme】Numerals
+title: Obsidian 插件：Numerals
 tags: ['obsidian插件', 'readme']
 description: .Numerals可以将任何代码块变成一个高级计算器。评估代码块中每一行的数学表达式，包括单位、货币以及可选的TeX渲染。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322180623
-title: Obsidian 插件：【Readme】Fantasy Calendar
+title: Obsidian 插件：Fantasy Calendar
 tags: ['日期相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 中使用 Fantsy Calendar。
 author: AI

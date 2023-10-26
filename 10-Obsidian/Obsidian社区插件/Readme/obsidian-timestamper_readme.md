@@ -1,6 +1,6 @@
 ---
 uid: 2023080322282408
-title: Obsidian 插件：【Readme】TimeStamper
+title: Obsidian 插件：TimeStamper
 tags: ['obsidian插件', 'readme']
 description: 在当前光标位置插入自定义或预定义的时间戳或日期戳。
 author: AI

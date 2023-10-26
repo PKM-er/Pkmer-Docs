@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Vocabulary Cards
 > - 插件作者：Eugene Myazin
 > - 插件说明：将词汇单词以闪卡和列表的形式展示的简便方法。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/meniam/obsidian-vocabulary-cards)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vocabulary-cards)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 将词汇单词以闪卡和列表的形式展示的简便方法。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/meniam/obsidian-vocabulary-cards/main/README.md)
-> 
+>
 
 ---
 
@@ -37,11 +35,11 @@ modified: 20230101000000
 
 下面是 [[vocabulary-cards]] 插件的自述翻译
 
+Obsidian 词汇卡插件是一款以易学习的格式显示单词及其含义的插件。
 
-Obsidian词汇卡插件是一款以易学习的格式显示单词及其含义的插件。
 ### 用法
 
-块格式必须与YAML兼容。
+块格式必须与 YAML 兼容。
 
 *使用简单格式创建块：*
 
@@ -81,15 +79,22 @@ Obsidian词汇卡插件是一款以易学习的格式显示单词及其含义的
 
     ```
 ```
+
 ### 区块类型
+
 有两种可用的区块类型：
+
 - **voca-card**：以卡片形式预览单词。每次随机选择一个单词。
 - **voca-table**：以列表形式预览单词。显示所有单词。
+
 ### 统计信息
 
 插件文件夹中有一个名为 `data.json` 的文件。
+
 该文件包含有关正确答案的统计信息。要重置统计信息，请删除该文件。
+
 ### 例子
+
 例如：
 
 ```
@@ -102,6 +107,7 @@ Obsidian词汇卡插件是一款以易学习的格式显示单词及其含义的
     
     ```
 ```
+
 将显示为：
 
 ![example](./doc/card.jpg)
@@ -116,10 +122,13 @@ Obsidian词汇卡插件是一款以易学习的格式显示单词及其含义的
     
     ```
 ```
+
 将显示为：
 
 ![example](./doc/table.jpg)
+
 ### 手动安装插件
+
 - 禁用 Obsidian 安全模式。
 - 将 `main.js`、`styles.css`、`manifest.json` 复制到你的 vault 文件夹 `VaultFolder/.obsidian/plugins/obsidian-vocabulary-cards/` 中。
 

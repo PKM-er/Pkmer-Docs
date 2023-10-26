@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171556
-title: Obsidian 插件：【Readme】DEVONlink
+title: Obsidian 插件：DEVONlink
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 在DEVONthink中打开或显示当前笔记。
 author: AI

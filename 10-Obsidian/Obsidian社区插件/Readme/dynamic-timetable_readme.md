@@ -1,6 +1,6 @@
 ---
 uid: 2023080322173530
-title: Obsidian 插件：【Readme】Dynamic Timetable
+title: Obsidian 插件：Dynamic Timetable
 tags: ['obsidian插件', 'readme']
 description: 根据任务的预计时间计算完成时间，并动态创建时间表。
 author: AI

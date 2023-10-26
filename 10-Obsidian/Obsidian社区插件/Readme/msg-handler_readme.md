@@ -1,6 +1,6 @@
 ---
 uid: 2023080322224277
-title: Obsidian 插件：【Readme】MSG Handler
+title: Obsidian 插件：MSG Handler
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian Vault中轻松显示和搜索来自Outlook的MSG文件。
 author: AI

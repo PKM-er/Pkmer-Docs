@@ -1,6 +1,6 @@
 ---
 uid: 2023080322220431
-title: Obsidian 插件：【Readme】Markdown Table Editor
+title: Obsidian 插件：Markdown Table Editor
 tags: ['表格', '效率', 'obsidian插件', 'readme']
 description: 为 Markdown 表格提供编辑器，能将 CSV、Microsoft Excel/Google Sheets 数据 转化成 Markdown 的表格。你可以再点击表格后，在悬浮窗口维护你的表格。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322170506
-title: Obsidian 插件：【Readme】Daily Notes Viewer
+title: Obsidian 插件：Daily Notes Viewer
 tags: ['obsidian插件', 'readme']
 description: 帮助您在一个页面上查看一些最近的日记。
 author: AI

@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Lovely-Mindmap
 > - 插件作者：shaun
 > - 插件说明：用微笑建立你自己的知识图谱 :-)
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/xincan1949/lovely-mindmap)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?lovely-mindmap)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![Lovely-Mindmap](https://cdn.pkmer.cn/covers/lovely-mindmap.gif!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/xincan1949/lovely-mindmap/master/README.md)
-> 
+>
 
 ---
 
@@ -37,20 +37,22 @@ modified: 20230101000000
 
 下面是 [[lovely-mindmap]] 插件的自述翻译
 
-
 # 可爱的思维导图
 
-Obsidian画布插件，用笑脸构建自己的知识图谱：）
+Obsidian 画布插件，用笑脸构建自己的知识图谱：）
 
 ![演示](./DEMO.gif)
 
 它被称为思维导图，但不仅仅是思维导图。
+
 我们将继续引入新功能！
+
 **您独特和创新的想法有很大机会被我们采纳。**
 
 请随意提出功能建议，但请暂时不要提出错误或支持请求的问题。
 
 任何建议或问题👉 [Discord](https://discord.gg/DhJGeY8V)
+
 # 📕 功能
 
 作为思维导图的插件，您可以在此插件中找到基本的思维导图功能。
@@ -60,10 +62,12 @@ Obsidian画布插件，用笑脸构建自己的知识图谱：）
 - `Shift + Enter` 创建同级节点并缩放以适应
 - `cmd + Esc` 取消选择节点并开始导航。[为什么不使用 `Esc`](https://github.com/xincan1949/lovely-mindmap#-qa:~:text=exit%20creating%20view%3F-,For%20two%20reasons%3A,-Individual%20Esc%20keyboard) ？
 - `opt + ↑↓←→` 使用智能意图在节点之间移动
+
 # 🐮 高级
+
 ## 🕹 视图
 
-在Lovely-Mindmap中，我们声明了三个视图，它们看起来相似，但具有不同的交互方式。
+在 Lovely-Mindmap 中，我们声明了三个视图，它们看起来相似，但具有不同的交互方式。
 
 > 触摸：没有选择节点
 
@@ -77,11 +81,14 @@ Obsidian画布插件，用笑脸构建自己的知识图谱：）
 
 当您正在创建时，我们不希望您的思考和灵感被打断。
 
-因此，在插件级别上，我们只提供`cmd + Esc`来退出。
+因此，在插件级别上，我们只提供 `cmd + Esc` 来退出。
 
 这意味着修饰符将执行其原始工作，
-`Enter`可以换行，
-`cmd + ←→`可以将光标移动到行的开头/结尾。
+
+`Enter` 可以换行，
+
+`cmd + ←→` 可以将光标移动到行的开头/结尾。
+
 深入了解
 
 作为一个对无障碍性热衷的人，我不想把手离开键盘。
@@ -91,9 +98,10 @@ Obsidian画布插件，用笑脸构建自己的知识图谱：）
 在触摸视图中，`f` 选择离视口中心最近的节点。
 
 在导航视图中，`f` 激活选择节点并开始编辑。
+
 ## 🚧 待办事项
 
-- [ ] 如果视口中没有节点，则在中间创建双`f`节点
+- [ ] 如果视口中没有节点，则在中间创建双 `f` 节点
 
 不确定
 
@@ -105,11 +113,11 @@ Obsidian画布插件，用笑脸构建自己的知识图谱：）
 
 哇！
 
-- [ ] 导入像lark、XMind等文件
+- [ ] 导入像 lark、XMind 等文件
 
 哇！
 
-- [ ] 将Obsidian思维导图导出为指定的文件格式
+- [ ] 将 Obsidian 思维导图导出为指定的文件格式
 
 哇！
 
@@ -125,13 +133,14 @@ Obsidian画布插件，用笑脸构建自己的知识图谱：）
 
 哇！
 
-- [ ] 如果确认，`opt + ↑↓←→`将移动到视口之外的下一个节点
+- [ ] 如果确认，`opt + ↑↓←→` 将移动到视口之外的下一个节点
 
 哇！
 
 - [ ] 🥰 用户建议
 
 如前所述，**您独特和创新的想法有很大机会被我们采纳**。
+
 # ✨ 更新日志
 
 - 07/06/2023 支持通过 `Enter` 或 `Tab` 创建节点时的防抖功能
@@ -146,6 +155,7 @@ Obsidian画布插件，用笑脸构建自己的知识图谱：）
 2. 焦点模式应该难以中断
 
 如果需要的话，我们会考虑将其放在设置中作为一个开关。
+
 # ☕️ 捐赠
 
 如果您对这个项目感兴趣，可以给它⭐️点赞⭐️~
@@ -157,7 +167,6 @@ Obsidian画布插件，用笑脸构建自己的知识图谱：）
 支付宝
 
 <img alt="支付宝" height="200" src="https://cdn.jsdelivr.net/gh/xincan1949/xincan1949.github.io@master/Alipay.jpeg" width="200"/>
-
 
 微信
 

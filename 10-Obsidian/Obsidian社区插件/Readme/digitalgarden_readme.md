@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171996
-title: Obsidian 插件：【Readme】Digital Garden
+title: Obsidian 插件：Digital Garden
 tags: ['obsidian插件', 'readme']
 description: 将你的笔记发布到数字花园，供他人欣赏。
 author: AI

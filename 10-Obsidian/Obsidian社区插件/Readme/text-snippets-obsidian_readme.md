@@ -1,6 +1,6 @@
 ---
 uid: 2023080322280823
-title: Obsidian 插件：【Readme】Text Snippets
+title: Obsidian 插件：Text Snippets
 tags: ['自动化', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 更快的打字片段。允许您替换文本模板，创建自己的模板，并扩展文本快捷方式。
 author: AI

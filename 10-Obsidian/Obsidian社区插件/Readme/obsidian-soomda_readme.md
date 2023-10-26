@@ -1,6 +1,6 @@
 ---
 uid: 2023080322271423
-title: Obsidian 插件：【Readme】Soomda
+title: Obsidian 插件：Soomda
 tags: ['obsidian插件', 'readme']
 description: 快速隐藏你的侧边栏。
 author: AI

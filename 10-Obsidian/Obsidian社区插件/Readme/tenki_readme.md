@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Tenki
 > - 插件作者：HiroMike
 > - 插件说明：一个简单的天气显示。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ms3056/Tenki)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tenki)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 一个简单的天气显示。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ms3056/Tenki/main/README.md)
-> 
+>
 
 ---
 
@@ -37,34 +35,36 @@ modified: 20230101000000
 
 下面是 [[tenki]] 插件的自述翻译
 
-
-天气显示是Obsidian（https://obsidian.md）的一个天气显示插件。
+天气显示是 Obsidian（<https://obsidian.md）的一个天气显示插件。>
 
 ![2023-07-03_15h59_41](https://github.com/ms3056/Tenki/assets/23712700/ce8c220b-9935-4883-8542-79ace4f335b4)
+
 # 手动安装插件
 
 - 将 `main.js`、`styles.css`、`manifest.json` 复制到你的 vault 文件夹 `VaultFolder/.obsidian/plugins/Tenki/` 中。
+
 # 用法
-- 前往weatherapi.com（您可以从设置中链接到它）获取您的免费API密钥，并将其粘贴到设置中
+
+- 前往 weatherapi.com（您可以从设置中链接到它）获取您的免费 API 密钥，并将其粘贴到设置中
 - 输入您的城市，您应该能够看到天气更新
-- 如果应用程序不可见，则从命令菜单（在Windows上为control+p）中键入tenki，然后输入`Tenki: Open`
-- 天气更新的频率不会超过每30分钟一次 - 将刷新值设置得低于此值将没有用处
-- 所有的天气显示元素都有CSS类 - 查看styles.css并随意创建自己的代码片段来隐藏或样式化元素
+- 如果应用程序不可见，则从命令菜单（在 Windows 上为 control+p）中键入 tenki，然后输入 `Tenki: Open`
+- 天气更新的频率不会超过每 30 分钟一次 - 将刷新值设置得低于此值将没有用处
+- 所有的天气显示元素都有 CSS 类 - 查看 styles.css 并随意创建自己的代码片段来隐藏或样式化元素
+
 # 请给我买杯咖啡
 
-如果你觉得Tenki很有用，请考虑通过给我买杯咖啡来支持它的开发：
+如果你觉得 Tenki 很有用，请考虑通过给我买杯咖啡来支持它的开发：
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/mstam30561" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
 </p>
+
 # 帮助与支持
 
-我想向Discord社区的成员表达我的感激之情，他们提供了宝贵的帮助和支持。非常感谢！
-## API文档
+我想向 Discord 社区的成员表达我的感激之情，他们提供了宝贵的帮助和支持。非常感谢！
 
-有关Obsidian的API的更多信息，请参阅[Obsidian API文档](https://docs.obsidian.md/Home)。
+## API 文档
 
-
-
+有关 Obsidian 的 API 的更多信息，请参阅 [Obsidian API文档](https://docs.obsidian.md/Home)。

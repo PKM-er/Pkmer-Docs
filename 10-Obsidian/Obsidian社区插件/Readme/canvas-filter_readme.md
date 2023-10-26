@@ -1,6 +1,6 @@
 ---
 uid: 2023080322153271
-title: Obsidian 插件：【Readme】Canvas Filter
+title: Obsidian 插件：Canvas Filter
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以让你过滤画布，只显示特定颜色、标签或仅与当前选定节点相连的项目。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322284883
-title: Obsidian 插件：【Readme】Trim Whitespace
+title: Obsidian 插件：Trim Whitespace
 tags: ['obsidian插件', 'readme']
 description: 从你的 Obsidian 文档中删除不必要的空格
 author: AI

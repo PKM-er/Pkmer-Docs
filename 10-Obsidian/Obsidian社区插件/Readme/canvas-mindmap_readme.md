@@ -1,6 +1,6 @@
 ---
 uid: 2023080322153456
-title: Obsidian 插件：【Readme】Canvas Mindmap
+title: Obsidian 插件：Canvas Mindmap
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以让你的画布像思维导图一样工作。
 author: AI

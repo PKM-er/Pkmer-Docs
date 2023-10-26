@@ -1,6 +1,6 @@
 ---
 uid: 2023080322193852
-title: Obsidian 插件：【Readme】Heading Shifter
+title: Obsidian 插件：Heading Shifter
 tags: ['obsidian插件', 'readme']
 description: 轻松调整和更改 Markdown 标题。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322220350
-title: Obsidian 插件：【Readme】Markdown shortcuts
+title: Obsidian 插件：Markdown shortcuts
 tags: ['obsidian插件', 'readme']
 description: 允许使用快捷键编写Markdown
 author: AI

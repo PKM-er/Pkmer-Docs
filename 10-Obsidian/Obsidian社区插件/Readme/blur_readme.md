@@ -1,6 +1,6 @@
 ---
 uid: 2023080322151380
-title: Obsidian 插件：【Readme】Blur
+title: Obsidian 插件：Blur
 tags: ['obsidian插件', 'readme']
 description: 创建混淆的文本块。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322252818
-title: Obsidian 插件：【Readme】Quote of the Day
+title: Obsidian 插件：Quote of the Day
 tags: ['obsidian插件', 'readme']
 description: 在编辑器中插入随机引用
 author: AI

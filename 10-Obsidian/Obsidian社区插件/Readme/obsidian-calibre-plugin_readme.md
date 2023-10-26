@@ -1,6 +1,6 @@
 ---
 uid: 2023080322152831
-title: Obsidian 插件：【Readme】Calibre
+title: Obsidian 插件：Calibre
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您访问Calibre库并直接在Obsidian中阅读书籍。
 author: AI

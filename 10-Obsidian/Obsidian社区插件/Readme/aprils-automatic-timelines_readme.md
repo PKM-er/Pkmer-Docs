@@ -1,6 +1,6 @@
 ---
 uid: 2023080322141183
-title: Obsidian 插件：【Readme】April's Automatic Timelines
+title: "Obsidian 插件：April's Automatic Timelines"
 tags: ['obsidian插件', 'readme']
 description: 故事讲述者的简易时间线生成器
 author: AI

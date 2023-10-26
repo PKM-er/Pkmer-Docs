@@ -1,6 +1,6 @@
 ---
 uid: 2023080322170731
-title: Obsidian 插件：【Readme】Dangling links
+title: Obsidian 插件：Dangling links
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 添加一个面板，显示保险库中任何悬挂的链接。
 author: AI

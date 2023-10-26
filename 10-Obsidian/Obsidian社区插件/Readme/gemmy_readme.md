@@ -1,6 +1,6 @@
 ---
 uid: 2023080322190434
-title: Obsidian 插件：【Readme】Gemmy
+title: Obsidian 插件：Gemmy
 tags: ['obsidian插件', 'readme']
 description: 黑曜石非助手。由黑曜石提供的2023年愚人节插件。
 author: AI
@@ -72,7 +72,9 @@ Gemmy 通过不时地随机说些话来寻求认可。
 Obsidian 徽标改编自：
 
 [水晶碎片图标](https://icon-icons.com/icon/Crystal-Shard/88819)
+
 由 [Chanut is Industries](https://icon-icons.com/users/W52nHhY3W1VlvwyJTwS4d/icon-sets/) 提供
+
 许可证：署名 3.0 未本地化 (CC BY 3.0)
 
 ---

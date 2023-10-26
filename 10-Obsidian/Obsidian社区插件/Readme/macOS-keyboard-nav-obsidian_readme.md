@@ -1,6 +1,6 @@
 ---
 uid: 2023080322215158
-title: Obsidian 插件：【Readme】macOS Keyboard Navigation
+title: Obsidian 插件：macOS Keyboard Navigation
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 这个插件恢复 macOS 默认键盘导航效果，特别是alt+和alt+，和alt+shift+和alt+shift+
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322244962
-title: Obsidian 插件：【Readme】Plotly
+title: Obsidian 插件：Plotly
 tags: ['obsidian插件', 'readme']
 description: 使用这个插件，你可以在笔记中嵌入Plotly图表。
 author: AI

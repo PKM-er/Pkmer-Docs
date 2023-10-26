@@ -1,6 +1,6 @@
 ---
 uid: 2023080322142774
-title: Obsidian 插件：【Readme】Auto Classifier
+title: Obsidian 插件：Auto Classifier
 tags: ['obsidian插件', 'readme']
 description: 使用ChatGPT API自动对您的笔记进行标签分类。它会分析您的笔记（可以是标题、前言、内容或选定区域），并在您设置的位置自动插入标签。
 author: AI

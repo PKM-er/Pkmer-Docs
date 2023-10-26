@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Merge Notes
 > - 插件作者：fnya
 > - 插件说明：合并所选的笔记。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/fnya/merge-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?merge-notes)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 合并所选的笔记。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/fnya/merge-notes/main/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,10 @@ modified: 20230101000000
 
 下面是 [[merge-notes]] 插件的自述翻译
 
-
 # 合并笔记
 
-`合并笔记`是一个为[Obsidian](https://obsidian.md/)设计的插件，它允许你将在上下文菜单中选择的笔记合并成一个单独的笔记。
+`合并笔记` 是一个为 [Obsidian](https://obsidian.md/) 设计的插件，它允许你将在上下文菜单中选择的笔记合并成一个单独的笔记。
+
 ## 如何使用
 
 在文件浏览器中选择要合并的笔记。
@@ -73,6 +71,7 @@ modified: 20230101000000
 限制
 
 当前无法删除合并的笔记。删除功能将在以后的日期支持。
+
 - [@dnd-kit](https://docs.dndkit.com/)
 
 

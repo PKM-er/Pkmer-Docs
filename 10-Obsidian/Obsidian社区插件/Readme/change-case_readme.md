@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Change Case
 > - 插件作者：David Brockman
 > - 插件说明：插件可让您更改当前选择的大小写（大写，驼峰式，蛇形命名等）。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/dbrockman/obsidian-change-case)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?change-case)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 插件可让您更改当前选择的大小写（大写，驼峰式，蛇形命名等）。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dbrockman/obsidian-change-case/master/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,11 @@ modified: 20230101000000
 
 下面是 [[change-case]] 插件的自述翻译
 
-
 # 变更大小写的 Obsidian 插件
 
 该插件允许您更改所选文本的大小写（大写、驼峰式、蛇形命名等）。
 
-这是一个适用于 Obsidian（https://obsidian.md）的插件。
+这是一个适用于 Obsidian（<https://obsidian.md）的插件。>
 
 该插件添加了以下命令：
 
@@ -63,6 +60,3 @@ modified: 20230101000000
 它还添加了命令 `Change Case: Select from list`（从列表中选择）。这将显示一个选择模态框，其中列出了上述选项。这在移动设备上更易于使用。
 
 这些命令可以用于多个选择。
-
-
-

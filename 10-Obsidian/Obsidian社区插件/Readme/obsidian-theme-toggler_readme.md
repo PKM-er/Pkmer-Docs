@@ -1,6 +1,6 @@
 ---
 uid: 2023080322281437
-title: Obsidian 插件：【Readme】Theme Toggler
+title: Obsidian 插件：Theme Toggler
 tags: ['obsidian插件', 'readme']
 description: 在 Obsidian 面板中切换主题。
 author: AI

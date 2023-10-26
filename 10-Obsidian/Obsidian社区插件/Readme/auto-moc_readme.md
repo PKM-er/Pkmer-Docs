@@ -1,6 +1,6 @@
 ---
 uid: 2023080322144080
-title: Obsidian 插件：【Readme】AutoMOC
+title: Obsidian 插件：AutoMOC
 tags: ['obsidian插件', 'readme']
 description: 查找当前笔记中缺失的链接引用，并将它们导入到当前笔记中。
 author: AI

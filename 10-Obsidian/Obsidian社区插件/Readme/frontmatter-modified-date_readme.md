@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Update frontmatter modified date
 > - 插件作者：Alan Grainger
 > - 插件说明：当文件被修改时，自动更新前置数据的修改日期字段。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/alangrainger/obsidian-frontmatter-modified-date)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?frontmatter-modified-date)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 当文件被修改时，自动更新前置数据的修改日期字段。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/alangrainger/obsidian-frontmatter-modified-date/main/README.md)
-> 
+>
 
 ---
 
@@ -37,13 +35,14 @@ modified: 20230101000000
 
 下面是 [[frontmatter-modified-date]] 插件的自述翻译
 
-
 ![](https://img.shields.io/github/license/alangrainger/obsidian-frontmatter-modified-date) ![](https://img.shields.io/github/v/release/alangrainger/obsidian-frontmatter-modified-date?style=flat-square) ![](https://img.shields.io/github/downloads/alangrainger/obsidian-frontmatter-modified-date/total)
+
 # 更新前置元数据的修改日期
 
 当您编辑一个笔记时，此插件将自动更新前置元数据/ YAML 中的修改属性。
 
-与其他插件不同的是，它不使用文件系统的修改时间。只有当您在Obsidian中实际工作时，前置元数据才会更新。
+与其他插件不同的是，它不使用文件系统的修改时间。只有当您在 Obsidian 中实际工作时，前置元数据才会更新。
+
 ## 选项
 
 - 指定您喜欢的任何 YAML 字段名称。

@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Easy Bake
 > - 插件作者：mgmeyers
 > - 插件说明：轻松将许多 Obsidian 笔记编译成单个文件。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/mgmeyers/obsidian-easy-bake)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?easy-bake)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 轻松将许多 Obsidian 笔记编译成单个文件。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-easy-bake/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[easy-bake]] 插件的自述翻译
-
 
 <p align="center">
   <img align="center" width="175" src="https://github.com/mgmeyers/obsidian-easy-bake/blob/master/assets/logo.png?raw=true">
@@ -52,7 +49,7 @@ modified: 20230101000000
 
 ---
 
-在[Obsidian的命令面板](https://help.obsidian.md/Plugins/Command+palette)中使用`Bake current file`命令来激活插件。
+在 [Obsidian的命令面板](https://help.obsidian.md/Plugins/Command+palette) 中使用 `Bake current file` 命令来激活插件。
 
 <img width="500" src="https://github.com/mgmeyers/obsidian-easy-bake/blob/master/assets/screenshot.png?raw=true">
 
@@ -85,6 +82,3 @@ modified: 20230101000000
 
 文件四的内容
 ```
-
-
-

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322233604
-title: Obsidian 插件：【Readme】Obsidian OCR
+title: Obsidian 插件：Obsidian OCR
 tags: ['obsidian插件', 'readme']
 description: 使用光学字符识别技术在您的图像和PDF文件中搜索文本
 author: AI
@@ -38,6 +38,7 @@ modified: 20230101000000
 下面是 [[obsidian-ocr]] 插件的自述翻译
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -45,6 +46,7 @@ modified: 20230101000000
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,7 +68,7 @@ Obsidian OCR 允许您在图像和 PDF 中搜索文本。
 
 ###### 手动安装
 
-❗确保可执行文件在您的路径中。如果您不知道如何操作，请查看这里：<https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/>❗
+❗确保可执行文件在您的路径中。如果您不知道如何操作，请查看这里：<<https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/>❗>
 
 - 安装 [tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
 - 安装 [imagemagick](https://imagemagick.org/index.php)

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322260947
-title: Obsidian 插件：【Readme】Rewarder
+title: Obsidian 插件：Rewarder
 tags: ['obsidian插件', 'readme']
 description: 完成任务/待办事项可获得奖励，高度可配置。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322140321
-title: Obsidian 插件：【Readme】Another Quick Switcher
+title: Obsidian 插件：Another Quick Switcher
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian插件，是另一种快速切换的选择。
 author: AI

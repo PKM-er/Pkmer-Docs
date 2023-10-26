@@ -1,6 +1,6 @@
 ---
 uid: 2023080322243783
-title: Obsidian 插件：【Readme】PDF Highlights
+title: Obsidian 插件：PDF Highlights
 tags: ['转换工具', 'PDF', 'obsidian插件', 'readme']
 description: 允许从 pdf 中的高亮和下划线文本中，提取内容到你的笔记文件中。
 author: AI

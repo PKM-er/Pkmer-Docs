@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Custom list character
 > - 插件作者：Lilian POULIQUEN
-> - 插件说明：添加了在创建项目符号列表时选择使用的字符的功能，可以选择'-'、'*'和'+'之间的字符。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：添加了在创建项目符号列表时选择使用的字符的功能，可以选择 '-'、'*' 和 '+' 之间的字符。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lilian-pouliquen/obsidian-custom-list-character)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?custom-list-character)
 
 ## 概述
 
-添加了在创建项目符号列表时选择使用的字符的功能，可以选择'-'、'*'和'+'之间的字符。
-
-
+添加了在创建项目符号列表时选择使用的字符的功能，可以选择 '-'、'*' 和 '+' 之间的字符。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lilian-pouliquen/obsidian-custom-list-character/master/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +35,8 @@ modified: 20230101000000
 
 下面是 [[custom-list-character]] 插件的自述翻译
 
-
 # 自定义列表字符 <!-- 在目录中省略 -->
+
 ## 目录 <!-- omit in toc -->
 
 * [1. Introduction](#1-introduction)
@@ -49,14 +47,16 @@ modified: 20230101000000
   * [3.3. 移动设备设置](#33-移动设备设置)
 * [4. 项目帮助](#4-项目帮助)
 * [5. 作者](#5-作者)
+
 ## 1. 简介
 
-`自定义列表字符`是一个简单的插件，允许您在Obsidian中制作项目列表时选择要使用的字符。
+`自定义列表字符` 是一个简单的插件，允许您在 Obsidian 中制作项目列表时选择要使用的字符。
 
 它添加了以下功能：
 
-* 新的设置选项，可以在`-`（默认）、`*`和`+`之间选择所需的字符
+* 新的设置选项，可以在 `-`（默认）、`*` 和 `+` 之间选择所需的字符
 * 新的快捷键绑定，用于使用所选字符制作或格式化您的项目列表
+
 ## 2. 演示
 
 1. 选择你的角色！
@@ -70,7 +70,9 @@ modified: 20230101000000
 3. 使用新的快捷键来制作和格式化你的项目列表，如下所示：
 
    ![自定义列表角色演示](./docs/images/custom_list_character_demo.gif "使用角色来格式化和制作项目列表")
-3. 安装插件
+
+4. 安装插件
+
 ### 3.1. 通过 Obsidian 安装
 
 要从 Obsidian 安装插件，请按照以下步骤操作：
@@ -83,16 +85,20 @@ modified: 20230101000000
 6. 点击 `安装`
 7. 返回到 `设置 > 社区插件`
 8. 刷新插件并激活 `Custom list character`
+
 ### 3.2. 手动安装
 
 要安装插件，请按照以下步骤进行操作：
 
-1. 从[项目的最新发布版本](https://github.com/lilian-pouliquen/obsidian-custom-list-character/releases/latest/)下载`main.js`和`manifest.json`文件
-   * 或者，您可以下载包含上述两个文件的`custom-list-character.zip`文件
-2. 将这些文件放置在`<your_vault_path>/.obsidian/plugins/custom-list-character/`目录中
-3. 打开Obsidian
-4. 转到`设置 > 社区插件`
-5. 刷新插件列表并激活`Custom list character`插件
+1. 从 [项目的最新发布版本](https://github.com/lilian-pouliquen/obsidian-custom-list-character/releases/latest/) 下载 `main.js` 和 `manifest.json` 文件
+
+   * 或者，您可以下载包含上述两个文件的 `custom-list-character.zip` 文件
+
+2. 将这些文件放置在 `<your_vault_path>/.obsidian/plugins/custom-list-character/` 目录中
+3. 打开 Obsidian
+4. 转到 `设置 > 社区插件`
+5. 刷新插件列表并激活 `Custom list character` 插件
+
 ### 3.3. 移动设备设置
 
 您也可以在移动设备上使用“自定义列表字符”！要这样做，请按照以下额外步骤进行操作：
@@ -109,10 +115,8 @@ modified: 20230101000000
 
 欢迎任何帮助！
 
-如果你想帮助我改进插件，请fork该项目并提交pull request。请随时提出功能需求。
+如果你想帮助我改进插件，请 fork 该项目并提交 pull request。请随时提出功能需求。
+
 5. 作者
 
 * Lilian POULIQUEN - [@lilian-pouliquen on GitHub](https://github.com/lilian-pouliquen/)
-
-
-

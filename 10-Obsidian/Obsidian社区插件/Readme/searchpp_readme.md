@@ -1,6 +1,6 @@
 ---
 uid: 2023080322263166
-title: Obsidian 插件：【Readme】Search++
+title: Obsidian 插件：Search++
 tags: ['搜索/排序', '界面相关', '效率', 'obsidian插件', 'readme']
 description: 允许在笔记中插入文本上下文搜索结果，这个插件是基于mrj-text-expand的代码。
 author: AI

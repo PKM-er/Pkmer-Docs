@@ -1,6 +1,6 @@
 ---
 uid: 2023080322160870
-title: Obsidian 插件：【Readme】Codeblock Customizer
+title: Obsidian 插件：Codeblock Customizer
 tags: ['obsidian插件', 'readme']
 description: 在编辑和阅读模式下自定义您的代码块。
 author: AI

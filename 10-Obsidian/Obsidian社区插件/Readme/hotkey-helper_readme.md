@@ -1,6 +1,6 @@
 ---
 uid: 2023080322195007
-title: Obsidian 插件：【Readme】Hotkey Helper
+title: Obsidian 插件：Hotkey Helper
 tags: ['快捷键', '效率', 'obsidian插件', 'readme']
 description: 一个快捷键助手，让你更容易的管理 Obsidian 的快捷键。
 author: AI
@@ -72,7 +72,7 @@ modified: 20230101000000
 
 当启用此插件时，您可以使用 `obsidian://goto-plugin?id=plugin-id` 形式的 URL 打开插件信息。这将在当前存储库的 Community Plugins 浏览器中打开，显示该插件的信息。例如，URL <obsidian://goto-plugin?id=hotkey-helper>将在 Obsidian 的插件浏览器中打开此页面（如果您当前的存储库已启用 Hotkey Helper）。
 
-这意味着，如果您是插件作者，并且希望使人们能够轻松找到和安装您的插件（即无需输入插件名称），您只需在推广插件的任何地方（或其他人共享插件）包含一个 URL 即可。（注意：Github 会从 markdown 中删除 `obsidian://`URL，因此如果您想在项目的 README 中包含链接，您可以链接到例如<https://obsidian-plugins.peak-dev.org/goto/hotkey-helper/以获取重定向到实际的 Obsidian> URL。希望将来可以用官方域名的重定向器替换这个 URL。）
+这意味着，如果您是插件作者，并且希望使人们能够轻松找到和安装您的插件（即无需输入插件名称），您只需在推广插件的任何地方（或其他人共享插件）包含一个 URL 即可。（注意：Github 会从 markdown 中删除 `obsidian://`URL，因此如果您想在项目的 README 中包含链接，您可以链接到例如<<https://obsidian-plugins.peak-dev.org/goto/hotkey-helper/以获取重定向到实际的> Obsidian> URL。希望将来可以用官方域名的重定向器替换这个 URL。）
 
 除了 `id=` 参数外，您还可以在 URL 中添加 `&show=config` 或 `&show=hotkeys`，以直接转到该插件的设置或热键配置（如果已安装、启用并且有设置选项卡或命令）。这可以通过提供链接而不是冗长的说明来更容易地支持您的用户，以定位所需的特定项目/区域。
 

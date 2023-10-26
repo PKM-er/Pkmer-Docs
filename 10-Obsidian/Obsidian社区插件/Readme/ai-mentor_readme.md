@@ -1,6 +1,6 @@
 ---
 uid: 2023080322135463
-title: Obsidian 插件：【Readme】AI Mentor
+title: Obsidian 插件：AI Mentor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中与您的开源AI导师见面。提问、获取答案并学习新知识。
 author: AI

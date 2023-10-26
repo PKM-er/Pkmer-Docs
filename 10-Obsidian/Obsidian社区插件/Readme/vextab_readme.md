@@ -1,6 +1,6 @@
 ---
 uid: 2023080322291542
-title: Obsidian 插件：【Readme】Vextab
+title: Obsidian 插件：Vextab
 tags: ['obsidian插件', 'readme']
 description: 用于渲染 Vextab 图。
 author: AI

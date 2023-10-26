@@ -1,6 +1,6 @@
 ---
 uid: 2023080322154079
-title: Obsidian 插件：【Readme】Character Insertion
+title: Obsidian 插件：Character Insertion
 tags: ['obsidian插件', 'readme']
 description: 在光标下插入指定符号的插件。
 author: AI

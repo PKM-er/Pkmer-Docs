@@ -1,6 +1,6 @@
 ---
 uid: 2023080322182624
-title: Obsidian 插件：【Readme】Flashcard Learning
+title: Obsidian 插件：Flashcard Learning
 tags: ['obsidian插件', 'readme']
 description: 改进的闪卡学习系统。
 author: AI

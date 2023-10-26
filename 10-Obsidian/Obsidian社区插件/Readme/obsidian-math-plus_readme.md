@@ -1,6 +1,6 @@
 ---
 uid: 2023080322233255
-title: Obsidian 插件：【Readme】Obsidian Math+
+title: Obsidian 插件：Obsidian Math+
 tags: ['obsidian插件', 'readme']
 description: 这是一个使用Excalidraw进行数学笔记的Obsidian插件。
 author: AI

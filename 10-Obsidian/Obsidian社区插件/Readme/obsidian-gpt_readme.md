@@ -1,6 +1,6 @@
 ---
 uid: 2023080322192315
-title: Obsidian 插件：【Readme】GPT
+title: Obsidian 插件：GPT
 tags: ['obsidian插件', 'readme']
 description: Obsidian编辑器中通过API使用GPT和大型语言模型完成
 author: AI

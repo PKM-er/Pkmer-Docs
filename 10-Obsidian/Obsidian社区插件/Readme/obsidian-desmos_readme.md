@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171489
-title: Obsidian 插件：【Readme】Desmos
+title: Obsidian 插件：Desmos
 tags: ['obsidian插件', 'readme']
 description: 将Desmos图形嵌入您的笔记中
 author: AI
@@ -40,6 +40,7 @@ modified: 20230101000000
 # 黑曜石 Desmos
 
 在你的笔记中直接渲染 [Desmos](https://www.desmos.com/calculator) 图形。
+
 可以在线和 [离线](#offline-usage) 使用。
 
 ![演示](https://user-images.githubusercontent.com/48661288/159597221-afc18198-5a3f-4a58-a6b2-a3a552a92a7f.png)
@@ -110,9 +111,11 @@ modified: 20230101000000
 </details>
 
 你可以通过使用 `height` 和 `width` 字段来设置渲染图像的尺寸。
+
 此外，你可以通过设置 `grid=false` 来禁用图形网格。
 
 你可以通过使用 `degreeMode` 设置来设置三角函数的模式。
+
 它有两个有效值：`radians` 或 `degrees`。默认情况下，它将被设置为 `radians`。
 
 ## 方程控制
@@ -218,6 +221,7 @@ modified: 20230101000000
 # 自定义样式
 
 `obsidian-desmos` CSS 类应用于所有图形。可以在主题和片段中使用它来覆盖某些行为。
+
 例如，如果您希望所有图形在页面内容中居中显示，可以使用以下片段：
 
 ```css
@@ -232,4 +236,5 @@ modified: 20230101000000
 # 离线使用
 
 如果您在连接到互联网时至少渲染了一个图形，那么以后的任何图形（无论缓存设置如何）都应该能够渲染（如果不能，请在此处提出问题）。
+
 * 需要在插件设置中启用传统 API 模式。

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322261573
-title: Obsidian 插件：【Readme】RTL Support
+title: Obsidian 插件：RTL Support
 tags: ['界面相关', '编辑器', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加了 RTL 支持。RTL 从右到左文本方向的语言，如阿拉伯语、希伯来语和波斯语。
 author: AI

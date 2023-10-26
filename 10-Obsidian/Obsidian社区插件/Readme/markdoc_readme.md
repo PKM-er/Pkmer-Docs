@@ -1,6 +1,6 @@
 ---
 uid: 2023080322215748
-title: Obsidian 插件：【Readme】Markdoc
+title: Obsidian 插件：Markdoc
 tags: ['obsidian插件', 'readme']
 description: Markdoc文件的基本支持。
 author: AI

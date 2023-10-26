@@ -1,6 +1,6 @@
 ---
 uid: 2023080322245858
-title: Obsidian 插件：【Readme】PostgreSQL Obsidian
+title: Obsidian 插件：PostgreSQL Obsidian
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记的元数据上传到PostgreSQL数据库
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322204522
-title: Obsidian 插件：【Readme】JavaScript Init
+title: Obsidian 插件：JavaScript Init
 tags: ['编程', 'obsidian插件', 'readme']
 description: 在 Obsidian 加载时或任何其他时间运行JavaScript。
 author: AI

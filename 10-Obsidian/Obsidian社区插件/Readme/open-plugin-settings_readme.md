@@ -1,6 +1,6 @@
 ---
 uid: 2023080322240989
-title: Obsidian 插件：【Readme】Open Plugin Settings
+title: Obsidian 插件：Open Plugin Settings
 tags: ['obsidian插件', 'readme']
 description: 创建一个命令来打开指定的插件设置。
 author: AI

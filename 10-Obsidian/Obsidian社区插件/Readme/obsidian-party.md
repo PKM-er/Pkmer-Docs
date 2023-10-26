@@ -1,8 +1,7 @@
 ---
 uid: 20230822234211
 title: Obsidian 插件：Party 在你完成任务的时候来些喝彩
-tags:
-  - obsidian插件
+tags: [obsidian插件]
 description: Obsidian 插件：Party 在你完成任务的时候来些喝彩，Obsidian上的party.js实现。在您的笔记中创建五彩纸屑、火花，甚至自定义效果！
 author: OS
 type: basic

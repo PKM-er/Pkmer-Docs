@@ -1,6 +1,6 @@
 ---
 uid: 2023080322263814
-title: Obsidian 插件：【Readme】Sequence Hotkeys
+title: Obsidian 插件：Sequence Hotkeys
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许你使用按键序列而不是单个和弦来设置热键。
 author: AI

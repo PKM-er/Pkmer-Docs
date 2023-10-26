@@ -1,6 +1,6 @@
 ---
 uid: 2023080322184697
-title: Obsidian 插件：【Readme】Force note view mode
+title: Obsidian 插件：Force note view mode
 tags: ['界面相关', '效率', '编辑器', 'obsidian插件', 'readme']
 description: 允许你在 front-matter 中使用 YAML 语法，自定义每个笔记文件的视图样式。
 author: AI

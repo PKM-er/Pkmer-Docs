@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171773
-title: Obsidian 插件：【Readme】Dialogue
+title: Obsidian 插件：Dialogue
 tags: ['编辑器', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 利用特定的语法，在 Markdown 中创建对话样式的笔记。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322174379
-title: Obsidian 插件：【Readme】Email Block
+title: Obsidian 插件：Email Block
 tags: ['美化', '第三方工具集成', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 通过特定的代码域语法，可以在 Obdidian 内显示一个建议电子邮件样式。（语法：to，subjuect，body， CC等）
 author: AI

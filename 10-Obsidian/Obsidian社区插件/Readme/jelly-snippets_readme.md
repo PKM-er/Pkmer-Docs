@@ -1,6 +1,6 @@
 ---
 uid: 2023080322204634
-title: Obsidian 插件：【Readme】Jelly Snippets
+title: Obsidian 插件：Jelly Snippets
 tags: ['obsidian插件', 'readme']
 description: 一个简单的文本片段插件。
 author: AI

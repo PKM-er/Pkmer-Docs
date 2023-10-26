@@ -1,6 +1,6 @@
 ---
 uid: 2023080322173161
-title: Obsidian 插件：【Readme】Dynamic Background
+title: Obsidian 插件：Dynamic Background
 tags: ['obsidian插件', 'readme']
 description: 为Obsidian编辑器添加动态背景效果
 author: AI

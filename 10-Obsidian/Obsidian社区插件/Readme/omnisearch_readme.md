@@ -1,6 +1,6 @@
 ---
 uid: 2023080322240030
-title: Obsidian 插件：【Readme】Omnisearch
+title: Obsidian 插件：Omnisearch
 tags: ['搜索/排序', '效率', 'obsidian插件', 'readme']
 description: 提供更强大的智能搜索，可以搜索 PDF文件和图像中的文字内容。
 author: AI
@@ -40,9 +40,11 @@ modified: 20230101000000
 # Obsidian 的 Omnisearch
 
 [![赞助我](https://img.shields.io/badge/%E2%9D%A4%20喜欢这个插件吗？-赞助我！-ff69b4)](https://github.com/sponsors/scambier)
+
 ![Obsidian插件](https://img.shields.io/endpoint?url=https%3A%2F%2Fscambier.xyz%2Fobsidian-endpoints%2Fomnisearch.json)
 
 ![GitHub发布（按日期和文件）](https://img.shields.io/github/downloads/scambier/obsidian-omnisearch/latest/main.js)
+
 ![GitHub发布（包括预发布）](https://img.shields.io/github/v/release/scambier/obsidian-omnisearch)
 
 ![GitHub发布（包括预发布）](https://img.shields.io/github/v/release/scambier/obsidian-omnisearch?include_prereleases&label=BRAT%20beta)

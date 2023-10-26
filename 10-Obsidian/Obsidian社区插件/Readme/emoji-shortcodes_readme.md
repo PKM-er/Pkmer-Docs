@@ -1,6 +1,6 @@
 ---
 uid: 2023080322174834
-title: Obsidian 插件：【Readme】Emoji Shortcodes
+title: Obsidian 插件：Emoji Shortcodes
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 可以使用 冒号加emoji 名称的方法， 快速插入你熟悉的 emoji 表情
 author: AI

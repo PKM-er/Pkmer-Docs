@@ -1,6 +1,6 @@
 ---
 uid: 2023080322293224
-title: Obsidian 插件：【Readme】Wielder
+title: Obsidian 插件：Wielder
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中支持 Clojure/ClojureScript 
 author: AI
@@ -71,7 +71,7 @@ Wielder 永远不会运行来自 Obsidian Vault 之外的任何代码，因此�
 
 很难用文字准确描述您可以使用 Wielder 做什么，所以最简单的方法就是安装插件并查看此存储库中提供的演示保险库。
 
-如果您不想在实际操作之前安装插件，您可以在此处查看保险库（以及 Wielder）的 Web 版本：<https://wielder.victor.earth（啊，是的，我忘了提到：当然它也适用于网页和 Obsidian 内部！）>
+如果您不想在实际操作之前安装插件，您可以在此处查看保险库（以及 Wielder）的 Web 版本：<<https://wielder.victor.earth（啊，是的，我忘了提到：当然它也适用于网页和> Obsidian 内部！）>
 
 ### 代码布局
 

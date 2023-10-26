@@ -1,6 +1,6 @@
 ---
 uid: 2023080322142099
-title: Obsidian 插件：【Readme】Audio Notes
+title: Obsidian 插件：Audio Notes
 tags: ['obsidian插件', 'readme']
 description: 为音频文件创建笔记。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322182318
-title: Obsidian 插件：【Readme】Financial Doc
+title: Obsidian 插件：Financial Doc
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中直接使用CSV格式和Chart.js进行财务文件和跟踪。
 author: AI
@@ -48,9 +48,7 @@ modified: 20230101000000
 
 <p align="center">
 
-
   ·
-
 
 </p>
 </div>
@@ -120,6 +118,7 @@ git push origin tags/X.Y.Z
 - **dividend**
 
 创建一个 PR 来创建新的模型。
+
 您可以直接在设置选项卡中进行编辑。
 
 ### 代码块

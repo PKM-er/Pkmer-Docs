@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：oblogger
 > - 插件作者：loftTech
 > - 插件说明：标签浏览器和前置信息记录器
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lofttech/obsidian-oblogger)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?oblogger)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 标签浏览器和前置信息记录器
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/loftTech/obsidian-oblogger/main/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,12 @@ modified: 20230101000000
 
 下面是 [[oblogger]] 插件的自述翻译
 
-
 关于
 
-**oblogger仍处于测试阶段，将经常更新！**
+**oblogger 仍处于测试阶段，将经常更新！**
 
-oblogger是Obsidian的一个侧边栏插件，主要专注于两个核心功能：
+oblogger 是 Obsidian 的一个侧边栏插件，主要专注于两个核心功能：
+
 1. **标签浏览器**面板，可以选择要显示的标签组，以及一些预定义的组，如日常、最近的文档、文件和所有未标记的文档（这些预定义的组可以隐藏）
 2. 一个有用的模态框，用于将信息记录到新文档的前置元数据中
 
@@ -52,6 +50,7 @@ oblogger是Obsidian的一个侧边栏插件，主要专注于两个核心功能�
 <p align="center">
     <img width="500" alt="记录器" src="https://github.com/loftTech/obsidian-oblogger/assets/69363905/f4562622-e843-44b9-a2f9-c65356e11379">
 </p>
+
 ## 特点
 
 - 标签浏览器
@@ -79,11 +78,12 @@ oblogger是Obsidian的一个侧边栏插件，主要专注于两个核心功能�
   - 简单的前置元数据生成
     - 添加新字段
     - 基于先前记录的数据的建议弹出窗口
+
 ## 路线图
 
-- 版本2.0及以后
-  - "预定"日志记录
-  - "会话"日志记录
+- 版本 2.0 及以后
+  - " 预定 " 日志记录
+  - " 会话 " 日志记录
   - 连续日志记录
   - 日志记录正文字段中的丰富编辑器功能
   - 从侧面板重命名文件
@@ -93,28 +93,25 @@ oblogger是Obsidian的一个侧边栏插件，主要专注于两个核心功能�
 常见问题解答
 
 - 为什么我不能从侧边栏重命名笔记/文件？
-  - 因为这很困难 :( 如果你找到了一种干净的方式来链接到FileExplorer核心插件，请告诉我们！
+  - 因为这很困难 :( 如果你找到了一种干净的方式来链接到 FileExplorer 核心插件，请告诉我们！
 - 为什么我不能登录到根保险库文件夹？
   - 因为你没有吃蔬菜
 - 如何删除头像图片？
-  - 你需要打开oblogger的data.json文件并删除`avatarPath`设置。很抱歉 :(（即将推出的功能）
+  - 你需要打开 oblogger 的 data.json 文件并删除 `avatarPath` 设置。很抱歉 :(（即将推出的功能）
 - 我至少可以**隐藏**我的头像吗？
   - 当然可以！点击导航栏的齿轮图标，你可以隐藏各种东西。
 - 如何设置自定义文档图标？
-  - 在文件的正文中添加`icon: "..."`。`...`可以是来自https://lucide.dev的几乎任何东西，例如尝试在文件中添加`icon: "dog"` :)
+  - 在文件的正文中添加 `icon: "..."`。`...` 可以是来自<https://lucide.dev 的几乎任何东西，例如尝试在文件中添加>`icon: "dog"` :)
 - 我昨天创建了一个日记，现在我的日记顺序错乱了？
-  - 默认情况下，我们使用`file.ctime`来排序日记。但是，你可以通过在正文中添加`created: YYYY-MM-DD`或`day: YYYY-MM-DD`来覆盖日期。
+  - 默认情况下，我们使用 `file.ctime` 来排序日记。但是，你可以通过在正文中添加 `created: YYYY-MM-DD` 或 `day: YYYY-MM-DD` 来覆盖日期。
 - 我如何为你们的辛勤工作付费？
-  - 非常感谢！请参阅[给我买杯咖啡](#buy-me-a-coffee)
+  - 非常感谢！请参阅 [给我买杯咖啡](#buy-me-a-coffee)
 如何构建
 
 `npm run dev` 用于调试和监视
 
 `npm run build` 用于发布
+
 致谢
 
-我们要感谢[obsidian plugin-dev discord server](https://discordapp.com/channels/686053708261228577/840286264964022302)在我们遇到困难时给予我们的所有帮助。如果你正在阅读这篇文章并且正在开发主题、插件，或者只是想更多地参与obsidian社区，那么请你自己一个忙，[加入那个discord频道](https://discord.gg/obsidianmd)。
-
-
-
-
+我们要感谢 [obsidian plugin-dev discord server](https://discordapp.com/channels/686053708261228577/840286264964022302) 在我们遇到困难时给予我们的所有帮助。如果你正在阅读这篇文章并且正在开发主题、插件，或者只是想更多地参与 obsidian 社区，那么请你自己一个忙，[加入那个discord频道](https://discord.gg/obsidianmd)。

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322210294
-title: Obsidian 插件：【Readme】Khoj
+title: Obsidian 插件：Khoj
 tags: ['obsidian插件', 'readme']
 description: 自然、增量搜索你的第二个大脑🦅
 author: AI

@@ -15,21 +15,21 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Day Planner (OG)
 > - 插件作者：James Lynch (continued by Erin Schnabel)
-> - 插件说明：从Markdown笔记中的简单任务列表进行日程规划（基本功能，保留原始插件的特性和行为）
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：从 Markdown 笔记中的简单任务列表进行日程规划（基本功能，保留原始插件的特性和行为）
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/ebullient/obsidian-day-planner-og)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?day-planner-og)
 
 ## 概述
 
-从Markdown笔记中的简单任务列表进行日程规划（基本功能，保留原始插件的特性和行为）
+从 Markdown 笔记中的简单任务列表进行日程规划（基本功能，保留原始插件的特性和行为）
 
 ![Day Planner (OG)](https://cdn.pkmer.cn/covers/day-planner-og.png!pkmer)
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/README.md)
-> 
+>
 
 ---
 
@@ -37,23 +37,24 @@ modified: 20230101000000
 
 下面是 [[day-planner-og]] 插件的自述翻译
 
-
 # 日程安排（OG）
 
-这是早期由[James Lynch](https://github.com/lynchjames)编写的Obsidian日程安排插件的分支。
+这是早期由 [James Lynch](https://github.com/lynchjames) 编写的 Obsidian 日程安排插件的分支。
 
-随着[日程安排插件](https://github.com/ivan-lednev/obsidian-day-planner)的发展，它带来了新功能，如拖放任务创建和周视图等。
+随着 [日程安排插件](https://github.com/ivan-lednev/obsidian-day-planner) 的发展，它带来了新功能，如拖放任务创建和周视图等。
 
-这个插件（OG）保留了原始版本的功能和风格，同时与依赖和API的变化保持同步。我隐藏了Mermaid甘特图功能，因为它最不稳定。如果您需要这个功能，我们可以一起努力使其稳定下来。
+这个插件（OG）保留了原始版本的功能和风格，同时与依赖和 API 的变化保持同步。我隐藏了 Mermaid 甘特图功能，因为它最不稳定。如果您需要这个功能，我们可以一起努力使其稳定下来。
+
 这个插件将改变你的笔记。
 
-Day Planner插件通过Markdown笔记中的任务列表管理番茄钟。
+Day Planner 插件通过 Markdown 笔记中的任务列表管理番茄钟。
 
-> 当Day Planner与一个笔记关联，并且启用了“完成过去的计划项目”选项时，Day Planner将更新该笔记的内容。
+> 当 Day Planner 与一个笔记关联，并且启用了“完成过去的计划项目”选项时，Day Planner 将更新该笔记的内容。
 
-如果你在多个具有同步功能的活动设备上启用了该插件（和该设置），可能会出现问题。为了避免这个问题，我通常只在一个设备上（比如我的桌面）启用Day Planner。这个设备更新时间，同步工具负责将更新转发和合并到其他设备。
+如果你在多个具有同步功能的活动设备上启用了该插件（和该设置），可能会出现问题。为了避免这个问题，我通常只在一个设备上（比如我的桌面）启用 Day Planner。这个设备更新时间，同步工具负责将更新转发和合并到其他设备。
 
-**请先在一个测试保险库中尝试该插件，并且最重要的是，请确保你的笔记已经在云存储或Git中备份。**
+**请先在一个测试保险库中尝试该插件，并且最重要的是，请确保你的笔记已经在云存储或 Git 中备份。**
+
 ## 特点
 
 - 每天为您生成一个日程安排，或在您选择的任何笔记中创建一个日程安排。
@@ -61,11 +62,13 @@ Day Planner插件通过Markdown笔记中的任务列表管理番茄钟。
 - 时间线视图以垂直时间线展示您的任务。
 
 ![日程安排演示图片](https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/images/day-planner-note-preview.png)
+
 ## 用法
 
-安装完成后，插件将在您的存储库根目录下创建一个名为“Day Planners”的文件夹。一个以今天日期为文件名格式的笔记将自动创建，格式为`Day Planners/Day Planner-YYYYMMDD.md`。
+安装完成后，插件将在您的存储库根目录下创建一个名为“Day Planners”的文件夹。一个以今天日期为文件名格式的笔记将自动创建，格式为 `Day Planners/Day Planner-YYYYMMDD.md`。
 
-您也可以选择使用[命令模式](#day-planner-mode)，在任何笔记中添加一个当前日期的日程安排。
+您也可以选择使用 [命令模式](#day-planner-mode)，在任何笔记中添加一个当前日期的日程安排。
+
 ### 日程安排备注
 
 在备注中，您可以创建一个带有时间和任务的待办事项清单，这些任务将在一天内自动跟踪。您现在可以在任务之间包含标题和其他内容。以下是一个示例：
@@ -111,25 +114,27 @@ Day Planner插件通过Markdown笔记中的任务列表管理番茄钟。
 - [ ] 18:00 结束
 ```
 
-这也可以作为一个文件提供，文件名为[day-planner-example.md](https://github.com/lynchjames/obsidian-day-planner/blob/main/examples/day-planner-example.md)。
+这也可以作为一个文件提供，文件名为 [day-planner-example.md](https://github.com/lynchjames/obsidian-day-planner/blob/main/examples/day-planner-example.md)。
 
-Day Planner的标题和`---`规则用于标识Day Planner的范围。必须使用一个标题，但可以是`#`、`##`、`###`或`####`。
+Day Planner 的标题和 `---` 规则用于标识 Day Planner 的范围。必须使用一个标题，但可以是 `#`、`##`、`###` 或 `####`。
 
 任务列表项的格式很重要，因为这是用来计算每个任务的时间和任务之间的间隔的。使用的格式应该是：
 
- `- [ ] HH:mm 任务文本` 
- 
- **应使用24小时制。** 
+ `- [ ] HH:mm 任务文本`
+
+
+
+ **应使用 24 小时制。**
 
 现在还支持嵌套的检查列表项或项目，以捕捉定时任务的子任务。定时任务必须位于复选框列表的顶层。
 
-`BREAK`和`END`是定义休息和任务时间跟踪结束的关键字。它们不区分大小写，因此也可以使用`break`和`end`。`BREAK`和`END`关键字都是可配置的，并且可以在Day Planner设置选项卡中自定义。
+`BREAK` 和 `END` 是定义休息和任务时间跟踪结束的关键字。它们不区分大小写，因此也可以使用 `break` 和 `end`。`BREAK` 和 `END` 关键字都是可配置的，并且可以在 Day Planner 设置选项卡中自定义。
 
-在本例中，`END`用作带有时间的项目，以便为最后一个任务，即17:00的"准备明天的会议"，提供准确的时间间隔。
+在本例中，`END` 用作带有时间的项目，以便为最后一个任务，即 17:00 的 " 准备明天的会议 "，提供准确的时间间隔。
 
 笔记将自动更新：过去的任务将被勾选并标记为已完成。
 
-使用上面的示例，在14:30时，笔记将自动更新为：
+使用上面的示例，在 14:30 时，笔记将自动更新为：
 
 ```markdown
 ## 日程安排

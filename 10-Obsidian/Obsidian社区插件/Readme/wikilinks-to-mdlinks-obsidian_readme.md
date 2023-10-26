@@ -1,6 +1,6 @@
 ---
 uid: 2023080322293312
-title: Obsidian 插件：【Readme】Wikilinks to MDLinks
+title: Obsidian 插件：Wikilinks to MDLinks
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将双链和 Markdown 链接互换。
 author: AI

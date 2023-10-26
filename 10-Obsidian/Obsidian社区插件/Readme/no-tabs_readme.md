@@ -1,6 +1,6 @@
 ---
 uid: 2023080322225583
-title: Obsidian 插件：【Readme】No Tabs
+title: Obsidian 插件：No Tabs
 tags: ['obsidian插件', 'readme']
 description: 创建新笔记时替换之前的选项卡。
 author: AI

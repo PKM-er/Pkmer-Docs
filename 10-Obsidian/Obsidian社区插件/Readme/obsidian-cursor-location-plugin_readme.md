@@ -1,6 +1,6 @@
 ---
 uid: 2023080322164916
-title: Obsidian 插件：【Readme】Cursor Location
+title: Obsidian 插件：Cursor Location
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这显示了光标的位置（字符和行号）。
 author: AI

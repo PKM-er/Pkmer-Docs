@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171414
-title: Obsidian 插件：【Readme】Dendron Tree
+title: Obsidian 插件：Dendron Tree
 tags: ['obsidian插件', 'readme']
 description: 为Dendron笔记添加树形结构以进行探索。
 author: AI

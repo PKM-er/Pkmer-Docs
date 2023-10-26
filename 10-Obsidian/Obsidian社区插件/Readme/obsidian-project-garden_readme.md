@@ -1,6 +1,6 @@
 ---
 uid: 2023080322250472
-title: Obsidian 插件：【Readme】Project Garden
+title: Obsidian 插件：Project Garden
 tags: ['obsidian插件', 'readme']
 description: 在一个地方看到你所有的项目
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322153641
-title: Obsidian 插件：【Readme】Canvas Random Note
+title: Obsidian 插件：Canvas Random Note
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: 从你的保险库中添加随机笔记到Obsidian画布上
 author: AI

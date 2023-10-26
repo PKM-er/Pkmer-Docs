@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Todo.txt Codeblocks
 > - 插件作者：Benjamin Nguyen
-> - 插件说明：根据Todo.txt规范，在代码块内管理您的任务。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：根据 Todo.txt 规范，在代码块内管理您的任务。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?todotxt-codeblocks)
 
 ## 概述
 
-根据Todo.txt规范，在代码块内管理您的任务。
-
-
+根据 Todo.txt 规范，在代码块内管理您的任务。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/benjamonnguyen/obsidian-todotxt-codeblocks/master/README.md)
-> 
+>
 
 ---
 
@@ -37,15 +35,18 @@ modified: 20230101000000
 
 下面是 [[todotxt-codeblocks]] 插件的自述翻译
 
-
 # obsidian-todotxt-codeblocks
-## 描述
-基于[Todo.txt规范](https://github.com/todotxt/todo.txt)，这是一个替代mvgrimes的[obsidian-todotxt-plugin](https://github.com/mvgrimes/obsidian-todotxt-plugin)的代码块。
 
-将您的任务添加到一个名为`todotxt`的代码块中，即可开始使用！
+## 描述
+
+基于 [Todo.txt规范](https://github.com/todotxt/todo.txt)，这是一个替代 mvgrimes 的 [obsidian-todotxt-plugin](https://github.com/mvgrimes/obsidian-todotxt-plugin) 的代码块。
+
+将您的任务添加到一个名为 `todotxt` 的代码块中，即可开始使用！
 
 <img src="assets/demo.gif" />
+
 ## 特性
+
 - [x] **排序**（按优先级列出）
   - string[]
     - `proj`（项目）
@@ -71,38 +72,40 @@ modified: 20230101000000
 - [x] 可配置的默认设置
 
 **命令**
+
 - [x] `在焦点列表中创建新任务`
 - [x] `撤销上一个用户操作`
 
 **扩展**
+
   - [x] `due:`（截止日期）
   - [x] `rec:`（重复频率）
 
 **语言行选项**
+
   - [ ] `get:` 查询现有的 Todo.txt 任务并移动到当前代码块
   - [ ] `link:` 将 *.todotxt 文件链接到 todotxt 代码块
   - [ ] `filter:`
+
 ## 扩展功能
+
   - 日期格式
     - \<YYYY-MM-DD>（例如 1996-08-06）
     - \<MM-DD>（例如 08-06）
-    - \<n><[dateUnit]>（例如 1w = 从今天开始的1周）
-      - 计算日期与当前日期相隔n个dateUnit
+    - \<n><[dateUnit]>（例如 1w = 从今天开始的 1 周）
+      - 计算日期与当前日期相隔 n 个 dateUnit
       - dateUnit: d（天），w（周），m（月），y（年），b（工作日）
       - 如果只提供一个数字，则计算**天**（例如 0 = 今天，1 = 明天，7 = 下周）
     - \<dayOfWeek>（例如 M = 下周一）
-      - 计算下一个dayOfWeek的日期
+      - 计算下一个 dayOfWeek 的日期
       - M（周一），Tu（周二），W（周三），Th（周四），F（周五），Sa（周六），Su（周日）
-    - dayOfWeek和dateUnit（除了b）可以组合使用（dayOfWeek必须在前面）
-      - 1w2d = 9天（1 **周** + 2 **天**）
-      - Su5d = 5天后的第一个即将到来的**周日**
-    - 如果`rec:`值以加号为前缀（例如 rec:+1w），则日期是根据原始截止日期而不是完成日期确定的
+    - dayOfWeek 和 dateUnit（除了 b）可以组合使用（dayOfWeek 必须在前面）
+      - 1w2d = 9 天（1 **周** + 2 **天**）
+      - Su5d = 5 天后的第一个即将到来的**周日**
+    - 如果 `rec:` 值以加号为前缀（例如 rec:+1w），则日期是根据原始截止日期而不是完成日期确定的
 捐赠
 如果你喜欢这个插件，随意支持我！
 
-
 致谢
-感谢hieuthi的[joplin-plugin-metis](https://github.com/hieuthi/joplin-plugin-metis)提供的灵感。
 
-
-
+感谢 hieuthi 的 [joplin-plugin-metis](https://github.com/hieuthi/joplin-plugin-metis) 提供的灵感。

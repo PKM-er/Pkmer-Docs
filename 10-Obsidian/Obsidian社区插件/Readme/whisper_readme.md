@@ -1,6 +1,6 @@
 ---
 uid: 2023080322293122
-title: Obsidian 插件：【Readme】Whisper
+title: Obsidian 插件：Whisper
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI Whisper进行语音转文本。
 author: AI

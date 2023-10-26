@@ -1,6 +1,6 @@
 ---
 uid: 2023080322220184
-title: Obsidian 插件：【Readme】Markdown Link Space Encoder
+title: Obsidian 插件：Markdown Link Space Encoder
 tags: ['obsidian插件', 'readme']
 description: 自动将Markdown样式链接中的空格编码为%20的简单插件
 author: AI

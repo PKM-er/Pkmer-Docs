@@ -1,6 +1,6 @@
 ---
 uid: 2023080322164262
-title: Obsidian 插件：【Readme】Cron
+title: Obsidian 插件：Cron
 tags: ['obsidian插件', 'readme']
 description: 简单的CRON /调度程序插件，定期运行用户脚本或Obsidian命令。
 author: AI

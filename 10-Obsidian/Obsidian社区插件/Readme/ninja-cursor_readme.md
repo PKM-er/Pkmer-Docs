@@ -1,6 +1,6 @@
 ---
 uid: 2023080322225348
-title: Obsidian 插件：【Readme】Ninja Cursor
+title: Obsidian 插件：Ninja Cursor
 tags: ['obsidian插件', 'readme']
 description: 提高光标可见性的插件。
 author: AI

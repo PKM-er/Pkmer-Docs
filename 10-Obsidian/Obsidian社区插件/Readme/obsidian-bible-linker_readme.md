@@ -1,6 +1,6 @@
 ---
 uid: 2023080322150835
-title: Obsidian 插件：【Readme】Bible Linker
+title: Obsidian 插件：Bible Linker
 tags: ['obsidian插件', 'readme']
 description: 轻松链接多个圣经经文
 author: AI

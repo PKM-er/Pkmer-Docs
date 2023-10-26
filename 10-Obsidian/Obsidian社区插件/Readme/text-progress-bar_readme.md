@@ -1,6 +1,6 @@
 ---
 uid: 2023080322280739
-title: Obsidian 插件：【Readme】Text Progress Bar
+title: Obsidian 插件：Text Progress Bar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示低保真文本进度条。
 author: AI

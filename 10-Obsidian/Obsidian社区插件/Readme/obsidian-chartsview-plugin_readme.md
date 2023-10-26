@@ -1,6 +1,6 @@
 ---
 uid: 2023080322154178
-title: Obsidian 插件：【Readme】Charts View
+title: Obsidian 插件：Charts View
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: Obsidian中的数据可视化解决方案，支持图表和图形。
 author: AI

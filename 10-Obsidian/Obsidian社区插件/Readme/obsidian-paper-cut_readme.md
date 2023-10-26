@@ -1,6 +1,6 @@
 ---
 uid: 2023080322242789
-title: Obsidian 插件：【Readme】PaperCut
+title: Obsidian 插件：PaperCut
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 以最简单的方式表达一个想法……否则。
 author: AI

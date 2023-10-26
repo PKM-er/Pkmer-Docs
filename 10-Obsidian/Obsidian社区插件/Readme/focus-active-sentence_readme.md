@@ -1,6 +1,6 @@
 ---
 uid: 2023080322183646
-title: Obsidian 插件：【Readme】Focus Active Sentence
+title: Obsidian 插件：Focus Active Sentence
 tags: ['obsidian插件', 'readme']
 description: 突出显示光标当前所停留的句子。
 author: AI

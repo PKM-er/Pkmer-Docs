@@ -1,6 +1,6 @@
 ---
 uid: 2023080322191154
-title: Obsidian 插件：【Readme】Git Url
+title: Obsidian 插件：Git Url
 tags: ['obsidian插件', 'readme']
 description: 这个插件在你的git远程仓库中创建一个指向你文件的URL。
 author: AI

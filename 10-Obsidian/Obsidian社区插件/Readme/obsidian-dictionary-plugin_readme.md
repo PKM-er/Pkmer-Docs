@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171921
-title: Obsidian 插件：【Readme】Dictionary
+title: Obsidian 插件：Dictionary
 tags: ['编辑工具', '翻译', '学习', 'obsidian插件', 'readme']
 description: Obsidian 笔记增加多语言词典。包括英式英语，美式英语，印度语、西班牙语，法语，日语，俄罗斯，德语，意大利，韩语，巴西，阿拉伯，土耳其，中文
 author: AI

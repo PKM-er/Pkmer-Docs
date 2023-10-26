@@ -1,6 +1,6 @@
 ---
 uid: 2023080322172792
-title: Obsidian 插件：【Readme】Doubleshift
+title: Obsidian 插件：Doubleshift
 tags: ['obsidian插件', 'readme']
 description: 按两次Shift（或其他任何键），就像在IntelliJ中一样，打开命令面板，并创建自己的快捷键。
 author: AI
@@ -47,6 +47,6 @@ modified: 20230101000000
 
 它**适用于所有可用的命令**，包括来自其他插件的命令。因此，如果你安装了类似于更好的命令面板插件的插件，你可以在 Doubleshift 设置选项卡中选择打开它的命令。
 
-如果你想为这个插件做贡献，请随时在<https://github.com/Qwyntex/doubleshift 上创建一个拉取请求。>
+如果你想为这个插件做贡献，请随时在<<https://github.com/Qwyntex/doubleshift> 上创建一个拉取请求。>
 
 对于那些想知道为什么特定的插件或命令在命令选择器中没有显示的人，请尝试在社区插件设置选项卡中禁用并重新启用 doubleshift。

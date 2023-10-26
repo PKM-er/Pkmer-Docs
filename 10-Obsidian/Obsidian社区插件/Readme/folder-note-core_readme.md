@@ -1,6 +1,6 @@
 ---
 uid: 2023080322184220
-title: Obsidian 插件：【Readme】Folder Note Core
+title: Obsidian 插件：Folder Note Core
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 提供文件夹笔记的核心功能和API
 author: AI

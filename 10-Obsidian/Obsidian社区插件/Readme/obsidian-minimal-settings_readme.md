@@ -1,6 +1,6 @@
 ---
 uid: 2023080322223744
-title: Obsidian 插件：【Readme】Minimal Theme Settings
+title: Obsidian 插件：Minimal Theme Settings
 tags: ['样式工具', '美化', 'obsidian插件', 'readme']
 description: 为 Minimal 主题中主要样式提供图形化设置界面
 author: AI
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # 概述
 
-该插件是 [[Minimal]]的附属插件，允许您从 Obsidian 设置面板自定义主题。使用 Minimal Theme 不需要该插件，但强烈推荐使用。
+该插件是 [[Minimal]] 的附属插件，允许您从 Obsidian 设置面板自定义主题。使用 Minimal Theme 不需要该插件，但强烈推荐使用。
 
 支持我的插件和主题开发，请关注我的 Twitter 账号 **@kepano** 或者 [给我买杯咖啡](https://www.buymeacoffee.com/kepano)。
 

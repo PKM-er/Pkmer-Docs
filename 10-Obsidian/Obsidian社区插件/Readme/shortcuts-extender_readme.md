@@ -1,6 +1,6 @@
 ---
 uid: 2023080322264643
-title: Obsidian 插件：【Readme】Shortcuts extender
+title: Obsidian 插件：Shortcuts extender
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 使用快捷键输入特殊符号而无需切换语言
 author: AI
