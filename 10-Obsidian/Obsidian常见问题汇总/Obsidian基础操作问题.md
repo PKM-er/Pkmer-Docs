@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231025153509
+modified: 20231027183341
 ---
 
 # Obsidian 基础操作
@@ -140,7 +140,7 @@ Obsidian 的主题问题、css 样式片段 snippets、插件都是隐藏在 `.o
 
 方案 1：可能时因为使用折叠左侧面板，导致收起，可以点击左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png!pkmer)，重新打开左侧面板。
 
-方案 2：可能是无疑种关闭了文件列表。在 Obsidian 设置 - 核心插件 - 文件列表重新开关下，可以解决。
+方案 2：可能是无意中关闭了文件列表。在 Obsidian 设置 - 核心插件 - 文件列表重新开关下，可以解决。
 
 ### Obsidian 多个仓库间可以公用一套配置
 
