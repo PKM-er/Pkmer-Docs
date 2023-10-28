@@ -1,19 +1,13 @@
 ---
 uid: 20230828012827
-title: Dataview 实战：定制你的数据表格并，为 Dataview 表格列添加个性化样式
-tags:
-  - obsidian
-  - dataview
-  - table
-  - 美化
-  - 样式
-  - 个性化
-description: Dataview 实战：定制你的数据表格并，为 Dataview 表格列添加个性化样式
+title: Dataview 实战：定制你的数据表格并为表格列添加个性化样式
+tags: [obsidian, dataview, table, 美化, 样式, 个性化]
+description: Dataview 实战：定制你的数据表格，并为 Dataview 表格列添加个性化样式
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 2023090813421640700
+modified: 20231028230003
 ---
 
 # Dataview 实战：定制你的数据表格并为表格列添加个性化样式
