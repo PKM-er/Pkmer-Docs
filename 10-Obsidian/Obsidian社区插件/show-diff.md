@@ -1,16 +1,16 @@
 ---
-uid: 20230822233837
-title: Obsidian 插件：Show Diff
+uid: 20231028225637
+title: Obsidian 插件：Show Diff 展示文件同步历史对比
 tags: [obsidian插件]
 description: 在Obsidian文件中呈现Git差异
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20231025154926
+modified: 20231028225720
 ---
 
-# Obsidian 插件：Show Diff
+# Obsidian 插件：Show Diff 展示文件同步历史对比
 
 ## 概述
 
@@ -107,7 +107,3 @@ dates:
   to: 2023-04-24
 ```
 ````
-
-
-
-
