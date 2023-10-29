@@ -12,7 +12,7 @@ modified: 20231029202020
 
 # Obsidian 样式 - 悬浮两侧菜单栏
 
-灵感来源于 [Obsidian 样式 - 实现 TiddlyWiki 故事河]( https://pkmer.cn/show/20230904215512 ) 的悬浮侧边栏样式，取消了悬浮展开，单纯的以单击键展开，添加透明度，这样笔记内容不会随着侧边栏的展开而移动，同时配合 [Obsidian 样式：缩减栏宽模式下美化笔记内部背景]( https://pkmer.cn/show/20230815015735 )，来进一步美化空白区。
+灵感来源于 [[Obsidian样式-实现TiddlyWiki故事河]] 的悬浮侧边栏样式，取消了悬浮展开，单纯的以单击键展开，添加透明度，这样笔记内容不会随着侧边栏的展开而移动，同时配合 [[Obsidian样式-缩减栏宽模式下美化笔记内部背景]]，来进一步美化空白区。
 
 > [!tip]+ 效果展示
 > ![Pasted image 20231027132828](https://cdn.pkmer.cn/images/Pasted%20image%2020231027132828.png!pkmer)
