@@ -36,7 +36,7 @@ modified: 20231029201909
 
 ## CSS 片段
 
-```css title:Obsidian缩减栏下的笔记背景
+```css
 /* @settings
 name: 缩减栏框下内部背景
 id: background-under-frame
