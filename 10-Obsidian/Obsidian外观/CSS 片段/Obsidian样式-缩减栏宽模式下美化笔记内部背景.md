@@ -14,97 +14,236 @@ modified: 20230815020803
 
 ## 效果展示
 
-![Pasted image 20230815020258](https://cdn.pkmer.cn/images/202308192319847.png!pkmer)
+![图片33](https://cdn.pkmer.cn/images/%E5%9B%BE%E7%89%8733.png!pkmer)
 
-美化缩减栏宽模式下的笔记区的空白区域的背景，深浅模式下可以设置不同的网络图片，替换 CSS 片段中图片链接就行了。
+## 打开缩减栏宽设置
 
-> [!caution]+ 注意事项
-> 改 CSS 片段可能会遮挡工作区的工具栏部分，可以适当修改 `top: 100px;` 的值来调整；
-> - 在 border 主题下，top 改为 0 就可以了，即 `top: 0;`
-> - 但是在其他主题下，会遮挡工具栏，需要改为 `top: 100px;`
+在设置的编辑器中进行设置：
+
+![Pasted image 20231022150312](https://cdn.pkmer.cn/images/Pasted%20image%2020231022150312.png!pkmer)
+
+可以配合 Editor Width Slider 插件进行调整笔记实际大小的宽度。
+
+## 可以在 Style Setting 插件进行更换壁纸
+
+![Pasted image 20231022151213](https://cdn.pkmer.cn/images/Pasted%20image%2020231022151213.png!pkmer)
+
+由于阅读和编辑模式的css有点不一致，在阅读模式下背景图片可能会遮挡工具栏，这时可通过调整 **阅读模式具体图片的高度** 的大小来进行一定的调整了。
+
+> [!tip]+ 如何制作适合的壁纸
+> 可以在 PPT 中设置图片摆放到两侧，适当修改一下，选择进行对称也行
+> ![Pasted image 20231022150929](https://cdn.pkmer.cn/images/Pasted%20image%2020231022150929.png!pkmer)
 
 ## CSS 片段
 
-```CSS
-/* Obsidian缩减栏下的笔记背景 */
-/* 浅色主题 */
-.theme-light .view-content > .markdown-source-view.mod-cm6::after,
-.theme-light .markdown-preview-view::after {
-	content: "";
-	position: absolute;
-	background-image: url(https://w.wallhaven.cc/full/9m/wallhaven-9mjoy1.png);
-	/* background-repeat: repeat; */
-	/* background-size: contain; */
-  background-size:100% 100%;
+```css title:Obsidian缩减栏下的笔记背景
+/* @settings
+name: 缩减栏框下内部背景
+id: background-under-frame
+settings:
+	-
+		id: light-background-image
+		title: 浅色模式的图片
+		type: variable-text
+		default: url(https://picshack.net/ib/HfNO0TPdTq.png)
+	-
+		id: dark-background-image
+		title: 深色模式的图片
+		type: variable-text
+		default: url(https://picshack.net/ib/fBulilNYZ0.png)
+	-
+		id: top-tool-height
+		title: 阅读模式距离图片的高度
+		type: variable-text
+		default: 38px
+*/
 
-  object-fit: cover;
-  width: 100%;
+body {
+  /* --light-background-image: url(https://picshack.net/ib/WSGWY0jfYM.png); */
+  --light-background-image: url(https://picshack.net/ib/HfNO0TPdTq.png);
+  --dark-background-image: url(https://picshack.net/ib/fBulilNYZ0.png);
+  --top-tool-height: 38px;
+}
+/* bsidian缩减栏下的笔记背景 */
+
+/* 浅色主题 */
+
+.theme-light .view-content > .markdown-source-view.mod-cm6::after {
+  /* 设置背景属性 */
+  content: "";
   position: fixed;
+  background-image: var(--light-background-image);
+  background-position: center center;
+  background-attachment: fixed;
+
+  /* 自动适应背景大小 */
+  background-size: cover;
+
+  /* 不重复背景 */
+  background-repeat: no-repeat;
+  /* 填充颜色 */
+  background-color: var(--background-primary);
+
+  /* 调整壁纸的大小 */
+  height: 100%;
+  width: 100%;
+
+  /* 设置笔记遮挡属性 */
   left: 0;
-  top: 100px;
-  height: 100vh;
-  transform: scale(1.1);
-  filter: blur(0px) contrast(1) saturate(0.5);
-  opacity: 1 !important;
+
+  /* top: var(--mod-top-height); */
+  transform: scale(1);
+
+  /* 调整图片：模糊度、对比度、饱和度、亮度 */
+  filter: blur(0px) contrast(1) saturate(1) brightness(1);
+  opacity: 1;
   z-index: 1;
   pointer-events: none;
-  transition: all 0.7s !important;
+  transition: none;
 
   -webkit-mask: linear-gradient(
     to right,
     var(--background-primary) 0%,
-    var(--background-primary) calc(50% - calc(var(--file-line-width)/2 + 20px)),
-    transparent calc(50% - var(--file-line-width)/2),
-    transparent calc(50% + var(--file-line-width)/2),
-    var(--background-primary) calc(50% + calc(var(--file-line-width)/2 + 20px)),
+    var(--background-primary) calc(47% - calc(var(--file-line-width) / 2)),
+    transparent calc(47% - var(--file-line-width) / 2),
+    transparent calc(53% + var(--file-line-width) / 2),
+    var(--background-primary) calc(53% + calc(var(--file-line-width) / 2)),
     var(--background-primary) 100%
-    );
+  );
+}
+
+.theme-light .markdown-preview-view::after {
+  /* 设置背景属性 */
+  content: "";
+  position: fixed;
+  background-image: var(--light-background-image);
+  background-position: center center;
+  background-attachment: fixed;
+
+  /* 自动适应背景大小 */
+  background-size: cover;
+
+  /* 不重复背景 */
+  background-repeat: no-repeat;
+  /* 填充颜色 */
+  background-color: var(--background-primary);
+
+  /* 调整壁纸的大小 */
+  height: 100%;
+  width: 100%;
+
+  /* 设置笔记遮挡属性 */
+  right: 0;
+  top: var(--top-tool-height);
+
+  /* top: var(--mod-top-height); */
+  transform: scale(1);
+
+  /* 调整图片：模糊度、对比度、饱和度、亮度 */
+  filter: blur(0px) contrast(1) saturate(1) brightness(1);
+  opacity: 1;
+  z-index: 1;
+  pointer-events: none;
+  transition: none;
+
+  -webkit-mask: linear-gradient(
+    to right,
+    var(--background-primary) 0%,
+    var(--background-primary) calc(47% - calc(var(--file-line-width) / 2)),
+    transparent calc(47% - var(--file-line-width) / 2),
+    transparent calc(53% + var(--file-line-width) / 2),
+    var(--background-primary) calc(53% + calc(var(--file-line-width) / 2)),
+    var(--background-primary) 100%
+  );
 }
 
 /* 深色主题 */
-.theme-dark .view-content > .markdown-source-view.mod-cm6::after,
-.theme-dark .markdown-preview-view::after {
-	content: "";
-	position: absolute;
-	background-image: url(https://w.wallhaven.cc/full/j3/wallhaven-j3row5.jpg);
-	/* background-repeat: repeat; */
-	/* background-size: contain; */
-  background-size:100% 100%;
-
-  object-fit: cover;
-  width: 100%;
+.theme-dark .view-content > .markdown-source-view.mod-cm6::after {
+  /* 设置背景属性 */
+  content: "";
   position: fixed;
+  background-image: var(--dark-background-image);
+  background-position: center center;
+  background-attachment: fixed;
+
+  /* 自动适应背景大小 */
+  background-size: cover;
+
+  /* 不重复背景 */
+  background-repeat: no-repeat;
+  /* 填充颜色 */
+  background-color: var(--background-primary);
+
+  /* 调整壁纸的大小 */
+  height: 100%;
+  width: 100%;
+
+  /* 设置笔记遮挡属性 */
   left: 0;
-  top: 100px;
-  height: 100vh;
-  transform: scale(1.1);
-  filter: blur(0px) contrast(1) saturate(0.5);
-  opacity: 1 !important;
+
+  /* top: var(--mod-top-height); */
+  transform: scale(1);
+
+  /* 调整图片：模糊度、对比度、饱和度、亮度 */
+  filter: blur(0px) contrast(1) saturate(1) brightness(1);
+  opacity: 1;
   z-index: 1;
   pointer-events: none;
-  transition: all 0.7s !important;
+  transition: none;
 
   -webkit-mask: linear-gradient(
     to right,
     var(--background-primary) 0%,
-    var(--background-primary) calc(50% - calc(var(--file-line-width)/2 + 20px)),
-    transparent calc(50% - var(--file-line-width)/2),
-    transparent calc(50% + var(--file-line-width)/2),
-    var(--background-primary) calc(50% + calc(var(--file-line-width)/2 + 20px)),
+    var(--background-primary) calc(47% - calc(var(--file-line-width) / 2)),
+    transparent calc(47% - var(--file-line-width) / 2),
+    transparent calc(53% + var(--file-line-width) / 2),
+    var(--background-primary) calc(53% + calc(var(--file-line-width) / 2)),
     var(--background-primary) 100%
-    );
+  );
 }
 
-```
+.theme-dark .markdown-preview-view::after {
+  /* 设置背景属性 */
+  content: "";
+  position: fixed;
+  background-image: var(--dark-background-image);
+  background-position: center center;
+  background-attachment: fixed;
 
-## 拓展 CSS：缩减笔记下方的空白大小
+  /* 自动适应背景大小 */
+  background-size: cover;
 
-```css
-/* 缩减笔记下方空白大小 */
-.workspace-leaf-content[data-type="markdown"] :is(.markdown-preview-view,.markdown-rendered) .markdown-preview-sizer,
-body:not(.plugin-cm-typewriter-scroll) .cm-s-obsidian .cm-content {
-  padding-bottom: 20px !important;
+  /* 不重复背景 */
+  background-repeat: no-repeat;
+  /* 填充颜色 */
+  background-color: var(--background-primary);
+
+  /* 调整壁纸的大小 */
+  height: 100%;
+  width: 100%;
+
+  /* 设置笔记遮挡属性 */
+  left: 0;
+  top: var(--top-tool-height);
+
+  /* top: var(--mod-top-height); */
+  transform: scale(1);
+
+  /* 调整图片：模糊度、对比度、饱和度、亮度 */
+  filter: blur(0px) contrast(1) saturate(1) brightness(1);
+  opacity: 1;
+  z-index: 1;
+  pointer-events: none;
+  transition: none;
+
+  -webkit-mask: linear-gradient(
+    to right,
+    var(--background-primary) 0%,
+    var(--background-primary) calc(47% - calc(var(--file-line-width) / 2)),
+    transparent calc(47% - var(--file-line-width) / 2),
+    transparent calc(53% + var(--file-line-width) / 2),
+    var(--background-primary) calc(53% + calc(var(--file-line-width) / 2)),
+    var(--background-primary) 100%
+  );
 }
 ```
-
-用来减少笔记下方的空白区域的长度。
