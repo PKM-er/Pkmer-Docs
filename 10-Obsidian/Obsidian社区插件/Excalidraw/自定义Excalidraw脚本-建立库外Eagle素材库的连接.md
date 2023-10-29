@@ -97,7 +97,7 @@ for (i of img) {
 
 > [!caution]+ 需要修改的路径
 > ![Pasted image 20231029203630](https://cdn.pkmer.cn/images/Pasted%20image%2020231029203630.png!pkmer)
-> - 第一次安装改脚本时，单击运行一下在 Excalidraw 插件设置中会出现该选项
+> - 第一次安装改脚本时，单击运行脚本一下，然后在 Excalidraw 插件设置中会出现这个选项
 > - 修改为 Obsidian 中存放素材的路径 (已创建的路径)
 > 	- 注意使用 `/` 来转义路径，采用相对路径。
 
