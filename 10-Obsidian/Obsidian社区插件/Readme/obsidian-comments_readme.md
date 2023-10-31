@@ -1,6 +1,6 @@
 ---
 uid: 2023080322161790
-title: Obsidian 插件：【Readme】Comments
+title: Obsidian 插件：Comments
 tags: ['界面相关', '效率', '编辑器', 'obsidian插件', 'readme']
 description: 给 Obsidian 添加注释
 author: AI

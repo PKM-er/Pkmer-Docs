@@ -1,6 +1,6 @@
 ---
 uid: 2023080322232232
-title: Obsidian 插件：【Readme】Obsidian Ghost Publish
+title: Obsidian 插件：Obsidian Ghost Publish
 tags: ['obsidian插件', 'readme']
 description: 一键发布到Ghost站点
 author: AI

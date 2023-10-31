@@ -1,6 +1,6 @@
 ---
 uid: 2023080322173832
-title: Obsidian 插件：【Readme】echarts
+title: Obsidian 插件：echarts
 tags: ['图表生成', '美化', 'obsidian插件', 'readme']
 description: 一个可以在obsidian 里运行echarts 的插件，具体可以参考官方示例库代码。插件需要依赖dataview插件
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322193454
-title: Obsidian 插件：【Readme】HackerOne
+title: Obsidian 插件：HackerOne
 tags: ['obsidian插件', 'readme']
 description: 这是一个HackerOne插件，用于在Obsidian中获取您的漏洞报告。
 author: AI

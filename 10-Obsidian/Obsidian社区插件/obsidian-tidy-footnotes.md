@@ -5,7 +5,7 @@ tags:
   - 文件重构
   - obsidian插件
   - 脚注
-description: 可以将所有注脚都合并到一个地方，也能给注脚重新排序
+description: 可以将所有脚注都合并到一个地方，也能给脚注重新排序
 author: OS
 type: other
 draft: false
@@ -17,12 +17,12 @@ modified: 20230911003951
 
 ## 概述
 
-可以将所有注脚都合并到一个地方，并支持给注脚重新排序
+可以将所有脚注都合并到一个地方，并支持给脚注重新排序
 
 > [!Note] 插件名片
 > - 插件名称：Tidy Footnotes
 > - 插件作者：Charlie Chao
-> - 插件说明：可以将所有注脚都合并到一个地方，也能给注脚重新排序
+> - 插件说明：可以将所有脚注都合并到一个地方，也能给脚注重新排序
 > - 插件分类：[' 文件重构 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/charliecm/obsidian-tidy-footnotes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tidy-footnotes)

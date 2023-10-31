@@ -1,6 +1,6 @@
 ---
 uid: 2023080322205180
-title: Obsidian 插件：【Readme】JSON/CSV Importer
+title: Obsidian 插件：JSON/CSV Importer
 tags: ['obsidian插件', 'readme']
 description: 从一个包含数据数组的JSON文件中导入，使用Handlebars模板文件创建笔记。
 author: AI
@@ -158,7 +158,7 @@ CSV 解码器应该可以自动检测出实际的分隔符，可以是逗号、�
 
 ### 添加自定义的 Handlebars 助手
 
-您可以指定一个可选的 "HELPER" 文件，其中应包含一些包含您额外的 handlebars 助手的 javascript 代码。有关更多信息，请参阅<https://handlebarsjs.com/api-reference/helpers.html>。
+您可以指定一个可选的 "HELPER" 文件，其中应包含一些包含您额外的 handlebars 助手的 javascript 代码。有关更多信息，请参阅<<https://handlebarsjs.com/api-reference/helpers.html>。>
 
 一个示例的 helpers.js 文件如下：
 

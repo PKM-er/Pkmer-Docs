@@ -1,6 +1,6 @@
 ---
 uid: 2023080322235778
-title: Obsidian 插件：【Readme】Obsimian
+title: Obsidian 插件：Obsimian
 tags: ['编程', 'obsidian插件', 'readme']
 description: Obsidian 模拟框架用于测试 Obsidian 插件，并输出插件相关的信息。
 author: AI
@@ -133,7 +133,7 @@ describe("my plugin", () => {
 
 实际上，Obsidian 和 Obsimian 的行为会存在差异。Obsimian 相对较新，而 Obsidian 的发展速度相对较快。
 
-如果您发现这样的差异，请在<https://github.com/motif-software/obsimian/issues 中提交一个 bug 报告。最好包括一些内容和一个 API 调用来展示问题。>
+如果您发现这样的差异，请在<<https://github.com/motif-software/obsimian/issues> 中提交一个 bug 报告。最好包括一些内容和一个 API 调用来展示问题。>
 
 ## 包内容
 

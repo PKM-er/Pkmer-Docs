@@ -1,6 +1,6 @@
 ---
 uid: 2023080322221429
-title: Obsidian 插件：【Readme】Matter
+title: Obsidian 插件：Matter
 tags: ['obsidian插件', 'readme']
 description: 官方事务黑曜石集成。
 author: AI

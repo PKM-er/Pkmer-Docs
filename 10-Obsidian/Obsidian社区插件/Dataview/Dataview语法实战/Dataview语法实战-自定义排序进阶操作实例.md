@@ -1,16 +1,16 @@
 ---
 uid: 20230916145139
-title: Dataview 语法实战：实自定义排序进阶操作实例
+title: Dataview 语法实战：自定义排序进阶操作实例
 tags: []
 description: Dataveiw 自定义排序进阶操作
 author: 
 type: other
 draft: false
 editable: false
-modified: 20230918122523
+modified: 20231028225753
 ---
 
-# Dataview 语法实战：实自定义排序进阶操作实例
+# Dataview 语法实战：自定义排序进阶操作实例
 
 在 [[Dataview语法实战-自定义排序的简单实例]] 中，我们已经实现了自定义排序的功能，但是当自定义的量大的时候，需要嵌套的 `choice()` 函数就会很多。此时我们就需要利用另一个函数 `default()` 和 [[24 - 表达式|lambda 表达式]]
 

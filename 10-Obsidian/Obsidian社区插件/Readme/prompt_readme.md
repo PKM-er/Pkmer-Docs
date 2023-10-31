@@ -1,6 +1,6 @@
 ---
 uid: 2023080322250845
-title: Obsidian 插件：【Readme】Prompt
+title: Obsidian 插件：Prompt
 tags: ['obsidian插件', 'readme']
 description: 从你的保险库中的提示文件中显示鼓舞人心的提示。
 author: AI

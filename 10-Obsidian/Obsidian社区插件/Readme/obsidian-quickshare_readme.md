@@ -1,6 +1,6 @@
 ---
 uid: 2023080322252564
-title: Obsidian 插件：【Readme】QuickShare
+title: Obsidian 插件：QuickShare
 tags: ['obsidian插件', 'readme']
 description: 一键安全共享您的Obsidian笔记。笔记经过端到端加密。无需API密钥或配置。
 author: AI

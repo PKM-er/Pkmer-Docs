@@ -1,6 +1,6 @@
 ---
 uid: 2023080322205396
-title: Obsidian 插件：【Readme】Juggl
+title: Obsidian 插件：Juggl
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 为Obsidian添加一个完全交互式、可样式化和可扩展的图形视图。
 author: AI

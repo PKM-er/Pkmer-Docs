@@ -1,6 +1,6 @@
 ---
 uid: 2023080322261898
-title: Obsidian 插件：【Readme】Sakana Widget
+title: Obsidian 插件：Sakana Widget
 tags: ['obsidian插件', 'readme']
 description: 把Sakana！小部件添加到你自己的Obsidian！
 author: AI
@@ -65,6 +65,6 @@ modified: 20230101000000
 
 # 许可证
 
-根据 MIT 许可证发布，请注意这两个默认图片**不得用于任何商业活动**。该项目曾是基于<https://github.com/itorr/sakana> | <https://github.com/dsrkafuu/sakana-sakanaWidget 进行二次开发。>
+根据 MIT 许可证发布，请注意这两个默认图片**不得用于任何商业活动**。该项目曾是基于<https://github.com/itorr/sakana> | <<https://github.com/dsrkafuu/sakana-sakanaWidget> 进行二次开发。>
 
 图片来源：大伏アオ [@blue00f4](https://twitter.com/blue00f4) [pixiv](https://pixiv.me/aoiroblue1340)

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322174909
-title: Obsidian 插件：【Readme】Emoji Titler
+title: Obsidian 插件：Emoji Titler
 tags: ['obsidian插件', 'readme']
 description: 这个插件是一个表情符号标题工具，可以通过键盘快捷键轻松地在标题中插入表情符号。
 author: AI

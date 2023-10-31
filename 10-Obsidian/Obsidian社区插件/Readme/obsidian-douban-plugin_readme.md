@@ -1,6 +1,6 @@
 ---
 uid: 2023080322172555
-title: Obsidian 插件：【Readme】Douban
+title: Obsidian 插件：Douban
 tags: ['效率', '第三方工具集成', '笔记文件处理', '信息收集', 'obsidian插件', 'readme']
 description: 在Obsidian使用并导入豆瓣中的 电影/书籍/音乐/电视剧/日记/游戏 甚至是 你标记过的书影音 , 包含你的评分/发布日期/演员表等信息.
 author: AI
@@ -59,11 +59,13 @@ modified: 20230101000000
 </p>
 
 在 [Obsidian](https://obsidian.md/) 使用并导入豆瓣中的 _电影/书籍/音乐/电视剧/日记/游戏_ 甚至是 _你标记过的书影音_ , 包含你的评分/发布日期/演员表等信息.
+
 ![background](./doc/background.png)
 
 ---
 
 关于当前的插件如果有任何疑问, 缺少想要的导入内容或者想要什么功能, 欢迎提 issues 或加入到开发当中.
+
 如果觉得喜欢或对您有帮助，欢迎一键三连 - 点亮 ⭐Star
 
 - [异常, 问题 & 新的想法](https://github.com/Wanxp/obsidian-douban/issues)

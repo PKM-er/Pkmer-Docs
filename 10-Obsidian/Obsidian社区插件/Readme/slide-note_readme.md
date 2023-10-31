@@ -1,6 +1,6 @@
 ---
 uid: 2023080322270267
-title: Obsidian 插件：【Readme】Slide Note
+title: Obsidian 插件：Slide Note
 tags: ['obsidian插件', 'readme']
 description: 方便地在PDF课程幻灯片上做笔记 :P
 author: AI

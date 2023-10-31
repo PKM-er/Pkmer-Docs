@@ -7,7 +7,7 @@ author: Huajin
 type: basic
 draft: false
 editable: false
-modified: 20230918130328
+modified: 20231024001709
 ---
 
 # Dataview 社区实践经验
@@ -23,3 +23,4 @@ Dataview 实例包含了....个实例，又按照应用的查询类型，应用�
 - [[Dataview实战-提取并展示笔记脚注]].
 - [[Dataview实战-Obsidian dataview 引用本地图片]].
 - [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]
+- [[Dataview实战-通过Dataview列出标签所在段落内容]]

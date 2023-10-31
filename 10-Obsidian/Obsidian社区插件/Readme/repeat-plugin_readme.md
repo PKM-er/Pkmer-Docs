@@ -1,6 +1,6 @@
 ---
 uid: 2023080322260290
-title: Obsidian 插件：【Readme】Repeat
+title: Obsidian 插件：Repeat
 tags: ['obsidian插件', 'readme']
 description: 使用周期性或间隔重复来复习笔记。
 author: AI

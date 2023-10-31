@@ -1,6 +1,6 @@
 ---
 uid: 2023080322233934
-title: Obsidian 插件：【Readme】Obsidian Query Language
+title: Obsidian 插件：Obsidian Query Language
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: .这个插件允许您在Obsidian中查询笔记并表示数据。
 author: AI
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Obsidian 查询语言
 
-这是 Obsidian 的一个插件（<https://obsidian.md），它允许您在笔记本内查询笔记并收集有关您的存储库的信息。您可以使用代码块编写查询并进行配置，渲染器将在 Markdown 预览中输出结果：>
+这是 Obsidian 的一个插件（<<https://obsidian.md），它允许您在笔记本内查询笔记并收集有关您的存储库的信息。您可以使用代码块编写查询并进行配置，渲染器将在> Markdown 预览中输出结果：>
 
 ![](https://raw.githubusercontent.com/jplattel/obsidian-query-language/main/images/example-oql-screenshot.png)
 

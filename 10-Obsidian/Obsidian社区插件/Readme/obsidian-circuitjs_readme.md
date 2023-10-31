@@ -1,6 +1,6 @@
 ---
 uid: 2023080322231833
-title: Obsidian 插件：【Readme】Obsidian CircuitJS
+title: Obsidian 插件：Obsidian CircuitJS
 tags: ['obsidian插件', 'readme']
 description: 将CircuitJS电路仿真嵌入笔记中
 author: AI

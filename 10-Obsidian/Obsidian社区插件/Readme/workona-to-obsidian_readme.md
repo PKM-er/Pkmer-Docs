@@ -1,6 +1,6 @@
 ---
 uid: 2023080322294511
-title: Obsidian 插件：【Readme】Workona To Obsidian
+title: Obsidian 插件：Workona To Obsidian
 tags: ['obsidian插件', 'readme']
 description: 用于导入 Workona 资源。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322274535
-title: Obsidian 插件：【Readme】Tag Page Preview
+title: Obsidian 插件：Tag Page Preview
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 为每个 标签（#Tag），当在笔记中点击时，会弹出包含此标签的一个文件列表。
 author: AI

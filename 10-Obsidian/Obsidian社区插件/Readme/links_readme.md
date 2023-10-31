@@ -1,6 +1,6 @@
 ---
 uid: 2023080322213596
-title: Obsidian 插件：【Readme】Links
+title: Obsidian 插件：Links
 tags: ['obsidian插件', 'readme']
 description: 操作链接
 author: AI

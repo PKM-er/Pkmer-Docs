@@ -95,8 +95,6 @@ const zotero_library_path = settings["Zotero Libarary Path"].value;
 // 设置相对路径
 const relativePath = settings["Zotero Images Path"].value;
 
-
-
 // let api = ea.getExcalidrawAPI();
 let el = ea.targetView.containerEl.querySelectorAll(".excalidraw-wrapper")[0];
 
@@ -114,6 +112,7 @@ el.ondrop = async function (event) {
 
     // 设定一些样式
     ea.style.strokeStyle = "solid";
+    
     let zotero_color = match_zotero_color(insert_txt);
     // alert(zotero_color);
 
@@ -183,6 +182,7 @@ el.ondrop = async function (event) {
 
             // 复制zotero的图片到Obsidian的笔记库
             fs.copyFileSync(zotero_image_path, Obsidian_image_Path);
+
             await new Promise((resolve) => setTimeout(resolve, 200)); // 暂停0.2秒，等待复制文件的过程
 
             let id = await ea.addImage(0, 0, zotero_image_name);
@@ -273,6 +273,7 @@ function match_zotero_image(text) {
 <p>{{color}} {{highlight}} {{citation}} {{comment}}</p>
 ```
 
+
 > [!caution]+ 不要随意修改 NoteTemplate
 > 因为该脚本是通过文本正则匹配的，所以当你修改了高亮的模板时，这个脚本可能会失效，如果你想匹配自己的模板，可以自行修改匹配条件。
 
@@ -284,6 +285,7 @@ function match_zotero_image(text) {
 > [!tip]+ 禁用卡片文字弹窗
 > 如果你不需要设定颜色，可以 ESC，或者注释掉这个弹窗的代码。
 > ![Pasted image 20231017233512](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233512.png!pkmer)
+
 > 注释掉这一行：
 >
 > ```

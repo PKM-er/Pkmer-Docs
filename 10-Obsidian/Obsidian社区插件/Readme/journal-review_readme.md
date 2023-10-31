@@ -1,6 +1,6 @@
 ---
 uid: 2023080322204851
-title: Obsidian 插件：【Readme】Journal Review
+title: Obsidian 插件：Journal Review
 tags: ['obsidian插件', 'readme']
 description: 回顾你每天的笔记，比如“去年的今天发生了什么”。
 author: AI

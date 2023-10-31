@@ -1,6 +1,6 @@
 ---
 uid: 2023080322291201
-title: Obsidian 插件：【Readme】Vault Statistics
+title: Obsidian 插件：Vault Statistics
 tags: ['统计', '状态栏', 'obsidian插件', 'readme']
 description: 为整个仓库添加状态栏，并显示统计信息，如笔记数量、文件数量、附件数量和链接数量等等。
 author: AI

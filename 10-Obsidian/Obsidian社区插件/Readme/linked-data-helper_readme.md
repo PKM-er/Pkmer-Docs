@@ -1,6 +1,6 @@
 ---
 uid: 2023080322213336
-title: Obsidian 插件：【Readme】Linked Data Helper
+title: Obsidian 插件：Linked Data Helper
 tags: ['obsidian插件', 'readme']
 description: 准备Linked Data词汇所需的数据。
 author: AI
@@ -59,4 +59,4 @@ modified: 20230101000000
 
 ## 鸣谢
 
-该插件使用了 'split2' npm 包 (<https://www.npmjs.com/package/split2)。它在> 'ISC 许可证 ' 下获得许可。许可证可以在 [这里](https://github.com/kometenstaub/linked-data-helper/blob/main/esbuild.js) 找到。
+该插件使用了 'split2' npm 包 (<<https://www.npmjs.com/package/split2>)。它在> 'ISC 许可证 ' 下获得许可。许可证可以在 [这里](https://github.com/kometenstaub/linked-data-helper/blob/main/esbuild.js) 找到。

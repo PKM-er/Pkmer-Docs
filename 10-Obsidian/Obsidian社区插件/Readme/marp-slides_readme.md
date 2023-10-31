@@ -1,6 +1,6 @@
 ---
 uid: 2023080322220923
-title: Obsidian 插件：【Readme】Marp Slides
+title: Obsidian 插件：Marp Slides
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中创建Marp演示文稿。
 author: AI

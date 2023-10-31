@@ -1,6 +1,6 @@
 ---
 uid: 2023080322240496
-title: Obsidian 插件：【Readme】Open File by Magic Date
+title: Obsidian 插件：Open File by Magic Date
 tags: ['obsidian插件', 'readme']
 description: 为你最重要的文件（例如：每日/每周/每月笔记）定义一个热键和Moment.js模式。
 author: AI

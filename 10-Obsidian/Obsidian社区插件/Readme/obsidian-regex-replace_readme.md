@@ -1,6 +1,6 @@
 ---
 uid: 2023080322255048
-title: Obsidian 插件：【Readme】Regex Find and Replace
+title: Obsidian 插件：Regex Find and Replace
 tags: ['obsidian插件', 'readme']
 description: 提供一个可选择支持正则表达式和范围（全文或文本选择）的查找/替换对话框。
 author: AI

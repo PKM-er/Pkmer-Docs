@@ -1,6 +1,6 @@
 ---
 uid: 2023080322230768
-title: Obsidian 插件：【Readme】Nuke Orphans
+title: Obsidian 插件：Nuke Orphans
 tags: ['obsidian插件', 'readme']
 description: 清理孤立文件和附件的插件
 author: AI

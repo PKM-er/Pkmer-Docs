@@ -1,6 +1,6 @@
 ---
 uid: 2023080322194824
-title: Obsidian 插件：【Readme】Home tab
+title: Obsidian 插件：Home tab
 tags: ['obsidian插件', 'readme']
 description: 一个类似浏览器的搜索标签，用于搜索您的本地文件。
 author: AI

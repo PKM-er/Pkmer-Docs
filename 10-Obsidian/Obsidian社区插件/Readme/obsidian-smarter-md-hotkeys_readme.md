@@ -1,6 +1,6 @@
 ---
 uid: 2023080322270887
-title: Obsidian 插件：【Readme】Smarter Markdown Hotkeys
+title: Obsidian 插件：Smarter Markdown Hotkeys
 tags: ['obsidian插件', 'readme']
 description: 智能选择单词和行的快捷键，在应用标记之前支持多个光标。
 author: AI

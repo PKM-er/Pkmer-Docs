@@ -1,6 +1,6 @@
 ---
 uid: 2023080322292722
-title: Obsidian 插件：【Readme】Webpage HTML Export
+title: Obsidian 插件：Webpage HTML Export
 tags: ['obsidian插件', 'readme']
 description: 将文档、文件夹或库导出成 HTML 文件，有黑白主题以及大纲目录。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322185162
-title: Obsidian 插件：【Readme】Front Matter Title
+title: Obsidian 插件：Front Matter Title
 tags: ['obsidian插件', 'readme']
 description: 允许您在前面的事情中定义一个标题，以显示为文件名
 author: AI

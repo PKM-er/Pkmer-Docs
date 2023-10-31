@@ -1,6 +1,6 @@
 ---
 uid: 2023080322211728
-title: Obsidian 插件：【Readme】Latex Matrices
+title: Obsidian 插件：Latex Matrices
 tags: ['obsidian插件', 'readme']
 description: 加快LaTeX矩阵的编写速度。
 author: AI

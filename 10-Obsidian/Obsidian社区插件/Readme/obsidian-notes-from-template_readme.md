@@ -1,6 +1,6 @@
 ---
 uid: 2023080322185069
-title: Obsidian 插件：【Readme】From Template
+title: Obsidian 插件：From Template
 tags: ['obsidian插件', 'readme']
 description: 从模板创建新笔记 - 为每个模板提供一个触发它的命令，以及一个填写模板中任何变量的表单。
 author: AI

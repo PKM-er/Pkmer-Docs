@@ -1,6 +1,6 @@
 ---
 uid: 2023080322160961
-title: Obsidian 插件：【Readme】CodeMirror Options
+title: Obsidian 插件：CodeMirror Options
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 增强 Obsidian 的桌面编辑模式，添加诸如 WYSIWYG/实时预览、语法高亮等功能。
 author: AI
@@ -142,7 +142,9 @@ Obsidian 开发人员最近向内部人员发布了“实时预览”模式。�
 
 - 内联 Mathjax 渲染
   - 在 $ $ 或 $$ $$
+
 内的 Mathjax 现在可以直接在编辑模式下渲染。点击渲染的元素以进行编辑
+
   - 渲染由内置的 Obsidian Mathjax 渲染器完成，并具有相同的功能和设置
 - Mathjax 预览
   - 在编辑 Mathjax 元素时，会出现一个可拖动的预览模态框，显示渲染后的 Mathjax 的样式。

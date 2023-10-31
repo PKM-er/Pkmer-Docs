@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231013233650
+modified: 20231027183341
 ---
 
 # Obsidian 基础操作
@@ -140,7 +140,7 @@ Obsidian 的主题问题、css 样式片段 snippets、插件都是隐藏在 `.o
 
 方案 1：可能时因为使用折叠左侧面板，导致收起，可以点击左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png!pkmer)，重新打开左侧面板。
 
-方案 2：可能是无疑种关闭了文件列表。在 Obsidian 设置 - 核心插件 - 文件列表重新开关下，可以解决。
+方案 2：可能是无意中关闭了文件列表。在 Obsidian 设置 - 核心插件 - 文件列表重新开关下，可以解决。
 
 ### Obsidian 多个仓库间可以公用一套配置
 
@@ -188,8 +188,8 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 		1. 在正文的第一行使用 # （1 级标题语法）来书写正文（文件）标题
 		- 这种方法比较符合常规的文档书写规范
 		- 后续导出或者流转时候，脱离 Obsidian 环境，也可以保证全文的可读性
-	- 使用业内标题
-		- 在 Obsidian 设置 -> 外观 -> 显示业内标题（Show inline title）
+	- 使用页内标题
+		- 在 Obsidian 设置 -> 外观 -> 显示页内标题（Show inline title）
 		- 打开对应开关即可
 
 ### Obsidian 如何开启或关闭大纲/有序列表的缩进线
@@ -665,6 +665,19 @@ Obsidian 中实现标题自动编号，像 Word 一样，而不是我一个个�
 	- 重复上一步操作直到找到有问题的插件，或插件全部打开但图谱依旧正常。
 3. 可以参考 [这里](https://forum.obsidian.md/t/graph-view-lines-disapeared/6201/9)
 	- 简要说：在设置 中 关闭 硬件加速。
+
+### 恢复和备份
+
+#### 不小心把笔记删了，怎么恢复
+
+- 删除了具体笔记中的内容，请使用 Obsidian 核心插件 - >文件恢复，通过快照浏览来找回记录
+	- [[obsidian-version-history-diff]]
+
+![image.png](https://cdn.pkmer.cn/images/20231025153311.png!pkmer)
+
+- 误删除了笔记文件
+	- 可以通过在回收站，或者你指定的 Obsidian 回收站（.trash）中找到
+	- 当然你也可以使用我们介绍过的插件强化这个功能 [[obsidian-trash-explorer]]
 
 ## 移动端
 

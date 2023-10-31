@@ -1,6 +1,6 @@
 ---
 uid: 2023080322195932
-title: Obsidian 插件：【Readme】HTML Tags Autocomplete
+title: Obsidian 插件：HTML Tags Autocomplete
 tags: ['编程', '编辑工具', '效率', 'obsidian插件', 'readme']
 description: 自动添加结束 HTML 标签。
 author: AI

@@ -21,7 +21,7 @@ modified: 20230914150425
 > - 插件作者：Alexandru Dinu
 > - 插件说明：提供搜索 Obsidian 设置和插件设置选项的能力
 > - 插件分类：[' 表格 ', ' 搜索/排序 ', 'obsidian 插件 ']
-> - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
+> - 插件项目地址：[点我跳转](https://github.com/alexandru-dinu/obsidian-sortable)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-sortable)
 
 ## 效果&特性
@@ -37,8 +37,7 @@ modified: 20230914150425
 - 第一次点击：升序
 - 第二次点击：降序
 - 第三次点击：恢复默认顺序
-- 插件本身不包含任何设置项。
-
+- 插件本身不包含任何设置项
 ### 支持排序的数据类型
 
 - 数字、字符串、ISO 日期

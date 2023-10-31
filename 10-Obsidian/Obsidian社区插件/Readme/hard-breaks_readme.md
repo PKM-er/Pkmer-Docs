@@ -1,6 +1,6 @@
 ---
 uid: 2023080322193651
-title: Obsidian 插件：【Readme】Hard Breaks
+title: Obsidian 插件：Hard Breaks
 tags: ['obsidian插件', 'readme']
 description: 将Markdown中的软换行转换为硬换行
 author: AI

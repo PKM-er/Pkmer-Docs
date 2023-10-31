@@ -1,6 +1,6 @@
 ---
 uid: 2023080322275753
-title: Obsidian 插件：【Readme】Telegraph Publish
+title: Obsidian 插件：Telegraph Publish
 tags: ['obsidian插件', 'readme']
 description: 将你的Obsidian笔记发布到Telegraph页面上。
 author: AI

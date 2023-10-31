@@ -1,6 +1,6 @@
 ---
 uid: 2023080322135556
-title: Obsidian 插件：【Readme】AI Notes Summary
+title: Obsidian 插件：AI Notes Summary
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI生成对参考笔记的摘要。
 author: AI

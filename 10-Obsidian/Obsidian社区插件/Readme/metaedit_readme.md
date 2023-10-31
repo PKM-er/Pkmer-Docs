@@ -1,6 +1,6 @@
 ---
 uid: 2023080322223017
-title: Obsidian 插件：【Readme】MetaEdit
+title: Obsidian 插件：MetaEdit
 tags: ['编辑工具', '效率', 'obsidian插件', 'readme']
 description: 帮你快捷管理 meta信息，你可以为meta 信息项设置可选项。
 author: AI

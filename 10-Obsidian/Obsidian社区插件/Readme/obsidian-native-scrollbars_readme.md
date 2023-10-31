@@ -1,6 +1,6 @@
 ---
 uid: 2023080322224594
-title: Obsidian 插件：【Readme】Native Scrollbars
+title: Obsidian 插件：Native Scrollbars
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中启用本机操作系统滚动条
 author: AI

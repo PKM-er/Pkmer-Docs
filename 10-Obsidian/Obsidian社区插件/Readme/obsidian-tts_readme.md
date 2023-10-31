@@ -1,6 +1,6 @@
 ---
 uid: 2023080322280914
-title: Obsidian 插件：【Readme】Text to Speech
+title: Obsidian 插件：Text to Speech
 tags: ['效率', '第三方工具集成', '转换工具', 'obsidian插件', 'readme']
 description: Obsidian 的语音合成功能。听取您的笔记。
 author: AI

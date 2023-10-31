@@ -1,6 +1,6 @@
 ---
 uid: 2023080322221181
-title: Obsidian 插件：【Readme】MathLinks
+title: Obsidian 插件：MathLinks
 tags: ['obsidian插件', 'readme']
 description: 在你的链接中渲染MathJax
 author: AI

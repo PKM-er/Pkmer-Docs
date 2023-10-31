@@ -1,6 +1,6 @@
 ---
 uid: 2023080322261122
-title: Obsidian 插件：【Readme】Rofi Helper
+title: Obsidian 插件：Rofi Helper
 tags: ['obsidian插件', 'readme']
 description: 为了在Rofi中在打开的黑曜石标签之间切换，将叶子ID参数添加到URI协议中。包含了一个示例的Rofi脚本。
 author: AI

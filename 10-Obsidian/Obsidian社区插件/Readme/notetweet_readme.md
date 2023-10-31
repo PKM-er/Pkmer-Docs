@@ -1,6 +1,6 @@
 ---
 uid: 2023080322230522
-title: Obsidian 插件：【Readme】NoteTweet
+title: Obsidian 插件：NoteTweet
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 从Obsidian发布推文。
 author: AI
@@ -79,7 +79,7 @@ modified: 20230101000000
 
 #### 设置
 
-1. 打开<https://apps.twitter.com/app/new 并创建一个新的应用程序。确保它是读取 + 写入的（否则无法发推文）。>
+1. 打开<<https://apps.twitter.com/app/new> 并创建一个新的应用程序。确保它是读取 + 写入的（否则无法发推文）。>
 2. 获取您的 API 密钥和密钥以及访问令牌和密钥。
 3. 将它们粘贴到插件设置中。
 

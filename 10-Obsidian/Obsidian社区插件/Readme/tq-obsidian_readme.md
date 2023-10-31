@@ -1,6 +1,6 @@
 ---
 uid: 2023080322284029
-title: Obsidian 插件：【Readme】tq
+title: Obsidian 插件：tq
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 基于文件的任务管理
 author: AI

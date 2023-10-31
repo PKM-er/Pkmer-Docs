@@ -1,6 +1,6 @@
 ---
 uid: 2023080322223421
-title: Obsidian 插件：【Readme】Min Width
+title: Obsidian 插件：Min Width
 tags: ['obsidian插件', 'readme']
 description: 设置活动窗格的最小宽度。
 author: AI

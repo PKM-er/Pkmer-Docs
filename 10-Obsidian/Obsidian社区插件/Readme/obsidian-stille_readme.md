@@ -1,6 +1,6 @@
 ---
 uid: 2023080322272599
-title: Obsidian 插件：【Readme】Stille
+title: Obsidian 插件：Stille
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 集中精力一次写一个部分。
 author: AI

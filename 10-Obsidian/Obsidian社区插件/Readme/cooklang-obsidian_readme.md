@@ -1,6 +1,6 @@
 ---
 uid: 2023080322163231
-title: Obsidian 插件：【Readme】CookLang Editor
+title: Obsidian 插件：CookLang Editor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中编辑和显示CookLang食谱
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322195282
-title: Obsidian 插件：【Readme】Hotkeys for specific files
+title: Obsidian 插件：Hotkeys for specific files
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 为特定的文件设置热键，只需要您的键盘就可以打开它们。
 author: AI

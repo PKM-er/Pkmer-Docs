@@ -1,6 +1,6 @@
 ---
 uid: 2023080322195749
-title: Obsidian 插件：【Readme】HTML Reader
+title: Obsidian 插件：HTML Reader
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的HTML文件阅读器插件。可以打开.html和.htm文件扩展名的文档。
 author: AI
@@ -37,7 +37,7 @@ modified: 20230101000000
 
 # Obsidian HTML 阅读器插件
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件。可以打开以 `.html` 和 `.htm` 文件扩展名结尾的文档。>
+这是一个为 Obsidian（<<https://obsidian.md）开发的插件。可以打开以> `.html` 和 `.htm` 文件扩展名结尾的文档。>
 
 - [如何使用](#how-to-use)
 - [从Obsidian安装此插件](#install-this-plugin-from-obsidian)
@@ -118,7 +118,6 @@ modified: 20230101000000
     - <ins>删除或将打开错误的文件移动到回收站。否则，Obsidian 在重新启动后仍会打开它</ins>。
     - 返回到此设置页面，切换到另一个操作模式。
 
-
     有时您仍然无法看到想要的内容，那么您应该检查 HTML 文件的内容。此模式只是保留内容（仅<ins>调整外部链接锚标签，使其在默认浏览器窗口中打开</ins>），但文件可能具有一些自包含的安全保护机制（例如 CSP），它们会阻止某些内容以避免 XSS 攻击。如果您在 HTML 文件中找到类似 `<meta http-equiv="Content-Security-Policy" />` 的内容，这意味着该文件受到 CSP 机制的保护。您可以：
 
     - 手动修改或删除 CSP `<meta>` 标签。
@@ -127,7 +126,6 @@ modified: 20230101000000
 </details>
 <details>
 <summary><h5>术语解释</h5></summary>
-
 
 本节将尝试更详细地解释操作模式中使用的一些术语。您可以忽略一些非粗体字体的术语（它们是技术术语）。
 

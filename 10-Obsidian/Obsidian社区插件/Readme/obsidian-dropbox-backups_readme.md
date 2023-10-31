@@ -1,6 +1,6 @@
 ---
 uid: 2023080322142394
-title: Obsidian 插件：【Readme】Aut-O-Backups
+title: Obsidian 插件：Aut-O-Backups
 tags: ['备份', 'obsidian插件', 'readme']
 description: 自动备份您整个保险库到Dropbox。
 author: AI

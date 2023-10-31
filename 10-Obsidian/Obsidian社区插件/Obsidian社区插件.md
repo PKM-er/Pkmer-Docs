@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231012005924
+modified: 20231029224859
 ---
 
 # Obsidian 社区插件
@@ -124,6 +124,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
 - [[awesome-image]]：提供笔记中查看图片的基本操作
 - [[Copy-Image-and-URL-context-menu]]：为图片增加右键菜单，并提供了一些新功能，包括复制图像，复制网址等。
+- [[obsidian-image-captions]]：给图片增加说明题注，更新，功能更多
 - [[obsidian-image-caption]]：给图片增加说明题注
 - [[obsidian-local-images-plus]]：将你粘贴的网络图片，自定下载到本地并插入到你粘贴的位置
 - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
@@ -203,9 +204,9 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 脚注&引用
 
-- [[better-fn]]：为 Obsidian 注脚增加悬浮展示功能，鼠标指向后，注脚的解释会出现在对应位置
+- [[better-fn]]：为 Obsidian 脚注增加悬浮展示功能，鼠标指向后，脚注的解释会出现在对应位置
 - [[obsidian-footnotes]]：方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
-- [[obsidian-tidy-footnotes]]：可以将所有注脚都合并到一个地方，也能给注脚重新排序
+- [[obsidian-tidy-footnotes]]：可以将所有脚注都合并到一个地方，也能给脚注重新排序
 
 ### 链接类
 
@@ -276,6 +277,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 在 Obsidian 中，您可以使用多种绘图工具，例如 Excalidraw 和 mermaid，来完成流程图、UML 图等专业图表的绘制，以辅助表达您的笔记内容。
 
 - [[obsidian-excalidraw-plugin]]：在 Obsidian 中 使用 Excalidraw 绘图
+	- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
 	- [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
 	- [[Excalidraw局部嵌入Obsidian]]
 - [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
@@ -301,6 +303,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
 - [[easy-toggle-sidebars_readme]]：便捷的控制侧边栏
 - [[obsidian-sidebar-toggler]]：Obsidian 侧边栏的更精细的控制。用于外部窗口管理器。
+- [[obsidian-opener]]：提升打开标签页的体验
 
 ### Property&Front-matter
 
@@ -370,6 +373,11 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
 - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
 - [[obsidian-chat-view-qq]]：chat-view-qq 保存 QQ 消息到 Obsidian 中
+
+### 恢复&备份
+
+- [[show-diff]]：在 Obsidian 文件中呈现 Git 差异
+- [[obsidian-version-history-diff]]：比较同步和文件恢复插件以及当前文件的 Git 版本历史。添加一个命令来打开同步插件的版本历史。
 
 ### 文件管理/文件夹管理
 

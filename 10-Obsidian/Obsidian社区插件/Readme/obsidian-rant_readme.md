@@ -1,6 +1,6 @@
 ---
 uid: 2023080322253442
-title: Obsidian 插件：【Readme】Rant-Lang
+title: Obsidian 插件：Rant-Lang
 tags: ['obsidian插件', 'readme']
 description: Rant是一个高级过程模板语言的薄包装。
 author: AI

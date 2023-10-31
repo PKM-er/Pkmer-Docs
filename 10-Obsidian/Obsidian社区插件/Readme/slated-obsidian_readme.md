@@ -1,6 +1,6 @@
 ---
 uid: 2023080322270173
-title: Obsidian 插件：【Readme】Slated
+title: Obsidian 插件：Slated
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 为 Obsidian 提供高级任务管理能力。此插件已经不再维护。
 author: AI
@@ -109,4 +109,4 @@ modified: 20230101000000
 
 非常感谢 [Liam Cain](https://github.com/liamcain) 对 [Obsidian Calendar
 
-Plugin](https://github.com/liamcain/obsidian-calendar-plugin) 的改进，使其能够被其他插件广泛使用！
+Plugin](<https://github.com/liamcain/obsidian-calendar-plugin>) 的改进，使其能够被其他插件广泛使用！

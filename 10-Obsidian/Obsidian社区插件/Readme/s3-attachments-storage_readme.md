@@ -1,6 +1,6 @@
 ---
 uid: 2023080322261661
-title: Obsidian 插件：【Readme】S3 attachments storage
+title: Obsidian 插件：S3 attachments storage
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，用于在S3兼容服务上存储和检索媒体附件。
 author: AI

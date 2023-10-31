@@ -1,6 +1,6 @@
 ---
 uid: 2023080322245332
-title: Obsidian 插件：【Readme】Plugin Update Tracker
+title: Obsidian 插件：Plugin Update Tracker
 tags: ['obsidian插件', 'readme']
 description: 了解安装的插件有更新时，并评估升级的风险。
 author: AI
@@ -108,7 +108,7 @@ modified: 20230101000000
 
 等待几天后再显示更新
 
-点击*Code Changes*将会带您到一个类似于<https://github.com/blacksmithgu/obsidian-dataview/compare/0.5.43...0.5.46#files_bucket 的页面。>
+点击*Code Changes*将会带您到一个类似于<<https://github.com/blacksmithgu/obsidian-dataview/compare/0.5.43...0.5.46#files_bucket> 的页面。>
 
 <sub>⚠️ git diff 中的代码可能与已安装的代码不同。Obsidian 会从 GitHub 发布中下载一个单独的 `main.js` 文件，作者可以在其中添加任何代码。</sub>
 

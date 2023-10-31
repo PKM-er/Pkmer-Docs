@@ -1,6 +1,6 @@
 ---
 uid: 2023080322140136
-title: Obsidian 插件：【Readme】AnkiBridge
+title: Obsidian 插件：AnkiBridge
 tags: ['obsidian插件', 'readme']
 description: .又一个Anki桥梁。专注于严格的语法和数据的完整性。
 author: AI

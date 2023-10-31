@@ -1,6 +1,6 @@
 ---
 uid: 2023080322294812
-title: Obsidian 插件：【Readme】Writing
+title: Obsidian 插件：Writing
 tags: ['编辑器', '效率', '美化', 'obsidian插件', 'readme']
 description: 直接在 Obsidian 上写作，并生成书籍预览效果。你可以通过该插件，自动生成章节，内容和预览。
 author: AI

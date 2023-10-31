@@ -1,6 +1,6 @@
 ---
 uid: 2023080322205075
-title: Obsidian 插件：【Readme】Journey
+title: Obsidian 插件：Journey
 tags: ['文件历史', '笔记文件处理', 'obsidian插件', 'readme']
 description: 发现你的笔记之间的故事
 author: AI
@@ -137,7 +137,7 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 
 如何提交问题
 
-🐞 如果您遇到技术问题或错误，请在<https://github.com/akaalias/obsidian-journey-plugin/issues 上提交 Github 问题。>
+🐞 如果您遇到技术问题或错误，请在<<https://github.com/akaalias/obsidian-journey-plugin/issues> 上提交 Github 问题。>
 
 [![](https://github.com/akaalias/obsidian-journey-plugin/raw/master/issues.png?raw=true)](https://github.com/akaalias/obsidian-journey-plugin/issues)
 

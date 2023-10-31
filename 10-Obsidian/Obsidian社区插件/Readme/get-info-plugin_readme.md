@@ -1,6 +1,6 @@
 ---
 uid: 2023080322190761
-title: Obsidian 插件：【Readme】Get Info
+title: Obsidian 插件：Get Info
 tags: ['界面相关', '文件管理', '统计', 'obsidian插件', 'readme']
 description: 在状态栏中包含一个菜单，并显示您所选文件的有用信息。
 author: AI

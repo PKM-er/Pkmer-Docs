@@ -1,6 +1,6 @@
 ---
 uid: 2023080322265485
-title: Obsidian 插件：【Readme】Simple Dice Roller
+title: Obsidian 插件：Simple Dice Roller
 tags: ['obsidian插件', 'readme']
 description: 一个即插即用的解决方案，可以让你平均和模拟骰子公式。
 author: AI

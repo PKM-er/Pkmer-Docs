@@ -1,6 +1,6 @@
 ---
 uid: 2023080322275918
-title: Obsidian 插件：【Readme】Temple
+title: Obsidian 插件：Temple
 tags: ['模板', 'obsidian插件', 'readme']
 description: Obsidian插件，由Nunjucks驱动的模板。
 author: AI

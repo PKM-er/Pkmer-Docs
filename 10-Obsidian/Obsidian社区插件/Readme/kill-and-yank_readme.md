@@ -1,6 +1,6 @@
 ---
 uid: 2023080322210384
-title: Obsidian 插件：【Readme】Kill and Yank
+title: Obsidian 插件：Kill and Yank
 tags: ['obsidian插件', 'readme']
 description: 在编辑器中启用杀死和抢夺（如Emacs）
 author: AI

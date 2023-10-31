@@ -1,6 +1,6 @@
 ---
 uid: 2023080322212241
-title: Obsidian 插件：【Readme】Limelight
+title: Obsidian 插件：Limelight
 tags: ['obsidian插件', 'readme']
 description: 突出显示活动窗格
 author: AI

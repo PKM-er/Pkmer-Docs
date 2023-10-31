@@ -1,6 +1,6 @@
 ---
 uid: 2023080322163490
-title: Obsidian 插件：【Readme】Copy as LaTeX
+title: Obsidian 插件：Copy as LaTeX
 tags: ['obsidian插件', 'readme']
 description: 快速将Markdown复制为Latex，带有引文的插件
 author: AI
@@ -93,7 +93,7 @@ modified: 20230101000000
 
 ## 特性
 
-这依赖于<https://github.com/syntax-tree/mdast-util-from-markdown 和 https://github.com/syntax-tree/mdast-util-gfm 进行解析。这并不完全符合 Obsidian 的功能集，但大多数关键功能都在其中。>
+这依赖于<<https://github.com/syntax-tree/mdast-util-from-markdown> 和 <https://github.com/syntax-tree/mdast-util-gfm> 进行解析。这并不完全符合 Obsidian 的功能集，但大多数关键功能都在其中。>
 
 文本特性：
 
@@ -123,7 +123,7 @@ modified: 20230101000000
 
 ## 引用
 
-引用很快变得复杂 - 参见此处的讨论：<https://github.com/mo-seph/obsidian-copy-as-latex/issues/4。为了在 Obsidian 和 Latex 之间找到一种适应方式，扩展引用解析部分解析括号以获取引用周围的信息。例如，`here is a (e.g. [[@example]] p.22)` 将给出一个引用，其中 `e.g.` 是 `pre` 部分，`p.22` 是 `post` 部分。然后根据这些部分的存在与否，有一系列模板：`bare` 表示两者都没有，`pre`、`post`、`surrounded` 表示其中之一或两者都有，而 `paren` 表示当 pre 和 post 都存在但都为空时，例如 `([[@ref]])`。这意味着可以设置不同的点，例如 `\citep` 与 `\citet`，例如：>
+引用很快变得复杂 - 参见此处的讨论：<<https://github.com/mo-seph/obsidian-copy-as-latex/issues/4。为了在> Obsidian 和 Latex 之间找到一种适应方式，扩展引用解析部分解析括号以获取引用周围的信息。例如，`here is a (e.g. [[@example]] p.22)` 将给出一个引用，其中 `e.g.` 是 `pre` 部分，`p.22` 是 `post` 部分。然后根据这些部分的存在与否，有一系列模板：`bare` 表示两者都没有，`pre`、`post`、`surrounded` 表示其中之一或两者都有，而 `paren` 表示当 pre 和 post 都存在但都为空时，例如 `([[@ref]])`。这意味着可以设置不同的点，例如 `\citep` 与 `\citet`，例如：>
 
 ```
 "bare" : "\\citep{#id}",

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322265749
-title: Obsidian 插件：【Readme】Simple note quiz
+title: Obsidian 插件：Simple note quiz
 tags: ['obsidian插件', 'readme']
 description: 开始在你当前的笔记上做一个简单的测验。
 author: AI

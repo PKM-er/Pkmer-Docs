@@ -1,6 +1,6 @@
 ---
 uid: 2023080322174075
-title: Obsidian 插件：【Readme】Editor Commands Remap
+title: Obsidian 插件：Editor Commands Remap
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 将热键映射到编辑器命令。
 author: AI

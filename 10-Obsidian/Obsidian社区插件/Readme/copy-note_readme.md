@@ -1,6 +1,6 @@
 ---
 uid: 2023080322175226
-title: Obsidian 插件：【Readme】Enhance Copy Note
+title: Obsidian 插件：Enhance Copy Note
 tags: ['笔记文件处理', '编辑工具', 'obsidian插件', 'readme']
 description: 增强原生的黑曜石笔记复制功能。
 author: AI

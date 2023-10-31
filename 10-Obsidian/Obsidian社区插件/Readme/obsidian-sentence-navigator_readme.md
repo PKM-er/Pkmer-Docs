@@ -1,6 +1,6 @@
 ---
 uid: 2023080322263719
-title: Obsidian 插件：【Readme】Sentence Navigator
+title: Obsidian 插件：Sentence Navigator
 tags: ['obsidian插件', 'readme']
 description: 操纵句子作为一个运动单位
 author: AI

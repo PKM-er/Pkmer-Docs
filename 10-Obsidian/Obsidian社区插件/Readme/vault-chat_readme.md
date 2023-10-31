@@ -1,6 +1,6 @@
 ---
 uid: 2023080322291012
-title: Obsidian 插件：【Readme】Vault Chat
+title: Obsidian 插件：Vault Chat
 tags: ['obsidian插件', 'readme']
 description: 一个ChatGPT机器人，训练自您的保险库笔记。向您的AI提问关于您自己的想法和思考的问题！
 author: AI

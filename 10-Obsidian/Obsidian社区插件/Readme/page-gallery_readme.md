@@ -1,6 +1,6 @@
 ---
 uid: 2023080322242338
-title: Obsidian 插件：【Readme】Page Gallery
+title: Obsidian 插件：Page Gallery
 tags: ['obsidian插件', 'readme']
 description: 根据所选页面内容创建可嵌入的图库。
 author: AI

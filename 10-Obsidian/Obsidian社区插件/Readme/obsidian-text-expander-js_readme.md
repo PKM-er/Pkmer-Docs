@@ -1,6 +1,6 @@
 ---
 uid: 2023080322203828
-title: Obsidian 插件：【Readme】Inline Scripts
+title: Obsidian 插件：Inline Scripts
 tags: ['obsidian插件', 'readme']
 description: 输入文本快捷键，然后用JavaScript生成的文本替换它们。
 author: AI
@@ -320,7 +320,6 @@ _（注意 - 快捷文件 "states.sfile" 有 __ 两个 __ 教程视频，一个�
     3. 单击文本框，然后输入在步骤 3 中确定的快捷方式文件笔记的地址。在输入有效的笔记地址之前，文本框将显示为红色（见下图）。
         - 示例：`support/inlineScripts/state.sfile`。
     4. （可选）关闭条目左侧的切换按钮将禁用此快捷方式文件。这使 __Inline Scripts__ 表现得好像从此列表中删除了快捷方式文件。这对于停止使用快捷方式文件而不完全将其从列表中删除非常有用。
-
 
         ![Shortcut-files setting](readmeMedia/shortcutFiles.png)
 

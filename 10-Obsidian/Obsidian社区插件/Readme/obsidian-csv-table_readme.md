@@ -1,6 +1,6 @@
 ---
 uid: 2023080322164846
-title: Obsidian 插件：【Readme】CSV Table
+title: Obsidian 插件：CSV Table
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将 CSV 数据呈现为笔记中的表格。
 author: AI

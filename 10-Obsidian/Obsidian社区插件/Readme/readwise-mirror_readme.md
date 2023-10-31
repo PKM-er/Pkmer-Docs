@@ -1,6 +1,6 @@
 ---
 uid: 2023080322254366
-title: Obsidian 插件：【Readme】Readwise Mirror
+title: Obsidian 插件：Readwise Mirror
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 将您的Readwise图书馆直接镜像到Obsidian金库中
 author: AI

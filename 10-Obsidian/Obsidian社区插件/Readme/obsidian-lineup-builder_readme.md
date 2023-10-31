@@ -1,6 +1,6 @@
 ---
 uid: 2023080322212328
-title: Obsidian 插件：【Readme】Lineup Builder
+title: Obsidian 插件：Lineup Builder
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中构建足球阵容。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322165609
-title: Obsidian 插件：【Readme】CustomJS
+title: Obsidian 插件：CustomJS
 tags: ['自动化', '编程', '效率', 'obsidian插件', 'readme']
 description: 允许用户编写自定义Javascript，你可以在任何地方调用，包括dataviewjs块和templater模板。
 author: AI

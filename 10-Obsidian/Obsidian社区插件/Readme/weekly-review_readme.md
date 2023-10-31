@@ -1,6 +1,6 @@
 ---
 uid: 2023080322292919
-title: Obsidian 插件：【Readme】Weekly Review
+title: Obsidian 插件：Weekly Review
 tags: ['obsidian插件', 'readme']
 description: 打开过去一周创建的所有文件来查看。
 author: AI

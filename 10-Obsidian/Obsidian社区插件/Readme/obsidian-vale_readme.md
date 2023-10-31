@@ -1,6 +1,6 @@
 ---
 uid: 2023080322290619
-title: Obsidian 插件：【Readme】Vale
+title: Obsidian 插件：Vale
 tags: ['obsidian插件', 'readme']
 description: 使用 Vale 检查文档风格来保证一致性。
 author: AI

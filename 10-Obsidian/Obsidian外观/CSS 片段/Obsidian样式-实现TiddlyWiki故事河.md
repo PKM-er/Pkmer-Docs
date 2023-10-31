@@ -1,16 +1,16 @@
 ---
 uid: 20230904215512
-title: Obsidian 样式 - 实现 TiddlyWiki 故事河
+title: Obsidian 样式：实现 TiddlyWiki 故事河
 tags: [Obsidian, css, 移动端支持]
 description: 通过 CSS 实现侧边栏悬浮、TiddlyWiki 故事河、自定义题图和题图图标
 author: 阿菜
 type: other
 draft: false
 editable: false
-modified: 20231012092236
+modified: 20231019231652
 ---
 
-# Obsidian 样式 - 实现 TiddlyWiki 故事河
+# Obsidian 样式：实现 TiddlyWiki 故事河
 
 ![Pasted image 20231012052909](https://cdn.pkmer.cn/images/202310120917462.png!pkmer)
 

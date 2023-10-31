@@ -1,6 +1,6 @@
 ---
 uid: 2023080322233342
-title: Obsidian 插件：【Readme】Obsidian matrix
+title: Obsidian 插件：Obsidian matrix
 tags: ['数学', '效率', 'obsidian插件', 'readme']
 description: 让你在 Obsidian 中快速创建基于 LaTeX的数学矩阵
 author: AI

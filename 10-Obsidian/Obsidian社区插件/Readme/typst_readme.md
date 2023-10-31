@@ -1,6 +1,6 @@
 ---
 uid: 2023080322285465
-title: Obsidian 插件：【Readme】Typst Renderer
+title: Obsidian 插件：Typst Renderer
 tags: ['obsidian插件', 'readme']
 description: 使用Typst将`typst`代码块和数学块渲染为图像。
 author: AI

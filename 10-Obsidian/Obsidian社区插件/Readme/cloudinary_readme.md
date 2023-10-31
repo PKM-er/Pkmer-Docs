@@ -1,6 +1,6 @@
 ---
 uid: 2023080322155837
-title: Obsidian 插件：【Readme】Cloudinary
+title: Obsidian 插件：Cloudinary
 tags: ['obsidian插件', 'readme']
 description: 将内容（图片、视频、音频）上传到Cloudinary，并将它们插入（复制或拖放）到您的笔记中。
 author: AI

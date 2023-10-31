@@ -1,6 +1,6 @@
 ---
 uid: 2023080322244716
-title: Obsidian 插件：【Readme】Pivotal Tracker Integration
+title: Obsidian 插件：Pivotal Tracker Integration
 tags: ['obsidian插件', 'readme']
 description: 从Pivotal Tracker中提取故事、错误和任务。
 author: AI

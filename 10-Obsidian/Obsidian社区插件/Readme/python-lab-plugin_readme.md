@@ -1,6 +1,6 @@
 ---
 uid: 2023080322251376
-title: Obsidian 插件：【Readme】Python lab plugin
+title: Obsidian 插件：Python lab plugin
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 一个用于实验Python脚本和更多内容的界面。
 author: AI

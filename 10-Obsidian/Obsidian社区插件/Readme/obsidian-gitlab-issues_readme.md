@@ -1,6 +1,6 @@
 ---
 uid: 2023080322191439
-title: Obsidian 插件：【Readme】GitLab Issues
+title: Obsidian 插件：GitLab Issues
 tags: ['obsidian插件', 'readme']
 description: 将Gitlab问题导入您的Obsidian保险库。
 author: AI

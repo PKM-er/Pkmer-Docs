@@ -1,6 +1,6 @@
 ---
 uid: 2023080322175834
-title: Obsidian 插件：【Readme】Execute Code
+title: Obsidian 插件：Execute Code
 tags: ['obsidian插件', 'readme']
 description: 允许在笔记中执行代码片段。
 author: AI

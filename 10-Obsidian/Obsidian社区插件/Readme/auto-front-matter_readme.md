@@ -1,6 +1,6 @@
 ---
 uid: 2023080322142863
-title: Obsidian 插件：【Readme】Auto Front Matter
+title: Obsidian 插件：Auto Front Matter
 tags: ['obsidian插件', 'readme']
 description: 自动更新前置事项
 author: AI

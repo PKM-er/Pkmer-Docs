@@ -1,6 +1,6 @@
 ---
 uid: 2023080322193266
-title: Obsidian 插件：【Readme】Habitica Sync
+title: Obsidian 插件：Habitica Sync
 tags: ['obsidian插件', 'readme']
 description: .这个插件可以帮助将Habitica用户任务和统计数据集成到Obsidian中。
 author: AI

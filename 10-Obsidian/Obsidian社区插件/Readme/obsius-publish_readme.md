@@ -1,6 +1,6 @@
 ---
 uid: 2023080322235864
-title: Obsidian 插件：【Readme】Obsius Publish
+title: Obsidian 插件：Obsius Publish
 tags: ['obsidian插件', 'readme']
 description: 将单个笔记立即可在网上使用。
 author: AI

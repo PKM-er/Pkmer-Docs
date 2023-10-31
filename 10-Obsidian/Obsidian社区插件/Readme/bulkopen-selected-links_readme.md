@@ -1,6 +1,6 @@
 ---
 uid: 2023080322152394
-title: Obsidian 插件：【Readme】Bulk open selected links
+title: Obsidian 插件：Bulk open selected links
 tags: ['obsidian插件', 'readme']
 description: 轻松在编辑模式下打开所有选定的链接。
 author: AI

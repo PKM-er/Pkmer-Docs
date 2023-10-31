@@ -1,6 +1,6 @@
 ---
 uid: 2023080322272065
-title: Obsidian 插件：【Readme】Squiggle
+title: Obsidian 插件：Squiggle
 tags: ['obsidian插件', 'readme']
 description: 使用Squiggle在你的笔记中进行概率估计。
 author: AI

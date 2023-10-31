@@ -1,6 +1,6 @@
 ---
 uid: 2023080322192691
-title: Obsidian 插件：【Readme】Grandfather
+title: Obsidian 插件：Grandfather
 tags: ['界面相关', '状态栏', 'obsidian插件', 'readme']
 description: 状态栏上显示时间和日期的简单插件。
 author: AI

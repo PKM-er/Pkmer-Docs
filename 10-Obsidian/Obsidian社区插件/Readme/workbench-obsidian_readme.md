@@ -1,6 +1,6 @@
 ---
 uid: 2023080322294416
-title: Obsidian 插件：【Readme】Workbench
+title: Obsidian 插件：Workbench
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 用于在你的库中快速将内容移动到工作台或者从工作台移除。
 author: AI

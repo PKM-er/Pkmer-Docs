@@ -1,6 +1,6 @@
 ---
 uid: 2023080322272152
-title: Obsidian 插件：【Readme】Stack Overflow Answers
+title: Obsidian 插件：Stack Overflow Answers
 tags: ['obsidian插件', 'readme']
 description: 直接将Stack Overflow答案复制粘贴到Obsidian中。
 author: AI

@@ -7,7 +7,7 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231013235124
+modified: 20231025154207
 ---
 
 # Obsidian 常见问题汇总
@@ -38,6 +38,29 @@ modified: 20231013235124
 
 - [[Obsidian基础操作问题#重启 Obsidian 的方法]]
 - [[Obsidian基础操作问题#无法启动显示，显示“DiscardVirtualMemory“]]
+
+## PKMer 自营服务
+
+### PKMer market 插件
+
+#### 移动端发现：插件提示需要登录
+
+1、在 PC 端注册登录网站（关注微信公众号方式）
+
+2、进入个人中心，点击”获取 Token“
+
+3、进入移动端，PKMer 插件设置，将 Token 填写
+
+4、关闭插件，并重新加载插件；或者关闭 Obsidian 并杀掉程序
+
+#### 发现异常
+
+- 可以通过 PKMer 的交流群来反馈给管理员
+- 已知：
+
+### Thino（原 Memos）
+
+- 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[memos-changelog]]
 
 ## Obsidian 的基本信息获取
 
@@ -112,6 +135,7 @@ modified: 20231013235124
 
 - [[Obsidian基础操作问题#Obsidian 在手机上如何插入手机中的图片]]
 - [[Obsidian基础操作问题#Obsidian 手机端的笔记库无法打开]]
+- [[安卓和鸿蒙设备照片中乱入Obsidian图片解决方案]]
 
 ## 核心插件
 
@@ -128,6 +152,10 @@ modified: 20231013235124
 - [[Obsidian基础操作问题#局部关系图如何显示在本地或者软件界面上]]
 - [[Obsidian基础操作问题#局部关系图如何展示自己发布的网页上]]
 - [[Obsidian基础操作问题#为什么 Obsidian 的关系图谱不显示连接线]]
+
+### 恢复
+
+[[Obsidian基础操作问题#不小心把笔记删了，怎么恢复]]
 
 ## 社区插件
 

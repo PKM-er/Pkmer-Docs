@@ -1,6 +1,6 @@
 ---
 uid: 2023080322205306
-title: Obsidian 插件：【Readme】JSONifier
+title: Obsidian 插件：JSONifier
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 使用JSON.stringify()或JSON.parse()高亮文本，并复制到剪贴板。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322212069
-title: Obsidian 插件：【Readme】Ledger
+title: Obsidian 插件：Ledger
 tags: ['金融', 'obsidian插件', 'readme']
 description: 普通文本会计
 author: AI

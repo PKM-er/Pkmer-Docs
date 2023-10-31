@@ -1,6 +1,6 @@
 ---
 uid: 2023080322164348
-title: Obsidian 插件：【Readme】Crossbow
+title: Obsidian 插件：Crossbow
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中查找反向链接
 author: AI

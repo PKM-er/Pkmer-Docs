@@ -1,6 +1,6 @@
 ---
 uid: 2023080322152029
-title: Obsidian 插件：【Readme】braincache
+title: Obsidian 插件：braincache
 tags: ['obsidian插件', 'readme']
 description: 从Obsidian创建Braincache闪存卡
 author: AI
