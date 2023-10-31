@@ -168,7 +168,7 @@ el.ondrop = async function (event) {
                 ea.style.backgroundColor = "#ffec99";
                 ea.style.fillStyle = 'solid';
                 ea.style.roughness = 0;
-                ea.style.roundness = { type: 3 };
+                // ea.style.roundness = { type: 3 };
                 ea.style.strokeWidth = 2;
                 ea.style.fontFamily = 4;
                 ea.style.fontSize = 20;
@@ -211,6 +211,7 @@ el.ondrop = async function (event) {
                     const metadataContent = fs.readFileSync(metadataPath, 'utf8');
                     // 解析为JSON对象
                     const metadata = JSON.parse(metadataContent);
+
 
                     // 设置不同文件类型的导入方式ea.addText为文本、ea.addImage为图片
                     if (
@@ -269,6 +270,34 @@ el.ondrop = async function (event) {
                             document.body.removeChild(ea.targetView.draginfoDiv);
                             delete ea.targetView.draginfoDiv;
                         }
+                    } else if (
+                        //   对gif动图进行设置
+                        file_name.toLowerCase().endsWith(".gif")
+                    ) {
+                        // 清空插入的环境变量
+                        event.stopPropagation();
+                        ea.clear();
+                        ea.style.strokeStyle = "solid";
+                        ea.style.strokeColor = "transparent";
+                        ea.style.backgroundColor = "transparent";
+                        ea.style.fillStyle = 'solid';
+                        ea.style.roughness = 0;
+                        ea.style.strokeWidth = 1;
+                        ea.style.fontFamily = 4;
+
+                        let eagleGifFile = app.vault.getAbstractFileByPath(`${relativePath}/${destinationName}`);
+                        let id = await await ea.addIFrame(0, 0, 200, 100, 0, eagleGifFile);
+                        let el = ea.getElement(id);
+                        
+                        // ea.style.fillStyle = "solid";
+                        el.link = `[[${destinationName}]]`;
+
+                        await ea.addElementsToView(true, false, false);
+                        if (ea.targetView.draginfoDiv) {
+                            document.body.removeChild(ea.targetView.draginfoDiv);
+                            delete ea.targetView.draginfoDiv;
+                        }
+
                     } else if (file_name.toLowerCase().endsWith(".url")) {
                         // 对url文件采用文本加入json的连接形式
                         link = metadata.url;
@@ -295,7 +324,8 @@ el.ondrop = async function (event) {
                     ) {
                         let InsertPDFImage = confirm("是否插入附件缩略图？");
                         if (InsertPDFImage) {
-                            let destinationPath = `D:\\PandaNotes\\Y-图形文件存储\\EagleImages\\${eagle_id}.png`;
+                            let destinationPath = `${basePath}/${relativePath}/${eagle_id}.png`;
+
                             fs.copyFileSync(ThumbnailImage, destinationPath)
                             await new Promise((resolve) => setTimeout(resolve, 200)); // 暂停一会儿
                             var id = await ea.addImage(0, 0, `${eagle_id}.png`);
@@ -303,6 +333,7 @@ el.ondrop = async function (event) {
                         } else {
                             var id = await ea.addText(0, 0, `[[${insert_txt}]]`, { width: 400, box: true, wrapAt: 100, textAlign: "center", textVerticalAlign: "middle", box: "box" });
                         }
+
 
                         let el = ea.getElement(id);
                         el.link = `[[${destinationName}]]`;
@@ -329,5 +360,7 @@ el.ondrop = async function (event) {
         }
     }
 };
+
+
 
 ```
