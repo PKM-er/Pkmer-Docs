@@ -7,7 +7,7 @@ author: Huajin,Windysoul,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231007234810
+modified: 20231029225015
 ---
 
 # Dataview 语法实战
@@ -31,7 +31,9 @@ modified: 20231007234810
 - 表格形式：TABLE
 	- 简单示例：[[Dataview 表格简单查询示例]]；
 	- 进阶示例：[[Dataview 表格进阶查询示例]]；
-	- 更多花样：[[Dataview实战-定制你的数据表格并为表格列添加个性化样式]]；
+	- 更多花样：
+		- [[Dataview实战-定制你的数据表格并为表格列添加个性化样式]]；
+		- [[Dataview语法实战-列出特定标题下的元素]]
 - 列表形式：LIST
 	- 简单示例：[[Dataview 列表简单查询示例]]；
 	- 进阶示例：[[Dataview 列表进阶查询示例]]；

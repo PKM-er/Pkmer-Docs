@@ -1,13 +1,13 @@
 ---
 uid: 20231014173618
-title: 自定义 Excalidraw 脚本-建立库外 Eagle 素材库的连接
+title: 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
 tags: [Eagle, Excalidraw, 工作流, 工作流搭建]
 description: 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231020215808
+modified: 20231029205023
 ---
 
 # 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
@@ -26,7 +26,6 @@ modified: 20231020215808
 该脚本的主要功能是通过拖拽将 Eagle 中素材拖入 Excalidraw 画板中时，会自动复制素材到 Obsidian 笔记库中，同时读取 Eagle 素材文件下的 metadata.json 文件中的信息，将存储的 url 连接随着素材嵌入到 Excalidraw 画板中，这样就可以让存放的图片、HTML、PDF、PPT 等素材嵌入到 Excalidraw 画板同时可以打开对应的外部链接。
 
 <iframe src="https://player.bilibili.com/player.html?aid=234651352&bvid=BV14841167do&cid=1232824646&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
-
 
 ### 针对 Office 和 PDF 的嵌入
 
@@ -96,10 +95,11 @@ for (i of img) {
 
 同样需要保存为 md 文件保存到指定文件夹
 
-> [!caution]+ 需要修改的路径 (`${file_name}` 和 `${folder}` 不修改)
-> ![](https://cdn.pkmer.cn/images/202310202203076.png!pkmer)
-> - 第一个为 Obsidian 中存放素材的路径 (已创建的路径)
-> - 第二个为 Eagle 的素材 images 的路径
+> [!caution]+ 需要修改的路径
+> ![Pasted image 20231029203630](https://cdn.pkmer.cn/images/Pasted%20image%2020231029203630.png!pkmer)
+> - 第一次安装改脚本时，单击运行脚本一下，然后在 Excalidraw 插件设置中会出现这个选项
+> - 修改为 Obsidian 中存放素材的路径 (已创建的路径)
+> 	- 注意使用 `/` 来转义路径，采用相对路径。
 
 该脚本可能并不适应每个人的习惯，这里只供参考借鉴，请大家根据自己需求来适当修改代码。
 
@@ -297,6 +297,7 @@ el.ondrop = async function (event) {
                             document.body.removeChild(ea.targetView.draginfoDiv);
                             delete ea.targetView.draginfoDiv;
                         }
+
                     } else if (file_name.toLowerCase().endsWith(".url")) {
                         // 对url文件采用文本加入json的连接形式
                         link = metadata.url;
@@ -324,6 +325,7 @@ el.ondrop = async function (event) {
                         let InsertPDFImage = confirm("是否插入附件缩略图？");
                         if (InsertPDFImage) {
                             let destinationPath = `${basePath}/${relativePath}/${eagle_id}.png`;
+
                             fs.copyFileSync(ThumbnailImage, destinationPath)
                             await new Promise((resolve) => setTimeout(resolve, 200)); // 暂停一会儿
                             var id = await ea.addImage(0, 0, `${eagle_id}.png`);
