@@ -22,6 +22,7 @@ modified: 20231024002131
 - [[如何使用Obsidian笔记-一步一步的指南]]
 - [[安卓和鸿蒙设备照片中乱入Obsidian图片解决方案]]
 - [[Obsidian多标签查询功能]]
+- [[Obsidian搭配 Vim Mode]]
 
 ### 第三方插件
 
