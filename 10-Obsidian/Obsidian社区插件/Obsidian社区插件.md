@@ -456,8 +456,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[surfing]]：允许你在 Obsidian 的标签页中浏览任意网页
  - [[convert-url-to-iframe]]：将任何 URL 转换为网页预览插入到笔记中
  - [[simple-embeds]]：把 Twitter 和 YouTube 网页链接嵌入当前笔记中预览
- - [[mx-bili-plugin]]
- - [[media-extended]]
  - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
  - [[obsidian-file-link]]：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
 
