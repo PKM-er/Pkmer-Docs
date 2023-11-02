@@ -1,15 +1,13 @@
 ---
 uid: 20231102224519
 title: 01-Excalidraw 脚本的基本配置
-tags:
-  - Excalidraw
-  - 插件开发
+tags: [Excalidraw, 插件开发]
 description: 
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231102224544
+modified: 20231102225235
 ---
 
 # 01-Excalidraw 脚本的基本配置
@@ -37,7 +35,7 @@ modified: 20231102224544
 > [!caution]+
 > 请注意，这些代码片段是用于 Excalidraw 脚本开发的示例，并且需要在 Excalidraw 环境中运行。
 
-Excalidraw 脚本将自动接收两个对象：
+Excalidraw 脚本将自动接收两个对象 (ea，utils)：
 
 - `ea`：脚本引擎将初始化 `ea` 对象，包括将活动视图设置为调用脚本的视图。
 - `utils`：从 [QuickAdd](https://github.com/chhoumann/quickadd/blob/master/docs/docs/QuickAddAPI.md) 中借用了一些在 utils 上公开的函数，尽管目前并不是所有 QuickAdd 实用函数都在 Excalidraw 中实现。目前可用的函数如下所示。请参考下面的示例了解详细信息。
