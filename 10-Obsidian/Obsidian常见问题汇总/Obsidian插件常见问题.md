@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231013234309
+modified: 20231104235725
 ---
 
 # Obsidian 插件常见问题
@@ -82,9 +82,14 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 
 有 3 种方法安装插件，使用第一种就可以了：市场安装、离线安装、测试安装
 
-- 1 打开 Obsidian 设置，第三方插件，首先关闭安全模式，打开社区插件市场，点击浏览，直接安装或者搜索安装，然后开启插件
-- 2 或者别人发的或者你自己下载的插件包，解压之后，整个文件夹复制到你的库目录下的 `.obsidian\plugins` 下面，然后打开 obsidian 设置，第三方插件，开启插件
-- 3 未上架的插件，可以通过 [[obsidian42-brat]] 插件安装。
+- 通过官方市场：打开 Obsidian 设置，第三方插件，首先关闭安全模式，打开社区插件市场，点击浏览，直接安装或者搜索安装，然后开启插件
+- 国内用户因为访问 Github 并不稳定的问题，推荐使用 PKMer 的 [Obsidian 插件市场](https://pkmer.cn/products/market/)、[Obsidian 插件集市 (pkmer.cn)](https://pkmer.cn/products/plugin/pluginMarket/)
+- 通过手动安装：或者别人发的或者你自己下载的插件包，解压之后，整个文件夹复制到你的库目录下的 `.obsidian\plugins` 下面，然后打开 obsidian 设置，第三方插件，开启插件
+- 通过插件：未上架的插件，可以通过 [[obsidian42-brat]] 插件安装。
+
+### Mac 系统上如何安装第三方插件
+
+有些插件并未上架 Obsidian 插件市场，对于 Mac 系统的同学，手动安装插件可能无法找到仓库下的 `.obsidian` 文件夹。因为默认情况下，所有 Obsidian 配置文件都是隐藏的，因此您可能需要在操作系统上启用查看隐藏文件。在 Mac 上，在 Finder 中，你可以按 `cmd+shift+.` 切换查看隐藏文件。
 
 ## Calendar
 

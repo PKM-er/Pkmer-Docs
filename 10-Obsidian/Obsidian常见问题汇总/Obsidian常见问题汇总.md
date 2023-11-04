@@ -7,7 +7,7 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231025154207
+modified: 20231105004624
 ---
 
 # Obsidian 常见问题汇总
@@ -163,6 +163,7 @@ modified: 20231025154207
 
 - [[Obsidian插件常见问题#如何打开社区插件]]
 - [[Obsidian插件常见问题#插件社区不能加载]]
+- [[Obsidian插件常见问题#Mac 系统上如何安装第三方插件]]
 
 ### 插件兼容和使用
 
