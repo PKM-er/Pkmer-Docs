@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231029224859
+modified: 20231105004044
 ---
 
 # Obsidian 社区插件
@@ -83,6 +83,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[fantasy-name]]：插入一个随机组合出来的人名
 - [[html-tabs]]：在笔记中创建和渲染选项卡和标签面板
 - [[obsidian-code-tab]]：创造一个类似 leetcode 样式的混合代码块，且不仅限于代码块。
+	- [[code-tab还能这么玩]]：codetab 插件的活用文章
 
 ### 格式化
 
