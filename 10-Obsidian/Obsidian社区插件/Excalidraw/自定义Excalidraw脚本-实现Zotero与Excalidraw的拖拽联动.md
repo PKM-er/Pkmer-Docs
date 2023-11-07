@@ -1,7 +1,11 @@
 ---
 uid: 20230929013043
 title: 自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动
-tags: [zotero, excalidraw, workflow]
+tags:
+  - zotero
+  - workflow
+  - Excalidraw脚本
+  - Excalidraw
 description: 
 author: 熊猫别熬夜
 type: other

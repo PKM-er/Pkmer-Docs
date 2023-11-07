@@ -1,7 +1,12 @@
 ---
 uid: 20231014173618
 title: 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
-tags: [Eagle, Excalidraw, 工作流, 工作流搭建]
+tags:
+  - Eagle
+  - Excalidraw
+  - 工作流
+  - 工作流搭建
+  - Excalidraw脚本
 description: 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
 author: 熊猫别熬夜
 type: other

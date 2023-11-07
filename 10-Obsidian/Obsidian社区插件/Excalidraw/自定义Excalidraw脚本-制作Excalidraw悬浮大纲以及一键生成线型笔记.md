@@ -5,6 +5,7 @@ tags:
   - Excalidraw
   - 工作流
   - 工作流搭建
+  - Excalidraw脚本
 description: 本文仅仅是一个尝试将Ex画板转为线型笔记和生成大纲，不能保证大纲和线型笔记的效果达到非常完美，特别是排序只是从大到小的排序，而不是针对列表的顺序排序，存在很多漏洞。
 author: 熊猫别熬夜
 type: other

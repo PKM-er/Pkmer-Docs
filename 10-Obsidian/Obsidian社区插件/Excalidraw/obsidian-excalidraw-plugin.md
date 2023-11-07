@@ -7,14 +7,12 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230801155252
+modified: 20231108011953
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
 
-
 ![Excalidraw](https://cdn.pkmer.cn/covers/obsidian-excalidraw-plugin.PNG!pkmer)
-
 
 > [!Note] Excalidraw
 > - 插件名称：Excalidraw
@@ -122,14 +120,15 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 
 ## 社区实践
 
-- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
 - [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
 - [[Excalidraw局部嵌入Obsidian]]
+- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
+- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
+- [[自定义Excalidraw脚本-画板局部或者全局播放动画]]
 
 ## 支持开源开发者
 
 如果你深度使用 Excalidraw 并可以用其提高生产力，建议登录 [Buy ZsoltViczián a Coffee. ko-fi.com/zsolt - Ko-fi ❤️.](https://ko-fi.com/zsolt) 赞助一波，需要 paypal 或者信用卡。没有这两样的也可以 [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) 到这个项目下，登录后点右上角的星星，让更多人看到。
-
 
 ## Excalidraw 的朋友们
 
