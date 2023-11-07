@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231011141537
+modified: 20231107230453
 aliases: [Obsidian css代码片段]
 ---
 
@@ -75,6 +75,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 状态栏
 
 - [[Obsidian样式-悬浮状态栏]]
+
+### 搜索框
+
+- [[Obsidian样式-像VSCode一样显示搜索替换框]]
 
 ### 链接
 
