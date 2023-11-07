@@ -1,13 +1,13 @@
 ---
 uid: 20231014145217
-title: Obsidian样式-简单更改Excalidraw工具栏布局
+title: Obsidian 样式 - 简单更改 Excalidraw 工具栏布局
 tags: []
 description: 
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231020213238
+modified: 20231107231909
 ---
 
 # Obsidian 样式 - 简单更改 Excalidraw 工具栏布局
@@ -23,17 +23,18 @@ modified: 20231020213238
 ```css
 /* ====侧边栏的容器修改==== */
 .excalidraw .mobile-misc-tools-container {
-  width: 80px; /* 设置宽度为80像素 */
+  width: 60px; /* 设置宽度为80像素 */
   position: fixed !important; /* 设置定位为固定定位 */
-  top: auto !important;
+  top: auto;
   left: 10px;
+  /* right: 10px !important; */
   border-radius: 10px; /* 添加10像素的圆角 */
 }
 
 .excalidraw .mobile-misc-tools-container .default-sidebar-trigger,
 .excalidraw .App-toolbar-container .ToolIcon__icon {
-  width: 80px !important;
-  height: 50px !important;
+  width: 60px !important;
+  height: 40px !important;
   border: 1px solid rgb(2, 2, 2); /* 添加1像素宽的黑色实线边框 */
   border-radius: 10% !important; /* 添加10像素的圆角 */
 }
@@ -49,17 +50,18 @@ modified: 20231020213238
 /* 侧边栏大小 */
 .excalidraw .mobile-misc-tools-container .default-sidebar-trigger svg,
 .excalidraw .mobile-misc-tools-container .ToolIcon__icon svg {
-  width: 40px !important; /* 设置宽度为40像素 */
-  height: 40px !important; /* 设置高度为40像素 */
+  width: 30px !important; /* 设置宽度为20像素 */
+  height: 30px !important; /* 设置高度为20像素 */
 }
 
 /* 脚本工具栏 */
 .Island.App-menu__left.scrollbar svg {
-  width: 25px !important; /* 设置宽度为25像素 */
-  height: 25px !important; /* 设置高度为25像素 */
+  width: 25px !important; /* 设置宽度为20像素 */
+  height: 25px !important; /* 设置高度为20像素 */
 }
 
 /* ====美化脚本工具栏==== */
+/* .excalidraw .App-menu__left, */
 .Island.App-menu__left.scrollbar {
   overflow-y: auto;
   box-sizing: border-box;
@@ -71,12 +73,12 @@ modified: 20231020213238
 
 .excalidraw .dropdown-menu-button svg,
 .excalidraw section .Island .ToolIcon__icon svg {
-  width: 30px !important; /* 设置宽度为30像素 */
-  height: 30px !important; /* 设置高度为30像素 */
+  width: 30px !important; /* 设置宽度为20像素 */
+  height: 30px !important; /* 设置高度为20像素 */
 }
 
 .excalidraw section .Island .ToolIcon__icon {
-  width: 80px !important;
+  width: 60px !important;
   height: 50px !important;
   border: 1px solid rgb(2, 2, 2); /* 添加1像素宽的黑色实线边框 */
   border-radius: 10% !important; /* 添加10像素的圆角 */
@@ -85,7 +87,13 @@ modified: 20231020213238
 /* ====美化菜单栏==== */
 
 .excalidraw .App-bottom-bar > .Island {
-  transform: translateX(80px);
+  transform: translateX(1450px);
+}
+
+/* 优化link的提示 */
+
+.excalidraw-hyperlinkContainer {
+  background-color: rgb(244, 253, 190) !important;
 }
 
 ```
@@ -95,9 +103,10 @@ modified: 20231020213238
 ![Pasted image 20231014143448](https://cdn.pkmer.cn/images/202310202131277.png!pkmer)
 
 ```css
+
 /* ====侧边栏的容器修改==== */
 .excalidraw .mobile-misc-tools-container {
-  width: 80px; /* 设置宽度为80像素 */
+  width: 60px; /* 设置宽度为80像素 */
   position: fixed !important; /* 设置定位为固定定位 */
   top: auto !important;
   left: 10px;
@@ -107,8 +116,8 @@ modified: 20231020213238
 /* ====侧边栏的容器修改==== */
 .excalidraw .mobile-misc-tools-container .default-sidebar-trigger,
 .excalidraw .App-toolbar-container .ToolIcon__icon {
-  width: 80px !important;
-  height: 50px !important;
+  width: 60px !important;
+  height: 40px !important;
   border: 1px solid rgb(2, 2, 2); /* 添加1像素宽的黑色实线边框 */
   border-radius: 10% !important; /* 添加10像素的圆角 */
 }
@@ -117,15 +126,15 @@ modified: 20231020213238
   width: 2rem;
   height: 2rem;
   border-radius: 0;
-  margin: 5px; /* 添加5像素的间距 */
+  margin: 5px; /* 添加10像素的间距 */
 }
 
 /* 设置Excalidraw中的SVG向量大小 */
 /* 侧边栏大小 */
 .excalidraw .mobile-misc-tools-container .default-sidebar-trigger svg,
 .excalidraw .mobile-misc-tools-container .ToolIcon__icon svg {
-  width: 40px !important; /* 设置宽度为40像素 */
-  height: 40px !important; /* 设置高度为40像素 */
+  width: 30px !important; /* 设置宽度为20像素 */
+  height: 30px !important; /* 设置高度为20像素 */
 }
 
 /* 脚本工具栏 */
@@ -135,6 +144,7 @@ modified: 20231020213238
 }
 
 /* ====美化脚本工具栏==== */
+/* .excalidraw .App-menu__left, */
 .Island.App-menu__left.scrollbar {
   overflow-y: auto;
   box-sizing: border-box;
@@ -161,16 +171,16 @@ modified: 20231020213238
 }
 
 .excalidraw section .Island .ToolIcon__icon svg {
-  width: 30px !important; /* 设置宽度为30像素 */
-  height: 30px !important; /* 设置高度为30像素 */
+  width: 30px !important; /* 设置宽度为20像素 */
+  height: 30px !important; /* 设置高度为20像素 */
 }
 
 .excalidraw section .Island .Stack_horizontal svg {
   transform: rotate(-90deg);
 }
 .excalidraw .dropdown-menu-button svg {
-  width: 30px !important; /* 设置宽度为30像素 */
-  height: 30px !important; /* 设置高度为30像素 */
+  width: 30px !important; /* 设置宽度为20像素 */
+  height: 30px !important; /* 设置高度为20像素 */
 }
 
 .excalidraw .dropdown-menu .Stack_horizontal {
@@ -179,7 +189,7 @@ modified: 20231020213238
 
 .excalidraw section .Island .ToolIcon__icon {
   width: 50px !important;
-  height: 80px !important;
+  height: 60px !important;
   border: 1px solid rgb(2, 2, 2); /* 添加1像素宽的黑色实线边框 */
   border-radius: 10% !important; /* 添加10像素的圆角 */
 }

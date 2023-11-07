@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231029205023
+modified: 20231107231913
 ---
 
 # 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
