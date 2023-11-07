@@ -1,7 +1,8 @@
 ---
 uid: 20231107230507
 title: Obsidian 样式 - 像 VSCode 一样显示搜索替换框
-tags: 
+tags:
+  - 美化样式
 description: 修改文本搜索替换的边框
 author: 熊猫别熬夜
 type: other
