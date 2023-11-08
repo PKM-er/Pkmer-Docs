@@ -12,7 +12,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231029205023
+modified: 20231107231913
 ---
 
 # 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
@@ -90,6 +90,7 @@ for (i of img) {
 }
 ```
 
+> [!tip]+ 如果你是Mac系统，请把start 换为 open
 ### 保存为 md 文件保存到指定文件夹
 
 修改完路径后将下面代码保存为 md 文件，修改放入 Excalidraw 指定的 Scripts 的文件夹中，在 Excalidraw 的画板中的工具面板中就会出现一个齿轮按钮，需要时点击运行就可以了。
@@ -132,6 +133,7 @@ const basePath = (app.vault.adapter).getBasePath();
 const relativePath = settings["Eagle Images Path"].value;
 
 // 对于选中的项目，则通过文件名来创建Eagle的回链并打开
+
 let selectedEls = ea.getViewSelectedElements()
 
 for (selectedEl of selectedEls) {
@@ -159,13 +161,6 @@ el.ondrop = async function (event) {
             console.log(directoryPath);
             if (directoryPath) {
                 console.log("获取路径");
-
-                // 判断是否为Eagle文件，不是这不执行
-                let folder = directoryPath.match(/([^\\]+)\.info/i);
-                if (!folder) {
-                    continue;
-                }
-
                 // 清空插入的环境变量
                 event.stopPropagation();
                 ea.clear();
@@ -174,42 +169,51 @@ el.ondrop = async function (event) {
                 ea.style.fillStyle = 'solid';
                 ea.style.roughness = 0;
                 // ea.style.roundness = { type: 3 };
-                ea.style.strokeWidth = 2;
+                ea.style.strokeWidth = 1;
                 ea.style.fontFamily = 4;
                 ea.style.fontSize = 20;
 
-                let file_name = directoryPath.match(/([^\\]+)(\.[^\\]*)?$/i);
-                if (folder && file_name) {
-                    eagle_id = folder[0].replace('.info', '');
-                    folder = folder[0];
-                    file_name = file_name[0];
-                    console.log(`folder: ${folder};file_name:${file_name};eagle_id:${eagle_id}`);
+                // 判断是否为Eagle文件，不是这不执行
+				let folderPathName = path.basename(path.dirname(directoryPath));
+				console.log(folderPathName);
+				
+                console.log(folderPathName)
+                if (!folderPathName.match(".info")) {
+                    console.log("不为Eagle文件夹文件");
+                    continue;
+                }
+                console.log("为Eagle文件夹文件");                
+
+                let fileName = path.basename(directoryPath);
+                if (folderPathName && fileName) {
+					let eagleId = folderPathName.replace('.info', '');
+                    console.log(eagleId)
+                    console.log(`folder: ${folderPathName};file_name:${fileName};eagle_id:${eagleId}`);                   
 
                     // 获取原文件名，不带后缀
-                    let insert_Filename = file_name.split(".").slice(0, -1).join(".");
+                    let insertFilename = fileName.split(".").slice(0, -1).join(".");
 
                     // 获取文件名后缀
-                    const fileExtension = file_name.split('.').pop();
+                    const fileExtension = fileName.split('.').pop();
 
                     // 将图片文件移动到指定文件夹
                     let sourcePath = directoryPath;
 
                     // 📌定义附件保存的地址
-                    var destinationName = `${eagle_id}.${fileExtension}`;
+                    var destinationName = `${eagleId}.${fileExtension}`;
                     let destinationPath = `${basePath}/${relativePath}/${destinationName}`;
-
+                    console.log(destinationPath)
                     // 读取metadata.json文件
-                    let Eaglefolder = directoryPath.replace(/\\[^\\]+$/, '');
-                    // alert(Eaglefolder)
-                    const metadataPath = `${Eaglefolder}\\metadata.json`; // 替换为实际的文件路径
+                    let Eaglefolder = path.dirname(directoryPath);
+                    const metadataPath = `${Eaglefolder}/metadata.json`; // 替换为实际的文件路径
                     // 缩略图的路径
-                    let ThumbnailImage = `${Eaglefolder}\\${insert_Filename}_thumbnail.png`;
+                    let ThumbnailImage = `${Eaglefolder}/${insertFilename}_thumbnail.png`;
 
                     fs.copyFileSync(sourcePath, destinationPath);
                     await new Promise((resolve) => setTimeout(resolve, 300)); // 暂停一会儿
 
                     // 让默认插入文本为文件名
-                    let insert_txt = file_name;
+                    let insert_txt = fileName;
 
                     // new Notice("插入Eagle素材：" + file_name);
 
@@ -217,47 +221,29 @@ el.ondrop = async function (event) {
                     // 解析为JSON对象
                     const metadata = JSON.parse(metadataContent);
 
-
                     // 设置不同文件类型的导入方式ea.addText为文本、ea.addImage为图片
                     if (
                         //   对网页统一用内部链接的形式
-                        file_name.toLowerCase().endsWith(".html") ||
-                        file_name.toLowerCase().endsWith(".mhtml") ||
-                        file_name.toLowerCase().endsWith(".htm")
+                        fileName.toLowerCase().endsWith(".html") ||
+                        fileName.toLowerCase().endsWith(".mhtml") ||
+                        fileName.toLowerCase().endsWith(".htm")
                     ) {
-
-                        // 这个注释是针对HTML图片是否插入缩略图的
-                        // let InsertPDFImage = confirm("是否插入附件缩略图？");
-                        // if (InsertPDFImage) {
-                        //     destinationPath = `${fileBasePath}/${OBRelativePath}/${eagle_id}.png`;
-                        //     // destinationPath = `D:\\PandaNotes\\Y-图形文件存储\\EagleImages\\${eagle_id}.png`;
-                        //     fs.copyFileSync(ThumbnailImage, destinationPath)
-                        //     await new Promise((resolve) => setTimeout(resolve, 200)); // 暂停一会儿
-                        //     var id = await ea.addImage(0, 0, `${eagle_id}.png`);
-                        //     let el = ea.getElement(id);
-                        //     el.link = `[[${destinationName}|${insert_txt}]]`;
-
-                        // } else {
-                        //     var id = await ea.addText(0, 0, `[[${destinationName}|${insert_txt}]]`, { width: 400, box: true, wrapAt: 100, textAlign: "center", textVerticalAlign: "middle", box: "box" });
-                        //     let el = ea.getElement(id);
-                        //     el.link = metadata.url;
-                        // }
-
-                        // 如果上述注释开了，请把这段注释掉
                         let id = await ea.addText(0, 0, `[[${destinationName}|${insert_txt}]]`, { width: 300, box: true, wrapAt: 100, textAlign: "center", textVerticalAlign: "middle", box: "box" });
 
                         await ea.addElementsToView(true, false, false);
+
                         if (ea.targetView.draginfoDiv) {
                             document.body.removeChild(ea.targetView.draginfoDiv);
                             delete ea.targetView.draginfoDiv;
                         }
+
                     } else if (
                         //   对图片统一用导入图片后附加链接的形式
-                        file_name.toLowerCase().endsWith(".png") ||
-                        file_name.toLowerCase().endsWith(".jpg") ||
-                        file_name.toLowerCase().endsWith(".jpeg") ||
-                        file_name.toLowerCase().endsWith(".icon") ||
-                        file_name.toLowerCase().endsWith(".svg")
+                        fileName.toLowerCase().endsWith(".png") ||
+                        fileName.toLowerCase().endsWith(".jpg") ||
+                        fileName.toLowerCase().endsWith(".jpeg") ||
+                        fileName.toLowerCase().endsWith(".icon") ||
+                        fileName.toLowerCase().endsWith(".svg")
                     ) {
                         let id = await ea.addImage(0, 0, destinationName);
                         let el = ea.getElement(id);
@@ -271,46 +257,20 @@ el.ondrop = async function (event) {
                         }
 
                         await ea.addElementsToView(true, false, false);
-                        if (ea.targetView.draginfoDiv) {
-                            document.body.removeChild(ea.targetView.draginfoDiv);
-                            delete ea.targetView.draginfoDiv;
-                        }
-                    } else if (
-                        //   对gif动图进行设置
-                        file_name.toLowerCase().endsWith(".gif")
-                    ) {
-                        // 清空插入的环境变量
-                        event.stopPropagation();
-                        ea.clear();
-                        ea.style.strokeStyle = "solid";
-                        ea.style.strokeColor = "transparent";
-                        ea.style.backgroundColor = "transparent";
-                        ea.style.fillStyle = 'solid';
-                        ea.style.roughness = 0;
-                        ea.style.strokeWidth = 1;
-                        ea.style.fontFamily = 4;
 
-                        let eagleGifFile = app.vault.getAbstractFileByPath(`${relativePath}/${destinationName}`);
-                        let id = await await ea.addIFrame(0, 0, 200, 100, 0, eagleGifFile);
-                        let el = ea.getElement(id);
-                        
-                        // ea.style.fillStyle = "solid";
-                        el.link = `[[${destinationName}]]`;
-
-                        await ea.addElementsToView(true, false, false);
                         if (ea.targetView.draginfoDiv) {
                             document.body.removeChild(ea.targetView.draginfoDiv);
                             delete ea.targetView.draginfoDiv;
                         }
 
-                    } else if (file_name.toLowerCase().endsWith(".url")) {
+                    } else if (fileName.toLowerCase().endsWith(".url")) {
                         // 对url文件采用文本加入json的连接形式
                         link = metadata.url;
                         let id = await ea.addText(0, 0, `🌐[${insert_txt.replace(".url", "")}](${link})`, { width: 400, box: true, wrapAt: 100, textAlign: "center", textVerticalAlign: "middle", box: "box" });
 
                         let el = ea.getElement(id);
                         // 将el.link的值设置为Eagle的回链
-                        el.link = `eagle://item/${eagle_id}`;
+                        el.link = `eagle://item/${eagleId}`;
                         await ea.addElementsToView(true, false, false);
                         if (ea.targetView.draginfoDiv) {
                             document.body.removeChild(ea.targetView.draginfoDiv);
@@ -318,22 +278,22 @@ el.ondrop = async function (event) {
                         }
                     } else if (
                         //   针对Office三件套
-                        file_name.toLowerCase().endsWith(".pptx") ||
-                        file_name.toLowerCase().endsWith(".ppt") ||
-                        file_name.toLowerCase().endsWith(".xlsx") ||
-                        file_name.toLowerCase().endsWith(".xls") ||
-                        file_name.toLowerCase().endsWith(".docx") ||
-                        file_name.toLowerCase().endsWith(".doc") ||
-                        file_name.toLowerCase().endsWith(".xmind") ||
-                        file_name.toLowerCase().endsWith(".pdf")
+                        fileName.toLowerCase().endsWith(".pptx") ||
+                        fileName.toLowerCase().endsWith(".ppt") ||
+                        fileName.toLowerCase().endsWith(".xlsx") ||
+                        fileName.toLowerCase().endsWith(".xls") ||
+                        fileName.toLowerCase().endsWith(".docx") ||
+                        fileName.toLowerCase().endsWith(".doc") ||
+                        fileName.toLowerCase().endsWith(".xmind") ||
+                        fileName.toLowerCase().endsWith(".pdf")
                     ) {
                         let InsertPDFImage = confirm("是否插入附件缩略图？");
-                        if (InsertPDFImage) {
-                            let destinationPath = `${basePath}/${relativePath}/${eagle_id}.png`;
 
+                        if (InsertPDFImage) {
+                            let destinationPath = `${basePath}/${relativePath}/${eagleId}.png`;
                             fs.copyFileSync(ThumbnailImage, destinationPath)
                             await new Promise((resolve) => setTimeout(resolve, 200)); // 暂停一会儿
-                            var id = await ea.addImage(0, 0, `${eagle_id}.png`);
+                            var id = await ea.addImage(0, 0, `${eagleId}.png`);
 
                         } else {
                             var id = await ea.addText(0, 0, `[[${insert_txt}]]`, { width: 400, box: true, wrapAt: 100, textAlign: "center", textVerticalAlign: "middle", box: "box" });
@@ -348,12 +308,69 @@ el.ondrop = async function (event) {
                             document.body.removeChild(ea.targetView.draginfoDiv);
                             delete ea.targetView.draginfoDiv;
                         }
+
+                    } else if (
+                        //   对gif、mp4等动态进行设置(可根据需要的格式自行添加)
+                        fileName.toLowerCase().endsWith(".gif") ||
+                        fileName.toLowerCase().endsWith(".mp4")
+                    ) {
+                        // 清空插入的环境变量
+                        event.stopPropagation();
+                        ea.clear();
+                        ea.style.strokeStyle = "solid";
+                        ea.style.strokeColor = "transparent";
+                        ea.style.backgroundColor = "transparent";
+                        ea.style.fillStyle = 'solid';
+                        ea.style.roughness = 0;
+                        ea.style.strokeWidth = 1;
+                        ea.style.fontFamily = 4;
+
+                        let eagleGifFile = app.vault.getAbstractFileByPath(`${relativePath}/${destinationName}`);
+                        let id = await await ea.addIFrame(0, 0, 500, 280, 0, eagleGifFile);
+                        let el = ea.getElement(id);
+
+                        // ea.style.fillStyle = "solid";
+                        el.link = `[[${destinationName}]]`;
+
+                        await ea.addElementsToView(true, false, false);
+                        if (ea.targetView.draginfoDiv) {
+                            document.body.removeChild(ea.targetView.draginfoDiv);
+                            delete ea.targetView.draginfoDiv;
+                        }
+                    } else if (
+                        //   对mp3等音频进行设置(可根据需要的格式自行添加)
+                        fileName.toLowerCase().endsWith(".mp3") ||
+                        fileName.toLowerCase().endsWith(".WAV")
+                    ) {
+                        // 清空插入的环境变量
+                        event.stopPropagation();
+                        ea.clear();
+                        ea.style.strokeStyle = "solid";
+                        ea.style.strokeColor = "transparent";
+                        ea.style.backgroundColor = "transparent";
+                        ea.style.fillStyle = 'solid';
+                        ea.style.roughness = 0;
+                        ea.style.strokeWidth = 1;
+                        ea.style.fontFamily = 4;
+
+                        let eagleGifFile = app.vault.getAbstractFileByPath(`${relativePath}/${destinationName}`);
+                        let id = await await ea.addIFrame(0, 0, 400, 80, 0, eagleGifFile);
+                        let el = ea.getElement(id);
+
+                        // ea.style.fillStyle = "solid";
+                        el.link = `[[${destinationName}]]`;
+
+                        await ea.addElementsToView(true, false, false);
+                        if (ea.targetView.draginfoDiv) {
+                            document.body.removeChild(ea.targetView.draginfoDiv);
+                            delete ea.targetView.draginfoDiv;
+                        }
                     } else {
                         // 其余统一插入eagle连接
                         let id = await ea.addText(0, 0, `[[${insert_txt}]]`, { width: 400, box: true, wrapAt: 100, textAlign: "center", textVerticalAlign: "middle", box: "box" });
                         let el = ea.getElement(id);
                         // 将el.link的值设置为Eagle的回链
-                        el.link = `eagle://item/${eagle_id}`;
+                        el.link = `eagle://item/${eagleId}`;
                         await ea.addElementsToView(true, false, false);
                         if (ea.targetView.draginfoDiv) {
                             document.body.removeChild(ea.targetView.draginfoDiv);
@@ -365,7 +382,6 @@ el.ondrop = async function (event) {
         }
     }
 };
-
 
 
 ```

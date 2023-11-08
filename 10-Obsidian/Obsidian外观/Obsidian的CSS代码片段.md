@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231011141537
+modified: 20231107234751
 aliases: [Obsidian css代码片段]
 ---
 
@@ -76,6 +76,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-悬浮状态栏]]
 
+### 搜索框
+
+- [[Obsidian样式-像VSCode一样显示搜索替换框]]
+
 ### 链接
 
 - [[Obsidian网址前自动加图标]]
@@ -104,6 +108,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 引用
 
 - [[Obsidian样式-隐藏块引用ID]]
+
+### 嵌入样式
+
+- [[Obsidian样式-简约的嵌入样式(Embed CSS)]]
 
 ### 表格样式
 
@@ -138,6 +146,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
 - [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
+- [[Obsidian样式-简单更改Excalidraw工具栏布局]]
 
 ## 自定义 CSS 简单上手指南
 

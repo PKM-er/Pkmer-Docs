@@ -41,21 +41,22 @@ modified: 20231029201909
 name: 缩减栏框下内部背景
 id: background-under-frame
 settings:
-	-
-		id: light-background-image
-		title: 浅色模式的图片
-		type: variable-text
-		default: url(https://picshack.net/ib/HfNO0TPdTq.png)
-	-
-		id: dark-background-image
-		title: 深色模式的图片
-		type: variable-text
-		default: url(https://picshack.net/ib/fBulilNYZ0.png)
-	-
-		id: top-tool-height
-		title: 阅读模式距离图片的高度
-		type: variable-text
-		default: 38px
+-
+  id: light-background-image
+  title: 浅色模式的图片
+  type: variable-text
+  default: url(https://picshack.net/ib/HfNO0TPdTq.png)
+-
+  id: dark-background-image
+  title: 深色模式的图片
+  type: variable-text
+  default: url(https://picshack.net/ib/fBulilNYZ0.png)
+-
+  id: top-tool-height
+  title: 阅读模式距离图片的高度
+  type: variable-text
+  default: 38px
+
 */
 
 body {
@@ -64,10 +65,24 @@ body {
   --dark-background-image: url(https://picshack.net/ib/fBulilNYZ0.png);
   --top-tool-height: 38px;
 }
-/* bsidian缩减栏下的笔记背景 */
+
+/* 适配Zomm插件：防止遮挡 */
+.markdown-source-view.mod-cm6 .cm-panels {
+  background-color: inherit;
+  color: inherit;
+  width: calc(var(--file-line-width) + 6%);
+  left: calc(47% - var(--file-line-width) / 2);
+  font-size: small;
+}
+
+/* 适配SNW插件的笔记引用按钮 */
+.snw-header-count-wrapper {
+    position:fixed;
+    right: calc(48% - var(--file-line-width) / 2);
+}
+
 
 /* 浅色主题 */
-
 .theme-light .view-content > .markdown-source-view.mod-cm6::after {
   /* 设置背景属性 */
   content: "";
@@ -97,7 +112,7 @@ body {
   /* 调整图片：模糊度、对比度、饱和度、亮度 */
   filter: blur(0px) contrast(1) saturate(1) brightness(1);
   opacity: 1;
-  z-index: 1;
+  z-index: 0;
   pointer-events: none;
   transition: none;
 
@@ -112,7 +127,10 @@ body {
   );
 }
 
-.theme-light .markdown-preview-view::after {
+.theme-light
+  .markdown-preview-view:not(.colse-show-bg-image):not(
+    .kanban-plugin__markdown-preview-view
+  ):not(.database-plugin__container)::after {
   /* 设置背景属性 */
   content: "";
   position: fixed;
@@ -142,7 +160,7 @@ body {
   /* 调整图片：模糊度、对比度、饱和度、亮度 */
   filter: blur(0px) contrast(1) saturate(1) brightness(1);
   opacity: 1;
-  z-index: 1;
+  z-index: 0;
   pointer-events: none;
   transition: none;
 
@@ -187,7 +205,7 @@ body {
   /* 调整图片：模糊度、对比度、饱和度、亮度 */
   filter: blur(0px) contrast(1) saturate(1) brightness(1);
   opacity: 1;
-  z-index: 1;
+  z-index: 0;
   pointer-events: none;
   transition: none;
 
@@ -202,7 +220,10 @@ body {
   );
 }
 
-.theme-dark .markdown-preview-view::after {
+.theme-dark
+  .markdown-preview-view:not(.colse-show-bg-image):not(
+    .kanban-plugin__markdown-preview-view
+  ):not(.database-plugin__container)::after {
   /* 设置背景属性 */
   content: "";
   position: fixed;
@@ -232,7 +253,7 @@ body {
   /* 调整图片：模糊度、对比度、饱和度、亮度 */
   filter: blur(0px) contrast(1) saturate(1) brightness(1);
   opacity: 1;
-  z-index: 1;
+  z-index: 0;
   pointer-events: none;
   transition: none;
 
@@ -246,4 +267,5 @@ body {
     var(--background-primary) 100%
   );
 }
+
 ```
