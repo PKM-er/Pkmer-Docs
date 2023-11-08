@@ -1,16 +1,13 @@
 ---
 uid: 20231102200103
 title: Obsidian 样式 - 实时编辑下大纲等级符号居右以及 Border 标题 CSS
-tags:
-  - CSS美化
-  - Border
-  - 标题样式
+tags: [CSS美化, Border, 标题样式]
 description: 实时编辑下大纲等级符号居右以及 Border 标题 CSS
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231102200139
+modified: 20231108172009
 ---
 
 # Obsidian 样式 - 实时编辑下大纲等级符号居右以及 Border 标题 CSS
@@ -31,9 +28,9 @@ modified: 20231102200139
 }
 ```
 
-## 大纲等级符号居右(推荐)
+## 大纲等级符号居右 (推荐)
 
-![Pasted image 20231102194826](https://cdn.pkmer.cn/images/Pasted%20image%2020231102194826.png!pkmer)
+![Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS](https://cdn.pkmer.cn/images/Pasted%20image%2020231102194826.png!pkmer)
 
 ```css
 .cm-formatting.cm-header {
@@ -47,7 +44,7 @@ modified: 20231102200139
 ## Border 的标题 CSS
 
 > [!tip]+ 该 CSS 来自 [Border主题](https://github.com/Akifyss/obsidian-border)
-> ![Pasted image 20231102195723](https://cdn.pkmer.cn/images/Pasted%20image%2020231102195723.png!pkmer)
+> ![Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS](https://cdn.pkmer.cn/images/Pasted%20image%2020231102195723.png!pkmer)
 
 ```css
 .view-content .markdown-source-view .inline-title {
