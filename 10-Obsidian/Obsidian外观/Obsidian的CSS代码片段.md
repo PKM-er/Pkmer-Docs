@@ -49,6 +49,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-自定义选中文本部分高亮颜色]]
 - [[Obsidian样式-使用CSS-HTML实现分栏]]
 - [[Obsidian样式-笔记页内标题居中]]
+- [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-分割线样式美化]]
 - [[Obsidian样式-给笔记添加随机背景图]]
 - [[Obsidian样式-段落首行增加缩进]]
