@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231013233235
+modified: 20231108105302
 ---
 
 # Obsidian 主题常见问题
@@ -52,6 +52,12 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
   cursor: unset;/*这里原设置是 cursor: pointer; 修改为cursor: unset; 即可*/
 }
 ```
+
+#### 书本样式的 Callout 样式（by 熊猫）
+
+![image.png](https://cdn.pkmer.cn/images/20231108105203.png!pkmer)
+
+答：Minimal 主题的一种 callout，可以添加 CSS 来修改，[[Obsidian样式-Callout样式]]；其他类型的样式可以在 PKMer 社区的 [[Obsidian的CSS代码片段]] 查看。
 
 #### 如何获取指定地区的天气？
 

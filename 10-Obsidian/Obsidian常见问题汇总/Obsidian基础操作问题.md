@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231027183341
+modified: 20231108105919
 ---
 
 # Obsidian 基础操作
@@ -268,6 +268,10 @@ body {
 - 可以使用 [[obsidian-hider]] 插件
 	- 关闭 tooltips 即可
 
+### 为什么我的 Front-matter 显示不完全（by OS）
+
+答：如果是阅读模式不显示，可以参看 设置 → 编辑器 → 显示 Front-matter 打开对应选项
+
 ### Obsidian 如何在编辑中显示行号
 
 - 期望&需求
@@ -443,6 +447,27 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 - 解法：可以在笔记内切成阅读模式，这样 html 标记就不会影响搜索结果了
 
 ## 编辑
+
+### 页内标题能否隐藏？（by 阿岑）
+
+答：
+
+1. 通过设置修改：在【设置 - 外观 - 高级】关闭相关功能
+![image.png](https://cdn.pkmer.cn/images/20231108105645.png!pkmer)
+
+2. 通过 css 设置
+
+```
+/* 关闭显示标题栏：colse_show_title */
+.colse_show_title.markdown-preview-view .mod-header .inline-title {
+  display: none;
+  line-height: 0px;
+  /* text-align: right; */
+}
+.view-content .colse_show_title .inline-title {
+  display: none;
+}
+```
 
 ### Obsidian 为什么我的标题不生效
 

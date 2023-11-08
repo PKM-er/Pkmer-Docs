@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231104235725
+modified: 20231108104252
 ---
 
 # Obsidian 插件常见问题
@@ -190,6 +190,14 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 ### Excalidraw 支持二合一平板手写笔使用吗？(by 苯环)
 
 回答：支持。可以在手写笔模式和光标模式之间进行切换。
+
+### Excalidraw 怎么插入图片链接和图片本身（by OS）
+
+回答：
+
+- 使用鼠标拖拽：插入的是图片附件的链接
+- 使用鼠标拖拽 + 按住 shift：插入的是图片本身
+- 直接使用 Excalidraw 工具栏的图片插入工具：插入的是图片本身，并会增加一个新的图片附件
 
 ### Excalidraw 如何识别手写字？ (by 熊猫)
 
