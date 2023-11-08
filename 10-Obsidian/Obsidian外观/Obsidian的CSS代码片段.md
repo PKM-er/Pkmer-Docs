@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231107234751
+modified: 20231108173123
 aliases: [Obsidian css代码片段]
 ---
 
@@ -38,6 +38,12 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[回归原始的Obsidian图标]]
 - [[Obsidian样式-自定义待办图标]]
+
+### 界面元素
+
+- [[Obsidian样式-像VSCode一样显示搜索替换框]]
+- [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
+- [[Obsidian样式-悬浮两侧菜单栏]]
 
 ### 编辑器
 
@@ -139,6 +145,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[通过css在移动端右下角添加源码和阅读转换按钮]]
 - [[通过css修改安卓上的搜索框宽度]]
+- [[obsidian安卓上利用css修改界面字体]]
 
 ### 插件样式
 

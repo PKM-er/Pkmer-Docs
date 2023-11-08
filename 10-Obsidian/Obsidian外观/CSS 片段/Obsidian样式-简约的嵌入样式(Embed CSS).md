@@ -1,20 +1,18 @@
 ---
 uid: 20231107234536
 title: Obsidian 样式 - 简约的嵌入样式 (Embed CSS)
-tags:
-  - 卡片样式
-  - Obsidian
-description: 一个比较简约的嵌入文档的样式
+tags: [卡片样式, Obsidian]
+description: Obsidian 样式 - 简约的嵌入样式 (Embed CSS)，一个比较简约的嵌入文档的样式
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231107234604
+modified: 20231108171826
 ---
 
 # Obsidian 样式 - 简约的嵌入样式 (Embed CSS)
 
-> 一个比较简约的嵌入文档的样式
+一个比较简约的嵌入文档的样式
 
 ```css
 /* === 预览和编辑模式下的卡片样式 == */

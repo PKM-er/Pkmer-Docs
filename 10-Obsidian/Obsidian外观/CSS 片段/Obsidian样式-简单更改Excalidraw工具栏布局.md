@@ -1,24 +1,24 @@
 ---
 uid: 20231014145217
 title: Obsidian 样式 - 简单更改 Excalidraw 工具栏布局
-tags: []
-description: 
+tags: [Obsidian, css, 演示, Excalidraw, 工具栏]
+description: Obsidian 样式 - 简单更改 Excalidraw 工具栏布局
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231107231909
+modified: 20231108171939
 ---
 
 # Obsidian 样式 - 简单更改 Excalidraw 工具栏布局
 
-![Pasted image 20231014145356](https://cdn.pkmer.cn/images/202310202131648.png!pkmer)
+![Obsidian 样式 - 简单更改 Excalidraw 工具栏布局](https://cdn.pkmer.cn/images/202310202131648.png!pkmer)
 
 简单改了一下 Excalidraw 布局，优化了一下工具栏的布局摆放。首先，调整 Library 面板的位置，以免遮挡侧边的工具栏。其次，增大 Excalidraw 画板上的图标大小，方便查看或触控屏操作。图形选择工具栏设置了 2 种不同的摆放，**布局一是为了方便 Library 的停靠**，**布局二是方便触控屏或者平板使用时切换图形选择工具**。根据需要，可以进一步调整图标大小和布局。
 
 ## 布局一：方便 Library 固定
 
-![Pasted image 20231014143146](https://cdn.pkmer.cn/images/202310202134659.png!pkmer)
+![Obsidian 样式 - 简单更改 Excalidraw 工具栏布局](https://cdn.pkmer.cn/images/202310202134659.png!pkmer)
 
 ```css
 /* ====侧边栏的容器修改==== */

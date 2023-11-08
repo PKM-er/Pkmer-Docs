@@ -7,32 +7,32 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231029201909
+modified: 20231108171912
 ---
 
 # Obsidian 样式：缩减栏宽模式下美化笔记内部背景
 
 ## 效果展示
 
-![图片33](https://cdn.pkmer.cn/images/%E5%9B%BE%E7%89%8733.png!pkmer)
+![Obsidian样式-缩减栏宽模式下美化笔记内部背景](https://cdn.pkmer.cn/images/%E5%9B%BE%E7%89%8733.png!pkmer)
 
 ## 打开缩减栏宽设置
 
 在设置的编辑器中进行设置：
 
-![Pasted image 20231022150312](https://cdn.pkmer.cn/images/Pasted%20image%2020231022150312.png!pkmer)
+![Obsidian样式-缩减栏宽模式下美化笔记内部背景](https://cdn.pkmer.cn/images/Pasted%20image%2020231022150312.png!pkmer)
 
 可以配合 Editor Width Slider 插件进行调整笔记实际大小的宽度。
 
 ## 可以在 Style Setting 插件进行更换壁纸
 
-![Pasted image 20231022151213](https://cdn.pkmer.cn/images/Pasted%20image%2020231022151213.png!pkmer)
+![Obsidian样式-缩减栏宽模式下美化笔记内部背景](https://cdn.pkmer.cn/images/Pasted%20image%2020231022151213.png!pkmer)
 
 由于阅读和编辑模式的 css 有点不一致，在阅读模式下背景图片可能会遮挡工具栏，这时可通过调整 **阅读模式具体图片的高度** 的大小来进行一定的调整了。
 
 > [!tip]+ 如何制作适合的壁纸
 > 可以在 PPT 中设置图片摆放到两侧，适当修改一下，选择进行对称也行
-> ![Pasted image 20231022150929](https://cdn.pkmer.cn/images/Pasted%20image%2020231022150929.png!pkmer)
+> ![Obsidian样式-缩减栏宽模式下美化笔记内部背景](https://cdn.pkmer.cn/images/Pasted%20image%2020231022150929.png!pkmer)
 
 ## CSS 片段
 

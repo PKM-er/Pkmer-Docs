@@ -1,40 +1,37 @@
 ---
 uid: 20231108003544
 title: 自定义 Excalidraw 脚本 - 画板局部或者全局播放动画
-tags:
-  - Excalidraw
-  - Excalidraw脚本
+tags: [Excalidraw, Excalidraw脚本]
 description: 动态演示Excalidraw的画板元素
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231108003655
+modified: 20231108172441
 ---
 
 # 自定义 Excalidraw 脚本 - 画板局部或者全局播放动画
 
-
-![Memos20231107115642_动态演示](https://cdn.pkmer.cn/images/Memos20231107115642_%E5%8A%A8%E6%80%81%E6%BC%94%E7%A4%BA.png!pkmer)
+![自定义 Excalidraw 脚本 - 画板局部或者全局播放动画](https://cdn.pkmer.cn/images/Memos20231107115642_%E5%8A%A8%E6%80%81%E6%BC%94%E7%A4%BA.png!pkmer)
 
 > [!note]+ 基本思路
 > 把全部元素 (排除 frame 框架) 的透明度设置为 0，逐步显示，播放顺序先以 X 轴从左到右，再 Y 轴从上到下，对文字采用字母、单词、或者整段进行播放。
 
 ## 选中元素后局部播放
 
-![](https://cdn.pkmer.cn/images/GIF-231108%20010414.gif!pkmer)
+![自定义 Excalidraw 脚本 - 画板局部或者全局播放动画](https://cdn.pkmer.cn/images/GIF-231108%20010414.gif!pkmer)
 
 ## 不选中元素可以全局播放
 
-![](https://cdn.pkmer.cn/images/Memos20231107115642_%E5%8A%A8%E6%80%81%E6%BC%94%E7%A4%BA.png!pkmer)
+![自定义 Excalidraw 脚本 - 画板局部或者全局播放动画](https://cdn.pkmer.cn/images/Memos20231107115642_%E5%8A%A8%E6%80%81%E6%BC%94%E7%A4%BA.png!pkmer)
 
 ## 文字播放的选项
 
 > 在 Excalidraw 插件设置里面进行设置
 
-![](https://cdn.pkmer.cn/images/202311080117061.png!pkmer)
+![自定义 Excalidraw 脚本 - 画板局部或者全局播放动画](https://cdn.pkmer.cn/images/202311080117061.png!pkmer)
 
-![](https://cdn.pkmer.cn/images/GIF-231108%20011029.gif!pkmer)
+![自定义 Excalidraw 脚本 - 画板局部或者全局播放动画](https://cdn.pkmer.cn/images/GIF-231108%20011029.gif!pkmer)
 
 ## playExcalidrawAnimation 脚本
 

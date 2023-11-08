@@ -1,21 +1,20 @@
 ---
 uid: 20231107230507
 title: Obsidian 样式 - 像 VSCode 一样显示搜索替换框
-tags:
-  - 美化样式
+tags: [美化样式]
 description: 修改文本搜索替换的边框
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231107230722
+modified: 20231108172022
 ---
 
 # Obsidian 样式 - 像 VSCode 一样显示搜索替换框
 
 悬浮搜索和替换的窗口像 VSCode 那样显示：
 
-![Pasted image 20231107215540](https://cdn.pkmer.cn/images/Pasted%20image%2020231107215540.png!pkmer)
+![Obsidian样式-像VSCode一样显示搜索替换框](https://cdn.pkmer.cn/images/Pasted%20image%2020231107215540.png!pkmer)
 
 ```css
 body {  
