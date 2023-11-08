@@ -255,7 +255,7 @@ function match_zotero_link(text) {
 }
 
 function match_zotero_comment(text) {
-    const regex = /\)\)([^ ].*)/;
+    const regex = /.*\)\).*\)\)([\s\S]*)/;
     const matches = text.match(regex);
     return matches ? matches[1] : "";
 }
