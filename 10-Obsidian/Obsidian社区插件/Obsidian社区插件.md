@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231105004044
+modified: 20231110001703
 ---
 
 # Obsidian 社区插件
@@ -160,6 +160,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
 
+- [[00_Thino 用户指南]]：memos 全新版本~tada~
 - [[obsidian-memos]]：提供一个简易轻巧的笔记和灵感收集方式
 - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
@@ -282,7 +283,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 	- [[Excalidraw局部嵌入Obsidian]]
 	- [[自定义Excalidraw脚本-画板局部或者全局播放动画]]
 	- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
-	-  [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
+	- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
 - [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
 
 ### 窗口&视图模式
