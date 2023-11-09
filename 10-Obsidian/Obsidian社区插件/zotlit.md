@@ -24,11 +24,15 @@ Zotero 和 Obsidian 都是我个人十分认可的知识管理工具，当然两
 > [!Note] 插件名片
 > - 插件名称：ZotLit
 > - 插件作者：AidenLx
-> - 插件说明：导入 Zotero 库中的引文，并创建文献笔记
+> - 插件说明：与 Zotero 集成的插件，可以创建文献笔记，并从 Zotero 库中插入引用。
 > - 插件分类：['obsidian 插件 ', ' 格式化排版 ', 'word']
 > - 项目地址：[点我访问](https://github.com/PKM-er/obsidian-zotlit)
 > - 国内下载地址：[下载安装](https://github.com/PKM-er/obsidian-zotlit)
 
+ZotLit 是一个第三方项目，旨在通过为 Obsidian 和 Zotero 提供一组社区插件，促进 Obsidian.md 和 Zotero 之间的集成。
+
+- [完整文档](https://obzt.aidenlx.top/)
+- [中文文档](https://obzt.aidenlx.top/zh-CN/)
 ## 使用
 
 鉴于作者 A 大已经搭建了交互的使用手册，所以不在 PKMer 网站上进行处理，并跟 A 大对英文手册进行了本地化处理，方便更广大用户能够顺利使用。
@@ -62,3 +66,7 @@ Zotero 和 Obsidian 都是我个人十分认可的知识管理工具，当然两
 - ✍️ 轻松创建文献笔记
 	- 快速切换器可创建文献笔记，并从 Zotero 库中的任何文献插入引文标识符。
 	- 从 Zotero 项目页面打开 Obsidian 中的文献笔记。
+
+免责声明：本项目中的插件由第三方开发者维护，与 Obsidian 或 Zotero 无关。这意味着由于 Zotero 和/或 Obsidian 的更新，插件可能随时失效。虽然它们不打算对您的 Zotero 数据库执行任何写操作，但仍存在数据丢失的风险。因此，请在使用此插件之前和期间为您的数据进行适当的备份，尤其是在使用测试版时。
+
+如果您有任何问题或建议，请随时 [发起讨论](https://github.com/PKM-er/obsidian-zotlit/discussions/new/choose) 或 [创建问题](https://github.com/PKM-er/obsidian-zotlit/issues/new)。

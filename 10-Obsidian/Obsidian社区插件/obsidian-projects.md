@@ -23,6 +23,8 @@ Obsidian Projects 插件是一款项目管理插件，由于支持多种视图�
 > - 插件项目地址：[点我跳转](https://github.com/marcusolsson/obsidian-projects)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-projects)
 
+![Projects](https://cdn.pkmer.cn/covers/obsidian-projects.PNG!pkmer)
+
 ## 效果&特性
 
 提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求

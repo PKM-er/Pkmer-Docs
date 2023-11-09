@@ -464,7 +464,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 ### 第三方集成和联动
 
-- [[zotlit]]：最完美的 Zotero 和 Obsidian 联动插件
+- [[10-Obsidian/Obsidian社区插件/zotlit]]：最完美的 Zotero 和 Obsidian 联动插件
 - [[obsidian-zotero-desktop-connector]]
 - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
 - [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
