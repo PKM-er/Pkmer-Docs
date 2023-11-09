@@ -7,7 +7,7 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231025142825
+modified: 20231109142518
 ---
 
 # PKMer 社区 FAQ
@@ -230,6 +230,30 @@ OS 回答：
 OS 回答：
 
 - 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[memos-changelog]]
+
+#### 获取安装包
+
+- 如果你已经购买内测来支持社区发展，可以进入个人中心
+![image.png](https://cdn.pkmer.cn/images/20231109142108.png!pkmer)
+
+![image.png](https://cdn.pkmer.cn/images/20231109142144.png!pkmer)
+
+#### 提示验证是怎么回事
+
+- 这是考虑到内测用户权力，社区认为杰出贡献和为了支持社区长久发展，购买内测同学，应该享有这样的权力。
+- 验证方式确保了，不会所有人获得插件后都能二次分发，稀释用户利益。
+
+#### 验证流程
+
+- 打开插件后会提示此内容
+![image.png](https://cdn.pkmer.cn/images/20231109141944.png!pkmer)
+- 点击“去验证”会跳转到浏览器中 pkmer 的个人中心【如图】
+	- 如果你没有登录，或者登录过期，需要你在网站上先登录
+![image.png](https://cdn.pkmer.cn/images/20231109142108.png!pkmer)
+
+- 点击 插件权益下的 【获取内测版】
+- 点击激活 Thino
+![image.png](https://cdn.pkmer.cn/images/20231109142144.png!pkmer)
 
 ## PKMer 只是为爱发电吗？
 
