@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20231108011953
+modified: 20231110210605
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
@@ -119,6 +119,8 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 这样深度融合进 Obsidian，配合 Markdown 语法，方便的嵌入，高度自定义的 Excalidraw 又怎能不爱？
 
 ## 社区实践
+
+> EA 脚本开发的介绍： [[ExcalidrawAutomate index]]
 
 - [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
 - [[Excalidraw局部嵌入Obsidian]]
