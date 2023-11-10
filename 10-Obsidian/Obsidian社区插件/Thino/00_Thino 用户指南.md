@@ -1,17 +1,17 @@
 ---
 uid: 20231109234455
-title: 用户指南之指北
-tags: 
-description: Thino 用户指南之指北
+title: Thino 用户使用指南
+tags: []
+description: Thino 用户使用指南
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20231109235426
+modified: 20231110171442
 id: dacd7a42e067cce1
 ---
 
-# 用户指南之指北
+# Thino 用户使用指南
 
 ![00_Thino 用户指南](https://cdn.pkmer.cn/images/Pasted%20image%2020231109211823.png!pkmer)
 

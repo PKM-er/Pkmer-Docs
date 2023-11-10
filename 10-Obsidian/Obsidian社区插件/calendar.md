@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230911145309
+modified: 20231110174725
 ---
 
 # Obsidian 插件：Calendar 简单使用的阅历和任务管理方式
@@ -167,6 +167,10 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 ```
 
 > **注意：**在覆盖类时，特别重要的是要在前面加上 `#calendar-container` 以避免 Obsidian 内部的任何意外更改！
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=917931100&bvid=BV1gu4y1a7NR&cid=1318537949&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 > [!Tip] 相关推荐
 > - [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
