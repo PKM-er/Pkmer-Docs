@@ -81,4 +81,4 @@ modified: 20230905141540
 
 ## 视频教程
 
-<iframe src="https://player.bilibili.com/player.html?aid=275576617&bvid=BV18F41167yM&cid=1256098653&page=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=917931100&bvid=BV1gu4y1a7NR&cid=1318537949&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
