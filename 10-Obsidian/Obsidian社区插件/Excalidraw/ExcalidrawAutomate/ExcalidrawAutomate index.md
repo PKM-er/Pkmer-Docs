@@ -1,9 +1,12 @@
 ---
 uid: 20231110205513
 title: ExcalidrawAutomate index
-tags: []
-description: 
-author: 
+tags:
+  - Excalidraw脚本
+  - 开发者指南
+  - Excalidraw
+description: ExcalidrawAutomate脚本的开发介绍
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
