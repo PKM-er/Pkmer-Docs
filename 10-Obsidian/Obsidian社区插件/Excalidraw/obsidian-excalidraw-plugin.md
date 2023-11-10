@@ -122,9 +122,10 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 
 ## 社区实践
 
+- [[Excalidraw局部嵌入Obsidian]]
 - [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
 - [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
-- [[Excalidraw局部嵌入Obsidian]]
+- [[自定义Excalidraw脚本-快速插入时间戳笔记]]
 
 ## 支持开源开发者
 
