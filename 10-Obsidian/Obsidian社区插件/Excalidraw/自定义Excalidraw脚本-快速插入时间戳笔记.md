@@ -2,7 +2,7 @@
 uid: 20231110155136
 title: 自定义 Excalidraw 脚本 - 快速插入时间戳笔记
 tags: [Excalidraw脚本, Excalidraw, 自动化]
-description: 当笔记名不重要时，改脚本可以帮助您在画板中可以更加快速添加时间戳笔记。
+description: 当笔记名不重要时，该脚本可以帮助您在画板中可以更加快速添加时间戳笔记。
 author: 熊猫别熬夜
 type: other
 draft: false
