@@ -12,7 +12,7 @@ modified: 20231110162536
 
 # 自定义 Excalidraw 脚本 - 快速插入时间戳笔记
 
-> [!caution]+ 脚本借助了 QuickAdd 的 API，需要配合 QuickAdd 插件是来使用
+> [!caution]+ 脚本借助了 QuickAdd 的 API，需要配合 QuickAdd 插件来使用
 
 ## 脚本设置
 
