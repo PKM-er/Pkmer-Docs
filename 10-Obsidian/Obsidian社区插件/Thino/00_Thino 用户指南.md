@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20231110171442
+modified: 20231111180314
 id: dacd7a42e067cce1
 ---
 
@@ -53,7 +53,9 @@ id: dacd7a42e067cce1
         - [[Thino 设置项#进阶设置|进阶设置]]
 - [[obsidian-memos]]
 	- [[memos-changelog]]
-
+- Thino 样式专区
+	- [[Obsidian样式-给Thino加个滚动条]]
+	- [[Obsidian样式-给Thino搭配10种热力图颜色]]
 ---
 
 ## 声明

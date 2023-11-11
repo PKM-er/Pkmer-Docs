@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231108173123
+modified: 20231111180235
 aliases: [Obsidian css代码片段]
 ---
 
@@ -144,7 +144,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 移动端
 
 - [[通过css在移动端右下角添加源码和阅读转换按钮]]
-- [[通过css修改安卓上的搜索框宽度]]
+- [[Obsidian样式-通过css修改安卓上的搜索框宽度]]
 - [[obsidian安卓上利用css修改界面字体]]
 
 ### 插件样式
@@ -155,6 +155,11 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+
+#### Thino
+
+- [[Obsidian样式-给Thino加个滚动条]]
+- [[Obsidian样式-给Thino搭配10种热力图颜色]]
 
 ## 自定义 CSS 简单上手指南
 
