@@ -125,6 +125,7 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 - [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
 - [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
 - [[自定义Excalidraw脚本-画板局部或者全局播放动画]]
+- [[自定义Excalidraw脚本-快速插入时间戳笔记]]
 
 ## 支持开源开发者
 
