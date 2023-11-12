@@ -175,7 +175,8 @@ async function openEditPrompt(ocrText) {
 				}
 			},
 		],
-		10
+		10,
+		true
 	);
 	if (!ocrTextEdit) {
 		ocrTextEdit = ocrText;
