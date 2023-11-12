@@ -1,16 +1,16 @@
 ---
 uid: 20231019163314
-title: 通过 css 修改安卓上的搜索框宽度
+title: Obsidian 样式：通过 css 修改安卓上的搜索框宽度
 tags: [css, 搜索, 增强, 交互]
 description: 通过css修改安卓上的搜索框宽度，以方便使用前一个后一个按钮
 author: calmwaves
 type: other
 draft: false
 editable: false
-modified: 20231108172028
+modified: 20231111180139
 ---
 
-# 通过 css 修改安卓上的搜索框宽度
+# Obsidian 样式：通过 css 修改安卓上的搜索框宽度
 
 ## 效果展示
 

@@ -28,7 +28,7 @@ modified: 20231110174725
 
 ## 特性&效果
 
-![image.png](https://cdn.pkmer.cn/images/20230429233807.png!pkmer)
+![cover](https://cdn.pkmer.cn/images/20230429233807.png!pkmer)
 
 - 轻松跳转到任何**每日笔记**。
 - 为没有笔记的日期创建新的每日笔记。（这对于需要补充旧笔记或者提前计划未来笔记非常有帮助！这将使用您当前的**每日笔记**模板！）
@@ -41,7 +41,7 @@ modified: 20231110174725
 
 日历视图上单击对应的日期，在对话框中点击（create），就会显示当天的日记。
 
-![image.png](https://cdn.pkmer.cn/images/20230507112212.png!pkmer)
+![Obsidian 插件：Calendar 简单使用的阅历和任务管理方式](https://cdn.pkmer.cn/images/20230507112212.png!pkmer)
 
 #### 日记的格式
 
@@ -49,7 +49,7 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 如果你想要用 Calendar 生成日记的日期格式、存放位置，甚至是日记模板做控制，就直接在核心插件【日记】中设置即可！
 
-![image.png](https://cdn.pkmer.cn/images/20230507112737.png!pkmer)
+![Obsidian 插件：Calendar 简单使用的阅历和任务管理方式](https://cdn.pkmer.cn/images/20230507112737.png!pkmer)
 
 >[!Tip] 提示
 >- Calendar 插件的一些功能迁移来核心插件【日记】
@@ -60,7 +60,7 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 - show week number：这样你的日历视图就会多出来一栏，用于显示月历中当前【周数】
 
-![image.png](https://cdn.pkmer.cn/images/20230507114324.png!pkmer)
+![Obsidian 插件：Calendar 简单使用的阅历和任务管理方式](https://cdn.pkmer.cn/images/20230507114324.png!pkmer)
 
 和日记一样，单击【周数】就可以创建属于你的周复盘啦：
 
@@ -68,7 +68,7 @@ Calendar 中生成的日记，**就是按照核心插件中的日记模式生成
 
 依赖：
 
-![image.png](https://cdn.pkmer.cn/images/20230507115326.png!pkmer)
+![Obsidian 插件：Calendar 简单使用的阅历和任务管理方式](https://cdn.pkmer.cn/images/20230507115326.png!pkmer)
 
 - **Weekly note format**
 
