@@ -16,7 +16,8 @@ modified: 20231112215527
 # 自定义 Excalidraw 脚本 -OCR 自动提取图片文字 (可批量可修改)
 
 > [!note] [[Draw-202311120936演示画板|演示画板]]
-> ![](https://cdn.pkmer.cn/images/20231112.gif!pkmer)
+> ![20231112](https://github.com/PandaNocturne/Pkmer-Docs/assets/84729049/cc0d6c64-106e-44bc-9d83-6ca8de20b1e2)
+
 
 > 对 Excalidraw 的图片进行 OCR，并保留文本信息在图片中，可以编辑修改、重新 OCR 和进行批量识别。
 
