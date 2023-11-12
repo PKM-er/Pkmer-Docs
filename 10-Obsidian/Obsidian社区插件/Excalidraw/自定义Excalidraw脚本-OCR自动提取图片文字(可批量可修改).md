@@ -15,19 +15,20 @@ modified: 20231112215527
 
 # 自定义 Excalidraw 脚本 -OCR 自动提取图片文字 (可批量可修改)
 
-> [!note] [[Draw-202311120936演示画板|演示画板]]
-> ![20231112](https://github.com/PandaNocturne/Pkmer-Docs/assets/84729049/cc0d6c64-106e-44bc-9d83-6ca8de20b1e2)
-
-
+> [!cite|wide-3]+ 演示效果
+> ![20231112](https://cdn.pkmer.cn/images/20231112.gif!pkmer)
 > 对 Excalidraw 的图片进行 OCR，并保留文本信息在图片中，可以编辑修改、重新 OCR 和进行批量识别。
 
 ## 脚本思路
 
 - 对图片添加弹窗，如果不存在 OCR 文本则进行 OCR，然后保留在 ocrText 的属性中，弹窗可以添加。
-- 对图片进行 OCR，并保存数据为 el.ocrText(对象的属性值)
+- 对图片进行 OCR，并保存数据为到指定 Cache 文件夹为 Json 数据 (参考 Text Extractor 的数据存储结构)
 	- OCR 借助的 [Text Extractor插件的API](https://github.com/scambier/obsidian-text-extractor#using-text-extractor-as-a-dependency-for-your-plugin)
 
-在控制台的使用：
+> [!note] Text Extractor 设置参数如下：
+> ![Pasted image 20231113025247](https://cdn.pkmer.cn/images/Pasted%20image%2020231113025247.png!pkmer)
+
+在控制台的使用 Text Extractor 的 API 案例：
 
 ```js
 
@@ -44,9 +45,8 @@ const text = await getTextExtractor().extractText(file)
 console.log(text)
 ```
 
-> 不过如果你不想要 Text Extractor 的自动识别，可以在脚本设置里面管理
-> 默认是关闭的，请手动开启。
-> ![7495104f04a6cd479a17dcc21dedfa8](https://cdn.pkmer.cn/images/7495104f04a6cd479a17dcc21dedfa8.png!pkmer)
+> 不过如果你不想要 Text Extractor 的自动识别，可以在脚本设置里面进行设置
+> ![Pasted image 20231113025405](https://cdn.pkmer.cn/images/Pasted%20image%2020231113025405.png!pkmer)
 
 ## 脚本代码：Text Extractor
 
@@ -54,28 +54,47 @@ console.log(text)
 
 ```js
 await ea.addElementsToView(); //to ensure all images are saved into the file
-// // 在Obsidian中导入QuickAdd的API
-// const quickaddApi = this.app.plugins.plugins.quickadd.api;
+
+const fs = require('fs');
+const path = require('path');
 
 let settings = ea.getScriptSettings();
 //set default values on first run
-if (!settings["TextExtractor"]) {
+if (!settings["TextCachePath"]) {
 	settings = {
 		"TextExtractor": {
 			value: false,
 			description: "是否调用Text Extractor 插件API自动对图片进行OCR<br>安装Text Extractor 插件即可，注意设置识别语言"
+		},
+		"TextCachePath": {
+			value: "",
+			description: "图片OCR的文本数据存储位置"
 		}
 	};
 	ea.setScriptSettings(settings);
 }
 
+// 获取库的基本路径
+const basePath = (app.vault.adapter).getBasePath();
+const textCachePath = `${basePath}/${settings["TextCachePath"].value}`;
+
+if (!fs.existsSync(textCachePath)) {
+	fs.mkdirSync(textCachePath, { recursive: true });
+	console.log('路径已创建');
+} else {
+	console.log('路径已存在');
+}
+
 const img = ea.getViewSelectedElements().filter(el => el.type === "image");
+
 const nums = img.length;
+
 let batchRecognition = false;
+
 if (nums === 0) {
 	new Notice("No image is selected");
 	return;
-} else if (nums > 1) {
+} else if (nums > 2) {
 	new Notice(`检测到${nums}张图片\n进行批量识别`, 500);
 	batchRecognition = true;
 }
@@ -84,31 +103,41 @@ if (nums === 0) {
 let n = 0;
 
 for (let i of img) {
+	let data = {
+		filePath: "",
+		fileId: "",
+		ocrText: "",
+	};
+
 	const currentPath = ea.plugin.filesMaster.get(i.fileId).path;
 	const file = app.vault.getAbstractFileByPath(currentPath);
-	let ocrText = "";
+	const jsonPath = path.join(textCachePath, `${i.fileId}.json`);
 
+	jsonData = readJsonData(jsonPath, data);
+
+	console.log(jsonData.valueOf());
+
+	let ocrText = "";
 	// 计数器加一
 	n++;
 
-	if (i.ocrText) {
-		new Notice(`第${n}张图片已存在OCR文本`, 500);
-		ocrText = i.ocrText;
+	if (jsonData.ocrText) {
+		new Notice(`图片已存在OCR文本`, 500);
+		ocrText = jsonData.ocrText;
+
 	} else if (settings["TextExtractor"].value) {
-		new Notice(`第${n}张图片OCR中......`);
+		new Notice(`图片OCR中......`);
 		const text = await getTextExtractor().extractText(file);
-		ocrText = processText(text);
-		// console.log(ocrText);
 		new Notice(`第${n}张片已完成OCR`, 500);
+		ocrText = processText(text);
 	} else {
 		ocrText = "";
 	}
 
 	if (!batchRecognition) {
 		const { insertType, ocrTextEdit } = await openEditPrompt(ocrText);
-
 		// 不管复制还是修改，都会保存
-		i.ocrText = ocrTextEdit;
+		ocrText = ocrTextEdit;
 
 		if (insertType == "copyText") {
 			copyToClipboard(ocrTextEdit);
@@ -116,15 +145,19 @@ for (let i of img) {
 		} else if (insertType) {
 			new Notice(`完成修改`, 500);
 		}
-	} else {
-		i.ocrText = ocrText;
 	}
 
+	data.filePath = file.path;
+	data.fileId = i.fileId;
+	data.ocrText = ocrText;
+
+	fs.writeFileSync(jsonPath, JSON.stringify(data));
+
 	await ea.copyViewElementsToEAforEditing([i]);
-	await ea.addElementsToView(false, true);
+	await ea.addElementsToView(false, true, true);
 }
 
-if (batchRecognition) new Notice(`✅已完成批量OCR`, 1000);
+if (batchRecognition) new Notice(`✅已完成批量OCR`, 3000);
 await ea.addElementsToView();
 
 function getTextExtractor() {
@@ -157,7 +190,7 @@ async function openEditPrompt(ocrText) {
 	let insertType = "";
 	let ocrTextEdit = await utils.inputPrompt(
 		"OCR文本",
-		"可以自行修改文字保存在图片的属性中，单个空格会重新识别，其他符号如换行则不会自动识别，默认退出为识别的文字",
+		"可以自行修改文字保存在图片的属性中，输入一个空格会重新识别，注意清空并不会清除数据",
 		ocrText,
 		[
 			{
@@ -173,17 +206,18 @@ async function openEditPrompt(ocrText) {
 					insertType = "insertImage";
 					return;
 				}
-			},
+			}
 		],
 		10,
 		true
 	);
-	if (!ocrTextEdit) {
-		ocrTextEdit = ocrText;
-	} else if (ocrTextEdit == " ") {
-		ocrTextEdit = "";
-	}
 
+	if (!ocrTextEdit) {
+		ocrTextEdit = ocrText
+	} else if (ocrTextEdit == " ") {
+		ocrTextEdit = ""
+	} 
+	
 	return { insertType, ocrTextEdit };
 }
 
@@ -200,4 +234,15 @@ function copyToClipboard(extrTexts) {
 	document.body.removeChild(txtArea);
 }
 
+function readJsonData(jsonPath, data) {
+	if (!fs.existsSync(jsonPath)) {
+		console.log('文件不存在');
+		fs.writeFileSync(jsonPath, JSON.stringify(data));
+	} else {
+		console.log('文件已存在');
+	}
+	const existingDataString = fs.readFileSync(jsonPath, 'utf8');
+	let jsonData = JSON.parse(existingDataString);
+	return jsonData;
+}
 ```
