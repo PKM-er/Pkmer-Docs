@@ -36,6 +36,18 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 
 下面简单说说这个插件的功能和设置。
 
+## 基本信息
+
+插件的基本信息如下（来自 [[zotlit|Obsidian ZotLit]]）。
+
+> [!Note] 插件名片
+> - 插件名称：ZotLit
+> - 插件作者：AidenLx
+> - 插件说明：与 Zotero 集成的插件，可以创建文献笔记，并从 Zotero 库中插入引用。
+> - 插件分类：['obsidian 插件 ', ' 格式化排版 ', 'word']
+> - 项目地址：[点我访问](https://github.com/PKM-er/obsidian-zotlit)
+> - 国内下载地址：[下载安装](https://github.com/PKM-er/obsidian-zotlit)
+
 ## 两键引用
 
 1. 在 Obsidian 笔记中输入两个键：`[@`
