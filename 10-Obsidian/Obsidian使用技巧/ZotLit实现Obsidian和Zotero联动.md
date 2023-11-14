@@ -1,13 +1,13 @@
 ---
 uid: 20231114190856
-title: ZotLit：Obsidian 与 Zotero 联动，有 [@ 就够了
+title: ZotLit：Obsidian 与 Zotero 联动，有 \[@ 就够了
 tags: [Obsidian, 插件, Zotero, 导入]
 description: ZotLit插件让用户能以非常方便快捷的方式将Zotero文献笔记导入Obsidian中，兼具便利性和灵活性，是Obsidian和Zotero联动的又一利器。
 author: alephpiece
 type: other
 draft: false
 editable: false
-modified: 20231114191104
+modified: 20231114213203
 ---
 
 # ZotLit：Obsidian 与 Zotero 联动，有 \[@ 就够了
@@ -15,6 +15,7 @@ modified: 20231114191104
 用 Obsidian 做笔记，同时又用 Zotero 管理各种文献的同学可能需要两者相互连接。
 
 Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比如：
+
 - [[obsidian-zotero-desktop-connector|Zotero Integration]]
 - [[obsidian-citation-plugin_readme|Citations]] 配合 Zotero Mdnotes
 
@@ -27,6 +28,7 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 ## 联动需求
 
 我想要的 Obsidian + Zotero 工作流是这样的：
+
 - 用 Zotero 阅读电子书、RSS，做注释、做笔记；
 - 用 Obsidian 做其他任何笔记，记录想法；
 - 所有笔记都可在 Obsidian 这边访问；
@@ -125,6 +127,7 @@ PDF 注释的导出格式也可以通过模板调整，灵活度很高。
 所有模板都可以从 ZotLit 设置的 "Template" 选项卡打开。
 
 目前我主要用到这几个模板：
+
 - 文献笔记名（Note filename），定义导出文献笔记的 Obsidian 笔记名。
 - 文献笔记内容（Note content），定义导出文献笔记要包含哪些 Zotero 条目内容。
 - 主要引用格式（Primary Markdown citation），定义在 Obsidian 中的 citation 格式。
@@ -170,6 +173,6 @@ it.authors
 
 ## 后记
 
-自从用了 ZotLit，满脑子都是`[@ [@ [@ [@`，再也回不去了~
+自从用了 ZotLit，满脑子都是 `[@ [@ [@ [@`，再也回不去了~
 
 ![[Pasted image 20231114200745.png|700]]
