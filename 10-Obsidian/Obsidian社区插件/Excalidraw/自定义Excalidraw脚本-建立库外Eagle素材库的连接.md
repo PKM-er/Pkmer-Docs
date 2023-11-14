@@ -1,18 +1,13 @@
 ---
 uid: 20231014173618
 title: 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
-tags:
-  - Eagle
-  - Excalidraw
-  - 工作流
-  - 工作流搭建
-  - Excalidraw脚本
+tags: [Eagle, Excalidraw, 工作流, 工作流搭建, Excalidraw脚本]
 description: 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231107231913
+modified: 20231115000436
 ---
 
 # 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
@@ -90,7 +85,8 @@ for (i of img) {
 }
 ```
 
-> [!tip]+ 如果你是Mac系统，请把start 换为 open
+> [!tip]+ 如果你是 Mac 系统，请把 start 换为 open
+
 ### 保存为 md 文件保存到指定文件夹
 
 修改完路径后将下面代码保存为 md 文件，修改放入 Excalidraw 指定的 Scripts 的文件夹中，在 Excalidraw 的画板中的工具面板中就会出现一个齿轮按钮，需要时点击运行就可以了。

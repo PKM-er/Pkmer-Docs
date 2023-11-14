@@ -7,24 +7,26 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231110162536
+modified: 20231115000429
 ---
 
 # 自定义 Excalidraw 脚本 - 快速插入时间戳笔记
 
-> [!caution]+ 脚本借助了 QuickAdd 的 API，需要配合 QuickAdd 插件来使用
+![](https://cdn.pkmer.cn/images/20231114235649.png!pkmer)
+
+> [!caution] 脚本借助了 QuickAdd 的 API，需要配合 QuickAdd 插件来使用
 
 ## 脚本设置
 
-![Pasted image 20231110152901](https://cdn.pkmer.cn/images/Pasted%20image%2020231110152901.png!pkmer)
+![](https://cdn.pkmer.cn/images/20231114235707.png!pkmer)
 
 ## 快速添加时间戳笔记
 
-![Pasted image 20231110153740](https://cdn.pkmer.cn/images/Pasted%20image%2020231110153740.png!pkmer)
+![](https://cdn.pkmer.cn/images/2.gif!pkmer)
 
 > 按时间戳形式命名，利用 quickaddApi.date.now("YYYY-MM-DD") 等命名建立的，请根据需求来设置
 
-![Pasted image 20231110153706](https://cdn.pkmer.cn/images/Pasted%20image%2020231110153706.png!pkmer)
+![](https://cdn.pkmer.cn/images/20231114235250.png!pkmer)
 
 配置好路径后，可以设置笔记名
 
@@ -32,28 +34,89 @@ modified: 20231110162536
 
 ## 不同模式下的嵌入形式
 
-![Pasted image 20231110154454](https://cdn.pkmer.cn/images/Pasted%20image%2020231110154454.png!pkmer)
+![](https://cdn.pkmer.cn/images/20231114235256.png!pkmer)
 
-Card(图标类型卡片)、Frame(嵌入式 Frame)、Link(笔记 WiKi 链接)、Image(SVG 文档图片)
+Card(图标类型卡片)、Frame(嵌入式 Frame)、Link(笔记 WiKi 链接)、Image(SVG 文档图片)，Box 则是画板内部的边框文字
 
-> Card 模式下会嵌入图标 (配置路径下的图标)
-> 无：ESC 或回车退出，其他类型则直接创建 (bug)
+> Card 模式下会嵌入图标 (需要配置路径下的图标)
 
 ### 设置 Card 模式下图标
 
-![Pasted image 20231110154422](https://cdn.pkmer.cn/images/Pasted%20image%2020231110154422.png!pkmer)
+![](https://cdn.pkmer.cn/images/20231114235302.png!pkmer)
 
 ## 快速删除本地笔记
 
-选择或框选笔记后，再次运行脚本就可以删除本地笔记和画板元素了。
+选择或框选笔记后，再次运行脚本就可以删除本地笔记和画板元素了，可批量操作。
+
+![](https://cdn.pkmer.cn/images/2%201.gif!pkmer)
 
 ## JS 脚本
 
 ```js
+
 const quickaddApi = this.app.plugins.plugins.quickadd.api;
 // const ea = ExcalidrawAutomate;
 const path = require("path");
 const fs = require("fs");
+
+// 设置quickerInsetNote模板设置
+let settings = ea.getScriptSettings();
+//set default values on first run
+if (!settings["QuickerInsertZKCardPath"]) {
+	settings = {
+		"QuickerInsertZKCardPath": {
+			value: "D-每日生活记录/QuickNotes",
+			description: "TimeStampNote的存放路径(相对路径)<br>eg：D-每日生活记录/QuickNotes<br>空值：默认为当前笔记路径"
+		},
+		"QuickerInsertZKCardTemplate": {
+			value: "YYYY/YYYYMM/YYYYMMDD/YYYYMMDDHHMMSS",
+			description: "TimeStampNote默认名称，若为存储路径用/隔开<br>eg：YYYYMM/YYYYMMDDHHMMSS"
+		},
+		"QuickerInsertZKCardYaml": {
+			value: "---\ncssclasses:\n  - Excalidraw-Markdown\n---\n\n",
+			height: "250px",
+			description: "设定笔记模板"
+		},
+		"QuickerInsertZKCardImagePath": {
+			value: "Y-图形文件存储/Excalidraw图形/Icons",
+			description: "配置图标的文件夹",
+		},
+		"Default Insert Type": {
+			value: "Box",
+			valueset: ["Card", "Frame", "Link", "Image", "Box", "无"],
+			description: "Card(图标类型卡片)、Frame(嵌入式Frame)、Link(笔记链接)、Image(SVG图片)<br>无：ESC或回车退出，其他类型则直接创建",
+		}
+	};
+	ea.setScriptSettings(settings);
+}
+
+// 存储路径
+const folderPath = settings["QuickerInsertZKCardPath"].value ? settings["QuickerInsertZKCardPath"].value : path.dirname(app.workspace.getActiveFile().path);
+
+console.log(folderPath);
+
+// 调用函数生成时间戳
+const timestamp = quickaddApi.date.now(settings["QuickerInsertZKCardTemplate"].value);
+console.log(timestamp);
+
+// 创建文件夹路径下的Markdown文件，fname为文件名
+const Yaml = settings["QuickerInsertZKCardYaml"].value;
+
+
+// 设置默认值
+let fileAlistName = "";
+let InsertType = settings["Default Insert Type"].value;
+
+listFiles = fileListByPath(settings["QuickerInsertZKCardImagePath"].value);
+listFiles.sort((a, b) => a.localeCompare(b));
+let listFileNames = [];
+for (i of listFiles) {
+	listFileNames.push(path.basename(i));
+}
+console.log(listFileNames);
+
+let insertImageName = listFileNames[0];
+console.log(insertImageName);
 
 ea.setView("active");
 const trashFiles = ea.getViewSelectedElements().filter(el => el.link);
@@ -61,96 +124,32 @@ const trashFiles = ea.getViewSelectedElements().filter(el => el.link);
 // 获取库所有文件列表
 const files = app.vault.getFiles();
 
-// 获取库的基本路径
-const basePath = (app.vault.adapter).getBasePath();
-
 if (Object.keys(trashFiles).length) {
-	if (!confirm(`是否删除本地文件`)) return;
+
 	for (let trashFile of trashFiles) {
-		let files2 = files.filter(f => path.basename(f.path).includes(trashFile.link.replace(/\[\[/, "").replace(/\]\]/, "")));
+		filePaths = getFilePath(files, trashFile);
+		let isConfirm = await quickaddApi.yesNoPrompt("是否删除本地文件", `${filePaths}`);
 
-		let filePaths = files2.map((f) => f.path)[0];
-
-		if (confirm(`是否删除：\n${filePaths}`)) {
+		if (isConfirm) {
 			// 删除元素
 			ea.deleteViewElements(ea.getViewSelectedElements().filter(el => el.id == trashFile.id));
-			ea.clear();
-			await ea.addElementsToView(false, false);
+
+			// ea.clear();
+			await ea.addElementsToView(false, true);
 			await ea.getExcalidrawAPI().history.clear(); //避免撤消/重做扰乱
 
 			// 删除文件
-			let absFilePath = `${basePath}/${filePaths}`;
-			fs.unlink(absFilePath, (err) => {
-				if (err) {
-					console.error(err);
-					return;
-				}
-				console.log("文件已成功删除");
-			});
+			if ((app.vault.adapter).exists(filePaths)) {
+				(app.vault.adapter).trashLocal(filePaths);
+			}
 		}
 
 	}
+	await ea.addElementsToView(false, true);
+
+	return; // 提前结束函数的执行
 
 } else {
-
-	// 设置quickerInsetNote模板设置
-	let settings = ea.getScriptSettings();
-	//set default values on first run
-	if (!settings["QuickerInsertZKCardPath"]) {
-		settings = {
-			"QuickerInsertZKCardPath": {
-				value: "D-每日生活记录/QuickNotes",
-				description: "TimeStampNote的存放路径(相对路径)<br>eg：D-每日生活记录/QuickNotes<br>空值：默认为当前笔记路径"
-			},
-			"QuickerInsertZKCardTemplate": {
-				value: "YYYY/YYYYMM/YYYYMMDD/YYYYMMDDHHMMSS",
-				description: "TimeStampNote默认名称，若为存储路径用/隔开<br>eg：YYYYMM/YYYYMMDDHHMMSS"
-			},
-			"QuickerInsertZKCardYaml": {
-				value: "---\ncssclasses:\n  - Excalidraw-Markdown\n---\n\n",
-				height: "250px",
-				description: "设定笔记模板"
-			},
-			"QuickerInsertZKCardImagePath": {
-				value: "Y-图形文件存储/Excalidraw图形/Icons",
-				description: "配置图标的文件夹",
-			},
-			"Default Insert Type": {
-				value: "无",
-				valueset: ["Card", "Frame", "Link", "Image", "无"],
-				description: "Card(图标类型卡片)、Frame(嵌入式Frame)、Link(笔记链接)、Image(SVG图片)<br>无：ESC或回车退出，其他类型则直接创建",
-			}
-		};
-		ea.setScriptSettings(settings);
-	}
-
-	// 存储路径
-	const folderPath = settings["QuickerInsertZKCardPath"].value ? settings["QuickerInsertZKCardPath"].value : path.dirname(app.workspace.getActiveFile().path);
-
-	console.log(folderPath);
-
-	// 调用函数生成时间戳
-	const timestamp = quickaddApi.date.now(settings["QuickerInsertZKCardTemplate"].value);
-	console.log(timestamp);
-
-	// 创建文件夹路径下的Markdown文件，fname为文件名
-	const Yaml = settings["QuickerInsertZKCardYaml"].value;
-
-
-	// 设置默认值
-	let fileAlistName = "";
-	let InsertType = settings["Default Insert Type"].value;
-
-	listFiles = fileListByPath(settings["QuickerInsertZKCardImagePath"].value);
-	listFiles.sort((a, b) => a.localeCompare(b));
-	let listFileNames = [];
-	for (i of listFiles) {
-		listFileNames.push(path.basename(i));
-	}
-	console.log(listFileNames);
-
-	let insertImageName = listFileNames[0];
-	console.log(insertImageName);
 
 	const customControls = (container) => {
 		new ea.obsidian.Setting(container)
@@ -191,6 +190,10 @@ if (Object.keys(trashFiles).length) {
 			{
 				caption: "Image",
 				action: () => { InsertType = "Image"; return; }
+			},
+			{
+				caption: "Box",
+				action: () => { InsertType = "Box"; return; }
 			}
 		],
 		1,
@@ -213,30 +216,34 @@ if (Object.keys(trashFiles).length) {
 
 
 	// 设置默认输入文本
-	let inputText = "";
+	// let inputText = "";
 
 	// 添加Markdown文件为图片到当前文件
 	if (InsertType == "Card") {
-		inputText = await quickaddApi.wideInputPrompt("输入笔记内容", "输入笔记内容，ESC退出输入，Ctrl + Enter结束并插入文档");
-		await app.fileManager.createNewFile(rootFolder, filePath, "md", inputText ? `${Yaml}\n${inputText}` : `${Yaml}`);
+		let { insertType, inputText } = await openEditPrompt();
+		if (!insertType) return;
 
+		await app.fileManager.createNewFile(rootFolder, filePath, "md", inputText ? `${Yaml}\n${inputText}` : `${Yaml}`);
 		let id = await ea.addImage(0, 0, insertImageName);
 		let el = ea.getElement(id);
 		el.link = `[[${fileName}]]`;
-		await ea.addElementsToView(true, true);
 
 	} else if (InsertType == "Link") {
-		inputText = await quickaddApi.wideInputPrompt("输入笔记内容", "输入笔记内容，ESC退出输入，Ctrl + Enter结束并插入文档");
+		let { insertType, inputText } = await openEditPrompt();
+		if (!insertType) return;
+
 		await app.fileManager.createNewFile(rootFolder, filePath, "md", inputText ? `${Yaml}\n${inputText}` : `${Yaml}`);
 
 		let id = await ea.addText(0, 0, fileAlistName ? `[[${fileName}|${fileAlistName}]]` : `[[${fileName}|📝]]`);
 
 		let el = ea.getElement(id);
 		el.link = `[[${fileName}]]`;
-		await ea.addElementsToView(true, true);
+		el.fontSize = 80;
+
 
 	} else if (InsertType == "Frame") {
-		inputText = await quickaddApi.wideInputPrompt("输入笔记内容", "输入笔记内容，ESC退出输入，Ctrl + Enter结束并插入文档");
+		let { insertType, inputText } = await openEditPrompt();
+		if (!insertType) return;
 
 		// 设定固定Yaml
 		let file = await app.fileManager.createNewFile(rootFolder, filePath, "md", inputText ? `${Yaml}\n${inputText}` : `${Yaml}`);
@@ -253,10 +260,11 @@ if (Object.keys(trashFiles).length) {
 		let id = await ea.addIFrame(0, 0, 400, 200, 0, file);
 		let el = ea.getElement(id);
 		el.link = `[[${fileName}]]`;
-		await ea.addElementsToView(true, true);
+
 
 	} else if (InsertType == "Image") {
-		inputText = await quickaddApi.wideInputPrompt("输入笔记内容", "输入笔记内容，ESC退出输入，Ctrl + Enter结束并插入文档");
+		let { insertType, inputText } = await openEditPrompt();
+		if (!insertType) return;
 
 		// 插入图片建议不用Yaml
 		let file = await app.fileManager.createNewFile(rootFolder, filePath, "md", inputText ? `${Yaml}\n${inputText}` : "");
@@ -264,11 +272,39 @@ if (Object.keys(trashFiles).length) {
 		let id = await ea.addImage(0, 0, file);
 		let el = ea.getElement(id);
 		el.link = `[[${fileName}]]`;
-		await ea.addElementsToView(true, true);
 
-	} else if (fileStyles == 'Note') {
+	} else if (InsertType == "Box") {
+		let { insertType, inputText } = await openEditPrompt();
+		if (!insertType) return;
+
+		ea.style.backgroundColor = "transparent";
+		ea.style.strokeColor = "#1e1e1e";
+		ea.style.fillStyle = 'solid';
+		ea.style.roughness = 0;
+		// ea.style.roundness = { type: 3 }; // 圆角
+		ea.style.strokeWidth = 2;
+		ea.style.fontFamily = 4;
+		ea.style.fontSize = 20;
+
+		let id = await ea.addText(0, 0, inputText,
+			{
+				width: 500,
+				box: true,
+				wrapAt: 90,
+				textAlign: "left",
+				textVerticalAlign: "middle",
+				box: "box"
+			});
+
+		let el = ea.getElement(id);
+
+	} else {
+		return;
 
 	};
+
+	await ea.addElementsToView(true, true);
+	ea.moveViewElementToZIndex(el.id, 99);
 
 }
 
@@ -278,5 +314,44 @@ function fileListByPath(filePath) {
 	let fileNames = files.map((f) => f.path);
 
 	return fileNames;
+}
+
+// 打开文本编辑器
+async function openEditPrompt(Text = "") {
+	// 打开编辑窗口
+	let insertType = true;
+	let inputText = "";
+	inputText = await utils.inputPrompt(
+		"输入笔记内容",
+		"输入笔记内容，ESC退出输入，Ctrl + Enter",
+		Text,
+		[
+			{
+				caption: "取消编辑",
+				action: () => {
+					insertType = false;
+					return;
+				}
+			},
+			{
+				caption: "完成编辑",
+				action: () => {
+					insertType = true;
+					return;
+				}
+			}
+		],
+		10,
+		true
+	);
+	return { insertType, inputText };
+}
+
+// 由文件列表和el元素获取文件路径(相对路径)
+function getFilePath(files, el) {
+	let files2 = files.filter(f => path.basename(f.path).replace(".md", "").endsWith(el.link.replace(/\[\[/, "").replace(/\|.*]]/, "").replace(/\]\]/, "").replace(".md", "")));
+	let filePath = files2.map((f) => f.path)[0];
+	console.log(filePath);
+	return filePath;
 }
 ```
