@@ -179,8 +179,13 @@ Obsidian 除了支持之前所说的 [[Markdown]] 基本语法，还有一些基
 
 ### 视频教程
 
+#### 基础优化
+
 <iframe src="https://player.bilibili.com/player.html?aid=663178705&bvid=BV1xa4y1Q7Js&cid=1327096234&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
+#### 自定义美化
+
+<iframe src="https://player.bilibili.com/player.html?aid=493403209&bvid=BV1XN411M7hg&cid=1331265281&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="80%"> </iframe>
 ## 键盘文本语法
 
 键盘文本也不一定非得是键盘按键，也可以作为**着重文本**突出显示。一般适合你要描述**快捷键**，按键有关的时候，推荐使用，当然使用其他强化语法也是可以的。
