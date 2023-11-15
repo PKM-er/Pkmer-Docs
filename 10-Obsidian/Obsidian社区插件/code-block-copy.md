@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230825094106
+modified: 20231115150140
 ---
 
 # Obsidian 插件：Copy button for code blocks 给代码块添加一键复制按钮
@@ -21,12 +21,13 @@ modified: 20230825094106
 > - 插件作者：jdbrice
 > - 插件说明：在阅读模式中，为代码块右上角添加一个复制按钮，点击后自动复制代码块内容到剪贴板。
 > - 插件分类：[' 样式工具 ', ' 界面相关 ', ' 编辑工具 ', 'obsidian 插件 ']
-> - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
+> - 插件项目地址：[点我跳转]([GitHub - jdbrice/obsidian-code-block-copy](https://github.com/jdbrice/obsidian-code-block-copy)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?code-block-copy)
 > - 适配：仅适用于 Obsidian v0.9.7 及以上
 
 >[!Warning] 注意
 >- 兼容：这个插件目前运行尚算可以。
+>- 项目作者已经在 2022.11.20 停止了项目维护
 >- 已经被 Obsidian 官方支持，即你不需要安装插件，也可以使用同等的功能。
 
 ## 效果&特性
