@@ -1,25 +1,20 @@
 ---
 uid: 20231014173618
 title: 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
-tags:
-  - Eagle
-  - Excalidraw
-  - 工作流
-  - 工作流搭建
-  - Excalidraw脚本
+tags: [Eagle, Excalidraw, 工作流, 工作流搭建, Excalidraw脚本]
 description: 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231107231913
+modified: 20231115000436
 ---
 
 # 自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接
 
 ![自定义Excalidraw脚本-建立库外Eagle素材库的连接](https://cdn.pkmer.cn/images/202310202158767.png!pkmer)
 
-> [!caution]+ 温馨提醒
+> [!caution] 温馨提醒
 > 这个脚本是作用在 Obsidian 笔记库外的 Eagle 库，Eagle 在导入文件时会创建很多其他数据文件，并不适应于在 Obsidian 中建立，可以尝试用 Billfish 管理 Obsidian 内部的图片。
 >
 > 这脚本联动 Obsidian 笔记外的好处就是当你删除 Eagle 库中素材时 (素材库定期整理)，Obsidian 的内部笔记并不受影响，而且 Eagle 作为素材管理器非常优秀，可以快速预览和编辑图片，管理很多类型的文档，包括用浏览器拓展插件剪藏网页，批量收集网页画板或者图片，以图搜图，用标签和标星管理文件等等，具体功能可以看看相关介绍。
@@ -40,14 +35,14 @@ modified: 20231107231913
 
 ### 通过图片跳转 Eagle 原文件
 
-> [!tip]+ Eagle 的外部回链
+> [!tip] Eagle 的外部回链
 > Eagle 也存在外部链接，默认为 `eagle://item/{文件名}`，文件会在 Eagle 中打开。
 > 故当你选择一个图片时，再次单击这个脚本，就会在 Eagle 中打开这个图片。
 > ![自定义Excalidraw脚本-建立库外Eagle素材库的连接](https://cdn.pkmer.cn/images/202310202201951.gif)
 
 ## OpenSelectImage 脚本
 
-> [!tip]+ OpenSelectImage
+> [!tip] OpenSelectImage
 > 默认软件打开画板中选中的图片，适用于当您想用默认软件编辑笔记画板中的图片时，采用的一个快捷方式。
 > ![自定义Excalidraw脚本-建立库外Eagle素材库的连接](https://cdn.pkmer.cn/images/202310202201572.png!pkmer)
 
@@ -90,7 +85,8 @@ for (i of img) {
 }
 ```
 
-> [!tip]+ 如果你是Mac系统，请把start 换为 open
+> [!tip]+ 如果你是 Mac 系统，请把 start 换为 open
+
 ### 保存为 md 文件保存到指定文件夹
 
 修改完路径后将下面代码保存为 md 文件，修改放入 Excalidraw 指定的 Scripts 的文件夹中，在 Excalidraw 的画板中的工具面板中就会出现一个齿轮按钮，需要时点击运行就可以了。
