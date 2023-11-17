@@ -7,26 +7,26 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231115000429
+modified: 20231117151634
 ---
 
 # 自定义 Excalidraw 脚本 - 快速插入时间戳笔记
 
-![](https://cdn.pkmer.cn/images/20231114235649.png!pkmer)
+![自定义 Excalidraw 脚本 - 快速插入时间戳笔记](https://cdn.pkmer.cn/images/20231114235649.png!pkmer)
 
 > [!caution] 脚本借助了 QuickAdd 的 API，需要配合 QuickAdd 插件来使用
 
 ## 脚本设置
 
-![](https://cdn.pkmer.cn/images/20231114235707.png!pkmer)
+![自定义 Excalidraw 脚本 - 快速插入时间戳笔记](https://cdn.pkmer.cn/images/20231114235707.png!pkmer)
 
 ## 快速添加时间戳笔记
 
-![](https://cdn.pkmer.cn/images/2.gif!pkmer)
+![自定义 Excalidraw 脚本 - 快速插入时间戳笔记](https://cdn.pkmer.cn/images/234.gif!pkmer)
 
 > 按时间戳形式命名，利用 quickaddApi.date.now("YYYY-MM-DD") 等命名建立的，请根据需求来设置
 
-![](https://cdn.pkmer.cn/images/20231114235250.png!pkmer)
+![自定义 Excalidraw 脚本 - 快速插入时间戳笔记](https://cdn.pkmer.cn/images/20231114235250.png!pkmer)
 
 配置好路径后，可以设置笔记名
 
@@ -34,7 +34,7 @@ modified: 20231115000429
 
 ## 不同模式下的嵌入形式
 
-![](https://cdn.pkmer.cn/images/20231114235256.png!pkmer)
+![自定义 Excalidraw 脚本 - 快速插入时间戳笔记](https://cdn.pkmer.cn/images/20231114235256.png!pkmer)
 
 Card(图标类型卡片)、Frame(嵌入式 Frame)、Link(笔记 WiKi 链接)、Image(SVG 文档图片)，Box 则是画板内部的边框文字
 
@@ -42,13 +42,13 @@ Card(图标类型卡片)、Frame(嵌入式 Frame)、Link(笔记 WiKi 链接)、I
 
 ### 设置 Card 模式下图标
 
-![](https://cdn.pkmer.cn/images/20231114235302.png!pkmer)
+![自定义 Excalidraw 脚本 - 快速插入时间戳笔记](https://cdn.pkmer.cn/images/20231114235302.png!pkmer)
 
 ## 快速删除本地笔记
 
 选择或框选笔记后，再次运行脚本就可以删除本地笔记和画板元素了，可批量操作。
 
-![](https://cdn.pkmer.cn/images/2%201.gif!pkmer)
+![自定义 Excalidraw 脚本 - 快速插入时间戳笔记](https://cdn.pkmer.cn/images/234.gif!pkmer)
 
 ## JS 脚本
 
