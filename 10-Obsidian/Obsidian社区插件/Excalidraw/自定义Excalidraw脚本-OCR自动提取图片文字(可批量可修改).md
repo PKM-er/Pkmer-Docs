@@ -7,13 +7,13 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231115000533
+modified: 20231117150253
 ---
 
 # 自定义 Excalidraw 脚本 -OCR 自动提取图片文字 (可批量可修改)
 
-> [!cite] 演示画板
-> ![20231112](https://cdn.pkmer.cn/images/20231112.gif!pkmer)
+> [!note]
+![自定义 Excalidraw 脚本 -OCR 自动提取图片文字 (可批量可修改)](https://cdn.pkmer.cn/images/234.gif!pkmer)
 
 > 对 Excalidraw 的图片进行 OCR，并保留文本信息在图片中，可以编辑修改、重新 OCR 和进行批量识别。
 
@@ -44,13 +44,13 @@ console.log(text)
 
 > [!note] 自动识别设置
 > 首先默认自动识别是关闭的，在装了 Text Extractor 后你可以开启，可以在脚本设置里面管理
-> ![Pasted image 20231114231347](https://cdn.pkmer.cn/images/Pasted%20image%2020231114231347.png!pkmer)
+> ![自定义 Excalidraw 脚本 -OCR 自动提取图片文字 (可批量可修改)](https://cdn.pkmer.cn/images/Pasted%20image%2020231114231347.png!pkmer)
 
 ## OcrText 保存方式
 
 默认只会保留图片编辑后的数据文件到画板的 Yaml 区域：
 
-![Pasted image 20231114231939](https://cdn.pkmer.cn/images/Pasted%20image%2020231114231939.png!pkmer)
+![自定义 Excalidraw 脚本 -OCR 自动提取图片文字 (可批量可修改)](https://cdn.pkmer.cn/images/Pasted%20image%2020231114231939.png!pkmer)
 
 > 如果图片不存在，该 Yaml 对应的值会在下一次运行脚本的时候删除，减少冗余数据
 
@@ -60,7 +60,7 @@ console.log(text)
 
 > 📌注意：开启后，需要配置数据保存的文件夹，相对库的相对路径
 
-![Pasted image 20231114231614](https://cdn.pkmer.cn/images/Pasted%20image%2020231114231614.png!pkmer)
+![自定义 Excalidraw 脚本 -OCR 自动提取图片文字 (可批量可修改)](https://cdn.pkmer.cn/images/Pasted%20image%2020231114231614.png!pkmer)
 
 ## 脚本代码：Text Extractor
 
