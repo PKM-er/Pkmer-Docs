@@ -295,7 +295,7 @@ it.authors
 .map(author => `[[${author}]]`)
 .join(', ')
 %>
-> - **Date**: <%= it.year ?? it.date %>
+> - **Date**: <%= it.date ?? it.year %>
 > - **DOI**: <%= it.DOI %>
 > - **Groups**: <%= it.collections %>
 > - **Tags**: <%=
@@ -343,7 +343,7 @@ it.authors
 > 直接输出作者列表用 `<%= it.authors %>`。
 > 这里是一段包裹在 `<%=` 和 `%>` 之间的 JavaScript 代码。
 
-- 日期从 Zotero 条目的 `year` 或 `date` 获取，优先选 `year`。
+- 日期从 Zotero 条目的 `date` 或 `year` 获取，优先选 `date`。
 
 ```Eta
 > - **Date**: <%= it.year ?? it.date %>
