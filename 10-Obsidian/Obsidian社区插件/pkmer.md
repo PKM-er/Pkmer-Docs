@@ -7,7 +7,7 @@ author: PKMer
 type: basic
 draft: false
 editable: false
-modified: 20231025143009
+modified: 20231118103837
 ---
 
 # Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
@@ -68,6 +68,12 @@ modified: 20231025143009
 PKMer 从 Obsidian 官方发布的插件信息列表中，找到最近更新的插件版本，并获取最新的插件，放在云端以便下载 (这涉及到服务器、对象存储和 CDN 费用)。
 
 在本插件内，用户点击下载按钮，如果用户 Obsidian 插件目录中，不存在名为插件 id 的目录，则会新建一个目录，在该插件内解压插件内容到该目录。如果存在名为插件 id 的目录，则会直接解压插件内容覆盖里面的 `main.js`, `manifest.json` 和 `styles.css` 三个文件，并不会删除和覆盖 `data.json` 等配置文件。
+
+### 常见问题
+
+感谢社区用户自行提交的指南，特此独立明示：
+
+[[新手安装PKMer插件常见问题指南]]
 
 ## 相关视频
 
