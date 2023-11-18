@@ -55,7 +55,7 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 1. 在 Obsidian 笔记中输入两个键：`[@`
 2. 在弹出的搜索框中搜索文献，回车！
 
-![[Pasted image 20231114194239.gif|700]]
+![[ZotLit_insert_citation.gif|700]]
 
 引用格式可自定义。
 
@@ -64,7 +64,7 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 1. 打开命令面板选择 "ZotLit: Open quick switcher for literature notes"，回车！
 2. 弹出搜索框，搜索文献，回车！
 
-![[Pasted image 20231114194351.gif|700]]
+![[ZotLit_import_literature_note.gif|700]]
 
 立马跳转到 Zotero 导出内容（如果不存在会立即创建并导出）。
 
@@ -86,11 +86,11 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 
 在 Zotero 中修改注释会实时更新到 Obsidian。
 
-![[Pasted image 20231114201004.gif|700]]
+![[ZotLit_sync_zotero_annotations.gif|700]]
 
 从 Obsidian 可跳转到 Zotero PDF 注释所在页面。
 
-![[Pasted image 20231114194830.gif|700]]
+![[ZotLit_obsidian跳转zotero.gif|700]]
 
 ## 笔记可分别导出
 
