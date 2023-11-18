@@ -12,6 +12,9 @@ modified: 20231118183506
 
 # ZotLit：文献引用的流畅体验
 
+> [!caution] 声明
+> 撰写本文时，我的 ZotLit 版本为 1.1.4，插件后续更新可能未反映在本文中。
+
 [[zotlit|Obsidian ZotLit]] 的 `[@` 语法带来了如同原生 Obsidian 内链一样的体验。如果说 ZotLit 的 `[@` 是手指的享受，那么 ZotLit 灵活的模板一定是眼睛的享受。
 
 **如果笔记中的文献引用是 author-year 格式，会不会倍感舒适？**
