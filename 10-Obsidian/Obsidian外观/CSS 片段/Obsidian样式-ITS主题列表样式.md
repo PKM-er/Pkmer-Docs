@@ -1,3 +1,15 @@
+---
+uid: 20230905115138
+title: Obsidian ITS主题列表样式
+tags: 
+description: Obsidian ITS主题列表样式
+author: proudBenzene
+type: other
+draft: false
+editable: false
+modified: 20231024002322
+---
+
 # ITS 主题列表样式
 
 ## 引言
@@ -10,4 +22,4 @@
 
 ## CSS 片段获取
 
-[[[PKMer]ITS-Lists.css]]
+[Gist 查看链接](https://gist.github.com/windily-cloud/e48c0081f84125f02b29a29bf6f25396)
