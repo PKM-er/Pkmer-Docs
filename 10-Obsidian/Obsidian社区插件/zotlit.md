@@ -7,7 +7,7 @@ author: OS,AidenLx
 type: other
 draft: false
 editable: false
-modified: 20230907115549
+modified: 20231118225759
 ---
 
 # Obsidian 插件：ZotLit 最完美的 Zotero 和 Obsidian 联动插件
@@ -29,10 +29,15 @@ Zotero 和 Obsidian 都是我个人十分认可的知识管理工具，当然两
 > - 项目地址：[点我访问](https://github.com/PKM-er/obsidian-zotlit)
 > - 国内下载地址：[下载安装](https://github.com/PKM-er/obsidian-zotlit)
 
-ZotLit 是一个第三方项目，旨在通过为 Obsidian 和 Zotero 提供一组社区插件，促进 Obsidian.md 和 Zotero 之间的集成。
+ZotLit 是一个第三方项目，旨在通过为 Obsidian 和 Zotero 提供一组社区插件，促进 Obsidian.md 和 Zotero 之间的集成。以下是 zotlit 官方文档和由 pkmer 贡献者 alephpiece 贡献的教程。
 
-- [完整文档](https://obzt.aidenlx.top/)
-- [中文文档](https://obzt.aidenlx.top/zh-CN/)
+- zotlit官方文档
+	- [英文文档](https://obzt.aidenlx.top/)
+	- [中文文档](https://obzt.aidenlx.top/zh-CN/)
+- alephpiece
+	- [[ZotLit带来的文献引用流畅体验]]
+	- [[ZotLit实现Obsidian和Zotero联动]]
+
 ## 使用
 
 鉴于作者 A 大已经搭建了交互的使用手册，所以不在 PKMer 网站上进行处理，并跟 A 大对英文手册进行了本地化处理，方便更广大用户能够顺利使用。

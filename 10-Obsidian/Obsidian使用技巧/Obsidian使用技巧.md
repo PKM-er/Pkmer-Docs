@@ -42,6 +42,9 @@ modified: 20231024002131
 
 ## 与第三方软件联动
 
-- [[Zotero和Obsidian联动]]
+- Zoteo
+	- [[ZotLit带来的文献引用流畅体验]]
+	- [[ZotLit实现Obsidian和Zotero联动]]
+	- [[Zotero和Obsidian联动]]
 - [[如何运用obsidian和Zotero的插件配置整理文献管理实现阅读笔记]]
 - [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]
