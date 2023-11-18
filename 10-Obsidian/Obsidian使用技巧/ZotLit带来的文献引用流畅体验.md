@@ -37,7 +37,7 @@ Eta 的语法和 Obsidian Templater 插件的模板语法很像，具体介绍�
 
 要想用 ZotLit 在 Obsidian 中获取一个 Zotero 条目的作者列表，可以在模板文件中写
 
-```Eta
+```
 <%= it.authors %>
 ```
 
@@ -129,7 +129,7 @@ ZotLit 目前有 1 个简单模板和 7 个模板文件，用于指定要从 Zot
 
 它的默认值是
 
-```Eta
+```
 <%= it.citekey ?? it.DOI ?? it.title ?? it.key %>.md
 ```
 
@@ -141,7 +141,7 @@ ZotLit 目前有 1 个简单模板和 7 个模板文件，用于指定要从 Zot
 
 如果你喜欢给文件名加一些前缀，像我一样：
 
-```Eta
+```
 @<%= it.citekey ?? it.DOI ?? it.title ?? it.key %>.md
 ```
 
@@ -157,14 +157,14 @@ ZotLit 目前有 1 个简单模板和 7 个模板文件，用于指定要从 Zot
 
 比如说，同样的一本书，英文标题和作者名是
 
-```text
+```
 Title: Ultralearning: Master hard skills, outsmart the competition, and accelerate your career
 Author: Scott Young
 ```
 
 换成中文存起来的话，中文标题和作者名是
 
-```Text
+```
 Title: 终极学习：精通技能赢得竞争平步青云！
 Author: 斯考特 杨
 ```
@@ -195,7 +195,7 @@ Author: 斯考特 杨
 
 **太长不看版**：直接把 `citekey` 的格式改成
 
-```text
+```
 auth.transliterate.lower + shorttitle.ideographs.capitalize.select(1,3) + year
 ```
 
@@ -232,13 +232,13 @@ auth.transliterate.lower + shorttitle.ideographs.capitalize.select(1,3) + year
 
 打开 `Primary Markdown citation` 这个模板，把里面的内容换成
 
-```Eta
+```
 <%= it.map(lit => `[[@${lit.citekey}|(${lit.authors.first()}${lit.authors.length>1?" et al.":""}, ${lit.year?lit.year:lit.date})]]`).join("; ") %>
 ```
 
 再打开 `Secondary Markdown citation` 这个模板，把里面的内容换成
 
-```Eta
+```
 <%= it.map(lit => `[[@${lit.citekey}|${lit.authors.first()}${lit.authors.length>1?", et al":""}. ${lit.year?lit.year:lit.date}. ${lit.title}.]]`).join("; ") %>
 ```
 
@@ -256,7 +256,7 @@ auth.transliterate.lower + shorttitle.ideographs.capitalize.select(1,3) + year
 
 `Primary Markdown citation` 这个模板刚刚改成了
 
-```Eta
+```
 <%= it.map(lit => `[[@${lit.citekey}|(${lit.authors.first()}${lit.authors.length>1?" et al.":""}, ${lit.year?lit.year:lit.date})]]`).join("; ") %>
 ```
 
@@ -286,7 +286,7 @@ ZotLit 导出的文献笔记也可以做的很好看，只要修改 `Template` �
 
 我的模板文件如下。
 
-```Eta
+```
 # <%= it.title %>
 
 > [!INFO]
@@ -316,7 +316,7 @@ it.tags
 
 - 文献题目直接作为标题，前面加上 Markdown 一级标题标记 `#`。
 
-```Eta
+```
 # <%= it.title %>
 ```
 
@@ -324,7 +324,7 @@ it.tags
 
 - 元信息放在高亮块里面。
 
-```Eta
+```
 > [!INFO]
 ```
 
@@ -332,7 +332,7 @@ it.tags
 
 - 作者名逐个输出，用逗号加空格分隔，每个名字都改成 Obsidian 链接。
 
-```Eta
+```
 > - **Authors**: <%=
 it.authors
 .map(author => `[[${author}]]`)
@@ -345,13 +345,13 @@ it.authors
 
 - 日期从 Zotero 条目的 `date` 或 `year` 获取，优先选 `date`。
 
-```Eta
+```
 > - **Date**: <%= it.year ?? it.date %>
 ```
 
 - Tags 输出时加上 `#`，并且把空格换成 `-`，这样就成了 Obsidian tags。
 
-```Eta
+```
 > - **Tags**: <%=
 it.tags
 .map(tag => '#' + tag.toString().replaceAll(' ', '-'))
