@@ -19,11 +19,11 @@ modified: 20231118183506
 
 **如果笔记中的文献引用是 author-year 格式，会不会倍感舒适？**
 
-![[ZotLit_authoryear_citation.gif]]
+![ZotLit_authoryear_citation](https://cdn.pkmer.cn/images/202311182252853.gif)
 
 **如果笔记中的文献引用跳转到参考文献列表，是不是一时之间忘了自己在写 Markdown？**
 
-![[ZotLit_footnote_number_citation.gif]]
+![ZotLit_footnote_number_citation](https://cdn.pkmer.cn/images/202311182252902.gif)
 
 ## ZotLit 模板编辑
 
@@ -56,7 +56,7 @@ ZotLit 目前有 1 个简单模板和 7 个模板文件，用于指定要从 Zot
 
 下图是 ZotLit 1.1.4 的设置界面。
 
-![[Pasted image 20231118150252.png]]
+![Pasted image 20231118150252](https://cdn.pkmer.cn/images/202311182253858.png!pkmer)
 
 这 8 个模板分别是：
 
@@ -73,37 +73,37 @@ ZotLit 目前有 1 个简单模板和 7 个模板文件，用于指定要从 Zot
 
 除了文件名模板可在设置中修改，其他可自定义模板都只能在文件中修改。这些模板文件可以通过 `Template` 选项卡中的 `Eject` 按钮生成。
 
-![[Pasted image 20231118150537.png]]
+![Pasted image 20231118150537](https://cdn.pkmer.cn/images/202311182253982.png!pkmer)
 
 之后，可以随时从这个选项卡跳转到生成的模板文件。
 
-![[Pasted image 20231118150655.png]]
+![Pasted image 20231118150655](https://cdn.pkmer.cn/images/202311182253207.png!pkmer)
 
 为了方便编辑模板文件，ZotLit 提供了一个模板文件实时编辑器。截至 ZotLit 1.1.4，这个编辑器都是可以从注释面板打开的，步骤如下。
 
 - 在 Obsidian 中打开命令面板。
 - 找到 `ZotLit: Open Zotero annotation view in side panel`。
 
-![[Pasted image 20231118150827.png]]
+![Pasted image 20231118150827](https://cdn.pkmer.cn/images/202311182253261.png!pkmer)
 
 - 打开注释面板后，点击链接图标，选择链接模式 `Link with selected literature`。
 
 > 也可以使用其他链接模式，总之要链接到一个文献来展示模板的效果。
 
-![[Pasted image 20231118150855.png]]
+![Pasted image 20231118150855](https://cdn.pkmer.cn/images/202311182253088.png!pkmer)
 
 - 在弹出的搜索框中搜索要链接的 Zotero 文献。
 - 完成后，该文献的注释就出现在面板里。
 
-![[Pasted image 20231118151226.png]]
+![Pasted image 20231118151226](https://cdn.pkmer.cn/images/202311182253424.png!pkmer)
 
 - 点击 info 图标，`Show details`。
 
-![[Pasted image 20231118151251.png]]
+![Pasted image 20231118151251](https://cdn.pkmer.cn/images/202311182253844.png!pkmer)
 
 - 实时编辑器启动。
 
-![[Pasted image 20231118151840.png]]
+![Pasted image 20231118151840](https://cdn.pkmer.cn/images/202311182253406.png!pkmer)
 
 编辑器分为三个区域：
 
@@ -119,13 +119,13 @@ ZotLit 目前有 1 个简单模板和 7 个模板文件，用于指定要从 Zot
 
 用 ZotLit 导出一篇 Zotero 文献，于是在你的 Obsidian 仓库里多了一个文件：
 
-![[Pasted image 20231118152725.png]]
+![Pasted image 20231118152725](https://cdn.pkmer.cn/images/202311182253579.png!pkmer)
 
 什么？你不喜欢这个文件名？可以改！
 
 打开 ZotLit 设置的 `Template` 选项卡，找到里面的 `Note filename`，把它改成你想要的样子就可以。
 
-![[Pasted image 20231118153015.png|700]]
+![Pasted image 20231118153015](https://cdn.pkmer.cn/images/202311182253835.png!pkmer)
 
 它的默认值是
 
@@ -137,7 +137,7 @@ ZotLit 目前有 1 个简单模板和 7 个模板文件，用于指定要从 Zot
 
 如果把文件名模板改成 `<%= it.key %>.md`，就会看到这样的文件名：
 
-![[Pasted image 20231118163347.png]]
+![Pasted image 20231118163347](https://cdn.pkmer.cn/images/202311182253703.png!pkmer)
 
 如果你喜欢给文件名加一些前缀，像我一样：
 
@@ -147,7 +147,7 @@ ZotLit 目前有 1 个简单模板和 7 个模板文件，用于指定要从 Zot
 
 就会看到这样的文件名：
 
-![[Pasted image 20231118163515.png]]
+![Pasted image 20231118163515](https://cdn.pkmer.cn/images/202311182253861.png!pkmer)
 
 ### 中文文献笔记名太长
 
@@ -171,7 +171,7 @@ Author: 斯考特 杨
 
 看看这两条记录用 ZotLit 导入 Obsidian 会得到什么样的文件名。
 
-![[Pasted image 20231118171514.png]]
+![Pasted image 20231118171514](https://cdn.pkmer.cn/images/202311182301979.png!pkmer)
 
 - 英文作者名是小写开头，中文作者名是大写字母开头，强迫症要犯了！
 - 英文标题截取了三个词，中文标题截取了三个“词”，这中文“词”也太长了吧！
@@ -182,7 +182,7 @@ Author: 斯考特 杨
 
 在 Zotero 里打开 Better BibTeX 的设置，可以看到 `citekey` 的默认值。
 
-![[Pasted image 20231118172303.png]]
+![Pasted image 20231118172303](https://cdn.pkmer.cn/images/202311182254529.png!pkmer)
 
 这里面的 `auth.lower + shorttitle(3,3)` 就是导致中文文献笔记名太长的罪魁祸首！
 
@@ -201,7 +201,7 @@ auth.transliterate.lower + shorttitle.ideographs.capitalize.select(1,3) + year
 
 文件名瞬间清爽了。
 
-![[Pasted image 20231118172942.png]]
+![Pasted image 20231118172942](https://cdn.pkmer.cn/images/202311182254903.png!pkmer)
 
 这个方法只是把中文文献 `citekey` 里面的标题限制到三个字，如果大家有更好的分词方法请分享给我！
 
@@ -211,7 +211,7 @@ auth.transliterate.lower + shorttitle.ideographs.capitalize.select(1,3) + year
 
 先打开 ZotLit 配置，切换到 `Template` 选项卡，找到下面两个模板，点旁边的按钮生成模板文件。
 
-![[Pasted image 20231118174220.png]]
+![Pasted image 20231118174220](https://cdn.pkmer.cn/images/202311182254982.png!pkmer)
 
 这两个模板决定了在 Obsidian 笔记中用 `[@` 插入文献引用的时候会得到什么。
 
@@ -219,11 +219,11 @@ auth.transliterate.lower + shorttitle.ideographs.capitalize.select(1,3) + year
 
 如果就用默认的，当你在自己的笔记里用 `[@` 搜索一篇文献并按下回车，得到的引用按照 `Primary Markdown citation` 模板说的来。
 
-![[ZotLit_default_primary_citation.gif]]
+![ZotLit_default_primary_citation](https://cdn.pkmer.cn/images/202311182254354.gif)
 
 当你在笔记里用 `[@` 搜索文献后加上个 `/` 再按下回车，得到的引用就按照 `Secondary Markdown citation` 模板说的来。
 
-![[ZotLit_default_secondary_citation.gif]]
+![ZotLit_default_secondary_citation](https://cdn.pkmer.cn/images/202311182254630.gif)
 
 ### 修改文献引用格式
 
@@ -246,11 +246,11 @@ auth.transliterate.lower + shorttitle.ideographs.capitalize.select(1,3) + year
 
 在自己的笔记中，如果输入 `[@`，搜索一篇文献并按回车，看起来是这样。
 
-![[ZotLit_new_primary_citation.gif]]
+![ZotLit_new_primary_citation](https://cdn.pkmer.cn/images/202311182254315.gif)
 
 如果输入 `[@`，搜索文献，再输入 `/`，再回车，看起来是这样。
 
-![[ZotLit_new_secondary_citation.gif]]
+![ZotLit_new_secondary_citation](https://cdn.pkmer.cn/images/202311182254502.gif)
 
 有没有感觉好看一点？下面说说前面的代码是什么意思，这样一来你自己也可以修改了。
 
@@ -274,7 +274,7 @@ auth.transliterate.lower + shorttitle.ideographs.capitalize.select(1,3) + year
 
 下面这个图里的参考文献列表仅仅是 Markdown 脚注而已。
 
-![[ZotLit_footnote_number_citation.gif]]
+![ZotLit_footnote_number_citation](https://cdn.pkmer.cn/images/202311182252902.gif!pkmer)
 
 ## 文献笔记内容
 
@@ -282,7 +282,7 @@ ZotLit 导出的文献笔记也可以做的很好看，只要修改 `Template` �
 
 下面分享一下我自己的简单配置，效果如下。
 
-![[Pasted image 20231118182505.png]]
+![Pasted image 20231118182505](https://cdn.pkmer.cn/images/202311182255262.png!pkmer)
 
 我的模板文件如下。
 

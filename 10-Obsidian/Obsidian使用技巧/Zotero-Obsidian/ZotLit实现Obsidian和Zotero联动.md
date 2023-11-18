@@ -23,7 +23,7 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 
 曾以为要一直这样折腾下去，直到我遇到了由 AidenLx 大佬开发的 [[zotlit|Obsidian ZotLit]]，才发现它能完美满足我的需求。
 
-![[Pasted image 20231114200341.png|500]]
+![Pasted image 20231114200341](https://cdn.pkmer.cn/images/202311182259391.png!pkmer)
 
 ## 联动需求
 
@@ -55,7 +55,7 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 1. 在 Obsidian 笔记中输入两个键：`[@`
 2. 在弹出的搜索框中搜索文献，回车！
 
-![[ZotLit_insert_citation.gif|700]]
+![ZotLit_insert_citation](https://cdn.pkmer.cn/images/202311182259488.gif!pkmer)
 
 引用格式可自定义。
 
@@ -64,7 +64,7 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 1. 打开命令面板选择 "ZotLit: Open quick switcher for literature notes"，回车！
 2. 弹出搜索框，搜索文献，回车！
 
-![[ZotLit_import_literature_note.gif|700]]
+![ZotLit_import_literature_note](https://cdn.pkmer.cn/images/202311182259856.gif!pkmer)
 
 立马跳转到 Zotero 导出内容（如果不存在会立即创建并导出）。
 
@@ -72,7 +72,7 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 
 导出的注释都是 Markdown，放在引用块中，公式显示完全没问题。
 
-![[Pasted image 20231114194522.png|700]]
+![Pasted image 20231114194522](https://cdn.pkmer.cn/images/202311182259455.png!pkmer)
 
 ## 注释装进侧面板
 
@@ -82,15 +82,15 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 
 注释全部出现在侧面板，还有颜色！
 
-![[Pasted image 20231114194710.png|700]]
+![Pasted image 20231114194710](https://cdn.pkmer.cn/images/202311182259534.png!pkmer)
 
 在 Zotero 中修改注释会实时更新到 Obsidian。
 
-![[ZotLit_sync_zotero_annotations.gif|700]]
+![ZotLit_sync_zotero_annotations](https://cdn.pkmer.cn/images/202311182259828.gif!pkmer)
 
 从 Obsidian 可跳转到 Zotero PDF 注释所在页面。
 
-![[ZotLit_obsidian跳转zotero.gif|700]]
+![ZotLit_obsidian跳转zotero](https://cdn.pkmer.cn/images/202311182259604.gif)
 
 ## 笔记可分别导出
 
@@ -100,7 +100,7 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 
 有多个 Zotero 笔记时可以选择导出其中一个。
 
-![[Pasted image 20231114194904.png|700]]
+![Pasted image 20231114194904](https://cdn.pkmer.cn/images/202311182300930.png!pkmer)
 
 ## 自用配置
 
@@ -132,9 +132,9 @@ PDF 注释的导出格式也可以通过模板调整，灵活度很高。
 - 文献笔记内容（Note content），定义导出文献笔记要包含哪些 Zotero 条目内容。
 - 主要引用格式（Primary Markdown citation），定义在 Obsidian 中的 citation 格式。
 
-![[Pasted image 20231114195441.png|700]]
+![Pasted image 20231114195441](https://cdn.pkmer.cn/images/202311182300382.png!pkmer)
 
-![[Pasted image 20231114195447.png|700]]
+![Pasted image 20231114195447](https://cdn.pkmer.cn/images/202311182300611.png!pkmer)
 
 ### 文献笔记模板
 
@@ -169,10 +169,10 @@ it.authors
 
 导出文献笔记的效果如下。
 
-![[Pasted image 20231114200217.png|700]]
+![Pasted image 20231114200217](https://cdn.pkmer.cn/images/202311182300281.png!pkmer)
 
 ## 后记
 
 自从用了 ZotLit，满脑子都是 `[@ [@ [@ [@`，再也回不去了~
 
-![[Pasted image 20231114200745.png|700]]
+![Pasted image 20231114200745](https://cdn.pkmer.cn/images/202311182300109.png!pkmer)
