@@ -7,12 +7,12 @@ author: Huajin
 type: basic
 draft: false
 editable: false
-modified: 20231120093923
+modified: 20231120102800
 ---
 
 # Dataview 社区实践经验
 
-我的理念是，不要为了用 dataview 而用 dataview，而是要到需要用 dataview 的时候，再来用 dataview。考虑到前面的语法介绍可能有的地方写的不够清晰，故打算依据 GitHub 上比较出名的 dataview 英文示例库撰写本文，旨在你有需求时，可以找到类似的实例，亦或者是在学习 dataview 的时候，遇到不懂的地方可以直接来找已有的使用示例，希望通过具体的实例可以让你对各个函数的理解更加深刻。
+我的理念是，不要为了用 Dataview 而用 Dataview，而是要到需要用 Dataview 的时候，再来用 Dataview。考虑到前面的语法介绍可能有的地方写的不够清晰，故打算依据 GitHub 上比较出名的 Dataview 英文示例库撰写本文，旨在你有需求时，可以找到类似的实例，亦或者是在学习 Dataview 的时候，遇到不懂的地方可以直接来找已有的使用示例，希望通过具体的实例可以让你对各个函数的理解更加深刻。
 
 Dataview 实例包含了....个实例，又按照应用的查询类型，应用的函数以及用途对他们进行了分类，其中不免会有交叉，因为有的文章可能即用了 Table 查询，又用了 Flatten 函数，在两个分类中你都可以找到这篇文章。
 
