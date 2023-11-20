@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230918173522
+modified: 20231120105416
 ---
 
 # Obsidian 插件：Party 在你完成任务的时候来些喝彩
@@ -31,10 +31,6 @@ Obsidian 上的 party.js 实现。在您的笔记中创建五彩纸屑、火花�
 - 自定义形状
 - 大量自定义选项
 - Kanban 兼容性
-
-![Obsidian 插件：Party 让你完成任务的时候有点喝彩](https://cdn.pkmer.cn/images/234.gif!pkmer)
-
-![Obsidian 插件：Party 让你完成任务的时候有点喝彩](https://cdn.pkmer.cn/images/234.gif!pkmer)
 
 ## 使用
 
@@ -82,7 +78,7 @@ dv.table(["文件", "按钮"],
 
 任何 HTML 代码都可以用作形状。例如，您可以使用 SVG 图像作为形状。
 
-```html
+```
 <svg viewBox="0 0 2 2" width="10" height="10"><circle cx="1" cy="1" r="1"/></svg>
 ```
 
