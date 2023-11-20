@@ -7,7 +7,7 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20230710104110
+modified: 20231118100853
 ---
 
 # Markdown 基础
@@ -111,7 +111,7 @@ A *cat* meow
 
 - **说明：**
 - **同个引用段落** 内的换行直接敲击  **Enter**  即可
-- 若需添加  **第二个独立引用段落** ，连续敲击  **两下Enter**  即可
+- 若需添加  **第二个独立引用段落** ，连续敲击  **两下 Enter**  即可
 
 渲染效果如下：
 
@@ -481,6 +481,10 @@ For example, you can embed Twitter tweets like so as suggested by search results
 | Header    |    Title    | Here's this |
 | Paragraph |    Text     |    And more |
 
+### 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=408509796&bvid=BV1fG411S7ec&cid=1334593271&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
 ### 格式化表格文字
 
 您可以在表格中设置文本格式。例如，您可以添加链接，代码（仅反引号（`` ` ``）中的单词或短语，而不是代码块）和强调。
@@ -561,5 +565,4 @@ Here's a simple footnote,[^1] and here's a longer one.[^2]
 >- [[Obsidian扩展语法]]
 
 [^1]: This is the first footnote.
-
 [^2]: Here's one with multiple paragraphs and code.
