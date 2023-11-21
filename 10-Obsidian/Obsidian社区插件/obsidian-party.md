@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20231120105416
+modified: 20231121132225
 ---
 
 # Obsidian 插件：Party 在你完成任务的时候来些喝彩
@@ -45,6 +45,7 @@ Obsidian 上的 party.js 实现。在您的笔记中创建五彩纸屑、火花�
 - 形状
 	- 你可以自己增加形状
 	- 也可以为每个形状定义颜色
+
 ![image.png|575](https://cdn.pkmer.cn/images/20230918172608.png!pkmer)
 
 ![image.png|675](https://cdn.pkmer.cn/images/20230918172617.png!pkmer)
