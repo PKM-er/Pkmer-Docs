@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231120144439
+modified: 20231121211455
 ---
 
 # Obsidian 社区插件
@@ -478,6 +478,8 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据
 - [[open-weather]]：该插件以可配置的字符串格式返回 OpenWeather 的当前天气
 - [[rss-reader]]：让你的 Obsidian 秒变 RSS 阅读器
+- [[obsidian-leaflet-plugin_readme]]：在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
+	- [[obsidian-leaflet-plugin]]：活用方法
 
 ### AI 相关
 
