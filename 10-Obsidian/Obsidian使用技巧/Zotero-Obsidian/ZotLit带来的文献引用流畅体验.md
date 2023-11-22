@@ -241,7 +241,9 @@ auth.transliterate.lower + shorttitle.ideographs.capitalize.select(1,3) + year
 ```
 <%= it.map(lit => `[[@${lit.citekey}|${lit.authors.first()}${lit.authors.length>1?", et al":""}. ${lit.year?lit.year:lit.date}. ${lit.title}.]]`).join("; ") %>
 ```
-
+> [!tips] 群友建议
+> 上述模板只要超过两个作者就用第一个作者 et al，如果想要一个或两个作者全部显示，只需将上述内容的`lit.authors.first()}${lit.authors.length>1?" et al.":""`替换成 `lit.authorShort`即可
+ 
 我知道这两句代码有点长，但效果还是不错的，先来试试。
 
 在自己的笔记中，如果输入 `[@`，搜索一篇文献并按回车，看起来是这样。
