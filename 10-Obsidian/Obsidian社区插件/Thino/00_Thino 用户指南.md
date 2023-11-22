@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20231111180314
+modified: 20231122115804
 id: dacd7a42e067cce1
 ---
 
@@ -16,6 +16,8 @@ id: dacd7a42e067cce1
 ![00_Thino 用户指南](https://cdn.pkmer.cn/images/Pasted%20image%2020231109211823.png!pkmer)
 
 本用户指南优先适用于 2.1.0 及以上的 Thino 版本，而 Thino 前身是 Obsidian-Memos，因此你基于 [[obsidian-memos]] 的经验也可以顺应地沿用到 Thino 中，以下的说明也可以作为查漏补缺的部分，作为一个全面了解 Thino 功能以及其设计的相关文档：
+
+Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
 
 ## 目录
 
@@ -58,10 +60,9 @@ id: dacd7a42e067cce1
 	- [[Obsidian样式-给Thino搭配10种热力图颜色]]
 ---
 
-
 ## 声明
 
-本插件的更名以及更新都离不开 PKMer 上下全员的鼎力相助。
+本插件的更新以及更名都离不开 PKMer 上下全员的鼎力相助。
 
 同时，本指南有任何问题可以到 PKMer 内测群反馈，进入 PKMer 内测群的方式在你购买 Thino 内测的页面上。本人作为 PKMer。
 
