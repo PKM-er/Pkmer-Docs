@@ -20,7 +20,8 @@ modified: 20231110000138
 
 ## Thino 内测
 
-当前 Thino 内测权限可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
+- 当前 Thino 内测权限可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
+- Thino 也作为社区优先贡献者的福利，目前已经发放多位社区优质贡献者。
 
 激活步骤：[[04_Thino 内测资格激活步骤]]
 

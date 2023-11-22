@@ -1,7 +1,10 @@
 ---
 uid: 20211119191626
-title: 任务管理系统
-tags: [任务管理, 清单, 番茄工作法]
+title: Thomas：我的个人任务管理系统分享
+tags:
+  - 任务管理
+  - 清单
+  - 番茄工作法
 description: 浅谈个人对任务管理的理解，涉及任务管理, 清单, 番茄工作法
 author: Thomas Teng
 type: other
@@ -10,7 +13,7 @@ editable: false
 modified: 20230910004503
 ---
 
-# 任务管理系统
+# Thomas：我的个人任务管理系统分享
 
 > 这是本人在 2019 年写的一篇关于任务管理的心得，供参考。
 
@@ -148,7 +151,7 @@ modified: 20230910004503
 
 好了， 这个小例子只是用来抛砖引玉，下面，我们一起欣赏一下大神的桌面布置，希望可以从中汲取灵感，用在自己的桌面上（包括工作环境和家庭学习环境）。
 
- [典型GTD桌面 @ yvotube.com](https://yvotube.com/work-office-organization-photo.html)
+ [典型GTD桌面 @ yvotube.com](https://yotube.com/work-office-organization-photo.html)
 
 这是一个非常典型的 GTD Style 桌面。完美匹配 GTD 的理论，即接管了其中的“收集 →整理” 环节，现代人每天面对的信息媒介类型多种多样，有用的信息资料也呈碎片化趋势， 「收集」这一步显得尤为重要，列举几点：
 
