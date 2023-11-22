@@ -1,16 +1,16 @@
 ---
 uid: 20230328213340
-title: 搜索
-tags: []
-description: 
+title: 无需安装插件，Obsidian 自带的超强搜索功能
+tags: [Obsidian, 搜索]
+description: 无需安装插件，Obsidian 自带的超强搜索功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233931
+modified: 20231122153916
 ---
 
-# 搜索
+# 无需安装插件，Obsidian 自带的超强搜索功能
 
 ![Search.png](https://cdn.pkmer.cn/images/687e2e19ef97226700727cf3f01454fa_MD5.png!pkmer)
 
@@ -58,9 +58,11 @@ embed OR search
 
 然后，你就可以在预览模式下看到  `embed OR search`  的搜索结果被嵌入到当前笔记中。
 
+````
 ```query
 embed OR search
 ```
+````
 
 需要注意的是，截止 2021/1/18，这并不能在  [发布的网站] 中使用。
 

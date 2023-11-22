@@ -1,15 +1,13 @@
 ---
 uid: 20230822234749
 title: Obsidian 插件：Base Tag Renderer 嵌套标签显示缩略名
-tags:
-  - obsidian插件
-  - readme
+tags: [obsidian插件, 标签]
 description: 这个插件在预览模式下渲染标签的基本名称。
-author: AI
-type: readme
+author: Windysoul
+type: other
 draft: false
 editable: false
-modified: 20230921161144
+modified: 20231122164821
 ---
 
 # Obsidian 插件：Base Tag Renderer 嵌套标签显示缩略名
@@ -22,7 +20,7 @@ modified: 20230921161144
 > - 插件名称：Base Tag Renderer
 > - 插件作者：Darren Kuro
 > - 插件说明：这个插件在预览模式下渲染标签的缩略名称
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian 插件 ',' 标签 ']
 > - 项目地址：[点我访问](https://github.com/darrenkuro/obsidian-basetag)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-basetag)
 
@@ -57,3 +55,19 @@ a.basename-tag[href*="dog"]::before {
     content: "🐶 ";
 }
 ```
+
+### 活用
+
+如果不太喜欢标签前面的 `#` 号，用此插件通过简单设置，就可以在预览模式下，达到预期的效果。
+
+#### 效果
+
+这是一个隐藏了 `#` 标签 `#test`
+
+![-20231120.png](https://cdn.pkmer.cn/images/-20231120.png!pkmer)
+
+### 方法
+
+在插件内部开启对应设置，尝试按照以往的方法输入标签，你会发现 `#` 不见了！
+
+![-20231120-1.png](https://cdn.pkmer.cn/images/-20231120-1.png!pkmer)
