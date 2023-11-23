@@ -1,6 +1,6 @@
 ---
 uid: 20231123201314
-title: Dataview 实战 - 通过 Dataview 列出标签所在段落内容
+title: Dataview实战-通过Dataview列出标签所在段落内容
 tags: [Obsidian, dataview, 标签，tags, 汇总]
 description: 列出关健字所在的行内容以及所在行数
 author: 我想煞了我
@@ -74,8 +74,7 @@ date modified: 2023年11月23日,星期四,17:16:05
 
 ### 代码查询
 
-````
-```dataviewjs
+```
 let files = dv.pages('#动物').where(p=>p.file.path != dv.current().file.path)
 
 // 调用函数
@@ -102,7 +101,6 @@ async function extractKeywords(keywordArr,files) {
 	dv.table(["file", "所在行"], values)
 }
 ```
-````
 
 上面的代码执行结果：
 
@@ -120,11 +118,9 @@ async function extractKeywords(keywordArr,files) {
 
 根据 dataview 语法来写自己要查询的文件范围。
 
-````
-```dataviewjs
+```
 let files = dv.pages('#动物').where(p=>p.file.path != dv.current().file.path)
 ```
-````
 
 - `dv.page('').where(p=>p.file.path != dv.current().file.path)`：除了当前文件的其他所有文件
 - `dv.pages('#动物')`：查询带有动物标签的文件
@@ -134,20 +130,16 @@ let files = dv.pages('#动物').where(p=>p.file.path != dv.current().file.path)
 
 修改下面的函数的数组，比如你要查老虎和猫，就可以这么写 `extractKeywords(['老虎','猫'],files)`。
 
-````
-```dataviewjs
+```
 // 调用函数
 extractKeywords(['老虎'],files)
 ```
-````
 
 ### 如何修改查询结果样式
 
-````
-```dataviewjs
+```
 values.push([`[[${file.basename}]]`,"**【" + String(index+1) + "】**" + element.trim().replace(k, "=="+k+"==")])
 ```
-````
 
 - 加粗就是把 `"=="+k+"=="` 改成 `"**"+k+"**"`。
 - 修改行号样式`【】`改成`（）`就是把 `"**【" + String(index+1) + "】**"` 改成 `"**(" + String(index+1) + ")**"`。
