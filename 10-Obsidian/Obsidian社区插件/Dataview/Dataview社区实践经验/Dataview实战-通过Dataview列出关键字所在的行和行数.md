@@ -7,6 +7,7 @@ author: 我想煞了我
 type: other
 draft: false
 editable: false
+modified: 20231123233046
 ---
 
 # Dataview 实战 - 通过 Dataview 列出关键字所在的行和行数
@@ -104,7 +105,7 @@ async function extractKeywords(keywordArr,files) {
 
 上面的代码执行结果：
 
-![[Pasted image 20231123195536.png]]
+![](https://cdn.pkmer.cn/images/202311232330768.bmp!pkmer)
 
 我们可以看到：
 
