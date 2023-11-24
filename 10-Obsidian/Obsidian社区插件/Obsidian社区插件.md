@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231105004044
+modified: 20231121211455
 ---
 
 # Obsidian 社区插件
@@ -62,6 +62,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ## 插件安装
 
 - [[pkmer]]：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
+- [[obsidian42-brat]]：让你可以安装未上架的插件、主题
 
 ### 编辑增强
 
@@ -82,8 +83,6 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[cm-show-whitespace-obsidian]]：在编辑器中显示空白和制表符
 - [[fantasy-name]]：插入一个随机组合出来的人名
 - [[html-tabs]]：在笔记中创建和渲染选项卡和标签面板
-- [[obsidian-code-tab]]：创造一个类似 leetcode 样式的混合代码块，且不仅限于代码块。
-	- [[code-tab还能这么玩]]：codetab 插件的活用文章
 
 ### 格式化
 
@@ -160,6 +159,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
 
+- [[00_Thino 用户指南]]：memos 全新版本~tada~
 - [[obsidian-memos]]：提供一个简易轻巧的笔记和灵感收集方式
 - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
@@ -192,6 +192,9 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-code-copy]]：为代码块添加一个复制按钮。该功能官方已经提供
 - [[code-styler]]：在阅读视图和编辑视图中对代码块和内联代码进行样式设置。
 - [[obsidian-better-codeblock]]：在阅读视图中为代码块添加标题、行号和折叠按钮
+- [[codeblock-tabs]]：将连续的 CodeBlocks 创建标签组样式
+- [[obsidian-code-tab]]：创造类似 leetcode 样式的混合代码块，且不仅限于代码块
+	- [[code-tab还能这么玩]]：codetab 插件的活用文章
 
 ### 搜索
 
@@ -227,7 +230,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 关系图谱
 
-- [[graph-analysis]]：将图形分析能力添加到 Obsidian，此插件实现了一套算法，可以计算仓库中的笔记之间的关联关系。
+- [[graph-analysis]]：将图形分析能力添加到 Obsidian，此插件实现了一套算法，可以计算仓库中的笔记之间的关联关系
 - [[obsidian-relation-pane]]：显示一个总结笔记间关系的面板
 
 ### 导出&分享&发布
@@ -236,6 +239,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[pandoc 插件导出 word 格式 正确识别本地图片]]
 - [[html-server]]：帮你把 Obsidian 仓库作为一个 web 服务器，同时保持你的主题，并确保你的图像和文件链接的工作
 - [[obsidian-to-notion]]：一键把 Obsidian 中的文件传输到 Notion 中
+- [[easy-bake]]：轻松将许多 Obsidian 笔记编译成单个文件
 
 ### 阅读和 PDF
 
@@ -282,7 +286,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 	- [[Excalidraw局部嵌入Obsidian]]
 	- [[自定义Excalidraw脚本-画板局部或者全局播放动画]]
 	- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
-	-  [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
+	- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
 - [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
 
 ### 窗口&视图模式
@@ -306,7 +310,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
 - [[easy-toggle-sidebars_readme]]：便捷的控制侧边栏
 - [[obsidian-sidebar-toggler]]：Obsidian 侧边栏的更精细的控制。用于外部窗口管理器。
-- [[obsidian-opener]]：提升打开标签页的体验
+- [[Tab-Switcher]]：使用 Ctrl + Tab 按最近使用的顺序切换选项卡，就像在浏览器中一样
+- [[Vertical-Tabs-View]]：供垂直选项卡视图选项卡可以排序，但更改不会与原始选项卡同步
 
 ### Property&Front-matter
 
@@ -442,11 +447,12 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-tabs]]：为 Obsidian 增加标签页功能
 - [[cycle-through-panes]]：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样
 - [[close-similar-tabs]]：自动关闭重复打开的标签页，防止标签栏拥挤和冲突
+- [[double-click-tab]]：双击标签标题时修改默认行为的插件，比如关闭标签
+- [[obsidian-opener]]：提升打开标签页的体验
 
 ### 管理工具
 
 - [[obsidian-plugin-groups]]：帮你轻松地分组和管理 Obsidian 第三方插件，启动关闭，加载插件
-- [[obsidian42-brat]]：让你可以安装未上架的插件、主题
 - [[quick-plugin-switcher]]：更轻松的管理插件的启用
 - [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 - [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
@@ -464,7 +470,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 ### 第三方集成和联动
 
-- [[zotlit]]：最完美的 Zotero 和 Obsidian 联动插件
+- [[10-Obsidian/Obsidian社区插件/zotlit]]：最完美的 Zotero 和 Obsidian 联动插件
 - [[obsidian-zotero-desktop-connector]]
 - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
 - [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
@@ -472,6 +478,8 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据
 - [[open-weather]]：该插件以可配置的字符串格式返回 OpenWeather 的当前天气
 - [[rss-reader]]：让你的 Obsidian 秒变 RSS 阅读器
+- [[obsidian-leaflet-plugin_readme]]：在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
+	- [[obsidian-leaflet-plugin]]：活用方法
 
 ### AI 相关
 

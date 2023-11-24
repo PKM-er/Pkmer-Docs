@@ -14,6 +14,10 @@ modified: 20230808092029
 
 ## 效果
 
+本文的css片段**仅在阅读模式下生效**
+
+> [[Blue Topaz]] 主题已经内置了此功能，在style setting插件中开启，本文的css片段不再维护
+
 ![guideline](https://cdn.pkmer.cn/images/202308080918309.gif)
 
 ## css 片段
