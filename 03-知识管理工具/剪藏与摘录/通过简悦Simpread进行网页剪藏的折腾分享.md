@@ -4,6 +4,7 @@ title: 通过简悦 Simpread 进行网页剪藏的折腾分享
 tags:
   - 简悦
   - 网页剪藏
+  - 配置经验
 description: 简悦的配置经验分享
 author: 唐温如Twenru
 type: tutorial
