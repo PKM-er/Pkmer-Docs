@@ -13,9 +13,7 @@ created: 2023-11-24 21:51:24
 
 # 通过简悦 Simpread 进行网页剪藏的折腾分享
 
-## 通过简悦 Simpread 进行网页剪藏的折腾分享
-
-### 写在前面
+## 写在前面
 
 这只是入门配置教程而已，别怕！
 
@@ -36,9 +34,9 @@ created: 2023-11-24 21:51:24
 	- 简悦·同步助手
 	- 坚果云
 
-### 简悦
+## 简悦
 
-#### 下载 简悦
+### 下载 简悦
 
 [官网页面](https://simpread.pro/)，点击**免费使用**会自行下滑到浏览器拓展程序下载界面，按需选择对应拓展程序下载安装。
 
@@ -46,7 +44,7 @@ created: 2023-11-24 21:51:24
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231324220.png!pkmer)
 
-#### 购买 简悦
+### 购买 简悦
 
 [官网页面](https://simpread.pro/pro.html)，点击**马上升级**会自行跳转到高级帐户购买界面，按需选择是否购买。
 
@@ -54,13 +52,13 @@ created: 2023-11-24 21:51:24
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231324798.png!pkmer)
 
-#### 激活 简悦
+### 激活 简悦
 
 按照 [官网教程](https://www.yuque.com/kenshin/simpread/xi8yds) 绑定简悦高级帐户。
 
-#### 配置 简悦 (前)
+### 配置 简悦 (前)
 
-##### 复制 Uid
+#### 复制 Uid
 
 绑定简悦高级账户后，在选项页 → 账户 → 用户信息处复制你的 UID 到剪切板。
 
@@ -69,7 +67,7 @@ created: 2023-11-24 21:51:24
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231324816.png!pkmer)
 
-##### 下载配置库
+#### 下载配置库
 
 从作者提供的 [百度云](https://pan.baidu.com/s/1SkFLJ21CKFL4lhWPhEg0iA?pwd=99mq) 下载配置库。
 
@@ -84,7 +82,7 @@ created: 2023-11-24 21:51:24
 > [!warning] 注意
 > simpread_config.json 是很重要的文件，请勿更改文件内容。
 
-##### 导入配置库
+#### 导入配置库
 
 在浏览器拓展程序栏右键点击简悦——偏好设置——共通，打开如下界面，在红框处从本地导入 simpread_config.json 配置文件，并刷新。
 
@@ -93,7 +91,7 @@ created: 2023-11-24 21:51:24
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231326566.png!pkmer)
 
-##### 将配置覆盖到自己账户
+#### 将配置覆盖到自己账户
 
 点击账户 → 用户信息，修改为你自己的高级账户 UID 并保存。
 
@@ -103,7 +101,7 @@ created: 2023-11-24 21:51:24
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231326719.png!pkmer)
 
-##### 导入插件
+#### 导入插件
 
 插件管理界面，点击从配置文件导入插件，并确认。
 
@@ -116,9 +114,9 @@ created: 2023-11-24 21:51:24
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231327914.png!pkmer)
 
-### Simpread Sync
+## Simpread Sync
 
-#### 启用 Simpread Sync 插件
+### 启用 Simpread Sync 插件
 
 在*下载配置库*的文件目录。
 
@@ -132,7 +130,7 @@ simpread 文件夹是 Ob 插件，只需将本文件夹及其内容移动或复�
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231335165.png!pkmer)
 
-#### 配置 Simpread Sync 插件
+### 配置 Simpread Sync 插件
 
 实现剪藏同步功能此插件只需更改图中三处设置。
 
@@ -142,15 +140,15 @@ simpread 文件夹是 Ob 插件，只需将本文件夹及其内容移动或复�
 - Customize base folder 设置为你 Ob 库中存储 md 文件的位置即可
 - SimpRead config path 与坚果云、同步助手等路径指向位置应一致，不过**路径书写方式有所不同**
 
-### 坚果云
+## 坚果云
 
 其他同步方案请自行官网教程探索。
 
-#### 下载、安装、注册、登录坚果云
+### 下载、安装、注册、登录坚果云
 
 略 [官网](https://www.jianguoyun.com/s/downloads)。
 
-#### 配置坚果云
+### 配置坚果云
 
 1. 创建同步文件夹 SimpRead
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231336994.png!pkmer)
@@ -162,16 +160,16 @@ simpread 文件夹是 Ob 插件，只需将本文件夹及其内容移动或复�
 > [!warning] 注意
 > simpread_config.json 配置文件不要移动，后续会从浏览器拓展覆盖。
 
-#### 坚果云授权
+### 坚果云授权
 
 1. 登录坚果云 web 获取用户名和密码
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231337176.png!pkmer)
 2. 选项卡——服务——授权管理，输入用户名和密码绑定坚果云信息，授权成功会有提示
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231337885.png!pkmer)
 
-### 简悦·同步助手
+## 简悦·同步助手
 
-#### 下载 简悦·同步助手
+### 下载 简悦·同步助手
 
 [官网页面](http://ksria.com/simpread/wiki/#/Download?id=%e5%90%8c%e6%ad%a5%e5%8a%a9%e6%89%8b)，下载简悦·同步助手。
 
@@ -181,15 +179,15 @@ simpread 文件夹是 Ob 插件，只需将本文件夹及其内容移动或复�
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231337508.png!pkmer)
 
-#### 配置 简悦·同步助手
+### 配置 简悦·同步助手
 
 在通用里设置开机自启，将同步文件夹路径和导出路径设置**与坚果云设置一致**，端口号不变即可；下图仅供参考，其他设置自行研究。
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231338825.png!pkmer)
 
-### 配置 简悦 (后)
+## 配置 简悦 (后)
 
-#### 同步设置
+### 同步设置
 
 选项卡——共通——验证部分![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231338629.png!pkmer)
 
@@ -202,7 +200,7 @@ simpread 文件夹是 Ob 插件，只需将本文件夹及其内容移动或复�
 
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231338373.png!pkmer)
 
-#### 导出设置
+### 导出设置
 
 以 [pkmer官网文章](https://pkmer.cn/Pkmer-Docs/50-%E6%95%99%E7%A8%8B/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%95%99%E7%A8%8B/) 为例，连续 按 a 两次进入**阅读模式**，esc 退出此模式；其他快捷键自行研究。
 
@@ -239,7 +237,7 @@ archive: false
 > [!warning] 注意
 > 勿遗漏代码块标识；占位符使用可参照 [metadata用法](https://github.com/Kenshin/simpread/discussions/2902#discussioncomment-2590065)。
 
-### 使用
+## 使用
 
 1. aa 进入浏览器阅读模式，高亮、标注
 ![通过简悦Simpread进行网页剪藏的折腾分享](https://cdn.pkmer.cn/images/202311231341561.gif!pkmer)
@@ -251,7 +249,7 @@ archive: false
 > [!note] 补充
 > 上图中外部链接可以在浏览器中打开，未演示；标注模板是在 Simpread Sync 插件中修改，请自行研究。
 
-### 写在末尾
+## 写在末尾
 
 1. 由于不是初次配置，有些细节可能没有注意到，有问题进 QQ 群问吧
 2. 上述 3 个使用介绍可能没用到上述所有配置
