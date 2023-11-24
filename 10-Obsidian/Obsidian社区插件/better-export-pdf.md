@@ -35,18 +35,18 @@ modified: 20231024154600
 
 1. 在 [Release](https://github.com/l1xnan/obsidian-better-export-pdf/releases) 页面，下载 zip 包
 2. 解压到: `{VaultFolder}/.obsidian/plugins/`
-3. 重启 Obdisian，并再插件管理器中启用插件。
+3. 重启 Obdisian，并在插件管理器中启用插件。
 
 ## 使用
 
 1. 在当前 Markdown 视图的右上角三个点，点击更多选项，选择 `Better to PDF`；
 2. 打开命令面板，搜索 `Better Export PDF: Export Current file to PDF`。
 
-如果导出的 PDF 页面异常，尝试在外观中将颜色将切换为浅色。
+如果导出的 PDF 页面异常，尝试在外观中将颜色切换为浅色。
 
 ### 设置
 
-可以简单的设置页码格式：
+可以简单地设置页码格式：
 
 - `{page}`: 代表当前页码；
 - `{pages}`: 代表总页码；

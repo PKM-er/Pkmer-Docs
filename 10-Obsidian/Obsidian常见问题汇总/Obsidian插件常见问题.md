@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231108104252
+modified: 20231123191256
 ---
 
 # Obsidian 插件常见问题
@@ -291,7 +291,9 @@ Excalidraw 的脚本市场在页面的右上角，有个齿轮⚙叠加播放的
 ### 开 React Components 这个插件会导致白板（canvas）异常
 
 - 现象
-![QA_4CW[448ZAU}F1FZO~3YJ.jpg|406](https://cdn.pkmer.cn/images/20230622162549.png!pkmer)
+
+![### 开 React Components 这个插件会导致白板（canvas）异常 |450](https://cdn.pkmer.cn/images/20230622162549.png!pkmer)
+
 - 解决方案：
 	- 找到 React Components 插件的文件夹，打开 main.js 文件
 	- 找到下列对应代码文本

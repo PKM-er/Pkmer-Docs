@@ -23,6 +23,10 @@ modified: 20231024002131
 - [[安卓和鸿蒙设备照片中乱入Obsidian图片解决方案]]
 - [[Obsidian多标签查询功能]]
 - [[Obsidian搭配 Vim Mode]]
+- [[文字转语音朗读你的笔记]]
+- [[个人图书馆的简单构建]]
+- [[附件-豆瓣读书导入模板]]
+- [[Obsidian-为什么输入annotor的yaml模板时会被解析成分割线或文档属性]]
 
 ### 第三方插件
 
@@ -42,6 +46,9 @@ modified: 20231024002131
 
 ## 与第三方软件联动
 
-- [[Zotero和Obsidian联动]]
+- Zoteo
+	- [[ZotLit带来的文献引用流畅体验]]
+	- [[ZotLit实现Obsidian和Zotero联动]]
+	- [[Zotero和Obsidian联动]]
 - [[如何运用obsidian和Zotero的插件配置整理文献管理实现阅读笔记]]
 - [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]

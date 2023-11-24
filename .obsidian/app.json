@@ -19,5 +19,6 @@
   "autoPairMarkdown": false,
   "focusNewTab": true,
   "showLineNumber": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "showUnsupportedFiles": true
 }

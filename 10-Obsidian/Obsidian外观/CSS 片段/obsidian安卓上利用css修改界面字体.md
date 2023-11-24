@@ -71,7 +71,7 @@ reference: [简单调用霞鹜文楷字体 - 经验分享 - Obsidian 中文论�
 
 ## 插件 custom fonts
 
-reference: [pourmand1376/obsidian-custom-font: A plugin to set custom font for obsidian](https://github.com/pourmand1376/obsidian-custom-font)
+插件介绍：[[custom-font-loader_readme]]
 
 2023-09-23，新版本已经能处理字体大文件了，可以使用这个插件来自定义字体。
 
