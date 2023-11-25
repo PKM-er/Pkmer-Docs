@@ -7,7 +7,7 @@ tags:
   - Excalidraw脚本
   - Excalidraw
 description: 
-author: 熊猫别熬夜
+author: 熊猫别熬夜, ProudBenzene
 type: other
 draft: false
 editable: false
@@ -255,7 +255,7 @@ function match_zotero_link(text) {
 }
 
 function match_zotero_comment(text) {
-    const regex = /.*\)\).*\)\)([\s\S]*)/;
+    const regex = /.*\)\).*\)\)([\s\S]*)/; //可以识别包括🔡在内的所有字符
     const matches = text.match(regex);
     return matches ? matches[1] : "";
 }
