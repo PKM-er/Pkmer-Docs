@@ -16,7 +16,7 @@ Syncthing 是一款开源免费跨平台的文件同步工具，是基于**P2P �
 
 十一月以来，我用将近一周的碎片时间慢慢倒腾，终于配置好了 Syncthing 同步 Obsidian 库，以及使用 Syncthing 后出现的大部分问题。本篇文章作为一个经验贴，记录我配置 Syncthing 的全过程，包括我踩过的坑以及使用感想。、
 
-> [!warning]+ 背景须知
+> [!warning] 背景须知
 > ==我的设备==：Mac, iPad & Andriod Phone (HarmonyOS)
 > ==同步内容==：两个 Obsidian 库
 > ==理想要求==：
@@ -75,7 +75,7 @@ Syncthing 是一款开源免费跨平台的文件同步工具，是基于**P2P �
 4. 勾选开启忽略模式。![Syncthing 配置倒腾记录](https://cdn.pkmer.cn/images/202311232212638.png!pkmer)
 5. 点击右下角的保存按钮。
 
-> [!important]+ 忽略模式
+> [!important] 忽略模式
 > 之后会立马弹出一个界面，要求用户填入需要的忽略模式。忽略模式的规则是这样的：
 >
 > > 正则文件名可自行匹配，例如，模式 `foo` 可匹配文件 `foo` 、 `subdir/foo` 以及任何名为 `foo` 的目录。空格被视为正则字符，但前导空格和尾部空格会被自动修剪。
