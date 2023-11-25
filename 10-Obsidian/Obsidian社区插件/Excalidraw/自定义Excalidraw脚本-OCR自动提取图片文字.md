@@ -10,7 +10,7 @@ editable: false
 modified: 20231117150253
 ---
 
-# 自定义 Excalidraw 脚本 -OCR 自动提取图片文字 (可批量可修改)
+# 自定义 Excalidraw 脚本 -OCR 自动提取图片文字 
 
 > [!note]
 ![自定义 Excalidraw 脚本 -OCR 自动提取图片文字 (可批量可修改)](https://cdn.pkmer.cn/images/234.gif!pkmer)
