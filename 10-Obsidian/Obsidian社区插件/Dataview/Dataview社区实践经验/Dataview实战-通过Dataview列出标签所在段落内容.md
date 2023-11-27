@@ -1,8 +1,8 @@
 ---
 uid: 20231023200354
-title: Dataview 实战 - 通过 Dataview 列出标签所在段落内容
+title: Dataview 实战：通过 Dataview 列出关键字所在的行和行数
 tags: [Obsidian, dataview, 标签, tags, 汇总]
-description: 列出标签所在的段落内容
+description: Dataview 实战：通过 Dataview 列出关键字所在的行和行数
 author: 劉同學
 type: other
 draft: false
@@ -10,7 +10,7 @@ editable: false
 modified: 20231105161356
 ---
 
-# Dataview 实战 - 通过 Dataview 列出标签所在段落内容
+# Dataview 实战：通过 Dataview 列出关键字所在的行和行数
 
 ## 应用场景
 

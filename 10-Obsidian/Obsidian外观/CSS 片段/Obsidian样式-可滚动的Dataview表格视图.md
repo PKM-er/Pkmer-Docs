@@ -25,10 +25,10 @@ modified: 20231010212421
   overflow: auto;
 }
 
-.block-language-dataviewjs {
-  display: block;
-  height: 400px;
-  overflow: auto;
+.block-language-dataviewjs,
+.block-language-dataview {
+  max-height: 500px;
+  overflow: auto;
 }
 ```
 
