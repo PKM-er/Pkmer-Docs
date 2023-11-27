@@ -1,13 +1,13 @@
 ---
 uid: 20230905114038
 title: Obsidian 使用技巧
-tags: 
+tags: []
 description: Obsidian 使用技巧
 author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231024002131
+modified: 20231127190204
 ---
 
 # Obsidian 使用技巧
@@ -27,6 +27,7 @@ modified: 20231024002131
 - [[个人图书馆的简单构建]]
 - [[附件-豆瓣读书导入模板]]
 - [[Obsidian-为什么输入annotor的yaml模板时会被解析成分割线或文档属性]]
+- [[一网打尽-带你了解Obsidian中标签汇总方案]]
 
 ### 第三方插件
 

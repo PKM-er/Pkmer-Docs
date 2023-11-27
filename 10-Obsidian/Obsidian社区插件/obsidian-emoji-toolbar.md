@@ -47,6 +47,10 @@ modified: 20230901101448
 
 ![image.png](https://cdn.pkmer.cn/images/20230503222752.png!pkmer)
 
+### 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=366320262&bvid=BV1y94y1J7xL&cid=1342086694&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
 > [!Tip] 推荐阅读
 > - [[obsidian-icons-plugin]]：提供插入图标符号的功能
 > - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
