@@ -227,6 +227,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-rich-links]]：为你笔记中的链接，增加美化样式
 - [[obsidian-link-embed]]：帮你将网页 URL 转换为嵌入预览卡片样式
 - [[auto-card-link]]：自动将链接变成卡片样式
+- [[links]]：各种链接形式的相互转换
 
 ### 关系图谱
 
