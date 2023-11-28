@@ -133,7 +133,7 @@ Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件�
 ## 经验分享
 
 - [[obsidian-tasks的GTD实践]]：Obsidian Tasks 的 GTD 实践 by alswl
-- [[Obsidian_2023_seyee]]：用 Obsidian 两年多，现在我怎么同步和使用？ by seyee
+- [[Obsidian-2023-seyee]]：用 Obsidian 两年多，现在我怎么同步和使用？ by seyee
 - [[一种实用新型 Obsidian 实践之构建我的第二大脑]] + [[我给我的 Obsidian 实践写了一个插件]]：林宜丙 对使用 Obsidian 的实践
 - [[Thomas-我的个人任务管理系统分享]]：浅谈个人对任务管理的理解，涉及任务管理, 清单, 番茄工作法 by Thomas Teng
 - [[卡片笔记的输入即输出]]：笔记越来越庞大，管理起来越来越力不从心的心路历程 by asureading
