@@ -2,7 +2,7 @@
 uid: 20231018142548
 title: 如何运用免费软件进行文字识别（OCR）
 tags: []
-description: 
+description: 如何运用免费软件进行文字识别（OCR）
 author: Chenghuang
 type: awesome
 draft: false
