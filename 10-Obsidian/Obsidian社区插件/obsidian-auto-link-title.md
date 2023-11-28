@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230911171929
+modified: 20231128170849
 ---
 
 # Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
@@ -59,15 +59,16 @@ Google 的 Gboard 输入法在键盘上方有一个剪贴板助手快捷方式�
 >[!Tip] 提示
 >- 一些国产输入法或软键盘也和 Gboard 类似，发生同类不生效的情况。
 
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=236380816&bvid=BV13v411F7zA&cid=1346250162&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
 ## 隐私声明
 
-为了提取网页标题，该插件会下载位于粘贴 URL 的页面并提取标题的内容。
-
-如果你了解网页相关知识，下载的内容大概时 `<head><title>Title</title></head>`
-
-在台式机上，使用 Electron 的 BrowserWindow 来实现该功能，可以直接处理使用扩展字符集的语言，例如中文。
-
-然而，在移动设备上，我们没有使用 Electron 平台，因此我们必须简单地获取该页面。由于 web 服务器的 CORS 限制不允许直接访问，该插件使用 allorigins.win 代理来下载页面。该代理不支持其他字符集，将其返回为问号或乱码。
+- 为了提取网页标题，该插件会下载位于粘贴 URL 的页面并提取标题的内容。
+- 如果你了解网页相关知识，下载的内容大概时 `<head><title>Title</title></head>`
+- 在台式机上，使用 Electron 的 BrowserWindow 来实现该功能，可以直接处理使用扩展字符集的语言，例如中文。
+- 然而，在移动设备上，我们没有使用 Electron 平台，因此我们必须简单地获取该页面。由于 web 服务器的 CORS 限制不允许直接访问，该插件使用 allorigins.win 代理来下载页面。该代理不支持其他字符集，将其返回为问号或乱码。
 
 > [!Tip] 推荐阅读
 > - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
