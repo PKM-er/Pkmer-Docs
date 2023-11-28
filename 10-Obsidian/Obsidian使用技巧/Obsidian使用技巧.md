@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231127190204
+modified: 20231128100839
 ---
 
 # Obsidian 使用技巧
@@ -16,7 +16,7 @@ modified: 20231127190204
 
 ### 综合
 
-- [[Obsidian_2023_seyee|用 Obsidian 两年多，现在我怎么同步和使用]] by Seyee
+- [[Obsidian-2023-seyee| 用 Obsidian 两年多 现在我怎么同步和使用]] by Seyee
 - [[Obsidian那些实用的操作]]
 - [[如何获得Obsidian绿色版]]
 - [[如何使用Obsidian笔记-一步一步的指南]]
