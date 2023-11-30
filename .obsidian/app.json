@@ -1,8 +1,8 @@
 {
   "attachmentFolderPath": "Resource/Images",
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -11,14 +11,15 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "spellcheck": false,
+  "spellcheck": true,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "livePreview": true,
   "defaultViewMode": "source",
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "focusNewTab": true,
-  "showLineNumber": true,
-  "propertiesInDocument": "source",
-  "showUnsupportedFiles": true
+  "showLineNumber": false,
+  "propertiesInDocument": "hidden",
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true
 }
