@@ -162,8 +162,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
-- [[Obsidian样式-如去除hover-editor插件弹窗中的metadata属性面板]]
-
 #### Thino
 
 - [[Obsidian样式-给Thino加个滚动条]]
