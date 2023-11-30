@@ -1,13 +1,17 @@
 ---
 uid: 20230504172203
 title: Obsidian 插件：Zoom 通过快捷键，快速聚焦到大纲
-tags: [Obsidian, 插件, 效率, 大纲]
+tags:
+  - Obsidian
+  - 插件
+  - 效率
+  - 大纲
 description: obsidian-zoom 通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。
-author: cuman
+author: cuman, 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20230603015100
+modified: 20231128020518
 ---
 
 # Obsidian 插件：Zoom 通过快捷键，快速聚焦到大纲
@@ -32,9 +36,25 @@ modified: 20230603015100
 
  | 命令         |           默认快捷键 (Windows/Linux)           |                默认快捷键 (MacOS)                |
  | ------------ |:--------------------------------------------:|:----------------------------------------------:|
- | 扩展当前标题列表       |         <kbd>Ctrl</kbd> <kbd>.</kbd>         |              <kbd>Command</kbd><kbd>.</kbd>   |
- | 整个文档还原 | <kbd>Ctrl</kbd><kbd>Shift</kbd> <kbd>.</kbd> | <kbd>Command</kbd><kbd>Shift</kbd><kbd>.</kbd> |
+ | Zoom in (扩展当前标题或列表)       |         <kbd>Ctrl</kbd> <kbd>.</kbd>         |              <kbd>Command</kbd><kbd>.</kbd>   |
+ | Zoom out the entire document (整个文档还原) | <kbd>Ctrl</kbd><kbd>Shift</kbd> <kbd>.</kbd> | <kbd>Command</kbd><kbd>Shift</kbd><kbd>.</kbd> |
+
+### 单击列表符号进入 Zoom
+
+> 单击指定列表前面的 `- ` 鼠标变为手掌🤚🏻模式后单击进入 Zoom 模式
+
+| Setting 设置 | Default value 默认值 |
+| --- | :-: |
+| Zooming in when clicking on the bullet (单击项目符号时放大) | `true` |
 
 ## 功能延伸
 
 配合 [[obsidian-outliner]] 插件 可以实现类似大纲笔记的编辑效果。
+
+配合标题切换插件可以快速切换文档：
+- [[obsidian-another-quick-switcher_readme|obsidian-another-quick-switcher]]
+	- 提供便捷的文档标题预览和切换功能浮动面板
+- [[oin-gotoheading|go to heading]]
+	- 可以快速切换标题以及有another-quick-switcher文档标题功能，还有基于文件夹笔记和标题切换功能
+- [[quick-snippets-and-navigation_readme|quick-snippets-and-navigation]]
+	- 键盘导航上/下标题 - 可配置的默认代码块和回调 - 通过键盘快捷键复制代码块

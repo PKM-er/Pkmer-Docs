@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20231110210605
+modified: 20231128030110
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
@@ -104,6 +104,10 @@ excalidraw 可以把常用的一些绘图存为小组件库，也可以从网上
 3. 自定义嵌入样式：绘图想要白色背景，嵌入想要黑色背景，透明背景？想要边框？想要无边框？想要不同的字体？没问题，设置里可以添加 CSS 样式文件！
 4. [[Excalidraw局部嵌入Obsidian]]： Excalidraw 生成链接局部嵌入图形到 Obsidian 中
 
+### Library
+
+- [[如何导入Excalidraw Library的素材包]]
+
 ### 基于 Obsidian 优化
 
 Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太多很卡，但是随着大叔的精力不断投入，几年如一日，这些问题终被解决了。光是 Github 上提到的优化就有：
@@ -120,6 +124,8 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 
 ## 社区实践
 
+### 脚本制作
+
 > EA 脚本开发的介绍： [[ExcalidrawAutomate index]]
 
 - [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
@@ -129,6 +135,11 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 - [[自定义Excalidraw脚本-画板局部或者全局播放动画]]
 - [[自定义Excalidraw脚本-快速插入时间戳笔记]]
 - [[自定义Excalidraw脚本-OCR自动提取图片文字]]
+- [[自定义Excalidraw脚本-默认应用打开图片]]
+
+### CSS 美化
+
+- [[Obsidian样式-简单更改Excalidraw工具栏布局]]
 
 ## 支持开源开发者
 

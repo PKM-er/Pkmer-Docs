@@ -1,13 +1,13 @@
 ---
 uid: 20230905114038
 title: Obsidian 使用技巧
-tags: 
+tags: []
 description: Obsidian 使用技巧
 author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231024002131
+modified: 20231128100839
 ---
 
 # Obsidian 使用技巧
@@ -16,7 +16,7 @@ modified: 20231024002131
 
 ### 综合
 
-- [[Obsidian_2023_seyee|用 Obsidian 两年多，现在我怎么同步和使用]] by Seyee
+- [[Obsidian-2023-seyee| 用 Obsidian 两年多 现在我怎么同步和使用]] by Seyee
 - [[Obsidian那些实用的操作]]
 - [[如何获得Obsidian绿色版]]
 - [[如何使用Obsidian笔记-一步一步的指南]]
@@ -28,6 +28,7 @@ modified: 20231024002131
 - [[附件-豆瓣读书导入模板]]
 - [[Obsidian-为什么输入annotor的yaml模板时会被解析成分割线或文档属性]]
 - [[提升安卓手机使用obsidian笔记体验的几个软件]]
+- [[一网打尽-带你了解Obsidian中标签汇总方案]]
 
 ### 第三方插件
 
