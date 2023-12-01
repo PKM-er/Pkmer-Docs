@@ -12,6 +12,9 @@ modified: 20231123191256
 
 # Obsidian 插件常见问题
 
+如果以下内容还不能满足你：
+
+你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
 ## 核心插件
 
 ### 模板插件
