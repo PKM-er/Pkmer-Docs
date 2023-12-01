@@ -1,13 +1,13 @@
 ---
 uid: 20231121204343
 title: Obsidian 样式 ： 使用 CSS 为白板增加可选的“标记”功能
-tags: []
-description: 
-author: 
+tags: ["Obsidian", "CSS", "白板"]
+description: Obsidian 样式 ： 使用 CSS 为白板增加可选的“标记”功能
+author: tk
 type: other
 draft: false
 editable: false
-modified: 202311212110144703
+modified: 20231128164351
 ---
 
 # Obsidian 样式 ： 使用 CSS 为白板增加可选的“标记”功能
