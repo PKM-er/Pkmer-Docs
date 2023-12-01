@@ -75,6 +75,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 图片
 
 - [[Obsidian样式-图片点击长按放大]]
+- [[Obsidian样式-调整图片不同布局样式]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
