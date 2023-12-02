@@ -1,16 +1,13 @@
 ---
 uid: 20231202184706
 title: Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区
-tags:
-  - 评论
-  - 美化样式
-  - CSS自定义
-description: 通过修改 Html 语法中的 <details>评论区</details> 语法的样式来使它更像一个评论信息。
+tags: [评论, 美化样式, CSS自定义]
+description: 通过修改 Html 语法中的details语法的样式来使它更像一个评论信息。
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231202184836
+modified: 20231202222855
 ---
 
 # Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区

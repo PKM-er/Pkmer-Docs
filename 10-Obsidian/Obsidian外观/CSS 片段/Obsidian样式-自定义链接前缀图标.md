@@ -1,16 +1,13 @@
 ---
 uid: 20231202185056
 title: Obsidian 样式：自定义链接前缀图标
-tags:
-  - 链接样式
-  - 美化样式
-  - CSS自定义
+tags: [链接样式, 美化样式, CSS自定义]
 description: 自定义链接前缀图标
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231202185131
+modified: 20231202222733
 ---
 
 # Obsidian 样式：自定义链接前缀图标
