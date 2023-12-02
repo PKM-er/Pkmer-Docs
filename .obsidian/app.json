@@ -18,7 +18,7 @@
   "defaultViewMode": "source",
   "autoPairMarkdown": false,
   "focusNewTab": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "propertiesInDocument": "source",
   "showUnsupportedFiles": true,
   "strictLineBreaks": true
