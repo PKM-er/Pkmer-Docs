@@ -159,7 +159,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ### 语法拓展
 
-- [[Obsidian样式-调整Html的detail样式为简单评论区]]
+- [[Obsidian样式-调整HTML的detail样式为简单评论区]]
 
 ### 插件样式
 
