@@ -21,5 +21,5 @@
   "showLineNumber": true,
   "propertiesInDocument": "source",
   "showUnsupportedFiles": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": false
 }
