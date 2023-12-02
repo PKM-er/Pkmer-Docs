@@ -1,13 +1,13 @@
 ---
 uid: 20231123201314
-title: Dataview实战-通过Dataview列出标签所在段落内容
+title: Dataview实战-通过 Dataview 列出关键字所在的行和行数
 tags: [Obsidian, dataview, 标签，tags, 汇总]
 description: 列出关健字所在的行内容以及所在行数
 author: 我想煞了我
 type: other
 draft: false
 editable: false
-modified: 20231123233046
+modified: 20231202101635
 ---
 
 # Dataview 实战 - 通过 Dataview 列出关键字所在的行和行数
@@ -94,7 +94,7 @@ async function extractKeywords(keywordArr,files) {
 		keywordArr.forEach((k)=>{
 			content.forEach((element,index)=>{
       	if (element.includes(k)){
-      		values.push([`[[${file.basename}]]`,"**【" + String(index+1) + "】**" + element.trim().replace(k, "=="+k+"==")])
+      		values.push([`[[${file.basename}]]`,"**【" + String(index+1) + "】**" + element.trim().replaceAll(k, "=="+k+"==")])
       	}
 			})
 		})
@@ -105,7 +105,7 @@ async function extractKeywords(keywordArr,files) {
 
 上面的代码执行结果：
 
-![](https://cdn.pkmer.cn/images/202311232330768.bmp!pkmer)
+![](https://cdn.pkmer.cn/images/202312021806167.bmp!pkmer)
 
 我们可以看到：
 
