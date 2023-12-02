@@ -105,7 +105,7 @@ async function extractKeywords(keywordArr,files) {
 
 上面的代码执行结果：
 
-![[Pasted image 20231202101922.png]]
+![](https://cdn.pkmer.cn/images/202312021806167.bmp!pkmer)
 
 我们可以看到：
 
