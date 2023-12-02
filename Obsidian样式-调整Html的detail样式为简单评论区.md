@@ -37,7 +37,7 @@ modified: 20231202184836
 ```css
 /* @settings
 name: details样式修改
-id: Floating-side-menu-bar
+id: details-style-modification
 settings:
 -
 	id: details-choice
