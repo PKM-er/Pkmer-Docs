@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231130142808
+modified: 20231202185502
 aliases: [Obsidian css代码片段]
 ---
 
@@ -97,6 +97,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian网址前自动加图标]]
 - [[Obsidian样式-修改内链的链接颜色]]
+- [[Obsidian样式-自定义链接前缀图标]]
 
 ### 文件管理器
 
@@ -126,6 +127,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 嵌入样式
 
 - [[Obsidian样式-简约的嵌入样式(Embed CSS)]]
+- [[Obsidian样式-修改悬浮预览框的大小]]
 
 ### 表格样式
 
@@ -155,6 +157,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-通过css修改安卓上的搜索框宽度]]
 - [[obsidian安卓上利用css修改界面字体]]
 
+### 语法拓展
+
+- [[Obsidian样式-调整Html的detail样式为简单评论区]]
+
 ### 插件样式
 
 - [[Obsidian样式-Calendar插件的样式修改]]
@@ -163,6 +169,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+
 #### Thino
 
 - [[Obsidian样式-给Thino加个滚动条]]
