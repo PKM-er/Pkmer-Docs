@@ -96,7 +96,6 @@ modified: 20231203000849
 
 - 作者：
   - [李考凡](https://getquicker.net/User/Actions/478204-%E6%9D%8E%E8%80%83%E5%87%A1)：为 Obsidian 写了许多好用的动作；
-  - [熊猫别熬夜](https://getquicker.net/User/Actions/634327-%E7%86%8A%E7%8C%AB%E5%88%AB%E7%86%AC%E5%A4%9C)：本社区知名大佬；
   - [CL](https://getquicker.net/User/Actions/3-CL)：Quicker 官方作者；
   - [Cea](https://getquicker.net/User/Actions/113342-Cea)：Quicker 知名大佬；
   - [darcyc](https://getquicker.net/User/Actions/95689-darcyc)：又称“地球”，写了许多示例动作，供大家学习，Mac 版 Quicker 的作者；
