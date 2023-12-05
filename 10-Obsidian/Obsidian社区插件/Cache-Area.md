@@ -32,13 +32,13 @@ modified: 20231204111955
 
 ctrl + p 打开命令面板，搜索 cache，选择 Create new cache area
 
-![[1701657552540.png]]
+![1701657552540.png](https://cdn.pkmer.cn/images/1701657552540.png!pkmer)
 
 ### 方式二：借助快捷键
 
 在==设置 -> 快捷键==中搜索 cache-area，就可以看到插件提供的五个快捷键。给 Cache Area: Create new cache area 设置一个你习惯的快捷键即可。由于我平常不用 ctrl + n 新建文件，因此我把 ctrl + n 快捷键设置于生成这个电子草稿纸。
 
-![[Pasted image 20231204103802.png]]
+![Pasted image 20231204103802.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231204103802.png!pkmer)
 
 其他的几个选项也可以设置快捷键，他们的功能分别为
 
