@@ -113,4 +113,4 @@ npm run build
 
 ## 国际象棋棋子
 
-这些 SVG 棋子由 jurgenwesterhof 制作（根据 Cburnett 的作品进行调整），CC BY-SA 3.0 <<https://creativecommons.org/licenses/by-sa/3.0>，通过> [维基媒体共享资源](https://commons.wikimedia.org/wiki/File:Chess_Pieces_Sprite.svg)。
+这些 SVG 棋子由 jurgenwesterhof 制作（根据 Cburnett 的作品进行调整），CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>，通过> [维基媒体共享资源](https://commons.wikimedia.org/wiki/File:Chess_Pieces_Sprite.svg)。

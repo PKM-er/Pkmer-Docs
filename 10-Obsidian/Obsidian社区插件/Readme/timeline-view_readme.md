@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Timeline View
 > - 插件作者：b.camphart
 > - 插件说明：根据给定的属性，在时间轴上展示您的黑曜石笔记。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/b-camphart/timeline-view)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?timeline-view)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 根据给定的属性，在时间轴上展示您的黑曜石笔记。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/b-camphart/timeline-view/main/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,14 @@ modified: 20230101000000
 
 下面是 [[timeline-view]] 插件的自述翻译
 
-
 # 时间线视图
 
 根据给定的属性，在时间线上显示您的 Obsidian 笔记。
+
 ## 特点
+
 ### 属性
+
 选择您想要用来排序笔记的任何属性。 "created" 将根据笔记创建的时间对其进行排序，"modified" 将根据笔记修改的时间对其进行排序。
 
 ![根据创建日期对齐笔记](docs/resources/created-date-example.PNG)
@@ -56,12 +56,15 @@ modified: 20230101000000
 ![可用属性](docs/resources/available-properties.PNG)
 
 选择属性后，笔记将自动重新排列，并在时间线顶部显示适当类型的测量。
+
 ### 在点下方显示名称
+
 切换是否要在时间轴上的点下方显示音符的名称。
 
 ![在点下方显示音符](docs/resources/display-notes-below-points.PNG)
 
 默认情况下关闭此选项，因为任何靠近的音符可能会重叠。然而，您可以将鼠标悬停在音符上，同时显示其名称和所选属性的值。
+
 # 路线图
 
 - [ ] 基于 Obsidian 查询进行过滤

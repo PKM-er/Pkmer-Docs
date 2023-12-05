@@ -15,28 +15,25 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Mochi Cards Pro
 > - 插件作者：Hayden Carpenter
-> - 插件说明：使用Mochi的专业订阅提供的API，在Mochi.cards上创建闪卡。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：使用 Mochi 的专业订阅提供的 API，在 Mochi.cards 上创建闪卡。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/xHayden/obsidian-mochi-cards-pro)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mochi-cards-pro)
 
 ## 概述
 
-使用Mochi的专业订阅提供的API，在Mochi.cards上创建闪卡。
-
-
+使用 Mochi 的专业订阅提供的 API，在 Mochi.cards 上创建闪卡。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/xHayden/obsidian-mochi-cards-pro/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[mochi-cards-pro]] 插件的自述翻译
-
 
 # Mochi Cards Pro
 
@@ -45,19 +42,23 @@ modified: 20230101000000
 __你必须拥有 Mochi Pro 才能使用此插件，并在插件设置中提供你的 API 密钥__。
 
 唯一能够正常工作的 Mochi 模板必须以以下格式开头：
+
 ```
 << Name >> 
 <input value="">
 ```
+
 之后的部分不重要。
 
 要导出一张卡片，请按照以下格式编写：
+
 ```
 # 卡片名称
 卡片内容
 ```
 
-内容可以是任何东西。Markdown和LaTeX都可以使用。
+内容可以是任何东西。Markdown 和 LaTeX 都可以使用。
+
 您可以一次导出多个卡片。例如，
 
 ```

@@ -90,4 +90,4 @@ modified: 20230101000000
 
 归属
 
-我从<<https://github.com/liamcain/obsidian-periodic-notes> 复制了>“文件夹建议”设置功能 - 谢谢！
+我从<https://github.com/liamcain/obsidian-periodic-notes> 复制了>“文件夹建议”设置功能 - 谢谢！

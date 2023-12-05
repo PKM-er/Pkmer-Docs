@@ -493,7 +493,7 @@ div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
 
 ### 0.6.1
 
-- 修复了 `surround` 中的向后选择错误 (<<https://github.com/esm7/obsidian-vimrc-support/issues/91>)>
+- 修复了 `surround` 中的向后选择错误 (<https://github.com/esm7/obsidian-vimrc-support/issues/91>)>
 
 ### 0.6.0
 

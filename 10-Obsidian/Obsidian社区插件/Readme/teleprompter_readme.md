@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Teleprompter
 > - 插件作者：Lumetrium
 > - 插件说明：实时演示和视频制作的电子白板窗口。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/lumetrium/obsidian-teleprompter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?teleprompter)
 
@@ -24,19 +24,16 @@ modified: 20230101000000
 
 实时演示和视频制作的电子白板窗口。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lumetrium/obsidian-teleprompter/master/README.md)
-> 
+>
 
 ---
 
 ## Readme(翻译）
 
 下面是 [[teleprompter]] 插件的自述翻译
-
 
 <h1 align="center">Obsidian Teleprompter</h1>
 
@@ -56,11 +53,12 @@ modified: 20230101000000
 </p>
 关于插件
 
-在Obsidian中打开Teleprompter窗口并聚焦您想要阅读的笔记。Teleprompter窗口将以大字体、易于阅读的格式显示笔记的内容。当您阅读时，它会自动滚动，使您能够保持稳定的阅读速度。
+在 Obsidian 中打开 Teleprompter 窗口并聚焦您想要阅读的笔记。Teleprompter 窗口将以大字体、易于阅读的格式显示笔记的内容。当您阅读时，它会自动滚动，使您能够保持稳定的阅读速度。
 
 <p align="center">
   <img src="./assets/screenshots/devices.png"/>
 </p>
+
 # 📖 目录
 
 - [📃 关于插件](#about-the-plugin)
@@ -99,6 +97,7 @@ modified: 20230101000000
 - [💡 推荐](#recommendations)
 
 请注意，“特点”下的某些部分包含有关详细信息和演示的可折叠内容。您可以通过点击其描述来展开它们。
+
 # 截图
 
 <p>
@@ -107,11 +106,9 @@ modified: 20230101000000
 
 <img src="./assets/screenshots/tab.png" />
 
-
 单独窗口中的电子白板：
 
 <img src="./assets/screenshots/window.png"/>
-
 
 设置：面板选项卡：
 
@@ -141,12 +138,15 @@ modified: 20230101000000
 </details>
 
 展开下面的部分以查看更多截图。点击您感兴趣的功能描述以查看其详细信息和视觉演示。
+
 # 特性
 
-有一个特性想法，你相信它将把这个项目提升到一个新的水平？不要自己留着，通过在[这里](https://github.com/lumetrium/obsidian-teleprompter/issues/new)创建一个新的问题与社区分享。这将是讨论和记录你的特性建议的地方。
+有一个特性想法，你相信它将把这个项目提升到一个新的水平？不要自己留着，通过在 [这里](https://github.com/lumetrium/obsidian-teleprompter/issues/new) 创建一个新的问题与社区分享。这将是讨论和记录你的特性建议的地方。
+
 控件
 
 控件是可以放置在控制面板上的交互元素。它们提供了广泛的自定义选项，使您能够根据自己的特定偏好来调整其功能。每个控件都提供一组命令，可以方便地分配给热键。
+
 ### 播放
 
 <details>
@@ -158,6 +158,7 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 切换（ID：control:play:toggle）
 - 打开（ID：control:play:true）
 - 关闭（ID：control:play:false）
@@ -165,6 +166,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“播放”）
 - 状态： <b style="color: green">启用</b> / <b style="color: red">禁用</b>（默认值：<b style="color: red">禁用</b>）
 - 激活标签：启用时显示的标签（默认值：“正在播放”）
@@ -177,6 +179,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/play.gif" />
 
 </details>
+
 ### 固定笔记
 
 <details>
@@ -188,12 +191,15 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 切换（ID：control:pin-note:toggle）
 - 启用（ID：control:pin-note:true）
 - 禁用（ID：control:pin-note:false）
 
 ---
+
 设置：
+
 - 标签：显示名称（默认值：“固定笔记”）
 - 状态：<b style="color: green">启用</b> / <b style="color: red">禁用</b>（默认值：<b style="color: red">禁用</b>）
 - 激活标签：启用时显示的标签（默认值：“已固定”）
@@ -206,6 +212,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/pin-note.gif" />
 
 </details>
+
 ### 速度
 
 <details>
@@ -214,6 +221,7 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 增加 X 步（ID：control:speed:up）
 - 减少 X 步（ID：control:speed:down）
 - 重置（ID：control:speed:reset）
@@ -223,6 +231,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值："Speed"）
 - 值：当前速度（默认值：18）
 - 重置值：重置时将应用的速度（默认值：18）
@@ -237,6 +246,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/speed.gif" />
 
 </details>
+
 ### 字体大小
 
 <details>
@@ -245,6 +255,7 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 增加 X 步骤（ID：control:font-size:up）
 - 减小 X 步骤（ID：control:font-size:down）
 - 重置（ID：control:font-size:reset）
@@ -254,6 +265,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“字体大小”）
 - 值：当前字体大小（默认值：60）
 - 重置值：重置时将应用的字体大小（默认值：60）
@@ -268,6 +280,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/font-size.gif" />
 
 </details>
+
 ### 行高
 
 <details>
@@ -276,6 +289,7 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 增加 X 步长（ID：control:line-height:up）
 - 减小 X 步长（ID：control:line-height:down）
 - 重置（ID：control:line-height:reset）
@@ -285,7 +299,8 @@ modified: 20230101000000
 ---
 
 设置：
-- 标签：显示名称（默认值："行高"）
+
+- 标签：显示名称（默认值：" 行高 "）
 - 值：当前行高（默认值：1.2）
 - 重置值：重置时将应用的行高（默认值：1.2）
 - 最小值：最小可能行高（默认值：0.7）
@@ -299,6 +314,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/line-height.gif" />
 
 </details>
+
 ### 字间距
 
 <details>
@@ -307,6 +323,7 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 增加 X 步骤（ID：control:letter-spacing:up）
 - 减小 X 步骤（ID：control:letter-spacing:down）
 - 重置（ID：control:letter-spacing:reset）
@@ -316,6 +333,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“字间距”）
 - 值：当前字间距（默认值：0，表示正常）
 - 重置值：重置时将应用的字间距（默认值：0）
@@ -330,6 +348,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/letter-spacing.gif" />
 
 </details>
+
 ### 字体系列
 
 <details>
@@ -338,11 +357,13 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 重置（ID：control:font-family:reset）
 
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“字体系列”）
 - 值：当前字体系列（默认值：“默认”）
 - 重置值：重置时将应用的字体系列（默认值：“默认”）
@@ -350,9 +371,10 @@ modified: 20230101000000
 ---
 
 选项：
+
 - 默认
 - Arial
-- Courier New _(等宽字体)_
+- Courier New *(等宽字体)*
 - Georgia
 - Helvetica
 - Times New Roman
@@ -368,6 +390,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/font-family.gif" />
 
 </details>
+
 ### 填充
 
 <details>
@@ -376,23 +399,18 @@ modified: 20230101000000
 ---
 
 命令：
-- 顶部 - 增加X步长（ID：control:padding:0:up）
-- 顶部 - 减少X步长（ID：control:padding:0:down）
+
+- 顶部 - 增加 X 步长（ID：control:padding:0:up）
+- 顶部 - 减少 X 步长（ID：control:padding:0:down）
 - 顶部 - 重置（ID：control:padding:0:reset）
-
-
-- 右侧 - 增加X步长（ID：control:padding:1:up）
-- 右侧 - 减少X步长（ID：control:padding:1:down）
+- 右侧 - 增加 X 步长（ID：control:padding:1:up）
+- 右侧 - 减少 X 步长（ID：control:padding:1:down）
 - 右侧 - 重置（ID：control:padding:1:reset）
-
-
-- 底部 - 增加X步长（ID：control:padding:2:up）
-- 底部 - 减少X步长（ID：control:padding:2:down）
+- 底部 - 增加 X 步长（ID：control:padding:2:up）
+- 底部 - 减少 X 步长（ID：control:padding:2:down）
 - 底部 - 重置（ID：control:padding:2:reset）
-
-
-- 左侧 - 增加X步长（ID：control:padding:3:up）
-- 左侧 - 减少X步长（ID：control:padding:3:down）
+- 左侧 - 增加 X 步长（ID：control:padding:3:up）
+- 左侧 - 减少 X 步长（ID：control:padding:3:down）
 - 左侧 - 重置（ID：control:padding:3:reset）
 
 **步长可以在设置中配置*
@@ -400,6 +418,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 顶部
   - 标签：显示名称（默认值：“顶部”）
   - 值：当前顶部填充（默认值：50%）
@@ -436,17 +455,19 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/padding.gif"/>
 
 </details>
+
 ### 水平翻转
 
 <details>
   <summary>水平翻转文本</summary>
 
-- 当<b style="color: green">启用</b>时，文本将沿着X轴翻转。
+- 当<b style="color: green">启用</b>时，文本将沿着 X 轴翻转。
 - 当<b style="color: red">禁用</b>时，文本将正常显示。
 
 ---
 
 命令：
+
 - 切换（ID：control:flip-x:toggle）
 - 打开（ID：control:flip-x:true）
 - 关闭（ID：control:flip-x:false）
@@ -454,6 +475,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“水平翻转”）
 - 状态： <b style="color: green">启用</b> / <b style="color: red">禁用</b>（默认值：<b style="color: red">禁用</b>）
 - 激活标签：启用时显示的标签（默认值：“翻转”）
@@ -466,17 +488,19 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/flip-x.gif"/>
 
 </details>
+
 ### 垂直翻转
 
 <details>
   <summary>垂直翻转文本</summary>
 
-- 当<b style="color: green">启用</b>时，文本将沿Y轴翻转。
+- 当<b style="color: green">启用</b>时，文本将沿 Y 轴翻转。
 - 当<b style="color: red">禁用</b>时，文本将正常显示。
 
 ---
 
 命令：
+
 - 切换（ID：control:flip-y:toggle）
 - 打开（ID：control:flip-y:true）
 - 关闭（ID：control:flip-y:false）
@@ -484,6 +508,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“垂直翻转”）
 - 状态：<b style="color: green">启用</b> / <b style="color: red">禁用</b>（默认值：<b style="color: red">禁用</b>）
 - 激活标签：启用时显示的标签（默认值：“翻转”）
@@ -496,6 +521,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/flip-y.gif"/>
 
 </details>
+
 ### 文本颜色
 
 <details>
@@ -504,13 +530,15 @@ modified: 20230101000000
 ---
 
 命令:
+
 - 重置 (ID: control:text-color:reset)
 
 ---
 
 设置:
-- 标签: 显示名称 (默认值: "文本颜色")
-- 值: 当前文本颜色 (默认值: Obsidian的文本颜色)
+
+- 标签: 显示名称 (默认值: " 文本颜色 ")
+- 值: 当前文本颜色 (默认值: Obsidian 的文本颜色)
 
 ---
 
@@ -519,6 +547,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/text-color.gif"/>
 
 </details>
+
 ### 背景颜色
 
 <details>
@@ -527,13 +556,15 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 重置（ID：control:bg-color:reset）
 
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“背景颜色”）
-- 值：当前背景颜色（默认值：Obsidian的背景颜色）
+- 值：当前背景颜色（默认值：Obsidian 的背景颜色）
 
 ---
 
@@ -542,6 +573,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/bg-color.gif"/>
 
 </details>
+
 ### 查看模式
 
 <details>
@@ -550,18 +582,21 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 重置（ID：control:content:reset）
 
 ---
 
 设置：
-- 标签：显示名称（默认值："查看模式"）
+
+- 标签：显示名称（默认值：" 查看模式 "）
 - 值：当前查看模式（默认值："Markdown"）
 - 重置值：重置时将应用的查看模式（默认值："Markdown"）
 
 ---
 
 选项：
+
 - Markdown
 - 纯文本
 
@@ -572,6 +607,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/view-mode.gif"/>
 
 </details>
+
 ### 保持唤醒
 
 <details>
@@ -583,6 +619,7 @@ modified: 20230101000000
 ---
 
 命令：
+
 - 切换（ID：control:wake-lock:toggle）
 - 打开（ID：control:wake-lock:true）
 - 关闭（ID：control:wake-lock:false）
@@ -590,12 +627,14 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“保持唤醒”）
 - 状态： <b style="color: green">启用</b> / <b style="color: red">禁用</b>（默认值：<b style="color: green">启用</b>）
 - 激活标签：启用时显示的标签（默认值：“激活”）
 - 非激活标签：禁用时显示的标签（默认值：“”）
 
 </details>
+
 ### 分离窗口
 
 > 📵 此功能在移动设备上不可用。
@@ -617,6 +656,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值："Detach window"）
 - 状态： <b style="color: green">启用</b> / <b style="color: red">禁用</b>（默认值：<b style="color: red">禁用</b>）
 - 激活标签：启用时显示的标签（默认值："Detached"）
@@ -629,6 +669,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/detach-window.gif"/>
 
 </details>
+
 ### 不透明度
 
 > 📵 此功能在移动设备上不可用。
@@ -649,6 +690,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“不透明度”）
 - 值：当前不透明度（默认值：100%）
 - 重置值：重置时将应用的不透明度（默认值：100%）
@@ -663,6 +705,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/opacity.gif"/>
 
 </details>
+
 ### 打开设置
 
 <details>
@@ -671,12 +714,14 @@ modified: 20230101000000
 ---
 
 命令:
+
 - 打开设置 (ID: control:open-settings:trigger)
 
 ---
 
 设置:
-- 标签: 显示名称 (默认值: "打开设置")
+
+- 标签: 显示名称 (默认值: " 打开设置 ")
 
 ---
 
@@ -685,6 +730,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/open-settings.gif"/>
 
 </details>
+
 ### 全屏
 
 <details>
@@ -704,6 +750,7 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 标签：显示名称（默认值：“全屏”）
 - 状态：启用/禁用（默认值：禁用）
 - 激活标签：启用时显示的标签（默认值：“激活”）
@@ -721,6 +768,7 @@ modified: 20230101000000
 面板是多功能容器，可在垂直和水平方向上使用，您可以将其插入到电视台窗口中，以展示各种控件和附加信息。您可以根据需要添加任意数量的面板，并根据特定要求调整其内容、尺寸、定位和其他属性。
 
 目前，有两种类型的面板可用：
+
 ### 控制面板
 
 <details>
@@ -729,14 +777,15 @@ modified: 20230101000000
 ---
 
 设置：
+
 - 名称：显示名称（默认值：“控制面板”）
 - 位置：面板放置的位置（默认值：“顶部”）
   - 顶部
   - 底部
   - 左侧
   - 右侧
-- 宽度：面板的宽度（默认值：250像素），仅适用于“左侧”和“右侧”位置
-- 高度：面板的高度（默认值：48像素），仅适用于“顶部”和“底部”位置
+- 宽度：面板的宽度（默认值：250 像素），仅适用于“左侧”和“右侧”位置
+- 高度：面板的高度（默认值：48 像素），仅适用于“顶部”和“底部”位置
 - 对齐方式：面板的对齐方式（默认值：“居中”），仅适用于“左侧”和“右侧”位置
   - 默认
   - 居中
@@ -753,6 +802,7 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/control-panel-settings.png"/>
 
 </details>
+
 ### 页面小地图
 
 <details>
@@ -761,12 +811,13 @@ modified: 20230101000000
 ---
 
 设置:
-- 名称: 显示的名称（默认值: "控制面板"）
-- 位置: 面板的放置位置（默认值: "右侧"）
+
+- 名称: 显示的名称（默认值: " 控制面板 "）
+- 位置: 面板的放置位置（默认值: " 右侧 "）
     - 左侧
     - 右侧
 - 宽度: 面板的宽度（默认值: 156 像素）
-- 对齐: 面板的对齐方式（默认值: "居中"）
+- 对齐: 面板的对齐方式（默认值: " 居中 "）
     - 默认
     - 居中
     - 左对齐
@@ -779,29 +830,37 @@ modified: 20230101000000
 <img src="./assets/screenshots/features/pagemap.gif"/>
 
 </details>
+
 ## 快捷键
 
-在Teleprompter窗口中，可以使用快捷键执行所有可能的操作。
-总共，该插件提供了**60个命令**，可以映射到快捷键上。
+在 Teleprompter 窗口中，可以使用快捷键执行所有可能的操作。
+
+总共，该插件提供了**60 个命令**，可以映射到快捷键上。
+
 ### 控制热键
 
 控制提供了与其功能相关的命令。请查看您感兴趣的控制的详细描述，以了解它提供了哪些命令。
+
 ### 内容快捷键
 
 - 滚动到顶部（ID：content:scroll-to-top）
 - 滚动到底部（ID：content:scroll-to-bottom）
-- 向上滚动50像素（ID：content:scroll-up）
-- 向下滚动50像素（ID：content:scroll-down）
+- 向上滚动 50 像素（ID：content:scroll-up）
+- 向下滚动 50 像素（ID：content:scroll-down）
+
 ### 附加快捷键
 
 - 在侧边栏中打开电子提示器（ID：open-app:sidebar）
 - 在新标签页中打开电子提示器（ID：open-app:new-tab）
 - 在新窗口中打开电子提示器（ID：open-app:new-window）
 安装
+
 ### 社区插件目录
 
-点击[这里](https://obsidian.md/plugins?id=teleprompter)在Obsidian中打开安装页面。
-有关详细信息，请参阅[官方安装说明](https://help.obsidian.md/Extending+Obsidian/Community+plugins)。
+点击 [这里](https://obsidian.md/plugins?id=teleprompter) 在 Obsidian 中打开安装页面。
+
+有关详细信息，请参阅 [官方安装说明](https://help.obsidian.md/Extending+Obsidian/Community+plugins)。
+
 ### 手动安装
 
 1. 从最新的 [Github Release](https://github.com/lumetrium/obsidian-teleprompter/releases) 下载最新的 `obsidian-teleprompter.zip` 文件。
@@ -809,12 +868,14 @@ modified: 20230101000000
 3. 重新启动 Obsidian。
 4. 打开 **设置** -> **社区插件**，并激活 **Teleprompter**。
 
-详细信息请参见[论坛](https://forum.obsidian.md/t/plugins-mini-faq/7737)。
+详细信息请参见 [论坛](https://forum.obsidian.md/t/plugins-mini-faq/7737)。
+
 ## 披露
 
-根据[Obsidian的开发者政策](https://docs.obsidian.md/Developer+policies)，在插件界面中存在任何静态广告，如横幅和弹出消息，都需要透明披露。
+根据 [Obsidian的开发者政策](https://docs.obsidian.md/Developer+policies)，在插件界面中存在任何静态广告，如横幅和弹出消息，都需要透明披露。
 
-该插件包含一个[静态广告](./assets/screenshots/settings-about.png)，仅在设置的“关于”页面上可访问。该广告是指向由该插件的作者开发的[项目](https://lumetrium.com/definer)的链接。重要的是要强调，没有任何第三方广告的参与。
+该插件包含一个 [静态广告](./assets/screenshots/settings-about.png)，仅在设置的“关于”页面上可访问。该广告是指向由该插件的作者开发的 [项目](https://lumetrium.com/definer) 的链接。重要的是要强调，没有任何第三方广告的参与。
+
 ## 推荐
 
 查看由同一作者制作的这个浏览器扩展程序：
@@ -823,8 +884,5 @@ modified: 20230101000000
   <img src="./assets/logos/definer.png" style="margin-right: 0.7em" height="30px" align="left"/>
 </a>
 
-**[Definer - 弹出式词典和翻译工具](https://lumetrium.com/definer)**  
+**[Definer - 弹出式词典和翻译工具](https://lumetrium.com/definer)**
 即时为您选择或输入的单词和短语提供定义、翻译和搜索结果。
-
-
-

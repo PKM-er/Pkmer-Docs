@@ -81,4 +81,4 @@ root
                 └── file3.pdf
 ```
 
-感谢<<https://gitlab.com/nfriend> 制作了最常用的目录插件，可以在 <https://tree.nathanfriend.io/上在线使用。>>
+感谢<https://gitlab.com/nfriend> 制作了最常用的目录插件，可以在 <https://tree.nathanfriend.io/上在线使用。>

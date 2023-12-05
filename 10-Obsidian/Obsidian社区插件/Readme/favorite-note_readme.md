@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Favorite Note
 > - 插件作者：Mahmudul Hasan
 > - 插件说明：将您的笔记标记为收藏。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/mahmudz/obsidian-favorite-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?favorite-note)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 将您的笔记标记为收藏。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mahmudz/obsidian-favorite-plugin/master/README.md)
-> 
+>
 
 ---
 
@@ -37,20 +35,22 @@ modified: 20230101000000
 
 下面是 [[favorite-note]] 插件的自述翻译
 
-
-# Obsidian收藏夹插件
+# Obsidian 收藏夹插件
 
 <p style="text-align: center;">
 	<img src="preview.png" />
 </p>
 
-这是一个缺失的Obsidian插件，可以将你的笔记标记为收藏。
-这个插件与核心的[书签](https://help.obsidian.md/Plugins/Bookmarks)插件有什么不同之处？
+这是一个缺失的 Obsidian 插件，可以将你的笔记标记为收藏。
+
+这个插件与核心的 [书签](https://help.obsidian.md/Plugins/Bookmarks) 插件有什么不同之处？
 
 该插件引入了在笔记列表中直接将个别笔记标记为收藏夹的功能，提供了一种更方便和直观的方式来管理和访问喜爱的笔记。与核心的书签功能不同，该插件专为希望简化突出显示和访问特定重要笔记的用户而设计。
+
 ### 安装方法
 
-您可以通过以下步骤在Obsidian中激活此插件：
+您可以通过以下步骤在 Obsidian 中激活此插件：
+
 #### 手动安装
 
 - 下载最新的发布压缩文件

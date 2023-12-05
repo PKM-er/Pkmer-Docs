@@ -68,7 +68,7 @@ Obsidian OCR 允许您在图像和 PDF 中搜索文本。
 
 ###### 手动安装
 
-❗确保可执行文件在您的路径中。如果您不知道如何操作，请查看这里：<<https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/>❗>
+❗确保可执行文件在您的路径中。如果您不知道如何操作，请查看这里：<https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/>❗>
 
 - 安装 [tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
 - 安装 [imagemagick](https://imagemagick.org/index.php)

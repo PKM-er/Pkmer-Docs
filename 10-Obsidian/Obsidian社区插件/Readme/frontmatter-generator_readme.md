@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Frontmatter generator
 > - 插件作者：Hananoshika Yomaru
-> - 插件说明：从JSON和JavaScript生成您的笔记的前言
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：从 JSON 和 JavaScript 生成您的笔记的前言
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?frontmatter-generator)
 
 ## 概述
 
-从JSON和JavaScript生成您的笔记的前言
-
-
+从 JSON 和 JavaScript 生成您的笔记的前言
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator/main/README.md)
-> 
+>
 
 ---
 
@@ -37,12 +35,12 @@ modified: 20230101000000
 
 下面是 [[frontmatter-generator]] 插件的自述翻译
 
-
-# Obsidian前置生成器
+# Obsidian 前置生成器
 
 在保存时生成您的前置内容。
 
 ✅ 强大而简单
+
 ## 使用方法
 
 1. 安装插件后，访问插件的设置页面
@@ -68,11 +66,12 @@ test:
   - '2'
 ```
 
-3. 安装 [obsidian-custom-save](https://github.com/HananoshikaYomaru/obsidian-custom-save) 并将 `frontmatter-generator: run file` 命令添加到自定义保存操作中
+1. 安装 [obsidian-custom-save](https://github.com/HananoshikaYomaru/obsidian-custom-save) 并将 `frontmatter-generator: run file` 命令添加到自定义保存操作中
 
 - 基本演示： <https://youtu.be/Cz9d5e1WQVM>
 - 标签属性演示： <https://www.youtube.com/watch?v=lyhrOG2Sn88&t=16>
 高级用法
+
 ### 条件表达式
 
 ```ts
@@ -83,6 +82,7 @@ file.properties?.type === 'kanban'
    }
  : {}
 ```
+
 ### 函数
 
 ```ts
@@ -92,6 +92,7 @@ file.properties?.type === 'kanban'
  })()
 }
 ```
+
 ### 数据视图
 
 ```ts
@@ -99,6 +100,7 @@ file.properties?.type === 'kanban'
  numberOfPages: dv.pages('#ai').length
 }
 ```
+
 ## 前言模板的语法
 
 它可以是一个返回对象的 JSON 或 JavaScript 表达式。
@@ -106,6 +108,7 @@ file.properties?.type === 'kanban'
 ![](https://share.cleanshot.com/nfW5nV8L+)
 
 <small>^ 甚至函数也可以工作</small>
+
 ## 可以访问的变量
 
 - `file`，[`TFile`](https://docs.obsidian.md/Reference/TypeScript+API/TFile/TFile) 对象
@@ -114,13 +117,15 @@ file.properties?.type === 'kanban'
 - `dv`，[dataview](https://blacksmithgu.github.io/obsidian-dataview/) 对象（只有在安装和启用 dataview 插件后才能访问）
 - `z`，zod 对象
 安装
-您可以在Obsidian插件市场上找到它。
+您可以在 Obsidian 插件市场上找到它。
+
 ### 手动安装
 
 1. 切换到 `.obsidian/plugins` 目录
 2. 克隆该仓库
 3. 运行 `cd obsidian-frontmatter-generator && bun install && bun run build`
 4. 完成！🎉
+
 ## 注意事项
 
 1. 要停止在文件上生成内容，可以在前置元数据中添加 `yaml-gen-ignore: true`。您也可以在设置中忽略整个文件夹。
@@ -129,14 +134,19 @@ file.properties?.type === 'kanban'
 4. 如果您想要贡献代码，请先打开一个问题。
 5. 🚨 该插件仍在开发中，请不要尝试使用奇怪的关键字或访问模板中的全局变量来进行黑客攻击。这样做可能不会起作用，但如果您找到了一种黑客攻击的方法，它只会破坏您自己的存储库。
 如何发布
-# 更新package.json中的版本号
+
+# 更新 package.json 中的版本号
+
 bun version
+
 git add .
+
 git commit -m <message>
+
 git tag -a <version> -m <version>
+
 git push origin <version>
+
 git push
-# 发布工作流完成后，在github上更新发布文档
 
-
-
+# 发布工作流完成后，在 github 上更新发布文档

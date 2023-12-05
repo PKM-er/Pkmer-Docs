@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Jira Linker
 > - 插件作者：Steven Zilberberg
-> - 插件说明：快速将Jira问题标签格式化为指向您的Jira实例的链接。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：快速将 Jira 问题标签格式化为指向您的 Jira 实例的链接。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/srz2/obsidian-jira-linker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?jira-linker)
 
 ## 概述
 
-快速将Jira问题标签格式化为指向您的Jira实例的链接。
-
-
+快速将 Jira 问题标签格式化为指向您的 Jira 实例的链接。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/srz2/obsidian-jira-linker/master/README.md)
-> 
+>
 
 ---
 
@@ -37,28 +35,33 @@ modified: 20230101000000
 
 下面是 [[jira-linker]] 插件的自述翻译
 
+# Jira 链接器
 
-# Jira链接器
+这是一个 [Obsidian](https://obsidian.md) 插件，可以快速添加以下内容：
 
-这是一个[Obsidian](https://obsidian.md)插件，可以快速添加以下内容：
- - Jira问题的基于Web的URL
- - 问题的本地文件夹的基于URI的URL
+ - Jira 问题的基于 Web 的 URL
+ - 问题的本地文件夹的基于 URI 的 URL
+
 ## 可用命令
+
 1. **链接 Jira 问题**
 
 这将链接到给定 Jira 问题的 Jira 实例
 
 注意：必须设置 *Jira 实例 URL*
 
-2. **链接 Jira 问题到信息**
+1. **链接 Jira 问题到信息**
 
 这将链接到给定 Jira 问题的本地文件。如果路径不存在，将会创建它
 
 注意：必须设置 *本地问题路径*
+
 注意：您可以选择更改 "main" 文件。默认为 "_Info"
+
 ## 演示
 
 ![演示动画](./documentation/demo.gif)
+
 ## 如何使用
 
 - 配置所需的设置：

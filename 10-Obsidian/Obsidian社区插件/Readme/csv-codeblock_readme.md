@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：CSV Codeblock
 > - 插件作者：elrindir
-> - 插件说明：使用CSV格式呈现代码块。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：使用 CSV 格式呈现代码块。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/elrindir/obsidian-csv-codeblock)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?csv-codeblock)
 
 ## 概述
 
-使用CSV格式呈现代码块。
-
-
+使用 CSV 格式呈现代码块。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/elrindir/obsidian-csv-codeblock/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,10 @@ modified: 20230101000000
 
 下面是 [[csv-codeblock]] 插件的自述翻译
 
-
 # CSV 代码块
 
-这是一个 Obsidian 插件（https://obsidian.md）。该插件将 CSV 格式的代码块渲染为表格。
+这是一个 Obsidian 插件（<https://obsidian.md）。该插件将> CSV 格式的代码块渲染为表格。
+
 # 用法
 
 只需将 `csv` 标识符放在代码块中：
@@ -56,6 +54,7 @@ modified: 20230101000000
 `````
 
 ![渲染表格的预览](https://github.com/elrindir/obsidian-csv-codeblock/blob/master/rendered_table.png)
+
 ```ts
 import { Plugin } from "obsidian";
 
@@ -80,6 +79,3 @@ export default class ExamplePlugin extends Plugin {
   }
 }
 ```
-
-
-

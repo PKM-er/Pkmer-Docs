@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：tckr
 > - 插件作者：Git-Sum
-> - 插件说明：获取您的TickTicks！
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：获取您的 TickTicks！
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Git-Sum/obsidian-tckr)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tckr)
 
 ## 概述
 
-获取您的TickTicks！
-
-
+获取您的 TickTicks！
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Git-Sum/obsidian-tckr/master/README.md)
-> 
+>
 
 ---
 
@@ -37,17 +35,19 @@ modified: 20230101000000
 
 下面是 [[tckr]] 插件的自述翻译
 
-
 # tckr
 
-获取你的TickTicks！
+获取你的 TickTicks！
 
-**注意：**此插件使用v1 API
+**注意：**此插件使用 v1 API
+
 ## 如何使用
+
 1. 点击复选标志图标
 2. 选择您的项目
 3. 点击任务以展开任何可用属性
 4. 点击复选框以标记完成
+
 ## 设置
 
 - 创建一个 Tick Tick 应用
@@ -59,14 +59,18 @@ modified: 20230101000000
 	4. 记下你的 `clientId` 和 `clientSecret`
 - 在 Obsidian 中安装 `tckr` 插件
 - 添加你的 `clientId` 和 `clientSecret`
-- 点击 "刷新令牌"
+- 点击 " 刷新令牌 "
 - 完成
+
 ## 已知限制
+
 - 任务必须属于一个项目
 - 已完成的任务不会显示
 - 检查清单项目只能读取，无法编辑
 - ...
+
 ## 已知的错误
+
 - ...
 即将推出的功能
 
