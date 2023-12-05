@@ -1,16 +1,16 @@
 ---
 uid: 20231120182926
-title: 个人图书馆的简单构建
+title: 利用 Obsidian 轻松构建个人图书馆
 tags: []
-description: 个人图书馆的简单构建
+description: 利用 Obsidian 轻松构建个人图书馆
 author: 余月鱼鸽
 type: other
 draft: false
 editable: false
-modified: 20231121131828
+modified: 20231206000352
 ---
 
-# 个人图书馆的简单构建
+# 利用 Obsidian 轻松构建个人图书馆
 
 ## 个人图书馆简介
 
@@ -21,14 +21,14 @@ modified: 20231121131828
 1. 可以通过主页的快捷按钮打开【个人图书馆】
 2. 在个人图书馆中可以通过对 yaml 数据的筛选或排序快速定位书籍
 
-![Pasted image 20231120151341.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120151341.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120151341.png!pkmer)
 
 1. 点击书籍后，可以直接查看书籍的基础信息并进行阅读
-![Pasted image 20231120152059.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120152059.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120152059.png!pkmer)
 
 ## 构建方式
 
-![Pasted image 20231120165222.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120165222.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/9TP~LH%5DOE2NQUU39I9PD%7DJI.png!pkmer)
 
 个人图书馆的构建方式比较简单，大致为以下 4 个步骤：
 
@@ -49,7 +49,7 @@ modified: 20231121131828
 
 [[obsidian-douban-plugin]] 插件的作者内置了一套模板，按照说明复制、黏贴即可正常使用。为了美观考虑，我自己 DIY 了一套模板，具体可参考：[[附件-豆瓣读书导入模板]]
 
-![Pasted image 20231120165222.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120165222.png!pkmer)
+![个人图书馆的简单构建g](https://cdn.pkmer.cn/images/Pasted%20image%2020231120165222.png!pkmer)
 
 #### 1.2 过一遍设置即可导入书籍
 
@@ -57,19 +57,19 @@ douban 插件的设置默认为中文，这里就不展开了。
 
 1.2.1 设置完成后即可按【ctrl + p】在命令面板中输入【douban】即可开始信息导入。
 
-![Pasted image 20231120170512.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120170512.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120170512.png!pkmer)
 
 1.2.2 在搜索框输入书籍名称开始查询：
 
-![Pasted image 20231120170635.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120170635.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120170635.png!pkmer)
 
 1.2.3 选择自己想要的书籍版本即可录入书籍信息。
 
-![Pasted image 20231120170652.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120170652.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120170652.png!pkmer)
 
 1.2.4 录入效果：
 
-![Pasted image 20231120152059.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120152059.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120152059.png!pkmer)
 
 ### 2.构建图书馆雏形
 
@@ -81,19 +81,19 @@ douban 插件的设置默认为中文，这里就不展开了。
 
 2.1.1 按【ctrl + p】在命令面板中输入【projects】，选中【新建项目】即可
 
-![Pasted image 20231120171422.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120171422.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120171422.png!pkmer)
 
 2.1.2 projects 支持的信息源主要有 3 种，个人更推荐使用标签（上方提到的 [[附件-豆瓣读书导入模板]] 默认设置好标签）
 
-![Pasted image 20231120171553.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120171553.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120171553.png!pkmer)
 
 2.1.3 设置完毕后，可以获得一个类似这样只有表格的界面。这个时候在右侧的【 + 】点击创建【画册】即可。
 
-![Pasted image 20231120172140.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120172140.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120172140.png!pkmer)
 
 值得注意的是，书籍的图片需要有个数据源，如果没有设置的话，默认会为空（如下图所示）。上方提到的 [[附件-豆瓣读书导入模板]] 默认设置好了【封面】数据源，在画册界面进行勾选即可。
 
-![Pasted image 20231120171905.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120171905.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120171905.png!pkmer)
 
 ### 3.导入书籍（或构建库外链接）
 
@@ -113,16 +113,16 @@ douban 插件的设置默认为中文，这里就不展开了。
 
 4.1.1 按【ctrl + p】在命令面板中输入【button】，选中【button maker】即可
 
-![Pasted image 20231120173609.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120173609.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120173609.png!pkmer)
 
 4.1.2 按【button maker】面板中进行参数设置：选中【command】选项后，即可把我们命令库的操作变成按钮。
 
-![Pasted image 20231120174013.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120174013.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120174013.png!pkmer)
 
 4.1.3 内嵌按钮，按【ctrl + p】在命令面板中输入【button】，选中【insert inline button】选中按钮的 id（上一个步骤设置按钮时设置的 id），即可复制这个按钮。
 
-![Pasted image 20231120174152.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120174152.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120174152.png!pkmer)
 
 这个按钮可以嵌入到任何你想嵌入的文件内。我的侧边栏就使用了这样的按钮：
 
-![Pasted image 20231120174453.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231120174453.png!pkmer)
+![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120174453.png!pkmer)
