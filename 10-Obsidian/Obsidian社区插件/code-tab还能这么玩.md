@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231105000650
+modified: 20231204161811
 ---
 
 # Obsidian 插件：code tab 还能这么“玩”
@@ -143,9 +143,3 @@ body {
   overflow: auto;
 }
 ```
-
-有时我会想给标签栏中的标签名加上高亮、加粗或者斜体，可是原版 code-tab 并不支持标签栏渲染，于是我稍微在原版的基础上加了些修改，让标签栏的文本也可以渲染 markdown，需要的可以在下方自取。
-
-![[code-tab 还能这么“玩”-20231104022822915.png]]
-
-[xhuajin/obsidian-code-tab-page at v1.0.0 (github.com)](https://github.com/xhuajin/obsidian-code-tab-page/tree/v1.0.0) 自取
