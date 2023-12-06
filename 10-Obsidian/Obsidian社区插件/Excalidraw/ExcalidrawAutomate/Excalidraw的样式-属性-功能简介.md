@@ -1,16 +1,13 @@
 ---
 uid: 20231110210032
 title: Excalidraw 的样式、属性、功能简介
-tags:
-  - Excalidraw脚本
-  - Excalidraw
-  - 开发者指南
+tags: [Excalidraw脚本, Excalidraw, 开发者指南]
 description: Excalidraw 的样式、属性、功能简介
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231110210149
+modified: 20231206205024
 ---
 
 # Excalidraw 的样式、属性、功能简介
@@ -18,7 +15,7 @@ modified: 20231110210149
 ## Excalidraw 的元素样式设置 (ea.style)
 
 > [!example]+ 调用和修改样式案例
-> 
+>
 > ```js
 > ea.style.backgroundColor = "#ced4da"; // 填充颜色
 > ea.style.fillStyle = 'solid'; // 填充样式
@@ -54,7 +51,7 @@ modified: 20231110210149
 ## Excalidraw 的 Canvas 属性设置
 
 > [!example]+
-> 
+>
 > ```js
 > const api = ea.getExcalidrawAPI();
 > const canvas = api.getAppState();
@@ -76,7 +73,7 @@ modified: 20231110210149
 
 ### 控制台输入 ExcalidrawAutomate 查看
 
-`Ctrl + Shift + I` 调出 Obsidian 的开发者模式，选择控制台的标签页，输入ExcalidrawAutomate命令：
+`Ctrl + Shift + I` 调出 Obsidian 的开发者模式，选择控制台的标签页，输入 ExcalidrawAutomate 命令：
 
 ```js
 ExcalidrawAutomate
@@ -95,7 +92,8 @@ ea 的元素样式在 ea.style 中查看
 
 ![Pasted image 20231110203121](https://cdn.pkmer.cn/images/Pasted%20image%2020231110203121.png!pkmer)
 
-当然你也可以打开 Excalidraw的md文件，在**# Drawing**下方里面也记录了当前画板的元素和样式：
+当然你也可以打开 Excalidraw 的 md 文件，在**# Drawing**下方里面也记录了当前画板的元素和样式：
+
 ![Pasted image 20231110203524](https://cdn.pkmer.cn/images/Pasted%20image%2020231110203524.png!pkmer)
 
 #### ExcalidrawAutomate 命令
@@ -104,7 +102,7 @@ ea 的指令在 Prototype 对象 (Object) 中查看：
 
 ![Pasted image 20231110202843](https://cdn.pkmer.cn/images/Pasted%20image%2020231110202843.png!pkmer)
 
-### ExcalidrawAutomate总览
+### ExcalidrawAutomate 总览
 
 ```js 
 export declare class ExcalidrawAutomate implements ExcalidrawAutomateInterface {

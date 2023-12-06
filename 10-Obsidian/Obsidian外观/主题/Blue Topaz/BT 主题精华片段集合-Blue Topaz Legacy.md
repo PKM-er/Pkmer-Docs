@@ -124,7 +124,7 @@ modified: 20230804113007
 - kanban **伪看板**
 - table **表格单行全部显示**
 
-关于 Callout 的部分可以见 [[BT 主题精华片段集合：Blue Topaz Legacy#Callout 增强|Callout增强]]
+关于 Callout 的部分可以见 [[BT 主题精华片段集合-Blue Topaz Legacy#Callout 增强|Callout增强]]
 
 ## 类笔记样式背景设置
 
