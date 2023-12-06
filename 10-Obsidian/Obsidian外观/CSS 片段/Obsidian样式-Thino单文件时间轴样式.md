@@ -1,16 +1,13 @@
 ---
 uid: 20231205164730
 title: Obsidian 样式：Thino 单文件时间轴样式
-tags:
-  - obsidian
-  - Thino
-  - 美化
+tags: [obsidian, Thino, 美化]
 description: Thino单文件时间轴样式
 author: Cuman
 type: other
 draft: false
 editable: false
-modified: 20231205164730
+modified: 20231206100026
 ---
 
 # Obsidian 样式：Thino 单文件时间轴样式
@@ -25,7 +22,9 @@ modified: 20231205164730
 
 引入了单文件特性后，每个随笔将被写入一个独立的文件中。这使得我们能够实现一个时间轴效果，让每天的笔记日程一目了然。
 
-![image.png](https://cdn.pkmer.cn/images/202312051647981.png!pkmer)
+
+
+![](https://cdn.pkmer.cn/images/202312060854791.png!pkmer)
 
 ## 效果图
 
