@@ -121,7 +121,7 @@ Obsidian 的设计是将所有数据存储在本地
 
 如果您还没有 imgur.com 账户，您需要首先 [注册一个](https://imgur.com/register)。
 
-登录后，转到<<https://api.imgur.com/oauth2/addclient>并为> Obsidian 生成**客户端 ID**：
+登录后，转到<https://api.imgur.com/oauth2/addclient>并为> Obsidian 生成**客户端 ID**：
 
 - 提供应用程序名称，例如 "Obsidian"
 - 选择 "OAuth 2 授权，无回调 URL"

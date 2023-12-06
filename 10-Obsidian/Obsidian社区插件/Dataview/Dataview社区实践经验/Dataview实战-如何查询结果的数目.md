@@ -23,3 +23,5 @@ FROM "#book"
 GROUP BY 作者
 ```
 `````
+
+ ![image.png|700](https://cdn.pkmer.cn/images/202312060916658.png!pkmer)

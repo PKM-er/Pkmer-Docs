@@ -70,7 +70,7 @@ modified: 20230101000000
 | CSharp     | [Sololearn](https://www.sololearn.com)                       |
 | Swift      | [Sololearn](https://www.sololearn.com)                       |
 
-**注意**：只有 `Python`、`TypeScript`、`JavaScript` 在本地沙箱（js / webassembly）中运行。其他语言将发送代码到第三方网站以评估结果（例如：<<https://play.kotlinlang.org，https>:<//play.rust-lang.org）。请注意避免发送可能包含敏感信息的源代码。>>
+**注意**：只有 `Python`、`TypeScript`、`JavaScript` 在本地沙箱（js / webassembly）中运行。其他语言将发送代码到第三方网站以评估结果（例如：<https://play.kotlinlang.org，https>:<//play.rust-lang.org）。请注意避免发送可能包含敏感信息的源代码。>>
 
 **广告**：您可能会喜欢我的其他插件🤪
 

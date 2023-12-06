@@ -743,7 +743,7 @@ GPS 位置支持
 许多小的改进和修复：
 
 - 新的功能区图标，基于 Lucide，以与 Obsidian 设计指南保持一致（感谢@huy-vuong！）
-- 添加了一个设置，始终在地图视图弹出窗口中显示链接名称（并将相关设置组织到自己的部分中）。 (<<https://github.com/esm7/obsidian-map-view/issues/149>)>
+- 添加了一个设置，始终在地图视图弹出窗口中显示链接名称（并将相关设置组织到自己的部分中）。 (<https://github.com/esm7/obsidian-map-view/issues/149>)>
 - 添加了对标签查询中通配符的支持（<https://github.com/esm7/obsidian-map-view/issues/159）。>
 - 修复了在“跟随活动笔记的查询格式”中设置的查询中包含多个 `$PATH$` 项的错误（<https://github.com/esm7/obsidian-map-view/issues/158）。>
 - 添加了使用自定义标签而不是空的 `locations:` YAML 标签的功能（<https://github.com/esm7/obsidian-map-view/issues/135）。>

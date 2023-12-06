@@ -109,7 +109,6 @@ imageNameKey: my-blog
 
 ![image.png](https://cdn.pkmer.cn/images/202311232129226.png!pkmer)
 
-
 "-1" 后缀是根据默认设置生成的：
 
 - 因为 "Duplicate number at start" 为 false，所以使用后缀而不是前缀

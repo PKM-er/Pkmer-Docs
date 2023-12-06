@@ -43,7 +43,7 @@ modified: 20230101000000
 
 > ⚠️ 注意
 >
-> 版权所有 (c) 2023 Luca Burgio - <<https://iconoir.com>;> 许可证 - <https://github.com/lucaburgio/iconoir/blob/main/LICENSE> (代码：MIT 许可证)
+> 版权所有 (c) 2023 Luca Burgio - <https://iconoir.com>;> 许可证 - <https://github.com/lucaburgio/iconoir/blob/main/LICENSE> (代码：MIT 许可证)
 
 ## 特点
 

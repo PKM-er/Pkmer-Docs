@@ -26,14 +26,6 @@ GROUP BY outlinks
 ```
 `````
 
-[[123]]
-[[456]]
+ 
 
-
-```dataview
-table outlinks
-where file = this.file
-FLATTEN file.outlinks as outlinks
-
-```
 

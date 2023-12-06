@@ -1,8 +1,10 @@
 ---
 uid: 20231204101133
 title: Obsidian 插件：Cache-Area 给你一份电子草稿纸
-tags: [obsidian, 便签]
-description: 电子草稿纸
+tags:
+  - obsidian
+  - 插件
+description: 为你提供了一个临时草稿纸
 author: Huajin
 type: other
 draft: false

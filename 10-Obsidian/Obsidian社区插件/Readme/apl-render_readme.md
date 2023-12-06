@@ -84,4 +84,4 @@ APL 是一种编程语言，字面上的意思。
 
 除了插件之外，您还需要单独安装 APL385 字体。这不是必需的用于 Unicode 渲染，但如果没有它，显示效果会很丑。
 
-感谢<<https://github.com/secwang/espanso-apl-keyboard/blob/main/base.yml> 提供了 APL> Unicode 的映射。
+感谢<https://github.com/secwang/espanso-apl-keyboard/blob/main/base.yml> 提供了 APL> Unicode 的映射。

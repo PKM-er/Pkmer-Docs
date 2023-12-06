@@ -3,12 +3,11 @@ uid: 20230329145845
 title: Obsidian 的 CSS 代码片段
 tags: [Obsidian, CSS, snippets, 外观, 主题]
 description: Obsidian 的 CSS 代码片段
-author: OS
+author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231202185502
-aliases: [Obsidian css代码片段]
+modified: 20231206000816
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -47,6 +46,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ### 编辑器
 
+- [[Obsidian样式-标题-列表-图片美化]]
 - [[Obsidian样式-minimal主题Cards卡片布局]]
 - [[Obsidian样式-编辑模式下当前行高亮]]
 - [[Obsidian样式-加粗粗体样式优化]]
@@ -169,6 +169,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+- [[Obsidian样式-可滚动的Dataview表格视图]]
 
 #### Thino
 

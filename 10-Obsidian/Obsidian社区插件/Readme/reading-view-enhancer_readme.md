@@ -183,9 +183,9 @@ cd obsidian-reading-view-enhancer
 
 # 下载
 
-curl -OL <<https://github.com/Galacsh/obsidian-reading-view-enhancer/releases/download/[RELEASE_VERSION>]/main.js>
+curl -OL <https://github.com/Galacsh/obsidian-reading-view-enhancer/releases/download/[RELEASE_VERSION>]/main.js>
 
-curl -OL <<https://github.com/Galacsh/obsidian-reading-view-enhancer/releases/download/[RELEASE_VERSION>]/manifest.json>
+curl -OL <https://github.com/Galacsh/obsidian-reading-view-enhancer/releases/download/[RELEASE_VERSION>]/manifest.json>
 
 ### 通过手动下载
 

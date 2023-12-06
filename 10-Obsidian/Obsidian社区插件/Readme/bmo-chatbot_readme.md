@@ -76,7 +76,7 @@ Beta Reviewers Auto-update Tester（[BRAT](https://github.com/TfTHacker/obsidian
 
 1. 在 Obsidian 社区插件中搜索“Obsidian42 - BRAT”。
 2. 打开命令面板，运行命令 BRAT: Add a beta plugin for testing（如果您希望插件版本被冻结，请使用命令 BRAT: Add a beta plugin with frozen version based on a release tag）。
-3. 粘贴“<https://github.com/longy2k/obsidian-bmo-chatbot”。>
+3. 粘贴“<<https://github.com/longy2k/obsidian-bmo-chatbot>”。>
 4. 点击“Add Plugin”。
 5. BRAT 确认安装后，在设置中转到 Community plugins 选项卡。
 6. 刷新插件列表。

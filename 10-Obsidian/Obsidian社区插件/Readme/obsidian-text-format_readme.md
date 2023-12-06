@@ -133,7 +133,7 @@ modified: 20230101000000
 
 | 命令 | 描述 |
 | --- | --- |
-| 自定义**包装器** ⚙️ | 在设置中添加任意的包装元素。(<<https://github.com/Benature/obsidian-underline/issues/5>)> 更多示例请参见下文 [⬇️](#wrapper) |
+| 自定义**包装器** ⚙️ | 在设置中添加任意的包装元素。(<https://github.com/Benature/obsidian-underline/issues/5>)> 更多示例请参见下文 [⬇️](#wrapper) |
 | 解码**URL** | 解码 URL 以便阅读和缩短 URL。 |
 | 将单个字母转换为**数学**模式 | 例如，将 `P` 转换为 `$P$`（LaTeX），适用于除 `a` 以外的所有单个字母。 |
 | 将**Mathpix**数组转换为 Markdown 表格 | 将 Mathpix 生成的 LaTeX 数组转换为 Markdown 表格格式 |

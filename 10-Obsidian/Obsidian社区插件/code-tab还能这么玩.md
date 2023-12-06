@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231204161811
+modified: 20231206090843
 ---
 
 # Obsidian 插件：code tab 还能这么“玩”

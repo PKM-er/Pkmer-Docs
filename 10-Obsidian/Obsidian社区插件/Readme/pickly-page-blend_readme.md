@@ -101,11 +101,11 @@ pickly_description: 您自定义的 <meta name="description"> 和其他标签的
 
 ![img.png](./img/viqeo/third.png)
 
-4. 获取播放器的嵌入代码
+1. 获取播放器的嵌入代码
 
 ![img.png](./img/viqeo/fourth.png)
 
-5. 将选项添加到您的笔记属性中
+1. 将选项添加到您的笔记属性中
 
 ```
 pickly_ttv: yes

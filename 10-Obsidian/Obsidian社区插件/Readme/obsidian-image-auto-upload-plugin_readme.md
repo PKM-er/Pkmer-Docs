@@ -48,7 +48,7 @@ modified: 20230101000000
 1. 安装 [picgo](https://github.com/Molunerfinn/PicGo) 并进行配置
 2. 打开工具并打开设置 " 设置 server"
 3. 在 Obsidian 中安装插件
-4. 打开插件设置，并设置 "picGo server" 为 <<http://127.0.0.1>:{{picgo 中的端口}}/upload（例如：<http://127.0.0.1:36677/upload）>>
+4. 打开插件设置，并设置 "picGo server" 为 <http://127.0.0.1>:{{picgo 中的端口}}/upload（例如：<http://127.0.0.1:36677/upload）>
 5. 尝试粘贴图片
 
 # 特点
