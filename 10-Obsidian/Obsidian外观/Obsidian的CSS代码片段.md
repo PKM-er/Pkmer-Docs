@@ -175,6 +175,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-给Thino加个滚动条]]
 - [[Obsidian样式-给Thino搭配10种热力图颜色]]
+- [[Obsidian样式-Thino单文件时间轴样式]]
 
 ## 自定义 CSS 简单上手指南
 
