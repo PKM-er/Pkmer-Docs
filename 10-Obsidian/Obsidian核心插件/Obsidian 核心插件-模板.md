@@ -1,16 +1,16 @@
 ---
 uid: 20230328213333
-title: 模板
-tags: []
-description: 
+title: Obsidian 核心插件：模板
+tags: ["Obsidian", "核心插件", "模板"]
+description: Obsidian 核心插件：模板
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230515233931
+modified: 20231206210002
 ---
 
-# 模板
+# Obsidian 核心插件：模板
 
 模板插件能让你在当前笔记中快速插入预设的文本段。和其他软件的模板不同，Obsidian 的模板和普通笔记一样，都是 Markdown 文件，模板的作用仅仅是保存预设文本段，方便 Obsidian 识别与插入。
 
@@ -49,3 +49,7 @@ _一个小技巧：如果你想在模板中使用两个日期占位符，你可�
 类似强化插件还有
 
 1. [[templater-obsidian]]：强化且丰富的模板功能
+
+## 视频教学
+
+<iframe src="https://player.bilibili.com/player.html?aid=579262889&bvid=BV1V64y1j7Y5&cid=1354486475&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>

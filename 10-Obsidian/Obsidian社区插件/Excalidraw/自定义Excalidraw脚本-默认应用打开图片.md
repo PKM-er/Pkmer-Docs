@@ -1,16 +1,13 @@
 ---
 uid: 20231128000314
 title: 自定义 Excalidraw 脚本 - 默认应用打开图片
-tags:
-  - Excalidraw
-  - Excalidraw脚本
-  - 图片处理
+tags: [Excalidraw, Excalidraw脚本, 图片处理]
 description: 默认软件打开画板中选中的图片，适用于当您想用默认软件编辑笔记画板中的图片时，采用的一个快捷方式。
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231128000426
+modified: 20231206204934
 ---
 
 # 自定义 Excalidraw 脚本 - 默认应用打开图片
