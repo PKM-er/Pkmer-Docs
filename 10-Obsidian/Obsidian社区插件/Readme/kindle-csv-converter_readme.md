@@ -1,6 +1,6 @@
 ---
-uid: 2023080322210474
-title: Obsidian 插件：Kindle CSV Converter
+uid: 2023120719315779
+title: Obsidian 插件：【Readme】Kindle CSV Converter
 tags: ['obsidian插件', 'readme']
 description: 将您的Kindle笔记以.csv格式导入到Obsidian中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Kindle CSV Converter
+# Obsidian 插件：【Readme】Kindle CSV Converter
 
 > [!Note] 插件名片
 > - 插件名称：Kindle CSV Converter
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 **在 [Obsidian.md](https://obsidian.md/) vault 中创建有用的 Kindle 笔记。**
 
-![](https://github.com/alvaro-cas/kindle-csv-converter-obsidian/blob/main/assets/ss.png?raw=true)
+![](https://cdn.pkmer.cn/covers/kindle-csv-converter_1_0.png!pkmer)
 
 > 使用 Iframe（左侧）和不使用 Iframe（右侧）的示例图像，使用自定义笔记名称，默认配置。
 
@@ -77,7 +77,7 @@ modified: 20230101000000
 
 按下 Ctrl+P 或选择的热键打开命令面板。搜索 "Kindle CSV Converter" 或 " 选择文件 "。
 
-![](https://raw.githubusercontent.com/alvaro-cas/kindle-csv-converter-obsidian/main/assets/ss_command.jpg)
+![](https://cdn.pkmer.cn/covers/kindle-csv-converter_1_1.jpeg!pkmer)
 
 导航到左侧边栏，选择带有图书馆图标的缎带。
 
@@ -85,13 +85,13 @@ modified: 20230101000000
 
 在选择选项 1 或选项 2 后，将出现一个模态窗口。
 
-![](https://github.com/alvaro-cas/kindle-csv-converter-obsidian/blob/main/assets/ss_modal.png?raw=true)
+![](https://cdn.pkmer.cn/covers/kindle-csv-converter_1_2.png!pkmer)
 
 根据您的需求，您可以选择 CSV 或 "My Clippings.txt"。点击所需的框，文件浏览器将打开，选择您的文件并打开。然后，您可以选择特定的转换选项：
 
 #### ~ CSV
 
-![](https://github.com/alvaro-cas/kindle-csv-converter-obsidian/blob/main/assets/ss_csv.png?raw=true)
+![](https://cdn.pkmer.cn/covers/kindle-csv-converter_1_3.png!pkmer)
 
 ##### 选项
 
@@ -103,7 +103,7 @@ modified: 20230101000000
 
 #### ~ 我的剪报
 
-![](https://github.com/alvaro-cas/kindle-csv-converter-obsidian/blob/main/assets/ss_clippings.png?raw=true)
+![](https://cdn.pkmer.cn/covers/kindle-csv-converter_1_4.png!pkmer)
 
 ##### 选项
 

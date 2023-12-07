@@ -1,5 +1,5 @@
 ---
-uid: 2023102611081897
+uid: 2023120719395821
 title: Obsidian 插件：【Readme】Palta Note
 tags: ['obsidian插件', 'readme']
 description: 渲染Tabla的Bhatkhande符号。
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 在 Obsidian 中使用 Bhatkhande 记谱法编写 Kaydas、Gats 和 Relas。在底层，它使用 [`<palta-note>`](https://github.com/mrniket/palta-note) web 组件。
 
-![Palta Obsidian 插件使用演示](docs/demo.gif)
+![Palta Obsidian 插件使用演示](https://cdn.pkmer.cn/covers/palta-note_2_0.gif!pkmer)
 
 ## 使用方法
 
@@ -57,7 +57,7 @@ Dhin Na
 
 然后将被渲染为：
 
-![渲染示例（Rupak）](docs/rendered_example_with_vibhags.png)
+![渲染示例（Rupak）](https://cdn.pkmer.cn/covers/palta-note_2_1.png!pkmer)
 
 ### 没有分组
 
@@ -71,4 +71,4 @@ Dhin Na
 ```
 ````
 
-![没有分组的Rupak](docs/rendered_example_without_vibhags.png)
+![没有分组的Rupak](https://cdn.pkmer.cn/covers/palta-note_2_2.png!pkmer)

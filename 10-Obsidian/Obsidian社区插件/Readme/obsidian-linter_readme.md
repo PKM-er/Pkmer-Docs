@@ -1,6 +1,6 @@
 ---
-uid: 2023080322213685
-title: Obsidian 插件：Linter
+uid: 2023120719351446
+title: Obsidian 插件：【Readme】Linter
 tags: ['样式工具', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 格式化和样式化你的笔记。它可用于格式化YAML标签、别名、数组和元数据；脚注；标题；间距；数学块；常规markdown内容，如列表、斜体和粗体样式；以及更多使用自定义规则选项。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Linter
+# Obsidian 插件：【Readme】Linter
 
 > [!Note] 插件名片
 > - 插件名称：Linter
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 ## 使用方法
 
-![演示](docs/docs/assets/demo.gif)
+![演示](https://cdn.pkmer.cn/covers/obsidian-linter_2_0.gif!pkmer)
 
 要对当前文件进行 lint 检查，请运行 `Lint the current file`（默认情况下为 `Ctrl+Alt+L`）。
 
@@ -61,7 +61,7 @@ modified: 20230101000000
 
 您还可以通过右键单击文件夹列表中的文件夹并从选项中选择“Lint folder”来对文件夹进行 lint 检查。
 
-![Lint文件夹内容](docs/docs/assets/lint-folder.png)
+![Lint文件夹内容](https://cdn.pkmer.cn/covers/obsidian-linter_2_1.png!pkmer)
 
 当 `Lint on save` 被切换打开时，插件将在手动保存当前文件时进行 lint 检查（按下 `Ctrl+S`）。
 

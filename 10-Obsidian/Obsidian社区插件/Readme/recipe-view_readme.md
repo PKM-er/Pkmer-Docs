@@ -1,5 +1,5 @@
 ---
-uid: 2023120522264718
+uid: 2023120719413059
 title: Obsidian 插件：【Readme】Recipe view
 tags: ['obsidian插件', 'readme']
 description: 在烹饪时，将您的笔记视为互动的食谱卡片。
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 </div>
 
-![插件显示打开的两个示例窗口的预览图](docs/_static/preview.png)
+![插件显示打开的两个示例窗口的预览图](https://cdn.pkmer.cn/covers/recipe-view_2_0.png!pkmer)
 
 ---
 

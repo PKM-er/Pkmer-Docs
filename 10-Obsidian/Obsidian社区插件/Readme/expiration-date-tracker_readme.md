@@ -1,5 +1,5 @@
 ---
-uid: 2023102611074829
+uid: 2023120719274622
 title: Obsidian 插件：【Readme】Expiration-Date-Tracker
 tags: ['obsidian插件', 'readme']
 description: 跟踪所有过期日期，例如，您的食品杂货。
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 使用此插件，您可以跟踪您的物品（如杂货）的所有到期日期。
 
-![主要演示图片](assets/MainDemo.png)
+![主要演示图片](https://cdn.pkmer.cn/covers/expiration-date-tracker_2_0.png!pkmer)
 
 使用方法
 
@@ -60,7 +60,7 @@ modified: 20230101000000
 
 您可以搜索特定的项目或类别，或跟踪所有的到期日期。您搜索的数据将显示在一个模态窗口中。
 
-![命令演示图片](assets/CommandsDemo.png)
+![命令演示图片](https://cdn.pkmer.cn/covers/expiration-date-tracker_2_1.png!pkmer)
 
 ## 设置
 
@@ -77,4 +77,4 @@ modified: 20230101000000
 
 例如，如果您的物品将在 6 天后过期，则属于低到期类别。
 
-![设置演示图片](assets/SettingsDemo.png)
+![设置演示图片](https://cdn.pkmer.cn/covers/expiration-date-tracker_2_2.png!pkmer)

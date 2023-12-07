@@ -1,6 +1,6 @@
 ---
-uid: 2023080322280823
-title: Obsidian 插件：Text Snippets
+uid: 2023120719443461
+title: Obsidian 插件：【Readme】Text Snippets
 tags: ['自动化', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 更快的打字片段。允许您替换文本模板，创建自己的模板，并扩展文本快捷方式。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Text Snippets
+# Obsidian 插件：【Readme】Text Snippets
 
 > [!Note] 插件名片
 > - 插件名称：Text Snippets
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://raw.githubusercontent.com/ArianaKhit/text-snippets-obsidian/main/demo.gif)
+![演示](https://cdn.pkmer.cn/covers/text-snippets-obsidian_1_0.gif!pkmer)
 
 ## 特点
 

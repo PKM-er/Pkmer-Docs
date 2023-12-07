@@ -1,5 +1,5 @@
 ---
-uid: 2023120522270356
+uid: 2023120719431249
 title: Obsidian 插件：【Readme】Slackify Note
 tags: ['obsidian插件', 'readme']
 description: 使用[slackify-markdown](https://www.npmjs.com/package/slackify-markdown)将笔记转换为符合Slack标准的markdown格式。
@@ -48,8 +48,8 @@ modified: 20230101000000
 
 **Obsidian 选择**：
 
-![示例1](./example_1.png)
+![示例1](https://cdn.pkmer.cn/covers/slackify-note_2_0.png!pkmer)
 
 **Slack 消息**：
 
-![示例2](./example_2.png)
+![示例2](https://cdn.pkmer.cn/covers/slackify-note_2_1.png!pkmer)

@@ -1,5 +1,5 @@
 ---
-uid: 2023120522243134
+uid: 2023120719235112
 title: Obsidian 插件：【Readme】Blockier
 tags: ['obsidian插件', 'readme']
 description: 额外的块编辑工具。
@@ -53,13 +53,13 @@ modified: 20230101000000
 
 选择块命令（覆盖 <kbd>ctrl</kbd>/<kbd>cmd</kbd> <kbd>A</kbd>）会选择光标当前所在的块，但不包括块前缀，如项目符号 `-`、数字 `1.`、标题 `##`、引用 `>` 和复选框 `- [ ]`。
 
-![select](https://github.com/blorbb/obsidian-blockier/assets/88137137/b9d3e3a0-7d76-4f78-92d8-6ae8e204daf1)
+![select](https://cdn.pkmer.cn/covers/blockier_1_0.gif!pkmer)
 
 这也支持多个光标。如果光标选择跨越多行，块前缀将会被包括在内。
 
 在块的开头（但在现有块前缀之后）输入其中一个块前缀将覆盖它。
 
-![block-edit](https://github.com/blorbb/obsidian-blockier/assets/88137137/8565b815-08d6-468c-86eb-717b7f78d92c)
+![block-edit](https://cdn.pkmer.cn/covers/blockier_1_1.gif!pkmer)
 
 这仅适用于项目符号、编号列表和复选框。
 
@@ -69,6 +69,6 @@ modified: 20230101000000
 
 请注意，默认情况下禁用了复选框建议。在设置中启用它们。
 
-![checkbox-suggest](https://github.com/blorbb/obsidian-blockier/assets/88137137/32183548-b9c7-4718-bdba-ccba3aa77c9f)
+![checkbox-suggest](https://cdn.pkmer.cn/covers/blockier_1_2.png!pkmer)
 
-![callout-suggest](https://github.com/blorbb/obsidian-blockier/assets/88137137/c467eb81-2250-4194-bf28-784e4f3dcbf6)
+![callout-suggest](https://cdn.pkmer.cn/covers/blockier_1_3.png!pkmer)

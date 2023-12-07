@@ -1,5 +1,5 @@
 ---
-uid: 2023120522243727
+uid: 2023120719250938
 title: Obsidian 插件：【Readme】Colored Tags Wrangler
 tags: ['obsidian插件', 'readme']
 description: 为标签分配颜色。与其他插件（如看板）集成。
@@ -62,11 +62,11 @@ Obsidian - 彩色标签整理器
 
 | 功能                                                                                                                                                                                                                                                     | 图片                                                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| 标签设置 <br>（注意：我已经启用了一行中的多个标签，用分号 `;` 分隔，并且还启用了“启用单独的背景颜色”选项。第一个颜色选择器用于文本颜色，第二个用于背景颜色。） | ![tags_setting.png](https://raw.githubusercontent.com/code-of-chaos/obsidian-colored_tags_wrangler/master/assets/tags_setting.png)             |
-| 彩色标签                                                                                                                                                                                                                                                | ![tags_example.png](https://raw.githubusercontent.com/code-of-chaos/obsidian-colored_tags_wrangler/master/assets/tags_example.png)             |
-| Canvas 集成                                                                                                                                                                                                                                              | ![canvas_example.png](https://raw.githubusercontent.com/code-of-chaos/obsidian-colored_tags_wrangler/master/assets/canvas_example.png)         |
-| 看板集成                                                                                                                                                                                                                                                | ![kanban_example.png](https://raw.githubusercontent.com/code-of-chaos/obsidian-colored_tags_wrangler/master/assets/kanban_example.png)         |
-| 文件夹笔记集成 <br>（注意：目前您需要在设置中手动按下“检测”按钮。）                                                                                                                                                                                            | ![foldernote_example.png](https://raw.githubusercontent.com/code-of-chaos/obsidian-colored_tags_wrangler/master/assets/foldernote_example.png) |
+| 标签设置 <br>（注意：我已经启用了一行中的多个标签，用分号 `;` 分隔，并且还启用了“启用单独的背景颜色”选项。第一个颜色选择器用于文本颜色，第二个用于背景颜色。） | ![tags_setting.png](https://cdn.pkmer.cn/covers/colored-tags-wrangler_1_0.png!pkmer)             |
+| 彩色标签                                                                                                                                                                                                                                                | ![tags_example.png](https://cdn.pkmer.cn/covers/colored-tags-wrangler_1_1.png!pkmer)             |
+| Canvas 集成                                                                                                                                                                                                                                              | ![canvas_example.png](https://cdn.pkmer.cn/covers/colored-tags-wrangler_1_2.png!pkmer)         |
+| 看板集成                                                                                                                                                                                                                                                | ![kanban_example.png](https://cdn.pkmer.cn/covers/colored-tags-wrangler_1_3.png!pkmer)         |
+| 文件夹笔记集成 <br>（注意：目前您需要在设置中手动按下“检测”按钮。）                                                                                                                                                                                            | ![foldernote_example.png](https://cdn.pkmer.cn/covers/colored-tags-wrangler_1_4.png!pkmer) |
 
 已知问题
 

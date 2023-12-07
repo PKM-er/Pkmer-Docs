@@ -1,6 +1,6 @@
 ---
-uid: 2023080322245780
-title: Obsidian 插件：PodNotes
+uid: 2023120719404051
+title: Obsidian 插件：【Readme】PodNotes
 tags: ['obsidian插件', 'readme']
 description: 轻松记录播客节目。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：PodNotes
+# Obsidian 插件：【Readme】PodNotes
 
 > [!Note] 插件名片
 > - 插件名称：PodNotes
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 ## 演示视频
 
-[![演示视频](https://img.youtube.com/vi/SGLfuN15uJY/0.jpg)](https://www.youtube.com/watch?v=SGLfuN15uJY)
+[![演示视频](https://cdn.pkmer.cn/covers/podnotes_1_0.jpeg!pkmer)](https://www.youtube.com/watch?v=SGLfuN15uJY)
 
 ---
 
@@ -75,22 +75,22 @@ PodNotes 的一个目标是让您更容易在播客上写笔记。
 
 ### 演示
 
-![演示](docs/docs/resources/demo.gif)
+![演示](https://cdn.pkmer.cn/covers/podnotes_2_0.gif!pkmer)
 
 ### 播客网格
 
-![播客网格](docs/docs/resources/podcast_grid.png)
+![播客网格](https://cdn.pkmer.cn/covers/podnotes_2_1.png!pkmer)
 
 ### 话题列表
 
-![话题列表](docs/docs/resources/episode_list.png)
+![话题列表](https://cdn.pkmer.cn/covers/podnotes_2_2.png!pkmer)
 
 ### 玩家
 
-![玩家](docs/docs/resources/player.png)
+![玩家](https://cdn.pkmer.cn/covers/podnotes_2_3.png!pkmer)
 
 播客笔记编辑
 
 ### 播客搜索
 
-![播客搜索](docs/docs/resources/podcast_search.png)
+![播客搜索](https://cdn.pkmer.cn/covers/podnotes_2_4.png!pkmer)

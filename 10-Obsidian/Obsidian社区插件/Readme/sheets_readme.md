@@ -1,5 +1,5 @@
 ---
-uid: 2023102611083061
+uid: 2023120719424089
 title: Obsidian 插件：【Readme】Sheets Extended
 tags: ['obsidian插件', 'readme']
 description: 垂直标题、合并单元格和具有高级表格兼容性的自定义CSS表格
@@ -59,7 +59,7 @@ modified: 20230101000000
 | Use `^` to merge cells up          | <   | ^            | ^     |
 ````
 
-![单元格合并功能](./assets/renderedMergedCells.png)
+![单元格合并功能](https://cdn.pkmer.cn/covers/sheets_2_0.png!pkmer)
 
 垂直标题是通过使一列只包含破折号来创建的，就像原生的水平标题是通过使一行只包含破折号一样。
 
@@ -73,7 +73,7 @@ modified: 20230101000000
 
 ````
 
-![垂直标题](./assets/renderedVerticalHeaders.png)
+![垂直标题](https://cdn.pkmer.cn/covers/sheets_2_1.png!pkmer)
 
 它还适用于高级表格！
 
@@ -100,7 +100,7 @@ modified: 20230101000000
 ```
 ````
 
-![自定义CSS](./assets/renderedCustomCSS.png)
+![自定义CSS](https://cdn.pkmer.cn/covers/sheets_2_2.png!pkmer)
 
 通过将自定义类应用于行和列标题，可以将自定义 CSS 应用于整行和标题。Markdown 表格对齐方式使用 `:` 也是允许的。
 
@@ -127,7 +127,7 @@ modified: 20230101000000
 ```
 ````
 
-![标题自定义CSS](./assets/renderedHeaderCustomCSS.png)
+![标题自定义CSS](https://cdn.pkmer.cn/covers/sheets_2_3.png!pkmer)
 
 您还可以直接将自定义 CSS 应用于单元格，而不是定义一个类。
 
@@ -137,7 +137,7 @@ modified: 20230101000000
 | group 1 | foo ~ { "text-align": "right" } | <     |
 ```
 
-![单元格自定义CSS](./assets/renderedCellCustomCSS.png)
+![单元格自定义CSS](https://cdn.pkmer.cn/covers/sheets_2_4.png!pkmer)
 
 # 安装
 

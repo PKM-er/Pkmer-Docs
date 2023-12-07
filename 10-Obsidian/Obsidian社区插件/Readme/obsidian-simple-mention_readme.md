@@ -1,6 +1,6 @@
 ---
-uid: 2023080322265663
-title: Obsidian 插件：Simple Mention
+uid: 2023120719430057
+title: Obsidian 插件：【Readme】Simple Mention
 tags: ['obsidian插件', 'readme']
 description: in the text.获取高亮提及和提及建议。 查找文本中提及的所有发生。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Simple Mention
+# Obsidian 插件：【Readme】Simple Mention
 
 > [!Note] 插件名片
 > - 插件名称：Simple Mention
@@ -40,18 +40,15 @@ in the text.获取高亮提及和提及建议。 查找文本中提及的所有�
 # Obsidian 简单提及
 
 一个简单的插件，当你写作时，它会在视觉上突出显示提及，并建议现有的提及。
-
 提及前缀可以自定义，默认为 `@`。
-
 在侧边栏中找到提及的所有出现，并跳转到文档中相应的行。
-
 通过不同的颜色区分个人提及和其他提及。
 
-![Obsidian简单提及概述](obsidian_general.gif)
+![Obsidian简单提及概述](https://cdn.pkmer.cn/covers/obsidian-simple-mention_2_0.gif!pkmer)
 
 通过短语筛选你的提及
 
-![筛选你的提及](obsidian_filter.gif)
+![筛选你的提及](https://cdn.pkmer.cn/covers/obsidian-simple-mention_2_1.gif!pkmer)
 
 ## 设置
 
@@ -68,7 +65,7 @@ in the text.获取高亮提及和提及建议。 查找文本中提及的所有�
 
 `ctrl+space` 或 `ctrl+click` 在提及上，打开右侧面板，显示所有该提及的出现。
 
-![编辑模式快捷键 (ctrl+space 或 ctrl+click)](obsidian_ctrl_space.gif)
+![编辑模式快捷键 (ctrl+space 或 ctrl+click)](https://cdn.pkmer.cn/covers/obsidian-simple-mention_2_2.gif!pkmer)
 
 ### 在预览模式下
 

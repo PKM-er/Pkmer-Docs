@@ -1,6 +1,6 @@
 ---
-uid: 2023080322151829
-title: Obsidian 插件：BPMN Plugin
+uid: 2023120719235840
+title: Obsidian 插件：【Readme】BPMN Plugin
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 这个插件使用bpmn-js可以查看BPMN图。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：BPMN Plugin
+# Obsidian 插件：【Readme】BPMN Plugin
 
 > [!Note] 插件名片
 > - 插件名称：BPMN Plugin
@@ -90,7 +90,7 @@ url: [[my-diagram.bpmn]]
 
 ### 示例
 
-![示例](example/bpmn-plugin.gif)
+![示例](https://cdn.pkmer.cn/covers/bpmn-plugin_2_0.gif!pkmer)
 
 如何使用（打开 BPMN 文件）
 

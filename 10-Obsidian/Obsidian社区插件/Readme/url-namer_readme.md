@@ -1,6 +1,6 @@
 ---
-uid: 2023080322290420
-title: Obsidian 插件：URL Namer
+uid: 2023120719455444
+title: Obsidian 插件：【Readme】URL Namer
 tags: ['obsidian插件', 'readme']
 description: 检索 HTML 原标题来命名原始URL链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：URL Namer
+# Obsidian 插件：【Readme】URL Namer
 
 > [!Note] 插件名片
 > - 插件名称：URL Namer
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 将命令绑定到键盘快捷键可以更方便地使用。
 
-![演示](demo/url-namer-demo.gif)
+![演示](https://cdn.pkmer.cn/covers/url-namer_2_0.gif!pkmer)
 
 ## 编译
 

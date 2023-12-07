@@ -1,6 +1,6 @@
 ---
-uid: 2023080322191622
-title: Obsidian 插件：Global Search and Replace
+uid: 2023120719295153
+title: Obsidian 插件：【Readme】Global Search and Replace
 tags: ['obsidian插件', 'readme']
 description: 在所有保险库文件中进行搜索和替换
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Global Search and Replace
+# Obsidian 插件：【Readme】Global Search and Replace
 
 > [!Note] 插件名片
 > - 插件名称：Global Search and Replace
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 > 一个插件，可以在 Obsidian 存储库的所有文件中进行全局搜索和替换。
 
-![展示](https://user-images.githubusercontent.com/73137611/222190446-27b043f2-455b-4a97-a184-5d17f4e4c901.gif)
+![展示](https://cdn.pkmer.cn/covers/global-search-and-replace_1_2.gif!pkmer)
 
 ## 特点
 

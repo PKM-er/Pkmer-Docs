@@ -1,6 +1,6 @@
 ---
-uid: 2023080322231347
-title: Obsidian 插件：Obsidian Attendance
+uid: 2023120719373596
+title: Obsidian 插件：【Readme】Obsidian Attendance
 tags: ['obsidian插件', 'readme']
 description: 帮助你在笔记中直接记录出勤情况。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Attendance
+# Obsidian 插件：【Readme】Obsidian Attendance
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Attendance
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 帮助你在笔记中直接记录出勤情况。
+
+![Obsidian Attendance](https://cdn.pkmer.cn/covers/obsidian-attendance.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -59,7 +61,7 @@ query: #person
 
 `date`、`title` 和 `query` 字段都是必需的。
 
-![考勤列表](misc/images/screenshot-1.png)
+![考勤列表](https://cdn.pkmer.cn/covers/obsidian-attendance_2_0.png!pkmer)
 
 > ⚠ 如果在同一个笔记中创建多个考勤列表，请确保它们具有不同的“date”或“title”属性。否则，当您想要更新第二个考勤列表时，插件将覆盖第一个列表。
 
@@ -143,7 +145,7 @@ query: #person
 ```
 ````
 
-![带有一个出勤和一个请假出席者的出勤列表](misc/images/screenshot-2.png)
+![带有一个出勤和一个请假出席者的出勤列表](https://cdn.pkmer.cn/covers/obsidian-attendance_2_1.png!pkmer)
 
 ### 手动安装插件
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322231508
-title: Obsidian 插件：Obsidian Better Internal Link Inserter
+uid: 2023120719373824
+title: Obsidian 插件：【Readme】Obsidian Better Internal Link Inserter
 tags: ['obsidian插件', 'readme']
 description: 允许在链接建议中使用所选单词作为别名
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Better Internal Link Inserter
+# Obsidian 插件：【Readme】Obsidian Better Internal Link Inserter
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Better Internal Link Inserter
@@ -45,11 +45,11 @@ modified: 20230101000000
 
 ## Before
 
-![before](https://user-images.githubusercontent.com/105465034/173254092-ee8c77d2-8184-4de5-9bd8-72fb037b5ea1.gif)
+![before](https://cdn.pkmer.cn/covers/obsidian-better-internal-link-inserter_1_0.gif!pkmer)
 
 ## 之后
 
-![after](https://user-images.githubusercontent.com/105465034/173254099-16e35e1a-dcff-4d08-87ac-0c5813d0480b.gif)
+![after](https://cdn.pkmer.cn/covers/obsidian-better-internal-link-inserter_1_1.gif!pkmer)
 
 ## 其他功能
 

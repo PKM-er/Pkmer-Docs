@@ -1,6 +1,6 @@
 ---
-uid: 2023080322184310
-title: Obsidian 插件：Folder notes
+uid: 2023120719290764
+title: Obsidian 插件：【Readme】Folder notes
 tags: ['obsidian插件', 'readme']
 description: 在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于Notion提供的功能。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Folder notes
+# Obsidian 插件：【Readme】Folder notes
 
 > [!Note] 插件名片
 > - 插件名称：Folder notes
@@ -67,7 +67,7 @@ modified: 20230101000000
 
 #### 打开文件夹笔记
 
-![wzk25GXUpc](https://user-images.githubusercontent.com/70213368/227169041-9bc7552e-c5f5-4001-94d9-b4c80ea88bd1.gif)
+![wzk25GXUpc](https://cdn.pkmer.cn/covers/folder-notes_1_0.gif!pkmer)
 
 自动创建文件夹笔记
 
@@ -86,7 +86,7 @@ modified: 20230101000000
 - 模板建议者，由 [SilentVoid13](https://github.com/SilentVoid13) 和 [Liamcain](https://github.com/liamcain) 创建（他们的插件：[Templater](https://github.com/SilentVoid13/Templater/)，[Periodic notes](https://github.com/liamcain/obsidian-periodic-notes)）
 - 应用模板到笔记，最早见于 [Mgmeyers](https://github.com/mgmeyers) 的<https://github.com/mgmeyers/obsidian-kanban/>
 - 文件夹下划线，灵感来自<https://github.com/aidenlx/alx-folder-note>
-- 阻止文件夹折叠，基本思路来自<https://github.com/alangrainger/obsidian-folder-notes> 和一些代码行>
+- 阻止文件夹折叠，基本思路来自<https://github.com/alangrainger/obsidian-folder-notes 和一些代码行>
 - 基本思路来自<https://github.com/xpgo/obsidian-folder-note-plugin>
 
 支持插件的开发

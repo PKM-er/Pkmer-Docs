@@ -1,6 +1,6 @@
 ---
-uid: 2023080322193651
-title: Obsidian 插件：Hard Breaks
+uid: 2023120719302087
+title: Obsidian 插件：【Readme】Hard Breaks
 tags: ['obsidian插件', 'readme']
 description: 将Markdown中的软换行转换为硬换行
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Hard Breaks
+# Obsidian 插件：【Readme】Hard Breaks
 
 > [!Note] 插件名片
 > - 插件名称：Hard Breaks
@@ -66,7 +66,7 @@ Obsidian 硬换行插件利用了 [一组强大的开源Markdown解析工具](#a
 
 > ℹ️ *硬*换行符的格式在 [CommonMark规范](https://spec.commonmark.org/0.17/#hard-line-breaks) 中有所规定。它允许在行尾使用两个空格或一个反斜杠。虽然反斜杠在 Markdown 源代码中更加明显，但它不太常见并且会使文本显得混乱。但这是个人喜好的问题...
 
-![插件设置截图](doc/screen_settings.png)
+![插件设置截图](https://cdn.pkmer.cn/covers/hard-breaks_2_0.png!pkmer)
 
 我需要这个插件吗？
 

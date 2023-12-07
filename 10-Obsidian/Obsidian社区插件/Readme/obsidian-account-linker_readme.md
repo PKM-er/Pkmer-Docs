@@ -1,6 +1,6 @@
 ---
-uid: 2023080322133136
-title: Obsidian 插件：Account Linker
+uid: 2023120719215210
+title: Obsidian 插件：【Readme】Account Linker
 tags: ['obsidian插件', 'readme']
 description: 用于在前台描述外部服务账户的插件
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Account Linker
+# Obsidian 插件：【Readme】Account Linker
 
 > [!Note] 插件名片
 > - 插件名称：Account Linker
@@ -43,15 +43,15 @@ modified: 20230101000000
 
 - 输入：
 
-![](./media/image001.png)
+![](https://cdn.pkmer.cn/covers/obsidian-account-linker_2_0.png!pkmer)
 
 - 预览：
 
-![](./media/image002.png)
+![](https://cdn.pkmer.cn/covers/obsidian-account-linker_2_1.png!pkmer)
 
 - 设置：
 
-![](./media/image003.png)
+![](https://cdn.pkmer.cn/covers/obsidian-account-linker_2_2.png!pkmer)
 
 ## 特点
 

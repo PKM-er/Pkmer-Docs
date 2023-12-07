@@ -1,6 +1,6 @@
 ---
-uid: 2023080322275128
-title: Obsidian 插件：Task Collector (TC)
+uid: 2023120719441269
+title: Obsidian 插件：【Readme】Task Collector (TC)
 tags: ['obsidian插件', 'readme']
 description: 使用热键和上下文菜单更改任务状态并收集文档中的任务。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Task Collector (TC)
+# Obsidian 插件：【Readme】Task Collector (TC)
 
 > [!Note] 插件名片
 > - 插件名称：Task Collector (TC)
@@ -62,7 +62,7 @@ modified: 20230101000000
 3. 编辑 `complete` 组的任务标记，包括您用于已完成任务的任何字符。
 4. _(可选)_ 向下滚动找到**[菜单和模态框](docs/README.md#menus-and-modals)**，并启用其他上下文菜单。
 
-![任务完成](https://user-images.githubusercontent.com/808713/148706433-34d21845-a441-428d-a24c-380c6db457c7.gif)
+![任务完成](https://cdn.pkmer.cn/covers/obsidian-task-collector_1_2.gif!pkmer)
 
 ## 命令
 

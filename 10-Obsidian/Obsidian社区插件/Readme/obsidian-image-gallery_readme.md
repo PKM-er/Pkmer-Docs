@@ -1,6 +1,6 @@
 ---
-uid: 2023080322201382
-title: Obsidian 插件：Image Gallery
+uid: 2023120719305829
+title: Obsidian 插件：【Readme】Image Gallery
 tags: ['界面相关', '美化', '效率', '图片', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加一个画廊模式，以瀑布流的图片展示你的图片素材。需要你指定图片素材的路径。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Image Gallery
+# Obsidian 插件：【Readme】Image Gallery
 
 > [!Note] 插件名片
 > - 插件名称：Image Gallery
@@ -37,7 +37,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-image-gallery]] 插件的自述翻译
 
-![Obsidian图库](assets/obsidian-image-gallery-header.jpg)
+![Obsidian图库](https://cdn.pkmer.cn/covers/obsidian-image-gallery_2_0.jpeg!pkmer)
 
 # Obsidian 图库
 
@@ -89,11 +89,11 @@ type: vertical
 
 在 *[实时预览](https://help.obsidian.md/Live+preview+update)*模式下，图库将在将光标移出代码块后生成。使用常规的*源模式 *，按下 `cmd+e`（或 `ctrl+e`）来触发 Obsidian 的笔记预览。
 
-![Obsidian Image Gallery - Animation](assets/obsidian-image-gallery.gif)
+![Obsidian Image Gallery - Animation](https://cdn.pkmer.cn/covers/obsidian-image-gallery_2_1.gif!pkmer)
 
 `1.1.1` 版本引入了一个灯箱视图，通过点击图库中的任何图像来访问。然后，如果需要，点击右上角的按钮以在新标签页中打开原始图像。
 
-![Obsidian Image Gallery - Animation](assets/obsidian-image-gallery-lightbox.jpg)
+![Obsidian Image Gallery - Animation](https://cdn.pkmer.cn/covers/obsidian-image-gallery_2_2.jpeg!pkmer)
 
 ## 设置
 
@@ -131,7 +131,7 @@ type: vertical
 
 ## 示例
 
-![Obsidian图库示例](assets/obsidian-image-gallery-examples.jpg)
+![Obsidian图库示例](https://cdn.pkmer.cn/covers/obsidian-image-gallery_2_3.jpeg!pkmer)
 
 ## 更新日志
 

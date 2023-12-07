@@ -1,6 +1,6 @@
 ---
-uid: 2023080322252648
-title: Obsidian 插件：Quiet Outline
+uid: 2023120719411447
+title: Obsidian 插件：【Readme】Quiet Outline
 tags: ['目录/标题', '美化', '效率', 'obsidian插件', 'readme']
 description: 一个强大纲编辑器，可以定位大纲，修改大纲，甚至通过拖动大纲来变换内容排版。支持多种内容做为标题，包括特殊样式，数学公示等。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Quiet Outline
+# Obsidian 插件：【Readme】Quiet Outline
 
 > [!Note] 插件名片
 > - 插件名称：Quiet Outline
@@ -49,41 +49,41 @@ modified: 20230101000000
 
 默认大纲：
 
-![系统自带大纲](https://raw.githubusercontent.com/guopenghui/obsidian-quiet-outline/master/public/notquiet.gif)
+![系统自带大纲](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_0.gif!pkmer)
 
 安静大纲：
 
-![安静大纲](https://raw.githubusercontent.com/guopenghui/obsidian-quiet-outline/master/public/quiet.gif)
+![安静大纲](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_1.gif!pkmer)
 
 ### 搜索支持
 
-![支持搜索](https://raw.githubusercontent.com/guopenghui/obsidian-quiet-outline/master/public/search.gif)
+![支持搜索](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_2.gif!pkmer)
 
 隐藏不相关的结果：
 
-![隐藏结果](https://raw.githubusercontent.com/guopenghui/obsidian-quiet-outline/master/public/hide_irrelevant.gif)
+![隐藏结果](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_3.gif!pkmer)
 
 使用正则表达式：
 
-![正则搜索](https://raw.githubusercontent.com/guopenghui/obsidian-quiet-outline/master/public/regex_search.gif)
+![正则搜索](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_4.gif!pkmer)
 
 ### Markdown 渲染支持
 
-![渲染markdown](https://raw.githubusercontent.com/guopenghui/obsidian-quiet-outline/master/public/markdown.gif)
+![渲染markdown](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_5.gif!pkmer)
 
 ### 自动展开和折叠
 
 ### 层级切换栏
 
-![切换展开级别](https://raw.githubusercontent.com/guopenghui/obsidian-quiet-outline/master/public/switch.gif)
+![切换展开级别](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_6.gif!pkmer)
 
 ### 默认级别
 
-![默认级别](https://raw.githubusercontent.com/guopenghui/obsidian-quiet-outline/master/public/default-level.gif)
+![默认级别](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_7.gif!pkmer)
 
 ### 拖拽和修改笔记
 
-![拖拽](https://raw.githubusercontent.com/guopenghui/obsidian-quiet-outline/master/public/drag.gif)
+![拖拽](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_8.gif!pkmer)
 
 ## 限制
 

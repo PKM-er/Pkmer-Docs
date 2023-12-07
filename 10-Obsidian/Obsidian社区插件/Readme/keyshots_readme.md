@@ -1,6 +1,6 @@
 ---
-uid: 2023080322210205
-title: Obsidian 插件：Keyshots
+uid: 2023120719315448
+title: Obsidian 插件：【Readme】Keyshots
 tags: ['obsidian插件', 'readme']
 description: 添加来自像Visual Studio Code或JetBrains Family等流行IDE的经典热键/快捷键命令。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Keyshots
+# Obsidian 插件：【Readme】Keyshots
 
 > [!Note] 插件名片
 > - 插件名称：Keyshots
@@ -104,55 +104,55 @@ Keyshots 是一个 [Obsidian](https://obsidian.md) 插件，它添加了来自�
 
 Keyshots 添加了一些操作，如上移或下移行...
 
-![](assets/gifs/line_move.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_0.gif!pkmer)
 
 ...在光标上方或下方添加插入符...
 
-![](assets/gifs/add_caret.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_1.gif!pkmer)
 
 ...在上方或下方插入行...
 
-![](assets/gifs/insert_line.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_2.gif!pkmer)
 
 ...上移或下移复制行...
 
-![](assets/gifs/vscode_duplicate_line.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_3.gif!pkmer)
 
 ...复制文本或选择...
 
-![](assets/gifs/jetbrains_duplicate.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_4.gif!pkmer)
 
 ...在编辑器内切换可读行长度...
 
-![](assets/gifs/toggle_readable_line_length.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_5.gif!pkmer)
 
 ...在编辑器内切换行号...
 
-![](assets/gifs/toggle_line_numbers.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_6.gif!pkmer)
 
 ...编码或解码 URI 文本...
 
-![](assets/gifs/uri_encode_decode.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_7.gif!pkmer)
 
 ...将选定的文本转换为小写、大写或首字母大写...
 
-![](assets/gifs/transform_text.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_8.gif!pkmer)
 
 ...将选定的行合并为一行...
 
-![](assets/gifs/join_lines.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_9.gif!pkmer)
 
 ...将选择拆分为新行并修剪选择...
 
-![](assets/gifs/split_sel_on_line_and_trim.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_10.gif!pkmer)
 
 ...使用字母数字比较对选定的行进行排序...
 
-![](assets/gifs/sort_selected_lines.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_11.gif!pkmer)
 
 ...将选择转换为或从蛇形命名法...
 
-![](assets/gifs/transform_to_from_snakecase.gif)
+![](https://cdn.pkmer.cn/covers/keyshots_2_12.gif!pkmer)
 
 ...**还有更多要探索的命令！** *(更多即将推出)*
 

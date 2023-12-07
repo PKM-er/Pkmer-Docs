@@ -1,5 +1,5 @@
 ---
-uid: 2023102611071579
+uid: 2023120719214156
 title: Obsidian 插件：【Readme】@ Symbol Linking
 tags: ['obsidian插件', 'readme']
 description: 添加了在Obsidian中使用@（At符号）进行链接的功能。可以将@链接限定在特定目录中，例如Contacts/。
@@ -37,7 +37,7 @@ modified: 20230101000000
 
 # @符号链接
 
-![使用@符号链接到Persons/中的名称的Gif演示](./docs/at-symbol-linking-1.1.0.gif)
+![使用@符号链接到Persons/中的名称的Gif演示](https://cdn.pkmer.cn/covers/at-symbol-linking_2_0.gif!pkmer)
 
 在 [Obsidian](https://obsidian.md/) 中添加了使用 `@`（At 符号）进行链接的功能。可以将 `@` 链接的范围限定为特定目录（例如 `Contacts/`）中的源链接。
 

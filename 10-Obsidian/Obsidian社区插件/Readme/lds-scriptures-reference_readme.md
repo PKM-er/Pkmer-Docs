@@ -1,5 +1,5 @@
 ---
-uid: 2023082011355529
+uid: 2023120719345113
 title: Obsidian 插件：【Readme】LDS Scriptures Reference
 tags: ['obsidian插件', 'readme']
 description: 轻松地插入对LDS经文的引用
@@ -57,11 +57,11 @@ modified: 20230101000000
 
 示例：
 
-![verse-completion](https://github.com/pacokwon/obsidian-lds-scriptures-plugin/assets/31656049/a4d0397d-deb1-4e3b-bbce-cd6661742572)
+![verse-completion](https://cdn.pkmer.cn/covers/lds-scriptures-reference_1_0.png!pkmer)
 
 插入的引用示例：
 
-![verse-insertion](https://github.com/pacokwon/obsidian-lds-scriptures-plugin/assets/31656049/8fc59255-f845-4b99-86be-edaee94c16a7)
+![verse-insertion](https://cdn.pkmer.cn/covers/lds-scriptures-reference_1_1.png!pkmer)
 
 参考范围
 
@@ -69,11 +69,11 @@ modified: 20230101000000
 
 示例：
 
-![范围完成](https://github.com/pacokwon/obsidian-lds-scriptures-plugin/assets/31656049/655004bc-1a11-4ad2-a887-7983cfb4f82f)
+![范围完成](https://cdn.pkmer.cn/covers/lds-scriptures-reference_1_2.png!pkmer)
 
 插入引用示例：
 
-![范围插入](https://github.com/pacokwon/obsidian-lds-scriptures-plugin/assets/31656049/095bbbf0-ca70-4380-98e4-2988175b6bd4)
+![范围插入](https://cdn.pkmer.cn/covers/lds-scriptures-reference_1_3.png!pkmer)
 
 多语言支持
 

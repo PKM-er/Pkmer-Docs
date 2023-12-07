@@ -1,6 +1,6 @@
 ---
-uid: 2023080322142099
-title: Obsidian 插件：Audio Notes
+uid: 2023120719224751
+title: Obsidian 插件：【Readme】Audio Notes
 tags: ['obsidian插件', 'readme']
 description: 为音频文件创建笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Audio Notes
+# Obsidian 插件：【Readme】Audio Notes
 
 > [!Note] 插件名片
 > - 插件名称：Audio Notes
@@ -51,17 +51,17 @@ modified: 20230101000000
 
 看看吧！
 
-![](assets/audio-notes-example.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-audio-notes_2_0.gif!pkmer)
 
 <strong>音频笔记</strong>是一个包含音频引用的标注，配有嵌入式音频播放器以重播引用。它看起来像这样：
 
-![](assets/renderedNote.png)
+![](https://cdn.pkmer.cn/covers/obsidian-audio-notes_2_1.png!pkmer)
 
 您可以使用下面描述的语音转文本软件为音频文件生成转录。一旦您有了转录，<strong>音频笔记</strong>将自动生成您的笔记的引用！
 
 要创建音频笔记，您必须指定一个音频文件，并可以设置一些其他属性。所有属性都使用类似标注的代码块进行设置：
 
-![](assets/unrenderedNote.png)
+![](https://cdn.pkmer.cn/covers/obsidian-audio-notes_2_2.png!pkmer)
 
 * `audio`：（必需）音频文件名。它可以是本地文件或在线音频文件的链接。
   * （可选）您可以在文件名的末尾添加 `#t=<start>,<end>` 来设置引用的开始和结束时间。例如，您可以添加 `t=1:20,1:30` 以在 1:20 开始音频片段，并在 1:30 结束。如果您不想设置结束时间，可以简单地使用 `t=<start>`。

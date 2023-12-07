@@ -2,7 +2,7 @@
 uid: 20231020222645
 title: 安卓和鸿蒙设备照片中乱入 Obsidian 图片解决方案
 tags: []
-description: 安卓&鸿蒙设备照片中乱入 Obsidian 图片解决方案
+description: 在手机相册中隐藏Obsidian的图片附件
 author: ProudBenzene
 type: other
 draft: false

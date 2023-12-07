@@ -1,6 +1,6 @@
 ---
-uid: 2023080322275496
-title: Obsidian 插件：Tasks
+uid: 2023120719441704
+title: Obsidian 插件：【Readme】Tasks
 tags: ['任务管理', '自动化', 'obsidian插件', 'readme']
 description: Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Tasks
+# Obsidian 插件：【Readme】Tasks
 
 > [!Note] 插件名片
 > - 插件名称：Tasks
@@ -58,19 +58,19 @@ _您可以在任何视图或查询中切换任务状态，它将更新源文件�
 - _所有截图都假设 [全局过滤器](https://publish.obsidian.md/tasks/Getting+Started/Global+Filter)`#task`，默认情况下未设置（另请参阅 [安装](https://publish.obsidian.md/tasks/Installation/Installation)）。_
 - _主题是默认的 Obsidian 主题。_
 
-![ACME任务](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/gh-pages/docs/images/acme.png)
+![ACME任务](https://cdn.pkmer.cn/covers/obsidian-tasks-plugin_1_0.png!pkmer)
 
 `ACME` 笔记中有一些任务。
 
-![重要项目任务](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/gh-pages/docs/images/important_project.png)
+![重要项目任务](https://cdn.pkmer.cn/covers/obsidian-tasks-plugin_1_1.png!pkmer)
 
 `重要项目` 笔记中也有一些任务。
 
-![任务查询](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/gh-pages/docs/images/tasks_queries.png)
+![任务查询](https://cdn.pkmer.cn/covers/obsidian-tasks-plugin_1_2.png!pkmer)
 
 `任务` 笔记从存储库中收集所有任务，并使用查询显示它们。
 
-![创建或编辑模态框](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/gh-pages/docs/images/modal.png)
+![创建或编辑模态框](https://cdn.pkmer.cn/covers/obsidian-tasks-plugin_1_3.png!pkmer)
 
 `任务：创建或编辑` 命令在编辑任务时帮助您。
 
@@ -90,7 +90,7 @@ _您可以在任何视图或查询中切换任务状态，它将更新源文件�
 
 在你的笔记库中的一个 Markdown 笔记中创建一些任务。例如：
 
-```html
+```text
 - [ ] 一些不重要的事情，没有日期
 - [ ] 记得做那个重要的事情 - 带有截止日期 📅 2022-12-17
 - [ ] 给Kate寄生日卡 - 带有计划日期 🔁 每年1月4日 ⏳ 2023-01-04
@@ -104,7 +104,7 @@ _您可以在任何视图或查询中切换任务状态，它将更新源文件�
 
 以下是一个示例，展示了一些不同的功能。在阅读或实时预览模式下查看结果。
 
-````html
+````text
 ```tasks
 
 # 只有未完成的任务，即以以下方式开始的任务（但不包括引号）：

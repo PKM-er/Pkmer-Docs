@@ -1,6 +1,6 @@
 ---
-uid: 2023080322273998
-title: Obsidian 插件：Tab Rotator
+uid: 2023120719435726
+title: Obsidian 插件：【Readme】Tab Rotator
 tags: ['obsidian插件', 'readme']
 description: 将打开的文件向左或向右旋转指定的间隔。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Tab Rotator
+# Obsidian 插件：【Readme】Tab Rotator
 
 > [!Note] 插件名片
 > - 插件名称：Tab Rotator
@@ -47,7 +47,7 @@ Tab Rotator 插件是一款 Obsidian 插件，使用户能够在其 Obsidian 工
 
 演示（加速 1.5 倍）
 
-![demo_rotate_tabs](https://user-images.githubusercontent.com/10937668/234929351-79cce7ed-3ce5-457f-a33e-de887545fdc7.gif)
+![demo_rotate_tabs](https://cdn.pkmer.cn/covers/tab-rotator_1_0.gif!pkmer)
 
 使用方法
 

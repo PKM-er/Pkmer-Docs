@@ -1,5 +1,5 @@
 ---
-uid: 2023120522254584
+uid: 2023120719313557
 title: Obsidian 插件：【Readme】Jira Linker
 tags: ['obsidian插件', 'readme']
 description: 快速将Jira问题标签格式化为指向您的Jira实例的链接。
@@ -60,7 +60,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示动画](./documentation/demo.gif)
+![演示动画](https://cdn.pkmer.cn/covers/jira-linker_2_0.gif!pkmer)
 
 ## 如何使用
 

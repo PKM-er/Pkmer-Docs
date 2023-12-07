@@ -1,5 +1,5 @@
 ---
-uid: 2023102611085617
+uid: 2023120719463481
 title: Obsidian 插件：【Readme】Webdav File Explorer
 tags: ['obsidian插件', 'readme']
 description: 允许您浏览您的WebDAV文件。
@@ -24,6 +24,8 @@ modified: 20230101000000
 
 允许您浏览您的 WebDAV 文件。
 
+![Webdav File Explorer](https://cdn.pkmer.cn/covers/webdav-file-explorer.png!pkmer)
+
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/red0orange/obsidian-webdav-file-explorer/master/README.md)
@@ -41,7 +43,7 @@ modified: 20230101000000
 
 解决方案：该插件支持您将文件保存在任何支持 Webdav 访问的网络磁盘或云存储中。该插件提供浏览和引用这些文件的功能。插件将读取 Webdav 中的文件，并以文件树的形式显示出来。另一方面，插件在本地路径中创建完全对称的 md 文件树。在相应的 md 文件中，您可以提供文件的描述以供后续检索。如下图所示。
 
-![image.png](https://red0orange-1307037246.cos.ap-guangzhou.myqcloud.com/pictures/20230810184225.png)
+![image.png](https://cdn.pkmer.cn/covers/webdav-file-explorer_1_0.png!pkmer)
 
 用法：
 

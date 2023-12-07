@@ -1,6 +1,6 @@
 ---
-uid: 2023080322184788
-title: Obsidian 插件：Format code blocks of various languages
+uid: 2023120719291411
+title: Obsidian 插件：【Readme】Format code blocks of various languages
 tags: ['obsidian插件', 'readme']
 description: 这个插件引入了格式化代码的命令（内部使用prettier）
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Format code blocks of various languages
+# Obsidian 插件：【Readme】Format code blocks of various languages
 
 > [!Note] 插件名片
 > - 插件名称：Format code blocks of various languages
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 ### 如何使用
 
-![如何使用](assets/obsidian-prettier-demo.gif)
+![如何使用](https://cdn.pkmer.cn/covers/obsidian-format-code_2_0.gif!pkmer)
 
 ### 如何安装
 

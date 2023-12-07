@@ -1,6 +1,6 @@
 ---
-uid: 2023080322232990
-title: Obsidian 插件：Obsidian Markdown export
+uid: 2023120719375774
+title: Obsidian 插件：【Readme】Obsidian Markdown export
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的Markdown导出插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Markdown export
+# Obsidian 插件：【Readme】Obsidian Markdown export
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Markdown export
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 ---
 
-![screenshot](./export.gif)
+![screenshot](https://cdn.pkmer.cn/covers/obsidian-markdown-export-plugin_2_0.gif!pkmer)
 
 ## 特点
 

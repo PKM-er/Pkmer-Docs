@@ -1,5 +1,5 @@
 ---
-uid: 2023102611081980
+uid: 2023120719402628
 title: Obsidian 插件：【Readme】Pickly PageBlend
 tags: ['obsidian插件', 'readme']
 description: 一键发布您的Obsidian笔记。
@@ -56,7 +56,7 @@ Pickly PageBlend - 分享你的 Obsidian 笔记的最简单方式。
 
 等待笔记发布完成后，您将收到一个已发布文件的链接。
 
-![example.gif](./img/example.gif)
+![example.gif](https://cdn.pkmer.cn/covers/pickly-page-blend_2_0.gif!pkmer)
 
 预览
 
@@ -64,7 +64,7 @@ Pickly PageBlend - 分享你的 Obsidian 笔记的最简单方式。
 
 如果您的文章中没有图像，将自动创建一个包含文章标题的图像。例如：
 
-![preview-example.png](./img/preview-example.png)
+![preview-example.png](https://cdn.pkmer.cn/covers/pickly-page-blend_2_1.png!pkmer)
 
 ## 元标签
 
@@ -93,19 +93,19 @@ pickly_description: 您自定义的 <meta name="description"> 和其他标签的
 
 1. 在 [Viqeo.tv](https://studio.viqeo.tv) 上创建一个帐户。
 2. 添加文章转视频播放器
-![img.png](./img/viqeo/first.png)
-![img.png](./img/viqeo/second.png)
+![img.png](https://cdn.pkmer.cn/covers/pickly-page-blend_2_2.png!pkmer)
+![img.png](https://cdn.pkmer.cn/covers/pickly-page-blend_2_3.png!pkmer)
 3. 自定义它
 
 > **重要！将“元素的 CSS 选择器”字段设置为** `.container .cover`
 
-![img.png](./img/viqeo/third.png)
+![img.png](https://cdn.pkmer.cn/covers/pickly-page-blend_2_4.png!pkmer)
 
-1. 获取播放器的嵌入代码
+4. 获取播放器的嵌入代码
 
-![img.png](./img/viqeo/fourth.png)
+![img.png](https://cdn.pkmer.cn/covers/pickly-page-blend_2_5.png!pkmer)
 
-1. 将选项添加到您的笔记属性中
+5. 将选项添加到您的笔记属性中
 
 ```
 pickly_ttv: yes

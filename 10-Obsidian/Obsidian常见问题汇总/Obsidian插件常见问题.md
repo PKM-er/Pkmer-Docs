@@ -226,7 +226,7 @@ Excalidraw 的脚本市场在页面的右上角，有个齿轮⚙叠加播放的
 
 然后还有通过外部的软件辅助识别，详细介绍见链接：
 
-[Umi-OCR 本地图片识别并批量转换]([https://pkmer.cn/show/20230725164407](https://pkmer.cn/show/20230725164407) )
+[Umi-OCR 本地图片识别并批量转换](https://pkmer.cn/show/20230725164407) 
 
 ![image.png|400](https://cdn.pkmer.cn/images/20231013232126.png!pkmer)
 

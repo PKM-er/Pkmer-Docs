@@ -45,7 +45,7 @@ modified: 20230101000000
 
 1. 登录您的 Google 账号，并访问 [Google Bard](https://bard.google.com)。
 2. 打开 Web 检查器，并转到“应用程序”选项卡。
-3. 在侧边栏的存储下，点击打开“Cookies”下拉菜单，并点击“<<https://bard.google.com>”选项。>
+3. 在侧边栏的存储下，点击打开“Cookies”下拉菜单，并点击“<https://bard.google.com>”选项。>
 4. 查找并复制标记为 `__Secure-1PSID` 和 `__Secure-1PSIDTS` 的 Cookie。确保您也复制末尾的句点。
 
 <img src="./assets/Screenshot 2023-07-19 at 22.26.50.png"></img>
@@ -65,7 +65,7 @@ modified: 20230101000000
 
 # 贡献
 
-请随意在<<https://github.com/Aldhanekaa/GoogleBardObsidian> 上进行贡献，这个仓库是开放的，可以提交拉取请求以添加更多功能，是的，贡献者的名字将会被添加到 README 中。>
+请随意在<https://github.com/Aldhanekaa/GoogleBardObsidian> 上进行贡献，这个仓库是开放的，可以提交拉取请求以添加更多功能，是的，贡献者的名字将会被添加到 README 中。>
 
 ---
 

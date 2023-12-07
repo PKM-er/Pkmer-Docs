@@ -1,6 +1,6 @@
 ---
-uid: 2023080322142394
-title: Obsidian 插件：Aut-O-Backups
+uid: 2023120719225026
+title: Obsidian 插件：【Readme】Aut-O-Backups
 tags: ['备份', 'obsidian插件', 'readme']
 description: 自动备份您整个保险库到Dropbox。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Aut-O-Backups
+# Obsidian 插件：【Readme】Aut-O-Backups
 
 > [!Note] 插件名片
 > - 插件名称：Aut-O-Backups
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 每 20 分钟自动备份您的整个存储库到 Dropbox（在 10 分钟延迟后开始）。
 
-![Obsidian Aut-O-Backups logo](Aut-O-Backups_256x256.png)
+![Obsidian Aut-O-Backups logo](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups_2_0.png!pkmer)
 
 备份存储在这里：
 
@@ -79,7 +79,7 @@ modified: 20230101000000
 
 演示：
 
-![Demo](https://github.com/ryanpcmcquen/obsidian-dropbox-backups/raw/master/obsidian-dropbox-backups-demo-v2.gif)
+![Demo](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups_1_0.gif!pkmer)
 
 ### 设置
 
@@ -93,7 +93,7 @@ modified: 20230101000000
 
 此应用程序需要以下 Dropbox 权限：
 
-![IMG_5695](https://user-images.githubusercontent.com/772937/119743485-dbcfa380-be3e-11eb-9872-ffae4c4fa02c.png)
+![IMG_5695](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups_1_1.png!pkmer)
 
 - `account_info.read`：您无法关闭此权限，我认为实际上我并不需要它。您可以在源代码中看到我没有从中读取任何内容。
 - `files.metadata.read`：您也无法关闭此权限。我从不读取或列出文件，所以它不应该是必需的，但 Dropbox 不允许关闭它。

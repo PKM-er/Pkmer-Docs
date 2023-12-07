@@ -1,5 +1,5 @@
 ---
-uid: 2023102611080504
+uid: 2023120719352383
 title: Obsidian 插件：【Readme】Lovely-Mindmap
 tags: ['obsidian插件', 'readme']
 description: 用微笑建立你自己的知识图谱 :-)
@@ -28,7 +28,7 @@ modified: 20230101000000
 
 > [!tip] 原文出处
 >
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/xincan1949/lovely-mindmap/master/README.md)
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/shaunhurryup/lovely-mindmap/master/README.md)
 >
 
 ---
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 Obsidian 画布插件，用笑脸构建自己的知识图谱：）
 
-![演示](./DEMO.gif)
+![演示](https://cdn.pkmer.cn/covers/lovely-mindmap_2_0.gif!pkmer)
 
 它被称为思维导图，但不仅仅是思维导图。
 

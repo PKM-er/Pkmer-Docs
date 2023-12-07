@@ -1,5 +1,5 @@
 ---
-uid: 2023120522252171
+uid: 2023120719302939
 title: Obsidian 插件：【Readme】HelpMate
 tags: ['obsidian插件', 'readme']
 description: 将帮助系统整合到Obsidian用户界面中。
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 一个插件，为 Obsidian 添加了一个侧边栏，用于查看已安装的插件和主题的帮助网站。
 
-![预览](preview.png)
+![预览](https://cdn.pkmer.cn/covers/helpmate_2_0.png!pkmer)
 
 更多信息
 

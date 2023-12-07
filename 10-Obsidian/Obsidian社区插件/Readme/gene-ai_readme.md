@@ -1,6 +1,6 @@
 ---
-uid: 2023080322190535
-title: Obsidian 插件：Gene 🧬
+uid: 2023120719293853
+title: Obsidian 插件：【Readme】Gene 🧬
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI API生成文本的插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Gene 🧬
+# Obsidian 插件：【Readme】Gene 🧬
 
 > [!Note] 插件名片
 > - 插件名称：Gene 🧬
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 Gene 是一个免费且开源的 AI 助手，可以帮助您创建、修改、翻译和整体增强您的笔记。
 
-![演示](./Demo.gif)
+![演示](https://cdn.pkmer.cn/covers/gene-ai_2_0.gif!pkmer)
 
 ## 特点
 

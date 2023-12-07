@@ -1,6 +1,6 @@
 ---
-uid: 2023080322284982
-title: Obsidian 插件：Tweet to Markdown
+uid: 2023120719454340
+title: Obsidian 插件：【Readme】Tweet to Markdown
 tags: ['obsidian插件', 'readme']
 description: 将推文保存为 Markdown 文件，以及它们的图像、投票等等。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Tweet to Markdown
+# Obsidian 插件：【Readme】Tweet to Markdown
 
 > [!Note] 插件名片
 > - 插件名称：Tweet to Markdown
@@ -79,14 +79,14 @@ modified: 20230101000000
 
 要使用此工具，您有两个选项：
 
-- 从<https://ttm.kbravh.dev> 免费获取 API 密钥（v2.0.0 中的新功能）>
+- 从<https://ttm.kbravh.dev 免费获取 API 密钥（v2.0.0 中的新功能）>
 - 通过 Twitter 开发者控制台注册 Bearer 令牌
 
-从<https://ttm.kbravh.dev> 免费获取 API 密钥是使用此插件的最简单方法，因为您不必经过 Twitter 的开发者申请流程。他们的申请流程很繁琐，而且他们并不总是批准请求。但是，您完全可以按照下面的指南从 Twitter 检索自己的 Bearer 令牌。这将为您的使用提供最大的控制、自由和安全性。>
+从<https://ttm.kbravh.dev 免费获取 API 密钥是使用此插件的最简单方法，因为您不必经过 Twitter 的开发者申请流程。他们的申请流程很繁琐，而且他们并不总是批准请求。但是，您完全可以按照下面的指南从 Twitter 检索自己的 Bearer 令牌。这将为您的使用提供最大的控制、自由和安全性。>
 
 ### 免费的 TTM API 密钥（❌已禁用）
 
-~~您可以通过使用 GitHub 或 Twitter 帐户登录<https://ttm.kbravh.dev> 注册免费的 API 密钥，并转到您的帐户页面。一旦您登录并从帐户页面检索到您的 API 密钥，将其复制并粘贴到 Tweet> to Markdown 设置页面的 API 密钥/承载令牌字段中。如果您更希望更加保护令牌，您可以将其存储在环境变量 `TTM_API_KEY` 中。~~
+~~您可以通过使用 GitHub 或 Twitter 帐户登录<https://ttm.kbravh.dev 注册免费的 API 密钥，并转到您的帐户页面。一旦您登录并从帐户页面检索到您的 API 密钥，将其复制并粘贴到 Tweet> to Markdown 设置页面的 API 密钥/承载令牌字段中。如果您更希望更加保护令牌，您可以将其存储在环境变量 `TTM_API_KEY` 中。~~
 
 请注意：在 Unix 机器上，请确保在您的配置文件（例如 `~/.bash_profile`）中设置此环境变量，以便 Obsidian 可以使用它。
 
@@ -104,7 +104,7 @@ modified: 20230101000000
 
 要下载推文线程，请粘贴线程中**最后一个**推文的链接，并切换到线程开关。
 
-![下载新推文的模态框。](https://raw.githubusercontent.com/kbravh/obsidian-tweet-to-markdown/main/images/tweet_url_modal.png)
+![下载新推文的模态框。](https://cdn.pkmer.cn/covers/obsidian-tweet-to-markdown_1_0.png!pkmer)
 
 下载推文后，将出现一个窗口，用于设置将要创建的文件名。您可以在命名文件时使用变量 `[[handle]]`、`[[name]]`、`[[text]]`、`[[date]]` 和 `[[id]]`，这些变量将根据以下表格自动替换。文件扩展名 `.md` 将自动添加。
 
@@ -231,7 +231,7 @@ another: second value
 
 从 1.3.0 版本开始，您可以将 Twitter 链接粘贴到任何文件中，并自动将其转换为推文并嵌入到您的笔记中。✨
 
-![粘贴推文链接的演示](https://raw.githubusercontent.com/kbravh/obsidian-tweet-to-markdown/main/images/link_paste_demo.gif)
+![粘贴推文链接的演示](https://cdn.pkmer.cn/covers/obsidian-tweet-to-markdown_1_1.gif!pkmer)
 
 您可以在插件设置面板中启用此设置，称为**粘贴时下载推文**。在设置中，您可以选择将推文直接嵌入到当前笔记中，还是将其链接为 Obsidian 嵌入（`![[note title]]`）。
 

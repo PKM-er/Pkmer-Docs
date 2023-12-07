@@ -1,6 +1,6 @@
 ---
-uid: 2023080322173094
-title: Obsidian 插件：Duplicate Line
+uid: 2023120719270382
+title: Obsidian 插件：【Readme】Duplicate Line
 tags: ['obsidian插件', 'readme']
 description: 复制一行
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Duplicate Line
+# Obsidian 插件：【Readme】Duplicate Line
 
 > [!Note] 插件名片
 > - 插件名称：Duplicate Line
@@ -47,4 +47,4 @@ modified: 20230101000000
 
 默认情况下，在 Obsidian 中，如果没有任何选择内容，您可以按下 <kbd>Ctrl C</kbd>，然后按下 <kbd>Ctrl V</kbd> 来复制光标所在的行。
 
-![演示](./duplicateLine.gif)
+![演示](https://cdn.pkmer.cn/covers/duplicate-line_2_0.gif!pkmer)

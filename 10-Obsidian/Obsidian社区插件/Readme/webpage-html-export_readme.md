@@ -1,6 +1,6 @@
 ---
-uid: 2023080322292722
-title: Obsidian 插件：Webpage HTML Export
+uid: 2023120719463620
+title: Obsidian 插件：【Readme】Webpage HTML Export
 tags: ['obsidian插件', 'readme']
 description: 将文档、文件夹或库导出成 HTML 文件，有黑白主题以及大纲目录。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Webpage HTML Export
+# Obsidian 插件：【Readme】Webpage HTML Export
 
 > [!Note] 插件名片
 > - 插件名称：Webpage HTML Export
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 网页 HTML 导出是 Obsidian 的一个插件，它允许您将单个文件或整个 vault 导出为 HTML 网站/网页。它类似于发布功能，但您可以获得 .html 文件，可以根据需要进行自定义。它的目标是尽可能支持 Obsidian 的许多功能，包括主题、数据视图、图形视图等。
 
-![image](https://github.com/KosmosisDire/obsidian-webpage-export/assets/39423700/06d37659-df82-415e-9244-99877ce1924e)
+![image](https://cdn.pkmer.cn/covers/webpage-html-export_1_0.png!pkmer)
 
 ## 特点
 

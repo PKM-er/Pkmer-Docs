@@ -1,6 +1,6 @@
 ---
-uid: 2023080322241162
-title: Obsidian 插件：Open vault in VSCode
+uid: 2023120719394843
+title: Obsidian 插件：【Readme】Open vault in VSCode
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: Ribbon按钮和命令以Visual Studio Code工作区打开保险库
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Open vault in VSCode
+# Obsidian 插件：【Readme】Open vault in VSCode
 
 > [!Note] 插件名片
 > - 插件名称：Open vault in VSCode
@@ -48,15 +48,15 @@ Ribbon 按钮和命令以 Visual Studio Code 工作区打开保险库
 
 你可以使用 VSCode 来进行各种与 vault 相关的操作，例如使用 git 进行版本控制，使用 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) 进行 markdown 格式化，使用 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) 进行 linting，[批量格式化文件](https://marketplace.visualstudio.com/items?itemName=jbockle.jbockle-format-files) 等等。
 
-![video showcase](https://user-images.githubusercontent.com/5298006/125867690-c11f4396-e31b-4232-9ea5-822bf729df9a.gif)
+![video showcase](https://cdn.pkmer.cn/covers/open-vscode_1_0.gif!pkmer)
 
 这些图标适用于明亮和暗黑模式。
 
-![light and dark](https://user-images.githubusercontent.com/5298006/125868293-96c6f541-0604-4238-9fc3-05ff6c2e08df.gif)
+![light and dark](https://cdn.pkmer.cn/covers/open-vscode_1_1.gif!pkmer)
 
 你也可以将其作为命令使用并为其分配快捷键。你可以在设置中禁用按钮。
 
-![command](https://user-images.githubusercontent.com/5298006/125869408-d39d870b-ab4f-42d0-b915-b6abc1e617d5.png)
+![command](https://cdn.pkmer.cn/covers/open-vscode_1_2.png!pkmer)
 
 ## 设置
 

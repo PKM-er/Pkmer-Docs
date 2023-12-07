@@ -1,6 +1,6 @@
 ---
-uid: 2023080322191927
-title: Obsidian 插件：Google Calendar and Contacts Lookup
+uid: 2023120719295570
+title: Obsidian 插件：【Readme】Google Calendar and Contacts Lookup
 tags: ['日期相关', '第三方工具集成', 'obsidian插件', 'readme']
 description: 让你在 Obsidian 中使用你 Google 帐户的联系人和日历事件信息。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Google Calendar and Contacts Lookup
+# Obsidian 插件：【Readme】Google Calendar and Contacts Lookup
 
 > [!Note] 插件名片
 > - 插件名称：Google Calendar and Contacts Lookup
@@ -45,11 +45,11 @@ modified: 20230101000000
 
 Obsidian 插件，可以直接将 Google 日历事件和 Google 联系人信息插入到您的笔记中。
 
-![](https://raw.githubusercontent.com/ntawileh/obsidian-google-lookup/main/docs/images/event-insert.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-google-lookup_1_2.gif!pkmer)
 
 建议模态框正在查找您的日历事件。这对于在 Obsidian 中记录会议笔记并希望快速填充会议元数据的人非常有用。
 
-![](https://raw.githubusercontent.com/ntawileh/obsidian-google-lookup/main/docs/images/contact-insert.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-google-lookup_1_3.gif!pkmer)
 
 这里的建议模态框正在查找联系人，包括个人联系人和 Google Workspace 目录中的人员。当将 Obsidian 用作迷你 CRM 并希望能够快速为您合作的个人创建笔记，并且稍后可以与其他笔记进行反向链接时，这非常有用。
 
@@ -64,6 +64,6 @@ Obsidian 插件，可以直接将 Google 日历事件和 Google 联系人信息�
 
 只有在有活动编辑器/Markdown 视图时，这两个命令才会显示。
 
-![](https://raw.githubusercontent.com/ntawileh/obsidian-google-lookup/main/docs/images/commands.png)
+![](https://cdn.pkmer.cn/covers/obsidian-google-lookup_1_4.png!pkmer)
 
 有关更多信息，请参阅 [插件文档](https://ntawileh.github.io/obsidian-google-lookup)。

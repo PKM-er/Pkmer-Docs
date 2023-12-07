@@ -1,5 +1,5 @@
 ---
-uid: 2023120522260786
+uid: 2023120719364412
 title: Obsidian 插件：【Readme】Minio Uploader
 tags: ['obsidian插件', 'readme']
 description: 上传图片、视频、音频、PDF和其他文件到Minio OSS。
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 ## 预览
 
-![演示](./minio-uploader-demo.gif)
+![演示](https://cdn.pkmer.cn/covers/minio-uploader_2_0.gif!pkmer)
 
 可以与 [编辑工具栏](https://github.com/PKM-er/obsidian-editing-toolbar) 配对使用。要使用该插件，请将 mini 命令添加到操作栏中。您可以点击选择文件，上传文件，并将其添加到 Observer 文档中。
 
@@ -66,6 +66,6 @@ modified: 20230101000000
 
 其次，在 Minio 控制台的 Bucket 设置中，需要启用文件的匿名访问，这意味着可以通过 URL 直接访问文件。
 
-![设置](./minio-bucket-setting.png)
+![设置](https://cdn.pkmer.cn/covers/minio-uploader_2_1.png!pkmer)
 
 感谢 [S3图像上传器](https://github.com/jvsteiner/s3-image-uploader) 和 [编辑工具栏](https://github.com/PKM-er/obsidian-editing-toolbar) 插件，这个项目从中获得了灵感。

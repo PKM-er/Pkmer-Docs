@@ -1,5 +1,5 @@
 ---
-uid: 2023120522262561
+uid: 2023120719393765
 title: Obsidian 插件：【Readme】Omg.publish
 tags: ['obsidian插件', 'readme']
 description: 将选定的文本发布到OMG.lol状态日志的Obsidian插件
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 Omg.publish 是 Obsidian 的插件，允许您将笔记发布到 omg.lol 的服务（如 statuslog 或 weblog（计划中））。
 
-![](screenshot1.png)
+![](https://cdn.pkmer.cn/covers/omglol-statuslog-publish_2_0.png!pkmer)
 
 安装（进行中）
 
@@ -55,7 +55,7 @@ Omg.publish 是 Obsidian 的插件，允许您将笔记发布到 omg.lol 的服�
 
 如果您不想将状态同时发布到 Mastodon，您可以启用跳过 Mastodon 发布设置。默认情况下，此选项是禁用的。
 
-![](screenshot2.png)
+![](https://cdn.pkmer.cn/covers/omglol-statuslog-publish_2_1.png!pkmer)
 
 将要发布到状态日志的任何文本选择并使用 `CTRL+P`（Windows）或类似的键盘快捷键打开命令面板，具体取决于您的操作系统。查找“发布到状态日志”操作。
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322172323
-title: Obsidian 插件：Divide & Conquer
+uid: 2023120719265038
+title: Obsidian 插件：【Readme】Divide & Conquer
 tags: ['obsidian插件', 'readme']
 description: 批量启用/禁用插件的命令。 当您有许多插件时，这很有用，可用于调试。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Divide & Conquer
+# Obsidian 插件：【Readme】Divide & Conquer
 
 > [!Note] 插件名片
 > - 插件名称：Divide & Conquer
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 这是一个 [Obsidian](https://obsidian.md/) 插件，提供了批量启用/禁用插件和 CSS 片段的命令。这样可以快速找出哪些插件导致了错误或性能问题。
 
-![DAC Snippet Demo](https://user-images.githubusercontent.com/31261158/201551797-0a278ec8-e6e9-4285-b633-bfec015e1c15.gif)
+![DAC Snippet Demo](https://cdn.pkmer.cn/covers/obsidian-divide-and-conquer_1_3.gif!pkmer)
 
 如何帮助调试
 
@@ -69,7 +69,7 @@ modified: 20230101000000
 
 插件/片段的排除功能已启用 [正则表达式](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)，您还可以通过作者或描述进行排除（例如，' 命令面板 ' 排除任何修改命令面板的插件）
 
-![DAC设置演示](https://user-images.githubusercontent.com/31261158/201551906-d6b732f5-66db-4747-9349-3efcb7aad3e9.gif)
+![DAC设置演示](https://cdn.pkmer.cn/covers/obsidian-divide-and-conquer_1_4.gif!pkmer)
 
 ## 安装
 

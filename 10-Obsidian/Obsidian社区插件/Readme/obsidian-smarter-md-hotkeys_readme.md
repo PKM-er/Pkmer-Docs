@@ -1,6 +1,6 @@
 ---
-uid: 2023080322270887
-title: Obsidian 插件：Smarter Markdown Hotkeys
+uid: 2023120719432281
+title: Obsidian 插件：【Readme】Smarter Markdown Hotkeys
 tags: ['obsidian插件', 'readme']
 description: 智能选择单词和行的快捷键，在应用标记之前支持多个光标。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Smarter Markdown Hotkeys
+# Obsidian 插件：【Readme】Smarter Markdown Hotkeys
 
 > [!Note] 插件名片
 > - 插件名称：Smarter Markdown Hotkeys
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md/) 提供的插件，提供了在应用标记之前以智能方式选择单词和行的快捷键 [^4]。同时支持多个光标。
 
-![演示视频](demo/demo.gif)
+![演示视频](https://cdn.pkmer.cn/covers/obsidian-smarter-md-hotkeys_2_0.gif!pkmer)
 
 ## 目录
 
