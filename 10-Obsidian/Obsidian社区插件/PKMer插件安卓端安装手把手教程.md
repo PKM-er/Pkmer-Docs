@@ -8,6 +8,7 @@ tags:
   - 下载
   - 插件安装
   - 教程
+  - PKMer插件
 description: PKMer插件安卓端安装手把手教程
 author: ProudBenzene
 type: tutorial
