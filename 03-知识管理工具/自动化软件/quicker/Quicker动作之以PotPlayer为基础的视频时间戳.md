@@ -7,7 +7,7 @@ author: ImmortalSty
 type: other
 draft: false
 editable: true
-modified: 20231209180205
+modified: 20231209235322
 ---
 
 # Quicker 动作之以 PotPlayer 为基础的视频时间戳
