@@ -1,13 +1,13 @@
 ---
 uid: 20230928123603
 title: Dataview 日历简单查询示例
-tags: [dataview]
+tags: [obsidian, dataview]
 description: 
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20230928090114
+modified: 20231209174734
 ---
 
 # Dataview 日历简单查询示例

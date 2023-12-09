@@ -1,16 +1,13 @@
 ---
 uid: 20230916154336
-title: Dataview 无序列表简单查询示例
-tags:
-  - Obsidian
-  - dataview
-  - 示例
+title: Dataview 列表简单查询示例
+tags: [obsidian, dataview, 示例]
 description: Dataview 列表简单查询示例
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20230925122400
+modified: 20231209174856
 ---
 
 # Dataview 列表简单查询示例
@@ -52,6 +49,7 @@ FROM #dvjs/el OR #dv/min
 `````
 
 **列出在文件夹 games 之下且具有标签 genre/action 的所有文件**
+
 `````示例代码
 ```dataview
 LIST

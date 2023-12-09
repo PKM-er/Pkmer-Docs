@@ -1,7 +1,7 @@
 ---
 uid: 20230926135946
 title: Dataview 任务进阶查询示例
-tags: []
+tags: [obsidian, dataview]
 description: 
 author: Huajin
 type: other

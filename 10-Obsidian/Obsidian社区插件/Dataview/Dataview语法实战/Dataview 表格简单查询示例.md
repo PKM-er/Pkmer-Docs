@@ -1,18 +1,19 @@
 ---
 uid: 20230927130459
 title: Dataview 表格简单查询示例
-tags: 
-description: 
+tags: [obsidian, dataview]
+description: Dataview 表格简单查询示例
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20230927130518
+modified: 20231209174823
 ---
 
 # Dataview 表格简单查询示例
 
 **用表格展示 games 文件夹中的所有文件**
+
 `````示例代码
 ```dataview
 TABLE
@@ -21,6 +22,7 @@ FROM "10 Example Data/games"
 `````
 
 **用表格列出所有具有 #type/book 标签的文件**
+
 `````示例代码
 ```dataview
 TABLE
@@ -29,6 +31,7 @@ FROM #type/books
 `````
 
 **用表格列出具有 #dvjs/el 或 #dv/min 标签的文件**
+
 `````示例代码
 ```dataview
 TABLE
@@ -37,6 +40,7 @@ FROM #dvjs/el OR #dv/min
 `````
 
 **用表格列出 books 或 games 文件夹中的所有文件**
+
 `````示例代码
 ```dataview
 TABLE
@@ -45,6 +49,7 @@ FROM "10 Example Data/books" OR "10 Example Data/games"
 `````
 
 **用表格列出 games 文件夹中具有 #genre/action 标签的所有文件**
+
 `````示例代码
 ```dataview
 TABLE

@@ -7,7 +7,7 @@ author: Windysoul,Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231204161054
+modified: 20231209174945
 ---
 
 # Obsidian 插件：Dataview
@@ -131,3 +131,4 @@ Dataview 插件的用途主要有三个方面。
 - [[Dataview实战-如何查询结果的数目]]
 - [[每日字数的热力图|Dataview实战-每日字数的热力图]]
 - [[Obsidian样式-可滚动的Dataview表格视图|Dataview实战-给 Dataview 加个滚动条]]
+- [[Dataview实战-进度条]]
