@@ -94,8 +94,9 @@ modified: 20231203000849
 
 ## 与笔记软件的联合使用
 
-- [[Quicker动作之自定义Zotero标注到Obsidian]]：熊猫别熬夜；
-- [[Quicker动作之BookxNote和Obsidian联动]]：熊猫别熬夜。
+- [[./Quicker动作之以PotPlayer为基础的视频时间戳]]：ImmortalSty；
+- [[./Quicker动作之自定义Zotero标注到Obsidian]]：熊猫别熬夜；
+- [[./Quicker动作之BookxNote和Obsidian联动]]：熊猫别熬夜。
 
 ## 动作作者推荐
 
