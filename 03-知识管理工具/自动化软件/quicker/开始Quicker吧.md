@@ -86,27 +86,24 @@ modified: 20231203000849
 
 只有你想不到，没有它做不到。
 
-## 简单动作实例
+## 用于学习的简单动作实例
 
 说完了功能，有兴趣的不妨自己试一试，跟着下例的步聚，一步步走，实现几个比较简单但很实用的操作。
 
 - [[./Quicker 简单实例/截图贴图|动作实例 1：截图贴图]]。
 
-## 动作与作者推荐
+## 与笔记软件的联合使用
 
-- 作者：
-  - [李考凡](https://getquicker.net/User/Actions/478204-%E6%9D%8E%E8%80%83%E5%87%A1)：为 Obsidian 写了许多好用的动作；
-  - [CL](https://getquicker.net/User/Actions/3-CL)：Quicker 官方作者；
-  - [Cea](https://getquicker.net/User/Actions/113342-Cea)：Quicker 知名大佬；
-  - [darcyc](https://getquicker.net/User/Actions/95689-darcyc)：又称“地球”，写了许多示例动作，供大家学习，Mac 版 Quicker 的作者；
-  - [ImmortalSty](https://getquicker.net/User/Actions/514368-ImmortalSty)：我就臭不要脸的把自己放进来啦；
-- 动作：
-  - [Obsidian 库](https://getquicker.net/Sharedaction?code=8d0550f1-c378-4cce-190d-08daa2ecb1a4)：顺便推一下我自己的动作啦；
-  - [Obsidian Callout](https://getquicker.net/Sharedaction?code=6dfeaea6-57ae-4872-26fe-08da8fa4a9b2)：这个也是我的动作；
-  - [Dataview](https://getquicker.net/Sharedaction?code=1a6018d7-f49b-4e29-061c-08dac1ea0184)：李考凡的大作，减少了 Dataview 插件的使用难度；
-  - [Editor](https://getquicker.net/Sharedaction?code=19e2675d-b691-49bf-17ad-08db13055cfd)：同样是李考凡的动作，不爱 Markdown 的富文本爱好者可以试试；
-  - [剪贴板](https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb)：记录了你的剪切与复制历史，好用程度甚至超过某些同功能软件；
-  - [截图OCR](https://getquicker.net/Sharedaction?code=ba82e11a-f845-4ca3-44ee-08d690b5076c)：最好用的 OCR 动作，同时也是最受欢迎的动作；
-  - [Translator](https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed)：最新的翻译动作，后来居上者，比 pot 也只差一点，综合入 Quicker 还可以更强。
+- 待完成。
+
+## 动作作者推荐
+
+以下是我随手写的，主要好作者太多了，写太多不方便，我懒。
+
+- [CL](https://getquicker.net/User/Actions/3-CL)：Quicker 官方作者；
+- [darcyc](https://getquicker.net/User/Actions/95689-darcyc)：又称“地球”，写了许多示例动作，供大家学习，Mac 版 Quicker 的作者；
+- [Cea](https://getquicker.net/User/Actions/113342-Cea)：Quicker 知名大佬；
+- [李考凡](https://getquicker.net/User/Actions/478204-%E6%9D%8E%E8%80%83%E5%87%A1)：为 Obsidian 写了许多好用的动作；
+- [ImmortalSty](https://getquicker.net/User/Actions/514368-ImmortalSty)：我就臭不要脸的把自己放进来啦；
 
 [^1]: OCR 就是从图片中提取文本
