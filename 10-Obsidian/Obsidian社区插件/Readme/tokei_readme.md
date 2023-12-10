@@ -1,5 +1,5 @@
 ---
-uid: 2023102611084391
+uid: 2023120719452031
 title: Obsidian 插件：【Readme】Tokei
 tags: ['obsidian插件', 'readme']
 description: 一个简单的时间和日期显示。
@@ -43,7 +43,7 @@ Tokei 是一个适用于 [Obsidian](https://obsidian.md) 的时钟插件。
 
 - 作为代码片段，包含了一种替代样式。您可以使用提供的 CSS 类来尝试自己的代码片段，适用于所有可见项目。
 
-![样式](./images/styling.jpg)
+![样式](https://cdn.pkmer.cn/covers/tokei_2_0.jpeg!pkmer)
 
 # 手动安装
 

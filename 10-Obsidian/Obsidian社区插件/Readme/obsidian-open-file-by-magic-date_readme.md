@@ -1,6 +1,6 @@
 ---
-uid: 2023080322240496
-title: Obsidian 插件：Open File by Magic Date
+uid: 2023120719394072
+title: Obsidian 插件：【Readme】Open File by Magic Date
 tags: ['obsidian插件', 'readme']
 description: 为你最重要的文件（例如：每日/每周/每月笔记）定义一个热键和Moment.js模式。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Open File by Magic Date
+# Obsidian 插件：【Readme】Open File by Magic Date
 
 > [!Note] 插件名片
 > - 插件名称：Open File by Magic Date
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 我使用它来打开日期为“最近的星期一”的笔记，但您也可以用它来打开任何带有日期标记的文件。
 
-![屏幕截图](./magic-date-screenshot.png)
+![屏幕截图](https://cdn.pkmer.cn/covers/obsidian-open-file-by-magic-date_2_0.png!pkmer)
 
 ## 使用案例
 

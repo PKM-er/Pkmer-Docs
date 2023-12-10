@@ -1,5 +1,5 @@
 ---
-uid: 2023102611084545
+uid: 2023120719454830
 title: Obsidian 插件：【Readme】Typing Assistant
 tags: ['obsidian插件', 'readme']
 description: 支持多个快捷菜单以提高输入效率。
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 ## 演示
 
-![Typing Assistant 演示](/src/assets/demo.gif)
+![Typing Assistant 演示](https://cdn.pkmer.cn/covers/typing-assistant_2_0.gif!pkmer)
 
 ## 使用方法
 

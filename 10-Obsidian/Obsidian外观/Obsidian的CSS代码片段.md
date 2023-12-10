@@ -3,12 +3,11 @@ uid: 20230329145845
 title: Obsidian 的 CSS 代码片段
 tags: [Obsidian, CSS, snippets, 外观, 主题]
 description: Obsidian 的 CSS 代码片段
-author: OS
+author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231121204717
-aliases: [Obsidian css代码片段]
+modified: 20231206000816
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -47,11 +46,11 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ### 编辑器
 
+- [[Obsidian样式-标题-列表-图片美化]]
 - [[Obsidian样式-minimal主题Cards卡片布局]]
 - [[Obsidian样式-编辑模式下当前行高亮]]
 - [[Obsidian样式-加粗粗体样式优化]]
 - [[Obsidian样式-美化代码域对编程语言的样式展示]]
-- [[Obsidian样式-Callout样式]]
 - [[Obsidian样式-自定义选中文本部分高亮颜色]]
 - [[Obsidian样式-使用CSS-HTML实现分栏]]
 - [[Obsidian样式-笔记页内标题居中]]
@@ -61,7 +60,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-段落首行增加缩进]]
 - [[Obsidian样式-美化高亮样式]]
 - [[Obsidian样式-美化行内代码样式]]
-- [[Obsidian样式-引用框样式]]
 - [[Obsidian样式-编辑模式代码块显示行号]]
 - [[Obsidian样式-修复1.3.7版本标题语法高度问题]]
 - [[Obsidian安卓上利用css修改界面字体]]
@@ -70,11 +68,17 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-实现TiddlyWiki故事河]]
 - [[Obsidian样式-完成任务时如何取消任务文本的删除线]]
 - [[Obsidian样式-借助CSS打造独立的大屏表格页面]]
-- [[Obsidian样式-使用CSS为白板增加可选的“标记”功能]]
+- [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
 
 ### 图片
 
 - [[Obsidian样式-图片点击长按放大]]
+- [[Obsidian样式-调整图片不同布局样式]]
+
+### callout
+
+- [[Obsidian样式-Callout样式]]
+- [[Obsidian样式-如何实现Blue-topaz自带类表格时间线样式]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
@@ -93,6 +97,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian网址前自动加图标]]
 - [[Obsidian样式-修改内链的链接颜色]]
+- [[Obsidian样式-自定义链接前缀图标]]
 
 ### 文件管理器
 
@@ -117,10 +122,12 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 引用
 
 - [[Obsidian样式-隐藏块引用ID]]
+- [[Obsidian样式-引用框样式]]
 
 ### 嵌入样式
 
 - [[Obsidian样式-简约的嵌入样式(Embed CSS)]]
+- [[Obsidian样式-修改悬浮预览框的大小]]
 
 ### 表格样式
 
@@ -142,12 +149,17 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-canvas白板卡片中文字居中]]
 - [[Obsidian样式-Canvas样式的修改及增强卡片的显示效果]]
+- [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
 
 ### 移动端
 
 - [[通过css在移动端右下角添加源码和阅读转换按钮]]
 - [[Obsidian样式-通过css修改安卓上的搜索框宽度]]
 - [[obsidian安卓上利用css修改界面字体]]
+
+### 语法拓展
+
+- [[Obsidian样式-调整HTML的detail样式为简单评论区]]
 
 ### 插件样式
 
@@ -157,11 +169,13 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+- [[Obsidian样式-可滚动的Dataview表格视图]]
 
 #### Thino
 
 - [[Obsidian样式-给Thino加个滚动条]]
 - [[Obsidian样式-给Thino搭配10种热力图颜色]]
+- [[Obsidian样式-Thino单文件时间轴样式]]
 
 ## 自定义 CSS 简单上手指南
 

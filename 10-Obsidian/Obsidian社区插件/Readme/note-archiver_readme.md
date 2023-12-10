@@ -1,6 +1,6 @@
 ---
-uid: 2023080322225845
-title: Obsidian 插件：Note archiver
+uid: 2023120719371595
+title: Obsidian 插件：【Readme】Note archiver
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记存档到另一个文件夹的工具
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Note archiver
+# Obsidian 插件：【Readme】Note archiver
 
 > [!Note] 插件名片
 > - 插件名称：Note archiver
@@ -45,15 +45,15 @@ modified: 20230101000000
 - 编辑器菜单中的存档按钮
 - 文件菜单中的存档按钮
 
-![命令和菜单项](./docs/img/commands_and_menu_items.png)
+![命令和菜单项](https://cdn.pkmer.cn/covers/note-archiver_2_0.png!pkmer)
 
 只需将您的文件移动到一个文件夹中即可：
 
-![未分组归档的演示](./docs/img/demo_ungrouped.gif)
+![未分组归档的演示](https://cdn.pkmer.cn/covers/note-archiver_2_1.gif!pkmer)
 
 可以根据文件归档的年份和月份对归档文件进行分组：
 
-![分组归档演示](./docs/img/demo_grouped.gif)
+![分组归档演示](https://cdn.pkmer.cn/covers/note-archiver_2_2.gif!pkmer)
 
 ## 待建立
 

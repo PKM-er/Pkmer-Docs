@@ -38,7 +38,7 @@ Smart Random Note 是一个 ob 官方自带 [[漫游笔记]] 的增强插件，�
 
 ### 漫游搜索笔记
 
-可以通过官方自带的搜索语法,[[无需安装插件，Obsidian 自带的超强搜索功能]] 通过限制路径，标签，查询到结果后，点击侧边栏按钮或者运行命令 `open random note from search` 即可随机漫游搜索结果中的笔记。
+可以通过官方自带的搜索语法,[[无需安装插件-Obsidian 自带的超强搜索功能]] 通过限制路径，标签，查询到结果后，点击侧边栏按钮或者运行命令 `open random note from search` 即可随机漫游搜索结果中的笔记。
 
 ![image.png](https://cdn.pkmer.cn/images/202307150903924.png!pkmer)
 

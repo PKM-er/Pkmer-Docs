@@ -1,6 +1,6 @@
 ---
-uid: 2023080322211642
-title: Obsidian 插件：Latex Environments
+uid: 2023120719321205
+title: Obsidian 插件：【Readme】Latex Environments
 tags: ['数学', 'obsidian插件', 'readme']
 description: 允许快速插入和更改数学环境中的Latex环境。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Latex Environments
+# Obsidian 插件：【Readme】Latex Environments
 
 > [!Note] 插件名片
 > - 插件名称：Latex Environments
@@ -80,7 +80,7 @@ modified: 20230101000000
 
 使用方法
 
-![](latexenv.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-latex-environments_2_0.gif!pkmer)
 
 ### 命令
 

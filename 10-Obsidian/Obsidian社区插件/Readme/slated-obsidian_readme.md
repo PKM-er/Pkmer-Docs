@@ -1,6 +1,6 @@
 ---
-uid: 2023080322270173
-title: Obsidian 插件：Slated
+uid: 2023120719431389
+title: Obsidian 插件：【Readme】Slated
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 为 Obsidian 提供高级任务管理能力。此插件已经不再维护。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Slated
+# Obsidian 插件：【Readme】Slated
 
 > [!Note] 插件名片
 > - 插件名称：Slated
@@ -59,23 +59,23 @@ modified: 20230101000000
 
 ## 截图
 
-![move-incomplete-tasks](https://raw.githubusercontent.com/tgrosinger/slated-obsidian/main/resources/screenshots/move-incomplete-tasks.gif)
+![move-incomplete-tasks](https://cdn.pkmer.cn/covers/slated-obsidian_1_0.gif!pkmer)
 
-![task-repeat-config-1](https://raw.githubusercontent.com/tgrosinger/slated-obsidian/main/resources/screenshots/task-repeat-config-1.png)
+![task-repeat-config-1](https://cdn.pkmer.cn/covers/slated-obsidian_1_1.png!pkmer)
 
-![configure-repetition](https://raw.githubusercontent.com/tgrosinger/slated-obsidian/main/resources/screenshots/configure-repetition.gif)
+![configure-repetition](https://cdn.pkmer.cn/covers/slated-obsidian_1_2.gif!pkmer)
 
 ## 如何使用
 
 任务使用普通的 Markdown 语法创建，例如 `- [ ] 浇花`。一旦创建了任务，可以使用此插件添加的命令来配置重复或移动任务。最简单的方法是将它们绑定到热键上，或者使用命令面板。
 
-![slated-command-palette](https://raw.githubusercontent.com/tgrosinger/slated-obsidian/main/resources/screenshots/slated-command-palette.png)
+![slated-command-palette](https://cdn.pkmer.cn/covers/slated-obsidian_1_3.png!pkmer)
 
 重复配置也可以手动编辑，但使用界面可以确保创建了有效的重复配置。
 
 任务还可以移动到另一天。
 
-![task-move](https://raw.githubusercontent.com/tgrosinger/slated-obsidian/main/resources/screenshots/task-move.png)
+![task-move](https://cdn.pkmer.cn/covers/slated-obsidian_1_4.png!pkmer)
 
 - [ ] 这个任务尚未完成且重复；每个星期一和星期二
 - [-] 这个重复任务的发生被跳过了；每个星期日
@@ -109,4 +109,4 @@ modified: 20230101000000
 
 非常感谢 [Liam Cain](https://github.com/liamcain) 对 [Obsidian Calendar
 
-Plugin](<https://github.com/liamcain/obsidian-calendar-plugin>) 的改进，使其能够被其他插件广泛使用！
+Plugin](https://github.com/liamcain/obsidian-calendar-plugin) 的改进，使其能够被其他插件广泛使用！

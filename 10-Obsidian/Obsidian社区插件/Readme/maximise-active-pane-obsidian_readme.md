@@ -1,6 +1,6 @@
 ---
-uid: 2023080322221514
-title: Obsidian 插件：Maximise Active Pane
+uid: 2023120719362103
+title: Obsidian 插件：【Readme】Maximise Active Pane
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 简单地用活动窗格填充工作区。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Maximise Active Pane
+# Obsidian 插件：【Readme】Maximise Active Pane
 
 > [!Note] 插件名片
 > - 插件名称：Maximise Active Pane
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，它可以将工作区填满活动窗格。按下 `ctrl`+`shift`+`x`（默认）来最大化或取消最大化当前活动窗格。
 
-![截图](https://github.com/deathau/maximise-active-pane-obsidian/raw/main/screenshot.gif)
+![截图](https://cdn.pkmer.cn/covers/maximise-active-pane-obsidian_1_2.gif!pkmer)
 
 ### 兼容性
 
@@ -90,7 +90,6 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
-
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api)，以 Typescript 定义格式提供，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -104,7 +103,6 @@ modified: 20230101000000
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将仓库克隆到插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
-
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 定价

@@ -1,13 +1,16 @@
 ---
 uid: 20231008182049
 title: Obsidian 样式：可滚动的 Dataview 查询结果
-tags: [Obsidian, dataview]
+tags:
+  - Obsidian
+  - dataview
+  - css
 description: 除了 limit，你还可以这样限制 dataview 的输出结果
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231010212421
+modified: 20231204162044
 ---
 
 # Obsidian 样式：可滚动的 Dataview 查询结果
@@ -19,15 +22,9 @@ modified: 20231010212421
 ![Pasted image 20231008183416.png](https://cdn.pkmer.cn/images/Pasted%20image%2020231008183416.png!pkmer)
 
 ```css
+.block-language-dataviewjs,
 .block-language-dataview {
-  display: block;
-  height: 400px;
-  overflow: auto;
-}
-
-.block-language-dataviewjs {
-  display: block;
-  height: 400px;
+  max-height: 500px;
   overflow: auto;
 }
 ```

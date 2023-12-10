@@ -1,5 +1,5 @@
 ---
-uid: 2023082011354374
+uid: 2023120719253733
 title: Obsidian 插件：【Readme】Copy Inline Code
 tags: ['obsidian插件', 'readme']
 description: 只需单击一次即可轻松复制内联代码元素的内容。
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个插件为 [Obsidian](https://obsidian.md) 添加了一个图标，放置在每个内联代码中。当点击该图标时，会将代码的内容复制到剪贴板中。请参见下面的功能截图。
 
-![复制内联代码插件的截图](plugin-screenshot.png)
+![复制内联代码插件的截图](https://cdn.pkmer.cn/covers/copy-inline-code_2_0.png!pkmer)
 
 ## 安装
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322204183
-title: Obsidian 插件：Itinerary
+uid: 2023120719312675
+title: Obsidian 插件：【Readme】Itinerary
 tags: ['obsidian插件', 'readme']
 description: 通过从您的笔记中渲染日历，可以更轻松地规划您的旅行或活动。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Itinerary
+# Obsidian 插件：【Readme】Itinerary
 
 > [!Note] 插件名片
 > - 插件名称：Itinerary
@@ -211,7 +211,7 @@ initialView: listDay
 ```
 ~~~
 
-![](http://coddingtonbear-public.s3.amazonaws.com/github/obsidian-itinerary/listDay.png)
+![](https://cdn.pkmer.cn/covers/obsidian-itinerary_1_0.png!pkmer)
 
 也可以尝试使用 `timeGridDay`！
 
@@ -323,11 +323,11 @@ headerToolbar:
 
 也许您正在将某些类型的事件打印在月度日历上：
 
-![](http://coddingtonbear-public.s3.amazonaws.com/github/obsidian-itinerary/eventOrderBad.png)
+![](https://cdn.pkmer.cn/covers/obsidian-itinerary_1_1.png!pkmer)
 
 而您可能希望根据您为它们设置的颜色以一致的顺序显示这些事件：
 
-![](http://coddingtonbear-public.s3.amazonaws.com/github/obsidian-itinerary/eventOrderGood.png)
+![](https://cdn.pkmer.cn/covers/obsidian-itinerary_1_2.png!pkmer)
 
 您可以使用 `eventOrder` 选项为您的日历设置排序顺序：
 

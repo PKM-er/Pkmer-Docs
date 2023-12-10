@@ -1,8 +1,8 @@
 ---
 uid: 20230822233937
-title: Obsidian 插件：3D Graph 一个把管系统图谱 3D 化的绚烂插件
+title: Obsidian 插件：3D Graph 一个可以把关系图谱 3D 化的绚烂插件
 tags: [关系图谱, 美化, obsidian插件]
-description: 把 关系图谱 3D化，效果很绚丽
+description: Obsidian 插件：3D Graph 一个可以把关系图谱 3D 化的绚烂插件
 author: OS
 type: basic
 draft: false
@@ -10,7 +10,7 @@ editable: false
 modified: 20231011110739
 ---
 
-# Obsidian 插件：3D Graph 一个把管系统图谱 3D 化的绚烂插件
+# Obsidian 插件：3D Graph 一个可以把关系图谱 3D 化的绚烂插件
 
 ## 概述
 

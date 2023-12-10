@@ -1,6 +1,6 @@
 ---
-uid: 2023080322163231
-title: Obsidian 插件：CookLang Editor
+uid: 2023120719252681
+title: Obsidian 插件：【Readme】CookLang Editor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中编辑和显示CookLang食谱
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：CookLang Editor
+# Obsidian 插件：【Readme】CookLang Editor
 
 > [!Note] 插件名片
 > - 插件名称：CookLang Editor
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 添加对 [CookLang](https://cooklang.org) 的支持的插件。
 
-![截图](https://github.com/deathau/cooklang-obsidian/raw/main/screenshot.png)
+![截图](https://cdn.pkmer.cn/covers/cooklang-obsidian_1_2.png!pkmer)
 
 ## 安装
 

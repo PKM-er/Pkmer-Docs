@@ -1,6 +1,6 @@
 ---
-uid: 2023080322151644
-title: Obsidian 插件：Booksidian
+uid: 2023120719235694
+title: Obsidian 插件：【Readme】Booksidian
 tags: ['界面相关', '搜索/排序', '第三方工具集成', 'PDF', '效率', '美化', '学习', '信息收集', 'obsidian插件', 'readme']
 description: Booksidian 将您的 Goodreads 数据 放到 Obsidian 仓库中。可以从Goodreads RSS提要上可用的参数列表中选择（+一些可以从中推断出的额外内容，如副标题或系列），从而设置书注释的正文和标题。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Booksidian
+# Obsidian 插件：【Readme】Booksidian
 
 > [!Note] 插件名片
 > - 插件名称：Booksidian
@@ -43,7 +43,7 @@ Booksidian 将您的 Goodreads 数据带到 Obsidian。
 
 您可以通过从 Goodreads RSS 订阅的参数列表中选择（加上一些额外的参数，例如副标题或系列），为您的书籍笔记设置正文和前置元数据。
 
-![image](https://user-images.githubusercontent.com/46029522/152006018-bfab5d8a-e829-4dbd-b19e-84a9af19e258.png)
+![image](https://cdn.pkmer.cn/covers/booksidian-plugin_1_0.png!pkmer)
 
 设置说明
 
@@ -51,17 +51,17 @@ Booksidian 将您的 Goodreads 数据带到 Obsidian。
 
 创建书架
 
-您可以在 Goodreads 的“我的书籍”中创建这些书架，然后在左侧菜单中选择“添加书架”：![image](https://user-images.githubusercontent.com/46029522/152001408-87c88a68-b161-4dfd-9845-d6036a05992b.png)
+您可以在 Goodreads 的“我的书籍”中创建这些书架，然后在左侧菜单中选择“添加书架”：![image](https://cdn.pkmer.cn/covers/booksidian-plugin_1_1.png!pkmer)
 
 #### 获取 Feed 的基本 URL
 
 您可以通过将每页加载的项目设置为“无限滚动”，然后单击右下角的橙色“RSS”按钮来获取 RSS 的基本 URL。
 
-![image](https://user-images.githubusercontent.com/46029522/152004240-2580c551-d603-4119-9dd5-95a3bf68b764.png)
+![image](https://cdn.pkmer.cn/covers/booksidian-plugin_1_2.png!pkmer)
 
 这将打开一个新页面。您现在可以复制该 URL 并删除最后一个“=”之后的所有内容。这就是您的 RSS 的基本 URL。设置完毕后，您可以通过在设置中添加它们的名称（用逗号分隔）来添加您想要下载的所有书架。
 
-![image](https://user-images.githubusercontent.com/46029522/152002763-444c05e1-3a5f-426b-9493-beb99deb9aa3.png)
+![image](https://cdn.pkmer.cn/covers/booksidian-plugin_1_3.png!pkmer)
 
 ### 运行 Booksidian
 
@@ -77,7 +77,7 @@ Booksidian 将您的 Goodreads 数据带到 Obsidian。
 
 最后，如何设计你的书籍笔记完全取决于你。我个人喜欢将其与 `dataview插件` 和 `minimal主题` 中的新卡片系统相结合，这样可以创建出像这样的漂亮小图书馆：
 
-![image](https://user-images.githubusercontent.com/46029522/151970426-377a5997-7c15-4670-b423-17bb04b3720a.png)
+![image](https://cdn.pkmer.cn/covers/booksidian-plugin_1_4.png!pkmer)
 
 你可以通过在你想要创建图书馆的文件的 frontmatter 中添加 `cssClasses: cards`，然后将以下代码粘贴到这里来实现这个效果：
 

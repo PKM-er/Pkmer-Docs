@@ -1,6 +1,6 @@
 ---
-uid: 2023080322211810
-title: Obsidian 插件：Latex Suite
+uid: 2023120719321523
+title: Obsidian 插件：【Readme】Latex Suite
 tags: ['obsidian插件', 'readme']
 description: 通过片段、文本扩展和编辑增强功能，使LaTeX数学排版速度接近手写速度。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Latex Suite
+# Obsidian 插件：【Readme】Latex Suite
 
 > [!Note] 插件名片
 > - 插件名称：Latex Suite
@@ -43,7 +43,7 @@ Obsidian 的一个插件，旨在使排版 LaTeX 数学公式的速度与手写�
 
 灵感来自 [Gilles Castel使用UltiSnips的设置](https://castel.dev/post/lecture-notes-1/)。
 
-![演示](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/demo.gif)
+![演示](https://cdn.pkmer.cn/covers/obsidian-latex-suite_1_0.gif!pkmer)
 
 该插件的主要功能是**片段**，通过快捷方式和文本扩展帮助您更快地编写 LaTeX！例如，输入
 
@@ -87,7 +87,7 @@ Obsidian 的一个插件，旨在使排版 LaTeX 数学公式的速度与手写�
 
 完成输入分母后，按下<kbd>Tab</kbd>键退出分数。
 
-![auto-fraction](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/auto-fraction.gif)
+![auto-fraction](https://cdn.pkmer.cn/covers/obsidian-latex-suite_1_1.gif!pkmer)
 
 ### 矩阵快捷键
 
@@ -97,7 +97,7 @@ Obsidian 的一个插件，旨在使排版 LaTeX 数学公式的速度与手写�
 - 按下<kbd>Enter</kbd>键将插入 "\\\\" 并移动到新的一行
 - 按下<kbd>Shift + Enter</kbd>键将移动到下一行的末尾（可用于退出矩阵）
 
-![矩阵快捷键](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/matrix_shortcuts.gif)
+![矩阵快捷键](https://cdn.pkmer.cn/covers/obsidian-latex-suite_1_2.gif!pkmer)
 
 ### Conceal
 
@@ -109,9 +109,9 @@ Obsidian 的一个插件，旨在使排版 LaTeX 数学公式的速度与手写�
 
 要显示 LaTeX 代码，请将光标移到其上。
 
-![conceal demo](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/conceal.png)
+![conceal demo](https://cdn.pkmer.cn/covers/obsidian-latex-suite_1_3.png!pkmer)
 
-![conceal demo 2](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/conceal.gif)
+![conceal demo 2](https://cdn.pkmer.cn/covers/obsidian-latex-suite_1_4.gif!pkmer)
 
 ### Tabout
 
@@ -131,7 +131,7 @@ Obsidian 的一个插件，旨在使排版 LaTeX 数学公式的速度与手写�
 - 当光标靠近一个括号时，该括号及其配对括号将被突出显示。
 - 当光标位于括号内部时，将突出显示封闭的括号。
 
-![颜色和突出显示匹配的括号演示](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/color_brackets.gif)
+![颜色和突出显示匹配的括号演示](https://cdn.pkmer.cn/covers/obsidian-latex-suite_1_5.gif!pkmer)
 
 ### 可视化片段
 
@@ -142,13 +142,13 @@ Obsidian 的一个插件，旨在使排版 LaTeX 数学公式的速度与手写�
 - "K" 将用 "\\cancelto" 包围它。
 - "B" 将用 "\\underset" 包围它。
 
-![可视化片段](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/visual_snippets.gif)
+![可视化片段](https://cdn.pkmer.cn/covers/obsidian-latex-suite_1_6.gif!pkmer)
 
 ### 自动扩大括号
 
 当触发包含 "\\sum"、"\\int" 或 "\\frac" 的代码片段时，任何包围的括号都会使用 "\\left" 和 "\\right" 进行扩大。
 
-![自动扩大括号](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/auto-enlarge_brackets.gif)
+![自动扩大括号](https://cdn.pkmer.cn/covers/obsidian-latex-suite_1_7.gif!pkmer)
 
 ### 编辑器命令
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322232389
-title: Obsidian 插件：Obsidian GoLinks
+uid: 2023120719375308
+title: Obsidian 插件：【Readme】Obsidian GoLinks
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的插件，可以将go/链接渲染为可点击的链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian GoLinks
+# Obsidian 插件：【Readme】Obsidian GoLinks
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian GoLinks
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 ## 演示
 
-![](https://cdn.zappy.app/42bbacbd01746e5e4e8f5118e2d85b11.png)
+![](https://cdn.pkmer.cn/covers/obsidian-golinks_1_0.png!pkmer)
 
 ```markdown
 该插件将纯文本的go/链接渲染为可点击的链接！它会忽略在`go/反引号`中的链接和已经被[go/链接化](http://go/链接化)的链接。

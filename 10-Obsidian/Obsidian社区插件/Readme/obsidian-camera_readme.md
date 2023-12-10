@@ -1,6 +1,6 @@
 ---
-uid: 2023080322231592
-title: Obsidian 插件：Obsidian Camera
+uid: 2023120719373991
+title: Obsidian 插件：【Readme】Obsidian Camera
 tags: ['编辑器', '第三方工具集成', '效率', 'obsidian插件', 'readme']
 description: 可以通过你对应设备谁想投，拍摄照片和视频记录，将其保存在仓库中，并创建并粘贴链接到记录。【注意此插件并非适配所有的笔记本和移动端手机】
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Camera
+# Obsidian 插件：【Readme】Obsidian Camera
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Camera
@@ -75,13 +75,13 @@ Obsidian 相机是 Obsidian（<https://obsidian.md）的相机插件。>
 
 ## 演示
 
-<!-- ![demo.gif](https://raw.githubusercontent.com/aldrinjenson/obsidian-camera/master/demo.gif) -->
+<!-- ![https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif!pkmer](https://cdn.pkmer.cn/covers/obsidian-camera_1_0.gif!pkmer) -->
 
-![demo.gif](demo.gif)
+![https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif!pkmer](https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif!pkmer)
 
-<!-- ![modal screenshot](./ss1.png) -->
+<!-- ![modal screenshot](https://cdn.pkmer.cn/covers/obsidian-camera_2_1.png!pkmer) -->
 
-<!-- ![modal screenshot](https://raw.githubusercontent.com/aldrinjenson/obsidian-camera/master/ss2.png) -->
+<!-- ![modal screenshot](https://cdn.pkmer.cn/covers/obsidian-camera_1_1.png!pkmer) -->
 
 
 

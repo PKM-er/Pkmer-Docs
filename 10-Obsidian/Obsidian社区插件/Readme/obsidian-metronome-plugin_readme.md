@@ -1,6 +1,6 @@
 ---
-uid: 2023080322223258
-title: Obsidian 插件：Metronome
+uid: 2023120719363634
+title: Obsidian 插件：【Readme】Metronome
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加互动节拍器。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Metronome
+# Obsidian 插件：【Readme】Metronome
 
 > [!Note] 插件名片
 > - 插件名称：Metronome
@@ -79,7 +79,7 @@ bpm: 120
 
 这将在你的笔记中生成一个可视化的节拍器。默认情况下，它是静音的，但你可以按下取消静音按钮来听到它的点击声（或者更改 `muted` 选项，使其默认点击声&mdash; 有关更多选项，请参见下文）。
 
-![Kiku](images/demo-2.gif)
+![Kiku](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_0.gif!pkmer)
 
 你可以进一步自定义节拍器：
 
@@ -124,7 +124,7 @@ tockNotes: A4
 
 当与[obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs)插件一起使用时，节拍器可以很好地放置在音乐符号旁边。
 
-![](images/demo-5.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_1.gif!pkmer)
 
 ### 同时播放多个音调
 
@@ -223,7 +223,7 @@ style: pulse
 ```
 ````
 
-![](images/demo-6.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_2.gif!pkmer)
 
 ### `pendulum` 样式
 
@@ -237,7 +237,7 @@ style: pendulum
 ```
 ````
 
-![](images/demo-7.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_3.gif!pkmer)
 
 ### `line` 样式
 
@@ -251,7 +251,7 @@ style: line
 ```
 ````
 
-![](images/demo-8.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_4.gif!pkmer)
 
 ### `dots` 样式
 
@@ -264,7 +264,7 @@ style: dots
 ```
 ````
 
-![](images/demo-style-dots.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_5.gif!pkmer)
 
 ### `stopAfter` 和 `countdown`
 
@@ -278,7 +278,7 @@ stopAfter: 12s
 ```
 ````
 
-![](images/demo-stop-after.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_6.gif!pkmer)
 
 默认情况下，倒计时按钮会在 `stopAfter` 持续时间的最后 10 秒出现，但您可以让它显示更长的时间：
 
@@ -308,16 +308,16 @@ countdown: always
 
 #### 主题：黑曜石默认（暗色模式）
 
-![](images/demo-theme-obsidian-dark.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_7.gif!pkmer)
 
 #### 主题：[Minimal](https://github.com/kepano/obsidian-minimal)（浅色模式）
 
-![](images/demo-theme-minimal-light.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_8.gif!pkmer)
 
 #### 主题：[Obsidian Atom](https://github.com/kognise/obsidian-atom)（暗黑模式）
 
-![](images/demo-theme-atom-dark.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_9.gif!pkmer)
 
 #### 主题：[Cecilia May Primary](https://github.com/ceciliamay/obsidianmd-theme-primary)（浅色模式）
 
-![](images/demo-theme-cecilia-may-primary-light.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_10.gif!pkmer)

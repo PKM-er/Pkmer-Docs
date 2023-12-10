@@ -1,5 +1,5 @@
 ---
-uid: 2023082011360928
+uid: 2023120719410322
 title: Obsidian 插件：【Readme】Quick Plugin Switcher
 tags: ['obsidian插件', 'readme']
 description: 添加一个带有过滤器的功能区图标，可以快速切换插件（全部、已启用、已禁用、最常切换的）。
@@ -42,14 +42,14 @@ modified: 20230101000000
 - 快速切换插件（通过功能区图标或命令）
 - 应用筛选器以显示它们
 - 和搜索引擎
-![功能区访问](img/ribbon_access.jpg)
+![功能区访问](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_0.jpeg!pkmer)
 可过滤的项目列表
 
-![filters](img/filters.jpg)
+![filters](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_1.jpeg!pkmer)
 
 最常切换的过滤器对于最常切换的插件非常有用...(您可以重置此选项)
 
-![filters](img/show_by_group.jpg)
+![filters](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_2.jpeg!pkmer)
 
 ## 将组添加到插件
 
@@ -61,35 +61,35 @@ modified: 20230101000000
 
   - 使用快捷键<kbd>1 到 7</kbd>和<kbd>0/del/suppr</kbd>，在每个项目上方
   - 使用上下文菜单
-![groups](img/item_context_menu.jpg)
+![groups](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_3.jpeg!pkmer)
 您可以看到其他可能的操作
 
 - 您可以通过插件项目添加多个组（最多 4 个）
   然后删除它们<kbd>0/del/suppr</kbd>
-![groups](img/several_groups.jpg)
+![groups](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_4.jpeg!pkmer)
 - 您现在可以重命名组
-![groups](img/rename.jpg)
+![groups](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_5.jpeg!pkmer)
 
 2 - 然后，您可以切换插件
 
 - 全部或按组切换
 （如果启用插件，则显示组）
-![toggle](img/toggle-plugins-by-group.jpg)
+![toggle](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_6.jpeg!pkmer)
 
 - 您可以稍后重新启用相同的插件
-![toggle](img/re-enable.jpg)
+![toggle](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_7.jpeg!pkmer)
 您可以跳过重新启用并重置切换，而无需重新启用插件
 
 ## 搜索工具
 
-![搜索](img/search.jpg)
+![搜索](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_8.jpeg!pkmer)
 
 如果在搜索末尾添加一个空格，它将修改搜索为“以...开头”（而不是“包含”）
 
-![搜索空格](img/search_space.jpg)
+![搜索空格](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_9.jpeg!pkmer)
 
 ## 视频
 
-![Newvid](gif/multi-group-rename.gif)
+![Newvid](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_10.gif!pkmer)
 
-![vid](gif/demo.gif)
+![vid](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_11.gif!pkmer)

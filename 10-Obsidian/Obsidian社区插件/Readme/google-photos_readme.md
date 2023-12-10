@@ -1,6 +1,6 @@
 ---
-uid: 2023080322192124
-title: Obsidian 插件：Google Photos
+uid: 2023120719295730
+title: Obsidian 插件：【Readme】Google Photos
 tags: ['obsidian插件', 'readme']
 description: Obsidian与Google照片的集成
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Google Photos
+# Obsidian 插件：【Readme】Google Photos
 
 > [!Note] 插件名片
 > - 插件名称：Google Photos
@@ -43,7 +43,7 @@ Obsidian 与 Google 照片的集成
 
 这个插件允许你直接在 Obsidian 中嵌入 Google 相册的图片。当你选择一张图片时，它会保存并嵌入一张低分辨率的缩略图，并附带一个指向 Google 相册中高分辨率图片的链接。
 
-![](img/demo.gif)
+![](https://cdn.pkmer.cn/covers/google-photos_2_0.gif!pkmer)
 
 如果你的笔记标题包含可检测的日期，插件会默认只显示该日期的照片。顶部有一个切换按钮，可以显示所有照片。
 
@@ -64,23 +64,23 @@ Obsidian 与 Google 照片的集成
 1. 访问 [https://developers.google.com/photos/library/guides/get-started](https://developers.google.com/photos/library/guides/get-started)
 2. 点击如下图所示的按钮：
 
-![](img/setup-enable.png)
+![](https://cdn.pkmer.cn/covers/google-photos_2_1.png!pkmer)
 
 1. 创建一个新项目，并给它任何您喜欢的名称。
 在下一个屏幕上使用相同的名称，该屏幕要求输入“产品名称”：
 
-![](img/setup-create-project.png)
+![](https://cdn.pkmer.cn/covers/google-photos_2_2.png!pkmer)
 
 1. 在 OAuth 配置屏幕中填写以下设置：
 
 重定向 URI：`https://localhost/google-photos`
 
-![x200](img/setup-oauth.png)
+![x200](https://cdn.pkmer.cn/covers/google-photos_2_3.png!pkmer)
 
 1. 点击**创建**。
 2. 复制 `客户端ID` 和 `客户端密钥`。您需要将这些值添加到 Obsidian 插件设置中：
 
-![](img/setup-client-conf.png)
+![](https://cdn.pkmer.cn/covers/google-photos_2_4.png!pkmer)
 
 高级功能
 

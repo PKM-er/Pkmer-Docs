@@ -1,6 +1,6 @@
 ---
-uid: 2023080322145144
-title: Obsidian 插件：Babashka
+uid: 2023120719231970
+title: Obsidian 插件：【Readme】Babashka
 tags: ['obsidian插件', 'readme']
 description: 在Babashka中评估Clojure(Script)代码块。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Babashka
+# Obsidian 插件：【Readme】Babashka
 
 > [!Note] 插件名片
 > - 插件名称：Babashka
@@ -57,19 +57,19 @@ Obsidian Babashka 是 Obsidian 的插件，通过 Babashka 和 Node Babashka 分
 
 ### 评估 Clojure 和 ClojureScript 代码块
 
-![eval-codeblock](./docs/eval-codeblock.gif)
+![eval-codeblock](https://cdn.pkmer.cn/covers/babashka_2_0.gif!pkmer)
 
 ### 在外部评估代码块并打印值
 
-![eval-codeblock-and-print-outside](./docs/eval-codeblock-and-print-outside.gif)
+![eval-codeblock-and-print-outside](https://cdn.pkmer.cn/covers/babashka_2_1.gif!pkmer)
 
 ### 启动并连接到 Babashka nREPL 服务器
 
-![async](./docs/nrepl.gif)
+![async](https://cdn.pkmer.cn/covers/babashka_2_2.gif!pkmer)
 
 ### 当前文件的 Vault 绑定
 
-![vault-bindings](./docs/vault-bindings.jpg)
+![vault-bindings](https://cdn.pkmer.cn/covers/babashka_2_3.jpeg!pkmer)
 
 如果你想要复制粘贴代码，这里是代码：
 

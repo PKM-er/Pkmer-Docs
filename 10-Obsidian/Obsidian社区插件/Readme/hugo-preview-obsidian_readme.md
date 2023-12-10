@@ -1,6 +1,6 @@
 ---
-uid: 2023080322200022
-title: Obsidian 插件：Hugo preview Obsidian
+uid: 2023120719304603
+title: Obsidian 插件：【Readme】Hugo preview Obsidian
 tags: ['obsidian插件', 'readme']
 description: Hugo预览插件（Obsidian）
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Hugo preview Obsidian
+# Obsidian 插件：【Readme】Hugo preview Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：Hugo preview Obsidian
@@ -50,11 +50,11 @@ Hugo 预览插件（Obsidian）
 
 点击状态栏上的地鼠图标
 
-![image](https://user-images.githubusercontent.com/65269574/211792531-e10b9d69-f109-4f75-aff6-1a8c132f8b40.png)
+![image](https://cdn.pkmer.cn/covers/hugo-preview-obsidian_1_0.png!pkmer)
 
 ## 截图
 
-![Record_select-area_20230111192058](https://user-images.githubusercontent.com/65269574/211794013-eab76237-433d-4b9f-bc22-0bb0e4c1fe28.gif)
+![Record_select-area_20230111192058](https://cdn.pkmer.cn/covers/hugo-preview-obsidian_1_1.gif!pkmer)
 
 ## 资源
 

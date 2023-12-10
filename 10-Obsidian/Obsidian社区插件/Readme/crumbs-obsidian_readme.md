@@ -1,6 +1,6 @@
 ---
-uid: 2023080322164435
-title: Obsidian 插件：Crumbs
+uid: 2023120719255291
+title: Obsidian 插件：【Readme】Crumbs
 tags: ['obsidian插件', 'readme']
 description: 面包屑导航
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Crumbs
+# Obsidian 插件：【Readme】Crumbs
 
 > [!Note] 插件名片
 > - 插件名称：Crumbs
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 在 Obsidian 中添加面包屑导航。
 
-![screencast](https://raw.githubusercontent.com/tgrosinger/crumbs-obsidian/main/resources/screencast.gif)
+![screencast](https://cdn.pkmer.cn/covers/crumbs-obsidian_1_0.gif!pkmer)
 
 定价
 

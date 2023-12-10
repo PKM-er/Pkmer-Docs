@@ -1,5 +1,5 @@
 ---
-uid: 2023082011360260
+uid: 2023120719372378
 title: Obsidian 插件：【Readme】Notes Sync Share
 tags: ['obsidian插件', 'readme']
 description: 在您自己的私人服务中同步和共享（发布）您的笔记。
@@ -55,15 +55,15 @@ modified: 20230101000000
 
 ### 配置
 
-![配置](screenshots/Configuration.png)
+![配置](https://cdn.pkmer.cn/covers/notes-sync-share_2_0.png!pkmer)
 
 ### 同步和历史记录
 
-![SyncAndHistory](screenshots/SyncAndHistory.gif)
+![SyncAndHistory](https://cdn.pkmer.cn/covers/notes-sync-share_2_1.gif!pkmer)
 
 ### 分享
 
-![分享](screenshots/Share.gif)
+![分享](https://cdn.pkmer.cn/covers/notes-sync-share_2_2.gif!pkmer)
 
 ## 入门指南
 

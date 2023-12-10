@@ -1,5 +1,5 @@
 ---
-uid: 2023082011353122
+uid: 2023120719221662
 title: Obsidian 插件：【Readme】AI Tools
 tags: ['obsidian插件', 'readme']
 description: 将强大的语义搜索、生成式答案和其他人工智能工具添加到Obsidian，使用Supabase + OpenAI。
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 将强大的语义搜索、生成式答案和其他人工智能工具添加到 Obsidian，使用 Supabase + OpenAI。
+
+![AI Tools](https://cdn.pkmer.cn/covers/ai-tools_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -62,7 +64,7 @@ modified: 20230101000000
 
 ## 演示
 
-![AI Tools](https://cdn.pkmer.cn/covers/ai-tools.gif)
+![](https://cdn.pkmer.cn/covers/ai-tools_2_0.gif!pkmer)
 
 ## 安装
 

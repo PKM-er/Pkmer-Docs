@@ -1,6 +1,6 @@
 ---
-uid: 2023080322183217
-title: Obsidian 插件：Floating Search
+uid: 2023120719284172
+title: Obsidian 插件：【Readme】Floating Search
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian默认的搜索视图来搜索文本。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Floating Search
+# Obsidian 插件：【Readme】Floating Search
 
 > [!Note] 插件名片
 > - 插件名称：Floating Search
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 现在您可以在模态窗口中使用搜索视图。
 
-![float-search.png](media/img.png)
+![float-search.png](https://cdn.pkmer.cn/covers/float-search_2_0.png!pkmer)
 
 - 设置快捷键以快速打开浮动搜索。
 

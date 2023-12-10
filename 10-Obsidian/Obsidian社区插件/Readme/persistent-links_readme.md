@@ -1,6 +1,6 @@
 ---
-uid: 2023080322244196
-title: Obsidian 插件：Persistent Links
+uid: 2023120719402303
+title: Obsidian 插件：【Readme】Persistent Links
 tags: ['obsidian插件', 'readme']
 description: 在将块和标题在文件之间移动时，自动修复内部链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Persistent Links
+# Obsidian 插件：【Readme】Persistent Links
 
 > [!Note] 插件名片
 > - 插件名称：Persistent Links
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 如何使用它
 
-启用插件后，当您剪切和粘贴标题和块时，它将自动更新链接。这是一个演示：![](persistent-links-demo.gif)
+启用插件后，当您剪切和粘贴标题和块时，它将自动更新链接。这是一个演示：![](https://cdn.pkmer.cn/covers/persistent-links_2_0.gif!pkmer)
 
 如果文件以其他方式进行了更新，并且您注意到了一些损坏的链接，您可以使用“修复文件中的链接”命令来修复它们。插件将搜索元数据缓存，并尝试找到包含链接中的块或标题的文件。
 

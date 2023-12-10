@@ -1,6 +1,6 @@
 ---
-uid: 2023080322260755
-title: Obsidian 插件：Review
+uid: 2023120719421017
+title: Obsidian 插件：【Readme】Review
 tags: ['链接处理', '日期相关', 'obsidian插件', 'readme']
 description: 允许你将当前的笔记添加到未来的笔记(或者过去的笔记。以确保你在指定的日期，有机会再次能够回顾该笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Review
+# Obsidian 插件：【Readme】Review
 
 > [!Note] 插件名片
 > - 插件名称：Review
@@ -65,7 +65,7 @@ modified: 20230101000000
 
 ### 演示
 
-![一个gif展示了如上所述的插件的使用。](https://i.imgur.com/9AqrSKy.gif)
+![一个gif展示了如上所述的插件的使用。](https://cdn.pkmer.cn/covers/review-obsidian_1_0.gif!pkmer)
 
 ### 手动安装插件
 

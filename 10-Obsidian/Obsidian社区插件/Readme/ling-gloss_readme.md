@@ -1,6 +1,6 @@
 ---
-uid: 2023080322204079
-title: Obsidian 插件：Interlinear Glossing
+uid: 2023120719312503
+title: Obsidian 插件：【Readme】Interlinear Glossing
 tags: ['obsidian插件', 'readme']
 description: 在语言学文本中使用的格式化线性注释。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Interlinear Glossing
+# Obsidian 插件：【Readme】Interlinear Glossing
 
 > [!Note] 插件名片
 > - 插件名称：Interlinear Glossing
@@ -63,7 +63,7 @@ modified: 20230101000000
 \glb Peter-DAT exist INDEF cat-POSS.3SG
 ```
 
-![Example 01a](_examples/example01a.png)
+![Example 01a](https://cdn.pkmer.cn/covers/ling-gloss_2_0.png!pkmer)
 
 此外，如果需要在单个术语元素中使用空格，可以将其包装在方括号 `[like this]` 中。要在术语元素中直接使用方括号，可以通过在前面加上插入符号 `^` 来 " 转义 " 它们，例如 `^[this^]`。可以使用空方括号 `[]` 在术语中写入空元素。
 
@@ -72,7 +72,7 @@ modified: 20230101000000
 \glb John^[TOP^] yesterday^[FOC^] [take-PST away] two book-ACC Peter-DAT
 ```
 
-![Example 01b](_examples/example01b.png)
+![Example 01b](https://cdn.pkmer.cn/covers/ling-gloss_2_1.png!pkmer)
 
 如果需要额外的行，例如用于音译，可以使用 `\glc`（gloss level C）命令，其功能与 `\gla` 和 `\glb` 命令相同。C 级行没有默认样式，就像 B 级一样。
 
@@ -82,7 +82,7 @@ modified: 20230101000000
 \glc Peter-DAT exist INDEF cat-POSS.3SG
 ```
 
-![Example 02](_examples/example02.png)
+![Example 02](https://cdn.pkmer.cn/covers/ling-gloss_2_2.png!pkmer)
 
 ## 自由翻译 (`\ft`)
 
@@ -95,7 +95,7 @@ modified: 20230101000000
 \ft Peter has a cat.
 ```
 
-![Example 03](_examples/example03.png)
+![Example 03](https://cdn.pkmer.cn/covers/ling-gloss_2_3.png!pkmer)
 
 使用 `\ex` 命令可以在译文上方添加原始源文本行，该命令与 `\ft` 命令类似，接受一行文本作为参数。默认情况下，原始文本行会应用粗体样式。
 
@@ -107,7 +107,7 @@ modified: 20230101000000
 \ft Peter has a cat.
 ```
 
-![Example 04](_examples/example04.png)
+![Example 04](https://cdn.pkmer.cn/covers/ling-gloss_2_4.png!pkmer)
 
 ## 换行
 
@@ -134,7 +134,7 @@ modified: 20230101000000
 \ft John took two books to Peter yesterday.
 ```
 
-![Example 05](_examples/example05.png)
+![Example 05](https://cdn.pkmer.cn/covers/ling-gloss_2_5.png!pkmer)
 
 ## 替代语法（`\gl`）
 
@@ -165,7 +165,7 @@ modified: 20230101000000
 	Péter-nek [pe:tɛrnɛk] [Peter-DAT]
 ```
 
-![Example 06a](_examples/example06a.png)
+![Example 06a](https://cdn.pkmer.cn/covers/ling-gloss_2_6.png!pkmer)
 
 ```ngloss
 \set glastyle cjk
@@ -180,7 +180,7 @@ modified: 20230101000000
 \ft 一幅画挂在墙上。
 ```
 
-![Example 06b](_examples/example06b.png)
+![Example 06b](https://cdn.pkmer.cn/covers/ling-gloss_2_7.png!pkmer)
 
 虽然通常将每个元素单独放在一行上更清晰，如上面的示例所示，但这并不是严格必要的，所有标记都可以放在 `\gl` 命令后的同一行上以获得相同的结果。此外，与裸标记之间不同，方括号 `[tokens]` 之间不需要空格。（方括号 `[tokens]` 内的空格与其他语法中的空格的工作方式相同。）
 
@@ -202,7 +202,7 @@ modified: 20230101000000
 .ling-gloss { border: solid 2px red; }
 ```
 
-![Example 07](_examples/example07.png)
+![Example 07](https://cdn.pkmer.cn/covers/ling-gloss_2_8.png!pkmer)
 
 ### `.ling-gloss-elements`
 
@@ -212,7 +212,7 @@ modified: 20230101000000
 .ling-gloss-elements { border: solid 2px red; }
 ```
 
-![Example 08](_examples/example08.png)
+![Example 08](https://cdn.pkmer.cn/covers/ling-gloss_2_9.png!pkmer)
 
 ### `.ling-gloss-preamble`
 
@@ -222,7 +222,7 @@ modified: 20230101000000
 .ling-gloss-preamble { border: solid 2px red; }
 ```
 
-![Example 09](_examples/example09.png)
+![Example 09](https://cdn.pkmer.cn/covers/ling-gloss_2_10.png!pkmer)
 
 ### `.ling-gloss-translation`
 
@@ -232,7 +232,7 @@ modified: 20230101000000
 .ling-gloss-translation { border: solid 2px red; }
 ```
 
-![Example 10](_examples/example10.png)
+![Example 10](https://cdn.pkmer.cn/covers/ling-gloss_2_11.png!pkmer)
 
 ### `.ling-gloss-element`
 
@@ -242,7 +242,7 @@ modified: 20230101000000
 .ling-gloss-element { border: solid 2px red; }
 ```
 
-![Example 11](_examples/example11.png)
+![Example 11](https://cdn.pkmer.cn/covers/ling-gloss_2_12.png!pkmer)
 
 ### `.ling-gloss-level-*`
 
@@ -254,7 +254,7 @@ modified: 20230101000000
 .ling-gloss-level-c { border: solid 2px blueviolet; }
 ```
 
-![Example 12a](_examples/example12a.png)
+![Example 12a](https://cdn.pkmer.cn/covers/ling-gloss_2_13.png!pkmer)
 
 请注意，`level-x` 样式适用于级别 C 行之后的*所有*行，然而，CSS 兄弟选择器 `:nth-child(n)` 可以用来定位特定的行。级别 X 行的 `n` 计数从 4 开始，因为前三行是级别 A、B 和 C。
 
@@ -276,7 +276,7 @@ modified: 20230101000000
 \ft A picture is hanging on the wall.
 ```
 
-![Example 12b](_examples/example12b.png)
+![Example 12b](https://cdn.pkmer.cn/covers/ling-gloss_2_14.png!pkmer)
 
 ## 设置选项（`\set`）
 
@@ -298,7 +298,7 @@ modified: 20230101000000
     shì_jiè [world]
 ```
 
-![Example 13](_examples/example13.png)
+![Example 13](https://cdn.pkmer.cn/covers/ling-gloss_2_15.png!pkmer)
 
 ### `gl*style`，`exstyle`，`ftstyle`
 
@@ -333,7 +333,7 @@ modified: 20230101000000
 \ft John took two books to Peter yesterday.
 ```
 
-![Example 14](_examples/example14.png)
+![Example 14](https://cdn.pkmer.cn/covers/ling-gloss_2_16.png!pkmer)
 
 默认情况下，插件为 `glastyle` 选项定义了一个名为 `cjk` 的样式，该样式删除了默认的斜体样式。这适用于通常不使用斜体的 CJK 字符：
 
@@ -343,11 +343,11 @@ modified: 20230101000000
 	世界 [shìjiè] [world]
 ```
 
-![Example 15a](_examples/example15a.png)
+![Example 15a](https://cdn.pkmer.cn/covers/ling-gloss_2_17.png!pkmer)
 
 删除 `\set` 行的相同词汇表：
 
-![Example 15b](_examples/example15b.png)
+![Example 15b](https://cdn.pkmer.cn/covers/ling-gloss_2_18.png!pkmer)
 
 # 安装
 

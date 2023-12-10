@@ -1,6 +1,6 @@
 ---
-uid: 2023080322255526
-title: Obsidian 插件：Relative Line Numbers
+uid: 2023120719415158
+title: Obsidian 插件：【Readme】Relative Line Numbers
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 在编辑模式中启用相对行号
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Relative Line Numbers
+# Obsidian 插件：【Readme】Relative Line Numbers
 
 > [!Note] 插件名片
 > - 插件名称：Relative Line Numbers
@@ -47,4 +47,4 @@ modified: 20230101000000
 
 注意：在编辑器选项中必须启用“显示行号”设置。
 
-![](demo.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-relative-line-numbers_2_0.gif!pkmer)

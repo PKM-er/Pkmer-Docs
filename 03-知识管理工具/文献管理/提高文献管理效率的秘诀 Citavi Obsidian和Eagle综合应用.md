@@ -1,9 +1,9 @@
 ---
 uid: 20230825094437
 title: 提高文献管理效率的秘诀：Citavi、Obsidian 和 Eagle 综合应用
-tags: []
-description: 
-author: 不是英雄
+tags: [文献]
+description: Citavi、Obsidian 和 Eagle 综合应用
+author: 一刀
 type: practice
 draft: false
 editable: false

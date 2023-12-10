@@ -1,5 +1,5 @@
 ---
-uid: 2023082011354633
+uid: 2023120719264597
 title: Obsidian 插件：【Readme】Dida Todo Sync
 tags: ['obsidian插件', 'readme']
 description: 将滴答清单(ticktick)同步到Obsidian
@@ -64,11 +64,11 @@ dida: true
 
 - dida: 这篇笔记是否开启滴答清单同步
     - projectId: 项目 id, 过滤出指定清单下的内容, projectId 需要到滴答清单 web 版获取
-    ![](./docs/dida.jpg)
+    ![](https://cdn.pkmer.cn/covers/dida-sync_2_0.jpeg!pkmer)
     - tags: 过滤出包含指定标签内容, 数组类型
     - startDate: 同步从哪天开始到现在的内容. 默认是半年前
     - taskId: 任务 id,同步指定任务
-    ![](./docs/task-dida.jpg)
+    ![](https://cdn.pkmer.cn/covers/dida-sync_2_1.jpeg!pkmer)
 
 ## 举例
 

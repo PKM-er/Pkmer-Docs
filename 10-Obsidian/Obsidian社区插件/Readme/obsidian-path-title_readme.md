@@ -1,6 +1,6 @@
 ---
-uid: 2023080322243519
-title: Obsidian 插件：Path Title
+uid: 2023120719400865
+title: Obsidian 插件：【Readme】Path Title
 tags: ['obsidian插件', 'readme']
 description: 将路径（或可选替换）添加到每个窗格的文件名标题
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Path Title
+# Obsidian 插件：【Readme】Path Title
 
 > [!Note] 插件名片
 > - 插件名称：Path Title
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 在文件名旁边显示当前文件的路径。
 
-![](https://cdn.zappy.app/2480008e89fcb8b9ca52eacaf7022f8b.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_0.png!pkmer)
 
 ## 使用方法
 
@@ -57,32 +57,32 @@ modified: 20230101000000
 
 您可以将整个路径的精确匹配替换为另一个路径。例如，这里我们将 "Notes/Ideas" 替换为 "💡"。
 
-![](https://cdn.zappy.app/c7c80545823b131908a173aff455059a.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_1.png!pkmer)
 
-![](https://cdn.zappy.app/b3f04d7599f777aba73faf432df023de.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_2.png!pkmer)
 
 ### 精确文件夹替换
 
 您可以将路径中的一个文件夹的精确匹配替换为另一个文件夹。例如，我们将“Notes”替换为“📝”，将“Ideas”替换为“💡”。
 
-![](https://cdn.zappy.app/44c39537ea4aef649577a854a335f92c.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_3.png!pkmer)
 
-![](https://cdn.zappy.app/2ebeb35ecd46ce5325f071323f9f8e66.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_4.png!pkmer)
 
 ### 文本替换
 
 您可以在路径的任何位置用替代文本替换文本。例如，这里我们将“001.”替换为“1.”。
 
-![](https://cdn.zappy.app/54641a2295ecde28d2b3ab08d43f074e.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_5.png!pkmer)
 
-![](https://cdn.zappy.app/1ce42f3bce22a390ffb31bf218e5a61b.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_6.png!pkmer)
 
 ### 正则表达式替换
 
 您可以使用正则表达式在路径中的任何位置匹配文本，并使用 $1、$2 等来插入正则表达式匹配的组，将其替换为替代文本。这样可以通过单个规则更改多个路径。
 
-![](https://cdn.zappy.app/4a49fc9af3368e517121c63a2c7274ad.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_7.png!pkmer)
 
-![](https://cdn.zappy.app/1ce42f3bce22a390ffb31bf218e5a61b.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_6.png!pkmer)
 
-![](https://cdn.zappy.app/8ca611abe0aefcac318ec13c149a6c11.png)
+![](https://cdn.pkmer.cn/covers/obsidian-path-title_1_9.png!pkmer)

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322182742
-title: Obsidian 插件：Flashcards
+uid: 2023120719283359
+title: Obsidian 插件：【Readme】Flashcards
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: Anki集成。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Flashcards
+# Obsidian 插件：【Readme】Flashcards
 
 > [!Note] 插件名片
 > - 插件名称：Flashcards
@@ -45,38 +45,26 @@ Anki 集成。
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/reuseman/flashcards-obsidian/total?style=for-the-badge)
 
-![logo](logo.png)
+![logo](https://cdn.pkmer.cn/covers/flashcards-obsidian_2_0.png!pkmer)
 
 [Obsidian](https://obsidian.md/) 的 Anki 集成。
 
 ## 特点
 
 🗃️ 简单的卡片使用 **#card**
-
 🎴 反转的卡片使用 **#card-reverse** 或 **#card/reverse**
-
 📅 仅间隔的卡片使用 **#card-spaced** 或 **#card/spaced**
-
 ✍️ 内联样式使用 **Question::Answer**
-
 ✍️ 反转的内联样式使用 **Question:::Answer**
-
 📃 隐藏文本使用 **==Highlight==** 或 **{Curly brackets}** 或 **{2:Cloze}**
-
 🧠 **上下文感知** 模式
-
 🏷️ 全局和本地 **标签**
 
 🔢 支持 **LaTeX**
-
 🖼️ 支持 **图片**
-
 🎤 支持 **音频**
-
 🔗 支持 **Obsidian URI**
-
 ⚓ 支持 **引用笔记**
-
 📟 支持 **代码语法高亮**
 
 其他功能请查看 [wiki](https://github.com/reuseman/flashcards-obsidian/wiki)。
@@ -89,7 +77,7 @@ Anki 集成。
 2. **更新**卡片；
 3. **删除**卡片。
 
-![演示图片](docs/demo.gif)
+![演示图片](https://cdn.pkmer.cn/covers/flashcards-obsidian_2_1.gif!pkmer)
 
 如何使用它？
 

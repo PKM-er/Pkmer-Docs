@@ -1,6 +1,6 @@
 ---
-uid: 2023080322181834
-title: Obsidian 插件：File path to URI
+uid: 2023120719282626
+title: Obsidian 插件：【Readme】File path to URI
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将文件路径转换为uri以便更容易地使用链接到Obsidian之外的本地文件
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：File path to URI
+# Obsidian 插件：【Readme】File path to URI
 
 > [!Note] 插件名片
 > - 插件名称：File path to URI
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 该插件允许您将本地路径转换为文件 URL 链接，以便链接到位于 Obsidian 保险库之外的文件或文件夹。
 
-![演示](https://raw.githubusercontent.com/MichalBures/obsidian-file-path-to-uri/master/demo.gif)
+![演示](https://cdn.pkmer.cn/covers/obsidian-file-path-to-uri_1_2.gif!pkmer)
 
 使用 Obsidian 的原生行为❗
 
@@ -85,7 +85,7 @@ modified: 20230101000000
 
 您可以在 Obsidian 设置中的热键下更改热键组合。查找“文件路径转换为 URI：切换所选文件路径为 URI 和返回”和“文件路径转换为 URI：将文件路径粘贴为文件 URI”。
 
-![hotkeys](https://raw.githubusercontent.com/MichalBures/obsidian-file-path-to-uri/master/hotkeys.png)
+![hotkeys](https://cdn.pkmer.cn/covers/obsidian-file-path-to-uri_1_3.png!pkmer)
 
 ## 转换
 

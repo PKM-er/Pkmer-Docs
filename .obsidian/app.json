@@ -20,5 +20,6 @@
   "focusNewTab": true,
   "showLineNumber": true,
   "propertiesInDocument": "source",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": false
 }

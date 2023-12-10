@@ -1,5 +1,5 @@
 ---
-uid: 2023102611085454
+uid: 2023120719462842
 title: Obsidian 插件：【Readme】Waka time box
 tags: ['obsidian插件', 'readme']
 description: 显示来自WakaTime的每日编码活动。
@@ -37,9 +37,9 @@ modified: 20230101000000
 
 # Obsidian WakaTime Box
 
-![](./docs/screenshot.webp)
+![](https://cdn.pkmer.cn/covers/waka_time_box_2_0.webp!pkmer)
 
-![](./docs/screenshot_2.webp)
+![](https://cdn.pkmer.cn/covers/waka_time_box_2_1.webp!pkmer)
 
 在你的 Obsidian 日记中显示你的 [WakaTime](https://wakatime.com/) 统计数据。
 

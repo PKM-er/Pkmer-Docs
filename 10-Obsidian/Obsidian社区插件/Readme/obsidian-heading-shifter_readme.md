@@ -1,6 +1,6 @@
 ---
-uid: 2023080322193852
-title: Obsidian 插件：Heading Shifter
+uid: 2023120719302640
+title: Obsidian 插件：【Readme】Heading Shifter
 tags: ['obsidian插件', 'readme']
 description: 轻松调整和更改 Markdown 标题。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Heading Shifter
+# Obsidian 插件：【Readme】Heading Shifter
 
 > [!Note] 插件名片
 > - 插件名称：Heading Shifter
@@ -80,7 +80,7 @@ Obsidian 将许多 Markdown 文件链接在一起形成知识。每天重新整�
 
 ### 应用标题
 
-![应用标题演示](https://raw.githubusercontent.com/k4a-dev/obsidian-heading-shifter/main/doc/attachment/applyingHeading.gif)
+![应用标题演示](https://cdn.pkmer.cn/covers/obsidian-heading-shifter_1_3.gif!pkmer)
 
 #### 命令
 
@@ -93,7 +93,7 @@ Obsidian 将许多 Markdown 文件链接在一起形成知识。每天重新整�
 
 ### 标题移动
 
-![标题移动演示](https://raw.githubusercontent.com/k4a-dev/obsidian-heading-shifter/main/doc/attachment/shiftHeadings.gif)
+![标题移动演示](https://cdn.pkmer.cn/covers/obsidian-heading-shifter_1_4.gif!pkmer)
 
 #### 设置
 

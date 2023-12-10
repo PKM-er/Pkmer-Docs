@@ -1,6 +1,6 @@
 ---
-uid: 2023080322200316
-title: Obsidian 插件：ibook
+uid: 2023120719304891
+title: Obsidian 插件：【Readme】ibook
 tags: ['obsidian插件', 'readme']
 description: 适用于Apple ibook的插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：ibook
+# Obsidian 插件：【Readme】ibook
 
 > [!Note] 插件名片
 > - 插件名称：ibook
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 # 演示截图
 
-![](docs/images/screenshot-5.png)
+![](https://cdn.pkmer.cn/covers/ibook_2_0.png!pkmer)
 
 # 注意
 
@@ -67,13 +67,13 @@ brew install sqlite3
 
 `cmd + shift + b` 并搜索 `书名/作者`
 
-![](docs/images/screenshot-3.png)
+![](https://cdn.pkmer.cn/covers/ibook_2_1.png!pkmer)
 
 ### 通过搜索 [goodreads](https://www.goodreads.com/) 导出图书信息
 
 使用 `cmd + shift + i` 通过文件名搜索图书信息，并插入当前光标位置
 
-![](docs/images/screenshot-4.png)
+![](https://cdn.pkmer.cn/covers/ibook_2_2.png!pkmer)
 
 # 特点
 

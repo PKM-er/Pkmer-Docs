@@ -1,6 +1,6 @@
 ---
-uid: 2023080322205075
-title: Obsidian 插件：Journey
+uid: 2023120719313712
+title: Obsidian 插件：【Readme】Journey
 tags: ['文件历史', '笔记文件处理', 'obsidian插件', 'readme']
 description: 发现你的笔记之间的故事
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Journey
+# Obsidian 插件：【Readme】Journey
 
 > [!Note] 插件名片
 > - 插件名称：Journey
@@ -43,7 +43,7 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 
 ![GitHub所有发布](https://img.shields.io/github/downloads/akaalias/obsidian-journey-plugin/total)
 
-![](https://raw.githubusercontent.com/akaalias/obsidian-journey-plugin/master/journey-demo.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_2.gif!pkmer)
 
 嗨，欢迎你！
 
@@ -65,13 +65,13 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 
 这个插件会自动找到并创建我的故事大纲，就像这样：
 
-![插件为你找到的内容](https://raw.githubusercontent.com/akaalias/obsidian-journey-plugin/master/graph.png)
+![插件为你找到的内容](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_3.png!pkmer)
 
 教程
 
 在 Youtube 上观看：<https://youtu.be/6k2Lp1pCZpY>
 
-[![](https://github.com/akaalias/obsidian-journey-plugin/raw/master/First-Time-Usage.png?raw=true)](https://youtu.be/6k2Lp1pCZpY)
+[![](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_4.png!pkmer)](https://youtu.be/6k2Lp1pCZpY)
 
 ## 包含的功能
 
@@ -131,15 +131,15 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 
 <https://forum.obsidian.md/t/new-plugin-journey-find-the-story-between-your-notes/12153>
 
-[![](https://github.com/akaalias/obsidian-journey-plugin/raw/master/voting.png?raw=true)](https://forum.obsidian.md/t/new-plugin-journey-find-the-story-between-your-notes/12153)
+[![](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_5.png!pkmer)](https://forum.obsidian.md/t/new-plugin-journey-find-the-story-between-your-notes/12153)
 
 特别感谢 [thoresson](https://forum.obsidian.md/u/thoresson)，[alltagsverstand](https://forum.obsidian.md/u/alltagsverstand)，[Thecookiemomma](https://forum.obsidian.md/u/Thecookiemomma)，[cestvrai](https://forum.obsidian.md/u/cestvrai)，[matteor](https://forum.obsidian.md/u/matteor)，[Danashafir](https://forum.obsidian.md/u/Danashafir)，[EhuddRomero](https://forum.obsidian.md/u/EhuddRomero)，[I-d-as](https://forum.obsidian.md/u/I-d-as)，[osgav](https://forum.obsidian.md/u/osgav)，[Erick_James_Dodge](https://forum.obsidian.md/u/Erick_James_Dodge)，[3mbry0](https://forum.obsidian.md/u/3mbry0)，[Klaas](https://forum.obsidian.md/u/Klaas)，[ryanjamurphy](https://forum.obsidian.md/u/ryanjamurphy)，[EdElgar](https://forum.obsidian.md/u/EdElgar) 和 [Daveb08](https://forum.obsidian.md/u/Daveb08) 帮助使这个插件对每个人都变得很棒！
 
 如何提交问题
 
-🐞 如果您遇到技术问题或错误，请在<<https://github.com/akaalias/obsidian-journey-plugin/issues> 上提交 Github 问题。>
+🐞 如果您遇到技术问题或错误，请在<https://github.com/akaalias/obsidian-journey-plugin/issues 上提交 Github 问题。>
 
-[![](https://github.com/akaalias/obsidian-journey-plugin/raw/master/issues.png?raw=true)](https://github.com/akaalias/obsidian-journey-plugin/issues)
+[![](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_6.png!pkmer)](https://github.com/akaalias/obsidian-journey-plugin/issues)
 
 查看即将推出的功能。
 
@@ -153,13 +153,13 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 - B 链接到 C
 - C 与 D 共享相同的标签
 
-![Vault](https://user-images.githubusercontent.com/111555/106387223-0f427a00-63d9-11eb-86b3-5a2ae53a1950.png)
+![Vault](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_7.png!pkmer)
 
 #### 功能 1：使用“前向链接”（默认启用）
 
 链接基本上是从一个笔记到下一个的单行道。这意味着插件只会显示存在前向链接路径的路径，但不会显示违反单行道的路径。
 
-![forwardlink](https://user-images.githubusercontent.com/111555/106387228-136e9780-63d9-11eb-84a4-208b308f1b07.png)
+![forwardlink](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_8.png!pkmer)
 
 通过这个示例和启用此功能，插件将会...
 
@@ -170,7 +170,7 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 
 这基本上是使用“前向链接”的反向。使用此功能，您的导航系统将仅找到基于逆行的单行道的路径。
 
-![backlink](https://user-images.githubusercontent.com/111555/106387232-19fd0f00-63d9-11eb-8510-df474ff130d6.png)
+![backlink](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_9.png!pkmer)
 
 通过示例和启用此功能，插件将...
 
@@ -183,7 +183,7 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 
 顾名思义，标签现在也可以作为笔记之间的路径。
 
-![tag](https://user-images.githubusercontent.com/111555/106387241-1ff2f000-63d9-11eb-94e2-d62c0995ca17.png)
+![tag](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_10.png!pkmer)
 
 通过这个示例和启用此功能，插件将会...
 
@@ -208,7 +208,7 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 
 - A -> Foo -> Bar -> C（而不是 A -> MOC -> C）
 
-![MOC](https://user-images.githubusercontent.com/111555/106387246-26816780-63d9-11eb-9407-a76c078b8e6c.png)
+![MOC](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_11.png!pkmer)
 
 " 多少个链接构成一个 MOC？"
 
@@ -218,4 +218,4 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 
 在 Youtube 上观看：<https://youtu.be/iRydNlinRlc>
 
-[![](https://github.com/akaalias/obsidian-journey-plugin/raw/master/demo.png?raw=true)](https://youtu.be/iRydNlinRlc)
+[![](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_12.png!pkmer)](https://youtu.be/iRydNlinRlc)

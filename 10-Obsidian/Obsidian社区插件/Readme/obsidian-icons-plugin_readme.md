@@ -1,6 +1,6 @@
 ---
-uid: 2023080322200938
-title: Obsidian 插件：Icons
+uid: 2023120719305493
+title: Obsidian 插件：【Readme】Icons
 tags: ['样式工具', '美化', 'obsidian插件', 'readme']
 description: 将图标添加到您的 Obsidian 中，扩充默认支持的图标集。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Icons
+# Obsidian 插件：【Readme】Icons
 
 > [!Note] 插件名片
 > - 插件名称：Icons
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Obsidian 图标插件
 
-![Obsidian图标插件](https://github.com/visini/obsidian-icons-plugin/blob/main/docs/banner.png?raw=true)
+![Obsidian图标插件](https://cdn.pkmer.cn/covers/obsidian-icons-plugin_1_0.png!pkmer)
 
 > **注意**: 如果遇到任何错误，请在 GitHub 上开启一个新的问题报告。
 
@@ -55,15 +55,15 @@ modified: 20230101000000
 
 ## 演示和截图
 
-![演示](https://github.com/visini/obsidian-icons-plugin/blob/main/docs/demo.gif?raw=true)
+![演示](https://cdn.pkmer.cn/covers/obsidian-icons-plugin_1_1.gif!pkmer)
 
 > 一个演示视频，展示了图标选择器和渲染的 Markdown。
 
-![选择器截图](https://github.com/visini/obsidian-icons-plugin/blob/main/docs/screenshot-picker.png?raw=true)
+![选择器截图](https://cdn.pkmer.cn/covers/obsidian-icons-plugin_1_2.png!pkmer)
 
 > 从图标选择器中选择任何图标（在设置中选择性地激活图标包）。
 
-![渲染截图](https://github.com/visini/obsidian-icons-plugin/blob/main/docs/screenshot-rendered.png?raw=true)
+![渲染截图](https://cdn.pkmer.cn/covers/obsidian-icons-plugin_1_3.png!pkmer)
 
 > 渲染的 Markdown 将相应地显示图标。
 

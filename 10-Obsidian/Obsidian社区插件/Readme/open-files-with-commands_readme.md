@@ -1,6 +1,6 @@
 ---
-uid: 2023080322240575
-title: Obsidian 插件：Open files with commands
+uid: 2023120719394219
+title: Obsidian 插件：【Readme】Open files with commands
 tags: ['obsidian插件', 'readme']
 description: 创建只能一次打开一个文件的命令，并且可以与指挥官插件一起使用。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Open files with commands
+# Obsidian 插件：【Readme】Open files with commands
 
 > [!Note] 插件名片
 > - 插件名称：Open files with commands
@@ -56,17 +56,17 @@ modified: 20230101000000
 
 ### 在设置中
 
-![j1OG4HxERzWXDIwMxYrt](https://user-images.githubusercontent.com/70213368/220428493-40b49a99-b9ce-464d-91db-096c83bc47fb.gif)
+![j1OG4HxERzWXDIwMxYrt](https://cdn.pkmer.cn/covers/open-files-with-commands_1_0.gif!pkmer)
 
 如何重命名和删除命令
 
 通过点击设置符号，在 Obsidian 设置类别“社区插件”中打开设置。
 
-![CfADbGkeh7ig6sH3Iw2b](https://user-images.githubusercontent.com/70213368/220428943-996e3650-6df2-46f5-9a71-ab308f4768e2.png)
+![CfADbGkeh7ig6sH3Iw2b](https://cdn.pkmer.cn/covers/open-files-with-commands_1_1.png!pkmer)
 
 打开后，您可以轻松删除、重命名和更改命令的文件路径。
 
-![Y2KfHEI6hBPK8k5lEbbz](https://user-images.githubusercontent.com/70213368/220429660-37b877ef-d519-4070-9cf8-84e5b6b15ab1.gif)
+![Y2KfHEI6hBPK8k5lEbbz](https://cdn.pkmer.cn/covers/open-files-with-commands_1_2.gif!pkmer)
 
 如何安装插件
 
@@ -75,8 +75,8 @@ modified: 20230101000000
 1. 从最新版本的发布中下载 main.js、manifest.json 和 styles.css（请参见 [发布页面](https://github.com/LostPaul/ob-open-files-with-commands/releases/)）
 2. 在 `Vault-name/.obsidian/plugins` 目录下创建一个新文件夹，并将下载的文件放入其中
 3. 重新加载插件并启用该插件
-![image](https://user-images.githubusercontent.com/70213368/220440006-afc6f592-8ff9-4074-8b24-74f69c22cf18.png)
-![zhWUnifj86Q2KlZTOtfU](https://user-images.githubusercontent.com/70213368/220440083-076bdb60-49a7-44cb-b001-37b3dd7717c3.png)
+![image](https://cdn.pkmer.cn/covers/open-files-with-commands_1_3.png!pkmer)
+![zhWUnifj86Q2KlZTOtfU](https://cdn.pkmer.cn/covers/open-files-with-commands_1_4.png!pkmer)
 
 展示和如何与指挥官插件一起使用
 

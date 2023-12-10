@@ -1,5 +1,5 @@
 ---
-uid: 2023102611082216
+uid: 2023120719405734
 title: Obsidian 插件：【Readme】Python Scripter
 tags: ['obsidian插件', 'readme']
 description: 直接将Python脚本作为Obsidian命令运行
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 直接将 Python 脚本作为 Obsidian 命令运行
+
+![Python Scripter](https://cdn.pkmer.cn/covers/python-scripter.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -86,7 +88,7 @@ modified: 20230101000000
  	- 运行 example
   	- 运行 example2.py
 
-   ![commandwindow](https://github.com/nickrallison/obsidian-python-scripter/assets/99363282/3fcf9fa0-451a-4f55-af9d-ba8d57af92ee)
+   ![commandwindow](https://cdn.pkmer.cn/covers/python-scripter_1_0.png!pkmer)
 
 - 当 Python 目录更新时自动重新加载
 

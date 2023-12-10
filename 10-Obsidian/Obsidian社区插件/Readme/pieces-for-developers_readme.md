@@ -1,6 +1,6 @@
 ---
-uid: 2023080322244455
-title: Obsidian 插件：Pieces for Developers
+uid: 2023120719402807
+title: Obsidian 插件：【Readme】Pieces for Developers
 tags: ['obsidian插件', 'readme']
 description: 使用Pieces For Developers插件在Obsidian中简化您的编码工作流程，提供强大的功能，用于捕捉、管理、翻译和增强代码片段。（闭源）
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Pieces for Developers
+# Obsidian 插件：【Readme】Pieces for Developers
 
 > [!Note] 插件名片
 > - 插件名称：Pieces for Developers
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 使用 Pieces 插件在 Obsidian 中简化您的编码工作流程，提供强大的功能，用于捕捉、管理、翻译和增强代码片段。
 
-[![Pieces For Developers Banner](./assets/readme/pfd-obisidan-plugin-hero.png)](https://youtu.be/x2JdssFEk2I)
+[![Pieces For Developers Banner](https://cdn.pkmer.cn/covers/pieces-for-developers_2_0.png!pkmer)](https://youtu.be/x2JdssFEk2I)
 
 ## 入门指南
 
@@ -62,19 +62,19 @@ modified: 20230101000000
 
 模板、终端命令、有用的片段、笔记...一键保存您的笔记元素，以便以后参考或重复使用。
 
-![右键保存](./assets/onboarding/saveWithMenu.png)
+![右键保存](https://cdn.pkmer.cn/covers/pieces-for-developers_2_1.png!pkmer)
 
 当您需要时，找到并重复使用恰到好处的代码片段。
 
 在 Obsidian 内部，对您的代码片段进行快速、强大的搜索。
 
-![管理您的代码片段](./assets/readme/gifs/OBSIDIAN_SEARCH.gif)
+![管理您的代码片段](https://cdn.pkmer.cn/covers/pieces-for-developers_2_2.gif!pkmer)
 
 在 Obsidian 中分享代码片段，而不会中断您的工作流程
 
 通过在 Obsidian 中进行简单的右键单击操作，与他人分享代码片段。链接中包含代码片段及其相关上下文 - 标签、描述、来源等等！
 
-![分享您的代码片段](./assets/readme/gifs/OBSIDIAN_SHARE.gif)
+![分享您的代码片段](https://cdn.pkmer.cn/covers/pieces-for-developers_2_3.gif!pkmer)
 
 ## 由其他开发人员精心设计
 
@@ -82,7 +82,7 @@ modified: 20230101000000
 * **深度嵌入到 Obsidian 中** - 通过 Pieces for Developers Obsidian 插件完全保存、搜索和共享您的片段
 * 启用键盘**快捷键**
 
-![使用按钮保存](./assets/readme/gifs/OBSIDIAN_SAVE.gif)
+![使用按钮保存](https://cdn.pkmer.cn/covers/pieces-for-developers_2_4.gif!pkmer)
 
 ### 命令
 

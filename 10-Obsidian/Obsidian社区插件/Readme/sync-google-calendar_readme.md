@@ -1,6 +1,6 @@
 ---
-uid: 2023080322273631
-title: Obsidian 插件：Sync Google Calendar
+uid: 2023120719435429
+title: Obsidian 插件：【Readme】Sync Google Calendar
 tags: ['obsidian插件', 'readme']
 description: 将Google日历中的事件同步，并像任务一样管理它们。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Sync Google Calendar
+# Obsidian 插件：【Readme】Sync Google Calendar
 
 > [!Note] 插件名片
 > - 插件名称：Sync Google Calendar
@@ -53,7 +53,7 @@ modified: 20230101000000
 4. 我们的任务同步**以日历事件为中心**，这意味着在将任务从 Obsidian 同步到日历后，在 Obsidian 中对任务进行的修改不会同步到日历中。要进一步修改日程安排，您需要直接在日历中进行修改。在日历中进行的更改将在稍后自动同步回 Obsidian。
 5. 此插件仍处于早期测试阶段，随时可能发生变化！
 
-![RELEASE DEMO](./docs/README_DEMO.gif)
+![RELEASE DEMO](https://cdn.pkmer.cn/covers/sync-google-calendar_2_0.gif!pkmer)
 
 安装和使用
 
@@ -89,13 +89,13 @@ modified: 20230101000000
 
 - 在任何笔记中放置一个类似以下代码块的代码：
 
-````markdown
+   ````markdown
    ```sync-calendar
    name: "{numberTodos} todos @ Apr. 21"
    timeMin: "2023-04-21"
    timeMax: "2023-04-22"
    ```
-````
+   ````
 
 - 切换到预览模式，插件应该会用实际结果替换这个代码块。
 

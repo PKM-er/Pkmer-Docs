@@ -1,6 +1,6 @@
 ---
-uid: 2023080322274535
-title: Obsidian 插件：Tag Page Preview
+uid: 2023120719440385
+title: Obsidian 插件：【Readme】Tag Page Preview
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 为每个 标签（#Tag），当在笔记中点击时，会弹出包含此标签的一个文件列表。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Tag Page Preview
+# Obsidian 插件：【Readme】Tag Page Preview
 
 > [!Note] 插件名片
 > - 插件名称：Tag Page Preview
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 点击一个标签会打开一个对话框，列出使用该标签的页面。
 
-![](./media/screenshot.jpg)
+![](https://cdn.pkmer.cn/covers/tag-page-preview_2_0.jpeg!pkmer)
 
 ## 贡献
 

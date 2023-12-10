@@ -1,6 +1,6 @@
 ---
-uid: 2023080322283330
-title: Obsidian 插件：Toggl Track
+uid: 2023120719451706
+title: Obsidian 插件：【Readme】Toggl Track
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 添加与 Toggl Track API 的集成，以在Obsidian内管理计时器。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Toggl Track
+# Obsidian 插件：【Readme】Toggl Track
 
 > [!Note] 插件名片
 > - 插件名称：Toggl Track
@@ -48,7 +48,7 @@ modified: 20230101000000
 - 在侧边栏中获取一天的摘要
 - 使用命令面板创建、启动和停止新的计时器，或重新启动最近的计时器
 
-![](https://raw.githubusercontent.com/mcndt/obsidian-toggl-integration/master/demo2.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-toggl-integration_1_2.gif!pkmer)
 
 在 Obsidian 笔记中，使用简单的代码块可以渲染时间跟踪报告。例如，
 
@@ -61,7 +61,7 @@ PAST 7 DAYS
 
 将会得到如下结果：
 
-![example-summary-report](https://user-images.githubusercontent.com/23149353/148293946-4e70ede9-0a9f-401e-af4b-f954caaeed84.png)
+![example-summary-report](https://cdn.pkmer.cn/covers/obsidian-toggl-integration_1_3.png!pkmer)
 
 您可以在 [插件维基](<https://github.com/mcndt/obsidian-toggl-integration/wiki/Toggl-Query-Language-(TQL)-Reference>) 中找到有关渲染时间报告的完整教程和参考资料。
 
@@ -71,7 +71,7 @@ PAST 7 DAYS
 
 要设置此插件，只需在设置选项卡中输入您的 API 令牌，然后点击连接并选择您希望使用的 Toggl 工作区。
 
-![settings](https://raw.githubusercontent.com/mcndt/obsidian-toggl-integration/master/settings.png)
+![settings](https://cdn.pkmer.cn/covers/obsidian-toggl-integration_1_4.png!pkmer)
 
 与其他插件一起使用：
 

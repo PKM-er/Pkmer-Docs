@@ -42,7 +42,7 @@ Excalidraw 脚本将自动接收两个对象：
 
 - `ea`：脚本引擎将初始化 `ea` 对象，包括将活动视图设置为调用脚本的视图。
 	- 即自动加载：`ea = ExcalidrawAutomate;`
-	- ea 的属性和命令参考 [[Excalidraw的样式、属性、功能简介]]；
+	- ea 的属性和命令参考 [[Excalidraw的样式-属性-功能简介]]；
 - `utils`：从 [QuickAdd](https://github.com/chhoumann/quickadd/blob/master/docs/docs/QuickAddAPI.md) 中借用了一些在 utils 上公开的函数，尽管目前并不是所有 QuickAdd 实用函数都在 Excalidraw 中实现。
 
 ### utils 目前可用的函数如下所示

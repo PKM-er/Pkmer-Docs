@@ -37,7 +37,7 @@ modified: 20230101000000
 
 # Obsidian HTML 阅读器插件
 
-这是一个为 Obsidian（<<https://obsidian.md）开发的插件。可以打开以> `.html` 和 `.htm` 文件扩展名结尾的文档。>
+这是一个为 Obsidian（<https://obsidian.md）开发的插件。可以打开以> `.html` 和 `.htm` 文件扩展名结尾的文档。>
 
 - [如何使用](#how-to-use)
 - [从Obsidian安装此插件](#install-this-plugin-from-obsidian)

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322212241
-title: Obsidian 插件：Limelight
+uid: 2023120719345420
+title: Obsidian 插件：【Readme】Limelight
 tags: ['obsidian插件', 'readme']
 description: 突出显示活动窗格
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Limelight
+# Obsidian 插件：【Readme】Limelight
 
 > [!Note] 插件名片
 > - 插件名称：Limelight
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](demo.gif)
+![演示](https://cdn.pkmer.cn/covers/obsidian-limelight_2_0.gif!pkmer)
 
 ## 安装
 

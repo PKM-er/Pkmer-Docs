@@ -12,6 +12,10 @@ modified: 20231108105919
 
 # Obsidian 基础操作
 
+如果以下内容还不能满足你：
+
+你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
+
 ## 安装
 
 ### 安装包获取途径

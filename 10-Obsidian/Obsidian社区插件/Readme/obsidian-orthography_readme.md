@@ -1,6 +1,6 @@
 ---
-uid: 2023080322233683
-title: Obsidian 插件：Obsidian Orthography
+uid: 2023120719380930
+title: Obsidian 插件：【Readme】Obsidian Orthography
 tags: ['文件重构', '效率', 'obsidian插件', 'readme']
 description: 用于检查和修复文本中的拼写错误。暂不知支持中文。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Orthography
+# Obsidian 插件：【Readme】Obsidian Orthography
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Orthography
@@ -57,7 +57,7 @@ modified: 20230101000000
 
 Obsidian 插件，用于检查文本中的语法和拼写错误。
 
-![Gif](./preview.gif)
+![Gif](https://cdn.pkmer.cn/covers/obsidian-orthography_2_0.gif!pkmer)
 
 **重要提示**：
 

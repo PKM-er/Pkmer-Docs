@@ -1,6 +1,6 @@
 ---
-uid: 2023080322270625
-title: Obsidian 插件：Smart Random Note
+uid: 2023120719432140
+title: Obsidian 插件：【Readme】Smart Random Note
 tags: ['搜索/排序', '插件', 'obsidian插件', 'readme']
 description: 插件增强了核心插件笔记漫游的功能。让每日随机笔记，增添了三个新功能。从搜索中打开随机说明：从搜索结果列表中打开随机说明。从搜索中插入光标上的链接到随机笔记：插入一个链接，其中光标位于搜索结果列表中的随机笔记中。打开标记的随机笔记：打开具有选定标签的随机音符。打开随机笔记：行为与核心随机音符插件相似。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Smart Random Note
+# Obsidian 插件：【Readme】Smart Random Note
 
 > [!Note] 插件名片
 > - 插件名称：Smart Random Note
@@ -50,7 +50,7 @@ modified: 20230101000000
 - 打开带有标签的随机笔记：打开一个带有选定标签的随机笔记。
 - 打开随机笔记：与核心随机笔记插件类似的行为。
 
-![截图](https://raw.githubusercontent.com/erichalldev/obsidian-smart-random-note/master/screenshot.gif)
+![截图](https://cdn.pkmer.cn/covers/smart-random-note_1_1.gif!pkmer)
 
 ## 未来计划
 
