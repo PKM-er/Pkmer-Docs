@@ -1,20 +1,13 @@
 ---
 uid: 20231208024655
 title: PKMer 插件安装手把手教程
-tags:
-  - PKMer
-  - Obsidian
-  - 插件
-  - 下载
-  - 插件安装
-  - 教程
-  - PKMer插件
+tags: [PKMer, Obsidian, 插件, 下载, 插件安装, 教程, PKMer插件]
 description: PKMer插件手把手安装教程
 author: ProudBenzene
 type: tutorial
 draft: false
 editable: false
-modified: 20231208114538
+modified: 20231210154411
 ---
 
 # PKMer 插件安装手把手教程

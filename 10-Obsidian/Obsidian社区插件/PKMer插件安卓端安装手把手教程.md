@@ -1,20 +1,13 @@
 ---
 uid: 20231201030456
 title: PKMer 插件安卓端安装手把手教程
-tags:
-  - PKMer
-  - Obsidian
-  - 插件
-  - 下载
-  - 插件安装
-  - 教程
-  - PKMer插件
+tags: [PKMer, Obsidian, 插件, 下载, 插件安装, 教程, PKMer插件]
 description: PKMer插件安卓端安装手把手教程
 author: ProudBenzene
 type: tutorial
 draft: false
 editable: false
-modified: 20231201043256
+modified: 20231210154401
 ---
 
 # PKMer 插件安卓端安装手把手教程

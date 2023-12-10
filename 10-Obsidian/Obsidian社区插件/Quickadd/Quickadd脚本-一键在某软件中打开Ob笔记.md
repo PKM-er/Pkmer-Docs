@@ -1,16 +1,13 @@
 ---
 uid: 20231208015601
 title: Quickadd 脚本：一键在某软件中打开 Ob 笔记
-tags:
-  - quickadd
-  - quickadd脚本
-  - VSCode
+tags: [quickadd, quickadd脚本, VSCode]
 description: 一键在第三方软件中打开笔记的quickadd脚本
 author: 熊猫不熬夜，ProudBenzene
 type: advanced
 draft: false
 editable: false
-modified: 20231208113905
+modified: 20231210154439
 ---
 
 # Quickadd 脚本：一键在某软件中打开 Ob 笔记
