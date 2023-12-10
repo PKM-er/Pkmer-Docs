@@ -1,26 +1,14 @@
 ---
 uid: 20231210134333
 title: crush reference 配置全教程
-tags: []
-description: 
-author: 
-type: other
-draft: false
-editable: false
-modified: 20231210142656
----
-**---
-uid: 20231210134333
-title: zotero 论文参考文献 -crush reference 实现
 tags: [zotero, 插件]
-description:
+description: crushreference 配置教程
 author: wang
 type: other
 draft: false
 editable: false
-modified: 20231210134612
+modified: 20231210154129
 ---
-
 # crush reference 配置全教程
 
 > 本期主要介绍 zotero 插件 crush reference 的使用和配置；实现一键抓取当前论文的参考文献。
@@ -41,7 +29,7 @@ MuiseDestiny/zotero-reference (github.com)(<https://github.com/MuiseDestiny/zote
 
 ![[Resource/Images/c1bd17c4b5b29dd6d5912394c860f547_MD5.png]]
 
-注意：**github 部分区域需要稳定网络访问。公众号回复“插件”可直接获取**
+注意：**github 部分区域需要稳定网络访问**。[Zotero 插件集市 (pkmer.cn)](https://pkmer.cn/products/zotero/zoteroMarket/) 可实现稳定下载
 
 ### 安装方式
 
@@ -120,4 +108,4 @@ MuiseDestiny/zotero-reference (github.com)(<https://github.com/MuiseDestiny/zote
 
 论文 pdf 质量差：适用**abbyfinereader**等进行再次 OCR
 
-如果抓取到毫不相关的论文，可以切换来源查看。如果所有来源都不对，可能插件本身不适配。**前往官网（<https://github.com/MuiseDestiny/zotero-reference/issues/6)> 进行反馈**，或者**放过吧**>**
+如果抓取到毫不相关的论文，可以切换来源查看。如果所有来源都不对，可能插件本身不适配。**前往官网（<https://github.com/MuiseDestiny/zotero-reference/issues/6)> 进行反馈**，或者**放过吧**
