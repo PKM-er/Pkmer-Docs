@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231206090843
+modified: 20231210204043
 ---
 
 # Obsidian 插件：code tab 还能这么“玩”
@@ -29,6 +29,7 @@ modified: 20231206090843
 - 选中的标签页下方长条颜色换为了蓝色；
 - 淡化未选择的标签页文字颜色；
 - 鼠标悬浮于未选择的标签页时，下方出现灰色长条；
+- 修改标签页过多造成的堆叠，改为鼠标滚轮滚动，手机可以触碰滑动；
 - 限制标签页正文的最大长度，超过长度添加纵向滚动条；
 
 > [!tip] 另外
@@ -81,6 +82,17 @@ settings:
     min: 0
     max: 1
     step: 0.1
+  -
+    id: tabs-overflow-type
+    title: Select the scrolling way when there are too much tabs.  
+    title.zh: 当标签页过多时的滚动方式，默认无法滚动
+    type: class-select
+    allowEmpty: false
+    default: default-type
+    options:
+        - default-type
+        - left-to-right
+        - up-to-down
 */
 .theme-dark {
   --bc: #1e1e1e;
@@ -142,4 +154,24 @@ body {
   max-height: 600px;
   overflow: auto;
 }
+
+.left-to-right .tab-container .tabs {
+  display: flex;
+  overflow-x: auto;
+}
+
+.left-to-right .tab-container .tabs::-webkit-scrollbar {
+  height: 0;
+  width: 0;
+}
+
+.up-to-down .tab-container .tabs {
+  max-height: 36.3px;
+  overflow-y: auto;
+}
+
+.up-to-down .tab-container .tabs::-webkit-scrollbar {
+  height: 0;
+  width: 0;
+} 
 ```
