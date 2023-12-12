@@ -89,7 +89,7 @@ type: vertical
 
 在 *[实时预览](https://help.obsidian.md/Live+preview+update)*模式下，图库将在将光标移出代码块后生成。使用常规的*源模式 *，按下 `cmd+e`（或 `ctrl+e`）来触发 Obsidian 的笔记预览。
 
-![Obsidian Image Gallery - Animation](https://cdn.pkmer.cn/covers/obsidian-image-gallery_2_1.gif!pkmer)
+![Obsidian Image Gallery - Animation](https://cdn.pkmer.cn/covers/obsidian-image-gallery_2_1.gif)
 
 `1.1.1` 版本引入了一个灯箱视图，通过点击图库中的任何图像来访问。然后，如果需要，点击右上角的按钮以在新标签页中打开原始图像。
 

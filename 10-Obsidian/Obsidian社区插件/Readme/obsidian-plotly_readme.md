@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用这个插件，你可以在笔记中嵌入 Plotly 图表。
 
-![Plotly](https://cdn.pkmer.cn/covers/obsidian-plotly.gif!pkmer)
+![Plotly](https://cdn.pkmer.cn/covers/obsidian-plotly.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ Obsidian 插件，允许用户将 Plotly 图表嵌入到 Markdown 笔记中。
 
 使用命令面板（`Ctrl-P`）添加基本的 plotly 模板：
 
-![命令示例](https://cdn.pkmer.cn/covers/obsidian-plotly_2_0.gif!pkmer)
+![命令示例](https://cdn.pkmer.cn/covers/obsidian-plotly_2_0.gif)
 
 这种方法允许您在 `plotly` 块中创建 JSON 或 YAML，其中包含数据、布局和配置对象的有效负载。
 
@@ -80,7 +80,7 @@ Obsidian 插件，允许用户将 Plotly 图表嵌入到 Markdown 笔记中。
 
 使用命令面板（`Ctrl-P`）添加 plotly 模板：
 
-![命令示例](https://cdn.pkmer.cn/covers/obsidian-plotly_2_1.gif!pkmer)
+![命令示例](https://cdn.pkmer.cn/covers/obsidian-plotly_2_1.gif)
 
 这种方法支持 plotly.com 上的任何示例。
 
@@ -102,7 +102,7 @@ Obsidian 插件，允许用户将 Plotly 图表嵌入到 Markdown 笔记中。
 
 许多示例都在 [Plotly](https://plotly.com/javascript/) 官方网站上。
 
-![如何从plotly.com复制示例](https://cdn.pkmer.cn/covers/obsidian-plotly_2_2.gif!pkmer)
+![如何从plotly.com复制示例](https://cdn.pkmer.cn/covers/obsidian-plotly_2_2.gif)
 
 注意：有些示例还需要 d3 库。这是一个庞大的库，很少需要。这就是为什么我不想在插件中包含它的原因。
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用任何您想要的字体自定义您的 Obsidian 保险库（+ 支持 Android 和 iOS）
 
-![Custom Font Loader](https://cdn.pkmer.cn/covers/custom-font-loader.gif!pkmer)
+![Custom Font Loader](https://cdn.pkmer.cn/covers/custom-font-loader.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 插件设置页面
 
-![插件设置页面](https://cdn.pkmer.cn/covers/custom-font-loader_1_0.gif!pkmer)
+![插件设置页面](https://cdn.pkmer.cn/covers/custom-font-loader_1_0.gif)
 
 兼容性
 

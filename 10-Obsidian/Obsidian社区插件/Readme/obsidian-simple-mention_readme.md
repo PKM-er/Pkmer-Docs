@@ -24,7 +24,7 @@ modified: 20230101000000
 
 in the text.获取高亮提及和提及建议。 查找文本中提及的所有发生。
 
-![Simple Mention](https://cdn.pkmer.cn/covers/obsidian-simple-mention.gif!pkmer)
+![Simple Mention](https://cdn.pkmer.cn/covers/obsidian-simple-mention.gif)
 
 > [!tip] 原文出处
 >
@@ -44,11 +44,11 @@ in the text.获取高亮提及和提及建议。 查找文本中提及的所有�
 在侧边栏中找到提及的所有出现，并跳转到文档中相应的行。
 通过不同的颜色区分个人提及和其他提及。
 
-![Obsidian简单提及概述](https://cdn.pkmer.cn/covers/obsidian-simple-mention_2_0.gif!pkmer)
+![Obsidian简单提及概述](https://cdn.pkmer.cn/covers/obsidian-simple-mention_2_0.gif)
 
 通过短语筛选你的提及
 
-![筛选你的提及](https://cdn.pkmer.cn/covers/obsidian-simple-mention_2_1.gif!pkmer)
+![筛选你的提及](https://cdn.pkmer.cn/covers/obsidian-simple-mention_2_1.gif)
 
 ## 设置
 
@@ -65,7 +65,7 @@ in the text.获取高亮提及和提及建议。 查找文本中提及的所有�
 
 `ctrl+space` 或 `ctrl+click` 在提及上，打开右侧面板，显示所有该提及的出现。
 
-![编辑模式快捷键 (ctrl+space 或 ctrl+click)](https://cdn.pkmer.cn/covers/obsidian-simple-mention_2_2.gif!pkmer)
+![编辑模式快捷键 (ctrl+space 或 ctrl+click)](https://cdn.pkmer.cn/covers/obsidian-simple-mention_2_2.gif)
 
 ### 在预览模式下
 

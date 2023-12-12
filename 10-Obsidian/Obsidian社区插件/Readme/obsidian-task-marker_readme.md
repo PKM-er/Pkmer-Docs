@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用热键和上下文菜单更改任务状态。完成、取消和标记任务，以及在所选任务状态之间循环。
 
-![Task Marker](https://cdn.pkmer.cn/covers/obsidian-task-marker_new.gif!pkmer)
+![Task Marker](https://cdn.pkmer.cn/covers/obsidian-task-marker_new.gif)
 
 > [!tip] 原文出处
 >
@@ -67,7 +67,7 @@ modified: 20230101000000
 - 自动追加文本 📝 2023-03-04
     - 根据任务/行的状态自动追加文本
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-task-marker_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-task-marker_2_0.gif)
 
 ### 其他
 

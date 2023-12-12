@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用分割编辑器和预览打开笔记
 
-![Auto Split](https://cdn.pkmer.cn/covers/obsidian-auto-split_new.gif!pkmer)
+![Auto Split](https://cdn.pkmer.cn/covers/obsidian-auto-split_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 当您的工作区为空时，使用编辑器和预览并排打开笔记。
 
-![](https://cdn.pkmer.cn/covers/obsidian-auto-split_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-auto-split_1_0.gif)
 
 ### 更新日志
 

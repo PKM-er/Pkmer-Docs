@@ -60,7 +60,7 @@ modified: 20230101000000
 
 ## 📖 使用方法
 
-![演示视频](https://cdn.pkmer.cn/covers/writing_1_2.gif!pkmer)
+![演示视频](https://cdn.pkmer.cn/covers/writing_1_2.gif)
 
 ## 🎁 支持我
 

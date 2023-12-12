@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用您的亚马逊登录或上传您的“我的剪辑”文件来同步您的 Kindle 书籍突出显示
 
-![Kindle Highlights](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_new.gif!pkmer)
+![Kindle Highlights](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -59,7 +59,7 @@ modified: 20230101000000
 
 您可以通过使用 USB 将其连接到计算机来提取您的 `My Clippings.txt` 文件。
 
-![](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_1_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_1_2.gif)
 
 ## 特点
 

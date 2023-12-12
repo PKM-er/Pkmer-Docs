@@ -24,7 +24,7 @@ modified: 20230101000000
 
 可以快速查看即将来的每日笔记。
 
-![Upcoming](https://cdn.pkmer.cn/covers/obsidian-upcoming.gif!pkmer)
+![Upcoming](https://cdn.pkmer.cn/covers/obsidian-upcoming.gif)
 
 > [!tip] 原文出处
 >
@@ -44,7 +44,7 @@ modified: 20230101000000
 - **打开即将到来的笔记：** 如果当前活动面板中有每日笔记，则此命令将打开相对于该日期的即将到来的笔记。否则，它将从今天开始。
 - **关闭笔记：** 关闭插件之前打开的所有每日笔记。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-upcoming_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-upcoming_1_0.gif)
 
 ## 安装方法
 

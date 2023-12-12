@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在文件名中使用数字前缀来定义自定义顺序，并拖放文件以更新该顺序。
 
-![File Order](https://cdn.pkmer.cn/covers/file-order_new.gif!pkmer)
+![File Order](https://cdn.pkmer.cn/covers/file-order_new.gif)
 
 > [!tip] 原文出处
 >
@@ -53,9 +53,9 @@ modified: 20230101000000
 
 在插件设置中，您还可以定义前缀长度、分隔符和起始索引的默认值。
 
-![https://cdn.pkmer.cn/covers/file-order_2_0.gif!pkmer](https://cdn.pkmer.cn/covers/file-order_2_0.gif!pkmer)
+![https://cdn.pkmer.cn/covers/file-order_2_0.gif](https://cdn.pkmer.cn/covers/file-order_2_0.gif)
 
-![https://cdn.pkmer.cn/covers/file-order_2_1.gif!pkmer](https://cdn.pkmer.cn/covers/file-order_2_1.gif!pkmer)
+![https://cdn.pkmer.cn/covers/file-order_2_1.gif](https://cdn.pkmer.cn/covers/file-order_2_1.gif)
 
 ## 截图
 

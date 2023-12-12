@@ -24,7 +24,7 @@ modified: 20230101000000
 
 格式化和样式化你的笔记。它可用于格式化 YAML 标签、别名、数组和元数据；脚注；标题；间距；数学块；常规 markdown 内容，如列表、斜体和粗体样式；以及更多使用自定义规则选项。
 
-![Linter](https://cdn.pkmer.cn/covers/obsidian-linter.GIF!pkmer)
+![Linter](https://cdn.pkmer.cn/covers/obsidian-linter.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 ## 使用方法
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-linter_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-linter_2_0.gif)
 
 要对当前文件进行 lint 检查，请运行 `Lint the current file`（默认情况下为 `Ctrl+Alt+L`）。
 

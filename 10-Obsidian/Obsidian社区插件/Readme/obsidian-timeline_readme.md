@@ -39,7 +39,7 @@ modified: 20230101000000
 
 我们建议您使用 [代码片段](https://github.com/George-debug/obsidian-timeline/tree/master/src/style/snippet) 来处理 `脚注` 和 `节点链接`，并与 `其他插件` 一起使用。
 
-![创建您自己的时间线](https://cdn.pkmer.cn/covers/obsidian-timeline_1_0.gif!pkmer)
+![创建您自己的时间线](https://cdn.pkmer.cn/covers/obsidian-timeline_1_0.gif)
 
 如何使用它
 
@@ -115,7 +115,7 @@ modified: 20230101000000
   - active-color-interactive-accent-hover
   - active-color-interactive-success
 
-![带颜色的时间线](https://cdn.pkmer.cn/covers/obsidian-timeline_1_1.gif!pkmer)
+![带颜色的时间线](https://cdn.pkmer.cn/covers/obsidian-timeline_1_1.gif)
 
 对于 `active color`，我们使用 obsidian 的 css 变量作为活动颜色，以便与主题匹配。默认的活动颜色是 `background-modifier-success`。
 

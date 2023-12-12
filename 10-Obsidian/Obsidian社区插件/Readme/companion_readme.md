@@ -24,7 +24,7 @@ modified: 20230101000000
 
 通过类似合作伙伴的界面，使用人工智能进行自动补全，包括 ChatGPT。
 
-![Companion](https://cdn.pkmer.cn/covers/companion.gif!pkmer)
+![Companion](https://cdn.pkmer.cn/covers/companion.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ Companion 的自动完成功能设计得非常不显眼，以幽灵文本的形�
 
 # 演示
 
-![演示](https://cdn.pkmer.cn/covers/companion_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/companion_1_0.gif)
 
 # 安装
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在 Obsidian 中预览 MDX，支持 Code Hike。
 
-![MDX](https://cdn.pkmer.cn/covers/mdx.gif!pkmer)
+![MDX](https://cdn.pkmer.cn/covers/mdx.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ modified: 20230101000000
 2. 按下 `ctrl/cmd + p` 打开命令面板。
 3. 在命令面板中输入 `mdx: preview` 并按下 `Enter` 键。
 
-![code-hike-example](https://cdn.pkmer.cn/covers/mdx_1_0.gif!pkmer)
+![code-hike-example](https://cdn.pkmer.cn/covers/mdx_1_0.gif)
 
 ### 对 Code Hike 的支持
 

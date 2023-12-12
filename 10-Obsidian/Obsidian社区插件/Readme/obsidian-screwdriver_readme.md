@@ -24,7 +24,7 @@ modified: 20230101000000
 
 您的保险库中放入和取出任何文件的实用程序。
 
-![Screwdriver](https://cdn.pkmer.cn/covers/obsidian-screwdriver_new.gif!pkmer)
+![Screwdriver](https://cdn.pkmer.cn/covers/obsidian-screwdriver_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 用于选择和放置隐藏文件的插件。
 
-![屏幕截图](https://cdn.pkmer.cn/covers/obsidian-screwdriver_1_0.gif!pkmer)
+![屏幕截图](https://cdn.pkmer.cn/covers/obsidian-screwdriver_1_0.gif)
 
 您可以转储存储在指定目录中的文件，或将转储文件放置在您的保险库下的任何路径中。
 

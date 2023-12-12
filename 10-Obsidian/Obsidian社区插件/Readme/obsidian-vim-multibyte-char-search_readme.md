@@ -24,7 +24,7 @@ modified: 20230101000000
 
 按输入法对应的 ASCII 编码的第一个字符搜索多字节字符。例如，对于中文，可以按拼音的第一个拼音进行搜索。
 
-![Vim Multibyte Char Search](https://cdn.pkmer.cn/covers/obsidian-vim-multibyte-char-search.gif!pkmer)
+![Vim Multibyte Char Search](https://cdn.pkmer.cn/covers/obsidian-vim-multibyte-char-search.gif)
 
 > [!tip] 原文出处
 >
@@ -77,7 +77,7 @@ nmap <Space>/ :search_multibytes
     - 然后再次按下 `n` 来使用新的正则表达式进行搜索。
 - 继续输入 "n" 或 "N" 来跳转到上一个或下一个匹配项，就像正常的 vim 搜索一样。
 
-![](https://cdn.pkmer.cn/covers/obsidian-vim-multibyte-char-search_2_0.gif!pkmer).
+![](https://cdn.pkmer.cn/covers/obsidian-vim-multibyte-char-search_2_0.gif).
 
 # 上线新语言
 

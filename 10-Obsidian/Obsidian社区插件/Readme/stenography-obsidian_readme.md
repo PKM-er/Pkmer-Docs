@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 Stenography API，利用机器学习将代码块翻译成简单的英文。
 
-![Stenography](https://cdn.pkmer.cn/covers/stenography-obsidian_new.gif!pkmer)
+![Stenography](https://cdn.pkmer.cn/covers/stenography-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -55,4 +55,4 @@ modified: 20230101000000
 
 请参见下面的 gif 动画！
 
-![插件运行的gif动画](https://cdn.pkmer.cn/covers/stenography-obsidian_2_0.gif!pkmer)
+![插件运行的gif动画](https://cdn.pkmer.cn/covers/stenography-obsidian_2_0.gif)

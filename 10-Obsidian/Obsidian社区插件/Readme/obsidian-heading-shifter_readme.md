@@ -24,7 +24,7 @@ modified: 20230101000000
 
 轻松调整和更改 Markdown 标题。
 
-![Heading Shifter](https://cdn.pkmer.cn/covers/obsidian-heading-shifter.gif!pkmer)
+![Heading Shifter](https://cdn.pkmer.cn/covers/obsidian-heading-shifter.gif)
 
 > [!tip] 原文出处
 >
@@ -80,7 +80,7 @@ Obsidian 将许多 Markdown 文件链接在一起形成知识。每天重新整�
 
 ### 应用标题
 
-![应用标题演示](https://cdn.pkmer.cn/covers/obsidian-heading-shifter_1_3.gif!pkmer)
+![应用标题演示](https://cdn.pkmer.cn/covers/obsidian-heading-shifter_1_3.gif)
 
 #### 命令
 
@@ -93,7 +93,7 @@ Obsidian 将许多 Markdown 文件链接在一起形成知识。每天重新整�
 
 ### 标题移动
 
-![标题移动演示](https://cdn.pkmer.cn/covers/obsidian-heading-shifter_1_4.gif!pkmer)
+![标题移动演示](https://cdn.pkmer.cn/covers/obsidian-heading-shifter_1_4.gif)
 
 #### 设置
 

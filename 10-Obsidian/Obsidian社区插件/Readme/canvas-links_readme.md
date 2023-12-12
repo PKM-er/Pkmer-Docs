@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在 Obsidian 中添加视图以显示画布的“外部链接”和“反向链接”。
 
-![Canvas Links](https://cdn.pkmer.cn/covers/canvas-links.gif!pkmer)
+![Canvas Links](https://cdn.pkmer.cn/covers/canvas-links.gif)
 
 > [!tip] 原文出处
 >
@@ -48,4 +48,4 @@ Obsidian 使用双括号语法（`[[]]`）来链接两个笔记。类似地，�
 - 支持在视图中点击项目以将当前文件重定向到它，并相应地更改视图内容
 - 支持所有 [Obsidian接受的文件类型](https://help.obsidian.md/Advanced+topics/Accepted+file+formats)
 
-![demo](https://cdn.pkmer.cn/covers/canvas-links_2_0.gif!pkmer)
+![demo](https://cdn.pkmer.cn/covers/canvas-links_2_0.gif)

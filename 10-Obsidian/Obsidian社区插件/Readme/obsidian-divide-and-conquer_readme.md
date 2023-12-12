@@ -24,7 +24,7 @@ modified: 20230101000000
 
 批量启用/禁用插件的命令。 当您有许多插件时，这很有用，可用于调试。
 
-![Divide & Conquer](https://cdn.pkmer.cn/covers/obsidian-divide-and-conquer.gif!pkmer)
+![Divide & Conquer](https://cdn.pkmer.cn/covers/obsidian-divide-and-conquer.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 这是一个 [Obsidian](https://obsidian.md/) 插件，提供了批量启用/禁用插件和 CSS 片段的命令。这样可以快速找出哪些插件导致了错误或性能问题。
 
-![DAC Snippet Demo](https://cdn.pkmer.cn/covers/obsidian-divide-and-conquer_1_3.gif!pkmer)
+![DAC Snippet Demo](https://cdn.pkmer.cn/covers/obsidian-divide-and-conquer_1_3.gif)
 
 如何帮助调试
 
@@ -69,7 +69,7 @@ modified: 20230101000000
 
 插件/片段的排除功能已启用 [正则表达式](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)，您还可以通过作者或描述进行排除（例如，' 命令面板 ' 排除任何修改命令面板的插件）
 
-![DAC设置演示](https://cdn.pkmer.cn/covers/obsidian-divide-and-conquer_1_4.gif!pkmer)
+![DAC设置演示](https://cdn.pkmer.cn/covers/obsidian-divide-and-conquer_1_4.gif)
 
 ## 安装
 

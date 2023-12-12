@@ -44,7 +44,7 @@ modified: 20230101000000
 - 将所有脚注定义整合到一个地方，并按出现顺序排序
 - 重新索引编号脚注（例如，`[^1][^4][^2]` 变为 `[^1][^2][^3]`）
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-tidy-footnotes_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-tidy-footnotes_1_0.gif)
 
 灵感来自 [obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) 插件。
 

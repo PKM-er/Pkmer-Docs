@@ -51,11 +51,11 @@ modified: 20230101000000
 
 ### 默认设置的演示
 
-![简单](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-highlights_1_0.gif!pkmer)
+![简单](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-highlights_1_0.gif)
 
 ### 所有可选设置都打开的演示
 
-![设置](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-highlights_1_1.gif!pkmer)
+![设置](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-highlights_1_1.gif)
 
 ### 可选设置
 

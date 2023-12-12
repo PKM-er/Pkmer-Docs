@@ -50,7 +50,7 @@ modified: 20230101000000
 - 从脚注跳转到脚注详细信息
 - 从脚注详细信息返回到脚注
 
-![概览](https://cdn.pkmer.cn/covers/obsidian-footnotes_1_3.gif!pkmer)
+![概览](https://cdn.pkmer.cn/covers/obsidian-footnotes_1_3.gif)
 
 ## 重要提示：您必须设置脚注热键
 

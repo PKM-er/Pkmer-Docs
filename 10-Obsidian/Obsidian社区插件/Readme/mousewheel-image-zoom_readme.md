@@ -24,7 +24,7 @@ modified: 20230101000000
 
 .这个插件可以通过滚动来增加/减少图像的大小。
 
-![Mousewheel Image zoom](https://cdn.pkmer.cn/covers/mousewheel-image-zoom_new.gif!pkmer)
+![Mousewheel Image zoom](https://cdn.pkmer.cn/covers/mousewheel-image-zoom_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ Obsidian 鼠标滚轮图像缩放
 
 该插件使您能够通过按住可配置的键（默认为左 Alt 键），在预览模式下悬停在图像上并滚动来增加/减小图像的大小。
 
-![插件演示](https://cdn.pkmer.cn/covers/mousewheel-image-zoom_1_0.gif!pkmer)
+![插件演示](https://cdn.pkmer.cn/covers/mousewheel-image-zoom_1_0.gif)
 
 ## 如何安装
 

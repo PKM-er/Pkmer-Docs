@@ -24,7 +24,7 @@ modified: 20230101000000
 
 检测拱顶中的新二进制文件并创建具有元数据的 Markdown 文件。
 
-![Binary File Manager](https://cdn.pkmer.cn/covers/obsidian-binary-file-manager-plugin_new.gif!pkmer)
+![Binary File Manager](https://cdn.pkmer.cn/covers/obsidian-binary-file-manager-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 例如，如果您在图像文件的元数据中添加标签，那么您可以通过标签搜索（并在元数据中跟随内部链接）间接访问图像文件。
 
-[![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-binary-file-manager-plugin_1_0.gif!pkmer)](https://gyazo.com/6c46d863e4c31d0815bcf027fdb48f92)
+[![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-binary-file-manager-plugin_1_0.gif)](https://gyazo.com/6c46d863e4c31d0815bcf027fdb48f92)
 
 ### 快速开始
 

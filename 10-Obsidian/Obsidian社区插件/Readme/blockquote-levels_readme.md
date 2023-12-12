@@ -24,7 +24,7 @@ modified: 20230101000000
 
 添加命令用于增加/减少当前行或选择的引用块级别。
 
-![Blockquote Levels](https://cdn.pkmer.cn/covers/blockquote-levels_new.gif!pkmer)
+![Blockquote Levels](https://cdn.pkmer.cn/covers/blockquote-levels_new.gif)
 
 > [!tip] 原文出处
 >
@@ -55,7 +55,7 @@ modified: 20230101000000
 
 ## 展示
 
-![展示 GIF](https://cdn.pkmer.cn/covers/blockquote-levels_1_0.gif!pkmer)
+![展示 GIF](https://cdn.pkmer.cn/covers/blockquote-levels_1_0.gif)
 
 ## 安装
 

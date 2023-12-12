@@ -74,7 +74,7 @@ $$\begin{array}{c} p \\ p \rightarrow q \\ \hline \therefore q \end{array}$$
 
 __要导出卡片，您必须突出显示要导出的卡片。__
 ## 演示
-![演示](https://cdn.pkmer.cn/covers/mochi-cards-pro_1_1.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/mochi-cards-pro_1_1.gif)
 
 
 

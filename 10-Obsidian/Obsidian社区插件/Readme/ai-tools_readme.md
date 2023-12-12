@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将强大的语义搜索、生成式答案和其他人工智能工具添加到 Obsidian，使用 Supabase + OpenAI。
 
-![AI Tools](https://cdn.pkmer.cn/covers/ai-tools_new.gif!pkmer)
+![AI Tools](https://cdn.pkmer.cn/covers/ai-tools_new.gif)
 
 > [!tip] 原文出处
 >
@@ -64,7 +64,7 @@ modified: 20230101000000
 
 ## 演示
 
-![](https://cdn.pkmer.cn/covers/ai-tools_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/ai-tools_2_0.gif)
 
 ## 安装
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将您的笔记导出到您的 Kindle，包括嵌入式笔记和图像。
 
-![Kindle Export](https://cdn.pkmer.cn/covers/obsidian-kindle-export.gif!pkmer)
+![Kindle Export](https://cdn.pkmer.cn/covers/obsidian-kindle-export.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 ![](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fstaneks.de%2Fapps%2Fmd2mobi%2Fcounter&cacheSeconds=3) ![GitHub manifest version (path)](https://img.shields.io/github/manifest-json/v/SimeonLukas/obsidian-kindle-export/main?label=版本)
 
-![](https://cdn.pkmer.cn/covers/obsidian-kindle-export_1_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-kindle-export_1_2.gif)
 
 ![](https://cdn.pkmer.cn/covers/obsidian-kindle-export_1_3.jpeg!pkmer)
 

@@ -43,11 +43,11 @@ modified: 20230101000000
 
 感谢 [floating-toc](https://github.com/curtgrimes/obsidian-floating-toc-plugin) 插件的灵感，但由于该插件长时间未更新且不兼容新的 ob（如多窗口），我对插件进行了重构并添加了许多功能。现在插件的大小已经显著减小（仅为原始大小的三十分之一），功能也得到了增强，性能也得到了改善。
 
-![](https://cdn.pkmer.cn/covers/floating-toc_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/floating-toc_1_0.gif)
 
 ## 使用样式设置插件来设置外观
 
-![float toc1](https://cdn.pkmer.cn/covers/floating-toc_1_1.gif!pkmer)
+![float toc1](https://cdn.pkmer.cn/covers/floating-toc_1_1.gif)
 
 如何安装
 

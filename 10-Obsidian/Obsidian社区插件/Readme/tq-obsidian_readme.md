@@ -24,7 +24,7 @@ modified: 20230101000000
 
 基于文件的任务管理
 
-![tq](https://cdn.pkmer.cn/covers/tq-obsidian_new.gif!pkmer)
+![tq](https://cdn.pkmer.cn/covers/tq-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 tq 是一个用于使用基于文件的工作流程管理任务的 [Obsidian](https://obsidian.md) 插件。每个任务都以一个 Markdown 笔记表示，其中包含一行任务和一些元数据在 frontmatter 中。任务通过在其他笔记中嵌入查询来查看，例如您的每日笔记。
 
-![tq演示](https://cdn.pkmer.cn/covers/tq-obsidian_1_0.gif!pkmer)
+![tq演示](https://cdn.pkmer.cn/covers/tq-obsidian_1_0.gif)
 
 一个示例任务笔记：
 

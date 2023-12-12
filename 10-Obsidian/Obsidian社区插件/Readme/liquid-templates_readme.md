@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用支持 LiquidJS 标签的模板
 
-![Liquid Templates](https://cdn.pkmer.cn/covers/liquid-templates.gif!pkmer)
+![Liquid Templates](https://cdn.pkmer.cn/covers/liquid-templates.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 默认情况下，有一个自动完成功能，通过 `;;` 触发，但可以在选项中进行自定义。
 
-![](https://cdn.pkmer.cn/covers/liquid-templates_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/liquid-templates_2_0.gif)
 
 这意味着您可以创建一个由较小模板组成的模板，例如（假设您的模板文件夹为 `templates`）：
 

@@ -41,7 +41,7 @@ modified: 20230101000000
 
 该插件恢复了在 Obsidian 中使用默认的 macOS 键盘导航方式，具体包括<kbd>alt</kbd>+<kbd>↑</kbd>、<kbd>alt</kbd>+<kbd>↓</kbd>，以及<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>↑</kbd>、<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>↓</kbd>。
 
-![快速演示](https://cdn.pkmer.cn/covers/macOS-keyboard-nav-obsidian_1_0.gif!pkmer)
+![快速演示](https://cdn.pkmer.cn/covers/macOS-keyboard-nav-obsidian_1_0.gif)
 
 ### 手动安装插件
 

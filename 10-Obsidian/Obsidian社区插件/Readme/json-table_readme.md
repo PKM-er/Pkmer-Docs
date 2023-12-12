@@ -68,7 +68,7 @@ modified: 20230101000000
 | Pan  | 34  | 孟买   |
 ```
 
-![表格转JSON](https://cdn.pkmer.cn/covers/json-table_2_0.gif!pkmer)
+![表格转JSON](https://cdn.pkmer.cn/covers/json-table_2_0.gif)
 
 #### JSON
 
@@ -76,14 +76,14 @@ modified: 20230101000000
 [{"姓名":"Doe","年龄":"22","城市":"柏林"},{"姓名":"Pan","年龄":"34","城市":"孟买"}]
 ```
 
-![JSON转表格](https://cdn.pkmer.cn/covers/json-table_2_1.gif!pkmer)
+![JSON转表格](https://cdn.pkmer.cn/covers/json-table_2_1.gif)
 
 #### URL
 
 - `https://raw.githubusercontent.com/dario-baumberger/obsidian-json-table/master/demo/example.json`
 - `https://jsonplaceholder.typicode.com/todos`
 
-![URL转表格](https://cdn.pkmer.cn/covers/json-table_2_2.gif!pkmer)
+![URL转表格](https://cdn.pkmer.cn/covers/json-table_2_2.gif)
 
 安装
 

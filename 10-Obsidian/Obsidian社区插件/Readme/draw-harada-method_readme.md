@@ -85,7 +85,7 @@ modified: 20230101000000
  ```
 ~~~
 
-![示例](https://cdn.pkmer.cn/covers/draw-harada-method_1_2.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/draw-harada-method_1_2.gif)
 
 # TODO
 

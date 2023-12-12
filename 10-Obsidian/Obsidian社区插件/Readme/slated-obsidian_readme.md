@@ -59,11 +59,11 @@ modified: 20230101000000
 
 ## 截图
 
-![move-incomplete-tasks](https://cdn.pkmer.cn/covers/slated-obsidian_1_0.gif!pkmer)
+![move-incomplete-tasks](https://cdn.pkmer.cn/covers/slated-obsidian_1_0.gif)
 
 ![task-repeat-config-1](https://cdn.pkmer.cn/covers/slated-obsidian_1_1.png!pkmer)
 
-![configure-repetition](https://cdn.pkmer.cn/covers/slated-obsidian_1_2.gif!pkmer)
+![configure-repetition](https://cdn.pkmer.cn/covers/slated-obsidian_1_2.gif)
 
 ## 如何使用
 

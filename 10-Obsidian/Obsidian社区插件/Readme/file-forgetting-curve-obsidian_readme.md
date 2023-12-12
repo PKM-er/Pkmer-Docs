@@ -24,7 +24,7 @@ modified: 20230101000000
 
 文件遗忘曲线
 
-![File Forgetting Curve](https://cdn.pkmer.cn/covers/file-forgetting-curve-obsidian_new.gif!pkmer)
+![File Forgetting Curve](https://cdn.pkmer.cn/covers/file-forgetting-curve-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -48,4 +48,4 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/file-forgetting-curve-obsidian_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/file-forgetting-curve-obsidian_2_0.gif)

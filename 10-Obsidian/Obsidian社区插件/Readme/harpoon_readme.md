@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用快捷方式来管理和导航 Obsidian 中的前四个常用文件。
 
-![Harpoon](https://cdn.pkmer.cn/covers/harpoon.gif!pkmer)
+![Harpoon](https://cdn.pkmer.cn/covers/harpoon.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 这是一个为 Obsidian 移植的 Harpoon 插件（github.com/theprimeagen/harpoon）。
 
-![示例用法](https://cdn.pkmer.cn/covers/harpoon_2_0.gif!pkmer)
+![示例用法](https://cdn.pkmer.cn/covers/harpoon_2_0.gif)
 
 ### 安装
 

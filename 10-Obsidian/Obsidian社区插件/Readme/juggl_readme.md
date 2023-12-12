@@ -24,7 +24,7 @@ modified: 20230101000000
 
 为 Obsidian 添加一个完全交互式、可样式化和可扩展的图形视图。
 
-![Juggl](https://cdn.pkmer.cn/covers/juggl_new.gif!pkmer)
+![Juggl](https://cdn.pkmer.cn/covers/juggl_new.gif)
 
 > [!tip] 原文出处
 >
@@ -56,7 +56,7 @@ Juggl是一个完全交互式、可样式化和可扩展的图形视图，适用
 
 例如，您可以选择展开图形的哪些部分，以确保屏幕上没有太多的信息。您可以使用强大的 [Cytoscape.js库](https://js.cytoscape.org) 完全控制图形的样式：Juggl 具有一个有用的样式窗格，用于设置节点的颜色、形状、大小和图标。这有助于您立即了解每个节点的内容。
 
-![](https://cdn.pkmer.cn/covers/juggl_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/juggl_1_0.gif)
 
 ## 特点
 

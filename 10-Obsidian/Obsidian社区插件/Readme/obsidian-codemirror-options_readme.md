@@ -24,7 +24,7 @@ modified: 20230101000000
 
 增强 Obsidian 的桌面编辑模式，添加诸如 WYSIWYG/实时预览、语法高亮等功能。
 
-![CodeMirror Options](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_new.gif!pkmer)
+![CodeMirror Options](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_new.gif)
 
 > [!tip] 原文出处
 >
@@ -107,7 +107,7 @@ Obsidian 开发人员最近向内部人员发布了“实时预览”模式。�
 
 #### 代码渲染
 
-![2021-10-22 13 11 32](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_1_0.gif!pkmer)
+![2021-10-22 13 11 32](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_1_0.gif)
 
 ##### HTML 渲染
 
@@ -138,7 +138,7 @@ Obsidian 开发人员最近向内部人员发布了“实时预览”模式。�
 
 ###### 数学
 
-![2021-10-24 13 45 26](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_1_1.gif!pkmer)
+![2021-10-24 13 45 26](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_1_1.gif)
 
 - 内联 Mathjax 渲染
   - 在 $ $ 或 $$ $$

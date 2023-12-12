@@ -24,7 +24,7 @@ modified: 20230101000000
 
 合并一个文件夹的笔记以便更容易导出。
 
-![Advanced Merger](https://cdn.pkmer.cn/covers/advanced-merger_new.gif!pkmer)
+![Advanced Merger](https://cdn.pkmer.cn/covers/advanced-merger_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 合并一个笔记文件夹以便更容易导出。该插件是为 [obsidian](https://obsidian.md/) 应用程序设计的。
 
-![预览](https://cdn.pkmer.cn/covers/advanced-merger_1_0.gif!pkmer)
+![预览](https://cdn.pkmer.cn/covers/advanced-merger_1_0.gif)
 
 <p align="center">
 插件预览。图片由

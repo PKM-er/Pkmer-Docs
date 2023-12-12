@@ -63,7 +63,7 @@ modified: 20230101000000
 - 多语言支持（有关翻译说明，请参见 [#43](https://github.com/joethei/obsidian-rss/issues/43)）
 - 更多功能请参见 [路线图](https://github.com/joethei/obsidian-rss/projects/1)
 
-![演示GIF](https://cdn.pkmer.cn/covers/rss-reader_1_5.gif!pkmer)
+![演示GIF](https://cdn.pkmer.cn/covers/rss-reader_1_5.gif)
 
 ## 入门指南
 

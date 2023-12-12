@@ -24,7 +24,7 @@ modified: 20230101000000
 
 此插件将剪贴板中的图像上传到 imgur.com 并将上传的图像嵌入到您的笔记中
 
-![Imgur Plugin](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin.GIF!pkmer)
+![Imgur Plugin](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 该插件将图片上传到 [imgur.com](https://imgur.com/)，而不是将其本地存储在您的 vault 中。
 
-![obsidian-imgur-plugin-demo](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin_1_2.gif!pkmer)
+![obsidian-imgur-plugin-demo](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin_1_2.gif)
 
 为什么？
 

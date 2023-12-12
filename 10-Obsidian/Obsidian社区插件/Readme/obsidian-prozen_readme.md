@@ -24,7 +24,7 @@ modified: 20230101000000
 
 进入禅模式，专注于写作。该插件将当前标签扩展到全屏，除内容外删除一切。
 
-![ProZen](https://cdn.pkmer.cn/covers/obsidian-prozen_new.gif!pkmer)
+![ProZen](https://cdn.pkmer.cn/covers/obsidian-prozen_new.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ ProZen Plugin for Obsidian 是一款为 Obsidian 设计的插件，提供真正�
 
 ProZen 不仅仅是将您的活动标签全屏显示 - 它还消除了所有的干扰。在禅模式下，所有的面板、图标，甚至滚动条都消失了。对于那些喜欢在写作或阅读时更加专注的人来说，ProZen 可以使屏幕的两侧变暗，就像一个渐变遮罩。
 
-![prozen](https://cdn.pkmer.cn/covers/obsidian-prozen_1_0.gif!pkmer)
+![prozen](https://cdn.pkmer.cn/covers/obsidian-prozen_1_0.gif)
 
 *渐变效果比 gif 图中更加平滑。*
 

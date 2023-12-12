@@ -43,7 +43,7 @@ modified: 20230101000000
 
 ## 演示
 
-![chesser_demo](https://cdn.pkmer.cn/covers/chesser-obsidian_1_0.gif!pkmer)
+![chesser_demo](https://cdn.pkmer.cn/covers/chesser-obsidian_1_0.gif)
 
 ## 用法
 

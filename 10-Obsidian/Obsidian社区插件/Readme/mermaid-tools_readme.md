@@ -67,7 +67,7 @@ Obsidian 原生支持 Mermaid.js，通过 `mermaid` 代码块。
 
 一个小演示：
 
-![obsidian-mermaid-demo-updated](https://cdn.pkmer.cn/covers/mermaid-tools_1_2.gif!pkmer)
+![obsidian-mermaid-demo-updated](https://cdn.pkmer.cn/covers/mermaid-tools_1_2.gif)
 
 注意：在工具栏面板中，所有元素都被包装为完整的图表以进行渲染。
 
@@ -75,7 +75,7 @@ Obsidian 原生支持 Mermaid.js，通过 `mermaid` 代码块。
 
 您可以在设置选项卡中创建、删除、编辑和重新排序元素：
 
-![mermaid-toolbar-settings](https://cdn.pkmer.cn/covers/mermaid-tools_1_3.gif!pkmer)
+![mermaid-toolbar-settings](https://cdn.pkmer.cn/covers/mermaid-tools_1_3.gif)
 
 ### 路线图
 

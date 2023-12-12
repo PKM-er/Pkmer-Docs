@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用滑块自定义 Obsidian 编辑器的宽度，以获得个性化的编辑体验。
 
-![Editor Width Slider](https://cdn.pkmer.cn/covers/editor-width-slider_new.gif!pkmer)
+![Editor Width Slider](https://cdn.pkmer.cn/covers/editor-width-slider_new.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示GIF](https://cdn.pkmer.cn/covers/editor-width-slider_2_0.gif!pkmer)
+![演示GIF](https://cdn.pkmer.cn/covers/editor-width-slider_2_0.gif)
 
 > 这是一个简短的演示，展示了线宽滑块插件的基本功能。
 
@@ -76,7 +76,7 @@ modified: 20230101000000
 
 如果你觉得我的工作有价值，或者只是想支持这个身无分文的计算机科学学生在咖啡的推动下进行编码冒险，你可以通过 PayPal 进行捐赠。非常感谢您的贡献，它有助于保持咖啡的流动！☕️🖥️
 
-[![捐赠](https://cdn.pkmer.cn/covers/editor-width-slider_1_0.gif!pkmer)](https://www.paypal.com/donate/?hosted_button_id=E4APAMMHVJE4N)
+[![捐赠](https://cdn.pkmer.cn/covers/editor-width-slider_1_0.gif)](https://www.paypal.com/donate/?hosted_button_id=E4APAMMHVJE4N)
 
 ## 许可证
 

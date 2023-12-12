@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这是一个 Obsidian 插件，可以将标题嵌入到代码块中。
 
-![Embedded Code Title](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title.gif!pkmer)
+![Embedded Code Title](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 **⚠ 由于依赖于 Obsidian 的内部 DOM 结构，该插件有可能在某些时候无法正常工作。**
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_2.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_2.gif)
 
 ## 🖋 示例
 

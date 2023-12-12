@@ -45,9 +45,9 @@ modified: 20230101000000
 
 _以下是一些示例截图：_
 
-![打字机滚动和当前行高亮](https://cdn.pkmer.cn/covers/typewriter-mode_1_0.gif!pkmer)
+![打字机滚动和当前行高亮](https://cdn.pkmer.cn/covers/typewriter-mode_1_0.gif)
 
-![未聚焦段落变暗](https://cdn.pkmer.cn/covers/typewriter-mode_1_1.gif!pkmer)
+![未聚焦段落变暗](https://cdn.pkmer.cn/covers/typewriter-mode_1_1.gif)
 
 ## 功能和设置
 

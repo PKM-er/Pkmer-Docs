@@ -45,7 +45,7 @@ modified: 20230101000000
 - 搜索专辑并创建笔记
 使用示例
 
-![](https://cdn.pkmer.cn/covers/metal-archives_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/metal-archives_2_0.gif)
 
 ### 带有乐队、专辑和标签的结果图
 

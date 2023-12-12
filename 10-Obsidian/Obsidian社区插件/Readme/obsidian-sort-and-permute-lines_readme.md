@@ -24,7 +24,7 @@ modified: 20230101000000
 
 对整个文件或选择的行进行排序和重新排列。
 
-![Sort & Permute lines](https://cdn.pkmer.cn/covers/obsidian-sort-and-permute-lines_new.gif!pkmer)
+![Sort & Permute lines](https://cdn.pkmer.cn/covers/obsidian-sort-and-permute-lines_new.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 您可以直接调用命令来更改整个文件，或者选择文本并仅更改该范围。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-sort-and-permute-lines_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-sort-and-permute-lines_1_0.gif)
 
 兼容性
 

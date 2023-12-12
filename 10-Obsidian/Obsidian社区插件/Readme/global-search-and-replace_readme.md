@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在所有保险库文件中进行搜索和替换
 
-![Global Search and Replace](https://cdn.pkmer.cn/covers/global-search-and-replace.gif!pkmer)
+![Global Search and Replace](https://cdn.pkmer.cn/covers/global-search-and-replace.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 > 一个插件，可以在 Obsidian 存储库的所有文件中进行全局搜索和替换。
 
-![展示](https://cdn.pkmer.cn/covers/global-search-and-replace_1_2.gif!pkmer)
+![展示](https://cdn.pkmer.cn/covers/global-search-and-replace_1_2.gif)
 
 ## 特点
 

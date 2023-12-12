@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个 [Obsidian](https://obsidian.md/) 插件，可以为您的笔记添加横幅图片（和图标）！
 
-![banners-demo](https://cdn.pkmer.cn/covers/obsidian-banners_1_0.gif!pkmer)
+![banners-demo](https://cdn.pkmer.cn/covers/obsidian-banners_1_0.gif)
 
 使用方法
 

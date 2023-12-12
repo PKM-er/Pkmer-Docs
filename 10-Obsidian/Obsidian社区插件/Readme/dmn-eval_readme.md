@@ -24,7 +24,7 @@ modified: 20230101000000
 
 该插件使得能够评估/执行 DMN。
 
-![DMN Eval](https://cdn.pkmer.cn/covers/dmn-eval_new.gif!pkmer)
+![DMN Eval](https://cdn.pkmer.cn/covers/dmn-eval_new.gif)
 
 > [!tip] 原文出处
 >
@@ -97,7 +97,7 @@ variables:
 
 ### 示例
 
-![示例](https://cdn.pkmer.cn/covers/dmn-eval_2_0.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/dmn-eval_2_0.gif)
 
 ## 开发方式
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 选择光标所在的当前行。按下“ESC”键进行选择。
 
-![Select current line](https://cdn.pkmer.cn/covers/select-current-line.gif!pkmer)
+![Select current line](https://cdn.pkmer.cn/covers/select-current-line.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # 选择当前行插件
 
-![Apr-13-2023 15-22-57](https://cdn.pkmer.cn/covers/select-current-line_1_0.gif!pkmer)
+![Apr-13-2023 15-22-57](https://cdn.pkmer.cn/covers/select-current-line_1_0.gif)
 
 一个简单的插件。
 

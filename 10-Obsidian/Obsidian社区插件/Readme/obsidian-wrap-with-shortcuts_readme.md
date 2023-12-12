@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将所选文本用快捷键来快速添加固定标签。例如：下划线、下标、ルビ（ふりがな）
 
-![Wrap with shortcuts](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts.gif!pkmer)
+![Wrap with shortcuts](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts.gif)
 
 > [!tip] 原文出处
 >
@@ -47,11 +47,11 @@ modified: 20230101000000
 
 创建一个**包装器**
 
-![创建一个包装器](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts_2_0.gif!pkmer)
+![创建一个包装器](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts_2_0.gif)
 
 #### 重新启动 Obsidian，进入设置 -> 快捷键
 
-![重新映射快捷键](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts_2_1.gif!pkmer)
+![重新映射快捷键](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts_2_1.gif)
 
 使用**包装器**
 

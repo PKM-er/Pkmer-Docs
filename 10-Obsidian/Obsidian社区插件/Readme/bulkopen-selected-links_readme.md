@@ -24,7 +24,7 @@ modified: 20230101000000
 
 轻松在编辑模式下打开所有选定的链接。
 
-![Bulk open selected links](https://cdn.pkmer.cn/covers/bulkopen-selected-links_new.gif!pkmer)
+![Bulk open selected links](https://cdn.pkmer.cn/covers/bulkopen-selected-links_new.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 **设置热键并打开选定的链接**
 
-![demo_bulkopen](https://cdn.pkmer.cn/covers/bulkopen-selected-links_1_0.gif!pkmer)
+![demo_bulkopen](https://cdn.pkmer.cn/covers/bulkopen-selected-links_1_0.gif)
 
 ## 使用方法
 

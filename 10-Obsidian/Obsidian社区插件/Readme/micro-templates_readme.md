@@ -24,7 +24,7 @@ modified: 20230101000000
 
 由 JavaScript 函数驱动的灵活嵌入式微模板
 
-![Micro templates](https://cdn.pkmer.cn/covers/micro-templates_new.gif!pkmer)
+![Micro templates](https://cdn.pkmer.cn/covers/micro-templates_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 该插件允许将存储在您的保险库中的模板作为文本片段使用。
 
-![](https://cdn.pkmer.cn/covers/micro-templates_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/micro-templates_2_0.gif)
 
 ## 使用方法
 

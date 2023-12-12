@@ -24,7 +24,7 @@ modified: 20230101000000
 
 检索 HTML 原标题来命名原始 URL 链接。
 
-![URL Namer](https://cdn.pkmer.cn/covers/url-namer.gif!pkmer)
+![URL Namer](https://cdn.pkmer.cn/covers/url-namer.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 将命令绑定到键盘快捷键可以更方便地使用。
 
-![演示](https://cdn.pkmer.cn/covers/url-namer_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/url-namer_2_0.gif)
 
 ## 编译
 

@@ -55,7 +55,7 @@ modified: 20230101000000
 
 ## 演示和截图
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-icons-plugin_1_1.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-icons-plugin_1_1.gif)
 
 > 一个演示视频，展示了图标选择器和渲染的 Markdown。
 

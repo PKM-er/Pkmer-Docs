@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许开发者将 Markdown 笔记推送到他们的本地博客、作品集或静态网站。适用于 Astro.js、Next.js 以及任何配置为渲染 Markdown 页面的框架。
 
-![Markdown Blogger](https://cdn.pkmer.cn/covers/markdown-blogger_new.gif!pkmer)
+![Markdown Blogger](https://cdn.pkmer.cn/covers/markdown-blogger_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个插件适用于 [Obsidian](https://obsidian.md)，允许开发者将 Markdown 笔记即时推送到他们的本地博客、作品集或静态网站项目中。与 [Astro.js](https://astro.build)、[Next.js](https://nextjs.org) 以及任何其他配置为渲染 Markdown 页面的框架一起使用。
 
-![markdown-blogger-demo](https://cdn.pkmer.cn/covers/markdown-blogger_2_0.gif!pkmer)
+![markdown-blogger-demo](https://cdn.pkmer.cn/covers/markdown-blogger_2_0.gif)
 
 在 Obsidian 中撰写 Markdown 笔记的好处，无需手动创建文件并将内容复制粘贴到本地项目中。同时也更容易保持这两个文件的同步。
 

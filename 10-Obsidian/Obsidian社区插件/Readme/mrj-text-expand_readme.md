@@ -24,7 +24,7 @@ modified: 20230101000000
 
 搜索并粘贴/引用找到的文件链接
 
-![Text expand](https://cdn.pkmer.cn/covers/mrj-text-expand_new.gif!pkmer)
+![Text expand](https://cdn.pkmer.cn/covers/mrj-text-expand_new.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # 文本扩展
 
-![](https://cdn.pkmer.cn/covers/mrj-text-expand_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/mrj-text-expand_2_0.gif)
 
 该插件将使用 [Obsidian搜索功能](https://publish.obsidian.md/help/Plugins/Search) 搜索文件，然后粘贴结果。可以使用 [模板功能](#template-engines) 自定义输出。
 

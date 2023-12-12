@@ -167,7 +167,7 @@ modified: 20230101000000
 - ~~目前不支持处理重复的文件名（正在开发中）。在备份中，您可以使用数据变量 [`x`](https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format/) 将 Unix 时间戳与毫秒作为文件名（这将防止重复的文件名）。~~
 - 当在 `canvas` 中放置一个文件时，它会延迟显示更新后的链接/文件名。
 
-![屏幕录制](https://cdn.pkmer.cn/covers/attachment-management_2_3.gif!pkmer)
+![屏幕录制](https://cdn.pkmer.cn/covers/attachment-management_2_3.gif)
 
 - 假设您有以下结构的默认配置：
   - 附加目录，"assets/notes/hello/1.png"

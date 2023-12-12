@@ -49,11 +49,11 @@ modified: 20230101000000
 
 只需将您的文件移动到一个文件夹中即可：
 
-![未分组归档的演示](https://cdn.pkmer.cn/covers/note-archiver_2_1.gif!pkmer)
+![未分组归档的演示](https://cdn.pkmer.cn/covers/note-archiver_2_1.gif)
 
 可以根据文件归档的年份和月份对归档文件进行分组：
 
-![分组归档演示](https://cdn.pkmer.cn/covers/note-archiver_2_2.gif!pkmer)
+![分组归档演示](https://cdn.pkmer.cn/covers/note-archiver_2_2.gif)
 
 ## 待建立
 

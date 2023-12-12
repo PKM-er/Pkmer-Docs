@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将 EPUB 文件导入为 Markdown 格式。
 
-![Epub Importer](https://cdn.pkmer.cn/covers/epub-importer.gif!pkmer)
+![Epub Importer](https://cdn.pkmer.cn/covers/epub-importer.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 这样您就可以直接在 Obsidian 中阅读书籍，并进行一些标记、链接和笔记。
 
-![](https://cdn.pkmer.cn/covers/epub-importer_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/epub-importer_2_0.gif)
 
 ### 属性模板
 

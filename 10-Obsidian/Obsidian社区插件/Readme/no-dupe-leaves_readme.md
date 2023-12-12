@@ -63,7 +63,7 @@ Obsidian 的默认行为是在打开新笔记 `B` 时替换旧笔记 `A`，
 
 ![image](https://cdn.pkmer.cn/covers/no-dupe-leaves_1_1.png!pkmer)
 
-![](https://cdn.pkmer.cn/covers/no-dupe-leaves_1_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/no-dupe-leaves_1_2.gif)
 
 ## 贡献
 

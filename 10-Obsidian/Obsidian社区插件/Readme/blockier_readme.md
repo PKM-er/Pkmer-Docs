@@ -24,7 +24,7 @@ modified: 20230101000000
 
 额外的块编辑工具。
 
-![Blockier](https://cdn.pkmer.cn/covers/blockier.gif!pkmer)
+![Blockier](https://cdn.pkmer.cn/covers/blockier.gif)
 
 > [!tip] 原文出处
 >
@@ -53,13 +53,13 @@ modified: 20230101000000
 
 选择块命令（覆盖 <kbd>ctrl</kbd>/<kbd>cmd</kbd> <kbd>A</kbd>）会选择光标当前所在的块，但不包括块前缀，如项目符号 `-`、数字 `1.`、标题 `##`、引用 `>` 和复选框 `- [ ]`。
 
-![select](https://cdn.pkmer.cn/covers/blockier_1_0.gif!pkmer)
+![select](https://cdn.pkmer.cn/covers/blockier_1_0.gif)
 
 这也支持多个光标。如果光标选择跨越多行，块前缀将会被包括在内。
 
 在块的开头（但在现有块前缀之后）输入其中一个块前缀将覆盖它。
 
-![block-edit](https://cdn.pkmer.cn/covers/blockier_1_1.gif!pkmer)
+![block-edit](https://cdn.pkmer.cn/covers/blockier_1_1.gif)
 
 这仅适用于项目符号、编号列表和复选框。
 

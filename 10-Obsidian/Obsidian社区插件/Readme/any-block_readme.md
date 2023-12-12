@@ -89,7 +89,7 @@ modified: 20230101000000
 
 ![](https://cdn.pkmer.cn/covers/any-block_2_10.png!pkmer)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_11.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/any-block_2_11.gif)
 
 ![](https://cdn.pkmer.cn/covers/any-block_2_12.png!pkmer)
 

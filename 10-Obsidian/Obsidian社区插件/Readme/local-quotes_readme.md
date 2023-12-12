@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从整个存储库中收集您的引用，并在不同位置嵌入它们，并设置刷新延迟。
 
-![Local Quotes](https://cdn.pkmer.cn/covers/local-quotes_new.gif!pkmer)
+![Local Quotes](https://cdn.pkmer.cn/covers/local-quotes_new.gif)
 
 > [!tip] 原文出处
 >
@@ -54,7 +54,7 @@ modified: 20230101000000
 - 使用刷新按钮立即获取新内容
 - 观看并实时查看您的引用如何更新
 
-![演示](https://cdn.pkmer.cn/covers/local-quotes_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/local-quotes_1_0.gif)
 
 ## 🎯 目的
 
@@ -70,7 +70,7 @@ modified: 20230101000000
 
 创建引用块的最简单方法是使用“引用制作工具”模态框。您可以使用“打开引用制作工具”命令来召唤它。然后只需按照说明操作，点击“插入引用”按钮。然后，您的引用块将被插入到光标位置（请记住，您需要处于**编辑**模式）。
 
-![modal](https://cdn.pkmer.cn/covers/local-quotes_1_1.gif!pkmer)
+![modal](https://cdn.pkmer.cn/covers/local-quotes_1_1.gif)
 
 ## ✍️ 自己制作引用块
 

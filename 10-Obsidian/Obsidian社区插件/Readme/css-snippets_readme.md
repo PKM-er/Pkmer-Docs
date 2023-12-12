@@ -24,7 +24,7 @@ modified: 20230101000000
 
 用于加载自定义 css 片段
 
-![css snippets](https://cdn.pkmer.cn/covers/css-snippets_new.gif!pkmer)
+![css snippets](https://cdn.pkmer.cn/covers/css-snippets_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个用于加载自定义 CSS 代码片段的 Obsidian 插件
 
-![示例动画](https://cdn.pkmer.cn/covers/css-snippets_2_0.gif!pkmer)
+![示例动画](https://cdn.pkmer.cn/covers/css-snippets_2_0.gif)
 
 ## 用法
 

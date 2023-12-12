@@ -68,13 +68,13 @@ modified: 20230101000000
 
 在 Obsidian 内部，对您的代码片段进行快速、强大的搜索。
 
-![管理您的代码片段](https://cdn.pkmer.cn/covers/pieces-for-developers_2_2.gif!pkmer)
+![管理您的代码片段](https://cdn.pkmer.cn/covers/pieces-for-developers_2_2.gif)
 
 在 Obsidian 中分享代码片段，而不会中断您的工作流程
 
 通过在 Obsidian 中进行简单的右键单击操作，与他人分享代码片段。链接中包含代码片段及其相关上下文 - 标签、描述、来源等等！
 
-![分享您的代码片段](https://cdn.pkmer.cn/covers/pieces-for-developers_2_3.gif!pkmer)
+![分享您的代码片段](https://cdn.pkmer.cn/covers/pieces-for-developers_2_3.gif)
 
 ## 由其他开发人员精心设计
 
@@ -82,7 +82,7 @@ modified: 20230101000000
 * **深度嵌入到 Obsidian 中** - 通过 Pieces for Developers Obsidian 插件完全保存、搜索和共享您的片段
 * 启用键盘**快捷键**
 
-![使用按钮保存](https://cdn.pkmer.cn/covers/pieces-for-developers_2_4.gif!pkmer)
+![使用按钮保存](https://cdn.pkmer.cn/covers/pieces-for-developers_2_4.gif)
 
 ### 命令
 

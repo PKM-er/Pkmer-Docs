@@ -24,7 +24,7 @@ modified: 20230101000000
 
 改进 Obsidian 内的表格书写，对齐，格式化的书写体验
 
-![Advanced Tables](https://cdn.pkmer.cn/covers/table-editor-obsidian.gif!pkmer)
+![Advanced Tables](https://cdn.pkmer.cn/covers/table-editor-obsidian.gif)
 
 > [!tip] 原文出处
 >
@@ -52,7 +52,7 @@ modified: 20230101000000
 
 ## 演示
 
-![基本功能](https://cdn.pkmer.cn/covers/table-editor-obsidian_1_0.gif!pkmer)
+![基本功能](https://cdn.pkmer.cn/covers/table-editor-obsidian_1_0.gif)
 
 如何使用
 
@@ -71,7 +71,7 @@ modified: 20230101000000
 
 ## Markdown 中的公式和电子表格
 
-![公式演示](https://cdn.pkmer.cn/covers/table-editor-obsidian_1_1.gif!pkmer)
+![公式演示](https://cdn.pkmer.cn/covers/table-editor-obsidian_1_1.gif)
 
 有关使用公式的更多信息，请访问 [帮助文档](https://github.com/tgrosinger/advanced-tables-obsidian/blob/main/docs/help.md)。
 

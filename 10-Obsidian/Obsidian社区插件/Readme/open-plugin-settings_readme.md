@@ -24,7 +24,7 @@ modified: 20230101000000
 
 创建一个命令来打开指定的插件设置。
 
-![Open Plugin Settings](https://cdn.pkmer.cn/covers/open-plugin-settings.gif!pkmer)
+![Open Plugin Settings](https://cdn.pkmer.cn/covers/open-plugin-settings.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 从设置中，您还可以刷新列表以删除已删除的插件，并禁用已禁用插件的命令。
 
-![gif演示](https://cdn.pkmer.cn/covers/open-plugin-settings_1_0.gif!pkmer)
+![gif演示](https://cdn.pkmer.cn/covers/open-plugin-settings_1_0.gif)
 
 您还可以使用 `Open other plugin settings` 命令打开任何未注册的插件，并搜索要打开的插件。
 

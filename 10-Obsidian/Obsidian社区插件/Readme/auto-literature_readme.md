@@ -24,7 +24,7 @@ modified: 20230101000000
 
 协助您记录文学笔记。
 
-![autoLiterature](https://cdn.pkmer.cn/covers/auto-literature.gif!pkmer)
+![autoLiterature](https://cdn.pkmer.cn/covers/auto-literature.gif)
 
 > [!tip] 原文出处
 >

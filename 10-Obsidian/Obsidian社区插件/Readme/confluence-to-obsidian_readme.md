@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将 Confluence 空间导入 Obsidian vault。
 
-![Confluence to Obsidian](https://cdn.pkmer.cn/covers/confluence-to-obsidian.gif!pkmer)
+![Confluence to Obsidian](https://cdn.pkmer.cn/covers/confluence-to-obsidian.gif)
 
 > [!tip] 原文出处
 >
@@ -70,4 +70,4 @@ modified: 20230101000000
     - 在 Obsidian 命令面板中选择**Confluence to Obsidian: Import Confluence space**命令
     - 在**Import Confluence space**对话框的**Space directory**中提供从 `zip` 文件中提取的 Confluence 空间文件夹的路径，然后点击**Import**
 
-![import-space](https://cdn.pkmer.cn/covers/confluence-to-obsidian_2_0.gif!pkmer)
+![import-space](https://cdn.pkmer.cn/covers/confluence-to-obsidian_2_0.gif)

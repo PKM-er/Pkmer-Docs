@@ -51,7 +51,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/quick-tagger_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/quick-tagger_2_0.gif)
 
 请注意，此演示是在移动设备上录制的，并通过 Obsidian Commander 在标题栏上添加了按钮。需要进行一些组装。在独立插件中提供了功能区图标和命令面板操作，但这是我首选的工作流程。
 
@@ -70,7 +70,7 @@ modified: 20230101000000
   - 添加一个 Obsidian 命令，用于在活动笔记上切换标签
   - 添加一个状态栏按钮，用于在活动笔记上切换命令
 
-![starred-tag-demo](https://cdn.pkmer.cn/covers/quick-tagger_2_3.gif!pkmer)
+![starred-tag-demo](https://cdn.pkmer.cn/covers/quick-tagger_2_3.gif)
 
 免责声明
 

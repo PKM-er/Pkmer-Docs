@@ -24,7 +24,7 @@ modified: 20230101000000
 
 当创建链接到它们时自动创建笔记。
 
-![Note Auto Creator](https://cdn.pkmer.cn/covers/obsidian-note-autocreator.gif!pkmer)
+![Note Auto Creator](https://cdn.pkmer.cn/covers/obsidian-note-autocreator.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 如何使用
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-note-autocreator_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-note-autocreator_1_0.gif)
 
 在设置菜单中启用插件后，您将能够触发备选链接建议下拉菜单。
 
@@ -79,7 +79,7 @@ modified: 20230101000000
 
 ### 插入模板
 
-![模板演示](https://cdn.pkmer.cn/covers/obsidian-note-autocreator_1_1.gif!pkmer)
+![模板演示](https://cdn.pkmer.cn/covers/obsidian-note-autocreator_1_1.gif)
 
 如果您想将模板应用于新的笔记，您可以通过使用 [Templater](https://github.com/SilentVoid13/Templater) 或 [QuickAdd](https://github.com/chhoumann/quickadd) 选择触发器（默认为 `$`/`€`）来触发模板选择下拉菜单。
 
@@ -190,7 +190,7 @@ modified: 20230101000000
 
 当从建议中选择一个文件夹路径时，路径将被插入，然后您可以继续编写到您想要链接的笔记的其余路径。
 
-![始终显示文件夹路径](https://cdn.pkmer.cn/covers/obsidian-note-autocreator_1_2.gif!pkmer)
+![始终显示文件夹路径](https://cdn.pkmer.cn/covers/obsidian-note-autocreator_1_2.gif)
 
 如果您不想始终在建议中包含文件夹路径，您可以从设置 " 何时显示文件夹建议 " 中选择 " 仅在触发时 " 选项。
 
@@ -198,7 +198,7 @@ modified: 20230101000000
 
 当启用此选项时，只有在您编写的第一个字符与设置 " 仅显示文件夹的触发器 " 中的触发器匹配时，才会显示文件夹。
 
-![仅在触发时显示文件夹路径](https://cdn.pkmer.cn/covers/obsidian-note-autocreator_1_3.gif!pkmer)
+![仅在触发时显示文件夹路径](https://cdn.pkmer.cn/covers/obsidian-note-autocreator_1_3.gif)
 
 ### Templater 模板插入触发器
 

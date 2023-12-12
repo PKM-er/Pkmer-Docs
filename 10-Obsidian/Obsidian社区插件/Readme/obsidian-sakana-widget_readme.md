@@ -24,7 +24,7 @@ modified: 20230101000000
 
 把 Sakana！小部件添加到你自己的 Obsidian！
 
-![Sakana Widget](https://cdn.pkmer.cn/covers/obsidian-sakana-widget_new.gif!pkmer)
+![Sakana Widget](https://cdn.pkmer.cn/covers/obsidian-sakana-widget_new.gif)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ modified: 20230101000000
 
 **注意：**将 Sakana!小部件添加到您自己的 Obsidian 中！在撰写笔记时可以使用它。
 
-![](https://cdn.pkmer.cn/covers/obsidian-sakana-widget_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-sakana-widget_1_0.gif)
 
 - 设置
   - 现在您可以将自己的小部件添加到 Sakana!小部件中。

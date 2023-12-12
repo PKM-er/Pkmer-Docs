@@ -24,7 +24,7 @@ modified: 20230101000000
 
 为音频文件创建笔记。
 
-![Audio Notes](https://cdn.pkmer.cn/covers/obsidian-audio-notes.gif!pkmer)
+![Audio Notes](https://cdn.pkmer.cn/covers/obsidian-audio-notes.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 看看吧！
 
-![](https://cdn.pkmer.cn/covers/obsidian-audio-notes_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-audio-notes_2_0.gif)
 
 <strong>音频笔记</strong>是一个包含音频引用的标注，配有嵌入式音频播放器以重播引用。它看起来像这样：
 

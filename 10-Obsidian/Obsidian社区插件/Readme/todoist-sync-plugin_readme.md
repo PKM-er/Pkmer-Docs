@@ -43,7 +43,7 @@ modified: 20230101000000
 
 一个 [Obsidian](https://obsidian.md/) 插件，用于在 Obsidian 笔记中实现 [Todoist](https://todoist.com/) 任务列表的可视化。
 
-![示例动画](https://cdn.pkmer.cn/covers/todoist-sync-plugin_2_0.gif!pkmer)
+![示例动画](https://cdn.pkmer.cn/covers/todoist-sync-plugin_2_0.gif)
 
 ## 使用方法
 

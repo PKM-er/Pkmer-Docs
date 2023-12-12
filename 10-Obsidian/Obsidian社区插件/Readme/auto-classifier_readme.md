@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 ChatGPT API 自动对您的笔记进行标签分类。它会分析您的笔记（可以是标题、前言、内容或选定区域），并在您设置的位置自动插入标签。
 
-![Auto Classifier](https://cdn.pkmer.cn/covers/auto-classifier_new.gif!pkmer)
+![Auto Classifier](https://cdn.pkmer.cn/covers/auto-classifier_new.gif)
 
 > [!tip] 原文出处
 >
@@ -71,19 +71,19 @@ modified: 20230101000000
 
 ### 使用案例＃1：**选定区域** &rightarrow; **当前光标**
 
-![](https://cdn.pkmer.cn/covers/auto-classifier_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/auto-classifier_2_0.gif)
 
 ### 使用案例＃2：**内容** &rightarrow; **FrontMatter**
 
-![](https://cdn.pkmer.cn/covers/auto-classifier_2_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/auto-classifier_2_1.gif)
 
 ### 使用案例＃3：**FrontMatter** &rightarrow; **Title**
 
-![](https://cdn.pkmer.cn/covers/auto-classifier_2_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/auto-classifier_2_2.gif)
 
 ### 使用案例＃4：**标题** &rightarrow; **FrontMatter**
 
-![](https://cdn.pkmer.cn/covers/auto-classifier_2_3.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/auto-classifier_2_3.gif)
 
 ### DDC 编号分类
 

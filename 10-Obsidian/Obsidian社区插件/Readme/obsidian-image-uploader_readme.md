@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件可以在粘贴时自动将剪贴板中的图像上传到任何图像托管。
 
-![Image Uploader](https://cdn.pkmer.cn/covers/obsidian-image-uploader.gif!pkmer)
+![Image Uploader](https://cdn.pkmer.cn/covers/obsidian-image-uploader.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Obsidian 图片上传器
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-uploader_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-image-uploader_1_0.gif)
 
 当粘贴时，此插件可以自动调整大小（可选）并将剪贴板中的图片上传到任何图片托管服务。
 

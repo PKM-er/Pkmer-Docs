@@ -41,7 +41,7 @@ modified: 20230101000000
 
 [English](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) [中文](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap/blob/main/Readme-zh.md)
 
-![test](https://cdn.pkmer.cn/covers/obsidian-enhancing-mindmap_1_0.gif!pkmer)
+![test](https://cdn.pkmer.cn/covers/obsidian-enhancing-mindmap_1_0.gif)
 
 ## 将输出此 markdown
 
@@ -102,7 +102,7 @@ modified: 20230101000000
 5. 在板之间同步数据
 ...
 
-![test (2)](https://cdn.pkmer.cn/covers/obsidian-enhancing-mindmap_1_1.gif!pkmer)
+![test (2)](https://cdn.pkmer.cn/covers/obsidian-enhancing-mindmap_1_1.gif)
 
 ## 手动安装
 

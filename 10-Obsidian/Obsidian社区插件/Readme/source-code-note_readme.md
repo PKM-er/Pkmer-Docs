@@ -24,7 +24,7 @@ modified: 20230101000000
 
 帮助您轻松组织源代码注释。
 
-![Source Code Note](https://cdn.pkmer.cn/covers/source-code-note_new.gif!pkmer)
+![Source Code Note](https://cdn.pkmer.cn/covers/source-code-note_new.gif)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ modified: 20230101000000
 ## 功能
 
 - 解析 Obsidian 笔记中的代码块，绘制方法调用链接的图形，并将代码块保留在画布上以便于查看
-![演示](https://cdn.pkmer.cn/covers/source-code-note_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/source-code-note_2_0.gif)
 
 如何使用
 

@@ -60,7 +60,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示动画](https://cdn.pkmer.cn/covers/jira-linker_2_0.gif!pkmer)
+![演示动画](https://cdn.pkmer.cn/covers/jira-linker_2_0.gif)
 
 ## 如何使用
 

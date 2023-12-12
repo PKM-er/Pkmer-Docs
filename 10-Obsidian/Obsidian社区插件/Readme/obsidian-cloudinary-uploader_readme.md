@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将从剪贴板复制的图像上传到 Cloudinary
 
-![Obsidian Cloudinary Uploader](https://cdn.pkmer.cn/covers/obsidian-cloudinary-uploader.gif!pkmer)
+![Obsidian Cloudinary Uploader](https://cdn.pkmer.cn/covers/obsidian-cloudinary-uploader.gif)
 
 > [!tip] 原文出处
 >
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 ## 工作原理
 
-![动作GIF](https://cdn.pkmer.cn/covers/obsidian-cloudinary-uploader_1_2.gif!pkmer)
+![动作GIF](https://cdn.pkmer.cn/covers/obsidian-cloudinary-uploader_1_2.gif)
 
 ## 配置
 

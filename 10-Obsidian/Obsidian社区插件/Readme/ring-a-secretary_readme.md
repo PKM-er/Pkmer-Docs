@@ -24,7 +24,7 @@ modified: 20230101000000
 
 又一个由 ChatGPT 驱动的数字秘书
 
-![Ring a secretary](https://cdn.pkmer.cn/covers/ring-a-secretary_new.gif!pkmer)
+![Ring a secretary](https://cdn.pkmer.cn/covers/ring-a-secretary_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 Obsidian 中又一个由 ChatGPT 驱动的助手。
 
-![screenshot](https://cdn.pkmer.cn/covers/ring-a-secretary_1_0.gif!pkmer)
+![screenshot](https://cdn.pkmer.cn/covers/ring-a-secretary_1_0.gif)
 
 注意：我们需要 [ChatGPT的API密钥](https://platform.openai.com/account/api-keys) 来使用这个插件。
 

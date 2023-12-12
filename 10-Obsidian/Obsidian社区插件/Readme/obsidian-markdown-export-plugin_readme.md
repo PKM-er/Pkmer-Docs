@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这是一个 Obsidian 的 Markdown 导出插件。
 
-![Obsidian Markdown export](https://cdn.pkmer.cn/covers/obsidian-markdown-export-plugin_new.gif!pkmer)
+![Obsidian Markdown export](https://cdn.pkmer.cn/covers/obsidian-markdown-export-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 ---
 
-![screenshot](https://cdn.pkmer.cn/covers/obsidian-markdown-export-plugin_2_0.gif!pkmer)
+![screenshot](https://cdn.pkmer.cn/covers/obsidian-markdown-export-plugin_2_0.gif)
 
 ## 特点
 

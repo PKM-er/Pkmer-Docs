@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # MetaEdit for Obsidian
 
-![v554FnTthq](https://cdn.pkmer.cn/covers/metaedit_1_0.gif!pkmer)
+![v554FnTthq](https://cdn.pkmer.cn/covers/metaedit_1_0.gif)
 
 ## 特点
 
@@ -137,7 +137,7 @@ _%>
 - [ ] <% tp.file.cursor() %>
 ```
 
-![3EfcPLYkj6](https://cdn.pkmer.cn/covers/metaedit_1_1.gif!pkmer)
+![3EfcPLYkj6](https://cdn.pkmer.cn/covers/metaedit_1_1.gif)
 
 #### 在 Dataview 表格中完成任务（按钮版本）
 
@@ -156,7 +156,7 @@ dv.table(["Name", "Status", "Project", "Due Date", ""], dv.pages("#tasks")
 ````
 ````````
 
-![CBrFA0qHr4](https://cdn.pkmer.cn/covers/metaedit_1_2.gif!pkmer)
+![CBrFA0qHr4](https://cdn.pkmer.cn/covers/metaedit_1_2.gif)
 
 #### 在 Dataview 表格中完成任务（HTML 按钮版本）
 
@@ -181,7 +181,7 @@ dv.table(["名称", "状态", "项目", "截止日期", ""], dv.pages("#tasks")
 ```
 ````
 
-![BnAVIV4XCM](https://cdn.pkmer.cn/covers/metaedit_1_3.gif!pkmer)
+![BnAVIV4XCM](https://cdn.pkmer.cn/covers/metaedit_1_3.gif)
 
 ---
 

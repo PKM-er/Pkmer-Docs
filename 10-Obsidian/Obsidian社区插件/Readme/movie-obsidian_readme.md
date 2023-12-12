@@ -24,7 +24,7 @@ modified: 20230101000000
 
 搜索电影信息和预告片。
 
-![Movie](https://cdn.pkmer.cn/covers/movie-obsidian_new.gif!pkmer)
+![Movie](https://cdn.pkmer.cn/covers/movie-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个插件是一个简单的插件，可以让你从 [omdb](https://www.omdbapi.com/) 和 Youtube 预告片中爬取电影数据。
 
-![Screencast-from-2023-05-30-16-36-23](https://cdn.pkmer.cn/covers/movie-obsidian_1_0.gif!pkmer)
+![Screencast-from-2023-05-30-16-36-23](https://cdn.pkmer.cn/covers/movie-obsidian_1_0.gif)
 
 ## 使用方法
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在 Obsidian 笔记中绘制 nomnoml 图表
 
-![Nomnoml Diagram](https://cdn.pkmer.cn/covers/obsidian-nomnoml-diagram.gif!pkmer)
+![Nomnoml Diagram](https://cdn.pkmer.cn/covers/obsidian-nomnoml-diagram.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 ## Obsidian nomnoml Diagram
 
-![nomnoml图表示例](https://cdn.pkmer.cn/covers/obsidian-nomnoml-diagram_1_0.gif!pkmer)
+![nomnoml图表示例](https://cdn.pkmer.cn/covers/obsidian-nomnoml-diagram_1_0.gif)
 
 这个 [Obsidian](https://obsidian.md/) 插件允许你在 Obsidian 笔记中绘制 [nomnoml](https://www.nomnoml.com/) 图表。
 

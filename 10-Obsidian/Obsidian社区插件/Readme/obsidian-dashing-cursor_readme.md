@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使光标跟随页面滚动而闪烁
 
-![Dashing Cursor](https://cdn.pkmer.cn/covers/obsidian-dashing-cursor_new.gif!pkmer)
+![Dashing Cursor](https://cdn.pkmer.cn/covers/obsidian-dashing-cursor_new.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Obsidian Dashing Cursor
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-dashing-cursor_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-dashing-cursor_2_0.gif)
 
 该插件在光标位置之间添加了一个虚线效果。该项目最初是 [ninja-cursor](https://github.com/vrtmrz/ninja-cursor) 的一个分支，但在以下方面进行了大部分重写：
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于 Notion 提供的功能。
 
-![Folder notes](https://cdn.pkmer.cn/covers/folder-notes.gif!pkmer)
+![Folder notes](https://cdn.pkmer.cn/covers/folder-notes.gif)
 
 > [!tip] 原文出处
 >
@@ -67,7 +67,7 @@ modified: 20230101000000
 
 #### 打开文件夹笔记
 
-![wzk25GXUpc](https://cdn.pkmer.cn/covers/folder-notes_1_0.gif!pkmer)
+![wzk25GXUpc](https://cdn.pkmer.cn/covers/folder-notes_1_0.gif)
 
 自动创建文件夹笔记
 

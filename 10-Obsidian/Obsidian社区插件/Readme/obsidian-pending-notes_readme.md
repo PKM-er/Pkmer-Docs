@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obsidian 插件可以在你的保险库中搜索没有笔记的链接。
 
-![Pending notes](https://cdn.pkmer.cn/covers/obsidian-pending-notes_new.gif!pkmer)
+![Pending notes](https://cdn.pkmer.cn/covers/obsidian-pending-notes_new.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ Obsidian 插件可以在你的保险库中搜索没有笔记的链接。
 
 待处理笔记旨在将您在写作过程中创建的所有链接收集到一个地方，但这些链接尚未指向任何地方。通过此插件，您可以轻松创建这些笔记。
 
-![展示插件的使用方式](https://cdn.pkmer.cn/covers/obsidian-pending-notes_2_0.gif!pkmer)
+![展示插件的使用方式](https://cdn.pkmer.cn/covers/obsidian-pending-notes_2_0.gif)
 
 您可以从左侧边栏或通过命令面板使用它：
 

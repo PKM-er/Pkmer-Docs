@@ -57,7 +57,7 @@ modified: 20230101000000
 
 Obsidian 插件，用于检查文本中的语法和拼写错误。
 
-![Gif](https://cdn.pkmer.cn/covers/obsidian-orthography_2_0.gif!pkmer)
+![Gif](https://cdn.pkmer.cn/covers/obsidian-orthography_2_0.gif)
 
 **重要提示**：
 

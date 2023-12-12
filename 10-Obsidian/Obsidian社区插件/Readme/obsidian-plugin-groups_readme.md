@@ -86,7 +86,7 @@ modified: 20230101000000
 
 ### 创建一个分组
 
-![group-creation](https://cdn.pkmer.cn/covers/obsidian-plugin-groups_1_0.gif!pkmer)
+![group-creation](https://cdn.pkmer.cn/covers/obsidian-plugin-groups_1_0.gif)
 
 要创建一个新的分组，请前往插件设置，输入分组的名称，然后点击“+”按钮。然后，您可以：
 
@@ -107,7 +107,7 @@ modified: 20230101000000
 - 插件分组启用：“您的分组名称”
 - 插件分组禁用：“您的分组名称”
 
-![commands](https://cdn.pkmer.cn/covers/obsidian-plugin-groups_1_1.gif!pkmer)
+![commands](https://cdn.pkmer.cn/covers/obsidian-plugin-groups_1_1.gif)
 
 ### 惰性加载（Obsidian 启动时的延迟加载）
 
@@ -120,7 +120,7 @@ modified: 20230101000000
    2. 为插件设置延迟时间。
 3. 完成！在下次启动时，您应该会看到启动时间有所改善。
 
-![startup-demo](https://cdn.pkmer.cn/covers/obsidian-plugin-groups_1_2.gif!pkmer)
+![startup-demo](https://cdn.pkmer.cn/covers/obsidian-plugin-groups_1_2.gif)
 
 支持
 

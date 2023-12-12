@@ -24,7 +24,7 @@ modified: 20230101000000
 
 简单地用活动窗格填充工作区。
 
-![Maximise Active Pane](https://cdn.pkmer.cn/covers/maximise-active-pane-obsidian.gif!pkmer)
+![Maximise Active Pane](https://cdn.pkmer.cn/covers/maximise-active-pane-obsidian.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，它可以将工作区填满活动窗格。按下 `ctrl`+`shift`+`x`（默认）来最大化或取消最大化当前活动窗格。
 
-![截图](https://cdn.pkmer.cn/covers/maximise-active-pane-obsidian_1_2.gif!pkmer)
+![截图](https://cdn.pkmer.cn/covers/maximise-active-pane-obsidian_1_2.gif)
 
 ### 兼容性
 

@@ -56,7 +56,7 @@ Pickly PageBlend - 分享你的 Obsidian 笔记的最简单方式。
 
 等待笔记发布完成后，您将收到一个已发布文件的链接。
 
-![example.gif](https://cdn.pkmer.cn/covers/pickly-page-blend_2_0.gif!pkmer)
+![example.gif](https://cdn.pkmer.cn/covers/pickly-page-blend_2_0.gif)
 
 预览
 

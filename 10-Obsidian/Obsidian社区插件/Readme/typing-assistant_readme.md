@@ -41,7 +41,7 @@ modified: 20230101000000
 
 ## 演示
 
-![Typing Assistant 演示](https://cdn.pkmer.cn/covers/typing-assistant_2_0.gif!pkmer)
+![Typing Assistant 演示](https://cdn.pkmer.cn/covers/typing-assistant_2_0.gif)
 
 ## 使用方法
 

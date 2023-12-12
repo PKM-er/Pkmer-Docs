@@ -24,7 +24,7 @@ modified: 20230101000000
 
 切换两侧边栏（双击中键或使用自定义快捷键），或者通过点击中键并将鼠标移向相应的边栏来切换每个边栏。
 
-![Easy toggle sidebars](https://cdn.pkmer.cn/covers/easy-toggle-sidebars_new.gif!pkmer)
+![Easy toggle sidebars](https://cdn.pkmer.cn/covers/easy-toggle-sidebars_new.gif)
 
 > [!tip] 原文出处
 >

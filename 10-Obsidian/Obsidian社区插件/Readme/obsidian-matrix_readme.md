@@ -45,7 +45,7 @@ Obsidian-matrix 允许您快速轻松地创建 LaTeX 矩阵。
 
 展示 Obsidian-matrix 的简单视频：
 
-![用法](https://cdn.pkmer.cn/covers/obsidian-matrix_2_0.gif!pkmer)
+![用法](https://cdn.pkmer.cn/covers/obsidian-matrix_2_0.gif)
 
 ### 安装
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 OpenAI 和 Bing API，在 PDF 附件或 Web 搜索结果的上下文中生成音频转录、图像和文本。
 
-![AI Commander](https://cdn.pkmer.cn/covers/ai-commander.gif!pkmer)
+![AI Commander](https://cdn.pkmer.cn/covers/ai-commander.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 **AI Commander** 是一个简单的 AI 连接器，它可以帮助您使用 OpenAI（ChatGPT）API 和必应搜索引擎的强大功能来编写笔记。
 
-![演示](https://cdn.pkmer.cn/covers/ai-commander_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/ai-commander_2_0.gif)
 
 使用此插件需要 [OpenAI API 密钥](https://platform.openai.com/account/api-keys)。
 

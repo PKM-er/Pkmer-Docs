@@ -24,7 +24,7 @@ modified: 20230101000000
 
 可以通过你对应设备谁想投，拍摄照片和视频记录，将其保存在仓库中，并创建并粘贴链接到记录。【注意此插件并非适配所有的笔记本和移动端手机】
 
-![Obsidian Camera](https://cdn.pkmer.cn/covers/obsidian-camera_new.gif!pkmer)
+![Obsidian Camera](https://cdn.pkmer.cn/covers/obsidian-camera_new.gif)
 
 > [!tip] 原文出处
 >
@@ -75,9 +75,9 @@ Obsidian 相机是 Obsidian（<https://obsidian.md）的相机插件。>
 
 ## 演示
 
-<!-- ![https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif!pkmer](https://cdn.pkmer.cn/covers/obsidian-camera_1_0.gif!pkmer) -->
+<!-- ![https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif](https://cdn.pkmer.cn/covers/obsidian-camera_1_0.gif) -->
 
-![https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif!pkmer](https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif!pkmer)
+![https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif](https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif)
 
 <!-- ![modal screenshot](https://cdn.pkmer.cn/covers/obsidian-camera_2_1.png!pkmer) -->
 

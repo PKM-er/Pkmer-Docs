@@ -41,11 +41,11 @@ Obsidian 专注模式
 
 为 Obsidian 添加专注模式。
 
-![专注模式演示](https://cdn.pkmer.cn/covers/obsidian-focus-mode_1_0.gif!pkmer)
+![专注模式演示](https://cdn.pkmer.cn/covers/obsidian-focus-mode_1_0.gif)
 
 现在还有“超级专注”模式（<kbd>Shift</kbd> + `左键单击`），它只会专注于活动窗格。在普通的 `左键单击` 上仍然存在原始行为。
 
-![超级专注模式和命令/热键演示](https://cdn.pkmer.cn/covers/obsidian-focus-mode_1_1.gif!pkmer)
+![超级专注模式和命令/热键演示](https://cdn.pkmer.cn/covers/obsidian-focus-mode_1_1.gif)
 
 ### 快捷键
 

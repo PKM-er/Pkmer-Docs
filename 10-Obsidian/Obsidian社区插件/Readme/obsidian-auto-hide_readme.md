@@ -24,7 +24,7 @@ modified: 20230101000000
 
 点击编辑器/查看器面板时折叠侧边栏
 
-![Auto Hide](https://cdn.pkmer.cn/covers/obsidian-auto-hide_new.gif!pkmer)
+![Auto Hide](https://cdn.pkmer.cn/covers/obsidian-auto-hide_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-auto-hide_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-auto-hide_1_0.gif)
 
 ## 特点
 
@@ -52,4 +52,4 @@ modified: 20230101000000
     - 单击左/右侧边栏的空白区域。
     - 单击笔记标题。
 
-![demo2](https://cdn.pkmer.cn/covers/obsidian-auto-hide_1_1.gif!pkmer)
+![demo2](https://cdn.pkmer.cn/covers/obsidian-auto-hide_1_1.gif)

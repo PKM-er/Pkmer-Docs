@@ -59,11 +59,11 @@ modified: 20230101000000
 
 ### 同步和历史记录
 
-![SyncAndHistory](https://cdn.pkmer.cn/covers/notes-sync-share_2_1.gif!pkmer)
+![SyncAndHistory](https://cdn.pkmer.cn/covers/notes-sync-share_2_1.gif)
 
 ### 分享
 
-![分享](https://cdn.pkmer.cn/covers/notes-sync-share_2_2.gif!pkmer)
+![分享](https://cdn.pkmer.cn/covers/notes-sync-share_2_2.gif)
 
 ## 入门指南
 

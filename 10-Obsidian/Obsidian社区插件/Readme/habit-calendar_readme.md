@@ -24,7 +24,7 @@ modified: 20230101000000
 
 创建一个可视化的月历视图，让你可以自己添加关键的日期和注意事项。此插件依赖 dataview 插件，并且需要你熟悉 dataviewJS 语法。
 
-![Habit Calendar](https://cdn.pkmer.cn/covers/habit-calendar.GIF!pkmer)
+![Habit Calendar](https://cdn.pkmer.cn/covers/habit-calendar.gif)
 
 > [!tip] 原文出处
 >
@@ -168,7 +168,7 @@ renderHabitCalendar(this.container, dv, {
 
 如果您的每日笔记采用 `YYYY-MM-DD` 格式，日历将自动与您的每日笔记关联。您可以将鼠标悬停在数字上或单击数字以访问相应的笔记。
 
-![hover](https://cdn.pkmer.cn/covers/habit-calendar_2_3.gif!pkmer)
+![hover](https://cdn.pkmer.cn/covers/habit-calendar_2_3.gif)
 
 ### 使用 HTML 填充日历
 

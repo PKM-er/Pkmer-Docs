@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许在笔记中执行代码片段。
 
-![Execute Code](https://cdn.pkmer.cn/covers/execute-code_new.gif!pkmer)
+![Execute Code](https://cdn.pkmer.cn/covers/execute-code_new.gif)
 
 > [!tip] 原文出处
 >
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 只有在执行完成后才会显示结果。现在无法在命令行中输入文本到执行的程序中。
 
-![展示插件工作原理的视频。](https://cdn.pkmer.cn/covers/execute-code_1_3.gif!pkmer)
+![展示插件工作原理的视频。](https://cdn.pkmer.cn/covers/execute-code_1_3.gif)
 
 支持以下 [编程语言](#supported-programming-languages-): C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript, Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell, Scala, Racket, F#, Batch, Shell & Powershell, Octave 和 Maxima。
 

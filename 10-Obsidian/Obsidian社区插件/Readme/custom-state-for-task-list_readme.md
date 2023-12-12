@@ -24,7 +24,7 @@ modified: 20230101000000
 
 向任务列表项添加自定义状态。
 
-![Custom State for Task List](https://cdn.pkmer.cn/covers/custom-state-for-task-list.gif!pkmer)
+![Custom State for Task List](https://cdn.pkmer.cn/covers/custom-state-for-task-list.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，可以帮助您定义自己的任务列表状态！
 
-![](https://cdn.pkmer.cn/covers/custom-state-for-task-list_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/custom-state-for-task-list_2_0.gif)
 
 如何安装
 

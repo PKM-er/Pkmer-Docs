@@ -24,7 +24,7 @@ modified: 20230101000000
 
 隐藏文件夹
 
-![Hidden Folder](https://cdn.pkmer.cn/covers/hidden-folder-obsidian.gif!pkmer)
+![Hidden Folder](https://cdn.pkmer.cn/covers/hidden-folder-obsidian.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ Obsidian 中的隐藏文件夹：
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/hidden-folder-obsidian_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/hidden-folder-obsidian_2_0.gif)
 
 # 示例
 

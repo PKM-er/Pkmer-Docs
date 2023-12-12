@@ -43,7 +43,7 @@ Obsidian Journey 插件 - 发现你的笔记之间的故事！
 
 ![GitHub所有发布](https://img.shields.io/github/downloads/akaalias/obsidian-journey-plugin/total)
 
-![](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-journey-plugin_1_2.gif)
 
 嗨，欢迎你！
 

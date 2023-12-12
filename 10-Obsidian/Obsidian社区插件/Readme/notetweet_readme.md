@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从 Obsidian 发布推文。
 
-![NoteTweet](https://cdn.pkmer.cn/covers/notetweet_new.gif!pkmer)
+![NoteTweet](https://cdn.pkmer.cn/covers/notetweet_new.gif)
 
 > [!tip] 原文出处
 >
@@ -58,7 +58,7 @@ modified: 20230101000000
 
 欢迎推荐功能！
 
-![8jE9wvKuls](https://cdn.pkmer.cn/covers/notetweet_1_2.gif!pkmer)
+![8jE9wvKuls](https://cdn.pkmer.cn/covers/notetweet_1_2.gif)
 
 如何使用
 

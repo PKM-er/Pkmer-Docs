@@ -131,7 +131,7 @@ The integral `$int _0^(+oo) "e"^(-x) dx = 1$`.
 - 插入 AsciiMath 代码块
 - 将当前文件中的 AsciiMath 转换为 MathJax
 
-![](https://cdn.pkmer.cn/covers/obsidian-asciimath_2_3.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-asciimath_2_3.gif)
 
 ## 开发
 

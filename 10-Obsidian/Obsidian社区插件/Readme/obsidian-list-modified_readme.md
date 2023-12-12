@@ -49,7 +49,7 @@ modified: 20230101000000
 
 这是结果...
 
-![插件演示gif](https://cdn.pkmer.cn/covers/obsidian-list-modified_2_1.gif!pkmer)
+![插件演示gif](https://cdn.pkmer.cn/covers/obsidian-list-modified_2_1.gif)
 
 # 使用和配置
 

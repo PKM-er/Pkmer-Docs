@@ -45,7 +45,7 @@ modified: 20230101000000
 
 一个用于在 S3 兼容服务上存储和检索媒体附件的 [Obsidian](https://obsidian.md/) 插件。
 
-![](https://cdn.pkmer.cn/covers/s3-attachments-storage_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/s3-attachments-storage_2_0.gif)
 
 ## 开始使用
 

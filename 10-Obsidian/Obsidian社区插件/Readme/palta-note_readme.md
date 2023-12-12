@@ -39,7 +39,7 @@ modified: 20230101000000
 
 在 Obsidian 中使用 Bhatkhande 记谱法编写 Kaydas、Gats 和 Relas。在底层，它使用 [`<palta-note>`](https://github.com/mrniket/palta-note) web 组件。
 
-![Palta Obsidian 插件使用演示](https://cdn.pkmer.cn/covers/palta-note_2_0.gif!pkmer)
+![Palta Obsidian 插件使用演示](https://cdn.pkmer.cn/covers/palta-note_2_0.gif)
 
 ## 使用方法
 

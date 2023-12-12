@@ -24,7 +24,7 @@ modified: 20230101000000
 
 每日笔记，但嵌套在每日文件夹中，并附有一行摘要，更适合附件管理和快速浏览。
 
-![Daily Named Folder](https://cdn.pkmer.cn/covers/obsidian-daily-named-folder_new.gif!pkmer)
+![Daily Named Folder](https://cdn.pkmer.cn/covers/obsidian-daily-named-folder_new.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 > 使用本插件可能（可能）无法与其他依赖于 `daily-notes` 默认实现的插件（如 `Calendar`）一起使用，并且可能会对命名文件夹感到困惑。
 
-![apple](https://cdn.pkmer.cn/covers/obsidian-daily-named-folder_1_0.gif!pkmer)
+![apple](https://cdn.pkmer.cn/covers/obsidian-daily-named-folder_1_0.gif)
 
 该插件实现了 `daily-notes` 插件的大部分功能，并添加了一些新功能：
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这是迄今为止最好的 Obsidian Todoist 任务同步插件。
 
-![Ultimate Todoist Sync](https://cdn.pkmer.cn/covers/ultimate-todoist-sync_new.gif!pkmer)
+![Ultimate Todoist Sync](https://cdn.pkmer.cn/covers/ultimate-todoist-sync_new.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 ### 使用方法
 
-![Alt Text](https://cdn.pkmer.cn/covers/ultimate-todoist-sync_2_0.gif!pkmer)
+![Alt Text](https://cdn.pkmer.cn/covers/ultimate-todoist-sync_2_0.gif)
 
 ### 设置页面
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在文件资源管理器中，将前置元数据别名显示为显示名称。
 
-![Frontmatter Alias Display](https://cdn.pkmer.cn/covers/frontmatter-alias-display.gif!pkmer)
+![Frontmatter Alias Display](https://cdn.pkmer.cn/covers/frontmatter-alias-display.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这是一个为 Obsidian.md 设计的插件，可以在文件资源管理器中将前言别名显示为文件名。目前，它只支持文件资源管理器，但我计划在图形视图中也实现这个功能。
 
-![演示](https://cdn.pkmer.cn/covers/frontmatter-alias-display_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/frontmatter-alias-display_2_0.gif)
 
 为什么？
 
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 因此，现在我们可以保持笔记 ID 的纯净性，同时在前置数据中保持一个信息丰富的标题。当我们链接到另一个笔记时，我们可以使用 Obsidian 的有用的链接别名，通过输入 `[[ID|Alias]]` 来链接到以 `ID` 为标题的笔记，但显示 `Alias` 作为链接。
 
-![使用“[[ID|Alias]]”](https://cdn.pkmer.cn/covers/frontmatter-alias-display_2_1.gif!pkmer)
+![使用“[[ID|Alias]]”](https://cdn.pkmer.cn/covers/frontmatter-alias-display_2_1.gif)
 
 #### 反馈
 

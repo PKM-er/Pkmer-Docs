@@ -24,7 +24,7 @@ modified: 20230101000000
 
 输入文本快捷键，然后用 JavaScript 生成的文本替换它们。
 
-![Inline Scripts](https://cdn.pkmer.cn/covers/obsidian-text-expander-js.gif!pkmer)
+![Inline Scripts](https://cdn.pkmer.cn/covers/obsidian-text-expander-js.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Obsidian 插件 - 内联脚本（公测版）
 
-![演示动画](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_0.gif!pkmer)
+![演示动画](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_0.gif)
 
 ***
 

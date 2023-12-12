@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obsidian 的可嵌入式 Pikchr 图表渲染器插件
 
-![Adamantine Pick](https://cdn.pkmer.cn/covers/adamantine-pick.gif!pkmer)
+![Adamantine Pick](https://cdn.pkmer.cn/covers/adamantine-pick.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ Obsidian 的可嵌入式 Pikchr 图表渲染器插件
 
 演示
 
-![adamantine-pick-demo](https://cdn.pkmer.cn/covers/adamantine-pick_1_2.gif!pkmer)
+![adamantine-pick-demo](https://cdn.pkmer.cn/covers/adamantine-pick_1_2.gif)
 
 使用带有 3 个反引号（波浪线）的注释来标记 `pikchr`，以获取 SVG
 

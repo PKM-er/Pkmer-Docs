@@ -24,7 +24,7 @@ modified: 20230101000000
 
 快速切换卡片视图
 
-![Card View Switcher](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_new.gif!pkmer)
+![Card View Switcher](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 只需执行命令 `Card View Switcher: Open switcher` 即可。
 
-![card-view-switcher-min](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_0.gif!pkmer)
+![card-view-switcher-min](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_0.gif)
 
 ## 搜索模式
 
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 搜索最近打开的 10 个文件的内容和文件名。
 
-![card-view-switcher-recent-search-min](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_1.gif!pkmer)
+![card-view-switcher-recent-search-min](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_1.gif)
 
 ### 普通搜索
 
@@ -61,7 +61,7 @@ modified: 20230101000000
 
 要切换到普通搜索，请在搜索词前加上 `'` 或 `空格`。
 
-![card-view-switcher-normal-search-min](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_2.gif!pkmer)
+![card-view-switcher-normal-search-min](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_2.gif)
 
 ### 随机搜索
 
@@ -69,4 +69,4 @@ modified: 20230101000000
 
 要切换到随机搜索，请在搜索词前加上 `;`。
 
-![card-view-random-search-min (2)](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_3.gif!pkmer)
+![card-view-random-search-min (2)](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_3.gif)

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 智能选择单词和行的快捷键，在应用标记之前支持多个光标。
 
-![Smarter Markdown Hotkeys](https://cdn.pkmer.cn/covers/obsidian-smarter-md-hotkeys_new.gif!pkmer)
+![Smarter Markdown Hotkeys](https://cdn.pkmer.cn/covers/obsidian-smarter-md-hotkeys_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md/) 提供的插件，提供了在应用标记之前以智能方式选择单词和行的快捷键 [^4]。同时支持多个光标。
 
-![演示视频](https://cdn.pkmer.cn/covers/obsidian-smarter-md-hotkeys_2_0.gif!pkmer)
+![演示视频](https://cdn.pkmer.cn/covers/obsidian-smarter-md-hotkeys_2_0.gif)
 
 ## 目录
 

@@ -70,11 +70,11 @@ modified: 20230101000000
 
 在 Flexible Pomodoro 中，典型的工作流程是**开始**你的番茄钟。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_1.gif)
 
 在 25 分钟的工作期结束时，系统会询问你是否要延长时间。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_2.gif)
 
 如果你选择**是**，你的番茄钟将会延长，一个秒表会出现而不是倒计时器。如果你选择**否**，一个休息计时器会开始。如果你选择**本次不延长**，正常的番茄钟循环计时器会启动。
 
@@ -141,7 +141,7 @@ modified: 20230101000000
 
 为了使其正常工作，选项中应该打开番茄钟记录功能。
 
-![log_pomodoro_time](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_6.gif!pkmer)
+![log_pomodoro_time](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_6.gif)
 
 ### 在状态栏中显示活动笔记
 
@@ -177,7 +177,7 @@ modified: 20230101000000
 
 根据 <https://github.com/third774/react-stopwatch> 添加了一个可视化指示器。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_11.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_11.gif)
 
 ### 记录番茄工作法任务
 
@@ -193,7 +193,7 @@ modified: 20230101000000
 
 这将使用户能够记录添加和完成这些多个文件的任务。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_12.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_12.gif)
 
 ### 持久工作台
 
@@ -201,7 +201,7 @@ modified: 20230101000000
 
 请确保首先设置您的工作台文件夹。保存的工作台文件将放置在此文件夹中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_13.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_13.gif)
 
 ### 将 Pomo 工作台另存为
 
@@ -209,19 +209,19 @@ modified: 20230101000000
 
 要使工作台持久化，请确保调用 **将 Pomo 工作台另存为** 命令。
 
-![](savehttps://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_12.gif!pkmer)
+![](savehttps://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_12.gif)
 
 ### 加载工作台
 
 加载工作台命令用于加载之前创建的工作台。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_15.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_15.gif)
 
 可排序工作台
 
 已添加额外的命令以对工作台内容进行排序。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_16.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_16.gif)
 
 ### 附加命令
 

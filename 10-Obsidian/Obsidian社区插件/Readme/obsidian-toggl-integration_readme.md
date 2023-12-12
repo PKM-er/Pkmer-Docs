@@ -24,7 +24,7 @@ modified: 20230101000000
 
 添加与 Toggl Track API 的集成，以在 Obsidian 内管理计时器。
 
-![Toggl Track](https://cdn.pkmer.cn/covers/obsidian-toggl-integration.gif!pkmer)
+![Toggl Track](https://cdn.pkmer.cn/covers/obsidian-toggl-integration.gif)
 
 > [!tip] 原文出处
 >
@@ -48,7 +48,7 @@ modified: 20230101000000
 - 在侧边栏中获取一天的摘要
 - 使用命令面板创建、启动和停止新的计时器，或重新启动最近的计时器
 
-![](https://cdn.pkmer.cn/covers/obsidian-toggl-integration_1_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-toggl-integration_1_2.gif)
 
 在 Obsidian 笔记中，使用简单的代码块可以渲染时间跟踪报告。例如，
 

@@ -41,7 +41,7 @@ modified: 20230101000000
 
 ## 演示
 
-![tistory发布者演示](https://cdn.pkmer.cn/covers/tistory-publisher_2_0.gif!pkmer)
+![tistory发布者演示](https://cdn.pkmer.cn/covers/tistory-publisher_2_0.gif)
 
 如何使用
 

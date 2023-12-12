@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将您的 Todoist 任务与 Markdown 复选框绑定到一起。
 
-![Todoist Text](https://cdn.pkmer.cn/covers/todoist-text.gif!pkmer)
+![Todoist Text](https://cdn.pkmer.cn/covers/todoist-text.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个 Obsidian 插件以文本为中心的方式，将你的 Todoist 任务与 Markdown 复选框集成在一起。
 
-演示：![demo](https://cdn.pkmer.cn/covers/todoist-text_1_0.gif!pkmer)
+演示：![demo](https://cdn.pkmer.cn/covers/todoist-text_1_0.gif)
 
 # 使用方法
 

@@ -47,7 +47,7 @@ modified: 20230101000000
 
 默认情况下，编辑视图中的双冒号隐藏功能是关闭的。如果您希望使用该功能，请在插件设置中将其打开。当激活时，双冒号在实时预览中也会被隐藏。
 
-![编辑视图示例](https://cdn.pkmer.cn/covers/double-colon-conceal_1_2.gif!pkmer)
+![编辑视图示例](https://cdn.pkmer.cn/covers/double-colon-conceal_1_2.gif)
 
 以下情况下不会隐藏双冒号：
 

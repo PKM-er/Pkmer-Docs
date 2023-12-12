@@ -24,7 +24,7 @@ modified: 20230101000000
 
 复制一行
 
-![Duplicate Line](https://cdn.pkmer.cn/covers/duplicate-line.gif!pkmer)
+![Duplicate Line](https://cdn.pkmer.cn/covers/duplicate-line.gif)
 
 > [!tip] 原文出处
 >
@@ -47,4 +47,4 @@ modified: 20230101000000
 
 默认情况下，在 Obsidian 中，如果没有任何选择内容，您可以按下 <kbd>Ctrl C</kbd>，然后按下 <kbd>Ctrl V</kbd> 来复制光标所在的行。
 
-![演示](https://cdn.pkmer.cn/covers/duplicate-line_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/duplicate-line_2_0.gif)

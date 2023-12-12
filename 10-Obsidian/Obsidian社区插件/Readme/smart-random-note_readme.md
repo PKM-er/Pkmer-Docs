@@ -50,7 +50,7 @@ modified: 20230101000000
 - 打开带有标签的随机笔记：打开一个带有选定标签的随机笔记。
 - 打开随机笔记：与核心随机笔记插件类似的行为。
 
-![截图](https://cdn.pkmer.cn/covers/smart-random-note_1_1.gif!pkmer)
+![截图](https://cdn.pkmer.cn/covers/smart-random-note_1_1.gif)
 
 ## 未来计划
 

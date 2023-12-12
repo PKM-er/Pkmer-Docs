@@ -41,7 +41,7 @@ modified: 20230101000000
 
 要下载 Obsidian：[点击这里](https://www.obsidian.md)
 
-![ZettelGPTDemo](https://cdn.pkmer.cn/covers/zettelgpt_1_0.gif!pkmer)
+![ZettelGPTDemo](https://cdn.pkmer.cn/covers/zettelgpt_1_0.gif)
 
 欢迎使用 Obsidian 的 ZettelGPT 插件！🎉 这个强大的插件可以帮助您根据问题从 ChatGPT 生成答案，同时保持对话历史的清晰和有序。节省 GPT 令牌，并享受与 ChatGPT 的流畅互动！🚀
 

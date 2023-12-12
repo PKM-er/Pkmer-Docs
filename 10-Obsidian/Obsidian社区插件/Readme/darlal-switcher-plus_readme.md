@@ -70,19 +70,19 @@ modified: 20230101000000
 
 使用快捷方式启动 Switcher++，使用默认的 `#` 命令触发标题模式，然后输入搜索文本。注意，返回不同的标题级别匹配，以及别名、未解决和常规文件名匹配。
 
-![标题模式gif](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_3.gif!pkmer)
+![标题模式gif](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_3.gif)
 
 ### 符号导航
 
 使用快捷方式启动 Switcher++，过滤所有文件以找到“格式化您的笔记”文件，然后触发符号命令（默认为 `@`）直接打开文件到“外部链接”部分。
 
-![符号模式gif](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_4.gif!pkmer)
+![符号模式gif](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_4.gif)
 
 ### 编辑器导航
 
 使用快捷键直接将 Switcher++ 启动到编辑器模式，过滤当前打开的编辑器以找到“格式化笔记”编辑器并激活它。然后再次使用 Switcher++ 打开“反向链接”侧边栏。
 
-![Symbol Mode gif](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_5.gif!pkmer)
+![Symbol Mode gif](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_5.gif)
 
 通过搜索文件中包含的标题来查找您要查找的文件，而不仅仅是搜索文件名。可以配置此模式来进行搜索：a）严格仅通过第一个 H1 标题进行搜索，如果与 H1 没有匹配，则回退到文件名搜索；b）通过所有标题进行搜索；c）遵守内置的快速切换器设置“仅显示现有”，“显示附件”和“显示所有文件类型”。默认情况下，此模式将显示前 50 个结果。
 

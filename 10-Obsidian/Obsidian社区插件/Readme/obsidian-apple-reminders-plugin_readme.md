@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个插件，试图将苹果提醒带入 Obsidian。
 
-![Apple Reminders](https://cdn.pkmer.cn/covers/obsidian-apple-reminders-plugin_new.gif!pkmer)
+![Apple Reminders](https://cdn.pkmer.cn/covers/obsidian-apple-reminders-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Apple 提醒事项
 
-![与每日笔记一起使用的提醒事项插件](https://cdn.pkmer.cn/covers/obsidian-apple-reminders-plugin_2_0.gif!pkmer)
+![与每日笔记一起使用的提醒事项插件](https://cdn.pkmer.cn/covers/obsidian-apple-reminders-plugin_2_0.gif)
 
 这是一个尝试将 Apple 提醒事项带入 [Obsidian](https://obsidian.md) 的插件。
 

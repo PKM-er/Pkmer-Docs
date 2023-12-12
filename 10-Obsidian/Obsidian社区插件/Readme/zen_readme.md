@@ -24,7 +24,7 @@ modified: 20230101000000
 
 让你的 Obsidian 进入到禅模式
 
-![Zen](https://cdn.pkmer.cn/covers/zen_new.gif!pkmer)
+![Zen](https://cdn.pkmer.cn/covers/zen_new.gif)
 
 > [!tip] 原文出处
 >
@@ -69,7 +69,7 @@ modified: 20230101000000
 
 ### 启用/禁用禅模式
 
-![截图](https://cdn.pkmer.cn/covers/zen_1_2.gif!pkmer)
+![截图](https://cdn.pkmer.cn/covers/zen_1_2.gif)
 
 ### 选项 - 高亮
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 阅读视图（以前的预览模式）中的复制图像、复制 URL 和外部打开 PDF 上下文菜单
 
-![Copy Image and URL context menu](https://cdn.pkmer.cn/covers/copy-url-in-preview.gif!pkmer)
+![Copy Image and URL context menu](https://cdn.pkmer.cn/covers/copy-url-in-preview.gif)
 
 > [!tip] 原文出处
 >
@@ -59,15 +59,15 @@ modified: 20230101000000
 
 复制 URL：
 
-![在桌面上复制URL](https://cdn.pkmer.cn/covers/copy-url-in-preview_1_0.gif!pkmer)
+![在桌面上复制URL](https://cdn.pkmer.cn/covers/copy-url-in-preview_1_0.gif)
 
 在外部打开 PDF：
 
-![在桌面上外部打开PDF](https://cdn.pkmer.cn/covers/copy-url-in-preview_1_1.gif!pkmer)
+![在桌面上外部打开PDF](https://cdn.pkmer.cn/covers/copy-url-in-preview_1_1.gif)
 
 所有功能在移动设备上都可以使用，但仅在 Android 上进行了测试：
 
-![在Android上复制URL](https://cdn.pkmer.cn/covers/copy-url-in-preview_1_2.gif!pkmer)
+![在Android上复制URL](https://cdn.pkmer.cn/covers/copy-url-in-preview_1_2.gif)
 
 ## 安装
 

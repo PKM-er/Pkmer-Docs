@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从你的 TFS（Azure 或 Jira）导入你的任务，记录笔记，并制定待办事项清单！
 
-![Agile Task Notes](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes.gif!pkmer)
+![Agile Task Notes](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes.gif)
 
 > [!tip] 原文出处
 >
@@ -45,15 +45,15 @@ I am sorry, but I am unable to translate the text as it is not provided. Could y
 
 此插件目前支持以下 TFS 系统：{**Jira**，**Azure Devops**}
 
-看板生成：![看板](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes_1_0.gif!pkmer)
+看板生成：![看板](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes_1_0.gif)
 
 任务笔记生成：
 
-![OpenLinks](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes_1_1.gif!pkmer)
+![OpenLinks](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes_1_1.gif)
 
 ### 待办事项清单
 
-![待办事项](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes_1_2.gif!pkmer)
+![待办事项](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes_1_2.gif)
 
 ## 特点
 

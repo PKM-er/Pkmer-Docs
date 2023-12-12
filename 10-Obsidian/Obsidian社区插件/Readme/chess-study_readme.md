@@ -81,7 +81,7 @@ modified: 20230101000000
 
 之后，PGN 查看器/编辑器将渲染，您可以开始使用（样式与您的主题和强调色相匹配）：
 
-![chess-study-codeblock](https://cdn.pkmer.cn/covers/chess-study_2_2.gif!pkmer)
+![chess-study-codeblock](https://cdn.pkmer.cn/covers/chess-study_2_2.gif)
 
 ## 特点
 

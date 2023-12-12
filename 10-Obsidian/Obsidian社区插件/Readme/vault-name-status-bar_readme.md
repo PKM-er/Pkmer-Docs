@@ -47,4 +47,4 @@ modified: 20230101000000
 
 ![img1](./enlarged.jpg) ![img2](https://cdn.pkmer.cn/covers/vault-name-status-bar_2_0.jpeg!pkmer)
 
-![demo](https://cdn.pkmer.cn/covers/vault-name-status-bar_2_1.gif!pkmer)
+![demo](https://cdn.pkmer.cn/covers/vault-name-status-bar_2_1.gif)

@@ -49,7 +49,7 @@ modified: 20230101000000
 
 ---
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-plantuml_1_3.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-plantuml_1_3.gif)
 
 该插件使用 [PlantUML在线服务器](https://plantuml.com/server) 或本地的 `.jar` 文件进行渲染。
 

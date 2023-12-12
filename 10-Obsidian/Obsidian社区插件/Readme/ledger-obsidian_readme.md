@@ -24,7 +24,7 @@ modified: 20230101000000
 
 普通文本会计
 
-![Ledger](https://cdn.pkmer.cn/covers/ledger-obsidian_new.gif!pkmer)
+![Ledger](https://cdn.pkmer.cn/covers/ledger-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 - [ ] 报告（进行中！）
 - [ ] 账户对账（计划中！）
 
-![演示](https://cdn.pkmer.cn/covers/ledger-obsidian_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/ledger-obsidian_1_0.gif)
 
 更多关于 Ledger 的信息，请参考以下资源：
 

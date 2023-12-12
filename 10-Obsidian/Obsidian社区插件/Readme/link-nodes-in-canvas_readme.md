@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个插件，可以根据它们之间的链接，在 Canvas 上为您添加边缘。
 
-![Link Nodes in Canvas](https://cdn.pkmer.cn/covers/link-nodes-in-canvas.gif!pkmer)
+![Link Nodes in Canvas](https://cdn.pkmer.cn/covers/link-nodes-in-canvas.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 ## 展示
 
-![展示](https://cdn.pkmer.cn/covers/link-nodes-in-canvas_1_0.gif!pkmer)
+![展示](https://cdn.pkmer.cn/covers/link-nodes-in-canvas_1_0.gif)
 
 # 如何安装
 

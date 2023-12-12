@@ -24,7 +24,7 @@ modified: 20230101000000
 
 插件允许您在 Obsidian 阅读书籍或文章时创建内联评论。评论可以通过标签进行分层分组。
 
-![Reading comments](https://cdn.pkmer.cn/covers/reading-comments.gif!pkmer)
+![Reading comments](https://cdn.pkmer.cn/covers/reading-comments.gif)
 
 > [!tip] 原文出处
 >
@@ -79,15 +79,15 @@ modified: 20230101000000
 
 ### 创建评论
 
-![创建评论](https://cdn.pkmer.cn/covers/reading-comments_1_0.gif!pkmer)
+![创建评论](https://cdn.pkmer.cn/covers/reading-comments_1_0.gif)
 
 ### 在面板中搜索评论
 
-![搜索评论](https://cdn.pkmer.cn/covers/reading-comments_1_1.gif!pkmer)
+![搜索评论](https://cdn.pkmer.cn/covers/reading-comments_1_1.gif)
 
 提取带有评论链接的原始笔记：
 
-![提取原始笔记](https://cdn.pkmer.cn/covers/reading-comments_1_2.gif!pkmer)
+![提取原始笔记](https://cdn.pkmer.cn/covers/reading-comments_1_2.gif)
 
 如果你喜欢这个插件，随意给我买杯咖啡。
 

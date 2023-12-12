@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件引入了格式化代码的命令（内部使用 prettier）
 
-![Format code blocks of various languages](https://cdn.pkmer.cn/covers/obsidian-format-code.gif!pkmer)
+![Format code blocks of various languages](https://cdn.pkmer.cn/covers/obsidian-format-code.gif)
 
 > [!tip] 原文出处
 >
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 ### 如何使用
 
-![如何使用](https://cdn.pkmer.cn/covers/obsidian-format-code_2_0.gif!pkmer)
+![如何使用](https://cdn.pkmer.cn/covers/obsidian-format-code_2_0.gif)
 
 ### 如何安装
 

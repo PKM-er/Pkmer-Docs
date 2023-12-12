@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将打开的文件向左或向右旋转指定的间隔。
 
-![Tab Rotator](https://cdn.pkmer.cn/covers/tab-rotator_new.gif!pkmer)
+![Tab Rotator](https://cdn.pkmer.cn/covers/tab-rotator_new.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ Tab Rotator 插件是一款 Obsidian 插件，使用户能够在其 Obsidian 工
 
 演示（加速 1.5 倍）
 
-![demo_rotate_tabs](https://cdn.pkmer.cn/covers/tab-rotator_1_0.gif!pkmer)
+![demo_rotate_tabs](https://cdn.pkmer.cn/covers/tab-rotator_1_0.gif)
 
 使用方法
 

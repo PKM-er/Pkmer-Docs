@@ -24,7 +24,7 @@ modified: 20230101000000
 
 直接从您的笔记中为所选择的 Markdown 元素添加自己的 HTML 类。
 
-![Custom Classes](https://cdn.pkmer.cn/covers/custom-classes.gif!pkmer)
+![Custom Classes](https://cdn.pkmer.cn/covers/custom-classes.gif)
 
 > [!tip] 原文出处
 >
@@ -454,8 +454,8 @@ I'm a **bold text `class: big`** and _`.small` me an italic one_
 
 | 主题 | |
 | -- | -- |
-| 暗色 | ![](https://cdn.pkmer.cn/covers/custom-classes_1_0.gif!pkmer) |
-| 亮色 | ![](https://cdn.pkmer.cn/covers/custom-classes_1_1.gif!pkmer) |
+| 暗色 | ![](https://cdn.pkmer.cn/covers/custom-classes_1_0.gif) |
+| 亮色 | ![](https://cdn.pkmer.cn/covers/custom-classes_1_1.gif) |
 
 </p></td>
 </tbody>

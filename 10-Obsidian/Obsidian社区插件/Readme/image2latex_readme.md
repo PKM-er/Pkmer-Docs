@@ -39,7 +39,7 @@ modified: 20230101000000
 
 该扩展程序会获取剪贴板中最新复制的图像，并将其转换为 LaTeX，并将其插入到编辑器中的指定位置。使用键绑定的示例用法请参见下面的 GIF 图片：
 
-![](https://cdn.pkmer.cn/covers/image2latex_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/image2latex_2_0.gif)
 
 以下是几个步骤的说明：
 

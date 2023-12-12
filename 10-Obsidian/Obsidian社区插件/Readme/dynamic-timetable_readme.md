@@ -24,7 +24,7 @@ modified: 20230101000000
 
 根据任务的预计时间计算完成时间，并动态创建时间表。
 
-![Dynamic Timetable](https://cdn.pkmer.cn/covers/dynamic-timetable_new.gif!pkmer)
+![Dynamic Timetable](https://cdn.pkmer.cn/covers/dynamic-timetable_new.gif)
 
 > [!tip] 原文出处
 >

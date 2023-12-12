@@ -24,7 +24,7 @@ modified: 20230101000000
 
 通过特定的代码域语法，可以在 Obdidian 内显示一个建议电子邮件样式。（语法：to，subjuect，body， CC 等）
 
-![Email Block](https://cdn.pkmer.cn/covers/email-block-plugin.GIF!pkmer)
+![Email Block](https://cdn.pkmer.cn/covers/email-block-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -122,7 +122,7 @@ x）请注意，不支持任何格式化（仅支持换行）（[原因](https:/
 
 ### 示例
 
-![示例](https://cdn.pkmer.cn/covers/email-block-plugin_2_0.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/email-block-plugin_2_0.gif)
 
 ## 如何进行开发
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 支持从本地路径，远程文件等方式，在笔记中加载对应代码，并展示对应的语法高亮方案。甚至支持指定文件中具体那块内容（M 行到 N 行），
 
-![Embed Code File](https://cdn.pkmer.cn/covers/embed-code-file.GIF!pkmer)
+![Embed Code File](https://cdn.pkmer.cn/covers/embed-code-file.gif)
 
 > [!tip] 原文出处
 >
@@ -100,14 +100,14 @@ TITLE: "Some title"
 
 #### 嵌入代码文件
 
-![Gif](https://cdn.pkmer.cn/covers/embed-code-file_1_0.gif!pkmer)
+![Gif](https://cdn.pkmer.cn/covers/embed-code-file_1_0.gif)
 
 #### 嵌入代码文件中的行
 
 #### 嵌入远程文件的代码行（例如，GitHub）
 
-![Gif](https://cdn.pkmer.cn/covers/embed-code-file_1_1.gif!pkmer)
+![Gif](https://cdn.pkmer.cn/covers/embed-code-file_1_1.gif)
 
 #### 为普通代码块添加标题
 
-![Gif](https://cdn.pkmer.cn/covers/embed-code-file_1_2.gif!pkmer)
+![Gif](https://cdn.pkmer.cn/covers/embed-code-file_1_2.gif)

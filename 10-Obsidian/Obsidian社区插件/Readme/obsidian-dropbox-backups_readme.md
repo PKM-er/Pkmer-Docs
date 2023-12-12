@@ -24,7 +24,7 @@ modified: 20230101000000
 
 自动备份您整个保险库到 Dropbox。
 
-![Aut-O-Backups](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups.gif!pkmer)
+![Aut-O-Backups](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups.gif)
 
 > [!tip] 原文出处
 >
@@ -79,7 +79,7 @@ modified: 20230101000000
 
 演示：
 
-![Demo](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups_1_0.gif!pkmer)
+![Demo](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups_1_0.gif)
 
 ### 设置
 

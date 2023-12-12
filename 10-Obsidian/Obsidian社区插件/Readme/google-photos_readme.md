@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obsidian 与 Google 照片的集成
 
-![Google Photos](https://cdn.pkmer.cn/covers/google-photos.gif!pkmer)
+![Google Photos](https://cdn.pkmer.cn/covers/google-photos.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ Obsidian 与 Google 照片的集成
 
 这个插件允许你直接在 Obsidian 中嵌入 Google 相册的图片。当你选择一张图片时，它会保存并嵌入一张低分辨率的缩略图，并附带一个指向 Google 相册中高分辨率图片的链接。
 
-![](https://cdn.pkmer.cn/covers/google-photos_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/google-photos_2_0.gif)
 
 如果你的笔记标题包含可检测的日期，插件会默认只显示该日期的照片。顶部有一个切换按钮，可以显示所有照片。
 

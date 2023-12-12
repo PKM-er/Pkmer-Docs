@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 OpenAI 的 GPT-3 语言模型生成任何主题的笔记。
 
-![GPT Notes](https://cdn.pkmer.cn/covers/gpt3-notes_new.gif!pkmer)
+![GPT Notes](https://cdn.pkmer.cn/covers/gpt3-notes_new.gif)
 
 > [!tip] 原文出处
 >
@@ -71,7 +71,7 @@ GPT-3 能够生成许多不同类型的笔记。目前来说，插入 Obsidian �
 
 加载时间已经有所减少，这里是一个示例：
 
-![usage](https://cdn.pkmer.cn/covers/gpt3-notes_1_1.gif!pkmer)
+![usage](https://cdn.pkmer.cn/covers/gpt3-notes_1_1.gif)
 
 ## 贡献
 

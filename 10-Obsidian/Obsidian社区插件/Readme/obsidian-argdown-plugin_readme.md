@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许您编写 argdown 代码块并在预览中查看地图
 
-![Argument Map with Argdown](https://cdn.pkmer.cn/covers/obsidian-argdown-plugin_new.gif!pkmer)
+![Argument Map with Argdown](https://cdn.pkmer.cn/covers/obsidian-argdown-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -54,7 +54,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-argdown-plugin_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-argdown-plugin_1_0.gif)
 
 ## 如何使用
 

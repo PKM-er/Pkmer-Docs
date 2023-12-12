@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件可以在您的笔记中创建输入字段，并将它们绑定到元数据字段。
 
-![Meta Bind Plugin](https://cdn.pkmer.cn/covers/obsidian-meta-bind-plugin.gif!pkmer)
+![Meta Bind Plugin](https://cdn.pkmer.cn/covers/obsidian-meta-bind-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 ### 演示
 
-![](https://cdn.pkmer.cn/covers/obsidian-meta-bind-plugin_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-meta-bind-plugin_1_0.gif)
 
 ### 文档
 

@@ -94,13 +94,13 @@ modified: 20230101000000
 
 只需在任何位置按下快捷键 `ALT+Q`。无论您是在特定位置还是选择了要更改的文本，都没有关系。然后输入您想要应用的命令的名称。几个字母后，您希望的命令应该在前 5 个建议中显示出来。
 
-![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_6.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_6.gif)
 
 如何更改快捷键/热键
 
 选择了快捷键/热键 `ALT+Q`，因为它可以方便地用一只手轻松操作，但您可以根据自己的需要更改它。
 
-![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_7.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_7.gif)
 
 ## 颜色选择器
 

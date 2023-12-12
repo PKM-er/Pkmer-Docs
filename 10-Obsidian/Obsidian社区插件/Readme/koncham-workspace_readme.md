@@ -24,7 +24,7 @@ modified: 20230101000000
 
 黑曜石工作空间管理
 
-![koncham workspace](https://cdn.pkmer.cn/covers/koncham-workspace.gif!pkmer)
+![koncham workspace](https://cdn.pkmer.cn/covers/koncham-workspace.gif)
 
 > [!tip] 原文出处
 >
@@ -62,7 +62,7 @@ modified: 20230101000000
 
 此屏幕录制演示了在默认和最大化模式下的使用方法：
 
-![center-panes in action](https://cdn.pkmer.cn/covers/koncham-workspace_1_0.gif!pkmer)
+![center-panes in action](https://cdn.pkmer.cn/covers/koncham-workspace_1_0.gif)
 
 固定/取消固定窗格
 

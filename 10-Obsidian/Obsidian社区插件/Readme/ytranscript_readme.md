@@ -24,7 +24,7 @@ modified: 20230101000000
 
 获取所有 Youtube 视频的字幕
 
-![YTranscript](https://cdn.pkmer.cn/covers/ytranscript.gif!pkmer)
+![YTranscript](https://cdn.pkmer.cn/covers/ytranscript.gif)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ modified: 20230101000000
 5. 单击时间戳会在该位置打开视频
 6. 您可以拖放转录或时间戳链接
 
-![YTranscriptPlugin2](https://cdn.pkmer.cn/covers/ytranscript_1_0.gif!pkmer)
+![YTranscriptPlugin2](https://cdn.pkmer.cn/covers/ytranscript_1_0.gif)
 
 # 致谢
 

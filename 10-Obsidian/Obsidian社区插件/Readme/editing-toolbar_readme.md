@@ -41,7 +41,7 @@ modified: 20230101000000
 
 # obsidian-editing-toolbar 插件
 
-![](https://cdn.pkmer.cn/covers/editing-toolbar_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/editing-toolbar_2_0.gif)
 
 感谢 [cmenu](https://github.com/chetachiezikeuzor/cMenu-Plugin) 插件，它给了我很多灵感，但是这个插件已经超过一年没有维护了，所以我重新修改了它，并添加了很多有趣的功能，包括顶部工具栏、光标跟随等，因此创建了编辑工具栏。
 
@@ -110,25 +110,25 @@ modified: 20230101000000
        默认绑定快捷键 `Ctrl+1,ctrl+2,...Ctrl+6`
        ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_3.png!pkmer)
    15. 支持自定义命令图标
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_4.gif!pkmer)
+       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_4.gif)
    16. 支持修改命令名称
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_5.gif!pkmer)
+       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_5.gif)
    17. 支持添加子菜单
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_6.gif!pkmer)
+       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_6.gif)
    18. 支持菜单拖拽和排序
    19. 添加格式刷功能，内置两种格式刷用于字体颜色和背景颜色（中键或右键可以取消格式刷状态）
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_7.gif!pkmer)
+       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_7.gif)
    20. 工具栏图标宽度自适应缩小
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_8.gif!pkmer)
+       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_8.gif)
 
 ### 与其他插件一起使用
 
 1. [emjoi toolbar](obsidian://show-plugin?id=obsidian-emoji-toolbar) 快速插入表情符号
-   ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_9.gif!pkmer)
+   ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_9.gif)
 
 
 2. [Obsidian-Table-Generator](https://github.com/Quorafind/Obsidian-Table-Generator/) 和 [ob-table-enhance](https://github.com/Stardusten/ob-table-enhancer) 快速插入和编辑表格
-   ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_10.gif!pkmer)
+   ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_10.gif)
 
 > 上述插件都可以从示例库中获取，它们都经过了优化和一些错误修复
 ☟☟☟

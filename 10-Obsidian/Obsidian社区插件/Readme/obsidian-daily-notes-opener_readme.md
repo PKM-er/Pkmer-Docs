@@ -24,7 +24,7 @@ modified: 20230101000000
 
 轻松在新窗格中打开日记和周期性记录；自定义周期性记录的背景；快速添加新行到日记中。
 
-![Daily notes opener](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_new.gif!pkmer)
+![Daily notes opener](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_new.gif)
 
 > [!tip] 原文出处
 >
@@ -55,15 +55,15 @@ modified: 20230101000000
 
 ### 1. 以幂等的方式在新窗格中打开今天的周期性笔记
 
-![dnnt-demo-1](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_1_0.gif!pkmer)
+![dnnt-demo-1](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_1_0.gif)
 
 ### 2. 使用样式设置更改今天的周期性笔记的背景颜色
 
-![dnnt-demo-2](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_1_1.gif!pkmer)
+![dnnt-demo-2](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_1_1.gif)
 
 ### 3. 在新窗格中添加今天的周期性笔记行
 
-![dnnt-demo-3](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_1_2.gif!pkmer)
+![dnnt-demo-3](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_1_2.gif)
 
 ## 设置
 

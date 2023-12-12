@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 Flesch 阅读易度（FRE）公式评估您的写作可读性。
 
-![Readability Score](https://cdn.pkmer.cn/covers/readability-score_new.gif!pkmer)
+![Readability Score](https://cdn.pkmer.cn/covers/readability-score_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,4 +43,4 @@ modified: 20230101000000
 
 这是 [better-word-count](https://github.com/lukeleppan/better-word-count) 的一个分支。这个想法是构建一个更小、更有见解、更专注于可读性指标的东西。
 
-![readability-score gif](https://cdn.pkmer.cn/covers/readability-score_1_0.gif!pkmer)
+![readability-score gif](https://cdn.pkmer.cn/covers/readability-score_1_0.gif)

@@ -49,41 +49,41 @@ modified: 20230101000000
 
 默认大纲：
 
-![系统自带大纲](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_0.gif!pkmer)
+![系统自带大纲](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_0.gif)
 
 安静大纲：
 
-![安静大纲](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_1.gif!pkmer)
+![安静大纲](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_1.gif)
 
 ### 搜索支持
 
-![支持搜索](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_2.gif!pkmer)
+![支持搜索](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_2.gif)
 
 隐藏不相关的结果：
 
-![隐藏结果](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_3.gif!pkmer)
+![隐藏结果](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_3.gif)
 
 使用正则表达式：
 
-![正则搜索](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_4.gif!pkmer)
+![正则搜索](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_4.gif)
 
 ### Markdown 渲染支持
 
-![渲染markdown](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_5.gif!pkmer)
+![渲染markdown](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_5.gif)
 
 ### 自动展开和折叠
 
 ### 层级切换栏
 
-![切换展开级别](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_6.gif!pkmer)
+![切换展开级别](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_6.gif)
 
 ### 默认级别
 
-![默认级别](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_7.gif!pkmer)
+![默认级别](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_7.gif)
 
 ### 拖拽和修改笔记
 
-![拖拽](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_8.gif!pkmer)
+![拖拽](https://cdn.pkmer.cn/covers/obsidian-quiet-outline_1_8.gif)
 
 ## 限制
 

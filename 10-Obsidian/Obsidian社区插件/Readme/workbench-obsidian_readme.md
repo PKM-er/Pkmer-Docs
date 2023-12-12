@@ -24,7 +24,7 @@ modified: 20230101000000
 
 用于在你的库中快速将内容移动到工作台或者从工作台移除。
 
-![Workbench](https://cdn.pkmer.cn/covers/workbench-obsidian_new.gif!pkmer)
+![Workbench](https://cdn.pkmer.cn/covers/workbench-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 插入和清除工作台上的材料：
 
-![演示插入工作台内容和清除工作台](https://cdn.pkmer.cn/covers/workbench-obsidian_1_0.gif!pkmer)
+![演示插入工作台内容和清除工作台](https://cdn.pkmer.cn/covers/workbench-obsidian_1_0.gif)
 
 ### 设置
 

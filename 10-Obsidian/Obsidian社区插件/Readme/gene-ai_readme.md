@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 OpenAI API 生成文本的插件。
 
-![Gene 🧬](https://cdn.pkmer.cn/covers/gene-ai_new.gif!pkmer)
+![Gene 🧬](https://cdn.pkmer.cn/covers/gene-ai_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 Gene 是一个免费且开源的 AI 助手，可以帮助您创建、修改、翻译和整体增强您的笔记。
 
-![演示](https://cdn.pkmer.cn/covers/gene-ai_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/gene-ai_2_0.gif)
 
 ## 特点
 

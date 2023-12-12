@@ -52,6 +52,6 @@ modified: 20230101000000
 
 注意：如果禁用“打开文件时显示”，与其相关的其他设置将被隐藏
 
-![演示](https://cdn.pkmer.cn/covers/reveal-file-in-explorer_2_1.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/reveal-file-in-explorer_2_1.gif)
 
 编辑：添加了一个选项，可以排除某些文件夹在打开时显示

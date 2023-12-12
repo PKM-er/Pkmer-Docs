@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将拱顶文件导出为适合粘贴到 TeX 文档中的格式
 
-![Export To TeX](https://cdn.pkmer.cn/covers/obsidian-export-to-tex_new.gif!pkmer)
+![Export To TeX](https://cdn.pkmer.cn/covers/obsidian-export-to-tex_new.gif)
 
 > [!tip] 原文出处
 >
@@ -52,7 +52,7 @@ modified: 20230101000000
 > 将 Obsidian 笔记导出为 LaTeX 格式，适用于粘贴到 TeX 文件中。
 >
 
-![](https://cdn.pkmer.cn/covers/obsidian-export-to-tex_1_5.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-export-to-tex_1_5.gif)
 
 ## 安装
 

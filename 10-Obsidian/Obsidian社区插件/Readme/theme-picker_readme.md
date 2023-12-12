@@ -45,4 +45,4 @@ modified: 20230101000000
 
 ## 使用方法
 
-![插件使用GIF](https://cdn.pkmer.cn/covers/theme-picker_1_0.gif!pkmer)
+![插件使用GIF](https://cdn.pkmer.cn/covers/theme-picker_1_0.gif)

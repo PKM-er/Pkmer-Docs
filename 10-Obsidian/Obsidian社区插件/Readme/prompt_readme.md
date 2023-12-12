@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从你的保险库中的提示文件中显示鼓舞人心的提示。
 
-![Prompt](https://cdn.pkmer.cn/covers/prompt.gif!pkmer)
+![Prompt](https://cdn.pkmer.cn/covers/prompt.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个 Obsidian 的插件会从你的 vault 中的文件中随机显示一个文本提示。你可以自己选择文件。
 
-![使用鼠标的提示](https://cdn.pkmer.cn/covers/prompt_1_0.gif!pkmer)
+![使用鼠标的提示](https://cdn.pkmer.cn/covers/prompt_1_0.gif)
 
 ## 设置
 

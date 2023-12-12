@@ -73,7 +73,7 @@ modified: 20230101000000
 1. 首先，您可以看到我如何使用“创建亮点”快捷键来突出显示句子。
 2. 然后，您可以看到我如何使用“提取亮点”快捷键创建一个带有亮点的新文件。
 
-![基本功能](https://cdn.pkmer.cn/covers/extract-highlights-plugin_1_4.gif!pkmer)
+![基本功能](https://cdn.pkmer.cn/covers/extract-highlights-plugin_1_4.gif)
 
 使用快捷键来突出显示（和取消突出显示）光标下的句子
 

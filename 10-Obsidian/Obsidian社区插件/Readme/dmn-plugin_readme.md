@@ -24,7 +24,7 @@ modified: 20230101000000
 
 该插件可以使用 dmn-js 查看 DMN。
 
-![DMN Plugin](https://cdn.pkmer.cn/covers/dmn-plugin.gif!pkmer)
+![DMN Plugin](https://cdn.pkmer.cn/covers/dmn-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -88,7 +88,7 @@ url: [[my-diagram.dmn]]
 
 ### 示例
 
-![示例](https://cdn.pkmer.cn/covers/dmn-plugin_2_0.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/dmn-plugin_2_0.gif)
 
 ## 如何进行开发
 

@@ -54,7 +54,7 @@ Hugo 预览插件（Obsidian）
 
 ## 截图
 
-![Record_select-area_20230111192058](https://cdn.pkmer.cn/covers/hugo-preview-obsidian_1_1.gif!pkmer)
+![Record_select-area_20230111192058](https://cdn.pkmer.cn/covers/hugo-preview-obsidian_1_1.gif)
 
 ## 资源
 

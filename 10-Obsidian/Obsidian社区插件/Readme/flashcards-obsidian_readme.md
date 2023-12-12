@@ -77,7 +77,7 @@ Anki 集成。
 2. **更新**卡片；
 3. **删除**卡片。
 
-![演示图片](https://cdn.pkmer.cn/covers/flashcards-obsidian_2_1.gif!pkmer)
+![演示图片](https://cdn.pkmer.cn/covers/flashcards-obsidian_2_1.gif)
 
 如何使用它？
 

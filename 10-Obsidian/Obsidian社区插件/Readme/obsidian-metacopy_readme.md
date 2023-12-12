@@ -24,7 +24,7 @@ modified: 20230101000000
 
 复制一个前文键的值。
 
-![Metacopy & URL](https://cdn.pkmer.cn/covers/obsidian-metacopy.gif!pkmer)
+![Metacopy & URL](https://cdn.pkmer.cn/covers/obsidian-metacopy.gif)
 
 > [!tip] 原文出处
 >
@@ -54,7 +54,7 @@ modified: 20230101000000
 
 以下是插件的演示效果：
 
-![presentation.gif](https://cdn.pkmer.cn/covers/obsidian-metacopy_2_0.gif!pkmer)
+![presentation.gif](https://cdn.pkmer.cn/covers/obsidian-metacopy_2_0.gif)
 
 # 链接创建者
 
@@ -142,7 +142,7 @@ share: true
 ```
 
 [这是一个演示](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d)：
-[![点击查看视频！](https://cdn.pkmer.cn/covers/obsidian-metacopy_2_3.gif!pkmer)](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d)
+[![点击查看视频！](https://cdn.pkmer.cn/covers/obsidian-metacopy_2_3.gif)](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d)
 ---
 
 该插件的灵感来自于 [Copy Publish URL](https://github.com/kometenstaub/copy-publish-url)，但适用于所有链接（而不仅仅是发布链接）。

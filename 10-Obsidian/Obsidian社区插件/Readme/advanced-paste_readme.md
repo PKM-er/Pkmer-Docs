@@ -24,7 +24,7 @@ modified: 20230101000000
 
 该插件提供了高级粘贴命令，并使您能够创建自定义的粘贴转换。
 
-![Advanced Paste](https://cdn.pkmer.cn/covers/advanced-paste_new.gif!pkmer)
+![Advanced Paste](https://cdn.pkmer.cn/covers/advanced-paste_new.gif)
 
 > [!tip] 原文出处
 >
@@ -70,7 +70,7 @@ modified: 20230101000000
 
 默认转换将使用 [turndown](https://github.com/mixmark-io/turndown) 和 [turndown-plugin-gfm](https://github.com/mixmark-io/turndown-plugin-gfm) 将 HTML 转换为 Markdown。它还将删除空标题和链接。
 
-![展示](https://cdn.pkmer.cn/covers/advanced-paste_2_0.gif!pkmer)
+![展示](https://cdn.pkmer.cn/covers/advanced-paste_2_0.gif)
 
 ### 待办事项
 

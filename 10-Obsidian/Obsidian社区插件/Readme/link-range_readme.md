@@ -43,7 +43,7 @@ modified: 20230101000000
 
 该插件在保留本地反向链接功能的同时，将维基链接头范围查询引入到 Obsidian 中。支持标准维基链接、悬停预览和嵌入内容维基链接。
 
-![演示](https://cdn.pkmer.cn/covers/link-range_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/link-range_2_0.gif)
 
 ## 用法
 

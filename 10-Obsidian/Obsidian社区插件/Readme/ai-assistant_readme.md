@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obsidian 的 AI 助手插件。
 
-![AI Assistant](https://cdn.pkmer.cn/covers/ai-assistant_new.gif!pkmer)
+![AI Assistant](https://cdn.pkmer.cn/covers/ai-assistant_new.gif)
 
 > [!tip] 原文出处
 >
@@ -60,7 +60,7 @@ Obsidian 的 AI 助手插件。
 
 |:------------------------:|:-------------------------:|
 
-| ![](gifs/chat_mode.gif) | ![](https://cdn.pkmer.cn/covers/ai-assistant_2_0.gif!pkmer) |
+| ![](gifs/chat_mode.gif) | ![](https://cdn.pkmer.cn/covers/ai-assistant_2_0.gif) |
 
 #### 聊天模式
 

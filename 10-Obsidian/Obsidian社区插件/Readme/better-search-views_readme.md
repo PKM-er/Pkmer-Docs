@@ -24,7 +24,7 @@ modified: 20230101000000
 
 升级全局搜索、反向链接和查询，使用类似大纲的上下文树。
 
-![Better Search Views](https://cdn.pkmer.cn/covers/better-search-views.gif!pkmer)
+![Better Search Views](https://cdn.pkmer.cn/covers/better-search-views.gif)
 
 > [!tip] 原文出处
 >
@@ -75,7 +75,7 @@ modified: 20230101000000
 
 ### 按住控制键悬停在任何元素上会触发一个弹出窗口
 
-![image](https://cdn.pkmer.cn/covers/better-search-views_2_0.gif!pkmer)
+![image](https://cdn.pkmer.cn/covers/better-search-views_2_0.gif)
 
 如何使用它
 

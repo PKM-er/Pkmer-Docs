@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许快速插入和更改数学环境中的 Latex 环境。
 
-![Latex Environments](https://cdn.pkmer.cn/covers/obsidian-latex-environments_new.gif!pkmer)
+![Latex Environments](https://cdn.pkmer.cn/covers/obsidian-latex-environments_new.gif)
 
 > [!tip] 原文出处
 >
@@ -80,7 +80,7 @@ modified: 20230101000000
 
 使用方法
 
-![](https://cdn.pkmer.cn/covers/obsidian-latex-environments_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-latex-environments_2_0.gif)
 
 ### 命令
 

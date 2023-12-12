@@ -24,7 +24,7 @@ modified: 20230101000000
 
 该插件在粘贴网页时，自动获取网页以提取链接标题，从而创建具有正确标题集的 markdown 链接。
 
-![Auto Link Title](https://cdn.pkmer.cn/covers/obsidian-auto-link-title.GIF!pkmer)
+![Auto Link Title](https://cdn.pkmer.cn/covers/obsidian-auto-link-title.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 ## Obsidian 自动链接标题
 
-![自动链接示例](https://cdn.pkmer.cn/covers/obsidian-auto-link-title_2_0.gif!pkmer)
+![自动链接示例](https://cdn.pkmer.cn/covers/obsidian-auto-link-title_2_0.gif)
 
 ### 自动为新链接添加标题
 

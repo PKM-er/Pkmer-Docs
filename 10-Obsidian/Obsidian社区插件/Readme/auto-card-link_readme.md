@@ -24,7 +24,7 @@ modified: 20230101000000
 
 自动从网址获取元数据，并将其作为卡片样式的链接。
 
-![Auto Card Link](https://cdn.pkmer.cn/covers/auto-card-link.gif!pkmer)
+![Auto Card Link](https://cdn.pkmer.cn/covers/auto-card-link.gif)
 
 > [!tip] 原文出处
 >
@@ -42,7 +42,7 @@ modified: 20230101000000
 - 自动从 URL 获取元数据，并将其作为卡片样式的链接。
 - 卡片样式的链接是通过代码块生成的，不会像 HTML 标签一样混乱你的 Markdown 文件！
 
-![](https://cdn.pkmer.cn/covers/auto-card-link_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/auto-card-link_2_0.gif)
 
 # 功能
 

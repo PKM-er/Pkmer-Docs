@@ -41,7 +41,7 @@ modified: 20230101000000
 
 ![GitHub清单版本](https://img.shields.io/github/manifest-json/v/lukeleppan/better-word-count?color=magenta&label=版本&style=for-the-badge) ![GitHub发布日期](https://img.shields.io/github/release-date/lukeleppan/better-word-count?style=for-the-badge) ![代码行数](https://img.shields.io/tokei/lines/github/lukeleppan/better-word-count?style=for-the-badge) ![Obsidian下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=下载量&query=%24%5B%22better-word-count%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&style=for-the-badge)
 
-![更好的字数统计](https://cdn.pkmer.cn/covers/better-word-count_1_4.gif!pkmer)
+![更好的字数统计](https://cdn.pkmer.cn/covers/better-word-count_1_4.gif)
 
 这个插件与内置的**字数统计**插件相同，唯一的区别是当你选择文本时，它会统计所选的单词数量，而不是整个文档。我建议关闭内置的**字数统计**，因为这个插件是为了取代它而设计的。此插件还具有存储有关你的存储库的统计信息的功能。
 

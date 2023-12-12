@@ -24,7 +24,7 @@ modified: 20230101000000
 
 按两次 Shift（或其他任何键），就像在 IntelliJ 中一样，打开命令面板，并创建自己的快捷键。
 
-![Doubleshift](https://cdn.pkmer.cn/covers/obsidian-doubleshift_new.gif!pkmer)
+![Doubleshift](https://cdn.pkmer.cn/covers/obsidian-doubleshift_new.gif)
 
 > [!tip] 原文出处
 >
@@ -39,11 +39,11 @@ modified: 20230101000000
 
 按两次 `Shift` 键来激活 Doubleshift。默认情况下，它会打开命令面板，但你可以根据需要更改为其他功能。\
 
-![gif](https://cdn.pkmer.cn/covers/obsidian-doubleshift_1_0.gif!pkmer)\
+![gif](https://cdn.pkmer.cn/covers/obsidian-doubleshift_1_0.gif)\
 
 你还可以添加多个其他命令，并使用不同的按键来频繁访问所需的操作。\
 
-![gif](https://cdn.pkmer.cn/covers/obsidian-doubleshift_1_1.gif!pkmer)\
+![gif](https://cdn.pkmer.cn/covers/obsidian-doubleshift_1_1.gif)\
 
 它**适用于所有可用的命令**，包括来自其他插件的命令。因此，如果你安装了类似于更好的命令面板插件的插件，你可以在 Doubleshift 设置选项卡中选择打开它的命令。
 

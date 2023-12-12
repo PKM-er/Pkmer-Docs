@@ -24,7 +24,7 @@ modified: 20230101000000
 
 通过 Whisper 从链接的 Markdown 音频文件创建高质量转录的插件
 
-![Transcription](https://cdn.pkmer.cn/covers/obsidian-transcription_new.gif!pkmer)
+![Transcription](https://cdn.pkmer.cn/covers/obsidian-transcription_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个通过 [OpenAI Whisper](https://openai.com/blog/whisper/) 生成任何音频和视频文件高质量转录的插件。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-transcription_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-transcription_2_0.gif)
 
 ## 特点
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在你的笔记中使用并编写 React（Jsx）组件。
 
-![React Components](https://cdn.pkmer.cn/covers/obsidian-react-components_new.gif!pkmer)
+![React Components](https://cdn.pkmer.cn/covers/obsidian-react-components_new.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 ## 演示
 
-![React组件演示](https://cdn.pkmer.cn/covers/obsidian-react-components_1_2.gif!pkmer)
+![React组件演示](https://cdn.pkmer.cn/covers/obsidian-react-components_1_2.gif)
 
 开始使用
 
@@ -205,7 +205,7 @@ return <h1>{frontmatter.title}</h1>
 
 * 支持代码块和内联代码。
 
-![实时预览](https://cdn.pkmer.cn/covers/obsidian-react-components_1_4.gif!pkmer)
+![实时预览](https://cdn.pkmer.cn/covers/obsidian-react-components_1_4.gif)
 
 ### 0.1.2 (2021-12-03) *组件代码块 + 启动和稳定性改进*
 
@@ -239,7 +239,7 @@ return <h1>{frontmatter.title}</h1>
 ### 0.1.0 (2021-08-27) *添加了替代的代码块语法和命名空间*
 
 * 插件现在支持使用 `jsx:` 代替 `jsx-` 进行编写。
-  * 这种新的语法与 [Editor Syntax Highlight Plugin](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) 兼容：![syntax highlighting demo](https://cdn.pkmer.cn/covers/obsidian-react-components_1_6.gif!pkmer)
+  * 这种新的语法与 [Editor Syntax Highlight Plugin](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) 兼容：![syntax highlighting demo](https://cdn.pkmer.cn/covers/obsidian-react-components_1_6.gif)
 * 现在您还可以通过 `react-components-namespace` 属性限制访问组件的方式和来源。详见 Readme。
 * 已更新 Readme。
 
@@ -247,7 +247,7 @@ return <h1>{frontmatter.title}</h1>
 
 * 现在可以向组件笔记中添加 Frontmatter 数据（将被 JavaScript 解析器忽略）。
 * 具有 Frontmatter 属性 `use-as-note-header` 的笔记将用作存储库中所有笔记的标题。
-  * 这使您可以做类似于以下的事情：![header component demo](https://cdn.pkmer.cn/covers/obsidian-react-components_1_7.gif!pkmer)
+  * 这使您可以做类似于以下的事情：![header component demo](https://cdn.pkmer.cn/covers/obsidian-react-components_1_7.gif)
   * * 注意：* 只在最多一个存储库组件上使用此 Frontmatter 属性。
 
 ### 0.0.8（2021-08-25）*小的渲染修复*
@@ -263,7 +263,7 @@ return <h1>{frontmatter.title}</h1>
 ### 0.0.6 (2021-06-19) *添加对 skypack 导入的支持，修复了一些错误*
 
 * 添加了对基于 URL 的导入的支持，例如 `import styled from 'https://cdn.skypack.com/styled-components/'`
-  * *示例:* ![](https://cdn.pkmer.cn/covers/obsidian-react-components_1_8.gif!pkmer)
+  * *示例:* ![](https://cdn.pkmer.cn/covers/obsidian-react-components_1_8.gif)
 * 改进了组件加载的稳定性
 
 ### 0.0.5 (2021-05-22) *启用 Markdown 渲染组件的动态更新，进行了一些小的更改*

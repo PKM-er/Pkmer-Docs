@@ -24,7 +24,7 @@ modified: 20230101000000
 
 官方 Markbase 插件，可以在您自己的数字花园中在线共享 Obsidian 笔记
 
-![Markbase for Obsidian](https://cdn.pkmer.cn/covers/obsidian-markbase_new.gif!pkmer)
+![Markbase for Obsidian](https://cdn.pkmer.cn/covers/obsidian-markbase_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 官方 [Markbase](https://markbase.xyz) 插件，可以在您自己的数字花园中在线共享 Obsidian 笔记
 
-![演示GIF](https://cdn.pkmer.cn/covers/obsidian-markbase_2_0.gif!pkmer)
+![演示GIF](https://cdn.pkmer.cn/covers/obsidian-markbase_2_0.gif)
 
 ## 指南
 

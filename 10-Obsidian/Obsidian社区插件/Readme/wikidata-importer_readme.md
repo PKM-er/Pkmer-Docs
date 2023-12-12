@@ -45,4 +45,4 @@ modified: 20230101000000
 
 就可以了。您的笔记现在具有所有 Wikidata 属性作为笔记的属性。
 
-![](https://cdn.pkmer.cn/covers/wikidata-importer_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/wikidata-importer_2_0.gif)

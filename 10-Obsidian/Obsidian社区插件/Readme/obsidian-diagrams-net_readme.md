@@ -46,7 +46,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md/) 设计的插件，用于插入和编辑 [diagrams.net](https://diagrams.net/)（之前称为 draw.io）的图表。它与 [drawio-obsidian](https://github.com/zapthedingbat/drawio-obsidian) 插件的区别在于它嵌入了 diagrams.net 在线编辑器，需要活动的互联网连接，但可以使用完整的功能集和所有形状库。
 
-![2022-06-23-obsidian-diagrams-net](https://cdn.pkmer.cn/covers/obsidian-diagrams-net_1_1.gif!pkmer)
+![2022-06-23-obsidian-diagrams-net](https://cdn.pkmer.cn/covers/obsidian-diagrams-net_1_1.gif)
 
 > ## ⚠️ **注意事项**
 > 由于 Obsidian 本身的 API 正在开发中，所以该插件也在不断发展中。如果您使用该插件，有一些事项需要注意：

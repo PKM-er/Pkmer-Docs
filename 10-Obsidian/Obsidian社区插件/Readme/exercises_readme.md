@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在 Obsidian 笔记旁边创建交互式练习
 
-![Exercises](https://cdn.pkmer.cn/covers/exercises.gif!pkmer)
+![Exercises](https://cdn.pkmer.cn/covers/exercises.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ Obsidian 练习是一种在 Obsidian 中创建练习的简便方法。无论您�
 
 ## 选择
 
-![匹配练习](https://cdn.pkmer.cn/covers/exercises_2_0.gif!pkmer)
+![匹配练习](https://cdn.pkmer.cn/covers/exercises_2_0.gif)
 
 **注意：**上面的图片中没有显示选项菜单。
 
@@ -67,7 +67,7 @@ Obsidian 练习是一种在 Obsidian 中创建练习的简便方法。无论您�
 
 ## 输入
 
-![匹配练习](https://cdn.pkmer.cn/covers/exercises_2_1.gif!pkmer)
+![匹配练习](https://cdn.pkmer.cn/covers/exercises_2_1.gif)
 
 >$input{" 选项 1", " 选项 2" [, …]}
 
@@ -85,7 +85,7 @@ Line 是 input 的一个更宽的版本。
 
 ## 匹配
 
-![匹配练习](https://cdn.pkmer.cn/covers/exercises_2_2.gif!pkmer)
+![匹配练习](https://cdn.pkmer.cn/covers/exercises_2_2.gif)
 
 >$match{"option1"=>"value1", "option2"=>"value2" [, …]}
 

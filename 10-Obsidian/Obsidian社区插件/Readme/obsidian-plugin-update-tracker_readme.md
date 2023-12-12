@@ -96,7 +96,7 @@ modified: 20230101000000
 
 安装插件更新
 
-![Screen_Recording_2022-10-29_at_3_43_48_PM_AdobeExpress (1)](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_5.gif!pkmer)
+![Screen_Recording_2022-10-29_at_3_43_48_PM_AdobeExpress (1)](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_5.gif)
 
 评估升级的风险性
 

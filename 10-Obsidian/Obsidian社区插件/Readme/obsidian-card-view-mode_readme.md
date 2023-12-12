@@ -63,7 +63,7 @@ modified: 20230101000000
 
 ## 演示
 
-![屏幕截图](https://cdn.pkmer.cn/covers/obsidian-card-view-mode_1_3.gif!pkmer)
+![屏幕截图](https://cdn.pkmer.cn/covers/obsidian-card-view-mode_1_3.gif)
 
 ## 设置
 

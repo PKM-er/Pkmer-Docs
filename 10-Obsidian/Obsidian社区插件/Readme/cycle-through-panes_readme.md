@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 `ctrl + Tab` 循环浏览你打开的窗格，就像在浏览器中浏览标签页一样！官方已经支持此功能
 
-![Cycle through Panes](https://cdn.pkmer.cn/covers/cycle-through-panes_new.gif!pkmer)
+![Cycle through Panes](https://cdn.pkmer.cn/covers/cycle-through-panes_new.gif)
 
 > [!tip] 原文出处
 >
@@ -58,7 +58,7 @@ __此插件使用了 [Vinzent](https://github.com/Vinzent03) 的代码__
 
 ## 第二种模式的展示
 
-![展示](https://cdn.pkmer.cn/covers/cycle-through-panes_1_3.gif!pkmer)
+![展示](https://cdn.pkmer.cn/covers/cycle-through-panes_1_3.gif)
 
 ### 重要
 

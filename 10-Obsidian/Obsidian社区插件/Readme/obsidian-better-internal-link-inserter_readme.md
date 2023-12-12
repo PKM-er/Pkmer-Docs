@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许在链接建议中使用所选单词作为别名
 
-![Obsidian Better Internal Link Inserter](https://cdn.pkmer.cn/covers/obsidian-better-internal-link-inserter.gif!pkmer)
+![Obsidian Better Internal Link Inserter](https://cdn.pkmer.cn/covers/obsidian-better-internal-link-inserter.gif)
 
 > [!tip] 原文出处
 >
@@ -45,11 +45,11 @@ modified: 20230101000000
 
 ## Before
 
-![before](https://cdn.pkmer.cn/covers/obsidian-better-internal-link-inserter_1_0.gif!pkmer)
+![before](https://cdn.pkmer.cn/covers/obsidian-better-internal-link-inserter_1_0.gif)
 
 ## 之后
 
-![after](https://cdn.pkmer.cn/covers/obsidian-better-internal-link-inserter_1_1.gif!pkmer)
+![after](https://cdn.pkmer.cn/covers/obsidian-better-internal-link-inserter_1_1.gif)
 
 ## 其他功能
 

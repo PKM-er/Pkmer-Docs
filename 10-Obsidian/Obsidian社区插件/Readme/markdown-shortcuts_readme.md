@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许使用快捷键编写 Markdown
 
-![Markdown shortcuts](https://cdn.pkmer.cn/covers/markdown-shortcuts.gif!pkmer)
+![Markdown shortcuts](https://cdn.pkmer.cn/covers/markdown-shortcuts.gif)
 
 > [!tip] 原文出处
 >
@@ -57,7 +57,7 @@ modified: 20230101000000
 
 您只需在文件中想要的位置写入 `>`，然后进行选择。
 
-![example.gif](https://cdn.pkmer.cn/covers/markdown-shortcuts_2_0.gif!pkmer)
+![example.gif](https://cdn.pkmer.cn/covers/markdown-shortcuts_2_0.gif)
 
 ## 配置插件
 

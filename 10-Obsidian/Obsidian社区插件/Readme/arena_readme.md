@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许您将 Are.na 块保存为笔记。
 
-![Are.na unofficial](https://cdn.pkmer.cn/covers/arena.gif!pkmer)
+![Are.na unofficial](https://cdn.pkmer.cn/covers/arena.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 允许您将 [Are.na](are.na/about) 的区块保存为 Obsidian 笔记。
 
-![演示](https://cdn.pkmer.cn/covers/arena_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/arena_2_0.gif)
 
 ## 手动安装
 

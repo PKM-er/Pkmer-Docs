@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件很危险！当你开始它时，你必须不停地写 100 秒。如果你停下来，思考和环顾四周，3 秒钟后，插件将删除你在这个笔记中写的内容。
 
-![Dangerzone Writing](https://cdn.pkmer.cn/covers/dangerzone-writing-plugin_new.gif!pkmer)
+![Dangerzone Writing](https://cdn.pkmer.cn/covers/dangerzone-writing-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -63,7 +63,7 @@ modified: 20230101000000
 
 这是一个示例会话：
 
-![](https://cdn.pkmer.cn/covers/dangerzone-writing-plugin_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/dangerzone-writing-plugin_1_0.gif)
 
 何时使用 Dangerzone 写作
 

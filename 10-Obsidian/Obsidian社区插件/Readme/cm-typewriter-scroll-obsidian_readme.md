@@ -45,7 +45,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，可以启用打字机风格的滚动，保持编辑器中心视图。
 
-![截图](https://cdn.pkmer.cn/covers/cm-typewriter-scroll-obsidian_1_2.gif!pkmer)
+![截图](https://cdn.pkmer.cn/covers/cm-typewriter-scroll-obsidian_1_2.gif)
 
 ### 兼容性
 

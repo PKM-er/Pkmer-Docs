@@ -45,11 +45,11 @@ modified: 20230101000000
 
 Obsidian 插件，可以直接将 Google 日历事件和 Google 联系人信息插入到您的笔记中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-google-lookup_1_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-google-lookup_1_2.gif)
 
 建议模态框正在查找您的日历事件。这对于在 Obsidian 中记录会议笔记并希望快速填充会议元数据的人非常有用。
 
-![](https://cdn.pkmer.cn/covers/obsidian-google-lookup_1_3.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-google-lookup_1_3.gif)
 
 这里的建议模态框正在查找联系人，包括个人联系人和 Google Workspace 目录中的人员。当将 Obsidian 用作迷你 CRM 并希望能够快速为您合作的个人创建笔记，并且稍后可以与其他笔记进行反向链接时，这非常有用。
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 轻松创建缩写词，按下“空格”后将展开。
 
-![Abbreviations expander](https://cdn.pkmer.cn/covers/abbreviations.gif!pkmer)
+![Abbreviations expander](https://cdn.pkmer.cn/covers/abbreviations.gif)
 
 > [!tip] 原文出处
 >
@@ -41,6 +41,6 @@ modified: 20230101000000
 
 该插件允许您定义缩写词，当您输入它们时，它们将被展开。这对于您经常拼写错误的单词或者您希望将其展开为更长的单词或句子非常有用。
 
-![演示](https://cdn.pkmer.cn/covers/abbreviations_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/abbreviations_2_0.gif)
 
 您可以在菜单的专用部分中定义缩写词，您可以创建、启用、禁用、删除甚至设置它们为不区分大小写，这意味着即使使用全大写字母，缩写词也可以被展开。

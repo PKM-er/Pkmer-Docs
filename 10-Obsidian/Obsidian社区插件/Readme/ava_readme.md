@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 ChatGPT 快速格式化您的笔记
 
-![Ava](https://cdn.pkmer.cn/covers/ava_new.gif!pkmer)
+![Ava](https://cdn.pkmer.cn/covers/ava_new.gif)
 
 > [!tip] 原文出处
 >
@@ -65,7 +65,7 @@ modified: 20230101000000
 1. 按下：<img alt="cmd" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Looped_square_on_white_background.svg/560px-Looped_square_on_white_background.svg.png?20071209071920" width="16" height="16"> + P
 2. 输入：写段落
 
-![段落](https://cdn.pkmer.cn/covers/ava_1_0.gif!pkmer)
+![段落](https://cdn.pkmer.cn/covers/ava_1_0.gif)
 
 ### 写作。重写
 
@@ -74,7 +74,7 @@ modified: 20230101000000
 1. 按下：<img alt="cmd" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Looped_square_on_white_background.svg/560px-Looped_square_on_white_background.svg.png?20071209071920" width="16" height="16"> + P
 2. 输入：重写所选内容
 
-![rewrite](https://cdn.pkmer.cn/covers/ava_1_1.gif!pkmer)
+![rewrite](https://cdn.pkmer.cn/covers/ava_1_1.gif)
 
 ### 连接各个要点。充分利用你的知识
 
@@ -89,7 +89,7 @@ modified: 20230101000000
 1. 按下：<img alt="cmd" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Looped_square_on_white_background.svg/560px-Looped_square_on_white_background.svg.png?20071209071920" width="16" height="16"> + P
 2. 输入：链接注释
 
-![New Recording Mar 19 2023 1003 AM (1)](https://cdn.pkmer.cn/covers/ava_1_2.gif!pkmer)
+![New Recording Mar 19 2023 1003 AM (1)](https://cdn.pkmer.cn/covers/ava_1_2.gif)
 
 ### 从选定的文本创建图像
 
@@ -98,7 +98,7 @@ modified: 20230101000000
 1. 按下：<img alt="cmd" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Looped_square_on_white_background.svg/560px-Looped_square_on_white_background.svg.png?20071209071920" width="16" height="16"> + P
 2. 输入：生成图像
 
-![images](https://cdn.pkmer.cn/covers/ava_1_3.gif!pkmer)
+![images](https://cdn.pkmer.cn/covers/ava_1_3.gif)
 
 ### 提问问题
 

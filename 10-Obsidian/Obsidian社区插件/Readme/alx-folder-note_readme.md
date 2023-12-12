@@ -67,7 +67,7 @@ alx-folder-note 是一个维护的、完全重写的、改进的文件夹笔记�
   - 如果未指定标题，[从 h1 中获取标题](https://github.com/aidenlx/alx-folder-note/wiki/folderv-settings#h1-as-title-source)
   - 使用正则表达式/通配符 [过滤文件](https://github.com/aidenlx/alx-folder-note/wiki/folderv-options#filter)
   - 按名称/创建时间/最后修改时间 [对文件进行排序](https://github.com/aidenlx/alx-folder-note/wiki/folderv-options#sort)
-- 文件夹焦点模式：在文件资源管理器中右键单击文件夹，选择“切换焦点”可以使选定文件夹之外的其他文件和文件夹变暗，再次选择选项可以恢复![CleanShot_2021-11-29_at_18 30 53](https://cdn.pkmer.cn/covers/alx-folder-note_1_1.gif!pkmer)
+- 文件夹焦点模式：在文件资源管理器中右键单击文件夹，选择“切换焦点”可以使选定文件夹之外的其他文件和文件夹变暗，再次选择选项可以恢复![CleanShot_2021-11-29_at_18 30 53](https://cdn.pkmer.cn/covers/alx-folder-note_1_1.gif)
     - 您还可以在文件资源管理器中使用鼠标长按文件夹名称来切换文件夹焦点（默认禁用，仅适用于桌面版）
 - [文件资源管理器中的文件夹图标](https://github.com/aidenlx/alx-folder-note/issues/11)
 更多功能即将推出：

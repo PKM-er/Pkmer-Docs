@@ -24,7 +24,7 @@ modified: 20230101000000
 
 为 Obsidian 编辑器添加动态背景效果
 
-![Dynamic Background](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_new.gif!pkmer)
+![Dynamic Background](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_new.gif)
 
 > [!tip] 原文出处
 >
@@ -65,27 +65,27 @@ modified: 20230101000000
 
 ### 矩阵/数字雨动态效果
 
-![数字雨动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_0.gif!pkmer)
+![数字雨动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_0.gif)
 
 ### 雨动态效果
 
-![雨动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_1.gif!pkmer)
+![雨动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_1.gif)
 
 ### 带有壁纸的雨动态效果
 
-![带有壁纸的雨动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_2.gif!pkmer)
+![带有壁纸的雨动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_2.gif)
 
 ### 雪花动态效果
 
-![雪花动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_3.gif!pkmer)
+![雪花动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_3.gif)
 
 ### 带有壁纸的雪花动态效果
 
-![带有壁纸的雪花动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_4.gif!pkmer)
+![带有壁纸的雪花动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_4.gif)
 
 ### 波动动态效果
 
-![波动动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_5.gif!pkmer)
+![波动动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_5.gif)
 
 ### 带有壁纸的波动动态效果
 
@@ -106,7 +106,7 @@ modified: 20230101000000
 
 请参考下面的视频了解详细步骤：
 
-![Blue Sky](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_8.gif!pkmer)
+![Blue Sky](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_8.gif)
 
 ### 启用或禁用动态效果
 

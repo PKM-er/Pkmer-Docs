@@ -24,7 +24,7 @@ modified: 20230101000000
 
 添加来自像 Visual Studio Code 或 JetBrains Family 等流行 IDE 的经典热键/快捷键命令。
 
-![Keyshots](https://cdn.pkmer.cn/covers/keyshots.gif!pkmer)
+![Keyshots](https://cdn.pkmer.cn/covers/keyshots.gif)
 
 > [!tip] 原文出处
 >
@@ -104,55 +104,55 @@ Keyshots 是一个 [Obsidian](https://obsidian.md) 插件，它添加了来自�
 
 Keyshots 添加了一些操作，如上移或下移行...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_0.gif)
 
 ...在光标上方或下方添加插入符...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_1.gif)
 
 ...在上方或下方插入行...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_2.gif)
 
 ...上移或下移复制行...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_3.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_3.gif)
 
 ...复制文本或选择...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_4.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_4.gif)
 
 ...在编辑器内切换可读行长度...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_5.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_5.gif)
 
 ...在编辑器内切换行号...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_6.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_6.gif)
 
 ...编码或解码 URI 文本...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_7.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_7.gif)
 
 ...将选定的文本转换为小写、大写或首字母大写...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_8.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_8.gif)
 
 ...将选定的行合并为一行...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_9.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_9.gif)
 
 ...将选择拆分为新行并修剪选择...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_10.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_10.gif)
 
 ...使用字母数字比较对选定的行进行排序...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_11.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_11.gif)
 
 ...将选择转换为或从蛇形命名法...
 
-![](https://cdn.pkmer.cn/covers/keyshots_2_12.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/keyshots_2_12.gif)
 
 ...**还有更多要探索的命令！** *(更多即将推出)*
 

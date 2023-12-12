@@ -24,7 +24,7 @@ modified: 20230101000000
 
 键盘导航上/下标题 - 可配置的默认代码块和回调 - 通过键盘快捷键复制代码块
 
-![Quick snippets and navigation](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation.gif!pkmer)
+![Quick snippets and navigation](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation.gif)
 
 > [!tip] 原文出处
 >
@@ -50,7 +50,7 @@ modified: 20230101000000
 
 - 注意：仅在编辑模式下有效
 
-![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_1_0.gif)
 
 - 复制代码块：显示代码块列表，允许您搜索和复制其中一个
 - 复制下一个代码块：复制光标最近的下一个代码块
@@ -76,15 +76,15 @@ obsidian-another-quick-switcher:search-command_recent-search
 - 展开标签
 - AND 查询
 
-![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_1_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_1_1.gif)
 
-<!-- ![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_2_0.gif!pkmer) -->
+<!-- ![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_2_0.gif) -->
 
 ### Switcher 扩展/使用标签 1 打开切换器
 
 打开已经添加到查询中的文件中的第一个标签的切换器。
 
-![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_1_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_1_2.gif)
 
 > 注意 2：如果您想找到另一个切换器命令的命令 ID，请按 Ctrl+Shift+I 打开开发者控制台并运行此行。
 

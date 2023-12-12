@@ -57,7 +57,7 @@ modified: 20230101000000
 
 ## 截图
 
-![Gif](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_0.gif!pkmer)
+![Gif](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_0.gif)
 
 ### 默认暗色主题
 

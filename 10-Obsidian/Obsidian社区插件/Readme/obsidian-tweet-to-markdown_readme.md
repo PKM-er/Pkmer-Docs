@@ -231,7 +231,7 @@ another: second value
 
 从 1.3.0 版本开始，您可以将 Twitter 链接粘贴到任何文件中，并自动将其转换为推文并嵌入到您的笔记中。✨
 
-![粘贴推文链接的演示](https://cdn.pkmer.cn/covers/obsidian-tweet-to-markdown_1_1.gif!pkmer)
+![粘贴推文链接的演示](https://cdn.pkmer.cn/covers/obsidian-tweet-to-markdown_1_1.gif)
 
 您可以在插件设置面板中启用此设置，称为**粘贴时下载推文**。在设置中，您可以选择将推文直接嵌入到当前笔记中，还是将其链接为 Obsidian 嵌入（`![[note title]]`）。
 

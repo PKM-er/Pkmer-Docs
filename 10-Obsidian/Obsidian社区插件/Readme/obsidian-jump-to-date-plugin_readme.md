@@ -24,7 +24,7 @@ modified: 20230101000000
 
 快速导航日期的弹出式日历。
 
-![Obsidian42 - Jump-to-Date](https://cdn.pkmer.cn/covers/obsidian-jump-to-date-plugin.gif!pkmer)
+![Obsidian42 - Jump-to-Date](https://cdn.pkmer.cn/covers/obsidian-jump-to-date-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 请访问此插件的文档：<https://tfthacker.com/jumptodate>
 
-![功能预览](https://cdn.pkmer.cn/covers/obsidian-jump-to-date-plugin_2_0.gif!pkmer)
+![功能预览](https://cdn.pkmer.cn/covers/obsidian-jump-to-date-plugin_2_0.gif)
 
 如果您对阅读我写的文章感兴趣，请在 Medium 上查看我的文章：<https://bit.ly/o42-medium。>
 

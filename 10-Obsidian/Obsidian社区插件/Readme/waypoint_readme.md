@@ -43,7 +43,7 @@ Waypoint 是一个 Obsidian 插件，可以自动生成文件夹注释中的目�
 
 Waypoint 是 Obsidian 的一个插件，可以自动在您的文件夹笔记中生成目录/ MOC（Map of Content）。一旦生成了一个航点，它将自动链接到文件夹及其子文件夹中的每个笔记。Waypoint 插件将检测您创建/重命名/移动/删除笔记的操作，并自动保持最新状态。**不再需要处理大量的标签或手动更新自己的内容地图！**
 
-![](https://cdn.pkmer.cn/covers/waypoint_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/waypoint_2_0.gif)
 
 ## 特点
 

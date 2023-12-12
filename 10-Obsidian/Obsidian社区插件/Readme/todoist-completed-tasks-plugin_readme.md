@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将已完成的 Todoist 任务添加到 Obsidian 笔记中
 
-![Todoist completed tasks](https://cdn.pkmer.cn/covers/todoist-completed-tasks-plugin.gif!pkmer)
+![Todoist completed tasks](https://cdn.pkmer.cn/covers/todoist-completed-tasks-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个 Obsidian 插件从 Todoist 中获取您已完成的任务，并将它们添加到您的 Obsidian 笔记中。
 
-![演示](https://cdn.pkmer.cn/covers/todoist-completed-tasks-plugin_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/todoist-completed-tasks-plugin_1_0.gif)
 
 # 文档
 

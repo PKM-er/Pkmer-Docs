@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将 URL 提取内容转换为 Markdown
 
-![Extract url content](https://cdn.pkmer.cn/covers/extract-url_new.gif!pkmer)
+![Extract url content](https://cdn.pkmer.cn/covers/extract-url_new.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Obsidian 插件：将 URL 转换为 markdown 格式
 
-![演示](https://cdn.pkmer.cn/covers/extract-url_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/extract-url_2_0.gif)
 
 如果网站允许，将 URL 转换为 markdown 格式。
 

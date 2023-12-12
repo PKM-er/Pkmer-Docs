@@ -24,7 +24,7 @@ modified: 20230101000000
 
 为 Obsidian 注脚增加悬浮展示功能，鼠标指向后，注脚的解释会出现在对应位置。
 
-![Better footnote](https://cdn.pkmer.cn/covers/better-fn.gif!pkmer)
+![Better footnote](https://cdn.pkmer.cn/covers/better-fn.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 将脚注转换为弹出窗口
 
-![BetterFnDemo](https://cdn.pkmer.cn/covers/better-fn_1_0.gif!pkmer)
+![BetterFnDemo](https://cdn.pkmer.cn/covers/better-fn_1_0.gif)
 
 如何使用
 

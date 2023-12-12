@@ -89,28 +89,28 @@ Obsidian 插件，提供 Markdown 表格的编辑器。它可以从 Obsidian Mar
 1. 点击*功能区*中的“打开 Markdown 表格编辑器”按钮。
 2. 从*命令面板*中使用“Markdown 表格编辑器：打开编辑器”命令。
 
-![创建一个新表格](https://cdn.pkmer.cn/covers/markdown-table-editor_1_4.gif!pkmer)
+![创建一个新表格](https://cdn.pkmer.cn/covers/markdown-table-editor_1_4.gif)
 
 ### 1.2 编辑和格式化现有的 Markdown 表格
 
 1. 选择 Markdown 内容或者将光标放置在表格内容内部
 2. 打开*Markdown 表格编辑器*
 
-![编辑和格式化现有的Markdown表格](https://cdn.pkmer.cn/covers/markdown-table-editor_1_5.gif!pkmer)
+![编辑和格式化现有的Markdown表格](https://cdn.pkmer.cn/covers/markdown-table-editor_1_5.gif)
 
 ### 1.3 将 CSV 数据转换为 Markdown 表格
 
 1. 选择 CSV 内容或者将光标放置在 CSV 内容内部
 2. 打开*Markdown 表格编辑器*
 
-![CVS数据转换为Markdown表格](https://cdn.pkmer.cn/covers/markdown-table-editor_1_6.gif!pkmer)
+![CVS数据转换为Markdown表格](https://cdn.pkmer.cn/covers/markdown-table-editor_1_6.gif)
 
 ### 1.4 将 Excel 或 Sheets 转换为 Markdown 表格
 
 1. 选择 Excel 数据（通过 Ctrl/Cmd + Shift + V 粘贴）或只需将光标放在 Excel 数据内部
 2. 打开*Markdown 表格编辑器*
 
-![Excel Sheets to Markdown Table](https://cdn.pkmer.cn/covers/markdown-table-editor_1_7.gif!pkmer)
+![Excel Sheets to Markdown Table](https://cdn.pkmer.cn/covers/markdown-table-editor_1_7.gif)
 
 1.5 操作
 
@@ -145,21 +145,21 @@ Obsidian 插件，提供 Markdown 表格的编辑器。它可以从 Obsidian Mar
 		- 升序
 		- 降序
 
-![operations](https://cdn.pkmer.cn/covers/markdown-table-editor_1_8.gif!pkmer)
+![operations](https://cdn.pkmer.cn/covers/markdown-table-editor_1_8.gif)
 
 #### 1.6 选择表格
 
 1. 只需将光标放置在 Markdown 表格、CSV 或 Excel 数据内部。
 2. 从命令面板中调用“Markdown Table Editor: Select surrounding Table Content”命令。
 
-![选择表格内容](https://cdn.pkmer.cn/covers/markdown-table-editor_1_9.gif!pkmer)
+![选择表格内容](https://cdn.pkmer.cn/covers/markdown-table-editor_1_9.gif)
 
 #### 1.7 在活动窗格下方打开表格编辑器
 
 1. 您可以右键单击功能区图标，然后选择“打开编辑器（在活动视图下方）”来水平分割当前视图并在下方打开表格编辑器。
 2. 您也可以使用命令面板，使用“Markdown Table Editor: Open Editor (Below the Active View)”命令来执行此操作。
 
-![horizontal spilit](https://cdn.pkmer.cn/covers/markdown-table-editor_1_10.gif!pkmer)
+![horizontal spilit](https://cdn.pkmer.cn/covers/markdown-table-editor_1_10.gif)
 
 ## 2. 安装
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 创建代码片段文件夹，一键激活它们！
 
-![Group Snippets](https://cdn.pkmer.cn/covers/obsidian-group-snippets_new.gif!pkmer)
+![Group Snippets](https://cdn.pkmer.cn/covers/obsidian-group-snippets_new.gif)
 
 > [!tip] 原文出处
 >
@@ -96,7 +96,7 @@ modified: 20230101000000
 
 🗒️一些注意事项：当您删除代码片段时，您需要重新加载代码片段（使用刷新按钮）。但是，不用担心，插件无法激活不存在的代码片段！只是列表需要一些刷新：）。
 
-![](https://cdn.pkmer.cn/covers/obsidian-group-snippets_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-group-snippets_2_0.gif)
 
 ## 🤖 开发
 

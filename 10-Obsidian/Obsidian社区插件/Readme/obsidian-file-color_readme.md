@@ -47,13 +47,13 @@ modified: 20230101000000
 
 通过在文件资源管理器中右键单击文件或文件夹并选择“设置颜色”来设置文件或文件夹的颜色。这将打开一个模态框，您可以在其中选择插件调色板中定义的所有颜色。
 
-![设置颜色](https://cdn.pkmer.cn/covers/obsidian-file-color_2_1.gif!pkmer)
+![设置颜色](https://cdn.pkmer.cn/covers/obsidian-file-color_2_1.gif)
 
 ### 更改调色板
 
 要向调色板中添加颜色，请打开插件设置，并点击“+”按钮。然后使用颜色选择器选择颜色，并输入颜色的名称。之后，它将出现在“设置颜色”模态框中。您可以根据需要添加任意数量的颜色。
 
-![添加颜色](https://cdn.pkmer.cn/covers/obsidian-file-color_2_2.gif!pkmer)
+![添加颜色](https://cdn.pkmer.cn/covers/obsidian-file-color_2_2.gif)
 
 ## 兼容性
 

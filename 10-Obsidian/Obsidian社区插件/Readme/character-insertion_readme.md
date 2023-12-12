@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在光标下插入指定符号的插件。
 
-![Character Insertion](https://cdn.pkmer.cn/covers/character-insertion.gif!pkmer)
+![Character Insertion](https://cdn.pkmer.cn/covers/character-insertion.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个在光标位置提前插入指定字符的插件。
 
-![演示](https://cdn.pkmer.cn/covers/character-insertion_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/character-insertion_2_0.gif)
 
 在设置中提前插入字符集到光标位置。
 

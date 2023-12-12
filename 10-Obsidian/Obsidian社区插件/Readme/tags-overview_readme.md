@@ -24,7 +24,7 @@ modified: 20230101000000
 
 添加了一个扩展标签面板，可以简单地查看、过滤和访问已标记的文件。
 
-![Tags Overview](https://cdn.pkmer.cn/covers/tags-overview.gif!pkmer)
+![Tags Overview](https://cdn.pkmer.cn/covers/tags-overview.gif)
 
 > [!tip] 原文出处
 >
@@ -57,7 +57,7 @@ modified: 20230101000000
 
 如果一个文件包含标签 `#vehicle` 和 `#car`，那么搜索 `#vehicle` 将在结果中显示这两个标签。然而，只包含 `#car` 标签的文件将不会出现在列表中。
 
-![related-tags](https://cdn.pkmer.cn/covers/tags-overview_1_0.gif!pkmer)
+![related-tags](https://cdn.pkmer.cn/covers/tags-overview_1_0.gif)
 
 ### 嵌套标签
 
@@ -67,7 +67,7 @@ modified: 20230101000000
 
 选择表格视图或更简约的列表视图。表格视图将显示文件上次修改的日期。可以在插件设置中更改日期的格式。
 
-![display-types](https://cdn.pkmer.cn/covers/tags-overview_1_1.gif!pkmer)
+![display-types](https://cdn.pkmer.cn/covers/tags-overview_1_1.gif)
 
 ### 过滤器
 

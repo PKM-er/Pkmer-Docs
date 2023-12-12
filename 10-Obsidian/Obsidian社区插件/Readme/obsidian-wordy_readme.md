@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 Datamuse API 查找同义词、押韵词等等。
 
-![Wordy](https://cdn.pkmer.cn/covers/obsidian-wordy.gif!pkmer)
+![Wordy](https://cdn.pkmer.cn/covers/obsidian-wordy.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 # 演示
 
-![](https://cdn.pkmer.cn/covers/obsidian-wordy_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-wordy_2_0.gif)
 
 # 用法
 

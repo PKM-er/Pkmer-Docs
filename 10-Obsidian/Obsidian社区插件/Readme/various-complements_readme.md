@@ -47,7 +47,7 @@ modified: 20230101000000
 
 这个插件为 [Obsidian] 提供了类似 IDE 自动补全的单词补全功能。
 
-![](https://cdn.pkmer.cn/covers/various-complements_1_3.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/various-complements_1_3.gif)
 
 ## 📚文档
 

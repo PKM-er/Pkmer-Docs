@@ -24,7 +24,7 @@ modified: 20230101000000
 
 粘贴内容，并在任何缩进级别标记块引用。
 
-![Paste Mode](https://cdn.pkmer.cn/covers/obsidian-paste-to-current-indentation.gif!pkmer)
+![Paste Mode](https://cdn.pkmer.cn/covers/obsidian-paste-to-current-indentation.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 粘贴模式接管了 Obsidian 中的粘贴功能。它有八种“粘贴模式”，确定在 Obsidian 中粘贴文本时会发生什么。**除了“透传”模式会使用 Obsidian 的默认粘贴功能外，下面的所有模式都会遵循光标当前的缩进。**
 
-![粘贴模式演示](https://cdn.pkmer.cn/covers/obsidian-paste-to-current-indentation_2_0.gif!pkmer)
+![粘贴模式演示](https://cdn.pkmer.cn/covers/obsidian-paste-to-current-indentation_2_0.gif)
 
 1. “文本”模式：粘贴剪贴板中的文本。
 2. “文本引用”模式：将剪贴板中的文本作为引用粘贴（在插件的设置菜单中添加前缀，默认为“`> `”）。
@@ -82,7 +82,7 @@ modified: 20230101000000
 
 - 在命令面板中，`Paste Mode: Toggle blockquote at current indentation` 命令将在当前缩进级别上切换引用块标记。
 
-![切换引用块命令](https://cdn.pkmer.cn/covers/obsidian-paste-to-current-indentation_2_2.gif!pkmer)
+![切换引用块命令](https://cdn.pkmer.cn/covers/obsidian-paste-to-current-indentation_2_2.gif)
 
 引用块标记可以通过插件的设置页面进行自定义（例如，如果您更喜欢使用空格而不是 `> `）。
 

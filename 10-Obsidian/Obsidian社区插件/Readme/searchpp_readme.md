@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Search++
 
-![](https://cdn.pkmer.cn/covers/searchpp_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/searchpp_2_0.gif)
 
 这个插件基于 [mrj-text-expand](https://github.com/nhaouari/obsidian-text-expand) 的代码，它会将找到的结果插入到你正在编辑的笔记中。
 

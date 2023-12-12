@@ -24,7 +24,7 @@ modified: 20230101000000
 
 加强文本编辑器中文分词功能
 
-![Word Splitting for Simplified Chinese in Edit Mode and Vim Mode](https://cdn.pkmer.cn/covers/cm-chs-patch.gif!pkmer)
+![Word Splitting for Simplified Chinese in Edit Mode and Vim Mode](https://cdn.pkmer.cn/covers/cm-chs-patch.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 | Obsidian 的默认分词 | 安装插件后 |
 | ------------------ | ----------- |
-| ![ob-default-splitting](https://cdn.pkmer.cn/covers/cm-chs-patch_1_0.gif!pkmer)                   | ![ob-patched-splitting](https://cdn.pkmer.cn/covers/cm-chs-patch_1_1.gif!pkmer)            |
+| ![ob-default-splitting](https://cdn.pkmer.cn/covers/cm-chs-patch_1_0.gif)                   | ![ob-patched-splitting](https://cdn.pkmer.cn/covers/cm-chs-patch_1_1.gif)            |
 
 所需的 API 功能仅适用于 Obsidian v0.15.0+。
 

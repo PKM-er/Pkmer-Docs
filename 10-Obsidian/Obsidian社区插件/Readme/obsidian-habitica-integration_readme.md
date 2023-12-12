@@ -77,7 +77,7 @@ modified: 20230101000000
 
 - 在视图中勾选任务/日常任务
 	- 可以取消勾选已完成的习惯/待办事项
-	- [![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-habitica-integration_1_2.gif!pkmer)](https://gyazo.com/efb858cd9d54f9d9df936da1bd5858ed)
+	- [![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-habitica-integration_1_2.gif)](https://gyazo.com/efb858cd9d54f9d9df936da1bd5858ed)
 - 修改习惯计数器（+/-）
 
 ### 设置

@@ -91,26 +91,26 @@ modified: 20230101000000
 
 - Sync personal records of movies, books, games, and music
   Sync data from Douban (refer to [Using the Timeline Plugin to Build a Reading/Movie Timeline](./doc/Obsidian-Douban-TimeLine.md) for how to use the Timeline plugin to create a timeline)
-  ![Sync Data From Douban](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_1.gif!pkmer)
+  ![Sync Data From Douban](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_1.gif)
 
 ### 搜索
 
 - Search for data and create notes
-  ![search_and_create](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_2.gif!pkmer)
+  ![search_and_create](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_2.gif)
 - Search by current file name
-  ![Search Movie By File Name](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_3.gif!pkmer)
+  ![Search Movie By File Name](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_3.gif)
 
 - Search by input text
-  ![Search Movie By Input Text](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_4.gif!pkmer)
+  ![Search Movie By Input Text](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_4.gif)
 
 ## 设置
 
 - 设置案例 1(自定义模板)
-  ![设置案例1](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_5.gif!pkmer)
+  ![设置案例1](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_5.gif)
 
 
 - 设置案例 2(其它配置)
-  ![设置案例2](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_6.gif!pkmer)
+  ![设置案例2](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_6.gif)
 
 支持的字段
 

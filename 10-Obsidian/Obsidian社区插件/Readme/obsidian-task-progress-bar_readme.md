@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个用于在任务符号或标题附近显示任务进度条的插件。仅在 Obsidian 的实时预览模式下工作。
 
-![示例](https://cdn.pkmer.cn/covers/obsidian-task-progress-bar_2_0.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/obsidian-task-progress-bar_2_0.gif)
 
 ## 设置
 

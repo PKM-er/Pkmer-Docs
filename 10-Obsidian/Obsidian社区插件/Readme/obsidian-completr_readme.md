@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件提供了针对 LaTeX、Frontmatter 和标准写作的高级自动完成功能。
 
-![Completr](https://cdn.pkmer.cn/covers/obsidian-completr.gif!pkmer)
+![Completr](https://cdn.pkmer.cn/covers/obsidian-completr.gif)
 
 > [!tip] 原文出处
 >
@@ -106,15 +106,15 @@ modified: 20230101000000
 
 #### Latex 片段
 
-![Latex](https://cdn.pkmer.cn/covers/obsidian-completr_1_2.gif!pkmer)
+![Latex](https://cdn.pkmer.cn/covers/obsidian-completr_1_2.gif)
 
 #### YAML 前置内容
 
-![前置内容](https://cdn.pkmer.cn/covers/obsidian-completr_1_3.gif!pkmer)
+![前置内容](https://cdn.pkmer.cn/covers/obsidian-completr_1_3.gif)
 
 #### 文件扫描
 
-![文件扫描器](https://cdn.pkmer.cn/covers/obsidian-completr_1_4.gif!pkmer)
+![文件扫描器](https://cdn.pkmer.cn/covers/obsidian-completr_1_4.gif)
 
 两百万个德语单词已加载
 

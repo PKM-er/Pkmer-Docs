@@ -24,7 +24,7 @@ modified: 20230101000000
 
 轻松记录播客节目。
 
-![PodNotes](https://cdn.pkmer.cn/covers/podnotes_new.gif!pkmer)
+![PodNotes](https://cdn.pkmer.cn/covers/podnotes_new.gif)
 
 > [!tip] 原文出处
 >
@@ -75,7 +75,7 @@ PodNotes 的一个目标是让您更容易在播客上写笔记。
 
 ### 演示
 
-![演示](https://cdn.pkmer.cn/covers/podnotes_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/podnotes_2_0.gif)
 
 ### 播客网格
 

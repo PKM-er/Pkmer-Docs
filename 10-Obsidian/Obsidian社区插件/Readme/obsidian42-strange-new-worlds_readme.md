@@ -24,7 +24,7 @@ modified: 20230101000000
 
 揭示网络思维和你的保险库创造的奇异新世界。
 
-![Obsidian42 - Strange New Worlds](https://cdn.pkmer.cn/covers/obsidian42-strange-new-worlds_new.gif!pkmer)
+![Obsidian42 - Strange New Worlds](https://cdn.pkmer.cn/covers/obsidian42-strange-new-worlds_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 基本思想是我们希望看到链接、块引用和嵌入与保险库中的其他文件有关联。问题是您必须搜索、打开反向链接等等才能了解情况。但是在我们的保险库中有许多奇异的网络思维新世界等待发现。该插件试图重新展现这些连接，并在此过程中不会过于侵入（或不会过于侵入）。
 
-![](https://cdn.pkmer.cn/covers/obsidian42-strange-new-worlds_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian42-strange-new-worlds_2_0.gif)
 
 该插件的文档可在以下网址找到：<https://tfthacker.com/SNW>
 

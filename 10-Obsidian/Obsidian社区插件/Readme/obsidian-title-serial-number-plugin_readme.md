@@ -24,7 +24,7 @@ modified: 20230101000000
 
 该插件为您的 Markdown 标题添加序列号。
 
-![Title Serial Number Plugin](https://cdn.pkmer.cn/covers/obsidian-title-serial-number-plugin.gif!pkmer)
+![Title Serial Number Plugin](https://cdn.pkmer.cn/covers/obsidian-title-serial-number-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 该插件为您的 Markdown 标题添加了序列号。
 
-![快速开始](https://cdn.pkmer.cn/covers/obsidian-title-serial-number-plugin_1_0.gif!pkmer)
+![快速开始](https://cdn.pkmer.cn/covers/obsidian-title-serial-number-plugin_1_0.gif)
 
 现在，该插件仅提供两个命令及其图形界面进行配置！
 

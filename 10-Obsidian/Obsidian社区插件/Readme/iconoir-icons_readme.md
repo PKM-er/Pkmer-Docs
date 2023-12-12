@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个用于创建和显示定制的 SVG Iconoir 图标的插件。
 
-![Iconoir Icons](https://cdn.pkmer.cn/covers/iconoir-icons.gif!pkmer)
+![Iconoir Icons](https://cdn.pkmer.cn/covers/iconoir-icons.gif)
 
 > [!tip] 原文出处
 >
@@ -49,11 +49,11 @@ modified: 20230101000000
 
 ### 图标搜索建议
 
-![iconoir suggester](https://cdn.pkmer.cn/covers/iconoir-icons_2_0.gif!pkmer)
+![iconoir suggester](https://cdn.pkmer.cn/covers/iconoir-icons_2_0.gif)
 
 ### 自定义 `CSS` 样式
 
-![iconoir suggester](https://cdn.pkmer.cn/covers/iconoir-icons_2_1.gif!pkmer)
+![iconoir suggester](https://cdn.pkmer.cn/covers/iconoir-icons_2_1.gif)
 
 ## 语法
 

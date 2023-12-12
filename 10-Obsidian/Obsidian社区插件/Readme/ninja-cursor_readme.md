@@ -24,7 +24,7 @@ modified: 20230101000000
 
 提高光标可见性的插件。
 
-![Ninja Cursor](https://cdn.pkmer.cn/covers/ninja-cursor_new.gif!pkmer)
+![Ninja Cursor](https://cdn.pkmer.cn/covers/ninja-cursor_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 增强光标可见性的插件。
 
-![ninjacursor](https://cdn.pkmer.cn/covers/ninja-cursor_1_0.gif!pkmer)
+![ninjacursor](https://cdn.pkmer.cn/covers/ninja-cursor_1_0.gif)
 
 注意：这是在对 [Neovide](https://github.com/neovide/neovide) 的“无意义”部分表示极大的尊重的基础上制作的。
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 提供控件来显示或隐藏已完成的任务。
 
-![Completed Task Display](https://cdn.pkmer.cn/covers/completed-task-display.gif!pkmer)
+![Completed Task Display](https://cdn.pkmer.cn/covers/completed-task-display.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 ### 演示
 
-![](https://cdn.pkmer.cn/covers/completed-task-display_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/completed-task-display_2_0.gif)
 
 ## 如何安装
 

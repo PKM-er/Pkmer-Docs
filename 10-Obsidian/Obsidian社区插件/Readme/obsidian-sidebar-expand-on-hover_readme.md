@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个黑曜石插件可以根据鼠标悬停在左侧标签上展开或折叠侧边栏。
 
-![Sidebar Expand on Hover](https://cdn.pkmer.cn/covers/obsidian-sidebar-expand-on-hover_new.gif!pkmer)
+![Sidebar Expand on Hover](https://cdn.pkmer.cn/covers/obsidian-sidebar-expand-on-hover_new.gif)
 
 > [!tip] 原文出处
 >
@@ -48,7 +48,7 @@ modified: 20230101000000
 
 ### 演示
 
-![插件在操作中的效果：当鼠标悬停在带子上时，侧边栏自动展开](https://cdn.pkmer.cn/covers/obsidian-sidebar-expand-on-hover_2_0.gif!pkmer)
+![插件在操作中的效果：当鼠标悬停在带子上时，侧边栏自动展开](https://cdn.pkmer.cn/covers/obsidian-sidebar-expand-on-hover_2_0.gif)
 
 ### 待办事项
 

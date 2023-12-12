@@ -24,7 +24,7 @@ modified: 20230101000000
 
 增强 Dataview 样式内联字段
 
-![Better Inline Fields](https://cdn.pkmer.cn/covers/better-inline-fields.GIF!pkmer)
+![Better Inline Fields](https://cdn.pkmer.cn/covers/better-inline-fields.gif)
 
 > [!tip] 原文出处
 >
@@ -45,14 +45,14 @@ modified: 20230101000000
 
 - 复选框，允许切换内联布尔值
 
-![复选框](https://cdn.pkmer.cn/covers/better-inline-fields_1_0.gif!pkmer)
+![复选框](https://cdn.pkmer.cn/covers/better-inline-fields_1_0.gif)
 
 - 根据配置文件夹中的页面自动完成字段值（需要 [dataview](https://github.com/blacksmithgu/obsidian-dataview) 插件）。
   - 考虑别名。
   - 可以使用正则表达式通过在文本前加上正则表达式触发器（在设置中可配置，默认为“/”）来搜索自动完成的值。
     - `Field:: /.*a.*b`
 
-![页面自动完成](https://cdn.pkmer.cn/covers/better-inline-fields_1_1.gif!pkmer)
+![页面自动完成](https://cdn.pkmer.cn/covers/better-inline-fields_1_1.gif)
 
 - [ ] 在其他文件中基于相同名称字段为字段值添加自动完成功能。
 

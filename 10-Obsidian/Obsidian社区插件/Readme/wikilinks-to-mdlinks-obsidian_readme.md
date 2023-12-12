@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将双链和 Markdown 链接互换。
 
-![Wikilinks to MDLinks](https://cdn.pkmer.cn/covers/wikilinks-to-mdlinks-obsidian.gif!pkmer)
+![Wikilinks to MDLinks](https://cdn.pkmer.cn/covers/wikilinks-to-mdlinks-obsidian.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 该插件允许将单独选择的维基链接转换为 Markdown 链接，反之亦然。
 
-![demo](https://cdn.pkmer.cn/covers/wikilinks-to-mdlinks-obsidian_1_2.gif!pkmer)
+![demo](https://cdn.pkmer.cn/covers/wikilinks-to-mdlinks-obsidian_1_2.gif)
 
 ### 如何操作
 

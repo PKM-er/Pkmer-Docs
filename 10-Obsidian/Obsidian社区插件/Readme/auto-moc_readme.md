@@ -24,7 +24,7 @@ modified: 20230101000000
 
 查找当前笔记中缺失的链接引用，并将它们导入到当前笔记中。
 
-![AutoMOC](https://cdn.pkmer.cn/covers/auto-moc.gif!pkmer)
+![AutoMOC](https://cdn.pkmer.cn/covers/auto-moc.gif)
 
 > [!tip] 原文出处
 >
@@ -66,14 +66,14 @@ modified: 20230101000000
 <br>
 命令 1 可通过命令面板、键盘快捷键（必须映射）或功能区按钮运行。缺失的链接提及将被添加到当前光标位置的当前笔记中。
 
-![demo](https://cdn.pkmer.cn/covers/auto-moc_2_0.gif!pkmer)
+![demo](https://cdn.pkmer.cn/covers/auto-moc_2_0.gif)
 
 **注意：** 插件设置中有一个禁用功能区按钮的选项。仍然可以通过使用命令面板或映射的热键来激活插件。
 
 <br>
 命令 2 可通过命令面板或键盘快捷键（必须映射），但不能通过功能区按钮运行。它将打开一个模态弹窗，提示输入一个标签。一旦选择了所需的标签，所有具有该标签的笔记将被导入到当前光标位置的当前笔记中。
 
-![demo](https://cdn.pkmer.cn/covers/auto-moc_2_1.gif!pkmer)
+![demo](https://cdn.pkmer.cn/covers/auto-moc_2_1.gif)
 
 ### 前置元数据支持
 

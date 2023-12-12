@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在画布中折叠节点。
 
-![Collapse Node](https://cdn.pkmer.cn/covers/collapse-node.gif!pkmer)
+![Collapse Node](https://cdn.pkmer.cn/covers/collapse-node.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个用于 [Obsidian](https://obsidian.md) 的插件，帮助你在画布中折叠节点。
 
-![Collapse-Node](https://cdn.pkmer.cn/covers/collapse-node_2_0.gif!pkmer)
+![Collapse-Node](https://cdn.pkmer.cn/covers/collapse-node_2_0.gif)
 
 ## 使用方法
 

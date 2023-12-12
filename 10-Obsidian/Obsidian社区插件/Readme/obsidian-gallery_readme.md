@@ -51,19 +51,19 @@ modified: 20230101000000
 
 ##### 主画廊
 
-![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_2.gif)
 
 ##### 主画廊筛选
 
-![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_3.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_3.gif)
 
 ##### 显示块
 
-![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_4.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_4.gif)
 
 ##### 显示图像信息块
 
-![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_5.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_5.gif)
 
 ##### 旧例子
 

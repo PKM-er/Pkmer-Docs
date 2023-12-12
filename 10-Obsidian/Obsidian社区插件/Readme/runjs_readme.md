@@ -41,7 +41,7 @@ RunJS 是一个在 Obsidian（<https://obsidian.md）中运行 JavaScript 代码
 
 RunJS 是一个在 [Obsidian](https://obsidian.md/) 中运行 JavaScript 代码的插件。您可以直接运行简单的代码片段，而无需创建单独的插件。但是，与其他插件一样，您可以运行管理 Obsidian 和笔记的代码。代码可以在 Obsidian 笔记中以代码块 (.md) 的形式编写，也可以作为单独的文件 (.js, .mjs)。您还可以选择将代码分解为可执行代码和模块，以便更好地组织。
 
-![Obsidian-RunJS 介绍](https://cdn.pkmer.cn/covers/runjs_2_0.gif!pkmer)
+![Obsidian-RunJS 介绍](https://cdn.pkmer.cn/covers/runjs_2_0.gif)
 
 在这个例子中，执行了 [Insert Callout](https://github.com/eoureo/obsidian-runjs/discussions/17) 和 [width-100](https://github.com/eoureo/obsidian-runjs/discussions/10) 命令。您可以使用“打开代码文件”菜单查看和修改源代码。
 
@@ -92,7 +92,7 @@ new Notice("Hello, World!");
 ```
 ````
 
-![Obsidian-RunJS Hello, World!](https://cdn.pkmer.cn/covers/runjs_2_1.gif!pkmer)
+![Obsidian-RunJS Hello, World!](https://cdn.pkmer.cn/covers/runjs_2_1.gif)
 
 你可以在下面的链接中了解更多。
 
@@ -160,7 +160,7 @@ runJS.openIconModal();
 ```
 ````
 
-![Obsidian-RunJS图标模态框](https://cdn.pkmer.cn/covers/runjs_2_2.gif!pkmer)
+![Obsidian-RunJS图标模态框](https://cdn.pkmer.cn/covers/runjs_2_2.gif)
 
 您可以在下面的链接中了解更多信息。
 
@@ -257,7 +257,7 @@ export function myFunc3(...args) {
 
 您可以在下面的图像中看到上述代码的运行情况。
 
-![Obsidian-RunJS test](https://cdn.pkmer.cn/covers/runjs_2_3.gif!pkmer)
+![Obsidian-RunJS test](https://cdn.pkmer.cn/covers/runjs_2_3.gif)
 
 ## 设置选项卡
 

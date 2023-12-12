@@ -24,7 +24,7 @@ modified: 20230101000000
 
 提供了一些快捷键和小功能，包括快速改变大纲等级，加粗，斜体设置等等。部分功能官方已这次 hi 对应的快捷键。
 
-![ObsidianTweaks](https://cdn.pkmer.cn/covers/obsidian-tweaks_new.gif!pkmer)
+![ObsidianTweaks](https://cdn.pkmer.cn/covers/obsidian-tweaks_new.gif)
 
 > [!tip] 原文出处
 >
@@ -95,9 +95,9 @@ Obsidian 中的默认切换有时可能有些问题，不总是工作得很好�
 
 还包括数学切换。
 
-![默认格式](https://cdn.pkmer.cn/covers/obsidian-tweaks_2_0.gif!pkmer)
+![默认格式](https://cdn.pkmer.cn/covers/obsidian-tweaks_2_0.gif)
 
-![更好的格式](https://cdn.pkmer.cn/covers/obsidian-tweaks_2_1.gif!pkmer)
+![更好的格式](https://cdn.pkmer.cn/covers/obsidian-tweaks_2_1.gif)
 
 如何安装
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将文件路径转换为 uri 以便更容易地使用链接到 Obsidian 之外的本地文件
 
-![File path to URI](https://cdn.pkmer.cn/covers/obsidian-file-path-to-uri.gif!pkmer)
+![File path to URI](https://cdn.pkmer.cn/covers/obsidian-file-path-to-uri.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 该插件允许您将本地路径转换为文件 URL 链接，以便链接到位于 Obsidian 保险库之外的文件或文件夹。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-file-path-to-uri_1_2.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-file-path-to-uri_1_2.gif)
 
 使用 Obsidian 的原生行为❗
 

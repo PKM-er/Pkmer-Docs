@@ -24,7 +24,7 @@ modified: 20230101000000
 
 官方 Readwise 与 Obsidian 集成。
 
-![Readwise Official](https://cdn.pkmer.cn/covers/readwise-official_new.gif!pkmer)
+![Readwise Official](https://cdn.pkmer.cn/covers/readwise-official_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 这个由 [Readwise](https://readwise.io) 团队维护的官方插件，可以让你轻松自动地将来自各种来源（如亚马逊 Kindle、Apple Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDF 等）的所有数字高亮导出到 [Obsidian](https://obsidian.md)。
 
-![](https://cdn.pkmer.cn/covers/readwise-official_1_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/readwise-official_1_1.gif)
 
 注意：这个插件需要与 [Readwise](https://readwise.io) 订阅一起使用，Readwise 是一个付费服务，可以方便地将你的阅读数据聚合和审阅到一个地方。
 

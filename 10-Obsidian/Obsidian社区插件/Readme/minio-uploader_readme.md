@@ -41,7 +41,7 @@ modified: 20230101000000
 
 ## 预览
 
-![演示](https://cdn.pkmer.cn/covers/minio-uploader_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/minio-uploader_2_0.gif)
 
 可以与 [编辑工具栏](https://github.com/PKM-er/obsidian-editing-toolbar) 配对使用。要使用该插件，请将 mini 命令添加到操作栏中。您可以点击选择文件，上传文件，并将其添加到 Observer 文档中。
 

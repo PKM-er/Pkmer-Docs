@@ -24,7 +24,7 @@ modified: 20230101000000
 
 注意你正在关注的内容。Enlightenment 为预览添加了一个“Zen 模式”，隐藏了你的笔记内容，除了你的指针下面的内容。
 
-![Enlightenment](https://cdn.pkmer.cn/covers/enlightenment-obsidian_new.gif!pkmer)
+![Enlightenment](https://cdn.pkmer.cn/covers/enlightenment-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 有三种模式。在“所有窗格”模式下，启蒙会淡化所有笔记的内容。在“活动窗格”模式下，它只对当前活动的窗格起作用。最后，在“非活动窗格”模式下，启蒙会淡化所有非活动窗格。
 
-![启蒙的视频演示。](https://cdn.pkmer.cn/covers/enlightenment-obsidian_1_0.gif!pkmer)
+![启蒙的视频演示。](https://cdn.pkmer.cn/covers/enlightenment-obsidian_1_0.gif)
 
 ### 安装插件
 

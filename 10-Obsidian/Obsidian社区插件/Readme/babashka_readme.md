@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在 Babashka 中评估 Clojure(Script) 代码块。
 
-![Babashka](https://cdn.pkmer.cn/covers/babashka.gif!pkmer)
+![Babashka](https://cdn.pkmer.cn/covers/babashka.gif)
 
 > [!tip] 原文出处
 >
@@ -57,15 +57,15 @@ Obsidian Babashka 是 Obsidian 的插件，通过 Babashka 和 Node Babashka 分
 
 ### 评估 Clojure 和 ClojureScript 代码块
 
-![eval-codeblock](https://cdn.pkmer.cn/covers/babashka_2_0.gif!pkmer)
+![eval-codeblock](https://cdn.pkmer.cn/covers/babashka_2_0.gif)
 
 ### 在外部评估代码块并打印值
 
-![eval-codeblock-and-print-outside](https://cdn.pkmer.cn/covers/babashka_2_1.gif!pkmer)
+![eval-codeblock-and-print-outside](https://cdn.pkmer.cn/covers/babashka_2_1.gif)
 
 ### 启动并连接到 Babashka nREPL 服务器
 
-![async](https://cdn.pkmer.cn/covers/babashka_2_2.gif!pkmer)
+![async](https://cdn.pkmer.cn/covers/babashka_2_2.gif)
 
 ### 当前文件的 Vault 绑定
 

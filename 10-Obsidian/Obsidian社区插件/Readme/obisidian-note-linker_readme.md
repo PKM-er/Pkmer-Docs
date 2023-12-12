@@ -24,7 +24,7 @@ modified: 20230101000000
 
 自动发现并在笔记之间创建新的链接。
 
-![Note Linker](https://cdn.pkmer.cn/covers/obisidian-note-linker_new.gif!pkmer)
+![Note Linker](https://cdn.pkmer.cn/covers/obisidian-note-linker_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个用于在 Obsidian 中自动创建笔记之间新链接的插件。
 
-![ezgif com-gif-maker(4)](https://cdn.pkmer.cn/covers/obisidian-note-linker_1_0.gif!pkmer)
+![ezgif com-gif-maker(4)](https://cdn.pkmer.cn/covers/obisidian-note-linker_1_0.gif)
 
 ### 🤨 它是如何工作的？
 

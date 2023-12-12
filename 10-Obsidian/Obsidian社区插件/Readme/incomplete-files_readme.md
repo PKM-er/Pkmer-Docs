@@ -41,7 +41,7 @@ modified: 20230101000000
 
 ✅ 强大而简单
 
-![CleanShot 2023-11-17 at 14 22 52](https://cdn.pkmer.cn/covers/incomplete-files_1_0.gif!pkmer)
+![CleanShot 2023-11-17 at 14 22 52](https://cdn.pkmer.cn/covers/incomplete-files_1_0.gif)
 
 演示：<https://www.youtube.com/watch?v=GO3N-IdBNVA&ab_channel=YomaruHananoshika>
 

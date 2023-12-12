@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在 Obsidian 中直接嵌入 GitHub 问题、PR 和代码片段。
 
-![GitHub Embeds](https://cdn.pkmer.cn/covers/github-embeds.gif!pkmer)
+![GitHub Embeds](https://cdn.pkmer.cn/covers/github-embeds.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 *在 Obsidian 中直接嵌入 GitHub 问题、PR 和代码片段。*
 
-![演示GIF](https://cdn.pkmer.cn/covers/github-embeds_2_0.gif!pkmer)
+![演示GIF](https://cdn.pkmer.cn/covers/github-embeds_2_0.gif)
 
 ## 详细信息
 

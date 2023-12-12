@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这是一个 Obsidian 插件，是另一种快速切换的选择。
 
-![Another Quick Switcher](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_new.gif!pkmer)
+![Another Quick Switcher](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_new.gif)
 
 > [!tip] 原文出处
 >
@@ -64,7 +64,7 @@ modified: 20230101000000
 
 ### 1. 自定义搜索
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_3.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_3.gif)
 
 自定义搜索功能使您能够创建自己的搜索命令。
 
@@ -159,7 +159,7 @@ modified: 20230101000000
 
 ### 2. 文件中的标题浮动搜索/文件中的标题搜索
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_6.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_6.gif)
 
 - 即使在过滤后保留文件结构，也会显示所有标题
 - 默认情况下，自动跳转到第一个匹配建议，并通过 `Tab/Shift+Tab` 进行下一个/上一个跳转
@@ -171,7 +171,7 @@ modified: 20230101000000
 
 此功能需要 [ripgrep](https://github.com/BurntSushi/ripgrep) 并将可执行命令设置为“Ripgrep 命令”选项。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_7.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_7.gif)
 
 它按修改时间降序排序结果。
 
@@ -197,13 +197,13 @@ modified: 20230101000000
 
 它可以显示不仅是现有笔记的反向链接，还包括幻影（不存在的）笔记的反向链接。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_9.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_9.gif)
 
 ### 6. 在对话框中导航出站链接/反向链接
 
 您可以使用“显示链接”、“显示反向链接”、“前进导航”和“后退导航”命令，在不离开对话框的情况下导航到出站链接/反向链接。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_10.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_10.gif)
 
 ### 7. 预览
 

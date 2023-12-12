@@ -56,7 +56,7 @@ modified: 20230101000000
 
 ### 在设置中
 
-![j1OG4HxERzWXDIwMxYrt](https://cdn.pkmer.cn/covers/open-files-with-commands_1_0.gif!pkmer)
+![j1OG4HxERzWXDIwMxYrt](https://cdn.pkmer.cn/covers/open-files-with-commands_1_0.gif)
 
 如何重命名和删除命令
 
@@ -66,7 +66,7 @@ modified: 20230101000000
 
 打开后，您可以轻松删除、重命名和更改命令的文件路径。
 
-![Y2KfHEI6hBPK8k5lEbbz](https://cdn.pkmer.cn/covers/open-files-with-commands_1_2.gif!pkmer)
+![Y2KfHEI6hBPK8k5lEbbz](https://cdn.pkmer.cn/covers/open-files-with-commands_1_2.gif)
 
 如何安装插件
 

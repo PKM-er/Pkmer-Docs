@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在将块和标题在文件之间移动时，自动修复内部链接。
 
-![Persistent Links](https://cdn.pkmer.cn/covers/persistent-links.gif!pkmer)
+![Persistent Links](https://cdn.pkmer.cn/covers/persistent-links.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 如何使用它
 
-启用插件后，当您剪切和粘贴标题和块时，它将自动更新链接。这是一个演示：![](https://cdn.pkmer.cn/covers/persistent-links_2_0.gif!pkmer)
+启用插件后，当您剪切和粘贴标题和块时，它将自动更新链接。这是一个演示：![](https://cdn.pkmer.cn/covers/persistent-links_2_0.gif)
 
 如果文件以其他方式进行了更新，并且您注意到了一些损坏的链接，您可以使用“修复文件中的链接”命令来修复它们。插件将搜索元数据缓存，并尝试找到包含链接中的块或标题的文件。
 

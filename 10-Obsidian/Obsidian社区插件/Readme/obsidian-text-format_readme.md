@@ -238,4 +238,4 @@ modified: 20230101000000
   + 3. third, blahblah
   ```
 
-![demo](https://cdn.pkmer.cn/covers/obsidian-text-format_1_2.gif!pkmer)
+![demo](https://cdn.pkmer.cn/covers/obsidian-text-format_1_2.gif)

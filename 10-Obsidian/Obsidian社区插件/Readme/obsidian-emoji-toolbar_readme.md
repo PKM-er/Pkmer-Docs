@@ -24,7 +24,7 @@ modified: 20230101000000
 
 快速搜索表情符号并将其插入到您的编辑器中。
 
-![Emoji Toolbar](https://cdn.pkmer.cn/covers/obsidian-emoji-toolbar_new.gif!pkmer)
+![Emoji Toolbar](https://cdn.pkmer.cn/covers/obsidian-emoji-toolbar_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个插件适用于 [Obsidian](https://obsidian.md/)，允许您快速搜索并添加表情符号到编辑器中。
 
-![表情符号工具栏插件](https://cdn.pkmer.cn/covers/obsidian-emoji-toolbar_1_0.gif!pkmer)
+![表情符号工具栏插件](https://cdn.pkmer.cn/covers/obsidian-emoji-toolbar_1_0.gif)
 
 使用方法
 

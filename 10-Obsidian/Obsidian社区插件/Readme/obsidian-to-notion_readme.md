@@ -53,7 +53,7 @@ modified: 20230101000000
 
 如果它对您有益，欢迎给它一个星星。
 
-![](https://cdn.pkmer.cn/covers/obsidian-to-notion_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-to-notion_2_0.gif)
 
 # TODO
 
@@ -100,7 +100,7 @@ git clone https://github.com/EasyChris/obsidian-to-notion.git
 
 创建完成后，复制“secrets token”
 
-![](https://cdn.pkmer.cn/covers/obsidian-to-notion_1_6.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-to-notion_1_6.gif)
 
 #### 注意
 
@@ -114,11 +114,11 @@ git clone https://github.com/EasyChris/obsidian-to-notion.git
 
 在页面中创建一个新的数据库 -> 您需要 `完整页面数据库`
 
-![](https://cdn.pkmer.cn/covers/obsidian-to-notion_2_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-to-notion_2_1.gif)
 
 将 `integration` 添加到您的新数据库中
 
-![](https://cdn.pkmer.cn/covers/obsidian-to-notion_2_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-to-notion_2_2.gif)
 
 ### 步骤 3：复制数据库 ID
 

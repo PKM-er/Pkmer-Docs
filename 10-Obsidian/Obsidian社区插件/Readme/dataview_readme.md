@@ -214,4 +214,4 @@ Dataview 将其所有 API 的 TypeScript 类型发布到 NPM（作为 `blacksmit
 
 您觉得 Dataview 插件有帮助，并希望支持它吗？我接受捐赠，用于未来的开发工作。通常情况下，我不接受漏洞赏金/功能请求的付款，因为财务激励会增加压力/期望，而我希望避免这种情况发生在一个业余项目上！
 
-[![paypal](https://cdn.pkmer.cn/covers/dataview_1_0.gif!pkmer)](https://www.paypal.com/donate?business=Y9SKV24R5A8BQ&item_name=Open+source+software+development&currency_code=USD)
+[![paypal](https://cdn.pkmer.cn/covers/dataview_1_0.gif)](https://www.paypal.com/donate?business=Y9SKV24R5A8BQ&item_name=Open+source+software+development&currency_code=USD)

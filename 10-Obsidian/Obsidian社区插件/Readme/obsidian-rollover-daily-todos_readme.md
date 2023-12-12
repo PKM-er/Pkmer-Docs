@@ -24,7 +24,7 @@ modified: 20230101000000
 
 以循环滚动的方式，将存在不完整的待办事项的笔记，展现在你面前。
 
-![Rollover Daily Todos](https://cdn.pkmer.cn/covers/obsidian-rollover-daily-todos.GIF!pkmer)
+![Rollover Daily Todos](https://cdn.pkmer.cn/covers/obsidian-rollover-daily-todos.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 这个 Obsidian 插件会将上一个日记中未完成的待办事项（可以是昨天或一周前）滚动到今天。当通过内部的“每日笔记”插件或“周期性笔记”插件创建新的每日笔记时，会自动触发此操作。也可以通过命令面板中的命令来运行。
 
-![插件工作的演示](https://cdn.pkmer.cn/covers/obsidian-rollover-daily-todos_2_0.gif!pkmer)
+![插件工作的演示](https://cdn.pkmer.cn/covers/obsidian-rollover-daily-todos_2_0.gif)
 
 ## 用法
 

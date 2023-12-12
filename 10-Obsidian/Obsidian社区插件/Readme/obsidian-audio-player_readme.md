@@ -24,7 +24,7 @@ modified: 20230101000000
 
 player 音频播放器具有后台播放、书签和波形可视化功能，而不是默认的 HTML5 音频播放器。
 
-![Audio Player](https://cdn.pkmer.cn/covers/obsidian-audio-player_new.gif!pkmer)
+![Audio Player](https://cdn.pkmer.cn/covers/obsidian-audio-player_new.gif)
 
 > [!tip] 原文出处
 >
@@ -66,7 +66,7 @@ player 音频播放器具有后台播放、书签和波形可视化功能，而�
 
 ### 通过界面添加书签
 
-![add_bookmark](https://cdn.pkmer.cn/covers/obsidian-audio-player_1_0.gif!pkmer)
+![add_bookmark](https://cdn.pkmer.cn/covers/obsidian-audio-player_1_0.gif)
 
 1. 双击波形可视化器上的任何一个条形图
 2. 输入您的文本

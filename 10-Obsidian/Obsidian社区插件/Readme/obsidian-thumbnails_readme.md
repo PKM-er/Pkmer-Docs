@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将 YouTube 缩略图插入您的笔记中。
 
-![Thumbnails](https://cdn.pkmer.cn/covers/obsidian-thumbnails.gif!pkmer)
+![Thumbnails](https://cdn.pkmer.cn/covers/obsidian-thumbnails.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 适用于 Youtube 和 Vimeo。
 
-![GIF演示如何使用该插件创建缩略图](https://cdn.pkmer.cn/covers/obsidian-thumbnails_1_2.gif!pkmer)
+![GIF演示如何使用该插件创建缩略图](https://cdn.pkmer.cn/covers/obsidian-thumbnails_1_2.gif)
 
 ## 使用方法
 

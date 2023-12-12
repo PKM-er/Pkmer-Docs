@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有 Rust、Kotlin、Python、Javascript、TypeScript 等。
 
-![Code Emitter](https://cdn.pkmer.cn/covers/code-emitter.gif!pkmer)
+![Code Emitter](https://cdn.pkmer.cn/covers/code-emitter.gif)
 
 > [!tip] 原文出处
 >
@@ -78,7 +78,7 @@ modified: 20230101000000
 
 ---
 
-![.](https://cdn.pkmer.cn/covers/code-emitter_2_0.gif!pkmer)
+![.](https://cdn.pkmer.cn/covers/code-emitter_2_0.gif)
 
 ## 安装
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这显示了光标的位置（字符和行号）。
 
-![Cursor Location](https://cdn.pkmer.cn/covers/obsidian-cursor-location-plugin.gif!pkmer)
+![Cursor Location](https://cdn.pkmer.cn/covers/obsidian-cursor-location-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 这个演示使用的是较旧版本的 Obsidian，但输出的功能是相同的。
 
-![演示动画](https://cdn.pkmer.cn/covers/obsidian-cursor-location-plugin_2_0.gif!pkmer)
+![演示动画](https://cdn.pkmer.cn/covers/obsidian-cursor-location-plugin_2_0.gif)
 
 ## 设置
 

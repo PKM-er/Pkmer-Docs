@@ -24,7 +24,7 @@ modified: 20230101000000
 
 现在，您可以根据模式重命名文件
 
-![Bulk Rename](https://cdn.pkmer.cn/covers/obsidian-bulk-rename-plugin_new.gif!pkmer)
+![Bulk Rename](https://cdn.pkmer.cn/covers/obsidian-bulk-rename-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 现在，您可以从目录中重命名一组文件，并且所有引用也将在整个存储库中更新。
 
-![](https://cdn.pkmer.cn/covers/obsidian-bulk-rename-plugin_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-bulk-rename-plugin_2_0.gif)
 
 > 在幕后，此插件使用 Obsidian API 进行重命名，但我们只是将其应用于多个文件。
 

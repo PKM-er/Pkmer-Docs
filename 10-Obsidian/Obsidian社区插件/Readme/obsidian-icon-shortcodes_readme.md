@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # 图标短代码
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-icon-shortcodes_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-icon-shortcodes_1_0.gif)
 
 使用短代码插入表情符号和自定义图标
 

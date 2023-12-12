@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obsidian 的一个插件，可以突出显示并专注于当前选定的标题
 
-![Focus and Highlight](https://cdn.pkmer.cn/covers/obsidian-focus-plugin_new.gif!pkmer)
+![Focus and Highlight](https://cdn.pkmer.cn/covers/obsidian-focus-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -48,7 +48,7 @@ Obsidian 的一个插件，可以突出显示并专注于当前选定的标题
     - 从 v1.2.0 开始，您可以通过点击标题的子项来进行关注。
     - 如果您不希望在选择文本时更改焦点状态，可以将“焦点灵敏度”的值设得更小。
 
-![](https://cdn.pkmer.cn/covers/obsidian-focus-plugin_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-focus-plugin_2_0.gif)
 
 ## 用法
 
@@ -116,7 +116,7 @@ Obsidian 的一个插件，可以突出显示并专注于当前选定的标题
 
 该插件现在支持多窗格场景。不同的窗格将能够专注于它们的标题，如下面的 GIF 所示。
 
-![](https://cdn.pkmer.cn/covers/obsidian-focus-plugin_2_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-focus-plugin_2_1.gif)
 
 ### 问题
 

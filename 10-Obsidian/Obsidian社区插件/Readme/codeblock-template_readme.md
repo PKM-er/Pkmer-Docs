@@ -84,7 +84,7 @@ Currently, this plugin has not been uploaded to the Obsidian plugin library and 
 ```
 ````
 
-![gif](https://cdn.pkmer.cn/covers/codeblock-template_2_1.gif!pkmer)
+![gif](https://cdn.pkmer.cn/covers/codeblock-template_2_1.gif)
 
 ### 插值
 

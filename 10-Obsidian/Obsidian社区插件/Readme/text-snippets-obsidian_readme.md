@@ -24,7 +24,7 @@ modified: 20230101000000
 
 更快的打字片段。允许您替换文本模板，创建自己的模板，并扩展文本快捷方式。
 
-![Text Snippets](https://cdn.pkmer.cn/covers/text-snippets-obsidian.GIF!pkmer)
+![Text Snippets](https://cdn.pkmer.cn/covers/text-snippets-obsidian.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/text-snippets-obsidian_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/text-snippets-obsidian_1_0.gif)
 
 ## 特点
 

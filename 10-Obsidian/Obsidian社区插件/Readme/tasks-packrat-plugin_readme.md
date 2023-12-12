@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用任务插件创建和完成的重复任务的已完成实例进行管理。
 
-![Packrat](https://cdn.pkmer.cn/covers/tasks-packrat-plugin.gif!pkmer)
+![Packrat](https://cdn.pkmer.cn/covers/tasks-packrat-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # **Packrat** 🐀
 
-![](https://cdn.pkmer.cn/covers/tasks-packrat-plugin_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/tasks-packrat-plugin_2_0.gif)
 
 这个插件是为了 [Obsidian.md](https://obsidian.md/) 而开发的，它为 Martin Schenck 的不可或缺的 [Obsidian Tasks](https://github.com/schemar/obsidian-tasks) 插件增加了功能。
 

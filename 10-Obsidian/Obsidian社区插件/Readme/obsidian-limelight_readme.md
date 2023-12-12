@@ -24,7 +24,7 @@ modified: 20230101000000
 
 突出显示活动窗格
 
-![Limelight](https://cdn.pkmer.cn/covers/obsidian-limelight.gif!pkmer)
+![Limelight](https://cdn.pkmer.cn/covers/obsidian-limelight.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-limelight_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-limelight_2_0.gif)
 
 ## 安装
 

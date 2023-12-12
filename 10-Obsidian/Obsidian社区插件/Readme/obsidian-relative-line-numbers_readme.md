@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在编辑模式中启用相对行号
 
-![Relative Line Numbers](https://cdn.pkmer.cn/covers/obsidian-relative-line-numbers.gif!pkmer)
+![Relative Line Numbers](https://cdn.pkmer.cn/covers/obsidian-relative-line-numbers.gif)
 
 > [!tip] 原文出处
 >
@@ -47,4 +47,4 @@ modified: 20230101000000
 
 注意：在编辑器选项中必须启用“显示行号”设置。
 
-![](https://cdn.pkmer.cn/covers/obsidian-relative-line-numbers_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-relative-line-numbers_2_0.gif)

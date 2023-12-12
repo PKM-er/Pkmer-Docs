@@ -60,13 +60,13 @@ modified: 20230101000000
 
 搜索在 Obsidian 中的 iframe 中打开。您可以添加自己的网站！
 
-![](https://cdn.pkmer.cn/covers/search-on-internet_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/search-on-internet_1_0.gif)
 
 它还将搜索选项添加到文件上下文菜单中，以根据笔记标题进行搜索。
 
 您还可以选择在默认浏览器中而不是 Obsidian 中打开搜索。
 
-![](https://cdn.pkmer.cn/covers/search-on-internet_1_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/search-on-internet_1_1.gif)
 
 您还可以右键单击内部链接以对该链接进行搜索：
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件允许您将笔记中的 URL 转换为嵌入式预览。
 
-![Link Embed](https://cdn.pkmer.cn/covers/obsidian-link-embed.gif!pkmer)
+![Link Embed](https://cdn.pkmer.cn/covers/obsidian-link-embed.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 效果如下。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-link-embed_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-link-embed_1_0.gif)
 
 **注意** 从 2.0.0 版本开始，嵌入使用 `MarkdownCodeBlockProcessor` 进行渲染，避免了扩展 HTML 块。您可以使用设置中的 `Convert` 按钮将旧的嵌入转换为新的代码块。
 

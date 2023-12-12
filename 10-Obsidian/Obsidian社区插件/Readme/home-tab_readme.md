@@ -71,7 +71,7 @@ Obsidian Home tab 是一个 [Obsidian](https://obsidian.md/) 插件，它添加�
 | `audio` | `mp3`，`wav`，`m4a`，`ogg`，`3gp`，`flac` |
 | `pdf` | `pdf` |
 
-![](https://cdn.pkmer.cn/covers/home-tab_2_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/home-tab_2_2.gif)
 
 ### 嵌入式搜索栏
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 通过当使用鼠标时显示它们来学习键盘快捷键。
 
-![Key Promoter](https://cdn.pkmer.cn/covers/key-promoter.gif!pkmer)
+![Key Promoter](https://cdn.pkmer.cn/covers/key-promoter.gif)
 
 > [!tip] 原文出处
 >
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 ## 关键促销
 
-![展示](https://cdn.pkmer.cn/covers/key-promoter_1_4.gif!pkmer)
+![展示](https://cdn.pkmer.cn/covers/key-promoter_1_4.gif)
 
 当您在按钮上使用鼠标时，此插件将显示一个带有分配的快捷键的通知。
 
@@ -67,7 +67,7 @@ modified: 20230101000000
 
 ## 操作描述
 
-![操作描述gif展示](https://cdn.pkmer.cn/covers/key-promoter_1_5.gif!pkmer)
+![操作描述gif展示](https://cdn.pkmer.cn/covers/key-promoter_1_5.gif)
 
 在按下热键时显示一个通知，其中包含调用命令及其关联的热键。
 

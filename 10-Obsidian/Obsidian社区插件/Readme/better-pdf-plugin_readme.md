@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许你插入、缩放、旋转和裁剪 pdf 页面到您的笔记中。
 
-![Better PDF Plugin](https://cdn.pkmer.cn/covers/better-pdf-plugin.gif!pkmer)
+![Better PDF Plugin](https://cdn.pkmer.cn/covers/better-pdf-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -50,7 +50,7 @@ Obsidian Better PDF 插件的目标是在 Obsidian 中实现原生的 PDF 处理
 
 ### 演示
 
-![示例](https://cdn.pkmer.cn/covers/better-pdf-plugin_1_0.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/better-pdf-plugin_1_0.gif)
 
 ### 语法
 

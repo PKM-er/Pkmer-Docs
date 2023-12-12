@@ -102,9 +102,9 @@ modified: 20230101000000
 
 ![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_0.png!pkmer)
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_1.gif)
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_2.gif)
 
 我编写这个插件是因为我希望我的不断增长的 Zettelkasten 能够回答以下问题...
 
@@ -146,7 +146,7 @@ modified: 20230101000000
 
 在方括号内开始输入位置名称，会弹出一些地理位置结果。选择一个，您的 _内联位置_ 就完成了。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_3.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_3.gif)
 
 **选项 2：从地图开始**
 
@@ -198,7 +198,7 @@ modified: 20230101000000
 
 另一个选项是保存嵌入：在预设中点击“复制块”（或从笔记菜单中点击“复制地图视图代码块”），然后将生成的代码粘贴到一个笔记中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_4.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_4.gif)
 
 **还有许多其他构建旅行计划、展示和使用它的选项。**
 
@@ -321,7 +321,7 @@ locations:
 
 这将打开一个对话框，在该对话框中，您可以搜索（根据您 [配置的地理编码提供商](#changing-a-geocoding-provider) 的地址或位置）或使用内置或自定义的 [URL解析规则](#url-parsing-rules) 粘贴 URL。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_5.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_5.gif)
 
 ### 在现有笔记中
 
@@ -346,7 +346,7 @@ locations:
 
 [URL解析规则](#url-parsing-rules) 在这里也适用，因此您可以 [从Google地图](#tip-copying-from-google-maps)（或任何其他服务）复制地理位置并跳转到它。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_7.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_7.gif)
 
 1. 如果您更喜欢以文本形式输入地理位置，请在右键单击地图时使用“复制地理位置”选项，并将它们粘贴到笔记中。
 
@@ -378,11 +378,11 @@ locations:
 
 1. **嵌入现有地图。**要嵌入地图视图中的现有地图，包括其查询和任何其他设置，请从地图的预设下拉菜单中点击“复制块”，然后将该块粘贴到笔记中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_10.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_10.gif)
 
 1. **直接从笔记中嵌入。**从编辑器中，右键单击并选择“嵌入地图视图”选项，然后输入一个用于地图中心的搜索词。或者，可以将名为“Map View: add an embedded map”的 Obsidian 命令分配给键盘快捷键。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_2.gif)
 
 一旦地图嵌入到笔记中，它将表示一个实时视图，根据您的笔记进行更新。
 
@@ -394,7 +394,7 @@ locations:
 
 嵌入还可以在 Canvas 中非常好地工作，包括实时更新。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_12.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_12.gif)
 
 ### 高级附加选项
 
@@ -408,7 +408,7 @@ locations:
 
 地图视图支持强大的查询功能，与 Obsidian 的查询格式大致相似。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_13.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_13.gif)
 
 查询字符串可以包含以下搜索运算符：
 
@@ -520,7 +520,7 @@ locations:
 
 选择其中一个建议将填入所选位置的坐标，并且 _不会_ 更改您的链接名称（假设您更喜欢自己的名称而不是地理编码服务提供的正式名称）。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_15.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_15.gif)
 
 如果您的笔记尚未标记为包含位置（通过前置元数据中的 `locations:` 标签），则会自动添加该标记。
 

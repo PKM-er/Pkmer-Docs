@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件在预览模式下渲染标签的基本名称。
 
-![Base Tag Renderer](https://cdn.pkmer.cn/covers/obsidian-basetag.gif!pkmer)
+![Base Tag Renderer](https://cdn.pkmer.cn/covers/obsidian-basetag.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 它还附加了一个新的类名（`basename-tag`），因此可以为其添加自定义样式。
 
-![](https://cdn.pkmer.cn/covers/obsidian-basetag_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-basetag_2_0.gif)
 
 上述示例应用的自定义 CSS 样式 -
 

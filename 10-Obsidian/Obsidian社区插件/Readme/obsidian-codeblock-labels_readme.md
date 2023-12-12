@@ -24,7 +24,7 @@ modified: 20230101000000
 
 为篱笆代码块添加标签
 
-![Code Block Labels](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels.gif!pkmer)
+![Code Block Labels](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 在围栏代码块的第一行末尾（如果适用的话，在语言之后），将标签放在花括号（`{}`）中以添加标签。
 
-![命名代码块的演示](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels_2_0.gif!pkmer)
+![命名代码块的演示](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels_2_0.gif)
 
 该插件还可以选择配置为将语言作为标签显示，如果没有设置显式标签的话（默认情况下启用 - 可以在设置面板中关闭）。
 
@@ -82,7 +82,7 @@ modified: 20230101000000
 
 要手动修复此问题，只需对代码块的任何其他部分进行更改，它应该触发更新。
 
-![显示错误操作的动画](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels_2_3.gif!pkmer)
+![显示错误操作的动画](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels_2_3.gif)
 
 实时预览
 

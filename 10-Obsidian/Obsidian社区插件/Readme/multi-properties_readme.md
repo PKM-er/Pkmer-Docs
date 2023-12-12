@@ -43,7 +43,7 @@ modified: 20230101000000
 
 ## 演示
 
-![多属性演示 0-10-1](https://cdn.pkmer.cn/covers/multi-properties_1_0.gif!pkmer)
+![多属性演示 0-10-1](https://cdn.pkmer.cn/covers/multi-properties_1_0.gif)
 
 ## 安装
 

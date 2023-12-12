@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件使用 bpmn-js 可以查看 BPMN 图。
 
-![BPMN Plugin](https://cdn.pkmer.cn/covers/bpmn-plugin.gif!pkmer)
+![BPMN Plugin](https://cdn.pkmer.cn/covers/bpmn-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -90,7 +90,7 @@ url: [[my-diagram.bpmn]]
 
 ### 示例
 
-![示例](https://cdn.pkmer.cn/covers/bpmn-plugin_2_0.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/bpmn-plugin_2_0.gif)
 
 如何使用（打开 BPMN 文件）
 

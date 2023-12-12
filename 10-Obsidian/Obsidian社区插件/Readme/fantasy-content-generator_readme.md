@@ -58,7 +58,7 @@ modified: 20230101000000
 
 ### 示例
 
-![示例](https://cdn.pkmer.cn/covers/fantasy-content-generator_2_0.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/fantasy-content-generator_2_0.gif)
 
 ## 自定义来源
 
@@ -78,7 +78,7 @@ modified: 20230101000000
 
 ### 内联示例
 
-![示例](https://cdn.pkmer.cn/covers/fantasy-content-generator_2_1.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/fantasy-content-generator_2_1.gif)
 
 配置
 

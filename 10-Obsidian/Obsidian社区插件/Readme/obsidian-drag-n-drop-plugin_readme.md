@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许使用拖放的方式移动/复制/创建块，就像 Logseq 或 Roam 一样。
 
-![Drag-n-Drop for blocks](https://cdn.pkmer.cn/covers/obsidian-drag-n-drop-plugin_new.gif!pkmer)
+![Drag-n-Drop for blocks](https://cdn.pkmer.cn/covers/obsidian-drag-n-drop-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 # 演示
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-drag-n-drop-plugin_1_2.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-drag-n-drop-plugin_1_2.gif)
 
 # 特点
 

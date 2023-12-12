@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个插件，帮助您基于序列显示卡片。
 
-![Canvas Presentation](https://cdn.pkmer.cn/covers/canvas-presentation_new.gif!pkmer)
+![Canvas Presentation](https://cdn.pkmer.cn/covers/canvas-presentation_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个插件，可以帮助您按顺序显示卡片。
 
-![](https://cdn.pkmer.cn/covers/canvas-presentation_1_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/canvas-presentation_1_0.gif)
 
 # 如何使用
 

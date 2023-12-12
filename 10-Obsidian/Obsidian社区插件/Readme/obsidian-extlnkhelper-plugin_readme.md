@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这是一个插件，可以让您更容易地将外部链接插入您的笔记中。
 
-![External Link Helper](https://cdn.pkmer.cn/covers/obsidian-extlnkhelper-plugin.gif!pkmer)
+![External Link Helper](https://cdn.pkmer.cn/covers/obsidian-extlnkhelper-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -43,13 +43,13 @@ modified: 20230101000000
 
 如果您在一段时间内在笔记中使用了大量的外部链接，当您需要在新的笔记中重新使用它们时，很难找到它们。该插件允许您从建议模态对话框中搜索外部链接，并将所选链接插入到编辑器中。您可以从命令面板中打开模态对话框，`External Link Helper: Open external link suggestions`。
 
-![插入外部链接演示](https://cdn.pkmer.cn/covers/obsidian-extlnkhelper-plugin_2_0.gif!pkmer)
+![插入外部链接演示](https://cdn.pkmer.cn/covers/obsidian-extlnkhelper-plugin_2_0.gif)
 
 使用模糊搜索查找我的收藏链接。
 
 当您在编辑笔记时需要打开一个网站时，您可以打开搜索视图，模糊搜索链接并点击打开。您可以通过点击叶子形状的丝带图标或从命令面板中选择“External Link Helper: Open external link viewer”来打开此外部链接查看器。
 
-![搜索并打开外部链接演示](https://cdn.pkmer.cn/covers/obsidian-extlnkhelper-plugin_2_1.gif!pkmer)
+![搜索并打开外部链接演示](https://cdn.pkmer.cn/covers/obsidian-extlnkhelper-plugin_2_1.gif)
 
 在外部链接查看器中，您还可以进行以下操作。
 

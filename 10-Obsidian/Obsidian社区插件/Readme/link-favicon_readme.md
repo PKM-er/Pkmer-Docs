@@ -92,7 +92,7 @@ modified: 20230101000000
 
 （请参见下面的演示 gif 图）
 
-![自定义图标演示](https://cdn.pkmer.cn/covers/link-favicon_1_5.gif!pkmer)
+![自定义图标演示](https://cdn.pkmer.cn/covers/link-favicon_1_5.gif)
 
 ## 禁用特定链接上的网站图标
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 完成任务/待办事项可获得奖励，高度可配置。
 
-![Rewarder](https://cdn.pkmer.cn/covers/obsidian-rewarder.gif!pkmer)
+![Rewarder](https://cdn.pkmer.cn/covers/obsidian-rewarder.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 这是一个插件，用于在完成任务时奖励自己。奖励可以在每个任务完成时或随机间隔给予。给予的奖励可以存储在你的每日笔记中。
 
-![完成任务的示例](https://cdn.pkmer.cn/covers/obsidian-rewarder_1_0.gif!pkmer)
+![完成任务的示例](https://cdn.pkmer.cn/covers/obsidian-rewarder_1_0.gif)
 
 ### 入门指南
 

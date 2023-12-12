@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将选定的文本编程超链接模式
 
-![Paste URL into selection](https://cdn.pkmer.cn/covers/url-into-selection.gif!pkmer)
+![Paste URL into selection](https://cdn.pkmer.cn/covers/url-into-selection.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 ## 演示
 
-![示例](https://cdn.pkmer.cn/covers/url-into-selection_1_0.gif!pkmer)
+![示例](https://cdn.pkmer.cn/covers/url-into-selection_1_0.gif)
 
 兼容性
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 JSON.stringify() 或 JSON.parse() 高亮文本，并复制到剪贴板。
 
-![JSONifier](https://cdn.pkmer.cn/covers/obsidian-jsonifier.gif!pkmer)
+![JSONifier](https://cdn.pkmer.cn/covers/obsidian-jsonifier.gif)
 
 > [!tip] 原文出处
 >
@@ -70,6 +70,6 @@ modified: 20230101000000
 
 好的，很酷！但等等...我一个星期后回到这个项目，我想编辑我的 markdown 文件...但我只保存了我的 JSON 字符串！哦不！
 
-![alt text](https://cdn.pkmer.cn/covers/obsidian-jsonifier_2_0.gif!pkmer)
+![alt text](https://cdn.pkmer.cn/covers/obsidian-jsonifier_2_0.gif)
 
 现在怎么办？好吧，将上面的 JSON 字符串高亮显示并使用 JSON.parse() 函数。现在结果作为原始的 markdown 被复制到剪贴板上。所以粘贴它并再次进行编辑。

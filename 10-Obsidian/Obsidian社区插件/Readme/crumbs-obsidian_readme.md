@@ -24,7 +24,7 @@ modified: 20230101000000
 
 面包屑导航
 
-![Crumbs](https://cdn.pkmer.cn/covers/crumbs-obsidian.gif!pkmer)
+![Crumbs](https://cdn.pkmer.cn/covers/crumbs-obsidian.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 在 Obsidian 中添加面包屑导航。
 
-![screencast](https://cdn.pkmer.cn/covers/crumbs-obsidian_1_0.gif!pkmer)
+![screencast](https://cdn.pkmer.cn/covers/crumbs-obsidian_1_0.gif)
 
 定价
 

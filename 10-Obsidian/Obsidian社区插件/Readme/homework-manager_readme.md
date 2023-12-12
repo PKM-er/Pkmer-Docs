@@ -65,7 +65,7 @@ modified: 20230101000000
 
 ### 添加和删除科目
 
-![Obsidian_CPWZ6Wf6u6](https://cdn.pkmer.cn/covers/homework-manager_1_1.gif!pkmer)
+![Obsidian_CPWZ6Wf6u6](https://cdn.pkmer.cn/covers/homework-manager_1_1.gif)
 
 点击右上角的编辑模式切换按钮，可以添加新的科目或删除现有的科目。
 
@@ -75,7 +75,7 @@ modified: 20230101000000
 
 ### 添加和完成任务
 
-![Obsidian_gsre59WtQJ](https://cdn.pkmer.cn/covers/homework-manager_1_2.gif!pkmer)
+![Obsidian_gsre59WtQJ](https://cdn.pkmer.cn/covers/homework-manager_1_2.gif)
 
 点击科目旁边的 + 按钮，可以在其下添加新任务。要完成任务，点击其左侧的复选框。
 
@@ -85,7 +85,7 @@ modified: 20230101000000
 
 ### 添加截止日期
 
-![Obsidian_l8zkWSeczT](https://cdn.pkmer.cn/covers/homework-manager_1_3.gif!pkmer)
+![Obsidian_l8zkWSeczT](https://cdn.pkmer.cn/covers/homework-manager_1_3.gif)
 
 创建任务时，可以添加截止日期。点击日历图标选择日期。设置在当前日期之前的截止日期将显示为红色。
 
@@ -93,7 +93,7 @@ modified: 20230101000000
 
 ### 链接笔记
 
-![Obsidian_ixDVJx2jga](https://cdn.pkmer.cn/covers/homework-manager_1_4.gif!pkmer)
+![Obsidian_ixDVJx2jga](https://cdn.pkmer.cn/covers/homework-manager_1_4.gif)
 
 创建任务后，可以添加链接的笔记。点击任务名称将带您到该笔记。
 

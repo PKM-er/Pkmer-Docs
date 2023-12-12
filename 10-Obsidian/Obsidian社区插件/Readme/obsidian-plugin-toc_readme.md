@@ -41,7 +41,7 @@ modified: 20230101000000
 
 为笔记创建目录。
 
-![内容创建示例](https://cdn.pkmer.cn/covers/obsidian-plugin-toc_2_0.gif!pkmer)
+![内容创建示例](https://cdn.pkmer.cn/covers/obsidian-plugin-toc_2_0.gif)
 
 ## 特点
 

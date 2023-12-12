@@ -24,7 +24,7 @@ modified: 20230101000000
 
 通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容。【此插件存在 bug，可能于其他插件冲突】
 
-![Zoom](https://cdn.pkmer.cn/covers/obsidian-zoom.GIF!pkmer)
+![Zoom](https://cdn.pkmer.cn/covers/obsidian-zoom.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-zoom_1_2.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-zoom_1_2.gif)
 
 如何安装
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obsidian 中阅读和注释 PDF 和 EPUB 的插件。
 
-![Annotator](https://cdn.pkmer.cn/covers/obsidian-annotator_new.gif!pkmer)
+![Annotator](https://cdn.pkmer.cn/covers/obsidian-annotator_new.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ Obsidian 中阅读和注释 PDF 和 EPUB 的插件。
 
 ## 演示
 
-![annotator demo](https://cdn.pkmer.cn/covers/obsidian-annotator_1_2.gif!pkmer)
+![annotator demo](https://cdn.pkmer.cn/covers/obsidian-annotator_1_2.gif)
 
 **警告！** 在上面的 gif 中，我使用了**Dataview**语法来指定注释目标。
 
@@ -235,7 +235,7 @@ TAGS 区域应该由逗号分隔的 Obsidian 标签列表组成。（例如 `#ta
 
 * 现在，通过按住<kbd>shift</kbd>键，您可以将 epub/pdf 中的高亮拖放到单独的 Obsidian 笔记中，并插入一个指向该高亮的链接。
 
-  ![highlight drag and drop](https://cdn.pkmer.cn/covers/obsidian-annotator_1_3.gif!pkmer)
+  ![highlight drag and drop](https://cdn.pkmer.cn/covers/obsidian-annotator_1_3.gif)
 
 ### 0.0.9（2021-09-03）*修复注释 ID 错误的问题*
 

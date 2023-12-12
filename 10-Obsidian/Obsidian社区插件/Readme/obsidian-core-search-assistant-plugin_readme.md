@@ -46,9 +46,9 @@ modified: 20230101000000
 - **更大的预览**，
 - **自动预览**，
 
-![main-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_0.gif!pkmer)
+![main-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_0.gif)
 
-![focus-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_1.gif!pkmer)
+![focus-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_1.gif)
 
 如何使用
 
@@ -84,7 +84,7 @@ modified: 20230101000000
 
 仍然可以通过 `Ctrl + Enter` 进行手动预览。
 
-![none-view-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_2.gif!pkmer)
+![none-view-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_2.gif)
 
 ### 2. 单视图
 
@@ -101,7 +101,7 @@ modified: 20230101000000
 
 如果渲染结果错误，请按下 `Enter` 键重新加载。
 
-![card-view-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_3.gif!pkmer)
+![card-view-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_3.gif)
 
 ## 手动预览
 
@@ -125,11 +125,11 @@ modified: 20230101000000
 
 - 您**可以自定义热键**在设置选项卡中。
 
-![focus-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_1.gif!pkmer)
+![focus-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_1.gif)
 
 ## 搜索选项
 
-![search-option-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_5.gif!pkmer)
+![search-option-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_5.gif)
 
 故障排除
 

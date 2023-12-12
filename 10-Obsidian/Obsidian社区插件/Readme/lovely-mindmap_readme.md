@@ -24,7 +24,7 @@ modified: 20230101000000
 
 用微笑建立你自己的知识图谱 :-)
 
-![Lovely-Mindmap](https://cdn.pkmer.cn/covers/lovely-mindmap.gif!pkmer)
+![Lovely-Mindmap](https://cdn.pkmer.cn/covers/lovely-mindmap.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 Obsidian 画布插件，用笑脸构建自己的知识图谱：）
 
-![演示](https://cdn.pkmer.cn/covers/lovely-mindmap_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/lovely-mindmap_2_0.gif)
 
 它被称为思维导图，但不仅仅是思维导图。
 

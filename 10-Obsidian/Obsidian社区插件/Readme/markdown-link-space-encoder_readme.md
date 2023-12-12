@@ -24,7 +24,7 @@ modified: 20230101000000
 
 自动将 Markdown 样式链接中的空格编码为%20 的简单插件
 
-![Markdown Link Space Encoder](https://cdn.pkmer.cn/covers/markdown-link-space-encoder.gif!pkmer)
+![Markdown Link Space Encoder](https://cdn.pkmer.cn/covers/markdown-link-space-encoder.gif)
 
 > [!tip] 原文出处
 >
@@ -49,4 +49,4 @@ modified: 20230101000000
 
 ## 示例
 
-![使用示例的GIF](https://cdn.pkmer.cn/covers/markdown-link-space-encoder_2_0.gif!pkmer)
+![使用示例的GIF](https://cdn.pkmer.cn/covers/markdown-link-space-encoder_2_0.gif)

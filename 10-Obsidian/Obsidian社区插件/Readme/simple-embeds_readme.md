@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在预览文件时，将 Twitter 和 YouTube 链接替换为嵌入式内容。
 
-![Simple Embeds](https://cdn.pkmer.cn/covers/simple-embeds.gif!pkmer)
+![Simple Embeds](https://cdn.pkmer.cn/covers/simple-embeds.gif)
 
 > [!tip] 原文出处
 >
@@ -108,7 +108,7 @@ modified: 20230101000000
 
 ## 截图
 
-![简单嵌入演示](https://cdn.pkmer.cn/covers/simple-embeds_1_0.gif!pkmer)
+![简单嵌入演示](https://cdn.pkmer.cn/covers/simple-embeds_1_0.gif)
 
 _演示_
 

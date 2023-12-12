@@ -84,7 +84,7 @@ Neo4j 的高级图形可视化和查询插件。
 
 还提供了一个包含计划功能的 [路线图](https://juggl.io/Roadmap)。
 
-![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_1.gif)
 
 ### 安装
 
@@ -143,7 +143,7 @@ Neo4j 的高级图形可视化和查询插件。
 
 [GraphXR](https://www.kineviz.com/) 是一个 3D 图形视图，看起来非常华丽！
 
-![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_4.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_4.gif)
 
 ### Neo4j 浏览器
 

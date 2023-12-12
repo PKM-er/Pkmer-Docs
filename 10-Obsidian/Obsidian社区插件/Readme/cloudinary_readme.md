@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将内容（图片、视频、音频）上传到 Cloudinary，并将它们插入（复制或拖放）到您的笔记中。
 
-![Cloudinary](https://cdn.pkmer.cn/covers/cloudinary_new.gif!pkmer)
+![Cloudinary](https://cdn.pkmer.cn/covers/cloudinary_new.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 ## 工作原理
 
-![动作GIF](https://cdn.pkmer.cn/covers/cloudinary_2_0.gif!pkmer)
+![动作GIF](https://cdn.pkmer.cn/covers/cloudinary_2_0.gif)
 
 ## 配置
 

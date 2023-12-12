@@ -24,7 +24,7 @@ modified: 20230101000000
 
 关闭相似的标签页。
 
-![Close Similar Tabs](https://cdn.pkmer.cn/covers/close-similar-tabs_new.gif!pkmer)
+![Close Similar Tabs](https://cdn.pkmer.cn/covers/close-similar-tabs_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 该插件可以防止 Obsidian 中出现重复的标签页，并自动关闭它们。
 
-![演示](https://cdn.pkmer.cn/covers/close-similar-tabs_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/close-similar-tabs_2_0.gif)
 
 两种模式：
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个简单的黑曜石插件，可以隐藏信息，直到你想揭示它
 
-![Spoiler Block](https://cdn.pkmer.cn/covers/spoiler-block-obsidian.gif!pkmer)
+![Spoiler Block](https://cdn.pkmer.cn/covers/spoiler-block-obsidian.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 ## 演示
 
-![基本功能](https://cdn.pkmer.cn/covers/spoiler-block-obsidian_2_0.gif!pkmer)
+![基本功能](https://cdn.pkmer.cn/covers/spoiler-block-obsidian_2_0.gif)
 
 如何使用
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件可以帮助你从网络上捕捉精彩瞬间。
 
-![Obsidian Clipper](https://cdn.pkmer.cn/covers/obsidian-clipper.gif!pkmer)
+![Obsidian Clipper](https://cdn.pkmer.cn/covers/obsidian-clipper.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ Obsidian Clipper 可以配置为写入每日笔记、每周笔记或两者兼备
 
 如何使用
 
-![默认行为](https://cdn.pkmer.cn/covers/obsidian-clipper_2_0.gif!pkmer)
+![默认行为](https://cdn.pkmer.cn/covers/obsidian-clipper_2_0.gif)
 
 ## 网络使用通知
 

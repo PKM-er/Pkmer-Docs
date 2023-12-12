@@ -39,7 +39,7 @@ modified: 20230101000000
 
 obsidian-echarts 是一个在 obsidian 中渲染 echarts 的插件，具体详情请参考 [Apache ECharts](https://echarts.apache.org/en/index.html)，这是一个开源的 JavaScript 可视化库。插件依赖于 dataview 插件，[example](https://github.com/cumany/obsidian-echarts/tree/main/example) 文件夹中包含一些基本示例。更多示例可以在 [Blue-topaz-examples](https://github.com/cumany/Blue-topaz-examples) 中找到。
 
-![GIF 2022-06-02 13-31-49](https://cdn.pkmer.cn/covers/obsidian-echarts_1_0.gif!pkmer)
+![GIF 2022-06-02 13-31-49](https://cdn.pkmer.cn/covers/obsidian-echarts_1_0.gif)
 
 ![image](https://cdn.pkmer.cn/covers/obsidian-echarts_1_1.png!pkmer)
 

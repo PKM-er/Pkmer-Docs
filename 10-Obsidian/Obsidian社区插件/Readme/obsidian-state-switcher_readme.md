@@ -24,7 +24,7 @@ modified: 20230101000000
 
 直接管理编辑 Yaml 的内容
 
-![Yaml Manager](https://cdn.pkmer.cn/covers/obsidian-state-switcher_new.gif!pkmer)
+![Yaml Manager](https://cdn.pkmer.cn/covers/obsidian-state-switcher_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-state-switcher_1_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/obsidian-state-switcher_1_0.gif)
 
 ## 使用方法
 

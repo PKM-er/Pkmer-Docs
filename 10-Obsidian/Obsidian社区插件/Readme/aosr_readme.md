@@ -24,7 +24,7 @@ modified: 20230101000000
 
 另一种黑曜石间隔重复法。它使用闪卡来帮助复习和记忆知识。
 
-![Aosr](https://cdn.pkmer.cn/covers/aosr_new.gif!pkmer)
+![Aosr](https://cdn.pkmer.cn/covers/aosr_new.gif)
 
 > [!tip] 原文出处
 >
@@ -63,7 +63,7 @@ Aosr 是**A**nother **O**bsidian 插件，用于**S**paced **R**epetition（间�
 
 # 演示
 
-![屏幕录制2022-11-08 17 56 11](https://cdn.pkmer.cn/covers/aosr_1_2.gif!pkmer)
+![屏幕录制2022-11-08 17 56 11](https://cdn.pkmer.cn/covers/aosr_1_2.gif)
 
 # 格式
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在 Obsidian 中使用 Jupyter 运行 Python 代码。
 
-![Jupyter](https://cdn.pkmer.cn/covers/obsidian-jupyter.gif!pkmer)
+![Jupyter](https://cdn.pkmer.cn/covers/obsidian-jupyter.gif)
 
 > [!tip] 原文出处
 >
@@ -59,7 +59,7 @@ formats = "md,.ipynb//ipynb"
 
 该插件允许使用 `jupyter` 语言的代码块在围栏中作为 Jupyter 笔记本执行。
 
-![](https://cdn.pkmer.cn/covers/obsidian-jupyter_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-jupyter_2_0.gif)
 
 ## 安装
 

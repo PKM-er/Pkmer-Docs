@@ -48,7 +48,7 @@ Japanese documentation is located on the second half of this page.
 
 ![screenshot](https://cdn.pkmer.cn/covers/obsidian-daily-note-outline_2_0.png!pkmer)
 
-![demo](https://cdn.pkmer.cn/covers/obsidian-daily-note-outline_2_1.gif!pkmer)
+![demo](https://cdn.pkmer.cn/covers/obsidian-daily-note-outline_2_1.gif)
 
 ## v1.0.0 的新功能 - 支持 Periodic Notes 插件
 
@@ -403,7 +403,7 @@ Daily Notes 插件非常方便，可以用于记录一些简短的备忘录和�
 
 ![screenshot](https://cdn.pkmer.cn/covers/obsidian-daily-note-outline_2_0.png!pkmer)
 
-![demo](https://cdn.pkmer.cn/covers/obsidian-daily-note-outline_2_1.gif!pkmer)
+![demo](https://cdn.pkmer.cn/covers/obsidian-daily-note-outline_2_1.gif)
 
 ## v1.0.0 新功能 - 支持周期性笔记插件
 

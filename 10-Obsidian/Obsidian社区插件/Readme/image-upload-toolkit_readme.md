@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个黑曜石插件，用于将嵌入在 Markdown 中的本地图片上传到远程存储，并导出 Markdown 以发布到静态网站。目前，它支持 Imgur 和 Aliyun OSS。
 
-![Image Upload Toolkit](https://cdn.pkmer.cn/covers/image-upload-toolkit_new.gif!pkmer)
+![Image Upload Toolkit](https://cdn.pkmer.cn/covers/image-upload-toolkit_new.gif)
 
 > [!tip] 原文出处
 >
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 打开命令行并输入 "publish page"，它将上传所有本地图片到远程存储，并将替换了图片语法的 markdown 复制到剪贴板，并显示通知。
 
-![screenshot](https://cdn.pkmer.cn/covers/image-upload-toolkit_1_0.gif!pkmer)
+![screenshot](https://cdn.pkmer.cn/covers/image-upload-toolkit_1_0.gif)
 
 ## 待办事项
 

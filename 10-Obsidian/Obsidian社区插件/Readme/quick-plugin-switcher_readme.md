@@ -90,6 +90,6 @@ modified: 20230101000000
 
 ## 视频
 
-![Newvid](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_10.gif!pkmer)
+![Newvid](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_10.gif)
 
-![vid](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_11.gif!pkmer)
+![vid](https://cdn.pkmer.cn/covers/quick-plugin-switcher_2_11.gif)

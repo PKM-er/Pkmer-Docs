@@ -49,7 +49,7 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [
 
 该命令将当前选中的文本（如果没有选中任何内容，则选择光标下的单词）并将光标移动到该相同文本的下一个实例。
 
-![](https://cdn.pkmer.cn/covers/advanced-cursors_2_0.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/advanced-cursors_2_0.gif)
 
 如果找不到下一个实例，则会循环回到笔记的开头。
 
@@ -61,7 +61,7 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [
 
 这与在 VS Code 中使用 `Ctrl + d` 执行的操作相同。
 
-![](https://cdn.pkmer.cn/covers/advanced-cursors_2_1.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/advanced-cursors_2_1.gif)
 
 ### 移动到当前选择的上一个实例
 
@@ -83,7 +83,7 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [
 
 “start”和“inc”都可以是任意实数。结果数字将四舍五入为 4 位小数。
 
-![](https://cdn.pkmer.cn/covers/advanced-cursors_2_2.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/advanced-cursors_2_2.gif)
 
 ### 打开正则表达式匹配模态框
 
@@ -97,7 +97,7 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [
 
 切换“正则表达式？”以将查询视为正则表达式或字符串字面值。
 
-![](https://cdn.pkmer.cn/covers/advanced-cursors_2_3.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/advanced-cursors_2_3.gif)
 
 您现在还可以使用 [保存的查询](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#saved-queries) 快速运行查询。
 

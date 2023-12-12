@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将一个 url（例如 youtube）转换为一个 iframe（预览）
 
-![Convert url to preview (iframe)](https://cdn.pkmer.cn/covers/convert-url-to-iframe_new.gif!pkmer)
+![Convert url to preview (iframe)](https://cdn.pkmer.cn/covers/convert-url-to-iframe_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 **将任何 URL 转换为预览。**
 
-![演示](https://cdn.pkmer.cn/covers/convert-url-to-iframe_2_0.gif!pkmer)
+![演示](https://cdn.pkmer.cn/covers/convert-url-to-iframe_2_0.gif)
 
 1. 选择一个 URL
 2. 右键单击它（或使用命令“转换为 URL 预览”）

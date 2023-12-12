@@ -165,7 +165,7 @@ display-mode: outline
 | 更改思维导图布局                 | 选择节点, CTRL/CMD + U/D/L/R/M/J/K/T/Q |
 | 删除摘要/边界/相关链接  | Delete/Backspace                          |
 
-![outline](https://cdn.pkmer.cn/covers/obsidian-markmind_1_0.gif!pkmer)
+![outline](https://cdn.pkmer.cn/covers/obsidian-markmind_1_0.gif)
 
 #### 表格
 
@@ -183,7 +183,7 @@ display-mode: table
 ---
 ```
 
-![table](https://cdn.pkmer.cn/covers/obsidian-markmind_1_1.gif!pkmer)
+![table](https://cdn.pkmer.cn/covers/obsidian-markmind_1_1.gif)
 
 ### 丰富模式
 
@@ -341,4 +341,4 @@ annotate-image-target: assets/image
 
 ### 更新日志
 
-![table](https://cdn.pkmer.cn/covers/obsidian-markmind_1_2.gif!pkmer)
+![table](https://cdn.pkmer.cn/covers/obsidian-markmind_1_2.gif)

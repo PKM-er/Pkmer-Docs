@@ -47,15 +47,15 @@ modified: 20230101000000
 
 | | 📚 简化图书馆管理 |
 
-| **从外部链接添加论文** | 当在网络上看到一篇论文（Slack、Twitter 等），您可以将论文添加到本地图书馆：运行此工具可以下载论文 PDF，并创建相应的论文笔记与论文元数据。 <br/> ![01-add-paper.gif](https://cdn.pkmer.cn/covers/scholar_2_0.gif!pkmer) |
+| **从外部链接添加论文** | 当在网络上看到一篇论文（Slack、Twitter 等），您可以将论文添加到本地图书馆：运行此工具可以下载论文 PDF，并创建相应的论文笔记与论文元数据。 <br/> ![01-add-paper.gif](https://cdn.pkmer.cn/covers/scholar_2_0.gif) |
 
-| **搜索和检索** | 您可以快速搜索和检索图书馆中的论文，还可以选择从 SemanticScholar 直接查询和找到不在图书馆中的论文。 <br/> ![02-search-paper.gif](https://cdn.pkmer.cn/covers/scholar_2_1.gif!pkmer) |
+| **搜索和检索** | 您可以快速搜索和检索图书馆中的论文，还可以选择从 SemanticScholar 直接查询和找到不在图书馆中的论文。 <br/> ![02-search-paper.gif](https://cdn.pkmer.cn/covers/scholar_2_1.gif) |
 
 | | ✨ 提升论文阅读体验 |
 
-| **查看论文引用** | Obsidian Scholar 允许您在不离开工具的情况下查看所引用论文的详细信息。 <br/> ![03-search-paper.gif](https://cdn.pkmer.cn/covers/scholar_2_2.gif!pkmer) |
+| **查看论文引用** | Obsidian Scholar 允许您在不离开工具的情况下查看所引用论文的详细信息。 <br/> ![03-search-paper.gif](https://cdn.pkmer.cn/covers/scholar_2_2.gif) |
 
-| **复制论文的 BibTex** | ![04-copy-bibtex.gif](https://cdn.pkmer.cn/covers/scholar_2_3.gif!pkmer) |
+| **复制论文的 BibTex** | ![04-copy-bibtex.gif](https://cdn.pkmer.cn/covers/scholar_2_3.gif) |
 
 安装
 

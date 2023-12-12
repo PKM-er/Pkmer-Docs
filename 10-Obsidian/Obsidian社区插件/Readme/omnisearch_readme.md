@@ -51,7 +51,7 @@ modified: 20230101000000
 
 在内部，它使用了优秀的 [MiniSearch](https://github.com/lucaong/minisearch) 库。
 
-![](https://cdn.pkmer.cn/covers/omnisearch_1_5.gif!pkmer)
+![](https://cdn.pkmer.cn/covers/omnisearch_1_5.gif)
 
 ## 特点
 

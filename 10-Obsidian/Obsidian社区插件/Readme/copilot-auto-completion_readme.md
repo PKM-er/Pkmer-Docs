@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 ChatGPT API，为 Obsidian 添加一个高度可配置的类似副驾驶的自动补全功能。
 
-![Copilot auto completion](https://cdn.pkmer.cn/covers/copilot-auto-completion.gif!pkmer)
+![Copilot auto completion](https://cdn.pkmer.cn/covers/copilot-auto-completion.gif)
 
 > [!tip] 原文出处
 >
@@ -71,7 +71,7 @@ modified: 20230101000000
 
 插件将直接发出预测请求并显示建议。
 
-![prediction_quick_action](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_0.gif!pkmer)
+![prediction_quick_action](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_0.gif)
 
 如果你正在处理一个隐私敏感的文档，可能不希望与 API 提供商共享其内容。
 
@@ -105,7 +105,7 @@ modified: 20230101000000
 8. 关闭设置窗口。
 9. 您现在可以开始使用该插件了。
 
-![settings](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_2.gif!pkmer)
+![settings](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_2.gif)
 
 它是如何工作的？
 

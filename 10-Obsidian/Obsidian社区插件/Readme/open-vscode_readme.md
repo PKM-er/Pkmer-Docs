@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Ribbon 按钮和命令以 Visual Studio Code 工作区打开保险库
 
-![Open vault in VSCode](https://cdn.pkmer.cn/covers/open-vscode.gif!pkmer)
+![Open vault in VSCode](https://cdn.pkmer.cn/covers/open-vscode.gif)
 
 > [!tip] 原文出处
 >
@@ -48,11 +48,11 @@ Ribbon 按钮和命令以 Visual Studio Code 工作区打开保险库
 
 你可以使用 VSCode 来进行各种与 vault 相关的操作，例如使用 git 进行版本控制，使用 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) 进行 markdown 格式化，使用 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) 进行 linting，[批量格式化文件](https://marketplace.visualstudio.com/items?itemName=jbockle.jbockle-format-files) 等等。
 
-![video showcase](https://cdn.pkmer.cn/covers/open-vscode_1_0.gif!pkmer)
+![video showcase](https://cdn.pkmer.cn/covers/open-vscode_1_0.gif)
 
 这些图标适用于明亮和暗黑模式。
 
-![light and dark](https://cdn.pkmer.cn/covers/open-vscode_1_1.gif!pkmer)
+![light and dark](https://cdn.pkmer.cn/covers/open-vscode_1_1.gif)
 
 你也可以将其作为命令使用并为其分配快捷键。你可以在设置中禁用按钮。
 

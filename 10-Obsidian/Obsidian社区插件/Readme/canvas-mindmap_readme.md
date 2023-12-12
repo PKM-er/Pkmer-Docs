@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个插件，可以让你的画布像思维导图一样工作。
 
-![Canvas Mindmap](https://cdn.pkmer.cn/covers/canvas-mindmap_new.gif!pkmer)
+![Canvas Mindmap](https://cdn.pkmer.cn/covers/canvas-mindmap_new.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 ## 展示
 
-![展示](https://cdn.pkmer.cn/covers/canvas-mindmap_1_0.gif!pkmer)
+![展示](https://cdn.pkmer.cn/covers/canvas-mindmap_1_0.gif)
 
 # 如何安装
 
