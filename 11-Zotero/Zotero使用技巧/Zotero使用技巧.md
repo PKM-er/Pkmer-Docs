@@ -1,13 +1,13 @@
 ---
 uid: 20230721104947
 title: Zotero 使用技巧
-tags: []
-description: 
-author: 
+tags: [Zotero, 使用技巧]
+description: Zotero 使用技巧
+author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231213110500
+modified: 20231213141050
 ---
 
 # Zotero 使用技巧
