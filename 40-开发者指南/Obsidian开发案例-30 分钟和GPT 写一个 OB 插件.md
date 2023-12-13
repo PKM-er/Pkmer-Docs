@@ -3,11 +3,11 @@ uid: 20231213114733
 title: Obsidian 开发案例：30 分钟和 GPT 写一个 OB 插件
 tags: [Obsidian, 插件开发]
 description: 使用ChatGPT开发一个Obsidian插件
-author: Boninall
+author: Bon
 type: other
 draft: false
 editable: false
-modified: 20231213151531
+modified: 20231213153205
 ---
 
 # Obsidian 开发案例：30 分钟和 GPT 写一个 OB 插件
@@ -417,4 +417,3 @@ export const enterPressPlugin = () => {
 ## 写在最后
 
 编译后的成品插件 obsidian-new-list 请在 Pkmer 官方 Q 群获取。
-
