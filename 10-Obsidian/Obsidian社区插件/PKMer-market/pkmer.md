@@ -1,13 +1,13 @@
 ---
 uid: 20230726225239
 title: Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
-tags: [Obsidian, 插件, PKMer, 下载, 插件获取]
+tags: [Obsidian, 插件, PKMer, 下载, 插件安装]
 description: 告别无法加载社区插件 ,无法加载社区主题的魔咒。完美解决国内 Obsidian 无法加载第三方插件和主题商城的问题。
 author: PKMer
 type: basic
 draft: false
 editable: false
-modified: 20231118103837
+modified: 20231213113149
 ---
 
 # Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
@@ -20,7 +20,7 @@ modified: 20231118103837
 
 但是因为网络原因，都会遇到上图显示的麻烦，提示 " 无法加载社区插件 "," 无法加载社区主题 " 的老生常谈的问题，为了彻底解决这个问题，Obsidian PKMer 首次使用国内 cdn 加速，提供了插件市场和主题市场，不需要魔法，完美解决 Obsidian 无法加载第三方插件。
 
-![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件|cover](https://cdn.pkmer.cn/images/202307270026698.png!pkmer)
+![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件 | 850 | cover](https:/cdn.pkmer.cn/images/202307270026698.png!pkmer)
 
 > [!Note] 插件名片
 > - 插件名称：PKMer
@@ -32,7 +32,7 @@ modified: 20231118103837
 
 ## 主要功能
 
-![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件](https://cdn.pkmer.cn/images/202307270052648.gif!pkmer)
+![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件 | 800](https://cdn.pkmer.cn/images/202307270052648.gif!pkmer)
 
 - 插件图片浏览模式：
 	- 提供丰富的插件浏览视图，帮助用户按标签、下载量、更新日期关注量等多维度找到想要的插件
@@ -52,7 +52,7 @@ modified: 20231118103837
 > - 插件能够安装后，自动启用主题，插件因为考虑到安全因素，保持了跟官方一样，需要手动启动。
 > - 插件能够检测自身版本，后续社区提供的新功能会保持更新
 
-![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件](https://cdn.pkmer.cn/images/202307270045035.gif!pkmer)
+![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件 | 800](https://cdn.pkmer.cn/images/202307270045035.gif!pkmer)
 
 > [!Tip] 提示
 > - 插件下载模式

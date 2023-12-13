@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231128100839
+modified: 20231213101904
 ---
 
 # Obsidian 使用技巧
@@ -41,6 +41,7 @@ modified: 20231128100839
 - [[pandoc 插件导出 word 格式 正确识别本地图片]]
 - [[Obsidian能像其他笔记样分栏嘛]]
 - [[Obsidian如何制作多栏布局]]
+- [[MCL Multi Column]] by Chenghuang
 - [[Obsidian如何生成和美化目录]]
 - [[obsidian-tasks的GTD实践|基于 task 插件的实战 GTD 管理]]
 - [[将引用的内容嵌入到行的方案]]

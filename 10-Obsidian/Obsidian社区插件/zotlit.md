@@ -7,7 +7,7 @@ author: OS,AidenLx
 type: other
 draft: false
 editable: false
-modified: 20231118225759
+modified: 20231213111023
 ---
 
 # Obsidian 插件：ZotLit 最完美的 Zotero 和 Obsidian 联动插件
@@ -31,7 +31,7 @@ Zotero 和 Obsidian 都是我个人十分认可的知识管理工具，当然两
 
 ZotLit 是一个第三方项目，旨在通过为 Obsidian 和 Zotero 提供一组社区插件，促进 Obsidian.md 和 Zotero 之间的集成。以下是 zotlit 官方文档和由 pkmer 贡献者 alephpiece 贡献的教程。
 
-- zotlit官方文档
+- zotlit 官方文档
 	- [英文文档](https://obzt.aidenlx.top/)
 	- [中文文档](https://obzt.aidenlx.top/zh-CN/)
 - alephpiece
@@ -75,3 +75,7 @@ ZotLit 是一个第三方项目，旨在通过为 Obsidian 和 Zotero 提供一�
 免责声明：本项目中的插件由第三方开发者维护，与 Obsidian 或 Zotero 无关。这意味着由于 Zotero 和/或 Obsidian 的更新，插件可能随时失效。虽然它们不打算对您的 Zotero 数据库执行任何写操作，但仍存在数据丢失的风险。因此，请在使用此插件之前和期间为您的数据进行适当的备份，尤其是在使用测试版时。
 
 如果您有任何问题或建议，请随时 [发起讨论](https://github.com/PKM-er/obsidian-zotlit/discussions/new/choose) 或 [创建问题](https://github.com/PKM-er/obsidian-zotlit/issues/new)。
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=964486961&bvid=BV1gH4y1k7gz&cid=1354499856&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
