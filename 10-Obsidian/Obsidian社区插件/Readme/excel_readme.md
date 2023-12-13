@@ -24,7 +24,7 @@ modified: 20230101000000
 
 创建电子表格并轻松地将它们嵌入到 Markdown 中。
 
-![Excel](https://cdn.pkmer.cn/covers/excel.gif!pkmer)
+![Excel](https://cdn.pkmer.cn/covers/excel.gif)
 
 > [!tip] 原文出处
 >

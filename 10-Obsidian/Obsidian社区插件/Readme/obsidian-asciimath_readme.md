@@ -1,6 +1,6 @@
 ---
-uid: 2023080322231271
-title: Obsidian 插件：Obsidian asciimath
+uid: 2023120719373374
+title: Obsidian 插件：【Readme】Obsidian asciimath
 tags: ['obsidian插件', 'readme']
 description: 为Obsidian添加Asciimath支持。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian asciimath
+# Obsidian 插件：【Readme】Obsidian asciimath
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian asciimath
@@ -50,7 +50,7 @@ modified: 20230101000000
 
 我最近重构了这个库，您可以参考 [asciimath-parser](https://github.com/widcardw/asciimath-parser) 和 [其在线演示](https://asciimath.widcard.win)。
 
-**警告**：一些规则与<http://asciimath.org> 不完全一致，特别是矩阵。更多信息，请参考 <https://asciimath.widcard.win。>
+**警告**：一些规则与<http://asciimath.org 不完全一致，特别是矩阵。更多信息，请参考 https://asciimath.widcard.win。>
 
 #### 代码块
 
@@ -60,7 +60,7 @@ sum _(n=1) ^oo 1/n^2 = pi^2/6
 ```
 ~~~
 
-![](screenshots/codeblock.png)
+![](https://cdn.pkmer.cn/covers/obsidian-asciimath_2_0.png!pkmer)
 
 多行公式对齐（特别感谢 [asciimath-js](https://github.com/zmx0142857/asciimathml)）
 
@@ -72,7 +72,7 @@ x & |-> "e"^(2pi "i" x)
 ```
 ~~~
 
-![](screenshots/multiline.png)
+![](https://cdn.pkmer.cn/covers/obsidian-asciimath_2_1.png!pkmer)
 
 > asciimath 简单易读，而在 LaTeX 中，你需要用很多反斜杠来书写长公式，有时可能会令人困惑...
 >
@@ -91,7 +91,7 @@ x & |-> "e"^(2pi "i" x)
 The integral `$int _0^(+oo) "e"^(-x) dx = 1$`.
 ```
 
-![](screenshots/inline.png)
+![](https://cdn.pkmer.cn/covers/obsidian-asciimath_2_2.png!pkmer)
 
 配置
 
@@ -131,7 +131,7 @@ The integral `$int _0^(+oo) "e"^(-x) dx = 1$`.
 - 插入 AsciiMath 代码块
 - 将当前文件中的 AsciiMath 转换为 MathJax
 
-![](screenshots/out.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-asciimath_2_3.gif)
 
 ## 开发
 

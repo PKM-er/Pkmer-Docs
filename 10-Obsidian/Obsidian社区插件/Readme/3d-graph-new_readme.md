@@ -1,5 +1,5 @@
 ---
-uid: 2023120522241146
+uid: 2023120719214750
 title: Obsidian 插件：【Readme】3D Graph New
 tags: ['obsidian插件', 'readme']
 description: 一个用于黑曜石的3D图表
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 Obsidian 3D Graph（Yomaru）
 
-![Obsidian 3D graph](https://github.com/HananoshikaYomaru/obsidian-3d-graph/assets/43137033/c8a501e8-c5b6-4622-b5df-2a2335609cae)
+![Obsidian 3D graph](https://cdn.pkmer.cn/covers/3d-graph-new_1_0.jpeg!pkmer)
 
 一个带有许多功能的 Obsidian 3D 图表！
 
@@ -154,7 +154,7 @@ body {
 }
 ```
 
-![](https://share.cleanshot.com/Ld9xzBJ4+)
+![](https://cdn.pkmer.cn/covers/3d-graph-new_1_2.jpeg!pkmer)
 
 ### 功能路线图
 

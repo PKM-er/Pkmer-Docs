@@ -1,5 +1,5 @@
 ---
-uid: 2023120522260386
+uid: 2023120719363101
 title: Obsidian 插件：【Readme】Metal Archives (Unofficial)
 tags: ['obsidian插件', 'readme']
 description: 从金属档案中创建关于金属乐队和专辑的笔记。
@@ -45,8 +45,8 @@ modified: 20230101000000
 - 搜索专辑并创建笔记
 使用示例
 
-![](docs/_media/usage.gif)
+![](https://cdn.pkmer.cn/covers/metal-archives_2_0.gif)
 
 ### 带有乐队、专辑和标签的结果图
 
-![](docs/_media/graph.png)
+![](https://cdn.pkmer.cn/covers/metal-archives_2_1.png!pkmer)

@@ -1,5 +1,5 @@
 ---
-uid: 2023120522274155
+uid: 2023120719470728
 title: Obsidian 插件：【Readme】Zhongwen Block
 tags: ['obsidian插件', 'readme']
 description: 为中国学习者提供具有特色的代码块。
@@ -54,11 +54,11 @@ modified: 20230101000000
 
 （默认）
 
-![阅读视图（默认）](images/reading-view-default.png)
+![阅读视图（默认）](https://cdn.pkmer.cn/covers/zhongwen-block_2_0.png!pkmer)
 
 （悬停时）
 
-![阅读视图（悬停时）](images/reading-view-on-hover.png)
+![阅读视图（悬停时）](https://cdn.pkmer.cn/covers/zhongwen-block_2_1.png!pkmer)
 
 ## 设置
 

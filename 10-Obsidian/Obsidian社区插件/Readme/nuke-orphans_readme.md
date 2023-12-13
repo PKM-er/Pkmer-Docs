@@ -1,6 +1,6 @@
 ---
-uid: 2023080322230768
-title: Obsidian 插件：Nuke Orphans
+uid: 2023120719372856
+title: Obsidian 插件：【Readme】Nuke Orphans
 tags: ['obsidian插件', 'readme']
 description: 清理孤立文件和附件的插件
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Nuke Orphans
+# Obsidian 插件：【Readme】Nuke Orphans
 
 > [!Note] 插件名片
 > - 插件名称：Nuke Orphans
@@ -47,11 +47,11 @@ modified: 20230101000000
 
 该插件提供了三个命令，可以从命令面板中运行（默认快捷键为 `Ctrl + P`）
 
-![提供的命令](https://raw.githubusercontent.com/sandorex/nuke-orphans-plugin/master/images/commands.png)
+![提供的命令](https://cdn.pkmer.cn/covers/nuke-orphans_1_1.png!pkmer)
 
 **在删除文件之前，插件会始终询问您**
 
-![删除对话框示例](https://raw.githubusercontent.com/sandorex/nuke-orphans-plugin/master/images/dialog.png)
+![删除对话框示例](https://cdn.pkmer.cn/covers/nuke-orphans_1_2.png!pkmer)
 
 ## 安装
 

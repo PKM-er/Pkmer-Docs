@@ -1,6 +1,6 @@
 ---
-uid: 2023080322233515
-title: Obsidian 插件：Obsidian MtG
+uid: 2023120719380592
+title: Obsidian 插件：【Readme】Obsidian MtG
 tags: ['obsidian插件', 'readme']
 description: 一个用于管理《魔法风云会》套牌和卡牌列表的Obsidian插件
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian MtG
+# Obsidian 插件：【Readme】Obsidian MtG
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian MtG
@@ -71,7 +71,7 @@ Sideboard:
 
 这将呈现为：
 
-![](docs/img/example_decklist.png)
+![](https://cdn.pkmer.cn/covers/obsidian-mtg_2_0.png!pkmer)
 
 您还可以直接从 MTGA 导出中复制粘贴，但是卡牌集和收藏编号将不会显示，并且在渲染器中尚不支持。
 
@@ -79,7 +79,7 @@ Sideboard:
 
 该插件默认情况下期望您的集合以.csv 文件的形式存储。默认情况下，该扩展名是可配置的：
 
-![](docs/img/example_settings.png)
+![](https://cdn.pkmer.cn/covers/obsidian-mtg_2_1.png!pkmer)
 
 这些文件应该是正确格式的 CSV 文件，例如由 [Deckbox](https://deckbox.org/) 等工具生成的文件。
 

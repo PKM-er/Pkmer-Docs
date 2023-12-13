@@ -1,5 +1,5 @@
 ---
-uid: 2023102611074517
+uid: 2023120719274061
 title: Obsidian 插件：【Readme】Excalidraw CN
 tags: ['obsidian插件', 'readme']
 description: Excalidraw默认支持中文手写字体。
@@ -78,7 +78,7 @@ MacOS:
 
 Windows:
 
-![](https://img.alicdn.com/imgextra/i3/O1CN01Tox1QQ1C2Zy0JfzQk_!!6000000000023-2-tps-2862-1458.png)
+![](https://cdn.pkmer.cn/covers/excalidraw-cn_1_3.png!pkmer)
 
 # 双向链接
 
@@ -88,7 +88,7 @@ Windows:
 
 * 方法 2：切换到 Excalidraw CN 画布，选择形状，右键添加新链接，在指定格式中输入文件名 ```[[ 文件名 ]]```。
 
-![](https://img.alicdn.com/imgextra/i3/O1CN01LyBU6b1HRpszh2SIH_!!6000000000755-2-tps-1314-524.png)
+![](https://cdn.pkmer.cn/covers/excalidraw-cn_1_5.png!pkmer)
 
 # 网站
 

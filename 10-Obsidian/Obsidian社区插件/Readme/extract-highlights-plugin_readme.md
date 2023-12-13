@@ -1,6 +1,6 @@
 ---
-uid: 2023080322180401
-title: Obsidian 插件：Extract Highlights
+uid: 2023120719275164
+title: Obsidian 插件：【Readme】Extract Highlights
 tags: ['快捷键', '笔记文件处理', '链接处理', '编辑器', 'obsidian插件', 'readme']
 description: 允许把笔记中的所有高亮语法的（使用==）的重点内容，通过快捷键，一次性放到到剪贴板中。这些内容在 Obsidian 中使用，会自动生成内链。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Extract Highlights
+# Obsidian 插件：【Readme】Extract Highlights
 
 > [!Note] 插件名片
 > - 插件名称：Extract Highlights
@@ -47,15 +47,15 @@ modified: 20230101000000
 
 ### 观看：快速入门教程
 
-[![](https://github.com/akaalias/extract-highlights-plugin/blob/master/adhoc.png?raw=true)](https://youtu.be/KWdEatdD2bo)
+[![](https://cdn.pkmer.cn/covers/extract-highlights-plugin_1_1.png!pkmer)](https://youtu.be/KWdEatdD2bo)
 
 ### 观看：一个秘密的新亮点模式
 
-[![](https://github.com/akaalias/extract-highlights-plugin/blob/master/secret.png?raw=true)](https://youtu.be/5kkcqAn6joU)
+[![](https://cdn.pkmer.cn/covers/extract-highlights-plugin_1_2.png!pkmer)](https://youtu.be/5kkcqAn6joU)
 
 ### 观看：秘密模式的技巧和窍门
 
-[![](https://github.com/akaalias/extract-highlights-plugin/blob/master/secrettips.png?raw=true)](https://youtu.be/n3YW5bmnETg)
+[![](https://cdn.pkmer.cn/covers/extract-highlights-plugin_1_3.png!pkmer)](https://youtu.be/n3YW5bmnETg)
 
 ### 工作原理
 
@@ -73,7 +73,7 @@ modified: 20230101000000
 1. 首先，您可以看到我如何使用“创建亮点”快捷键来突出显示句子。
 2. 然后，您可以看到我如何使用“提取亮点”快捷键创建一个带有亮点的新文件。
 
-![基本功能](https://github.com/akaalias/extract-highlights-plugin/blob/master/highlight.gif?raw=true)
+![基本功能](https://cdn.pkmer.cn/covers/extract-highlights-plugin_1_4.gif)
 
 使用快捷键来突出显示（和取消突出显示）光标下的句子
 

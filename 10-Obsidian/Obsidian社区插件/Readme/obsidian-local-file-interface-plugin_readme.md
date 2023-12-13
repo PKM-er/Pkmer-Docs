@@ -1,6 +1,6 @@
 ---
-uid: 2023080322214208
-title: Obsidian 插件：Local File Interface
+uid: 2023120719351937
+title: Obsidian 插件：【Readme】Local File Interface
 tags: ['obsidian插件', 'readme']
 description: 提供将文件移入和移出保险库的命令
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Local File Interface
+# Obsidian 插件：【Readme】Local File Interface
 
 > [!Note] 插件名片
 > - 插件名称：Local File Interface
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 提供将文件移入和移出保险库的命令
 
-![Local File Interface](https://cdn.pkmer.cn/covers/obsidian-local-file-interface-plugin_new.gif!pkmer)
+![Local File Interface](https://cdn.pkmer.cn/covers/obsidian-local-file-interface-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -50,14 +50,14 @@ modified: 20230101000000
 
 ### 1. 导入保险库外的本地文件的命令
 
-[![Image from Gyazo](https://i.gyazo.com/0d5c5a7831ff824091869c96b6f7da5c.gif)](https://gyazo.com/0d5c5a7831ff824091869c96b6f7da5c)
+[![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-local-file-interface-plugin_1_0.gif)](https://gyazo.com/0d5c5a7831ff824091869c96b6f7da5c)
 
 ### 2. 将保险库中的文件导出到设备的其他位置的命令
 
 ### 3. 导入文件的文件夹菜单
 
-[![Image from Gyazo](https://i.gyazo.com/d615c43e2bb0a000058fd2172e71e3bc.gif)](https://gyazo.com/d615c43e2bb0a000058fd2172e71e3bc)
+[![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-local-file-interface-plugin_1_1.gif)](https://gyazo.com/d615c43e2bb0a000058fd2172e71e3bc)
 
 ### 4. 导出的文件菜单
 
-[![Image from Gyazo](https://i.gyazo.com/1164f3141ae81ae9ac20e4b8f9c32e8d.gif)](https://gyazo.com/1164f3141ae81ae9ac20e4b8f9c32e8d)
+[![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-local-file-interface-plugin_1_2.gif)](https://gyazo.com/1164f3141ae81ae9ac20e4b8f9c32e8d)

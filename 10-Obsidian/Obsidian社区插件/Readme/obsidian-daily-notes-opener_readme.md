@@ -1,6 +1,6 @@
 ---
-uid: 2023080322170433
-title: Obsidian 插件：Daily notes opener
+uid: 2023120719262241
+title: Obsidian 插件：【Readme】Daily notes opener
 tags: ['obsidian插件', 'readme']
 description: 轻松在新窗格中打开日记和周期性记录；自定义周期性记录的背景；快速添加新行到日记中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Daily notes opener
+# Obsidian 插件：【Readme】Daily notes opener
 
 > [!Note] 插件名片
 > - 插件名称：Daily notes opener
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 轻松在新窗格中打开日记和周期性记录；自定义周期性记录的背景；快速添加新行到日记中。
 
-![Daily notes opener](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_new.gif!pkmer)
+![Daily notes opener](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_new.gif)
 
 > [!tip] 原文出处
 >
@@ -55,15 +55,15 @@ modified: 20230101000000
 
 ### 1. 以幂等的方式在新窗格中打开今天的周期性笔记
 
-![dnnt-demo-1](https://user-images.githubusercontent.com/405972/161797452-aae4a358-e0d8-4a50-84f6-47547d0c05a1.gif)
+![dnnt-demo-1](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_1_0.gif)
 
 ### 2. 使用样式设置更改今天的周期性笔记的背景颜色
 
-![dnnt-demo-2](https://user-images.githubusercontent.com/405972/161797369-b842d6ab-91b0-486a-82a6-6ec00bcdfd9e.gif)
+![dnnt-demo-2](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_1_1.gif)
 
 ### 3. 在新窗格中添加今天的周期性笔记行
 
-![dnnt-demo-3](https://user-images.githubusercontent.com/405972/161797474-ef56562d-a71e-4559-a209-bea376043bb9.gif)
+![dnnt-demo-3](https://cdn.pkmer.cn/covers/obsidian-daily-notes-opener_1_2.gif)
 
 ## 设置
 

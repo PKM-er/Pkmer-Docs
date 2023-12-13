@@ -1,6 +1,6 @@
 ---
-uid: 2023080322225583
-title: Obsidian 插件：No Tabs
+uid: 2023120719371296
+title: Obsidian 插件：【Readme】No Tabs
 tags: ['obsidian插件', 'readme']
 description: 创建新笔记时替换之前的选项卡。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：No Tabs
+# Obsidian 插件：【Readme】No Tabs
 
 > [!Note] 插件名片
 > - 插件名称：No Tabs
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 创建新笔记时替换之前的选项卡。
 
-![No Tabs](https://cdn.pkmer.cn/covers/no-tabs_new.gif!pkmer)
+![No Tabs](https://cdn.pkmer.cn/covers/no-tabs_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 > 在创建新笔记时替换当前标签
 
-![](https://raw.githubusercontent.com/TS-Tobias/obsidian-no-tabs/master/assets/images/demo.gif)
+![](https://cdn.pkmer.cn/covers/no-tabs_1_0.gif)
 
 > 无需设置！
 > 只需在设置中下载并启用插件即可。

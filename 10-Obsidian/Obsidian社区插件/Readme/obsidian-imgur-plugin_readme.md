@@ -1,6 +1,6 @@
 ---
-uid: 2023080322202445
-title: Obsidian 插件：Imgur Plugin
+uid: 2023120719310870
+title: Obsidian 插件：【Readme】Imgur Plugin
 tags: ['第三方工具集成', '图片', '链接处理', 'obsidian插件', 'readme']
 description: 此插件将剪贴板中的图像上传到 imgur.com 并将上传的图像嵌入到您的笔记中
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Imgur Plugin
+# Obsidian 插件：【Readme】Imgur Plugin
 
 > [!Note] 插件名片
 > - 插件名称：Imgur Plugin
@@ -24,11 +24,11 @@ modified: 20230101000000
 
 此插件将剪贴板中的图像上传到 imgur.com 并将上传的图像嵌入到您的笔记中
 
-![Imgur Plugin](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin.GIF!pkmer)
+![Imgur Plugin](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin.gif)
 
 > [!tip] 原文出处
 >
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/gavvvr/obsidian-imgur-plugin/master/README.md)
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/gavvvr/obsidian-imgur-plugin/main/README.md)
 >
 
 ---
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 该插件将图片上传到 [imgur.com](https://imgur.com/)，而不是将其本地存储在您的 vault 中。
 
-![obsidian-imgur-plugin-demo](https://user-images.githubusercontent.com/1719646/120395609-efe33b80-c33d-11eb-9960-95b9aac0b0b9.gif)
+![obsidian-imgur-plugin-demo](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin_1_2.gif)
 
 为什么？
 
@@ -75,7 +75,7 @@ Obsidian 的设计是将所有数据存储在本地
 
 和/或由 [@santiyounger][santiyounger] 创建的视频，讨论这种方法的优缺点
 
-[![Santi Younger - Use Images Like A Pro](https://img.youtube.com/vi/-a1vJVy20cQ/0.jpg)](https://www.youtube.com/watch?v=-a1vJVy20cQ)
+[![Santi Younger - Use Images Like A Pro](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin_1_3.jpeg!pkmer)](https://www.youtube.com/watch?v=-a1vJVy20cQ)
 
 [santiyounger]: <https://github.com/santiyounger>
 
@@ -97,7 +97,7 @@ Obsidian 的设计是将所有数据存储在本地
 
 就这样！现在您已经准备好远程制作笔记并上传所有图片了。
 
-您将在<<https://your_login.imgur.com/all/>上看到您上传的所有图片。>
+您将在<https://your_login.imgur.com/all/>上看到您上传的所有图片。
 
 ### 匿名上传
 
@@ -121,7 +121,7 @@ Obsidian 的设计是将所有数据存储在本地
 
 如果您还没有 imgur.com 账户，您需要首先 [注册一个](https://imgur.com/register)。
 
-登录后，转到<https://api.imgur.com/oauth2/addclient>并为> Obsidian 生成**客户端 ID**：
+登录后，转到<https://api.imgur.com/oauth2/addclient>并为 Obsidian 生成**客户端 ID**：
 
 - 提供应用程序名称，例如 "Obsidian"
 - 选择 "OAuth 2 授权，无回调 URL"
@@ -132,19 +132,16 @@ Obsidian 的设计是将所有数据存储在本地
 ## 常见问题解答
 
 **问：** 这种方法有多安全？
-
 **答：** 除非你分享了一个链接或者有人神奇地猜到了你的图片的 URL，否则没有人能看到你上传的图片。
 
 **问：** 我能删除一个不小心上传的远程图片吗？
-
-**答：** 对于已认证的上传 - 是的，前往<<https://your_login.imgur.com/all/>，>
+**答：** 对于已认证的上传 - 是的，前往<https://your_login.imgur.com/all/>，
 
 对于匿名上传 - 不行
 
 （从技术上讲是可能的，但你需要一个没有记录的 `deleteHash`。我会记录它，但 Obsidian 还没有登录的地方）
 
 **问：** 图片在 imgur.com 上会保留多久？有可能丢失数据吗？
-
 **答：** 对于已认证的上传，我猜它们永远不会被删除。那么匿名上传呢？
 
 早些时候，在 Imgur 网站上 [曾经声明过][early-imgur-guarantees] 你上传的图片会永远保留。
@@ -160,13 +157,11 @@ Obsidian 的设计是将所有数据存储在本地
 [ttl-discussion]: <https://github.com/gavvvr/obsidian-imgur-plugin/discussions/4#discussioncomment-590286>
 
 **问：** Imgur 支持视频。这个插件支持上传视频吗？
-
 **答：** 不支持。最初，我没有考虑支持视频上传，因为没有 Markdown 语法来嵌入视频。
 
 另一方面，你可以简单地使用 `<video>`HTML 标签，所以我可能会在将来添加对视频的支持。
 
 **问：** 它能上传图片到其他服务吗？
-
 **答：** 目前没有计划支持其他图像托管解决方案，
 
 但对于你来说，创建一个分支并创建自己的 `ImageUploader` 接口的实现应该不难。

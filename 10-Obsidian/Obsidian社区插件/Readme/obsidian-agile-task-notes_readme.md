@@ -1,6 +1,6 @@
 ---
-uid: 2023080322135176
-title: Obsidian 插件：Agile Task Notes
+uid: 2023120719220747
+title: Obsidian 插件：【Readme】Agile Task Notes
 tags: ['obsidian插件', 'readme']
 description: 从你的TFS（Azure或Jira）导入你的任务，记录笔记，并制定待办事项清单！
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Agile Task Notes
+# Obsidian 插件：【Readme】Agile Task Notes
 
 > [!Note] 插件名片
 > - 插件名称：Agile Task Notes
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从你的 TFS（Azure 或 Jira）导入你的任务，记录笔记，并制定待办事项清单！
 
-![Agile Task Notes](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes.gif!pkmer)
+![Agile Task Notes](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes.gif)
 
 > [!tip] 原文出处
 >
@@ -45,15 +45,15 @@ I am sorry, but I am unable to translate the text as it is not provided. Could y
 
 此插件目前支持以下 TFS 系统：{**Jira**，**Azure Devops**}
 
-看板生成：![看板](https://user-images.githubusercontent.com/28713093/187089414-e6c6788c-d2e2-428f-bb8e-ed3c9edc21c5.gif)
+看板生成：![看板](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes_1_0.gif)
 
 任务笔记生成：
 
-![OpenLinks](https://user-images.githubusercontent.com/28713093/187089532-7c4f665d-f5c3-4729-918f-8bdba97f4739.gif)
+![OpenLinks](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes_1_1.gif)
 
 ### 待办事项清单
 
-![待办事项](https://user-images.githubusercontent.com/28713093/187089536-6789cd8f-e503-470f-a1bd-016d95df20bc.gif)
+![待办事项](https://cdn.pkmer.cn/covers/obsidian-agile-task-notes_1_2.gif)
 
 ## 特点
 

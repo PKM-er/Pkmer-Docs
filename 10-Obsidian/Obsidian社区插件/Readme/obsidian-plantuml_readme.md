@@ -1,6 +1,6 @@
 ---
-uid: 2023080322244882
-title: Obsidian 插件：PlantUML
+uid: 2023120719402959
+title: Obsidian 插件：【Readme】PlantUML
 tags: ['图表生成', '界面相关', '编辑器', '编程', 'obsidian插件', 'readme']
 description: 在 Obsidian 笔记中渲染 UML 图
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：PlantUML
+# Obsidian 插件：【Readme】PlantUML
 
 > [!Note] 插件名片
 > - 插件名称：PlantUML
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 ---
 
-![演示](https://i.joethei.space/c5CVp0aX6h.gif)
+![演示](https://cdn.pkmer.cn/covers/obsidian-plantuml_1_3.gif)
 
 该插件使用 [PlantUML在线服务器](https://plantuml.com/server) 或本地的 `.jar` 文件进行渲染。
 
@@ -102,7 +102,7 @@ Alice -> Bob: hello
 
 结果为：
 
-![](http://www.plantuml.com/plantuml/png/SyfFEhH0r-xG0iUSpEJKGmki3Yt8ICt9oUS2yo5IuVbvAQb5EObvAN1PX114ILvgHGbSKW48G08GAP_4ObGfa011NSWMe2X1IA2x6w46oUr0_y6a0000)
+![](https://cdn.pkmer.cn/covers/obsidian-plantuml_1_4.png!pkmer)
 
 ~~~markdown
 ```plantuml-ascii

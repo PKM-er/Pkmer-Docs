@@ -1,5 +1,5 @@
 ---
-uid: 2023120522254742
+uid: 2023120719313890
 title: Obsidian 插件：【Readme】JSON table
 tags: ['obsidian插件', 'readme']
 description: 简单地在JSON和表格之间切换。在你的笔记中，从JSON字符串或返回JSON的URL生成一个表格。从你的笔记中生成JSON表格。
@@ -68,7 +68,7 @@ modified: 20230101000000
 | Pan  | 34  | 孟买   |
 ```
 
-![表格转JSON](demo/table-to-json.gif)
+![表格转JSON](https://cdn.pkmer.cn/covers/json-table_2_0.gif)
 
 #### JSON
 
@@ -76,14 +76,14 @@ modified: 20230101000000
 [{"姓名":"Doe","年龄":"22","城市":"柏林"},{"姓名":"Pan","年龄":"34","城市":"孟买"}]
 ```
 
-![JSON转表格](demo/json-to-table.gif)
+![JSON转表格](https://cdn.pkmer.cn/covers/json-table_2_1.gif)
 
 #### URL
 
 - `https://raw.githubusercontent.com/dario-baumberger/obsidian-json-table/master/demo/example.json`
 - `https://jsonplaceholder.typicode.com/todos`
 
-![URL转表格](demo/url-to-table.gif)
+![URL转表格](https://cdn.pkmer.cn/covers/json-table_2_2.gif)
 
 安装
 

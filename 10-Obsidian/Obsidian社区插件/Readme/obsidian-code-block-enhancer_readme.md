@@ -1,6 +1,6 @@
 ---
-uid: 2023080322160119
-title: Obsidian 插件：Code Block Enhancer
+uid: 2023120719245385
+title: Obsidian 插件：【Readme】Code Block Enhancer
 tags: ['编辑工具', '编程', '美化', 'obsidian插件', 'readme']
 description: 增强 Obsidian 代码域的体验，提供复制按钮、行号、语言名称提示，代码块的上下文菜单。。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Code Block Enhancer
+# Obsidian 插件：【Readme】Code Block Enhancer
 
 > [!Note] 插件名片
 > - 插件名称：Code Block Enhancer
@@ -57,27 +57,27 @@ modified: 20230101000000
 
 ## 截图
 
-![Gif](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/GIF.gif?raw=true)
+![Gif](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_0.gif)
 
 ### 默认暗色主题
 
-![Obsidian_Default_Dark_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Default_Dark_Theme.png?raw=true)
+![Obsidian_Default_Dark_Theme](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_1.png!pkmer)
 
 ### 默认的浅色主题
 
-![Obsidian_Default_Light_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Default_Light_Theme.png?raw=true)
+![Obsidian_Default_Light_Theme](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_2.png!pkmer)
 
 ### Gruvbox 主题
 
-![Obsidian_Gruvbox_Dark_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Gruvbox_Dark_Theme.png?raw=true)
+![Obsidian_Gruvbox_Dark_Theme](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_3.png!pkmer)
 
 ### Nord 主题
 
-![Obsidian_Nord_Dark_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Nord_Dark_Theme.png?raw=true)
+![Obsidian_Nord_Dark_Theme](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_4.png!pkmer)
 
 ### 插件设置
 
-![plugin_settings](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/plugin_settings.png?raw=true)
+![plugin_settings](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_5.png!pkmer)
 
 # 如何使用
 

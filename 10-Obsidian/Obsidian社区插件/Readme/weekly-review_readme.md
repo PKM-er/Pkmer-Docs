@@ -1,6 +1,6 @@
 ---
-uid: 2023080322292919
-title: Obsidian 插件：Weekly Review
+uid: 2023120719463773
+title: Obsidian 插件：【Readme】Weekly Review
 tags: ['obsidian插件', 'readme']
 description: 打开过去一周创建的所有文件来查看。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Weekly Review
+# Obsidian 插件：【Readme】Weekly Review
 
 > [!Note] 插件名片
 > - 插件名称：Weekly Review
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 ## 视频演示
 
-[![每周回顾插件视频](https://img.youtube.com/vi/U2MLHcaCbl4/0.jpg)](https://www.youtube.com/watch?v=U2MLHcaCbl4)
+[![每周回顾插件视频](https://cdn.pkmer.cn/covers/weekly-review_1_0.jpeg!pkmer)](https://www.youtube.com/watch?v=U2MLHcaCbl4)
 
 <https://youtu.be/U2MLHcaCbl4>
 
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 此插件现在可以直接在 Obsidian 中使用。如果由于某种原因需要手动安装它，您可以按照下面视频中的说明进行操作：
 
-[![如何手动安装Obsidian插件](https://img.youtube.com/vi/ffGfVBLDI_0/0.jpg)](https://www.youtube.com/watch?v=ffGfVBLDI_0)
+[![如何手动安装Obsidian插件](https://cdn.pkmer.cn/covers/weekly-review_1_1.jpeg!pkmer)](https://www.youtube.com/watch?v=ffGfVBLDI_0)
 
 <https://youtu.be/ffGfVBLDI_0>
 

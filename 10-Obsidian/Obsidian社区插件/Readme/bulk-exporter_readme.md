@@ -1,5 +1,5 @@
 ---
-uid: 2023082011353803
+uid: 2023120719240126
 title: Obsidian 插件：【Readme】Bulk Exporter
 tags: ['obsidian插件', 'readme']
 description: 使用元数据从您的保险库中筛选和导出笔记，以创建一个可自定义的新结构。
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 简单来说：
 
-![mspaint](assets/explain.png)
+![mspaint](https://cdn.pkmer.cn/covers/bulk-exporter_2_0.png!pkmer)
 
 所以从您的随机结构，像这样：
 
@@ -95,7 +95,7 @@ modified: 20230101000000
 
 在侧边栏中显示最新导出文件的状态。
 
-![](assets/sidebar.png)
+![](https://cdn.pkmer.cn/covers/bulk-exporter_2_1.png!pkmer)
 
 为什么？
 

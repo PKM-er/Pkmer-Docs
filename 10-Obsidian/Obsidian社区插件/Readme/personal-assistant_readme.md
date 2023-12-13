@@ -1,6 +1,6 @@
 ---
-uid: 2023080322244281
-title: Obsidian 插件：Personal Assistant
+uid: 2023120719402481
+title: Obsidian 插件：【Readme】Personal Assistant
 tags: ['obsidian插件', 'readme']
 description: 通过一个命令在Obsidian中简化工作流程，管理备忘录、格式化记录、引用、前置内容、本地图、主题和插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Personal Assistant
+# Obsidian 插件：【Readme】Personal Assistant
 
 > [!Note] 插件名片
 > - 插件名称：Personal Assistant
@@ -103,7 +103,7 @@ modified: 20230101000000
 
 现在个人助手插件可以在 [插件市场](https://obsidian.md/plugins?search=personal%20assistant#) 中找到，您可以直接在 Obsidian 应用程序中安装此插件，请查看此 [手册](https://help.obsidian.md/Extending+Obsidian/Community+plugins#Install+a+community+plugin) 以获取更多详细信息。
 
-![使用插件市场安装](./docs/install-within-plugin-market.png)
+![使用插件市场安装](https://cdn.pkmer.cn/covers/personal-assistant_2_0.png!pkmer)
 
 ### 安装
 
@@ -129,21 +129,21 @@ modified: 20230101000000
 ### 1. 在指定目录中创建笔记
 
 - 打开命令面板并找到命令
-![command 1](./docs/command-1.png)
+![command 1](https://cdn.pkmer.cn/covers/personal-assistant_2_1.png!pkmer)
 - 创建新的笔记并开始记录
 - [***推荐***] 使用插件 [Templater](https://github.com/SilentVoid13/Templater) 的 `Folder Templates` 来格式化上述命令创建的笔记，示例如下
-![folder templates](./docs/folder-templates.png)
+![folder templates](https://cdn.pkmer.cn/covers/personal-assistant_2_2.png!pkmer)
 
 ### 2. 在悬停编辑器中打开备忘录
 
 - 打开命令面板并找到命令
-![command 2](./docs/command-2.png)
+![command 2](https://cdn.pkmer.cn/covers/personal-assistant_2_3.png!pkmer)
 - 在备忘录中进行任何你喜欢的操作
 
 ### 3. 打开当前笔记的图形视图
 
 - 打开命令面板并找到命令
-![command 3](./docs/command-3.png)
+![command 3](https://cdn.pkmer.cn/covers/personal-assistant_2_4.png!pkmer)
 - 打开设置选项卡以进行更多自定义
 - 使用反向链接和外向链接导航当前笔记的图形视图
 - 配置图形视图的颜色
@@ -151,14 +151,14 @@ modified: 20230101000000
 ### 4. 通过一个命令启用/禁用 Obsidian 插件
 
 - 打开命令面板并找到该命令
-![command 5](./docs/command-5.png)
+![command 5](https://cdn.pkmer.cn/covers/personal-assistant_2_5.png!pkmer)
 - 选择建议以启用/禁用插件（或者可以通过插件名称搜索插件）
 - [***注意***] 在建议选项卡中，绿色复选框表示插件已启用，红色未选中框表示插件已禁用
 
 ### 5. 用一个命令更新 Obsidian 插件
 
 - 打开命令面板并找到命令
-![command 6](./docs/command-6.png)
+![command 6](https://cdn.pkmer.cn/covers/personal-assistant_2_6.png!pkmer)
 - 触发命令以更新插件
 - 查看在右上角显示的更新结果
 

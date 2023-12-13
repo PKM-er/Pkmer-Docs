@@ -1,6 +1,6 @@
 ---
-uid: 2023080322235945
-title: Obsidian 插件：Old Note Admonitor
+uid: 2023120719393606
+title: Obsidian 插件：【Readme】Old Note Admonitor
 tags: ['obsidian插件', 'readme']
 description: 这个Obsidian插件会在笔记未更新超过特定天数时显示警告。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Old Note Admonitor
+# Obsidian 插件：【Readme】Old Note Admonitor
 
 > [!Note] 插件名片
 > - 插件名称：Old Note Admonitor
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 这个 Obsidian 插件会在笔记超过特定天数未更新时显示提醒。
 
-![image](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-old-note-admonitor/master/resources/image.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-old-note-admonitor_1_3.png!pkmer)
 
 👥 对于用户
 
@@ -55,7 +55,7 @@ modified: 20230101000000
 
 您可以通过 `Community plugins` > `Browse` 进行下载。
 
-![image](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-old-note-admonitor/master/resources/install.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-old-note-admonitor_1_4.png!pkmer)
 
 ### ⚙ 设置
 
@@ -84,7 +84,7 @@ modified: 20230101000000
 
 ##### 前置内容
 
-![前置内容](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-old-note-admonitor/master/resources/front-matter.png)
+![前置内容](https://cdn.pkmer.cn/covers/obsidian-old-note-admonitor_1_5.png!pkmer)
 
 `前置内容键` 选项可以指定任何键名。
 
@@ -94,7 +94,7 @@ modified: 20230101000000
 
 如果将 `^// updated: (?<date>[0-9]{4}/[0-9]{2}/[0-9]{2})` 设置为 `捕获组模式`，则日期将被提取如下。
 
-![capture-group](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-old-note-admonitor/master/resources/capture-group.png)
+![capture-group](https://cdn.pkmer.cn/covers/obsidian-old-note-admonitor_1_6.png!pkmer)
 
 `默认值：^// (?<date>[0-9]{4}/[0-9]{2}/[0-9]{2})`
 

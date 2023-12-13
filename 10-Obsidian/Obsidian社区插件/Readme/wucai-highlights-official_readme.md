@@ -1,6 +1,6 @@
 ---
-uid: 2023080322294904
-title: Obsidian 插件：WuCai highlights Official
+uid: 2023120719465456
+title: Obsidian 插件：【Readme】WuCai highlights Official
 tags: ['obsidian插件', 'readme']
 description: 将吴才的亮点同步到您的笔记中
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：WuCai highlights Official
+# Obsidian 插件：【Readme】WuCai highlights Official
 
 > [!Note] 插件名片
 > - 插件名称：WuCai highlights Official
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个由 [希果壳五彩](https://www.dotalk.cn) 团队维护的官方插件，可以让您轻松自动地将所有的数字亮点导出到 [Obsidian](https://obsidian.md)。
 
-![](https://wucaiimg.dotalk.cn/plugins/wucai-highlights.png)
+![](https://cdn.pkmer.cn/covers/wucai-highlights-official_1_0.png!pkmer)
 
 注意：此插件需要与 [希果壳五彩](https://www.dotalk.cn) 订阅一起使用，这是一个付费服务，可以方便地将您的所有阅读数据聚合和审查到一个地方。
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322174909
-title: Obsidian 插件：Emoji Titler
+uid: 2023120719272924
+title: Obsidian 插件：【Readme】Emoji Titler
 tags: ['obsidian插件', 'readme']
 description: 这个插件是一个表情符号标题工具，可以通过键盘快捷键轻松地在标题中插入表情符号。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Emoji Titler
+# Obsidian 插件：【Readme】Emoji Titler
 
 > [!Note] 插件名片
 > - 插件名称：Emoji Titler
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件是一个表情符号标题工具，可以通过键盘快捷键轻松地在标题中插入表情符号。
 
-![Emoji Titler](https://cdn.pkmer.cn/covers/emoji-titler_new.gif!pkmer)
+![Emoji Titler](https://cdn.pkmer.cn/covers/emoji-titler_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,11 +43,11 @@ modified: 20230101000000
 
 Emoji Titler 是 [Obsidian](https://obsidian.md/) 的插件，它允许您使用键盘快捷键快速向活动笔记的标题添加表情符号。它可以帮助您在视觉上区分笔记，例如通过指示笔记的深度或将其标记为已读等方式。
 
-![Emoji Titler演示图像](img/demo.gif)
+![Emoji Titler演示图像](https://cdn.pkmer.cn/covers/emoji-titler_2_0.gif)
 
 ## 使用方法
 
-![设置快捷方式](img/setting_shortcuts.gif)
+![设置快捷方式](https://cdn.pkmer.cn/covers/emoji-titler_2_1.gif)
 
 1. 首先，增加（+ 按钮）或减少（- 按钮）您想要使用的表情符号的数量，并设置您想要使用的表情符号。
 2. 激活一个笔记，并按下分配的快捷键，在标题开头插入一个表情符号。

@@ -1,5 +1,5 @@
 ---
-uid: 2023120522250088
+uid: 2023120719280605
 title: Obsidian 插件：【Readme】File Cleaner Redux
 tags: ['obsidian插件', 'readme']
 description: 帮助您清理保险库中的空文件和未使用的附件。
@@ -63,15 +63,15 @@ modified: 20230101000000
 
 #### 插件设置（显示默认值）
 
-![选项](images/Options.png)
+![选项](https://cdn.pkmer.cn/covers/file-cleaner-redux_2_0.png!pkmer)
 
 #### 删除文件的预览
 
-![预览已删除文件确认](images/PreviewDeletedFiles.png)
+![预览已删除文件确认](https://cdn.pkmer.cn/covers/file-cleaner-redux_2_1.png!pkmer)
 
 #### 快捷键
 
-![快捷键](images/Hotkeys.png)
+![快捷键](https://cdn.pkmer.cn/covers/file-cleaner-redux_2_2.png!pkmer)
 
 ### 已知问题
 

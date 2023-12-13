@@ -24,7 +24,7 @@ modified: 20230101000000
 
 为 Obsidian 的任务，添加时间提醒。
 
-![Reminder](https://cdn.pkmer.cn/covers/obsidian-reminder-plugin.GIF!pkmer)
+![Reminder](https://cdn.pkmer.cn/covers/obsidian-reminder-plugin.gif)
 
 > [!tip] 原文出处
 >

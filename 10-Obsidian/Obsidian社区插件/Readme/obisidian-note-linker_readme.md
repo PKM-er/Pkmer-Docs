@@ -1,6 +1,6 @@
 ---
-uid: 2023080322230197
-title: Obsidian 插件：Note Linker
+uid: 2023120719371900
+title: Obsidian 插件：【Readme】Note Linker
 tags: ['obsidian插件', 'readme']
 description: 自动发现并在笔记之间创建新的链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Note Linker
+# Obsidian 插件：【Readme】Note Linker
 
 > [!Note] 插件名片
 > - 插件名称：Note Linker
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 自动发现并在笔记之间创建新的链接。
 
-![Note Linker](https://cdn.pkmer.cn/covers/obisidian-note-linker_new.gif!pkmer)
+![Note Linker](https://cdn.pkmer.cn/covers/obisidian-note-linker_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个用于在 Obsidian 中自动创建笔记之间新链接的插件。
 
-![ezgif com-gif-maker(4)](https://user-images.githubusercontent.com/55558407/187985324-c13860b0-42e0-41d8-9498-8df936948dfd.gif)
+![ezgif com-gif-maker(4)](https://cdn.pkmer.cn/covers/obisidian-note-linker_1_0.gif)
 
 ### 🤨 它是如何工作的？
 

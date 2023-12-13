@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obligator 是 daily-todos 的替代品，它会将未勾选的待办事项复制到指定标题下。
 
-![Obligator](https://cdn.pkmer.cn/covers/obligator.gif!pkmer)
+![Obligator](https://cdn.pkmer.cn/covers/obligator.gif)
 
 > [!tip] 原文出处
 >

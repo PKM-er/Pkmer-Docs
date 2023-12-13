@@ -1,6 +1,6 @@
 ---
-uid: 2023080322150835
-title: Obsidian 插件：Bible Linker
+uid: 2023120719234356
+title: Obsidian 插件：【Readme】Bible Linker
 tags: ['obsidian插件', 'readme']
 description: 轻松链接多个圣经经文
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Bible Linker
+# Obsidian 插件：【Readme】Bible Linker
 
 > [!Note] 插件名片
 > - 插件名称：Bible Linker
@@ -101,7 +101,7 @@ modified: 20230101000000
 链接圣经经文命令
 更简单的命令，只根据输入创建闪电笔链接。您可以选择标准链接（例如`[[Gen-01#v1]]`），嵌入链接（例如`![[Gen-01#v1]]`）或在预览模式下不可见的链接（例如`[[Gen-01#v1|]]`）。这个命令功能较弱，但对于您的圣经文件的要求也较宽松，因此即使复制命令不起作用，您也可以使用它。  
 
-![image](https://user-images.githubusercontent.com/94016085/160867853-5bff3b17-d8a7-4ec9-8672-eb1fa3acc88c.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-bible-linker_1_0.png!pkmer)
 
 ### 要求
 基本上没有要求，它只是解析您的输入并根据其创建链接。如果它不能满足您的需求，请查看设置。

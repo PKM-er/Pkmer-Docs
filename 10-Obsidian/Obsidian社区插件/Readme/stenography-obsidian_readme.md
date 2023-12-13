@@ -1,6 +1,6 @@
 ---
-uid: 2023080322272509
-title: Obsidian 插件：Stenography
+uid: 2023120719434060
+title: Obsidian 插件：【Readme】Stenography
 tags: ['obsidian插件', 'readme']
 description: 使用Stenography API，利用机器学习将代码块翻译成简单的英文。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Stenography
+# Obsidian 插件：【Readme】Stenography
 
 > [!Note] 插件名片
 > - 插件名称：Stenography
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 Stenography API，利用机器学习将代码块翻译成简单的英文。
 
-![Stenography](https://cdn.pkmer.cn/covers/stenography-obsidian_new.gif!pkmer)
+![Stenography](https://cdn.pkmer.cn/covers/stenography-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -55,4 +55,4 @@ modified: 20230101000000
 
 请参见下面的 gif 动画！
 
-![插件运行的gif动画](./assets/obsidian-steno.gif)
+![插件运行的gif动画](https://cdn.pkmer.cn/covers/stenography-obsidian_2_0.gif)

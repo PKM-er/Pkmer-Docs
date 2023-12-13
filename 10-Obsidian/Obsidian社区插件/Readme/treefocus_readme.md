@@ -39,7 +39,7 @@ modified: 20230101000000
 
 ![Dynamic JSON
 
-Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FiOSonntag%2Fobsidian-plugin-treefocus%2Fmaster%2Fpackage.json&query=%24.version&label=版本)
+Badge](<https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FiOSonntag%2Fobsidian-plugin-treefocus%2Fmaster%2Fpackage.json&query=%24.version&label=版本)>
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FiOSonntag%2Fobsidian-plugin-treefocus%2Fmaster%2Fmanifest.json&query=%24.id&label=obsidian-plugin&color=rgb(124%2C%2058%2C%20237))
 

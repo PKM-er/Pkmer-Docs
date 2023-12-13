@@ -1,6 +1,6 @@
 ---
-uid: 2023080322163743
-title: Obsidian 插件：Copy document as HTML
+uid: 2023120719253230
+title: Obsidian 插件：【Readme】Copy document as HTML
 tags: ['obsidian插件', 'readme']
 description: 将当前文档复制到剪贴板，以HTML格式，包括图像。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Copy document as HTML
+# Obsidian 插件：【Readme】Copy document as HTML
 
 > [!Note] 插件名片
 > - 插件名称：Copy document as HTML
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 该插件提供了“复制文档为 HTML”命令，可以将其绑定到键盘快捷键（见下文）。
 
-![image](https://user-images.githubusercontent.com/2441349/202304790-aea2a29e-2ed8-4ba2-bfb6-caaeb823e6f0.png)
+![image](https://cdn.pkmer.cn/covers/copy-document-as-html_1_0.png!pkmer)
 
 ## 特点
 

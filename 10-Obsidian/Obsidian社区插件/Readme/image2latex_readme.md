@@ -1,5 +1,5 @@
 ---
-uid: 2023120522253781
+uid: 2023120719310672
 title: Obsidian 插件：【Readme】Image2LaTEX
 tags: ['obsidian插件', 'readme']
 description: 将您的图像转换为LaTEX代码。
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 该扩展程序会获取剪贴板中最新复制的图像，并将其转换为 LaTeX，并将其插入到编辑器中的指定位置。使用键绑定的示例用法请参见下面的 GIF 图片：
 
-![](docs/example.gif)
+![](https://cdn.pkmer.cn/covers/image2latex_2_0.gif)
 
 以下是几个步骤的说明：
 
@@ -59,7 +59,7 @@ modified: 20230101000000
 2. 点击 " 前往 API 仪表板 "
 3. 创建一个账户
 4. 完成后，转到 `用户访问令牌` 并点击 `创建令牌`
-5. 复制令牌并粘贴到 Obsidian 设置中 ![](docs/UAT.png)
+5. 复制令牌并粘贴到 Obsidian 设置中 ![](https://cdn.pkmer.cn/covers/image2latex_2_1.png!pkmer)
 6. 现在您已经准备好使用此插件了 🥳
 
 # 未来的改进 ✅

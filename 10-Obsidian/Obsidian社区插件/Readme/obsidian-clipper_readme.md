@@ -1,6 +1,6 @@
 ---
-uid: 2023080322231921
-title: Obsidian 插件：Obsidian Clipper
+uid: 2023120719374462
+title: Obsidian 插件：【Readme】Obsidian Clipper
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以帮助你从网络上捕捉精彩瞬间。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Clipper
+# Obsidian 插件：【Readme】Obsidian Clipper
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Clipper
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 这个插件可以帮助你从网络上捕捉精彩瞬间。
+
+![Obsidian Clipper](https://cdn.pkmer.cn/covers/obsidian-clipper.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +49,7 @@ Obsidian Clipper 可以配置为写入每日笔记、每周笔记或两者兼备
 
 如何使用
 
-![默认行为](./gifs/default.gif)
+![默认行为](https://cdn.pkmer.cn/covers/obsidian-clipper_2_0.gif)
 
 ## 网络使用通知
 

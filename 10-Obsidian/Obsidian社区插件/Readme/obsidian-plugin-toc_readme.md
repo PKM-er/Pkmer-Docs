@@ -1,6 +1,6 @@
 ---
-uid: 2023080322274271
-title: Obsidian 插件：Table of Contents
+uid: 2023120719440195
+title: Obsidian 插件：【Readme】Table of Contents
 tags: ['编辑工具', '目录/标题', 'obsidian插件', 'readme']
 description: 为笔记内生成静态目录。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Table of Contents
+# Obsidian 插件：【Readme】Table of Contents
 
 > [!Note] 插件名片
 > - 插件名称：Table of Contents
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 为笔记创建目录。
 
-![内容创建示例](example.gif)
+![内容创建示例](https://cdn.pkmer.cn/covers/obsidian-plugin-toc_2_0.gif)
 
 ## 特点
 
@@ -68,7 +68,6 @@ modified: 20230101000000
 **示例：**
 
 _输入：_ 在二级标题下运行“目录”
-
 _输出：_ “目录”只包含该二级标题的子标题
 
 安装

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322235778
-title: Obsidian 插件：Obsimian
+uid: 2023120719393120
+title: Obsidian 插件：【Readme】Obsimian
 tags: ['编程', 'obsidian插件', 'readme']
 description: Obsidian 模拟框架用于测试 Obsidian 插件，并输出插件相关的信息。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsimian
+# Obsidian 插件：【Readme】Obsimian
 
 > [!Note] 插件名片
 > - 插件名称：Obsimian
@@ -39,7 +39,7 @@ Obsidian 模拟框架用于测试 Obsidian 插件，并输出插件相关的信�
 
 # Obsimian
 
-![Obsidian猿人](img/obsimian-banner.jpg)
+![Obsidian猿人](https://cdn.pkmer.cn/covers/obsimian-exporter_2_0.jpeg!pkmer)
 
 Obsidian 插件测试的模拟框架。
 
@@ -70,7 +70,7 @@ Obsidian 插件测试的模拟框架。
 2. 在 Obsidian 中打开 vault，并修改内容以测试你的插件的特定功能。
 3. 在 Obsidian 中安装并启用 Obsimian 插件（它应该已经预装在测试 vault 中）。
 4. 运行 "Obsimian: Export data for testing" 命令。默认情况下，这将在你的 Obsidian vault 根目录下创建一个 JSON 文件，但这可以在 Obsimian 插件设置中进行配置。
-   ![在 Obsidian 中导出数据的命令](img/obsidian-command.png)
+   ![在 Obsidian 中导出数据的命令](https://cdn.pkmer.cn/covers/obsimian-exporter_2_1.png!pkmer)
 5. 将 JSON 文件复制到你的项目中。
 6. 在你的测试中，使用 `require` 导入 JSON 数据，并将其传递给 `ObsimianPlugin` 构造函数。
 
@@ -133,7 +133,7 @@ describe("my plugin", () => {
 
 实际上，Obsidian 和 Obsimian 的行为会存在差异。Obsimian 相对较新，而 Obsidian 的发展速度相对较快。
 
-如果您发现这样的差异，请在<https://github.com/motif-software/obsimian/issues> 中提交一个 bug 报告。最好包括一些内容和一个 API 调用来展示问题。>
+如果您发现这样的差异，请在<https://github.com/motif-software/obsimian/issues 中提交一个 bug 报告。最好包括一些内容和一个 API 调用来展示问题。>
 
 ## 包内容
 

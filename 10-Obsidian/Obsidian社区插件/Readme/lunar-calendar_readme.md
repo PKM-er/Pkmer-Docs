@@ -1,5 +1,5 @@
 ---
-uid: 2023120522255602
+uid: 2023120719352584
 title: Obsidian 插件：【Readme】Lunar Calendar
 tags: ['obsidian插件', 'readme']
 description: 一个支持农历的日历
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 这是一个支持农历显示的日历插件
 
-![](screenshot.png)
+![](https://cdn.pkmer.cn/covers/lunar-calendar_2_0.png!pkmer)
 
 # 联系方式
 
