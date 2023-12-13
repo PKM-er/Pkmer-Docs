@@ -1,13 +1,13 @@
 ---
 uid: 20230916145139
 title: Dataview 语法实战：自定义排序进阶操作实例
-tags: []
+tags: [obsidian, dataview]
 description: Dataveiw 自定义排序进阶操作
 author: 
 type: other
 draft: false
 editable: false
-modified: 20231028225753
+modified: 20231209174804
 ---
 
 # Dataview 语法实战：自定义排序进阶操作实例
