@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230914090055
+modified: 20231213101355
 ---
 
 # Obsidian 如何制作多栏布局
@@ -53,7 +53,7 @@ Obsidian 默认是单列的行模式，有点像你未经调整过的 Word。但
 
 ### Modular CSS Layout for Obsidian
 
-[https://github.com/efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout "https://github.com/efemkay/obsidian-modular-css-layout")
+参考 [[MCL Multi Column]] by Chenghuang
 
 >[!浅析]
 >优点：不需要额外安装插件

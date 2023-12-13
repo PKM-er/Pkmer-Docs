@@ -1,17 +1,13 @@
 ---
 uid: 20231130232241
 title: Zotero 笔记样式美化
-tags:
-  - zotero
-  - css
-  - 外观
-  - 美化
+tags: [zotero, css, 外观, 美化]
 description: Zotero 笔记界面样式美化
 author: wang
 type: other
 draft: false
 editable: false
-modified: 20231130233642
+modified: 20231213104308
 ---
 
 # Zotero 笔记样式美化
@@ -242,8 +238,6 @@ table tr:nth-child(2n) {
 
 > [!warning] 注意
 > 不建议修改
-
-
 
 ### 标题样式
 

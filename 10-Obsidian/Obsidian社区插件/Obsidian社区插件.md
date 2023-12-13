@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231121211455
+modified: 20231213113533
 ---
 
 # Obsidian 社区插件
@@ -110,6 +110,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[Obsidian能像其他笔记样分栏嘛]]
 - [[obsidian-columns]]：支持多种方式来设定分栏目
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
+- [[MCL Multi Column]]
 
 ### 标题增强
 
@@ -369,7 +370,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 对于那些对于审美有着极高追求的你来说，这些插件将会成为你 Obsidian 学习和管理的不可或缺的个性化增强工具。虽然这些插件看似只是小小的工具，但它们却有着强大而独特的功能，能够显著提升 Obsidian UI 和设计中的个性化要素。通过本身定制化的特点和某些极具创意的功能，这些插件将使 Obsidian 更加个性化和符合你的审美标准。
 
-- [[Obsidian-Banners]]：为文档页面添加头图和图标
+- [[obsidian-banners]]：为文档页面添加头图和图标
 - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
 - [[obsidian-file-color]]：让你文件管理多姿多彩
 - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
