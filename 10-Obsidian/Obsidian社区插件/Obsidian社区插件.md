@@ -71,7 +71,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
-- [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式
+- [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式；另外也有一篇文章分享了[[Dynamic-Highlights 插件的几种使用场景]]
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[obsidian-remember-file-state]]：
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
