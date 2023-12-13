@@ -1,16 +1,16 @@
 ---
 uid: 20231213101057
-title: MCL Multi Column
+title: 通过 CSS 和Callout实现分栏样式 -MCL Multi Column
 tags: [Obsidian, 多栏, 布局, callout]
-description: 
+description: 使用 CSS 方法和基本 callout 语法也可以实现多栏布局效果
 author: Chenghuang
 type: other
 draft: false
 editable: false
-modified: 20231213101818
+modified: 20231213152212
 ---
 
-# MCL Multi Column
+# 通过 CSS 和 Callout 实现分栏样式 -MCL Multi Column
 
 使用 CSS 方法和基本 callout 语法也可以实现多栏布局效果
 

@@ -110,7 +110,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[Obsidian能像其他笔记样分栏嘛]]
 - [[obsidian-columns]]：支持多种方式来设定分栏目
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
-- [[MCL Multi Column]]
+- [[Obsidian样式-MCL Multi Column]]
 
 ### 标题增强
 

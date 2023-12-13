@@ -53,7 +53,7 @@ Obsidian 默认是单列的行模式，有点像你未经调整过的 Word。但
 
 ### Modular CSS Layout for Obsidian
 
-参考 [[MCL Multi Column]] by Chenghuang
+参考 [[Obsidian样式-MCL Multi Column]] by Chenghuang
 
 >[!浅析]
 >优点：不需要额外安装插件
