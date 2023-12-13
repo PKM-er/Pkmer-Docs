@@ -7,13 +7,15 @@ author: Boninall
 type: other
 draft: false
 editable: false
-modified: 202312131420345837
+modified: 20231213151531
 ---
 
 # Obsidian 开发案例：30 分钟和 GPT 写一个 OB 插件
 
 > [!note] 前言
 > 如果说你想要编写第一个 Obsidian 插件，使用 ChatGPT 也许是最好、最快的选择。
+
+## 开发背景
 
 昨天晚上，我因为本职工作的原因，我发现 Obsidian 中只能对 Markdown 的标准有序列表进行自增，例如：
 
@@ -143,11 +145,11 @@ function getNextNumber(currentNumber, patternType) {
 
 在上述地基础上，你需要反复地去让 ChatGPT 进行修改，注意，这里上文所说的注释就起到了一定的作用，你可以基于每个函数的作用，来推敲究竟是哪个函数出了问题；最后得到了以下的代码（在文末）：
 
-# 总结
+## 总结
 
 可以说，用 ChatGPT 来编写 Obsidian 是一个非常愉快的过程，除了部分 BUG 需要自己去理解以及读懂问题出在哪里以外，它无愧于最好且最尽责的代码老师。
 
-# 相关代码【安装好依赖后，运行即可】
+## 相关代码【安装好依赖后，运行即可】
 
 > `main.ts`
 
@@ -411,3 +413,8 @@ export const enterPressPlugin = () => {
     );  
 };
 ```
+
+## 写在最后
+
+编译后的成品插件 obsidian-new-list 请在 Pkmer 官方 Q 群获取。
+
