@@ -7,7 +7,7 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231213152731
+modified: 20231214140918
 ---
 
 # PKMer 社区 FAQ
@@ -116,7 +116,7 @@ OS 回答：
 
 OS 回答：
 
-- 通过 Github 提交到具体 repo 中的会按照周维度审核合并
+- 通过 Github 提交到具体 repo 中的会按照自然周维度审核合并到网站
 	- 如果没有通过，可能是没有到达审核时间
 	- 或者是审核人员进行了留言，还需要修改里面是疏漏，请注意关注自己提交的 PR
 - 通过离线方式同步给群管理员的，请催促群管理员
