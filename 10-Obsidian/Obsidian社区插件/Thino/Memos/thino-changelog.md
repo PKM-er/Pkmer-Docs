@@ -1,20 +1,26 @@
 ---
 uid: 20230913172534
-title: Thino 2.X 更新记录
-tags: [Thino]
+title: Thino 2.X （原名 Obsidian memos）更新记录
+tags: [memos]
 description: Obsidian 插件 Thino 2.X 更新记录
-author: Bon
+author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215141804
+modified: 20231215144329
 ---
+
+# Thino 2.X （原名 Obsidian memos）更新记录
 
 # Thino 2.X 更新记录
 
 需要请加入内侧体验
 
 [社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
+
+## Thino 2.1.4 2023.12.15
+
+### 修复
 
 ## Thino-v2.1.4 2023.12.15
 
@@ -24,14 +30,15 @@ modified: 20231215141804
 2. flomo 导入问题；
 3. Tag 没办法识别书名号；
 4. Minimal 模式（通过命令开启）；
-5. 当遇到某一个部分的 thino 获取报错的时候，不会影响别的类型的 thino 获取；
-6. 修复了没办法正确更新任务相关的 thino 的问题；
-7. 从侧边栏重复开启 Thino 后保存按钮不可点击；
+5. 当遇到某一个部分的 Thino 获取报错的时候，不会影响别的类型的 Thino 获取；
+6. 修复了没办法正确更新任务相关的 Thino 的问题；
 
-但是也带来了两个比较方便的功能：
+### 新功能
 
-1. 可以通过调用 app.workspace.trigger('send-to-thino', content); 其中 content 为字符串就会自动发送且保存成内容，利好 quikcadd 用户；
-2. 桌面端本地，在开启 settings 中的 Http 接口后可以通过以下形式调用 Thino 创建的能力，例如，可以通过以下的 POST 方法发送 Thino 且创建：支持 application/json ，默认端口是 http://localhost:52321/create
+1. 从侧边栏重复开启 Thino 后保存按钮不可点击；但是也带来了两个比较方便的功能：
+	- 一个是：可以通过调用 app.workspace.trigger('send-to-thino', content); 其中 content 为字符串就会自动发送且保存
+	- 另一个是：桌面端本地，在开启 settings 中的 Http 接口后可以通过以下形式调用 Thino 创建的能力，例如，可以通过以下的 POST 方法发送 Thino 且创建：
+	- 支持 application/json ，默认端口是 http://localhost:52321/create
    body 内容附带 json：
 
 ```json
@@ -42,16 +49,30 @@ modified: 20231215141804
 }
 ```
 
-## Thino-v2.1.2 2023.12.2
+### Thino 2.1.3 2023.12.2
 
-主要功能更新是
+### 新功能
 
-1. 可以选定某一个保存位置，而不是仅限于日记模式
-2. 可以选定单文件模式
-- 单文件模式中，每一个 thino 会保存成 callout
-- 最新日期的 thino 会在顶部
-- 元数据会被用 `%%` 包围，所以单文件模式中不再可见
-3. 修了 easy typing 会导致白屏的 bug 以及和新版本表格不太兼容的体验主要功能更新是\
+1. 可以选定某一个保存位置，而不是仅限于日记模式
+2. 可以选定单文件模式
+	- 单文件模式中，每一个 thino 会保存成 Callout
+	- 最新日期的 Thino 会在顶部
+	- 元数据会被用<kdb> %% </kdb>包围，所以单文件模式中不再可见
+3. 修了 easy typing 会导致白屏的 bug 以及和新版本表格不太兼容的体验
+
+## Thino 2.1.2 2023.11.16
+
+### 修复
+
+1. 修复了出现白屏的问题
+2. 修复了拖动的问题
+3. 删除回收站的问题增加了关闭回收站的方式
+
+## Thino 2.1.1 2023.11.13
+
+### 修复
+
+1. 修复标签以及 <kbd>---</kbd> 的渲染的问题
 
 ## Thino-v2.1.0 2023.11.9
 
