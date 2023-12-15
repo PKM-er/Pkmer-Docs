@@ -107,7 +107,7 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 
 ## 开发进度
 
- memos 2.0 正在开发中，开发进度参考 [[10-Obsidian/Obsidian社区插件/Thino/Memos/thino-changelog]]
+ memos 2.0 正在开发中，开发进度参考 [[thino-changelog]]
 
 ## 加入内侧
 

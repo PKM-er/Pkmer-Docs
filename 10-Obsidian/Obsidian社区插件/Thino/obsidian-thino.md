@@ -28,7 +28,9 @@ id: dacd7a42e067cce1
 
 Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
 
-## 更新日志 [[obsidian-memos]]
+## 更新日志 
+
+[[thino-changelog]]
 
 ## 目录
 
