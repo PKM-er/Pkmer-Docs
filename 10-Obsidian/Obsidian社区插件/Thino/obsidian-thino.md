@@ -7,17 +7,28 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215105206
+modified: 20231215144504
 id: dacd7a42e067cce1
 ---
 
 # Thino 用户使用指南
+
+提供一个简易轻巧的笔记和灵感收集方式，方便你快速收集灵感。
+
+> [!Note] 插件名片
+> - 插件名称：Obsidian Thino
+> - 插件作者：Bonaill
+> - 插件说明：提供一个简易轻巧的笔记和灵感收集方式
+> - 插件项目地址：[点我跳转](https://github.com/Quorafind/Obsidian-Memos)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-thino)
 
 ![00_Thino 用户指南](https://cdn.pkmer.cn/images/Pasted%20image%2020231109211823.png!pkmer)
 
 本用户指南优先适用于 2.1.0 及以上的 Thino 版本，而 Thino 前身是 Obsidian-Memos，因此你基于 [[obsidian-memos]] 的经验也可以顺应地沿用到 Thino 中，以下的说明也可以作为查漏补缺的部分，作为一个全面了解 Thino 功能以及其设计的相关文档：
 
 Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
+
+## 更新日志 [[obsidian-memos]]
 
 ## 目录
 
@@ -54,11 +65,11 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
         - [[Thino 设置项#分享设置|分享设置]]
         - [[Thino 设置项#进阶设置|进阶设置]]
 - [[obsidian-memos]]
-	- [[Thino-changelog]]
+	- [[10-Obsidian/Obsidian社区插件/Thino/Memos/thino-changelog]]
 - Thino 样式专区
 	- [[Obsidian样式-给Thino加个滚动条]]
 	- [[Obsidian样式-给Thino搭配10种热力图颜色]]
----
+	- [[Obsidian样式-Thino单文件时间轴样式]]
 
 ## 声明
 

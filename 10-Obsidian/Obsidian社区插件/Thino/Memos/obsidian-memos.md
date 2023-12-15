@@ -7,7 +7,7 @@ author: Bon
 type: basic
 draft: false
 editable: false
-modified: 20231017111405
+modified: 20231215145130
 ---
 
 # Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
@@ -24,7 +24,7 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-memos)
 
 > [!Tip] 最新进展
-> 如果你想了解 Memos 最新进展，可以看这里 [[Thino-changelog]]
+> 如果你想了解 Memos 最新进展，可以看这里 [[thino-changelog]]
 
 ## 效果&特性
 
@@ -107,7 +107,7 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 
 ## 开发进度
 
- memos 2.0 正在开发中，开发进度参考 [[Thino-changelog]]
+ memos 2.0 正在开发中，开发进度参考 [[10-Obsidian/Obsidian社区插件/Thino/Memos/thino-changelog]]
 
 ## 加入内侧
 

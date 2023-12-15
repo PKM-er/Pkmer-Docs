@@ -14,7 +14,7 @@ modified: 20231206100026
 
 ## 前言
 
-[[00_Thino 用户指南|Thino]] ，也就是社区更熟知的 Obsidian Memos，经过 PKmer 团队的开发，目前已经迭代到了 2.1.3 版本 并增加了下面特性：
+[[obsidian-thino|Thino]] ，也就是社区更熟知的 Obsidian Memos，经过 PKmer 团队的开发，目前已经迭代到了 2.1.3 版本 并增加了下面特性：
 
 - 可以选定某一个保存位置，而不是仅限于日记模式
 - 可以选定单文件模式
@@ -93,6 +93,6 @@ modified: 20231206100026
 
 更多的 Thino 介绍参考
 
-[[00_Thino 用户指南]]
+[[obsidian-thino]]
 
 [[03_Thino FAQ]]
