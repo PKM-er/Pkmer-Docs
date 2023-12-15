@@ -1,5 +1,5 @@
 ---
-uid: 2023120719445316
+uid: 20231213114101
 title: Obsidian 插件：【Readme】Timer
 tags: ['obsidian插件', 'readme']
 description: 允许您测量时间。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20231215153834
 ---
 
 # Obsidian 插件：【Readme】Timer
@@ -25,7 +25,6 @@ modified: 20230101000000
 允许您测量时间。
 
 > [!tip] 原文出处
->
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Raboro/obsidian-timer-plugin/main/README.md)
 >
 

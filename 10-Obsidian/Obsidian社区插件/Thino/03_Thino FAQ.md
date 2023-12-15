@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215105223
+modified: 20231215231120
 ---
 
 # Thino FAQ
@@ -64,3 +64,18 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 ## Thino 是否有路线图？
 
 暂时来说，Thino 新的 UI 还在火热设计中，你参与到群里的所有建议或者意见都可能影响 Thino 的发展，所以可以多点来参与到讨论中。
+
+## 已知问题
+
+### 设计思考
+
+- 如果 Thino 已经开启了，为了保证不多侵占电脑资源，这时候使用卡其悬浮窗等命令会不生效
+- 对于 poper windows 这样的命令，依赖 [[obsidian-hover-editor]] 插件配合
+
+### 宿主相关
+
+- 关闭 Obsidian 的所及所得模式（live-preview 模式），会导致 Thino 的所见即所得，悬浮编辑栏失效兼容性。
+
+### 兼容性相关
+
+- Pane Relief 不能共存，目前判断是 Pane Relief 的问题。
