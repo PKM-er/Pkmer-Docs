@@ -7,12 +7,16 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231128100839
+modified: 20231215144448
 ---
 
 # Obsidian 使用技巧
 
 ## 社区技巧
+
+### 增强编辑
+
+- [[Obsidian插件技巧-Zoom插件的妙用]]
 
 ### 综合
 
@@ -32,7 +36,7 @@ modified: 20231128100839
 
 ### 第三方插件
 
-- [[Obsidian技巧-自定义标签面板配合TagFolder]]
+- [[Obsidian插件技巧-自定义标签面板配合TagFolder]]
 - [[外语书阅读工作流]]
 - [[在Obsidian中为图片添加注释]]
 - [[Templater实现关键词自动化套用模板]]
