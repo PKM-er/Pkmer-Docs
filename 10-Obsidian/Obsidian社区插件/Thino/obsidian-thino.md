@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215144504
+modified: 20231215145306
 id: dacd7a42e067cce1
 ---
 
@@ -65,7 +65,7 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
         - [[Thino 设置项#分享设置|分享设置]]
         - [[Thino 设置项#进阶设置|进阶设置]]
 - [[obsidian-memos]]
-	- [[10-Obsidian/Obsidian社区插件/Thino/Memos/thino-changelog]]
+	- [[thino-changelog]]
 - Thino 样式专区
 	- [[Obsidian样式-给Thino加个滚动条]]
 	- [[Obsidian样式-给Thino搭配10种热力图颜色]]
