@@ -2,12 +2,12 @@
 uid: 20231109234455
 title: Thino 用户使用指南
 tags: []
-description: Thino 用户使用指南
-author: Bon
+description: Thino 用户使用指南，你想知道 Thino 的一切都在这里
+author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231122115804
+modified: 20231215105206
 id: dacd7a42e067cce1
 ---
 
@@ -54,7 +54,7 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
         - [[Thino 设置项#分享设置|分享设置]]
         - [[Thino 设置项#进阶设置|进阶设置]]
 - [[obsidian-memos]]
-	- [[memos-changelog]]
+	- [[Thino-changelog]]
 - Thino 样式专区
 	- [[Obsidian样式-给Thino加个滚动条]]
 	- [[Obsidian样式-给Thino搭配10种热力图颜色]]
