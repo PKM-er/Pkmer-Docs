@@ -98,7 +98,7 @@ where file.cday >= date(sow)
 |`dur(5h)`|五小时|
 |`dur(2d)`|两天|
 |`dur(4w)`|四周|
-|`dur(6mo)`|六周|
+|`dur(6mo)`|六个月|
 |`dur(7 yr)`|七年|
 |`dur(1s, 2m, 3h)` |3 小时、2 分钟和 1 秒钟|
 

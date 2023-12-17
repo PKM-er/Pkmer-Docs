@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231206000816
+modified: 20231216204131
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -177,6 +177,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-给Thino加个滚动条]]
 - [[Obsidian样式-给Thino搭配10种热力图颜色]]
 - [[Obsidian样式-Thino单文件时间轴样式]]
+- [[Obsidian样式-Thino 样式]]
 
 ## 自定义 CSS 简单上手指南
 
