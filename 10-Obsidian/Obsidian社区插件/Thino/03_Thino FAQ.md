@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215231120
+modified: 20231217230526
 ---
 
 # Thino FAQ
@@ -71,6 +71,9 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 - 如果 Thino 已经开启了，为了保证不多侵占电脑资源，这时候使用卡其悬浮窗等命令会不生效
 - 对于 poper windows 这样的命令，依赖 [[obsidian-hover-editor]] 插件配合
+- 激活问题
+	- 不要使用 Obsidian 中浏览器类插件完成激活，会导致激活失败，当然你可以在激活时候关闭对应插件，激活后重新代开
+	- 遇到激活问题，但是 Thino 依然现实需要验证，可以重新关闭插件页签，重新开启即可
 
 ### 宿主相关
 
