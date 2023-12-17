@@ -1,18 +1,13 @@
 ---
 uid: 20230723144341
 title: Dataview 支持的 Function 函数
-tags:
-  - obsidian
-  - 插件
-  - dataview
-  - 语法
-  - function
+tags: [obsidian, 插件, dataview, 语法, function]
 description: 基本语法学习指南，Function 函数
 author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231002150451
+modified: 20231217144331
 ---
 
 # Dataview 支持的 Function 函数
@@ -21,13 +16,9 @@ Dataview 提供了一些函数让我们对查询的结果做进一步处理，�
 
 Datview 提供了非常丰富的函数让我们处理数据，这些函数主要有五类。正文只对函数作大致介绍，可以点击链接查看对应函数的具体用法，我们提供了中文的解释。也可以自行在官方英文文档查看（ [Functions - Dataview](https://blacksmithgu.github.io/obsidian-dataview/reference/functions/#utility-functions) ）
 
-- [[31 - Dataview 中的构造函数|构造函数]]：这类函数用于将输入值转换为其他数据类型，也就是强制类型转换（11 个）；
-- [[32 - Dataview 中的数值运算函数|数值运算函数]]：这类函数对数值进行各种运算（8 个）；
-- [[33 - Dataview 中的对象操纵函数|对象操纵函数]]：这类函数用于操作对象内部的值（14 个）；
-- [[34 - Dataview 中的字符串操纵函数|字符串操纵函数]]：这类函数专门用于处理字符串（13 个）；
-- [[35 - Dataview 中的实用函数|实用函数]]：一些实用的函数（7 个）；
+## 关于函数
 
-## 关于函数的一点基础知识
+### 一点基础知识
 
 首先我们要知道什么是函数？没有编程基础的人可能会有这个疑问。其实代码的函数演化自数学上的函数。数学上的函数是一种映射关系，给定一个输入值 x，在函数 f 的作用下把这个值映射成另一个值 $y=f(x)$，在这里也一样。例如函数 `sum(...)` 就是 f，输入值 x 是括号里的值，输出值是他们的和，sum(1,2) 会输出 3；
 
@@ -40,7 +31,7 @@ Datview 提供了非常丰富的函数让我们处理数据，这些函数主要
 > [!NOTE] 关于返回值
 > 返回值也就是函数处理后的结果，那为什么不直接称为结果呢，不是更好理解吗。这其实是因为，在开发函数的时候，需要用一个关键字来标识我们函数的结果是什么，大部分编程语言用的关键字都是 `return ..`，翻译成中文也就是返回值。这个称呼比直接叫结果多了一分动态的感觉，更能体现代码动态执行的状态。
 
-## 函数向量化
+### 函数向量化
 
 大多数函数平常只接受一个输入值并给出一个返回值，如果要处理多个输入值就要重复使用。为了提高效率，我们可以把输入值写成一个 list 列表，函数作用于列表时就是作用于列表中的每一个值，此时函数的返回值也会是一个列表，这就叫函数向量化。
 
@@ -58,7 +49,7 @@ replace(["yes", "ree"], "e", "a") = ["yas", "raa"]
 
 `replace()` 有三个输入值，都是字符串。它的作用是把第一个输入值的所有等于第二个输入值的部分都替换成第三个输入值；
 
-## 一、构造函数
+## [[31 - Dataview 中的构造函数|一、构造函数]]
 
 这类函数用于将输入值转换为其他数据类型，也就是强制类型转换（11 个）
 
@@ -72,9 +63,9 @@ replace(["yes", "ree"], "e", "a") = ["yas", "raa"]
 - link(path, [display])：构造链接；
 - embed(link, [embed?])：把链接嵌入查询结果中；
 - elink(url, [display])：构造网络链接；
-- typeof(any)：查询数据类型； ^528a53
+- typeof(any)：查询数据类型；
 
-## 二、数值操纵函数
+## [[32 - Dataview 中的数值运算函数|二、数值运算函数]]
 
 这类函数用于操纵数字（8 个）
 
@@ -87,7 +78,7 @@ replace(["yes", "ree"], "e", "a") = ["yas", "raa"]
 - minby(array, function)：根据某种规则（函数）求最小值；
 - maxby(array, function)：根据某种规则（函数）求最大值；
 
-## 三、对象操纵函数
+## [[33 - Dataview 中的对象操纵函数|三、对象操纵函数]]
 
 这类函数用于操作对象内部的值（14 个）
 
@@ -106,7 +97,7 @@ replace(["yes", "ree"], "e", "a") = ["yas", "raa"]
 - map(array, func)：对 array 中的所有元素用函数 func 做映射；
 - flat(array, [depth])：把不同级别的列表组合成一个同级的列表；
 
-## 四、字符串操纵函数
+## [[34 - Dataview 中的字符串操纵函数|四、字符串操纵函数]]
 
 这类函数专门用于处理字符串（13 个）
 
@@ -124,7 +115,7 @@ replace(["yes", "ree"], "e", "a") = ["yas", "raa"]
 - substring(string, start, [end])：字符串切片，取字符串中从 start 到 end（start 从 0 开始）的子串；
 - truncate(string, length, [suffix])：截取字符串的开头，并且为截取的字符串增加一个结尾（默认为...）；
 
-## 五、实用函数
+## [[35 - Dataview 中的实用函数|五、Utility Functions]]
 
 - default(field, value)：设置默认值，即当查询的字段为 null （空值），则显示默认值 value ；
 - choice(bool, left, right)：就是 if 判断，bool 判断为真时返回 left，否则返回 right；

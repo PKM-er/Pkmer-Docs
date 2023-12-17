@@ -1,16 +1,16 @@
 ---
 uid: 20230724104524
-title: Dataview 中的Metadata 的数据类型
+title: Dataview 中的 Metadata 的数据类型
 tags: [obsidian, metadata]
 description: 基本语法学习指南，Metadata 的数据类型
 author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810180036
+modified: 20231217141936
 ---
 
-# Dataview 中的Metadata 的数据类型
+# Dataview 中的 Metadata 的数据类型
 
 Metadata 是一个键值对（Key - Value，在这里称 Field Name - Field）
 
@@ -38,7 +38,7 @@ Metadata 是一个键值对（Key - Value，在这里称 Field Name - Field）
 
 ### string 字符串
 
-默认的数据类型，当一个 Field 没有对应的类型时，就为 string 类型（因此可以用双引号包含，也可以不用）；常见的可以是，一个单词，一段话等。例如这个 [[11 - 添加元数据至文件|例子]] 中的属性：书名，author，country，abstract，直接输入中文一般都是字符串；
+默认的数据类型，也是最常用的数据类型。当一个 Field 没有对应的类型时，就为 string 类型（因此可以用双引号包含，也可以不用），常见的可以是，一个单词，一段话等。例如这个 [[43 - YAML 基础]] 中提供的例子，里面的属性：书名，author，country，abstract 的数据类型都是字符串。直接输入中文一般都是字符串；
 
 ### number 数字类型
 
@@ -48,7 +48,7 @@ Metadata 是一个键值对（Key - Value，在这里称 Field Name - Field）
 
  分为 true 和 false 两种，代表真和假；
 
-例如这个 [[11 - 添加元数据至文件|例子]] 中的 finish 属性域就是 true，检索的时候就可以直接检索 finish 域为 true 或者 false 来分别查询所有阅读完了或者没读完的书目。文件默认的元数据 `file.starred` 的数据类型也是布尔类型，代表是否标星号。但是星标插件已经被 [[https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6/%E4%B9%A6%E7%AD%BE/|书签]] 插件取代，也许后面会改名；
+例如这个 [[43 - YAML 基础]] 中提供的例子中的 finish 属性域就是 false，检索的时候就可以直接检索 finish 域为 true 或者 false 来分别查询所有阅读完了或者没读完的书目。文件默认的元数据 `file.starred` 的数据类型也是布尔类型，代表是否标星号。但是星标插件已经被 [[书签]] 插件取代，也许后面这个属性 `file.starred` 会改名；
 
 ### date 时间类型
 
@@ -95,25 +95,24 @@ Date 时间是指一个时间点，而 Duration 是指一段时间。比如 1 �
 > - 组合：1 second 2 min 3 h
 > - 顺序无关紧要：2m1s3h 和上一个的结果一致
 
-^df2612
-
 ### link 链接
 
 链接也是其中的一种数据结构，语法和在正文中的一致： `[[链接]]` 或 `[[链接|显示的名字]]` ；
 
-示例：在 Frontmatter 或 Inline Field 中， `Linkto: [[...]]` 或 `Linkto:: ...` ；
+示例：
 
-### array 数组
+- 在文档属性：`Linkto: [[...]]`
+- 在行内字段中：`Linkto:: ...` ；
+
+### array 数组（List 列表）
 
 多值属性的值域
 
-添加在 Frontmatter 中有两种写法：
+添加在文档属性中有两种写法：
 
-- 第一种是以逗号分割，用方括号 `[ ]` 括起来；
-- 第二种是用无序列表；
-添加在 Inline Field 中就直接用逗号分割
-
-比如想给一个文件添加一些关键词，可以写
+- 如果是源码模式，有两种写法：
+	- 第一种是以逗号分割，用方括号 `[ ]` 括起来；
+	- 第二种是用无序列表；
 
  ```md
 ---
@@ -132,7 +131,16 @@ tags:
 ---
 ```
 
-在 Inline Field 中也是用逗号分隔，如 tags:: obsidian, 插件, Dataview
+- 如果你是实时预览模式，你只需要在选择该属性为列表 List，每输入一个值点击回车确认即可
+
+![PixPin_2023-12-17_14-28-03.gif](https://cdn.pkmer.cn/images/PixPin_2023-12-17_14-28-03.gif!pkmer)
+
+添加在行内字段中就直接用逗号分割，如 tags:: obsidian, 插件, Dataview
+
+> [!warning] 注意
+> 一个列表中的所有属性的属性值都要相同，因此例如 `example:: 值1, 值2, 3`。这三个属性值的数据类型都是字符串，包括第三个属性值 "3"。
+> 
+> 如果所有属性值都是数字，或者都是布尔值的时候，他们的数据类型才会是数字或者字符串。但凡有一个不是，dataview 会把他们都以字符串的格式识别。因此如果遇到你用列表中的数字加减发现报错，不妨用 `typeof()` 函数检查一下这个"数字"会不会其实是字符串。
 
 ### object 对象
 
