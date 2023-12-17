@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231003191316
+modified: 20231217161457
 ---
 
 # Dataview 中的对象操纵函数
@@ -215,7 +215,7 @@ nonnull([1, 2, 3])       => 没有空值，返回原数组 [1, 2, 3]
 
 - **功能**：
 
-只有当数组中的==所有值都为真==时才返回 true（理解为 all is true? 全为真吗？）。==只要不是 0, null, false，都会视作真值，表达式结果为真也是真值==
+只有当数组中的==所有值都为真==时才返回 true（理解为：all is true? 全为真吗？）。 ==只要不是 0, null, false，都会视作真值，表达式结果为真也是真值==.
 
 - **输入**：array
 
@@ -254,7 +254,7 @@ all(["apple", "pie", 3], (x) => typeof(x) = "string")      => 数组中的 3 不
 
 - **功能**：
 
-如果数组中的==任何值为真==，则返回 true。==只要不是 0, null, false，都会视作真值，表达式结果为真也是真值==
+如果数组中的==任何值为真==，则返回 true。 ==只要不是 0, null, false，都会视作真值，表达式结果为真也是真值==.
 
 - **输入**：array
 

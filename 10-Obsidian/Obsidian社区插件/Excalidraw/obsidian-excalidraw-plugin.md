@@ -141,6 +141,7 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 ### CSS 美化
 
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+- [[Obsidian样式-Excalidraw自动隐藏工具栏的CSS]]
 
 ## 视频教程
 
