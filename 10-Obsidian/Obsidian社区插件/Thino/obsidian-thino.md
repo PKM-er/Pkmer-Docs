@@ -66,12 +66,12 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
         - [[Thino 设置项#主题设置|主题设置]]
         - [[Thino 设置项#分享设置|分享设置]]
         - [[Thino 设置项#进阶设置|进阶设置]]
-- [[obsidian-memos]]
-	- [[thino-changelog]]
 - Thino 样式专区
 	- [[Obsidian样式-给Thino加个滚动条]]
 	- [[Obsidian样式-给Thino搭配10种热力图颜色]]
 	- [[Obsidian样式-Thino单文件时间轴样式]]
+- 更多教程
+    - [文章列表](https://pkmer.cn/tags/thino/)
 
 ## 声明
 
