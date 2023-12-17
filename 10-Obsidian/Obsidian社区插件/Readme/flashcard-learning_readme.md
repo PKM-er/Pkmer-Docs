@@ -1,6 +1,6 @@
 ---
-uid: 2023080322182624
-title: Obsidian 插件：Flashcard Learning
+uid: 2023120719283206
+title: Obsidian 插件：【Readme】Flashcard Learning
 tags: ['obsidian插件', 'readme']
 description: 改进的闪卡学习系统。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Flashcard Learning
+# Obsidian 插件：【Readme】Flashcard Learning
 
 > [!Note] 插件名片
 > - 插件名称：Flashcard Learning
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 改进的闪卡学习系统。
+
+![Flashcard Learning](https://cdn.pkmer.cn/covers/flashcard-learning.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -52,7 +54,7 @@ modified: 20230101000000
 
 ### 评论持续时间
 
-![评论持续时间](https://github.com/gaetanmuck/obsidian-flashcard-learning/assets/26961057/aa5b9edb-da0f-44d3-a182-5f6397b7c0a1)
+![评论持续时间](https://cdn.pkmer.cn/covers/flashcard-learning_1_0.png!pkmer)
 
 一天内多次评论
 
@@ -82,7 +84,7 @@ modified: 20230101000000
 
 ### 学习
 
-![学习](https://github.com/gaetanmuck/obsidian-flashcard-learning/assets/26961057/620629bb-08d9-431c-93b7-98c55d4632f2)
+![学习](https://cdn.pkmer.cn/covers/flashcard-learning_1_1.png!pkmer)
 
 最为人熟知，却较少展示
 
@@ -98,7 +100,7 @@ modified: 20230101000000
 
 使用助手创建卡片
 
-![使用助手创建卡片](https://github.com/gaetanmuck/obsidian-flashcard-learning/assets/26961057/2e319158-4eeb-48c6-b732-a5025ad59436)
+![使用助手创建卡片](https://cdn.pkmer.cn/covers/flashcard-learning_1_2.png!pkmer)
 
 可以使用命令“创建新的闪卡”来创建闪卡。
 
@@ -114,7 +116,7 @@ modified: 20230101000000
 
 #### 手动创建卡片
 
-![手动创建卡片](https://github.com/gaetanmuck/obsidian-flashcard-learning/assets/26961057/c61151db-5b1f-4aef-b6b6-8c005873a181)
+![手动创建卡片](https://cdn.pkmer.cn/covers/flashcard-learning_1_3.png!pkmer)
 
 一旦语法被理解，可以手动创建卡片（或通过脚本生成），并且插件将根据提供的信息对其进行处理。在这种情况下，还必须在 frontmatter YAML 中手动添加属性 `flashcard: true`。
 
@@ -138,14 +140,14 @@ modified: 20230101000000
 
     - 一个可以在文件中执行的命令（建议在新行上！），以便轻松创建一个闪卡
 
-![命令 - 模态框](https://github.com/gaetanmuck/obsidian-flashcard-learning/assets/26961057/acb3cb7f-212b-473b-a31c-3180c8327485)
+![命令 - 模态框](https://cdn.pkmer.cn/covers/flashcard-learning_1_4.png!pkmer)
 
-![命令 - 功能区](https://github.com/gaetanmuck/obsidian-flashcard-learning/assets/26961057/589c5c71-b630-465d-b70c-15e1481bfe82)
+![命令 - 功能区](https://cdn.pkmer.cn/covers/flashcard-learning_1_5.png!pkmer)
 
 主屏幕
 
 更多详细信息请参见屏幕截图。
 
-![主屏幕](https://github.com/gaetanmuck/obsidian-flashcard-learning/assets/26961057/12c94f0d-39c6-4a0f-90b6-0a482476a55c)
+![主屏幕](https://cdn.pkmer.cn/covers/flashcard-learning_1_6.png!pkmer)
 
 如果您觉得这个插件有价值并且想要表达支持，您可以 [给我买杯咖啡](https://www.buymeacoffee.com/gaetanmuck)，将不胜感激。

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322251995
-title: Obsidian 插件：Quick Latex for Obsidian
+uid: 2023120719410163
+title: Obsidian 插件：【Readme】Quick Latex for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 一款简单的插件，用于简化和加速Latex数学输入。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Quick Latex for Obsidian
+# Obsidian 插件：【Readme】Quick Latex for Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：Quick Latex for Obsidian
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一款简单的插件，用于简化和加速 Latex 数学输入。
 
-![Quick Latex for Obsidian](https://cdn.pkmer.cn/covers/quick-latex.gif!pkmer)
+![Quick Latex for Obsidian](https://cdn.pkmer.cn/covers/quick-latex.gif)
 
 > [!tip] 原文出处
 >
@@ -62,7 +62,7 @@ modified: 20230101000000
 * 输入**\$**将自动闭合为**\$**并将光标移动到**\$\$**符号之间。
 * **提示：**如果您经常使用 $ 符号作为货币符号，可以在插件设置中切换关闭 " 自动闭合数学符号 " 功能。
 
-![自动进入数学模式](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoCloseMath.gif)
+![自动进入数学模式](https://cdn.pkmer.cn/covers/quick-latex_1_0.gif)
 
 ### 2. 自动关闭 {}, [], () 括号
 
@@ -77,14 +77,14 @@ modified: 20230101000000
 
 * 将光标放在包含 \sum、\int 或 \frac 的 () 或 [] 括号表达式之后，然后按下空格键，最外层的括号将添加 \left 和 \right，以显示更大的括号来包围这些大表达式。例如：(\sum\limits_{i=1}^n x+1) => **\left**(\sum\limits_{i=1}^n x+1 **\right**)
 
-![自动放大括号](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoEnlargeBracket.gif)
+![自动放大括号](https://cdn.pkmer.cn/covers/quick-latex_1_1.gif)
 
 ### 5. 在上标和下标后自动用{}括起表达式
 
 * 在上标符号**"^"**和下标符号**"_"**后面输入表达式，然后按下**" 空格键 "**，将自动用**"{}"**括起表达式。
 * 注意：如果你习惯在不用{}括起下标索引的情况下输入，那么当你在下标符号后按下空格键时，autoEncloseSubscript 函数可能会误触发。在这种情况下，建议关闭此功能。
 
-![自动括起上标](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoEncloseSup.gif)
+![自动括起上标](https://cdn.pkmer.cn/covers/quick-latex_1_2.gif)
 
 ### 6. 用数学符号将选定的表达式括起来
 
@@ -94,19 +94,19 @@ modified: 20230101000000
 
 * 输入**\$e/2\$**，然后按下**“空格键”**，系统会自动将表达式替换为**\$\frac{e}{2}\$**。
 
-![自动分数](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoFraction.gif)
+![自动分数](https://cdn.pkmer.cn/covers/quick-latex_1_3.gif)
 
 * **提示 1：** 将分数表达式括在圆括号 () 中有助于系统识别分数的边界。
 
-![自动分数 1](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoFraction1%20-%20enclose%20with%20round%20bracket.gif)
+![自动分数 1](https://cdn.pkmer.cn/covers/quick-latex_1_4.gif)
 
 * **提示 2：** 在分数前面加上**空格**表示分数的开始。对于一系列分数特别有用！
 
-![自动分数 2](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoFraction2%20-%20space.gif)
+![自动分数 2](https://cdn.pkmer.cn/covers/quick-latex_1_5.gif)
 
 * **提示 3：** 对于较长的分子或分母表达式（特别是当表达式中有可能触发分数替换的空格时），请将表达式括在圆括号**()**中。
 
-![自动分数 3](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_autoFraction3%20-%20numeratordenominator.gif)
+![自动分数 3](https://cdn.pkmer.cn/covers/quick-latex_1_6.gif)
 
 * **提示 4：** 插件会删除分子和分母中最外层的括号。
 
@@ -122,7 +122,7 @@ modified: 20230101000000
 * **提示 4：编辑快捷键**
     * 您可以在**设置 -> 快捷键**中编辑快捷键
 
-![添加对齐块](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_alignblock.gif)
+![添加对齐块](https://cdn.pkmer.cn/covers/quick-latex_1_7.gif)
 
 ### 9. 矩阵块的快捷方式
 
@@ -136,7 +136,7 @@ modified: 20230101000000
 * **提示 3：编辑快捷键**
     * 您可以在**设置 -> 快捷键**中编辑快捷键
 
-![添加矩阵块](https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/demo_gif/g_matrixblock.gif)
+![添加矩阵块](https://cdn.pkmer.cn/covers/quick-latex_1_8.gif)
 
 使用 Tab 和 Shift-Tab 在数学表达式中快速跳转从括号到括号。
 

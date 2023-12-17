@@ -1,16 +1,16 @@
 ---
-uid: 20230822233939
-title: Obsidian 插件：Adjacency Matrix Maker
-tags: [界面相关, obsidian插件, readme]
+uid: 2023120719215632
+title: Obsidian 插件：【Readme】Adjacency Matrix Maker
+tags: ['界面相关', 'obsidian插件', 'readme']
 description: 创建你的金库的互动邻接矩阵
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230824234340
+modified: 20230101000000
 ---
 
-# Obsidian 插件：Adjacency Matrix Maker
+# Obsidian 插件：【Readme】Adjacency Matrix Maker
 
 > [!Note] 插件名片
 > - 插件名称：Adjacency Matrix Maker
@@ -51,9 +51,9 @@ modified: 20230824234340
 
 这个图传达了与这个邻接矩阵相同的信息：
 
-![](https://i.imgur.com/VZuvAhq.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_0.png!pkmer)
 
-![](https://i.imgur.com/glL4mGc.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_1.png!pkmer)
 
 ## 功能性
 
@@ -63,13 +63,13 @@ modified: 20230824234340
 
 如果您想将缩放级别重置为初始状态，可以使用鼠标右键，或者点击图像上方的“重置缩放”按钮。
 
-![](https://i.imgur.com/iJohDDi.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_2.png!pkmer)
 
 ### 交互式工具提示
 
 如果您将光标悬停在一个填充颜色的单元格上（表示两个链接的笔记），您将看到一个工具提示出现，显示链接的两个笔记 `A → B`。
 
-![](https://i.imgur.com/wu6ivE7.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_3.png!pkmer)
 
 您可以按住 `Ctrl` 键，在任何地方都可以看到此工具提示，即使这两个笔记没有链接。
 
@@ -87,11 +87,11 @@ modified: 20230824234340
 - 六级文件夹 → **靛蓝色**
 - 七级文件夹 → **紫罗兰色**
 
-![](https://i.imgur.com/R7xGlb4.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_4.png!pkmer)
 
 ### 保存图像
 
-您可以通过点击“保存图像”按钮将邻接矩阵的图像保存到您的仓库中。如果成功，您将在右上角看到一个通知，上面写着“图像已保存”。
+您可以通过点击“保存图像”按钮将邻接矩阵的图像保存到您的保险库中。如果成功，您将在右上角看到一个通知，上面写着“图像已保存”。
 
 图像的默认名称和路径可以在 [图像设置](README.md#save-image-configuration) 中进行配置。
 
@@ -105,17 +105,17 @@ modified: 20230824234340
 
 这些设置：
 
-![](https://i.imgur.com/gF0G9Zs.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_5.png!pkmer)
 
 给我这个矩阵：
 
-![](https://i.imgur.com/4u6xgO6.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_6.png!pkmer)
 
 ### 显示文件夹
 
 还有一个选项可以切换是否显示 [文件夹方块](README.md#folder-squares)。
 
-![](https://i.imgur.com/pEWm964.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_7.png!pkmer)
 
 ### 图像缩放
 
@@ -125,11 +125,11 @@ modified: 20230824234340
 
 #### `图像缩放比例 = 1`
 
-![](https://i.imgur.com/0fu419R.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_8.png!pkmer)
 
 #### `图像缩放 = 100`
 
-![](https://i.imgur.com/1gRD7hV.png)
+![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_9.png!pkmer)
 
 ### 保存图像配置
 

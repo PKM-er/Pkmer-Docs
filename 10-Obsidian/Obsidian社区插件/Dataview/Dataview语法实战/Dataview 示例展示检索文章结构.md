@@ -1,13 +1,13 @@
 ---
 uid: 20230918143437
 title: Dataview 示例展示检索文章结构
-tags: []
+tags: [obsidian, dataview]
 description: 本文为辅助文章，辅助其余Dataview查询示例文件
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231008001227
+modified: 20231209174820
 ---
 
 # Dataview 示例展示检索文章结构

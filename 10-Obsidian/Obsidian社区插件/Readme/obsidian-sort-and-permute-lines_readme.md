@@ -1,6 +1,6 @@
 ---
-uid: 2023080322271525
-title: Obsidian 插件：Sort & Permute lines
+uid: 2023120719432605
+title: Obsidian 插件：【Readme】Sort & Permute lines
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 对整个文件或选择的行进行排序和重新排列。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Sort & Permute lines
+# Obsidian 插件：【Readme】Sort & Permute lines
 
 > [!Note] 插件名片
 > - 插件名称：Sort & Permute lines
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 对整个文件或选择的行进行排序和重新排列。
 
-![Sort & Permute lines](https://cdn.pkmer.cn/covers/obsidian-sort-and-permute-lines_new.gif!pkmer)
+![Sort & Permute lines](https://cdn.pkmer.cn/covers/obsidian-sort-and-permute-lines_new.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 您可以直接调用命令来更改整个文件，或者选择文本并仅更改该范围。
 
-![演示](https://raw.githubusercontent.com/Vinzent03/obsidian-sort-and-permute-lines/master/assets/example.gif)
+![演示](https://cdn.pkmer.cn/covers/obsidian-sort-and-permute-lines_1_0.gif)
 
 兼容性
 

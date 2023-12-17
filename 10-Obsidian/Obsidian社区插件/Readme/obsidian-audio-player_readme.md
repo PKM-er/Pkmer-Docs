@@ -1,6 +1,6 @@
 ---
-uid: 2023080322142211
-title: Obsidian 插件：Audio Player
+uid: 2023120719224891
+title: Obsidian 插件：【Readme】Audio Player
 tags: ['obsidian插件', 'readme']
 description: player音频播放器具有后台播放、书签和波形可视化功能，而不是默认的HTML5音频播放器。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Audio Player
+# Obsidian 插件：【Readme】Audio Player
 
 > [!Note] 插件名片
 > - 插件名称：Audio Player
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 player 音频播放器具有后台播放、书签和波形可视化功能，而不是默认的 HTML5 音频播放器。
 
-![Audio Player](https://cdn.pkmer.cn/covers/obsidian-audio-player_new.gif!pkmer)
+![Audio Player](https://cdn.pkmer.cn/covers/obsidian-audio-player_new.gif)
 
 > [!tip] 原文出处
 >
@@ -66,7 +66,7 @@ player 音频播放器具有后台播放、书签和波形可视化功能，而�
 
 ### 通过界面添加书签
 
-![add_bookmark](https://user-images.githubusercontent.com/117757392/201384274-14831e0b-458e-4a01-9869-34f34ad628cc.gif)
+![add_bookmark](https://cdn.pkmer.cn/covers/obsidian-audio-player_1_0.gif)
 
 1. 双击波形可视化器上的任何一个条形图
 2. 输入您的文本
@@ -84,7 +84,7 @@ player 音频播放器具有后台播放、书签和波形可视化功能，而�
 ```
 ~~~
 
-![image](https://user-images.githubusercontent.com/117757392/201384550-33aa7f25-cadc-4ce5-a846-24d87bd7a05d.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-audio-player_1_1.png!pkmer)
 
 如何安装
 

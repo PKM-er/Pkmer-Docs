@@ -1,15 +1,13 @@
 ---
 uid: 20231027195133
 title: Dataview 语法实战 - 列出特定标题下的元素
-tags:
-  - Obsidian
-  - dataview
+tags: [obsidian, dataview]
 description: 列出特定标题下的元素
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231027214419
+modified: 20231209174759
 ---
 
 # Dataview 语法实战 - 列出特定标题下的元素

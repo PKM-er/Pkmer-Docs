@@ -7,10 +7,12 @@ author: calmwaves
 type: basic
 draft: false
 editable: false
-modified: 20231108172030
+modified: 20231209100721
 ---
 
 # Obsidian 安卓上利用 CSS 修改界面字体
+
+安卓手机上自定义字体不能使用系统字体，但是我们可以通过直接将字体文件嵌入到 css 中来实现修改界面字体，以下提供了三种可选方案，任选一种即可。
 
 ## 调用在线字体
 

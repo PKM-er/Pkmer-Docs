@@ -7,7 +7,7 @@ author: Windysoul,Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231019232126
+modified: 20231209174945
 ---
 
 # Obsidian 插件：Dataview
@@ -23,7 +23,7 @@ modified: 20231019232126
 
 Obsidian 是一款强大的知识管理和笔记应用程序， Dataview 插件为 Obsidian 提供了更高级的数据查询和可视化功能，可帮助用户更好地组织和分析笔记内容。
 
-## Dataview 你用过么？
+## Dataview 简介
 
 Dataview 插件的用途主要有三个方面。
 
@@ -35,9 +35,14 @@ Dataview 插件的用途主要有三个方面。
 
 总之，Obsidian 的 Dataview 插件为用户提供了更高级的数据查询、可视化和个性化功能，可以帮助用户更好地组织、分析和展示笔记内容，提升知识管理和信息处理的效率。
 
-## 本系列文章在讲什么？
+## Dataview 系列教程 MOC 目录
 
-本系列文章分为四个部分：基本语法、实例展示、语法实战、社区实践（来自社区大家贡献）
+本系列文章分为四个部分：基本语法、实例展示、语法实战、社区实践。
+
+- **基本语法部分**：共有 23 篇文章，从元数据开始讲起，介绍了所有 dataview 查询你会用到操作符、函数。如果你想系统的学习 dataview，不妨从这里一篇篇往下看。
+- **实例展示**：共有 20 篇文章，每个操作符和每个函数的简单使用示例和进阶使用实例，不知道怎么用某个操作符或者函数就来这里看看。
+- **语法实战**：感谢群友 Windysoul 撰写的 10 篇文章，这部分介绍了一些 dataview 可能的使用场景，附有具体代码。
+- **社区实践**：这部分文章会持续更新，目前已经有 25 篇分享了 dataview 使用的技巧。感谢群友 @calmwaves @劉同學 的分享。其他愿意分享 dataview 使用经验和技巧的也可以放在这里。
 
 ### [[Dataview基本语法|开篇-Dataview基本语法]]
 
@@ -106,3 +111,24 @@ Dataview 插件的用途主要有三个方面。
 - [[Dataview实战-定制你的数据表格并为表格列添加个性化样式]]
 - [[Dataview实战-制作一个倒计时或者正计时列表]]
 - [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]
+- [[Dataview实战-通过Dataview列出标签所在段落内容]]
+- [[Dataview实战-如何不显示笔记链接]]
+- [[Dataview实战-制作一个倒计时或者正计时列表]]
+- [[Dataview实战-如何查询一个文件中的所有图片]]
+- [[Dataview实战-列出包含特定文字的文件或元数据]]
+- [[Dataview实战-在同一个表的列中显示两个元数据字段]]
+- [[Dataview实战-如何让 Dataview 识别不同格式的日期]]
+- [[Dataview实战-如何统计属性值为空的值]]
+- [[Dataview实战-通过Dataview列出关键字所在的行和行数]]
+- [[Dataview实战-如何在查询中创建自定义输出]]
+- [[Dataview实战-列出与当前文件有相同元数据的文件]]
+- [[Dataview实战-获取前后的日记链接（不一定是昨天）]]
+- [[Dataview实战-获取最新打开的任务]]
+- [[Dataview实战-将一周的元数据显示为emojis(习惯跟踪)]]
+- [[Dataview实战-列出不存在的链接页面]]
+- [[Dataview实战-列出每年的某个月份的检索结果应该怎么写]]
+- [[Dataview实战-列出以某个字母开头的文件或元数据]]
+- [[Dataview实战-如何查询结果的数目]]
+- [[每日字数的热力图|Dataview实战-每日字数的热力图]]
+- [[Obsidian样式-可滚动的Dataview表格视图|Dataview实战-给 Dataview 加个滚动条]]
+- [[Dataview实战-进度条]]

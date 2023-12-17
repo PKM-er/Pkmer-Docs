@@ -1,5 +1,5 @@
 ---
-uid: 2023082011361793
+uid: 2023120719452409
 title: Obsidian 插件：【Readme】Touch Bar Macros
 tags: ['obsidian插件', 'readme']
 description: 从您的Mac的Touch Bar上运行自定义宏。
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 从您的 Mac 的 Touch Bar 上运行自定义宏。
+
+![Touch Bar Macros](https://cdn.pkmer.cn/covers/touchbar-macros.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -48,7 +50,7 @@ modified: 20230101000000
 
 ## 截图
 
-![Screenshot 2023-06-20 at 18 41 33](https://github.com/Frostplexx/obisdian-mac-touchbar/assets/62436912/59981b82-ff03-4bea-a763-1c69b8b48880)
+![Screenshot 2023-06-20 at 18 41 33](https://cdn.pkmer.cn/covers/touchbar-macros_1_0.png!pkmer)
 
 <https://github.com/Frostplexx/obisdian-mac-touchbar/assets/62436912/fe467348-ffcf-4ae3-87bd-ac01ae8c26c1>
 

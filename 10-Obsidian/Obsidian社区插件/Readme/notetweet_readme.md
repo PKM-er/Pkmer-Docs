@@ -1,6 +1,6 @@
 ---
-uid: 2023080322230522
-title: Obsidian 插件：NoteTweet
+uid: 2023120719372544
+title: Obsidian 插件：【Readme】NoteTweet
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 从Obsidian发布推文。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：NoteTweet
+# Obsidian 插件：【Readme】NoteTweet
 
 > [!Note] 插件名片
 > - 插件名称：NoteTweet
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从 Obsidian 发布推文。
 
-![NoteTweet](https://cdn.pkmer.cn/covers/notetweet_new.gif!pkmer)
+![NoteTweet](https://cdn.pkmer.cn/covers/notetweet_new.gif)
 
 > [!tip] 原文出处
 >
@@ -58,7 +58,7 @@ modified: 20230101000000
 
 欢迎推荐功能！
 
-![8jE9wvKuls](https://user-images.githubusercontent.com/29108628/109525702-16c97180-7ab2-11eb-8bc0-3c4bc79a6b7a.gif)
+![8jE9wvKuls](https://cdn.pkmer.cn/covers/notetweet_1_2.gif)
 
 如何使用
 
@@ -79,7 +79,7 @@ modified: 20230101000000
 
 #### 设置
 
-1. 打开<<https://apps.twitter.com/app/new> 并创建一个新的应用程序。确保它是读取 + 写入的（否则无法发推文）。>
+1. 打开<https://apps.twitter.com/app/new 并创建一个新的应用程序。确保它是读取 + 写入的（否则无法发推文）。>
 2. 获取您的 API 密钥和密钥以及访问令牌和密钥。
 3. 将它们粘贴到插件设置中。
 

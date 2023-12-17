@@ -1,6 +1,6 @@
 ---
-uid: 2023080322215392
-title: Obsidian 插件：Map View
+uid: 2023120719360190
+title: Obsidian 插件：【Readme】Map View
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 一个可交互的地图视图来记录您的笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Map View
+# Obsidian 插件：【Readme】Map View
 
 > [!Note] 插件名片
 > - 插件名称：Map View
@@ -100,11 +100,11 @@ modified: 20230101000000
 
 您可以根据自定义规则为不同的笔记类型设置不同的图标，从各种来源（Google Maps 和其他许多来源）保存地理位置，保存自定义视图，嵌入地图到笔记中，切换地图图层，运行强大的查询等等。
 
-![](img/sample.png)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_0.png!pkmer)
 
-![](img/intro.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_1.gif)
 
-![](img/quick-embed.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_2.gif)
 
 我编写这个插件是因为我希望我的不断增长的 Zettelkasten 能够回答以下问题...
 
@@ -146,7 +146,7 @@ modified: 20230101000000
 
 在方括号内开始输入位置名称，会弹出一些地理位置结果。选择一个，您的 _内联位置_ 就完成了。
 
-![](img/quick1.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_3.gif)
 
 **选项 2：从地图开始**
 
@@ -198,7 +198,7 @@ modified: 20230101000000
 
 另一个选项是保存嵌入：在预设中点击“复制块”（或从笔记菜单中点击“复制地图视图代码块”），然后将生成的代码粘贴到一个笔记中。
 
-![](img/quick2.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_4.gif)
 
 **还有许多其他构建旅行计划、展示和使用它的选项。**
 
@@ -321,7 +321,7 @@ locations:
 
 这将打开一个对话框，在该对话框中，您可以搜索（根据您 [配置的地理编码提供商](#changing-a-geocoding-provider) 的地址或位置）或使用内置或自定义的 [URL解析规则](#url-parsing-rules) 粘贴 URL。
 
-![](img/new-note-popup.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_5.gif)
 
 ### 在现有笔记中
 
@@ -340,17 +340,17 @@ locations:
 
 1. 在地图上右键单击时使用“在此处新建笔记”。这将创建一个新的笔记（基于您可以在设置中更改的模板），并带有您点击的位置。您可以创建一个带有正文（单个地理位置）的空白笔记，或者一个带有内联地理位置的空白笔记。
 
-![](img/new-note.png)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_6.png!pkmer)
 
 可以使用右上角的工具搜索地图，以便快速跳转到您想要标记的地方。
 
 [URL解析规则](#url-parsing-rules) 在这里也适用，因此您可以 [从Google地图](#tip-copying-from-google-maps)（或任何其他服务）复制地理位置并跳转到它。
 
-![](img/search.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_7.gif)
 
 1. 如果您更喜欢以文本形式输入地理位置，请在右键单击地图时使用“复制地理位置”选项，并将它们粘贴到笔记中。
 
-![](img/copy.png)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_8.png!pkmer)
 
 ### 粘贴为地理位置
 
@@ -370,7 +370,7 @@ locations:
 2. 第一个菜单项应该是通用坐标。点击它，坐标将被复制到剪贴板。
 3. 在任何 Obsidian 笔记中，右键单击并选择“粘贴为地理位置”，或将坐标粘贴到任何地图视图搜索框中。
 
-![](img/google-copy.png)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_9.png!pkmer)
 
 在笔记中嵌入地图
 
@@ -378,11 +378,11 @@ locations:
 
 1. **嵌入现有地图。**要嵌入地图视图中的现有地图，包括其查询和任何其他设置，请从地图的预设下拉菜单中点击“复制块”，然后将该块粘贴到笔记中。
 
-![](img/copy-block-embed.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_10.gif)
 
 1. **直接从笔记中嵌入。**从编辑器中，右键单击并选择“嵌入地图视图”选项，然后输入一个用于地图中心的搜索词。或者，可以将名为“Map View: add an embedded map”的 Obsidian 命令分配给键盘快捷键。
 
-![](img/quick-embed.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_2.gif)
 
 一旦地图嵌入到笔记中，它将表示一个实时视图，根据您的笔记进行更新。
 
@@ -394,7 +394,7 @@ locations:
 
 嵌入还可以在 Canvas 中非常好地工作，包括实时更新。
 
-![](img/canvas.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_12.gif)
 
 ### 高级附加选项
 
@@ -408,7 +408,7 @@ locations:
 
 地图视图支持强大的查询功能，与 Obsidian 的查询格式大致相似。
 
-![](img/query.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_13.gif)
 
 查询字符串可以包含以下搜索运算符：
 
@@ -471,7 +471,7 @@ locations:
 
 图标详细信息包括几个属性：图标名称（从 Font Awesome 目录中获取）、颜色和形状。
 
-![](img/marker-rules.png)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_14.png!pkmer)
 
 一个单独的标记在以下 JSON 结构中定义：
 
@@ -520,7 +520,7 @@ locations:
 
 选择其中一个建议将填入所选位置的坐标，并且 _不会_ 更改您的链接名称（假设您更喜欢自己的名称而不是地理编码服务提供的正式名称）。
 
-![](img/geosearch-suggest.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_15.gif)
 
 如果您的笔记尚未标记为包含位置（通过前置元数据中的 `locations:` 标签），则会自动添加该标记。
 
@@ -586,7 +586,7 @@ locations:
 
 这些源可以是 Google 地图、OpenStreetMap、专门的地图工具或几乎任何您用于查看位置的工具。
 
-![](img/open-in.png)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_16.png!pkmer)
 
 “打开”列表显示在以下情况下：
 
@@ -597,7 +597,7 @@ locations:
 
 可以通过插件的设置菜单编辑此列表，设置一个在上下文菜单中显示的名称和一个 URL 模式。URL 模式有两个参数 --`{x}` 和 `{y}`-- 它们将被点击位置的纬度和经度替换。
 
-![](img/custom-open-in.png)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_17.png!pkmer)
 
 常见的选择可能包括：
 
@@ -621,7 +621,7 @@ URL 解析规则可以在插件的配置窗格中进行配置，并需要熟悉�
 
 如果您认为您添加的正则表达式足够稳定，请使用 PR 将其添加到插件中，以便其他人也能受益！
 
-![](img/url-parsing.png)
+![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_18.png!pkmer)
 
 ## 查看 URL
 
@@ -743,7 +743,7 @@ GPS 位置支持
 许多小的改进和修复：
 
 - 新的功能区图标，基于 Lucide，以与 Obsidian 设计指南保持一致（感谢@huy-vuong！）
-- 添加了一个设置，始终在地图视图弹出窗口中显示链接名称（并将相关设置组织到自己的部分中）。 (<<https://github.com/esm7/obsidian-map-view/issues/149>)>
+- 添加了一个设置，始终在地图视图弹出窗口中显示链接名称（并将相关设置组织到自己的部分中）。 (<https://github.com/esm7/obsidian-map-view/issues/149)>
 - 添加了对标签查询中通配符的支持（<https://github.com/esm7/obsidian-map-view/issues/159）。>
 - 修复了在“跟随活动笔记的查询格式”中设置的查询中包含多个 `$PATH$` 项的错误（<https://github.com/esm7/obsidian-map-view/issues/158）。>
 - 添加了使用自定义标签而不是空的 `locations:` YAML 标签的功能（<https://github.com/esm7/obsidian-map-view/issues/135）。>

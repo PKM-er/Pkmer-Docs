@@ -1,5 +1,5 @@
 ---
-uid: 2023082011355285
+uid: 2023120719312332
 title: Obsidian 插件：【Readme】InlineCodeHighlight
 tags: ['obsidian插件', 'readme']
 description: 将内联的 `'md **code**` 块与 ```md **big**``` 块一样突出显示。
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 在内联代码中写入 `'<lang>`，它将呈现为相应的格式
 
-![example](readme.1.png)
+![example](https://cdn.pkmer.cn/covers/inline-code-highlight_2_0.png!pkmer)
 
 ```md
 foo `'ts const x: number = 123;` bar

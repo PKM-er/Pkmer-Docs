@@ -1,6 +1,6 @@
 ---
-uid: 2023080322163920
-title: Obsidian 插件：Copy Search URL
+uid: 2023120719253955
+title: Obsidian 插件：【Readme】Copy Search URL
 tags: ['obsidian插件', 'readme']
 description: 在搜索视图中添加一个按钮，用于复制Obsidian搜索URL。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Copy Search URL
+# Obsidian 插件：【Readme】Copy Search URL
 
 > [!Note] 插件名片
 > - 插件名称：Copy Search URL
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在搜索视图中添加一个按钮，用于复制 Obsidian 搜索 URL。
 
-![Copy Search URL](https://cdn.pkmer.cn/covers/obsidian-copy-search-url_new.gif!pkmer)
+![Copy Search URL](https://cdn.pkmer.cn/covers/obsidian-copy-search-url_new.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 ## 展示
 
-![展示GIF：编辑器和搜索视图都打开，搜索了“hello”，然后鼠标点击了新的“复制Obsidian搜索URL”上下文菜单项，结果手动粘贴到了编辑器中，然后又搜索了“dazuma”，点击了菜单项，结果也被粘贴到了编辑器中，然后又搜索了“plugins”，点击了菜单项，该结果也被粘贴到了编辑器中。然后Obsidian切换到阅读模式，依次点击了这三个链接，显示它们的相关搜索结果。](https://raw.githubusercontent.com/czottmann/obsidian-copy-search-url/main/readme-assets/showcase.gif)
+![展示GIF：编辑器和搜索视图都打开，搜索了“hello”，然后鼠标点击了新的“复制Obsidian搜索URL”上下文菜单项，结果手动粘贴到了编辑器中，然后又搜索了“dazuma”，点击了菜单项，结果也被粘贴到了编辑器中，然后又搜索了“plugins”，点击了菜单项，该结果也被粘贴到了编辑器中。然后Obsidian切换到阅读模式，依次点击了这三个链接，显示它们的相关搜索结果。](https://cdn.pkmer.cn/covers/obsidian-copy-search-url_1_0.gif)
 
 ## 安装
 

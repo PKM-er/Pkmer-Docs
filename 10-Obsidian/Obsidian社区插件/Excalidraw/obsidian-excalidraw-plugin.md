@@ -136,6 +136,7 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 - [[自定义Excalidraw脚本-快速插入时间戳笔记]]
 - [[自定义Excalidraw脚本-OCR自动提取图片文字]]
 - [[自定义Excalidraw脚本-默认应用打开图片]]
+- [[Excalidraw自定义脚本-插入可以编辑的Mermaid图形]]
 
 ### CSS 美化
 

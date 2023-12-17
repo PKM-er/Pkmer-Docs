@@ -1,6 +1,6 @@
 ---
-uid: 2023080322280739
-title: Obsidian 插件：Text Progress Bar
+uid: 2023120719443295
+title: Obsidian 插件：【Readme】Text Progress Bar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示低保真文本进度条。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Text Progress Bar
+# Obsidian 插件：【Readme】Text Progress Bar
 
 > [!Note] 插件名片
 > - 插件名称：Text Progress Bar
@@ -54,17 +54,17 @@ modified: 20230101000000
 默认值将从插件设置中获取。
 
 ~~~
-```html-progress-bar
+```text-progress-bar
 已读书籍：1/10
 ```
 ~~~
 
-![默认示例](images/example-default.jpg)
+![默认示例](https://cdn.pkmer.cn/covers/text-progress-bar_2_0.jpeg!pkmer)
 
 可选地，可以指定所有设置：
 
 ~~~
-```html-progress-bar
+```text-progress-bar
 已读书籍：5/10
 transition:|
 fill:▓
@@ -75,14 +75,14 @@ length:10
 ```
 ~~~
 
-![默认示例](images/example-all-settings.jpg)
+![默认示例](https://cdn.pkmer.cn/covers/text-progress-bar_2_1.jpeg!pkmer)
 
 注意，空字符是 "` `" - 一个特殊的空字符。
 
 想要表情符号吗？我们有：
 
 ~~~
-```html-progress-bar
+```text-progress-bar
 孵化的小鸡：5/10
 fill:🐥
 empty:🥚
@@ -92,12 +92,12 @@ length:10
 ```
 ~~~
 
-![默认示例](images/example-emoji.jpg)
+![默认示例](https://cdn.pkmer.cn/covers/text-progress-bar_2_2.jpeg!pkmer)
 
 指定一个过渡来显示部分完成的字符：
 
 ~~~
-```html-progress-bar
+```text-progress-bar
 那不是月亮：10/20
 transition: 🌘,🌗,🌔
 fill:🌕
@@ -108,12 +108,12 @@ length:3
 ```
 ~~~
 
-![默认示例](images/example-transition-emoji.jpg)
+![默认示例](https://cdn.pkmer.cn/covers/text-progress-bar_2_3.jpeg!pkmer)
 
 并使用小数来指定表情符号的部分完成情况
 
 ~~~
-```html-progress-bar
+```text-progress-bar
 已读书籍：5.5/10
 transition:📖
 fill:📗
@@ -125,7 +125,7 @@ length:10
 或者使用 ASCII 字符来进行过渡：
 
 ~~~
-```html-progress-bar
+```text-progress-bar
 已读书籍：5/10
 transition:⣦
 fill:⣿
@@ -136,14 +136,14 @@ length:3
 ```
 ~~~
 
-![ASCII过渡](images/example-transition-ascii.jpg)
+![ASCII过渡](https://cdn.pkmer.cn/covers/text-progress-bar_2_4.jpeg!pkmer)
 
 ### 多个进度条
 
 可以使用多个标签将进度条分组在一个块中。
 
 ~~~
-```html-progress-bar
+```text-progress-bar
 JAN:10.0/10
 FEB:1.0/10
 MAR:5.5/10
@@ -154,7 +154,7 @@ length:10
 ```
 ~~~
 
-![分组的进度条](images/example-multiple.png)
+![分组的进度条](https://cdn.pkmer.cn/covers/text-progress-bar_2_5.png!pkmer)
 
 ## 安装
 

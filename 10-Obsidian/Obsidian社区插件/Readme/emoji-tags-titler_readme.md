@@ -1,6 +1,6 @@
 ---
-uid: 2023080322175069
-title: Obsidian 插件：EmoTagsTitler
+uid: 2023120719273199
+title: Obsidian 插件：【Readme】EmoTagsTitler
 tags: ['obsidian插件', 'readme']
 description: 将标签中包含的表情符号添加到笔记标题的开头。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：EmoTagsTitler
+# Obsidian 插件：【Readme】EmoTagsTitler
 
 > [!Note] 插件名片
 > - 插件名称：EmoTagsTitler
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将标签中包含的表情符号添加到笔记标题的开头。
 
-![EmoTagsTitler](https://cdn.pkmer.cn/covers/emoji-tags-titler.gif!pkmer)
+![EmoTagsTitler](https://cdn.pkmer.cn/covers/emoji-tags-titler.gif)
 
 > [!tip] 原文出处
 >
@@ -55,8 +55,8 @@ modified: 20230101000000
 
 ### 为所有带有表情符号标签的笔记添加表情符号
 
-![cmdadd](cmdadd.gif)
+![cmdadd](https://cdn.pkmer.cn/covers/emoji-tags-titler_2_0.gif)
 
 ### 删除所有带有表情符号标签的笔记中的表情符号
 
-![cmdremove](cmdremove.gif)
+![cmdremove](https://cdn.pkmer.cn/covers/emoji-tags-titler_2_1.gif)

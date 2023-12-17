@@ -1,6 +1,6 @@
 ---
-uid: 2023080322152831
-title: Obsidian 插件：Calibre
+uid: 2023120719240751
+title: Obsidian 插件：【Readme】Calibre
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您访问Calibre库并直接在Obsidian中阅读书籍。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Calibre
+# Obsidian 插件：【Readme】Calibre
 
 > [!Note] 插件名片
 > - 插件名称：Calibre
@@ -68,7 +68,7 @@ modified: 20230101000000
 
 要启动服务器，请单击“连接/共享”按钮，然后选择“启动内容服务器”。
 
-![image](https://user-images.githubusercontent.com/150803/143490663-afc3b418-a36e-422a-bab7-97b09237b507.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-calibre-plugin_1_4.png!pkmer)
 
 #### 步骤 2：安装 Calibre 插件
 
@@ -78,21 +78,21 @@ modified: 20230101000000
 
 点击丝带图标打开 Calibre 容器。
 
-![image](https://user-images.githubusercontent.com/150803/143490701-b7eedf79-b555-49e7-ad67-1a55da714c46.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-calibre-plugin_1_5.png!pkmer)
 
-![image](https://user-images.githubusercontent.com/150803/143516737-05d428df-88fc-40a9-a26b-cd163683d607.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-calibre-plugin_1_6.png!pkmer)
 
 如何更改内容服务器端口
 
 #### Calibre 应用程序的变化
 
-![image](https://user-images.githubusercontent.com/150803/143490820-094fd57d-8150-4b82-a678-a81e3f15614e.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-calibre-plugin_1_7.png!pkmer)
 
-![image](https://user-images.githubusercontent.com/150803/143490891-58dcb930-c0c6-40ee-9256-ab25164a77ec.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-calibre-plugin_1_8.png!pkmer)
 
 #### Calibre 插件的变更
 
-![image](https://user-images.githubusercontent.com/150803/143490977-89e98839-0861-44c5-a002-b855a26f00ae.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-calibre-plugin_1_9.png!pkmer)
 
 ## 手动安装插件
 

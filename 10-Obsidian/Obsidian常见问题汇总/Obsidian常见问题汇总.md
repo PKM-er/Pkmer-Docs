@@ -61,7 +61,7 @@ modified: 20231105004624
 
 ### Thino（原 Memos）
 
-- 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[memos-changelog]]
+- 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[thino-changelog]]
 
 #### 发现异常
 

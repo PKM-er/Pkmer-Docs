@@ -1,6 +1,6 @@
 ---
-uid: 2023080322221016
-title: Obsidian 插件：Material Symbols
+uid: 2023120719361802
+title: Obsidian 插件：【Readme】Material Symbols
 tags: ['obsidian插件', 'readme']
 description: 该插件将材料符号（轮廓）添加到黑曜石中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Material Symbols
+# Obsidian 插件：【Readme】Material Symbols
 
 > [!Note] 插件名片
 > - 插件名称：Material Symbols
@@ -57,7 +57,7 @@ modified: 20230101000000
 
 [此图标](https://fonts.google.com/icons?selected=Material%20Symbols%20Outlined%3Adashboard%3AFILL%400%3Bwght%40200%3BGRAD%40-25%3Bopsz%4024)：
 
-![](doc/dashboard_FILL0_wght200_GRAD-25_opsz48.png)
+![](https://cdn.pkmer.cn/covers/material-symbols_2_0.png!pkmer)
 
 ## 默认设置
 

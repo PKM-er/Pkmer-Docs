@@ -24,7 +24,7 @@ modified: 20230101000000
 
 操作链接
 
-![Links](https://cdn.pkmer.cn/covers/links.gif!pkmer)
+![Links](https://cdn.pkmer.cn/covers/links.gif)
 
 > [!tip] 原文出处
 >

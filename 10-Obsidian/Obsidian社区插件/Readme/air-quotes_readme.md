@@ -1,5 +1,5 @@
 ---
-uid: 2023082011353205
+uid: 2023120719222089
 title: Obsidian 插件：【Readme】Air Quotes
 tags: ['obsidian插件', 'readme']
 description: 边输入边搜索并插入源文本中的引用
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 边输入边搜索并插入源文本中的引用
 
-![Air Quotes](https://cdn.pkmer.cn/covers/air-quotes.gif!pkmer)
+![Air Quotes](https://cdn.pkmer.cn/covers/air-quotes.gif)
 
 > [!tip] 原文出处
 >
@@ -54,11 +54,11 @@ Obsidian 的**空气引号**是一种从源文本中几乎即时插入直接引�
 
 我找到了一句很棒的引用，我想要插入它。我开始输入引用的前几个单词，它会立即在书中找到。我使用箭头键增加/减少引用的大小，然后按 Enter 键将其插入到我的笔记中。
 
-![](img/demo.gif)
+![](https://cdn.pkmer.cn/covers/air-quotes_2_0.gif)
 
 以下是使用纸质书籍的演示。当然，前提是您还需要一本电子书。使用移动设备进行此操作非常方便 - 非常快速的笔记记录体验。
 
-[![](img/video-demo.jpg)](https://www.youtube.com/watch?v=G-hpPOMCQys)
+[![](https://cdn.pkmer.cn/covers/air-quotes_2_1.jpeg!pkmer)](https://www.youtube.com/watch?v=G-hpPOMCQys)
 
 它是如何工作的
 

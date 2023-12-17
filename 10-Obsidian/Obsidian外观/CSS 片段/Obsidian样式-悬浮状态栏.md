@@ -1,13 +1,13 @@
 ---
 uid: 20230826162901
 title: Obsidian 样式：将状态栏变为悬浮
-tags: []
+tags: [css]
 description: Obsidian 样式：将状态栏变为悬浮
 author: ProudBenzene
 type: other
 draft: false
 editable: false
-modified: 202309181400005954
+modified: 20230918090138
 ---
 
 # Obsidian 样式：将状态栏变为悬浮

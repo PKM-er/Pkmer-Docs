@@ -1,6 +1,6 @@
 ---
-uid: 2023080322295382
-title: Obsidian 插件：YTranscript
+uid: 2023120719470258
+title: Obsidian 插件：【Readme】YTranscript
 tags: ['obsidian插件', 'readme']
 description: 获取所有 Youtube 视频的字幕
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：YTranscript
+# Obsidian 插件：【Readme】YTranscript
 
 > [!Note] 插件名片
 > - 插件名称：YTranscript
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 获取所有 Youtube 视频的字幕
 
-![YTranscript](https://cdn.pkmer.cn/covers/ytranscript.gif!pkmer)
+![YTranscript](https://cdn.pkmer.cn/covers/ytranscript.gif)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ modified: 20230101000000
 5. 单击时间戳会在该位置打开视频
 6. 您可以拖放转录或时间戳链接
 
-![YTranscriptPlugin2](https://user-images.githubusercontent.com/185352/212565518-3afc897a-84f1-479c-b588-cd35dd8b6cd3.gif)
+![YTranscriptPlugin2](https://cdn.pkmer.cn/covers/ytranscript_1_0.gif)
 
 # 致谢
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322172171
-title: Obsidian 插件：Discord Rich Presence
+uid: 2023120719264896
+title: Obsidian 插件：【Readme】Discord Rich Presence
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 更新你的Discord状态，让你的朋友们知道你正在Obsidian中做什么。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Discord Rich Presence
+# Obsidian 插件：【Readme】Discord Rich Presence
 
 > [!Note] 插件名片
 > - 插件名称：Discord Rich Presence
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 更新你的 Discord 状态，让你的朋友们知道你正在 Obsidian 中做什么。
 
-![Discord Rich Presence](https://cdn.pkmer.cn/covers/obsidian-discordrpc.gif!pkmer)
+![Discord Rich Presence](https://cdn.pkmer.cn/covers/obsidian-discordrpc.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 通过 Discord Rich Presence 更新你的 Discord 状态，向朋友展示你在 Obsidian 上正在工作的内容。
 
-![Rich Presence Preview](https://raw.githubusercontent.com/lukeleppan/obsidian-discordrpc/master/assets/presence.gif)
+![Rich Presence Preview](https://cdn.pkmer.cn/covers/obsidian-discordrpc_1_3.gif)
 
 ### 使用方法
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322232004
-title: Obsidian 插件：Obsidian Cloudinary Uploader
+uid: 2023120719374716
+title: Obsidian 插件：【Readme】Obsidian Cloudinary Uploader
 tags: ['obsidian插件', 'readme']
 description: 将从剪贴板复制的图像上传到Cloudinary
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Cloudinary Uploader
+# Obsidian 插件：【Readme】Obsidian Cloudinary Uploader
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Cloudinary Uploader
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将从剪贴板复制的图像上传到 Cloudinary
 
-![Obsidian Cloudinary Uploader](https://cdn.pkmer.cn/covers/obsidian-cloudinary-uploader.gif!pkmer)
+![Obsidian Cloudinary Uploader](https://cdn.pkmer.cn/covers/obsidian-cloudinary-uploader.gif)
 
 > [!tip] 原文出处
 >
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 ## 工作原理
 
-![动作GIF](https://res.cloudinary.com/dakfccuv5/image/upload/v1636859613/Nov-13-2021_22-11-40_bpei0d.gif)
+![动作GIF](https://cdn.pkmer.cn/covers/obsidian-cloudinary-uploader_1_2.gif)
 
 ## 配置
 

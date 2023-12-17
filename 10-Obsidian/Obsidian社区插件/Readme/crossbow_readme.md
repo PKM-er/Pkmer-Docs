@@ -1,6 +1,6 @@
 ---
-uid: 2023080322164348
-title: Obsidian 插件：Crossbow
+uid: 2023120719255066
+title: Obsidian 插件：【Readme】Crossbow
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中查找反向链接
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Crossbow
+# Obsidian 插件：【Readme】Crossbow
 
 > [!Note] 插件名片
 > - 插件名称：Crossbow
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # 🏹 十字弓
 
-![image](https://user-images.githubusercontent.com/38029550/229279990-f10723bc-380e-4e29-b4f2-47f9b8a5beb9.png)
+![image](https://cdn.pkmer.cn/covers/crossbow_1_0.png!pkmer)
 
 Crossbow 是 [Obsidian](https://obsidian.md) 的一个插件。
 
@@ -57,11 +57,11 @@ Crossbow 是 [Obsidian](https://obsidian.md) 的一个插件。
 
 您可以通过点击匹配项旁边的适当图标来应用匹配项：
 
-![image](https://user-images.githubusercontent.com/38029550/236627426-d4d44d7d-f8e4-4d0d-b291-9ec6aa281ee6.png)
+![image](https://cdn.pkmer.cn/covers/crossbow_1_1.png!pkmer)
 
 这将插入以下链接：
 
-![image](https://user-images.githubusercontent.com/38029550/229280048-fe7a8e31-8cbf-4090-a7f0-4bf0b83814d7.png)
+![image](https://cdn.pkmer.cn/covers/crossbow_1_2.png!pkmer)
 
 > 在 Obsidian 中，链接中的管道符（`|`）表示链接的“显示文本”。这意味着管道符后面的文本将显示为链接的文本，而不是链接本身。
 

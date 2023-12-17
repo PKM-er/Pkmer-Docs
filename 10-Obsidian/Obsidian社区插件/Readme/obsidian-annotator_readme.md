@@ -1,6 +1,6 @@
 ---
-uid: 2023080322140237
-title: Obsidian 插件：Annotator
+uid: 2023120719222372
+title: Obsidian 插件：【Readme】Annotator
 tags: ['PDF', '第三方工具集成', 'obsidian插件', 'readme']
 description: Obsidian中阅读和注释PDF和EPUB的插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Annotator
+# Obsidian 插件：【Readme】Annotator
 
 > [!Note] 插件名片
 > - 插件名称：Annotator
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obsidian 中阅读和注释 PDF 和 EPUB 的插件。
 
-![Annotator](https://cdn.pkmer.cn/covers/obsidian-annotator_new.gif!pkmer)
+![Annotator](https://cdn.pkmer.cn/covers/obsidian-annotator_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,13 +43,13 @@ Obsidian 中阅读和注释 PDF 和 EPUB 的插件。
 
 # Obsidian 注释工具
 
-这是 Obsidian（<<https://obsidian.md）的一个插件。它允许您打开和注释> PDF 和 EPUB 文件。>
+这是 Obsidian（<https://obsidian.md）的一个插件。它允许您打开和注释 PDF 和 EPUB 文件。>
 
-该插件基于<<https://web.hypothes.is/，但修改为将注释存储在本地的> markdown 文件中，而不是在互联网上。>
+该插件基于<https://web.hypothes.is/，但修改为将注释存储在本地的 markdown 文件中，而不是在互联网上。>
 
 ## 演示
 
-![annotator demo](https://user-images.githubusercontent.com/9102856/131702952-1aa76baa-a279-474c-978d-cec95a683485.gif)
+![annotator demo](https://cdn.pkmer.cn/covers/obsidian-annotator_1_2.gif)
 
 **警告！** 在上面的 gif 中，我使用了**Dataview**语法来指定注释目标。
 
@@ -171,7 +171,7 @@ TAGS 区域应该由逗号分隔的 Obsidian 标签列表组成。（例如 `#ta
 * `annotation-target-type` 现在可以取值 `web` 和 `video`。
   * 使用 `web`，注释目标理论上可以是任何网站。有些网站效果更好。链接导航不起作用。
   * 使用 `video`，仅支持 YouTube 链接。为了使用此功能，必须在插件设置中提供指向 annotator.tv 资源的 zip 文件链接。它不能与插件捆绑在一起，因为那很可能会侵犯版权。
-    * 您可以向某人索取链接，或者通过在 annotate.tv 上创建帐户，登录，转到<<https://annotate.tv/videos/620d5a42b9ab630009bf3e31#，并使用> [Save All Resources](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en)> Chrome 扩展程序下载网站，将其上传到 Google Drive，并 [生成直接链接](https://sites.google.com/site/gdocs2direct/)。
+    * 您可以向某人索取链接，或者通过在 annotate.tv 上创建帐户，登录，转到<https://annotate.tv/videos/620d5a42b9ab630009bf3e31#，并使用 [Save All Resources](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en)> Chrome 扩展程序下载网站，将其上传到 Google Drive，并 [生成直接链接](https://sites.google.com/site/gdocs2direct/)。
   * 其他改进：
     * 进行了一些幕后更改，以便将来更容易升级 hypothes.is 版本。
 
@@ -235,7 +235,7 @@ TAGS 区域应该由逗号分隔的 Obsidian 标签列表组成。（例如 `#ta
 
 * 现在，通过按住<kbd>shift</kbd>键，您可以将 epub/pdf 中的高亮拖放到单独的 Obsidian 笔记中，并插入一个指向该高亮的链接。
 
-  ![highlight drag and drop](https://user-images.githubusercontent.com/9102856/132098957-e6850c9f-77a0-4fd5-91ac-e7095cfbea9d.gif)
+  ![highlight drag and drop](https://cdn.pkmer.cn/covers/obsidian-annotator_1_3.gif)
 
 ### 0.0.9（2021-09-03）*修复注释 ID 错误的问题*
 

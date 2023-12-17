@@ -7,7 +7,7 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20231118100853
+modified: 20231214140355
 ---
 
 # Markdown 基础
@@ -355,7 +355,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 渲染效果如下：
 
-![图片示例](https://cdn.pkmer.cn/images/49f8d5f75e3369aad7fbf1f99e39c35a_MD5.png!pkmer)
+![Markdown-图片示例|700](https://cdn.pkmer.cn/images/49f8d5f75e3369aad7fbf1f99e39c35a_MD5.png!pkmer)
 
 ### 链接图片
 
@@ -401,6 +401,8 @@ For example, you can embed Twitter tweets like so as suggested by search results
 >
 </iframe>
 ```
+
+关于图片自定义大小请查看这里：[[Obsidian扩展语法#自定义图片大小]]
 
 ## 任务列表
 

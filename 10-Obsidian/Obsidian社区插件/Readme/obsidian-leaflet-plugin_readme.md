@@ -12,8 +12,6 @@ modified: 20230101000000
 
 # Obsidian 插件：Obsidian Leaflet
 
-
-
 ## 概述
 
 在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。

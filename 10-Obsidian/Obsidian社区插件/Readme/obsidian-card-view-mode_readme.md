@@ -1,6 +1,6 @@
 ---
-uid: 2023080322153732
-title: Obsidian 插件：Card View Mode
+uid: 2023120719241878
+title: Obsidian 插件：【Readme】Card View Mode
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 以卡片模式查看你的笔记。该插件已经无法使用。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Card View Mode
+# Obsidian 插件：【Readme】Card View Mode
 
 > [!Note] 插件名片
 > - 插件名称：Card View Mode
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 以卡片模式查看你的笔记。该插件已经无法使用。
+
+![Card View Mode](https://cdn.pkmer.cn/covers/obsidian-card-view-mode.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -41,7 +43,7 @@ modified: 20230101000000
 
 ![GitHub所有发布](https://img.shields.io/github/downloads/yo-goto/obsidian-card-view-mode/total?color=red)
 
-![主要截图](https://raw.githubusercontent.com/yo-goto/obsidian-card-view-mode/master/resource/screenshot_main_light-min.png)
+![主要截图](https://cdn.pkmer.cn/covers/obsidian-card-view-mode_1_2.png!pkmer)
 
 ## 特性 1 卡片视图
 
@@ -61,15 +63,15 @@ modified: 20230101000000
 
 ## 演示
 
-![屏幕截图](https://raw.githubusercontent.com/yo-goto/obsidian-card-view-mode/master/resource/screenshot.gif)
+![屏幕截图](https://cdn.pkmer.cn/covers/obsidian-card-view-mode_1_3.gif)
 
 ## 设置
 
 卡片颜色、背景颜色、卡片形状可以在设置选项卡中进行配置。
 
-![设置 1](https://raw.githubusercontent.com/yo-goto/obsidian-card-view-mode/master/resource/sc_setting-1-min.png)
+![设置 1](https://cdn.pkmer.cn/covers/obsidian-card-view-mode_1_4.png!pkmer)
 
-![设置 2](https://raw.githubusercontent.com/yo-goto/obsidian-card-view-mode/master/resource/sc_setting-2-min.png)
+![设置 2](https://cdn.pkmer.cn/covers/obsidian-card-view-mode_1_5.png!pkmer)
 
 - 您可以随时使用命令全局开启/关闭此插件。
 - 您可以自定义卡片设计（颜色、圆角半径、投影效果）。

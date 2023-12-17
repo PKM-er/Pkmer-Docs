@@ -1,6 +1,6 @@
 ---
-uid: 2023080322185069
-title: Obsidian 插件：From Template
+uid: 2023120719291982
+title: Obsidian 插件：【Readme】From Template
 tags: ['obsidian插件', 'readme']
 description: 从模板创建新笔记 - 为每个模板提供一个触发它的命令，以及一个填写模板中任何变量的表单。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：From Template
+# Obsidian 插件：【Readme】From Template
 
 > [!Note] 插件名片
 > - 插件名称：From Template
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从模板创建新笔记 - 为每个模板提供一个触发它的命令，以及一个填写模板中任何变量的表单。
 
-![From Template](https://cdn.pkmer.cn/covers/obsidian-notes-from-template.gif!pkmer)
+![From Template](https://cdn.pkmer.cn/covers/obsidian-notes-from-template.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 该插件添加了基于模板文件创建笔记的命令。它将遍历设置中的 `templates` 目录中的每个文件，并为每个文件创建一个名为 'From Template: <X>' 的命令。每个命令将根据给定的模板创建一个笔记，并使用弹出窗口请求模板中的每个变量的值，该模板使用 [Mustache](https://github.com/janl/mustache.js) 语法。
 
-![模板演示](https://raw.githubusercontent.com/mo-seph/obsidian-note-from-template/master/docs/TemplateDemo.gif)
+![模板演示](https://cdn.pkmer.cn/covers/obsidian-notes-from-template_1_0.gif)
 
 Obsidian 论坛上的讨论帖子：<https://forum.obsidian.md/t/plugin-create-notes-from-templates/23452>
 

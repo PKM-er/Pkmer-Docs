@@ -1,5 +1,5 @@
 ---
-uid: 2023102611085372
+uid: 2023120719462696
 title: Obsidian 插件：【Readme】VSCode Editor
 tags: ['obsidian插件', 'readme']
 description: 像VSCode一样编辑代码文件。
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 像 VSCode 一样编辑代码文件。
+
+![VSCode Editor](https://cdn.pkmer.cn/covers/vscode-editor.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -67,17 +69,17 @@ Obsidian 默认不支持查看和编辑各种代码文件，因此创建了 Obsi
 - 允许切换代码缩略图的显示。
 - 支持使用快捷图标按钮或命令创建新的代码文件。
 - **浅色主题**
-![image.png](https://sxm-upload.oss-cn-beijing.aliyuncs.com/imgs/20230921184929.png)
+![image.png](https://cdn.pkmer.cn/covers/vscode-editor_1_0.png!pkmer)
 
 - **深色主题**
-![image.png](https://sxm-upload.oss-cn-beijing.aliyuncs.com/imgs/20230921184840.png)
+![image.png](https://cdn.pkmer.cn/covers/vscode-editor_1_1.png!pkmer)
 
 
 - **创建代码文件**
-![image.png](https://sxm-upload.oss-cn-beijing.aliyuncs.com/imgs/20230921185107.png)
+![image.png](https://cdn.pkmer.cn/covers/vscode-editor_1_2.png!pkmer)
 
 - **编辑器设置面板**
-![image.png](https://sxm-upload.oss-cn-beijing.aliyuncs.com/imgs/20230921190801.png)
+![image.png](https://cdn.pkmer.cn/covers/vscode-editor_1_3.png!pkmer)
 
 ## 安装
 

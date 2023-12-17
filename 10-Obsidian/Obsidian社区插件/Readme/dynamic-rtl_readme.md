@@ -1,6 +1,6 @@
 ---
-uid: 2023080322173364
-title: Obsidian 插件：Dynamic RTL
+uid: 2023120719270650
+title: Obsidian 插件：【Readme】Dynamic RTL
 tags: ['obsidian插件', 'readme']
 description: 每行/段根据语言动态调整RTL/LTR方向！
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Dynamic RTL
+# Obsidian 插件：【Readme】Dynamic RTL
 
 > [!Note] 插件名片
 > - 插件名称：Dynamic RTL
@@ -55,7 +55,7 @@ modified: 20230101000000
 
 RTL/LTR 将根据每行/段落的起始语言动态变化🙂
 
-![预览](https://raw.githubusercontent.com/mwxgaf/obsidian-dynamic-rtl/master/preview.png)
+![预览](https://cdn.pkmer.cn/covers/dynamic-rtl_1_6.png!pkmer)
 
 只需从 Obsidian.md 应用程序中安装插件并执行重新加载✅
 

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从图像中提取文本并使其可供搜索。
 
-![Taskbone OCR](https://cdn.pkmer.cn/covers/taskbone-ocr-plugin.gif!pkmer)
+![Taskbone OCR](https://cdn.pkmer.cn/covers/taskbone-ocr-plugin.gif)
 
 > [!tip] 原文出处
 >
