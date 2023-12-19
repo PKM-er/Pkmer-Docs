@@ -7,7 +7,7 @@ author: 熊猫别熬夜,ProudBenzene,y6n-u9h
 type: other
 draft: false
 editable: false
-modified: 20231128014545
+modified: 20231219164020
 ---
 
 # 自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动
@@ -186,7 +186,7 @@ el.ondrop = async function (event) {
 			let id = await ea.addImage(0, 0, zotero_image_name);
 			let el = ea.getElement(id);
 			el.link = zotero_link;
-			await ea.addElementsToView(true, true, false);
+			await ea.addElementsToView(false, false);
 			if (ea.targetView.draginfoDiv) {
 				document.body.removeChild(ea.targetView.draginfoDiv);
 				delete ea.targetView.draginfoDiv;
@@ -194,9 +194,8 @@ el.ondrop = async function (event) {
 		};
 
 	} else {
-		let id = await ea.addText(0, 0, `${insert_txt} `, { width: 400, box: true, wrapAt: 90, textAlign: "left", textVerticalAlign: "middle", box: "box" });
-		let el = ea.getElement(id);
-		await ea.addElementsToView(true, true, false);
+		await ea.addText(0, 0, `${insert_txt} `, { width: 400, box: true, wrapAt: 90, textAlign: "left", textVerticalAlign: "middle", box: "box" });
+		await ea.addElementsToView(false, false);
 		if (ea.targetView.draginfoDiv) {
 			document.body.removeChild(ea.targetView.draginfoDiv);
 			delete ea.targetView.draginfoDiv;
@@ -263,7 +262,6 @@ function match_zotero_image(text) {
 	const matches = text.match(regex);
 	return matches ? matches[1] : "";
 }
-```
 ```
 
 该脚本的中心思想就是通过拖拽的文本，定位到图片名，从而复制该图片到 OB 的笔记库中，并对拖拽的文本进行处理，去除多余的空格以及全角转半角，拆分为 zotero_txt、zotero_author、zotero_link、zotero_comment、zotero_image 这 5 个文本，自定义组合：
