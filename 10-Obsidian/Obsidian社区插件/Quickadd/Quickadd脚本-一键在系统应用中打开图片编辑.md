@@ -7,12 +7,12 @@ author: ProudBenzene
 type: advanced
 draft: false
 editable: false
-modified: 20231216170609
+modified: 20231220113036
 ---
 
 # Quickadd 脚本：一键在系统应用中打开图片编辑
 
-![一键在系统应用中打开图片编辑](https://cdn.pkmer.cn/images/202312161705682.png!pkmer)
+![一键在系统应用中打开图片编辑|800](https://cdn.pkmer.cn/images/202312161705682.png!pkmer)
 
 ## 功能需求
 
