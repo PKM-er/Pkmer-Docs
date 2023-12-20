@@ -19,15 +19,15 @@ modified: 20231210154129
 - 参考文献的**信息抓取**
 - 参考文献的**摘要标题预览及翻译预览**
 - **快捷添加参考文献到当前路径或指定路径**
-- ![[Resource/Images/67db913e609b8e1d3d0d67ccba7e820f_MD5.gif]]
+- ![67db913e609b8e1d3d0d67ccba7e820f_MD5](https://cdn.pkmer.cn/images/202312202039758.gif!pkmer)
 
 ## 插件安装
 
 ### 安装网址
 
-MuiseDestiny/zotero-reference (github.com)(<https://github.com/MuiseDestiny/zotero-reference/releases)>
+[MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference/releases)
 
-![[Resource/Images/c1bd17c4b5b29dd6d5912394c860f547_MD5.png]]
+![c1bd17c4b5b29dd6d5912394c860f547_MD5](https://cdn.pkmer.cn/images/202312202039622.png!pkmer)
 
 注意：**github 部分区域需要稳定网络访问**。[Zotero 插件集市 (pkmer.cn)](https://pkmer.cn/products/zotero/zoteroMarket/) 可实现稳定下载
 
@@ -35,11 +35,11 @@ MuiseDestiny/zotero-reference (github.com)(<https://github.com/MuiseDestiny/zote
 
 工具 - 附加组件 -**Install Add-on From Files**- 选择下载的 xpi 文件进行安装
 
-![[Resource/Images/e390afb96a92e0f86e6bdaafc5ad7296_MD5.png]]
+![e390afb96a92e0f86e6bdaafc5ad7296_MD5](https://cdn.pkmer.cn/images/202312202039780.png!pkmer)
 
 ## 插件配置
 
-- 进行设置 ![[Resource/Images/f973fff37aa0b3f34d95f58d36733957_MD5.png]]
+- 进行设置 ![f973fff37aa0b3f34d95f58d36733957_MD5](https://cdn.pkmer.cn/images/202312202039043.png!pkmer)
 - 注意事项
 	- 基本设置的点很少，**默认即可**
 	- 储存处可打开，下次使用就不用再刷新
@@ -51,20 +51,20 @@ MuiseDestiny/zotero-reference (github.com)(<https://github.com/MuiseDestiny/zote
 
 点击阅读器侧栏 - 点击参考文献 -**点击刷新**
 
-![[Resource/Images/6666244d9f9793c38ab0c41f84808d41_MD5.gif]]
+![crushreference](https://cdn.pkmer.cn/images/202312202040251.gif!pkmer)
 
 ### 预览参考文献信息
 
 - 鼠标在参考文献处**悬浮**即可预览
 - 参考文献有多个来源，可以调换，建议使用第二个数据源（**一般带有摘要可预览**）
 - **crtl 点击**参考文献内容即可进行翻译（调用**translate 插件**的引擎）
-- ![[Resource/Images/b96d267bfa03ebc7e2f67a404a2b520d_MD5.gif]]
+- ![crush-reference](https://cdn.pkmer.cn/images/202312202040091.gif!pkmer)
 
 ### 抓取参考文献
 
 - 直接点击“＋”号进行抓取（默认抓取到**未分类条目**）
 - ctrl + 抓取到选定路径
-- ![[Resource/Images/22e7b647a63671816db2eeaa7ba76949_MD5.gif]]
+- ![22e7b647a63671816db2eeaa7ba76949_MD5](https://cdn.pkmer.cn/images/202312202040739.gif!pkmer)
 
 ## 更多快捷键
 
@@ -108,4 +108,4 @@ MuiseDestiny/zotero-reference (github.com)(<https://github.com/MuiseDestiny/zote
 
 论文 pdf 质量差：适用**abbyfinereader**等进行再次 OCR
 
-如果抓取到毫不相关的论文，可以切换来源查看。如果所有来源都不对，可能插件本身不适配。**前往官网（<https://github.com/MuiseDestiny/zotero-reference/issues/6)> 进行反馈**，或者**放过吧**
+如果抓取到毫不相关的论文，可以切换来源查看。如果所有来源都不对，可能插件本身不适配。**[前往官网](https://github.com/MuiseDestiny/zotero-reference/issues/6) 进行反馈**，或者**放过吧**
