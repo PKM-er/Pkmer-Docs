@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231220153120
+modified: 20231220155036
 ---
 
 # 自定义 Excalidraw 脚本 - 实现 Excalidraw 与 BookxNote 的联动
@@ -152,6 +152,8 @@ console.log(markupData);
 ## Excalidraw 脚本设置
 
 ![](https://cdn.pkmer.cn/images/202312201525629.png!pkmer)
+
+实现由**外部回链**，通过 `Ctrl + V` 粘贴动作获取标注信息到 Excalidraw，附带返回的链接。
 
 ## Excalidraw 脚本完整代码
 
