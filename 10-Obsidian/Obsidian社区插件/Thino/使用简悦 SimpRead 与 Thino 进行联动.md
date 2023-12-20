@@ -1,14 +1,16 @@
 ---
 uid: 20231215133000
-title: 使用 Quicker 与 Thino 进行联动
+title: 使用简悦 SimpRead 与 Thino 进行联动
 tags: [obsidian, thino, 简悦]
 description: 通过 Thino HTTP Api 实现简悦 SimpRead 与 Thino 的联动
 author: Alexinea
 type: other
 draft: false
 editable: false
-modified: 20231215133000
+modified: 20231220113611
 ---
+
+# 使用简悦 SimpRead 与 Thino 进行联动
 
 [[00_Thino 用户指南|Thino]] 出于 Memos 而胜于 Memos，从 2.1.4 版本开始支持通过 HTTP APIs 创建 thino 条目。因此，可以通过简悦 SimpRead 的 Webhook 来实现这种联动。
 
