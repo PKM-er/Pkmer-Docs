@@ -177,7 +177,7 @@ if (!settings["notebooksPath"].value) {
             description: "是否复制Bookxnote的图片到Obsidian库内<br>🔴注意路径符号需要转义<br>🍀注：如果图片本身就存在于库内就可以关闭该选项"
         },
         "notebooksImagesPath": {
-            value: "Z-附件文件存储/BookxNotesImages",
+            value: "BookxNotesImages",
             description: "Obsidian文件夹，用于存放Bookxnote复制过来的标注图片，请用相对于库的路径"
         },
     };
@@ -196,6 +196,14 @@ const notebookFolder = `${settings["notebooksPath"].value}/notebooks`;
 // 获取notebooksImages的存储路径
 const basePath = (app.vault.adapter).getBasePath();
 const notebooksImagesPath = `${basePath}/${settings["notebooksImagesPath"].value}`;
+// 检查文件夹是否存在
+if (!fs.existsSync(notebooksImagesPath)) {
+  // 创建文件夹
+  fs.mkdirSync(notebooksImagesPath);
+  console.log('文件夹已创建');
+} else {
+  console.log('文件夹已存在');
+}
 
 // 读取manifest.json数据
 const notebooksData = `${notebookFolder}/manifest.json`;
