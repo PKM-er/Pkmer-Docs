@@ -25,6 +25,7 @@ modified: 20230916184031
 - [[Quickadd结合CSS实现挖空复习]]
 - [[Quickadd脚本-一键在某软件中打开Ob笔记]]
 - [[Quickadd脚本-一键在系统应用中打开图片编辑]]
+- [[copy-selection-in-canvas]]
 
 ## 参考资料
 
