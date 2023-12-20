@@ -7,7 +7,7 @@ author: ImmortalSty
 type: other
 draft: false
 editable: true
-modified: 20231209235244
+modified: 20231210192213
 ---
 
 # 开始 Quicker 吧
@@ -90,7 +90,7 @@ modified: 20231209235244
 
 说完了功能，有兴趣的不妨自己试一试，跟着下例的步聚，一步步走，实现几个比较简单但很实用的操作。
 
-- [[Quicker动作之截图贴图|动作实例 1：截图贴图]]。
+- [[./Quicker 简单实例/Quicker动作之截图贴图|动作实例 1：截图贴图]]。
 
 ## 与笔记软件的联合使用
 
