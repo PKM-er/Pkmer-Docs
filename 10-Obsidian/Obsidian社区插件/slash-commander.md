@@ -18,7 +18,7 @@ modified: 20231220192808
 
 - [[cmdr|Commander]]：没有斜杠命令列表。
 - [[typing-assistant_readme|Typing Assistant]]: 有斜杠命令列表，但不能定制。
-- [Better Slash Commands]: 有斜杠命令列表，但不能定制。
+- [Better Slash Commands](https://github.com/SPiCaRiA/obsidian-better-slash-commands): 有斜杠命令列表，但不能定制。
 
 > [!Note] 插件名片
 > - 插件名称：Slash Commander
