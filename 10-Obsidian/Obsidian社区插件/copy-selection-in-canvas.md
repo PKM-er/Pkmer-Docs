@@ -2,8 +2,8 @@
 uid: 20231123193057
 title: Obsidian 插件：Canvas Copy Selection 实现 Canvas 卡片按顺序合并
 tags: [Canvas, 社区插件, quickadd, 脚本]
-description: 
-author: 
+description: 将 Canvas 中整理的内容按照选择顺序合并为一篇笔记
+author: KuiyueRO
 type: other
 draft: false
 editable: false
@@ -26,13 +26,13 @@ modified: 20231123230136
 
 ## 效果&特性
 
-![[Copy-Selection-01.gif]]
+![](https://cdn.pkmer.cn/images/202312201152541.gif!pkmer)
 
 ## 使用
 
 依次加选卡片后，调用命令面板，运行命令 copy selection
 
-![[Copy-Selection-02.png]]
+![](https://cdn.pkmer.cn/images/202312201152542.png!pkmer)
 
 ## 安装
 
@@ -68,31 +68,31 @@ module.exports = async (params) => {
 
 然后打开 QuickAdd 的设置页面，创建一个 Macro
 
-![[Copy-Selection-03.png]]
+![](https://cdn.pkmer.cn/images/202312201152543.png!pkmer)
 
 点击设置
 
-![[Copy-Selection-04.png]]
+![](https://cdn.pkmer.cn/images/202312201152544.png!pkmer)
 
 创建 Macro
 
-![[Copy-Selection-05.png]]
+![](https://cdn.pkmer.cn/images/202312201152545.png!pkmer)
 
 配置 Macro
 
-![[Copy-Selection-06.png]]
+![](https://cdn.pkmer.cn/images/202312201152546.png!pkmer)
 
 选择脚本并添加
 
-![[Copy-Selection-07.png]]
+![](https://cdn.pkmer.cn/images/202312201152547.png!pkmer)
 
 点击闪电标志注册为命令
 
-![[Copy-Selection-08.png]]
+![](https://cdn.pkmer.cn/images/202312201152548.png!pkmer)
 
 此时你已经可以在命令面板看见这个命令了
 
-![[Copy-Selection-09.png]]
+![](https://cdn.pkmer.cn/images/202312201152550.png!pkmer)
 
 ### 编译并安装插件
 
