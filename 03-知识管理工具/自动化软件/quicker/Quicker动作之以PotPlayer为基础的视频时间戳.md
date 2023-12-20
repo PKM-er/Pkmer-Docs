@@ -7,7 +7,7 @@ author: ImmortalSty
 type: other
 draft: false
 editable: true
-modified: 20231209235322
+modified: 20231220113828
 ---
 
 # Quicker 动作之以 PotPlayer 为基础的视频时间戳
@@ -20,9 +20,9 @@ modified: 20231209235322
 > - Quicker 动作：
 > 	- [PotPlayer的md链接](https://getquicker.net/Sharedaction?code=e3058555-a8ad-4836-d6f4-08dbf7217f2d)；
 > 	- [PotPlayer 的 ob 链接](https://getquicker.net/Sharedaction?code=2944f6ed-a7bf-4ea4-9614-08dbfd0d4b63)。
-> 
+>
 > ==注意！第一个动作中，有一个操作要用到 Quicker 会员的功能（虽然不是必需）。==
-> 
+>
 > ==保险起见注明一下，咱与 Quicker 没有利益关联滴撒，只是用到了这个功能，而且该功能只是用于让使用流程更简便，不用会员功能也是能用本动作的。==
 
 ## 软件介绍
@@ -71,7 +71,7 @@ Markdown 大多都是支持 **URI 链接**的，而刚好 Quicker 是支持使�
 
 使用前依旧要**先设置 PotPlayer 的快捷键等等**。除此以外，还要安装一个名为 Advanced URI 的 Obsidian 插件，并在插件设置中打开下面的选项：
 
-![[Pasted image 20231215135659.png]]
+![](https://cdn.pkmer.cn/images/202312201138045.png!pkmer)
 
 1. **生成链接**：
 	1. 点击 PotPlayer 的窗口：确保焦点正在 PotPlayer 上；
