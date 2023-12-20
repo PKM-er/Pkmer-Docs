@@ -33,6 +33,7 @@ modified: 20231215144448
 - [[Obsidian-为什么输入annotor的yaml模板时会被解析成分割线或文档属性]]
 - [[提升安卓手机使用obsidian笔记体验的几个软件]]
 - [[一网打尽-带你了解Obsidian中标签汇总方案]]
+- [[使用 Obsidian 白板功能绘制商业模式画布]]
 
 ### 第三方插件
 
@@ -59,3 +60,4 @@ modified: 20231215144448
 	- [[Zotero和Obsidian联动]]
 - [[如何运用obsidian和Zotero的插件配置整理文献管理实现阅读笔记]]
 - [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]
+- [[关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案]]

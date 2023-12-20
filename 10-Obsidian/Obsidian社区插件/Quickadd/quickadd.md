@@ -23,6 +23,8 @@ modified: 20230916184031
 ## 社区使用技巧
 
 - [[Quickadd结合CSS实现挖空复习]]
+- [[Quickadd脚本-一键在某软件中打开Ob笔记]]
+- [[Quickadd脚本-一键在系统应用中打开图片编辑]]
 
 ## 参考资料
 
@@ -166,11 +168,7 @@ module.exports = async (params) => {
 
 注：这里只有 utools 是全平台的，AutoHotkey 是 Windows 独占的开源软件，Alfred，Raycast 是 Mac 独占商业软件。
 
-## 脚本案例
 
-[[Quickadd脚本-一键在某软件中打开Ob笔记]]
-[[Quickadd结合CSS实现挖空复习]]
-[[Quickadd脚本-一键在系统应用中打开图片编辑]]
 
 ## 视频教程
 

@@ -24,3 +24,8 @@ modified: 20231215221031
 	- [[Thino 设置项#主题设置|主题设置]]
 	- [[Thino 设置项#分享设置|分享设置]]
 	- [[Thino 设置项#进阶设置|进阶设置]]
+
+## Thino 与其他软件联动
+
+[[使用 Quicker 与 Thino 进行联动]]
+[[使用简悦 SimpRead 与 Thino 进行联动]]
