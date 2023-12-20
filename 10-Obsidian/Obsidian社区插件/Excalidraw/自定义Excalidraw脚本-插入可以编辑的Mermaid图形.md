@@ -1,16 +1,16 @@
 ---
 uid: 20231207020538
-title: Excalidraw 自定义脚本 - 插入可以编辑的 Mermaid 图形
+title: 自定义 Excalidraw 脚本 - 插入可以编辑的 Mermaid 图形
 tags: [Excalidraw, Excalidraw脚本, Mermaid]
 description: Excalidraw 插入 Mermaid 后就不能对该 Mermaid 进行源码编辑，为此可以换个思路添加 Mermaid 图形，那就是将插入的 Mermaid 转为 SVG 格式，且 Ctrl + 鼠标左键单击 可以弹出源码进行二次编辑。
 author: 一鸣惊人,熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231207021206
+modified: 20231220153026
 ---
 
-# Excalidraw 自定义脚本 - 插入可以编辑的 Mermaid 图形
+# 自定义 Excalidraw 脚本 - 插入可以编辑的 Mermaid 图形
 
 Excalidraw 插入 Mermaid 后就不能对该 Mermaid 进行源码编辑，为此可以换个思路添加 Mermaid 图形，那就是将插入的 Mermaid 转为 SVG 格式，且 `Ctrl + 鼠标左键单击` 可以弹出源码进行二次编辑。
 
