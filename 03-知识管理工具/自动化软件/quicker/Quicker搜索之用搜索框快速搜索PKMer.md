@@ -7,7 +7,7 @@ author: ImmortalSty
 type: other
 draft: false
 editable: true
-modified: 20231210164738
+modified: 20231220115721
 ---
 
 # Quicker 搜索之用搜索框快速搜索 PKMer
@@ -21,29 +21,29 @@ modified: 20231210164738
 ### 搜索引擎设置
 
 1. 进入 Quicker 的设置中，找到**搜索**页面：
-   ![[20231210_143124_133_copy.png]]
+   ![](https://cdn.pkmer.cn/images/202312201156977.png!pkmer)
 2. 通过点击右边三个点，打开**网络搜索**功能，并添加搜索引擎：
-   ![[20231210_143156_703_copy.png]]
+   ![](https://cdn.pkmer.cn/images/202312201156978.png!pkmer)
 3. 按下图填入：
-   ![[20231210_143219_116_copy.png]]
+   ![](https://cdn.pkmer.cn/images/202312201156979.png!pkmer)
 
 ### 搜索框触发设置
 
 可以直接在下图中设上快捷键：
 
-![[20231210_161443_636_copy.png]]
+![](https://cdn.pkmer.cn/images/202312201156980.png!pkmer)
 
 也可以用其它方法触发，比如双击 Ctrl：
 
-![[20231210_161611_847_copy.png]]
+![](https://cdn.pkmer.cn/images/202312201156981.png!pkmer)
 
 ### 使用方法
 
 通过上面设好的方法，触发唤出搜索框，在其中输入 `pkmer 关键字`，然后回车，就会快速打开网站搜索。
 
-![[20231210_161833_710_copy.png]]
+![](https://cdn.pkmer.cn/images/202312201156982.png!pkmer)
 
-![[20231210_161851_980_copy.png]]
+![](https://cdn.pkmer.cn/images/202312201156983.png!pkmer)
 
 这种搜索方法可以省去找网站、等待浏览器打开的时间，直接一步到位，得到搜索结果。
 
