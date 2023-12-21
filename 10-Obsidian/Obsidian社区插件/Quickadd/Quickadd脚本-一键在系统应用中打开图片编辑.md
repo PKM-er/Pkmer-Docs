@@ -1,9 +1,13 @@
 ---
 uid: 20231216155914
 title: Quickadd 脚本：一键在系统应用中打开图片编辑
-tags: ['quickadd', 'quickadd脚本', '图片', '附件']
+tags:
+  - quickadd
+  - quickadd脚本
+  - 图片
+  - 附件
 description: 可以一键在系统软件中打开笔记图片的quickadd脚本
-author: ProudBenzene
+author: ProudBenzene,熊猫别熬夜
 type: advanced
 draft: false
 editable: false
