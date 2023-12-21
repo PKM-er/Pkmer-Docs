@@ -7,7 +7,7 @@ author: alephpiece
 type: other
 draft: false
 editable: false
-modified: 20231220192808
+modified: 20231221141631
 ---
 
 # Obsidian 插件：Slash Commander
@@ -52,6 +52,32 @@ modified: 20231220192808
 
 ## 使用
 
+### 触发
+
 开启插件后，在笔记中输入 `/` 即可启动。如果 `/` 不生效，请检查是否同时开启了核心插件 `Slash commands` 或其他同样使用 `/` 触发符的插件。
 
-进入 Slash Commander 设置即可修改要显示的命令。
+![[slash-commander-usage-simple.gif]]
+
+### 增加命令
+
+进入 Slash Commander 设置即可添加或修改要显示的命令。命令可以同名，如果它们同名但来自于不同的插件，插件名（或 Obsidian）可以显示出来。
+
+![[slash-commander-usage-add.gif]]
+
+### 修改触发字符
+
+默认的 `/` 触发字符可以修改。
+
+![[slash-commander-usage-trigger.gif]]
+
+### 只在行首触发
+
+默认情况下，斜杠命令会在一行中的任何空格后面触发，可以修改选项让斜杠命令只在行首触发。
+
+![[slash-commander-usage-newline.gif]]
+
+### 显示说明
+
+可以显示命令的说明。
+
+![[slash-commander-usage-description.gif]]
