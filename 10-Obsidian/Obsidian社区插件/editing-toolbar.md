@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230901101300
+modified: 20231222161645
 ---
 
 # Obsidian 插件：Editing Toolbar 必装的可视化编辑工具
@@ -88,6 +88,10 @@ Editing Toolbar 是 Cumany 二次开发的可视化编辑工具栏，旨在增�
 
    1. 工具栏图标宽度自适应缩小
        ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main/pic/202209072157728.gif)
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=325049827&bvid=BV1ew41147Jp&cid=1375910040&p=1&autopaly=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ### 与其他插件一起使用
 

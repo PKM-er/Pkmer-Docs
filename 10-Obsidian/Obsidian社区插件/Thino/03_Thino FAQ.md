@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231217230526
+modified: 20231222161121
 ---
 
 # Thino FAQ
@@ -16,7 +16,10 @@ modified: 20231217230526
 
 ## Thino 更名原因
 
-详见 [[05_Thino 的含义#Thino|Thino 更名]]，核心原因就是因为从 2.1 开始 Obsidian Memos 会脱离当前的 Memos 的发展路径，而是作为 Thino 进行更新。
+详见 [[05_Thino 的含义#Thino|Thino 更名]],核心原因：
+
+- 代码层面：因为从 2.1 开始 Obsidian Memos 会脱离当前的 Memos 的发展路径，而是作为 Thino 进行更新。
+- 功能层面：Thino 会开始增加更多获取，和整理灵感的功能向新方向演进。
 
 ## Thino 内测
 
@@ -74,6 +77,18 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 - 激活问题
 	- 不要使用 Obsidian 中浏览器类插件完成激活，会导致激活失败，当然你可以在激活时候关闭对应插件，激活后重新代开
 	- 遇到激活问题，但是 Thino 依然现实需要验证，可以重新关闭插件页签，重新开启即可
+
+### 功能
+
+#### 使用检索式是提示异常
+
+使用检索式检索日期时
+
+![image.png|500](https://cdn.pkmer.cn/images/20231222105951.png!pkmer)
+
+弹出报错提醒，这里是需要打开 [[nldates-obsidian]] 插件即可，在 [[Thino 检索式功能]] 中也有说明
+
+![image.png| 500](https://cdn.pkmer.cn/images/20231222110028.png!pkmer)
 
 ### 宿主相关
 
