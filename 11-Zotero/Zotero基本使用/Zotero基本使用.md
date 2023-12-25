@@ -7,13 +7,14 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230818142940
+modified: 20231225121515
 ---
 
 # Zotero 基本使用
 
 - [[0_文档简介]]
 - [[Zotero]]
+- [[Zotero6及Zotero7beta全方位比较]]
 - [[2_快速上手]]
 	- [[2_1_Zotero下载与安装]]
 	- [[2_2_将条目添加进文献库]]
@@ -60,3 +61,4 @@ modified: 20230818142940
 	- [[抓取导入-导入PDF并自动生成条目]]
 	- [[抓取-从浏览器抓取条目时发生错误]]
 	- [[在word里面使用zotero一些奇奇怪怪的问题]]
+	- [[zotero使用常见bug及处理]]

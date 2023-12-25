@@ -7,7 +7,7 @@ author: GuYuDeng
 type: other
 draft: false
 editable: false
-modified: 20230825122007
+modified: 20231225112527
 ---
 
 # 鱼与熊掌兼得：Zotero 和 Obsidian 联动
@@ -90,9 +90,11 @@ IEEE 亦可设置成其他样式，但要保证 OB 中和 zotero 中一致，并
 
 ![d078755eabdc2bef8414c4ba66cb3b8a_MD5.png](https://cdn.pkmer.cn/images/d078755eabdc2bef8414c4ba66cb3b8a_MD5.png!pkmer)
 
-### 3.5 设置笔记导出路径
+### 3.5 设置笔记导入路径
 
-我的文件夹为
+从 Zotero 导出的文献笔记在 Obsidian 库中的存放路径
+
+以我自己的文件夹为例
 
 ![Pasted image 20230730232648.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230730232648.png!pkmer)
 

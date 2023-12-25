@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231213113533
+modified: 20231225113557
 ---
 
 # Obsidian 社区插件
@@ -71,7 +71,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
-- [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式；另外也有一篇文章分享了[[Dynamic-Highlights 插件的几种使用场景]]
+- [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式；另外也有一篇文章分享了 [[Dynamic-Highlights 插件的几种使用场景]]
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[obsidian-remember-file-state]]：
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
@@ -256,11 +256,13 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 在 Obsidian 中，有多种标签管理插件可以帮助用户更好地管理标签，并提高标签的使用效率。
 
 - [[tag-wrangler]]：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到
+- [[tag-buddy]]：简单易用的添加标签汇总、编辑工具
 - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
 - [[obsidian-frontmatter-tag-suggest]]：很好解决记忆标签和快速输入的问题，提供标签自动建议的方法，让你可以键入简单字母来快速联想出来对应的标签
 - [[multi-tag]]：一次向多个笔记添加标签。右键单击文件夹，或者选择多个笔记并右键单击所选内容
 - [[tag-word-cloud]]：展示你的标签/词/链接的词云图
-- [[obsidian-basetag]]：这个插件在预览模式下渲染标签的缩略名称。
+- [[obsidian-basetag]]：这个插件在预览模式下渲染标签的缩略名称
+- [[colored-tags-wrangler]]：一个简单而又强大的标签色彩样式整理器
 
 ### 表格类
 
