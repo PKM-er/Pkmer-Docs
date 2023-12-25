@@ -1,5 +1,5 @@
 ---
-uid: 20231213114101
+uid: 20231213114102
 title: Obsidian 插件：colored tags wrangler 一个简单而又强大的标签色彩样式整理器
 tags: ['obsidian插件', '彩色标签', '自动匹配']
 description: Obsidian 插件：colored tags wrangler 一个简单而又强大的标签色彩样式整理器
