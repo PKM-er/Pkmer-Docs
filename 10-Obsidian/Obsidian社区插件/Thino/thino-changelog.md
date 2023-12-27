@@ -18,9 +18,9 @@ modified: 20231215144329
 
 [社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
 
-## Thino 2.1.4 2023.12.15
+## Thino 2.1.5 2023.12.27
 
-### 修复
+- 增加thino 的全局唤醒功能 [[Thino 全局唤醒]]
 
 ## Thino-v2.1.4 2023.12.15
 
