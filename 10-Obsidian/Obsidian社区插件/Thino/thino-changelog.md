@@ -26,7 +26,7 @@ modified: 20231227161030
 ![image.png|400](https://cdn.pkmer.cn/images/20231227160528.png!pkmer)
 
 > [!Warning] 注意
-> - 此特性不是默认开启，以防止和其他你已经设定的快捷键冲突
+> - 此特性不是默认开启，以防止和你已经设定的快捷键冲突
 > - 需要你先在插件设置中开启，如图，并重启 Obisidian
 > - 比如我这里输入的是 <kbd>Ctrl+Shift+K</kbd>
 >  ![image.png|650](https://cdn.pkmer.cn/images/20231227160540.png!pkmer)
