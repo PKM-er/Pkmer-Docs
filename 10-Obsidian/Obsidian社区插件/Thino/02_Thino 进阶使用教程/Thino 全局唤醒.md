@@ -25,7 +25,7 @@ thino 的全局唤醒功能
      - 设置全局唤醒 thino 的快捷键，系统默认快捷键为：【 CommandOrControl + Shift + T 】。其中 `CommandOrControl` 区分大小写，代表<kbd>command</kbd>或者<kbd>ctrl</kbd>键。值得注意点是，在ob内使用这组快捷键，可能会和原来的快捷键有一定冲突可能。如有需要，可以在【Key for opening thino globally】中设置一个新的快捷键。
      - 【Show nearby mouse】功能
         勾选后，全局唤醒 thino 时，弹窗会出现在鼠标所在的位置；
-         取消勾选，全局唤醒 thino 时，弹窗会出现在默认位置：界面正中
+        取消勾选，全局唤醒 thino 时，弹窗会出现在默认位置：界面正中
 
 2. **重启ob**
 
@@ -33,4 +33,4 @@ thino 的全局唤醒功能
      - 【ctrl + p 】打开命令面板，在面板中搜索【 Init global copy events 】
        ![|500](https://cdn.pkmer.cn/images/202312271909562.png!pkmer)
 
-     - 值得注意点是：这个全局唤醒后，点击关闭，需要重新输入命令激活全局唤醒功能。个人推荐使用【 button 】功能，做成一个快速摘录快捷键，方便功能的使用。
+     - 值得注意点是：这个全局唤醒后，点击关闭，需要重新输入命令激活全局唤醒功能。个人推荐结合 [[buttons]] [[quickadd]]  插件绑定 `Init global copy events` 命令实现快速摘录，方便功能的使用。
