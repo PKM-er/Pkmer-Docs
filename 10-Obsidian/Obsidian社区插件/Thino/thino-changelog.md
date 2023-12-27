@@ -3,11 +3,11 @@ uid: 20230913172534
 title: Thino 2.X （原名 Obsidian memos）更新记录
 tags: [memos]
 description: Obsidian 插件 Thino 2.X 更新记录
-author: Bon,PKMer
+author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215144329
+modified: 20231227161030
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
@@ -18,9 +18,26 @@ modified: 20231215144329
 
 [社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
 
+## Thino 2.1.5 2023.12.27
+
+### 新特性
+
+- 全局响应复制事件，在命令中输入 init global copy event 来触发，触发后可以快捷唤起 thino 的输入框
+![image.png|400](https://cdn.pkmer.cn/images/20231227160528.png!pkmer)
+
+> [!Warning] 注意
+> - 此特性不是默认开启，以防止和其他你已经设定的快捷键冲突
+> - 需要你先在插件设置中开启，如图，并重启 Obisidian
+> - 比如我这里输入的是 <kbd>Ctrl+Shift+K</kbd>
+>  ![image.png|650](https://cdn.pkmer.cn/images/20231227160540.png!pkmer)
+
+- Show nearby mouse：可以呼出的 thino 界面在鼠标光标旁边
+
 ## Thino 2.1.4 2023.12.15
 
 ### 修复
+
+- 源码模式在编辑器中的冲突
 
 ## Thino-v2.1.4 2023.12.15
 
