@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231227161030
+modified: 20231227164030
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
@@ -22,13 +22,16 @@ modified: 20231227161030
 
 ### 新特性
 
+- 聚焦到 Thino，现在当你点击侧边栏的 Thino 图标，会自动聚焦到已经打开的 Thino 页签
 - 全局响应复制事件，在命令中输入 init global copy event 来触发，触发后可以快捷唤起 thino 的输入框
-![image.png|400](https://cdn.pkmer.cn/images/20231227160528.png!pkmer)
+	- 这样的设计思考是在有限情况，即便 Thino 不常驻在布局中，也可以快速输入内容
+	- ![image.png|400](https://cdn.pkmer.cn/images/20231227160528.png!pkmer)
+- Show nearby mouse：可以呼出的 thino 界面在鼠标光标旁边
 
 > [!Warning] 注意
 > - 此特性不是默认开启，以防止和你已经设定的快捷键冲突
 > - 需要你先在插件设置中开启，如图，并重启 Obisidian
-> - 比如我这里输入的是 <kbd>Ctrl+Shift+K</kbd>
+> - 比如我这里输入的是 <kbd>Ctrl+Shift+K</kbd>，或者通过快捷键菜单去设置
 >  ![image.png|650](https://cdn.pkmer.cn/images/20231227160540.png!pkmer)
 
 - Show nearby mouse：可以呼出的 thino 界面在鼠标光标旁边
