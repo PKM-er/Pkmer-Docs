@@ -7,12 +7,13 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215221031
+modified: 20231228144544
 ---
 
 # Thino 进阶使用教程
 
 除了 [[01_Thino 基础使用教程|基础使用]] 的相关内容外，还有相当多的特殊功能，包括但不限于以下的功能：
+
 - [[Thino 快捷键|快捷键]]
 - [[Thino 命令|命令]]
 - [[Thino URI|URI]]
@@ -29,4 +30,5 @@ modified: 20231215221031
 ## Thino 与其他软件联动
 
 [[使用 Quicker 与 Thino 进行联动]]
+
 [[使用简悦 SimpRead 与 Thino 进行联动]]

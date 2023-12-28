@@ -1,16 +1,20 @@
 ---
-uid: 2023120719454830
+uid: 20231213114101
 title: Obsidian 插件：【Readme】Typing Assistant
-tags: ['obsidian插件', 'readme']
-description: 支持多个快捷菜单以提高输入效率。
-author: AI
-type: readme
+tags: ['obsidian插件', '助手']
+description: Obsidian 插件：Typing Assistant 语法输入助手帮你提高输入效率
+author: OS
+type: other
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20231228153626
 ---
 
 # Obsidian 插件：【Readme】Typing Assistant
+
+## 概述
+
+Typing Assistant 是一个助手类插件，他模拟了类似 Notion 直观操作体验，提高对于 Markdown 不熟悉的同学，可以快捷通过图形化方式选择自己喜欢的语法，可以提高写作效率。
 
 > [!Note] 插件名片
 > - 插件名称：Typing Assistant
@@ -19,25 +23,6 @@ modified: 20230101000000
 > - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Jambo2018/notion-assistant-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?typing-assistant)
-
-## 概述
-
-支持多个快捷菜单以提高输入效率。
-
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Jambo2018/notion-assistant-plugin/master/README.md)
->
-
----
-
-## Readme(翻译）
-
-下面是 [[typing-assistant]] 插件的自述翻译
-
-# 打字助手
-
-打字助手是一个插件，可以提高写作效率，并提供类似【Notion】的用户体验。
 
 ## 演示
 
