@@ -7,14 +7,16 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231229231204
+modified: 20231229232310
 ---
 
 # Obsidian 社区周报
 
-没错，你发现，已经消失很久的 Obsidian 社区周报又回归了。从 23 年 12 月 29 日开始会在 PKMer 社区网站和相关的 PKMer 社区自媒体上释放。
+没错，你发现，已经消失很久的 Obsidian 社区周报又回归了。从 23 年 12 月 29 日开始会在 PKMer 社区网站和相关的 PKMer 社区自媒体上放出。
 
 每周 Obsidian 新闻，专注于社区更新、新插件、工作流程指南、主题、辅助工具和代码。
+
+更新时间：每周五晚 - 周六早
 
 - [[Obsidian社区周报2023-12-30]]（New！试刊）
 - [[2023-01-07-ObsidianRoundup]]
