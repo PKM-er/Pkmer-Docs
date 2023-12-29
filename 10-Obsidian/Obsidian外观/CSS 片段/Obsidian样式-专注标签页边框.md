@@ -1,7 +1,9 @@
 ---
 uid: 20231229172116
 title: Obsidian 样式 - 专注标签页边框
-tags: 
+tags:
+  - CSS自定义
+  - 标签页
 description: 模仿Colorful Note Borders插件，针对激活的窗口进行添加边框
 author: 熊猫别熬夜
 type: other
