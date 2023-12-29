@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231216204131
+modified: 20231229172324
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -43,6 +43,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-像VSCode一样显示搜索替换框]]
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-悬浮两侧菜单栏]]
+- [[Obsidian样式-专注标签页边框]]
 
 ### 编辑器
 
