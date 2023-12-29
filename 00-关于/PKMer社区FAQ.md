@@ -7,7 +7,7 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231228162012
+modified: 20231228211740
 ---
 
 # PKMer 社区 FAQ
@@ -26,13 +26,23 @@ OS 回答：
 - 你们会发现社区已经陆续更新了 Zotero，Tiddy Wiki 等内容
 - 未来也包括你，也可以为社区做出贡献，了解 PKMer 社区积极贡献者们 [关于我们](https://pkmer.cn/about/)
 
-## PKMer 是免费的嘛
+## PKMer 是全免费的吗？
 
 OS 回答：
 
 - 很遗憾，从某种角度讲“世界上没有免费的午餐”
 - 但是 PKMer 会在各个方向和层面，为更多喜爱知识的人提供一些免费，或者低廉的服务，来保证更多人能够进入这个群体
 - 我们也鼓励和愿意支援那些愿意生产免费软件的有志之士，一起来协作社区
+
+## PKMer 有试用吗？
+
+OS 回答：
+
+- 实际上这取决于你如何看待试用
+- PKMer Market 其实不需要花钱，每个月都有额度，免费的额度其实就是一种试用
+- PKMer Thino 前身是 Obsidian memos，已经让大家在社区免费试用了 2 年
+- PKMer 协作运作的医学英语词根库，有在落地页面展示在线预览，也可以视作一种试用
+- PKMer 的挂件有大量的免费内容，也可以看作是一种试用体验
 
 ## PKMer 知识管理交流群是 Obsidian 官方群吗？
 
