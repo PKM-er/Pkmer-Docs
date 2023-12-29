@@ -7,12 +7,12 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231229161423
+modified: 20231229170652
 ---
 
 # 自定义 Excalidraw 脚本 - OCR 自动提取图片文字
 
-> [!cite|wide-3]+ [[Draw-202311120936演示画板|演示画板]]
+> [!cite]
 > ![自定义 Excalidraw 脚本 -OCR 自动提取图片文字](https://cdn.pkmer.cn/images/202312291613601.png!pkmer)
 
 > 对 Excalidraw 的图片进行 OCR，并保留文本信息在图片中，可以编辑修改、重新 OCR 和进行批量识别。
@@ -56,7 +56,7 @@ console.log(text)
 
 ![[Pasted image 20231114231614.png]]
 
-> [!tip]+ 选中多个图片可以进行批量识别但不会弹窗
+> [!tip] 选中多个图片可以进行批量识别但不会弹窗
 
 ## Ocr 识别模式
 
@@ -75,7 +75,7 @@ console.log(text)
 
 > 采用的是百度的飞桨 Paddleocr 模型，中文识别率会好很多。
 
-> [!caution]+ 如果不会配置请使用 Text Extractor 的识别方法
+> [!caution] 如果不会配置请使用 Text Extractor 的识别方法
 > 前者脚本只需要配合 Text Extractor 插件联网使用，后者需要手动安装配置文件可以离线使用且与 Text Extractor 插件兼容。
 
 再开始配置之前我先展示下下面代码的大概存储结构：
@@ -320,17 +320,17 @@ res = ocr.run(TestImagePath)
 print(f'{json.dumps(res, ensure_ascii=False)}')
 ```
 
-> [!tip]+ 3 个配置文件的结构形式
+> [!tip] 3 个配置文件的结构形式
 > ![自定义 Excalidraw 脚本 -OCR 自动提取图片文字](https://cdn.pkmer.cn/images/202312291613606.png!pkmer)
 
 ## 配置 TextExtractor 脚本
 
-> [!caution]+ 有 3 种模式
+> [!caution] 有 3 种模式
 > ![自定义 Excalidraw 脚本 -OCR 自动提取图片文字](https://cdn.pkmer.cn/images/202312291613608.png!pkmer)
 
 ### 首次加载脚本
 
-> [!tip]+
+> [!tip]
 > 首次次运行脚本或者重启 ob 会在 Excalidraw 插件中加载该选项
 > ![自定义 Excalidraw 脚本 -OCR 自动提取图片文字](https://cdn.pkmer.cn/images/202312291613609.png!pkmer)
 

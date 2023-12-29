@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231220155036
+modified: 20231229170716
 ---
 
 # 自定义 Excalidraw 脚本 - 实现 Excalidraw 与 BookxNote 的联动
