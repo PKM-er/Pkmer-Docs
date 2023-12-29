@@ -108,6 +108,10 @@ excalidraw 可以把常用的一些绘图存为小组件库，也可以从网上
 
 - [[如何导入Excalidraw Library的素材包]]
 
+### Excalidraw Scripts
+
+- [[Excalidraw如何安装脚本+脚本设置介绍]]
+
 ### 基于 Obsidian 优化
 
 Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太多很卡，但是随着大叔的精力不断投入，几年如一日，这些问题终被解决了。光是 Github 上提到的优化就有：
