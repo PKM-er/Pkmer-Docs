@@ -7,12 +7,12 @@ author: 熊猫别熬夜,ProudBenzene,y6n-u9h
 type: other
 draft: false
 editable: false
-modified: 20231229170733
+modified: 20231229170950
 ---
 
 # 自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动
 
-![Zotero to Excalidraw](https://cdn.pkmer.cn/images/Zotero%20to%20Excalidraw.png!pkmer)
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Zotero%20to%20Excalidraw.png!pkmer)
 
 ## 概述
 
@@ -28,19 +28,19 @@ modified: 20231229170733
 
 将下面代码保存为 md 文件，修改放入 Excalidraw 指定的 Scripts 的文件夹中，在 Excalidraw 的画板中的工具面板中就会出现一个齿轮按钮，需要时点击运行。
 
-![Pasted image 20230929010229](https://cdn.pkmer.cn/images/Pasted%20image%2020230929010229.png!pkmer)
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020230929010229.png!pkmer)
 
 ### 修改📌注释的文件路径
 
 第一次运行时，需要修改路径。==在第一次单击⚙️运行后==，在 Excalidraw 插件的设置中会出现以下选项：
 
-![Pasted image 20231029202243](https://cdn.pkmer.cn/images/Pasted%20image%2020231029202243.png!pkmer)
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020231029202243.png!pkmer)
 
 > 注意：需要单击运行后，插件设置才会加载这个选项。
 
 - 第一个为 Zotero 的图形存储路径；
 	- Zotero 的标注图片一般在你定义的数据库的文件夹的**cache->library**下面：
-		- ![Pasted image 20230929011210](https://cdn.pkmer.cn/images/Pasted%20image%2020230929011210.png!pkmer)
+		- ![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020230929011210.png!pkmer)
 - 第二个就是你自定义拖拽过来的图片存放的存储路径了，注意要在 Obsidian 的笔记库中的==相对路径==。
 
  > [!caution] **注意事项**
@@ -303,11 +303,11 @@ function match_zotero_image(text) {
 > ```
 >
 > 取消后再点击⚙️按钮会出现如下弹窗
-> ![](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233512.png!pkmer)
+> ![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233512.png!pkmer)
 
 如果你想添加标注的卡片颜色，可以在**首选项 ->高级中编辑器 ->搜索：`annotations.noteTemplates`**，修改高亮标注的模板，添加{{color}}属性，其他属性见官方文档：[note templates [Zotero Documentation]](https://www.zotero.org/support/note_templates)：
 
-![Pasted image 20231017234906](https://cdn.pkmer.cn/images/Pasted%20image%2020231017234906.png!pkmer)
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020231017234906.png!pkmer)
 
 ```
 <p>{{color}} {{highlight}} {{citation}} {{comment}}</p>
@@ -319,4 +319,4 @@ function match_zotero_image(text) {
 设置完成之后，再运行该脚本，插入的卡片就可以根据匹配标注的颜色了，根据选择可以设置 2 种卡片颜色方案：
 
 > [!cite]
-> ![Pasted image 20231017233449](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233449.png!pkmer)
+> ![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233449.png!pkmer)
