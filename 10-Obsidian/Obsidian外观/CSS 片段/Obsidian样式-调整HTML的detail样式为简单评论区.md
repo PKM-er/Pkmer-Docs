@@ -14,7 +14,7 @@ modified: 20231202222855
 
 ## 样式效果
 
-![](https://cdn.pkmer.cn/images/202312300044735.png!pkmer)
+![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044735.png!pkmer)
 
 通过修改 Html 语法中的 `<details>评论区</details>` 语法的样式来使它更像一个评论信息。
 
@@ -29,14 +29,14 @@ modified: 20231202222855
 
 **源码模式：**
 
-![](https://cdn.pkmer.cn/images/202312300044736.png!pkmer)
+![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044736.png!pkmer)
 
 **阅读模式：**
 
-![](https://cdn.pkmer.cn/images/202312300044737.png!pkmer)
+![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044737.png!pkmer)
 
 > [!caution]+ 实时模式直接隐藏：
-> ![](https://cdn.pkmer.cn/images/202312300044738.png!pkmer)
+> ![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044738.png!pkmer)
 > 实时模式是直接隐藏不见的，鼠标放到注释区域才会显示，如果需要显示的话请自行修改 CSS 文件。
 
 ## 如何快捷输入
@@ -47,13 +47,13 @@ modified: 20231202222855
 
 #### 效果
 
-![](https://cdn.pkmer.cn/images/202312300044739.gif!pkmer)
+![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044739.gif!pkmer)
 
 #### 配置
 
 配置 `QuickAdd` 的 Capture：
 
-![](https://cdn.pkmer.cn/images/202312300044740.png!pkmer)
+![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044740.png!pkmer)
 
 ```
 =={{selected}}==<details>#Details<br>{{mvalue}}</details>
@@ -63,13 +63,13 @@ modified: 20231202222855
 
 #### 效果
 
-![](https://cdn.pkmer.cn/images/202312300044741.gif!pkmer)
+![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044741.gif!pkmer)
 
 #### 配置
 
 配合 `QuickAdd` + `ModalForm` 这 2 个插件使用，`ModalForm` 的只需安装即可，`QuickAdd` 配置 Capture：
 
-![](https://cdn.pkmer.cn/images/202312300044742.png!pkmer)
+![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044742.png!pkmer)
 
 ````md
 ```js quickadd
