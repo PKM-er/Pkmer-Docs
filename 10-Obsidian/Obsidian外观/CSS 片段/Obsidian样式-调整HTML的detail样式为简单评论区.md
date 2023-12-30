@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231202222855
+modified: 20231230141204
 ---
 
 # Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区
@@ -20,8 +20,8 @@ modified: 20231202222855
 
 ## 注意事项
 
-> [!caution]+ 存在问题
-> 一般来`<details>评论区</details>` 里面不支持 ob 的语法格式，单纯以文本形式展出，也就是不支持图片、双链、Markdown 语法等，只支持 Html 语法。
+> [!caution] 存在问题
+> 一般来 `<details>评论区</details>` 里面不支持 ob 的语法格式，单纯以文本形式展出，也就是不支持图片、双链、Markdown 语法等，只支持 Html 语法。
 
 ### 如何实现渲染
 
@@ -35,13 +35,13 @@ modified: 20231202222855
 
 ![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044737.png!pkmer)
 
-> [!caution]+ 实时模式直接隐藏：
+> [!caution] 实时模式直接隐藏：
 > ![Obsidian 样式 - 调整 Html 的 detail 样式为简单评论区](https://cdn.pkmer.cn/images/202312300044738.png!pkmer)
 > 实时模式是直接隐藏不见的，鼠标放到注释区域才会显示，如果需要显示的话请自行修改 CSS 文件。
 
 ## 如何快捷输入
 
-> [!tip]+ 最好给 `<details>` 里面的添加标签，方便后期检索
+> [!tip] 最好给 `<details>` 里面的添加标签，方便后期检索
 
 ### 注释选中的文本 by QuickAdd
 
@@ -104,12 +104,17 @@ let detailsText = result.getValue('Details').value;
 let tags = result.getValue('Tags').value;
 const tagsStr = "#" + tags.join(" #");
 
-const output = `==${selection}==<details>${tagsStr}<br>${detailsText}</details>`;
+let output;
+if (selection) {
+    output = `==${selection}==<details>${tagsStr}<br>${detailsText}</details>`;
+} else {
+    output = `<details>${tagsStr}<br>${detailsText}</details>`;
+}
 return output;
 ```
 ````
 
-## CSS代码
+## CSS 代码
 
 ```css
 /* ! details 样式修改 */
