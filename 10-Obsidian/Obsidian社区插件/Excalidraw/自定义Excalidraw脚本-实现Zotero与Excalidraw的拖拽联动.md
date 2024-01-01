@@ -7,12 +7,12 @@ author: 熊猫别熬夜,ProudBenzene,y6n-u9h
 type: other
 draft: false
 editable: false
-modified: 20231219164020
+modified: 20231229171041
 ---
 
 # 自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动
 
-![Zotero to Excalidraw](https://cdn.pkmer.cn/images/Zotero%20to%20Excalidraw.png!pkmer)
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Zotero%20to%20Excalidraw.png!pkmer)
 
 ## 概述
 
@@ -28,19 +28,19 @@ modified: 20231219164020
 
 将下面代码保存为 md 文件，修改放入 Excalidraw 指定的 Scripts 的文件夹中，在 Excalidraw 的画板中的工具面板中就会出现一个齿轮按钮，需要时点击运行。
 
-![Pasted image 20230929010229](https://cdn.pkmer.cn/images/Pasted%20image%2020230929010229.png!pkmer)
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020230929010229.png!pkmer)
 
 ### 修改📌注释的文件路径
 
 第一次运行时，需要修改路径。==在第一次单击⚙️运行后==，在 Excalidraw 插件的设置中会出现以下选项：
 
-![Pasted image 20231029202243](https://cdn.pkmer.cn/images/Pasted%20image%2020231029202243.png!pkmer)
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020231029202243.png!pkmer)
 
 > 注意：需要单击运行后，插件设置才会加载这个选项。
 
 - 第一个为 Zotero 的图形存储路径；
 	- Zotero 的标注图片一般在你定义的数据库的文件夹的**cache->library**下面：
-		- ![Pasted image 20230929011210](https://cdn.pkmer.cn/images/Pasted%20image%2020230929011210.png!pkmer)
+		- ![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020230929011210.png!pkmer)
 - 第二个就是你自定义拖拽过来的图片存放的存储路径了，注意要在 Obsidian 的笔记库中的==相对路径==。
 
  > [!caution] **注意事项**
@@ -60,27 +60,28 @@ modified: 20231219164020
 */
 
 let settings = ea.getScriptSettings();
-//在第一次运行时，加载脚本设置
-if (!settings["Zotero Library Path"]) settings["Zotero Library Path"] = { value:false};
+//set default values on first run
+if (!settings["Zotero Library Path"]) settings["Zotero Library Path"] = { value: false };
 if (!settings["Zotero Library Path"].value) {
-	new Notice("🔴请配置Zotero的Library路径和其他相关设置！");
+	new Notice("🔴请配置Zotero的Library路径和其他相关设置！", 2000);
 	settings = {
 		"Zotero Library Path": {
-			value: "",
+			value: "D:/Zotero/cache/library",
 			description: "Zotero Library的路径，比如：D:/Zotero/cache/library"
 		},
 		"Zotero Images Path": {
-			value: "./",
+			value: "Y-图形文件存储/ZoteroImages",
 			description: "Obsidian库内存放Zotero的图片的相对路径，比如：Y-图形文件存储/ZoteroImages"
 		},
 		"Zotero Annotations Color": {
 			value: false,
-			description: "是否开启匹配Zotero的颜色选项栏<br>❗注：匹配颜色选项需要修改Zotero的高亮标注模板添加{{color}}属性",
-		}
+			description: "是否开启匹配Zotero的颜色选项栏<br>❗注：匹配颜色选项需要修改Zotero的高亮标注模板",
+		},
 	};
 	ea.setScriptSettings(settings);
-	return;
-} 
+} else {
+	new Notice("✅ZoteroToExcalidraw脚本已启动！");
+}
 
 const path = require('path');
 const fs = require("fs");
@@ -98,52 +99,54 @@ let el = ea.targetView.containerEl.querySelectorAll(".excalidraw-wrapper")[0];
 let InsertStyle;
 if (settings["Zotero Annotations Color"].value) {
 	const fillStyles = ["文字", "背景"];
-	InsertStyle = await utils.suggester(fillStyles, fillStyles, "选择插入卡片颜色的形式，ESC退出(默认白底黑字)");
+	InsertStyle = await utils.suggester(fillStyles, fillStyles, "选择插入卡片颜色的形式，ESC则为白底黑字)");
 }
 
 el.ondrop = async function (event) {
 	console.log("ondrop");
 	event.preventDefault();
 	var insert_txt = event.dataTransfer.getData("Text");
-
-	// 清空原本投入的文本
-	event.stopPropagation();
-	ea.clear();
+	const ondropType = event.dataTransfer.files.length;
+	console.log(ondropType);
 
 	// 设定一些样式
 	ea.style.strokeStyle = "solid";
-	let zotero_color = match_zotero_color(insert_txt);
-	// alert(zotero_color);
-
-	if (zotero_color) {
-		// 卡片背景颜色
-		if (InsertStyle == "背景") {
-			ea.style.backgroundColor = zotero_color;
-			ea.style.strokeColor = "#1e1e1e";
-		} else if (InsertStyle == "文字") {
-			ea.style.backgroundColor = "#ffffff";
-			ea.style.strokeColor = zotero_color;
-		} else {
-			ea.style.backgroundColor = "transparent";
-			ea.style.strokeColor = "#1e1e1e";
-		}
-	} else {
-		ea.style.backgroundColor = "transparent";
-		ea.style.strokeColor = "#1e1e1e";
-	}
-
 	ea.style.fillStyle = 'solid';
 	ea.style.roughness = 0;
+	ea.style.backgroundColor = "transparent";
+	ea.style.strokeColor = "#1e1e1e";
 	// ea.style.roundness = { type: 3 }; // 圆角
 	ea.style.strokeWidth = 2;
 	ea.style.fontFamily = 4;
 	ea.style.fontSize = 20;
 
-	// 格式化文本(去空格、全角转半角)  
-	insert_txt = processText(insert_txt);
-
 	if (insert_txt.includes("zotero://")) {
+		// 格式化文本(去空格、全角转半角)  
+		insert_txt = processText(insert_txt);
+		// 清空原本投入的文本
+		event.stopPropagation();
+		ea.clear();
 		console.log("Zotero");
+
+		let zotero_color = match_zotero_color(insert_txt);
+		// alert(zotero_color);
+
+		if (zotero_color) {
+			// 卡片背景颜色
+			if (InsertStyle == "背景") {
+				ea.style.backgroundColor = zotero_color;
+				ea.style.strokeColor = "#1e1e1e";
+			} else if (InsertStyle == "文字") {
+				ea.style.backgroundColor = "#ffffff";
+				ea.style.strokeColor = zotero_color;
+			} else {
+				ea.style.backgroundColor = "transparent";
+				ea.style.strokeColor = "#1e1e1e";
+			}
+		} else {
+			ea.style.backgroundColor = "transparent";
+			ea.style.strokeColor = "#1e1e1e";
+		}
 
 		zotero_txt = match_zotero_txt(insert_txt);
 		zotero_author = match_zotero_author(insert_txt);
@@ -152,17 +155,17 @@ el.ondrop = async function (event) {
 		};
 		zotero_comment = match_zotero_comment(insert_txt);
 		if (zotero_comment) {
-			zotero_comment = `\n\n${zotero_comment}`;
+			zotero_comment = `\n\n📝：${zotero_comment}`;
 		};
 		zotero_link = match_zotero_link(insert_txt);
 
 		if (zotero_txt) {
 			console.log("ZoteroText");
 
-			let id = await ea.addText(0, 0, `${zotero_txt}${zotero_author}${zotero_comment}`, { width: 600, box: true, wrapAt: 90, textAlign: "left", textVerticalAlign: "middle", box: "box" });
+			let id = await ea.addText(0, 0, `📖：${zotero_txt}${zotero_author}${zotero_comment}`, { width: 600, box: true, wrapAt: 90, textAlign: "left", textVerticalAlign: "middle", box: "box" });
 			let el = ea.getElement(id);
 			el.link = zotero_link;
-			await ea.addElementsToView(true, false, false);
+			await ea.addElementsToView(true, true, false);
 			if (ea.targetView.draginfoDiv) {
 				document.body.removeChild(ea.targetView.draginfoDiv);
 				delete ea.targetView.draginfoDiv;
@@ -186,25 +189,30 @@ el.ondrop = async function (event) {
 			let id = await ea.addImage(0, 0, zotero_image_name);
 			let el = ea.getElement(id);
 			el.link = zotero_link;
-			await ea.addElementsToView(false, false);
+
+			await ea.addElementsToView(true, true, false);
 			if (ea.targetView.draginfoDiv) {
 				document.body.removeChild(ea.targetView.draginfoDiv);
 				delete ea.targetView.draginfoDiv;
 			};
 		};
 
-	} else {
+	} else if (ondropType < 1) {
+		// 清空原本投入的文本
+		event.stopPropagation();
+		ea.clear();
+		// 格式化文本(去空格、全角转半角)  
+		insert_txt = processText(insert_txt);
+		console.log("文本格式化");
 		await ea.addText(0, 0, `${insert_txt} `, { width: 400, box: true, wrapAt: 90, textAlign: "left", textVerticalAlign: "middle", box: "box" });
-		await ea.addElementsToView(false, false);
+		// let el = ea.getElement(id);
+		await ea.addElementsToView(true, true, false);
 		if (ea.targetView.draginfoDiv) {
 			document.body.removeChild(ea.targetView.draginfoDiv);
 			delete ea.targetView.draginfoDiv;
 		};
-
 	};
 };
-
-new Notice("✅ZoteroToExcalidraw脚本已启动！");
 
 function processText(text) {
 	// 替换特殊空格为普通空格
@@ -295,11 +303,11 @@ function match_zotero_image(text) {
 > ```
 >
 > 取消后再点击⚙️按钮会出现如下弹窗
-> ![](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233512.png!pkmer)
+> ![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233512.png!pkmer)
 
 如果你想添加标注的卡片颜色，可以在**首选项 ->高级中编辑器 ->搜索：`annotations.noteTemplates`**，修改高亮标注的模板，添加{{color}}属性，其他属性见官方文档：[note templates [Zotero Documentation]](https://www.zotero.org/support/note_templates)：
 
-![Pasted image 20231017234906](https://cdn.pkmer.cn/images/Pasted%20image%2020231017234906.png!pkmer)
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020231017234906.png!pkmer)
 
 ```
 <p>{{color}} {{highlight}} {{citation}} {{comment}}</p>
@@ -311,4 +319,4 @@ function match_zotero_image(text) {
 设置完成之后，再运行该脚本，插入的卡片就可以根据匹配标注的颜色了，根据选择可以设置 2 种卡片颜色方案：
 
 > [!cite]
-> ![Pasted image 20231017233449](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233449.png!pkmer)
+> ![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233449.png!pkmer)

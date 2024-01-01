@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231220155036
+modified: 20231229170716
 ---
 
 # 自定义 Excalidraw 脚本 - 实现 Excalidraw 与 BookxNote 的联动
@@ -169,8 +169,8 @@ if (!settings["notebooksPath"].value) {
     new Notice("🔴请配置Zotero的Library路径和其他相关设置！", 2000);
     settings = {
         "notebooksPath": {
-            value: "D:/PandaNotes/X-图书文件存储/笔记数据",
-            description: "BookxNotePro的笔记数据文件夹<br>🔴注意路径符号需要转义"
+            value: "",
+            description: "BookxNotePro的笔记数据目录<br>🔴注意路径符号需要转义"
         },
         "copyBookxnoteImageToObsidian": {
             value: true,
@@ -196,20 +196,17 @@ const notebookFolder = `${settings["notebooksPath"].value}/notebooks`;
 // 获取notebooksImages的存储路径
 const basePath = (app.vault.adapter).getBasePath();
 const notebooksImagesPath = `${basePath}/${settings["notebooksImagesPath"].value}`;
-// 检查文件夹是否存在
-if (!fs.existsSync(notebooksImagesPath)) {
-  // 创建文件夹
-  fs.mkdirSync(notebooksImagesPath);
-  console.log('文件夹已创建');
-} else {
-  console.log('文件夹已存在');
-}
 
 // 读取manifest.json数据
 const notebooksData = `${notebookFolder}/manifest.json`;
 
 const notebooksJson = JSON.parse(fs.readFileSync(notebooksData, 'utf8'));
 // console.log(notebooksJson)
+
+// 添加选择是否匹配颜色
+let InsertStyle;
+const fillStyles = ["文字", "背景"];
+InsertStyle = await utils.suggester(fillStyles, fillStyles, "选择插入卡片颜色的形式，ESC则为白底黑字)");
 
 eaApi.onPasteHook = async function ({ ea,
     payload,
@@ -259,6 +256,15 @@ eaApi.onPasteHook = async function ({ ea,
             const imgName = `bxn_${markupData.imgfile}`;
             // 复制图片到Obsidian的笔记库
             if (settings["copyBookxnoteImageToObsidian"].value) {
+                // 检查文件夹是否存在
+                if (!fs.existsSync(notebooksImagesPath)) {
+                    // 创建文件夹
+                    fs.mkdirSync(notebooksImagesPath);
+                    new Notice(`图片文件不存在，已创建文件夹：<br>${notebooksImagesPath}`, 3000);
+
+                } else {
+                    console.log('文件夹已存在');
+                }
                 fs.copyFileSync(imgfilePath, `${notebooksImagesPath}/${imgName}`);
                 await new Promise((resolve) => setTimeout(resolve, 200)); // 暂停0.2秒，等待复制文件的过程
             }
@@ -271,9 +277,18 @@ eaApi.onPasteHook = async function ({ ea,
         } else if (markupData?.originaltext) {
             console.log("文字标注");
 
-            const fillcolor =`#${markupData.fillcolor.slice(2)}`;
-            ea.style.backgroundColor = fillcolor;
-            ea.style.strokeColor = "#1e1e1e";
+            const fillcolor = `#${markupData.fillcolor.slice(2)}`;
+
+            if (InsertStyle == "背景") {
+                ea.style.backgroundColor = fillcolor;
+                ea.style.strokeColor = "#1e1e1e";
+            } else if (InsertStyle == "文字") {
+                ea.style.backgroundColor = "#ffffff";
+                ea.style.strokeColor = fillcolor;
+            } else {
+                ea.style.backgroundColor = "transparent";
+                ea.style.strokeColor = "#1e1e1e";
+            }
 
             const markupText = processText(markupData.originaltext);
             console.log(markupText);
