@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20231201120946
+modified: 20240102213548
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
@@ -126,6 +126,14 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 
 这样深度融合进 Obsidian，配合 Markdown 语法，方便的嵌入，高度自定义的 Excalidraw 又怎能不爱？
 
+## 功能手册
+
+- [[Obsidian-Excalidraw 功能手册]]
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=409017182&bvid=BV1BG411i7iy&cid=1349574469&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
 ## 社区实践
 
 ### 脚本制作
@@ -147,7 +155,3 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
 - [[Obsidian样式-Excalidraw自动隐藏工具栏的CSS]]
-
-## 视频教程
-
-<iframe src="https://player.bilibili.com/player.html?aid=409017182&bvid=BV1BG411i7iy&cid=1349574469&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
