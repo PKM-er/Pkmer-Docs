@@ -1,6 +1,6 @@
 ---
-uid: 2023080322141280
-title: Obsidian 插件：Arcana
+uid: 2023120719223623
+title: Obsidian 插件：【Readme】Arcana
 tags: ['obsidian插件', 'readme']
 description: 通过AI提供的洞察和建议，让你的笔记记录变得更加强大。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Arcana
+# Obsidian 插件：【Readme】Arcana
 
 > [!Note] 插件名片
 > - 插件名称：Arcana
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 通过 AI 提供的洞察和建议，让你的笔记记录变得更加强大。
 
-![Arcana](https://cdn.pkmer.cn/covers/arcana.gif!pkmer)
+![Arcana](https://cdn.pkmer.cn/covers/arcana.gif)
 
 > [!tip] 原文出处
 >
@@ -80,7 +80,7 @@ modified: 20230101000000
 - 与苏格拉底进行对话交流。
 - 提出与当前打开的笔记相关的问题。
 
-![](gifs/Socrates.gif)
+![](https://cdn.pkmer.cn/covers/arcana_2_0.gif)
 
 ### 添加自定义聊天代理
 
@@ -127,7 +127,7 @@ arcana-agent-emoji: 🗿
 - 您还可以突出显示文本，阿加莎也会考虑到这一点。（她将在**文件底部**代替您写作）
 - 要取消您的请求，请按下 `Esc` 键。
 
-![](gifs/Christie.gif)
+![](https://cdn.pkmer.cn/covers/arcana_2_1.gif)
 
 ## 理查德·费曼
 
@@ -141,7 +141,7 @@ arcana-agent-emoji: 🗿
 - 闪卡与 [Obsidian-Spaced-Repitition](https://github.com/st3v3nmw/obsidian-spaced-repetition) 插件兼容。
 - 同时会生成分类。
 
-![](gifs/Feynman.gif)
+![](https://cdn.pkmer.cn/covers/arcana_2_2.gif)
 
 ## 查尔斯·达尔文
 
@@ -155,7 +155,7 @@ arcana-agent-emoji: 🗿
 - 仅使用您的存储库中存在的标签。
 - 不重复使用笔记中已使用的标签。
 
-![](gifs/Darwin.gif)
+![](https://cdn.pkmer.cn/covers/arcana_2_3.gif)
 
 ## Nostradamus
 
@@ -168,7 +168,7 @@ arcana-agent-emoji: 🗿
 - 使用笔记的内容来为文件提供更好的标题。
 - 以 [Andy Matuschak的Evergreen笔记](https://notes.andymatuschak.org/Evergreen_note_titles_are_like_APIs) 的风格进行操作。
 
-![](gifs/Nostradamus.gif)
+![](https://cdn.pkmer.cn/covers/arcana_2_4.gif)
 
 ---
 

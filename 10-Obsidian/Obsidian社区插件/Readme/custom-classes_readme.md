@@ -1,6 +1,6 @@
 ---
-uid: 2023080322165083
-title: Obsidian 插件：Custom Classes
+uid: 2023120719260175
+title: Obsidian 插件：【Readme】Custom Classes
 tags: ['obsidian插件', 'readme']
 description: 直接从您的笔记中为所选择的Markdown元素添加自己的HTML类。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Custom Classes
+# Obsidian 插件：【Readme】Custom Classes
 
 > [!Note] 插件名片
 > - 插件名称：Custom Classes
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 直接从您的笔记中为所选择的 Markdown 元素添加自己的 HTML 类。
 
-![Custom Classes](https://cdn.pkmer.cn/covers/custom-classes.gif!pkmer)
+![Custom Classes](https://cdn.pkmer.cn/covers/custom-classes.gif)
 
 > [!tip] 原文出处
 >
@@ -427,9 +427,11 @@ I'm a **bold text `class: big`** and _`.small` me an italic one_
 <ol>
 	<li><h3>Lila的前置元数据 :cherry_blossom:</h3>
 
+
 在这里，_Custom Classes_ 插件被用来将 Markdown 无序列表 (`ul`) 渲染为一个干净的前置元数据块。
 
 &rarr; 源码: <https://forum.obsidian.md/t/a-frontmatter-that-finally-supports-links-lilas-frontmatter/53087>
+
 
 <table align="center">
 <thead>
@@ -452,8 +454,8 @@ I'm a **bold text `class: big`** and _`.small` me an italic one_
 
 | 主题 | |
 | -- | -- |
-| 暗色 | ![](https://forum.obsidian.md/uploads/default/original/3X/1/4/1418a3659b033fcf8d925105d6a3da3c6b9984fc.gif) |
-| 亮色 | ![](https://forum.obsidian.md/uploads/default/original/3X/3/5/35b209dfa79a2b3df13166e9ddd6d1b208480fca.gif) |
+| 暗色 | ![](https://cdn.pkmer.cn/covers/custom-classes_1_0.gif) |
+| 亮色 | ![](https://cdn.pkmer.cn/covers/custom-classes_1_1.gif) |
 
 </p></td>
 </tbody>
@@ -472,7 +474,10 @@ I'm a **bold text `class: big`** and _`.small` me an italic one_
   <blockquote align="center">
   <br>
 
+
   在 Obsidian 中，将 Markdown 元素包装在 `div` 中会破坏其在实时预览和阅读模式下的渲染，并阻止在编辑模式下点击链接。此外，将 HTML 写入笔记会使其不易阅读。
+
+
 
   **借助 _Custom Classes_ 插件，您可以在不破坏任何内容的情况下，以纯 Markdown 格式添加自定义类！** :tada:
 
@@ -485,7 +490,10 @@ I'm a **bold text `class: big`** and _`.small` me an italic one_
   <blockquote align="center">
   <br>
 
+
   由于此插件专属于 Obsidian，自定义类将不会在其他编辑器中应用。
+
+
 
   但是，由于自定义类块（``` `class: ...` ```）是简单的 Markdown 内联代码块，它们将在其他 Markdown 编辑器中正确呈现为代码块。
 
@@ -497,6 +505,7 @@ I'm a **bold text `class: big`** and _`.small` me an italic one_
   <summary><b>是否可以一次添加多个类？</b></summary>
   <blockquote align="center">
   <br>
+
 
   是的，只需用逗号分隔每个类：
 
@@ -534,7 +543,10 @@ I'm a **bold text `class: big`** and _`.small` me an italic one_
   <blockquote align="center">
   <br>
 
+
   是的，此插件完全支持实时预览模式。
+
+
 
   顺便说一下，由 _Custom Classes_ 块定位的元素在阅读模式和实时预览模式下以完全相同的方式呈现，使您能够编写在任何地方都有效的 CSS。
 
@@ -547,7 +559,10 @@ I'm a **bold text `class: big`** and _`.small` me an italic one_
   <blockquote align="center">
   <br>
 
+
   是的，_Custom Classes_ 插件还将以 `cls:` 或 `.` 开头的内联代码块视为自定义类块。
+
+
 
   因此，``` `cls: wow` ``` 和 ``` `.wow` ``` 等效于 ``` `class: wow` ```.
 

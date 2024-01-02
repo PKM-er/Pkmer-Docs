@@ -1,6 +1,6 @@
 ---
-uid: 2023080322140608
-title: Obsidian 插件：Aosr
+uid: 2023120719222928
+title: Obsidian 插件：【Readme】Aosr
 tags: ['obsidian插件', 'readme']
 description: 另一种黑曜石间隔重复法。它使用闪卡来帮助复习和记忆知识。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Aosr
+# Obsidian 插件：【Readme】Aosr
 
 > [!Note] 插件名片
 > - 插件名称：Aosr
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 另一种黑曜石间隔重复法。它使用闪卡来帮助复习和记忆知识。
+
+![Aosr](https://cdn.pkmer.cn/covers/aosr_new.gif)
 
 > [!tip] 原文出处
 >
@@ -61,7 +63,7 @@ Aosr 是**A**nother **O**bsidian 插件，用于**S**paced **R**epetition（间�
 
 # 演示
 
-![屏幕录制2022-11-08 17 56 11](https://user-images.githubusercontent.com/16589958/200536163-9aa947ff-0898-40ec-ae6a-911fc9107098.gif)
+![屏幕录制2022-11-08 17 56 11](https://cdn.pkmer.cn/covers/aosr_1_2.gif)
 
 # 格式
 

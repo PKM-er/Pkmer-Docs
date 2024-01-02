@@ -1,6 +1,6 @@
 ---
-uid: 2023080322273154
-title: Obsidian 插件：Super Simple Time Tracker
+uid: 2023120719435077
+title: Obsidian 插件：【Readme】Super Simple Time Tracker
 tags: ['obsidian插件', 'readme']
 description: 多功能时间跟踪器，用于记录您的笔记！
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Super Simple Time Tracker
+# Obsidian 插件：【Readme】Super Simple Time Tracker
 
 > [!Note] 插件名片
 > - 插件名称：Super Simple Time Tracker
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 多功能的时间追踪器，适用于您的笔记！
 
-![插件运行时的截图，您可以看到一个项目的活动时间追踪器](https://raw.githubusercontent.com/Ellpeck/ObsidianSimpleTimeTracker/master/screenshot.png)
+![插件运行时的截图，您可以看到一个项目的活动时间追踪器](https://cdn.pkmer.cn/covers/simple-time-tracker_1_0.png!pkmer)
 
 # 🤔 使用方法
 

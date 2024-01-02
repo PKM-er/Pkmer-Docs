@@ -7,7 +7,7 @@ author: Bon
 type: basic
 draft: false
 editable: false
-modified: 20231017111405
+modified: 20231217230159
 ---
 
 # Obsidian 插件：Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式
@@ -24,13 +24,13 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-memos)
 
 > [!Tip] 最新进展
-> 如果你想了解 Memos 最新进展，可以看这里 [[memos-changelog]]
+> 如果你想了解 Memos 最新进展，可以看这里 [[thino-changelog]]
 
 ## 效果&特性
 
-![Obsidian Memos](https://cdn.pkmer.cn/covers/obsidian-memos.png!pkmer)
+![Obsidian Memos|600](https://cdn.pkmer.cn/covers/obsidian-memos.png!pkmer)
 
-![Memos 0.png](https://cdn.pkmer.cn/images/Memos%200.png!pkmer)
+![Obsidian Memos|600](https://cdn.pkmer.cn/images/Memos%200.png!pkmer)
 
 1. 所有备忘录都来自于您的日常笔记，这需要启用“Daily Notes Plugin”才能使该插件正常工作。
 2. 备忘录是从您在配置中设置的标题下方获取的，默认为 `# Journal`。
@@ -40,7 +40,7 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 
 ## 使用
 
-![Memos 2.png](https://cdn.pkmer.cn/images/Memos%202.png!pkmer)
+![Obsidian Memos|600](https://cdn.pkmer.cn/images/Memos%202.png!pkmer)
 
 1. 首先确保你已启用“Daily notes”插件（Obsidian 的核心插件）。
 2. 然后，你应该检查设置，将你的标题设置为在下方处理并在下方插入新备忘录，或者留空以将条目写入每日文件的底部。
@@ -107,10 +107,10 @@ Obsidian Memos 提供一个简易轻巧的笔记和灵感收集方式，方便�
 
 ## 开发进度
 
- memos 2.0 正在开发中，开发进度参考 [[memos-changelog]]
+ memos 2.0 正在开发中，开发进度参考 [[thino-changelog]]
 
 ## 加入内侧
 
-Memos 2.0.x 内测版火热进行中，通过社区共享知识、方法论等稿件，或社区为爱发电捐助都可以获得资格。Memos 2.0.x 内测版火热进行中，通过社区共享知识、方法论等稿件，或社区为爱发电捐助都可以获得资格。
+Thino （原 Memos 2.0.x）内测版火热进行中，通过社区共享知识、方法论等稿件，或社区为爱发电捐助都可以获得资格。Memos 2.0.x 内测版火热进行中，通过社区共享知识、方法论等稿件，或社区为爱发电捐助都可以获得资格。
 
 [社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)

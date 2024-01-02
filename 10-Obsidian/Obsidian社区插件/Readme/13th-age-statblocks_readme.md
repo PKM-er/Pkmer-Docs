@@ -1,6 +1,6 @@
 ---
-uid: 2023080322132709
-title: Obsidian 插件：13th Age Statblocks
+uid: 2023120719214436
+title: Obsidian 插件：【Readme】13th Age Statblocks
 tags: ['obsidian插件', 'readme']
 description: 在黑曜石中渲染13世纪的状态块。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：13th Age Statblocks
+# Obsidian 插件：【Readme】13th Age Statblocks
 
 > [!Note] 插件名片
 > - 插件名称：13th Age Statblocks
@@ -41,9 +41,9 @@ modified: 20230101000000
 
 该插件用于渲染 13th Age 插件，并包含基于 SRD 内容的怪物基础。
 
-![](https://user-images.githubusercontent.com/39902/149404290-3dcb6793-0437-496d-b066-b2d7d5355374.png)
+![](https://cdn.pkmer.cn/covers/13th-age-statblocks_1_0.png!pkmer)
 
-![](https://user-images.githubusercontent.com/39902/149404315-5a9d6d45-55da-421b-b424-9596d2f95d55.png)
+![](https://cdn.pkmer.cn/covers/13th-age-statblocks_1_1.png!pkmer)
 
 ### 开发
 

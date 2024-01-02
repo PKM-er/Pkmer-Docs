@@ -7,10 +7,14 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231108105302
+modified: 20231201113636
 ---
 
 # Obsidian 主题常见问题
+
+如果以下内容还不能满足你：
+
+你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
 
 ## 主题类问题
 

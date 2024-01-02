@@ -1,6 +1,6 @@
 ---
-uid: 2023080322234761
-title: Obsidian 插件：Obsidian to Flomo
+uid: 2023120719381993
+title: Obsidian 插件：【Readme】Obsidian to Flomo
 tags: ['obsidian插件', 'readme']
 description: 快速分享内容到Flomo。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian to Flomo
+# Obsidian 插件：【Readme】Obsidian to Flomo
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian to Flomo
@@ -71,27 +71,27 @@ NzI5MzY2
 
 ### 复制 Flomo API
 
-![](https://cdn.metalyoung.com/202210/4189df9a713c42f5f2e05e3864078375.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_200/quality,q_90)
+![](https://cdn.pkmer.cn/covers/obsidian-to-flomo_1_3.png!pkmer)
 
-![](https://cdn.metalyoung.com/202210/779e61675387c1e9b1025d15c1384ea2.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_400/quality,q_90)
+![](https://cdn.pkmer.cn/covers/obsidian-to-flomo_1_4.png!pkmer)
 
 ### 设置 Flomo API
 
-![](https://cdn.metalyoung.com/202210/b571bbdcd680fe84a1b35890ebf53b94.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600/quality,q_90)
+![](https://cdn.pkmer.cn/covers/obsidian-to-flomo_1_5.png!pkmer)
 
-![](https://cdn.metalyoung.com/202210/9b02789ba6ff50b113970fda0c1c9121.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600/quality,q_90)
+![](https://cdn.pkmer.cn/covers/obsidian-to-flomo_1_6.png!pkmer)
 
 ### 发送选定内容
 
 首先，您需要在编辑器中选择文本。
 
-![](https://cdn.metalyoung.com/202210/510e64df1409646a421f23b7597965c3.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600/quality,q_90)
+![](https://cdn.pkmer.cn/covers/obsidian-to-flomo_1_7.png!pkmer)
 
 然后，您还可以通过 `command` + `P` 调出命令菜单。
 
-![](https://cdn.metalyoung.com/202210/32ab062ed85d121e45052058c79af1e1.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600/quality,q_90)
+![](https://cdn.pkmer.cn/covers/obsidian-to-flomo_1_8.png!pkmer)
 
-![](https://cdn.metalyoung.com/202210/e9da4e4bfe8406a1c6fa0e02374a3586.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600/quality,q_90)
+![](https://cdn.pkmer.cn/covers/obsidian-to-flomo_1_9.png!pkmer)
 
 发送整个文件的内容
 

@@ -12,6 +12,10 @@ modified: 20230910003322
 
 # Git 协作手把手教程
 
+## 视频教程 
+
+<iframe src="https://player.bilibili.com/player.html?aid=579941589&bvid=BV1e64y1p7tG&cid=1372269698&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
 > [!info]
 > 本指南是针对 [[文档协作流程#有 Git 协作经验的协作者]] 的辅助文件
 

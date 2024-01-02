@@ -1,16 +1,16 @@
 ---
-uid: 20230817224054
-title: Obsidian 插件：Paste image rename
+uid: 2023120719400265
+title: Obsidian 插件：【Readme】Paste image rename
 tags: ['obsidian插件', 'readme']
 description: 粘贴后重命名图像，支持命名模式和自动重命名。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20231123212826
+modified: 20230101000000
 ---
 
-# Obsidian 插件：Paste image rename
+# Obsidian 插件：【Readme】Paste image rename
 
 > [!Note] 插件名片
 > - 插件名称：Paste image rename
@@ -46,7 +46,7 @@ modified: 20231123212826
 <details>
   <summary>Zettlr粘贴图片后的提示框</summary>
 
-  ![image](https://user-images.githubusercontent.com/405972/162478462-b5ff4fc9-ade2-4ace-adcb-c6436479a7d9.png)
+  ![image](https://cdn.pkmer.cn/covers/obsidian-paste-image-rename_1_0.png!pkmer)
 
 </details>
 
@@ -71,7 +71,7 @@ modified: 20231123212826
 
 安装插件后，您可以将图像粘贴到任何文档中，然后重命名提示将显示：
 
-![image.png](https://cdn.pkmer.cn/images/202311232122397.png!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-paste-image-rename_2_0.png!pkmer)
 
 通过输入新名称并点击“重命名”（或直接按回车键），图像将被重命名，并且内部链接将被替换为新名称。
 
@@ -79,7 +79,7 @@ modified: 20231123212826
 
 “新名称”将生成为活动文件的名称。
 
-![image.png](https://cdn.pkmer.cn/images/202311232123091.png!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-paste-image-rename_2_1.png!pkmer)
 
 ### 设置 `imageNameKey` 前置元数据
 
@@ -95,7 +95,7 @@ imageNameKey: my-blog
 
 然后粘贴一张图片，你会注意到“新名称”已经生成为“my-blog”，这正是 `imageNameKey` 的值：
 
-![image.png](https://cdn.pkmer.cn/images/202311232124375.png!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-paste-image-rename_2_2.png!pkmer)
 
 你可以通过在设置中更新“图像名称模式”值来更改新名称生成的模式。
 
@@ -107,8 +107,7 @@ imageNameKey: my-blog
 
 让我们从上一节继续，并粘贴第二张图片，提示仍然会将新名称显示为 "my-blog"，现在如果我们只需点击 " 重命名 "，文件将被重命名为 "my-blog-1.png"，而不是 "my-blog.png"：
 
-![image.png](https://cdn.pkmer.cn/images/202311232129226.png!pkmer)
-
+<img src="images/document.png" width="400px">
 
 "-1" 后缀是根据默认设置生成的：
 
@@ -125,7 +124,7 @@ imageNameKey: my-blog
 
 您可以使用命令“批量重命名当前文件中的嵌入文件”来重命名当前文件中的图像和其他附件（甚至是笔记）。
 
-![image.png](https://cdn.pkmer.cn/images/202311232124431.png!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-paste-image-rename_2_3.png!pkmer)
 
 上图演示了如何使用此功能将所有的 `foo-1.png`，`foo-2.png`... png 文件重命名为 `bar-1-png`，`bar-2.png`...
 
@@ -149,7 +148,7 @@ imageNameKey: my-blog
 
 要使用此功能，您需要在设置中启用“处理所有附件”选项。
 
-![image.png](https://cdn.pkmer.cn/images/202311232125072.png!pkmer)
+![](https://cdn.pkmer.cn/covers/obsidian-paste-image-rename_2_4.png!pkmer)
 
 此外，您还可以配置“排除扩展名模式”以忽略与给定扩展名模式匹配的文件。
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322283043
-title: Obsidian 插件：Todoist Sync Plugin
+uid: 2023120719451222
+title: Obsidian 插件：【Readme】Todoist Sync Plugin
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 让 Obsidian 和你的 Todoist 任务列表联动，你可以在 Obsidian 中操作对应的任务列表。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Todoist Sync Plugin
+# Obsidian 插件：【Readme】Todoist Sync Plugin
 
 > [!Note] 插件名片
 > - 插件名称：Todoist Sync Plugin
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 一个 [Obsidian](https://obsidian.md/) 插件，用于在 Obsidian 笔记中实现 [Todoist](https://todoist.com/) 任务列表的可视化。
 
-![示例动画](./assets/obsidian-todoist-sync.gif)
+![示例动画](https://cdn.pkmer.cn/covers/todoist-sync-plugin_2_0.gif)
 
 ## 使用方法
 
@@ -52,14 +52,14 @@ modified: 20230101000000
 3. 您应该会收到一个提示，要求您输入 [Todoist API 令牌](https://todoist.com/prefs/integrations)。（如果没有，您可以在设置中输入此令牌）。
 4. 在任何笔记中放置一个类似以下的代码块：
 
-````markdown
+   ````markdown
    ```todoist
    name: My Tasks
    filter: "today | overdue"
    ```
-````
+   ````
 
-1. 切换到预览模式，插件应该会用该筛选器的结果替换此代码块。
+5. 切换到预览模式，插件应该会用该筛选器的结果替换此代码块。
 
 > 如果您正在同步您的 vault，出于安全原因，我建议明确忽略 `.obsidian/todoist-token` 文件，如果可能的话。
 

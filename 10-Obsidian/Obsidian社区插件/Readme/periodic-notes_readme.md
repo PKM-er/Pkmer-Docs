@@ -24,7 +24,7 @@ modified: 20230101000000
 
 创建/管理您的日常、每周和每月笔记
 
-![Periodic Notes](https://cdn.pkmer.cn/covers/periodic-notes.gif!pkmer)
+![Periodic Notes](https://cdn.pkmer.cn/covers/periodic-notes.gif)
 
 > [!tip] 原文出处
 >

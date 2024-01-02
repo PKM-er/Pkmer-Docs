@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231105000650
+modified: 20231210204043
 ---
 
 # Obsidian 插件：code tab 还能这么“玩”
@@ -29,6 +29,7 @@ modified: 20231105000650
 - 选中的标签页下方长条颜色换为了蓝色；
 - 淡化未选择的标签页文字颜色；
 - 鼠标悬浮于未选择的标签页时，下方出现灰色长条；
+- 修改标签页过多造成的堆叠，改为鼠标滚轮滚动，手机可以触碰滑动；
 - 限制标签页正文的最大长度，超过长度添加纵向滚动条；
 
 > [!tip] 另外
@@ -81,6 +82,17 @@ settings:
     min: 0
     max: 1
     step: 0.1
+  -
+    id: tabs-overflow-type
+    title: Select the scrolling way when there are too much tabs.  
+    title.zh: 当标签页过多时的滚动方式，默认无法滚动
+    type: class-select
+    allowEmpty: false
+    default: default-type
+    options:
+        - default-type
+        - left-to-right
+        - up-to-down
 */
 .theme-dark {
   --bc: #1e1e1e;
@@ -142,10 +154,24 @@ body {
   max-height: 600px;
   overflow: auto;
 }
+
+.left-to-right .tab-container .tabs {
+  display: flex;
+  overflow-x: auto;
+}
+
+.left-to-right .tab-container .tabs::-webkit-scrollbar {
+  height: 0;
+  width: 0;
+}
+
+.up-to-down .tab-container .tabs {
+  max-height: 36.3px;
+  overflow-y: auto;
+}
+
+.up-to-down .tab-container .tabs::-webkit-scrollbar {
+  height: 0;
+  width: 0;
+} 
 ```
-
-有时我会想给标签栏中的标签名加上高亮、加粗或者斜体，可是原版 code-tab 并不支持标签栏渲染，于是我稍微在原版的基础上加了些修改，让标签栏的文本也可以渲染 markdown，需要的可以在下方自取。
-
-![[code-tab 还能这么“玩”-20231104022822915.png]]
-
-[xhuajin/obsidian-code-tab-page at v1.0.0 (github.com)](https://github.com/xhuajin/obsidian-code-tab-page/tree/v1.0.0) 自取

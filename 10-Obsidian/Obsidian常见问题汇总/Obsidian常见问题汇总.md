@@ -18,6 +18,9 @@ modified: 20231105004624
 
 我们相信，无论您是新手还是老手，在经过一些练习和摸索后，都能够掌握使用该软件所需的技能和技巧，并在其中体验到乐趣和便捷。
 
+如果以下内容还不能满足你：
+
+你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
 ## 知识管理
 
 ### 笔记组织
@@ -58,7 +61,7 @@ modified: 20231105004624
 
 ### Thino（原 Memos）
 
-- 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[memos-changelog]]
+- 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[thino-changelog]]
 
 #### 发现异常
 

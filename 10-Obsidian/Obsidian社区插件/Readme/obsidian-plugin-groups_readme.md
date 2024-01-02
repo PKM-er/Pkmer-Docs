@@ -1,6 +1,6 @@
 ---
-uid: 2023080322245167
-title: Obsidian 插件：Plugin Groups
+uid: 2023120719403293
+title: Obsidian 插件：【Readme】Plugin Groups
 tags: ['效率', '自动化', '插件', 'obsidian插件', 'readme']
 description: 增强你的插件管理，一次启用和禁用多个插件，或者延迟它们的启动以加快Obsidian的启动时间。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Plugin Groups
+# Obsidian 插件：【Readme】Plugin Groups
 
 > [!Note] 插件名片
 > - 插件名称：Plugin Groups
@@ -86,7 +86,7 @@ modified: 20230101000000
 
 ### 创建一个分组
 
-![group-creation](https://raw.githubusercontent.com/Mocca101/obsidian-plugin-groups/master/images/group-creation.gif)
+![group-creation](https://cdn.pkmer.cn/covers/obsidian-plugin-groups_1_0.gif)
 
 要创建一个新的分组，请前往插件设置，输入分组的名称，然后点击“+”按钮。然后，您可以：
 
@@ -107,7 +107,7 @@ modified: 20230101000000
 - 插件分组启用：“您的分组名称”
 - 插件分组禁用：“您的分组名称”
 
-![commands](https://raw.githubusercontent.com/Mocca101/obsidian-plugin-groups/master/images/commands.gif)
+![commands](https://cdn.pkmer.cn/covers/obsidian-plugin-groups_1_1.gif)
 
 ### 惰性加载（Obsidian 启动时的延迟加载）
 
@@ -120,7 +120,7 @@ modified: 20230101000000
    2. 为插件设置延迟时间。
 3. 完成！在下次启动时，您应该会看到启动时间有所改善。
 
-![startup-demo](https://raw.githubusercontent.com/Mocca101/obsidian-plugin-groups/master/images/Startup-Demo.gif)
+![startup-demo](https://cdn.pkmer.cn/covers/obsidian-plugin-groups_1_2.gif)
 
 支持
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322153993
-title: Obsidian 插件：Carry-Forward
+uid: 2023120719243174
+title: Obsidian 插件：【Readme】Carry-Forward
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 从笔记中复制文本，链接回其复制的源，或复制一个链接到笔记块。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Carry-Forward
+# Obsidian 插件：【Readme】Carry-Forward
 
 > [!Note] 插件名片
 > - 插件名称：Carry-Forward
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从笔记中复制文本，链接回其复制的源，或复制一个链接到笔记块。
 
-![Carry-Forward](https://cdn.pkmer.cn/covers/obsidian-carry-forward.gif!pkmer)
+![Carry-Forward](https://cdn.pkmer.cn/covers/obsidian-carry-forward.gif)
 
 > [!tip] 原文出处
 >
@@ -68,16 +68,16 @@ modified: 20230101000000
 该插件提供了四个主要命令：
 
 1. `Carry Forward: 将选择的内容复制，并将每一行与其复制的源链接`
-  ![](docs/img/copy-selection-with-each-line-linked.gif)
+  ![](https://cdn.pkmer.cn/covers/obsidian-carry-forward_2_0.gif)
 
 2. `Carry Forward: 将选择的内容复制，并将第一行与其复制的源链接`
-  ![](docs/img/copy-selection-with-first-line-linked.gif)
+  ![](https://cdn.pkmer.cn/covers/obsidian-carry-forward_2_1.gif)
 
 3. `Carry Forward: 复制行的链接`
-   ![](docs/img/copy-link-to-line.gif)
+   ![](https://cdn.pkmer.cn/covers/obsidian-carry-forward_2_2.gif)
 
 4. `Carry Forward: 复制行的嵌入链接`
-   ![](docs/img/copy-embed-link-to-line.gif)
+   ![](https://cdn.pkmer.cn/covers/obsidian-carry-forward_2_3.gif)
 
 - 在设置选项卡中，可以设置一个 [正则表达式](https://www.regular-expressions.info)，以精确地将链接放置在复制的文本中，无论是在行的开头、行的结尾还是替换现有文本。
   - 该插件使用 [ECMAScript / Javascript风格](https://www.regular-expressions.info/javascript.html) 的正则表达式。

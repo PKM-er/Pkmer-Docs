@@ -1,6 +1,6 @@
 ---
-uid: 2023080322283621
-title: Obsidian 插件：ToggleList
+uid: 2023120719451878
+title: Obsidian 插件：【Readme】ToggleList
 tags: ['obsidian插件', 'readme']
 description: 切换清单状态（段落/列表/清单/自定义样式...）
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：ToggleList
+# Obsidian 插件：【Readme】ToggleList
 
 > [!Note] 插件名片
 > - 插件名称：ToggleList
@@ -59,7 +59,7 @@ ToggleList 提供以下功能：
 
 5. 状态可视化
 
-   ![image](https://user-images.githubusercontent.com/29173832/221369660-5600d76d-b8ac-4354-b4cc-11457c1527db.png)
+   ![image](https://cdn.pkmer.cn/covers/obsidian-toggle-list_1_0.png!pkmer)
 
 6. Togglelist 作为一个方便的工具，可以在其他插件中设置内容，请查看 [与其他插件一起使用](https://github.com/thingnotok/obsidian-toggle-list/doc/other_plugin.md) 以获取更多示例。
 

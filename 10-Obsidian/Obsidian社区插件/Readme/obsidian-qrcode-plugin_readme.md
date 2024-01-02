@@ -1,6 +1,6 @@
 ---
-uid: 2023080322251554
-title: Obsidian 插件：QR Code Generator Plugin
+uid: 2023120719405885
+title: Obsidian 插件：【Readme】QR Code Generator Plugin
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 这是一个二维码生成器。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：QR Code Generator Plugin
+# Obsidian 插件：【Readme】QR Code Generator Plugin
 
 > [!Note] 插件名片
 > - 插件名称：QR Code Generator Plugin
@@ -73,7 +73,7 @@ https://github.com
 
 结果将会是这样的：
 
-![截图](https://raw.githubusercontent.com/rudimuc/obsidian-qrcode/main/obsidian_rendered.png)
+![截图](https://cdn.pkmer.cn/covers/obsidian-qrcode-plugin_1_0.png!pkmer)
 
 对于复杂的 QR Code 生成（即可自定义的代码），请使用关键字 `qrcode-complex`。
 

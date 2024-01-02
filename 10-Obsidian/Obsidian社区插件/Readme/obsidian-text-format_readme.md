@@ -1,6 +1,6 @@
 ---
-uid: 2023080322280569
-title: Obsidian 插件：Text Format
+uid: 2023120719443006
+title: Obsidian 插件：【Readme】Text Format
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 解决从PDF 或其他软件复制内容后，格式错乱问题。此插件将会格式化选定的文本小写/大写/大写/标题大小写，或者删除多余的空格/换行符，以及一些其他功能。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Text Format
+# Obsidian 插件：【Readme】Text Format
 
 > [!Note] 插件名片
 > - 插件名称：Text Format
@@ -133,7 +133,7 @@ modified: 20230101000000
 
 | 命令 | 描述 |
 | --- | --- |
-| 自定义**包装器** ⚙️ | 在设置中添加任意的包装元素。(<<https://github.com/Benature/obsidian-underline/issues/5>)> 更多示例请参见下文 [⬇️](#wrapper) |
+| 自定义**包装器** ⚙️ | 在设置中添加任意的包装元素。(<https://github.com/Benature/obsidian-underline/issues/5)> 更多示例请参见下文 [⬇️](#wrapper) |
 | 解码**URL** | 解码 URL 以便阅读和缩短 URL。 |
 | 将单个字母转换为**数学**模式 | 例如，将 `P` 转换为 `$P$`（LaTeX），适用于除 `a` 以外的所有单个字母。 |
 | 将**Mathpix**数组转换为 Markdown 表格 | 将 Mathpix 生成的 LaTeX 数组转换为 Markdown 表格格式 |
@@ -238,4 +238,4 @@ modified: 20230101000000
   + 3. third, blahblah
   ```
 
-![demo](https://user-images.githubusercontent.com/35028647/121776728-149ea500-cbc1-11eb-89ee-f4afcb0816ed.gif)
+![demo](https://cdn.pkmer.cn/covers/obsidian-text-format_1_2.gif)

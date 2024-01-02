@@ -1,6 +1,6 @@
 ---
-uid: 2023080322165609
-title: Obsidian 插件：CustomJS
+uid: 2023120719261279
+title: Obsidian 插件：【Readme】CustomJS
 tags: ['自动化', '编程', '效率', 'obsidian插件', 'readme']
 description: 允许用户编写自定义Javascript，你可以在任何地方调用，包括dataviewjs块和templater模板。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：CustomJS
+# Obsidian 插件：【Readme】CustomJS
 
 > [!Note] 插件名片
 > - 插件名称：CustomJS
@@ -231,7 +231,7 @@ class DvTasks {
 ```
 
 #### 结果
-![结果](images/dvTasksExample.png)
+![结果](https://cdn.pkmer.cn/covers/customjs_2_0.png!pkmer)
 
 ### 异步使用
 

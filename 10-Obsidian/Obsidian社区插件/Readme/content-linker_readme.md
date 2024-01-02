@@ -1,5 +1,5 @@
 ---
-uid: 2023102611073582
+uid: 2023120719252247
 title: Obsidian 插件：【Readme】Content Linker
 tags: ['obsidian插件', 'readme']
 description: 一个用于在Obsidian Vault中搜索和添加双向链接到现有内容的插件。
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 ## 说明
 
-这是一个为 Obsidian (<https://obsidian.md>) 而作的插件。
+这是一个为 Obsidian (<https://obsidian.md)> 而作的插件。
 
 该插件旨在帮用户快速基于库中已有内容建立双向链接。
 
@@ -66,7 +66,7 @@ modified: 20230101000000
 - 库中已有大量笔记，但其中还存在大量需要添加双链的内容
 - 库中已有大量笔记，想要寻找其中潜在的双向链接
 
-建议搭配 Various Complements (<https://github.com/tadashi-aikawa/obsidian-various-complements-plugin>) 插件一同使用：
+建议搭配 Various Complements (<https://github.com/tadashi-aikawa/obsidian-various-complements-plugin)> 插件一同使用：
 
 - 使用本插件先建立库中双链
 - 使用 Various Complements 在未来输入时基于已有双链快速输入双链
@@ -78,9 +78,9 @@ modified: 20230101000000
 
 ## 如何使用
 
-![](https://raw.githubusercontent.com/Medill-East/IMGStorage/master/img/PicGo-Github-PicBed/202309292244046.png)
+![](https://cdn.pkmer.cn/covers/content-linker_1_0.png!pkmer)
 
-![](https://raw.githubusercontent.com/Medill-East/IMGStorage/master/img/PicGo-Github-PicBed/202309292246905.png)
+![](https://cdn.pkmer.cn/covers/content-linker_1_1.png!pkmer)
 
 1. 排除特定范围下的笔记
 - 可以通过输入相对路径来排除特定范围下的笔记，防止本插件对该路径下的内容进行改动
@@ -173,9 +173,9 @@ For Chinese instructions, please see [中文](#chinese).
 2. 将 `main.js`、`styles.css`、`manifest.json` 复制到你的 vault 文件夹 `VaultFolder/.obsidian/plugins/obsidian-content-linker/`。
 如何使用
 
-![](https://raw.githubusercontent.com/Medill-East/IMGStorage/master/img/PicGo-Github-PicBed/202309292244046.png)
+![](https://cdn.pkmer.cn/covers/content-linker_1_0.png!pkmer)
 
-![](https://raw.githubusercontent.com/Medill-East/IMGStorage/master/img/PicGo-Github-PicBed/202309292246905.png)
+![](https://cdn.pkmer.cn/covers/content-linker_1_1.png!pkmer)
 
 1. 排除特定范围内的笔记
 - 您可以通过输入相对路径来排除特定范围内的笔记，防止此插件对该路径内的内容进行更改。

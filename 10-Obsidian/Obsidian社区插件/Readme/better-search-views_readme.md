@@ -1,5 +1,5 @@
 ---
-uid: 2023082011353721
+uid: 2023120719234081
 title: Obsidian 插件：【Readme】Better Search Views
 tags: ['obsidian插件', 'readme']
 description: 升级全局搜索、反向链接和查询，使用类似大纲的上下文树。
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 升级全局搜索、反向链接和查询，使用类似大纲的上下文树。
 
-![Better Search Views](https://cdn.pkmer.cn/covers/better-search-views.gif!pkmer)
+![Better Search Views](https://cdn.pkmer.cn/covers/better-search-views.gif)
 
 > [!tip] 原文出处
 >
@@ -59,23 +59,23 @@ modified: 20230101000000
 - 如果匹配项在标题中，它会显示标题下面的第一个部分（你知道的，为了提供上下文）
 全局搜索的样子是这样的
 
-![image](https://github.com/ivan-lednev/better-search-views/assets/41428836/844d217f-2c70-42fa-83a3-d38d81294f6a)
+![image](https://cdn.pkmer.cn/covers/better-search-views_1_0.png!pkmer)
 
-![image](https://github.com/ivan-lednev/better-search-views/assets/41428836/94ee1165-4ee3-4af9-8031-fb4b7f13588c)
+![image](https://cdn.pkmer.cn/covers/better-search-views_1_1.png!pkmer)
 
 ### 这是文档中的反向链接
 
-![image](https://github.com/ivan-lednev/better-search-views/assets/41428836/2f5229bc-8d3d-4027-b01c-fa36d5872716)
+![image](https://cdn.pkmer.cn/covers/better-search-views_1_2.png!pkmer)
 
 ### 嵌入式查询
 
-![image](https://github.com/ivan-lednev/better-search-views/assets/41428836/bdf7fb5d-dcc2-4067-9abb-9c2064c09a27)
+![image](https://cdn.pkmer.cn/covers/better-search-views_1_3.png!pkmer)
 
 点击面包屑的效果与您所期望的一样。
 
 ### 按住控制键悬停在任何元素上会触发一个弹出窗口
 
-![image](hover-demo.gif)
+![image](https://cdn.pkmer.cn/covers/better-search-views_2_0.gif)
 
 如何使用它
 

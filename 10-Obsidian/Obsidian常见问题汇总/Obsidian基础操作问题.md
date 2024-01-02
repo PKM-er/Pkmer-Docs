@@ -7,10 +7,14 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231108105919
+modified: 20231214144142
 ---
 
 # Obsidian 基础操作
+
+如果以下内容还不能满足你：
+
+你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
 
 ## 安装
 
@@ -703,6 +707,7 @@ Obsidian 中实现标题自动编号，像 Word 一样，而不是我一个个�
 - 误删除了笔记文件
 	- 可以通过在回收站，或者你指定的 Obsidian 回收站（.trash）中找到
 	- 当然你也可以使用我们介绍过的插件强化这个功能 [[obsidian-trash-explorer]]
+- 如果是使用操作系统的文件移动，将笔记移动丢失，可以使用恢复类软件，进行文件恢复。
 
 ## 移动端
 

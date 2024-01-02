@@ -47,7 +47,7 @@ modified: 202308000758
 
 ## 相关资源
 
-[[BT 主题精华片段集合：Blue Topaz Legacy]]
+[[BT 主题精华片段集合-Blue Topaz Legacy]]
 [[Blue Topaz 示例库简介]]
 [[Blue Topaz主题style setting配置]]
 

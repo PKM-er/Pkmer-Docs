@@ -31,3 +31,4 @@ modified: 20230530231709
 - [[Obsidian更新]]
 - [[Obsidian设置]]
 - [[脑图和流程图]]
+- [[Obsidia+URI]]

@@ -3,12 +3,11 @@ uid: 20230329145845
 title: Obsidian 的 CSS 代码片段
 tags: [Obsidian, CSS, snippets, 外观, 主题]
 description: Obsidian 的 CSS 代码片段
-author: OS
+author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231128165013
-aliases: [Obsidian css代码片段]
+modified: 20231229172324
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -44,9 +43,11 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-像VSCode一样显示搜索替换框]]
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-悬浮两侧菜单栏]]
+- [[Obsidian样式-专注标签页边框]]
 
 ### 编辑器
 
+- [[Obsidian样式-标题-列表-图片美化]]
 - [[Obsidian样式-minimal主题Cards卡片布局]]
 - [[Obsidian样式-编辑模式下当前行高亮]]
 - [[Obsidian样式-加粗粗体样式优化]]
@@ -73,11 +74,13 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 图片
 
 - [[Obsidian样式-图片点击长按放大]]
+- [[Obsidian样式-调整图片不同布局样式]]
 
 ### callout
 
 - [[Obsidian样式-Callout样式]]
 - [[Obsidian样式-如何实现Blue-topaz自带类表格时间线样式]]
+- [[Obsidian样式-MCL Multi Column]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
@@ -96,6 +99,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian网址前自动加图标]]
 - [[Obsidian样式-修改内链的链接颜色]]
+- [[Obsidian样式-自定义链接前缀图标]]
 
 ### 文件管理器
 
@@ -125,6 +129,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 嵌入样式
 
 - [[Obsidian样式-简约的嵌入样式(Embed CSS)]]
+- [[Obsidian样式-修改悬浮预览框的大小]]
 
 ### 表格样式
 
@@ -154,6 +159,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-通过css修改安卓上的搜索框宽度]]
 - [[obsidian安卓上利用css修改界面字体]]
 
+### 语法拓展
+
+- [[Obsidian样式-调整HTML的detail样式为简单评论区]]
+
 ### 插件样式
 
 - [[Obsidian样式-Calendar插件的样式修改]]
@@ -162,11 +171,14 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+- [[Obsidian样式-可滚动的Dataview表格视图]]
 
 #### Thino
 
 - [[Obsidian样式-给Thino加个滚动条]]
 - [[Obsidian样式-给Thino搭配10种热力图颜色]]
+- [[Obsidian样式-Thino单文件时间轴样式]]
+- [[Obsidian样式-Thino 样式]]
 
 ## 自定义 CSS 简单上手指南
 

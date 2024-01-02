@@ -1,6 +1,6 @@
 ---
-uid: 2023080322252475
-title: Obsidian 插件：Quickly
+uid: 2023120719411141
+title: Obsidian 插件：【Readme】Quickly
 tags: ['obsidian插件', 'readme']
 description: 通过操作系统的快捷键快速导航和创建笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Quickly
+# Obsidian 插件：【Readme】Quickly
 
 > [!Note] 插件名片
 > - 插件名称：Quickly
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 快捷键启动此模态框。
 
-![演示](./demo.png)
+![演示](https://cdn.pkmer.cn/covers/quickly_2_0.png!pkmer)
 
 # 使用逻辑
 
@@ -73,7 +73,7 @@ modified: 20230101000000
 
 您可以使用 AutoHotkey 等工具来设置全局热键。按照以下步骤操作：
 
-1. 从<<https://www.autohotkey.com/安装> AutoHotkey。>
+1. 从<https://www.autohotkey.com/安装 AutoHotkey。>
 2. 创建一个带有扩展名 `.ahk` 的新文本文件，例如 `ObsidianQuickCapture.ahk`。
 3. 将以下脚本添加到文件中（将 `^!c` 替换为您喜欢的热键组合，例如 `^!c` 代表 Ctrl + Alt + C）：
 
@@ -89,7 +89,7 @@ return
 
 您可以使用 BetterTouchTool 或 Keyboard Maestro 等工具来设置全局热键。以下是使用 BetterTouchTool 的方法：
 
-1. 从<<https://folivora.ai/安装> BetterTouchTool。>
+1. 从<https://folivora.ai/安装 BetterTouchTool。>
 2. 打开 BetterTouchTool 并转到“所有应用程序”部分。
 3. 点击“+”按钮添加一个新的全局快捷键。
 4. 按下所需的热键组合。

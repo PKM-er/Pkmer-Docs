@@ -1,6 +1,6 @@
 ---
-uid: 2023080322230278
-title: Obsidian 插件：Note Refactor
+uid: 2023120719372066
+title: Obsidian 插件：【Readme】Note Refactor
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 把笔记内容提取到新的笔记中并分割笔记
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Note Refactor
+# Obsidian 插件：【Readme】Note Refactor
 
 > [!Note] 插件名片
 > - 插件名称：Note Refactor
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 把笔记内容提取到新的笔记中并分割笔记
 
-![Note Refactor](https://cdn.pkmer.cn/covers/note-refactor-obsidian_new.gif!pkmer)
+![Note Refactor](https://cdn.pkmer.cn/covers/note-refactor-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,6 @@ modified: 20230101000000
 
 # 注意重构
 
-![GitHub工作流状态](https://img.shields.io/github/workflow/status/lynchjames/note-refactor-obsidian/Release%20Build?logo=github&style=for-the-badge) ![GitHub发布（最新SemVer）](https://img.shields.io/github/v/release/lynchjames/note-refactor-obsidian?style=for-the-badge&sort=semver)
 
 该存储库包含一个用于 [Obsidian](https://obsidian.md/) 的插件，用于将选定的部分提取到新的笔记中。
 
@@ -98,7 +97,7 @@ modified: 20230101000000
 
 该命令将当前笔记按所选级别的每个标题（H1、H2 或 H3）拆分为一个新的笔记，并使用标题作为每个新笔记的文件名。
 
-![按标题拆分演示](https://raw.githubusercontent.com/lynchjames/note-refactor-obsidian/master/images/Note-Refactor-Demo-Split-by-Headings.gif)
+![按标题拆分演示](https://cdn.pkmer.cn/covers/note-refactor-obsidian_1_2.gif)
 
 ### 提取选择
 
@@ -118,7 +117,7 @@ modified: 20230101000000
 
 ## 配置
 
-![插件设置](https://raw.githubusercontent.com/lynchjames/note-refactor-obsidian/master/images/plugin-settings.png)
+![插件设置](https://cdn.pkmer.cn/covers/note-refactor-obsidian_1_3.png!pkmer)
 
 ### 新笔记的默认保存位置
 
@@ -161,7 +160,7 @@ modified: 20230101000000
 
 此设置适用于“仅首行文件名”或“仅内容”命令。
 
-![注释标题演示](https://raw.githubusercontent.com/lynchjames/note-refactor-obsidian/master/images/Note-Refactor-Demo-Include-First-Line-as-Note-Heading.gif)
+![注释标题演示](https://cdn.pkmer.cn/covers/note-refactor-obsidian_1_4.gif)
 
 ### 笔记链接模板
 

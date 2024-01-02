@@ -1,5 +1,5 @@
 ---
-uid: 2023082011354140
+uid: 2023120719250575
 title: Obsidian 插件：【Readme】Color Palette
 tags: ['obsidian插件', 'readme']
 description: 创建并插入颜色调色板到您的笔记中。
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 创建美丽且功能性的调色板，以增强您的笔记的外观。
 
-![调色板演示](ColorPaletteDemo.png)
+![调色板演示](https://cdn.pkmer.cn/covers/color-palette_2_0.png!pkmer)
 
 ## 主要特点
 
@@ -64,7 +64,7 @@ modified: 20230101000000
 
 还可以通过链接创建调色板。\
 
-*目前仅支持来自<https://coolors.co 和 https>:<//colorhunt.co 的 URL。>*
+* 目前仅支持来自<https://coolors.co 和 https://colorhunt.co 的 URL。*>
 
 <pre>
 ```palette

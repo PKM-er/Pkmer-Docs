@@ -1,6 +1,6 @@
 ---
-uid: 2023080322155317
-title: Obsidian 插件：Chord Lyrics
+uid: 2023120719244555
+title: Obsidian 插件：【Readme】Chord Lyrics
 tags: ['obsidian插件', 'readme']
 description: 在歌词上显示和弦名称。支持自动换行、节标题和自动检测。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Chord Lyrics
+# Obsidian 插件：【Readme】Chord Lyrics
 
 > [!Note] 插件名片
 > - 插件名称：Chord Lyrics
@@ -64,7 +64,7 @@ A     Cm      F     D7
 
 转换为
 
-![chord-example](doc/img/chord-example.png)
+![chord-example](https://cdn.pkmer.cn/covers/chord-lyrics_2_0.png!pkmer)
 
 ### 标题
 
@@ -80,7 +80,7 @@ A     Cm      F     D7
 
 变成
 
-![header-example](doc/img/header-example.png)
+![header-example](https://cdn.pkmer.cn/covers/chord-lyrics_2_1.png!pkmer)
 
 ### 标记行
 
@@ -95,7 +95,7 @@ I'm a changed person after reading this %t
 
 转换为
 
-![notwrapped-example](doc/img/manual-example.png)
+![notwrapped-example](https://cdn.pkmer.cn/covers/chord-lyrics_2_2.png!pkmer)
 
 ### 包装
 
@@ -117,8 +117,8 @@ A D A7 D        F- D   A7      D
 
 转化为
 
-![wrapped-example](doc/img/notwrapped-example.png)
+![wrapped-example](https://cdn.pkmer.cn/covers/chord-lyrics_2_3.png!pkmer)
 
 在较少的可用空间中，一切都会被包装
 
-![img.png](doc/img/wrapped-example.png)
+![img.png](https://cdn.pkmer.cn/covers/chord-lyrics_2_4.png!pkmer)

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322151469
-title: Obsidian 插件：BMO Chatbot
+uid: 2023120719235560
+title: Obsidian 插件：【Readme】BMO Chatbot
 tags: ['obsidian插件', 'readme']
 description: 通过使用大型语言模型（LLM），提高您的知识管理能力，使聊天机器人能够理解上下文并检索相关信息。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：BMO Chatbot
+# Obsidian 插件：【Readme】BMO Chatbot
 
 > [!Note] 插件名片
 > - 插件名称：BMO Chatbot
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 通过使用大型语言模型（LLM），如 OpenAI 的 "gpt-3.5-turbo" 和 "gpt-4"，改进您的知识管理，以理解上下文并检索相关信息。
 
-![屏幕截图-1](README_images/Screenshot-1.png)
+![屏幕截图-1](https://cdn.pkmer.cn/covers/bmo-chatbot_2_0.png!pkmer)
 
 <p align="center">
   <img src="README_images/Screenshot-2.png" alt="图像描述">
@@ -76,7 +76,7 @@ Beta Reviewers Auto-update Tester（[BRAT](https://github.com/TfTHacker/obsidian
 
 1. 在 Obsidian 社区插件中搜索“Obsidian42 - BRAT”。
 2. 打开命令面板，运行命令 BRAT: Add a beta plugin for testing（如果您希望插件版本被冻结，请使用命令 BRAT: Add a beta plugin with frozen version based on a release tag）。
-3. 粘贴“<https://github.com/longy2k/obsidian-bmo-chatbot”。>
+3. 粘贴“https://github.com/longy2k/obsidian-bmo-chatbot”。
 4. 点击“Add Plugin”。
 5. BRAT 确认安装后，在设置中转到 Community plugins 选项卡。
 6. 刷新插件列表。

@@ -24,7 +24,7 @@ modified: 20230101000000
 
 轻松追踪您的情绪和情感。可视化追踪历史并浏览过去的记录。
 
-![Mood Tracker](https://cdn.pkmer.cn/covers/mood-tracker.gif!pkmer)
+![Mood Tracker](https://cdn.pkmer.cn/covers/mood-tracker.gif)
 
 > [!tip] 原文出处
 >

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322185359
-title: Obsidian 插件：Frontmatter Links
+uid: 2023120719292732
+title: Obsidian 插件：【Readme】Frontmatter Links
 tags: ['obsidian插件', 'readme']
 description: 将笔记前文中的链接渲染为链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Frontmatter Links
+# Obsidian 插件：【Readme】Frontmatter Links
 
 > [!Note] 插件名片
 > - 插件名称：Frontmatter Links
@@ -43,11 +43,11 @@ modified: 20230101000000
 
 ## 没有前言链接
 
-![image](https://user-images.githubusercontent.com/29845000/201154400-5578fd30-cdba-48e2-8904-3f3ce9533d10.png)
+![image](https://cdn.pkmer.cn/covers/frontmatter-links_1_0.png!pkmer)
 
 ## 带有前置链接
 
-![image](https://user-images.githubusercontent.com/29845000/201154480-00c71a82-12f4-450a-b00c-8d643b014b05.png)
+![image](https://cdn.pkmer.cn/covers/frontmatter-links_1_1.png!pkmer)
 
 ## 安装
 

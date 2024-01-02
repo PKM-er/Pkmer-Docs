@@ -1,6 +1,6 @@
 ---
-uid: 2023080322282408
-title: Obsidian 插件：TimeStamper
+uid: 2023120719445608
+title: Obsidian 插件：【Readme】TimeStamper
 tags: ['obsidian插件', 'readme']
 description: 在当前光标位置插入自定义或预定义的时间戳或日期戳。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：TimeStamper
+# Obsidian 插件：【Readme】TimeStamper
 
 > [!Note] 插件名片
 > - 插件名称：TimeStamper
@@ -48,7 +48,7 @@ modified: 20230101000000
 - 两个格式字符串可以在插件设置中预先配置（并通过命令或热键插入）
 - 可以通过对话框插入即席自定义时间戳（最近使用的格式将被保存并提供为建议）
 
-![TimeStamper](res/dialog.png)
+![TimeStamper](https://cdn.pkmer.cn/covers/obsidian-timestamper_2_0.png!pkmer)
 
 支持 Obsidian 的桌面和移动版本。
 
@@ -60,7 +60,7 @@ modified: 20230101000000
 - 一个用于快速插入日期时间戳的默认模板字符串（通过命令或可配置的热键）
 - 一个选项，用于指定是否在插入时间/日期时间戳后自动添加换行符
 
-![PluginSettings](res/settings.png)
+![PluginSettings](https://cdn.pkmer.cn/covers/obsidian-timestamper_2_1.png!pkmer)
 
 ## 快捷键配置
 
@@ -70,7 +70,7 @@ modified: 20230101000000
 - 插入预定义的时间戳
 - 插入预定义的日期戳
 
-![快捷键](res/hotkeys.png)
+![快捷键](https://cdn.pkmer.cn/covers/obsidian-timestamper_2_2.png!pkmer)
 
 格式字符串
 

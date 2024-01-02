@@ -1,13 +1,13 @@
 ---
 uid: 20230916144220
 title: Dataview 语法实战：FLATTEN 操作符进阶示例
-tags: []
+tags: [obsidian, dataview]
 description: 
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231007232838
+modified: 20231209174817
 ---
 
 # Dataview 语法实战：FLATTEN 操作符进阶示例

@@ -1,5 +1,5 @@
 ---
-uid: 2023102611075305
+uid: 2023120719290407
 title: Obsidian 插件：【Readme】Fold Anywhere
 tags: ['obsidian插件', 'readme']
 description: 设置起始和结束标记，然后在实时预览模式下可以在任何地方折叠文本。
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 设置起始和结束标记，然后在实时预览模式下可以在任何地方折叠文本。
 
-![Fold Anywhere](https://cdn.pkmer.cn/covers/fold-anywhere.gif!pkmer)
+![Fold Anywhere](https://cdn.pkmer.cn/covers/fold-anywhere.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，可以让你在任何地方折叠文本。
 
-![Fold-AnyWhere](./assets/Fold-Anywhere.gif)
+![Fold-AnyWhere](https://cdn.pkmer.cn/covers/fold-anywhere_2_0.gif)
 
 ## 使用方法
 

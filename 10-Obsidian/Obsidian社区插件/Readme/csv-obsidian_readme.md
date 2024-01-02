@@ -1,6 +1,6 @@
 ---
-uid: 2023080322164774
-title: Obsidian 插件：CSV Editor
+uid: 2023120719255610
+title: Obsidian 插件：【Readme】CSV Editor
 tags: ['编辑器', 'obsidian插件', 'readme']
 description: 在Obsidian中编辑CSV文件
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：CSV Editor
+# Obsidian 插件：【Readme】CSV Editor
 
 > [!Note] 插件名片
 > - 插件名称：CSV Editor
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 **备份你的 CSV 文件！** 这个插件非常新，因此是实验性的。在这个阶段，数据丢失是非常真实的可能性！
 
-![截图](https://github.com/deathau/csv-obsidian/raw/main/screenshot.png)
+![截图](https://cdn.pkmer.cn/covers/csv-obsidian_1_2.png!pkmer)
 
 ### 特点
 
@@ -74,7 +74,6 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
-
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api)，以 Typescript 定义格式提供，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -88,7 +87,6 @@ modified: 20230101000000
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将仓库克隆到插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
-
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 定价

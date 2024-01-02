@@ -66,7 +66,7 @@ function dotAccess(str, obj) {
 
 现在可以在模板中使用此函数：
 
-_(此示例取自<<https://github.com/vanakat/zotero-bridge/pull/2>)_>
+_(此示例取自<https://github.com/vanakat/zotero-bridge/pull/2>)_>
 
 ```
 <%* const zi = await tp.user.zotero() %>

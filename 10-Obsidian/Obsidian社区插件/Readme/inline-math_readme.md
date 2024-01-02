@@ -1,5 +1,5 @@
 ---
-uid: 2023102611081737
+uid: 2023120719371054
 title: Obsidian 插件：【Readme】No more flickering inline math
 tags: ['obsidian插件', 'readme']
 description: 不再被Obsidian中闪烁的行内数学所干扰。
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 不再被 Obsidian 中闪烁的行内数学所干扰。
 
-![No more flickering inline math](https://cdn.pkmer.cn/covers/inline-math.gif!pkmer)
+![No more flickering inline math](https://cdn.pkmer.cn/covers/inline-math.gif)
 
 > [!tip] 原文出处
 >
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 关闭状态               | 打开状态
 :-----------------------:|:------------------------:
-![关闭状态](fig/off.gif) | ![打开状态](fig/on.gif)
+![关闭状态](fig/off.gif) | ![打开状态](https://cdn.pkmer.cn/covers/inline-math_2_0.gif)
 
 感谢那些在 [论坛](https://forum.obsidian.md/t/inline-math-allow-white-spaces-before-closing-dollar-signs/63551) 上分享他们的想法的人！
 

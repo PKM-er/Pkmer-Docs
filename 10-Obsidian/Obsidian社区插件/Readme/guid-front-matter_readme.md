@@ -44,7 +44,7 @@ modified: 20230101000000
 
 Obsidian 文档
 
-请参阅<<https://github.com/obsidianmd/obsidian-api> 和 <https://docs.obsidian.md/Plugins/Releasing/Plugin+guidelines>>
+请参阅<https://github.com/obsidianmd/obsidian-api> 和 <https://docs.obsidian.md/Plugins/Releasing/Plugin+guidelines>
 
 制作一个发布版本
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023080322245858
-title: Obsidian 插件：PostgreSQL Obsidian
+uid: 2023120719404578
+title: Obsidian 插件：【Readme】PostgreSQL Obsidian
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记的元数据上传到PostgreSQL数据库
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：PostgreSQL Obsidian
+# Obsidian 插件：【Readme】PostgreSQL Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：PostgreSQL Obsidian
@@ -78,7 +78,7 @@ modified: 20230101000000
 
 这是我制作的用于监控个人健康的 Grafana 仪表板的截图：
 
-![使用postgresql-obsidian插件生成的数据制作的clouedoc健康的Grafana仪表板截图，显示了一个良好的生活方式的图表。](./assets/grafana-dashboard.png)
+![使用postgresql-obsidian插件生成的数据制作的clouedoc健康的Grafana仪表板截图，显示了一个良好的生活方式的图表。](https://cdn.pkmer.cn/covers/postgresql-obsidian_2_0.png!pkmer)
 
 ## 贡献
 

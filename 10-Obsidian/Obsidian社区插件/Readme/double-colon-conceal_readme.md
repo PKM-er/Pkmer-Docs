@@ -1,6 +1,6 @@
 ---
-uid: 2023080322172714
-title: Obsidian 插件：Double Colon Conceal
+uid: 2023120719265623
+title: Obsidian 插件：【Readme】Double Colon Conceal
 tags: ['obsidian插件', 'readme']
 description: 在阅读视图（预览模式）中，将双冒号（即Dataview内联字段）显示为单冒号，以获得更自然的体验。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Double Colon Conceal
+# Obsidian 插件：【Readme】Double Colon Conceal
 
 > [!Note] 插件名片
 > - 插件名称：Double Colon Conceal
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 默认情况下，编辑视图中的双冒号隐藏功能是关闭的。如果您希望使用该功能，请在插件设置中将其打开。当激活时，双冒号在实时预览中也会被隐藏。
 
-![编辑视图示例](https://raw.githubusercontent.com/msrch/obsidian-double-colon-conceal/master/example-editing-view.gif)
+![编辑视图示例](https://cdn.pkmer.cn/covers/double-colon-conceal_1_2.gif)
 
 以下情况下不会隐藏双冒号：
 
@@ -57,7 +57,7 @@ modified: 20230101000000
 
 隐藏的双冒号（单冒号）具有 `.cm-double-colon-conceal` CSS 类，可以用于添加自定义样式。下面的示例中使用了红色文本颜色进行演示。
 
-![样式示例](https://raw.githubusercontent.com/msrch/obsidian-double-colon-conceal/master/example-custom-style.png)
+![样式示例](https://cdn.pkmer.cn/covers/double-colon-conceal_1_3.png!pkmer)
 
 安装
 

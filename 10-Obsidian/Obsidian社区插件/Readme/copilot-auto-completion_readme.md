@@ -1,5 +1,5 @@
 ---
-uid: 2023102611073732
+uid: 2023120719252809
 title: Obsidian 插件：【Readme】Copilot auto completion
 tags: ['obsidian插件', 'readme']
 description: 使用ChatGPT API，为Obsidian添加一个高度可配置的类似副驾驶的自动补全功能。
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 ChatGPT API，为 Obsidian 添加一个高度可配置的类似副驾驶的自动补全功能。
 
-![Copilot auto completion](https://cdn.pkmer.cn/covers/copilot-auto-completion.gif!pkmer)
+![Copilot auto completion](https://cdn.pkmer.cn/covers/copilot-auto-completion.gif)
 
 > [!tip] 原文出处
 >
@@ -71,7 +71,7 @@ modified: 20230101000000
 
 插件将直接发出预测请求并显示建议。
 
-![prediction_quick_action](assets/type_hint_prediction.gif)
+![prediction_quick_action](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_0.gif)
 
 如果你正在处理一个隐私敏感的文档，可能不希望与 API 提供商共享其内容。
 
@@ -87,7 +87,7 @@ modified: 20230101000000
 
 当你想要再次启用插件时，可以使用 "Obsidian Copilot: Enable" 快速操作。
 
-![disable](assets/disable_quick_action.jpg)
+![disable](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_1.jpeg!pkmer)
 
 ## 安装
 
@@ -105,7 +105,7 @@ modified: 20230101000000
 8. 关闭设置窗口。
 9. 您现在可以开始使用该插件了。
 
-![settings](assets/settings_demo.gif)
+![settings](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_2.gif)
 
 它是如何工作的？
 
@@ -212,7 +212,7 @@ $$
 因此，您应该找到适合自己的这两个因素之间的平衡点。
 
 以下图表显示了状态之间的关系和转换：
-![states](assets/state_diagram.jpg)
+![states](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_3.jpeg!pkmer)
 个性化和设置
 该插件被设计为高度可定制的。
 您可以自定义以下插件的方面。
@@ -272,7 +272,7 @@ LLM模型还有一些可以调整的超参数。
 - 链式思维删除正则表达式：该正则表达式从响应中删除所有与答案无关的文本。如果没有正确执行此操作，可能会在建议中得到意外的文本。
 - 用户消息模板：该模板用于生成在建议中显示的用户消息。它确定了前缀、掩码和后缀如何组合成一个单一的消息。
 
-![system_prompt](assets/system_message_settings.jpg)
+![system_prompt](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_4.jpeg!pkmer)
 自定义少样本示例
 
 在[模型](#model)部分，我们展示了如何利用少样本示例来改进模型的预测结果。
@@ -284,7 +284,7 @@ LLM模型还有一些可以调整的超参数。
 - **人类消息**：这是我们想要给模型的输入。这是一个包含`<mask/>`之前和之后文本的示例文档。
 - **辅助消息**：这是一个适当回应的示例答案。这个答案应该与系统提示和思路链的移除正则表达式一致。
 
-![few_shot_examples](assets/few_shot_example_settings.jpg)
+![few_shot_examples](https://cdn.pkmer.cn/covers/copilot-auto-completion_2_5.jpeg!pkmer)
 ## 本地开发
 要在本地开发插件，可以按照以下步骤进行操作：
 

@@ -1,16 +1,16 @@
 ---
-uid: 20230822233837
-title: Obsidian 插件：Mixa
+uid: 2023120719364559
+title: Obsidian 插件：【Readme】Mixa
 tags: ['obsidian插件', 'readme']
 description: 直接从Obsidian发布您的笔记和博客文章到Mixa。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230922100601
+modified: 20230101000000
 ---
 
-# Obsidian 插件：Mixa
+# Obsidian 插件：【Readme】Mixa
 
 > [!Note] 插件名片
 > - 插件名称：Mixa
@@ -67,11 +67,11 @@ draft: true
 
 ### 使用 Obsidian
 
-[![Mixa Obsidian演示](./mixa_obs_thumbnail.png)](https://youtu.be/FrvZd2pdX-g)
+[![Mixa Obsidian演示](https://cdn.pkmer.cn/covers/mixa_2_0.png!pkmer)](https://youtu.be/FrvZd2pdX-g)
 
 ### 使用.zip 文件
 
-[![Mixa演示](./mixa_thumbnail.png)](https://youtu.be/-Ylp5Dm9sVo)
+[![Mixa演示](https://cdn.pkmer.cn/covers/mixa_2_1.png!pkmer)](https://youtu.be/-Ylp5Dm9sVo)
 
 ## 如何使用
 
@@ -80,11 +80,11 @@ draft: true
 3. 在仪表盘的站点设置中生成一个秘密令牌
 4. 将令牌粘贴到 Obsidian Mixa 插件中并发布您的站点
 5. 一旦设置了 Obsidian-Mixa 集成，您还可以使用发布按钮一键发布您的更改
-![](./publish-icon.png)
+![](https://cdn.pkmer.cn/covers/mixa_2_2.png!pkmer)
 
 您专注于内容，我们来处理其他事务
 
-在您自己的域名下创建一个快速、美观且具有出色 SEO 的网站。将您的笔记或博客文章带来，并在几秒钟内发布。使用实时预览编辑器启用您需要的功能。无需编码。使用您喜欢的工具（如 Obsidian）进行写作。
+在您自己的域名下创建一个快速、美观且具有出色 SEO 的网站。将您的笔记或博客文章带来，并在几秒钟内发布。使用实时预览编辑器启用您需要的功能。无需编码。使用您喜欢的工具（如 Obisidian）进行写作。
 
 ### 一键发布
 

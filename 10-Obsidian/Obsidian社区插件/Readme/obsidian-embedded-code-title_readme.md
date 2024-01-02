@@ -1,6 +1,6 @@
 ---
-uid: 2023080322174518
-title: Obsidian 插件：Embedded Code Title
+uid: 2023120719272783
+title: Obsidian 插件：【Readme】Embedded Code Title
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这是一个 Obsidian 插件，可以将标题嵌入到代码块中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Embedded Code Title
+# Obsidian 插件：【Readme】Embedded Code Title
 
 > [!Note] 插件名片
 > - 插件名称：Embedded Code Title
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这是一个 Obsidian 插件，可以将标题嵌入到代码块中。
 
-![Embedded Code Title](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title.gif!pkmer)
+![Embedded Code Title](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title.gif)
 
 > [!tip] 原文出处
 >
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 **⚠ 由于依赖于 Obsidian 的内部 DOM 结构，该插件有可能在某些时候无法正常工作。**
 
-![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/demo.gif)
+![演示](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_2.gif)
 
 ## 🖋 示例
 
@@ -62,7 +62,7 @@ def main():
 
 ↓
 
-![img.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img.png)
+![img.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_3.png!pkmer)
 
 ### 没有文件名，但显示语言名称
 
@@ -75,7 +75,7 @@ def main():
 
 ↓
 
-![img_1.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img_1.png)
+![img_1.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_4.png!pkmer)
 
 ### 带有文件名
 
@@ -88,13 +88,13 @@ def main():
 
 ↓
 
-![img_2.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img_2.png)
+![img_2.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_5.png!pkmer)
 
 ### 文件名包含半个空格
 
 如果您配置如下。
 
-![img_4.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img_4.png)
+![img_4.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_6.png!pkmer)
 
 然后
 
@@ -107,7 +107,7 @@ def main():
 
 ↓
 
-![img_3.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img_3.png)
+![img_3.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_7.png!pkmer)
 
 🌍 在 Obsidian Publish 上使用
 

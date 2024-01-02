@@ -24,7 +24,7 @@ modified: 20230101000000
 
 支持笔记面板的堆叠模式。该模式官方已经支持。
 
-![Sliding Panes (Andy Matuschak Mode)](https://cdn.pkmer.cn/covers/sliding-panes-obsidian_new.gif!pkmer)
+![Sliding Panes (Andy Matuschak Mode)](https://cdn.pkmer.cn/covers/sliding-panes-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
