@@ -1,18 +1,13 @@
 ---
 uid: 20231229235957
-title: Lyrics插件样式-音乐播放界面美化
-tags:
-  - Obsidian
-  - css
-  - 美化
-  - Lyrics
-  - 音乐
+title: Lyrics 插件样式 - 音乐播放界面美化
+tags: [Obsidian, css, 美化, Lyrics, 音乐]
 description: 美化 Lyrics 插件的歌词界面
 author: ProudBenzene
 type: advanced
 draft: false
 editable: false
-modified: 20231230000142
+modified: 20240103230809
 ---
 
 # Lyrics 插件样式 - 音乐播放界面美化
@@ -55,7 +50,6 @@ body.colorful-link-animation :is(.markdown-preview-view,.markdown-rendered) .lyr
 > 1. 增加了歌词字体自定义选项
 > 2. 鼠标悬浮在时间戳上时时间戳会呈彩色变换
 > 3. 彩虹色歌词高亮
-
 
 ## 效果展示
 

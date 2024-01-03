@@ -7,7 +7,7 @@ author: PKMer,OS
 type: awesome
 draft: false
 editable: false
-modified: 20231228161603
+modified: 20240102144734
 ---
 
 # PKMer 社区运营日志
@@ -53,8 +53,8 @@ modified: 20231228161603
 ### 关于医学库
 
 - 姜老师的医学词根库受益，如页面所说 [医学英语词根词缀分类数据库](https://pkmer.cn/products/englishVault/) ，PKMer 社区会基于大家知道的原因，全部受益给到作者，具体原因大家可以自行区了解。
-- 23 年 11 月份受益全部完成转交。
-- 23 年 12 月份受益移交，进行中。
+- 23 年 11 月份收益全部完成转交。
+- 23 年 12 月份收益全部完成转交。
 
 ## 服务异常日志
 

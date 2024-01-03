@@ -1,22 +1,24 @@
 ---
 uid: 20230913172534
 title: Thino 2.X （原名 Obsidian memos）更新记录
-tags: [memos]
+tags: [Obsidian, Thino, memos]
 description: Obsidian 插件 Thino 2.X 更新记录
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231227164030
+modified: 20240102145855
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
 
 # Thino 2.X 更新记录
 
-需要请加入内侧体验
+需要请加入内侧体验，[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
 
-[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
+### Thino 2.1.6 2023.12.28
+
+- 修复移动端异常
 
 ## Thino 2.1.5 2023.12.27
 
