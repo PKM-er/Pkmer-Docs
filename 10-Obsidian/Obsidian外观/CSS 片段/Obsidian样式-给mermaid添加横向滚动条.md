@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20240103230706
+modified: 20240104144535
 ---
 
 # Obsidian 样式 - 给 mermaid 添加横向滚动条
@@ -26,14 +26,17 @@ modified: 20240103230706
 
 ```
 .cm-preview-code-block.cm-embed-block.markdown-rendered {
-	overflow: scroll;
-}
-div.mermaid {
-	width: 102%;
-	overflow: scroll;
+	width: 102% !important;
+    overflow: scroll !important;
+    scroll-behavior: smooth !important;
 }
 
 .markdown-source-view.mod-cm6 .cm-content > [contenteditable=false] {
-	overflow:unset;
+    overflow: scroll;
+}
+
+@media (hover: hover)
+.markdown-source-view.mod-cm6 .cm-embed-block:not(.cm-table-widget):hover {
+	overflow:unset  !important;
 }
 ```

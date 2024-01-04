@@ -7,14 +7,14 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20240103232706
+modified: 20240104120528
 ---
 
 # Obsidian 插件：Obsidian Camera 给你的笔记增加照相记录功能
 
 ## 概述
 
-可以通过你对应设备谁想投，拍摄照片和视频记录，将其保存在仓库中，并创建并
+可以通过你对应设备的摄像头，拍摄照片和视频记录，将其保存在仓库中，并创建并
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Camera
@@ -49,13 +49,10 @@ modified: 20240103232706
 
 ## 演示
 
-![obsidian camera](https://cdn.pkmer.cn/covers/obsidian-camera_1_0.gif) 
+![obsidian camera](https://cdn.pkmer.cn/covers/obsidian-camera_1_0.gif)
 
 ![obsidian camera](https://cdn.pkmer.cn/covers/obsidian-camera_2_0.gif)
 
 ![modal screenshot](https://cdn.pkmer.cn/covers/obsidian-camera_2_1.png!pkmer)
 
-![modal screenshot](https://cdn.pkmer.cn/covers/obsidian-camera_1_1.png!pkmer) 
-
-
-
+![modal screenshot](https://cdn.pkmer.cn/covers/obsidian-camera_1_1.png!pkmer)
