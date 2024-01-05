@@ -83,6 +83,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[cm-show-whitespace-obsidian]]：在编辑器中显示空白和制表符
 - [[fantasy-name]]：插入一个随机组合出来的人名
 - [[html-tabs]]：在笔记中创建和渲染选项卡和标签面板
+- [[slash-commander]]：定制 slash 命令列表。
 
 ### 格式化
 
