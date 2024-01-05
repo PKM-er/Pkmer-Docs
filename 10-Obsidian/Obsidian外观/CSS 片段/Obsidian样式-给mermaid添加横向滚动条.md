@@ -1,20 +1,20 @@
 ---
 uid: 20240103230235
-title: Obsidian 样式 - 给 mermaid 添加横向滚动条
+title: Obsidian 样式 - 给 Mermai 添加横向滚动条
 tags: [Obsidian, mermaid, 样式]
-description: 
+description: Obsidian 样式 - 给 Mermai 添加横向滚动条
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20240104144535
+modified: 20240105103920
 ---
 
-# Obsidian 样式 - 给 mermaid 添加横向滚动条
+# Obsidian 样式 - 给 Mermai 添加横向滚动条
 
-今天在 PKMer 交流群里面，有粉丝提到了 mermaid。虽然 Obsidian 默认支持 mermaid，并且对于一定大小的 mermaid 会自动缩放。
+今天在 PKMer 交流群里面，有粉丝提到了 Mermaid。虽然 Obsidian 默认支持 Mermaid，并且对于一定大小的 Mermaid 会自动缩放。
 
-但当你实际遇到大图，自动缩放尺寸又太小时，查看会变得不方便。于是乎就产生了这个诉求，能否给 mermaid 块增加横向滚动条，在 mermaid 图形较大时，可以横向拖动来查看。
+但当你实际遇到大图，自动缩放尺寸又太小时，查看会变得不方便。于是乎就产生了这个诉求，能否给 Mermaid 块增加横向滚动条，在 Mermaid 图形较大时，可以横向拖动来查看。
 
 ## 效果
 

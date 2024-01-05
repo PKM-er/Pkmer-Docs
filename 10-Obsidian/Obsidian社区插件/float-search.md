@@ -1,16 +1,20 @@
 ---
-uid: 2023120719284172
-title: Obsidian 插件：【Readme】Floating Search
+uid: 20231213114101
+title: Obsidian 插件：Floating Search 给 Obsidian 增加悬浮搜索功能
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian默认的搜索视图来搜索文本。
-author: AI
-type: readme
+author: OS
+type: other
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20240105182636
 ---
 
-# Obsidian 插件：【Readme】Floating Search
+# Obsidian 插件：Floating Search 给 Obsidian 增加悬浮搜索功能
+
+## 概述
+
+生成一个悬浮搜索面板，并且支持使用 Obsidian 默认的搜索视图和规则来搜索你希望的内容。
 
 > [!Note] 插件名片
 > - 插件名称：Floating Search
@@ -20,32 +24,14 @@ modified: 20230101000000
 > - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Float-Search)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?float-search)
 
-## 概述
-
-使用 Obsidian 默认的搜索视图来搜索文本。
+## 效果&特性
 
 ![Floating Search](https://cdn.pkmer.cn/covers/float-search.png!pkmer)
 
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Float-Search/master/README.md)
->
-
----
-
-## Readme(翻译）
-
-下面是 [[float-search]] 插件的自述翻译
-
-# Obsidian 浮动搜索
-
-现在您可以在模态窗口中使用搜索视图。
-
-![float-search.png](https://cdn.pkmer.cn/covers/float-search_2_0.png!pkmer)
-
+- 现在你可以在模态窗口中使用搜索视图。
 - 设置快捷键以快速打开浮动搜索。
 
-使用说明 | Usage
+## 使用
 
 1. **三个主要命令**：
     - `全局搜索 Obsidian`：搜索所有全局内容，每次搜索后输入的字符会自动清除；
@@ -73,7 +59,3 @@ modified: 20230101000000
 4. **右键菜单可以快速搜索选定的文本**；
 5. **有一个默认的 `obsidian://fs?query=xxxxxx` URI 命令，可以从外部调用 Float 搜索**；
 6. **当点击预览文件页面中的导航时，当前预览文件页面将自动替换**。
-
-## 支持
-
-如果您喜欢这个插件，请通过在 [https://www.buymeacoffee.com/boninall](https://www.buymeacoffee.com/boninall) 上给我买杯咖啡来支持我的工作和热情。
