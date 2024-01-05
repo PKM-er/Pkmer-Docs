@@ -4,10 +4,10 @@ title: 开始 Quicker 吧
 tags: [Quicker, 教程, 编程]
 description: 本文将从三个方面介绍 Quicker 的功能，并给大家推荐一些好用的、可以与 Obsidian 搭配使用的 Quicker 动作。
 author: ImmortalSty
-type: other
+type: awesome
 draft: false
 editable: true
-modified: 20240105203452
+modified: 20240105203946
 ---
 
 # 开始 Quicker 吧
