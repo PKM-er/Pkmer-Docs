@@ -1,41 +1,28 @@
 ---
-uid: 2023120719271211
-title: Obsidian 插件：【Readme】Easy toggle sidebars
-tags: ['obsidian插件', 'readme']
-description: 切换两侧边栏（双击中键或使用自定义快捷键），或者通过点击中键并将鼠标移向相应的边栏来切换每个边栏。
-author: AI
-type: readme
+uid: 20231213114101
+title: Obsidian 插件：Easy toggle sidebars 快速开关侧边栏
+tags: ['obsidian插件']
+description: Obsidian 插件：Easy toggle sidebars 切换两侧边栏（双击中键或使用自定义快捷键），或者通过点击中键并将鼠标移向相应的边栏来切换每个边栏
+author: OS
+type: other
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20240105181844
 ---
 
-# Obsidian 插件：【Readme】Easy toggle sidebars
+# Obsidian 插件：Easy toggle sidebars 快速开关侧边栏
+
+## 概述
+
+我把这个插件理解成聚焦模式的另一种实现方式，此插件可以帮你实现开关两侧边栏。通过双击中键或使用自定义快捷键，或者通过点击中键并将鼠标移向相应的边栏来切换每个边栏。
 
 > [!Note] 插件名片
 > - 插件名称：Easy toggle sidebars
 > - 插件作者：1C0D
 > - 插件说明：切换两侧边栏（双击中键或使用自定义快捷键），或者通过点击中键并将鼠标移向相应的边栏来切换每个边栏。
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/1C0D/obsidian-easy-toggle-sidebars)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?easy-toggle-sidebars)
-
-## 概述
-
-切换两侧边栏（双击中键或使用自定义快捷键），或者通过点击中键并将鼠标移向相应的边栏来切换每个边栏。
-
-![Easy toggle sidebars](https://cdn.pkmer.cn/covers/easy-toggle-sidebars_new.gif)
-
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/1C0D/obsidian-easy-toggle-sidebars/master/README.md)
->
-
----
-
-## Readme(翻译）
-
-下面是 [[easy-toggle-sidebars]] 插件的自述翻译
 
 # 简单切换侧边栏
 

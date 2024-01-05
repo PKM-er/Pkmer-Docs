@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240103233005
+modified: 20240105182739
 ---
 
 # Obsidian 社区插件
@@ -119,12 +119,13 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[lapel]]：在标题旁边显示标题等级
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
 
-### 图像
+### 图像&图表
 
 这些插件致力于大幅强化 Obsidian 笔记中图片的操作体验，并提供诸多实用功能，例如方便地查看和管理笔记中的图片，将网络图片集成到本地，等等。这些插件都极大地丰富了 Obsidian 用户的图片使用体验，使用户可以更加方便地在笔记中插入、编辑和排序图片，并提高他们的使用效率。此外，它们还提供了许多高级功能和实用性的工具，例如图片大小调整、编辑、居中、旋转，以及自动生成文件名等。每一个细节都经过了认真优化，让用户可以获得更为舒适顺畅的图片使用体验。
 
 - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
 - [[awesome-image]]：提供笔记中查看图片的基本操作
+- [[obsidian-charts]]：为 Obsidian 中的笔记增加一个图表功能
 - [[Copy-Image-and-URL-context-menu]]：为图片增加右键菜单，并提供了一些新功能，包括复制图像，复制网址等。
 - [[obsidian-image-captions]]：给图片增加说明题注，更新，功能更多
 - [[obsidian-image-caption]]：给图片增加说明题注
@@ -203,6 +204,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 对于那些每天需要处理大量信息和笔记的用户来说，搜索是一个不可或缺的工具。为了满足用户不同的需求，在 Obsidian 中推出了多个强大的搜索插件，方便用户快速、准确地查找和管理笔记。这些插件操作简单、功能多样，可以根据关键字、标签、时间戳等多种方式进行搜索，快速定位笔记。此外，某些插件还支持高级搜索、全文搜索、模糊搜索等功能，让你更加轻松地处理大量信息和笔记。
 
+- [[float-search]]：给 Obsidian 增加悬浮搜索功能
 - [[fuzzy-chinese-pinyin]]：基于汉语拼音进行模糊搜索
 - [[search-on-internet]]：快速在搜索引擎中搜索笔记内容
 - [[search-obsidian-in-google]]：让你在谷歌搜索中搜索 Obsidian 中的笔记
@@ -313,9 +315,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
 - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
 - [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
+- [[easy-toggle-sidebars]]：通过自定义按键和手势，达成快速开关侧边栏
 - [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
 - [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
-- [[easy-toggle-sidebars_readme]]：便捷的控制侧边栏
+- [[easy-toggle-sidebars]]：便捷的控制侧边栏
 - [[obsidian-sidebar-toggler]]：Obsidian 侧边栏的更精细的控制。用于外部窗口管理器。
 - [[Tab-Switcher]]：使用 Ctrl + Tab 按最近使用的顺序切换选项卡，就像在浏览器中一样
 - [[Vertical-Tabs-View]]：供垂直选项卡视图选项卡可以排序，但更改不会与原始选项卡同步
@@ -368,6 +371,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
 - [[emoji-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入
 - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
+- [[emoji-titler]]：为笔记标题快速增加 emoji
 - [[obsidian-icon-swapper]]：替换默认内置图标集合准备的，可以批量替换，也可以针对某个单一图标进行替换
 - [[emoji-magic]]：允许使用关键字搜索 emoji 表情符号，轻松添加到笔记中
 

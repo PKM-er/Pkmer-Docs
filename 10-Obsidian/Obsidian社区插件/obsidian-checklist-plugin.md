@@ -3,11 +3,11 @@ uid: 20230905122302
 title: Obsidian 插件：Checklist 自动提取各个笔记中的代办清单
 tags: [任务管理, 效率, obsidian插件]
 description: 将所有笔记待办清单合并到一个视图中，你可以在这个视图种管理和完成相关的任务
-author: AI
-type: readme
+author: OS
+type: other
 draft: false
 editable: false
-modified: 20230905141540
+modified: 20240105184521
 ---
 
 # Obsidian 插件：Checklist 自动提取各个笔记中的代办清单
