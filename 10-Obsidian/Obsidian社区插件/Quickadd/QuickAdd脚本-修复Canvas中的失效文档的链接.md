@@ -10,6 +10,8 @@ editable: false
 modified: 20240107000410
 ---
 
+![QuickAdd 脚本 - 修复 Canvas 中的失效文档的链接](https://cdn.pkmer.cn/images/202401070352024.png!pkmer)
+
 # QuickAdd 脚本 - 修复 Canvas 中的失效文档的链接
 
 针对 Canvas 中大量失效的笔记或文件进行修复的脚本，借用 Quickadd 的 Capture 进行运行。
