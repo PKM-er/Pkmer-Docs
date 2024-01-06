@@ -3,18 +3,18 @@ uid: 20231229165015
 title: Obsidian URI
 tags: [Link, URI, 基础使用]
 description: 
-author: 
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240102145628
+modified: 20240106234005
 ---
 
-> 原文来自 [Obsidian URI - Obsidian Help](https://help.obsidian.md/Concepts/Obsidian+URI)
+> [!cite] 原文来自 [Obsidian URI - Obsidian Help](https://help.obsidian.md/Concepts/Obsidian+URI)
 
 # Obsidian URI
 
-Obsidian URI 是 Obsidian 支持的自定义 URI 协议，可让您触发各种操作，例如打开便笺或创建便笺。
+Obsidian URI 是 Obsidian 支持的自定义 URI 协议，可让您触发各种操作，例如打开笔记或创建笔记。
 
 Obsidian URI 通常采用以下格式：
 
@@ -24,7 +24,7 @@ obsidian://action?param1=value&param2=value
 
 - `action` 参数是您要执行的操作。
 
-> [!caution]+ Encoding 编码
+> [!caution] Encoding 编码
 > 确保您的值经过正确的 **URI 编码**。例如，正斜杠字符 `/` 必须编码为 `%2F`，空格字符必须编码为 `%20`。这一点尤其重要，因为编码不正确的“保留”字符可能会破坏 URI 的解释，请参考：[Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)。
 
 ## 注册 Obsidian URI
@@ -50,7 +50,7 @@ obsidian://action?param1=value&param2=value
 - `obsidian://open?vault=my%20vault&file=my%20note` 假设文件存在，这将打开库 `my vault` 中的注释 `my note.md`。
 - `obsidian://open?path=%2Fhome%2Fuser%2Fmy%20vault%2Fpath%2Fto%2Fmy%20note` 这将查找包含路径 `/home/user/my vault/path/to/my note` 的任何保管库。然后，路径的其余部分将传递给 `file` 参数。例如，如果库存在于 `/home/user/my vault`，则这相当于将 `file` 参数设置为 `path/to/my note`。
 
-> [!tip]+ 打开标题 (head) 或者块 (block)
+> [!tip] 打开标题 (head) 或者块 (block)
 > 通过正确的 **URI 编码**，您可以导航到注释中的标题或块。`Note%23Heading` 将导航到名为“Heading”的标题，而 `Note%23%5EBlock` 将导航到名为“Block”的块。
 
 ### 参数 (Parameters)
@@ -130,7 +130,7 @@ obsidian://action?param1=value&param2=value
 
 除了上述格式之外，还有两种“Shorthand”格式可用于打开保管库和文件：
 
-1. obsidian://vault/my vault/my note` 相当于 `obsidian://open?vault=my%20vault&file=my%20note`。
+1. `obsidian://vault/my vault/my note` 相当于 `obsidian://open?vault=my%20vault&file=my%20note`。
 2. `obsidian:///absolute/path/to/my note` 相当于 `obsidian://open?path=%2Fabsolute%2Fpath%2Fto%2Fmy%20note`。
 
 ## References
