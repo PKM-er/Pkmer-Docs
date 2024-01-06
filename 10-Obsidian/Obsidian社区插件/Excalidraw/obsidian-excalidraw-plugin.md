@@ -108,6 +108,10 @@ excalidraw 可以把常用的一些绘图存为小组件库，也可以从网上
 
 - [[如何导入Excalidraw Library的素材包]]
 
+### Excalidraw Scripts
+
+- [[Excalidraw如何安装脚本+脚本设置介绍]]
+
 ### 基于 Obsidian 优化
 
 Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太多很卡，但是随着大叔的精力不断投入，几年如一日，这些问题终被解决了。光是 Github 上提到的优化就有：
@@ -131,12 +135,13 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 - [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
 - [[Excalidraw局部嵌入Obsidian]]
 - [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
+- [[自定义Excalidraw脚本-实现Excalidraw与BookxNote的联动]]
 - [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
 - [[自定义Excalidraw脚本-画板局部或者全局播放动画]]
 - [[自定义Excalidraw脚本-快速插入时间戳笔记]]
 - [[自定义Excalidraw脚本-OCR自动提取图片文字]]
 - [[自定义Excalidraw脚本-默认应用打开图片]]
-- [[Excalidraw自定义脚本-插入可以编辑的Mermaid图形]]
+- [[自定义Excalidraw脚本-插入可以编辑的Mermaid图形]]
 
 ### CSS 美化
 

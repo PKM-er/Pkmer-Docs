@@ -90,7 +90,7 @@ modified: 20240105203946
 
 说完了功能，有兴趣的不妨自己试一试，跟着下例的步聚，一步步走，实现几个比较简单但很实用的操作。
 
-- [[Quicker动作之截图贴图|动作实例 1：截图贴图]]。
+- [[./Quicker 简单实例/Quicker动作之截图贴图|动作实例 1：截图贴图]]。
 
 ## 与笔记软件的联合使用
 
@@ -98,6 +98,10 @@ modified: 20240105203946
 - [[Quicker动作之以PotPlayer为基础的视频时间戳]]：ImmortalSty；
 - [[Quicker动作之自定义Zotero标注到Obsidian]]：熊猫别熬夜；
 - [[Quicker动作之BookxNote和Obsidian联动]]：熊猫别熬夜。
+- [[Quicker动作之截图贴图]]
+- [[使用 Quicker 与 Thino 进行联动
+- [[Quicker搜索之用搜索框快速搜索PKMer]]
+
 
 ## 动作作者推荐
 

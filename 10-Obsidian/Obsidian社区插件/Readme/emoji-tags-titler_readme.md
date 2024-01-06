@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】EmoTagsTitler
+# Obsidian 插件：EmoTagsTitler
 
 > [!Note] 插件名片
 > - 插件名称：EmoTagsTitler

@@ -2,12 +2,12 @@
 uid: 20230720000017
 title: Obsidian 插件：Editor Width Slider 帮你快速自定义笔记的栏宽
 tags: [Obsidian, 插件, 自定义, 栏宽]
-description: 
+description: Obsidian 插件：Editor Width Slider 帮你快速自定义笔记的栏宽
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20231213112846
+modified: 20240105181836
 ---
 
 # Obsidian 插件：Editor Width Slider 帮你快速自定义笔记的栏宽
@@ -44,8 +44,9 @@ Editor Width Slider 就是为了解决这个，提供了一个简易的滑块，
 > [!Warning] 注意
 > - 需要在 Obsidian 设置中打开 缩减栏宽，并重启 Obsidian 可能插件才能正常运行
 
-- 插件当前版本还没有任何设置项目
-- 使用时，只需要拖动在状态栏新增的滑块控件，便可以修改栏宽。
+1. 启用插件后，您将在状态栏中看到一个滑块。
+2. 将滑块向左或向右拖动以增加或减少编辑器的行宽。
+3. 更改将实时应用于编辑器。
 
 ### 适配问题
 

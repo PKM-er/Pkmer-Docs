@@ -7,10 +7,12 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231120144540
+modified: 20231228145752
 ---
 
 # Obsidian 插件：Vertical Tabs View 垂直选项卡视图
+
+## 概述
 
 **提供垂直选项卡视图**选项卡可以排序，但更改不会与原始选项卡同步。
 
@@ -23,6 +25,15 @@ modified: 20231120144540
 > 插件源码地址：[GitHub - hdykokd/obsidian-vertical-tabs-view: A plugin for Obsidian that provides a vertical tabs view](https://github.com/hdykokd/obsidian-vertical-tabs-view)
 > 国内下载地址：：[下载地址](https://pkmer.cn/products/plugin/pluginMarket/?vertical-tabs-view)
 
+## 效果&特性
+
+![Vertical Tabs View](https://cdn.pkmer.cn/covers/vertical-tabs-view.png!pkmer)
+
+- 提供垂直标签页视图
+	- 标签页可以排序，但更改不会与原始标签页同步。
+- 循环上一个标签页
+- 循环下一个标签页
+
 ## 使用
 
 - 插件带有的命令
@@ -33,8 +44,9 @@ modified: 20231120144540
 
 ### 电脑端
 
-> [!tip] 可以配合 [[obsidian-hider]] 插件一起使用
-> ![Obsidian 插件：Vertical Tabs View 垂直选项卡视图](https://cdn.pkmer.cn/images/Pasted%20image%2020231117222536.png!pkmer)
+ 可以配合 [[obsidian-hider]] 插件一起使用
+
+ ![Obsidian 插件：Vertical Tabs View 垂直选项卡视图](https://cdn.pkmer.cn/images/Pasted%20image%2020231117222536.png!pkmer)
 
 ### 手机端
 

@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230829113540
+modified: 20231220204228
 ---
 
 # Zotero 插件
@@ -16,3 +16,4 @@ modified: 20230829113540
 	- [[8_2_中文文献增强-茉莉花插件]]
 - [[zotero6zoterotag|Zotero tag]]
 - [[zoteropdftranslate |Zotero pdf translate ]]
+- [[crush-reference配置全教程|crush reference]]：crush reference 配置全教程

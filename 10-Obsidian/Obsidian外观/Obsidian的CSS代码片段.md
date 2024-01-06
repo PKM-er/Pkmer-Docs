@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231216204131
+modified: 20240103231102
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -20,7 +20,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 打开笔记仓库的 `.obsidian` 文件夹，其中如果没有 `snippets` 文件夹则创建。
 
-在 Obsidian 中的 CSS snippets 都是以.css 的档案格式储存在特定的文件夹。如果你有将 CSS snippets 放到该文件夹，就会在 Obsidian 显示开关。
+在 Obsidian 中的 CSS snippets 都是以 .css 的档案格式储存在特定的文件夹。如果你有将 CSS snippets 放到该文件夹，就会在 Obsidian 显示开关。
 
 ![Pasted image 20230126215854](https://cdn.pkmer.cn/images/2082fd7f6036cd4da2572868af81b729_MD5.png!pkmer)
 
@@ -28,6 +28,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 1. 别人给你的，或者你看到不错的代码片段（CSS）文件，放进 `snippets` 文件夹就行。或者自己建立一个 CSS 文件，书写你自己的样式当然需要一点 CSS 代码基础。
 2. Obsidian > 设置 > 外观，最后一项【CSS 代码片段】，刷新一下，会显示出新增的文件，把后面的切换按钮打开即可。
+3. 如果你使用的网站上复制的内容，那么可以尝试先把内容放到一个文本文件（.txt），然后将文本文件的文件类型（后缀名）改为 .css 即可。然后重复 步骤 1 和 步骤 2
 
 涉及软件界面的修改，有时候可能需要重启软件生效。
 
@@ -43,6 +44,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-像VSCode一样显示搜索替换框]]
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-悬浮两侧菜单栏]]
+- [[Obsidian样式-专注标签页边框]]
 
 ### 编辑器
 
@@ -161,6 +163,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 语法拓展
 
 - [[Obsidian样式-调整HTML的detail样式为简单评论区]]
+- [[Obsidian样式-给mermaid添加横向滚动条]]
 
 ### 插件样式
 
@@ -171,6 +174,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
 - [[Obsidian样式-可滚动的Dataview表格视图]]
+- [[Lyrics插件样式-音乐播放界面美化]]
 
 #### Thino
 
