@@ -1,13 +1,16 @@
 ---
 uid: 20231229165015
 title: Obsidian URI
-tags: [Link, URI, 基础使用]
+tags:
+  - Link
+  - URI
+  - 基础使用
 description: 
 author: 
 type: other
 draft: false
 editable: false
-modified: 20240106202739
+modified: 20231229165517
 ---
 
 > 原文来自 [Obsidian URI - Obsidian Help](https://help.obsidian.md/Concepts/Obsidian+URI)
