@@ -4,10 +4,10 @@ title: 开始 Quicker 吧
 tags: [Quicker, 教程, 编程]
 description: 本文将从三个方面介绍 Quicker 的功能，并给大家推荐一些好用的、可以与 Obsidian 搭配使用的 Quicker 动作。
 author: ImmortalSty
-type: other
+type: awesome
 draft: false
 editable: true
-modified: 20231210192213
+modified: 20240105203946
 ---
 
 # 开始 Quicker 吧
@@ -94,6 +94,7 @@ modified: 20231210192213
 
 ## 与笔记软件的联合使用
 
+- [[表格操作占用快捷键过多的解决方案]]：ImmortalSty；
 - [[Quicker动作之以PotPlayer为基础的视频时间戳]]：ImmortalSty；
 - [[Quicker动作之自定义Zotero标注到Obsidian]]：熊猫别熬夜；
 - [[Quicker动作之BookxNote和Obsidian联动]]：熊猫别熬夜。
