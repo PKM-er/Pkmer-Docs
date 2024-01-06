@@ -97,7 +97,7 @@ obsidian://action?param1=value&param2=value
 	- `overwrite`（可选）如果存在，则覆盖现有文件，但前提是未设置 `append`。
 - `x-success`（可选）请参阅 [x-callback-url](https://help.obsidian.md/Concepts/Obsidian+URI#x-callback-url).
 
-## Integrate with Hook #0/不理解
+## Integrate with Hook
 
 此 Obsidian URI 终端点将与 [Hook](https://hookproductivity.com/) 一起使用。
 
