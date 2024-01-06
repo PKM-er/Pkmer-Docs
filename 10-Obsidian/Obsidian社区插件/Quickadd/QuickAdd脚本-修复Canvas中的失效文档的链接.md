@@ -18,7 +18,7 @@ modified: 20240107000410
 
 ## 背景
 
-因为我一般采用 Obsidian 的尽可能简短形式的 Wiki 的链接形式，这样 Obsidian 里面的笔记链接不容易失效：
+我一般采用 Obsidian 的尽可能简短形式的 Wiki 的链接形式，这样 Obsidian 里面的笔记链接不容易失效：
 
 ![QuickAdd 脚本 - 修复 Canvas 中的失效文档的链接](https://cdn.pkmer.cn/images/202401070003407.png!pkmer)
 
