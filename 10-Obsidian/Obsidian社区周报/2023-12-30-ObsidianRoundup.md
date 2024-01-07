@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231230205335
+modified: 20240108000839
 ---
 
 # 2023-12-30：Obsidian 迎来史诗级更新，提升交互体验
@@ -154,7 +154,7 @@ modified: 20231230205335
 ### 未上架插件
 
 > [!Caution]
-> **注意：社区列表中尚未提供所有新插件，因为它们需要先经过代码审查。您可以使用 [Beta Reviewer 的自动更新工具](https://github.com/TfTHacker/obsidian42-brat?ref=eleanorkonik.com) 手动安装社区列表中尚未包含的插件。但请注意，这并不像等待他们通过代码审查那么安全。**
+> **注意：社区列表中尚未提供所有新插件，因为它们需要先经过代码审查。您可以使用 [Beta Reviewer 的自动更新工具](https://github.com/TfTHacker/obsidian42-brat?ref=eleanorkonik.com) 手动安装社区列表中尚未包含的插件。但请注意，这并不像等待它们通过代码审查那么安全。**
 
 [**PDF++**](https://github.com/RyotaUshio/obsidian-pdf-plus) by _RyotaUshio_ 一个用于增强内置的 PDF 查看器和 PDF 嵌入的插件，目前拥有的功能包括：
 
@@ -215,7 +215,7 @@ Funnel 本质上是一款独立应用程序，绝对没有数据收集或任何�
 
 ## 英文版
 
-## 2024-12-30：The new Obsidian has arrived
+## 2023-12-30：The new Obsidian has arrived
 
 Happy New Year! Cheers to the new major release and a wave of exciting new plugins!
 

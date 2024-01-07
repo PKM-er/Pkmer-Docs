@@ -104,7 +104,7 @@ modified: 20240106004045
 ### 未上架插件
 
 > [!Caution]
-> 注意：社区列表中尚未提供所有新插件，因为它们需要先经过代码审查。您可以使用 [Beta Reviewer 的自动更新工具](https://github.com/TfTHacker/obsidian42-brat?ref=eleanorkonik.com) 手动安装社区列表中尚未包含的插件。但请注意，这并不像等待他们通过代码审查那么安全。
+> 注意：社区列表中尚未提供所有新插件，因为它们需要先经过代码审查。您可以使用 [Beta Reviewer 的自动更新工具](https://github.com/TfTHacker/obsidian42-brat?ref=eleanorkonik.com) 手动安装社区列表中尚未包含的插件。但请注意，这并不像等待它们通过代码审查那么安全。
 
 [Reason](https://www.reason.garden/) by _josh_ 一款旨在利用 AI 帮助用户检索、提取、分析、合成 Obsidian 笔记的插件。尚在测试中，如有兴趣可点击前方链接查看并注册。
 

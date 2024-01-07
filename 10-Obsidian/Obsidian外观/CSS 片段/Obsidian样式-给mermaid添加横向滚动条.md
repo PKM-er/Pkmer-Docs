@@ -1,16 +1,16 @@
 ---
 uid: 20240103230235
-title: Obsidian 样式 - 给 Mermai 添加横向滚动条
+title: Obsidian 样式 - 给 Mermaid 添加横向滚动条
 tags: [Obsidian, mermaid, 样式]
 description: Obsidian 样式 - 给 Mermai 添加横向滚动条
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20240105103920
+modified: 20240107230934
 ---
 
-# Obsidian 样式 - 给 Mermai 添加横向滚动条
+# Obsidian 样式 - 给 Mermaid 添加横向滚动条
 
 今天在 PKMer 交流群里面，有粉丝提到了 Mermaid。虽然 Obsidian 默认支持 Mermaid，并且对于一定大小的 Mermaid 会自动缩放。
 
