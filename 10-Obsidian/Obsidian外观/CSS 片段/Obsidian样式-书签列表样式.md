@@ -3,7 +3,7 @@ uid: 20230905115149
 title: Obsidian样式-书签列表样式
 tags: 
 description: Obsidian样式-书签列表样式
-author: proudBenzene
+author: ProudBenzene
 type: other
 draft: false
 editable: false
