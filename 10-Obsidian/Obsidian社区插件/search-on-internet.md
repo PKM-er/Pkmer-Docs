@@ -7,7 +7,7 @@ author: Bon,山鸡
 type: other
 draft: false
 editable: false
-modified: 20230831150630
+modified: 20240108122902
 ---
 
 # Obsidian 插件：Search on Internet 快速在搜索引擎中搜索笔记内容

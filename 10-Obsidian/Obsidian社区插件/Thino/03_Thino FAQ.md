@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231222161121
+modified: 20240108102200
 ---
 
 # Thino FAQ
@@ -80,6 +80,12 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ### 功能
 
+#### 为什么读取不到我之前笔记了
+
+从设计理念上 memos 和 现在的 Thino 并不会频繁监控用户仓库，文件夹的变化。所以当你迁移了笔记，或者创建了文件夹，需要你通过重启 Obsidian 的方式，来获取目录结构变动。
+
+当然，后续的体验上可能考虑解决此问题。
+
 #### 使用检索式是提示异常
 
 使用检索式检索日期时
@@ -92,7 +98,7 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ### 宿主相关
 
-- 关闭 Obsidian 的所及所得模式（live-preview 模式），会导致 Thino 的所见即所得，悬浮编辑栏失效兼容性。
+- 关闭 Obsidian 的所及所得模式（live-preview 模式），会导致 Thino 的所见即所得，悬浮编辑栏失效。
 
 ### 兼容性相关
 
