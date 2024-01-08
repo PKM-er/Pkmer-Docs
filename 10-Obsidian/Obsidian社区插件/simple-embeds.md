@@ -92,3 +92,15 @@ modified: 20230603014306
     margin: 0 auto;
 }
 ```
+
+## 截图
+
+![简单嵌入演示](https://cdn.pkmer.cn/covers/simple-embeds_1_0.gif)
+
+_演示_
+
+![iOS应用中的嵌入截图](https://cdn.pkmer.cn/covers/simple-embeds_1_1.png!pkmer)
+
+_iOS 应用_
+
+![Android应用中的嵌入截图](https://cdn.pkmer.cn/covers/simple-embeds_1_2.png!pkmer)

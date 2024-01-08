@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230604170058
+modified: 20240108123246
 ---
 
 # Obsidian 插件：Custom State For Task List 优化你的任务样式
@@ -27,9 +27,15 @@ Obsidian 本来已经有很多种利用任务标签符号，来添加不同的�
 
 ## 效果&特性
 
+![Custom State for Task List](https://cdn.pkmer.cn/covers/custom-state-for-task-list.gif)
+
+
 ![image.png](https://cdn.pkmer.cn/images/20230514130843.png!pkmer)
 
 ## 使用
+
+![](https://cdn.pkmer.cn/covers/custom-state-for-task-list_2_0.gif)
+
 
 - 在你开启插件以后，你可以先到设置添加或者删除其默认存在的一些设置。
 - 在你确定好哪个文本对应哪个样式以后，你就可以回到自己的笔记中，写入对应的内容（以下是一个对应的样例）：

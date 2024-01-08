@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174046
+modified: 20240108121803
 ---
 
 # Obsidian 插件：Minimal Theme Settings 为你 Minimal 主题提供自定义选项
@@ -25,6 +25,10 @@ modified: 20230604174046
 
 >[!Tip] 提示
 >该插件可以与 Hider 插件搭配使用，做到进一步简化 Obsidian 用户界面，包括去除菜单栏、工具提示、标题栏、滚动条等等。这些功能以前包含在 Minimal Theme 主题中，但现在已经被分离出来。
+
+## 效果&特性
+
+![Minimal Theme Settings](https://cdn.pkmer.cn/covers/obsidian-minimal-settings.PNG!pkmer)
 
 ## 准备
 
