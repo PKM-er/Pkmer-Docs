@@ -1,13 +1,13 @@
 ---
 uid: 20230329170612
 title: Obsidian 基本使用
-tags: []
+tags: [Obsidian]
 description: Obsidian 基本使用
 author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240103233506
+modified: 20240109121528
 ---
 
 # Obsidian 基本使用
@@ -32,3 +32,4 @@ modified: 20240103233506
 - [[Obsidian设置]]
 - [[脑图和流程图]]
 - [[Obsidian_URI]]
+- [[块链接与块引用]]

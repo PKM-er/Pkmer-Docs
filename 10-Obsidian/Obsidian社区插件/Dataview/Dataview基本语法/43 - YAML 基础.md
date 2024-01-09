@@ -1,19 +1,16 @@
 ---
 uid: 20230724104529
 title: Dataview中的YAML
-tags:
-  - obsidian
-  - metadata
-  - yaml
+tags: [obsidian, metadata, yaml]
 description: 基本语法学习指南，YAML 语法规则
 author: Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230810180143
+modified: 20240109115542
 ---
 
-# Dataview中的YAML
+# Dataview 中的 YAML
 
 > [!summary] YAML 语法规则
 > - 大小写敏感，可以使用中文；
@@ -85,6 +82,10 @@ metadata:
 ```
 
 其实就是这个属性的值域是一个无序列表，可以等价看成 `metadata: [abc, edf]`。我们可以使用方括号和元素下标取得下一级的属性 `metadata[0]` 和 `metadata[1]`（第一个元素的下标是 0）；
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=665938857&bvid=BV12a4y12789&cid=1399356242&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ## 相关插件
 
