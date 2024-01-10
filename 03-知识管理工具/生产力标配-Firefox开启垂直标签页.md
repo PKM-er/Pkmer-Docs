@@ -1,16 +1,13 @@
 ---
 uid: 20240108160730
 title: Firefox 浏览器开启垂直标签页
-tags:
-  - Firefox
-  - 浏览器
-  - 垂直标签页
+tags: [Firefox, 浏览器, 垂直标签页]
 description: 关于垂直标签页的心得与Firefox垂直标签页的配置
 author: ProudBenzene
 type: other
 draft: false
 editable: false
-modified: 20240108174641
+modified: 20240110121200
 ---
 
 # Firefox 浏览器开启垂直标签页

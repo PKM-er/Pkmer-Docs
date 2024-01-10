@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240103231102
+modified: 20240110121327
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -48,7 +48,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ### 编辑器
 
-- [[Obsidian样式-标题-列表-图片美化]]
 - [[Obsidian样式-minimal主题Cards卡片布局]]
 - [[Obsidian样式-编辑模式下当前行高亮]]
 - [[Obsidian样式-加粗粗体样式优化]]
@@ -59,7 +58,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-分割线样式美化]]
 - [[Obsidian样式-给笔记添加随机背景图]]
-- [[Obsidian样式-段落首行增加缩进]]
 - [[Obsidian样式-美化高亮样式]]
 - [[Obsidian样式-美化行内代码样式]]
 - [[Obsidian样式-编辑模式代码块显示行号]]
@@ -71,6 +69,13 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-完成任务时如何取消任务文本的删除线]]
 - [[Obsidian样式-借助CSS打造独立的大屏表格页面]]
 - [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
+
+### 列表&段落
+
+- [[Obsidian样式-ITS主题列表样式]]
+- [[Obsidian样式-段落首行增加缩进]]
+- [[Obsidian样式-标题-列表-图片美化]]
+- [[Obsidian样式-书签列表样式]]
 
 ### 图片
 
