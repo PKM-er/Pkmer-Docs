@@ -3,7 +3,7 @@ uid: 20230905115138
 title: Obsidian ITS主题列表样式
 tags: 
 description: Obsidian ITS主题列表样式
-author: proudBenzene
+author: ProudBenzene
 type: other
 draft: false
 editable: false
