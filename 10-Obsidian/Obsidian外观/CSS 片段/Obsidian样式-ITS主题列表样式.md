@@ -1,16 +1,16 @@
 ---
 uid: 20230905115138
-title: Obsidian ITS主题列表样式
-tags: 
-description: Obsidian ITS主题列表样式
+title: Obsidian 样式：ITS 主题列表样式
+tags: [Obsidian, 主题, 美化]
+description: Obsidian 样式：ITS 主题列表样式
 author: ProudBenzene
 type: other
 draft: false
 editable: false
-modified: 20231024002322
+modified: 20240110120911
 ---
 
-# ITS 主题列表样式
+# Obsidian 样式：ITS 主题列表样式
 
 ## 引言
 
