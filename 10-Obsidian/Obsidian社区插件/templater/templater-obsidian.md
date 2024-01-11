@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230816105704
+modified: 20240111112952
 ---
 
 # Obsidian 插件：Templater 可以替代核心模板插件的效率神器
@@ -103,4 +103,4 @@ created: 2023-08-19
 
 - [[Templater实现关键词自动化套用模板]]：铅笔小明分享的通过关键词自动化套用模板
 - [[Templater插件基本语法格式]]
-- [[Templater插件两次单选语法]]]
+- [[auto-insert-template自动化模板教学]]

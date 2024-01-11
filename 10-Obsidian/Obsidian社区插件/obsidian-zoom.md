@@ -7,7 +7,7 @@ author: cuman, 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240108112959
+modified: 20240111113648
 ---
 
 # Obsidian 插件：Zoom 通过快捷键，快速聚焦到大纲
@@ -46,6 +46,10 @@ modified: 20240108112959
 | Setting 设置 | Default value 默认值 |
 | --- | :-: |
 | Zooming in when clicking on the bullet (单击项目符号时放大) | `true` |
+
+## 其他技巧
+
+- [[Obsidian插件技巧-Zoom插件的妙用]]
 
 ## 功能延伸
 
