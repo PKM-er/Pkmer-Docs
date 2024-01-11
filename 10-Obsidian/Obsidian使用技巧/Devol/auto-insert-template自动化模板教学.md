@@ -1,17 +1,18 @@
 ---
 uid: 20240111112634
-title: 💡前言
+title: Quickadd 脚本 - 根据输入的文本信息调用指定 template
 tags: [💻教程, quickadd]
 description: 
 author: Devol,windilycloud
 type: other
 draft: false
 editable: false
-modified: 20240111113324
-"created:": 2024-01-09
+modified: 20240112011007
 ---
 
-# 💡前言
+# Quickadd 脚本 - 根据输入的文本信息调用指定 template
+
+## 💡前言
 
 > 相信各位在使用 Obsidian 的日常中会经常调用模板，[[templater-obsidian]] 就是大家所熟知的 obsidian 模板插件，通过快捷指定自定义模板的方式获得了许多 Obsidian 爱好者的青睐，我本人就是其中之一。然而这次本教学将会另辟蹊径使用另一个插件——[[quickadd]]，来完成自动调用模板的操作。
 
@@ -25,7 +26,7 @@ modified: 20240111113324
 
 ### 3.峰回路转
 
-终于，困难迎来了转机，通过研究 Obsidian 知识社区以及加入 QQ 群，我得知了一个新的在线平台——PKMer，并且加入了官方 QQ 群。经过交流，我了解到 quickadd 同样可以实现模板调用，在此特别感谢群里的**==大脸猫皮皮==**，是他完成了脚本的整体框架，我只是做了一些小修小改。
+终于，困难迎来了转机，通过研究 Obsidian 知识社区以及加入 QQ 群，我得知了一个新的在线平台——PKMer，并且加入了官方 QQ 群。经过交流，我了解到 quickadd 同样可以实现模板调用，在此特别感谢群里的==大脸猫皮皮==，是他完成了脚本的整体框架，我只是做了一些小修小改。
 
 # ⭐功能介绍
 
@@ -51,25 +52,25 @@ modified: 20240111113324
 - 我们优先设置 templater，因为只有一个步骤。
 - 里面的重要选项都已经通过中文翻译出来了。实际上，我们只需要开启 Automatic jump to cursor 和 Trigger Templater on new file creation 这两个选项，其他选项没有必要理会，如果不懂可以完全按照图片设置。
 
-![自动化模板脚本教学-图片20240109231007.png](https://cdn.pkmer.cn/images/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A8%A1%E6%9D%BF%E8%84%9A%E6%9C%AC%E6%95%99%E5%AD%A6-%E5%9B%BE%E7%89%8720240109231007.png!pkmer)
+![](https://cdn.pkmer.cn/images/202401120109031.png!pkmer)
 
 ### 3、quickadd 设置
 
 ##### 步骤一：打开 quickadd 设置界面，并新建一个 Marco 宏
 
-![自动化模板脚本教学-图片20240109235826.png](https://cdn.pkmer.cn/images/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A8%A1%E6%9D%BF%E8%84%9A%E6%9C%AC%E6%95%99%E5%AD%A6-%E5%9B%BE%E7%89%8720240109235826.png!pkmer)
+![](https://cdn.pkmer.cn/images/202401120109032.png!pkmer)
 
 ##### 步骤二：宏添加指令
 
-![自动化模板脚本教学-图片20240110000153.png](https://cdn.pkmer.cn/images/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A8%A1%E6%9D%BF%E8%84%9A%E6%9C%AC%E6%95%99%E5%AD%A6-%E5%9B%BE%E7%89%8720240110000153.png!pkmer)
+![](https://cdn.pkmer.cn/images/202401120109034.png!pkmer)
 
 ##### 步骤三：添加 user scripts 脚本，并关闭界面
 
-![自动化模板脚本教学-图片20240110000458.png](https://cdn.pkmer.cn/images/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A8%A1%E6%9D%BF%E8%84%9A%E6%9C%AC%E6%95%99%E5%AD%A6-%E5%9B%BE%E7%89%8720240110000458.png!pkmer)
+![](https://cdn.pkmer.cn/images/202401120109035.png!pkmer)
 
 ##### 步骤四：快捷键界面找到刚才设置的宏，并设置任意快捷键
 
-![自动化模板脚本教学-图片20240110000739.png](https://cdn.pkmer.cn/images/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A8%A1%E6%9D%BF%E8%84%9A%E6%9C%AC%E6%95%99%E5%AD%A6-%E5%9B%BE%E7%89%8720240110000739.png!pkmer)
+![](https://cdn.pkmer.cn/images/202401120109036.png!pkmer)
 
 ---
 
