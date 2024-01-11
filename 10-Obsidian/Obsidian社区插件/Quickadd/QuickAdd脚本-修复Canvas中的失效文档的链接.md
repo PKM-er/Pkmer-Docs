@@ -3,7 +3,7 @@ uid: 20240106235941
 title: QuickAdd 脚本 - 修复 Canvas 中的失效文档的链接
 tags: [Canvas, quickadd脚本]
 description: 针对 Canvas 中大量失效的笔记或文件进行修复的脚本，借用 Quickadd 的 Capture 进行运行。
-author: 熊猫别熬夜,calmwaves
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
@@ -34,7 +34,7 @@ modified: 20240107000410
 
 > [!caution] 脚本运行的注意事项
 > 1. Canvas 中的笔记不要有相同文件名的其他笔记存在，如果有则该脚本会跳过修复。
-> 	1. [[#Tip：DataViewJS- 检测库内重复文件名的笔记]]
+> 	- Tip：可以根据该[[Dataview 实战-查找重名文件]]文检测库内重复文件名的笔记。
 > 2. 脚本只是从文件列表性质上的检索，所以会对 Canvas 中的所有笔记进行检测，如果你发现脚本运行后出现特别多的改变，请通过 `Ctrl + Z` 退回。
 
 ### 添加 Quickadd 的 Capture 选项
@@ -97,53 +97,6 @@ function getFilePath(files, baseName) {
     let filePath = files2.map((f) => f.path);
     console.log(filePath);
     return filePath;
-}
-```
-````
-
-## Tip：DataViewJS- 检测库内重复文件名的笔记
-
-该 DataViewJS 片段由 @Calmwaves 提供。
-
-![QuickAdd 脚本 - 修复 Canvas 中的失效文档的链接](https://cdn.pkmer.cn/images/202401070003411.png!pkmer)
-
-````md
-```dataviewjs
-// 假设您的对象数组为 data
-const data = dv.pages();
-
-let countMap = {}; // 用于存储计数的对象
-let duplicates = []; // 用于存储重复元素的数组
-
-// 遍历对象数组
-data.forEach((element) => {
-  let fileName = element.file.name;
-  let filePath = element.file.path;
-
-  // 计数
-  if (countMap[fileName]) {
-    countMap[fileName].count++;
-    countMap[fileName].paths.push(filePath);
-  } else {
-    countMap[fileName] = { count: 1, paths: [filePath] };
-  }
-});
-
-let dup=0//这是发现了几个dup的name
-let flag =0//有重名文件的标志
-for (const key in countMap) {
-    const element = countMap[key];
-    if (element.count > 1) {
-      dup++;
-      if(dup>0&&flag==0){dv.paragraph("==有重名文件==");flag=1}
-      dv.span(`《${key}.md》出现了${element.count}次`);
-      const pathstolink = element.paths.map(path => `[[${path}]]`);
-      dv.list(pathstolink);
-
-    }
-}
-if(dup==0){
-dv.span("没有重名文件")
 }
 ```
 ````
