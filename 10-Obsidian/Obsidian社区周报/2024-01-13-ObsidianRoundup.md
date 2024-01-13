@@ -1,16 +1,16 @@
 ---
 uid: 20240113102303
-title: 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发
-tags: []
+title: Obsidian Roundup 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发
+tags: [Obsidian, Roundup]
 description: 
-author: 
+author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240113102419
+modified: 20240113103535
 ---
 
-# 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发
+# Obsidian Roundup 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发
 
 > [!Abstract]
 > **统计时间**：2024-01-05 21:00 ~ 2024-01-12 21:00
@@ -116,6 +116,8 @@ modified: 20240113102419
 ## 其他新闻
 
 [Qualitative Analysis of Social Media Posts - A Workflow from OCR to Obsidian](https://carleton.ca/xlab/2023/qualitative-analysis-of-social-media-posts-a-workflow-from-ocr-to-obsidian/) 一个对社交媒体帖子进行定性分析的工作流分享。
+
+----
 
 # 2024-01-13：Revitalizing Classics: Advancements in Time-Tested Plugins and the Dawn of Comprehensive New Tools
 
