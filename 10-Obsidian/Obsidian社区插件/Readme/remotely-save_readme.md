@@ -2,7 +2,7 @@
 uid: 20231206000637
 title: Obsidian 插件：Remotely Save
 tags: ['第三方工具集成', '文件管理', '效率', 'obsidian插件', 'readme']
-description: 非官方同步不插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
+description: 非官方同步插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
 author: AI
 type: readme
 draft: false
@@ -15,14 +15,14 @@ modified: 20231217234731
 > [!Note] 插件名片
 > - 插件名称：Remotely Save
 > - 插件作者：fyears
-> - 插件说明：非官方同步不插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
+> - 插件说明：非官方同步插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
 > - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/remotely-save/remotely-save)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?remotely-save)
 
 ## 概述
 
-非官方同步不插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
+非官方同步插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
 
 > [!tip] 原文出处
 >
