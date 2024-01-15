@@ -1,5 +1,5 @@
 ---
-uid: 20231213114101
+uid: 20231213114105
 title: Obsidian 插件：【Readme】Timer
 tags: ['obsidian插件', 'readme']
 description: 允许您测量时间。

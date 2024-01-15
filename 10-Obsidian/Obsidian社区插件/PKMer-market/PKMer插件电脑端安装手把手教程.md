@@ -10,7 +10,7 @@ editable: false
 modified: 20231210154411
 ---
 
-# PKMer 插件安装手把手教程
+# PKMer 插件电脑端安装手把手教程
 
 ![](https://cdn.pkmer.cn/images/202308030720303.gif)
 

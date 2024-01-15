@@ -1,16 +1,16 @@
 ---
 uid: 20230905115149
-title: Obsidian样式-书签列表样式
-tags: 
+title: Obsidian 样式：书签列表样式
+tags: [Obsidian, 样式, 书签]
 description: Obsidian样式-书签列表样式
-author: proudBenzene
+author: ProudBenzene
 type: other
 draft: false
 editable: false
-modified: 20231024002353
+modified: 20240110121309
 ---
 
-# 书签列表样式
+# Obsidian 样式：书签列表样式
 
 ## 引言
 

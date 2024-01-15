@@ -1,5 +1,5 @@
 ---
-uid: 20231213114101
+uid: 20231213114103
 title: Obsidian 插件：Emoji Titler 为笔记标题快速增加 emoji
 tags: ['obsidian插件']
 description: 这个插件是一个表情符号标题工具，可以通过键盘快捷键轻松地在标题中插入表情符号。

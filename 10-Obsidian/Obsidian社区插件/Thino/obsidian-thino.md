@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215145306
+modified: 20240115163848
 id: dacd7a42e067cce1
 ---
 
@@ -28,7 +28,7 @@ id: dacd7a42e067cce1
 
 Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
 
-## 更新日志 
+## 更新日志
 
 [[thino-changelog]]
 
@@ -66,6 +66,10 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
         - [[Thino 设置项#主题设置|主题设置]]
         - [[Thino 设置项#分享设置|分享设置]]
         - [[Thino 设置项#进阶设置|进阶设置]]
+    - [[Thino 同步]]
+    - [[Thino 微信内容发送到Thino]]
+- 03_Thino 高级使用教程
+	- [[使用简悦 SimpRead 与 Thino 进行联动]]
 - Thino 样式专区
 	- [[Obsidian样式-给Thino加个滚动条]]
 	- [[Obsidian样式-给Thino搭配10种热力图颜色]]

@@ -1,17 +1,13 @@
 ---
 uid: 20231229210706
 title: 用 Obsidian 收藏心爱的音乐——Lyrics 插件
-tags:
-  - Obsidian
-  - 插件
-  - 音乐
-  - 歌词
+tags: [Obsidian, 插件, 音乐, 歌词]
 description: 将 Obsidian 变成音乐播放器的插件——Lyrics
 author: ProudBenzene
 type: basic
 draft: false
 editable: false
-modified: 20231230000121
+modified: 20240108102432
 ---
 
 # 用 Obsidian 收藏心爱的音乐——Lyrics 插件

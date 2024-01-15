@@ -1,5 +1,5 @@
 ---
-uid: 20231027184030
+uid: 20231027184032
 title: Obsidian 插件：Obsidian Charts 为 Obsidian 中的笔记增加一个图表功能
 tags: ['图表生成', '界面相关', 'obsidian插件', 'readme']
 description: Obsidian 插件：Obsidian Charts 为 Obsidian 中的笔记增加一个图表功能

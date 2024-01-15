@@ -1,5 +1,5 @@
 ---
-uid: 20231213114101
+uid: 20231213114108
 title: Obsidian 插件：Floating Search 给 Obsidian 增加悬浮搜索功能
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian默认的搜索视图来搜索文本。

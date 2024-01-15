@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20240106235845
+modified: 20240111113104
 ---
 
 # Obsidian 插件：QuickAdd 自动化操作的编辑器
@@ -170,6 +170,14 @@ module.exports = async (params) => {
 	4. Raycast
 
 注：这里只有 utools 是全平台的，AutoHotkey 是 Windows 独占的开源软件，Alfred，Raycast 是 Mac 独占商业软件。
+
+
+## 相关教程
+
+- [[Quickadd结合CSS实现挖空复习]]
+- [[Quickadd脚本-一键在某软件中打开Ob笔记]]
+- [[Quickadd脚本-一键在系统应用中打开图片编辑]]
+
 
 ## 视频教程
 

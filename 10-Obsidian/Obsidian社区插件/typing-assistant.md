@@ -1,5 +1,5 @@
 ---
-uid: 20231213114101
+uid: 20231213114106
 title: Obsidian 插件：【Readme】Typing Assistant
 tags: ['obsidian插件', '助手']
 description: Obsidian 插件：Typing Assistant 语法输入助手帮你提高输入效率
