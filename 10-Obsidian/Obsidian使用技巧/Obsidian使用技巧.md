@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240111113510
+modified: 20240115155752
 ---
 
 # Obsidian 使用技巧
@@ -35,6 +35,7 @@ modified: 20240111113510
 - [[一网打尽-带你了解Obsidian中标签汇总方案]]
 - [[使用 Obsidian 白板功能绘制商业模式画布]]
 - [[Obsidian同步拼车教程]]
+- [[Obsidian 主页制作小教程]]
 
 ### 第三方插件
 

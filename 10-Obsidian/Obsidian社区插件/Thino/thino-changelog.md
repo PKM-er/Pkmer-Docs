@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240102145855
+modified: 20240115132815
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
@@ -16,7 +16,28 @@ modified: 20240102145855
 
 需要请加入内侧体验，[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
 
-### Thino 2.1.6 2023.12.28
+## Thino 2.2 2024.1.21
+
+### 新特性
+
+- 支持单文件模式的同步，参见 [[Thino 同步]]
+- 支持微信信息发送到 Thino，参见 [[Thino 微信内容发送到Thino]]
+
+## 调整
+
+- 卡片功能菜单，删除文案会因为你的选择而不同
+	- 如果选择直接删除模式，会展示为“删除”
+	- 如果选择进入回收站，会展示为“回收站”
+
+## 修复
+
+- 修复：部分情况编辑器上 `NOTEIT` 按钮无法使用的问题
+- 修复：热力图和分享界面统计数字不一致问题
+- 修复：部分情况下文本内容会因为 Thino 宽度变化而改变行高的问题
+- 修复：【列表】【阅读】查看表格时显示渲染异常
+- 修复：【编辑器】【置顶】【再次编辑】已经置顶的内容，再次编辑编辑内容无法保存
+
+## Thino 2.1.6 2023.12.28
 
 - 修复移动端异常
 
@@ -57,7 +78,7 @@ modified: 20240102145855
 1. 从侧边栏重复开启 Thino 后保存按钮不可点击；但是也带来了两个比较方便的功能：
 	- 一个是：可以通过调用 app.workspace.trigger('send-to-thino', content); 其中 content 为字符串就会自动发送且保存
 	- 另一个是：桌面端本地，在开启 settings 中的 Http 接口后可以通过以下形式调用 Thino 创建的能力，例如，可以通过以下的 POST 方法发送 Thino 且创建：
-	- 支持 application/json ，默认端口是 http://localhost:52321/create
+	- 支持 application/json ，默认端口是 <http://localhost:52321/create>
    body 内容附带 json：
 
 ```json
