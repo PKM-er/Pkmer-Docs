@@ -1,7 +1,7 @@
 ---
 uid: 20231109234458
 title: Thino 回顾功能
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 回顾功能
 author: Bon,PKMer
 type: other

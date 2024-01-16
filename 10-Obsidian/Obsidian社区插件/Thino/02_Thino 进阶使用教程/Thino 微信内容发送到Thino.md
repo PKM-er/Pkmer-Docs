@@ -1,7 +1,7 @@
 ---
 uid: 20240115111138
 title: Thino 微信内容发送到 Thino
-tags: []
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 微信内容发送到 Thino
 author: OS,PKMer
 type: other

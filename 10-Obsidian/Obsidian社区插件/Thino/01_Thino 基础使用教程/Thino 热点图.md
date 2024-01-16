@@ -1,7 +1,7 @@
 ---
 uid: 20231109234545
 title: Thino 热点图
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 热点图
 author: Bon,PKMer
 type: other
