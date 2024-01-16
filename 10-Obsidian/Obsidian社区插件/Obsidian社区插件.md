@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240116114822
+modified: 20240116145939
 ---
 
 # Obsidian 社区插件
@@ -496,6 +496,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[rss-reader]]：让你的 Obsidian 秒变 RSS 阅读器
 - [[obsidian-leaflet-plugin_readme]]：在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
 	- [[obsidian-leaflet-plugin]]：活用方法
+- [[obsidoom]]：让你在 Obsidian 上玩经典游戏 DOOM
 
 ### AI 相关
 
