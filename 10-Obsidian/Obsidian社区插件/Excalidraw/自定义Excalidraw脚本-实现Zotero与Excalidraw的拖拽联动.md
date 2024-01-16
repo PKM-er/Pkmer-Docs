@@ -7,7 +7,7 @@ author: 熊猫别熬夜,ProudBenzene,y6n-u9h
 type: other
 draft: false
 editable: false
-modified: 20231229171041
+modified: 20240116121504
 ---
 
 # 自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动
@@ -320,3 +320,7 @@ function match_zotero_image(text) {
 
 > [!cite]
 > ![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/Pasted%20image%2020231017233449.png!pkmer)
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=283578411&bvid=BV1Pc411b74G&cid=1402019060&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="80%"> </iframe>

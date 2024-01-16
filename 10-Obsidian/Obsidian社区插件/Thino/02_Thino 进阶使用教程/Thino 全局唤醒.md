@@ -1,7 +1,7 @@
 ---
 uid: 20231227185818
 title: Thino 全局唤醒
-tags: [thino]
+tags: [Obsidian, Obsidian插件, Thino]
 description: 
 author: 余月鱼鸽
 type: other

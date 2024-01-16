@@ -1,16 +1,20 @@
 ---
-uid: 2023080322140037
-title: Obsidian 插件：Android nomedia
-tags: ['obsidian插件', 'readme']
-description: 通过向每个文件夹添加“nomedia”文件，在Android设备上隐藏Vault中的媒体文件。
-author: AI
-type: readme
+uid: 20231027184041
+title: Obsidian 插件：Android nomedia 不让仓库图片出现在你的手机相册中
+tags: ['obsidian插件']
+description: Obsidian 插件：Android nomedia 不让仓库图片出现在你的手机相册中，通过向每个文件夹添加“nomedia”文件，在Android设备上隐藏Vault中的媒体文件。
+author: OS
+type: other
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20240116095950
 ---
 
-# Obsidian 插件：Android nomedia
+# Obsidian 插件：Android nomedia 不让仓库图片出现在你的手机相册中
+
+## 概述
+
+很多移动端用户，尤其是 Android 用户会发现，手机仓库中图片会被索引到手机的照片/图片查看中。此插件就是通过向每个文件夹添加“nomedia”文件，在 Android 设备上隐藏 Vault 中的媒体文件。
 
 > [!Note] 插件名片
 > - 插件名称：Android nomedia
@@ -20,28 +24,15 @@ modified: 20230101000000
 > - 项目地址：[点我访问](https://github.com/calomancer/android.nomedia)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?android-nomedia)
 
-## 概述
+## 效果&特性
 
-通过向每个文件夹添加“nomedia”文件，在 Android 设备上隐藏 Vault 中的媒体文件。
+作者语：
 
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/calomancer/android.nomedia/master/README.md)
->
+为什么需要这个？
 
----
+这个插件非常适合那些将他们的 Obsidian 仓库与他们的安卓设备同步的人。'.nomedia' 文件可以隐藏一个文件夹及其内容，使其在手机的照片/图片查看（媒体选择器）中不可见，例如用于选择要与文本共享的照片的选择器。
 
-## Readme(翻译）
-
-下面是 [[android-nomedia]] 插件的自述翻译
-
-# Android nomedia
-
-这是一个简短而简单的插件，它会在保险库中的每个文件夹中添加一个“.nomedia”文件。
-
-为什么你想要这个？
-
-这个插件非常适合那些将他们的保险库与他们的安卓设备同步的人。'.nomedia' 文件可以隐藏一个文件夹及其内容，使其在媒体选择器中不可见，例如用于选择要与文本共享的照片的选择器。
+## 使用
 
 这个插件在应用程序启动时运行，并且每次 Obsidian 创建一个文件夹时都会运行。
 

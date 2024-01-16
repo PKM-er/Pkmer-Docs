@@ -1,7 +1,7 @@
 ---
 uid: 20231109234453
 title: Thino
-tags: []
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 的含义
 author: Bon,OS,PKMer
 type: other

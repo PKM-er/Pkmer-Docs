@@ -1,22 +1,24 @@
 ---
 uid: 20231109234546
-title: Thino 输入
-tags: 
-description: Thino 输入
+title: Thino 编辑器
+tags: [Obsidian, Obsidian插件, Thino]
+description: Thino 编辑器
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110001429
+modified: 20240115195949
 ---
 
-# Thino 输入
+# Thino 编辑器
 
-在 2.1.0 以后，本体 Thino 将会默认使用 Obsidian 所提供的所见即所得编辑器，而 Web Thino 则采用了 Tiptap 进行自有编辑器的开发，当你第一次接触到编辑器的时候会看到以下的几个元素，我会逐一跟你解释他们的作用：
+## 概述
+
+在 2.1.0 以后，本体 Thino 将会默认使用 Obsidian 所提供的所见即所得编辑器，而 Web Thino 则采用了 Tiptap 进行自有编辑器的开发。当你第一次接触到编辑器的时候会看到以下的几个元素，下面会逐一跟你解释他们的作用：
+
+## 常用
 
 ![Thino 输入](https://cdn.pkmer.cn/images/Pasted%20image%2020231108232536.png!pkmer)
-
-其中
 
 - 1 为标签的快速输入按钮，当你点击后可以快速弹出标签选择弹窗；
 - 2 为图片的快速选择按钮，当你点击以后你可以从外部导入图片到 Thino 中；

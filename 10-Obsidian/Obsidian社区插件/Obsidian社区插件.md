@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240105182739
+modified: 20240116114822
 ---
 
 # Obsidian 社区插件
@@ -176,6 +176,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-task-progress-bar]]： 简洁易用的任务统计和完成查看工具
 - [[obsidian-kanban]]：在 Obsidian 制作看板，可以连接你的笔记
 - [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
+- [[checkbox-reorder]]：针对任务列表的完成情况重新排序
 - [[obsidian-badge]]：可以自定义一个进度样式，方便你传入任何地方。需要了解下简单的语法规则。
 - [[obsidian-task-archiver]]：帮你快速归类待办任务
 - [[completed-task-display]]：提供控件来显示或隐藏已完成的任务。
@@ -268,6 +269,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[tag-word-cloud]]：展示你的标签/词/链接的词云图
 - [[obsidian-basetag]]：这个插件在预览模式下渲染标签的缩略名称
 - [[colored-tags-wrangler]]：一个简单而又强大的标签色彩样式整理器
+- [[auto-tag]]：基于 AI 来为笔记生成标签
 
 ### 表格类
 
@@ -407,6 +409,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[quick-explorer]]：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
  - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
  - [[file-order]]：允许你快速给文件夹和文件排序并添加数字编号
+ - [[auto-archive]]：自动按照时间跨度归档你的笔记
  - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
  - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
  - [[recent-files-obsidian]]：显示最近打开的文件列表
@@ -500,4 +503,10 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[copilot]]：一个能像 chatGPT 网页版对话的 Obsidian AI 插件
 - [[smart-connections]]：基于 OpenAI 提供的 api 查询本地库，推荐笔记链接，分析笔记相关性
 - [[companion]]：以类似微软 Copilot 的交互方式，基于文本生成 AI 进行文本自动补全
+- [[auto-tag]]：基于 AI 来为笔记生成标签
 
+### 移动端
+
+这里汇集了 Obsidian 中为移动端专门设计，或者主要功能是为了支持移动端的插件。
+
+- [[android-nomedia]]：不让仓库图片出现在你的手机相册中

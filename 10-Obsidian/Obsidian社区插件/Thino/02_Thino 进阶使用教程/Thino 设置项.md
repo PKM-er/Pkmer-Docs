@@ -1,7 +1,7 @@
 ---
 uid: 20231109234544
 title: Thino 设置
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 设置
 author: Bon,PKMer
 type: other

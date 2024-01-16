@@ -1,5 +1,5 @@
 ---
-uid: 20231027184033
+uid: 20231027184045
 title: Obsidian 插件：Easy Bake 将笔记和关联的笔记转变为单文件
 tags:
   - obsidian插件

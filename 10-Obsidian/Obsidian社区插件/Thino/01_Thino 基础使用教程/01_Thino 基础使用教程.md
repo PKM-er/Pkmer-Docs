@@ -1,7 +1,7 @@
 ---
 uid: 20231109234443
 title: Thino 基础使用教程
-tags: []
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 基础使用教程
 author: Bon,PKMer
 type: other
