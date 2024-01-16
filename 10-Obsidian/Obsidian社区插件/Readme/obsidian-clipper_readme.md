@@ -77,7 +77,7 @@ Obsidian Clipper 提供了一个选项，可以下载一个基于 Chrome 的浏�
 
 先前的工作和灵感
 
-我最初是从修改这个 [Obisdian论坛帖子](https://forum.obsidian.md/t/obsidian-web-clipper-bookmarklet-with-full-markdown-support-for-images-headings-and-code-blocks/22068) 中找到的 Gist 中得到这个想法的。
+我最初是从修改这个 [Obsidian论坛帖子](https://forum.obsidian.md/t/obsidian-web-clipper-bookmarklet-with-full-markdown-support-for-images-headings-and-code-blocks/22068) 中找到的 Gist 中得到这个想法的。
 
 我使用了以下 Obsidian 插件仓库作为实现我的目标的示例。
 

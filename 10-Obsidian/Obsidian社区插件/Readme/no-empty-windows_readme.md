@@ -1,16 +1,20 @@
 ---
-uid: 2023080322225505
-title: Obsidian 插件：No Empty Windows
+uid: 20231027184030
+title: Obsidian 插件：No Empty Windows 关闭最后一个标签但是不关闭 Obsidian
 tags: ['obsidian插件', 'readme']
 description: 当最后一个标签关闭时，使用cmd+W在Mac上关闭Obsidian窗口。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20240116122624
 ---
 
-# Obsidian 插件：No Empty Windows
+# Obsidian 插件：No Empty Windows 关闭最后一个标签但是不关闭 Obsidian
+
+## 概述
+
+该插件让 Obsidian 的标签管理行为更加接近你熟悉的浏览器。关闭最后一个打开的选项卡，但不会关闭窗口，使应用程序运行在后台，以便更快地运行重新启动。
 
 > [!Note] 插件名片
 > - 插件名称：No Empty Windows
@@ -19,23 +23,6 @@ modified: 20230101000000
 > - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/popscallion/obsidian-no-empty-windows)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?no-empty-windows)
-
-## 概述
-
-当最后一个标签关闭时，使用 cmd+W 在 Mac 上关闭 Obsidian 窗口。
-
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/popscallion/obsidian-no-empty-windows/master/README.md)
->
-
----
-
-## Readme(翻译）
-
-下面是 [[no-empty-windows]] 插件的自述翻译
-
-# no-empty-windows
 
 这个插件为那些更喜欢浏览器般行为的用户提供了一个替代 Obsidian 中的“关闭当前标签页”命令（"workspace:close"）。在这种行为中，关闭最后一个打开的标签页会关闭窗口，但保留应用在后台运行，以便更快地重新启动。
 
