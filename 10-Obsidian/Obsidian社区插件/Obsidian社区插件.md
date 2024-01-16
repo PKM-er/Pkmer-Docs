@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240116145939
+modified: 20240116191322
 ---
 
 # Obsidian 社区插件
@@ -151,6 +151,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样
 - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
 - [[obsidian-outliner]]：为 Obsidian 的大纲添加快捷操作
+- [[waypoint]]：快速创建笔记 MOC 结构
 - [[obsidian-list-callouts]]：在大纲列表上，通过设定的字符符号，生成对应的强化图标和强调高亮色
 - [[oin-gotoheading]]：提供在笔记标题之间快速跳转的操作
 - [[obsidian-zoom]]：通过快捷键，快速聚焦到大纲。并在笔记顶部生成标题的面包屑导航，该面包屑可以交互来定位大纲内容

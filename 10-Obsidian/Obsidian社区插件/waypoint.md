@@ -1,47 +1,38 @@
 ---
-uid: 2023120719463310
-title: Obsidian 插件：【Readme】Waypoint
-tags: ['界面相关', '目录/标题', '效率', 'obsidian插件', 'readme']
+uid: 20231213114231
+title: Obsidian 插件：Waypoint 快速创建笔记 MOC 结构
+tags: ['Obsidian', '界面相关', '目录/标题', '效率', 'obsidian插件']
 description: Waypoint 是一个 Obsidian 插件，可以自动生成文件夹注释中的目录/MOC。一旦生成了一个航路点，它将自动链接到文件夹及其子文件夹中的每个笔记。Waypoint插件将检测您何时创建/重命名/移动/删除注释，并自动保持最新状态。
-author: AI
-type: readme
+author: OS
+type: other
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20240116191353
 ---
 
-# Obsidian 插件：【Readme】Waypoint
+# Obsidian 插件：Waypoint 快速创建笔记 MOC 结构
+
+## 概述
+
+Waypoint 是一个 Obsidian 插件，可以自动生成文件夹注释中的目录/MOC。一旦生成了一个导航锚点，它将自动链接到文件夹及其子文件夹中的每个笔记。Waypoint 插件将检测您何时创建/重命名/移动/删除注释，并自动保持最新状态。
 
 > [!Note] 插件名片
 > - 插件名称：Waypoint
 > - 插件作者：Idrees Hassan
 > - 插件说明：Waypoint 是一个 Obsidian 插件，可以自动生成文件夹注释中的目录/MOC。一旦生成了一个航路点，它将自动链接到文件夹及其子文件夹中的每个笔记。Waypoint 插件将检测您何时创建/重命名/移动/删除注释，并自动保持最新状态。
-> - 插件分类：[' 界面相关 ', ' 目录/标题 ', ' 效率 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：[‘Obsidian’,' 界面相关 ', ' 目录/标题 ', ' 效率 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/IdreesInc/Waypoint)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?waypoint)
 
-## 概述
-
-Waypoint 是一个 Obsidian 插件，可以自动生成文件夹注释中的目录/MOC。一旦生成了一个航路点，它将自动链接到文件夹及其子文件夹中的每个笔记。Waypoint 插件将检测您何时创建/重命名/移动/删除注释，并自动保持最新状态。
+## 效果&特性
 
 ![Waypoint](https://cdn.pkmer.cn/covers/waypoint.png!pkmer)
 
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/IdreesInc/Waypoint/master/README.md)
->
+## 使用
 
----
+若你使用文件夹对笔记进行分类，并希望 Obsidian 在图形视图中不用每次创建文件时都要跟踪标签和链接的变动情况，或者厌烦决定哪些文件夹应该作为分类，而不必为每个文件夹创建索引文件？
 
-## Readme(翻译）
-
-下面是 [[waypoint]] 插件的自述翻译
-
-# Waypoint - [Obsidian.md](https://obsidian.md/) 的自动目录生成器
-
-您是否使用文件夹对笔记进行分类，并希望 Obsidian 在图形视图中显示特定的文件夹？您是否讨厌每次创建文件时都要跟踪标签和链接？您是否想要决定哪些文件夹应该作为分类，而不必为每个文件夹创建索引文件？
-
-Waypoint 是 Obsidian 的一个插件，可以自动在您的文件夹笔记中生成目录/ MOC（Map of Content）。一旦生成了一个航点，它将自动链接到文件夹及其子文件夹中的每个笔记。Waypoint 插件将检测您创建/重命名/移动/删除笔记的操作，并自动保持最新状态。**不再需要处理大量的标签或手动更新自己的内容地图！**
+Waypoint 是 Obsidian 的一个插件，可以自动在您的文件夹笔记中生成目录/ MOC（Map of Content）。一旦生成了一个导航锚点，它将自动链接到文件夹及其子文件夹中的每个笔记。Waypoint 插件将检测您创建/重命名/移动/删除笔记的操作，并自动保持最新状态。**不再需要处理大量的标签或手动更新自己的内容地图！**
 
 ![](https://cdn.pkmer.cn/covers/waypoint_2_0.gif)
 
