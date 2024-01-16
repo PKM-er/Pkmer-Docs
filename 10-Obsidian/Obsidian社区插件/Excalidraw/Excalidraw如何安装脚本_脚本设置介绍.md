@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231229194907
+modified: 20240116194514
 ---
 
 # Excalidraw 如何安装脚本 + 脚本设置介绍
