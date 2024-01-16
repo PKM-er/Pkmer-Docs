@@ -1,5 +1,5 @@
 ---
-uid: 20231027184031
+uid: 20231027184131
 title: Obsidian 插件：System Dark Mode 自动根据操作系统设置在浅色、暗色模式间切换
 tags: ['样式工具', 'obsidian插件']
 description: Obsidian 插件：System Dark Mode 自动根据操作系统设置在浅色、暗色模式间切换

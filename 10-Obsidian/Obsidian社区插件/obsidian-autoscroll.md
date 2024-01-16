@@ -1,5 +1,5 @@
 ---
-uid: 20231027184030
+uid: 20231027184430
 title: Obsidian 插件：Autoscroll 调整笔记滚动浏览的速度
 tags: ['obsidian插件']
 description: .这个插件可以让你以指定的速度自动向下滚动内容。
