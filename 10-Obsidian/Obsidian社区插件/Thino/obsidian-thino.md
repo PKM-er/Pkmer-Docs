@@ -40,7 +40,7 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
 - [[01_Thino 基础使用教程]]
     - [[Thino 卡片|卡片]]
         - [[Thino 卡片菜单|Thino 菜单]]
-    - [[Thino 输入功能|输入]]
+    - [[Thino 编辑器|输入]]
     - [[Thino 搜索功能|搜索]]
     - [[Thino 检索式功能|检索式（筛选）]]
     - [[Thino 标签功能|标签]]

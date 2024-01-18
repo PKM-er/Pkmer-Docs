@@ -29,7 +29,7 @@ id: f7d5cb726ba66f91
 - [[Thino 列表样式]]
 - [[Thino 命令]]
 - [[Thino 热点图]]
-- [[Thino 输入功能]]
+- [[Thino 编辑器]]
 - [[Thino 搜索功能]]
 - [[Thino 图片功能]]
 - [[Thino 分享功能]]

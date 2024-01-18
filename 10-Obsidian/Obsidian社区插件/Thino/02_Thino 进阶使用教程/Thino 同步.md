@@ -3,7 +3,7 @@ uid: 20240115111124
 title: Thino 同步
 tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 同步
-author: OS,PKMer
+author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
@@ -19,12 +19,23 @@ modified: 20240116095518
 
 这里是指的通过服务器，和 Thino 插件多端，多仓库产生数据同步。
 
-### 针对同步的对象
+### 针对同步的对象和机制
 
 考虑到保持简洁，架构更加稳定，目前 Thino 的同步指针对如下对象：
 
-- 本地版本中单文件模式文件
-- web 版本（后续推出）
+- 本地版本中多种被 Thino 识别的内容，可以同步到云端
+- 云端对于新的库，将把所有内容同步到单文件中
+
+![image.png|700](https://cdn.pkmer.cn/images/20240118181806.png!pkmer)
+
+### 同步类型
+
+- 文本：全支持，包括基本 Markdown 语法
+- 图片：
+	- 外链图片格式全部支持（已经支持）
+	- 内链本地图片（设计开发预案中）
+		- 主要是考虑到了不同库的文件，存放在哪里，如果是根据笔记所在目录存储，还要考虑建立目录结构的问题，这会让没有同步的库多出来很多空目录结构。
+- 附件：（设计开发预案中）
 
 ## 使用
 
