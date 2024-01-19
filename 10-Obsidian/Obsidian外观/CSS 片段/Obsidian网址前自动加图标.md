@@ -16,6 +16,7 @@ modified: 20230602192456
 
 这个片段可以在预览文档时对网址识别，并加上网站的 Logo，提高网址的识别度。
 
+- 通过使用 自定义样式来完成，使用方法参考 [[Obsidian的CSS代码片段]]
 ## 样式
 
 ![image.png](https://cdn.pkmer.cn/images/202305061057186.png!pkmer)
