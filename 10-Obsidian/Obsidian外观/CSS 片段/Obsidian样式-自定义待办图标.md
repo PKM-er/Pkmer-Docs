@@ -16,6 +16,7 @@ modified: 20230709151216
 
 `- [T] 示例待办样式`
 
+- 通过使用 自定义样式来完成，使用方法参考 [[Obsidian的CSS代码片段]]
 ## 效果
 
 ![Pasted image 20230610160521](https://cdn.pkmer.cn/images/Pasted%20image%2020230610160521.png!pkmer)

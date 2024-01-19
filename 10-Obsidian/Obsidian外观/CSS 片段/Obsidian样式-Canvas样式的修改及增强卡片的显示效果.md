@@ -14,8 +14,9 @@ modified: 20230723164619
 
 **Canvas 样式的修改及增强卡片的显示效果**：
 
-![Pasted image 20230722052842](https://cdn.pkmer.cn/images/Pasted%20image%2020230722052842.png!pkmer)
+![Obsidian样式-Canvas样式的修改及增强卡片的显示效果|1000](https://cdn.pkmer.cn/images/Pasted%20image%2020230722052842.png!pkmer)
 
+- 通过使用 自定义样式来完成，使用方法参考 [[Obsidian的CSS代码片段]]
 ## Canvas 卡片局部 CSS 设置
 
 ### 卡片的 label 的 CSS 设置
