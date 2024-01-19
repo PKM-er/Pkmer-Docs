@@ -1,16 +1,16 @@
 ---
 uid: 20230703152137
-title: "Blue Topaz "
-tags: [主题]
-description: 
-author: cuman
+title: Blue Topaz
+tags: [Obsidian, 主题, theme]
+description: Obsidian 2021 年度最佳主题相关的介绍和讲解
+author: cuman,PKMer
 type: other
 draft: false
 editable: false
-modified: 202308000758
+modified: 20240119151058
 ---
 
-# Blue Topaz 
+# Blue Topaz
 
 ## 概述
 
@@ -45,10 +45,14 @@ modified: 202308000758
 
 [https://github.com/lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen)
 
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=581423558&bvid=BV1S64y1N7GV&cid=1411254225&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
 ## 相关资源
 
 [[BT 主题精华片段集合-Blue Topaz Legacy]]
+
 [[Blue Topaz 示例库简介]]
+
 [[Blue Topaz主题style setting配置]]
-
-
