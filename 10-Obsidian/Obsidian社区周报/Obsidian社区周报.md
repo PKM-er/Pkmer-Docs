@@ -18,7 +18,8 @@ modified: 20240113105421
 
 更新时间：每周五晚 - 周六早
 
-- [[2024-01-13-ObsidianRoundup]]（New！试刊）
+- [[2024-01-20-ObsidianRoundup]]（New！试刊）
+- [[2024-01-13-ObsidianRoundup]]（试刊）
 - [[2024-01-06-ObsidianRoundup]]（试刊）
 - [[2023-12-30-ObsidianRoundup]]（试刊）
 - [[2023-01-07-ObsidianRoundup]]
