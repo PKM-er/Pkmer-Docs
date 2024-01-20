@@ -2,20 +2,20 @@
 uid: 20231227185818
 title: Thino 全局唤醒
 tags: [Obsidian, Obsidian插件, Thino]
-description: 
-author: 余月鱼鸽
+description: Thino 全局唤醒
+author: 余月鱼鸽,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20231228144511
+modified: 20240120210852
 ---
 
 # Thino 全局唤醒
 
-Thino 的全局唤醒功能
+> [!note] 功能信息
+> 此功能在 Thino 2.1.5 版本上线，之前版本不支持
 
-- Thino 2.1.5 版本于 2023.12.27 日更新了全局唤醒功能
-- 顾名思义，全局唤醒功能即再 电脑端（Win 端、Mac 可用，鸿蒙系统暂不支持）阅读时，随时唤醒 thino ，以达到快速摘录的目的。
+顾名思义，全局唤醒功能即再 电脑端（Win 端、Mac 可用，鸿蒙系统暂不支持）阅读时，随时唤醒 thino ，以达到快速摘录的目的。
 
 如何使用 Thino 的全局唤醒功能
 
