@@ -121,3 +121,5 @@ Activity History 插件可以在笔记中渲染代码块生成一个记录你修
 同时，在 home tab 的设置中，我还添加了与该热力图相关的一些设置，方便大家对热力图进行一些自定义
 
 ![image.png](https://cdn.pkmer.cn/images/20240120143705.png!pkmer)
+
+魔改插件获取：!()[https://github.com/xhuajin/obsidian-home-tab]
