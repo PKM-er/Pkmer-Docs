@@ -12,7 +12,7 @@ modified: 20240120160308
 
 # Callout
 
-callout 是 obsidian 的新语法，源于 markdown 的引用 <kbd>></kbd>
+callout 是 obsidian 的特有语法，源于 markdown 的引用语法 <kbd>></kbd>
 
 除了 obsidian，其实在很多地方你都能看到类似的样式，举几个例子
 
