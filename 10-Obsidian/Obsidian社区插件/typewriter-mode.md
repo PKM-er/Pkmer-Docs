@@ -55,7 +55,7 @@ modified: 20230731110201
 	- **全屏写作焦点的晕影效果样式：** _全屏写作焦点模式中晕影效果的样式_ - _方框，柱状_
 兼容性
 
-![bc7e69be1c97ef4f112fefccfa14bf2.png|865](https://cdn.pkmer.cn/images/bc7e69be1c97ef4f112fefccfa14bf2.png!pkmer)
+![bc7e69be1c97ef4f112fefccfa14bf2.png|750](https://cdn.pkmer.cn/images/bc7e69be1c97ef4f112fefccfa14bf2.png!pkmer)
 
 ![54a90e06cf049db42a77bb01522c1c6.png|865](https://cdn.pkmer.cn/images/54a90e06cf049db42a77bb01522c1c6.png!pkmer)
 

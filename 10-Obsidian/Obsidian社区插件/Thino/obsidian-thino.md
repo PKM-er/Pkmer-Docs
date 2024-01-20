@@ -1,13 +1,13 @@
 ---
 uid: 20231109234455
 title: Thino 用户使用指南
-tags: []
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 用户使用指南，你想知道 Thino 的一切都在这里
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215145306
+modified: 20240115163848
 id: dacd7a42e067cce1
 ---
 
@@ -28,7 +28,7 @@ id: dacd7a42e067cce1
 
 Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
 
-## 更新日志 
+## 更新日志
 
 [[thino-changelog]]
 
@@ -40,7 +40,7 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
 - [[01_Thino 基础使用教程]]
     - [[Thino 卡片|卡片]]
         - [[Thino 卡片菜单|Thino 菜单]]
-    - [[Thino 输入功能|输入]]
+    - [[Thino 编辑器|输入]]
     - [[Thino 搜索功能|搜索]]
     - [[Thino 检索式功能|检索式（筛选）]]
     - [[Thino 标签功能|标签]]
@@ -66,12 +66,16 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
         - [[Thino 设置项#主题设置|主题设置]]
         - [[Thino 设置项#分享设置|分享设置]]
         - [[Thino 设置项#进阶设置|进阶设置]]
-- [[obsidian-memos]]
-	- [[thino-changelog]]
+    - [[Thino 同步]]
+    - [[Thino 微信内容发送到Thino]]
+- 03_Thino 高级使用教程
+	- [[使用简悦 SimpRead 与 Thino 进行联动]]
 - Thino 样式专区
 	- [[Obsidian样式-给Thino加个滚动条]]
 	- [[Obsidian样式-给Thino搭配10种热力图颜色]]
 	- [[Obsidian样式-Thino单文件时间轴样式]]
+- 更多教程
+    - [文章列表](https://pkmer.cn/tags/thino/)
 
 ## 声明
 

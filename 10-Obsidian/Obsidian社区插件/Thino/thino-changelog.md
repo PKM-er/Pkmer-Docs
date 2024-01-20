@@ -1,26 +1,65 @@
 ---
 uid: 20230913172534
 title: Thino 2.X （原名 Obsidian memos）更新记录
-tags: [memos]
+tags: [Obsidian, Thino, memos]
 description: Obsidian 插件 Thino 2.X 更新记录
-author: Bon,PKMer
+author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215144329
+modified: 20240115132815
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
 
 # Thino 2.X 更新记录
 
-需要请加入内侧体验
+需要请加入内侧体验，[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
 
-[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
+## Thino 2.2 2024.1.21
 
-## Thino 2.1.4 2023.12.15
+### 新特性
 
-### 修复
+- 支持单文件模式的同步，参见 [[Thino 同步]]
+- 支持微信信息发送到 Thino，参见 [[Thino 微信内容发送到Thino]]
+
+## 调整
+
+- 卡片功能菜单，删除文案会因为你的选择而不同
+	- 如果选择直接删除模式，会展示为“删除”
+	- 如果选择进入回收站，会展示为“回收站”
+
+## 修复
+
+- 修复：部分情况编辑器上 `NOTEIT` 按钮无法使用的问题
+- 修复：热力图和分享界面统计数字不一致问题
+- 修复：部分情况下文本内容会因为 Thino 宽度变化而改变行高的问题
+- 修复：【列表】【阅读】查看表格时显示渲染异常
+- 修复：【编辑器】【置顶】【再次编辑】已经置顶的内容，再次编辑编辑内容无法保存
+
+## Thino 2.1.6 2023.12.28
+
+- 修复移动端异常
+
+## Thino 2.1.5 2023.12.27
+
+### 新特性
+
+- 聚焦到 Thino，现在当你点击侧边栏的 Thino 图标，会自动聚焦到已经打开的 Thino 页签
+- 全局响应复制事件，在命令中输入 init global copy event 来触发，触发后可以快捷唤起 thino 的输入框
+	- 这样的设计思考是在有限情况，即便 Thino 不常驻在布局中，也可以快速输入内容
+	- ![image.png|400](https://cdn.pkmer.cn/images/20231227160528.png!pkmer)
+- Show nearby mouse：可以呼出的 thino 界面在鼠标光标旁边
+
+> [!Warning] 注意
+> - 此特性不是默认开启，以防止和你已经设定的快捷键冲突
+> - 需要你先在插件设置中开启，如图，并重启 Obisidian
+> - 比如我这里输入的是 <kbd>Ctrl+Shift+K</kbd>，或者通过快捷键菜单去设置
+>  ![image.png|650](https://cdn.pkmer.cn/images/20231227160540.png!pkmer)
+
+- Show nearby mouse：可以呼出的 thino 界面在鼠标光标旁边
+
+更多参考： [[Thino 全局唤醒]]
 
 ## Thino-v2.1.4 2023.12.15
 
@@ -32,13 +71,14 @@ modified: 20231215144329
 4. Minimal 模式（通过命令开启）；
 5. 当遇到某一个部分的 Thino 获取报错的时候，不会影响别的类型的 Thino 获取；
 6. 修复了没办法正确更新任务相关的 Thino 的问题；
+7. 源码模式在编辑器中的冲突
 
 ### 新功能
 
 1. 从侧边栏重复开启 Thino 后保存按钮不可点击；但是也带来了两个比较方便的功能：
 	- 一个是：可以通过调用 app.workspace.trigger('send-to-thino', content); 其中 content 为字符串就会自动发送且保存
 	- 另一个是：桌面端本地，在开启 settings 中的 Http 接口后可以通过以下形式调用 Thino 创建的能力，例如，可以通过以下的 POST 方法发送 Thino 且创建：
-	- 支持 application/json ，默认端口是 http://localhost:52321/create
+	- 支持 application/json ，默认端口是 <http://localhost:52321/create>
    body 内容附带 json：
 
 ```json

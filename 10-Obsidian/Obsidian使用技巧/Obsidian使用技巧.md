@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20231215144448
+modified: 20240115155752
 ---
 
 # Obsidian 使用技巧
@@ -33,6 +33,9 @@ modified: 20231215144448
 - [[Obsidian-为什么输入annotor的yaml模板时会被解析成分割线或文档属性]]
 - [[提升安卓手机使用obsidian笔记体验的几个软件]]
 - [[一网打尽-带你了解Obsidian中标签汇总方案]]
+- [[使用 Obsidian 白板功能绘制商业模式画布]]
+- [[Obsidian同步拼车教程]]
+- [[Obsidian 主页制作小教程]]
 
 ### 第三方插件
 
@@ -50,6 +53,7 @@ modified: 20231215144448
 - [[obsidian-tasks的GTD实践|基于 task 插件的实战 GTD 管理]]
 - [[将引用的内容嵌入到行的方案]]
 - [[每日字数的热力图]]
+- [[auto-insert-template自动化模板教学]] by Devol
 
 ## 与第三方软件联动
 
@@ -59,3 +63,5 @@ modified: 20231215144448
 	- [[Zotero和Obsidian联动]]
 - [[如何运用obsidian和Zotero的插件配置整理文献管理实现阅读笔记]]
 - [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]
+- [[关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案]]
+- [[表格操作占用快捷键过多的解决方案]]

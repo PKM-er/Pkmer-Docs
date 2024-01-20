@@ -1,5 +1,5 @@
 ---
-uid: 20231027184030
+uid: 20231027184034
 title: Obsidian 插件：Double Click Tab 双击标签标题时修改默认行为
 tags: [obsidian插件, 标签页]
 description: 双击标签标题时修改默认行为的插件，比如关闭标签。

@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230921154145
+modified: 20240105184258
 ---
 
 # Obsidian 插件：Auto Hide 自动隐藏侧边栏
@@ -25,8 +25,6 @@ modified: 20230921154145
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-auto-hide)
 
 ## 效果&特性
-
-![234.gif](https://cdn.pkmer.cn/images/234.gif!pkmer)
 
 - 单击笔记内容，自动折叠侧边栏
 - 可以通过以下方式展开侧边栏

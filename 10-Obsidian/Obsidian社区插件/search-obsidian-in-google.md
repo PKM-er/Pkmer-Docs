@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230814191203
+modified: 20240108111043
 ---
 
 # Obsidian 插件：Search Obsidian In Google 让你在谷歌搜索中搜索 Obsidian 中的笔记
@@ -29,6 +29,8 @@ modified: 20230814191203
 - 模糊匹配；
 - 自动排序；
 - 点击后在 Obsidian 中打开；
+
+![Search Obsidian in Google](https://cdn.pkmer.cn/covers/search-obsidian-in-google.jpeg!pkmer)
 
 ## 使用
 

@@ -7,7 +7,7 @@ author: PKMer
 type: basic
 draft: false
 editable: false
-modified: 20231213113149
+modified: 20240105104312
 ---
 
 # Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
@@ -20,7 +20,7 @@ modified: 20231213113149
 
 但是因为网络原因，都会遇到上图显示的麻烦，提示 " 无法加载社区插件 "," 无法加载社区主题 " 的老生常谈的问题，为了彻底解决这个问题，Obsidian PKMer 首次使用国内 cdn 加速，提供了插件市场和主题市场，不需要魔法，完美解决 Obsidian 无法加载第三方插件。
 
-![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件 | 850 | cover](https:/cdn.pkmer.cn/images/202307270026698.png!pkmer)
+![Obsidian 插件：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件 | 700 | cover](https:/cdn.pkmer.cn/images/202307270026698.png!pkmer)
 
 > [!Note] 插件名片
 > - 插件名称：PKMer
@@ -74,6 +74,10 @@ PKMer 从 Obsidian 官方发布的插件信息列表中，找到最近更新的�
 感谢社区用户自行提交的指南，特此独立明示：
 
 [[新手安装PKMer插件常见问题指南]]
+
+[[PKMer插件电脑端安装手把手教程]] PC 端
+
+[[PKMer插件安卓端安装手把手教程]] 移动端参考这里
 
 ## 相关视频
 
