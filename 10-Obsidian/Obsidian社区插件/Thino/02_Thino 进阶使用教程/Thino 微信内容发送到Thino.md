@@ -1,13 +1,13 @@
 ---
 uid: 20240115111138
 title: Thino 微信内容发送到 Thino
-tags: [Obsidian, Obsidian插件, Thino]
+tags: [Obsidian, Obsidian插件, Thino, 同步, 微信]
 description: Thino 微信内容发送到 Thino
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240118191639
+modified: 20240120211240
 ---
 
 # Thino 微信内容发送到 Thino

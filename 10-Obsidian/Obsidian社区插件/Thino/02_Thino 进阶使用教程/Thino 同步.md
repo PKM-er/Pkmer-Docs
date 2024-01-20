@@ -1,19 +1,22 @@
 ---
 uid: 20240115111124
 title: Thino 同步
-tags: [Obsidian, Obsidian插件, Thino]
+tags: [Obsidian, Obsidian插件, Thino, 同步]
 description: Thino 同步
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240116095518
+modified: 20240121000627
 ---
 
 # Thino 同步
 
 > [!note] 功能信息
 > 此功能在 Thino 2.2 版本上线，之前版本不支持
+
+> [!Warning] 重要
+> - 同步涉及到数据操作，请提前备份好对应数据
 
 ## 概述
 
@@ -89,3 +92,9 @@ modified: 20240116095518
 	- 会遇到各种插件都会操作文件名和目录结构，那么意味着 Thino 要一直保持适配所有相关插件和个人不同的配置，在 Obsidian 这样庞大的社区插件，和日新月异的插件功能和新秀面前，这种工作得不偿失。
 	- 会遇到新库没有对应插件
 	- 没有对应目录结构的问题，这种文件级别的操作，一直是极容易发生数据用户丢失的。
+
+## 已知问题
+
+- 可能 iPad 上缺少更详细测试，这主要是 Obsidian 调试移动端困难引起，Obsidian 可能会计划改善这一环境问题，我们会跟进相关进展。
+- 可能会与其他同步产生不确定的问题，但目前没有接到丢失数据的反馈
+	- 微力同步，会产生冗余的同步文件，预料之中，毕竟文件级别同步都会对变化产生跟踪。
