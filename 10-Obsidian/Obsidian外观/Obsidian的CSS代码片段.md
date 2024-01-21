@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240110121327
+modified: 20240120160307
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -88,6 +88,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-Callout样式]]
 - [[Obsidian样式-如何实现Blue-topaz自带类表格时间线样式]]
 - [[Obsidian样式-MCL Multi Column]]
+- [[Obsidian样式-用Callout实现的边注]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
