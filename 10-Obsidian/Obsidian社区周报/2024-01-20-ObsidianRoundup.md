@@ -69,7 +69,7 @@ modified: 20240121002214
 - 默认排序顺序
 - 如何处理无效日期
 - 铅笔和推迟按钮的样式
-有关这些更改的完整详细信息，请参阅 [重大更改](<https://publish.obsidian.md/tasks/Support+and+Help/Breaking+Changes#Tasks+6.0.0+> (19+January+2024)。
+有关这些更改的完整详细信息，请参阅 [重大更改](https://publish.obsidian.md/tasks/Support+and+Help/Breaking+Changes#Tasks+6.0.0+)。
 
 ## 其他新闻
 
@@ -115,7 +115,7 @@ modified: 20240121002214
 - the default sort order
 - how invalid dates are handled
 - styling of the Pencil and Postpone buttons
-See [Breaking Changes](<https://publish.obsidian.md/tasks/Support+and+Help/Breaking+Changes#Tasks+6.0.0+> (19+January+2024) for full details of these changes.
+See [Breaking Changes](https://publish.obsidian.md/tasks/Support+and+Help/Breaking+Changes#Tasks+6.0.0+) for full details of these changes.
 
 [Quick Plugin Switcher v5.1.7](https://github.com/1C0D/obsidian-quick-plugin-switcher/releases/tag/5.1.7) by _1C0D_ Update for tablet/mobile. So now all settings are accessible.
 
