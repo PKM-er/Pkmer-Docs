@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231218065244
+modified: 20240122222910
 ---
 
 # 关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案
@@ -16,62 +16,62 @@ modified: 20231218065244
 
 同时 [Draw.io](https://www.drawio.com/) 支持网页版及客户端使用，可以在 Windows、MacOS 和 Linux 系统上都进行操作。
 
-![](https://cdn.pkmer.cn/images/202312180636933.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636933.png!pkmer)
 
 - Github 链接：<https://github.com/jgraph/drawio-desktop>
 - 官方的教程链接：<https://www.diagrams.net/doc/>
 
-虽然不能像 Excalidraw 那样嵌入 Obsidian 的链接和笔记，但是用来话流程图和思维导图还是够用的。
+虽然不能像 Excalidraw 那样嵌入 Obsidian 的链接和笔记 (严格的说可以做到，但是很麻烦)，但是用来画流程图和思维导图还是够用的。
 
 ## 基础界面设置
 
 在 Diagram 的侧边选项中，可以打开**形状**、**格式**、**标尺**，以及 **图层**、**缩略图**的选项。
 
-> [!tip]+ 其他地方打开图层和缩略图
-> ![](https://cdn.pkmer.cn/images/202312180636935.png!pkmer)
+> [!tip] 其他地方打开图层和缩略图
+> ![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636935.png!pkmer)
 
-![](https://cdn.pkmer.cn/images/202312180636936.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636936.png!pkmer)
 
 ### 形状
 
 可以通过点击 更多图形来添加更多形状：
 
-![](https://cdn.pkmer.cn/images/202312180636937.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636937.png!pkmer)
 
 ### 样式
 
 全局的布局样式调整：
 
-![](https://cdn.pkmer.cn/images/202312180636939.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636939.png!pkmer)
 
 局部块元素演示调整：
 
-![](https://cdn.pkmer.cn/images/202312180636940.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636940.png!pkmer)
 
 ### 图层
 
 可以对不同的图形添加图层，上下移动设置图层的上下层关系，以及可以隐藏图层。
 
-![](https://cdn.pkmer.cn/images/202312180636941.gif!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636941.gif!pkmer)
 
 ### 缩略图
 
 可以通过移动缩略图的来移动窗口的视图，鼠标滚轮可以控制缩放大小。
 
-![](https://cdn.pkmer.cn/images/202312180636942.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636942.png!pkmer)
 
 ### 页面管理
 
-![](https://cdn.pkmer.cn/images/202312180636943.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636943.png!pkmer)
 
 界面下方可以通过**单击 + 号**或者鼠标右键页面可以复制当前页面来添加不同的页面，页面之间相互独立不会干扰。
 
-![](https://cdn.pkmer.cn/images/202312180636944.gif!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636944.gif!pkmer)
 
 ## 快捷键说明
 
-> [!tip]+ [官方快捷键链接diagrams.net)](https://viewer.diagrams.net/#Uhttps%3A%2F%2Fviewer.diagrams.net%2Fshortcuts.svg)
-> ![](https://cdn.pkmer.cn/images/202312180636945.png!pkmer)
+> [!tip] [官方快捷键链接diagrams.net)](https://viewer.diagrams.net/#Uhttps%3A%2F%2Fviewer.diagrams.net%2Fshortcuts.svg)
+> ![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636945.png!pkmer)
 
 补充一些常用的图形快捷键：
 
@@ -98,23 +98,23 @@ modified: 20231218065244
 
 在**调整图形 ->布局**中里面，可以快速插入不同类型的布局
 
-![](https://cdn.pkmer.cn/images/202312180636947.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636947.png!pkmer)
 
 ### Flow layouts
 
 流程布局非常适合可视化流程、思维导图或任何类型的具有类似流程结构或运动的图表，水平和垂直流布局都清晰易读。
 
-![](https://cdn.pkmer.cn/images/202312180636948.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636948.png!pkmer)
 
 ### Tree layouts
 
 水平树、垂直树、径向图
 
-![](https://cdn.pkmer.cn/images/202312180636949.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636949.png!pkmer)
 
 ### Circle layout(环形布局)
 
-![](https://cdn.pkmer.cn/images/202312180636950.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636950.png!pkmer)
 
 ### Organic layout (组织结构图)
 
@@ -122,27 +122,27 @@ modified: 20231218065244
 
 在调整图形=>布局=>组织机构图插入，会弹出如下选项框，可以选择不同的布局：
 
-![](https://cdn.pkmer.cn/images/202312180636951.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636951.png!pkmer)
 
 例如：
 
-![](https://cdn.pkmer.cn/images/202312180636952.gif!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636952.gif!pkmer)
 
 ### Parallels layout(平行布局)
 
 当多条线段重合时，应用平行布局 (Parallels layout) 以显示和分离形状之间重叠的连接器。
 
-![](https://cdn.pkmer.cn/images/202312180636953.gif!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636953.gif!pkmer)
 
 ## 如何在容器内创建布局
 
 上面所说的布局其实可以在容器中进行设置，其实在形状面板的高级选项里面，就有一些常用的布局模板：
 
-![](https://cdn.pkmer.cn/images/202312180636954.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636954.png!pkmer)
 
 在 Diagram 中有**快捷键 `Ctrl + E`** 是编辑样式命令，可以编辑容器的样式代码：
 
-![](https://cdn.pkmer.cn/images/202312180636955.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636955.png!pkmer)
 
 容器的定义是 `swimlane;`
 
@@ -160,7 +160,7 @@ modified: 20231218065244
 treeFolding=1;
 ```
 
-![](https://cdn.pkmer.cn/images/202312180636956.gif!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636956.gif!pkmer)
 
 ### 添加动态线
 
@@ -168,7 +168,7 @@ treeFolding=1;
 flowAnimation=1;
 ```
 
-![](https://cdn.pkmer.cn/images/202312180636957.gif!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636957.gif!pkmer)
 
 ### 设置 Tree Layouts 容器
 
@@ -179,7 +179,7 @@ swimlane;startSize=0;horizontal=0;childLayout=treeLayout;horizontalTree=1;resiza
 - 设置中 `containerType=tree` 该元数据可以做到像 Xmind 那样**用 tab 或者 enter 来新建子元素或者同级元素**
 	- 注意：需要 1 个根目录和 2 个子集才能开始用
 
-![](https://cdn.pkmer.cn/images/202312180636958.gif!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636958.gif!pkmer)
 
 > 将 `horizontalTree=1;` 改为 `horizontalTree=0;` 则变为垂直树：
 
@@ -189,19 +189,19 @@ swimlane;startSize=0;horizontal=1;childLayout=treeLayout;horizontalTree=0;resiza
 
 可以设置好的容器模板保存到便笺里面。
 
-![](https://cdn.pkmer.cn/images/202312180636959.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636959.png!pkmer)
 
 ### 其他属性设置
 
 其他的一些属性在 **样式面板** 的**属性和值**的选项中查看：
 
-![](https://cdn.pkmer.cn/images/202312180636960.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636960.png!pkmer)
 
 ## 插入模板
 
 其实 Diagram 自带了很多模板，在 **调整图形 ->插入 ->模板** 中可以查看。
 
-![](https://cdn.pkmer.cn/images/202312180636961.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636961.png!pkmer)
 
 ### 插入组织关系结构图
 
@@ -213,7 +213,7 @@ swimlane;startSize=0;horizontal=1;childLayout=treeLayout;horizontalTree=0;resiza
 containerType=tree;childLayout=treeLayout;horizontalTree=0;
 ```
 
-![](https://cdn.pkmer.cn/images/202312180636962.gif!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636962.gif!pkmer)
 
 ## 如何在 Obsidian 中使用 Diagram 插件
 
@@ -261,7 +261,7 @@ handleEditorMenu(e, n, i) {
 
 修改 handleFileMenu(n, i, a) 中的 `this.app.workspace.splitActiveLeaf("horizontal");` 改为 `this.app.workspace.splitActiveLeaf("vertical")`；
 
-![](https://cdn.pkmer.cn/images/202312180636963.png!pkmer)
+![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636963.png!pkmer)
 
 ### 修改文件大纲中的新建 SVG 图形不会直接打开
 
@@ -285,6 +285,6 @@ editNewDiagramFile() {
 	- 拓展：FolderNote 有个 `Delete the file and its all attachments` 可以在源码模式下删除链接对应文件，可以用来删除不小心插入的图形文件或者笔记 (如果对该命名不熟悉，请慎用)。
 - 插件：Opener
 	- 功能：用于直接从 SVG 图片链接 (Ctrl + 鼠标单击) 打开外部 Diagram 软件。
-	- 配置：![](https://cdn.pkmer.cn/images/202312180636964.png!pkmer)
+	- 配置：![关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案](https://cdn.pkmer.cn/images/202312180636964.png!pkmer)
 - 插件：Copy Image and URL context menu
 	- 功能：用于在编辑模式下快速复制或者用默认应用打开 SVG 图形文件。
