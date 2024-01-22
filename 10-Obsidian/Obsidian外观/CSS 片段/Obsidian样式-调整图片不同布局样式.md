@@ -56,21 +56,19 @@ modified: 20240119110622
 ## 3.css 片段代码
 
 ```css
-
 /* 片段来自：pkmer知识管理交流群，@熊猫别熬夜*/
 /* 将所有图片默认居中 */
 body:not(.list-image-control-off)
   :is(.HyperMD-list-line, ul)
   .image-embed.image-embed
-  img:not([width]):not([class*="emoji"]),
-img:not([class*="emoji"]) {
+  img:not([width]):not([class*="emoji"]){
   display: flex;
-  justify-content: center; /* 水平居中 */
-  align-items: center; /* 垂直居中 */
+  /* justify-content: center; */
+  /* align-items: center;  */
   max-width: 90%;
-  margin: 0 auto; /* 设置左右间距为自适应，上下间距为零 */
+  margin: 0 auto;
   object-fit: contain;
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* 视频 */
@@ -95,6 +93,7 @@ span[src$="OL"] img {
   object-fit: cover;
   border-radius: 50%;
   float: left;
+  text-align: left;
   margin: var(--float-left-margin);
   margin-block: unset;
   display: inline !important;
@@ -104,6 +103,7 @@ span[src$="OR"] img {
   object-fit: cover;
   border-radius: 50%;
   float: left;
+  text-align: right;
   margin: var(--float-right-margin);
   margin-block: unset;
   display: inline !important;
@@ -111,6 +111,7 @@ span[src$="OR"] img {
 
 span[src$="L"] img {
   float: left;
+  text-align: left;
   margin: var(--float-left-margin);
   margin-block: unset;
   display: inline !important;
@@ -118,8 +119,26 @@ span[src$="L"] img {
 
 span[src$="R"] img {
   float: right;
+  text-align: right;
   margin: var(--float-right-margin);
   margin-block: unset;
   display: inline !important;
 }
+
+/* 独占一行 */
+span[src$="IL"] img {
+  float: unset;
+  text-align: left;
+  margin: var(--float-left-margin);
+  margin-block: unset;
+  display: inline !important;
+}
+span[src$="IR"] img {
+  float: unset;
+  text-align: right;
+  margin: var(--float-right-margin);
+  margin-block: unset;
+  display: inline !important;
+}
+
 ```
