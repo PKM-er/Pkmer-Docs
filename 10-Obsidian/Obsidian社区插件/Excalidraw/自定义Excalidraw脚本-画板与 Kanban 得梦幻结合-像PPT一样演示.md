@@ -28,7 +28,7 @@ modified: 20240122220020
 ![自定义 Excalidraw 脚本 - 画板与 Kanban 得梦幻结合 - 像 PPT 一样演示](https://cdn.pkmer.cn/images/202401222205479.gif!pkmer)
 
 > [!tip] Frame 的命名
-> 正常的 Fame 命名稍微有点不方便 (仅个人感觉，可能大叔之后会优化)，我之前写过 TextExtractor 的一个脚本，是用于对图片进行 OCR 的，其实还可以对 Frame 或者 Text 的元素进行编辑，也就是不仅可以编辑图形文本还是对 Frame 和包含文本元素进行文本编辑。
+> 正常的 Fame 命名稍微有点不方便 (仅个人感觉，可能大叔之后会优化)，我之前写过 [[自定义Excalidraw脚本-OCR自动提取图片文字|TextExtractor]] 的一个脚本，是用于对图片进行 OCR 的，其实还可以对 Frame 或者 Text 的元素进行编辑，也就是不仅可以编辑图形文本还是对 Frame 和包含文本元素进行文本编辑。
 > ![自定义 Excalidraw 脚本 - 画板与 Kanban 得梦幻结合 - 像 PPT 一样演示](https://cdn.pkmer.cn/images/202401222205480.gif!pkmer)
 
 ## 使用教程
