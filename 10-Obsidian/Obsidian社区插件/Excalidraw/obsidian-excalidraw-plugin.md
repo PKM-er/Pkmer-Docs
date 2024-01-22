@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20240102213548
+modified: 20240122220808
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
@@ -129,6 +129,7 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 ## 功能手册
 
 - [[Obsidian-Excalidraw 功能手册]]
+- [[Excalidraw局部嵌入Obsidian]]
 
 ## 视频教程
 
@@ -140,16 +141,16 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 
 > EA 脚本开发的介绍： [[ExcalidrawAutomate index]]
 
-- [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
-- [[Excalidraw局部嵌入Obsidian]]
-- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
-- [[自定义Excalidraw脚本-实现Excalidraw与BookxNote的联动]]
-- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
-- [[自定义Excalidraw脚本-画板局部或者全局播放动画]]
-- [[自定义Excalidraw脚本-快速插入时间戳笔记]]
-- [[自定义Excalidraw脚本-OCR自动提取图片文字]]
-- [[自定义Excalidraw脚本-默认应用打开图片]]
-- [[自定义Excalidraw脚本-插入可以编辑的Mermaid图形]]
+- [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-实现Excalidraw与BookxNote的联动]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-画板局部或者全局播放动画]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-快速插入时间戳笔记]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-OCR自动提取图片文字]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-默认应用打开图片]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-插入可以编辑的Mermaid图形]] by 一鸣惊人
+- [[自定义Excalidraw脚本-画板与 Kanban 得梦幻结合-像PPT一样演示]] by 熊猫别熬夜
 
 ### CSS 美化
 
