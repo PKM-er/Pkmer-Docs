@@ -7,7 +7,7 @@ author: 熊猫别熬夜,ProudBenzene,y6n-u9h
 type: other
 draft: false
 editable: false
-modified: 20231229171041
+modified: 20240122221856
 ---
 
 # 自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动
@@ -19,6 +19,14 @@ modified: 20231229171041
 之前分享过 [[Quicker动作之BookxNote和Obsidian联动]] 实现了 Excalidraw 画板与 BookxNote 的联动，需要借助 Quicker 来点击 2 次才能完成一个过程，整体下来还是比较麻烦的（不过我自己还是经常在用），这次将介绍 Zotero 与 Excalidraw 的无缝连接，不需要借助 Quicker，而是通过自定义 Excalidraw 的脚本，直接拖拽 Zotero 的文本或者图片就可以实现 Zotero 到 Excalidraw 的笔记了，**拖拽过来的包含注释和选择的内容**。
 
 > PS：Zotero 7 和 Zotero 6 通用。
+
+## Zotero 快速复制格式设置
+
+因为这个脚本是根据拖入的文本信息来提取的，所以针对 Zotero 的快速复制格式有一定的设置要求，请取设置如下格式：
+
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/202401222218378.png!pkmer)
+
+> [!caution] 注意不要设置为**复制为 HTML**，这样匹配不到信息。
 
 ## 实现过程
 
