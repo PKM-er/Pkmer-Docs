@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240118033816
+modified: 20240122160413
 ---
 
 # Thino FAQ
@@ -89,7 +89,13 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ### 功能问题
 
-#### 不推荐高版本和低版本昏庸
+#### 激活
+
+- Linux 如何激活，经过内测用户反馈，我们发现可能如果您使用的是 Linux 系统无法像 Windows 那样激活产品。
+	- 现象：你会发现打开了一个浏览器页签。
+	- 解决：你可以复制这个页签中，激活的内容如 “obsidian://thino?” 开头的部分，并这时候你可以通过粘贴此内容到 Obsidian 中，并在 Obsidian 中点击这个链接。
+
+#### 不推荐高版本和低版本混用
 
 不推荐 Obsidian memos（即 1.x 版本） 和 Thino 混用（2.x 版本）
 

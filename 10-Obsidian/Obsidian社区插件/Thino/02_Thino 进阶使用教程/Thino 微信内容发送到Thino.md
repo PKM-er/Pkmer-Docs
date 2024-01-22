@@ -7,7 +7,7 @@ author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240120211240
+modified: 20240122184326
 ---
 
 # Thino 微信内容发送到 Thino
@@ -27,8 +27,10 @@ modified: 20240120211240
 
 ### 激活和绑定
 
-- 首先购买 web 服务，web 服务包含未来的 web 版本和 同步服务能力，以及微信同步
-- 购买后，进入个人中心并在个人中心中，点击绑定微信端
+- 首先购买 Web 服务，Web 服务包含未来的 Web 版本和 同步服务能力，以及微信同步
+- 激活：进入个人中心，激活 Thino 同步功能，参见 [[Thino 同步#如何激活同步功能]]
+- 绑定微信：进入个人中心并在个人中心中，点击绑定微信端
+- 对于新插件安装和激活能力，如果遇到异常情况，建议请优先尝试重启
 - ![image.png|350](https://cdn.pkmer.cn/images/20240115120704.png!pkmer)
 - 并扫描弹出的二维码
 - ![image.png|350](https://cdn.pkmer.cn/images/20240115120729.png!pkmer)
