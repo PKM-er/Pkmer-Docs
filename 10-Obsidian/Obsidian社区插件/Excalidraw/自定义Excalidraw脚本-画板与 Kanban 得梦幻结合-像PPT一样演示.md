@@ -1,16 +1,13 @@
 ---
 uid: 20240122215722
 title: 自定义 Excalidraw 脚本 - 画板与 Kanban 得梦幻结合 - 像 PPT 一样演示
-tags:
-  - Excalidraw脚本
-  - Kanban
-  - PPT
+tags: [Excalidraw脚本, Kanban, PPT]
 description: "借用 Obsidian 的 Kanban 插件 的 UI 功能，实现一个 Excalidraw 的简单的大纲。\r\r借用 Kanban 的拖拽功能可以按照 Kanban 的自上而下的顺序对 Frame 进行排序，同时用大叔的 SildeShow 脚本演示画布，实现像 PPT 一样的演示。"
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240122220020
+modified: 20240122223401
 ---
 
 # 自定义 Excalidraw 脚本 - 画板与 Kanban 得梦幻结合 - 像 PPT 一样演示
@@ -33,13 +30,13 @@ modified: 20240122220020
 
 ## 使用教程
 
-首先感谢群友 @颜凯 提供了以下使用教程，我自己写是写不了这么详细的😂：
-
 ### 视频教程
 
 <iframe src="https://player.bilibili.com/player.html?aid=496214790&bvid=BV13K411i7Jy&cid=1405753394&p=1" autoplay="false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 
 ### 使用用法
+
+首先感谢群友 @颜凯 提供了以下的使用教程，比我写的好多了，我估计都不会写这些详细，以后注意并学习一下 (by 熊猫 24.01.15)
 
 - 前提条件：
 	- 1、安装 kanban 脚本（教程详见：[[Excalidraw如何安装脚本+脚本设置介绍]])）
