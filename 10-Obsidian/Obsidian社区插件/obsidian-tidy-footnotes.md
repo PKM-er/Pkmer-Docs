@@ -1,16 +1,13 @@
 ---
 uid: 20230822233904
 title: Obsidian 插件：Tidy Footnotes
-tags:
-  - 文件重构
-  - obsidian插件
-  - 脚注
+tags: [文件重构, obsidian插件, 脚注]
 description: 可以将所有脚注都合并到一个地方，也能给脚注重新排序
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230911003951
+modified: 20240123172326
 ---
 
 # Obsidian 插件：Tidy Footnotes
