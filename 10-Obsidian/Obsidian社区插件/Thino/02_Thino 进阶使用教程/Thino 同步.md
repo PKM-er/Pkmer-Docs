@@ -7,7 +7,7 @@ author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240122233107
+modified: 20240124120212
 ---
 
 # Thino 同步
@@ -102,3 +102,5 @@ modified: 20240122233107
 - 可能 iPad 上缺少更详细测试，这主要是 Obsidian 调试移动端困难引起，Obsidian 可能会计划改善这一环境问题，我们会跟进相关进展。
 - 可能会与其他同步产生不确定的问题，但目前没有接到丢失数据的反馈
 	- 微力同步，会产生冗余的同步文件，预料之中，毕竟文件级别同步都会对变化产生跟踪。
+
+Tips：如果你需要隐藏标志位和了解标志位原因，可以参考 [[Obsidian样式-Thino插件隐藏标志位]]
