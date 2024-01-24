@@ -1,51 +1,40 @@
 ---
-uid: 2023120719444619
+uid: 20231213114232
 title: Obsidian 插件：【Readme】Timeline
-tags: ['界面相关', 'obsidian插件', 'readme']
+tags: ['界面相关', 'obsidian插件', '时间线/时间轴']
 description: 用于构建时间轴。
-author: AI
-type: readme
+author: OS
+type: other
 draft: false
 editable: false
-modified: 20230101000000
+modified: 20240123173424
 ---
 
 # Obsidian 插件：【Readme】Timeline
+
+## 概述
+
+用于构建时间轴，而且这个插件构建时间轴效果相当不错。
 
 > [!Note] 插件名片
 > - 插件名称：Timeline
 > - 插件作者：George Butco
 > - 插件说明：用于构建时间轴。
-> - 插件分类：[' 界面相关 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：[' 界面相关 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/George-debug/obsidian-timeline)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-timeline)
 
-## 概述
+## 效果&特性
 
-用于构建时间轴。
+![Obsidian 插件-timeline 创建您自己的时间线](https://cdn.pkmer.cn/covers/obsidian-timeline_1_0.gif)
 
-> [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/George-debug/obsidian-timeline/master/README.md)
->
-
----
-
-## Readme(翻译）
-
-下面是 [[obsidian-timeline]] 插件的自述翻译
-
-构建令人惊叹的时间线
-
-我们建议您使用 [代码片段](https://github.com/George-debug/obsidian-timeline/tree/master/src/style/snippet) 来处理 `脚注` 和 `节点链接`，并与 `其他插件` 一起使用。
-
-![创建您自己的时间线](https://cdn.pkmer.cn/covers/obsidian-timeline_1_0.gif)
+## 使用
 
 如何使用它
 
 选择 `timeline` 或 `timeline-labeled` 标签
 
-- ### `timeline` 标签
+### `timeline` 标签
 
   每行开头需要有 `+` 符号：
 
@@ -65,7 +54,8 @@ modified: 20230101000000
   ~~~
 
 
-- ### `timeline-labeled` 标签
+### `timeline-labeled` 标签
+
   - 每个事件都有对应的标签（`date`、`title` 和 `content`），并且标签位于行首
   - 如果你觉得写起来更容易，可以用空行将它们分开
   ~~~markdown
@@ -83,13 +73,11 @@ modified: 20230101000000
   ```
   ~~~
 
-  <br/>
+- `[]` 是可选的！
 
-`[]` 是可选的！
+你可以在代码块的开头使用 `[]` 来添加预先编写的类或你自己的类到包装器中。
 
-你可以在代码块的开头使用 `[]` 来添加预先编写的类或你自己的类到包装器中。 <br />
-
-自定义
+### 自定义
 
 使用预先编写的 `line`、`body` 和 `active color` 类：
 
@@ -115,7 +103,7 @@ modified: 20230101000000
   - active-color-interactive-accent-hover
   - active-color-interactive-success
 
-![带颜色的时间线](https://cdn.pkmer.cn/covers/obsidian-timeline_1_1.gif)
+![![Obsidian 插件-timeline 创建您自己的时间线](https://cdn.pkmer.cn/covers/obsidian-timeline_1_0.gif)带颜色的时间线](https://cdn.pkmer.cn/covers/obsidian-timeline_1_1.gif)
 
 对于 `active color`，我们使用 obsidian 的 css 变量作为活动颜色，以便与主题匹配。默认的活动颜色是 `background-modifier-success`。
 
@@ -126,9 +114,6 @@ modified: 20230101000000
     --timeline-active-color: #00c137
 ```
 
-## 特别感谢
+## 其他
 
-- [Welding Torch](https://github.com/Welding-Torch)
-- [Ivan Che](https://github.com/taqyon)
-
-## 支持
+我们建议您使用 [代码片段](https://github.com/George-debug/obsidian-timeline/tree/master/src/style/snippet) 来处理 `脚注` 和 `节点链接`，并与 `其他插件` 一起使用。

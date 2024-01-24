@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240116191322
+modified: 20240123173638
 ---
 
 # Obsidian 社区插件
@@ -106,13 +106,14 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[Obsidian样式-特殊标签-让Markdown的文本多彩多色]]
 - [[control-characters]]：显示隐藏的字符
 
-### Callout 相关
+### Callout & 时间线/时间轴相关
 
 - [[Obsidian如何制作多栏布局]]
 - [[Obsidian能像其他笔记样分栏嘛]]
 - [[obsidian-columns]]：支持多种方式来设定分栏目
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
 - [[Obsidian样式-MCL Multi Column]]
+- [[obsidian-timeline]]：用于构建漂亮的时间轴/时间线
 
 ### 标题增强
 

@@ -7,7 +7,7 @@ author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240122184544
+modified: 20240122233107
 ---
 
 # Thino 同步
@@ -30,6 +30,9 @@ modified: 20240122184544
 - 云端对于新的库，将把所有内容同步到单文件中
 
 ![image.png|700](https://cdn.pkmer.cn/images/20240118181806.png!pkmer)
+
+> [!note] 机制
+> - 细心的同学注意到了，对于开启同步功能后，会在对应的文本内容后增加 webid 用于辨识那些是需要 web 同步的时间戳
 
 ### 同步类型
 
