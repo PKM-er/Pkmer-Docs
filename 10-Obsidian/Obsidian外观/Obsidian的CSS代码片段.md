@@ -89,6 +89,8 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-如何实现Blue-topaz自带类表格时间线样式]]
 - [[Obsidian样式-MCL Multi Column]]
 - [[Obsidian样式-用Callout实现的边注]]
+- [[Obsidian样式-PLN主题的callout]]
+- [[Obsidian样式-Vicious主题的callout]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
