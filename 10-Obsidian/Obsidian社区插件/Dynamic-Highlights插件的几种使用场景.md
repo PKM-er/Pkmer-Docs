@@ -25,6 +25,7 @@ modified: 20231209101204
 ## 高亮@
 
 > 这个效果有另一个插件实现，同时附带有其他功能，可自行选择：[[obsidian-simple-mention_readme]]
+
 Dynamic Highlights 实现的效果如下图，高亮@及其之后的内容，遇到空格结束
 ![image.png](https://cdn.pkmer.cn/images/20231209095735.png!pkmer)
 
@@ -36,7 +37,7 @@ Dynamic Highlights 实现的效果如下图，高亮@及其之后的内容，遇
 ((?<=\s)@\S+|^@\S+)
 ```
 
-以下 css 样式来自网站： <www.lingdaima.com>
+以下 css 样式来自网站： www.lingdaima.com
 
 ```css
 .atPeople {
@@ -100,7 +101,7 @@ Dynamic Highlights 实现的效果如下图，高亮@及其之后的内容，遇
 
 Highlight In Preview 没有配置项，只要下载启用即可。
 
-由于这个插件是 bon 为 [[00_Thino 用户指南]|Thino] 插件写的增强功能，会默认把时间格式高亮出来，如果你不需要，请到插件源码里按照下面的代码注释掉一些内容。
+由于这个插件是 bon 为 [[00_Thino 用户指南|Thino]] 插件写的增强功能，会默认把时间格式高亮出来，如果你不需要，请到插件源码里按照下面的代码注释掉一些内容。
 
 ```js
       if (dynamicHighlightsPlugin && dynamicHighlightsPlugin.staticHighlighter[1].value.queries) {
