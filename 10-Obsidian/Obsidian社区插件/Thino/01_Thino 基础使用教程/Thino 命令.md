@@ -1,7 +1,7 @@
 ---
 uid: 20231109234543
 title: Thino 命令
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 命令
 author: Bon,PKMer
 type: other

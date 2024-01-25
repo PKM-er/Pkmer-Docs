@@ -16,7 +16,7 @@ modified: 20230603015400
 > 插件 ID：obsidian-textgenerator-plugin
 > 插件作者：Noureddine Haouari
 > 插件描述：使用 OpenAI 的模型进行文本生成
-> 插件版本：0.3.3
+> 插件版本：0.6.8
 > 插件分类：['AI', ' 第三方工具集成 ', ' 编辑工具 ', ' 中文处理 ', 'obsidian 插件 ']
 > 插件源码地址：[obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
 > 插件文档地址：[Text Generator Plugin Doc](https://text-gen.com/)

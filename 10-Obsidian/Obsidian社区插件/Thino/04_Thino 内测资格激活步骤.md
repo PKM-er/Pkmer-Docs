@@ -1,13 +1,13 @@
 ---
 uid: 20231109234445
 title: Thino 激活方式
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 激活方式
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231109235150
+modified: 20240115195637
 ---
 
 # Thino 激活方式

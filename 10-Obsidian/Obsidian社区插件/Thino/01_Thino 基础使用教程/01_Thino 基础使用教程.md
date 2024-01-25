@@ -1,13 +1,13 @@
 ---
 uid: 20231109234443
 title: Thino 基础使用教程
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 基础使用教程
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231109235516
+modified: 20240108102637
 id: f7d5cb726ba66f91
 ---
 
@@ -20,7 +20,7 @@ id: f7d5cb726ba66f91
 - [[Thino 标签功能]]
 - [[Thino 归档功能]]
 - [[Thino 回顾功能]]
-	-  [[Thino 回顾功能#每日回顾|每日回顾]]
+	- [[Thino 回顾功能#每日回顾|每日回顾]]
     - [[Thino 回顾功能#随机回顾|随机回顾]]
 - [[Thino 回收站功能]]
 - [[Thino 检索式功能]]
@@ -29,7 +29,8 @@ id: f7d5cb726ba66f91
 - [[Thino 列表样式]]
 - [[Thino 命令]]
 - [[Thino 热点图]]
-- [[Thino 输入功能]]
+- [[Thino 编辑器]]
 - [[Thino 搜索功能]]
 - [[Thino 图片功能]]
+- [[Thino 分享功能]]
 

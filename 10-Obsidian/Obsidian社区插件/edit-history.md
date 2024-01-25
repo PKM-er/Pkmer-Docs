@@ -1,14 +1,13 @@
 ---
 uid: 20230901102532
 title: Obsidian 插件：Edit History 也许是最好的笔记历史管理器
-tags:
-  - obsidian插件
+tags: [obsidian插件]
 description: 保留您的笔记的自动编辑历史记录，可以查看历史记录，与之对比或恢复以前的编辑。
 author: OS
-type: readme
+type: other
 draft: false
 editable: false
-modified: 20230908150420
+modified: 20240108120104
 ---
 
 # Obsidian 插件：Edit History 也许是最好的笔记历史管理器

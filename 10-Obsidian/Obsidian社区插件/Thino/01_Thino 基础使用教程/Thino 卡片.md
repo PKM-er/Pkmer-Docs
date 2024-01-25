@@ -1,7 +1,7 @@
 ---
 uid: 20231109234447
 title: Thino 卡片
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 卡片
 author: Bon,PKMer
 type: other

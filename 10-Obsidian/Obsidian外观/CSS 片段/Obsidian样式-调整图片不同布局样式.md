@@ -1,18 +1,16 @@
 ---
 uid: 20231202002300
-title: Obsidian 样式 - 调整图片不同布局样式
-tags:
-  - 图片
-  - CSS自定义
-description: 将图片渲染为圆形或者控制图片在文本的左侧或者右侧，可组合。
+title: Obsidian 样式：调整图片不同布局样式
+tags: [图片, CSS自定义]
+description: Obsidian 样式 - 调整图片不同布局样式，将图片渲染为圆形或者控制图片在文本的左侧或者右侧，可组合。
 author: 余月鱼鸽
 type: other
 draft: false
 editable: false
-modified: 20231202002326
+modified: 20240119110622
 ---
 
-# Obsidian 样式 - 调整图片不同布局样式
+# Obsidian 样式：调整图片不同布局样式
 
 ## 1.css 来源
 
@@ -50,7 +48,6 @@ modified: 20231202002326
 
 > [!note] 3.两种效果混合使用
 > 例：插入图片后，在图片名后面添加 `#O` 设置图片为圆形后，后面添加 `L` 可控制图片出现在左侧；后面添加 `R` 可控制图片出现在右侧；格式为：`![[DSC04693.jpg#OL|200x200]]`
->
 
 **具体效果如下**：
 
@@ -59,21 +56,19 @@ modified: 20231202002326
 ## 3.css 片段代码
 
 ```css
-
 /* 片段来自：pkmer知识管理交流群，@熊猫别熬夜*/
 /* 将所有图片默认居中 */
 body:not(.list-image-control-off)
   :is(.HyperMD-list-line, ul)
   .image-embed.image-embed
-  img:not([width]):not([class*="emoji"]),
-img:not([class*="emoji"]) {
+  img:not([width]):not([class*="emoji"]){
   display: flex;
-  justify-content: center; /* 水平居中 */
-  align-items: center; /* 垂直居中 */
+  /* justify-content: center; */
+  /* align-items: center;  */
   max-width: 90%;
-  margin: 0 auto; /* 设置左右间距为自适应，上下间距为零 */
+  margin: 0 auto;
   object-fit: contain;
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* 视频 */
@@ -98,6 +93,7 @@ span[src$="OL"] img {
   object-fit: cover;
   border-radius: 50%;
   float: left;
+  text-align: left;
   margin: var(--float-left-margin);
   margin-block: unset;
   display: inline !important;
@@ -107,6 +103,7 @@ span[src$="OR"] img {
   object-fit: cover;
   border-radius: 50%;
   float: left;
+  text-align: right;
   margin: var(--float-right-margin);
   margin-block: unset;
   display: inline !important;
@@ -114,6 +111,7 @@ span[src$="OR"] img {
 
 span[src$="L"] img {
   float: left;
+  text-align: left;
   margin: var(--float-left-margin);
   margin-block: unset;
   display: inline !important;
@@ -121,8 +119,26 @@ span[src$="L"] img {
 
 span[src$="R"] img {
   float: right;
+  text-align: right;
   margin: var(--float-right-margin);
   margin-block: unset;
   display: inline !important;
 }
+
+/* 独占一行 */
+span[src$="IL"] img {
+  float: unset;
+  text-align: left;
+  margin: var(--float-left-margin);
+  margin-block: unset;
+  display: inline !important;
+}
+span[src$="IR"] img {
+  float: unset;
+  text-align: right;
+  margin: var(--float-right-margin);
+  margin-block: unset;
+  display: inline !important;
+}
+
 ```

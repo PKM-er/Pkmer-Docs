@@ -1,13 +1,13 @@
 ---
 uid: 20231109234453
 title: Thino
-tags: []
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 的含义
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110172605
+modified: 20240107003508
 id: e65065a97b7bb6ec
 ---
 
@@ -38,3 +38,8 @@ Thino ，也就是社区更熟知的 Obsidian Memos，来源于自社区开源�
 感谢 [usememos/memos](https://github.com/usememos/memos) 在两年多以前创造了开源项目 Memos ，没有这个开源项目，我不会爱上写 Web 前端也不会有 Obsidian Memos 项目的诞生；
 
 而从 Memos 脱胎至 Thino 脱离不了 [PKMer](https://pkmer.cn) 组织的协力，也脱离不了所有愿意付费众筹或者内测的 PKMer 用户的帮助；同时还有非常热心的愿意在版本为 1.9.7 ~ 2.0.6 期间内，即使面对非常卡顿的 Thino 都愿意给我提出意见的所有社区用户。
+
+- PKMer 社区完成了对应 usermemos 开源项目的捐助
+- 希望 usememos 和 PKMer 都越走越好
+
+![image.png](https://cdn.pkmer.cn/images/20240107003430.png!pkmer)

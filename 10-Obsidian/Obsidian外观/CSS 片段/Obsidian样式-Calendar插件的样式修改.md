@@ -17,7 +17,7 @@ modified: 20230905152858
 - 根据笔记 yaml 区域的 tag 内容，在日历展示不同的图标，比如把 tags 中的 emoji 符号展示在日历中。
 - tags 值包含 flagged 显示星标
 - 周末背景色加深
-
+- 通过使用 自定义样式来完成，使用方法参考 [[Obsidian的CSS代码片段]]
 ## 实现效果
 
  ![image.png](https://cdn.pkmer.cn/images/202305042319386.png!pkmer)

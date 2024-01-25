@@ -1,7 +1,7 @@
 ---
 uid: 20231109234449
 title: Thino URI
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino URI
 author: Bon,PKMer
 type: other

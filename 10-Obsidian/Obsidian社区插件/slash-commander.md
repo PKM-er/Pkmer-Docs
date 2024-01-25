@@ -7,7 +7,7 @@ author: alephpiece
 type: other
 draft: false
 editable: false
-modified: 20240105192419
+modified: 20240108111446
 ---
 
 # Obsidian 插件：Slash Commander

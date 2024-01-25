@@ -1,7 +1,7 @@
 ---
 uid: 20231109234457
 title: Thino 多来源
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 多来源功能
 author: Bon,PKMer
 type: other

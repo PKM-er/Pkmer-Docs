@@ -110,7 +110,7 @@ excalidraw 可以把常用的一些绘图存为小组件库，也可以从网上
 
 ### Excalidraw Scripts
 
-- [[Excalidraw如何安装脚本和脚本设置介绍]]
+- [[Excalidraw如何安装脚本_脚本设置介绍]]
 
 ### 基于 Obsidian 优化
 

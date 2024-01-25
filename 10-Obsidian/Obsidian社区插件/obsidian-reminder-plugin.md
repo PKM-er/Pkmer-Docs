@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174442
+modified: 20240108114645
 ---
 
 # Obsidian 插件：Reminder 为待办任务增加提醒
@@ -28,21 +28,12 @@ modified: 20230604174442
 - 侧边栏 Reminder 面板显示待办事项到期信息
 - 点击 Reminder 面板开启该事项所在之笔记
 
-## 安装
-
-1. 进入 Obsidian 社区插件
-2. 搜索
-3. 安装
-4. 开启插件
-
-## 设置
+## 使用
 
 - Reminder Time：预设的到期时间
 - Primary reminder format：若需要到期时间则建议选用 Reminder
 - 在待办事项后面输入（@日期时间）
 - 默认的触发关键字是「（@」，如果 @ 被占用，你也可以使用其他触发关键字
-
-## 使用方法
 
 ### 输入方法
 

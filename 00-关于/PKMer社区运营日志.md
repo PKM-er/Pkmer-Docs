@@ -7,7 +7,7 @@ author: PKMer,OS
 type: awesome
 draft: false
 editable: false
-modified: 20240102144734
+modified: 20240107003136
 ---
 
 # PKMer 社区运营日志
@@ -15,6 +15,13 @@ modified: 20240102144734
 ## 社区大事件
 
 - 23 年 6 月 2 日，我们正式与大家见面了
+
+## 社区对开源项目和作者的激励计划
+
+### 2024.01.06
+
+- PKMer 社区完成了对应 usermemos 开源项目的捐助，关于捐助缘由可以查看和支持 [[00_Thino 用户指南]] 项目
+![image.png|400](https://cdn.pkmer.cn/images/20240107003024.png!pkmer)
 
 ## 社区奖励发放日志
 
@@ -48,9 +55,15 @@ modified: 20240102144734
 - calmwaves
 - Chenghuang
 
-#### 24.1.1
+### 24.1.1
 
-### 关于医学库
+社区发放 Thino （原 memos）插件权益给社区优质贡献者，并发放 Thino web 权益
+
+第二批名单：
+
+淡水鱼
+
+## 关于医学库
 
 - 姜老师的医学词根库受益，如页面所说 [医学英语词根词缀分类数据库](https://pkmer.cn/products/englishVault/) ，PKMer 社区会基于大家知道的原因，全部受益给到作者，具体原因大家可以自行区了解。
 - 23 年 11 月份收益全部完成转交。

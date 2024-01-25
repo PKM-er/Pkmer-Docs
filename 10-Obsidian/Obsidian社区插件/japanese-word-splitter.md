@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230531200219
+modified: 20240108123402
 ---
 
 # Obsidian 插件：Word Splitting for Japanese in Edit Mode 添加支持日语分词

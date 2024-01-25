@@ -1,7 +1,7 @@
 ---
 uid: 20231109234601
 title: Thino 归档功能
-tags: 
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 归档功能
 author: Bon,PKMer
 type: other
@@ -19,3 +19,5 @@ Thino 自带了归档功能，当你使用归档功能的时候，会在原文�
 ## 常见用法
 
 当你在 Thino 中记载了一个任务或者一个待看的内容时，你可以在完成后，除了完成任务以外，还可以将其归档，从而保证你的 Thino 页面的整洁。
+
+Tips：如果你需要隐藏标志位和了解标志位原因，可以参考 [[Obsidian样式-Thino插件隐藏标志位]]

@@ -1,18 +1,16 @@
 ---
 uid: 20231204101133
-title: Obsidian 插件：Cache-Area 给你一份电子草稿纸
-tags:
-  - obsidian
-  - 插件
+title: Obsidian 插件：Cache Area 给你一份电子草稿纸
+tags: [obsidian, 插件]
 description: 为你提供了一个临时草稿纸
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231204111955
+modified: 20240108103421
 ---
 
-# Obsidian 插件：Cache-Area 给你一份电子草稿纸
+# Obsidian 插件：Cache Area 给你一份电子草稿纸
 
 ## 概述
 

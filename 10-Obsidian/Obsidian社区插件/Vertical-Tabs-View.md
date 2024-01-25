@@ -1,13 +1,13 @@
 ---
 uid: 20231117223227
 title: Obsidian 插件：Vertical Tabs View 垂直选项卡视图
-tags: [窗口管理]
+tags: [Obsidian, Obsidian插件, 窗口管理]
 description: Obsidian 插件：Vertical Tabs View 垂直选项卡视图。提供垂直选项卡视图选项卡可以排序，但更改不会与原始选项卡同步。
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231228145752
+modified: 20240110120558
 ---
 
 # Obsidian 插件：Vertical Tabs View 垂直选项卡视图
@@ -27,7 +27,7 @@ modified: 20231228145752
 
 ## 效果&特性
 
-![Vertical Tabs View](https://cdn.pkmer.cn/covers/vertical-tabs-view.png!pkmer)
+![Vertical Tabs View|800](https://cdn.pkmer.cn/covers/vertical-tabs-view.png!pkmer)
 
 - 提供垂直标签页视图
 	- 标签页可以排序，但更改不会与原始标签页同步。

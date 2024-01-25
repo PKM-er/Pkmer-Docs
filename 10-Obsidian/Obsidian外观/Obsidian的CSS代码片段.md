@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240103231102
+modified: 20240124114520
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -48,7 +48,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ### 编辑器
 
-- [[Obsidian样式-标题-列表-图片美化]]
 - [[Obsidian样式-minimal主题Cards卡片布局]]
 - [[Obsidian样式-编辑模式下当前行高亮]]
 - [[Obsidian样式-加粗粗体样式优化]]
@@ -59,7 +58,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-分割线样式美化]]
 - [[Obsidian样式-给笔记添加随机背景图]]
-- [[Obsidian样式-段落首行增加缩进]]
 - [[Obsidian样式-美化高亮样式]]
 - [[Obsidian样式-美化行内代码样式]]
 - [[Obsidian样式-编辑模式代码块显示行号]]
@@ -72,16 +70,25 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-借助CSS打造独立的大屏表格页面]]
 - [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
 
+### 列表&段落
+
+- [[Obsidian样式-ITS主题列表样式]]
+- [[Obsidian样式-段落首行增加缩进]]
+- [[Obsidian样式-标题-列表-图片美化]]
+- [[Obsidian样式-书签列表样式]]
+
 ### 图片
 
 - [[Obsidian样式-图片点击长按放大]]
 - [[Obsidian样式-调整图片不同布局样式]]
+- [[Obsidian样式-如何让插入笔记中的图片水平居中]]
 
 ### callout
 
 - [[Obsidian样式-Callout样式]]
 - [[Obsidian样式-如何实现Blue-topaz自带类表格时间线样式]]
 - [[Obsidian样式-MCL Multi Column]]
+- [[Obsidian样式-用Callout实现的边注]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
@@ -182,6 +189,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-给Thino搭配10种热力图颜色]]
 - [[Obsidian样式-Thino单文件时间轴样式]]
 - [[Obsidian样式-Thino 样式]]
+- [[Obsidian样式-Thino插件隐藏标志位]]
 
 ## 自定义 CSS 简单上手指南
 

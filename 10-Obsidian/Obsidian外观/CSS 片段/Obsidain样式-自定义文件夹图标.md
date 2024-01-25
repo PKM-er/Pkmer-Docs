@@ -15,7 +15,7 @@ modified: 20230905153454
 ## 引言
 
 自定义优化文件管理器中的文件夹样式图标
-
+- 通过使用 自定义样式来完成，使用方法参考 [[Obsidian的CSS代码片段]]
 ## 实践
 
 ![cover](https://cdn.pkmer.cn/images/image-20230718005419020.png!pkmer)

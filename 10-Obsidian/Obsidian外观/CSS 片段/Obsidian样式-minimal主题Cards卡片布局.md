@@ -1,41 +1,38 @@
 ---
 uid: 20230905221421
-title: Obsidian 样式：minimal 主题 Cards 卡片布局
-tags:
-  - css
-  - CSS美化
-  - 卡片样式
+title: Obsidian 样式 - minimal 主题 Cards 卡片布局
+tags: [css, CSS美化, 卡片样式]
 description: minimal 主题 Cards 卡片布局
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20230905222338
+modified: 20240122233625
 ---
 
-# Obsidian 样式：minimal 主题 Cards 卡片布局
+# Obsidian 样式 - minimal 主题 Cards 卡片布局
 
 该片段摘自来自 [minimal 主题](https://github.com/kepano/obsidian-minimal)
 
 ## cards 将 Dataview tables 转换为卡片
 
-在 yaml 区用 cssclass 申明 `cards` 将笔记中的所有Dataview tables转换为卡片
+在 yaml 区用 cssclass 申明 `cards` 将笔记中的所有 Dataview tables 转换为卡片
 
-![Pasted image 20230905215657](https://cdn.pkmer.cn/images/202309162149518.png!pkmer)
+![Obsidian 样式 - minimal 主题 Cards 卡片布局](https://cdn.pkmer.cn/images/202309162149518.png!pkmer)
 
-![Pasted image 20230905215717](https://cdn.pkmer.cn/images/202309162149607.png!pkmer)
+![Obsidian 样式 - minimal 主题 Cards 卡片布局](https://cdn.pkmer.cn/images/202309162149607.png!pkmer)
 
 ### 表格排序 sortable
 
 要使用排序菜单，请安装 [Sortable](https://minimal.guide/plugins/sortable) 插件。这仅与使用数据视图表（而不是项目符号列表）的卡兼容
 
-![148671518-660a5c8c-6c31-4db6-8fa9-d5e9b22b0b6f](https://cdn.pkmer.cn/images/202309162149942.gif)
+![Obsidian 样式 - minimal 主题 Cards 卡片布局](https://cdn.pkmer.cn/images/202309162149942.gif)
 
 ## list-cards 将有序列表转换为卡片
 
 在 yaml 区用 cssclass 申明 `list-cards` 将笔记中的所有无序列表转换为卡片
 
-![Pasted image 20230905220849](https://cdn.pkmer.cn/images/202309162149987.png!pkmer)
+![Obsidian 样式 - minimal 主题 Cards 卡片布局]](https://cdn.pkmer.cn/images/202309162149987.png!pkmer)
 
 ### 卡片的布局设定
 
@@ -56,11 +53,11 @@ modified: 20230905222338
 
 例如你想要卡片布局每行只显示 3 排卡片，另外添加申明 `cards-cols-1` ：
 
-![Pasted image 20230905221016](https://cdn.pkmer.cn/images/202309162150131.png!pkmer)
+![Obsidian 样式 - minimal 主题 Cards 卡片布局](https://cdn.pkmer.cn/images/202309162150131.png!pkmer)
 
 ## style setting 里面的设置
 
-![Pasted image 20230905220558](https://cdn.pkmer.cn/images/202309162150430.png!pkmer)
+![Obsidian 样式 - minimal 主题 Cards 卡片布局](https://cdn.pkmer.cn/images/202309162150430.png!pkmer)
 
 ## Minimal 的 List-Card 样式
 
@@ -123,35 +120,6 @@ body {
     minmax(var(--cards-min-width), var(--cards-max-width))
   );
 }
-
-
-@media (max-width: 400pt) {
-  body {
-    --cards-min-width: var(--cards-mobile-width);
-  }
-}
-
-@media (min-width: 400pt) {
-  .cards-cols-3 {
-    --cards-columns: repeat(3, minmax(0, 1fr));
-  }
-  .cards-cols-4 {
-    --cards-columns: repeat(4, minmax(0, 1fr));
-  }
-  .cards-cols-5 {
-    --cards-columns: repeat(5, minmax(0, 1fr));
-  }
-  .cards-cols-6 {
-    --cards-columns: repeat(6, minmax(0, 1fr));
-  }
-  .cards-cols-7 {
-    --cards-columns: repeat(7, minmax(0, 1fr));
-  }
-  .cards-cols-8 {
-    --cards-columns: repeat(8, minmax(0, 1fr));
-  }
-}
-
 @media (max-width: 400pt) {
   body {
     --cards-min-width: var(--cards-mobile-width);
@@ -188,6 +156,7 @@ body {
   overflow: hidden;
   transition: box-shadow 0.15s linear;
   max-width: var(--cards-max-width);
+  height: auto;
 }
 .cards table.dataview > tbody > tr:hover {
   border: var(--cards-border-width) solid
@@ -261,7 +230,9 @@ body {
   --link-decoration: none;
 }
 .markdown-source-view.mod-cm6.cards .edit-block-button {
-  top: 0;
+  top: -1px;
+  right: 28px;
+  opacity: 1;
 }
 .cards.table-100 table.dataview thead > tr,
 .table-100 .cards table.dataview thead > tr {
@@ -270,9 +241,6 @@ body {
 .cards.table-100 table.dataview thead:before,
 .table-100 .cards table.dataview thead:before {
   margin-right: 0.75rem;
-}
-.theme-light .cards table.dataview thead:before {
-  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><path fill="black" d="M49.792 33.125l-5.892 5.892L33.333 28.45V83.333H25V28.45L14.438 39.017L8.542 33.125L29.167 12.5l20.625 20.625zm41.667 33.75L70.833 87.5l-20.625 -20.625l5.892 -5.892l10.571 10.567L66.667 16.667h8.333v54.883l10.567 -10.567l5.892 5.892z"></path></svg>');
 }
 .cards table.dataview thead {
   user-select: none;
@@ -284,10 +252,13 @@ body {
   height: 24px;
   padding-bottom: 0;
 }
-.cards table.dataview thead:hover:before {
-  opacity: 0.5;
+.cards table.dataview thead:hover:after {
   background-color: var(--background-modifier-hover);
 }
+.cards table.dataview thead:hover:before {
+  background-color: var(--text-muted);
+}
+.cards table.dataview thead:after,
 .cards table.dataview thead:before {
   content: "";
   position: absolute;
@@ -295,7 +266,6 @@ body {
   top: 0;
   width: 10px;
   height: 16px;
-  background-repeat: no-repeat;
   cursor: var(--cursor);
   text-align: right;
   padding: var(--size-4-1) var(--size-4-2);
@@ -303,10 +273,13 @@ body {
   border-radius: var(--radius-s);
   font-weight: 500;
   font-size: var(--font-adaptive-small);
-  opacity: 0.25;
-  background-position: center center;
-  background-size: 16px;
-  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><path fill="white" d="M49.792 33.125l-5.892 5.892L33.333 28.45V83.333H25V28.45L14.438 39.017L8.542 33.125L29.167 12.5l20.625 20.625zm41.667 33.75L70.833 87.5l-20.625 -20.625l5.892 -5.892l10.571 10.567L66.667 16.667h8.333v54.883l10.567 -10.567l5.892 5.892z"></path></svg>');
+}
+.cards table.dataview thead:before {
+  background-color: var(--text-faint);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: 16px;
+  -webkit-mask-position: center center;
+  -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><path fill="currentColor" d="M49.792 33.125l-5.892 5.892L33.333 28.45V83.333H25V28.45L14.438 39.017L8.542 33.125L29.167 12.5l20.625 20.625zm41.667 33.75L70.833 87.5l-20.625 -20.625l5.892 -5.892l10.571 10.567L66.667 16.667h8.333v54.883l10.567 -10.567l5.892 5.892z"></path></svg>');
 }
 .cards table.dataview thead > tr {
   top: -1px;
@@ -324,6 +297,7 @@ body {
 }
 .cards table.dataview thead:hover > tr {
   display: flex;
+  height: auto;
 }
 .cards table.dataview thead > tr > th {
   display: block;
@@ -344,24 +318,6 @@ body {
   color: var(--text-normal);
   background-color: var(--background-modifier-hover);
 }
-.cards.cards-align-bottom table.dataview tbody > tr > td:last-child,
-.list-cards.cards-align-bottom table.dataview tbody > tr > td:last-child {
-  align-items: flex-end;
-  flex-grow: 1;
-}
-@media (max-width: 400pt) {
-  .cards table.dataview tbody > tr > td:not(:first-child) {
-    font-size: 80%;
-  }
-}
-
-table.dataview ul.dataview-ul {
-  list-style: none;
-  padding-inline-start: 0;
-  margin-block-start: 0em !important;
-  margin-block-end: 0em !important;
-}
-
 .list-cards.markdown-preview-view .list-bullet,
 .list-cards.markdown-preview-view .list-collapse-indicator,
 .list-cards.markdown-preview-view.markdown-rendered.show-indentation-guide
@@ -448,8 +404,32 @@ table.dataview ul.dataview-ul {
 }
 .cards.cards-align-bottom table.dataview tbody > tr > td:last-child,
 .list-cards.cards-align-bottom table.dataview tbody > tr > td:last-child {
-  align-items: flex-end;
-  flex-grow: 1;
+  margin-top: auto;
+}
+@media (max-width: 400pt) {
+  .cards table.dataview tbody > tr > td:not(:first-child) {
+    font-size: 80%;
+  }
+}
+@media (min-width: 400pt) {
+  .cards-cols-3 {
+    --cards-columns: repeat(3, minmax(0, 1fr));
+  }
+  .cards-cols-4 {
+    --cards-columns: repeat(4, minmax(0, 1fr));
+  }
+  .cards-cols-5 {
+    --cards-columns: repeat(5, minmax(0, 1fr));
+  }
+  .cards-cols-6 {
+    --cards-columns: repeat(6, minmax(0, 1fr));
+  }
+  .cards-cols-7 {
+    --cards-columns: repeat(7, minmax(0, 1fr));
+  }
+  .cards-cols-8 {
+    --cards-columns: repeat(8, minmax(0, 1fr));
+  }
 }
 
 ```
