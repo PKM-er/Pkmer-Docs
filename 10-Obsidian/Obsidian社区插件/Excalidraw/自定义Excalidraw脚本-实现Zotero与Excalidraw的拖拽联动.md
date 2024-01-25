@@ -20,6 +20,14 @@ modified: 20240116121504
 
 > PS：Zotero 7 和 Zotero 6 通用。
 
+## Zotero 快速复制格式设置
+
+因为这个脚本是根据拖入的文本信息来提取的，所以针对 Zotero 的快速复制格式有一定的设置要求，请取设置如下格式：
+
+![自定义 Excalidraw 脚本：实现 Zotero 与 Excalidraw 的拖拽联动](https://cdn.pkmer.cn/images/202401222218378.png!pkmer)
+
+> [!caution] 注意不要设置为**复制为 HTML**，这样匹配不到信息。
+
 ## 实现过程
 
 具体实现过程非常简单，第一步修改对应的路径，第二步保存 md 文件到指定文件夹，之后点击运行脚本就完成了。
@@ -54,11 +62,6 @@ modified: 20240116121504
 ### Zotero to Excalidraw 脚本
 
 ```javascript
-/*
-
-```javascript
-*/
-
 let settings = ea.getScriptSettings();
 //set default values on first run
 if (!settings["Zotero Library Path"]) settings["Zotero Library Path"] = { value: false };
