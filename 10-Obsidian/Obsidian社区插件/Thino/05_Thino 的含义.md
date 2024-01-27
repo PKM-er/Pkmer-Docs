@@ -1,17 +1,17 @@
 ---
 uid: 20231109234453
-title: Thino
+title: Thino 的含义
 tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 的含义
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240107003508
+modified: 20240127233059
 id: e65065a97b7bb6ec
 ---
 
-# Thino
+# Thino 的含义
 
 Thino（其标准音标读音为 `θɪŋoʊ` ），基于 2.x 版本的产品设想，我们选定了几个关键字 ：
 
@@ -31,7 +31,9 @@ Thino ，也就是社区更熟知的 Obsidian Memos，来源于自社区开源�
 
 ### 现在
 
-在 PKMer 的孵化下，本计划 Thino 继续沿用社区 Memos 的代码，但发现其前端的实现代码和一年多以前的代码已经存在较大的差异。于是，考虑到用户惯性以及重做一次适配的时间长度问题等，在 PKMer 组织的全力协助以及支持下，Thino 决定基于 1.0 阶段的代码进行性能以及功能重构，接着在 2.0.X 阶段的历时六个多月的开发中，Memos 2 终于进入到了重构后期。由于现有的代码与最开始使用的 Memos 版本代码有着极大的差异，而且和社区 Memos 的界面也存在较大差异，考虑到后续发展路径并不相同，目标也不同，在 2.1 版本，Obsidian-Memos 将正式更名成 Thino 。
+- 在 PKMer 的孵化下，本计划 Thino 继续沿用社区 Memos 的代码，但发现其前端的实现代码和一年多以前的代码已经存在较大的差异。于是，考虑到用户惯性以及重做一次适配的时间长度问题等，在 PKMer 组织的全力协助以及支持下，Thino 决定基于 1.0 阶段的代码进行性能以及功能重构。
+- 接着在 2.0.X 阶段的历时六个多月的开发中，Memos 2 终于进入到了重构后期。由于现有的代码与最开始使用的 Memos 版本代码有着极大的差异，而且和社区 Memos 的界面也存在较大差异，考虑到后续发展路径并不相同，目标也不同，在 2.1 版本，Obsidian-Memos 将正式更名成 Thino 。
+- 按照 Obsidian 官方对插件生态有序化的要求，包含 Obsidian 字样的插件都会被要求去掉。所以未来会使用新的名字来维持。
 
 # 致谢
 

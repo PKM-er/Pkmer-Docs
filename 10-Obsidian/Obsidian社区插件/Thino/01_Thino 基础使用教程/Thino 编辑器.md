@@ -16,6 +16,8 @@ modified: 20240119185840
 
 在 2.1.0 以后，本体 Thino 将会默认使用 Obsidian 所提供的所见即所得编辑器，而 Web Thino 则采用了 Tiptap 进行自有编辑器的开发。当你第一次接触到编辑器的时候会看到以下的几个元素，下面会逐一跟你解释他们的作用：
 
+> [!note] 功能信息
+> 此功能在支持 Thino basic 和 Thino Pro
 ## 本地版
 
 ![Thino 输入](https://cdn.pkmer.cn/images/Pasted%20image%2020231108232536.png!pkmer)

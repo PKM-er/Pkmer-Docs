@@ -13,6 +13,9 @@ id: ad09130111ee9095
 
 # Thino 卡片
 
+> [!note] 功能信息
+> 此功能支持 Thino basic 和 Thino Pro
+
 在 Thino 中，当你在输入框输入且回车后，会得到你的第一张 Thino 卡片，其包含了以下的元素：
 
 ![Thino 卡片](https://cdn.pkmer.cn/images/Pasted%20image%2020231108232203.png!pkmer)

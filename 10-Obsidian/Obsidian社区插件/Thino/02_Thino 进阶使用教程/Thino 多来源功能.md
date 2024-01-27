@@ -7,10 +7,13 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110000952
+modified: 20240127232403
 ---
 
 # Thino 多来源
+
+> [!note] 功能信息
+> 此功能仅支持 Thino Pro
 
 Thino 的多来源获取 Thino 卡片是在 2.0.X 版本中加入的，在这个全新的阶段中，你可以开始依赖于单文件、Canvas，而非仅日记形式来创建 Thino 以及存储 Thino。
 
