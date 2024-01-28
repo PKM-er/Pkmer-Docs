@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240120160254
+modified: 20240128020302
 ---
 
 # Obsidian 样式 - 用 Callout 实现的边注（注释）
@@ -23,7 +23,7 @@ modified: 20240120160254
 
 ## 使用方法
 
-添加好 css 后，在正文中直接用边注的 callout 即可（[[Obsidian的CSS代码片段]]）
+添加好 css 后，在正文中直接用边注的 callout 即可（如何添加 css 可以看这篇：[[Obsidian的CSS代码片段]]）
 
 ```
 > [!NOTE|aside-l] 右侧注释
@@ -45,13 +45,27 @@ modified: 20240120160254
 > 注释内容
 ```
 
+```
+> [!ERROR|aside-l] ERROR 样式
+> 还可以用别的callout，例如important, cite 等
+```
+
 ## Style Settings
 
 本 css 可以配合 style settings 插件使用，可以调整注释的样式
 
-![1705737614780.png](https://cdn.pkmer.cn/images/1705737614780.png!pkmer)
+![image.png](https://cdn.pkmer.cn/images/20240128015408.png!pkmer)
+
+例如：开启背景 and 边注标题置于顶部 and 去除 folder icon
+
+![image.png](https://cdn.pkmer.cn/images/20240128015300.png!pkmer)
 
 ## CSS 源码
+
+如果样式遇到问题，可以评论留言告诉我一下，能力范围内会修改。如果是以前复制的 css，可以重新复制下，css 随时可能会更新
+
+> 更新日志
+> 2024-01-22：可以直接修改边注与正文之间的距离、边注标题位于顶部时，可以自行选择标题的位置（居左、居中和居右）
 
 ```css
 /*
@@ -72,21 +86,44 @@ modified: 20240120160254
 name: SideNote Callout
 id: sidenote-callout
 settings:
-  - 
-    id: transparent-setting-panel
-    title: Callout Title Position
-    title.zh: Callout标题位置
-    description: The title is on the left, the English cannot be wrapped
-    description.zh: 标题置于左边的话英文无法换行
+  -
+    id: top-sidenote-callout-title
+    title: Sidenote Callout Title to Top
+    title.zh: 边注标题置于顶部
+    type: class-toggle
+    default: false
+  -
+    id: top-left-sidenote-callout-title-position
+    title: Top Left Sidenote Callout Title Position
+    title.zh: 标注在顶部时，左边注的标题位置
     type: class-select
-    default: top-callout-title
+    default: l-center-callout-title
     options:
       -
-        label: top
-        value: top-callout-title
+        label: left
+        value: l-left-callout-title
+      -
+        label: center
+        value: l-center-callout-title
+      -
+        label: right
+        value: l-right-callout-title
+  -
+    id: top-right-sidenote-callout-title-position
+    title: Top Right Sidenote Callout Title Position
+    title.zh: 标注在顶部时，右边注的标题位置
+    type: class-select
+    default: r-center-callout-title
+    options:
       -
         label: left
-        value: left-callout-title
+        value: r-left-callout-title
+      -
+        label: center
+        value: r-center-callout-title
+      -
+        label: right
+        value: r-right-callout-title
   -
     id: sidenote-backgound
     title: Callout Background
@@ -107,10 +144,30 @@ settings:
     max: 300
     step: 10
     format: px
+  -
+    id: aside-offset
+    title: sidenote offset
+    title.zh: 边注与正文的间距
+    description: The offset between the sidenote and the text(default is 16px)
+    description.zh: 边注与正文的间距(默认为16px)
+    type: variable-number-slider
+    default: 16
+    min: 0
+    max: 50
+    step: 1
+    format: px
+  -
+    id: hide-sidenote-callout-fold-icon
+    title: Hide Fold Icon
+    title.zh: 隐藏折叠图标
+    type: class-toggle
+    default: false
 */
 
 body {
   --aside-width: 200px;
+  --aside-offset: var(--size-4-4);
+  --line-width: var(--file-line-width, --line-width);
 }
 
 .markdown-source-view.mod-cm6 .cm-content > .cm-callout:has(.callout[data-callout-metadata*="aside"])[contenteditable=false]  {
@@ -132,7 +189,7 @@ body {
 }
 
 .callout[data-callout-metadata*="aside"] {
-  --aside-offset: var(--size-4-4);
+  /* --aside-offset: var(--size-4-4); */
   position: absolute;
 }
 
@@ -146,6 +203,16 @@ body {
   right: calc(-1 * var(--aside-width));
 }
 
+/* .markdown-reading-view .callout[data-callout-metadata*="aside-l"] {
+  left: calc(50vw - var(--file-line-width)/2 - var(--aside-width) - 2 * var(--aside-offset));
+  right: calc(50vw + var(--file-line-width)/2);
+}
+
+.markdown-reading-view .callout[data-callout-metadata*="aside-r"] {
+  left: calc(var(--file-line-width) + 2 * var(--aside-width));
+  right: calc(50vw - var(--file-line-width)/2 - var(--aside-width) - 2 *var(--aside-offset));
+}   */
+
 @media (hover: hover) {
   .markdown-source-view.mod-cm6 .cm-embed-block:has(> div > [data-callout-metadata*="aside"]):hover {
     overflow: visible;
@@ -158,7 +225,7 @@ body {
 /* ------------ */
 
 .callout[data-callout-metadata*="aside"] {
-  --block-spacing: 1rem;
+  --block-spacing: 0.75rem;
   --speaker-block-width: 20%;
   margin: 0px;
   padding: 0px;
@@ -175,7 +242,7 @@ body {
   grid-template-columns: var(--speaker-block-width) calc(100% - var(--speaker-block-width));
 }
 
-.top-callout-title .callout[data-callout-metadata*="aside"] {
+.top-sidenote-callout-title .callout[data-callout-metadata*="aside"] {
   grid-template-columns: unset;
 }
 
@@ -184,22 +251,58 @@ body {
   text-align: right;
   word-wrap: break-word;
   border-right: 3px solid;
+  border-bottom: unset;
   flex: 1 0 auto;
+  color: rgb(var(--callout-color)) !important;
   background-color: unset !important;
-  padding-right: var(--block-spacing);
+  /* padding-right: var(--block-spacing); */
+  padding: 0;
 }
 .callout[data-callout-metadata*="aside"] .callout-title {
   display: inline-block;
 }
 
-.top-callout-title .callout[data-callout-metadata*="aside"] .callout-title {
+body:not(.top-sidenote-callout-title) .setting-item[data-id="top-left-sidenote-callout-title-position"],
+body:not(.top-sidenote-callout-title) .setting-item[data-id="top-right-sidenote-callout-title-position"] {
+  display: none;
+}
+
+.top-sidenote-callout-title .callout[data-callout-metadata*="aside"] .callout-title {
   display: flex;
+  flex-direction: row-reverse;
 }
 
 .callout[data-callout-metadata*="aside"] .callout-title-inner {
   font-weight: var(--bold-weight) !important;
-  color: var(--callout-title-color) !important;
-  width: 1em;
+  color: rgb(var(--callout-color)) !important;
+  width: 1ch;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.top-sidenote-callout-title .callout[data-callout-metadata*="aside"] .callout-title-inner {
+  margin: 0 auto;
+  width: unset;
+}
+
+.callout[data-callout-metadata*="aside"] .callout-title-inner {
+  margin: 0 auto;
+}
+
+.l-left-callout-title .callout[data-callout-metadata*="aside-l"] .callout-title-inner {
+  margin-left: var(--block-spacing);
+}
+
+.l-right-callout-title .callout[data-callout-metadata*="aside-l"] .callout-title-inner {
+  margin: 0 var(--block-spacing);
+}
+
+.r-left-callout-title .callout[data-callout-metadata*="aside-r"] .callout-title-inner {
+  margin-left: var(--block-spacing);
+}
+
+.r-right-callout-title .callout[data-callout-metadata*="aside-r"] .callout-title-inner {
+  margin: 0 var(--block-spacing);
 }
 
 .callout[data-callout-metadata*="aside"]>* {
@@ -210,9 +313,14 @@ body {
   display: none;
 }
 
+.hide-sidenote-callout-fold-icon .callout[data-callout-metadata*="aside"] .callout-fold {
+  display: none;
+}
+
 .callout[data-callout-metadata*="aside"]>.callout-title>.callout-fold,
 .callout[data-callout-metadata*="aside"]>.callout-title>.callout-fold.is-collapsed {
-  padding: 0 1px 0 6px;
+  padding: 0;
+  justify-content: center;
 }
 
 .callout[data-callout-metadata*="aside"]>.callout-content {
@@ -240,3 +348,21 @@ body {
   background-color: var(--scrollbar-thumb-bg) !important;
 }
 ```
+
+## 部分主题截图展示
+
+默认主题：
+
+![image.png](https://cdn.pkmer.cn/images/20240128015757.png!pkmer)
+
+Anuppuccin：
+
+![image.png](https://cdn.pkmer.cn/images/20240128015938.png!pkmer)
+
+blue-topaz:
+
+![image.png](https://cdn.pkmer.cn/images/20240128020040.png!pkmer)
+
+minimal:
+
+![image.png](https://cdn.pkmer.cn/images/20240128020251.png!pkmer)
