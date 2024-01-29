@@ -2,7 +2,7 @@
   "attachmentFolderPath": "Resource/Images",
   "showInlineTitle": false,
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -19,7 +19,7 @@
   "autoPairMarkdown": false,
   "focusNewTab": true,
   "showLineNumber": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "showUnsupportedFiles": true,
   "strictLineBreaks": false
 }

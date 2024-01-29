@@ -33,7 +33,7 @@ Obsidian 的数据是以 Markdown 明文形式存储的，这给了我们可操�
 
 我的设备是 win10 和 Android
 
-（实际上我还有一台 ipad，但我本身很少使用，由于 ipad 封闭的文件政策，我几乎放弃了在 ipad 上使用 obsidian，只将库文件同步到 ipad 借助 mweb 偶尔查看编辑）
+（实际上我还有一台 ipad，但我本身很少使用，由于 ipad 封闭的文件政策，我几乎放弃了在 ipad 上使用 obsidian，只将库文件同步到 ipad 借助 Taio 偶尔查看编辑）
 
 同步采用的软件是微力同步，下载：[官网链接](http://www.verysync.com/download.html)
 
@@ -138,6 +138,6 @@ epsilon notes：安卓上很好的 Markdown 编辑器，需要付费购买
 
 ## 最后一个预告
 
-PKMer 出品的 [Thino 2.1 (原 Obsidian Memos)](https://pkmer.cn/products/productDetails/) 正在火热内测中，计划支持手机上的快速记录和云端同步。
+PKMer 出品的 [Thino 2.2(原 Obsidian Memos)](https://pkmer.cn/products/productDetails/) 正在火热内测中，计划支持手机上的快速记录和云端同步, 可以通过微信快速录入。
 
 通过向社区投稿知识、方法论等稿件（协作者指南），或者社区为爱 [发电捐助](https://pkmer.cn/products/price/) 都可以获得内测资格，thino 插件介绍可 [点击网址]( https://pkmer.cn/show/20231109234455 ) 查看。
