@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240127232438
+modified: 20240129183355
 ---
 
 # Thino 进阶使用教程
@@ -19,6 +19,7 @@ modified: 20240127232438
 - [[Thino URI|URI]]
 - [[Thino 手机分享|分享至 Thino]]
 - [[Thino 多来源功能|多来源]]
+- [[Thino 脉络]]
 - [[Thino 设置项|设置]]
 	- [[Thino 设置项#基础设置|基础设置]]
 	- [[Thino 设置项#本体设置|本体设置]]
