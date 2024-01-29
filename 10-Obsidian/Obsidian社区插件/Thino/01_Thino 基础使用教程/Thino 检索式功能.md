@@ -12,6 +12,9 @@ modified: 20231110001208
 
 # Thino 检索式功能（筛选器）
 
+> [!note] 功能信息
+> 此功能在支持 Thino basic 和 Thino Pro
+
 在 Thino 中，有一个基本的检索式功能，你可以将你需要关注的内容的搜索条件提前构建形成检索式，当你点击检索式时，可以触发全局的筛选。
 
 ![Thino 检索式功能](https://cdn.pkmer.cn/images/Pasted%20image%2020231109093511.png!pkmer)

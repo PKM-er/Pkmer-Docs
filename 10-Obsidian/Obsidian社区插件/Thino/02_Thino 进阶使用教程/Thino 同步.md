@@ -13,6 +13,9 @@ modified: 20240124120212
 # Thino 同步
 
 > [!note] 功能信息
+> 此功能仅支持 Thino Pro
+
+> [!note] 功能信息
 > 此功能在 Thino 2.2 版本上线，之前版本不支持
 
 > [!Warning] 重要

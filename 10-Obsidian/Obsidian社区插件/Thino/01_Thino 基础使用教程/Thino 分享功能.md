@@ -7,10 +7,13 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110001008
+modified: 20240127232310
 ---
 
 # Thino 分享功能
+
+> [!note] 功能信息
+> 此功能支持 Thino basic 和 Thino Pro
 
 Thino 的卡片可以通过图片的形式分享出去，你可以通过点击 [[Thino 卡片菜单]] 中的分享按钮：
 

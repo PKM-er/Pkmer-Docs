@@ -12,6 +12,9 @@ modified: 20231110001356
 
 # Thino 热点图
 
+> [!note] 功能信息
+> 此功能在支持 Thino basic 和 Thino Pro
+
 Thino 带有关于 Thino 数量的热点图，其附带以下几个常用功能：
 
 ![Thino 热点图](https://cdn.pkmer.cn/images/Pasted%20image%2020231109143224.png!pkmer)
