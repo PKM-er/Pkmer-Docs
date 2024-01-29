@@ -12,6 +12,9 @@ modified: 20231110001301
 
 # Thino 卡片菜单
 
+> [!note] 功能信息
+> 此功能在支持 Thino basic 和 Thino Pro
+
 Thino 卡片附带了一个较为复杂的菜单以及右键菜单，你可以在菜单中选择以下功能：
 
 ![Thino 卡片菜单](https://cdn.pkmer.cn/images/Pasted%20image%2020231109223741.png!pkmer)

@@ -16,7 +16,7 @@ modified: 20231024154600
 
 > [!Note] 插件名片
 > - 插件名称：Better Export PDF
-> - 插件版本：1.0.5
+> - 插件版本：1.3.2
 > - 插件作者：l1xnan
 > - 插件描述：增加了 PDF 导出书签大纲和添加页码功能
 > - 插件项目地址：[点我跳转](https://github.com/l1xnan/obsidian-better-export-pdf)

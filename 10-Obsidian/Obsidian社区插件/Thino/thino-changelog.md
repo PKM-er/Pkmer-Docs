@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240115132815
+modified: 20240129122717
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
@@ -15,6 +15,21 @@ modified: 20240115132815
 # Thino 2.X 更新记录
 
 需要请加入内侧体验，[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
+
+## Thino 2.2.1 2024.1.29
+
+### 修复
+
+- 【设置】Thino 设置中 Obsidian 启动即启动 Thino
+- 【分享】图片和文件链接分享时候会变成叉烧包或异常
+- 【来源功能】尝试性修复了，来源定位的异常问题
+- 【兼容性】修复工作区插件兼容问题
+
+### 调整
+
+- 更新新的验证方式，新版本开始请使用个人中心 Thino 页签中的指引内容进行更新，相信这版界面会更加容易。
+- 这种调整也会保证，之前遇到无法验证的同学，或者 linux 同学，能够更好的使用 Thino
+- 新验证流程，可以先获得本地码，然后到网站中获取激活码，复制粘贴到插件中激活。
 
 ## Thino 2.2 2024.1.21
 

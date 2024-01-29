@@ -12,6 +12,9 @@ modified: 20231110000826
 
 # Thino 标签
 
+> [!note] 功能信息
+> 此功能在支持 Thino basic 和 Thino Pro
+
 在 Thino 中，你最常用的筛选功能也许是标签。标签面板中的标签索引至你的 Thino 卡片中出现过的标签。
 
 ![Thino 标签功能](https://cdn.pkmer.cn/images/Pasted%20image%2020231109115629.png!pkmer)

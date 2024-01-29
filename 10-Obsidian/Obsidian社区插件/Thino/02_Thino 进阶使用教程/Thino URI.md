@@ -12,6 +12,9 @@ modified: 20231110001509
 
 # Thino URI
 
+> [!note] 功能信息
+> 下面部分功能仅支持 Thino Pro
+
 PS: 仅有本地版的 Thino 2.1.0 及以上的版本支持利用 URI 创建内容；
 
 Thino 默认支持几个 URI 参数来快速创建 Thino，以下我将用一个例子来说明其支持的 URI：

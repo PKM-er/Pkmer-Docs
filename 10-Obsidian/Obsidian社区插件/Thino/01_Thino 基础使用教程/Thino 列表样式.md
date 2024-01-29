@@ -7,10 +7,13 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110001330
+modified: 20240127232255
 ---
 
 # Thino 列表样式
+
+> [!note] 功能信息
+> 此功能仅支持 Thino Pro
 
 目前 Thino 可以通过点击搜索栏左侧的按钮来切换不同的列表显示效果，在未来该种显示效果会更明显得影响用户所体验的界面使用。
 
