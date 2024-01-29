@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240120160308
+modified: 20240125213246
 ---
 
 # Callout
@@ -98,14 +98,14 @@ obsidian 共提供了 13 种 callout
 
 ### Callout 自定义
 
-如果你觉得 obsidian 提供的 13 种 callout 都适用于你当前需要的场景，obsidian 还提供了自定义 callout 需要的两个 css 变量
+如果你觉得 obsidian 提供的 13 种 callout 都不适用于你当前需要的场景，你还可以用 obsidian 提供的两个 css 变量自定义 callout
 
 ```css
 --callout-color
 --callout-icon
 ```
 
-- 前者用于控制 callout 的背景颜色
+- 前者用于控制 callout 的颜色
 - 后者用于控制 callout 的图标，图标代码可以从 [Lucide](https://lucide.dev/) 找到，也可以使用自己找的 svg 图标
 
 举个例子，如果你想要获得一个名为 <kbd>custom-question-type</kbd> 的 Callout，那么你只需要创建一个 css 文件（[[Obsidian的CSS代码片段]] 中有关于创建 css 的教程，熟练的话一两分钟就能搞定），在里面写到
@@ -157,4 +157,4 @@ css 代码如下
 
 <kbd>=</kbd> 代表需要严格等于，而<kbd>*=</kbd> 代表包含后面的字符
 
-同样，在 [[Obsidian样式-用Callout实现的边注]] 也是使用了这种方式
+同样，在 [[Obsidian样式-用Callout实现的边注（注释）]] 也是使用了这种方式
