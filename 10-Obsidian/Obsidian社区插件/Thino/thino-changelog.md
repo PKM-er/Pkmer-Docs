@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240129121845
+modified: 20240129122717
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
@@ -28,6 +28,7 @@ modified: 20240129121845
 ### 调整
 
 - 更新新的验证方式，新版本开始请使用个人中心 Thino 页签中的指引内容进行更新，相信这版界面会更加容易。
+- 这种调整也会保证，之前遇到无法验证的同学，或者 linux 同学，能够更好的使用 Thino
 - 新验证流程，可以先获得本地码，然后到网站中获取激活码，复制粘贴到插件中激活。
 
 ## Thino 2.2 2024.1.21
