@@ -87,7 +87,7 @@ Excalidraw 插件有专门的脚本市场：
 
 ## 脚本的分类管理
 
-从 [[2023-12-29 PKMer-Excalidraw如何安装脚本+脚本设置介绍#Excalidraw 脚本路径]] 中我们知道了我们安装的脚本存在于 Obsidian 的文件目录的 `Excalidraw/Scripts` 文件夹中，且从**脚本市场**安装的脚本在子目录 `Downloaded` 文件夹中。*如何对安装的脚本进行分类？* 只需要我们将脚本文件放到 `Excalidraw/Scripts` 文件夹的**不同文件夹**中即可，注意 `md` 和 `svg` 要放在同一个目录下：
+从 [[Excalidraw如何安装脚本_脚本设置介绍#Excalidraw 脚本路径]] 中我们知道了我们安装的脚本存在于 Obsidian 的文件目录的 `Excalidraw/Scripts` 文件夹中，且从**脚本市场**安装的脚本在子目录 `Downloaded` 文件夹中。*如何对安装的脚本进行分类？* 只需要我们将脚本文件放到 `Excalidraw/Scripts` 文件夹的**不同文件夹**中即可，注意 `md` 和 `svg` 要放在同一个目录下：
 
 ![Excalidraw 如何安装脚本 + 脚本设置介绍](https://cdn.pkmer.cn/images/202312291948915.png!pkmer)
 
