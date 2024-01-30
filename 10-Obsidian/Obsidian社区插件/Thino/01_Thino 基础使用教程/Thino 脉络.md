@@ -7,16 +7,16 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240129183254
+modified: 20240130143840
 ---
 
 # Thino 脉络
 
 > [!note] 提示
-> - 需要 Thino 版本 2.2.1 及以上
-> - 并开通 Pro 功能
+> - 需要 Thino 版本 2.x 及以上
 
-- 现在可以通过 `~` 呼出菜单，选择已经建立的 Thino 卡片
+- 可以在 Thino 卡片上使用卡片才菜单，点击 Mark 来关联卡片
+- 可以通过 `~` 呼出菜单，选择已经建立的 Thino 卡片【需要 Thino 版本 2.2.1 及以上】
 - 可以选择需要链接的已有卡片
 - 应用：这是一个汇总较为方便的，总分概念，或者概念之间串联的展形式，这里简单作图来展示下：
 
