@@ -1,13 +1,13 @@
 ---
 uid: 20240128024149
 title: Obsidian 样式 - 看板样式 (kanban)
-tags: []
+tags: [obsidian, kanban, css]
 description: 
-author: 
+author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240128030717
+modified: 20240130150915
 ---
 
 # Obsidian 样式 - 看板样式 (kanban)

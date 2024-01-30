@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240128020302
+modified: 20240130151105
 ---
 
 # Obsidian 样式 - 用 Callout 实现的边注（注释）
@@ -25,18 +25,24 @@ modified: 20240128020302
 
 添加好 css 后，在正文中直接用边注的 callout 即可（如何添加 css 可以看这篇：[[Obsidian的CSS代码片段]]）
 
-```
-> [!NOTE|aside-l] 右侧注释
-> 注释内容
-```
+如果想要左边的边注，可以这样写
 
 ```
 > [!NOTE|aside-l] 左侧注释
 > 注释内容
 ```
 
+如果想要右边的边注，可以这样写
+
 ```
-> [!NOTE|aside-r]+ 默认展开的注释
+> [!NOTE|aside-r] 右侧注释
+> 注释内容
+```
+
+如果想要边注可折叠，可以用 callout 的折叠语法
+
+```
+> [!NOTE|aside-l]+ 默认展开的注释
 > 注释内容
 ```
 
@@ -44,6 +50,8 @@ modified: 20240128020302
 > [!NOTE|aside-r]- 默认折叠的注释
 > 注释内容
 ```
+
+边注基于 callout 实现，因此可以像 callout 一样使用不同的样式
 
 ```
 > [!ERROR|aside-l] ERROR 样式

@@ -19,7 +19,7 @@
   "autoPairMarkdown": false,
   "focusNewTab": true,
   "showLineNumber": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "showUnsupportedFiles": true,
   "strictLineBreaks": false
 }

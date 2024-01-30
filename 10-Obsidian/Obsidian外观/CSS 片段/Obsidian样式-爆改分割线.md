@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240128014851
+modified: 20240130152611
 ---
 
 # Obsidian 样式 - 爆改分割线
@@ -185,18 +185,13 @@ border-bottom: 2px dashed #1e1e1e;
 
 如果中间不想为固定的符号，而想要固定的文字，这里给出用 css 的相邻兄弟选择器 <kbd>+</kbd> 和伪类选择器 <kbd>has</kbd> 选中分割线后面一行文本插入分割线中间，效果如图。
 
-![image.png](https://cdn.pkmer.cn/images/20240128012843.png!pkmer)
+> 目前只放了实时模式的代码，阅读模式我尝试过后有诸多 bug 不好解决
+
+![image.png](https://cdn.pkmer.cn/images/20240130152505.png!pkmer)
 
 ```css
-div:has(hr) + div:has(p)>p {
-  --hr-text-y: -270%;
-}
-.hr.cm-line + .cm-line:not(:has(br)) {
-  --hr-text-y: -105%;
-}
-
-div:has(hr) + div:has(p)>p,
-.hr.cm-line + .cm-line:not(:has(br)) {
+.markdown-source-view .hr.cm-line + .cm-line:not(:has(br)) {
+  --hr-text-y: -135%;
   position: absolute;
   padding-left: 0.75rem;
   padding-right: 0.75rem;
@@ -207,4 +202,4 @@ div:has(hr) + div:has(p)>p,
 }
 ```
 
-上面的代码适用于无主题的情况，如果你有主题，可以自己适当修改前面的两个 <kbd>--hr-text-y</kdb> 中的数值，数值减小，文字上移。
+上面的代码适用于无主题的情况，如果你有主题，可以自己适当修改前面的 <kbd>--hr-text-y</kdb> 中的数值，数值减小，文字上移。
