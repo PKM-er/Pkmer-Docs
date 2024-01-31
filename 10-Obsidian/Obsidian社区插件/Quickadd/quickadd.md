@@ -177,6 +177,7 @@ module.exports = async (params) => {
 - [[Quickadd结合CSS实现挖空复习]]
 - [[Quickadd脚本-一键在某软件中打开Ob笔记]]
 - [[Quickadd脚本-一键在系统应用中打开图片编辑]]
+- [[Quickadd脚本-控制自定义CSS-设置二维码字体]]
 
 
 ## 视频教程
