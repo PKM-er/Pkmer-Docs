@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240201113510
+modified: 20240201135814
 ---
 
 # Thino Pro 激活方式
@@ -57,7 +57,7 @@ modified: 20240201113510
 
 1. 购买 Web 服务或购买 PKMer 会员打包
 2. 激活同步：
-	1. 【网站操作】在个人中心 Thino 相关页面中，找到一键激活同步
+	1. 【网站操作】在个人中心 Thino 相关页面中，找到一键激活同步，如果你找不到这个页面，你也可以选择在插件中点击 link 按钮由插件帮助你跳转到对应页面
 	2. 【网站操作】`点击激活同步`
 	3. 【插件操作】进入插件设置，`General` 中在 Sync Status 中点击 `Start`
 ![image.png](https://cdn.pkmer.cn/images/20240130152845.png!pkmer)
