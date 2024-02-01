@@ -7,7 +7,7 @@ author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240122184326
+modified: 20240201102424
 ---
 
 # Thino 微信内容发送到 Thino
@@ -15,12 +15,10 @@ modified: 20240122184326
 ## 概述
 
 > [!note] 功能信息
-> 此功能仅支持 Thino Pro
-
-通过关注指定的微信服务号，将文本消息和图片消息发送到指定服务号
-
-> [!note] 功能信息
 > 此功能在 Thino 2.2 版本上线，之前版本不支持
+> 此功能需要以来 Thino Web 服务
+
+通过关注指定的微信订阅号，将文本消息和图片消息发送到指定服务号
 
 ## 效果&特性
 
