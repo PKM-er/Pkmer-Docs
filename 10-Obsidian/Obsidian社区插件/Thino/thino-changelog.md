@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240201140925
+modified: 20240201141147
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
