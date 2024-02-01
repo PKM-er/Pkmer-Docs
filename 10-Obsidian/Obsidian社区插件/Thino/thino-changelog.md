@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240129122717
+modified: 20240201141147
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
@@ -15,6 +15,20 @@ modified: 20240129122717
 # Thino 2.X 更新记录
 
 需要请加入内侧体验，[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
+
+## Thino 2.2.2 2024.02.01
+
+### 调整
+
+- 改进验证流程和提示文案，提升整体体验流程，参见 [[04_Thino Pro 激活步骤]]
+- 设置中记录格式现在变为不可修改项，主要是为了减少用户不用配置的兼容问题，以及用户切换后是否需要批量操作用户数据的操作
+
+### 修复
+
+- 修复启动 Thino 随着 Obsidian 启动不生效的问题
+- 修复热力图天数统计异常问题
+- 修复同步在某些情况下，数据不丢失，但会丢失同步标识问题
+- 修复某些情况删除标识重复的问题
 
 ## Thino 2.2.1 2024.1.29
 
@@ -25,7 +39,6 @@ modified: 20240129122717
 	- 可以选择需要链接的已有卡片
 	- 应用：这是一个汇总较为方便的，总分概念，或者概念之间串联的展形式，这里简单作图来展示下：
 ![image.png|500](https://cdn.pkmer.cn/images/20240129182839.png!pkmer)
-
 
 ### 修复
 
