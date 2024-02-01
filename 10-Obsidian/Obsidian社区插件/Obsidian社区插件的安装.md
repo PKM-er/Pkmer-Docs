@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230914161155
+modified: 20240201112250
 ---
 
 # Obsidian 社区插件的安装
@@ -20,6 +20,11 @@ modified: 20230914161155
 
 > [!推荐]
 > 使用 我们的 Obsidian PKMer ，一劳永逸的解决该问题
+
+也可以通过 PKMer 安装的手把手教程，用同样的方法安装其他插件
+
+- [[PKMer插件电脑端安装手把手教程]]
+- [[PKMer插件安卓端安装手把手教程]]
 
 ## 手动安装
 
