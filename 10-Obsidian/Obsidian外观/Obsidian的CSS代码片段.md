@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 2024012803075
+modified: 20240201185622
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -54,6 +54,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-美化代码域对编程语言的样式展示]]
 - [[Obsidian样式-自定义选中文本部分高亮颜色]]
 - [[Obsidian样式-使用CSS-HTML实现分栏]]
+- [[Obsidian样式-用分割线实现分栏]]
 - [[Obsidian样式-笔记页内标题居中]]
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-分割线样式美化]]
@@ -153,6 +154,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 标签页
 
 - [[Obsidian样式-标签页Tab样式]]
+
+### 标签页标题栏
+
+- [[Obsidian样式-标签页标题栏的隐藏]]
 
 ### PDF
 

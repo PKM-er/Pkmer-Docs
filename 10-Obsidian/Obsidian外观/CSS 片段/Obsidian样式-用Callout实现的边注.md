@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240128020302
+modified: 20240201185324
 ---
 
 # Obsidian 样式 - 用 Callout 实现的边注（注释）
@@ -25,18 +25,24 @@ modified: 20240128020302
 
 添加好 css 后，在正文中直接用边注的 callout 即可（如何添加 css 可以看这篇：[[Obsidian的CSS代码片段]]）
 
-```
-> [!NOTE|aside-l] 右侧注释
-> 注释内容
-```
+如果想要左边的边注，可以这样写
 
 ```
 > [!NOTE|aside-l] 左侧注释
 > 注释内容
 ```
 
+如果想要右边的边注，可以这样写
+
 ```
-> [!NOTE|aside-r]+ 默认展开的注释
+> [!NOTE|aside-r] 右侧注释
+> 注释内容
+```
+
+如果想要边注可折叠，可以用 callout 的折叠语法
+
+```
+> [!NOTE|aside-l]+ 默认展开的注释
 > 注释内容
 ```
 
@@ -44,6 +50,8 @@ modified: 20240128020302
 > [!NOTE|aside-r]- 默认折叠的注释
 > 注释内容
 ```
+
+边注基于 callout 实现，因此可以像 callout 一样使用不同的样式
 
 ```
 > [!ERROR|aside-l] ERROR 样式
@@ -60,25 +68,55 @@ modified: 20240128020302
 
 ![image.png](https://cdn.pkmer.cn/images/20240128015300.png!pkmer)
 
+## 部分主题截图展示
+
+默认主题：
+
+![image.png](https://cdn.pkmer.cn/images/20240128015757.png!pkmer)
+
+Anuppuccin：
+
+![image.png](https://cdn.pkmer.cn/images/20240128015938.png!pkmer)
+
+blue-topaz:
+
+![image.png](https://cdn.pkmer.cn/images/20240128020040.png!pkmer)
+
+minimal:
+
+![image.png](https://cdn.pkmer.cn/images/20240128020251.png!pkmer)
+
+## 注意
+
+- 渲染的是 callout，没有添加新语法，方便迁移以及修改。
+- 边注的标题在侧边时不宜过长
+- 边注需要显示在侧面，如果屏幕过小，可能无法全部显示。例如手机屏幕、页面分页
+- 暂未导出 PDF 的样式（doing）
+- 边注的位置目前只能固定在侧边，还未支持上下调整，后续可能会增加该功能（doing）
+
 ## CSS 源码
 
-如果样式遇到问题，可以评论留言告诉我一下，能力范围内会修改。如果是以前复制的 css，可以重新复制下，css 随时可能会更新
+如果样式遇到问题，试着更新下代码。文章中的代码不一定是最新的，可以在 [xhuajin/obsidian-sidenote-callout(github.com)](https://github.com/xhuajin/obsidian-sidenote-callout) 查看更新最新代码。
+
+如果代码使用遇到问题，请检查：
+
+- css 是否放置到正确的文件夹，是否在库中启用
+- 你在笔记中写的 callout 是否正确
+- 如果没有显示，是不是屏幕可显示的范围过小
+
+遇到 BUG：可以在上方链接中给我提 issue，或者在 pkmer 的 q 群问问。
+
+希望增加功能：在上方链接中给我提 issue
 
 > 更新日志
 > 2024-01-22：可以直接修改边注与正文之间的距离、边注标题位于顶部时，可以自行选择标题的位置（居左、居中和居右）
 
 ```css
 /*
-作者：Huajin
-内容改编自discord，使得实时模式可以显示，并适配多种主题
+author: Huajin
+reference: 
   https://discord.com/channels/686053708261228577/702656734631821413/1155147566615367680
   https://discord.com/channels/686053708261228577/702656734631821413/1073456247849881610
-用法示例
-> [!note|aside-l] 边注1
-> Content1
-
-> [!note|aside-r] 边注2
-> Content2
 */
 
 /* @settings
@@ -347,22 +385,21 @@ body:not(.top-sidenote-callout-title) .setting-item[data-id="top-right-sidenote-
 .callout[data-callout-metadata*="aside"]>.callout-content:hover::-webkit-scrollbar-thumb {
   background-color: var(--scrollbar-thumb-bg) !important;
 }
+
+/* ------- */
+
+@media print {
+  .callout[data-callout-metadata*="aside-l"] {
+    left: 0;
+    right: calc(100% - var(--aside-width));
+  }
+  .callout[data-callout-metadata*="aside-r"] {
+    left: calc(100% - var(--aside-width));
+    right: 0;
+  }
+  div:not(.callout-content)>p {
+    width: calc(100% - 2 * var(--aside-width));
+    margin: 0 auto;
+  }
+}
 ```
-
-## 部分主题截图展示
-
-默认主题：
-
-![image.png](https://cdn.pkmer.cn/images/20240128015757.png!pkmer)
-
-Anuppuccin：
-
-![image.png](https://cdn.pkmer.cn/images/20240128015938.png!pkmer)
-
-blue-topaz:
-
-![image.png](https://cdn.pkmer.cn/images/20240128020040.png!pkmer)
-
-minimal:
-
-![image.png](https://cdn.pkmer.cn/images/20240128020251.png!pkmer)
