@@ -7,12 +7,12 @@ author: 熊猫别熬夜,ProudBenzene,calmwaves
 type: other
 draft: false
 editable: false
-modified: 20240131163327
+modified: 20240131164758
 ---
 
 # Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体
 
-![](https://cdn.pkmer.cn/images/202401311633076.png!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633076.png!pkmer)
 
 ## 概述
 
@@ -20,9 +20,9 @@ modified: 20240131163327
 
 > PS：二维码字体可以通过扫描获取文字，安全性并不高，如果分享的界面是极为隐私的内容，请采用其他方法。
 
-为了方便调用这个隐私字体，可以配合 Quickadd、Commander 插件制作一个控制开关按钮：
+为了方便调用这个隐私字体，可以配置 Quickadd 脚本 (脚本由 @ProudBenzene 提供)，另外用 Commander 插件制作一个控制开关按钮：
 
-![](https://cdn.pkmer.cn/images/202401311633077.gif!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633077.gif!pkmer)
 
 ## 配置教程
 
@@ -35,7 +35,7 @@ modified: 20240131163327
 
 需要配置 CSS 片段，设置 Obsidian 中所有字体为该二维码字体，即复制下面的 CSS 到一个 `.css` 文件中，比如我命名为：`[字体-熊猫]隐私字体.css`，并移动到 `{你的笔记库路径}\.obsidian\snippets` 文件夹中：
 
-![](https://cdn.pkmer.cn/images/202401311633078.png!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633078.png!pkmer)
 
 ```css
 body {
@@ -60,7 +60,7 @@ Quickadd 可以用 Capture 或者 Macro 来设置脚本，Capture 里面需要�
 
 #### Capture 配置
 
-![](https://cdn.pkmer.cn/images/202401311633080.png!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633080.png!pkmer)
 
 ````md
 ```js quickadd
@@ -116,28 +116,28 @@ module.exports = async (params) => {
 
 可以根据自身使用习惯配置对应的快捷键或者一个按钮，或者直接通过 Quickadd 来调用：
 
-![](https://cdn.pkmer.cn/images/202401311633081.png!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633081.png!pkmer)
 
 #### 配置快捷键
 
 配置快捷键需要把 Quickadd 中勾选⚡的符号来注册快捷键
 
-![](https://cdn.pkmer.cn/images/202401311633082.png!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633082.png!pkmer)
 
 然后在 Obsidian 设置中配置快捷键
 
-![](https://cdn.pkmer.cn/images/202401311633083.png!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633083.png!pkmer)
 
 #### 配置 Commander 按钮
 
 配置快捷键需要把 Quickadd 中勾选⚡的符号来注册快捷键
 
-![](https://cdn.pkmer.cn/images/202401311633082.png!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633082.png!pkmer)
 
 在 Commander 中配置该快捷键的按钮，我是注册在**首页**需要在**外观**中开启**显示标签页标题栏**：
 
-![](https://cdn.pkmer.cn/images/202401311633085.png!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633085.png!pkmer)
 
 **Commander 配置**：
 
-![](https://cdn.pkmer.cn/images/202401311633086.png!pkmer)
+![Quickadd 脚本 - 控制自定义 CSS- 设置二维码字体](https://cdn.pkmer.cn/images/202401311633086.png!pkmer)
