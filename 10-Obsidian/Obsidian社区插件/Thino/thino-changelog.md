@@ -92,6 +92,7 @@ modified: 20240201141147
 > - 此特性不是默认开启，以防止和你已经设定的快捷键冲突
 > - 需要你先在插件设置中开启，如图，并重启 Obisidian
 > - 比如我这里输入的是 <kbd>Ctrl+Shift+K</kbd>，或者通过快捷键菜单去设置
+>  
 >  ![image.png|650](https://cdn.pkmer.cn/images/20231227160540.png!pkmer)
 
 - Show nearby mouse：可以呼出的 thino 界面在鼠标光标旁边
