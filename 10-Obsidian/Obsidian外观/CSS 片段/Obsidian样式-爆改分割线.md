@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240128014851
+modified: 20240201191125
 ---
 
 # Obsidian 样式 - 爆改分割线
@@ -188,15 +188,15 @@ border-bottom: 2px dashed #1e1e1e;
 ![image.png](https://cdn.pkmer.cn/images/20240128012843.png!pkmer)
 
 ```css
-div:has(hr) + div:has(p)>p {
+:is(div.markdown-source-view) div:has(hr) + div:has(p)>p {
   --hr-text-y: -270%;
 }
-.hr.cm-line + .cm-line:not(:has(br)) {
+:is(div.markdown-source-view) .hr.cm-line + .cm-line:not(:has(br)) {
   --hr-text-y: -105%;
 }
 
-div:has(hr) + div:has(p)>p,
-.hr.cm-line + .cm-line:not(:has(br)) {
+:is(div.markdown-source-view) div:has(hr) + div:has(p)>p,
+:is(div.markdown-source-view) .hr.cm-line + .cm-line:not(:has(br)) {
   position: absolute;
   padding-left: 0.75rem;
   padding-right: 0.75rem;
@@ -207,4 +207,6 @@ div:has(hr) + div:has(p)>p,
 }
 ```
 
-上面的代码适用于无主题的情况，如果你有主题，可以自己适当修改前面的两个 <kbd>--hr-text-y</kdb> 中的数值，数值减小，文字上移。
+上面的代码适用于无主题的情况，如果你有主题，可以自己适当修改前面的两个 <kbd>--hr-text-y</kdb> 中的数值，数值减小，文字上移。测试过 minimal 主题有冲突无法使用。
+
+由于阅读模式会把空行去掉，导致无法只添加单个分割线，因此只限定了编辑状态渲染，阅读模式不渲染。
