@@ -1,5 +1,5 @@
 ---
-uid: 2023080322152747
+uid: 2023120719240565
 title: Obsidian 插件：【Readme】Calendar
 tags: ['导航工具', '日志类', '日期相关', '效率', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加日历功能，可以在日历中跳转和查看自己的是否有待办未完成，也可以跳转到对应的日记。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Calendar
+# Obsidian 插件：【Readme】Calendar
 
 > [!Note] 插件名片
 > - 插件名称：Calendar
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个插件为 [Obsidian](https://obsidian.md/) 创建了一个简单的日历视图，用于可视化和导航你的日记笔记。
 
-![screenshot-full](https://raw.githubusercontent.com/liamcain/obsidian-calendar-plugin/master/images/screenshot-full.png)
+![screenshot-full](https://cdn.pkmer.cn/covers/calendar_1_0.png!pkmer)
 
 使用方法
 
@@ -58,6 +58,10 @@ modified: 20230101000000
 
 ## 设置
 
+- **开始周的日期 [默认：地区设置]**：配置日历视图以显示星期日或星期一作为一周的第一天。选择“地区设置”将根据您选择的地区设置（`设置 > 关于 > 语言`）将开始日期设置为默认值。
+- **每个点的字数 [默认：250]**：从版本 1.3 开始，点的数量反映了您文件的字数。默认情况下，每个点代表 250 个字，您可以将该值更改为任何您想要的值。将其设置为 `0` 以完全禁用字数统计。**注意：**最多只能有 5 个点，以防止视图过大！
+- **在创建新笔记之前确认 [默认：开启]**：如果您不喜欢在创建新的每日笔记之前弹出的模态框，可以关闭它。
+- **显示周数 [默认：关闭]**：启用此选项，将在日历视图中添加一个新的列，显示 [周数](https://en.wikipedia.org/wiki/Week#Week_numbering)。单击这些单元格将打开您的**周记**。
 
 ## 自定义
 
@@ -107,7 +111,43 @@ modified: 20230101000000
 
 您可以通过 Obsidian 中的 Community Plugins 选项卡安装插件。只需搜索 "Calendar" 即可。
 
+常见问题解答
 
+点的含义是什么？
+
+每个实心点代表你每日笔记中的 250 个单词。所以 4 个点意味着你在那一天写了一千个单词！如果你想改变这个阈值，你可以在日历设置中设置不同的“每个点的单词数”。
+
+另一方面，空心点表示该天有未完成的任务。（**注意：**无论剩余任务的数量如何，特定的一天只会有一个空心点）
+
+如何更改日历的样式？
+
+默认情况下，日历应无缝地与您的主题相匹配，但如果您想进一步自定义它，您可以在您的 `obsidian.css` 文件（位于您的保险库内）中配置样式。
+
+在设置中，您可以启用“显示周数”选项，将“周数”列添加到日历中。单击周数即可打开“每周笔记”。
+
+如何在不禁用插件的情况下隐藏日历插件？
+
+就像其他侧边栏视图（例如反向链接、大纲）一样，可以通过右键单击视图图标来关闭日历视图。
+
+![如何关闭](https://cdn.pkmer.cn/covers/calendar_2_0.png!pkmer)
+
+我不小心关闭了日历。如何重新打开它？
+
+如果您关闭了日历小部件（右键单击面板导航并单击关闭），您可以通过命令面板重新打开视图。只需搜索“Calendar: Open view”。
+
+![how-to-reopen](https://cdn.pkmer.cn/covers/calendar_2_1.png!pkmer)
+
+如何让日历从星期一开始？
+
+您可以在设置菜单中切换“从星期一开始”。
+
+如果您希望每周笔记的格式中包含一个单词（例如 "2020 年第 21 周 "），您可以使用 `[]` 括号将单词括起来。这会告诉 [moment](https://momentjs.com/docs/#/displaying/format/) 忽略这些单词。因此，对于上面的示例，您可以将格式设置为 `[Week] ww [of Year] gggg`。
+
+我不喜欢显示周数，但我仍然想使用每周笔记。我还能使用它们吗？
+
+您可以通过在命令面板中搜索“Calendar: Open weekly Note”来打开当前的每周笔记。这将打开当前周的每周笔记。
+
+要配置“格式”、“文件夹”和“模板”，您需要暂时切换到设置中的“显示周数”，但如果您切换回关闭状态，您的设置将保持不变。
 
 ## 专业技巧
 
@@ -136,7 +176,7 @@ modified: 20230101000000
 
 尽管日历出现在右侧边栏中，但并不意味着它必须留在那里。随意将其拖动到左侧边栏，或者（如果屏幕空间足够）拖动到主内容区域。如果将其移出边栏，甚至可以固定视图；非常适合更高级的平铺布局！
 
-![如何固定](./images/how-to-pin.png)
+![如何固定](https://cdn.pkmer.cn/covers/calendar_2_2.png!pkmer)
 
 ### 在新的分割窗口中打开每日笔记
 
@@ -150,7 +190,7 @@ modified: 20230101000000
 
 如果您想要将周末与工作日区分开来进行样式设置，您可以将 `var(--color-background-weekend)` 设置为您想要的任何颜色。
 
-![how-to-weekend](./images/how-to-weekend.png)
+![how-to-weekend](https://cdn.pkmer.cn/covers/calendar_2_3.png!pkmer)
 
 每周笔记（已弃用）
 
@@ -184,3 +224,13 @@ modified: 20230101000000
 - [Nick Milo提供了一个很好的插件演示](https://www.youtube.com/watch?v=X61wRmfZU8Y&t=1099s)
 - [Santi Younger演示了如何使用日历+周期性笔记进行每周回顾](https://www.youtube.com/watch?v=T9y8JABS9_Q)
 - [Filipe Donadio使用日历来计划他的一天](https://www.youtube.com/watch?v=hxf3_dXIcqc)
+
+## 表达感谢 🙏
+
+如果你喜欢这个插件并想请我喝杯咖啡，你可以！
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/liamcain)
+
+喜欢我的工作并想看到更多类似的内容？你可以赞助我。
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/liamcain?style=social)](https://github.com/sponsors/liamcain)

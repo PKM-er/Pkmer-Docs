@@ -1,5 +1,5 @@
 ---
-uid: 2023080322204522
+uid: 2023120719313239
 title: Obsidian 插件：【Readme】JavaScript Init
 tags: ['编程', 'obsidian插件', 'readme']
 description: 在 Obsidian 加载时或任何其他时间运行JavaScript。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：JavaScript Init
+# Obsidian 插件：【Readme】JavaScript Init
 
 > [!Note] 插件名片
 > - 插件名称：JavaScript Init
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 当 Obsidian 加载时运行 JavaScript，或者在任何其他时间运行。
 
-![设置选项卡](JavaScript_Init.png)
+![设置选项卡](https://cdn.pkmer.cn/covers/obsidian-javascript-init_2_0.png!pkmer)
 
 ### 手动安装插件
 

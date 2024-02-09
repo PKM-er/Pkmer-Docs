@@ -1,5 +1,5 @@
 ---
-uid: 2023080322140413
+uid: 2023120719222673
 title: Obsidian 插件：【Readme】Antidote Grammar Checker Integration
 tags: ['obsidian插件', 'readme']
 description: 非官方集成Antidote，一款强大的英语和法语语法检查器
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Antidote Grammar Checker Integration
+# Obsidian 插件：【Readme】Antidote Grammar Checker Integration
 
 > [!Note] 插件名片
 > - 插件名称：Antidote Grammar Checker Integration
@@ -50,9 +50,9 @@ Antidote 支持以下语言：
 
 **该插件不适用于智能手机。**
 
-![](./assets/obsidian.png)
+![](https://cdn.pkmer.cn/covers/antidote-grammar-checker-integration_2_0.png!pkmer)
 
-![](./assets/antidote.png)
+![](https://cdn.pkmer.cn/covers/antidote-grammar-checker-integration_2_1.png!pkmer)
 
 如何安装
 
@@ -73,7 +73,7 @@ Antidote 支持以下语言：
 - 对应 Antidote 字典的绿色书籍
 - 对应 Antidote 指南的橙色书籍
 
-![](./assets/obsidian-statusbar.png)
+![](https://cdn.pkmer.cn/covers/antidote-grammar-checker-integration_2_2.png!pkmer)
 
 您可以从设置中显示或隐藏每个图标。
 

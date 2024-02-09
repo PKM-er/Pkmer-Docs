@@ -1,6 +1,6 @@
 ---
 uid: 2023080322292128
-title: Obsidian 插件：【Readme】Vimrc Support
+title: Obsidian 插件：Vimrc Support
 tags: ['Vim相关', 'obsidian插件', 'readme']
 description: 支持 Vimrc 配置文件。
 author: AI
@@ -493,7 +493,7 @@ div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
 
 ### 0.6.1
 
-- 修复了 `surround` 中的向后选择错误 (<https://github.com/esm7/obsidian-vimrc-support/issues/91)>
+- 修复了 `surround` 中的向后选择错误 (<https://github.com/esm7/obsidian-vimrc-support/issues/91>)>
 
 ### 0.6.0
 

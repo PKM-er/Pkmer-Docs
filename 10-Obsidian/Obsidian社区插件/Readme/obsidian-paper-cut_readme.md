@@ -1,5 +1,5 @@
 ---
-uid: 2023080322242789
+uid: 2023120719395974
 title: Obsidian 插件：【Readme】PaperCut
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 以最简单的方式表达一个想法……否则。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：PaperCut
+# Obsidian 插件：【Readme】PaperCut
 
 > [!Note] 插件名片
 > - 插件名称：PaperCut
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 以最简单的方式表达一个想法……否则。
+
+![PaperCut](https://cdn.pkmer.cn/covers/obsidian-paper-cut.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -47,11 +49,11 @@ Papercut 插件允许用户设置一个“纸张限制”，超过该限制的�
 
 ## 示例
 
-![](https://raw.githubusercontent.com/Darakah/obsidian-paper-cut/main/images/example.png)
+![](https://cdn.pkmer.cn/covers/obsidian-paper-cut_1_2.png!pkmer)
 
 ## 设置
 
-![](https://raw.githubusercontent.com/Darakah/obsidian-paper-cut/main/images/settings.png)
+![](https://cdn.pkmer.cn/covers/obsidian-paper-cut_1_3.png!pkmer)
 
 ## 支持
 

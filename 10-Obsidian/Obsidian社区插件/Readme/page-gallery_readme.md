@@ -1,5 +1,5 @@
 ---
-uid: 2023080322242338
+uid: 2023120719395491
 title: Obsidian 插件：【Readme】Page Gallery
 tags: ['obsidian插件', 'readme']
 description: 根据所选页面内容创建可嵌入的图库。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Page Gallery
+# Obsidian 插件：【Readme】Page Gallery
 
 > [!Note] 插件名片
 > - 插件名称：Page Gallery
@@ -58,7 +58,7 @@ columns: 3
 fields: [file.name, Description]
 ```
 
-![使用 page-gallery 插件的示例](./docs/example.png)
+![使用 page-gallery 插件的示例](https://cdn.pkmer.cn/covers/page-gallery_2_0.png!pkmer)
 
 *照片来自 [Unsplash](https://unsplash.com/)*
 

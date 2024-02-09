@@ -1,5 +1,5 @@
 ---
-uid: 2023080322165083
+uid: 2023120719260175
 title: Obsidian 插件：【Readme】Custom Classes
 tags: ['obsidian插件', 'readme']
 description: 直接从您的笔记中为所选择的Markdown元素添加自己的HTML类。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Custom Classes
+# Obsidian 插件：【Readme】Custom Classes
 
 > [!Note] 插件名片
 > - 插件名称：Custom Classes
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 直接从您的笔记中为所选择的 Markdown 元素添加自己的 HTML 类。
 
-![Custom Classes](https://cdn.pkmer.cn/covers/custom-classes.gif!pkmer)
+![Custom Classes](https://cdn.pkmer.cn/covers/custom-classes.gif)
 
 > [!tip] 原文出处
 >
@@ -454,8 +454,8 @@ I'm a **bold text `class: big`** and _`.small` me an italic one_
 
 | 主题 | |
 | -- | -- |
-| 暗色 | ![](https://forum.obsidian.md/uploads/default/original/3X/1/4/1418a3659b033fcf8d925105d6a3da3c6b9984fc.gif) |
-| 亮色 | ![](https://forum.obsidian.md/uploads/default/original/3X/3/5/35b209dfa79a2b3df13166e9ddd6d1b208480fca.gif) |
+| 暗色 | ![](https://cdn.pkmer.cn/covers/custom-classes_1_0.gif) |
+| 亮色 | ![](https://cdn.pkmer.cn/covers/custom-classes_1_1.gif) |
 
 </p></td>
 </tbody>

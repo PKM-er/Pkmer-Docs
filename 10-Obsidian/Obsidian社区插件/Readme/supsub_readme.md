@@ -1,6 +1,6 @@
 ---
 uid: 2023080322273329
-title: Obsidian 插件：【Readme】SupSub
+title: Obsidian 插件：SupSub
 tags: ['obsidian插件', 'readme']
 description: 轻松在您的笔记中设置上标和下标。
 author: AI

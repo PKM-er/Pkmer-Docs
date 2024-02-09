@@ -7,10 +7,12 @@ author: calmwaves
 type: basic
 draft: false
 editable: false
-modified: 20230922101122
+modified: 20231209100721
 ---
 
 # Obsidian 安卓上利用 CSS 修改界面字体
+
+安卓手机上自定义字体不能使用系统字体，但是我们可以通过直接将字体文件嵌入到 css 中来实现修改界面字体，以下提供了三种可选方案，任选一种即可。
 
 ## 调用在线字体
 
@@ -71,8 +73,12 @@ reference: [简单调用霞鹜文楷字体 - 经验分享 - Obsidian 中文论�
 
 ## 插件 custom fonts
 
-reference: [pourmand1376/obsidian-custom-font: A plugin to set custom font for obsidian](https://github.com/pourmand1376/obsidian-custom-font)
+插件介绍：[[custom-font-loader_readme]]
 
-新插件，我试用了一下，但是一直弹出 processing file，估计是中文字体文件太大了
+2023-09-23，新版本已经能处理字体大文件了，可以使用这个插件来自定义字体。
 
-所以这个插件暂时还用不了
+- 将字体文件（.woff、.ttf 和 .woff2）添加到 `.obsidian/fonts` 文件夹中。
+- 打开插件设置，然后从下拉菜单中选择所需的字体。
+- 所选字体现在将应用于整个保管库。您可以随时切换字体。
+
+~~2023-08-18，新插件，我试用了一下，但是一直弹出 processing file，估计是中文字体文件太大了，所以这个插件暂时还用不了~~

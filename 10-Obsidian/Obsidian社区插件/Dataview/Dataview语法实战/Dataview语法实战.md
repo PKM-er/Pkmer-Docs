@@ -7,7 +7,7 @@ author: Huajin,Windysoul,PKMer
 type: other
 draft: false
 editable: false
-modified: 20230918122741
+modified: 20231029225015
 ---
 
 # Dataview 语法实战
@@ -29,11 +29,19 @@ modified: 20230918122741
 ## Part 1 - 按查询类型分类
 
 - 表格形式：TABLE
-	- [[定制你的数据表格：为Dataview表格列添加个性化样式]]；
-- 无序列表：LIST
-	- 简单示例：[[Dataview 无序列表简单查询示例]]；
-- 任务列表：TASK
+	- 简单示例：[[Dataview 表格简单查询示例]]；
+	- 进阶示例：[[Dataview 表格进阶查询示例]]；
+	- 更多花样：
+		- [[Dataview实战-定制你的数据表格并为表格列添加个性化样式]]；
+		- [[Dataview语法实战-列出特定标题下的元素]]
+- 列表形式：LIST
+	- 简单示例：[[Dataview 列表简单查询示例]]；
+	- 进阶示例：[[Dataview 列表进阶查询示例]]；
+- 任务形式：TASK
+	- 简单示例：[[Dataview 任务简单查询示例]]；
+	- 进阶示例：[[Dataview 任务进阶查询示例]]；
 - 日历形式：CALENDAR
+	- 简单示例：[[Dataview 日历查询示例]]；
 
 ## Part 2 - 按操作符分类
 
@@ -48,15 +56,19 @@ modified: 20230918122741
 - GROUP BY
 	- 简单示例：[[Dataview语法实战-GROUP BY 操作符简单示例|GROUP BY 操作符简单示例]]；
 	- 进阶示例：[[Dataview语法实战-GROUP BY 操作符进阶示例|GROUP BY 操作符进阶示例]]；
+	- 深层剖析：[[Dataview 的 GROUP BY 究竟是怎么工作的|GROUP BY 究竟是怎么工作的]]；
 
 ## Part 3 - 按函数分类
-
-- object(key1, value2, ...)：
-- list(value1, value2, ...)：
 
 我们常常会在以下场景中使用 Dataview 进行查询：
 
 这些只是 Dataview 插件的一些常见使用场景，你可以根据自己的需求和使用习惯，发现更多适合你的场景，并灵活应用 Dataview 插件来加强 Obsidian 中的数据分析和可视化能力。
+
+- [[31 - Dataview 中的构造函数|构造函数]]：这类函数用于将输入值转换为其他数据类型，也就是强制类型转换（11 个）；
+- [[32 - Dataview 中的数值运算函数|数值运算函数]]：这类函数用于操纵数字（8 个）；
+- [[33 - Dataview 中的对象操纵函数|对象操纵函数]]：这类函数用于操作对象内部的值（14 个）；
+- [[34 - Dataview 中的字符串操纵函数|字符串操纵函数]]：这类函数专门用于处理字符串（13 个）；
+- [[35 - Dataview 中的实用函数|实用函数]]：一些实用的函数（7 个）；
 
 ## Part 4 - 其他使用
 

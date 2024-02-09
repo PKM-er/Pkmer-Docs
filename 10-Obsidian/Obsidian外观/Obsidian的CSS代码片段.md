@@ -3,12 +3,11 @@ uid: 20230329145845
 title: Obsidian 的 CSS 代码片段
 tags: [Obsidian, CSS, snippets, 外观, 主题]
 description: Obsidian 的 CSS 代码片段
-author: OS
+author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20230918105313
-aliases: [Obsidian css代码片段]
+modified: 20240201185622
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -21,7 +20,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 打开笔记仓库的 `.obsidian` 文件夹，其中如果没有 `snippets` 文件夹则创建。
 
-在 Obsidian 中的 CSS snippets 都是以.css 的档案格式储存在特定的文件夹。如果你有将 CSS snippets 放到该文件夹，就会在 Obsidian 显示开关。
+在 Obsidian 中的 CSS snippets 都是以 .css 的档案格式储存在特定的文件夹。如果你有将 CSS snippets 放到该文件夹，就会在 Obsidian 显示开关。
 
 ![Pasted image 20230126215854](https://cdn.pkmer.cn/images/2082fd7f6036cd4da2572868af81b729_MD5.png!pkmer)
 
@@ -29,6 +28,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 1. 别人给你的，或者你看到不错的代码片段（CSS）文件，放进 `snippets` 文件夹就行。或者自己建立一个 CSS 文件，书写你自己的样式当然需要一点 CSS 代码基础。
 2. Obsidian > 设置 > 外观，最后一项【CSS 代码片段】，刷新一下，会显示出新增的文件，把后面的切换按钮打开即可。
+3. 如果你使用的网站上复制的内容，那么可以尝试先把内容放到一个文本文件（.txt），然后将文本文件的文件类型（后缀名）改为 .css 即可。然后重复 步骤 1 和 步骤 2
 
 涉及软件界面的修改，有时候可能需要重启软件生效。
 
@@ -39,31 +39,60 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[回归原始的Obsidian图标]]
 - [[Obsidian样式-自定义待办图标]]
 
+### 界面元素
+
+- [[Obsidian样式-像VSCode一样显示搜索替换框]]
+- [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
+- [[Obsidian样式-悬浮两侧菜单栏]]
+- [[Obsidian样式-专注标签页边框]]
+
 ### 编辑器
 
 - [[Obsidian样式-minimal主题Cards卡片布局]]
 - [[Obsidian样式-编辑模式下当前行高亮]]
 - [[Obsidian样式-加粗粗体样式优化]]
 - [[Obsidian样式-美化代码域对编程语言的样式展示]]
-- [[Obsidian样式-Callout样式]]
 - [[Obsidian样式-自定义选中文本部分高亮颜色]]
 - [[Obsidian样式-使用CSS-HTML实现分栏]]
+- [[Obsidian样式-用分割线实现分栏]]
 - [[Obsidian样式-笔记页内标题居中]]
+- [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-分割线样式美化]]
 - [[Obsidian样式-给笔记添加随机背景图]]
-- [[Obsidian样式-段落首行增加缩进]]
 - [[Obsidian样式-美化高亮样式]]
 - [[Obsidian样式-美化行内代码样式]]
-- [[Obsidian样式-引用框样式]]
 - [[Obsidian样式-编辑模式代码块显示行号]]
 - [[Obsidian样式-修复1.3.7版本标题语法高度问题]]
-- [[obsidian安卓上利用css修改界面字体]]
+- [[Obsidian安卓上利用css修改界面字体]]
 - [[Obsidian样式-缩减栏宽模式下美化笔记内部背景]]
 - [[Obsidian样式-iPhone-Obsidian自定义字体]]
+- [[Obsidian样式-实现TiddlyWiki故事河]]
+- [[Obsidian样式-完成任务时如何取消任务文本的删除线]]
+- [[Obsidian样式-借助CSS打造独立的大屏表格页面]]
+- [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
+
+### 列表&段落
+
+- [[Obsidian样式-ITS主题列表样式]]
+- [[Obsidian样式-段落首行增加缩进]]
+- [[Obsidian样式-标题-列表-图片美化]]
+- [[Obsidian样式-书签列表样式]]
 
 ### 图片
 
 - [[Obsidian样式-图片点击长按放大]]
+- [[Obsidian样式-调整图片不同布局样式]]
+- [[Obsidian样式-如何让插入笔记中的图片水平居中]]
+- [[Obsidian样式-hover出现图片描述]]
+
+### callout
+
+- [[Obsidian样式-Callout样式]]
+- [[Obsidian样式-如何实现Blue-topaz自带类表格时间线样式]]
+- [[Obsidian样式-MCL Multi Column]]
+- [[Obsidian样式-用Callout实现的边注]]
+- [[Obsidian样式-PLN主题的callout]]
+- [[Obsidian样式-Vicious主题的callout]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
@@ -74,10 +103,15 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-悬浮状态栏]]
 
+### 搜索框
+
+- [[Obsidian样式-像VSCode一样显示搜索替换框]]
+
 ### 链接
 
 - [[Obsidian网址前自动加图标]]
 - [[Obsidian样式-修改内链的链接颜色]]
+- [[Obsidian样式-自定义链接前缀图标]]
 
 ### 文件管理器
 
@@ -102,18 +136,28 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 引用
 
 - [[Obsidian样式-隐藏块引用ID]]
+- [[Obsidian样式-引用框样式]]
+
+### 嵌入样式
+
+- [[Obsidian样式-简约的嵌入样式(Embed CSS)]]
+- [[Obsidian样式-修改悬浮预览框的大小]]
 
 ### 表格样式
 
 - [[Obsidian样式-表格样式简明方法]]
 
-### 标签样式
+### 标签 Tag 样式
 
 - [[Obsidian样式-多彩tag样式]]
 
 ### 标签页
 
 - [[Obsidian样式-标签页Tab样式]]
+
+### 标签页标题栏
+
+- [[Obsidian样式-标签页标题栏的隐藏]]
 
 ### PDF
 
@@ -123,19 +167,41 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-canvas白板卡片中文字居中]]
 - [[Obsidian样式-Canvas样式的修改及增强卡片的显示效果]]
-
-### dataview
-
-- [[Obsidian样式-建立书籍电影的卡片化视图]]
+- [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
 
 ### 移动端
 
-[[通过css在移动端右下角添加源码和阅读转换按钮]]
+- [[通过css在移动端右下角添加源码和阅读转换按钮]]
+- [[Obsidian样式-通过css修改安卓上的搜索框宽度]]
+- [[obsidian安卓上利用css修改界面字体]]
+
+### 语法拓展
+
+- [[Obsidian样式-调整HTML的detail样式为简单评论区]]
+- [[Obsidian样式-给mermaid添加横向滚动条]]
 
 ### 插件样式
 
 - [[Obsidian样式-Calendar插件的样式修改]]
 - [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]
+- [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+- [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
+- [[Obsidian样式-建立书籍电影的卡片化视图]]
+- [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+- [[Obsidian样式-可滚动的Dataview表格视图]]
+- [[Lyrics插件样式-音乐播放界面美化]]
+
+#### Thino
+
+- [[Obsidian样式-给Thino加个滚动条]]
+- [[Obsidian样式-给Thino搭配10种热力图颜色]]
+- [[Obsidian样式-Thino单文件时间轴样式]]
+- [[Obsidian样式-Thino 样式]]
+- [[Obsidian样式-Thino插件隐藏标志位]]
+
+#### Kanban
+
+- [[Obsidian样式-看板样式(kanban)]]
 
 ## 自定义 CSS 简单上手指南
 

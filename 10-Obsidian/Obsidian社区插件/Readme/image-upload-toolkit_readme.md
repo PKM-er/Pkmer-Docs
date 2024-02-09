@@ -1,5 +1,5 @@
 ---
-uid: 2023080322202064
+uid: 2023120719310371
 title: Obsidian 插件：【Readme】Image Upload Toolkit
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，用于将嵌入在Markdown中的本地图片上传到远程存储，并导出Markdown以发布到静态网站。目前，它支持Imgur和Aliyun OSS。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Image Upload Toolkit
+# Obsidian 插件：【Readme】Image Upload Toolkit
 
 > [!Note] 插件名片
 > - 插件名称：Image Upload Toolkit
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个黑曜石插件，用于将嵌入在 Markdown 中的本地图片上传到远程存储，并导出 Markdown 以发布到静态网站。目前，它支持 Imgur 和 Aliyun OSS。
 
-![Image Upload Toolkit](https://cdn.pkmer.cn/covers/image-upload-toolkit_new.gif!pkmer)
+![Image Upload Toolkit](https://cdn.pkmer.cn/covers/image-upload-toolkit_new.gif)
 
 > [!tip] 原文出处
 >
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 打开命令行并输入 "publish page"，它将上传所有本地图片到远程存储，并将替换了图片语法的 markdown 复制到剪贴板，并显示通知。
 
-![screenshot](https://github.com/addozhang/obsidian-image-upload-toolkit/assets/2224492/e190f65e-4f19-44e7-af40-a3f9f13e0e1d)
+![screenshot](https://cdn.pkmer.cn/covers/image-upload-toolkit_1_0.gif)
 
 ## 待办事项
 

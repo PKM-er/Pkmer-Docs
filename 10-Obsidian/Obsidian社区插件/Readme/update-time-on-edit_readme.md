@@ -1,6 +1,6 @@
 ---
 uid: 2023080322290219
-title: Obsidian 插件：【Readme】Update time on edit
+title: Obsidian 插件：Update time on edit
 tags: ['obsidian插件', 'readme']
 description: 保持 frontmatter 和最后编辑时间同步
 author: AI

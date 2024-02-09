@@ -1,5 +1,5 @@
 ---
-uid: 2023080322181156
+uid: 2023120719280892
 title: Obsidian 插件：【Readme】File Cooker
 tags: ['obsidian插件', 'readme']
 description: 从搜索结果、当前文件、Dataview查询字符串中处理批注。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：File Cooker
+# Obsidian 插件：【Readme】File Cooker
 
 > [!Note] 插件名片
 > - 插件名称：File Cooker
@@ -61,7 +61,7 @@ modified: 20230101000000
 > - 当前文件中的文件链接
 > - 来自 dataview 查询的文件（需要安装**dataview**插件）
 
-![obsidian-file-cooker演示图片](demo.png)
+![obsidian-file-cooker演示图片](https://cdn.pkmer.cn/covers/obsidian-file-cooker_2_0.png!pkmer)
 
 ## 使用方法
 

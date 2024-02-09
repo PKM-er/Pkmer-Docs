@@ -7,14 +7,12 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230801155252
+modified: 20240122220808
 ---
 
 # Obsidian 插件：Excalidraw 完美的绘图工具
 
-
 ![Excalidraw](https://cdn.pkmer.cn/covers/obsidian-excalidraw-plugin.PNG!pkmer)
-
 
 > [!Note] Excalidraw
 > - 插件名称：Excalidraw
@@ -106,6 +104,14 @@ excalidraw 可以把常用的一些绘图存为小组件库，也可以从网上
 3. 自定义嵌入样式：绘图想要白色背景，嵌入想要黑色背景，透明背景？想要边框？想要无边框？想要不同的字体？没问题，设置里可以添加 CSS 样式文件！
 4. [[Excalidraw局部嵌入Obsidian]]： Excalidraw 生成链接局部嵌入图形到 Obsidian 中
 
+### Library
+
+- [[如何导入Excalidraw Library的素材包]]
+
+### Excalidraw Scripts
+
+- [[Excalidraw如何安装脚本_脚本设置介绍]]
+
 ### 基于 Obsidian 优化
 
 Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太多很卡，但是随着大叔的精力不断投入，几年如一日，这些问题终被解决了。光是 Github 上提到的优化就有：
@@ -120,17 +126,33 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 
 这样深度融合进 Obsidian，配合 Markdown 语法，方便的嵌入，高度自定义的 Excalidraw 又怎能不爱？
 
-## 社区实践
+## 功能手册
 
-- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
-- [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
+- [[Obsidian-Excalidraw 功能手册]]
 - [[Excalidraw局部嵌入Obsidian]]
 
-## 支持开源开发者
+## 视频教程
 
-如果你深度使用 Excalidraw 并可以用其提高生产力，建议登录 [Buy ZsoltViczián a Coffee. ko-fi.com/zsolt - Ko-fi ❤️.](https://ko-fi.com/zsolt) 赞助一波，需要 paypal 或者信用卡。没有这两样的也可以 [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) 到这个项目下，登录后点右上角的星星，让更多人看到。
+<iframe src="https://player.bilibili.com/player.html?aid=409017182&bvid=BV1BG411i7iy&cid=1349574469&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
+## 社区实践
 
-## Excalidraw 的朋友们
+### 脚本制作
 
-如果你喜欢 Excalidraw，请考虑尝试一下 [ExcaliBrain](https://github.com/zsviczian/excalibrain)（也可通过 Obsidian Community Plugins 获得）。
+> EA 脚本开发的介绍： [[ExcalidrawAutomate index]]
+
+- [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-实现Excalidraw与BookxNote的联动]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-画板局部或者全局播放动画]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-快速插入时间戳笔记]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-OCR自动提取图片文字]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-默认应用打开图片]] by 熊猫别熬夜
+- [[自定义Excalidraw脚本-插入可以编辑的Mermaid图形]] by 一鸣惊人
+- [[自定义Excalidraw脚本-画板与 Kanban 得梦幻结合-像PPT一样演示]] by 熊猫别熬夜
+
+### CSS 美化
+
+- [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+- [[Obsidian样式-Excalidraw自动隐藏工具栏的CSS]]

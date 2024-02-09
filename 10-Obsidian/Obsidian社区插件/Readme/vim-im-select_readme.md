@@ -1,5 +1,5 @@
 ---
-uid: 2023080322291736
+uid: 2023120719461616
 title: Obsidian 插件：【Readme】Vim IM Select
 tags: ['obsidian插件', 'readme']
 description: 支持在不同的 Vim 模式中自动选择合适的输入法。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Vim IM Select
+# Obsidian 插件：【Readme】Vim IM Select
 
 > [!Note] 插件名片
 > - 插件名称：Vim IM Select
@@ -69,7 +69,7 @@ modified: 20230101000000
 
 以下是一个示例：
 
-![示例](./example.png)
+![示例](https://cdn.pkmer.cn/covers/vim-im-select_2_0.png!pkmer)
 
 **在第一次激活插件并完成设置后，您需要重新启动 Obsidian。**
 

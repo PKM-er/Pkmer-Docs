@@ -1,5 +1,5 @@
 ---
-uid: 2023080322275918
+uid: 2023120719442271
 title: Obsidian 插件：【Readme】Temple
 tags: ['模板', 'obsidian插件', 'readme']
 description: Obsidian插件，由Nunjucks驱动的模板。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Temple
+# Obsidian 插件：【Readme】Temple
 
 > [!Note] 插件名片
 > - 插件名称：Temple
@@ -47,21 +47,21 @@ Obsidian 插件，由 Nunjucks 驱动的模板。
 
 在设置中设置包含要使用的模板的目录：
 
-![](docs/settings.png)
+![](https://cdn.pkmer.cn/covers/obsidian-temple_2_0.png!pkmer)
 
 ## 用法
 
 您可以通过侧边栏中的按钮来插入新模板
 
-![](docs/sidebar.png)
+![](https://cdn.pkmer.cn/covers/obsidian-temple_2_1.png!pkmer)
 
 或者通过命令面板来插入
 
-![](docs/command-palette.png)
+![](https://cdn.pkmer.cn/covers/obsidian-temple_2_2.png!pkmer)
 
 如果有多个模板定义，您将被提示选择一个模板
 
-![](docs/templates-prompt.png)
+![](https://cdn.pkmer.cn/covers/obsidian-temple_2_3.png!pkmer)
 
 ## 模板化
 

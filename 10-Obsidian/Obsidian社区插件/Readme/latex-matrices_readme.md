@@ -1,5 +1,5 @@
 ---
-uid: 2023080322211728
+uid: 2023120719321376
 title: Obsidian 插件：【Readme】Latex Matrices
 tags: ['obsidian插件', 'readme']
 description: 加快LaTeX矩阵的编写速度。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Latex Matrices
+# Obsidian 插件：【Readme】Latex Matrices
 
 > [!Note] 插件名片
 > - 插件名称：Latex Matrices
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 这是一个示例笔记。它演示了该插件可以输出所有类型的矩阵。
 
-![以渲染模式显示所有类型矩阵的笔记的屏幕截图。](./Images/MatricesExample.png)
+![以渲染模式显示所有类型矩阵的笔记的屏幕截图。](https://cdn.pkmer.cn/covers/latex-matrices_2_0.png!pkmer)
 
 ---
 
@@ -63,17 +63,17 @@ modified: 20230101000000
 
 您还可以设置一个快捷键。
 
-![命令的截图。](./Images/MatricesExampleCommand.png)
+![命令的截图。](https://cdn.pkmer.cn/covers/latex-matrices_2_1.png!pkmer)
 
 这是插件的窗口，在这里您应该插入矩阵的宽度、高度和括号类型，然后点击“生成矩阵”。
 
-![当没有插入任何数据时的模态框截图。](./Images/MatricesExampleCreation1.png)
+![当没有插入任何数据时的模态框截图。](https://cdn.pkmer.cn/covers/latex-matrices_2_2.png!pkmer)
 
 然后您应该看到矩阵单元格的创建，每个单元格都是一个输入框。
 
 在单元格中插入您的值，然后按下“写入 latex”。
 
-![当所有数据都已插入时的模态框截图。](./Images/MatricesExampleCreation2.png)
+![当所有数据都已插入时的模态框截图。](https://cdn.pkmer.cn/covers/latex-matrices_2_3.png!pkmer)
 
 *注意*：输出字符串应该在 2 个“$”符号之间。这不会自动发生。
 

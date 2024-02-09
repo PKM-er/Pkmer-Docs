@@ -1,5 +1,5 @@
 ---
-uid: 2023080322221514
+uid: 2023120719362103
 title: Obsidian 插件：【Readme】Maximise Active Pane
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 简单地用活动窗格填充工作区。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Maximise Active Pane
+# Obsidian 插件：【Readme】Maximise Active Pane
 
 > [!Note] 插件名片
 > - 插件名称：Maximise Active Pane
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 简单地用活动窗格填充工作区。
 
-![Maximise Active Pane](https://cdn.pkmer.cn/covers/maximise-active-pane-obsidian.gif!pkmer)
+![Maximise Active Pane](https://cdn.pkmer.cn/covers/maximise-active-pane-obsidian.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，它可以将工作区填满活动窗格。按下 `ctrl`+`shift`+`x`（默认）来最大化或取消最大化当前活动窗格。
 
-![截图](https://github.com/deathau/maximise-active-pane-obsidian/raw/main/screenshot.gif)
+![截图](https://cdn.pkmer.cn/covers/maximise-active-pane-obsidian_1_2.gif)
 
 ### 兼容性
 

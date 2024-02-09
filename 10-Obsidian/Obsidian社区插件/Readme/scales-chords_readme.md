@@ -1,6 +1,6 @@
 ---
 uid: 2023080322262233
-title: Obsidian 插件：【Readme】Scales and Chords
+title: Obsidian 插件：Scales and Chords
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在你的Obsidian保险库中捕获音乐制表符号。和弦变成可点击的链接到模态图像（由scales-chords.com提供）。
 author: AI
@@ -46,9 +46,9 @@ modified: 20230101000000
 Verse
 G Am G/B G %
 Blackbird singing in the dead of night
-C C#dim D    D#dim Em D# %
+C C#dim D D#dim Em D# %
 Take these broken wings and learn to fly
-D C#dim C    Cm %
+D C#dim C Cm %
 All your life
 G/B A7 D7 G %
 You were only waiting for this moment to arise

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322154079
+uid: 2023120719243315
 title: Obsidian 插件：【Readme】Character Insertion
 tags: ['obsidian插件', 'readme']
 description: 在光标下插入指定符号的插件。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Character Insertion
+# Obsidian 插件：【Readme】Character Insertion
 
 > [!Note] 插件名片
 > - 插件名称：Character Insertion
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在光标下插入指定符号的插件。
 
-![Character Insertion](https://cdn.pkmer.cn/covers/character-insertion.gif!pkmer)
+![Character Insertion](https://cdn.pkmer.cn/covers/character-insertion.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个在光标位置提前插入指定字符的插件。
 
-![演示](demo.gif)
+![演示](https://cdn.pkmer.cn/covers/character-insertion_2_0.gif)
 
 在设置中提前插入字符集到光标位置。
 

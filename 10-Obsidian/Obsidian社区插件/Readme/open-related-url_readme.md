@@ -1,5 +1,5 @@
 ---
-uid: 2023080322241077
+uid: 2023120719394690
 title: Obsidian 插件：【Readme】Open Related Url
 tags: ['obsidian插件', 'readme']
 description: 在笔记的YAML前言中打开URL。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Open Related Url
+# Obsidian 插件：【Readme】Open Related Url
 
 > [!Note] 插件名片
 > - 插件名称：Open Related Url
@@ -47,7 +47,7 @@ Obsidian 非常适合做笔记，我经常需要将我的笔记与任务列表�
 
 ## 概述视频
 
-[![概述视频](https://img.youtube.com/vi/S-1r0Z7nPgo/0.jpg)](https://www.youtube.com/watch?v=S-1r0Z7nPgo)
+[![概述视频](https://cdn.pkmer.cn/covers/open-related-url_1_0.jpeg!pkmer)](https://www.youtube.com/watch?v=S-1r0Z7nPgo)
 
 打开相关 URL 命令
 

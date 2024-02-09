@@ -1,5 +1,5 @@
 ---
-uid: 2023080322143774
+uid: 2023120719230413
 title: Obsidian 插件：【Readme】Autocomplete
 tags: ['编辑工具', '自动化', 'obsidian插件', 'readme']
 description: 提供文本自动完成功能，以提高输入速度。此插件已经长期不维护了。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Autocomplete
+# Obsidian 插件：【Readme】Autocomplete
 
 > [!Note] 插件名片
 > - 插件名称：Autocomplete
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 提供文本自动完成功能，以提高输入速度。此插件已经长期不维护了。
 
-![Autocomplete](https://cdn.pkmer.cn/covers/obsidian-autocomplete-plugin.gif!pkmer)
+![Autocomplete](https://cdn.pkmer.cn/covers/obsidian-autocomplete-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 >
 > 我可能会在将来更新它，但在那之前，请使用其他插件，如 [Obsidian completr](https://github.com/tth05/obsidian-completr)。
 
-![预览](https://media.giphy.com/media/CFbhjfTLDPnUm45vje/giphy.gif)
+![预览](https://cdn.pkmer.cn/covers/obsidian-autocomplete-plugin_1_0.gif)
 
 > 该插件仍在开发中，如果遇到错误，请在 [GitHub问题](https://github.com/Yeboster/autocomplete-obsidian/issues/new/choose) 中提供重现步骤。
 

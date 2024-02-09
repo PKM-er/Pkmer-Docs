@@ -1,5 +1,5 @@
 ---
-uid: 2023080322160618
+uid: 2023120719245659
 title: Obsidian 插件：【Readme】Code Emitter
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有Rust、Kotlin、Python、Javascript、TypeScript等。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Code Emitter
+# Obsidian 插件：【Readme】Code Emitter
 
 > [!Note] 插件名片
 > - 插件名称：Code Emitter
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有 Rust、Kotlin、Python、Javascript、TypeScript 等。
 
-![Code Emitter](https://cdn.pkmer.cn/covers/code-emitter.gif!pkmer)
+![Code Emitter](https://cdn.pkmer.cn/covers/code-emitter.gif)
 
 > [!tip] 原文出处
 >
@@ -78,7 +78,7 @@ modified: 20230101000000
 
 ---
 
-![.](./screenshots/code-emitter.gif)
+![.](https://cdn.pkmer.cn/covers/code-emitter_2_0.gif)
 
 ## 安装
 

@@ -7,12 +7,14 @@ author: cuman
 type: basic
 draft: false
 editable: false
-modified: 20230731105737
+modified: 20240105183219
 ---
 
 # Obsidian 插件：Homepage 打造属于自己的启动页
 
 ## 概述
+
+Obsidian 每次打开会默认加载最后一次编辑的文件，如果想自定义设置 Obsidian 启动后的行为，那么 Homepage 这款插件就非常适合你。除此之外，还可以在侧边栏添加一个图标和命令用来快速打开主页。
 
 > [!Note] 插件名片
 > - 插件名称：Homepage
@@ -21,8 +23,6 @@ modified: 20230731105737
 > - 插件分类：导航工具, 效率, 美化
 > - 插件项目地址：[点我访问](https://github.com/mirnovov/obsidian-homepage)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-homepage)
-
-Obsidian 每次打开会默认加载最后一次编辑的文件，如果想自定义设置 Obsidian 启动后的行为，那么 Homepage 这款插件就非常适合你。除此之外，还可以在侧边栏添加一个图标和命令用来快速打开主页。
 
 ## 特性
 

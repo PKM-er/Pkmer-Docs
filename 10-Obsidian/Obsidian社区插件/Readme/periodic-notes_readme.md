@@ -1,6 +1,6 @@
 ---
 uid: 2023080322244030
-title: Obsidian 插件：【Readme】Periodic Notes
+title: Obsidian 插件：Periodic Notes
 tags: ['日志类', 'obsidian插件', 'readme']
 description: 创建/管理您的日常、每周和每月笔记
 author: AI
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 创建/管理您的日常、每周和每月笔记
 
-![Periodic Notes](https://cdn.pkmer.cn/covers/periodic-notes.gif!pkmer)
+![Periodic Notes](https://cdn.pkmer.cn/covers/periodic-notes.gif)
 
 > [!tip] 原文出处
 >

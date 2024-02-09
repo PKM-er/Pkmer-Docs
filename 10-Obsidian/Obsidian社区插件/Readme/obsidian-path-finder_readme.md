@@ -1,5 +1,5 @@
 ---
-uid: 2023080322243437
+uid: 2023120719400719
 title: Obsidian 插件：【Readme】Path Finder
 tags: ['obsidian插件', 'readme']
 description: 一个可以查找两个节点之间的所有路径并将其渲染为图形或文本的插件。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Path Finder
+# Obsidian 插件：【Readme】Path Finder
 
 > [!Note] 插件名片
 > - 插件名称：Path Finder
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个可以查找两个节点之间的所有路径并将其渲染为图形或文本的插件。
 
-![Path Finder](https://cdn.pkmer.cn/covers/obsidian-path-finder_new.gif!pkmer)
+![Path Finder](https://cdn.pkmer.cn/covers/obsidian-path-finder_new.gif)
 
 > [!tip] 原文出处
 >
@@ -66,7 +66,7 @@ modified: 20230101000000
 
 ### 查找两个文件之间的最短路径
 
-![查找最短路径](assets/find-shortest-path.gif)
+![查找最短路径](https://cdn.pkmer.cn/covers/obsidian-path-finder_2_0.gif)
 
 **起始文件：** 从哪个文件开始。使用从存储库根目录到文件的完整路径。
 
@@ -74,7 +74,7 @@ modified: 20230101000000
 
 ### 在图形中找到所有文件之间的路径
 
-![在图形中找到所有路径](assets/find-all-paths-as-graph.gif)
+![在图形中找到所有路径](https://cdn.pkmer.cn/covers/obsidian-path-finder_2_1.gif)
 
 **从：** 起始文件。使用从存储库根目录到文件的完整路径。
 
@@ -86,7 +86,7 @@ modified: 20230101000000
 
 ### 查找所有路径
 
-![查找所有路径](assets/find-all-paths.gif)
+![查找所有路径](https://cdn.pkmer.cn/covers/obsidian-path-finder_2_2.gif)
 
 **起始文件：** 从哪个文件开始。使用从保险库根目录到文件的完整路径。
 

@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Markdown to Slack Message
 > - 插件作者：Woongshik Choi
-> - 插件说明：将Markdown笔记转换为Slack消息块，以便您可以发送到您的Slack。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：将 Markdown 笔记转换为 Slack 消息块，以便您可以发送到您的 Slack。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/idreamer/markdown-to-slack-message)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-to-slack-message)
 
 ## 概述
 
-将Markdown笔记转换为Slack消息块，以便您可以发送到您的Slack。
-
-
+将 Markdown 笔记转换为 Slack 消息块，以便您可以发送到您的 Slack。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/idreamer/markdown-to-slack-message/master/README.md)
-> 
+>
 
 ---
 
@@ -37,10 +35,10 @@ modified: 20230101000000
 
 下面是 [[markdown-to-slack-message]] 插件的自述翻译
 
+# Markdown 转换为 Slack 消息
 
-# Markdown转换为Slack消息
+该插件将 Markdown 笔记转换为 Slack 消息块，使您能够发送到您的 Slack。
 
-该插件将Markdown笔记转换为Slack消息块，使您能够发送到您的Slack。
 # 指南
 
 1. 打开一个笔记
@@ -48,10 +46,9 @@ modified: 20230101000000
 3. 运行该命令
 
 它将打开 Slack Block Kit 构建器网页，并显示您的内容。因此，您可以使用您的 Slack 账户发送消息。
+
 # 版本
 
 v0.0.1
+
 初始发布。
-
-
-

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230911153749
+modified: 20240116181614
 ---
 
 # Obsidian 插件：Icon Shortcodes 通过短代码方式，快速筛选和输入
@@ -25,6 +25,21 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的短
 > - 插件分类：[' 效率 ', ' 编辑器 ', 'obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/obsidian-icon-shortcodes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-icon-shortcodes)
+
+## 效果&特性
+
+![Icon Shortcodes](https://cdn.pkmer.cn/covers/obsidian-icon-shortcodes.png!pkmer)
+
+![演示](https://cdn.pkmer.cn/covers/obsidian-icon-shortcodes_1_0.gif)
+
+使用短代码插入表情符号和自定义图标
+
+- 轻松导入和管理自定义图标（支持 `.bmp`、`.png`、`.jpg`、`.jpeg`、`.gif`、`.svg` 和 `.webp` 格式）
+- 在编辑器中渲染自定义图标（通过 [Codemirror选项](https://github.com/nothingislost/obsidian-codemirror-options) 支持传统编辑器）
+- 内置 Unicode 13.1 表情符号，支持 [Lucide](https://lucide.dev)
+- 可通过下载使用 [Font Awesome](https://fontawesome.com/) 和 [Remixicon](https://github.com/Remix-Design/RemixIcon)
+- [API](#for-developer) 可供其他插件集成
+- 模糊搜索：输入 `:book` 以查找📖(`:open_book:`) 和📗(`:green_book:`)
 
 ## 使用
 
@@ -66,6 +81,12 @@ Icon Shortcodes 很好的解决了这个问题，通过键入 emoji 对应的短
   /* (font awesome soild in this example) */
 }
 ```
+
+灵感来自 [[emoji-shortcodes]]、[[obsidian-icon-folder]]、[[obsidian-icons-plugin]] 和 [remark-emoji](https://github.com/rhysd/remark-emoji)。
+
+注意：自 v0.7.0 起，为了减小捆绑包大小并加快加载速度，不再将 Font Awesome 和 RemixIcon 作为内置图标包捆绑。请前往设置选项卡下载它们。
+
+注意：此插件可能与 [obsidian-emoji-shortcodes](https://github.com/phibr0/obsidian-emoji-shortcodes) 冲突，请在使用此插件之前禁用它。
 
 > [!Tip] 推荐阅读
 > - [[obsidian-icons-plugin]]：提供插入图标符号的功能

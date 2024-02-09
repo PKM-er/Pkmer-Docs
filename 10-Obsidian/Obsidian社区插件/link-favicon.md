@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230831153433
+modified: 20240116181337
 ---
 
 # Obsidian 插件：Link Favicons 为笔记中的网页链接增加网站图标
@@ -30,7 +30,7 @@ modified: 20230831153433
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/20230505232701.png!pkmer)
+![Link Favicons](https://cdn.pkmer.cn/covers/link-favicon.png!pkmer)
 
 ## 使用
 
@@ -47,6 +47,52 @@ modified: 20230831153433
 - 支持将网站图标位置的修改，在插件设置 `Icon Position` 中可以选择：
 	- `Before the link`（在链接前插入网站图标）
 	- `After the link` （在链接后插入网站图标）
+
+### 覆盖图标
+
+> 需要安装 [[obsidian-icon-shortcodes]] 插件
+
+您可以在设置中使用您选择的图标覆盖任何域名的网站图标。
+
+（请参见下面的演示 gif）
+
+### 为 URI 方案定义图标
+
+> 需要安装 [[obsidian-icon-shortcodes]] 插件
+
+您还可以为 `mailto://`、`obsidian://` 或 `calculator://` 等 URI 方案添加图标。
+
+要做到这一点，请在设置中指定 URI 方案的名称（不包括 `://`）。
+
+（请参见下面的演示 gif 图）
+
+![自定义图标演示](https://cdn.pkmer.cn/covers/link-favicon_1_5.gif)
+
+### 禁用特定链接上的网站图标
+
+如果您有一个链接，您不想看到网站图标，请在链接别名中添加 `|nofavicon`。
+
+```md
+[显示文本|nofavicon](https://example.org)
+```
+
+#### 颜色反转
+
+默认情况下，对于被认为不可读的图标，会应用颜色滤镜以提高可读性。
+
+有多个指标可以用来判断图标是否可读：
+
+- `is-dark`，`is-light`：图标的颜色感知亮度是否为暗色/亮色。
+- `is-readable-a-a`：根据 [W3C AA规范](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)。
+- `is-readable-a-a-a`：根据 [W3C AAA规范](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html)。
+
+默认情况下，使用 AA 值。
+
+不建议使用 `is-dark`，`is-light` 值，因为它们不考虑背景颜色。
+
+这些值是从平均颜色计算得出的。
+
+使用最主要的颜色会更准确，但目前尚未实现。
 
 ### 网站图标获取方式
 

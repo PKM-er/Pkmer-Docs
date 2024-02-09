@@ -1,13 +1,13 @@
 ---
 uid: 20231003232954
 title: 记我的 Obsidian 折腾史
-tags: [总结, 工作流搭建]
-description: 余月鱼鸽
-author: 
+tags: [Obsidian, 总结, 工作流搭建]
+description: 记我的 Obsidian 折腾史
+author: 余月鱼鸽
 type: practice
 draft: false
 editable: false
-modified: 20231004004537
+modified: 20231010161402
 ---
 
 # 记我的 Obsidian 折腾史
@@ -50,8 +50,8 @@ modified: 20231004004537
 |[File Explorer Note Count](https://pkmer.cn/show/20230517152954))|文件夹数量统计功能|
 |[Various Complements](https://pkmer.cn/show/20230622230954)|自动补全快捷输入工具|
 |[comments](https://pkmer.cn/show/20230504001023)|为文章添加批注|
-|[Blue Topaz （主题）](https://pkmer.cn/show/20230703152137))|主题，有完整的学习示例库，是个很好用的学习工具|
-|[Everforest（主题）](<https://pkmer.cn/products/theme/themeMarket/?everforest|干净简洁护眼的主题|>>
+|[Blue Topaz （主题）](https:/pkmer.cn/show/20230703152137))|主题，有完整的学习示例库，是个很好用的学习工具|
+|[Everforest（主题）](<https://pkmer.cn/products/theme/themeMarket/?everforest|干净简洁护眼的主题|>
 
 ### 2.文件归档
 

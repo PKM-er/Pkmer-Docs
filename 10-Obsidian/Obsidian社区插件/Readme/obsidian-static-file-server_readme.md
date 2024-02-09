@@ -1,6 +1,6 @@
 ---
 uid: 2023080322272238
-title: Obsidian 插件：【Readme】Static File Server
+title: Obsidian 插件：Static File Server
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将黑曜石子文件夹作为静态文件服务器托管。
 author: AI

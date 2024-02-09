@@ -1,6 +1,6 @@
 ---
 uid: 2023080322295773
-title: Obsidian 插件：【Readme】Zotero Bridge
+title: Obsidian 插件：Zotero Bridge
 tags: ['obsidian插件', 'readme']
 description: 通过 ZotServer 连接到 Zotero
 author: AI
@@ -66,7 +66,7 @@ function dotAccess(str, obj) {
 
 现在可以在模板中使用此函数：
 
-_(此示例取自<https://github.com/vanakat/zotero-bridge/pull/2)_>
+_(此示例取自<https://github.com/vanakat/zotero-bridge/pull/2>)_>
 
 ```
 <%* const zi = await tp.user.zotero() %>

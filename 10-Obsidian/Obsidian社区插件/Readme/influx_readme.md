@@ -1,5 +1,5 @@
 ---
-uid: 2023080322203495
+uid: 2023120719311748
 title: Obsidian 插件：【Readme】Influx
 tags: ['obsidian插件', 'readme']
 description: 一个可以在笔记的页脚聚合简洁的反向链接剪辑的日记插件。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Influx
+# Obsidian 插件：【Readme】Influx
 
 > [!Note] 插件名片
 > - 插件名称：Influx
@@ -41,13 +41,13 @@ modified: 20230101000000
 > 很遗憾地说，我无法找到时间来维护这个插件。因此，问题将不会被阅读。我可能会不时地合并拉取请求。如果您认为您可以维护这个插件，请与我联系。
 >
 
-![Obsidian Influx logo](https://user-images.githubusercontent.com/6455628/178807529-785b29cd-b1d7-4586-99de-5b4411d8fd17.png)
+![Obsidian Influx logo](https://cdn.pkmer.cn/covers/influx_1_0.png!pkmer)
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/jensmtg/influx?style=for-the-badge&sort=semver)
 
 类似于 [Obsidian](https://obsidian.md/) 的*backlinks*核心插件，但是它是根据提及在笔记的层次结构（项目级别缩进）中的位置来显示相关和格式化的摘录。
 
-![screencap](https://user-images.githubusercontent.com/6455628/196566154-404086ad-9a6c-49b0-bb5c-f7335090e2fb.png)
+![screencap](https://cdn.pkmer.cn/covers/influx_1_2.png!pkmer)
 
 ### 建议的使用模式
 

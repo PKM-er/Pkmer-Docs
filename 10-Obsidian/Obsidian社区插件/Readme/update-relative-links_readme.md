@@ -1,6 +1,6 @@
 ---
 uid: 2023080322290115
-title: Obsidian 插件：【Readme】Update Relative Links
+title: Obsidian 插件：Update Relative Links
 tags: ['obsidian插件', 'readme']
 description: 更新相对链接
 author: AI

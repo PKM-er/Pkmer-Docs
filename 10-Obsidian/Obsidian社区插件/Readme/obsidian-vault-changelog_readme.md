@@ -1,6 +1,6 @@
 ---
 uid: 2023080322290910
-title: Obsidian 插件：【Readme】Vault Changelog
+title: Obsidian 插件：Vault Changelog
 tags: ['文件历史', 'obsidian插件', 'readme']
 description: 在库中自动生成一个最近变更的文件
 author: AI
@@ -89,6 +89,7 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
+
 该插件依赖于 Typescript 定义格式中的最新 [插件API](https://github.com/obsidianmd/obsidian-api)，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！

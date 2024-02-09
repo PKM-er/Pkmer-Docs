@@ -1,5 +1,5 @@
 ---
-uid: 2023080322210648
+uid: 2023120719320129
 title: Obsidian 插件：【Readme】Kindle Highlights
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 使用您的亚马逊登录或上传您的“我的剪辑”文件来同步您的Kindle书籍突出显示
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Kindle Highlights
+# Obsidian 插件：【Readme】Kindle Highlights
 
 > [!Note] 插件名片
 > - 插件名称：Kindle Highlights
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用您的亚马逊登录或上传您的“我的剪辑”文件来同步您的 Kindle 书籍突出显示
 
-![Kindle Highlights](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_new.gif!pkmer)
+![Kindle Highlights](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -59,7 +59,7 @@ modified: 20230101000000
 
 您可以通过使用 USB 将其连接到计算机来提取您的 `My Clippings.txt` 文件。
 
-![](https://user-images.githubusercontent.com/315585/117566330-39a78000-b10a-11eb-834f-52b90ccda1ac.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_1_2.gif)
 
 ## 特点
 

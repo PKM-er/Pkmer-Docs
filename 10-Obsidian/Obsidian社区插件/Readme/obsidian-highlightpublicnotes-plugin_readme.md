@@ -1,5 +1,5 @@
 ---
-uid: 2023080322194428
+uid: 2023120719303400
 title: Obsidian 插件：【Readme】Highlight Public Notes
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 这个插件通过将笔记着色为红色来警告笔记是公开的（基于frontmatter属性）。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Highlight Public Notes
+# Obsidian 插件：【Readme】Highlight Public Notes
 
 > [!Note] 插件名片
 > - 插件名称：Highlight Public Notes
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 这个插件通过将笔记着色为红色来警告笔记是公开的（基于 frontmatter 属性）。
+
+![Highlight Public Notes](https://cdn.pkmer.cn/covers/obsidian-highlightpublicnotes-plugin.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -39,7 +41,7 @@ modified: 20230101000000
 
 这个适用于 [Obsidian](https://obsidian.md/) 的插件会突出显示标题栏，对于那些你在正文中**标记为公共**的笔记，或者**包含在特定文件夹中**的笔记。这样可以防止你在稍后通过脚本发布时，将机密数据写入笔记中。
 
-![screenshot-full](https://raw.githubusercontent.com/dennisseidel/highlightpublicnotes-obsidian-plugin/master/images/example-highlightpublicnotes.png)
+![screenshot-full](https://cdn.pkmer.cn/covers/obsidian-highlightpublicnotes-plugin_1_0.png!pkmer)
 
 ## 使用方法
 

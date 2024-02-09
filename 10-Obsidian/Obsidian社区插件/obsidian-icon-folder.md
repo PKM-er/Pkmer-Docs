@@ -1,20 +1,22 @@
 ---
 uid: 20230329145828
-title: Obsidian 插件：Icon Folder 给文件夹增加图标
+title: Obsidian 插件：Icon Folder 给文件夹和笔记增加图标 icon
 tags: [Obsidian, 插件, 文件夹图标]
-description: Obsidian 插件：Icon Folder 给文件夹增加图标
+description: Obsidian 插件：Icon Folder 给文件夹和笔记增加图标 icon
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20230920222451
+modified: 20231107121542
 ---
 
-# Obsidian 插件：Icon Folder 给文件夹增加图标
+# Obsidian 插件：Icon Folder 给文件夹和笔记增加图标 icon
 
 ## 概述
 
 会为每个文件夹增加新的右键菜单，可以图形化给文件夹设置图标。
+
+另外，如果你给具体笔记设置了 icon，对应打开这个页签时候，对应标签页会显示跟网站一样 favicon，相信很多人找主题找其他其实是想做到类似浏览器一样的效果。
 
 > [!Note] 插件名片
 > - 插件名称：Icon Folder
@@ -27,6 +29,11 @@ modified: 20230920222451
 ## 效果
 
 ![Pasted image 20230110191650](https://cdn.pkmer.cn/images/9ae0188f8195e036b9ada0a5508126b6_MD5.png!pkmer)
+
+- 支持文件夹和具体笔记增加不同的 icon
+- 对应打开这个页签时候，对应标签页会显示跟网站一样 favicon
+
+![image.png](https://cdn.pkmer.cn/images/20231107121509.png!pkmer)
 
 ## 配置
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322175834
+uid: 2023120719274334
 title: Obsidian 插件：【Readme】Execute Code
 tags: ['obsidian插件', 'readme']
 description: 允许在笔记中执行代码片段。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Execute Code
+# Obsidian 插件：【Readme】Execute Code
 
 > [!Note] 插件名片
 > - 插件名称：Execute Code
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 允许在笔记中执行代码片段。
+
+![Execute Code](https://cdn.pkmer.cn/covers/execute-code_new.gif)
 
 > [!tip] 原文出处
 >
@@ -51,7 +53,7 @@ modified: 20230101000000
 
 只有在执行完成后才会显示结果。现在无法在命令行中输入文本到执行的程序中。
 
-![展示插件工作原理的视频。](https://github.com/twibiral/obsidian-execute-code/blob/master/images/execute_code_example.gif?raw=true)
+![展示插件工作原理的视频。](https://cdn.pkmer.cn/covers/execute-code_1_3.gif)
 
 支持以下 [编程语言](#supported-programming-languages-): C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript, Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell, Scala, Racket, F#, Batch, Shell & Powershell, Octave 和 Maxima。
 
@@ -69,7 +71,7 @@ Python、Rust 和 Octave 支持嵌入绘图。所有语言都支持 ["魔术"命
 
 ## 特色内容
 
-[![由 I Versus AI 制作的视频](https://img.youtube.com/vi/eQz4eAW3ZDk/0.jpg)](https://www.youtube.com/watch?v=eQz4eAW3ZDk)
+[![由 I Versus AI 制作的视频](https://cdn.pkmer.cn/covers/execute-code_1_5.jpeg!pkmer)](https://www.youtube.com/watch?v=eQz4eAW3ZDk)
 
 "I Versus AI 制作的《逃离 ChatGPT。轻松制作自己的代码解释器》"
 
@@ -157,7 +159,7 @@ sns.FacetGrid(iris, hue ="species", height = 5)
 plt.show()
 ```
 
-![嵌入图表的示例。](https://github.com/twibiral/obsidian-execute-code/blob/master/images/plotting_example.png?raw=true)
+![嵌入图表的示例。](https://cdn.pkmer.cn/covers/execute-code_1_6.png!pkmer)
 
 </details>
 
@@ -303,7 +305,7 @@ echo "Hello World!"
 ```
 
 - 如果您喜欢批处理：在菜单中更改 powershell 的路径设置
-![如何使用魔术命令的示例。](https://github.com/twibiral/obsidian-execute-code/blob/master/images/batch_settings.png?raw=true)
+![如何使用魔术命令的示例。](https://cdn.pkmer.cn/covers/execute-code_1_7.png!pkmer)
 </details>
 
 
@@ -401,7 +403,7 @@ print("笔记标题：", @title)
 
 自己试试吧！
 
-![使用魔术命令的示例](https://github.com/twibiral/obsidian-execute-code/blob/master/images/magic_example.png?raw=true)
+![使用魔术命令的示例](https://cdn.pkmer.cn/covers/execute-code_1_8.png!pkmer)
 
 在预览中运行 ⏩
 
@@ -535,10 +537,10 @@ undefined
 （Mac 和 Windows 用户使用 'where'）---（对于 Linux 用户，将 'where' 替换为 'which'）
 
 1. 在终端中输入 'where node'
-   ![在终端中输入 'where node'](https://github.com/twibiral/obsidian-execute-code/blob/master/images/path_location_shell.png?raw=true)
+   ![在终端中输入 'where node'](https://cdn.pkmer.cn/covers/execute-code_1_9.png!pkmer)
 2. 从终端中复制路径（例如 /opt/homebrew/bin/node）
 3. 在设置中粘贴路径（例如 Node 路径）
-   ![使用步骤 2 中的路径更新设置中的路径](https://github.com/twibiral/obsidian-execute-code/blob/master/images/path_location_settings.png?raw=true)
+   ![使用步骤 2 中的路径更新设置中的路径](https://cdn.pkmer.cn/covers/execute-code_1_10.png!pkmer)
 
 ## 警告 ⚠
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322135463
+uid: 2023120719221182
 title: Obsidian 插件：【Readme】AI Mentor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中与您的开源AI导师见面。提问、获取答案并学习新知识。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：AI Mentor
+# Obsidian 插件：【Readme】AI Mentor
 
 > [!Note] 插件名片
 > - 插件名称：AI Mentor
@@ -97,7 +97,7 @@ AI 导师插件的优势
 
 只需点击功能区中的聊天图标即可打开聊天面板。然后，您可以与导师聊天并向他寻求建议。
 
-![聊天面板](docs/assets/chat.png)
+![聊天面板](https://cdn.pkmer.cn/covers/ai-mentor_2_0.png!pkmer)
 
 选择一个项目符号列表，右键单击以打开上下文菜单（也可在命令中找到）。然后，点击“删除”选项以从列表中删除文本。
 
@@ -105,13 +105,13 @@ AI 导师插件的优势
 
 选择一段文本，右键点击打开上下文菜单（也可在命令中使用）。然后，点击“ELI5”选项来解释这段文本。
 
-![解释](docs/assets/eli5.png)
+![解释](https://cdn.pkmer.cn/covers/ai-mentor_2_1.png!pkmer)
 
 增强文本
 
 选择一段文本，右键点击打开上下文菜单（也可在命令中找到）。然后，点击“增强”选项来格式化文本。
 
-![增强](docs/assets/enhance.png)
+![增强](https://cdn.pkmer.cn/covers/ai-mentor_2_2.png!pkmer)
 
 API 文档
 

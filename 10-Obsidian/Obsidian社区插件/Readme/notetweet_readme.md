@@ -1,5 +1,5 @@
 ---
-uid: 2023080322230522
+uid: 2023120719372544
 title: Obsidian 插件：【Readme】NoteTweet
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 从Obsidian发布推文。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：NoteTweet
+# Obsidian 插件：【Readme】NoteTweet
 
 > [!Note] 插件名片
 > - 插件名称：NoteTweet
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从 Obsidian 发布推文。
 
-![NoteTweet](https://cdn.pkmer.cn/covers/notetweet_new.gif!pkmer)
+![NoteTweet](https://cdn.pkmer.cn/covers/notetweet_new.gif)
 
 > [!tip] 原文出处
 >
@@ -58,7 +58,7 @@ modified: 20230101000000
 
 欢迎推荐功能！
 
-![8jE9wvKuls](https://user-images.githubusercontent.com/29108628/109525702-16c97180-7ab2-11eb-8bc0-3c4bc79a6b7a.gif)
+![8jE9wvKuls](https://cdn.pkmer.cn/covers/notetweet_1_2.gif)
 
 如何使用
 

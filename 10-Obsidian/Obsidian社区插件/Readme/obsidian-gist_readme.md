@@ -1,5 +1,5 @@
 ---
-uid: 2023080322191054
+uid: 2023120719294396
 title: Obsidian 插件：【Readme】Gist
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 这是一个用于显示GitHub Gist的插件。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Gist
+# Obsidian 插件：【Readme】Gist
 
 > [!Note] 插件名片
 > - 插件名称：Gist
@@ -70,7 +70,7 @@ linjunpop/30efbfd874fb1a16176d3f638a1e712a#math.ex
 ```
 ````
 
-![示例图片](https://user-images.githubusercontent.com/214616/120093926-f90eb580-c14f-11eb-94e3-a414c7528aef.png)
+![示例图片](https://cdn.pkmer.cn/covers/obsidian-gist_1_1.png!pkmer)
 
 ## 安装
 

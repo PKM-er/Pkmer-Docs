@@ -1,9 +1,12 @@
 ---
 uid: 20230629230554
 title: Templater 实现关键词自动化套用模板
-tags: [Templater, 模板, 自动化]
+tags:
+  - Templater
+  - 模板
+  - 自动化
 description: Obsidian利用Templater插件实现关键词自动化套用模板
-author: 铅笔小明
+author: 是明导么
 type: practice
 draft: false
 editable: false

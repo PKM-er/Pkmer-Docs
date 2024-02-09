@@ -1,6 +1,6 @@
 ---
 uid: 2023080322231038
-title: Obsidian 插件：【Readme】O2
+title: Obsidian 插件：O2
 tags: ['obsidian插件', 'readme']
 description: 这是一个语法转换插件，用于使Obsidian Markdown语法与其他Markdown语法兼容。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322213504
-title: Obsidian 插件：【Readme】Linkify
+title: Obsidian 插件：Linkify
 tags: ['obsidian插件', 'readme']
 description: 将匹配文本转换为链接
 author: AI
@@ -73,7 +73,7 @@ _注意：底层文本不会被修改。该插件仅更改您的笔记的外观�
 
 现在，任何与正则表达式匹配的文本都会在“实时预览”模式下突出显示，就像它是一个链接一样，单击文本将在浏览器中打开链接。
 
-例如，如果正则表达式是 `String.prototype.replace`，链接模式是 `@(\w+)`，那么您的笔记中的任何 `http://twitter.com/$1` 都会链接到<http://twitter.com/obsdmd。对于以 `@obsdmd` 开头的任何其他 Twitter 用户名也是如此。>
+例如，如果正则表达式是 `String.prototype.replace`，链接模式是 `@(\w+)`，那么您的笔记中的任何 `http://twitter.com/$1` 都会链接到<http://twitter.com/obsdmd。对于以> `@obsdmd` 开头的任何其他 Twitter 用户名也是如此。>
 
 您可以拥有多个正则表达式 - 链接条目。每个条目都是独立应用的。
 

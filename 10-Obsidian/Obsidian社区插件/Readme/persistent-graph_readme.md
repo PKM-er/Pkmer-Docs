@@ -1,5 +1,5 @@
 ---
-uid: 2023080322244111
+uid: 2023120719402154
 title: Obsidian 插件：【Readme】Persistent Graph
 tags: ['obsidian插件', 'readme']
 description: 保存和恢复图上节点的位置。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Persistent Graph
+# Obsidian 插件：【Readme】Persistent Graph
 
 > [!Note] 插件名片
 > - 插件名称：Persistent Graph
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 保存和恢复图上节点的位置。
 
-![Persistent Graph](https://cdn.pkmer.cn/covers/persistent-graph_new.gif!pkmer)
+![Persistent Graph](https://cdn.pkmer.cn/covers/persistent-graph_new.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 您是否喜欢使用全局图作为强大的空间工具，但每次 Obsidian 重新启动时，所有节点都会丢失位置而感到沮丧？您是否希望长时间保留图形的形状？那么这个插件就是为您而设计的。
 
-![演示视频](media/persistent-graph.gif)
+![演示视频](https://cdn.pkmer.cn/covers/persistent-graph_2_0.gif)
 
 该插件添加了保存和恢复图形节点位置的命令。还有一个设置，可以在打开新的图形视图时自动恢复。就是这样，就这么简单！作为奖励，我还添加了一个命令，可以持续运行图形模拟，这样您就不必摇晃它了。
 

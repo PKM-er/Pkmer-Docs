@@ -1,5 +1,5 @@
 ---
-uid: 2023080322152215
+uid: 2023120719235981
 title: Obsidian 插件：【Readme】Breadcrumbs
 tags: ['界面相关', '导航工具', 'obsidian插件', 'readme']
 description: 使用面包屑路径或矩阵视图可视化保管库的层次结构
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Breadcrumbs
+# Obsidian 插件：【Readme】Breadcrumbs
 
 > [!Note] 插件名片
 > - 插件名称：Breadcrumbs
@@ -101,9 +101,9 @@ same: [[Course. 103 - Basics of Programming]]
 
 此视图以以下任一样式显示当前笔记的父级、同级和子级：
 
-![image](https://user-images.githubusercontent.com/70717676/123402846-75a67f80-d5a8-11eb-8230-75c37441f122.png)
+![image](https://cdn.pkmer.cn/covers/breadcrumbs_1_0.png!pkmer)
 
-![image](https://user-images.githubusercontent.com/70717676/123402852-77704300-d5a8-11eb-8f56-c4eb3ca23e02.png)
+![image](https://cdn.pkmer.cn/covers/breadcrumbs_1_1.png!pkmer)
 
 要在侧边栏中打开视图，请从命令面板（`Ctrl+P`）运行命令`Breadcrumbs: Open View`。
 
@@ -111,7 +111,7 @@ same: [[Course. 103 - Basics of Programming]]
 
 该视图显示了从您的保险库顶部到当前笔记的一系列笔记：
 
-![image](https://user-images.githubusercontent.com/70717676/123403044-a8507800-d5a8-11eb-9669-33148021b6fa.png)
+![image](https://cdn.pkmer.cn/covers/breadcrumbs_1_2.png!pkmer)
 
 通过使用您强加的这种结构，您可以使用面包屑路径来可视化返回到父笔记的路径。
 
@@ -119,13 +119,13 @@ same: [[Course. 103 - Basics of Programming]]
 
 [Juggl插件](https://juggl.io/)与Breadcrumbs紧密集成，例如可以自动添加到当前笔记的Juggl视图：
 
-![](https://i.imgur.com/roOYVhl.png)
+![](https://cdn.pkmer.cn/covers/breadcrumbs_1_3.png!pkmer)
 
 ## 视频
 
 ### 截至2022-01-02的最新教程
 
-[![image|100](https://user-images.githubusercontent.com/70717676/147882843-bbb28103-a3a4-4dfd-8077-d8a1524f86a3.png)](https://www.youtube.com/watch?v=N4QmszBRu9I&ab_channel=ObsidianCommunityTalks)
+[![image|100](https://cdn.pkmer.cn/covers/breadcrumbs_1_4.png!pkmer)](https://www.youtube.com/watch?v=N4QmszBRu9I&ab_channel=ObsidianCommunityTalks)
 
 ### 视频深入介绍了线程功能，由@blizzingout提供
 
@@ -133,7 +133,7 @@ http://youtube.com/watch?v=AS5Mv6YNmsQ
 
 ### 关于面包屑导航的第一个视频
 
-[![image](https://user-images.githubusercontent.com/70717676/147882889-cc38e14a-555a-433e-b500-71f159d49354.png)](https://www.youtube.com/watch?v=DXXB7fHcArg)
+[![image](https://cdn.pkmer.cn/covers/breadcrumbs_1_5.png!pkmer)](https://www.youtube.com/watch?v=DXXB7fHcArg)
 
 喂养我的咖啡问题
 

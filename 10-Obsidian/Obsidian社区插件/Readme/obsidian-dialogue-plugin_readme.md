@@ -1,5 +1,5 @@
 ---
-uid: 2023080322171773
+uid: 2023120719264450
 title: Obsidian 插件：【Readme】Dialogue
 tags: ['编辑器', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 利用特定的语法，在 Markdown 中创建对话样式的笔记。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Dialogue
+# Obsidian 插件：【Readme】Dialogue
 
 > [!Note] 插件名片
 > - 插件名称：Dialogue
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 使用 Markdown 创建对话。
 
-![对话](https://raw.githubusercontent.com/holubj/obsidian-dialogue-plugin/master/images/dialogue.png)
+![对话](https://cdn.pkmer.cn/covers/obsidian-dialogue-plugin_1_0.png!pkmer)
 
 ## 参数
 
@@ -94,7 +94,7 @@ modified: 20230101000000
 
 #### 结果
 
-![simple](https://raw.githubusercontent.com/holubj/obsidian-dialogue-plugin/master/images/simple.png)
+![simple](https://cdn.pkmer.cn/covers/obsidian-dialogue-plugin_1_1.png!pkmer)
 
 ### 高级参数
 
@@ -120,7 +120,7 @@ modified: 20230101000000
 
 #### 结果
 
-![parameters](https://raw.githubusercontent.com/holubj/obsidian-dialogue-plugin/master/images/parameters.png)
+![parameters](https://cdn.pkmer.cn/covers/obsidian-dialogue-plugin_1_2.png!pkmer)
 
 ### 对话过程中的参数更改
 
@@ -149,7 +149,7 @@ modified: 20230101000000
 
 #### 结果
 
-![parameters2](https://raw.githubusercontent.com/holubj/obsidian-dialogue-plugin/master/images/parameters2.png)
+![parameters2](https://cdn.pkmer.cn/covers/obsidian-dialogue-plugin_1_3.png!pkmer)
 
 ### 带有分隔符的对话
 
@@ -175,7 +175,7 @@ delimiter
 
 #### 结果
 
-![分隔符](https://raw.githubusercontent.com/holubj/obsidian-dialogue-plugin/master/images/delimiter.png)
+![分隔符](https://cdn.pkmer.cn/covers/obsidian-dialogue-plugin_1_4.png!pkmer)
 
 ### 带有注释的对话
 
@@ -203,7 +203,7 @@ delimiter
 
 #### 结果
 
-![comments](https://raw.githubusercontent.com/holubj/obsidian-dialogue-plugin/master/images/comments.png)
+![comments](https://cdn.pkmer.cn/covers/obsidian-dialogue-plugin_1_5.png!pkmer)
 
 ## 消息的自定义样式
 

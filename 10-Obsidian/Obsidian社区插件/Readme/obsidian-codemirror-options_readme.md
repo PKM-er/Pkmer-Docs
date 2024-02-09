@@ -1,5 +1,5 @@
 ---
-uid: 2023080322160961
+uid: 2023120719250084
 title: Obsidian 插件：【Readme】CodeMirror Options
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 增强 Obsidian 的桌面编辑模式，添加诸如 WYSIWYG/实时预览、语法高亮等功能。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：CodeMirror Options
+# Obsidian 插件：【Readme】CodeMirror Options
 
 > [!Note] 插件名片
 > - 插件名称：CodeMirror Options
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 增强 Obsidian 的桌面编辑模式，添加诸如 WYSIWYG/实时预览、语法高亮等功能。
 
-![CodeMirror Options](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_new.gif!pkmer)
+![CodeMirror Options](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_new.gif)
 
 > [!tip] 原文出处
 >
@@ -107,7 +107,7 @@ Obsidian 开发人员最近向内部人员发布了“实时预览”模式。�
 
 #### 代码渲染
 
-![2021-10-22 13 11 32](https://user-images.githubusercontent.com/89109712/139353797-4e9bdd1c-52ea-417e-89a4-7311b04c0a55.gif)
+![2021-10-22 13 11 32](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_1_0.gif)
 
 ##### HTML 渲染
 
@@ -138,7 +138,7 @@ Obsidian 开发人员最近向内部人员发布了“实时预览”模式。�
 
 ###### 数学
 
-![2021-10-24 13 45 26](https://user-images.githubusercontent.com/89109712/139353712-622d9f53-cb69-49dd-a24d-8d14071d497e.gif)
+![2021-10-24 13 45 26](https://cdn.pkmer.cn/covers/obsidian-codemirror-options_1_1.gif)
 
 - 内联 Mathjax 渲染
   - 在 $ $ 或 $$ $$

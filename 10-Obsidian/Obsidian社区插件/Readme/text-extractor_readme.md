@@ -1,5 +1,5 @@
 ---
-uid: 2023080322280482
+uid: 2023120719442853
 title: Obsidian 插件：【Readme】Text Extractor
 tags: ['obsidian插件', 'readme']
 description: 一个（伴侣）插件，用于帮助从图像（OCR）和PDF中提取文本。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Text Extractor
+# Obsidian 插件：【Readme】Text Extractor
 
 > [!Note] 插件名片
 > - 插件名称：Text Extractor
@@ -61,7 +61,7 @@ modified: 20230101000000
 
 **Text Extractor**是一个“伴侣”插件。它主要在与其他插件（如 [Omnisearch](https://github.com/scambier/obsidian-omnisearch)）一起使用时非常有用，但您也可以使用它快速从**图像和 PDF**中提取文本。
 
-![](https://raw.githubusercontent.com/scambier/obsidian-text-extractor/master/images/context_menu.png)
+![](https://cdn.pkmer.cn/covers/text-extractor_1_5.png!pkmer)
 
 支持的文件类型：
 

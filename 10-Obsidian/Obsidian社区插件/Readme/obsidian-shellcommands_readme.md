@@ -1,6 +1,6 @@
 ---
 uid: 2023080322264330
-title: Obsidian 插件：【Readme】Shell commands
+title: Obsidian 插件：Shell commands
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 定义你想通过命令面板、热键、URI链接或自动事件执行的系统命令。例如：打开外部应用程序或执行自动文件修改。
 author: AI
@@ -184,6 +184,6 @@ Jarkko Linnanvirta
 
 本程序希望能有所帮助，但没有任何保证；甚至没有适销性或特定用途的默示保证。有关更多详细信息，请参阅 GNU 通用公共许可证。
 
-您应该已经收到了 GNU 通用公共许可证的副本。如果没有，请参阅<https://www.gnu.org/licenses/>。
+您应该已经收到了 GNU 通用公共许可证的副本。如果没有，请参阅<https://www.gnu.org/licenses/>。>
 
 [完整的许可证可在此项目的GitHub存储库中找到](https://github.com/Taitava/obsidian-shellcommands/blob/main/LICENSE)。

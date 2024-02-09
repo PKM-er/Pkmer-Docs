@@ -1,5 +1,5 @@
 ---
-uid: 2023080322233604
+uid: 2023120719380757
 title: Obsidian 插件：【Readme】Obsidian OCR
 tags: ['obsidian插件', 'readme']
 description: 使用光学字符识别技术在您的图像和PDF文件中搜索文本
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian OCR
+# Obsidian 插件：【Readme】Obsidian OCR
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian OCR
@@ -135,12 +135,12 @@ Obsidian OCR 允许您在图像和 PDF 中搜索文本。
 ### 使用方法
 
 - 启用插件后，您将在右下角看到一个进度条，表示您的保险库正在处理中。
-  ![索引](indexing.png)
+  ![索引](https://cdn.pkmer.cn/covers/obsidian-ocr_2_0.png!pkmer)
 - 完成后，您可以使用 `Search OCR` 命令或工具栏中的 `放大镜图标` 打开搜索菜单。
-  ![搜索模态框](search-modal.png)
+  ![搜索模态框](https://cdn.pkmer.cn/covers/obsidian-ocr_2_1.png!pkmer)
 - 当向您的保险库添加新的 PDF / PNG 时，文件会自动被搜索文本。
 - 启动 Obsidian 时，您现在将看到另一个进度条，表示所有转录正在被缓存。
-  ![缓存](caching.png)
+  ![缓存](https://cdn.pkmer.cn/covers/obsidian-ocr_2_2.png!pkmer)
 
 ### 设置
 

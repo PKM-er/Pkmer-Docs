@@ -7,7 +7,7 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20230710104110
+modified: 20231214140355
 ---
 
 # Markdown 基础
@@ -111,7 +111,7 @@ A *cat* meow
 
 - **说明：**
 - **同个引用段落** 内的换行直接敲击  **Enter**  即可
-- 若需添加  **第二个独立引用段落** ，连续敲击  **两下Enter**  即可
+- 若需添加  **第二个独立引用段落** ，连续敲击  **两下 Enter**  即可
 
 渲染效果如下：
 
@@ -355,7 +355,7 @@ See the section on [`code`](https://markdown.com.cn/basic-syntax/links.html#cod
 
 渲染效果如下：
 
-![图片示例](https://cdn.pkmer.cn/images/49f8d5f75e3369aad7fbf1f99e39c35a_MD5.png!pkmer)
+![Markdown-图片示例|700](https://cdn.pkmer.cn/images/49f8d5f75e3369aad7fbf1f99e39c35a_MD5.png!pkmer)
 
 ### 链接图片
 
@@ -401,6 +401,8 @@ For example, you can embed Twitter tweets like so as suggested by search results
 >
 </iframe>
 ```
+
+关于图片自定义大小请查看这里：[[Obsidian扩展语法#自定义图片大小]]
 
 ## 任务列表
 
@@ -480,6 +482,10 @@ For example, you can embed Twitter tweets like so as suggested by search results
 | :-------- | :---------: | ----------: |
 | Header    |    Title    | Here's this |
 | Paragraph |    Text     |    And more |
+
+### 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=408509796&bvid=BV1fG411S7ec&cid=1334593271&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ### 格式化表格文字
 
@@ -561,5 +567,4 @@ Here's a simple footnote,[^1] and here's a longer one.[^2]
 >- [[Obsidian扩展语法]]
 
 [^1]: This is the first footnote.
-
 [^2]: Here's one with multiple paragraphs and code.

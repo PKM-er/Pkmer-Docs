@@ -1,6 +1,6 @@
 ---
 uid: 2023080322203038
-title: Obsidian 插件：【Readme】Inbox
+title: Obsidian 插件：Inbox
 tags: ['obsidian插件', 'readme']
 description: 如果“收件箱”笔记中有要处理的数据，则在启动时显示应用程序通知。
 author: AI

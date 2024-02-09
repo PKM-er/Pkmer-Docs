@@ -1,5 +1,5 @@
 ---
-uid: 2023080322170584
+uid: 2023120719262540
 title: Obsidian 插件：【Readme】Daily Stats
 tags: ['界面相关', '统计', 'obsidian插件', 'readme']
 description: 每日输入单词计数插件，您可以在屏幕右下角看到今天的字数。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Daily Stats
+# Obsidian 插件：【Readme】Daily Stats
 
 > [!Note] 插件名片
 > - 插件名称：Daily Stats
@@ -43,4 +43,4 @@ modified: 20230101000000
 
 这个插件的灵感来自于 liamcain 的 [Calender](https://github.com/liamcain/obsidian-calendar-plugin) 和 lukeleppan 的 [Better Word Count](https://github.com/lukeleppan/better-word-count)。
 
-![示例](./images/example-graph.png)
+![示例](https://cdn.pkmer.cn/covers/obsidian-daily-stats_2_0.png!pkmer)

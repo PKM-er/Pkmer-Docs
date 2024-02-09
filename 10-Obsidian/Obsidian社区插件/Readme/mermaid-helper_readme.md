@@ -1,6 +1,6 @@
 ---
 uid: 2023080322222591
-title: Obsidian 插件：【Readme】Mermaid.js Helper (OMH)
+title: Obsidian 插件：Mermaid.js Helper (OMH)
 tags: ['obsidian插件', 'readme']
 description: 帮助 mermaid.js 工作流程和更多的插件
 author: AI
@@ -45,19 +45,13 @@ modified: 20230101000000
 
   仅选择类型为图表或流程图的 mermaid.js 单元格，并运行该命令以将变量声明移到顶部。
 
-
-
   ![](https://github.com/FrancescoDiCursi/Obsidian-Mermaid.js-Helper-OMH-plugin/blob/main/gifs/obsidian%20clean%20text.gif)
 
 - ### \> Mermaid.js 的正则表达式（[样式|类]）：
 
   仅选择 mermaid.js 样式或类行，并提供正则表达式模式作为 id
 
-
-
   （例如，style|class /any-regex-pattern/ fill:#f9f,stroke:#333|className）
-
-
 
    ![](https://github.com/FrancescoDiCursi/Obsidian-Mermaid.js-Helper-OMH-plugin/blob/main/gifs/obsidian%20style%20re.gif)
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322164007
+uid: 2023120719254101
 title: Obsidian 插件：【Readme】Core Search Assistant
 tags: ['搜索/排序', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 增强内置搜索：键盘界面、卡片预览、更大的预览
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Core Search Assistant
+# Obsidian 插件：【Readme】Core Search Assistant
 
 > [!Note] 插件名片
 > - 插件名称：Core Search Assistant
@@ -46,9 +46,9 @@ modified: 20230101000000
 - **更大的预览**，
 - **自动预览**，
 
-![main-min](https://user-images.githubusercontent.com/38106890/150084212-d47733c7-3e84-437c-a257-5dd7ee6a8be5.gif)
+![main-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_0.gif)
 
-![focus-min](https://user-images.githubusercontent.com/38106890/151547284-739a18a3-3467-4964-b59b-de8c2673018c.gif)
+![focus-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_1.gif)
 
 如何使用
 
@@ -84,7 +84,7 @@ modified: 20230101000000
 
 仍然可以通过 `Ctrl + Enter` 进行手动预览。
 
-![none-view-min](https://user-images.githubusercontent.com/38106890/150082308-493df0a0-e9d4-46ee-8957-c11a2f5ce628.gif)
+![none-view-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_2.gif)
 
 ### 2. 单视图
 
@@ -101,7 +101,7 @@ modified: 20230101000000
 
 如果渲染结果错误，请按下 `Enter` 键重新加载。
 
-![card-view-min](https://user-images.githubusercontent.com/38106890/150082177-6a14a509-b6f9-449f-90d1-7e198ae2d3d3.gif)
+![card-view-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_3.gif)
 
 ## 手动预览
 
@@ -125,11 +125,11 @@ modified: 20230101000000
 
 - 您**可以自定义热键**在设置选项卡中。
 
-![focus-min](https://user-images.githubusercontent.com/38106890/151547284-739a18a3-3467-4964-b59b-de8c2673018c.gif)
+![focus-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_1.gif)
 
 ## 搜索选项
 
-![search-option-min](https://user-images.githubusercontent.com/38106890/150083314-0834e593-2cd6-46c6-8706-5582e987037a.gif)
+![search-option-min](https://cdn.pkmer.cn/covers/obsidian-core-search-assistant-plugin_1_5.gif)
 
 故障排除
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322232634
+uid: 2023120719375613
 title: Obsidian 插件：【Readme】Obsidian jTab
 tags: ['编辑器', '美化', '音乐相关', 'obsidian插件', 'readme']
 description: 使用 jTab 代码块将吉他和和弦图，以图片的形式添加到集中。jTab
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian jTab
+# Obsidian 插件：【Readme】Obsidian jTab
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian jTab
@@ -107,7 +107,7 @@ E / / / A7 / B7 /
 ```
 ~~~~
 
-![codeblock jtab chords](https://raw.githubusercontent.com/davfive/obsidian-jtab/main/docs/images/codeblock-jtab-chords-only.jpg)
+![codeblock jtab chords](https://cdn.pkmer.cn/covers/obsidian-jtab_1_0.jpeg!pkmer)
 
 __只有指法的 jTab__ (哈哈)
 
@@ -117,7 +117,7 @@ $4.7 $3.5 $2.5 $1.5 $1.7.$4.6 $2.5 $3.5 $1.7 | $1.8.$4.5 $2.5 $3.5 $1.8 $1.2.$4.
 ```
 ~~~~
 
-![codeblock jtab tabs](https://raw.githubusercontent.com/davfive/obsidian-jtab/main/docs/images/codeblock-jtab-tab-only.jpg)
+![codeblock jtab tabs](https://cdn.pkmer.cn/covers/obsidian-jtab_1_1.jpeg!pkmer)
 
 __带有和弦和指法的 jTab__
 
@@ -127,7 +127,7 @@ Bm $3 4 4h5p3h4 5 $2 3 5 7 7h8p7 5/7 ||
 ```
 ~~~~
 
-![codeblock jtab](https://raw.githubusercontent.com/davfive/obsidian-jtab/main/docs/images/codeblock-jtab-chords-and-tabs.jpg)
+![codeblock jtab](https://cdn.pkmer.cn/covers/obsidian-jtab_1_2.jpeg!pkmer)
 
 __jTab 示例代码块__
 
@@ -136,7 +136,7 @@ __jTab 示例代码块__
 ```
 ~~~~
 
-![codeblock jtab-examples](https://raw.githubusercontent.com/davfive/obsidian-jtab/main/docs/images/codeblock-jtab-examples.jpg)
+![codeblock jtab-examples](https://cdn.pkmer.cn/covers/obsidian-jtab_1_3.jpeg!pkmer)
 
 #### 归属
 

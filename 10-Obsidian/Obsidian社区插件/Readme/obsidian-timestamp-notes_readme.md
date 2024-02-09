@@ -1,6 +1,6 @@
 ---
 uid: 2023080322282327
-title: Obsidian 插件：【Readme】Timestamp Notes
+title: Obsidian 插件：Timestamp Notes
 tags: ['obsidian插件', 'readme']
 description: 该插件允许在视频旁边进行笔记。使用时间戳在您的笔记中注释。
 author: AI

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322160781
-title: Obsidian 插件：【Readme】Code Preview
+title: Obsidian 插件：Code Preview
 tags: ['obsidian插件', 'readme']
 description: 文件路径预览代码块
 author: AI

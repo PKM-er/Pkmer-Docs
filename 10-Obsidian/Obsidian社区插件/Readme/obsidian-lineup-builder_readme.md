@@ -1,5 +1,5 @@
 ---
-uid: 2023080322212328
+uid: 2023120719345661
 title: Obsidian 插件：【Readme】Lineup Builder
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中构建足球阵容。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Lineup Builder
+# Obsidian 插件：【Readme】Lineup Builder
 
 > [!Note] 插件名片
 > - 插件名称：Lineup Builder
@@ -76,7 +76,7 @@ modified: 20230101000000
 ```
 ````
 
-![示例](media/example_screenshot.png)
+![示例](https://cdn.pkmer.cn/covers/obsidian-lineup-builder_2_0.png!pkmer)
 
 ### SVG 图像
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322173832
+uid: 2023120719271351
 title: Obsidian 插件：【Readme】echarts
 tags: ['图表生成', '美化', 'obsidian插件', 'readme']
 description: 一个可以在obsidian 里运行echarts 的插件，具体可以参考官方示例库代码。插件需要依赖dataview插件
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：echarts
+# Obsidian 插件：【Readme】echarts
 
 > [!Note] 插件名片
 > - 插件名称：echarts
@@ -39,13 +39,13 @@ modified: 20230101000000
 
 obsidian-echarts 是一个在 obsidian 中渲染 echarts 的插件，具体详情请参考 [Apache ECharts](https://echarts.apache.org/en/index.html)，这是一个开源的 JavaScript 可视化库。插件依赖于 dataview 插件，[example](https://github.com/cumany/obsidian-echarts/tree/main/example) 文件夹中包含一些基本示例。更多示例可以在 [Blue-topaz-examples](https://github.com/cumany/Blue-topaz-examples) 中找到。
 
-![GIF 2022-06-02 13-31-49](https://user-images.githubusercontent.com/42957010/171559841-cfa4e5e2-69be-4506-a32f-beac33842052.gif)
+![GIF 2022-06-02 13-31-49](https://cdn.pkmer.cn/covers/obsidian-echarts_1_0.gif)
 
-![image](https://user-images.githubusercontent.com/42957010/171442642-fce4d273-ee06-4a3b-bb8c-e312f8763ce6.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-echarts_1_1.png!pkmer)
 
-![image](https://user-images.githubusercontent.com/42957010/171442781-67127459-5c35-4535-a80c-1c79059c3853.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-echarts_1_2.png!pkmer)
 
-![image](https://user-images.githubusercontent.com/42957010/171444744-5ba1e0e8-b01c-4f4b-b9e1-4ef448ded02f.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-echarts_1_3.png!pkmer)
 
 点击事件绑定是通过在源数据中添加以下字段来实现的。
 

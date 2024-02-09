@@ -1,5 +1,5 @@
 ---
-uid: 2023080322220184
+uid: 2023120719361315
 title: Obsidian 插件：【Readme】Markdown Link Space Encoder
 tags: ['obsidian插件', 'readme']
 description: 自动将Markdown样式链接中的空格编码为%20的简单插件
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Markdown Link Space Encoder
+# Obsidian 插件：【Readme】Markdown Link Space Encoder
 
 > [!Note] 插件名片
 > - 插件名称：Markdown Link Space Encoder
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 自动将 Markdown 样式链接中的空格编码为%20 的简单插件
 
-![Markdown Link Space Encoder](https://cdn.pkmer.cn/covers/markdown-link-space-encoder.gif!pkmer)
+![Markdown Link Space Encoder](https://cdn.pkmer.cn/covers/markdown-link-space-encoder.gif)
 
 > [!tip] 原文出处
 >
@@ -49,4 +49,4 @@ modified: 20230101000000
 
 ## 示例
 
-![使用示例的GIF](./img/example.gif)
+![使用示例的GIF](https://cdn.pkmer.cn/covers/markdown-link-space-encoder_2_0.gif)

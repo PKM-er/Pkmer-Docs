@@ -1,5 +1,5 @@
 ---
-uid: 2023080322210831
+uid: 2023120719320471
 title: Obsidian 插件：【Readme】koncham workspace
 tags: ['工作区', 'obsidian插件', 'readme']
 description: 黑曜石工作空间管理
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：koncham workspace
+# Obsidian 插件：【Readme】koncham workspace
 
 > [!Note] 插件名片
 > - 插件名称：koncham workspace
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 黑曜石工作空间管理
 
-![koncham workspace](https://cdn.pkmer.cn/covers/koncham-workspace.gif!pkmer)
+![koncham workspace](https://cdn.pkmer.cn/covers/koncham-workspace.gif)
 
 > [!tip] 原文出处
 >
@@ -62,7 +62,7 @@ modified: 20230101000000
 
 此屏幕录制演示了在默认和最大化模式下的使用方法：
 
-![center-panes in action](https://raw.githubusercontent.com//manogna4/obsidian-koncham-workspace/main/media/center-panes-in-action.gif)
+![center-panes in action](https://cdn.pkmer.cn/covers/koncham-workspace_1_0.gif)
 
 固定/取消固定窗格
 

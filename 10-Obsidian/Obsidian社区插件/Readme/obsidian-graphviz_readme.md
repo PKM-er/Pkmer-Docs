@@ -1,5 +1,5 @@
 ---
-uid: 2023080322232477
+uid: 2023120719375460
 title: Obsidian 插件：【Readme】Obsidian Graphviz
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 渲染Graphviz图表
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Graphviz
+# Obsidian 插件：【Readme】Obsidian Graphviz
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Graphviz
@@ -96,7 +96,7 @@ modified: 20230101000000
 
 结果为：
 
-![](doc/asset/image/example.png)
+![](https://cdn.pkmer.cn/covers/obsidian-graphviz_2_0.png!pkmer)
 
 安装
 

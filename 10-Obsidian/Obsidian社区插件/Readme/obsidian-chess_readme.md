@@ -1,5 +1,5 @@
 ---
-uid: 2023080322231755
+uid: 2023120719374156
 title: Obsidian 插件：【Readme】Obsidian Chess
 tags: ['游戏', 'obsidian插件', 'readme']
 description: 让你可以记录国际象棋的棋局
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Chess
+# Obsidian 插件：【Readme】Obsidian Chess
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Chess
@@ -73,7 +73,7 @@ lastMove: d7d5
 ```
 ````
 
-![卡罗-卡恩局面](./assets/screenshots/Caro-Kann.png)
+![卡罗-卡恩局面](https://cdn.pkmer.cn/covers/obsidian-chess_2_0.png!pkmer)
 
 > **注意：** 您可以轻松地从您在线下棋的网站上获取该局面的 FEN 代码。例如：[Lichess的棋盘编辑器](https://lichess.org/editor?fen=rnbqkbnr%2Fpp2pppp%2F2p5%2F3p4%2F3PP3%2F8%2FPPP2PPP%2FRNBQKBNR+w+KQkq+-+0+2)。
 

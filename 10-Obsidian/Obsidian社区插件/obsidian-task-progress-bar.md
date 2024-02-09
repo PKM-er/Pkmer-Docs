@@ -1,18 +1,13 @@
 ---
 uid: 20230822233944
 title: Obsidian 插件：Task Progress Bar 简洁易用的任务统计和完成查看工具
-tags:
-  - 任务管理
-  - 美化
-  - 界面相关
-  - obsidian插件
-  - readme
+tags: [任务管理, 美化, 界面相关, obsidian插件]
 description: Obsidian 任务的任务进度条插件。
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230914151229
+modified: 20240108114139
 ---
 
 # Obsidian 插件：Task Progress Bar 简洁易用的任务统计和完成查看工具

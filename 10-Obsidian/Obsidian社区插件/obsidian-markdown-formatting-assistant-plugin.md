@@ -7,10 +7,14 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230603020653
+modified: 20231108222024
 ---
 
-# Obsidian 插件 Markdown Formatting Assistant
+# Obsidian 插件 Markdown Formatting Assistant 帮助你熟悉 Markdown 的好帮手
+
+## 概述
+
+该插件为 Markdown，HTML 和 Latex 提供了易于使用的片段，以及显示上次使用颜色历史记录的颜色选择器。 插件在侧边栏提供一些常用 markdown 语法的标签，通过点击标签即可快速输入 markdown 格式。
 
 > [!Note] 插件名片
 > - 插件名称：Markdown Formatting Assistant
@@ -20,9 +24,9 @@ modified: 20230603020653
 > - 插件项目地址：[点我访问](https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-markdown-formatting-assistant-plugin)
 
-## 概述
+## 效果&特性
 
-该插件为 Markdown，HTML 和 Latex 提供了易于使用的片段，以及显示上次使用颜色历史记录的颜色选择器。 插件在侧边栏提供一些常用 markdown 语法的标签，通过点击标签即可快速输入 markdown 格式。
+![Markdown Formatting Assistant](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin.png!pkmer)
 
 ## 使用方法
 

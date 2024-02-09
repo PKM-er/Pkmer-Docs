@@ -1,5 +1,5 @@
 ---
-uid: 2023080322202180
+uid: 2023120719310524
 title: Obsidian 插件：【Readme】Image Uploader
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 这个插件可以在粘贴时自动将剪贴板中的图像上传到任何图像托管。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Image Uploader
+# Obsidian 插件：【Readme】Image Uploader
 
 > [!Note] 插件名片
 > - 插件名称：Image Uploader
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件可以在粘贴时自动将剪贴板中的图像上传到任何图像托管。
 
-![Image Uploader](https://cdn.pkmer.cn/covers/obsidian-image-uploader.gif!pkmer)
+![Image Uploader](https://cdn.pkmer.cn/covers/obsidian-image-uploader.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Obsidian 图片上传器
 
-![](https://i.loli.net/2021/07/16/fxWBeLAESNc6tK9.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-image-uploader_1_0.gif)
 
 当粘贴时，此插件可以自动调整大小（可选）并将剪贴板中的图片上传到任何图片托管服务。
 

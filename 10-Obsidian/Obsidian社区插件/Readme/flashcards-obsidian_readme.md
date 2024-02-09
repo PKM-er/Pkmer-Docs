@@ -1,5 +1,5 @@
 ---
-uid: 2023080322182742
+uid: 2023120719283359
 title: Obsidian 插件：【Readme】Flashcards
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: Anki集成。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Flashcards
+# Obsidian 插件：【Readme】Flashcards
 
 > [!Note] 插件名片
 > - 插件名称：Flashcards
@@ -45,7 +45,7 @@ Anki 集成。
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/reuseman/flashcards-obsidian/total?style=for-the-badge)
 
-![logo](logo.png)
+![logo](https://cdn.pkmer.cn/covers/flashcards-obsidian_2_0.png!pkmer)
 
 [Obsidian](https://obsidian.md/) 的 Anki 集成。
 
@@ -77,7 +77,7 @@ Anki 集成。
 2. **更新**卡片；
 3. **删除**卡片。
 
-![演示图片](docs/demo.gif)
+![演示图片](https://cdn.pkmer.cn/covers/flashcards-obsidian_2_1.gif)
 
 如何使用它？
 

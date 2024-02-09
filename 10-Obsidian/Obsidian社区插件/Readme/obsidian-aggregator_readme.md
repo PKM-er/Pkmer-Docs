@@ -1,5 +1,5 @@
 ---
-uid: 2023080322135089
+uid: 2023120719220600
 title: Obsidian 插件：【Readme】Aggregator
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以帮助你从文件中收集信息，并在文件中做出总结。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Aggregator
+# Obsidian 插件：【Readme】Aggregator
 
 > [!Note] 插件名片
 > - 插件名称：Aggregator
@@ -47,15 +47,15 @@ modified: 20230101000000
 
 带有标签的块集合。[示例1](docs/Example1.md)
 
-![示例1预览](docs/example1-preview.png)
+![示例1预览](https://cdn.pkmer.cn/covers/obsidian-aggregator_2_0.png!pkmer)
 
 带有标签的注释块集合。[示例2](docs/Example2.md)
 
-![示例2预览](docs/example2-preview.png)
+![示例2预览](https://cdn.pkmer.cn/covers/obsidian-aggregator_2_1.png!pkmer)
 
 从具有自定义辅助程序支持的文件夹生成的统计表。[示例3](docs/Example3.md)
 
-![示例3预览](docs/example3-preview.png)
+![示例3预览](https://cdn.pkmer.cn/covers/obsidian-aggregator_2_2.png!pkmer)
 
 ## 用法
 

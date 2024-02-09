@@ -1,6 +1,6 @@
 ---
 uid: 2023080322230603
-title: Obsidian 插件：【Readme】Notion Video Embed
+title: Obsidian 插件：Notion Video Embed
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中嵌入您的Notion视频
 author: AI

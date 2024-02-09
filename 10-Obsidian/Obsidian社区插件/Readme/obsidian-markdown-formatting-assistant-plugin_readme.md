@@ -1,5 +1,5 @@
 ---
-uid: 2023080322220017
+uid: 2023120719361015
 title: Obsidian 插件：【Readme】Markdown Formatting Assistant
 tags: ['编辑工具', '编辑器', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示OB常用和所有命令提高工作效率。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Markdown Formatting Assistant
+# Obsidian 插件：【Readme】Markdown Formatting Assistant
 
 > [!Note] 插件名片
 > - 插件名称：Markdown Formatting Assistant
@@ -48,7 +48,7 @@ modified: 20230101000000
 
 > 如果您发现 Bug 或有功能请求，请访问：<https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin/issues>
 
-![](assets/Obsidian_Overview.png)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_0.png!pkmer)
 
 侧边栏
 
@@ -60,29 +60,29 @@ modified: 20230101000000
 
 ### Markdown 部分
 
-![](assets/Panel_Overview.png)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_1.png!pkmer)
 
 ### HTML 部分
 
-![](assets/Panel_Overview_Html.png)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_2.png!pkmer)
 
 ### Latex 部分
 
 > Latex 函数只在 Latex 方程部分中起作用，如 $...$ 或 $$...$$
 。
 
-![](assets/Panel_Overview_Latex.png)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_3.png!pkmer)
 
 ### 希腊字母部分
 
 > 希腊字母只在 latex 公式部分中起作用，如 $...$ 或 $$...$$
 。
 
-![](assets/Panel_Overview_Greek_Letters.png)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_4.png!pkmer)
 
 ### Callouts 部分
 
-![](assets/calloutsMenu.jpg)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_5.jpeg!pkmer)
 
 ## 带有快捷方式的建议窗口
 
@@ -94,13 +94,13 @@ modified: 20230101000000
 
 只需在任何位置按下快捷键 `ALT+Q`。无论您是在特定位置还是选择了要更改的文本，都没有关系。然后输入您想要应用的命令的名称。几个字母后，您希望的命令应该在前 5 个建议中显示出来。
 
-![](assets/Suggestion_Window_How_to_use_with_hotkey.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_6.gif)
 
 如何更改快捷键/热键
 
 选择了快捷键/热键 `ALT+Q`，因为它可以方便地用一只手轻松操作，但您可以根据自己的需要更改它。
 
-![](assets/Suggestion_Window_change_hot_key.gif)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_7.gif)
 
 ## 颜色选择器
 
@@ -136,7 +136,7 @@ modified: 20230101000000
   - 只有在你同时选择其他选项时才有帮助，例如:
   - 例如 `style="background-color: #ff0000"`
 
-![](assets/Color_Picker.png)
+![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_8.png!pkmer)
 
 ## 设置
 
@@ -167,7 +167,7 @@ modified: 20230101000000
 - 版本：0.3.0
   - 添加了一个 Latex 和希腊字母部分
 - 版本：0.2.2
-  - 添加了/mermaid snipplet 以生成 mermaid 代码块 - 允许绘制图表![](assets/Mermaid.png)
+  - 添加了/mermaid snipplet 以生成 mermaid 代码块 - 允许绘制图表![](https://cdn.pkmer.cn/covers/obsidian-markdown-formatting-assistant-plugin_2_9.png!pkmer)
 - 版本：0.2.1
   - 一些错误修复
   - 无输入预览模式

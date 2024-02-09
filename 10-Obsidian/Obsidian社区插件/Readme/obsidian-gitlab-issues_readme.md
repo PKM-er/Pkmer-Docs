@@ -1,5 +1,5 @@
 ---
-uid: 2023080322191439
+uid: 2023120719294956
 title: Obsidian 插件：【Readme】GitLab Issues
 tags: ['obsidian插件', 'readme']
 description: 将Gitlab问题导入您的Obsidian保险库。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：GitLab Issues
+# Obsidian 插件：【Readme】GitLab Issues
 
 > [!Note] 插件名片
 > - 插件名称：GitLab Issues
@@ -64,7 +64,7 @@ Gitlab Issues for Obsidian
 2. 通过 Obsidian 社区插件部分安装插件，然后启用它。
 3. 在插件设置中的令牌字段中输入您在 Gitlab 上创建的个人访问令牌。
 
-![插件设置界面](doc/screenshot/gitlab-issues-config-screen.png)
+![插件设置界面](https://cdn.pkmer.cn/covers/obsidian-gitlab-issues_2_0.png!pkmer)
 
 ## 示例 - 列出即将到期的截止日期
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322265188
+uid: 2023120719425220
 title: Obsidian 插件：【Readme】Sidebar Expand on Hover
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这个黑曜石插件可以根据鼠标悬停在左侧标签上展开或折叠侧边栏。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Sidebar Expand on Hover
+# Obsidian 插件：【Readme】Sidebar Expand on Hover
 
 > [!Note] 插件名片
 > - 插件名称：Sidebar Expand on Hover
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个黑曜石插件可以根据鼠标悬停在左侧标签上展开或折叠侧边栏。
 
-![Sidebar Expand on Hover](https://cdn.pkmer.cn/covers/obsidian-sidebar-expand-on-hover_new.gif!pkmer)
+![Sidebar Expand on Hover](https://cdn.pkmer.cn/covers/obsidian-sidebar-expand-on-hover_new.gif)
 
 > [!tip] 原文出处
 >
@@ -48,7 +48,7 @@ modified: 20230101000000
 
 ### 演示
 
-![插件在操作中的效果：当鼠标悬停在带子上时，侧边栏自动展开](./demo.gif)
+![插件在操作中的效果：当鼠标悬停在带子上时，侧边栏自动展开](https://cdn.pkmer.cn/covers/obsidian-sidebar-expand-on-hover_2_0.gif)
 
 ### 待办事项
 

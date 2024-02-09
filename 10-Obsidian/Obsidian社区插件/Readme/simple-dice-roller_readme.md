@@ -1,5 +1,5 @@
 ---
-uid: 2023080322265485
+uid: 2023120719425560
 title: Obsidian 插件：【Readme】Simple Dice Roller
 tags: ['obsidian插件', 'readme']
 description: 一个即插即用的解决方案，可以让你平均和模拟骰子公式。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Simple Dice Roller
+# Obsidian 插件：【Readme】Simple Dice Roller
 
 > [!Note] 插件名片
 > - 插件名称：Simple Dice Roller
@@ -51,15 +51,15 @@ modified: 20230101000000
 
 - `平均所有骰子` 的操作截图
 
-![平均图像](Screenshots/AverageImage.png)
+![平均图像](https://cdn.pkmer.cn/covers/simple-dice-roller_2_0.png!pkmer)
 
 - `模拟所有骰子` 的操作截图
 
-![模拟图像](Screenshots/SimulateImage.png)
+![模拟图像](https://cdn.pkmer.cn/covers/simple-dice-roller_2_1.png!pkmer)
 
 - 当前页面没有骰子时的截图
 
-![没有骰子](Screenshots/NoDice.png)
+![没有骰子](https://cdn.pkmer.cn/covers/simple-dice-roller_2_2.png!pkmer)
 
 ### 手动安装插件
 

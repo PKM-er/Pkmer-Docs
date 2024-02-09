@@ -1,6 +1,6 @@
 ---
 uid: 2023080322173752
-title: Obsidian 插件：【Readme】Easy Typing
+title: Obsidian 插件：Easy Typing
 tags: ['编辑工具', '效率', '中文处理', 'obsidian插件', 'readme']
 description: 输入时，按照你的设定自动格式化一些输入的符号，简化输入繁琐步骤。
 author: AI

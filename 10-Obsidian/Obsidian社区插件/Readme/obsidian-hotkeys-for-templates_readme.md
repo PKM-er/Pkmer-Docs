@@ -1,5 +1,5 @@
 ---
-uid: 2023080322195380
+uid: 2023120719304301
 title: Obsidian 插件：【Readme】Hotkeys for templates
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 添加热键以插入特定模板
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Hotkeys for templates
+# Obsidian 插件：【Readme】Hotkeys for templates
 
 > [!Note] 插件名片
 > - 插件名称：Hotkeys for templates
@@ -52,9 +52,9 @@ modified: 20230101000000
 - 核心模板插件中的模板
 - [Templater](https://github.com/SilentVoid13/Templater) 插件中的模板
 
-![设置](https://raw.githubusercontent.com/Vinzent03/obsidian-hotkeys-for-templates/master/assets/settings.png)
+![设置](https://cdn.pkmer.cn/covers/obsidian-hotkeys-for-templates_1_0.png!pkmer)
 
-![热键部分](https://raw.githubusercontent.com/Vinzent03/obsidian-hotkeys-for-templates/master/assets/hotkeys-section.png)
+![热键部分](https://cdn.pkmer.cn/covers/obsidian-hotkeys-for-templates_1_1.png!pkmer)
 
 ## 兼容性
 

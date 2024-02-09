@@ -1,6 +1,6 @@
 ---
 uid: 2023080322271246
-title: Obsidian 插件：【Readme】Snippetor
+title: Obsidian 插件：Snippetor
 tags: ['obsidian插件', 'readme']
 description: 创建和调整常见的片段
 author: AI

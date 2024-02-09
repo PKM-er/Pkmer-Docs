@@ -31,8 +31,6 @@ Paste URL into selection 解决了快速给文字添加链接的问题，使用 
 
 ![Obsidian 插件：Paste URL into selection 快速给文字添加链接|cover](https://cdn.pkmer.cn/images/98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif!pkmer)
 
-![Obsidian 插件：Paste URL into selection 快速给文字添加链接](https://user-images.githubusercontent.com/4748206/98997874-ed55fb80-253d-11eb-9121-709a316a4d1e.gif)
-
 ## 使用
 
 - 为选中的文本添加链接
