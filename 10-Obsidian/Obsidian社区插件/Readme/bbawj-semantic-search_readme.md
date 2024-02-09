@@ -1,6 +1,6 @@
 ---
 uid: 2023080322263539
-title: Obsidian 插件：【Readme】Semantic Search
+title: Obsidian 插件：Semantic Search
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI的文本嵌入进行文件的语义搜索。
 author: AI

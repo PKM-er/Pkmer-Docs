@@ -1,6 +1,6 @@
 ---
 uid: 2023080322191537
-title: Obsidian 插件：【Readme】Global Hotkeys
+title: Obsidian 插件：Global Hotkeys
 tags: ['obsidian插件', 'readme']
 description: Obsidian桌面应用程序中可配置的系统热键用于运行命令
 author: AI

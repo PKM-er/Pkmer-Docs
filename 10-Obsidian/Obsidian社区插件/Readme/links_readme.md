@@ -1,6 +1,6 @@
 ---
 uid: 2023080322213596
-title: Obsidian 插件：【Readme】Links
+title: Obsidian 插件：Links
 tags: ['obsidian插件', 'readme']
 description: 操作链接
 author: AI
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 操作链接
 
-![Links](https://cdn.pkmer.cn/covers/links.gif!pkmer)
+![Links](https://cdn.pkmer.cn/covers/links.gif)
 
 > [!tip] 原文出处
 >

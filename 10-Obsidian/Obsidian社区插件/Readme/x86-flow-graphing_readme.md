@@ -1,5 +1,5 @@
 ---
-uid: 2023080322295008
+uid: 2023120719465627
 title: Obsidian 插件：【Readme】x86 Assembly Flow Graphing
 tags: ['obsidian插件', 'readme']
 description: 将格式良好的x86汇编代码转换为适当的流程图，使用Obsidian画布。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：x86 Assembly Flow Graphing
+# Obsidian 插件：【Readme】x86 Assembly Flow Graphing
 
 > [!Note] 插件名片
 > - 插件名称：x86 Assembly Flow Graphing
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # Obsidian X86 流程图
 
-![Obsidian文件颜色横幅](./docs/images/x86.png)
+![Obsidian文件颜色横幅](https://cdn.pkmer.cn/covers/x86-flow-graphing_2_0.png!pkmer)
 
 这是一个用于 [Obsidian](https://obsidian.md) 的插件，它可以将 x86 汇编代码转换为使用 Obsidian Canvases 的流程图。
 
@@ -81,7 +81,7 @@ loc_401058
 
 在上述代码块上运行 `x86-create-flow-diagram` 将在当前笔记所在目录中生成以下图形：
 
-![示例图1](./docs/images/graph2.png)
+![示例图1](https://cdn.pkmer.cn/covers/x86-flow-graphing_2_1.png!pkmer)
 
 一开始它看起来可能不太好看，所有的块都会混在一起，您需要拖动它们来使其看起来漂亮一些。我正在努力改进这一点...
 

@@ -19,7 +19,7 @@ SORT 有排序的意思，既然是排序，我们就需要指定是依据什么
 > [!info] 前情提要
 > 有一组介绍菜肴的数据集，存放在 "10 Example Data/food" 文件夹中。每一个菜谱文件都包含配方类型、配方来源、烹饪时长和所需食材这四个属性；在这个食谱数据集中，只有三种配方类型，分别是 vegetarian, meat 和 onepot；
 
-![Pasted image 20230903195306.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230903195306.png!pkmer)
+![Dataview语法实战-自定义排序的简单实例](https://cdn.pkmer.cn/images/Pasted%20image%2020230903195306.png!pkmer)
 
 如果我们直接列出所有的食谱以及食谱类型，我们会得到这么一个结果
 
@@ -31,7 +31,7 @@ WHERE recipe-type
 ```
 `````
 
-![Pasted image 20230903195808.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230903195808.png!pkmer)
+![Dataview语法实战-自定义排序的简单实例](https://cdn.pkmer.cn/images/Pasted%20image%2020230903195808.png!pkmer)
 
 是不是有点混乱，我们试试直接加上 SORT 操作符
 
@@ -44,7 +44,7 @@ SORT recipe-type
 ```
 `````
 
-![Pasted image 20230903200017.png](https://cdn.pkmer.cn/images/Pasted%20image%2020230903200017.png!pkmer)
+![Dataview语法实战-自定义排序的简单实例](https://cdn.pkmer.cn/images/Pasted%20image%2020230903200017.png!pkmer)
 
 可以看到，的确有顺序了，但是此时的排序规则是按照字符串的大小排序的（。可是如果我们想要让 vegetarian 排在第一个，让 meat 排在第二个，让 onepot 排在第三个该怎么实现呢？
 

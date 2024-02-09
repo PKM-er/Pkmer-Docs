@@ -1,5 +1,5 @@
 ---
-uid: 2023080322292226
+uid: 2023120719462278
 title: Obsidian 插件：【Readme】Vocabulary View
 tags: ['obsidian插件', 'readme']
 description: 写下一些单词及其解释，并以词汇测试的形式预览它们。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Vocabulary View
+# Obsidian 插件：【Readme】Vocabulary View
 
 > [!Note] 插件名片
 > - 插件名称：Vocabulary View
@@ -82,7 +82,7 @@ Obsidian 词汇视图
 
 将会预览成以下样式：
 
-![example](https://raw.githubusercontent.com/nnshi-s/obsidian-vocabulary-view-plugin/main/readme_img/readme_example.png)
+![example](https://cdn.pkmer.cn/covers/obsidian-vocabulary-view_1_0.png!pkmer)
 
 ### 手动安装插件
 

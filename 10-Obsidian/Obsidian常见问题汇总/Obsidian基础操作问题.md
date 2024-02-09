@@ -7,10 +7,14 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230911150913
+modified: 20231214144142
 ---
 
 # Obsidian 基础操作
+
+如果以下内容还不能满足你：
+
+你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
 
 ## 安装
 
@@ -105,6 +109,14 @@ Obsidian 的主题问题、css 样式片段 snippets、插件都是隐藏在 `.o
 - 回答 4：
 	- 如果针对知识产出的分类，是可以建议进行功能分类的，根据系统的功能性进行分类的方法，一般情况下可以根据系统应用的地点，时间，资源等三个要素进行功能定位，其中对于资源的分类其实与系统分类是一致的
 
+## 标签页和链接
+
+### 在浏览器里按住 ctrl 点击链接，链接会在新 tab 里打开，但不会跳转到新 tab，Obsidian 中如何实现
+
+回答：在设置 ->编辑器中关闭如图的选项
+
+![image.png](https://cdn.pkmer.cn/images/20231013232910.png!pkmer)
+
 ## 基本操作
 
 ### 不使用键盘，点击文件名在新面板打开
@@ -132,7 +144,7 @@ Obsidian 的主题问题、css 样式片段 snippets、插件都是隐藏在 `.o
 
 方案 1：可能时因为使用折叠左侧面板，导致收起，可以点击左侧的 ![Pasted image 20230108001155](https://cdn.pkmer.cn/images/47b1c4f1c71a973bbbd3831bdffe2581_MD5.png!pkmer)，重新打开左侧面板。
 
-方案 2：可能是无疑种关闭了文件列表。在 Obsidian 设置 - 核心插件 - 文件列表重新开关下，可以解决。
+方案 2：可能是无意中关闭了文件列表。在 Obsidian 设置 - 核心插件 - 文件列表重新开关下，可以解决。
 
 ### Obsidian 多个仓库间可以公用一套配置
 
@@ -180,8 +192,8 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 		1. 在正文的第一行使用 # （1 级标题语法）来书写正文（文件）标题
 		- 这种方法比较符合常规的文档书写规范
 		- 后续导出或者流转时候，脱离 Obsidian 环境，也可以保证全文的可读性
-	- 使用业内标题
-		- 在 Obsidian 设置 -> 外观 -> 显示业内标题（Show inline title）
+	- 使用页内标题
+		- 在 Obsidian 设置 -> 外观 -> 显示页内标题（Show inline title）
 		- 打开对应开关即可
 
 ### Obsidian 如何开启或关闭大纲/有序列表的缩进线
@@ -259,6 +271,10 @@ body {
 ![image.png](https://cdn.pkmer.cn/images/20230522202809.png!pkmer)
 - 可以使用 [[obsidian-hider]] 插件
 	- 关闭 tooltips 即可
+
+### 为什么我的 Front-matter 显示不完全（by OS）
+
+答：如果是阅读模式不显示，可以参看 设置 → 编辑器 → 显示 Front-matter 打开对应选项
 
 ### Obsidian 如何在编辑中显示行号
 
@@ -435,6 +451,27 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 - 解法：可以在笔记内切成阅读模式，这样 html 标记就不会影响搜索结果了
 
 ## 编辑
+
+### 页内标题能否隐藏？（by 阿岑）
+
+答：
+
+1. 通过设置修改：在【设置 - 外观 - 高级】关闭相关功能
+![image.png](https://cdn.pkmer.cn/images/20231108105645.png!pkmer)
+
+2. 通过 css 设置
+
+```
+/* 关闭显示标题栏：colse_show_title */
+.colse_show_title.markdown-preview-view .mod-header .inline-title {
+  display: none;
+  line-height: 0px;
+  /* text-align: right; */
+}
+.view-content .colse_show_title .inline-title {
+  display: none;
+}
+```
 
 ### Obsidian 为什么我的标题不生效
 
@@ -657,6 +694,20 @@ Obsidian 中实现标题自动编号，像 Word 一样，而不是我一个个�
 	- 重复上一步操作直到找到有问题的插件，或插件全部打开但图谱依旧正常。
 3. 可以参考 [这里](https://forum.obsidian.md/t/graph-view-lines-disapeared/6201/9)
 	- 简要说：在设置 中 关闭 硬件加速。
+
+### 恢复和备份
+
+#### 不小心把笔记删了，怎么恢复
+
+- 删除了具体笔记中的内容，请使用 Obsidian 核心插件 - >文件恢复，通过快照浏览来找回记录
+	- [[obsidian-version-history-diff]]
+
+![image.png](https://cdn.pkmer.cn/images/20231025153311.png!pkmer)
+
+- 误删除了笔记文件
+	- 可以通过在回收站，或者你指定的 Obsidian 回收站（.trash）中找到
+	- 当然你也可以使用我们介绍过的插件强化这个功能 [[obsidian-trash-explorer]]
+- 如果是使用操作系统的文件移动，将笔记移动丢失，可以使用恢复类软件，进行文件恢复。
 
 ## 移动端
 

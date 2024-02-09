@@ -1,5 +1,5 @@
 ---
-uid: 2023080322152394
+uid: 2023120719240267
 title: Obsidian 插件：【Readme】Bulk open selected links
 tags: ['obsidian插件', 'readme']
 description: 轻松在编辑模式下打开所有选定的链接。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Bulk open selected links
+# Obsidian 插件：【Readme】Bulk open selected links
 
 > [!Note] 插件名片
 > - 插件名称：Bulk open selected links
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 轻松在编辑模式下打开所有选定的链接。
 
-![Bulk open selected links](https://cdn.pkmer.cn/covers/bulkopen-selected-links_new.gif!pkmer)
+![Bulk open selected links](https://cdn.pkmer.cn/covers/bulkopen-selected-links_new.gif)
 
 > [!tip] 原文出处
 >
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 **设置热键并打开选定的链接**
 
-![demo_bulkopen](https://user-images.githubusercontent.com/10937668/234928018-e71ba367-8168-4e9d-9671-f5579699b392.gif)
+![demo_bulkopen](https://cdn.pkmer.cn/covers/bulkopen-selected-links_1_0.gif)
 
 ## 使用方法
 

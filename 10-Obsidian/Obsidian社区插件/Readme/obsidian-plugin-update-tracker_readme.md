@@ -1,5 +1,5 @@
 ---
-uid: 2023080322245332
+uid: 2023120719403465
 title: Obsidian 插件：【Readme】Plugin Update Tracker
 tags: ['obsidian插件', 'readme']
 description: 了解安装的插件有更新时，并评估升级的风险。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Plugin Update Tracker
+# Obsidian 插件：【Readme】Plugin Update Tracker
 
 > [!Note] 插件名片
 > - 插件名称：Plugin Update Tracker
@@ -70,15 +70,15 @@ modified: 20230101000000
 
 这个小图标被添加到状态栏中：
 
-![image](https://user-images.githubusercontent.com/17691679/193410461-5882744b-670a-4cf9-9606-2864dba148d1.png)：当有 5 个插件有更新时
+![image](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_0.png!pkmer)：当有 5 个插件有更新时
 
-![image](https://user-images.githubusercontent.com/17691679/193410447-395cb124-289d-4e92-b236-4d313bdc6bc8.png)：当所有插件都是最新版本时
+![image](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_1.png!pkmer)：当所有插件都是最新版本时
 
 **移动设备/平板电脑：**
 
 当至少有一个更新可用时，显示此带状操作：
 
-![image](https://user-images.githubusercontent.com/17691679/201494579-ec481261-728d-4ac1-81dd-2d754420bf69.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_2.png!pkmer)
 
 查看更新列表
 
@@ -90,13 +90,13 @@ modified: 20230101000000
 
 发布说明以 markdown 格式安全呈现
 
-![image](https://user-images.githubusercontent.com/17691679/193410513-047060a1-c631-4b48-81f1-204ff6011714.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_3.png!pkmer)
 
-![image](https://user-images.githubusercontent.com/17691679/193410498-88444760-8c97-4da2-a0ac-9d4e384886d8.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_4.png!pkmer)
 
 安装插件更新
 
-![Screen_Recording_2022-10-29_at_3_43_48_PM_AdobeExpress (1)](https://user-images.githubusercontent.com/17691679/198850850-5f61dba0-31a7-4d9e-aab5-8776850d3897.gif)
+![Screen_Recording_2022-10-29_at_3_43_48_PM_AdobeExpress (1)](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_5.gif)
 
 评估升级的风险性
 
@@ -104,7 +104,7 @@ modified: 20230101000000
 
 下载量更多的旧版本很可能更稳定和安全
 
-![image](https://user-images.githubusercontent.com/17691679/193410588-aa858192-7c17-447a-825c-a2a8e55cf15b.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_6.png!pkmer)
 
 等待几天后再显示更新
 
@@ -120,11 +120,11 @@ modified: 20230101000000
 
 默认情况下，新的测试版插件版本是隐藏的，但可以通过更改此设置来显示：
 
-![image](https://user-images.githubusercontent.com/17691679/206864440-099b5dbe-4bad-4040-8312-01c8fa195c9b.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_7.png!pkmer)
 
 测试版更新将显示警告：
 
-![image](https://user-images.githubusercontent.com/17691679/206864663-1392fdcd-d325-4ddb-8831-c6436988c8e3.png)
+![image](https://cdn.pkmer.cn/covers/obsidian-plugin-update-tracker_1_8.png!pkmer)
 
 自定义插件外观
 

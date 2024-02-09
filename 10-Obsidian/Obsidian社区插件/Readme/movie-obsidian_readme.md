@@ -1,5 +1,5 @@
 ---
-uid: 2023080322224196
+uid: 2023120719365560
 title: Obsidian 插件：【Readme】Movie
 tags: ['obsidian插件', 'readme']
 description: 搜索电影信息和预告片。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Movie
+# Obsidian 插件：【Readme】Movie
 
 > [!Note] 插件名片
 > - 插件名称：Movie
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 搜索电影信息和预告片。
+
+![Movie](https://cdn.pkmer.cn/covers/movie-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +41,7 @@ modified: 20230101000000
 
 这个插件是一个简单的插件，可以让你从 [omdb](https://www.omdbapi.com/) 和 Youtube 预告片中爬取电影数据。
 
-![Screencast-from-2023-05-30-16-36-23](https://github.com/onuraycicek/obsidian-movie/assets/87834696/c66504b0-e85a-48e6-a38a-b694dfa68962)
+![Screencast-from-2023-05-30-16-36-23](https://cdn.pkmer.cn/covers/movie-obsidian_1_0.gif)
 
 ## 使用方法
 

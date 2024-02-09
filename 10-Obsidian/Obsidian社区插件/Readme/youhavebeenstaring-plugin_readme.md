@@ -1,5 +1,5 @@
 ---
-uid: 2023080322295287
+uid: 2023120719470111
 title: Obsidian 插件：【Readme】YouHaveBeenStaring
 tags: ['界面相关', '统计', '状态栏', '时间管理', 'obsidian插件', 'readme']
 description: 告诉你用了多久 Obsidian 了
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：YouHaveBeenStaring
+# Obsidian 插件：【Readme】YouHaveBeenStaring
 
 > [!Note] 插件名片
 > - 插件名称：YouHaveBeenStaring
@@ -76,4 +76,4 @@ modified: 20230101000000
 
 您将在右下角状态栏中看到您盯着保险库的时间。
 
-![](screenshot.png)
+![](https://cdn.pkmer.cn/covers/youhavebeenstaring-plugin_2_0.png!pkmer)

@@ -1,6 +1,6 @@
 ---
 uid: 2023080322133557
-title: Obsidian 插件：【Readme】ActivityWatch
+title: Obsidian 插件：ActivityWatch
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，用于在ActivityWatch和Obsidian之间建立兼容性桥梁，以允许详细跟踪在Obsidian中花费的时间。
 author: AI

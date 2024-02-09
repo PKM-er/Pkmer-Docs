@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174613
+modified: 20240108121515
 ---
 
 # Obsidian 插件：Force note view mode 自定义每个笔记的视图

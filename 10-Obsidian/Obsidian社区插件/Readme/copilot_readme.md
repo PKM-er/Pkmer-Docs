@@ -1,6 +1,6 @@
 ---
 uid: 2023080322163312
-title: Obsidian 插件：【Readme】Copilot
+title: Obsidian 插件：Copilot
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中使用ChatGPT Copilot。
 author: AI
@@ -141,7 +141,7 @@ Copilot for Obsidian 现在可以在 **Obsidian Community Plugin** 中使用！
   <summary>"model_not_found"</summary>
 
   - 您需要访问一些模型，如 GPT-4 或 Azure 模型，才能使用它们。如果您没有访问权限，请在等待列表上注册！
-  - 我看到的一个常见误解是，有些人认为他们在获得 ChatGPT Plus 订阅时就可以访问 GPT-4 API。这是不正确的。*您需要获得 GPT-4 API 的访问权限才能在此插件中使用 GPT-4 模型*。请先检查您是否可以在 OpenAI playground 中成功使用您的模型<https://platform.openai.com/playground?mode=chat&model=gpt-4。如果不能，请在此处申请 GPT-4> API 访问权限<https://openai.com/waitlist/gpt-4-api。一旦您获得 API 访问权限，您就可以在此插件中使用 GPT-4，而无需 ChatGPT> Plus 订阅！
+  - 我看到的一个常见误解是，有些人认为他们在获得 ChatGPT Plus 订阅时就可以访问 GPT-4 API。这是不正确的。*您需要获得 GPT-4 API 的访问权限才能在此插件中使用 GPT-4 模型*。请先检查您是否可以在 OpenAI playground 中成功使用您的模型<https://platform.openai.com/playground?mode=chat&model=gpt-4。如果不能，请在此处申请> GPT-4> API 访问权限<https://openai.com/waitlist/gpt-4-api。一旦您获得> API 访问权限，您就可以在此插件中使用 GPT-4，而无需 ChatGPT> Plus 订阅！
   - 参考问题：<https://github.com/logancyang/obsidian-copilot/issues/3#issuecomment-1544583676>
 </details>
 <details>

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322193363
+uid: 2023120719301439
 title: Obsidian 插件：【Readme】HackerNews
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 该插件会定期获取并在 Obsidian 面板中显示Hackernews 的热门新闻。Hackernews 上共享了一些最佳故事，博客，新闻和资源，并且此插件在使用黑曜石时有助于保持更新。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：HackerNews
+# Obsidian 插件：【Readme】HackerNews
 
 > [!Note] 插件名片
 > - 插件名称：HackerNews
@@ -86,7 +86,7 @@ modified: 20230101000000
 
 这就是这个插件的构思方式，现在我的 Obsidian 工作区看起来是这样的。
 
-![Obsidian Screenshot for HackerNews Plugin](https://user-images.githubusercontent.com/4745789/131978712-718691dd-57bb-48ea-bd4b-d8e182ec6c16.PNG)
+![Obsidian Screenshot for HackerNews Plugin](https://cdn.pkmer.cn/covers/obsidian-hackernews_1_2.png!pkmer)
 
 # 隐私
 

@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Markdown Chords
 > - 插件作者：David Hunt
-> - 插件说明：在Markdown中添加弦乐器（例如吉他）的音乐和弦符号以及弦图。支持任何西方音阶/调式的和弦，包括扩展的爵士和弦。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：在 Markdown 中添加弦乐器（例如吉他）的音乐和弦符号以及弦图。支持任何西方音阶/调式的和弦，包括扩展的爵士和弦。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/dnotes/obsidian-markdown-chords)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-chords)
 
 ## 概述
 
-在Markdown中添加弦乐器（例如吉他）的音乐和弦符号以及弦图。支持任何西方音阶/调式的和弦，包括扩展的爵士和弦。
-
-
+在 Markdown 中添加弦乐器（例如吉他）的音乐和弦符号以及弦图。支持任何西方音阶/调式的和弦，包括扩展的爵士和弦。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dnotes/obsidian-markdown-chords/main/README.md)
-> 
+>
 
 ---
 
@@ -37,22 +35,25 @@ modified: 20230101000000
 
 下面是 [[markdown-chords]] 插件的自述翻译
 
+这是将 [markdown-it-chords] 作为 [Obsidian] 插件的一个非常简单的适配版本。
 
-这是将[markdown-it-chords]作为[Obsidian]插件的一个非常简单的适配版本。
-有关和弦语法的完整文档，请参阅[markdown-it-chords演示]。
+有关和弦语法的完整文档，请参阅 [markdown-it-chords 演示]。
 
-[markdown-it-chords]: https://github.com/dnotes/markdown-it-chords
-[Obsidian]: https://obsidian.md
-[markdown-it-chords演示]: https://dnotes.github.io/markdown-it-chords/
+[markdown-it-chords]: <https://github.com/dnotes/markdown-it-chords>
+[Obsidian]: <https://obsidian.md>
+[markdown-it-chords 演示]: <https://dnotes.github.io/markdown-it-chords/>
+
 ### 安装
 
-您可以使用[BRAT社区插件]将其添加到Obsidian安装中。
+您可以使用 [BRAT 社区插件] 将其添加到 Obsidian 安装中。
+
 我计划将其提交审核并在社区插件中发布。
 
-[BRAT社区插件]: https://github.com/TfTHacker/obsidian42-brat
+[BRAT 社区插件]: <https://github.com/TfTHacker/obsidian42-brat>
+
 ### 用法
 
-目前，该插件仅提供了一个Markdown代码处理器，用于标记为"song"或"lyrics"的围栏代码，例如：
+目前，该插件仅提供了一个 Markdown 代码处理器，用于标记为 "song" 或 "lyrics" 的围栏代码，例如：
 
 	```song
 	[C]Do, a deer, a female deer
@@ -68,6 +69,3 @@ modified: 20230101000000
 	```
 
 将来，我可能会添加一个选项，将和弦格式应用于所有文本。
-
-
-

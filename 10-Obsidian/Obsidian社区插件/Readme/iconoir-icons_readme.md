@@ -1,5 +1,5 @@
 ---
-uid: 2023080322200821
+uid: 2023120719305359
 title: Obsidian 插件：【Readme】Iconoir Icons
 tags: ['obsidian插件', 'readme']
 description: 一个用于创建和显示定制的SVG Iconoir图标的插件。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Iconoir Icons
+# Obsidian 插件：【Readme】Iconoir Icons
 
 > [!Note] 插件名片
 > - 插件名称：Iconoir Icons
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个用于创建和显示定制的 SVG Iconoir 图标的插件。
 
-![Iconoir Icons](https://cdn.pkmer.cn/covers/iconoir-icons.gif!pkmer)
+![Iconoir Icons](https://cdn.pkmer.cn/covers/iconoir-icons.gif)
 
 > [!tip] 原文出处
 >
@@ -49,11 +49,11 @@ modified: 20230101000000
 
 ### 图标搜索建议
 
-![iconoir suggester](assets/iconoir-suggester-1.gif)
+![iconoir suggester](https://cdn.pkmer.cn/covers/iconoir-icons_2_0.gif)
 
 ### 自定义 `CSS` 样式
 
-![iconoir suggester](assets/iconoir-suggester-2.gif)
+![iconoir suggester](https://cdn.pkmer.cn/covers/iconoir-icons_2_1.gif)
 
 ## 语法
 
@@ -87,7 +87,7 @@ STYLE  = 图标组件的 CSS 规则，例如 float:right;
 
 #### 结果
 
-![基本块的屏幕截图](assets/basic.png)
+![基本块的屏幕截图](https://cdn.pkmer.cn/covers/iconoir-icons_2_2.png!pkmer)
 
 ```markdown
 `~![iconoir-leaf|green|48px|48px|float:right;]` lorem ipsum dolor sit amet, consectetur adipiscing elit. morbi bibendum commodo congue. vivamus efficitur aliquam felis, id viverra eros blandit sit amet. nam feugiat purus ac sem aliquam, sit amet dictum dui bibendum. sed tincidunt porttitor odio at feugiat. cras sed viverra libero. suspendisse potenti. nulla eu ullamcorper quam, in tempus nulla. quisque accumsan euismod finibus.
@@ -95,7 +95,7 @@ STYLE  = 图标组件的 CSS 规则，例如 float:right;
 
 #### 结果
 
-![区块部分的截图](assets/block.png)
+![区块部分的截图](https://cdn.pkmer.cn/covers/iconoir-icons_2_3.png!pkmer)
 
 ### 列表
 
@@ -110,7 +110,7 @@ STYLE  = 图标组件的 CSS 规则，例如 float:right;
 
 #### 结果
 
-![列表截图](assets/list.png)
+![列表截图](https://cdn.pkmer.cn/covers/iconoir-icons_2_4.png!pkmer)
 
 ```markdown
 - [ ] `~![iconoir-calendar-minus|currentColor]` 任务列表 一个任务列表 一个任务列表
@@ -123,7 +123,7 @@ STYLE  = 图标组件的 CSS 规则，例如 float:right;
 
 #### 结果
 
-![任务截图](assets/tasks.png)
+![任务截图](https://cdn.pkmer.cn/covers/iconoir-icons_2_5.png!pkmer)
 
 ### 标题
 
@@ -141,7 +141,7 @@ STYLE  = 图标组件的 CSS 规则，例如 float:right;
 
 #### 结果
 
-![标题的截图](assets/headings.png)
+![标题的截图](https://cdn.pkmer.cn/covers/iconoir-icons_2_6.png!pkmer)
 
 ### 引用样式块
 
@@ -176,7 +176,7 @@ strong {
 
 #### 结果
 
-![callout的屏幕截图](assets/callout.png)
+![callout的屏幕截图](https://cdn.pkmer.cn/covers/iconoir-icons_2_7.png!pkmer)
 
 ### 表格
 
@@ -194,7 +194,7 @@ strong {
 
 ### 结果
 
-![html表格的截图](assets/tables.png)
+![html表格的截图](https://cdn.pkmer.cn/covers/iconoir-icons_2_8.png!pkmer)
 
 ### 支持额外的 `CSS` 类
 
@@ -237,9 +237,9 @@ strong {
 
 ## 截图
 
-![iconoir-icons-light](assets/iconoir-icons-light.png)
+![iconoir-icons-light](https://cdn.pkmer.cn/covers/iconoir-icons_2_9.png!pkmer)
 
-![iconoir-icons-dark](assets/iconoir-icons-dark.png)
+![iconoir-icons-dark](https://cdn.pkmer.cn/covers/iconoir-icons_2_10.png!pkmer)
 
 发展
 

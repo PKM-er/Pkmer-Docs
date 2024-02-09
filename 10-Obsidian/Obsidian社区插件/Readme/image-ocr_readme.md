@@ -1,6 +1,6 @@
 ---
 uid: 2023080322201730
-title: Obsidian 插件：【Readme】Image OCR
+title: Obsidian 插件：Image OCR
 tags: ['obsidian插件', 'readme']
 description: 在图像上运行OCR，并将结果粘贴在描述中。
 author: AI

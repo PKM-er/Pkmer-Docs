@@ -1,5 +1,5 @@
 ---
-uid: 2023080322265390
+uid: 2023120719425384
 title: Obsidian 插件：【Readme】Silicon AI
 tags: ['obsidian插件', 'readme']
 description: 通过硅AI为您的笔记增加一些智能。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Silicon AI
+# Obsidian 插件：【Readme】Silicon AI
 
 > [!Note] 插件名片
 > - 插件名称：Silicon AI
@@ -55,7 +55,7 @@ modified: 20230101000000
 - 点击“保存”以保存更改。
 - 现在，您可以使用 Silicon 通过单击 Obsidian 窗口右侧面板上的“Silicon”按钮来连接您的笔记。该插件将使用文本嵌入来查找相关的笔记并在面板中显示它们。
 
-![Silicon Screenshot](silicon-screenshot.png)
+![Silicon Screenshot](https://cdn.pkmer.cn/covers/silicon_2_0.png!pkmer)
 
 -----
 

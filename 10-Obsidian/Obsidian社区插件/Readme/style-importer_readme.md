@@ -1,6 +1,6 @@
 ---
 uid: 2023080322272872
-title: Obsidian 插件：【Readme】Style Importer
+title: Obsidian 插件：Style Importer
 tags: ['obsidian插件', 'readme']
 description: 从URL导入样式表到你的片段文件夹中。
 author: AI

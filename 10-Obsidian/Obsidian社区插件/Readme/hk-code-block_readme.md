@@ -1,5 +1,5 @@
 ---
-uid: 2023080322194722
+uid: 2023120719303540
 title: Obsidian 插件：【Readme】HK Code Block
 tags: ['obsidian插件', 'readme']
 description: 由Heekang Park开发的Obsidian插件；使代码块在阅读视图中看起来更好。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：HK Code Block
+# Obsidian 插件：【Readme】HK Code Block
 
 > [!Note] 插件名片
 > - 插件名称：HK Code Block
@@ -57,7 +57,7 @@ modified: 20230101000000
     print("Hello world")
     ```
 
-![title](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/title.png)
+![title](https://cdn.pkmer.cn/covers/hk-code-block_1_0.png!pkmer)
 
 您必须将标题放在引号中。您可以使用单引号和双引号。
 
@@ -75,9 +75,9 @@ modified: 20230101000000
     print("Hello world")
     ```
 
-![collapsible1](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/collapsible1.png)
+![collapsible1](https://cdn.pkmer.cn/covers/hk-code-block_1_1.png!pkmer)
 
-![collapsible2](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/collapsible2.png)
+![collapsible2](https://cdn.pkmer.cn/covers/hk-code-block_1_2.png!pkmer)
 
 如果您想明确展开代码块，可以像这样操作。
 
@@ -99,7 +99,7 @@ modified: 20230101000000
     print("Hello world")
     ```
 
-![linenos1](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/linenos1.png)
+![linenos1](https://cdn.pkmer.cn/covers/hk-code-block_1_3.png!pkmer)
 
 如果您不指定任何选项，行号将从设置中设置的值开始（默认为 1）。如果您希望行号从特定值开始，可以像这样设置。
 
@@ -107,7 +107,7 @@ modified: 20230101000000
     print("Hello world")
     ```
 
-![linenos2](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/linenos2.png)
+![linenos2](https://cdn.pkmer.cn/covers/hk-code-block_1_4.png!pkmer)
 
 您还可以使用负值。
 
@@ -115,7 +115,7 @@ modified: 20230101000000
     print("Hello world")
     ```
 
-![linenos3](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/linenos3.png)
+![linenos3](https://cdn.pkmer.cn/covers/hk-code-block_1_5.png!pkmer)
 
 如果您想明确隐藏行号，可以像这样设置。
 
@@ -141,7 +141,7 @@ modified: 20230101000000
     print("line 11")
     ```
 
-![highlight1](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/highlight1.png)
+![highlight1](https://cdn.pkmer.cn/covers/hk-code-block_1_6.png!pkmer)
 
 您必须将行号放在引号中。您可以使用单引号和双引号。您还可以使用破折号来指定一系列行号。
 
@@ -153,7 +153,7 @@ modified: 20230101000000
     print("Wow")
     ```
 
-![highlight2](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/highlight2.png)
+![highlight2](https://cdn.pkmer.cn/covers/hk-code-block_1_7.png!pkmer)
 
 ### 语言指示器
 
@@ -169,7 +169,7 @@ modified: 20230101000000
     print("Hello world")
     ```
 
-![language1](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/language1.png)
+![language1](https://cdn.pkmer.cn/covers/hk-code-block_1_8.png!pkmer)
 
 默认情况下，显示的语言遵循代码块的语言，但如果您希望，可以明确指定它。在这种情况下，您可以在保持代码块语言的语法高亮的同时更改显示的语言。
 
@@ -177,7 +177,7 @@ modified: 20230101000000
     print("Hello world")
     ```
 
-![language2](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/language2.png)
+![language2](https://cdn.pkmer.cn/covers/hk-code-block_1_9.png!pkmer)
 
 您必须将语言放在引号中。您可以使用单引号和双引号。
 
@@ -203,7 +203,7 @@ modified: 20230101000000
     print("Hello world")
     ```
 
-![copybtn](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/copybtn.png)
+![copybtn](https://cdn.pkmer.cn/covers/hk-code-block_1_10.png!pkmer)
 
 如果您想明确隐藏复制按钮，可以像这样操作。
 
@@ -223,7 +223,7 @@ mkdir test
 mkdir test
 ```
 
-![prompt1](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/prompt1.png)
+![prompt1](https://cdn.pkmer.cn/covers/hk-code-block_1_11.png!pkmer)
 
 如果您不指定任何选项，提示将是设置中设置的值（默认为 "$"）。如果您想使用另一个提示，可以这样做。
 
@@ -231,7 +231,7 @@ mkdir test
 mkdir test
 ```
 
-![prompt2](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/prompt2.png)
+![prompt2](https://cdn.pkmer.cn/covers/hk-code-block_1_12.png!pkmer)
 
 您必须将提示放在引号中。您可以使用单引号和双引号。
 
@@ -242,7 +242,7 @@ docker run -it \
     ubuntu:latest
 ```
 
-![prompt3](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/prompt3.png)
+![prompt3](https://cdn.pkmer.cn/covers/hk-code-block_1_13.png!pkmer)
 
 如果您想明确隐藏提示，可以这样做。
 
@@ -262,7 +262,7 @@ mkdir test
     Hello world!
     ```
 
-![result1](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/result1.png)
+![result1](https://cdn.pkmer.cn/covers/hk-code-block_1_14.png!pkmer)
 
 请注意，结果代码块必须紧接在其所属的代码块之后。您不能在它们之间放置任何其他组件。
 
@@ -282,7 +282,7 @@ mkdir test
     Hello world!
     ```
 
-![result2](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/result2.png)
+![result2](https://cdn.pkmer.cn/covers/hk-code-block_1_15.png!pkmer)
 
 结果代码块的提示默认情况下是在设置中设置的值（默认为 "Result"）。如果您想使用其他提示，可以像这样设置。
 
@@ -295,7 +295,7 @@ mkdir test
     42
     ```
 
-![result3](https://github.com/HeekangPark/obsidian-hk-code-block/raw/master/imgs/result3.png)
+![result3](https://cdn.pkmer.cn/covers/hk-code-block_1_16.png!pkmer)
 
 ## 设置
 

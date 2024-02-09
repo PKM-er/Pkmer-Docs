@@ -1,5 +1,5 @@
 ---
-uid: 2023080322195007
+uid: 2023120719304007
 title: Obsidian 插件：【Readme】Hotkey Helper
 tags: ['快捷键', '效率', 'obsidian插件', 'readme']
 description: 一个快捷键助手，让你更容易的管理 Obsidian 的快捷键。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Hotkey Helper
+# Obsidian 插件：【Readme】Hotkey Helper
 
 > [!Note] 插件名片
 > - 插件名称：Hotkey Helper
@@ -50,7 +50,7 @@ modified: 20230101000000
 
 该插件通过在每个插件旁边（在核心和社区插件选项卡中）添加图标，使得在 [Obsidian.md](https://obsidian.md) 中更容易管理插件的快捷键和选项。您可以使用这些图标来打开插件的选项或快捷键分配。
 
-![](https://raw.githubusercontent.com/pjeby/hotkey-helper/master/hotkey-helper.gif)
+![](https://cdn.pkmer.cn/covers/hotkey-helper_1_0.gif)
 
 更好的是：将鼠标悬停在快捷键图标上，可以显示插件具有多少个命令，其中有多少个命令分配了快捷键，以及这些分配中有多少与其他快捷键分配冲突。（如果存在任何冲突，图标还会以您的主题错误背景颜色进行突出显示。）
 
@@ -58,7 +58,7 @@ modified: 20230101000000
 
 此外，当您从社区插件查看器中启用插件时，您可以立即访问其配置和快捷键：
 
-![插件浏览器视图](https://raw.githubusercontent.com/pjeby/hotkey-helper/master/plugin-browser.png)
+![插件浏览器视图](https://cdn.pkmer.cn/covers/hotkey-helper_1_1.png!pkmer)
 
 ### 安装
 

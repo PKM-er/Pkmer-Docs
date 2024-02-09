@@ -1,5 +1,5 @@
 ---
-uid: 2023080322284982
+uid: 2023120719454340
 title: Obsidian 插件：【Readme】Tweet to Markdown
 tags: ['obsidian插件', 'readme']
 description: 将推文保存为 Markdown 文件，以及它们的图像、投票等等。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Tweet to Markdown
+# Obsidian 插件：【Readme】Tweet to Markdown
 
 > [!Note] 插件名片
 > - 插件名称：Tweet to Markdown
@@ -104,7 +104,7 @@ modified: 20230101000000
 
 要下载推文线程，请粘贴线程中**最后一个**推文的链接，并切换到线程开关。
 
-![下载新推文的模态框。](https://raw.githubusercontent.com/kbravh/obsidian-tweet-to-markdown/main/images/tweet_url_modal.png)
+![下载新推文的模态框。](https://cdn.pkmer.cn/covers/obsidian-tweet-to-markdown_1_0.png!pkmer)
 
 下载推文后，将出现一个窗口，用于设置将要创建的文件名。您可以在命名文件时使用变量 `[[handle]]`、`[[name]]`、`[[text]]`、`[[date]]` 和 `[[id]]`，这些变量将根据以下表格自动替换。文件扩展名 `.md` 将自动添加。
 
@@ -231,7 +231,7 @@ another: second value
 
 从 1.3.0 版本开始，您可以将 Twitter 链接粘贴到任何文件中，并自动将其转换为推文并嵌入到您的笔记中。✨
 
-![粘贴推文链接的演示](https://raw.githubusercontent.com/kbravh/obsidian-tweet-to-markdown/main/images/link_paste_demo.gif)
+![粘贴推文链接的演示](https://cdn.pkmer.cn/covers/obsidian-tweet-to-markdown_1_1.gif)
 
 您可以在插件设置面板中启用此设置，称为**粘贴时下载推文**。在设置中，您可以选择将推文直接嵌入到当前笔记中，还是将其链接为 Obsidian 嵌入（`![[note title]]`）。
 

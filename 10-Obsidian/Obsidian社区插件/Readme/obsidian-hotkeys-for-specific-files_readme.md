@@ -1,5 +1,5 @@
 ---
-uid: 2023080322195282
+uid: 2023120719304141
 title: Obsidian 插件：【Readme】Hotkeys for specific files
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 为特定的文件设置热键，只需要您的键盘就可以打开它们。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Hotkeys for specific files
+# Obsidian 插件：【Readme】Hotkeys for specific files
 
 > [!Note] 插件名片
 > - 插件名称：Hotkeys for specific files
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 使用此插件，您可以使用热键打开特定的文件。您可以在设置中设置这些文件。每个文件都将生成一个命令，然后您可以在 Obsidian 的默认热键部分设置您的热键。
 
-![设置](https://raw.githubusercontent.com/Vinzent03/obsidian-hotkeys-for-specific-files/master/settings.png)
+![设置](https://cdn.pkmer.cn/covers/obsidian-hotkeys-for-specific-files_1_0.png!pkmer)
 
 悬停编辑器支持
 

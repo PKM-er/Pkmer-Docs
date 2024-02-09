@@ -1,5 +1,5 @@
 ---
-uid: 2023080322211275
+uid: 2023120719320752
 title: Obsidian 插件：【Readme】LanguageTool Integration
 tags: ['第三方工具集成', '搜索/排序', '翻译', 'obsidian插件', 'readme']
 description: 借助语言工具进行高级拼写/语法检查
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：LanguageTool Integration
+# Obsidian 插件：【Readme】LanguageTool Integration
 
 > [!Note] 插件名片
 > - 插件名称：LanguageTool Integration
@@ -87,4 +87,4 @@ modified: 20230101000000
 
 # 演示
 
-![demo-02022022](https://user-images.githubusercontent.com/98941594/152318322-83abb30d-fee0-44cf-9700-262f4c0de4c4.png)
+![demo-02022022](https://cdn.pkmer.cn/covers/obsidian-languagetool-plugin_1_0.png!pkmer)

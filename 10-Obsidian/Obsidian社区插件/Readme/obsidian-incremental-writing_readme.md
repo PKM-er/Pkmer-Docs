@@ -1,6 +1,6 @@
 ---
 uid: 2023080322203258
-title: Obsidian 插件：【Readme】Incremental Writing
+title: Obsidian 插件：Incremental Writing
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 逐步审阅笔记和块随着时间的推移。
 author: AI

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322235494
+uid: 2023120719383000
 title: Obsidian 插件：【Readme】Obsidian42 - WordNet Dictionary
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 将普林斯顿大学开发的大型英语词汇数据库WordNet带入Obsidian。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian42 - WordNet Dictionary
+# Obsidian 插件：【Readme】Obsidian42 - WordNet Dictionary
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian42 - WordNet Dictionary
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将普林斯顿大学开发的大型英语词汇数据库 WordNet 带入 Obsidian。
 
-![Obsidian42 - WordNet Dictionary](https://cdn.pkmer.cn/covers/obsidian-wordnet-plugin.gif!pkmer)
+![Obsidian42 - WordNet Dictionary](https://cdn.pkmer.cn/covers/obsidian-wordnet-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -52,7 +52,7 @@ WordNet 是 Obsidian42 插件系列的一部分。请查看其他插件：
 
 调用后，WordNet 将允许您输入要查找的单词。在您输入时，会显示选项。一旦找到您感兴趣的单词，您可以按 Enter 键将其插入到当前文档中。如果当前文档处于预览模式，则定义将在通知窗口中显示大约 10 秒钟。
 
-![功能预览](FeaturePreview.gif)
+![功能预览](https://cdn.pkmer.cn/covers/obsidian-wordnet-plugin_2_0.gif)
 
 # 斜杠命令
 

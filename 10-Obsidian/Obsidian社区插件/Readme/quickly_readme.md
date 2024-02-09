@@ -1,5 +1,5 @@
 ---
-uid: 2023080322252475
+uid: 2023120719411141
 title: Obsidian 插件：【Readme】Quickly
 tags: ['obsidian插件', 'readme']
 description: 通过操作系统的快捷键快速导航和创建笔记。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Quickly
+# Obsidian 插件：【Readme】Quickly
 
 > [!Note] 插件名片
 > - 插件名称：Quickly
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 快捷键启动此模态框。
 
-![演示](./demo.png)
+![演示](https://cdn.pkmer.cn/covers/quickly_2_0.png!pkmer)
 
 # 使用逻辑
 

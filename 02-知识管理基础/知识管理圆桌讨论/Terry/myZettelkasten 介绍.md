@@ -7,7 +7,7 @@ author: Terry
 type: other
 draft: false
 editable: false
-modified: 20230809092811
+modified: 20231122121445
 ---
 
 # myZettelkasten 介绍
@@ -63,7 +63,9 @@ A 原则我也是认同的，但是用纸笔手写笔记对我来说不现实。
 
 与关键词索引面板交互的方式，有点像是原始版本的 ChatGPT：输入一个关键词，它返回一个答案。但与 ChatGPT 使用海量外部数据生成答案不同的是，ZK 关键词索引面板返回的答案是基于自己过去的思考，并已形成一定分支结构的笔记串。
 
-myZettelkasten 示例库操作演示可以看：[操作视频](https://www.bilibili.com/list/339134907?sid=3517773&desc=1&oid=744451292&bvid=BV1vk4y1g7A7)
+myZettelkasten 示例库操作演示可以看：
+
+<iframe src="https://player.bilibili.com/player.html?aid=744451292&bvid=BV1vk4y1g7A7&cid=1223761456&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ### 1.3 ZK 关键词导航与标签、图谱的比较
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322274189
+uid: 2023120719440029
 title: Obsidian 插件：【Readme】Table Generator
 tags: ['表格', 'obsidian插件', 'readme']
 description: 一个快速生成Markdown表格的插件，类似Typora。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Table Generator
+# Obsidian 插件：【Readme】Table Generator
 
 > [!Note] 插件名片
 > - 插件名称：Table Generator
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个快速生成 Markdown 表格的插件，类似 Typora。
 
-![Table Generator](https://cdn.pkmer.cn/covers/obsidian-table-generator.gif!pkmer)
+![Table Generator](https://cdn.pkmer.cn/covers/obsidian-table-generator.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 一个可以快速生成 Markdown 表格的插件，类似于 Typora。
 
-![example.gif](https://raw.githubusercontent.com/Quorafind/Obsidian-Table-Generator/master/media/example.gif)
+![example.gif](https://cdn.pkmer.cn/covers/obsidian-table-generator_1_0.gif)
 
 # 特点
 

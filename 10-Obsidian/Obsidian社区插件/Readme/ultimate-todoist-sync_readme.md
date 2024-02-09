@@ -1,5 +1,5 @@
 ---
-uid: 2023080322285565
+uid: 2023120719455136
 title: Obsidian 插件：【Readme】Ultimate Todoist Sync
 tags: ['obsidian插件', 'readme']
 description: 这是迄今为止最好的Obsidian Todoist任务同步插件。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Ultimate Todoist Sync
+# Obsidian 插件：【Readme】Ultimate Todoist Sync
 
 > [!Note] 插件名片
 > - 插件名称：Ultimate Todoist Sync
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这是迄今为止最好的 Obsidian Todoist 任务同步插件。
 
-![Ultimate Todoist Sync](https://cdn.pkmer.cn/covers/ultimate-todoist-sync_new.gif!pkmer)
+![Ultimate Todoist Sync](https://cdn.pkmer.cn/covers/ultimate-todoist-sync_new.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 ### 使用方法
 
-![Alt Text](/attachment/demo.gif)
+![Alt Text](https://cdn.pkmer.cn/covers/ultimate-todoist-sync_2_0.gif)
 
 ### 设置页面
 

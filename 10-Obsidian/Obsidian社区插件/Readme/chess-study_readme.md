@@ -1,5 +1,5 @@
 ---
-uid: 2023080322154977
+uid: 2023120719244146
 title: Obsidian 插件：【Readme】Chess Study
 tags: ['obsidian插件', 'readme']
 description: 一个国际象棋学习助手和PGN查看器/编辑器。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Chess Study
+# Obsidian 插件：【Readme】Chess Study
 
 > [!Note] 插件名片
 > - 插件名称：Chess Study
@@ -73,15 +73,15 @@ modified: 20230101000000
 
 这个操作将触发一个模态窗口，在这里您可以选择粘贴您的 PGN 或将其留空以开始一局新的游戏。下面是它的样子：
 
-![chess-study-modal](imgs/chess-study-modal.png)
+![chess-study-modal](https://cdn.pkmer.cn/covers/chess-study_2_0.png!pkmer)
 
 点击“Submit”后，Obsidian Chess Study 将解析 PGN，生成一个新的 JSON 文件，位于您的 vault 中的 `.obsidian/plugins/obsidian-chess-study/storage/{id}.json`，并在光标位置插入一个 chessStudy 代码块。以下是 chessStudy 代码块的示例：
 
-![chess-study-codeblock](imgs/chess-study-codeblock.png)
+![chess-study-codeblock](https://cdn.pkmer.cn/covers/chess-study_2_1.png!pkmer)
 
 之后，PGN 查看器/编辑器将渲染，您可以开始使用（样式与您的主题和强调色相匹配）：
 
-![chess-study-codeblock](imgs/chess-study-demo.gif)
+![chess-study-codeblock](https://cdn.pkmer.cn/covers/chess-study_2_2.gif)
 
 ## 特点
 
@@ -99,7 +99,7 @@ modified: 20230101000000
 
 - [x] 添加对变体的支持（深度为 1）
 
-![chess-study-variants](imgs/chess-study-variants.png)
+![chess-study-variants](https://cdn.pkmer.cn/covers/chess-study_2_3.png!pkmer)
 
 ## 设置
 

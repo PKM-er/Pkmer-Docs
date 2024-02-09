@@ -7,18 +7,38 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230607225607
+modified: 20231025160203
 ---
 
 # Obsidian 扩展语法
 
 Obsidian 除了支持之前所说的 [[Markdown]] 基本语法，还有一些基于链接，和应用笔记，为了更方便产出而设置支持的扩展集。
 
+## 标签（tag）
+
+标签是一个组织大量笔记的好方法，它能让你更容易找到笔记。标签本质上是一个可点击的检索按钮，点击它 Obsidian 就会自动为你搜索包含这个标签的笔记。比如，点击 `#标签` 这个标签后，Obsidian 将会显示库中所有包含这个标签的笔记。标签有各种不同的用法，比如标明笔记的来源或是笔记的种类。Zettelkasten 方法的使用者则会将标签作为连接笔记、连接想法的“切入点”。
+
+具体可参考 [[标签的使用]]
+
+### 可使用的字符
+
+标签中不允许使用空格。所以，如果你想区分标签中的词语，你可以使用以下格式：
+
+- 使用驼峰式大小写: `#TwoWords`
+- 使用下划线： `#two_words`
+- 使用连字符： `#two-words`
+
+总的来说，标签只允许以下符号：
+
+1. `_` 下划线和 `-` 连字符号
+2. 用于 [[标签的使用#嵌套标签]] 的 `/` 斜杠
+
+
 ## 笔记内容引用
 
 引用笔记内容到文本
 
-```Markdown
+```markdown
 ![[笔记文件名#标题名]]    引用具体笔记某个标题下的全部内容
 ![[笔记文件名^文本块]]    引用具体笔记下某个文本块的内容
 [[笔记文件名#标题名]]    链接具体笔记某个标题
@@ -157,6 +177,15 @@ Obsidian 除了支持之前所说的 [[Markdown]] 基本语法，还有一些基
 >- 如果你觉得 callout 可以服用到其他地方：[[obsidian-list-callouts]]
 >- 如果你希望优化样式：[[Obsidian样式-Callout样式]]
 
+### 视频教程
+
+#### 基础优化
+
+<iframe src="https://player.bilibili.com/player.html?aid=663178705&bvid=BV1xa4y1Q7Js&cid=1327096234&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
+#### 自定义美化
+
+<iframe src="https://player.bilibili.com/player.html?aid=493403209&bvid=BV1XN411M7hg&cid=1331265281&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="80%"> </iframe>
 ## 键盘文本语法
 
 键盘文本也不一定非得是键盘按键，也可以作为**着重文本**突出显示。一般适合你要描述**快捷键**，按键有关的时候，推荐使用，当然使用其他强化语法也是可以的。
@@ -249,3 +278,8 @@ Obsidian里的
 %% 这是一行 Obsidian 里的注释%%
 
 %% 这里是 一段 假装有 很多行的 Obsidian 里的 注释 %%
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=959026749&bvid=BV1wp4y1c7jp&cid=1282492890&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+

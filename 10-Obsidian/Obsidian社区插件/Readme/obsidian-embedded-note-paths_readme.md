@@ -1,6 +1,6 @@
 ---
 uid: 2023080322174598
-title: Obsidian 插件：【Readme】Embedded Note Paths
+title: Obsidian 插件：Embedded Note Paths
 tags: ['obsidian插件', 'readme']
 description: 在每个笔记上插入笔记文件路径。
 author: AI

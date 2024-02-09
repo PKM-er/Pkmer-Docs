@@ -16,6 +16,7 @@ modified: 20230703104612
 
 Obsidian 自带的文件浏览器，样式单一，有很大的改造余地，通过 css 可以让文件夹变的更醒目更个性化。
 
+- 通过使用 自定义样式来完成，使用方法参考 [[Obsidian的CSS代码片段]]
 ## 文件夹添加图标
 
 根据自己的文件夹名称，把名称写到 css 中就可以自定义文件夹图标，其中文件夹图标使用的是 svg 格式，[iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/) 这里有很多图标可供选择。css 中 svg 图标需要转成 base64 格式才能正确解析，通过这个网页实现转换 [SVG to CSS converter | SVG Backgrounds](https://www.svgbackgrounds.com/tools/svg-to-css/)

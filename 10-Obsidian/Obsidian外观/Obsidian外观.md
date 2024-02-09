@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20230918142803
+modified: 20240119151217
 ---
 
 # Obsidian 的外观
@@ -31,7 +31,9 @@ Obsidian 提供一些和其他软件类似的基础外观设定和操作
 
 ## 主题
 
-[[Blue Topaz]]
+- [[Blue Topaz]]
+- [[Minimal]]
+- [[PRISM]]
 
 案例：请参考 [[Obsidian优秀外观分享]]
 
@@ -39,4 +41,4 @@ Obsidian 提供一些和其他软件类似的基础外观设定和操作
 
 如果你想自定义一些样式，给你自己使用，那么你需要了解 [[Obsidian的CSS代码片段]]，这里会告诉你如何开启对应设置。以及一些可以直接使用的优秀范例。
 
-如果你想学习如何自己定义样式，那么你可以参考 [[Obsidian的CSS代码片段#自定义 CSS 简单上手指南]] 中的 Obsidian 建议样式指导。当然你可能还需要附带了解下，[[Obsidian的YAML和Frontmatter]]
+如果你想学习如何自己定义样式，那么你可以参考 [[Obsidian的CSS代码片段#自定义 CSS 简单上手指南]] 中的 Obsidian 建议样式指导。当然你可能还需要附带了解下，[[Obsidian的YAML和Frontmatter]]。[[设计极简风 Obsidian 主页]] 则提供了如何设计简单的主页方式。

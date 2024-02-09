@@ -1,5 +1,5 @@
 ---
-uid: 2023080322221181
+uid: 2023120719361955
 title: Obsidian 插件：【Readme】MathLinks
 tags: ['obsidian插件', 'readme']
 description: 在你的链接中渲染MathJax
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：MathLinks
+# Obsidian 插件：【Readme】MathLinks
 
 > [!Note] 插件名片
 > - 插件名称：MathLinks
@@ -48,7 +48,7 @@ modified: 20230101000000
 * 在 Wikilinks 和 Markdown 链接的别名中渲染 MathJax。
 * 与 [Extended MathJax](https://github.com/xldenis/obsidian-latex) 和 [Dataview](https://github.com/blacksmithgu/obsidian-dataview) 兼容。
 
-![](https://raw.githubusercontent.com/zhaoshenzhai/obsidian-mathlinks/master/.github/sample.png)
+![](https://cdn.pkmer.cn/covers/mathlinks_1_0.png!pkmer)
 
 ## 描述和用法
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322190031
+uid: 2023120719293503
 title: Obsidian 插件：【Readme】FuzzyTag
 tags: ['obsidian插件', 'readme']
 description: 前置元数据中的模糊匹配自动完成标签
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：FuzzyTag
+# Obsidian 插件：【Readme】FuzzyTag
 
 > [!Note] 插件名片
 > - 插件名称：FuzzyTag
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 感谢原始插件开发者的灵感和创建这个插件的基础。
 
-![](screenshot.png)
+![](https://cdn.pkmer.cn/covers/obsidian-fuzzytag_2_0.png!pkmer)
 
 已知问题：
 

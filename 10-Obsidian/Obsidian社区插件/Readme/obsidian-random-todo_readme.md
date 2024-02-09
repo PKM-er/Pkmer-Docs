@@ -1,6 +1,6 @@
 ---
 uid: 2023080322253361
-title: Obsidian 插件：【Readme】Random To-Do
+title: Obsidian 插件：Random To-Do
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 打开一个包含你自定义待办标记的随机文件，或者在其位置上随机标记。
 author: AI
@@ -40,6 +40,7 @@ modified: 20230101000000
 ### 术语和定义
 
 假设你在笔记中的可行动项附近留下了一个标记，比如 `todo`、`...`、`???` 等。
+
 我们将这样的标记的单个实例称为**待办事项**。
 
 这个插件做什么？
@@ -64,13 +65,17 @@ modified: 20230101000000
 这个插件的作用是什么？
 
 与 Open Random note 核心插件相同，但是使用这个插件，你只会进入那些有一些未完成的事务的文件中
+
 使用核心插件时，我不得不多次重新掷骰子来跳过已完成/实现的笔记，因此开发了这个插件。
 
 另请参阅
 
 您可能还对 [Smart Random Note Plugin](https://github.com/erichalldev/obsidian-smart-random-note) 感兴趣
+
 它具有类似的功能，但专注于不同的用例
+
 如果您经常更改模式，它可能更适合
 
 我希望有一种方法来最小化在我的用例中的点击次数，所以它并不完全符合我的需求
+
 同时拥有两者也是一个选择

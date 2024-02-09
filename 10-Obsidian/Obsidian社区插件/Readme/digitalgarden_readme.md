@@ -1,5 +1,5 @@
 ---
-uid: 2023080322171996
+uid: 2023120719264746
 title: Obsidian 插件：【Readme】Digital Garden
 tags: ['obsidian插件', 'readme']
 description: 将你的笔记发布到数字花园，供他人欣赏。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Digital Garden
+# Obsidian 插件：【Readme】Digital Garden
 
 > [!Note] 插件名片
 > - 插件名称：Digital Garden
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将你的笔记发布到数字花园，供他人欣赏。
 
-![Digital Garden](https://cdn.pkmer.cn/covers/digitalgarden.gif!pkmer)
+![Digital Garden](https://cdn.pkmer.cn/covers/digitalgarden.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 文档和示例可以在 [dg-docs.ole.dev](https://dg-docs.ole.dev/) 找到。
 
-![Digital-Garden-Demo](https://raw.githubusercontent.com/oleeskild/obsidian-digital-garden/main/img/dg-demo.gif)
+![Digital-Garden-Demo](https://cdn.pkmer.cn/covers/digitalgarden_1_0.gif)
 
 ## 特点
 
@@ -103,7 +103,7 @@ dg-publish: true
 
 您现在可以开始像通常在 Obsidian 中那样添加链接，使用双方括号，例如：[[Some Other Note]]，链接到您刚刚发布的笔记。您还可以使用 [[Some Other Note#A Header]] 的语法链接到特定的标题。请记住，您需要发布您链接到的笔记，因为这不会自动发生。这是有意设计的。您始终可以控制您实际想要发布的笔记。如果您没有发布链接的笔记，该链接将简单地导航到一个告诉用户该笔记不存在的网站。
 
-![new-note-demo](https://raw.githubusercontent.com/oleeskild/obsidian-digital-garden/main/img/new-note-demo.gif)
+![new-note-demo](https://cdn.pkmer.cn/covers/digitalgarden_1_1.gif)
 
 修改模板/网站
 

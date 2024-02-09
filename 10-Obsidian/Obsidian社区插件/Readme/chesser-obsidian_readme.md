@@ -1,5 +1,5 @@
 ---
-uid: 2023080322155147
+uid: 2023120719244427
 title: Obsidian 插件：【Readme】Chesser
 tags: ['游戏', '界面相关', '编辑工具', 'obsidian插件', 'readme']
 description: 支持在OB中编辑国际象棋棋谱，提供棋盘的查看器/编辑器
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Chesser
+# Obsidian 插件：【Readme】Chesser
 
 > [!Note] 插件名片
 > - 插件名称：Chesser
@@ -43,13 +43,13 @@ modified: 20230101000000
 
 ## 演示
 
-![chesser_demo](https://raw.githubusercontent.com/SilentVoid13/Chesser/master/imgs/chesser_demo.gif)
+![chesser_demo](https://cdn.pkmer.cn/covers/chesser-obsidian_1_0.gif)
 
 ## 用法
 
 要使用 [Chesser](https://github.com/SilentVoid13/Chesser)，首先需要声明一个 `chess` 代码块，如下所示：
 
-![chesser_block](imgs/chesser_block.png)
+![chesser_block](https://cdn.pkmer.cn/covers/chesser-obsidian_2_0.png!pkmer)
 
 这将创建一个基本的起始位置的国际象棋棋盘。
 

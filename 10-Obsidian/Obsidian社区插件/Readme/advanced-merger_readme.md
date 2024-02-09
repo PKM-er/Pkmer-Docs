@@ -1,5 +1,5 @@
 ---
-uid: 2023080322134420
+uid: 2023120719220077
 title: Obsidian 插件：【Readme】Advanced Merger
 tags: ['obsidian插件', 'readme']
 description: 合并一个文件夹的笔记以便更容易导出。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Advanced Merger
+# Obsidian 插件：【Readme】Advanced Merger
 
 > [!Note] 插件名片
 > - 插件名称：Advanced Merger
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 合并一个文件夹的笔记以便更容易导出。
 
-![Advanced Merger](https://cdn.pkmer.cn/covers/advanced-merger.gif!pkmer)
+![Advanced Merger](https://cdn.pkmer.cn/covers/advanced-merger_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 合并一个笔记文件夹以便更容易导出。该插件是为 [obsidian](https://obsidian.md/) 应用程序设计的。
 
-![预览](https://github.com/antoKeinanen/obsidian-advanced-merger/blob/master/media/1%200Ghz5j7MB_oKJdxoIc5-lg.gif?raw=true)
+![预览](https://cdn.pkmer.cn/covers/advanced-merger_1_0.gif)
 
 <p align="center">
 插件预览。图片由

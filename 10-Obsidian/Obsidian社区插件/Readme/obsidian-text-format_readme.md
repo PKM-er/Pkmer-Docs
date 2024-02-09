@@ -1,5 +1,5 @@
 ---
-uid: 2023080322280569
+uid: 2023120719443006
 title: Obsidian 插件：【Readme】Text Format
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 解决从PDF 或其他软件复制内容后，格式错乱问题。此插件将会格式化选定的文本小写/大写/大写/标题大小写，或者删除多余的空格/换行符，以及一些其他功能。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Text Format
+# Obsidian 插件：【Readme】Text Format
 
 > [!Note] 插件名片
 > - 插件名称：Text Format
@@ -238,4 +238,4 @@ modified: 20230101000000
   + 3. third, blahblah
   ```
 
-![demo](https://user-images.githubusercontent.com/35028647/121776728-149ea500-cbc1-11eb-89ee-f4afcb0816ed.gif)
+![demo](https://cdn.pkmer.cn/covers/obsidian-text-format_1_2.gif)

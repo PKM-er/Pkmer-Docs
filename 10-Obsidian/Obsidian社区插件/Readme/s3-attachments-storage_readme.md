@@ -1,5 +1,5 @@
 ---
-uid: 2023080322261661
+uid: 2023120719422330
 title: Obsidian 插件：【Readme】S3 attachments storage
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，用于在S3兼容服务上存储和检索媒体附件。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：S3 attachments storage
+# Obsidian 插件：【Readme】S3 attachments storage
 
 > [!Note] 插件名片
 > - 插件名称：S3 attachments storage
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 一个用于在 S3 兼容服务上存储和检索媒体附件的 [Obsidian](https://obsidian.md/) 插件。
 
-![](assets/welcome.gif)
+![](https://cdn.pkmer.cn/covers/s3-attachments-storage_2_0.gif)
 
 ## 开始使用
 

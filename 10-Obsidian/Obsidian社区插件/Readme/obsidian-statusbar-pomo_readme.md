@@ -1,5 +1,5 @@
 ---
-uid: 2023080322272337
+uid: 2023120719433786
 title: Obsidian 插件：【Readme】Status Bar Pomodoro Timer
 tags: ['任务管理', '状态栏', 'obsidian插件', 'readme']
 description: 将番茄钟添加到你的状态栏中。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Status Bar Pomodoro Timer
+# Obsidian 插件：【Readme】Status Bar Pomodoro Timer
 
 > [!Note] 插件名片
 > - 插件名称：Status Bar Pomodoro Timer
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这是一个在 Obsidian 的状态栏中显示 [番茄钟](https://en.wikipedia.org/wiki/Pomodoro_Technique) 的插件。
 
-![番茄钟截图](timer_screenshot.png)
+![番茄钟截图](https://cdn.pkmer.cn/covers/obsidian-statusbar-pomo_2_0.png!pkmer)
 
 使用方法
 

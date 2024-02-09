@@ -1,5 +1,5 @@
 ---
-uid: 2023080322263262
+uid: 2023120719423477
 title: Obsidian 插件：【Readme】Select current line
 tags: ['obsidian插件', 'readme']
 description: 选择光标所在的当前行。按下“ESC”键进行选择。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Select current line
+# Obsidian 插件：【Readme】Select current line
 
 > [!Note] 插件名片
 > - 插件名称：Select current line
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 选择光标所在的当前行。按下“ESC”键进行选择。
 
-![Select current line](https://cdn.pkmer.cn/covers/select-current-line.gif!pkmer)
+![Select current line](https://cdn.pkmer.cn/covers/select-current-line.gif)
 
 > [!tip] 原文出处
 >
@@ -39,7 +39,7 @@ modified: 20230101000000
 
 # 选择当前行插件
 
-![Apr-13-2023 15-22-57](https://user-images.githubusercontent.com/8376313/231723638-46cec13b-3b7e-4962-9ecb-f5b1487c67cc.gif)
+![Apr-13-2023 15-22-57](https://cdn.pkmer.cn/covers/select-current-line_1_0.gif)
 
 一个简单的插件。
 

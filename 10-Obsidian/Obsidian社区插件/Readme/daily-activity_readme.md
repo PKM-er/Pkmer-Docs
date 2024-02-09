@@ -1,6 +1,6 @@
 ---
 uid: 2023080322170117
-title: Obsidian 插件：【Readme】Daily Activity
+title: Obsidian 插件：Daily Activity
 tags: ['文件历史', '效率', '文件管理', 'obsidian插件', 'readme']
 description: 通过命令面板火快捷键，为你生成修改过的文件，创建的文件的统计或者是文件链接。
 author: AI

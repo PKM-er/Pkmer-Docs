@@ -1,5 +1,5 @@
 ---
-uid: 2023080322253442
+uid: 2023120719411747
 title: Obsidian 插件：【Readme】Rant-Lang
 tags: ['obsidian插件', 'readme']
 description: Rant是一个高级过程模板语言的薄包装。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Rant-Lang
+# Obsidian 插件：【Readme】Rant-Lang
 
 > [!Note] 插件名片
 > - 插件名称：Rant-Lang
@@ -97,7 +97,7 @@ Rant 是一个高级过程模板语言的薄包装。
 
 可能会产生以下输出（每次重新运行都会有不同的顺序）：
 
-![Cards example](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-cards.png)
+![Cards example](https://cdn.pkmer.cn/covers/obsidian-rant_1_2.png!pkmer)
 
 ### 内联
 
@@ -109,7 +109,7 @@ Rant 是一个高级过程模板语言的薄包装。
 
 结果：
 
-![内联示例](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-inline.png)
+![内联示例](https://cdn.pkmer.cn/covers/obsidian-rant_1_3.png!pkmer)
 
 ### 样式化
 
@@ -123,7 +123,7 @@ Rant 是一个高级过程模板语言的薄包装。
 
 结果：
 
-![样式化示例](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-styling.png)
+![样式化示例](https://cdn.pkmer.cn/covers/obsidian-rant_1_4.png!pkmer)
 
 ### 链接
 
@@ -137,7 +137,7 @@ Rant 是一个高级过程模板语言的薄包装。
 
 结果：
 
-![Link example](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-links.png)
+![Link example](https://cdn.pkmer.cn/covers/obsidian-rant_1_5.png!pkmer)
 
 ### 骰子掷出器
 
@@ -151,7 +151,7 @@ Rant 是一个高级过程模板语言的薄包装。
 
 结果：
 
-![骰子掷出器示例](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-dice.png)
+![骰子掷出器示例](https://cdn.pkmer.cn/covers/obsidian-rant_1_6.png!pkmer)
 
 ### 列表
 
@@ -166,7 +166,7 @@ Rant 程序可以输出如下的列表：
 
 结果：
 
-![列表示例](https://raw.githubusercontent.com/lanice/obsidian-rant/master/img/obsidian-rant-example-list.png)
+![列表示例](https://cdn.pkmer.cn/covers/obsidian-rant_1_7.png!pkmer)
 
 嵌入 Rant 块
 

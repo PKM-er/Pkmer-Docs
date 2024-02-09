@@ -1,5 +1,5 @@
 ---
-uid: 2023080322290619
+uid: 2023120719455764
 title: Obsidian 插件：【Readme】Vale
 tags: ['obsidian插件', 'readme']
 description: 使用 Vale 检查文档风格来保证一致性。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Vale
+# Obsidian 插件：【Readme】Vale
 
 > [!Note] 插件名片
 > - 插件名称：Vale
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 要查看插件的使用方法，请查看 [开始使用Obsidian Vale](https://vimeo.com/641460560)。
 
-![屏幕截图](screenshot.png)
+![屏幕截图](https://cdn.pkmer.cn/covers/obsidian-vale_2_0.png!pkmer)
 
 ## 故障排除
 

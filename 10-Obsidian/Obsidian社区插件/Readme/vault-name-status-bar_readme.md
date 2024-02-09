@@ -1,5 +1,5 @@
 ---
-uid: 2023080322291108
+uid: 2023120719460252
 title: Obsidian 插件：【Readme】Vault name in status bar
 tags: ['obsidian插件', 'readme']
 description: 在状态栏中看到您的保险库名称，并点击它以减少它。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Vault name in status bar
+# Obsidian 插件：【Readme】Vault name in status bar
 
 > [!Note] 插件名片
 > - 插件名称：Vault name in status bar
@@ -45,6 +45,6 @@ modified: 20230101000000
 选项设置以在启动时缩小或不缩小
 注意：您可以在 css 文件中更改样式
 
-![img1](./enlarged.jpg) ![img2](./reduced.jpg)
+![img1](./enlarged.jpg) ![img2](https://cdn.pkmer.cn/covers/vault-name-status-bar_2_0.jpeg!pkmer)
 
-![demo](NameVaultStatusBar.gif)
+![demo](https://cdn.pkmer.cn/covers/vault-name-status-bar_2_1.gif)

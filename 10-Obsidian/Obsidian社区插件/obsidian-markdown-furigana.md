@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174028
+modified: 20240108122021
 ---
 
 # Obsidain 插件：Markdown Furigana 日文学习如何增加假名
@@ -17,9 +17,22 @@ modified: 20230604174028
 > [!Note] 插件名片
 > - 插件名称：Markdown Furigana
 > - 插件作者：Steven Kraft
+> - 插件分类：[' 图表生成 ', ' 日语相关 ', 'obsidian 插件 ']
 > - 插件说明：日语书写中给对应的汉字生成注音假名
 > - 插件项目地址：[点我跳转](https://github.com/steven-kraft/obsidian-markdown-furigana)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-markdown-furigana)
+
+## 效果&特性
+
+### 示例
+
+Markdown|处理为|显示为
+---|---|---
+{漢字\|かんじ}|`<ruby>漢字<rt>かんじ</rt></ruby>`|<ruby>漢字<rt>かんじ</rt></ruby>
+{漢字\|かん\|じ}|`<ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby>`|<ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby>
+{北京\|ㄅㄟˇ\|ㄐㄧㄥ}|`<ruby>北<rt>ㄅㄟˇ</rt>京<rt>ㄐㄧㄥ</rt></ruby>`|<ruby>北<rt>ㄅㄟˇ</rt>京<rt>ㄐㄧㄥ</rt></ruby>
+{北京\|Běi\|jīng}|`<ruby>北<rt>Běi</rt>京<rt>jīng</rt></ruby>`|<ruby>北<rt>Běi</rt>京<rt>jīng</rt></ruby>
+{韓國\|한\|국}|`<ruby>韓<rt>한</rt>國<rt>국</rt></ruby>`|<ruby>韓<rt>한</rt>國<rt>국</rt></ruby>
 
 ## 语法
 

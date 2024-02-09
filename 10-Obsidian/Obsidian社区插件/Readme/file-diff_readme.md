@@ -1,6 +1,6 @@
 ---
 uid: 2023080322181224
-title: Obsidian 插件：【Readme】File Diff
+title: Obsidian 插件：File Diff
 tags: ['obsidian插件', 'readme']
 description: 查看两个文件之间的差异，并选择合并选项。
 author: AI

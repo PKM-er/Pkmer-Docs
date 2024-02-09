@@ -1,5 +1,5 @@
 ---
-uid: 2023080322142491
+uid: 2023120719225165
 title: Obsidian 插件：【Readme】Auto Anki
 tags: ['obsidian插件', 'readme']
 description: 使用人工智能来自动化Anki中的间隔重复卡片的创建。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Auto Anki
+# Obsidian 插件：【Readme】Auto Anki
 
 > [!Note] 插件名片
 > - 插件名称：Auto Anki
@@ -50,13 +50,13 @@ modified: 20230101000000
 
 可以通过以下热键（默认）在 Obsidian 中访问命令面板：`CMD` + `SHIFT` + `P`
 
-![command-palette-hotkey](media/command-palette-hotkey.png)。
+![command-palette-hotkey](https://cdn.pkmer.cn/covers/auto-anki_2_0.png!pkmer)。
 
 如果需要，您可以为这两个新命令设置自己的热键。
 
 这两个新命令的样式如下：
 
-![command-palette-new-commands](media/command-palette-new-commands.png)
+![command-palette-new-commands](https://cdn.pkmer.cn/covers/auto-anki_2_1.png!pkmer)
 
 ## 插件要求
 
@@ -81,11 +81,11 @@ modified: 20230101000000
 
 此命令允许您使用当前打开的文件的内容发送到 GPT 并生成一系列问题和答案。
 
-![prompt-1](media/prompt-1.png)
+![prompt-1](https://cdn.pkmer.cn/covers/auto-anki_2_2.png!pkmer)
 
 或者，您还可以指定要为每个问题生成的 _ 备选项数量 _。这样可以让 GPT 生成的“问题和答案”更加多样化，并且可以在更多的备选“问题和答案”中进行选择。选择备选项数量最适合较小的笔记。
 
-![prompt-2](media/prompt-2.png)
+![prompt-2](https://cdn.pkmer.cn/covers/auto-anki_2_3.png!pkmer)
 
 从生成的“问题和答案”列表中，您可以选择您想要的问题。
 
@@ -94,7 +94,7 @@ modified: 20230101000000
 > 如果您正在生成大量的问题或大量的问题备选项，可能需要一些时间。
 指示器将显示 `auto-anki` 当前是否正在生成您的闪卡。这将显示在屏幕底部的状态栏中，如下所示：
 
-![status-bar-running](media/status-bar-running.png)
+![status-bar-running](https://cdn.pkmer.cn/covers/auto-anki_2_4.png!pkmer)
 
 #### 将高亮文本导出到 Anki（命令：_将高亮文本导出到 Anki_）
 

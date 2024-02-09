@@ -1,5 +1,5 @@
 ---
-uid: 2023080322193947
+uid: 2023120719302793
 title: Obsidian 插件：【Readme】Heatmap Calendar
 tags: ['界面相关', '美化', '统计', 'obsidian插件', 'readme']
 description: 可视化您的数据在热图日历类似于 github 活动日历
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Heatmap Calendar
+# Obsidian 插件：【Readme】Heatmap Calendar
 
 > [!Note] 插件名片
 > - 插件名称：Heatmap Calendar
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 可视化您的数据在热图日历类似于 github 活动日历
+
+![Heatmap Calendar](https://cdn.pkmer.cn/covers/heatmap-calendar.jpeg!pkmer)
 
 > [!tip] 原文出处
 >
@@ -59,7 +61,7 @@ modified: 20230101000000
 2. 在您想要显示热力图日历的位置创建一个 [DataviewJS块](https://blacksmithgu.github.io/obsidian-dataview/api/intro/)
 3. 使用 [DataviewJS](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/) 收集您想要显示的数据
 4. 使用**renderHeatmapCalendar()**将数据传递给热力图日历
-![热力图日历示例](https://github.com/Richardsl/heatmap-calendar-obsidian/blob/master/github-images/heatmap-calendar-howto3.jpg?raw=true)
+![热力图日历示例](https://cdn.pkmer.cn/covers/heatmap-calendar_1_0.jpeg!pkmer)
 
 ## 完整示例代码
 

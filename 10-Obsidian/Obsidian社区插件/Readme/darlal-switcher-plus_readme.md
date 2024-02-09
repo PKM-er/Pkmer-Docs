@@ -1,5 +1,5 @@
 ---
-uid: 2023080322252313
+uid: 2023120719410685
 title: Obsidian 插件：【Readme】Quick Switcher++
 tags: ['导航工具', '效率', 'obsidian插件', 'readme']
 description: 使用 Quick Switcher++可以让你更快在标题之间，Obsidian 的各个模块之间，工作区模式之间，进行快速切换。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Quick Switcher++
+# Obsidian 插件：【Readme】Quick Switcher++
 
 > [!Note] 插件名片
 > - 插件名称：Quick Switcher++
@@ -70,19 +70,19 @@ modified: 20230101000000
 
 使用快捷方式启动 Switcher++，使用默认的 `#` 命令触发标题模式，然后输入搜索文本。注意，返回不同的标题级别匹配，以及别名、未解决和常规文件名匹配。
 
-![标题模式gif](https://raw.githubusercontent.com/darlal/obsidian-switcher-plus/master/demo/headings-mode.gif)
+![标题模式gif](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_3.gif)
 
 ### 符号导航
 
 使用快捷方式启动 Switcher++，过滤所有文件以找到“格式化您的笔记”文件，然后触发符号命令（默认为 `@`）直接打开文件到“外部链接”部分。
 
-![符号模式gif](https://raw.githubusercontent.com/darlal/obsidian-switcher-plus/master/demo/symbol-mode.gif)
+![符号模式gif](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_4.gif)
 
 ### 编辑器导航
 
 使用快捷键直接将 Switcher++ 启动到编辑器模式，过滤当前打开的编辑器以找到“格式化笔记”编辑器并激活它。然后再次使用 Switcher++ 打开“反向链接”侧边栏。
 
-![Symbol Mode gif](https://raw.githubusercontent.com/darlal/obsidian-switcher-plus/master/demo/editor-mode.gif)
+![Symbol Mode gif](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_5.gif)
 
 通过搜索文件中包含的标题来查找您要查找的文件，而不仅仅是搜索文件名。可以配置此模式来进行搜索：a）严格仅通过第一个 H1 标题进行搜索，如果与 H1 没有匹配，则回退到文件名搜索；b）通过所有标题进行搜索；c）遵守内置的快速切换器设置“仅显示现有”，“显示附件”和“显示所有文件类型”。默认情况下，此模式将显示前 50 个结果。
 
@@ -111,7 +111,7 @@ modified: 20230101000000
 
 例如：可以通过打开 Quick Switcher++，键入一些字符进行过滤和/或使用箭头键选择（突出显示）感兴趣的文件来查看符号。然后，一旦选择/突出显示了感兴趣的文件，键入触发字符（默认为 `@`）以查看该文件的符号。
 
-![符号大纲预览](https://raw.githubusercontent.com/darlal/obsidian-switcher-plus/master/demo/symbol-outline.png)
+![符号大纲预览](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_6.png!pkmer)
 
 ### 符号导航配置
 
@@ -135,7 +135,7 @@ modified: 20230101000000
 
 侧边栏的编辑器/视图也可以配置为在列表中显示。例如，您可以使用此功能直接从快速切换器导航到“反向链接”、“文件浏览器”、“标签窗格”等系统视图/窗格。
 
-![editor search preview](https://raw.githubusercontent.com/darlal/obsidian-switcher-plus/master/demo/edt-command.png)
+![editor search preview](https://cdn.pkmer.cn/covers/darlal-switcher-plus_1_7.png!pkmer)
 
 ### 编辑器导航配置
 

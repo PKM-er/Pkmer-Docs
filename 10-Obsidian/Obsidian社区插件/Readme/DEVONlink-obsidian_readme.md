@@ -1,5 +1,5 @@
 ---
-uid: 2023080322171556
+uid: 2023120719264020
 title: Obsidian 插件：【Readme】DEVONlink
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 在DEVONthink中打开或显示当前笔记。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：DEVONlink
+# Obsidian 插件：【Readme】DEVONlink
 
 > [!Note] 插件名片
 > - 插件名称：DEVONlink
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在 DEVONthink 中打开或显示当前笔记。
 
-![DEVONlink](https://cdn.pkmer.cn/covers/DEVONlink-obsidian_new.gif!pkmer)
+![DEVONlink](https://cdn.pkmer.cn/covers/DEVONlink-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -43,9 +43,9 @@ DEVONlink - 将 Obsidian 与 DEVONthink 集成
 
 与配套的 AppleScript 配对，将 Obsidian 和 DEVONthink 的笔记集成在一起。在此处阅读有关插件的更多信息，并找到 AppleScript：<https://axle.design/devonlink-integrate-obsidian-and-devonthink>
 
-![此视频展示了用户如何使用插件和AppleScript在Obsidian和DEVONthink之间来回打开笔记。](https://i.imgur.com/VRurr9L.gif)
+![此视频展示了用户如何使用插件和AppleScript在Obsidian和DEVONthink之间来回打开笔记。](https://cdn.pkmer.cn/covers/DEVONlink-obsidian_1_0.gif)
 
-![版本2引入了一种将DEVONthink的AI中的相关项目插入到Obsidian笔记中的方法。](https://user-images.githubusercontent.com/3618647/113517367-c6c04d80-953c-11eb-81ca-5f898c776ff0.gif)
+![版本2引入了一种将DEVONthink的AI中的相关项目插入到Obsidian笔记中的方法。](https://cdn.pkmer.cn/covers/DEVONlink-obsidian_1_1.gif)
 
 ### 如何使用
 

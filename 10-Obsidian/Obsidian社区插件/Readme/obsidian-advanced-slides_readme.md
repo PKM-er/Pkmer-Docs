@@ -1,6 +1,6 @@
 ---
 uid: 2023080322134810
-title: Obsidian 插件：【Readme】Advanced Slides
+title: Obsidian 插件：Advanced Slides
 tags: ['效率', '编辑工具', '转换工具', 'obsidian插件', 'readme']
 description: 让 Obsidian 可以创建简易的演示文稿。
 author: AI

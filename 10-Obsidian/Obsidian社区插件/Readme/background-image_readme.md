@@ -1,5 +1,5 @@
 ---
-uid: 2023080322145234
+uid: 2023120719232110
 title: Obsidian 插件：【Readme】Background Image
 tags: ['obsidian插件', 'readme']
 description: 这允许您将远程URL指定为背景图像，并进行一些设置以调整体验。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Background Image
+# Obsidian 插件：【Readme】Background Image
 
 > [!Note] 插件名片
 > - 插件名称：Background Image
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 ## 设置菜单
 
-![设置](screenshots/SettingsMenu.jpg)
+![设置](https://cdn.pkmer.cn/covers/background-image_2_0.jpeg!pkmer)
 
 这个例子没有使用模糊效果和默认的输入区域对比度。
 

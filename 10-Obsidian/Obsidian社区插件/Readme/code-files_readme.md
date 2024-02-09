@@ -1,5 +1,5 @@
 ---
-uid: 2023080322160696
+uid: 2023120719245791
 title: Obsidian 插件：【Readme】Code Files
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中使用VS Code强大的Monaco编辑器编辑代码文件。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Code Files
+# Obsidian 插件：【Readme】Code Files
 
 > [!Note] 插件名片
 > - 插件名称：Code Files
@@ -49,11 +49,11 @@ modified: 20230101000000
 
 在插件设置中，您可以配置默认编辑器可用的文件扩展名。您还可以通过右键单击侧边栏中的文件夹并点击“创建代码文件”，在命令面板中搜索“创建新的代码文件”，或使用“创建代码文件”按钮来创建新的代码文件。
 
-![img_1.png](img_1.png)
+![https://cdn.pkmer.cn/covers/code-files_2_0.png!pkmer](https://cdn.pkmer.cn/covers/code-files_2_0.png!pkmer)
 
-![img_2.png](img_2.png)
+![https://cdn.pkmer.cn/covers/code-files_2_1.png!pkmer](https://cdn.pkmer.cn/covers/code-files_2_1.png!pkmer)
 
-![img.png](img.png)
+![https://cdn.pkmer.cn/covers/code-files_2_2.png!pkmer](https://cdn.pkmer.cn/covers/code-files_2_2.png!pkmer)
 
 警告：在线依赖
 

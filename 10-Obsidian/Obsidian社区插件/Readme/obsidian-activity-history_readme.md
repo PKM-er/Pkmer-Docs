@@ -1,5 +1,5 @@
 ---
-uid: 2023080322133382
+uid: 2023120719215344
 title: Obsidian 插件：【Readme】Activity History
 tags: ['文件历史', '统计', 'obsidian插件', 'readme']
 description: 跟踪指定项目的活动，Github 之类的活动板
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Activity History
+# Obsidian 插件：【Readme】Activity History
 
 > [!Note] 插件名片
 > - 插件名称：Activity History
@@ -47,15 +47,15 @@ modified: 20230101000000
 
 #### 示例 1
 
-![example_1](https://raw.githubusercontent.com/Darakah/obsidian-activity-history/main/images/example_1.png)
+![example_1](https://cdn.pkmer.cn/covers/obsidian-activity-history_1_2.png!pkmer)
 
 #### 示例 2
 
-![example_2](https://raw.githubusercontent.com/Darakah/obsidian-activity-history/main/images/example_2.png)
+![example_2](https://cdn.pkmer.cn/covers/obsidian-activity-history_1_3.png!pkmer)
 
 #### 示例 3
 
-![example_3](https://raw.githubusercontent.com/Darakah/obsidian-activity-history/main/images/example_3.png)
+![example_3](https://cdn.pkmer.cn/covers/obsidian-activity-history_1_4.png!pkmer)
 
 用法：
 
@@ -65,7 +65,7 @@ modified: 20230101000000
 
 在要添加渲染块的笔记的编辑模式中，编写下面显示的渲染块示例。
 
-![example_4](https://raw.githubusercontent.com/Darakah/obsidian-activity-history/main/images/example_4.png)
+![example_4](https://cdn.pkmer.cn/covers/obsidian-activity-history_1_5.png!pkmer)
 
 它必须包含一个与项目路径对应的单行，例如：
 
@@ -75,7 +75,7 @@ modified: 20230101000000
 
 因此，要显示整个存储库的看板：
 
-![example_5](https://raw.githubusercontent.com/Darakah/obsidian-activity-history/main/images/example_5.png)
+![example_5](https://cdn.pkmer.cn/covers/obsidian-activity-history_1_6.png!pkmer)
 
 默认情况下，该插件仅跟踪整个存储库，即 `/`。要添加更多项目，需要在插件的设置菜单中输入项目名称（与上述相同）。如果输入的项目名称无效，则不会添加。它遵循与渲染块中输入的语法相同的语法。
 
@@ -83,7 +83,7 @@ modified: 20230101000000
 
 ## 设置
 
-![设置](https://raw.githubusercontent.com/Darakah/obsidian-activity-history/main/images/settings.png)
+![设置](https://cdn.pkmer.cn/covers/obsidian-activity-history_1_7.png!pkmer)
 
 # 自定义
 

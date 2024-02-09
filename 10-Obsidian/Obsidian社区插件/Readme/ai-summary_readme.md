@@ -1,5 +1,5 @@
 ---
-uid: 2023080322135556
+uid: 2023120719221328
 title: Obsidian 插件：【Readme】AI Notes Summary
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI生成对参考笔记的摘要。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：AI Notes Summary
+# Obsidian 插件：【Readme】AI Notes Summary
 
 > [!Note] 插件名片
 > - 插件名称：AI Notes Summary
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 要使用此插件，您需要拥有一个 OpenAI API 密钥。您可以从 [OpenAI](https://beta.openai.com/) 获取一个密钥。一旦您拥有了密钥，您可以在插件设置中输入它。您还可以在设置中指定默认提示和生成的最大令牌数。
 
-![设置](./images/settings.png)
+![设置](https://cdn.pkmer.cn/covers/ai-summary_2_0.png!pkmer)
 
 安装和配置完成后，打开一个带有指向其他笔记的链接的笔记。然后从命令面板中选择 `Summarize referenced notes` 命令。
 
@@ -78,4 +78,4 @@ Prompt: 以第一人称写一个2-3段的本周工作总结。工作完成情况
 
 您可以使用该插件来总结这些每日笔记。
 
- ![设置](./images/ai-dialog.png)
+ ![设置](https://cdn.pkmer.cn/covers/ai-summary_2_1.png!pkmer)

@@ -24,7 +24,7 @@ modified: 20230816110627
 
 在编辑器中扩展文本快捷键，运行 shell 命令和 python 脚本
 
-![Text Expander|363](https://cdn.pkmer.cn/covers/obsidian-text-expander_new.gif!pkmer)
+![Text Expander|363](https://cdn.pkmer.cn/covers/obsidian-text-expander_new.gif)
 
 > [!tip] 原文出处
 >

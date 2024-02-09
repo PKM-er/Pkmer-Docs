@@ -1,6 +1,6 @@
 ---
 uid: 2023080322162597
-title: Obsidian 插件：【Readme】Consistent attachments and links
+title: Obsidian 插件：Consistent attachments and links
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 自动移动笔记附件并更新链接
 author: AI
@@ -152,9 +152,13 @@ Obsidian 具有非常聪明的文件链接搜索功能，但如果您希望您�
 在笔记中搜索所有维基链接，并将它们转换为常规的 Markdown 链接。
 
 示例：
+
 `[[readme]]`
+
 将变成：
+
 `[readme](readme.md)`
+
 <br>
 
 ### 将所有嵌入路径转换为相对路径
@@ -162,8 +166,11 @@ Obsidian 具有非常聪明的文件链接搜索功能，但如果您希望您�
 搜索所有笔记中的嵌入内容，并将其路径转换为相对格式。
 
 示例：
+
 `![](title.png)`
+
 将变成：
+
 `![](../attachments/title.png)`
 
 这是确保所有嵌入链接准确指向正确文件的一项最重要的步骤之一，有助于保持一致性。

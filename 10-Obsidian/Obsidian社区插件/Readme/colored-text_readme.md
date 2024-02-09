@@ -1,6 +1,6 @@
 ---
 uid: 2023080322161139
-title: Obsidian 插件：【Readme】Colored Text
+title: Obsidian 插件：Colored Text
 tags: ['obsidian插件', 'readme']
 description: 给选定的文本上色。
 author: AI

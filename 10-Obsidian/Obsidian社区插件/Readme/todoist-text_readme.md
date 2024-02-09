@@ -1,5 +1,5 @@
 ---
-uid: 2023080322283140
+uid: 2023120719451392
 title: Obsidian 插件：【Readme】Todoist Text
 tags: ['obsidian插件', 'readme']
 description: 将您的 Todoist 任务与 Markdown 复选框绑定到一起。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Todoist Text
+# Obsidian 插件：【Readme】Todoist Text
 
 > [!Note] 插件名片
 > - 插件名称：Todoist Text
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将您的 Todoist 任务与 Markdown 复选框绑定到一起。
 
-![Todoist Text](https://cdn.pkmer.cn/covers/todoist-text.gif!pkmer)
+![Todoist Text](https://cdn.pkmer.cn/covers/todoist-text.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 这个 Obsidian 插件以文本为中心的方式，将你的 Todoist 任务与 Markdown 复选框集成在一起。
 
-演示：![demo](https://raw.githubusercontent.com/wesmoncrief/obsidian-todoist-text/master/demo.gif)
+演示：![demo](https://cdn.pkmer.cn/covers/todoist-text_1_0.gif)
 
 # 使用方法
 

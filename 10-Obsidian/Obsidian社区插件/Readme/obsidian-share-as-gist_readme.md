@@ -1,6 +1,6 @@
 ---
 uid: 2023080322264142
-title: Obsidian 插件：【Readme】Share as Gist
+title: Obsidian 插件：Share as Gist
 tags: ['obsidian插件', 'readme']
 description: 将Obsidian笔记分享为GitHub.com gist
 author: AI

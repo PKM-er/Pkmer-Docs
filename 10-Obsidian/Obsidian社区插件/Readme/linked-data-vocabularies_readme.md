@@ -1,5 +1,5 @@
 ---
-uid: 2023080322213423
+uid: 2023120719351262
 title: Obsidian 插件：【Readme】Linked Data Vocabularies
 tags: ['obsidian插件', 'readme']
 description: 将国会图书馆主题词表（LCSH）作为元数据添加到您的笔记中。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Linked Data Vocabularies
+# Obsidian 插件：【Readme】Linked Data Vocabularies
 
 > [!Note] 插件名片
 > - 插件名称：Linked Data Vocabularies
@@ -48,9 +48,9 @@ modified: 20230101000000
 > 它允许您向笔记中添加链接数据。
 > 请参阅 [@brimwats](https://github.com/brimwats) 的 [解释](#explanation-of-linked-data) 以更好地理解链接数据。
 
-![modal](./assets/modal.png)
+![modal](https://cdn.pkmer.cn/covers/linked-data-vocabularies_2_0.png!pkmer)
 
-![result](assets/result.png)
+![result](https://cdn.pkmer.cn/covers/linked-data-vocabularies_2_1.png!pkmer)
 
 目前，支持 Library of Congress Subject Headings。
 

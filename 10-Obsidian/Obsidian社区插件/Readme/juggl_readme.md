@@ -1,5 +1,5 @@
 ---
-uid: 2023080322205396
+uid: 2023120719314291
 title: Obsidian 插件：【Readme】Juggl
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 为Obsidian添加一个完全交互式、可样式化和可扩展的图形视图。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Juggl
+# Obsidian 插件：【Readme】Juggl
 
 > [!Note] 插件名片
 > - 插件名称：Juggl
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 为 Obsidian 添加一个完全交互式、可样式化和可扩展的图形视图。
 
-![Juggl](https://cdn.pkmer.cn/covers/juggl_new.gif!pkmer)
+![Juggl](https://cdn.pkmer.cn/covers/juggl_new.gif)
 
 > [!tip] 原文出处
 >
@@ -56,7 +56,7 @@ Juggl是一个完全交互式、可样式化和可扩展的图形视图，适用
 
 例如，您可以选择展开图形的哪些部分，以确保屏幕上没有太多的信息。您可以使用强大的 [Cytoscape.js库](https://js.cytoscape.org) 完全控制图形的样式：Juggl 具有一个有用的样式窗格，用于设置节点的颜色、形状、大小和图标。这有助于您立即了解每个节点的内容。
 
-![](https://raw.githubusercontent.com/HEmile/juggl/main/src/resources/juggl_trailer.gif)
+![](https://cdn.pkmer.cn/covers/juggl_1_0.gif)
 
 ## 特点
 

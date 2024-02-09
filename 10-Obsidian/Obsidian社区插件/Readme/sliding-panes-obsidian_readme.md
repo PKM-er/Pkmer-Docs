@@ -1,6 +1,6 @@
 ---
 uid: 2023080322270351
-title: Obsidian 插件：【Readme】Sliding Panes (Andy Matuschak Mode)
+title: Obsidian 插件：Sliding Panes (Andy Matuschak Mode)
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 支持笔记面板的堆叠模式。该模式官方已经支持。
 author: AI
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 支持笔记面板的堆叠模式。该模式官方已经支持。
 
-![Sliding Panes (Andy Matuschak Mode)](https://cdn.pkmer.cn/covers/sliding-panes-obsidian_new.gif!pkmer)
+![Sliding Panes (Andy Matuschak Mode)](https://cdn.pkmer.cn/covers/sliding-panes-obsidian_new.gif)
 
 > [!tip] 原文出处
 >
@@ -40,6 +40,7 @@ modified: 20230101000000
 滑动窗格（Andy Matuschak 模式）是 Obsidian 插件。
 
 此插件改变了主工作区中窗格的处理方式，灵感来自于 [Andy Matuschak的笔记](https://notes.andymatuschak.org/) 的用户界面。
+
 与将工作区缩小以适应面板不同，面板将保持固定宽度（但可调整大小）并堆叠，以便您可以在它们之间滚动。注释标题会旋转并添加到面板的左侧，就像脊柱一样（可选），并且会随着滚动而堆叠（也可选），方便在它们之间进行导航。
 
 （注意：要在 Obsidian 中在新窗格中打开链接，请按住 ctrl/cmd 并单击它们）
@@ -106,6 +107,7 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
+
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api)，以 Typescript 定义格式提供，其中包含描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -119,6 +121,7 @@ modified: 20230101000000
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将该仓库克隆到插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
+
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 定价

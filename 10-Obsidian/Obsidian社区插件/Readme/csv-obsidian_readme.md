@@ -1,5 +1,5 @@
 ---
-uid: 2023080322164774
+uid: 2023120719255610
 title: Obsidian 插件：【Readme】CSV Editor
 tags: ['编辑器', 'obsidian插件', 'readme']
 description: 在Obsidian中编辑CSV文件
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：CSV Editor
+# Obsidian 插件：【Readme】CSV Editor
 
 > [!Note] 插件名片
 > - 插件名称：CSV Editor
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 **备份你的 CSV 文件！** 这个插件非常新，因此是实验性的。在这个阶段，数据丢失是非常真实的可能性！
 
-![截图](https://github.com/deathau/csv-obsidian/raw/main/screenshot.png)
+![截图](https://cdn.pkmer.cn/covers/csv-obsidian_1_2.png!pkmer)
 
 ### 特点
 

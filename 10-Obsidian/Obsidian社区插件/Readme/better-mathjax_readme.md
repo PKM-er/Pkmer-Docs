@@ -1,5 +1,5 @@
 ---
-uid: 2023080322150392
+uid: 2023120719233813
 title: Obsidian 插件：【Readme】Better MathJax
 tags: ['obsidian插件', 'readme']
 description: 提供数学自动完成和可自定义的代码片段。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Better MathJax
+# Obsidian 插件：【Readme】Better MathJax
 
 > [!Note] 插件名片
 > - 插件名称：Better MathJax
@@ -45,19 +45,19 @@ modified: 20230101000000
 
 在检测到 `$$` 或 `$$$$` 块后，自动完成并进行内联 Mathjax 渲染。
 
-![2023-01-26_18-29-32.png](https://s2.loli.net/2023/01/27/gCUNFnHspqAE8e7.png)
+![2023-01-26_18-29-32.png](https://cdn.pkmer.cn/covers/better-mathjax_1_0.png!pkmer)
 
 使用快捷键显示助手模态框，用于参考和快速编辑片段。
 
-![2023-01-26_18-30-09.png](https://s2.loli.net/2023/01/27/J3QwytrSPloOYiK.png)
+![2023-01-26_18-30-09.png](https://cdn.pkmer.cn/covers/better-mathjax_1_1.png!pkmer)
 
 使用占位符进行快速导航
 
-![2023-01-26_18-36-24.png](https://s2.loli.net/2023/01/27/GdQ7wLEYeA1Xtnl.png)
+![2023-01-26_18-36-24.png](https://cdn.pkmer.cn/covers/better-mathjax_1_2.png!pkmer)
 
 完全可定制的配置
 
-![2023-01-26_18-32-28.png](https://s2.loli.net/2023/01/27/a25ItcnyXQJPMsS.png)
+![2023-01-26_18-32-28.png](https://cdn.pkmer.cn/covers/better-mathjax_1_3.png!pkmer)
 
 # 安装
 

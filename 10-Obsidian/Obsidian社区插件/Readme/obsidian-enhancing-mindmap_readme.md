@@ -1,5 +1,5 @@
 ---
-uid: 2023080322175301
+uid: 2023120719273358
 title: Obsidian 插件：【Readme】Enhancing Mindmap
 tags: ['思维导图', 'obsidian插件', 'readme']
 description: 让你使用 Markdown 创建思维导图，需要你熟悉下对应的语法。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Enhancing Mindmap
+# Obsidian 插件：【Readme】Enhancing Mindmap
 
 > [!Note] 插件名片
 > - 插件名称：Enhancing Mindmap
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 [English](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) [中文](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap/blob/main/Readme-zh.md)
 
-![test](https://user-images.githubusercontent.com/18719494/124454742-63ec8580-ddbb-11eb-8da0-7cd44f38a225.gif)
+![test](https://cdn.pkmer.cn/covers/obsidian-enhancing-mindmap_1_0.gif)
 
 ## 将输出此 markdown
 
@@ -102,7 +102,7 @@ modified: 20230101000000
 5. 在板之间同步数据
 ...
 
-![test (2)](https://user-images.githubusercontent.com/18719494/124458786-fd1d9b00-ddbf-11eb-8dbc-eeefb5b7abf5.gif)
+![test (2)](https://cdn.pkmer.cn/covers/obsidian-enhancing-mindmap_1_1.gif)
 
 ## 手动安装
 

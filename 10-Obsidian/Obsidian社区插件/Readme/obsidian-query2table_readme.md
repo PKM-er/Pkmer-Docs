@@ -1,5 +1,5 @@
 ---
-uid: 2023080322251723
+uid: 2023120719410031
 title: Obsidian 插件：【Readme】query2table
 tags: ['界面相关', '搜索/排序', 'obsidian插件', 'readme']
 description: 将查询返回的文件表示为其YAML前言的表格
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：query2table
+# Obsidian 插件：【Readme】query2table
 
 > [!Note] 插件名片
 > - 插件名称：query2table
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 该插件允许您将查询结果输出为可搜索、可排序的表格，其中包含相关笔记的前置属性。
 
-![示例代码块](https://github.com/avirut/obsidian-query2table/blob/master/imgs/codeblock.png?raw=true)
+![示例代码块](https://cdn.pkmer.cn/covers/obsidian-query2table_1_0.png!pkmer)
 
 ## 用法
 
@@ -80,11 +80,11 @@ modified: 20230101000000
 
 ### 完整结果
 
-![完整结果](https://github.com/avirut/obsidian-query2table/blob/master/imgs/full-results.png?raw=true)
+![完整结果](https://cdn.pkmer.cn/covers/obsidian-query2table_1_1.png!pkmer)
 
 ### 搜索和排序
 
-![搜索和排序](https://github.com/avirut/obsidian-query2table/blob/master/imgs/search-sort-results.png?raw=true)
+![搜索和排序](https://cdn.pkmer.cn/covers/obsidian-query2table_1_2.png!pkmer)
 
 ## 鸣谢
 

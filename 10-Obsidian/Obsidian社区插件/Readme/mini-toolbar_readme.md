@@ -15,21 +15,19 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Mini Toolbar
 > - 插件作者：AidenLx & Boninall
-> - 插件说明：Obsidian中编辑器中的迷你上下文工具栏。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件说明：Obsidian 中编辑器中的迷你上下文工具栏。
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/quorafind/obsidian-mini-toolbar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mini-toolbar)
 
 ## 概述
 
-Obsidian中编辑器中的迷你上下文工具栏。
-
-
+Obsidian 中编辑器中的迷你上下文工具栏。
 
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Mini-Toolbar/main/README.md)
-> 
+>
 
 ---
 
@@ -37,8 +35,8 @@ Obsidian中编辑器中的迷你上下文工具栏。
 
 下面是 [[mini-toolbar]] 插件的自述翻译
 
-
 # Obsidian 内联工具栏（迷你工具栏）
+
 ## 简介
 
 > 感谢
@@ -49,22 +47,26 @@ Obsidian中编辑器中的迷你上下文工具栏。
 如何使用
 
 - 在使用实时预览模式时，选择文本，然后单击工具栏中的任何按钮。
+
 ## 安装
-### 来自BRAT
 
-要安装预发布版本，请下载并启用[Obsidian42 BRAT](https://github.com/TfTHacker/obsidian42-brat)插件，添加beta存储库`quorafind/obsidian-mini-toolbar`，然后让BRAT检查更新。
-### 来自GitHub
+### 来自 BRAT
 
-1. 从GitHub存储库的Releases部分下载最新版本
+要安装预发布版本，请下载并启用 [Obsidian42 BRAT](https://github.com/TfTHacker/obsidian42-brat) 插件，添加 beta 存储库 `quorafind/obsidian-mini-toolbar`，然后让 BRAT 检查更新。
+
+### 来自 GitHub
+
+1. 从 GitHub 存储库的 Releases 部分下载最新版本
 2. 将文件放入您的保险库的插件文件夹中：`<vault>/.obsidian/plugins/obsidian-inline-toolbar`
-3. 重新加载Obsidian
+3. 重新加载 Obsidian
 4. 如果提示安全模式，您可以禁用安全模式并启用插件。
    否则，前往设置，第三方插件，确保安全模式关闭，
    然后从那里启用插件。
 
-> 注意：`.obsidian`文件夹可能是隐藏的。在macOS上，您可以按`Command+Shift+Dot`来显示
-> Finder中的文件夹。
-### 来自Obsidian
+> 注意：`.obsidian` 文件夹可能是隐藏的。在 macOS 上，您可以按 `Command+Shift+Dot` 来显示
+> Finder 中的文件夹。
+
+### 来自 Obsidian
 
 > 尚不可用
 

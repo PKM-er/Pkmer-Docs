@@ -1,5 +1,5 @@
 ---
-uid: 2023080322145709
+uid: 2023120719232951
 title: Obsidian 插件：【Readme】Beeminder Word Count Plugin
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 从Obsidian MD文件直接发布字数到Beeminder。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Beeminder Word Count Plugin
+# Obsidian 插件：【Readme】Beeminder Word Count Plugin
 
 > [!Note] 插件名片
 > - 插件名称：Beeminder Word Count Plugin
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 从 Obsidian MD 文件直接发布字数到 Beeminder。
 
-![Beeminder Word Count Plugin](https://cdn.pkmer.cn/covers/beeminder-word-count-plugin.gif!pkmer)
+![Beeminder Word Count Plugin](https://cdn.pkmer.cn/covers/beeminder-word-count-plugin.gif)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ modified: 20230101000000
 
 ## 它是做什么的
 
-![4135afb222d7d94892f57f29fd17dbb5](https://user-images.githubusercontent.com/570263/116797588-4518fc80-aab5-11eb-9f9f-12efb5260307.gif)
+![4135afb222d7d94892f57f29fd17dbb5](https://cdn.pkmer.cn/covers/beeminder-word-count-plugin_1_0.gif)
 
 1. 安装后，它将注册一个名为“发送字数到 Beeminder”的命令。
 2. 当选择该命令时，它将计算当前编辑文件中的字数。**它只会计算活动选择的区域。**

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322202445
+uid: 2023120719310870
 title: Obsidian 插件：【Readme】Imgur Plugin
 tags: ['第三方工具集成', '图片', '链接处理', 'obsidian插件', 'readme']
 description: 此插件将剪贴板中的图像上传到 imgur.com 并将上传的图像嵌入到您的笔记中
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Imgur Plugin
+# Obsidian 插件：【Readme】Imgur Plugin
 
 > [!Note] 插件名片
 > - 插件名称：Imgur Plugin
@@ -24,11 +24,11 @@ modified: 20230101000000
 
 此插件将剪贴板中的图像上传到 imgur.com 并将上传的图像嵌入到您的笔记中
 
-![Imgur Plugin](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin.GIF!pkmer)
+![Imgur Plugin](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin.gif)
 
 > [!tip] 原文出处
 >
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/gavvvr/obsidian-imgur-plugin/master/README.md)
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/gavvvr/obsidian-imgur-plugin/main/README.md)
 >
 
 ---
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 该插件将图片上传到 [imgur.com](https://imgur.com/)，而不是将其本地存储在您的 vault 中。
 
-![obsidian-imgur-plugin-demo](https://user-images.githubusercontent.com/1719646/120395609-efe33b80-c33d-11eb-9960-95b9aac0b0b9.gif)
+![obsidian-imgur-plugin-demo](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin_1_2.gif)
 
 为什么？
 
@@ -75,7 +75,7 @@ Obsidian 的设计是将所有数据存储在本地
 
 和/或由 [@santiyounger][santiyounger] 创建的视频，讨论这种方法的优缺点
 
-[![Santi Younger - Use Images Like A Pro](https://img.youtube.com/vi/-a1vJVy20cQ/0.jpg)](https://www.youtube.com/watch?v=-a1vJVy20cQ)
+[![Santi Younger - Use Images Like A Pro](https://cdn.pkmer.cn/covers/obsidian-imgur-plugin_1_3.jpeg!pkmer)](https://www.youtube.com/watch?v=-a1vJVy20cQ)
 
 [santiyounger]: <https://github.com/santiyounger>
 

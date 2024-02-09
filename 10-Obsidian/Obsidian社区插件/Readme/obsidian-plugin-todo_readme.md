@@ -1,5 +1,5 @@
 ---
-uid: 2023080322234845
+uid: 2023120719382178
 title: Obsidian 插件：【Readme】Obsidian TODO | Text-based GTD
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: Obsidian中基于文本的GTD。从您的保险库中收集所有未完成的TODO，并在今天、计划、收件箱和某天/也许列表中呈现它们。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian TODO | Text-based GTD
+# Obsidian 插件：【Readme】Obsidian TODO | Text-based GTD
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian TODO | Text-based GTD
@@ -23,6 +23,8 @@ modified: 20230101000000
 ## 概述
 
 Obsidian 中基于文本的 GTD。从您的保险库中收集所有未完成的 TODO，并在今天、计划、收件箱和某天/也许列表中呈现它们。
+
+![Obsidian TODO | Text-based GTD](https://cdn.pkmer.cn/covers/obsidian-plugin-todo.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -61,13 +63,13 @@ Obsidian 中基于文本的 GTD。从您的保险库中收集所有未完成的 
 
 ### 截图
 
-![](./assets/today.png)
+![](https://cdn.pkmer.cn/covers/obsidian-plugin-todo_2_0.png!pkmer)
 
-![](./assets/scheduled.png)
+![](https://cdn.pkmer.cn/covers/obsidian-plugin-todo_2_1.png!pkmer)
 
-![](./assets/inbox.png)
+![](https://cdn.pkmer.cn/covers/obsidian-plugin-todo_2_2.png!pkmer)
 
-![](./assets/someday.png)
+![](https://cdn.pkmer.cn/covers/obsidian-plugin-todo_2_3.png!pkmer)
 
 ### 路线图
 

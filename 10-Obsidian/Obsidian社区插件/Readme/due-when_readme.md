@@ -1,6 +1,6 @@
 ---
 uid: 2023080322173018
-title: Obsidian 插件：【Readme】Due When
+title: Obsidian 插件：Due When
 tags: ['obsidian插件', 'readme']
 description: 这将添加快捷方式，用于插入本周末或下周末的截止日期。
 author: AI

@@ -37,27 +37,17 @@ Start --> Stop
 
 ## 图表类型
 
-[[Mermaid语法-流程图]]
-
-[[Mermaid语法-时序图]]
-
-[[Mermaid语法-类图]]
-
-[[Mermaid语法-状态图]]
-
-[[Mermaid语法-实体关系图]]
-
-[[Mermaid语法-用户旅程图]]
-
-[[Mermaid语法-甘特图]]
-
-[[Mermaid语法-饼图]]
-
-[[Mermaid语法-需求图]]
-
-[[Mermaid语法-Git图]]
-
-[[Mermaid语法-一些示例]]
+- [[Mermaid语法-流程图]]
+- [[Mermaid语法-时序图]]
+- Mermaid语法-类图
+- Mermaid语法-状态
+- Mermaid语法-实体关系图
+- Mermaid语法-用户旅程图
+- Mermaid语法-甘特图
+- Mermaid语法-饼图
+- Mermaid语法-需求图
+- Mermaid语法-Git图
+- Mermaid语法-一些示例
 
 ## Mermaid 和 PlantUML 异同
 

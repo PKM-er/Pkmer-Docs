@@ -1,6 +1,6 @@
 ---
 uid: 2023080322273904
-title: Obsidian 插件：【Readme】System Theme
+title: Obsidian 插件：System Theme
 tags: ['obsidian插件', 'readme']
 description: 插件自动更新系统主题。
 author: AI

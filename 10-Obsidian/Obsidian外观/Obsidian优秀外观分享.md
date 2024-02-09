@@ -53,3 +53,5 @@ modified: 20230602192027
 ![微信图片_20230513173252.jpg](https://cdn.pkmer.cn/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230513173252.jpg!pkmer)
 
 来自群友：绛芸
+
+- [[设计极简风 Obsidian 主页]]：这里有个群友分享的如何构建这样的主页分享

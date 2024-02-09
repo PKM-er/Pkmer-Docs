@@ -1,5 +1,5 @@
 ---
-uid: 2023080322234926
+uid: 2023120719382337
 title: Obsidian 插件：【Readme】Obsidian Trello
 tags: ['第三方工具集成', '界面相关', '任务管理', 'obsidian插件', 'readme']
 description: 将 Trello 卡片连接到 Obsidian 笔记。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Obsidian Trello
+# Obsidian 插件：【Readme】Obsidian Trello
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Trello
@@ -47,7 +47,7 @@ modified: 20230101000000
 
 # Obsidian Trello
 
-![ObsidianTrello](doc/screenshot.png)
+![ObsidianTrello](https://cdn.pkmer.cn/covers/obsidian-trello_2_0.png!pkmer)
 
 ## 概述
 
@@ -65,7 +65,7 @@ modified: 20230101000000
 
 要将卡片连接到笔记，请使用 [连接Trello卡片命令](#commands) 或单击 Trello 面板中的“连接 Trello 卡片”按钮。如果已经连接了一张卡片，则有一个按钮可以链接另一张卡片。
 
-![LinkAnother](doc/link-another.png)
+![LinkAnother](https://cdn.pkmer.cn/covers/obsidian-trello_2_1.png!pkmer)
 
 **创建新卡片**
 

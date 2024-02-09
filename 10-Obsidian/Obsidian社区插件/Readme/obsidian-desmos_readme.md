@@ -1,5 +1,5 @@
 ---
-uid: 2023080322171489
+uid: 2023120719263868
 title: Obsidian 插件：【Readme】Desmos
 tags: ['obsidian插件', 'readme']
 description: 将Desmos图形嵌入您的笔记中
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Desmos
+# Obsidian 插件：【Readme】Desmos
 
 > [!Note] 插件名片
 > - 插件名称：Desmos
@@ -42,7 +42,7 @@ modified: 20230101000000
 在你的笔记中直接渲染 [Desmos](https://www.desmos.com/calculator) 图形。
 可以在线和 [离线](#offline-usage) 使用。
 
-![演示](https://user-images.githubusercontent.com/48661288/159597221-afc18198-5a3f-4a58-a6b2-a3a552a92a7f.png)
+![演示](https://cdn.pkmer.cn/covers/obsidian-desmos_1_0.png!pkmer)
 
 # 安装
 
@@ -71,7 +71,7 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![linear](https://user-images.githubusercontent.com/48661288/158956700-96525ec7-20bb-4da6-9314-106a6c43eced.png)
+  ![linear](https://cdn.pkmer.cn/covers/obsidian-desmos_1_1.png!pkmer)
 
 </details>
 
@@ -87,7 +87,7 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![latex](https://user-images.githubusercontent.com/48661288/158957163-2b561a94-08b0-40fa-b725-0e8957bd696c.png)
+  ![latex](https://cdn.pkmer.cn/covers/obsidian-desmos_1_2.png!pkmer)
 
 </details>
 
@@ -105,7 +105,7 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![restriction](https://user-images.githubusercontent.com/48661288/158957249-eb3f063e-e4c4-4d50-9935-d4fb95fd2336.png)
+  ![restriction](https://cdn.pkmer.cn/covers/obsidian-desmos_1_3.png!pkmer)
 
 </details>
 
@@ -177,7 +177,7 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![equation-control](https://user-images.githubusercontent.com/48661288/158956490-9d4eaf54-4ae6-4b1c-9f49-18e3eb456650.png)
+  ![equation-control](https://cdn.pkmer.cn/covers/obsidian-desmos_1_4.png!pkmer)
 
 </details>
 
@@ -193,7 +193,7 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![hidden](https://user-images.githubusercontent.com/48661288/161505291-9a28618a-d14e-48ec-9d5e-14b7235db733.png)
+  ![hidden](https://cdn.pkmer.cn/covers/obsidian-desmos_1_5.png!pkmer)
 
 </details>
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322280914
+uid: 2023120719443596
 title: Obsidian 插件：【Readme】Text to Speech
 tags: ['效率', '第三方工具集成', '转换工具', 'obsidian插件', 'readme']
 description: Obsidian 的语音合成功能。听取您的笔记。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Text to Speech
+# Obsidian 插件：【Readme】Text to Speech
 
 > [!Note] 插件名片
 > - 插件名称：Text to Speech
@@ -50,7 +50,7 @@ Obsidian 的语音合成功能。听取您的笔记。
 
 - 从状态栏和工具栏开始播放笔记
 - 仅在编辑模式下朗读所选文本：
-  ![Selection Demo](https://i.joethei.space/Obsidian_rjttPsYPwj.png)
+  ![Selection Demo](https://cdn.pkmer.cn/covers/obsidian-tts_1_3.png!pkmer)
 - 可与其他插件一起使用（目前包括 [RSS Reader](https://github.com/joethei/obsidian-rss)）
 
 您可以创建特定语言的语音，

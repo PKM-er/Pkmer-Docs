@@ -1,5 +1,5 @@
 ---
-uid: 2023080322193266
+uid: 2023120719301280
 title: Obsidian 插件：【Readme】Habitica Sync
 tags: ['obsidian插件', 'readme']
 description: .这个插件可以帮助将Habitica用户任务和统计数据集成到Obsidian中。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Habitica Sync
+# Obsidian 插件：【Readme】Habitica Sync
 
 > [!Note] 插件名片
 > - 插件名称：Habitica Sync
@@ -68,16 +68,16 @@ modified: 20230101000000
 	- 活动/已完成
 - 每日任务
 	- 到期/未到期/已完成
-	- [![Image from Gyazo](https://i.gyazo.com/1966b17f954dcffa954922570e860a06.png)](https://gyazo.com/1966b17f954dcffa954922570e860a06)
+	- [![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-habitica-integration_1_0.png!pkmer)](https://gyazo.com/1966b17f954dcffa954922570e860a06)
 - 习惯
-	- [![Image from Gyazo](https://i.gyazo.com/280494e620fc91548838d5b29a62652b.png)](https://gyazo.com/280494e620fc91548838d5b29a62652b)
+	- [![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-habitica-integration_1_1.png!pkmer)](https://gyazo.com/280494e620fc91548838d5b29a62652b)
 - 奖励
 
 #### 互动性
 
 - 在视图中勾选任务/日常任务
 	- 可以取消勾选已完成的习惯/待办事项
-	- [![Image from Gyazo](https://i.gyazo.com/efb858cd9d54f9d9df936da1bd5858ed.gif)](https://gyazo.com/efb858cd9d54f9d9df936da1bd5858ed)
+	- [![Image from Gyazo](https://cdn.pkmer.cn/covers/obsidian-habitica-integration_1_2.gif)](https://gyazo.com/efb858cd9d54f9d9df936da1bd5858ed)
 - 修改习惯计数器（+/-）
 
 ### 设置

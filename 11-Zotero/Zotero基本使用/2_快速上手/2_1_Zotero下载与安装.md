@@ -51,4 +51,4 @@ Zotero 官方尚未开发 Android 客户端，但官方已在招聘 Android 开�
 
 * Zoo for Zotero：[https://play.google.com/store/apps/details?id=com.mickstarify.zooforzotero](https://play.google.com/store/apps/details?id=com.mickstarify.zooforzotero) （或网上搜索安装包下载）
 
-下一篇：[[2_3_组织、管理文献库]]
+下一篇：[[2_3_组织-管理文献库]]

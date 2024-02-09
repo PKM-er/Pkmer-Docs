@@ -7,14 +7,30 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20230725152958
+modified: 20231201113636
 ---
 
 # Obsidian 主题常见问题
 
+如果以下内容还不能满足你：
+
+你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
+
 ## 主题类问题
 
 ### Bluetopz 主题和 BT 示例库
+
+#### 文档属性不显示内容 (by 熊猫)
+
+如图
+
+![image.png](https://cdn.pkmer.cn/images/20231013233201.png!pkmer)
+
+答：找到主题中的此内容，将 display 注释掉
+
+```
+.workspace-split.mod-horizontal:is(.mod-left-split,.mod-right-split) .workspace-tab-container :is(.metadata-container,.frontmatter-container) { /* display: none; */ }
+```
 
 #### 使用主题后，文件管理器，不同级的文件夹和文件缩进一样
 
@@ -40,6 +56,12 @@ body:not(.obsidian-default-image) .markdown-source-view.mod-cm6 img:not([class*=
   cursor: unset;/*这里原设置是 cursor: pointer; 修改为cursor: unset; 即可*/
 }
 ```
+
+#### 书本样式的 Callout 样式（by 熊猫）
+
+![image.png](https://cdn.pkmer.cn/images/20231108105203.png!pkmer)
+
+答：Minimal 主题的一种 callout，可以添加 CSS 来修改，[[Obsidian样式-Callout样式]]；其他类型的样式可以在 PKMer 社区的 [[Obsidian的CSS代码片段]] 查看。
 
 #### 如何获取指定地区的天气？
 

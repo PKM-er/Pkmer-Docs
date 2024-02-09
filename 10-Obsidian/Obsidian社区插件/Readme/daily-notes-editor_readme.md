@@ -1,5 +1,5 @@
 ---
-uid: 2023080322170359
+uid: 2023120719262056
 title: Obsidian 插件：【Readme】Daily Notes Editor
 tags: ['obsidian插件', 'readme']
 description: 为您提供一个插件，可以在一个页面（内联）中编辑大量日常笔记，其工作方式类似于Roam Research的默认日常笔记视图。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Daily Notes Editor
+# Obsidian 插件：【Readme】Daily Notes Editor
 
 > [!Note] 插件名片
 > - 插件名称：Daily Notes Editor
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 为您提供一个插件，可以在一个页面（内联）中编辑大量日常笔记，其工作方式类似于 Roam Research 的默认日常笔记视图。
 
-![Daily Notes Editor](https://cdn.pkmer.cn/covers/daily-notes-editor_new.gif!pkmer)
+![Daily Notes Editor](https://cdn.pkmer.cn/covers/daily-notes-editor_new.gif)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 这是一个插件，可以让您在一个页面上（内联方式）编辑一堆每日笔记，其工作方式类似于 Roam Research 的默认每日笔记视图。
 
-![每日笔记视图](https://raw.githubusercontent.com/Quorafind/Obsidian-Daily-Notes-Editor/master/image/Daily-Note-View.gif)
+![每日笔记视图](https://cdn.pkmer.cn/covers/daily-notes-editor_1_0.gif)
 
 # 特点
 

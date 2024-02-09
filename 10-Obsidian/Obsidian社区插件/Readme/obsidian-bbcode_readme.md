@@ -1,6 +1,6 @@
 ---
 uid: 2023080322145614
-title: Obsidian 插件：【Readme】BBCode Convertor
+title: Obsidian 插件：BBCode Convertor
 tags: ['obsidian插件', 'readme']
 description: 将Markdown文件转换为BBCode
 author: AI

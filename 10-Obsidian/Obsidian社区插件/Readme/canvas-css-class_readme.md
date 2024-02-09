@@ -1,5 +1,5 @@
 ---
-uid: 2023080322153185
+uid: 2023120719241175
 title: Obsidian 插件：【Readme】Canvas CSS class
 tags: ['白板相关', '样式工具', 'obsidian插件', 'readme']
 description: 给画布添加一个CSS类，还有其他属性。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Canvas CSS class
+# Obsidian 插件：【Readme】Canvas CSS class
 
 > [!Note] 插件名片
 > - 插件名称：Canvas CSS class
@@ -67,7 +67,7 @@ modified: 20230101000000
 
 此外，设置还允许您使用文件的文件路径为未打开的画布文件添加 CSS 类。即使您没有打开它，也可以向画布文件添加 CSS 类。
 
-![](docs/add_css_class_settings.png)
+![](https://cdn.pkmer.cn/covers/canvas-css-class_2_0.png!pkmer)
 
 > **警告**
 > 如果编辑了文件路径（即移动或重命名文件），则 CSS 类将不再应用。您将需要在设置中编辑文件路径。
@@ -79,7 +79,7 @@ modified: 20230101000000
 - 编辑 CSS 类（重命名）
 - 在 body 和 workspace 之间更改添加行为
 
-![](docs/canvas-settings.png)
+![](https://cdn.pkmer.cn/covers/canvas-css-class_2_1.png!pkmer)
 
 > **注意**
 > - 您不需要将 `.canvas` 添加到文件路径中。插件会为您添加
@@ -132,7 +132,7 @@ modified: 20230101000000
 - 翻译文件
 - 在 [index](plugin/i18n/index.ts) 中：
     1. 使用 `import <language> from "./locales/<language>";` 导入语言文件
-    2. 在编辑 localeMap 之前，你需要知道 Obsidian 在你的语言中使用的确切名称。你可以使用 `zh-cn`（如果你有 templater）或者打开开发者控制台（使用 CTRL+MAJ+I）并输入 `moment.locale()` 来找到它。
+    2. 在编辑 localeMap 之前，你需要知道 Obsidian 在你的语言中使用的确切名称。你可以使用 `<% tp.obsidian.moment.locale() %>`（如果你有 templater）或者打开开发者控制台（使用 CTRL+MAJ+I）并输入 `moment.locale()` 来找到它。
     3. 使用语言代码和语言名称编辑 `LocaleMap`。你需要有 `obsidian-code-language : language`（例如 `fr : french`，或者对于中文 `"zh-cn":cn`）。
 
 - 提交你的更改并将其推送到你的 fork

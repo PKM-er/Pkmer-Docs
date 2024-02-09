@@ -25,6 +25,7 @@ modified: 20230603022242
 > - 插件名称：Dynamic Highlights
 > - 插件作者：NothingIsLost
 > - 插件说明：根据正则表达式，为笔记内容增加高亮和样式
+> - 插件分类：['obsidian 插件 ']
 > - 插件项目地址：[点我跳转](https://github.com/nothingislost/obsidian-dynamic-highlights)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dynamic-highlights)
 

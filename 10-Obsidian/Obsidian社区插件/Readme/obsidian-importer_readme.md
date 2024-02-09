@@ -1,5 +1,5 @@
 ---
-uid: 2023080322202792
+uid: 2023120719311057
 title: Obsidian 插件：【Readme】Importer
 tags: ['obsidian插件', 'readme']
 description: 从其他应用程序（如Evernote）导入笔记。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Importer
+# Obsidian 插件：【Readme】Importer
 
 > [!Note] 插件名片
 > - 插件名称：Importer
@@ -37,7 +37,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-importer]] 插件的自述翻译
 
-![Obsidian导入器截图](/images/social.png)
+![Obsidian导入器截图](https://cdn.pkmer.cn/covers/obsidian-importer_2_0.png!pkmer)
 
 这个 Obsidian 插件允许你将来自其他应用和文件格式的笔记导入到你的 Obsidian vault 中。笔记会被转换为纯文本的 Markdown 文件。
 
@@ -71,7 +71,7 @@ modified: 20230101000000
 
 目前，导入没有任何特殊设置，如果你想对输出有更多的控制，请考虑使用 [Yarle](https://github.com/akosbalasko/yarle)。
 
-![Obsidian导入器截图](/images/screenshot.png)
+![Obsidian导入器截图](https://cdn.pkmer.cn/covers/obsidian-importer_2_1.png!pkmer)
 
 ## 贡献
 

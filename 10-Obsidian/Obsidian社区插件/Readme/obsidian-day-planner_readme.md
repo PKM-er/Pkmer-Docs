@@ -1,6 +1,6 @@
 ---
 uid: 2023080322171111
-title: Obsidian 插件：【Readme】Day Planner
+title: Obsidian 插件：Day Planner
 tags: ['任务管理', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器。
 author: AI
@@ -116,8 +116,6 @@ Day Planner 的标题和 `---` 规则用于标识 Day Planner 的范围。必须
 任务列表项的格式很重要，因为这是用来计算每个任务的时间和任务之间的间隔的。使用的格式应该是：
 
  `- [ ] HH:mm 任务文本`
-
-
 
  **应使用 24 小时制。**
 

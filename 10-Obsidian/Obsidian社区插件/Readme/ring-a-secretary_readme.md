@@ -1,5 +1,5 @@
 ---
-uid: 2023080322261035
+uid: 2023120719421333
 title: Obsidian 插件：【Readme】Ring a secretary
 tags: ['obsidian插件', 'readme']
 description: 又一个由ChatGPT驱动的数字秘书
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Ring a secretary
+# Obsidian 插件：【Readme】Ring a secretary
 
 > [!Note] 插件名片
 > - 插件名称：Ring a secretary
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 又一个由 ChatGPT 驱动的数字秘书
 
-![Ring a secretary](https://cdn.pkmer.cn/covers/ring-a-secretary_new.gif!pkmer)
+![Ring a secretary](https://cdn.pkmer.cn/covers/ring-a-secretary_new.gif)
 
 > [!tip] 原文出处
 >
@@ -41,7 +41,7 @@ modified: 20230101000000
 
 Obsidian 中又一个由 ChatGPT 驱动的助手。
 
-![screenshot](https://user-images.githubusercontent.com/45774780/225245960-09d5fd27-cd20-4471-adf6-c098d331f238.gif)
+![screenshot](https://cdn.pkmer.cn/covers/ring-a-secretary_1_0.gif)
 
 注意：我们需要 [ChatGPT的API密钥](https://platform.openai.com/account/api-keys) 来使用这个插件。
 

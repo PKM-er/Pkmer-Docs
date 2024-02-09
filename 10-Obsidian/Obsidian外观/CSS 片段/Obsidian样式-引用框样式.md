@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230715010553
+modified: 20231102201110
 ---
 
 # Obsidian 样式：引用框样式
@@ -171,4 +171,34 @@ margin-right:1em;
 margin-bottom:0.5em;
 margin-right:1em;
 } 
+```
+
+## 纯色背景
+
+![Pasted image 20231102200803](https://cdn.pkmer.cn/images/Pasted%20image%2020231102200803.png!pkmer)
+
+```css
+.theme-light {
+  --BlockqutoeColor_border-inline-start: rgb(177, 132, 255);
+  --BlockqutoeColor_background-color: rgb(221, 207, 245);
+}
+
+.theme-dark {
+  --BlockqutoeColor_border-inline-start: rgb(59, 21, 121);
+  --BlockqutoeColor_background-color: rgb(66, 46, 85);
+}
+
+/* PKMer网站的引用框 */
+.markdown-rendered blockquote {
+  margin: 2rem 0 2rem 0;
+  padding: 0.8em 0.8rem;
+  border-inline-start: 0.5rem solid var(--BlockqutoeColor_border-inline-start);
+  background-color: var(--BlockqutoeColor_background-color);
+  border-radius: 0 0.25rem 0.25rem 0;
+  line-height: 1.2;
+  border-radius: 0.2rem;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.05),
+    0 0 0.05rem rgba(0, 0, 0, 0.1);
+  outline: 1px solid transparent;
+}
 ```

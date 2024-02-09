@@ -1,5 +1,5 @@
 ---
-uid: 2023080322184310
+uid: 2023120719290764
 title: Obsidian 插件：【Readme】Folder notes
 tags: ['obsidian插件', 'readme']
 description: 在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于Notion提供的功能。
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Folder notes
+# Obsidian 插件：【Readme】Folder notes
 
 > [!Note] 插件名片
 > - 插件名称：Folder notes
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于 Notion 提供的功能。
 
-![Folder notes](https://cdn.pkmer.cn/covers/folder-notes.gif!pkmer)
+![Folder notes](https://cdn.pkmer.cn/covers/folder-notes.gif)
 
 > [!tip] 原文出处
 >
@@ -67,7 +67,7 @@ modified: 20230101000000
 
 #### 打开文件夹笔记
 
-![wzk25GXUpc](https://user-images.githubusercontent.com/70213368/227169041-9bc7552e-c5f5-4001-94d9-b4c80ea88bd1.gif)
+![wzk25GXUpc](https://cdn.pkmer.cn/covers/folder-notes_1_0.gif)
 
 自动创建文件夹笔记
 

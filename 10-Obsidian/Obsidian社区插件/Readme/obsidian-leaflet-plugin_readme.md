@@ -1,6 +1,6 @@
 ---
 uid: 2023080322232802
-title: Obsidian 插件：【Readme】Obsidian Leaflet
+title: Obsidian 插件：Obsidian Leaflet
 tags: ['第三方工具集成', '图片', 'obsidian插件', 'readme']
 description: 在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
 author: AI
@@ -11,14 +11,6 @@ modified: 20230101000000
 ---
 
 # Obsidian 插件：Obsidian Leaflet
-
-> [!Note] 插件名片
-> - 插件名称：Obsidian Leaflet
-> - 插件作者：Jeremy Valentine
-> - 插件说明：在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
-> - 插件分类：[' 第三方工具集成 ', ' 图片 ', 'obsidian 插件 ', 'readme']
-> - 项目地址：[点我访问](https://github.com/javalent/obsidian-leaflet)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-leaflet-plugin)
 
 ## 概述
 

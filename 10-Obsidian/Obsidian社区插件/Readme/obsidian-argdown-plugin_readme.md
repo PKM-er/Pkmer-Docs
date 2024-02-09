@@ -1,5 +1,5 @@
 ---
-uid: 2023080322141615
+uid: 2023120719224200
 title: Obsidian 插件：【Readme】Argument Map with Argdown
 tags: ['思维导图', 'obsidian插件', 'readme']
 description: 允许您编写argdown代码块并在预览中查看地图
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：Argument Map with Argdown
+# Obsidian 插件：【Readme】Argument Map with Argdown
 
 > [!Note] 插件名片
 > - 插件名称：Argument Map with Argdown
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许您编写 argdown 代码块并在预览中查看地图
 
-![Argument Map with Argdown](https://cdn.pkmer.cn/covers/obsidian-argdown-plugin_new.gif!pkmer)
+![Argument Map with Argdown](https://cdn.pkmer.cn/covers/obsidian-argdown-plugin_new.gif)
 
 > [!tip] 原文出处
 >
@@ -54,7 +54,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://raw.githubusercontent.com/amdecker/obsidian-argdown-plugin/master/demo.gif)
+![演示](https://cdn.pkmer.cn/covers/obsidian-argdown-plugin_1_0.gif)
 
 ## 如何使用
 
