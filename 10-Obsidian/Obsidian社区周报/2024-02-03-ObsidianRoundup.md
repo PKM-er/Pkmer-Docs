@@ -308,4 +308,4 @@ There are more changes, see [It's aliiiive](https://github.com/shabegom/buttons/
 
 [DarkNebula Theme](https://github.com/HW9636/DarkNebulaObsidianTheme) by _9636Dev_
 
-![[2024-02-03-Pasted image 20240203024153.png]]
+![2024-02-03-Pasted image 20240203024153.png](https://cdn.pkmer.cn/images/2024-02-03-Pasted%20image%2020240203024153.png!pkmer)
