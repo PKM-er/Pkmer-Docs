@@ -36,7 +36,7 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
 
 - [[05_Thino 的含义|关于 Thino]]
 - [[03_Thino FAQ]]
-    - [[04_Thino Pro 激活步骤]]
+    - [[04_Thino 的安装与 Pro 激活]]
 - [[01_Thino 基础使用教程]]
     - [[Thino 卡片|卡片]]
         - [[Thino 卡片菜单|Thino 菜单]]

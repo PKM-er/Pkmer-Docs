@@ -32,7 +32,7 @@ modified: 20240130173621
 - 当前 Thino 内测权限可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
 - Thino 也作为社区优先贡献者的福利，目前已经发放多位社区优质贡献者。
 
-激活步骤：[[04_Thino Pro 激活步骤]]
+激活步骤：[[04_Thino 的安装与 Pro 激活]]
 
 ### 为什么 Thino 内测要收费？
 
