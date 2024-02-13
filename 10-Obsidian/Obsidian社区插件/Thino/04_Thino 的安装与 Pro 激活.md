@@ -1,16 +1,22 @@
 ---
 uid: 20231109234445
-title: Thino Pro 激活方式
+title: Thino 的安装与 Pro 激活
 tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 激活方式
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240201135814
+modified: 20240213101101
 ---
 
-# Thino Pro 激活方式
+# Thino 的安装与 Pro 激活
+
+## 安装
+
+- Thino 当前版本还未上架到社区，所以需要你手动安装到自己的 Obsidian 仓库
+	- 如果你是 [PKMer market 插件](https://pkmer.cn/products/market/) 的用户，你可以在插件里面搜索到 Thino 并一键安装或更新
+	- 你可以参考其他插件的手动安装方法如：[[PKMer插件电脑端安装手把手教程]]、[[PKMer插件安卓端安装手把手教程]]
 
 ## 2.2.1 及之后版本
 
@@ -58,10 +64,13 @@ modified: 20240201135814
 1. 购买 Web 服务或购买 PKMer 会员打包
 2. 激活同步：
 	1. 【网站操作】在个人中心 Thino 相关页面中，找到一键激活同步，如果你找不到这个页面，你也可以选择在插件中点击 link 按钮由插件帮助你跳转到对应页面
-	2. 【网站操作】`点击激活同步`
+	2. 【网站操作】`点击激活同步`。你会发现插件的 Sync Thino 变为 unlink 状态，表明已经链接到 Web 服务。
 	3. 【插件操作】进入插件设置，`General` 中在 Sync Status 中点击 `Start`
 ![image.png](https://cdn.pkmer.cn/images/20240130152845.png!pkmer)
 
+> [!warning] 注意
+> - 同步是需要两端都使用相同账号，并开启、启用同步功能
+> - 只在一端开启同步，机器也是不知道同步到哪里的
 #### 绑定微信
 
 绑定微信后，可以发送微信内容到订阅号，并同步到 Thino
