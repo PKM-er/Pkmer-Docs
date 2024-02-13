@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240115163848
+modified: 20240213103906
 id: dacd7a42e067cce1
 ---
 
@@ -35,8 +35,8 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
 ## 目录
 
 - [[05_Thino 的含义|关于 Thino]]
-- [[03_Thino FAQ]]
-    - [[04_Thino 的安装与 Pro 激活]]
+- [[03_Thino FAQ|Thino FAQ]]
+    - [[04_Thino 的安装与 Pro 激活|Thino 的安装与 Pro 激活]]
 - [[01_Thino 基础使用教程]]
     - [[Thino 卡片|卡片]]
         - [[Thino 卡片菜单|Thino 菜单]]
@@ -56,10 +56,12 @@ Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/
     - [[Thino 回收站功能|回收站]]
 - [[02_Thino 进阶使用教程]]
     - [[Thino 快捷键|快捷键]]
+    - [[Thino 瀑布流布局]]
     - [[Thino 命令|命令]]
     - [[Thino URI|URI]]
     - [[Thino 手机分享|分享至 Thino]]
     - [[Thino 多来源功能|多来源]]
+    - [[Thino 全局唤醒]]
     - [[Thino 设置项|设置]]
         - [[Thino 设置项#基础设置|基础设置]]
         - [[Thino 设置项#本体设置|本体设置]]
