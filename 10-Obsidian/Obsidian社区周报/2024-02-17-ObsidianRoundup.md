@@ -294,7 +294,7 @@ modified: 20240217214507
 
 > Allows you to add a daily note node to the canvas that will always show today's note. The plugin will automatically keep this file node up to date with the latest daily note whenever you open the canvas.
 
-![[2024-02-17-Pasted image 20240217153011.png]]
+![2024-02-17-Pasted image 20240217153011.png](https://cdn.pkmer.cn/images/2024-02-17-Pasted%20image%2020240217153011.png!pkmer)
 
 [Contribution Graph](https://github.com/vran-dev/obsidian-contribution-graph) by _vran_
 
@@ -418,7 +418,7 @@ modified: 20240217214507
 
 ![2024-02-17-Pasted image 20240217001600.png](https://cdn.pkmer.cn/images/2024-02-17-Pasted%20image%2020240217001600.png!pkmer)
 
-![2024-02-17-Pasted image 20240217001600.png](https://cdn.pkmer.cn/images/2024-02-17-Pasted%20image%2020240217001654.png!pkmer)****
+![2024-02-17-Pasted image 20240217001600.png](https://cdn.pkmer.cn/images/2024-02-17-Pasted%20image%2020240217001654.png!pkmer)
 
 [PDF++ v0.35.1](https://github.com/RyotaUshio/obsidian-pdf-plus/releases/tag/0.35.11) by _RyotaUshio_
 
