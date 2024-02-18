@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240129183355
+modified: 20240218211056
 ---
 
 # Thino 进阶使用教程
@@ -27,8 +27,9 @@ modified: 20240129183355
 	- [[Thino 设置项#分享设置|分享设置]]
 	- [[Thino 设置项#进阶设置|进阶设置]]
 	- [[Thino 全局唤醒|全局唤醒]]
-- [[Thino 同步]]
-- [[Thino 微信内容发送到Thino]]
+- [[03_Thino Web 服务]]
+	- [[Thino 同步]]
+	- [[Thino 微信内容发送到Thino]]
 
 ## Thino 与其他软件联动
 
