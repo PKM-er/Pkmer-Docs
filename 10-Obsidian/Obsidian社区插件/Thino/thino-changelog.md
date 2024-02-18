@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240213101456
+modified: 20240218212022
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
@@ -21,8 +21,9 @@ modified: 20240213101456
 ### 新增
 
 - 支持日记同步
-	- 现在支持 Obsidian 核心插件- 日记插件的同步模式
+	- 现在支持 Obsidian 核心插件 - 日记插件的同步模式
 	- 以及之前已经支持单文件模式同步
+	- 细节参考 [[Thino 同步]]
 
 ### 调整
 
@@ -32,6 +33,14 @@ modified: 20240213101456
 ### 修复
 
 - 修复之前同步的时候并不会同步 pin 状态的问题
+- 保存 .thino.canvas / .thino.md 的时候不会保存有后缀名的文件名，例如，输入 abcd 文件名的话，并不会附带上 .thino.canvas 或者 .thino.md
+
+## Thino Web 服务更新 2024.02.18
+
+## 修复
+
+- 修复 iOS（包括 iPhone、iPad）几个端同步的异常问题
+- 逻辑上不需要更新本地端版本
 
 ## Thino 2.2.3 2024.02.08
 
