@@ -147,6 +147,7 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 	- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]] by 熊猫别熬夜
 - 文档编辑
 	- [[自定义Excalidraw脚本-快速插入时间戳笔记]] by 熊猫别熬夜
+	- [[自定义Excalidraw脚本-双击添加圆圈编号]] by 熊猫别熬夜,一鸣惊人
 - Mermaid
 	- [[自定义Excalidraw脚本-插入可以编辑的Mermaid图形]] by 一鸣惊人
 - 图片处理
