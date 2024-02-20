@@ -28,6 +28,9 @@ id: dacd7a42e067cce1
 
 Thino 单纯讲是付费产品，可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
 
+> [!note] 提示
+> - Thino 是经过作者、社区管理员、社区优质贡献者多个角色共同测试进行发版的。
+> - 如无特殊意外，会尽可能减少重大 Bug，所以推荐所有用户尽可能更新到最新版本
 ## 更新日志
 
 [[thino-changelog]]
