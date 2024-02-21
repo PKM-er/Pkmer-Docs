@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240218212022
+modified: 20240221101933
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
@@ -16,7 +16,7 @@ modified: 20240218212022
 
 需要请加入内测体验，[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
 
-## Thino 2.2.4 2024.02.??
+## Thino 2.2.4 2024.02.20
 
 ### 新增
 
@@ -24,6 +24,7 @@ modified: 20240218212022
 	- 现在支持 Obsidian 核心插件 - 日记插件的同步模式
 	- 支持在不同端设置对应的同步文件存储方式，推荐多端保持统一
 	- 细节参考 [[Thino 同步]]
+
 ### 调整
 
 - 所有行内标记符（指代删除、同步、归档的标识符），在所见即所得模式下都已经被修正成一个单独图标，当选中时可以展示原文；
