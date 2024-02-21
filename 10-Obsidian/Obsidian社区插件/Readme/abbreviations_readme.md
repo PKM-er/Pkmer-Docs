@@ -1,5 +1,5 @@
 ---
-uid: 2023120719214890
+uid: 20231220115890
 title: Obsidian 插件：【Readme】Abbreviations expander
 tags: ['obsidian插件', 'readme']
 description: 轻松创建缩写词，按下“空格”后将展开。
