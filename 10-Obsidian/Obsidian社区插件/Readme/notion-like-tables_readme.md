@@ -1,6 +1,6 @@
 ---
-uid: 2023080322170880
-title: Obsidian 插件：DataLoom
+uid: 2024022117272481
+title: Obsidian 插件：【Readme】DataLoom
 tags: ['表格', '界面相关', '效率', 'obsidian插件', 'readme']
 description: 给你类似于 Notion 中的表格编辑体验。
 author: AI
@@ -10,13 +10,13 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：DataLoom
+# Obsidian 插件：【Readme】DataLoom
 
 > [!Note] 插件名片
 > - 插件名称：DataLoom
 > - 插件作者：Trey Wallis
 > - 插件说明：给你类似于 Notion 中的表格编辑体验。
-> - 插件分类：[' 表格 ', ' 界面相关 ', ' 效率 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：['表格', '界面相关', '效率', 'obsidian插件', 'readme']
 > - 项目地址：[点我访问](https://github.com/trey-wallis/obsidian-dataloom)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?notion-like-tables)
 
@@ -27,9 +27,9 @@ modified: 20230101000000
 ![DataLoom](https://cdn.pkmer.cn/covers/notion-like-tables.PNG!pkmer)
 
 > [!tip] 原文出处
->
+> 
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/trey-wallis/obsidian-dataloom/master/README.md)
->
+> 
 
 ---
 
@@ -37,119 +37,122 @@ modified: 20230101000000
 
 下面是 [[notion-like-tables]] 插件的自述翻译
 
-![](/docusaurus/static/img/cover.png)
+【机翻】
+![](https://cdn.pkmer.cn/covers/notion-like-tables_2_0.png!pkmer)
 
-![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=下载量&query=%24%5B%22notion-like-tables%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
+![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22notion-like-tables%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
 
-在 [dataloom.xyz](https://dataloom.xyz) 找到详细的文档。
+在 [dataloom.xyz](https://dataloom.xyz) 找到详细的文档
 
-DataLoom 是一个适用于桌面和移动设备的 [Obsidian.md](https://obsidian.md/) 插件。DataLoom 允许您将来自不同来源的数据编织在一起，形成一个连贯的表格视图。
+DataLoom 是一个用于桌面和移动设备的 [Obsidian.md](https://obsidian.md/) 插件。它允许您创建类似于 [Notion.so](https://notion.so) 的数据库。
 
-支持开发
+使用 DataLoom，您可以将来自不同来源的数据编织在一起，并以不同的视图显示它们。如果您想要一种简单的方式来创建和管理数据库，并增强 Obsidian 保险库的组织，可以使用此插件。
 
-<a href="https://buymeacoffee.com/treywallis" target="_blank" rel="noopener">
-<img width="180px" src="https://img.buymeacoffee.com/button-api/?text=请我喝咖啡&amp;emoji=&amp;slug=treywallis&amp;button_colour=6a8695&amp;font_colour=ffffff&amp;font_family=Poppins&amp;outline_colour=000000&amp;coffee_colour=FFDD00" referrerpolicy="no-referrer" alt="?text=请我喝咖啡&amp;emoji=&amp;slug=treywallis&amp;button_colour=6a8695&amp;font_colour=ffffff&amp;font_family=Poppins&amp;outline_colour=000000&amp;coffee_colour=FFDD00"></a>
-
+加入 [Discord](https://discord.gg/QaFbepMdN4) 社区
 ## 关于
 
-- [截图](#screenshots)
-- [安装](#installation)
-- [入门指南](#getting-started)
-- [问题](#issues)
-- [贡献](#contributing)
-- [网络使用](#network-usage)
-- [许可证](#license)
-- [免责声明](#disclaimer)
-
+-   [截图](#screenshots)
+-   [特点](#features)
+-   [问题](#issues)
+-   [贡献](#contributing)
+-   [网络使用](#network-usage)
+-   [许可证](#license)
+-   [免责声明](#disclaimer)
 ## 截图
 
-DataLoom 支持浅色和深色模式，并支持大多数 Obsidian 主题。
+![](https://cdn.pkmer.cn/covers/notion-like-tables_2_1.png!pkmer)
+## 特点
 
-![](/docusaurus/static/img/light-mode.png)
+- 查看类型
 
-![](/docusaurus/static/img/dark-mode.png)
+    - [x] 表格
 
-选择 11 种不同的单元格类型
+- 单元格类型
 
-<img src="./docusaurus/static/img/type-menu.png" width="200">
+    - [x] 文本
+    - [x] 数字
+        - [x] 货币
+    - [x] 复选框
+    - [x] 嵌入
+    - [x] 文件
+    - [x] 日期
+    - [x] 标签
+    - [x] 多标签
+    - [x] 最后编辑时间
+    - [x] 创建时间
+    - [x] 来源
+    - [x] 来源文件
 
-类似 Notion 的标签菜单系统
+- 列
 
-![](/docusaurus/static/img/tag-menu.png)
+    - [x] 切换可见性
+    - [x] 更改名称
+    - [x] 更改类型
+    - [x] 升序或降序排序
+    - [x] 重新排序列
+    - [ ] 在左侧插入
+    - [ ] 在右侧插入
 
-切换不同列的可见性
+- 行
 
-<img src="./docusaurus/static/img/toggle-menu.png" width="200">
+    - [x] 按条件筛选
+    - [x] 按文本搜索
+    - [x] 在上方插入
+    - [x] 在下方插入
+    - [x] 重新排序行
 
-直接从表格中引用笔记
+- 导入
 
-![](/docusaurus/static/img/file-menu.png)
+    - [x] CSV
+    - [x] Markdown
 
-高级过滤菜单
+- 导出
 
-![](/docusaurus/static/img/filter-menu.png)
+    - [x] CSV
+    - [x] Markdown
+    - [ ] PDF
 
-## 安装
+- 颜色方案
 
-### 安装插件
+    - [x] 亮色
+    - [x] 暗色
 
-1. 在 Obsidian 中，打开 **设置**
-2. 进入 **社区插件**
-3. 选择 **浏览**
-4. 搜索 **DataLoom**，作者为 **Trey Wallis**
-5. 选择 **安装**
-6. 然后选择 **启用**
+- 来源
 
-### 链接织布机文件
+    - [x] 文件夹
+    - [x] 前置信息
 
-默认情况下，Obsidian 在您键入双括号 `[[` 时打开的模态框中不显示 `.loom` 文件。为了允许显示，您必须启用所有文件扩展名的检测。
+- [x] 撤销/重做
 
-1. 在 Obsidian 中，打开**设置**
-2. 选择**文件和链接**
-3. 切换**检测所有文件扩展名**
+- [x] 将 loom 文件嵌入到 Obsidian 笔记中
 
-![](/docusaurus/static/img/detect-all-extensions.png)
-
-## 入门指南
-
-首先创建一个新的织布。您可以通过在侧边栏上点击表格图标来完成此操作。
-
-<img src="./docusaurus/static/img/new-loom-sidebar.png" width="350">
-
-您还可以右键单击文件夹，然后点击**新建织布**。
-
-<img src="./docusaurus/static/img/new-loom-folder.png" width="450">
-
+- [x] 移动设备支持
 ## 路线图
 
-有关以下详细信息，请参阅我们的 [项目路线图](https://github.com/users/trey-wallis/projects/2)：
+查看我们的[项目路线图](https://github.com/users/trey-wallis/projects/2)了解以下详细信息：
 
-- 目前正在进行的工作
-- 接下来将要进行的工作
-- 等待发布的工作
+-   目前正在进行的工作
+-   接下来将要进行的工作
+-   等待发布的内容
+## 问题
 
-问题
+请查看[问题](https://github.com/trey-wallis/obsidian-dataloom/issues)以获取功能请求和错误报告。
 
-请参阅 [问题](https://github.com/trey-wallis/obsidian-dataloom/issues) 以获取功能请求和错误报告。
-
-如果您在使用插件时遇到问题，请在打开新问题之前搜索问题以查找与您的问题相关的任何未解决错误报告。
-
+如果您在使用插件时遇到问题，请在打开新问题之前搜索问题以查找与您问题相关的任何未解决错误报告。
 ## 贡献
 
-DataLoom 是一个社区插件。欢迎贡献。
-
-请参阅我们的 [贡献指南](https://github.com/trey-wallis/obsidian-dataloom/blob/master/CONTRIBUTING.md) 了解如何贡献的详细信息。
-
+请查看我们的[贡献指南](https://github.com/trey-wallis/obsidian-dataloom/blob/master/CONTRIBUTING.md)了解如何贡献。
 ## 网络使用
 
-根据 Obsidian 开发者政策，Obsidian 插件必须解释使用了哪些网络服务以及原因。
+根据[Obsidian开发者政策](https://docs.obsidian.md/Developer+policies)，Obsidian插件必须解释使用了哪些网络服务以及原因。
 
-DataLoom 将向 `https://api.github.com/repos/trey-wallis/obsidian-dataloom/releases/latest` 发起一个 `GET` 请求，以获取最新版本的 "What's New" 模态框。除此之外，DataLoom 不会发起任何其他网络请求。DataLoom 不包含客户端遥测功能。
-
+DataLoom将向`https://api.github.com/repos/trey-wallis/obsidian-dataloom/releases/latest`发出一个`GET`请求，以获取最新版本的"What's New"模态框。除此之外，DataLoom不会发出任何网络请求。DataLoom不包括客户端遥测。
 ## 许可证
 
-DataLoom 在 [GNU通用公共许可证v3.0](https://github.com/trey-wallis/obsidian-dataloom/blob/master/LICENSE) 下分发。
-
+DataLoom根据[Mozilla Public License 2.0](https://github.com/trey-wallis/obsidian-dataloom/blob/master/LICENSE)进行分发。
 ## 免责声明
 
-该插件扩展了 Obsidian.md 的功能。尽管在开发过程中经过了测试，但软件中仍可能存在错误。我**强烈建议**您频繁备份您的保险库。对于因使用该插件而丢失的任何数据，我不承担任何责任。
+This plugin extends the functionality of Obsidian.md. Although tested during development, there may still be bugs in the software. I **strongly** recommend you to make frequent backup copies of your vault. I am not responsible for any data that is lost due to the usage of this plugin.
+
+
+
