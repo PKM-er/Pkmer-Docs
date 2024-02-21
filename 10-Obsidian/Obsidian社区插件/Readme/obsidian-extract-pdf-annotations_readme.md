@@ -111,7 +111,7 @@ $ cp main.js manifest.json ~/MyVault/.obsidian/plugins/obsidian-extract-pdf-anno
 
 ## 鸣谢
 
-该插件借鉴了 Alexis Rondeaus 的插件<<https://github.com/akaalias/obsidian-extract-pdf-highlights> 的思路，但使用了 Obsidian 内置的 pdf.js 库。>
+该插件借鉴了 Alexis Rondeaus 的插件<https://github.com/akaalias/obsidian-extract-pdf-highlights> 的思路，但使用了 Obsidian 内置的 pdf.js 库。>
 
 ## 作者
 

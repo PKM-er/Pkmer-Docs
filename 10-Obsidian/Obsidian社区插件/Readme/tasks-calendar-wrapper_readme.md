@@ -15,14 +15,14 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：Tasks Calendar Wrapper
 > - 插件作者：zhuwenq
-> - 插件说明：这是 Obsidian-Tasks-Calendar（<<https://github.com/702573N/Obsidian-Tasks-Calendar）和> Obsidian-Tasks-Timeline（<https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。>>
+> - 插件说明：这是 Obsidian-Tasks-Calendar（<https://github.com/702573N/Obsidian-Tasks-Calendar）和> Obsidian-Tasks-Timeline（<https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。>
 > - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tasks-calendar-wrapper)
 
 ## 概述
 
-这是 Obsidian-Tasks-Calendar（<<https://github.com/702573N/Obsidian-Tasks-Calendar）和> Obsidian-Tasks-Timeline（<https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。>>
+这是 Obsidian-Tasks-Calendar（<https://github.com/702573N/Obsidian-Tasks-Calendar）和> Obsidian-Tasks-Timeline（<https://github.com/702573N/Obsidian-Tasks-Timeline）的简单封装。>
 
 ![Tasks Calendar Wrapper](https://cdn.pkmer.cn/covers/tasks-calendar-wrapper.png!pkmer)
 
@@ -57,7 +57,7 @@ modified: 20230101000000
 
 关于
 
-这是 Obsidian-Tasks-Calendar（<<https://github.com/702573N/Obsidian-Tasks-Calendar）和> Obsidian-Tasks-Timeline（<https://github.com/702573N/Obsidian-Tasks-Timeline）的简单包装器。>>
+这是 Obsidian-Tasks-Calendar（<https://github.com/702573N/Obsidian-Tasks-Calendar）和> Obsidian-Tasks-Timeline（<https://github.com/702573N/Obsidian-Tasks-Timeline）的简单包装器。>
 
 该插件为 [702573N](https://github.com/702573N) 的出色工作提供设置页面和更新支持，有关选项的详细信息，请参阅 [Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) 和 [Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline)。
 

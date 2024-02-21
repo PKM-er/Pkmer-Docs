@@ -141,7 +141,8 @@ docker rm obsidian-sync-share-server
 
 # 重建
 
-# .
+#
+
 
 # 查看日志
 

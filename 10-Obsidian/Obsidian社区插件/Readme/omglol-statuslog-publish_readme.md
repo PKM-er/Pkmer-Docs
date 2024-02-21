@@ -49,7 +49,7 @@ Omg.publish 是 Obsidian 的插件，允许您将笔记发布到 omg.lol 的服�
 
 ## 插件设置
 
-您需要从<<https://home.omg.lol/account（向下滚动到底部）获取您的用户名和> API 令牌。>
+您需要从<https://home.omg.lol/account（向下滚动到底部）获取您的用户名和> API 令牌。>
 
 您还可以更改在发布没有星号表情符号的文本时的默认表情符号。
 

@@ -37,7 +37,7 @@ Format Markdown content using Autocorrect.
 
 # 黑曜石自动更正插件
 
-  一个在 Obsidian（<https://obsidian.md/）上运行的插件，利用 Autocorrect（https://github.com/huacnlee/autocorrect）来格式化 Markdown 内容。>
+  一个在 Obsidian（<https://obsidian.md/）上运行的插件，利用> Autocorrect（<https://github.com/huacnlee/autocorrect）来格式化> Markdown 内容。>
 
 ## 用法
 

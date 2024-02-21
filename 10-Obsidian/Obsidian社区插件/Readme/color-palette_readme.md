@@ -64,7 +64,7 @@ modified: 20230101000000
 
 还可以通过链接创建调色板。\
 
-* 目前仅支持来自<<https://coolors.co> 和 <https://colorhunt.co> 的 URL。*>
+* 目前仅支持来自<https://coolors.co> 和 <https://colorhunt.co> 的 URL。*>
 
 <pre>
 ```palette

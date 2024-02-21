@@ -60,7 +60,7 @@ modified: 20230101000000
 - 转到该选项卡，输入以下 3 个值：
   - 您的 Beeminder 账户的用户名
   - 要将字数发布到的目标名称，以及
-  - 由<<http://api.beeminder.com/#personal-authentication-token> 指定的 auth_token。>
+  - 由<http://api.beeminder.com/#personal-authentication-token> 指定的 auth_token。>
 
 插件的维护
 

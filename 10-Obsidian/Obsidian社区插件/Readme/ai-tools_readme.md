@@ -102,6 +102,8 @@ _使用 Supabase CLI_
    # 你可以从项目的仪表盘 URL 中获取 <project-id>：https://supabase.com/dashboard/project/<project-id>
 
 
+
+
 5. 部署数据库
 
    ```bash
