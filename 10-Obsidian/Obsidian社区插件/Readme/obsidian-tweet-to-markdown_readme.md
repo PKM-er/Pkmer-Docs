@@ -79,14 +79,14 @@ modified: 20230101000000
 
 要使用此工具，您有两个选项：
 
-- 从<https://ttm.kbravh.dev 免费获取 API 密钥（v2.0.0 中的新功能）>
+- 从<<https://ttm.kbravh.dev> 免费获取 API 密钥（v2.0.0 中的新功能）>
 - 通过 Twitter 开发者控制台注册 Bearer 令牌
 
-从<https://ttm.kbravh.dev 免费获取 API 密钥是使用此插件的最简单方法，因为您不必经过 Twitter 的开发者申请流程。他们的申请流程很繁琐，而且他们并不总是批准请求。但是，您完全可以按照下面的指南从 Twitter 检索自己的 Bearer 令牌。这将为您的使用提供最大的控制、自由和安全性。>
+从<<https://ttm.kbravh.dev> 免费获取 API 密钥是使用此插件的最简单方法，因为您不必经过 Twitter 的开发者申请流程。他们的申请流程很繁琐，而且他们并不总是批准请求。但是，您完全可以按照下面的指南从 Twitter 检索自己的 Bearer 令牌。这将为您的使用提供最大的控制、自由和安全性。>
 
 ### 免费的 TTM API 密钥（❌已禁用）
 
-~~您可以通过使用 GitHub 或 Twitter 帐户登录<https://ttm.kbravh.dev 注册免费的 API 密钥，并转到您的帐户页面。一旦您登录并从帐户页面检索到您的 API 密钥，将其复制并粘贴到 Tweet> to Markdown 设置页面的 API 密钥/承载令牌字段中。如果您更希望更加保护令牌，您可以将其存储在环境变量 `TTM_API_KEY` 中。~~
+~~您可以通过使用 GitHub 或 Twitter 帐户登录<<https://ttm.kbravh.dev> 注册免费的 API 密钥，并转到您的帐户页面。一旦您登录并从帐户页面检索到您的 API 密钥，将其复制并粘贴到 Tweet> to Markdown 设置页面的 API 密钥/承载令牌字段中。如果您更希望更加保护令牌，您可以将其存储在环境变量 `TTM_API_KEY` 中。~~
 
 请注意：在 Unix 机器上，请确保在您的配置文件（例如 `~/.bash_profile`）中设置此环境变量，以便 Obsidian 可以使用它。
 

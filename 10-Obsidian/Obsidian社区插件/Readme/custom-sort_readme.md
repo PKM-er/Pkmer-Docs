@@ -41,7 +41,7 @@ modified: 20230101000000
 
 [长而且更详细的高级README.md在这里](./advanced-README.md)
 
-在文件资源管理器中自由排列笔记和文件夹（<https://obsidian.md 插件）>
+在文件资源管理器中自由排列笔记和文件夹（<<https://obsidian.md> 插件）>
 
 完全控制笔记和文件夹的顺序：
 
@@ -178,7 +178,7 @@ sorting-spec: |
 
 ### 来自官方 Obsidian 社区插件页面
 
-插件可以和应该从官方 Obsidian 社区插件列表（<https://obsidian.md/plugins）或直接在 Obsidian 应用程序中安装。>
+插件可以和应该从官方 Obsidian 社区插件列表（<<https://obsidian.md/plugins）或直接在> Obsidian 应用程序中安装。>
 
 通过其名称“CUSTOM FILE EXPLORER SORTING”搜索插件。
 

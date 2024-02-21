@@ -52,7 +52,7 @@ dida: true
 ---
 ```
 
-3. Execute the command `Dida Todo Sync: Sync Todos`
+1. Execute the command `Dida Todo Sync: Sync Todos`
 **Default Behavior**
 
 - By default, sync all todos within the past six months (including completed and uncompleted ones, but excluding abandoned ones).

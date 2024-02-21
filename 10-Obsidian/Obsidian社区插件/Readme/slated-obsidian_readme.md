@@ -109,4 +109,4 @@ modified: 20230101000000
 
 非常感谢 [Liam Cain](https://github.com/liamcain) 对 [Obsidian Calendar
 
-Plugin](https://github.com/liamcain/obsidian-calendar-plugin) 的改进，使其能够被其他插件广泛使用！
+Plugin](<https://github.com/liamcain/obsidian-calendar-plugin)> 的改进，使其能够被其他插件广泛使用！

@@ -39,11 +39,11 @@ modified: 20230101000000
 
 硅：Obsidian 的人工智能
 
-这是 Obsidian 的一个插件（<https://obsidian.md）。它通过使用 OpenAI> API 的文本嵌入，添加了一个连接您的笔记的面板。
+这是 Obsidian 的一个插件（<<https://obsidian.md）。它通过使用> OpenAI> API 的文本嵌入，添加了一个连接您的笔记的面板。
 
 开始使用
 
-您只需要一个 OpenAI API 密钥（您可以在<https://beta.openai.com/signup 上获取）。一旦您获得了 API 密钥，您可以按照以下步骤安装插件：>
+您只需要一个 OpenAI API 密钥（您可以在<<https://beta.openai.com/signup> 上获取）。一旦您获得了 API 密钥，您可以按照以下步骤安装插件：>
 
 - 在发布页面（<https://github.com/deepfates/silicon/releases）上找到最新的发布版本。>
 - 下载文件 `main.js`，`manifest.json` 和 `styles.css`。

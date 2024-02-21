@@ -86,7 +86,7 @@ modified: 20230101000000
 - 模板建议者，由 [SilentVoid13](https://github.com/SilentVoid13) 和 [Liamcain](https://github.com/liamcain) 创建（他们的插件：[Templater](https://github.com/SilentVoid13/Templater/)，[Periodic notes](https://github.com/liamcain/obsidian-periodic-notes)）
 - 应用模板到笔记，最早见于 [Mgmeyers](https://github.com/mgmeyers) 的<https://github.com/mgmeyers/obsidian-kanban/>
 - 文件夹下划线，灵感来自<https://github.com/aidenlx/alx-folder-note>
-- 阻止文件夹折叠，基本思路来自<https://github.com/alangrainger/obsidian-folder-notes 和一些代码行>
+- 阻止文件夹折叠，基本思路来自<<https://github.com/alangrainger/obsidian-folder-notes> 和一些代码行>
 - 基本思路来自<https://github.com/xpgo/obsidian-folder-note-plugin>
 
 支持插件的开发

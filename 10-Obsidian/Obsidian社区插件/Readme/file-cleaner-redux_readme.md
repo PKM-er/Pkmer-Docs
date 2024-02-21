@@ -37,7 +37,7 @@ modified: 20230101000000
 
 下面是 [[file-cleaner-redux]] 插件的自述翻译
 
-文件清理程序 Redux 是 Obsidian（<https://obsidian.md）的插件，可根据几个简单的用户定义规则帮助删除未使用/空的 Markdown 文件和附件。>
+文件清理程序 Redux 是 Obsidian（<<https://obsidian.md）的插件，可根据几个简单的用户定义规则帮助删除未使用/空的> Markdown 文件和附件。>
 
 基于<https://github.com/Johnson0907/obsidian-file-cleaner>
 

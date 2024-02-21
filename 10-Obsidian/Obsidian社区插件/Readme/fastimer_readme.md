@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Fastimer
 > - 插件作者：vkostyanetsky
 > - 插件说明：Intermittent fasting tracker.
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/vkostyanetsky/ObsidianFastimer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?fastimer)
 
@@ -24,12 +24,10 @@ modified: 20230101000000
 
 Intermittent fasting tracker.
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vkostyanetsky/ObsidianFastimer/main/README.md)
-> 
+>
 
 ---
 
@@ -37,13 +35,13 @@ Intermittent fasting tracker.
 
 下面是 [[fastimer]] 插件的自述翻译
 
-
 # Fastimer ⌛ ⏲️ ⌚
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，旨在帮助您监控您的 [禁食间隔](https://en.wikipedia.org/wiki/Intermittent_fasting)。
+
 ## 🙂 如何使用它？
 
-这个想法很简单：当你开始一次新的禁食时，在一个笔记中添加一个`fastimer`块，设置一个你开始的日期和时间。
+这个想法很简单：当你开始一次新的禁食时，在一个笔记中添加一个 `fastimer` 块，设置一个你开始的日期和时间。
 
 例如：
 
@@ -87,18 +85,17 @@ Intermittent fasting tracker.
 2024-02-06 18:50
 2024-02-07 15:00
 ```
+
 ## 🤔 问题
+
 ### 我如何设置禁食间隔的长度？
 
-假设常规禁食的长度为16小时，因为这相当受欢迎。但是，您可以在插件的设置中更改默认值，或者直接为一个特定的禁食设置它。
+假设常规禁食的长度为 16 小时，因为这相当受欢迎。但是，您可以在插件的设置中更改默认值，或者直接为一个特定的禁食设置它。
 
-下面，我们将进行18小时的禁食：
+下面，我们将进行 18 小时的禁食：
 
 ```
 ```fastimer
 18
 2024-02-06 18:50
 ```
-
-
-

@@ -122,6 +122,7 @@ modified: 20230101000000
 * **Obsidian 集成** - 链接到制作闪卡的文件，完整的链接和图像嵌入支持。
 * **自定义语法** - 使用**正则表达式**，添加自定义语法以生成**适合您的笔记**。一些示例：
   * RemNote 单行样式。`This is how to use::Remnote single-line style`
+
   ![Remnote 1](https://cdn.pkmer.cn/covers/obsidian-to-anki-plugin_2_0.png!pkmer)
 
   * 标题段落样式。

@@ -128,7 +128,6 @@ field2:: 5
 | 排序              | `s(a)`, `sd`   | 按升序或降序排序结果。                                                                             |
 | 使唯一            | `u`            | 骰子将重新投掷，直到所有结果都是唯一的。                                                           |
 
-
 ### 修改器条件
 
 [Explode](#explode)、[Explode and Combine](#explode--combine) 和 [Re-roll](#re-roll) 修改器都支持可选的条件运算符。如果提供了条件运算符，它会改变应用修改器的骰子结果。

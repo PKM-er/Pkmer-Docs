@@ -43,4 +43,4 @@ modified: 20230101000000
 
 ![生成器的gif图](https://cdn.pkmer.cn/covers/fantasy-name_2_0.gif)
 
-_ 该插件调用<https://fantasyname.lukewh.com/来生成名称。请参阅 https://fantasyname.lukewh.com/help 以获取使用方法。_>
+_ 该插件调用<<https://fantasyname.lukewh.com/来生成名称。请参阅> <https://fantasyname.lukewh.com/help> 以获取使用方法。_>

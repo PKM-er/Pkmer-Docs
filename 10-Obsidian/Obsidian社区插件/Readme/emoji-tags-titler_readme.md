@@ -1,6 +1,6 @@
 ---
 uid: 2023120719273199
-title: Obsidian 插件：【Readme】EmoTagsTitler
+title: Obsidian 插件：EmoTagsTitler
 tags: ['obsidian插件', 'readme']
 description: 将标签中包含的表情符号添加到笔记标题的开头。
 author: AI

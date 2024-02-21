@@ -175,9 +175,9 @@ body {
 ## 注意事项
 
 1. 我一直免费开发这个项目。我尽量优先考虑功能而不是花哨的东西。我也根据 ICE（影响力、信心、努力）来优先处理任务。
-2. 我还有其他正在进行的项目。我需要开源的帮手。赞助将给我动力，代码贡献者也非常受欢迎。我愿意通过<https://cal.com/manlung 进行讨论。>
+2. 我还有其他正在进行的项目。我需要开源的帮手。赞助将给我动力，代码贡献者也非常受欢迎。我愿意通过<<https://cal.com/manlung> 进行讨论。>
 3. 如果您有任何问题或功能请求，请在 Github 上提出问题。
-如果您喜欢这个插件，请通过在 Github 上赞助我或在<https://www.buymeacoffee.com/yomaru 上给我买杯咖啡来支持我的工作和热情。>
+如果您喜欢这个插件，请通过在 Github 上赞助我或在<<https://www.buymeacoffee.com/yomaru> 上给我买杯咖啡来支持我的工作和热情。>
 
  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/hananoshikayomaru)
 
