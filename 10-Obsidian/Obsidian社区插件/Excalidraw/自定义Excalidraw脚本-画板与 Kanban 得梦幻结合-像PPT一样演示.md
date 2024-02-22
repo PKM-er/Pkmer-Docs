@@ -39,7 +39,7 @@ modified: 20240122223401
 首先感谢群友 @颜凯 提供了以下的使用教程，比我写的好多了，我估计都不会写这些详细，以后注意并学习一下 (by 熊猫 24.01.15)
 
 - 前提条件：
-	- 1、安装 kanban 脚本（教程详见：[[Excalidraw如何安装脚本和脚本设置介绍]])）
+	- 1、安装 kanban 脚本（教程详见：[[Excalidraw如何安装脚本_脚本设置介绍]])
 	- 2、安装 kanban 插件
 - 脚本设置
 	- ![自定义 Excalidraw 脚本 - 画板与 Kanban 得梦幻结合 - 像 PPT 一样演示](https://cdn.pkmer.cn/images/202401222205481.png!pkmer)
@@ -82,7 +82,7 @@ Kanban 文件的刷新稍微有点延迟，而且 Excalidraw 的局部引用视�
 
 ## EA 脚本
 
-[[Excalidraw如何安装脚本和脚本设置介绍]]
+[[Excalidraw如何安装脚本_脚本设置介绍]]
 
 ```js
 const fs = require('fs');

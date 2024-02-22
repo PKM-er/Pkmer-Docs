@@ -166,7 +166,7 @@ const eaApi = ExcalidrawAutomate;
 let settings = ea.getScriptSettings();
 if (!settings["notebooksPath"]) settings["notebooksPath"] = { value: false };
 if (!settings["notebooksPath"].value) {
-    new Notice("🔴请配置Zotero的Library路径和其他相关设置！", 2000);
+    new Notice("🔴请配置脚本的相关设置！！", 2000);
     settings = {
         "notebooksPath": {
             value: "",
