@@ -141,7 +141,8 @@ module.exports = async () => {
         if (canvasFile) {
             app.vault.modify(canvasFile, canvasJson);
         } else {
-            file = await app.vault.create(canvasFile, canvasJson);
+            file = await app.vault.create(canvasPath, canvasJson);
+            canvasFile = app.vault.getAbstractFileByPath(canvasPath);
         }
         app.workspace.activeLeaf.openFile(canvasFile);
 
@@ -329,7 +330,8 @@ module.exports = async () => {
         if (canvasFile) {
             app.vault.modify(canvasFile, canvasJson);
         } else {
-            file = await app.vault.create(canvasFile, canvasJson);
+            file = await app.vault.create(canvasPath, canvasJson);
+            canvasFile = app.vault.getAbstractFileByPath(canvasPath);
         }
         app.workspace.activeLeaf.openFile(canvasFile);
 
