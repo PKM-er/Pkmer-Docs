@@ -36,7 +36,6 @@ modified: 20240124114857
 - 通过使用 自定义样式来完成，使用方法参考 [[Obsidian的CSS代码片段]]
 
 ```CSS
-
 /*thino id & webid*/
 .cm-comment.cm-link.cm-quote.cm-quote-1{
 	display:none;
@@ -47,7 +46,7 @@ modified: 20240124114857
 }
 
 /*日记模式*/
-.cm-hmd-barelink.cm-link.cm-list-1 {
+span:not(.cm-formatting-link).cm-hmd-barelink.cm-link.cm-list-1 {
 	display:none;
 }
 
