@@ -32,7 +32,7 @@ Canvas 是可以只显示文档的块和标题的，具体格式如下，标题�
 
 ## 实现过程和效果
 
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-1](https://cdn.pkmer.cn/images/202402222335490.gif!pkmer)
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-1](https://cdn.pkmer.cn/images/202402230946313.gif!pkmer)
 
 - 获取当前笔记路径
 	- 提取所有标题 (可选范围，即标题参数)，暂定二级标题
@@ -62,11 +62,11 @@ const canvasPath = "未命名.canvas";
 
 将下述脚本放在 Quickadd 的配置文件夹下，保存为 `convertMdToCanvas.js` 文件，在 Quickadd 插件设置添加 Macro 动作：
 
-![[2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-2.png]]
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-2](https://cdn.pkmer.cn/images/202402230946314.png!pkmer)
 
 在 Scripts 中选择对应的 `convertMdToCanvas` 脚本，点击添加即可：
 
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-3](https://cdn.pkmer.cn/images/202402222335491.png!pkmer)
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-3](https://cdn.pkmer.cn/images/202402230946315.png!pkmer)
 
 ### 脚本
 
@@ -141,8 +141,7 @@ module.exports = async () => {
         if (canvasFile) {
             app.vault.modify(canvasFile, canvasJson);
         } else {
-            file = await app.vault.create(canvasPath, canvasJson);
-            canvasFile = app.vault.getAbstractFileByPath(canvasPath);
+            canvasFile = app.vault.create(canvasPath, canvasJson);
         }
         app.workspace.activeLeaf.openFile(canvasFile);
 
@@ -179,7 +178,7 @@ function getHeadings(fileFullPath, level) {
 
 ## 配合 Modal Form 插件来调节参数
 
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-4](https://cdn.pkmer.cn/images/202402222335492.png!pkmer)
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-4](https://cdn.pkmer.cn/images/202402230946316.png!pkmer)
 
 > 配合 ModalForm 插件写了个表单，可以设置参数，不过体验下来，还不如提前把参数设置好一键切换来的方便，还不需要额外安装插件。
 
@@ -330,8 +329,7 @@ module.exports = async () => {
         if (canvasFile) {
             app.vault.modify(canvasFile, canvasJson);
         } else {
-            file = await app.vault.create(canvasPath, canvasJson);
-            canvasFile = app.vault.getAbstractFileByPath(canvasPath);
+            canvasFile = app.vault.create(canvasPath, canvasJson);
         }
         app.workspace.activeLeaf.openFile(canvasFile);
 
@@ -366,11 +364,44 @@ function getHeadings(fileFullPath, level) {
 }
 ```
 
+## Quickadd 配置 Capture
+
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-5](https://cdn.pkmer.cn/images/202402230946317.png!pkmer)
+
+### 脚本
+
+该代码由 Obsidian 中文论坛的 PlayerMiller 提供，来源于：<https://forum-zh.obsidian.md/t/topic/30401/11>
+
+````md
+```js quickadd
+const fs = require('fs'), getFBP = path => app.vault.getAbstractFileByPath(path), getHeadings = (vFPath, lv) => {
+    let fileContent = fs.readFileSync(vFPath, 'utf-8'), regex = new RegExp(`^#{2,${lv}} (.+)`, 'gm')
+        , mats = [], mat; while ((mat = regex.exec(fileContent)) !== null) mats.push(`#${mat[1]}`); return mats;
+}
+    , file = app.workspace.getActiveFile(), vFPath = app.vault.adapter.getFullPath(file.path), cvsData = { nodes: [], edges: [] }
+    , lv = 2, width = 960, height = 760, space = 50, limit = 4, cvsPath = '未命名.canvas'; // 参数行
+switch (file.extension) {
+    case 'md': let heads = getHeadings(vFPath, lv), x = 0, y = 0, n = 1, nodes = [];
+        for (let i = 1; i <= heads.length; i++) {
+            let node = { id: '', type: 'file', file: file.path, subpath: '', x: 0, y: 0, width: width, height: height };
+            node.subpath = heads[i - 1]; node.id = i; node.x = x; node.y = y; x += width + space;
+            if (i >= limit * n) { y += height + space; x = 0; n += 1; }; nodes.push(node);
+        }; cvsData.nodes = nodes; let cvsFile = getFBP(cvsPath), cvsJson = JSON.stringify(cvsData, null, 2);
+        if (cvsFile) { app.vault.modify(cvsFile, cvsJson); } else cvsFile = await app.vault.create(cvsPath, cvsJson);
+        app.workspace.activeLeaf.openFile(cvsFile); break;
+    case 'canvas': fs.readFile(vFPath, 'utf8', (err, data) => {
+        if (err) throw err; let mdFilePath = JSON.parse(data).nodes[0].file;
+        app.workspace.activeLeaf.openFile(getFBP(mdFilePath));
+    }); break;
+}
+```
+````
+
 ## 拓展想法
 
 如果确定每个标题的格式 (如：草稿、提示、总结)，是否可以按照康奈尔笔记布局一样生成对应的 Canvas 来编辑：
 
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-5](https://cdn.pkmer.cn/images/202402222335493.png!pkmer)
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-6](https://cdn.pkmer.cn/images/202402230946318.png!pkmer)
 
 ## References
 
