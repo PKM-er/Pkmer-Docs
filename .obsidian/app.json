@@ -21,5 +21,6 @@
   "showLineNumber": true,
   "propertiesInDocument": "visible",
   "showUnsupportedFiles": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "newFileLocation": "current"
 }
