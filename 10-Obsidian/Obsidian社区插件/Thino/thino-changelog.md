@@ -31,9 +31,17 @@ modified: 20240221101933
 	- 标签支持排序功能
 		- 支持标签按照名称进行正序（A-Z）和倒序排列（Z-A）
 		- 支持按照标签使用次数排序，包括正序、倒序
-	- ![image.png](https://cdn.pkmer.cn/images/20240223094836.png!pkmer)
+	- ![image.png|250](https://cdn.pkmer.cn/images/20240223094836.png!pkmer)
 - 日期筛选器不再依赖 [[nldates-obsidian]] 插件，且有独立的日期选择按钮
-![970e8867e06597a74fbe6e4c5b31bff.png|500](https://cdn.pkmer.cn/images/970e8867e06597a74fbe6e4c5b31bff.png!pkmer)
+![image.png|450](https://cdn.pkmer.cn/images/20240223185317.png!pkmer)
+
+- 检索式
+	- 提供标签检索体验优化，可以在标签检索式中收入标签内容来快速匹配选择标签
+	- ![image.png|450](https://cdn.pkmer.cn/images/20240223185212.png!pkmer)
+	- 检索式中日期，在原日期点击后可以展现快捷筛选，选择更大日期范围
+	- ![1708685795805.jpg|450](https://cdn.pkmer.cn/images/1708685795805.jpg!pkmer)
+	- 点击日历模式筛选后筛选器支持直接在日期未知调整筛选
+	- ![image.png|450](https://cdn.pkmer.cn/images/20240223190037.png!pkmer)
 
 ## Thino 2.2.4 2024.02.20
 
