@@ -1,8 +1,8 @@
 ---
 uid: 20231109234445
-title: Thino 的安装与 Pro 激活
+title: Thino 安装、Pro 激活与 Web 服务
 tags: [Obsidian, Obsidian插件, Thino]
-description: Thino 激活方式
+description: Thino 安装、Pro 激活与 Web 服务
 author: Bon,OS,PKMer
 type: other
 draft: false
@@ -10,7 +10,7 @@ editable: false
 modified: 20240213101101
 ---
 
-# Thino 的安装与 Pro 激活
+# Thino 安装、Pro 激活与 Web 服务
 
 ## 安装
 
@@ -36,6 +36,16 @@ modified: 20240213101101
 - Thino Web 服务
 	- 同步功能激活
 	- 绑定微信，打通微信信息
+
+### Thino Pro 获取
+
+购买模式：
+
+- Thino 基础版是免费的，未来会延续在 Obsidian 官方市场，PKMer market 等位置。但请注意，基础版不会对基础特性进行新增，除非有重大原因和体验问题，否则只会进行稳定性修复
+- Thino Pro：后续所有新特性会在这里更新，可独立购买
+- 以上，Thino 基础版和 Thino Pro 的更新日志参考 [[thino-changelog]]，[购买链接](https://pkmer.cn/products/thino/) 
+- Thino Web 服务，包含微信同步，Thino 中信息多端同步。可独立购买，针对提前支持 Thino Pro 的用户会免费试用到 Thino Web 服务价格出台为止。目前定价尚未公布
+- 整合 PKMer 会员打包购买，会包括 Thino Pro 和 Thino Web 服务，设置一个打包的优惠价格，目前定价尚未公布
 
 ### Thino Pro 验证激活
 
@@ -72,6 +82,7 @@ modified: 20240213101101
 > [!warning] 注意
 > - 同步是需要两端都使用相同账号，并开启、启用同步功能
 > - 只在一端开启同步，机器也是不知道同步到哪里的
+
 #### 绑定微信
 
 绑定微信后，可以发送微信内容到订阅号，并同步到 Thino
@@ -80,7 +91,8 @@ modified: 20240213101101
 
 ## 2.2 及之前版本
 
-鼓励用户升级到新版，后续此激活方式将会在未来下线。
+> [!note] 提示
+> 鼓励用户升级到新版，后续此激活方式将会在未来下线。
 
 ### 获取安装包
 
