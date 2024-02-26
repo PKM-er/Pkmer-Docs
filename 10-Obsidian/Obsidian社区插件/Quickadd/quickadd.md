@@ -28,6 +28,7 @@ modified: 20240111113104
 - [[QuickAdd脚本-插入Zotero的条目PDF链接]]
 - [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
 - [[copy-selection-in-canvas]]
+- [[QuickAdd脚本-随机漫游笔记]]
 
 ## 参考资料
 
