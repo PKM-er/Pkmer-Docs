@@ -32,16 +32,23 @@ modified: 20240221101933
 		- 支持标签按照名称进行正序（A-Z）和倒序排列（Z-A）
 		- 支持按照标签使用次数排序，包括正序、倒序
 	- ![image.png|250](https://cdn.pkmer.cn/images/20240223094836.png!pkmer)
+- 筛选
+	- 筛选后，在复制按钮旁边会有当前匹配的所有 Thino 数量
+![image.png|600](https://cdn.pkmer.cn/images/20240226115508.png!pkmer)
+
 - 日期筛选器不再依赖 [[nldates-obsidian]] 插件，且有独立的日期选择按钮
-![image.png|450](https://cdn.pkmer.cn/images/20240223185317.png!pkmer)
+	- 支持快速年和月份的定位
+![image.png|350](https://cdn.pkmer.cn/images/20240223185317.png!pkmer)
+![image.png|200](https://cdn.pkmer.cn/images/20240226115658.png!pkmer)
+![image.png|300](https://cdn.pkmer.cn/images/20240226115705.png!pkmer)
 
 - 检索式
 	- 提供标签检索体验优化，可以在标签检索式中收入标签内容来快速匹配选择标签
 	- ![image.png|450](https://cdn.pkmer.cn/images/20240223185212.png!pkmer)
 	- 检索式中日期，在原日期点击后可以展现快捷筛选，选择更大日期范围
-	- ![1708685795805.jpg|450](https://cdn.pkmer.cn/images/1708685795805.jpg!pkmer)
+	- ![1708685795805.jpg|400](https://cdn.pkmer.cn/images/1708685795805.jpg!pkmer)
 	- 点击日历模式筛选后筛选器支持直接在日期未知调整筛选
-	- ![image.png|450](https://cdn.pkmer.cn/images/20240223190037.png!pkmer)
+	- ![image.png|400](https://cdn.pkmer.cn/images/20240223190037.png!pkmer)
 
 ## Thino 2.2.4 2024.02.20
 

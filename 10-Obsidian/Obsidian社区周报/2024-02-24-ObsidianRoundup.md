@@ -35,7 +35,7 @@ modified:
 ### PKMer 出品
 
 > [!INFO]
-> [PKMer](https://pkmer.cn/) 旨在打造东半球强大的知识管理社区。Personal Knowledge Management (PKM) + "er"，其中 "er" 表示人，专注、喜爱个人知识管理工作、追求效率的人们，都可以划入这个行列，希望社区凝聚更多这样的人 "。
+> [PKMer](https://pkmer.cn/) 旨在打造东半球强大的知识管理社区。Personal Knowledge Management (PKM) + "er"，其中 "er" 表示人，专注、喜爱个人知识管理工作、追求效率的人们，都可以划入这个行列，希望社区凝聚更多这样的人。
 
 #### [Thino](https://pkmer.cn/products/thino/) v2.2.4 现已发布
 
