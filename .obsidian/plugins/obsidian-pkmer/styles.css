@@ -1,5 +1,5 @@
 
-[data-type='pkmer-downloader'] .noimg[data-v-8401a7b8] {
+[data-type='pkmer-downloader'] .noimg[data-v-72c82e49] {
     display: flex;
 
     background-color: var(--theme-bg);
@@ -14,7 +14,7 @@
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
         rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
-[data-type='pkmer-downloader'] .noimg[data-v-8401a7b8]::before {
+[data-type='pkmer-downloader'] .noimg[data-v-72c82e49]::before {
     color: white;
     content: attr(data-name);
     /* 设置标题文字 */
@@ -26,27 +26,27 @@
     /* 设置标题与内容的间距 */
     text-shadow: 0 2px 2px #000;
 }
-[data-type='pkmer-downloader'] .plugin_desc[data-v-8401a7b8] {
+[data-type='pkmer-downloader'] .plugin_desc[data-v-72c82e49] {
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
 }
-[data-type='pkmer-downloader'] .plugin_name[data-v-8401a7b8] {
+[data-type='pkmer-downloader'] .plugin_name[data-v-72c82e49] {
     overflow: hidden;
     text-overflow: ellipsis;
 
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
 }
-[data-type='pkmer-downloader'] .mark[data-v-8401a7b8] {
+[data-type='pkmer-downloader'] .mark[data-v-72c82e49] {
     position: absolute;
     top: 0;
     right: 0;
     margin: 0;
 }
-[data-type='pkmer-downloader'] .overlay[data-v-8401a7b8] {
+[data-type='pkmer-downloader'] .overlay[data-v-72c82e49] {
     z-index: 50;
     position: fixed;
     top: 0;
@@ -58,14 +58,14 @@
     align-items: center;
     justify-content: center;
 }
-[data-type='pkmer-downloader'] .overlay img[data-v-8401a7b8] {
+[data-type='pkmer-downloader'] .overlay img[data-v-72c82e49] {
     min-width: 60vw;
     max-width: 80%;
     max-height: 80%;
     -o-object-fit: contain;
        object-fit: contain;
 }
-[data-type='pkmer-downloader'] .learn[data-v-8401a7b8] {
+[data-type='pkmer-downloader'] .learn[data-v-72c82e49] {
     transform: rotate(0deg) translateX(-100%) translateZ(0);
     color: #fff;
     display: inline-block;
@@ -126,7 +126,7 @@
     color: rgb(208, 111, 78);
 }
 
-[data-type='pkmer-downloader'] .noimg[data-v-8dfb0cbf] {
+[data-type='pkmer-downloader'] .noimg[data-v-1a6e40f1] {
     display: flex;
 
     background-color: var(--theme-bg);
@@ -141,7 +141,7 @@
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
         rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
-[data-type='pkmer-downloader'] .noimg[data-v-8dfb0cbf]::before {
+[data-type='pkmer-downloader'] .noimg[data-v-1a6e40f1]::before {
     color: white;
     content: attr(data-name);
     /* 设置标题文字 */
@@ -153,20 +153,20 @@
     /* 设置标题与内容的间距 */
     text-shadow: 0 2px 2px #000;
 }
-[data-type='pkmer-downloader'] .plugin_desc[data-v-8dfb0cbf] {
+[data-type='pkmer-downloader'] .plugin_desc[data-v-1a6e40f1] {
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
 }
-[data-type='pkmer-downloader'] .mark[data-v-8dfb0cbf] {
+[data-type='pkmer-downloader'] .mark[data-v-1a6e40f1] {
     position: absolute;
     top: 0;
     right: 0;
     margin: 0;
 }
-[data-type='pkmer-downloader'] .mark[data-v-8dfb0cbf]:before {
+[data-type='pkmer-downloader'] .mark[data-v-1a6e40f1]:before {
     content: "";
     position: absolute;
     top: 0;
@@ -179,7 +179,7 @@
     transform: translateX(-100%);
     border-top-right-radius: 0.75rem;
 }
-[data-type='pkmer-downloader'] .learn[data-v-8dfb0cbf] {
+[data-type='pkmer-downloader'] .learn[data-v-1a6e40f1] {
     transform: rotate(0deg) translateX(-100%) translateZ(0);
     color: #fff;
     display: inline-block;
@@ -192,7 +192,7 @@
     width: 50px;
     text-align: center;
 }
-[data-type='pkmer-downloader'] .overlay[data-v-8dfb0cbf] {
+[data-type='pkmer-downloader'] .overlay[data-v-1a6e40f1] {
     z-index: 50;
     position: fixed;
     top: 0;
@@ -204,7 +204,7 @@
     align-items: center;
     justify-content: center;
 }
-[data-type='pkmer-downloader'] .overlay img[data-v-8dfb0cbf] {
+[data-type='pkmer-downloader'] .overlay img[data-v-1a6e40f1] {
     min-width: 60vw;
     max-width: 80%;
     max-height: 80%;
@@ -5708,7 +5708,7 @@
         border-color: rgb(30 41 59 / var(--tw-border-opacity))
     }
 }/*
-! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com
+! tailwindcss v3.4.1 | MIT License | https://tailwindcss.com
 *//*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
@@ -5735,17 +5735,20 @@
 4. Use the user's configured `sans` font-family by default.
 5. Use the user's configured `sans` font-feature-settings by default.
 6. Use the user's configured `sans` font-variation-settings by default.
+7. Disable tap highlights on iOS
 */
 
-[data-type='pkmer-downloader'] html {
+[data-type='pkmer-downloader'] html,
+[data-type='pkmer-downloader'] :host {
   line-height: 1.5; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
   -moz-tab-size: 4; /* 3 */
   -o-tab-size: 4;
      tab-size: 4; /* 3 */
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 4 */
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 4 */
   font-feature-settings: normal; /* 5 */
   font-variation-settings: normal; /* 6 */
+  -webkit-tap-highlight-color: transparent; /* 7 */
 }
 
 /*
@@ -5812,8 +5815,10 @@ Add the correct font weight in Edge and Safari.
 }
 
 /*
-1. Use the user's configured `mono` font family by default.
-2. Correct the odd `em` font sizing in all browsers.
+1. Use the user's configured `mono` font-family by default.
+2. Use the user's configured `mono` font-feature-settings by default.
+3. Use the user's configured `mono` font-variation-settings by default.
+4. Correct the odd `em` font sizing in all browsers.
 */
 
 [data-type='pkmer-downloader'] code,
@@ -5821,7 +5826,9 @@ Add the correct font weight in Edge and Safari.
 [data-type='pkmer-downloader'] samp,
 [data-type='pkmer-downloader'] pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; /* 1 */
-  font-size: 1em; /* 2 */
+  font-feature-settings: normal; /* 2 */
+  font-variation-settings: normal; /* 3 */
+  font-size: 1em; /* 4 */
 }
 
 /*
@@ -6562,6 +6569,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 [data-type='pkmer-downloader'] .rounded-lg {
   border-radius: 0.5rem;
 }
+[data-type='pkmer-downloader'] .rounded-md {
+  border-radius: 0.375rem;
+}
 [data-type='pkmer-downloader'] .rounded-xl {
   border-radius: 0.75rem;
 }
@@ -6722,7 +6732,7 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
   text-align: right;
 }
 [data-type='pkmer-downloader'] .font-sans {
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 [data-type='pkmer-downloader'] .font-serif {
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
@@ -6812,6 +6822,11 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 [data-type='pkmer-downloader'] .shadow-md {
   --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+[data-type='pkmer-downloader'] .shadow-sm {
+  --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 [data-type='pkmer-downloader'] .shadow-xl {
@@ -6906,6 +6921,11 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
   --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+[data-type='pkmer-downloader'] .focus\:outline-none:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
 }
 
 @media (prefers-reduced-motion: no-preference) {

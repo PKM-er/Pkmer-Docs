@@ -29274,6 +29274,7 @@ var DEFAULT_SETTINGS = {
   disablePush: false,
   pullBeforePush: true,
   disablePopups: false,
+  disablePopupsForNoChanges: false,
   listChangedFilesInMessageBody: false,
   showStatusBar: true,
   updateSubmodules: false,
@@ -29611,25 +29612,22 @@ var SimpleGit = class extends GitManager {
     this.plugin.setState(1 /* status */);
     const status2 = await this.git.status((err) => this.onError(err));
     this.plugin.setState(0 /* idle */);
+    const allFilesFormatted = status2.files.map((e) => {
+      const res = this.formatPath(e);
+      return {
+        path: res.path,
+        from: res.from,
+        index: e.index === "?" ? "U" : e.index,
+        working_dir: e.working_dir === "?" ? "U" : e.working_dir,
+        vault_path: this.getVaultPath(res.path)
+      };
+    });
     return {
-      changed: status2.files.filter((e) => e.working_dir !== " ").map((e) => {
-        const res = this.formatPath(e);
-        return {
-          path: res.path,
-          from: res.from,
-          working_dir: e.working_dir === "?" ? "U" : e.working_dir,
-          vault_path: this.getVaultPath(res.path)
-        };
-      }),
-      staged: status2.files.filter((e) => e.index !== " " && e.index != "?").map((e) => {
-        const res = this.formatPath(e, e.index === "R");
-        return {
-          path: res.path,
-          from: res.from,
-          index: e.index,
-          vault_path: this.getVaultPath(res.path)
-        };
-      }),
+      all: allFilesFormatted,
+      changed: allFilesFormatted.filter((e) => e.working_dir !== " "),
+      staged: allFilesFormatted.filter(
+        (e) => e.index !== " " && e.index != "U"
+      ),
       conflicted: status2.conflicted.map(
         (path2) => this.formatPath({ path: path2 }).path
       )
@@ -29754,10 +29752,14 @@ var SimpleGit = class extends GitManager {
     dispatchEvent(new CustomEvent("git-head-update"));
     return res.summary.changes;
   }
-  async commit(message) {
+  async commit({
+    message,
+    amend
+  }) {
     this.plugin.setState(4 /* commit */);
     const res = (await this.git.commit(
       await this.formatCommitMessage(message),
+      amend ? ["--amend"] : [],
       (err) => this.onError(err)
     )).summary.changes;
     dispatchEvent(new CustomEvent("git-head-update"));
@@ -31263,7 +31265,7 @@ var IsomorphicGit = class extends GitManager {
       const conflicted = [];
       window.clearTimeout(timeout);
       notice == null ? void 0 : notice.hide();
-      return { changed, staged, conflicted };
+      return { all: status2, changed, staged, conflicted };
     } catch (error) {
       window.clearTimeout(timeout);
       notice == null ? void 0 : notice.hide();
@@ -31279,13 +31281,15 @@ var IsomorphicGit = class extends GitManager {
     try {
       await this.checkAuthorInfo();
       await this.stageAll({ status: status2, unstagedFiles });
-      return this.commit(message);
+      return this.commit({ message });
     } catch (error) {
       this.plugin.displayError(error);
       throw error;
     }
   }
-  async commit(message) {
+  async commit({
+    message
+  }) {
     try {
       await this.checkAuthorInfo();
       this.plugin.setState(4 /* commit */);
@@ -31641,7 +31645,7 @@ var IsomorphicGit = class extends GitManager {
       throw error;
     }
   }
-  async branchIsMerged(branch2) {
+  async branchIsMerged(_) {
     return true;
   }
   async init() {
@@ -31808,7 +31812,7 @@ var IsomorphicGit = class extends GitManager {
     );
     await this.setConfig(`branch.${branch2}.remote`, remote);
   }
-  updateGitPath(gitPath) {
+  updateGitPath(_) {
     return;
   }
   async getFileChangesCount(commitHash1, commitHash2) {
@@ -32017,8 +32021,8 @@ var IsomorphicGit = class extends GitManager {
       return diff2;
     } else {
       let workdirContent;
-      if (await app.vault.adapter.exists(vaultPath)) {
-        workdirContent = await app.vault.adapter.read(vaultPath);
+      if (await this.app.vault.adapter.exists(vaultPath)) {
+        workdirContent = await this.app.vault.adapter.read(vaultPath);
       } else {
         workdirContent = "";
       }
@@ -32305,14 +32309,14 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
           plugin.saveSettings();
         })
       );
-      new import_obsidian8.Setting(containerEl).setName("{{date}} placeholder format").setDesc(
-        `Specify custom date format. E.g. "${DATE_TIME_FORMAT_SECONDS}"`
-      ).addText(
+      const datePlaceholderSetting = new import_obsidian8.Setting(containerEl).setName("{{date}} placeholder format").addText(
         (text2) => text2.setPlaceholder(plugin.settings.commitDateFormat).setValue(plugin.settings.commitDateFormat).onChange(async (value) => {
           plugin.settings.commitDateFormat = value;
           await plugin.saveSettings();
         })
       );
+      datePlaceholderSetting.descEl.innerHTML = `
+            Specify custom date format. E.g. "${DATE_TIME_FORMAT_SECONDS}. See <a href="https://momentjs.com">Moment.js</a> for more formats.`;
       new import_obsidian8.Setting(containerEl).setName("{{hostname}} placeholder replacement").setDesc("Specify custom hostname for every device.").addText(
         (text2) => {
           var _a2;
@@ -32408,9 +32412,19 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
     ).addToggle(
       (toggle) => toggle.setValue(plugin.settings.disablePopups).onChange((value) => {
         plugin.settings.disablePopups = value;
+        this.display();
         plugin.saveSettings();
       })
     );
+    if (!plugin.settings.disablePopups)
+      new import_obsidian8.Setting(containerEl).setName("Hide notifications for no changes").setDesc(
+        "Don't show notifications when there are no changes to commit/push"
+      ).addToggle(
+        (toggle) => toggle.setValue(plugin.settings.disablePopupsForNoChanges).onChange((value) => {
+          plugin.settings.disablePopupsForNoChanges = value;
+          plugin.saveSettings();
+        })
+      );
     new import_obsidian8.Setting(containerEl).setName("Show status bar").setDesc(
       "Obsidian must be restarted for the changes to take affect"
     ).addToggle(
@@ -32997,7 +33011,7 @@ var LineAuthoringSubscriber = class {
   async notifyLineAuthoring(id, la) {
     if (this.view === void 0) {
       console.warn(
-        `Obsidian Git: View is not defined for editor cache key. Unforeseen situation. id: ${id}`
+        `Git: View is not defined for editor cache key. Unforeseen situation. id: ${id}`
       );
       return;
     }
@@ -33747,7 +33761,7 @@ var LineAuthorProvider = class {
   }
   async trackChanged(file) {
     this.trackChangedHelper(file).catch((reason) => {
-      console.warn("Obsidian Git: Error in trackChanged." + reason);
+      console.warn("Git: Error in trackChanged." + reason);
       return Promise.reject(reason);
     });
   }
@@ -33756,7 +33770,7 @@ var LineAuthorProvider = class {
       return;
     if (file.path === void 0) {
       console.warn(
-        "Obsidian Git: Attempted to track change of undefined filepath. Unforeseen situation."
+        "Git: Attempted to track change of undefined filepath. Unforeseen situation."
       );
       return;
     }
@@ -33813,7 +33827,7 @@ var LineAuthoringFeature = class {
       const file = obsView == null ? void 0 : obsView.file;
       if (!this.lineAuthorInfoProvider) {
         console.warn(
-          "Obsidian Git: undefined lineAuthorInfoProvider. Unexpected situation."
+          "Git: undefined lineAuthorInfoProvider. Unexpected situation."
         );
         return;
       }
@@ -33848,10 +33862,7 @@ var LineAuthoringFeature = class {
       this.activateCodeMirrorExtensions();
       console.log(this.plg.manifest.name + ": Enabled line authoring.");
     } catch (e) {
-      console.warn(
-        "Obsidian Git: Error while loading line authoring feature.",
-        e
-      );
+      console.warn("Git: Error while loading line authoring feature.", e);
       this.deactivateFeature();
     }
   }
@@ -34123,7 +34134,7 @@ var ChangedFilesModal = class extends import_obsidian14.FuzzySuggestModal {
     let working_dir = "";
     let index2 = "";
     if (item.working_dir != " ")
-      working_dir = `Working dir: ${item.working_dir} `;
+      working_dir = `Working Dir: ${item.working_dir} `;
     if (item.index != " ")
       index2 = `Index: ${item.index}`;
     return `${working_dir}${index2} | ${item.vault_path}`;
@@ -40065,7 +40076,7 @@ function create_else_block3(ctx) {
       append2(div7, t6);
       current = true;
       if (!mounted) {
-        dispose = listen(div7, "click", click_handler_3);
+        dispose = listen(div7, "click", stop_propagation(click_handler_3));
         mounted = true;
       }
     },
@@ -42610,7 +42621,7 @@ function instance9($$self, $$props, $$invalidate) {
           plugin.setState(0 /* idle */);
           return false;
         }
-        plugin.promiseQueue.addTask(() => plugin.gitManager.commit(commitMessage).then(() => {
+        plugin.promiseQueue.addTask(() => plugin.gitManager.commit({ message: commitMessage }).then(() => {
           if (commitMessage !== plugin.settings.commitMessage) {
             $$invalidate(2, commitMessage = "");
           }
@@ -43107,11 +43118,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       id: "add-to-gitignore",
       name: "Add file to gitignore",
       checkCallback: (checking) => {
-        const file = app.workspace.getActiveFile();
+        const file = this.app.workspace.getActiveFile();
         if (checking) {
           return file !== null;
         } else {
-          app.vault.adapter.append(
+          this.app.vault.adapter.append(
             this.gitManager.getVaultPath(".gitignore"),
             "\n" + this.gitManager.asRepositoryRelativePath(
               file.path,
@@ -43169,6 +43180,20 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         })
       )
     });
+    if (import_obsidian30.Platform.isDesktopApp) {
+      this.addCommand({
+        id: "commit-amend-staged-specified-message",
+        name: "Commit Amend",
+        callback: () => this.promiseQueue.addTask(
+          () => this.commit({
+            fromAutoBackup: false,
+            requestCustomMessage: true,
+            onlyStaged: true,
+            amend: true
+          })
+        )
+      });
+    }
     this.addCommand({
       id: "commit-staged-specified-message",
       name: "Commit staged with specific message",
@@ -43266,12 +43291,13 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         if (!await this.isAllInitialized())
           return;
         const status2 = await this.gitManager.status();
+        console.log(status2);
         this.setState(0 /* idle */);
         if (status2.changed.length + status2.staged.length > 500) {
           this.displayError("Too many changes to display");
           return;
         }
-        new ChangedFilesModal(this, status2.changed).open();
+        new ChangedFilesModal(this, status2.all).open();
       }
     });
     this.addCommand({
@@ -43366,7 +43392,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     const length = 1e4;
     if (this.manifest.id === "obsidian-git" && import_obsidian30.Platform.isDesktopApp && !this.settings.showedMobileNotice) {
       new import_obsidian30.Notice(
-        "Obsidian Git is now available on mobile! Please read the plugin's README for more information.",
+        "Git is now available on mobile! Please read the plugin's README for more information.",
         length
       );
       this.settings.showedMobileNotice = true;
@@ -43374,7 +43400,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     }
     if (this.manifest.id === "obsidian-git-isomorphic") {
       new import_obsidian30.Notice(
-        "Obsidian Git Mobile is now deprecated. Please uninstall it and install Obsidian Git instead.",
+        "Git Mobile is now deprecated. Please uninstall it and install Git instead.",
         length
       );
     }
@@ -43713,7 +43739,8 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     fromAutoBackup,
     requestCustomMessage = false,
     onlyStaged = false,
-    commitMessage
+    commitMessage,
+    amend = false
   }) {
     if (!await this.isAllInitialized())
       return false;
@@ -43781,12 +43808,16 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       }
       let committedFiles;
       if (onlyStaged) {
-        committedFiles = await this.gitManager.commit(cmtMessage);
+        committedFiles = await this.gitManager.commit({
+          message: cmtMessage,
+          amend
+        });
       } else {
         committedFiles = await this.gitManager.commitAll({
           message: cmtMessage,
           status: status2,
-          unstagedFiles
+          unstagedFiles,
+          amend
         });
       }
       if (this.gitManager instanceof SimpleGit) {
@@ -44170,7 +44201,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     if (conflicted !== void 0) {
       lines = [
         "# Conflicts",
-        "Please resolve them and commit them using the commands `Obsidian Git: Commit all changes` followed by `Obsidian Git: Push`",
+        "Please resolve them and commit them using the commands `Git: Commit all changes` followed by `Git: Push`",
         "(This file will automatically be deleted before commit)",
         "[[#Additional Instructions]] available below file list",
         "",
@@ -44237,9 +44268,7 @@ I strongly recommend to use "Source mode" for viewing the conflicted files. For 
     if (remoteName) {
       this.displayMessage("Fetching remote branches");
       await this.gitManager.fetch(remoteName);
-      const branches = await this.gitManager.getRemoteBranches(
-        remoteName
-      );
+      const branches = await this.gitManager.getRemoteBranches(remoteName);
       const branchModal = new GeneralModal({
         options: branches,
         placeholder: "Select or create a new remote branch by typing its name and selecting it"
@@ -44309,7 +44338,9 @@ I strongly recommend to use "Source mode" for viewing the conflicted files. For 
     var _a2;
     (_a2 = this.statusBar) == null ? void 0 : _a2.displayMessage(message.toLowerCase(), timeout);
     if (!this.settings.disablePopups) {
-      new import_obsidian30.Notice(message, 5 * 1e3);
+      if (!this.settings.disablePopupsForNoChanges || !message.startsWith("No changes")) {
+        new import_obsidian30.Notice(message, 5 * 1e3);
+      }
     }
     console.log(`git obsidian message: ${message}`);
   }

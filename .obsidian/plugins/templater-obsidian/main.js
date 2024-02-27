@@ -2704,7 +2704,7 @@ var PromptModal = class extends import_obsidian9.Modal {
   onClose() {
     this.contentEl.empty();
     if (!this.submitted) {
-      this.reject();
+      this.reject(new TemplaterError("Cancelled prompt"));
     }
   }
   createForm() {
@@ -2734,15 +2734,8 @@ var PromptModal = class extends import_obsidian9.Modal {
     if (evt.isComposing || evt.keyCode === 229)
       return;
     if (this.multi_line) {
-      if (import_obsidian9.Platform.isDesktop) {
-        if (evt.shiftKey && evt.key === "Enter") {
-        } else if (evt.key === "Enter") {
-          this.resolveAndClose(evt);
-        }
-      } else {
-        if (evt.key === "Enter") {
-          evt.preventDefault();
-        }
+      if (import_obsidian9.Platform.isDesktop && evt.key === "Enter" && !evt.shiftKey) {
+        this.resolveAndClose(evt);
       }
     } else {
       if (evt.key === "Enter") {
@@ -2988,8 +2981,8 @@ var UserScriptFunctions = class {
       exports: exp
     };
     const file_content = await app.vault.read(file);
-    const wrapping_fn = window.eval("(function anonymous(require, module, exports){" + file_content + "\n})");
     try {
+      const wrapping_fn = window.eval("(function anonymous(require, module, exports){" + file_content + "\n})");
       wrapping_fn(req, mod, exp);
     } catch (err) {
       throw new TemplaterError(`Failed to load user script at "${file.path}".`, err.message);
@@ -3587,7 +3580,11 @@ var Templater = class {
           break;
       }
     }
-    const created_note = await errorWrapper(async () => app.fileManager.createNewMarkdownFile(folder, filename ?? "Untitled"), "Couldn't create markdown file.");
+    const extension = template instanceof import_obsidian12.TFile ? template.extension || "md" : "md";
+    const created_note = await errorWrapper(async () => {
+      const path = app.vault.getAvailablePath((0, import_obsidian12.normalizePath)(`${folder?.path ?? ""}/${filename ?? "Untitled"}`), extension);
+      return app.vault.create(path, "");
+    }, `Couldn't create ${extension} file.`);
     if (created_note == null) {
       await this.end_templater_task();
       return;
@@ -3667,7 +3664,7 @@ var Templater = class {
       return;
     }
     await app.vault.modify(file, output_content);
-    if (active_file?.path !== file.path && active_editor && active_editor.editor) {
+    if (active_file?.path === file.path && active_editor && active_editor.editor) {
       const editor = active_editor.editor;
       editor.setSelection({ line: 0, ch: 0 }, { line: 0, ch: 0 });
     }
