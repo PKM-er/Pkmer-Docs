@@ -1,9 +1,7 @@
 ---
 uid: 20240221010235
 title: 自定义 Excalidraw 脚本 - 双击添加圆圈编号
-tags:
-  - Excalidraw脚本
-  - 图片注释
+tags: [Excalidraw脚本, 图片注释]
 description: 给Excalidraw添加圆圈编号功能
 author: 熊猫别熬夜,一鸣惊人
 type: other
@@ -18,7 +16,7 @@ modified: 20240221010515
 
 参考了 [一鸣惊人的脚本](https://www.bilibili.com/video/BV1XZ421m74S/?share_source=copy_web&vd_source=71b5851b6744265a191d3ec972be4787) 和 大叔的 `Scribble Helper` 脚本，用于添加有序的圆圈编号。
 
-![2024-01-13_自定义Excalidraw脚本-编号模式-添加圆圈编号_IMG-1](https://cdn.pkmer.cn/images/202402210103272.gif!pkmer)
+![自定义 Excalidraw 脚本 - 双击添加圆圈编号](https://cdn.pkmer.cn/images/202402231932575.png!pkmer)
 
 > ✅已启动编号模式，双击添加 num
 > ⏩双击 num 可以重新编辑编号

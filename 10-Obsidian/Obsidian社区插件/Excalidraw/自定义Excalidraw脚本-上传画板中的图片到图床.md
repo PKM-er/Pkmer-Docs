@@ -5,7 +5,7 @@ tags:
   - 图床
   - Excalidraw脚本
 description: Excalidraw 画板中引用的图片直接上传到 PicGo 的 Server 转为在线图片
-author: 
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false

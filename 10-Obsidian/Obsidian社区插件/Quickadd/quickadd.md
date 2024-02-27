@@ -27,6 +27,7 @@ modified: 20240111113104
 - [[Quickadd脚本-一键在系统应用中打开图片编辑]]
 - [[QuickAdd脚本-插入Zotero的条目PDF链接]]
 - [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
+- [[QuickAdd脚本-利用Canvas平铺笔记]]
 - [[copy-selection-in-canvas]]
 - [[QuickAdd脚本-随机漫游笔记]]
 
