@@ -5,7 +5,9 @@ if you want to view the source, please visit the github repository of this plugi
 
 var __create = Object.create;
 var __defProp = Object.defineProperty;
+var __defProps = Object.defineProperties;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
+var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
 var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getOwnPropSymbols = Object.getOwnPropertySymbols;
 var __getProtoOf = Object.getPrototypeOf;
@@ -23,10 +25,8 @@ var __spreadValues = (a, b) => {
     }
   return a;
 };
+var __spreadProps = (a, b) => __defProps(a, __getOwnPropDescs(b));
 var __markAsModule = (target) => __defProp(target, "__esModule", { value: true });
-var __commonJS = (cb, mod) => function __require() {
-  return mod || (0, cb[Object.keys(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
-};
 var __export = (target, all) => {
   __markAsModule(target);
   for (var name in all)
@@ -42,6 +42,10 @@ var __reExport = (target, module2, desc) => {
 };
 var __toModule = (module2) => {
   return __reExport(__markAsModule(__defProp(module2 != null ? __create(__getProtoOf(module2)) : {}, "default", module2 && module2.__esModule && "default" in module2 ? { get: () => module2.default, enumerable: true } : { value: module2, enumerable: true })), module2);
+};
+var __publicField = (obj, key, value) => {
+  __defNormalProp(obj, typeof key !== "symbol" ? key + "" : key, value);
+  return value;
 };
 var __async = (__this, __arguments, generator) => {
   return new Promise((resolve, reject) => {
@@ -64,1369 +68,914 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// node_modules/json5/dist/index.js
-var require_dist = __commonJS({
-  "node_modules/json5/dist/index.js"(exports, module2) {
-    (function(global, factory) {
-      typeof exports === "object" && typeof module2 !== "undefined" ? module2.exports = factory() : typeof define === "function" && define.amd ? define(factory) : global.JSON5 = factory();
-    })(exports, function() {
-      "use strict";
-      function createCommonjsModule(fn2, module3) {
-        return module3 = { exports: {} }, fn2(module3, module3.exports), module3.exports;
-      }
-      var _global = createCommonjsModule(function(module3) {
-        var global = module3.exports = typeof window != "undefined" && window.Math == Math ? window : typeof self != "undefined" && self.Math == Math ? self : Function("return this")();
-        if (typeof __g == "number") {
-          __g = global;
-        }
-      });
-      var _core = createCommonjsModule(function(module3) {
-        var core = module3.exports = { version: "2.6.5" };
-        if (typeof __e == "number") {
-          __e = core;
-        }
-      });
-      var _core_1 = _core.version;
-      var _isObject = function(it) {
-        return typeof it === "object" ? it !== null : typeof it === "function";
-      };
-      var _anObject = function(it) {
-        if (!_isObject(it)) {
-          throw TypeError(it + " is not an object!");
-        }
-        return it;
-      };
-      var _fails = function(exec) {
-        try {
-          return !!exec();
-        } catch (e) {
-          return true;
-        }
-      };
-      var _descriptors = !_fails(function() {
-        return Object.defineProperty({}, "a", { get: function() {
-          return 7;
-        } }).a != 7;
-      });
-      var document2 = _global.document;
-      var is = _isObject(document2) && _isObject(document2.createElement);
-      var _domCreate = function(it) {
-        return is ? document2.createElement(it) : {};
-      };
-      var _ie8DomDefine = !_descriptors && !_fails(function() {
-        return Object.defineProperty(_domCreate("div"), "a", { get: function() {
-          return 7;
-        } }).a != 7;
-      });
-      var _toPrimitive = function(it, S) {
-        if (!_isObject(it)) {
-          return it;
-        }
-        var fn2, val;
-        if (S && typeof (fn2 = it.toString) == "function" && !_isObject(val = fn2.call(it))) {
-          return val;
-        }
-        if (typeof (fn2 = it.valueOf) == "function" && !_isObject(val = fn2.call(it))) {
-          return val;
-        }
-        if (!S && typeof (fn2 = it.toString) == "function" && !_isObject(val = fn2.call(it))) {
-          return val;
-        }
-        throw TypeError("Can't convert object to primitive value");
-      };
-      var dP = Object.defineProperty;
-      var f = _descriptors ? Object.defineProperty : function defineProperty(O, P, Attributes) {
-        _anObject(O);
-        P = _toPrimitive(P, true);
-        _anObject(Attributes);
-        if (_ie8DomDefine) {
-          try {
-            return dP(O, P, Attributes);
-          } catch (e) {
-          }
-        }
-        if ("get" in Attributes || "set" in Attributes) {
-          throw TypeError("Accessors not supported!");
-        }
-        if ("value" in Attributes) {
-          O[P] = Attributes.value;
-        }
-        return O;
-      };
-      var _objectDp = {
-        f
-      };
-      var _propertyDesc = function(bitmap, value) {
-        return {
-          enumerable: !(bitmap & 1),
-          configurable: !(bitmap & 2),
-          writable: !(bitmap & 4),
-          value
-        };
-      };
-      var _hide = _descriptors ? function(object, key2, value) {
-        return _objectDp.f(object, key2, _propertyDesc(1, value));
-      } : function(object, key2, value) {
-        object[key2] = value;
-        return object;
-      };
-      var hasOwnProperty = {}.hasOwnProperty;
-      var _has = function(it, key2) {
-        return hasOwnProperty.call(it, key2);
-      };
-      var id2 = 0;
-      var px = Math.random();
-      var _uid = function(key2) {
-        return "Symbol(".concat(key2 === void 0 ? "" : key2, ")_", (++id2 + px).toString(36));
-      };
-      var _library = false;
-      var _shared = createCommonjsModule(function(module3) {
-        var SHARED = "__core-js_shared__";
-        var store = _global[SHARED] || (_global[SHARED] = {});
-        (module3.exports = function(key2, value) {
-          return store[key2] || (store[key2] = value !== void 0 ? value : {});
-        })("versions", []).push({
-          version: _core.version,
-          mode: _library ? "pure" : "global",
-          copyright: "\xA9 2019 Denis Pushkarev (zloirock.ru)"
-        });
-      });
-      var _functionToString = _shared("native-function-to-string", Function.toString);
-      var _redefine = createCommonjsModule(function(module3) {
-        var SRC = _uid("src");
-        var TO_STRING = "toString";
-        var TPL = ("" + _functionToString).split(TO_STRING);
-        _core.inspectSource = function(it) {
-          return _functionToString.call(it);
-        };
-        (module3.exports = function(O, key2, val, safe) {
-          var isFunction = typeof val == "function";
-          if (isFunction) {
-            _has(val, "name") || _hide(val, "name", key2);
-          }
-          if (O[key2] === val) {
-            return;
-          }
-          if (isFunction) {
-            _has(val, SRC) || _hide(val, SRC, O[key2] ? "" + O[key2] : TPL.join(String(key2)));
-          }
-          if (O === _global) {
-            O[key2] = val;
-          } else if (!safe) {
-            delete O[key2];
-            _hide(O, key2, val);
-          } else if (O[key2]) {
-            O[key2] = val;
-          } else {
-            _hide(O, key2, val);
-          }
-        })(Function.prototype, TO_STRING, function toString() {
-          return typeof this == "function" && this[SRC] || _functionToString.call(this);
-        });
-      });
-      var _aFunction = function(it) {
-        if (typeof it != "function") {
-          throw TypeError(it + " is not a function!");
-        }
-        return it;
-      };
-      var _ctx = function(fn2, that, length) {
-        _aFunction(fn2);
-        if (that === void 0) {
-          return fn2;
-        }
-        switch (length) {
-          case 1:
-            return function(a) {
-              return fn2.call(that, a);
-            };
-          case 2:
-            return function(a, b) {
-              return fn2.call(that, a, b);
-            };
-          case 3:
-            return function(a, b, c2) {
-              return fn2.call(that, a, b, c2);
-            };
-        }
-        return function() {
-          return fn2.apply(that, arguments);
-        };
-      };
-      var PROTOTYPE = "prototype";
-      var $export = function(type, name, source2) {
-        var IS_FORCED = type & $export.F;
-        var IS_GLOBAL = type & $export.G;
-        var IS_STATIC = type & $export.S;
-        var IS_PROTO = type & $export.P;
-        var IS_BIND = type & $export.B;
-        var target = IS_GLOBAL ? _global : IS_STATIC ? _global[name] || (_global[name] = {}) : (_global[name] || {})[PROTOTYPE];
-        var exports2 = IS_GLOBAL ? _core : _core[name] || (_core[name] = {});
-        var expProto = exports2[PROTOTYPE] || (exports2[PROTOTYPE] = {});
-        var key2, own, out, exp;
-        if (IS_GLOBAL) {
-          source2 = name;
-        }
-        for (key2 in source2) {
-          own = !IS_FORCED && target && target[key2] !== void 0;
-          out = (own ? target : source2)[key2];
-          exp = IS_BIND && own ? _ctx(out, _global) : IS_PROTO && typeof out == "function" ? _ctx(Function.call, out) : out;
-          if (target) {
-            _redefine(target, key2, out, type & $export.U);
-          }
-          if (exports2[key2] != out) {
-            _hide(exports2, key2, exp);
-          }
-          if (IS_PROTO && expProto[key2] != out) {
-            expProto[key2] = out;
-          }
-        }
-      };
-      _global.core = _core;
-      $export.F = 1;
-      $export.G = 2;
-      $export.S = 4;
-      $export.P = 8;
-      $export.B = 16;
-      $export.W = 32;
-      $export.U = 64;
-      $export.R = 128;
-      var _export = $export;
-      var ceil = Math.ceil;
-      var floor = Math.floor;
-      var _toInteger = function(it) {
-        return isNaN(it = +it) ? 0 : (it > 0 ? floor : ceil)(it);
-      };
-      var _defined = function(it) {
-        if (it == void 0) {
-          throw TypeError("Can't call method on  " + it);
-        }
-        return it;
-      };
-      var _stringAt = function(TO_STRING) {
-        return function(that, pos2) {
-          var s = String(_defined(that));
-          var i = _toInteger(pos2);
-          var l = s.length;
-          var a, b;
-          if (i < 0 || i >= l) {
-            return TO_STRING ? "" : void 0;
-          }
-          a = s.charCodeAt(i);
-          return a < 55296 || a > 56319 || i + 1 === l || (b = s.charCodeAt(i + 1)) < 56320 || b > 57343 ? TO_STRING ? s.charAt(i) : a : TO_STRING ? s.slice(i, i + 2) : (a - 55296 << 10) + (b - 56320) + 65536;
-        };
-      };
-      var $at = _stringAt(false);
-      _export(_export.P, "String", {
-        codePointAt: function codePointAt2(pos2) {
-          return $at(this, pos2);
-        }
-      });
-      var codePointAt = _core.String.codePointAt;
-      var max2 = Math.max;
-      var min2 = Math.min;
-      var _toAbsoluteIndex = function(index, length) {
-        index = _toInteger(index);
-        return index < 0 ? max2(index + length, 0) : min2(index, length);
-      };
-      var fromCharCode = String.fromCharCode;
-      var $fromCodePoint = String.fromCodePoint;
-      _export(_export.S + _export.F * (!!$fromCodePoint && $fromCodePoint.length != 1), "String", {
-        fromCodePoint: function fromCodePoint2(x) {
-          var arguments$1 = arguments;
-          var res = [];
-          var aLen = arguments.length;
-          var i = 0;
-          var code;
-          while (aLen > i) {
-            code = +arguments$1[i++];
-            if (_toAbsoluteIndex(code, 1114111) !== code) {
-              throw RangeError(code + " is not a valid code point");
-            }
-            res.push(code < 65536 ? fromCharCode(code) : fromCharCode(((code -= 65536) >> 10) + 55296, code % 1024 + 56320));
-          }
-          return res.join("");
-        }
-      });
-      var fromCodePoint = _core.String.fromCodePoint;
-      var Space_Separator = /[\u1680\u2000-\u200A\u202F\u205F\u3000]/;
-      var ID_Start = /[\xAA\xB5\xBA\xC0-\xD6\xD8-\xF6\xF8-\u02C1\u02C6-\u02D1\u02E0-\u02E4\u02EC\u02EE\u0370-\u0374\u0376\u0377\u037A-\u037D\u037F\u0386\u0388-\u038A\u038C\u038E-\u03A1\u03A3-\u03F5\u03F7-\u0481\u048A-\u052F\u0531-\u0556\u0559\u0561-\u0587\u05D0-\u05EA\u05F0-\u05F2\u0620-\u064A\u066E\u066F\u0671-\u06D3\u06D5\u06E5\u06E6\u06EE\u06EF\u06FA-\u06FC\u06FF\u0710\u0712-\u072F\u074D-\u07A5\u07B1\u07CA-\u07EA\u07F4\u07F5\u07FA\u0800-\u0815\u081A\u0824\u0828\u0840-\u0858\u0860-\u086A\u08A0-\u08B4\u08B6-\u08BD\u0904-\u0939\u093D\u0950\u0958-\u0961\u0971-\u0980\u0985-\u098C\u098F\u0990\u0993-\u09A8\u09AA-\u09B0\u09B2\u09B6-\u09B9\u09BD\u09CE\u09DC\u09DD\u09DF-\u09E1\u09F0\u09F1\u09FC\u0A05-\u0A0A\u0A0F\u0A10\u0A13-\u0A28\u0A2A-\u0A30\u0A32\u0A33\u0A35\u0A36\u0A38\u0A39\u0A59-\u0A5C\u0A5E\u0A72-\u0A74\u0A85-\u0A8D\u0A8F-\u0A91\u0A93-\u0AA8\u0AAA-\u0AB0\u0AB2\u0AB3\u0AB5-\u0AB9\u0ABD\u0AD0\u0AE0\u0AE1\u0AF9\u0B05-\u0B0C\u0B0F\u0B10\u0B13-\u0B28\u0B2A-\u0B30\u0B32\u0B33\u0B35-\u0B39\u0B3D\u0B5C\u0B5D\u0B5F-\u0B61\u0B71\u0B83\u0B85-\u0B8A\u0B8E-\u0B90\u0B92-\u0B95\u0B99\u0B9A\u0B9C\u0B9E\u0B9F\u0BA3\u0BA4\u0BA8-\u0BAA\u0BAE-\u0BB9\u0BD0\u0C05-\u0C0C\u0C0E-\u0C10\u0C12-\u0C28\u0C2A-\u0C39\u0C3D\u0C58-\u0C5A\u0C60\u0C61\u0C80\u0C85-\u0C8C\u0C8E-\u0C90\u0C92-\u0CA8\u0CAA-\u0CB3\u0CB5-\u0CB9\u0CBD\u0CDE\u0CE0\u0CE1\u0CF1\u0CF2\u0D05-\u0D0C\u0D0E-\u0D10\u0D12-\u0D3A\u0D3D\u0D4E\u0D54-\u0D56\u0D5F-\u0D61\u0D7A-\u0D7F\u0D85-\u0D96\u0D9A-\u0DB1\u0DB3-\u0DBB\u0DBD\u0DC0-\u0DC6\u0E01-\u0E30\u0E32\u0E33\u0E40-\u0E46\u0E81\u0E82\u0E84\u0E87\u0E88\u0E8A\u0E8D\u0E94-\u0E97\u0E99-\u0E9F\u0EA1-\u0EA3\u0EA5\u0EA7\u0EAA\u0EAB\u0EAD-\u0EB0\u0EB2\u0EB3\u0EBD\u0EC0-\u0EC4\u0EC6\u0EDC-\u0EDF\u0F00\u0F40-\u0F47\u0F49-\u0F6C\u0F88-\u0F8C\u1000-\u102A\u103F\u1050-\u1055\u105A-\u105D\u1061\u1065\u1066\u106E-\u1070\u1075-\u1081\u108E\u10A0-\u10C5\u10C7\u10CD\u10D0-\u10FA\u10FC-\u1248\u124A-\u124D\u1250-\u1256\u1258\u125A-\u125D\u1260-\u1288\u128A-\u128D\u1290-\u12B0\u12B2-\u12B5\u12B8-\u12BE\u12C0\u12C2-\u12C5\u12C8-\u12D6\u12D8-\u1310\u1312-\u1315\u1318-\u135A\u1380-\u138F\u13A0-\u13F5\u13F8-\u13FD\u1401-\u166C\u166F-\u167F\u1681-\u169A\u16A0-\u16EA\u16EE-\u16F8\u1700-\u170C\u170E-\u1711\u1720-\u1731\u1740-\u1751\u1760-\u176C\u176E-\u1770\u1780-\u17B3\u17D7\u17DC\u1820-\u1877\u1880-\u1884\u1887-\u18A8\u18AA\u18B0-\u18F5\u1900-\u191E\u1950-\u196D\u1970-\u1974\u1980-\u19AB\u19B0-\u19C9\u1A00-\u1A16\u1A20-\u1A54\u1AA7\u1B05-\u1B33\u1B45-\u1B4B\u1B83-\u1BA0\u1BAE\u1BAF\u1BBA-\u1BE5\u1C00-\u1C23\u1C4D-\u1C4F\u1C5A-\u1C7D\u1C80-\u1C88\u1CE9-\u1CEC\u1CEE-\u1CF1\u1CF5\u1CF6\u1D00-\u1DBF\u1E00-\u1F15\u1F18-\u1F1D\u1F20-\u1F45\u1F48-\u1F4D\u1F50-\u1F57\u1F59\u1F5B\u1F5D\u1F5F-\u1F7D\u1F80-\u1FB4\u1FB6-\u1FBC\u1FBE\u1FC2-\u1FC4\u1FC6-\u1FCC\u1FD0-\u1FD3\u1FD6-\u1FDB\u1FE0-\u1FEC\u1FF2-\u1FF4\u1FF6-\u1FFC\u2071\u207F\u2090-\u209C\u2102\u2107\u210A-\u2113\u2115\u2119-\u211D\u2124\u2126\u2128\u212A-\u212D\u212F-\u2139\u213C-\u213F\u2145-\u2149\u214E\u2160-\u2188\u2C00-\u2C2E\u2C30-\u2C5E\u2C60-\u2CE4\u2CEB-\u2CEE\u2CF2\u2CF3\u2D00-\u2D25\u2D27\u2D2D\u2D30-\u2D67\u2D6F\u2D80-\u2D96\u2DA0-\u2DA6\u2DA8-\u2DAE\u2DB0-\u2DB6\u2DB8-\u2DBE\u2DC0-\u2DC6\u2DC8-\u2DCE\u2DD0-\u2DD6\u2DD8-\u2DDE\u2E2F\u3005-\u3007\u3021-\u3029\u3031-\u3035\u3038-\u303C\u3041-\u3096\u309D-\u309F\u30A1-\u30FA\u30FC-\u30FF\u3105-\u312E\u3131-\u318E\u31A0-\u31BA\u31F0-\u31FF\u3400-\u4DB5\u4E00-\u9FEA\uA000-\uA48C\uA4D0-\uA4FD\uA500-\uA60C\uA610-\uA61F\uA62A\uA62B\uA640-\uA66E\uA67F-\uA69D\uA6A0-\uA6EF\uA717-\uA71F\uA722-\uA788\uA78B-\uA7AE\uA7B0-\uA7B7\uA7F7-\uA801\uA803-\uA805\uA807-\uA80A\uA80C-\uA822\uA840-\uA873\uA882-\uA8B3\uA8F2-\uA8F7\uA8FB\uA8FD\uA90A-\uA925\uA930-\uA946\uA960-\uA97C\uA984-\uA9B2\uA9CF\uA9E0-\uA9E4\uA9E6-\uA9EF\uA9FA-\uA9FE\uAA00-\uAA28\uAA40-\uAA42\uAA44-\uAA4B\uAA60-\uAA76\uAA7A\uAA7E-\uAAAF\uAAB1\uAAB5\uAAB6\uAAB9-\uAABD\uAAC0\uAAC2\uAADB-\uAADD\uAAE0-\uAAEA\uAAF2-\uAAF4\uAB01-\uAB06\uAB09-\uAB0E\uAB11-\uAB16\uAB20-\uAB26\uAB28-\uAB2E\uAB30-\uAB5A\uAB5C-\uAB65\uAB70-\uABE2\uAC00-\uD7A3\uD7B0-\uD7C6\uD7CB-\uD7FB\uF900-\uFA6D\uFA70-\uFAD9\uFB00-\uFB06\uFB13-\uFB17\uFB1D\uFB1F-\uFB28\uFB2A-\uFB36\uFB38-\uFB3C\uFB3E\uFB40\uFB41\uFB43\uFB44\uFB46-\uFBB1\uFBD3-\uFD3D\uFD50-\uFD8F\uFD92-\uFDC7\uFDF0-\uFDFB\uFE70-\uFE74\uFE76-\uFEFC\uFF21-\uFF3A\uFF41-\uFF5A\uFF66-\uFFBE\uFFC2-\uFFC7\uFFCA-\uFFCF\uFFD2-\uFFD7\uFFDA-\uFFDC]|\uD800[\uDC00-\uDC0B\uDC0D-\uDC26\uDC28-\uDC3A\uDC3C\uDC3D\uDC3F-\uDC4D\uDC50-\uDC5D\uDC80-\uDCFA\uDD40-\uDD74\uDE80-\uDE9C\uDEA0-\uDED0\uDF00-\uDF1F\uDF2D-\uDF4A\uDF50-\uDF75\uDF80-\uDF9D\uDFA0-\uDFC3\uDFC8-\uDFCF\uDFD1-\uDFD5]|\uD801[\uDC00-\uDC9D\uDCB0-\uDCD3\uDCD8-\uDCFB\uDD00-\uDD27\uDD30-\uDD63\uDE00-\uDF36\uDF40-\uDF55\uDF60-\uDF67]|\uD802[\uDC00-\uDC05\uDC08\uDC0A-\uDC35\uDC37\uDC38\uDC3C\uDC3F-\uDC55\uDC60-\uDC76\uDC80-\uDC9E\uDCE0-\uDCF2\uDCF4\uDCF5\uDD00-\uDD15\uDD20-\uDD39\uDD80-\uDDB7\uDDBE\uDDBF\uDE00\uDE10-\uDE13\uDE15-\uDE17\uDE19-\uDE33\uDE60-\uDE7C\uDE80-\uDE9C\uDEC0-\uDEC7\uDEC9-\uDEE4\uDF00-\uDF35\uDF40-\uDF55\uDF60-\uDF72\uDF80-\uDF91]|\uD803[\uDC00-\uDC48\uDC80-\uDCB2\uDCC0-\uDCF2]|\uD804[\uDC03-\uDC37\uDC83-\uDCAF\uDCD0-\uDCE8\uDD03-\uDD26\uDD50-\uDD72\uDD76\uDD83-\uDDB2\uDDC1-\uDDC4\uDDDA\uDDDC\uDE00-\uDE11\uDE13-\uDE2B\uDE80-\uDE86\uDE88\uDE8A-\uDE8D\uDE8F-\uDE9D\uDE9F-\uDEA8\uDEB0-\uDEDE\uDF05-\uDF0C\uDF0F\uDF10\uDF13-\uDF28\uDF2A-\uDF30\uDF32\uDF33\uDF35-\uDF39\uDF3D\uDF50\uDF5D-\uDF61]|\uD805[\uDC00-\uDC34\uDC47-\uDC4A\uDC80-\uDCAF\uDCC4\uDCC5\uDCC7\uDD80-\uDDAE\uDDD8-\uDDDB\uDE00-\uDE2F\uDE44\uDE80-\uDEAA\uDF00-\uDF19]|\uD806[\uDCA0-\uDCDF\uDCFF\uDE00\uDE0B-\uDE32\uDE3A\uDE50\uDE5C-\uDE83\uDE86-\uDE89\uDEC0-\uDEF8]|\uD807[\uDC00-\uDC08\uDC0A-\uDC2E\uDC40\uDC72-\uDC8F\uDD00-\uDD06\uDD08\uDD09\uDD0B-\uDD30\uDD46]|\uD808[\uDC00-\uDF99]|\uD809[\uDC00-\uDC6E\uDC80-\uDD43]|[\uD80C\uD81C-\uD820\uD840-\uD868\uD86A-\uD86C\uD86F-\uD872\uD874-\uD879][\uDC00-\uDFFF]|\uD80D[\uDC00-\uDC2E]|\uD811[\uDC00-\uDE46]|\uD81A[\uDC00-\uDE38\uDE40-\uDE5E\uDED0-\uDEED\uDF00-\uDF2F\uDF40-\uDF43\uDF63-\uDF77\uDF7D-\uDF8F]|\uD81B[\uDF00-\uDF44\uDF50\uDF93-\uDF9F\uDFE0\uDFE1]|\uD821[\uDC00-\uDFEC]|\uD822[\uDC00-\uDEF2]|\uD82C[\uDC00-\uDD1E\uDD70-\uDEFB]|\uD82F[\uDC00-\uDC6A\uDC70-\uDC7C\uDC80-\uDC88\uDC90-\uDC99]|\uD835[\uDC00-\uDC54\uDC56-\uDC9C\uDC9E\uDC9F\uDCA2\uDCA5\uDCA6\uDCA9-\uDCAC\uDCAE-\uDCB9\uDCBB\uDCBD-\uDCC3\uDCC5-\uDD05\uDD07-\uDD0A\uDD0D-\uDD14\uDD16-\uDD1C\uDD1E-\uDD39\uDD3B-\uDD3E\uDD40-\uDD44\uDD46\uDD4A-\uDD50\uDD52-\uDEA5\uDEA8-\uDEC0\uDEC2-\uDEDA\uDEDC-\uDEFA\uDEFC-\uDF14\uDF16-\uDF34\uDF36-\uDF4E\uDF50-\uDF6E\uDF70-\uDF88\uDF8A-\uDFA8\uDFAA-\uDFC2\uDFC4-\uDFCB]|\uD83A[\uDC00-\uDCC4\uDD00-\uDD43]|\uD83B[\uDE00-\uDE03\uDE05-\uDE1F\uDE21\uDE22\uDE24\uDE27\uDE29-\uDE32\uDE34-\uDE37\uDE39\uDE3B\uDE42\uDE47\uDE49\uDE4B\uDE4D-\uDE4F\uDE51\uDE52\uDE54\uDE57\uDE59\uDE5B\uDE5D\uDE5F\uDE61\uDE62\uDE64\uDE67-\uDE6A\uDE6C-\uDE72\uDE74-\uDE77\uDE79-\uDE7C\uDE7E\uDE80-\uDE89\uDE8B-\uDE9B\uDEA1-\uDEA3\uDEA5-\uDEA9\uDEAB-\uDEBB]|\uD869[\uDC00-\uDED6\uDF00-\uDFFF]|\uD86D[\uDC00-\uDF34\uDF40-\uDFFF]|\uD86E[\uDC00-\uDC1D\uDC20-\uDFFF]|\uD873[\uDC00-\uDEA1\uDEB0-\uDFFF]|\uD87A[\uDC00-\uDFE0]|\uD87E[\uDC00-\uDE1D]/;
-      var ID_Continue = /[\xAA\xB5\xBA\xC0-\xD6\xD8-\xF6\xF8-\u02C1\u02C6-\u02D1\u02E0-\u02E4\u02EC\u02EE\u0300-\u0374\u0376\u0377\u037A-\u037D\u037F\u0386\u0388-\u038A\u038C\u038E-\u03A1\u03A3-\u03F5\u03F7-\u0481\u0483-\u0487\u048A-\u052F\u0531-\u0556\u0559\u0561-\u0587\u0591-\u05BD\u05BF\u05C1\u05C2\u05C4\u05C5\u05C7\u05D0-\u05EA\u05F0-\u05F2\u0610-\u061A\u0620-\u0669\u066E-\u06D3\u06D5-\u06DC\u06DF-\u06E8\u06EA-\u06FC\u06FF\u0710-\u074A\u074D-\u07B1\u07C0-\u07F5\u07FA\u0800-\u082D\u0840-\u085B\u0860-\u086A\u08A0-\u08B4\u08B6-\u08BD\u08D4-\u08E1\u08E3-\u0963\u0966-\u096F\u0971-\u0983\u0985-\u098C\u098F\u0990\u0993-\u09A8\u09AA-\u09B0\u09B2\u09B6-\u09B9\u09BC-\u09C4\u09C7\u09C8\u09CB-\u09CE\u09D7\u09DC\u09DD\u09DF-\u09E3\u09E6-\u09F1\u09FC\u0A01-\u0A03\u0A05-\u0A0A\u0A0F\u0A10\u0A13-\u0A28\u0A2A-\u0A30\u0A32\u0A33\u0A35\u0A36\u0A38\u0A39\u0A3C\u0A3E-\u0A42\u0A47\u0A48\u0A4B-\u0A4D\u0A51\u0A59-\u0A5C\u0A5E\u0A66-\u0A75\u0A81-\u0A83\u0A85-\u0A8D\u0A8F-\u0A91\u0A93-\u0AA8\u0AAA-\u0AB0\u0AB2\u0AB3\u0AB5-\u0AB9\u0ABC-\u0AC5\u0AC7-\u0AC9\u0ACB-\u0ACD\u0AD0\u0AE0-\u0AE3\u0AE6-\u0AEF\u0AF9-\u0AFF\u0B01-\u0B03\u0B05-\u0B0C\u0B0F\u0B10\u0B13-\u0B28\u0B2A-\u0B30\u0B32\u0B33\u0B35-\u0B39\u0B3C-\u0B44\u0B47\u0B48\u0B4B-\u0B4D\u0B56\u0B57\u0B5C\u0B5D\u0B5F-\u0B63\u0B66-\u0B6F\u0B71\u0B82\u0B83\u0B85-\u0B8A\u0B8E-\u0B90\u0B92-\u0B95\u0B99\u0B9A\u0B9C\u0B9E\u0B9F\u0BA3\u0BA4\u0BA8-\u0BAA\u0BAE-\u0BB9\u0BBE-\u0BC2\u0BC6-\u0BC8\u0BCA-\u0BCD\u0BD0\u0BD7\u0BE6-\u0BEF\u0C00-\u0C03\u0C05-\u0C0C\u0C0E-\u0C10\u0C12-\u0C28\u0C2A-\u0C39\u0C3D-\u0C44\u0C46-\u0C48\u0C4A-\u0C4D\u0C55\u0C56\u0C58-\u0C5A\u0C60-\u0C63\u0C66-\u0C6F\u0C80-\u0C83\u0C85-\u0C8C\u0C8E-\u0C90\u0C92-\u0CA8\u0CAA-\u0CB3\u0CB5-\u0CB9\u0CBC-\u0CC4\u0CC6-\u0CC8\u0CCA-\u0CCD\u0CD5\u0CD6\u0CDE\u0CE0-\u0CE3\u0CE6-\u0CEF\u0CF1\u0CF2\u0D00-\u0D03\u0D05-\u0D0C\u0D0E-\u0D10\u0D12-\u0D44\u0D46-\u0D48\u0D4A-\u0D4E\u0D54-\u0D57\u0D5F-\u0D63\u0D66-\u0D6F\u0D7A-\u0D7F\u0D82\u0D83\u0D85-\u0D96\u0D9A-\u0DB1\u0DB3-\u0DBB\u0DBD\u0DC0-\u0DC6\u0DCA\u0DCF-\u0DD4\u0DD6\u0DD8-\u0DDF\u0DE6-\u0DEF\u0DF2\u0DF3\u0E01-\u0E3A\u0E40-\u0E4E\u0E50-\u0E59\u0E81\u0E82\u0E84\u0E87\u0E88\u0E8A\u0E8D\u0E94-\u0E97\u0E99-\u0E9F\u0EA1-\u0EA3\u0EA5\u0EA7\u0EAA\u0EAB\u0EAD-\u0EB9\u0EBB-\u0EBD\u0EC0-\u0EC4\u0EC6\u0EC8-\u0ECD\u0ED0-\u0ED9\u0EDC-\u0EDF\u0F00\u0F18\u0F19\u0F20-\u0F29\u0F35\u0F37\u0F39\u0F3E-\u0F47\u0F49-\u0F6C\u0F71-\u0F84\u0F86-\u0F97\u0F99-\u0FBC\u0FC6\u1000-\u1049\u1050-\u109D\u10A0-\u10C5\u10C7\u10CD\u10D0-\u10FA\u10FC-\u1248\u124A-\u124D\u1250-\u1256\u1258\u125A-\u125D\u1260-\u1288\u128A-\u128D\u1290-\u12B0\u12B2-\u12B5\u12B8-\u12BE\u12C0\u12C2-\u12C5\u12C8-\u12D6\u12D8-\u1310\u1312-\u1315\u1318-\u135A\u135D-\u135F\u1380-\u138F\u13A0-\u13F5\u13F8-\u13FD\u1401-\u166C\u166F-\u167F\u1681-\u169A\u16A0-\u16EA\u16EE-\u16F8\u1700-\u170C\u170E-\u1714\u1720-\u1734\u1740-\u1753\u1760-\u176C\u176E-\u1770\u1772\u1773\u1780-\u17D3\u17D7\u17DC\u17DD\u17E0-\u17E9\u180B-\u180D\u1810-\u1819\u1820-\u1877\u1880-\u18AA\u18B0-\u18F5\u1900-\u191E\u1920-\u192B\u1930-\u193B\u1946-\u196D\u1970-\u1974\u1980-\u19AB\u19B0-\u19C9\u19D0-\u19D9\u1A00-\u1A1B\u1A20-\u1A5E\u1A60-\u1A7C\u1A7F-\u1A89\u1A90-\u1A99\u1AA7\u1AB0-\u1ABD\u1B00-\u1B4B\u1B50-\u1B59\u1B6B-\u1B73\u1B80-\u1BF3\u1C00-\u1C37\u1C40-\u1C49\u1C4D-\u1C7D\u1C80-\u1C88\u1CD0-\u1CD2\u1CD4-\u1CF9\u1D00-\u1DF9\u1DFB-\u1F15\u1F18-\u1F1D\u1F20-\u1F45\u1F48-\u1F4D\u1F50-\u1F57\u1F59\u1F5B\u1F5D\u1F5F-\u1F7D\u1F80-\u1FB4\u1FB6-\u1FBC\u1FBE\u1FC2-\u1FC4\u1FC6-\u1FCC\u1FD0-\u1FD3\u1FD6-\u1FDB\u1FE0-\u1FEC\u1FF2-\u1FF4\u1FF6-\u1FFC\u203F\u2040\u2054\u2071\u207F\u2090-\u209C\u20D0-\u20DC\u20E1\u20E5-\u20F0\u2102\u2107\u210A-\u2113\u2115\u2119-\u211D\u2124\u2126\u2128\u212A-\u212D\u212F-\u2139\u213C-\u213F\u2145-\u2149\u214E\u2160-\u2188\u2C00-\u2C2E\u2C30-\u2C5E\u2C60-\u2CE4\u2CEB-\u2CF3\u2D00-\u2D25\u2D27\u2D2D\u2D30-\u2D67\u2D6F\u2D7F-\u2D96\u2DA0-\u2DA6\u2DA8-\u2DAE\u2DB0-\u2DB6\u2DB8-\u2DBE\u2DC0-\u2DC6\u2DC8-\u2DCE\u2DD0-\u2DD6\u2DD8-\u2DDE\u2DE0-\u2DFF\u2E2F\u3005-\u3007\u3021-\u302F\u3031-\u3035\u3038-\u303C\u3041-\u3096\u3099\u309A\u309D-\u309F\u30A1-\u30FA\u30FC-\u30FF\u3105-\u312E\u3131-\u318E\u31A0-\u31BA\u31F0-\u31FF\u3400-\u4DB5\u4E00-\u9FEA\uA000-\uA48C\uA4D0-\uA4FD\uA500-\uA60C\uA610-\uA62B\uA640-\uA66F\uA674-\uA67D\uA67F-\uA6F1\uA717-\uA71F\uA722-\uA788\uA78B-\uA7AE\uA7B0-\uA7B7\uA7F7-\uA827\uA840-\uA873\uA880-\uA8C5\uA8D0-\uA8D9\uA8E0-\uA8F7\uA8FB\uA8FD\uA900-\uA92D\uA930-\uA953\uA960-\uA97C\uA980-\uA9C0\uA9CF-\uA9D9\uA9E0-\uA9FE\uAA00-\uAA36\uAA40-\uAA4D\uAA50-\uAA59\uAA60-\uAA76\uAA7A-\uAAC2\uAADB-\uAADD\uAAE0-\uAAEF\uAAF2-\uAAF6\uAB01-\uAB06\uAB09-\uAB0E\uAB11-\uAB16\uAB20-\uAB26\uAB28-\uAB2E\uAB30-\uAB5A\uAB5C-\uAB65\uAB70-\uABEA\uABEC\uABED\uABF0-\uABF9\uAC00-\uD7A3\uD7B0-\uD7C6\uD7CB-\uD7FB\uF900-\uFA6D\uFA70-\uFAD9\uFB00-\uFB06\uFB13-\uFB17\uFB1D-\uFB28\uFB2A-\uFB36\uFB38-\uFB3C\uFB3E\uFB40\uFB41\uFB43\uFB44\uFB46-\uFBB1\uFBD3-\uFD3D\uFD50-\uFD8F\uFD92-\uFDC7\uFDF0-\uFDFB\uFE00-\uFE0F\uFE20-\uFE2F\uFE33\uFE34\uFE4D-\uFE4F\uFE70-\uFE74\uFE76-\uFEFC\uFF10-\uFF19\uFF21-\uFF3A\uFF3F\uFF41-\uFF5A\uFF66-\uFFBE\uFFC2-\uFFC7\uFFCA-\uFFCF\uFFD2-\uFFD7\uFFDA-\uFFDC]|\uD800[\uDC00-\uDC0B\uDC0D-\uDC26\uDC28-\uDC3A\uDC3C\uDC3D\uDC3F-\uDC4D\uDC50-\uDC5D\uDC80-\uDCFA\uDD40-\uDD74\uDDFD\uDE80-\uDE9C\uDEA0-\uDED0\uDEE0\uDF00-\uDF1F\uDF2D-\uDF4A\uDF50-\uDF7A\uDF80-\uDF9D\uDFA0-\uDFC3\uDFC8-\uDFCF\uDFD1-\uDFD5]|\uD801[\uDC00-\uDC9D\uDCA0-\uDCA9\uDCB0-\uDCD3\uDCD8-\uDCFB\uDD00-\uDD27\uDD30-\uDD63\uDE00-\uDF36\uDF40-\uDF55\uDF60-\uDF67]|\uD802[\uDC00-\uDC05\uDC08\uDC0A-\uDC35\uDC37\uDC38\uDC3C\uDC3F-\uDC55\uDC60-\uDC76\uDC80-\uDC9E\uDCE0-\uDCF2\uDCF4\uDCF5\uDD00-\uDD15\uDD20-\uDD39\uDD80-\uDDB7\uDDBE\uDDBF\uDE00-\uDE03\uDE05\uDE06\uDE0C-\uDE13\uDE15-\uDE17\uDE19-\uDE33\uDE38-\uDE3A\uDE3F\uDE60-\uDE7C\uDE80-\uDE9C\uDEC0-\uDEC7\uDEC9-\uDEE6\uDF00-\uDF35\uDF40-\uDF55\uDF60-\uDF72\uDF80-\uDF91]|\uD803[\uDC00-\uDC48\uDC80-\uDCB2\uDCC0-\uDCF2]|\uD804[\uDC00-\uDC46\uDC66-\uDC6F\uDC7F-\uDCBA\uDCD0-\uDCE8\uDCF0-\uDCF9\uDD00-\uDD34\uDD36-\uDD3F\uDD50-\uDD73\uDD76\uDD80-\uDDC4\uDDCA-\uDDCC\uDDD0-\uDDDA\uDDDC\uDE00-\uDE11\uDE13-\uDE37\uDE3E\uDE80-\uDE86\uDE88\uDE8A-\uDE8D\uDE8F-\uDE9D\uDE9F-\uDEA8\uDEB0-\uDEEA\uDEF0-\uDEF9\uDF00-\uDF03\uDF05-\uDF0C\uDF0F\uDF10\uDF13-\uDF28\uDF2A-\uDF30\uDF32\uDF33\uDF35-\uDF39\uDF3C-\uDF44\uDF47\uDF48\uDF4B-\uDF4D\uDF50\uDF57\uDF5D-\uDF63\uDF66-\uDF6C\uDF70-\uDF74]|\uD805[\uDC00-\uDC4A\uDC50-\uDC59\uDC80-\uDCC5\uDCC7\uDCD0-\uDCD9\uDD80-\uDDB5\uDDB8-\uDDC0\uDDD8-\uDDDD\uDE00-\uDE40\uDE44\uDE50-\uDE59\uDE80-\uDEB7\uDEC0-\uDEC9\uDF00-\uDF19\uDF1D-\uDF2B\uDF30-\uDF39]|\uD806[\uDCA0-\uDCE9\uDCFF\uDE00-\uDE3E\uDE47\uDE50-\uDE83\uDE86-\uDE99\uDEC0-\uDEF8]|\uD807[\uDC00-\uDC08\uDC0A-\uDC36\uDC38-\uDC40\uDC50-\uDC59\uDC72-\uDC8F\uDC92-\uDCA7\uDCA9-\uDCB6\uDD00-\uDD06\uDD08\uDD09\uDD0B-\uDD36\uDD3A\uDD3C\uDD3D\uDD3F-\uDD47\uDD50-\uDD59]|\uD808[\uDC00-\uDF99]|\uD809[\uDC00-\uDC6E\uDC80-\uDD43]|[\uD80C\uD81C-\uD820\uD840-\uD868\uD86A-\uD86C\uD86F-\uD872\uD874-\uD879][\uDC00-\uDFFF]|\uD80D[\uDC00-\uDC2E]|\uD811[\uDC00-\uDE46]|\uD81A[\uDC00-\uDE38\uDE40-\uDE5E\uDE60-\uDE69\uDED0-\uDEED\uDEF0-\uDEF4\uDF00-\uDF36\uDF40-\uDF43\uDF50-\uDF59\uDF63-\uDF77\uDF7D-\uDF8F]|\uD81B[\uDF00-\uDF44\uDF50-\uDF7E\uDF8F-\uDF9F\uDFE0\uDFE1]|\uD821[\uDC00-\uDFEC]|\uD822[\uDC00-\uDEF2]|\uD82C[\uDC00-\uDD1E\uDD70-\uDEFB]|\uD82F[\uDC00-\uDC6A\uDC70-\uDC7C\uDC80-\uDC88\uDC90-\uDC99\uDC9D\uDC9E]|\uD834[\uDD65-\uDD69\uDD6D-\uDD72\uDD7B-\uDD82\uDD85-\uDD8B\uDDAA-\uDDAD\uDE42-\uDE44]|\uD835[\uDC00-\uDC54\uDC56-\uDC9C\uDC9E\uDC9F\uDCA2\uDCA5\uDCA6\uDCA9-\uDCAC\uDCAE-\uDCB9\uDCBB\uDCBD-\uDCC3\uDCC5-\uDD05\uDD07-\uDD0A\uDD0D-\uDD14\uDD16-\uDD1C\uDD1E-\uDD39\uDD3B-\uDD3E\uDD40-\uDD44\uDD46\uDD4A-\uDD50\uDD52-\uDEA5\uDEA8-\uDEC0\uDEC2-\uDEDA\uDEDC-\uDEFA\uDEFC-\uDF14\uDF16-\uDF34\uDF36-\uDF4E\uDF50-\uDF6E\uDF70-\uDF88\uDF8A-\uDFA8\uDFAA-\uDFC2\uDFC4-\uDFCB\uDFCE-\uDFFF]|\uD836[\uDE00-\uDE36\uDE3B-\uDE6C\uDE75\uDE84\uDE9B-\uDE9F\uDEA1-\uDEAF]|\uD838[\uDC00-\uDC06\uDC08-\uDC18\uDC1B-\uDC21\uDC23\uDC24\uDC26-\uDC2A]|\uD83A[\uDC00-\uDCC4\uDCD0-\uDCD6\uDD00-\uDD4A\uDD50-\uDD59]|\uD83B[\uDE00-\uDE03\uDE05-\uDE1F\uDE21\uDE22\uDE24\uDE27\uDE29-\uDE32\uDE34-\uDE37\uDE39\uDE3B\uDE42\uDE47\uDE49\uDE4B\uDE4D-\uDE4F\uDE51\uDE52\uDE54\uDE57\uDE59\uDE5B\uDE5D\uDE5F\uDE61\uDE62\uDE64\uDE67-\uDE6A\uDE6C-\uDE72\uDE74-\uDE77\uDE79-\uDE7C\uDE7E\uDE80-\uDE89\uDE8B-\uDE9B\uDEA1-\uDEA3\uDEA5-\uDEA9\uDEAB-\uDEBB]|\uD869[\uDC00-\uDED6\uDF00-\uDFFF]|\uD86D[\uDC00-\uDF34\uDF40-\uDFFF]|\uD86E[\uDC00-\uDC1D\uDC20-\uDFFF]|\uD873[\uDC00-\uDEA1\uDEB0-\uDFFF]|\uD87A[\uDC00-\uDFE0]|\uD87E[\uDC00-\uDE1D]|\uDB40[\uDD00-\uDDEF]/;
-      var unicode = {
-        Space_Separator,
-        ID_Start,
-        ID_Continue
-      };
-      var util = {
-        isSpaceSeparator: function isSpaceSeparator(c2) {
-          return typeof c2 === "string" && unicode.Space_Separator.test(c2);
-        },
-        isIdStartChar: function isIdStartChar(c2) {
-          return typeof c2 === "string" && (c2 >= "a" && c2 <= "z" || c2 >= "A" && c2 <= "Z" || c2 === "$" || c2 === "_" || unicode.ID_Start.test(c2));
-        },
-        isIdContinueChar: function isIdContinueChar(c2) {
-          return typeof c2 === "string" && (c2 >= "a" && c2 <= "z" || c2 >= "A" && c2 <= "Z" || c2 >= "0" && c2 <= "9" || c2 === "$" || c2 === "_" || c2 === "\u200C" || c2 === "\u200D" || unicode.ID_Continue.test(c2));
-        },
-        isDigit: function isDigit(c2) {
-          return typeof c2 === "string" && /[0-9]/.test(c2);
-        },
-        isHexDigit: function isHexDigit(c2) {
-          return typeof c2 === "string" && /[0-9A-Fa-f]/.test(c2);
-        }
-      };
-      var source;
-      var parseState;
-      var stack;
-      var pos;
-      var line;
-      var column;
-      var token;
-      var key;
-      var root;
-      var parse2 = function parse3(text, reviver) {
-        source = String(text);
-        parseState = "start";
-        stack = [];
-        pos = 0;
-        line = 1;
-        column = 0;
-        token = void 0;
-        key = void 0;
-        root = void 0;
-        do {
-          token = lex();
-          parseStates[parseState]();
-        } while (token.type !== "eof");
-        if (typeof reviver === "function") {
-          return internalize({ "": root }, "", reviver);
-        }
-        return root;
-      };
-      function internalize(holder, name, reviver) {
-        var value = holder[name];
-        if (value != null && typeof value === "object") {
-          for (var key2 in value) {
-            var replacement = internalize(value, key2, reviver);
-            if (replacement === void 0) {
-              delete value[key2];
-            } else {
-              value[key2] = replacement;
-            }
-          }
-        }
-        return reviver.call(holder, name, value);
-      }
-      var lexState;
-      var buffer;
-      var doubleQuote;
-      var sign;
-      var c;
-      function lex() {
-        lexState = "default";
-        buffer = "";
-        doubleQuote = false;
-        sign = 1;
-        for (; ; ) {
-          c = peek();
-          var token2 = lexStates[lexState]();
-          if (token2) {
-            return token2;
-          }
-        }
-      }
-      function peek() {
-        if (source[pos]) {
-          return String.fromCodePoint(source.codePointAt(pos));
-        }
-      }
-      function read2() {
-        var c2 = peek();
-        if (c2 === "\n") {
-          line++;
-          column = 0;
-        } else if (c2) {
-          column += c2.length;
-        } else {
-          column++;
-        }
-        if (c2) {
-          pos += c2.length;
-        }
-        return c2;
-      }
-      var lexStates = {
-        default: function default$1() {
-          switch (c) {
-            case "	":
-            case "\v":
-            case "\f":
-            case " ":
-            case "\xA0":
-            case "\uFEFF":
-            case "\n":
-            case "\r":
-            case "\u2028":
-            case "\u2029":
-              read2();
-              return;
-            case "/":
-              read2();
-              lexState = "comment";
-              return;
-            case void 0:
-              read2();
-              return newToken("eof");
-          }
-          if (util.isSpaceSeparator(c)) {
-            read2();
-            return;
-          }
-          return lexStates[parseState]();
-        },
-        comment: function comment() {
-          switch (c) {
-            case "*":
-              read2();
-              lexState = "multiLineComment";
-              return;
-            case "/":
-              read2();
-              lexState = "singleLineComment";
-              return;
-          }
-          throw invalidChar(read2());
-        },
-        multiLineComment: function multiLineComment() {
-          switch (c) {
-            case "*":
-              read2();
-              lexState = "multiLineCommentAsterisk";
-              return;
-            case void 0:
-              throw invalidChar(read2());
-          }
-          read2();
-        },
-        multiLineCommentAsterisk: function multiLineCommentAsterisk() {
-          switch (c) {
-            case "*":
-              read2();
-              return;
-            case "/":
-              read2();
-              lexState = "default";
-              return;
-            case void 0:
-              throw invalidChar(read2());
-          }
-          read2();
-          lexState = "multiLineComment";
-        },
-        singleLineComment: function singleLineComment() {
-          switch (c) {
-            case "\n":
-            case "\r":
-            case "\u2028":
-            case "\u2029":
-              read2();
-              lexState = "default";
-              return;
-            case void 0:
-              read2();
-              return newToken("eof");
-          }
-          read2();
-        },
-        value: function value() {
-          switch (c) {
-            case "{":
-            case "[":
-              return newToken("punctuator", read2());
-            case "n":
-              read2();
-              literal("ull");
-              return newToken("null", null);
-            case "t":
-              read2();
-              literal("rue");
-              return newToken("boolean", true);
-            case "f":
-              read2();
-              literal("alse");
-              return newToken("boolean", false);
-            case "-":
-            case "+":
-              if (read2() === "-") {
-                sign = -1;
-              }
-              lexState = "sign";
-              return;
-            case ".":
-              buffer = read2();
-              lexState = "decimalPointLeading";
-              return;
-            case "0":
-              buffer = read2();
-              lexState = "zero";
-              return;
-            case "1":
-            case "2":
-            case "3":
-            case "4":
-            case "5":
-            case "6":
-            case "7":
-            case "8":
-            case "9":
-              buffer = read2();
-              lexState = "decimalInteger";
-              return;
-            case "I":
-              read2();
-              literal("nfinity");
-              return newToken("numeric", Infinity);
-            case "N":
-              read2();
-              literal("aN");
-              return newToken("numeric", NaN);
-            case '"':
-            case "'":
-              doubleQuote = read2() === '"';
-              buffer = "";
-              lexState = "string";
-              return;
-          }
-          throw invalidChar(read2());
-        },
-        identifierNameStartEscape: function identifierNameStartEscape() {
-          if (c !== "u") {
-            throw invalidChar(read2());
-          }
-          read2();
-          var u = unicodeEscape();
-          switch (u) {
-            case "$":
-            case "_":
-              break;
-            default:
-              if (!util.isIdStartChar(u)) {
-                throw invalidIdentifier();
-              }
-              break;
-          }
-          buffer += u;
-          lexState = "identifierName";
-        },
-        identifierName: function identifierName() {
-          switch (c) {
-            case "$":
-            case "_":
-            case "\u200C":
-            case "\u200D":
-              buffer += read2();
-              return;
-            case "\\":
-              read2();
-              lexState = "identifierNameEscape";
-              return;
-          }
-          if (util.isIdContinueChar(c)) {
-            buffer += read2();
-            return;
-          }
-          return newToken("identifier", buffer);
-        },
-        identifierNameEscape: function identifierNameEscape() {
-          if (c !== "u") {
-            throw invalidChar(read2());
-          }
-          read2();
-          var u = unicodeEscape();
-          switch (u) {
-            case "$":
-            case "_":
-            case "\u200C":
-            case "\u200D":
-              break;
-            default:
-              if (!util.isIdContinueChar(u)) {
-                throw invalidIdentifier();
-              }
-              break;
-          }
-          buffer += u;
-          lexState = "identifierName";
-        },
-        sign: function sign$1() {
-          switch (c) {
-            case ".":
-              buffer = read2();
-              lexState = "decimalPointLeading";
-              return;
-            case "0":
-              buffer = read2();
-              lexState = "zero";
-              return;
-            case "1":
-            case "2":
-            case "3":
-            case "4":
-            case "5":
-            case "6":
-            case "7":
-            case "8":
-            case "9":
-              buffer = read2();
-              lexState = "decimalInteger";
-              return;
-            case "I":
-              read2();
-              literal("nfinity");
-              return newToken("numeric", sign * Infinity);
-            case "N":
-              read2();
-              literal("aN");
-              return newToken("numeric", NaN);
-          }
-          throw invalidChar(read2());
-        },
-        zero: function zero() {
-          switch (c) {
-            case ".":
-              buffer += read2();
-              lexState = "decimalPoint";
-              return;
-            case "e":
-            case "E":
-              buffer += read2();
-              lexState = "decimalExponent";
-              return;
-            case "x":
-            case "X":
-              buffer += read2();
-              lexState = "hexadecimal";
-              return;
-          }
-          return newToken("numeric", sign * 0);
-        },
-        decimalInteger: function decimalInteger() {
-          switch (c) {
-            case ".":
-              buffer += read2();
-              lexState = "decimalPoint";
-              return;
-            case "e":
-            case "E":
-              buffer += read2();
-              lexState = "decimalExponent";
-              return;
-          }
-          if (util.isDigit(c)) {
-            buffer += read2();
-            return;
-          }
-          return newToken("numeric", sign * Number(buffer));
-        },
-        decimalPointLeading: function decimalPointLeading() {
-          if (util.isDigit(c)) {
-            buffer += read2();
-            lexState = "decimalFraction";
-            return;
-          }
-          throw invalidChar(read2());
-        },
-        decimalPoint: function decimalPoint() {
-          switch (c) {
-            case "e":
-            case "E":
-              buffer += read2();
-              lexState = "decimalExponent";
-              return;
-          }
-          if (util.isDigit(c)) {
-            buffer += read2();
-            lexState = "decimalFraction";
-            return;
-          }
-          return newToken("numeric", sign * Number(buffer));
-        },
-        decimalFraction: function decimalFraction() {
-          switch (c) {
-            case "e":
-            case "E":
-              buffer += read2();
-              lexState = "decimalExponent";
-              return;
-          }
-          if (util.isDigit(c)) {
-            buffer += read2();
-            return;
-          }
-          return newToken("numeric", sign * Number(buffer));
-        },
-        decimalExponent: function decimalExponent() {
-          switch (c) {
-            case "+":
-            case "-":
-              buffer += read2();
-              lexState = "decimalExponentSign";
-              return;
-          }
-          if (util.isDigit(c)) {
-            buffer += read2();
-            lexState = "decimalExponentInteger";
-            return;
-          }
-          throw invalidChar(read2());
-        },
-        decimalExponentSign: function decimalExponentSign() {
-          if (util.isDigit(c)) {
-            buffer += read2();
-            lexState = "decimalExponentInteger";
-            return;
-          }
-          throw invalidChar(read2());
-        },
-        decimalExponentInteger: function decimalExponentInteger() {
-          if (util.isDigit(c)) {
-            buffer += read2();
-            return;
-          }
-          return newToken("numeric", sign * Number(buffer));
-        },
-        hexadecimal: function hexadecimal() {
-          if (util.isHexDigit(c)) {
-            buffer += read2();
-            lexState = "hexadecimalInteger";
-            return;
-          }
-          throw invalidChar(read2());
-        },
-        hexadecimalInteger: function hexadecimalInteger() {
-          if (util.isHexDigit(c)) {
-            buffer += read2();
-            return;
-          }
-          return newToken("numeric", sign * Number(buffer));
-        },
-        string: function string() {
-          switch (c) {
-            case "\\":
-              read2();
-              buffer += escape();
-              return;
-            case '"':
-              if (doubleQuote) {
-                read2();
-                return newToken("string", buffer);
-              }
-              buffer += read2();
-              return;
-            case "'":
-              if (!doubleQuote) {
-                read2();
-                return newToken("string", buffer);
-              }
-              buffer += read2();
-              return;
-            case "\n":
-            case "\r":
-              throw invalidChar(read2());
-            case "\u2028":
-            case "\u2029":
-              separatorChar(c);
-              break;
-            case void 0:
-              throw invalidChar(read2());
-          }
-          buffer += read2();
-        },
-        start: function start2() {
-          switch (c) {
-            case "{":
-            case "[":
-              return newToken("punctuator", read2());
-          }
-          lexState = "value";
-        },
-        beforePropertyName: function beforePropertyName() {
-          switch (c) {
-            case "$":
-            case "_":
-              buffer = read2();
-              lexState = "identifierName";
-              return;
-            case "\\":
-              read2();
-              lexState = "identifierNameStartEscape";
-              return;
-            case "}":
-              return newToken("punctuator", read2());
-            case '"':
-            case "'":
-              doubleQuote = read2() === '"';
-              lexState = "string";
-              return;
-          }
-          if (util.isIdStartChar(c)) {
-            buffer += read2();
-            lexState = "identifierName";
-            return;
-          }
-          throw invalidChar(read2());
-        },
-        afterPropertyName: function afterPropertyName() {
-          if (c === ":") {
-            return newToken("punctuator", read2());
-          }
-          throw invalidChar(read2());
-        },
-        beforePropertyValue: function beforePropertyValue() {
-          lexState = "value";
-        },
-        afterPropertyValue: function afterPropertyValue() {
-          switch (c) {
-            case ",":
-            case "}":
-              return newToken("punctuator", read2());
-          }
-          throw invalidChar(read2());
-        },
-        beforeArrayValue: function beforeArrayValue() {
-          if (c === "]") {
-            return newToken("punctuator", read2());
-          }
-          lexState = "value";
-        },
-        afterArrayValue: function afterArrayValue() {
-          switch (c) {
-            case ",":
-            case "]":
-              return newToken("punctuator", read2());
-          }
-          throw invalidChar(read2());
-        },
-        end: function end2() {
-          throw invalidChar(read2());
-        }
-      };
-      function newToken(type, value) {
-        return {
-          type,
-          value,
-          line,
-          column
-        };
-      }
-      function literal(s) {
-        for (var i = 0, list = s; i < list.length; i += 1) {
-          var c2 = list[i];
-          var p = peek();
-          if (p !== c2) {
-            throw invalidChar(read2());
-          }
-          read2();
-        }
-      }
-      function escape() {
-        var c2 = peek();
-        switch (c2) {
-          case "b":
-            read2();
-            return "\b";
-          case "f":
-            read2();
-            return "\f";
-          case "n":
-            read2();
-            return "\n";
-          case "r":
-            read2();
-            return "\r";
-          case "t":
-            read2();
-            return "	";
-          case "v":
-            read2();
-            return "\v";
-          case "0":
-            read2();
-            if (util.isDigit(peek())) {
-              throw invalidChar(read2());
-            }
-            return "\0";
-          case "x":
-            read2();
-            return hexEscape();
-          case "u":
-            read2();
-            return unicodeEscape();
-          case "\n":
-          case "\u2028":
-          case "\u2029":
-            read2();
-            return "";
-          case "\r":
-            read2();
-            if (peek() === "\n") {
-              read2();
-            }
-            return "";
-          case "1":
-          case "2":
-          case "3":
-          case "4":
-          case "5":
-          case "6":
-          case "7":
-          case "8":
-          case "9":
-            throw invalidChar(read2());
-          case void 0:
-            throw invalidChar(read2());
-        }
-        return read2();
-      }
-      function hexEscape() {
-        var buffer2 = "";
-        var c2 = peek();
-        if (!util.isHexDigit(c2)) {
-          throw invalidChar(read2());
-        }
-        buffer2 += read2();
-        c2 = peek();
-        if (!util.isHexDigit(c2)) {
-          throw invalidChar(read2());
-        }
-        buffer2 += read2();
-        return String.fromCodePoint(parseInt(buffer2, 16));
-      }
-      function unicodeEscape() {
-        var buffer2 = "";
-        var count = 4;
-        while (count-- > 0) {
-          var c2 = peek();
-          if (!util.isHexDigit(c2)) {
-            throw invalidChar(read2());
-          }
-          buffer2 += read2();
-        }
-        return String.fromCodePoint(parseInt(buffer2, 16));
-      }
-      var parseStates = {
-        start: function start2() {
-          if (token.type === "eof") {
-            throw invalidEOF();
-          }
-          push();
-        },
-        beforePropertyName: function beforePropertyName() {
-          switch (token.type) {
-            case "identifier":
-            case "string":
-              key = token.value;
-              parseState = "afterPropertyName";
-              return;
-            case "punctuator":
-              pop();
-              return;
-            case "eof":
-              throw invalidEOF();
-          }
-        },
-        afterPropertyName: function afterPropertyName() {
-          if (token.type === "eof") {
-            throw invalidEOF();
-          }
-          parseState = "beforePropertyValue";
-        },
-        beforePropertyValue: function beforePropertyValue() {
-          if (token.type === "eof") {
-            throw invalidEOF();
-          }
-          push();
-        },
-        beforeArrayValue: function beforeArrayValue() {
-          if (token.type === "eof") {
-            throw invalidEOF();
-          }
-          if (token.type === "punctuator" && token.value === "]") {
-            pop();
-            return;
-          }
-          push();
-        },
-        afterPropertyValue: function afterPropertyValue() {
-          if (token.type === "eof") {
-            throw invalidEOF();
-          }
-          switch (token.value) {
-            case ",":
-              parseState = "beforePropertyName";
-              return;
-            case "}":
-              pop();
-          }
-        },
-        afterArrayValue: function afterArrayValue() {
-          if (token.type === "eof") {
-            throw invalidEOF();
-          }
-          switch (token.value) {
-            case ",":
-              parseState = "beforeArrayValue";
-              return;
-            case "]":
-              pop();
-          }
-        },
-        end: function end2() {
-        }
-      };
-      function push() {
-        var value;
-        switch (token.type) {
-          case "punctuator":
-            switch (token.value) {
-              case "{":
-                value = {};
-                break;
-              case "[":
-                value = [];
-                break;
-            }
-            break;
-          case "null":
-          case "boolean":
-          case "numeric":
-          case "string":
-            value = token.value;
-            break;
-        }
-        if (root === void 0) {
-          root = value;
-        } else {
-          var parent = stack[stack.length - 1];
-          if (Array.isArray(parent)) {
-            parent.push(value);
-          } else {
-            parent[key] = value;
-          }
-        }
-        if (value !== null && typeof value === "object") {
-          stack.push(value);
-          if (Array.isArray(value)) {
-            parseState = "beforeArrayValue";
-          } else {
-            parseState = "beforePropertyName";
-          }
-        } else {
-          var current = stack[stack.length - 1];
-          if (current == null) {
-            parseState = "end";
-          } else if (Array.isArray(current)) {
-            parseState = "afterArrayValue";
-          } else {
-            parseState = "afterPropertyValue";
-          }
-        }
-      }
-      function pop() {
-        stack.pop();
-        var current = stack[stack.length - 1];
-        if (current == null) {
-          parseState = "end";
-        } else if (Array.isArray(current)) {
-          parseState = "afterArrayValue";
-        } else {
-          parseState = "afterPropertyValue";
-        }
-      }
-      function invalidChar(c2) {
-        if (c2 === void 0) {
-          return syntaxError("JSON5: invalid end of input at " + line + ":" + column);
-        }
-        return syntaxError("JSON5: invalid character '" + formatChar(c2) + "' at " + line + ":" + column);
-      }
-      function invalidEOF() {
-        return syntaxError("JSON5: invalid end of input at " + line + ":" + column);
-      }
-      function invalidIdentifier() {
-        column -= 5;
-        return syntaxError("JSON5: invalid identifier character at " + line + ":" + column);
-      }
-      function separatorChar(c2) {
-        console.warn("JSON5: '" + formatChar(c2) + "' in strings is not valid ECMAScript; consider escaping");
-      }
-      function formatChar(c2) {
-        var replacements = {
-          "'": "\\'",
-          '"': '\\"',
-          "\\": "\\\\",
-          "\b": "\\b",
-          "\f": "\\f",
-          "\n": "\\n",
-          "\r": "\\r",
-          "	": "\\t",
-          "\v": "\\v",
-          "\0": "\\0",
-          "\u2028": "\\u2028",
-          "\u2029": "\\u2029"
-        };
-        if (replacements[c2]) {
-          return replacements[c2];
-        }
-        if (c2 < " ") {
-          var hexString = c2.charCodeAt(0).toString(16);
-          return "\\x" + ("00" + hexString).substring(hexString.length);
-        }
-        return c2;
-      }
-      function syntaxError(message) {
-        var err = new SyntaxError(message);
-        err.lineNumber = line;
-        err.columnNumber = column;
-        return err;
-      }
-      var stringify = function stringify2(value, replacer, space2) {
-        var stack2 = [];
-        var indent = "";
-        var propertyList;
-        var replacerFunc;
-        var gap = "";
-        var quote;
-        if (replacer != null && typeof replacer === "object" && !Array.isArray(replacer)) {
-          space2 = replacer.space;
-          quote = replacer.quote;
-          replacer = replacer.replacer;
-        }
-        if (typeof replacer === "function") {
-          replacerFunc = replacer;
-        } else if (Array.isArray(replacer)) {
-          propertyList = [];
-          for (var i = 0, list = replacer; i < list.length; i += 1) {
-            var v = list[i];
-            var item = void 0;
-            if (typeof v === "string") {
-              item = v;
-            } else if (typeof v === "number" || v instanceof String || v instanceof Number) {
-              item = String(v);
-            }
-            if (item !== void 0 && propertyList.indexOf(item) < 0) {
-              propertyList.push(item);
-            }
-          }
-        }
-        if (space2 instanceof Number) {
-          space2 = Number(space2);
-        } else if (space2 instanceof String) {
-          space2 = String(space2);
-        }
-        if (typeof space2 === "number") {
-          if (space2 > 0) {
-            space2 = Math.min(10, Math.floor(space2));
-            gap = "          ".substr(0, space2);
-          }
-        } else if (typeof space2 === "string") {
-          gap = space2.substr(0, 10);
-        }
-        return serializeProperty("", { "": value });
-        function serializeProperty(key2, holder) {
-          var value2 = holder[key2];
-          if (value2 != null) {
-            if (typeof value2.toJSON5 === "function") {
-              value2 = value2.toJSON5(key2);
-            } else if (typeof value2.toJSON === "function") {
-              value2 = value2.toJSON(key2);
-            }
-          }
-          if (replacerFunc) {
-            value2 = replacerFunc.call(holder, key2, value2);
-          }
-          if (value2 instanceof Number) {
-            value2 = Number(value2);
-          } else if (value2 instanceof String) {
-            value2 = String(value2);
-          } else if (value2 instanceof Boolean) {
-            value2 = value2.valueOf();
-          }
-          switch (value2) {
-            case null:
-              return "null";
-            case true:
-              return "true";
-            case false:
-              return "false";
-          }
-          if (typeof value2 === "string") {
-            return quoteString(value2, false);
-          }
-          if (typeof value2 === "number") {
-            return String(value2);
-          }
-          if (typeof value2 === "object") {
-            return Array.isArray(value2) ? serializeArray(value2) : serializeObject(value2);
-          }
-          return void 0;
-        }
-        function quoteString(value2) {
-          var quotes = {
-            "'": 0.1,
-            '"': 0.2
-          };
-          var replacements = {
-            "'": "\\'",
-            '"': '\\"',
-            "\\": "\\\\",
-            "\b": "\\b",
-            "\f": "\\f",
-            "\n": "\\n",
-            "\r": "\\r",
-            "	": "\\t",
-            "\v": "\\v",
-            "\0": "\\0",
-            "\u2028": "\\u2028",
-            "\u2029": "\\u2029"
-          };
-          var product = "";
-          for (var i2 = 0; i2 < value2.length; i2++) {
-            var c2 = value2[i2];
-            switch (c2) {
-              case "'":
-              case '"':
-                quotes[c2]++;
-                product += c2;
-                continue;
-              case "\0":
-                if (util.isDigit(value2[i2 + 1])) {
-                  product += "\\x00";
-                  continue;
-                }
-            }
-            if (replacements[c2]) {
-              product += replacements[c2];
-              continue;
-            }
-            if (c2 < " ") {
-              var hexString = c2.charCodeAt(0).toString(16);
-              product += "\\x" + ("00" + hexString).substring(hexString.length);
-              continue;
-            }
-            product += c2;
-          }
-          var quoteChar = quote || Object.keys(quotes).reduce(function(a, b) {
-            return quotes[a] < quotes[b] ? a : b;
-          });
-          product = product.replace(new RegExp(quoteChar, "g"), replacements[quoteChar]);
-          return quoteChar + product + quoteChar;
-        }
-        function serializeObject(value2) {
-          if (stack2.indexOf(value2) >= 0) {
-            throw TypeError("Converting circular structure to JSON5");
-          }
-          stack2.push(value2);
-          var stepback = indent;
-          indent = indent + gap;
-          var keys = propertyList || Object.keys(value2);
-          var partial = [];
-          for (var i2 = 0, list2 = keys; i2 < list2.length; i2 += 1) {
-            var key2 = list2[i2];
-            var propertyString = serializeProperty(key2, value2);
-            if (propertyString !== void 0) {
-              var member = serializeKey(key2) + ":";
-              if (gap !== "") {
-                member += " ";
-              }
-              member += propertyString;
-              partial.push(member);
-            }
-          }
-          var final;
-          if (partial.length === 0) {
-            final = "{}";
-          } else {
-            var properties;
-            if (gap === "") {
-              properties = partial.join(",");
-              final = "{" + properties + "}";
-            } else {
-              var separator = ",\n" + indent;
-              properties = partial.join(separator);
-              final = "{\n" + indent + properties + ",\n" + stepback + "}";
-            }
-          }
-          stack2.pop();
-          indent = stepback;
-          return final;
-        }
-        function serializeKey(key2) {
-          if (key2.length === 0) {
-            return quoteString(key2, true);
-          }
-          var firstChar = String.fromCodePoint(key2.codePointAt(0));
-          if (!util.isIdStartChar(firstChar)) {
-            return quoteString(key2, true);
-          }
-          for (var i2 = firstChar.length; i2 < key2.length; i2++) {
-            if (!util.isIdContinueChar(String.fromCodePoint(key2.codePointAt(i2)))) {
-              return quoteString(key2, true);
-            }
-          }
-          return key2;
-        }
-        function serializeArray(value2) {
-          if (stack2.indexOf(value2) >= 0) {
-            throw TypeError("Converting circular structure to JSON5");
-          }
-          stack2.push(value2);
-          var stepback = indent;
-          indent = indent + gap;
-          var partial = [];
-          for (var i2 = 0; i2 < value2.length; i2++) {
-            var propertyString = serializeProperty(String(i2), value2);
-            partial.push(propertyString !== void 0 ? propertyString : "null");
-          }
-          var final;
-          if (partial.length === 0) {
-            final = "[]";
-          } else {
-            if (gap === "") {
-              var properties = partial.join(",");
-              final = "[" + properties + "]";
-            } else {
-              var separator = ",\n" + indent;
-              var properties$1 = partial.join(separator);
-              final = "[\n" + indent + properties$1 + ",\n" + stepback + "]";
-            }
-          }
-          stack2.pop();
-          indent = stepback;
-          return final;
-        }
-      };
-      var JSON5 = {
-        parse: parse2,
-        stringify
-      };
-      var lib = JSON5;
-      var es5 = lib;
-      return es5;
-    });
-  }
-});
-
 // src/main.ts
 __export(exports, {
   default: () => LatexSuitePlugin
 });
 var import_obsidian8 = __toModule(require("obsidian"));
 
-// src/settings.ts
-var import_obsidian7 = __toModule(require("obsidian"));
-var import_view8 = __toModule(require("@codemirror/view"));
-var import_state8 = __toModule(require("@codemirror/state"));
+// src/settings/file_watch.ts
+var import_obsidian = __toModule(require("obsidian"));
 
-// src/ui/snippets_editor/extensions.ts
+// node_modules/valibot/dist/index.js
+var ValiError = class extends Error {
+  constructor(issues) {
+    super(issues[0].message);
+    __publicField(this, "issues");
+    this.name = "ValiError";
+    this.issues = issues;
+  }
+};
+var BrandSymbol = Symbol("brand");
+function errorMessage(message) {
+  return typeof message === "function" ? message() : message;
+}
+function defaultArgs(arg1, arg2) {
+  return Array.isArray(arg1) ? [void 0, arg1] : [arg1, arg2];
+}
+function parseResult(typed, output, issues) {
+  return { typed, output, issues };
+}
+function restAndDefaultArgs(arg1, arg2, arg3) {
+  if (!arg1 || typeof arg1 === "object" && !Array.isArray(arg1)) {
+    const [error2, pipe2] = defaultArgs(arg2, arg3);
+    return [arg1, error2, pipe2];
+  }
+  const [error, pipe] = defaultArgs(arg1, arg2);
+  return [void 0, error, pipe];
+}
+function pipeIssue(info, issue) {
+  return {
+    reason: info == null ? void 0 : info.reason,
+    validation: issue.validation,
+    origin: (info == null ? void 0 : info.origin) || "value",
+    message: issue.message,
+    input: issue.input,
+    requirement: issue == null ? void 0 : issue.requirement,
+    path: issue.path,
+    abortEarly: info == null ? void 0 : info.abortEarly,
+    abortPipeEarly: info == null ? void 0 : info.abortPipeEarly,
+    skipPipe: info == null ? void 0 : info.skipPipe
+  };
+}
+function pipeInfo(info, reason) {
+  return {
+    reason,
+    origin: info == null ? void 0 : info.origin,
+    abortEarly: info == null ? void 0 : info.abortEarly,
+    abortPipeEarly: info == null ? void 0 : info.abortPipeEarly,
+    skipPipe: info == null ? void 0 : info.skipPipe
+  };
+}
+function pipeResult(input, pipe, parseInfo, reason, issues) {
+  let info;
+  let output = input;
+  if ((pipe == null ? void 0 : pipe.length) && !(parseInfo == null ? void 0 : parseInfo.skipPipe)) {
+    for (const action of pipe) {
+      const result = action._parse(output);
+      if (result.issues) {
+        info = info || pipeInfo(parseInfo, reason);
+        for (const issueInfo of result.issues) {
+          const issue = pipeIssue(info, issueInfo);
+          issues ? issues.push(issue) : issues = [issue];
+        }
+        if (info.abortEarly || info.abortPipeEarly) {
+          break;
+        }
+      } else {
+        output = result.output;
+      }
+    }
+  }
+  return parseResult(true, output, issues);
+}
+function schemaIssue(info, reason, validation, message, input, issues) {
+  return {
+    typed: false,
+    output: input,
+    issues: [
+      {
+        reason,
+        validation,
+        origin: (info == null ? void 0 : info.origin) || "value",
+        message: errorMessage(message),
+        input,
+        issues,
+        abortEarly: info == null ? void 0 : info.abortEarly,
+        abortPipeEarly: info == null ? void 0 : info.abortPipeEarly,
+        skipPipe: info == null ? void 0 : info.skipPipe
+      }
+    ]
+  };
+}
+function getDefault(schema) {
+  return typeof schema.default === "function" ? schema.default() : schema.default;
+}
+function instance(class_, arg2, arg3) {
+  const [message = "Invalid type", pipe] = defaultArgs(arg2, arg3);
+  return {
+    type: "instance",
+    async: false,
+    class: class_,
+    message,
+    pipe,
+    _parse(input, info) {
+      if (!(input instanceof this.class)) {
+        return schemaIssue(info, "type", "instance", this.message, input);
+      }
+      return pipeResult(input, this.pipe, info, "instance");
+    }
+  };
+}
+function number(arg1, arg2) {
+  const [message = "Invalid type", pipe] = defaultArgs(arg1, arg2);
+  return {
+    type: "number",
+    async: false,
+    message,
+    pipe,
+    _parse(input, info) {
+      if (typeof input !== "number" || isNaN(input)) {
+        return schemaIssue(info, "type", "number", this.message, input);
+      }
+      return pipeResult(input, this.pipe, info, "number");
+    }
+  };
+}
+function object(entries, arg2, arg3, arg4) {
+  const [rest, message = "Invalid type", pipe] = restAndDefaultArgs(arg2, arg3, arg4);
+  let cachedEntries;
+  return {
+    type: "object",
+    async: false,
+    entries,
+    rest,
+    message,
+    pipe,
+    _parse(input, info) {
+      if (!input || typeof input !== "object") {
+        return schemaIssue(info, "type", "object", this.message, input);
+      }
+      cachedEntries = cachedEntries || Object.entries(this.entries);
+      let typed = true;
+      let issues;
+      const output = {};
+      for (const [key, schema] of cachedEntries) {
+        const value2 = input[key];
+        const result = schema._parse(value2, info);
+        if (result.issues) {
+          const pathItem = {
+            type: "object",
+            input,
+            key,
+            value: value2
+          };
+          for (const issue of result.issues) {
+            if (issue.path) {
+              issue.path.unshift(pathItem);
+            } else {
+              issue.path = [pathItem];
+            }
+            issues == null ? void 0 : issues.push(issue);
+          }
+          if (!issues) {
+            issues = result.issues;
+          }
+          if (info == null ? void 0 : info.abortEarly) {
+            typed = false;
+            break;
+          }
+        }
+        if (!result.typed) {
+          typed = false;
+        }
+        if (result.output !== void 0 || key in input) {
+          output[key] = result.output;
+        }
+      }
+      if (this.rest && !((info == null ? void 0 : info.abortEarly) && issues)) {
+        for (const key in input) {
+          if (!(key in this.entries)) {
+            const value2 = input[key];
+            const result = this.rest._parse(value2, info);
+            if (result.issues) {
+              const pathItem = {
+                type: "object",
+                input,
+                key,
+                value: value2
+              };
+              for (const issue of result.issues) {
+                if (issue.path) {
+                  issue.path.unshift(pathItem);
+                } else {
+                  issue.path = [pathItem];
+                }
+                issues == null ? void 0 : issues.push(issue);
+              }
+              if (!issues) {
+                issues = result.issues;
+              }
+              if (info == null ? void 0 : info.abortEarly) {
+                typed = false;
+                break;
+              }
+            }
+            if (!result.typed) {
+              typed = false;
+            }
+            output[key] = result.output;
+          }
+        }
+      }
+      if (typed) {
+        return pipeResult(output, this.pipe, info, "object", issues);
+      }
+      return parseResult(false, output, issues);
+    }
+  };
+}
+function optional(wrapped, default_) {
+  return {
+    type: "optional",
+    async: false,
+    wrapped,
+    default: default_,
+    _parse(input, info) {
+      if (input === void 0) {
+        const override = getDefault(this);
+        if (override === void 0) {
+          return parseResult(true, input);
+        }
+        input = override;
+      }
+      return this.wrapped._parse(input, info);
+    }
+  };
+}
+function string(arg1, arg2) {
+  const [message = "Invalid type", pipe] = defaultArgs(arg1, arg2);
+  return {
+    type: "string",
+    async: false,
+    message,
+    pipe,
+    _parse(input, info) {
+      if (typeof input !== "string") {
+        return schemaIssue(info, "type", "string", this.message, input);
+      }
+      return pipeResult(input, this.pipe, info, "string");
+    }
+  };
+}
+function special(check, arg2, arg3) {
+  const [message = "Invalid type", pipe] = defaultArgs(arg2, arg3);
+  return {
+    type: "special",
+    async: false,
+    check,
+    message,
+    pipe,
+    _parse(input, info) {
+      if (!this.check(input)) {
+        return schemaIssue(info, "type", "special", this.message, input);
+      }
+      return pipeResult(input, this.pipe, info, "special");
+    }
+  };
+}
+function union(options, message = "Invalid type") {
+  return {
+    type: "union",
+    async: false,
+    options,
+    message,
+    _parse(input, info) {
+      let issues;
+      let output;
+      for (const schema of this.options) {
+        const result = schema._parse(input, info);
+        if (result.issues) {
+          if (issues) {
+            for (const issue of result.issues) {
+              issues.push(issue);
+            }
+          } else {
+            issues = result.issues;
+          }
+        } else {
+          output = [result.output];
+          break;
+        }
+      }
+      if (output) {
+        return parseResult(true, output[0]);
+      }
+      return schemaIssue(info, "type", "union", this.message, input, issues);
+    }
+  };
+}
+function parse(schema, input, info) {
+  const result = schema._parse(input, info);
+  if (result.issues) {
+    throw new ValiError(result.issues);
+  }
+  return result.output;
+}
+
+// node_modules/js-base64/base64.mjs
+var _hasbtoa = typeof btoa === "function";
+var _hasBuffer = typeof Buffer === "function";
+var _TD = typeof TextDecoder === "function" ? new TextDecoder() : void 0;
+var _TE = typeof TextEncoder === "function" ? new TextEncoder() : void 0;
+var b64ch = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+var b64chs = Array.prototype.slice.call(b64ch);
+var b64tab = ((a) => {
+  let tab = {};
+  a.forEach((c, i) => tab[c] = i);
+  return tab;
+})(b64chs);
+var _fromCC = String.fromCharCode.bind(String);
+var _U8Afrom = typeof Uint8Array.from === "function" ? Uint8Array.from.bind(Uint8Array) : (it) => new Uint8Array(Array.prototype.slice.call(it, 0));
+var _mkUriSafe = (src) => src.replace(/=/g, "").replace(/[+\/]/g, (m0) => m0 == "+" ? "-" : "_");
+var btoaPolyfill = (bin) => {
+  let u32, c0, c1, c2, asc = "";
+  const pad = bin.length % 3;
+  for (let i = 0; i < bin.length; ) {
+    if ((c0 = bin.charCodeAt(i++)) > 255 || (c1 = bin.charCodeAt(i++)) > 255 || (c2 = bin.charCodeAt(i++)) > 255)
+      throw new TypeError("invalid character found");
+    u32 = c0 << 16 | c1 << 8 | c2;
+    asc += b64chs[u32 >> 18 & 63] + b64chs[u32 >> 12 & 63] + b64chs[u32 >> 6 & 63] + b64chs[u32 & 63];
+  }
+  return pad ? asc.slice(0, pad - 3) + "===".substring(pad) : asc;
+};
+var _btoa = _hasbtoa ? (bin) => btoa(bin) : _hasBuffer ? (bin) => Buffer.from(bin, "binary").toString("base64") : btoaPolyfill;
+var _fromUint8Array = _hasBuffer ? (u8a) => Buffer.from(u8a).toString("base64") : (u8a) => {
+  const maxargs = 4096;
+  let strs = [];
+  for (let i = 0, l = u8a.length; i < l; i += maxargs) {
+    strs.push(_fromCC.apply(null, u8a.subarray(i, i + maxargs)));
+  }
+  return _btoa(strs.join(""));
+};
+var cb_utob = (c) => {
+  if (c.length < 2) {
+    var cc = c.charCodeAt(0);
+    return cc < 128 ? c : cc < 2048 ? _fromCC(192 | cc >>> 6) + _fromCC(128 | cc & 63) : _fromCC(224 | cc >>> 12 & 15) + _fromCC(128 | cc >>> 6 & 63) + _fromCC(128 | cc & 63);
+  } else {
+    var cc = 65536 + (c.charCodeAt(0) - 55296) * 1024 + (c.charCodeAt(1) - 56320);
+    return _fromCC(240 | cc >>> 18 & 7) + _fromCC(128 | cc >>> 12 & 63) + _fromCC(128 | cc >>> 6 & 63) + _fromCC(128 | cc & 63);
+  }
+};
+var re_utob = /[\uD800-\uDBFF][\uDC00-\uDFFFF]|[^\x00-\x7F]/g;
+var utob = (u) => u.replace(re_utob, cb_utob);
+var _encode = _hasBuffer ? (s) => Buffer.from(s, "utf8").toString("base64") : _TE ? (s) => _fromUint8Array(_TE.encode(s)) : (s) => _btoa(utob(s));
+var encode = (src, urlsafe = false) => urlsafe ? _mkUriSafe(_encode(src)) : _encode(src);
+
+// src/snippets/snippets.ts
+var VISUAL_SNIPPET_MAGIC_SELECTION_PLACEHOLDER = "${VISUAL}";
+var Snippet = class {
+  constructor(type, trigger, replacement, options, priority, description, excludedEnvironments) {
+    this.type = type;
+    this.data = { trigger, replacement };
+    this.options = options;
+    this.priority = priority;
+    this.description = description;
+    this.excludedEnvironments = excludedEnvironments != null ? excludedEnvironments : [];
+  }
+  get trigger() {
+    return this.data.trigger;
+  }
+  get replacement() {
+    return this.data.replacement;
+  }
+  toString() {
+    return serializeSnippetLike({
+      type: this.type,
+      trigger: this.trigger,
+      replacement: this.replacement,
+      options: this.options,
+      priority: this.priority,
+      description: this.description,
+      excludedEnvironments: this.excludedEnvironments
+    });
+  }
+};
+var VisualSnippet = class extends Snippet {
+  constructor({ trigger, replacement, options, priority, description, excludedEnvironments }) {
+    super("visual", trigger, replacement, options, priority, description, excludedEnvironments);
+  }
+  process(effectiveLine, range, sel) {
+    const hasSelection = !!sel;
+    if (!hasSelection) {
+      return null;
+    }
+    if (!effectiveLine.endsWith(this.trigger)) {
+      return null;
+    }
+    const triggerPos = range.from;
+    let replacement;
+    if (typeof this.replacement === "string") {
+      replacement = this.replacement.replace(VISUAL_SNIPPET_MAGIC_SELECTION_PLACEHOLDER, sel);
+    } else {
+      replacement = this.replacement(sel);
+      if (typeof replacement !== "string") {
+        return null;
+      }
+    }
+    return { triggerPos, replacement };
+  }
+};
+var RegexSnippet = class extends Snippet {
+  constructor({ trigger, replacement, options, priority, description, excludedEnvironments }) {
+    super("regex", trigger, replacement, options, priority, description, excludedEnvironments);
+  }
+  process(effectiveLine, range, sel) {
+    const hasSelection = !!sel;
+    if (hasSelection) {
+      return null;
+    }
+    const result = this.trigger.exec(effectiveLine);
+    if (result === null) {
+      return null;
+    }
+    const triggerPos = result.index;
+    let replacement;
+    if (typeof this.replacement === "string") {
+      const nCaptureGroups = result.length - 1;
+      replacement = Array.from({ length: nCaptureGroups }).map((_, i) => i + 1).reduce((replacement2, i) => replacement2.replaceAll(`[[${i - 1}]]`, result[i]), this.replacement);
+    } else {
+      replacement = this.replacement(result);
+      if (typeof replacement !== "string") {
+        return null;
+      }
+    }
+    return { triggerPos, replacement };
+  }
+};
+var StringSnippet = class extends Snippet {
+  constructor({ trigger, replacement, options, priority, description, excludedEnvironments: excludeIn }) {
+    super("string", trigger, replacement, options, priority, description, excludeIn);
+  }
+  process(effectiveLine, range, sel) {
+    const hasSelection = !!sel;
+    if (hasSelection) {
+      return null;
+    }
+    if (!effectiveLine.endsWith(this.trigger)) {
+      return null;
+    }
+    const triggerPos = effectiveLine.length - this.trigger.length;
+    const replacement = typeof this.replacement === "string" ? this.replacement : this.replacement(this.trigger);
+    if (typeof replacement !== "string") {
+      return null;
+    }
+    return { triggerPos, replacement };
+  }
+};
+function replacer(k, v) {
+  if (typeof v === "function") {
+    return "[[Function]]";
+  }
+  if (v instanceof RegExp) {
+    return `[[RegExp]]: ${v.toString()}`;
+  }
+  return v;
+}
+function serializeSnippetLike(snippetLike) {
+  return JSON.stringify(snippetLike, replacer, 2);
+}
+
+// src/snippets/options.ts
+var Options = class {
+  constructor() {
+    this.mode = new Mode();
+    this.automatic = false;
+    this.regex = false;
+    this.onWordBoundary = false;
+    this.visual = false;
+  }
+  static fromSource(source) {
+    const options = new Options();
+    options.mode = Mode.fromSource(source);
+    for (const flag_char of source) {
+      switch (flag_char) {
+        case "A":
+          options.automatic = true;
+          break;
+        case "r":
+          options.regex = true;
+          break;
+        case "w":
+          options.onWordBoundary = true;
+          break;
+        case "v":
+          options.visual = true;
+          break;
+      }
+    }
+    return options;
+  }
+};
+var Mode = class {
+  inEquation() {
+    return this.inlineMath || this.blockMath;
+  }
+  inMath() {
+    return this.inlineMath || this.blockMath || this.codeMath;
+  }
+  strictlyInMath() {
+    return this.inMath() && !this.textEnv;
+  }
+  constructor() {
+    this.text = false;
+    this.blockMath = false;
+    this.inlineMath = false;
+    this.code = false;
+    this.textEnv = false;
+  }
+  invert() {
+    this.text = !this.text;
+    this.blockMath = !this.blockMath;
+    this.inlineMath = !this.inlineMath;
+    this.codeMath = !this.codeMath;
+    this.code = !this.code;
+    this.textEnv = !this.textEnv;
+  }
+  static fromSource(source) {
+    const mode = new Mode();
+    for (const flag_char of source) {
+      switch (flag_char) {
+        case "m":
+          mode.blockMath = true;
+          mode.inlineMath = true;
+          break;
+        case "n":
+          mode.inlineMath = true;
+          break;
+        case "M":
+          mode.blockMath = true;
+          break;
+        case "t":
+          mode.text = true;
+          break;
+        case "c":
+          mode.code = true;
+          break;
+      }
+    }
+    if (!(mode.text || mode.inlineMath || mode.blockMath || mode.codeMath || mode.code || mode.textEnv)) {
+      mode.invert();
+      return mode;
+    }
+    return mode;
+  }
+};
+
+// src/snippets/sort.ts
+function sortSnippets(snippets2) {
+  return snippets2.map((snippet, i) => [getPriority(snippet), getTriggerLength(snippet), i]).sort(schwartzianSnippetCompare).map(([p, t2, i]) => snippets2[i]);
+}
+function schwartzianSnippetCompare(a, b) {
+  return comparePriority(a[0], b[0]) || compareTriggerLength(a[1], b[1]);
+}
+function compareTriggerLength(a, b) {
+  if (a < b) {
+    return 1;
+  }
+  if (a > b) {
+    return -1;
+  }
+  return 0;
+}
+function comparePriority(a, b) {
+  if (a < b) {
+    return 1;
+  }
+  if (a > b) {
+    return -1;
+  }
+  return 0;
+}
+function getPriority(snippet) {
+  return snippet.priority || 0;
+}
+function getTriggerLength(snippet) {
+  return typeof snippet.trigger === "string" ? snippet.trigger.length : snippet.trigger.source.length;
+}
+
+// src/snippets/environment.ts
+var EXCLUSIONS = {
+  "([A-Za-z])(\\d)": { openSymbol: "\\pu{", closeSymbol: "}" },
+  "->": { openSymbol: "\\ce{", closeSymbol: "}" }
+};
+
+// src/snippets/parse_snippets.ts
+function parseSnippets(snippetsStr, snippetVariables) {
+  return __async(this, null, function* () {
+    let rawSnippets;
+    try {
+      try {
+        rawSnippets = yield importModuleDefault(`data:text/javascript;base64,${encode(snippetsStr)}`);
+      } catch (e) {
+        rawSnippets = yield importModuleDefault(`data:text/javascript;base64,${encode(`export default ${snippetsStr}`)}`);
+      }
+    } catch (e) {
+      throw "Invalid snippet format.";
+    }
+    let parsedSnippets;
+    try {
+      rawSnippets = validateRawSnippets(rawSnippets);
+      parsedSnippets = rawSnippets.map((raw) => {
+        try {
+          return parseSnippet(raw, snippetVariables);
+        } catch (e) {
+          throw `${e}
+Erroring snippet:
+${serializeSnippetLike(raw)}`;
+        }
+      });
+    } catch (e) {
+      throw `Invalid snippet format: ${e}`;
+    }
+    parsedSnippets = sortSnippets(parsedSnippets);
+    return parsedSnippets;
+  });
+}
+function importModuleDefault(module2) {
+  return __async(this, null, function* () {
+    let data;
+    try {
+      data = yield import(module2);
+    } catch (e) {
+      throw `failed to import module ${module2}`;
+    }
+    if (!("default" in data)) {
+      throw `No default export provided for module ${module2}`;
+    }
+    return data.default;
+  });
+}
+var RawSnippetSchema = object({
+  trigger: union([string(), instance(RegExp)]),
+  replacement: union([string(), special((x) => typeof x === "function")]),
+  options: string(),
+  flags: optional(string()),
+  priority: optional(number()),
+  description: optional(string())
+});
+function validateRawSnippets(snippets2) {
+  if (!Array.isArray(snippets2)) {
+    throw "Expected snippets to be an array";
+  }
+  return snippets2.map((raw) => {
+    try {
+      return parse(RawSnippetSchema, raw);
+    } catch (e) {
+      throw `Value does not resemble snippet.
+Erroring snippet:
+${serializeSnippetLike(raw)}`;
+    }
+  });
+}
+function parseSnippet(raw, snippetVariables) {
+  var _a;
+  const { replacement, priority, description } = raw;
+  const options = Options.fromSource(raw.options);
+  let trigger;
+  let excludedEnvironments;
+  if (options.regex || raw.trigger instanceof RegExp) {
+    let triggerStr;
+    let flags = (_a = raw.flags) != null ? _a : "";
+    if (raw.trigger instanceof RegExp) {
+      triggerStr = raw.trigger.source;
+      flags = `${raw.trigger.flags}${flags}`;
+    } else {
+      triggerStr = raw.trigger;
+    }
+    flags = filterFlags(flags);
+    triggerStr = insertSnippetVariables(triggerStr, snippetVariables);
+    excludedEnvironments = getExcludedEnvironments(triggerStr);
+    triggerStr = `${triggerStr}$`;
+    trigger = new RegExp(triggerStr, flags);
+    options.regex = true;
+    const normalised = { trigger, replacement, options, priority, description, excludedEnvironments };
+    return new RegexSnippet(normalised);
+  } else {
+    let trigger2 = raw.trigger;
+    trigger2 = insertSnippetVariables(trigger2, snippetVariables);
+    excludedEnvironments = getExcludedEnvironments(trigger2);
+    if (typeof replacement === "string" && replacement.includes(VISUAL_SNIPPET_MAGIC_SELECTION_PLACEHOLDER)) {
+      options.visual = true;
+    }
+    const normalised = { trigger: trigger2, replacement, options, priority, description, excludedEnvironments };
+    if (options.visual) {
+      return new VisualSnippet(normalised);
+    } else {
+      return new StringSnippet(normalised);
+    }
+  }
+}
+function filterFlags(flags) {
+  const validFlags = [
+    "i",
+    "m",
+    "s",
+    "u",
+    "v"
+  ];
+  return Array.from(new Set(flags.split(""))).filter((flag) => validFlags.includes(flag)).join("");
+}
+function insertSnippetVariables(trigger, variables) {
+  for (const [variable, replacement] of Object.entries(variables)) {
+    trigger = trigger.replace(variable, replacement);
+  }
+  return trigger;
+}
+function getExcludedEnvironments(trigger) {
+  const result = [];
+  if (EXCLUSIONS.hasOwnProperty(trigger)) {
+    result.push(EXCLUSIONS[trigger]);
+  }
+  return result;
+}
+
+// src/settings/file_watch.ts
+function isInFolder(file, dir) {
+  let cur = file.parent;
+  let cnt = 0;
+  while (cur && !cur.isRoot() && cnt < 100) {
+    if (cur.path === dir.path)
+      return true;
+    cur = cur.parent;
+    cnt++;
+  }
+  return false;
+}
+function fileIsInSnippetsFolder(plugin, file) {
+  const snippetDir = plugin.app.vault.getAbstractFileByPath(plugin.settings.snippetsFileLocation);
+  const isFolder = snippetDir instanceof import_obsidian.TFolder;
+  return isFolder && isInFolder(file, snippetDir);
+}
+var onFileChange = (plugin, file) => __async(void 0, null, function* () {
+  if (!plugin.settings.loadSnippetsFromFile)
+    return;
+  if (!(file instanceof import_obsidian.TFile))
+    return;
+  if (file.path === plugin.settings.snippetsFileLocation || fileIsInSnippetsFolder(plugin, file)) {
+    try {
+      yield refreshSnippetsFromFileOrFolder(plugin);
+    } catch (e) {
+      new import_obsidian.Notice("Failed to load snippets.", 5e3);
+    }
+  }
+});
+var onFileCreate = (plugin, file) => {
+  if (!plugin.settings.loadSnippetsFromFile)
+    return;
+  if (file instanceof import_obsidian.TFile && fileIsInSnippetsFolder(plugin, file)) {
+    refreshSnippetsFromFileOrFolder(plugin);
+  }
+};
+var onFileDelete = (plugin, file) => {
+  if (!plugin.settings.loadSnippetsFromFile)
+    return;
+  const snippetDir = plugin.app.vault.getAbstractFileByPath(plugin.settings.snippetsFileLocation);
+  const isFolder = snippetDir instanceof import_obsidian.TFolder;
+  if (file instanceof import_obsidian.TFile && (isFolder && file.path.contains(snippetDir.path))) {
+    refreshSnippetsFromFileOrFolder(plugin);
+  }
+};
+function getSnippetsFromFile(vault, file, snippetVariables) {
+  return __async(this, null, function* () {
+    const content = yield vault.cachedRead(file);
+    let snippets2 = [];
+    try {
+      snippets2 = yield parseSnippets(content, snippetVariables);
+    } catch (e) {
+      new import_obsidian.Notice(`Failed to load snippet file ${file.name}`);
+      console.log(`Failed to load snippet file ${file.path}:`, e);
+    }
+    return snippets2;
+  });
+}
+function getSnippetsWithinFolder(vault, folder, snippetVariables) {
+  return __async(this, null, function* () {
+    const snippets2 = [];
+    for (const fileOrFolder of folder.children) {
+      if (fileOrFolder instanceof import_obsidian.TFile) {
+        snippets2.push(...yield getSnippetsFromFile(vault, fileOrFolder, snippetVariables));
+      } else if (fileOrFolder instanceof import_obsidian.TFolder) {
+        const folderSnippets = yield getSnippetsWithinFolder(vault, fileOrFolder, snippetVariables);
+        snippets2.push(...folderSnippets);
+      }
+    }
+    return snippets2;
+  });
+}
+function getSnippetsWithinFileOrFolder(vault, path, snippetVariables) {
+  return __async(this, null, function* () {
+    let snippets2;
+    const fileOrFolder = vault.getAbstractFileByPath(path);
+    if (fileOrFolder instanceof import_obsidian.TFolder) {
+      snippets2 = yield getSnippetsWithinFolder(vault, fileOrFolder, snippetVariables);
+    } else if (fileOrFolder instanceof import_obsidian.TFile) {
+      snippets2 = yield getSnippetsFromFile(vault, fileOrFolder, snippetVariables);
+    } else {
+      return [];
+    }
+    snippets2 = sortSnippets(snippets2);
+    return snippets2;
+  });
+}
+var refreshSnippetsFromFileOrFolder = (0, import_obsidian.debounce)((plugin) => __async(void 0, null, function* () {
+  if (!plugin.settings.loadSnippetsFromFile)
+    return;
+  plugin.processSettings();
+  new import_obsidian.Notice("Successfully reloaded snippets.", 5e3);
+}), 500, true);
+
+// src/snippets/snippet_variables.ts
+function getSnippetVariables(snippetVarsStr) {
+  let vars = {};
+  try {
+    vars = JSON.parse(snippetVarsStr);
+  } catch (e) {
+    console.log(e);
+  }
+  return vars;
+}
+
+// _kcblu4vl3:/home/runner/work/obsidian-latex-suite/obsidian-latex-suite/src/default_snippets.js
+var default_snippets_default = '[\n	// Math mode\n	{trigger: "mk", replacement: "$$0$", options: "tA"},\n	{trigger: "dm", replacement: "$$\\n$0\\n$$", options: "tAw"},\n	{trigger: "beg", replacement: "\\\\begin{$0}\\n$1\\n\\\\end{$0}", options: "mA"},\n\n\n	// Dashes\n	// {trigger: "--", replacement: "\u2013", options: "tA"},\n	// {trigger: "\u2013-", replacement: "\u2014", options: "tA"},\n	// {trigger: "\u2014-", replacement: "---", options: "tA"},\n\n\n	// Greek letters\n	{trigger: "@a", replacement: "\\\\alpha", options: "mA"},\n	{trigger: "@A", replacement: "\\\\alpha", options: "mA"},\n	{trigger: "@b", replacement: "\\\\beta", options: "mA"},\n	{trigger: "@B", replacement: "\\\\beta", options: "mA"},\n	{trigger: "@c", replacement: "\\\\chi", options: "mA"},\n	{trigger: "@C", replacement: "\\\\chi", options: "mA"},\n	{trigger: "@g", replacement: "\\\\gamma", options: "mA"},\n	{trigger: "@G", replacement: "\\\\Gamma", options: "mA"},\n	{trigger: "@d", replacement: "\\\\delta", options: "mA"},\n	{trigger: "@D", replacement: "\\\\Delta", options: "mA"},\n	{trigger: "@e", replacement: "\\\\epsilon", options: "mA"},\n	{trigger: "@E", replacement: "\\\\epsilon", options: "mA"},\n	{trigger: ":e", replacement: "\\\\varepsilon", options: "mA"},\n	{trigger: ":E", replacement: "\\\\varepsilon", options: "mA"},\n	{trigger: "@z", replacement: "\\\\zeta", options: "mA"},\n	{trigger: "@Z", replacement: "\\\\zeta", options: "mA"},\n	{trigger: "@t", replacement: "\\\\theta", options: "mA"},\n	{trigger: "@T", replacement: "\\\\Theta", options: "mA"},\n	{trigger: "@k", replacement: "\\\\kappa", options: "mA"},\n	{trigger: "@K", replacement: "\\\\kappa", options: "mA"},\n	{trigger: "@l", replacement: "\\\\lambda", options: "mA"},\n	{trigger: "@L", replacement: "\\\\Lambda", options: "mA"},\n	{trigger: "@m", replacement: "\\\\mu", options: "mA"},\n	{trigger: "@M", replacement: "\\\\mu", options: "mA"},\n	{trigger: "@r", replacement: "\\\\rho", options: "mA"},\n	{trigger: "@R", replacement: "\\\\rho", options: "mA"},\n	{trigger: "@s", replacement: "\\\\sigma", options: "mA"},\n	{trigger: "@S", replacement: "\\\\Sigma", options: "mA"},\n	{trigger: "ome", replacement: "\\\\omega", options: "mA"},\n	{trigger: "@o", replacement: "\\\\omega", options: "mA"},\n	{trigger: "@O", replacement: "\\\\Omega", options: "mA"},\n	{trigger: "@u", replacement: "\\\\upsilon", options: "mA"},\n	{trigger: "@U", replacement: "\\\\Upsilon", options: "mA"},\n	{trigger: "([^\\\\\\\\])(${GREEK}|${SYMBOL})", replacement: "[[0]]\\\\[[1]]", options: "rmA", description: "Add backslash before greek letters and symbols"},\n\n\n	// Insert space after greek letters and symbols, etc\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}|${SHORT_SYMBOL})([A-Za-z])", replacement: "\\\\[[0]] [[1]]", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) sr", replacement: "\\\\[[0]]^{2}", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) cb", replacement: "\\\\[[0]]^{3}", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) rd", replacement: "\\\\[[0]]^{$0}$1", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) hat", replacement: "\\\\hat{\\\\[[0]]}", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) dot", replacement: "\\\\dot{\\\\[[0]]}", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) bar", replacement: "\\\\bar{\\\\[[0]]}", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) vec", replacement: "\\\\vec{\\\\[[0]]}", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) tilde", replacement: "\\\\tilde{\\\\[[0]]}", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) und", replacement: "\\\\underline{\\\\[[0]]}", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK}),\\\\.", replacement: "\\\\boldsymbol{\\\\[[0]]}", options: "rmA"},\n	{trigger: "\\\\\\\\(${GREEK})\\\\.,", replacement: "\\\\boldsymbol{\\\\[[0]]}", options: "rmA"},\n\n\n	// Operations\n	{trigger: "te", replacement: "\\\\text{$0}", options: "m"},\n	{trigger: "text", replacement: "\\\\text{$0}", options: "mA"},\n	{trigger: "bf", replacement: "\\\\mathbf{$0}", options: "mA"},\n	{trigger: "sr", replacement: "^{2}", options: "mA"},\n	{trigger: "cb", replacement: "^{3}", options: "mA"},\n	{trigger: "rd", replacement: "^{$0}$1", options: "mA"},\n	{trigger: "_", replacement: "_{$0}$1", options: "mA"},\n	{trigger: "sts", replacement: "_\\\\text{$0}", options: "rmA"},\n	{trigger: "sq", replacement: "\\\\sqrt{ $0 }$1", options: "mA"},\n	{trigger: "//", replacement: "\\\\frac{$0}{$1}$2", options: "mA"},\n	{trigger: "ee", replacement: "e^{ $0 }$1", options: "mA"},\n	{trigger: "rm", replacement: "\\\\mathrm{$0}$1", options: "mA"},\n	{trigger: "conj", replacement: "^{*}", options: "mA"},\n	{trigger: "trace", replacement: "\\\\mathrm{Tr}", options: "mA"},\n	{trigger: "det", replacement: "\\\\det", options: "mA"},\n	{trigger: "re", replacement: "\\\\mathrm{Re}", options: "mA"},\n	{trigger: "im", replacement: "\\\\mathrm{Im}", options: "mA"},\n\n	{trigger: "([a-zA-Z]),\\\\.", replacement: "\\\\mathbf{[[0]]}", options: "rmA"},\n	{trigger: "([a-zA-Z])\\\\.,", replacement: "\\\\mathbf{[[0]]}", options: "rmA"},\n	{trigger: "([A-Za-z])(\\\\d)", replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},\n	{trigger: "([A-Za-z])_(\\\\d\\\\d)", replacement: "[[0]]_{[[1]]}", options: "rmA"},\n	{trigger: "\\\\hat{([A-Za-z])}(\\\\d)", replacement: "hat{[[0]]}_{[[1]]}", options: "rmA"},\n	{trigger: "\\\\\\\\mathbf{([A-Za-z])}(\\\\d)", replacement: "\\\\mathbf{[[0]]}_{[[1]]}", options: "rmA"},\n	{trigger: "\\\\\\\\vec{([A-Za-z])}(\\\\d)", replacement: "\\\\vec{[[0]]}_{[[1]]}", options: "rmA"},\n	{trigger: "([a-zA-Z])bar", replacement: "\\\\bar{[[0]]}", options: "rmA"},\n	{trigger: "([a-zA-Z])hat", replacement: "\\\\hat{[[0]]}", options: "rmA"},\n	{trigger: "([a-zA-Z])ddot", replacement: "\\\\ddot{[[0]]}", options: "rmA", priority: 3},\n	{trigger: "([a-zA-Z])dot", replacement: "\\\\dot{[[0]]}", options: "rmA", priority: 1},\n	{trigger: "([a-zA-Z])vec", replacement: "\\\\vec{[[0]]}", options: "rmA"},\n	{trigger: "([a-zA-Z])tilde", replacement: "\\\\tilde{[[0]]}", options: "rmA"},\n	{trigger: "([a-zA-Z])und", replacement: "\\\\underline{[[0]]}", options: "rmA"},\n	{trigger: "bar", replacement: "\\\\bar{$0}$1", options: "mA"},\n	{trigger: "hat", replacement: "\\\\hat{$0}$1", options: "mA"},\n	{trigger: "dot", replacement: "\\\\dot{$0}$1", options: "mA"},\n	{trigger: "ddot", replacement: "\\\\ddot{$0}$1", options: "mA", priority: 2},\n	{trigger: "cdot", replacement: "\\\\cdot", options: "mA", priority: 2},\n	{trigger: "vec", replacement: "\\\\vec{$0}$1", options: "mA"},\n	{trigger: "tilde", replacement: "\\\\tilde{$0}$1", options: "mA"},\n	{trigger: "und", replacement: "\\\\underline{$0}$1", options: "mA"},\n\n	{trigger: "([^\\\\\\\\])(arcsin|arccos|arctan|arccot|arccsc|arcsec|sin|cos|tan|cot|csc|sec)", replacement: "[[0]]\\\\[[1]]", options: "rmA"},\n	{trigger: "\\\\\\\\(arcsin|arccos|arctan|arccot|arccsc|arcsec|sin|cos|tan|cot|csc|sec)([A-Za-gi-z])", replacement: "\\\\[[0]] [[1]]", options: "rmA"}, // Insert space after trig funcs. Skips letter "h" to allow sinh, cosh, etc.\n	{trigger: "\\\\\\\\(arcsinh|arccosh|arctanh|arccoth|arcsch|arcsech|sinh|cosh|tanh|coth|csch|sech)([A-Za-z])", replacement: "\\\\[[0]] [[1]]", options: "rmA"}, // Insert space after trig funcs\n	{trigger: "\\\\\\\\(neq|geq|leq|gg|ll|sim)([0-9]+)", replacement: "\\\\[[0]] [[1]]", options: "rmA"}, // Insert space after inequality symbols\n\n\n	// Visual operations\n	{trigger: "U", replacement: "\\\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},\n	{trigger: "B", replacement: "\\\\underset{ $0 }{ ${VISUAL} }", options: "mA"},\n	{trigger: "C", replacement: "\\\\cancel{ ${VISUAL} }", options: "mA"},\n	{trigger: "K", replacement: "\\\\cancelto{ $0 }{ ${VISUAL} }", options: "mA"},\n	{trigger: "S", replacement: "\\\\sqrt{ ${VISUAL} }", options: "mA"},\n\n\n	// Symbols\n	{trigger: "ooo", replacement: "\\\\infty", options: "mA"},\n	{trigger: "sum", replacement: "\\\\sum", options: "mA"},\n	{trigger: "prod", replacement: "\\\\prod", options: "mA"},\n	{trigger: "lim", replacement: "\\\\lim_{ ${0:n} \\\\to ${1:\\\\infty} } $2", options: "mA"},\n	{trigger: "([^\\\\\\\\])pm", replacement: "[[0]]\\\\pm", options: "rm"},\n	{trigger: "([^\\\\\\\\])mp", replacement: "[[0]]\\\\mp", options: "rm"},\n	{trigger: "+-", replacement: "\\\\pm", options: "mA"},\n	{trigger: "-+", replacement: "\\\\mp", options: "mA"},\n	{trigger: "...", replacement: "\\\\dots", options: "mA"},\n	{trigger: "<->", replacement: "\\\\leftrightarrow ", options: "mA"},\n	{trigger: "->", replacement: "\\\\to", options: "mA"},\n	{trigger: "!>", replacement: "\\\\mapsto", options: "mA"},\n	{trigger: "invs", replacement: "^{-1}", options: "mA"},\n	{trigger: "\\\\\\\\\\\\", replacement: "\\\\setminus", options: "mA"},\n	{trigger: "||", replacement: "\\\\mid", options: "mA"},\n	{trigger: "and", replacement: "\\\\cap", options: "mA"},\n	{trigger: "orr", replacement: "\\\\cup", options: "mA"},\n	{trigger: "inn", replacement: "\\\\in", options: "mA"},\n	{trigger: "notin", replacement: "\\\\not\\\\in", options: "mA"},\n	{trigger: "\\\\subset eq", replacement: "\\\\subseteq", options: "mA"},\n	{trigger: "eset", replacement: "\\\\emptyset", options: "mA"},\n	{trigger: "set", replacement: "\\\\{ $0 \\\\}$1", options: "mA"},\n	{trigger: "=>", replacement: "\\\\implies", options: "mA"},\n	{trigger: "=<", replacement: "\\\\impliedby", options: "mA"},\n	{trigger: "iff", replacement: "\\\\iff", options: "mA"},\n	{trigger: "e\\\\xi sts", replacement: "\\\\exists", options: "mA", priority: 1},\n	{trigger: "===", replacement: "\\\\equiv", options: "mA"},\n	{trigger: "Sq", replacement: "\\\\square", options: "mA"},\n	{trigger: "!=", replacement: "\\\\neq", options: "mA"},\n	{trigger: ">=", replacement: "\\\\geq", options: "mA"},\n	{trigger: "<=", replacement: "\\\\leq", options: "mA"},\n	{trigger: ">>", replacement: "\\\\gg", options: "mA"},\n	{trigger: "<<", replacement: "\\\\ll", options: "mA"},\n	{trigger: "~~", replacement: "\\\\sim", options: "mA"},\n	{trigger: "\\\\sim ~", replacement: "\\\\approx", options: "mA"},\n	{trigger: "prop", replacement: "\\\\propto", options: "mA"},\n	{trigger: "nabl", replacement: "\\\\nabla", options: "mA"},\n	{trigger: "del", replacement: "\\\\nabla", options: "mA"},\n	{trigger: "xx", replacement: "\\\\times", options: "mA"},\n	{trigger: "**", replacement: "\\\\cdot", options: "mA"},\n	{trigger: "para", replacement: "\\\\parallel", options: "mA"},\n\n	{trigger: "xnn", replacement: "x_{n}", options: "mA"},\n	{trigger: "xii", replacement: "x_{i}", options: "mA"},\n	{trigger: "xjj", replacement: "x_{j}", options: "mA"},\n	{trigger: "xp1", replacement: "x_{n+1}", options: "mA"},\n	{trigger: "ynn", replacement: "y_{n}", options: "mA"},\n	{trigger: "yii", replacement: "y_{i}", options: "mA"},\n	{trigger: "yjj", replacement: "y_{j}", options: "mA"},\n\n	{trigger: "mcal", replacement: "\\\\mathcal{$0}$1", options: "mA"},\n	{trigger: "mbb", replacement: "\\\\mathbb{$0}$1", options: "mA"},\n	{trigger: "ell", replacement: "\\\\ell", options: "mA"},\n	{trigger: "lll", replacement: "\\\\ell", options: "mA"},\n	{trigger: "LL", replacement: "\\\\mathcal{L}", options: "mA"},\n	{trigger: "HH", replacement: "\\\\mathcal{H}", options: "mA"},\n	{trigger: "CC", replacement: "\\\\mathbb{C}", options: "mA"},\n	{trigger: "RR", replacement: "\\\\mathbb{R}", options: "mA"},\n	{trigger: "ZZ", replacement: "\\\\mathbb{Z}", options: "mA"},\n	{trigger: "NN", replacement: "\\\\mathbb{N}", options: "mA"},\n	{trigger: "II", replacement: "\\\\mathbb{1}", options: "mA"},\n	{trigger: "\\\\mathbb{1}I", replacement: "\\\\hat{\\\\mathbb{1}}", options: "mA"},\n	{trigger: "AA", replacement: "\\\\mathcal{A}", options: "mA"},\n	{trigger: "BB", replacement: "\\\\mathbf{B}", options: "mA"},\n	{trigger: "EE", replacement: "\\\\mathbf{E}", options: "mA"},\n\n\n	// Unit vectors\n	{trigger: ":i", replacement: "\\\\mathbf{i}", options: "mA"},\n	{trigger: ":j", replacement: "\\\\mathbf{j}", options: "mA"},\n	{trigger: ":k", replacement: "\\\\mathbf{k}", options: "mA"},\n	{trigger: ":x", replacement: "\\\\hat{\\\\mathbf{x}}", options: "mA"},\n	{trigger: ":y", replacement: "\\\\hat{\\\\mathbf{y}}", options: "mA"},\n	{trigger: ":z", replacement: "\\\\hat{\\\\mathbf{z}}", options: "mA"},\n\n\n	// Derivatives\n	{trigger: "par", replacement: "\\\\frac{ \\\\partial ${0:y} }{ \\\\partial ${1:x} } $2", options: "m"},\n	{trigger: "pa2", replacement: "\\\\frac{ \\\\partial^{2} ${0:y} }{ \\\\partial ${1:x}^{2} } $2", options: "mA"},\n	{trigger: "pa3", replacement: "\\\\frac{ \\\\partial^{3} ${0:y} }{ \\\\partial ${1:x}^{3} } $2", options: "mA"},\n	{trigger: "pa([A-Za-z])([A-Za-z])", replacement: "\\\\frac{ \\\\partial [[0]] }{ \\\\partial [[1]] } ", options: "rm"},\n	{trigger: "pa([A-Za-z])([A-Za-z])([A-Za-z])", replacement: "\\\\frac{ \\\\partial^{2} [[0]] }{ \\\\partial [[1]] \\\\partial [[2]] } ", options: "rm"},\n	{trigger: "pa([A-Za-z])([A-Za-z])2", replacement: "\\\\frac{ \\\\partial^{2} [[0]] }{ \\\\partial [[1]]^{2} } ", options: "rmA"},\n	{trigger: "de([A-Za-z])([A-Za-z])", replacement: "\\\\frac{ d[[0]] }{ d[[1]] } ", options: "rm"},\n	{trigger: "de([A-Za-z])([A-Za-z])2", replacement: "\\\\frac{ d^{2}[[0]] }{ d[[1]]^{2} } ", options: "rmA"},\n	{trigger: "ddt", replacement: "\\\\frac{d}{dt} ", options: "mA"},\n\n\n	// Integrals\n	{trigger: "oinf", replacement: "\\\\int_{0}^{\\\\infty} $0 \\\\, d${1:x} $2", options: "mA"},\n	{trigger: "infi", replacement: "\\\\int_{-\\\\infty}^{\\\\infty} $0 \\\\, d${1:x} $2", options: "mA"},\n	{trigger: "dint", replacement: "\\\\int_{${0:0}}^{${1:\\\\infty}} $2 \\\\, d${3:x} $4", options: "mA"},\n	{trigger: "oint", replacement: "\\\\oint", options: "mA"},\n	{trigger: "iiint", replacement: "\\\\iiint", options: "mA"},\n	{trigger: "iint", replacement: "\\\\iint", options: "mA"},\n	{trigger: "int", replacement: "\\\\int $0 \\\\, d${1:x} $2", options: "mA"},\n\n\n	// Physics\n	{trigger: "kbt", replacement: "k_{B}T", options: "mA"},\n\n\n	// Quantum mechanics\n	{trigger: "hba", replacement: "\\\\hbar", options: "mA"},\n	{trigger: "dag", replacement: "^{\\\\dagger}", options: "mA"},\n	{trigger: "o+", replacement: "\\\\oplus ", options: "mA"},\n	{trigger: "ox", replacement: "\\\\otimes ", options: "mA"},\n	{trigger: "ot\\\\mathrm{Im}es", replacement: "\\\\otimes ", options: "mA"}, // Handle conflict with "im" snippet\n	{trigger: "bra", replacement: "\\\\bra{$0} $1", options: "mA"},\n	{trigger: "ket", replacement: "\\\\ket{$0} $1", options: "mA"},\n	{trigger: "brk", replacement: "\\\\braket{ $0 | $1 } $2", options: "mA"},\n	{trigger: "\\\\\\\\bra{([^|]+)\\\\|", replacement: "\\\\braket{ [[0]] | $0 ", options: "rmA", description: "Convert bra into braket"},\n	{trigger: "\\\\\\\\bra{(.+)}([^ ]+)>", replacement: "\\\\braket{ [[0]] | $0 ", options: "rmA", description: "Convert bra into braket (alternate)"},\n	{trigger: "outp", replacement: "\\\\ket{${0:\\\\psi}} \\\\bra{${0:\\\\psi}} $1", options: "mA"},\n\n\n	// Chemistry\n	{trigger: "pu", replacement: "\\\\pu{ $0 }", options: "mA"},\n	{trigger: "msun", replacement: "M_{\\\\odot}", options: "mA"},\n	{trigger: "solm", replacement: "M_{\\\\odot}", options: "mA"},\n	{trigger: "cee", replacement: "\\\\ce{ $0 }", options: "mA"},\n	{trigger: "iso", replacement: "{}^{${0:4}}_{${1:2}}${2:He}", options: "mA"},\n	{trigger: "hel4", replacement: "{}^{4}_{2}He ", options: "mA"},\n	{trigger: "hel3", replacement: "{}^{3}_{2}He ", options: "mA"},\n\n\n	// Environments\n	{trigger: "pmat", replacement: "\\\\begin{pmatrix}\\n$0\\n\\\\end{pmatrix}", options: "mA"},\n	{trigger: "bmat", replacement: "\\\\begin{bmatrix}\\n$0\\n\\\\end{bmatrix}", options: "mA"},\n	{trigger: "Bmat", replacement: "\\\\begin{Bmatrix}\\n$0\\n\\\\end{Bmatrix}", options: "mA"},\n	{trigger: "vmat", replacement: "\\\\begin{vmatrix}\\n$0\\n\\\\end{vmatrix}", options: "mA"},\n	{trigger: "Vmat", replacement: "\\\\begin{Vmatrix}\\n$0\\n\\\\end{Vmatrix}", options: "mA"},\n	{trigger: "case", replacement: "\\\\begin{cases}\\n$0\\n\\\\end{cases}", options: "mA"},\n	{trigger: "align", replacement: "\\\\begin{align}\\n$0\\n\\\\end{align}", options: "mA"},\n	{trigger: "array", replacement: "\\\\begin{array}\\n$0\\n\\\\end{array}", options: "mA"},\n	{trigger: "matrix", replacement: "\\\\begin{matrix}\\n$0\\n\\\\end{matrix}", options: "mA"},\n\n\n	// Brackets\n	{trigger: "avg", replacement: "\\\\langle $0 \\\\rangle $1", options: "mA"},\n	{trigger: "norm", replacement: "\\\\lvert $0 \\\\rvert $1", options: "mA", priority: 1},\n	{trigger: "ceil", replacement: "\\\\lceil $0 \\\\rceil $1", options: "mA"},\n	{trigger: "floor", replacement: "\\\\lfloor $0 \\\\rfloor $1", options: "mA"},\n	{trigger: "mod", replacement: "|$0|$1", options: "mA"},\n	{trigger: "(", replacement: "(${VISUAL})", options: "mA"},\n	{trigger: "[", replacement: "[${VISUAL}]", options: "mA"},\n	{trigger: "{", replacement: "{${VISUAL}}", options: "mA"},\n	{trigger: "(", replacement: "($0)$1", options: "mA"},\n	{trigger: "{", replacement: "{$0}$1", options: "mA"},\n	{trigger: "[", replacement: "[$0]$1", options: "mA"},\n	{trigger: "lr(", replacement: "\\\\left( $0 \\\\right) $1", options: "mA"},\n	{trigger: "lr|", replacement: "\\\\left| $0 \\\\right| $1", options: "mA"},\n	{trigger: "lr{", replacement: "\\\\left\\\\{ $0 \\\\right\\\\} $1", options: "mA"},\n	{trigger: "lr[", replacement: "\\\\left[ $0 \\\\right] $1", options: "mA"},\n	{trigger: "lra", replacement: "\\\\left< $0 \\\\right> $1", options: "mA"},\n\n\n	// Misc\n	{trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}\'(${1:x})${2:h} + ${0:f}\'\'(${1:x}) \\\\frac{${2:h}^{2}}{2!} + \\\\dots$3", options: "mA"},\n	{trigger: /iden(\\d)/, replacement: (match) => {\n		const n = match[1];\n\n		let arr = [];\n		for (let j = 0; j < n; j++) {\n			arr[j] = [];\n			for (let i = 0; i < n; i++) {\n				arr[j][i] = (i === j) ? 1 : 0;\n			}\n		}\n\n		let output = arr.map(el => el.join(" & ")).join(" \\\\\\\\\\n");\n		output = `\\\\begin{pmatrix}\\n${output}\\n\\\\end{pmatrix}`;\n		return output;\n	}, options: "mA", description: "N x N identity matrix"},\n]\n';
+
+// src/utils/default_snippets.ts
+var DEFAULT_SNIPPETS = default_snippets_default;
+
+// src/settings/settings.ts
+var DEFAULT_SETTINGS = {
+  snippets: DEFAULT_SNIPPETS,
+  snippetsEnabled: true,
+  snippetsTrigger: "Tab",
+  removeSnippetWhitespace: true,
+  loadSnippetsFromFile: false,
+  snippetsFileLocation: "",
+  concealEnabled: false,
+  colorPairedBracketsEnabled: true,
+  highlightCursorBracketsEnabled: true,
+  mathPreviewEnabled: true,
+  autofractionEnabled: true,
+  autofractionSymbol: "\\frac",
+  autofractionBreakingChars: "+-=	",
+  matrixShortcutsEnabled: true,
+  taboutEnabled: true,
+  autoEnlargeBrackets: true,
+  wordDelimiters: "., +-\\n	:;!?\\/{}[]()=~$",
+  autofractionExcludedEnvs: `[
+		["^{", "}"],
+		["\\\\pu{", "}"]
+	]`,
+  matrixShortcutsEnvNames: "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix",
+  autoEnlargeBracketsTriggers: "sum, int, frac, prod, bigcup, bigcap",
+  forceMathLanguages: "math",
+  snippetVariables: `{
+	"\${GREEK}": "alpha|beta|gamma|Gamma|delta|Delta|epsilon|varepsilon|zeta|eta|theta|Theta|iota|kappa|lambda|Lambda|mu|nu|omicron|xi|Xi|pi|Pi|rho|sigma|Sigma|tau|upsilon|Upsilon|varphi|phi|Phi|chi|psi|Psi|omega|Omega",
+	"\${SYMBOL}": "hbar|ell|nabla|infty|dots|leftrightarrow|mapsto|setminus|mid|bigcap|bigcup|cap|cup|land|lor|subseteq|subset|implies|impliedby|iff|exists|forall|equiv|square|neq|geq|leq|gg|ll|sim|simeq|approx|propto|cdot|oplus|otimes|times|star|perp|det|exp|ln|log|partial",
+	"\${SHORT_SYMBOL}": "to|pm|mp"
+}`
+};
+function processLatexSuiteSettings(snippets2, settings) {
+  function strToArray(str) {
+    return str.replace(/\s/g, "").split(",");
+  }
+  function getAutofractionExcludedEnvs(envsStr) {
+    let envs = [];
+    try {
+      const envsJSON = JSON.parse(envsStr);
+      envs = envsJSON.map(function(env) {
+        return { openSymbol: env[0], closeSymbol: env[1] };
+      });
+    } catch (e) {
+      console.log(e);
+    }
+    return envs;
+  }
+  return __spreadProps(__spreadValues({}, settings), {
+    snippets: snippets2,
+    autofractionExcludedEnvs: getAutofractionExcludedEnvs(settings.autofractionExcludedEnvs),
+    matrixShortcutsEnvNames: strToArray(settings.matrixShortcutsEnvNames),
+    autoEnlargeBracketsTriggers: strToArray(settings.autoEnlargeBracketsTriggers),
+    forceMathLanguages: strToArray(settings.forceMathLanguages),
+    snippetVariables: getSnippetVariables(settings.snippetVariables)
+  });
+}
+
+// src/settings/settings_tab.ts
+var import_obsidian4 = __toModule(require("obsidian"));
+var import_view4 = __toModule(require("@codemirror/view"));
+var import_state3 = __toModule(require("@codemirror/state"));
+
+// src/settings/ui/snippets_editor/extensions.ts
 var import_view3 = __toModule(require("@codemirror/view"));
 var import_state2 = __toModule(require("@codemirror/state"));
 
@@ -1464,6 +1013,16 @@ NodeProp.group = new NodeProp({ deserialize: (str) => str.split(" ") });
 NodeProp.contextHash = new NodeProp({ perNode: true });
 NodeProp.lookAhead = new NodeProp({ perNode: true });
 NodeProp.mounted = new NodeProp({ perNode: true });
+var MountedTree = class {
+  constructor(tree, overlay, parser2) {
+    this.tree = tree;
+    this.overlay = overlay;
+    this.parser = parser2;
+  }
+  static get(tree) {
+    return tree && tree.props && tree.props[NodeProp.mounted.id];
+  }
+};
 var noProps = Object.create(null);
 var NodeType = class {
   constructor(name, props, id2, flags = 0) {
@@ -1574,7 +1133,7 @@ var Tree = class {
     }
   }
   toString() {
-    let mounted = this.prop(NodeProp.mounted);
+    let mounted = MountedTree.get(this);
     if (mounted && !mounted.overlay)
       return mounted.tree.toString();
     let children = "";
@@ -1611,17 +1170,21 @@ var Tree = class {
     CachedInnerNode.set(this, node);
     return node;
   }
+  resolveStack(pos, side = 0) {
+    return stackIterator(this, pos, side);
+  }
   iterate(spec) {
     let { enter, leave, from = 0, to = this.length } = spec;
-    for (let c = this.cursor((spec.mode || 0) | IterMode.IncludeAnonymous); ; ) {
+    let mode = spec.mode || 0, anon = (mode & IterMode.IncludeAnonymous) > 0;
+    for (let c = this.cursor(mode | IterMode.IncludeAnonymous); ; ) {
       let entered = false;
-      if (c.from <= to && c.to >= from && (c.type.isAnonymous || enter(c) !== false)) {
+      if (c.from <= to && c.to >= from && (!anon && c.type.isAnonymous || enter(c) !== false)) {
         if (c.firstChild())
           continue;
         entered = true;
       }
       for (; ; ) {
-        if (entered && leave && !c.type.isAnonymous)
+        if (entered && leave && (anon || !c.type.isAnonymous))
           leave(c);
         if (c.nextSibling())
           break;
@@ -1719,16 +1282,17 @@ var TreeBuffer = class {
     }
     return pick;
   }
-  slice(startI, endI, from, to) {
+  slice(startI, endI, from) {
     let b = this.buffer;
-    let copy = new Uint16Array(endI - startI);
+    let copy = new Uint16Array(endI - startI), len = 0;
     for (let i = startI, j = 0; i < endI; ) {
       copy[j++] = b[i++];
       copy[j++] = b[i++] - from;
-      copy[j++] = b[i++] - from;
+      let to = copy[j++] = b[i++] - from;
       copy[j++] = b[i++] - startI;
+      len = Math.max(len, to);
     }
-    return new TreeBuffer(copy, to - from, this.set);
+    return new TreeBuffer(copy, len, this.set);
   }
 };
 function checkSide(side, pos, from, to) {
@@ -1746,21 +1310,6 @@ function checkSide(side, pos, from, to) {
     case 4:
       return true;
   }
-}
-function enterUnfinishedNodesBefore(node, pos) {
-  let scan = node.childBefore(pos);
-  while (scan) {
-    let last = scan.lastChild;
-    if (!last || last.to != scan.to)
-      break;
-    if (last.type.isError && last.from == last.to) {
-      node = scan;
-      scan = last.prevSibling;
-    } else {
-      scan = last;
-    }
-  }
-  return node;
 }
 function resolveNode(node, pos, side, overlays) {
   var _a;
@@ -1783,8 +1332,51 @@ function resolveNode(node, pos, side, overlays) {
     node = inner;
   }
 }
-var TreeNode = class {
+var BaseNode = class {
+  cursor(mode = 0) {
+    return new TreeCursor(this, mode);
+  }
+  getChild(type, before = null, after = null) {
+    let r = getChildren(this, type, before, after);
+    return r.length ? r[0] : null;
+  }
+  getChildren(type, before = null, after = null) {
+    return getChildren(this, type, before, after);
+  }
+  resolve(pos, side = 0) {
+    return resolveNode(this, pos, side, false);
+  }
+  resolveInner(pos, side = 0) {
+    return resolveNode(this, pos, side, true);
+  }
+  matchContext(context) {
+    return matchNodeContext(this, context);
+  }
+  enterUnfinishedNodesBefore(pos) {
+    let scan = this.childBefore(pos), node = this;
+    while (scan) {
+      let last = scan.lastChild;
+      if (!last || last.to != scan.to)
+        break;
+      if (last.type.isError && last.from == last.to) {
+        node = scan;
+        scan = last.prevSibling;
+      } else {
+        scan = last;
+      }
+    }
+    return node;
+  }
+  get node() {
+    return this;
+  }
+  get next() {
+    return this.parent;
+  }
+};
+var TreeNode = class extends BaseNode {
   constructor(_tree, from, index, _parent) {
+    super();
     this._tree = _tree;
     this.from = from;
     this.index = index;
@@ -1813,7 +1405,7 @@ var TreeNode = class {
             return new BufferNode(new BufferContext(parent, next, i, start2), null, index);
         } else if (mode & IterMode.IncludeAnonymous || (!next.type.isAnonymous || hasChild(next))) {
           let mounted;
-          if (!(mode & IterMode.IgnoreMounts) && next.props && (mounted = next.prop(NodeProp.mounted)) && !mounted.overlay)
+          if (!(mode & IterMode.IgnoreMounts) && (mounted = MountedTree.get(next)) && !mounted.overlay)
             return new TreeNode(mounted.tree, start2, i, parent);
           let inner = new TreeNode(next, start2, i, parent);
           return mode & IterMode.IncludeAnonymous || !inner.type.isAnonymous ? inner : inner.nextChild(dir < 0 ? next.children.length - 1 : 0, dir, pos, side);
@@ -1844,7 +1436,7 @@ var TreeNode = class {
   }
   enter(pos, side, mode = 0) {
     let mounted;
-    if (!(mode & IterMode.IgnoreOverlays) && (mounted = this._tree.prop(NodeProp.mounted)) && mounted.overlay) {
+    if (!(mode & IterMode.IgnoreOverlays) && (mounted = MountedTree.get(this._tree)) && mounted.overlay) {
       let rPos = pos - this.from;
       for (let { from, to } of mounted.overlay) {
         if ((side > 0 ? from <= rPos : from < rPos) && (side < 0 ? to >= rPos : to > rPos))
@@ -1868,39 +1460,14 @@ var TreeNode = class {
   get prevSibling() {
     return this._parent && this.index >= 0 ? this._parent.nextChild(this.index - 1, -1, 0, 4) : null;
   }
-  cursor(mode = 0) {
-    return new TreeCursor(this, mode);
-  }
   get tree() {
     return this._tree;
   }
   toTree() {
     return this._tree;
   }
-  resolve(pos, side = 0) {
-    return resolveNode(this, pos, side, false);
-  }
-  resolveInner(pos, side = 0) {
-    return resolveNode(this, pos, side, true);
-  }
-  enterUnfinishedNodesBefore(pos) {
-    return enterUnfinishedNodesBefore(this, pos);
-  }
-  getChild(type, before = null, after = null) {
-    let r = getChildren(this, type, before, after);
-    return r.length ? r[0] : null;
-  }
-  getChildren(type, before = null, after = null) {
-    return getChildren(this, type, before, after);
-  }
   toString() {
     return this._tree.toString();
-  }
-  get node() {
-    return this;
-  }
-  matchContext(context) {
-    return matchNodeContext(this, context);
   }
 };
 function getChildren(node, type, before, after) {
@@ -1941,13 +1508,7 @@ var BufferContext = class {
     this.start = start2;
   }
 };
-var BufferNode = class {
-  constructor(context, _parent, index) {
-    this.context = context;
-    this._parent = _parent;
-    this.index = index;
-    this.type = context.buffer.set.types[context.buffer.buffer[index]];
-  }
+var BufferNode = class extends BaseNode {
   get name() {
     return this.type.name;
   }
@@ -1956,6 +1517,13 @@ var BufferNode = class {
   }
   get to() {
     return this.context.start + this.context.buffer.buffer[this.index + 2];
+  }
+  constructor(context, _parent, index) {
+    super();
+    this.context = context;
+    this._parent = _parent;
+    this.index = index;
+    this.type = context.buffer.set.types[context.buffer.buffer[index]];
   }
   child(dir, pos, side) {
     let { buffer } = this.context;
@@ -2001,9 +1569,6 @@ var BufferNode = class {
       return this.externalSibling(-1);
     return new BufferNode(this.context, this._parent, buffer.findChild(parentStart, this.index, -1, 0, 4));
   }
-  cursor(mode = 0) {
-    return new TreeCursor(this, mode);
-  }
   get tree() {
     return null;
   }
@@ -2012,39 +1577,67 @@ var BufferNode = class {
     let { buffer } = this.context;
     let startI = this.index + 4, endI = buffer.buffer[this.index + 3];
     if (endI > startI) {
-      let from = buffer.buffer[this.index + 1], to = buffer.buffer[this.index + 2];
-      children.push(buffer.slice(startI, endI, from, to));
+      let from = buffer.buffer[this.index + 1];
+      children.push(buffer.slice(startI, endI, from));
       positions.push(0);
     }
     return new Tree(this.type, children, positions, this.to - this.from);
   }
-  resolve(pos, side = 0) {
-    return resolveNode(this, pos, side, false);
-  }
-  resolveInner(pos, side = 0) {
-    return resolveNode(this, pos, side, true);
-  }
-  enterUnfinishedNodesBefore(pos) {
-    return enterUnfinishedNodesBefore(this, pos);
-  }
   toString() {
     return this.context.buffer.childString(this.index);
   }
-  getChild(type, before = null, after = null) {
-    let r = getChildren(this, type, before, after);
-    return r.length ? r[0] : null;
+};
+function iterStack(heads) {
+  if (!heads.length)
+    return null;
+  if (heads.length == 1)
+    return heads[0];
+  let pick = 0, picked = heads[0];
+  for (let i = 1; i < heads.length; i++) {
+    let node = heads[i];
+    if (node.from > picked.from || node.to < picked.to) {
+      picked = node;
+      pick = i;
+    }
   }
-  getChildren(type, before = null, after = null) {
-    return getChildren(this, type, before, after);
+  let next = picked instanceof TreeNode && picked.index < 0 ? null : picked.parent;
+  let newHeads = heads.slice();
+  if (next)
+    newHeads[pick] = next;
+  else
+    newHeads.splice(pick, 1);
+  return new StackIterator(newHeads, picked);
+}
+var StackIterator = class {
+  constructor(heads, node) {
+    this.heads = heads;
+    this.node = node;
   }
-  get node() {
-    return this;
-  }
-  matchContext(context) {
-    return matchNodeContext(this, context);
+  get next() {
+    return iterStack(this.heads);
   }
 };
+function stackIterator(tree, pos, side) {
+  let inner = tree.resolveInner(pos, side), layers = null;
+  for (let scan = inner instanceof TreeNode ? inner : inner.context.parent; scan; scan = scan.parent) {
+    if (scan.index < 0) {
+      let parent = scan.parent;
+      (layers || (layers = [inner])).push(parent.resolve(pos, side));
+      scan = parent;
+    } else {
+      let mount = MountedTree.get(scan.tree);
+      if (mount && mount.overlay && mount.overlay[0].from <= pos && mount.overlay[mount.overlay.length - 1].to >= pos) {
+        let root = new TreeNode(mount.tree, mount.overlay[0].from + scan.from, 0, null);
+        (layers || (layers = [inner])).push(resolveNode(root, pos, side, false));
+      }
+    }
+  }
+  return layers ? iterStack(layers) : inner;
+}
 var TreeCursor = class {
+  get name() {
+    return this.type.name;
+  }
   constructor(node, mode = 0) {
     this.mode = mode;
     this.buffer = null;
@@ -2061,9 +1654,6 @@ var TreeCursor = class {
       this.bufferNode = node;
       this.yieldBuf(node.index);
     }
-  }
-  get name() {
-    return this.type.name;
   }
   yieldNode(node) {
     if (!node)
@@ -2542,8 +2132,8 @@ var Parser = class {
   }
 };
 var StringInput = class {
-  constructor(string) {
-    this.string = string;
+  constructor(string2) {
+    this.string = string2;
   }
   get length() {
     return this.string.length;
@@ -4371,14 +3961,14 @@ var autoCloseTags = /* @__PURE__ */ import_view.EditorView.inputHandler.of((view
   return true;
 });
 
-// src/ui/snippets_editor/extensions.ts
+// src/settings/ui/snippets_editor/extensions.ts
 var import_language3 = __toModule(require("@codemirror/language"));
 var import_commands = __toModule(require("@codemirror/commands"));
 var import_autocomplete2 = __toModule(require("@codemirror/autocomplete"));
 var import_search = __toModule(require("@codemirror/search"));
 var import_lint = __toModule(require("@codemirror/lint"));
 
-// src/ui/snippets_editor/obsidian_theme.ts
+// src/settings/ui/snippets_editor/obsidian_theme.ts
 var import_view2 = __toModule(require("@codemirror/view"));
 var import_language2 = __toModule(require("@codemirror/language"));
 var import_highlight2 = __toModule(require("@lezer/highlight"));
@@ -4406,7 +3996,7 @@ var config = {
   comment: "var(--text-faint)",
   heading: "var(--text-accent-hover)",
   invalid: "var(--text-error)",
-  regexp: "#032f62"
+  regexp: "var(--text-accent)"
 };
 var obsidianTheme = import_view2.EditorView.theme({
   "&": {
@@ -4483,7 +4073,7 @@ var obsidian = [
   (0, import_language2.syntaxHighlighting)(obsidianHighlightStyle)
 ];
 
-// src/ui/snippets_editor/extensions.ts
+// src/settings/ui/snippets_editor/extensions.ts
 var basicSetup = [
   (0, import_view3.lineNumbers)(),
   (0, import_view3.highlightSpecialChars)(),
@@ -4511,1187 +4101,8 @@ var basicSetup = [
   ])
 ].filter((ext) => ext);
 
-// src/default_snippets.ts
-var DEFAULT_SNIPPETS = '[    \n    // Math mode\n    {trigger: "mk", replacement: "$$0$", options: "tA"},\n    {trigger: "dm", replacement: "$$\\n$0\\n$$", options: "tAw"},\n    {trigger: "beg", replacement: "\\\\begin{$0}\\n$1\\n\\\\end{$0}", options: "mA"},\n\n\n    // Dashes\n    // {trigger: "--", replacement: "\u2013", options: "tA"},\n    // {trigger: "\u2013-", replacement: "\u2014", options: "tA"},\n    // {trigger: "\u2014-", replacement: "---", options: "tA"},\n\n\n    // Greek letters\n    {trigger: "@a", replacement: "\\\\alpha", options: "mA"},\n    {trigger: "@A", replacement: "\\\\alpha", options: "mA"},\n    {trigger: "@b", replacement: "\\\\beta", options: "mA"},\n    {trigger: "@B", replacement: "\\\\beta", options: "mA"},\n    {trigger: "@c", replacement: "\\\\chi", options: "mA"},\n    {trigger: "@C", replacement: "\\\\chi", options: "mA"},\n    {trigger: "@g", replacement: "\\\\gamma", options: "mA"},\n    {trigger: "@G", replacement: "\\\\Gamma", options: "mA"},\n    {trigger: "@d", replacement: "\\\\delta", options: "mA"},\n    {trigger: "@D", replacement: "\\\\Delta", options: "mA"},\n    {trigger: "@e", replacement: "\\\\epsilon", options: "mA"},\n    {trigger: "@E", replacement: "\\\\epsilon", options: "mA"},\n    {trigger: ":e", replacement: "\\\\varepsilon", options: "mA"},\n    {trigger: ":E", replacement: "\\\\varepsilon", options: "mA"},\n    {trigger: "@z", replacement: "\\\\zeta", options: "mA"},\n    {trigger: "@Z", replacement: "\\\\zeta", options: "mA"},\n    {trigger: "@t", replacement: "\\\\theta", options: "mA"},\n    {trigger: "@T", replacement: "\\\\Theta", options: "mA"},\n    {trigger: "@k", replacement: "\\\\kappa", options: "mA"},\n    {trigger: "@K", replacement: "\\\\kappa", options: "mA"},\n    {trigger: "@l", replacement: "\\\\lambda", options: "mA"},\n    {trigger: "@L", replacement: "\\\\Lambda", options: "mA"},\n    {trigger: "@m", replacement: "\\\\mu", options: "mA"},\n    {trigger: "@M", replacement: "\\\\mu", options: "mA"},\n    {trigger: "@r", replacement: "\\\\rho", options: "mA"},\n    {trigger: "@R", replacement: "\\\\rho", options: "mA"},\n    {trigger: "@s", replacement: "\\\\sigma", options: "mA"},\n    {trigger: "@S", replacement: "\\\\Sigma", options: "mA"},\n    {trigger: "ome", replacement: "\\\\omega", options: "mA"},\n    {trigger: "@o", replacement: "\\\\omega", options: "mA"},\n    {trigger: "@O", replacement: "\\\\Omega", options: "mA"},\n    {trigger: "([^\\\\\\\\])(${GREEK}|${SYMBOL})", replacement: "[[0]]\\\\[[1]]", options: "rmA", description: "Add backslash before greek letters and symbols"},\n\n\n    // Insert space after greek letters and symbols, etc\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}|${SHORT_SYMBOL})([A-Za-z])", replacement: "\\\\[[0]] [[1]]", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) sr", replacement: "\\\\[[0]]^{2}", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) cb", replacement: "\\\\[[0]]^{3}", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) rd", replacement: "\\\\[[0]]^{$0}$1", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) hat", replacement: "\\\\hat{\\\\[[0]]}", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) dot", replacement: "\\\\dot{\\\\[[0]]}", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) bar", replacement: "\\\\bar{\\\\[[0]]}", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) vec", replacement: "\\\\vec{\\\\[[0]]}", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) tilde", replacement: "\\\\tilde{\\\\[[0]]}", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}|${SYMBOL}) und", replacement: "\\\\underline{\\\\[[0]]}", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK}),\\\\.", replacement: "\\\\boldsymbol{\\\\[[0]]}", options: "rmA"},\n    {trigger: "\\\\\\\\(${GREEK})\\\\.,", replacement: "\\\\boldsymbol{\\\\[[0]]}", options: "rmA"},\n\n\n    // Operations\n    {trigger: "te", replacement: "\\\\text{$0}", options: "m"},\n    {trigger: "text", replacement: "\\\\text{$0}", options: "mA"},\n    {trigger: "bf", replacement: "\\\\mathbf{$0}", options: "mA"},\n    {trigger: "sr", replacement: "^{2}", options: "mA"},\n    {trigger: "cb", replacement: "^{3}", options: "mA"},\n    {trigger: "rd", replacement: "^{$0}$1", options: "mA"},\n    {trigger: "_", replacement: "_{$0}$1", options: "mA"},\n    {trigger: "sts", replacement: "_\\\\text{$0}", options: "rmA"},\n    {trigger: "sq", replacement: "\\\\sqrt{ $0 }$1", options: "mA"},\n    {trigger: "//", replacement: "\\\\frac{$0}{$1}$2", options: "mA"},\n    {trigger: "ee", replacement: "e^{ $0 }$1", options: "mA"},\n    {trigger: "rm", replacement: "\\\\mathrm{$0}$1", options: "mA"},\n    {trigger: "conj", replacement: "^{*}", options: "mA"},\n    {trigger: "trace", replacement: "\\\\mathrm{Tr}", options: "mA"},\n    {trigger: "det", replacement: "\\\\det", options: "mA"},\n    {trigger: "re", replacement: "\\\\mathrm{Re}", options: "mA"},\n    {trigger: "im", replacement: "\\\\mathrm{Im}", options: "mA"},\n\n    {trigger: "([a-zA-Z]),\\\\.", replacement: "\\\\mathbf{[[0]]}", options: "rmA"},\n    {trigger: "([a-zA-Z])\\\\.,", replacement: "\\\\mathbf{[[0]]}", options: "rmA"},\n    {trigger: "([A-Za-z])(\\\\d)", replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},\n    {trigger: "([A-Za-z])_(\\\\d\\\\d)", replacement: "[[0]]_{[[1]]}", options: "rmA"},\n    {trigger: "\\\\hat{([A-Za-z])}(\\\\d)", replacement: "hat{[[0]]}_{[[1]]}", options: "rmA"},\n    {trigger: "\\\\\\\\mathbf{([A-Za-z])}(\\\\d)", replacement: "\\\\mathbf{[[0]]}_{[[1]]}", options: "rmA"},\n    {trigger: "\\\\\\\\vec{([A-Za-z])}(\\\\d)", replacement: "\\\\vec{[[0]]}_{[[1]]}", options: "rmA"},\n    {trigger: "([a-zA-Z])bar", replacement: "\\\\bar{[[0]]}", options: "rmA"},\n    {trigger: "([a-zA-Z])hat", replacement: "\\\\hat{[[0]]}", options: "rmA"},\n    {trigger: "([a-zA-Z])ddot", replacement: "\\\\ddot{[[0]]}", options: "rmA", priority: 3},\n    {trigger: "([a-zA-Z])dot", replacement: "\\\\dot{[[0]]}", options: "rmA", priority: 1},\n    {trigger: "([a-zA-Z])vec", replacement: "\\\\vec{[[0]]}", options: "rmA"},\n    {trigger: "([a-zA-Z])tilde", replacement: "\\\\tilde{[[0]]}", options: "rmA"},\n    {trigger: "([a-zA-Z])und", replacement: "\\\\underline{[[0]]}", options: "rmA"},\n    {trigger: "bar", replacement: "\\\\bar{$0}$1", options: "mA"},\n    {trigger: "hat", replacement: "\\\\hat{$0}$1", options: "mA"},\n    {trigger: "dot", replacement: "\\\\dot{$0}$1", options: "mA"},\n    {trigger: "ddot", replacement: "\\\\ddot{$0}$1", options: "mA", priority: 2},\n    {trigger: "vec", replacement: "\\\\vec{$0}$1", options: "mA"},\n    {trigger: "tilde", replacement: "\\\\tilde{$0}$1", options: "mA"},\n    {trigger: "und", replacement: "\\\\underline{$0}$1", options: "mA"},\n\n    {trigger: "([^\\\\\\\\])(arcsin|arccos|arctan|arccot|arccsc|arcsec|sin|cos|tan|cot|csc)", replacement: "[[0]]\\\\[[1]]", options: "rmA"},\n    {trigger: "\\\\\\\\(arcsin|arccos|arctan|arccot|arccsc|arcsec|sin|cos|tan|cot|csc)([A-Za-gi-z])", replacement: "\\\\[[0]] [[1]]", options: "rmA"}, // Insert space after trig funcs. Skips letter "h" to allow sinh, cosh, etc.\n    {trigger: "\\\\\\\\(arcsinh|arccosh|arctanh|arccoth|arcsch|arcsech|sinh|cosh|tanh|coth|csch)([A-Za-z])", replacement: "\\\\[[0]] [[1]]", options: "rmA"}, // Insert space after trig funcs\n    {trigger: "\\\\\\\\(neq|geq|leq|gg|ll|sim)([0-9]+)", replacement: "\\\\[[0]] [[1]]", options: "rmA"}, // Insert space after inequality symbols\n\n\n    // Visual operations\n    {trigger: "U", replacement: "\\\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},\n    {trigger: "B", replacement: "\\\\underset{ $0 }{ ${VISUAL} }", options: "mA"},\n    {trigger: "C", replacement: "\\\\cancel{ ${VISUAL} }", options: "mA"},\n    {trigger: "K", replacement: "\\\\cancelto{ $0 }{ ${VISUAL} }", options: "mA"},\n    {trigger: "S", replacement: "\\\\sqrt{ ${VISUAL} }", options: "mA"},\n\n\n\n    // Symbols\n    {trigger: "ooo", replacement: "\\\\infty", options: "mA"},\n    {trigger: "sum", replacement: "\\\\sum", options: "mA"},\n    {trigger: "prod", replacement: "\\\\prod", options: "mA"},\n    {trigger: "lim", replacement: "\\\\lim_{ ${0:n} \\\\to ${1:\\\\infty} } $2", options: "mA"},\n    {trigger: "([^\\\\\\\\])pm", replacement: "[[0]]\\\\pm", options: "rm"},\n    {trigger: "([^\\\\\\\\])mp", replacement: "[[0]]\\\\mp", options: "rm"},\n    {trigger: "+-", replacement: "\\\\pm", options: "mA"},\n    {trigger: "-+", replacement: "\\\\mp", options: "mA"},\n    {trigger: "...", replacement: "\\\\dots", options: "mA"},\n    {trigger: "<->", replacement: "\\\\leftrightarrow ", options: "mA"},\n    {trigger: "->", replacement: "\\\\to", options: "mA"},\n    {trigger: "!>", replacement: "\\\\mapsto", options: "mA"},\n    {trigger: "invs", replacement: "^{-1}", options: "mA"},\n    {trigger: "\\\\\\\\\\\\", replacement: "\\\\setminus", options: "mA"},\n    {trigger: "||", replacement: "\\\\mid", options: "mA"},\n    {trigger: "and", replacement: "\\\\cap", options: "mA"},\n    {trigger: "orr", replacement: "\\\\cup", options: "mA"},\n    {trigger: "inn", replacement: "\\\\in", options: "mA"},\n    {trigger: "\\\\subset eq", replacement: "\\\\subseteq", options: "mA"},\n    {trigger: "set", replacement: "\\\\{ $0 \\\\}$1", options: "mA"},\n    {trigger: "=>", replacement: "\\\\implies", options: "mA"},\n    {trigger: "=<", replacement: "\\\\impliedby", options: "mA"},\n    {trigger: "iff", replacement: "\\\\iff", options: "mA"},\n    {trigger: "e\\\\xi sts", replacement: "\\\\exists", options: "mA", priority: 1},\n    {trigger: "===", replacement: "\\\\equiv", options: "mA"},\n    {trigger: "Sq", replacement: "\\\\square", options: "mA"},\n    {trigger: "!=", replacement: "\\\\neq", options: "mA"},\n    {trigger: ">=", replacement: "\\\\geq", options: "mA"},\n    {trigger: "<=", replacement: "\\\\leq", options: "mA"},\n    {trigger: ">>", replacement: "\\\\gg", options: "mA"},\n    {trigger: "<<", replacement: "\\\\ll", options: "mA"},\n    {trigger: "~~", replacement: "\\\\sim", options: "mA"},\n    {trigger: "\\\\sim ~", replacement: "\\\\approx", options: "mA"},\n    {trigger: "prop", replacement: "\\\\propto", options: "mA"},\n    {trigger: "nabl", replacement: "\\\\nabla", options: "mA"},\n    {trigger: "del", replacement: "\\\\nabla", options: "mA"},\n    {trigger: "xx", replacement: "\\\\times", options: "mA"},\n    {trigger: "**", replacement: "\\\\cdot", options: "mA"},\n    {trigger: "para", replacement: "\\\\parallel", options: "mA"},\n\n\n    {trigger: "xnn", replacement: "x_{n}", options: "mA"},\n    {trigger: "xii", replacement: "x_{i}", options: "mA"},\n    {trigger: "xjj", replacement: "x_{j}", options: "mA"},\n    {trigger: "xp1", replacement: "x_{n+1}", options: "mA"},\n    {trigger: "ynn", replacement: "y_{n}", options: "mA"},\n    {trigger: "yii", replacement: "y_{i}", options: "mA"},\n    {trigger: "yjj", replacement: "y_{j}", options: "mA"},\n\n\n    {trigger: "mcal", replacement: "\\\\mathcal{$0}$1", options: "mA"},\n    {trigger: "mbb", replacement: "\\\\mathbb{$0}$1", options: "mA"},\n    {trigger: "ell", replacement: "\\\\ell", options: "mA"},\n    {trigger: "lll", replacement: "\\\\ell", options: "mA"},\n    {trigger: "LL", replacement: "\\\\mathcal{L}", options: "mA"},\n    {trigger: "HH", replacement: "\\\\mathcal{H}", options: "mA"},\n    {trigger: "CC", replacement: "\\\\mathbb{C}", options: "mA"},\n    {trigger: "RR", replacement: "\\\\mathbb{R}", options: "mA"},\n    {trigger: "ZZ", replacement: "\\\\mathbb{Z}", options: "mA"},\n    {trigger: "NN", replacement: "\\\\mathbb{N}", options: "mA"},\n    {trigger: "II", replacement: "\\\\mathbb{1}", options: "mA"},\n    {trigger: "\\\\mathbb{1}I", replacement: "\\\\hat{\\\\mathbb{1}}", options: "mA"},\n    {trigger: "AA", replacement: "\\\\mathcal{A}", options: "mA"},\n    {trigger: "BB", replacement: "\\\\mathbf{B}", options: "mA"},\n    {trigger: "EE", replacement: "\\\\mathbf{E}", options: "mA"},\n\n\n\n    // Unit vectors\n    {trigger: ":i", replacement: "\\\\mathbf{i}", options: "mA"},\n    {trigger: ":j", replacement: "\\\\mathbf{j}", options: "mA"},\n    {trigger: ":k", replacement: "\\\\mathbf{k}", options: "mA"},\n    {trigger: ":x", replacement: "\\\\hat{\\\\mathbf{x}}", options: "mA"},\n    {trigger: ":y", replacement: "\\\\hat{\\\\mathbf{y}}", options: "mA"},\n    {trigger: ":z", replacement: "\\\\hat{\\\\mathbf{z}}", options: "mA"},\n\n\n\n    // Derivatives\n    {trigger: "par", replacement: "\\\\frac{ \\\\partial ${0:y} }{ \\\\partial ${1:x} } $2", options: "m"},\n    {trigger: "pa2", replacement: "\\\\frac{ \\\\partial^{2} ${0:y} }{ \\\\partial ${1:x}^{2} } $2", options: "mA"},\n    {trigger: "pa3", replacement: "\\\\frac{ \\\\partial^{3} ${0:y} }{ \\\\partial ${1:x}^{3} } $2", options: "mA"},\n    {trigger: "pa([A-Za-z])([A-Za-z])", replacement: "\\\\frac{ \\\\partial [[0]] }{ \\\\partial [[1]] } ", options: "rm"},\n    {trigger: "pa([A-Za-z])([A-Za-z])([A-Za-z])", replacement: "\\\\frac{ \\\\partial^{2} [[0]] }{ \\\\partial [[1]] \\\\partial [[2]] } ", options: "rm"},\n    {trigger: "pa([A-Za-z])([A-Za-z])2", replacement: "\\\\frac{ \\\\partial^{2} [[0]] }{ \\\\partial [[1]]^{2} } ", options: "rmA"},\n    {trigger: "de([A-Za-z])([A-Za-z])", replacement: "\\\\frac{ d[[0]] }{ d[[1]] } ", options: "rm"},\n    {trigger: "de([A-Za-z])([A-Za-z])2", replacement: "\\\\frac{ d^{2}[[0]] }{ d[[1]]^{2} } ", options: "rmA"},\n    {trigger: "ddt", replacement: "\\\\frac{d}{dt} ", options: "mA"},\n\n\n\n    // Integrals\n    {trigger: "oinf", replacement: "\\\\int_{0}^{\\\\infty} $0 \\\\, d${1:x} $2", options: "mA"},\n    {trigger: "infi", replacement: "\\\\int_{-\\\\infty}^{\\\\infty} $0 \\\\, d${1:x} $2", options: "mA"},\n    {trigger: "dint", replacement: "\\\\int_{${0:0}}^{${1:\\\\infty}} $2 \\\\, d${3:x} $4", options: "mA"},\n    {trigger: "oint", replacement: "\\\\oint", options: "mA"},\n    {trigger: "iiint", replacement: "\\\\iiint", options: "mA"},\n    {trigger: "iint", replacement: "\\\\iint", options: "mA"},\n    {trigger: "int", replacement: "\\\\int $0 \\\\, d${1:x} $2", options: "mA"},\n\n\n\n    // Physics\n    {trigger: "kbt", replacement: "k_{B}T", options: "mA"},\n\n\n    // Quantum mechanics\n    {trigger: "hba", replacement: "\\\\hbar", options: "mA"},\n    {trigger: "dag", replacement: "^{\\\\dagger}", options: "mA"},\n    {trigger: "o+", replacement: "\\\\oplus ", options: "mA"},\n    {trigger: "ox", replacement: "\\\\otimes ", options: "mA"},\n    {trigger: "ot\\\\mathrm{Im}es", replacement: "\\\\otimes ", options: "mA"}, // Handle conflict with "im" snippet\n    {trigger: "bra", replacement: "\\\\bra{$0} $1", options: "mA"},\n    {trigger: "ket", replacement: "\\\\ket{$0} $1", options: "mA"},\n    {trigger: "brk", replacement: "\\\\braket{ $0 | $1 } $2", options: "mA"},\n    {trigger: "\\\\\\\\bra{([^|]+)\\\\|", replacement: "\\\\braket{ [[0]] | $0 ", options: "rmA", description: "Convert bra into braket"},\n    {trigger: "\\\\\\\\bra{(.+)}([^ ]+)>", replacement: "\\\\braket{ [[0]] | $0 ", options: "rmA", description: "Convert bra into braket (alternate)"},\n    {trigger: "outp", replacement: "\\\\ket{${0:\\\\psi}} \\\\bra{${0:\\\\psi}} $1", options: "mA"},\n\n\n\n    // Chemistry\n    {trigger: "pu", replacement: "\\\\pu{ $0 }", options: "mA"},\n    {trigger: "msun", replacement: "M_{\\\\odot}", options: "mA"},\n    {trigger: "solm", replacement: "M_{\\\\odot}", options: "mA"},\n    {trigger: "ce", replacement: "\\\\ce{ $0 }", options: "mA"},\n    {trigger: "iso", replacement: "{}^{${0:4}}_{${1:2}}${2:He}", options: "mA"},\n    {trigger: "hel4", replacement: "{}^{4}_{2}He ", options: "mA"},\n    {trigger: "hel3", replacement: "{}^{3}_{2}He ", options: "mA"},\n\n\n\n    // Environments\n    {trigger: "pmat", replacement: "\\\\begin{pmatrix}\\n$0\\n\\\\end{pmatrix}", options: "mA"},\n    {trigger: "bmat", replacement: "\\\\begin{bmatrix}\\n$0\\n\\\\end{bmatrix}", options: "mA"},\n    {trigger: "Bmat", replacement: "\\\\begin{Bmatrix}\\n$0\\n\\\\end{Bmatrix}", options: "mA"},\n    {trigger: "vmat", replacement: "\\\\begin{vmatrix}\\n$0\\n\\\\end{vmatrix}", options: "mA"},\n    {trigger: "Vmat", replacement: "\\\\begin{Vmatrix}\\n$0\\n\\\\end{Vmatrix}", options: "mA"},\n    {trigger: "case", replacement: "\\\\begin{cases}\\n$0\\n\\\\end{cases}", options: "mA"},\n    {trigger: "align", replacement: "\\\\begin{align}\\n$0\\n\\\\end{align}", options: "mA"},\n    {trigger: "array", replacement: "\\\\begin{array}\\n$0\\n\\\\end{array}", options: "mA"},\n    {trigger: "matrix", replacement: "\\\\begin{matrix}\\n$0\\n\\\\end{matrix}", options: "mA"},\n\n\n\n    // Brackets\n    {trigger: "avg", replacement: "\\\\langle $0 \\\\rangle $1", options: "mA"},\n    {trigger: "norm", replacement: "\\\\lvert $0 \\\\rvert $1", options: "mA", priority: 1},\n    {trigger: "mod", replacement: "|$0|$1", options: "mA"},\n    {trigger: "(", replacement: "(${VISUAL})", options: "mA"},\n    {trigger: "[", replacement: "[${VISUAL}]", options: "mA"},\n    {trigger: "{", replacement: "{${VISUAL}}", options: "mA"},\n    {trigger: "(", replacement: "($0)$1", options: "mA"},\n    {trigger: "{", replacement: "{$0}$1", options: "mA"},\n    {trigger: "[", replacement: "[$0]$1", options: "mA"},\n    {trigger: "lr(", replacement: "\\\\left( $0 \\\\right) $1", options: "mA"},\n    {trigger: "lr|", replacement: "\\\\left| $0 \\\\right| $1", options: "mA"},\n    {trigger: "lr{", replacement: "\\\\left\\\\{ $0 \\\\right\\\\} $1", options: "mA"},\n    {trigger: "lr[", replacement: "\\\\left[ $0 \\\\right] $1", options: "mA"},\n    {trigger: "lra", replacement: "\\\\left< $0 \\\\right> $1", options: "mA"},\n\n\n\n    // Misc\n    {trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}\'(${1:x})${2:h} + ${0:f}\'\'(${1:x}) \\\\frac{${2:h}^{2}}{2!} + \\\\dots$3", options: "mA"},\n]';
-
-// src/editor_extensions/conceal.ts
-var import_obsidian2 = __toModule(require("obsidian"));
-var import_view4 = __toModule(require("@codemirror/view"));
-var import_language5 = __toModule(require("@codemirror/language"));
-
-// src/editor_helpers.ts
-var import_obsidian = __toModule(require("obsidian"));
-var import_state3 = __toModule(require("@codemirror/state"));
-var import_language4 = __toModule(require("@codemirror/language"));
-function replaceRange(view, start2, end2, replacement) {
-  view.dispatch({
-    changes: { from: start2, to: end2, insert: replacement }
-  });
-}
-function getCharacterAtPos(view, pos) {
-  const doc = view.state.doc;
-  return doc.slice(pos, pos + 1).toString();
-}
-function setCursor(view, pos) {
-  view.dispatch({
-    selection: { anchor: pos, head: pos }
-  });
-  resetCursorBlink();
-}
-function setSelection(view, start2, end2) {
-  view.dispatch({
-    selection: { anchor: start2, head: end2 }
-  });
-  resetCursorBlink();
-}
-function setSelections(view, ranges) {
-  view.dispatch({
-    selection: import_state3.EditorSelection.create(ranges)
-  });
-  resetCursorBlink();
-}
-function resetCursorBlink() {
-  if (import_obsidian.Platform.isMobile)
-    return;
-  const cursorLayer = document.getElementsByClassName("cm-cursorLayer")[0];
-  if (cursorLayer) {
-    const curAnim = cursorLayer.style.animationName;
-    cursorLayer.style.animationName = curAnim === "cm-blink" ? "cm-blink2" : "cm-blink";
-  }
-}
-function isWithinEquation(state) {
-  const pos = state.selection.main.to - 1;
-  const tree = (0, import_language4.syntaxTree)(state);
-  const token = tree.resolveInner(pos, 1).name;
-  let withinEquation = token.contains("math");
-  if (!withinEquation) {
-    const tokenLeft = tree.resolveInner(pos - 1, 1).name;
-    const tokenRight = tree.resolveInner(pos + 1, 1).name;
-    if (tokenLeft.contains("math") && tokenRight.contains("math")) {
-      withinEquation = true;
-    }
-  } else if (token.contains("end")) {
-    withinEquation = false;
-  }
-  return withinEquation;
-}
-function isWithinInlineEquation(state, pos = state.selection.main.from) {
-  const result = getEquationBounds(state, pos);
-  if (!result)
-    return false;
-  const end2 = result.end;
-  const d = state.doc;
-  const inlineMath = d.sliceString(end2, end2 + 2) != "$$";
-  return inlineMath;
-}
-function getEquationBounds(state, pos = state.selection.main.from) {
-  let text = state.doc.toString();
-  text = text.replaceAll("\\$", "\\R");
-  const left2 = text.lastIndexOf("$", pos - 1);
-  const right2 = text.indexOf("$", pos);
-  if (left2 === -1 || right2 === -1)
-    return;
-  return { start: left2 + 1, end: right2 };
-}
-function isInsideEnvironment(view, pos, env) {
-  const result = getEquationBounds(view.state);
-  if (!result)
-    return false;
-  const { start: start2, end: end2 } = result;
-  const text = view.state.doc.toString();
-  const { openSymbol, closeSymbol } = env;
-  const curText = text.slice(start2, end2);
-  const openBracket = openSymbol.slice(-1);
-  const closeBracket = getCloseBracket(openBracket);
-  let offset2;
-  let openSearchSymbol;
-  if (["{", "[", "("].contains(openBracket) && closeSymbol === closeBracket) {
-    offset2 = openSymbol.length - 1;
-    openSearchSymbol = openBracket;
-  } else {
-    offset2 = 0;
-    openSearchSymbol = openSymbol;
-  }
-  let left2 = curText.lastIndexOf(openSymbol, pos - start2 - 1);
-  while (left2 != -1) {
-    const right2 = findMatchingBracket(curText, left2 + offset2, openSearchSymbol, closeSymbol, false);
-    if (right2 === -1)
-      return false;
-    if (right2 >= pos - start2 && pos - start2 >= left2 + openSymbol.length) {
-      return true;
-    }
-    if (left2 <= 0)
-      return false;
-    left2 = curText.lastIndexOf(openSymbol, left2 - 1);
-  }
-  return false;
-}
-function getEnclosingBracketsPos(view, pos) {
-  const result = getEquationBounds(view.state);
-  if (!result)
-    return -1;
-  const { start: start2, end: end2 } = result;
-  const text = view.state.doc.sliceString(start2, end2);
-  for (let i = pos - start2; i > 0; i--) {
-    let curChar = text.charAt(i);
-    if ([")", "]", "}"].contains(curChar)) {
-      const closeBracket = curChar;
-      const openBracket = getOpenBracket(closeBracket);
-      const j = findMatchingBracket(text, i, openBracket, closeBracket, true);
-      if (j === -1)
-        return -1;
-      i = j;
-      curChar = text.charAt(i);
-    } else {
-      if (!["{", "(", "["].contains(curChar))
-        continue;
-      const j = findMatchingBracket(text, i, curChar, getCloseBracket(curChar), false);
-      if (j === -1)
-        continue;
-      return { left: i + start2, right: j + start2 };
-    }
-  }
-  return -1;
-}
-function reverse(s) {
-  return s.split("").reverse().join("");
-}
-function findMatchingBracket(text, start2, openBracket, closeBracket, searchBackwards, end2) {
-  if (searchBackwards) {
-    const reversedIndex = findMatchingBracket(reverse(text), text.length - (start2 + closeBracket.length), reverse(closeBracket), reverse(openBracket), false);
-    if (reversedIndex === -1)
-      return -1;
-    return text.length - (reversedIndex + openBracket.length);
-  }
-  let brackets2 = 0;
-  const stop = end2 ? end2 : text.length;
-  for (let i = start2; i < stop; i++) {
-    if (text.slice(i, i + openBracket.length) === openBracket) {
-      brackets2++;
-    } else if (text.slice(i, i + closeBracket.length) === closeBracket) {
-      brackets2--;
-      if (brackets2 === 0) {
-        return i;
-      }
-    }
-  }
-  return -1;
-}
-function getOpenBracket(closeBracket) {
-  const openBrackets = { ")": "(", "]": "[", "}": "{" };
-  return openBrackets[closeBracket];
-}
-function getCloseBracket(openBracket) {
-  const closeBrackets2 = { "(": ")", "[": "]", "{": "}" };
-  return closeBrackets2[openBracket];
-}
-
-// src/editor_extensions/conceal_maps.ts
-var cmd_symbols = {
-  "aleph": "\u2135",
-  "amalg": "\u2210",
-  "angle": "\u2220",
-  "approx": "\u2248",
-  "ast": "\u2217",
-  "asymp": "\u224D",
-  "backslash": "\u2216",
-  "bigcap": "\u2229",
-  "bigcirc": "\u25CB",
-  "bigcup": "\u222A",
-  "bigodot": "\u2299",
-  "bigoplus": "\u2295",
-  "bigotimes": "\u2297",
-  "bigsqcup": "\u2294",
-  "bigtriangledown": "\u2207",
-  "bigtriangleup": "\u2206",
-  "bigvee": "\u22C1",
-  "bigwedge": "\u22C0",
-  "bot": "\u22A5",
-  "bowtie": "\u22C8",
-  "bullet": "\u2022",
-  "cap": "\u2229",
-  "cdots": "\u22EF",
-  "cdot": "\xB7",
-  "circ": "\u2218",
-  "clubsuit": "\u2663",
-  "cong": "\u2245",
-  "coprod": "\u2210",
-  "copyright": "\xA9",
-  "cup": "\u222A",
-  "dagger": "\u2020",
-  "dashv": "\u22A3",
-  "ddagger": "\u2021",
-  "ddots": "\u22F1",
-  "diamond": "\u22C4",
-  "diamondsuit": "\u2662",
-  "div": "\xF7",
-  "doteq": "\u2250",
-  "dots": "\u2026",
-  "downarrow": "\u2193",
-  "Downarrow": "\u21D3",
-  "ell": "\u2113",
-  "emptyset": "\xD8",
-  "equiv": "\u2261",
-  "exists": "\u2203",
-  "flat": "\u266D",
-  "forall": "\u2200",
-  "frown": "\u2054",
-  "geqslant": "\u2265",
-  "geq": "\u2265",
-  "gets": "\u2190",
-  "ge": "\u2265",
-  "gg": "\u27EB",
-  "hbar": "\u210F",
-  "heartsuit": "\u2661",
-  "hookleftarrow": "\u21A9",
-  "hookrightarrow": "\u21AA",
-  "iff": "\u21D4",
-  "Im": "\u2111",
-  "imath": "\u0269",
-  "infty": "\u221E",
-  "iiint": "\u222D",
-  "iint": "\u222C",
-  "int": "\u222B",
-  "in": "\u2208",
-  "jmath": "\u{1D6A5}",
-  "land": "\u2227",
-  "lnot": "\xAC",
-  "lceil": "\u2308",
-  "ldots": "\u2026",
-  "leftharpoondown": "\u21BD",
-  "leftharpoonup": "\u21BC",
-  "leftrightarrow": "\u2194",
-  "Leftrightarrow": "\u21D4",
-  "lhd": "\u25C1",
-  "rhd": "\u25B7",
-  "leftarrow": "\u2190",
-  "Leftarrow": "\u21D0",
-  "left": "",
-  "leq": "\u2264",
-  "le": "\u2264",
-  "ll": "\u226A",
-  "lmoustache": "\u256D",
-  "lor": "\u2228",
-  "mapsto": "\u21A6",
-  "middle": "",
-  "mid": "\u2223",
-  "models": "\u22A8",
-  "mp": "\u2213",
-  "nabla": "\u2207",
-  "natural": "\u266E",
-  "nearrow": "\u2197",
-  "neg": "\xAC",
-  "neqslant": "\u2260",
-  "neq": "\u2260",
-  "ne": "\u2260",
-  "ni": "\u220B",
-  "notin": "\u2209",
-  "nwarrow": "\u2196",
-  "odot": "\u2299",
-  "oint": "\u222E",
-  "ominus": "\u2296",
-  "oplus": "\u2295",
-  "oslash": "\u2298",
-  "otimes": "\u2297",
-  "owns": "\u220B",
-  "P": "\xB6",
-  "parallel": "\u2551",
-  "partial": "\u2202",
-  "perp": "\u22A5",
-  "pm": "\xB1",
-  "preceq": "\u2AAF",
-  "prec": "\u227A",
-  "prime": "\u2032",
-  "prod": "\u220F",
-  "propto": "\u221D",
-  "rceil": "\u2309",
-  "Re": "\u211C",
-  "qquad": "\u2001",
-  "quad": "\u2000",
-  "rightarrow": "\u2192",
-  "Rightarrow": "\u21D2",
-  "right": "",
-  "rightleftharpoons": "\u21CC",
-  "rmoustache": "\u256E",
-  "S": "\xA7",
-  "searrow": "\u2198",
-  "setminus": "\u29F5",
-  "sharp": "\u266F",
-  "simeq": "\u22CD",
-  "sim": "\u223C",
-  "smile": "\u203F",
-  "spadesuit": "\u2660",
-  "sqcap": "\u2293",
-  "sqcup": "\u2294",
-  "sqsubseteq": "\u2291",
-  "sqsubset": "\u228F",
-  "sqsupseteq": "\u2292",
-  "sqsupset": "\u2290",
-  "square": "\u25A1",
-  "star": "\u272B",
-  "subseteq": "\u2286",
-  "subset": "\u2282",
-  "succeq": "\u2AB0",
-  "succ": "\u227B",
-  "sum\\limits": "\u2211",
-  "sum": "\u2211",
-  "lim\\limits": "lim",
-  "supseteq": "\u2287",
-  "supset": "\u2283",
-  "surd": "\u221A",
-  "swarrow": "\u2199",
-  "times": "\xD7",
-  "top": "\u22A4",
-  "to": "\u2192",
-  "triangleleft": "\u22B2",
-  "triangleright": "\u22B3",
-  "triangle": "\u2206",
-  "uparrow": "\u2191",
-  "Uparrow": "\u21D1",
-  "updownarrow": "\u2195",
-  "Updownarrow": "\u21D5",
-  "vdash": "\u22A2",
-  "vdots": "\u22EE",
-  "vee": "\u2228",
-  "wedge": "\u2227",
-  "wp": "\u2118",
-  "wr": "\u2240",
-  "implies": "\u21D2",
-  "choose": "C",
-  "sqrt": "\u221A",
-  "coloneqq": "\u2254",
-  "colon": ":",
-  "displaystyle": " ",
-  ",": " ",
-  ":": " ",
-  ";": " "
-};
-var operators = [
-  "arcsin",
-  "arccos",
-  "arctan",
-  "sinh",
-  "cosh",
-  "tanh",
-  "coth",
-  "sin",
-  "cos",
-  "tan",
-  "sec",
-  "csc",
-  "cot",
-  "exp",
-  "ker",
-  "limsup",
-  "lim",
-  "sup",
-  "deg",
-  "gcd",
-  "log",
-  "lg",
-  "ln",
-  "Pr",
-  "det",
-  "hom",
-  "arg",
-  "dim",
-  "liminf",
-  "min",
-  "max"
-];
-var fractions = {
-  "{1}{2}": "\xBD",
-  "{1}{3}": "\u2153",
-  "{2}{3}": "\u2154",
-  "{1}{4}": "\xBC",
-  "{1}{5}": "\u2155",
-  "{2}{5}": "\u2156",
-  "{3}{5}": "\u2157",
-  "{4}{5}": "\u2158",
-  "{1}{6}": "\u2159",
-  "{5}{6}": "\u215A",
-  "{1}{8}": "\u215B",
-  "{3}{8}": "\u215C",
-  "{5}{8}": "\u215D",
-  "{7}{8}": "\u215E"
-};
-var greek = {
-  "alpha": "\u03B1",
-  "beta": "\u03B2",
-  "gamma": "\u03B3",
-  "delta": "\u03B4",
-  "epsilon": "\u03F5",
-  "varepsilon": "\u03B5",
-  "zeta": "\u03B6",
-  "eta": "\u03B7",
-  "theta": "\u03B8",
-  "vartheta": "\u03D1",
-  "iota": "\u03B9",
-  "kappa": "\u03BA",
-  "lambda": "\u03BB",
-  "mu": "\u03BC",
-  "nu": "\u03BD",
-  "xi": "\u03BE",
-  "pi": "\u03C0",
-  "varpi": "\u03D6",
-  "rho": "\u03C1",
-  "varrho": "\u03F1",
-  "sigma": "\u03C3",
-  "varsigma": "\u03C2",
-  "tau": "\u03C4",
-  "upsilon": "\u03C5",
-  "phi": "\u03D5",
-  "varphi": "\u03C6",
-  "chi": "\u03C7",
-  "psi": "\u03C8",
-  "omega": "\u03C9",
-  "Gamma": "\u0393",
-  "Delta": "\u0394",
-  "Theta": "\u0398",
-  "Lambda": "\u039B",
-  "Xi": "\u039E",
-  "Pi": "\u03A0",
-  "Sigma": "\u03A3",
-  "Upsilon": "\u03A5",
-  "Phi": "\u03A6",
-  "Chi": "\u03A7",
-  "Psi": "\u03A8",
-  "Omega": "\u03A9"
-};
-var map_super = {
-  "(": "\u207D",
-  ")": "\u207E",
-  "+": "\u207A",
-  "-": "\u207B",
-  "=": "\u207C",
-  ":": "\uFE13",
-  ";": "\uFE14",
-  "<": "\u02C2",
-  ">": "\u02C3",
-  "0": "\u2070",
-  "1": "\xB9",
-  "2": "\xB2",
-  "3": "\xB3",
-  "4": "\u2074",
-  "5": "\u2075",
-  "6": "\u2076",
-  "7": "\u2077",
-  "8": "\u2078",
-  "9": "\u2079",
-  "a": "\u1D43",
-  "b": "\u1D47",
-  "c": "\u1D9C",
-  "d": "\u1D48",
-  "e": "\u1D49",
-  "f": "\u1DA0",
-  "g": "\u1D4D",
-  "h": "\u02B0",
-  "i": "\u2071",
-  "j": "\u02B2",
-  "k": "\u1D4F",
-  "l": "\u02E1",
-  "m": "\u1D50",
-  "n": "\u207F",
-  "o": "\u1D52",
-  "p": "\u1D56",
-  "r": "\u02B3",
-  "s": "\u02E2",
-  "t": "\u1D57",
-  "u": "\u1D58",
-  "v": "\u1D5B",
-  "w": "\u02B7",
-  "x": "\u02E3",
-  "y": "\u02B8",
-  "z": "\u1DBB",
-  "A": "\u1D2C",
-  "B": "\u1D2E",
-  "D": "\u1D30",
-  "E": "\u1D31",
-  "G": "\u1D33",
-  "H": "\u1D34",
-  "I": "\u1D35",
-  "J": "\u1D36",
-  "K": "\u1D37",
-  "L": "\u1D38",
-  "M": "\u1D39",
-  "N": "\u1D3A",
-  "O": "\u1D3C",
-  "P": "\u1D3E",
-  "R": "\u1D3F",
-  "T": "\u1D40",
-  "U": "\u1D41",
-  "V": "\u2C7D",
-  "W": "\u1D42"
-};
-var map_sub = {
-  "(": "\u208D",
-  ")": "\u208E",
-  "+": "\u208A",
-  "-": "\u208B",
-  "=": "\u208C",
-  "0": "\u2080",
-  "1": "\u2081",
-  "2": "\u2082",
-  "3": "\u2083",
-  "4": "\u2084",
-  "5": "\u2085",
-  "6": "\u2086",
-  "7": "\u2087",
-  "8": "\u2088",
-  "9": "\u2089",
-  "a": "\u2090",
-  "e": "\u2091",
-  "h": "\u2095",
-  "i": "\u1D62",
-  "j": "\u2C7C",
-  "k": "\u2096",
-  "l": "\u2097",
-  "m": "\u2098",
-  "n": "\u2099",
-  "o": "\u2092",
-  "p": "\u209A",
-  "r": "\u1D63",
-  "s": "\u209B",
-  "t": "\u209C",
-  "u": "\u1D64",
-  "v": "\u1D65",
-  "x": "\u2093"
-};
-var brackets = {
-  "left<": "\u3008",
-  "right>": "\u3009",
-  "langle": "\u3008",
-  "rangle": "\u3009",
-  "lvert": "|",
-  "rvert": "|",
-  "vert": "|"
-};
-var mathbb = {
-  " ": " ",
-  "0": "\u{1D7D8}",
-  "1": "\u{1D7D9}",
-  "2": "\u{1D7DA}",
-  "3": "\u{1D7DB}",
-  "4": "\u{1D7DC}",
-  "5": "\u{1D7DD}",
-  "6": "\u{1D7DE}",
-  "7": "\u{1D7DF}",
-  "8": "\u{1D7E0}",
-  "9": "\u{1D7E1}",
-  "A": "\u{1D538}",
-  "B": "\u{1D539}",
-  "C": "\u2102",
-  "D": "\u{1D53B}",
-  "E": "\u{1D53C}",
-  "F": "\u{1D53D}",
-  "G": "\u{1D53E}",
-  "H": "\u210D",
-  "I": "\u{1D540}",
-  "J": "\u{1D541}",
-  "K": "\u{1D542}",
-  "L": "\u{1D543}",
-  "M": "\u{1D544}",
-  "N": "\u2115",
-  "O": "\u{1D546}",
-  "P": "\u2119",
-  "Q": "\u211A",
-  "R": "\u211D",
-  "S": "\u{1D54A}",
-  "T": "\u{1D54B}",
-  "U": "\u{1D54C}",
-  "V": "\u{1D54D}",
-  "W": "\u{1D54E}",
-  "X": "\u{1D54F}",
-  "Y": "\u{1D550}",
-  "Z": "\u2124",
-  "a": "\u{1D552}",
-  "b": "\u{1D553}",
-  "c": "\u{1D554}",
-  "d": "\u{1D555}",
-  "e": "\u{1D556}",
-  "f": "\u{1D557}",
-  "g": "\u{1D558}",
-  "h": "\u{1D559}",
-  "i": "\u{1D55A}",
-  "j": "\u{1D55B}",
-  "k": "\u{1D55C}",
-  "l": "\u{1D55D}",
-  "m": "\u{1D55E}",
-  "n": "\u{1D55F}",
-  "o": "\u{1D560}",
-  "p": "\u{1D561}",
-  "q": "\u{1D562}",
-  "r": "\u{1D563}",
-  "s": "\u{1D564}",
-  "t": "\u{1D565}",
-  "u": "\u{1D566}",
-  "v": "\u{1D567}",
-  "w": "\u{1D568}",
-  "x": "\u{1D569}",
-  "y": "\u{1D56A}",
-  "z": "\u{1D56B}"
-};
-var mathscrcal = {
-  "A": "\u{1D4D0}",
-  "B": "\u{1D4D1}",
-  "C": "\u{1D4D2}",
-  "D": "\u{1D4D3}",
-  "E": "\u{1D4D4}",
-  "F": "\u{1D4D5}",
-  "G": "\u{1D4D6}",
-  "H": "\u{1D4D7}",
-  "I": "\u{1D4D8}",
-  "J": "\u{1D4D9}",
-  "K": "\u{1D4DA}",
-  "L": "\u{1D4DB}",
-  "M": "\u{1D4DC}",
-  "N": "\u{1D4DD}",
-  "O": "\u{1D4DE}",
-  "P": "\u{1D4DF}",
-  "Q": "\u{1D4E0}",
-  "R": "\u{1D4E1}",
-  "S": "\u{1D4E2}",
-  "T": "\u{1D4E3}",
-  "U": "\u{1D4E4}",
-  "V": "\u{1D4E5}",
-  "W": "\u{1D4E6}",
-  "X": "\u{1D4E7}",
-  "Y": "\u{1D4E8}",
-  "Z": "\u{1D4E9}"
-};
-
-// src/editor_extensions/conceal.ts
-var ConcealWidget = class extends import_view4.WidgetType {
-  constructor(symbol, className, elementType) {
-    super();
-    this.symbol = symbol;
-    this.className = className ? className : "";
-    this.elementType = elementType ? elementType : "span";
-  }
-  eq(other) {
-    return other.symbol == this.symbol && other.className === this.className && other.elementType === this.elementType;
-  }
-  toDOM() {
-    const span = document.createElement(this.elementType);
-    span.className = "cm-math " + this.className;
-    span.textContent = this.symbol;
-    return span;
-  }
-  ignoreEvent() {
-    return false;
-  }
-};
-var TextWidget = class extends import_view4.WidgetType {
-  constructor(symbol) {
-    super();
-    this.symbol = symbol;
-  }
-  eq(other) {
-    return other.symbol == this.symbol;
-  }
-  toDOM() {
-    const span = document.createElement("span");
-    span.className = "cm-math";
-    span.textContent = this.symbol;
-    return span;
-  }
-  ignoreEvent() {
-    return false;
-  }
-};
-function selectionAndRangeOverlap(selection, rangeFrom, rangeTo) {
-  for (const range of selection.ranges) {
-    if (range.from <= rangeTo && range.to >= rangeFrom) {
-      return true;
-    }
-  }
-  return false;
-}
-function escapeRegex(regex) {
-  const escapeChars = ["\\", "(", ")", "+", "-", "[", "]", "{", "}"];
-  for (const escapeChar of escapeChars) {
-    regex = regex.replaceAll(escapeChar, "\\" + escapeChar);
-  }
-  return regex;
-}
-function concealSymbols(eqn, prefix, suffix, symbolMap, className, allowSucceedingLetters = true) {
-  const symbolNames = Object.keys(symbolMap);
-  const regexStr = prefix + "(" + escapeRegex(symbolNames.join("|")) + ")" + suffix;
-  const symbolRegex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(symbolRegex)];
-  const concealments = [];
-  for (const match of matches) {
-    const symbol = match[1];
-    if (!allowSucceedingLetters) {
-      const end2 = match.index + match[0].length;
-      if (eqn.charAt(end2).match(/[a-zA-Z]/)) {
-        continue;
-      }
-    }
-    concealments.push({ start: match.index, end: match.index + match[0].length, replacement: symbolMap[symbol], class: className });
-  }
-  return concealments;
-}
-function concealModifier(eqn, modifier, combiningCharacter) {
-  const regexStr = "\\\\" + modifier + "{([A-Za-z])}";
-  const symbolRegex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(symbolRegex)];
-  const concealments = [];
-  for (const match of matches) {
-    const symbol = match[1];
-    concealments.push({ start: match.index, end: match.index + match[0].length, replacement: symbol + combiningCharacter, class: "latex-suite-unicode" });
-  }
-  return concealments;
-}
-function concealSupSub(eqn, superscript, symbolMap) {
-  const prefix = superscript ? "\\^" : "_";
-  const regexStr = prefix + "{([A-Za-z0-9\\()\\[\\]/+-=<>':;\\\\ *]+)}";
-  const regex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(regex)];
-  const concealments = [];
-  for (const match of matches) {
-    const exponent = match[1];
-    const elementType = superscript ? "sup" : "sub";
-    const symbolNames = Object.keys(symbolMap);
-    const symbolRegexStr = "\\\\(" + escapeRegex(symbolNames.join("|")) + ")";
-    const symbolRegex = new RegExp(symbolRegexStr, "g");
-    const replacement = exponent.replace(symbolRegex, (a, b) => {
-      return symbolMap[b];
-    });
-    concealments.push({ start: match.index, end: match.index + match[0].length, replacement, class: "cm-number", elementType });
-  }
-  return concealments;
-}
-function concealModified_A_to_Z_0_to_9(eqn, mathBBsymbolMap) {
-  const regexStr = "\\\\(mathbf|boldsymbol|underline|mathrm|text|mathbb){([A-Za-z0-9 ]+)}";
-  const regex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(regex)];
-  const concealments = [];
-  for (const match of matches) {
-    const type = match[1];
-    const value = match[2];
-    const start2 = match.index;
-    const end2 = start2 + match[0].length;
-    if (type === "mathbf" || type === "boldsymbol") {
-      concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-bold" });
-    } else if (type === "underline") {
-      concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-underline" });
-    } else if (type === "mathrm") {
-      concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-mathrm" });
-    } else if (type === "text") {
-      if (start2 > 0 && eqn.charAt(start2 - 1) === "_") {
-        concealments.push({ start: start2 - 1, end: end2, replacement: value, class: "cm-concealed-mathrm", elementType: "sub" });
-      }
-    } else if (type === "mathbb") {
-      const letters = Array.from(value);
-      const replacement = letters.map((el) => mathBBsymbolMap[el]).join("");
-      concealments.push({ start: start2, end: end2, replacement });
-    }
-  }
-  return concealments;
-}
-function concealModifiedGreekLetters(eqn, greekSymbolMap) {
-  const greekSymbolNames = Object.keys(greekSymbolMap);
-  const regexStr = "\\\\(underline|boldsymbol){\\\\(" + escapeRegex(greekSymbolNames.join("|")) + ")}";
-  const regex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(regex)];
-  const concealments = [];
-  for (const match of matches) {
-    const type = match[1];
-    const value = match[2];
-    const start2 = match.index;
-    const end2 = start2 + match[0].length;
-    if (type === "underline") {
-      concealments.push({ start: start2, end: end2, replacement: greekSymbolMap[value], class: "cm-concealed-underline" });
-    } else if (type === "boldsymbol") {
-      concealments.push({ start: start2, end: end2, replacement: greekSymbolMap[value], class: "cm-concealed-bold" });
-    }
-  }
-  return concealments;
-}
-function concealText(eqn) {
-  const regexStr = "\\\\text{([A-Za-z0-9-.!?() ]+)}";
-  const regex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(regex)];
-  const concealments = [];
-  for (const match of matches) {
-    const value = match[1];
-    const start2 = match.index;
-    const end2 = start2 + match[0].length;
-    concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-mathrm cm-variable-2" });
-  }
-  return concealments;
-}
-function concealOperators(eqn, symbols) {
-  const regexStr = "\\\\(" + symbols.join("|") + ")";
-  const regex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(regex)];
-  const concealments = [];
-  for (const match of matches) {
-    const value = match[1];
-    const start2 = match.index;
-    const end2 = start2 + match[0].length;
-    concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-mathrm cm-variable-2" });
-  }
-  return concealments;
-}
-function concealAtoZ(eqn, prefix, suffix, symbolMap, className) {
-  const regexStr = prefix + "([A-Z]+)" + suffix;
-  const symbolRegex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(symbolRegex)];
-  const concealments = [];
-  for (const match of matches) {
-    const symbol = match[1];
-    const letters = Array.from(symbol);
-    const replacement = letters.map((el) => symbolMap[el]).join("");
-    concealments.push({ start: match.index, end: match.index + match[0].length, replacement, class: className });
-  }
-  return concealments;
-}
-function concealBraKet(eqn, selection, eqnStartBound, mousedown) {
-  const langle = "\u3008";
-  const rangle = "\u3009";
-  const vert = "|";
-  const regexStr = "\\\\(braket|bra|ket){";
-  const symbolRegex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(symbolRegex)];
-  const concealments = [];
-  for (const match of matches) {
-    const loc = match.index + match[0].length;
-    const j = findMatchingBracket(eqn, loc - 1, "{", "}", false);
-    if (j === -1)
-      continue;
-    const start2 = match.index;
-    const end2 = start2 + match[0].length;
-    if (!mousedown) {
-      if (selectionAndRangeOverlap(selection, eqnStartBound + start2, eqnStartBound + end2))
-        continue;
-      if (selectionAndRangeOverlap(selection, eqnStartBound + j, eqnStartBound + j + 1))
-        continue;
-    }
-    const type = match[1];
-    const left2 = type === "ket" ? vert : langle;
-    const right2 = type === "bra" ? vert : rangle;
-    concealments.push({ start: start2, end: end2 - 1, replacement: "" });
-    concealments.push({ start: end2 - 1, end: end2, replacement: left2, class: "cm-bracket" });
-    concealments.push({ start: j, end: j + 1, replacement: right2, class: "cm-bracket" });
-  }
-  return concealments;
-}
-function concealFraction(eqn, selection, eqnStartBound, mousedown) {
-  const regexStr = "\\\\(frac){";
-  const symbolRegex = new RegExp(regexStr, "g");
-  const matches = [...eqn.matchAll(symbolRegex)];
-  const concealments = [];
-  for (const match of matches) {
-    const loc = match.index + match[0].length;
-    const j = findMatchingBracket(eqn, loc - 1, "{", "}", false);
-    if (j === -1)
-      continue;
-    const charAfterFirstBracket = eqn.charAt(j + 1);
-    if (charAfterFirstBracket != "{")
-      continue;
-    const k = findMatchingBracket(eqn, j + 1, "{", "}", false);
-    if (k === -1)
-      continue;
-    const start2 = match.index;
-    const end2 = start2 + match[0].length;
-    if (!mousedown) {
-      if (selectionAndRangeOverlap(selection, eqnStartBound + start2, eqnStartBound + end2))
-        continue;
-      if (selectionAndRangeOverlap(selection, eqnStartBound + j, eqnStartBound + j + 2))
-        continue;
-      if (selectionAndRangeOverlap(selection, eqnStartBound + k, eqnStartBound + k + 1))
-        continue;
-    }
-    concealments.push({ start: start2, end: end2 - 1, replacement: "" });
-    concealments.push({ start: end2 - 1, end: end2, replacement: "(", class: "cm-bracket" });
-    concealments.push({ start: j, end: j + 1, replacement: ")", class: "cm-bracket" });
-    concealments.push({ start: j + 1, end: j + 1, replacement: "/", class: "cm-bracket" });
-    concealments.push({ start: j + 1, end: j + 2, replacement: "(", class: "cm-bracket" });
-    concealments.push({ start: k, end: k + 1, replacement: ")", class: "cm-bracket" });
-  }
-  return concealments;
-}
-function conceal(view) {
-  var _a;
-  const widgets = [];
-  const selection = view.state.selection;
-  const mousedown = (_a = view.plugin(import_obsidian2.livePreviewState)) == null ? void 0 : _a.mousedown;
-  for (const { from, to } of view.visibleRanges) {
-    (0, import_language5.syntaxTree)(view.state).iterate({
-      from,
-      to,
-      enter: (node) => {
-        const type = node.type;
-        const to2 = node.to;
-        if (!(type.name.contains("begin") && type.name.contains("math"))) {
-          return;
-        }
-        const bounds = getEquationBounds(view.state, to2 + 1);
-        if (!bounds)
-          return;
-        const eqn = view.state.doc.sliceString(bounds.start, bounds.end);
-        const ALL_SYMBOLS = __spreadValues(__spreadValues({}, greek), cmd_symbols);
-        const concealments = [
-          ...concealSymbols(eqn, "\\^", "", map_super),
-          ...concealSymbols(eqn, "_", "", map_sub),
-          ...concealSymbols(eqn, "\\\\frac", "", fractions),
-          ...concealSymbols(eqn, "\\\\", "", ALL_SYMBOLS, void 0, false),
-          ...concealSupSub(eqn, true, ALL_SYMBOLS),
-          ...concealSupSub(eqn, false, ALL_SYMBOLS),
-          ...concealModifier(eqn, "hat", "\u0302"),
-          ...concealModifier(eqn, "dot", "\u0307"),
-          ...concealModifier(eqn, "ddot", "\u0308"),
-          ...concealModifier(eqn, "overline", "\u0304"),
-          ...concealModifier(eqn, "bar", "\u0304"),
-          ...concealModifier(eqn, "tilde", "\u0303"),
-          ...concealModifier(eqn, "vec", "\u20D7"),
-          ...concealSymbols(eqn, "\\\\", "", brackets, "cm-bracket"),
-          ...concealAtoZ(eqn, "\\\\mathcal{", "}", mathscrcal),
-          ...concealModifiedGreekLetters(eqn, greek),
-          ...concealModified_A_to_Z_0_to_9(eqn, mathbb),
-          ...concealText(eqn),
-          ...concealBraKet(eqn, selection, bounds.start, mousedown),
-          ...concealFraction(eqn, selection, bounds.start, mousedown),
-          ...concealOperators(eqn, operators)
-        ];
-        for (const concealment of concealments) {
-          const start2 = bounds.start + concealment.start;
-          const end2 = bounds.start + concealment.end;
-          const symbol = concealment.replacement;
-          if (!mousedown && selectionAndRangeOverlap(selection, start2, end2))
-            continue;
-          if (start2 === end2) {
-            widgets.push(import_view4.Decoration.widget({
-              widget: new TextWidget(symbol),
-              block: false
-            }).range(start2, end2));
-          } else {
-            widgets.push(import_view4.Decoration.replace({
-              widget: new ConcealWidget(symbol, concealment.class, concealment.elementType),
-              inclusive: false,
-              block: false
-            }).range(start2, end2));
-          }
-        }
-      }
-    });
-  }
-  return import_view4.Decoration.set(widgets, true);
-}
-var concealPlugin = import_view4.ViewPlugin.fromClass(class {
-  constructor(view) {
-    this.decorations = conceal(view);
-  }
-  update(update) {
-    if (update.docChanged || update.viewportChanged || update.selectionSet)
-      this.decorations = conceal(update.view);
-  }
-}, { decorations: (v) => v.decorations });
-
-// src/editor_extensions/highlight_brackets.ts
-var import_view5 = __toModule(require("@codemirror/view"));
-var import_state4 = __toModule(require("@codemirror/state"));
-var import_language6 = __toModule(require("@codemirror/language"));
-var Ncolors = 3;
-function getHighlightBracketMark(pos, className) {
-  return import_view5.Decoration.mark({
-    inclusive: true,
-    attributes: {},
-    class: className
-  }).range(pos, pos + 1);
-}
-function colorPairedBrackets(view) {
-  const widgets = [];
-  for (const { from, to } of view.visibleRanges) {
-    (0, import_language6.syntaxTree)(view.state).iterate({
-      from,
-      to,
-      enter: (node) => {
-        const type = node.type;
-        const to2 = node.to;
-        if (!(type.name.contains("begin") && type.name.contains("math"))) {
-          return;
-        }
-        const bounds = getEquationBounds(view.state, to2 + 1);
-        if (!bounds)
-          return;
-        const eqn = view.state.doc.sliceString(bounds.start, bounds.end);
-        const openBrackets = ["{", "[", "("];
-        const closeBrackets2 = ["}", "]", ")"];
-        const bracketsStack = [];
-        const bracketsPosStack = [];
-        for (let i = 0; i < eqn.length; i++) {
-          const char = eqn.charAt(i);
-          if (openBrackets.contains(char)) {
-            bracketsStack.push(char);
-            bracketsPosStack.push(i);
-          } else if (closeBrackets2.contains(char)) {
-            const lastBracket = bracketsStack.at(-1);
-            if (getCloseBracket(lastBracket) === char) {
-              bracketsStack.pop();
-              const lastBracketPos = bracketsPosStack.pop();
-              const depth = bracketsStack.length % Ncolors;
-              const className = "latex-suite-color-bracket-" + depth;
-              const j = lastBracketPos + bounds.start;
-              const k = i + bounds.start;
-              widgets.push(getHighlightBracketMark(j, className));
-              widgets.push(getHighlightBracketMark(k, className));
-            }
-          }
-        }
-      }
-    });
-  }
-  return import_view5.Decoration.set(widgets, true);
-}
-function highlightCursorBrackets(view) {
-  const widgets = [];
-  const selection = view.state.selection;
-  const ranges = selection.ranges;
-  const text = view.state.doc.toString();
-  if (!isWithinEquation(view.state)) {
-    return import_view5.Decoration.set(widgets, true);
-  }
-  const bounds = getEquationBounds(view.state, selection.main.to);
-  if (!bounds)
-    return import_view5.Decoration.set(widgets, true);
-  const eqn = view.state.doc.sliceString(bounds.start, bounds.end);
-  const openBrackets = ["{", "[", "("];
-  const brackets2 = ["{", "[", "(", "}", "]", ")"];
-  let done = false;
-  for (const range of ranges) {
-    for (let i = range.to; i > range.from - 2; i--) {
-      const char = text.charAt(i);
-      if (!brackets2.contains(char))
-        continue;
-      let openBracket, closeBracket;
-      let backwards = false;
-      if (openBrackets.contains(char)) {
-        openBracket = char;
-        closeBracket = getCloseBracket(openBracket);
-      } else {
-        closeBracket = char;
-        openBracket = getOpenBracket(char);
-        backwards = true;
-      }
-      let j = findMatchingBracket(eqn, i - bounds.start, openBracket, closeBracket, backwards);
-      if (j === -1)
-        continue;
-      j = j + bounds.start;
-      widgets.push(getHighlightBracketMark(i, "latex-suite-highlighted-bracket"));
-      widgets.push(getHighlightBracketMark(j, "latex-suite-highlighted-bracket"));
-      done = true;
-      break;
-    }
-    if (done)
-      break;
-    if (range.empty) {
-      const pos = range.from - 1;
-      const result = getEnclosingBracketsPos(view, pos);
-      if (result === -1)
-        continue;
-      widgets.push(getHighlightBracketMark(result.left, "latex-suite-highlighted-bracket"));
-      widgets.push(getHighlightBracketMark(result.right, "latex-suite-highlighted-bracket"));
-      done = true;
-      break;
-    }
-    if (done)
-      break;
-  }
-  return import_view5.Decoration.set(widgets, true);
-}
-var colorPairedBracketsPlugin = import_view5.ViewPlugin.fromClass(class {
-  constructor(view) {
-    this.decorations = colorPairedBrackets(view);
-  }
-  update(update) {
-    if (update.docChanged || update.viewportChanged) {
-      this.decorations = colorPairedBrackets(update.view);
-    }
-  }
-}, { decorations: (v) => v.decorations });
-var colorPairedBracketsPluginLowestPrec = import_state4.Prec.lowest(colorPairedBracketsPlugin.extension);
-var highlightCursorBracketsPlugin = import_view5.ViewPlugin.fromClass(class {
-  constructor(view) {
-    this.decorations = highlightCursorBrackets(view);
-  }
-  update(update) {
-    if (update.docChanged || update.selectionSet)
-      this.decorations = highlightCursorBrackets(update.view);
-  }
-}, { decorations: (v) => v.decorations });
-
-// src/editor_extensions/math_tooltip.ts
-var import_view6 = __toModule(require("@codemirror/view"));
-var import_state5 = __toModule(require("@codemirror/state"));
+// src/settings/ui/file_suggest.ts
 var import_obsidian3 = __toModule(require("obsidian"));
-var cursorTooltipField = import_state5.StateField.define({
-  create: getCursorTooltips,
-  update(tooltips2, tr) {
-    if (!tr.docChanged && !tr.selection)
-      return tooltips2;
-    return getCursorTooltips(tr.state);
-  },
-  provide: (f) => import_view6.showTooltip.computeN([f], (state) => state.field(f))
-});
-function getCursorTooltips(state) {
-  const pos = state.selection.main.from;
-  if (isWithinEquation(state)) {
-    const isInline = isWithinInlineEquation(state, pos);
-    const isLivePreview = state.field(import_obsidian3.editorLivePreviewField);
-    if (!isInline && isLivePreview)
-      return [];
-    const bounds = getEquationBounds(state, pos);
-    if (!bounds)
-      return [];
-    const eqn = state.sliceDoc(bounds.start, bounds.end);
-    if (eqn.trim() === "")
-      return [];
-    return [
-      {
-        pos: bounds.start,
-        above: true,
-        strictSide: true,
-        arrow: true,
-        create: () => {
-          const delimiter = isInline ? "$" : "$$";
-          const dom = document.createElement("div");
-          dom.className = "cm-tooltip-cursor";
-          import_obsidian3.MarkdownRenderer.renderMarkdown(delimiter + eqn + delimiter, dom, "", null);
-          return { dom };
-        }
-      }
-    ];
-  } else {
-    return [];
-  }
-}
-var cursorTooltipBaseTheme = import_view6.EditorView.baseTheme({
-  ".cm-tooltip.cm-tooltip-cursor": {
-    backgroundColor: "var(--background-primary)",
-    color: "var(--text-normal)",
-    border: "1px solid var(--background-modifier-border)",
-    padding: "4px 6px",
-    borderRadius: "6px",
-    "& .cm-tooltip-arrow:before": {
-      borderTopColor: "var(--background-modifier-border)"
-    },
-    "& .cm-tooltip-arrow:after": {
-      borderTopColor: "var(--background-primary)"
-    },
-    "& p": {
-      margin: "0px"
-    },
-    "& mjx-container": {
-      padding: "2px !important"
-    }
-  }
-});
-
-// src/ui/file_suggest.ts
-var import_obsidian5 = __toModule(require("obsidian"));
 
 // node_modules/@popperjs/core/lib/enums.js
 var top = "top";
@@ -6207,26 +4618,26 @@ var passive = {
   passive: true
 };
 function effect3(_ref) {
-  var state = _ref.state, instance = _ref.instance, options = _ref.options;
+  var state = _ref.state, instance2 = _ref.instance, options = _ref.options;
   var _options$scroll = options.scroll, scroll = _options$scroll === void 0 ? true : _options$scroll, _options$resize = options.resize, resize = _options$resize === void 0 ? true : _options$resize;
   var window2 = getWindow(state.elements.popper);
   var scrollParents = [].concat(state.scrollParents.reference, state.scrollParents.popper);
   if (scroll) {
     scrollParents.forEach(function(scrollParent) {
-      scrollParent.addEventListener("scroll", instance.update, passive);
+      scrollParent.addEventListener("scroll", instance2.update, passive);
     });
   }
   if (resize) {
-    window2.addEventListener("resize", instance.update, passive);
+    window2.addEventListener("resize", instance2.update, passive);
   }
   return function() {
     if (scroll) {
       scrollParents.forEach(function(scrollParent) {
-        scrollParent.removeEventListener("scroll", instance.update, passive);
+        scrollParent.removeEventListener("scroll", instance2.update, passive);
       });
     }
     if (resize) {
-      window2.removeEventListener("resize", instance.update, passive);
+      window2.removeEventListener("resize", instance2.update, passive);
     }
   };
 }
@@ -6952,7 +5363,7 @@ function orderModifiers(modifiers) {
 }
 
 // node_modules/@popperjs/core/lib/utils/debounce.js
-function debounce(fn2) {
+function debounce2(fn2) {
   var pending;
   return function() {
     if (!pending) {
@@ -6983,8 +5394,8 @@ var MISSING_DEPENDENCY_ERROR = 'Popper: modifier "%s" requires "%s", but "%s" mo
 var VALID_PROPERTIES = ["name", "enabled", "phase", "fn", "effect", "requires", "options"];
 function validateModifiers(modifiers) {
   modifiers.forEach(function(modifier) {
-    [].concat(Object.keys(modifier), VALID_PROPERTIES).filter(function(value, index, self2) {
-      return self2.indexOf(value) === index;
+    [].concat(Object.keys(modifier), VALID_PROPERTIES).filter(function(value, index, self) {
+      return self.indexOf(value) === index;
     }).forEach(function(key) {
       switch (key) {
         case "name":
@@ -7107,7 +5518,7 @@ function popperGenerator(generatorOptions) {
     };
     var effectCleanupFns = [];
     var isDestroyed = false;
-    var instance = {
+    var instance2 = {
       state,
       setOptions: function setOptions(setOptionsAction) {
         var options2 = typeof setOptionsAction === "function" ? setOptionsAction(state.options) : setOptionsAction;
@@ -7144,7 +5555,7 @@ function popperGenerator(generatorOptions) {
           }
         }
         runModifierEffects();
-        return instance.update();
+        return instance2.update();
       },
       forceUpdate: function forceUpdate() {
         if (isDestroyed) {
@@ -7186,14 +5597,14 @@ function popperGenerator(generatorOptions) {
               state,
               options: _options,
               name,
-              instance
+              instance: instance2
             }) || state;
           }
         }
       },
-      update: debounce(function() {
+      update: debounce2(function() {
         return new Promise(function(resolve) {
-          instance.forceUpdate();
+          instance2.forceUpdate();
           resolve(state);
         });
       }),
@@ -7206,9 +5617,9 @@ function popperGenerator(generatorOptions) {
       if (true) {
         console.error(INVALID_ELEMENT_ERROR);
       }
-      return instance;
+      return instance2;
     }
-    instance.setOptions(options).then(function(state2) {
+    instance2.setOptions(options).then(function(state2) {
       if (!isDestroyed && options.onFirstUpdate) {
         options.onFirstUpdate(state2);
       }
@@ -7220,7 +5631,7 @@ function popperGenerator(generatorOptions) {
           var cleanupFn = effect4({
             state,
             name,
-            instance,
+            instance: instance2,
             options: options2
           });
           var noopFn = function noopFn2() {
@@ -7235,7 +5646,7 @@ function popperGenerator(generatorOptions) {
       });
       effectCleanupFns = [];
     }
-    return instance;
+    return instance2;
   };
 }
 
@@ -7245,8 +5656,8 @@ var createPopper = /* @__PURE__ */ popperGenerator({
   defaultModifiers
 });
 
-// src/ui/suggest.ts
-var import_obsidian4 = __toModule(require("obsidian"));
+// src/settings/ui/suggest.ts
+var import_obsidian2 = __toModule(require("obsidian"));
 var wrapAround = (value, size) => {
   return (value % size + size) % size;
 };
@@ -7319,7 +5730,7 @@ var TextInputSuggest = class {
   constructor(app, inputEl) {
     this.app = app;
     this.inputEl = inputEl;
-    this.scope = new import_obsidian4.Scope();
+    this.scope = new import_obsidian2.Scope();
     this.suggestEl = createDiv("suggestion-container");
     const suggestion = this.suggestEl.createDiv("suggestion");
     this.suggest = new Suggest(this, suggestion, this.scope);
@@ -7348,13 +5759,13 @@ var TextInputSuggest = class {
         {
           name: "sameWidth",
           enabled: true,
-          fn: ({ state, instance }) => {
+          fn: ({ state, instance: instance2 }) => {
             const targetWidth = `${state.rects.reference.width}px`;
             if (state.styles.popper.width === targetWidth) {
               return;
             }
             state.styles.popper.width = targetWidth;
-            instance.update();
+            instance2.update();
           },
           phase: "beforeWrite",
           requires: ["computeStyles"]
@@ -7370,12 +5781,12 @@ var TextInputSuggest = class {
   }
 };
 
-// src/ui/file_suggest.ts
+// src/settings/ui/file_suggest.ts
 var FileSuggest = class extends TextInputSuggest {
   getSuggestions(inputStr) {
     const files = [];
     const lowerCaseInputStr = inputStr.toLowerCase();
-    import_obsidian5.Vault.recurseChildren(this.app.vault.getRoot(), (file) => {
+    import_obsidian3.Vault.recurseChildren(this.app.vault.getRoot(), (file) => {
       if (file.path.toLowerCase().contains(lowerCaseInputStr)) {
         files.push(file);
       }
@@ -7392,298 +5803,8 @@ var FileSuggest = class extends TextInputSuggest {
   }
 };
 
-// src/snippets/file_watch.ts
-var import_obsidian6 = __toModule(require("obsidian"));
-
-// src/snippets/snippet_helper_functions.ts
-var import_commands2 = __toModule(require("@codemirror/commands"));
-
-// src/snippets/marker_state_field.ts
-var import_state6 = __toModule(require("@codemirror/state"));
-var import_view7 = __toModule(require("@codemirror/view"));
-var addMark = import_state6.StateEffect.define();
-var removeMark = import_state6.StateEffect.define();
-var clearMarks = import_state6.StateEffect.define();
-var removeMarkBySpecAttribute = import_state6.StateEffect.define();
-var startSnippet = import_state6.StateEffect.define();
-var endSnippet = import_state6.StateEffect.define();
-var undidStartSnippet = import_state6.StateEffect.define();
-var undidEndSnippet = import_state6.StateEffect.define();
-var markerStateField = import_state6.StateField.define({
-  create() {
-    return import_view7.Decoration.none;
-  },
-  update(value, tr) {
-    value = value.map(tr.changes);
-    for (const effect4 of tr.effects) {
-      if (effect4.is(addMark)) {
-        value = value.update({ add: [effect4.value] });
-      } else if (effect4.is(removeMark)) {
-        value = value.update({ filter: (from, to, value2) => {
-          return !value2.eq(effect4.value.value);
-        } });
-      } else if (effect4.is(clearMarks)) {
-        value = value.update({ filter: () => false });
-      } else if (effect4.is(removeMarkBySpecAttribute)) {
-        value = value.update({ filter: (from, to, ref) => ref.spec[effect4.value.attribute] !== effect4.value.reference });
-      }
-    }
-    return value;
-  },
-  provide: (f) => import_view7.EditorView.decorations.from(f)
-});
-
-// src/snippets/tabstops_state_field.ts
-var import_state7 = __toModule(require("@codemirror/state"));
-var addTabstopEffect = import_state7.StateEffect.define();
-var addTabstopsEffect = import_state7.StateEffect.define();
-var consumeTabstopEffect = import_state7.StateEffect.define();
-var removeEmptyTabstopsEffect = import_state7.StateEffect.define();
-var clearAllTabstopsEffect = import_state7.StateEffect.define();
-var tabstopsStateField = import_state7.StateField.define({
-  create(editorState) {
-    return [];
-  },
-  update(oldState, transaction) {
-    let tabstopReferences = oldState;
-    for (const effect4 of transaction.effects) {
-      if (effect4.is(addTabstopEffect)) {
-        tabstopReferences.unshift(effect4.value);
-      } else if (effect4.is(addTabstopsEffect)) {
-        tabstopReferences.unshift(...effect4.value);
-      } else if (effect4.is(consumeTabstopEffect)) {
-        tabstopReferences.shift();
-      } else if (effect4.is(removeEmptyTabstopsEffect)) {
-        tabstopReferences = tabstopReferences.filter((tabstopReference) => tabstopReference.markers.length > 0);
-      } else if (effect4.is(clearAllTabstopsEffect)) {
-        tabstopReferences = [];
-      }
-    }
-    return tabstopReferences;
-  }
-});
-function addTabstop(view, tabstopReference) {
-  view.dispatch({
-    effects: [addTabstopEffect.of(tabstopReference)]
-  });
-}
-function consumeTabstop(view) {
-  view.dispatch({
-    effects: [consumeTabstopEffect.of(null)]
-  });
-}
-function removeEmptyTabstops(view) {
-  view.dispatch({
-    effects: [removeEmptyTabstopsEffect.of(null)]
-  });
-}
-function clearAllTabstops(view) {
-  view.dispatch({
-    effects: [clearAllTabstopsEffect.of(null)]
-  });
-}
-
-// src/snippets/snippet_helper_functions.ts
-var import_json5 = __toModule(require_dist());
-function sortSnippets(snippets2) {
-  function compareTriggerLength(a, b) {
-    const aTriggerLength = a.trigger.length;
-    const bTriggerLength = b.trigger.length;
-    if (aTriggerLength < bTriggerLength) {
-      return 1;
-    }
-    if (aTriggerLength > bTriggerLength) {
-      return -1;
-    }
-    return 0;
-  }
-  snippets2.sort(compareTriggerLength);
-  function compare(a, b) {
-    const aPriority = a.priority === void 0 ? 0 : a.priority;
-    const bPriority = b.priority === void 0 ? 0 : b.priority;
-    if (aPriority < bPriority) {
-      return 1;
-    }
-    if (aPriority > bPriority) {
-      return -1;
-    }
-    return 0;
-  }
-  snippets2.sort(compare);
-}
-function getSnippetsFromString(snippetsStr) {
-  const snippets2 = (0, import_json5.parse)(snippetsStr);
-  if (!validateSnippets(snippets2))
-    throw "Invalid snippet format.";
-  return snippets2;
-}
-function validateSnippets(snippets2) {
-  let valid = true;
-  for (const snippet of snippets2) {
-    if (!(snippet.trigger && snippet.replacement && snippet.options != void 0)) {
-      valid = false;
-      break;
-    }
-  }
-  return valid;
-}
-var snippetInvertedEffects = import_commands2.invertedEffects.of((tr) => {
-  const effects = [];
-  for (const effect4 of tr.effects) {
-    if (effect4.is(addMark)) {
-      effects.push(removeMark.of(effect4.value));
-    } else if (effect4.is(removeMark)) {
-      effects.push(addMark.of(effect4.value));
-    } else if (effect4.is(startSnippet)) {
-      effects.push(undidStartSnippet.of(null));
-    } else if (effect4.is(undidStartSnippet)) {
-      effects.push(startSnippet.of(null));
-    } else if (effect4.is(endSnippet)) {
-      effects.push(undidEndSnippet.of(null));
-    } else if (effect4.is(undidEndSnippet)) {
-      effects.push(endSnippet.of(null));
-    }
-  }
-  return effects;
-});
-var handleUndoRedo = (update) => {
-  const undoTr = update.transactions.find((tr) => tr.isUserEvent("undo"));
-  const redoTr = update.transactions.find((tr) => tr.isUserEvent("redo"));
-  for (const tr of update.transactions) {
-    for (const effect4 of tr.effects) {
-      if (effect4.is(startSnippet)) {
-        if (redoTr) {
-          (0, import_commands2.redo)(update.view);
-          (0, import_commands2.redo)(update.view);
-          (0, import_commands2.redo)(update.view);
-        }
-      } else if (effect4.is(undidEndSnippet)) {
-        if (undoTr) {
-          (0, import_commands2.undo)(update.view);
-          (0, import_commands2.undo)(update.view);
-          (0, import_commands2.undo)(update.view);
-        }
-      }
-    }
-  }
-  if (undoTr) {
-    removeEmptyTabstops(update.view);
-  }
-};
-
-// src/snippets/file_watch.ts
-function onFileChange(plugin, file) {
-  return __async(this, null, function* () {
-    if (!plugin.settings.loadSnippetsFromFile)
-      return;
-    if (!(file instanceof import_obsidian6.TFile))
-      return;
-    if (file.path === plugin.settings.snippetsFileLocation || fileIsInSnippetsFolder(plugin, file)) {
-      try {
-        yield debouncedSetSnippetsFromFileOrFolder(plugin);
-      } catch (e) {
-        new import_obsidian6.Notice("Failed to load snippets.", 5e3);
-      }
-    }
-  });
-}
-var onFileCreate = (plugin, file) => {
-  if (!plugin.settings.loadSnippetsFromFile)
-    return;
-  if (file instanceof import_obsidian6.TFile && fileIsInSnippetsFolder(plugin, file)) {
-    debouncedSetSnippetsFromFileOrFolder(plugin);
-  }
-};
-var onFileDelete = (plugin, file) => {
-  if (!plugin.settings.loadSnippetsFromFile)
-    return;
-  const snippetDir = plugin.app.vault.getAbstractFileByPath(plugin.settings.snippetsFileLocation);
-  const isFolder = snippetDir instanceof import_obsidian6.TFolder;
-  if (file instanceof import_obsidian6.TFile && (isFolder && file.path.contains(snippetDir.path))) {
-    debouncedSetSnippetsFromFileOrFolder(plugin);
-  }
-};
-function getSnippetsWithinFolder(folder) {
-  return __async(this, null, function* () {
-    const snippets2 = [];
-    for (const fileOrFolder of folder.children) {
-      if (fileOrFolder instanceof import_obsidian6.TFile) {
-        const content = yield this.app.vault.cachedRead(fileOrFolder);
-        try {
-          snippets2.push(...getSnippetsFromString(content));
-        } catch (e) {
-          console.log(`Failed to load snippet file ${fileOrFolder.path}:`, e);
-          new import_obsidian6.Notice(`Failed to load snippet file ${fileOrFolder.name}`);
-        }
-      } else {
-        const newSnippets = yield getSnippetsWithinFolder(fileOrFolder);
-        snippets2.push(...newSnippets);
-      }
-    }
-    return snippets2;
-  });
-}
-function isInFolder(file, dir) {
-  let cur = file.parent;
-  let cnt = 0;
-  while (cur && !cur.isRoot() && cnt < 100) {
-    if (cur.path === dir.path)
-      return true;
-    cur = cur.parent;
-    cnt++;
-  }
-  return false;
-}
-var fileIsInSnippetsFolder = (plugin, file) => {
-  const snippetDir = plugin.app.vault.getAbstractFileByPath(plugin.settings.snippetsFileLocation);
-  const isFolder = snippetDir instanceof import_obsidian6.TFolder;
-  return isFolder && isInFolder(file, snippetDir);
-};
-var debouncedSetSnippetsFromFileOrFolder = (0, import_obsidian6.debounce)((plugin, path) => __async(void 0, null, function* () {
-  if (!plugin.settings.loadSnippetsFromFile)
-    return;
-  if (!path)
-    path = plugin.settings.snippetsFileLocation;
-  let snippets2;
-  const fileOrFolder = plugin.app.vault.getAbstractFileByPath(path);
-  if (fileOrFolder instanceof import_obsidian6.TFolder) {
-    snippets2 = yield getSnippetsWithinFolder(fileOrFolder);
-  } else {
-    const content = yield plugin.app.vault.cachedRead(fileOrFolder);
-    snippets2 = yield getSnippetsFromString(content);
-  }
-  sortSnippets(snippets2);
-  plugin.snippets = snippets2;
-  new import_obsidian6.Notice("Successfully reloaded snippets.", 5e3);
-}), 500, true);
-
-// src/settings.ts
-var DEFAULT_SETTINGS = {
-  snippets: DEFAULT_SNIPPETS,
-  snippetsEnabled: true,
-  snippetsTrigger: "Tab",
-  removeSnippetWhitespace: true,
-  loadSnippetsFromFile: false,
-  snippetsFileLocation: "",
-  concealEnabled: false,
-  colorPairedBracketsEnabled: true,
-  highlightCursorBracketsEnabled: true,
-  mathPreviewEnabled: true,
-  autofractionEnabled: true,
-  autofractionSymbol: "\\frac",
-  autofractionExcludedEnvs: `[
-        ["^{", "}"],
-        ["\\\\pu{", "}"]
-]`,
-  autofractionBreakingChars: "+-=	",
-  matrixShortcutsEnabled: true,
-  matrixShortcutsEnvNames: "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix",
-  taboutEnabled: true,
-  autoEnlargeBrackets: true,
-  autoEnlargeBracketsTriggers: "sum, int, frac, prod",
-  wordDelimiters: "., +-\\n	:;!?\\/{}[]()=~$"
-};
-var LatexSuiteSettingTab = class extends import_obsidian7.PluginSettingTab {
+// src/settings/settings_tab.ts
+var LatexSuiteSettingTab = class extends import_obsidian4.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -7692,19 +5813,157 @@ var LatexSuiteSettingTab = class extends import_obsidian7.PluginSettingTab {
     var _a;
     (_a = this.snippetsEditor) == null ? void 0 : _a.destroy();
   }
+  addHeading(containerEl, name, icon = "math") {
+    const heading = new import_obsidian4.Setting(containerEl).setName(name).setHeading();
+    const parentEl = heading.settingEl;
+    const iconEl = parentEl.createDiv();
+    (0, import_obsidian4.setIcon)(iconEl, icon);
+    iconEl.addClass("latex-suite-settings-icon");
+    parentEl.prepend(iconEl);
+  }
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    containerEl.createEl("div", { text: "Snippets" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
-    new import_obsidian7.Setting(containerEl).setName("Enabled").setDesc("Whether snippets are enabled.").addToggle((toggle) => toggle.setValue(this.plugin.settings.snippetsEnabled).onChange((value) => __async(this, null, function* () {
+    this.addHeading(containerEl, "Snippets", "ballpen");
+    new import_obsidian4.Setting(containerEl).setName("Enabled").setDesc("Whether snippets are enabled.").addToggle((toggle) => toggle.setValue(this.plugin.settings.snippetsEnabled).onChange((value) => __async(this, null, function* () {
       this.plugin.settings.snippetsEnabled = value;
       yield this.plugin.saveSettings();
     })));
-    const snippetsSetting = new import_obsidian7.Setting(containerEl).setName("Snippets").setDesc('Enter snippets here.  Remember to add a comma after each snippet, and escape all backslashes with an extra \\. Lines starting with "//" will be treated as comments and ignored.').setClass("snippets-text-area");
+    const snippetsSetting = new import_obsidian4.Setting(containerEl).setName("Snippets").setDesc('Enter snippets here.  Remember to add a comma after each snippet, and escape all backslashes with an extra \\. Lines starting with "//" will be treated as comments and ignored.').setClass("snippets-text-area");
+    this.createSnippetsEditor(snippetsSetting);
+    new import_obsidian4.Setting(containerEl).setName("Load snippets from file or folder").setDesc("Whether to load snippets from a specified file, or from all files within a folder (instead of from the plugin settings).").addToggle((toggle) => toggle.setValue(this.plugin.settings.loadSnippetsFromFile).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.loadSnippetsFromFile = value;
+      snippetsSetting.settingEl.toggleClass("hidden", value);
+      if (this.snippetsFileLocEl != void 0)
+        this.snippetsFileLocEl.toggleClass("hidden", !value);
+      yield this.plugin.saveSettings();
+    })));
+    const snippetsFileLocDesc = new DocumentFragment();
+    snippetsFileLocDesc.createDiv({}, (div) => {
+      div.innerHTML = `
+			The file or folder to load snippets from. The file or folder must be within your vault, and not within a hidden folder (such as <code>.obsidian/</code>).`;
+    });
+    const snippetsFileLoc = new import_obsidian4.Setting(containerEl).setName("Snippets file or folder location").setDesc(snippetsFileLocDesc);
+    let inputEl;
+    snippetsFileLoc.addText((text) => {
+      text.setPlaceholder(DEFAULT_SETTINGS.snippetsFileLocation).setValue(this.plugin.settings.snippetsFileLocation).onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.snippetsFileLocation = value;
+        yield this.plugin.saveSettings();
+      }));
+      inputEl = text.inputEl;
+    });
+    this.snippetsFileLocEl = snippetsFileLoc.settingEl;
+    new FileSuggest(this.app, inputEl);
+    const loadSnippetsFromFile = this.plugin.settings.loadSnippetsFromFile;
+    snippetsSetting.settingEl.toggleClass("hidden", loadSnippetsFromFile);
+    this.snippetsFileLocEl.toggleClass("hidden", !loadSnippetsFromFile);
+    new import_obsidian4.Setting(containerEl).setName("Key trigger for non-auto snippets").setDesc("What key to press to expand non-auto snippets.").addDropdown((dropdown) => dropdown.addOption("Tab", "Tab").addOption(" ", "Space").setValue(this.plugin.settings.snippetsTrigger).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.snippetsTrigger = value;
+      yield this.plugin.saveSettings();
+    })));
+    this.addHeading(containerEl, "Conceal", "math-integral-x");
+    {
+      const fragment = new DocumentFragment();
+      fragment.createDiv({}, (div) => div.setText("Make equations more readable by hiding LaTeX markup and instead displaying it in a pretty format."));
+      fragment.createDiv({}, (div) => div.innerHTML = `
+				e.g. <code>\\dot{x}^{2} + \\dot{y}^{2}</code> will display as \u1E8B\xB2 + \u1E8F\xB2, and <code>\\sqrt{ 1-\\beta^{2} }</code> will display as \u221A{ 1-\u03B2\xB2 }.
+			`);
+      fragment.createDiv({}, (div) => div.setText("LaTeX beneath the cursor will be revealed."));
+      fragment.createEl("br");
+      fragment.createDiv({}, (div) => div.setText("Disabled by default to not confuse new users. However, I recommend turning this on once you are comfortable with the plugin!"));
+      new import_obsidian4.Setting(containerEl).setName("Enabled").setDesc(fragment).addToggle((toggle) => toggle.setValue(this.plugin.settings.concealEnabled).onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.concealEnabled = value;
+        this.plugin.refreshCMExtensions();
+        yield this.plugin.saveSettings();
+      })));
+    }
+    this.addHeading(containerEl, "Highlight and color brackets", "parentheses");
+    new import_obsidian4.Setting(containerEl).setName("Color paired brackets").setDesc("Whether to colorize matching brackets.").addToggle((toggle) => toggle.setValue(this.plugin.settings.colorPairedBracketsEnabled).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.colorPairedBracketsEnabled = value;
+      this.plugin.refreshCMExtensions();
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian4.Setting(containerEl).setName("Highlight matching bracket beneath cursor").setDesc("When the cursor is adjacent to a bracket, highlight the matching bracket.").addToggle((toggle) => toggle.setValue(this.plugin.settings.highlightCursorBracketsEnabled).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.highlightCursorBracketsEnabled = value;
+      this.plugin.refreshCMExtensions();
+      yield this.plugin.saveSettings();
+    })));
+    this.addHeading(containerEl, "Math popup preview", "superscript");
+    const popup_fragment = document.createDocumentFragment();
+    const popup_line1 = document.createElement("div");
+    popup_line1.setText("When inside an equation, show a popup preview window of the rendered math.");
+    const popup_space = document.createElement("br");
+    const popup_line4 = document.createElement("div");
+    popup_line4.setText("The popup preview will be shown for all inline math equations, as well as for block math equations in Source mode.");
+    popup_fragment.append(popup_line1, popup_space, popup_line4);
+    new import_obsidian4.Setting(containerEl).setName("Enabled").setDesc(popup_fragment).addToggle((toggle) => toggle.setValue(this.plugin.settings.mathPreviewEnabled).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.mathPreviewEnabled = value;
+      this.plugin.refreshCMExtensions();
+      yield this.plugin.saveSettings();
+    })));
+    this.addHeading(containerEl, "Auto-fraction", "math-x-divide-y-2");
+    new import_obsidian4.Setting(containerEl).setName("Enabled").setDesc("Whether auto-fraction is enabled.").addToggle((toggle) => toggle.setValue(this.plugin.settings.autofractionEnabled).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autofractionEnabled = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian4.Setting(containerEl).setName("Fraction symbol").setDesc("The fraction symbol to use in the replacement. e.g. \\frac, \\dfrac, \\tfrac").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.autofractionSymbol).setValue(this.plugin.settings.autofractionSymbol).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autofractionSymbol = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian4.Setting(containerEl).setName("Excluded environments").setDesc('A list of environments to exclude auto-fraction from running in. For example, to exclude auto-fraction from running while inside an exponent, such as e^{...}, use  ["^{", "}"]').addTextArea((text) => text.setPlaceholder('[ ["^{", "}] ]').setValue(this.plugin.settings.autofractionExcludedEnvs).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autofractionExcludedEnvs = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian4.Setting(containerEl).setName("Breaking characters").setDesc('A list of characters that denote the start/end of a fraction. e.g. if + is included in the list, "a+b/c" will expand to "a+\\frac{b}{c}". If + is not in the list, it will expand to "\\frac{a+b}{c}".').addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.autofractionBreakingChars).setValue(this.plugin.settings.autofractionBreakingChars).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autofractionBreakingChars = value;
+      yield this.plugin.saveSettings();
+    })));
+    this.addHeading(containerEl, "Matrix shortcuts", "brackets-contain");
+    new import_obsidian4.Setting(containerEl).setName("Enabled").setDesc("Whether matrix shortcuts are enabled.").addToggle((toggle) => toggle.setValue(this.plugin.settings.matrixShortcutsEnabled).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.matrixShortcutsEnabled = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian4.Setting(containerEl).setName("Environments").setDesc("A list of environment names to run the matrix shortcuts in, separated by commas.").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.matrixShortcutsEnvNames).setValue(this.plugin.settings.matrixShortcutsEnvNames).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.matrixShortcutsEnvNames = value;
+      yield this.plugin.saveSettings();
+    })));
+    this.addHeading(containerEl, "Tabout", "tabout");
+    new import_obsidian4.Setting(containerEl).setName("Enabled").setDesc("Whether tabout is enabled.").addToggle((toggle) => toggle.setValue(this.plugin.settings.taboutEnabled).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.taboutEnabled = value;
+      yield this.plugin.saveSettings();
+    })));
+    this.addHeading(containerEl, "Auto-enlarge brackets", "parentheses");
+    new import_obsidian4.Setting(containerEl).setName("Enabled").setDesc("Whether to automatically enlarge brackets containing e.g. sum, int, frac.").addToggle((toggle) => toggle.setValue(this.plugin.settings.autoEnlargeBrackets).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autoEnlargeBrackets = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian4.Setting(containerEl).setName("Triggers").setDesc("A list of symbols that should trigger auto-enlarge brackets, separated by commas.").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.autoEnlargeBracketsTriggers).setValue(this.plugin.settings.autoEnlargeBracketsTriggers).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autoEnlargeBracketsTriggers = value;
+      yield this.plugin.saveSettings();
+    })));
+    this.addHeading(containerEl, "Advanced snippet settings");
+    new import_obsidian4.Setting(containerEl).setName("Snippet variables").setDesc("Assign snippet variables that can be used as shortcuts when writing snippets.").addTextArea((text) => text.setValue(this.plugin.settings.snippetVariables).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.snippetVariables = value;
+      yield this.plugin.saveSettings();
+    })).setPlaceholder(DEFAULT_SETTINGS.snippetVariables)).setClass("latex-suite-snippet-variables-setting");
+    new import_obsidian4.Setting(containerEl).setName("Word delimiters").setDesc('Symbols that will be treated as word delimiters, for use with the "w" snippet option.').addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.wordDelimiters).setValue(this.plugin.settings.wordDelimiters).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.wordDelimiters = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian4.Setting(containerEl).setName("Remove trailing whitespaces in snippets in inline math").setDesc("Whether to remove trailing whitespaces when expanding snippets at the end of inline math blocks.").addToggle((toggle) => toggle.setValue(this.plugin.settings.removeSnippetWhitespace).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.removeSnippetWhitespace = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian4.Setting(containerEl).setName("Code languages to interpret as math mode").setDesc("Codeblock languages where the whole code block should be treated like a math block, separated by commas.").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.forceMathLanguages).setValue(this.plugin.settings.forceMathLanguages).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.forceMathLanguages = value;
+      yield this.plugin.saveSettings();
+    })));
+  }
+  createSnippetsEditor(snippetsSetting) {
     const customCSSWrapper = snippetsSetting.controlEl.createDiv("snippets-editor-wrapper");
     const snippetsFooter = snippetsSetting.controlEl.createDiv("snippets-footer");
     const validity = snippetsFooter.createDiv("snippets-editor-validity");
-    const validityIndicator = new import_obsidian7.ExtraButtonComponent(validity);
+    const validityIndicator = new import_obsidian4.ExtraButtonComponent(validity);
     validityIndicator.setIcon("checkmark").extraSettingsEl.addClass("snippets-editor-validity-indicator");
     const validityText = validity.createDiv("snippets-editor-validity-text");
     validityText.addClass("setting-item-description");
@@ -7716,12 +5975,13 @@ var LatexSuiteSettingTab = class extends import_obsidian7.PluginSettingTab {
       validityText.setText(success ? "Saved" : "Invalid syntax. Changes not saved");
     }
     const extensions = basicSetup;
-    const change = import_view8.EditorView.updateListener.of((v) => __async(this, null, function* () {
+    const change = import_view4.EditorView.updateListener.of((v) => __async(this, null, function* () {
       if (v.docChanged) {
         const value = v.state.doc.toString();
         let success = true;
+        const snippetVariables = getSnippetVariables(this.plugin.settings.snippetVariables);
         try {
-          this.plugin.setSnippets(value);
+          yield parseSnippets(value, snippetVariables);
         } catch (e) {
           success = false;
         }
@@ -7733,182 +5993,38 @@ var LatexSuiteSettingTab = class extends import_obsidian7.PluginSettingTab {
       }
     }));
     extensions.push(change);
-    this.snippetsEditor = createSnippetsEditor(this.plugin.settings.snippets, extensions);
+    this.snippetsEditor = createCMEditor(this.plugin.settings.snippets, extensions);
     customCSSWrapper.appendChild(this.snippetsEditor.dom);
     const buttonsDiv = snippetsFooter.createDiv("snippets-editor-buttons");
-    const reset = new import_obsidian7.ButtonComponent(buttonsDiv);
+    const reset = new import_obsidian4.ButtonComponent(buttonsDiv);
     reset.setIcon("switch").setTooltip("Reset to default snippets").onClick(() => __async(this, null, function* () {
       new ConfirmationModal(this.plugin.app, "Are you sure? This will delete any custom snippets you have written.", (button) => button.setButtonText("Reset to default snippets").setWarning(), () => __async(this, null, function* () {
-        this.snippetsEditor.setState(import_state8.EditorState.create({ doc: DEFAULT_SNIPPETS, extensions }));
+        this.snippetsEditor.setState(import_state3.EditorState.create({ doc: DEFAULT_SNIPPETS, extensions }));
         updateValidityIndicator(true);
-        this.plugin.setSnippets(DEFAULT_SNIPPETS);
         this.plugin.settings.snippets = DEFAULT_SNIPPETS;
         yield this.plugin.saveSettings();
       })).open();
     }));
-    const remove = new import_obsidian7.ButtonComponent(buttonsDiv);
+    const remove = new import_obsidian4.ButtonComponent(buttonsDiv);
     remove.setIcon("trash").setTooltip("Remove all snippets").onClick(() => __async(this, null, function* () {
       new ConfirmationModal(this.plugin.app, "Are you sure? This will delete any custom snippets you have written.", (button) => button.setButtonText("Remove all snippets").setWarning(), () => __async(this, null, function* () {
         const value = `[
 
 ]`;
-        this.snippetsEditor.setState(import_state8.EditorState.create({ doc: value, extensions }));
+        this.snippetsEditor.setState(import_state3.EditorState.create({ doc: value, extensions }));
         updateValidityIndicator(true);
-        this.plugin.setSnippets(value);
         this.plugin.settings.snippets = value;
         yield this.plugin.saveSettings();
       })).open();
     }));
-    new import_obsidian7.Setting(containerEl).setName("Load snippets from file or folder").setDesc("Whether to load snippets from a specified file, or from all files within a folder (instead of from the plugin settings).").addToggle((toggle) => toggle.setValue(this.plugin.settings.loadSnippetsFromFile).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.loadSnippetsFromFile = value;
-      snippetsSetting.settingEl.toggleClass("hidden", value);
-      if (this.snippetsFileLocEl != void 0)
-        this.snippetsFileLocEl.toggleClass("hidden", !value);
-      if (value) {
-        debouncedSetSnippetsFromFileOrFolder(this.plugin);
-      } else {
-        this.plugin.setSnippets(this.plugin.settings.snippets);
-      }
-      yield this.plugin.saveSettings();
-    })));
-    const snippetsFileLoc = new import_obsidian7.Setting(containerEl).setName("Snippets file or folder location").setDesc("The file or folder to load snippets from.");
-    let inputEl;
-    snippetsFileLoc.addText((text) => {
-      text.setPlaceholder(DEFAULT_SETTINGS.snippetsFileLocation).setValue(this.plugin.settings.snippetsFileLocation).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.snippetsFileLocation = value;
-        debouncedSetSnippetsFromFileOrFolder(this.plugin);
-        yield this.plugin.saveSettings();
-      }));
-      inputEl = text.inputEl;
-    });
-    this.snippetsFileLocEl = snippetsFileLoc.settingEl;
-    new FileSuggest(this.app, inputEl);
-    const loadSnippetsFromFile = this.plugin.settings.loadSnippetsFromFile;
-    snippetsSetting.settingEl.toggleClass("hidden", loadSnippetsFromFile);
-    this.snippetsFileLocEl.toggleClass("hidden", !loadSnippetsFromFile);
-    new import_obsidian7.Setting(containerEl).setName("Key trigger for non-auto snippets").setDesc("What key to press to expand non-auto snippets.").addDropdown((dropdown) => dropdown.addOption("Tab", "Tab").addOption(" ", "Space").setValue(this.plugin.settings.snippetsTrigger).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.snippetsTrigger = value;
-      yield this.plugin.saveSettings();
-    })));
-    containerEl.createEl("div", { text: "Conceal" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
-    const fragment = document.createDocumentFragment();
-    const line1 = document.createElement("div");
-    line1.setText("Make equations more readable by hiding LaTeX markup and instead displaying it in a pretty format.");
-    const line2 = document.createElement("div");
-    line2.setText("e.g. \\dot{x}^{2} + \\dot{y}^{2} will display as \u1E8B\xB2 + \u1E8F\xB2, and \\sqrt{ 1-\\beta^{2} } will display as \u221A{ 1-\u03B2\xB2 }.");
-    const line3 = document.createElement("div");
-    line3.setText("LaTeX beneath the cursor will be revealed.");
-    const space2 = document.createElement("br");
-    const line4 = document.createElement("div");
-    line4.setText("Disabled by default to not confuse new users. However, I recommend turning this on once you are comfortable with the plugin!");
-    fragment.append(line1, line2, line3, space2, line4);
-    new import_obsidian7.Setting(containerEl).setName("Enabled").setDesc(fragment).addToggle((toggle) => toggle.setValue(this.plugin.settings.concealEnabled).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.concealEnabled = value;
-      if (value) {
-        this.plugin.enableExtension(concealPlugin.extension);
-      } else {
-        this.plugin.disableExtension(concealPlugin.extension);
-      }
-      yield this.plugin.saveSettings();
-    })));
-    containerEl.createEl("div", { text: "Highlight and color brackets" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
-    new import_obsidian7.Setting(containerEl).setName("Color paired brackets").setDesc("Whether to colorize matching brackets.").addToggle((toggle) => toggle.setValue(this.plugin.settings.colorPairedBracketsEnabled).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.colorPairedBracketsEnabled = value;
-      if (value) {
-        this.plugin.enableExtension(colorPairedBracketsPluginLowestPrec);
-      } else {
-        this.plugin.disableExtension(colorPairedBracketsPluginLowestPrec);
-      }
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian7.Setting(containerEl).setName("Highlight matching bracket beneath cursor").setDesc("When the cursor is adjacent to a bracket, highlight the matching bracket.").addToggle((toggle) => toggle.setValue(this.plugin.settings.highlightCursorBracketsEnabled).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.highlightCursorBracketsEnabled = value;
-      if (value) {
-        this.plugin.enableExtension(highlightCursorBracketsPlugin.extension);
-      } else {
-        this.plugin.disableExtension(highlightCursorBracketsPlugin.extension);
-      }
-      yield this.plugin.saveSettings();
-    })));
-    containerEl.createEl("div", { text: "Math popup preview" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
-    const popup_fragment = document.createDocumentFragment();
-    const popup_line1 = document.createElement("div");
-    popup_line1.setText("When inside an equation, show a popup preview window of the rendered math.");
-    const popup_space = document.createElement("br");
-    const popup_line4 = document.createElement("div");
-    popup_line4.setText("The popup preview will be shown for all inline math equations, as well as for block math equations in Source mode.");
-    popup_fragment.append(popup_line1, popup_space, popup_line4);
-    new import_obsidian7.Setting(containerEl).setName("Enabled").setDesc(popup_fragment).addToggle((toggle) => toggle.setValue(this.plugin.settings.mathPreviewEnabled).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.mathPreviewEnabled = value;
-      if (value) {
-        this.plugin.enableExtension(cursorTooltipField);
-        this.plugin.enableExtension(cursorTooltipBaseTheme);
-      } else {
-        this.plugin.disableExtension(cursorTooltipField);
-        this.plugin.disableExtension(cursorTooltipBaseTheme);
-      }
-      yield this.plugin.saveSettings();
-    })));
-    containerEl.createEl("div", { text: "Auto-fraction" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
-    new import_obsidian7.Setting(containerEl).setName("Enabled").setDesc("Whether auto-fraction is enabled.").addToggle((toggle) => toggle.setValue(this.plugin.settings.autofractionEnabled).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.autofractionEnabled = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian7.Setting(containerEl).setName("Fraction symbol").setDesc("The fraction symbol to use in the replacement. e.g. \\frac, \\dfrac, \\tfrac").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.autofractionSymbol).setValue(this.plugin.settings.autofractionSymbol).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.autofractionSymbol = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian7.Setting(containerEl).setName("Excluded environments").setDesc('A list of environments to exclude auto-fraction from running in. For example, to exclude auto-fraction from running while inside an exponent, such as e^{...}, use  ["^{", "}"]').addTextArea((text) => text.setPlaceholder('[ ["^{", "}] ]').setValue(this.plugin.settings.autofractionExcludedEnvs).onChange((value) => __async(this, null, function* () {
-      this.plugin.setAutofractionExcludedEnvs(value);
-      this.plugin.settings.autofractionExcludedEnvs = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian7.Setting(containerEl).setName("Breaking characters").setDesc('A list of characters that denote the start/end of a fraction. e.g. if + is included in the list, "a+b/c" will expand to "a+\\frac{b}{c}". If + is not in the list, it will expand to "\\frac{a+b}{c}".').addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.autofractionBreakingChars).setValue(this.plugin.settings.autofractionBreakingChars).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.autofractionBreakingChars = value;
-      yield this.plugin.saveSettings();
-    })));
-    containerEl.createEl("div", { text: "Matrix shortcuts" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
-    new import_obsidian7.Setting(containerEl).setName("Enabled").setDesc("Whether matrix shortcuts are enabled.").addToggle((toggle) => toggle.setValue(this.plugin.settings.matrixShortcutsEnabled).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.matrixShortcutsEnabled = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian7.Setting(containerEl).setName("Environments").setDesc("A list of environment names to run the matrix shortcuts in, separated by commas.").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.matrixShortcutsEnvNames).setValue(this.plugin.settings.matrixShortcutsEnvNames).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.matrixShortcutsEnvNames = value;
-      this.plugin.matrixShortcutsEnvNames = value.replace(/\s/g, "").split(",");
-      yield this.plugin.saveSettings();
-    })));
-    containerEl.createEl("div", { text: "Tabout" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
-    new import_obsidian7.Setting(containerEl).setName("Enabled").setDesc("Whether tabout is enabled.").addToggle((toggle) => toggle.setValue(this.plugin.settings.taboutEnabled).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.taboutEnabled = value;
-      yield this.plugin.saveSettings();
-    })));
-    containerEl.createEl("div", { text: "Auto-enlarge brackets" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
-    new import_obsidian7.Setting(containerEl).setName("Enabled").setDesc("Whether to automatically enlarge brackets containing e.g. sum, int, frac.").addToggle((toggle) => toggle.setValue(this.plugin.settings.autoEnlargeBrackets).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.autoEnlargeBrackets = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian7.Setting(containerEl).setName("Triggers").setDesc("A list of symbols that should trigger auto-enlarge brackets, separated by commas.").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.autoEnlargeBracketsTriggers).setValue(this.plugin.settings.autoEnlargeBracketsTriggers).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.autoEnlargeBracketsTriggers = value;
-      this.plugin.autoEnlargeBracketsTriggers = value.replace(/\s/g, "").split(",");
-      yield this.plugin.saveSettings();
-    })));
-    containerEl.createEl("div", { text: "Misc" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
-    new import_obsidian7.Setting(containerEl).setName("Word delimiters").setDesc('Symbols that will be treated as word delimiters, for use with the "w" snippet option.').addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.wordDelimiters).setValue(this.plugin.settings.wordDelimiters).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.wordDelimiters = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian7.Setting(containerEl).setName("Remove trailing whitespaces in snippets in inline math").setDesc("Whether to remove trailing whitespaces when expanding snippets at the end of inline math blocks.").addToggle((toggle) => toggle.setValue(this.plugin.settings.removeSnippetWhitespace).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.removeSnippetWhitespace = value;
-      yield this.plugin.saveSettings();
-    })));
   }
 };
-var ConfirmationModal = class extends import_obsidian7.Modal {
+var ConfirmationModal = class extends import_obsidian4.Modal {
   constructor(app, body, buttonCallback, clickCallback) {
     super(app);
     this.contentEl.addClass("latex-suite-confirmation-modal");
     this.contentEl.createEl("p", { text: body });
-    new import_obsidian7.Setting(this.contentEl).addButton((button) => {
+    new import_obsidian4.Setting(this.contentEl).addButton((button) => {
       buttonCallback(button);
       button.onClick(() => __async(this, null, function* () {
         yield clickCallback();
@@ -7917,637 +6033,388 @@ var ConfirmationModal = class extends import_obsidian7.Modal {
     }).addButton((button) => button.setButtonText("Cancel").onClick(() => this.close()));
   }
 };
-function createSnippetsEditor(content, extensions) {
-  const view = new import_view8.EditorView({
-    state: import_state8.EditorState.create({ doc: content, extensions })
+function createCMEditor(content, extensions) {
+  const view = new import_view4.EditorView({
+    state: import_state3.EditorState.create({ doc: content, extensions })
   });
   return view;
 }
 
-// src/main.ts
-var import_view10 = __toModule(require("@codemirror/view"));
-var import_state11 = __toModule(require("@codemirror/state"));
-
-// src/snippets/snippet_management.ts
-var import_view9 = __toModule(require("@codemirror/view"));
-var import_state10 = __toModule(require("@codemirror/state"));
-var import_commands3 = __toModule(require("@codemirror/commands"));
-
-// src/snippets/snippet_queue_state_field.ts
-var import_state9 = __toModule(require("@codemirror/state"));
-var queueSnippetEffect = import_state9.StateEffect.define();
-var clearSnippetQueueEffect = import_state9.StateEffect.define();
-var snippetQueueStateField = import_state9.StateField.define({
-  create(editorState) {
-    return [];
-  },
-  update(oldState, transaction) {
-    let snippetQueue = oldState;
-    for (const effect4 of transaction.effects) {
-      if (effect4.is(queueSnippetEffect)) {
-        snippetQueue.push(effect4.value);
-      } else if (effect4.is(clearSnippetQueueEffect)) {
-        snippetQueue = [];
-      }
-    }
-    return snippetQueue;
-  }
-});
-function queueSnippet(view, snippet) {
-  view.dispatch({
-    effects: [queueSnippetEffect.of(snippet)]
-  });
-}
-function clearSnippetQueue(view) {
-  view.dispatch({
-    effects: [clearSnippetQueueEffect.of(null)]
-  });
-}
-
-// src/snippets/snippet_management.ts
-var COLORS = ["lightskyblue", "orange", "lime", "pink", "cornsilk", "magenta", "navajowhite"];
-var TabstopReference = class {
-  constructor(view, colorIndex) {
-    this.view = view;
-    this.colorIndex = colorIndex;
-  }
-  getColorIndex() {
-    return this.colorIndex;
-  }
-  get markers() {
-    const state = this.view.state;
-    const iter = state.field(markerStateField).iter();
-    const markers = [];
-    while (iter.value) {
-      if (iter.value.spec.reference === this) {
-        markers.push({
-          from: iter.from,
-          to: iter.to,
-          value: iter.value
-        });
-      }
-      iter.next();
-    }
-    return markers;
-  }
-  get ranges() {
-    const state = this.view.state;
-    const iter = state.field(markerStateField).iter();
-    const ranges = [];
-    while (iter.value) {
-      if (iter.value.spec.reference === this) {
-        ranges.push(import_state10.EditorSelection.range(iter.from, iter.to));
-      }
-      iter.next();
-    }
-    return ranges;
-  }
-  removeFromEditor() {
-    this.view.dispatch({
-      effects: removeMarkBySpecAttribute.of({ attribute: "reference", reference: this })
-    });
-  }
+// src/settings/ui/icons.ts
+var ICONS = {
+  "math": `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-math" width="100" height="100" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M19 5h-7l-4 14l-3 -6h-2"></path>
+    <path d="M14 13l6 6"></path>
+    <path d="M14 19l6 -6"></path>
+ </svg>`,
+  "math-x-divide-y-2": `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-math-x-divide-y-2" width="100" height="100" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M3 21l18 -18"></path>
+    <path d="M15 14l3 4.5"></path>
+    <path d="M21 14l-4.5 7"></path>
+    <path d="M3 4l6 6"></path>
+    <path d="M3 10l6 -6"></path>
+ </svg>`,
+  "parentheses": `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-parentheses" width="100" height="100" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M7 4a12.25 12.25 0 0 0 0 16"></path>
+    <path d="M17 4a12.25 12.25 0 0 1 0 16"></path>
+ </svg>`,
+  "math-function": `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-math-function" width="100" height="100" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M3 19a2 2 0 0 0 2 2c2 0 2 -4 3 -9s1 -9 3 -9a2 2 0 0 1 2 2"></path>
+    <path d="M5 12h6"></path>
+    <path d="M15 12l6 6"></path>
+    <path d="M15 18l6 -6"></path>
+ </svg>`,
+  "math-integral-x": `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-math-integral-x" width="100" height="100" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M3 19a2 2 0 0 0 2 2c2 0 2 -4 3 -9s1 -9 3 -9a2 2 0 0 1 2 2"></path>
+    <path d="M14 12l6 6"></path>
+    <path d="M14 18l6 -6"></path>
+ </svg>`,
+  "brackets-contain": `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brackets-contain" width="100" height="100" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M7 4h-4v16h4"></path>
+    <path d="M17 4h4v16h-4"></path>
+    <path d="M8 16h.01"></path>
+    <path d="M12 16h.01"></path>
+    <path d="M16 16h.01"></path>
+ </svg>`,
+  "code-dots": `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-code-dots" width="100" height="100" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M15 12h.01"></path>
+    <path d="M12 12h.01"></path>
+    <path d="M9 12h.01"></path>
+    <path d="M6 19a2 2 0 0 1 -2 -2v-4l-1 -1l1 -1v-4a2 2 0 0 1 2 -2"></path>
+    <path d="M18 19a2 2 0 0 0 2 -2v-4l1 -1l-1 -1v-4a2 2 0 0 0 -2 -2"></path>
+ </svg>`,
+  "ballpen": `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-ballpen" width="100" height="100" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M14 6l7 7l-4 4"></path>
+    <path d="M5.828 18.172a2.828 2.828 0 0 0 4 0l10.586 -10.586a2 2 0 0 0 0 -2.829l-1.171 -1.171a2 2 0 0 0 -2.829 0l-10.586 10.586a2.828 2.828 0 0 0 0 4z"></path>
+    <path d="M4 20l1.768 -1.768"></path>
+ </svg>`,
+  "superscript": `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-superscript" width="100" height="100" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M5 7l8 10m-8 0l8 -10"></path>
+    <path d="M21 11h-4l3.5 -4a1.73 1.73 0 0 0 -3.5 -2"></path>
+ </svg>`,
+  "tabout": `<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 10.583 10.583">
+    <g style="fill:none;stroke:currentColor;stroke-width:3.22892904;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+      <path d="M14.818 22.164h-.688c-1.52 0-3.983-1.82-3.983-4.066V-.612c0-2.245 2.462-4.065 3.983-4.065h.688" style="stroke-width:3.22892904;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(6.566 2.931) scale(.24373)"/>
+      <path d="M5.605 22.16h.662c1.462 0 3.88-1.906 3.88-4.258v-1.065M5.605-4.674h.662c1.462 0 3.88 1.907 3.88 4.259V.65" style="stroke-width:3.22892904;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(6.566 2.931) scale(.24373)"/>
+    </g>
+    <g style="fill:none;stroke:currentColor;stroke-width:3.22892904;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+      <path d="M0 0h24v24H0Z" style="fill:none;stroke:none;stroke-width:3.22892904;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(2.662 4.719) scale(.24373)" stroke="none"/>
+      <path d="M-9.136 8.694v5.17a1 1 0 0 0 1 1h23.658a1 1 0 0 0 1-1v-5.17" style="stroke-width:3.22892904;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(2.662 4.719) scale(.24373)"/>
+    </g>
+  </svg>
+  `
 };
-function getColorIndex(view) {
-  const currentTabstopReferences = view.state.field(tabstopsStateField);
-  let colorIndex = 0;
-  for (; colorIndex < COLORS.length; colorIndex++) {
-    if (!currentTabstopReferences.find((p) => p.getColorIndex() === colorIndex))
-      break;
-  }
-  if (colorIndex === COLORS.length) {
-    colorIndex = Math.floor(Math.random() * COLORS.length);
-  }
-  return colorIndex;
-}
-function getColorClass(colorIndex) {
-  const prefix = "latex-suite-suggestion-placeholder";
-  const markerClass = prefix + " " + prefix + colorIndex;
-  return markerClass;
-}
-function getTabstopsFromSnippet(view, start2, replacement) {
-  const tabstops = [];
-  const text = view.state.doc.toString();
-  for (let i = start2; i < start2 + replacement.length; i++) {
-    if (!(text.charAt(i) === "$")) {
-      continue;
-    }
-    let number = parseInt(text.charAt(i + 1));
-    const tabstopStart = i;
-    let tabstopEnd = tabstopStart + 2;
-    let tabstopReplacement = "";
-    if (isNaN(number)) {
-      if (!(text.charAt(i + 1) === "{" && text.charAt(i + 3) === ":"))
-        continue;
-      number = parseInt(text.charAt(i + 2));
-      if (isNaN(number))
-        continue;
-      const closingIndex = findMatchingBracket(text, i + 1, "{", "}", false, start2 + replacement.length);
-      if (closingIndex === -1)
-        continue;
-      tabstopReplacement = text.slice(i + 4, closingIndex);
-      tabstopEnd = closingIndex + 1;
-      i = closingIndex;
-    }
-    const tabstop = { number, from: tabstopStart, to: tabstopEnd, replacement: tabstopReplacement };
-    tabstops.push(tabstop);
-  }
-  return tabstops;
-}
-function expandSnippets(view) {
-  const snippetsToAdd = view.state.field(snippetQueueStateField);
-  if (snippetsToAdd.length === 0)
-    return false;
-  const originalDoc = view.state.doc;
-  const originalDocLength = view.state.doc.length;
-  const snippets2 = snippetsToAdd;
-  const changes = snippets2;
-  const keyPresses = [];
-  for (const snippet of snippets2) {
-    if (snippet.keyPressed && snippet.keyPressed.length === 1) {
-      const prevChar = view.state.doc.sliceString(snippet.to - 1, snippet.to);
-      const from = snippet.to === 0 ? 0 : snippet.to - 1;
-      keyPresses.push({ from, to: snippet.to, insert: prevChar + snippet.keyPressed });
-    }
-  }
+
+// src/utils/editor_utils.ts
+var import_obsidian5 = __toModule(require("obsidian"));
+var import_view5 = __toModule(require("@codemirror/view"));
+function replaceRange(view, start2, end2, replacement) {
   view.dispatch({
-    changes: keyPresses,
-    annotations: import_commands3.isolateHistory.of("full")
+    changes: { from: start2, to: end2, insert: replacement }
   });
-  const undoKeyPresses = import_state10.ChangeSet.of(keyPresses, originalDocLength).invert(originalDoc);
-  const changesAsChangeSet = import_state10.ChangeSet.of(changes, originalDocLength);
-  const combinedChanges = undoKeyPresses.compose(changesAsChangeSet);
-  view.dispatch({
-    changes: combinedChanges,
-    effects: startSnippet.of(null)
-  });
-  const changeSet = import_state10.ChangeSet.of(changes, originalDocLength);
-  const oldPositions = snippets2.map((change) => change.from);
-  const newPositions = oldPositions.map((pos) => changeSet.mapPos(pos));
-  let tabstopsToAdd = [];
-  for (let i = 0; i < snippets2.length; i++) {
-    tabstopsToAdd = tabstopsToAdd.concat(getTabstopsFromSnippet(view, newPositions[i], snippets2[i].insert));
-  }
-  if (tabstopsToAdd.length === 0) {
-    clearSnippetQueue(view);
-    return true;
-  }
-  insertTabstopReferences(view, tabstopsToAdd);
-  insertTabstopsTransaction(view, tabstopsToAdd);
-  clearSnippetQueue(view);
-  return true;
 }
-function insertTabstopReferences(view, tabstops, append = false) {
-  const numbers = Array.from(new Set(tabstops.map((tabstop) => tabstop.number))).sort().reverse();
-  if (!append) {
-    const colorIndex = getColorIndex(view);
-    for (let i = 0; i < numbers.length; i++) {
-      const reference2 = new TabstopReference(view, colorIndex);
-      addTabstop(view, reference2);
-    }
-  }
+function iterateCM6(workspace, callback) {
+  workspace.iterateAllLeaves((leaf) => {
+    var _a;
+    (leaf == null ? void 0 : leaf.view) instanceof import_obsidian5.MarkdownView && ((_a = leaf.view.editor) == null ? void 0 : _a.cm) instanceof import_view5.EditorView && callback(leaf.view.editor.cm);
+  });
 }
-function insertTabstopsTransaction(view, tabstops) {
-  const effects = tabstops.map((tabstop) => {
-    const currentTabstopReferences2 = view.state.field(tabstopsStateField);
-    const reference2 = currentTabstopReferences2[tabstop.number];
-    const mark = import_view9.Decoration.mark({
-      inclusive: true,
-      attributes: {},
-      class: getColorClass(reference2.colorIndex),
-      reference: reference2
-    }).range(tabstop.from, tabstop.to);
-    return addMark.of(mark);
-  });
+function getCharacterAtPos(view, pos) {
+  const doc = view.state.doc;
+  return doc.slice(pos, pos + 1).toString();
+}
+function setCursor(view, pos) {
   view.dispatch({
-    effects
-  });
-  const changes = tabstops.map((tabstop) => {
-    return { from: tabstop.from, to: tabstop.to, insert: tabstop.replacement };
-  });
-  view.dispatch({
-    changes
-  });
-  const currentTabstopReferences = view.state.field(tabstopsStateField);
-  const firstRef = currentTabstopReferences[0];
-  const selection = import_state10.EditorSelection.create(firstRef.ranges);
-  view.dispatch({
-    selection,
-    effects: endSnippet.of(null)
+    selection: { anchor: pos, head: pos }
   });
   resetCursorBlink();
-  firstRef.removeFromEditor();
-  removeOnlyTabstop(view);
 }
-function selectTabstopReference(reference2) {
-  const view = reference2.view;
-  setSelections(view, reference2.ranges);
-  reference2.removeFromEditor();
-  removeOnlyTabstop(view);
+function setSelection(view, start2, end2) {
+  view.dispatch({
+    selection: { anchor: start2, head: end2 }
+  });
+  resetCursorBlink();
 }
-function removeOnlyTabstop(view) {
-  const currentTabstopReferences = view.state.field(tabstopsStateField);
-  if (currentTabstopReferences.length === 1) {
-    let shouldClear = true;
-    const reference2 = currentTabstopReferences[0];
-    const markers = reference2.markers;
-    for (const marker of markers) {
-      if (!(marker.from === marker.to)) {
-        shouldClear = false;
-        break;
-      }
-    }
-    if (shouldClear)
-      clearAllTabstops(reference2.view);
-  }
-}
-function isInsideATabstop(pos, view) {
-  const currentTabstopReferences = view.state.field(tabstopsStateField);
-  if (currentTabstopReferences.length === 0)
-    return false;
-  let isInside = false;
-  for (const tabstopReference of currentTabstopReferences) {
-    for (const range of tabstopReference.ranges) {
-      if (pos >= range.from && pos <= range.to) {
-        isInside = true;
-        break;
-      }
-    }
-    if (isInside)
-      break;
-  }
-  return isInside;
-}
-function isInsideLastTabstop(view) {
-  const currentTabstopReferences = view.state.field(tabstopsStateField);
-  if (currentTabstopReferences.length === 0)
-    return false;
-  let isInside = false;
-  const lastTabstopRef = currentTabstopReferences.slice(-1)[0];
-  const ranges = lastTabstopRef.ranges;
-  const lastRange = ranges[0];
-  const sel = view.state.selection.main;
-  isInside = sel.eq(lastRange);
-  return isInside;
-}
-function consumeAndGotoNextTabstop(view) {
-  let currentTabstopReferences = view.state.field(tabstopsStateField);
-  if (currentTabstopReferences.length === 0)
-    return false;
-  const oldCursor = view.state.selection.main;
-  consumeTabstop(view);
-  currentTabstopReferences = view.state.field(tabstopsStateField);
-  if (currentTabstopReferences.length === 0) {
-    setCursor(view, oldCursor.to);
-    return true;
-  }
-  const newTabstop = currentTabstopReferences[0];
-  const newMarkers = newTabstop.markers;
-  const cursor = view.state.selection.main;
-  const newMarker = newMarkers[0];
-  if (newMarkers.length === 0)
-    return consumeAndGotoNextTabstop(view);
-  if (newTabstop.markers.length === 1) {
-    if (newMarker.from <= cursor.from && newMarker.to >= cursor.to) {
-      setCursor(view, newMarker.to);
-    } else {
-      selectTabstopReference(newTabstop);
-    }
-  } else {
-    selectTabstopReference(newTabstop);
-  }
-  const newCursor = view.state.selection.main;
-  if (oldCursor.eq(newCursor))
-    return consumeAndGotoNextTabstop(view);
-  return true;
-}
-function removeAllTabstops(view) {
-  if (view) {
-    view.dispatch({
-      effects: clearMarks.of(null)
-    });
-    clearAllTabstops(view);
-  }
-}
-
-// src/snippets/snippets.ts
-var SNIPPET_VARIABLES = {
-  "${GREEK}": "alpha|beta|gamma|Gamma|delta|Delta|epsilon|varepsilon|zeta|eta|theta|Theta|iota|kappa|lambda|Lambda|mu|nu|xi|Xi|pi|Pi|rho|sigma|Sigma|tau|upsilon|varphi|phi|Phi|chi|psi|Psi|omega|Omega",
-  "${SYMBOL}": "hbar|ell|nabla|infty|dots|leftrightarrow|mapsto|setminus|mid|cap|cup|land|lor|subseteq|subset|implies|impliedby|iff|exists|equiv|square|neq|geq|leq|gg|ll|sim|simeq|approx|propto|cdot|oplus|otimes|times|star|perp|det|exp|ln|log|partial",
-  "${SHORT_SYMBOL}": "to|pm|mp"
-};
-var EXCLUSIONS = {
-  "([A-Za-z])(\\d)": { openSymbol: "\\pu{", closeSymbol: "}" },
-  "->": { openSymbol: "\\ce{", closeSymbol: "}" }
-};
-
-// src/features/auto_enlarge_brackets.ts
-var autoEnlargeBrackets = (view, plugin) => {
-  if (!plugin.settings.autoEnlargeBrackets)
+function resetCursorBlink() {
+  if (import_obsidian5.Platform.isMobile)
     return;
-  const result = getEquationBounds(view.state);
-  if (!result)
-    return false;
-  const { start: start2, end: end2 } = result;
-  const text = view.state.doc.toString();
-  const left2 = "\\left";
-  const right2 = "\\right";
-  for (let i = start2; i < end2; i++) {
-    const brackets2 = { "(": ")", "[": "]", "\\{": "\\}", "\\langle": "\\rangle", "\\lvert": "\\rvert" };
-    const openBrackets = Object.keys(brackets2);
-    let found = false;
-    let open = "";
-    for (const openBracket of openBrackets) {
-      if (text.slice(i, i + openBracket.length) === openBracket) {
-        found = true;
-        open = openBracket;
-        break;
+  const cursorLayer = document.getElementsByClassName("cm-cursorLayer")[0];
+  if (cursorLayer) {
+    const curAnim = cursorLayer.style.animationName;
+    cursorLayer.style.animationName = curAnim === "cm-blink" ? "cm-blink2" : "cm-blink";
+  }
+}
+function reverse(s) {
+  return s.split("").reverse().join("");
+}
+function findMatchingBracket(text, start2, openBracket, closeBracket, searchBackwards, end2) {
+  if (searchBackwards) {
+    const reversedIndex = findMatchingBracket(reverse(text), text.length - (start2 + closeBracket.length), reverse(closeBracket), reverse(openBracket), false);
+    if (reversedIndex === -1)
+      return -1;
+    return text.length - (reversedIndex + openBracket.length);
+  }
+  let brackets2 = 0;
+  const stop = end2 ? end2 : text.length;
+  for (let i = start2; i < stop; i++) {
+    if (text.slice(i, i + openBracket.length) === openBracket) {
+      brackets2++;
+    } else if (text.slice(i, i + closeBracket.length) === closeBracket) {
+      brackets2--;
+      if (brackets2 === 0) {
+        return i;
       }
     }
-    if (!found)
-      continue;
-    const bracketSize = open.length;
-    const close = brackets2[open];
-    const j = findMatchingBracket(text, i, open, close, false, end2);
-    if (j === -1)
-      continue;
-    if (text.slice(i - left2.length, i) === left2 && text.slice(j - right2.length, j) === right2)
-      continue;
-    const bracketContents = text.slice(i + 1, j);
-    const containsTrigger = plugin.autoEnlargeBracketsTriggers.some((word) => bracketContents.contains("\\" + word));
-    if (!containsTrigger) {
-      i = j;
-      continue;
-    }
-    queueSnippet(view, { from: i, to: i + bracketSize, insert: left2 + open + " " });
-    queueSnippet(view, { from: j, to: j + bracketSize, insert: " " + right2 + close });
   }
-  expandSnippets(view);
-};
+  return -1;
+}
+function getOpenBracket(closeBracket) {
+  const openBrackets = { ")": "(", "]": "[", "}": "{" };
+  return openBrackets[closeBracket];
+}
+function getCloseBracket(openBracket) {
+  const closeBrackets2 = { "(": ")", "[": "]", "{": "}" };
+  return closeBrackets2[openBracket];
+}
+var Direction;
+(function(Direction2) {
+  Direction2[Direction2["Backward"] = 0] = "Backward";
+  Direction2[Direction2["Forward"] = 1] = "Forward";
+})(Direction || (Direction = {}));
+function escalateToToken(cursor, dir, target) {
+  if (cursor.name.contains(target)) {
+    return cursor.node;
+  }
+  while (cursor.name != "Document" && (dir == 0 && cursor.prev() || dir == 1 && cursor.next() || cursor.parent())) {
+    if (cursor.name.contains(target)) {
+      return cursor.node;
+    }
+  }
+  return null;
+}
 
-// src/features/run_snippets.ts
-var runSnippets = (view, key, withinMath, ranges, plugin) => {
-  let shouldAutoEnlargeBrackets = false;
-  for (const range of ranges) {
-    const result = runSnippetCursor(view, key, withinMath, range, plugin);
-    if (result.shouldAutoEnlargeBrackets)
-      shouldAutoEnlargeBrackets = true;
-  }
-  const success = expandSnippets(view);
-  if (shouldAutoEnlargeBrackets) {
-    autoEnlargeBrackets(view, plugin);
-  }
-  return success;
-};
-var runSnippetCursor = (view, key, withinMath, range, plugin) => {
-  const { from, to } = range;
-  const sel = view.state.sliceDoc(from, to);
-  for (const snippet of plugin.snippets) {
-    let effectiveLine = view.state.sliceDoc(0, to);
-    if (snippet.options.contains("m") && !withinMath) {
-      continue;
-    } else if (snippet.options.contains("t") && withinMath) {
-      continue;
-    }
-    if (snippet.options.contains("A") || snippet.replacement.contains("${VISUAL}")) {
-      if (!(key.length === 1))
-        continue;
-      effectiveLine += key;
-    } else if (!(key === plugin.settings.snippetsTrigger)) {
-      continue;
-    }
-    if (snippet.trigger in EXCLUSIONS) {
-      const environment = EXCLUSIONS[snippet.trigger];
-      if (isInsideEnvironment(view, to, environment))
-        continue;
-    }
-    const result = checkSnippet(snippet, effectiveLine, range, sel);
-    if (result === null)
-      continue;
-    const triggerPos = result.triggerPos;
-    if (snippet.options.contains("w")) {
-      const prevChar = view.state.sliceDoc(triggerPos - 1, triggerPos);
-      const nextChar = view.state.sliceDoc(to, to + 1);
-      const wordDelimiters = plugin.settings.wordDelimiters.replace("\\n", "\n");
-      const prevCharIsWordDelimiter = wordDelimiters.contains(prevChar);
-      const nextCharIsWordDelimiter = wordDelimiters.contains(nextChar);
-      if (!(prevCharIsWordDelimiter && nextCharIsWordDelimiter)) {
-        continue;
-      }
-    }
-    let replacement = result.replacement;
-    if (withinMath && plugin.settings.removeSnippetWhitespace) {
-      let spaceIndex = 0;
-      if (replacement.endsWith(" ")) {
-        spaceIndex = -1;
-      } else {
-        const lastThreeChars = replacement.slice(-3);
-        const lastChar = lastThreeChars.slice(-1);
-        if (lastThreeChars.slice(0, 2) === " $" && !isNaN(parseInt(lastChar))) {
-          spaceIndex = -3;
-        }
-      }
-      if (spaceIndex != 0) {
-        const inlineMath = isWithinInlineEquation(view.state);
-        if (inlineMath) {
-          if (spaceIndex === -1) {
-            replacement = replacement.trimEnd();
-          } else if (spaceIndex === -3) {
-            replacement = replacement.slice(0, -3) + replacement.slice(-2);
-          }
-        }
-      }
-    }
-    const start2 = triggerPos;
-    queueSnippet(view, { from: start2, to, insert: replacement, keyPressed: key });
-    const containsTrigger = plugin.autoEnlargeBracketsTriggers.some((word) => replacement.contains("\\" + word));
-    return { success: true, shouldAutoEnlargeBrackets: containsTrigger };
-  }
-  return { success: false, shouldAutoEnlargeBrackets: false };
-};
-var checkSnippet = (snippet, effectiveLine, range, sel) => {
-  let triggerPos;
-  let trigger = snippet.trigger;
-  trigger = insertSnippetVariables(trigger);
-  let replacement = snippet.replacement;
-  if (snippet.replacement.contains("${VISUAL}")) {
-    if (!sel)
-      return null;
-    if (!(effectiveLine.slice(-trigger.length) === trigger))
-      return null;
-    triggerPos = range.from;
-    replacement = snippet.replacement.replace("${VISUAL}", sel);
-  } else if (sel) {
-    return null;
-  } else if (!snippet.options.contains("r")) {
-    if (!(effectiveLine.slice(-trigger.length) === trigger))
-      return null;
-    triggerPos = effectiveLine.length - trigger.length;
-  } else {
-    const regex = new RegExp(trigger + "$");
-    const result = regex.exec(effectiveLine);
-    if (!result) {
-      return null;
-    }
-    for (let i = 1; i < result.length; i++) {
-      replacement = replacement.replaceAll("[[" + (i - 1) + "]]", result[i]);
-    }
-    triggerPos = result.index;
-  }
-  return { triggerPos, replacement };
-};
-var insertSnippetVariables = (trigger) => {
-  for (const [variable, replacement] of Object.entries(SNIPPET_VARIABLES)) {
-    trigger = trigger.replace(variable, replacement);
-  }
-  return trigger;
-};
+// src/utils/context.ts
+var import_view7 = __toModule(require("@codemirror/view"));
 
-// src/features/autofraction.ts
-var runAutoFraction = (view, ranges, plugin) => {
-  for (const range of ranges) {
-    runAutoFractionCursor(view, range, plugin);
+// src/snippets/codemirror/config.ts
+var import_view6 = __toModule(require("@codemirror/view"));
+var import_state4 = __toModule(require("@codemirror/state"));
+var latexSuiteConfig = import_state4.Facet.define({
+  combine: (input) => {
+    const settings = input.length > 0 ? input[0] : processLatexSuiteSettings([], DEFAULT_SETTINGS);
+    return settings;
   }
-  const success = expandSnippets(view);
-  if (success) {
-    autoEnlargeBrackets(view, plugin);
+});
+function getLatexSuiteConfig(viewOrState) {
+  const state = viewOrState instanceof import_view6.EditorView ? viewOrState.state : viewOrState;
+  return state.facet(latexSuiteConfig);
+}
+var latexSuiteConfigCompartment = new import_state4.Compartment();
+function getLatexSuiteConfigExtension(pluginSettings) {
+  return latexSuiteConfigCompartment.of(latexSuiteConfig.of(pluginSettings));
+}
+function reconfigureLatexSuiteConfig(pluginSettings) {
+  return latexSuiteConfigCompartment.reconfigure(latexSuiteConfig.of(pluginSettings));
+}
+
+// src/utils/context.ts
+var import_language4 = __toModule(require("@codemirror/language"));
+var Context = class {
+  static fromState(state) {
+    const ctx = new Context();
+    const sel = state.selection;
+    ctx.state = state;
+    ctx.pos = sel.main.to;
+    ctx.ranges = Array.from(sel.ranges).reverse();
+    ctx.mode = new Mode();
+    ctx.boundsCache = new Map();
+    const codeblockLanguage = langIfWithinCodeblock(state);
+    const inCode = codeblockLanguage !== null;
+    const settings = getLatexSuiteConfig(state);
+    const forceMath = settings.forceMathLanguages.contains(codeblockLanguage);
+    ctx.mode.codeMath = forceMath;
+    ctx.mode.code = inCode && !forceMath;
+    if (ctx.mode.code)
+      ctx.codeblockLanguage = codeblockLanguage;
+    const inMath = forceMath || isWithinEquation(state);
+    if (inMath && !forceMath) {
+      const inInlineEquation = isWithinInlineEquation(state);
+      ctx.mode.blockMath = !inInlineEquation;
+      ctx.mode.inlineMath = inInlineEquation;
+    }
+    if (inMath) {
+      ctx.mode.textEnv = ctx.inTextEnvironment();
+    }
+    ctx.mode.text = !inCode && !inMath;
+    return ctx;
   }
-  return success;
-};
-var runAutoFractionCursor = (view, range, plugin) => {
-  const { from, to } = range;
-  for (const env of plugin.autofractionExcludedEnvs) {
-    if (isInsideEnvironment(view, to, env)) {
+  static fromView(view) {
+    return Context.fromState(view.state);
+  }
+  isWithinEnvironment(pos, env) {
+    if (!this.mode.inMath())
       return false;
-    }
-  }
-  const result = getEquationBounds(view.state);
-  if (!result)
-    return false;
-  const eqnStart = result.start;
-  let curLine = view.state.sliceDoc(0, to);
-  let start2 = eqnStart;
-  if (from != to) {
-    start2 = from;
-  } else {
-    const regex = new RegExp("(" + SNIPPET_VARIABLES["${GREEK}"] + ") ([^ ])", "g");
-    curLine = curLine.replace(regex, "$1#$2");
-    for (let i = curLine.length - 1; i >= eqnStart; i--) {
-      const curChar = curLine.charAt(i);
-      if ([")", "]", "}"].contains(curChar)) {
-        const closeBracket = curChar;
-        const openBracket = getOpenBracket(closeBracket);
-        const j = findMatchingBracket(curLine, i, openBracket, closeBracket, true);
-        if (j === -1)
-          return false;
-        i = j;
-        if (i < eqnStart) {
-          start2 = eqnStart;
-          break;
-        }
-      }
-      if (" $([{\n".concat(plugin.settings.autofractionBreakingChars).contains(curChar)) {
-        start2 = i + 1;
-        break;
-      }
-    }
-  }
-  let numerator = view.state.sliceDoc(start2, to);
-  if (numerator === "")
-    return false;
-  if (curLine.charAt(start2) === "(" && curLine.charAt(to - 1) === ")") {
-    numerator = numerator.slice(1, -1);
-  }
-  const replacement = `${plugin.settings.autofractionSymbol}{${numerator}}{$0}$1`;
-  queueSnippet(view, { from: start2, to, insert: replacement, keyPressed: "/" });
-  return true;
-};
-
-// src/features/tabout.ts
-var tabout = (view, withinEquation) => {
-  if (!withinEquation)
-    return false;
-  const pos = view.state.selection.main.to;
-  const result = getEquationBounds(view.state);
-  if (!result)
-    return false;
-  const end2 = result.end;
-  const d = view.state.doc;
-  const text = d.toString();
-  const rangle = "\\rangle";
-  for (let i = pos; i < end2; i++) {
-    if (["}", ")", "]", ">", "|"].contains(text.charAt(i))) {
-      setCursor(view, i + 1);
-      return true;
-    } else if (text.slice(i, i + rangle.length) === rangle) {
-      setCursor(view, i + rangle.length);
-      return true;
-    }
-  }
-  const textBtwnCursorAndEnd = d.sliceString(pos, end2);
-  const atEnd = textBtwnCursorAndEnd.trim().length === 0;
-  if (!atEnd)
-    return false;
-  const inlineMath = d.sliceString(end2, end2 + 2) != "$$";
-  if (inlineMath) {
-    setCursor(view, end2 + 1);
-  } else {
-    const dollarLine = d.lineAt(end2 + 2);
-    if (dollarLine.number === d.lines) {
-      replaceRange(view, dollarLine.to, dollarLine.to, "\n");
-    }
-    setCursor(view, dollarLine.to + 1);
-    const line = d.lineAt(pos);
-    replaceRange(view, line.from, line.to, line.text.trim());
-  }
-  return true;
-};
-var shouldTaboutByCloseBracket = (view, keyPressed) => {
-  const sel = view.state.selection.main;
-  if (!sel.empty)
-    return;
-  const pos = sel.from;
-  const c = getCharacterAtPos(view, pos);
-  const brackets2 = [")", "]", "}"];
-  if (c === keyPressed && brackets2.contains(c)) {
-    return true;
-  } else {
-    return false;
-  }
-};
-
-// src/features/matrix_shortcuts.ts
-var runMatrixShortcuts = (view, key, shiftKey, pos, matrixShortcutsEnvNames) => {
-  let isInsideAnEnv = false;
-  for (const envName of matrixShortcutsEnvNames) {
-    const env = { openSymbol: "\\begin{" + envName + "}", closeSymbol: "\\end{" + envName + "}" };
-    isInsideAnEnv = isInsideEnvironment(view, pos, env);
-    if (isInsideAnEnv)
-      break;
-  }
-  if (!isInsideAnEnv)
-    return false;
-  if (key === "Tab") {
-    view.dispatch(view.state.replaceSelection(" & "));
-    return true;
-  } else if (key === "Enter") {
-    if (shiftKey) {
-      const d = view.state.doc;
-      const nextLineNo = d.lineAt(pos).number + 1;
-      const nextLine = d.line(nextLineNo);
-      setCursor(view, nextLine.to);
+    const bounds = this.getInnerBounds();
+    if (!bounds)
+      return;
+    const { start: start2, end: end2 } = bounds;
+    const text = this.state.sliceDoc(start2, end2);
+    pos -= start2;
+    const openBracket = env.openSymbol.slice(-1);
+    const closeBracket = getCloseBracket(openBracket);
+    let offset2;
+    let openSearchSymbol;
+    if (["{", "[", "("].contains(openBracket) && env.closeSymbol === closeBracket) {
+      offset2 = env.openSymbol.length - 1;
+      openSearchSymbol = openBracket;
     } else {
-      view.dispatch(view.state.replaceSelection(" \\\\\n"));
+      offset2 = 0;
+      openSearchSymbol = env.openSymbol;
     }
-    return true;
-  } else {
+    let left2 = text.lastIndexOf(env.openSymbol, pos - 1);
+    while (left2 != -1) {
+      const right2 = findMatchingBracket(text, left2 + offset2, openSearchSymbol, env.closeSymbol, false);
+      if (right2 === -1)
+        return false;
+      if (right2 >= pos && pos >= left2 + env.openSymbol.length) {
+        return true;
+      }
+      if (left2 <= 0)
+        return false;
+      left2 = text.lastIndexOf(env.openSymbol, left2 - 1);
+    }
     return false;
   }
+  inTextEnvironment() {
+    return this.isWithinEnvironment(this.pos, { openSymbol: "\\text{", closeSymbol: "}" }) || this.isWithinEnvironment(this.pos, { openSymbol: "\\tag{", closeSymbol: "}" }) || this.isWithinEnvironment(this.pos, { openSymbol: "\\begin{", closeSymbol: "}" }) || this.isWithinEnvironment(this.pos, { openSymbol: "\\end{", closeSymbol: "}" });
+  }
+  getBounds(pos = this.pos) {
+    if (this.boundsCache.has(pos)) {
+      return this.boundsCache.get(pos);
+    }
+    let bounds;
+    if (this.mode.codeMath) {
+      bounds = getCodeblockBounds(this.state, pos);
+    } else {
+      bounds = getEquationBounds(this.state);
+    }
+    this.boundsCache.set(pos, bounds);
+    return bounds;
+  }
+  getInnerBounds(pos = this.pos) {
+    let bounds;
+    if (this.mode.codeMath) {
+      bounds = getCodeblockBounds(this.state, pos);
+    } else {
+      bounds = getInnerEquationBounds(this.state);
+    }
+    return bounds;
+  }
+};
+var isWithinEquation = (state) => {
+  const pos = state.selection.main.to;
+  const tree = (0, import_language4.syntaxTree)(state);
+  let syntaxNode = tree.resolveInner(pos, -1);
+  if (syntaxNode.name.contains("math-end"))
+    return false;
+  if (!syntaxNode.parent) {
+    syntaxNode = tree.resolveInner(pos, 1);
+    if (syntaxNode.name.contains("math-begin"))
+      return false;
+  }
+  if (!syntaxNode.parent) {
+    const left2 = tree.resolveInner(pos - 1, -1);
+    const right2 = tree.resolveInner(pos + 1, 1);
+    return left2.name.contains("math") && right2.name.contains("math") && !left2.name.contains("math-end");
+  }
+  return syntaxNode.name.contains("math");
+};
+var isWithinInlineEquation = (state) => {
+  const pos = state.selection.main.to;
+  const tree = (0, import_language4.syntaxTree)(state);
+  let syntaxNode = tree.resolveInner(pos, -1);
+  if (syntaxNode.name.contains("math-end"))
+    return false;
+  if (!syntaxNode.parent) {
+    syntaxNode = tree.resolveInner(pos, 1);
+    if (syntaxNode.name.contains("math-begin"))
+      return false;
+  }
+  if (!syntaxNode.parent)
+    syntaxNode = tree.resolveInner(pos - 1, -1);
+  const cursor = syntaxNode.cursor();
+  const res = escalateToToken(cursor, Direction.Backward, "math-begin");
+  return !(res == null ? void 0 : res.name.contains("math-block"));
+};
+var getEquationBounds = (state, pos) => {
+  if (!pos)
+    pos = state.selection.main.to;
+  const tree = (0, import_language4.syntaxTree)(state);
+  let syntaxNode = tree.resolveInner(pos, -1);
+  if (!syntaxNode.parent) {
+    syntaxNode = tree.resolveInner(pos, 1);
+  }
+  if (!syntaxNode.parent)
+    syntaxNode = tree.resolveInner(pos - 1, -1);
+  const cursor = syntaxNode.cursor();
+  const begin = escalateToToken(cursor, Direction.Backward, "math-begin");
+  const end2 = escalateToToken(cursor, Direction.Forward, "math-end");
+  if (begin && end2) {
+    return { start: begin.to, end: end2.from };
+  } else {
+    return null;
+  }
+};
+var getInnerEquationBounds = (state, pos) => {
+  if (!pos)
+    pos = state.selection.main.to;
+  let text = state.doc.toString();
+  text = text.replaceAll("\\$", "\\R");
+  const left2 = text.lastIndexOf("$", pos - 1);
+  const right2 = text.indexOf("$", pos);
+  if (left2 === -1 || right2 === -1)
+    return null;
+  return { start: left2 + 1, end: right2 };
+};
+var getCodeblockBounds = (state, pos = state.selection.main.from) => {
+  const tree = (0, import_language4.syntaxTree)(state);
+  let cursor = tree.cursorAt(pos, -1);
+  const blockBegin = escalateToToken(cursor, Direction.Backward, "HyperMD-codeblock-begin");
+  cursor = tree.cursorAt(pos, -1);
+  const blockEnd = escalateToToken(cursor, Direction.Forward, "HyperMD-codeblock-end");
+  return { start: blockBegin.to + 1, end: blockEnd.from - 1 };
+};
+var langIfWithinCodeblock = (view) => {
+  const state = view instanceof import_view7.EditorView ? view.state : view;
+  const tree = (0, import_language4.syntaxTree)(state);
+  const pos = state.selection.ranges[0].from;
+  const inCodeblock = tree.resolveInner(pos, -1).name.contains("codeblock");
+  if (!inCodeblock) {
+    return null;
+  }
+  const cursor = tree.cursorAt(pos, -1);
+  const codeblockBegin = escalateToToken(cursor, Direction.Backward, "HyperMD-codeblock_HyperMD-codeblock-begin");
+  if (codeblockBegin == null) {
+    console.warn("unable to locate start of the codeblock even though inside one");
+    return "";
+  }
+  const language = state.sliceDoc(codeblockBegin.from, codeblockBegin.to).replace(/`+/, "");
+  return language;
 };
 
 // src/features/editor_commands.ts
 function boxCurrentEquation(view) {
-  const result = getEquationBounds(view.state);
+  const ctx = Context.fromView(view);
+  const result = ctx.getBounds();
   if (!result)
     return false;
   const { start: start2, end: end2 } = result;
@@ -8563,9 +6430,10 @@ function getBoxEquationCommand() {
   return {
     id: "latex-suite-box-equation",
     name: "Box current equation",
-    editorCheckCallback: (checking, editor, markdownView) => {
+    editorCheckCallback: (checking, editor) => {
       const view = editor.cm;
-      const withinEquation = isWithinEquation(view.state);
+      const ctx = Context.fromView(view);
+      const withinEquation = ctx.mode.inMath();
       if (checking)
         return withinEquation;
       if (!withinEquation)
@@ -8579,14 +6447,15 @@ function getSelectEquationCommand() {
   return {
     id: "latex-suite-select-equation",
     name: "Select current equation",
-    editorCheckCallback: (checking, editor, markdownView) => {
+    editorCheckCallback: (checking, editor) => {
       const view = editor.cm;
-      const withinEquation = isWithinEquation(view.state);
+      const ctx = Context.fromView(view);
+      const withinEquation = ctx.mode.inMath();
       if (checking)
         return withinEquation;
       if (!withinEquation)
         return;
-      const result = getEquationBounds(view.state);
+      const result = ctx.getBounds();
       if (!result)
         return false;
       let { start: start2, end: end2 } = result;
@@ -8637,114 +6506,1912 @@ var getEditorCommands = (plugin) => {
   ];
 };
 
+// src/latex_suite.ts
+var import_state13 = __toModule(require("@codemirror/state"));
+var import_view13 = __toModule(require("@codemirror/view"));
+
+// src/snippets/codemirror/snippet_queue_state_field.ts
+var import_state5 = __toModule(require("@codemirror/state"));
+
+// src/snippets/codemirror/snippet_change_spec.ts
+var SnippetChangeSpec = class {
+  constructor(from, to, insert, keyPressed) {
+    this.from = from;
+    this.to = to;
+    this.insert = insert;
+    this.keyPressed = keyPressed;
+  }
+  getTabstops(view, start2) {
+    const tabstops = [];
+    const text = view.state.doc.toString();
+    for (let i = start2; i < start2 + this.insert.length; i++) {
+      if (!(text.charAt(i) === "$")) {
+        continue;
+      }
+      let number2 = parseInt(text.charAt(i + 1));
+      const tabstopStart = i;
+      let tabstopEnd = tabstopStart + 2;
+      let tabstopReplacement = "";
+      if (isNaN(number2)) {
+        if (!(text.charAt(i + 1) === "{" && text.charAt(i + 3) === ":"))
+          continue;
+        number2 = parseInt(text.charAt(i + 2));
+        if (isNaN(number2))
+          continue;
+        const closingIndex = findMatchingBracket(text, i + 1, "{", "}", false, start2 + this.insert.length);
+        if (closingIndex === -1)
+          continue;
+        tabstopReplacement = text.slice(i + 4, closingIndex);
+        tabstopEnd = closingIndex + 1;
+        i = closingIndex;
+      }
+      const tabstop = { number: number2, from: tabstopStart, to: tabstopEnd, replacement: tabstopReplacement };
+      tabstops.push(tabstop);
+    }
+    return tabstops;
+  }
+  toChangeSpec() {
+    return this;
+  }
+};
+
+// src/snippets/codemirror/snippet_queue_state_field.ts
+var queueSnippetEffect = import_state5.StateEffect.define();
+var clearSnippetQueueEffect = import_state5.StateEffect.define();
+var snippetQueueStateField = import_state5.StateField.define({
+  create() {
+    return [];
+  },
+  update(oldState, transaction) {
+    let snippetQueue = oldState;
+    for (const effect4 of transaction.effects) {
+      if (effect4.is(queueSnippetEffect)) {
+        snippetQueue.push(effect4.value);
+      } else if (effect4.is(clearSnippetQueueEffect)) {
+        snippetQueue = [];
+      }
+    }
+    return snippetQueue;
+  }
+});
+function queueSnippet(view, from, to, insert, keyPressed) {
+  const snippet = new SnippetChangeSpec(from, to, insert, keyPressed);
+  view.dispatch({
+    effects: [queueSnippetEffect.of(snippet)]
+  });
+}
+function clearSnippetQueue(view) {
+  view.dispatch({
+    effects: [clearSnippetQueueEffect.of(null)]
+  });
+}
+
+// src/snippets/snippet_management.ts
+var import_state9 = __toModule(require("@codemirror/state"));
+
+// src/snippets/codemirror/history.ts
+var import_state7 = __toModule(require("@codemirror/state"));
+var import_commands2 = __toModule(require("@codemirror/commands"));
+
+// src/snippets/codemirror/tabstops_state_field.ts
+var import_view8 = __toModule(require("@codemirror/view"));
+var import_state6 = __toModule(require("@codemirror/state"));
+var addTabstopsEffect = import_state6.StateEffect.define();
+var filterTabstopsEffect = import_state6.StateEffect.define();
+var removeTabstopEffect = import_state6.StateEffect.define();
+var removeAllTabstopsEffect = import_state6.StateEffect.define();
+var tabstopsStateField = import_state6.StateField.define({
+  create() {
+    return [];
+  },
+  update(value, transaction) {
+    let tabstopGroups = value;
+    tabstopGroups.forEach((grp) => grp.map(transaction.changes));
+    for (const effect4 of transaction.effects) {
+      if (effect4.is(addTabstopsEffect)) {
+        tabstopGroups.unshift(...effect4.value);
+      } else if (effect4.is(filterTabstopsEffect)) {
+        tabstopGroups = tabstopGroups.filter((value2) => {
+          return value2.decos.size != 0;
+        });
+        const editorSel = effect4.value;
+        tabstopGroups.forEach((value2) => {
+          if (editorSel.eq(value2.toEditorSelection())) {
+            value2.hideFromEditor();
+          }
+        });
+      } else if (effect4.is(removeTabstopEffect)) {
+        tabstopGroups.shift();
+      } else if (effect4.is(removeAllTabstopsEffect)) {
+        tabstopGroups = [];
+      }
+    }
+    return tabstopGroups;
+  },
+  provide: (field) => {
+    return import_view8.EditorView.decorations.of((view) => {
+      const tabstopGroups = view.state.field(field);
+      const decos = [];
+      for (const tabstopGroup of tabstopGroups) {
+        if (!tabstopGroup.hidden)
+          decos.push(...tabstopGroup.getRanges());
+      }
+      return import_view8.Decoration.set(decos, true);
+    });
+  }
+});
+function getTabstopGroupsFromView(view) {
+  const currentTabstopGroups = view.state.field(tabstopsStateField);
+  return currentTabstopGroups;
+}
+function addTabstops(view, tabstopGroups) {
+  view.dispatch({
+    effects: [addTabstopsEffect.of(tabstopGroups)]
+  });
+}
+function filterTabstops(view) {
+  view.dispatch({
+    effects: [filterTabstopsEffect.of(view.state.selection)]
+  });
+}
+function removeTabstop(view) {
+  view.dispatch({
+    effects: [removeTabstopEffect.of(null)]
+  });
+}
+function removeAllTabstops(view) {
+  view.dispatch({
+    effects: [removeAllTabstopsEffect.of(null)]
+  });
+}
+var N_COLORS = 7;
+function getNextTabstopColor(view) {
+  const field = view.state.field(tabstopsStateField);
+  const existingColors = field.map((tabstopGroup) => tabstopGroup.color);
+  const uniqueExistingColors = new Set(existingColors);
+  for (let i = 0; i < N_COLORS; i++) {
+    if (!uniqueExistingColors.has(i))
+      return i;
+  }
+  return 0;
+}
+
+// src/snippets/codemirror/history.ts
+var startSnippet = import_state7.StateEffect.define();
+var endSnippet = import_state7.StateEffect.define();
+var undidStartSnippet = import_state7.StateEffect.define();
+var undidEndSnippet = import_state7.StateEffect.define();
+var snippetInvertedEffects = import_commands2.invertedEffects.of((tr) => {
+  const effects = [];
+  for (const effect4 of tr.effects) {
+    if (effect4.is(startSnippet)) {
+      effects.push(undidStartSnippet.of(null));
+    } else if (effect4.is(undidStartSnippet)) {
+      effects.push(startSnippet.of(null));
+    } else if (effect4.is(endSnippet)) {
+      effects.push(undidEndSnippet.of(null));
+    } else if (effect4.is(undidEndSnippet)) {
+      effects.push(endSnippet.of(null));
+    }
+  }
+  return effects;
+});
+var handleUndoRedo = (update) => {
+  const undoTr = update.transactions.find((tr) => tr.isUserEvent("undo"));
+  const redoTr = update.transactions.find((tr) => tr.isUserEvent("redo"));
+  for (const tr of update.transactions) {
+    for (const effect4 of tr.effects) {
+      if (effect4.is(startSnippet)) {
+        if (redoTr) {
+          (0, import_commands2.redo)(update.view);
+        }
+      } else if (effect4.is(undidEndSnippet)) {
+        if (undoTr) {
+          (0, import_commands2.undo)(update.view);
+        }
+      }
+    }
+  }
+  if (undoTr) {
+    removeAllTabstops(update.view);
+  }
+};
+
+// src/snippets/snippet_management.ts
+var import_commands3 = __toModule(require("@codemirror/commands"));
+
+// src/snippets/tabstop.ts
+var import_state8 = __toModule(require("@codemirror/state"));
+var import_view9 = __toModule(require("@codemirror/view"));
+var LATEX_SUITE_TABSTOP_DECO_CLASS = "latex-suite-snippet-placeholder";
+function getMarkerDecoration(from, to, color) {
+  const className = `${LATEX_SUITE_TABSTOP_DECO_CLASS} ${LATEX_SUITE_TABSTOP_DECO_CLASS}-${color}`;
+  return import_view9.Decoration.mark({
+    inclusive: true,
+    color,
+    class: className
+  }).range(from, to);
+}
+var TabstopGroup = class {
+  constructor(tabstopSpecs, color) {
+    const decos = tabstopSpecs.map((spec) => getMarkerDecoration(spec.from, spec.to, color));
+    this.decos = import_view9.Decoration.set(decos, true);
+    this.color = color;
+    this.hidden = false;
+  }
+  select(view, selectEndpoints, isEndSnippet) {
+    const sel = this.toEditorSelection();
+    const toSelect = selectEndpoints ? getEditorSelectionEndpoints(sel) : sel;
+    view.dispatch({
+      selection: toSelect,
+      effects: isEndSnippet ? endSnippet.of(null) : null
+    });
+    resetCursorBlink();
+    this.hideFromEditor();
+  }
+  toSelectionRanges() {
+    const ranges = [];
+    const cur = this.decos.iter();
+    while (cur.value != null) {
+      ranges.push(import_state8.EditorSelection.range(cur.from, cur.to));
+      cur.next();
+    }
+    return ranges;
+  }
+  toEditorSelection() {
+    return import_state8.EditorSelection.create(this.toSelectionRanges());
+  }
+  containsSelection(selection) {
+    function rangeLiesWithinSelection(range, sel) {
+      for (const selRange of sel) {
+        if (selRange.from <= range.from && selRange.to >= range.to) {
+          return true;
+        }
+      }
+      return false;
+    }
+    const tabstopRanges = this.toSelectionRanges();
+    let result = true;
+    for (const range of selection.ranges) {
+      if (!rangeLiesWithinSelection(range, tabstopRanges)) {
+        result = false;
+        break;
+      }
+    }
+    return result;
+  }
+  hideFromEditor() {
+    this.hidden = true;
+  }
+  map(changes) {
+    this.decos = this.decos.map(changes);
+  }
+  getRanges() {
+    const ranges = [];
+    const cur = this.decos.iter();
+    while (cur.value != null) {
+      if (cur.from != cur.to) {
+        ranges.push(cur.value.range(cur.from, cur.to));
+      }
+      cur.next();
+    }
+    return ranges;
+  }
+};
+function tabstopSpecsToTabstopGroups(tabstops, color) {
+  const tabstopsByNumber = {};
+  for (const tabstop of tabstops) {
+    const n = String(tabstop.number);
+    if (tabstopsByNumber[n]) {
+      tabstopsByNumber[n].push(tabstop);
+    } else {
+      tabstopsByNumber[n] = [tabstop];
+    }
+  }
+  const result = [];
+  const numbers = Object.keys(tabstopsByNumber);
+  numbers.sort();
+  for (const number2 of numbers) {
+    const grp = new TabstopGroup(tabstopsByNumber[number2], color);
+    result.push(grp);
+  }
+  return result;
+}
+function getEditorSelectionEndpoints(sel) {
+  const endpoints = sel.ranges.map((range) => import_state8.EditorSelection.range(range.to, range.to));
+  return import_state8.EditorSelection.create(endpoints);
+}
+
+// src/snippets/snippet_management.ts
+function expandSnippets(view) {
+  const snippetsToExpand = view.state.field(snippetQueueStateField);
+  if (snippetsToExpand.length === 0)
+    return false;
+  const originalDocLength = view.state.doc.length;
+  handleUndoKeypresses(view, snippetsToExpand);
+  const tabstopsToAdd = computeTabstops(view, snippetsToExpand, originalDocLength);
+  if (tabstopsToAdd.length === 0) {
+    clearSnippetQueue(view);
+    return true;
+  }
+  markTabstops(view, tabstopsToAdd);
+  expandTabstops(view, tabstopsToAdd);
+  clearSnippetQueue(view);
+  return true;
+}
+function handleUndoKeypresses(view, snippets2) {
+  const originalDoc = view.state.doc;
+  const originalDocLength = originalDoc.length;
+  const keyPresses = [];
+  for (const snippet of snippets2) {
+    if (snippet.keyPressed && snippet.keyPressed.length === 1) {
+      const prevChar = view.state.doc.sliceString(snippet.to - 1, snippet.to);
+      const from = snippet.to === 0 ? 0 : snippet.to - 1;
+      keyPresses.push({ from, to: snippet.to, insert: prevChar + snippet.keyPressed });
+    }
+  }
+  view.dispatch({
+    changes: keyPresses,
+    annotations: import_commands3.isolateHistory.of("full")
+  });
+  const undoKeyPresses = import_state9.ChangeSet.of(keyPresses, originalDocLength).invert(originalDoc);
+  const changesAsChangeSet = import_state9.ChangeSet.of(snippets2, originalDocLength);
+  const combinedChanges = undoKeyPresses.compose(changesAsChangeSet);
+  view.dispatch({
+    changes: combinedChanges,
+    effects: startSnippet.of(null)
+  });
+}
+function computeTabstops(view, snippets2, originalDocLength) {
+  const changeSet = import_state9.ChangeSet.of(snippets2, originalDocLength);
+  const oldPositions = snippets2.map((change) => change.from);
+  const newPositions = oldPositions.map((pos) => changeSet.mapPos(pos));
+  const tabstopsToAdd = [];
+  for (let i = 0; i < snippets2.length; i++) {
+    tabstopsToAdd.push(...snippets2[i].getTabstops(view, newPositions[i]));
+  }
+  return tabstopsToAdd;
+}
+function markTabstops(view, tabstops) {
+  const color = getNextTabstopColor(view);
+  const tabstopGroups = tabstopSpecsToTabstopGroups(tabstops, color);
+  addTabstops(view, tabstopGroups);
+}
+function expandTabstops(view, tabstops) {
+  const changes = tabstops.map((tabstop) => {
+    return { from: tabstop.from, to: tabstop.to, insert: tabstop.replacement };
+  });
+  view.dispatch({
+    changes
+  });
+  const firstGrp = getTabstopGroupsFromView(view)[0];
+  firstGrp.select(view, false, true);
+  tidyTabstops(view);
+}
+function tidyTabstops(view) {
+  filterTabstops(view);
+  const currentTabstopGroups = getTabstopGroupsFromView(view);
+  if (currentTabstopGroups.length === 1) {
+    removeAllTabstops(view);
+  }
+}
+function isInsideATabstop(view) {
+  const currentTabstopGroups = getTabstopGroupsFromView(view);
+  for (const tabstopGroup of currentTabstopGroups) {
+    if (tabstopGroup.containsSelection(view.state.selection)) {
+      return true;
+    }
+  }
+  return false;
+}
+function consumeAndGotoNextTabstop(view) {
+  if (getTabstopGroupsFromView(view).length === 0)
+    return false;
+  removeTabstop(view);
+  const oldSel = view.state.selection;
+  const nextGrp = getTabstopGroupsFromView(view)[0];
+  if (!nextGrp)
+    return false;
+  const shouldMoveToEndpoints = nextGrp.containsSelection(oldSel);
+  nextGrp.select(view, shouldMoveToEndpoints, false);
+  const newSel = view.state.selection;
+  if (oldSel.eq(newSel))
+    return consumeAndGotoNextTabstop(view);
+  tidyTabstops(view);
+  return true;
+}
+
+// src/features/auto_enlarge_brackets.ts
+var autoEnlargeBrackets = (view) => {
+  const settings = getLatexSuiteConfig(view);
+  if (!settings.autoEnlargeBrackets)
+    return;
+  const ctx = Context.fromView(view);
+  const result = ctx.getBounds();
+  if (!result)
+    return false;
+  const { start: start2, end: end2 } = result;
+  const text = view.state.doc.toString();
+  const left2 = "\\left";
+  const right2 = "\\right";
+  for (let i = start2; i < end2; i++) {
+    const brackets2 = { "(": ")", "[": "]", "\\{": "\\}", "\\langle": "\\rangle", "\\lvert": "\\rvert", "\\lceil": "\\rceil", "\\lfloor": "\\rfloor" };
+    const openBrackets = Object.keys(brackets2);
+    let found = false;
+    let open = "";
+    for (const openBracket of openBrackets) {
+      if (text.slice(i, i + openBracket.length) === openBracket) {
+        found = true;
+        open = openBracket;
+        break;
+      }
+    }
+    if (!found)
+      continue;
+    const bracketSize = open.length;
+    const close = brackets2[open];
+    const j = findMatchingBracket(text, i, open, close, false, end2);
+    if (j === -1)
+      continue;
+    if (text.slice(i - left2.length, i) === left2 && text.slice(j - right2.length, j) === right2)
+      continue;
+    const bracketContents = text.slice(i + 1, j);
+    const containsTrigger = settings.autoEnlargeBracketsTriggers.some((word) => bracketContents.contains("\\" + word));
+    if (!containsTrigger) {
+      i = j;
+      continue;
+    }
+    queueSnippet(view, i, i + bracketSize, left2 + open + " ");
+    queueSnippet(view, j, j + bracketSize, " " + right2 + close);
+  }
+  expandSnippets(view);
+};
+
+// src/features/run_snippets.ts
+var runSnippets = (view, ctx, key) => {
+  let shouldAutoEnlargeBrackets = false;
+  for (const range of ctx.ranges) {
+    const result = runSnippetCursor(view, ctx, key, range);
+    if (result.shouldAutoEnlargeBrackets)
+      shouldAutoEnlargeBrackets = true;
+  }
+  const success = expandSnippets(view);
+  if (shouldAutoEnlargeBrackets) {
+    autoEnlargeBrackets(view);
+  }
+  return success;
+};
+var runSnippetCursor = (view, ctx, key, range) => {
+  const settings = getLatexSuiteConfig(view);
+  const { from, to } = range;
+  const sel = view.state.sliceDoc(from, to);
+  for (const snippet of settings.snippets) {
+    let effectiveLine = view.state.sliceDoc(0, to);
+    if (!snippetShouldRunInMode(snippet.options, ctx.mode)) {
+      continue;
+    }
+    if (snippet.options.automatic || snippet.type === "visual") {
+      if (!(key.length === 1))
+        continue;
+      effectiveLine += key;
+    } else if (!(key === settings.snippetsTrigger)) {
+      continue;
+    }
+    let isExcluded = false;
+    for (const environment of snippet.excludedEnvironments) {
+      if (ctx.isWithinEnvironment(to, environment)) {
+        isExcluded = true;
+      }
+    }
+    if (isExcluded) {
+      continue;
+    }
+    const result = snippet.process(effectiveLine, range, sel);
+    if (result === null)
+      continue;
+    const triggerPos = result.triggerPos;
+    if (snippet.options.onWordBoundary) {
+      if (!isOnWordBoundary(view.state, triggerPos, to, settings.wordDelimiters))
+        continue;
+    }
+    let replacement = result.replacement;
+    if (ctx.mode.inlineMath && settings.removeSnippetWhitespace) {
+      replacement = trimWhitespace(replacement, ctx);
+    }
+    const start2 = triggerPos;
+    queueSnippet(view, start2, to, replacement, key);
+    const containsTrigger = settings.autoEnlargeBracketsTriggers.some((word) => replacement.contains("\\" + word));
+    return { success: true, shouldAutoEnlargeBrackets: containsTrigger };
+  }
+  return { success: false, shouldAutoEnlargeBrackets: false };
+};
+var snippetShouldRunInMode = (options, mode) => {
+  if (options.mode.inlineMath && mode.inlineMath || options.mode.blockMath && mode.blockMath || (options.mode.inlineMath || options.mode.blockMath) && mode.codeMath) {
+    if (!mode.textEnv) {
+      return true;
+    }
+  }
+  if (mode.inMath() && mode.textEnv && options.mode.text) {
+    return true;
+  }
+  if (options.mode.text && mode.text || options.mode.code && mode.code) {
+    return true;
+  }
+};
+var isOnWordBoundary = (state, triggerPos, to, wordDelimiters) => {
+  const prevChar = state.sliceDoc(triggerPos - 1, triggerPos);
+  const nextChar = state.sliceDoc(to, to + 1);
+  wordDelimiters = wordDelimiters.replace("\\n", "\n");
+  return wordDelimiters.contains(prevChar) && wordDelimiters.contains(nextChar);
+};
+var trimWhitespace = (replacement, ctx) => {
+  let spaceIndex = 0;
+  if (replacement.endsWith(" ")) {
+    spaceIndex = -1;
+  } else {
+    const lastThreeChars = replacement.slice(-3);
+    const lastChar = lastThreeChars.slice(-1);
+    if (lastThreeChars.slice(0, 2) === " $" && !isNaN(parseInt(lastChar))) {
+      spaceIndex = -3;
+    }
+  }
+  if (spaceIndex != 0) {
+    if (spaceIndex === -1) {
+      replacement = replacement.trimEnd();
+    } else if (spaceIndex === -3) {
+      replacement = replacement.slice(0, -3) + replacement.slice(-2);
+    }
+  }
+  return replacement;
+};
+
+// src/features/autofraction.ts
+var runAutoFraction = (view, ctx) => {
+  for (const range of ctx.ranges) {
+    runAutoFractionCursor(view, ctx, range);
+  }
+  const success = expandSnippets(view);
+  if (success) {
+    autoEnlargeBrackets(view);
+  }
+  return success;
+};
+var runAutoFractionCursor = (view, ctx, range) => {
+  const settings = getLatexSuiteConfig(view);
+  const { from, to } = range;
+  for (const env of settings.autofractionExcludedEnvs) {
+    if (ctx.isWithinEnvironment(to, env)) {
+      return false;
+    }
+  }
+  const result = ctx.getBounds();
+  if (!result)
+    return false;
+  const eqnStart = result.start;
+  let curLine = view.state.sliceDoc(0, to);
+  let start2 = eqnStart;
+  if (from != to) {
+    start2 = from;
+  } else {
+    const greek2 = settings.snippetVariables["${GREEK}"];
+    if (greek2 !== void 0) {
+      const regex = new RegExp("(" + greek2 + ") ([^ ])", "g");
+      curLine = curLine.replace(regex, "$1#$2");
+    }
+    for (let i = curLine.length - 1; i >= eqnStart; i--) {
+      const curChar = curLine.charAt(i);
+      if ([")", "]", "}"].contains(curChar)) {
+        const closeBracket = curChar;
+        const openBracket = getOpenBracket(closeBracket);
+        const j = findMatchingBracket(curLine, i, openBracket, closeBracket, true);
+        if (j === -1)
+          return false;
+        i = j;
+        if (i < eqnStart) {
+          start2 = eqnStart;
+          break;
+        }
+      }
+      if (" $([{\n".concat(settings.autofractionBreakingChars).contains(curChar)) {
+        start2 = i + 1;
+        break;
+      }
+    }
+  }
+  if (start2 === to) {
+    return false;
+  }
+  let numerator = view.state.sliceDoc(start2, to);
+  if (numerator.at(0) === "(" && numerator.at(-1) === ")") {
+    const closing = findMatchingBracket(numerator, 0, "(", ")", false);
+    if (closing === numerator.length - 1) {
+      numerator = numerator.slice(1, -1);
+    }
+  }
+  const replacement = `${settings.autofractionSymbol}{${numerator}}{$0}$1`;
+  queueSnippet(view, start2, to, replacement, "/");
+  return true;
+};
+
+// src/features/tabout.ts
+var tabout = (view, ctx) => {
+  if (!ctx.mode.inMath())
+    return false;
+  const result = ctx.getBounds();
+  if (!result)
+    return false;
+  const end2 = result.end;
+  const pos = view.state.selection.main.to;
+  const d = view.state.doc;
+  const text = d.toString();
+  const rangle = "\\rangle";
+  for (let i = pos; i < end2; i++) {
+    if (["}", ")", "]", ">", "|", "$"].contains(text.charAt(i))) {
+      setCursor(view, i + 1);
+      return true;
+    } else if (text.slice(i, i + rangle.length) === rangle) {
+      setCursor(view, i + rangle.length);
+      return true;
+    }
+  }
+  const textBtwnCursorAndEnd = d.sliceString(pos, end2);
+  const atEnd = textBtwnCursorAndEnd.trim().length === 0;
+  if (!atEnd)
+    return false;
+  if (ctx.mode.inlineMath || ctx.mode.codeMath) {
+    setCursor(view, end2 + 1);
+  } else {
+    const dollarLine = d.lineAt(end2 + 2);
+    if (dollarLine.number === d.lines) {
+      replaceRange(view, dollarLine.to, dollarLine.to, "\n");
+    }
+    setCursor(view, dollarLine.to + 1);
+    const line = d.lineAt(pos);
+    replaceRange(view, line.from, line.to, line.text.trim());
+  }
+  return true;
+};
+var shouldTaboutByCloseBracket = (view, keyPressed) => {
+  const sel = view.state.selection.main;
+  if (!sel.empty)
+    return;
+  const pos = sel.from;
+  const c = getCharacterAtPos(view, pos);
+  const brackets2 = [")", "]", "}"];
+  if (c === keyPressed && brackets2.contains(c)) {
+    return true;
+  } else {
+    return false;
+  }
+};
+
+// src/features/matrix_shortcuts.ts
+var runMatrixShortcuts = (view, ctx, key, shiftKey) => {
+  const settings = getLatexSuiteConfig(view);
+  let isInsideAnEnv = false;
+  for (const envName of settings.matrixShortcutsEnvNames) {
+    const env = { openSymbol: "\\begin{" + envName + "}", closeSymbol: "\\end{" + envName + "}" };
+    isInsideAnEnv = ctx.isWithinEnvironment(ctx.pos, env);
+    if (isInsideAnEnv)
+      break;
+  }
+  if (!isInsideAnEnv)
+    return false;
+  if (key === "Tab") {
+    view.dispatch(view.state.replaceSelection(" & "));
+    return true;
+  } else if (key === "Enter") {
+    if (shiftKey) {
+      const d = view.state.doc;
+      const nextLineNo = d.lineAt(ctx.pos).number + 1;
+      const nextLine = d.line(nextLineNo);
+      setCursor(view, nextLine.to);
+    } else {
+      view.dispatch(view.state.replaceSelection(" \\\\\n"));
+    }
+    return true;
+  } else {
+    return false;
+  }
+};
+
+// src/snippets/codemirror/cursor_trigger_state_field.ts
+var import_state10 = __toModule(require("@codemirror/state"));
+var cursorTriggerStateField = import_state10.StateField.define({
+  create() {
+    return false;
+  },
+  update(value, transaction) {
+    if (transaction.docChanged) {
+      return true;
+    }
+    if (transaction.selection) {
+      if (value) {
+        return false;
+      }
+    }
+    return value;
+  }
+});
+
+// src/snippets/codemirror/extensions.ts
+var snippetExtensions = [
+  tabstopsStateField.extension,
+  snippetQueueStateField.extension,
+  cursorTriggerStateField.extension,
+  snippetInvertedEffects
+];
+
+// src/editor_extensions/conceal.ts
+var import_obsidian6 = __toModule(require("obsidian"));
+var import_view10 = __toModule(require("@codemirror/view"));
+var import_language5 = __toModule(require("@codemirror/language"));
+
+// src/editor_extensions/conceal_maps.ts
+var cmd_symbols = {
+  "aleph": "\u2135",
+  "amalg": "\u2210",
+  "angle": "\u2220",
+  "approx": "\u2248",
+  "ast": "\u2217",
+  "asymp": "\u224D",
+  "backslash": "\u2216",
+  "bigcap": "\u2229",
+  "bigcirc": "\u25CB",
+  "bigcup": "\u222A",
+  "bigodot": "\u2299",
+  "bigoplus": "\u2295",
+  "bigotimes": "\u2297",
+  "bigsqcup": "\u2294",
+  "bigtriangledown": "\u2207",
+  "bigtriangleup": "\u2206",
+  "bigvee": "\u22C1",
+  "bigwedge": "\u22C0",
+  "bot": "\u22A5",
+  "bowtie": "\u22C8",
+  "bullet": "\u2022",
+  "cap": "\u2229",
+  "cdots": "\u22EF",
+  "cdot": "\xB7",
+  "circ": "\u2218",
+  "clubsuit": "\u2663",
+  "cong": "\u2245",
+  "coprod": "\u2210",
+  "copyright": "\xA9",
+  "cup": "\u222A",
+  "dagger": "\u2020",
+  "dashv": "\u22A3",
+  "ddagger": "\u2021",
+  "ddots": "\u22F1",
+  "diamond": "\u22C4",
+  "diamondsuit": "\u2662",
+  "div": "\xF7",
+  "doteq": "\u2250",
+  "dots": "\u2026",
+  "downarrow": "\u2193",
+  "Downarrow": "\u21D3",
+  "ell": "\u2113",
+  "emptyset": "\xD8",
+  "equiv": "\u2261",
+  "exists": "\u2203",
+  "flat": "\u266D",
+  "forall": "\u2200",
+  "frown": "\u2054",
+  "geqslant": "\u2265",
+  "geq": "\u2265",
+  "gets": "\u2190",
+  "ge": "\u2265",
+  "gg": "\u27EB",
+  "hbar": "\u210F",
+  "heartsuit": "\u2661",
+  "hookleftarrow": "\u21A9",
+  "hookrightarrow": "\u21AA",
+  "iff": "\u21D4",
+  "Im": "\u2111",
+  "imath": "\u0269",
+  "infty": "\u221E",
+  "iiint": "\u222D",
+  "iint": "\u222C",
+  "int": "\u222B",
+  "in": "\u2208",
+  "jmath": "\u{1D6A5}",
+  "land": "\u2227",
+  "lnot": "\xAC",
+  "lceil": "\u2308",
+  "ldots": "\u2026",
+  "leftharpoondown": "\u21BD",
+  "leftharpoonup": "\u21BC",
+  "leftrightarrow": "\u2194",
+  "Leftrightarrow": "\u21D4",
+  "lhd": "\u25C1",
+  "rhd": "\u25B7",
+  "leftarrow": "\u2190",
+  "Leftarrow": "\u21D0",
+  "left": "",
+  "leq": "\u2264",
+  "le": "\u2264",
+  "ll": "\u226A",
+  "lmoustache": "\u256D",
+  "lor": "\u2228",
+  "mapsto": "\u21A6",
+  "middle": "",
+  "mid": "\u2223",
+  "models": "\u22A8",
+  "mp": "\u2213",
+  "nabla": "\u2207",
+  "natural": "\u266E",
+  "nearrow": "\u2197",
+  "neg": "\xAC",
+  "neqslant": "\u2260",
+  "neq": "\u2260",
+  "ne": "\u2260",
+  "ni": "\u220B",
+  "notin": "\u2209",
+  "nwarrow": "\u2196",
+  "odot": "\u2299",
+  "oint": "\u222E",
+  "ominus": "\u2296",
+  "oplus": "\u2295",
+  "oslash": "\u2298",
+  "otimes": "\u2297",
+  "owns": "\u220B",
+  "P": "\xB6",
+  "parallel": "\u2551",
+  "partial": "\u2202",
+  "perp": "\u22A5",
+  "pm": "\xB1",
+  "preceq": "\u2AAF",
+  "prec": "\u227A",
+  "prime": "\u2032",
+  "prod": "\u220F",
+  "propto": "\u221D",
+  "rceil": "\u2309",
+  "Re": "\u211C",
+  "qquad": "\u2001",
+  "quad": "\u2000",
+  "rightarrow": "\u2192",
+  "Rightarrow": "\u21D2",
+  "right": "",
+  "rightleftharpoons": "\u21CC",
+  "rmoustache": "\u256E",
+  "S": "\xA7",
+  "searrow": "\u2198",
+  "setminus": "\u29F5",
+  "sharp": "\u266F",
+  "simeq": "\u22CD",
+  "sim": "\u223C",
+  "smile": "\u203F",
+  "spadesuit": "\u2660",
+  "sqcap": "\u2293",
+  "sqcup": "\u2294",
+  "sqsubseteq": "\u2291",
+  "sqsubset": "\u228F",
+  "sqsupseteq": "\u2292",
+  "sqsupset": "\u2290",
+  "square": "\u25A1",
+  "star": "\u272B",
+  "subseteq": "\u2286",
+  "subset": "\u2282",
+  "succeq": "\u2AB0",
+  "succ": "\u227B",
+  "sum": "\u2211",
+  "supseteq": "\u2287",
+  "supset": "\u2283",
+  "surd": "\u221A",
+  "swarrow": "\u2199",
+  "times": "\xD7",
+  "top": "\u22A4",
+  "to": "\u2192",
+  "triangleleft": "\u22B2",
+  "triangleright": "\u22B3",
+  "triangle": "\u2206",
+  "uparrow": "\u2191",
+  "Uparrow": "\u21D1",
+  "updownarrow": "\u2195",
+  "Updownarrow": "\u21D5",
+  "vdash": "\u22A2",
+  "vdots": "\u22EE",
+  "vee": "\u2228",
+  "wedge": "\u2227",
+  "wp": "\u2118",
+  "wr": "\u2240",
+  "implies": "\u21D2",
+  "choose": "C",
+  "sqrt": "\u221A",
+  "coloneqq": "\u2254",
+  "colon": ":",
+  "displaystyle": " ",
+  ",": " ",
+  ":": " ",
+  ";": " "
+};
+var operators = [
+  "arcsin",
+  "arccos",
+  "arctan",
+  "sinh",
+  "cosh",
+  "tanh",
+  "coth",
+  "sin",
+  "cos",
+  "tan",
+  "sec",
+  "csc",
+  "cot",
+  "exp",
+  "ker",
+  "limsup",
+  "lim",
+  "sup",
+  "deg",
+  "gcd",
+  "log",
+  "lg",
+  "ln",
+  "Pr",
+  "det",
+  "hom",
+  "arg",
+  "dim",
+  "liminf",
+  "min",
+  "max"
+];
+var fractions = {
+  "{1}{2}": "\xBD",
+  "{1}{3}": "\u2153",
+  "{2}{3}": "\u2154",
+  "{1}{4}": "\xBC",
+  "{1}{5}": "\u2155",
+  "{2}{5}": "\u2156",
+  "{3}{5}": "\u2157",
+  "{4}{5}": "\u2158",
+  "{1}{6}": "\u2159",
+  "{5}{6}": "\u215A",
+  "{1}{8}": "\u215B",
+  "{3}{8}": "\u215C",
+  "{5}{8}": "\u215D",
+  "{7}{8}": "\u215E"
+};
+var greek = {
+  "alpha": "\u03B1",
+  "beta": "\u03B2",
+  "gamma": "\u03B3",
+  "delta": "\u03B4",
+  "epsilon": "\u03F5",
+  "varepsilon": "\u03B5",
+  "zeta": "\u03B6",
+  "eta": "\u03B7",
+  "theta": "\u03B8",
+  "vartheta": "\u03D1",
+  "iota": "\u03B9",
+  "kappa": "\u03BA",
+  "lambda": "\u03BB",
+  "mu": "\u03BC",
+  "nu": "\u03BD",
+  "xi": "\u03BE",
+  "pi": "\u03C0",
+  "varpi": "\u03D6",
+  "rho": "\u03C1",
+  "varrho": "\u03F1",
+  "sigma": "\u03C3",
+  "varsigma": "\u03C2",
+  "tau": "\u03C4",
+  "upsilon": "\u03C5",
+  "phi": "\u03D5",
+  "varphi": "\u03C6",
+  "chi": "\u03C7",
+  "psi": "\u03C8",
+  "omega": "\u03C9",
+  "Gamma": "\u0393",
+  "Delta": "\u0394",
+  "Theta": "\u0398",
+  "Lambda": "\u039B",
+  "Xi": "\u039E",
+  "Pi": "\u03A0",
+  "Sigma": "\u03A3",
+  "Upsilon": "\u03A5",
+  "Phi": "\u03A6",
+  "Chi": "\u03A7",
+  "Psi": "\u03A8",
+  "Omega": "\u03A9"
+};
+var map_super = {
+  "(": "\u207D",
+  ")": "\u207E",
+  "+": "\u207A",
+  "-": "\u207B",
+  "=": "\u207C",
+  ":": "\uFE13",
+  ";": "\uFE14",
+  "<": "\u02C2",
+  ">": "\u02C3",
+  "0": "\u2070",
+  "1": "\xB9",
+  "2": "\xB2",
+  "3": "\xB3",
+  "4": "\u2074",
+  "5": "\u2075",
+  "6": "\u2076",
+  "7": "\u2077",
+  "8": "\u2078",
+  "9": "\u2079",
+  "a": "\u1D43",
+  "b": "\u1D47",
+  "c": "\u1D9C",
+  "d": "\u1D48",
+  "e": "\u1D49",
+  "f": "\u1DA0",
+  "g": "\u1D4D",
+  "h": "\u02B0",
+  "i": "\u2071",
+  "j": "\u02B2",
+  "k": "\u1D4F",
+  "l": "\u02E1",
+  "m": "\u1D50",
+  "n": "\u207F",
+  "o": "\u1D52",
+  "p": "\u1D56",
+  "r": "\u02B3",
+  "s": "\u02E2",
+  "t": "\u1D57",
+  "u": "\u1D58",
+  "v": "\u1D5B",
+  "w": "\u02B7",
+  "x": "\u02E3",
+  "y": "\u02B8",
+  "z": "\u1DBB",
+  "A": "\u1D2C",
+  "B": "\u1D2E",
+  "D": "\u1D30",
+  "E": "\u1D31",
+  "G": "\u1D33",
+  "H": "\u1D34",
+  "I": "\u1D35",
+  "J": "\u1D36",
+  "K": "\u1D37",
+  "L": "\u1D38",
+  "M": "\u1D39",
+  "N": "\u1D3A",
+  "O": "\u1D3C",
+  "P": "\u1D3E",
+  "R": "\u1D3F",
+  "T": "\u1D40",
+  "U": "\u1D41",
+  "V": "\u2C7D",
+  "W": "\u1D42"
+};
+var map_sub = {
+  "(": "\u208D",
+  ")": "\u208E",
+  "+": "\u208A",
+  "-": "\u208B",
+  "=": "\u208C",
+  "0": "\u2080",
+  "1": "\u2081",
+  "2": "\u2082",
+  "3": "\u2083",
+  "4": "\u2084",
+  "5": "\u2085",
+  "6": "\u2086",
+  "7": "\u2087",
+  "8": "\u2088",
+  "9": "\u2089",
+  "a": "\u2090",
+  "e": "\u2091",
+  "h": "\u2095",
+  "i": "\u1D62",
+  "j": "\u2C7C",
+  "k": "\u2096",
+  "l": "\u2097",
+  "m": "\u2098",
+  "n": "\u2099",
+  "o": "\u2092",
+  "p": "\u209A",
+  "r": "\u1D63",
+  "s": "\u209B",
+  "t": "\u209C",
+  "u": "\u1D64",
+  "v": "\u1D65",
+  "x": "\u2093"
+};
+var brackets = {
+  "left<": "\u3008",
+  "right>": "\u3009",
+  "langle": "\u3008",
+  "rangle": "\u3009",
+  "lvert": "|",
+  "rvert": "|",
+  "vert": "|"
+};
+var mathbb = {
+  " ": " ",
+  "0": "\u{1D7D8}",
+  "1": "\u{1D7D9}",
+  "2": "\u{1D7DA}",
+  "3": "\u{1D7DB}",
+  "4": "\u{1D7DC}",
+  "5": "\u{1D7DD}",
+  "6": "\u{1D7DE}",
+  "7": "\u{1D7DF}",
+  "8": "\u{1D7E0}",
+  "9": "\u{1D7E1}",
+  "A": "\u{1D538}",
+  "B": "\u{1D539}",
+  "C": "\u2102",
+  "D": "\u{1D53B}",
+  "E": "\u{1D53C}",
+  "F": "\u{1D53D}",
+  "G": "\u{1D53E}",
+  "H": "\u210D",
+  "I": "\u{1D540}",
+  "J": "\u{1D541}",
+  "K": "\u{1D542}",
+  "L": "\u{1D543}",
+  "M": "\u{1D544}",
+  "N": "\u2115",
+  "O": "\u{1D546}",
+  "P": "\u2119",
+  "Q": "\u211A",
+  "R": "\u211D",
+  "S": "\u{1D54A}",
+  "T": "\u{1D54B}",
+  "U": "\u{1D54C}",
+  "V": "\u{1D54D}",
+  "W": "\u{1D54E}",
+  "X": "\u{1D54F}",
+  "Y": "\u{1D550}",
+  "Z": "\u2124",
+  "a": "\u{1D552}",
+  "b": "\u{1D553}",
+  "c": "\u{1D554}",
+  "d": "\u{1D555}",
+  "e": "\u{1D556}",
+  "f": "\u{1D557}",
+  "g": "\u{1D558}",
+  "h": "\u{1D559}",
+  "i": "\u{1D55A}",
+  "j": "\u{1D55B}",
+  "k": "\u{1D55C}",
+  "l": "\u{1D55D}",
+  "m": "\u{1D55E}",
+  "n": "\u{1D55F}",
+  "o": "\u{1D560}",
+  "p": "\u{1D561}",
+  "q": "\u{1D562}",
+  "r": "\u{1D563}",
+  "s": "\u{1D564}",
+  "t": "\u{1D565}",
+  "u": "\u{1D566}",
+  "v": "\u{1D567}",
+  "w": "\u{1D568}",
+  "x": "\u{1D569}",
+  "y": "\u{1D56A}",
+  "z": "\u{1D56B}"
+};
+var mathscrcal = {
+  "A": "\u{1D4D0}",
+  "B": "\u{1D4D1}",
+  "C": "\u{1D4D2}",
+  "D": "\u{1D4D3}",
+  "E": "\u{1D4D4}",
+  "F": "\u{1D4D5}",
+  "G": "\u{1D4D6}",
+  "H": "\u{1D4D7}",
+  "I": "\u{1D4D8}",
+  "J": "\u{1D4D9}",
+  "K": "\u{1D4DA}",
+  "L": "\u{1D4DB}",
+  "M": "\u{1D4DC}",
+  "N": "\u{1D4DD}",
+  "O": "\u{1D4DE}",
+  "P": "\u{1D4DF}",
+  "Q": "\u{1D4E0}",
+  "R": "\u{1D4E1}",
+  "S": "\u{1D4E2}",
+  "T": "\u{1D4E3}",
+  "U": "\u{1D4E4}",
+  "V": "\u{1D4E5}",
+  "W": "\u{1D4E6}",
+  "X": "\u{1D4E7}",
+  "Y": "\u{1D4E8}",
+  "Z": "\u{1D4E9}"
+};
+
+// src/editor_extensions/conceal.ts
+var ConcealWidget = class extends import_view10.WidgetType {
+  constructor(symbol, className, elementType) {
+    super();
+    this.symbol = symbol;
+    this.className = className ? className : "";
+    this.elementType = elementType ? elementType : "span";
+  }
+  eq(other) {
+    return other.symbol == this.symbol && other.className === this.className && other.elementType === this.elementType;
+  }
+  toDOM() {
+    const span = document.createElement(this.elementType);
+    span.className = "cm-math " + this.className;
+    span.textContent = this.symbol;
+    return span;
+  }
+  ignoreEvent() {
+    return false;
+  }
+};
+var TextWidget = class extends import_view10.WidgetType {
+  constructor(symbol) {
+    super();
+    this.symbol = symbol;
+  }
+  eq(other) {
+    return other.symbol == this.symbol;
+  }
+  toDOM() {
+    const span = document.createElement("span");
+    span.className = "cm-math";
+    span.textContent = this.symbol;
+    return span;
+  }
+  ignoreEvent() {
+    return false;
+  }
+};
+function selectionAndRangeOverlap(selection, rangeFrom, rangeTo) {
+  for (const range of selection.ranges) {
+    if (range.from <= rangeTo && range.to >= rangeFrom) {
+      return true;
+    }
+  }
+  return false;
+}
+function escapeRegex(regex) {
+  const escapeChars = ["\\", "(", ")", "+", "-", "[", "]", "{", "}"];
+  for (const escapeChar of escapeChars) {
+    regex = regex.replaceAll(escapeChar, "\\" + escapeChar);
+  }
+  return regex;
+}
+function getEndIncludingLimits(eqn, end2) {
+  const LIMITS = "\\limits";
+  if (eqn.substring(end2, end2 + LIMITS.length) === LIMITS) {
+    return end2 + LIMITS.length;
+  }
+  return end2;
+}
+function concealSymbols(eqn, prefix, suffix, symbolMap, className, allowSucceedingLetters = true) {
+  const symbolNames = Object.keys(symbolMap);
+  const regexStr = prefix + "(" + escapeRegex(symbolNames.join("|")) + ")" + suffix;
+  const symbolRegex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(symbolRegex)];
+  const concealments = [];
+  for (const match of matches) {
+    const symbol = match[1];
+    if (!allowSucceedingLetters) {
+      const end3 = match.index + match[0].length;
+      if (eqn.charAt(end3).match(/[a-zA-Z]/)) {
+        continue;
+      }
+    }
+    const end2 = getEndIncludingLimits(eqn, match.index + match[0].length);
+    concealments.push({ start: match.index, end: end2, replacement: symbolMap[symbol], class: className });
+  }
+  return concealments;
+}
+function concealModifier(eqn, modifier, combiningCharacter) {
+  const regexStr = "\\\\" + modifier + "{([A-Za-z])}";
+  const symbolRegex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(symbolRegex)];
+  const concealments = [];
+  for (const match of matches) {
+    const symbol = match[1];
+    concealments.push({ start: match.index, end: match.index + match[0].length, replacement: symbol + combiningCharacter, class: "latex-suite-unicode" });
+  }
+  return concealments;
+}
+function concealSupSub(eqn, superscript, symbolMap) {
+  const prefix = superscript ? "\\^" : "_";
+  const regexStr = prefix + "{([A-Za-z0-9\\()\\[\\]/+-=<>':;\\\\ *]+)}";
+  const regex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(regex)];
+  const concealments = [];
+  for (const match of matches) {
+    const exponent = match[1];
+    const elementType = superscript ? "sup" : "sub";
+    const symbolNames = Object.keys(symbolMap);
+    const symbolRegexStr = "\\\\(" + escapeRegex(symbolNames.join("|")) + ")";
+    const symbolRegex = new RegExp(symbolRegexStr, "g");
+    const replacement = exponent.replace(symbolRegex, (a, b) => {
+      return symbolMap[b];
+    });
+    concealments.push({ start: match.index, end: match.index + match[0].length, replacement, class: "cm-number", elementType });
+  }
+  return concealments;
+}
+function concealModified_A_to_Z_0_to_9(eqn, mathBBsymbolMap) {
+  const regexStr = "\\\\(mathbf|boldsymbol|underline|mathrm|text|mathbb){([A-Za-z0-9 ]+)}";
+  const regex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(regex)];
+  const concealments = [];
+  for (const match of matches) {
+    const type = match[1];
+    const value = match[2];
+    const start2 = match.index;
+    const end2 = start2 + match[0].length;
+    if (type === "mathbf" || type === "boldsymbol") {
+      concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-bold" });
+    } else if (type === "underline") {
+      concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-underline" });
+    } else if (type === "mathrm") {
+      concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-mathrm" });
+    } else if (type === "text") {
+      if (start2 > 0 && eqn.charAt(start2 - 1) === "_") {
+        concealments.push({ start: start2 - 1, end: end2, replacement: value, class: "cm-concealed-mathrm", elementType: "sub" });
+      }
+    } else if (type === "mathbb") {
+      const letters = Array.from(value);
+      const replacement = letters.map((el) => mathBBsymbolMap[el]).join("");
+      concealments.push({ start: start2, end: end2, replacement });
+    }
+  }
+  return concealments;
+}
+function concealModifiedGreekLetters(eqn, greekSymbolMap) {
+  const greekSymbolNames = Object.keys(greekSymbolMap);
+  const regexStr = "\\\\(underline|boldsymbol){\\\\(" + escapeRegex(greekSymbolNames.join("|")) + ")}";
+  const regex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(regex)];
+  const concealments = [];
+  for (const match of matches) {
+    const type = match[1];
+    const value = match[2];
+    const start2 = match.index;
+    const end2 = start2 + match[0].length;
+    if (type === "underline") {
+      concealments.push({ start: start2, end: end2, replacement: greekSymbolMap[value], class: "cm-concealed-underline" });
+    } else if (type === "boldsymbol") {
+      concealments.push({ start: start2, end: end2, replacement: greekSymbolMap[value], class: "cm-concealed-bold" });
+    }
+  }
+  return concealments;
+}
+function concealText(eqn) {
+  const regexStr = "\\\\text{([A-Za-z0-9-.!?() ]+)}";
+  const regex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(regex)];
+  const concealments = [];
+  for (const match of matches) {
+    const value = match[1];
+    const start2 = match.index;
+    const end2 = start2 + match[0].length;
+    concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-mathrm cm-variable-2" });
+  }
+  return concealments;
+}
+function concealOperators(eqn, symbols) {
+  const regexStr = "(\\\\(" + symbols.join("|") + "))([^a-zA-Z]|$)";
+  const regex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(regex)];
+  const concealments = [];
+  for (const match of matches) {
+    const value = match[2];
+    const start2 = match.index;
+    const end2 = getEndIncludingLimits(eqn, start2 + match[1].length);
+    concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-mathrm cm-variable-2" });
+  }
+  return concealments;
+}
+function concealAtoZ(eqn, prefix, suffix, symbolMap, className) {
+  const regexStr = prefix + "([A-Z]+)" + suffix;
+  const symbolRegex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(symbolRegex)];
+  const concealments = [];
+  for (const match of matches) {
+    const symbol = match[1];
+    const letters = Array.from(symbol);
+    const replacement = letters.map((el) => symbolMap[el]).join("");
+    concealments.push({ start: match.index, end: match.index + match[0].length, replacement, class: className });
+  }
+  return concealments;
+}
+function concealBraKet(eqn, selection, eqnStartBound, mousedown) {
+  const langle = "\u3008";
+  const rangle = "\u3009";
+  const vert = "|";
+  const regexStr = "\\\\(braket|bra|ket){";
+  const symbolRegex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(symbolRegex)];
+  const concealments = [];
+  for (const match of matches) {
+    const loc = match.index + match[0].length;
+    const j = findMatchingBracket(eqn, loc - 1, "{", "}", false);
+    if (j === -1)
+      continue;
+    const start2 = match.index;
+    const end2 = start2 + match[0].length;
+    if (!mousedown) {
+      if (selectionAndRangeOverlap(selection, eqnStartBound + start2, eqnStartBound + end2))
+        continue;
+      if (selectionAndRangeOverlap(selection, eqnStartBound + j, eqnStartBound + j + 1))
+        continue;
+    }
+    const type = match[1];
+    const left2 = type === "ket" ? vert : langle;
+    const right2 = type === "bra" ? vert : rangle;
+    concealments.push({ start: start2, end: end2 - 1, replacement: "" });
+    concealments.push({ start: end2 - 1, end: end2, replacement: left2, class: "cm-bracket" });
+    concealments.push({ start: j, end: j + 1, replacement: right2, class: "cm-bracket" });
+  }
+  return concealments;
+}
+function concealSet(eqn, selection, eqnStartBound, mousedown) {
+  const setRegex = /\\set\{/g;
+  const matches = [...eqn.matchAll(setRegex)];
+  const concealments = [];
+  for (const match of matches) {
+    const start2 = match.index;
+    const end2 = start2 + match[0].length;
+    const loc = match.index + match[0].length;
+    const j = findMatchingBracket(eqn, loc - 1, "{", "}", false);
+    if (j === -1) {
+      continue;
+    }
+    if (!mousedown) {
+      if (selectionAndRangeOverlap(selection, eqnStartBound + start2, eqnStartBound + end2)) {
+        continue;
+      }
+      if (selectionAndRangeOverlap(selection, eqnStartBound + j, eqnStartBound + j + 1)) {
+        continue;
+      }
+    }
+    concealments.push({ start: start2, end: end2 - 1, replacement: "" });
+    concealments.push({ start: end2 - 1, end: end2, replacement: "{", class: "cm-bracket" });
+    concealments.push({ start: j, end: j + 1, replacement: "}", class: "cm-bracket" });
+  }
+  return concealments;
+}
+function concealFraction(eqn, selection, eqnStartBound, mousedown) {
+  const regexStr = "\\\\(frac){";
+  const symbolRegex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(symbolRegex)];
+  const concealments = [];
+  for (const match of matches) {
+    const loc = match.index + match[0].length;
+    const j = findMatchingBracket(eqn, loc - 1, "{", "}", false);
+    if (j === -1)
+      continue;
+    const charAfterFirstBracket = eqn.charAt(j + 1);
+    if (charAfterFirstBracket != "{")
+      continue;
+    const k = findMatchingBracket(eqn, j + 1, "{", "}", false);
+    if (k === -1)
+      continue;
+    const start2 = match.index;
+    const end2 = start2 + match[0].length;
+    if (!mousedown) {
+      if (selectionAndRangeOverlap(selection, eqnStartBound + start2, eqnStartBound + end2))
+        continue;
+      if (selectionAndRangeOverlap(selection, eqnStartBound + j, eqnStartBound + j + 2))
+        continue;
+      if (selectionAndRangeOverlap(selection, eqnStartBound + k, eqnStartBound + k + 1))
+        continue;
+    }
+    concealments.push({ start: start2, end: end2 - 1, replacement: "" });
+    concealments.push({ start: end2 - 1, end: end2, replacement: "(", class: "cm-bracket" });
+    concealments.push({ start: j, end: j + 1, replacement: ")", class: "cm-bracket" });
+    concealments.push({ start: j + 1, end: j + 1, replacement: "/", class: "cm-bracket" });
+    concealments.push({ start: j + 1, end: j + 2, replacement: "(", class: "cm-bracket" });
+    concealments.push({ start: k, end: k + 1, replacement: ")", class: "cm-bracket" });
+  }
+  return concealments;
+}
+function conceal(view) {
+  var _a;
+  const widgets = [];
+  const selection = view.state.selection;
+  const mousedown = (_a = view.plugin(import_obsidian6.livePreviewState)) == null ? void 0 : _a.mousedown;
+  for (const { from, to } of view.visibleRanges) {
+    (0, import_language5.syntaxTree)(view.state).iterate({
+      from,
+      to,
+      enter: (node) => {
+        const type = node.type;
+        const to2 = node.to;
+        if (!(type.name.contains("begin") && type.name.contains("math"))) {
+          return;
+        }
+        const bounds = getEquationBounds(view.state, to2);
+        if (!bounds)
+          return;
+        const eqn = view.state.doc.sliceString(bounds.start, bounds.end);
+        const ALL_SYMBOLS = __spreadValues(__spreadValues({}, greek), cmd_symbols);
+        const concealments = [
+          ...concealSymbols(eqn, "\\^", "", map_super),
+          ...concealSymbols(eqn, "_", "", map_sub),
+          ...concealSymbols(eqn, "\\\\frac", "", fractions),
+          ...concealSymbols(eqn, "\\\\", "", ALL_SYMBOLS, void 0, false),
+          ...concealSupSub(eqn, true, ALL_SYMBOLS),
+          ...concealSupSub(eqn, false, ALL_SYMBOLS),
+          ...concealModifier(eqn, "hat", "\u0302"),
+          ...concealModifier(eqn, "dot", "\u0307"),
+          ...concealModifier(eqn, "ddot", "\u0308"),
+          ...concealModifier(eqn, "overline", "\u0304"),
+          ...concealModifier(eqn, "bar", "\u0304"),
+          ...concealModifier(eqn, "tilde", "\u0303"),
+          ...concealModifier(eqn, "vec", "\u20D7"),
+          ...concealSymbols(eqn, "\\\\", "", brackets, "cm-bracket"),
+          ...concealAtoZ(eqn, "\\\\mathcal{", "}", mathscrcal),
+          ...concealModifiedGreekLetters(eqn, greek),
+          ...concealModified_A_to_Z_0_to_9(eqn, mathbb),
+          ...concealText(eqn),
+          ...concealBraKet(eqn, selection, bounds.start, mousedown),
+          ...concealSet(eqn, selection, bounds.start, mousedown),
+          ...concealFraction(eqn, selection, bounds.start, mousedown),
+          ...concealOperators(eqn, operators)
+        ];
+        for (const concealment of concealments) {
+          const start2 = bounds.start + concealment.start;
+          const end2 = bounds.start + concealment.end;
+          const symbol = concealment.replacement;
+          let inclusiveStart = false;
+          let inclusiveEnd = false;
+          if (symbol === "") {
+            inclusiveStart = true;
+          }
+          if (!mousedown && selectionAndRangeOverlap(selection, start2, end2))
+            continue;
+          if (start2 === end2) {
+            widgets.push(import_view10.Decoration.widget({
+              widget: new TextWidget(symbol),
+              block: false
+            }).range(start2, end2));
+          } else {
+            widgets.push(import_view10.Decoration.replace({
+              widget: new ConcealWidget(symbol, concealment.class, concealment.elementType),
+              inclusiveStart,
+              inclusiveEnd,
+              block: false
+            }).range(start2, end2));
+          }
+        }
+      }
+    });
+  }
+  return import_view10.Decoration.set(widgets, true);
+}
+var concealPlugin = import_view10.ViewPlugin.fromClass(class {
+  constructor(view) {
+    this.decorations = conceal(view);
+  }
+  update(update) {
+    if (update.docChanged || update.viewportChanged || update.selectionSet)
+      this.decorations = conceal(update.view);
+  }
+}, { decorations: (v) => v.decorations });
+
+// src/editor_extensions/highlight_brackets.ts
+var import_view11 = __toModule(require("@codemirror/view"));
+var import_state11 = __toModule(require("@codemirror/state"));
+var import_language6 = __toModule(require("@codemirror/language"));
+var Ncolors = 3;
+function getHighlightBracketMark(pos, className) {
+  return import_view11.Decoration.mark({
+    inclusive: true,
+    attributes: {},
+    class: className
+  }).range(pos, pos + 1);
+}
+function colorPairedBrackets(view) {
+  const widgets = [];
+  for (const { from, to } of view.visibleRanges) {
+    (0, import_language6.syntaxTree)(view.state).iterate({
+      from,
+      to,
+      enter: (node) => {
+        const type = node.type;
+        const to2 = node.to;
+        if (!(type.name.contains("begin") && type.name.contains("math"))) {
+          return;
+        }
+        const bounds = getEquationBounds(view.state, to2);
+        if (!bounds)
+          return;
+        const eqn = view.state.doc.sliceString(bounds.start, bounds.end);
+        const openBrackets = ["{", "[", "("];
+        const closeBrackets2 = ["}", "]", ")"];
+        const bracketsStack = [];
+        const bracketsPosStack = [];
+        for (let i = 0; i < eqn.length; i++) {
+          const char = eqn.charAt(i);
+          if (openBrackets.contains(char)) {
+            bracketsStack.push(char);
+            bracketsPosStack.push(i);
+          } else if (closeBrackets2.contains(char)) {
+            const lastBracket = bracketsStack.at(-1);
+            if (getCloseBracket(lastBracket) === char) {
+              bracketsStack.pop();
+              const lastBracketPos = bracketsPosStack.pop();
+              const depth = bracketsStack.length % Ncolors;
+              const className = "latex-suite-color-bracket-" + depth;
+              const j = lastBracketPos + bounds.start;
+              const k = i + bounds.start;
+              widgets.push(getHighlightBracketMark(j, className));
+              widgets.push(getHighlightBracketMark(k, className));
+            }
+          }
+        }
+      }
+    });
+  }
+  return import_view11.Decoration.set(widgets, true);
+}
+function getEnclosingBracketsPos(view, pos) {
+  const result = getEquationBounds(view.state);
+  if (!result)
+    return -1;
+  const { start: start2, end: end2 } = result;
+  const text = view.state.doc.sliceString(start2, end2);
+  for (let i = pos - start2; i > 0; i--) {
+    let curChar = text.charAt(i);
+    if ([")", "]", "}"].contains(curChar)) {
+      const closeBracket = curChar;
+      const openBracket = getOpenBracket(closeBracket);
+      const j = findMatchingBracket(text, i, openBracket, closeBracket, true);
+      if (j === -1)
+        return -1;
+      i = j;
+      curChar = text.charAt(i);
+    } else {
+      if (!["{", "(", "["].contains(curChar))
+        continue;
+      const j = findMatchingBracket(text, i, curChar, getCloseBracket(curChar), false);
+      if (j === -1)
+        continue;
+      return { left: i + start2, right: j + start2 };
+    }
+  }
+  return -1;
+}
+function highlightCursorBrackets(view) {
+  const widgets = [];
+  const selection = view.state.selection;
+  const ranges = selection.ranges;
+  const text = view.state.doc.toString();
+  const ctx = Context.fromView(view);
+  if (!ctx.mode.inMath()) {
+    return import_view11.Decoration.none;
+  }
+  const bounds = ctx.getBounds(selection.main.to);
+  if (!bounds)
+    return import_view11.Decoration.none;
+  const eqn = view.state.doc.sliceString(bounds.start, bounds.end);
+  const openBrackets = ["{", "[", "("];
+  const brackets2 = ["{", "[", "(", "}", "]", ")"];
+  let done = false;
+  for (const range of ranges) {
+    for (let i = range.to; i > range.from - 2; i--) {
+      const char = text.charAt(i);
+      if (!brackets2.contains(char))
+        continue;
+      let openBracket, closeBracket;
+      let backwards = false;
+      if (openBrackets.contains(char)) {
+        openBracket = char;
+        closeBracket = getCloseBracket(openBracket);
+      } else {
+        closeBracket = char;
+        openBracket = getOpenBracket(char);
+        backwards = true;
+      }
+      let j = findMatchingBracket(eqn, i - bounds.start, openBracket, closeBracket, backwards);
+      if (j === -1)
+        continue;
+      j = j + bounds.start;
+      widgets.push(getHighlightBracketMark(i, "latex-suite-highlighted-bracket"));
+      widgets.push(getHighlightBracketMark(j, "latex-suite-highlighted-bracket"));
+      done = true;
+      break;
+    }
+    if (done)
+      break;
+    if (range.empty) {
+      const pos = range.from - 1;
+      const result = getEnclosingBracketsPos(view, pos);
+      if (result === -1)
+        continue;
+      widgets.push(getHighlightBracketMark(result.left, "latex-suite-highlighted-bracket"));
+      widgets.push(getHighlightBracketMark(result.right, "latex-suite-highlighted-bracket"));
+      done = true;
+      break;
+    }
+    if (done)
+      break;
+  }
+  return import_view11.Decoration.set(widgets, true);
+}
+var colorPairedBracketsPlugin = import_view11.ViewPlugin.fromClass(class {
+  constructor(view) {
+    this.decorations = colorPairedBrackets(view);
+  }
+  update(update) {
+    if (update.docChanged || update.viewportChanged) {
+      this.decorations = colorPairedBrackets(update.view);
+    }
+  }
+}, { decorations: (v) => v.decorations });
+var colorPairedBracketsPluginLowestPrec = import_state11.Prec.lowest(colorPairedBracketsPlugin.extension);
+var highlightCursorBracketsPlugin = import_view11.ViewPlugin.fromClass(class {
+  constructor(view) {
+    this.decorations = highlightCursorBrackets(view);
+  }
+  update(update) {
+    if (update.docChanged || update.selectionSet)
+      this.decorations = highlightCursorBrackets(update.view);
+  }
+}, { decorations: (v) => v.decorations });
+
+// src/editor_extensions/math_tooltip.ts
+var import_view12 = __toModule(require("@codemirror/view"));
+var import_state12 = __toModule(require("@codemirror/state"));
+var import_obsidian7 = __toModule(require("obsidian"));
+var cursorTooltipField = import_state12.StateField.define({
+  create: getCursorTooltips,
+  update(tooltips2, tr) {
+    if (!tr.docChanged && !tr.selection)
+      return tooltips2;
+    return getCursorTooltips(tr.state);
+  },
+  provide: (f) => import_view12.showTooltip.computeN([f], (state) => state.field(f))
+});
+function getCursorTooltips(state) {
+  const ctx = Context.fromState(state);
+  if (!ctx.mode.inMath()) {
+    return [];
+  }
+  const isLivePreview = state.field(import_obsidian7.editorLivePreviewField);
+  if (ctx.mode.blockMath && isLivePreview)
+    return [];
+  const bounds = ctx.getBounds();
+  if (!bounds)
+    return [];
+  const eqn = state.sliceDoc(bounds.start, bounds.end);
+  if (eqn.trim() === "")
+    return [];
+  return [
+    {
+      pos: bounds.start,
+      above: true,
+      strictSide: true,
+      arrow: true,
+      create: () => {
+        const dom = document.createElement("div");
+        dom.className = "cm-tooltip-cursor";
+        const renderedEqn = (0, import_obsidian7.renderMath)(eqn, ctx.mode.blockMath || ctx.mode.codeMath);
+        dom.appendChild(renderedEqn);
+        (0, import_obsidian7.finishRenderMath)();
+        return { dom };
+      }
+    }
+  ];
+}
+var cursorTooltipBaseTheme = import_view12.EditorView.baseTheme({
+  ".cm-tooltip.cm-tooltip-cursor": {
+    backgroundColor: "var(--background-secondary)",
+    color: "var(--text-normal)",
+    border: "1px solid var(--background-modifier-border-hover)",
+    padding: "4px 6px",
+    borderRadius: "6px",
+    "& .cm-tooltip-arrow:before": {
+      borderTopColor: "var(--background-modifier-border-hover)"
+    },
+    "& .cm-tooltip-arrow:after": {
+      borderTopColor: "var(--background-secondary)"
+    },
+    "& p": {
+      margin: "0px"
+    },
+    "& mjx-container": {
+      padding: "2px !important"
+    }
+  }
+});
+
+// src/latex_suite.ts
+var handleUpdate = (update) => {
+  const cursorTriggeredByChange = update.state.field(cursorTriggerStateField, false);
+  if (update.selectionSet) {
+    if (!cursorTriggeredByChange) {
+      if (!isInsideATabstop(update.view)) {
+        removeAllTabstops(update.view);
+      }
+    }
+  }
+  handleUndoRedo(update);
+};
+var onKeydown = (event, view) => {
+  const success = handleKeydown(event.key, event.shiftKey, event.ctrlKey || event.metaKey, view);
+  if (success)
+    event.preventDefault();
+};
+var handleKeydown = (key, shiftKey, ctrlKey, view) => {
+  const settings = getLatexSuiteConfig(view);
+  const ctx = Context.fromView(view);
+  let success = false;
+  if (settings.snippetsEnabled) {
+    if (!ctrlKey) {
+      try {
+        success = runSnippets(view, ctx, key);
+        if (success)
+          return true;
+      } catch (e) {
+        clearSnippetQueue(view);
+        console.error(e);
+      }
+    }
+  }
+  const taboutByCloseBracket = shouldTaboutByCloseBracket(view, key);
+  if (key === "Tab" || taboutByCloseBracket) {
+    success = handleTabstops(view);
+    if (success)
+      return true;
+  }
+  if (settings.autofractionEnabled && ctx.mode.strictlyInMath()) {
+    if (key === "/") {
+      success = runAutoFraction(view, ctx);
+      if (success)
+        return true;
+    }
+  }
+  if (settings.matrixShortcutsEnabled && ctx.mode.blockMath) {
+    if (["Tab", "Enter"].contains(key)) {
+      success = runMatrixShortcuts(view, ctx, key, shiftKey);
+      if (success)
+        return true;
+    }
+  }
+  if (settings.taboutEnabled) {
+    if (key === "Tab") {
+      success = tabout(view, ctx);
+      if (success)
+        return true;
+    }
+  }
+  tidyTabstops(view);
+  return false;
+};
+var handleTabstops = (view) => {
+  const success = consumeAndGotoNextTabstop(view);
+  return success;
+};
+var latexSuiteExtensions = (settings) => [
+  getLatexSuiteConfigExtension(settings),
+  import_state13.Prec.highest(import_view13.EditorView.domEventHandlers({ "keydown": onKeydown })),
+  import_view13.EditorView.updateListener.of(handleUpdate),
+  snippetExtensions
+];
+var optionalExtensions = {
+  "conceal": [concealPlugin.extension],
+  "colorPairedBrackets": [colorPairedBracketsPluginLowestPrec],
+  "highlightCursorBrackets": [highlightCursorBracketsPlugin.extension],
+  "mathPreview": [cursorTooltipField.extension, cursorTooltipBaseTheme, (0, import_view13.tooltips)({ position: "absolute" })]
+};
+
 // src/main.ts
 var LatexSuitePlugin = class extends import_obsidian8.Plugin {
   constructor() {
     super(...arguments);
-    this.cursorTriggeredByChange = false;
     this.editorExtensions = [];
-    this.handleUpdate = (update) => {
-      if (update.docChanged) {
-        this.handleDocChange();
-      }
-      if (update.selectionSet) {
-        const pos = update.state.selection.main.head;
-        this.handleCursorActivity(update.view, pos);
-      }
-      handleUndoRedo(update);
-    };
-    this.handleDocChange = () => {
-      this.cursorTriggeredByChange = true;
-    };
-    this.handleCursorActivity = (view, pos) => {
-      if (this.cursorTriggeredByChange) {
-        this.cursorTriggeredByChange = false;
-        return;
-      }
-      if (!isInsideATabstop(pos, view) || isInsideLastTabstop(view)) {
-        removeAllTabstops(view);
-      }
-    };
-    this.addEditorCommands = () => {
-      for (const command of getEditorCommands(this)) {
-        this.addCommand(command);
-      }
-    };
-    this.onKeydown = (event, view) => {
-      const success = this.handleKeydown(event.key, event.shiftKey, event.ctrlKey || event.metaKey, view);
-      if (success)
-        event.preventDefault();
-    };
-    this.handleKeydown = (key, shiftKey, ctrlKey, view) => {
-      const s = view.state.selection;
-      const pos = s.main.to;
-      const ranges = Array.from(s.ranges).reverse();
-      const withinEquation = isWithinEquation(view.state);
-      let withinMath = false;
-      if (withinEquation)
-        withinMath = !(isInsideEnvironment(view, pos, { openSymbol: "\\text{", closeSymbol: "}" }) || isInsideEnvironment(view, pos, { openSymbol: "\\tag{", closeSymbol: "}" }));
-      let success = false;
-      if (this.settings.snippetsEnabled) {
-        if (!ctrlKey) {
-          try {
-            success = runSnippets(view, key, withinMath, ranges, this);
-            if (success)
-              return true;
-          } catch (e) {
-            clearSnippetQueue(view);
-            console.error(e);
-          }
-        }
-      }
-      const taboutByCloseBracket = shouldTaboutByCloseBracket(view, key);
-      if (key === "Tab" || taboutByCloseBracket) {
-        success = this.handleTabstops(view);
-        if (success)
-          return true;
-      }
-      if (this.settings.autofractionEnabled && withinMath) {
-        if (key === "/") {
-          success = runAutoFraction(view, ranges, this);
-          if (success)
-            return true;
-        }
-      }
-      if (this.settings.matrixShortcutsEnabled && withinMath) {
-        if (["Tab", "Enter"].contains(key)) {
-          success = runMatrixShortcuts(view, key, shiftKey, pos, this.matrixShortcutsEnvNames);
-          if (success)
-            return true;
-        }
-      }
-      if (this.settings.taboutEnabled) {
-        if (key === "Tab") {
-          success = tabout(view, withinEquation);
-          if (success)
-            return true;
-        }
-      }
-      return false;
-    };
-    this.handleTabstops = (view) => {
-      const success = consumeAndGotoNextTabstop(view);
-      return success;
-    };
   }
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
+      this.loadIcons();
       this.addSettingTab(new LatexSuiteSettingTab(this.app, this));
+      (0, import_obsidian8.loadMathJax)();
       this.legacyEditorWarning();
-      this.registerEditorExtension(import_state11.Prec.highest(import_view10.EditorView.domEventHandlers({
-        "keydown": this.onKeydown
-      })));
-      this.registerEditorExtension([markerStateField, tabstopsStateField, snippetQueueStateField, snippetInvertedEffects]);
-      this.registerEditorExtension(import_view10.EditorView.updateListener.of(this.handleUpdate));
-      this.registerEditorExtension((0, import_view10.tooltips)({ position: "absolute" }));
       this.registerEditorExtension(this.editorExtensions);
-      this.registerEvent(this.app.vault.on("modify", (file) => onFileChange(this, file)));
-      this.registerEvent(this.app.vault.on("delete", (file) => onFileDelete(this, file)));
-      this.registerEvent(this.app.vault.on("create", (file) => onFileCreate(this, file)));
+      this.watchSnippetFiles();
       this.addEditorCommands();
     });
   }
@@ -8759,54 +8426,110 @@ var LatexSuitePlugin = class extends import_obsidian8.Plugin {
       return;
     }
   }
-  enableExtension(extension) {
-    this.editorExtensions.push(extension);
-    this.app.workspace.updateOptions();
-  }
-  disableExtension(extension) {
-    this.editorExtensions.remove(extension);
-    this.app.workspace.updateOptions();
-  }
   loadSettings() {
     return __async(this, null, function* () {
-      this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
+      let data = yield this.loadData();
+      const shouldMigrateSettings = data ? "basicSettings" in data : false;
+      function migrateSettings(oldSettings) {
+        return __spreadProps(__spreadValues(__spreadValues({}, oldSettings.basicSettings), oldSettings.rawSettings), {
+          snippets: oldSettings.snippets
+        });
+      }
+      if (shouldMigrateSettings) {
+        data = migrateSettings(data);
+      }
+      this.settings = Object.assign({}, DEFAULT_SETTINGS, data);
+      if (shouldMigrateSettings) {
+        this.saveSettings();
+      }
       if (this.settings.loadSnippetsFromFile) {
+        const tempSnippetVariables = getSnippetVariables(this.settings.snippetVariables);
+        let tempSnippets = [];
+        try {
+          tempSnippets = yield parseSnippets(this.settings.snippets, tempSnippetVariables);
+        } catch (e) {
+          new import_obsidian8.Notice(`Failed to load snippets:
+${e}`);
+          console.log("Failed to load snippets:\n", e);
+        }
+        this.CMSettings = processLatexSuiteSettings(tempSnippets, this.settings);
         this.app.workspace.onLayoutReady(() => {
-          debouncedSetSnippetsFromFileOrFolder(this);
+          this.processSettings();
         });
       } else {
-        this.setSnippets(this.settings.snippets);
-      }
-      this.setAutofractionExcludedEnvs(this.settings.autofractionExcludedEnvs);
-      this.matrixShortcutsEnvNames = this.settings.matrixShortcutsEnvNames.replace(/\s/g, "").split(",");
-      this.autoEnlargeBracketsTriggers = this.settings.autoEnlargeBracketsTriggers.replace(/\s/g, "").split(",");
-      if (this.settings.concealEnabled)
-        this.enableExtension(concealPlugin.extension);
-      if (this.settings.colorPairedBracketsEnabled)
-        this.enableExtension(colorPairedBracketsPluginLowestPrec);
-      if (this.settings.highlightCursorBracketsEnabled)
-        this.enableExtension(highlightCursorBracketsPlugin.extension);
-      if (this.settings.mathPreviewEnabled) {
-        this.enableExtension(cursorTooltipField);
-        this.enableExtension(cursorTooltipBaseTheme);
+        yield this.processSettings();
       }
     });
   }
   saveSettings() {
     return __async(this, null, function* () {
       yield this.saveData(this.settings);
+      this.processSettings();
     });
   }
-  setSnippets(snippetsStr) {
-    const snippets2 = getSnippetsFromString(snippetsStr);
-    sortSnippets(snippets2);
-    this.snippets = snippets2;
-  }
-  setAutofractionExcludedEnvs(envsStr) {
-    const envsJSON = JSON.parse(envsStr);
-    const envs = envsJSON.map(function(env) {
-      return { openSymbol: env[0], closeSymbol: env[1] };
+  getSnippets() {
+    return __async(this, null, function* () {
+      const snippetVariables = getSnippetVariables(this.settings.snippetVariables);
+      if (!this.settings.loadSnippetsFromFile) {
+        let snippets2 = [];
+        try {
+          snippets2 = yield parseSnippets(this.settings.snippets, snippetVariables);
+        } catch (e) {
+          new import_obsidian8.Notice("Failed to load snippets from settings");
+          console.log("Failed to load snippets from settings:", e);
+        }
+        return snippets2;
+      } else {
+        const snippets2 = yield getSnippetsWithinFileOrFolder(this.app.vault, this.settings.snippetsFileLocation, snippetVariables);
+        return snippets2;
+      }
     });
-    this.autofractionExcludedEnvs = envs;
+  }
+  processSettings() {
+    return __async(this, null, function* () {
+      this.CMSettings = processLatexSuiteSettings(yield this.getSnippets(), this.settings);
+      this.reconfigureLatexSuiteConfig();
+      this.refreshCMExtensions();
+    });
+  }
+  reconfigureLatexSuiteConfig() {
+    iterateCM6(this.app.workspace, (view) => {
+      view.dispatch({
+        effects: reconfigureLatexSuiteConfig(this.CMSettings)
+      });
+    });
+  }
+  refreshCMExtensions() {
+    while (this.editorExtensions.length)
+      this.editorExtensions.pop();
+    this.editorExtensions.push(latexSuiteExtensions(this.CMSettings));
+    const extensionDict = optionalExtensions;
+    const features = Object.keys(optionalExtensions);
+    for (const feature of features) {
+      if (this.CMSettings[feature + "Enabled"]) {
+        this.editorExtensions.push(extensionDict[feature]);
+      }
+    }
+    this.app.workspace.updateOptions();
+  }
+  addEditorCommands() {
+    for (const command of getEditorCommands(this)) {
+      this.addCommand(command);
+    }
+  }
+  watchSnippetFiles() {
+    const eventsAndCallbacks = {
+      "modify": onFileChange,
+      "delete": onFileDelete,
+      "create": onFileCreate
+    };
+    for (const [key, value] of Object.entries(eventsAndCallbacks)) {
+      this.registerEvent(this.app.vault.on(key, (file) => value(this, file)));
+    }
+  }
+  loadIcons() {
+    for (const [iconId, svgContent] of Object.entries(ICONS)) {
+      (0, import_obsidian8.addIcon)(iconId, svgContent);
+    }
   }
 };

@@ -1,52 +1,66 @@
 /* Settings panel */
 
-.snippets-text-area {
-    width: 100%;
-    display: inline-block;
-}
-
-
-.hidden {
+.setting-item.hidden {
     display: none;
 }
 
-
-.snippets-text-area .setting-item-info {
-    margin-bottom: 0.75rem;
+.setting-item.setting-item-heading .latex-suite-settings-icon {
+    margin-right: var(--size-4-2);
+    display: inline-flex;
 }
 
+.setting-item.setting-item-heading:has(.latex-suite-settings-icon) {
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.setting-item.setting-item-heading:has(.latex-suite-settings-icon) + .setting-item {
+    border-top: none;
+}
+
+.setting-item.setting-item-heading:has(.latex-suite-settings-icon) ~ .setting-item:not(.setting-item-heading), .latex-suite-snippet-variables-setting + .setting-item-control {
+    width: calc(100% - 26px);
+    margin-left: 26px;
+}
+
+.latex-suite-snippet-variables-setting .setting-item-control {
+    height: 120px;
+}
+
+.latex-suite-snippet-variables-setting .setting-item-control textarea {
+    width: 100%;
+    height: 100%;
+}
+
+.snippets-text-area, .latex-suite-snippet-variables-setting {
+    display: inline-block;
+}
+
+.snippets-text-area .setting-item-info, .latex-suite-snippet-variables-setting .setting-item-info {
+    margin-bottom: 0.75rem;
+}
 
 .snippets-text-area .setting-item-control {
     flex-direction: column;
     align-items: flex-end;
 }
 
-
 .snippets-editor-wrapper {
     width: 100%;
     margin-bottom: 0.75rem;
 }
 
-
 .snippets-editor-wrapper .cm-editor {
-    height: 20em;
-    font-size: var(--font-inputs);
-    text-align: left;
-    outline: none !important;
-
     border: 1px solid var(--background-modifier-border);
-}
-
-
-.snippets-editor-wrapper .cm-editor, .cm-scroller {
     border-radius: 4px;
+    font-size: var(--font-inputs);
+    height: 20em;
+    outline: none !important;
+    text-align: left;
 }
-
 
 .snippets-editor-wrapper .cm-line, .snippets-editor-wrapper .cm-lineNumbers {
     font-family: var(--font-monospace);
 }
-
 
 .snippets-footer {
     width: 100%;
@@ -55,67 +69,50 @@
     justify-content: space-between;
 }
 
-
 .snippets-editor-validity {
     display: flex;
     align-items: center;
 }
 
-
 .snippets-editor-validity-indicator {
     color: white;
     display: inline-block;
     border-radius: 1em;
-    margin-right: var(--size-3);
+    margin-right: 10px;
     cursor: default;
     visibility: hidden;
 }
-
 
 .snippets-editor-validity-indicator svg {
     width: 16px !important;
     height: 16px !important;
 }
 
-
 .snippets-editor-validity-indicator:hover {
     color: white;
 }
-
 
 .snippets-editor-validity-indicator.valid {
     background-color: #7dc535;
     visibility: visible;
 }
 
-
 .theme-dark .snippets-editor-validity-indicator.valid {
     background-color: #588b24;
 }
-
 
 .snippets-editor-validity-indicator.invalid {
     background-color: #ea5555;
     visibility: visible;
 }
 
-
-
 .snippets-editor-buttons {
     display: flex;
     flex-direction: row;
 }
 
-
-
 .latex-suite-confirmation-modal .setting-item {
     border: none;
-}
-
-
-.latex-suite-suggestion-placeholder {
-    border-width: 1px 0 1px 0;
-    border-style: solid;
 }
 
 
@@ -123,62 +120,39 @@
 Snippet color classes.
 */
 
-.latex-suite-suggestion-placeholder0 {
-    border-color: lightskyblue;
-}
-
 /* These extra selectors enforce their color on all children, because CodeMirror does weird nesting of spans when
 nesting multiple decorations. */
 
-span.latex-suite-suggestion-placeholder0 span {
+.latex-suite-snippet-placeholder {
+    border-width: 1px 0 1px 0;
+    border-style: solid;
+}
+
+.latex-suite-snippet-placeholder-0, span.latex-suite-snippet-placeholder-0 span {
     border-color: lightskyblue;
 }
 
-.latex-suite-suggestion-placeholder1 {
+.latex-suite-snippet-placeholder-1, span.latex-suite-snippet-placeholder-1 span {
     border-color: orange;
 }
 
-span.latex-suite-suggestion-placeholder1 span {
-    border-color: orange;
-}
-
-.latex-suite-suggestion-placeholder2 {
+.latex-suite-snippet-placeholder-2, span.latex-suite-snippet-placeholder-2 span {
     border-color: lime;
 }
 
-span.latex-suite-suggestion-placeholder2 span {
-    border-color: lime;
-}
-
-.latex-suite-suggestion-placeholder3 {
+.latex-suite-snippet-placeholder-3, span.latex-suite-snippet-placeholder-3 span {
     border-color: pink;
 }
 
-span.latex-suite-suggestion-placeholder3 span {
-    border-color: pink;
-}
-
-.latex-suite-suggestion-placeholder4 {
+.latex-suite-snippet-placeholder-4, span.latex-suite-snippet-placeholder-4 span {
     border-color: cornsilk;
 }
 
-span.latex-suite-suggestion-placeholder4 span {
-    border-color: cornsilk;
-}
-
-.latex-suite-suggestion-placeholder5 {
+.latex-suite-snippet-placeholder-5, span.latex-suite-snippet-placeholder-5 span {
     border-color: magenta;
 }
 
-span.latex-suite-suggestion-placeholder5 span {
-    border-color: magenta;
-}
-
-.latex-suite-suggestion-placeholder6 {
-    border-color: navajowhite;
-}
-
-span.latex-suite-suggestion-placeholder6 span {
+.latex-suite-snippet-placeholder-6, span.latex-suite-snippet-placeholder-6 span {
     border-color: navajowhite;
 }
 
