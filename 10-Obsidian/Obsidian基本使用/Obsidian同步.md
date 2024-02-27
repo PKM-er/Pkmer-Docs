@@ -17,7 +17,7 @@ modified: 20230607140423
 - 稳定，安全，全平台，价格贵，不折腾：Obsidian 官方同步
 - 稳定，安全，全平台，价格便宜，不折腾：Obsidian 官方同步合租
 - 稳定，安全，全平台，价格免费，折腾：Git 配合自建的仓库托管
-- 稳定，较安全，全平台，价格免费，较折腾：Git 配合 Github，Gitee 这样的第三方仓库托管，这里的较安全主要考虑到 Gitee，Github 有一定审核。但可以使用 git-crypt 进行加密处理。
+- 稳定，较安全，全平台，价格免费，较折腾：Git 配合 Github，Gitee 这样的第三方仓库托管，这里的较安全主要考虑到 Gitee，Github 有一定审核。但可以使用 [[加密与安全|git-crypt]] 进行加密处理。
 - 稳定，安全，非 IOS 平台，价格免费，不折腾：[[Syncthing]]
 - 稳定，安全，全平台，价格还行，较折腾：Obsidian 插件，Remotely Save，Obsidian liveSync，折腾的点在全平台同步，须配合其它软件使用
 - 较稳定，安全，非 Linux 平台，价格还行，不折腾：icloud，onedrive
