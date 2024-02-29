@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240201185622
+modified: 20240229233928
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -35,6 +35,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ## Obsidian CSS 主题自定义教程
 
 - [[如何给浅色模式和深色模式写不同的 css 样式]]
+
 ## CSS 修改优秀范例
 
 ### ICON
@@ -73,7 +74,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-完成任务时如何取消任务文本的删除线]]
 - [[Obsidian样式-借助CSS打造独立的大屏表格页面]]
 - [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
-- [[Obsidian样式-隐藏 markdown 标记（加粗、斜体、下划线）]]
+- [[Obsidian样式-隐藏 markdown 标记]]
 
 ### 列表&段落
 
@@ -145,7 +146,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ### 嵌入样式
 
-- [[Obsidian样式-简约的嵌入样式(Embed CSS)]]
+- [[Obsidian样式-简约的嵌入样式]]
 - [[Obsidian样式-修改悬浮预览框的大小]]
 
 ### 表格样式
@@ -195,7 +196,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
 - [[Obsidian样式-可滚动的Dataview表格视图]]
-- [[Lyrics插件样式-音乐播放界面美化]]
 
 #### Thino
 
@@ -207,7 +207,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 #### Kanban
 
-- [[Obsidian样式-看板样式(kanban)]]
+- [[Obsidian样式-看板样式]]
 
 ## 自定义 CSS 简单上手指南
 

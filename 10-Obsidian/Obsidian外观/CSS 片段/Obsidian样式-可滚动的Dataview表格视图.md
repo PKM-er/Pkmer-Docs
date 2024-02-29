@@ -1,16 +1,13 @@
 ---
 uid: 20231008182049
 title: Obsidian 样式：可滚动的 Dataview 查询结果
-tags:
-  - Obsidian
-  - dataview
-  - css
+tags: [Obsidian, dataview, css]
 description: 除了 limit，你还可以这样限制 dataview 的输出结果
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231204162044
+modified: 20240229233916
 ---
 
 # Obsidian 样式：可滚动的 Dataview 查询结果
