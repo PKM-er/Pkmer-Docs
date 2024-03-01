@@ -27,6 +27,7 @@ modified: 20240111113104
 - [[Quickadd脚本-一键在系统应用中打开图片编辑]]
 - [[QuickAdd脚本-插入Zotero的条目PDF链接]]
 - [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
+- [[Quickadd脚本-为深浅模式配置不同的主题]]
 - [[copy-selection-in-canvas]]
 
 ## 参考资料
