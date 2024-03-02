@@ -1,13 +1,17 @@
 ---
 uid: 20231109234602
 title: 分享至 Thino
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: 分享至 Thino
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
 modified: 20231109234602
+id: 300c9376cfb34bec
 ---
 
 # 分享至 Thino

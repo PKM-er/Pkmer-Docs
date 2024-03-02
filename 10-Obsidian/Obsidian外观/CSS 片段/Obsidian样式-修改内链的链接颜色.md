@@ -32,5 +32,5 @@ modified: 20230619201503
 .internal-link {
 	color:#eeab35 !important;
 }
-/*color: 后面可以防止你喜欢的颜色*/
+/*color: 后面可以放置你喜欢的颜色*/
 ```
