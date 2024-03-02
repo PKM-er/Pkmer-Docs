@@ -988,3 +988,59 @@ more tools - laser pointer，或快捷键 K
 鼠标悬停显示键位名称，我只更改了一个点击链接在新页面打开
 
 ![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202401022127014.png!pkmer)
+
+## 2.0.15-2.0.19 更新
+
+### 1. 图片切剪与蒙版
+
+选中图片，ctrl + p 打开命令面板，输入裁剪（英文版直接输入 crop 即可），选择裁剪与蒙版
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340613.png!pkmer)
+
+此时将在右侧打开另一个编辑框
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340614.png!pkmer)
+
+可以进行基本的裁切操作，完成后鼠标点击 excalidraw 页面等待刷新
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340615.png!pkmer)
+
+此外，你可以在蒙版页面添加图形遮罩和字体遮罩以达到部分透明的效果 (图形遮罩必须纯黑，字体则所有颜色都是透明效果)
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340616.png!pkmer)
+
+将黑色图形遮罩铺满，再添加一个白色图形遮罩，可以部分露出图片 (其他颜色有轻微色调变化)
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340617.png!pkmer)
+
+在这个基础上，你可以选取一些色彩艳丽的图片，黑色图形遮罩后，添加上白色文字，就形成了有设计感的彩色字体
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340618.png!pkmer)
+
+在 **看板** 中依然可以 `ctrl+p` 使用蒙版命令对图片进行修改
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340619.png!pkmer)
+
+### 2. pdf 剪切与蒙版
+
+在 excalidraw 中打开 pdf，在需要裁切的页面 `ctrl+p`，键入裁切与蒙版，打开蒙版页面中是对应 pdf 当前页的内容
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340620.png!pkmer)
+
+裁切需要的图形，会以 excalidraw 绘图文件形式出现在当前 pdf 右侧
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340621.png!pkmer)
+
+ctrl+ 左键点击，可以选择跳转到蒙版页面继续编辑，或者跳转到 pdf 的当前页
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340622.png!pkmer)
+
+你也可以在 md 文件中嵌入 pdf 页面链接,链接选取后 `ctrl+p-剪切与蒙版`来使用
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340623.png!pkmer)
+
+在 pdf 阅读器中直接选择文字信息右键复制到选取的链接，链接选取后 `ctrl+p-剪切与蒙版`来使用
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340625.png!pkmer)
+
+![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340626.png!pkmer)
