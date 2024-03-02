@@ -85,6 +85,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[fantasy-name]]：插入一个随机组合出来的人名
 - [[html-tabs]]：在笔记中创建和渲染选项卡和标签面板
 - [[slash-commander]]：定制 slash 命令列表。
+- [[vscode-editor]]：提供查看和编辑**各种代码文件**和代码块的功能
 
 ### 格式化
 
