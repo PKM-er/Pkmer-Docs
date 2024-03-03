@@ -30,6 +30,7 @@ modified: 20240111113104
 - [[QuickAdd脚本-利用Canvas平铺笔记]]
 - [[copy-selection-in-canvas]]
 - [[QuickAdd脚本-随机漫游笔记]]
+- [[Quickadd脚本-为深浅模式配置不同的主题]]
 
 ## 参考资料
 
@@ -173,7 +174,6 @@ module.exports = async (params) => {
 
 注：这里只有 utools 是全平台的，AutoHotkey 是 Windows 独占的开源软件，Alfred，Raycast 是 Mac 独占商业软件。
 
-
 ## 相关教程
 
 - [[Quickadd结合CSS实现挖空复习]]
@@ -181,7 +181,6 @@ module.exports = async (params) => {
 - [[Quickadd脚本-一键在系统应用中打开图片编辑]]
 - [[Quickadd脚本-控制自定义CSS-设置二维码字体]]
 - [[QuickAdd脚本-一键切换VimMode]]
-
 
 ## 视频教程
 
