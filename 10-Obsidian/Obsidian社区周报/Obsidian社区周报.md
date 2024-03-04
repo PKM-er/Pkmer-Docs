@@ -28,6 +28,8 @@ modified: 20240206171346
 - [[2024-01-13-ObsidianRoundup]]（试刊）
 - [[2024-01-06-ObsidianRoundup]]（试刊）
 - [[2023-12-30-ObsidianRoundup]]（试刊）
+- [[Obsidian1.5.3 更新说明|2023-12-26-Obsidian1.5.3 交互体验升级]]
+- [[2023-11-20-Obsidian迎来重大更新]]
 - [[2023-01-07-ObsidianRoundup]]
 - [[2023-01-14-ObsidianRoundup]]
 - [[2023-01-21-ObsidianRoundup]]

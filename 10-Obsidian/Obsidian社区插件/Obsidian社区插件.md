@@ -301,6 +301,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 	- [[自定义Excalidraw脚本-画板局部或者全局播放动画]]
 	- [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]]
 	- [[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
+	- [[自定义Excalidraw脚本-制作Excalidraw悬浮大纲以及一键生成线型笔记]]
+	- [[自定义Excalidraw脚本-修改MindMap Format设置思维导图Frame容器]]
 - [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
 
 ### 窗口&视图模式
@@ -328,6 +330,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-sidebar-toggler]]：Obsidian 侧边栏的更精细的控制。用于外部窗口管理器。
 - [[Tab-Switcher]]：使用 Ctrl + Tab 按最近使用的顺序切换选项卡，就像在浏览器中一样
 - [[Vertical-Tabs-View]]：供垂直选项卡视图选项卡可以排序，但更改不会与原始选项卡同步
+- [[home-tab]]：增强新建标签页的功能，在新建标签页增加搜索条。
 
 ### Property&Front-matter
 

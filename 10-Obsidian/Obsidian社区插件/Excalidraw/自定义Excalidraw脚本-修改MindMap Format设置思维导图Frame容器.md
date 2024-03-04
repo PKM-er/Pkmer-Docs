@@ -1,16 +1,13 @@
 ---
 uid: 20240303142629
 title: 自定义 Excalidraw 脚本 - 修改 MindMap Format 设置思维导图 Frame 容器
-tags:
-  - 思维导图
-  - MindMap
-  - Excalidraw脚本
+tags: [思维导图, MindMap, Excalidraw脚本]
 description: 修改 MindMap Format 设置思维导图 Frame 容器
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified:
+modified: 20240304093018
 ---
 
 # 自定义 Excalidraw 脚本 - 修改 MindMap Format 设置思维导图 Frame 容器

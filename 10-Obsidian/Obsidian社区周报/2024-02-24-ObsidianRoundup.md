@@ -1,13 +1,13 @@
 ---
 uid: 20240225171940
-title: Obsidian-Roundup  2024-02-25：你的下一个音视频播放器，何必非得是播放器？
+title: 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
 tags: [Roundup, Obsidian]
 description: Obsidian-Roundup 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
 author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240225171940
 ---
 
 # 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
@@ -330,8 +330,6 @@ modified:
 - Fixed UI abnormalities at the bottom of the list in the editor on mobile devices.
 - Fixed the issue where the pin status was not synchronized during previous synchronizations.
 - Fixed the issue where when saving a whiteboard or single file, filenames with extensions such as .thino. Canvas or .thino. Md were not saved; for example, entering "abcd" as the filename did not append .thino. Canvas or .thino. Md.
-
-
 
 #### Media Extended has been updated to version 3.0.2
 

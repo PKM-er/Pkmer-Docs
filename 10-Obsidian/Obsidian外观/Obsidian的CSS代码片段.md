@@ -1,7 +1,7 @@
 ---
 uid: 20230329145845
 title: Obsidian 的 CSS 代码片段
-tags: [Obsidian, CSS, snippets, 外观, 主题]
+tags: [moc, CSS]
 description: Obsidian 的 CSS 代码片段
 author: OS,PKMer
 type: awesome
@@ -49,6 +49,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-悬浮两侧菜单栏]]
 - [[Obsidian样式-专注标签页边框]]
+
 
 ### 编辑器
 
@@ -98,6 +99,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-用Callout实现的边注]]
 - [[Obsidian样式-PLN主题的callout]]
 - [[Obsidian样式-Vicious主题的callout]]
+- [[Obsidian样式-tabbed Callout]]
 
 ### Properties（老称呼 Front-matter，metadata）
 

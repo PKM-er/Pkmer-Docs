@@ -44,7 +44,7 @@
       "date-created": true,
       "date-created-key": "uid",
       "force-retention-of-create-value": false,
-      "date-modified": false,
+      "date-modified": true,
       "date-modified-key": "modified",
       "format": "YYYYMMDDHHmmss"
     },
@@ -232,6 +232,28 @@
       "single-quote-style": "''",
       "double-quote-enabled": true,
       "double-quote-style": "\"\""
+    },
+    "add-blank-line-after-yaml": {
+      "enabled": false
+    },
+    "dedupe-yaml-array-values": {
+      "enabled": false,
+      "dedupe-alias-key": true,
+      "dedupe-tag-key": true,
+      "dedupe-array-keys": true,
+      "ignore-keys": ""
+    },
+    "sort-yaml-array-values": {
+      "enabled": false,
+      "sort-alias-key": true,
+      "sort-tag-key": true,
+      "sort-array-keys": true,
+      "ignore-keys": "",
+      "sort-order": "Ascending Alphabetical"
+    },
+    "default-language-for-code-fences": {
+      "enabled": false,
+      "default-language": ""
     }
   },
   "lintOnSave": true,
@@ -245,7 +267,7 @@
     "Config"
   ],
   "linterLocale": "system-default",
-  "logLevel": 4,
+  "logLevel": "ERROR",
   "lintCommands": [
     {
       "id": "quickadd:choice:20edd41e-acc8-42a4-a3f8-df2588af4eff",

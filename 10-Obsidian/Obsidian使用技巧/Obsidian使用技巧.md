@@ -1,7 +1,7 @@
 ---
 uid: 20230905114038
 title: Obsidian 使用技巧
-tags: []
+tags: [moc]
 description: Obsidian 使用技巧
 author: OS
 type: awesome
@@ -17,6 +17,8 @@ modified: 20240115155752
 ### 增强编辑
 
 - [[Obsidian插件技巧-Zoom插件的妙用]]
+- [[一种快捷打开obsidian特定页面的技巧]]
+- [[键盘小键盘区使用指南]]
 
 ### 综合
 
@@ -36,7 +38,9 @@ modified: 20240115155752
 - [[使用 Obsidian 白板功能绘制商业模式画布]]
 - [[Obsidian同步拼车教程]]
 - [[Obsidian 主页制作小教程]]
-
+- [[如何给插件添加中文（超详细）]]
+-  [[如何给浅色模式和深色模式写不同的 css 样式]]
+- [[插件名人堂]]
 ### 第三方插件
 
 - [[Obsidian插件技巧-自定义标签面板配合TagFolder]]
@@ -44,7 +48,6 @@ modified: 20240115155752
 - [[在Obsidian中为图片添加注释]]
 - [[Templater实现关键词自动化套用模板]]
 - [[Obsidian插件技巧-Memos和Reminder高效管理突发及琐碎待办]]
-- [[Quickadd结合CSS实现挖空复习]] by Mon
 - [[pandoc 插件导出 word 格式 正确识别本地图片]]
 - [[Obsidian能像其他笔记样分栏嘛]]
 - [[Obsidian如何制作多栏布局]]
@@ -54,14 +57,32 @@ modified: 20240115155752
 - [[将引用的内容嵌入到行的方案]]
 - [[每日字数的热力图]]
 - [[auto-insert-template自动化模板教学]] by Devol
+- Quickadd
+	-  [[Quickadd结合CSS实现挖空复习]] by Mon
+	-  [[Quickadd脚本-为深浅模式配置不同的主题]]
+	- [[QuickAdd脚本-随机漫游笔记]]
+	- [[QuickAdd脚本-一键切换VimMode]]
+	- [[QuickAdd脚本-利用Canvas平铺笔记]]
+	- [[Quickadd脚本-一键在某软件中打开Ob笔记]]
+	- [[QuickAdd脚本-插入Zotero的条目PDF链接]]
+	- [[Quickadd脚本-控制自定义CSS-设置二维码字体]]
+	- [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
 
 ## 与第三方软件联动
 
+- Thino
+	- [[使用 Quicker 与 Thino 进行联动]]
+	- [[使用简悦 SimpRead 与 Thino 进行联动]]
 - Zoteo
 	- [[ZotLit带来的文献引用流畅体验]]
 	- [[ZotLit实现Obsidian和Zotero联动]]
 	- [[Zotero和Obsidian联动]]
+	- [[插件教程zotero和obsidian如何联动]]
 - [[如何运用obsidian和Zotero的插件配置整理文献管理实现阅读笔记]]
 - [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]
 - [[关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案]]
 - [[表格操作占用快捷键过多的解决方案]]
+- [[通过简悦Simpread进行网页剪藏的折腾分享]]
+- [[MarginNote生成页码链接与Obsidian联动]]
+
+
