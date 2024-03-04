@@ -1,6 +1,6 @@
 ---
 uid: 20240217213946
-title: Obsidian-Roundup  2024-02-17：从今天开始，写日记吧
+title: Obsidian-Roundup 2024-02-17：从今天开始，写日记吧
 tags: [Roundup, Obsidian]
 description: Obsidian-Roundup 2024-02-17：从今天开始，写日记吧
 author: 淡水鱼,PKMer
@@ -303,6 +303,7 @@ modified: 20240217214507
 ![2024-02-17-Pasted image 20240217153321.png](https://cdn.pkmer.cn/images/2024-02-17-Pasted%20image%2020240217153321.png!pkmer)
 
 ![2024-02-17-Pasted image 20240217153327.png](https://cdn.pkmer.cn/images/2024-02-17-Pasted%20image%2020240217153327.png!pkmer)
+
 [Journals](https://github.com/srg-kostyrko/obsidian-journal) by _Sergii Kostyrko_
 
 > Manage your journals. You can configure many different journals based on your needs, such as Calendar based journals (daily, weekly, monthly, quarterly and yearly notes) and Interval based journals (like finantial quarters or sprints). The path to store and template of every note type can be configured separately.
