@@ -10,9 +10,9 @@ editable: false
 modified: 20240228165010
 ---
 
-![[icon.png]]
-
 # Sophosia - 你的研究小助手
+
+![icon](https://cdn.pkmer.cn/images/202403062126030.png!pkmer)
 
 官网: <https://sophosia.app>
 
@@ -26,7 +26,7 @@ Github: <https://github.com/sophosia/sophosia>
 
 Sophosia 是研究小助手的英文名字。在下文中 Sophosia 与小助手是同一款软件 ^v^
 
-![[screenshot.png]]
+![screenshot](https://cdn.pkmer.cn/images/202403062126336.png!pkmer)
 
 ## Sophosia 的亮点
 
