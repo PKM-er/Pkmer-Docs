@@ -86,6 +86,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[html-tabs]]：在笔记中创建和渲染选项卡和标签面板
 - [[slash-commander]]：定制 slash 命令列表。
 - [[vscode-editor]]：提供查看和编辑**各种代码文件**和代码块的功能
+- [[prozen]]：禅模式启动！
 
 ### 格式化
 
@@ -96,6 +97,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-pangu]]：快速格式化文档
 - [[obsidian-regex-pipeline]]：让用户用自定义的正则表达式进行格式化文本的插件
 - [[easy-typing-obsidian]]：自动格式化你的中英文标点输入格式
+- [[prettify]]：修复并格式化丑陋的 Markdown
 
 ### 文字样式
 
