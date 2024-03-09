@@ -35,24 +35,37 @@ modified:
 
 这是该插件的一大亮点。开启后，能输入“电脑”搜索到“计算机”、“computer”，还能输入一段描述某个词的句子，来搜索那个词。
 
-但语义搜索依赖于外部的 AI 引擎，需要手动打开或关闭。本文使用软件 [Quicker](https://pkmer.cn/Pkmer-Docs/03-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BD%AF%E4%BB%B6/quicker/%E5%BC%80%E5%A7%8Bquicker%E5%90%A7/) 来实现全自动跟随 Obsidian 开启或关闭。
+语义搜索依赖于外部的 AI 引擎，需要另外下载。操作方法如下：
 
-## Clever 全自动
+1. 打开 Clever Search 插件设置；
+2. 点击“语义搜索”右侧的“管理”；
+3. 启用该功能；
+4. 点击“下载”按钮；
+5. 下载完成后，会弹出文件资源管理器（文件夹）页面，该页面中有个压缩包；
+6. 在资源管理器中打开 `%USERPROFILE%\.cache`；[^2]
+7. 将上面的压缩包解压到该路径中；
+8. 双击运行 `clever-search-ai-helper` 文件；
+9. 等待第一次索引；
+10. 完成。
+
+每次使用语义搜索时，都要手动运行 `clever-search-ai-helper` 文件，来开启语义搜索 AI 引擎，不是很方便。所以本文下面将介绍，如何使用软件 [Quicker](https://pkmer.cn/Pkmer-Docs/03-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BD%AF%E4%BB%B6/quicker/%E5%BC%80%E5%A7%8Bquicker%E5%90%A7/) 来实现 AI 引擎全自动跟随 Obsidian 开启或关闭。
+
+## Clever 跟随开启/关闭
 
 > [!info]+ Quicker 动作
 >
 > - [Clever 全自动](https://getquicker.net/Sharedaction?code=15ba7374-5786-483f-ec5b-08dc3811d02e)；
 > - [Obsidian 库](https://getquicker.net/Sharedaction?code=8d0550f1-c378-4cce-190d-08daa2ecb1a4)。
 
-Clever 全自动用于自动启动/关闭 Clever Search 的语义搜索引擎。
+上述动作中，Obsidian 库用于搜索并打开指定的 Obsidian 库，如果只有一个库，就会直接打开那个库；Clever 全自动则用于在 Obsidian 启动/关闭时，自动启动/关闭 Clever Search 的语义搜索引擎。
 
-动作在开启和关闭时会进行提示。如果不想要提示，可右键动作取消提示。
+动作在开启和关闭时会进行提示。如果不想要提示，可在动作 Clever 全自动中，右键动作取消提示。
 
 ### 自动开启配置
 
-要搭配动作 [Obsidian 库](https://getquicker.net/Sharedaction?code=8d0550f1-c378-4cce-190d-08daa2ecb1a4) 的前置项目功能使用。
+要搭配动作 Obsidian 库的前置项目功能使用。
 
-编辑“Obsidian 库”的前置项目，在“项目命令”中填入 `15ba7374-5786-483f-ec5b-08dc3811d02e?open` 即可，“项目名”可以随便起。
+右键编辑“Obsidian 库”的前置项目，在“项目命令”中填入 `15ba7374-5786-483f-ec5b-08dc3811d02e?open` 即可，“项目名”可以随便起。
 
 打开 Obsidian 要使用“Obsidian 库”这个动作，不要直接打开 Obsidian。
 
@@ -65,3 +78,4 @@ Clever 全自动用于自动启动/关闭 Clever Search 的语义搜索引擎。
 按上图顺序，依次设置，完成后点击“保存”和“应用设置”即可。
 
 [^1]: 比如：在搜索框输入“美食鉴定”，可以搜到笔记内容“**美食**鉴定”，加粗语法会被忽视。
+[^2]: 将该路径复制粘贴到资源管理器的路径中，然后回车就行了。
