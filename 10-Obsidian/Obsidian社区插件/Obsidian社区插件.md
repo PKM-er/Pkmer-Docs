@@ -183,7 +183,6 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-badge]]：可以自定义一个进度样式，方便你传入任何地方。需要了解下简单的语法规则。
 - [[obsidian-task-archiver]]：帮你快速归类待办任务
 - [[completed-task-display]]：提供控件来显示或隐藏已完成的任务。
-- [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 - [[tasks-calendar-wrapper]]：完美的时间线/日历视图的任务面板展示
 
 ### 日期&时间
@@ -407,7 +406,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[show-diff]]：在 Obsidian 文件中呈现 Git 差异
 - [[obsidian-version-history-diff]]：比较同步和文件恢复插件以及当前文件的 Git 版本历史。添加一个命令来打开同步插件的版本历史。
 
-### 文件管理/文件夹管理
+### 库管理/文件管理/文件夹管理
 
 善于使用优秀的 Obsidian 插件，能够提高你的笔记管理效率和科学性。下面是一些实用的插件：它们提供了增强型文件管理器、面包屑导航、文件字数展示、窗格历史记录等多种功能，让你可以更高效地组织笔记、轻松浏览笔记目录，实现科学的笔记管理。此外，这些插件还支持多种文件夹展开和统计功能，让你更方便地管理笔记。优秀的笔记管理插件，将为你带来更加便捷、高效的学习和工作体验。
 
@@ -427,6 +426,8 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[obsidian-trash-explorer]]：让你可以管理 Obsidian 的 .trash 文件夹（也叫软件回收站），从中恢复和删除文件
  - [[edit-history]]：保留您的笔记的自动编辑历史记录，可以查看历史记录，与之对比或恢复以前的编辑
  - [[file-explorer-markdown-titles]]：在文件资源管理器中显示笔记的第一个 markdown 标题
+ - [[vault-name-status-bar]]：在底部状态栏显示 Obsidian 仓库名
+- [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 
 ### 附件管理工具/图片管理
 
