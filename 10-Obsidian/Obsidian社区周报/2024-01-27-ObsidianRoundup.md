@@ -2,12 +2,12 @@
 uid: 20240128002136
 title: 2024-01-27：龙翔凤翥，风月无边；砥志研思，南山自见
 tags: [Obsidian, Roundup]
-description: 
-author: 淡水鱼
-type: other
+description: 2024-01-27：龙翔凤翥，风月无边；砥志研思，南山自见
+author: 淡水鱼,PKMer
+type: awesome
 draft: false
 editable: false
-modified: 20240128003229
+modified: 20240311200134
 ---
 
 # 2024-01-27：龙翔凤翥，风月无边；砥志研思，南山自见

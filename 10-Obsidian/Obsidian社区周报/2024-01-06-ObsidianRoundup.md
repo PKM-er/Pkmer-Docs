@@ -4,10 +4,10 @@ title: 2024-01-06：Obsidian-Roundup
 tags: [Obsidian, roundup]
 description: 2024-01-06：Obsidian-Roundup
 author: 淡水鱼,PKMer
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20240106004045
+modified: 20240311200155
 ---
 
 # 2024-01-06：Obsidian-Roundup

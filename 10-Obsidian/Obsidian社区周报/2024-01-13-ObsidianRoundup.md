@@ -4,10 +4,10 @@ title: Obsidian Roundup 2024-01-13：老骥伏枥，朽木生花；百尺竿头�
 tags: [Obsidian, Roundup]
 description: 
 author: 淡水鱼,PKMer
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20240113103535
+modified: 20240311200157
 ---
 
 # Obsidian Roundup 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发

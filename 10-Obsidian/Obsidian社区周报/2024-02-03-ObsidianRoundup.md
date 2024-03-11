@@ -3,8 +3,8 @@ uid: 20240206160144
 title: 2024-02-03：区域同步服务器上线！Buttons 回归
 tags: [Obsidian, Roundup]
 description: 2024-02-03：区域同步服务器上线！Buttons 回归
-author: 淡水鱼 
-type: other
+author: 淡水鱼,PKMer
+type: awesome
 draft: false
 editable: false
 modified: 20240206171617

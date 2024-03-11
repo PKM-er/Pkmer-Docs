@@ -4,7 +4,7 @@ title: 2024-02-10：龙年大吉，花样玩转时间和任务管理
 tags: [Obsidian, Roundup]
 description: 2024-02-10：龙年大吉，花样玩转时间和任务管理
 author: 淡水鱼,PKMer
-type: other
+type: awesome
 draft: false
 editable: false
 modified: 20240210203847

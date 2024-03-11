@@ -4,10 +4,10 @@ title: 2024-01-20：密针细缕，深图远虑；得心应手，游刃皆虚
 tags: [Obsidian, Roundup]
 description: 2024-01-20：密针细缕，深图远虑；得心应手，游刃皆虚
 author: 淡水鱼,PKMer
-type: other
+type: awesome
 draft: false
 editable: false
-modified: 20240121002214
+modified: 20240311200152
 ---
 
 # 2024-01-20：密针细缕，深图远虑；得心应手，游刃皆虚
