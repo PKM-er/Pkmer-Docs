@@ -29,7 +29,7 @@ modified: 20240311180425
 	- 支持展现月历视图，通过导航切换到不同月份
 	- 支持展现当前天笔记是否有任务，及完成情况
 	- 更多参见 [[Thino 日期选择器]]
-- 【布局视图】
+- 【[[Thino 布局模式]]】
 	- 新增：表格视图和日历视图
 ![4d61c9b1897505861c1a3debe2d5e224_.jpg](https://cdn.pkmer.cn/images/4d61c9b1897505861c1a3debe2d5e224_.jpg!pkmer)
 ![image.png](https://cdn.pkmer.cn/images/20240311172836.png!pkmer)
