@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20240111113104
+modified: 20240311182148
 ---
 
 # Obsidian 插件：QuickAdd 自动化操作的编辑器
@@ -31,6 +31,7 @@ modified: 20240111113104
 - [[copy-selection-in-canvas]]
 - [[QuickAdd脚本-随机漫游笔记]]
 - [[Quickadd脚本-为深浅模式配置不同的主题]]
+- [[QuickAdd脚本-Project项目选项栏]]
 
 ## 参考资料
 

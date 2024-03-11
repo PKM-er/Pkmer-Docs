@@ -160,6 +160,7 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 	- [[Excalidraw脚本-Slideshow完美实现画板幻灯片演示的脚本]]
 	- [[自定义Excalidraw脚本-画板局部或者全局播放动画]] by 熊猫别熬夜
 	- [[自定义Excalidraw脚本-画板与 Kanban 得梦幻结合-像PPT一样演示]] by 熊猫别熬夜
+	- [[自定义Excalidraw脚本-QuickSwitchFrame-简单的Frame切换大纲]] by 熊猫别熬夜
 
 ### CSS 美化
 
