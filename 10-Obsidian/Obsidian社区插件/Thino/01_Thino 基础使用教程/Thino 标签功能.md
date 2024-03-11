@@ -1,19 +1,19 @@
 ---
 uid: 20231109234456
 title: Thino 标签
-tags: 
+tags: []
 description: Thino 标签
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110000826
+modified: 20240311163026
 ---
 
 # Thino 标签
 
 > [!note] 功能信息
-> 此功能在支持 Thino basic 和 Thino Pro
+> 此功能支持 Thino basic 和 Thino Pro
 
 在 Thino 中，你最常用的筛选功能也许是标签。标签面板中的标签索引至你的 Thino 卡片中出现过的标签。
 
@@ -30,3 +30,11 @@ Thino 支持原生 Obsidian 所支持的多级标签，你可以利用 `#thino/t
 ## 数字显示
 
 当你使用标签功能的时候，会发现标签的右侧会展示其计数，其基于这个标签有被多少个 Thino 卡片使用过来进行计算。
+
+## 标签排序
+
+- 2.3.0 开始支持此能力
+- 标签支持排序功能
+	- 支持标签按照名称进行正序（A-Z）和倒序排列（Z-A）
+	- 支持按照标签使用次数排序，包括正序、倒序
+	- ![image.png|200](https://cdn.pkmer.cn/images/20240223094836.png!pkmer)

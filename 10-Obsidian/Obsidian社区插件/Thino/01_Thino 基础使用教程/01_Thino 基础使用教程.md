@@ -1,16 +1,13 @@
 ---
 uid: 20231109234443
 title: Thino 基础使用教程
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 基础使用教程
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240131194147
+modified: 20240311180014
 id: f7d5cb726ba66f91
 ---
 
@@ -19,6 +16,7 @@ id: f7d5cb726ba66f91
 在用户使用 Thino 的过程中，当你遇到有关于基础功能的疑惑，本教程着重于用户能接触到的所有界面元素来进行详细讲解，而关于 [[Thino 设置项|设置]]、某些隐藏得比较深的功能点则会在 [[02_Thino 进阶使用教程|进阶使用教程]] 中说明。
 
 Thino 目前的功能&服务体系如下，用户可以根据自己需求进行参考取舍。
+
 - Thino 基础版：延续了原来 Obsidian-memos，可以理解因为一些原因更名了，参考：[[05_Thino 的含义]]
 - Thino Pro 版：新增了一系列特性
 	- 瀑布流布局【已发布】
@@ -41,12 +39,14 @@ Thino 目前的功能&服务体系如下，用户可以根据自己需求进行�
 - [[Thino 回顾功能]]
 	- [[Thino 回顾功能#每日回顾|每日回顾]]
     - [[Thino 回顾功能#随机回顾|随机回顾]]
+- [[Thino 日期选择器]]
 - [[Thino 回收站功能]]
 - [[Thino 检索式功能]]
 - [[Thino 卡片]]
 - [[Thino 卡片菜单]]
 - [[Thino 脉络]]
 - [[Thino 列表样式]]
+- [[Thino 日期选择器]]
 - [[Thino 命令]]
 - [[Thino 热点图]]
 - [[Thino 编辑器]]

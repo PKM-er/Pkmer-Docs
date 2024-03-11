@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240218211056
+modified: 20240311175943
 ---
 
 # Thino 进阶使用教程
@@ -20,13 +20,19 @@ modified: 20240218211056
 - [[Thino 手机分享|分享至 Thino]]
 - [[Thino 多来源功能|多来源]]
 - [[Thino 脉络]]
+- [[Thino 全局唤醒]]
+- [[Thino 日历组件]]
+- [[Thino 日期分组]]
+- [[Thino 布局模式]]
+	- [[Thino 瀑布流布局]]
+	- [[Thino 日历布局]]
+	- [[Thino 表格布局]]
 - [[Thino 设置项|设置]]
 	- [[Thino 设置项#基础设置|基础设置]]
 	- [[Thino 设置项#本体设置|本体设置]]
 	- [[Thino 设置项#主题设置|主题设置]]
 	- [[Thino 设置项#分享设置|分享设置]]
 	- [[Thino 设置项#进阶设置|进阶设置]]
-	- [[Thino 全局唤醒|全局唤醒]]
 - [[03_Thino Web 服务]]
 	- [[Thino 同步]]
 	- [[Thino 微信内容发送到Thino]]
