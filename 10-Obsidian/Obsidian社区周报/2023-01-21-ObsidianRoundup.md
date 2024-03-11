@@ -1,14 +1,13 @@
 ---
 uid: 20230329102657
 title: 2023-01-21-ObsidianRoundup
-tags: []
-description: 
+tags: [Roundup, Obsidian]
+description: 2023-01-21-ObsidianRoundup
 author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230621183230
-aliases: []
+modified: 20240311200208
 ---
 
 # 2023-01-21-ObsidianRoundup

@@ -4,7 +4,7 @@ title: Obsidian-Roundup 2024-02-17：从今天开始，写日记吧
 tags: [Roundup, Obsidian]
 description: Obsidian-Roundup 2024-02-17：从今天开始，写日记吧
 author: 淡水鱼,PKMer
-type: other
+type: awesome
 draft: false
 editable: false
 modified: 20240217214507

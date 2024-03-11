@@ -4,7 +4,7 @@ title: 2024-02-25：你的下一个音视频播放器，何必非得是播放器
 tags: [Roundup, Obsidian]
 description: Obsidian-Roundup 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
 author: 淡水鱼,PKMer
-type: other
+type: awesome
 draft: false
 editable: false
 modified: 20240225171940
