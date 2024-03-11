@@ -7,32 +7,18 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240222233822
+modified: 20240311182455
 ---
 
 # QuickAdd 脚本 - 利用 Canvas 平铺笔记
 
+## 前言
+
 在 Obsidian 中文论坛看到这篇 [在Excalidraw中列出某笔记所有二级Heading - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/30401) ，我就想用 Canvas 来平铺一下，这样笔记可以全局预览和编辑。
-
-## Canvas 的标题引用格式
-
-Canvas 是可以只显示文档的块和标题的，具体格式如下，标题是在 `subpath` 中且前面有个 `#` 号。
-
-```json
-{
-	"nodes":[
-		{"id":"d9f2b88a08cb0f1c","type":"file","file":"QuickDraft-20240221200235533.md","subpath":"#PkmerFAQ","x":-447,"y":-333,"width":960,"height":760},
-		{"id":"6b050e9a6fa81b69","type":"file","file":"QuickDraft-20240221200235533.md","subpath":"#PkmerDocs","x":560,"y":-333,"width":960,"height":760},
-		{"id":"454248a7b980b488","type":"file","file":"QuickDraft-20240221200235533.md","subpath":"#Fix","x":1580,"y":-333,"width":960,"height":760},
-		{"id":"207cfe3dd7b01f03","type":"file","file":"QuickDraft-20240221200235533.md","subpath":"#Fix","x":-447,"y":500,"width":960,"height":760}
-	],
-	"edges":[]
-}
-```
 
 ## 实现过程和效果
 
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-1](https://cdn.pkmer.cn/images/202402230946313.gif!pkmer)
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-1](https://cdn.pkmer.cn/images/202403111759579.gif!pkmer)
 
 - 获取当前笔记路径
 	- 提取所有标题 (可选范围，即标题参数)，暂定二级标题
@@ -42,33 +28,17 @@ Canvas 是可以只显示文档的块和标题的，具体格式如下，标题�
 
 我是固定一个 Canvas 用来编辑，我这边直接随便设置的一个 `未命名.canvas`，可以 2 种模式可以相互转换，转换的参数通过代码参数来调节。
 
-### 可调整的参数
-
-```js
-// 大纲等级
-const level = 2;
-// 卡片参数
-const width = 960;
-const height = 760;
-// 卡片间隔
-const space = 50;
-// 每行卡片的数量限制
-const limit = 4;
-// 基于库的相对路径的Canvas
-const canvasPath = "未命名.canvas"; 
-```
-
 ## Quickadd 配置 Macro 代码
 
 将下述脚本放在 Quickadd 的配置文件夹下，保存为 `convertMdToCanvas.js` 文件，在 Quickadd 插件设置添加 Macro 动作：
 
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-2](https://cdn.pkmer.cn/images/202402230946314.png!pkmer)
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-2](https://cdn.pkmer.cn/images/202403111759581.png!pkmer)
 
 在 Scripts 中选择对应的 `convertMdToCanvas` 脚本，点击添加即可：
 
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-3](https://cdn.pkmer.cn/images/202402230946315.png!pkmer)
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-3](https://cdn.pkmer.cn/images/202403111759582.png!pkmer)
 
-### 脚本
+### QuickAdd Macro 脚本
 
 ```js
 const path = require('path');
@@ -77,331 +47,178 @@ const fs = require('fs');
 const file = app.workspace.getActiveFile();
 const fileFullPath = app.vault.adapter.getFullPath(file.path);
 
-// 可调节的参数
-// 大纲等级
-const level = 2;
-// 卡片参数
-const width = 960;
-const height = 760;
-// 卡片间隔
-const space = 50;
-// 每行卡片的数量限制
-const limit = 3;
-// 基于库的相对路径的Canvas
-const canvasPath = "未命名.canvas";
-
-module.exports = async () => {
-    const canvasData = {
-        nodes: [],
-        edges: []
-    };
-    if (file.extension === 'md') {
-        console.log("开始获取二级标题");
-        const heads = getHeadings(fileFullPath, level);
-        console.log(heads);
-
-        let x = 0;
-        let y = 0;
-        let n = 1;
-        let nodes = [];
-        const length = heads.length;
-
-        for (let i = 1; i <= length; i++) {
-            const node = {
-                id: "",
-                type: "file",
-                file: file.path,
-                subpath: "",
-                x: 0,
-                y: 0,
-                width: width,
-                height: height,
-            };
-
-            node.subpath = heads[i - 1];
-            node.id = i;
-            node.x = x;
-            node.y = y;
-            console.log([heads[i - 1], x, y]);
-
-            x += width + space;
-            if (i >= limit * n) {
-                y += height + space;
-                x = 0;
-                n = n + 1;
-            }
-            console.log([heads[i - 1], node.x, y]);
-
-            nodes.push(node);
-        }
-        canvasData.nodes = nodes;
-        console.log(canvasData);
-        const canvasFile = app.vault.getAbstractFileByPath(canvasPath);
-        const canvasJson = JSON.stringify(canvasData, null, 2);
-        if (canvasFile) {
-            app.vault.modify(canvasFile, canvasJson);
-        } else {
-            canvasFile = app.vault.create(canvasPath, canvasJson);
-        }
-        app.workspace.activeLeaf.openFile(canvasFile);
-
-    } else if (file.extension === 'canvas') {
-        fs.readFile(fileFullPath, 'utf8', (err, data) => {
-            if (err) throw err;
-            const canvasData = JSON.parse(data);
-            // 获取nodes中的object.file
-            canvasData.nodes;
-            const mdFilePath = canvasData.nodes[0].file;
-            app.workspace.activeLeaf.openFile(app.vault.getAbstractFileByPath(mdFilePath));
-        });
-
-    }
-
-};
-
-
-function getHeadings(fileFullPath, level) {
-    // 读取文件内容
-    const fileContent = fs.readFileSync(fileFullPath, 'utf-8');
-
-    // 使用正则表达式提取指定级别的标题
-    const regex = new RegExp(`^#{2,${level}}\\s(.+)`, 'gm');
-    const matches = [];
-    let match;
-
-    while ((match = regex.exec(fileContent)) !== null) {
-        matches.push("#" + match[1]);
-    }
-    return matches;
-}
-```
-
-## 配合 Modal Form 插件来调节参数
-
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-4](https://cdn.pkmer.cn/images/202402230946316.png!pkmer)
-
-> 配合 ModalForm 插件写了个表单，可以设置参数，不过体验下来，还不如提前把参数设置好一键切换来的方便，还不需要额外安装插件。
-
-### 脚本
-
-配置同上述一样，不过需要安装 Modal Form 插件
-
-```js
-
-// 基于库的相对路径的Canvas
-const canvasPath = "未命名.canvas";
-
-const path = require('path');
-const fs = require('fs');
-const modalForm = app.plugins.plugins.modalforms.api;
-// 获取笔记的基本路径
-const file = app.workspace.getActiveFile();
-const fileFullPath = app.vault.adapter.getFullPath(file.path);
-
-
-module.exports = async () => {
-
-    const editorForm1 = {
-        "title": "ConvertMdToCanvas",
-        "name": "ConvertMdToCanvas",
-        "fields": [
-            {
-                "name": "level",
-                "label": "level",
-                "description": "提取至第几级标题，忽略一级标题",
-                "input": {
-                    "type": "slider",
-                    "min": 2,
-                    "max": 6
-                }
-            },
-            {
-                "name": "width",
-                "label": "Width",
-                "description": "卡片宽度",
-                "isRequired": true,
-                "input": {
-                    "type": "number"
-                }
-            },
-            {
-                "name": "height",
-                "label": "height",
-                "description": "卡片高度",
-                "isRequired": true,
-                "input": {
-                    "type": "number"
-                }
-            },
-            {
-                "name": "space",
-                "label": "space",
-                "description": "卡片间距",
-                "isRequired": true,
-                "input": {
-                    "type": "number"
-                }
-            },
-            {
-                "name": "limit",
-                "label": "limit",
-                "description": "每行卡片的数量限制",
-                "input": {
-                    "type": "slider",
-                    "min": 1,
-                    "max": 10
-                }
-            },
-        ]
-    };
-    const canvasData = {
-        nodes: [],
-        edges: []
-    };
-    if (file.extension === 'md') {
-        // 设定默认值
-        let result = await modalForm.openForm(
-            editorForm1,
-            {
-                values: {
-                    level: 2,
-                    width: 960,
-                    height: 760,
-                    limit: 4,
-                    space: 50,
-                }
-            }
-        );
-
-
+module.exports = {
+    entry: async (QuickAdd, settings, params) => {
+        // 可调节的参数
         // 大纲等级
-        const level = result.getValue('level').value;
+        const level = Number(settings["level"]);
         // 卡片参数
-        const width = result.getValue('width').value;
-        const height = result.getValue('height').value;
+        const width = Number(settings["width"]);
+        const height = Number(settings["height"]);
         // 卡片间隔
-        const space = result.getValue('space').value;
+        const space = Number(settings["space"]);
         // 每行卡片的数量限制
-        const limit = result.getValue('limit').value;
+        const limit = Number(settings["limit"]);
+        // 基于库的相对路径的Canvas
+        const canvasPath = settings["canvasPath"];
 
-        console.log("开始获取二级标题");
-        const heads = getHeadings(fileFullPath, level);
-        console.log(heads);
+        const canvasData = {
+            nodes: [],
+            edges: []
+        };
+        if (file.extension === 'md') {
+            console.log("开始获取二级标题");
+            const { heads, counts } = getHeadings(fileFullPath, level);
+            console.log(heads);
 
-        let x = 0;
-        let y = 0;
-        let n = 1;
-        let nodes = [];
-        const length = heads.length;
+            let x = 0;
+            let y = 0;
+            let n = 1;
+            let nodes = [];
+            const length = heads.length;
 
-        for (let i = 1; i <= length; i++) {
-            const node = {
-                id: "",
-                type: "file",
-                file: file.path,
-                subpath: "",
-                x: 0,
-                y: 0,
-                width: width,
-                height: height,
-            };
+            for (let i = 1; i <= length; i++) {
+                const node = {
+                    id: "",
+                    type: "file",
+                    file: file.path,
+                    subpath: "",
+                    x: 0,
+                    y: 0,
+                    width: width,
+                    height: height,
+                };
 
-            node.subpath = heads[i - 1];
-            node.id = i;
-            node.x = x;
-            node.y = y;
-            console.log([heads[i - 1], x, y]);
+                node.subpath = heads[i - 1];
+                node.id = String(i);
+                node.x = x;
+                node.y = y;
+                node.color = String(counts[i - 1]-1)
+                console.log([heads[i - 1], x, y]);
 
-            x += width + space;
-            if (i >= limit * n) {
-                y += height + space;
-                x = 0;
-                n = n + 1;
+                x += width + space;
+                if (i >= limit * n) {
+                    y += height + space;
+                    x = 0;
+                    n = n + 1;
+                }
+                console.log([heads[i - 1], node.x, y]);
+
+                nodes.push(node);
             }
-            console.log([heads[i - 1], node.x, y]);
+            canvasData.nodes = nodes;
+            console.log(canvasData);
+            const canvasFile = app.vault.getAbstractFileByPath(canvasPath);
+            const canvasJson = JSON.stringify(canvasData, null, 2);
+            if (canvasFile) {
+                app.vault.modify(canvasFile, canvasJson);
+                app.workspace.activeLeaf.openFile(canvasFile);
+            } else {
+                canvasFile = app.vault.create(canvasPath, canvasJson);
+                app.workspace.activeLeaf.openFile(canvasFile);
+            }
 
-            nodes.push(node);
+            // 尝试重新加载缩略图
+            setTimeout(() => {
+                try {
+                    app.commands.executeCommandById("canvas-minimap:reload");
+                } catch (error) {
+                    console.log(error);
+                }
+            }, 1000);
+
+
+        } else if (file.extension === 'canvas') {
+            fs.readFile(fileFullPath, 'utf8', (err, data) => {
+                if (err) throw err;
+                const canvasData = JSON.parse(data);
+                // 获取nodes中的object.file
+                canvasData.nodes;
+                const mdFilePath = canvasData.nodes[0].file;
+                app.workspace.activeLeaf.openFile(app.vault.getAbstractFileByPath(mdFilePath));
+            });
+
         }
-        canvasData.nodes = nodes;
-        console.log(canvasData);
-        const canvasFile = app.vault.getAbstractFileByPath(canvasPath);
-        const canvasJson = JSON.stringify(canvasData, null, 2);
-        if (canvasFile) {
-            app.vault.modify(canvasFile, canvasJson);
-        } else {
-            canvasFile = app.vault.create(canvasPath, canvasJson);
+
+    },
+    settings: {
+        name: "Convert md to canvas",
+        author: "熊猫别熬夜",
+        options: {
+            "canvasPath": {
+                type: "text",
+                defaultValue: "MdToCanvas.canvas",
+                placeholder: "相对路径",
+                description: "设置Canvas路径，可以嵌套子文件夹",
+            },
+            "level": {
+                type: "dropdown",
+                defaultValue: 2,
+                options: [2, 3, 4, 5, 6],
+                description: "设置平铺的大纲等级，每个等级对应不同颜色",
+            },
+            "width": {
+                type: "text",
+                defaultValue: "1080",
+                placeholder: "卡片参数",
+                description: "卡片宽度",
+
+            },
+            "height": {
+                type: "text",
+                defaultValue: "1000",
+                placeholder: "卡片参数",
+                description: "卡片高度",
+            },
+
+            "limit": {
+                type: "text",
+                defaultValue: "3",
+                placeholder: "每行卡片数量",
+                description: "每行卡片数量",
+            },
+            "space": {
+                type: "text",
+                defaultValue: "250",
+                placeholder: "卡片间隔",
+                description: "卡片之间的间隔",
+
+            },
         }
-        app.workspace.activeLeaf.openFile(canvasFile);
-
-    } else if (file.extension === 'canvas') {
-        fs.readFile(fileFullPath, 'utf8', (err, data) => {
-            if (err) throw err;
-            const canvasData = JSON.parse(data);
-            // 获取nodes中的object.file
-            canvasData.nodes;
-            const mdFilePath = canvasData.nodes[0].file;
-            app.workspace.activeLeaf.openFile(app.vault.getAbstractFileByPath(mdFilePath));
-        });
-
     }
 
-
 };
+
 
 function getHeadings(fileFullPath, level) {
     // 读取文件内容
     const fileContent = fs.readFileSync(fileFullPath, 'utf-8');
-
     // 使用正则表达式提取指定级别的标题
     const regex = new RegExp(`^#{2,${level}}\\s(.+)`, 'gm');
-    const matches = [];
-    let match;
+    const heads = [];
+    let head;
+    let counts = [];
 
-    while ((match = regex.exec(fileContent)) !== null) {
-        matches.push("#" + match[1]);
+    while ((head = regex.exec(fileContent)) !== null) {
+        heads.push("#" + head[1]);
+        counts.push(head[0].match(/#/g).length);
     }
-    return matches;
+    return { heads, counts };
 }
+
 ```
 
-## Quickadd 配置 Capture
+## 可调整的参数
 
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-5](https://cdn.pkmer.cn/images/202402230946317.png!pkmer)
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-4](https://cdn.pkmer.cn/images/202403111759583.gif!pkmer)
 
-### 脚本
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-5](https://cdn.pkmer.cn/images/202403111759584.jpg!pkmer)
 
-该代码由 Obsidian 中文论坛的 PlayerMiller 提供，来源于：<https://forum-zh.obsidian.md/t/topic/30401/11>
+## 配合 Canvas Minimal 插件
 
-````md
-```js quickadd
-const fs = require('fs'), getFBP = path => app.vault.getAbstractFileByPath(path), getHeadings = (vFPath, lv) => {
-    let fileContent = fs.readFileSync(vFPath, 'utf-8'), regex = new RegExp(`^#{2,${lv}} (.+)`, 'gm')
-        , mats = [], mat; while ((mat = regex.exec(fileContent)) !== null) mats.push(`#${mat[1]}`); return mats;
-}
-    , file = app.workspace.getActiveFile(), vFPath = app.vault.adapter.getFullPath(file.path), cvsData = { nodes: [], edges: [] }
-    , lv = 2, width = 960, height = 760, space = 50, limit = 4, cvsPath = '未命名.canvas'; // 参数行
-switch (file.extension) {
-    case 'md': let heads = getHeadings(vFPath, lv), x = 0, y = 0, n = 1, nodes = [];
-        for (let i = 1; i <= heads.length; i++) {
-            let node = { id: '', type: 'file', file: file.path, subpath: '', x: 0, y: 0, width: width, height: height };
-            node.subpath = heads[i - 1]; node.id = i; node.x = x; node.y = y; x += width + space;
-            if (i >= limit * n) { y += height + space; x = 0; n += 1; }; nodes.push(node);
-        }; cvsData.nodes = nodes; let cvsFile = getFBP(cvsPath), cvsJson = JSON.stringify(cvsData, null, 2);
-        if (cvsFile) { app.vault.modify(cvsFile, cvsJson); } else cvsFile = await app.vault.create(cvsPath, cvsJson);
-        app.workspace.activeLeaf.openFile(cvsFile); break;
-    case 'canvas': fs.readFile(vFPath, 'utf8', (err, data) => {
-        if (err) throw err; let mdFilePath = JSON.parse(data).nodes[0].file;
-        app.workspace.activeLeaf.openFile(getFBP(mdFilePath));
-    }); break;
-}
-```
-````
+另外推荐 [Canvas Minimal](https://github.com/ifree/Obsidian-canvas-minimap)，可以给 Canvas 生成缩略图并点击可跳转。
 
-## 拓展想法
-
-如果确定每个标题的格式 (如：草稿、提示、总结)，是否可以按照康奈尔笔记布局一样生成对应的 Canvas 来编辑：
-
-![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-6](https://cdn.pkmer.cn/images/202402230946318.png!pkmer)
+![2024-02-21_QuickAdd脚本-利用Canvas平铺笔记_IMG-6](https://cdn.pkmer.cn/images/202403111759585.gif!pkmer)
 
 ## References
 
