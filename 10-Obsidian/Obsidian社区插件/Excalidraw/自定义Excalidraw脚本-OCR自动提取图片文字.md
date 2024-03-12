@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240122221659
+modified: 20240312174517
 ---
 
 # 自定义 Excalidraw 脚本 - OCR 自动提取图片文字
@@ -16,6 +16,26 @@ modified: 20240122221659
 > ![自定义 Excalidraw 脚本 -OCR 自动提取图片文字](https://cdn.pkmer.cn/images/202312291613601.png!pkmer)
 
 > 对 Excalidraw 的图片进行 OCR，并保留文本信息在图片中，可以编辑修改、重新 OCR 和进行批量识别。
+
+## 脚本文件
+
+### 脚本链接
+
+- 链接：[TextExtractor.md](https://github.com/PandaNocturne/ExcalidrawScripts/blob/master/PandaScripts/TextExtractor.md)
+
+可以用 Excalidraw Scripts 代码块安装：
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/TextExtractor.md
+```
+
+### 配置文件
+
+> 配置文件 [paddleocr.zip](https://drive.weixin.qq.com/s?k=AGAAFQdIAEsv0SkXa4)，解压到到 `.obsidian` 文件夹下即可采用脚本的默认配置：
+
+![image.png](https://cdn.pkmer.cn/images/202403121744578.png!pkmer)
+
+![自定义Excalidraw脚本-OCR自动提取图片文字](https://cdn.pkmer.cn/images/202403121744578.png!pkmer)
 
 ## 脚本思路
 
