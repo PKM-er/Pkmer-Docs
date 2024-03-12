@@ -1,3 +1,17 @@
+---
+uid: 20240312223954
+title: Obsidian 样式 - 表格优化 css
+tags: [Obsidian, css, 美化, 表格]
+description: 使用 css 控制全库表格样式，同时支持在文章中使用：cssclass 控制特定文件的表格样式
+author: 上善若水、余月鱼鸽
+type: other
+draft: false
+editable: false
+modified: 
+---
+
+# Obsidian 样式 - 表格优化 css
+
 ## 1.css 来源
 
 群友 @上善若水 写的表格样式优化 css ，目前能支持的功能包括：
@@ -8,19 +22,12 @@
 ## 2.css 的使用方法
 
 1. 安装 css ，没接触过 css 的朋友可以看下这篇文章：[Obsidian 的 CSS 代码片段]( https://pkmer.cn/show/20230329145845 )，这里就不展开 css 具体的使用方法。css 片段生效后，表格的默认样式为：![](attachment/7fea7a67fe07cf309b122568f682a9c6.png)
-
 2. 在 style setting 插件中，找到：【 Table 美化 】的设置选项，样式如下：![](attachment/85c8a95bd5b73d0d0937d3e2e9e43253.png)
 以下为 style setting 各项参数的详细说明：
 
  - 表格底色样式选择：本 css 共支持 5 种样式：**常规底色模式、标题底色模式、行列标题底色模式、行列标题间隔层模式、全透明底色模式**，具体的效果对比如下：![](attachment/4b53bd1be47523998843248f2f18df02.png)值得注意的是，**在 style setting 中设置的模式为全库表格的默认格式，若指定文件需要特殊设置效果时，在文章的 yaml 区域的 cssclass 中输入对应表格样式的名称即可进行设置**，如![](attachment/0120de5aeab85920832b0703f1c7dd4c.png)
-
- - 表格全宽选择：共包含3种选择：**非全款模式、全宽模式、自定义居中模式**：具体的效果对比如下：![](attachment/ba53366fcdb959de4513b520c127405a.png)值得注意的是，**自定义居中模式**中甚至了8个档位的表格宽度，支持表格宽度的自定义，指定文件需要特殊设置效果时，在文章的 yaml 区域的 cssclass 中输入对应表格样式的名称即可进行设置，以下为本 css 所支持的 yaml 配置![](attachment/ade4e0e4766b90decd0ae1b305ef265e.png)
-
+ - 表格全宽选择：共包含 3 种选择：**非全款模式、全宽模式、自定义居中模式**：具体的效果对比如下：![](attachment/ba53366fcdb959de4513b520c127405a.png)值得注意的是，**自定义居中模式**中甚至了 8 个档位的表格宽度，支持表格宽度的自定义，指定文件需要特殊设置效果时，在文章的 yaml 区域的 cssclass 中输入对应表格样式的名称即可进行设置，以下为本 css 所支持的 yaml 配置![](attachment/ade4e0e4766b90decd0ae1b305ef265e.png)
 - 表格宽度是否超出显示界面：本 css 共支持 3 种样式：**超出模式、不超出模式（非均匀分布）、不超出模式（均匀分布）**，具体效果对比可看截图：![](attachment/012e19d0d614c0d7a20e06529e2c4f79.png)
-
-
-
-
 
 ## 3.css 片段代码
 
@@ -592,7 +599,3 @@ body.tbMH-ds-hlbt-jg .markdown-rendered td:first-child {
 
 
 ```
-
-
-
-
