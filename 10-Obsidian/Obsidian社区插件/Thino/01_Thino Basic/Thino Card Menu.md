@@ -24,9 +24,9 @@ Thino 卡片附带了一个较为复杂的菜单以及右键菜单，你可以�
 - 复制当前 Thino 文本；
 - 修改当前 Thino 文本；
 - 分享当前 Thino；
-- 阅读当前 Thino（和点击时间戳一样的效果 [[Thino 卡片#时间戳|时间戳]]）
+- 阅读当前 Thino（和点击时间戳一样的效果 [[Thino Card#时间戳]]）
 - 引用当前的 Thino（当你点击后，会直接在当前的编辑器引用当前的 Thino）
-- [[Thino 归档功能|归档当前的 Thino]]
-- [[Thino 回收站功能|删除当前的 Thino]]
+- [[Thino Archive|归档当前的 Thino]]
+- [[Thino Trash Bin|删除当前的 Thino]]
 - 当前的 Thino 的字数（暂时没做去除某些文本的功能）
 

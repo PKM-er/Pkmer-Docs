@@ -53,7 +53,7 @@ modified: 20240213102318
 
 - 安装新版 2.2.1 及以上版本，鼓励用户使用最新版
 - 激活 Thino Pro
-	- [[04_Thino 的安装与 Pro 激活]]
+	- [[04_Thino Installation and Pro Activation|Thino 的安装与 Pro 激活]]
 - 激活功能
 	- 【网站中操作】进入个人中心，点击 `激活 Thino 同步功能`
 	- 【插件中操作】插件 `General` 中在 `Sync Status` 项目上 ，点击 `start`
@@ -87,7 +87,7 @@ modified: 20240213102318
 
 - 设置了默认的更新时间，正常情况下会在一定时间内自动拉同步，通常是 10s 左右。【这是考虑服务服务器负载，和对用户端的影响，未来可能动态调整，减少请求开销】
 - 点击界面上的刷新按钮![Thino 同步](https://cdn.pkmer.cn/images/20240221182952.png!pkmer)
-- 如果发生异常，可以使用 [[命令面板]] 中 ，手动触发：
+- 如果发生异常，可以使用 `Ctrl+P` 打开 Obsidian的命令面板  ，手动触发：
 	- `Thino:Sync Local Thinos to Web`：手动本地同步到 Web
 	- `Thino:ReSync web Thinos to Local`：手动 Web 同步到 本地
 
@@ -157,4 +157,4 @@ modified: 20240213102318
 - 可能会与其他同步产生不确定的问题，但目前没有接到丢失数据的反馈
 	- 微力同步，会产生冗余的同步文件，预料之中，毕竟文件级别同步都会对变化产生跟踪。
 
-Tips：如果你需要隐藏标志位和了解标志位原因，可以参考 [[Obsidian样式-Thino插件隐藏标志位]]
+Tips：如果你需要隐藏标志位和了解标志位原因，可以参考 [Obsidian 样式：Thino 插件隐藏标志位]( https://pkmer.cn/show/20240124113835 )

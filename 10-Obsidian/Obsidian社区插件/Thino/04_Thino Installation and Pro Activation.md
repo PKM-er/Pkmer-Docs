@@ -18,7 +18,7 @@ modified: 20240213101101
 
 - Thino 基础版是免费的，未来会延续在 Obsidian 官方市场，PKMer market 等位置。但请注意，基础版不会对基础特性进行新增，除非有重大原因和体验问题，否则只会进行稳定性修复
 - Thino Pro：后续所有新特性会在这里更新，可独立购买
-- 以上，Thino 基础版和 Thino Pro 的更新日志参考 [[thino-changelog]]，[购买链接](https://pkmer.cn/products/thino/) 
+- 以上，Thino 基础版和 Thino Pro 的更新日志参考 [[0x-thino-changelog]]，[购买链接](https://pkmer.cn/products/thino/) 
 - Thino Web 服务，包含微信同步，Thino 中信息多端同步。可独立购买，针对提前支持 Thino Pro 的用户会免费试用到 Thino Web 服务价格出台为止。目前定价尚未公布
 - 整合 PKMer 会员打包购买，会包括 Thino Pro 和 Thino Web 服务，设置一个打包的优惠价格，目前定价尚未公布
 

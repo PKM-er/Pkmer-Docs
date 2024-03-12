@@ -24,7 +24,7 @@ modified: 20231110001208
 ![Thino 检索式功能](https://cdn.pkmer.cn/images/Pasted%20image%2020231109094221.png!pkmer)
 
 - 标签
-- 类型，类型包括了刚刚在 [[Thino 搜索功能#筛选器入口|搜索]] 中阐述的相关筛选器功能；
+- 类型，类型包括了刚刚在 [[Thino Search|搜索]] 中阐述的相关筛选器功能；
 - 文本
 - 日期，其包括了 `在之前` 以及 `在之后` 的两种状态，而后边的日期中你可以输入任意自然语言的日期，当然也可以输入 `YYYY-MM-DD` 的格式的日期；
     - 注意，这个功能严重依赖于 [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) 插件，请你使用该筛选的时候要先安装这个插件。
@@ -37,7 +37,7 @@ modified: 20231110001208
 
 ## 进阶用法
 
-[[Thino 检索式功能|检索式（筛选器）]]、[[Thino 标签功能|标签]] 以及 [[Thino 搜索功能|搜索]] 只要是涉及了对 Thino 进行初步的筛选的功能情况下，Thino 都如实提供了一个基本的复制按钮：
+[[Thino Filters|检索式（筛选器）]]、[[Thino Tag|标签]] 以及 [[Thino Search|搜索]] 只要是涉及了对 Thino 进行初步的筛选的功能情况下，Thino 都如实提供了一个基本的复制按钮：
 
 ![Thino 检索式功能](https://cdn.pkmer.cn/images/Pasted%20image%2020231109114526.png!pkmer)
 
