@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240311180425
+modified: 20240312155457
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录
@@ -16,11 +16,29 @@ modified: 20240311180425
 
 需要请加入内测体验，[社区众筹插件 (pkmer.cn)](https://pkmer.cn/products/productDetails/)
 
-> [!note] 主题
+> [!note] 注意
 > - Thino 是通过作者自测，社区管理员们内部交流，最重释放到用户的。
 > - 所以建议尽量保持最新的更新，一方面能解决现有问题，二来可以更快帮助开发者发现、解决、回归问题。
 
-## Thino 2.3.0 2024.03.??
+## Thino 2.3.1-2.3.3 2024.03.12
+
+### 修复
+
+- 修复 ：部分 Mac 机型下白屏的问题
+- 修复：【日记模式】下块引用 在和 webid 之类的混用时，会消失或者意外删除 webid
+- 修复：某些情况下已完成的任务会意外被重置成列表模式
+- 修复：激活 Pro 版本跳转问题
+- 修复：移动端图片内容分享时候的异常
+
+> [!warning] 通告
+> - Thino 已经同步到 Obsidian 官方市场，会继续使用 obsidian-memos id，但显示名称改为 Thino
+> - 以后 Thino 会在官方市场、PKMer market、已购用户的个人中心进行同步更新
+> - 建议尽量保持最新的更新，一方面能解决现有问题，二来可以更快帮助开发者发现、解决、回归问题。
+> - 安装：
+> 	- 2.x 内测用户可以选择删除内测是插件，直接使用 Obsidian 官方市场，pkmer market 或者 个人中心的包更新
+> 	- 新用户，直接安装更新即可
+
+## Thino 2.3.0 2024.03.12
 
 ### 新增
 
