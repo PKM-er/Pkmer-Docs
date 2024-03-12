@@ -33,8 +33,6 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 
 > 配置文件 [paddleocr.zip](https://drive.weixin.qq.com/s?k=AGAAFQdIAEsv0SkXa4)，解压到到 `.obsidian` 文件夹下即可采用脚本的默认配置：
 
-![image.png](https://cdn.pkmer.cn/images/202403121744578.png!pkmer)
-
 ![自定义Excalidraw脚本-OCR自动提取图片文字](https://cdn.pkmer.cn/images/202403121744578.png!pkmer)
 
 ## 脚本思路
