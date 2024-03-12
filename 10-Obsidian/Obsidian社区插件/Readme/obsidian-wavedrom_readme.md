@@ -1,5 +1,5 @@
 ---
-uid: 2023080322292426
+uid: 20230817224055
 title: Obsidian 插件：WaveDrom
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 用于创建 wavedrom 图。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kingsquirrel152/obsidian-wavedrom/main/README.md)
->
 
 ---
 

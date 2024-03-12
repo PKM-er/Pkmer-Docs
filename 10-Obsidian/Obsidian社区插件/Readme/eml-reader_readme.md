@@ -1,5 +1,5 @@
 ---
-uid: 2023102611074439
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Email Reader
 tags: ['obsidian插件', 'readme']
 description: 为嵌入的 `*.eml` 文件提供预览模式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pulsovi/obsidian_eml_reader/master/README.md)
->
 
 ---
 

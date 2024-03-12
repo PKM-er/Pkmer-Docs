@@ -1,5 +1,5 @@
 ---
-uid: 2023102611083622
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Tag Page
 tags: ['obsidian插件', 'readme']
 description: 动态生成和更新特定标签的页面，为您的存储库中每个标签的引用提供统一的视图。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mjsumpter/obsidian-tag-page/main/README.md)
->
 
 ---
 

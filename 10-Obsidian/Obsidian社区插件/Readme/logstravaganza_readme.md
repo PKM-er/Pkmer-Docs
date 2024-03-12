@@ -1,5 +1,5 @@
 ---
-uid: 2023080322214741
+uid: 20230817224053
 title: Obsidian 插件：Logstravaganza
 tags: ['obsidian插件', 'readme']
 description: 一个简单的代理，用于将`console.*()`调用的日志消息和未捕获的异常复制到一个注释中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/czottmann/obsidian-logstravaganza/main/README.md)
->
 
 ---
 
@@ -81,7 +80,7 @@ modified: 20230101000000
 
 ## 作者
 
-Carlo Zottmann，<carlo@zottmann.co>，<https://zottmann.co/，https://github.com/czottmann>
+Carlo Zottmann，<carlo@zottmann.co>，<<https://zottmann.co/>，<https://github.com/czottmann>>
 
 免责声明
 

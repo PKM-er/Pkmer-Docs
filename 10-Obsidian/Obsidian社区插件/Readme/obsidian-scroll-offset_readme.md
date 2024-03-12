@@ -1,5 +1,5 @@
 ---
-uid: 2023080322262514
+uid: 20230817224055
 title: Obsidian 插件：Scroll Offset
 tags: ['obsidian插件', 'readme']
 description: 在光标之前或之后保留自定义距离。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lijyze/scroll-offset/master/README.md)
->
 
 ---
 

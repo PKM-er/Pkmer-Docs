@@ -1,5 +1,5 @@
 ---
-uid: 2023120719414846
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Regex Pipeline
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 允许用户设置自定义正则规则以自动格式化笔记。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/No3371/obsidian-regex-pipeline/master/README.md)
->
 
 ---
 
@@ -199,7 +198,7 @@ LACE"
 
 ## 推荐
 
-- Markdownload（<https://github.com/deathau/markdownload）：用于剪辑网页，请不要忘记根据您的编辑偏好进行配置。>
+- Markdownload（<<https://github.com/deathau/markdownload>）：用于剪辑网页，请不要忘记根据您的编辑偏好进行配置。>
 
 常见问题解答
 

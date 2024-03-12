@@ -1,5 +1,5 @@
 ---
-uid: 2023080322133557
+uid: 20230817224052
 title: Obsidian 插件：ActivityWatch
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，用于在ActivityWatch和Obsidian之间建立兼容性桥梁，以允许详细跟踪在Obsidian中花费的时间。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LordGrimmauld/aw-watcher-obsidian/master/README.md)
->
 
 ---
 
@@ -51,4 +50,4 @@ aw-watcher-obsidian 是一个 ActivityWatch 观察者，用于监视 Obsidian va
 
 ## 鸣谢
 
-为了构建此项目中使用的观察者 API，我紧密遵循了官方 API 的指导，网址为<https://github.com/ActivityWatch/aw-client-js。>
+为了构建此项目中使用的观察者 API，我紧密遵循了官方 API 的指导，网址为<<https://github.com/ActivityWatch/aw-client-js>。>

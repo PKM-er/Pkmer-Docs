@@ -1,5 +1,5 @@
 ---
-uid: 2023120719351262
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Linked Data Vocabularies
 tags: ['obsidian插件', 'readme']
 description: 将国会图书馆主题词表（LCSH）作为元数据添加到您的笔记中。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kometenstaub/linked-data-vocabularies/main/README.md)
->
 
 ---
 

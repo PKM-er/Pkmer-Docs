@@ -1,5 +1,5 @@
 ---
-uid: 2024022117285245
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Journalyst
 tags: ['obsidian插件', 'readme']
 description: Journalyst 可以轻松创建特定主题的日志。将您的生活组织成睡眠、日常或工作等类别，每天或定期记录，轻松追踪和反思。
@@ -27,7 +27,6 @@ Journalyst 可以轻松创建特定主题的日志。将您的生活组织成睡
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Justin-Arnold/Journalyst/master/README.md)
->
 
 ---
 

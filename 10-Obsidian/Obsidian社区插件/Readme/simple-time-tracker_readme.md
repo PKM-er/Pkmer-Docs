@@ -1,5 +1,5 @@
 ---
-uid: 2023120719435077
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Super Simple Time Tracker
 tags: ['obsidian插件', 'readme']
 description: 多功能时间跟踪器，用于记录您的笔记！
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Ellpeck/ObsidianSimpleTimeTracker/master/README.md)
->
 
 ---
 

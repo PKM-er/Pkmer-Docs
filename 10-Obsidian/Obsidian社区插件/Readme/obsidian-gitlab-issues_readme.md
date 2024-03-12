@@ -1,5 +1,5 @@
 ---
-uid: 2023120719294956
+uid: 20231220112631
 title: Obsidian 插件：【Readme】GitLab Issues
 tags: ['obsidian插件', 'readme']
 description: 将Gitlab问题导入您的Obsidian保险库。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/benr77/obsidian-gitlab-issues/master/README.md)
->
 
 ---
 

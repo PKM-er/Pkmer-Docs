@@ -1,5 +1,5 @@
 ---
-uid: 2024022117272030
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Daily ICalendar
 tags: ['obsidian插件', 'readme']
 description: 查看日历事件在每日笔记中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mmmykhailo/obsidian-daily-icalendar/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # 黑曜石每日 ICalendar 插件
 
-这是一个为 Obsidian（<https://obsidian.md）设计的插件。>
+这是一个为 Obsidian（<<https://obsidian.md>）设计的插件。>
 
 它提供了一种在指定日期检索事件列表的方法。通过输入一个日期和一组 ICS 链接，它检索相应的日历并以列表形式显示事件。结果存储在本地存储中，以便在后续请求中快速访问。
 

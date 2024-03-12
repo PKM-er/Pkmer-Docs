@@ -1,5 +1,5 @@
 ---
-uid: 2023080322170731
+uid: 20230817224053
 title: Obsidian 插件：Dangling links
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 添加一个面板，显示保险库中任何悬挂的链接。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/graydon/obsidian-dangling-links/main/README.md)
->
 
 ---
 

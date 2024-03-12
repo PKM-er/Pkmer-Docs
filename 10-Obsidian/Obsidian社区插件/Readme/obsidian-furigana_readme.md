@@ -1,5 +1,5 @@
 ---
-uid: 2023120719293051
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Furigana
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: tags辅助插件用于振り仮名和<ruby>标签
@@ -29,7 +29,6 @@ tags 辅助插件用于振り仮名和<ruby>标签
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/uonr/obsidian-furigana/master/README.md)
->
 
 ---
 

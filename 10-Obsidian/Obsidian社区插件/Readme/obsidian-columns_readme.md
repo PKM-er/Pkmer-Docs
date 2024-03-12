@@ -1,5 +1,5 @@
 ---
-uid: 2023120719374857
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Obsidian Columns
 tags: ['编辑器', '美化', '界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 笔记添加多栏结构，你可以通过这种多栏结构，来优化 OB 笔记的排版。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tnichols217/obsidian-columns/main/README.md)
->
 
 ---
 

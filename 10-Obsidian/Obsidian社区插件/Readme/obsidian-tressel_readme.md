@@ -1,5 +1,5 @@
 ---
-uid: 2023120719454175
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Tressel Sync for Obsidian
 tags: ['obsidian插件', 'readme']
 description: Tressel 官方插件，可将您的推文和线程同步/导出到 Obsidian 中
@@ -29,7 +29,6 @@ Tressel 官方插件，可将您的推文和线程同步/导出到 Obsidian 中
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tresselteam/obsidian-tressel/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719244555
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Chord Lyrics
 tags: ['obsidian插件', 'readme']
 description: 在歌词上显示和弦名称。支持自动换行、节标题和自动检测。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nevernotmove/obsidian-chordlyrics/main/README.md)
->
 
 ---
 

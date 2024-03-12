@@ -1,5 +1,5 @@
 ---
-uid: 2023120522250252
+uid: 20231220112631
 title: Obsidian 插件：【Readme】File Index
 tags: ['obsidian插件', 'readme']
 description: 在Vault中创建一个关于文件的元数据文件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Steffo99/obsidian-file-index/master/README.md)
->
 
 ---
 

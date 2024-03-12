@@ -1,5 +1,5 @@
 ---
-uid: 2024022117282544
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Highlight Helper
 tags: ['obsidian插件', 'readme']
 description: Helper to collect highlights
@@ -27,7 +27,6 @@ Helper to collect highlights
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/byfun/obsidian-highlight-helper/main/README.md)
->
 
 ---
 

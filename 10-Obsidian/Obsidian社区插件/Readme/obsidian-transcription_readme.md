@@ -1,5 +1,5 @@
 ---
-uid: 2023120719453302
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Transcription
 tags: ['obsidian插件', 'readme']
 description: 通过 Whisper 从链接的 Markdown 音频文件创建高质量转录的插件
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/djmango/obsidian-transcription/master/README.md)
->
 
 ---
 

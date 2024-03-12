@@ -1,5 +1,5 @@
 ---
-uid: 2023120719371595
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Note archiver
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记存档到另一个文件夹的工具
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/thenomadlad/obsidian-note-archiver/main/README.md)
->
 
 ---
 

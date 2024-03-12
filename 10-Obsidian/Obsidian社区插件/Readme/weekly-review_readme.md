@@ -1,5 +1,5 @@
 ---
-uid: 2023120719463773
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Weekly Review
 tags: ['obsidian插件', 'readme']
 description: 打开过去一周创建的所有文件来查看。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/brandonkboswell/weekly-review/master/README.md)
->
 
 ---
 

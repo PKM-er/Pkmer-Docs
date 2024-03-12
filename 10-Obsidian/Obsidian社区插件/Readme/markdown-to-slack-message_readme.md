@@ -1,5 +1,5 @@
 ---
-uid: 2023082011355857
+uid: 20230901084916
 title: Obsidian 插件：【Readme】Markdown to Slack Message
 tags: ['obsidian插件', 'readme']
 description: 将Markdown笔记转换为Slack消息块，以便您可以发送到您的Slack。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/idreamer/markdown-to-slack-message/master/README.md)
->
 
 ---
 

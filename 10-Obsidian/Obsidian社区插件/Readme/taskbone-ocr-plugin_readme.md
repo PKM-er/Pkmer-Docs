@@ -1,5 +1,5 @@
 ---
-uid: 2023080322275400
+uid: 20231220115812
 title: Obsidian 插件：Taskbone OCR
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 从图像中提取文本并使其可供搜索。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/schlundd/obsidian-ocr-plugin/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719230269
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Auto Template Trigger
 tags: ['obsidian插件', 'readme']
 description: 创建笔记时自动提示模板。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/numeroflip/obsidian-auto-template-prompt/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # 自动模板触发器
 
-这是一个简单的 Obsidian 插件。（<https://obsidian.md）>
+这是一个简单的 Obsidian 插件。（<<https://obsidian.md>）>
 
 在创建笔记时触发模板提示。
 

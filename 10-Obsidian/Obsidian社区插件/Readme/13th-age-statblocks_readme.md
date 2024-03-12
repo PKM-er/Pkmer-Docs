@@ -1,5 +1,5 @@
 ---
-uid: 2023120719214436
+uid: 20231220112630
 title: Obsidian 插件：【Readme】13th Age Statblocks
 tags: ['obsidian插件', 'readme']
 description: 在黑曜石中渲染13世纪的状态块。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ben/obsidian-13th-age-statblocks/master/README.md)
->
 
 ---
 

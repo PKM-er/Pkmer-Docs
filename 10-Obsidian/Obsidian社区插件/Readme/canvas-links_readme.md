@@ -1,5 +1,5 @@
 ---
-uid: 2023120719241458
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Canvas Links
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中添加视图以显示画布的“外部链接”和“反向链接”。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aqav/obsidian-canvas-links/master/README.md)
->
 
 ---
 

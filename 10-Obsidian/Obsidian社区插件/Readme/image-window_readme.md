@@ -1,5 +1,5 @@
 ---
-uid: 2023080322202281
+uid: 20230817224052
 title: Obsidian 插件：Image Window
 tags: ['obsidian插件', 'readme']
 description: 允许在 Obsidian 新窗口中查看图像和笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/second-window/main/README.md)
->
 
 ---
 

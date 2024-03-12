@@ -1,5 +1,5 @@
 ---
-uid: 2023102611084702
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Unitade
 tags: ['obsidian插件', 'readme']
 description: 毫不费力地将任何文件扩展名视为笔记，并在您的保险库中组织各种文件格式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Falcion/UnitadeOBSIDIAN/main/README.md)
->
 
 ---
 

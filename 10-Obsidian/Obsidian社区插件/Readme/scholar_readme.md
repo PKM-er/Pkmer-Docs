@@ -1,5 +1,5 @@
 ---
-uid: 2023120719422714
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Scholar
 tags: ['obsidian插件', 'readme']
 description: 管理研究图书馆并优化研究工作流程。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lolipopshock/obsidian-scholar/main/README.md)
->
 
 ---
 

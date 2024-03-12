@@ -1,5 +1,5 @@
 ---
-uid: 2023120522255753
+uid: 20231220112631
 title: Obsidian 插件：【Readme】MagicCalendar
 tags: ['obsidian插件', 'readme']
 description: 使用自然语言处理技术在Markdown笔记中查找日历事件，并将其与所选日历无缝同步的基于人工智能的黑曜石插件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vaccarini-Lorenzo/MagicCalendar/main/README.md)
->
 
 ---
 

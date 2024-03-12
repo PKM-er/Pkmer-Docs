@@ -1,5 +1,5 @@
 ---
-uid: 2023120522250422
+uid: 20231220112631
 title: Obsidian 插件：【Readme】File indicators
 tags: ['obsidian插件', 'readme']
 description: 将自定义指标添加到文件资源管理器中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/JakobMick/obsidian-file-indicators/main/README.md)
->
 
 ---
 

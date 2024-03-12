@@ -1,5 +1,5 @@
 ---
-uid: 2023120522265348
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Remove Empty Folders
 tags: ['obsidian插件', 'readme']
 description: 轻松删除空文件夹。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/fnya/remove-empty-folders/main/README.md)
->
 
 ---
 

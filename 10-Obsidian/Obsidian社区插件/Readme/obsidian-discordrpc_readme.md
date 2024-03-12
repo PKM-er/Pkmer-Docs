@@ -1,5 +1,5 @@
 ---
-uid: 2023120719264896
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Discord Rich Presence
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 更新你的Discord状态，让你的朋友们知道你正在Obsidian中做什么。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukeleppan/obsidian-discordrpc/master/README.md)
->
 
 ---
 

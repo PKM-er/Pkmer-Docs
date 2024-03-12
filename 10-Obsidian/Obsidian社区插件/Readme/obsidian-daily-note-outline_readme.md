@@ -1,5 +1,5 @@
 ---
-uid: 2023120719261835
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Daily Note Outline
 tags: ['obsidian插件', 'readme']
 description: 添加一个自定义视图，显示多个日常笔记的大纲，包括标题、链接、标签和列表项。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/iiz00/obsidian-daily-note-outline/master/README.md)
->
 
 ---
 
@@ -54,7 +53,7 @@ Japanese documentation is located on the second half of this page.
 
 Daily Note Outline v1.0.0 添加了对周期性笔记的支持作为新功能。也就是说，支持每周/每月/每季度/每年的笔记和日历集。
 
-（有关周期性笔记的更多信息，请参见<https://github.com/liamcain/obsidian-periodic-notes）<br>>
+（有关周期性笔记的更多信息，请参见<<https://github.com/liamcain/obsidian-periodic-notes>）<br>>
 
 要在 DNO 中显示周期性笔记，需要执行以下步骤。
 
@@ -251,7 +250,7 @@ Daily Note Outline v1.0.0 添加了对周期性笔记的支持作为新功能。
 
 可以为每个元素添加图标和前缀字符串。
 
-如果选择“自定义”图标，则在“自定义图标”字段中输入 Lucide 图标（<https://lucide.dev/）的图标名称。某些图标似乎无法显示。>
+如果选择“自定义”图标，则在“自定义图标”字段中输入 Lucide 图标（<<https://lucide.dev/>）的图标名称。某些图标似乎无法显示。>
 
 除标题外的缩进
 
@@ -409,7 +408,7 @@ Daily Notes 插件非常方便，可以用于记录一些简短的备忘录和�
 
 在 Daily Note Outline v1.0.0 中，我们添加了对周期性笔记的支持作为新功能。这包括对每周/每月/每季度/每年笔记以及日历集的支持。
 
-（有关周期性笔记的详细信息，请参阅 <https://github.com/liamcain/obsidian-periodic-notes）>
+（有关周期性笔记的详细信息，请参阅 <<https://github.com/liamcain/obsidian-periodic-notes>）>
 
 要在 DNO 中显示周期性笔记，需要执行以下步骤：
 
@@ -597,7 +596,7 @@ Daily Notes 插件非常方便，可以用于记录一些简短的备忘录和�
 
 可以为每个元素添加图标和前缀字符串。
 
-如果选择自定义图标，请输入 Lucide（<https://lucide.dev/）的图标名称。似乎无法显示某些图标。>
+如果选择自定义图标，请输入 Lucide（<<https://lucide.dev/>）的图标名称。似乎无法显示某些图标。>
 
 #### 除标题外的缩进
 

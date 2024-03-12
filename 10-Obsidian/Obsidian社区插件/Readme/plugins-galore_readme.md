@@ -1,5 +1,5 @@
 ---
-uid: 2023080322245414
+uid: 20230817224055
 title: Obsidian 插件：Plugins Galore
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 允许你加载和使用那些不在官方插件列表的插件
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/plugins-galore/obsidian-plugins-galore/main/README.md)
->
 
 ---
 

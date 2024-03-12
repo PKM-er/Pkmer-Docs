@@ -1,5 +1,5 @@
 ---
-uid: 2023120719352243
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Longform
 tags: ['文件管理', 'obsidian插件', 'readme']
 description: Obsidian 插件，可帮助您编写和编辑小说、剧本和其他长期项目。
@@ -29,7 +29,6 @@ Obsidian 插件，可帮助您编写和编辑小说、剧本和其他长期项�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kevboh/longform/main/README.md)
->
 
 ---
 

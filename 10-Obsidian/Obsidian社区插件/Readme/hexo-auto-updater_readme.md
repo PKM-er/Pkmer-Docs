@@ -1,5 +1,5 @@
 ---
-uid: 2023120522252341
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Hexo Auto updater
 tags: ['obsidian插件', 'readme']
 description: Hexo插件，可以实现自动更新。
@@ -27,7 +27,6 @@ Hexo 插件，可以实现自动更新。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lifeodyssey/obsidian-hexo-auto-update/main/README.md)
->
 
 ---
 

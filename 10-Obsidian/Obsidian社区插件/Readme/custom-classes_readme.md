@@ -1,5 +1,5 @@
 ---
-uid: 2023120719260175
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Custom Classes
 tags: ['obsidian插件', 'readme']
 description: 直接从您的笔记中为所选择的Markdown元素添加自己的HTML类。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LilaRest/obsidian-custom-classes/main/README.md)
->
 
 ---
 

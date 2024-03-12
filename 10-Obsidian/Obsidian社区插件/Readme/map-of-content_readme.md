@@ -1,5 +1,5 @@
 ---
-uid: 2023080322215320
+uid: 20230817224053
 title: Obsidian 插件：Map of Content
 tags: ['obsidian插件', 'readme']
 description: 自动为您的保险库生成目录地图
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Robin-Haupt-1/Obsidian-Map-of-Content/main/README.md)
->
 
 ---
 

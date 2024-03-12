@@ -1,5 +1,5 @@
 ---
-uid: 2023120719274194
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Excel to Markdown Table
 tags: ['表格', 'obsidian插件', 'readme']
 description: Obsidian插件，可以将来自Microsoft Excel、Google Sheets、Apple Numbers和LibreOffice Calc的数据粘贴为Obsidian编辑器中的Markdown表格。
@@ -29,7 +29,6 @@ Obsidian 插件，可以将来自 Microsoft Excel、Google Sheets、Apple Number
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ganesshkumar/obsidian-excel-to-markdown-table/master/README.md)
->
 
 ---
 

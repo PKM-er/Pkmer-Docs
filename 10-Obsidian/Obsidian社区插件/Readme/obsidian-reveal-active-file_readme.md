@@ -1,5 +1,5 @@
 ---
-uid: 2023080322143985
+uid: 20230817224055
 title: Obsidian 插件：Automatically reveal active file
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 这个插件将自动在侧边导航中显示当前活动文件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/shichongrui/obsidian-reveal-active-file/master/README.md)
->
 
 ---
 

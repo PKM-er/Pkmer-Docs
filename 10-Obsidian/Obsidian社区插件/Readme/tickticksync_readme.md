@@ -1,5 +1,5 @@
 ---
-uid: 2024022121293704
+uid: 20240227160841
 title: Obsidian 插件：【Readme】TickTickSync
 tags: ['obsidian插件', 'readme']
 description: Sync TickTick tasks to Obsidian, and Obsidian tasks to TickTick
@@ -27,7 +27,6 @@ Sync TickTick tasks to Obsidian, and Obsidian tasks to TickTick
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/thesamim/TickTickSync/master/README.md)
->
 
 ---
 

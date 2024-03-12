@@ -1,5 +1,5 @@
 ---
-uid: 2023120719292566
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Frontmatter generator
 tags: ['obsidian插件', 'readme']
 description: 从JSON和JavaScript生成您的笔记的前言
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator/main/README.md)
->
 
 ---
 

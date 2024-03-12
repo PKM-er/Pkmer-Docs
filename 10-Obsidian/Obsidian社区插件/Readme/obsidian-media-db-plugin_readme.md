@@ -1,5 +1,5 @@
 ---
-uid: 2023080322221670
+uid: 20230817224054
 title: Obsidian 插件：Media DB Plugin
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以查询多个API以获取电影、电视剧、动漫、游戏、音乐发行和维基文章，并将它们导入您的保险库。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mProjectsCode/obsidian-media-db-plugin/master/README.md)
->
 
 ---
 

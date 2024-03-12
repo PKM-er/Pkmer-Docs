@@ -1,5 +1,5 @@
 ---
-uid: 2023120719223931
+uid: 20231220115812
 title: Obsidian 插件：【Readme】ArchWiki Reader
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中直接阅读任何ArchWiki页面
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Jackboxx/archwiki-obsidian/main/README.md)
->
 
 ---
 

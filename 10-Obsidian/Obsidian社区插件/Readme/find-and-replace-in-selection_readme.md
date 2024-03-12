@@ -1,5 +1,5 @@
 ---
-uid: 2023080322182476
+uid: 20230817224052
 title: Obsidian 插件：Find and replace in selection
 tags: ['编辑工具', '搜索/排序', '效率', 'obsidian插件', 'readme']
 description: 为搜索和替换进行增强，除了查找的内容并将其替换为指定的文本外，还支持正则，通配符的查找方式。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dy-sh/obsidian-find-and-replace-in-selection/master/README.md)
->
 
 ---
 

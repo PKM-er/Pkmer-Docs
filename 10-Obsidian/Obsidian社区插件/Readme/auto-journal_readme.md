@@ -1,5 +1,5 @@
 ---
-uid: 2023102611072158
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Auto Journal
 tags: ['obsidian插件', 'readme']
 description: 像日常笔记一样的有主见的日志自动化，但可以为Obsidian未打开的那些日子进行补充。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Ebonsignori/obsidian-auto-journal/main/README.md)
->
 
 ---
 

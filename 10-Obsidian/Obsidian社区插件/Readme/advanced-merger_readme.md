@@ -1,5 +1,5 @@
 ---
-uid: 2023120719220077
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Advanced Merger
 tags: ['obsidian插件', 'readme']
 description: 合并一个文件夹的笔记以便更容易导出。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/antoKeinanen/obsidian-advanced-merger/master/README.md)
->
 
 ---
 

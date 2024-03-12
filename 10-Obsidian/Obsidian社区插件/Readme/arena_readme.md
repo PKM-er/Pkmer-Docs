@@ -1,5 +1,5 @@
 ---
-uid: 2023120719224065
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Are.na unofficial
 tags: ['obsidian插件', 'readme']
 description: 允许您将Are.na块保存为笔记。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/0xroko/obsidian-arena-plugin/main/README.md)
->
 
 ---
 

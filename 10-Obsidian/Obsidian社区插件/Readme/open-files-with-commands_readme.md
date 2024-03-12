@@ -1,5 +1,5 @@
 ---
-uid: 2023120719394219
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Open files with commands
 tags: ['obsidian插件', 'readme']
 description: 创建只能一次打开一个文件的命令，并且可以与指挥官插件一起使用。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LostPaul/ob-open-files-with-commands/master/README.md)
->
 
 ---
 

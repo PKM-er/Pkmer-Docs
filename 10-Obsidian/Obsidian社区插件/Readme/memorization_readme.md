@@ -1,5 +1,5 @@
 ---
-uid: 2023082011355934
+uid: 20230901084916
 title: Obsidian 插件：【Readme】Memorization
 tags: ['obsidian插件', 'readme']
 description: 使用间隔重复算法（SM-2）生成学习索引笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nwindian/Memorization-Plugin/master/README.md)
->
 
 ---
 

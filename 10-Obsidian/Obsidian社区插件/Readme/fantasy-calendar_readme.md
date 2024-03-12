@@ -1,5 +1,5 @@
 ---
-uid: 2023120719275613
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Fantasy Calendar
 tags: ['日期相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 中使用 Fantsy Calendar。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/fantasycalendar/obsidian-fantasy-calendar/master/README.md)
->
 
 ---
 

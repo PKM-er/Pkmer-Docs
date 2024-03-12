@@ -1,5 +1,5 @@
 ---
-uid: 2023120719245385
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Code Block Enhancer
 tags: ['编辑工具', '编程', '美化', 'obsidian插件', 'readme']
 description: 增强 Obsidian 代码域的体验，提供复制按钮、行号、语言名称提示，代码块的上下文菜单。。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nyable/obsidian-code-block-enhancer/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 代码块增强插件
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件。>
+这是一个为 Obsidian（<<https://obsidian.md>）开发的插件。>
 
 灵感来自于 [obsidian-code-block-copy](https://github.com/jdbrice/obsidian-code-block-copy)。
 

@@ -1,5 +1,5 @@
 ---
-uid: 2024022117261039
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Apple Books - Import Highlights
 tags: ['obsidian插件', 'readme']
 description: 将您的苹果图书笔记和标注导入到Obsidian。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bandantonio/obsidian-apple-books-highlights-plugin/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719443887
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Theme Toggler
 tags: ['obsidian插件', 'readme']
 description: 在 Obsidian 面板中切换主题。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/larsmagnus/obsidian-theme-toggler/main/README.md)
->
 
 ---
 

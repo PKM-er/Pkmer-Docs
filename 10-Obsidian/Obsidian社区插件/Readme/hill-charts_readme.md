@@ -1,5 +1,5 @@
 ---
-uid: 2024022117282793
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Hill Charts
 tags: ['obsidian插件', 'readme']
 description: Add hill charts to your notes.
@@ -27,7 +27,6 @@ Add hill charts to your notes.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/stufro/obsidian-hill-charts/master/README.md)
->
 
 ---
 

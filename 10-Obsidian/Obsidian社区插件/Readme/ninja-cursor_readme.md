@@ -1,5 +1,5 @@
 ---
-uid: 2023120719370758
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Ninja Cursor
 tags: ['obsidian插件', 'readme']
 description: 提高光标可见性的插件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vrtmrz/ninja-cursor/main/README.md)
->
 
 ---
 

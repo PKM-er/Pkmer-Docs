@@ -1,5 +1,5 @@
 ---
-uid: 2023120719432605
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Sort & Permute lines
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 对整个文件或选择的行进行排序和重新排列。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vinzent03/obsidian-sort-and-permute-lines/master/README.md)
->
 
 ---
 

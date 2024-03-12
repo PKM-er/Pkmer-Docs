@@ -1,5 +1,5 @@
 ---
-uid: 2023080322174598
+uid: 20230817224054
 title: Obsidian 插件：Embedded Note Paths
 tags: ['obsidian插件', 'readme']
 description: 在每个笔记上插入笔记文件路径。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/b0o/obsidian-embedded-note-paths/main/README.md)
->
 
 ---
 

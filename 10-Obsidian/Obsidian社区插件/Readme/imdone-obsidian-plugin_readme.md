@@ -1,5 +1,5 @@
 ---
-uid: 2023080322240402
+uid: 20230817224052
 title: Obsidian 插件：Open cards in imdone from obsidian
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 从Obsidian中打开imdone看板中的卡片，从imdone中在Obsidian中打开卡片的源头。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/imdone/imdone-obsidian-plugin/master/README.md)
->
 
 ---
 
@@ -62,7 +61,7 @@ Imdone Obsidian 插件
 
 ## Obsidian 示例插件
 
-这是一个用于 Obsidian（<https://obsidian.md）的示例插件。>
+这是一个用于 Obsidian（<<https://obsidian.md>）的示例插件。>
 
 该项目使用 TypeScript 提供类型检查和文档。
 

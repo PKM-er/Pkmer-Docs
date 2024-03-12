@@ -1,5 +1,5 @@
 ---
-uid: 20231220115890
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Abbreviations expander
 tags: ['obsidian插件', 'readme']
 description: 轻松创建缩写词，按下“空格”后将展开。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/WoodenMaiden/obsidian-abbreviations/master/README.md)
->
 
 ---
 

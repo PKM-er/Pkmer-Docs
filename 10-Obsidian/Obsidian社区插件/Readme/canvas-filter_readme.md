@@ -1,5 +1,5 @@
 ---
-uid: 2023120719241316
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Canvas Filter
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以让你过滤画布，只显示特定颜色、标签或仅与当前选定节点相连的项目。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/IKoshelev/Obsidian-Canvas-Filter/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 画布过滤插件
 
-这是一个为 Obsidian 画布（<https://obsidian.md）设计的插件，>
+这是一个为 Obsidian 画布（<<https://obsidian.md>）设计的插件，>
 
 它允许通过颜色/连接/标签选择节点，并仅显示这些节点（隐藏所有不相关的节点）
 

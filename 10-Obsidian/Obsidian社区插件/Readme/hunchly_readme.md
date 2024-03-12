@@ -1,5 +1,5 @@
 ---
-uid: 2023120522252911
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Hunchly
 tags: ['obsidian插件', 'readme']
 description: 从Hunchly导入笔记和图片。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/shadowoption/Hunchly-obsidian-plugin/master/README.md)
->
 
 ---
 

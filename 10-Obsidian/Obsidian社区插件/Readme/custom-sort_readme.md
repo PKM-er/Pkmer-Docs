@@ -1,5 +1,5 @@
 ---
-uid: 2023120719260472
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Custom File Explorer sorting
 tags: ['obsidian插件', 'readme']
 description: 允许在文件资源管理器中手动和自动，基于配置驱动的重新排序和排序文件和文件夹。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/SebastianMC/obsidian-custom-sort/master/README.md)
->
 
 ---
 
@@ -178,7 +177,7 @@ sorting-spec: |
 
 ### 来自官方 Obsidian 社区插件页面
 
-插件可以和应该从官方 Obsidian 社区插件列表（<https://obsidian.md/plugins）或直接在> Obsidian 应用程序中安装。>
+插件可以和应该从官方 Obsidian 社区插件列表（<<https://obsidian.md/plugins>）或直接在> Obsidian 应用程序中安装。>
 
 通过其名称“CUSTOM FILE EXPLORER SORTING”搜索插件。
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322190855
+uid: 20230817224052
 title: Obsidian 插件：Get Stock Information
 tags: ['obsidian插件', 'readme']
 description: 接受一个股票代码，并返回一个带有最新股票信息的调用块。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mikejongbloet/obsidian-get-stock-information/master/README.md)
->
 
 ---
 

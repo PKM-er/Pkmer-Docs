@@ -1,5 +1,5 @@
 ---
-uid: 2023080322280118
+uid: 20230817224055
 title: Obsidian 插件：Testing Vault
 tags: ['obsidian插件', 'readme']
 description: 具有笔记、前言、标签、孤立和叶子笔记之间链接的随机化保险库生成器。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pedersen/obsidian-testing-vault/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2024022117272222
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Daily note creator
 tags: ['obsidian插件', 'readme']
 description: Automatically creates missing daily notes
@@ -27,7 +27,6 @@ Automatically creates missing daily notes
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mario-holubar/obsidian-daily-note-creator/master/README.md)
->
 
 ---
 

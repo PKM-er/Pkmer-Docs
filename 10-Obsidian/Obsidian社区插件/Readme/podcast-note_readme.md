@@ -1,5 +1,5 @@
 ---
-uid: 2023120719403904
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Podcast Note
 tags: ['音频和视频', '模板', 'obsidian插件', 'readme']
 description: Podcast Note可以自动将播客信息添加到您的笔记中。
@@ -29,7 +29,6 @@ Podcast Note 可以自动将播客信息添加到您的笔记中。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/marcjulianschwarz/obsidian-podcast-note/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322182546
+uid: 20230817224052
 title: Obsidian 插件：Find orphaned files and broken links
 tags: ['链接处理', '效率', 'obsidian插件', 'readme']
 description: 找到孤立的文件(没有引用的文件) 和 损坏的链接
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vinzent03/find-unlinked-files/main/README.md)
->
 
 ---
 

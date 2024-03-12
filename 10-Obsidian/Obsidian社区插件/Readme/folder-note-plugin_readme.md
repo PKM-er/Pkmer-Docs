@@ -1,5 +1,5 @@
 ---
-uid: 2023120719290567
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Folder Note
 tags: ['笔记文件处理', '界面相关', '搜索/排序', '导航工具', '自动化', 'obsidian插件', 'readme']
 description: 为文件夹中生成卡片风格的文件夹概述。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/xpgo/obsidian-folder-note-plugin/main/README.md)
->
 
 ---
 

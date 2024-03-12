@@ -1,5 +1,5 @@
 ---
-uid: 2023120719345271
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Ledger
 tags: ['金融', 'obsidian插件', 'readme']
 description: 普通文本会计
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tgrosinger/ledger-obsidian/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719302939
+uid: 20231220112631
 title: Obsidian 插件：【Readme】HelpMate
 tags: ['obsidian插件', 'readme']
 description: 将帮助系统整合到Obsidian用户界面中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/TfTHacker/obsidian42-HelpMate/main/README.md)
->
 
 ---
 

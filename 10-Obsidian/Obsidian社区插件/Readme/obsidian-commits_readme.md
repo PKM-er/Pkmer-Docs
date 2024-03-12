@@ -1,5 +1,5 @@
 ---
-uid: 2023080322161874
+uid: 20230817224053
 title: Obsidian 插件：Commits
 tags: ['文件历史', '统计', 'obsidian插件', 'readme']
 description: 跟踪和回顾 Obisidian 仓库指定项目的变更情况。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Darakah/obsidian-commits/main/README.md)
->
 
 ---
 

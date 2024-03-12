@@ -1,5 +1,5 @@
 ---
-uid: 2023120719422010
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Run
 tags: ['obsidian插件', 'readme']
 description: 从dataview查询和JavaScript生成Markdown。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-run/main/README.md)
->
 
 ---
 

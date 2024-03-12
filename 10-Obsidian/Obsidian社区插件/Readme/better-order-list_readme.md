@@ -1,5 +1,5 @@
 ---
-uid: 2024022117264313
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Better Order List
 tags: ['obsidian插件', 'readme']
 description: 支持新的换行顺序列表，如1、或(1)等。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Better-Order-List/master/README.md)
->
 
 ---
 

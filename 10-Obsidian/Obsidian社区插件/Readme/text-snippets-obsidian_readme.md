@@ -1,5 +1,5 @@
 ---
-uid: 2023120719443461
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Text Snippets
 tags: ['自动化', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 更快的打字片段。允许您替换文本模板，创建自己的模板，并扩展文本快捷方式。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ArianaKhit/text-snippets-obsidian/main/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 文本片段插件
 
-这是 Obsidian（<https://obsidian.md）的一个插件。>
+这是 Obsidian（<<https://obsidian.md>）的一个插件。>
 
 它允许您替换文本模板以加快打字速度，几乎像许多文本编辑器和 IDE 一样创建自己的片段。
 

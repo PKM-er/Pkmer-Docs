@@ -1,6 +1,6 @@
 ---
-uid: 2024022121233201
-title: Obsidian 插件：【Readme】R.E.L.A.X.
+uid: 20240227160841
+title: Obsidian 插件：【Readme】R.E.L.A.X
 tags: ['obsidian插件', 'readme']
 description: Multi-regex管理用于跨选择、文件和文件夹进行数据链接和批处理。
 author: AI
@@ -27,7 +27,6 @@ Multi-regex 管理用于跨选择、文件和文件夹进行数据链接和批�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Syr0/R.E.L.A.X./main/README.md)
->
 
 ---
 

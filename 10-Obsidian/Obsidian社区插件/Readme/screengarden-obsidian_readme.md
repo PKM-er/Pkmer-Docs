@@ -1,5 +1,5 @@
 ---
-uid: 2023102611082688
+uid: 20231026111420
 title: Obsidian 插件：【Readme】screen.garden
 tags: ['obsidian插件', 'readme']
 description: 一个用于个人知识管理的实时协作、发布和网络编辑服务。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/screendotgarden/screengarden-obsidian/main/README.md)
->
 
 ---
 

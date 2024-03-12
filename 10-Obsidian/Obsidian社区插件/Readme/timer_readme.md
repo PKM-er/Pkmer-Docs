@@ -26,7 +26,6 @@ modified: 20231215153834
 
 > [!tip] 原文出处
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Raboro/obsidian-timer-plugin/main/README.md)
->
 
 ---
 

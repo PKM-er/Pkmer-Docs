@@ -1,5 +1,5 @@
 ---
-uid: 2023120719314603
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Jupyter
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 在Obsidian中使用Jupyter运行Python代码。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tillahoffmann/obsidian-jupyter/master/README.md)
->
 
 ---
 

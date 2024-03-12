@@ -1,5 +1,5 @@
 ---
-uid: 2023120719223330
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Apply Patterns
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 对文本进行按顺序应用自定义查找和替换模式。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jglev/obsidian-apply-patterns-plugin/main/README.md)
->
 
 ---
 

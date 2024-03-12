@@ -1,5 +1,5 @@
 ---
-uid: 2023080322161684
+uid: 20230817224052
 title: Obsidian 插件：Commando
 tags: ['obsidian插件', 'readme']
 description: 使用定义的或每次调用的值，使命令可以重复调用。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/qaptoR/Commando/master/README.md)
->
 
 ---
 

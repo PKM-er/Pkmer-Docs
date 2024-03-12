@@ -1,5 +1,5 @@
 ---
-uid: 2023120719272502
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Email Block
 tags: ['美化', '第三方工具集成', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 通过特定的代码域语法，可以在 Obdidian 内显示一个建议电子邮件样式。（语法：to，subjuect，body， CC等）
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joleaf/obsidian-email-block-plugin/main/README.md)
->
 
 ---
 

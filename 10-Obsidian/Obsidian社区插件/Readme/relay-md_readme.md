@@ -1,5 +1,5 @@
 ---
-uid: 2024022121234312
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Relay.md
 tags: ['obsidian插件', 'readme']
 description: 快速轻松地与团队分享笔记。使用主题来限制范围，这样只有订阅您的主题的团队成员才会自动收到共享的笔记，直接存入他们的保险库！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/relay-md/relay-md-obsidian-plugin/master/README.md)
->
 
 ---
 

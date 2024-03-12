@@ -1,5 +1,5 @@
 ---
-uid: 2023120719215632
+uid: 20231220112630
 title: Obsidian 插件：【Readme】Adjacency Matrix Maker
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 创建你的金库的互动邻接矩阵
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/SkepticMystic/adjacency-matrix-maker/master/README.md)
->
 
 ---
 

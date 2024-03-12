@@ -1,5 +1,5 @@
 ---
-uid: 2023120719424089
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Sheets Extended
 tags: ['obsidian插件', 'readme']
 description: 垂直标题、合并单元格和具有高级表格兼容性的自定义CSS表格
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/NicoNekoru/obsidan-advanced-table-xt/master/README.md)
->
 
 ---
 

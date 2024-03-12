@@ -1,5 +1,5 @@
 ---
-uid: 2023102611090229
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Zettelkasten LLM Tools
 tags: ['obsidian插件', 'readme']
 description: 由大型语言模型（例如语义搜索）驱动的Zettelkasten笔记记录。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/glovguy/obsidian-gpt-zettelkasten/main/README.md)
->
 
 ---
 

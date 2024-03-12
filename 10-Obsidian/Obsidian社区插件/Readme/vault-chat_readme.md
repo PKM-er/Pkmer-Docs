@@ -1,5 +1,5 @@
 ---
-uid: 2023080322291012
+uid: 20230817224056
 title: Obsidian 插件：Vault Chat
 tags: ['obsidian插件', 'readme']
 description: 一个ChatGPT机器人，训练自您的保险库笔记。向您的AI提问关于您自己的想法和思考的问题！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/exoascension/vault-chat/main/README.md)
->
 
 ---
 

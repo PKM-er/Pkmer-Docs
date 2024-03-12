@@ -1,5 +1,5 @@
 ---
-uid: 2023080322214550
+uid: 20230817224054
 title: Obsidian 插件：Local REST API
 tags: ['obsidian插件', 'readme']
 description: 通过安全的REST API与您的笔记进行交互，解锁您的自动化需求。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/coddingtonbear/obsidian-local-rest-api/main/README.md)
->
 
 ---
 

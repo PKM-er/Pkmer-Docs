@@ -1,5 +1,5 @@
 ---
-uid: 2023120719260961
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Custom Frames
 tags: ['第三方工具集成', '效率', 'obsidian插件', 'readme']
 description: 让 Obsidian 直接打开你预设的网站，你还可以将这些网站固定成图标，扩展你OB能力，或者将熟悉的应用集成到OB中。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Ellpeck/ObsidianCustomFrames/master/README.md)
->
 
 ---
 

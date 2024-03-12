@@ -1,5 +1,5 @@
 ---
-uid: 2023120719230129
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Auto Split
 tags: ['obsidian插件', 'readme']
 description: 使用分割编辑器和预览打开笔记
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jsartelle/obsidian-auto-split/master/README.md)
->
 
 ---
 

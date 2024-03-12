@@ -1,5 +1,5 @@
 ---
-uid: 2023080322270803
+uid: 20230817224055
 title: Obsidian 插件：Smart Typography
 tags: ['编辑工具', '文件重构', '界面相关', 'obsidian插件', 'readme']
 description: 自动将你的输入转化成你设置的字符。相当于一个快速格式化，比如将你的中文括号和英文括号自动替换。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-smart-typography/main/README.md)
->
 
 ---
 

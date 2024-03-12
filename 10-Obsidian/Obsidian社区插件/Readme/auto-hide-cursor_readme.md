@@ -1,5 +1,5 @@
 ---
-uid: 2023080322143170
+uid: 20230817224051
 title: Obsidian 插件：Auto Hide Cursor
 tags: ['obsidian插件', 'readme']
 description: 当滚动时隐藏光标，并在移动鼠标时再次显示光标。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jmxo/obsidian-auto-hide-cursor/main/README.md)
->
 
 ---
 

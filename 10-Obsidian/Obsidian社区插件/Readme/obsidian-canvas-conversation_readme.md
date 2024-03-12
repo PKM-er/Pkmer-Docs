@@ -1,5 +1,5 @@
 ---
-uid: 2023080322153092
+uid: 20230817224053
 title: Obsidian 插件：Canvas Conversation
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: Obsidian的一个插件，允许您使用ChatGPT创建画布对话。
@@ -27,7 +27,6 @@ Obsidian 的一个插件，允许您使用 ChatGPT 创建画布对话。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/AndreBaltazar8/obsidian-canvas-conversation/master/README.md)
->
 
 ---
 

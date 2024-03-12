@@ -1,5 +1,5 @@
 ---
-uid: 2023080322162772
+uid: 20230817224053
 title: Obsidian 插件：Contacts
 tags: ['obsidian插件', 'readme']
 description: 允许管理和组织联系人。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vbeskrovnov/obsidian-contacts/master/README.md)
->
 
 ---
 

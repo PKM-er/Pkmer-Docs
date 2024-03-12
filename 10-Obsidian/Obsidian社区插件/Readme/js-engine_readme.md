@@ -1,5 +1,5 @@
 ---
-uid: 2023102611080160
+uid: 20231026111420
 title: Obsidian 插件：【Readme】JS Engine
 tags: ['obsidian插件', 'readme']
 description: 从您的笔记中运行JavaScript。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mProjectsCode/obsidian-js-engine-plugin/master/README.md)
->
 
 ---
 

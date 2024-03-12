@@ -1,5 +1,5 @@
 ---
-uid: 2023120719275815
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Fantasy Content Generator
 tags: ['游戏', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 用于生成基于种族的幻想内容，例如 战利品、酒馆、饮品和角色的名称等。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Gregory-Jagermeister/Fantasy-Content-Generator/master/README.md)
->
 
 ---
 

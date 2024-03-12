@@ -1,5 +1,5 @@
 ---
-uid: 2023120719275164
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Extract Highlights
 tags: ['快捷键', '笔记文件处理', '链接处理', '编辑器', 'obsidian插件', 'readme']
 description: 允许把笔记中的所有高亮语法的（使用==）的重点内容，通过快捷键，一次性放到到剪贴板中。这些内容在 Obsidian 中使用，会自动生成内链。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/akaalias/extract-highlights-plugin/master/README.md)
->
 
 ---
 

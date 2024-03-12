@@ -1,5 +1,5 @@
 ---
-uid: 2023120719220747
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Agile Task Notes
 tags: ['obsidian插件', 'readme']
 description: 从你的TFS（Azure或Jira）导入你的任务，记录笔记，并制定待办事项清单！
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/BoxThatBeat/obsidian-agile-task-notes/master/README.md)
->
 
 ---
 

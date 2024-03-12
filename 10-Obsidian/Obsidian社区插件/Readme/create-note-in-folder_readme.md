@@ -1,5 +1,5 @@
 ---
-uid: 2023080322164180
+uid: 20230817224052
 title: Obsidian 插件：Create Note in Folder
 tags: ['obsidian插件', 'readme']
 description: 在特定文件夹中添加命令以创建一个笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Lisandra-dev/obsidian-create-note-in-folder/master/README.md)
->
 
 ---
 

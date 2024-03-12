@@ -1,5 +1,5 @@
 ---
-uid: 2023080322241764
+uid: 20230817224054
 title: Obsidian 插件：Oura Plugin for Obsidian
 tags: ['obsidian插件', 'readme']
 description: taking app一个用于将OURA环数据导入笔记应用程序的插件
@@ -27,7 +27,6 @@ taking app 一个用于将 OURA 环数据导入笔记应用程序的插件
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kinabalu/obsidian-oura-plugin/master/README.md)
->
 
 ---
 
@@ -42,7 +41,7 @@ Oura Ring 插件适用于 Obsidian
 ### 特点
 
 - 使用个人访问令牌获取您的 Oura Ring 数据
-  - 要创建个人访问令牌，请访问并登录 <https://cloud.ouraring.com/personal-access-tokens，然后将令牌复制到此插件的设置中>
+  - 要创建个人访问令牌，请访问并登录 <<https://cloud.ouraring.com/personal-access-tokens>，然后将令牌复制到此插件的设置中>
 - 将数据插入格式为 YYYY-MM-DD 的页面中
 - 或者插入到任何页面中，它将使用当天的日期
 

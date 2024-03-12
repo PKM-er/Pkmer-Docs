@@ -1,5 +1,5 @@
 ---
-uid: 2023120719442853
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Text Extractor
 tags: ['obsidian插件', 'readme']
 description: 一个（伴侣）插件，用于帮助从图像（OCR）和PDF中提取文本。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/scambier/obsidian-text-extractor/master/README.md)
->
 
 ---
 

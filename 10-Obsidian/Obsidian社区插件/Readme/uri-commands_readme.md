@@ -1,5 +1,5 @@
 ---
-uid: 2023080322290326
+uid: 20230817224056
 title: Obsidian 插件：URI Commands
 tags: ['链接处理', '文件重构', '效率', 'obsidian插件', 'readme']
 description: 该插件允许你将自定义URI命令添加到命令面板。可以通过预设你习惯的URI 命名方式来让 Obsidian 识别。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kzhovn/uri-commands-obsidian/master/README.md)
->
 
 ---
 

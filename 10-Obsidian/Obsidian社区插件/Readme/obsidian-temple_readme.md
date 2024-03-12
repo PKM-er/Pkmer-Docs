@@ -1,5 +1,5 @@
 ---
-uid: 2023120719442271
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Temple
 tags: ['模板', 'obsidian插件', 'readme']
 description: Obsidian插件，由Nunjucks驱动的模板。
@@ -29,7 +29,6 @@ Obsidian 插件，由 Nunjucks 驱动的模板。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/garyng/obsidian-temple/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719232386
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Banners
 tags: ['编辑工具', '模板', '图片', '美化', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加笔记顶部横幅图（banner）的能力，也能增加横幅图标。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/noatpad/obsidian-banners/master/README.md)
->
 
 ---
 

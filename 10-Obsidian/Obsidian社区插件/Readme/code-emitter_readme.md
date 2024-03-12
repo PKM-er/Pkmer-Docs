@@ -1,5 +1,5 @@
 ---
-uid: 2023120719245659
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Code Emitter
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有Rust、Kotlin、Python、Javascript、TypeScript等。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mokeyish/obsidian-code-emitter/master/README.md)
->
 
 ---
 
@@ -70,7 +69,7 @@ modified: 20230101000000
 | CSharp     | [Sololearn](https://www.sololearn.com)                       |
 | Swift      | [Sololearn](https://www.sololearn.com)                       |
 
-**注意**：只有 `Python`、`TypeScript`、`JavaScript` 在本地沙箱（js / webassembly）中运行。其他语言将发送代码到第三方网站以评估结果（例如：<https://play.kotlinlang.org，https://play.rust-lang.org）。请注意避免发送可能包含敏感信息的源代码。>
+**注意**：只有 `Python`、`TypeScript`、`JavaScript` 在本地沙箱（js / webassembly）中运行。其他语言将发送代码到第三方网站以评估结果（例如：<<https://play.kotlinlang.org>，<https://play.rust-lang.org>）。请注意避免发送可能包含敏感信息的源代码。>
 
 **广告**：您可能会喜欢我的其他插件🤪
 

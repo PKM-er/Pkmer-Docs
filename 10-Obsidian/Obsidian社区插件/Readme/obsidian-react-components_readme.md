@@ -1,5 +1,5 @@
 ---
-uid: 2023120719411900
+uid: 20231220115812
 title: Obsidian 插件：【Readme】React Components
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 在你的笔记中使用并编写React（Jsx）组件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/elias-sundqvist/obsidian-react-components/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 # Obsidian React 组件
 
-这是 Obsidian（<https://obsidian.md）的一个插件。>
+这是 Obsidian（<<https://obsidian.md>）的一个插件。>
 
 它允许您在 Obsidian 笔记中使用带有 Jsx 的 React 组件。
 

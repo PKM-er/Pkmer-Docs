@@ -1,5 +1,5 @@
 ---
-uid: 2023120719245525
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Code Block Labels
 tags: ['obsidian插件', 'readme']
 description: 为篱笆代码块添加标签
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/stbowers/obsidian-codeblock-labels/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2024022117281658
+uid: 20240227160841
 title: Obsidian 插件：【Readme】GPG Encrypt
 tags: ['obsidian插件', 'readme']
 description: GPG 使用快捷键加密内联文本
@@ -27,7 +27,6 @@ GPG 使用快捷键加密内联文本
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lajg-dev/Obsidian-Plugin-GPG-Inline-Encrypt/main/README.md)
->
 
 ---
 

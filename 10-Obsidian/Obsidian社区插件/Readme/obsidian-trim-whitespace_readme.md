@@ -1,5 +1,5 @@
 ---
-uid: 2023080322284883
+uid: 20230817224055
 title: Obsidian 插件：Trim Whitespace
 tags: ['obsidian插件', 'readme']
 description: 从你的 Obsidian 文档中删除不必要的空格
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zlovatt/obsidian-trim-whitespace/main/README.md)
->
 
 ---
 

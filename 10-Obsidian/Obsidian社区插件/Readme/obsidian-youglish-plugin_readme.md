@@ -1,5 +1,5 @@
 ---
-uid: 2023120719465938
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Youglish Plugin
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 支持你通过 Youtube 学习英语的发音。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nhaouari/obsidian-youglish-plugin/master/README.md)
->
 
 ---
 

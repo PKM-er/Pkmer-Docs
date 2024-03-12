@@ -1,5 +1,5 @@
 ---
-uid: 2024022117281058
+uid: 20240227160841
 title: Obsidian 插件：【Readme】GitHub Link
 tags: ['obsidian插件', 'readme']
 description: Enrich your notes with issue and pull request content from GitHub.
@@ -27,7 +27,6 @@ Enrich your notes with issue and pull request content from GitHub.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nathonius/obsidian-github-link/main/README.md)
->
 
 ---
 

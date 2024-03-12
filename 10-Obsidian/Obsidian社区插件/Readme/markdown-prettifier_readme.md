@@ -1,5 +1,5 @@
 ---
-uid: 2023080322220262
+uid: 20230817224053
 title: Obsidian 插件：Markdown prettifier
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 修复并格式化丑陋的Markdown。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/cristianvasquez/obsidian-prettify/master/README.md)
->
 
 ---
 

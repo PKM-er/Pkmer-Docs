@@ -1,5 +1,5 @@
 ---
-uid: 2023120719462278
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Vocabulary View
 tags: ['obsidian插件', 'readme']
 description: 写下一些单词及其解释，并以词汇测试的形式预览它们。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nnshi-s/obsidian-vocabulary-view-plugin/main/README.md)
->
 
 ---
 

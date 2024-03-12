@@ -1,5 +1,5 @@
 ---
-uid: 2023120719273358
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Enhancing Mindmap
 tags: ['思维导图', 'obsidian插件', 'readme']
 description: 让你使用 Markdown 创建思维导图，需要你熟悉下对应的语法。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MarkMindCkm/obsidian-enhancing-mindmap/main/README.md)
->
 
 ---
 

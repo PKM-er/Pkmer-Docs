@@ -1,5 +1,5 @@
 ---
-uid: 2023120719424398
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Shortcut Launcher
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中使用自定义命令触发Apple Shortcuts应用中的快捷键。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/macstories/obsidian-shortcut-launcher/main/README.md)
->
 
 ---
 

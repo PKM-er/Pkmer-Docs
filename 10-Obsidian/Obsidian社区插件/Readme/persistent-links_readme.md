@@ -1,5 +1,5 @@
 ---
-uid: 2023120719402303
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Persistent Links
 tags: ['obsidian插件', 'readme']
 description: 在将块和标题在文件之间移动时，自动修复内部链接。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ivan-lednev/obsidian-persistent-links/master/README.md)
->
 
 ---
 
@@ -55,11 +54,11 @@ modified: 20230101000000
 - 仅在剪切和粘贴事件中自动工作
 - 仅适用于 Wiki 链接
 
-如果您希望插件支持其他工作流，请随时创建一个问题：<https://github.com/ivan-lednev/obsidian-persistent-links/issues。>
+如果您希望插件支持其他工作流，请随时创建一个问题：<<https://github.com/ivan-lednev/obsidian-persistent-links/issues>。>
 
 ## 贡献
 
-如果你发现了一个 bug 或者有一些改进插件的想法，欢迎创建一个 issue：<https://github.com/ivan-lednev/obsidian-persistent-links/issues。>
+如果你发现了一个 bug 或者有一些改进插件的想法，欢迎创建一个 issue：<<https://github.com/ivan-lednev/obsidian-persistent-links/issues>。>
 
 同时也欢迎提交 pull 请求！如果你想要贡献但不知道从何开始，你可以创建一个 issue 或者给我发邮件：bishop1860@gmail.com。
 

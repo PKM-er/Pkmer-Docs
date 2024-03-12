@@ -1,5 +1,5 @@
 ---
-uid: 2023120719232656
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Base Tag Renderer
 tags: ['obsidian插件', 'readme']
 description: 这个插件在预览模式下渲染标签的基本名称。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/darrenkuro/obsidian-basetag/master/README.md)
->
 
 ---
 

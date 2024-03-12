@@ -1,5 +1,5 @@
 ---
-uid: 2023080322234679
+uid: 20230817224055
 title: Obsidian 插件：Obsidian title index
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 一个简单的插件，可以为你的markdown标题添加序列号。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/renmu123/obsidian-markdown-index/master/README.md)
->
 
 ---
 

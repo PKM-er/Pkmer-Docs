@@ -1,5 +1,5 @@
 ---
-uid: 2023080322151554
+uid: 20230817224053
 title: Obsidian 插件：Book Search
 tags: ['obsidian插件', 'readme']
 description: 帮助你找书并创建笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/anpigon/obsidian-book-search-plugin/master/README.md)
->
 
 ---
 

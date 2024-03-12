@@ -1,5 +1,5 @@
 ---
-uid: 2023120719270650
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Dynamic RTL
 tags: ['obsidian插件', 'readme']
 description: 每行/段根据语言动态调整RTL/LTR方向！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mwxgaf/obsidian-dynamic-rtl/master/README.md)
->
 
 ---
 

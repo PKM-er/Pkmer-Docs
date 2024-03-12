@@ -1,5 +1,5 @@
 ---
-uid: 2023080322222196
+uid: 20231220112631
 title: Obsidian 插件：Meld Calc
 tags: ['obsidian插件', 'readme']
 description: 做数学！在你的笔记中评估数学表达式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/meld-cp/obsidian-calc/main/README.md)
->
 
 ---
 

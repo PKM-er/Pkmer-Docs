@@ -1,5 +1,5 @@
 ---
-uid: 2023120719393765
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Omg.publish
 tags: ['obsidian插件', 'readme']
 description: 将选定的文本发布到OMG.lol状态日志的Obsidian插件
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MayMeow/obsidian-omglol-statuslog/master/README.md)
->
 
 ---
 
@@ -49,7 +48,7 @@ Omg.publish 是 Obsidian 的插件，允许您将笔记发布到 omg.lol 的服�
 
 ## 插件设置
 
-您需要从<https://home.omg.lol/account（向下滚动到底部）获取您的用户名和> API 令牌。>
+您需要从<<https://home.omg.lol/account>（向下滚动到底部）获取您的用户名和> API 令牌。>
 
 您还可以更改在发布没有星号表情符号的文本时的默认表情符号。
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719362103
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Maximise Active Pane
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 简单地用活动窗格填充工作区。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/deathau/maximise-active-pane-obsidian/main/README.md)
->
 
 ---
 

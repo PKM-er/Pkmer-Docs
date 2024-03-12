@@ -1,5 +1,5 @@
 ---
-uid: 2023080322135840
+uid: 20230817224053
 title: Obsidian 插件：Alias from heading
 tags: ['obsidian插件', 'readme']
 description: 隐式添加一个与文档中第一个标题匹配的别名。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/basham/obsidian-alias-from-heading/main/README.md)
->
 
 ---
 

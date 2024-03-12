@@ -1,5 +1,5 @@
 ---
-uid: 2023120719254101
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Core Search Assistant
 tags: ['搜索/排序', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 增强内置搜索：键盘界面、卡片预览、更大的预览
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/qawatake/obsidian-core-search-assistant-plugin/main/README.md)
->
 
 ---
 
@@ -133,7 +132,7 @@ modified: 20230101000000
 
 故障排除
 
-### 搜索后热键无效（[问题＃44]（<https://github.com/qawatake/obsidian-core-search-assistant-plugin/issues/44））>
+### 搜索后热键无效（[问题＃44]（<<https://github.com/qawatake/obsidian-core-search-assistant-plugin/issues/44>））>
 
 请重新加载 Obsidian。
 

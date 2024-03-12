@@ -1,5 +1,5 @@
 ---
-uid: 2023120719293680
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Gallery
 tags: ['界面相关', '图片', 'obsidian插件', 'readme']
 description: 将笔记以画廊方式展示，并且可以添加标记 /过滤器 /向图像添加注释。此插件已经长期不维护
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Darakah/obsidian-gallery/main/README.md)
->
 
 ---
 
@@ -123,7 +122,7 @@ customList=5 10 2 4
 
 ### v0.5.2
 
-- 重复文件热修复（<https://github.com/Darakah/obsidian-gallery/issues/6）>
+- 重复文件热修复（<<https://github.com/Darakah/obsidian-gallery/issues/6>）>
 
 ### v0.5.1
 

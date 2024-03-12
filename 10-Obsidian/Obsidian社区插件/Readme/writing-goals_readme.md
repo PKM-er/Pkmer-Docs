@@ -1,5 +1,5 @@
 ---
-uid: 2023120719465303
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Writing Goals
 tags: ['obsidian插件', 'readme']
 description: 为您的笔记和文件夹设定动态写作目标。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/obsidian-writing-goals/main/README.md)
->
 
 ---
 

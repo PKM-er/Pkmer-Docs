@@ -1,5 +1,5 @@
 ---
-uid: 2023080322184981
+uid: 20230817224054
 title: Obsidian 插件：Fountain
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: Obsidian支持喷泉
@@ -27,7 +27,6 @@ Obsidian 支持喷泉
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Darakah/obsidian-fountain/main/README.md)
->
 
 ---
 

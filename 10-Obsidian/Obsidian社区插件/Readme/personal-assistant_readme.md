@@ -1,5 +1,5 @@
 ---
-uid: 2023120719402481
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Personal Assistant
 tags: ['obsidian插件', 'readme']
 description: 通过一个命令在Obsidian中简化工作流程，管理备忘录、格式化记录、引用、前置内容、本地图、主题和插件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/edonyzpc/personal-assistant/master/README.md)
->
 
 ---
 

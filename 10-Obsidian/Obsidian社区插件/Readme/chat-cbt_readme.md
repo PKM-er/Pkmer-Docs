@@ -1,5 +1,5 @@
 ---
-uid: 2024022117265596
+uid: 20240227160841
 title: Obsidian 插件：【Readme】ChatCBT
 tags: ['obsidian插件', 'readme']
 description: AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT)
@@ -27,7 +27,6 @@ AI-powered journaling assistant for your notes, inspired by cognitive behavioral
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/clairefro/obsidian-chat-cbt-plugin/main/README.md)
->
 
 ---
 

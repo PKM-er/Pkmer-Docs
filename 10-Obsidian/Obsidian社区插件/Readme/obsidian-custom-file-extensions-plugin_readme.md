@@ -1,5 +1,5 @@
 ---
-uid: 2023080322165233
+uid: 20230817224053
 title: Obsidian 插件：Custom File Extensions and Types
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许从应用设置简单而模块化地控制哪些视图打开哪些文件扩展名。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MeepTech/obsidian-custom-file-extensions-plugin/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322174671
+uid: 20230817224052
 title: Obsidian 插件：Emo
 tags: ['obsidian插件', 'readme']
 description: 嵌入Markdown在线文件/图像链接。此插件用于将图像上传到Obsidian中的托管或文件上传到Github。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yaleiyale/obsidian-emo-uploader/main/README.md)
->
 
 ---
 

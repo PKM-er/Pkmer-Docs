@@ -1,5 +1,5 @@
 ---
-uid: 2023120719422163
+uid: 20240227160841
 title: Obsidian 插件：【Readme】RunJS
 tags: ['obsidian插件', 'readme']
 description: RunJS是一个在Obsidian（https://obsidian.md）中运行JavaScript代码的插件。
@@ -15,19 +15,18 @@ modified: 20230101000000
 > [!Note] 插件名片
 > - 插件名称：RunJS
 > - 插件作者：eoureo
-> - 插件说明：RunJS 是一个在 Obsidian（<https://obsidian.md）中运行> JavaScript 代码的插件。>
+> - 插件说明：RunJS 是一个在 Obsidian（<<https://obsidian.md>）中运行> JavaScript 代码的插件。>
 > - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/eoureo/obsidian-runjs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?runjs)
 
 ## 概述
 
-RunJS 是一个在 Obsidian（<https://obsidian.md）中运行> JavaScript 代码的插件。>
+RunJS 是一个在 Obsidian（<<https://obsidian.md>）中运行> JavaScript 代码的插件。>
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/eoureo/obsidian-runjs/master/README.md)
->
 
 ---
 

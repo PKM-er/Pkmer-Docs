@@ -1,5 +1,5 @@
 ---
-uid: 2023102611083850
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Text Conversions
 tags: ['obsidian插件', 'readme']
 description: 对所选文本执行各种文本转换操作
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ironsigma/obsidian-text-conversions/main/README.md)
->
 
 ---
 

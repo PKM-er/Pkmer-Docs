@@ -1,5 +1,5 @@
 ---
-uid: 2024022117285661
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Kindle Highlights Importer
 tags: ['obsidian插件', 'readme']
 description: 从html文件中导入kindle的亮点（从kindle应用程序中获取）到一个笔记中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/l2xu/kindle_html_importer/master/README.md)
->
 
 ---
 

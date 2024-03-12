@@ -1,5 +1,5 @@
 ---
-uid: 2023120719465767
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Yaml Manager
 tags: ['obsidian插件', 'readme']
 description: 直接管理编辑 Yaml 的内容
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lijyze/obsidian-state-switcher/main/README.md)
->
 
 ---
 

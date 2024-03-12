@@ -1,5 +1,5 @@
 ---
-uid: 2023120719351446
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Linter
 tags: ['样式工具', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 格式化和样式化你的笔记。它可用于格式化YAML标签、别名、数组和元数据；脚注；标题；间距；数学块；常规markdown内容，如列表、斜体和粗体样式；以及更多使用自定义规则选项。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/platers/obsidian-linter/master/README.md)
->
 
 ---
 

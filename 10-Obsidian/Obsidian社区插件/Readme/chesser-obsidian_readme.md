@@ -1,5 +1,5 @@
 ---
-uid: 2023120719244427
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Chesser
 tags: ['游戏', '界面相关', '编辑工具', 'obsidian插件', 'readme']
 description: 支持在OB中编辑国际象棋棋谱，提供棋盘的查看器/编辑器
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/SilentVoid13/Chesser/master/README.md)
->
 
 ---
 

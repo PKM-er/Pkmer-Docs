@@ -1,5 +1,5 @@
 ---
-uid: 2023080322293612
+uid: 20230817224056
 title: Obsidian 插件：Window Collapse
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 提供了一种简单的方法来折叠左右侧边栏，以扩大编辑其区域面积，而非进入全屏。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/gquental/obsidian-window-collapse/master/README.md)
->
 
 ---
 

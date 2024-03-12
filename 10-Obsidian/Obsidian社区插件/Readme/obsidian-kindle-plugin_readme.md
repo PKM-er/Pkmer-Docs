@@ -1,5 +1,5 @@
 ---
-uid: 2023120719320129
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Kindle Highlights
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 使用您的亚马逊登录或上传您的“我的剪辑”文件来同步您的Kindle书籍突出显示
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hadynz/obsidian-kindle-plugin/master/README.md)
->
 
 ---
 
@@ -101,8 +100,7 @@ modified: 20230101000000
 [2]: <https://mozilla.github.io/nunjucks>
 [3]: <https://github.com/pjeby/hot-reload>
 [4]: <https://read.amazon.com/notebook>
-[5]: <https://help.readwise.io/article/47-why-are-my-kindle-highlights-truncated-ellipses#:~:text=Publishers%20require%20Amazon%20to%20place,the%20book%20will%20be%20truncated.>
+
+[5]: <<https://help.readwise.io/article/47-why-are-my-kindle-highlights-truncated-ellipses>#:~:text=Publishers%20require%20Amazon%20to%20place,the%20book%20will%20be%20truncated.>
+
 [6]: <https://brian.carnell.com/articles/2018/route-around-amazon-kindles-ridiculous-limits-on-highlights-exporting-with-bookcision/>
-
-
-

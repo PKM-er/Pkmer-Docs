@@ -1,5 +1,5 @@
 ---
-uid: 2023120522244428
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Desci
 tags: ['obsidian插件', 'readme']
 description: Obsidian的Web3、IPFS和Desci集成。
@@ -27,7 +27,6 @@ Obsidian 的 Web3、IPFS 和 Desci 集成。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Obsidian-Desci/Obsidian-Desci/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023102611082138
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Potato Indexer
 tags: ['obsidian插件', 'readme']
 description: 允许根据您的选择或整个文件生成内容索引。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LoyalPotato/potato-indexer/master/README.md)
->
 
 ---
 

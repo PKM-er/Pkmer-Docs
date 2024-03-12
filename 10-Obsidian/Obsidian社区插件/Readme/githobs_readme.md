@@ -1,5 +1,5 @@
 ---
-uid: 2024022117280878
+uid: 20240227160841
 title: Obsidian 插件：【Readme】GitHobs
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian作为Github问题编辑器，其中的逻辑取自Git
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/GabAlpha/obsidian-githobs/master/README.md)
->
 
 ---
 

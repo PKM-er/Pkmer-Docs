@@ -1,5 +1,5 @@
 ---
-uid: 2023120522263403
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Periodic Table
 tags: ['obsidian插件', 'readme']
 description: 在侧边栏中查看周期表
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Jake-Cramer/Periodic-Table-Obsidian/main/README.md)
->
 
 ---
 

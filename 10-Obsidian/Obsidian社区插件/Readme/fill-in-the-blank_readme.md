@@ -1,5 +1,5 @@
 ---
-uid: 2023082011354875
+uid: 20230901084916
 title: Obsidian 插件：【Readme】Fill in the Blank (FITB)
 tags: ['obsidian插件', 'readme']
 description: 使用 --magic-- 将内联文本渲染为空行。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mister-mcgee/obsidian-fill-in-the-blank/main/README.md)
->
 
 ---
 

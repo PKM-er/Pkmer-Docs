@@ -1,5 +1,5 @@
 ---
-uid: 2024022117274938
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Font Size Adjuster
 tags: ['obsidian插件', 'readme']
 description: 通过命令调整字体大小。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/RyotaUshio/obsidian-font-size/main/README.md)
->
 
 ---
 

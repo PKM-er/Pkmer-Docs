@@ -1,5 +1,5 @@
 ---
-uid: 2023080322195644
+uid: 20230817224052
 title: Obsidian 插件：Hover External Link
 tags: ['界面相关', '链接处理', 'obsidian插件', 'readme']
 description: 将鼠标悬停在外部链接上以查看目标URL。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jamiebrynes7/obsidian-hover-external-link/master/README.md)
->
 
 ---
 

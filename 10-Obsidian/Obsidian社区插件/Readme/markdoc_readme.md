@@ -1,5 +1,5 @@
 ---
-uid: 2023120719360726
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Markdoc
 tags: ['obsidian插件', 'readme']
 description: Markdoc文件的基本支持。
@@ -29,7 +29,6 @@ Markdoc 文件的基本支持。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kamoshi/obsidian-markdoc/main/README.md)
->
 
 ---
 

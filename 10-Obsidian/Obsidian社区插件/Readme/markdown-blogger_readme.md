@@ -1,5 +1,5 @@
 ---
-uid: 2023120719360861
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Markdown Blogger
 tags: ['obsidian插件', 'readme']
 description: 允许开发者将Markdown笔记推送到他们的本地博客、作品集或静态网站。适用于Astro.js、Next.js以及任何配置为渲染Markdown页面的框架。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/afazio1/obsidian-markdown-blogger/main/README.md)
->
 
 ---
 

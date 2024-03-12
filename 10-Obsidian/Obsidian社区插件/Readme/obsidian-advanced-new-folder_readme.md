@@ -1,5 +1,5 @@
 ---
-uid: 2023080322231114
+uid: 20230817224053
 title: Obsidian 插件：Obsidian Advanced New Folder
 tags: ['文件管理', '效率', '笔记文件处理', 'obsidian插件', 'readme']
 description: 通过命令面板或者快捷键创建文件夹的时候，就指定文件夹的位置。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/piotryordanov/obsidian-advanced-new-folder/master/README.md)
->
 
 ---
 

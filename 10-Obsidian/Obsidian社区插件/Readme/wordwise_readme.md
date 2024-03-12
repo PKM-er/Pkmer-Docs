@@ -1,5 +1,5 @@
 ---
-uid: 2024022122532123
+uid: 20240227160841
 title: Obsidian 插件：【Readme】WordWise
 tags: ['obsidian插件', 'readme']
 description: Writing companion for AI content generation.
@@ -27,7 +27,6 @@ Writing companion for AI content generation.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ckt1031/obsidian-wordwise-plugin/main/README.md)
->
 
 ---
 

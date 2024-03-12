@@ -1,5 +1,5 @@
 ---
-uid: 2023080322211007
+uid: 20230817224052
 title: Obsidian 插件：Korean Book Info Plugin
 tags: ['obsidian插件', 'readme']
 description: 一个可以爬取Yes24获取书籍信息的插件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kmsk99/kr-book-info-plugin/master/README.md)
->
 
 ---
 

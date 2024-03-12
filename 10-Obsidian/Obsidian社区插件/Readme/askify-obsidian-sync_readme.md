@@ -1,5 +1,5 @@
 ---
-uid: 2023080322141810
+uid: 20230817224051
 title: Obsidian 插件：Askify Sync
 tags: ['obsidian插件', 'readme']
 description: Obsidian和Askify之间的同步。
@@ -27,7 +27,6 @@ Obsidian 和 Askify 之间的同步。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/helloworldkr/Askify-Obsidian-Sync/master/README.md)
->
 
 ---
 

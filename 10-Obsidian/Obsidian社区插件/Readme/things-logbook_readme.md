@@ -1,5 +1,5 @@
 ---
-uid: 2023080322281623
+uid: 20230817224055
 title: Obsidian 插件：Things Logbook
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 将你的 Obsidian 日记 和 你的 Things 进行同步。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/liamcain/obsidian-things-logbook/main/README.md)
->
 
 ---
 

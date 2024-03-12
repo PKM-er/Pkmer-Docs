@@ -1,5 +1,5 @@
 ---
-uid: 2023120719372716
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Novel Word Count
 tags: ['文件管理', '统计', '界面相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 默认的文件管理器中，为每个文件、文件夹和仓库显示字数、页数、创建日期或其他统计信息。你可以在设置中自己定义这些显示哪些。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/isaaclyman/novel-word-count-obsidian/master/README.md)
->
 
 ---
 

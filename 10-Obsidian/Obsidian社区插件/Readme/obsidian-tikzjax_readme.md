@@ -1,5 +1,5 @@
 ---
-uid: 2023080322281890
+uid: 20230817224055
 title: Obsidian 插件：TikZJax
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在你的笔记中渲染LaTeX和TikZ图表。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/obsidian-tikzjax/main/README.md)
->
 
 ---
 

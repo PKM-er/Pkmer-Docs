@@ -1,5 +1,5 @@
 ---
-uid: 2023120719434741
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Studier
 tags: ['obsidian插件', 'readme']
 description: 为您的Obsidian.md笔记创建测验，提高学习效果
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/alvaro-cas/studier-obsidian/main/README.md)
->
 
 ---
 

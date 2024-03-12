@@ -1,5 +1,5 @@
 ---
-uid: 2023080322140795
+uid: 20231220112631
 title: Obsidian 插件：APL Render
 tags: ['obsidian插件', 'readme']
 description: 渲染APL语法
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vzsky/apl-obsidian/master/README.md)
->
 
 ---
 

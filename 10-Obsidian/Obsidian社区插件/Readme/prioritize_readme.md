@@ -1,5 +1,5 @@
 ---
-uid: 2023080322250214
+uid: 20230817224055
 title: Obsidian 插件：Prioritize
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中优先处理您的任务和笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/EloiMusk/obsidian-prio-plugin/master/README.md)
->
 
 ---
 

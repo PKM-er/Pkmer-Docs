@@ -1,5 +1,5 @@
 ---
-uid: 2023120719315154
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Key Sequence Shortcut
 tags: ['obsidian插件', 'readme']
 description: 使用简短的快捷键序列执行黑曜石命令。例如，“tp”代表“切换预览”，“tb”代表“切换侧边栏”，更容易记住。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/anselmwang/obsidian-key-sequence-shortcut/main/README.md)
->
 
 ---
 

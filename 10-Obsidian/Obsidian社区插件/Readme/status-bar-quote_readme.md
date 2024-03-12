@@ -1,5 +1,5 @@
 ---
-uid: 2023080322272422
+uid: 20230817224055
 title: Obsidian 插件：Status Bar Quote
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian状态栏中展示你最喜欢的格言
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yesjinu/StatusBarQuote/master/README.md)
->
 
 ---
 

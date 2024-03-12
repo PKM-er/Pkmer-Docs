@@ -1,5 +1,5 @@
 ---
-uid: 2023120719403624
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Pocket integration
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 轻松访问你的Pocket阅读列表条目并为它们创建笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nybbles/obsidian-pocket/master/README.md)
->
 
 ---
 
@@ -169,7 +168,7 @@ Excerpt: >
 
 请注意，在示例模板中，标题被引用，以确保 YAML 前置元数据有效，即使 Pocket 项目的标题中包含冒号。
 
-功能请求、错误报告和 PR 都欢迎！请使用<https://github.com/nybbles/obsidian-pocket/issues> 进行反馈。请将功能请求提交到<https://github.com/nybbles/obsidian-pocket/labels/enhancement，或在现有的功能请求中发表评论以表示您的兴趣。>
+功能请求、错误报告和 PR 都欢迎！请使用<https://github.com/nybbles/obsidian-pocket/issues> 进行反馈。请将功能请求提交到<<https://github.com/nybbles/obsidian-pocket/labels/enhancement>，或在现有的功能请求中发表评论以表示您的兴趣。>
 
 如果您要提交错误报告，请提供控制台日志，以便可以重现和修复问题。您可以从 Obsidian 开发者控制台中复制/粘贴控制台日志，方法是在 Obsidian 中转到 View > Toggle Developer Tools。
 

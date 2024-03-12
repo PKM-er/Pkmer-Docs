@@ -1,5 +1,5 @@
 ---
-uid: 2023082011360844
+uid: 20230901084916
 title: Obsidian 插件：【Readme】Quail
 tags: ['obsidian插件', 'readme']
 description: 通过Quail.ink将保存、发布和交付笔记作为通讯和博客。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lyricat/obsidian-quail/master/README.md)
->
 
 ---
 

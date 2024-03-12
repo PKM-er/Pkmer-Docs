@@ -1,5 +1,5 @@
 ---
-uid: 2023080322232905
+uid: 20230817224054
 title: Obsidian 插件：Obsidian Link Converter
 tags: ['obsidian插件', 'readme']
 description: 扫描保险库中的所有链接，并将其转换为您所需的格式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozntel/obsidian-link-converter/main/README.md)
->
 
 ---
 

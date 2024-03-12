@@ -1,5 +1,5 @@
 ---
-uid: 2023080322221592
+uid: 20230817224053
 title: Obsidian 插件：mdx as md
 tags: ['编辑器', 'obsidian插件', 'readme']
 description: 在Obsidian中编辑mdx文件作为markdown
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mkozhukharenko/mdx-as-md-obsidian/main/README.md)
->
 
 ---
 

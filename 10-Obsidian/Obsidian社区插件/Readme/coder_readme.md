@@ -1,5 +1,5 @@
 ---
-uid: 2024022117273920
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Encoder/Decoder
 tags: ['obsidian插件', 'readme']
 description: None
@@ -27,7 +27,6 @@ None
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/rudimuc/obsidian-coder/master/README.md)
->
 
 ---
 

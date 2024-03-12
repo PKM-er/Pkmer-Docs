@@ -1,5 +1,5 @@
 ---
-uid: 2023120719273926
+uid: 20231220112631
 title: Obsidian 插件：【Readme】ExcaliBrain
 tags: ['思维导图', '效率', '文件管理', '界面相关', '编辑工具', 'obsidian插件', 'readme']
 description: ExcaliBrain 的灵感来自 TheBrain 和 Breadcrumbs。让 Obsidian 具有交互式结构化思维导图，通过解释您的 Markdown 文件中的链接、数据视图字段、标签和 YAML 前端内容而生成。
@@ -29,7 +29,6 @@ ExcaliBrain 的灵感来自 TheBrain 和 Breadcrumbs。让 Obsidian 具有交互
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zsviczian/excalibrain/master/README.md)
->
 
 ---
 

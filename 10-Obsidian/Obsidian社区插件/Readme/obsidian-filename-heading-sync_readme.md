@@ -1,5 +1,5 @@
 ---
-uid: 2023120719282910
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Filename Heading Sync
 tags: ['模板', 'obsidian插件', 'readme']
 description: 黑曜石插件，用于保持文件名与文件的第一个标题同步
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dvcrn/obsidian-filename-heading-sync/master/README.md)
->
 
 ---
 

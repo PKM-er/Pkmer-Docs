@@ -1,5 +1,5 @@
 ---
-uid: 2023080322263628
+uid: 20230817224055
 title: Obsidian 插件：Send Tasks to OmniFocus
 tags: ['obsidian插件', 'readme']
 description: 从当前笔记中提取任务并在OmniFocus中创建它们。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lizard-heart/obsidian-to-omnifocus/main/README.md)
->
 
 ---
 

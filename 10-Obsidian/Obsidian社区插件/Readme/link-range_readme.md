@@ -1,5 +1,5 @@
 ---
-uid: 2023120719350645
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Link Range
 tags: ['obsidian插件', 'readme']
 description: 这个 Obsidian 插件为 Obsidian 带来了范围内的 wiki-link 支持。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/rmellmer/obsidian-link-range/master/README.md)
->
 
 ---
 

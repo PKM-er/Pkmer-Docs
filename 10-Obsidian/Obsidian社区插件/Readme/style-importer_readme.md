@@ -1,5 +1,5 @@
 ---
-uid: 2023080322272872
+uid: 20230817224055
 title: Obsidian 插件：Style Importer
 tags: ['obsidian插件', 'readme']
 description: 从URL导入样式表到你的片段文件夹中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joshrouwhorst/style-importer/main/README.md)
->
 
 ---
 

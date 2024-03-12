@@ -1,5 +1,5 @@
 ---
-uid: 2023102611074910
+uid: 20231026111420
 title: Obsidian 插件：【Readme】File Explorer++
 tags: ['obsidian插件', 'readme']
 description: 使用自定义过滤器（如通配符和正则表达式），根据文件和文件夹的名称、路径和标签，隐藏和固定文件资源管理器中的文件和文件夹。此外，还可以通过文件菜单中的单击操作实现相同的功能。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kelszo/obsidian-file-explorer-plus/master/README.md)
->
 
 ---
 

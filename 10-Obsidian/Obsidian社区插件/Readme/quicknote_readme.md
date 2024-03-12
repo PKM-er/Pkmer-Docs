@@ -1,5 +1,5 @@
 ---
-uid: 2023102611082450
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Quick note
 tags: ['obsidian插件', 'readme']
 description: 在浮动窗口中创建一个快速笔记（通过命令或右键单击Obsidian应用程序图标）
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jamesgreenblue/obsidian-quicknote/main/README.md)
->
 
 ---
 

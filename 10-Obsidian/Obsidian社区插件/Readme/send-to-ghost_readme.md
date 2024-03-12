@@ -1,5 +1,5 @@
 ---
-uid: 2023102611082840
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Send to Ghost
 tags: ['obsidian插件', 'readme']
 description: 一键发送和发布笔记到你的Ghost博客
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Southpaw1496/obsidian-send-to-ghost/master/README.md)
->
 
 ---
 

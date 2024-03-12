@@ -1,5 +1,5 @@
 ---
-uid: 2023120719293853
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Gene 🧬
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI API生成文本的插件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MatissJurevics/Gene-AI/master/README.md)
->
 
 ---
 

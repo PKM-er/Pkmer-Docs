@@ -1,5 +1,5 @@
 ---
-uid: 2023080322194627
+uid: 20231220115812
 title: Obsidian 插件：Hints Flow
 tags: ['obsidian插件', 'readme']
 description: 直接将数据保存到Obsidian，使用指定的模板。从Telegram、WhatsApp、Slack、电子邮件、短信、Raycast等捕获。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/slpbx/obsidian-plugin/master/README.md)
->
 
 ---
 

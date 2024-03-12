@@ -1,5 +1,5 @@
 ---
-uid: 2023120719290247
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Focus Mode
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 中添加专注模式，快速关闭各种panel，让你专注在当前笔记上。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanpcmcquen/obsidian-focus-mode/master/README.md)
->
 
 ---
 

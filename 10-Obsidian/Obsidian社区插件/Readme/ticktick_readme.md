@@ -1,5 +1,5 @@
 ---
-uid: 2023102611084002
+uid: 20231026111420
 title: Obsidian 插件：【Readme】TickTick
 tags: ['obsidian插件', 'readme']
 description: 通过Obsidian在TickTick中检查和创建任务
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/viduycheung/ticktick-obsidian/main/README.md)
->
 
 ---
 

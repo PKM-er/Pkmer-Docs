@@ -1,5 +1,5 @@
 ---
-uid: 2024022117280688
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Git Integration
 tags: ['obsidian插件', 'readme']
 description: Easily backup vault on a remote repository.
@@ -27,7 +27,6 @@ Easily backup vault on a remote repository.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/noradroid/obsidian-git-integration/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ Easily backup vault on a remote repository.
 
 # 黑曜石 Git 集成插件
 
-这是一个为 Obsidian（<https://obsidian.md）设计的> Git 集成插件，允许用户轻松地将他们的 Obsidian 保险库备份到远程存储库。>
+这是一个为 Obsidian（<<https://obsidian.md>）设计的> Git 集成插件，允许用户轻松地将他们的 Obsidian 保险库备份到远程存储库。>
 
 该插件适用于 Windows 10+，并要求在本地系统中安装 Git。
 

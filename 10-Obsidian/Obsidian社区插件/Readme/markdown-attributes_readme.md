@@ -1,5 +1,5 @@
 ---
-uid: 2023080322215838
+uid: 20230817224053
 title: Obsidian 插件：Markdown Attributes
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 在Obsidian.md中为元素添加markdown属性
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/markdown-attributes/main/README.md)
->
 
 ---
 

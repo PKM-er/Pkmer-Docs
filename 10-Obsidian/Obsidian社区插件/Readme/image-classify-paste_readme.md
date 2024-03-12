@@ -1,5 +1,5 @@
 ---
-uid: 2023120522253599
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Image Classify Paste
 tags: ['obsidian插件', 'readme']
 description: 像Typora一样粘贴您的图片，图片链接的名称不是![[Paste xxx]]，而是使用相对目录的![some name](relative-directory/xxx.png)。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ostoe/Ob-ImagePastePlugin/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023102611084803
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Update frontmatter modified date
 tags: ['obsidian插件', 'readme']
 description: 当文件被修改时，自动更新前置数据的修改日期字段。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/alangrainger/obsidian-frontmatter-modified-date/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023082011360097
+uid: 20230901084916
 title: Obsidian 插件：【Readme】Mini Toolbar
 tags: ['obsidian插件', 'readme']
 description: Obsidian中编辑器中的迷你上下文工具栏。
@@ -27,7 +27,6 @@ Obsidian 中编辑器中的迷你上下文工具栏。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Mini-Toolbar/main/README.md)
->
 
 ---
 

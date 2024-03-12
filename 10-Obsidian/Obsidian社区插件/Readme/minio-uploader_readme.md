@@ -1,5 +1,5 @@
 ---
-uid: 2023120719364412
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Minio Uploader
 tags: ['obsidian插件', 'readme']
 description: 上传图片、视频、音频、PDF和其他文件到Minio OSS。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/seebin/obsidian-minio-uploader-plugin/master/README.md)
->
 
 ---
 

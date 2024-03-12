@@ -1,5 +1,5 @@
 ---
-uid: 2023080322290910
+uid: 20230817224055
 title: Obsidian 插件：Vault Changelog
 tags: ['文件历史', 'obsidian插件', 'readme']
 description: 在库中自动生成一个最近变更的文件
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/badrbouslikhin/obsidian-vault-changelog/main/README.md)
->
 
 ---
 

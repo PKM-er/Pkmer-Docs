@@ -1,5 +1,5 @@
 ---
-uid: 2023120719264746
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Digital Garden
 tags: ['obsidian插件', 'readme']
 description: 将你的笔记发布到数字花园，供他人欣赏。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/oleeskild/obsidian-digital-garden/main/README.md)
->
 
 ---
 

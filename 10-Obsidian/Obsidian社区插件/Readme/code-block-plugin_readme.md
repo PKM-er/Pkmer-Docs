@@ -1,5 +1,5 @@
 ---
-uid: 2023080322160018
+uid: 20230817224052
 title: Obsidian 插件：Code Block
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以将文本转换成带有自动语言检测功能的代码块。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/paddan/code-block-plugin/master/README.md)
->
 
 ---
 

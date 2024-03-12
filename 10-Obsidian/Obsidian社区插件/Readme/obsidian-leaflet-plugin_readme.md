@@ -1,5 +1,5 @@
 ---
-uid: 2023080322232802
+uid: 20231220112631
 title: Obsidian 插件：Obsidian Leaflet
 tags: ['第三方工具集成', '图片', 'obsidian插件', 'readme']
 description: 在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
@@ -21,7 +21,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/obsidian-leaflet/main/README.md)
->
 
 ---
 
@@ -271,11 +270,11 @@ tileSubdomains: 1,2,3
 
 这样地图将从以下 URL 加载地图数据：
 
-<https://webrd01.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}>
+<<https://webrd01.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x>={x}&y={y}&z={z}>
 
-<https://webrd02.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}>
+<<https://webrd02.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x>={x}&y={y}&z={z}>
 
-<https://webrd03.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}>
+<<https://webrd03.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x>={x}&y={y}&z={z}>
 
 ## 图像地图
 
@@ -291,7 +290,7 @@ tileSubdomains: 1,2,3
 
 图片地图可以通过以下三种方式加载：
 
-1. 直接 URL（例如，<https://i.imgur.com/jH8j3mJ.jpg）>
+1. 直接 URL（例如，<<https://i.imgur.com/jH8j3mJ.jpg>）>
 2. Obsidian URL（例如，obsidian://open?vault=VaultName&file=Path/To/Image.jpg）
 3. Obsidian 图片的 wikilink（例如，[[Image.jpg]]）
 

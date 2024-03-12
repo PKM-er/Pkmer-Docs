@@ -1,5 +1,5 @@
 ---
-uid: 2023120719241745
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Canvas Presentation
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: 一个插件，帮助您基于序列显示卡片。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Canvas-Presentation/master/README.md)
->
 
 ---
 

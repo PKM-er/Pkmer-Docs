@@ -1,5 +1,5 @@
 ---
-uid: 2023080322255434
+uid: 20230817224055
 title: Obsidian 插件：Relative Find
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 这个插件可以让你根据你的光标位置搜索。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/obsidian-relative-find/master/README.md)
->
 
 ---
 

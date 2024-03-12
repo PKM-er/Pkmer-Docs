@@ -1,5 +1,5 @@
 ---
-uid: 2023120719425220
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Sidebar Expand on Hover
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这个黑曜石插件可以根据鼠标悬停在左侧标签上展开或折叠侧边栏。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/toiq/obsidian-sidebar-expand-on-hover/main/README.md)
->
 
 ---
 

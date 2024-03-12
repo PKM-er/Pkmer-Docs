@@ -1,5 +1,5 @@
 ---
-uid: 2023120719440385
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Tag Page Preview
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 为每个 标签（#Tag），当在笔记中点击时，会弹出包含此标签的一个文件列表。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Aidurber/tag-page-preview/master/README.md)
->
 
 ---
 

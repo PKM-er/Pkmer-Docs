@@ -1,5 +1,5 @@
 ---
-uid: 2023120719221182
+uid: 20231220112631
 title: Obsidian 插件：【Readme】AI Mentor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中与您的开源AI导师见面。提问、获取答案并学习新知识。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/clementpoiret/ai-mentor/master/README.md)
->
 
 ---
 

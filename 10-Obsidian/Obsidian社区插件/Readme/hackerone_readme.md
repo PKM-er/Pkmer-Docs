@@ -1,5 +1,5 @@
 ---
-uid: 2023080322193454
+uid: 20230817224052
 title: Obsidian 插件：HackerOne
 tags: ['obsidian插件', 'readme']
 description: 这是一个HackerOne插件，用于在Obsidian中获取您的漏洞报告。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Neolex-Security/obsidian-hackerone/master/README.md)
->
 
 ---
 

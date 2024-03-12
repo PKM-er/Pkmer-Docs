@@ -1,5 +1,5 @@
 ---
-uid: 2023080322282902
+uid: 20230817224055
 title: Obsidian 插件：Todoist Link
 tags: ['obsidian插件', 'readme']
 description: 创建包括从Obsidian双向链接的Todoist任务和项目
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dennisseidel/obsidian-todoist-link/master/README.md)
->
 
 ---
 

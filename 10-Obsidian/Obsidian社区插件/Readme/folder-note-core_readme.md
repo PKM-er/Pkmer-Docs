@@ -1,5 +1,5 @@
 ---
-uid: 2023080322184220
+uid: 20230817224052
 title: Obsidian 插件：Folder Note Core
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 提供文件夹笔记的核心功能和API
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aidenlx/folder-note-core/master/README.md)
->
 
 ---
 

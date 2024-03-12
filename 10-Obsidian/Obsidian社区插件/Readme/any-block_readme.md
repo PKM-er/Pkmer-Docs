@@ -1,5 +1,5 @@
 ---
-uid: 2023120719222807
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Any Block
 tags: ['obsidian插件', 'readme']
 description: 您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如`列表转表格`。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LincZero/obsidian-any-block/main/README.md)
->
 
 ---
 

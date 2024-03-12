@@ -1,5 +1,5 @@
 ---
-uid: 2024022117270233
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Contribution Graph
 tags: ['obsidian插件', 'readme']
 description: 生成一个交互式热力图来可视化和跟踪您的生产力。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vran-dev/obsidian-contribution-graph/master/README.md)
->
 
 ---
 

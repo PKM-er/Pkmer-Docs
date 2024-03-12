@@ -1,5 +1,5 @@
 ---
-uid: 2023120719253102
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Copy button for code blocks
 tags: ['样式工具', '界面相关', '编辑工具', 'obsidian插件', 'readme']
 description: 为代码块添加一个可见的复制按钮
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jdbrice/obsidian-code-block-copy/master/README.md)
->
 
 ---
 

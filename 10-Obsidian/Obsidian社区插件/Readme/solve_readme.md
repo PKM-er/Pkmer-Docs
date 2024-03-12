@@ -1,5 +1,5 @@
 ---
-uid: 2023102611083222
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Solve
 tags: ['obsidian插件', 'readme']
 description: 您的数学大师！实时计算，无需AI（例如ChatGPT）的麻烦。从日期魔法（例如'现在 + 20天'）到算术技巧（例如'10 + 5 / (2 * 2)'），您在每个笔记中都可以信赖的助手。更多的才华即将展现！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LiamRiddell/obsidian-solve/main/README.md)
->
 
 ---
 

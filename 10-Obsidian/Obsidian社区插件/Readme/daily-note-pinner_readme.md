@@ -1,5 +1,5 @@
 ---
-uid: 2023120522244100
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Daily Note Pinner
 tags: ['obsidian插件', 'readme']
 description: 将当天的日常笔记固定在顶部。取消固定所有过去和未来日期的日常笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukemt/obsidian-daily-note-pinner/main/README.md)
->
 
 ---
 

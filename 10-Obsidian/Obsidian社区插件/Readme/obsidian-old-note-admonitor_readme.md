@@ -1,5 +1,5 @@
 ---
-uid: 2023120719393606
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Old Note Admonitor
 tags: ['obsidian插件', 'readme']
 description: 这个Obsidian插件会在笔记未更新超过特定天数时显示警告。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tadashi-aikawa/obsidian-old-note-admonitor/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2024022117271129
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Ctrl-XA cycle various items
 tags: ['obsidian插件', 'readme']
 description: Cycle through various items with keyboard shortcuts. Such as days, months, true-false, log level,... anything you need.
@@ -27,7 +27,6 @@ Cycle through various items with keyboard shortcuts. Such as days, months, true-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nbossard/obsidian-CtrlXA/master/README.md)
->
 
 ---
 

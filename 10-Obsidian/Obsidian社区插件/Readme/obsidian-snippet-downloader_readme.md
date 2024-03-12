@@ -1,5 +1,5 @@
 ---
-uid: 2023080322271147
+uid: 20230817224055
 title: Obsidian 插件：Snippet Downloader
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，可以帮助从仓库中管理CSS片段（下载/更新）
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Lisandra-dev/obsidian-snippet-downloader/master/README.md)
->
 
 ---
 

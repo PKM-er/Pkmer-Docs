@@ -1,5 +1,5 @@
 ---
-uid: 2024022121220546
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Pinyin Replacer
 tags: ['obsidian插件', 'readme']
 description: 使用拼音音调，无需安装额外的键盘布局。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LarrySAL/pinyin-replacer/master/README.md)
->
 
 ---
 

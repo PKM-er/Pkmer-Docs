@@ -1,5 +1,5 @@
 ---
-uid: 2023120719412072
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Readability Score
 tags: ['obsidian插件', 'readme']
 description: 使用Flesch阅读易度（FRE）公式评估您的写作可读性。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zuchka/obsidian-readability/main/README.md)
->
 
 ---
 

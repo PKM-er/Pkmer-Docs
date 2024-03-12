@@ -1,5 +1,5 @@
 ---
-uid: 2023120522271614
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Tag Project
 tags: ['obsidian插件', 'readme']
 description: 一个项目管理工具：在任何地方标记任务，一页管理。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Odaimoko/tag-project/master/README.md)
->
 
 ---
 

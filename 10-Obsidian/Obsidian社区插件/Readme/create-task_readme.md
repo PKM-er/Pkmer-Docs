@@ -1,5 +1,5 @@
 ---
-uid: 2024022117270774
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Create Task
 tags: ['obsidian插件', 'readme']
 description: 在任何地方更快地创建任务。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/simonknittel/obsidian-create-task/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719313890
+uid: 20231220115812
 title: Obsidian 插件：【Readme】JSON table
 tags: ['obsidian插件', 'readme']
 description: 简单地在JSON和表格之间切换。在你的笔记中，从JSON字符串或返回JSON的URL生成一个表格。从你的笔记中生成JSON表格。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dario-baumberger/obsidian-json-table/master/README.md)
->
 
 ---
 

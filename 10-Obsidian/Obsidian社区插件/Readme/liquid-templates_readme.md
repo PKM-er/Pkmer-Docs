@@ -1,5 +1,5 @@
 ---
-uid: 2023120719351612
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Liquid Templates
 tags: ['模板', 'obsidian插件', 'readme']
 description: 使用支持 LiquidJS 标签的模板
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/oeN/liquid-template/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 ## Liquid 模板
 
-这是 Obsidian（<https://obsidian.md）的一个插件。>
+这是 Obsidian（<<https://obsidian.md>）的一个插件。>
 
 使用这个插件，你可以使用 [LiquidJS](https://liquidjs.com/) 标签来编写你的模板。
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719214605
+uid: 20231220112630
 title: Obsidian 插件：【Readme】2Hop Links Plus
 tags: ['obsidian插件', 'readme']
 description: 与笔记相关的链接，最多可以显示2个跳点，以卡片格式展示，方便浏览笔记之间的连接。每张卡片都包含相应笔记的预览。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/L7Cy/obsidian-2hop-links-plus/master/README.md)
->
 
 ---
 

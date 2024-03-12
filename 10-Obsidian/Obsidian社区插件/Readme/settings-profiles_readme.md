@@ -1,5 +1,5 @@
 ---
-uid: 2024022121241068
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Settings profiles
 tags: ['obsidian插件', 'readme']
 description: 允许您创建各种全局设置配置文件。您可以在不同的保险库之间同步它们。为了保持所有设置同步，您将永远不必为您拥有或将来创建的每个保险库手动调整它们。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/4Source/settings-profiles-obsidian-plugin/master/README.md)
->
 
 ---
 

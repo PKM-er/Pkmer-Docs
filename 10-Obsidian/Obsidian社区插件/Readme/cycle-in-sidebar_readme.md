@@ -1,5 +1,5 @@
 ---
-uid: 2023080322165688
+uid: 20230817224052
 title: Obsidian 插件：Cycle In Sidebar
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，提供了热键来循环左侧或右侧侧边栏中的标签。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/houcheng/obsidian-cycle-in-sidebar-plugin/master/README.md)
->
 
 ---
 

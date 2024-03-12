@@ -1,5 +1,5 @@
 ---
-uid: 2023080322160781
+uid: 20230817224053
 title: Obsidian 插件：Code Preview
 tags: ['obsidian插件', 'readme']
 description: 文件路径预览代码块
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zjhcn/obsidian-code-preview/main/README.md)
->
 
 ---
 

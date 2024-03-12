@@ -1,5 +1,5 @@
 ---
-uid: 2023120522243519
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Chat with Bard
 tags: ['obsidian插件', 'readme']
 description: 直接从Obsidian与Google Bard助手聊天。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Artel250/Obsidian-Talk-with-Bard/master/README.md)
->
 
 ---
 
@@ -60,7 +59,7 @@ modified: 20230101000000
 1. 在命令面板中选择“与巴德聊天”命令。
 2. 开始聊天
 
-**注意**：每次打开聊天窗口时，都会开始一个新的聊天。您可以在<https://bard.google.com/上查看您之前的所有聊天记录。>
+**注意**：每次打开聊天窗口时，都会开始一个新的聊天。您可以在<<https://bard.google.com/>上查看您之前的所有聊天记录。>
 
 ## 开发计划
 

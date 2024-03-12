@@ -1,5 +1,5 @@
 ---
-uid: 2023120719403293
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Plugin Groups
 tags: ['效率', '自动化', '插件', 'obsidian插件', 'readme']
 description: 增强你的插件管理，一次启用和禁用多个插件，或者延迟它们的启动以加快Obsidian的启动时间。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mocca101/obsidian-plugin-groups/main/README.md)
->
 
 ---
 

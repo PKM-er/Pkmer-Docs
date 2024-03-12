@@ -1,5 +1,5 @@
 ---
-uid: 2023080322254177
+uid: 20231220112631
 title: Obsidian 插件：Reading View Enhancer
 tags: ['obsidian插件', 'readme']
 description: 增强阅读视图。使用箭头键折叠/展开元素。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Galacsh/obsidian-reading-view-enhancer/master/README.md)
->
 
 ---
 
@@ -183,9 +182,9 @@ cd obsidian-reading-view-enhancer
 
 # 下载
 
-curl -OL <https://github.com/Galacsh/obsidian-reading-view-enhancer/releases/download/[RELEASE_VERSION>]/main.js>
+curl -OL <<https://github.com/Galacsh/obsidian-reading-view-enhancer/releases/download/>[RELEASE_VERSION>]/main.js>
 
-curl -OL <https://github.com/Galacsh/obsidian-reading-view-enhancer/releases/download/[RELEASE_VERSION>]/manifest.json>
+curl -OL <<https://github.com/Galacsh/obsidian-reading-view-enhancer/releases/download/>[RELEASE_VERSION>]/manifest.json>
 
 ### 通过手动下载
 

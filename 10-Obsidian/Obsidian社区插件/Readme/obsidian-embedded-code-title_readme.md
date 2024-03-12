@@ -1,5 +1,5 @@
 ---
-uid: 2023120719272783
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Embedded Code Title
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这是一个 Obsidian 插件，可以将标题嵌入到代码块中。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/README.md)
->
 
 ---
 
@@ -113,9 +112,11 @@ def main():
 
 如果 [您可以在 Obsidian Publish 上使用自定义域名]，您还可以使用此插件在 Obsidian Publish 的发布站点上使用 `publish.js` 和 `publish.css` 的功能。您可以在 [最新版本发布页面] 上下载 `publish.js` 和 `publish.css`。请参考 [我的发布站点] 作为示例。
 
-[您可以在 Obsidian Publish 上使用自定义域名]: <https://help.obsidian.md/Licenses+%26+add-on+services/Obsidian+Publish#Custom+domain>
+[您可以在 Obsidian Publish 上使用自定义域名]: <<https://help.obsidian.md/Licenses+>%26+add-on+services/Obsidian+Publish#Custom+domain>
+
 [最新版本发布页面]: <https://github.com/tadashi-aikawa/obsidian-embedded-code-title/releases/latest>
-[我的发布站点]: <https://minerva.mamansoft.net/Obsidian/Obsidian+Publish%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8D%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80>
+
+[我的发布站点]: <<https://minerva.mamansoft.net/Obsidian/Obsidian+Publish>%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8D%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80>
 
 ## 🖥️ 针对开发者
 

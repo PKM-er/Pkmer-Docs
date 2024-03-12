@@ -1,5 +1,5 @@
 ---
-uid: 2023080322284386
+uid: 20230817224055
 title: Obsidian 插件：Translate
 tags: ['obsidian插件', 'readme']
 description: 使用 Google 翻译，DeepL，Azure 等工具翻译文本和笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Fevol/obsidian-translate/master/README.md)
->
 
 ---
 

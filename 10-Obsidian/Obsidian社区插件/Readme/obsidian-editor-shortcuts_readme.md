@@ -1,5 +1,5 @@
 ---
-uid: 2023080322160526
+uid: 20230817224054
 title: Obsidian 插件：Code Editor Shortcuts
 tags: ['obsidian插件', 'readme']
 description: 添加经常出现在代码编辑器（如Visual Studio Code（vscode）或Sublime Text）中的快捷键（热键）
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/timhor/obsidian-editor-shortcuts/master/README.md)
->
 
 ---
 

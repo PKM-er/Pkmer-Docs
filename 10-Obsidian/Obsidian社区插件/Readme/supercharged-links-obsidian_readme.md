@@ -1,5 +1,5 @@
 ---
-uid: 2023080322273241
+uid: 20230817224055
 title: Obsidian 插件：Supercharged Links
 tags: ['样式工具', 'obsidian插件', 'readme']
 description: 为内部链接添加属性，其值为目标笔记的前端属性
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mdelobelle/obsidian_supercharged_links/master/README.md)
->
 
 ---
 

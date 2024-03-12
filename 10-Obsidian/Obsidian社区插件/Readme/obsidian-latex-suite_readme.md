@@ -1,5 +1,5 @@
 ---
-uid: 2023120719321523
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Latex Suite
 tags: ['obsidian插件', 'readme']
 description: 通过片段、文本扩展和编辑增强功能，使LaTeX数学排版速度接近手写速度。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/README.md)
->
 
 ---
 

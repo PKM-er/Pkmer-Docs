@@ -1,5 +1,5 @@
 ---
-uid: 2023120719372066
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Note Refactor
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 把笔记内容提取到新的笔记中并分割笔记
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/note-refactor-obsidian/main/README.md)
->
 
 ---
 

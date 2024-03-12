@@ -1,5 +1,5 @@
 ---
-uid: 2023120719223069
+uid: 20231220112631
 title: Obsidian 插件：【Readme】APIRequest
 tags: ['obsidian插件', 'readme']
 description: 从API中请求和检索数据。响应以JSON格式传递，以便与您的笔记轻松集成。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Rooyca/obsidian-api-request/master/README.md)
->
 
 ---
 

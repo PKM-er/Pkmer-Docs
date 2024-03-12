@@ -1,5 +1,5 @@
 ---
-uid: 2023080322282327
+uid: 20230817224055
 title: Obsidian 插件：Timestamp Notes
 tags: ['obsidian插件', 'readme']
 description: 该插件允许在视频旁边进行笔记。使用时间戳在您的笔记中注释。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/juliang22/ObsidianTimestampNotes/master/README.md)
->
 
 ---
 
@@ -96,4 +95,4 @@ modified: 20230101000000
 
 其他作者
 
-该插件使用了 react-player npm 包：<https://www.npmjs.com/package/react-player。>
+该插件使用了 react-player npm 包：<<https://www.npmjs.com/package/react-player>。>

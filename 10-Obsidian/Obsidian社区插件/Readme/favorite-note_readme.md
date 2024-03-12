@@ -1,5 +1,5 @@
 ---
-uid: 2023120522245644
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Favorite Note
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记标记为收藏。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mahmudz/obsidian-favorite-plugin/master/README.md)
->
 
 ---
 

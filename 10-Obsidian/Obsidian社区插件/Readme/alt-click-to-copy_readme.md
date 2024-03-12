@@ -1,5 +1,5 @@
 ---
-uid: 2024022117260852
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Alt-Click to Copy
 tags: ['obsidian插件', 'readme']
 description: Alt-点击代码块以将其数据复制到剪贴板
@@ -27,7 +27,6 @@ Alt- 点击代码块以将其数据复制到剪贴板
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/veersheth/obsidian-alt-click-to-copy/master/README.md)
->
 
 ---
 

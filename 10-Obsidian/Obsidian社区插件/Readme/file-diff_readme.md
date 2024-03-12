@@ -1,5 +1,5 @@
 ---
-uid: 2023080322181224
+uid: 20230817224052
 title: Obsidian 插件：File Diff
 tags: ['obsidian插件', 'readme']
 description: 查看两个文件之间的差异，并选择合并选项。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/friebetill/obsidian-file-diff/master/README.md)
->
 
 ---
 

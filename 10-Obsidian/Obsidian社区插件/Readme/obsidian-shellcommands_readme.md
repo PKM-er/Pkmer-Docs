@@ -1,5 +1,5 @@
 ---
-uid: 2023080322264330
+uid: 20231220112631
 title: Obsidian 插件：Shell commands
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 定义你想通过命令面板、热键、URI链接或自动事件执行的系统命令。例如：打开外部应用程序或执行自动文件修改。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Taitava/obsidian-shellcommands/main/README.md)
->
 
 ---
 

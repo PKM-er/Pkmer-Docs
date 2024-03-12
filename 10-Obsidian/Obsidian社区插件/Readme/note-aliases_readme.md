@@ -1,5 +1,5 @@
 ---
-uid: 2023080322225759
+uid: 20230817224053
 title: Obsidian 插件：Note aliases
 tags: ['obsidian插件', 'readme']
 description: 这个插件管理Obsidian中的笔记别名。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pulsovi/obsidian-note-aliases/master/README.md)
->
 
 ---
 

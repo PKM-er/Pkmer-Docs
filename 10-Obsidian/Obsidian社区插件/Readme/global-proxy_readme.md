@@ -1,5 +1,5 @@
 ---
-uid: 2024022117281477
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Global Proxy
 tags: ['obsidian插件', 'readme']
 description: Use network proxy according to the rules configured in this plugin
@@ -27,7 +27,6 @@ Use network proxy according to the rules configured in this plugin
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/windingblack/obsidian-global-proxy/master/README.md)
->
 
 ---
 

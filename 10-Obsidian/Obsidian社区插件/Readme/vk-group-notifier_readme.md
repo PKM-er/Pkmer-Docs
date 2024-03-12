@@ -1,5 +1,5 @@
 ---
-uid: 2024022122530940
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Vk group notifier
 tags: ['obsidian插件', 'readme']
 description: 跟踪来自vk.com群组的新闻帖子。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/filichev-evgeny/obsidianvkupdatenotifier/master/README.md)
->
 
 ---
 

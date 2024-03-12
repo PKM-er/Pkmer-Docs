@@ -1,5 +1,5 @@
 ---
-uid: 2023120719233539
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Better footnote
 tags: ['界面相关', '笔记文件处理', '编辑工具', '效率', 'obsidian插件', 'readme']
 description: 为 Obsidian 注脚增加悬浮展示功能，鼠标指向后，注脚的解释会出现在对应位置。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aidenlx/better-fn/master/README.md)
->
 
 ---
 

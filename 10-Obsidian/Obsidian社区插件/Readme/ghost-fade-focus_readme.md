@@ -1,5 +1,5 @@
 ---
-uid: 2023080322190963
+uid: 20230817224052
 title: Obsidian 插件：Ghost Fade Focus
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 专注于当前行，其他的像鬼魂一样消失了！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/skipadu/obsidian-ghost-fade-focus/main/README.md)
->
 
 ---
 

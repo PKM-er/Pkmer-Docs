@@ -1,5 +1,5 @@
 ---
-uid: 2023102611080430
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Local Backup
 tags: ['obsidian插件', 'readme']
 description: Obsidian 启动时自动创建保险库的备份。
@@ -27,7 +27,6 @@ Obsidian 启动时自动创建保险库的备份。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/cgcel/obsidian-local-backup/master/README.md)
->
 
 ---
 

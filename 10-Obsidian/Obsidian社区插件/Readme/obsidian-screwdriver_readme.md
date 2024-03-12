@@ -1,5 +1,5 @@
 ---
-uid: 2023120719422860
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Screwdriver
 tags: ['obsidian插件', 'readme']
 description: 您的保险库中放入和取出任何文件的实用程序。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vrtmrz/obsidian-screwdriver/main/README.md)
->
 
 ---
 

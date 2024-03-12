@@ -1,5 +1,5 @@
 ---
-uid: 2023102611081663
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Nifty Links
 tags: ['obsidian插件', 'readme']
 description: 生成优雅的、Notion风格的富链接卡片，提升您的笔记体验。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/x-Ai/obsidian-nifty-links/master/README.md)
->
 
 ---
 

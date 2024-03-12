@@ -1,5 +1,5 @@
 ---
-uid: 2023120719374462
+uid: 20240121000900
 title: Obsidian 插件：【Readme】Obsidian Clipper
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以帮助你从网络上捕捉精彩瞬间。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jgchristopher/obsidian-clipper/main/README.md)
->
 
 ---
 

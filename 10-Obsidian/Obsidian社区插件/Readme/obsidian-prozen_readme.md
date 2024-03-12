@@ -1,5 +1,5 @@
 ---
-uid: 2023120719405443
+uid: 20231220115812
 title: Obsidian 插件：【Readme】ProZen
 tags: ['obsidian插件', 'readme']
 description: 进入禅模式，专注于写作。该插件将当前标签扩展到全屏，除内容外删除一切。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/cmoskvitin/obsidian-prozen/master/README.md)
->
 
 ---
 

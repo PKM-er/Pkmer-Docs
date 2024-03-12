@@ -1,5 +1,5 @@
 ---
-uid: 2023120719294714
+uid: 20231220112631
 title: Obsidian 插件：【Readme】GitHub Issue Augmentation
 tags: ['obsidian插件', 'readme']
 description: 增加了GitHub问题ID
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/samprintz/obsidian-issue-augmentation-plugin/main/README.md)
->
 
 ---
 

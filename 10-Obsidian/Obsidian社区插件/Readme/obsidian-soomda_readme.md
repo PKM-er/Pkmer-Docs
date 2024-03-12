@@ -1,5 +1,5 @@
 ---
-uid: 2023080322271423
+uid: 20230817224055
 title: Obsidian 插件：Soomda
 tags: ['obsidian插件', 'readme']
 description: 快速隐藏你的侧边栏。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/michaellee/soomda/master/README.md)
->
 
 ---
 

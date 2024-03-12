@@ -1,5 +1,5 @@
 ---
-uid: 2023082011355446
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Laws of Form
 tags: ['obsidian插件', 'readme']
 description: 允许您创建、管理和显示形式的法则表达式，例如 ((a)) (b) = a (b)。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Kevger/obsidian-laws-of-form/main/README.md)
->
 
 ---
 

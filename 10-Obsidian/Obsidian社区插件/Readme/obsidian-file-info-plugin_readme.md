@@ -1,5 +1,5 @@
 ---
-uid: 2023080322181674
+uid: 20230817224054
 title: Obsidian 插件：File Info Panel
 tags: ['文件管理', '效率', 'obsidian插件', 'readme']
 description: 文件信息视图，显示活动文件的创建日期、修改日期、文件大小以及在其本机应用程序中打开文件和打开文件文件夹的链接。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/CattailNu/obsidian-file-info-panel-plugin/main/README.md)
->
 
 ---
 

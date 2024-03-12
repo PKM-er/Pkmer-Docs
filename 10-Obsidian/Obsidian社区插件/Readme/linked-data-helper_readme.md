@@ -1,5 +1,5 @@
 ---
-uid: 2023080322213336
+uid: 20231220112631
 title: Obsidian 插件：Linked Data Helper
 tags: ['obsidian插件', 'readme']
 description: 准备Linked Data词汇所需的数据。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kometenstaub/linked-data-helper/main/README.md)
->
 
 ---
 

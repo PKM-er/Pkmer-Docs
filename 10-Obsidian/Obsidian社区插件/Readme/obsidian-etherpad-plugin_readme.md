@@ -1,5 +1,5 @@
 ---
-uid: 2023080322175533
+uid: 20230817224054
 title: Obsidian 插件：Etherpad Lite
 tags: ['obsidian插件', 'readme']
 description: .复制并与Etherpad Lite服务器同步笔记，以解锁与他人的简单基于网络的协作。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/egradman/obsidian-etherpad-lite/master/README.md)
->
 
 ---
 

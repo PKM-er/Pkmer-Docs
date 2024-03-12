@@ -1,5 +1,5 @@
 ---
-uid: 2023120719434320
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Stille
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 集中精力一次写一个部分。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/michaellee/stille/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322221429
+uid: 20230817224053
 title: Obsidian 插件：Matter
 tags: ['obsidian插件', 'readme']
 description: 官方事务黑曜石集成。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/getmatterapp/obsidian-matter/master/README.md)
->
 
 ---
 

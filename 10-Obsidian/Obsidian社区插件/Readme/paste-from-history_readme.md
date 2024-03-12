@@ -1,5 +1,5 @@
 ---
-uid: 2024022121210865
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Paste From History
 tags: ['obsidian插件', 'readme']
 description: 从编辑器的最近剪贴板历史粘贴。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Karakaz/obsidian-paste-from-history/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719364878
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Mochi Cards Pro
 tags: ['obsidian插件', 'readme']
 description: 使用Mochi的专业订阅提供的API，在Mochi.cards上创建闪卡。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/xHayden/obsidian-mochi-cards-pro/master/README.md)
->
 
 ---
 

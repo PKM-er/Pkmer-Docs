@@ -44,7 +44,7 @@
       "date-created": true,
       "date-created-key": "uid",
       "force-retention-of-create-value": false,
-      "date-modified": true,
+      "date-modified": false,
       "date-modified-key": "modified",
       "format": "YYYYMMDDHHmmss"
     },

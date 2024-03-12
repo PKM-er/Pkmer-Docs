@@ -1,5 +1,5 @@
 ---
-uid: 2023120719444811
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Timeline View
 tags: ['obsidian插件', 'readme']
 description: 根据给定的属性，在时间轴上展示您的黑曜石笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/b-camphart/timeline-view/main/README.md)
->
 
 ---
 

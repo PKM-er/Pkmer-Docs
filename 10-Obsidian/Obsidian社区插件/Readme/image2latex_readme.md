@@ -1,5 +1,5 @@
 ---
-uid: 2023120719310672
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Image2LaTEX
 tags: ['obsidian插件', 'readme']
 description: 将您的图像转换为LaTEX代码。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Hugo-Persson/obsidian-ocrlatex/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2024022117265795
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Consecutive Lists
 tags: ['obsidian插件', 'readme']
 description: Create consecutive lists that are displayed separately in reading mode.
@@ -27,7 +27,6 @@ Create consecutive lists that are displayed separately in reading mode.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jtucker2/obsidian-consecutive-lists/master/README.md)
->
 
 ---
 

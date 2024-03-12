@@ -1,5 +1,5 @@
 ---
-uid: 2024022121292636
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Text Analysis
 tags: ['obsidian插件', 'readme']
 description: 实时文本分析，涵盖超过30个指标，包括可读性、结构和复杂性。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mihakralj/obsidian-textanalysis/main/README.md)
->
 
 ---
 

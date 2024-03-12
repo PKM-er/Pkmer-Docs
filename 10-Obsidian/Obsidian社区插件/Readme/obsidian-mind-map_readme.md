@@ -1,5 +1,5 @@
 ---
-uid: 2023120719364085
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Mind Map
 tags: ['界面相关', '思维导图', 'obsidian插件', 'readme']
 description: 将 Obsidian 笔记作为思维导图使用和查看。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/obsidian-mind-map/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322173752
+uid: 20230817224052
 title: Obsidian 插件：Easy Typing
 tags: ['编辑工具', '效率', '中文处理', 'obsidian插件', 'readme']
 description: 输入时，按照你的设定自动格式化一些输入的符号，简化输入繁琐步骤。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Yaozhuwa/easy-typing-obsidian/master/README.md)
->
 
 ---
 

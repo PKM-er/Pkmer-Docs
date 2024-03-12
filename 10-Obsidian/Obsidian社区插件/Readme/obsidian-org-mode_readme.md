@@ -1,5 +1,5 @@
 ---
-uid: 2023080322241682
+uid: 20230817224054
 title: Obsidian 插件：Org Mode
 tags: ['编辑器', '编辑工具', '效率', '编程', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加Org mode。Org mode 是文本编辑器 Emacs 的一种支持内容分级显示的编辑模式。这种模式下可以创建待办列表，日志管理，做笔记，做工程计划或者写网页。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanpcmcquen/obsidian-org-mode/master/README.md)
->
 
 ---
 

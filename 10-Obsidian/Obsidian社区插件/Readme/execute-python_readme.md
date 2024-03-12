@@ -1,5 +1,5 @@
 ---
-uid: 2023102611074665
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Execute Python
 tags: ['obsidian插件', 'readme']
 description: 轻量级的Python代码片段执行器，支持运行时输入。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/WilliamEchols/obsidian-execute-python/master/README.md)
->
 
 ---
 

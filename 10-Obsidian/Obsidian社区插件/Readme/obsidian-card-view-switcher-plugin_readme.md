@@ -1,5 +1,5 @@
 ---
-uid: 2023120719242025
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Card View Switcher
 tags: ['obsidian插件', 'readme']
 description: 快速切换卡片视图
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/qawatake/obsidian-card-view-switcher-plugin/main/README.md)
->
 
 ---
 

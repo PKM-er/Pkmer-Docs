@@ -1,5 +1,5 @@
 ---
-uid: 2023080322154543
+uid: 20240121000900
 title: Obsidian 插件：Checkbox 3 states
 tags: ['obsidian插件', 'readme']
 description: 复选框列表的第三种状态。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hrenaud/obsidian-checkbox3states-plugin/main/README.md)
->
 
 ---
 

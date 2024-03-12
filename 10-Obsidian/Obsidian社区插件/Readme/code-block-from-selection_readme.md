@@ -1,5 +1,5 @@
 ---
-uid: 2023080322160213
+uid: 20230817224052
 title: Obsidian 插件：Code block from selection
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 为所选文本添加代码块。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dy-sh/obsidian-code-block-from-selection/master/README.md)
->
 
 ---
 

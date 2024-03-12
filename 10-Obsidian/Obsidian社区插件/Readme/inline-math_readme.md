@@ -1,5 +1,5 @@
 ---
-uid: 2023120719371054
+uid: 20231220115812
 title: Obsidian 插件：【Readme】No more flickering inline math
 tags: ['obsidian插件', 'readme']
 description: 不再被Obsidian中闪烁的行内数学所干扰。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/RyotaUshio/obsidian-inline-math/master/README.md)
->
 
 ---
 

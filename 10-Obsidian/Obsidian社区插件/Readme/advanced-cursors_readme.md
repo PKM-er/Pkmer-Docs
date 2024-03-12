@@ -1,5 +1,5 @@
 ---
-uid: 2023120719215899
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Advanced Cursors
 tags: ['obsidian插件', 'readme']
 description: 更强大地使用多个光标。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/SkepticMystic/advanced-cursors/master/README.md)
->
 
 ---
 

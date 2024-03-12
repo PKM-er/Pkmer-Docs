@@ -1,5 +1,5 @@
 ---
-uid: 2023120719404051
+uid: 20231220115812
 title: Obsidian 插件：【Readme】PodNotes
 tags: ['obsidian插件', 'readme']
 description: 轻松记录播客节目。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chhoumann/PodNotes/master/README.md)
->
 
 ---
 

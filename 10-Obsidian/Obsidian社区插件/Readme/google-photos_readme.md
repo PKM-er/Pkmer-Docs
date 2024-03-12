@@ -1,5 +1,5 @@
 ---
-uid: 2023120719295730
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Google Photos
 tags: ['obsidian插件', 'readme']
 description: Obsidian与Google照片的集成
@@ -29,7 +29,6 @@ Obsidian 与 Google 照片的集成
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/alangrainger/obsidian-google-photos/main/README.md)
->
 
 ---
 

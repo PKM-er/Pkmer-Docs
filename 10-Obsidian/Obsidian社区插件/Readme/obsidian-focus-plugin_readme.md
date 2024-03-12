@@ -1,5 +1,5 @@
 ---
-uid: 2023120719290100
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Focus and Highlight
 tags: ['obsidian插件', 'readme']
 description: Obsidian的一个插件，可以突出显示并专注于当前选定的标题
@@ -29,7 +29,6 @@ Obsidian 的一个插件，可以突出显示并专注于当前选定的标题
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nagi1999a/obsidian-focus-plugin/master/README.md)
->
 
 ---
 

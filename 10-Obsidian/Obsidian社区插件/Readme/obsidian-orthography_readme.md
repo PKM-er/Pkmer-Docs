@@ -1,5 +1,5 @@
 ---
-uid: 2023120719380930
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Obsidian Orthography
 tags: ['文件重构', '效率', 'obsidian插件', 'readme']
 description: 用于检查和修复文本中的拼写错误。暂不知支持中文。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/denisoed/obsidian-orthography/master/README.md)
->
 
 ---
 

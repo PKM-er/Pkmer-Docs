@@ -1,5 +1,5 @@
 ---
-uid: 2024022117283289
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Image Collector
 tags: ['obsidian插件', 'readme']
 description: 从当前笔记中收集所有图片并保存到一个新文件夹中
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tdaykin/obsidian_image_collector/master/README.md)
->
 
 ---
 

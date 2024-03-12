@@ -1,5 +1,5 @@
 ---
-uid: 2023120719461813
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Vim Input Method Switch
 tags: ['Vim相关', 'obsidian插件', 'readme']
 description: 当 Vim 模式被启用时，使用 fcitx-remote 切换输入法。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yuanotes/obsidian-vim-im-switch-plugin/master/README.md)
->
 
 ---
 

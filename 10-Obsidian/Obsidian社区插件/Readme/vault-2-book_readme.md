@@ -1,5 +1,5 @@
 ---
-uid: 2023082011361877
+uid: 20230820121454
 title: Obsidian 插件：【Readme】Vault 2 Book
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记转换为一本书，创建一个包含所有链接的笔记的单个文件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mitra98t/vault2book-plugin/master/README.md)
->
 
 ---
 

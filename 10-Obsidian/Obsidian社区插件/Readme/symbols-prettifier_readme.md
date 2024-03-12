@@ -1,5 +1,5 @@
 ---
-uid: 2023080322273516
+uid: 20230817224055
 title: Obsidian 插件：Symbols Prettifier
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您使用您经常输入的实际符号（如箭头）来美化符号。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/FlorianWoelki/obsidian-symbols-prettifier/master/README.md)
->
 
 ---
 

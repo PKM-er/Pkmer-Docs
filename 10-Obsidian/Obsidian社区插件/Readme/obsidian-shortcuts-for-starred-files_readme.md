@@ -1,5 +1,5 @@
 ---
-uid: 2023080322195195
+uid: 20230817224055
 title: Obsidian 插件：Hotkeys for Bookmarks
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 为前9个加星标的文件设置单独的热键，只需要键盘就可以打开它们。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vinzent03/obsidian-shortcuts-for-starred-files/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322210384
+uid: 20230817224052
 title: Obsidian 插件：Kill and Yank
 tags: ['obsidian插件', 'readme']
 description: 在编辑器中启用杀死和抢夺（如Emacs）
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/inouetakuya/obsidian-kill-and-yank/main/README.md)
->
 
 ---
 

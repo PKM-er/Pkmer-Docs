@@ -1,5 +1,5 @@
 ---
-uid: 2023080322221352
+uid: 20230817224053
 title: Obsidian 插件：Mathpad
 tags: ['obsidian插件', 'readme']
 description: Onsidian计算机代数系统和计算器
@@ -27,7 +27,6 @@ Onsidian 计算机代数系统和计算器
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Canna71/obsidian-mathpad/master/README.md)
->
 
 ---
 

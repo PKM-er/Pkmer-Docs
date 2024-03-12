@@ -1,5 +1,5 @@
 ---
-uid: 2023120719382866
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Obsidian42 - Strange New Worlds
 tags: ['obsidian插件', 'readme']
 description: 揭示网络思维和你的保险库创造的奇异新世界。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/TfTHacker/obsidian42-strange-new-worlds/master/README.md)
->
 
 ---
 
@@ -49,7 +48,7 @@ modified: 20230101000000
 
 请查看关于如何使用奇异的新世界的视频：<https://tfthacker.com/SNW-videos>
 
-如果您对阅读我写的文章感兴趣，请在 Medium 上查看我的文章：<https://bit.ly/o42-medium。>
+如果您对阅读我写的文章感兴趣，请在 Medium 上查看我的文章：<<https://bit.ly/o42-medium>。>
 
 如果您喜欢这个插件，请随意在 [https://ko-fi/TfTHacker](https://ko-fi.com/TfTHacker) 上给我买杯咖啡。
 

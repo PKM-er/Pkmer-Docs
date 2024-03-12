@@ -1,5 +1,5 @@
 ---
-uid: 2023120719314291
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Juggl
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 为Obsidian添加一个完全交互式、可样式化和可扩展的图形视图。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HEmile/juggl/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023082011355689
+uid: 20230901084916
 title: Obsidian 插件：【Readme】Markdown Chords
 tags: ['obsidian插件', 'readme']
 description: 在Markdown中添加弦乐器（例如吉他）的音乐和弦符号以及弦图。支持任何西方音阶/调式的和弦，包括扩展的爵士和弦。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dnotes/obsidian-markdown-chords/main/README.md)
->
 
 ---
 

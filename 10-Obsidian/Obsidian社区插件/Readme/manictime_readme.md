@@ -1,5 +1,5 @@
 ---
-uid: 2024022117290929
+uid: 20240227160841
 title: Obsidian 插件：【Readme】ManicTime
 tags: ['obsidian插件', 'readme']
 description: 将活动文件的路径发送到本地安装的ManicTime客户端。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/manictime/manictime-obsidian/main/README.md)
->
 
 ---
 

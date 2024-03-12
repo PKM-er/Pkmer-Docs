@@ -1,5 +1,5 @@
 ---
-uid: 2023120719222673
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Antidote Grammar Checker Integration
 tags: ['obsidian插件', 'readme']
 description: 非官方集成Antidote，一款强大的英语和法语语法检查器
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Heziode/obsidian-antidote/main/README.md)
->
 
 ---
 

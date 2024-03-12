@@ -1,5 +1,5 @@
 ---
-uid: 2023120719452031
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Tokei
 tags: ['obsidian插件', 'readme']
 description: 一个简单的时间和日期显示。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ms3056/Tokei/main/README.md)
->
 
 ---
 

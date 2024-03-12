@@ -1,5 +1,5 @@
 ---
-uid: 2023120719345113
+uid: 20231220112631
 title: Obsidian 插件：【Readme】LDS Scriptures Reference
 tags: ['obsidian插件', 'readme']
 description: 轻松地插入对LDS经文的引用
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pacokwon/obsidian-lds-scriptures-plugin/main/README.md)
->
 
 ---
 

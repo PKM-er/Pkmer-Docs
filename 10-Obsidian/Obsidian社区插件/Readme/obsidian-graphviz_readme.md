@@ -1,5 +1,5 @@
 ---
-uid: 2023120719375460
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Obsidian Graphviz
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 渲染Graphviz图表
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/QAMichaelPeng/obsidian-graphviz/main/README.md)
->
 
 ---
 

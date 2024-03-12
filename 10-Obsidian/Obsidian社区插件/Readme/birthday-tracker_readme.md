@@ -1,5 +1,5 @@
 ---
-uid: 2023120719234751
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Birthday-Tracker
 tags: ['obsidian插件', 'readme']
 description: 跟踪您家人和朋友的所有生日。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Raboro/Obsidian-Birthday-Tracker-Plugin/master/README.md)
->
 
 ---
 

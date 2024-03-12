@@ -1,5 +1,5 @@
 ---
-uid: 2023120719433358
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Spreadsheets
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian创建和编辑高级电子表格。丰富的格式、公式、单元格、筛选等功能！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/divamgupta/obsidian-spreadsheets/master/README.md)
->
 
 ---
 

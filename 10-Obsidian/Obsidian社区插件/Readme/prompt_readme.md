@@ -1,5 +1,5 @@
 ---
-uid: 2023120719405290
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Prompt
 tags: ['obsidian插件', 'readme']
 description: 从你的保险库中的提示文件中显示鼓舞人心的提示。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hungsu/obsidian-prompt/master/README.md)
->
 
 ---
 

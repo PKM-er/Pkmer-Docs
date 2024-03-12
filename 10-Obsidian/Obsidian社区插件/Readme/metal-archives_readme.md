@@ -1,5 +1,5 @@
 ---
-uid: 2023120719363101
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Metal Archives (Unofficial)
 tags: ['obsidian插件', 'readme']
 description: 从金属档案中创建关于金属乐队和专辑的笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vincenzocaputo/obsidian-metal-archives-plugin/master/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 # Obsidian Metal Archives 插件
 
-这是一个为 Obsidian 设计的插件，允许你通过从 Metal Archives（<https://www.metal-archives.com/）获取数据来创建关于金属乐队和专辑的笔记。>
+这是一个为 Obsidian 设计的插件，允许你通过从 Metal Archives（<<https://www.metal-archives.com/>）获取数据来创建关于金属乐队和专辑的笔记。>
 
 该插件提供了两个命令：
 

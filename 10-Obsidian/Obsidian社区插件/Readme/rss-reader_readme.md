@@ -1,5 +1,5 @@
 ---
-uid: 2023120719421856
+uid: 20231220115812
 title: Obsidian 插件：【Readme】RSS Reader
 tags: ['第三方工具集成', '信息收集', '文件管理', 'obsidian插件', 'readme']
 description: 从RSS订阅源中阅读文章，并将它们纳入您的笔记中。支持将RSS按文件夹分类，文章专注模式，用RSS 源里的文章创建新笔记，将文章粘贴到当前笔记中。创建自定义过滤器，标记文章，支持音频和视频内容。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joethei/obsidian-rss/master/README.md)
->
 
 ---
 

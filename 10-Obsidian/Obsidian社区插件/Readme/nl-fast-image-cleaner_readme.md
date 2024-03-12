@@ -1,5 +1,5 @@
 ---
-uid: 2023120719280147
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Fast Image Cleaner
 tags: ['obsidian插件', 'readme']
 description: 此插件允许您通过右键菜单在LIVE和READ模式下快速删除文档中的图像附件和引用链接。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/martinniee/Obsidian-fast-image-cleaner/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322232232
+uid: 20230817224054
 title: Obsidian 插件：Obsidian Ghost Publish
 tags: ['obsidian插件', 'readme']
 description: 一键发布到Ghost站点
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jaynguyens/obsidian-ghost-publish/master/README.md)
->
 
 ---
 

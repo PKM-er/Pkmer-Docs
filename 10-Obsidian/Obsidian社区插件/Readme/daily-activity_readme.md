@@ -1,5 +1,5 @@
 ---
-uid: 2023080322170117
+uid: 20230817224052
 title: Obsidian 插件：Daily Activity
 tags: ['文件历史', '效率', '文件管理', 'obsidian插件', 'readme']
 description: 通过命令面板火快捷键，为你生成修改过的文件，创建的文件的统计或者是文件链接。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/trydalch/obsidian-daily-activity/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/trydalch/obsidian-daily-activity/total?style=for-the-badge)
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件。>
+这是一个为 Obsidian（<<https://obsidian.md>）开发的插件。>
 
 该插件非常年轻且编写迅速，但可以与日常笔记一起有效地使用，记录完成的工作以及您继续回到的文件。
 

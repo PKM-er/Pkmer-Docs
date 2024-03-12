@@ -1,5 +1,5 @@
 ---
-uid: 2023080322221903
+uid: 20230817224054
 title: Obsidian 插件：Meeting notes
 tags: ['obsidian插件', 'readme']
 description: 自动在指定文件夹中创建会议笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/TimHi/obsidian-meeting-notes/master/README.md)
->
 
 ---
 

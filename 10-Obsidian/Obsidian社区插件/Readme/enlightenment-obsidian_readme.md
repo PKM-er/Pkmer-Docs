@@ -1,5 +1,5 @@
 ---
-uid: 2023120719273498
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Enlightenment
 tags: ['obsidian插件', 'readme']
 description: 注意你正在关注的内容。Enlightenment为预览添加了一个“Zen模式”，隐藏了你的笔记内容，除了你的指针下面的内容。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/enlightenment-obsidian/master/README.md)
->
 
 ---
 

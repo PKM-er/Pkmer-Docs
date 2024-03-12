@@ -1,5 +1,5 @@
 ---
-uid: 2023080322245247
+uid: 20230817224055
 title: Obsidian 插件：Plugin Manager
 tags: ['obsidian插件', 'readme']
 description: 扩展Obsidian的插件管理功能。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ohm-en/obsidian-plugin-manager/master/README.org)
->
 
 ---
 

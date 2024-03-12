@@ -1,5 +1,5 @@
 ---
-uid: 2024022121233543
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Reason
 tags: ['obsidian插件', 'readme']
 description: 'REASON: 检索、提取和综合黑曜石笔记'
@@ -27,7 +27,6 @@ REASON: 检索、提取和综合黑曜石笔记
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jshph/obsidian-reason/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719450548
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Title Generator
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI的GPT-3.5快速轻松地为您的笔记添加标题。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jaschaephraim/obsidian-title-generator/main/README.md)
->
 
 ---
 

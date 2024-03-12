@@ -1,5 +1,5 @@
 ---
-uid: 2023120719375774
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Obsidian Markdown export
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的Markdown导出插件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bingryan/obsidian-markdown-export-plugin/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian Markdown 导出
 
-这是一个为 Obsidian（<https://obsidian.md）设计的> Markdown 导出插件。
+这是一个为 Obsidian（<<https://obsidian.md>）设计的> Markdown 导出插件。
 
 它可以让你一键将 Markdown 导出为一个包（包括图片）。
 

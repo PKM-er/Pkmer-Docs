@@ -1,5 +1,5 @@
 ---
-uid: 2023120522253180
+uid: 20231220112631
 title: Obsidian 插件：【Readme】iCal
 tags: ['obsidian插件', 'readme']
 description: 扫描您的保险库以查找包含日期的任务。创建一个iCal文件并将其存储在您的保险库或Gist上。然后，您可以在任何兼容iCal的客户端（如Outlook、Google Calendar、Apple Calendar等）中显示此日历。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/andrewbrereton/obsidian-to-ical-plugin/main/README.md)
->
 
 ---
 

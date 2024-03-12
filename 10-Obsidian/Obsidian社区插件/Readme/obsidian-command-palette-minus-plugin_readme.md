@@ -1,5 +1,5 @@
 ---
-uid: 2023080322161511
+uid: 20230817224053
 title: Obsidian 插件：Command Palette--
 tags: ['obsidian插件', 'readme']
 description: 命令面板没有不需要的命令
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/qawatake/obsidian-command-palette-minus-plugin/main/README.md)
->
 
 ---
 

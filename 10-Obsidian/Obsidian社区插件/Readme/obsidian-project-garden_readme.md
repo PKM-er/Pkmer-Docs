@@ -1,5 +1,5 @@
 ---
-uid: 2023080322250472
+uid: 20230817224054
 title: Obsidian 插件：Project Garden
 tags: ['obsidian插件', 'readme']
 description: 在一个地方看到你所有的项目
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bgoosman/obsidian-project-garden/master/README.md)
->
 
 ---
 

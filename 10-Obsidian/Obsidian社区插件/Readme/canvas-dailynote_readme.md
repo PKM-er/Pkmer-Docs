@@ -1,5 +1,5 @@
 ---
-uid: 2024022117265276
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Canvas Daily Note
 tags: ['obsidian插件', 'readme']
 description: 在画布上添加一个每日笔记节点，它将始终显示今天的笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/andrewmcgivery/obsidian-canvas-dailynote/main/README.md)
->
 
 ---
 

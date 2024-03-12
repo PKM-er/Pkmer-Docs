@@ -1,5 +1,5 @@
 ---
-uid: 2023080322270712
+uid: 20230817224055
 title: Obsidian 插件：Smart Rename
 tags: ['obsidian插件', 'readme']
 description: 重命名笔记，保留现有链接中的先前标题
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mnaoumov/obsidian-smart-rename/master/README.md)
->
 
 ---
 

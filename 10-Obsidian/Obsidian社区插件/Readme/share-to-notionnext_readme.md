@@ -1,5 +1,5 @@
 ---
-uid: 2023120719423929
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Share to NotionNext
 tags: ['obsidian插件', 'readme']
 description: 使用Notion API将文件共享到Notion，用于NotionNext网页部署，最初由EasyChris/obsidian-to-notion创建。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jxpeng98/obsidian-to-NotionNext/master/README.md)
->
 
 ---
 
@@ -300,7 +299,7 @@ Notion ID 是您想要共享文件的 Notion 站点 ID。
 
 如果您填写了 Notion ID，它将共享到页面链接，如：
 
-https://your_user_name.notion.site/myworkspace/a8aec43384f447ed84390。
+<https://your_user_name.notion.site/myworkspace/a8aec43384f447ed84390>。
 
 访问者无需重定向 URL。
 

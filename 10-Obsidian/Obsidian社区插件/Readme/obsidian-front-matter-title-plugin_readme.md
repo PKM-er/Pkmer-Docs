@@ -1,5 +1,5 @@
 ---
-uid: 2023080322185162
+uid: 20230817224054
 title: Obsidian 插件：Front Matter Title
 tags: ['obsidian插件', 'readme']
 description: 允许您在前面的事情中定义一个标题，以显示为文件名
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/snezhig/obsidian-front-matter-title/master/README.md)
->
 
 ---
 

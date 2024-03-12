@@ -1,5 +1,5 @@
 ---
-uid: 2023120719412860
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Recent Files
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 显示最近打开的文件列表
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tgrosinger/recent-files-obsidian/main/README.md)
->
 
 ---
 

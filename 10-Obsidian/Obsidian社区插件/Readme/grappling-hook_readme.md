@@ -1,5 +1,5 @@
 ---
-uid: 2023120719214295
+uid: 20231220112631
 title: Obsidian 插件：【Readme】🪝 Grappling Hook
 tags: ['obsidian插件', 'readme']
 description: 针对使用快速切换器仍然花费太多时间的人，提供了一款非常快速的文件切换插件——Obsidian。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/grappling-hook/main/README.md)
->
 
 ---
 

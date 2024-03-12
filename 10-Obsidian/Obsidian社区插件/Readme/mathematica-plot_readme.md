@@ -1,5 +1,5 @@
 ---
-uid: 2024022121194166
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Mathematica Plot
 tags: ['obsidian插件', 'readme']
 description: 使用Wolfram Mathematica 代码绘制图形。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MarcosNicolau/obsidian-mathematica-plot/main/README.md)
->
 
 ---
 

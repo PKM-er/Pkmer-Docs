@@ -1,5 +1,5 @@
 ---
-uid: 2023120719272655
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Embed Code File
 tags: ['编程', '美化', '文件管理', 'obsidian插件', 'readme']
 description: 支持从本地路径，远程文件等方式，在笔记中加载对应代码，并展示对应的语法高亮方案。甚至支持指定文件中具体那块内容（M行到N行），
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/almariah/embed-code-file/main/README.md)
->
 
 ---
 

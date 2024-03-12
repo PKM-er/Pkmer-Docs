@@ -1,5 +1,5 @@
 ---
-uid: 2023080322251196
+uid: 20230818000728
 title: Obsidian 插件：Publish to Steemit
 tags: ['obsidian插件', 'readme']
 description: 一个用于将Obsidian文档发布到Steemit的插件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/anpigon/obsidian-steemit-plugin/main/README.md)
->
 
 ---
 

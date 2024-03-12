@@ -1,5 +1,5 @@
 ---
-uid: 2023102611090305
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Zotero Sync
 tags: ['obsidian插件', 'readme']
 description: 将Zotero API客户端同步您的Zotero图书馆到您的保险库中
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/frthjf/obsidian-zotero-sync-client/main/README.md)
->
 
 ---
 

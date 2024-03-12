@@ -1,5 +1,5 @@
 ---
-uid: 2023120719370426
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Neo4j Graph View
 tags: ['界面相关', '搜索/排序', 'obsidian插件', 'readme']
 description: Neo4j的高级图形可视化和查询插件。
@@ -29,7 +29,6 @@ Neo4j 的高级图形可视化和查询插件。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HEmile/obsidian-neo4j-graph-view/main/README.md)
->
 
 ---
 
@@ -63,7 +62,7 @@ Neo4j 的高级图形可视化和查询插件。
 
 ![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_0.png!pkmer)
 
-文档位于<https://juggl.io/Neo4j+Graph+View/Neo4j+Graph+View+Plugin。>
+文档位于<<https://juggl.io/Neo4j+Graph+View/Neo4j+Graph+View+Plugin>。>
 
 加入新的 Discord 服务器以讨论插件：<https://discord.gg/sAmSGpaPgM>
 

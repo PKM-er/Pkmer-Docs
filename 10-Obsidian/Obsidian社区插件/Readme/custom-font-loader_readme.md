@@ -1,5 +1,5 @@
 ---
-uid: 2023120719260631
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Custom Font Loader
 tags: ['obsidian插件', 'readme']
 description: 使用任何您想要的字体自定义您的Obsidian保险库（+支持Android和iOS）
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pourmand1376/obsidian-custom-font/master/README.md)
->
 
 ---
 

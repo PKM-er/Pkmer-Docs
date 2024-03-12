@@ -1,5 +1,5 @@
 ---
-uid: 2023120719421491
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Rofi Helper
 tags: ['obsidian插件', 'readme']
 description: 为了在Rofi中在打开的黑曜石标签之间切换，将叶子ID参数添加到URI协议中。包含了一个示例的Rofi脚本。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/digitalsignalperson/obsidian-rofi-helper/master/README.md)
->
 
 ---
 

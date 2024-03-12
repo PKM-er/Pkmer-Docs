@@ -1,5 +1,5 @@
 ---
-uid: 2023120719243450
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Charts View
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: Obsidian中的数据可视化解决方案，支持图表和图形。
@@ -29,7 +29,6 @@ Obsidian 中的数据可视化解决方案，支持图表和图形。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/caronchen/obsidian-chartsview-plugin/master/README.md)
->
 
 ---
 

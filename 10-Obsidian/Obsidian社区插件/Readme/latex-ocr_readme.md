@@ -1,5 +1,5 @@
 ---
-uid: 2024022117285846
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Latex OCR
 tags: ['obsidian插件', 'readme']
 description: 从您的保险库或剪贴板中生成LaTeX方程式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucasvanmol/obsidian-latex-ocr/master/README.md)
->
 
 ---
 

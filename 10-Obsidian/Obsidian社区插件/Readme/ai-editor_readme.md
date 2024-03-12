@@ -1,5 +1,5 @@
 ---
-uid: 2023102611071759
+uid: 20231026111420
 title: Obsidian 插件：【Readme】AI Editor
 tags: ['obsidian插件', 'readme']
 description: 通过可定制的LLM操作提升您的Obsidian工作流程。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/buszk/obsidian-ai-editor/master/README.md)
->
 
 ---
 

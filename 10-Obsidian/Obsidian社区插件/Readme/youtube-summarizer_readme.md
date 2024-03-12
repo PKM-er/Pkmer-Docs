@@ -1,5 +1,5 @@
 ---
-uid: 2024022122532622
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Youtube Summarizer
 tags: ['obsidian插件', 'readme']
 description: 使用ChatGPT 3.5总结Youtube视频。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozdemir08/youtube-video-summarizer/master/README.md)
->
 
 ---
 

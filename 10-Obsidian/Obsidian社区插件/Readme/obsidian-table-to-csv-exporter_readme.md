@@ -1,5 +1,5 @@
 ---
-uid: 2023080322274352
+uid: 20230817224055
 title: Obsidian 插件：Table to CSV Exporter
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许从阅读模式中的窗格导出表格到CSV文件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/metawops/obsidian-table-to-csv-export/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2024022117281936
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Habit Tracker 21
 tags: ['obsidian插件', 'readme']
 description: Your 21-day journey to habit formation simplified
@@ -27,7 +27,6 @@ Your 21-day journey to habit formation simplified
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zoreet/habit-tracker/master/README.md)
->
 
 ---
 

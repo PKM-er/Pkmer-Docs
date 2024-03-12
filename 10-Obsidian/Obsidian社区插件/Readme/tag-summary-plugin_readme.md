@@ -1,5 +1,5 @@
 ---
-uid: 2023080322274711
+uid: 20230817224055
 title: Obsidian 插件：Tag Summary
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以创建具有相同标签的段落或文本块的摘要。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/macrojd/tag-summary/master/README.md)
->
 
 ---
 

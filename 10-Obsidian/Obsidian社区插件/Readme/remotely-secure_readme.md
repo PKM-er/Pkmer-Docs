@@ -1,5 +1,5 @@
 ---
-uid: 2023120522265050
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Remotely Secure
 tags: ['obsidian插件', 'readme']
 description: 修复了远程安全的非官方插件的安全问题，该插件允许用户在本地设备和云服务之间同步笔记。不向后兼容。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sboesen/remotely-sync/master/README.md)
->
 
 ---
 

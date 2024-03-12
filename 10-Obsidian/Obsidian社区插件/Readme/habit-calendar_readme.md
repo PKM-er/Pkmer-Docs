@@ -1,5 +1,5 @@
 ---
-uid: 2023120719300751
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Habit Calendar
 tags: ['文件管理', '任务管理', 'obsidian插件', 'readme']
 description: 创建一个可视化的月历视图，让你可以自己添加关键的日期和注意事项。此插件依赖 dataview 插件，并且需要你熟悉 dataviewJS 语法。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hedonihilist/obsidian-habit-calendar/master/README.md)
->
 
 ---
 

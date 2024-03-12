@@ -1,5 +1,5 @@
 ---
-uid: 2023120719250715
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Colored Tags
 tags: ['obsidian插件', 'readme']
 description: 将不同的标签着色为不同的颜色。颜色取决于标签的内容。嵌套标签的颜色与父标签混合。文本颜色对比度会自动匹配，以符合AA级WCAG 2.1的要求。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pfrankov/obsidian-colored-tags/master/README.md)
->
 
 ---
 

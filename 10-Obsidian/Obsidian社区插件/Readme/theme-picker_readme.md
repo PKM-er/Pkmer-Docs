@@ -1,5 +1,5 @@
 ---
-uid: 2023120719443741
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Theme Picker
 tags: ['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 快速预览和选择已安装的主题
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kenset/obsidian-theme-picker/next/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023082011353355
+uid: 20230901084916
 title: Obsidian 插件：【Readme】Arrows
 tags: ['obsidian插件', 'readme']
 description: 直接输入实际的箭头字符，无需复制粘贴。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/xefyrdev/obsidian-arrows/master/README.md)
->
 
 ---
 

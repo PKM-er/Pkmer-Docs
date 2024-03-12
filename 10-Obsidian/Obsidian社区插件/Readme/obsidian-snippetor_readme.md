@@ -1,5 +1,5 @@
 ---
-uid: 2023080322271246
+uid: 20230817224055
 title: Obsidian 插件：Snippetor
 tags: ['obsidian插件', 'readme']
 description: 创建和调整常见的片段
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ebullient/obsidian-snippetor/main/README.md)
->
 
 ---
 

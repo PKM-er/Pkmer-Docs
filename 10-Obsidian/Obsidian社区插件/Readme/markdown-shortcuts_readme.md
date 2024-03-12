@@ -1,5 +1,5 @@
 ---
-uid: 2023120719361466
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Markdown shortcuts
 tags: ['obsidian插件', 'readme']
 description: 允许使用快捷键编写Markdown
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/JulesGuesnon/obsidian-markdown-shortcuts/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 # Obsidian Markdown 快捷键
 
-这是一个为 Obsidian（<https://obsidian.md）设计的插件。>
+这是一个为 Obsidian（<<https://obsidian.md>）设计的插件。>
 
 为什么？
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322192315
+uid: 20230817224054
 title: Obsidian 插件：GPT
 tags: ['obsidian插件', 'readme']
 description: Obsidian编辑器中通过API使用GPT和大型语言模型完成
@@ -27,7 +27,6 @@ Obsidian 编辑器中通过 API 使用 GPT 和大型语言模型完成
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jmilldotdev/obsidian-gpt/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120522242079
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Auto Reading Mode
 tags: ['obsidian插件', 'readme']
 description: 自动将先前打开的Markdown页面切换到阅读模式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kelvinc6/auto-reading-mode/main/README.md)
->
 
 ---
 

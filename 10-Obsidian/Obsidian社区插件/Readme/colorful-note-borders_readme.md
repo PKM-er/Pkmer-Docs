@@ -1,5 +1,5 @@
 ---
-uid: 2023080322161222
+uid: 20230817224052
 title: Obsidian 插件：Colorful Note Borders
 tags: ['obsidian插件', 'readme']
 description: 根据文件夹位置或前置元数据，为笔记添加可自定义的彩色边框，增强Obsidian中的视觉组织。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/rusi/obsidian-colorful-note-borders/master/README.md)
->
 
 ---
 

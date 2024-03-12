@@ -1,5 +1,5 @@
 ---
-uid: 2023082011353970
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Code::Stats
 tags: ['obsidian插件', 'readme']
 description: Code::Stats插件允许您跟踪您在Obsidian编辑器中编写Markdown的进度，并为此获得经验值。
@@ -27,7 +27,6 @@ Code::Stats 插件允许您跟踪您在 Obsidian 编辑器中编写 Markdown 的
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Miskamyasa/obsidian-codestats/main/README.md)
->
 
 ---
 

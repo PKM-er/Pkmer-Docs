@@ -1,5 +1,5 @@
 ---
-uid: 2023102611085777
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Workbooks
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中使用电子表格
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Canna71/obsidian-sheets/main/README.md)
->
 
 ---
 
@@ -98,6 +97,6 @@ cellWidth: 100,
 
 <https://github.com/SheetJS>
 
-<https://github.com/myliang/x-spreadsheet（在此处进行了分叉：https://github.com/Canna71/x-spreadsheet）>
+<<https://github.com/myliang/x-spreadsheet>（在此处进行了分叉：<https://github.com/Canna71/x-spreadsheet>）>
 
 <https://github.com/exceljs/exceljs>

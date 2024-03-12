@@ -1,5 +1,5 @@
 ---
-uid: 2023080322220732
+uid: 20230818002059
 title: Obsidian 插件：Marp
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian上使用Marp的插件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/JichouP/obsidian-marp-plugin/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322214633
+uid: 20230817224054
 title: Obsidian 插件：Lock Screen
 tags: ['obsidian插件', 'readme']
 description: 保护你的金库用一个锁屏。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ericbiewener/obsidian-lock-screen-plugin/main/README.md)
->
 
 ---
 

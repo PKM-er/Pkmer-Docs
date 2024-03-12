@@ -1,5 +1,5 @@
 ---
-uid: 2023120719382178
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Obsidian TODO | Text-based GTD
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: Obsidian中基于文本的GTD。从您的保险库中收集所有未完成的TODO，并在今天、计划、收件箱和某天/也许列表中呈现它们。
@@ -29,7 +29,6 @@ Obsidian 中基于文本的 GTD。从您的保险库中收集所有未完成的 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/larslockefeer/obsidian-plugin-todo/main/README.md)
->
 
 ---
 

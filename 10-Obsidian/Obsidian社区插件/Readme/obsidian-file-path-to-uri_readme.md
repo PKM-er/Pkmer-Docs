@@ -1,5 +1,5 @@
 ---
-uid: 2023120719282626
+uid: 20231220115812
 title: Obsidian 插件：【Readme】File path to URI
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将文件路径转换为uri以便更容易地使用链接到Obsidian之外的本地文件
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MichalBures/obsidian-file-path-to-uri/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023102611081238
+uid: 20231026111420
 title: Obsidian 插件：【Readme】MTG Card Links
 tags: ['obsidian插件', 'readme']
 description: 通过在方括号中包含卡牌名称，链接到魔术飞天牌。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aedans/mtg-card-links/master/README.md)
->
 
 ---
 

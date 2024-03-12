@@ -1,5 +1,5 @@
 ---
-uid: 2023120522273891
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Zettelkasten Outliner
 tags: ['obsidian插件', 'readme']
 description: 为您的Zettelkasten提供一个列表表示。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tylersuzukinelson/zettelkasten-outliner/main/README.md)
->
 
 ---
 

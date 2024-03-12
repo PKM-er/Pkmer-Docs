@@ -1,5 +1,5 @@
 ---
-uid: 2023120719224200
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Argument Map with Argdown
 tags: ['思维导图', 'obsidian插件', 'readme']
 description: 允许您编写argdown代码块并在预览中查看地图
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/amdecker/obsidian-argdown-plugin/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719375939
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Obsidian markmind
 tags: ['思维导图', 'PDF', 'obsidian插件', 'readme']
 description: 让你在 Osidian 中绘制思维导图、大纲和 PDF文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MarkMindCkm/obsidian-markmind/main/README.md)
->
 
 ---
 

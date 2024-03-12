@@ -1,5 +1,5 @@
 ---
-uid: 2023120522273730
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Vocabulary Highlighter
 tags: ['obsidian插件', 'readme']
 description: 根据词频突出显示词汇
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/eatgrass/obsidian-vocab-highlighter/master/README.md)
->
 
 ---
 

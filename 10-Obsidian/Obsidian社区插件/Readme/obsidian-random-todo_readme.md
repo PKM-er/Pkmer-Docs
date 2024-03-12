@@ -1,5 +1,5 @@
 ---
-uid: 2023080322253361
+uid: 20230817224054
 title: Obsidian 插件：Random To-Do
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 打开一个包含你自定义待办标记的随机文件，或者在其位置上随机标记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/NatiAris/obsidian-random-todo/master/README.md)
->
 
 ---
 
@@ -35,7 +34,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-random-todo]] 插件的自述翻译
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件。>
+这是一个为 Obsidian（<<https://obsidian.md>）开发的插件。>
 
 ### 术语和定义
 

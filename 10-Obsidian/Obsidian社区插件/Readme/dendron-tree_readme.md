@@ -1,5 +1,5 @@
 ---
-uid: 2023120719263721
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Dendron Tree
 tags: ['obsidian插件', 'readme']
 description: 为Dendron笔记添加树形结构以进行探索。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/levirs565/obsidian-dendron-tree/master/README.md)
->
 
 ---
 

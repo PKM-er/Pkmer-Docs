@@ -1,5 +1,5 @@
 ---
-uid: 2023102611075545
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Gnome Terminal Loader
 tags: ['obsidian插件', 'readme']
 description: 将侧边栏操作图标添加到快速打开Gnome终端或让Gnome终端运行Python模块。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/CheeseCake87/gnome-terminal-loader/master/README.md)
->
 
 ---
 

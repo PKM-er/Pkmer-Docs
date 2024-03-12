@@ -1,5 +1,5 @@
 ---
-uid: 2023120719233269
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Better CodeBlock
 tags: ['obsidian插件', 'readme']
 description: 在阅读视图中为代码块添加标题、行号和折叠按钮
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/stargrey/obsidian-better-codeblock/main/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-better-codeblock]] 插件的自述翻译
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件。>
+这是一个为 Obsidian（<<https://obsidian.md>）开发的插件。>
 
 该插件的大部分代码来自以下两个插件（感谢他们的贡献），图标来自 Admonition。
 

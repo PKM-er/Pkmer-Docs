@@ -1,5 +1,5 @@
 ---
-uid: 2023080322262424
+uid: 20230817224055
 title: Obsidian 插件：Script Launcher
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您从Obsidian应用程序启动脚本。您可以在底部栏上添加脚本快捷方式，并只需一次点击即可启动它们！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/AlessandroRuggiero/script-launcher/master/README.md)
->
 
 ---
 

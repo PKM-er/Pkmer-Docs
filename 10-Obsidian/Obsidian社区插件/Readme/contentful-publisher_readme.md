@@ -1,5 +1,5 @@
 ---
-uid: 2023102611073661
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Contentful Publisher
 tags: ['obsidian插件', 'readme']
 description: 从Obsidian管理您的Contentful内容。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ziyafenn/obsidian-contentful-publisher/main/README.md)
->
 
 ---
 

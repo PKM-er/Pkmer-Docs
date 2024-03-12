@@ -1,5 +1,5 @@
 ---
-uid: 2023080322242084
+uid: 20230817224055
 title: "Obsidian 插件：Ozan's Image in Editor Plugin"
 tags: ['界面相关', '图片', 'PDF', 'obsidian插件', 'readme']
 description: 为笔记编辑器中添加图片查看器，查看图像、引用、iFrame和PDF文件，无需切换到预览模式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozntel/oz-image-in-editor-obsidian/master/README.md)
->
 
 ---
 

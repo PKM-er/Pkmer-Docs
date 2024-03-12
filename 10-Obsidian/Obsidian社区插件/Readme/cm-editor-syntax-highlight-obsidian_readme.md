@@ -1,5 +1,5 @@
 ---
-uid: 2023120719272073
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Editor Syntax Highlight
 tags: ['编程', '美化', 'obsidian插件', 'readme']
 description: 为 Obsidian 的代码块，增强不同语言高亮显示方案。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/deathau/cm-editor-syntax-highlight-obsidian/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2024022117275399
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Full Screen Toggle
 tags: ['obsidian插件', 'readme']
 description: 在所有平台上切换全屏模式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/DonkeyPacific/obsidian-full-screen-cross-platform-plugin/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322203258
+uid: 20230817224054
 title: Obsidian 插件：Incremental Writing
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 逐步审阅笔记和块随着时间的推移。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bjsi/incremental-writing/master/README.md)
->
 
 ---
 

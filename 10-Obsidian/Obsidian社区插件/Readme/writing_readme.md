@@ -1,5 +1,5 @@
 ---
-uid: 2023120719465170
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Writing
 tags: ['编辑器', '效率', '美化', 'obsidian插件', 'readme']
 description: 直接在 Obsidian 上写作，并生成书籍预览效果。你可以通过该插件，自动生成章节，内容和预览。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/johackim/obsidian-writing/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322240913
+uid: 20230817224054
 title: Obsidian 插件：Open Link With
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 在 Obsidian 中可以选择外部链接用什么浏览器打开。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MamoruDS/obsidian-open-link-with/main/README.md)
->
 
 ---
 

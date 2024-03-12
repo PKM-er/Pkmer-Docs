@@ -1,5 +1,5 @@
 ---
-uid: 2023120719221519
+uid: 20231220112631
 title: Obsidian 插件：【Readme】AI Research Assistant
 tags: ['obsidian插件', 'readme']
 description: 一个用于生成式AI模型（如OpenAI的ChatGPT）的快速工程研究实用程序，可用于存档和搜索对话，并实时编辑对话的上下文/记忆。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/InterwebAlchemy/obsidian-ai-research-assistant/main/README.md)
->
 
 ---
 

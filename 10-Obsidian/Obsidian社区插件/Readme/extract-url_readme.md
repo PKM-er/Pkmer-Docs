@@ -1,5 +1,5 @@
 ---
-uid: 2023120719275433
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Extract url content
 tags: ['链接处理', '转换工具', 'obsidian插件', 'readme']
 description: 将URL提取内容转换为Markdown
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/trashhalo/obsidian-extract-url/master/README.md)
->
 
 ---
 

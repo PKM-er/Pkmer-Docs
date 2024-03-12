@@ -1,5 +1,5 @@
 ---
-uid: 2023120719270237
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Draw Harada Method
 tags: ['obsidian插件', 'readme']
 description: 画出原田方法。制定自己的1个目标，8个计划和64个行动！
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yildbs/obsidian-harada-method-plugin/master/README.md)
->
 
 ---
 

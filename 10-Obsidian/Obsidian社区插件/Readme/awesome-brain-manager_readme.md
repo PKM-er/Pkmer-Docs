@@ -1,5 +1,5 @@
 ---
-uid: 2023080322144526
+uid: 20230817224052
 title: Obsidian 插件：Awesome Brain Manager
 tags: ['obsidian插件', 'readme']
 description: 一个工具包试图解决大多数人在黑曜石中通常遇到的所有琐碎问题。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/JuckZ/awesome-brain-manager/develop/README.md)
->
 
 ---
 

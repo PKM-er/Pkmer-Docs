@@ -1,5 +1,5 @@
 ---
-uid: 2023120719444359
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Time Ruler
 tags: ['obsidian插件', 'readme']
 description: 一个拖放式的时间标尺，结合了任务列表和日历视图的优点（与任务、完整日历和数据视图集成）。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joshuatazrein/obsidian-time-ruler/master/README.md)
->
 
 ---
 

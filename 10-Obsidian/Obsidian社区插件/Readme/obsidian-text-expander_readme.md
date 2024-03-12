@@ -29,7 +29,6 @@ modified: 20230816110627
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/konodyuk/obsidian-text-expander/master/README.md)
->
 
 ---
 

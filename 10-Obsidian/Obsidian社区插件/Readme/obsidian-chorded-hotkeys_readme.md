@@ -1,5 +1,5 @@
 ---
-uid: 2023080322155406
+uid: 20230817224053
 title: Obsidian 插件：Chorded Hotkeys
 tags: ['obsidian插件', 'readme']
 description: 同时按下多个字母可以触发文本插入、模板插入或命令执行。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ConnorMeyers/obsidian-chorded-hotkeys/master/README.md)
->
 
 ---
 

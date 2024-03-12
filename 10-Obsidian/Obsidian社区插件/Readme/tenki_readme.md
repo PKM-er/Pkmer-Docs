@@ -1,5 +1,5 @@
 ---
-uid: 2023120719442412
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Tenki
 tags: ['obsidian插件', 'readme']
 description: 一个简单的天气显示。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ms3056/Tenki/main/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 下面是 [[tenki]] 插件的自述翻译
 
-天气显示是 Obsidian（<https://obsidian.md）的一个天气显示插件。>
+天气显示是 Obsidian（<<https://obsidian.md>）的一个天气显示插件。>
 
 ![2023-07-03_15h59_41](https://cdn.pkmer.cn/covers/tenki_1_0.jpeg!pkmer)
 

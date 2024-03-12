@@ -1,5 +1,5 @@
 ---
-uid: 2023120719435878
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Table Extended
 tags: ['编辑工具', '界面相关', '表格', 'obsidian插件', 'readme']
 description: 非可视化操作表格，但因为表格增加了新扩展，能够支持单元格合并等效果，但是需要你熟悉下新的语法格式
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aidenlx/table-extended/master/README.md)
->
 
 ---
 

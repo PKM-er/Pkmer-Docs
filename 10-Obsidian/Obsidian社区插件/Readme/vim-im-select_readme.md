@@ -1,5 +1,5 @@
 ---
-uid: 2023120719461616
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Vim IM Select
 tags: ['obsidian插件', 'readme']
 description: 支持在不同的 Vim 模式中自动选择合适的输入法。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ALONELUR/vim-im-select-obsidian/master/README.md)
->
 
 ---
 

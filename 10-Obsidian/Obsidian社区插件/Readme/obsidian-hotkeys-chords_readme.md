@@ -1,5 +1,5 @@
 ---
-uid: 2023080322195097
+uid: 20230817224054
 title: Obsidian 插件：Hotkeys Chords
 tags: ['obsidian插件', 'readme']
 description: 可配置的热键组合以激活Obsidian命令
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/trenta3/obsidian-hotkeys-chords/master/README.md)
->
 
 ---
 

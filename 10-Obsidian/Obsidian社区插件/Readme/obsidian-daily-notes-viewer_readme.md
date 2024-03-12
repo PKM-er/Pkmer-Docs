@@ -1,5 +1,5 @@
 ---
-uid: 2023120719262400
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Daily Notes Viewer
 tags: ['obsidian插件', 'readme']
 description: 帮助您在一个页面上查看一些最近的日记。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Johnson0907/obsidian-daily-notes-viewer/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 ## 每日笔记查看器
 
-这是一个 Obsidian 插件（<https://obsidian.md）。>
+这是一个 Obsidian 插件（<<https://obsidian.md>）。>
 
 它可以帮助您在一个页面上查看一些最近的每日笔记。
 

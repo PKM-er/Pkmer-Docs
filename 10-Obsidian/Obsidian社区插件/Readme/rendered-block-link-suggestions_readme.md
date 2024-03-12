@@ -1,5 +1,5 @@
 ---
-uid: 2024022121234639
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Rendered Block Link Suggestions
 tags: ['obsidian插件', 'readme']
 description: 升级Obsidian内置的链接建议，使用块级Markdown渲染。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/RyotaUshio/obsidian-rendered-block-link-suggestions/master/README.md)
->
 
 ---
 

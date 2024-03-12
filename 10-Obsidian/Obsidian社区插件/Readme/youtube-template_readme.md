@@ -1,5 +1,5 @@
 ---
-uid: 2024022122532848
+uid: 20240227160841
 title: Obsidian 插件：【Readme】YouTube Template
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以帮助您将YouTube视频数据提取到您的保险库中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sundevista/youtube-template/master/README.md)
->
 
 ---
 
@@ -59,7 +58,7 @@ modified: 20230101000000
 
 - <http://www.youtube.com/watch?v=0zM3nApSvMg&feature=feedrec_grec_index>
 - <http://www.youtube.com/user/IngridMichaelsonVEVO#p/a/u/1/QdK8U-VIH_o>
-- <http://www.youtube.com/v/0zM3nApSvMg?fs=1&amp;hl=en_US&amp;rel=0>
+- <<http://www.youtube.com/v/0zM3nApSvMg?fs=1&amp>;hl=en_US&amp;rel=0>
 - <http://www.youtube.com/watch?v=0zM3nApSvMg#t=0m10s>
 - <http://www.youtube.com/embed/0zM3nApSvMg?rel=0>
 - <http://www.youtube.com/watch?v=0zM3nApSvMg>

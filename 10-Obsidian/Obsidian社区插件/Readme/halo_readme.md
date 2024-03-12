@@ -1,5 +1,5 @@
 ---
-uid: 2023120719301648
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Halo
 tags: ['obsidian插件', 'readme']
 description: Halo的Obsidian集成支持将内容发布到Halo网站。
@@ -27,7 +27,6 @@ Halo 的 Obsidian 集成支持将内容发布到 Halo 网站。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/halo-sigs/obsidian-halo/main/README.md)
->
 
 ---
 

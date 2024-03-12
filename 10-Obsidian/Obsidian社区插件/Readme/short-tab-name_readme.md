@@ -1,5 +1,5 @@
 ---
-uid: 2023120719424243
+uid: 20231220112631
 title: Obsidian 插件：【Readme】short tab name
 tags: ['obsidian插件', 'readme']
 description: 将选项卡名称设置为uid用户的简称
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Shumpei-Tanaka/obsidian-short-tab-name/main/README.md)
->
 
 ---
 

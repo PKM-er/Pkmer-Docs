@@ -1,5 +1,5 @@
 ---
-uid: 2023102611084623
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Uncheck All
 tags: ['obsidian插件', 'readme']
 description: 使用一个命令取消当前笔记中的所有复选框的选中状态。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ShacharHarshuv/obsidian-uncheck-all/master/README.md)
->
 
 ---
 

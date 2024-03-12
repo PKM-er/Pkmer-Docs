@@ -1,5 +1,5 @@
 ---
-uid: 2023120719361315
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Markdown Link Space Encoder
 tags: ['obsidian插件', 'readme']
 description: 自动将Markdown样式链接中的空格编码为%20的简单插件
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/rkosova/obsidian-markdown-link-space-encoder/master/README.md)
->
 
 ---
 

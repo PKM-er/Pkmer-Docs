@@ -1,5 +1,5 @@
 ---
-uid: 2023082011355114
+uid: 20230901084916
 title: Obsidian 插件：【Readme】ICS
 tags: ['obsidian插件', 'readme']
 description: 根据当前打开的每日笔记，将从网络上发布的日历ics中的事件添加到每日笔记中。从当前打开的每日笔记中获取要搜索事件的日期。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/muness/obsidian-ics/master/README.md)
->
 
 ---
 

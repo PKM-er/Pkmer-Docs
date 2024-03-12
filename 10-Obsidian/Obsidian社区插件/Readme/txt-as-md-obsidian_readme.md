@@ -1,5 +1,5 @@
 ---
-uid: 2023080322285077
+uid: 20230817224055
 title: Obsidian 插件：txt as md
 tags: ['编辑器', '编辑工具', 'obsidian插件', 'readme']
 description: 允许你在 Obsidian 中编辑 txt 文本文件，和编辑 Markdown 文件一样。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/deathau/txt-as-md-obsidian/main/README.md)
->
 
 ---
 

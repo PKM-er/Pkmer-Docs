@@ -1,5 +1,5 @@
 ---
-uid: 2023120719442119
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Telegraph Publish
 tags: ['obsidian插件', 'readme']
 description: 将你的Obsidian笔记发布到Telegraph页面上。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/reorx/obsidian-telegraph-publish/master/README.md)
->
 
 ---
 

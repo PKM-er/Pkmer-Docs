@@ -1,5 +1,5 @@
 ---
-uid: 2023080322135750
+uid: 20230817224051
 title: "Obsidian 插件：AidenLx's Folder Note - folderv Component"
 tags: ['obsidian插件', 'readme']
 description: 可选的`folderv`组件用于alx-folder-note
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aidenlx/alx-folder-note-folderv/master/README.md)
->
 
 ---
 

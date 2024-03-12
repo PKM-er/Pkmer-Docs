@@ -1,5 +1,5 @@
 ---
-uid: 2023080322294221
+uid: 20230817224055
 title: Obsidian 插件：WordPress
 tags: ['obsidian插件', 'readme']
 description: 一个插件，用于将您的Obsidian文档发布到WordPress
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/devbean/obsidian-wordpress/main/README.md)
->
 
 ---
 

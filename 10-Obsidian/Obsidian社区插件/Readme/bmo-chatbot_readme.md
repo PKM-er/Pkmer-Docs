@@ -1,5 +1,5 @@
 ---
-uid: 2023120719235560
+uid: 20231220112631
 title: Obsidian 插件：【Readme】BMO Chatbot
 tags: ['obsidian插件', 'readme']
 description: 通过使用大型语言模型（LLM），提高您的知识管理能力，使聊天机器人能够理解上下文并检索相关信息。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/longy2k/obsidian-bmo-chatbot/main/README.md)
->
 
 ---
 

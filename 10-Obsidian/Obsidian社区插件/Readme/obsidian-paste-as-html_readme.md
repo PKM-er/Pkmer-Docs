@@ -1,5 +1,5 @@
 ---
-uid: 2023080322243036
+uid: 20230817224054
 title: Obsidian 插件：Paste As Html
 tags: ['obsidian插件', 'readme']
 description: 粘贴为HTML，保留原始CSS样式。从网页浏览器粘贴
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/maotong06/obsidian-paste-as-html-plugin/main/README.md)
->
 
 ---
 

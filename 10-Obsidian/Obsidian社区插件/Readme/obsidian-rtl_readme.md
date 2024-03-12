@@ -1,5 +1,5 @@
 ---
-uid: 2023080322261573
+uid: 20230817224055
 title: Obsidian 插件：RTL Support
 tags: ['界面相关', '编辑器', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加了 RTL 支持。RTL 从右到左文本方向的语言，如阿拉伯语、希伯来语和波斯语。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/esm7/obsidian-rtl/master/README.md)
->
 
 ---
 
@@ -170,7 +169,7 @@ direction: rtl
 
 - 改进了 RTL 中 Home 和 End 键（此时没有 Shift）的处理。它仍然不完美（CodeMirror 在这方面不擅长），但至少基本功能可以正常工作。
 - 对最新的 Obsidian API 进行了一些适应。
-- 现在可以配置笔记标题的方向（<https://github.com/esm7/obsidian-rtl/issues/15）。>
+- 现在可以配置笔记标题的方向（<<https://github.com/esm7/obsidian-rtl/issues/15>）。>
 
 ### 0.0.6
 
@@ -184,8 +183,8 @@ direction: rtl
 
 ### 0.0.4
 
-- 自动配对括号修补（<https://github.com/esm7/obsidian-rtl/issues/7）：在> CodeMirror 发布修复并 Obsidian 适应之前，插件在 RTL 模式下暂时禁用自动配对括号。
-- 修复 Obsidian 在 RTL 模式下 Home/End 键的错误行为（<https://github.com/esm7/obsidian-rtl/issues/6）。>
+- 自动配对括号修补（<<https://github.com/esm7/obsidian-rtl/issues/7>）：在> CodeMirror 发布修复并 Obsidian 适应之前，插件在 RTL 模式下暂时禁用自动配对括号。
+- 修复 Obsidian 在 RTL 模式下 Home/End 键的错误行为（<<https://github.com/esm7/obsidian-rtl/issues/6>）。>
 
 ### 0.0.3
 

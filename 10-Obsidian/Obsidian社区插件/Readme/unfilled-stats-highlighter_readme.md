@@ -1,5 +1,5 @@
 ---
-uid: 2023080322285750
+uid: 20230817224055
 title: Obsidian 插件：Unfilled Stats Highlighter
 tags: ['obsidian插件', 'readme']
 description: 通过自动识别和添加未填写的统计数据，简化您的统计/习惯追踪过程，使其更容易被发现和填写。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/White7292/obsidian-hd-unfilled-stats-highlighter/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719261413
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Cycle through Panes
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 使用`ctrl + Tab`循环浏览你打开的窗格，就像在浏览器中浏览标签页一样！官方已经支持此功能
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vinzent03/tab-switcher/main/README.md)
->
 
 ---
 

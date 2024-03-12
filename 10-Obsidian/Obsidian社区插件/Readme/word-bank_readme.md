@@ -1,5 +1,5 @@
 ---
-uid: 2024022122531847
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Word Bank
 tags: ['obsidian插件', 'readme']
 description: 从您的单词文件中创建一个单词库。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/TannYuld/WordBank/master/README.md)
->
 
 ---
 

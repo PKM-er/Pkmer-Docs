@@ -1,5 +1,5 @@
 ---
-uid: 2024022122524248
+uid: 20240227160841
 title: Obsidian 插件：【Readme】UseSemaLogic
 tags: ['obsidian插件', 'readme']
 description: 实时使用SemaLogic形式语言
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MM-GO/UseSemaLogic/main/README.md)
->
 
 ---
 

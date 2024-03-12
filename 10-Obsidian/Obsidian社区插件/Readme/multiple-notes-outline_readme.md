@@ -1,5 +1,5 @@
 ---
-uid: 2023120719370139
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Multiple Notes Outline
 tags: ['obsidian插件', 'readme']
 description: 添加自定义视图，显示多个带有标题、链接、标签和列表项的笔记的轮廓。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/iiz00/obsidian-multiple-notes-outline/master/README.md)
->
 
 ---
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 - 文件夹视图
 	- 列出特定文件夹中包含的文件的大纲。
 
-我之前创建了一个名为 Daily Note Outline Plugin（<https://github.com/iiz00/obsidian-daily-note-outline）的插件，它列出了多个日记的大纲，而这个插件是该插件针对常规文件的改编。>
+我之前创建了一个名为 Daily Note Outline Plugin（<<https://github.com/iiz00/obsidian-daily-note-outline>）的插件，它列出了多个日记的大纲，而这个插件是该插件针对常规文件的改编。>
 
 ## 用法
 

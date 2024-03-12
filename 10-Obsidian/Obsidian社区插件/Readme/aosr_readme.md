@@ -1,5 +1,5 @@
 ---
-uid: 2023120719222928
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Aosr
 tags: ['obsidian插件', 'readme']
 description: 另一种黑曜石间隔重复法。它使用闪卡来帮助复习和记忆知识。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/linanwx/aosr/master/README.md)
->
 
 ---
 

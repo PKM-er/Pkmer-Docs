@@ -1,5 +1,5 @@
 ---
-uid: 2023120719432752
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Source Code Note
 tags: ['obsidian插件', 'readme']
 description: 帮助您轻松组织源代码注释。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/waiting0324/obsidian-code-note/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719214750
+uid: 20240227160841
 title: Obsidian 插件：【Readme】3D Graph New
 tags: ['obsidian插件', 'readme']
 description: 一个用于黑曜石的3D图表
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-3d-graph/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023102611073813
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Copy Metadata
 tags: ['obsidian插件', 'readme']
 description: 复制文件元数据，例如创建时间，到剪贴板。将复制的元数据插入到文件名中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/wenlzhang/obsidian-copy-metadata/main/README.md)
->
 
 ---
 

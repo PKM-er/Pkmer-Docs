@@ -1,5 +1,5 @@
 ---
-uid: 2023120719310189
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Image Toolkit
 tags: ['界面相关', '图片', '编辑工具', 'obsidian插件', 'readme']
 description: 为 Obsidian 中的图片添加增强功能，点击图片显示在一个弹出层中，您可以查看、拖动、缩放、旋转图像。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sissilab/obsidian-image-toolkit/master/README.md)
->
 
 ---
 

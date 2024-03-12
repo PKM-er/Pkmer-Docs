@@ -1,5 +1,5 @@
 ---
-uid: 2023080322224433
+uid: 20230817224053
 title: Obsidian 插件：Multi-line Formatting
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: 对所选文本应用格式，处理段落换行。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nmady/obsidian-multi-line-formatting/master/README.md)
->
 
 ---
 

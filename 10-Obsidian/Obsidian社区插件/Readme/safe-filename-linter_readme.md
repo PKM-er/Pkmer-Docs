@@ -1,5 +1,5 @@
 ---
-uid: 2023082011361172
+uid: 20230901084916
 title: Obsidian 插件：【Readme】Safe Filename Linter
 tags: ['obsidian插件', 'readme']
 description: 检查文件名中的无效或有问题的字符
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sneaky-foxes/obsidian-safe-filename-linter/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2024022121235987
+uid: 20240227160841
 title: Obsidian 插件：【Readme】RSS Copyist
 tags: ['obsidian插件', 'readme']
 description: 获取RSS文章作为笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aoout/obsidian-rss-copyist/main/README.md)
->
 
 ---
 

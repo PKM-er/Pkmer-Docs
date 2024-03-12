@@ -1,5 +1,5 @@
 ---
-uid: 2023102611082765
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Search Templates Library
 tags: ['obsidian插件', 'readme']
 description: 允许您保存搜索模板以供将来重复使用。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Pentchaff/obsidian-search-library/main/README.md)
->
 
 ---
 

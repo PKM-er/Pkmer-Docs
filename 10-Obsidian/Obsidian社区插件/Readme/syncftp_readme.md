@@ -1,5 +1,5 @@
 ---
-uid: 2023082011361423
+uid: 20230901084916
 title: Obsidian 插件：【Readme】SyncFTP
 tags: ['obsidian插件', 'readme']
 description: 允许用户连接到SFTP并将文件更改推送/拉取到其中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/alex-donnan/SyncFTP/master/README.md)
->
 
 ---
 

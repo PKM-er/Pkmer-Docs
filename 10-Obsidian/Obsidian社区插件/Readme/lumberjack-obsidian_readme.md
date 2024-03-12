@@ -1,5 +1,5 @@
 ---
-uid: 2023080322215071
+uid: 20230817224053
 title: Obsidian 插件：Lumberjack 🪓 🪵
 tags: ['obsidian插件', 'readme']
 description: 记录你的想法！Lumberjack添加了URL命令，帮助你消除低效率，直接开始写作。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/lumberjack-obsidian/master/README.md)
->
 
 ---
 

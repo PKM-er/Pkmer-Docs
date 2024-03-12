@@ -1,5 +1,5 @@
 ---
-uid: 2023102611085995
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Yet Another Obsidian Synchronizer
 tags: ['obsidian插件', 'readme']
 description: 这是另一个使用Git来同步您的保险库内容的黑曜石同步器。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mahyarmirrashed/yaos/main/README.md)
->
 
 ---
 

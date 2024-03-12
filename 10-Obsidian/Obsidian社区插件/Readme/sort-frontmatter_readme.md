@@ -1,5 +1,5 @@
 ---
-uid: 2023120522270545
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Sort Frontmatter
 tags: ['obsidian插件', 'readme']
 description: 递归排序前置内容
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mariomui/obsidian-sort-frontmatter/master/README.md)
->
 
 ---
 

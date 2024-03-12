@@ -1,5 +1,5 @@
 ---
-uid: 2024022121240586
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Set View Mode per Note
 tags: ['obsidian插件', 'readme']
 description: 使用YAML前置元数据来为每个笔记指定一个视图模式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/AlexDavies8/obsidian-frontmatter-viewmode/main/README.md)
->
 
 ---
 

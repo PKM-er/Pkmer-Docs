@@ -1,5 +1,5 @@
 ---
-uid: 2023120719372214
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Notes dater
 tags: ['obsidian插件', 'readme']
 description: 将活动笔记的创建日期和最后更新日期添加到状态栏。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/PaulTreanor/notes-dater/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719410322
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Quick Plugin Switcher
 tags: ['obsidian插件', 'readme']
 description: 添加一个带有过滤器的功能区图标，可以快速切换插件（全部、已启用、已禁用、最常切换的）。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/1C0D/obsidian-quick-plugin-switcher/master/README.md)
->
 
 ---
 

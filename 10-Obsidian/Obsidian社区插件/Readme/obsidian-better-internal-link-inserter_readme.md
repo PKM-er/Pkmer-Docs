@@ -1,5 +1,5 @@
 ---
-uid: 2023120719373824
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Obsidian Better Internal Link Inserter
 tags: ['obsidian插件', 'readme']
 description: 允许在链接建议中使用所选单词作为别名
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/salmund/obsidian-better-link-inserter/master/README.md)
->
 
 ---
 

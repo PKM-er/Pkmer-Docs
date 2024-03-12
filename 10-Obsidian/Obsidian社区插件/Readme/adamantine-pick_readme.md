@@ -1,5 +1,5 @@
 ---
-uid: 2023120719215484
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Adamantine Pick
 tags: ['obsidian插件', 'readme']
 description: Obsidian的可嵌入式Pikchr图表渲染器插件
@@ -29,7 +29,6 @@ Obsidian 的可嵌入式 Pikchr 图表渲染器插件
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/notlibrary/obsidian-adamantine-pick/master/README.md)
->
 
 ---
 

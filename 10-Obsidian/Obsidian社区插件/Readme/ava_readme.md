@@ -1,5 +1,5 @@
 ---
-uid: 2023120719230827
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Ava
 tags: ['obsidian插件', 'readme']
 description: 使用ChatGPT快速格式化您的笔记
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/different-ai/obsidian-ava/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719240126
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Bulk Exporter
 tags: ['obsidian插件', 'readme']
 description: 使用元数据从您的保险库中筛选和导出笔记，以创建一个可自定义的新结构。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/symunona/obsidian-bulk-exporter/main/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # 批量导出插件
 
-这是一个为 Obsidian（<https://obsidian.md）设计的插件。>
+这是一个为 Obsidian（<<https://obsidian.md>）设计的插件。>
 
 # 错误和功能请求
 

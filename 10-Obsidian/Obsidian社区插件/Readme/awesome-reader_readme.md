@@ -1,5 +1,5 @@
 ---
-uid: 2023120719231184
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Awesome Reader
 tags: ['obsidian插件', 'readme']
 description: 使Obsidian成为一个合适的阅读器。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/AwesomeDog/obsidian-awesome-reader/master/README.md)
->
 
 ---
 

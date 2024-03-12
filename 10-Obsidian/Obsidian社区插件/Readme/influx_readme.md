@@ -1,5 +1,5 @@
 ---
-uid: 2023120719311748
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Influx
 tags: ['obsidian插件', 'readme']
 description: 一个可以在笔记的页脚聚合简洁的反向链接剪辑的日记插件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jensmtg/influx/master/README.md)
->
 
 ---
 
@@ -39,7 +38,6 @@ modified: 20230101000000
 
 > **警告**
 > 很遗憾地说，我无法找到时间来维护这个插件。因此，问题将不会被阅读。我可能会不时地合并拉取请求。如果您认为您可以维护这个插件，请与我联系。
->
 
 ![Obsidian Influx logo](https://cdn.pkmer.cn/covers/influx_1_0.png!pkmer)
 

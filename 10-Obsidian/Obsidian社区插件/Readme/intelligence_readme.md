@@ -1,5 +1,5 @@
 ---
-uid: 2024022117284822
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Intelligence
 tags: ['obsidian插件', 'readme']
 description: OpenAI GPT 助手功能
@@ -27,7 +27,6 @@ OpenAI GPT 助手功能
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ransurf/obsidian-intelligence/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ OpenAI GPT 助手功能
 
 ## 免责声明
 
-在使用类似 GPT-4 这样的大型语言模型时，请自行了解相关价格，网址为<https://openai.com/pricing。该模型使用助手> API，包括以下费用：>
+在使用类似 GPT-4 这样的大型语言模型时，请自行了解相关价格，网址为<<https://openai.com/pricing>。该模型使用助手> API，包括以下费用：>
 
 - 代码解释器 - $0.03/会话（直到 2023 年 12 月 13 日免费）
 - 检索 - $0.20/GB/助手/天（直到 2024 年 1 月 12 日免费）

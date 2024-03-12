@@ -1,5 +1,5 @@
 ---
-uid: 2023120719400865
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Path Title
 tags: ['obsidian插件', 'readme']
 description: 将路径（或可选替换）添加到每个窗格的文件名标题
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jdeal/obsidian-path-title-plugin/main/README.md)
->
 
 ---
 

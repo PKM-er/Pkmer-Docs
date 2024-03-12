@@ -1,5 +1,5 @@
 ---
-uid: 2023080322191342
+uid: 20230817224054
 title: Obsidian 插件：Github Publisher
 tags: ['obsidian插件', 'readme']
 description: Github Publisher 是一个插件，可以帮助你根据前置条件条目状态将文件发送到配置的Github存储库中。
@@ -27,7 +27,6 @@ Github Publisher 是一个插件，可以帮助你根据前置条件条目状态
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ObsidianPublisher/obsidian-github-publisher/master/README.md)
->
 
 ---
 

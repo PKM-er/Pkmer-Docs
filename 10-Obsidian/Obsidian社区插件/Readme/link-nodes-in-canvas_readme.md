@@ -1,5 +1,5 @@
 ---
-uid: 2023120719350500
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Link Nodes in Canvas
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: 一个插件，可以根据它们之间的链接，在Canvas上为您添加边缘。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Link-Nodes-In-Canvas/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719451878
+uid: 20231220112631
 title: Obsidian 插件：【Readme】ToggleList
 tags: ['obsidian插件', 'readme']
 description: 切换清单状态（段落/列表/清单/自定义样式...）
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/thingnotok/obsidian-toggle-list/master/README.md)
->
 
 ---
 

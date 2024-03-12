@@ -1,5 +1,5 @@
 ---
-uid: 2023080322185748
+uid: 20230817224054
 title: Obsidian 插件：Function Plot
 tags: ['obsidian插件', 'readme']
 description: 在 Markdown 代码块中渲染数学函数。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/leonhma/obsidian-functionplot/master/README.md)
->
 
 ---
 

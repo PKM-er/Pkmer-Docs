@@ -1,5 +1,5 @@
 ---
-uid: 2023120719251965
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Confluence Integration
 tags: ['obsidian插件', 'readme']
 description: 将Obsidian中的Markdown内容发布到Atlassian Confluence。它支持一些Obsidian的Markdown扩展，以实现更丰富的内容。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/markdown-confluence/obsidian-integration/main/README.md)
->
 
 ---
 
@@ -56,7 +55,7 @@ modified: 20230101000000
 
 问题
 
-请将问题记录到<https://github.com/markdown-confluence/markdown-confluence/issues，因为这是代码正在开发的地方。>
+请将问题记录到<<https://github.com/markdown-confluence/markdown-confluence/issues>，因为这是代码正在开发的地方。>
 
 ## 入门指南
 

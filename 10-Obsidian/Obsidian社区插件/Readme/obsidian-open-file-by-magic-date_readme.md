@@ -1,5 +1,5 @@
 ---
-uid: 2023120719394072
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Open File by Magic Date
 tags: ['obsidian插件', 'readme']
 description: 为你最重要的文件（例如：每日/每周/每月笔记）定义一个热键和Moment.js模式。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/SimplGy/obsidian-open-file-by-magic-date/master/README.md)
->
 
 ---
 

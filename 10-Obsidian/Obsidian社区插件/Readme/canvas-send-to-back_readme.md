@@ -1,5 +1,5 @@
 ---
-uid: 2023102611072795
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Canvas Send to Back
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian Canvas中发送一张卡片，以便在所有其他卡片之后。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Zachatoo/obsidian-canvas-send-to-back/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719454340
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Tweet to Markdown
 tags: ['obsidian插件', 'readme']
 description: 将推文保存为 Markdown 文件，以及它们的图像、投票等等。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kbravh/obsidian-tweet-to-markdown/main/README.md)
->
 
 ---
 

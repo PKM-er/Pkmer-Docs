@@ -1,5 +1,5 @@
 ---
-uid: 2023080322244030
+uid: 20231220115812
 title: Obsidian 插件：Periodic Notes
 tags: ['日志类', 'obsidian插件', 'readme']
 description: 创建/管理您的日常、每周和每月笔记
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/liamcain/obsidian-periodic-notes/main/README.md)
->
 
 ---
 

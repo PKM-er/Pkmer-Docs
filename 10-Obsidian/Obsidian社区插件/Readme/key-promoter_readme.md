@@ -1,5 +1,5 @@
 ---
-uid: 2023120719314951
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Key Promoter
 tags: ['obsidian插件', 'readme']
 description: 通过当使用鼠标时显示它们来学习键盘快捷键。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joethei/obsidian-key-promoter/master/README.md)
->
 
 ---
 

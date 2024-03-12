@@ -1,5 +1,5 @@
 ---
-uid: 2023120719225989
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Auto Note Mover
 tags: ['obsidian插件', 'readme']
 description: Auto Note Mover会根据规则自动将活动笔记移动到各自的文件夹中。
@@ -29,7 +29,6 @@ Auto Note Mover 会根据规则自动将活动笔记移动到各自的文件夹�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/farux/obsidian-auto-note-mover/main/README.md)
->
 
 ---
 
@@ -146,7 +145,7 @@ Auto Note Mover 有两种类型的触发器。
 
 ## 归属
 
-suggest.ts 和 file-suggest.ts 是 Liam Cain（<https://github.com/liamcain）的版权作品，obsidian-periodic-notes（https://github.com/liamcain/obsidian-periodic-notes）。>
+suggest.ts 和 file-suggest.ts 是 Liam Cain（<<https://github.com/liamcain>）的版权作品，obsidian-periodic-notes（<https://github.com/liamcain/obsidian-periodic-notes>）。>
 
 popper.js <https://popper.js.org/>
 

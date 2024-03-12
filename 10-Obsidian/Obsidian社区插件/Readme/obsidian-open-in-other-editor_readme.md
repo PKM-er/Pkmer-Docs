@@ -1,5 +1,5 @@
 ---
-uid: 2023080322240823
+uid: 20230817224054
 title: Obsidian 插件：Open In Other Editor
 tags: ['obsidian插件', 'readme']
 description: 在gVim或VScode中打开当前活动文件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yekingyan/obsidian-open-in-other-editor/master/README.md)
->
 
 ---
 

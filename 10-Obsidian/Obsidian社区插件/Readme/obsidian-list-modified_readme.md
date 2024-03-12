@@ -1,5 +1,5 @@
 ---
-uid: 2023120719351791
+uid: 20231220115812
 title: Obsidian 插件：【Readme】List Modified
 tags: ['obsidian插件', 'readme']
 description: 一个简单的黑曜石插件，它将符合某些标准的所有修改文件链接到每日笔记中。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/franciskafieh/obsidian-list-modified/master/README.md)
->
 
 ---
 

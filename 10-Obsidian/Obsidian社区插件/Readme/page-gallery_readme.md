@@ -1,5 +1,5 @@
 ---
-uid: 2023120719395491
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Page Gallery
 tags: ['obsidian插件', 'readme']
 description: 根据所选页面内容创建可嵌入的图库。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tokenshift/obsidian-page-gallery/main/README.md)
->
 
 ---
 

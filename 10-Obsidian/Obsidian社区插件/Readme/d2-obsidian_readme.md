@@ -1,5 +1,5 @@
 ---
-uid: 2023080322165858
+uid: 20230817224052
 title: Obsidian 插件：D2
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: Obsidian官方的D2插件。D2是一种现代图表脚本语言，可将文本转换为图表。
@@ -27,7 +27,6 @@ Obsidian 官方的 D2 插件。D2 是一种现代图表脚本语言，可将文�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/terrastruct/d2-obsidian/master/README.md)
->
 
 ---
 

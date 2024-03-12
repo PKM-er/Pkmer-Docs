@@ -1,5 +1,5 @@
 ---
-uid: 2023120719425062
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Shukuchi
 tags: ['obsidian插件', 'readme']
 description: 跳转到链接（URL或内部链接）并跳转到它们的目标位置。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tadashi-aikawa/shukuchi/master/README.md)
->
 
 ---
 

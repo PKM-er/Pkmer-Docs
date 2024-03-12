@@ -1,5 +1,5 @@
 ---
-uid: 2024022121234951
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Repeat Last Command(s)
 tags: ['obsidian插件', 'readme']
 description: Repeat last command or commands. toggle pinned command with tab
@@ -27,7 +27,6 @@ Repeat last command or commands. toggle pinned command with tab
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/1C0D/obsidian-repeat-last-commands/master/README.md)
->
 
 ---
 

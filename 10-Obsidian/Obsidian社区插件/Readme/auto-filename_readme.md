@@ -1,5 +1,5 @@
 ---
-uid: 2023120522241933
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Auto Filename
 tags: ['obsidian插件', 'readme']
 description: 根据文件的前x个字符，在进行操作时自动重命名文件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/rcsaquino/obsidian-auto-filename/main/README.md)
->
 
 ---
 

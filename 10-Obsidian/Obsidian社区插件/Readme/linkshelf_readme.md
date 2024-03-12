@@ -1,5 +1,5 @@
 ---
-uid: 2023102611080321
+uid: 20231026111420
 title: Obsidian 插件：【Readme】LinkShelf
 tags: ['obsidian插件', 'readme']
 description: 将浏览器中的链接直接保存到Obsidian中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joelseq/obsidian-linkstowr/main/README.md)
->
 
 ---
 
@@ -53,7 +52,7 @@ modified: 20230101000000
 
 ## 先决条件
 
-1. 在<https://linkshelf.app/上创建一个账户并生成一个访问令牌。>
+1. 在<<https://linkshelf.app/>上创建一个账户并生成一个访问令牌。>
 2. 下载 [Chrome扩展程序](https://chrome.google.com/webstore/detail/linkshelf/ahppmgflbaeiphlkkgngijgmfapabgee) 并输入您的访问令牌。
 3. 使用 Chrome 扩展程序开始保存链接。
 

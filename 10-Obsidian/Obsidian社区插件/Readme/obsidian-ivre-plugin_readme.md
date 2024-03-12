@@ -1,5 +1,5 @@
 ---
-uid: 2023120719312835
+uid: 20231220112631
 title: Obsidian 插件：【Readme】IVRE
 tags: ['obsidian插件', 'readme']
 description: IVRE集成到Obsidian：从IVRE抓取数据并将其带入Obsidian笔记中。
@@ -29,7 +29,6 @@ IVRE 集成到 Obsidian：从 IVRE 抓取数据并将其带入 Obsidian 笔记�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ivre/obsidian-ivre-plugin/master/README.md)
->
 
 ---
 

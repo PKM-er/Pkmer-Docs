@@ -1,5 +1,5 @@
 ---
-uid: 2023120719455764
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Vale
 tags: ['obsidian插件', 'readme']
 description: 使用 Vale 检查文档风格来保证一致性。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/marcusolsson/obsidian-vale/main/README.md)
->
 
 ---
 

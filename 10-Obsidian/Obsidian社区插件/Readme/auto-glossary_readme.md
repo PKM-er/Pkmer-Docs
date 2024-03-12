@@ -1,5 +1,5 @@
 ---
-uid: 2023080322142958
+uid: 20230817224051
 title: Obsidian 插件：Auto Glossary
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中自动创建文件的词汇表、文件索引或两者都创建。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ennioitaliano/obsidian-auto-glossary/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719463001
+uid: 20231220112631
 title: Obsidian 插件：【Readme】WakaTime
 tags: ['效率', '美化', '统计', 'obsidian插件', 'readme']
 description: WakaTime Obsidian插件，用于从您的 Obsidian 使用活动中自动生成，使用情况的度量、数据报告和时间跟踪。
@@ -29,7 +29,6 @@ WakaTime Obsidian 插件，用于从您的 Obsidian 使用活动中自动生成�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/wakatime/obsidian-wakatime/master/README.md)
->
 
 ---
 

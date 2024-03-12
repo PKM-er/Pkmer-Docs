@@ -1,5 +1,5 @@
 ---
-uid: 2023120719410832
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Quick Tagger
 tags: ['obsidian插件', 'readme']
 description: 快速添加和删除标签。对标签搜索结果进行批量标记，并为您的收藏夹添加专用按钮/命令！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Gorkycreator/obsidian-quick-tagger/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719252541
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Convert url to preview (iframe)
 tags: ['转换工具', '链接处理', 'obsidian插件', 'readme']
 description: 将一个url（例如youtube）转换为一个iframe（预览）
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/FHachez/obsidian-convert-url-to-iframe/master/README.md)
->
 
 ---
 
@@ -79,7 +78,7 @@ modified: 20230101000000
 - 仅在控制台中输出应用程序名称（[Issue 3](https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/3)）
 - 添加一个纵横比（默认为 16:9 纵横比）（Kankaristo）。
 - 确保 iframe 可以在没有 CSS 类的情况下工作（Kankaristo）
-- 修复使用滑动窗格插件时的错误调整大小问题（[Issue 1](<https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/1）（Kankaristo）>
+- 修复使用滑动窗格插件时的错误调整大小问题（[Issue 1](<<https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/1>）（Kankaristo）>
 - 更好的用户消息和 README.md（Kankaristo）
 - 保留 Youtube 的时间戳 [Issue 14](https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/14)
 - 允许全屏 iframe [Issue 8](https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/8)

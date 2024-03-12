@@ -1,5 +1,5 @@
 ---
-uid: 2023120719413059
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Recipe view
 tags: ['obsidian插件', 'readme']
 description: 在烹饪时，将您的笔记视为互动的食谱卡片。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lachholden/obsidian-recipe-view/master/README.md)
->
 
 ---
 

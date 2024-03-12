@@ -1,5 +1,5 @@
 ---
-uid: 2023080322224277
+uid: 20230817224053
 title: Obsidian 插件：MSG Handler
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian Vault中轻松显示和搜索来自Outlook的MSG文件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozntel/obsidian-msg-handler/master/README.md)
->
 
 ---
 

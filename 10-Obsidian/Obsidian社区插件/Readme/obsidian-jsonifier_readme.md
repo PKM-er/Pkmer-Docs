@@ -1,5 +1,5 @@
 ---
-uid: 2023120719314139
+uid: 20231220115812
 title: Obsidian 插件：【Readme】JSONifier
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 使用JSON.stringify()或JSON.parse()高亮文本，并复制到剪贴板。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/KjellConnelly/obsidian-jsonifier/master/README.md)
->
 
 ---
 

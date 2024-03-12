@@ -1,5 +1,5 @@
 ---
-uid: 2023120719464232
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Wikilinks to MDLinks
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将双链和 Markdown 链接互换。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/agathauy/wikilinks-to-mdlinks-obsidian/master/README.md)
->
 
 ---
 

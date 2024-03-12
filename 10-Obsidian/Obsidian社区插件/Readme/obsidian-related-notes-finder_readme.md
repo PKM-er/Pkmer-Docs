@@ -1,5 +1,5 @@
 ---
-uid: 2023080322255246
+uid: 20230817224055
 title: Obsidian 插件：Related Notes Finder
 tags: ['搜索/排序', '任务管理', '关系图谱', 'obsidian插件', 'readme']
 description: 用于产找当前笔记中出现的词汇，和其他可能相关的笔记。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lifegems/obsidian-related-notes-finder/master/README.md)
->
 
 ---
 

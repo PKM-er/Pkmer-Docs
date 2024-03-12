@@ -1,5 +1,5 @@
 ---
-uid: 2023120719302290
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Harpoon
 tags: ['obsidian插件', 'readme']
 description: 使用快捷方式来管理和导航Obsidian中的前四个常用文件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/rodrez/obsidian-harpoon/main/README.md)
->
 
 ---
 

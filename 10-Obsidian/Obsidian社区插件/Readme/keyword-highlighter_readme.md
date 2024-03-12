@@ -1,5 +1,5 @@
 ---
-uid: 2023120719315608
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Keyword Highlighter
 tags: ['obsidian插件', 'readme']
 description: 自动突出显示指定的关键词，以增强您的Obsidian笔记的可见性和快速参考。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/marcel-goldammer/obsidian-keyword-highlighter/main/README.md)
->
 
 ---
 

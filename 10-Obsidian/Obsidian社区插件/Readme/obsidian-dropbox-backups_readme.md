@@ -1,5 +1,5 @@
 ---
-uid: 2023120719225026
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Aut-O-Backups
 tags: ['备份', 'obsidian插件', 'readme']
 description: 自动备份您整个保险库到Dropbox。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanpcmcquen/obsidian-dropbox-backups/master/README.md)
->
 
 ---
 

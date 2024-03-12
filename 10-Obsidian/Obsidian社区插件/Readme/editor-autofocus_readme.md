@@ -1,5 +1,5 @@
 ---
-uid: 2023120522245059
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Editor Autofocus
 tags: ['obsidian插件', 'readme']
 description: 打开新文件时自动对焦编辑器。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgussekloo/obsidian-editor-autofocus/master/README.md)
->
 
 ---
 

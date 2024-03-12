@@ -1,5 +1,5 @@
 ---
-uid: 2023080322132788
+uid: 20231220112631
 title: Obsidian 插件：2Hop Links Plugin
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这个插件将显示前面2跳链接的页面。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tokuhirom/obsidian-2hop-links-plugin/master/README.md)
->
 
 ---
 
@@ -87,12 +86,12 @@ modified: 20230101000000
     gh16683170 报告
   - 不吞噬非主鼠标按钮的 mousedown 事件。[#19](https://github.com/tokuhirom/obsidian-2hop-links-plugin/pull/19)
 - 0.2.0 (2021-05-12)
-  - 通过命令临时启用/禁用 2hop 插件视图。<https://github.com/tokuhirom/obsidian-2hop-links-plugin/pull/13（由@autonomygaps> 提出的请求）>
+  - 通过命令临时启用/禁用 2hop 插件视图。<<https://github.com/tokuhirom/obsidian-2hop-links-plugin/pull/13>（由@autonomygaps> 提出的请求）>
 - 0.1.0 (2021-05-12)
-  - 修复插件安装失败问题。<https://github.com/tokuhirom/obsidian-2hop-links-plugin/pull/11（由> gorilla、iiz 报告）>
+  - 修复插件安装失败问题。<<https://github.com/tokuhirom/obsidian-2hop-links-plugin/pull/11>（由> gorilla、iiz 报告）>
   - 使框的大小可配置（由 iiz 提出的请求）
 - 0.0.10 (2021-05-11)
-  - 重新启用可解析的 2hop 链接。<https://github.com/tokuhirom/obsidian-2hop-links-plugin/pull/7（由@kdmsnr> 报告）>
+  - 重新启用可解析的 2hop 链接。<<https://github.com/tokuhirom/obsidian-2hop-links-plugin/pull/7>（由@kdmsnr> 报告）>
 
 ## 许可证
 

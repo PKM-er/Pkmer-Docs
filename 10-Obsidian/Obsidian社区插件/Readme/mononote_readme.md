@@ -1,5 +1,5 @@
 ---
-uid: 2023102611081073
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Mononote
 tags: ['obsidian插件', 'readme']
 description: 确保每个笔记只占用一个标签页。如果一个笔记已经打开，将会聚焦到它现有的标签页，而不是在当前标签页中打开相同的文件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/czottmann/obsidian-mononote/main/README.md)
->
 
 ---
 
@@ -92,7 +91,7 @@ modified: 20230101000000
 
 ## 作者
 
-Carlo Zottmann，<carlo@zottmann.co>，<https://zottmann.co/，https://github.com/czottmann>
+Carlo Zottmann，<carlo@zottmann.co>，<<https://zottmann.co/>，<https://github.com/czottmann>>
 
 免责声明
 

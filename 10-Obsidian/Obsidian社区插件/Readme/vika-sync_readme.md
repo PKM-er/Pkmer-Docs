@@ -1,5 +1,5 @@
 ---
-uid: 2023080322291638
+uid: 20230817224056
 title: Obsidian 插件：Vika Sync
 tags: ['obsidian插件', 'readme']
 description: 将你的笔记同步到Vika
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/romantic-black/obsidain-vika-sync/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322254273
+uid: 20230817224054
 title: Obsidian 插件：Readwise Community
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 将Readwise突出显示同步到您的笔记中
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/renehernandez/obsidian-readwise/main/README.md)
->
 
 ---
 

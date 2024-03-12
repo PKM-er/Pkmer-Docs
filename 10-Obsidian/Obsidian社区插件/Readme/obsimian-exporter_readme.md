@@ -1,5 +1,5 @@
 ---
-uid: 2023120719393120
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Obsimian
 tags: ['编程', 'obsidian插件', 'readme']
 description: Obsidian 模拟框架用于测试 Obsidian 插件，并输出插件相关的信息。
@@ -29,7 +29,6 @@ Obsidian 模拟框架用于测试 Obsidian 插件，并输出插件相关的信�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/motif-software/obsimian/main/README.md)
->
 
 ---
 

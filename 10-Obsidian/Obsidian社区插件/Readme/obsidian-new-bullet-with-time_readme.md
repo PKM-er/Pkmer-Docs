@@ -1,5 +1,5 @@
 ---
-uid: 2023080322225182
+uid: 20230817224054
 title: Obsidian 插件：New Bullet With Time
 tags: ['日期相关', '编辑器', '自动化', 'obsidian插件', 'readme']
 description: 允许你自动添加当前时间到新的项目符号行。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-New-Bullet-With-Time/master/README.md)
->
 
 ---
 

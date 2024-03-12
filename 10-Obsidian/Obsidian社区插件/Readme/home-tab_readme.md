@@ -1,5 +1,5 @@
 ---
-uid: 2023120719303700
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Home tab
 tags: ['obsidian插件', 'readme']
 description: 一个类似浏览器的搜索标签，用于搜索您的本地文件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/olrenso/obsidian-home-tab/main/README.md)
->
 
 ---
 

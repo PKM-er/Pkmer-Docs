@@ -1,5 +1,5 @@
 ---
-uid: 2023120719224610
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Attachment Manager
 tags: ['obsidian插件', 'readme']
 description: 附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。
@@ -29,7 +29,6 @@ Attachment Manager: 附件管理器：附件文件夹名称绑定笔记名、自
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chenfeicqq/obsidian-attachment-manager/master/README.md)
->
 
 ---
 

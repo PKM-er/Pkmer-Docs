@@ -1,5 +1,5 @@
 ---
-uid: 2023080322203968
+uid: 20230817224052
 title: Obsidian 插件：Insert Heading Link
 tags: ['obsidian插件', 'readme']
 description: 添加一个命令来创建一个链接到标题。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Signynt/insert-heading-link/master/README.md)
->
 
 ---
 

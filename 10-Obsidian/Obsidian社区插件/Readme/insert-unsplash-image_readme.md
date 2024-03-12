@@ -1,5 +1,5 @@
 ---
-uid: 2023080322201494
+uid: 20230817224052
 title: Obsidian 插件：Image Inserter
 tags: ['效率', '图片', '搜索/排序', '第三方工具集成', 'obsidian插件', 'readme']
 description: 这个插件可以帮助你在 Obsidian 内，就从 Unsplash 或 Pixabay 搜索并插入图像到笔记中。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/cloudy9101/obsidian-image-inserter/master/README.md)
->
 
 ---
 

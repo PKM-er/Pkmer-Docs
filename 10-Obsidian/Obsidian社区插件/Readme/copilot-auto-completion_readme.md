@@ -1,5 +1,5 @@
 ---
-uid: 2023120719252809
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Copilot auto completion
 tags: ['obsidian插件', 'readme']
 description: 使用ChatGPT API，为Obsidian添加一个高度可配置的类似副驾驶的自动补全功能。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/j0rd1smit/obsidian-copilot-auto-completion/master/README.md)
->
 
 ---
 

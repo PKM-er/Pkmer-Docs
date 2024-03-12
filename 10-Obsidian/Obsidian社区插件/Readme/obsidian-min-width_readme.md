@@ -1,5 +1,5 @@
 ---
-uid: 2023120719363942
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Min Width
 tags: ['obsidian插件', 'readme']
 description: 设置活动窗格的最小宽度。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/doitian/obsidian-min-width/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 Min Width 插件设置了活动窗格的最小宽度。Obsidian 会自动调整活动窗格的宽度，以确保它足够宽，并相应地缩小其他窗格。
 
-该插件基于博客文章《在 Obsidian 中设置活动窗格的最小宽度》（<https://blog.iany.me/2022/09/set-the-minimum-width-of-the-active-pane-in-obsidian/）。>
+该插件基于博客文章《在 Obsidian 中设置活动窗格的最小宽度》（<<https://blog.iany.me/2022/09/set-the-minimum-width-of-the-active-pane-in-obsidian/>）。>
 
 [![](https://cdn.pkmer.cn/covers/obsidian-min-width_1_0.gif)](https://vimeo.com/752964835)
 

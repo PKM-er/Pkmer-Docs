@@ -1,5 +1,5 @@
 ---
-uid: 2024022117280494
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Git File Explorer
 tags: ['obsidian插件', 'readme']
 description: 将检测到的git存储库的相关git信息添加到文件资源管理器中
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MateusMolina/obsidian-git-file-explorer/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322223509
+uid: 20230817224054
 title: Obsidian 插件：Min3ditorHotkeys
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 受编码编辑器启发的额外编辑器快捷键
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/d-sauer/Obsidian-Min3ditorHotkeys-plugin/master/README.md)
->
 
 ---
 

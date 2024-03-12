@@ -1,5 +1,5 @@
 ---
-uid: 2023082011361006
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Ruled template
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许在创建新文件时使用基于规则的模板。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/YPetremann/obsidian-ruled-template/master/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 # Obsidian Ruled Template
 
-这是一个用于 Obsidian（<https://obsidian.md）的插件。>
+这是一个用于 Obsidian（<<https://obsidian.md>）的插件。>
 
 这个插件是为了与像 templater 这样的插件一起使用。
 

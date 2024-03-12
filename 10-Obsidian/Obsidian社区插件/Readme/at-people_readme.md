@@ -1,5 +1,5 @@
 ---
-uid: 2023120719224335
+uid: 20231220112631
 title: Obsidian 插件：【Readme】At People
 tags: ['obsidian插件', 'readme']
 description: 使用熟悉的@符号来在人员文件夹中进行人员文件的交叉链接。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/saibotsivad/obsidian-at-people/main/README.md)
->
 
 ---
 

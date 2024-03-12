@@ -1,5 +1,5 @@
 ---
-uid: 2023120719372544
+uid: 20240227160841
 title: Obsidian 插件：【Readme】NoteTweet
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 从Obsidian发布推文。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chhoumann/notetweet_obsidian/master/README.md)
->
 
 ---
 

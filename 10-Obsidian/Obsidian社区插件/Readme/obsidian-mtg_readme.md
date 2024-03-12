@@ -1,5 +1,5 @@
 ---
-uid: 2023120719380592
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Obsidian MtG
 tags: ['obsidian插件', 'readme']
 description: 一个用于管理《魔法风云会》套牌和卡牌列表的Obsidian插件
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/omardelarosa/obsidian-mtg/master/README.md)
->
 
 ---
 

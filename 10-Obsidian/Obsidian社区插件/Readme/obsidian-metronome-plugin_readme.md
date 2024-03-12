@@ -1,5 +1,5 @@
 ---
-uid: 2023120719363634
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Metronome
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加互动节拍器。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/curtgrimes/obsidian-metronome-plugin/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322172090
+uid: 20230817224053
 title: Obsidian 插件：Dirtreeist
 tags: ['obsidian插件', 'readme']
 description: 从代码块中的markdown列表渲染出目录结构图。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/k4a-l/obsidian-dirtreeist/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719441141
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Tags Overview
 tags: ['obsidian插件', 'readme']
 description: 添加了一个扩展标签面板，可以简单地查看、过滤和访问已标记的文件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/christianwannerstedt/obsidian-tags-overview/main/README.md)
->
 
 ---
 

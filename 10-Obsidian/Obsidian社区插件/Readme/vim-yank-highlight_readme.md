@@ -1,5 +1,5 @@
 ---
-uid: 2024022122530066
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Vim Yank Highlight
 tags: ['obsidian插件', 'readme']
 description: 在Vim模式下突出显示被删除的文本。享受你一直想念的微妙动画。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aleksey-rowan/obsidian-vim-yank-highlight/master/README.md)
->
 
 ---
 

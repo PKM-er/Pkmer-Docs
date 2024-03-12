@@ -1,5 +1,5 @@
 ---
-uid: 2023120719412530
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Readwise Mirror
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 将您的Readwise图书馆直接镜像到Obsidian金库中
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jsonMartin/readwise-mirror/master/README.md)
->
 
 ---
 

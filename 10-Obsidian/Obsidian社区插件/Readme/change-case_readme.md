@@ -1,5 +1,5 @@
 ---
-uid: 2023102611072947
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Change Case
 tags: ['obsidian插件', 'readme']
 description: 插件可让您更改当前选择的大小写（大写，驼峰式，蛇形命名等）。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dbrockman/obsidian-change-case/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 该插件允许您更改所选文本的大小写（大写、驼峰式、蛇形命名等）。
 
-这是一个适用于 Obsidian（<https://obsidian.md）的插件。>
+这是一个适用于 Obsidian（<<https://obsidian.md>）的插件。>
 
 该插件添加了以下命令：
 

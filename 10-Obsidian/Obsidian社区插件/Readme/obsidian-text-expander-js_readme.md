@@ -1,5 +1,5 @@
 ---
-uid: 2023120719312085
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Inline Scripts
 tags: ['obsidian插件', 'readme']
 description: 输入文本快捷键，然后用JavaScript生成的文本替换它们。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jon-heard/obsidian-inline-scripts/main/README.md)
->
 
 ---
 
@@ -368,7 +367,6 @@ _（注意 - 快捷文件 "states.sfile" 有 __ 两个 __ 教程视频，一个�
 > return $1.repeat(5);<br/>
 > __<br/>
 > repeat {to repeat: single character} - 展开为{to repeat}的 5 个重复："aaaaa"。<br/>
->
 
 这个快捷方式文件以一个关于字符串开始，描述了快捷方式文件。在关于字符串之后，它包含两个快捷方式。请注意，第一个 `__` 放在快捷方式文件的关于字符串之后。每个快捷方式文件都有一个关于字符串，包括上面的简单示例，尽管在那种情况下关于字符串为空。还请注意，此快捷方式文件的每个部分之间有空行。__Inline Scripts__ 会忽略快捷方式文件中的空行，因此可以使用它们来组织快捷方式文件。
 

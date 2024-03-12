@@ -1,5 +1,5 @@
 ---
-uid: 2023082011354549
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Custom list character
 tags: ['obsidian插件', 'readme']
 description: 添加了在创建项目符号列表时选择使用的字符的功能，可以选择'-'、'*'和'+'之间的字符。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lilian-pouliquen/obsidian-custom-list-character/master/README.md)
->
 
 ---
 

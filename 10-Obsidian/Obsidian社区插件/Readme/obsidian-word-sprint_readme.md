@@ -1,5 +1,5 @@
 ---
-uid: 2023080322293919
+uid: 20230817224055
 title: Obsidian 插件：Word Sprint
 tags: ['obsidian插件', 'readme']
 description: 为你的写作项目（如Nanowrimo）提供 Word Sprint 功能
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kinabalu/obsidian-word-sprint/master/README.md)
->
 
 ---
 

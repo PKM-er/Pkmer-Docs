@@ -1,5 +1,5 @@
 ---
-uid: 2023120719241605
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Canvas Mindmap
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以让你的画布像思维导图一样工作。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Canvas-MindMap/master/README.md)
->
 
 ---
 

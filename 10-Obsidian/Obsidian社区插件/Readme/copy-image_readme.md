@@ -1,5 +1,5 @@
 ---
-uid: 2024022117270484
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Copy Image
 tags: ['obsidian插件', 'readme']
 description: 轻松通过右键单击图像将图像从Obsidian复制到剪贴板。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/felipe-ds-lima/obsidian-copy-image-plugin/main/README.md)
->
 
 ---
 

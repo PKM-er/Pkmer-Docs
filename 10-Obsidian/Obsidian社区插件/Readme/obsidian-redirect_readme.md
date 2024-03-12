@@ -1,5 +1,5 @@
 ---
-uid: 2023120719413243
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Redirect
 tags: ['obsidian插件', 'readme']
 description: 通过允许为任何文件设置别名，特别是非标记文件的管理更加容易。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jglev/obsidian-redirect/main/README.md)
->
 
 ---
 

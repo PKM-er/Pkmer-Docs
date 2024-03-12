@@ -1,5 +1,5 @@
 ---
-uid: 2023120719314804
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Just Share Please
 tags: ['obsidian插件', 'readme']
 description: 快速轻松地使用匿名链接在线共享个人笔记。也很容易自行托管！
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Ellpeck/ObsidianJustSharePlease/main/README.md)
->
 
 ---
 

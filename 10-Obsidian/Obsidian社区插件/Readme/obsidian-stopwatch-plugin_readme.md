@@ -1,5 +1,5 @@
 ---
-uid: 2023120719434543
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Stopwatch Plugin
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 在Obsidian上显示秒表！
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tokuhirom/obsidian-stopwatch-plugin/master/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-stopwatch-plugin]] 插件的自述翻译
 
-这是一个为 Obsidian（<https://obsidian.md）设计的秒表插件。>
+这是一个为 Obsidian（<<https://obsidian.md>）设计的秒表插件。>
 
 ![](https://cdn.pkmer.cn/covers/obsidian-stopwatch-plugin_2_0.png!pkmer)
 

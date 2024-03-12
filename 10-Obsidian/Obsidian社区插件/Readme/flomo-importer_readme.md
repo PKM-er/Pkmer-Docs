@@ -1,5 +1,5 @@
 ---
-uid: 2023080322183462
+uid: 20230817224052
 title: Obsidian 插件：Flomo Importer
 tags: ['obsidian插件', 'readme']
 description: 将Flomo备忘录转换为Obsidian笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jia6y/flomo-to-obsidian/main/README.md)
->
 
 ---
 

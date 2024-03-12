@@ -1,5 +1,5 @@
 ---
-uid: 2023120719275031
+uid: 20231220115812
 title: Obsidian 插件：【Readme】External Link Helper
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，可以让您更容易地将外部链接插入您的笔记中。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nakalsio/obsidian-danpung/master/README.md)
->
 
 ---
 

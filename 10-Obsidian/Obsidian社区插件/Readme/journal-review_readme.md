@@ -1,5 +1,5 @@
 ---
-uid: 2023080322204851
+uid: 20230817224052
 title: Obsidian 插件：Journal Review
 tags: ['obsidian插件', 'readme']
 description: 回顾你每天的笔记，比如“去年的今天发生了什么”。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Kageetai/obsidian-plugin-journal-review/master/README.md)
->
 
 ---
 

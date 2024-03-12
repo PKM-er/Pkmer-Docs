@@ -1,5 +1,5 @@
 ---
-uid: 2024022121313786
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Timelines (Revamped)
 tags: ['obsidian插件', 'readme']
 description: 生成一个按时间顺序排列的时间线，在这个时间线中，所有的“事件”都是包含特定标签或一组标签的笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/seanlowe/obsidian-timelines/main/README.md)
->
 
 ---
 

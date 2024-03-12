@@ -1,5 +1,5 @@
 ---
-uid: 2023120719430704
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Simple note quiz
 tags: ['obsidian插件', 'readme']
 description: 开始在你当前的笔记上做一个简单的测验。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/beginner137/Obsidian-simple-note-quiz/master/README.md)
->
 
 ---
 

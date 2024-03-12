@@ -1,5 +1,5 @@
 ---
-uid: 2023082011360604
+uid: 20230901084916
 title: Obsidian 插件：【Readme】Password Protection
 tags: ['obsidian插件', 'readme']
 description: 用密码保护您的私人笔记和日记，无需加密，无需解密。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/qing3962/password-protection/master/README.md)
->
 
 ---
 

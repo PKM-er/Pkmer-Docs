@@ -1,5 +1,5 @@
 ---
-uid: 2023102611084159
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Timetracker
 tags: ['obsidian插件', 'readme']
 description: 添加一个秒表，其值可以通过热键插入到编辑器中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hedgehog1833/obsidian-timetracker/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719305493
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Icons
 tags: ['样式工具', '美化', 'obsidian插件', 'readme']
 description: 将图标添加到您的 Obsidian 中，扩充默认支持的图标集。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/visini/obsidian-icons-plugin/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719352083
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Local Quotes
 tags: ['obsidian插件', 'readme']
 description: 从整个存储库中收集您的引用，并在不同位置嵌入它们，并设置刷新延迟。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sundevista/local-quotes/master/README.md)
->
 
 ---
 

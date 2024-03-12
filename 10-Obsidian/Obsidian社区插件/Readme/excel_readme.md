@@ -1,5 +1,5 @@
 ---
-uid: 2023102611074588
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Excel
 tags: ['obsidian插件', 'readme']
 description: 创建电子表格并轻松地将它们嵌入到Markdown中。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ljcoder2015/obsidian-excel/master/README.md)
->
 
 ---
 

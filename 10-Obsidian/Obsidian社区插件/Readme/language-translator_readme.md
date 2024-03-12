@@ -1,5 +1,5 @@
 ---
-uid: 2023120719320612
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Language Translator
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，可以将所选文本翻译成所需的语言。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/twentytwokhz/language-translator/master/README.md)
->
 
 ---
 

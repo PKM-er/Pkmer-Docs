@@ -1,5 +1,5 @@
 ---
-uid: 2023080322224514
+uid: 20230817224053
 title: Obsidian 插件：MySnippets
 tags: ['obsidian插件', 'readme']
 description: MySnippets是一个插件，它添加了一个状态栏菜单，允许用户快速开启和关闭他们的片段🖌。
@@ -27,7 +27,6 @@ MySnippets 是一个插件，它添加了一个状态栏菜单，允许用户快
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chetachiezikeuzor/MySnippets-Plugin/master/README.md)
->
 
 ---
 

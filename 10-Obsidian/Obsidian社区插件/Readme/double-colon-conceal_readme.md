@@ -1,5 +1,5 @@
 ---
-uid: 2023120719265623
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Double Colon Conceal
 tags: ['obsidian插件', 'readme']
 description: 在阅读视图（预览模式）中，将双冒号（即Dataview内联字段）显示为单冒号，以获得更自然的体验。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/msrch/obsidian-double-colon-conceal/master/README.md)
->
 
 ---
 

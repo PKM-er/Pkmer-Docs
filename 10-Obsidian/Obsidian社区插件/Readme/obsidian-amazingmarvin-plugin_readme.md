@@ -1,5 +1,5 @@
 ---
-uid: 2023120719222232
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Amazing Marvin
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 一个简单的插件，可以帮助从Amazing Marvin获取数据
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ikuyarihS/obsidian-amazingmarvin-plugin/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 ![GitHub所有发布](https://img.shields.io/github/downloads/ikuyarihS/obsidian-amazingmarvin-plugin/total?style=flat)
 
-这是一个 Obsidian 插件（<https://obsidian.md）。>
+这是一个 Obsidian 插件（<<https://obsidian.md>）。>
 
 **注意：**
 

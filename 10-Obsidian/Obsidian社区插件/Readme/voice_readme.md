@@ -1,5 +1,5 @@
 ---
-uid: 2023102611085218
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Voice
 tags: ['obsidian插件', 'readme']
 description: 听着你的笔记被朗读出来。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisurf/obsidian-voice/main/README.md)
->
 
 ---
 

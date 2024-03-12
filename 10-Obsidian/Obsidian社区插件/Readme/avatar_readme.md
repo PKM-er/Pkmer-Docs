@@ -1,5 +1,5 @@
 ---
-uid: 2023120719231043
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Avatar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示一个头像图片。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/froehlichA/obsidian-avatar/master/README.md)
->
 
 ---
 

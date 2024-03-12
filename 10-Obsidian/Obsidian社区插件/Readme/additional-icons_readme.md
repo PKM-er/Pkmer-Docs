@@ -1,5 +1,5 @@
 ---
-uid: 2024022117260208
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Additional Icons
 tags: ['obsidian插件', 'readme']
 description: Adds additional iconsets to Obsidian
@@ -27,7 +27,6 @@ Adds additional iconsets to Obsidian
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/matthewturk/obsidian-additional-icons/master/README.md)
->
 
 ---
 

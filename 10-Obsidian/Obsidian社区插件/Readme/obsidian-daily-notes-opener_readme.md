@@ -1,5 +1,5 @@
 ---
-uid: 2023120719262241
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Daily notes opener
 tags: ['obsidian插件', 'readme']
 description: 轻松在新窗格中打开日记和周期性记录；自定义周期性记录的背景；快速添加新行到日记中。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/reorx/obsidian-daily-notes-opener/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719225299
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Auto Card Link
 tags: ['obsidian插件', 'readme']
 description: 自动从网址获取元数据，并将其作为卡片样式的链接。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nekoshita/obsidian-auto-card-link/main/README.md)
->
 
 ---
 

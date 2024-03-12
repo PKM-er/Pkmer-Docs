@@ -1,5 +1,5 @@
 ---
-uid: 2023120719381523
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Obsidian Social (Sekund)
 tags: ['obsidian插件', 'readme']
 description: 分享笔记并收集反馈
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Sekund/sekund-plugin-react/main/README.md)
->
 
 ---
 

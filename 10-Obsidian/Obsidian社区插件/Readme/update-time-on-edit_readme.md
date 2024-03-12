@@ -1,5 +1,5 @@
 ---
-uid: 2023080322290219
+uid: 20230817224056
 title: Obsidian 插件：Update time on edit
 tags: ['obsidian插件', 'readme']
 description: 保持 frontmatter 和最后编辑时间同步
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/beaussan/update-time-on-edit-obsidian/main/README.md)
->
 
 ---
 

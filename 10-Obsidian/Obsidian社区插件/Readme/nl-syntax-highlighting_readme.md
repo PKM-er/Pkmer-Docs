@@ -1,5 +1,5 @@
 ---
-uid: 2023120719370286
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Natural Language Syntax Highlighting
 tags: ['界面相关', '美化', '样式工具', '学习', 'obsidian插件', 'readme']
 description: 在编辑器中突出显示形容词、名词、副词、动词等。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/nl-syntax-highlighting/main/README.md)
->
 
 ---
 

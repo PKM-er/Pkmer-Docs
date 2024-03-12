@@ -1,5 +1,5 @@
 ---
-uid: 2023120719272366
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Eleven Labs
 tags: ['obsidian插件', 'readme']
 description: 使用Eleven Labs将您的黑曜石笔记转换为文本转语音音频文件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/veritas1/eleven-labs-obsidian-plugin/main/README.md)
->
 
 ---
 
@@ -39,11 +38,11 @@ modified: 20230101000000
 
 # Eleven Labs 文本转语音 Obsidian 插件
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件。>
+这是一个为 Obsidian（<<https://obsidian.md>）开发的插件。>
 
 该项目允许您使用 Eleven Labs api 直接从 Obsidian 笔记中创建文本转语音音频文件。
 
-这需要一个 Eleven Labs（<https://elevenlabs.io）账户和> api 密钥。您可以在登录 Eleven Labs 网页仪表板后从“个人资料设置”中检索到您的 api 密钥。
+这需要一个 Eleven Labs（<<https://elevenlabs.io>）账户和> api 密钥。您可以在登录 Eleven Labs 网页仪表板后从“个人资料设置”中检索到您的 api 密钥。
 
 ## 如何使用
 

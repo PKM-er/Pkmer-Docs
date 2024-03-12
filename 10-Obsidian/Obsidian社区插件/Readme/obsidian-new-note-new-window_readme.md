@@ -1,5 +1,5 @@
 ---
-uid: 2023080322225263
+uid: 20230817224054
 title: Obsidian 插件：New Note New Window
 tags: ['obsidian插件', 'readme']
 description: 一款可以轻松在浮动窗口中打开新笔记的插件。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Pr0dt0s/new-note-new-window/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719471034
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Zoottelkeeper Plugin
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 会自动更新所有文件夹的索引文件：如果你创建/删除/移动一个笔记，索引文件将自动更新。可以自定义特殊的文件夹页面
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/akosbalasko/zoottelkeeper-obsidian-plugin/master/README.md)
->
 
 ---
 
@@ -73,7 +72,7 @@ Articles/Science
 最新版本（v0.17.0）的更新内容：
 
 - 可以为索引文件设置**模板**选项
-- 索引链接中的数字按正确顺序排序（bug：<https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin/issues/45）>
+- 索引链接中的数字按正确顺序排序（bug：<<https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin/issues/45>）>
 - 前置元数据分隔符可配置（默认为 '---'）
 
 最新版本（v0.16.1）有很多你们提出的新功能！从 0.16.1 版本开始，你可以：
@@ -167,7 +166,7 @@ ZoottelKeeper 监视以下内容：
 
 ### 3.6 模板
 
-1. 安装 Templater 插件（<https://github.com/SilentVoid13/Templater）>
+1. 安装 Templater 插件（<<https://github.com/SilentVoid13/Templater>）>
 2. 在 Templater 的设置页面中：
    1. 设置模板文件夹
    2. 创建一个模板文件（基于下面的示例）并将其分配给由 Zottelkeeper 处理的文件夹

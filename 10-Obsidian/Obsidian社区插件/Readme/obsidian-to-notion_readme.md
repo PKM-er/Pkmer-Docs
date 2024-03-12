@@ -1,5 +1,5 @@
 ---
-uid: 2023120719381376
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Obsidian shared to Notion
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的插件。该插件通过Notion API将Obsidian MD文件共享到Notion。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/EasyChris/obsidian-to-notion/master/README.md)
->
 
 ---
 
@@ -203,7 +202,7 @@ Notion ID 是您想要共享文件的 Notion 网站 ID。
 
 如果您填写了 Notion ID，它将共享到页面链接，如：
 
-https://your_user_name.notion.site/myworkspace/a8aec43384f447ed84390。
+<https://your_user_name.notion.site/myworkspace/a8aec43384f447ed84390>。
 
 访问者无需重定向 URL。
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719221041
+uid: 20231220115812
 title: Obsidian 插件：【Readme】AI Commander
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI和Bing API，在PDF附件或Web搜索结果的上下文中生成音频转录、图像和文本。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yzh503/obsidian-aicommander-plugin/master/README.md)
->
 
 ---
 

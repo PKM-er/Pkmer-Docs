@@ -1,5 +1,5 @@
 ---
-uid: 2023120719410163
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Quick Latex for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 一款简单的插件，用于简化和加速Latex数学输入。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joeyuping/quick_latex_obsidian/master/README.md)
->
 
 ---
 

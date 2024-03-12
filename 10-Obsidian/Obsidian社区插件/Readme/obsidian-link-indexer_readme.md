@@ -1,5 +1,5 @@
 ---
-uid: 2023080322212868
+uid: 20230818000728
 title: Obsidian 插件：Link indexer
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 根据各种条件生成带有链接的索引注释。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aviskase/obsidian-link-indexer/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719470575
+uid: 20231220115812
 title: Obsidian 插件：【Readme】ZettelGPT
 tags: ['obsidian插件', 'readme']
 description: 毫不费力地在Obsidian中从ChatGPT生成与上下文相关的答案，同时保持视觉上清晰和有组织的对话历史。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/OverRaddit/ZettelGPT/main/README.md)
->
 
 ---
 

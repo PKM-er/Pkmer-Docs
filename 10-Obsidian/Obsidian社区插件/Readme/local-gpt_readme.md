@@ -1,5 +1,5 @@
 ---
-uid: 2024022117290344
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Local GPT
 tags: ['obsidian插件', 'readme']
 description: Local GPT 辅助，以实现最大隐私和离线访问
@@ -27,7 +27,6 @@ Local GPT 辅助，以实现最大隐私和离线访问
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pfrankov/obsidian-local-gpt/master/README.md)
->
 
 ---
 

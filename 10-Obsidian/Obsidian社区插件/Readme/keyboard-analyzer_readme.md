@@ -1,5 +1,5 @@
 ---
-uid: 2023120719315309
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Keyboard Analyzer
 tags: ['obsidian插件', 'readme']
 description: 查看和分析你的键盘快捷键和快捷方式
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/cogscides/obsidian-keyboard-analyzer/main/README.md)
->
 
 ---
 

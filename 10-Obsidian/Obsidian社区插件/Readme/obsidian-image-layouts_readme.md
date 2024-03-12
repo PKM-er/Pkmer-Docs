@@ -1,5 +1,5 @@
 ---
-uid: 2023120719310032
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Image Layouts
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加美丽的图像布局
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vertis/obsidian-image-layouts/main/README.md)
->
 
 ---
 

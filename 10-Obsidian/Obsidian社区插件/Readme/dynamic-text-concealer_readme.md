@@ -1,5 +1,5 @@
 ---
-uid: 2024022117273545
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Dynamic Text Concealer
 tags: ['obsidian插件', 'readme']
 description: 隐藏或替换Live Preview和阅读模式中用户配置的文本模式。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mattcoleanderson/obsidian-dynamic-text-concealer/main/README.md)
->
 
 ---
 

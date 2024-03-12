@@ -1,5 +1,5 @@
 ---
-uid: 2023120719245244
+uid: 20231220115812
 title: Obsidian 插件：【Readme】cMenu
 tags: ['编辑工具', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加了一个悬浮的精简文本样式编辑工具栏，让你不用记忆各种mardown 命令，也能进行编辑。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/README.md)
->
 
 ---
 

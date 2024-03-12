@@ -1,5 +1,5 @@
 ---
-uid: 2023102611073422
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Codename
 tags: ['obsidian插件', 'readme']
 description: 一个解决最困难问题的插件 - 命名事物。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dstack/obsidian-codename/main/README.md)
->
 
 ---
 

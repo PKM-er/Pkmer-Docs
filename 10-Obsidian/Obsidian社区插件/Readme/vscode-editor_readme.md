@@ -1,5 +1,5 @@
 ---
-uid: 2023120719462696
+uid: 20231220112631
 title: Obsidian 插件：【Readme】VSCode Editor
 tags: ['obsidian插件', 'readme']
 description: 像VSCode一样编辑代码文件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sunxvming/obsidian-vscode-editor/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322285836
+uid: 20230817224055
 title: Obsidian 插件：Unicode Search
 tags: ['obsidian插件', 'readme']
 description: 搜索并插入Unicode字符到您的编辑器中
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/BambusControl/obsidian-unicode-search/main/README.md)
->
 
 ---
 

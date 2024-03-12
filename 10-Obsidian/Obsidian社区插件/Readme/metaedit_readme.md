@@ -1,5 +1,5 @@
 ---
-uid: 2023120719362949
+uid: 20231220115812
 title: Obsidian 插件：【Readme】MetaEdit
 tags: ['编辑工具', '效率', 'obsidian插件', 'readme']
 description: 帮你快捷管理 meta信息，你可以为meta 信息项设置可选项。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chhoumann/MetaEdit/master/README.md)
->
 
 ---
 

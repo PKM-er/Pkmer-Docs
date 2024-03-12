@@ -1,5 +1,5 @@
 ---
-uid: 2023080322255732
+uid: 20230818000728
 title: Obsidian 插件：Release Timeline
 tags: ['obsidian插件', 'readme']
 description: 根据笔记元数据以数据视图类似的语法渲染发布时间线。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/cakechaser/obsidian-release-timeline/master/README.md)
->
 
 ---
 

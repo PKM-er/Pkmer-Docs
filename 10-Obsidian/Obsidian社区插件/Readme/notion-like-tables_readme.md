@@ -1,5 +1,5 @@
 ---
-uid: 2024022117272481
+uid: 20240227160841
 title: Obsidian 插件：【Readme】DataLoom
 tags: ['表格', '界面相关', '效率', 'obsidian插件', 'readme']
 description: 给你类似于 Notion 中的表格编辑体验。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/trey-wallis/obsidian-dataloom/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322202564
+uid: 20230817224052
 title: Obsidian 插件：Import Foundry VTT journal entries
 tags: ['obsidian插件', 'readme']
 description: 从你选择的Foundry VTT世界导入你的日志条目到你的Obsidian Vault文件夹中。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/farling42/obsidian-import-foundry/master/README.md)
->
 
 ---
 

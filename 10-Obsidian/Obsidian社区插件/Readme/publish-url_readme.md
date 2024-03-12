@@ -1,5 +1,5 @@
 ---
-uid: 2023120522264226
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Publish URL
 tags: ['obsidian插件', 'readme']
 description: 将Obsidian Publish的URL复制到剪贴板中
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-publish-url/main/README.md)
->
 
 ---
 

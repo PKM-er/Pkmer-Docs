@@ -1,5 +1,5 @@
 ---
-uid: 2023120719263588
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Day Planner (OG)
 tags: ['obsidian插件', 'readme']
 description: 从Markdown笔记中的简单任务列表进行日程规划（基本功能，保留原始插件的特性和行为）
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/README.md)
->
 
 ---
 

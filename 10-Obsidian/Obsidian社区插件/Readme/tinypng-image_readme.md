@@ -1,5 +1,5 @@
 ---
-uid: 2023082011361669
+uid: 20230820121454
 title: Obsidian 插件：【Readme】TinyPNG Image
 tags: ['obsidian插件', 'readme']
 description: 使用TinyPNG压缩图像以节省存储空间。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ckt1031/obsidian-tinypng-plugin/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322224015
+uid: 20231220115812
 title: Obsidian 插件：Mood Tracker
 tags: ['obsidian插件', 'readme']
 description: 轻松追踪您的情绪和情感。可视化追踪历史并浏览过去的记录。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dartungar/obsidian-mood-tracker/master/README.md)
->
 
 ---
 

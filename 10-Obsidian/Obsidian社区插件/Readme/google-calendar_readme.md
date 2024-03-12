@@ -1,5 +1,5 @@
 ---
-uid: 2023120719295306
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Google Calendar
 tags: ['日期相关', '第三方工具集成', 'obsidian插件', 'readme']
 description: 让你的 Obsidian 与您的 Google 日历进行交互
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/YukiGasai/obsidian-google-calendar/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719291982
+uid: 20231220115812
 title: Obsidian 插件：【Readme】From Template
 tags: ['obsidian插件', 'readme']
 description: 从模板创建新笔记 - 为每个模板提供一个触发它的命令，以及一个填写模板中任何变量的表单。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mo-seph/obsidian-note-from-template/master/README.md)
->
 
 ---
 

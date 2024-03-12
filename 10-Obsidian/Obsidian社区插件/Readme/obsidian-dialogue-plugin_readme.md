@@ -1,5 +1,5 @@
 ---
-uid: 2023120719264450
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Dialogue
 tags: ['编辑器', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 利用特定的语法，在 Markdown 中创建对话样式的笔记。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/holubj/obsidian-dialogue-plugin/master/README.md)
->
 
 ---
 

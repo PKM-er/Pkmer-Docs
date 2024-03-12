@@ -1,5 +1,5 @@
 ---
-uid: 2023102611075149
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Flashcard Generator
 tags: ['obsidian插件', 'readme']
 description: 这是一个为Obsidian设计的测验生成器插件。该插件可以让您在笔记中生成重要问题。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chloedia/Obsidian_Quiz_Generator/master/README.md)
->
 
 ---
 

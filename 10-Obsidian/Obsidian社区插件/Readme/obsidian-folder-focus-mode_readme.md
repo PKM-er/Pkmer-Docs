@@ -1,5 +1,5 @@
 ---
-uid: 2023080322183937
+uid: 20230817224054
 title: Obsidian 插件：Folder Focus Mode
 tags: ['obsidian插件', 'readme']
 description: 将文件资源管理器的焦点定位到所选择的文件夹及其文件和子目录，同时隐藏所有其他元素。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/grochowski/obsidian-folder-focus-mode/main/README.md)
->
 
 ---
 

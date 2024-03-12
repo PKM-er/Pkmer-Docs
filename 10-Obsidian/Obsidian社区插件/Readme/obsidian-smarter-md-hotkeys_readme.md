@@ -1,5 +1,5 @@
 ---
-uid: 2023120719432281
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Smarter Markdown Hotkeys
 tags: ['obsidian插件', 'readme']
 description: 智能选择单词和行的快捷键，在应用标记之前支持多个光标。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/obsidian-smarter-md-hotkeys/master/README.md)
->
 
 ---
 

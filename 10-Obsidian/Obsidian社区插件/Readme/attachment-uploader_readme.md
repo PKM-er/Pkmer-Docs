@@ -1,5 +1,5 @@
 ---
-uid: 2024022117261459
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Attachment Uploader
 tags: ['obsidian插件', 'readme']
 description: Attachment uploader插件，允许您自定义上传命令，自定义上传文件类型。
@@ -27,7 +27,6 @@ Attachment uploader 插件，允许您自定义上传命令，自定义上传文
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zhuxining/obsidian-attachment-uploader/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719373374
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Obsidian asciimath
 tags: ['obsidian插件', 'readme']
 description: 为Obsidian添加Asciimath支持。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/widcardw/obsidian-asciimath/main/README.md)
->
 
 ---
 
@@ -50,7 +49,7 @@ modified: 20230101000000
 
 我最近重构了这个库，您可以参考 [asciimath-parser](https://github.com/widcardw/asciimath-parser) 和 [其在线演示](https://asciimath.widcard.win)。
 
-**警告**：一些规则与<http://asciimath.org> 不完全一致，特别是矩阵。更多信息，请参考 <https://asciimath.widcard.win。>
+**警告**：一些规则与<http://asciimath.org> 不完全一致，特别是矩阵。更多信息，请参考 <<https://asciimath.widcard.win>。>
 
 #### 代码块
 

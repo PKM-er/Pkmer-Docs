@@ -1,5 +1,5 @@
 ---
-uid: 2023120719220600
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Aggregator
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以帮助你从文件中收集信息，并在文件中做出总结。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Seraphli/obsidian-aggregator/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023102611072320
+uid: 20231220115812
 title: Obsidian 插件：【Readme】autoLiterature
 tags: ['obsidian插件', 'readme']
 description: 协助您记录文学笔记。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hucorz/obsidian-autoLiterature/master/README.md)
->
 
 ---
 

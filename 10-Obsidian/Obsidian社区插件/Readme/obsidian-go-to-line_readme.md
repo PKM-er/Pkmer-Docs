@@ -1,5 +1,5 @@
 ---
-uid: 2023080322191720
+uid: 20230817224054
 title: Obsidian 插件：Go to Line
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 这个插件提供了一个跳转行命令。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/obsidian-go-to-line/master/README.md)
->
 
 ---
 

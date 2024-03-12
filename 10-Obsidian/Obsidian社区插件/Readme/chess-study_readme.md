@@ -1,5 +1,5 @@
 ---
-uid: 2023120719244146
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Chess Study
 tags: ['obsidian插件', 'readme']
 description: 一个国际象棋学习助手和PGN查看器/编辑器。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrislicodes/obsidian-chess-study/trunk/README.md)
->
 
 ---
 

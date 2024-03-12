@@ -1,5 +1,5 @@
 ---
-uid: 2023102611081818
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Nostr Writer
 tags: ['obsidian插件', 'readme']
 description: 将您的写作直接发布到Nostr..
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jamesmagoo/nostr-writer/master/README.md)
->
 
 ---
 
@@ -92,7 +91,7 @@ modified: 20230101000000
 
 ### 长篇内容
 
-在 Nostr 上，您可以编写特别标记为“长篇”的消息。这个工具发布这种类型的消息。长篇内容聚合器和客户端，如<https://habla.news> 和 https>:<//blogstack.io/，专门将这些消息传递给读者。将来会有更多的内容>.. 😉
+在 Nostr 上，您可以编写特别标记为“长篇”的消息。这个工具发布这种类型的消息。长篇内容聚合器和客户端，如<https://habla.news> 和 https>:<<//blogstack.io/>，专门将这些消息传递给读者。将来会有更多的内容>.. 😉
 
 ### 简短内容
 

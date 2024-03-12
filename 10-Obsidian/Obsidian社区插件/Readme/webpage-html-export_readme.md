@@ -1,5 +1,5 @@
 ---
-uid: 2023120719463620
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Webpage HTML Export
 tags: ['obsidian插件', 'readme']
 description: 将文档、文件夹或库导出成 HTML 文件，有黑白主题以及大纲目录。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/README.md)
->
 
 ---
 

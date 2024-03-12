@@ -1,5 +1,5 @@
 ---
-uid: 2023080322250034
+uid: 20230817224054
 title: Obsidian 插件：Prettier Format
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 对您的笔记进行主观格式化。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hipstersmoothie/obsidian-plugin-prettier/main/README.md)
->
 
 ---
 

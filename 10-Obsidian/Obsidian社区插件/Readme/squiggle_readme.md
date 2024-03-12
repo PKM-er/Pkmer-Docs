@@ -1,5 +1,5 @@
 ---
-uid: 2023120719433495
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Squiggle
 tags: ['obsidian插件', 'readme']
 description: 使用Squiggle在你的笔记中进行概率估计。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jqhoogland/obsidian-squiggle/master/README.md)
->
 
 ---
 

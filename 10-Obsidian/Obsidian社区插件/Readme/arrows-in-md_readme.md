@@ -1,5 +1,5 @@
 ---
-uid: 2024022117261227
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Arrows
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记的不同部分画箭头，就像在纸上一样。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/arrows/main/README.md)
->
 
 ---
 

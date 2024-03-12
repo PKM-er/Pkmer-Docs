@@ -1,5 +1,5 @@
 ---
-uid: 2024022117265089
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Canvas Card Background Remover
 tags: ['obsidian插件', 'readme']
 description: You can make the background of cards transparent in the Canvas
@@ -27,7 +27,6 @@ You can make the background of cards transparent in the Canvas
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/luxmargos/obsidian-canvas-card-bg-remover/main/README.md)
->
 
 ---
 

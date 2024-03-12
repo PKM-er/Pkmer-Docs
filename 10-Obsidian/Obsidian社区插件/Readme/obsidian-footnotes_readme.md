@@ -1,5 +1,5 @@
 ---
-uid: 2023120719291252
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Footnote Shortcut
 tags: ['编辑工具', '快捷键', '效率', 'obsidian插件', 'readme']
 description: 方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MichaBrugger/obsidian-footnotes/master/README.md)
->
 
 ---
 

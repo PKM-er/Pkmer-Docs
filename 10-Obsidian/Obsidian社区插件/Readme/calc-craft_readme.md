@@ -1,5 +1,5 @@
 ---
-uid: 2024022117264905
+uid: 20240227160841
 title: Obsidian 插件：【Readme】CalcCraft
 tags: ['obsidian插件', 'readme']
 description: Enables table-based calculations with a spreadsheet-like approach, utilizing references. It highlights the dependencies within tables and identifies circular references; has support for array formulas.
@@ -27,7 +27,6 @@ Enables table-based calculations with a spreadsheet-like approach, utilizing ref
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/klaudyu/CalcCraft/main/readme.md)
->
 
 ---
 

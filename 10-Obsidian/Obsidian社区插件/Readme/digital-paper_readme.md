@@ -1,5 +1,5 @@
 ---
-uid: 2023102611074124
+uid: 20231026111420
 title: Obsidian 插件：【Readme】digital paper
 tags: ['obsidian插件', 'readme']
 description: 关闭退格和撤销功能，就像在真实纸上用笔写字一样。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/danferns/digital-paper-obsidian-plugin/master/README.md)
->
 
 ---
 

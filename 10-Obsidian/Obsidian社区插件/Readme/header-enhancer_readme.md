@@ -1,5 +1,5 @@
 ---
-uid: 2023102611075910
+uid: 20231026111420
 title: Obsidian 插件：【Readme】Header Enhancer
 tags: ['obsidian插件', 'readme']
 description: 升级您的标题，定制您的笔记。标题增强器使您的笔记标题更好、更有用。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HoBeedzc/obsidian-header-enhancer-plugin/main/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719274334
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Execute Code
 tags: ['obsidian插件', 'readme']
 description: 允许在笔记中执行代码片段。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/twibiral/obsidian-execute-code/master/README.md)
->
 
 ---
 

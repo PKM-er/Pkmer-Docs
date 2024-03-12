@@ -1,5 +1,5 @@
 ---
-uid: 2023080322213504
+uid: 20231220112631
 title: Obsidian 插件：Linkify
 tags: ['obsidian插件', 'readme']
 description: 将匹配文本转换为链接
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/matthewhchan/linkify/main/README.md)
->
 
 ---
 
@@ -43,13 +42,13 @@ modified: 20230101000000
 
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/37097379/171934159-a8b2b751-1b6b-4b2d-944b-939f3e56d41b.png">
 
-在上面的示例中，点击“@obsdmd”将在浏览器中打开<http://twitter.com/obsdmd。>
+在上面的示例中，点击“@obsdmd”将在浏览器中打开<<http://twitter.com/obsdmd>。>
 
 或者，您可能想要为 GitHub 仓库创建快捷方式，这样点击“gh:user/repo”将链接到 `user/repo` 的 GitHub 仓库。
 
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/37097379/171542746-de76396e-c31f-41f4-a155-7510688379b5.png">
 
-在此示例中，点击“gh:obsidianmd/obsidian-releases”将在浏览器中打开<http://github.com/obsidianmd/obsidian-releases。>
+在此示例中，点击“gh:obsidianmd/obsidian-releases”将在浏览器中打开<<http://github.com/obsidianmd/obsidian-releases>。>
 
 您要匹配的文本和要链接到的 URL 是在插件的选项页面上配置的。
 
@@ -73,7 +72,7 @@ _注意：底层文本不会被修改。该插件仅更改您的笔记的外观�
 
 现在，任何与正则表达式匹配的文本都会在“实时预览”模式下突出显示，就像它是一个链接一样，单击文本将在浏览器中打开链接。
 
-例如，如果正则表达式是 `String.prototype.replace`，链接模式是 `@(\w+)`，那么您的笔记中的任何 `http://twitter.com/$1` 都会链接到<http://twitter.com/obsdmd。对于以> `@obsdmd` 开头的任何其他 Twitter 用户名也是如此。>
+例如，如果正则表达式是 `String.prototype.replace`，链接模式是 `@(\w+)`，那么您的笔记中的任何 `http://twitter.com/$1` 都会链接到<<http://twitter.com/obsdmd>。对于以> `@obsdmd` 开头的任何其他 Twitter 用户名也是如此。>
 
 您可以拥有多个正则表达式 - 链接条目。每个条目都是独立应用的。
 

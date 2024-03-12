@@ -1,5 +1,5 @@
 ---
-uid: 2023080322205180
+uid: 20231220112631
 title: Obsidian 插件：JSON/CSV Importer
 tags: ['obsidian插件', 'readme']
 description: 从一个包含数据数组的JSON文件中导入，使用Handlebars模板文件创建笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/farling42/obsidian-import-json/master/README.md)
->
 
 ---
 

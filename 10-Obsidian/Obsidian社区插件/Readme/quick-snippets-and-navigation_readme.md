@@ -1,5 +1,5 @@
 ---
-uid: 2023120719410467
+uid: 20231220115812
 title: Obsidian 插件：【Readme】Quick snippets and navigation
 tags: ['obsidian插件', 'readme']
 description: 键盘导航上/下标题-可配置的默认代码块和回调-通过键盘快捷键复制代码块
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ieviev/obsidian-keyboard-shortcuts/main/README.md)
->
 
 ---
 

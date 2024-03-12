@@ -1,5 +1,5 @@
 ---
-uid: 2023120719403465
+uid: 20240227160841
 title: Obsidian 插件：【Readme】Plugin Update Tracker
 tags: ['obsidian插件', 'readme']
 description: 了解安装的插件有更新时，并评估升级的风险。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/swar8080/obsidian-plugin-update-tracker/master/README.md)
->
 
 ---
 

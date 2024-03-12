@@ -1,5 +1,5 @@
 ---
-uid: 2023080322134810
+uid: 20230817224053
 title: Obsidian 插件：Advanced Slides
 tags: ['效率', '编辑工具', '转换工具', 'obsidian插件', 'readme']
 description: 让 Obsidian 可以创建简易的演示文稿。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MSzturc/obsidian-advanced-slides/main/README.md)
->
 
 ---
 

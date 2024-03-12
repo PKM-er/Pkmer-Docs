@@ -1,5 +1,5 @@
 ---
-uid: 2023082011354955
+uid: 20231220112631
 title: Obsidian 插件：【Readme】Google Bard Assistant
 tags: ['obsidian插件', 'readme']
 description: 探索与Google Bard集成的学习新可能性！它完全免费，还可以显示与您的问题相关的图片！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Aldhanekaa/GoogleBardObsidian/master/README.md)
->
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023080322273329
+uid: 20230817224055
 title: Obsidian 插件：SupSub
 tags: ['obsidian插件', 'readme']
 description: 轻松在您的笔记中设置上标和下标。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/wjgoarxiv/obsidian-supsub/master/README.md)
->
 
 ---
 
