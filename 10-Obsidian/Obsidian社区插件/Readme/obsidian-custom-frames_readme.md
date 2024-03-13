@@ -1,6 +1,6 @@
 ---
-uid: 2023120719260961
-title: Obsidian 插件：【Readme】Custom Frames
+uid: 2023080322165307
+title: Obsidian 插件：Custom Frames
 tags: ['第三方工具集成', '效率', 'obsidian插件', 'readme']
 description: 让 Obsidian 直接打开你预设的网站，你还可以将这些网站固定成图标，扩展你OB能力，或者将熟悉的应用集成到OB中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Custom Frames
+# Obsidian 插件：Custom Frames
 
 > [!Note] 插件名片
 > - 插件名称：Custom Frames
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Ellpeck/ObsidianCustomFrames/master/README.md)
->
 
 ---
 
@@ -41,11 +40,11 @@ modified: 20230101000000
 
 一个 Obsidian 插件，使用自定义样式的 iframe 将 Web 应用程序转换为窗格。还附带了 Google Keep、Todoist 等预设。
 
-![插件运行时的屏幕截图，您可以看到Google Keep作为窄侧窗格附加在右侧](https://cdn.pkmer.cn/covers/obsidian-custom-frames_1_0.png!pkmer)
+![插件运行时的屏幕截图，您可以看到Google Keep作为窄侧窗格附加在右侧](https://raw.githubusercontent.com/Ellpeck/ObsidianCustomFrames/master/screenshot.png)
 
-![插件运行时的屏幕截图，您可以看到Google日历在中心打开，并且鼠标悬停在相应的功能按钮上](https://cdn.pkmer.cn/covers/obsidian-custom-frames_1_1.png!pkmer)
+![插件运行时的屏幕截图，您可以看到Google日历在中心打开，并且鼠标悬停在相应的功能按钮上](https://raw.githubusercontent.com/Ellpeck/ObsidianCustomFrames/master/screenshot-big.png)
 
-![插件的设置界面截图](https://cdn.pkmer.cn/covers/obsidian-custom-frames_1_2.png!pkmer)
+![插件的设置界面截图](https://raw.githubusercontent.com/Ellpeck/ObsidianCustomFrames/master/settings.png)
 
 ## 🤔 使用方法
 

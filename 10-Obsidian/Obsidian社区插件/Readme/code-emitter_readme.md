@@ -1,6 +1,6 @@
 ---
-uid: 2023120719245659
-title: Obsidian 插件：【Readme】Code Emitter
+uid: 2023080322160618
+title: Obsidian 插件：Code Emitter
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有Rust、Kotlin、Python、Javascript、TypeScript等。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Code Emitter
+# Obsidian 插件：Code Emitter
 
 > [!Note] 插件名片
 > - 插件名称：Code Emitter
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有 Rust、Kotlin、Python、Javascript、TypeScript 等。
 
-![Code Emitter](https://cdn.pkmer.cn/covers/code-emitter.gif)
+![Code Emitter](https://cdn.pkmer.cn/covers/code-emitter.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mokeyish/obsidian-code-emitter/master/README.md)
->
 
 ---
 
@@ -70,7 +69,7 @@ modified: 20230101000000
 | CSharp     | [Sololearn](https://www.sololearn.com)                       |
 | Swift      | [Sololearn](https://www.sololearn.com)                       |
 
-**注意**：只有 `Python`、`TypeScript`、`JavaScript` 在本地沙箱（js / webassembly）中运行。其他语言将发送代码到第三方网站以评估结果（例如：<https://play.kotlinlang.org，https://play.rust-lang.org）。请注意避免发送可能包含敏感信息的源代码。>
+**注意**：只有 `Python`、`TypeScript`、`JavaScript` 在本地沙箱（js / webassembly）中运行。其他语言将发送代码到第三方网站以评估结果（例如：<https://play.kotlinlang.org>，<https://play.rust-lang.org>）。请注意避免发送可能包含敏感信息的源代码。
 
 **广告**：您可能会喜欢我的其他插件🤪
 
@@ -78,7 +77,7 @@ modified: 20230101000000
 
 ---
 
-![.](https://cdn.pkmer.cn/covers/code-emitter_2_0.gif)
+![.](./screenshots/code-emitter.gif)
 
 ## 安装
 

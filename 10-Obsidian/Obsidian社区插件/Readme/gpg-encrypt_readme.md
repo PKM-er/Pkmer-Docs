@@ -27,7 +27,6 @@ GPG 使用快捷键加密内联文本
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lajg-dev/Obsidian-Plugin-GPG-Inline-Encrypt/main/README.md)
->
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719244842
-title: Obsidian 插件：【Readme】Citations
+uid: 2023080322155591
+title: Obsidian 插件：Citations
 tags: ['编辑工具', '第三方工具集成', '链接处理', 'obsidian插件', 'readme']
 description: 将你的学术资料 在 Obsidian 中使用，如自动从Zotero库中搜索和插入引文。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Citations
+# Obsidian 插件：Citations
 
 > [!Note] 插件名片
 > - 插件名称：Citations
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hans/obsidian-citation-plugin/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 这个插件为 [Obsidian](https://obsidian.md) 将你的学术参考文献管理器与 Obsidian 编辑体验整合在一起。
 
-![](https://cdn.pkmer.cn/covers/obsidian-citation-plugin_2_0.png!pkmer)
+![](screenshot.png)
 
 该插件支持读取 [BibTeX / BibLaTeX `.bib` 格式][4] 和 [CSL-JSON 格式][1] 的参考文献。
 

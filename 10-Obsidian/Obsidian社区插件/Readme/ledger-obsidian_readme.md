@@ -1,6 +1,6 @@
 ---
-uid: 2023120719345271
-title: Obsidian 插件：【Readme】Ledger
+uid: 2023080322212069
+title: Obsidian 插件：Ledger
 tags: ['金融', 'obsidian插件', 'readme']
 description: 普通文本会计
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Ledger
+# Obsidian 插件：Ledger
 
 > [!Note] 插件名片
 > - 插件名称：Ledger
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 普通文本会计
 
-![Ledger](https://cdn.pkmer.cn/covers/ledger-obsidian_new.gif)
+![Ledger](https://cdn.pkmer.cn/covers/ledger-obsidian_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tgrosinger/ledger-obsidian/main/README.md)
->
 
 ---
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 - [ ] 报告（进行中！）
 - [ ] 账户对账（计划中！）
 
-![演示](https://cdn.pkmer.cn/covers/ledger-obsidian_1_0.gif)
+![演示](https://raw.githubusercontent.com/tgrosinger/ledger-obsidian/main/resources/screenshots/demo.gif)
 
 更多关于 Ledger 的信息，请参考以下资源：
 
@@ -76,11 +75,11 @@ modified: 20230101000000
 
 ## 截图
 
-![账本仪表盘](https://cdn.pkmer.cn/covers/ledger-obsidian_1_1.png!pkmer)
+![账本仪表盘](https://raw.githubusercontent.com/tgrosinger/ledger-obsidian/main/resources/screenshots/ledger-dashboard.png)
 
-![将交易添加到账本](https://cdn.pkmer.cn/covers/ledger-obsidian_1_2.png!pkmer)
+![将交易添加到账本](https://raw.githubusercontent.com/tgrosinger/ledger-obsidian/main/resources/screenshots/add-to-ledger.png)
 
-![从手机添加交易到账本](https://cdn.pkmer.cn/covers/ledger-obsidian_1_3.png!pkmer)
+![从手机添加交易到账本](https://raw.githubusercontent.com/tgrosinger/ledger-obsidian/main/resources/screenshots/mobile-add-expense.png)
 
 定价
 

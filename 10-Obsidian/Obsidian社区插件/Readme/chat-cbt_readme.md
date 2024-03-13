@@ -27,7 +27,6 @@ AI-powered journaling assistant for your notes, inspired by cognitive behavioral
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/clairefro/obsidian-chat-cbt-plugin/main/README.md)
->
 
 ---
 

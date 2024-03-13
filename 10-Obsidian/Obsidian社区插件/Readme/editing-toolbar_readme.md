@@ -1,6 +1,6 @@
 ---
-uid: 2023120719271670
-title: Obsidian 插件：【Readme】Editing Toolbar
+uid: 2023080322173975
+title: Obsidian 插件：Editing Toolbar
 tags: ['编辑工具', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 提供了更强大的编辑工具栏，并内置了常用编辑功能，提供类似MS Word 的工具栏编辑体验。支持多种交互样式，也支持添加自定义功能和功能分组。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Editing Toolbar
+# Obsidian 插件：Editing Toolbar
 
 > [!Note] 插件名片
 > - 插件名称：Editing Toolbar
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/PKM-er/obsidian-editing-toolbar/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 # obsidian-editing-toolbar 插件
 
-![](https://cdn.pkmer.cn/covers/editing-toolbar_2_0.gif)
+![](editing-toolbar-demo.gif)
 
 感谢 [cmenu](https://github.com/chetachiezikeuzor/cMenu-Plugin) 插件，它给了我很多灵感，但是这个插件已经超过一年没有维护了，所以我重新修改了它，并添加了很多有趣的功能，包括顶部工具栏、光标跟随等，因此创建了编辑工具栏。
 
@@ -74,11 +73,11 @@ modified: 20230101000000
 
 1. 添加了一个新的工具栏样式：tiny
 
-   ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_0.png!pkmer)
+   ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main//pic/202209071131715.png)
 
 2. 添加了工具栏位置选项：top、following
 
-   ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_1.png!pkmer)
+   ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main//pic/202209071133753.png)
 
    ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main//pic/202209071751006.gif)
 
@@ -108,27 +107,27 @@ modified: 20230101000000
        与 fullscreen-focus 模式不同，这个模式只隐藏左侧和右侧的侧边栏面板，只是工作区全屏
    14. head 1-6 级标题设置
        默认绑定快捷键 `Ctrl+1,ctrl+2,...Ctrl+6`
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_3.png!pkmer)
+       ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main//pic/202209071707695.png)
    15. 支持自定义命令图标
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_4.gif)
+       ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main//pic/202209071717111.gif)
    16. 支持修改命令名称
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_5.gif)
+       ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main//pic/202209071720159.gif)
    17. 支持添加子菜单
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_6.gif)
+       ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main//pic/202209071722207.gif)
    18. 支持菜单拖拽和排序
    19. 添加格式刷功能，内置两种格式刷用于字体颜色和背景颜色（中键或右键可以取消格式刷状态）
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_7.gif)
+       ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main//pic/202209071731151.gif)
    20. 工具栏图标宽度自适应缩小
-       ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_8.gif)
+       ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main/pic/202209072157728.gif)
 
 ### 与其他插件一起使用
 
 1. [emjoi toolbar](obsidian://show-plugin?id=obsidian-emoji-toolbar) 快速插入表情符号
-   ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_9.gif)
+   ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main/pic/202209092001600.gif)
 
 
 2. [Obsidian-Table-Generator](https://github.com/Quorafind/Obsidian-Table-Generator/) 和 [ob-table-enhance](https://github.com/Stardusten/ob-table-enhancer) 快速插入和编辑表格
-   ![](https://cdn.pkmer.cn/covers/editing-toolbar_1_10.gif)
+   ![](https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main/pic/202209092008571.gif)
 
 > 上述插件都可以从示例库中获取，它们都经过了优化和一些错误修复
 ☟☟☟

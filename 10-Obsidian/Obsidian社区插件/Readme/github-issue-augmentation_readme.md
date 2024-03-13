@@ -1,6 +1,6 @@
 ---
-uid: 2023120719294714
-title: Obsidian 插件：【Readme】GitHub Issue Augmentation
+uid: 2023080322191255
+title: Obsidian 插件：GitHub Issue Augmentation
 tags: ['obsidian插件', 'readme']
 description: 增加了GitHub问题ID
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】GitHub Issue Augmentation
+# Obsidian 插件：GitHub Issue Augmentation
 
 > [!Note] 插件名片
 > - 插件名称：GitHub Issue Augmentation
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/samprintz/obsidian-issue-augmentation-plugin/main/README.md)
->
 
 ---
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 
 渲染为：
 
-![20230413-185428-screenshot](https://cdn.pkmer.cn/covers/github-issue-augmentation_1_0.png!pkmer)
+![20230413-185428-screenshot](https://user-images.githubusercontent.com/7581457/231971667-c5ed7591-21a5-4f3f-9ae4-b90cbbb1ac08.png)
 
 每个问题标题都是指向 GitHub 仓库的链接。
 

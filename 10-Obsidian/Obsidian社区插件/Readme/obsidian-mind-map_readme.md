@@ -1,6 +1,6 @@
 ---
-uid: 2023120719364085
-title: Obsidian 插件：【Readme】Mind Map
+uid: 2023080322223587
+title: Obsidian 插件：Mind Map
 tags: ['界面相关', '思维导图', 'obsidian插件', 'readme']
 description: 将 Obsidian 笔记作为思维导图使用和查看。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Mind Map
+# Obsidian 插件：Mind Map
 
 > [!Note] 插件名片
 > - 插件名称：Mind Map
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/obsidian-mind-map/main/README.md)
->
 
 ---
 
@@ -56,13 +55,13 @@ modified: 20230101000000
 
 您可以使用命令打开当前笔记的思维导图预览。
 
-![思维导图预览命令](https://cdn.pkmer.cn/covers/obsidian-mind-map_1_3.png!pkmer)
+![思维导图预览命令](https://raw.githubusercontent.com/lynchjames/obsidian-mind-map/main/images/mind-map-preview-command.png)
 
 ### 预览更多选项菜单
 
 思维导图预览视图有来自“更多选项”菜单的 2 个选项：
 
-![思维导图预览更多选项](https://cdn.pkmer.cn/covers/obsidian-mind-map_1_4.png!pkmer)
+![思维导图预览更多选项](https://raw.githubusercontent.com/lynchjames/obsidian-mind-map/main/images/mind-map-view-more-options.png)
 
 #### 锁定
 

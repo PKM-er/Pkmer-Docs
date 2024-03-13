@@ -1,6 +1,6 @@
 ---
-uid: 2023120719454659
-title: Obsidian 插件：【Readme】Typewriter Scroll
+uid: 2023080322285176
+title: Obsidian 插件：Typewriter Scroll
 tags: ['编辑工具', '界面相关', 'obsidian插件', 'readme']
 description: 为笔记编写，增加打字机滚动风格，在输入过程中，输入内容会始终保持编辑器居中的位置。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Typewriter Scroll
+# Obsidian 插件：Typewriter Scroll
 
 > [!Note] 插件名片
 > - 插件名称：Typewriter Scroll
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/deathau/cm-typewriter-scroll-obsidian/main/README.md)
->
 
 ---
 
@@ -45,7 +44,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，可以启用打字机风格的滚动，保持编辑器中心视图。
 
-![截图](https://cdn.pkmer.cn/covers/cm-typewriter-scroll-obsidian_1_2.gif)
+![截图](https://github.com/deathau/cm-typewriter-scroll-obsidian/raw/main/screenshot.gif)
 
 ### 兼容性
 
@@ -92,7 +91,6 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
-
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api)，以 Typescript 定义格式提供，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -106,7 +104,6 @@ modified: 20230101000000
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将仓库克隆到插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
-
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 定价

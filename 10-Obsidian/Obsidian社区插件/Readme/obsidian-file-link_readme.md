@@ -1,6 +1,6 @@
 ---
-uid: 2023120719233406
-title: Obsidian 插件：【Readme】Better File Link
+uid: 2023080322150098
+title: Obsidian 插件：Better File Link
 tags: ['编辑工具', '图片', '界面相关', 'obsidian插件', 'readme']
 description: 图形化菜单，让你可以用熟悉的方式，从操作系统的路径插入需要的图片和文件到 OB中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Better File Link
+# Obsidian 插件：Better File Link
 
 > [!Note] 插件名片
 > - 插件名称：Better File Link
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/marcjulianschwarz/obsidian-file-link/master/README.md)
->
 
 ---
 
@@ -88,7 +87,7 @@ modified: 20230101000000
 
 ### 设置图像
 
-![设置](https://cdn.pkmer.cn/covers/obsidian-file-link_1_0.png!pkmer)
+![设置](https://user-images.githubusercontent.com/67844154/131246371-68049aa6-34a5-421c-b478-513427525700.png)
 
 ## 贡献
 

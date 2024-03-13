@@ -1,6 +1,6 @@
 ---
-uid: 2023120719221802
-title: "Obsidian 插件：【Readme】AidenLx's Folder Note"
+uid: 2023080322135658
+title: "Obsidian 插件：AidenLx's Folder Note"
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 使用文件夹笔记为文件夹添加描述、摘要和更多信息。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】AidenLx's Folder Note
+# Obsidian 插件：AidenLx's Folder Note
 
 > [!Note] 插件名片
 > - 插件名称：AidenLx's Folder Note
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aidenlx/alx-folder-note/master/README.md)
->
 
 ---
 
@@ -45,7 +44,7 @@ alx-folder-note 是一个维护的、完全重写的、改进的文件夹笔记�
 
 特别感谢原始 [文件夹笔记插件](https://github.com/xpgo/obsidian-folder-note-plugin) 的作者 [xpgo](https://github.com/xpgo)！
 
-![演示](https://cdn.pkmer.cn/covers/alx-folder-note_1_0.png!pkmer)
+![演示](https://user-images.githubusercontent.com/31102694/128635308-0a58279e-8bf0-4608-9330-fe11180953dd.png)
 
 注意：
 
@@ -67,7 +66,7 @@ alx-folder-note 是一个维护的、完全重写的、改进的文件夹笔记�
   - 如果未指定标题，[从 h1 中获取标题](https://github.com/aidenlx/alx-folder-note/wiki/folderv-settings#h1-as-title-source)
   - 使用正则表达式/通配符 [过滤文件](https://github.com/aidenlx/alx-folder-note/wiki/folderv-options#filter)
   - 按名称/创建时间/最后修改时间 [对文件进行排序](https://github.com/aidenlx/alx-folder-note/wiki/folderv-options#sort)
-- 文件夹焦点模式：在文件资源管理器中右键单击文件夹，选择“切换焦点”可以使选定文件夹之外的其他文件和文件夹变暗，再次选择选项可以恢复![CleanShot_2021-11-29_at_18 30 53](https://cdn.pkmer.cn/covers/alx-folder-note_1_1.gif)
+- 文件夹焦点模式：在文件资源管理器中右键单击文件夹，选择“切换焦点”可以使选定文件夹之外的其他文件和文件夹变暗，再次选择选项可以恢复![CleanShot_2021-11-29_at_18 30 53](https://user-images.githubusercontent.com/31102694/166448049-aea0457a-d19f-4b29-8f7c-b66b5bd26629.gif)
     - 您还可以在文件资源管理器中使用鼠标长按文件夹名称来切换文件夹焦点（默认禁用，仅适用于桌面版）
 - [文件资源管理器中的文件夹图标](https://github.com/aidenlx/alx-folder-note/issues/11)
 更多功能即将推出：

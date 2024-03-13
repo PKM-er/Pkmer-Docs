@@ -1,6 +1,6 @@
 ---
-uid: 2023120719313391
-title: Obsidian 插件：【Readme】Jira Issue
+uid: 2023080322204738
+title: Obsidian 插件：Jira Issue
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian笔记中跟踪Atlassian Jira问题的进展。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Jira Issue
+# Obsidian 插件：Jira Issue
 
 > [!Note] 插件名片
 > - 插件名称：Jira Issue
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/marc0l92/obsidian-jira-issue/master/README.md)
->
 
 ---
 
@@ -43,9 +42,9 @@ modified: 20230101000000
 
 该插件允许您从 [Obsidian.md](https://obsidian.md/) 笔记中跟踪 [Atlassian Jira](https://www.atlassian.com/software/jira) 问题的进展。
 
-![问题](https://cdn.pkmer.cn/covers/obsidian-jira-issue_2_0.png!pkmer)
+![问题](./assets/issues.png)
 
-![搜索结果](https://cdn.pkmer.cn/covers/obsidian-jira-issue_2_1.png!pkmer)
+![搜索结果](./assets/searchResults2.png)
 
 ## 文档
 
@@ -136,7 +135,7 @@ JIRA:-OPEN-356
 ```
 ```
 
-![内联问题](https://cdn.pkmer.cn/covers/obsidian-jira-issue_2_2.png!pkmer)
+![内联问题](./assets/inlineIssues.png)
 
 贡献和反馈
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719310032
-title: Obsidian 插件：【Readme】Image Layouts
+uid: 2023080322201611
+title: Obsidian 插件：Image Layouts
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加美丽的图像布局
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Image Layouts
+# Obsidian 插件：Image Layouts
 
 > [!Note] 插件名片
 > - 插件名称：Image Layouts
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 在您的笔记中添加美丽的图像布局
 
-![Image Layouts](https://cdn.pkmer.cn/covers/obsidian-image-layouts.png!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vertis/obsidian-image-layouts/main/README.md)
->
 
 ---
 
@@ -66,179 +63,179 @@ modified: 20230101000000
 ### image-layout-a
 
     ```image-layout-a
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_0.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_1.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1543726969-a1da85a6d334?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3636&q=80)
+    ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_0.png!pkmer)
+![](docs/layout-a.png)
 
 ### image-layout-b
 
     ```image-layout-b
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_2.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_3.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1452065656801-6c60b6e7cbc5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3174&q=80)
+    ![](https://images.unsplash.com/photo-1592634244339-809d45f1dd25?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHNhaWxpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_1.png!pkmer)
+![](docs/layout-b.png)
 
 ### 图片布局 -C
 
     ```image-layout-c
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_4.png!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_5.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80)
+    ![](https://images.unsplash.com/photo-1667778679906-ca90d133c0c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_2.png!pkmer)
+![](docs/layout-c.png)
 
 ### image-layout-d
 
 ```image-layout-d
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_6.jpeg!pkmer)
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_7.jpeg!pkmer)
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_8.jpeg!pkmer)
+![](https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGFyaXN8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60)
+![](https://images.unsplash.com/photo-1500313830540-7b6650a74fd0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHBhcmlzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
+![](https://images.unsplash.com/photo-1520939817895-060bdaf4fe1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3846&q=80)
 ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_3.png!pkmer)
+![](docs/layout-d.png)
 
 ### image-layout-e
 
     ```image-layout-e
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_9.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_10.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_11.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1667115309281-d6cd9ba57f62?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80)
+    ![](https://images.unsplash.com/photo-1617802690992-15d93263d3a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fHZpcnR1YWwlMjByZWFsaXR5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1592477725143-2e57dc728f0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3206&q=80)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_4.png!pkmer)
+![](docs/layout-e.png)
 
 ### image-layout-f
 
     ```image-layout-f
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_12.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_13.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_14.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_15.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1554378739-200b04da4e8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGltZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1619167801419-bfeca51bdfba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2360&q=80)
+    ![](https://images.unsplash.com/photo-1603574670812-d24560880210?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2360&q=80)
+    ![](https://images.unsplash.com/photo-1610298324710-5a73230400c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGFsbSUyMHRyZWV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_5.png!pkmer)
+![](docs/layout-f.png)
 
 ### image-layout-g
 
     ```image-layout-g
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_16.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_17.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_18.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_19.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80)
+    ![](https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80)
+    ![](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3546&q=80)
+    ![](https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3174&q=80)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_6.png!pkmer)
+![](docs/layout-g.png)
 
 ### image-layout-h
 
     ```image-layout-h
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_20.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_21.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_22.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1608734265656-f035d3e7bcbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1508002366005-75a695ee2d17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1568&q=80)
+    ![](https://images.unsplash.com/photo-1498757581981-8ddb3c0b9b07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1588&q=80)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_7.png!pkmer)
+![](docs/layout-h.png)
 
 ### 图片布局 -i
 
     ```image-layout-i
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_23.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_24.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_25.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_26.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1493589976221-c2357c31ad77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1557434440-d4d48e6578b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80)
+    ![](https://images.unsplash.com/photo-1541956064527-8ec10ac76c31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFsbHxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1522043436628-a4bd7867030b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdpbnRlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_8.png!pkmer)
+![](docs/layout-i.png)
 
 砖砌布局的初步支持
 
 ### 砌体 2
 
     ```image-layout-masonry-2
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_23.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_24.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_25.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_26.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_20.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_21.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_22.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_0.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_1.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1493589976221-c2357c31ad77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1557434440-d4d48e6578b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80)
+    ![](https://images.unsplash.com/photo-1541956064527-8ec10ac76c31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFsbHxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1522043436628-a4bd7867030b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdpbnRlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1608734265656-f035d3e7bcbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1508002366005-75a695ee2d17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1568&q=80)
+    ![](https://images.unsplash.com/photo-1498757581981-8ddb3c0b9b07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1588&q=80)
+    ![](https://images.unsplash.com/photo-1543726969-a1da85a6d334?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3636&q=80)
+    ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_9.png!pkmer)
+![](docs/masonry-2.png)
 
 ### 砌体 3
 
     ```image-layout-masonry-3
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_23.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_24.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_25.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_26.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_20.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_21.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_22.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_0.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_1.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1493589976221-c2357c31ad77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1557434440-d4d48e6578b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80)
+    ![](https://images.unsplash.com/photo-1541956064527-8ec10ac76c31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFsbHxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1522043436628-a4bd7867030b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdpbnRlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1608734265656-f035d3e7bcbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1508002366005-75a695ee2d17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1568&q=80)
+    ![](https://images.unsplash.com/photo-1498757581981-8ddb3c0b9b07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1588&q=80)
+    ![](https://images.unsplash.com/photo-1543726969-a1da85a6d334?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3636&q=80)
+    ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_10.png!pkmer)
+![](docs/masonry-3.png)
 
 ### Masonry 4
 
     ```image-layout-masonry-4
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_23.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_24.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_25.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_26.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_20.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_21.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_22.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_0.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_1.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1493589976221-c2357c31ad77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1557434440-d4d48e6578b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80)
+    ![](https://images.unsplash.com/photo-1541956064527-8ec10ac76c31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFsbHxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1522043436628-a4bd7867030b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdpbnRlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1608734265656-f035d3e7bcbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1508002366005-75a695ee2d17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1568&q=80)
+    ![](https://images.unsplash.com/photo-1498757581981-8ddb3c0b9b07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1588&q=80)
+    ![](https://images.unsplash.com/photo-1543726969-a1da85a6d334?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3636&q=80)
+    ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_11.png!pkmer)
+![](docs/masonry-4.png)
 
 ### Masonry 5
 
     ```image-layout-masonry-5
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_23.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_24.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_25.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_26.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_20.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_21.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_22.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_0.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_1.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1493589976221-c2357c31ad77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1557434440-d4d48e6578b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80)
+    ![](https://images.unsplash.com/photo-1541956064527-8ec10ac76c31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFsbHxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1522043436628-a4bd7867030b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdpbnRlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1608734265656-f035d3e7bcbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1508002366005-75a695ee2d17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1568&q=80)
+    ![](https://images.unsplash.com/photo-1498757581981-8ddb3c0b9b07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1588&q=80)
+    ![](https://images.unsplash.com/photo-1543726969-a1da85a6d334?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3636&q=80)
+    ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_12.png!pkmer)
+![](docs/masonry-5.png)
 
 ### 砌体 6
 
     ```image-layout-masonry-6
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_23.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_24.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_25.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_26.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_20.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_16.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_17.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_18.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_19.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_12.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_13.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_14.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_15.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_21.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_22.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_0.jpeg!pkmer)
-    ![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_1_1.jpeg!pkmer)
+    ![](https://images.unsplash.com/photo-1493589976221-c2357c31ad77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1557434440-d4d48e6578b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80)
+    ![](https://images.unsplash.com/photo-1541956064527-8ec10ac76c31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFsbHxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1522043436628-a4bd7867030b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdpbnRlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1608734265656-f035d3e7bcbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80)
+    ![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80)
+    ![](https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80)
+    ![](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3546&q=80)
+    ![](https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3174&q=80)
+    ![](https://images.unsplash.com/photo-1554378739-200b04da4e8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGltZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1619167801419-bfeca51bdfba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2360&q=80)
+    ![](https://images.unsplash.com/photo-1603574670812-d24560880210?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2360&q=80)
+    ![](https://images.unsplash.com/photo-1610298324710-5a73230400c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGFsbSUyMHRyZWV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
+    ![](https://images.unsplash.com/photo-1508002366005-75a695ee2d17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1568&q=80)
+    ![](https://images.unsplash.com/photo-1498757581981-8ddb3c0b9b07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1588&q=80)
+    ![](https://images.unsplash.com/photo-1543726969-a1da85a6d334?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3636&q=80)
+    ![](https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3J5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60)
     ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-image-layouts_2_13.png!pkmer)
+![](docs/masonry-6.png)

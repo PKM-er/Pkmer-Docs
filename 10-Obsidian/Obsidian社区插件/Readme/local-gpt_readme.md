@@ -27,7 +27,6 @@ Local GPT 辅助，以实现最大隐私和离线访问
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pfrankov/obsidian-local-gpt/master/README.md)
->
 
 ---
 
@@ -40,11 +39,9 @@ Local GPT 辅助，以实现最大隐私和离线访问
 # Obsidian 的本地 GPT 插件
 
 ![演示](https://cdn.pkmer.cn/covers/local-gpt_1_0.gif!pkmer)
-
 _没有加速。MacBook Pro 13, M1, 16GB, Ollama, orca-mini._
 
 本地 GPT 插件可提供最大隐私和离线访问的辅助功能。
-
 该插件允许您在所选文本上打开上下文菜单，以选择 AI 助手的操作。
 
 默认操作：
@@ -56,7 +53,6 @@ _没有加速。MacBook Pro 13, M1, 16GB, Ollama, orca-mini._
 - 一般帮助（只需将所选文本用作任何目的的提示）
 
 您还可以添加自己的操作，分享最佳操作或从 [社区](https://github.com/pfrankov/obsidian-local-gpt/discussions/2) 获取一个
-
 <img width="700" alt="设置" src="https://github.com/pfrankov/obsidian-local-gpt/assets/584632/21e1fe6c-a93b-4562-a53a-d7727504e0d6">
 
 支持的 AI 提供者：

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719453302
-title: Obsidian 插件：【Readme】Transcription
+uid: 2023080322284288
+title: Obsidian 插件：Transcription
 tags: ['obsidian插件', 'readme']
 description: 通过 Whisper 从链接的 Markdown 音频文件创建高质量转录的插件
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Transcription
+# Obsidian 插件：Transcription
 
 > [!Note] 插件名片
 > - 插件名称：Transcription
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 通过 Whisper 从链接的 Markdown 音频文件创建高质量转录的插件
 
-![Transcription](https://cdn.pkmer.cn/covers/obsidian-transcription_new.gif)
+![Transcription](https://cdn.pkmer.cn/covers/obsidian-transcription_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/djmango/obsidian-transcription/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 一个通过 [OpenAI Whisper](https://openai.com/blog/whisper/) 生成任何音频和视频文件高质量转录的插件。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-transcription_2_0.gif)
+![演示](media/demo.gif)
 
 ## 特点
 

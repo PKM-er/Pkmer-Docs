@@ -1,6 +1,6 @@
 ---
-uid: 2023120719452184
-title: "Obsidian 插件：【Readme】Tomorrow's Daily Note"
+uid: 2023080322283825
+title: "Obsidian 插件：Tomorrow's Daily Note"
 tags: ['obsidian插件', 'readme']
 description: 用于创建明天的日常笔记以进行预先计划。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Tomorrow's Daily Note
+# Obsidian 插件：Tomorrow's Daily Note
 
 > [!Note] 插件名片
 > - 插件名称：Tomorrow's Daily Note
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/frankolson/obsidian-tomorrows-daily-note/main/README.md)
->
 
 ---
 
@@ -52,7 +51,7 @@ modified: 20230101000000
 
 您可以使用以下命令打开明天的日记：`明天的日记：打开明天的日记`
 
-![思维导图预览命令](https://cdn.pkmer.cn/covers/obsidian-tomorrows-daily-note_2_0.png!pkmer)
+![思维导图预览命令](/docs/images/open-tomorrows-daily-note-command-preview.png)
 
 ## 安装
 

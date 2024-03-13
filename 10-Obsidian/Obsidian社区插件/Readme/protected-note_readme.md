@@ -27,7 +27,6 @@ Set password and protect your notes from other people.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mmiksaa/obsidian-protected-note/master/README.md)
->
 
 ---
 

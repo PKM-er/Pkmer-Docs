@@ -1,5 +1,5 @@
 ---
-uid: 2023120719292566
+uid: 2023120522251135
 title: Obsidian 插件：【Readme】Frontmatter generator
 tags: ['obsidian插件', 'readme']
 description: 从JSON和JavaScript生成您的笔记的前言
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator/main/README.md)
->
 
 ---
 
@@ -105,7 +104,7 @@ file.properties?.type === 'kanban'
 
 它可以是一个返回对象的 JSON 或 JavaScript 表达式。
 
-![](https://cdn.pkmer.cn/covers/frontmatter-generator_1_0.jpeg!pkmer)
+![](https://share.cleanshot.com/nfW5nV8L+)
 
 <small>^ 甚至函数也可以工作</small>
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719300610
+uid: 2023082011355036
 title: Obsidian 插件：【Readme】GTD No Next Step
 tags: ['obsidian插件', 'readme']
 description: 为没有定义下一步的“项目”文件添加一个“完成事项”徽章。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/saibotsivad/obsidian-gtd-no-next-step/main/README.md)
->
 
 ---
 
@@ -79,7 +78,7 @@ Projects/
 
 ## 它是什么样子的
 
-![](https://cdn.pkmer.cn/covers/gtd-no-next-step_2_0.png!pkmer)
+![](./example.png)
 
 ## 许可证
 

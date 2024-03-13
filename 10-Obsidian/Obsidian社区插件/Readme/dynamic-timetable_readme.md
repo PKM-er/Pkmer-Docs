@@ -24,12 +24,11 @@ modified: 20230101000000
 
 根据任务的预计时间计算完成时间，并动态创建时间表。
 
-![Dynamic Timetable](https://cdn.pkmer.cn/covers/dynamic-timetable_new.gif)
+![Dynamic Timetable](https://cdn.pkmer.cn/covers/dynamic-timetable_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/L7Cy/obsidian-dynamic-timetable/master/README.md)
->
 
 ---
 

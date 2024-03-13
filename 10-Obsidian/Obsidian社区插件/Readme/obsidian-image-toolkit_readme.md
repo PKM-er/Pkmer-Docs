@@ -1,6 +1,6 @@
 ---
-uid: 2023120719310189
-title: Obsidian 插件：【Readme】Image Toolkit
+uid: 2023080322201953
+title: Obsidian 插件：Image Toolkit
 tags: ['界面相关', '图片', '编辑工具', 'obsidian插件', 'readme']
 description: 为 Obsidian 中的图片添加增强功能，点击图片显示在一个弹出层中，您可以查看、拖动、缩放、旋转图像。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Image Toolkit
+# Obsidian 插件：Image Toolkit
 
 > [!Note] 插件名片
 > - 插件名称：Image Toolkit
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sissilab/obsidian-image-toolkit/master/README.md)
->
 
 ---
 
@@ -67,7 +66,7 @@ modified: 20230101000000
 
 当您在设置页面关闭“固定图像”时，它处于**正常模式**。
 
-![normal_mode_screenshot](https://cdn.pkmer.cn/covers/obsidian-image-toolkit_1_0.png!pkmer)
+![normal_mode_screenshot](https://raw.githubusercontent.com/sissilab/obsidian-image-toolkit/master/example/normal_mode_screenshot.png)
 
 **规则**：
 
@@ -99,7 +98,7 @@ modified: 20230101000000
 
 当您在设置页面上打开“固定图像”时，它处于**引脚模式**。
 
-![pin_mode_screenshot](https://cdn.pkmer.cn/covers/obsidian-image-toolkit_1_1.png!pkmer)
+![pin_mode_screenshot](https://raw.githubusercontent.com/sissilab/obsidian-image-toolkit/master/example/pin_mode_screenshot.png)
 
 **规则**：
 

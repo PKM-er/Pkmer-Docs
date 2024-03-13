@@ -1,6 +1,6 @@
 ---
-uid: 2023120719411900
-title: Obsidian 插件：【Readme】React Components
+uid: 2023080322253616
+title: Obsidian 插件：React Components
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 在你的笔记中使用并编写React（Jsx）组件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】React Components
+# Obsidian 插件：React Components
 
 > [!Note] 插件名片
 > - 插件名称：React Components
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在你的笔记中使用并编写 React（Jsx）组件。
 
-![React Components](https://cdn.pkmer.cn/covers/obsidian-react-components_new.gif)
+![React Components](https://cdn.pkmer.cn/covers/obsidian-react-components_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/elias-sundqvist/obsidian-react-components/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 # Obsidian React 组件
 
-这是 Obsidian（<https://obsidian.md）的一个插件。>
+这是 Obsidian（<https://obsidian.md>）的一个插件。
 
 它允许您在 Obsidian 笔记中使用带有 Jsx 的 React 组件。
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 
 ## 演示
 
-![React组件演示](https://cdn.pkmer.cn/covers/obsidian-react-components_1_2.gif)
+![React组件演示](https://user-images.githubusercontent.com/9102856/131183517-e136e585-044c-482a-b6d1-fddc3134bac8.gif)
 
 开始使用
 
@@ -115,7 +114,7 @@ return <div>Hello {props.name}!</div>
 
 为了使用组件注释，您必须首先指定一个文件夹用于 Jsx 函数/React 组件。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-react-components_1_3.png!pkmer)
+![image](https://user-images.githubusercontent.com/9102856/131140527-a7acbcd0-6524-4daa-bcd5-17fa4be176cd.png)
 
 该目录中的每个注释都将被解释为 Jsx 函数的内容（隐式形式为 `props=>{your code here}`）。
 
@@ -205,7 +204,7 @@ return <h1>{frontmatter.title}</h1>
 
 * 支持代码块和内联代码。
 
-![实时预览](https://cdn.pkmer.cn/covers/obsidian-react-components_1_4.gif)
+![实时预览](https://user-images.githubusercontent.com/9102856/147861506-abb023d1-4ba1-4e46-bb33-504bf259a2ca.gif)
 
 ### 0.1.2 (2021-12-03) *组件代码块 + 启动和稳定性改进*
 
@@ -230,7 +229,7 @@ return <h1>{frontmatter.title}</h1>
 
     示例:
 
-    ![Component Codeblock Example](https://cdn.pkmer.cn/covers/obsidian-react-components_1_5.png!pkmer)
+    ![Component Codeblock Example](https://user-images.githubusercontent.com/9102856/144520183-5dbdee07-76ae-49a6-aca6-732f53971a55.png)
 
 ### 0.1.1 (2021-08-29) *改进组件卸载*
 
@@ -239,7 +238,7 @@ return <h1>{frontmatter.title}</h1>
 ### 0.1.0 (2021-08-27) *添加了替代的代码块语法和命名空间*
 
 * 插件现在支持使用 `jsx:` 代替 `jsx-` 进行编写。
-  * 这种新的语法与 [Editor Syntax Highlight Plugin](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) 兼容：![syntax highlighting demo](https://cdn.pkmer.cn/covers/obsidian-react-components_1_6.gif)
+  * 这种新的语法与 [Editor Syntax Highlight Plugin](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) 兼容：![syntax highlighting demo](https://user-images.githubusercontent.com/9102856/131139119-0c4e4bf5-914b-4e24-a917-cdac730b270b.gif)
 * 现在您还可以通过 `react-components-namespace` 属性限制访问组件的方式和来源。详见 Readme。
 * 已更新 Readme。
 
@@ -247,7 +246,7 @@ return <h1>{frontmatter.title}</h1>
 
 * 现在可以向组件笔记中添加 Frontmatter 数据（将被 JavaScript 解析器忽略）。
 * 具有 Frontmatter 属性 `use-as-note-header` 的笔记将用作存储库中所有笔记的标题。
-  * 这使您可以做类似于以下的事情：![header component demo](https://cdn.pkmer.cn/covers/obsidian-react-components_1_7.gif)
+  * 这使您可以做类似于以下的事情：![header component demo](https://user-images.githubusercontent.com/9102856/130989310-8e99ceb3-701b-440e-8bb6-245cddfaa95e.gif)
   * * 注意：* 只在最多一个存储库组件上使用此 Frontmatter 属性。
 
 ### 0.0.8（2021-08-25）*小的渲染修复*
@@ -263,7 +262,7 @@ return <h1>{frontmatter.title}</h1>
 ### 0.0.6 (2021-06-19) *添加对 skypack 导入的支持，修复了一些错误*
 
 * 添加了对基于 URL 的导入的支持，例如 `import styled from 'https://cdn.skypack.com/styled-components/'`
-  * *示例:* ![](https://cdn.pkmer.cn/covers/obsidian-react-components_1_8.gif)
+  * *示例:* ![](https://user-images.githubusercontent.com/9102856/121813903-8123ad80-cc6e-11eb-8c65-b8c77faf51a6.gif)
 * 改进了组件加载的稳定性
 
 ### 0.0.5 (2021-05-22) *启用 Markdown 渲染组件的动态更新，进行了一些小的更改*

@@ -24,12 +24,11 @@ modified: 20230101000000
 
 从图像中提取文本并使其可供搜索。
 
-![Taskbone OCR](https://cdn.pkmer.cn/covers/taskbone-ocr-plugin.gif)
+![Taskbone OCR](https://cdn.pkmer.cn/covers/taskbone-ocr-plugin.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/schlundd/obsidian-ocr-plugin/master/README.md)
->
 
 ---
 

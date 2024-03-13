@@ -1,6 +1,6 @@
 ---
-uid: 2023120719285965
-title: Obsidian 插件：【Readme】Focus Active Sentence
+uid: 2023080322183646
+title: Obsidian 插件：Focus Active Sentence
 tags: ['obsidian插件', 'readme']
 description: 突出显示光标当前所停留的句子。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Focus Active Sentence
+# Obsidian 插件：Focus Active Sentence
 
 > [!Note] 插件名片
 > - 插件名称：Focus Active Sentence
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 突出显示光标当前所停留的句子。
 
-![Focus Active Sentence](https://cdn.pkmer.cn/covers/focus-active-sentence.png!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/focus-active-sentence/main/README.md)
->
 
 ---
 
@@ -39,6 +36,6 @@ modified: 20230101000000
 
 一个为 [Obsidian.md](https://obsidian.md/) 设计的插件，它只突出显示当前活动的句子，并使文档的其余部分变暗。灵感来自 iA writer。
 
-![screenshot 1](https://cdn.pkmer.cn/covers/focus-active-sentence_2_0.png!pkmer)
+![screenshot 1](./screenshot_1.png)
 
 当编辑器滚动时，焦点将被移除。当您移动光标或开始输入时，焦点将被重新添加。

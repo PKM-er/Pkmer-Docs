@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/take6/obsidian-plugin-auto-hyperlink/master/README.md)
->
 
 ---
 
@@ -77,7 +76,7 @@ JSON 值可以是一个 _ 模板 _，而不是直接的 URL。您可以使用**�
 }
 ```
 
-当模式匹配 "Obsidian PR #10"时，`$0`对应于整个匹配的字符串，而`$1`将被替换为由括号括起来的第一个子模式，即在这种情况下为`10`。因此，生成的URL将为`https://github.com/obsidianmd/obsidian-releases/pull/10`。
+当模式匹配 "Obsidian PR #10"时，`$0` 对应于整个匹配的字符串，而 `$1` 将被替换为由括号括起来的第一个子模式，即在这种情况下为 `10`。因此，生成的 URL 将为 `https://github.com/obsidianmd/obsidian-releases/pull/10`。
 
 ### 多个规则
 

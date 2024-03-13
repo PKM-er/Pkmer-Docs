@@ -27,7 +27,6 @@ Create consecutive lists that are displayed separately in reading mode.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jtucker2/obsidian-consecutive-lists/master/README.md)
->
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719363392
-title: Obsidian 插件：【Readme】metatemplates
+uid: 2023080322223178
+title: Obsidian 插件：metatemplates
 tags: ['模板', 'obsidian插件', 'readme']
 description: 使用YAML前置语法从模板生成笔记
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】metatemplates
+# Obsidian 插件：metatemplates
 
 > [!Note] 插件名片
 > - 插件名称：metatemplates
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 使用 YAML 前置语法从模板生成笔记
 
-![metatemplates](https://cdn.pkmer.cn/covers/obsidian-metatemplates.png!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/avirut/obsidian-metatemplates/master/README.md)
->
 
 ---
 
@@ -47,7 +44,7 @@ modified: 20230101000000
 
 这个插件更多或多少是用来替代核心的 `templates` 插件。
 
-![示例模板](https://cdn.pkmer.cn/covers/obsidian-metatemplates_1_0.png!pkmer)
+![示例模板](https://github.com/avirut/obsidian-metatemplates/blob/master/imgs/template-sample.png?raw=true)
 
 ## 用法
 
@@ -59,7 +56,7 @@ modified: 20230101000000
 
 在使用元模板时，插入/创建笔记时动态填充的值 `{{date}}` 和 `{{time}}` 将被替换为 `<<date>>` 和 `<<time>>`，以减少混淆。
 
-![示例输出](https://cdn.pkmer.cn/covers/obsidian-metatemplates_1_1.png!pkmer)
+![示例输出](https://github.com/avirut/obsidian-metatemplates/blob/master/imgs/from-template.png?raw=true)
 
 ## 鸣谢
 

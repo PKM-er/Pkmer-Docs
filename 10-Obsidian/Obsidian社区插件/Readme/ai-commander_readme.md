@@ -1,6 +1,6 @@
 ---
-uid: 2023120719221041
-title: Obsidian 插件：【Readme】AI Commander
+uid: 2023080322135370
+title: Obsidian 插件：AI Commander
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI和Bing API，在PDF附件或Web搜索结果的上下文中生成音频转录、图像和文本。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】AI Commander
+# Obsidian 插件：AI Commander
 
 > [!Note] 插件名片
 > - 插件名称：AI Commander
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 使用 OpenAI 和 Bing API，在 PDF 附件或 Web 搜索结果的上下文中生成音频转录、图像和文本。
 
-![AI Commander](https://cdn.pkmer.cn/covers/ai-commander.gif)
+![AI Commander](https://cdn.pkmer.cn/covers/ai-commander.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yzh503/obsidian-aicommander-plugin/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 **AI Commander** 是一个简单的 AI 连接器，它可以帮助您使用 OpenAI（ChatGPT）API 和必应搜索引擎的强大功能来编写笔记。
 
-![演示](https://cdn.pkmer.cn/covers/ai-commander_2_0.gif)
+![演示](demo.gif)
 
 使用此插件需要 [OpenAI API 密钥](https://platform.openai.com/account/api-keys)。
 

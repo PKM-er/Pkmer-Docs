@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lumetrium/obsidian-teleprompter/master/README.md)
->
 
 ---
 
@@ -885,5 +884,4 @@ modified: 20230101000000
 </a>
 
 **[Definer - 弹出式词典和翻译工具](https://lumetrium.com/definer)**
-
 即时为您选择或输入的单词和短语提供定义、翻译和搜索结果。

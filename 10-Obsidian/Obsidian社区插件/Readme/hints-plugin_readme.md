@@ -24,12 +24,11 @@ modified: 20230101000000
 
 直接将数据保存到 Obsidian，使用指定的模板。从 Telegram、WhatsApp、Slack、电子邮件、短信、Raycast 等捕获。
 
-![Hints Flow](https://cdn.pkmer.cn/covers/hints-plugin_new.gif)
+![Hints Flow](https://cdn.pkmer.cn/covers/hints-plugin_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/slpbx/obsidian-plugin/master/README.md)
->
 
 ---
 

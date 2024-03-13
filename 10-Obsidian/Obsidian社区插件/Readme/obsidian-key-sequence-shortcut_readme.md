@@ -1,6 +1,6 @@
 ---
-uid: 2023120719315154
-title: Obsidian 插件：【Readme】Key Sequence Shortcut
+uid: 2023080322210018
+title: Obsidian 插件：Key Sequence Shortcut
 tags: ['obsidian插件', 'readme']
 description: 使用简短的快捷键序列执行黑曜石命令。例如，“tp”代表“切换预览”，“tb”代表“切换侧边栏”，更容易记住。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Key Sequence Shortcut
+# Obsidian 插件：Key Sequence Shortcut
 
 > [!Note] 插件名片
 > - 插件名称：Key Sequence Shortcut
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/anselmwang/obsidian-key-sequence-shortcut/main/README.md)
->
 
 ---
 
@@ -53,7 +52,7 @@ modified: 20230101000000
 # 用法
 
 - 命令“打开键序列菜单”（绑定到 `Ctrl-m`）。键入“xl”将执行 `editor:toggle-bullet-list`，无需键入“Enter”。
-![](https://cdn.pkmer.cn/covers/obsidian-key-sequence-shortcut_2_0.png!pkmer)
+![](attachments/2022-02-26-07-33-19.png)
 - 配置
   - 默认配置文件位于工作区根目录下的“kssrc.md”。可以进行自定义。
     - 注释行：使用双引号开始注释行

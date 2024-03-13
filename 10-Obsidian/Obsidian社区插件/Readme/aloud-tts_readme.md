@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/adrianlyjak/obsidian-aloud-tts/main/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 <video src="https://github.com/adrianlyjak/obsidian-aloud-tts/assets/2024018/6e673350-0cf2-4820-bca1-3f36cd3a24f6" ></video>
 
-只需添加您的 OpenAI API 密钥。选择 6 种声音。Open AI 按照 [$0.015每1,000个字符](<https://openai.com/pricing)收费音频。这大约是《双城记》约800,000个字符文本的$12。>
+只需添加您的 OpenAI API 密钥。选择 6 种声音。Open AI 按照 [$0.015每1,000个字符](<https://openai.com/pricing>)收费音频。这大约是《双城记》约800,000个字符文本的$12。
 
 <img alt="设置视图" src="./docs/settings-example.png" style="max-width: 200px;" ></img>
 

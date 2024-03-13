@@ -1,6 +1,6 @@
 ---
-uid: 2023120719252393
-title: Obsidian 插件：【Readme】Control Characters
+uid: 2023080322163058
+title: Obsidian 插件：Control Characters
 tags: ['obsidian插件', 'readme']
 description: 在编辑模式下显示控制/不可打印字符
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Control Characters
+# Obsidian 插件：Control Characters
 
 > [!Note] 插件名片
 > - 插件名称：Control Characters
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joethei/obsidian-control-characters/master/README.md)
->
 
 ---
 
@@ -48,7 +47,7 @@ modified: 20230101000000
 
 在编辑模式下显示控制字符。
 
-![演示截图](https://cdn.pkmer.cn/covers/control-characters_1_3.png!pkmer)
+![演示截图](https://i.joethei.space/Obsidian_136foBrkZM.png)
 
 ## 仅在选择中显示字符
 

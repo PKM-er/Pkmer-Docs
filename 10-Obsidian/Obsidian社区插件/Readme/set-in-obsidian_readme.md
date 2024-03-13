@@ -1,6 +1,6 @@
 ---
-uid: 2023120719423629
-title: Obsidian 插件：【Readme】Set In Obsidian
+uid: 2023080322263915
+title: Obsidian 插件：Set In Obsidian
 tags: ['obsidian插件', 'readme']
 description: 时间规划插件
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Set In Obsidian
+# Obsidian 插件：Set In Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：Set In Obsidian
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sandorex/set-in-obsidian-plugin/master/README.md)
->
 
 ---
 
@@ -63,9 +62,9 @@ _这个插件是作为 [obsidian-day-planner](https://github.com/lynchjames/obsi
 
 在列表视图中将显示如下：
 
-![img](https://cdn.pkmer.cn/covers/set-in-obsidian_2_0.png!pkmer)
+![img](screenshots/screenshot-list.png)
 
-月视图如下 ![img](https://cdn.pkmer.cn/covers/set-in-obsidian_2_1.png!pkmer)
+月视图如下 ![img](screenshots/screenshot-month.png)
 
 ### 嵌入日历
 

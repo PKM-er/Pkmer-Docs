@@ -24,12 +24,11 @@ modified: 20230101000000
 
 （它切换 vim 的开/关）允许在设置中切换和自定义该切换。
 
-![Vim Toggle](https://cdn.pkmer.cn/covers/vim-toggle.gif)
+![Vim Toggle](https://cdn.pkmer.cn/covers/vim-toggle.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/conneroisu/vim-toggle/master/README.md)
->
 
 ---
 

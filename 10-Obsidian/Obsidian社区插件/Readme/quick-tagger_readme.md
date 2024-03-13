@@ -1,5 +1,5 @@
 ---
-uid: 2023120719410832
+uid: 2023120522264365
 title: Obsidian 插件：【Readme】Quick Tagger
 tags: ['obsidian插件', 'readme']
 description: 快速添加和删除标签。对标签搜索结果进行批量标记，并为您的收藏夹添加专用按钮/命令！
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Gorkycreator/obsidian-quick-tagger/master/README.md)
->
 
 ---
 
@@ -51,15 +50,15 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/quick-tagger_2_0.gif)
+![演示](images/quick_tagger_demo.gif)
 
 请注意，此演示是在移动设备上录制的，并通过 Obsidian Commander 在标题栏上添加了按钮。需要进行一些组装。在独立插件中提供了功能区图标和命令面板操作，但这是我首选的工作流程。
 
 ### 菜单选项
 
-![file-menu](https://cdn.pkmer.cn/covers/quick-tagger_2_1.png!pkmer)
+![file-menu](images/file-right-click-menu.png)
 
-![search-menu](https://cdn.pkmer.cn/covers/quick-tagger_2_2.png!pkmer)
+![search-menu](images/search-results-menu.png)
 
 ### 星标标签
 
@@ -70,7 +69,7 @@ modified: 20230101000000
   - 添加一个 Obsidian 命令，用于在活动笔记上切换标签
   - 添加一个状态栏按钮，用于在活动笔记上切换命令
 
-![starred-tag-demo](https://cdn.pkmer.cn/covers/quick-tagger_2_3.gif)
+![starred-tag-demo](images/starred-tag-demo.gif)
 
 免责声明
 

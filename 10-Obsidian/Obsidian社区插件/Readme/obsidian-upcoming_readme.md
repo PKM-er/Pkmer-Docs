@@ -1,6 +1,6 @@
 ---
-uid: 2023120719455295
-title: Obsidian 插件：【Readme】Upcoming
+uid: 2023080322290020
+title: Obsidian 插件：Upcoming
 tags: ['obsidian插件', 'readme']
 description: 可以快速查看即将来的每日笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Upcoming
+# Obsidian 插件：Upcoming
 
 > [!Note] 插件名片
 > - 插件名称：Upcoming
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 可以快速查看即将来的每日笔记。
 
-![Upcoming](https://cdn.pkmer.cn/covers/obsidian-upcoming.gif)
+![Upcoming](https://cdn.pkmer.cn/covers/obsidian-upcoming.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/charliecm/obsidian-upcoming/main/README.md)
->
 
 ---
 
@@ -44,7 +43,7 @@ modified: 20230101000000
 - **打开即将到来的笔记：** 如果当前活动面板中有每日笔记，则此命令将打开相对于该日期的即将到来的笔记。否则，它将从今天开始。
 - **关闭笔记：** 关闭插件之前打开的所有每日笔记。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-upcoming_1_0.gif)
+![演示](https://raw.githubusercontent.com/charliecm/obsidian-upcoming/main/demo.gif)
 
 ## 安装方法
 

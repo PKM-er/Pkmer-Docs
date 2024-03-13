@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vaccarini-Lorenzo/MagicCalendar/main/README.md)
->
 
 ---
 
@@ -135,7 +134,7 @@ NLP 日历事件识别
 - Bug 修复：不可编辑的小部件错误
 - NPL 模块改进：
 
-	1. 微调
+	1) 微调
 
 ### v.1.1.2
 
@@ -151,6 +150,8 @@ NLP 日历事件识别
 - 不再需要 CORS 代理
 - NPL 模块改进：
 
-	1. 实体相关属性识别
-	2. 事件目的识别
-	3. 修复了实体重叠的错误
+	1) 实体相关属性识别
+
+	2) 事件目的识别
+
+	3) 修复了实体重叠的错误

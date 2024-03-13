@@ -1,5 +1,5 @@
 ---
-uid: 2023120719230547
+uid: 2023102611072402
 title: Obsidian 插件：【Readme】Automatic Table Of Contents
 tags: ['obsidian插件', 'readme']
 description: 在笔记中创建一个目录，当笔记发生变化时，目录会自动更新。
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在笔记中创建一个目录，当笔记发生变化时，目录会自动更新。
 
-![Automatic Table Of Contents](https://cdn.pkmer.cn/covers/automatic-table-of-contents.gif)
+![Automatic Table Of Contents](https://cdn.pkmer.cn/covers/automatic-table-of-contents.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/johansatge/obsidian-automatic-table-of-contents/main/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 ---
 
-![演示](https://cdn.pkmer.cn/covers/automatic-table-of-contents_2_0.gif)
+![演示](images/demo.gif)
 
 - [安装](#installation)
 - [使用](#usage)

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719421856
-title: Obsidian 插件：【Readme】RSS Reader
+uid: 2023080322261477
+title: Obsidian 插件：RSS Reader
 tags: ['第三方工具集成', '信息收集', '文件管理', 'obsidian插件', 'readme']
 description: 从RSS订阅源中阅读文章，并将它们纳入您的笔记中。支持将RSS按文件夹分类，文章专注模式，用RSS 源里的文章创建新笔记，将文章粘贴到当前笔记中。创建自定义过滤器，标记文章，支持音频和视频内容。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】RSS Reader
+# Obsidian 插件：RSS Reader
 
 > [!Note] 插件名片
 > - 插件名称：RSS Reader
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joethei/obsidian-rss/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 [![libera宣言](https://img.shields.io/badge/libera-manifesto-lightgrey.svg)](https://liberamanifesto.com)
 ---
 
-![](https://cdn.pkmer.cn/covers/rss-reader_1_4.png!pkmer)
+![](https://i.joethei.space/obsidian-rss.png)
 
 ## 特点
 
@@ -63,7 +62,7 @@ modified: 20230101000000
 - 多语言支持（有关翻译说明，请参见 [#43](https://github.com/joethei/obsidian-rss/issues/43)）
 - 更多功能请参见 [路线图](https://github.com/joethei/obsidian-rss/projects/1)
 
-![演示GIF](https://cdn.pkmer.cn/covers/rss-reader_1_5.gif)
+![演示GIF](https://i.joethei.space/QQATWu36eC.gif)
 
 ## 入门指南
 
@@ -101,7 +100,7 @@ modified: 20230101000000
 - `{{#tags}}` 带有 # 的标签，用逗号分隔，你也可以指定分隔符，例如：`{{#tags:;}}`
 - `{{media}}` 媒体链接
 - `{{highlights}}` 高亮列表，你也可以指定自定义样式，下面的示例为每个高亮创建了一个 [admonition](https://github.com/valentine195/obsidian-admonition)：
-    ![](https://cdn.pkmer.cn/covers/rss-reader_1_6.png!pkmer)
+    ![](https://i.joethei.space/obsidian-rss-highlight-syntax.png)
 
 ## ⚠ 安全性
 

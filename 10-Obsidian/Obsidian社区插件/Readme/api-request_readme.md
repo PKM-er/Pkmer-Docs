@@ -1,6 +1,6 @@
 ---
-uid: 2023120719223069
-title: Obsidian 插件：【Readme】APIRequest
+uid: 2023080322140709
+title: Obsidian 插件：APIRequest
 tags: ['obsidian插件', 'readme']
 description: 从API中请求和检索数据。响应以JSON格式传递，以便与您的笔记轻松集成。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】APIRequest
+# Obsidian 插件：APIRequest
 
 > [!Note] 插件名片
 > - 插件名称：APIRequest
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Rooyca/obsidian-api-request/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 Obsidian 插件，允许您向 API 发送请求并以 JSON 块或 Obsidian 变量的格式接收响应。
 
-![conf_img](https://cdn.pkmer.cn/covers/api-request_2_0.png!pkmer)
+![conf_img](config_img.png)
 
 ## Obsidian 社区插件浏览器
 

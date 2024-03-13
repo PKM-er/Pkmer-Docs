@@ -1,6 +1,6 @@
 ---
-uid: 2023120719380757
-title: Obsidian 插件：【Readme】Obsidian OCR
+uid: 2023080322233604
+title: Obsidian 插件：Obsidian OCR
 tags: ['obsidian插件', 'readme']
 description: 使用光学字符识别技术在您的图像和PDF文件中搜索文本
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian OCR
+# Obsidian 插件：Obsidian OCR
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian OCR
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MohrJonas/obsidian-ocr/master/README.md)
->
 
 ---
 
@@ -38,7 +37,6 @@ modified: 20230101000000
 下面是 [[obsidian-ocr]] 插件的自述翻译
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -46,7 +44,6 @@ modified: 20230101000000
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -137,12 +134,12 @@ Obsidian OCR 允许您在图像和 PDF 中搜索文本。
 ### 使用方法
 
 - 启用插件后，您将在右下角看到一个进度条，表示您的保险库正在处理中。
-  ![索引](https://cdn.pkmer.cn/covers/obsidian-ocr_2_0.png!pkmer)
+  ![索引](indexing.png)
 - 完成后，您可以使用 `Search OCR` 命令或工具栏中的 `放大镜图标` 打开搜索菜单。
-  ![搜索模态框](https://cdn.pkmer.cn/covers/obsidian-ocr_2_1.png!pkmer)
+  ![搜索模态框](search-modal.png)
 - 当向您的保险库添加新的 PDF / PNG 时，文件会自动被搜索文本。
 - 启动 Obsidian 时，您现在将看到另一个进度条，表示所有转录正在被缓存。
-  ![缓存](https://cdn.pkmer.cn/covers/obsidian-ocr_2_2.png!pkmer)
+  ![缓存](caching.png)
 
 ### 设置
 

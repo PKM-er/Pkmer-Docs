@@ -1,13 +1,13 @@
 ---
-uid: 20231206000637
+uid: 2023080322260182
 title: Obsidian 插件：Remotely Save
 tags: ['第三方工具集成', '文件管理', '效率', 'obsidian插件', 'readme']
-description: 非官方同步插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
+description: 非官方同步不插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
 author: AI
 type: readme
 draft: false
 editable: false
-modified: 20231217234731
+modified: 20230101000000
 ---
 
 # Obsidian 插件：Remotely Save
@@ -15,19 +15,18 @@ modified: 20231217234731
 > [!Note] 插件名片
 > - 插件名称：Remotely Save
 > - 插件作者：fyears
-> - 插件说明：非官方同步插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
+> - 插件说明：非官方同步不插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
 > - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', ' 效率 ', 'obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/remotely-save/remotely-save)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?remotely-save)
 
 ## 概述
 
-非官方同步插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
+非官方同步不插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/remotely-save/remotely-save/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20231217234731
 
 - **这不是 Obsidian 官方提供的 [同步服务](https://obsidian.md/sync)。**
 
-## !!!警告
+## !!!警告!!
 
 **在使用此插件之前，**请**始终备份您的保险库。**
 
@@ -151,10 +150,6 @@ modified: 20231217234731
 
 更多详细信息请参见 [这里](./docs/how_to_debug/README.md)。
 
-## 额外：通过二维码导入和导出非 Oauth2 插件设置
+## 奖励：通过二维码导入和导出非 Oauth2 插件设置
 
 有关更多详细信息，请参见 [此处](./docs/import_export_some_settings.md)。
-
-## 视频教程
-
-<iframe src="https://player.bilibili.com/player.html?aid=282340197&bvid=BV13c411y7dm&cid=1367205501&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>

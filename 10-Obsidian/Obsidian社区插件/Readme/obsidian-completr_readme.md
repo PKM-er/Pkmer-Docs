@@ -1,6 +1,6 @@
 ---
-uid: 2023120719251819
-title: Obsidian 插件：【Readme】Completr
+uid: 2023080322162337
+title: Obsidian 插件：Completr
 tags: ['obsidian插件', 'readme']
 description: 这个插件提供了针对LaTeX、Frontmatter和标准写作的高级自动完成功能。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Completr
+# Obsidian 插件：Completr
 
 > [!Note] 插件名片
 > - 插件名称：Completr
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 这个插件提供了针对 LaTeX、Frontmatter 和标准写作的高级自动完成功能。
 
-![Completr](https://cdn.pkmer.cn/covers/obsidian-completr.gif)
+![Completr](https://cdn.pkmer.cn/covers/obsidian-completr.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tth05/obsidian-completr/master/README.md)
->
 
 ---
 
@@ -106,15 +105,15 @@ modified: 20230101000000
 
 #### Latex 片段
 
-![Latex](https://cdn.pkmer.cn/covers/obsidian-completr_1_2.gif)
+![Latex](https://user-images.githubusercontent.com/36999320/146680089-57390cd7-e3c3-418c-9c55-9536259bb956.gif)
 
 #### YAML 前置内容
 
-![前置内容](https://cdn.pkmer.cn/covers/obsidian-completr_1_3.gif)
+![前置内容](https://user-images.githubusercontent.com/36999320/148700639-6cb48631-0b2f-45b8-b48a-40357425e8bf.gif)
 
 #### 文件扫描
 
-![文件扫描器](https://cdn.pkmer.cn/covers/obsidian-completr_1_4.gif)
+![文件扫描器](https://user-images.githubusercontent.com/36999320/146680134-33d8393b-956a-4028-ab2f-62526f76984d.gif)
 
 两百万个德语单词已加载
 

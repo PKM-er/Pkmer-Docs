@@ -29,7 +29,6 @@ Obsidian 笔记增加多语言词典。包括英式英语，美式英语，印�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/obsidian-dictionary/master/README.md)
->
 
 ---
 

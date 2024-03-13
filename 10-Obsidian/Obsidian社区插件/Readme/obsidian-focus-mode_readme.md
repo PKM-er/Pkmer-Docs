@@ -1,6 +1,6 @@
 ---
-uid: 2023120719290247
-title: Obsidian 插件：【Readme】Focus Mode
+uid: 2023080322183841
+title: Obsidian 插件：Focus Mode
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 中添加专注模式，快速关闭各种panel，让你专注在当前笔记上。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Focus Mode
+# Obsidian 插件：Focus Mode
 
 > [!Note] 插件名片
 > - 插件名称：Focus Mode
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanpcmcquen/obsidian-focus-mode/master/README.md)
->
 
 ---
 
@@ -41,11 +40,11 @@ Obsidian 专注模式
 
 为 Obsidian 添加专注模式。
 
-![专注模式演示](https://cdn.pkmer.cn/covers/obsidian-focus-mode_1_0.gif)
+![专注模式演示](https://raw.githubusercontent.com/ryanpcmcquen/obsidian-focus-mode/master/obsidian-super-focus-mode-demo-v2.gif)
 
 现在还有“超级专注”模式（<kbd>Shift</kbd> + `左键单击`），它只会专注于活动窗格。在普通的 `左键单击` 上仍然存在原始行为。
 
-![超级专注模式和命令/热键演示](https://cdn.pkmer.cn/covers/obsidian-focus-mode_1_1.gif)
+![超级专注模式和命令/热键演示](https://raw.githubusercontent.com/ryanpcmcquen/obsidian-focus-mode/master/obsidian-command-focus-mode-demo-v1.gif)
 
 ### 快捷键
 

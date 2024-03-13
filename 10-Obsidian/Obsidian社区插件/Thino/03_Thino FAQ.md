@@ -1,13 +1,17 @@
 ---
 uid: 20231109234444
 title: Thino FAQ
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Thino FAQ 你想知道 Thino 的一切都在这里
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
 modified: 20240130173621
+id: f94eee26b8f42cdf
 ---
 
 # Thino FAQ
@@ -16,7 +20,7 @@ modified: 20240130173621
 
 ## Thino 更名原因
 
-详见 [[05_Thino 的含义]]，核心原因：
+详见 [[05_About Thino|关于 Thino]]，核心原因：
 
 - 代码层面：因为从 2.1 开始 Obsidian Memos 会脱离当前的 Memos 的发展路径，而是作为 Thino 进行更新。
 - 功能层面：Thino 会开始增加更多获取，和整理灵感的功能向新方向演进。
@@ -29,14 +33,14 @@ modified: 20240130173621
 
 ### Thino 早鸟价
 
-- 当前 Thino 内测权限可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
+- 当前 Thino 内测权限可以通过 [pkmer](https://pkmer.cn/products/thino/#price) 购买后获取。
 - Thino 也作为社区优先贡献者的福利，目前已经发放多位社区优质贡献者。
 
-激活步骤：[[04_Thino 的安装与 Pro 激活]]
+激活步骤：[[04_Thino Installation and Pro Activation|Thino 的安装与 Pro 激活]]
 
 ### 为什么 Thino 内测要收费？
 
-注意：这主要是支撑 Thino 本地版以及 Web 版本的开发（还有未来的 Thino 多端应用的基底开发）。如果你不希望付费享受优先权益，也可以考虑参与 PKMer 社区协作，参考 [[协作者指南]]，当你成为优秀贡献者时，PKMer 会赠予你相应的权限。
+注意：这主要是支撑 Thino 本地版以及 Web 版本的开发（还有未来的 Thino 多端应用的基底开发）。如果你不希望付费享受优先权益，也可以考虑参与 PKMer 社区协作，参考 [PKMer 社区指南]( https://pkmer.cn/show/20230330155738 )，当你成为优秀贡献者时，PKMer 会赠予你相应的权限。
 
 也可以等待 Thino 的公测版本，但公测版只会有稳定性更新，并不会带来新特性，如果想更快地体验 Thino 的新版本功能，进入内测优先是最佳选择。
 
@@ -57,7 +61,7 @@ P.S. 这个收费更类似于 Obsidian Insider 的逻辑
 
 ## Thino 与 PKMer 组织的关系？
 
-Thino 本地版以及 Web 版本都是 PKMer 组织的产品，而 Thino 的发展离不开 PKMer 其它成员的鼎力支持：[[05_Thino 的含义#致谢|致谢]]
+Thino 本地版以及 Web 版本都是 PKMer 组织的产品，而 Thino 的发展离不开 PKMer 其它成员的鼎力支持：[[05_About Thino#致谢|致谢]]
 
 ## Thino 与 Memos 开源项目的关系？
 
@@ -86,7 +90,7 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 	- Thino 不会监听你的所有输入事件，或者在键盘事件中进行过度插入干预
 - 如果其他插件已经实现，那么可能会优先选择和其他优秀插件联动，而不是优先自己做来兼容更多插件
 	- 如果 Thino 已经开启，为了保证不多侵占电脑资源，这时候使用卡其悬浮窗等命令会不生效
-	- 对于 poper windows 这样的命令，依赖 [[obsidian-hover-editor]] 插件配合
+	- 对于 poper windows 这样的命令，依赖 [Hover Editor 插件]( https://pkmer.cn/show/20230507014507 ) 插件配合
 - 激活问题
 	- 不要使用 Obsidian 中浏览器类插件完成激活，会导致激活失败，当然你可以在激活时候关闭对应插件，激活后重新代开
 	- 遇到激活问题，但是 Thino 依然现实需要验证，可以重新关闭插件页签，重新开启即可
@@ -140,7 +144,7 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ![image.png|500](https://cdn.pkmer.cn/images/20231222105951.png!pkmer)
 
-弹出报错提醒，这里是需要打开 [[nldates-obsidian]] 插件即可，在 [[Thino 检索式功能]] 中也有说明
+弹出报错提醒，这里是需要打开 [[nldates-obsidian]] 插件即可，在  [[Thino Filters|检索式（筛选）]] 中也有说明
 
 ![image.png| 500](https://cdn.pkmer.cn/images/20231222110028.png!pkmer)
 

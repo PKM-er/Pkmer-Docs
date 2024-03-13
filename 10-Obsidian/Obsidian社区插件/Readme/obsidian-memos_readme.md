@@ -1,8 +1,8 @@
 ---
-uid: 2023120719380422
-title: Obsidian 插件：【Readme】Obsidian Memos
+uid: 2024031219354551
+title: Obsidian 插件：【Readme】Thino
 tags: ['界面相关', '笔记文件处理', '效率', 'obsidian插件', 'readme']
-description: 添加一个速捕捉你想法的新方式。如果你熟悉 flomo 的话，这个插件很方便。
+description: 快速捕捉备忘录，并在侧边栏中以热图的形式显示它们。
 author: AI
 type: readme
 draft: false
@@ -10,26 +10,25 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Memos
+# Obsidian 插件：【Readme】Thino
 
 > [!Note] 插件名片
-> - 插件名称：Obsidian Memos
+> - 插件名称：Thino
 > - 插件作者：Boninall
-> - 插件说明：添加一个速捕捉你想法的新方式。如果你熟悉 flomo 的话，这个插件很方便。
+> - 插件说明：快速捕捉备忘录，并在侧边栏中以热图的形式显示它们。
 > - 插件分类：[' 界面相关 ', ' 笔记文件处理 ', ' 效率 ', 'obsidian 插件 ', 'readme']
-> - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Memos)
+> - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Thino)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-memos)
 
 ## 概述
 
-添加一个速捕捉你想法的新方式。如果你熟悉 flomo 的话，这个插件很方便。
+快速捕捉备忘录，并在侧边栏中以热图的形式显示它们。
 
-![Obsidian Memos](https://cdn.pkmer.cn/covers/obsidian-memos.png!pkmer)
+![Thino](https://cdn.pkmer.cn/covers/obsidian-memos.png!pkmer)
 
 > [!tip] 原文出处
 >
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Memos/main/README.md)
->
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Thino/main/README.md)
 
 ---
 
@@ -37,91 +36,88 @@ modified: 20230101000000
 
 下面是 [[obsidian-memos]] 插件的自述翻译
 
-Obsidian Memos 是一种在 Obsidian 中快速捕捉想法的新方法。它在很大程度上基于令人惊叹的开源项目 [memos](https://github.com/justmemos/memos) 和令人惊叹的服务 [flomo](https://flomoapp.com/)。
+> [!warning]
+> From version 2.0.0, thino is not open-source anymore. You can still use it for free, but you need to buy a license to use some advanced features. You can buy a pro license from [here](https://thino.pkmer.net/).
+>
+> v1's source codebase is still open-source via MIT license, you can visit it here: [v1 source code](https://github.com/Quorafind/Obsidian-Memos/tree/v1).
 
-![](https://cdn.pkmer.cn/covers/obsidian-memos_1_0.png!pkmer)
+> [!note]
+> From version 2.0.0, obsidian-memos is renamed to thino, you can search thino in obsidian plugin market to install it.
+>
+> About the reason for the rename, please refer to [here](https://thino.pkmer.net/en/thino).
 
-![](https://cdn.pkmer.cn/covers/obsidian-memos_1_1.png!pkmer)
+## 基本介绍
 
-## 简介
+1. 所有 Thino 都是从您的笔记中获取的。如果您使用的是基本版本，则所有 Thino 都源自您的日记文件。有关更多信息，请访问 [链接](https://thino.pkmer.net/en/thino/01_thino-basic/01_thino-basic-tutorial/)。
+2. 在日记模式下，它会访问指定标题下的内容或整个日记文本，并将其解析为 Thino。常见格式为 `- 12:00 abcd`。
+3. 您输入的每个 Thino 都将插入到您指定标题的末尾或完整文本的末尾。
 
-1. 所有备忘录都来自于您的日常笔记，这需要启用“Daily Notes Plugin”才能使该插件正常工作。
-2. 备忘录是从您在配置中设置的标题下方获取的，默认为 `# Journal`。
-3. 备忘录是在配置中设置的标题下方创建的，默认为 `# Journal`（现在您可以将其设置为任何其他标题）。
-4. 当您创建一个查询时，会在您的日常笔记文件夹中自动生成一个 query.md 文件。
-5. 当您删除一个备忘录时，它将发送到您的日常笔记文件夹中的 delete.md，请不要直接编辑它。
+您可以从多个来源阅读 thinos，请访问 [链接](https://thino.pkmer.net/en/)。
+
+## 附加功能
+
+请参考我们的官方文档网站：[link](https://thino.pkmer.net/en/thino)。
 
 ## 如何使用
 
-1. 首先确保你已启用“Daily notes”插件（Obsidian 的核心插件）。
-2. 然后，你应该检查设置，将你的标题设置为在下方处理并在下方插入新备忘录，或者留空以将条目写入每日文件的底部。
-3. 打开备忘录，然后点击“NOTEIT”。
-4. 如果你允许备忘录中有评论，你需要确保已启用“dataview”插件。
+1. 您至少需要激活每日笔记核心插件（如果您是 thino pro 用户，可以在禁用日记模式时禁用每日笔记插件）。
+2. 在使用之前，请至少配置两个设置：在日记模式下指定标题下的处理和插入在指定标题下。
+3. 打开 Thino，输入内容，然后点击 `noteit` 按钮。
+4. 您输入的内容将自动插入到您的日记文件中。
 
-一个条目将以当前时间的项目格式添加到你的每日笔记中。
+## 基本示例（日记模式）
 
-### 示例
+您输入的内容将被转换为以下格式：
 
-```markdown
-- 22:15 {您输入的备忘录内容}
+```markdown  
+- 22:15 {您的输入内容}  
+```  
+
+以下的 markdown 文本格式将在日记模式下被正确解析：
+
+```markdown  
+- 19:00 abcd  
+- [ ] 19:00 cdef  
 ```
 
-在解析并添加备忘录到列表时，使用以下格式：
+## Thino Sync（尚未提供）
 
-- `- 19:00` 在日记中。
-- `- [ ] 19:00` 在日记中。
+**Thino Sync** 是一项服务，允许您在设备之间同步您的 Thinos。这是一个付费服务。您可以从 [链接](https://thino.pkmer.net/en/) 购买许可证。
 
-## 特点
+我们不会收集任何您的数据，也无法访问您的数据。
 
-###备忘录列表
+- 如果您使用 Thino（PKMer）Sync，我们会存储您的数据以提供服务。
+- 如果您的 Sync 或 Publish 订阅到期，您的数据将在我们的服务器上存储一个月，然后永久删除。如果您自行取消订阅，您的数据将立即被删除。
 
-显示所有来自您的日常笔记的备忘录，以便您可以在一页上阅读它们。
+## 专业版 vs 免费版
 
-分享备忘录和时间线
+| 功能                                                                    | 免费版 | 专业版 |
+|-------------------------------------------------------------------------|------|-----|
+| 每日笔记模式                                                           | ✅    | ✅   |
+| Thino 分享                                                              | ✅    | ✅   |
+| 全局编辑器                                                             | ✅    | ✅   |
+| [实时预览编辑器](https://thino.pkmer.net/en/thino/01_thino-basic/thino-editor/)                      | ✅*   | ✅   |
+| [多重布局](https://thino.pkmer.net/en/thino/01_thino-basic/thino-multi-layout/)                             | ❌    | ✅   |
+| [每日进度条](https://thino.pkmer.net/en/thino/01_thino-basic/thino-heatmap/)                       | ❌    | ✅   |
+| [实时预览编辑器自定义建议](https://thino.pkmer.net/en/thino/01_thino-basic/thino-editor/) | ❌    | ✅   |
+| [随机复习](https://thino.pkmer.net/en/thino/01_thino-basic/thino-review/)                            | ❌    | ✅   |
+| [本地Thino服务器](https://thino.pkmer.net/en/)                       | ❌    | ✅   |
+| [全局捕获](https://thino.pkmer.net/en/)                           | ❌    | ✅   |
+| [多个Thino来源](https://thino.pkmer.net/en/thino/02_thino-advanced/thino-multi-souce/)                   | ❌    | ✅   |
 
-您可以通过图像分享任何备忘录和日常备忘录。
+*: 免费版中对实时预览编辑器的支持有限。
 
-### 标签列表
+您可以购买许可证来使用以下功能：[链接](https://thino.pkmer.net/en/).
 
-为 JUST 备忘录构建的标签列表。内置的标签列表将显示您的备忘录中的标签。
+## 如何安装
 
-### 查询列表
+| 源                                                                  | 描述                                                                                                                                                        |
+|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Obsidian插件市场](https://obsidian.md/plugins?id=obsidian-memos) | 从 Obsidian 的插件市场安装。                                                                                                                             |
+| [PKMer插件](https://pkmer.cn/products/plugin/pluginMarket/)         | 从 PKMer 插件安装。                                                                                                                                        |
+| [GitHub](https://github.com/quorafind/obsidian-thino)                   | 下载最新版本。将三个文件（main.js、manifest.json、styles.css）提取并放入文件夹 `{{obsidian_vault}}/.obsidian/plugins/Obsidian-Thino` 中。 |
+| BRAT                                                                    | 将 `Quorafind/Obsidian-Thino` 添加到 BRAT 中。                                                                                                                            |
 
-您可以设置包含多个变量的查询来查询备忘录。您可以添加它、固定它、删除它。
+## 表达感谢
 
-### 备忘录热力图
-
-您可以像查看 GitHub 热力图一样查看每天的备忘录数量，就像日历中的点一样。但是，所有这些点都可以点击，以过滤该天的备忘录。
-
-### 用户横幅
-
-您可以在设置中设置您的姓名，所以不要忘记这样做。当您点击用户名旁边的三个点时，您可以找到设置和备忘录的垃圾箱。
-
-在每个备忘录中，您可以使用 MARK 将其链接到另一个备忘录。您可以删除它，分享它等等。
-
-提示：
-
-1. 您可以双击备忘录来编辑备忘录。
-2. Ctrl+ 单击以跳转到备忘录的源。
-
-### 搜索和筛选
-
-每次在备忘录中进行搜索时，都会筛选出匹配的备忘录（显示在一页中），在备忘录中已经有四个内置的筛选器，以帮助您更轻松地使用备忘录。
-
-在设置中，您可以找到许多有趣的内容，请毫不犹豫地尝试它们。
-
-### 为热力图设置不同的颜色
-
-您可以在此处下载 CSS 代码片段：[热力图颜色](./document/Heatmap-css-snippet.css)
-
-如何安装
-
-💜：直接从 Obsidian 市场安装。
-
-🚗：将 `Quorafind/Obsidian-Memos` 添加到 BRAT 中。
-
-### 手动下载
-
-🚚：下载最新版本。解压并将三个文件（main.js、manifest.json、styles.css）放入文件夹 `{{obsidian_vault}}/.obsidian/plugins/Obsidian-Memos`。
-
-如果您喜欢使用 Obsidian-Memos，请通过在 [https://www.buymeacoffee.com/boninall](https://www.buymeacoffee.com/boninall) 上给我买杯咖啡来支持我的工作和热情。
+如果你喜欢这个插件，请考虑购买许可证来支持我的工作和热情。你可以从 [这里](https://thino.pkmer.net/) 购买许可证。

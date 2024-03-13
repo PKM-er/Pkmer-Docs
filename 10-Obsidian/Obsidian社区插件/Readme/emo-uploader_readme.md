@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yaleiyale/obsidian-emo-uploader/main/README.md)
->
 
 ---
 
@@ -43,7 +42,6 @@ modified: 20230101000000
 </p>
 
 在 Obsidian 中嵌入 Markdown 在线文件/图片链接。
-
 该插件用于将**图片**上传到托管平台或将**文件**上传到 Github（更多功能，现在可用）。
 
 **图床聚合 & 文件上传器**：*Imgur SM.MS Github Cloudinary Catbox ……*
@@ -79,7 +77,6 @@ modified: 20230101000000
 ## 提示
 
 如果你想在 Imgur 上创建自己的客户端 ID，请重定向到 `obsidian://emo-imgur-oauth`。
-
 在注册**catbox**时，请记住你的用户名。🤨
 
 从 2.6 版本开始，支持剪贴板和拖拽文件；非图片文件在嵌入到 markdown 后，默认情况下会以没有 "!" 开头的链接形式显示。
@@ -124,7 +121,6 @@ modified: 20230101000000
 ### 关于使用政策
 
 [GitHub服务条款](https://docs.github.com/cn/site-policy/github-terms/github-terms-of-service)
-
 [jsdelivr使用政策](https://www.jsdelivr.com/terms/acceptable-use-policy-jsdelivr-net)
 
 ⚠️ **请注意**

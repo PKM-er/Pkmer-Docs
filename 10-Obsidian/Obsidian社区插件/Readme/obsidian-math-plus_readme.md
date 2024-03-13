@@ -1,6 +1,6 @@
 ---
-uid: 2023120719380084
-title: Obsidian 插件：【Readme】Obsidian Math+
+uid: 2023080322233255
+title: Obsidian 插件：Obsidian Math+
 tags: ['obsidian插件', 'readme']
 description: 这是一个使用Excalidraw进行数学笔记的Obsidian插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Math+
+# Obsidian 插件：Obsidian Math+
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Math+
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ Obsidian Math+ 是一个快速高效地记录数学笔记的插件。
 
 运行“插入数学块”命令，可以使用命令面板或 `cmd + M` 快捷键。这将为您创建一个数学块，您可以使用 LaTeX 编写这些笔记，或者直观地编写方程式，插件将尽力解析它们。
 
-![渲染的方程式](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_0.png!pkmer)
+![渲染的方程式](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/0.2.4/assets/editor-to-rendered.png)
 
 现在，您的笔记已经被渲染，您可以通过点击块右上角的笔图标进入绘图模式。
 
@@ -55,11 +54,11 @@ Obsidian Math+ 是一个快速高效地记录数学笔记的插件。
 
 > **注意：**这仅在实时预览模式下有效
 
-![excalidraw](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_1.png!pkmer)
+![excalidraw](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/0.2.4/assets/math-annotated.png)
 
 要保存您的绘图，请按右上角的勾号，您的绘图将被渲染为 SVG 格式。
 
-![excalidraw svg](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_2.png!pkmer)
+![excalidraw svg](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/0.2.4/assets/math-annotated-svg.png)
 
 ## 设置
 
@@ -67,7 +66,7 @@ Obsidian Math+ 是一个快速高效地记录数学笔记的插件。
 
 此设置允许您更改绘图和绘图数据保存的位置。
 
-![路径设置](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_3.png!pkmer)
+![路径设置](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/master/assets/path-settings.png)
 
 **快捷键**
 
@@ -91,7 +90,7 @@ Obsidian Math+ 是一个快速高效地记录数学笔记的插件。
 
 此快捷方式使得每当您键入 `/` 时，它将获取其之前的字符或组，并将其放入分数格式中。例如，`3/17` 将变为 `\frac{3}{17}`，`{x-5a}/2` 将变为 `\frac{x-5a}{2}`。所有快捷方式必须保持正确的 JSON 格式。
 
-![数学块大小设置](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_4.png!pkmer)
+![数学块大小设置](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/master/assets/shortcuts-settings.png)
 
 使用更新按钮应用您的快捷方式更改。
 
@@ -99,34 +98,34 @@ Obsidian Math+ 是一个快速高效地记录数学笔记的插件。
 
 在这里，您可以更改笔记时可选择的三种默认颜色，或者打开即时自定义颜色选择器。
 
-![颜色设置](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_5.png!pkmer)
+![颜色设置](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/0.2.4/assets/colors-settings.png)
 
 **数学块大小**
 
 这允许您更改数学块的大小。
 
-![数学块大小设置](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_6.png!pkmer)
+![数学块大小设置](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/master/assets/math-block-size-settings.png)
 
 **实时预览设置**
 
 这允许您切换实时预览的开启和关闭。
 
-![实时预览设置](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_7.png!pkmer)
+![实时预览设置](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/master/assets/live-preview-settings.png)
 
 **元数据设置**
 
 这允许您切换代码块中存储的一些元数据的开启和关闭。
 
-![元数据设置](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_8.png!pkmer)
+![元数据设置](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/master/assets/metadata-settings.png)
 
 **Excalidraw 用户界面**
 
 Excalidraw 有很多绘图工具，您可以根据需要在此处切换开启或关闭。
 
-![Excalidraw用户界面设置](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_9.png!pkmer)
+![Excalidraw用户界面设置](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/0.2.4/assets/excalidraw-ui-settings.png)
 
 **Excalidraw 设置**
 
 您可以在此处切换网格模式的开启和关闭。
 
-![Excalidraw设置](https://cdn.pkmer.cn/covers/obsidian-math-plus_1_10.png!pkmer)
+![Excalidraw设置](https://raw.githubusercontent.com/ocapraro/obsidian-math-plus/0.2.4/assets/excalidraw-settings-settings.png)

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719223482
-title: "Obsidian 插件：【Readme】April's Automatic Timelines"
+uid: 2023080322141183
+title: "Obsidian 插件：April's Automatic Timelines"
 tags: ['obsidian插件', 'readme']
 description: 故事讲述者的简易时间线生成器
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】April's Automatic Timelines
+# Obsidian 插件：April's Automatic Timelines
 
 > [!Note] 插件名片
 > - 插件名称：April's Automatic Timelines
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/April-Gras/obsidian-auto-timelines/master/README.md)
->
 
 ---
 
@@ -68,7 +67,7 @@ timelines: [timeline, event] # 此笔记应在名为“timeline”或“event”
 
 您还可以通过使用逗号分隔值来为时间轴指定多个名称（此值可以在设置中更改）
 
-![image](https://cdn.pkmer.cn/covers/aprils-automatic-timelines_1_0.png!pkmer)
+![image](https://github.com/April-Gras/obsidian-auto-timelines/assets/1866440/78de88e6-7048-47a6-b943-fe7bbae58c69)
 
 这将扫描存储库中所有标记为在“timeline”时间轴内呈现的笔记
 
@@ -179,7 +178,7 @@ cycle {cycle}, {moon}
 
 与其试图妥协其他时间轴的显示，我们可以直接编写如下内容：
 
-![image](https://cdn.pkmer.cn/covers/aprils-automatic-timelines_1_1.png!pkmer)
+![image](https://github.com/April-Gras/obsidian-auto-timelines/assets/1866440/6ce32770-7ba6-4fe6-b1f8-eb629d960114)
 
 这将覆盖全局设置，但仅适用于此时间轴。
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719370286
-title: Obsidian 插件：【Readme】Natural Language Syntax Highlighting
+uid: 2023080322224862
+title: Obsidian 插件：Natural Language Syntax Highlighting
 tags: ['界面相关', '美化', '样式工具', '学习', 'obsidian插件', 'readme']
 description: 在编辑器中突出显示形容词、名词、副词、动词等。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Natural Language Syntax Highlighting
+# Obsidian 插件：Natural Language Syntax Highlighting
 
 > [!Note] 插件名片
 > - 插件名称：Natural Language Syntax Highlighting
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/nl-syntax-highlighting/main/README.md)
->
 
 ---
 
@@ -41,11 +40,11 @@ modified: 20230101000000
 
 这是一个为 [Obsidian.md](https://obsidian.md/) 设计的插件，可以在编辑器中高亮显示形容词、名词、副词、动词和连词。灵感来自于 iA Writer。
 
-![截图1](https://cdn.pkmer.cn/covers/nl-syntax-highlighting_2_0.png!pkmer)
+![截图1](img/screenshot_1.png)
 
 可以在插件设置中自定义颜色。
 
-![截图2](https://cdn.pkmer.cn/covers/nl-syntax-highlighting_2_1.png!pkmer)
+![截图2](img/screenshot_2.png)
 
 贡献
 

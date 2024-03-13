@@ -1,6 +1,6 @@
 ---
-uid: 2023120719454175
-title: Obsidian 插件：【Readme】Tressel Sync for Obsidian
+uid: 2023080322284789
+title: Obsidian 插件：Tressel Sync for Obsidian
 tags: ['obsidian插件', 'readme']
 description: Tressel 官方插件，可将您的推文和线程同步/导出到 Obsidian 中
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Tressel Sync for Obsidian
+# Obsidian 插件：Tressel Sync for Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：Tressel Sync for Obsidian
@@ -29,7 +29,6 @@ Tressel 官方插件，可将您的推文和线程同步/导出到 Obsidian 中
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tresselteam/obsidian-tressel/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ Tressel 官方插件，可将您的推文和线程同步/导出到 Obsidian 中
 
 # Tressel Sync for Obsidian
 
-![](https://cdn.pkmer.cn/covers/obsidian-tressel_1_0.png!pkmer)
+![](https://tressel.xyz/open-graph-image.png)
 
 官方 Tressel 插件，用于将**Twitter、Reddit、Kindle、Pocket、Instapaper、Raindrop、Hypothes.is、Hacker News 等**中的内容/高亮保存和导出到 Obsidian 中。
 

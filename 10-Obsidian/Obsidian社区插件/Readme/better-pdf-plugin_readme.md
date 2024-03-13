@@ -1,6 +1,6 @@
 ---
-uid: 2023120719233946
-title: Obsidian 插件：【Readme】Better PDF Plugin
+uid: 2023080322150500
+title: Obsidian 插件：Better PDF Plugin
 tags: ['PDF', '编辑器', 'obsidian插件', 'readme']
 description: 允许你插入、缩放、旋转和裁剪 pdf 页面到您的笔记中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Better PDF Plugin
+# Obsidian 插件：Better PDF Plugin
 
 > [!Note] 插件名片
 > - 插件名称：Better PDF Plugin
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 允许你插入、缩放、旋转和裁剪 pdf 页面到您的笔记中。
 
-![Better PDF Plugin](https://cdn.pkmer.cn/covers/better-pdf-plugin.gif)
+![Better PDF Plugin](https://cdn.pkmer.cn/covers/better-pdf-plugin.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MSzturc/obsidian-better-pdf-plugin/master/README.md)
->
 
 ---
 
@@ -50,7 +49,7 @@ Obsidian Better PDF 插件的目标是在 Obsidian 中实现原生的 PDF 处理
 
 ### 演示
 
-![示例](https://cdn.pkmer.cn/covers/better-pdf-plugin_1_0.gif)
+![示例](https://github.com/MSzturc/obsidian-better-pdf-plugin/raw/master/sample/BetterPDF.gif)
 
 ### 语法
 

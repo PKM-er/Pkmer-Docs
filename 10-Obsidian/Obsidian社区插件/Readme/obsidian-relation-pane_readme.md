@@ -1,6 +1,6 @@
 ---
-uid: 2023120719414999
-title: Obsidian 插件：【Readme】Relation Pane
+uid: 2023080322255343
+title: Obsidian 插件：Relation Pane
 tags: ['obsidian插件', 'readme']
 description: 显示一个总结笔记之间关系的面板。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Relation Pane
+# Obsidian 插件：Relation Pane
 
 > [!Note] 插件名片
 > - 插件名称：Relation Pane
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mottox2/obsidian-relation-pane/main/README.md)
->
 
 ---
 
@@ -37,9 +36,9 @@ modified: 20230101000000
 
 # Obsidian 关系面板
 
-Obsidian（<https://obsidian.md）插件，用于总结笔记之间的关系。>
+Obsidian（<https://obsidian.md>）插件，用于总结笔记之间的关系。
 
-![screenshot](https://cdn.pkmer.cn/covers/obsidian-relation-pane_2_0.png!pkmer)
+![screenshot](./screenshot.png)
 
 该插件显示以下条件下的笔记链接：
 

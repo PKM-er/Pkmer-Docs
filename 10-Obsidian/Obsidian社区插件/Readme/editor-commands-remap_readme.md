@@ -1,6 +1,6 @@
 ---
-uid: 2023120719271870
-title: Obsidian 插件：【Readme】Editor Commands Remap
+uid: 2023080322174075
+title: Obsidian 插件：Editor Commands Remap
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 将热键映射到编辑器命令。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Editor Commands Remap
+# Obsidian 插件：Editor Commands Remap
 
 > [!Note] 插件名片
 > - 插件名称：Editor Commands Remap
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/c4ctus5/editor-commands-remap/master/README.md)
->
 
 ---
 
@@ -79,7 +78,7 @@ modified: 20230101000000
 
 要设置热键，请转到“设置 > 热键”，然后搜索“编辑器命令重映射”。
 
-![设置图像](https://cdn.pkmer.cn/covers/editor-commands-remap_2_0.png!pkmer)
+![设置图像](./img/settings.png)
 
 ## 快捷键推荐
 

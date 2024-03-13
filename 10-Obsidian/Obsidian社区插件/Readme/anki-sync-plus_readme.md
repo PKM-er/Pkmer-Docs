@@ -27,7 +27,6 @@ Obsidian 与 Anki 之间的集成。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/RochaG07/anki-sync-plus/master/README.md)
->
 
 ---
 

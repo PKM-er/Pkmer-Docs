@@ -27,7 +27,6 @@ Creates a customizable new tab view with beautiful backgrounds, quotes, search, 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/andrewmcgivery/obsidian-beautitab/main/README.md)
->
 
 ---
 

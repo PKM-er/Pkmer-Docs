@@ -1,6 +1,6 @@
 ---
-uid: 2023120719410467
-title: Obsidian 插件：【Readme】Quick snippets and navigation
+uid: 2023080322252168
+title: Obsidian 插件：Quick snippets and navigation
 tags: ['obsidian插件', 'readme']
 description: 键盘导航上/下标题-可配置的默认代码块和回调-通过键盘快捷键复制代码块
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Quick snippets and navigation
+# Obsidian 插件：Quick snippets and navigation
 
 > [!Note] 插件名片
 > - 插件名称：Quick snippets and navigation
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 键盘导航上/下标题 - 可配置的默认代码块和回调 - 通过键盘快捷键复制代码块
 
-![Quick snippets and navigation](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation.gif)
+![Quick snippets and navigation](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ieviev/obsidian-keyboard-shortcuts/main/README.md)
->
 
 ---
 
@@ -50,7 +49,7 @@ modified: 20230101000000
 
 - 注意：仅在编辑模式下有效
 
-![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_1_0.gif)
+![](https://github.com/aciq/obsidian-keyboard-shortcuts/blob/main/_resources/obs-go-to-heading.gif?raw=true)
 
 - 复制代码块：显示代码块列表，允许您搜索和复制其中一个
 - 复制下一个代码块：复制光标最近的下一个代码块
@@ -76,15 +75,15 @@ obsidian-another-quick-switcher:search-command_recent-search
 - 展开标签
 - AND 查询
 
-![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_1_1.gif)
+![](https://github.com/aciq/obsidian-keyboard-shortcuts/blob/main/_resources/folded-search-by-tag.gif?raw=true)
 
-<!-- ![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_2_0.gif) -->
+<!-- ![](_resources/folded-search-by-tag.gif) -->
 
 ### Switcher 扩展/使用标签 1 打开切换器
 
 打开已经添加到查询中的文件中的第一个标签的切换器。
 
-![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_1_2.gif)
+![](https://github.com/aciq/obsidian-keyboard-shortcuts/blob/main/_resources/obs-with-tag-1.gif?raw=true)
 
 > 注意 2：如果您想找到另一个切换器命令的命令 ID，请按 Ctrl+Shift+I 打开开发者控制台并运行此行。
 
@@ -92,7 +91,7 @@ obsidian-another-quick-switcher:search-command_recent-search
 app.commands.listCommands().map(x => x.id);
 ```
 
-![](https://cdn.pkmer.cn/covers/quick-snippets-and-navigation_2_1.png!pkmer)
+![](_resources/command-ids.png)
 
 - 在使用后，还将光标移动到代码块内部/标题后面
 - 代码块的默认语言可以在设置中进行配置

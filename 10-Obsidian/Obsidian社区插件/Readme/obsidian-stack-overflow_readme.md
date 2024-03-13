@@ -1,6 +1,6 @@
 ---
-uid: 2023120719433632
-title: Obsidian 插件：【Readme】Stack Overflow Answers
+uid: 2023080322272152
+title: Obsidian 插件：Stack Overflow Answers
 tags: ['obsidian插件', 'readme']
 description: 直接将Stack Overflow答案复制粘贴到Obsidian中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Stack Overflow Answers
+# Obsidian 插件：Stack Overflow Answers
 
 > [!Note] 插件名片
 > - 插件名称：Stack Overflow Answers
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bramses/obsidian-stack-overflow/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # 观看此视频以查看插件的实际效果（点击缩略图）
 
-[![缩略图](https://cdn.pkmer.cn/covers/obsidian-stack-overflow_2_0.png!pkmer)](https://www.youtube.com/watch?v=UMcmQHi9wsw&ab_channel=BramAdams)
+[![缩略图](thumbnail.png)](https://www.youtube.com/watch?v=UMcmQHi9wsw&ab_channel=BramAdams)
 
 # 安装
 
@@ -57,8 +56,8 @@ modified: 20230101000000
 
 插入 Stack Overflow 答案的默认快捷键是 `cmd+shift+v`。可以在 `community plugins` 部分进行更改。
 
-![settings 1](https://cdn.pkmer.cn/covers/obsidian-stack-overflow_2_1.png!pkmer)
+![settings 1](./community-plugin-1.png)
 
-![settings 2](https://cdn.pkmer.cn/covers/obsidian-stack-overflow_2_2.png!pkmer)
+![settings 2](./community-plugin-2.png)
 
 感谢 [Obsidian Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) 提供的简便的 URL + 光标替换代码。

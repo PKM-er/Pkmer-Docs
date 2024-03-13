@@ -27,7 +27,6 @@ phonetoroam.com 的黑曜石客户端
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dgarrett/phone-to-roam-to-obsidian/master/README.md)
->
 
 ---
 
@@ -35,7 +34,7 @@ phonetoroam.com 的黑曜石客户端
 
 下面是 [[phone-to-roam-to-obsidian]] 插件的自述翻译
 
-这是一个用于 Obsidian（<https://obsidian.md）的> Phone> to Roam（<https://www.phonetoroam.com）客户端。Phone> to Roam 允许通过短信、Telegram、电子邮件和其他一些集成方式将笔记发送到您的笔记保存软件中。
+这是一个用于 Obsidian（<https://obsidian.md>）的 Phone to Roam（<https://www.phonetoroam.com>）客户端。Phone to Roam 允许通过短信、Telegram、电子邮件和其他一些集成方式将笔记发送到您的笔记保存软件中。
 
 该插件会定期从 Phone to Roam 获取新的笔记，并将它们附加到发送消息的当天的每日笔记中。
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719292898
-title: Obsidian 插件：【Readme】Full Calendar
+uid: 2023080322185563
+title: Obsidian 插件：Full Calendar
 tags: ['日期相关', '任务管理', '文件管理', '美化', 'obsidian插件', 'readme']
 description: 以独立界面方式，在 Obsidian 中保存活动并管理您的日历以及所有其他笔记。以便您可以保持您不断变化的日常日程安排和特殊事件和计划，以及您的任务和笔记，并在所有这些之间自由链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Full Calendar
+# Obsidian 插件：Full Calendar
 
 > [!Note] 插件名片
 > - 插件名称：Full Calendar
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/davish/obsidian-full-calendar/main/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ Full Calendar 可以从笔记的前置元数据或每日笔记中的事件列表
 
 您可以在 [这里](https://davish.github.io/obsidian-full-calendar/) 找到完整的文档！
 
-![示例日历](https://cdn.pkmer.cn/covers/obsidian-full-calendar_1_1.png!pkmer)
+![示例日历](https://raw.githubusercontent.com/davish/obsidian-full-calendar/main/docs/assets/sample-calendar.png)
 
 FullCalendar 库由 [Adam Shaw](https://github.com/arshaw) 根据 [MIT许可证](https://github.com/fullcalendar/fullcalendar/blob/master/LICENSE.txt) 发布。这是一项令人敬畏的工作，如果没有它，就不可能如此轻松地制作出这样的插件。
 

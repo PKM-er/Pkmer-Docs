@@ -1,5 +1,5 @@
 ---
-uid: 2023120719423795
+uid: 2023120522270049
 title: Obsidian 插件：【Readme】Sets
 tags: ['obsidian插件', 'readme']
 description: 创建、编辑和搜索类似于Notion或AnyType DBs的笔记集合。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Canna71/obsidian-sets/main/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 该插件受到 [Notion](https://www.notion.so) 和 [AnyType](https://anytype.io) 的启发，并实现了一种使用 Obsidian 笔记来结构化数据的方法，特别是最近发布的属性。
 
-![Alt text](https://cdn.pkmer.cn/covers/sets_2_0.png!pkmer)
+![Alt text](image.png)
 
 它提供以下功能：
 

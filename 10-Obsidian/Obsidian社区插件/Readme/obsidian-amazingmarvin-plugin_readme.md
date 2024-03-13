@@ -1,6 +1,6 @@
 ---
-uid: 2023120719222232
-title: Obsidian 插件：【Readme】Amazing Marvin
+uid: 2023080322135947
+title: Obsidian 插件：Amazing Marvin
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 一个简单的插件，可以帮助从Amazing Marvin获取数据
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Amazing Marvin
+# Obsidian 插件：Amazing Marvin
 
 > [!Note] 插件名片
 > - 插件名称：Amazing Marvin
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ikuyarihS/obsidian-amazingmarvin-plugin/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 ![GitHub所有发布](https://img.shields.io/github/downloads/ikuyarihS/obsidian-amazingmarvin-plugin/total?style=flat)
 
-这是一个 Obsidian 插件（<https://obsidian.md）。>
+这是一个 Obsidian 插件（<https://obsidian.md>）。
 
 **注意：**
 
@@ -55,11 +54,11 @@ modified: 20230101000000
 
 ## 示例
 
-![image](https://cdn.pkmer.cn/covers/obsidian-amazingmarvin-plugin_1_3.png!pkmer)
+![image](https://user-images.githubusercontent.com/19921765/123458209-fbf5ac80-d60e-11eb-81f8-767a2fd2142c.png)
 
 将会渲染为
 
-![image](https://cdn.pkmer.cn/covers/obsidian-amazingmarvin-plugin_1_4.png!pkmer)
+![image](https://user-images.githubusercontent.com/19921765/123458235-02842400-d60f-11eb-9af0-fd9399456742.png)
 
 ## 配置
 

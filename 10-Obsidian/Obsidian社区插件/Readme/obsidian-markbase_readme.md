@@ -1,6 +1,6 @@
 ---
-uid: 2023120719360578
-title: Obsidian 插件：【Readme】Markbase for Obsidian
+uid: 2023080322215671
+title: Obsidian 插件：Markbase for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 官方Markbase插件，可以在您自己的数字花园中在线共享Obsidian笔记
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Markbase for Obsidian
+# Obsidian 插件：Markbase for Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：Markbase for Obsidian
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 官方 Markbase 插件，可以在您自己的数字花园中在线共享 Obsidian 笔记
 
-![Markbase for Obsidian](https://cdn.pkmer.cn/covers/obsidian-markbase_new.gif)
+![Markbase for Obsidian](https://cdn.pkmer.cn/covers/obsidian-markbase_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/markbase-obsidian/obsidian-markbase/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 官方 [Markbase](https://markbase.xyz) 插件，可以在您自己的数字花园中在线共享 Obsidian 笔记
 
-![演示GIF](https://cdn.pkmer.cn/covers/obsidian-markbase_2_0.gif)
+![演示GIF](./src/assets/demo.gif)
 
 ## 指南
 

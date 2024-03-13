@@ -27,7 +27,6 @@ Enrich your notes with issue and pull request content from GitHub.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nathonius/obsidian-github-link/main/README.md)
->
 
 ---
 
@@ -122,6 +121,8 @@ columns: [number, title, author, status]
 | `direction` | `desc`, `asc`                                      |                                           |
 | `per_page`  | 整数。                                             | 每页返回的项目数。                        |
 | `page`      | 整数。                                             | 要使用的结果页。
+
+
 
 |
 

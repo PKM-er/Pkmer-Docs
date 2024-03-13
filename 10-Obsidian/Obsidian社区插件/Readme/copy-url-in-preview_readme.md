@@ -1,6 +1,6 @@
 ---
-uid: 2023120719253591
-title: Obsidian 插件：【Readme】Copy Image and URL context menu
+uid: 2023080322163837
+title: Obsidian 插件：Copy Image and URL context menu
 tags: ['obsidian插件', 'readme']
 description: 阅读视图（以前的预览模式）中的复制图像、复制URL和外部打开PDF上下文菜单
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Copy Image and URL context menu
+# Obsidian 插件：Copy Image and URL context menu
 
 > [!Note] 插件名片
 > - 插件名称：Copy Image and URL context menu
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 阅读视图（以前的预览模式）中的复制图像、复制 URL 和外部打开 PDF 上下文菜单
 
-![Copy Image and URL context menu](https://cdn.pkmer.cn/covers/copy-url-in-preview.gif)
+![Copy Image and URL context menu](https://cdn.pkmer.cn/covers/copy-url-in-preview.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/NomarCub/obsidian-copy-url-in-preview/master/README.md)
->
 
 ---
 
@@ -59,15 +58,15 @@ modified: 20230101000000
 
 复制 URL：
 
-![在桌面上复制URL](https://cdn.pkmer.cn/covers/copy-url-in-preview_1_0.gif)
+![在桌面上复制URL](https://user-images.githubusercontent.com/5298006/125515738-8fb2143d-6502-46d3-a1b8-57b025211c2f.gif)
 
 在外部打开 PDF：
 
-![在桌面上外部打开PDF](https://cdn.pkmer.cn/covers/copy-url-in-preview_1_1.gif)
+![在桌面上外部打开PDF](https://user-images.githubusercontent.com/5298006/171170626-5a94f5dc-61fc-4661-a9f2-38a0fb0181f5.gif)
 
 所有功能在移动设备上都可以使用，但仅在 Android 上进行了测试：
 
-![在Android上复制URL](https://cdn.pkmer.cn/covers/copy-url-in-preview_1_2.gif)
+![在Android上复制URL](https://user-images.githubusercontent.com/5298006/125515758-bdf77074-a58c-4a6d-affa-88d031991ab2.gif)
 
 ## 安装
 

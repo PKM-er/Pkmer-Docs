@@ -1,6 +1,6 @@
 ---
-uid: 2023120719361619
-title: Obsidian 插件：【Readme】Markdown Table Editor
+uid: 2023080322220431
+title: Obsidian 插件：Markdown Table Editor
 tags: ['表格', '效率', 'obsidian插件', 'readme']
 description: 为 Markdown 表格提供编辑器，能将 CSV、Microsoft Excel/Google Sheets 数据 转化成 Markdown 的表格。你可以再点击表格后，在悬浮窗口维护你的表格。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Markdown Table Editor
+# Obsidian 插件：Markdown Table Editor
 
 > [!Note] 插件名片
 > - 插件名称：Markdown Table Editor
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ganesshkumar/obsidian-table-editor/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 Obsidian 插件，提供 Markdown 表格的编辑器。它可以从 Obsidian Markdown 编辑器中打开 CSV、Microsoft Excel/Google Sheets 数据作为 Markdown 表格。
 
-![Obsidian表格编辑器](https://cdn.pkmer.cn/covers/markdown-table-editor_1_0.png!pkmer)
+![Obsidian表格编辑器](https://user-images.githubusercontent.com/2135089/155855554-28f69b38-1f1c-4287-b2da-ba0b75ecc1e1.png)
 
 [![标签0.3.1](https://img.shields.io/badge/tag-0.3.1-blue)](https://github.com/ganesshkumar/obsidian-table-editor)
 
@@ -89,28 +88,28 @@ Obsidian 插件，提供 Markdown 表格的编辑器。它可以从 Obsidian Mar
 1. 点击*功能区*中的“打开 Markdown 表格编辑器”按钮。
 2. 从*命令面板*中使用“Markdown 表格编辑器：打开编辑器”命令。
 
-![创建一个新表格](https://cdn.pkmer.cn/covers/markdown-table-editor_1_4.gif)
+![创建一个新表格](https://user-images.githubusercontent.com/2135089/155854358-fe7df44f-a9ad-42f4-b7e4-e8b639b4c7f8.gif)
 
 ### 1.2 编辑和格式化现有的 Markdown 表格
 
 1. 选择 Markdown 内容或者将光标放置在表格内容内部
 2. 打开*Markdown 表格编辑器*
 
-![编辑和格式化现有的Markdown表格](https://cdn.pkmer.cn/covers/markdown-table-editor_1_5.gif)
+![编辑和格式化现有的Markdown表格](https://user-images.githubusercontent.com/2135089/155854503-9c894dff-fea2-4785-8078-78b53b23f98c.gif)
 
 ### 1.3 将 CSV 数据转换为 Markdown 表格
 
 1. 选择 CSV 内容或者将光标放置在 CSV 内容内部
 2. 打开*Markdown 表格编辑器*
 
-![CVS数据转换为Markdown表格](https://cdn.pkmer.cn/covers/markdown-table-editor_1_6.gif)
+![CVS数据转换为Markdown表格](https://user-images.githubusercontent.com/2135089/155854610-992bfa4f-1be3-4a56-ab56-89726a7db253.gif)
 
 ### 1.4 将 Excel 或 Sheets 转换为 Markdown 表格
 
 1. 选择 Excel 数据（通过 Ctrl/Cmd + Shift + V 粘贴）或只需将光标放在 Excel 数据内部
 2. 打开*Markdown 表格编辑器*
 
-![Excel Sheets to Markdown Table](https://cdn.pkmer.cn/covers/markdown-table-editor_1_7.gif)
+![Excel Sheets to Markdown Table](https://user-images.githubusercontent.com/2135089/155854780-36860953-cd41-41cb-ba8f-83de7e94f04c.gif)
 
 1.5 操作
 
@@ -145,21 +144,21 @@ Obsidian 插件，提供 Markdown 表格的编辑器。它可以从 Obsidian Mar
 		- 升序
 		- 降序
 
-![operations](https://cdn.pkmer.cn/covers/markdown-table-editor_1_8.gif)
+![operations](https://user-images.githubusercontent.com/2135089/155855370-3a93ae56-95df-4c36-be7a-2fc338f275a6.gif)
 
 #### 1.6 选择表格
 
 1. 只需将光标放置在 Markdown 表格、CSV 或 Excel 数据内部。
 2. 从命令面板中调用“Markdown Table Editor: Select surrounding Table Content”命令。
 
-![选择表格内容](https://cdn.pkmer.cn/covers/markdown-table-editor_1_9.gif)
+![选择表格内容](https://user-images.githubusercontent.com/2135089/157485799-312feae5-436a-4d1b-bf4b-4b275a0200b1.gif)
 
 #### 1.7 在活动窗格下方打开表格编辑器
 
 1. 您可以右键单击功能区图标，然后选择“打开编辑器（在活动视图下方）”来水平分割当前视图并在下方打开表格编辑器。
 2. 您也可以使用命令面板，使用“Markdown Table Editor: Open Editor (Below the Active View)”命令来执行此操作。
 
-![horizontal spilit](https://cdn.pkmer.cn/covers/markdown-table-editor_1_10.gif)
+![horizontal spilit](https://user-images.githubusercontent.com/2135089/157485730-cc910b8c-f64f-4669-bb7b-7b862a584743.gif)
 
 ## 2. 安装
 

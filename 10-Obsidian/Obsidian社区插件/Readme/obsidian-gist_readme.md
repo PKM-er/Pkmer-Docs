@@ -1,6 +1,6 @@
 ---
-uid: 2023120719294396
-title: Obsidian 插件：【Readme】Gist
+uid: 2023080322191054
+title: Obsidian 插件：Gist
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 这是一个用于显示GitHub Gist的插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Gist
+# Obsidian 插件：Gist
 
 > [!Note] 插件名片
 > - 插件名称：Gist
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/linjunpop/obsidian-gist/master/README.md)
->
 
 ---
 
@@ -70,7 +69,7 @@ linjunpop/30efbfd874fb1a16176d3f638a1e712a#math.ex
 ```
 ````
 
-![示例图片](https://cdn.pkmer.cn/covers/obsidian-gist_1_1.png!pkmer)
+![示例图片](https://user-images.githubusercontent.com/214616/120093926-f90eb580-c14f-11eb-94e3-a414c7528aef.png)
 
 ## 安装
 
@@ -78,11 +77,11 @@ linjunpop/30efbfd874fb1a16176d3f638a1e712a#math.ex
 
 在 __设置__ -> __社区插件__ 中搜索 "Gist"，您可以找到并安装此插件。
 
-您可以查看官方指南 <https://help.obsidian.md/Advanced+topics/Third-party+plugins#Discover+and+install+community+plugins。>
+您可以查看官方指南 <https://help.obsidian.md/Advanced+topics/Third-party+plugins#Discover+and+install+community+plugins>。
 
 ### 手动安装插件
 
-找到最新的发布版本：<https://github.com/linjunpop/obsidian-gist/releases，然后将> `main.js`、`manifest.json` 和 `styles.css` 复制到你的 vault 的 `.obsidian/plugins/obsidian-gist` 目录下（例如 `VaultFolder/.obsidian/plugins/obsidian-gist/`）。
+找到最新的发布版本：<https://github.com/linjunpop/obsidian-gist/releases>，然后将 `main.js`、`manifest.json` 和 `styles.css` 复制到你的 vault 的 `.obsidian/plugins/obsidian-gist` 目录下（例如 `VaultFolder/.obsidian/plugins/obsidian-gist/`）。
 
 ## 开发
 

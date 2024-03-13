@@ -1,6 +1,6 @@
 ---
-uid: 2023120719464379
-title: Obsidian 插件：【Readme】Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
+uid: 2023080322293824
+title: Obsidian 插件：Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
 tags: ['obsidian插件', 'readme']
 description: 加强文本编辑器中文分词功能
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
+# Obsidian 插件：Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
 
 > [!Note] 插件名片
 > - 插件名称：Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 加强文本编辑器中文分词功能
 
-![Word Splitting for Simplified Chinese in Edit Mode and Vim Mode](https://cdn.pkmer.cn/covers/cm-chs-patch.gif)
+![Word Splitting for Simplified Chinese in Edit Mode and Vim Mode](https://cdn.pkmer.cn/covers/cm-chs-patch.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aidenlx/cm-chs-patch/main/README.md)
->
 
 ---
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 
 | Obsidian 的默认分词 | 安装插件后 |
 | ------------------ | ----------- |
-| ![ob-default-splitting](https://cdn.pkmer.cn/covers/cm-chs-patch_1_0.gif)                   | ![ob-patched-splitting](https://cdn.pkmer.cn/covers/cm-chs-patch_1_1.gif)            |
+| ![ob-default-splitting](https://img.aidenlx.top/img/ob-default-splitting.gif)                   | ![ob-patched-splitting](https://img.aidenlx.top/img/ob-patched-splitting.gif)            |
 
 所需的 API 功能仅适用于 Obsidian v0.15.0+。
 

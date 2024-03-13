@@ -1,6 +1,6 @@
 ---
-uid: 2023120719431618
-title: Obsidian 插件：【Readme】Slide Note
+uid: 2023080322270267
+title: Obsidian 插件：Slide Note
 tags: ['obsidian插件', 'readme']
 description: 方便地在PDF课程幻灯片上做笔记 :P
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Slide Note
+# Obsidian 插件：Slide Note
 
 > [!Note] 插件名片
 > - 插件名称：Slide Note
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Phantom1003/obsidian-slide-note/master/README.md)
->
 
 ---
 
@@ -78,7 +77,7 @@ rect: W(0.069), H(0.113), W(0.861), H(0.337)
 ```
 `````
 
-![基本用法](https://cdn.pkmer.cn/covers/slide-note_2_0.png!pkmer)
+![基本用法](doc/basic.png)
 
 #### 1.1.1 `file` 字段
 
@@ -196,7 +195,7 @@ Slide Note 提供了一个绘图板视图，帮助您生成上述代码。
 
 最终，您的注释应该如下所示：
 
-![高级用法](https://cdn.pkmer.cn/covers/slide-note_2_1.png!pkmer)
+![高级用法](doc/advance.png)
 
 ### 1.4 更好的 PDF 兼容性
 

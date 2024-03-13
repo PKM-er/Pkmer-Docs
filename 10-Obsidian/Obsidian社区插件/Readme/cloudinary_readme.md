@@ -1,6 +1,6 @@
 ---
-uid: 2023120719245111
-title: Obsidian 插件：【Readme】Cloudinary
+uid: 2023080322155837
+title: Obsidian 插件：Cloudinary
 tags: ['obsidian插件', 'readme']
 description: 将内容（图片、视频、音频）上传到Cloudinary，并将它们插入（复制或拖放）到您的笔记中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Cloudinary
+# Obsidian 插件：Cloudinary
 
 > [!Note] 插件名片
 > - 插件名称：Cloudinary
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 将内容（图片、视频、音频）上传到 Cloudinary，并将它们插入（复制或拖放）到您的笔记中。
 
-![Cloudinary](https://cdn.pkmer.cn/covers/cloudinary_new.gif)
+![Cloudinary](https://cdn.pkmer.cn/covers/cloudinary_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/uday-samsani/obsidian-cloudinary/main/README.md)
->
 
 ---
 
@@ -49,7 +48,7 @@ modified: 20230101000000
 
 ## 工作原理
 
-![动作GIF](https://cdn.pkmer.cn/covers/cloudinary_2_0.gif)
+![动作GIF](docs/assets/cloudinary.gif)
 
 ## 配置
 

@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryangomba/obsidian-todo-sort/main/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 # 待办事项排序
 
-这是一个为 Obsidian（<https://obsidian.md）设计的插件，可以在笔记中按完成状态对待办事项进行排序。>
+这是一个为 Obsidian（<https://obsidian.md>）设计的插件，可以在笔记中按完成状态对待办事项进行排序。
 
 ## 发布
 

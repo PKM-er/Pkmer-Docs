@@ -1,6 +1,6 @@
 ---
-uid: 2023120719231184
-title: Obsidian 插件：【Readme】Awesome Reader
+uid: 2023080322144804
+title: Obsidian 插件：Awesome Reader
 tags: ['obsidian插件', 'readme']
 description: 使Obsidian成为一个合适的阅读器。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Awesome Reader
+# Obsidian 插件：Awesome Reader
 
 > [!Note] 插件名片
 > - 插件名称：Awesome Reader
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/AwesomeDog/obsidian-awesome-reader/master/README.md)
->
 
 ---
 
@@ -53,7 +52,7 @@ modified: 20230101000000
 2. 要创建书籍笔记，请从文件菜单中点击“打开/创建书籍笔记”。笔记将与书籍放在同一个文件夹中。
 3. 阅读进度会自动保存在插件的文件夹中。如果你使用了“Obsidian Sync”或类似的服务，阅读进度将同步到所有设备上。
 
-![](https://cdn.pkmer.cn/covers/awesome-reader_2_0.png!pkmer)
+![](resources/img1.png)
 
 已知问题
 

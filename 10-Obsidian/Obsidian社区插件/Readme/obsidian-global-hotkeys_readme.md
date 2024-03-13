@@ -27,7 +27,6 @@ Obsidian 桌面应用程序中可配置的系统热键用于运行命令
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mjessome/obsidian-global-hotkeys/main/README.md)
->
 
 ---
 

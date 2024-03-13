@@ -1,6 +1,6 @@
 ---
-uid: 2023120719431930
-title: Obsidian 插件：【Readme】Smart Links
+uid: 2023080322270525
+title: Obsidian 插件：Smart Links
 tags: ['obsidian插件', 'readme']
 description: 可定制字符串的自动链接
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Smart Links
+# Obsidian 插件：Smart Links
 
 > [!Note] 插件名片
 > - 插件名称：Smart Links
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kemayo/obsidian-smart-links/master/README.md)
->
 
 ---
 
@@ -45,17 +44,17 @@ modified: 20230101000000
 
 它将把这个...
 
-![编辑模式](https://cdn.pkmer.cn/covers/obsidian-smart-links_1_0.png!pkmer)
+![编辑模式](https://user-images.githubusercontent.com/2187/206587959-dd4237a7-98ce-43a7-9373-4f4c695d3efe.png)
 
 变成这个...
 
-![阅读模式](https://cdn.pkmer.cn/covers/obsidian-smart-links_1_1.png!pkmer)
+![阅读模式](https://user-images.githubusercontent.com/2187/206588016-a13f5b4a-19a7-48ce-bc4b-9cb86bf25e43.png)
 
-![目标焦点](https://cdn.pkmer.cn/covers/obsidian-smart-links_1_2.png!pkmer)
+![目标焦点](https://user-images.githubusercontent.com/2187/206588064-da4c6242-a29d-4d36-95d6-0b4fb4979c09.png)
 
 您可以在 Obsidian 的设置中添加自己的替换模式：
 
-![设置](https://cdn.pkmer.cn/covers/obsidian-smart-links_1_3.png!pkmer)
+![设置](https://user-images.githubusercontent.com/2187/206587877-382c293e-8c71-419d-b11b-f2043ff9163b.png)
 
 使用方法
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719244005
-title: Obsidian 插件：【Readme】Chem
+uid: 2023080322154806
+title: Obsidian 插件：Chem
 tags: ['obsidian插件', 'readme']
 description: 提供化学支持。将SMILES字符串转化为化学结构。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Chem
+# Obsidian 插件：Chem
 
 > [!Note] 插件名片
 > - 插件名称：Chem
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Acylation/obsidian-chem/main/README.md)
->
 
 ---
 
@@ -53,14 +52,14 @@ modified: 20230101000000
 
 数据以纯文本形式存储，因此您不会丢失它。即使插件更改其 cheminfo 核心，渲染器仍将正常工作。
 
-![Image](https://cdn.pkmer.cn/covers/chem_1_1.jpeg!pkmer)
+![Image](https://user-images.githubusercontent.com/73122375/235232368-614cb591-a19a-4e1e-94df-781a317d25d0.jpg)
 
 您可以调整图像大小，并在插件的设置页面中配置分子图片的浅色主题和深色主题。
 
 > **注意**
 > 目前，您需要重新打开包含 SMILES 块的活动笔记，以应用新的设置，并适应 Obsidian 的浅色/深色主题更改。
 
-![Image](https://cdn.pkmer.cn/covers/chem_1_2.jpeg!pkmer)
+![Image](https://user-images.githubusercontent.com/73122375/235232505-08386ce2-bc44-4fd6-96b4-22fa9c8c6fbf.jpg)
 
 SMILES 是 Simplified Molecular-Input Line-Entry System 的缩写。它是一种使用线性 ASCII 字符串描述化学结构的规范。您可以从 [官方网站](http://opensmiles.org/opensmiles.html) 或 [Wikipedia](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) 了解更多信息。
 

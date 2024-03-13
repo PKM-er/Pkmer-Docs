@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Canna71/obsidian-readlater/main/README.md)
->
 
 ---
 
@@ -40,7 +39,7 @@ modified: 20230101000000
 用于保存和跟踪网页的离线版本的插件
 
 - 将网页下载为 Markdown 格式
-- 与“Pocket”（<https://getpocket.com）和>“Instapaper”（<https://www.instapaper.com）等稍后阅读服务集成>
+- 与“Pocket”（<https://getpocket.com>）和“Instapaper”（<https://www.instapaper.com>）等稍后阅读服务集成
 - 将笔记映射到网页并保持同步
 
 下载或更新一个页面到 markdown

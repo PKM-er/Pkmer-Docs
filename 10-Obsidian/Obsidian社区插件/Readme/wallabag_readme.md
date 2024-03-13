@@ -1,5 +1,5 @@
 ---
-uid: 2023120719463150
+uid: 2023102611085531
 title: Obsidian 插件：【Readme】Wallabag
 tags: ['obsidian插件', 'readme']
 description: 同步您的Wallabag文章。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/huseyz/obsidian-wallabag/master/README.md)
->
 
 ---
 
@@ -70,7 +69,7 @@ modified: 20230101000000
 
 默认情况下，该插件提供了两个内置模板；一个用于将文章内容作为注释插入，另一个用于在启用选项时创建一个带有指向导出 PDF 的链接的注释。这两个模板都包括指向原始文章的链接、指向 Wallabag 项目的链接和标签。请参见下面的示例：
 
-![](https://cdn.pkmer.cn/covers/wallabag_2_0.png!pkmer)
+![](screenshots/ss1.png)
 
 您可以使用自定义模板，此时插件将传递以下变量。
 
@@ -98,7 +97,7 @@ annotation-target: {{pdf_link}}
 ---
 ```
 
-![](https://cdn.pkmer.cn/covers/wallabag_2_1.png!pkmer)
+![](screenshots/ss2.png)
 
 安装
 

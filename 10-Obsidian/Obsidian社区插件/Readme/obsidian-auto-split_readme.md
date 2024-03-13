@@ -1,6 +1,6 @@
 ---
-uid: 2023120719230129
-title: Obsidian 插件：【Readme】Auto Split
+uid: 2023080322143588
+title: Obsidian 插件：Auto Split
 tags: ['obsidian插件', 'readme']
 description: 使用分割编辑器和预览打开笔记
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Auto Split
+# Obsidian 插件：Auto Split
 
 > [!Note] 插件名片
 > - 插件名称：Auto Split
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 使用分割编辑器和预览打开笔记
 
-![Auto Split](https://cdn.pkmer.cn/covers/obsidian-auto-split_new.gif)
+![Auto Split](https://cdn.pkmer.cn/covers/obsidian-auto-split_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jsartelle/obsidian-auto-split/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 当您的工作区为空时，使用编辑器和预览并排打开笔记。
 
-![](https://cdn.pkmer.cn/covers/obsidian-auto-split_1_0.gif)
+![](https://raw.githubusercontent.com/jsartelle/obsidian-auto-split/master/preview.gif)
 
 ### 更新日志
 

@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/polyipseity/obsidian-modules/main/README.md)
->
 
 ---
 
@@ -38,14 +37,23 @@ modified: 20230101000000
 # Obsidian 模块 [![release](https://img.shields.io/github/v/release/polyipseity/obsidian-modules)][最新版本] [![Obsidian下载量](https://img.shields.io/badge/dynamic/json?logo=Obsidian&color=%238b6cef&label=下载量&query=$["modules"].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json)][社区插件]
 
 [给我买杯咖啡]: <https://buymeacoffee.com/polyipseity>
-[给我买杯咖啡/嵌入]: <https://img.buymeacoffee.com/button-api/?text=给我买杯咖啡&emoji=&slug=polyipseity&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00>
+
+[给我买杯咖啡/嵌入]: <https://img.buymeacoffee.com/button-api/?text>=给我买杯咖啡&emoji=&slug=polyipseity&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00
+
 [Obsidian]: <https://obsidian.md/>
+
 [更新日志]: <https://github.com/polyipseity/obsidian-modules/blob/main/CHANGELOG.md>
+
 [社区插件]: <https://obsidian.md/plugins?id=modules>
+
 [最新版本]: <https://github.com/polyipseity/obsidian-modules/releases/latest>
+
 [其他事项]: <https://github.com/polyipseity/obsidian-monorepo>
+
 [插件库]: <https://github.com/polyipseity/obsidian-plugin-library>
+
 [仓库]: <https://github.com/polyipseity/obsidian-modules>
+
 [预告片]: <https://raw.githubusercontent.com/polyipseity/obsidian-modules/main/assets/trailer.png>
 
 从 Vault 和互联网加载 JavaScript 和相关语言（如 TypeScript）模块。

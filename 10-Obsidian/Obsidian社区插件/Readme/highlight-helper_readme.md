@@ -27,7 +27,6 @@ Helper to collect highlights
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/byfun/obsidian-highlight-helper/main/README.md)
->
 
 ---
 

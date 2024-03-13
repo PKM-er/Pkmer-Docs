@@ -29,7 +29,6 @@ Obsidian 的 Live 预览模式中启用生物阅读模式的插件。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Better-Reading-Mode/master/README.md)
->
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719312085
-title: Obsidian 插件：【Readme】Inline Scripts
+uid: 2023080322203828
+title: Obsidian 插件：Inline Scripts
 tags: ['obsidian插件', 'readme']
 description: 输入文本快捷键，然后用JavaScript生成的文本替换它们。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Inline Scripts
+# Obsidian 插件：Inline Scripts
 
 > [!Note] 插件名片
 > - 插件名称：Inline Scripts
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 输入文本快捷键，然后用 JavaScript 生成的文本替换它们。
 
-![Inline Scripts](https://cdn.pkmer.cn/covers/obsidian-text-expander-js.gif)
+![Inline Scripts](https://cdn.pkmer.cn/covers/obsidian-text-expander-js.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jon-heard/obsidian-inline-scripts/main/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 插件 - 内联脚本（公测版）
 
-![演示动画](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_0.gif)
+![演示动画](readmeMedia/demo.gif)
 
 ***
 
@@ -255,7 +254,7 @@ __Inline Scripts__ 有一个收集了所有当前加载的“帮助”快捷方�
 4. 该设置有两个按钮：“Add shortcut”和“Add defaults”。点击“Add shortcut”按钮。这将在列表底部添加一个快捷方式条目。新条目应包含三个文本框，分别为灰色文本“Test (regex)”，“Expansion (JavaScript)”和“About (text)”。_（见下图）_
 5. 在新条目中输入快捷方式的测试和扩展字符串。建议从一些简单的内容开始，例如：`test` 和 `return "The test worked.";`。关于字符串是可选的，但是对于自动完成功能识别快捷方式是必需的。如果输入了关于字符串，请按照以下格式：语法、破折号、描述。_（见下图）_
 
-    ![快捷方式](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_1.png!pkmer)
+    ![快捷方式](readmeMedia/shortcuts.png)
 
 6. 关闭设置面板。
     - 您可以点击设置面板右上角的 X 按钮来关闭它。
@@ -293,7 +292,7 @@ _（注意 - 快捷文件 "states.sfile" 有 __ 两个 __ 教程视频，一个�
 3. 找到“Shortcut-files”设置。它就在“Shortcut Sources”下方。
 4. 在设置的右侧是“导入完整库”的按钮。单击该按钮，然后单击“确定”按钮。这将触发导入。根据您的互联网连接和设备，可能需要一分钟来下载。
 
-    ![导入完整库](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_2.png!pkmer)
+    ![导入完整库](readmeMedia/importFullLibrary.png)
 
 5. 导入完成后，您应该会看到一堆快捷方式文件条目添加到“Shortcut-files”设置下方（除非它们已经在以前的导入中存在）。关闭设置面板。
     - 您可以点击设置面板右上角的 X 按钮来关闭它。
@@ -321,7 +320,8 @@ _（注意 - 快捷文件 "states.sfile" 有 __ 两个 __ 教程视频，一个�
         - 示例：`support/inlineScripts/state.sfile`。
     4. （可选）关闭条目左侧的切换按钮将禁用此快捷方式文件。这使 __Inline Scripts__ 表现得好像从此列表中删除了快捷方式文件。这对于停止使用快捷方式文件而不完全将其从列表中删除非常有用。
 
-        ![Shortcut-files setting](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_3.png!pkmer)
+
+        ![Shortcut-files setting](readmeMedia/shortcutFiles.png)
 
 6. 关闭设置面板。
     - 您可以点击设置面板右上角的 X 按钮来关闭它。
@@ -368,7 +368,6 @@ _（注意 - 快捷文件 "states.sfile" 有 __ 两个 __ 教程视频，一个�
 > return $1.repeat(5);<br/>
 > __<br/>
 > repeat {to repeat: single character} - 展开为{to repeat}的 5 个重复："aaaaa"。<br/>
->
 
 这个快捷方式文件以一个关于字符串开始，描述了快捷方式文件。在关于字符串之后，它包含两个快捷方式。请注意，第一个 `__` 放在快捷方式文件的关于字符串之后。每个快捷方式文件都有一个关于字符串，包括上面的简单示例，尽管在那种情况下关于字符串为空。还请注意，此快捷方式文件的每个部分之间有空行。__Inline Scripts__ 会忽略快捷方式文件中的空行，因此可以使用它们来组织快捷方式文件。
 
@@ -376,7 +375,7 @@ _（注意 - 快捷文件 "states.sfile" 有 __ 两个 __ 教程视频，一个�
 
 在 __ 内联脚本 __ 设置的底部有一个名为开发者模式的开关（见下图）。当开发者模式打开时，每当您离开一个快捷方式文件笔记时，无论是选择另一个笔记还是关闭快捷方式文件笔记，所有快捷方式都将重新加载。这样，您可以编辑快捷方式文件笔记，然后转到另一个笔记以尝试您的更改，而无需手动刷新任何内容。建议除非您正在积极开发快捷方式文件，否则将 " 开发者模式 " 关闭，因为切换笔记时会有轻微的延迟。
 
-![开发者模式](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_4.png!pkmer)
+![开发者模式](readmeMedia/devMode.png)
 
 ### 帮助快捷方式
 
@@ -388,7 +387,7 @@ __Inline Scripts__ 插件在 Obsidian 上添加了一个可选面板，您可以
 
 ### 按钮面板用户界面概述
 
-![按钮面板](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_5.png!pkmer)
+![按钮面板](readmeMedia/buttonPanel_1.png)
 
 1. __按钮界面：按钮帮助__ - 切换“帮助模式”。在帮助模式下，单击任何快捷按钮（#6）将显示与按钮相关的帮助文本。
 2. __按钮界面：添加按钮__ - 将快捷按钮添加到列表中。
@@ -408,7 +407,7 @@ __Inline Scripts__ 插件在 Obsidian 上添加了一个可选面板，您可以
 
 ### 快捷按钮的选项
 
-![ShortcutButtonSettings](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_6.png!pkmer)
+![ShortcutButtonSettings](readmeMedia/buttonPanel_2.png)
 
 1. __显示文本__ - 在按钮前面显示的文本
 2. __快捷文本__ - 当点击按钮时将运行的快捷方式。可以包含 "???" 块，每个块都将用文本输入弹出窗口来解析，询问用户要用什么替换 "???"。一旦所有的 "???" 都被替换，就会运行快捷方式。
@@ -482,7 +481,7 @@ __Inline Scripts__ 插件允许在笔记中编写链接，当点击时，将运�
 4. 在控制台打开的情况下，尝试在便签中输入快捷方式，看看是否会在控制台中添加错误。您可以查看错误消息以找出问题所在的线索。
 5. 如果控制台中的信息太多而困扰，您可以随时清除它。在开发工具面板的左上角有一个清除按钮。 _(见下图)_
 
-    ![控制台](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_7.png!pkmer)
+    ![控制台](readmeMedia/console.png)
 
 ***
 
@@ -621,7 +620,7 @@ expFormat 的完整定义实际上是 `expFormat(expansionString, skipPrefix, sk
 
 请注意，除非在插件选项中打开 " 允许外部 " 开关设置，否则 runExternal 函数将始终失败并显示授权错误。默认情况下，该设置是关闭的。
 
-![允许外部设置](https://cdn.pkmer.cn/covers/obsidian-text-expander-js_2_8.png!pkmer)
+![允许外部设置](readmeMedia/allowExternal.png)
 
 ### 示例
 

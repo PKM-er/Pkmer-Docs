@@ -24,12 +24,11 @@ modified: 20230101000000
 
 创建/管理您的日常、每周和每月笔记
 
-![Periodic Notes](https://cdn.pkmer.cn/covers/periodic-notes.gif)
+![Periodic Notes](https://cdn.pkmer.cn/covers/periodic-notes.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/liamcain/obsidian-periodic-notes/main/README.md)
->
 
 ---
 

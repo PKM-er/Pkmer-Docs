@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LordGrimmauld/aw-watcher-obsidian/master/README.md)
->
 
 ---
 
@@ -51,4 +50,4 @@ aw-watcher-obsidian 是一个 ActivityWatch 观察者，用于监视 Obsidian va
 
 ## 鸣谢
 
-为了构建此项目中使用的观察者 API，我紧密遵循了官方 API 的指导，网址为<https://github.com/ActivityWatch/aw-client-js。>
+为了构建此项目中使用的观察者 API，我紧密遵循了官方 API 的指导，网址为<https://github.com/ActivityWatch/aw-client-js>。

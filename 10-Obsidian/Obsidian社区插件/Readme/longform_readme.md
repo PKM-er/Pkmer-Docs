@@ -1,6 +1,6 @@
 ---
-uid: 2023120719352243
-title: Obsidian 插件：【Readme】Longform
+uid: 2023080322214824
+title: Obsidian 插件：Longform
 tags: ['文件管理', 'obsidian插件', 'readme']
 description: Obsidian 插件，可帮助您编写和编辑小说、剧本和其他长期项目。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Longform
+# Obsidian 插件：Longform
 
 > [!Note] 插件名片
 > - 插件名称：Longform
@@ -29,7 +29,6 @@ Obsidian 插件，可帮助您编写和编辑小说、剧本和其他长期项�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kevboh/longform/main/README.md)
->
 
 ---
 
@@ -61,12 +60,12 @@ Longform 通过搜索您的保险库，查找包含名为 `longform` 的前置�
 
 1. 首先，在你的保险库中找到或创建一个文件夹，你想在其中创建你的小说。右键点击它，选择“创建长篇项目”。
 
-![创建长篇项目菜单项](https://cdn.pkmer.cn/covers/longform_2_0.png!pkmer)
+![创建长篇项目菜单项](./docs/res/walkthrough-create-longform-project.png)
 
 1. 一个“创建项目”对话框将出现。这个对话框让我们在多场景和单场景项目类型之间进行选择。我们正在创建一部小说，所以我们将选择多场景。项目类型切换下方的文本解释了每种类型项目的工作原理。
 2. 在“标题”字段中，输入你的小说标题。在这个例子中，我们将使用“我的伟大小说”。对话框告诉我们我们正在创建的项目类型以及它将在我们的保险库中创建的索引文件的位置。我们将在稍后了解索引文件是什么。
 
-![填写完整的多场景项目创建对话框](https://cdn.pkmer.cn/covers/longform_2_1.png!pkmer)
+![填写完整的多场景项目创建对话框](./docs/res/walkthrough-create-multi.png)
 
 > **注意**
 >
@@ -74,11 +73,11 @@ Longform 通过搜索您的保险库，查找包含名为 `longform` 的前置�
 
 1. 点击“创建”。Longform 已经创建了承诺的文件。如果我们切换到侧边栏中的 [长篇面板](./docs/THE_LONGFORM_PANE.md)，项目已经被选中。你应该看到三个选项卡：场景、项目和编译，而场景应该被选中。
 
-![在长篇面板中新创建的项目](https://cdn.pkmer.cn/covers/longform_2_2.png!pkmer)
+![在长篇面板中新创建的项目](./docs/res/walkthrough-multi-fresh-pane.png)
 
 1. 那个“新场景”占位符是一个文本字段 - 点击它并输入一些听起来像小说第一场景的东西，比如“太阳升起在都柏林”，然后按回车键。现在你应该正在编辑一个以这个名字命名的笔记，你的场景应该出现在场景选项卡中：
 
-![带有新创建场景的“我的伟大小说”小说](https://cdn.pkmer.cn/covers/longform_2_3.png!pkmer)
+![带有新创建场景的“我的伟大小说”小说](./docs/res/multi-walkthrough-2.png)
 
 1. 你的编辑器现在也已经打开并准备好写作。如果你点击项目名称下的小小的“我的伟大小说/Index.md”链接，你将被带回到索引文件，你将在“scenes”前置元数据条目下看到你的新场景列表：
 
@@ -103,7 +102,7 @@ Longform 还支持作为笔记库中的单个笔记存在的 [单场景项目](.
 1. 如前所述，右键单击包含的文件夹，然后选择“创建 Longform 项目”菜单项。
 2. 在创建项目对话框中，选择“Single”。让我们写一些黑色电影风格的东西，称之为“在屋顶上”。
 
-![在创建项目对话框中创建单场景Longform项目](https://cdn.pkmer.cn/covers/longform_2_4.png!pkmer)
+![在创建项目对话框中创建单场景Longform项目](./docs/res/walkthrough-create-single.png)
 
 1. 点击创建。因为这是一个单场景项目，只有一个与之关联的笔记，Longform 会自动打开它。顶部的 frontmatter 告诉 Longform 如何跟踪你的项目；我们将在笔记本中编写故事。
 2. 写下你的故事！当你准备好时，可以使用编译选项卡生成手稿。单场景项目可以按任意顺序使用场景和手稿步骤。

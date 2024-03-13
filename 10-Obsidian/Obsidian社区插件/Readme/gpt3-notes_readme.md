@@ -1,6 +1,6 @@
 ---
-uid: 2023120719295863
-title: Obsidian 插件：【Readme】GPT Notes
+uid: 2023080322192502
+title: Obsidian 插件：GPT Notes
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI的GPT-3语言模型生成任何主题的笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】GPT Notes
+# Obsidian 插件：GPT Notes
 
 > [!Note] 插件名片
 > - 插件名称：GPT Notes
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 使用 OpenAI 的 GPT-3 语言模型生成任何主题的笔记。
 
-![GPT Notes](https://cdn.pkmer.cn/covers/gpt3-notes_new.gif)
+![GPT Notes](https://cdn.pkmer.cn/covers/gpt3-notes_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/micahke/obsidian-gpt3-notes/master/README.md)
->
 
 ---
 
@@ -71,7 +70,7 @@ GPT-3 能够生成许多不同类型的笔记。目前来说，插入 Obsidian �
 
 加载时间已经有所减少，这里是一个示例：
 
-![usage](https://cdn.pkmer.cn/covers/gpt3-notes_1_1.gif)
+![usage](https://github.com/micahke/obsidian-gpt3-notes/raw/master/example.gif)
 
 ## 贡献
 

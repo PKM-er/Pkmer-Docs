@@ -1,6 +1,6 @@
 ---
-uid: 2023120719261695
-title: Obsidian 插件：【Readme】Daily Named Folder
+uid: 2023080322170194
+title: Obsidian 插件：Daily Named Folder
 tags: ['笔记文件处理', '日志类', 'obsidian插件', 'readme']
 description: 每日笔记，但嵌套在每日文件夹中，并附有一行摘要，更适合附件管理和快速浏览。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Daily Named Folder
+# Obsidian 插件：Daily Named Folder
 
 > [!Note] 插件名片
 > - 插件名称：Daily Named Folder
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 每日笔记，但嵌套在每日文件夹中，并附有一行摘要，更适合附件管理和快速浏览。
 
-![Daily Named Folder](https://cdn.pkmer.cn/covers/obsidian-daily-named-folder_new.gif)
+![Daily Named Folder](https://cdn.pkmer.cn/covers/obsidian-daily-named-folder_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/NemoAndrea/obsidian-daily-named-folder/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 > 使用本插件可能（可能）无法与其他依赖于 `daily-notes` 默认实现的插件（如 `Calendar`）一起使用，并且可能会对命名文件夹感到困惑。
 
-![apple](https://cdn.pkmer.cn/covers/obsidian-daily-named-folder_1_0.gif)
+![apple](https://i.imgur.com/RWckxI8.gif)
 
 该插件实现了 `daily-notes` 插件的大部分功能，并添加了一些新功能：
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719311889
+uid: 2023120522254386
 title: Obsidian 插件：【Readme】Inline Encrypter
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中加密秘密信息。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/solargate/obsidian-inline-encrypter/master/README.md)
->
 
 ---
 
@@ -49,11 +48,11 @@ modified: 20230101000000
 
 编辑模式：
 
-![编辑模式](https://cdn.pkmer.cn/covers/inline-encrypter_2_0.png!pkmer)
+![编辑模式](docs/images/screen_01_edit.png)
 
 阅读模式：
 
-![阅读模式](https://cdn.pkmer.cn/covers/inline-encrypter_2_1.png!pkmer)
+![阅读模式](docs/images/screen_02_read.png)
 
 还支持实时预览模式。
 
@@ -64,7 +63,7 @@ modified: 20230101000000
 1. 在编辑模式下选择要加密的文本。
 2. 从命令面板中运行**加密所选文本**。
 
-![Commands](https://cdn.pkmer.cn/covers/inline-encrypter_2_2.png!pkmer)
+![Commands](docs/images/screen_03_command.png)
 
 1. 输入加密密码。
 2. 您还可以运行**将所选文本加密为代码块**命令，将其加密为常见的代码块。
@@ -73,14 +72,14 @@ modified: 20230101000000
 
 1. 要在笔记文本中查看解密后的值而不解密它，只需在阅读模式下单击按钮。
 
-![按钮](https://cdn.pkmer.cn/covers/inline-encrypter_2_3.png!pkmer)
+![按钮](docs/images/screen_04_button.png)
 
 1. 输入解密密码。
 2. 要解密笔记文本中的秘密，请在编辑模式下选择整个代码块。
 
-![在内联代码块中选择秘密](https://cdn.pkmer.cn/covers/inline-encrypter_2_4.png!pkmer)
+![在内联代码块中选择秘密](docs/images/screen_05_secret_select.png)
 
-![在常规代码块中选择秘密](https://cdn.pkmer.cn/covers/inline-encrypter_2_5.png!pkmer)
+![在常规代码块中选择秘密](docs/images/screen_06_secret_select_block.png)
 
 1. 从命令面板中运行**解密所选文本**。
 2. 输入解密密码。

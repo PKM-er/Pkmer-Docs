@@ -24,12 +24,11 @@ modified: 20230101000000
 
 创建电子表格并轻松地将它们嵌入到 Markdown 中。
 
-![Excel](https://cdn.pkmer.cn/covers/excel.gif)
+![Excel](https://cdn.pkmer.cn/covers/excel.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ljcoder2015/obsidian-excel/master/README.md)
->
 
 ---
 

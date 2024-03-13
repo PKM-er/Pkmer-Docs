@@ -1,6 +1,6 @@
 ---
-uid: 2023120719444029
-title: Obsidian 插件：【Readme】Thumbnails
+uid: 2023080322281709
+title: Obsidian 插件：Thumbnails
 tags: ['obsidian插件', 'readme']
 description: 将 YouTube 缩略图插入您的笔记中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Thumbnails
+# Obsidian 插件：Thumbnails
 
 > [!Note] 插件名片
 > - 插件名称：Thumbnails
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 将 YouTube 缩略图插入您的笔记中。
 
-![Thumbnails](https://cdn.pkmer.cn/covers/obsidian-thumbnails.gif)
+![Thumbnails](https://cdn.pkmer.cn/covers/obsidian-thumbnails.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Meikul/obsidian-thumbnails/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 适用于 Youtube 和 Vimeo。
 
-![GIF演示如何使用该插件创建缩略图](https://cdn.pkmer.cn/covers/obsidian-thumbnails_1_2.gif)
+![GIF演示如何使用该插件创建缩略图](https://raw.githubusercontent.com/Meikul/obsidian-thumbnails/master/demo_images/block_demo.gif)
 
 ## 使用方法
 

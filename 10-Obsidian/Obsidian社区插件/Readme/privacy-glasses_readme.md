@@ -1,6 +1,6 @@
 ---
-uid: 2023120719404738
-title: Obsidian 插件：【Readme】Privacy Glasses
+uid: 2023080322250288
+title: Obsidian 插件：Privacy Glasses
 tags: ['安全', 'obsidian插件', 'readme']
 description: 提供按钮或者快捷键，来让你快速模糊屏幕上的文本，以提高隐私安全。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Privacy Glasses
+# Obsidian 插件：Privacy Glasses
 
 > [!Note] 插件名片
 > - 插件名称：Privacy Glasses
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 提供按钮或者快捷键，来让你快速模糊屏幕上的文本，以提高隐私安全。
 
-![Privacy Glasses](https://cdn.pkmer.cn/covers/privacy-glasses.gif)
+![Privacy Glasses](https://cdn.pkmer.cn/covers/privacy-glasses.GIF!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jillalberts/privacy-glasses/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 Obsidian 的 " 隐私眼镜 " 插件。在公共场合工作时保护您的隐私！
 
-![](https://cdn.pkmer.cn/covers/privacy-glasses_1_0.gif)
+![](https://raw.githubusercontent.com/jillalberts/privacy-glasses/master/assets/screencast.gif)
 
 <https://github.com/jillalberts/privacy-glasses>
 

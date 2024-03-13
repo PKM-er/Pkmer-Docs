@@ -1,6 +1,6 @@
 ---
-uid: 2023120719233104
-title: Obsidian 插件：【Readme】Bellboy
+uid: 2023080322145806
+title: Obsidian 插件：Bellboy
 tags: ['obsidian插件', 'readme']
 description: 具有主见的文件结构管理器。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Bellboy
+# Obsidian 插件：Bellboy
 
 > [!Note] 插件名片
 > - 插件名称：Bellboy
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/shakedlokits/obsidian-bellboy/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ Bellboy 会查找你的文件中的第一个标题，将其转换为 `kebab-case
 
 此外，如果添加了 `icon` 的前置元数据，该图标也会添加到名称中，以便更容易找到你的文件。
 
-![Renamer](https://cdn.pkmer.cn/covers/obsidian-bellboy_1_0.jpeg!pkmer)
+![Renamer](https://raw.githubusercontent.com/shakedlokits/obsidian-bellboy/master/docs/example.jpg)
 
 但为什么呢？为了保持文件系统无关的命名方案，我选择使用 `kebab-case` 作为我们的主要命名约定风格。为了支持更好的视觉效果，我还添加了前置图标 (!)，这些图标已集成到文件名中。
 
@@ -57,7 +56,7 @@ Bellboy 试图实现“Idea Processor”方法指南，旨在通过自动管理�
 
 它通过在您更新元数据时查找其状态并将文件移动到相应的文件夹中来实现这一点。
 
-![结构](https://cdn.pkmer.cn/covers/obsidian-bellboy_2_0.jpeg!pkmer)
+![结构](docs/structure.jpg)
 
 #### 创意处理器
 

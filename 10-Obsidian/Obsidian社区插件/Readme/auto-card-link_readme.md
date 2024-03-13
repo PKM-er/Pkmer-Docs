@@ -1,6 +1,6 @@
 ---
-uid: 2023120719225299
-title: Obsidian 插件：【Readme】Auto Card Link
+uid: 2023080322142587
+title: Obsidian 插件：Auto Card Link
 tags: ['obsidian插件', 'readme']
 description: 自动从网址获取元数据，并将其作为卡片样式的链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Auto Card Link
+# Obsidian 插件：Auto Card Link
 
 > [!Note] 插件名片
 > - 插件名称：Auto Card Link
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 自动从网址获取元数据，并将其作为卡片样式的链接。
 
-![Auto Card Link](https://cdn.pkmer.cn/covers/auto-card-link.gif)
+![Auto Card Link](https://cdn.pkmer.cn/covers/auto-card-link.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nekoshita/obsidian-auto-card-link/main/README.md)
->
 
 ---
 
@@ -42,7 +41,7 @@ modified: 20230101000000
 - 自动从 URL 获取元数据，并将其作为卡片样式的链接。
 - 卡片样式的链接是通过代码块生成的，不会像 HTML 标签一样混乱你的 Markdown 文件！
 
-![](https://cdn.pkmer.cn/covers/auto-card-link_2_0.gif)
+![](demo.gif)
 
 # 功能
 

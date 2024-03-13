@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/juliang22/ObsidianTimestampNotes/master/README.md)
->
 
 ---
 
@@ -96,4 +95,4 @@ modified: 20230101000000
 
 其他作者
 
-该插件使用了 react-player npm 包：<https://www.npmjs.com/package/react-player。>
+该插件使用了 react-player npm 包：<https://www.npmjs.com/package/react-player>。

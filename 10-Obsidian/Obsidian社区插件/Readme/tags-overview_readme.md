@@ -1,5 +1,5 @@
 ---
-uid: 2023120719441141
+uid: 2023102611083698
 title: Obsidian 插件：【Readme】Tags Overview
 tags: ['obsidian插件', 'readme']
 description: 添加了一个扩展标签面板，可以简单地查看、过滤和访问已标记的文件。
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 添加了一个扩展标签面板，可以简单地查看、过滤和访问已标记的文件。
 
-![Tags Overview](https://cdn.pkmer.cn/covers/tags-overview.gif)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/christianwannerstedt/obsidian-tags-overview/main/README.md)
->
 
 ---
 
@@ -57,7 +54,7 @@ modified: 20230101000000
 
 如果一个文件包含标签 `#vehicle` 和 `#car`，那么搜索 `#vehicle` 将在结果中显示这两个标签。然而，只包含 `#car` 标签的文件将不会出现在列表中。
 
-![related-tags](https://cdn.pkmer.cn/covers/tags-overview_1_0.gif)
+![related-tags](https://github.com/christianwannerstedt/obsidian-tags-overview/assets/25314/9ed3edd0-b6a3-4669-aec1-6bc9158d93ad)
 
 ### 嵌套标签
 
@@ -67,7 +64,7 @@ modified: 20230101000000
 
 选择表格视图或更简约的列表视图。表格视图将显示文件上次修改的日期。可以在插件设置中更改日期的格式。
 
-![display-types](https://cdn.pkmer.cn/covers/tags-overview_1_1.gif)
+![display-types](https://github.com/christianwannerstedt/obsidian-tags-overview/assets/25314/bc677992-f1e9-4eb3-93bb-59955aee7120)
 
 ### 过滤器
 

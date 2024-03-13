@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/alangrainger/obsidian-share/main/README.md)
->
 
 ---
 
@@ -95,4 +94,4 @@ Obsidian 的免费、加密的公共笔记分享。笔记在发送到服务器�
 
 归属
 
-加密代码基于<https://github.com/mcndt/obsidian-quickshare> 上的代码，表示感谢。>
+加密代码基于<https://github.com/mcndt/obsidian-quickshare>上的代码，表示感谢。

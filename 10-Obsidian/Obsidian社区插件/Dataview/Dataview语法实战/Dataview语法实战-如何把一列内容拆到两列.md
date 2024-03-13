@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240309131803
 ---
 
 # Dataview 语法实战 - 如何把一列内容拆到两列

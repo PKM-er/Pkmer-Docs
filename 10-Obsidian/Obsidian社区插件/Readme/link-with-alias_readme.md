@@ -1,6 +1,6 @@
 ---
-uid: 2023120719350847
-title: Obsidian 插件：【Readme】Link with alias
+uid: 2023080322213257
+title: Obsidian 插件：Link with alias
 tags: ['obsidian插件', 'readme']
 description: 在目标文档的前置元数据中创建链接和别名。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Link with alias
+# Obsidian 插件：Link with alias
 
 > [!Note] 插件名片
 > - 插件名称：Link with alias
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在目标文档的前置元数据中创建链接和别名。
 
-![Link with alias](https://cdn.pkmer.cn/covers/link-with-alias.gif)
+![Link with alias](https://cdn.pkmer.cn/covers/link-with-alias.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pvojtechovsky/obsidian-link-with-alias/main/README.md)
->
 
 ---
 
@@ -56,27 +55,27 @@ modified: 20230101000000
 
 A) ... 用户可以从自动完成弹出窗口中选择一个值，按 Enter 键，链接和别名就会被创建。
 
-![运行命令，按Enter键，完成](https://cdn.pkmer.cn/covers/link-with-alias_2_0.gif)
+![运行命令，按Enter键，完成](use-case1.gif)
 
 B) ... 用户可以编辑链接目标，然后从自动完成弹出窗口中选择一个值，按 Enter 键，链接和别名就会被创建。请注意，链接文本保持不变。
 
-![运行命令，编辑链接，选择自动完成，按Enter键，完成](https://cdn.pkmer.cn/covers/link-with-alias_2_1.gif)
+![运行命令，编辑链接，选择自动完成，按Enter键，完成](use-case5.gif)
 
 C) ... 用户可以输入新笔记的名称，让光标离开链接，然后新笔记会自动创建，链接显示文本作为别名。
 
-![运行命令，编辑链接，离开链接，完成](https://cdn.pkmer.cn/covers/link-with-alias_2_2.gif)
+![运行命令，编辑链接，离开链接，完成](use-case6.gif)
 
 为现有链接添加别名
 
 用户将光标放置在现有链接中，并运行“创建带有别名的链接”命令。该命令会创建目标文档（如果不存在），并将链接显示文本作为别名添加到目标笔记的前置元数据中。
 
-![在链接中运行命令，完成](https://cdn.pkmer.cn/covers/link-with-alias_2_3.gif)
+![在链接中运行命令，完成](use-case2.gif)
 
 创建全新链接
 
 用户将光标放在文本中并运行命令“使用别名创建链接”。它会创建链接括号并打开自动完成弹出窗口，以输入链接目标名称。用户输入目标名称或别名的一部分并通过回车键选择后，链接将被创建。如果没有显示文本并且用户返回到链接并输入一个，则系统会检测到它，并在光标离开括号或用户关闭窗口后，将链接显示文本添加为目标笔记的别名到前置事项中。虽然支持这种用例，但通常更快地先编写没有链接的文本，然后再进行**在现有文本上创建链接**。
 
-![运行命令，选择目标，按Enter键，将光标移回，写入别名，离开链接，完成](https://cdn.pkmer.cn/covers/link-with-alias_2_4.gif)
+![运行命令，选择目标，按Enter键，将光标移回，写入别名，离开链接，完成](use-case3.gif)
 
 # 设置
 
@@ -92,7 +91,7 @@ B) 或者链接目标是否保持为空，以便您可以立即输入目标笔�
 - 别名按照从长到短的顺序排序，以便正确检测 Obsidian 的反向链接
 - 链接自动完成弹出窗口是 Obsidian 提供的标准窗口。有时它会自动替换链接文本，但在这种情况下并不需要。" 使用别名创建链接 " 操作将保持链接文本与之前完全相同。
 
-![运行命令，按 Enter，完成](https://cdn.pkmer.cn/covers/link-with-alias_2_5.gif)
+![运行命令，按 Enter，完成](use-case4.gif)
 
 关于我
 

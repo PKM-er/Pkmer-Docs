@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sblakey/obsidian-quip/master/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 # Obsidian 的 Quip 插件
 
-这是一个简单的 Obsidian 插件（<https://obsidian.md），用于与> Quip（Salesforce 的轻量级文档工具，而不是牙刷）进行通信。>
+这是一个简单的 Obsidian 插件（<https://obsidian.md>），用于与 Quip（Salesforce 的轻量级文档工具，而不是牙刷）进行通信。
 
 **注意：** Obsidian API 仍处于早期测试阶段，随时可能发生变化！
 

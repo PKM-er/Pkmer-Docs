@@ -1,6 +1,6 @@
 ---
-uid: 2023120719433495
-title: Obsidian 插件：【Readme】Squiggle
+uid: 2023080322272065
+title: Obsidian 插件：Squiggle
 tags: ['obsidian插件', 'readme']
 description: 使用Squiggle在你的笔记中进行概率估计。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Squiggle
+# Obsidian 插件：Squiggle
 
 > [!Note] 插件名片
 > - 插件名称：Squiggle
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jqhoogland/obsidian-squiggle/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 只有在执行完成后才会显示结果。现在无法在执行的程序中输入命令行文本。
 
-![演示](https://cdn.pkmer.cn/covers/squiggle_2_0.png!pkmer)
+![演示](docs/demo.png)
 
 在预览中运行
 

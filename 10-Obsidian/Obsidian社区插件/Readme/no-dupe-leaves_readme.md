@@ -1,6 +1,6 @@
 ---
-uid: 2023120719370898
-title: Obsidian 插件：【Readme】No Dupe Leaves
+uid: 2023080322225421
+title: Obsidian 插件：No Dupe Leaves
 tags: ['obsidian插件', 'readme']
 description: 不要重新打开已经打开的笔记
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】No Dupe Leaves
+# Obsidian 插件：No Dupe Leaves
 
 > [!Note] 插件名片
 > - 插件名称：No Dupe Leaves
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/scambier/obsidian-no-dupe-leaves/master/README.md)
->
 
 ---
 
@@ -61,9 +60,9 @@ Obsidian 的默认行为是在打开新笔记 `B` 时替换旧笔记 `A`，
 
 ---
 
-![image](https://cdn.pkmer.cn/covers/no-dupe-leaves_1_1.png!pkmer)
+![image](https://user-images.githubusercontent.com/3216752/206014202-16e23b60-979f-4680-aae3-66054d2f82d7.png)
 
-![](https://cdn.pkmer.cn/covers/no-dupe-leaves_1_2.gif)
+![](https://raw.githubusercontent.com/scambier/obsidian-no-dupe-leaves/master/images/nodupes.gif)
 
 ## 贡献
 

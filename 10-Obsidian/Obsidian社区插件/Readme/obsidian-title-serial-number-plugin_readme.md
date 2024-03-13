@@ -1,6 +1,6 @@
 ---
-uid: 2023120719450743
-title: Obsidian 插件：【Readme】Title Serial Number Plugin
+uid: 2023080322282586
+title: Obsidian 插件：Title Serial Number Plugin
 tags: ['obsidian插件', 'readme']
 description: 该插件为您的Markdown标题添加序列号。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Title Serial Number Plugin
+# Obsidian 插件：Title Serial Number Plugin
 
 > [!Note] 插件名片
 > - 插件名称：Title Serial Number Plugin
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 该插件为您的 Markdown 标题添加序列号。
 
-![Title Serial Number Plugin](https://cdn.pkmer.cn/covers/obsidian-title-serial-number-plugin.gif)
+![Title Serial Number Plugin](https://cdn.pkmer.cn/covers/obsidian-title-serial-number-plugin.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yalvhe2009/obsidian-title-serial-number-plugin/main/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 该插件为您的 Markdown 标题添加了序列号。
 
-![快速开始](https://cdn.pkmer.cn/covers/obsidian-title-serial-number-plugin_1_0.gif)
+![快速开始](https://raw.githubusercontent.com/yalvhe2009/obsidian-title-serial-number-plugin/master/assets/quick-start.gif)
 
 现在，该插件仅提供两个命令及其图形界面进行配置！
 
@@ -50,7 +49,7 @@ modified: 20230101000000
   - `清除标题的序列号`
 - 配置界面：
 
-![配置界面](https://cdn.pkmer.cn/covers/obsidian-title-serial-number-plugin_1_1.png!pkmer)
+![配置界面](https://raw.githubusercontent.com/yalvhe2009/obsidian-title-serial-number-plugin/master/assets/configuration-interface-v0_0_2.png)
 
 关于配置
 

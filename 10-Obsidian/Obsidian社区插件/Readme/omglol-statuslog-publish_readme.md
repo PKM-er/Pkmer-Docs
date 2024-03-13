@@ -1,5 +1,5 @@
 ---
-uid: 2023120719393765
+uid: 2023120522262561
 title: Obsidian 插件：【Readme】Omg.publish
 tags: ['obsidian插件', 'readme']
 description: 将选定的文本发布到OMG.lol状态日志的Obsidian插件
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MayMeow/obsidian-omglol-statuslog/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 Omg.publish 是 Obsidian 的插件，允许您将笔记发布到 omg.lol 的服务（如 statuslog 或 weblog（计划中））。
 
-![](https://cdn.pkmer.cn/covers/omglol-statuslog-publish_2_0.png!pkmer)
+![](screenshot1.png)
 
 安装（进行中）
 
@@ -49,13 +48,13 @@ Omg.publish 是 Obsidian 的插件，允许您将笔记发布到 omg.lol 的服�
 
 ## 插件设置
 
-您需要从<https://home.omg.lol/account（向下滚动到底部）获取您的用户名和> API 令牌。>
+您需要从<https://home.omg.lol/account>（向下滚动到底部）获取您的用户名和 API 令牌。
 
 您还可以更改在发布没有星号表情符号的文本时的默认表情符号。
 
 如果您不想将状态同时发布到 Mastodon，您可以启用跳过 Mastodon 发布设置。默认情况下，此选项是禁用的。
 
-![](https://cdn.pkmer.cn/covers/omglol-statuslog-publish_2_1.png!pkmer)
+![](screenshot2.png)
 
 将要发布到状态日志的任何文本选择并使用 `CTRL+P`（Windows）或类似的键盘快捷键打开命令面板，具体取决于您的操作系统。查找“发布到状态日志”操作。
 

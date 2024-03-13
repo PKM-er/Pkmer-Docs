@@ -1,6 +1,6 @@
 ---
-uid: 2023120719350500
-title: Obsidian 插件：【Readme】Link Nodes in Canvas
+uid: 2023080322212957
+title: Obsidian 插件：Link Nodes in Canvas
 tags: ['白板相关', 'obsidian插件', 'readme']
 description: 一个插件，可以根据它们之间的链接，在Canvas上为您添加边缘。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Link Nodes in Canvas
+# Obsidian 插件：Link Nodes in Canvas
 
 > [!Note] 插件名片
 > - 插件名称：Link Nodes in Canvas
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 一个插件，可以根据它们之间的链接，在 Canvas 上为您添加边缘。
 
-![Link Nodes in Canvas](https://cdn.pkmer.cn/covers/link-nodes-in-canvas.gif)
+![Link Nodes in Canvas](https://cdn.pkmer.cn/covers/link-nodes-in-canvas.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Link-Nodes-In-Canvas/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 ## 展示
 
-![展示](https://cdn.pkmer.cn/covers/link-nodes-in-canvas_1_0.gif)
+![展示](https://raw.githubusercontent.com/Quorafind/obsidian-link-nodes-in-canvas/master/LinkNodes.gif)
 
 # 如何安装
 

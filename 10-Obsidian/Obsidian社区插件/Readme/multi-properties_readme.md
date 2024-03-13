@@ -1,5 +1,5 @@
 ---
-uid: 2023120719365763
+uid: 2023120522261655
 title: Obsidian 插件：【Readme】Multi Properties
 tags: ['obsidian插件', 'readme']
 description: 一次性为多个笔记添加属性。要么右键单击文件夹，要么选择多个笔记并右键单击选择。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/fez-github/obsidian-multi-properties/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 ## 演示
 
-![多属性演示 0-10-1](https://cdn.pkmer.cn/covers/multi-properties_1_0.gif)
+![多属性演示 0-10-1](https://github.com/fez-github/obsidian-multi-properties/assets/75589254/1356b2d4-16f3-42e9-a398-bc940c83b399)
 
 ## 安装
 

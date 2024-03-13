@@ -24,12 +24,11 @@ modified: 20230101000000
 
 为 Obsidian 常见操作添加快捷键，如有序无序列表切换，任务是否完成，快速变为引用，快速复制当前行。
 
-![Hotkeys++](https://cdn.pkmer.cn/covers/hotkeysplus-obsidian.gif)
+![Hotkeys++](https://cdn.pkmer.cn/covers/hotkeysplus-obsidian.GIF!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/argenos/hotkeysplus-obsidian/master/README.md)
->
 
 ---
 

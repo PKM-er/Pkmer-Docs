@@ -1,6 +1,6 @@
 ---
-uid: 2023120719351262
-title: Obsidian 插件：【Readme】Linked Data Vocabularies
+uid: 2023080322213423
+title: Obsidian 插件：Linked Data Vocabularies
 tags: ['obsidian插件', 'readme']
 description: 将国会图书馆主题词表（LCSH）作为元数据添加到您的笔记中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Linked Data Vocabularies
+# Obsidian 插件：Linked Data Vocabularies
 
 > [!Note] 插件名片
 > - 插件名称：Linked Data Vocabularies
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kometenstaub/linked-data-vocabularies/main/README.md)
->
 
 ---
 
@@ -48,9 +47,9 @@ modified: 20230101000000
 > 它允许您向笔记中添加链接数据。
 > 请参阅 [@brimwats](https://github.com/brimwats) 的 [解释](#explanation-of-linked-data) 以更好地理解链接数据。
 
-![modal](https://cdn.pkmer.cn/covers/linked-data-vocabularies_2_0.png!pkmer)
+![modal](./assets/modal.png)
 
-![result](https://cdn.pkmer.cn/covers/linked-data-vocabularies_2_1.png!pkmer)
+![result](assets/result.png)
 
 目前，支持 Library of Congress Subject Headings。
 
@@ -227,4 +226,4 @@ LCSH 没有“古代腓尼基神”，所以就有了分部！分部是跟在第
 
 ## 鸣谢
 
-该插件使用了 'fuzzysort' npm 模块（<https://www.npmjs.com/package/fuzzysort，https://github.com/farzher/fuzzysort）。许可证文件可以在[这里](https://github.com/kometenstaub/obsidian-linked-data-vocabularies/blob/main/esbuild.mjs)找到。>
+该插件使用了 'fuzzysort' npm 模块（<https://www.npmjs.com/package/fuzzysort>，<https://github.com/farzher/fuzzysort>）。许可证文件可以在 [这里](https://github.com/kometenstaub/obsidian-linked-data-vocabularies/blob/main/esbuild.mjs) 找到。

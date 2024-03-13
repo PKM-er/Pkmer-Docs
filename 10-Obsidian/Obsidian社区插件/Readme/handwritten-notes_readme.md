@@ -1,5 +1,5 @@
 ---
-uid: 2023120719301794
+uid: 2023102611075761
 title: Obsidian 插件：【Readme】Handwritten Notes
 tags: ['obsidian插件', 'readme']
 description: 在您的保险库中注释PDF并创建手写笔记。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/FBarrca/obsidian-handwritten-notes/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 这是插件的演示，展示了如何创建新的笔记以及如何对现有笔记进行注释。它有点过时，但基本功能仍然相同。
 
-[![观看插件演示](https://cdn.pkmer.cn/covers/handwritten-notes_1_0.jpeg!pkmer)](https://youtu.be/dkdKeCJzVQA)
+[![观看插件演示](https://img.youtube.com/vi/dkdKeCJzVQA/default.jpg)](https://youtu.be/dkdKeCJzVQA)
 
 ## 🚀 特性
 

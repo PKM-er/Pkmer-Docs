@@ -1,5 +1,5 @@
 ---
-uid: 2023120719273639
+uid: 2023120522245443
 title: Obsidian 插件：【Readme】Epub Importer
 tags: ['obsidian插件', 'readme']
 description: 将EPUB文件导入为Markdown格式。
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 将 EPUB 文件导入为 Markdown 格式。
 
-![Epub Importer](https://cdn.pkmer.cn/covers/epub-importer.gif)
+![Epub Importer](https://cdn.pkmer.cn/covers/epub-importer.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aoout/obsidian-epub-importer/master/README.md)
->
 
 ---
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 
 这样您就可以直接在 Obsidian 中阅读书籍，并进行一些标记、链接和笔记。
 
-![](https://cdn.pkmer.cn/covers/epub-importer_2_0.gif)
+![](assets/demo.gif)
 
 ### 属性模板
 

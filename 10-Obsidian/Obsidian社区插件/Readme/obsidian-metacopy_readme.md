@@ -1,6 +1,6 @@
 ---
-uid: 2023120719362789
-title: Obsidian 插件：【Readme】Metacopy & URL
+uid: 2023080322222770
+title: Obsidian 插件：Metacopy & URL
 tags: ['obsidian插件', 'readme']
 description: 复制一个前文键的值。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Metacopy & URL
+# Obsidian 插件：Metacopy & URL
 
 > [!Note] 插件名片
 > - 插件名称：Metacopy & URL
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 复制一个前文键的值。
 
-![Metacopy & URL](https://cdn.pkmer.cn/covers/obsidian-metacopy.gif)
+![Metacopy & URL](https://cdn.pkmer.cn/covers/obsidian-metacopy.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Lisandra-dev/obsidian-metacopy/master/README.md)
->
 
 ---
 
@@ -54,7 +53,7 @@ modified: 20230101000000
 
 以下是插件的演示效果：
 
-![presentation.gif](https://cdn.pkmer.cn/covers/obsidian-metacopy_2_0.gif)
+![presentation.gif](docs/presentation.gif)
 
 # 链接创建者
 
@@ -127,9 +126,9 @@ modified: 20230101000000
 
 要在 Metacopy 中使用 Obsidian2mkdocs，需要进行以下配置：
 
-![](https://cdn.pkmer.cn/covers/obsidian-metacopy_2_1.png!pkmer)
+![](docs/metacopy3.png)
 
-![](https://cdn.pkmer.cn/covers/obsidian-metacopy_2_2.png!pkmer)
+![](docs/metacopy2.png)
 
 此模板允许像在 Notion 或 Google Docs 中那样复制链接。
 
@@ -142,7 +141,7 @@ share: true
 ```
 
 [这是一个演示](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d)：
-[![点击查看视频！](https://cdn.pkmer.cn/covers/obsidian-metacopy_2_3.gif)](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d)
+[![点击查看视频！](docs/demo.gif)](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d)
 ---
 
 该插件的灵感来自于 [Copy Publish URL](https://github.com/kometenstaub/copy-publish-url)，但适用于所有链接（而不仅仅是发布链接）。

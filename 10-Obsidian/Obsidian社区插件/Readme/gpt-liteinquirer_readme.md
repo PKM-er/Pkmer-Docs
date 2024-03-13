@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ittuann/obsidian-gpt-liteinquirer-plugin/master/README.md)
->
 
 ---
 
@@ -47,13 +46,20 @@ modified: 20230101000000
 
 [![Downloads][downloads-image]][downloads-url]
 
-[ci-image]: <https://img.shields.io/github/actions/workflow/status/ittuann/obsidian-gpt-liteinquirer-plugin/CI.yml?branch=master&label=构建状态&logo=github&style=for-the-badge>
+[ci-image]: <https://img.shields.io/github/actions/workflow/status/ittuann/obsidian-gpt-liteinquirer-plugin/CI.yml?branch=master&label>=构建状态&logo=github&style=for-the-badge
+
 [ci-url]: <https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin>
-[code-scanning-image]: <https://img.shields.io/github/actions/workflow/status/ittuann/obsidian-gpt-liteinquirer-plugin/CodeQL.yml?branch=master&label=代码扫描&logo=github&style=for-the-badge>
+
+[code-scanning-image]: <https://img.shields.io/github/actions/workflow/status/ittuann/obsidian-gpt-liteinquirer-plugin/CodeQL.yml?branch=master&label>=代码扫描&logo=github&style=for-the-badge
+
 [code-scanning-url]: <https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin>
-[tag-image]: <https://img.shields.io/github/v/release/ittuann/obsidian-gpt-liteinquirer-plugin?branch=master&label=发布标签&logo=github&style=for-the-badge>
+
+[tag-image]: <https://img.shields.io/github/v/release/ittuann/obsidian-gpt-liteinquirer-plugin?branch=master&label>=发布标签&logo=github&style=for-the-badge
+
 [tag-url]: <https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin/releases/latest>
+
 [downloads-image]: <https://img.shields.io/github/downloads/ittuann/obsidian-gpt-liteinquirer-plugin/total?logo=github&style=for-the-badge>
+
 [downloads-url]: <https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin/releases/latest>
 
 </div>

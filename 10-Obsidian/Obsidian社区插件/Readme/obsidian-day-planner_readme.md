@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/obsidian-day-planner/main/README.md)
->
 
 ---
 
@@ -116,6 +115,8 @@ Day Planner 的标题和 `---` 规则用于标识 Day Planner 的范围。必须
 任务列表项的格式很重要，因为这是用来计算每个任务的时间和任务之间的间隔的。使用的格式应该是：
 
  `- [ ] HH:mm 任务文本`
+
+
 
  **应使用 24 小时制。**
 

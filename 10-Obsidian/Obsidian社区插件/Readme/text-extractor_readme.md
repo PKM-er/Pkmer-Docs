@@ -1,6 +1,6 @@
 ---
-uid: 2023120719442853
-title: Obsidian 插件：【Readme】Text Extractor
+uid: 2023080322280482
+title: Obsidian 插件：Text Extractor
 tags: ['obsidian插件', 'readme']
 description: 一个（伴侣）插件，用于帮助从图像（OCR）和PDF中提取文本。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Text Extractor
+# Obsidian 插件：Text Extractor
 
 > [!Note] 插件名片
 > - 插件名称：Text Extractor
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/scambier/obsidian-text-extractor/master/README.md)
->
 
 ---
 
@@ -40,11 +39,9 @@ modified: 20230101000000
 # Obsidian 文本提取器
 
 [![赞助我](https://img.shields.io/badge/%E2%9D%A4%20喜欢这个插件吗%3F-赞助我！-ff69b4)](https://github.com/sponsors/scambier)
-
 ![Obsidian插件](https://img.shields.io/endpoint?url=https%3A%2F%2Fscambier.xyz%2Fobsidian-endpoints%2Ftext-extractor.json)
 
 ![GitHub发布（按日期和文件）](https://img.shields.io/github/downloads/scambier/obsidian-text-extractor/latest/main.js)
-
 ![GitHub发布（按日期和预发布）](https://img.shields.io/github/v/release/scambier/obsidian-text-extractor)
 
 ![GitHub发布（按日期和预发布）](https://img.shields.io/github/v/release/scambier/obsidian-text-extractor?include_prereleases&label=BRAT%20beta)
@@ -63,7 +60,7 @@ modified: 20230101000000
 
 **Text Extractor**是一个“伴侣”插件。它主要在与其他插件（如 [Omnisearch](https://github.com/scambier/obsidian-omnisearch)）一起使用时非常有用，但您也可以使用它快速从**图像和 PDF**中提取文本。
 
-![](https://cdn.pkmer.cn/covers/text-extractor_1_5.png!pkmer)
+![](https://raw.githubusercontent.com/scambier/obsidian-text-extractor/master/images/context_menu.png)
 
 支持的文件类型：
 

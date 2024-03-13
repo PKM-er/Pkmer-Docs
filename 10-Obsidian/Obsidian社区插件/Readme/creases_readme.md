@@ -1,6 +1,6 @@
 ---
-uid: 2023120719254824
-title: Obsidian 插件：【Readme】Creases
+uid: 2023080322164090
+title: Obsidian 插件：Creases
 tags: ['界面相关', '美化', 'obsidian插件', 'readme']
 description: 让笔记显示的标题，显示折叠功能图表
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Creases
+# Obsidian 插件：Creases
 
 > [!Note] 插件名片
 > - 插件名称：Creases
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/liamcain/obsidian-creases/main/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 用于在 Obsidian 中高效折叠 Markdown 部分的工具。
 
-![creases-overview](https://cdn.pkmer.cn/covers/creases_1_0.png!pkmer)
+![creases-overview](https://user-images.githubusercontent.com/693981/156103767-33f311de-39ac-422d-b8ea-987ea9c63f7b.png)
 
 在 Markdown 中添加 `%% fold %%` 标记来 " 折叠 " 您的内容。然后运行**沿折叠线折叠**以将文件调整到所需状态。
 

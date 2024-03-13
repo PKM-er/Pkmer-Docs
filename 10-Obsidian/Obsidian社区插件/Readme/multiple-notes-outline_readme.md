@@ -1,5 +1,5 @@
 ---
-uid: 2023120719370139
+uid: 2023102611081413
 title: Obsidian 插件：【Readme】Multiple Notes Outline
 tags: ['obsidian插件', 'readme']
 description: 添加自定义视图，显示多个带有标题、链接、标签和列表项的笔记的轮廓。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/iiz00/obsidian-multiple-notes-outline/master/README.md)
->
 
 ---
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 - 文件夹视图
 	- 列出特定文件夹中包含的文件的大纲。
 
-我之前创建了一个名为 Daily Note Outline Plugin（<https://github.com/iiz00/obsidian-daily-note-outline）的插件，它列出了多个日记的大纲，而这个插件是该插件针对常规文件的改编。>
+我之前创建了一个名为 Daily Note Outline Plugin（<https://github.com/iiz00/obsidian-daily-note-outline>）的插件，它列出了多个日记的大纲，而这个插件是该插件针对常规文件的改编。
 
 ## 用法
 
@@ -66,7 +65,7 @@ modified: 20230101000000
 列出活动文件的大纲以及与之连接的任何文件。<br>
 当另一个文件成为活动文件时，视图会更新，除非默认情况下是通过在 MNO 视图中点击项目引起的。<br>
 如果您希望视图在通过在 MNO 视图中点击导航到另一个文件时也更新，请在设置的文件视图部分关闭“通过点击视图项目暂停更新”选项。<br>
-![文件视图截图](https://cdn.pkmer.cn/covers/multiple-notes-outline_2_0.png!pkmer)
+![文件视图截图](others/MNOfileviewSS.png)
 
 ### 文件夹视图
 
@@ -74,7 +73,7 @@ modified: 20230101000000
 
 ### UI 图标
 
-![UI图标](https://cdn.pkmer.cn/covers/multiple-notes-outline_2_1.png!pkmer)<br>
+![UI图标](others/UIicon.png)<br>
 点击刷新图标可以聚焦当前活动文件或者在需要重新绘制视图时使用。
 
 齿轮图标打开设置窗口。右键点击可以打开上下文菜单以快速更改一些设置。<br>
@@ -163,17 +162,17 @@ MNO 实现了两种类型的预览：内联预览和工具提示预览，每种�
 
 列出了活动文件以及与该文件相关联的文件的大纲视图。<br>
 当从文件资源管理器或编辑器内的链接移动到另一个文件时，视图会被更新。但是，默认情况下，如果通过点击 MNO 视图列表中的项目来移动到另一个文件，则不会更新视图。如果您希望在点击列表并移动时也更新视图，请将设置中的“通过点击视图项目暂停更新”选项关闭。<br>
-![文件视图截图](https://cdn.pkmer.cn/covers/multiple-notes-outline_2_0.png!pkmer)
+![文件视图截图](others/MNOfileviewSS.png)
 
 ### 文件夹视图
 
 在启动时，将显示包含活动文件的文件夹中文件的大纲列表。此视图仅在单击更新图标时才会更新。
 
-![文件视图截图](https://cdn.pkmer.cn/covers/multiple-notes-outline_2_3.png!pkmer)
+![文件视图截图](others/MNOfolderviewSS.png)
 
 ### UI 图标
 
-![UI图标](https://cdn.pkmer.cn/covers/multiple-notes-outline_2_1.png!pkmer)<br>
+![UI图标](others/UIicon.png)<br>
 点击更新图标可将焦点放在当前活动文件上，或在需要重新绘制时点击。<br>
 点击齿轮图标可打开设置界面。右键单击可快速切换一些选项。<br>
 点击 H、链接、列表和反向链接图标可切换各自大纲元素的显示/隐藏。<br>

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719225588
-title: Obsidian 插件：【Readme】Auto Classifier
+uid: 2023080322142774
+title: Obsidian 插件：Auto Classifier
 tags: ['obsidian插件', 'readme']
 description: 使用ChatGPT API自动对您的笔记进行标签分类。它会分析您的笔记（可以是标题、前言、内容或选定区域），并在您设置的位置自动插入标签。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Auto Classifier
+# Obsidian 插件：Auto Classifier
 
 > [!Note] 插件名片
 > - 插件名称：Auto Classifier
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 使用 ChatGPT API 自动对您的笔记进行标签分类。它会分析您的笔记（可以是标题、前言、内容或选定区域），并在您设置的位置自动插入标签。
 
-![Auto Classifier](https://cdn.pkmer.cn/covers/auto-classifier_new.gif)
+![Auto Classifier](https://cdn.pkmer.cn/covers/auto-classifier_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HyeonseoNam/auto-classifier/main/README.md)
->
 
 ---
 
@@ -71,19 +70,19 @@ modified: 20230101000000
 
 ### 使用案例＃1：**选定区域** &rightarrow; **当前光标**
 
-![](https://cdn.pkmer.cn/covers/auto-classifier_2_0.gif)
+![](img/selected_to_cursor.gif)
 
 ### 使用案例＃2：**内容** &rightarrow; **FrontMatter**
 
-![](https://cdn.pkmer.cn/covers/auto-classifier_2_1.gif)
+![](img/content_to_frontmatter.gif)
 
 ### 使用案例＃3：**FrontMatter** &rightarrow; **Title**
 
-![](https://cdn.pkmer.cn/covers/auto-classifier_2_2.gif)
+![](img/frontmatter_to_totle.gif)
 
 ### 使用案例＃4：**标题** &rightarrow; **FrontMatter**
 
-![](https://cdn.pkmer.cn/covers/auto-classifier_2_3.gif)
+![](img/title_to_frontmatter.gif)
 
 ### DDC 编号分类
 

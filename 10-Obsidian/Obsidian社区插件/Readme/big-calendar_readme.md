@@ -27,7 +27,6 @@ Obsidian 的大尺寸日历功能。您的日常笔记或任务中的所有事�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Big-Calendar/main/README.md)
->
 
 ---
 

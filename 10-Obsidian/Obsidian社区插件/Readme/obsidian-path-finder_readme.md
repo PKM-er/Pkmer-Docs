@@ -1,6 +1,6 @@
 ---
-uid: 2023120719400719
-title: Obsidian 插件：【Readme】Path Finder
+uid: 2023080322243437
+title: Obsidian 插件：Path Finder
 tags: ['obsidian插件', 'readme']
 description: 一个可以查找两个节点之间的所有路径并将其渲染为图形或文本的插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Path Finder
+# Obsidian 插件：Path Finder
 
 > [!Note] 插件名片
 > - 插件名称：Path Finder
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 一个可以查找两个节点之间的所有路径并将其渲染为图形或文本的插件。
 
-![Path Finder](https://cdn.pkmer.cn/covers/obsidian-path-finder_new.gif)
+![Path Finder](https://cdn.pkmer.cn/covers/obsidian-path-finder_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jerrywcy/obsidian-path-finder/master/README.md)
->
 
 ---
 
@@ -66,7 +65,7 @@ modified: 20230101000000
 
 ### 查找两个文件之间的最短路径
 
-![查找最短路径](https://cdn.pkmer.cn/covers/obsidian-path-finder_2_0.gif)
+![查找最短路径](assets/find-shortest-path.gif)
 
 **起始文件：** 从哪个文件开始。使用从存储库根目录到文件的完整路径。
 
@@ -74,7 +73,7 @@ modified: 20230101000000
 
 ### 在图形中找到所有文件之间的路径
 
-![在图形中找到所有路径](https://cdn.pkmer.cn/covers/obsidian-path-finder_2_1.gif)
+![在图形中找到所有路径](assets/find-all-paths-as-graph.gif)
 
 **从：** 起始文件。使用从存储库根目录到文件的完整路径。
 
@@ -86,7 +85,7 @@ modified: 20230101000000
 
 ### 查找所有路径
 
-![查找所有路径](https://cdn.pkmer.cn/covers/obsidian-path-finder_2_2.gif)
+![查找所有路径](assets/find-all-paths.gif)
 
 **起始文件：** 从哪个文件开始。使用从保险库根目录到文件的完整路径。
 
@@ -100,12 +99,12 @@ modified: 20230101000000
 
 - `genericTextSuggester.ts` 和 `suggest.ts` 来自 [phibr0/obsidian-dictionary](https://github.com/phibr0/obsidian-dictionary)。
 - `d3ForceGraphWithLabels.ts` 来自 d3Gallery 中的示例，并进行了适应，其链接如下：
-    - <https://observablehq.com/@d3/force-directed-graph>
-    - <https://observablehq.com/@d3/force-directed-graph-canvas>
-    - <https://observablehq.com/@d3/mobile-patent-suits>
-    - <https://observablehq.com/@d3/sticky-force-layout>
-    - <https://observablehq.com/@d3/zoom>
-    - <https://observablehq.com/@d3/temporal-force-directed-graph>
+    - <https://observablehq.com/>@d3/force-directed-graph
+    - <https://observablehq.com/>@d3/force-directed-graph-canvas
+    - <https://observablehq.com/>@d3/mobile-patent-suits
+    - <https://observablehq.com/>@d3/sticky-force-layout
+    - <https://observablehq.com/>@d3/zoom
+    - <https://observablehq.com/>@d3/temporal-force-directed-graph
     - 上述示例遵循 ISC 许可证，版权信息如下：
         - 版权所有 2021 年 Observable, Inc.
         - 在 ISC 许可下发布。

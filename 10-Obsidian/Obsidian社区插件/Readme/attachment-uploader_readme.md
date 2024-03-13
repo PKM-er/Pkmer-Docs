@@ -27,7 +27,6 @@ Attachment uploader 插件，允许您自定义上传命令，自定义上传文
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zhuxining/obsidian-attachment-uploader/master/README.md)
->
 
 ---
 

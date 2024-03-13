@@ -1,6 +1,6 @@
 ---
-uid: 2023120719262742
-title: Obsidian 插件：【Readme】Dangerzone Writing
+uid: 2023080322170656
+title: Obsidian 插件：Dangerzone Writing
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 这个插件很危险！当你开始它时，你必须不停地写100秒。如果你停下来，思考和环顾四周，3秒钟后，插件将删除你在这个笔记中写的内容。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Dangerzone Writing
+# Obsidian 插件：Dangerzone Writing
 
 > [!Note] 插件名片
 > - 插件名称：Dangerzone Writing
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 这个插件很危险！当你开始它时，你必须不停地写 100 秒。如果你停下来，思考和环顾四周，3 秒钟后，插件将删除你在这个笔记中写的内容。
 
-![Dangerzone Writing](https://cdn.pkmer.cn/covers/dangerzone-writing-plugin_new.gif)
+![Dangerzone Writing](https://cdn.pkmer.cn/covers/dangerzone-writing-plugin.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/akaalias/dangerzone-writing-plugin/master/README.md)
->
 
 ---
 
@@ -63,7 +62,7 @@ modified: 20230101000000
 
 这是一个示例会话：
 
-![](https://cdn.pkmer.cn/covers/dangerzone-writing-plugin_1_0.gif)
+![](https://github.com/akaalias/dangerzone-writing-plugin/blob/master/dangerzone_demo.gif?raw=true)
 
 何时使用 Dangerzone 写作
 

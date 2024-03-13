@@ -24,12 +24,11 @@ modified: 20230101000000
 
 使用 ctrl+u 给文字增加下划线。该插件在新版版本下会出现错误。
 
-![Underline](https://cdn.pkmer.cn/covers/obsidian-underline.gif)
+![Underline](https://cdn.pkmer.cn/covers/obsidian-underline.GIF!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Benature/obsidian-underline/main/README.md)
->
 
 ---
 

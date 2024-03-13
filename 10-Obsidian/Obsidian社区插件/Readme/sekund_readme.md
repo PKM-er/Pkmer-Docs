@@ -1,6 +1,6 @@
 ---
-uid: 2023120719381523
-title: Obsidian 插件：【Readme】Obsidian Social (Sekund)
+uid: 2023080322234356
+title: Obsidian 插件：Obsidian Social (Sekund)
 tags: ['obsidian插件', 'readme']
 description: 分享笔记并收集反馈
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Social (Sekund)
+# Obsidian 插件：Obsidian Social (Sekund)
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Social (Sekund)
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 分享笔记并收集反馈
 
-![Obsidian Social (Sekund)](https://cdn.pkmer.cn/covers/sekund.png!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Sekund/sekund-plugin-react/main/README.md)
->
 
 ---
 
@@ -41,7 +38,7 @@ modified: 20230101000000
 
 ## Obsidian 社交插件
 
-![screenshot-full](https://cdn.pkmer.cn/covers/sekund_2_0.png!pkmer)
+![screenshot-full](screenshot-full.png)
 
 ### 创建一个账户
 

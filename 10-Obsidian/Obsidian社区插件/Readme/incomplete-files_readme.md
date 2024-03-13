@@ -1,5 +1,5 @@
 ---
-uid: 2023120719311425
+uid: 2023120522254210
 title: Obsidian 插件：【Readme】Incomplete files
 tags: ['obsidian插件', 'readme']
 description: 基于规则的跟踪您的未完成文件
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-incomplete-files/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 ✅ 强大而简单
 
-![CleanShot 2023-11-17 at 14 22 52](https://cdn.pkmer.cn/covers/incomplete-files_1_0.gif)
+![CleanShot 2023-11-17 at 14 22 52](https://github.com/HananoshikaYomaru/obsidian-incomplete-files/assets/43137033/a9555c5a-7ac4-47d1-bd32-1066a009deab)
 
 演示：<https://www.youtube.com/watch?v=GO3N-IdBNVA&ab_channel=YomaruHananoshika>
 

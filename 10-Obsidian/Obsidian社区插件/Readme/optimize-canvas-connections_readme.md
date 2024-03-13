@@ -1,6 +1,6 @@
 ---
-uid: 2023120719395174
-title: Obsidian 插件：【Readme】Optimize Canvas Connections
+uid: 2023080322241440
+title: Obsidian 插件：Optimize Canvas Connections
 tags: ['obsidian插件', 'readme']
 description: 一个插件，通过使用最近的边重新连接笔记来简化画布。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Optimize Canvas Connections
+# Obsidian 插件：Optimize Canvas Connections
 
 > [!Note] 插件名片
 > - 插件名称：Optimize Canvas Connections
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/felixchenier/obsidian-optimize-canvas-connections/master/README.md)
->
 
 ---
 
@@ -41,11 +40,11 @@ modified: 20230101000000
 
 假设你开始一个画布。
 
-![图1](https://cdn.pkmer.cn/covers/optimize-canvas-connections_1_0.png!pkmer)
+![图1](https://github.com/felixchenier/obsidian-optimize-canvas-connections/raw/master/images/fig1.png)
 
 然后你在头脑风暴时移动所有的东西。笔记之间的连接可能很快变得一团糟。
 
-![图2](https://cdn.pkmer.cn/covers/optimize-canvas-connections_1_1.png!pkmer)
+![图2](https://github.com/felixchenier/obsidian-optimize-canvas-connections/raw/master/images/fig2.png)
 
 这个简单的插件会自动重新连接笔记，使用它们最近的边缘。
 
@@ -57,7 +56,7 @@ modified: 20230101000000
 
 `Optimize Canvas Connections: Optimize selection (shortest path)`
 
-![图3](https://cdn.pkmer.cn/covers/optimize-canvas-connections_1_2.png!pkmer)
+![图3](https://github.com/felixchenier/obsidian-optimize-canvas-connections/raw/master/images/fig3.png)
 
 最短路径选项重新连接笔记，使用它们最近的边，始终使用最短路径。这是最激进的方法。
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719415565
-title: Obsidian 插件：【Readme】Reveal Active File Button
+uid: 2023080322260572
+title: Obsidian 插件：Reveal Active File Button
 tags: ['obsidian插件', 'readme']
 description: 在文件资源管理器的顶部添加一个按钮，以显示活动文件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Reveal Active File Button
+# Obsidian 插件：Reveal Active File Button
 
 > [!Note] 插件名片
 > - 插件名称：Reveal Active File Button
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/claremacrae/reveal-active-file-button-plugin/main/README.md)
->
 
 ---
 
@@ -65,11 +64,11 @@ modified: 20230101000000
 
 要使 Obsidian 文件浏览器/导航器滚动以显示您的活动文件，请单击十字准线图标：
 
-![RevealActiveFile](https://cdn.pkmer.cn/covers/reveal-active-file-button_2_0.png!pkmer)
+![RevealActiveFile](docs/images/reveal-active-file-icon.png)
 
 结果如下：
 
-![ActiveFileRevealed](https://cdn.pkmer.cn/covers/reveal-active-file-button_2_1.png!pkmer)
+![ActiveFileRevealed](docs/images/active-file-highlighted.png)
 
 ## 提示
 
@@ -93,7 +92,7 @@ modified: 20230101000000
 - [Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all)
   - 此插件可折叠和展开文件浏览器
   - 它与此插件兼容：两者都可以安装，并且可以一起使用，如下图所示：
-  ![collapse-all-and-reveal-active](https://cdn.pkmer.cn/covers/reveal-active-file-button_2_2.png!pkmer)
+  ![collapse-all-and-reveal-active](docs/images/collapse-all-and-reveal-active.png)
 - [Automatically Reveal Active File](https://github.com/shichongrui/obsidian-reveal-active-file)
   - 如果您希望始终显示活动文件，请使用此插件
   - 并且您不介意 Obsidian 跳转到其他视图，如搜索结果或标签面板

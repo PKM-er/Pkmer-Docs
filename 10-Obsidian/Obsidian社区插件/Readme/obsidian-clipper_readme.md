@@ -1,6 +1,6 @@
 ---
-uid: 2023120719374462
-title: Obsidian 插件：【Readme】Obsidian Clipper
+uid: 2023080322231921
+title: Obsidian 插件：Obsidian Clipper
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以帮助你从网络上捕捉精彩瞬间。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Clipper
+# Obsidian 插件：Obsidian Clipper
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Clipper
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 这个插件可以帮助你从网络上捕捉精彩瞬间。
 
-![Obsidian Clipper](https://cdn.pkmer.cn/covers/obsidian-clipper.gif)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jgchristopher/obsidian-clipper/main/README.md)
->
 
 ---
 
@@ -49,7 +46,7 @@ Obsidian Clipper 可以配置为写入每日笔记、每周笔记或两者兼备
 
 如何使用
 
-![默认行为](https://cdn.pkmer.cn/covers/obsidian-clipper_2_0.gif)
+![默认行为](./gifs/default.gif)
 
 ## 网络使用通知
 
@@ -77,7 +74,7 @@ Obsidian Clipper 提供了一个选项，可以下载一个基于 Chrome 的浏�
 
 先前的工作和灵感
 
-我最初是从修改这个 [Obsidian论坛帖子](https://forum.obsidian.md/t/obsidian-web-clipper-bookmarklet-with-full-markdown-support-for-images-headings-and-code-blocks/22068) 中找到的 Gist 中得到这个想法的。
+我最初是从修改这个 [Obisdian论坛帖子](https://forum.obsidian.md/t/obsidian-web-clipper-bookmarklet-with-full-markdown-support-for-images-headings-and-code-blocks/22068) 中找到的 Gist 中得到这个想法的。
 
 我使用了以下 Obsidian 插件仓库作为实现我的目标的示例。
 

@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dominiczaq/obsidian-plugin-time-diff/master/README.md)
->
 
 ---
 
@@ -35,7 +34,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-plugin-time-diff]] 插件的自述翻译
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件。>
+这是一个为 Obsidian（<https://obsidian.md>）开发的插件。
 
 ## 如何使用
 

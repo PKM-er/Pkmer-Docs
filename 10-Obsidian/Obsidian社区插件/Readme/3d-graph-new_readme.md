@@ -1,5 +1,5 @@
 ---
-uid: 2023120719214750
+uid: 2023120522241146
 title: Obsidian 插件：【Readme】3D Graph New
 tags: ['obsidian插件', 'readme']
 description: 一个用于黑曜石的3D图表
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-3d-graph/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 Obsidian 3D Graph（Yomaru）
 
-![Obsidian 3D graph](https://cdn.pkmer.cn/covers/3d-graph-new_1_0.jpeg!pkmer)
+![Obsidian 3D graph](https://github.com/HananoshikaYomaru/obsidian-3d-graph/assets/43137033/c8a501e8-c5b6-4622-b5df-2a2335609cae)
 
 一个带有许多功能的 Obsidian 3D 图表！
 
@@ -154,7 +153,7 @@ body {
 }
 ```
 
-![](https://cdn.pkmer.cn/covers/3d-graph-new_1_2.jpeg!pkmer)
+![](https://share.cleanshot.com/Ld9xzBJ4+)
 
 ### 功能路线图
 
@@ -175,9 +174,9 @@ body {
 ## 注意事项
 
 1. 我一直免费开发这个项目。我尽量优先考虑功能而不是花哨的东西。我也根据 ICE（影响力、信心、努力）来优先处理任务。
-2. 我还有其他正在进行的项目。我需要开源的帮手。赞助将给我动力，代码贡献者也非常受欢迎。我愿意通过<https://cal.com/manlung> 进行讨论。>
+2. 我还有其他正在进行的项目。我需要开源的帮手。赞助将给我动力，代码贡献者也非常受欢迎。我愿意通过<https://cal.com/manlung>进行讨论。
 3. 如果您有任何问题或功能请求，请在 Github 上提出问题。
-如果您喜欢这个插件，请通过在 Github 上赞助我或在<https://www.buymeacoffee.com/yomaru> 上给我买杯咖啡来支持我的工作和热情。>
+如果您喜欢这个插件，请通过在 Github 上赞助我或在<https://www.buymeacoffee.com/yomaru>上给我买杯咖啡来支持我的工作和热情。
 
  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/hananoshikayomaru)
 

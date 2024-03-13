@@ -1,6 +1,6 @@
 ---
-uid: 2023120719401018
-title: Obsidian 插件：【Readme】PDF Highlights
+uid: 2023080322243783
+title: Obsidian 插件：PDF Highlights
 tags: ['转换工具', 'PDF', 'obsidian插件', 'readme']
 description: 允许从 pdf 中的高亮和下划线文本中，提取内容到你的笔记文件中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】PDF Highlights
+# Obsidian 插件：PDF Highlights
 
 > [!Note] 插件名片
 > - 插件名称：PDF Highlights
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/akaalias/obsidian-extract-pdf-highlights/master/README.md)
->
 
 ---
 
@@ -51,11 +50,11 @@ modified: 20230101000000
 
 ### 默认设置的演示
 
-![简单](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-highlights_1_0.gif)
+![简单](https://github.com/akaalias/obsidian-extract-pdf-highlights/blob/main/simple.gif?raw=true)
 
 ### 所有可选设置都打开的演示
 
-![设置](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-highlights_1_1.gif)
+![设置](https://github.com/akaalias/obsidian-extract-pdf-highlights/blob/main/settings.gif?raw=true)
 
 ### 可选设置
 

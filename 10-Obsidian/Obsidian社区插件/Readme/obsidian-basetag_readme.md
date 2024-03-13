@@ -1,6 +1,6 @@
 ---
-uid: 2023120719232656
-title: Obsidian 插件：【Readme】Base Tag Renderer
+uid: 2023080322145516
+title: Obsidian 插件：Base Tag Renderer
 tags: ['obsidian插件', 'readme']
 description: 这个插件在预览模式下渲染标签的基本名称。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Base Tag Renderer
+# Obsidian 插件：Base Tag Renderer
 
 > [!Note] 插件名片
 > - 插件名称：Base Tag Renderer
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 这个插件在预览模式下渲染标签的基本名称。
 
-![Base Tag Renderer](https://cdn.pkmer.cn/covers/obsidian-basetag.gif)
+![Base Tag Renderer](https://cdn.pkmer.cn/covers/obsidian-basetag.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/darrenkuro/obsidian-basetag/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 它还附加了一个新的类名（`basename-tag`），因此可以为其添加自定义样式。
 
-![](https://cdn.pkmer.cn/covers/obsidian-basetag_2_0.gif)
+![](pic/basetag.gif)
 
 上述示例应用的自定义 CSS 样式 -
 

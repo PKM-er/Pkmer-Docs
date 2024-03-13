@@ -1,6 +1,6 @@
 ---
-uid: 2023120719394544
-title: Obsidian 插件：【Readme】Open Plugin Settings
+uid: 2023080322240989
+title: Obsidian 插件：Open Plugin Settings
 tags: ['obsidian插件', 'readme']
 description: 创建一个命令来打开指定的插件设置。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Open Plugin Settings
+# Obsidian 插件：Open Plugin Settings
 
 > [!Note] 插件名片
 > - 插件名称：Open Plugin Settings
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 创建一个命令来打开指定的插件设置。
 
-![Open Plugin Settings](https://cdn.pkmer.cn/covers/open-plugin-settings.gif)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Lisandra-dev/open-plugin-settings-commands/master/README.md)
->
 
 ---
 
@@ -51,7 +48,7 @@ modified: 20230101000000
 
 从设置中，您还可以刷新列表以删除已删除的插件，并禁用已禁用插件的命令。
 
-![gif演示](https://cdn.pkmer.cn/covers/open-plugin-settings_1_0.gif)
+![gif演示](https://user-images.githubusercontent.com/30244939/234854311-7da05061-2646-43c0-bd42-38fa50121d13.gif)
 
 您还可以使用 `Open other plugin settings` 命令打开任何未注册的插件，并搜索要打开的插件。
 

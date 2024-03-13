@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Git-Sum/obsidian-tckr/master/README.md)
->
 
 ---
 
@@ -55,7 +54,7 @@ modified: 20230101000000
 	2. 使用以下设置创建一个新的应用
 		- 名称: `tckr`
 	3. 编辑应用以添加重定向 URL
-		- OAuth 重定向 URL: http://localhost/
+		- OAuth 重定向 URL: <http://localhost/>
 	4. 记下你的 `clientId` 和 `clientSecret`
 - 在 Obsidian 中安装 `tckr` 插件
 - 添加你的 `clientId` 和 `clientSecret`

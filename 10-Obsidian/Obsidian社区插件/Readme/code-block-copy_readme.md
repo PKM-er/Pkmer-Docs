@@ -1,6 +1,6 @@
 ---
-uid: 2023120719253102
-title: Obsidian 插件：【Readme】Copy button for code blocks
+uid: 2023080322163661
+title: Obsidian 插件：Copy button for code blocks
 tags: ['样式工具', '界面相关', '编辑工具', 'obsidian插件', 'readme']
 description: 为代码块添加一个可见的复制按钮
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Copy button for code blocks
+# Obsidian 插件：Copy button for code blocks
 
 > [!Note] 插件名片
 > - 插件名称：Copy button for code blocks
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jdbrice/obsidian-code-block-copy/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，在预览模式下为代码块提供复制按钮。
 
-![截图](https://cdn.pkmer.cn/covers/code-block-copy_1_0.png!pkmer)
+![截图](https://github.com/jdbrice/obsidian-code-block-copy/raw/main/screenshot.png)
 
 与 "Editor Syntax Highlight" 和 "Calendar" 插件一起展示。
 
@@ -78,7 +77,6 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
-
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api) 以 Typescript 定义格式，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -92,7 +90,6 @@ modified: 20230101000000
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将该仓库克隆到您的插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
-
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 # 版本历史

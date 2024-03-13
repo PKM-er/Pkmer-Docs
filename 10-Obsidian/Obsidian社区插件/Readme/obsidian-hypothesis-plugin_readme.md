@@ -27,7 +27,6 @@ and notes 同步您的假设重点和笔记
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/weichenw/obsidian-hypothesis-plugin/master/README.md)
->
 
 ---
 

@@ -27,7 +27,6 @@ Obsidian 中的 Syncthing 集成。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/LBF38/obsidian-syncthing-integration/master/README.md)
->
 
 ---
 

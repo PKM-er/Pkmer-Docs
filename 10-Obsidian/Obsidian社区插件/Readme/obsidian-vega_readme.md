@@ -1,6 +1,6 @@
 ---
-uid: 2023120719460411
-title: Obsidian 插件：【Readme】Vega Visualizations
+uid: 2023080322291306
+title: Obsidian 插件：Vega Visualizations
 tags: ['obsidian插件', 'readme']
 description: 用于渲染 Vega 或 Vega-Lite 数据可视化图，如折线图和散点图。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Vega Visualizations
+# Obsidian 插件：Vega Visualizations
 
 > [!Note] 插件名片
 > - 插件名称：Vega Visualizations
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Justin-J-K/obsidian-vega/master/README.md)
->
 
 ---
 
@@ -66,7 +65,7 @@ modified: 20230101000000
 ```
 ~~~
 
-![柱状图示例](https://cdn.pkmer.cn/covers/obsidian-vega_2_0.png!pkmer)
+![柱状图示例](assets/example1.png)
 
 ### 使用 Vega 绘制折线图
 
@@ -120,7 +119,7 @@ modified: 20230101000000
 ```
 ~~~
 
-![折线图示例](https://cdn.pkmer.cn/covers/obsidian-vega_2_1.png!pkmer)
+![折线图示例](assets/example2.png)
 
 致谢
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719312675
-title: Obsidian 插件：【Readme】Itinerary
+uid: 2023080322204183
+title: Obsidian 插件：Itinerary
 tags: ['obsidian插件', 'readme']
 description: 通过从您的笔记中渲染日历，可以更轻松地规划您的旅行或活动。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Itinerary
+# Obsidian 插件：Itinerary
 
 > [!Note] 插件名片
 > - 插件名称：Itinerary
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/coddingtonbear/obsidian-itinerary/master/README.md)
->
 
 ---
 
@@ -161,17 +160,17 @@ color: red
 - `filter`：要用于限制将显示的引用 CSV 的哪些行的过滤器表达式列表（请参见下面的“表达式”）或单个过滤器表达式。如果未指定，则将包括在所选源中找到的所有事件。
 - `debug`：将导致在渲染的行程下方打印一些调试信息。
 
-除了上述选项外，您还可以提供此处描述的任何选项：<https://fullcalendar.io/docs；特别有用的属性包括：>
+除了上述选项外，您还可以提供此处描述的任何选项：<https://fullcalendar.io/docs>；特别有用的属性包括：
 
 - `initialDate`：要在日历上聚焦的日期。这对于显示与当前日期不同的月份非常有用。默认为当前日期。
 - `initialView`：要显示的日历类型；默认情况下，将显示一个 `dayGridMonth` 视图，但选项包括：
-  - 用于在日历网格中显示日期（请参见 <https://fullcalendar.io/docs/daygrid-view）>
+  - 用于在日历网格中显示日期（请参见 <https://fullcalendar.io/docs/daygrid-view>）
     - `dayGridMonth`：显示整个日历月份。
     - `dayGridWeek`：显示一个星期。
-  - 用于显示时间网格（请参见 <https://fullcalendar.io/docs/timegrid-view）>
+  - 用于显示时间网格（请参见 <https://fullcalendar.io/docs/timegrid-view>）
     - `timeGridWeek`：显示整个星期的时间网格。
     - `timeGridDay`：显示单个日期的时间网格。
-  - 用于简单列表显示（请参见 <https://fullcalendar.io/docs/list-view）>
+  - 用于简单列表显示（请参见 <https://fullcalendar.io/docs/list-view>）
     - `listYear`：整年。
     - `listMonth`：单个月。
     - `listWeek`：单个星期。
@@ -187,14 +186,14 @@ color: red
 - `tag`：与此事件关联的单个字符串标签或标签列表。这些标签对于特别标记诸如航班或酒店住宿之类的事物非常有用，以便您可以生成仅显示一种类型事件的日历。
 - `hidden`：如果为 `true`，则此事件将不会在您指定事件的笔记中单独呈现，而只会出现在相关的行程中。默认为 `false`。
 
-此外，您还可以提供此处描述的任何选项：<https://fullcalendar.io/docs/event-parsing；特别有用的属性包括：>
+此外，您还可以提供此处描述的任何选项：<https://fullcalendar.io/docs/event-parsing>；特别有用的属性包括：
 
 - `color`：用特定颜色标记您的事件
 - `allDay`：将您的事件标记为“全天”事件。
 
 ### 表达式
 
-该库使用 `filtrex` 进行表达式评估；请参阅其文档以了解有关表达式语法和可用函数的更多信息：<https://github.com/m93a/filtrex#expressions。>
+该库使用 `filtrex` 进行表达式评估；请参阅其文档以了解有关表达式语法和可用函数的更多信息：<https://github.com/m93a/filtrex#expressions>。
 
 在“过滤显示的行”中可以看到一个过滤表达式的示例，但实际上它们的工作方式与您可能预期的完全相同。
 
@@ -211,7 +210,7 @@ initialView: listDay
 ```
 ~~~
 
-![](https://cdn.pkmer.cn/covers/obsidian-itinerary_1_0.png!pkmer)
+![](http://coddingtonbear-public.s3.amazonaws.com/github/obsidian-itinerary/listDay.png)
 
 也可以尝试使用 `timeGridDay`！
 
@@ -317,17 +316,17 @@ headerToolbar:
 ```
 ~~~
 
-有关更多信息，请参阅<https://fullcalendar.io/docs/headerToolbar。>
+有关更多信息，请参阅<https://fullcalendar.io/docs/headerToolbar>。
 
 ### 订购日历事件
 
 也许您正在将某些类型的事件打印在月度日历上：
 
-![](https://cdn.pkmer.cn/covers/obsidian-itinerary_1_1.png!pkmer)
+![](http://coddingtonbear-public.s3.amazonaws.com/github/obsidian-itinerary/eventOrderBad.png)
 
 而您可能希望根据您为它们设置的颜色以一致的顺序显示这些事件：
 
-![](https://cdn.pkmer.cn/covers/obsidian-itinerary_1_2.png!pkmer)
+![](http://coddingtonbear-public.s3.amazonaws.com/github/obsidian-itinerary/eventOrderGood.png)
 
 您可以使用 `eventOrder` 选项为您的日历设置排序顺序：
 

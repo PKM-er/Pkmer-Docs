@@ -1,6 +1,6 @@
 ---
-uid: 2023120719382337
-title: Obsidian 插件：【Readme】Obsidian Trello
+uid: 2023080322234926
+title: Obsidian 插件：Obsidian Trello
 tags: ['第三方工具集成', '界面相关', '任务管理', 'obsidian插件', 'readme']
 description: 将 Trello 卡片连接到 Obsidian 笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Trello
+# Obsidian 插件：Obsidian Trello
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Trello
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/OfficerHalf/obsidian-trello/main/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 # Obsidian Trello
 
-![ObsidianTrello](https://cdn.pkmer.cn/covers/obsidian-trello_2_0.png!pkmer)
+![ObsidianTrello](doc/screenshot.png)
 
 ## 概述
 
@@ -65,7 +64,7 @@ modified: 20230101000000
 
 要将卡片连接到笔记，请使用 [连接Trello卡片命令](#commands) 或单击 Trello 面板中的“连接 Trello 卡片”按钮。如果已经连接了一张卡片，则有一个按钮可以链接另一张卡片。
 
-![LinkAnother](https://cdn.pkmer.cn/covers/obsidian-trello_2_1.png!pkmer)
+![LinkAnother](doc/link-another.png)
 
 **创建新卡片**
 
@@ -144,7 +143,4 @@ modified: 20230101000000
 
 如果有问题，请在 GitHub 上提出问题。如果您不确定，可以在 Obsidian 的 Discord 上联系我，@OfficerHalf。
 
-[tokenurl]: <https://trello.com/1/authorize?expiration=never&scope=read,write&response_type=token&name=Obsidian%20Trello%20Token&key=9537467993aefd6dca9ee7788179c298>
-
-
-
+[tokenurl]: <https://trello.com/1/authorize?expiration=never&scope=read,write&response_type=token&name=Obsidian>%20Trello%20Token&key=9537467993aefd6dca9ee7788179c298

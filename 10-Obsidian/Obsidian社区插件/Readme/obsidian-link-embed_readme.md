@@ -1,6 +1,6 @@
 ---
-uid: 2023120719345830
-title: Obsidian 插件：【Readme】Link Embed
+uid: 2023080322212533
+title: Obsidian 插件：Link Embed
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您将笔记中的URL转换为嵌入式预览。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Link Embed
+# Obsidian 插件：Link Embed
 
 > [!Note] 插件名片
 > - 插件名称：Link Embed
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 这个插件允许您将笔记中的 URL 转换为嵌入式预览。
 
-![Link Embed](https://cdn.pkmer.cn/covers/obsidian-link-embed.gif)
+![Link Embed](https://cdn.pkmer.cn/covers/obsidian-link-embed.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Seraphli/obsidian-link-embed/main/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 效果如下。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-link-embed_1_0.gif)
+![演示](https://raw.githubusercontent.com/Seraphli/obsidian-link-embed/main/docs/demo.gif)
 
 **注意** 从 2.0.0 版本开始，嵌入使用 `MarkdownCodeBlockProcessor` 进行渲染，避免了扩展 HTML 块。您可以使用设置中的 `Convert` 按钮将旧的嵌入转换为新的代码块。
 

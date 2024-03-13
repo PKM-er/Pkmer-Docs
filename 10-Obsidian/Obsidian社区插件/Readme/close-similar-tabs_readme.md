@@ -1,6 +1,6 @@
 ---
-uid: 2023120719244976
-title: Obsidian 插件：【Readme】Close Similar Tabs
+uid: 2023080322155756
+title: Obsidian 插件：Close Similar Tabs
 tags: ['obsidian插件', 'readme']
 description: 关闭相似的标签页。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Close Similar Tabs
+# Obsidian 插件：Close Similar Tabs
 
 > [!Note] 插件名片
 > - 插件名称：Close Similar Tabs
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 关闭相似的标签页。
 
-![Close Similar Tabs](https://cdn.pkmer.cn/covers/close-similar-tabs_new.gif)
+![Close Similar Tabs](https://cdn.pkmer.cn/covers/close-similar-tabs_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/1C0D/Obsidian-Close-Similar-Tabs/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 该插件可以防止 Obsidian 中出现重复的标签页，并自动关闭它们。
 
-![演示](https://cdn.pkmer.cn/covers/close-similar-tabs_2_0.gif)
+![演示](demo.gif)
 
 两种模式：
 
@@ -66,8 +65,8 @@ modified: 20230101000000
 
 命令
 
-![图片](https://cdn.pkmer.cn/covers/close-similar-tabs_2_1.jpeg!pkmer)
+![图片](img/CST-commands.jpg)
 
 参数
 
-![图片](https://cdn.pkmer.cn/covers/close-similar-tabs_2_2.jpeg!pkmer)
+![图片](img/CST-params.jpg)

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719321058
-title: Obsidian 插件：【Readme】Last Modified Timestamp in Status Bar
+uid: 2023080322211445
+title: Obsidian 插件：Last Modified Timestamp in Status Bar
 tags: ['obsidian插件', 'readme']
 description: 在状态栏动态显示文件修改时间戳。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Last Modified Timestamp in Status Bar
+# Obsidian 插件：Last Modified Timestamp in Status Bar
 
 > [!Note] 插件名片
 > - 插件名称：Last Modified Timestamp in Status Bar
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Yustynn/obsidian-last-modified-timestamp-in-status-bar/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 时间戳会频繁更新（每 2 秒一次，并且在切换笔记时更新）。
 
-![演示](https://cdn.pkmer.cn/covers/last-modified-timestamp-in-status-bar_2_0.png!pkmer)
+![演示](./img/demo.png)
 
 ## 可定制性
 
@@ -52,7 +51,7 @@ modified: 20230101000000
 - 状态栏中的时间戳标题，用于**创建**和**最后修改**时间戳
 - **最后修改**时间戳的刷新间隔
 
-![设置](https://cdn.pkmer.cn/covers/last-modified-timestamp-in-status-bar_2_1.png!pkmer)
+![设置](./img/settings.png)
 
 # 变更日志
 

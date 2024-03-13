@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/daledesilva/obsidian_google-keep-import/main/README.md)
->
 
 ---
 
@@ -88,6 +87,7 @@ Google Keep 导入插件是为 [Obsidian](https://obsidian.md) 设计的插件�
 
 <details>
   <summary>展开以阅读设置的详细说明</summary>
+
 
 #### 基本设置
 

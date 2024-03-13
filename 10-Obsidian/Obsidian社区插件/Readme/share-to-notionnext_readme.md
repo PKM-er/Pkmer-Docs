@@ -1,5 +1,5 @@
 ---
-uid: 2023120719423929
+uid: 2023102611082989
 title: Obsidian 插件：【Readme】Share to NotionNext
 tags: ['obsidian插件', 'readme']
 description: 使用Notion API将文件共享到Notion，用于NotionNext网页部署，最初由EasyChris/obsidian-to-notion创建。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jxpeng98/obsidian-to-NotionNext/master/README.md)
->
 
 ---
 
@@ -65,6 +64,7 @@ modified: 20230101000000
     - summary
     - password
     - icon
+
 
 从版本 0.0.6 开始，我还添加了以下内容：
 
@@ -150,7 +150,7 @@ tags:
 
 如果它对您有益，欢迎给它一个星星。
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_0.gif)
+![](./doc/1.gif)
 
 # TODO
 
@@ -172,7 +172,7 @@ tags:
 
 打开 Obsidian 设置 -> 添加插件 -> 搜索 -> Notion
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_1_7.png!pkmer)
+![](https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220628214145.png)
 
 将“BRAT”输入到插件市场中以找到它。
 
@@ -197,13 +197,13 @@ git clone https://github.com/EasyChris/obsidian-to-notion.git
 
 创建完成后，复制“secrets token”
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_1_8.gif)
+![](https://files.readme.io/2ec137d-093ad49-create-integration.gif)
 
 注意：
 
 数据库首先自定义名称必须为 "Name"，否则同步到 Notion 将会失败
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_1_9.png!pkmer)
+![](https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220618102029.png)
 
 ### 步骤 2：与您的集成共享数据库
 
@@ -211,11 +211,11 @@ git clone https://github.com/EasyChris/obsidian-to-notion.git
 
 在页面中创建一个新的数据库 -> 您需要 `完整页面数据库`
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_1.gif)
+![](./doc/3.gif)
 
 将 `integration` 添加到您的新数据库中
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_2.gif)
+![](./doc/6.gif)
 
 ### 步骤 3：复制数据库 ID
 
@@ -229,17 +229,17 @@ https://www.notion.so/myworkspace/a8aec43384f447ed84390e8e42c2e089?v=...
 
 使用你获得的 `NOTION_API_KEY` 和 `DATABASE_ID` 填写配置
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_3.png!pkmer)
+![](./doc/2.png)
 
 将文件内容上传到 Notion
 
 点击上传 Notion 按钮
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_4.png!pkmer)
+![](./doc/4.png)
 
 成功上传后，将自动生成一个共享链接
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_5.png!pkmer)
+![](./doc/5.png)
 
 ## 横幅网址 [选项]
 
@@ -253,15 +253,15 @@ https://www.notion.so/myworkspace/a8aec43384f447ed84390e8e42c2e089?v=...
 
 需要具有名称为“Tags”的列。
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_6.png!pkmer)
+![](./doc/7.png)
 
 在 Notion 页面中添加标签
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_7.png!pkmer)
+![](./doc/10.png)
 
 * 打开插件转换标签
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_8.png!pkmer)
+![](./doc/8.png)
 
 * 在头部添加标签
 
@@ -284,7 +284,7 @@ tags:
 
 ```
 
-![](https://cdn.pkmer.cn/covers/share-to-notionnext_2_9.png!pkmer)
+![](./doc/9.png)
 
 感谢 [@jannikbuscha](https://github.com/jannikbuscha) 的贡献
 
@@ -300,7 +300,7 @@ Notion ID 是您想要共享文件的 Notion 站点 ID。
 
 如果您填写了 Notion ID，它将共享到页面链接，如：
 
-https://your_user_name.notion.site/myworkspace/a8aec43384f447ed84390。
+<https://your_user_name.notion.site/myworkspace/a8aec43384f447ed84390>。
 
 访问者无需重定向 URL。
 

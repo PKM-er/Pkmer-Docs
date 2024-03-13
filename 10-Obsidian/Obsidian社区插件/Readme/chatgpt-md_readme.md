@@ -1,6 +1,6 @@
 ---
-uid: 2023120719243731
-title: Obsidian 插件：【Readme】ChatGPT MD
+uid: 2023080322154451
+title: Obsidian 插件：ChatGPT MD
 tags: ['obsidian插件', 'readme']
 description: 将ChatGPT（几乎）无缝集成到Obsidian中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】ChatGPT MD
+# Obsidian 插件：ChatGPT MD
 
 > [!Note] 插件名片
 > - 插件名称：ChatGPT MD
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bramses/chatgpt-md/master/README.md)
->
 
 ---
 
@@ -45,7 +44,7 @@ ChatGPT-MD 是将 ChatGPT 无缝集成到 Obsidian 中的工具。
 
 ### （YouTube 镜像 - 适用于移动用户 ⬇️）
 
-[![视频缩略图](https://cdn.pkmer.cn/covers/chatgpt-md_2_0.png!pkmer)](https://youtu.be/CxDlol_DDI8)
+[![视频缩略图](video-thumbnail.png)](https://youtu.be/CxDlol_DDI8)
 
 ## 特点
 
@@ -88,9 +87,9 @@ ChatGPT-MD 是将 ChatGPT 无缝集成到 Obsidian 中的工具。
 
 注释以 `=begin-chatgpt-md-comment` 开始，以 `=end-chatgpt-md-comment` 结束。
 
-![Screenshot 2023-04-03 16-47-05](https://cdn.pkmer.cn/covers/chatgpt-md_1_1.png!pkmer)
+![Screenshot 2023-04-03 16-47-05](https://user-images.githubusercontent.com/3282661/229628591-eda70076-9e03-44e3-98b5-16be73f39957.png)
 
-![Screenshot 2023-04-03 16-59-26](https://cdn.pkmer.cn/covers/chatgpt-md_1_2.png!pkmer)
+![Screenshot 2023-04-03 16-59-26](https://user-images.githubusercontent.com/3282661/229628629-2fc9ec19-7cce-4754-9c09-11f2364395e5.png)
 
 #### 清除聊天记录
 
@@ -127,9 +126,9 @@ ChatGPT-MD 是将 ChatGPT 无缝集成到 Obsidian 中的工具。
 
 为了解决这个问题，首先尝试增加你的 `max_tokens`（默认设置为 300）。你也可以在默认的 frontmatter 设置中永久更新它。请参考下面的图片：
 
-![Screenshot 2023-03-12 16-14-35](https://cdn.pkmer.cn/covers/chatgpt-md_1_3.png!pkmer)
+![Screenshot 2023-03-12 16-14-35](https://user-images.githubusercontent.com/3282661/224571118-080ca393-6f94-4a20-ba98-27bc8b8b6ad2.png)
 
-![Screenshot 2023-03-12 16-15-01](https://cdn.pkmer.cn/covers/chatgpt-md_1_4.png!pkmer)
+![Screenshot 2023-03-12 16-15-01](https://user-images.githubusercontent.com/3282661/224571119-cba1be45-3ab1-4b86-b056-ba596bacd918.png)
 
 Obsidian 编辑器会自动渲染反引号（见 [问题](https://github.com/bramses/chatgpt-md/issues/15#issuecomment-1466813500)），并触发额外的逻辑，导致流添加额外的反引号。为了解决这个问题，你可以：
 
@@ -138,9 +137,9 @@ Obsidian 编辑器会自动渲染反引号（见 [问题](https://github.com/bra
 
 请参考下面的图片：
 
-![Screenshot 2023-03-15 18-47-40](https://cdn.pkmer.cn/covers/chatgpt-md_1_5.png!pkmer)
+![Screenshot 2023-03-15 18-47-40](https://user-images.githubusercontent.com/3282661/225460844-54101bf2-d5ac-4725-95b5-c79bf6b6ed6a.png)
 
-![Screenshot 2023-03-15 18-48-30](https://cdn.pkmer.cn/covers/chatgpt-md_1_6.png!pkmer)
+![Screenshot 2023-03-15 18-48-30](https://user-images.githubusercontent.com/3282661/225460845-6ff12c98-ea74-4ae8-bc2d-4161e89acdda.png)
 
 如果您已经从 [等待列表](https://openai.com/waitlist/gpt-4-api) 中获得了机会，只需在前言中将 `model: gpt-3.5-turbo` 替换为 `model: gpt-4` 即可。（*注意：gpt-4 比 turbo 更慢！*）
 

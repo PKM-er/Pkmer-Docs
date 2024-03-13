@@ -27,7 +27,6 @@ Use network proxy according to the rules configured in this plugin
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/windingblack/obsidian-global-proxy/master/README.md)
->
 
 ---
 

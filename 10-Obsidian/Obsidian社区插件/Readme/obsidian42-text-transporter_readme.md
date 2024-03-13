@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/TfTHacker/obsidian42-text-transporter/main/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 了解更多关于文本传送器的信息：<https://tfthacker.com/transporter>
 
-如果您对阅读我写的文章感兴趣，请在 Medium 上查看我的文章：<https://bit.ly/o42-medium。>
+如果您对阅读我写的文章感兴趣，请在 Medium 上查看我的文章：<https://bit.ly/o42-medium>。
 
 如果您喜欢这个插件，请随意在 [https://ko-fi/TfTHacker](https://ko-fi.com/TfTHacker) 上给我买杯咖啡。
 

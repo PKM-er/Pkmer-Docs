@@ -1,6 +1,6 @@
 ---
-uid: 2023120719320282
-title: Obsidian 插件：【Readme】Kobo Highlights Importer
+uid: 2023080322210741
+title: Obsidian 插件：Kobo Highlights Importer
 tags: ['obsidian插件', 'readme']
 description: 从Kobo设备导入亮点
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Kobo Highlights Importer
+# Obsidian 插件：Kobo Highlights Importer
 
 > [!Note] 插件名片
 > - 插件名称：Kobo Highlights Importer
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/OGKevin/obsidian-kobo-highlights-import/master/README.md)
->
 
 ---
 
@@ -95,17 +94,17 @@ bookTitle: {{title}}
 
 ## 帮助截图
 
-![](https://cdn.pkmer.cn/covers/obsidian-kobo-highlights-importer-plugin_2_0.png!pkmer)
-![](https://cdn.pkmer.cn/covers/obsidian-kobo-highlights-importer-plugin_2_1.png!pkmer)
-![](https://cdn.pkmer.cn/covers/obsidian-kobo-highlights-importer-plugin_2_2.png!pkmer)
-![](https://cdn.pkmer.cn/covers/obsidian-kobo-highlights-importer-plugin_2_3.png!pkmer)
+![](./README_assets/step1.png)
+![](./README_assets/step2.png)
+![](./README_assets/step3.png)
+![](./README_assets/step4.png)
 
 ## Obsidian Callouts
 
 Kobo Highlight Importer使用Obsidian callouts来导入的高亮和注释；可以单独配置。关闭此开关将回退到仅使用标准的markdown块引用来表示高亮。
 
-![](https://cdn.pkmer.cn/covers/obsidian-kobo-highlights-importer-plugin_2_4.png!pkmer)
-![](https://cdn.pkmer.cn/covers/obsidian-kobo-highlights-importer-plugin_2_5.png!pkmer)
+![](./README_assets/Callout_Settings.png)
+![](./README_assets/Callouts.png)
 
 请查阅[文档](https://help.obsidian.md/How+to/Use+callouts")以获取Obsidian提供的所有可用callouts的列表。
 

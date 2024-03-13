@@ -24,12 +24,11 @@ modified: 20230101000000
 
 协助您记录文学笔记。
 
-![autoLiterature](https://cdn.pkmer.cn/covers/auto-literature.gif)
+![autoLiterature](https://cdn.pkmer.cn/covers/auto-literature.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hucorz/obsidian-autoLiterature/master/README.md)
->
 
 ---
 

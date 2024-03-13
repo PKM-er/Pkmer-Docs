@@ -1,6 +1,6 @@
 ---
-uid: 2023120719293680
-title: Obsidian 插件：【Readme】Gallery
+uid: 2023080322190131
+title: Obsidian 插件：Gallery
 tags: ['界面相关', '图片', 'obsidian插件', 'readme']
 description: 将笔记以画廊方式展示，并且可以添加标记 /过滤器 /向图像添加注释。此插件已经长期不维护
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Gallery
+# Obsidian 插件：Gallery
 
 > [!Note] 插件名片
 > - 插件名称：Gallery
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Darakah/obsidian-gallery/main/README.md)
->
 
 ---
 
@@ -51,23 +50,23 @@ modified: 20230101000000
 
 ##### 主画廊
 
-![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_2.gif)
+![](https://raw.githubusercontent.com/Darakah/obsidian-gallery/main/images/Example_main_gallery_1.gif)
 
 ##### 主画廊筛选
 
-![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_3.gif)
+![](https://raw.githubusercontent.com/Darakah/obsidian-gallery/main/images/Example_main_gallery_2.gif)
 
 ##### 显示块
 
-![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_4.gif)
+![](https://raw.githubusercontent.com/Darakah/obsidian-gallery/main/images/Example_Display_Block.gif)
 
 ##### 显示图像信息块
 
-![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_5.gif)
+![](https://raw.githubusercontent.com/Darakah/obsidian-gallery/main/images/Example_Info_Block.gif)
 
 ##### 旧例子
 
-![example_1](https://cdn.pkmer.cn/covers/obsidian-gallery_1_6.png!pkmer)
+![example_1](https://raw.githubusercontent.com/Darakah/obsidian-gallery/main/images/example_1.png)
 
 使用方法：
 
@@ -97,7 +96,7 @@ customList=5 10 2 4
 
 ## 设置
 
-![](https://cdn.pkmer.cn/covers/obsidian-gallery_1_7.png!pkmer)
+![](https://raw.githubusercontent.com/Darakah/obsidian-gallery/main/images/Gallery_Settings.png)
 
 ## 发布说明
 
@@ -123,7 +122,7 @@ customList=5 10 2 4
 
 ### v0.5.2
 
-- 重复文件热修复（<https://github.com/Darakah/obsidian-gallery/issues/6）>
+- 重复文件热修复（<https://github.com/Darakah/obsidian-gallery/issues/6>）
 
 ### v0.5.1
 

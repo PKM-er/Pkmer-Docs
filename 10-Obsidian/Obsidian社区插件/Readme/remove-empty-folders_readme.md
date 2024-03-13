@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/fnya/remove-empty-folders/main/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 这是一个 Obsidian 插件，用于删除空文件夹。
 
-## 注意
+## 注意！
 
 **在运行此插件之前，请务必备份 Obsidian 数据！！**
 

@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Fevol/obsidian-translate/master/README.md)
->
 
 ---
 
@@ -66,9 +65,13 @@ modified: 20230101000000
 <div align="center">
 <h4>
 
- <span>&nbsp;·&nbsp;</span>
 
  <span>&nbsp;·&nbsp;</span>
+
+
+
+ <span>&nbsp;·&nbsp;</span>
+
 
 </h4>
 </div>

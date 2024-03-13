@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/revolter/obsidian-hanayama-huzzles-tracker-plugin/master/README.md)
->
 
 ---
 
@@ -39,9 +38,9 @@ modified: 20230101000000
 
 # Hanayama Huzzles 跟踪插件
 
-这是一个用于 Obsidian（<https://obsidian.md）的> Hanayama Huzzle 拼图跟踪插件。
+这是一个用于 Obsidian（<https://obsidian.md>）的 Hanayama Huzzle 拼图跟踪插件。
 
-它会从 Hanayama Huzzle 网页（<https://hanayama-toys.com/product-category/puzzles/huzzle）中提取信息，>
+它会从 Hanayama Huzzle 网页（<https://hanayama-toys.com/product-category/puzzles/huzzle>）中提取信息，
 
 构建一个带有信息的 Markdown 表格，并允许您使用状态列手动跟踪它们。
 
@@ -52,8 +51,8 @@ modified: 20230101000000
 ## 用法
 
 - 创建或选择一个笔记
-- 确保笔记处于编辑模式（<https://help.obsidian.md/Editing+and+formatting/Edit+and+preview+Markdown）>
-- 打开命令面板（<https://help.obsidian.md/Plugins/Command+palette）>
+- 确保笔记处于编辑模式（<https://help.obsidian.md/Editing+and+formatting/Edit+and+preview+Markdown>）
+- 打开命令面板（<https://help.obsidian.md/Plugins/Command+palette>）
 - 搜索 `Hanayama Huzzles Tracker: Update list` 命令
 - 按下 <kbd>Enter</kbd>
 

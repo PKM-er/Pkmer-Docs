@@ -27,7 +27,6 @@ Add hill charts to your notes.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/stufro/obsidian-hill-charts/master/README.md)
->
 
 ---
 

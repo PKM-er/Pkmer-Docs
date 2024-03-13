@@ -1,5 +1,5 @@
 ---
-uid: 2023120719280605
+uid: 2023120522250088
 title: Obsidian 插件：【Readme】File Cleaner Redux
 tags: ['obsidian插件', 'readme']
 description: 帮助您清理保险库中的空文件和未使用的附件。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/husjon/obsidian-file-cleaner-redux/main/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 下面是 [[file-cleaner-redux]] 插件的自述翻译
 
-文件清理程序 Redux 是 Obsidian（<https://obsidian.md）的插件，可根据几个简单的用户定义规则帮助删除未使用/空的> Markdown 文件和附件。>
+文件清理程序 Redux 是 Obsidian（<https://obsidian.md>）的插件，可根据几个简单的用户定义规则帮助删除未使用/空的 Markdown 文件和附件。
 
 基于<https://github.com/Johnson0907/obsidian-file-cleaner>
 
@@ -45,7 +44,7 @@ modified: 20230101000000
 
 - 删除大小为 0 字节的 Markdown 文件。
 - 删除用户定义的附件文件（例如：jpg、jpeg、png、gif、svg、pdf）。
-- 支持清理仅包含特定 frontmatter 的空文件（可选）（参见：<https://github.com/husjon/obsidian-file-cleaner-redux/issues/16）。>
+- 支持清理仅包含特定 frontmatter 的空文件（可选）（参见：<https://github.com/husjon/obsidian-file-cleaner-redux/issues/16>）。
 - 递归删除空文件夹（可选）。
 - 文件夹排除/包含（可选）。
 - 设置删除位置
@@ -63,15 +62,15 @@ modified: 20230101000000
 
 #### 插件设置（显示默认值）
 
-![选项](https://cdn.pkmer.cn/covers/file-cleaner-redux_2_0.png!pkmer)
+![选项](images/Options.png)
 
 #### 删除文件的预览
 
-![预览已删除文件确认](https://cdn.pkmer.cn/covers/file-cleaner-redux_2_1.png!pkmer)
+![预览已删除文件确认](images/PreviewDeletedFiles.png)
 
 #### 快捷键
 
-![快捷键](https://cdn.pkmer.cn/covers/file-cleaner-redux_2_2.png!pkmer)
+![快捷键](images/Hotkeys.png)
 
 ### 已知问题
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719364559
-title: Obsidian 插件：【Readme】Mixa
+uid: 2023080322223819
+title: Obsidian 插件：Mixa
 tags: ['obsidian插件', 'readme']
 description: 直接从Obsidian发布您的笔记和博客文章到Mixa。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Mixa
+# Obsidian 插件：Mixa
 
 > [!Note] 插件名片
 > - 插件名称：Mixa
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mixasite/obsidian-mixa/main/README.md)
->
 
 ---
 
@@ -67,11 +66,11 @@ draft: true
 
 ### 使用 Obsidian
 
-[![Mixa Obsidian演示](https://cdn.pkmer.cn/covers/mixa_2_0.png!pkmer)](https://youtu.be/FrvZd2pdX-g)
+[![Mixa Obsidian演示](./mixa_obs_thumbnail.png)](https://youtu.be/FrvZd2pdX-g)
 
 ### 使用.zip 文件
 
-[![Mixa演示](https://cdn.pkmer.cn/covers/mixa_2_1.png!pkmer)](https://youtu.be/-Ylp5Dm9sVo)
+[![Mixa演示](./mixa_thumbnail.png)](https://youtu.be/-Ylp5Dm9sVo)
 
 ## 如何使用
 
@@ -80,7 +79,7 @@ draft: true
 3. 在仪表盘的站点设置中生成一个秘密令牌
 4. 将令牌粘贴到 Obsidian Mixa 插件中并发布您的站点
 5. 一旦设置了 Obsidian-Mixa 集成，您还可以使用发布按钮一键发布您的更改
-![](https://cdn.pkmer.cn/covers/mixa_2_2.png!pkmer)
+![](./publish-icon.png)
 
 您专注于内容，我们来处理其他事务
 

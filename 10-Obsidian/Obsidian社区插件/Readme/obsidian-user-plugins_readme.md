@@ -1,6 +1,6 @@
 ---
-uid: 2023120719455615
-title: Obsidian 插件：【Readme】User Plugins
+uid: 2023080322290523
+title: Obsidian 插件：User Plugins
 tags: ['插件', '效率', 'obsidian插件', 'readme']
 description: 用 JS 文件或片段来快速编写一个插件。注意此插件仅适用高级用户，在笔记中插入你不熟悉的JS会引发很多问题。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】User Plugins
+# Obsidian 插件：User Plugins
 
 > [!Note] 插件名片
 > - 插件名称：User Plugins
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mnowotnik/obsidian-user-plugins/master/README.md)
->
 
 ---
 
@@ -83,7 +82,7 @@ module.exports.onload = async (plugin) => {
 }
 ```
 
-![Command in palette](https://cdn.pkmer.cn/covers/obsidian-user-plugins_1_0.png!pkmer)
+![Command in palette](https://user-images.githubusercontent.com/8244123/167032593-0dbe59b1-2c2a-4700-83f4-01609cf0d30a.png)
 
 快速入门
 

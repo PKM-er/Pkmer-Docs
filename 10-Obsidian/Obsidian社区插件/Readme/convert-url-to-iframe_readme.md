@@ -1,6 +1,6 @@
 ---
-uid: 2023120719252541
-title: Obsidian 插件：【Readme】Convert url to preview (iframe)
+uid: 2023080322163147
+title: Obsidian 插件：Convert url to preview (iframe)
 tags: ['转换工具', '链接处理', 'obsidian插件', 'readme']
 description: 将一个url（例如youtube）转换为一个iframe（预览）
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Convert url to preview (iframe)
+# Obsidian 插件：Convert url to preview (iframe)
 
 > [!Note] 插件名片
 > - 插件名称：Convert url to preview (iframe)
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 将一个 url（例如 youtube）转换为一个 iframe（预览）
 
-![Convert url to preview (iframe)](https://cdn.pkmer.cn/covers/convert-url-to-iframe_new.gif)
+![Convert url to preview (iframe)](https://cdn.pkmer.cn/covers/convert-url-to-iframe_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/FHachez/obsidian-convert-url-to-iframe/master/README.md)
->
 
 ---
 
@@ -41,12 +40,12 @@ modified: 20230101000000
 
 **将任何 URL 转换为预览。**
 
-![演示](https://cdn.pkmer.cn/covers/convert-url-to-iframe_2_0.gif)
+![演示](images/demo-url-to-preview-0.4.0.gif)
 
 1. 选择一个 URL
 2. 右键单击它（或使用命令“转换为 URL 预览”）
 3. 点击“Url to Preview/Iframe”。
-![上下文菜单](https://cdn.pkmer.cn/covers/convert-url-to-iframe_2_1.png!pkmer)
+![上下文菜单](images/contextual-menu.png)
 
 默认快捷键是 `cmd + alt + i`。
 
@@ -67,7 +66,7 @@ modified: 20230101000000
 
 - 现在我们不再使用自定义映射来嵌入 YouTube，而是依赖于 OEmbed 标准。感谢<https://www.npmjs.com/package/oembed-parser>
     - 这样可以保留 YouTube 上的时间戳，并为许多网站获取默认大小。
-- 添加上下文菜单（右键单击链接）![contextual menu](https://cdn.pkmer.cn/covers/convert-url-to-iframe_2_1.png!pkmer)
+- 添加上下文菜单（右键单击链接）![contextual menu](images/contextual-menu.png)
 
 ## 0.3.0
 
@@ -79,7 +78,7 @@ modified: 20230101000000
 - 仅在控制台中输出应用程序名称（[Issue 3](https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/3)）
 - 添加一个纵横比（默认为 16:9 纵横比）（Kankaristo）。
 - 确保 iframe 可以在没有 CSS 类的情况下工作（Kankaristo）
-- 修复使用滑动窗格插件时的错误调整大小问题（[Issue 1](<https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/1）（Kankaristo）>
+- 修复使用滑动窗格插件时的错误调整大小问题（[Issue 1](<https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/1>）（Kankaristo）
 - 更好的用户消息和 README.md（Kankaristo）
 - 保留 Youtube 的时间戳 [Issue 14](https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/14)
 - 允许全屏 iframe [Issue 8](https://github.com/FHachez/obsidian-convert-url-to-iframe/issues/8)

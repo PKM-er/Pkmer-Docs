@@ -27,7 +27,6 @@ A pomodoro timer that helps manage your daily focus
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/eatgrass/obsidian-pomodoro-timer/master/README.md)
->
 
 ---
 

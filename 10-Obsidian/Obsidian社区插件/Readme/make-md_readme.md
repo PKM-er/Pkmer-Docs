@@ -27,7 +27,6 @@ Make.md 为你带来了超强的 Obsidian 体验增强功能。自定义顺序�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Make-md/makemd/main/README.md)
->
 
 ---
 

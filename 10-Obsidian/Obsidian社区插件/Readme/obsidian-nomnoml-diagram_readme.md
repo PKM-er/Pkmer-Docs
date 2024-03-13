@@ -1,6 +1,6 @@
 ---
-uid: 2023120719371448
-title: Obsidian 插件：【Readme】Nomnoml Diagram
+uid: 2023080322225669
+title: Obsidian 插件：Nomnoml Diagram
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在Obsidian笔记中绘制nomnoml图表
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Nomnoml Diagram
+# Obsidian 插件：Nomnoml Diagram
 
 > [!Note] 插件名片
 > - 插件名称：Nomnoml Diagram
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在 Obsidian 笔记中绘制 nomnoml 图表
 
-![Nomnoml Diagram](https://cdn.pkmer.cn/covers/obsidian-nomnoml-diagram.gif)
+![Nomnoml Diagram](https://cdn.pkmer.cn/covers/obsidian-nomnoml-diagram.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Daeik/obsidian-nomnoml-diagram/main/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 ## Obsidian nomnoml Diagram
 
-![nomnoml图表示例](https://cdn.pkmer.cn/covers/obsidian-nomnoml-diagram_1_0.gif)
+![nomnoml图表示例](https://raw.githubusercontent.com/Daeik/obsidian-nomnoml-diagram/main/images/nomnoml-diagram-example.gif)
 
 这个 [Obsidian](https://obsidian.md/) 插件允许你在 Obsidian 笔记中绘制 [nomnoml](https://www.nomnoml.com/) 图表。
 

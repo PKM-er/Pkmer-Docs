@@ -1,6 +1,6 @@
 ---
-uid: 2023120719405290
-title: Obsidian 插件：【Readme】Prompt
+uid: 2023080322250845
+title: Obsidian 插件：Prompt
 tags: ['obsidian插件', 'readme']
 description: 从你的保险库中的提示文件中显示鼓舞人心的提示。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Prompt
+# Obsidian 插件：Prompt
 
 > [!Note] 插件名片
 > - 插件名称：Prompt
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 从你的保险库中的提示文件中显示鼓舞人心的提示。
 
-![Prompt](https://cdn.pkmer.cn/covers/prompt.gif)
+![Prompt](https://cdn.pkmer.cn/covers/prompt.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hungsu/obsidian-prompt/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 这个 Obsidian 的插件会从你的 vault 中的文件中随机显示一个文本提示。你可以自己选择文件。
 
-![使用鼠标的提示](https://cdn.pkmer.cn/covers/prompt_1_0.gif)
+![使用鼠标的提示](https://raw.githubusercontent.com/hungsu/obsidian-prompt/master/screencast.gif)
 
 ## 设置
 

@@ -27,7 +27,6 @@ Obsidian 中编辑器中的迷你上下文工具栏。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Mini-Toolbar/main/README.md)
->
 
 ---
 

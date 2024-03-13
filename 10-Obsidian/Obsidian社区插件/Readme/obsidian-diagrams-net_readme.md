@@ -1,6 +1,6 @@
 ---
-uid: 2023120719264286
-title: Obsidian 插件：【Readme】Diagrams.net
+uid: 2023080322171701
+title: Obsidian 插件：Diagrams.net
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在 Obsidian 中创建和编辑 Draw.io 图表
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Diagrams.net
+# Obsidian 插件：Diagrams.net
 
 > [!Note] 插件名片
 > - 插件名称：Diagrams.net
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jensmtg/obsidian-diagrams-net/master/README.md)
->
 
 ---
 
@@ -46,7 +45,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md/) 设计的插件，用于插入和编辑 [diagrams.net](https://diagrams.net/)（之前称为 draw.io）的图表。它与 [drawio-obsidian](https://github.com/zapthedingbat/drawio-obsidian) 插件的区别在于它嵌入了 diagrams.net 在线编辑器，需要活动的互联网连接，但可以使用完整的功能集和所有形状库。
 
-![2022-06-23-obsidian-diagrams-net](https://cdn.pkmer.cn/covers/obsidian-diagrams-net_1_1.gif)
+![2022-06-23-obsidian-diagrams-net](https://user-images.githubusercontent.com/6455628/175336757-4a458fb8-7367-4305-8829-4e333982550e.gif)
 
 > ## ⚠️ **注意事项**
 > 由于 Obsidian 本身的 API 正在开发中，所以该插件也在不断发展中。如果您使用该插件，有一些事项需要注意：

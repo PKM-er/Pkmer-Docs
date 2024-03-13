@@ -27,7 +27,6 @@ None
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/rudimuc/obsidian-coder/master/README.md)
->
 
 ---
 

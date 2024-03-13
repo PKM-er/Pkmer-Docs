@@ -1,6 +1,6 @@
 ---
-uid: 2023120719222507
-title: Obsidian 插件：【Readme】Another Quick Switcher
+uid: 2023080322140321
+title: Obsidian 插件：Another Quick Switcher
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian插件，是另一种快速切换的选择。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Another Quick Switcher
+# Obsidian 插件：Another Quick Switcher
 
 > [!Note] 插件名片
 > - 插件名称：Another Quick Switcher
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 这是一个 Obsidian 插件，是另一种快速切换的选择。
 
-![Another Quick Switcher](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_new.gif)
+![Another Quick Switcher](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/README.md)
->
 
 ---
 
@@ -64,11 +63,11 @@ modified: 20230101000000
 
 ### 1. 自定义搜索
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_3.gif)
+![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/custom-searches.gif)
 
 自定义搜索功能使您能够创建自己的搜索命令。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_4.png!pkmer)
+![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/search-commands-setting.png)
 
 #### 搜索目标
 
@@ -105,7 +104,7 @@ modified: 20230101000000
 
 > **警告**
 > 在关闭 Obsidian 之前，请不要忘记点击“保存”按钮。否则，当您下次打开 Obsidian 时，设置**将永远无法恢复**。
-> ![Demo](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_5.png!pkmer)
+> ![Demo](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/save-button.png)
 
 > **注意**
 > `(逗号分隔的标签)` 的示例包括 `#hoge`，`#hoge,#huga` 等等。
@@ -159,7 +158,7 @@ modified: 20230101000000
 
 ### 2. 文件中的标题浮动搜索/文件中的标题搜索
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_6.gif)
+![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/header-floating-search-in-file.gif)
 
 - 即使在过滤后保留文件结构，也会显示所有标题
 - 默认情况下，自动跳转到第一个匹配建议，并通过 `Tab/Shift+Tab` 进行下一个/上一个跳转
@@ -171,7 +170,7 @@ modified: 20230101000000
 
 此功能需要 [ripgrep](https://github.com/BurntSushi/ripgrep) 并将可执行命令设置为“Ripgrep 命令”选项。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_7.gif)
+![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/grep.gif)
 
 它按修改时间降序排序结果。
 
@@ -189,7 +188,7 @@ modified: 20230101000000
 
 每个对话框都可以进行详细的热键自定义设置。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_8.png!pkmer)
+![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/customizable-hotkeys-setting.png)
 
 ### 5. 在对话框中显示反向链接
 
@@ -197,13 +196,13 @@ modified: 20230101000000
 
 它可以显示不仅是现有笔记的反向链接，还包括幻影（不存在的）笔记的反向链接。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_9.gif)
+![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/show-backlinks-from-the-dialog.gif)
 
 ### 6. 在对话框中导航出站链接/反向链接
 
 您可以使用“显示链接”、“显示反向链接”、“前进导航”和“后退导航”命令，在不离开对话框的情况下导航到出站链接/反向链接。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-another-quick-switcher_1_10.gif)
+![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/navigate-outgoing-backlinks-without-leaving-the-dialog.gif)
 
 ### 7. 预览
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719244689
-title: Obsidian 插件：【Readme】Chronology
+uid: 2023080322155495
+title: Obsidian 插件：Chronology
 tags: ['文件管理', '文件历史', '统计', '效率', '美化', 'obsidian插件', 'readme']
 description: 提供笔记日历视图和笔记创建和修改的时间线
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Chronology
+# Obsidian 插件：Chronology
 
 > [!Note] 插件名片
 > - 插件名称：Chronology
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Canna71/obsidian-chronology/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 提供一个侧边栏，显示你的笔记的日历视图。
 
-![](https://cdn.pkmer.cn/covers/chronology_2_0.gif)
+![](media/demo.gif)
 
 该日历允许浏览和选择每日、每周、每月或自定义范围的笔记。每日和每周范围以时间线显示，但你可以通过启用“显示简单列表”设置来强制以简单列表的形式显示笔记。在时间线可视化中，你可以通过启用“在相同时间段中分组笔记”来将在同一时间段创建或修改的笔记分组。
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 
 时间线中的笔记将显示为带有彩色标记的形式，指示它们是在该时刻**创建**还是**修改**。
 
-![](https://cdn.pkmer.cn/covers/chronology_2_1.png!pkmer)
+![](media/example.png)
 
 点击笔记名称将打开它。按住 Ctrl 键（或 Command 键）点击笔记名称将在新窗格中打开它。
 

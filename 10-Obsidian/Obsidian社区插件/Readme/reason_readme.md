@@ -27,7 +27,6 @@ REASON: 检索、提取和综合黑曜石笔记
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jshph/obsidian-reason/master/README.md)
->
 
 ---
 

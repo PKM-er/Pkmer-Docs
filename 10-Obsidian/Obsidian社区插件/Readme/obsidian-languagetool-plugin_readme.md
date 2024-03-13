@@ -1,6 +1,6 @@
 ---
-uid: 2023120719320752
-title: Obsidian 插件：【Readme】LanguageTool Integration
+uid: 2023080322211275
+title: Obsidian 插件：LanguageTool Integration
 tags: ['第三方工具集成', '搜索/排序', '翻译', 'obsidian插件', 'readme']
 description: 借助语言工具进行高级拼写/语法检查
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】LanguageTool Integration
+# Obsidian 插件：LanguageTool Integration
 
 > [!Note] 插件名片
 > - 插件名称：LanguageTool Integration
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Clemens-E/obsidian-languagetool-plugin/master/README.md)
->
 
 ---
 
@@ -77,9 +76,9 @@ modified: 20230101000000
 
 要使用高级功能，您（显然）需要一个高级账户和一个 API 密钥。
 
-您可以在<https://languagetool.org/editor/settings/access-tokens> 上生成您的 API 密钥。>
+您可以在<https://languagetool.org/editor/settings/access-tokens>上生成您的 API 密钥。
 
-在插件设置中配置您的电子邮件、API 密钥和新的 URL（<https://api.languagetoolplus.com）。>
+在插件设置中配置您的电子邮件、API 密钥和新的 URL（<https://api.languagetoolplus.com>）。
 
 ## 手动安装插件
 
@@ -87,4 +86,4 @@ modified: 20230101000000
 
 # 演示
 
-![demo-02022022](https://cdn.pkmer.cn/covers/obsidian-languagetool-plugin_1_0.png!pkmer)
+![demo-02022022](https://user-images.githubusercontent.com/98941594/152318322-83abb30d-fee0-44cf-9700-262f4c0de4c4.png)

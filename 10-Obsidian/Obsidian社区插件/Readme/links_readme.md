@@ -24,12 +24,11 @@ modified: 20230101000000
 
 操作链接
 
-![Links](https://cdn.pkmer.cn/covers/links.gif)
+![Links](https://cdn.pkmer.cn/covers/links.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mii-key/obsidian-links/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 链接 <!-- 在目录中省略 -->
 
-操作 Obsidian 中的链接（<https://obsidian.md）。>
+操作 Obsidian 中的链接（<https://obsidian.md>）。
 
 - [功能](#features)
   - [取消链接](#unlink)

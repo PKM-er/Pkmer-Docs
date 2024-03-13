@@ -1,6 +1,6 @@
 ---
-uid: 2023120719364255
-title: Obsidian 插件：【Readme】Mindmap Nextgen
+uid: 2023080322223664
+title: Obsidian 插件：Mindmap Nextgen
 tags: ['obsidian插件', 'readme']
 description: 一个插件，用于将笔记预览为Markmap思维导图
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Mindmap Nextgen
+# Obsidian 插件：Mindmap Nextgen
 
 > [!Note] 插件名片
 > - 插件名称：Mindmap Nextgen
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/verocloud/obsidian-mindmap-nextgen/main/README.md)
->
 
 ---
 
@@ -116,7 +115,7 @@ Obsidian 插件，使用 [Markmap](https://markmap.js.org/) 将您的笔记显�
 - [x] 更换灯泡
 - [ ] 其他事情
 
-![思维导图复选框示例](https://cdn.pkmer.cn/covers/obsidian-mindmap-nextgen_2_0.png!pkmer)
+![思维导图复选框示例](images/mind-map-checkboxes.png)
 
 ### LaTeX
 LaTex表达式将在您的思维导图中呈现。在表达式的两侧使用一个美元符号来表示内联表达式。
@@ -213,7 +212,7 @@ markmap:
 2. 转到“设置”>“社区插件”。
 3. 在“已安装的插件”中，您可以在末尾找到一个文件夹图标，点击它：
 
-![Obsidian 打开插件文件夹图标](https://cdn.pkmer.cn/covers/obsidian-mindmap-nextgen_1_2.png!pkmer)
+![Obsidian 打开插件文件夹图标](https://user-images.githubusercontent.com/21978588/206907799-7a79e2fa-3535-4c51-9604-dc45cb5bd21e.png)
 
 4. 保持此文件夹打开。
 5. 您可以直接点击[此处](https://github.com/AdrianSimionov/obsidian-mindmap-nextgen/archive/refs/heads/main.zip)下载 zip 文件。或者您可以转到[此存储库](https://github.com/AdrianSimionov/obsidian-mindmap-nextgen/)，点击绿色图标“CODE”，然后点击“Download ZIP”。

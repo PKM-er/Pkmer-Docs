@@ -1,6 +1,6 @@
 ---
-uid: 2023120719350331
-title: Obsidian 插件：【Readme】Link Headers Directly
+uid: 2023080322212783
+title: Obsidian 插件：Link Headers Directly
 tags: ['obsidian插件', 'readme']
 description: 当一个标题被链接时，预览模式只会显示标题，而不是笔记名称。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Link Headers Directly
+# Obsidian 插件：Link Headers Directly
 
 > [!Note] 插件名片
 > - 插件名称：Link Headers Directly
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 当一个标题被链接时，预览模式只会显示标题，而不是笔记名称。
 
-![Link Headers Directly](https://cdn.pkmer.cn/covers/link-headers-directly.gif)
+![Link Headers Directly](https://cdn.pkmer.cn/covers/link-headers-directly.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Signynt/link-headers-directly/master/README.md)
->
 
 ---
 
@@ -59,10 +58,10 @@ modified: 20230101000000
 
 > 我最喜欢的树之一是**Trees > 桦树**，因为它让我想起了春天。
 
-![没有插件](https://cdn.pkmer.cn/covers/link-headers-directly_1_0.gif)
+![没有插件](https://raw.githubusercontent.com/signynt/link-headers-directly/master/resources/gifs/without-plugin.gif)
 
 这在大多数句子中看起来不自然，并且使得不得不在许多链接到标题的地方更改预览文本变得繁琐。启用此插件后，在预览模式下，文本将显示为：
 
 > 我最喜欢的树之一是**桦树**，因为它让我想起了春天。
 
-![有插件](https://cdn.pkmer.cn/covers/link-headers-directly_1_1.gif)
+![有插件](https://raw.githubusercontent.com/signynt/link-headers-directly/master/resources/gifs/with-plugin.gif)

@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/gavinmn/obsidian-things-link/master/README.md)
->
 
 ---
 
@@ -35,7 +34,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-things-link]] 插件的自述翻译
 
-这个插件的支持分支可以在<https://github.com/danielh-official/obsidian-things-link-2> 找到。>
+这个插件的支持分支可以在<https://github.com/danielh-official/obsidian-things-link-2>找到。
 
 *目前该项目不再受支持。请随意进行分支操作：）*
 

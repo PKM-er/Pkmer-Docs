@@ -27,7 +27,6 @@ Obsidian 插件，允许在 markdown 块中添加类和样式
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ixth/obsidian-stylist/main/README.md)
->
 
 ---
 

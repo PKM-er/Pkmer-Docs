@@ -16,7 +16,7 @@ modified: 20230101000000
 > - 插件名称：Single File Daily Notes
 > - 插件作者：Pranav Mangal
 > - 插件说明：创建和管理每日笔记在一个单一的文件中。
-> - 插件分类：['obsidian插件', 'readme']
+> - 插件分类：['obsidian 插件 ', 'readme']
 > - 项目地址：[点我访问](https://github.com/pranavmangal/obsidian-single-file-daily-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?single-file-daily-notes)
 
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 创建和管理每日笔记在一个单一的文件中。
 
-
-
 > [!tip] 原文出处
-> 
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/pranavmangal/obsidian-single-file-daily-notes/master/README.md)
-> 
 
 ---
 
@@ -37,20 +34,22 @@ modified: 20230101000000
 
 下面是 [[single-file-daily-notes]] 插件的自述翻译
 
-
 # 单文件每日笔记
 
 一个用于在单个文件中创建和管理每日笔记的 [Obsidian](https://obsidian.md) 插件。
 
 <img src='images/showcase.png' width='755'>
+
 ## 特点
+
 ### 创建和管理每日笔记
 
 该插件将自动为今天创建一个新的笔记，并选择虚拟条目以立即进行编辑。如果今天的笔记已经存在，它将尝试定位光标以进行追加/编辑现有笔记。
 
 <img src='images/editing.png' width='500'>
 
-结果是一个单一的标准Markdown文件：
+结果是一个单一的标准 Markdown 文件：
+
 ```md
 #### 02-01-2024, 星期二
 -   条目

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719464834
-title: Obsidian 插件：【Readme】Workspaces Plus
+uid: 2023080322294615
+title: Obsidian 插件：Workspaces Plus
 tags: ['工作区', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 快速切换管理工作区的布局。你可以按照你不同的习惯，规划工作区。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Workspaces Plus
+# Obsidian 插件：Workspaces Plus
 
 > [!Note] 插件名片
 > - 插件名称：Workspaces Plus
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nothingislost/obsidian-workspaces-plus/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # Workspaces Plus
 
-![Artboard-2-3](https://cdn.pkmer.cn/covers/workspaces-plus_1_0.png!pkmer)
+![Artboard-2-3](https://user-images.githubusercontent.com/46250921/133352216-e0a2c9b6-070b-46f7-9a6f-d3a18f0c69b1.png)
 
 Workspaces Plus 是一个扩展 [Obsidian](https://obsidian.md/) 中 [工作区](https://help.obsidian.md/Plugins/Workspaces) 功能的插件。
 
@@ -129,7 +128,8 @@ Workspaces Plus 是一个扩展 [Obsidian](https://obsidian.md/) 中 [工作区]
 <details>
   <summary>紧凑的工作区选择器CSS代码片段</summary>
 
-![image](https://cdn.pkmer.cn/covers/workspaces-plus_1_1.png!pkmer)
+
+![image](https://user-images.githubusercontent.com/46250921/135287222-ada674cf-e8e9-4bbf-9d99-07c9892b8e76.png)
 
   ```css
 .workspaces-plus-modal.quick-switch {

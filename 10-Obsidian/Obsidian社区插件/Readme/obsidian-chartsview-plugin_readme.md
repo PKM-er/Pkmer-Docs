@@ -1,6 +1,6 @@
 ---
-uid: 2023120719243450
-title: Obsidian 插件：【Readme】Charts View
+uid: 2023080322154178
+title: Obsidian 插件：Charts View
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: Obsidian中的数据可视化解决方案，支持图表和图形。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Charts View
+# Obsidian 插件：Charts View
 
 > [!Note] 插件名片
 > - 插件名称：Charts View
@@ -29,7 +29,6 @@ Obsidian 中的数据可视化解决方案，支持图表和图形。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/caronchen/obsidian-chartsview-plugin/master/README.md)
->
 
 ---
 
@@ -100,7 +99,7 @@ options:
     rotation: 30
 ```
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_4.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/136478725-be28a56b-0075-4f0a-a719-f61b30e83b6a.png)
 
 #### 多个文件
 
@@ -124,25 +123,25 @@ data: "wordcount:@Inbox/"
 
 使用命令 `Charts View: Insert Template` -> `Pie` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_5.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/119069882-87c95700-ba19-11eb-8cef-02d1e021d1a2.png)
 
 ### 词云
 
 使用命令 `Charts View: Insert Template` -> `WordCloud` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_6.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/119069991-bba47c80-ba19-11eb-873f-847563daea39.png)
 
 ### 矩形树图
 
 使用命令 `Charts View: Insert Template` -> `Treemap` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_7.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/119070047-decf2c00-ba19-11eb-9d59-21c051da593c.png)
 
 ### DualAxes
 
 使用命令 `Charts View: Insert Template` -> `DualAxes` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_8.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/119969638-618b5480-bfe1-11eb-8a36-0a5d60408b00.png)
 
 ### 混合
 
@@ -150,31 +149,31 @@ data: "wordcount:@Inbox/"
 
 使用命令 `Charts View: Insert Template` -> `Mix` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_9.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/120421841-a1638a80-c399-11eb-9464-d773931fdd6f.png)
 
 ### 柱状图
 
 使用命令 `Charts View: Insert Template` -> `Bar` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_10.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/123117024-fa43b180-d473-11eb-84eb-8e1806ce5dec.png)
 
 ### 组织树图
 
 使用命令 `Charts View: Insert Template` -> `OrganizationTreeGraph` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_11.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/123117254-2b23e680-d474-11eb-845f-0d663a458fa7.png)
 
 ### 雷达图
 
 使用命令 `Charts View: Insert Template` -> `Radar` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_12.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/123117394-4a227880-d474-11eb-8a11-23f3cd482251.png)
 
 ### TinyLine
 
 使用命令 `Charts View: Insert Template` -> `TinyLine` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_13.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/123117476-5a3a5800-d474-11eb-9db8-4b3785bb010c.png)
 
 ### Dataviewjs 示例（柱状图）
 
@@ -182,7 +181,7 @@ data: "wordcount:@Inbox/"
 
 使用命令 `Charts View: Insert Template` -> `Dataviewjs示例（柱状图）` 来插入代码块。
 
-![image](https://cdn.pkmer.cn/covers/obsidian-chartsview-plugin_1_14.png!pkmer)
+![image](https://user-images.githubusercontent.com/150803/140684190-fa6a08ea-3394-44fe-ae92-265810f6b9a9.png)
 
 图表向导
 

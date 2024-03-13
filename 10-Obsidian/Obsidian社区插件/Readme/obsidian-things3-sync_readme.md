@@ -1,6 +1,6 @@
 ---
-uid: 2023120719381847
-title: Obsidian 插件：【Readme】Obsidian Things3 Sync
+uid: 2023080322234601
+title: Obsidian 插件：Obsidian Things3 Sync
 tags: ['obsidian插件', 'readme']
 description: 一个用于同步Obsidian和Things3的插件，支持多语言，标签和日期。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Things3 Sync
+# Obsidian 插件：Obsidian Things3 Sync
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Things3 Sync
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/royxue/obsidian-things3-sync/master/README.md)
->
 
 ---
 
@@ -52,7 +51,7 @@ modified: 20230101000000
 
 ### 创建待办事项
 
-![create](https://cdn.pkmer.cn/covers/obsidian-things3-sync_2_0.png!pkmer)
+![create](./misc/create.png)
 
 * 选择待办事项的行
 * 使用 `cmd + p` 并运行 `Things3 Sync: 创建待办事项`

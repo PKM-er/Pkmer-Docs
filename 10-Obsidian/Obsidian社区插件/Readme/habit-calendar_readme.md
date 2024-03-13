@@ -1,6 +1,6 @@
 ---
-uid: 2023120719300751
-title: Obsidian 插件：【Readme】Habit Calendar
+uid: 2023080322192973
+title: Obsidian 插件：Habit Calendar
 tags: ['文件管理', '任务管理', 'obsidian插件', 'readme']
 description: 创建一个可视化的月历视图，让你可以自己添加关键的日期和注意事项。此插件依赖 dataview 插件，并且需要你熟悉 dataviewJS 语法。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Habit Calendar
+# Obsidian 插件：Habit Calendar
 
 > [!Note] 插件名片
 > - 插件名称：Habit Calendar
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 创建一个可视化的月历视图，让你可以自己添加关键的日期和注意事项。此插件依赖 dataview 插件，并且需要你熟悉 dataviewJS 语法。
 
-![Habit Calendar](https://cdn.pkmer.cn/covers/habit-calendar.gif)
+![Habit Calendar](https://cdn.pkmer.cn/covers/habit-calendar.GIF!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hedonihilist/obsidian-habit-calendar/master/README.md)
->
 
 ---
 
@@ -95,7 +94,7 @@ from "diarys"
 
 例如，使用上述 [DQL](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)，您将获得如下所示的表格：
 
-![dvtable](https://cdn.pkmer.cn/covers/habit-calendar_2_0.png!pkmer)
+![dvtable](images/dvtable.png)
 
 要将表格渲染为日历，请将 DQL 的结果传递给 dataviewjs 块中的 `renderHabitCalendar`：
 
@@ -116,7 +115,7 @@ renderHabitCalendar(this.container, dv, {
 
 日历应该如下所示：
 
-![calendar](https://cdn.pkmer.cn/covers/habit-calendar_2_1.png!pkmer)
+![calendar](images/hbcalendar.png)
 
 请注意，您可以通过将标题设置为 "aaabbbccc|label" 来自定义日历中的习惯标签👨‍💻。最后一个 "|" 后面的文本将用作标签。
 
@@ -164,11 +163,11 @@ renderHabitCalendar(this.container, dv, {
 
 上述代码将呈现如下效果：
 
-![simple](https://cdn.pkmer.cn/covers/habit-calendar_2_2.png!pkmer)
+![simple](images/simple.png)
 
 如果您的每日笔记采用 `YYYY-MM-DD` 格式，日历将自动与您的每日笔记关联。您可以将鼠标悬停在数字上或单击数字以访问相应的笔记。
 
-![hover](https://cdn.pkmer.cn/covers/habit-calendar_2_3.gif)
+![hover](images/hover.gif)
 
 ### 使用 HTML 填充日历
 
@@ -191,7 +190,7 @@ renderHabitCalendar(this.container, dv, {
 ```
 ~~~
 
-![html](https://cdn.pkmer.cn/covers/habit-calendar_2_4.png!pkmer)
+![html](images/html.png)
 
 **注意：** 不要忘记在插件设置中启用 HTML。
 
@@ -216,7 +215,7 @@ renderHabitCalendar(this.container, dv, {
 ```
 ~~~
 
-![markdown](https://cdn.pkmer.cn/covers/habit-calendar_2_5.png!pkmer)
+![markdown](images/markdown.png)
 
 **注意 1：**有时 Markdown 文本无法正确渲染。尝试切换到其他文件然后再切换回来。
 
@@ -263,7 +262,7 @@ renderHabitCalendar(this.container, dv, {
 
 查看 [示例库](https://github.com/hedonihilist/obsidian-habit-calendar/tree/master/ExampleVault)。你的习惯可以看起来像这样
 
-![示例](https://cdn.pkmer.cn/covers/habit-calendar_2_6.png!pkmer)
+![示例](images/example.png)
 
 ### 添加习惯模板
 
@@ -286,7 +285,7 @@ renderHabitCalendar(this.container, dv, {
 
 完成一个习惯后，在你的日记中勾选相应的习惯。
 
-![勾选习惯](https://cdn.pkmer.cn/covers/habit-calendar_2_7.png!pkmer)
+![勾选习惯](images/check_habits.png)
 
 ### 查看你的习惯
 
@@ -314,7 +313,7 @@ renderHabitCalendar(this.container, dv, {year, month, data})
 ```
 ~~~
 
-![reading](https://cdn.pkmer.cn/covers/habit-calendar_2_8.png!pkmer)
+![reading](images/reading.png)
 
 ### 查看所有习惯
 
@@ -356,7 +355,7 @@ renderHabitCalendar(this.container, dv, {year, month, data: calendarData, date_p
 
 它的显示效果如下图所示：
 
-![all habits](https://cdn.pkmer.cn/covers/habit-calendar_2_9.png!pkmer)
+![all habits](images/allhabits.png)
 
 ## 计划
 

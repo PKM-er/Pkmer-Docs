@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vzsky/apl-obsidian/master/README.md)
->
 
 ---
 
@@ -84,4 +83,4 @@ APL 是一种编程语言，字面上的意思。
 
 除了插件之外，您还需要单独安装 APL385 字体。这不是必需的用于 Unicode 渲染，但如果没有它，显示效果会很丑。
 
-感谢<https://github.com/secwang/espanso-apl-keyboard/blob/main/base.yml> 提供了 APL> Unicode 的映射。
+感谢<https://github.com/secwang/espanso-apl-keyboard/blob/main/base.yml>提供了 APL Unicode 的映射。

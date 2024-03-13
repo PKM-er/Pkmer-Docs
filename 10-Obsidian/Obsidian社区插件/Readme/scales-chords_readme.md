@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/egradman/scales-chords/master/README.md)
->
 
 ---
 
@@ -46,9 +45,9 @@ modified: 20230101000000
 Verse
 G Am G/B G %
 Blackbird singing in the dead of night
-C C#dim D D#dim Em D# %
+C C#dim D    D#dim Em D# %
 Take these broken wings and learn to fly
-D C#dim C Cm %
+D C#dim C    Cm %
 All your life
 G/B A7 D7 G %
 You were only waiting for this moment to arise

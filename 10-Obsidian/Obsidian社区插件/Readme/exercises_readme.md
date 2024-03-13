@@ -1,5 +1,5 @@
 ---
-uid: 2023120719274475
+uid: 2023102611074748
 title: Obsidian 插件：【Readme】Exercises
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian笔记旁边创建交互式练习
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在 Obsidian 笔记旁边创建交互式练习
 
-![Exercises](https://cdn.pkmer.cn/covers/exercises.gif)
+![Exercises](https://cdn.pkmer.cn/covers/exercises.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/AlexCCavaco/obsidian-exercises/master/README.md)
->
 
 ---
 
@@ -49,7 +48,7 @@ Obsidian 练习是一种在 Obsidian 中创建练习的简便方法。无论您�
 
 ## 选择
 
-![匹配练习](https://cdn.pkmer.cn/covers/exercises_2_0.gif)
+![匹配练习](assets/select-exercise.gif)
 
 **注意：**上面的图片中没有显示选项菜单。
 
@@ -67,7 +66,7 @@ Obsidian 练习是一种在 Obsidian 中创建练习的简便方法。无论您�
 
 ## 输入
 
-![匹配练习](https://cdn.pkmer.cn/covers/exercises_2_1.gif)
+![匹配练习](assets/input-exercise.gif)
 
 >$input{" 选项 1", " 选项 2" [, …]}
 
@@ -85,7 +84,7 @@ Line 是 input 的一个更宽的版本。
 
 ## 匹配
 
-![匹配练习](https://cdn.pkmer.cn/covers/exercises_2_2.gif)
+![匹配练习](assets/match-exercise.gif)
 
 >$match{"option1"=>"value1", "option2"=>"value2" [, …]}
 

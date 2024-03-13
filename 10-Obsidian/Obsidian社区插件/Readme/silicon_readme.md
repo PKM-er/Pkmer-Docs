@@ -1,6 +1,6 @@
 ---
-uid: 2023120719425384
-title: Obsidian 插件：【Readme】Silicon AI
+uid: 2023080322265390
+title: Obsidian 插件：Silicon AI
 tags: ['obsidian插件', 'readme']
 description: 通过硅AI为您的笔记增加一些智能。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Silicon AI
+# Obsidian 插件：Silicon AI
 
 > [!Note] 插件名片
 > - 插件名称：Silicon AI
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/deepfates/silicon/master/README.md)
->
 
 ---
 
@@ -39,13 +38,13 @@ modified: 20230101000000
 
 硅：Obsidian 的人工智能
 
-这是 Obsidian 的一个插件（<https://obsidian.md）。它通过使用> OpenAI> API 的文本嵌入，添加了一个连接您的笔记的面板。
+这是 Obsidian 的一个插件（<https://obsidian.md>）。它通过使用 OpenAI API 的文本嵌入，添加了一个连接您的笔记的面板。
 
 开始使用
 
-您只需要一个 OpenAI API 密钥（您可以在<https://beta.openai.com/signup> 上获取）。一旦您获得了 API 密钥，您可以按照以下步骤安装插件：>
+您只需要一个 OpenAI API 密钥（您可以在<https://beta.openai.com/signup>上获取）。一旦您获得了 API 密钥，您可以按照以下步骤安装插件：
 
-- 在发布页面（<https://github.com/deepfates/silicon/releases）上找到最新的发布版本。>
+- 在发布页面（<https://github.com/deepfates/silicon/releases>）上找到最新的发布版本。
 - 下载文件 `main.js`，`manifest.json` 和 `styles.css`。
 - 在 Obsidian 插件目录中创建一个 silicon 文件夹。该目录的位置可能因操作系统而异，但通常位于 `[您的保险库]/.obsidian/plugins` 中。
 - 将下载的文件复制到新的 silicon 文件夹中。
@@ -55,7 +54,7 @@ modified: 20230101000000
 - 点击“保存”以保存更改。
 - 现在，您可以使用 Silicon 通过单击 Obsidian 窗口右侧面板上的“Silicon”按钮来连接您的笔记。该插件将使用文本嵌入来查找相关的笔记并在面板中显示它们。
 
-![Silicon Screenshot](https://cdn.pkmer.cn/covers/silicon_2_0.png!pkmer)
+![Silicon Screenshot](silicon-screenshot.png)
 
 -----
 

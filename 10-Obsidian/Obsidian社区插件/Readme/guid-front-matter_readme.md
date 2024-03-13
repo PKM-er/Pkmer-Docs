@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/llimllib/obsidian-guid-plugin/master/README.md)
->
 
 ---
 
@@ -44,7 +43,7 @@ modified: 20230101000000
 
 Obsidian 文档
 
-请参阅<https://github.com/obsidianmd/obsidian-api> 和 <https://docs.obsidian.md/Plugins/Releasing/Plugin+guidelines>
+请参阅<https://github.com/obsidianmd/obsidian-api>和<https://docs.obsidian.md/Plugins/Releasing/Plugin+guidelines>
 
 制作一个发布版本
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719363634
-title: Obsidian 插件：【Readme】Metronome
+uid: 2023080322223258
+title: Obsidian 插件：Metronome
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中添加互动节拍器。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Metronome
+# Obsidian 插件：Metronome
 
 > [!Note] 插件名片
 > - 插件名称：Metronome
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在您的笔记中添加互动节拍器。
 
-![Metronome](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin.gif)
+![Metronome](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/curtgrimes/obsidian-metronome-plugin/master/README.md)
->
 
 ---
 
@@ -79,7 +78,7 @@ bpm: 120
 
 这将在你的笔记中生成一个可视化的节拍器。默认情况下，它是静音的，但你可以按下取消静音按钮来听到它的点击声（或者更改 `muted` 选项，使其默认点击声&mdash; 有关更多选项，请参见下文）。
 
-![Kiku](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_0.gif)
+![Kiku](images/demo-2.gif)
 
 你可以进一步自定义节拍器：
 
@@ -124,7 +123,7 @@ tockNotes: A4
 
 当与[obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs)插件一起使用时，节拍器可以很好地放置在音乐符号旁边。
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_1.gif)
+![](images/demo-5.gif)
 
 ### 同时播放多个音调
 
@@ -223,7 +222,7 @@ style: pulse
 ```
 ````
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_2.gif)
+![](images/demo-6.gif)
 
 ### `pendulum` 样式
 
@@ -237,7 +236,7 @@ style: pendulum
 ```
 ````
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_3.gif)
+![](images/demo-7.gif)
 
 ### `line` 样式
 
@@ -251,7 +250,7 @@ style: line
 ```
 ````
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_4.gif)
+![](images/demo-8.gif)
 
 ### `dots` 样式
 
@@ -264,7 +263,7 @@ style: dots
 ```
 ````
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_5.gif)
+![](images/demo-style-dots.gif)
 
 ### `stopAfter` 和 `countdown`
 
@@ -278,7 +277,7 @@ stopAfter: 12s
 ```
 ````
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_6.gif)
+![](images/demo-stop-after.gif)
 
 默认情况下，倒计时按钮会在 `stopAfter` 持续时间的最后 10 秒出现，但您可以让它显示更长的时间：
 
@@ -308,16 +307,16 @@ countdown: always
 
 #### 主题：黑曜石默认（暗色模式）
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_7.gif)
+![](images/demo-theme-obsidian-dark.gif)
 
 #### 主题：[Minimal](https://github.com/kepano/obsidian-minimal)（浅色模式）
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_8.gif)
+![](images/demo-theme-minimal-light.gif)
 
 #### 主题：[Obsidian Atom](https://github.com/kognise/obsidian-atom)（暗黑模式）
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_9.gif)
+![](images/demo-theme-atom-dark.gif)
 
 #### 主题：[Cecilia May Primary](https://github.com/ceciliamay/obsidianmd-theme-primary)（浅色模式）
 
-![](https://cdn.pkmer.cn/covers/obsidian-metronome-plugin_2_10.gif)
+![](images/demo-theme-cecilia-may-primary-light.gif)

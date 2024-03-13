@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/NatiAris/obsidian-random-todo/master/README.md)
->
 
 ---
 
@@ -35,12 +34,11 @@ modified: 20230101000000
 
 下面是 [[obsidian-random-todo]] 插件的自述翻译
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件。>
+这是一个为 Obsidian（<https://obsidian.md>）开发的插件。
 
 ### 术语和定义
 
 假设你在笔记中的可行动项附近留下了一个标记，比如 `todo`、`...`、`???` 等。
-
 我们将这样的标记的单个实例称为**待办事项**。
 
 这个插件做什么？
@@ -65,17 +63,13 @@ modified: 20230101000000
 这个插件的作用是什么？
 
 与 Open Random note 核心插件相同，但是使用这个插件，你只会进入那些有一些未完成的事务的文件中
-
 使用核心插件时，我不得不多次重新掷骰子来跳过已完成/实现的笔记，因此开发了这个插件。
 
 另请参阅
 
 您可能还对 [Smart Random Note Plugin](https://github.com/erichalldev/obsidian-smart-random-note) 感兴趣
-
 它具有类似的功能，但专注于不同的用例
-
 如果您经常更改模式，它可能更适合
 
 我希望有一种方法来最小化在我的用例中的点击次数，所以它并不完全符合我的需求
-
 同时拥有两者也是一个选择

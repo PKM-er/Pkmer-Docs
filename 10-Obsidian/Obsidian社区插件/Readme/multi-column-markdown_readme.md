@@ -1,6 +1,6 @@
 ---
-uid: 2023120719365953
-title: Obsidian 插件：【Readme】Multi-Column Markdown
+uid: 2023080322224355
+title: Obsidian 插件：Multi-Column Markdown
 tags: ['界面相关', '编辑工具', '美化', 'obsidian插件', 'readme']
 description: 在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Multi-Column Markdown
+# Obsidian 插件：Multi-Column Markdown
 
 > [!Note] 插件名片
 > - 插件名称：Multi-Column Markdown
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ckRobinson/multi-column-markdown/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 <br>
 
-![Preview_1](https://cdn.pkmer.cn/covers/multi-column-markdown_1_0.png!pkmer)
+![Preview_1](https://github.com/ckRobinson/multi-column-markdown/blob/master/images/Preview_1.png?raw=true)
 
 <br>
 
@@ -116,7 +115,7 @@ ID: ExampleRegion1\
 
 **渲染为：**
 
-![Example_1](https://cdn.pkmer.cn/covers/multi-column-markdown_1_1.png!pkmer)
+![Example_1](https://github.com/ckRobinson/multi-column-markdown/blob/master/images/Example_1.png?raw=true)
 
 ---
 
@@ -255,7 +254,7 @@ ID: ExampleRegion1\
 *示例:*
 
 > \```start-multi-column\
-> ID: 随机 *ID* 字符串\
+> ID: 随机 _ID_ 字符串\
 > \```
 
 - ID 用于区分同一文档中的不同区域。
@@ -718,6 +717,7 @@ Obsidian 主题化
         - 更改文档可能需要重新加载文件才能正确更新。
         - 目前不支持导出为 PDF。
         - 长段落的文本不会被分割成多列，因为它们被 Obsidian 渲染为单个内容块。
+
 
 **语法示例：**
 

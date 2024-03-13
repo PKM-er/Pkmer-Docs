@@ -1,6 +1,6 @@
 ---
-uid: 2023120719374857
-title: Obsidian 插件：【Readme】Obsidian Columns
+uid: 2023080322232076
+title: Obsidian 插件：Obsidian Columns
 tags: ['编辑器', '美化', '界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 笔记添加多栏结构，你可以通过这种多栏结构，来优化 OB 笔记的排版。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Columns
+# Obsidian 插件：Obsidian Columns
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Columns
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tnichols217/obsidian-columns/main/README.md)
->
 
 ---
 
@@ -155,7 +154,7 @@ col-md 块具有额外的 flexGrow 设置，用于设置代码块的相对宽度
 
 ## 示例
 
-![image](https://cdn.pkmer.cn/covers/obsidian-columns_1_0.png!pkmer)
+![image](https://user-images.githubusercontent.com/62992267/181198772-f9f11e54-d0f2-4a60-a0aa-8ebb364bffe8.png)
 
 由下面的 MD 生成：
 
@@ -217,7 +216,7 @@ console.log(msg)
     - (flex-grow)
         - （第二列中的文本）
 
-![image](https://cdn.pkmer.cn/covers/obsidian-columns_1_1.png!pkmer)
+![image](https://user-images.githubusercontent.com/62992267/165693531-5a9d7e8e-864f-40db-a936-cefdb333af22.png)
 
 通过以下MD代码生成：
 ```md

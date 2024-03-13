@@ -1,6 +1,6 @@
 ---
-uid: 2023120719444359
-title: Obsidian 插件：【Readme】Time Ruler
+uid: 2023080322281976
+title: Obsidian 插件：Time Ruler
 tags: ['obsidian插件', 'readme']
 description: 一个拖放式的时间标尺，结合了任务列表和日历视图的优点（与任务、完整日历和数据视图集成）。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Time Ruler
+# Obsidian 插件：Time Ruler
 
 > [!Note] 插件名片
 > - 插件名称：Time Ruler
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joshuatazrein/obsidian-time-ruler/master/README.md)
->
 
 ---
 
@@ -79,7 +78,7 @@ modified: 20230101000000
 
 ## 按钮
 
-![refresh](https://cdn.pkmer.cn/covers/time-ruler_2_0.png!pkmer)
+![refresh](assets/buttons.png)
 
 - 点击**搜索**（放大镜）按钮以显示所有任务和标题并进行筛选。
 - 点击**日历**按钮以在全天和按小时的视图之间切换。
@@ -98,7 +97,7 @@ modified: 20230101000000
 
 ## 计时器
 
-![计时器](https://cdn.pkmer.cn/covers/time-ruler_2_1.png!pkmer)
+![计时器](assets/timer.png)
 
 - 要启动一个**秒表**，请点击播放按钮，不输入任何时间。
 - 要启动一个**计时器**，请输入分钟数并按下播放按钮或 "Enter" 键。

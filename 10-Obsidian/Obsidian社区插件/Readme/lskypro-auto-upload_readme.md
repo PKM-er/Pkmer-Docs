@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/NekoTarou/lskypro-auto-upload/main/README.md)
->
 
 ---
 
@@ -46,7 +45,7 @@ modified: 20230101000000
 1. 安装 LskyPro 图床并进行配置。配置方法请参考 [官方网站](https://www.lsky.pro/)
 2. 打开 LskyPro 的界面
 3. 使用授权界面获取 Token 并记录下来
-4. 打开插件配置项，设置 LskyPro 的域名（例如：<https://lsky.xxx.com）>
+4. 打开插件配置项，设置 LskyPro 的域名（例如：<https://lsky.xxx.com>）
 5. 设置 LskyPro 的 Token
 6. 存储策略 ID 是可选配置，根据 LskyPro 的策略和自身需求进行配置。如果只有一个策略，则无需设置。
 

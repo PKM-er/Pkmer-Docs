@@ -1,6 +1,6 @@
 ---
-uid: 2023120719220899
-title: Obsidian 插件：【Readme】AI Assistant
+uid: 2023080322135274
+title: Obsidian 插件：AI Assistant
 tags: ['obsidian插件', 'readme']
 description: Obsidian的AI助手插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】AI Assistant
+# Obsidian 插件：AI Assistant
 
 > [!Note] 插件名片
 > - 插件名称：AI Assistant
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 Obsidian 的 AI 助手插件。
 
-![AI Assistant](https://cdn.pkmer.cn/covers/ai-assistant_new.gif)
+![AI Assistant](https://cdn.pkmer.cn/covers/ai-assistant_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/qgrail/obsidian-ai-assistant/main/README.md)
->
 
 ---
 
@@ -56,11 +55,11 @@ Obsidian 的 AI 助手插件。
 1. 聊天模式，
 2. 提示模式。
 
-| 聊天模式 | 提示模式 |
+| 聊天模式 |       提示模式 |
 
 |:------------------------:|:-------------------------:|
 
-| ![](gifs/chat_mode.gif) | ![](https://cdn.pkmer.cn/covers/ai-assistant_2_0.gif) |
+| ![](gifs/chat_mode.gif) | ![](gifs/prompt_mode.gif) |
 
 #### 聊天模式
 

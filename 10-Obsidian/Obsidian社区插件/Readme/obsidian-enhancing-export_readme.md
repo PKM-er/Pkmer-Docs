@@ -1,6 +1,6 @@
 ---
-uid: 2023120719374992
-title: Obsidian 插件：【Readme】Obsidian Enhancing Export
+uid: 2023080322232157
+title: Obsidian 插件：Obsidian Enhancing Export
 tags: ['obsidian插件', 'readme']
 description: 一款基于Pandoc的Obsidian导出插件，它允许导出到Html、DOCX、ePub和PDF或Hugo等格式。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Enhancing Export
+# Obsidian 插件：Obsidian Enhancing Export
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Enhancing Export
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mokeyish/obsidian-enhancing-export/main/README.md)
->
 
 ---
 
@@ -59,11 +58,11 @@ modified: 20230101000000
 
 - 导出视图，点击文件菜单上的 `导出到...`。
 
-  ![](https://cdn.pkmer.cn/covers/obsidian-enhancing-export_1_2.png!pkmer)
+  ![](https://raw.githubusercontent.com/mokeyish/obsidian-enhancing-export/master/screenshot/exportview_en-US.png)
 
 - 设置视图
 
-  ![](https://cdn.pkmer.cn/covers/obsidian-enhancing-export_1_3.png!pkmer)
+  ![](https://raw.githubusercontent.com/mokeyish/obsidian-enhancing-export/master/screenshot/settingview_en-US.png)
 
 ## 安装
 

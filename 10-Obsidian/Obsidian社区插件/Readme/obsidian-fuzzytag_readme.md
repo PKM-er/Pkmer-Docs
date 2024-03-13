@@ -1,6 +1,6 @@
 ---
-uid: 2023120719293503
-title: Obsidian 插件：【Readme】FuzzyTag
+uid: 2023080322190031
+title: Obsidian 插件：FuzzyTag
 tags: ['obsidian插件', 'readme']
 description: 前置元数据中的模糊匹配自动完成标签
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】FuzzyTag
+# Obsidian 插件：FuzzyTag
 
 > [!Note] 插件名片
 > - 插件名称：FuzzyTag
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/adriandersen/obsidian-fuzzytag/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 感谢原始插件开发者的灵感和创建这个插件的基础。
 
-![](https://cdn.pkmer.cn/covers/obsidian-fuzzytag_2_0.png!pkmer)
+![](screenshot.png)
 
 已知问题：
 

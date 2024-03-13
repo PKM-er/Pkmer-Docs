@@ -1,6 +1,6 @@
 ---
-uid: 2023120719351612
-title: Obsidian 插件：【Readme】Liquid Templates
+uid: 2023080322213773
+title: Obsidian 插件：Liquid Templates
 tags: ['模板', 'obsidian插件', 'readme']
 description: 使用支持 LiquidJS 标签的模板
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Liquid Templates
+# Obsidian 插件：Liquid Templates
 
 > [!Note] 插件名片
 > - 插件名称：Liquid Templates
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 使用支持 LiquidJS 标签的模板
 
-![Liquid Templates](https://cdn.pkmer.cn/covers/liquid-templates.gif)
+![Liquid Templates](https://cdn.pkmer.cn/covers/liquid-templates.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/oeN/liquid-template/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 ## Liquid 模板
 
-这是 Obsidian（<https://obsidian.md）的一个插件。>
+这是 Obsidian（<https://obsidian.md>）的一个插件。
 
 使用这个插件，你可以使用 [LiquidJS](https://liquidjs.com/) 标签来编写你的模板。
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 
 默认情况下，有一个自动完成功能，通过 `;;` 触发，但可以在选项中进行自定义。
 
-![](https://cdn.pkmer.cn/covers/liquid-templates_2_0.gif)
+![](imgs/autocomplete-liquid-templates.gif)
 
 这意味着您可以创建一个由较小模板组成的模板，例如（假设您的模板文件夹为 `templates`）：
 

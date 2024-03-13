@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/carvah/markdown-tree-plugin/master/README.md)
->
 
 ---
 
@@ -81,4 +80,4 @@ root
                 └── file3.pdf
 ```
 
-感谢<https://gitlab.com/nfriend> 制作了最常用的目录插件，可以在 <https://tree.nathanfriend.io/上在线使用。>
+感谢<https://gitlab.com/nfriend>制作了最常用的目录插件，可以在<https://tree.nathanfriend.io/>上在线使用。

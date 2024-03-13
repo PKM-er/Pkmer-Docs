@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kometenstaub/linked-data-helper/main/README.md)
->
 
 ---
 
@@ -59,4 +58,4 @@ modified: 20230101000000
 
 ## 鸣谢
 
-该插件使用了 'split2' npm 包 (<https://www.npmjs.com/package/split2>)。它在> 'ISC 许可证 ' 下获得许可。许可证可以在 [这里](https://github.com/kometenstaub/linked-data-helper/blob/main/esbuild.js) 找到。
+该插件使用了 'split2' npm 包 (<https://www.npmjs.com/package/split2>)。它在 'ISC 许可证 ' 下获得许可。许可证可以在 [这里](https://github.com/kometenstaub/linked-data-helper/blob/main/esbuild.js) 找到。

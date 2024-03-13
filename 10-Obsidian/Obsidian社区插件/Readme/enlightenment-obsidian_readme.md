@@ -1,6 +1,6 @@
 ---
-uid: 2023120719273498
-title: Obsidian 插件：【Readme】Enlightenment
+uid: 2023080322175378
+title: Obsidian 插件：Enlightenment
 tags: ['obsidian插件', 'readme']
 description: 注意你正在关注的内容。Enlightenment为预览添加了一个“Zen模式”，隐藏了你的笔记内容，除了你的指针下面的内容。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Enlightenment
+# Obsidian 插件：Enlightenment
 
 > [!Note] 插件名片
 > - 插件名称：Enlightenment
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 注意你正在关注的内容。Enlightenment 为预览添加了一个“Zen 模式”，隐藏了你的笔记内容，除了你的指针下面的内容。
 
-![Enlightenment](https://cdn.pkmer.cn/covers/enlightenment-obsidian_new.gif)
+![Enlightenment](https://cdn.pkmer.cn/covers/enlightenment-obsidian_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/enlightenment-obsidian/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 有三种模式。在“所有窗格”模式下，启蒙会淡化所有笔记的内容。在“活动窗格”模式下，它只对当前活动的窗格起作用。最后，在“非活动窗格”模式下，启蒙会淡化所有非活动窗格。
 
-![启蒙的视频演示。](https://cdn.pkmer.cn/covers/enlightenment-obsidian_1_0.gif)
+![启蒙的视频演示。](https://user-images.githubusercontent.com/3618647/166983349-08cc8182-64a5-4695-ac3c-344ba8d561da.gif)
 
 ### 安装插件
 

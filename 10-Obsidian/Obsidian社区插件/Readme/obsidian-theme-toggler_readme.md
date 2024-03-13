@@ -1,6 +1,6 @@
 ---
-uid: 2023120719443887
-title: Obsidian 插件：【Readme】Theme Toggler
+uid: 2023080322281437
+title: Obsidian 插件：Theme Toggler
 tags: ['obsidian插件', 'readme']
 description: 在 Obsidian 面板中切换主题。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Theme Toggler
+# Obsidian 插件：Theme Toggler
 
 > [!Note] 插件名片
 > - 插件名称：Theme Toggler
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/larsmagnus/obsidian-theme-toggler/main/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 ![Release](https://github.com/larsmagnus/obsidian-theme-toggler/actions/workflows/release.yml/badge.svg)
 
-![Obsidian主题切换器由larsmagnus提供](https://cdn.pkmer.cn/covers/obsidian-theme-toggler_1_2.png!pkmer)
+![Obsidian主题切换器由larsmagnus提供](https://raw.githubusercontent.com/larsmagnus/obsidian-theme-toggler/main/cover.png)
 
 为 Obsidian 的每个面板单独切换主题。
 

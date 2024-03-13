@@ -1,6 +1,6 @@
 ---
-uid: 2023120719374309
-title: Obsidian 插件：【Readme】Obsidian CircuitJS
+uid: 2023080322231833
+title: Obsidian 插件：Obsidian CircuitJS
 tags: ['obsidian插件', 'readme']
 description: 将CircuitJS电路仿真嵌入笔记中
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian CircuitJS
+# Obsidian 插件：Obsidian CircuitJS
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian CircuitJS
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/StevenGann/obsidian-circuitjs/master/README.md)
->
 
 ---
 
@@ -69,7 +68,7 @@ h 1 4 3
 
 在 Obsidian 的阅读视图中，Obsidian 将用代码块替换为嵌入的 CircuitJS 实例，该实例中定义了代码中的电路，并提供了一个链接以在完整的浏览器中打开电路。
 
-![CircuitJS视图](https://cdn.pkmer.cn/covers/obsidian-circuitjs_1_0.png!pkmer)
+![CircuitJS视图](https://raw.githubusercontent.com/StevenGann/obsidian-circuitjs/master/docs/screenshot.png)
 
 ### 限制
 

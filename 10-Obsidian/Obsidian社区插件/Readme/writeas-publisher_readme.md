@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/encima/obsidian-writeas-plugin/main/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 什么？
 
-将笔记发布到<https://write.as。>
+将笔记发布到<https://write.as>。
 
 ## 披露
 

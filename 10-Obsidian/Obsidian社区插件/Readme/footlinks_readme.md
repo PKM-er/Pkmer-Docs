@@ -1,6 +1,6 @@
 ---
-uid: 2023120719290910
-title: Obsidian 插件：【Readme】Footlinks
+uid: 2023080322184409
+title: Obsidian 插件：Footlinks
 tags: ['文件重构', '链接处理', '效率', '自动化', 'obsidian插件', 'readme']
 description: 自动提取笔记中的链接，并将这些链接，在笔记尾部生成对应的 脚注格式。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Footlinks
+# Obsidian 插件：Footlinks
 
 > [!Note] 插件名片
 > - 插件名称：Footlinks
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/DahaWong/obsidian-footlinks/main/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 *⚠️ 请确保您正在使用最新版本。*
 
-![演示](https://cdn.pkmer.cn/covers/footlinks_1_0.png!pkmer)
+![演示](https://raw.githubusercontent.com/DahaWong/obsidian-footlinks/main/demo.png)
 
 使用方法
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719281042
-title: Obsidian 插件：【Readme】File Explorer Markdown Titles
+uid: 2023080322181303
+title: Obsidian 插件：File Explorer Markdown Titles
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 在文件资源管理器中显示笔记的第一个markdown标题
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】File Explorer Markdown Titles
+# Obsidian 插件：File Explorer Markdown Titles
 
 > [!Note] 插件名片
 > - 插件名称：File Explorer Markdown Titles
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Dyldog/file-explorer-markdown-titles/main/README.md)
->
 
 ---
 
@@ -41,10 +40,10 @@ modified: 20230101000000
 
 在侧边栏的文件名旁边显示找到的第一个 Markdown 标题。无需设置，直接使用。
 
-![](https://cdn.pkmer.cn/covers/file-explorer-markdown-titles_2_0.png!pkmer)
+![](images/Sidebar.png)
 
 还将图形视图中的标题替换为笔记的 Markdown 标题。
 
-![](https://cdn.pkmer.cn/covers/file-explorer-markdown-titles_2_1.png!pkmer)
+![](images/Graph.png)
 
 从 [file-explorer-note-count](https://github.com/ozntel/file-explorer-note-count) 进行了分叉并且基于其进行了大量修改。

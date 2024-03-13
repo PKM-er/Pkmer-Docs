@@ -1,6 +1,6 @@
 ---
-uid: 2023120719300911
-title: Obsidian 插件：【Readme】Habit Tracker
+uid: 2023080322193080
+title: Obsidian 插件：Habit Tracker
 tags: ['界面相关', '日期相关', '效率', 'obsidian插件', 'readme']
 description: 创建了一个简单的月历视图，用于可视化您的 Obsidian 使用记录。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Habit Tracker
+# Obsidian 插件：Habit Tracker
 
 > [!Note] 插件名片
 > - 插件名称：Habit Tracker
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Narsail/habit-tracker-obsidian/master/README.md)
->
 
 ---
 
@@ -48,9 +47,9 @@ modified: 20230101000000
 3. 使用 [DataviewJS](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/) 收集要显示的数据
 4. 使用**renderHabitTracker()**将数据传递给习惯追踪器
 
-![习惯追踪器示例](https://cdn.pkmer.cn/covers/habit-tracker_1_0.png!pkmer)
+![习惯追踪器示例](https://raw.githubusercontent.com/Narsail/habit-tracker-obsidian/master/github-images/trackerExample.png)
 
-![带有数值的习惯追踪器示例](https://cdn.pkmer.cn/covers/habit-tracker_1_1.png!pkmer)
+![带有数值的习惯追踪器示例](https://raw.githubusercontent.com/Narsail/habit-tracker-obsidian/master/github-images/trackerExampleWithValues.png)
 
 ## 完整示例代码
 

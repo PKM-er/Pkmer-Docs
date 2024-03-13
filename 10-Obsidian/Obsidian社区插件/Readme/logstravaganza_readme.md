@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/czottmann/obsidian-logstravaganza/main/README.md)
->
 
 ---
 
@@ -81,7 +80,7 @@ modified: 20230101000000
 
 ## 作者
 
-Carlo Zottmann，<carlo@zottmann.co>，<https://zottmann.co/，https://github.com/czottmann>
+Carlo Zottmann，<carlo@zottmann.co>，<https://zottmann.co/>，<https://github.com/czottmann>
 
 免责声明
 

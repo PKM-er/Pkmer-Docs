@@ -1,6 +1,6 @@
 ---
-uid: 2023120719270237
-title: Obsidian 插件：【Readme】Draw Harada Method
+uid: 2023080322172942
+title: Obsidian 插件：Draw Harada Method
 tags: ['obsidian插件', 'readme']
 description: 画出原田方法。制定自己的1个目标，8个计划和64个行动！
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Draw Harada Method
+# Obsidian 插件：Draw Harada Method
 
 > [!Note] 插件名片
 > - 插件名称：Draw Harada Method
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yildbs/obsidian-harada-method-plugin/master/README.md)
->
 
 ---
 
@@ -47,11 +46,11 @@ modified: 20230101000000
 
 ### 🧢 大谷翔平 🧢
 
-![日本棒球选手大谷翔平](https://cdn.pkmer.cn/covers/draw-harada-method_1_0.png!pkmer)
+![日本棒球选手大谷翔平](https://jimstoneconsulting.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-08-at-9.40.47-AM.png)
 
 ### ⚾ 大谷的原田方法 ⚾
 
-![大谷的原田方法](https://cdn.pkmer.cn/covers/draw-harada-method_1_1.png!pkmer)
+![大谷的原田方法](https://jimstoneconsulting.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-07-at-11.53.33-AM.png)
 
 参考：<https://jimstoneconsulting.com/shohei-ohtani-the-harada-method-and-volleyball/>
 
@@ -85,7 +84,7 @@ modified: 20230101000000
  ```
 ~~~
 
-![示例](https://cdn.pkmer.cn/covers/draw-harada-method_1_2.gif)
+![示例](https://user-images.githubusercontent.com/20436037/231749576-0786fb1a-542c-4476-a5de-d6d16664ee92.gif)
 
 # TODO
 

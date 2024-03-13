@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/loftTech/obsidian-oblogger/main/README.md)
->
 
 ---
 
@@ -101,7 +100,7 @@ oblogger 是 Obsidian 的一个侧边栏插件，主要专注于两个核心功�
 - 我至少可以**隐藏**我的头像吗？
   - 当然可以！点击导航栏的齿轮图标，你可以隐藏各种东西。
 - 如何设置自定义文档图标？
-  - 在文件的正文中添加 `icon: "..."`。`...` 可以是来自<https://lucide.dev> 的几乎任何东西，例如尝试在文件中添加>`icon: "dog"` :)
+  - 在文件的正文中添加 `icon: "..."`。`...` 可以是来自<https://lucide.dev>的几乎任何东西，例如尝试在文件中添加 `icon: "dog"` :)
 - 我昨天创建了一个日记，现在我的日记顺序错乱了？
   - 默认情况下，我们使用 `file.ctime` 来排序日记。但是，你可以通过在正文中添加 `created: YYYY-MM-DD` 或 `day: YYYY-MM-DD` 来覆盖日期。
 - 我如何为你们的辛勤工作付费？

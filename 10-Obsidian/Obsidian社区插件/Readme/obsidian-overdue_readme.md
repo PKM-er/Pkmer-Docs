@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/parente/obsidian-overdue/main/README.md)
->
 
 ---
 
@@ -87,4 +86,4 @@ npm run dev
 eslint main.ts
 ```
 
-有关更多详细信息，请参见<https://github.com/obsidianmd/obsidian-sample-plugin。>
+有关更多详细信息，请参见<https://github.com/obsidianmd/obsidian-sample-plugin>。

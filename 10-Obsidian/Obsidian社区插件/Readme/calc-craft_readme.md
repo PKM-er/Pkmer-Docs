@@ -27,7 +27,6 @@ Enables table-based calculations with a spreadsheet-like approach, utilizing ref
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/klaudyu/CalcCraft/main/readme.md)
->
 
 ---
 

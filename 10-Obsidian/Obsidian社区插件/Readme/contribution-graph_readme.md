@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vran-dev/obsidian-contribution-graph/master/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 【机翻】
 
-**中文** | [中文文档](https://mp.weixin.qq.com/s/wI8M_C87oZAtCBjFWC8CmA)
+**中文** |  [中文文档](https://mp.weixin.qq.com/s/wI8M_C87oZAtCBjFWC8CmA)
 
 ## 什么
 

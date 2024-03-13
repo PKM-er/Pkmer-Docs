@@ -1,6 +1,6 @@
 ---
-uid: 2023120719375613
-title: Obsidian 插件：【Readme】Obsidian jTab
+uid: 2023080322232634
+title: Obsidian 插件：Obsidian jTab
 tags: ['编辑器', '美化', '音乐相关', 'obsidian插件', 'readme']
 description: 使用 jTab 代码块将吉他和和弦图，以图片的形式添加到集中。jTab
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian jTab
+# Obsidian 插件：Obsidian jTab
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian jTab
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/davfive/obsidian-jtab/main/README.md)
->
 
 ---
 
@@ -46,15 +45,12 @@ Obsidian jTab 可以在你的笔记中直接显示吉他和弦和吉他谱。
 #### jTab 代码块
 
 * ```` ```jtab````
-
   jTab 行将被渲染。jTab 会自动检测是否存在和弦、吉他指法或两者都有。
 
 * ```` ```jtab-examples````
-
   输入一个空的代码块以查看所有的 [jTab示例](https://jtab.tardate.com/examples.htm)
 
 * ```` ```jtab-chords````
-
   输入一个空的代码块以查看所有可用的和弦（仅名称）。从列表中复制/粘贴任何内容到一个普通的 jtab 代码块中以查看和弦图表。
 
 #### Obsidian jTab 的特定增强功能
@@ -92,15 +88,12 @@ jTab 的颜色现在可以完全自定义，并且在设置中提供了实时预
 #### jTab 渲染注意事项
 
 * _它是否“响应式”？_
-
   jTab 库本身不是响应式的（即根据移动设备和浏览器宽度自动调整大小），因此在移动设备上的效果可能会有所不同。
 
 * _渲染过宽？_
-
   jTab 渲染的宽度取决于您设置的 jTab 的长度。您可以将长的 jTab 分成多行来显示。
 
 * _关于 jTab 网站上提到的 chordonly 和 tabonly 类有什么作用？_
-
   jTab 库在渲染 jTab 时会自动检测是否存在和弦和/或标签。在示例页面上提到的 chordonly 和 tabonly 类不会影响渲染的图像。它们是用于在渲染图像的包含 div/父元素无法正确自动调整图像高度时的旧辅助类。在现代浏览器中，这些类不再需要。
 
 #### 渲染的 jTab 示例
@@ -113,7 +106,7 @@ E / / / A7 / B7 /
 ```
 ~~~~
 
-![codeblock jtab chords](https://cdn.pkmer.cn/covers/obsidian-jtab_1_0.jpeg!pkmer)
+![codeblock jtab chords](https://raw.githubusercontent.com/davfive/obsidian-jtab/main/docs/images/codeblock-jtab-chords-only.jpg)
 
 __只有指法的 jTab__ (哈哈)
 
@@ -123,7 +116,7 @@ $4.7 $3.5 $2.5 $1.5 $1.7.$4.6 $2.5 $3.5 $1.7 | $1.8.$4.5 $2.5 $3.5 $1.8 $1.2.$4.
 ```
 ~~~~
 
-![codeblock jtab tabs](https://cdn.pkmer.cn/covers/obsidian-jtab_1_1.jpeg!pkmer)
+![codeblock jtab tabs](https://raw.githubusercontent.com/davfive/obsidian-jtab/main/docs/images/codeblock-jtab-tab-only.jpg)
 
 __带有和弦和指法的 jTab__
 
@@ -133,7 +126,7 @@ Bm $3 4 4h5p3h4 5 $2 3 5 7 7h8p7 5/7 ||
 ```
 ~~~~
 
-![codeblock jtab](https://cdn.pkmer.cn/covers/obsidian-jtab_1_2.jpeg!pkmer)
+![codeblock jtab](https://raw.githubusercontent.com/davfive/obsidian-jtab/main/docs/images/codeblock-jtab-chords-and-tabs.jpg)
 
 __jTab 示例代码块__
 
@@ -142,7 +135,7 @@ __jTab 示例代码块__
 ```
 ~~~~
 
-![codeblock jtab-examples](https://cdn.pkmer.cn/covers/obsidian-jtab_1_3.jpeg!pkmer)
+![codeblock jtab-examples](https://raw.githubusercontent.com/davfive/obsidian-jtab/main/docs/images/codeblock-jtab-examples.jpg)
 
 #### 归属
 

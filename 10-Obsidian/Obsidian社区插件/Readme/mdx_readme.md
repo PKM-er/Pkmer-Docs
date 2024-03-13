@@ -1,5 +1,5 @@
 ---
-uid: 2023120719362256
+uid: 2023102611080668
 title: Obsidian 插件：【Readme】MDX
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中预览MDX，支持Code Hike。
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在 Obsidian 中预览 MDX，支持 Code Hike。
 
-![MDX](https://cdn.pkmer.cn/covers/mdx.gif)
+![MDX](https://cdn.pkmer.cn/covers/mdx.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/yuleicul/obsidian-mdx/main/README.md)
->
 
 ---
 
@@ -49,7 +48,7 @@ modified: 20230101000000
 2. 按下 `ctrl/cmd + p` 打开命令面板。
 3. 在命令面板中输入 `mdx: preview` 并按下 `Enter` 键。
 
-![code-hike-example](https://cdn.pkmer.cn/covers/mdx_1_0.gif)
+![code-hike-example](https://github.com/yuleicul/obsidian-mdx/assets/27288153/a28bea0c-610a-4282-ad89-89fccc504f8a)
 
 ### 对 Code Hike 的支持
 

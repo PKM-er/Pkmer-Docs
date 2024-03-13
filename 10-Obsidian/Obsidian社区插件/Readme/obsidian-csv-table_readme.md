@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/coddingtonbear/obsidian-csv-table/master/README.md)
->
 
 ---
 
@@ -99,7 +98,7 @@ source: countries.csv
 
 ### 表达式
 
-该库使用 `filtrex` 进行表达式评估；请参阅其文档以了解有关表达式语法和可用函数的更多信息：<https://github.com/m93a/filtrex#expressions。>
+该库使用 `filtrex` 进行表达式评估；请参阅其文档以了解有关表达式语法和可用函数的更多信息：<https://github.com/m93a/filtrex#expressions>。
 
 在“过滤显示的行”中可以看到一个过滤表达式的示例，但实际上它们的工作方式与您可能预期的完全相同。
 

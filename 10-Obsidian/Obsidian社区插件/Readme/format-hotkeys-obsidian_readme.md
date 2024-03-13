@@ -27,7 +27,6 @@ Obsidian 的 Google Docs 样式格式快捷键
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/anstosa/format-hotkeys-obsidian/main/README.md)
->
 
 ---
 

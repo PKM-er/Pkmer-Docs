@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-contextual-typography/main/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 该插件为所有顶级预览 `div` 添加了一个 `data-tag-name` 属性，以实现上下文排版。注意：该插件不会添加任何样式，但会启用上下文样式。
 
-这个插件的灵感来自于<http://matejlatin.github.io/Gutenberg/。>
+这个插件的灵感来自于<http://matejlatin.github.io/Gutenberg/>。
 
 ## 示例
 

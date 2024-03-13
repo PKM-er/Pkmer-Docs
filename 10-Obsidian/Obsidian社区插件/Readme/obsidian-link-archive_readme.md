@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tomzorz/obsidian-link-archive/master/README.md)
->
 
 ---
 
@@ -44,7 +43,7 @@ modified: 20230101000000
 在点击工具栏/左侧边栏上的“存档链接”按钮后，插件会执行以下操作：
 
 1. 查找当前笔记中的每个外部链接，
-2. 将每个链接提交到<https://archive.org，>
+2. 将每个链接提交到<https://archive.org>，
 3. 一旦链接被保存，它会在笔记中的常规链接后面嵌入一个“(已存档)”链接。
 
 插件将尝试不为已存档的链接（以及存档链接本身）重新创建存档链接，但这依赖于不修改存档链接的格式。

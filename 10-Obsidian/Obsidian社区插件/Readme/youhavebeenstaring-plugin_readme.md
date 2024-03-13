@@ -1,6 +1,6 @@
 ---
-uid: 2023120719470111
-title: Obsidian 插件：【Readme】YouHaveBeenStaring
+uid: 2023080322295287
+title: Obsidian 插件：YouHaveBeenStaring
 tags: ['界面相关', '统计', '状态栏', '时间管理', 'obsidian插件', 'readme']
 description: 告诉你用了多久 Obsidian 了
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】YouHaveBeenStaring
+# Obsidian 插件：YouHaveBeenStaring
 
 > [!Note] 插件名片
 > - 插件名称：YouHaveBeenStaring
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/fxal/obsidian-youhavebeenstaring-plugin/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 插件 *YouHaveBeenStaring*
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件。>
+这是一个为 Obsidian（<https://obsidian.md>）开发的插件。
 
 它以自然语言的方式在状态栏中告诉您您的 vault 已经打开了多长时间（自插件加载以来的时间）。还可以选择显示您的 vault 总共打开了多长时间。
 
@@ -76,4 +75,4 @@ modified: 20230101000000
 
 您将在右下角状态栏中看到您盯着保险库的时间。
 
-![](https://cdn.pkmer.cn/covers/youhavebeenstaring-plugin_2_0.png!pkmer)
+![](screenshot.png)

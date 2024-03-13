@@ -27,7 +27,6 @@ Your 21-day journey to habit formation simplified
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zoreet/habit-tracker/master/README.md)
->
 
 ---
 

@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hrenaud/obsidian-checkbox3states-plugin/main/README.md)
->
 
 ---
 
@@ -51,7 +50,7 @@ modified: 20230101000000
 
 如何自定义颜色
 
-打开**Obsidian 设置**，在 `Community plugins` 列表中选择**Checkbox 3 states**。
+打开**Obisdian 设置**，在 `Community plugins` 列表中选择**Checkbox 3 states**。
 
 在此面板中，设置两种颜色：
 

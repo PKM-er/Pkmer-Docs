@@ -1,6 +1,6 @@
 ---
-uid: 2023120719263721
-title: Obsidian 插件：【Readme】Dendron Tree
+uid: 2023080322171414
+title: Obsidian 插件：Dendron Tree
 tags: ['obsidian插件', 'readme']
 description: 为Dendron笔记添加树形结构以进行探索。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Dendron Tree
+# Obsidian 插件：Dendron Tree
 
 > [!Note] 插件名片
 > - 插件名称：Dendron Tree
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/levirs565/obsidian-dendron-tree/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 Obsidian Dendron Tree 为 [Dendron](https://www.dendron.so/) 笔记添加了一棵树。功能包括：
 
-![Dendron树状图](https://cdn.pkmer.cn/covers/dendron-tree_2_0.png!pkmer)
+![Dendron树状图](images/dendron-tree.png)
 
 功能：
 
@@ -57,11 +56,11 @@ Obsidian Dendron Tree 为 [Dendron](https://www.dendron.so/) 笔记添加了一�
 
 带有橙色圆圈指示器的笔记
 
-（![没有对应文件的笔记](https://cdn.pkmer.cn/covers/dendron-tree_2_1.png!pkmer)）是一条没有对应文件的笔记。
+（![没有对应文件的笔记](images/note-without-file.png)）是一条没有对应文件的笔记。
 
 要打开笔记文件，您可以在树状图中选择笔记名称。这也会展开树状图中的笔记。
 
-要展开和折叠笔记，您可以在笔记左侧选择箭头（![笔记箭头](https://cdn.pkmer.cn/covers/dendron-tree_2_2.png!pkmer)）。
+要展开和折叠笔记，您可以在笔记左侧选择箭头（![笔记箭头](images/arrow.png)）。
 
 您可以在桌面上右键单击笔记或在移动设备上长按笔记以打开笔记菜单。笔记菜单将包含以下项目：
 
@@ -71,15 +70,15 @@ Obsidian Dendron Tree 为 [Dendron](https://www.dendron.so/) 笔记添加了一�
 
 ## 查找
 
-![查找笔记](https://cdn.pkmer.cn/covers/dendron-tree_2_3.png!pkmer)
+![查找笔记](images/lookup.png)
 
 要查找一个笔记，您可以运行“Dendron Tree: 查找笔记”命令。通过这个命令，您可以打开和删除一个笔记。
 
-![创建新笔记](https://cdn.pkmer.cn/covers/dendron-tree_2_4.png!pkmer)
+![创建新笔记](images/lookup-new.png)
 
 您可以通过输入一个不存在的 Dendron 路径来创建一个笔记。然后您将获得“创建新笔记”的选项。选择此选项以创建一个新的笔记。
 
-![为无文件的笔记创建笔记文件](https://cdn.pkmer.cn/covers/dendron-tree_2_5.png!pkmer)
+![为无文件的笔记创建笔记文件](images/create-new-existing.png)
 
 您还可以选择一个没有相应文件的笔记。当选择一个项目时，右侧会显示一个 + 图标，表示将创建一个新的笔记。
 

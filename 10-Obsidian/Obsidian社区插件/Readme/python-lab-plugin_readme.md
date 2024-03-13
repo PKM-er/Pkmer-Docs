@@ -1,6 +1,6 @@
 ---
-uid: 2023120719405589
-title: Obsidian 插件：【Readme】Python lab plugin
+uid: 2023080322251376
+title: Obsidian 插件：Python lab plugin
 tags: ['自动化', 'obsidian插件', 'readme']
 description: 一个用于实验Python脚本和更多内容的界面。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Python lab plugin
+# Obsidian 插件：Python lab plugin
 
 > [!Note] 插件名片
 > - 插件名称：Python lab plugin
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/cristianvasquez/obsidian-lab/master/README.md)
->
 
 ---
 
@@ -67,7 +66,7 @@ Obsidian Python 实验室只是一个集合了一些简单接口的工具，旨�
 3. 在面板中显示元素。
 4. 进行聊天对话
 
-![使用它](https://cdn.pkmer.cn/covers/python-lab-plugin_2_0.png!pkmer)
+![使用它](./docs/use.png)
 
 ## 插件 - 服务器交互
 
@@ -119,15 +118,15 @@ def hello():
 
 1. 运行应用程序以公开脚本。
 
-![服务器](https://cdn.pkmer.cn/covers/python-lab-plugin_2_1.png!pkmer)
+![服务器](./docs/server.png)
 
 1. 插件应该现在能够检测到脚本。然后需要配置操作以指定它如何与用户交互。选项的任何更改都将持久保存在插件配置中。
 
-![选项](https://cdn.pkmer.cn/covers/python-lab-plugin_2_2.png!pkmer)
+![选项](./docs/configure.png)
 
 1. 使用它！
 
-![示例小部件](https://cdn.pkmer.cn/covers/python-lab-plugin_2_3.png!pkmer)
+![示例小部件](./docs/chat.png)
 
 示例 Python 服务器
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719294543
+uid: 2023102611075455
 title: Obsidian 插件：【Readme】GitHub Embeds
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中直接嵌入GitHub问题、PR和代码片段。
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在 Obsidian 中直接嵌入 GitHub 问题、PR 和代码片段。
 
-![GitHub Embeds](https://cdn.pkmer.cn/covers/github-embeds.gif)
+![GitHub Embeds](https://cdn.pkmer.cn/covers/github-embeds.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/MrGVSV/obsidian-github-embeds/main/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 *在 Obsidian 中直接嵌入 GitHub 问题、PR 和代码片段。*
 
-![演示GIF](https://cdn.pkmer.cn/covers/github-embeds_2_0.gif)
+![演示GIF](./screenshots/github-embeds-demo.gif)
 
 ## 详细信息
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719351791
-title: Obsidian 插件：【Readme】List Modified
+uid: 2023080322213938
+title: Obsidian 插件：List Modified
 tags: ['obsidian插件', 'readme']
 description: 一个简单的黑曜石插件，它将符合某些标准的所有修改文件链接到每日笔记中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】List Modified
+# Obsidian 插件：List Modified
 
 > [!Note] 插件名片
 > - 插件名称：List Modified
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/franciskafieh/obsidian-list-modified/master/README.md)
->
 
 ---
 
@@ -45,11 +44,11 @@ modified: 20230101000000
 
 使用以下设置...
 
-![插件设置](https://cdn.pkmer.cn/covers/obsidian-list-modified_2_0.png!pkmer)
+![插件设置](preview/settings-preview.png)
 
 这是结果...
 
-![插件演示gif](https://cdn.pkmer.cn/covers/obsidian-list-modified_2_1.gif)
+![插件演示gif](preview/obsidian-list-modified.gif)
 
 # 使用和配置
 

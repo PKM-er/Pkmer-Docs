@@ -1,6 +1,6 @@
 ---
-uid: 2023120719270516
-title: Obsidian 插件：【Readme】Dynamic Background
+uid: 2023080322173161
+title: Obsidian 插件：Dynamic Background
 tags: ['obsidian插件', 'readme']
 description: 为Obsidian编辑器添加动态背景效果
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Dynamic Background
+# Obsidian 插件：Dynamic Background
 
 > [!Note] 插件名片
 > - 插件名称：Dynamic Background
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 为 Obsidian 编辑器添加动态背景效果
 
-![Dynamic Background](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_new.gif)
+![Dynamic Background](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/README.md)
->
 
 ---
 
@@ -65,37 +64,37 @@ modified: 20230101000000
 
 ### 矩阵/数字雨动态效果
 
-![数字雨动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_0.gif)
+![数字雨动态效果](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/digital-rain-dark-effect.gif)
 
 ### 雨动态效果
 
-![雨动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_1.gif)
+![雨动态效果](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/rain-effect.gif)
 
 ### 带有壁纸的雨动态效果
 
-![带有壁纸的雨动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_2.gif)
+![带有壁纸的雨动态效果](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/rain-effect-with-wallpaper.gif)
 
 ### 雪花动态效果
 
-![雪花动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_3.gif)
+![雪花动态效果](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/snow-effect.gif)
 
 ### 带有壁纸的雪花动态效果
 
-![带有壁纸的雪花动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_4.gif)
+![带有壁纸的雪花动态效果](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/snow-effect-with-wallpaper.gif)
 
 ### 波动动态效果
 
-![波动动态效果](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_5.gif)
+![波动动态效果](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/wave-effect.gif)
 
 ### 带有壁纸的波动动态效果
 
 ### 壁纸演示 1
 
-![壁纸演示 1](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_6.png!pkmer)
+![壁纸演示 1](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/wallpaper-demo-1.png)
 
 ### 壁纸演示 2
 
-![壁纸演示2](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_7.png!pkmer)
+![壁纸演示2](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/wallpaper-demo-3.png)
 
 如何使用
 
@@ -106,7 +105,7 @@ modified: 20230101000000
 
 请参考下面的视频了解详细步骤：
 
-![Blue Sky](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_8.gif)
+![Blue Sky](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/open-plugin-settings-window.gif)
 
 ### 启用或禁用动态效果
 
@@ -123,7 +122,7 @@ modified: 20230101000000
 - 点击“外观”按钮（如下图所示，编号 1）
 - 根据需要选择一个主题（如下图所示，编号 2）
 
-![选择 Obsidian 基础主题](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_9.jpeg!pkmer)
+![选择 Obsidian 基础主题](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/select-obsidian-base-theme.jpg)
 
 如果您的“基础主题”或“基础配色方案”设置为**暗色**，则应从暗色系列中选择一个动态效果。如果您的“基础主题”或“基础配色方案”设置为**亮色**，则应从亮色系列中选择一个动态效果。
 
@@ -146,15 +145,15 @@ modified: 20230101000000
 
 **模糊度：0**
 
-![壁纸模糊度0](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_10.png!pkmer)
+![壁纸模糊度0](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/wallpaper-blur-0.png)
 
 **模糊度：5**
 
-![壁纸模糊度5](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_11.png!pkmer)
+![壁纸模糊度5](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/wallpaper-blur-5.png)
 
 **模糊度：10**
 
-![壁纸模糊度10](https://cdn.pkmer.cn/covers/obsidian-dynamic-background_1_12.png!pkmer)
+![壁纸模糊度10](https://raw.githubusercontent.com/samuelsong70/obsidian-dynamic-background/master/assets/wallpaper-blur-10.png)
 
 如何安装
 

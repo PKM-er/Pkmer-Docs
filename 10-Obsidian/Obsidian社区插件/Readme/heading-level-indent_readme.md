@@ -1,6 +1,6 @@
 ---
-uid: 2023120719302450
-title: Obsidian 插件：【Readme】Heading Level Indent
+uid: 2023080322193758
+title: Obsidian 插件：Heading Level Indent
 tags: ['obsidian插件', 'readme']
 description: 根据标题级别缩进内容。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Heading Level Indent
+# Obsidian 插件：Heading Level Indent
 
 > [!Note] 插件名片
 > - 插件名称：Heading Level Indent
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/svonjoi/obsidian-heading-level-indent/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 ## 预览
 
-![plugin_preview](https://cdn.pkmer.cn/covers/heading-level-indent_1_0.png!pkmer)
+![plugin_preview](https://user-images.githubusercontent.com/58810368/220870821-1d7adf75-d6c8-4f6e-9634-5f10b34cfe95.png)
 
 ## 安装
 
@@ -66,7 +65,7 @@ modified: 20230101000000
 - h3 缩进：120
 - h4 缩进：170
 
-![2023-03-14_02-41](https://cdn.pkmer.cn/covers/heading-level-indent_1_1.png!pkmer)
+![2023-03-14_02-41](https://user-images.githubusercontent.com/58810368/224870488-eabae6d1-eed5-4aa9-b4fc-978d5152b466.png)
 
 ## 路线图
 

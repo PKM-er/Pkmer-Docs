@@ -1,5 +1,5 @@
 ---
-uid: 2023120719365037
+uid: 2023120522261236
 title: Obsidian 插件：【Readme】Modal forms
 tags: ['obsidian插件', 'readme']
 description: 定义一种能够从任何可以运行JavaScript的地方打开的数据捕获表单。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/danielo515/obsidian-modal-form/master/README.md)
->
 
 ---
 
@@ -67,7 +66,7 @@ modified: 20230101000000
     - 固定值列表
     - 来自文件夹的注释列表
 
-![示例表单](https://cdn.pkmer.cn/covers/modalforms_2_0.png!pkmer)
+![示例表单](media/example.png)
 
 为什么要使用这个插件？
 
@@ -152,7 +151,7 @@ tR += result.asFrontmatterString();
 
 这里是一个示例截图，显示了它应该是什么样子：
 
-![quick capture example](https://cdn.pkmer.cn/covers/modalforms_2_1.png!pkmer)
+![quick capture example](media/image.png)
 
 ### 在打开表单时提供默认值
 
@@ -220,11 +219,11 @@ tR += result.asString('{{Name}} is {{age}} years old and his/her favorite food i
 - 标题是在打开表单时在模态窗口中看到的标题
 - 除非所有字段都有效（即它们具有名称和类型），否则无法保存表单
 
-![表单编辑器/创建器](https://cdn.pkmer.cn/covers/modalforms_2_2.png!pkmer)
+![表单编辑器/创建器](media/editor.png)
 
 #### Dataview 集成
 
-![dataview](https://cdn.pkmer.cn/covers/modalforms_2_3.png!pkmer)
+![dataview](media/dataview.png)
 
 #### 内联表单
 

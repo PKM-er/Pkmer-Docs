@@ -27,7 +27,6 @@ Markdown 中的时间轴视图
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/hotoo/obsidian-markline/master/README.md)
->
 
 ---
 
@@ -124,7 +123,7 @@ Markline 现在使用 Markdown 的子集：
 - 年龄：显示
 - 日期：2014/01/01
 - 作者：@hotoo
-- 提及：<https://twitter.com/{@mention}>
+- 提及：<https://twitter.com/>{@mention}
 
 ----
 

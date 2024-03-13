@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kaffarell/obsidian-tesseract-ocr/main/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 2）确保已安装 tesseract：
 
-    1）访问<https://tesseract-ocr.github.io/tessdoc/Installation.html并下载安装程序>
+    1）访问<https://tesseract-ocr.github.io/tessdoc/Installation.html>并下载安装程序
 
     2）然后将包含tesseract.exe文件的文件夹添加到环境变量中（或将路径插入到插件设置中的“Tesseract Path”选项中）
 

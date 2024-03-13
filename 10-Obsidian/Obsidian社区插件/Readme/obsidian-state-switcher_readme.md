@@ -1,6 +1,6 @@
 ---
-uid: 2023120719465767
-title: Obsidian 插件：【Readme】Yaml Manager
+uid: 2023080322295096
+title: Obsidian 插件：Yaml Manager
 tags: ['obsidian插件', 'readme']
 description: 直接管理编辑 Yaml 的内容
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Yaml Manager
+# Obsidian 插件：Yaml Manager
 
 > [!Note] 插件名片
 > - 插件名称：Yaml Manager
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 直接管理编辑 Yaml 的内容
 
-![Yaml Manager](https://cdn.pkmer.cn/covers/obsidian-state-switcher_new.gif)
+![Yaml Manager](https://cdn.pkmer.cn/covers/obsidian-state-switcher_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lijyze/obsidian-state-switcher/main/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-state-switcher_1_0.gif)
+![演示](https://raw.githubusercontent.com/lijyze/obsidian-state-switcher/main/assets/demo.gif)
 
 ## 使用方法
 

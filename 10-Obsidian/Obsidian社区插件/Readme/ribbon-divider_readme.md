@@ -27,7 +27,6 @@ Allows you to add dividers to the ribbon to space out your icons.
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/andrewmcgivery/obsidian-ribbon-divider/main/README.md)
->
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719282492
-title: Obsidian 插件：【Readme】File Order
+uid: 2023080322181750
+title: Obsidian 插件：File Order
 tags: ['obsidian插件', 'readme']
 description: 在文件名中使用数字前缀来定义自定义顺序，并拖放文件以更新该顺序。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】File Order
+# Obsidian 插件：File Order
 
 > [!Note] 插件名片
 > - 插件名称：File Order
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在文件名中使用数字前缀来定义自定义顺序，并拖放文件以更新该顺序。
 
-![File Order](https://cdn.pkmer.cn/covers/file-order_new.gif)
+![File Order](https://cdn.pkmer.cn/covers/file-order_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukasbach/obsidian-file-order/main/README.md)
->
 
 ---
 
@@ -53,17 +52,17 @@ modified: 20230101000000
 
 在插件设置中，您还可以定义前缀长度、分隔符和起始索引的默认值。
 
-![https://cdn.pkmer.cn/covers/file-order_2_0.gif](https://cdn.pkmer.cn/covers/file-order_2_0.gif)
+![obsidian-order-files-demo1.gif](obsidian-order-files-demo1.gif)
 
-![https://cdn.pkmer.cn/covers/file-order_2_1.gif](https://cdn.pkmer.cn/covers/file-order_2_1.gif)
+![obsidian-order-files-demo2.gif](obsidian-order-files-demo2.gif)
 
 ## 截图
 
-![https://cdn.pkmer.cn/covers/file-order_2_2.png!pkmer](https://cdn.pkmer.cn/covers/file-order_2_2.png!pkmer)
+![img.png](img.png)
 
-![https://cdn.pkmer.cn/covers/file-order_2_3.png!pkmer](https://cdn.pkmer.cn/covers/file-order_2_3.png!pkmer)
+![img_1.png](img_1.png)
 
-![https://cdn.pkmer.cn/covers/file-order_2_4.png!pkmer](https://cdn.pkmer.cn/covers/file-order_2_4.png!pkmer)
+![img_2.png](img_2.png)
 
 ## 贡献
 

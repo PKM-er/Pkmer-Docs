@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/deathau/snippet-commands-obsidian/main/README.md)
->
 
 ---
 
@@ -86,7 +85,6 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
-
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api) 以 Typescript 定义格式，其中包含了描述其功能的 TSDoc 注释。
 
 如果您想要为开发做出贡献和/或根据自己的需求进行自定义调整，您可以按照以下步骤进行操作：
@@ -98,7 +96,6 @@ modified: 20230101000000
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将该仓库克隆到您的插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
-
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 定价

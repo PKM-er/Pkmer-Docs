@@ -1,6 +1,6 @@
 ---
-uid: 2023120719234482
-title: Obsidian 插件：【Readme】Bible Reference
+uid: 2023080322150923
+title: Obsidian 插件：Bible Reference
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian.md应用程序轻松记录圣经学习笔记。自动提示圣经经文作为参考。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Bible Reference
+# Obsidian 插件：Bible Reference
 
 > [!Note] 插件名片
 > - 插件名称：Bible Reference
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 使用 Obsidian.md 应用程序轻松记录圣经学习笔记。自动提示圣经经文作为参考。
 
-![Bible Reference](https://cdn.pkmer.cn/covers/obsidian-bible-reference.gif)
+![Bible Reference](https://cdn.pkmer.cn/covers/obsidian-bible-reference.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/tim-hub/obsidian-bible-reference/master/README.md)
->
 
 ---
 
@@ -62,7 +61,7 @@ modified: 20230101000000
 2. 在笔记中，例如输入 `--John1:1`
 3. 选择建议
 
-![obsidian 圣经引用演示](https://cdn.pkmer.cn/covers/obsidian-bible-reference_1_3.gif)
+![obsidian 圣经引用演示](https://raw.githubusercontent.com/tim-hub/obsidian-bible-reference/master/docs/obsidian-bible-reference-demo-setting.gif)
 
 ### 如何更改圣经版本
 

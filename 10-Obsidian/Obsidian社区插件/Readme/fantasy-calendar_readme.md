@@ -1,6 +1,6 @@
 ---
-uid: 2023120719275613
-title: Obsidian 插件：【Readme】Fantasy Calendar
+uid: 2023080322180623
+title: Obsidian 插件：Fantasy Calendar
 tags: ['日期相关', 'obsidian插件', 'readme']
 description: 在 Obsidian 中使用 Fantsy Calendar。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Fantasy Calendar
+# Obsidian 插件：Fantasy Calendar
 
 > [!Note] 插件名片
 > - 插件名称：Fantasy Calendar
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/fantasycalendar/obsidian-fantasy-calendar/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 在 Obsidian 中创建幻想日历！
 
-![](https://cdn.pkmer.cn/covers/fantasy-calendar_1_0.png!pkmer)
+![](https://raw.githubusercontent.com/valentine195/obsidian-fantasy-calendar/master/assets/example.png)
 
 <table>
 <tbody>

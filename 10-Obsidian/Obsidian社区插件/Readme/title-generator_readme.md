@@ -1,5 +1,5 @@
 ---
-uid: 2023120719450548
+uid: 2023120522272930
 title: Obsidian 插件：【Readme】Title Generator
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI的GPT-3.5快速轻松地为您的笔记添加标题。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jaschaephraim/obsidian-title-generator/main/README.md)
->
 
 ---
 
@@ -49,13 +48,13 @@ modified: 20230101000000
 
 如果笔记处于编辑或阅读模式下，命令面板中将会有一个条目：`标题生成器：生成标题`
 
-![命令面板](https://cdn.pkmer.cn/covers/title-generator_2_0.png!pkmer)
+![命令面板](img/command-palette.png)
 
 ### 编辑器菜单
 
 如果笔记处于编辑或阅读模式下，编辑器下拉菜单中将会有一个条目：`生成标题`
 
-![编辑器菜单](https://cdn.pkmer.cn/covers/title-generator_2_1.png!pkmer)
+![编辑器菜单](img/editor-menu.png)
 
 ### 文件菜单
 
@@ -63,7 +62,7 @@ modified: 20230101000000
 
 如果选择了多个文件，在文件名上右键单击，上下文菜单中将会有一个条目：`生成标题`。
 
-![文件菜单](https://cdn.pkmer.cn/covers/title-generator_2_2.png!pkmer)
+![文件菜单](img/file-menu.png)
 
 ## 设置
 

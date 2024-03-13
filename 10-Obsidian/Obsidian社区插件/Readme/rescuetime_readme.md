@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Tatz884/RescueTime-Obsidian/master/README.md)
->
 
 ---
 
@@ -48,7 +47,6 @@ modified: 20230101000000
 
 - 在您的设备上拥有 RescueTime 账户和应用程序 [在此安装](https://www.rescuetime.com/get_rescuetime)
 - Obsidian 桌面客户端 > v 0.13.0 [在此安装](https://obsidian.md/)
-
 > [!NOTE]
 > 此插件仅与 Obsidian 桌面客户端兼容，不支持移动设备。
 

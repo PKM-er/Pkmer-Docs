@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/frontend-engineering/Invio/main/README.md)
->
 
 ---
 
@@ -67,7 +66,7 @@ Invio 正在积极开发中。您可以在官方文档中找到路线图和更�
 
 ## 下载和安装
 
-- 选项 #1：在官方的“社区插件列表”中搜索 **Invio**，或访问此链接：<https://obsidian.md/plugins?id=invio（应该会将您重定向到> Obsidian 应用程序），然后安装插件。
+- 选项 #1：在官方的“社区插件列表”中搜索 **Invio**，或访问此链接：<https://obsidian.md/plugins?id=invio>（应该会将您重定向到 Obsidian 应用程序），然后安装插件。
 - 选项 #2：您还可以使用 Obsidian42 - BRAT 来安装此插件。在 BRAT 的配置中输入 frontend-engineering/Invio。
 - 选项 #3：[![GitHub release (latest by SemVer and asset including pre-releases)](https://img.shields.io/github/downloads-pre/frontend-engineering/Invio/latest/total?style=social)](https://github.com/frontend-engineering/Invio/releases) 从最新的发布中手动下载资源文件（`main.js`、`manifest.json`、`styles.css`）。
 - 选项 #4：[![BuildCI](https://github.com/frontend-engineering/Invio/actions/workflows/auto-build.yml/badge.svg)](https://github.com/frontend-engineering/Invio/actions/workflows/auto-build.yml) 所有构建的结果都放在每个成功构建的“摘要”下。它是由每次提交自动生成的，可能会导致某些问题。

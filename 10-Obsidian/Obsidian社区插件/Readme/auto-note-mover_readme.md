@@ -1,6 +1,6 @@
 ---
-uid: 2023120719225989
-title: Obsidian 插件：【Readme】Auto Note Mover
+uid: 2023080322143402
+title: Obsidian 插件：Auto Note Mover
 tags: ['obsidian插件', 'readme']
 description: Auto Note Mover会根据规则自动将活动笔记移动到各自的文件夹中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Auto Note Mover
+# Obsidian 插件：Auto Note Mover
 
 > [!Note] 插件名片
 > - 插件名称：Auto Note Mover
@@ -29,7 +29,6 @@ Auto Note Mover 会根据规则自动将活动笔记移动到各自的文件夹�
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/farux/obsidian-auto-note-mover/main/README.md)
->
 
 ---
 
@@ -86,47 +85,47 @@ Auto Note Mover 有两种类型的触发器。
 
 ### 标签
 
-![Food0](https://cdn.pkmer.cn/covers/auto-note-mover_1_0.png!pkmer)
+![Food0](https://user-images.githubusercontent.com/33874906/152721614-45a65095-3af2-4e80-8973-26be686ca585.png)
 
-![Food2](https://cdn.pkmer.cn/covers/auto-note-mover_1_1.png!pkmer)
+![Food2](https://user-images.githubusercontent.com/33874906/152721697-7cf722fc-bc82-4c5d-8bbe-6c087755d29c.png)
 
 ### 嵌套标签
 
-![nest0](https://cdn.pkmer.cn/covers/auto-note-mover_1_2.png!pkmer)
+![nest0](https://user-images.githubusercontent.com/33874906/152721876-58b19020-eb75-4324-a8ba-2110dba11ea6.png)
 
-![nest1](https://cdn.pkmer.cn/covers/auto-note-mover_1_3.png!pkmer)
+![nest1](https://user-images.githubusercontent.com/33874906/152721897-be270fc9-6381-46b6-99d0-1d5a08260a06.png)
 
 ### 每日笔记
 
-![day0](https://cdn.pkmer.cn/covers/auto-note-mover_1_4.png!pkmer)
+![day0](https://user-images.githubusercontent.com/33874906/152721914-48ed5cc5-ec08-4f80-9425-8c68b719107a.png)
 
-![day1](https://cdn.pkmer.cn/covers/auto-note-mover_1_5.png!pkmer)
+![day1](https://user-images.githubusercontent.com/33874906/152721927-659d0ad4-ce9f-4aea-8752-8eb668500af5.png)
 
 ### 任务备注
 
-![task0](https://cdn.pkmer.cn/covers/auto-note-mover_1_6.png!pkmer)
+![task0](https://user-images.githubusercontent.com/33874906/152723161-6a8d9999-15e9-4e97-8b71-e07ff30fb330.png)
 
-![task1](https://cdn.pkmer.cn/covers/auto-note-mover_1_7.png!pkmer)
+![task1](https://user-images.githubusercontent.com/33874906/152723175-839e724c-4437-42ff-ba05-f458e45c3f21.png)
 
 ### 星星笔记
 
-![sta0](https://cdn.pkmer.cn/covers/auto-note-mover_1_8.png!pkmer)
+![sta0](https://user-images.githubusercontent.com/33874906/152721996-74f29153-4266-4aff-88e6-e765ef031d65.png)
 
-![sta1](https://cdn.pkmer.cn/covers/auto-note-mover_1_9.png!pkmer)
+![sta1](https://user-images.githubusercontent.com/33874906/152722006-54f5c315-8d5b-457b-8cfc-ec982a2b088c.png)
 
 ### 如何做笔记
 
-![how0](https://cdn.pkmer.cn/covers/auto-note-mover_1_10.png!pkmer)
+![how0](https://user-images.githubusercontent.com/33874906/152722040-e100961b-8398-485d-bc64-f3fa784b79be.png)
 
-![how1](https://cdn.pkmer.cn/covers/auto-note-mover_1_11.png!pkmer)
+![how1](https://user-images.githubusercontent.com/33874906/152722054-820441a1-a244-43cb-b8f2-fcde06310d40.png)
 
 ### 命令
 
-![comm](https://cdn.pkmer.cn/covers/auto-note-mover_1_12.png!pkmer)
+![comm](https://user-images.githubusercontent.com/33874906/152723205-70599951-75ee-4915-a160-17a3faed67b0.png)
 
 ### 在前置事项中禁用自动笔记移动器
 
-![fm0](https://cdn.pkmer.cn/covers/auto-note-mover_1_13.png!pkmer)
+![fm0](https://user-images.githubusercontent.com/33874906/152722074-d550e13c-2955-40ab-b324-7e934d86ea1a.png)
 
 故障排除
 
@@ -146,7 +145,7 @@ Auto Note Mover 有两种类型的触发器。
 
 ## 归属
 
-suggest.ts 和 file-suggest.ts 是 Liam Cain（<https://github.com/liamcain）的版权作品，obsidian-periodic-notes（https://github.com/liamcain/obsidian-periodic-notes）。>
+suggest.ts 和 file-suggest.ts 是 Liam Cain（<https://github.com/liamcain>）的版权作品，obsidian-periodic-notes（<https://github.com/liamcain/obsidian-periodic-notes>）。
 
 popper.js <https://popper.js.org/>
 

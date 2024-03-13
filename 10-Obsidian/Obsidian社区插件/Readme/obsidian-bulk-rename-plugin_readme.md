@@ -1,6 +1,6 @@
 ---
-uid: 2023120719240419
-title: Obsidian 插件：【Readme】Bulk Rename
+uid: 2023080322152480
+title: Obsidian 插件：Bulk Rename
 tags: ['obsidian插件', 'readme']
 description: 现在，您可以根据模式重命名文件
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Bulk Rename
+# Obsidian 插件：Bulk Rename
 
 > [!Note] 插件名片
 > - 插件名称：Bulk Rename
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 现在，您可以根据模式重命名文件
 
-![Bulk Rename](https://cdn.pkmer.cn/covers/obsidian-bulk-rename-plugin_new.gif)
+![Bulk Rename](https://cdn.pkmer.cn/covers/obsidian-bulk-rename-plugin_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/OlegLustenko/obsidian-bulk-rename/master/README.md)
->
 
 ---
 
@@ -53,7 +52,7 @@ modified: 20230101000000
 
 现在，您可以从目录中重命名一组文件，并且所有引用也将在整个存储库中更新。
 
-![](https://cdn.pkmer.cn/covers/obsidian-bulk-rename-plugin_2_0.gif)
+![](documentation/assets/Animation.gif)
 
 > 在幕后，此插件使用 Obsidian API 进行重命名，但我们只是将其应用于多个文件。
 

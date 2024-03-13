@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ericaxu/gemmy/master/README.md)
->
 
 ---
 
@@ -72,9 +71,7 @@ Gemmy 通过不时地随机说些话来寻求认可。
 Obsidian 徽标改编自：
 
 [水晶碎片图标](https://icon-icons.com/icon/Crystal-Shard/88819)
-
 由 [Chanut is Industries](https://icon-icons.com/users/W52nHhY3W1VlvwyJTwS4d/icon-sets/) 提供
-
 许可证：署名 3.0 未本地化 (CC BY 3.0)
 
 ---

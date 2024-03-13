@@ -1,6 +1,6 @@
 ---
-uid: 2023120719290567
-title: Obsidian 插件：【Readme】Folder Note
+uid: 2023080322184119
+title: Obsidian 插件：Folder Note
 tags: ['笔记文件处理', '界面相关', '搜索/排序', '导航工具', '自动化', 'obsidian插件', 'readme']
 description: 为文件夹中生成卡片风格的文件夹概述。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Folder Note
+# Obsidian 插件：Folder Note
 
 > [!Note] 插件名片
 > - 插件名称：Folder Note
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/xpgo/obsidian-folder-note-plugin/main/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 Obsidian 插件：为文件夹添加描述笔记。生成以卡片样式呈现的文件夹概览。使您的存储库成为一个层次化的笔记系统。
 
-![Folder_Note_Show](https://cdn.pkmer.cn/covers/folder-note-plugin_1_0.png!pkmer)
+![Folder_Note_Show](https://raw.githubusercontent.com/xpgo/obsidian-folder-note-plugin/master/image/folder-note1.png)
 
 ## 使用方法
 
@@ -106,7 +105,7 @@ Obsidian 插件：为文件夹添加描述笔记。生成以卡片样式呈现�
 
 如果您想要配置 `ccard` 代码块的内容和外观，请参阅 [ccard语法](https://github.com/xpgo/obsidian-folder-note-plugin/blob/main/doc/ccard-syntax.md)。您可以配置样式、列数、图像前缀、文件夹路径、仅笔记、最大简要长度等。例如，下面的图片展示了不同样式的文件夹概述。
 
-![Card_Strip_Style](https://cdn.pkmer.cn/covers/folder-note-plugin_1_1.png!pkmer)
+![Card_Strip_Style](https://raw.githubusercontent.com/xpgo/obsidian-folder-note-plugin/master/image/style-card-strip.png)
 
 ## 更新日志
 

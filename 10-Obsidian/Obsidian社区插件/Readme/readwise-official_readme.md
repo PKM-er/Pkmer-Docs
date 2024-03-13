@@ -1,6 +1,6 @@
 ---
-uid: 2023120719412702
-title: Obsidian 插件：【Readme】Readwise Official
+uid: 2023080322254463
+title: Obsidian 插件：Readwise Official
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 官方Readwise与Obsidian集成。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Readwise Official
+# Obsidian 插件：Readwise Official
 
 > [!Note] 插件名片
 > - 插件名称：Readwise Official
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 官方 Readwise 与 Obsidian 集成。
 
-![Readwise Official](https://cdn.pkmer.cn/covers/readwise-official_new.gif)
+![Readwise Official](https://cdn.pkmer.cn/covers/readwise-official_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/readwiseio/obsidian-readwise/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 这个由 [Readwise](https://readwise.io) 团队维护的官方插件，可以让你轻松自动地将来自各种来源（如亚马逊 Kindle、Apple Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDF 等）的所有数字高亮导出到 [Obsidian](https://obsidian.md)。
 
-![](https://cdn.pkmer.cn/covers/readwise-official_1_1.gif)
+![](https://raw.githubusercontent.com/readwiseio/obsidian-readwise/master/screens/readwise_obsidian_export.gif)
 
 注意：这个插件需要与 [Readwise](https://readwise.io) 订阅一起使用，Readwise 是一个付费服务，可以方便地将你的阅读数据聚合和审阅到一个地方。
 

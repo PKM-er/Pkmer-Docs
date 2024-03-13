@@ -1,6 +1,6 @@
 ---
-uid: 2023120719314951
-title: Obsidian 插件：【Readme】Key Promoter
+uid: 2023080322205933
+title: Obsidian 插件：Key Promoter
 tags: ['obsidian插件', 'readme']
 description: 通过当使用鼠标时显示它们来学习键盘快捷键。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Key Promoter
+# Obsidian 插件：Key Promoter
 
 > [!Note] 插件名片
 > - 插件名称：Key Promoter
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 通过当使用鼠标时显示它们来学习键盘快捷键。
 
-![Key Promoter](https://cdn.pkmer.cn/covers/key-promoter.gif)
+![Key Promoter](https://cdn.pkmer.cn/covers/key-promoter.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/joethei/obsidian-key-promoter/master/README.md)
->
 
 ---
 
@@ -53,7 +52,7 @@ modified: 20230101000000
 
 ## 关键促销
 
-![展示](https://cdn.pkmer.cn/covers/key-promoter_1_4.gif)
+![展示](https://i.joethei.space/syvxdr4Wd1.gif)
 
 当您在按钮上使用鼠标时，此插件将显示一个带有分配的快捷键的通知。
 
@@ -67,7 +66,7 @@ modified: 20230101000000
 
 ## 操作描述
 
-![操作描述gif展示](https://cdn.pkmer.cn/covers/key-promoter_1_5.gif)
+![操作描述gif展示](https://i.joethei.space/Obsidian_TPtxvJKucj.gif)
 
 在按下热键时显示一个通知，其中包含调用命令及其关联的热键。
 
@@ -79,7 +78,7 @@ modified: 20230101000000
 
 显示您最常用的命令。
 
-![统计信息演示截图](https://cdn.pkmer.cn/covers/key-promoter_1_6.png!pkmer)
+![统计信息演示截图](https://i.joethei.space/Obsidian_TTidZwt2QH.png)
 
 您可以使用 `Key Promoter: Statistics` 命令打开此菜单。
 

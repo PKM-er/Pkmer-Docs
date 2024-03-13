@@ -1,6 +1,6 @@
 ---
-uid: 2023120719251519
-title: Obsidian 插件：【Readme】Completed Area
+uid: 2023080322162155
+title: Obsidian 插件：Completed Area
 tags: ['编辑工具', '任务管理', 'obsidian插件', 'readme']
 description: 这个插件可以切换待办条目的状态，与此同时把已完成的条目移动到一个独立的区域。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Completed Area
+# Obsidian 插件：Completed Area
 
 > [!Note] 插件名片
 > - 插件名称：Completed Area
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/DahaWong/obsidian-completed-area/main/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 ⚠️ *该插件可能包含错误，并且还有更多功能正在开发中。*
 
-![演示](https://cdn.pkmer.cn/covers/completed-area_1_0.png!pkmer)
+![演示](https://raw.githubusercontent.com/DahaWong/obsidian-completed-area/main/demo.png)
 
 使用方法
 

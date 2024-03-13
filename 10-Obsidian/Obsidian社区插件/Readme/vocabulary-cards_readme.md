@@ -1,5 +1,5 @@
 ---
-uid: 2023120719462112
+uid: 2023102611085044
 title: Obsidian 插件：【Readme】Vocabulary Cards
 tags: ['obsidian插件', 'readme']
 description: 将词汇单词以闪卡和列表的形式展示的简便方法。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/meniam/obsidian-vocabulary-cards/main/README.md)
->
 
 ---
 
@@ -110,7 +109,7 @@ Obsidian 词汇卡插件是一款以易学习的格式显示单词及其含义�
 
 将显示为：
 
-![example](https://cdn.pkmer.cn/covers/vocabulary-cards_2_0.jpeg!pkmer)
+![example](./doc/card.jpg)
 
 ```
     ```voca-table
@@ -125,7 +124,7 @@ Obsidian 词汇卡插件是一款以易学习的格式显示单词及其含义�
 
 将显示为：
 
-![example](https://cdn.pkmer.cn/covers/vocabulary-cards_2_1.jpeg!pkmer)
+![example](./doc/table.jpg)
 
 ### 手动安装插件
 

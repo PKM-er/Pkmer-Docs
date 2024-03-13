@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sboesen/remotely-sync/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 - **这不是 Obsidian 官方提供的 [同步服务](https://obsidian.md/sync)。**
 
-## !!!注意
+## !!!注意!!
 
 **在使用此插件之前，**请**始终备份您的保险库**。
 

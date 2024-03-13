@@ -1,6 +1,6 @@
 ---
-uid: 2023120719395644
-title: Obsidian 插件：【Readme】Page Properties
+uid: 2023080322242503
+title: Obsidian 插件：Page Properties
 tags: ['obsidian插件', 'readme']
 description: 添加类似于Logseq的页面属性。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Page Properties
+# Obsidian 插件：Page Properties
 
 > [!Note] 插件名片
 > - 插件名称：Page Properties
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/necauqua/obsidian-page-properties/main/README.md)
->
 
 ---
 
@@ -41,9 +40,9 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，它添加了类似于 Logseq 中的页面属性。
 
-![demo-1.png](https://cdn.pkmer.cn/covers/page-properties_1_0.png!pkmer)
+![demo-1.png](https://user-images.githubusercontent.com/33968278/226478801-b8e9122d-78ff-4b1b-b4c0-6c6d25d57e9e.png)
 
-![demo-2.png](https://cdn.pkmer.cn/covers/page-properties_1_1.png!pkmer)
+![demo-2.png](https://user-images.githubusercontent.com/33968278/226478803-4ca621ba-cdce-4bd9-a408-4214d869f98d.png)
 
 它的主要功能有两个：
 

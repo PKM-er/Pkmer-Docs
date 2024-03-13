@@ -27,7 +27,6 @@ Journalyst 可以轻松创建特定主题的日志。将您的生活组织成睡
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Justin-Arnold/Journalyst/master/README.md)
->
 
 ---
 

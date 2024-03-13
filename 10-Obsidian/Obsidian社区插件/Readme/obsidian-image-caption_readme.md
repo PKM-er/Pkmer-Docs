@@ -1,6 +1,6 @@
 ---
-uid: 2023120719305685
-title: Obsidian 插件：【Readme】Image Caption
+uid: 2023080322201164
+title: Obsidian 插件：Image Caption
 tags: ['obsidian插件', 'readme']
 description: 为图片添加标题。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Image Caption
+# Obsidian 插件：Image Caption
 
 > [!Note] 插件名片
 > - 插件名称：Image Caption
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/bicarlsen/obsidian_image_caption/main/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 ### 为您的图片添加标题
 
-![Obsidian图片标题示例](https://cdn.pkmer.cn/covers/obsidian-image-caption_1_0.png!pkmer)
+![Obsidian图片标题示例](https://raw.githubusercontent.com/bicarlsen/obsidian_image_caption/main/example.png)
 
 ## 使用
 

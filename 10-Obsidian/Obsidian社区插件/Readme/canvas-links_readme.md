@@ -1,6 +1,6 @@
 ---
-uid: 2023120719241458
-title: Obsidian 插件：【Readme】Canvas Links
+uid: 2023080322153362
+title: Obsidian 插件：Canvas Links
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中添加视图以显示画布的“外部链接”和“反向链接”。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Canvas Links
+# Obsidian 插件：Canvas Links
 
 > [!Note] 插件名片
 > - 插件名称：Canvas Links
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在 Obsidian 中添加视图以显示画布的“外部链接”和“反向链接”。
 
-![Canvas Links](https://cdn.pkmer.cn/covers/canvas-links.gif)
+![Canvas Links](https://cdn.pkmer.cn/covers/canvas-links.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/aqav/obsidian-canvas-links/master/README.md)
->
 
 ---
 
@@ -48,4 +47,4 @@ Obsidian 使用双括号语法（`[[]]`）来链接两个笔记。类似地，�
 - 支持在视图中点击项目以将当前文件重定向到它，并相应地更改视图内容
 - 支持所有 [Obsidian接受的文件类型](https://help.obsidian.md/Advanced+topics/Accepted+file+formats)
 
-![demo](https://cdn.pkmer.cn/covers/canvas-links_2_0.gif)
+![demo](./image/demo.gif)

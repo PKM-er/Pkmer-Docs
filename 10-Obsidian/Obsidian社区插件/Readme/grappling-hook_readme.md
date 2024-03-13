@@ -1,6 +1,6 @@
 ---
-uid: 2023120719214295
-title: Obsidian 插件：【Readme】🪝 Grappling Hook
+uid: 2023080322132544
+title: Obsidian 插件：🪝 Grappling Hook
 tags: ['obsidian插件', 'readme']
 description: 针对使用快速切换器仍然花费太多时间的人，提供了一款非常快速的文件切换插件——Obsidian。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】🪝 Grappling Hook
+# Obsidian 插件：🪝 Grappling Hook
 
 > [!Note] 插件名片
 > - 插件名称：🪝 Grappling Hook
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/grappling-hook/main/README.md)
->
 
 ---
 
@@ -64,7 +63,7 @@ Obsidian 插件，用于快速切换文件。适用于那些觉得快速切换�
 > __注意__
 > 只考虑已书签的*文件*。已书签的*块*或*标题*将被忽略。
 
-![Illustration bookmark cycler](https://cdn.pkmer.cn/covers/grappling-hook_2_0.png!pkmer)
+![Illustration bookmark cycler](./illustration/bookmark-cycler.png)
 
 *此命令受到 [neovim的Harpoon插件](https://github.com/ThePrimeagen/harpoon) 的启发。*
 
@@ -72,7 +71,7 @@ Obsidian 插件，用于快速切换文件。适用于那些觉得快速切换�
 
 转到上次所在的文件。与“导航返回”命令相反，使用“切换到备选笔记”命令在第二次按下时向前移动历史记录。这样可以通过一个热键快速在两个文件之间切换。备选文件的名称也显示在状态栏中。
 
-![备选文件示例](https://cdn.pkmer.cn/covers/grappling-hook_2_1.png!pkmer)
+![备选文件示例](./illustration/alt-file.png)
 
 *此命令是对 vim 的 `:buffer #` 命令的模拟。*
 

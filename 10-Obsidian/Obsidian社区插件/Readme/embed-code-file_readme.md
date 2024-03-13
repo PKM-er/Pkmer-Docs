@@ -1,6 +1,6 @@
 ---
-uid: 2023120719272655
-title: Obsidian 插件：【Readme】Embed Code File
+uid: 2023080322174447
+title: Obsidian 插件：Embed Code File
 tags: ['编程', '美化', '文件管理', 'obsidian插件', 'readme']
 description: 支持从本地路径，远程文件等方式，在笔记中加载对应代码，并展示对应的语法高亮方案。甚至支持指定文件中具体那块内容（M行到N行），
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Embed Code File
+# Obsidian 插件：Embed Code File
 
 > [!Note] 插件名片
 > - 插件名称：Embed Code File
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 支持从本地路径，远程文件等方式，在笔记中加载对应代码，并展示对应的语法高亮方案。甚至支持指定文件中具体那块内容（M 行到 N 行），
 
-![Embed Code File](https://cdn.pkmer.cn/covers/embed-code-file.gif)
+![Embed Code File](https://cdn.pkmer.cn/covers/embed-code-file.GIF!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/almariah/embed-code-file/main/README.md)
->
 
 ---
 
@@ -100,14 +99,14 @@ TITLE: "Some title"
 
 #### 嵌入代码文件
 
-![Gif](https://cdn.pkmer.cn/covers/embed-code-file_1_0.gif)
+![Gif](https://github.com/almariah/embed-code-file/blob/main/demo/embed-code-file.gif?raw=true)
 
 #### 嵌入代码文件中的行
 
 #### 嵌入远程文件的代码行（例如，GitHub）
 
-![Gif](https://cdn.pkmer.cn/covers/embed-code-file_1_1.gif)
+![Gif](https://github.com/almariah/embed-code-file/blob/main/demo/embed-remote-code-file.gif?raw=true)
 
 #### 为普通代码块添加标题
 
-![Gif](https://cdn.pkmer.cn/covers/embed-code-file_1_2.gif)
+![Gif](https://github.com/almariah/embed-code-file/blob/main/demo/normal-code-block-title.gif?raw=true)

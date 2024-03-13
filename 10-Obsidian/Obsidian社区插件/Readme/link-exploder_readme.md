@@ -1,6 +1,6 @@
 ---
-uid: 2023120719345983
-title: Obsidian 插件：【Readme】Link Exploder
+uid: 2023080322212614
+title: Obsidian 插件：Link Exploder
 tags: ['白板相关', '链接处理', 'obsidian插件', 'readme']
 description: 在画布中，为嵌入的笔记生成关联的链接关系。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Link Exploder
+# Obsidian 插件：Link Exploder
 
 > [!Note] 插件名片
 > - 插件名称：Link Exploder
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/benhughes/obsidian-link-exploder/main/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 下面是 [[link-exploder]] 插件的自述翻译
 
-![横幅](https://cdn.pkmer.cn/covers/link-exploder_2_0.png!pkmer)
+![横幅](./images/banner.png)
 
 # 🔗💣 概述
 
@@ -53,9 +52,9 @@ Link Exploder 是一个 Obsidian 插件，它可以从一个笔记中创建一�
 
 ## 示例
 
-![示例](https://cdn.pkmer.cn/covers/link-exploder_2_1.png!pkmer)
+![示例](./images/example-1.png)
 
-![示例](https://cdn.pkmer.cn/covers/link-exploder_2_2.png!pkmer)
+![示例](./images/example-2.png)
 
 ## 安装
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719291067
-title: Obsidian 插件：【Readme】Footnote & Citation Indicator
+uid: 2023080322184509
+title: Obsidian 插件：Footnote & Citation Indicator
 tags: ['obsidian插件', 'readme']
 description: 指示在凹槽中存在脚注。在状态栏中显示脚注和引文计数。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Footnote & Citation Indicator
+# Obsidian 插件：Footnote & Citation Indicator
 
 > [!Note] 插件名片
 > - 插件名称：Footnote & Citation Indicator
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 指示在凹槽中存在脚注。在状态栏中显示脚注和引文计数。
 
-![Footnote & Citation Indicator](https://cdn.pkmer.cn/covers/obsidian-footnote-indicator.png!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/obsidian-footnote-indicator/master/README.md)
->
 
 ---
 
@@ -45,7 +42,7 @@ modified: 20230101000000
 
 就是这样，这就是这个插件。
 
-![推广图片](https://cdn.pkmer.cn/covers/obsidian-footnote-indicator_2_0.png!pkmer)
+![推广图片](images/Promo.png)
 
 ## 限制
 

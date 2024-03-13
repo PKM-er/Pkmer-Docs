@@ -1,6 +1,6 @@
 ---
-uid: 2023120719230827
-title: Obsidian 插件：【Readme】Ava
+uid: 2023080322144277
+title: Obsidian 插件：Ava
 tags: ['obsidian插件', 'readme']
 description: 使用ChatGPT快速格式化您的笔记
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Ava
+# Obsidian 插件：Ava
 
 > [!Note] 插件名片
 > - 插件名称：Ava
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 使用 ChatGPT 快速格式化您的笔记
 
-![Ava](https://cdn.pkmer.cn/covers/ava_new.gif)
+![Ava](https://cdn.pkmer.cn/covers/ava_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/different-ai/obsidian-ava/main/README.md)
->
 
 ---
 
@@ -65,7 +64,7 @@ modified: 20230101000000
 1. 按下：<img alt="cmd" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Looped_square_on_white_background.svg/560px-Looped_square_on_white_background.svg.png?20071209071920" width="16" height="16"> + P
 2. 输入：写段落
 
-![段落](https://cdn.pkmer.cn/covers/ava_1_0.gif)
+![段落](https://user-images.githubusercontent.com/11430621/207849826-aa59103a-3e60-47ec-85bd-45076ebf8960.gif)
 
 ### 写作。重写
 
@@ -74,7 +73,7 @@ modified: 20230101000000
 1. 按下：<img alt="cmd" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Looped_square_on_white_background.svg/560px-Looped_square_on_white_background.svg.png?20071209071920" width="16" height="16"> + P
 2. 输入：重写所选内容
 
-![rewrite](https://cdn.pkmer.cn/covers/ava_1_1.gif)
+![rewrite](https://user-images.githubusercontent.com/25003283/213139728-23ad27fa-1c05-4e58-8bad-5ec41768d1e5.gif)
 
 ### 连接各个要点。充分利用你的知识
 
@@ -89,7 +88,7 @@ modified: 20230101000000
 1. 按下：<img alt="cmd" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Looped_square_on_white_background.svg/560px-Looped_square_on_white_background.svg.png?20071209071920" width="16" height="16"> + P
 2. 输入：链接注释
 
-![New Recording Mar 19 2023 1003 AM (1)](https://cdn.pkmer.cn/covers/ava_1_2.gif)
+![New Recording Mar 19 2023 1003 AM (1)](https://user-images.githubusercontent.com/25003283/226165955-87a59a7c-a8bc-45f9-9e14-c92fec429861.gif)
 
 ### 从选定的文本创建图像
 
@@ -98,7 +97,7 @@ modified: 20230101000000
 1. 按下：<img alt="cmd" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Looped_square_on_white_background.svg/560px-Looped_square_on_white_background.svg.png?20071209071920" width="16" height="16"> + P
 2. 输入：生成图像
 
-![images](https://cdn.pkmer.cn/covers/ava_1_3.gif)
+![images](https://user-images.githubusercontent.com/25003283/208254052-136f3fac-3ef6-46d5-85eb-73a4d249ffdf.gif)
 
 ### 提问问题
 
@@ -115,7 +114,7 @@ modified: 20230101000000
 
 我们建议您尝试一下 Ava 的教程，您可以在这里找到：
 
-![image](https://cdn.pkmer.cn/covers/ava_1_4.png!pkmer)
+![image](https://user-images.githubusercontent.com/25003283/213156343-c44c0e64-8c22-47f2-81b3-2faad460a717.png)
 
 **不起作用怎么办！**
 

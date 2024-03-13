@@ -27,7 +27,6 @@ Enhance the audio player with interacive lyrics
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/eatgrass/obsidian-lyrics/master/README.md)
->
 
 ---
 
@@ -44,9 +43,7 @@ Enhance the audio player with interacive lyrics
 ## 描述
 
 通过添加交互式歌词显示功能来增强您的音频播放器。
-
 现在您可以使用歌词来浏览播放器，获得更加引人入胜和有组织的听歌体验。
-
 它允许您无缝地查看您的音频笔记和亮点。
 
 ## 用法
@@ -54,7 +51,6 @@ Enhance the audio player with interacive lyrics
 ### 基本
 
 在 `lrc` 代码块中包含一个音频源和 [.lrc 格式](<https://en.wikipedia.org/wiki/LRC_(file_format)>) 歌词。
-
 您可以将音频文件的来源指定为文件路径或内部链接。
 
 1. 使用内部链接作为音频源：

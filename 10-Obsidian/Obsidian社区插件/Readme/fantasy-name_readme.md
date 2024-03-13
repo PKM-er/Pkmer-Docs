@@ -1,5 +1,5 @@
 ---
-uid: 2023120719275987
+uid: 2023082011354796
 title: Obsidian 插件：【Readme】Fantasy name generator
 tags: ['obsidian插件', 'readme']
 description: 插入一个随机的幻想名字。
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 插入一个随机的幻想名字。
 
-![Fantasy name generator](https://cdn.pkmer.cn/covers/fantasy-name.gif)
+![Fantasy name generator](https://cdn.pkmer.cn/covers/fantasy-name.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Lukewh/fantasy-name/main/README.md)
->
 
 ---
 
@@ -41,6 +40,6 @@ modified: 20230101000000
 
 ## 用法
 
-![生成器的gif图](https://cdn.pkmer.cn/covers/fantasy-name_2_0.gif)
+![生成器的gif图](.github/fantasy-names.gif)
 
-_ 该插件调用<https://fantasyname.lukewh.com/来生成名称。请参阅> <https://fantasyname.lukewh.com/help> 以获取使用方法。_>
+_该插件调用<https://fantasyname.lukewh.com/>来生成名称。请参阅<https://fantasyname.lukewh.com/help>以获取使用方法。_

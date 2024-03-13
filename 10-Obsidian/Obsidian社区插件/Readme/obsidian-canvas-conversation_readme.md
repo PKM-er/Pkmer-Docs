@@ -27,7 +27,6 @@ Obsidian 的一个插件，允许您使用 ChatGPT 创建画布对话。
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/AndreBaltazar8/obsidian-canvas-conversation/master/README.md)
->
 
 ---
 

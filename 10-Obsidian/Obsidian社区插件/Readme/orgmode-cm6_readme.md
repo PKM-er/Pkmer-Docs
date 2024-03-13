@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/BBazard/obsidian-orgmode-cm6/master/README.md)
->
 
 ---
 
@@ -45,7 +44,7 @@ modified: 20230101000000
 
 此插件使用一个单独的 [codemirror 6](https://codemirror.net) 实例，具有自定义的 [lezer](https://lezer.codemirror.net) 语法（并非所有内容都已实现）。
 
-灵感来自 <https://github.com/ryanpcmcquen/obsidian-org-mode> 和 <https://github.com/nothingislost/obsidian-cm6-attributes。>
+灵感来自 <https://github.com/ryanpcmcquen/obsidian-org-mode> 和 <https://github.com/nothingislost/obsidian-cm6-attributes>。
 
 ## 特点
 

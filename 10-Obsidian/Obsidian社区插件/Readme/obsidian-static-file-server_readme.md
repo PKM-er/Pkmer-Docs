@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/elias-sundqvist/obsidian-static-file-server/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 # Obsidian 静态文件服务器
 
-这是 Obsidian（<https://obsidian.md）的一个插件。>
+这是 Obsidian（<https://obsidian.md>）的一个插件。
 
 它允许您将 Obsidian 子文件夹作为静态文件服务器进行托管。
 

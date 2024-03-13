@@ -27,7 +27,6 @@ Obsidian 的 TTRPG 行动跟踪器
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/initiative-tracker/main/README.md)
->
 
 ---
 

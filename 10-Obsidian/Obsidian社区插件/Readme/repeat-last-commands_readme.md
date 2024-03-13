@@ -27,7 +27,6 @@ Repeat last command or commands. toggle pinned command with tab
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/1C0D/obsidian-repeat-last-commands/master/README.md)
->
 
 ---
 

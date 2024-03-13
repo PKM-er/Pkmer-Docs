@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/danielegrazzini/adjacency-matrix-exporter/main/README.md)
->
 
 ---
 
@@ -69,7 +68,7 @@ CSV 文件默认保存在 Vault 文件夹中。这些文件报告了导出模式
 
 ## 作者
 
-Daniele Grazzini 是罗马 UNINETTUNO 学院管理工程学位课程的学生：<https://www.uninettunouniversity.net。>
+Daniele Grazzini 是罗马 UNINETTUNO 学院管理工程学位课程的学生：<https://www.uninettunouniversity.net>。
 
 这项工作是为工业厂房学科的管理工程三年论文而进行的。
 
@@ -77,4 +76,4 @@ Daniele Grazzini 是罗马 UNINETTUNO 学院管理工程学位课程的学生：
 
 ## 谢谢
 
-我想感谢 SkepticMystic 为他的巨大工作，为创建这个插件奠定了基础。我建议每个人都去访问他的 Github: <https://github.com/SkepticMystic，特别是我受到这个作品的启发:> <https://github.com/SkepticMystic/adjacency-matrix-maker>
+我想感谢 SkepticMystic 为他的巨大工作，为创建这个插件奠定了基础。我建议每个人都去访问他的 Github: <https://github.com/SkepticMystic>，特别是我受到这个作品的启发: <https://github.com/SkepticMystic/adjacency-matrix-maker>

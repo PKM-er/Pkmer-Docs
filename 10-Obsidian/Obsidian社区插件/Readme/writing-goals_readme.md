@@ -1,5 +1,5 @@
 ---
-uid: 2023120719465303
+uid: 2023102611085924
 title: Obsidian 插件：【Readme】Writing Goals
 tags: ['obsidian插件', 'readme']
 description: 为您的笔记和文件夹设定动态写作目标。
@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/obsidian-writing-goals/main/README.md)
->
 
 ---
 
@@ -43,15 +42,15 @@ modified: 20230101000000
 
 演示中的长篇文本是使用 [Delorean Ipsum](https://deloreanipsum.com/) 创建的。
 
-![](https://cdn.pkmer.cn/covers/writing-goals_2_0.png!pkmer)
+![](./images/demo-screenshot-1.png)
 
-![](https://cdn.pkmer.cn/covers/writing-goals_2_1.png!pkmer)
+![](./images/demo-screenshot-2.png)
 
 添加目标
 
 您可以通过使用文件资源管理器中的上下文菜单为您的笔记或文件夹添加目标。
 
-![](https://cdn.pkmer.cn/covers/writing-goals_2_2.gif)
+![](./images/add-goal-demo.gif)
 
 对于笔记，将在笔记的前置元数据中添加一个带有 "goal" 一词的条目。前置元数据属性的名称默认为 `word-goal`（也被 [@isaaclyman](https://github.com/isaaclyman) 的出色的 [小说字数统计插件](https://github.com/isaaclyman/novel-word-count-obsidian) 使用）。您可以在插件设置中更改属性名称。
 
@@ -61,7 +60,7 @@ modified: 20230101000000
 
 使用相同的文件浏览器和命令面板命令，您还可以为笔记或文件夹设置每日目标，以替代或与整体目标并存。每日目标每天重置，因此您可以为每天想要写的字数设定一个目标，并且还可以查看您朝整体目标的进展。
 
-![](https://cdn.pkmer.cn/covers/writing-goals_2_3.png!pkmer)
+![](./images/demo-screenshot-3.png)
 
 frontmatter 属性的默认名称是 `daily-word-goal`。您可以在插件设置中更改属性名称。
 
@@ -73,21 +72,21 @@ frontmatter 属性的默认名称是 `daily-word-goal`。您可以在插件设�
 查看目标
 您可以使用一些命令查看当前笔记或任何文件或文件夹的目标集：
 
-![](https://cdn.pkmer.cn/covers/writing-goals_2_4.gif)
+![](./images/view-goal-command-demo.gif)
 
 目标进度应该会随着您的输入实时更新。添加到具有目标的文件夹中的任何文件的文本（包括递归的文件夹内的文件夹）都将计入该目标。
 
-![](https://cdn.pkmer.cn/covers/writing-goals_2_5.gif)
+![](./images/reaching-goal-demo.gif)
 
 ## 目标统计
 
 在插件设置中，您可以启用目标进度统计，以 [条形图](https://mitcheljager.github.io/svelte-tiny-linked-charts) 的形式显示在目标和每日目标下方：
 
-![](https://cdn.pkmer.cn/covers/writing-goals_2_6.png!pkmer)
+![](./images/daily-goal-stats.png)
 
 您还可以使用一个命令在单个视图中查看所有目标统计。该视图还允许您编辑目标并导航到每个目标的笔记：
 
-![](https://cdn.pkmer.cn/covers/writing-goals_2_7.png!pkmer)
+![](./images/stats-page.png)
 
 将一个笔记从字数统计中排除出去
 
@@ -95,7 +94,7 @@ frontmatter 属性的默认名称是 `daily-word-goal`。您可以在插件设�
 
 在以下两种格式中设置一个前置属性：
 
-![](./images/wordcount-frontmatter-bool.png) ![](https://cdn.pkmer.cn/covers/writing-goals_2_8.png!pkmer)
+![](./images/wordcount-frontmatter-bool.png) ![](./images/wordcount-frontmatter-string.png)
 
 ## 冲刺目标
 

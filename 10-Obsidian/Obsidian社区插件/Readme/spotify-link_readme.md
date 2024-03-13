@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/studiowebux/obsidian-spotify-link/main/README.md)
->
 
 ---
 
@@ -43,7 +42,9 @@ modified: 20230101000000
 
 <p align="center">
 
+
   ·
+
 
 </p>
 </div>

@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/trashhalo/obsidian-webhooks/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ Obsidian 插件和服务，通过 Webhooks 将您的编辑器连接到物联网�
 ## 设置一个示例规则
 
 1. 从发布页面安装 Obsidian 插件
-2. 前往<https://obsidian-buffer.web.app> 注册该服务>
+2. 前往<https://obsidian-buffer.web.app>注册该服务
 3. 生成一个登录令牌，并将其安装到 Obsidian 的 Webhook 插件设置中
 4. 使用服务网站上的 Webhook URL 与您喜欢的自动化服务进行连接
 5. 对于 Spotify 示例用例，将 IFTTT 连接到 Spotify

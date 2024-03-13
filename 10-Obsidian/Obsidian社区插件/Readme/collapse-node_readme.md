@@ -1,5 +1,5 @@
 ---
-uid: 2023120719250434
+uid: 2023102611073503
 title: Obsidian 插件：【Readme】Collapse Node
 tags: ['obsidian插件', 'readme']
 description: 在画布中折叠节点。
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 在画布中折叠节点。
 
-![Collapse Node](https://cdn.pkmer.cn/covers/collapse-node.gif)
+![Collapse Node](https://cdn.pkmer.cn/covers/collapse-node.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Collapse-Node/master/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 一个用于 [Obsidian](https://obsidian.md) 的插件，帮助你在画布中折叠节点。
 
-![Collapse-Node](https://cdn.pkmer.cn/covers/collapse-node_2_0.gif)
+![Collapse-Node](./assets/Collapse-Node.gif)
 
 ## 使用方法
 

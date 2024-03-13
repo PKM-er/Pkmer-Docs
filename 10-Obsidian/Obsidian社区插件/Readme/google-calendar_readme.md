@@ -1,6 +1,6 @@
 ---
-uid: 2023120719295306
-title: Obsidian 插件：【Readme】Google Calendar
+uid: 2023080322191818
+title: Obsidian 插件：Google Calendar
 tags: ['日期相关', '第三方工具集成', 'obsidian插件', 'readme']
 description: 让你的 Obsidian 与您的 Google 日历进行交互
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Google Calendar
+# Obsidian 插件：Google Calendar
 
 > [!Note] 插件名片
 > - 插件名称：Google Calendar
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/YukiGasai/obsidian-google-calendar/master/README.md)
->
 
 ---
 
@@ -86,37 +85,37 @@ modified: 20230101000000
 
 一个到原始谷歌日历页面的网页框架
 
-![](https://cdn.pkmer.cn/covers/google-calendar_1_0.png!pkmer)
+![](https://i.imgur.com/oukwdQY.png)
 
 #### 月视图
 
 基于 [obsidian-calendar-ui](https://github.com/liamcain/obsidian-calendar-ui) 的日历，用于显示一个月内的事件
 
-![](https://cdn.pkmer.cn/covers/google-calendar_1_1.png!pkmer)
+![](https://i.imgur.com/JEnuZ2E.png)
 
 #### 日视图
 
 一种时间轴视图，可以查看一天内的所有事件
 
-![](https://cdn.pkmer.cn/covers/google-calendar_1_2.png!pkmer)
+![](https://i.imgur.com/f9nYmOn.png)
 
 #### 周视图
 
 一种时间轴视图，可以查看一周内的所有事件
 
-![](https://cdn.pkmer.cn/covers/google-calendar_1_3.png!pkmer)
+![](https://i.imgur.com/KDYTaIJ.png)
 
 #### 年视图
 
 一个类似 Github 的日历视图，可以查看一整年的所有事件
 
-![](https://cdn.pkmer.cn/covers/google-calendar_1_4.png!pkmer)
+![](https://i.imgur.com/rlcitLA.png)
 
 日程视图
 
 按顺序查看所有事件的日程视图
 
-![](https://cdn.pkmer.cn/covers/google-calendar_1_5.png!pkmer)
+![](https://i.imgur.com/HkYQg4Z.png)
 
 ### 命令
 
@@ -197,7 +196,7 @@ modified: 20230101000000
 
 为了使这个插件成为 Obsidian 中日历的一站式解决方案，您可以启用“显示每日笔记”设置。这将允许您在月视图中查看您的每日笔记和 Google 事件，并在打开事件选择时添加查看或创建每日笔记的选项。
 
-![带有每日笔记的模态框](https://cdn.pkmer.cn/covers/google-calendar_1_6.png!pkmer)
+![带有每日笔记的模态框](https://i.imgur.com/LhhP7C2.png)
 
 感谢以下插件：
 

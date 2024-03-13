@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/kursad-k/obsidian-openasmd/main/README.md)
->
 
 ---
 
@@ -74,7 +73,6 @@ The quick brown fox jumps over the lazy dog.
 ## 开发
 
 这个项目使用 Typescript 来提供类型检查和文档。
-
 该存储库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api) 以 Typescript 定义格式，其中包含 TSDoc 注释描述其功能。
 
 如果您想要为开发做出贡献和/或只是根据自己的需求进行自定义，
@@ -88,7 +86,6 @@ The quick brown fox jumps over the lazy dog.
 - 重新加载 obsidian 以查看更改
 
 或者，您可以直接将存储库克隆到您的插件文件夹中，一旦依赖项安装完成，使用 `npm run dev` 启动监视模式下的编译。
-
 您可能需要重新加载 obsidian（`ctrl+R`）以查看更改。
 
 # 版本历史

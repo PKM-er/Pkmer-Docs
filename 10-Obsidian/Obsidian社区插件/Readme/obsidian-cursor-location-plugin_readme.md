@@ -1,6 +1,6 @@
 ---
-uid: 2023120719255782
-title: Obsidian 插件：【Readme】Cursor Location
+uid: 2023080322164916
+title: Obsidian 插件：Cursor Location
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这显示了光标的位置（字符和行号）。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Cursor Location
+# Obsidian 插件：Cursor Location
 
 > [!Note] 插件名片
 > - 插件名称：Cursor Location
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 这显示了光标的位置（字符和行号）。
 
-![Cursor Location](https://cdn.pkmer.cn/covers/obsidian-cursor-location-plugin.gif)
+![Cursor Location](https://cdn.pkmer.cn/covers/obsidian-cursor-location-plugin.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/spslater/obsidian-cursor-location-plugin/master/README.md)
->
 
 ---
 
@@ -47,7 +46,7 @@ modified: 20230101000000
 
 这个演示使用的是较旧版本的 Obsidian，但输出的功能是相同的。
 
-![演示动画](https://cdn.pkmer.cn/covers/obsidian-cursor-location-plugin_2_0.gif)
+![演示动画](demo.gif)
 
 ## 设置
 
@@ -93,11 +92,11 @@ modified: 20230101000000
 
 ### 默认设置
 
-![默认设置](https://cdn.pkmer.cn/covers/obsidian-cursor-location-plugin_2_1.png!pkmer)
+![默认设置](defaults.png)
 
 ### 百分比设置
 
-![百分比设置](https://cdn.pkmer.cn/covers/obsidian-cursor-location-plugin_2_2.png!pkmer)
+![百分比设置](percentage.png)
 
 ## 安装
 

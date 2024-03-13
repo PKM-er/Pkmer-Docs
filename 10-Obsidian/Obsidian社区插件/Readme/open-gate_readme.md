@@ -1,6 +1,6 @@
 ---
-uid: 2023120719394398
-title: Obsidian 插件：【Readme】Open Gate
+uid: 2023080322240662
+title: Obsidian 插件：Open Gate
 tags: ['obsidian插件', 'readme']
 description: 将任何网站嵌入Obsidian，从现在起，您一个地方就拥有所有所需的东西。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Open Gate
+# Obsidian 插件：Open Gate
 
 > [!Note] 插件名片
 > - 插件名称：Open Gate
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/nguyenvanduocit/obsidian-open-gate/main/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 下面是 [[open-gate]] 插件的自述翻译
 
-![](https://cdn.pkmer.cn/covers/open-gate_2_0.png!pkmer)
+![](./stuff/img.png)
 
 # Obsidian 开放门户
 
@@ -59,10 +58,10 @@ modified: 20230101000000
 
 ### 选项
 
-![](https://cdn.pkmer.cn/covers/open-gate_2_1.png!pkmer)
+![](./stuff/img_1.png)
 
 ### 添加新的门
 
-![](https://cdn.pkmer.cn/covers/open-gate_2_2.png!pkmer)
+![](./stuff/img_2.png)
 
 添加新的门不需要重新启动 Obsidian。但是编辑和删除门需要重新启动 Obsidian。

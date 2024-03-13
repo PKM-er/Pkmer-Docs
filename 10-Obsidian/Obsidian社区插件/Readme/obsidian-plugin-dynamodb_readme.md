@@ -1,6 +1,6 @@
 ---
-uid: 2023120719231842
-title: Obsidian 插件：【Readme】AWS DynamoDB For Obsidian
+uid: 2023080322144906
+title: Obsidian 插件：AWS DynamoDB For Obsidian
 tags: ['obsidian插件', 'readme']
 description: 查询AWS DynamoDB并在文档内渲染表格
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】AWS DynamoDB For Obsidian
+# Obsidian 插件：AWS DynamoDB For Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：AWS DynamoDB For Obsidian
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/leenattress/obsidian-plugin-dynamodb/main/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 的 DynamoDB 查询插件
 
-![https://cdn.pkmer.cn/covers/obsidian-plugin-dynamodb_2_0.png!pkmer](https://cdn.pkmer.cn/covers/obsidian-plugin-dynamodb_2_0.png!pkmer)
+![header.png](header.png)
 
 > 这个 Obsidian.md 插件允许您在 markdown 文档中执行简单的 AWS DynamoDB 查询。它最初是为了在单表设计中提供快速原型和查询文档，以便在数据访问模式发现过程中提供帮助。
 

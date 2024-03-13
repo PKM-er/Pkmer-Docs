@@ -27,7 +27,6 @@ Sync TickTick tasks to Obsidian, and Obsidian tasks to TickTick
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/thesamim/TickTickSync/master/README.md)
->
 
 ---
 
@@ -146,7 +145,7 @@ TickTickSync 插件会自动在 ticktick 中创建任务，并在 Obsidian 和 t
 
 由于 TickTick 和 ToDoist 任务处理方式的差异，进行了重大更改。我感谢 [HeroBlackInk](https://github.com/HeroBlackInk/ultimate-todoist-sync-for-obsidian/commits?author=HeroBlackInk "查看HeroBlackInk的所有提交") 在原始插件中所做的工作。
 
-这里使用的 [TickTick api包装器](https://github.com/thesamim/ticktick-api-lvt) 是从 <https://github.com/lucasvtiradentes/ticktick-api-lvt进行的分支。感谢[Lucas](https://github.com/lucasvtiradentes)的支持。>
+这里使用的 [TickTick api包装器](https://github.com/thesamim/ticktick-api-lvt) 是从<https://github.com/lucasvtiradentes/ticktick-api-lvt>进行的分支。感谢 [Lucas](https://github.com/lucasvtiradentes) 的支持。
 
 ## 免责声明
 

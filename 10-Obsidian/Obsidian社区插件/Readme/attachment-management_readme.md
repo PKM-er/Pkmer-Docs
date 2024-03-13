@@ -1,6 +1,6 @@
 ---
-uid: 2023120719224468
-title: Obsidian 插件：【Readme】Attachment Management
+uid: 2023080322141906
+title: Obsidian 插件：Attachment Management
 tags: ['obsidian插件', 'readme']
 description: 附件管理插件，用于自定义附件路径和自动重命名等功能。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Attachment Management
+# Obsidian 插件：Attachment Management
 
 > [!Note] 插件名片
 > - 插件名称：Attachment Management
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/trganda/obsidian-attachment-management/main/README.md)
->
 
 ---
 
@@ -88,7 +87,7 @@ modified: 20230101000000
 
 您必须选择一个根文件夹来保存与 `markdown` 或 `canvas` 文件相关联的附件。
 
-![SCR-20230511-rgge](https://cdn.pkmer.cn/covers/attachment-management_2_0.png!pkmer)
+![SCR-20230511-rgge](./images/SCR-20230511-rgge.png)
 
 可以使用 Obsidian 中的“文件和链接”配置进行设置，或在此选项中重新设置。
 
@@ -128,7 +127,7 @@ modified: 20230101000000
 
 此选项仅在启用“处理所有附件”时有用。编写一个正则表达式模式来排除某些扩展名的处理。
 
-![SCR-20230511-roat](https://cdn.pkmer.cn/covers/attachment-management_2_1.png!pkmer)
+![SCR-20230511-roat](./images/SCR-20230511-roat.png)
 
 自动重命名附件文件夹/文件名，当您重命名相应的 md/canvas 文件所在的文件夹/文件名时。
 
@@ -148,7 +147,7 @@ modified: 20230101000000
 
 该插件支持一个命令“重新排列链接的附件/重新排列所有链接的附件”。如果运行此命令，它将根据您的配置重命名所有链接在“markdown”或“canvas”文件中的附件（默认为图像文件，如果要重命名其他类型，您需要启用 [处理所有附件](#handle-all-attachments)）。
 
-![SCR-20230511-rrtk](https://cdn.pkmer.cn/covers/attachment-management_2_2.png!pkmer)
+![SCR-20230511-rrtk](./images/SCR-20230511-rrtk.png)
 
 **注意**：目前，“重新排列链接的附件/重新排列所有链接的附件”是一个实验性功能，如果您想尝试，请先备份您的文件。
 
@@ -167,7 +166,7 @@ modified: 20230101000000
 - ~~目前不支持处理重复的文件名（正在开发中）。在备份中，您可以使用数据变量 [`x`](https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format/) 将 Unix 时间戳与毫秒作为文件名（这将防止重复的文件名）。~~
 - 当在 `canvas` 中放置一个文件时，它会延迟显示更新后的链接/文件名。
 
-![屏幕录制](https://cdn.pkmer.cn/covers/attachment-management_2_3.gif)
+![屏幕录制](./images/canvas_drop_delay.gif)
 
 - 假设您有以下结构的默认配置：
   - 附加目录，"assets/notes/hello/1.png"

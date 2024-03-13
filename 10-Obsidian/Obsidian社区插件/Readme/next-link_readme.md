@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/jdluque/next-link/master/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 # 下一个链接
 
-这个 Obsidian 插件允许在 Obsidian（<https://obsidian.md）中的笔记链接之间进行高效导航。>
+这个 Obsidian 插件允许在 Obsidian（<https://obsidian.md>）中的笔记链接之间进行高效导航。
 
 为了获得最佳性能，请将下一个和上一个链接命令绑定到您喜欢的键盘快捷键上。
 

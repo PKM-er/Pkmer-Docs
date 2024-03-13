@@ -1,6 +1,6 @@
 ---
-uid: 2023120719293051
-title: Obsidian 插件：【Readme】Furigana
+uid: 2023080322185847
+title: Obsidian 插件：Furigana
 tags: ['编辑工具', 'obsidian插件', 'readme']
 description: tags辅助插件用于振り仮名和<ruby>标签
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Furigana
+# Obsidian 插件：Furigana
 
 > [!Note] 插件名片
 > - 插件名称：Furigana
@@ -29,7 +29,6 @@ tags 辅助插件用于振り仮名和<ruby>标签
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/uonr/obsidian-furigana/master/README.md)
->
 
 ---
 
@@ -46,6 +45,6 @@ tags 辅助插件用于振り仮名和<ruby>标签
 
 截图和使用说明
 
-![截图1](https://cdn.pkmer.cn/covers/obsidian-furigana_1_0.png!pkmer)
+![截图1](https://raw.githubusercontent.com/uonr/obsidian-furigana/master/screenshot-1.png)
 
-![截图2](https://cdn.pkmer.cn/covers/obsidian-furigana_1_1.png!pkmer)
+![截图2](https://raw.githubusercontent.com/uonr/obsidian-furigana/master/screenshot-2.png)

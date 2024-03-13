@@ -1,6 +1,6 @@
 ---
-uid: 2023120719442572
-title: Obsidian 插件：【Readme】Text Dataset Aid Plugin
+uid: 2023080322280210
+title: Obsidian 插件：Text Dataset Aid Plugin
 tags: ['obsidian插件', 'readme']
 description: 这个Obsidian插件有助于为语言模型创建微调数据集。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Text Dataset Aid Plugin
+# Obsidian 插件：Text Dataset Aid Plugin
 
 > [!Note] 插件名片
 > - 插件名称：Text Dataset Aid Plugin
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/conneroisu/Text-Dataset-Aid-Plugin/master/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-dataset-aid]] 插件的自述翻译
 
-![图片](https://cdn.pkmer.cn/covers/obsidian-dataset-aid_1_0.png!pkmer)
+![图片](https://user-images.githubusercontent.com/88785126/203184536-9199f720-a03b-423b-9bf6-81a68c7fbd28.png)
 
 ![Obsidian 下载量](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=下载量&query=%24%5B%22obsidian-dataset-aid%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
 

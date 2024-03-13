@@ -1,6 +1,6 @@
 ---
-uid: 2023120719294037
-title: Obsidian 插件：【Readme】Generic Initiative Tracker
+uid: 2023080322190629
+title: Obsidian 插件：Generic Initiative Tracker
 tags: ['obsidian插件', 'readme']
 description: 通用TTRPG行动跟踪器
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Generic Initiative Tracker
+# Obsidian 插件：Generic Initiative Tracker
 
 > [!Note] 插件名片
 > - 插件名称：Generic Initiative Tracker
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/beaurancourt/obsidian-generic-initiative-tracker/main/README.md)
->
 
 ---
 
@@ -70,7 +69,7 @@ creatures:
 
 这将在预览中呈现如下：
 
-![image](https://cdn.pkmer.cn/covers/generic-initiative-tracker_1_0.png!pkmer)
+![image](https://user-images.githubusercontent.com/1045160/145105220-4f920d03-c84a-4edd-984c-f139988d16e7.png)
 
 （gruvbox 主题）
 
@@ -78,11 +77,11 @@ creatures:
 
 配置了玩家后，效果如下：
 
-![image](https://cdn.pkmer.cn/covers/generic-initiative-tracker_1_1.png!pkmer)。
+![image](https://user-images.githubusercontent.com/1045160/145105397-546a7304-3c7f-4ffd-b74a-964381ebf0b5.png)。
 
 悬停时，您会同时获得内部笔记的预览和初始摘要：
 
-![image](https://cdn.pkmer.cn/covers/generic-initiative-tracker_1_2.png!pkmer)
+![image](https://user-images.githubusercontent.com/1045160/145105854-86c74cc0-6106-4ed5-89cb-aa83a5f2626d.png)
 
 ### 参数
 
@@ -218,9 +217,9 @@ creatures:
 
 该插件将根据标记为 `#condition` 的笔记动态填充条件。我仍在努力改进描述文本的呈现效果，但目前它是可用的。
 
-![image](https://cdn.pkmer.cn/covers/generic-initiative-tracker_1_3.png!pkmer)
+![image](https://user-images.githubusercontent.com/1045160/149223266-25afdf23-85b6-4616-9399-3986ab63bf7f.png)
 
-![image](https://cdn.pkmer.cn/covers/generic-initiative-tracker_1_4.png!pkmer)
+![image](https://user-images.githubusercontent.com/1045160/149223344-107a3d00-647d-4ce3-a965-7f0bc8fdc293.png)
 
 # 路线图
 

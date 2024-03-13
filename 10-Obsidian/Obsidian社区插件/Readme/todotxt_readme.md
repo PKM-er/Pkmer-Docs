@@ -1,6 +1,6 @@
 ---
-uid: 2023120719451553
-title: Obsidian 插件：【Readme】TodoTxt
+uid: 2023080322283238
+title: Obsidian 插件：TodoTxt
 tags: ['obsidian插件', 'readme']
 description: 管理Todo.txt文件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】TodoTxt
+# Obsidian 插件：TodoTxt
 
 > [!Note] 插件名片
 > - 插件名称：TodoTxt
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/mvgrimes/obsidian-todotxt-plugin/main/README.md)
->
 
 ---
 
@@ -41,7 +40,7 @@ modified: 20230101000000
 
 在 Obsidian 中管理 [\*.todotxt](https://github.com/todotxt/todo.txt) 文件。
 
-![Obsidian 中的样本 TodoTxt 文件](https://cdn.pkmer.cn/covers/todotxt_2_0.png!pkmer)
+![Obsidian 中的样本 TodoTxt 文件](docs/screenshot.png)
 
 安装插件并将你的 todo 文件放在 Obsidian vault 中，使用 `.todotxt` 扩展名（例如，`TODO.todotxt`）。
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719274194
-title: Obsidian 插件：【Readme】Excel to Markdown Table
+uid: 2023080322175764
+title: Obsidian 插件：Excel to Markdown Table
 tags: ['表格', 'obsidian插件', 'readme']
 description: Obsidian插件，可以将来自Microsoft Excel、Google Sheets、Apple Numbers和LibreOffice Calc的数据粘贴为Obsidian编辑器中的Markdown表格。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Excel to Markdown Table
+# Obsidian 插件：Excel to Markdown Table
 
 > [!Note] 插件名片
 > - 插件名称：Excel to Markdown Table
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 Obsidian 插件，可以将来自 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 的数据粘贴为 Obsidian 编辑器中的 Markdown 表格。
 
-![Excel to Markdown Table](https://cdn.pkmer.cn/covers/obsidian-excel-to-markdown-table.gif)
+![Excel to Markdown Table](https://cdn.pkmer.cn/covers/obsidian-excel-to-markdown-table.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/ganesshkumar/obsidian-excel-to-markdown-table/master/README.md)
->
 
 ---
 
@@ -39,7 +38,7 @@ Obsidian 插件，可以将来自 Microsoft Excel、Google Sheets、Apple Number
 
 # Obsidian Excel to Markdown Table
 
-![Excel to Markdown Banner](https://cdn.pkmer.cn/covers/obsidian-excel-to-markdown-table_1_0.gif)
+![Excel to Markdown Banner](https://user-images.githubusercontent.com/2135089/153448883-7ff1b12a-aaca-4eb5-b1e3-4bc227481d04.gif)
 
 [![Tag 0.2.2](https://img.shields.io/badge/tag-0.2.2-blue)](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table/releases/tag/0.2.2)
 
@@ -63,7 +62,7 @@ Obsidian 插件，可以将来自 Microsoft Excel、Google Sheets、Apple Number
 |2| 快捷键 |`Crtl/Cmd + Alt + V` | 也可以粘贴只有一列的表格 <br/> 如果需要，可以从设置中重新分配快捷键 |
 |3| 命令面板 |`Ctrl/Cmd + P` > `Excel to Markdown` | 也可以粘贴只有一列的表格 |
 
-![Obsidian Excel to Markdown Table](https://cdn.pkmer.cn/covers/obsidian-excel-to-markdown-table_1_6.gif)
+![Obsidian Excel to Markdown Table](https://user-images.githubusercontent.com/2135089/153027044-d1b91515-d5ea-4624-ace1-654c4ceccdc1.gif)
 
 ## 安装
 

@@ -24,12 +24,11 @@ modified: 20230101000000
 
 轻松追踪您的情绪和情感。可视化追踪历史并浏览过去的记录。
 
-![Mood Tracker](https://cdn.pkmer.cn/covers/mood-tracker.gif)
+![Mood Tracker](https://cdn.pkmer.cn/covers/mood-tracker.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dartungar/obsidian-mood-tracker/master/README.md)
->
 
 ---
 

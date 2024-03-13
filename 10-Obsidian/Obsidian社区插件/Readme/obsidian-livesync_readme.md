@@ -24,12 +24,11 @@ modified: 20230101000000
 
 社区实施自托管的 Livesync。立即将您的保险库更改反映到其他设备上。请确保禁用其他同步解决方案，以避免内容损坏或重复。
 
-![Self-hosted LiveSync](https://cdn.pkmer.cn/covers/obsidian-livesync_new.gif)
+![Self-hosted LiveSync](https://cdn.pkmer.cn/covers/obsidian-livesync_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vrtmrz/obsidian-livesync/main/README.md)
->
 
 ---
 

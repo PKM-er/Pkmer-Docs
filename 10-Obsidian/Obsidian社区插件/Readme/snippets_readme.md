@@ -1,6 +1,6 @@
 ---
-uid: 2023120719432458
-title: Obsidian 插件：【Readme】Snippets plugin
+uid: 2023080322271332
+title: Obsidian 插件：Snippets plugin
 tags: ['自动化', '编程', 'obsidian插件', 'readme']
 description: 这个插件允许你在 Obsidian 中运行一些简单的脚本，用于启动一些对应服务，如 Java、Python
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Snippets plugin
+# Obsidian 插件：Snippets plugin
 
 > [!Note] 插件名片
 > - 插件名称：Snippets plugin
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/cristianvasquez/obsidian-snippets-plugin/master/README.md)
->
 
 ---
 
@@ -55,7 +54,7 @@ modified: 20230101000000
 
 该插件为识别到的（shell）代码片段显示一个“运行”按钮。
 
-![预览模式示例](https://cdn.pkmer.cn/covers/snippets_2_0.png!pkmer)
+![预览模式示例](./img/preview.png)
 
 如果您点击该按钮，将会打开火狐浏览器。
 
@@ -63,17 +62,17 @@ modified: 20230101000000
 
 1. 将光标放在代码片段的顶部。
 
-![write mode example](https://cdn.pkmer.cn/covers/snippets_2_1.png!pkmer)
+![write mode example](./img/shell_date.png)
 
 1. 按下 `Ctrl/Cmd`+`Shift`+`Enter`，或从调色板中选择 `Snippets: Run` 命令。
 
 代码将（希望）运行，并且任何输出都将附加在代码片段之后。
 
-![write mode example result](https://cdn.pkmer.cn/covers/snippets_2_2.png!pkmer)
+![write mode example result](./img/shell_date_result.png)
 
 您还可以调用一些 Python 代码！
 
-![write mode python result](https://cdn.pkmer.cn/covers/snippets_2_3.png!pkmer)
+![write mode python result](./img/python.png)
 
 ## 变量
 

@@ -1,5 +1,5 @@
 ---
-uid: 2023120719245932
+uid: 2023102611073341
 title: Obsidian 插件：【Readme】Codeblock Template
 tags: ['obsidian插件', 'readme']
 description: 一个模板插件，允许在代码块内重复使用内容，并能够使用变量。
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/sylcool/obsidian-codeblock-template/master/README.md)
->
 
 ---
 
@@ -61,7 +60,7 @@ Currently, this plugin has not been uploaded to the Obsidian plugin library and 
 
 设置模板存放路径，默认路径为根目录的 `templates`。
 
-![image1](https://cdn.pkmer.cn/covers/codeblock-template_2_0.png!pkmer)
+![image1](./assets/image1.png)
 
 ### Basic Usage
 
@@ -84,7 +83,7 @@ Currently, this plugin has not been uploaded to the Obsidian plugin library and 
 ```
 ````
 
-![gif](https://cdn.pkmer.cn/covers/codeblock-template_2_1.gif)
+![gif](./assets/image2.gif)
 
 ### 插值
 
@@ -112,7 +111,7 @@ name = "Sylcool"
 ```
 ````
 
-![image.png](https://cdn.pkmer.cn/covers/codeblock-template_2_2.png!pkmer)
+![image.png](./assets/Snipaste_2023-06-07_12-55-53.png)
 
 #### 匿名变量
 
@@ -138,7 +137,7 @@ value0,value1,value2,value4,....
 ```
 ````
 
-![image-20230604144109428](https://cdn.pkmer.cn/covers/codeblock-template_2_3.png!pkmer)
+![image-20230604144109428](./assets/image-20230604144109428.png)
 
 #### 循环变量
 
@@ -159,7 +158,7 @@ a = [A,B,C,D]
 ```
 ````
 
-![循环视图](https://cdn.pkmer.cn/covers/codeblock-template_2_4.png!pkmer)
+![循环视图](./assets/loop.png)
 
 ## Using with other plugins
 

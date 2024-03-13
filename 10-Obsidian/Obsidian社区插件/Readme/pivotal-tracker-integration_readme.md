@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/JonnyDeates/obsidian-pivotal-tracker-integration-plugin/main/README.md)
->
 
 ---
 
@@ -37,7 +36,7 @@ modified: 20230101000000
 
 # Obsidian Pivotal Tracker 集成插件
 
-这是一个为 Obsidian（<https://obsidian.md）开发的插件，用于集成> Pivotal Tracker（<https://www.pivotaltracker.com/）。>
+这是一个为 Obsidian（<https://obsidian.md>）开发的插件，用于集成 Pivotal Tracker（<https://www.pivotaltracker.com/>）。
 
 该项目使用 Typescript 提供类型检查和文档。
 

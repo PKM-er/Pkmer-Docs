@@ -27,7 +27,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Taitava/obsidian-shellcommands/main/README.md)
->
 
 ---
 
@@ -184,6 +183,6 @@ Jarkko Linnanvirta
 
 本程序希望能有所帮助，但没有任何保证；甚至没有适销性或特定用途的默示保证。有关更多详细信息，请参阅 GNU 通用公共许可证。
 
-您应该已经收到了 GNU 通用公共许可证的副本。如果没有，请参阅<https://www.gnu.org/licenses/>。>
+您应该已经收到了 GNU 通用公共许可证的副本。如果没有，请参阅<https://www.gnu.org/licenses/>。
 
 [完整的许可证可在此项目的GitHub存储库中找到](https://github.com/Taitava/obsidian-shellcommands/blob/main/LICENSE)。

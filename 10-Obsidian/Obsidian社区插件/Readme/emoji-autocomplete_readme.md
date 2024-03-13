@@ -2,7 +2,7 @@
 uid: 2024022117273731
 title: Obsidian 插件：【Readme】Emoji Autocomplete
 tags: ['obsidian插件', 'readme']
-description: '表情符号自动完成Smart suggestions when typing emoji shortcodes & more! :star:'
+description: 'Smart suggestions when typing emoji shortcodes & more! :star:'
 author: AI
 type: readme
 draft: false
@@ -27,7 +27,6 @@ Smart suggestions when typing emoji shortcodes & more! :star:
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/KraXen72/obsidian-emoji-autocomplete/master/README.md)
->
 
 ---
 
@@ -35,7 +34,7 @@ Smart suggestions when typing emoji shortcodes & more! :star:
 
 下面是 [[emoji-autocomplete]] 插件的自述翻译
 
-# Obsidian 表情符号自动完成
+# 黑曜石表情符号自动完成
 
 <!-- ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-emoji-shortcodes/total) -->
 

@@ -1,6 +1,6 @@
 ---
-uid: 2023120719274757
-title: Obsidian 插件：【Readme】Export Image plugin
+uid: 2023080322180003
+title: Obsidian 插件：Export Image plugin
 tags: ['图片', '转换工具', 'obsidian插件', 'readme']
 description: 将你的 Obsidian 笔记导出成图片。每次只能对一个笔记进行导出操作，且需要你切换到阅读模式。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Export Image plugin
+# Obsidian 插件：Export Image plugin
 
 > [!Note] 插件名片
 > - 插件名称：Export Image plugin
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/zhouhua/obsidian-export-image/master/README.md)
->
 
 ---
 
@@ -45,15 +44,15 @@ modified: 20230101000000
 
 注意：此插件仅在预览模式下工作。
 
-![](https://cdn.pkmer.cn/covers/obsidian-export-image_2_0.png!pkmer)
+![](./assets/mode.png)
 
 * 使用命令面板中的命令 `export to image`（按下 cmd/ctrl+P 进入命令）生成一张图片并下载到您的文件系统中。
 
-  ![](https://cdn.pkmer.cn/covers/obsidian-export-image_2_1.png!pkmer)
+  ![](./assets/command.png)
 
 * 使用命令面板中的命令 `copy as image`（按下 cmd/ctrl+P 进入命令）生成一张图片并复制到剪贴板中，这样您可以轻松地粘贴到其他软件中。
 
-  ![](https://cdn.pkmer.cn/covers/obsidian-export-image_2_2.png!pkmer)
+  ![](./assets/command-copy.png)
 
 安装
 

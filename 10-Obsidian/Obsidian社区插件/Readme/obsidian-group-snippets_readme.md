@@ -1,6 +1,6 @@
 ---
-uid: 2023120719300440
-title: Obsidian 插件：【Readme】Group Snippets
+uid: 2023080322192873
+title: Obsidian 插件：Group Snippets
 tags: ['obsidian插件', 'readme']
 description: 创建代码片段文件夹，一键激活它们！
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Group Snippets
+# Obsidian 插件：Group Snippets
 
 > [!Note] 插件名片
 > - 插件名称：Group Snippets
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 创建代码片段文件夹，一键激活它们！
 
-![Group Snippets](https://cdn.pkmer.cn/covers/obsidian-group-snippets_new.gif)
+![Group Snippets](https://cdn.pkmer.cn/covers/obsidian-group-snippets_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Lisandra-dev/obsidian-group-snippets/master/README.md)
->
 
 ---
 
@@ -96,7 +95,7 @@ modified: 20230101000000
 
 🗒️一些注意事项：当您删除代码片段时，您需要重新加载代码片段（使用刷新按钮）。但是，不用担心，插件无法激活不存在的代码片段！只是列表需要一些刷新：）。
 
-![](https://cdn.pkmer.cn/covers/obsidian-group-snippets_2_0.gif)
+![](docs/docs_gif.gif)
 
 ## 🤖 开发
 

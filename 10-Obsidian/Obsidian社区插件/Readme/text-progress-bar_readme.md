@@ -1,6 +1,6 @@
 ---
-uid: 2023120719443295
-title: Obsidian 插件：【Readme】Text Progress Bar
+uid: 2023080322280739
+title: Obsidian 插件：Text Progress Bar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示低保真文本进度条。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Text Progress Bar
+# Obsidian 插件：Text Progress Bar
 
 > [!Note] 插件名片
 > - 插件名称：Text Progress Bar
@@ -29,7 +29,6 @@ modified: 20230101000000
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/michaeladams/obsidian-text-progress-bar/master/README.md)
->
 
 ---
 
@@ -59,7 +58,7 @@ modified: 20230101000000
 ```
 ~~~
 
-![默认示例](https://cdn.pkmer.cn/covers/text-progress-bar_2_0.jpeg!pkmer)
+![默认示例](images/example-default.jpg)
 
 可选地，可以指定所有设置：
 
@@ -75,7 +74,7 @@ length:10
 ```
 ~~~
 
-![默认示例](https://cdn.pkmer.cn/covers/text-progress-bar_2_1.jpeg!pkmer)
+![默认示例](images/example-all-settings.jpg)
 
 注意，空字符是 "` `" - 一个特殊的空字符。
 
@@ -92,7 +91,7 @@ length:10
 ```
 ~~~
 
-![默认示例](https://cdn.pkmer.cn/covers/text-progress-bar_2_2.jpeg!pkmer)
+![默认示例](images/example-emoji.jpg)
 
 指定一个过渡来显示部分完成的字符：
 
@@ -108,7 +107,7 @@ length:3
 ```
 ~~~
 
-![默认示例](https://cdn.pkmer.cn/covers/text-progress-bar_2_3.jpeg!pkmer)
+![默认示例](images/example-transition-emoji.jpg)
 
 并使用小数来指定表情符号的部分完成情况
 
@@ -136,7 +135,7 @@ length:3
 ```
 ~~~
 
-![ASCII过渡](https://cdn.pkmer.cn/covers/text-progress-bar_2_4.jpeg!pkmer)
+![ASCII过渡](images/example-transition-ascii.jpg)
 
 ### 多个进度条
 
@@ -154,7 +153,7 @@ length:10
 ```
 ~~~
 
-![分组的进度条](https://cdn.pkmer.cn/covers/text-progress-bar_2_5.png!pkmer)
+![分组的进度条](images/example-multiple.png)
 
 ## 安装
 

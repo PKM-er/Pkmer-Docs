@@ -1,6 +1,6 @@
 ---
-uid: 2023120719275298
-title: Obsidian 插件：【Readme】Extract PDF Annotations
+uid: 2023080322180469
+title: Obsidian 插件：Extract PDF Annotations
 tags: ['obsidian插件', 'readme']
 description: 提取PDF注释（笔记和高亮）并按主题分类
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Extract PDF Annotations
+# Obsidian 插件：Extract PDF Annotations
 
 > [!Note] 插件名片
 > - 插件名称：Extract PDF Annotations
@@ -24,12 +24,9 @@ modified: 20230101000000
 
 提取 PDF 注释（笔记和高亮）并按主题分类
 
-![Extract PDF Annotations](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-annotations.jpeg!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/munach/obsidian-extract-pdf-annotations/master/README.md)
->
 
 ---
 
@@ -47,15 +44,15 @@ modified: 20230101000000
 
 假设我们在我们的 Vault 中有一个包含 PDF 文件的文件夹，例如：
 
-![vault_folder](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-annotations_1_0.jpeg!pkmer)
+![vault_folder](https://github.com/munach/obsidian-pdf-annotations/blob/master/img/vault_folder.jpg?raw=true)
 
 并且我们用一个名为 'Hello World' 的注释突出显示了 Julia Hello World 程序：
 
-![pdf_note](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-annotations_1_1.jpeg!pkmer)
+![pdf_note](https://github.com/munach/obsidian-pdf-annotations/blob/master/img/pdf_note.jpg?raw=true)
 
 在编辑器中（例如\_Extract），我们运行插件的命令 `Extract PDF Annotations`（所有命令的热键为 Ctrl-P）。这将获取当前文件夹中 PDF 文件中的所有注释，并按*主题*进行排序：
 
-![extracted_annotations](https://cdn.pkmer.cn/covers/obsidian-extract-pdf-annotations_1_2.jpeg!pkmer)
+![extracted_annotations](https://github.com/munach/obsidian-pdf-annotations/blob/master/img/extracted_annotations.jpg?raw=true)
 
 因此，您可以将来自多个 PDF 文件的注释与您的主题（这里是 'Hello World'）相关联。
 
@@ -111,7 +108,7 @@ $ cp main.js manifest.json ~/MyVault/.obsidian/plugins/obsidian-extract-pdf-anno
 
 ## 鸣谢
 
-该插件借鉴了 Alexis Rondeaus 的插件<https://github.com/akaalias/obsidian-extract-pdf-highlights> 的思路，但使用了 Obsidian 内置的 pdf.js 库。>
+该插件借鉴了 Alexis Rondeaus 的插件<https://github.com/akaalias/obsidian-extract-pdf-highlights>的思路，但使用了 Obsidian 内置的 pdf.js 库。
 
 ## 作者
 

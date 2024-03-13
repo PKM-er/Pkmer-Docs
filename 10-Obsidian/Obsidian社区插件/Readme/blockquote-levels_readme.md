@@ -1,6 +1,6 @@
 ---
-uid: 2023120719235259
-title: Obsidian 插件：【Readme】Blockquote Levels
+uid: 2023080322151298
+title: Obsidian 插件：Blockquote Levels
 tags: ['obsidian插件', 'readme']
 description: 添加命令用于增加/减少当前行或选择的引用块级别。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Blockquote Levels
+# Obsidian 插件：Blockquote Levels
 
 > [!Note] 插件名片
 > - 插件名称：Blockquote Levels
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 添加命令用于增加/减少当前行或选择的引用块级别。
 
-![Blockquote Levels](https://cdn.pkmer.cn/covers/blockquote-levels_new.gif)
+![Blockquote Levels](https://cdn.pkmer.cn/covers/blockquote-levels_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/czottmann/obsidian-blockquote-levels/main/README.md)
->
 
 ---
 
@@ -55,7 +54,7 @@ modified: 20230101000000
 
 ## 展示
 
-![展示 GIF](https://cdn.pkmer.cn/covers/blockquote-levels_1_0.gif)
+![展示 GIF](https://raw.githubusercontent.com/czottmann/obsidian-blockquote-levels/main/readme-assets/showcase.gif)
 
 ## 安装
 

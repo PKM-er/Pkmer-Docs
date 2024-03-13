@@ -1,6 +1,6 @@
 ---
-uid: 2023120719433051
-title: Obsidian 插件：【Readme】Spoiler Block
+uid: 2023080322271885
+title: Obsidian 插件：Spoiler Block
 tags: ['obsidian插件', 'readme']
 description: 一个简单的黑曜石插件，可以隐藏信息，直到你想揭示它
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Spoiler Block
+# Obsidian 插件：Spoiler Block
 
 > [!Note] 插件名片
 > - 插件名称：Spoiler Block
@@ -24,12 +24,11 @@ modified: 20230101000000
 
 一个简单的黑曜石插件，可以隐藏信息，直到你想揭示它
 
-![Spoiler Block](https://cdn.pkmer.cn/covers/spoiler-block-obsidian.gif)
+![Spoiler Block](https://cdn.pkmer.cn/covers/spoiler-block-obsidian.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/AllJavi/spoiler-block-obsidian/master/README.md)
->
 
 ---
 
@@ -43,7 +42,7 @@ modified: 20230101000000
 
 ## 演示
 
-![基本功能](https://cdn.pkmer.cn/covers/spoiler-block-obsidian_2_0.gif)
+![基本功能](/img/sample.gif)
 
 如何使用
 

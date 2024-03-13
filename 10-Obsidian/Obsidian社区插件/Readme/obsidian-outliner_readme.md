@@ -24,12 +24,11 @@ modified: 20230101000000
 
 为 Obsidian 的大纲添加快捷操作，像在 Workflowy 或 RoamResearch 中一样，使用快捷键调整大纲的顺序和层级变化，移动大纲上的项目。
 
-![Outliner](https://cdn.pkmer.cn/covers/obsidian-outliner.gif)
+![Outliner](https://cdn.pkmer.cn/covers/obsidian-outliner.gif!pkmer)
 
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vslinko/obsidian-outliner/main/README.md)
->
 
 ---
 
