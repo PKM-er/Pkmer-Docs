@@ -1,5 +1,5 @@
 ---
-uid: 20240227094542
+uid: 20240227094543
 title: Obsidian 插件：Vault name in status bar 在底部状态栏显示 Obsidian 仓库名
 tags: ['obsidian插件']
 description: 在状态栏中看到您的保险库名称，并点击它以减少它。
