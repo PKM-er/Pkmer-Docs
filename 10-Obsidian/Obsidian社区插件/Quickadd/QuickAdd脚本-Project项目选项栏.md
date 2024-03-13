@@ -26,13 +26,15 @@ modified: 20240311180921
 ## 代码
 
 ```js quickadd
-const projeckIds = Object.keys(app.commands.commands)
-    .filter(key => key.includes("obsidian-projects:show:"));
-const projeckNames = ProjectCommands.map(i => app.commands.commands[i].name);
+module.exports = async (params) => {
+    const projeckIds = Object.keys(app.commands.commands)
+        .filter(key => key.includes("obsidian-projects:show:"));
+    const projeckNames = projeckIds.map(i => app.commands.commands[i].name);
 
-const quickAddApi = app.plugins.plugins.quickadd.api;
-const id = await quickAddApi.suggester(projeckNames, projeckIds);
-app.commands.executeCommandById(id);
+    const quickAddApi = app.plugins.plugins.quickadd.api;
+    const id = await quickAddApi.suggester(projeckNames, projeckIds);
+    app.commands.executeCommandById(id);
+};
 ```
 
 可用 QuickAdd 的 Marco 或者 Capture 来调用
