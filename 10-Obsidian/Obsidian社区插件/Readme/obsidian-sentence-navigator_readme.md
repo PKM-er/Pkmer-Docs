@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322263719
 title: Obsidian 插件：Sentence Navigator
 tags: ['obsidian插件', 'readme']
 description: 操纵句子作为一个运动单位

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322250119
 title: Obsidian 插件：Pretty BibTeX
 tags: ['obsidian插件', 'readme']
 description: 以更美观的方式显示原始 BibTeX 参考文献条目

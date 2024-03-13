@@ -1,13 +1,17 @@
 ---
 uid: 20231109234444
 title: Thino FAQ
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Thino FAQ 你想知道 Thino 的一切都在这里
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
 modified: 20240130173621
+id: f94eee26b8f42cdf
 ---
 
 # Thino FAQ

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322162772
 title: Obsidian 插件：Contacts
 tags: ['obsidian插件', 'readme']
 description: 允许管理和组织联系人。

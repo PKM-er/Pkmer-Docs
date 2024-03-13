@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】Show Whitespace
+uid: 2023080322265021
+title: Obsidian 插件：Show Whitespace
 tags: ['界面相关', '编辑工具', 'obsidian插件', 'readme']
 description: 在编辑器中强化显示你输入的空格，防止因为不可见的输入导致格式错乱。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Show Whitespace
+# Obsidian 插件：Show Whitespace
 
 > [!Note] 插件名片
 > - 插件名称：Show Whitespace
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 编辑器设计的插件，用于显示编辑器中的空白符。
 
-![截图](https://cdn.pkmer.cn/covers/cm-show-whitespace-obsidian_1_0.png!pkmer)
+![截图](https://github.com/deathau/cm-show-whitespace-obsidian/raw/main/screenshot.png)
 
 该插件利用了 [cm-show-invisibles](https://github.com/coderaiser/cm-show-invisibles) 的代码，
 
@@ -55,9 +55,7 @@ modified: 20230101000000
 ### 注意事项
 
 目前这一切都是实验性的，所以某些部分可能无法正常工作等。
-
 某些 CSS 类等可能会干扰它，并使空白字符更加突出。
-
 请查看发布中的 styles.css，以了解添加的样式以进行自定义。
 
 如果您希望使用不同的字符，可以在自定义 CSS 中覆盖以下 CSS 变量。
@@ -94,7 +92,6 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
-
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api) 以 Typescript 定义格式，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -108,7 +105,6 @@ modified: 20230101000000
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将该仓库克隆到您的插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
-
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 定价

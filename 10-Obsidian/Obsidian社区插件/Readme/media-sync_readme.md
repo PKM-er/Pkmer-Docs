@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611080750
 title: Obsidian 插件：【Readme】Media Sync
 tags: ['obsidian插件', 'readme']
 description: 从文档中的图像URL下载图像并显示内容。

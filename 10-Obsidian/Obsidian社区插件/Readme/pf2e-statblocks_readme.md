@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219325128
 title: Obsidian 插件：【Readme】PF2e Statblocks
 tags: ['obsidian插件', 'readme']
 description: 使用仅基于Markdown的语法清晰地呈现Pathfinder 2e的统计数据块。

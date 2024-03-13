@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611081577
 title: Obsidian 插件：【Readme】Next Link
 tags: ['obsidian插件', 'readme']
 description: 快速在笔记链接之间跳转。
@@ -36,7 +36,7 @@ modified: 20230101000000
 
 # 下一个链接
 
-这个 Obsidian 插件允许在 Obsidian（<<https://obsidian.md>）中的笔记链接之间进行高效导航。>
+这个 Obsidian 插件允许在 Obsidian（<https://obsidian.md>）中的笔记链接之间进行高效导航。
 
 为了获得最佳性能，请将下一个和上一个链接命令绑定到您喜欢的键盘快捷键上。
 

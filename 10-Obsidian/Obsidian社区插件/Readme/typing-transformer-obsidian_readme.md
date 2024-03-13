@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Typing Transformer
+uid: 2023080322285361
+title: Obsidian 插件：Typing Transformer
 tags: ['obsidian插件', 'readme']
 description: 改进的、可配置的自动格式化输入
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Typing Transformer
+# Obsidian 插件：Typing Transformer
 
 > [!Note] 插件名片
 > - 插件名称：Typing Transformer
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 改进的、可配置的自动格式化输入
 
-![Typing Transformer](https://cdn.pkmer.cn/covers/typing-transformer-obsidian.gif)
+![Typing Transformer](https://cdn.pkmer.cn/covers/typing-transformer-obsidian.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -79,7 +79,7 @@ Typing Transformer 目前支持三种类型的转换规则：
 
 ### 示例 1：展开缩写短语
 
-![dpx](https://cdn.pkmer.cn/covers/typing-transformer-obsidian_1_0.gif)
+![dpx](https://user-images.githubusercontent.com/49832303/184522399-e0c25d5b-4aad-4c0e-a03a-956fbf3965bb.gif)
 
 当输入 `dp` 并跟随 `x` 时，光标将位于 `x` 之后，从而触发转换。
 
@@ -89,13 +89,13 @@ Typing Transformer 目前支持三种类型的转换规则：
 
 ### 示例 2：符号的自动配对
 
-![auto-pair](https://cdn.pkmer.cn/covers/typing-transformer-obsidian_1_1.gif)
+![auto-pair](https://user-images.githubusercontent.com/49832303/185430735-8601bd41-077f-417c-96bc-c57f3428bf5a.gif)
 
 规则的触发器是 `《`，规则会自动配对中文书签，并将光标放置在中间。
 
 ### 示例 3：将两个全角字符转换为一个半角字符
 
-![auto-pair and transformation](https://cdn.pkmer.cn/covers/typing-transformer-obsidian_1_2.gif)
+![auto-pair and transformation](https://user-images.githubusercontent.com/49832303/185430769-84c12d45-0ee4-434c-80a6-04466cebb9bd.gif)
 
 这个规则与上面的规则一起使用。
 
@@ -122,11 +122,11 @@ Typing Transformer 目前支持三种类型的转换规则：
 
 ### 示例 1：删除一对括号
 
-![pair deletion](https://cdn.pkmer.cn/covers/typing-transformer-obsidian_1_3.gif)
+![pair deletion](https://user-images.githubusercontent.com/103465188/186443468-46a21ef9-1bc6-4de2-a1bd-187c8069e8e8.gif)
 
 ### 示例 2：快速删除星号
 
-![删除星号](https://cdn.pkmer.cn/covers/typing-transformer-obsidian_1_4.gif)
+![删除星号](https://user-images.githubusercontent.com/103465188/186443487-484bd969-2c16-42ec-824c-cebc1799431c.gif)
 
 ## 选择规则
 
@@ -142,7 +142,7 @@ Typing Transformer 目前支持三种类型的转换规则：
 
 ### 示例 1：选择自动配对的<尖括号>
 
-![selection](https://cdn.pkmer.cn/covers/typing-transformer-obsidian_1_5.gif)
+![selection](https://user-images.githubusercontent.com/49832303/185430794-c734358b-8dd4-4cc0-9856-d6e39d27b777.gif)
 
 尖括号的自动配对使得输入 HTML 变得更加容易！
 
@@ -159,7 +159,7 @@ Typing Transformer 目前支持三种类型的转换规则：
 
 在输入多种语言时，在不同语言块之间插入空格可以优化阅读体验。毫无疑问，Typing Transformer 包含了可以帮助的功能。
 
-![add spaces](https://cdn.pkmer.cn/covers/typing-transformer-obsidian_1_6.gif)
+![add spaces](https://user-images.githubusercontent.com/49832303/175770015-6dba97d6-5eb2-4d30-a28d-e7ae061c2e7a.gif)
 
 自动格式化通过句子片段触发；当输入标点符号（如逗号、句号或空格）时，会插入空格。在处理时，`⭐️`（区域指示器）将指示起始点，当前光标位置将作为终点。
 

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219300649
 title: Obsidian 插件：【Readme】CardNote
 tags: ['obsidian插件', 'readme']
 description: 快速在Canvas和Excalidraw中提取您的想法。

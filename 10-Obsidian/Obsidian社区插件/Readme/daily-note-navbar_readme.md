@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219302999
 title: Obsidian 插件：【Readme】Daily Note Navbar
 tags: ['obsidian插件', 'readme']
 description: 在连续的每日笔记之间轻松导航。

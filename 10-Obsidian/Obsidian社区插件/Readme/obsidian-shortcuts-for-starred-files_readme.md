@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322195195
 title: Obsidian 插件：Hotkeys for Bookmarks
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 为前9个加星标的文件设置单独的热键，只需要键盘就可以打开它们。

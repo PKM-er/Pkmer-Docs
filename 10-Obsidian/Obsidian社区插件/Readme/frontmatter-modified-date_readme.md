@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611084803
 title: Obsidian 插件：【Readme】Update frontmatter modified date
 tags: ['obsidian插件', 'readme']
 description: 当文件被修改时，自动更新前置数据的修改日期字段。

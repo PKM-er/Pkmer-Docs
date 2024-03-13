@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219315589
 title: Obsidian 插件：【Readme】Line Commands
 tags: ['obsidian插件', 'readme']
 description: Adds commands to quickly select, copy, cut, and paste lines under the selection or cursor.

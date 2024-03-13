@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322245247
 title: Obsidian 插件：Plugin Manager
 tags: ['obsidian插件', 'readme']
 description: 扩展Obsidian的插件管理功能。

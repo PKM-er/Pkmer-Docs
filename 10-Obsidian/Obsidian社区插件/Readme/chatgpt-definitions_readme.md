@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611073022
 title: Obsidian 插件：【Readme】ChatGPT Definition
 tags: ['obsidian插件', 'readme']
 description: 让你的AI助手ChatGPT为你定义单词和概念。

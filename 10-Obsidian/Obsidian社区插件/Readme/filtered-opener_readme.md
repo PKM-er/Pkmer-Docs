@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219310768
 title: Obsidian 插件：【Readme】Filtered Opener
 tags: ['obsidian插件', 'readme']
 description: 打开笔记和文件夹，从由过滤器定义的集合中选择。

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】File Chucker
+uid: 2023080322180914
+title: Obsidian 插件：File Chucker
 tags: ['obsidian插件', 'readme']
 description: 快速移动文件到新的或已存在的文件夹，然后打开下一个文件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】File Chucker
+# Obsidian 插件：File Chucker
 
 > [!Note] 插件名片
 > - 插件名称：File Chucker
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 设置一个自定义快捷键来激活命令：“File Chucker: Move to new or existing folder”
 
-![image](https://cdn.pkmer.cn/covers/file-chucker_1_0.png!pkmer)
+![image](https://user-images.githubusercontent.com/111891/210280526-ce210fdc-383d-4eeb-93b6-c934c368b3cf.png)
 
 然后调用它来快速选择要移动到的文件夹：
 
@@ -50,23 +50,23 @@ modified: 20230101000000
 
 如果您想将其移动到一个新文件夹，您可以使用模糊搜索来缩小选择范围...
 
-![image](https://cdn.pkmer.cn/covers/file-chucker_1_2.png!pkmer)
+![image](https://user-images.githubusercontent.com/111891/210280639-c471afc0-28c0-4e85-82a7-d0ddc0b3133e.png)
 
 然后使用 Tab 键自动完成选择：
 
-![image](https://cdn.pkmer.cn/covers/file-chucker_1_3.png!pkmer)
+![image](https://user-images.githubusercontent.com/111891/210280669-6cca1bbb-87a4-411d-88bf-6a3b0e52e0f8.png)
 
 更改文件夹名称：
 
-![image](https://cdn.pkmer.cn/covers/file-chucker_1_4.png!pkmer)
+![image](https://user-images.githubusercontent.com/111891/210280693-f8cc8253-f99b-4e25-bd19-f98db5149e33.png)
 
 然后使用 Enter 键创建新文件夹并将文件移动到其中！
 
-![image](https://cdn.pkmer.cn/covers/file-chucker_1_5.png!pkmer)
+![image](https://user-images.githubusercontent.com/111891/210280714-9281197a-2edb-48c5-9639-82f489b40900.png)
 
 在插件设置中打开“自动进行下一个文件”，您将自动加载文件夹中的下一个文件！无需手动返回到您的“收件箱”！
 
-![image](https://cdn.pkmer.cn/covers/file-chucker_1_6.png!pkmer)
+![image](https://user-images.githubusercontent.com/111891/210280759-1e940f4c-aed6-466b-b7bc-8f54d3dbf078.png)
 
 ## 安装
 

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Grandfather
+uid: 2023080322192691
+title: Obsidian 插件：Grandfather
 tags: ['界面相关', '状态栏', 'obsidian插件', 'readme']
 description: 状态栏上显示时间和日期的简单插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Grandfather
+# Obsidian 插件：Grandfather
 
 > [!Note] 插件名片
 > - 插件名称：Grandfather
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 您可以从预定义的时间格式列表中进行选择，或者使用自定义格式，您可以在 [这里](https://momentjs.com/docs/#/displaying/format/) 找到有关它的信息。
 
-![演示图片](https://cdn.pkmer.cn/covers/obsidian-grandfather_2_0.png!pkmer)
+![演示图片](demo.png)
 
 ## 安装
 

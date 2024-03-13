@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322182925
 title: Obsidian 插件：Fleeting Notes Sync
 tags: ['obsidian插件', 'readme']
 description: 这是一个插件，用于将Fleeting Notes与Obsidian同步。

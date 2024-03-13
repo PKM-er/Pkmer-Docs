@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322221825
 title: Obsidian 插件：Media Extended BiliBili Plugin
 tags: ['音频和视频', '效率', '第三方工具集成', 'obsidian插件', 'readme']
 description: 为 Media Extended 插件增加高级bilibili视频支持。笔记嵌入视频片段，笔记嵌入时间戳，支持高清分辨率/倍速/循环/自动播放

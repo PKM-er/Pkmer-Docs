@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】Desmos
+uid: 2023080322171489
+title: Obsidian 插件：Desmos
 tags: ['obsidian插件', 'readme']
 description: 将Desmos图形嵌入您的笔记中
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Desmos
+# Obsidian 插件：Desmos
 
 > [!Note] 插件名片
 > - 插件名称：Desmos
@@ -39,10 +39,9 @@ modified: 20230101000000
 # 黑曜石 Desmos
 
 在你的笔记中直接渲染 [Desmos](https://www.desmos.com/calculator) 图形。
-
 可以在线和 [离线](#offline-usage) 使用。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-desmos_1_0.png!pkmer)
+![演示](https://user-images.githubusercontent.com/48661288/159597221-afc18198-5a3f-4a58-a6b2-a3a552a92a7f.png)
 
 # 安装
 
@@ -71,7 +70,7 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![linear](https://cdn.pkmer.cn/covers/obsidian-desmos_1_1.png!pkmer)
+  ![linear](https://user-images.githubusercontent.com/48661288/158956700-96525ec7-20bb-4da6-9314-106a6c43eced.png)
 
 </details>
 
@@ -87,7 +86,7 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![latex](https://cdn.pkmer.cn/covers/obsidian-desmos_1_2.png!pkmer)
+  ![latex](https://user-images.githubusercontent.com/48661288/158957163-2b561a94-08b0-40fa-b725-0e8957bd696c.png)
 
 </details>
 
@@ -105,16 +104,14 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![restriction](https://cdn.pkmer.cn/covers/obsidian-desmos_1_3.png!pkmer)
+  ![restriction](https://user-images.githubusercontent.com/48661288/158957249-eb3f063e-e4c4-4d50-9935-d4fb95fd2336.png)
 
 </details>
 
 你可以通过使用 `height` 和 `width` 字段来设置渲染图像的尺寸。
-
 此外，你可以通过设置 `grid=false` 来禁用图形网格。
 
 你可以通过使用 `degreeMode` 设置来设置三角函数的模式。
-
 它有两个有效值：`radians` 或 `degrees`。默认情况下，它将被设置为 `radians`。
 
 ## 方程控制
@@ -179,7 +176,7 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![equation-control](https://cdn.pkmer.cn/covers/obsidian-desmos_1_4.png!pkmer)
+  ![equation-control](https://user-images.githubusercontent.com/48661288/158956490-9d4eaf54-4ae6-4b1c-9f49-18e3eb456650.png)
 
 </details>
 
@@ -195,7 +192,7 @@ modified: 20230101000000
 <details>
   <summary>查看图形</summary>
 
-  ![hidden](https://cdn.pkmer.cn/covers/obsidian-desmos_1_5.png!pkmer)
+  ![hidden](https://user-images.githubusercontent.com/48661288/161505291-9a28618a-d14e-48ec-9d5e-14b7235db733.png)
 
 </details>
 
@@ -220,7 +217,6 @@ modified: 20230101000000
 # 自定义样式
 
 `obsidian-desmos` CSS 类应用于所有图形。可以在主题和片段中使用它来覆盖某些行为。
-
 例如，如果您希望所有图形在页面内容中居中显示，可以使用以下片段：
 
 ```css
@@ -235,5 +231,4 @@ modified: 20230101000000
 # 离线使用
 
 如果您在连接到互联网时至少渲染了一个图形，那么以后的任何图形（无论缓存设置如何）都应该能够渲染（如果不能，请在此处提出问题）。
-
 * 需要在插件设置中启用传统 API 模式。

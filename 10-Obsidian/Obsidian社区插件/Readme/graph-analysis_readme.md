@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Graph Analysis
+uid: 2023080322192783
+title: Obsidian 插件：Graph Analysis
 tags: ['obsidian插件', 'readme']
 description: 在你的保险箱中使用酷的图形算法发现笔记之间的隐藏联系。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Graph Analysis
+# Obsidian 插件：Graph Analysis
 
 > [!Note] 插件名片
 > - 插件名称：Graph Analysis
@@ -69,7 +69,7 @@ modified: 20230101000000
 
 每个具有共引用次数大于 0 的笔记都会有一个下拉菜单。在每个下拉菜单中，您可以看到哪个笔记共引用了这两个笔记，并且它们共引用的句子（如果在同一句子中），否则只显示带有另一个链接的句子。
 
-![](https://cdn.pkmer.cn/covers/graph-analysis_1_0.png!pkmer)
+![](https://i.imgur.com/9yspOkN.png)
 
 每日笔记的示例用例
 
@@ -77,7 +77,7 @@ modified: 20230101000000
 
 > 我经常使用每日笔记，我在其中记录日志并写下当天的新闻。这使得反向链接面板有点无聊：它只显示我在哪些日期写过某个笔记。而共同引用算法则给我展示了更多！例如，`Joe Biden` 笔记告诉我，我通常会与 `Donald Trump` 一起写有关 Biden 的内容。但是，如果我想知道我写过关于 Joe Biden 和 `China` 之间关系的内容，我只需查看共同引用面板并展开关系，就可以看到整个故事！
 
-![](https://cdn.pkmer.cn/covers/graph-analysis_1_1.png!pkmer)
+![](https://i.imgur.com/udPkuV3.png)
 
 #### 视频教程
 
@@ -93,7 +93,7 @@ modified: 20230101000000
 
 **公式**：
 
-![image](https://cdn.pkmer.cn/covers/graph-analysis_1_3.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/139872572-93504295-6d29-4722-bdb1-3fbeb7bc22ec.png)
 
 [来源](https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/jaccard/#alpha-algorithms-similarity-jaccard-context)
 
@@ -110,7 +110,7 @@ modified: 20230101000000
 
 **公式**：
 
-![image](https://cdn.pkmer.cn/covers/graph-analysis_1_4.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/139873180-c870e072-843c-42a9-83fc-87205b408754.png)
 
 [来源](https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/adamic-adar/)
 
@@ -122,7 +122,7 @@ modified: 20230101000000
 
 **公式**：
 
-![image](https://cdn.pkmer.cn/covers/graph-analysis_1_5.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/139873406-d0542335-3b8c-4d08-8a5b-4510408ebd4e.png)
 
 [来源](https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/common-neighbors/)
 
@@ -146,7 +146,7 @@ modified: 20230101000000
 
 给出了节点 `u` 参与的三角形数量与其可能参与的三角形数量之比：
 
-![image](https://cdn.pkmer.cn/covers/graph-analysis_1_6.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/140610147-0a05201f-d9c7-4c0c-b423-6bbeeb81253b.png)
 
 ## 实用类
 
@@ -160,7 +160,7 @@ tr.analysis-linked {
 }
 ```
 
-![image](https://cdn.pkmer.cn/covers/graph-analysis_1_7.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/139862955-75284ff5-0ced-4548-bf6e-caa353a16fe0.png)
 
 您甚至可以完全隐藏链接的行：
 
@@ -176,7 +176,7 @@ tr.analysis-linked {
 
 还有隐藏 `无穷大` 和 `零` 值的选项。
 
-![image](https://cdn.pkmer.cn/covers/graph-analysis_1_8.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/138652879-d8b0e4a7-d70a-44e8-ba3c-67e04f6a8edd.png)
 
 ## 算法文档
 

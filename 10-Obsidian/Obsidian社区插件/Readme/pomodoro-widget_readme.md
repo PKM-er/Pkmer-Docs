@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219330007
 title: Obsidian 插件：【Readme】Pomodoro Widget
 tags: ['obsidian插件', 'readme']
 description: 提供了一个基于番茄钟的小部件。它被设计为触觉反馈，并具有持续的滴答声和可以切换的警报声。

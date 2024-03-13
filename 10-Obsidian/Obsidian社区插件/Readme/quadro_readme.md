@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219330710
 title: Obsidian 插件：【Readme】Quadro
 tags: ['obsidian插件', 'readme']
 description: 定性数据分析（QDA）适用于社会科学家。这是MAXQDA和atlas.ti的开放替代方案，使用Markdown来存储数据和研究代码。

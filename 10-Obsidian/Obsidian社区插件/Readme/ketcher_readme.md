@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322205842
 title: Obsidian 插件：Ketcher
 tags: ['obsidian插件', 'readme']
 description: 使用Ketcher查看或绘制化学结构和反应。

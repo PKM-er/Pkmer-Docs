@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】cMenu
+uid: 2023080322155925
+title: Obsidian 插件：cMenu
 tags: ['编辑工具', '效率', '界面相关', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加了一个悬浮的精简文本样式编辑工具栏，让你不用记忆各种mardown 命令，也能进行编辑。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】cMenu
+# Obsidian 插件：cMenu
 
 > [!Note] 插件名片
 > - 插件名称：cMenu
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 ![cMenu-Plugin发布版本](https://img.shields.io/github/v/release/chetachiezikeuzor/cMenu-Plugin)
 
-![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_2.png!pkmer)
+![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu%20Demo%20Header.png)
 
 ### 状态：此插件现在可以在 Obsidian 插件商店中使用
 
@@ -50,7 +50,7 @@ cMenu 是一个插件，它为更流畅的写作/编辑体验添加了一个简�
 
 ## 演示
 
-![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_3.gif)
+![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu.gif)
 
 使用便捷性
 
@@ -112,27 +112,27 @@ cMenu 是一个插件，它为更流畅的写作/编辑体验添加了一个简�
 
 正如您所看到的，cMenu 向 Obsidian 的命令库添加了四个新命令，并修改了 Obsidian 的十四个文本编辑命令。这些命令被添加到一个命令数组中，然后在生成 cMenu 模态框时读取。如果您想要删除和/或添加新的命令，可以在 cMenu 设置面板中进行操作。使用亮色按钮（您的强调颜色）将新命令添加到菜单中。使用灰色按钮将它们从菜单中删除。当您添加/删除新命令时，您将在控制台中看到一条消息，指示该命令的状态。在最新的更新 [1.1.2](https://github.com/chetachiezikeuzor/cMenu-Plugin/releases/tag/1.1.2) 中，每次添加或删除命令时，cMenu 都会重新加载。无需关闭当前笔记。
 
-![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_3.gif)
+![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu.gif)
 
 强烈建议与 cMenu 一起使用插件和。例如：我有一个生成国际象棋开局“阿列欣防御”的模板。使用 Hotkeys for Templates，我可以选择将此模板添加到 Obsidian 的命令库中。现在它在命令库中，我可以选择将此命令附加到 cMenu 中。这意味着您现在可以将几乎任何内容添加到 cMenu 中，这使其更加强大！
 
-![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_5.gif)
+![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/chesser%20cMenu.gif)
 
 cMenu 还有一些样式上的变化，也可以进行自定义。对于使用插件的用户，您现在可以将 cMenu 的附加方法更改为“body”。这样，cMenu 将不再附加到工作区域，而是附加到应用程序的主体。这是当前与存在的问题的一种解决方法，但我正在积极寻找更好的解决方案。
 
-![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_6.gif)
+![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu-sliding-panes.gif)
 
 使用 cMenu，您可以更改设计美学。玻璃拟态是一种相当流行的设计趋势，所以我想“为什么不将其添加到 cMenu 中呢？”您可以选择为 cMenu 使用“玻璃”样式，这使其具有独特的外观。
 
-![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_7.gif)
+![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/glass-cMenu.gif)
 
 ## cMenu 状态栏菜单
 
 通过新的 [1.1.0](https://github.com/chetachiezikeuzor/cMenu-Plugin/releases/tag/1.1.0) 更新，您可以控制 cMenu 的底部值，以及切换隐藏 cMenu 和添加/删除新的命令项。删除按钮将删除最近添加的命令。
 
-![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_8.gif)
+![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu%20status%20bar%20menu.gif)
 
-![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_9.png!pkmer)
+![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu.png)
 
 ## 安装
 
@@ -161,7 +161,7 @@ cMenu 还有一些样式上的变化，也可以进行自定义。对于使用�
 
 - cMenu 将附加到 `.mod-vertical.mod-root` 父级而不是 `body` 父级。
 - cMenu 的左定位是通过在菜单创建时动态查找宽度的函数设置的。
-  ![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_10.gif)
+  ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu-v020.gif)
 
 ### [0.3.0](https://github.com/chetachiezikeuzor/cMenu-Plugin/releases/tag/0.3.0) - 2021 年 8 月 2 日
 
@@ -174,14 +174,14 @@ cMenu 还有一些样式上的变化，也可以进行自定义。对于使用�
 ##### 修复
 
 - 修复了可切换附加方法设置的滑动窗格问题。
-  ![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_6.gif)
+  ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu-sliding-panes.gif)
 
 ##### 添加
 
 - 添加了新的玻璃效果设置。
-  ![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_7.gif)
+  ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/glass-cMenu.gif)
 - 添加了新的自定义命令设置。
-  ![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_5.gif)
+  ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/chesser%20cMenu.gif)
 
 ---
 
@@ -213,7 +213,7 @@ cMenu 还有一些样式上的变化，也可以进行自定义。对于使用�
 ##### 添加
 
 - 添加了新的状态栏菜单，用于额外的 cMenu 设置：隐藏/显示按钮，底部值更改
-  ![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_8.gif)
+  ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/cMenu%20status%20bar%20menu.gif)
 - 添加了修改后的文本编辑命令
   - 命令执行后将保持编辑器的焦点
 
@@ -225,9 +225,9 @@ cMenu 还有一些样式上的变化，也可以进行自定义。对于使用�
 - 添加了重新加载功能（按钮用于执行添加/删除后的执行）
 - 添加了自定义列设置
 - 添加了在设置中重新排序命令的功能
-  ![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_15.gif)
+  ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/reorder_commands.gif)
 - 添加了隐藏/显示 cMenu 的命令
-  ![](https://cdn.pkmer.cn/covers/cmenu-plugin_1_16.gif)
+  ![](https://raw.githubusercontent.com/chetachiezikeuzor/cMenu-Plugin/master/assets/hide_show_command.gif)
 - 添加了 [删除标签](https://github.com/chetachiezikeuzor/cMenu-Plugin/pull/23) 功能
 
 ---

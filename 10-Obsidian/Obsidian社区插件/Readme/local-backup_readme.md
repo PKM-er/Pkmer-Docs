@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611080430
 title: Obsidian 插件：【Readme】Local Backup
 tags: ['obsidian插件', 'readme']
 description: Obsidian 启动时自动创建保险库的备份。

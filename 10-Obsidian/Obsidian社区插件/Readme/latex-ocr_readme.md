@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117285846
 title: Obsidian 插件：【Readme】Latex OCR
 tags: ['obsidian插件', 'readme']
 description: 从您的保险库或剪贴板中生成LaTeX方程式。
@@ -66,7 +66,7 @@ modified: 20230101000000
 
 默认情况下，此插件使用 HuggingFace 推理 API。以下是如何获取您的 API 密钥：
 
-- 在<https://huggingface.co> 上创建帐户或登录>
+- 在<https://huggingface.co>上创建帐户或登录
 - 在 [Hugging Face个人资料设置](https://huggingface.co/settings/tokens) 中创建一个 `read` 访问令牌。如果您已经有其他访问令牌，我建议为此插件专门创建一个。
 - 在 Obsidian 中启用插件后，转到 Latex OCR 设置选项卡，并输入您生成的 API 密钥。
 

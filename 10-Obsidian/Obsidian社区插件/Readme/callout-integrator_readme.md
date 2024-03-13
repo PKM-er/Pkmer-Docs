@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322152920
 title: Obsidian 插件：Callout Integrator
 tags: ['obsidian插件', 'readme']
 description: 将长篇文字整合到引用框中

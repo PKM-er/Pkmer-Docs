@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121195727
 title: Obsidian 插件：【Readme】Multi State CheckBox Switcher
 tags: ['obsidian插件', 'readme']
 description: 点击处理多状态复选框。

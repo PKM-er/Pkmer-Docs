@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219315126
 title: Obsidian 插件：【Readme】Inline Admonitions
 tags: ['obsidian插件', 'readme']
 description: 内联标注使文本突出。

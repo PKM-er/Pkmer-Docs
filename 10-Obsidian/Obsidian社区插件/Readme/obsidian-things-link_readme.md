@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023080322281522
 title: Obsidian 插件：Things Link
 tags: ['obsidian插件', 'readme']
 description: 将 Obsidian 笔记与 Things 项目无缝链接。
@@ -34,7 +34,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-things-link]] 插件的自述翻译
 
-这个插件的支持分支可以在<https://github.com/danielh-official/obsidian-things-link-2> 找到。>
+这个插件的支持分支可以在<https://github.com/danielh-official/obsidian-things-link-2>找到。
 
 *目前该项目不再受支持。请随意进行分支操作：）*
 

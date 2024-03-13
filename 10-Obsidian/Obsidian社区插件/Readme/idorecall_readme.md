@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522253376
 title: Obsidian 插件：【Readme】iDoRecall
 tags: ['obsidian插件', 'readme']
 description: iDoRecall插件允许您从Obsidian笔记中创建回忆。

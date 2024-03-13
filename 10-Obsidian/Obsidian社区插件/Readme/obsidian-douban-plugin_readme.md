@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】Douban
+uid: 2023080322172555
+title: Obsidian 插件：Douban
 tags: ['效率', '第三方工具集成', '笔记文件处理', '信息收集', 'obsidian插件', 'readme']
 description: 在Obsidian使用并导入豆瓣中的 电影/书籍/音乐/电视剧/日记/游戏 甚至是 你标记过的书影音 , 包含你的评分/发布日期/演员表等信息.
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Douban
+# Obsidian 插件：Douban
 
 > [!Note] 插件名片
 > - 插件名称：Douban
@@ -58,13 +58,11 @@ modified: 20230101000000
 </p>
 
 在 [Obsidian](https://obsidian.md/) 使用并导入豆瓣中的 _电影/书籍/音乐/电视剧/日记/游戏_ 甚至是 _你标记过的书影音_ , 包含你的评分/发布日期/演员表等信息.
-
-![background](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_0.png!pkmer)
+![background](./doc/background.png)
 
 ---
 
 关于当前的插件如果有任何疑问, 缺少想要的导入内容或者想要什么功能, 欢迎提 issues 或加入到开发当中.
-
 如果觉得喜欢或对您有帮助，欢迎一键三连 - 点亮 ⭐Star
 
 - [异常, 问题 & 新的想法](https://github.com/Wanxp/obsidian-douban/issues)
@@ -92,26 +90,26 @@ modified: 20230101000000
 
 - Sync personal records of movies, books, games, and music
   Sync data from Douban (refer to [Using the Timeline Plugin to Build a Reading/Movie Timeline](./doc/Obsidian-Douban-TimeLine.md) for how to use the Timeline plugin to create a timeline)
-  ![Sync Data From Douban](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_1.gif)
+  ![Sync Data From Douban](doc/img/sync_data_from_douban.gif)
 
 ### 搜索
 
 - Search for data and create notes
-  ![search_and_create](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_2.gif)
+  ![search_and_create](doc/img/search_and_create_note.gif)
 - Search by current file name
-  ![Search Movie By File Name](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_3.gif)
+  ![Search Movie By File Name](doc/img/search_by_file_name.gif)
 
 - Search by input text
-  ![Search Movie By Input Text](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_4.gif)
+  ![Search Movie By Input Text](doc/img/search_by_input.gif)
 
 ## 设置
 
 - 设置案例 1(自定义模板)
-  ![设置案例1](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_5.gif)
+  ![设置案例1](doc/img/setting_zh.gif)
 
 
 - 设置案例 2(其它配置)
-  ![设置案例2](https://cdn.pkmer.cn/covers/obsidian-douban-plugin_2_6.gif)
+  ![设置案例2](doc/img/setting_en.gif)
 
 支持的字段
 

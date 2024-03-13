@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Theme Picker
+uid: 2023080322281350
+title: Obsidian 插件：Theme Picker
 tags: ['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 快速预览和选择已安装的主题
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Theme Picker
+# Obsidian 插件：Theme Picker
 
 > [!Note] 插件名片
 > - 插件名称：Theme Picker
@@ -44,4 +44,4 @@ modified: 20230101000000
 
 ## 使用方法
 
-![插件使用GIF](https://cdn.pkmer.cn/covers/theme-picker_1_0.gif)
+![插件使用GIF](https://raw.githubusercontent.com/kenset/obsidian-theme-picker/next/obsidian-theme-picker-usage.gif)

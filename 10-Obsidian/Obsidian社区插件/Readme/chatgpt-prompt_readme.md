@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219330462
 title: Obsidian 插件：【Readme】Prompt ChatGPT
 tags: ['obsidian插件', 'readme']
 description: 将模板提示发送给ChatGPT，当您打开一个文件时。

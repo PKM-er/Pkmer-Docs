@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611075910
 title: Obsidian 插件：【Readme】Header Enhancer
 tags: ['obsidian插件', 'readme']
 description: 升级您的标题，定制您的笔记。标题增强器使您的笔记标题更好、更有用。

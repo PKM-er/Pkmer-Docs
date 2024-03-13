@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121282938
 title: Obsidian 插件：【Readme】Tag Buddy
 tags: ['obsidian插件', 'readme']
 description: 在阅读模式下添加、编辑和删除标签。在阅读和编辑模式下复制、移动或编辑已标记的块。

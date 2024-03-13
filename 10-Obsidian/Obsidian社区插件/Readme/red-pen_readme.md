@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611082525
 title: Obsidian 插件：【Readme】Red Pen
 tags: ['obsidian插件', 'readme']
 description: 红笔作为你写作的校对者。

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219324459
 title: Obsidian 插件：【Readme】PDF break page
 tags: ['obsidian插件', 'readme']
 description: 为PDF导出添加快捷键和命令以插入分页格式。

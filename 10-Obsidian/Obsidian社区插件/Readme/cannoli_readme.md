@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611072723
 title: Obsidian 插件：【Readme】Cannoli
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian画布上创建和运行LLM脚本。
@@ -52,11 +52,11 @@ Cannoli 还可以用于制作具有自定义逻辑和功能的 llm-chatbot。具
 
 您可以在插件设置中访问一个包含示例 cannolis 的演示文件夹（完整文档网站即将推出）。
 
-![Cannoli College](https://cdn.pkmer.cn/covers/cannoli_2_0.png!pkmer)
+![Cannoli College](/assets/cannoliCollege.png)
 
 运行 Cannolis 有几种方式：
 
-![Icon](https://cdn.pkmer.cn/covers/cannoli_2_1.png!pkmer)
+![Icon](/assets/icon.png)
 
 - 点击 Cannoli 的功能区图标
     - 如果你在一个画布文件上，它将作为一个 cannoli 运行

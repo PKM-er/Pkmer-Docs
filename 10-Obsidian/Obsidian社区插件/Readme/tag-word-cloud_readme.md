@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Tag, Word & Link Cloud
+uid: 2023080322274875
+title: Obsidian 插件：Tag, Word & Link Cloud
 tags: ['obsidian插件', 'readme']
 description: 展示你的标签/词/链接的云图
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Tag, Word & Link Cloud
+# Obsidian 插件：Tag, Word & Link Cloud
 
 > [!Note] 插件名片
 > - 插件名称：Tag, Word & Link Cloud
@@ -54,7 +54,7 @@ modified: 20230101000000
 
 ## 标签云
 
-![](https://cdn.pkmer.cn/covers/tag-word-cloud_1_4.png!pkmer)
+![](https://i.joethei.space/9URSIqXbEs.png)
 
 显示符合您选择的所有标签。
 
@@ -117,7 +117,7 @@ query: '[[其他笔记]]'
 
 ## 词云
 
-![](https://cdn.pkmer.cn/covers/tag-word-cloud_1_5.png!pkmer)
+![](https://i.joethei.space/7WCqI74ca8.png)
 
 词云显示了您的保险库/笔记中的所有单词。
 
@@ -151,7 +151,7 @@ source: file
 
 ## 链接云
 
-![](https://cdn.pkmer.cn/covers/tag-word-cloud_1_6.png!pkmer)
+![](https://i.joethei.space/Obsidian_438TsZQC1w.png)
 
 链接云显示了您的存储库中的所有链接。
 

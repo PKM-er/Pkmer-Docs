@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522244257
 title: Obsidian 插件：【Readme】Datetime Language Changer
 tags: ['obsidian插件', 'readme']
 description: 通过更改moment.js的区域设置，自定义日期时间格式化所使用的语言。

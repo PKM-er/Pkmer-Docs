@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117270484
 title: Obsidian 插件：【Readme】Copy Image
 tags: ['obsidian插件', 'readme']
 description: 轻松通过右键单击图像将图像从Obsidian复制到剪贴板。

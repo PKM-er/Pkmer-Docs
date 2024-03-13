@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322270712
 title: Obsidian 插件：Smart Rename
 tags: ['obsidian插件', 'readme']
 description: 重命名笔记，保留现有链接中的先前标题

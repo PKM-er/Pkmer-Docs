@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611082913
 title: Obsidian 插件：【Readme】Share Note
 tags: ['obsidian插件', 'readme']
 description: 与他人公开分享带有完整样式的笔记。数据以加密形式存储在服务器上，只有您拥有密钥。
@@ -94,4 +94,4 @@ Obsidian 的免费、加密的公共笔记分享。笔记在发送到服务器�
 
 归属
 
-加密代码基于<https://github.com/mcndt/obsidian-quickshare> 上的代码，表示感谢。>
+加密代码基于<https://github.com/mcndt/obsidian-quickshare>上的代码，表示感谢。

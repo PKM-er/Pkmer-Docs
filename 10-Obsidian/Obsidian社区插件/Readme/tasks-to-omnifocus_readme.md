@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322263628
 title: Obsidian 插件：Send Tasks to OmniFocus
 tags: ['obsidian插件', 'readme']
 description: 从当前笔记中提取任务并在OmniFocus中创建它们。

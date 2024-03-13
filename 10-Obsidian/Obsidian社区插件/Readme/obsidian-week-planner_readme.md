@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322292823
 title: Obsidian 插件：Week Planner
 tags: ['obsidian插件', 'readme']
 description: 创建周计划文件。

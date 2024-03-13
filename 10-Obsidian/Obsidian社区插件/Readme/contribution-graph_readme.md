@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117270233
 title: Obsidian 插件：【Readme】Contribution Graph
 tags: ['obsidian插件', 'readme']
 description: 生成一个交互式热力图来可视化和跟踪您的生产力。
@@ -36,7 +36,7 @@ modified: 20230101000000
 
 【机翻】
 
-**中文** | [中文文档](https://mp.weixin.qq.com/s/wI8M_C87oZAtCBjFWC8CmA)
+**中文** |  [中文文档](https://mp.weixin.qq.com/s/wI8M_C87oZAtCBjFWC8CmA)
 
 ## 什么
 

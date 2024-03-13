@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Better CodeBlock
+uid: 2023080322145909
+title: Obsidian 插件：Better CodeBlock
 tags: ['obsidian插件', 'readme']
 description: 在阅读视图中为代码块添加标题、行号和折叠按钮
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Better CodeBlock
+# Obsidian 插件：Better CodeBlock
 
 > [!Note] 插件名片
 > - 插件名称：Better CodeBlock
@@ -24,8 +24,6 @@ modified: 20230101000000
 
 在阅读视图中为代码块添加标题、行号和折叠按钮
 
-![Better CodeBlock](https://cdn.pkmer.cn/covers/obsidian-better-codeblock.png!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/stargrey/obsidian-better-codeblock/main/README.md)
@@ -36,7 +34,7 @@ modified: 20230101000000
 
 下面是 [[obsidian-better-codeblock]] 插件的自述翻译
 
-这是一个为 Obsidian（<<https://obsidian.md>）开发的插件。>
+这是一个为 Obsidian（<https://obsidian.md>）开发的插件。
 
 该插件的大部分代码来自以下两个插件（感谢他们的贡献），图标来自 Admonition。
 
@@ -58,11 +56,11 @@ modified: 20230101000000
 
 如果您有更好的想法，请提交一个问题
 
-![image20220606011534.png](https://cdn.pkmer.cn/covers/obsidian-better-codeblock_2_0.png!pkmer)
+![image20220606011534.png](screenshots/image20220606011534.png)
 
 在 1.0.4 版本中，添加了右上角的语言显示，如下所示：
 
-![https://cdn.pkmer.cn/covers/obsidian-better-codeblock_2_1.png!pkmer](https://cdn.pkmer.cn/covers/obsidian-better-codeblock_2_1.png!pkmer)
+![screenshots/image-20220601202203.png](screenshots/image-20220601202203.png)
 
 ### 已知问题
 

@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117280053
 title: Obsidian 插件：【Readme】Gamificate your PKM
 tags: ['obsidian插件', 'readme']
 description: Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM.

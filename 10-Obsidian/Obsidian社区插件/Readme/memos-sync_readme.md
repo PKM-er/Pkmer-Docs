@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322222356
 title: Obsidian 插件：Memos Sync
 tags: ['obsidian插件', 'readme']
 description: 与您的备忘录保持同步。

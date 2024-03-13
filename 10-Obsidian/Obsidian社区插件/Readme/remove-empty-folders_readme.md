@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522265348
 title: Obsidian 插件：【Readme】Remove Empty Folders
 tags: ['obsidian插件', 'readme']
 description: 轻松删除空文件夹。
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 这是一个 Obsidian 插件，用于删除空文件夹。
 
-## 注意
+## 注意！
 
 **在运行此插件之前，请务必备份 Obsidian 数据！！**
 

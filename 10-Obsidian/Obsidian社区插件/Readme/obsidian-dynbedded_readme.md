@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322173602
 title: Obsidian 插件：Dynbedded
 tags: ['obsidian插件', 'readme']
 description: 动态嵌入为Obsidian.md

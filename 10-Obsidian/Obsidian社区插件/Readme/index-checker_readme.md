@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011355196
 title: Obsidian 插件：【Readme】Index Checker
 tags: ['obsidian插件', 'readme']
 description: 确保您的索引（MOC）文件包含所有应包含的链接。

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Vim Multibyte Char Search
+uid: 2023080322291930
+title: Obsidian 插件：Vim Multibyte Char Search
 tags: ['obsidian插件', 'readme']
 description: 按输入法对应的ASCII编码的第一个字符搜索多字节字符。例如，对于中文，可以按拼音的第一个拼音进行搜索。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Vim Multibyte Char Search
+# Obsidian 插件：Vim Multibyte Char Search
 
 > [!Note] 插件名片
 > - 插件名称：Vim Multibyte Char Search
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 按输入法对应的 ASCII 编码的第一个字符搜索多字节字符。例如，对于中文，可以按拼音的第一个拼音进行搜索。
 
-![Vim Multibyte Char Search](https://cdn.pkmer.cn/covers/obsidian-vim-multibyte-char-search.gif)
+![Vim Multibyte Char Search](https://cdn.pkmer.cn/covers/obsidian-vim-multibyte-char-search.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -76,7 +76,7 @@ nmap <Space>/ :search_multibytes
     - 然后再次按下 `n` 来使用新的正则表达式进行搜索。
 - 继续输入 "n" 或 "N" 来跳转到上一个或下一个匹配项，就像正常的 vim 搜索一样。
 
-![](https://cdn.pkmer.cn/covers/obsidian-vim-multibyte-char-search_2_0.gif).
+![](docs/images/Animation.gif).
 
 # 上线新语言
 

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219302548
 title: Obsidian 插件：【Readme】Copy as source
 tags: ['obsidian插件', 'readme']
 description: 选择并复制阅读视图中的源HTML。

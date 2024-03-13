@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322144615
 title: Obsidian 插件：Awesome Flashcard
 tags: ['obsidian插件', 'readme']
 description: 为Obsidian提供方便的Anki集成。

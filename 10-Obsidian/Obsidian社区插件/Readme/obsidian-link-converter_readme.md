@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322232905
 title: Obsidian 插件：Obsidian Link Converter
 tags: ['obsidian插件', 'readme']
 description: 扫描保险库中的所有链接，并将其转换为您所需的格式。

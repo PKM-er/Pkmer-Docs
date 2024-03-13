@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】Editor Syntax Highlight
+uid: 2023080322174161
+title: Obsidian 插件：Editor Syntax Highlight
 tags: ['编程', '美化', 'obsidian插件', 'readme']
 description: 为 Obsidian 的代码块，增强不同语言高亮显示方案。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Editor Syntax Highlight
+# Obsidian 插件：Editor Syntax Highlight
 
 > [!Note] 插件名片
 > - 插件名称：Editor Syntax Highlight
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，可以在编辑器中为代码块提供语法高亮功能。
 
-![截图](https://cdn.pkmer.cn/covers/cm-editor-syntax-highlight-obsidian_1_0.png!pkmer)
+![截图](https://github.com/deathau/cm-editor-syntax-highlight-obsidian/raw/main/screenshot.png)
 
 从 [CodeMirror](https://github.com/codemirror/CodeMirror/) 导入代码。
 
@@ -83,7 +83,6 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
-
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api) 以 Typescript 定义格式，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -97,7 +96,6 @@ modified: 20230101000000
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将该仓库克隆到您的插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
-
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 定价

@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522263556
 title: Obsidian 插件：【Readme】Permalink Opener
 tags: ['obsidian插件', 'readme']
 description: 根据笔记属性中的永久链接或短链接打开URL。与静态网站生成器（如Jekyll、Hugo、Eleventy等）一起使用非常有用。
@@ -44,4 +44,4 @@ modified: 20230101000000
 
 使用命令面板或热键打开当前页面。如果没有设置永久链接，则使用 kebab case 将标题转换为短链接。
 
-![Permalink Opener](https://cdn.pkmer.cn/covers/permalink-opener_2_0.png!pkmer)
+![Permalink Opener](images/screenshot.png)

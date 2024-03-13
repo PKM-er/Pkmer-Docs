@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023080322213596
 title: Obsidian 插件：Links
 tags: ['obsidian插件', 'readme']
 description: 操作链接
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 操作链接
 
-![Links](https://cdn.pkmer.cn/covers/links.gif)
+![Links](https://cdn.pkmer.cn/covers/links.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 链接 <!-- 在目录中省略 -->
 
-操作 Obsidian 中的链接（<<https://obsidian.md>）。>
+操作 Obsidian 中的链接（<https://obsidian.md>）。
 
 - [功能](#features)
   - [取消链接](#unlink)

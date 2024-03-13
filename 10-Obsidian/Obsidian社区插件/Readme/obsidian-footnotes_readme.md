@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Footnote Shortcut
+uid: 2023080322184598
+title: Obsidian 插件：Footnote Shortcut
 tags: ['编辑工具', '快捷键', '效率', 'obsidian插件', 'readme']
 description: 方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Footnote Shortcut
+# Obsidian 插件：Footnote Shortcut
 
 > [!Note] 插件名片
 > - 插件名称：Footnote Shortcut
@@ -49,7 +49,7 @@ modified: 20230101000000
 - 从脚注跳转到脚注详细信息
 - 从脚注详细信息返回到脚注
 
-![概览](https://cdn.pkmer.cn/covers/obsidian-footnotes_1_3.gif)
+![概览](https://user-images.githubusercontent.com/68677082/228686351-fe71a0ec-be56-4d70-93c1-01925dd6380f.gif)
 
 ## 重要提示：您必须设置脚注热键
 
@@ -62,7 +62,7 @@ modified: 20230101000000
 - <kbd>Alt</kbd>+<kbd>0</kbd> 作为我的自动编号脚注热键
 - <kbd>Alt</kbd>+<kbd>-</kbd> 作为我的命名脚注热键
 
-![热键](https://cdn.pkmer.cn/covers/obsidian-footnotes_1_4.png!pkmer)
+![热键](https://user-images.githubusercontent.com/68677082/228659877-8ea81271-37c4-4fdf-99de-1d4b6ca1c85f.png)
 
 ## 默认功能详细信息
 
@@ -144,7 +144,7 @@ Example sentence[^1] with two[^3] footnotes[^2] already.
 
 在添加新的命名脚注时，通过 EditorSuggest 弹出窗口提供现有脚注的建议。如果您想重复使用现有的脚注，您可以通过箭头键从建议中选择，以节省输入的时间。
 
-**在 Templater 中的自动建议演示** ![Suggest](https://cdn.pkmer.cn/covers/obsidian-footnotes_1_5.png!pkmer)
+**在 Templater 中的自动建议演示** ![Suggest](https://user-images.githubusercontent.com/68677082/228691255-f0d8b5ad-f98d-473a-8260-44919c117462.png)
 
 ### 自动重新索引编号的脚注
 

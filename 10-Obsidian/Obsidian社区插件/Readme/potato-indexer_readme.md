@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611082138
 title: Obsidian 插件：【Readme】Potato Indexer
 tags: ['obsidian插件', 'readme']
 description: 允许根据您的选择或整个文件生成内容索引。

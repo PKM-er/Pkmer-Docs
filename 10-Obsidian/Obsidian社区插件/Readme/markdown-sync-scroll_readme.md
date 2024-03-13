@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011355769
 title: Obsidian 插件：【Readme】Markdown Sync Scroll
 tags: ['obsidian插件', 'readme']
 description: 允许两个链接的Markdown视图同步滚动。

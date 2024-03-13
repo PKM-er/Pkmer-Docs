@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023120522260970
 title: Obsidian 插件：【Readme】Mochi Cards Pro
 tags: ['obsidian插件', 'readme']
 description: 使用Mochi的专业订阅提供的API，在Mochi.cards上创建闪卡。
@@ -73,7 +73,7 @@ $$\begin{array}{c} p \\ p \rightarrow q \\ \hline \therefore q \end{array}$$
 
 __要导出卡片，您必须突出显示要导出的卡片。__
 ## 演示
-![演示](https://cdn.pkmer.cn/covers/mochi-cards-pro_1_1.gif)
+![演示](https://img.hayden.gg/7dee8e8af29674e3a05273917223354f.gif)
 
 
 

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219315772
 title: Obsidian 插件：【Readme】MantouAI
 tags: ['obsidian插件', 'readme']
 description: 作为翻译、写作润色、一般问答、总结等个人助理工作，利用大型语言模型的力量。

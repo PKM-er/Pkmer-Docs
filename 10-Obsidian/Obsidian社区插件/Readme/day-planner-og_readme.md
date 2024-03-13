@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2023102611074046
 title: Obsidian 插件：【Readme】Day Planner (OG)
 tags: ['obsidian插件', 'readme']
 description: 从Markdown笔记中的简单任务列表进行日程规划（基本功能，保留原始插件的特性和行为）
@@ -60,7 +60,7 @@ Day Planner 插件通过 Markdown 笔记中的任务列表管理番茄钟。
 - 状态栏会更新进度，并提供有关当前和下一个任务的信息。您可以点击状态栏访问今天日程安排的笔记。
 - 时间线视图以垂直时间线展示您的任务。
 
-![日程安排演示图片](https://cdn.pkmer.cn/covers/day-planner-og_1_0.png!pkmer)
+![日程安排演示图片](https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/images/day-planner-note-preview.png)
 
 ## 用法
 
@@ -121,6 +121,8 @@ Day Planner 的标题和 `---` 规则用于标识 Day Planner 的范围。必须
 
  `- [ ] HH:mm 任务文本`
 
+
+
  **应使用 24 小时制。**
 
 现在还支持嵌套的检查列表项或项目，以捕捉定时任务的子任务。定时任务必须位于复选框列表的顶层。
@@ -176,7 +178,7 @@ Day Planner 的标题和 `---` 规则用于标识 Day Planner 的范围。必须
 
 可以使用“显示日程安排时间线”命令，添加一个垂直时间线视图，显示今天日程安排的任务，并显示当前时间的线条。
 
-![日程安排时间线](https://cdn.pkmer.cn/covers/day-planner-og_1_1.png!pkmer)
+![日程安排时间线](https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/images/day-planner-timeline.png)
 ### 状态栏
 
 Obsidian中的状态栏还会显示当前任务或休息的进度以及剩余时间。点击状态栏项目将带您进入Day Planner笔记。
@@ -184,17 +186,17 @@ Obsidian中的状态栏还会显示当前任务或休息的进度以及剩余时
 
 当有一个活动任务时显示的状态：
 
-![任务状态](https://cdn.pkmer.cn/covers/day-planner-og_1_2.png!pkmer)
+![任务状态](https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/images/task-status.png)
 #### 休息状态
 
 休息期间显示的状态：
 
-![休息状态](https://cdn.pkmer.cn/covers/day-planner-og_1_3.png!pkmer)
+![休息状态](https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/images/break-status.png)
 #### 结束状态
 
 当任务结束时显示的状态：
 
-![结束状态](https://cdn.pkmer.cn/covers/day-planner-og_1_4.png!pkmer)
+![结束状态](https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/images/end-status.png)
 ## 配置
 ### 日程规划模式
 
@@ -222,12 +224,12 @@ Day Planner插件有两种使用模式：
 
 您可以选择在状态栏中显示进度，使用圆形饼状图进度条来节省水平空间。
 
-![圆形进度条](https://cdn.pkmer.cn/covers/day-planner-og_1_5.png!pkmer)
+![圆形进度条](https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/images/circular-progress.png)
 ### 状态栏 - 现在和下一个
 
 您可以选择显示当前任务和下一个任务的时间和开始文本。
 
-![现在和下一个](https://cdn.pkmer.cn/covers/day-planner-og_1_6.png!pkmer)
+![现在和下一个](https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/images/now-and-next.png)
 ### 任务通知
 
 您可以选择在新任务开始时显示应用内通知。
@@ -238,7 +240,7 @@ Day Planner插件有两种使用模式：
 
 在命令模式下，有两个命令可用于链接和取消链接日程计划。
 
-![插件命令](https://cdn.pkmer.cn/covers/day-planner-og_1_7.png!pkmer)
+![插件命令](https://raw.githubusercontent.com/ebullient/obsidian-day-planner-og/main/images/commands.png)
 安装
 
 即将推出：此版本的插件尚未列为社区插件。

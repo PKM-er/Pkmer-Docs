@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2023082011353122
 title: Obsidian 插件：【Readme】AI Tools
 tags: ['obsidian插件', 'readme']
 description: 将强大的语义搜索、生成式答案和其他人工智能工具添加到Obsidian，使用Supabase + OpenAI。
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将强大的语义搜索、生成式答案和其他人工智能工具添加到 Obsidian，使用 Supabase + OpenAI。
 
-![AI Tools](https://cdn.pkmer.cn/covers/ai-tools_new.gif)
+![AI Tools](https://cdn.pkmer.cn/covers/ai-tools_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -63,7 +63,7 @@ modified: 20230101000000
 
 ## 演示
 
-![](https://cdn.pkmer.cn/covers/ai-tools_2_0.gif)
+![](demo.gif)
 
 ## 安装
 
@@ -99,10 +99,6 @@ _使用 Supabase CLI_
    ```bash
    supabase link --project-ref <project-id>
    # 你可以从项目的仪表盘 URL 中获取 <project-id>：https://supabase.com/dashboard/project/<project-id>
-
-
-
-
 
 5. 部署数据库
 

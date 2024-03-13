@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322223339
 title: Obsidian 插件：Micro.publish
 tags: ['obsidian插件', 'readme']
 description: 发布笔记到Micro.blog。

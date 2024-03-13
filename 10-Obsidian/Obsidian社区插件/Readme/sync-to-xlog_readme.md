@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522271299
 title: Obsidian 插件：【Readme】sync-to-xlog
 tags: ['obsidian插件', 'readme']
 description: 将笔记推送到xlog.app的方法。简单快捷灵活。
@@ -42,11 +42,11 @@ modified: 20230101000000
 
 上传弹窗
 
-![](https://cdn.pkmer.cn/covers/sync-to-xlog_2_0.png!pkmer)
+![](./assets/Snipaste_2023-10-16_23-17-44.png)
 
 设置截图
 
-![](https://cdn.pkmer.cn/covers/sync-to-xlog_2_1.png!pkmer)
+![](./assets/Snipaste_2023-10-17_11-36-19.png)
 
 ## Installation
 
@@ -66,7 +66,7 @@ Click on Add Beta plugin
 
 A popup will appear, enter this URL
 
-![](https://cdn.pkmer.cn/covers/sync-to-xlog_2_2.png!pkmer)
+![](./assets/20231019_224319.png)
 
 ```text
 https://github.com/Otto-J/sync-to-xlog
@@ -84,7 +84,7 @@ Visit <https://github.com/Otto-J/sync-to-xlog/releases> to download the latest d
 
 Go to Settings - Third-party Plugins - Installed Plugins, and on the right side of the plugin, there is a folder icon. Unzip the folder and place it there.
 
-![](https://cdn.pkmer.cn/covers/sync-to-xlog_2_3.png!pkmer)
+![](./assets/20231019_114353.png)
 
 ## 使用教程
 

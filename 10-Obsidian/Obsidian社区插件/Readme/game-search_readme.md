@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322190228
 title: Obsidian 插件：Game Search
 tags: ['obsidian插件', 'readme']
 description: 帮助将游戏元数据插入游戏笔记或日志中

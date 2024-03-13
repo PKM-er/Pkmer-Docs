@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322182155
 title: Obsidian 插件：Filename Emoji Remover
 tags: ['界面相关', '笔记文件处理', 'obsidian插件', 'readme']
 description: 可以自动将笔记文件名中的表情符号删除。

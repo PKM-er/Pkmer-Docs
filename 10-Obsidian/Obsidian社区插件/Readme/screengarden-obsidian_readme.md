@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611082688
 title: Obsidian 插件：【Readme】screen.garden
 tags: ['obsidian插件', 'readme']
 description: 一个用于个人知识管理的实时协作、发布和网络编辑服务。

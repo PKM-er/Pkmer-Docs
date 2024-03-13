@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322253180
 title: Obsidian 插件：Raindrop Highlights
 tags: ['obsidian插件', 'readme']
 description: 同步你的Raindrop.io重点内容。

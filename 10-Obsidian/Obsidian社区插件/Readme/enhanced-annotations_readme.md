@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219310216
 title: Obsidian 插件：【Readme】Enhanced Annotations
 tags: ['obsidian插件', 'readme']
 description: 为评论和高亮添加侧边栏视图。

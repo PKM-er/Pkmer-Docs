@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Icon Folder
+uid: 2023080322200421
+title: Obsidian 插件：Icon Folder
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 此插件允许您向文件夹添加图标。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Icon Folder
+# Obsidian 插件：Icon Folder
 
 > [!Note] 插件名片
 > - 插件名称：Icon Folder
@@ -28,7 +28,7 @@ modified: 20230101000000
 
 > [!tip] 原文出处
 >
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/FlorianWoelki/obsidian-iconize/main/README.md)
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/FlorianWoelki/obsidian-icon-folder/main/README.md)
 
 ---
 
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 图标文件夹
 
-![预览图片](https://cdn.pkmer.cn/covers/obsidian-icon-folder_1_0.png!pkmer)
+![预览图片](https://raw.githubusercontent.com/FlorianWoelki/obsidian-icon-folder/main/docs/preview-image.png)
 
 这个黑曜石插件允许您将**任何**自定义图标（类型为 `.svg`）或来自图标包的图标添加到您的文件夹或文件中。
 
@@ -48,7 +48,7 @@ modified: 20230101000000
 
 首先，您需要进入设置并下载预定义的图标包或创建自己的图标包。
 
-![图标包预览](https://cdn.pkmer.cn/covers/obsidian-icon-folder_1_1.png!pkmer)
+![图标包预览](https://raw.githubusercontent.com/FlorianWoelki/obsidian-icon-folder/main/docs/icon-pack-preview.png)
 
 目前，默认支持并可以立即下载以下图标包：
 

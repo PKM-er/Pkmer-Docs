@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117263880
 title: Obsidian 插件：【Readme】Better Export PDF
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记导出为PDF，支持导出预览，添加书签大纲和页眉/页脚。

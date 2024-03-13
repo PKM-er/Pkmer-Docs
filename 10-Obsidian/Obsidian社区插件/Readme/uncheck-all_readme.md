@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611084623
 title: Obsidian 插件：【Readme】Uncheck All
 tags: ['obsidian插件', 'readme']
 description: 使用一个命令取消当前笔记中的所有复选框的选中状态。

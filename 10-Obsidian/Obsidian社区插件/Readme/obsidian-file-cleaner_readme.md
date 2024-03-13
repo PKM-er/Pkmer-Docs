@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322180994
 title: Obsidian 插件：File Cleaner
 tags: ['obsidian插件', 'readme']
 description: 帮助您清理拱顶中的空文件和未使用的附件。
@@ -36,7 +36,7 @@ modified: 20230101000000
 
 ## 文件清理器
 
-这是一个用于 Obsidian（<<https://obsidian.md>）的插件。>
+这是一个用于 Obsidian（<https://obsidian.md>）的插件。
 
 它可以帮助您清理 Obsidian 保险库中的空文件和未使用的附件。
 

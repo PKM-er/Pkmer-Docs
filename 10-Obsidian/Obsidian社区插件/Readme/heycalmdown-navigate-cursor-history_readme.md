@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322224937
 title: Obsidian 插件：Navigate Cursor History
 tags: ['obsidian插件', 'readme']
 description: 这个插件记住最近光标位置的历史记录，并允许您像VSCode一样来回跳转。

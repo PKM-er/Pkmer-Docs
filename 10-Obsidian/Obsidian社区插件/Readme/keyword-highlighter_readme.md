@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522254923
 title: Obsidian 插件：【Readme】Keyword Highlighter
 tags: ['obsidian插件', 'readme']
 description: 自动突出显示指定的关键词，以增强您的Obsidian笔记的可见性和快速参考。
@@ -38,13 +38,13 @@ modified: 20230101000000
 
 ## 概述
 
-![显示插件效果的图片。](https://cdn.pkmer.cn/covers/keyword-highlighter_2_0.png!pkmer)
+![显示插件效果的图片。](assets/overview.png)
 
 Obsidian 关键词高亮插件是为 Obsidian 用户设计的一款强大插件，旨在提升他们的笔记记录体验。该插件允许您在笔记中高亮特定的关键词，使得查找和组织重要信息更加容易。它非常适合研究人员、学生和专业人士，他们需要处理大量文本并且需要快速识别关键概念的方法。
 
 ## 工作原理
 
-![使用此插件的图片。](https://cdn.pkmer.cn/covers/keyword-highlighter_2_1.png!pkmer)
+![使用此插件的图片。](assets/usage.png)
 
 使用关键字高亮功能，需要在关键字后面加上冒号 `:`。有三个预定义的关键字：_TODO_、_ADD_、_FIXME_。例如，要高亮一个新的待办事项，只需简单地写下 `TODO: 准备一杯☕`。
 

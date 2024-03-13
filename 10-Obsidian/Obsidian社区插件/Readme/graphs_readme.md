@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219313136
 title: Obsidian 插件：【Readme】Graphs
 tags: ['obsidian插件', 'readme']
 description: 通过编写YAML来创建交互式图表

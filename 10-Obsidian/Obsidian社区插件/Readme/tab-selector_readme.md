@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219332791
 title: Obsidian 插件：【Readme】Tab Selector
 tags: ['obsidian插件', 'readme']
 description: 在键盘的主位上不离开的情况下，通过大约两个动作切换到所需的选项卡。

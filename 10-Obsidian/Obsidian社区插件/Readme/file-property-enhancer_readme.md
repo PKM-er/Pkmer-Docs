@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611074994
 title: Obsidian 插件：【Readme】File Property Enhancer
 tags: ['obsidian插件', 'readme']
 description: 为文件属性添加图标，并自定义文件属性的显示。

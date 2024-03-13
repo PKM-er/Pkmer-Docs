@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】macOS Keyboard Navigation
+uid: 2023080322215158
+title: Obsidian 插件：macOS Keyboard Navigation
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 这个插件恢复 macOS 默认键盘导航效果，特别是alt+和alt+，和alt+shift+和alt+shift+
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】macOS Keyboard Navigation
+# Obsidian 插件：macOS Keyboard Navigation
 
 > [!Note] 插件名片
 > - 插件名称：macOS Keyboard Navigation
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 该插件恢复了在 Obsidian 中使用默认的 macOS 键盘导航方式，具体包括<kbd>alt</kbd>+<kbd>↑</kbd>、<kbd>alt</kbd>+<kbd>↓</kbd>，以及<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>↑</kbd>、<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>↓</kbd>。
 
-![快速演示](https://cdn.pkmer.cn/covers/macOS-keyboard-nav-obsidian_1_0.gif)
+![快速演示](https://i.imgur.com/x2V6Kvw.gif)
 
 ### 手动安装插件
 

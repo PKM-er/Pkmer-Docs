@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522244863
 title: Obsidian 插件：【Readme】Edit MDX
 tags: ['obsidian插件', 'readme']
 description: 允许用户编辑和创建 .mdx 文件。

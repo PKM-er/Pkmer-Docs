@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Filename Heading Sync
+uid: 2023080322182236
+title: Obsidian 插件：Filename Heading Sync
 tags: ['模板', 'obsidian插件', 'readme']
 description: 黑曜石插件，用于保持文件名与文件的第一个标题同步
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Filename Heading Sync
+# Obsidian 插件：Filename Heading Sync
 
 > [!Note] 插件名片
 > - 插件名称：Filename Heading Sync
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 黑曜石插件，用于保持文件名与文件的第一个标题同步
 
-![Filename Heading Sync](https://cdn.pkmer.cn/covers/obsidian-filename-heading-sync.gif)
+![Filename Heading Sync](https://cdn.pkmer.cn/covers/obsidian-filename-heading-sync.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这是一个 Obsidian 插件，用于保持文件名和文件的第一个标题同步。
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-filename-heading-sync_2_0.gif)
+![演示](./demo.gif)
 
 **注意**：该插件会在打开文件时立即覆盖文件顶部的第一个标题，因此可以被视为 _ 破坏性操作 _。
 

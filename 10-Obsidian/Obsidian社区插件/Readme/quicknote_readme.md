@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611082450
 title: Obsidian 插件：【Readme】Quick note
 tags: ['obsidian插件', 'readme']
 description: 在浮动窗口中创建一个快速笔记（通过命令或右键单击Obsidian应用程序图标）

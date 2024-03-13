@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322195644
 title: Obsidian 插件：Hover External Link
 tags: ['界面相关', '链接处理', 'obsidian插件', 'readme']
 description: 将鼠标悬停在外部链接上以查看目标URL。

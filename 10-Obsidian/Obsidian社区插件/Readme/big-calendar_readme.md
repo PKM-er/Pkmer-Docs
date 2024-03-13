@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322151027
 title: Obsidian 插件：Big Calendar
 tags: ['日期相关', '任务管理', '美化', '导航工具', 'obsidian插件', 'readme']
 description: Obsidian 的大尺寸日历功能。您的日常笔记或任务中的所有事件都使用了任务/数据视图/看板视图。

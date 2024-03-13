@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Wordy
+uid: 2023080322294322
+title: Obsidian 插件：Wordy
 tags: ['obsidian插件', 'readme']
 description: 使用 Datamuse API 查找同义词、押韵词等等。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Wordy
+# Obsidian 插件：Wordy
 
 > [!Note] 插件名片
 > - 插件名称：Wordy
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用 Datamuse API 查找同义词、押韵词等等。
 
-![Wordy](https://cdn.pkmer.cn/covers/obsidian-wordy.gif)
+![Wordy](https://cdn.pkmer.cn/covers/obsidian-wordy.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 # 演示
 
-![](https://cdn.pkmer.cn/covers/obsidian-wordy_2_0.gif)
+![](demo.gif)
 
 # 用法
 

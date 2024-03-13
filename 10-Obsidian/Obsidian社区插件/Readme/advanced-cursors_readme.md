@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Advanced Cursors
+uid: 2023080322134326
+title: Obsidian 插件：Advanced Cursors
 tags: ['obsidian插件', 'readme']
 description: 更强大地使用多个光标。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Advanced Cursors
+# Obsidian 插件：Advanced Cursors
 
 > [!Note] 插件名片
 > - 插件名称：Advanced Cursors
@@ -48,7 +48,7 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [
 
 该命令将当前选中的文本（如果没有选中任何内容，则选择光标下的单词）并将光标移动到该相同文本的下一个实例。
 
-![](https://cdn.pkmer.cn/covers/advanced-cursors_2_0.gif)
+![](Assets/cursors-readme1.gif)
 
 如果找不到下一个实例，则会循环回到笔记的开头。
 
@@ -60,7 +60,7 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [
 
 这与在 VS Code 中使用 `Ctrl + d` 执行的操作相同。
 
-![](https://cdn.pkmer.cn/covers/advanced-cursors_2_1.gif)
+![](Assets/cursors-readme2.gif)
 
 ### 移动到当前选择的上一个实例
 
@@ -82,7 +82,7 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [
 
 “start”和“inc”都可以是任意实数。结果数字将四舍五入为 4 位小数。
 
-![](https://cdn.pkmer.cn/covers/advanced-cursors_2_2.gif)
+![](Assets/AC-IncrementingI.gif)
 
 ### 打开正则表达式匹配模态框
 
@@ -90,13 +90,13 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [
 
 打开模态框后，您将看到一个文本输入框、一个提交按钮和一个切换“正则表达式”的选项。
 
-![image](https://cdn.pkmer.cn/covers/advanced-cursors_1_0.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/138410766-7c3b2843-5761-4c57-a09f-e0edceb4cc41.png)
 
 在输入框中输入搜索查询，并且高级光标将在当前文档中与查询匹配的每个位置放置一个光标。
 
 切换“正则表达式？”以将查询视为正则表达式或字符串字面值。
 
-![](https://cdn.pkmer.cn/covers/advanced-cursors_2_3.gif)
+![](Assets/cursors2.gif)
 
 您现在还可以使用 [保存的查询](https://github.com/SkepticMystic/advanced-cursors/blob/master/README.md#saved-queries) 快速运行查询。
 
@@ -112,21 +112,21 @@ Advanced Cursors 在 Obsidian 中添加了新的命令，让您更好地利用 [
    - “g”标志会自动添加，但如果您自己添加它也不会出错。
 4. 一个切换按钮，用于指示“查询”应该被解释为正则表达式还是文字字符串。
 
-![image](https://cdn.pkmer.cn/covers/advanced-cursors_1_1.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/138410689-e0846afa-3f9e-4bcd-9fa0-27679416a2e1.png)
 
 ### 运行保存的查询
 
 在添加查询后，它将出现在设置中的保存查询列表中：
 
-![image](https://cdn.pkmer.cn/covers/advanced-cursors_1_2.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/138498450-03d966e6-4f90-4165-944f-64a1e8380610.png)
 
 在匹配模态中（只需点击查询即可运行）：
 
-![image](https://cdn.pkmer.cn/covers/advanced-cursors_1_3.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/138410277-b3b0ebb0-15f0-45a2-ac1e-54578bc68c9b.png)
 
 以及在命令面板中：
 
-![image](https://cdn.pkmer.cn/covers/advanced-cursors_1_4.png!pkmer)
+![image](https://user-images.githubusercontent.com/70717676/138410368-bc063007-f3a6-4c4c-b7a4-2f24ebcd3748.png)
 
 查询示例
 

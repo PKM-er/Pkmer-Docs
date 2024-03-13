@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219301099
 title: Obsidian 插件：【Readme】Color cycler
 tags: ['obsidian插件', 'readme']
 description: 动态更改主题的强调颜色。

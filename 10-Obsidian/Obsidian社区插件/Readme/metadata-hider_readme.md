@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121195265
 title: Obsidian 插件：【Readme】Metadata Hider
 tags: ['obsidian插件', 'readme']
 description: 隐藏特定的元数据属性或者其值为空。

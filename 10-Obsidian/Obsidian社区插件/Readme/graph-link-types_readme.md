@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219312921
 title: Obsidian 插件：【Readme】Graph Link Types
 tags: ['obsidian插件', 'readme']
 description: Link types for graph view.

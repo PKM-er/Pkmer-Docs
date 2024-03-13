@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Home tab
+uid: 2023080322194824
+title: Obsidian 插件：Home tab
 tags: ['obsidian插件', 'readme']
 description: 一个类似浏览器的搜索标签，用于搜索您的本地文件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Home tab
+# Obsidian 插件：Home tab
 
 > [!Note] 插件名片
 > - 插件名称：Home tab
@@ -40,7 +40,7 @@ Obsidian Home tab 是一个 [Obsidian](https://obsidian.md/) 插件，它添加�
 
 您可以搜索您的 vault 中的任何本地文件，包括 markdown 笔记和附件。
 
-![](https://cdn.pkmer.cn/covers/home-tab_2_0.png!pkmer)
+![](images/home-tab.png)
 
 该插件并不意味着取代默认的快速切换器或任何其他替代品，比如 [Another quick switcher](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)（我从中获得了灵感），而是在打开新标签后更快地打开笔记或文件的方式。
 
@@ -56,7 +56,7 @@ Obsidian Home tab 是一个 [Obsidian](https://obsidian.md/) 插件，它添加�
 
 您可以通过输入筛选器关键字（参见下表）并按下 Tab 键来激活筛选器。要删除筛选器，请按下退格键。
 
-![](https://cdn.pkmer.cn/covers/home-tab_2_1.png!pkmer)
+![](images/search_filters.png)
 
 #### 过滤器键
 
@@ -70,7 +70,7 @@ Obsidian Home tab 是一个 [Obsidian](https://obsidian.md/) 插件，它添加�
 | `audio` | `mp3`，`wav`，`m4a`，`ogg`，`3gp`，`flac` |
 | `pdf` | `pdf` |
 
-![](https://cdn.pkmer.cn/covers/home-tab_2_2.gif)
+![](images/filters_gif.gif)
 
 ### 嵌入式搜索栏
 
@@ -91,7 +91,7 @@ show starred files
 ```
 ````
 
-![](https://cdn.pkmer.cn/covers/home-tab_2_3.png!pkmer)
+![](images/embedded_searchbar.png)
 
 ### 星标文件
 
@@ -99,11 +99,11 @@ show starred files
 
 通过悬停在右上角，您可以取消星标文件或更改显示的图标。
 
-![](https://cdn.pkmer.cn/covers/home-tab_2_4.png!pkmer)
+![](images/starred_files-options.png)
 
 ## 设置
 
-![](https://cdn.pkmer.cn/covers/home-tab_2_5.png!pkmer)
+![](images/settings-tab.png)
 
 ---
 

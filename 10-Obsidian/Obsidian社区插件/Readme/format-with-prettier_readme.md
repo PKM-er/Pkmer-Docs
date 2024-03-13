@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219311774
 title: Obsidian 插件：【Readme】Format with Prettier
 tags: ['obsidian插件', 'readme']
 description: 使用Prettier在您的保险库中格式化文件。

@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121251392
 title: Obsidian 插件：【Readme】Smart Title
 tags: ['obsidian插件', 'readme']
 description: 自动从标题中提取标签和别名。

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322253698
 title: Obsidian 插件：Read Later
 tags: ['obsidian插件', 'readme']
 description: 将网页同步到Markdown，并与阅读稍后应用（Pocket，Instapaper）集成。
@@ -39,7 +39,7 @@ modified: 20230101000000
 用于保存和跟踪网页的离线版本的插件
 
 - 将网页下载为 Markdown 格式
-- 与“Pocket”（<<https://getpocket.com>）和>“Instapaper”（<<https://www.instapaper.com>）等稍后阅读服务集成>
+- 与“Pocket”（<https://getpocket.com>）和“Instapaper”（<https://www.instapaper.com>）等稍后阅读服务集成
 - 将笔记映射到网页并保持同步
 
 下载或更新一个页面到 markdown

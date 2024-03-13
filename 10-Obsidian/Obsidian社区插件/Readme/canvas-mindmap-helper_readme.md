@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219300189
 title: Obsidian 插件：【Readme】Canvas Mindmap Helper
 tags: ['obsidian插件', 'readme']
 description: 让画布像思维导图一样工作。

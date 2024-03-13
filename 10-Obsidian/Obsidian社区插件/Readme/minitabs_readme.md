@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121195495
 title: Obsidian 插件：【Readme】Minitabs
 tags: ['obsidian插件', 'readme']
 description: 通过代码块自定义一组嵌套标签页。

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Janitor
+uid: 2023080322204410
+title: Obsidian 插件：Janitor
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian Vault上执行清理任务
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Janitor
+# Obsidian 插件：Janitor
 
 > [!Note] 插件名片
 > - 插件名称：Janitor
@@ -74,4 +74,4 @@ Janitor 可以设置在启动时运行。如果设置了“询问确认”，它
 
 Janitor 扫描还可以通过功能区按钮或命令启动。
 
-![扫描结果对话框](https://cdn.pkmer.cn/covers/janitor_2_0.png!pkmer)
+![扫描结果对话框](media/dialog.png)

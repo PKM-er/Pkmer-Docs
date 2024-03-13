@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Confluence Integration
+uid: 2023080322162414
+title: Obsidian 插件：Confluence Integration
 tags: ['obsidian插件', 'readme']
 description: 将Obsidian中的Markdown内容发布到Atlassian Confluence。它支持一些Obsidian的Markdown扩展，以实现更丰富的内容。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Confluence Integration
+# Obsidian 插件：Confluence Integration
 
 > [!Note] 插件名片
 > - 插件名称：Confluence Integration
@@ -55,7 +55,7 @@ modified: 20230101000000
 
 问题
 
-请将问题记录到<<https://github.com/markdown-confluence/markdown-confluence/issues>，因为这是代码正在开发的地方。>
+请将问题记录到<https://github.com/markdown-confluence/markdown-confluence/issues>，因为这是代码正在开发的地方。
 
 ## 入门指南
 
@@ -68,7 +68,7 @@ modified: 20230101000000
 - `Atlassian API令牌`：您的 Atlassian API 令牌。您可以从 [Atlassian帐户设置](https://id.atlassian.com/manage-profile/security/api-tokens) 中生成一个。
 - `要发布的文件夹`：Obsidian 中包含您要发布的笔记的文件夹的名称（默认为“Confluence Pages”）
 
-![设置](https://cdn.pkmer.cn/covers/confluence-integration_2_0.png!pkmer)
+![设置](./docs/screenshots/settings.png)
 
 使用方法
 
@@ -76,13 +76,13 @@ modified: 20230101000000
 
 单击 Ribbon 中的云图标，将配置文件夹中的笔记发布到 Confluence。
 
-![Ribbon图标](https://cdn.pkmer.cn/covers/confluence-integration_2_1.png!pkmer)
+![Ribbon图标](./docs/screenshots/ribbon.png)
 
 ### 命令
 
 使用命令面板（`Ctrl/Cmd + P`）执行“发布所有到 Confluence”命令，将配置文件夹中的所有笔记发布到 Confluence。
 
-![命令](https://cdn.pkmer.cn/covers/confluence-integration_2_2.png!pkmer)
+![命令](./docs/screenshots/commands.png)
 
 ### connie-publish 前置元数据
 

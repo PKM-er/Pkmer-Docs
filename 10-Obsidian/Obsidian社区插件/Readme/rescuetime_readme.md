@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522265512
 title: Obsidian 插件：【Readme】RescueTime
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中查看您的RescueTime数据。
@@ -47,7 +47,6 @@ modified: 20230101000000
 
 - 在您的设备上拥有 RescueTime 账户和应用程序 [在此安装](https://www.rescuetime.com/get_rescuetime)
 - Obsidian 桌面客户端 > v 0.13.0 [在此安装](https://obsidian.md/)
-
 > [!NOTE]
 > 此插件仅与 Obsidian 桌面客户端兼容，不支持移动设备。
 

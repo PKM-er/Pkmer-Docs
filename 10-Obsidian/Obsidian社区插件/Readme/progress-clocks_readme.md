@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219330262
 title: Obsidian 插件：【Readme】Progress Clocks
 tags: ['obsidian插件', 'readme']
 description: Progress clocks and other useful widgets for real-time status tracking.

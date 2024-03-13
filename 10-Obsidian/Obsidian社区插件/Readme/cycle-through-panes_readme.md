@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Cycle through Panes
+uid: 2023080322165778
+title: Obsidian 插件：Cycle through Panes
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 使用`ctrl + Tab`循环浏览你打开的窗格，就像在浏览器中浏览标签页一样！官方已经支持此功能
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Cycle through Panes
+# Obsidian 插件：Cycle through Panes
 
 > [!Note] 插件名片
 > - 插件名称：Cycle through Panes
@@ -24,11 +24,11 @@ modified: 20230101000000
 
 使用 `ctrl + Tab` 循环浏览你打开的窗格，就像在浏览器中浏览标签页一样！官方已经支持此功能
 
-![Cycle through Panes](https://cdn.pkmer.cn/covers/cycle-through-panes_new.gif)
+![Cycle through Panes](https://cdn.pkmer.cn/covers/cycle-through-panes_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vinzent03/tab-switcher/main/README.md)
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/cycle-through-panes/master/README.md)
 
 ---
 
@@ -57,7 +57,7 @@ __此插件使用了 [Vinzent](https://github.com/Vinzent03) 的代码__
 
 ## 第二种模式的展示
 
-![展示](https://cdn.pkmer.cn/covers/cycle-through-panes_1_3.gif)
+![展示](https://raw.githubusercontent.com/phibr0/cycle-through-panes/master/showcase.gif)
 
 ### 重要
 

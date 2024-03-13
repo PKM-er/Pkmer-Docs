@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522271104
 title: Obsidian 插件：【Readme】Studier
 tags: ['obsidian插件', 'readme']
 description: 为您的Obsidian.md笔记创建测验，提高学习效果
@@ -70,7 +70,7 @@ modified: 20230101000000
 
 #### ～ 示例一
 
-![](https://cdn.pkmer.cn/covers/studier_1_0.png!pkmer)
+![](https://github.com/alvaro-cas/studier-obsidian/blob/main/assets/default_sample_markdown.png?raw=true)
 
 > 设置解剖学
 
@@ -87,7 +87,7 @@ modified: 20230101000000
 
 #### ~ 示例二
 
-![](https://cdn.pkmer.cn/covers/studier_1_1.png!pkmer)
+![](https://github.com/alvaro-cas/studier-obsidian/blob/main/assets/custom_sample_markdown.png?raw=true)
 
 ##### 选定的设置
 

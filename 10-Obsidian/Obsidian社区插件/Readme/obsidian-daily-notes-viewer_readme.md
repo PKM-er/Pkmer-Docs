@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Daily Notes Viewer
+uid: 2023080322170506
+title: Obsidian 插件：Daily Notes Viewer
 tags: ['obsidian插件', 'readme']
 description: 帮助您在一个页面上查看一些最近的日记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Daily Notes Viewer
+# Obsidian 插件：Daily Notes Viewer
 
 > [!Note] 插件名片
 > - 插件名称：Daily Notes Viewer
@@ -38,13 +38,13 @@ modified: 20230101000000
 
 ## 每日笔记查看器
 
-这是一个 Obsidian 插件（<<https://obsidian.md>）。>
+这是一个 Obsidian 插件（<https://obsidian.md>）。
 
 它可以帮助您在一个页面上查看一些最近的每日笔记。
 
 ### 演示
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-daily-notes-viewer_2_0.png!pkmer)
+![演示](img/demo.png)
 
 ### 注意事项
 

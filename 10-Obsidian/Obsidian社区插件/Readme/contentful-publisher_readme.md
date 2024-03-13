@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611073661
 title: Obsidian 插件：【Readme】Contentful Publisher
 tags: ['obsidian插件', 'readme']
 description: 从Obsidian管理您的Contentful内容。

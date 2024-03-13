@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219331976
 title: Obsidian 插件：【Readme】Simple Image Inserter
 tags: ['obsidian插件', 'readme']
 description: Add images from the file system into notes through a built-in file picker.

@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121285393
 title: Obsidian 插件：【Readme】Tag Formatter
 tags: ['obsidian插件', 'readme']
 description: 在预览模式下提供了更多关于如何显示标签的选项。

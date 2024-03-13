@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Obsidian markmind
+uid: 2023080322233073
+title: Obsidian 插件：Obsidian markmind
 tags: ['思维导图', 'PDF', 'obsidian插件', 'readme']
 description: 让你在 Osidian 中绘制思维导图、大纲和 PDF文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian markmind
+# Obsidian 插件：Obsidian markmind
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian markmind
@@ -164,7 +164,7 @@ display-mode: outline
 | 更改思维导图布局                 | 选择节点, CTRL/CMD + U/D/L/R/M/J/K/T/Q |
 | 删除摘要/边界/相关链接  | Delete/Backspace                          |
 
-![outline](https://cdn.pkmer.cn/covers/obsidian-markmind_1_0.gif)
+![outline](https://user-images.githubusercontent.com/18719494/138630597-fc2396d1-c818-43dc-83eb-fa638d8a0028.gif)
 
 #### 表格
 
@@ -182,7 +182,7 @@ display-mode: table
 ---
 ```
 
-![table](https://cdn.pkmer.cn/covers/obsidian-markmind_1_1.gif)
+![table](https://user-images.githubusercontent.com/18719494/150626028-8d8733d5-8cd2-4eaf-b369-73ebbbcc5244.gif)
 
 ### 丰富模式
 
@@ -340,4 +340,4 @@ annotate-image-target: assets/image
 
 ### 更新日志
 
-![table](https://cdn.pkmer.cn/covers/obsidian-markmind_1_2.gif)
+![table](https://github.com/MarkMindCkm/obsidian-markmind/assets/18719494/70c90efb-3b15-4216-8c9b-874b5cf87b5e)

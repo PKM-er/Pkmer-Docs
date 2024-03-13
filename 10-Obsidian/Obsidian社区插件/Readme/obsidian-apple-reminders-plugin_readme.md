@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】Apple Reminders
+uid: 2023080322140985
+title: Obsidian 插件：Apple Reminders
 tags: ['第三方工具集成', '移动端', 'obsidian插件', 'readme']
 description: 一个插件，试图将苹果提醒带入Obsidian。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Apple Reminders
+# Obsidian 插件：Apple Reminders
 
 > [!Note] 插件名片
 > - 插件名称：Apple Reminders
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个插件，试图将苹果提醒带入 Obsidian。
 
-![Apple Reminders](https://cdn.pkmer.cn/covers/obsidian-apple-reminders-plugin_new.gif)
+![Apple Reminders](https://cdn.pkmer.cn/covers/obsidian-apple-reminders-plugin_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # Apple 提醒事项
 
-![与每日笔记一起使用的提醒事项插件](https://cdn.pkmer.cn/covers/obsidian-apple-reminders-plugin_2_0.gif)
+![与每日笔记一起使用的提醒事项插件](/docs/RemindersPlugin.gif)
 
 这是一个尝试将 Apple 提醒事项带入 [Obsidian](https://obsidian.md) 的插件。
 
@@ -167,17 +167,20 @@ filters:
   - [x] 创建状态栏图标和消息，以显示插件正在进行的操作。
   - [ ] 创建一个界面，同时显示 Obsidian 中的所有列表
   - [ ] ~~创建一个“今天”列表（??现在实施了过滤器，这是否多余？）~~
+
 - [ ] 创建一种机制，允许通过 Obsidian 高效编辑提醒事项
   - [x] 通过 Obsidian 创建提醒事项
   - [x] 通过 Obsidian 标记提醒事项为已完成
   - [ ] 编辑提醒事项的到期日期和提醒日期
   - [ ] 编辑列表颜色
   - [ ] 研究将列表“标志”带入 Obsidian
+
 - [ ] 使此插件尽可能可配置，以适应多种用例
   - [x] 在 Obsidian 菜单中创建一个设置选项卡
   - [x] 使同步时间可配置
   - [ ] 使 UI 更可配置（标准化类名并创建文档）
   - [x] 设置合理的默认值
+
 - [ ] 开发事项
   - [x] 创建文档
   - [ ] ~~创建 AppleScripts 文件以允许自定义~~

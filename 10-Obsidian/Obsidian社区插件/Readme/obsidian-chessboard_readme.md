@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Chessboard Viewer
+uid: 2023080322155063
+title: Obsidian 插件：Chessboard Viewer
 tags: ['游戏', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 在笔记中 渲染国际象棋的棋盘，并能显示棋盘中对应棋谱位置。这个绘制棋谱布局是基于 FEN 语法的。FEN 是Forsyth-Edwards Notation 的缩写，它是描述国际象棋游戏位置的标准符号。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Chessboard Viewer
+# Obsidian 插件：Chessboard Viewer
 
 > [!Note] 插件名片
 > - 插件名称：Chessboard Viewer
@@ -57,7 +57,7 @@ fen: r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R
 ```
 ````
 
-![例子](https://cdn.pkmer.cn/covers/obsidian-chessboard_2_0.png!pkmer)
+![例子](example.png)
 
 ### 更改棋盘方向
 
@@ -82,7 +82,7 @@ annotations: Af8-b4 Hf8
 ```
 ````
 
-![示例注释](https://cdn.pkmer.cn/covers/obsidian-chessboard_2_1.png!pkmer)
+![示例注释](example2.png)
 
 ### 语法
 

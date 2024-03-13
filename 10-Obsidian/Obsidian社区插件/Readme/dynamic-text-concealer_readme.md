@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117273545
 title: Obsidian 插件：【Readme】Dynamic Text Concealer
 tags: ['obsidian插件', 'readme']
 description: 隐藏或替换Live Preview和阅读模式中用户配置的文本模式。

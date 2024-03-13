@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611073971
 title: Obsidian 插件：【Readme】Data Entry
 tags: ['obsidian插件', 'readme']
 description: 创建简单保存数据的表单；数据输入的数据视图。
@@ -51,13 +51,13 @@ modified: 20230101000000
 <details>
 <summary>点击展开</summary>
 
-![](https://cdn.pkmer.cn/covers/data-entry_2_0.png!pkmer)
+![](./assets/mobile-data.png)
 
-![](https://cdn.pkmer.cn/covers/data-entry_2_1.png!pkmer)
+![](./assets/mobile.png)
 
-![](https://cdn.pkmer.cn/covers/data-entry_2_2.png!pkmer)
+![](./assets/tablet.png)
 
-![](https://cdn.pkmer.cn/covers/data-entry_2_3.png!pkmer)
+![](./assets/desktop.png)
 
 </details>
 

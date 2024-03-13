@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522260220
 title: Obsidian 插件：【Readme】Markdown table checkboxes
 tags: ['obsidian插件', 'readme']
 description: 为Markdown表格中的有状态复选框添加支持。

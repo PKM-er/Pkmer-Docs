@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117281058
 title: Obsidian 插件：【Readme】GitHub Link
 tags: ['obsidian插件', 'readme']
 description: Enrich your notes with issue and pull request content from GitHub.
@@ -121,6 +121,8 @@ columns: [number, title, author, status]
 | `direction` | `desc`, `asc`                                      |                                           |
 | `per_page`  | 整数。                                             | 每页返回的项目数。                        |
 | `page`      | 整数。                                             | 要使用的结果页。
+
+
 
 |
 

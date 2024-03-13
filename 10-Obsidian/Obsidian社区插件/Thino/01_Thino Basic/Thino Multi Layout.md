@@ -1,13 +1,17 @@
 ---
 uid: 20231109234448
 title: Thino 列表样式
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Thino 列表样式
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
 modified: 20240127232255
+id: 7d9157adcba2de75
 ---
 
 # Thino 列表样式

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Emoji Toolbar
+uid: 2023080322174987
+title: Obsidian 插件：Emoji Toolbar
 tags: ['编辑工具', '界面相关', '效率', 'obsidian插件', 'readme']
 description: 快速搜索表情符号并将其插入到您的编辑器中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Emoji Toolbar
+# Obsidian 插件：Emoji Toolbar
 
 > [!Note] 插件名片
 > - 插件名称：Emoji Toolbar
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 快速搜索表情符号并将其插入到您的编辑器中。
 
-![Emoji Toolbar](https://cdn.pkmer.cn/covers/obsidian-emoji-toolbar_new.gif)
+![Emoji Toolbar](https://cdn.pkmer.cn/covers/obsidian-emoji-toolbar_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这个插件适用于 [Obsidian](https://obsidian.md/)，允许您快速搜索并添加表情符号到编辑器中。
 
-![表情符号工具栏插件](https://cdn.pkmer.cn/covers/obsidian-emoji-toolbar_1_0.gif)
+![表情符号工具栏插件](https://raw.githubusercontent.com/oliveryh/obsidian-emoji-toolbar/main/demo/demo.gif)
 
 使用方法
 

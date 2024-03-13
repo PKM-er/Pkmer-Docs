@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522273522
 title: Obsidian 插件：【Readme】Typing
 tags: ['obsidian插件', 'readme']
 description: 可定制的笔记类型

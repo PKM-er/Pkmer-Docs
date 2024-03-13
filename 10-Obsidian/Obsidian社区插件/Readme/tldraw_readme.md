@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022122522014
 title: Obsidian 插件：【Readme】Tldraw
 tags: ['obsidian插件', 'readme']
 description: 将Tldraw集成到Obsidian中，允许用户在虚拟白板上绘制和编辑内容。

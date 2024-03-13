@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】Custom File Explorer sorting
+uid: 2023080322165155
+title: Obsidian 插件：Custom File Explorer sorting
 tags: ['obsidian插件', 'readme']
 description: 允许在文件资源管理器中手动和自动，基于配置驱动的重新排序和排序文件和文件夹。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Custom File Explorer sorting
+# Obsidian 插件：Custom File Explorer sorting
 
 > [!Note] 插件名片
 > - 插件名称：Custom File Explorer sorting
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 [长而且更详细的高级README.md在这里](./advanced-README.md)
 
-在文件资源管理器中自由排列笔记和文件夹（<https://obsidian.md> 插件）>
+在文件资源管理器中自由排列笔记和文件夹（<https://obsidian.md>插件）
 
 完全控制笔记和文件夹的顺序：
 
@@ -75,9 +75,9 @@ sorting-spec: |
 ---
 ```
 
-点击丝带按钮（![Inactive](https://cdn.pkmer.cn/covers/custom-sort_2_3.png!pkmer)或![Static icon](https://cdn.pkmer.cn/covers/custom-sort_2_0.png!pkmer)在手机上），告诉插件读取排序规范并应用它。
+点击丝带按钮（![Inactive](./docs/icons/icon-inactive.png)或![Static icon](./docs/icons/icon-mobile-initial.png)在手机上），告诉插件读取排序规范并应用它。
 
-排序应该应用到文件夹中。在桌面和平板电脑上，丝带图标应该变为（![Active](https://cdn.pkmer.cn/covers/custom-sort_2_1.png!pkmer)）
+排序应该应用到文件夹中。在桌面和平板电脑上，丝带图标应该变为（![Active](./docs/icons/icon-active.png)）
 
 !!! **完成！** !!!
 
@@ -96,7 +96,7 @@ sorting-spec: |
 > - 你会注意到文件夹和文件被同等对待，因此混合在一起
 >   - 行为取决于你的文件夹中有哪些文件和子文件夹
 > - 通过标准的 Obsidian UI 按钮更改排序顺序不会影响你的文件夹，除非...
->   - ...除非你通过点击丝带按钮将其取消激活 (![Inactive](https://cdn.pkmer.cn/covers/custom-sort_2_3.png!pkmer))
+>   - ...除非你通过点击丝带按钮将其取消激活 (![Inactive](./docs/icons/icon-inactive.png))
 > - 为了清楚起见：笔记 `sortspec` 的底层文件显然是 `sortspec.md`
 > - 如果遇到问题，请参考 [高级 README.md 的 TL;DR 部分](./advanced-README.md#tldr-usage)
 > - 随意尝试！该插件以非破坏性方式工作，不会修改你的 vault 的内容。
@@ -154,16 +154,16 @@ sorting-spec: |
 
 在大屏设备（台式机、笔记本电脑和 iPad 等平板电脑）上的 Ribbon 图标状态：
 
-- ![Inactive](https://cdn.pkmer.cn/covers/custom-sort_2_3.png!pkmer) 插件已挂起。未应用自定义排序。
-- ![Active](https://cdn.pkmer.cn/covers/custom-sort_2_1.png!pkmer) 插件已启用，已应用自定义排序。
-- ![Error](https://cdn.pkmer.cn/covers/custom-sort_2_6.png!pkmer) 自定义排序配置中存在语法错误。
-- ![General Error](https://cdn.pkmer.cn/covers/custom-sort_2_7.png!pkmer) 插件已挂起。一般错误。
-- ![Sorting not applied](https://cdn.pkmer.cn/covers/custom-sort_2_8.png!pkmer) 插件已启用，但未应用自定义排序。
-- ![Static icon](https://cdn.pkmer.cn/covers/custom-sort_2_0.png!pkmer) （仅适用于大屏移动设备如 iPad）。插件已启用，但未应用自定义排序。
+- ![Inactive](./docs/icons/icon-inactive.png) 插件已挂起。未应用自定义排序。
+- ![Active](./docs/icons/icon-active.png) 插件已启用，已应用自定义排序。
+- ![Error](./docs/icons/icon-error.png) 自定义排序配置中存在语法错误。
+- ![General Error](./docs/icons/icon-general-error.png) 插件已挂起。一般错误。
+- ![Sorting not applied](./docs/icons/icon-not-applied.png) 插件已启用，但未应用自定义排序。
+- ![Static icon](./docs/icons/icon-mobile-initial.png) （仅适用于大屏移动设备如 iPad）。插件已启用，但未应用自定义排序。
 
 在小屏移动设备（手机）上，图标是静态的：
 
-- ![Static icon](https://cdn.pkmer.cn/covers/custom-sort_2_0.png!pkmer) 图标作为按钮切换启用和禁用状态。其外观不会改变。
+- ![Static icon](./docs/icons/icon-mobile-initial.png) 图标作为按钮切换启用和禁用状态。其外观不会改变。
 
 有关图标状态的更多详细信息，请参阅 [Ribbon图标部分的advanced-README.md](./advanced-README.md#ribbon-icon)。
 
@@ -171,13 +171,13 @@ sorting-spec: |
 
 - 即使在共享保险库上在桌面上激活了自定义排序，您可能仍然需要在移动设备上单独激活自定义排序。
 - Obsidian 命令面板很容易使用（在小屏移动设备上向下滑动手势），可以通过命令快速控制插件：sort-on 和 sort-off。这可能比导航到并展开功能区更容易。
-- 功能区图标是静态的（![静态图标](https://cdn.pkmer.cn/covers/custom-sort_2_0.png!pkmer)），不反映自定义排序的状态。您可以在设置中启用“插件状态更改”通知，仅适用于移动设备。
+- 功能区图标是静态的（![静态图标](./docs/icons/icon-mobile-initial.png)），不反映自定义排序的状态。您可以在设置中启用“插件状态更改”通知，仅适用于移动设备。
 
 安装插件
 
 ### 来自官方 Obsidian 社区插件页面
 
-插件可以和应该从官方 Obsidian 社区插件列表（<<https://obsidian.md/plugins>）或直接在> Obsidian 应用程序中安装。>
+插件可以和应该从官方 Obsidian 社区插件列表（<https://obsidian.md/plugins>）或直接在 Obsidian 应用程序中安装。
 
 通过其名称“CUSTOM FILE EXPLORER SORTING”搜索插件。
 
@@ -191,7 +191,7 @@ sorting-spec: |
 
 你想在文件资源管理器中拥有像这样漂亮的水平分隔符吗？
 
-![separators](https://cdn.pkmer.cn/covers/custom-sort_2_12.png!pkmer)
+![separators](./docs/img/separators-by-replete.png)
 
 如果是的话，请前往 [指南和更多上下文](https://github.com/SebastianMC/obsidian-custom-sort/discussions/57#discussioncomment-4983763)，
 

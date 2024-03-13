@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Embedded Code Title
+uid: 2023080322174518
+title: Obsidian 插件：Embedded Code Title
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这是一个 Obsidian 插件，可以将标题嵌入到代码块中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Embedded Code Title
+# Obsidian 插件：Embedded Code Title
 
 > [!Note] 插件名片
 > - 插件名称：Embedded Code Title
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这是一个 Obsidian 插件，可以将标题嵌入到代码块中。
 
-![Embedded Code Title](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title.gif)
+![Embedded Code Title](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ modified: 20230101000000
 
 **⚠ 由于依赖于 Obsidian 的内部 DOM 结构，该插件有可能在某些时候无法正常工作。**
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_2.gif)
+![演示](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/demo.gif)
 
 ## 🖋 示例
 
@@ -61,7 +61,7 @@ def main():
 
 ↓
 
-![img.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_3.png!pkmer)
+![img.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img.png)
 
 ### 没有文件名，但显示语言名称
 
@@ -74,7 +74,7 @@ def main():
 
 ↓
 
-![img_1.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_4.png!pkmer)
+![img_1.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img_1.png)
 
 ### 带有文件名
 
@@ -87,13 +87,13 @@ def main():
 
 ↓
 
-![img_2.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_5.png!pkmer)
+![img_2.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img_2.png)
 
 ### 文件名包含半个空格
 
 如果您配置如下。
 
-![img_4.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_6.png!pkmer)
+![img_4.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img_4.png)
 
 然后
 
@@ -106,17 +106,17 @@ def main():
 
 ↓
 
-![img_3.png](https://cdn.pkmer.cn/covers/obsidian-embedded-code-title_1_7.png!pkmer)
+![img_3.png](https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/resource/img_3.png)
 
 🌍 在 Obsidian Publish 上使用
 
 如果 [您可以在 Obsidian Publish 上使用自定义域名]，您还可以使用此插件在 Obsidian Publish 的发布站点上使用 `publish.js` 和 `publish.css` 的功能。您可以在 [最新版本发布页面] 上下载 `publish.js` 和 `publish.css`。请参考 [我的发布站点] 作为示例。
 
-[您可以在 Obsidian Publish 上使用自定义域名]: <<https://help.obsidian.md/Licenses+>%26+add-on+services/Obsidian+Publish#Custom+domain>
+[您可以在 Obsidian Publish 上使用自定义域名]: <https://help.obsidian.md/Licenses+>%26+add-on+services/Obsidian+Publish#Custom+domain
 
 [最新版本发布页面]: <https://github.com/tadashi-aikawa/obsidian-embedded-code-title/releases/latest>
 
-[我的发布站点]: <<https://minerva.mamansoft.net/Obsidian/Obsidian+Publish>%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8D%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80>
+[我的发布站点]: <https://minerva.mamansoft.net/Obsidian/Obsidian+Publish>%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8D%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80
 
 ## 🖥️ 针对开发者
 

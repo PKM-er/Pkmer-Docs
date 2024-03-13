@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322164607
 title: Obsidian 插件：Cryptsidian
 tags: ['obsidian插件', 'readme']
 description: 使用密码加密你Obsidian Vault中的所有文件。

@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117281477
 title: Obsidian 插件：【Readme】Global Proxy
 tags: ['obsidian插件', 'readme']
 description: Use network proxy according to the rules configured in this plugin

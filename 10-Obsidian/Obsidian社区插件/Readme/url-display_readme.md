@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611084880
 title: Obsidian 插件：【Readme】URL Display
 tags: ['obsidian插件', 'readme']
 description: 提取并显示Obsidian笔记中的外部URL。

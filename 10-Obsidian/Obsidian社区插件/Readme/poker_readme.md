@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023082011360762
 title: Obsidian 插件：【Readme】Poker
 tags: ['obsidian插件', 'readme']
 description: 轻松记录和查看您的扑克牌手。
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 ## 截图
 
-![渲染的卡片](https://cdn.pkmer.cn/covers/poker_2_0.png!pkmer)
+![渲染的卡片](rendered-editor.png)
 
 如何安装
 

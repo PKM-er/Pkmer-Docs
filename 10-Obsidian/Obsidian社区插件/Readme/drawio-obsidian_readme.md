@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Diagrams
+uid: 2023080322171633
+title: Obsidian 插件：Diagrams
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: 在 Obsidian 中创建和编辑 Draw.io 图表
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Diagrams
+# Obsidian 插件：Diagrams
 
 > [!Note] 插件名片
 > - 插件名称：Diagrams
@@ -40,12 +40,12 @@ modified: 20230101000000
 
 该插件为 Obsidian 引入了图表功能，可以将其包含在笔记中或作为独立文件使用。图表以 SVG 文件的形式创建（尽管也支持.drawio 扩展名）。
 
-![屏幕截图](https://cdn.pkmer.cn/covers/drawio-obsidian_2_0.png!pkmer)
+![屏幕截图](/docs/image/screenshot1.png)
 
 使用方法
 
 ### 添加/插入新的图表
 
-![插入新的图表](https://cdn.pkmer.cn/covers/drawio-obsidian_2_1.png!pkmer)
+![插入新的图表](/docs/image/screenshot2.png)
 
 编辑现有图表

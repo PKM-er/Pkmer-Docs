@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522264892
 title: Obsidian 插件：【Readme】ReClipped Official
 tags: ['obsidian插件', 'readme']
 description: 官方的ReClipped <-> Obsidian集成。

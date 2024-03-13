@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】File Forgetting Curve
+uid: 2023080322181451
+title: Obsidian 插件：File Forgetting Curve
 tags: ['obsidian插件', 'readme']
 description: 文件遗忘曲线
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】File Forgetting Curve
+# Obsidian 插件：File Forgetting Curve
 
 > [!Note] 插件名片
 > - 插件名称：File Forgetting Curve
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 文件遗忘曲线
 
-![File Forgetting Curve](https://cdn.pkmer.cn/covers/file-forgetting-curve-obsidian_new.gif)
+![File Forgetting Curve](https://cdn.pkmer.cn/covers/file-forgetting-curve-obsidian_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -47,4 +47,4 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/file-forgetting-curve-obsidian_2_0.gif)
+![演示](doc/demo.gif)

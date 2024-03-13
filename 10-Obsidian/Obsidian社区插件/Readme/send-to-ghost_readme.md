@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611082840
 title: Obsidian 插件：【Readme】Send to Ghost
 tags: ['obsidian插件', 'readme']
 description: 一键发送和发布笔记到你的Ghost博客

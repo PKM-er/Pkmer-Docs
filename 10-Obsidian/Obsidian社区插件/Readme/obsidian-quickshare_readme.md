@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】QuickShare
+uid: 2023080322252564
+title: Obsidian 插件：QuickShare
 tags: ['obsidian插件', 'readme']
 description: 一键安全共享您的Obsidian笔记。笔记经过端到端加密。无需API密钥或配置。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】QuickShare
+# Obsidian 插件：QuickShare
 
 > [!Note] 插件名片
 > - 插件名称：QuickShare
@@ -50,7 +50,7 @@ Obsidian QuickShare - 一键安全共享您的 Obsidian 笔记
 
 默认情况下，笔记存储在我的伴侣项目 [Noteshare.space](https://noteshare.space/) 上。它是一个简单的存储服务，可以缓存您的加密笔记 31 天，并提供一个用于查看笔记的 Web 应用程序。服务器和前端都是根据 MIT 许可证的 [开源](https://github.com/mcndt/noteshare.space)。用户可以自由地在自己的域名上托管存储服务的实例。
 
-![说明图](https://cdn.pkmer.cn/covers/obsidian-quickshare_2_0.png!pkmer)
+![说明图](img/explainer-img.png)
 
 ## 功能
 

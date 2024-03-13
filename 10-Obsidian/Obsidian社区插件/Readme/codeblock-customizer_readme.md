@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322160870
 title: Obsidian 插件：Codeblock Customizer
 tags: ['obsidian插件', 'readme']
 description: 在编辑和阅读模式下自定义您的代码块。
@@ -43,7 +43,7 @@ modified: 20230101000000
 
 </p>
 
-这是一个适用于 Obsidian（<<https://obsidian.md>）的插件。>
+这是一个适用于 Obsidian（<https://obsidian.md>）的插件。
 
 由于我没有找到任何一个可靠地在编辑器和阅读模式下工作的自定义代码块的插件，所以我自己创建了一个。我不是一个设计师，所以如果你创建了一个很酷的主题，请给我发送颜色代码，我可能会在下一个版本中将其包含为默认主题 :-)
 

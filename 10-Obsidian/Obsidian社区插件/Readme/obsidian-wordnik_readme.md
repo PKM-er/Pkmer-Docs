@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322294119
 title: Obsidian 插件：Wordnik Definitions
 tags: ['obsidian插件', 'readme']
 description: 从Wordnik抓取一个主题的信息，并将其带入Obsidian笔记中。

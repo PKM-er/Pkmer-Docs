@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Persistent Links
+uid: 2023080322244196
+title: Obsidian 插件：Persistent Links
 tags: ['obsidian插件', 'readme']
 description: 在将块和标题在文件之间移动时，自动修复内部链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Persistent Links
+# Obsidian 插件：Persistent Links
 
 > [!Note] 插件名片
 > - 插件名称：Persistent Links
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在将块和标题在文件之间移动时，自动修复内部链接。
 
-![Persistent Links](https://cdn.pkmer.cn/covers/persistent-links.gif)
+![Persistent Links](https://cdn.pkmer.cn/covers/persistent-links.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -44,7 +44,7 @@ modified: 20230101000000
 
 如何使用它
 
-启用插件后，当您剪切和粘贴标题和块时，它将自动更新链接。这是一个演示：![](https://cdn.pkmer.cn/covers/persistent-links_2_0.gif)
+启用插件后，当您剪切和粘贴标题和块时，它将自动更新链接。这是一个演示：![](persistent-links-demo.gif)
 
 如果文件以其他方式进行了更新，并且您注意到了一些损坏的链接，您可以使用“修复文件中的链接”命令来修复它们。插件将搜索元数据缓存，并尝试找到包含链接中的块或标题的文件。
 
@@ -54,11 +54,11 @@ modified: 20230101000000
 - 仅在剪切和粘贴事件中自动工作
 - 仅适用于 Wiki 链接
 
-如果您希望插件支持其他工作流，请随时创建一个问题：<<https://github.com/ivan-lednev/obsidian-persistent-links/issues>。>
+如果您希望插件支持其他工作流，请随时创建一个问题：<https://github.com/ivan-lednev/obsidian-persistent-links/issues>。
 
 ## 贡献
 
-如果你发现了一个 bug 或者有一些改进插件的想法，欢迎创建一个 issue：<<https://github.com/ivan-lednev/obsidian-persistent-links/issues>。>
+如果你发现了一个 bug 或者有一些改进插件的想法，欢迎创建一个 issue：<https://github.com/ivan-lednev/obsidian-persistent-links/issues>。
 
 同时也欢迎提交 pull 请求！如果你想要贡献但不知道从何开始，你可以创建一个 issue 或者给我发邮件：bishop1860@gmail.com。
 

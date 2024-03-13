@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322212149
 title: Obsidian 插件：Lilypond
 tags: ['obsidian插件', 'readme']
 description: 渲染Lilypond模板。

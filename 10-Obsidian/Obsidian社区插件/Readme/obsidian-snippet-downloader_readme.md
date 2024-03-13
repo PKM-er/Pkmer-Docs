@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322271147
 title: Obsidian 插件：Snippet Downloader
 tags: ['obsidian插件', 'readme']
 description: 一个黑曜石插件，可以帮助从仓库中管理CSS片段（下载/更新）

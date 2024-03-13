@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322181904
 title: Obsidian 插件：File Publisher
 tags: ['obsidian插件', 'readme']
 description: 将文件发布到给定的POST api。

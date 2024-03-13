@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Confluence to Obsidian
+uid: 2023080322162506
+title: Obsidian 插件：Confluence to Obsidian
 tags: ['obsidian插件', 'readme']
 description: 将Confluence空间导入Obsidian vault。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Confluence to Obsidian
+# Obsidian 插件：Confluence to Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：Confluence to Obsidian
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将 Confluence 空间导入 Obsidian vault。
 
-![Confluence to Obsidian](https://cdn.pkmer.cn/covers/confluence-to-obsidian.gif)
+![Confluence to Obsidian](https://cdn.pkmer.cn/covers/confluence-to-obsidian.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -69,4 +69,4 @@ modified: 20230101000000
     - 在 Obsidian 命令面板中选择**Confluence to Obsidian: Import Confluence space**命令
     - 在**Import Confluence space**对话框的**Space directory**中提供从 `zip` 文件中提取的 Confluence 空间文件夹的路径，然后点击**Import**
 
-![import-space](https://cdn.pkmer.cn/covers/confluence-to-obsidian_2_0.gif)
+![import-space](docs/assets/import-space.gif)

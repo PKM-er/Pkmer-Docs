@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121210865
 title: Obsidian 插件：【Readme】Paste From History
 tags: ['obsidian插件', 'readme']
 description: 从编辑器的最近剪贴板历史粘贴。

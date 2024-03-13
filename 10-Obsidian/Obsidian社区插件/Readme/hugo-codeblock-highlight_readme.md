@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219314489
 title: Obsidian 插件：【Readme】Hugo codeblock highlight
 tags: ['obsidian插件', 'readme']
 description: 在代码块中使用Hugo的hl_lines语法突出显示行。

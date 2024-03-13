@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121235614
 title: Obsidian 插件：【Readme】Root Folder Context Menu
 tags: ['obsidian插件', 'readme']
 description: 启用保险库根文件夹的上下文菜单

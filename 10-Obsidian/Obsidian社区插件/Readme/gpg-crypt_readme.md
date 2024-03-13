@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611075690
 title: Obsidian 插件：【Readme】gpgCrypt
 tags: ['obsidian插件', 'readme']
 description: 无缝地使用GPG加密您的笔记。支持智能卡以增强安全性！将您的信息安全地保存并仅供您访问。

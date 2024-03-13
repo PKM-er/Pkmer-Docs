@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322234268
 title: Obsidian 插件：Obsidian Sigma
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以使用Obsidian笔记作为计算表。

@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121295540
 title: Obsidian 插件：【Readme】Timeline Schedule
 tags: ['obsidian插件', 'readme']
 description: 从人类可读的时间字符串生成的内联时间表，例如在```schedule```代码块中的'Walk dog (30min)'。

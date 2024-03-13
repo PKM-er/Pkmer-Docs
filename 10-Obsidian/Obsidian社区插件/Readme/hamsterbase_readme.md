@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322193546
 title: Obsidian 插件：HamsterBase Official
 tags: ['obsidian插件', 'readme']
 description: 官方HamsterBase -> Obsidian集成

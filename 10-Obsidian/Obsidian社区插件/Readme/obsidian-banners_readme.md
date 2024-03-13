@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Banners
+uid: 2023080322145428
+title: Obsidian 插件：Banners
 tags: ['编辑工具', '模板', '图片', '美化', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加笔记顶部横幅图（banner）的能力，也能增加横幅图标。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Banners
+# Obsidian 插件：Banners
 
 > [!Note] 插件名片
 > - 插件名称：Banners
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 一个 [Obsidian](https://obsidian.md/) 插件，可以为您的笔记添加横幅图片（和图标）！
 
-![banners-demo](https://cdn.pkmer.cn/covers/obsidian-banners_1_0.gif)
+![banners-demo](https://raw.githubusercontent.com/noatpad/obsidian-banners/master/images/banners.gif)
 
 使用方法
 
@@ -85,17 +85,17 @@ banner_icon: string
 
 | 实心 | 渐变 |
 | --- | --- |
-| ![实心样式](https://cdn.pkmer.cn/covers/obsidian-banners_1_1.png!pkmer) | ![渐变样式](https://cdn.pkmer.cn/covers/obsidian-banners_1_2.png!pkmer) |
+| ![实心样式](https://raw.githubusercontent.com/noatpad/obsidian-banners/master/images/solid.png) | ![渐变样式](https://raw.githubusercontent.com/noatpad/obsidian-banners/master/images/gradient.png) |
 
 - **在内部嵌入中显示横幅**：选择是否在文件内部嵌入中显示横幅。
 - **内部嵌入中的横幅高度预览**：如果打开了**在内部嵌入中显示横幅**，此设置确定嵌入中的横幅图像应该有多高。
 
-![内嵌](https://cdn.pkmer.cn/covers/obsidian-banners_1_3.png!pkmer)
+![内嵌](https://raw.githubusercontent.com/noatpad/obsidian-banners/master/images/inception.png)
 
 - **在预览嵌入中显示横幅**：选择是否在*页面预览*插件的预览嵌入中显示横幅。
 - **预览嵌入中的横幅高度**：如果打开了**在预览嵌入中显示横幅**，此设置确定嵌入中的横幅图像应该有多高。
 
-![嵌入](https://cdn.pkmer.cn/covers/obsidian-banners_1_4.png!pkmer)
+![嵌入](https://raw.githubusercontent.com/noatpad/obsidian-banners/master/images/embed.png)
 
 - **Frontmatter 字段名称**：如果设置了，使用可自定义的 Frontmatter 字段来使用横幅数据。例如，默认值 `banner` 将使用字段 `banner_x`、`banner_y` 等。
 - **横幅拖动修饰键**：设置必须使用的修饰键来拖动横幅。例如，将其设置为*Shift*意味着您必须使用 Shift 来拖动它。这可以避免意外的横幅移动。

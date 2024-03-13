@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611080917
 title: Obsidian 插件：【Readme】MLIR Syntax Highlight
 tags: ['obsidian插件', 'readme']
 description: 在编辑器中的代码块中显示MLIR的语法高亮。
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，可以在编辑器中为代码块提供 MLIR 语法高亮。
 
-![屏幕截图](https://cdn.pkmer.cn/covers/mlir-syntax-highlight_2_0.png!pkmer)
+![屏幕截图](./screenshot.png)
 
 ## 安装
 

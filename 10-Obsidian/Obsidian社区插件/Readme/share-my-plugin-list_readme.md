@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121241463
 title: Obsidian 插件：【Readme】Share my plugin list
 tags: ['obsidian插件', 'readme']
 description: 在列表/表格格式中分享已启用的插件。

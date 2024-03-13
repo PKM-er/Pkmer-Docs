@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022122531593
 title: Obsidian 插件：【Readme】Widgets
 tags: ['obsidian插件', 'readme']
 description: Adds widgets to your notes like clock, countdown and quotes.

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219331418
 title: Obsidian 插件：【Readme】Select & Complete
 tags: ['obsidian插件', 'readme']
 description: 选择一些内容，让AI为您完成它。

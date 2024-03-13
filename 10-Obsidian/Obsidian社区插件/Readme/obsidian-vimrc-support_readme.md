@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023080322292128
 title: Obsidian 插件：Vimrc Support
 tags: ['Vim相关', 'obsidian插件', 'readme']
 description: 支持 Vimrc 配置文件。
@@ -450,8 +450,8 @@ div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
 
 多个修复和改进，全部由@jiyee 贡献 - 谢谢！
 
-- 修复了和 Vim 模式显示问题（<<https://github.com/esm7/obsidian-vimrc-support/issues/149>）。>
-- 添加了 `source` 命令（<<https://github.com/esm7/obsidian-vimrc-support/issues/157>）。>
+- 修复了和 Vim 模式显示问题（<https://github.com/esm7/obsidian-vimrc-support/issues/149>）。
+- 添加了 `source` 命令（<https://github.com/esm7/obsidian-vimrc-support/issues/157>）。
 - 修复了正常模式布局回来了！
 
 ### 0.8.0
@@ -479,7 +479,7 @@ div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
 
 - 修复了多个问题（例如 [此问题](https://github.com/esm7/obsidian-vimrc-support/issues/118)），与编辑器类型的错误检测有关。
   - 通过不再尝试检测编辑器类型来修复了这些问题；对传统编辑器的支持变得笨拙，是时候放弃了。
-- 支持 Obsidian 0.15 多窗口功能（<<https://github.com/esm7/obsidian-vimrc-support/pull/110>）。>
+- 支持 Obsidian 0.15 多窗口功能（<https://github.com/esm7/obsidian-vimrc-support/pull/110>）。
 
 ### 0.6.3
 
@@ -488,16 +488,16 @@ div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
 ### 0.6.2
 
 - 修复了如果设置被覆盖并且为空，则不使用默认的 Vimrc 文件名。
-- 为 `jscommand` 添加了一个 `selection` 参数（<<https://github.com/esm7/obsidian-vimrc-support/issues/99>）。>
+- 为 `jscommand` 添加了一个 `selection` 参数（<https://github.com/esm7/obsidian-vimrc-support/issues/99>）。
 
 ### 0.6.1
 
-- 修复了 `surround` 中的向后选择错误 (<https://github.com/esm7/obsidian-vimrc-support/issues/91>)>
+- 修复了 `surround` 中的向后选择错误 (<https://github.com/esm7/obsidian-vimrc-support/issues/91>)
 
 ### 0.6.0
 
 - `surround` 和 `pasteinto` 命令现在可以在新的（基于 CM6 的）编辑器中使用。
-- 不再需要 Vimrc 文件的存在，以使其他插件功能正常工作（<<https://github.com/esm7/obsidian-vimrc-support/issues/89>）>
+- 不再需要 Vimrc 文件的存在，以使其他插件功能正常工作（<https://github.com/esm7/obsidian-vimrc-support/issues/89>）
 - 新的令人兴奋但危险的 `jscommand` 和 `jsfile` 命令，允许使用 JavaScript 片段扩展插件。
 
 ### 0.5.2
@@ -540,7 +540,7 @@ div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
 
 ### 0.4.2
 
-- 尝试修复 <<https://github.com/esm7/obsidian-vimrc-support/issues/42>（感谢> @Andr3wD！）
+- 尝试修复 <https://github.com/esm7/obsidian-vimrc-support/issues/42>（感谢 @Andr3wD！）
 - 修复了“正常模式下的固定键盘布局”通常无法正常工作的问题。
 
 ### 0.4.1
@@ -557,7 +557,7 @@ div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
 
 ### 0.3.1
 
-- 修复了一些命令在通过 `obcommand` 时无法工作的问题（<<https://github.com/esm7/obsidian-vimrc-support/issues/32>）>
+- 修复了一些命令在通过 `obcommand` 时无法工作的问题（<https://github.com/esm7/obsidian-vimrc-support/issues/32>）
 
 ### 0.3.0
 

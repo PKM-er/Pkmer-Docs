@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】MarginNote Companion
+uid: 2023080322215484
+title: Obsidian 插件：MarginNote Companion
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，用于连接MarginNote 3和Obsidian
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】MarginNote Companion
+# Obsidian 插件：MarginNote Companion
 
 > [!Note] 插件名片
 > - 插件名称：MarginNote Companion
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 一个用于连接 MarginNote 3 和 Obsidian 的 Obsidian 插件
 
-![demo](https://cdn.pkmer.cn/covers/marginnote-companion_2_0.webp!pkmer)
+![demo](assets/demo.webp)
 
 ## 特性
 

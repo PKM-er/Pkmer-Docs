@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Vextab
+uid: 2023080322291542
+title: Obsidian 插件：Vextab
 tags: ['obsidian插件', 'readme']
 description: 用于渲染 Vextab 图。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Vextab
+# Obsidian 插件：Vextab
 
 > [!Note] 插件名片
 > - 插件名称：Vextab
@@ -83,7 +83,7 @@ notes 4-5-6/3 ## | 5-4-2/3 2/2
 
 将被渲染为：
 
-![example1](https://cdn.pkmer.cn/covers/vextab_2_0.png!pkmer)
+![example1](./images/example1.png)
 
 您可以使用 `vextab` 或 `tab` 关键字来创建一个 vextab 代码块。
 
@@ -120,7 +120,7 @@ notes 6-7b9b7/3 7/4 | 9-8-7-6/2
 
 并生成以下图片：
 
-![example-quicktab](https://cdn.pkmer.cn/covers/vextab_2_1.png!pkmer)
+![example-quicktab](./images/example-quicktab.png)
 
 您可以在 Vextab 插件设置中切换是否在 quicktab 中包含符号。
 

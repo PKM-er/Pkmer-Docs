@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Advanced Codeblock
+uid: 2023080322134229
+title: Obsidian 插件：Advanced Codeblock
 tags: ['编程', '美化', 'obsidian插件', 'readme']
 description: 为 Obsidian 的代码域，增加代码块行号，和编程语言的高亮方案。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Advanced Codeblock
+# Obsidian 插件：Advanced Codeblock
 
 > [!Note] 插件名片
 > - 插件名称：Advanced Codeblock
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 ## 演示
 
-![演示](https://cdn.pkmer.cn/covers/obsidian-advanced-codeblock_1_0.png!pkmer)
+![演示](https://raw.githubusercontent.com/lijyze/obsidian-advanced-codeblock/main/assets/demo.png)
 
 ## 特性
 

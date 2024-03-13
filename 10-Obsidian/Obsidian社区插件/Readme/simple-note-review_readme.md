@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Simple Note Review
+uid: 2023080322265875
+title: Obsidian 插件：Simple Note Review
 tags: ['obsidian插件', 'readme']
 description: 简单，可定制的插件，用于轻松的笔记审阅，复查和重复。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Simple Note Review
+# Obsidian 插件：Simple Note Review
 
 > [!Note] 插件名片
 > - 插件名称：Simple Note Review
@@ -49,7 +49,7 @@ modified: 20230101000000
 
 自定义笔记集的名称和查询逻辑。
 
-![noteset_example_1](https://cdn.pkmer.cn/covers/simple-note-review_1_0.jpeg!pkmer)
+![noteset_example_1](https://user-images.githubusercontent.com/36126057/208353981-756c526e-f42a-4981-be03-fa0b479a1dbc.jpg)
 
 ### 简便的审核
 
@@ -70,7 +70,7 @@ modified: 20230101000000
 
 ### 复习算法
 
-![note-review-frequency](https://cdn.pkmer.cn/covers/simple-note-review_1_1.png!pkmer)
+![note-review-frequency](https://user-images.githubusercontent.com/36126057/192049630-bb1455eb-e2b1-4abd-9440-beb8dfac7818.png)
 
 ##### 默认
 
@@ -91,4 +91,4 @@ modified: 20230101000000
 - 过去 7 天、30 天内有多少笔记被评论
 - 还有多少笔记尚未被评论
 
-![noteset-info](https://cdn.pkmer.cn/covers/simple-note-review_1_2.png!pkmer)
+![noteset-info](https://user-images.githubusercontent.com/36126057/187531702-4de555fe-6229-4885-92a1-a591bbc33615.png)

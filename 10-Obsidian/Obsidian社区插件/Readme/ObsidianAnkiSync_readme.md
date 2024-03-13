@@ -1,6 +1,6 @@
 ---
-uid: 20231220112630
-title: Obsidian 插件：【Readme】Obsidian Anki Sync
+uid: 2023080322231192
+title: Obsidian 插件：Obsidian Anki Sync
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 黑曜石插件，可以制作闪卡，并将它们同步到Anki。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Anki Sync
+# Obsidian 插件：Obsidian Anki Sync
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Anki Sync
@@ -51,7 +51,7 @@ $$\sin \theta = \frac{对边}{斜边}$$
 <!-- replaceblock-end -->
 ```
 
-[![Cards](https://cdn.pkmer.cn/covers/ObsidianAnkiSync_1_0.jpeg!pkmer)](#examples)
+[![Cards](https://raw.githubusercontent.com/debanjandhar12/Obsidian-Anki-Sync/main/docs/images/Tut0.jpg)](#examples)
 
 使用此插件创建卡片还有许多**其他方法**。详细信息和更多示例请参阅 [教程](https://github.com/debanjandhar12/Obsidian-Anki-Sync/blob/main/docs/Tutorial.md)。
 

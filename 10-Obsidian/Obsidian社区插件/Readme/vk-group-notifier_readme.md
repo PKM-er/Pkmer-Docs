@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022122530940
 title: Obsidian 插件：【Readme】Vk group notifier
 tags: ['obsidian插件', 'readme']
 description: 跟踪来自vk.com群组的新闻帖子。

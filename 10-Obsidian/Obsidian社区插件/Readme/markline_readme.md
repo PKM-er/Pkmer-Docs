@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121193768
 title: Obsidian 插件：【Readme】Markline
 tags: ['obsidian插件', 'readme']
 description: Markdown中的时间轴视图
@@ -123,7 +123,7 @@ Markline 现在使用 Markdown 的子集：
 - 年龄：显示
 - 日期：2014/01/01
 - 作者：@hotoo
-- 提及：<<https://twitter.com/>{@mention}>
+- 提及：<https://twitter.com/>{@mention}
 
 ----
 

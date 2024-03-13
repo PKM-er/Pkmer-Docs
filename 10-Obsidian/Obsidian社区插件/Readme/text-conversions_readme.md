@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611083850
 title: Obsidian 插件：【Readme】Text Conversions
 tags: ['obsidian插件', 'readme']
 description: 对所选文本执行各种文本转换操作

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219315968
 title: Obsidian 插件：【Readme】Markdown Media Card
 tags: ['obsidian插件', 'readme']
 description: 在Markdown中插入媒体信息卡，如书籍、音乐、电影等。

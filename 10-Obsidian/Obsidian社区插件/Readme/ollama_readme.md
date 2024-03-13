@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522262425
 title: Obsidian 插件：【Readme】Ollama
 tags: ['obsidian插件', 'readme']
 description: 在您的笔记中使用Ollama。

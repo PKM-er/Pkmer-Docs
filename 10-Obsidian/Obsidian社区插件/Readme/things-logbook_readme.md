@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322281623
 title: Obsidian 插件：Things Logbook
 tags: ['第三方工具集成', '任务管理', 'obsidian插件', 'readme']
 description: 将你的 Obsidian 日记 和 你的 Things 进行同步。

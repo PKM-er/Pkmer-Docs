@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611081495
 title: Obsidian 插件：【Readme】Nested tags graph
 tags: ['obsidian插件', 'readme']
 description: 在图形视图中链接嵌套标签
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 在图形视图中链接嵌套标签（子标签 ->标签）：
 
-![演示](https://cdn.pkmer.cn/covers/graph-nested-tags_2_0.png!pkmer)
+![演示](media/nested_tag_graph.png)
 
 ## 使用方法
 

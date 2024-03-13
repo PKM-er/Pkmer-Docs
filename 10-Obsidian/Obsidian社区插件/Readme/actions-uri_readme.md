@@ -1,5 +1,5 @@
 ---
-uid: 20230817224051
+uid: 2023080322133300
 title: Obsidian 插件：Actions URI
 tags: ['obsidian插件', 'readme']
 description: 在应用程序中增加了额外的`x-callback-url`端点，用于常见的操作--它是黑曜石URI的一个干净、超强的补充。
@@ -81,7 +81,7 @@ modified: 20230101000000
 
 ## 作者
 
-Carlo Zottmann，<carlo@zottmann.co>，<<https://c.zottmann.org/>，<https://github.com/czottmann>>
+Carlo Zottmann，<carlo@zottmann.co>，<https://c.zottmann.org/>，<https://github.com/czottmann>
 
 - [Obsidian的Actions](https://obsidian.actions.work/)：在 macOS 和 iOS 上的 Shortcuts 应用程序中使用的有用的新 Obsidian 操作，弥合了笔记和工作流之间的差距。
 

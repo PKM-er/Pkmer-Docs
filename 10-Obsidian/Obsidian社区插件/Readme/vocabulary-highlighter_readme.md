@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522273730
 title: Obsidian 插件：【Readme】Vocabulary Highlighter
 tags: ['obsidian插件', 'readme']
 description: 根据词频突出显示词汇

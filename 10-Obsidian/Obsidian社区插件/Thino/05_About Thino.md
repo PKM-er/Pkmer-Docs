@@ -1,7 +1,10 @@
 ---
 uid: 20231109234453
 title: Thino 的含义
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Thino 的含义
 author: Bon,OS,PKMer
 type: other

@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522250937
 title: Obsidian 插件：【Readme】Fountain Editor
 tags: ['obsidian插件', 'readme']
 description: 在编辑器中进行剧本（Fountain）语法的语法高亮显示。
@@ -41,7 +41,7 @@ modified: 20230101000000
 | **[Obsidian](https://obsidian.md) 插件，用于在编辑器中对 [Fountain](https://fountain.io)（剧本）语法进行语法高亮。** |
 | :----------------------------------------------------------------------------------------------------------------------------- |
 
-[![banner](https://cdn.pkmer.cn/covers/fountain-editor_2_0.png!pkmer)](https://youtu.be/GORryaw32sI "Obsidian Fountain - 实时编辑器（插件展示）")
+[![banner](docs/assets/banner.png)](https://youtu.be/GORryaw32sI "Obsidian Fountain - 实时编辑器（插件展示）")
 
 > 📺 **Youtube 演示**: [Obsidian Fountain - 实时编辑器（插件展示）](https://youtu.be/GORryaw32sI)
 

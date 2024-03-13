@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Obsidian matrix
+uid: 2023080322233342
+title: Obsidian 插件：Obsidian matrix
 tags: ['数学', '效率', 'obsidian插件', 'readme']
 description: 让你在 Obsidian 中快速创建基于 LaTeX的数学矩阵
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian matrix
+# Obsidian 插件：Obsidian matrix
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian matrix
@@ -44,7 +44,7 @@ Obsidian-matrix 允许您快速轻松地创建 LaTeX 矩阵。
 
 展示 Obsidian-matrix 的简单视频：
 
-![用法](https://cdn.pkmer.cn/covers/obsidian-matrix_2_0.gif)
+![用法](usage.gif)
 
 ### 安装
 

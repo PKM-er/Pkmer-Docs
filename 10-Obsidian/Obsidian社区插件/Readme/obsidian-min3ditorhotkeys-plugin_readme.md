@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322223509
 title: Obsidian 插件：Min3ditorHotkeys
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 受编码编辑器启发的额外编辑器快捷键

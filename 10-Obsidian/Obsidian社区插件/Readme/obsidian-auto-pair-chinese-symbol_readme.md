@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322143495
 title: Obsidian 插件：Auto pair chinese symbol
 tags: ['编辑工具', '中文处理', 'obsidian插件', 'readme']
 description: 支持 《》 【】（）‘’ “” 「」 符号输入时自动补齐

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322244716
 title: Obsidian 插件：Pivotal Tracker Integration
 tags: ['obsidian插件', 'readme']
 description: 从Pivotal Tracker中提取故事、错误和任务。
@@ -36,7 +36,7 @@ modified: 20230101000000
 
 # Obsidian Pivotal Tracker 集成插件
 
-这是一个为 Obsidian（<<https://obsidian.md>）开发的插件，用于集成> Pivotal Tracker（<<https://www.pivotaltracker.com/>）。>
+这是一个为 Obsidian（<https://obsidian.md>）开发的插件，用于集成 Pivotal Tracker（<https://www.pivotaltracker.com/>）。
 
 该项目使用 Typescript 提供类型检查和文档。
 

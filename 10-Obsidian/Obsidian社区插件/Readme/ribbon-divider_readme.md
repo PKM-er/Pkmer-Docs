@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121235230
 title: Obsidian 插件：【Readme】Ribbon Divider
 tags: ['obsidian插件', 'readme']
 description: Allows you to add dividers to the ribbon to space out your icons.

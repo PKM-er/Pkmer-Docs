@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322243036
 title: Obsidian 插件：Paste As Html
 tags: ['obsidian插件', 'readme']
 description: 粘贴为HTML，保留原始CSS样式。从网页浏览器粘贴

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Link Range
+uid: 2023080322213040
+title: Obsidian 插件：Link Range
 tags: ['obsidian插件', 'readme']
 description: 这个 Obsidian 插件为 Obsidian 带来了范围内的 wiki-link 支持。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Link Range
+# Obsidian 插件：Link Range
 
 > [!Note] 插件名片
 > - 插件名称：Link Range
@@ -38,11 +38,11 @@ modified: 20230101000000
 
 # Obsidian 链接范围
 
-![Obsidian链接范围标志](https://cdn.pkmer.cn/covers/link-range_1_0.png!pkmer)
+![Obsidian链接范围标志](https://user-images.githubusercontent.com/23059902/225677761-c36b01a6-6194-4d83-a130-a1d7561b8359.png)
 
 该插件在保留本地反向链接功能的同时，将维基链接头范围查询引入到 Obsidian 中。支持标准维基链接、悬停预览和嵌入内容维基链接。
 
-![演示](https://cdn.pkmer.cn/covers/link-range_2_0.gif)
+![演示](./docs/demo.gif)
 
 ## 用法
 

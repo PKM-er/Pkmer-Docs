@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611082294
 title: Obsidian 插件：【Readme】QB Reader Parser
 tags: ['obsidian插件', 'readme']
 description: 自动将QB Reader中的抛硬币问题解析为Obsidian_to_Anki插件可读的格式。

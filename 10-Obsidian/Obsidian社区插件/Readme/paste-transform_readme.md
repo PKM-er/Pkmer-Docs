@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219324233
 title: Obsidian 插件：【Readme】Paste transform
 tags: ['obsidian插件', 'readme']
 description: 通过正则表达式规则修改剪贴板中的文本

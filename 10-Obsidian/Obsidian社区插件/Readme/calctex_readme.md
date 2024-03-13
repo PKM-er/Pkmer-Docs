@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611072643
 title: Obsidian 插件：【Readme】Calctex
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中计算LaTeX公式。

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322191154
 title: Obsidian 插件：Git Url
 tags: ['obsidian插件', 'readme']
 description: 这个插件在你的git远程仓库中创建一个指向你文件的URL。
@@ -42,13 +42,13 @@ modified: 20230101000000
 
 因此，我利用 [Obsidian Git](https://github.com/denolehov/obsidian-git)，并使用 gitlab 作为远程存储。
 
-所以通过访问<<https://gitlab.com/username/obsidian-repo/-/blob/master/filename.md>，在浏览器上直接打开文件。>
+所以通过访问<https://gitlab.com/username/obsidian-repo/-/blob/master/filename.md>，在浏览器上直接打开文件。
 
 这个插件非常简单，它只是将远程仓库 URL + 文件路径添加到剪贴板中。
 
 ### 使用方法
 
-- 在设置中，设置您的存储库的基本 URL（例如上面的<<https://gitlab.com/username/obsidian-repo/-/blob/master/>）>
+- 在设置中，设置您的存储库的基本 URL（例如上面的<https://gitlab.com/username/obsidian-repo/-/blob/master/>）
 - 在 Obsidian 中打开文件资源管理器选项卡 -> 右键单击文件 -> 复制 git 路径
 - 就这样，现在将链接粘贴到浏览器中并访问文件
 

@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117281658
 title: Obsidian 插件：【Readme】GPG Encrypt
 tags: ['obsidian插件', 'readme']
 description: GPG 使用快捷键加密内联文本

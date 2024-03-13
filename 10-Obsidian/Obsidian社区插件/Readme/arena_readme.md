@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023120522241737
 title: Obsidian 插件：【Readme】Are.na unofficial
 tags: ['obsidian插件', 'readme']
 description: 允许您将Are.na块保存为笔记。
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许您将 Are.na 块保存为笔记。
 
-![Are.na unofficial](https://cdn.pkmer.cn/covers/arena.gif)
+![Are.na unofficial](https://cdn.pkmer.cn/covers/arena.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 允许您将 [Are.na](are.na/about) 的区块保存为 Obsidian 笔记。
 
-![演示](https://cdn.pkmer.cn/covers/arena_2_0.gif)
+![演示](./.github/demo.gif)
 
 ## 手动安装
 

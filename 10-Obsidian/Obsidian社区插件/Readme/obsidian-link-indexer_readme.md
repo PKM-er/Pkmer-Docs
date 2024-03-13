@@ -1,5 +1,5 @@
 ---
-uid: 20230818000728
+uid: 2023080322212868
 title: Obsidian 插件：Link indexer
 tags: ['链接处理', 'obsidian插件', 'readme']
 description: 根据各种条件生成带有链接的索引注释。

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Chat View
+uid: 2023080322154356
+title: Obsidian 插件：Chat View
 tags: ['obsidian插件', 'readme']
 description: 聊天视图让您可以快速轻松地在 Markdown 文件中创建优雅的聊天 UI。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Chat View
+# Obsidian 插件：Chat View
 
 > [!Note] 插件名片
 > - 插件名称：Chat View
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 Chat View 让您可以在 Markdown 文件中快速轻松地创建优雅的聊天界面。
 
-![Obsidian 聊天视图概览](https://cdn.pkmer.cn/covers/obsidian-chat-view_1_0.jpeg!pkmer)
+![Obsidian 聊天视图概览](https://github.com/adifyr/obsidian-chat-view/raw/master/images/obsidian_chatview_plugin.jpg)
 
 ## 用法
 
@@ -55,7 +55,7 @@ Chat View 让您可以在 Markdown 文件中快速轻松地创建优雅的聊天
 
 以上代码将生成以下聊天视图：
 
-![Chat View Preview 1](https://cdn.pkmer.cn/covers/obsidian-chat-view_1_1.jpeg!pkmer)
+![Chat View Preview 1](https://github.com/adifyr/obsidian-chat-view/raw/master/images/chatview_preview1.jpg)
 
 💡 **如果您想在消息中显示管道 `|` 字符，您只需要用反斜杠进行转义，就像这样：`\|`。**
 
@@ -133,7 +133,7 @@ Header: h3
 
 以上代码将生成以下聊天视图：
 
-![Chat View WebVTT Preview](https://cdn.pkmer.cn/covers/obsidian-chat-view_1_2.jpeg!pkmer)
+![Chat View WebVTT Preview](https://github.com/adifyr/obsidian-chat-view/raw/master/images/chatview_preview_webvtt.jpg)
 
 ## 简约模式
 
@@ -154,7 +154,7 @@ Header: h3
 
 上面的代码块将生成以下Chat View：
 
-![Chat View简约模式](https://cdn.pkmer.cn/covers/obsidian-chat-view_1_3.jpeg!pkmer)
+![Chat View简约模式](https://github.com/adifyr/obsidian-chat-view/raw/master/images/chatview_preview_minimal.jpg)
 
 ## 在聊天视图消息中支持Markdown和HTML
 
@@ -170,7 +170,7 @@ Header: h3
 [Brian Williams=pink, Stacy Adams=orange]
 {mw=80}
 < Brian Williams | <h6>Pier Trip Suggestions</h6> Hi Stacy, I'm planning to go on a trip to a pier in the state! So, I wanted to ask if you had any suggestions. I have a couple of pre-conditions though: <ul><li>It needs to be a beautiful spot. [So that I can take loads of pics!](https://theculturetrip.com/north-america/usa/california/articles/the-coolest-piers-in-california-from-santa-monica-to-santa-barbara/)</li><li>It needs to be affordable. [This one's kinda expensive.](https://www.tripadvisor.in/Attraction_Review-g60713-d102779-Reviews-Pier_39-San_Francisco_California.html)</li></ul> **So, can you please help me out?** I'll be sure to send over a souvenir. Thanks! | Yesterday at 5:45 PM
-> Stacy Adams | ![Santa Monica Pier](https://cdn.pkmer.cn/covers/obsidian-chat-view_1_5.jpeg!pkmer) <h6>How About Santa Monica?</h6> Jutting out into the Pacific Ocean at the intersection of Ocean and Colorado, it symbolizes the *Heart of Santa Monica* and is one of the most photographed locations in the world. It also has affordable rentals and accomodation! | Today at 10:30 AM
+> Stacy Adams | ![Santa Monica Pier](https://images.hdqwalls.com/wallpapers/santa-monica-ferris-wheel-colorful-golden-hour-hz.jpg) <h6>How About Santa Monica?</h6> Jutting out into the Pacific Ocean at the intersection of Ocean and Colorado, it symbolizes the *Heart of Santa Monica* and is one of the most photographed locations in the world. It also has affordable rentals and accomodation! | Today at 10:30 AM
 ```
 
 ~~~
@@ -219,7 +219,7 @@ Firstname Lastname已离开此聊天。
 
 上面的代码块将呈现以下聊天视图：
 
-![Chat View With Transcripts Support](https://cdn.pkmer.cn/covers/obsidian-chat-view_1_6.png!pkmer)
+![Chat View With Transcripts Support](https://user-images.githubusercontent.com/86793553/206829253-6c4da4ff-3537-458d-ab45-c501d1f43262.png)
 
 感谢阅读！
 

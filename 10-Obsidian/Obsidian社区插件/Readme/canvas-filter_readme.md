@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Canvas Filter
+uid: 2023080322153271
+title: Obsidian 插件：Canvas Filter
 tags: ['obsidian插件', 'readme']
 description: 这个插件可以让你过滤画布，只显示特定颜色、标签或仅与当前选定节点相连的项目。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Canvas Filter
+# Obsidian 插件：Canvas Filter
 
 > [!Note] 插件名片
 > - 插件名称：Canvas Filter
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 画布过滤插件
 
-这是一个为 Obsidian 画布（<<https://obsidian.md>）设计的插件，>
+这是一个为 Obsidian 画布（<https://obsidian.md>）设计的插件，
 
 它允许通过颜色/连接/标签选择节点，并仅显示这些节点（隐藏所有不相关的节点）
 
@@ -46,27 +46,27 @@ modified: 20230101000000
 
 当你有一个像这样的画布时：
 
-![image](https://cdn.pkmer.cn/covers/canvas-filter_2_0.png!pkmer)
+![image](./assets/All-visible.png)
 
 选择一个或多个你感兴趣的节点的颜色：
 
-![image](https://cdn.pkmer.cn/covers/canvas-filter_2_1.png!pkmer)
+![image](./assets/Select-color.png)
 
 打开控制台并选择过滤命令：
 
-![image](https://cdn.pkmer.cn/covers/canvas-filter_2_2.png!pkmer)
+![image](./assets/Menu.png)
 
 你的节点将被过滤：
 
-![image](https://cdn.pkmer.cn/covers/canvas-filter_2_3.png!pkmer)
+![image](./assets/Filtered-color.png)
 
 你还可以通过箭头连接来过滤选定节点的输入和输出。
 
 此外，你还可以通过标签来过滤：
 
-![image](https://cdn.pkmer.cn/covers/canvas-filter_2_4.png!pkmer)
+![image](./assets/Filter-tags.png)
 
-![image](https://cdn.pkmer.cn/covers/canvas-filter_2_5.png!pkmer)
+![image](./assets/Filtered-tag.png)
 
 你也可以只隐藏选定的节点。
 

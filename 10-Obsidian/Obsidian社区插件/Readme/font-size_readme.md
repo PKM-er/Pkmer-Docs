@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117274938
 title: Obsidian 插件：【Readme】Font Size Adjuster
 tags: ['obsidian插件', 'readme']
 description: 通过命令调整字体大小。

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219301743
 title: Obsidian 插件：【Readme】Contextual note templating
 tags: ['obsidian插件', 'readme']
 description: Prompts for values and templates to create notes.

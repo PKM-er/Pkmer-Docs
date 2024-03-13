@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Readwise Mirror
+uid: 2023080322254366
+title: Obsidian 插件：Readwise Mirror
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 将您的Readwise图书馆直接镜像到Obsidian金库中
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Readwise Mirror
+# Obsidian 插件：Readwise Mirror
 
 > [!Note] 插件名片
 > - 插件名称：Readwise Mirror
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将您的 Readwise 图书馆直接镜像到 Obsidian 金库中
 
-![Readwise Mirror](https://cdn.pkmer.cn/covers/readwise-mirror_new.gif)
+![Readwise Mirror](https://cdn.pkmer.cn/covers/readwise-mirror_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 **Readwise Mirror** 是一个非官方的开源插件，用于强大的笔记和知识库应用程序 [Obsidian](http://obsidian.md/)。该插件允许用户通过自动下载所有的高亮/笔记并直接同步更改到 Obsidian vault 来 " 镜像 " 他们的整个 Readwise 库。
 
-![example.gif](https://cdn.pkmer.cn/covers/readwise-mirror_1_0.gif)
+![example.gif](https://raw.githubusercontent.com/jsonMartin/readwise-mirror/master/example.gif)
 
 输出的格式类似于直接从 Readwise 导出的 Markdown（将所有的高亮集中在每本书/文章等的一个文件中），但它直接集成到 Obsidian 中，并提供了有益的 Obsidian 格式增强功能，比如自动为书名和作者名创建 `[[链接]]`（支持多个作者）和块级链接引用（使用高亮 ID）。
 

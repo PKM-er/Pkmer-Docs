@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322154715
 title: Obsidian 插件：Checklist Reset
 tags: ['obsidian插件', 'readme']
 description: 添加一个命令来重置文档中任何清单的状态

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Stopwatch Plugin
+uid: 2023080322272694
+title: Obsidian 插件：Stopwatch Plugin
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 在Obsidian上显示秒表！
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Stopwatch Plugin
+# Obsidian 插件：Stopwatch Plugin
 
 > [!Note] 插件名片
 > - 插件名称：Stopwatch Plugin
@@ -36,9 +36,9 @@ modified: 20230101000000
 
 下面是 [[obsidian-stopwatch-plugin]] 插件的自述翻译
 
-这是一个为 Obsidian（<<https://obsidian.md>）设计的秒表插件。>
+这是一个为 Obsidian（<https://obsidian.md>）设计的秒表插件。
 
-![](https://cdn.pkmer.cn/covers/obsidian-stopwatch-plugin_2_0.png!pkmer)
+![](./documents/stopwatch-screenshot.png)
 
 ## 特点
 

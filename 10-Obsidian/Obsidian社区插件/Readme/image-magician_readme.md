@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219314692
 title: Obsidian 插件：【Readme】Image Magician
 tags: ['obsidian插件', 'readme']
 description: 支持使用ImageMagick查看和导出各种图像格式。

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322162870
 title: Obsidian 插件：Contextual Comments
 tags: ['obsidian插件', 'readme']
 description: 一般评论或与语言相关的内容（在代码块中）+ 2个命令修剪末尾的行（所有文档/代码块）。

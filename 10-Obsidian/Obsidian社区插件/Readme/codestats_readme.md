@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023082011353970
 title: Obsidian 插件：【Readme】Code::Stats
 tags: ['obsidian插件', 'readme']
 description: Code::Stats插件允许您跟踪您在Obsidian编辑器中编写Markdown的进度，并为此获得经验值。
@@ -38,13 +38,13 @@ Code::Stats 插件允许您跟踪您在 Obsidian 编辑器中编写 Markdown 的
 
 描述
 
-这是一个 Obsidian 插件，用于向<https://codestats.net/api> 发送更新。>
+这是一个 Obsidian 插件，用于向<https://codestats.net/api>发送更新。
 
 Obsidian 的 Code::Stats 插件允许您跟踪编码进度，并通过在 Obsidian 编辑器中编写代码来获得经验值。使用此插件，您可以使用 Code::Stats API 将 XP 数据发送到您的 Code::Stats 帐户。
 
 要开始使用，请简单地安装插件并在设置面板中输入您的 Code::Stats API 密钥。然后，插件将监听 Obsidian 编辑器中的 keyup 事件，并在您键入字符时将 XP 数据发送到 Code::Stats。
 
-请注意，您需要一个 Code::Stats 帐户和 API 密钥才能使用此插件。您可以在<https://codestats.net/signup> 免费注册帐户，并且 API 密钥可以在 <https://codestats.net/my/machines> 页面上找到或创建。>
+请注意，您需要一个 Code::Stats 帐户和 API 密钥才能使用此插件。您可以在<https://codestats.net/signup>免费注册帐户，并且 API 密钥可以在<https://codestats.net/my/machines>页面上找到或创建。
 
 该项目使用 TypeScript 提供类型检查和文档。
 
@@ -61,9 +61,7 @@ API 文档
 ## 概述
 
 **插件 ID：** codestats
-
 **开发者：** Denis (MiskaMyasa) Zaitsev
-
 **移动支持：** 否
 
 #codestats #obsidian #plugin

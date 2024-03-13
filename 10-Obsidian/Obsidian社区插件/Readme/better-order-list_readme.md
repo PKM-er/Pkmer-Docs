@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117264313
 title: Obsidian 插件：【Readme】Better Order List
 tags: ['obsidian插件', 'readme']
 description: 支持新的换行顺序列表，如1、或(1)等。

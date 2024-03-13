@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522273891
 title: Obsidian 插件：【Readme】Zettelkasten Outliner
 tags: ['obsidian插件', 'readme']
 description: 为您的Zettelkasten提供一个列表表示。

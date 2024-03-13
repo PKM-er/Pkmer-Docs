@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322210916
 title: Obsidian 插件：KOReader Highlights
 tags: ['obsidian插件', 'readme']
 description: 从KOReader同步高亮/笔记

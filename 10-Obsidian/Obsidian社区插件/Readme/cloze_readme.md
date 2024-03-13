@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611073183
 title: Obsidian 插件：【Readme】Cloze
 tags: ['obsidian插件', 'readme']
 description: 将高亮、下划线、加粗或任何选定的文本转换为填空题。

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322251643
 title: Obsidian 插件：Query all the things
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中对数据执行基于SQL的查询，并使用模板按照您的要求进行渲染。

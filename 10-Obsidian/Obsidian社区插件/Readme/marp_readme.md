@@ -1,5 +1,5 @@
 ---
-uid: 20230818002059
+uid: 2023080322220732
 title: Obsidian 插件：Marp
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian上使用Marp的插件。
@@ -51,9 +51,7 @@ modified: 20230101000000
 ## 导出幻灯片
 
 **您需要安装 Node.js 才能导出幻灯片，因为此插件使用 `npx` 命令来导出幻灯片。**
-
 您可以从 PDF、PPTX 和 HTML 中选择您喜欢的格式。
-
 **输出始终在 `Downloads` 目录中。**
 
 ![export](docs/export.gif)
@@ -61,9 +59,7 @@ modified: 20230101000000
 ## 嵌入图片
 
 在导出时，图片会被转换为 Base64 并嵌入到文件中，因此您可以共享带有嵌入本地图片的幻灯片。
-
 图片路径可以是相对于存储库根目录的绝对路径或相对路径。
-
 Wikilink 格式（`![[path/to/image.png]]`）在幻灯片中**不起作用**，**您必须使用 CommomMark 格式（`![alt](path/to/image.png)`）**。
 
 ## 过渡效果
@@ -83,7 +79,6 @@ Wikilink 格式（`![[path/to/image.png]]`）在幻灯片中**不起作用**，*
 ### 启用自动重新加载
 
 类型：切换
-
 默认：开启
 
 如果开启，当 Markdown 文件保存时，预览将自动更新。
@@ -91,7 +86,6 @@ Wikilink 格式（`![[path/to/image.png]]`）在幻灯片中**不起作用**，*
 ### 在分割标签中启用开放预览
 
 类型：切换
-
 默认：开启
 
 启用在分割标签中打开预览的功能。如果禁用，则会在与 Markdown 文件相同的分割中创建一个新的标签页。
@@ -108,7 +102,7 @@ Wikilink 格式（`![[path/to/image.png]]`）在幻灯片中**不起作用**，*
 
 #### 示例：如果将 `MarpTheme` 设置为 `主题文件夹位置`
 
-```html
+```text
 <你的笔记库>
 └── MarpTheme  ← 创建这个文件夹
     ├── beamer.css  ← 然后在这里保存自定义的 CSS！

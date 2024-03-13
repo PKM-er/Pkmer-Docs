@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011360097
 title: Obsidian 插件：【Readme】Mini Toolbar
 tags: ['obsidian插件', 'readme']
 description: Obsidian中编辑器中的迷你上下文工具栏。

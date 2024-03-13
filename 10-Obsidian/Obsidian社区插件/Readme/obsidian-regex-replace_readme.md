@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Regex Find and Replace
+uid: 2023080322255048
+title: Obsidian 插件：Regex Find and Replace
 tags: ['obsidian插件', 'readme']
 description: 提供一个可选择支持正则表达式和范围（全文或文本选择）的查找/替换对话框。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Regex Find and Replace
+# Obsidian 插件：Regex Find and Replace
 
 > [!Note] 插件名片
 > - 插件名称：Regex Find and Replace
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 支持 Obsidian 的桌面和移动版本。
 
-![Regex FindReplace对话框](https://cdn.pkmer.cn/covers/obsidian-regex-replace_2_0.png!pkmer)
+![Regex FindReplace对话框](res/dialog.png)
 
 如何使用
 

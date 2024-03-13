@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219294958
 title: Obsidian 插件：【Readme】Augmented Canvas
 tags: ['obsidian插件', 'readme']
 description: Augment Canvas with AI features.

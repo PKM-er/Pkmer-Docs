@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611075071
 title: Obsidian 插件：【Readme】Finnish Spellcheck
 tags: ['obsidian插件', 'readme']
 description: 使用Voikko的芬兰语拼写检查器。/ 使用Voikko的芬兰语拼写检查器。

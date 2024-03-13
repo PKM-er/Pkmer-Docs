@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322294221
 title: Obsidian 插件：WordPress
 tags: ['obsidian插件', 'readme']
 description: 一个插件，用于将您的Obsidian文档发布到WordPress

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219312619
 title: Obsidian 插件：【Readme】Goban SGF
 tags: ['obsidian插件', 'readme']
 description: 记录围棋对局（SGF格式棋盘）。

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Canvas Mindmap
+uid: 2023080322153456
+title: Obsidian 插件：Canvas Mindmap
 tags: ['obsidian插件', 'readme']
 description: 一个插件，可以让你的画布像思维导图一样工作。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Canvas Mindmap
+# Obsidian 插件：Canvas Mindmap
 
 > [!Note] 插件名片
 > - 插件名称：Canvas Mindmap
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 一个插件，可以让你的画布像思维导图一样工作。
 
-![Canvas Mindmap](https://cdn.pkmer.cn/covers/canvas-mindmap_new.gif)
+![Canvas Mindmap](https://cdn.pkmer.cn/covers/canvas-mindmap_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ modified: 20230101000000
 
 ## 展示
 
-![展示](https://cdn.pkmer.cn/covers/canvas-mindmap_1_0.gif)
+![展示](https://raw.githubusercontent.com/Quorafind/obsidian-canvas-mindmap/master/showcase.gif)
 
 # 如何安装
 

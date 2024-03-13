@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Reveal file in explorer
+uid: 2023080322260660
+title: Obsidian 插件：Reveal file in explorer
 tags: ['obsidian插件', 'readme']
 description: 点击标题栏可在资源管理器中显示活动文件，并且（可选）在打开文件时折叠其他目录。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Reveal file in explorer
+# Obsidian 插件：Reveal file in explorer
 
 > [!Note] 插件名片
 > - 插件名称：Reveal file in explorer
@@ -47,10 +47,10 @@ modified: 20230101000000
 
 设置：
 
-![演示](https://cdn.pkmer.cn/covers/reveal-file-in-explorer_2_0.jpeg!pkmer)
+![演示](settings.jpg)
 
 注意：如果禁用“打开文件时显示”，与其相关的其他设置将被隐藏
 
-![演示](https://cdn.pkmer.cn/covers/reveal-file-in-explorer_2_1.gif)
+![演示](reveal.gif)
 
 编辑：添加了一个选项，可以排除某些文件夹在打开时显示

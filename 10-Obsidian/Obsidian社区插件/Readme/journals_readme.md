@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117285064
 title: Obsidian 插件：【Readme】Journals
 tags: ['obsidian插件', 'readme']
 description: 管理您的日志。

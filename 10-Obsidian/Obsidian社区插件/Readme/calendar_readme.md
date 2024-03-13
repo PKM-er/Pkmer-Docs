@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Calendar
+uid: 2023080322152747
+title: Obsidian 插件：Calendar
 tags: ['导航工具', '日志类', '日期相关', '效率', 'obsidian插件', 'readme']
 description: 为 Obsidian 添加日历功能，可以在日历中跳转和查看自己的是否有待办未完成，也可以跳转到对应的日记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Calendar
+# Obsidian 插件：Calendar
 
 > [!Note] 插件名片
 > - 插件名称：Calendar
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这个插件为 [Obsidian](https://obsidian.md/) 创建了一个简单的日历视图，用于可视化和导航你的日记笔记。
 
-![screenshot-full](https://cdn.pkmer.cn/covers/calendar_1_0.png!pkmer)
+![screenshot-full](https://raw.githubusercontent.com/liamcain/obsidian-calendar-plugin/master/images/screenshot-full.png)
 
 使用方法
 
@@ -128,13 +128,13 @@ modified: 20230101000000
 
 就像其他侧边栏视图（例如反向链接、大纲）一样，可以通过右键单击视图图标来关闭日历视图。
 
-![如何关闭](https://cdn.pkmer.cn/covers/calendar_2_0.png!pkmer)
+![如何关闭](./images/how-to-close.png)
 
 我不小心关闭了日历。如何重新打开它？
 
 如果您关闭了日历小部件（右键单击面板导航并单击关闭），您可以通过命令面板重新打开视图。只需搜索“Calendar: Open view”。
 
-![how-to-reopen](https://cdn.pkmer.cn/covers/calendar_2_1.png!pkmer)
+![how-to-reopen](./images/how-to-reopen.png)
 
 如何让日历从星期一开始？
 
@@ -175,7 +175,7 @@ modified: 20230101000000
 
 尽管日历出现在右侧边栏中，但并不意味着它必须留在那里。随意将其拖动到左侧边栏，或者（如果屏幕空间足够）拖动到主内容区域。如果将其移出边栏，甚至可以固定视图；非常适合更高级的平铺布局！
 
-![如何固定](https://cdn.pkmer.cn/covers/calendar_2_2.png!pkmer)
+![如何固定](./images/how-to-pin.png)
 
 ### 在新的分割窗口中打开每日笔记
 
@@ -189,7 +189,7 @@ modified: 20230101000000
 
 如果您想要将周末与工作日区分开来进行样式设置，您可以将 `var(--color-background-weekend)` 设置为您想要的任何颜色。
 
-![how-to-weekend](https://cdn.pkmer.cn/covers/calendar_2_3.png!pkmer)
+![how-to-weekend](./images/how-to-weekend.png)
 
 每周笔记（已弃用）
 

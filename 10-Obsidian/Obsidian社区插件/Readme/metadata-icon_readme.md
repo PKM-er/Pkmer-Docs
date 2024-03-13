@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219322061
 title: Obsidian 插件：【Readme】Metadata Icon
 tags: ['obsidian插件', 'readme']
 description: 为您的属性设置自定义图标。

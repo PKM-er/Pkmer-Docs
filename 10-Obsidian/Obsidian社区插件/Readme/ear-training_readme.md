@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219305766
 title: Obsidian 插件：【Readme】Ear Training
 tags: ['obsidian插件', 'readme']
 description: Get ear training exercises inside your vault.

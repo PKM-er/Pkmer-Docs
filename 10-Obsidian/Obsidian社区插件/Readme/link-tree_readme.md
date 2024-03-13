@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011355613
 title: Obsidian 插件：【Readme】Link Tree
 tags: ['obsidian插件', 'readme']
 description: 将文件链接和反向链接视为可递归展开、可过滤的列表，具有可编辑的文本，结合了Dynalist和WorkFlowy等大纲工具的结构和Obsidian的灵活性。

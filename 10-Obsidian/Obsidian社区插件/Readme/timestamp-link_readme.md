@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522272385
 title: Obsidian 插件：【Readme】Timestamp Link
 tags: ['obsidian插件', 'readme']
 description: 复制带有时间戳的链接到区块、标题和注释。

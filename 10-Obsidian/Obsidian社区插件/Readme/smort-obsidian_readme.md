@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322270979
 title: Obsidian 插件：Smort
 tags: ['obsidian插件', 'readme']
 description: 将Smort.io文章添加到Obsidian中。Smort.io让您轻松编辑、注释和共享文章。

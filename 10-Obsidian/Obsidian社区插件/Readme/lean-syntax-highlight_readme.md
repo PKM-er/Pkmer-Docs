@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219315380
 title: Obsidian 插件：【Readme】Lean Syntax Highlight
 tags: ['obsidian插件', 'readme']
 description: 提供了对Lean编程语言的实时语法高亮显示

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Notes dater
+uid: 2023080322230440
+title: Obsidian 插件：Notes dater
 tags: ['obsidian插件', 'readme']
 description: 将活动笔记的创建日期和最后更新日期添加到状态栏。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Notes dater
+# Obsidian 插件：Notes dater
 
 > [!Note] 插件名片
 > - 插件名称：Notes dater
@@ -23,8 +23,6 @@ modified: 20230101000000
 ## 概述
 
 将活动笔记的创建日期和最后更新日期添加到状态栏。
-
-![Notes dater](https://cdn.pkmer.cn/covers/notes-dater.png!pkmer)
 
 > [!tip] 原文出处
 >
@@ -42,7 +40,7 @@ modified: 20230101000000
 
 该插件在下图中突出显示的信息：
 
-![插件使用截图](https://cdn.pkmer.cn/covers/notes-dater_2_0.png!pkmer)
+![插件使用截图](screenshot.png)
 
 它适用于所有文件，包括笔记、图片和 PDF 文件。
 

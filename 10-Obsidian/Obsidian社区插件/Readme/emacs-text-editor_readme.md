@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611074362
 title: Obsidian 插件：【Readme】Emacs text editor
 tags: ['obsidian插件', 'readme']
 description: 部分模拟 Emacs 文本编辑器以用于 Obsidian。
@@ -95,7 +95,7 @@ make uninstall
 ## 已知问题
 
 1. 移动到行首的快捷键 (Ctrl + a) 与全选操作冲突。解决方案：使用 Home/End + Shift。
-2. 与现有热键冲突。解决方案：使用额外的插件来自定义绑定，例如 <<https://github.com/tgrosinger/leader-hotkeys-obsidian>。>
+2. 与现有热键冲突。解决方案：使用额外的插件来自定义绑定，例如 <https://github.com/tgrosinger/leader-hotkeys-obsidian>。
 
 
 

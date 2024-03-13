@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522272018
 title: Obsidian 插件：【Readme】Teleprompter
 tags: ['obsidian插件', 'readme']
 description: 实时演示和视频制作的电子白板窗口。
@@ -884,5 +884,4 @@ modified: 20230101000000
 </a>
 
 **[Definer - 弹出式词典和翻译工具](https://lumetrium.com/definer)**
-
 即时为您选择或输入的单词和短语提供定义、翻译和搜索结果。

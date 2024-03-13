@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522242463
 title: Obsidian 插件：【Readme】Backlink Cache
 tags: ['obsidian插件', 'readme']
 description: 将反向链接缓存存储以加快`app.metadataCache.getBacklinksForFile`的速度。

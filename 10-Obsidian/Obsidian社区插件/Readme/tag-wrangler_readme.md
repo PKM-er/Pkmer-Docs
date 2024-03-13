@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Tag Wrangler
+uid: 2023080322274793
+title: Obsidian 插件：Tag Wrangler
 tags: ['文件重构', '编辑工具', '文件管理', '标签', 'obsidian插件', 'readme']
 description: 从标签面板重命名、合并、切换和搜索标签。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Tag Wrangler
+# Obsidian 插件：Tag Wrangler
 
 > [!Note] 插件名片
 > - 插件名称：Tag Wrangler
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 该插件为 [Obsidian.md](https://obsidian.md) 标签窗格添加了一个上下文菜单，提供以下操作：
 
-![标签管理器上下文菜单的图像](https://cdn.pkmer.cn/covers/tag-wrangler_1_0.png!pkmer)
+![标签管理器上下文菜单的图像](https://raw.githubusercontent.com/pjeby/tag-wrangler/master/contextmenu.png)
 
 * 打开或创建 [标签页面](#tag-pages)（**0.5.0 版本新增**）
 * [重命名标签](#renaming-tags)（以及其所有子标签）

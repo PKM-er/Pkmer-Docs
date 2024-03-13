@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011355934
 title: Obsidian 插件：【Readme】Memorization
 tags: ['obsidian插件', 'readme']
 description: 使用间隔重复算法（SM-2）生成学习索引笔记。

@@ -1,7 +1,10 @@
 ---
 uid: 20231109234455
 title: Thino 用户使用指南
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Thino 用户使用指南，你想知道 Thino 的一切都在这里
 author: Bon,PKMer
 type: other
@@ -10,10 +13,8 @@ editable: false
 modified: 20240218211329
 id: dacd7a42e067cce1
 sidebar:
-    # 为链接设置自定义顺序（数字越小显示在上方）
-    order: 2
-    # 为链接添加徽章
-    badge: 目录
+  order: 2
+  badge: 目录
 ---
 
 # Thino 用户使用指南

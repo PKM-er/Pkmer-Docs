@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121255201
 title: Obsidian 插件：【Readme】Subdivider
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记转换为嵌套文件夹，自动为每个子标题创建单独的文件。

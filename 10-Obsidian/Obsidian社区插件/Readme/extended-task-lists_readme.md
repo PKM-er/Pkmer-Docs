@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117274364
 title: Obsidian 插件：【Readme】Extended Task Lists
 tags: ['obsidian插件', 'readme']
 description: 扩展了对任务列表的阅读器视图支持，包括进行中和不会执行的任务项目。

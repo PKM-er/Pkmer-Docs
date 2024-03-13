@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522245844
 title: Obsidian 插件：【Readme】Feeds
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中创建特定主题的要点摘要。
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 在 Obsidian 中创建特定主题的要点订阅源。
 
-![image](https://cdn.pkmer.cn/covers/feeds_1_0.png!pkmer)
+![image](https://github.com/lukemt/obsidian-feeds/assets/5723/aabbf9b9-9ac6-4d5a-abbd-52017f4c0c29)
 
 ## 要求
 

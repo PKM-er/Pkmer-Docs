@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Any Block
+uid: 2023080322140516
+title: Obsidian 插件：Any Block
 tags: ['obsidian插件', 'readme']
 description: 您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如`列表转表格`。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Any Block
+# Obsidian 插件：Any Block
 
 > [!Note] 插件名片
 > - 插件名称：Any Block
@@ -66,31 +66,31 @@ modified: 20230101000000
 - list2timeline
 - title2list + list2somthing
 
-![](https://cdn.pkmer.cn/covers/any-block_2_0.png!pkmer)
+![](docs/en/png/list2table.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_1.png!pkmer)
+![](docs/en/png/list2tableT.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_2.png!pkmer)
+![](docs/en/png/list2lt.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_3.png!pkmer)
+![](docs/en/png/list2tab.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_4.png!pkmer)
+![](docs/en/png/list2mermaid.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_5.png!pkmer)
+![](docs/en/png/list2mindmap.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_6.png!pkmer)
+![](docs/en/png/titleSelector.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_7.png!pkmer)
+![](docs/en/png/addTitle.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_8.png!pkmer)
+![](docs/en/png/scroll.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_9.png!pkmer)
+![](docs/en/png/overfold.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_10.png!pkmer)
+![](docs/en/png/flod.png)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_11.gif)
+![](docs/en/png/heimu.gif)
 
-![](https://cdn.pkmer.cn/covers/any-block_2_12.png!pkmer)
+![](docs/en/png/userProcessor.png)
 
 ## 支持
 

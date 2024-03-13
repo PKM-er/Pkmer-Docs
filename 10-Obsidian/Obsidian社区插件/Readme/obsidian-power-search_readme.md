@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322245949
 title: Obsidian 插件：Power Search
 tags: ['obsidian插件', 'readme']
 description: 根据当前行搜索笔记

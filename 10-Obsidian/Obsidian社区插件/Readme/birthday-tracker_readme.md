@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611072561
 title: Obsidian 插件：【Readme】Birthday-Tracker
 tags: ['obsidian插件', 'readme']
 description: 跟踪您家人和朋友的所有生日。
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 该插件允许您追踪您家人和朋友的所有生日。
 
-![演示图片](https://cdn.pkmer.cn/covers/birthday-tracker_2_0.png!pkmer)
+![演示图片](assets/demoPlugin.png)
 
 使用方法
 
@@ -68,4 +68,4 @@ name=马茨·马蒂斯; birthday=21/03/1999
 
 您可以设置日期格式。默认为：``DD/MM/YYYY``。这是为了收集和显示日期。您还可以设置包含生日数据的文件的位置。文件名必须以 `.md` 作为后缀。默认值为：`birthdayNode.md`
 
-![演示设置](https://cdn.pkmer.cn/covers/birthday-tracker_2_1.png!pkmer)
+![演示设置](assets/demoSettings.png)

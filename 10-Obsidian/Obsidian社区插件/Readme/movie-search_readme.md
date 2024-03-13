@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219322660
 title: Obsidian 插件：【Readme】Movie Search
 tags: ['obsidian插件', 'readme']
 description: 帮助您找到电影并创建笔记。

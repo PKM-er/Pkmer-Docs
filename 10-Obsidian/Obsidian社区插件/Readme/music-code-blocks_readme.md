@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】ABC Music Notation
+uid: 2023080322133054
+title: Obsidian 插件：ABC Music Notation
 tags: ['音乐相关', 'obsidian插件', 'readme']
 description: 通过abcjs使用ABC音乐符号直接从代码块渲染乐谱
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】ABC Music Notation
+# Obsidian 插件：ABC Music Notation
 
 > [!Note] 插件名片
 > - 插件名称：ABC Music Notation
@@ -46,7 +46,7 @@ Obsidian 插件，使用 `abc` 语言指定符号，从代码块中渲染 ABC �
 
 ### 简单的歌曲
 
-![乐谱示例](https://cdn.pkmer.cn/covers/music-code-blocks_2_0.png!pkmer)
+![乐谱示例](example.png)
 
     ```music-abc
     X:1
@@ -83,7 +83,7 @@ Obsidian 插件，使用 `abc` 语言指定符号，从代码块中渲染 ABC �
 
 您可以通过在代码块顶部添加一个 JSON 字符串并在其后加上 `---` 来将自定义选项传递给 `renderAbc` 函数。请注意，在 JSON 之前或之后不能有任何空格。
 
-![带有tablatures的自定义选项示例乐谱](https://cdn.pkmer.cn/covers/music-code-blocks_2_1.jpeg!pkmer)
+![带有tablatures的自定义选项示例乐谱](example_tablatures.jpg)
 
     ```music-abc
     {

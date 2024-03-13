@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Jump to link
+uid: 2023080322205563
+title: Obsidian 插件：Jump to link
 tags: ['导航工具', 'obsidian插件', 'readme']
 description: 这个插件允许使用热键在当前文档中打开链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Jump to link
+# Obsidian 插件：Jump to link
 
 > [!Note] 插件名片
 > - 插件名称：Jump to link
@@ -42,17 +42,17 @@ Obsidian 插件：跳转到链接
 
 ### 跳转到链接
 
-![](https://cdn.pkmer.cn/covers/mrj-jump-to-link_1_0.png!pkmer)
+![](https://user-images.githubusercontent.com/5632228/99727862-27fbee80-2a7e-11eb-8af2-7303cc177fca.png)
 
 ### 跳转到任意位置（基于正则表达式的导航）
 
-![](https://cdn.pkmer.cn/covers/mrj-jump-to-link_1_1.png!pkmer)
+![](https://raw.githubusercontent.com/mrjackphil/obsidian-jump-to-link/master/screenshots/jumptoanywhere.png)
 
 ### 光速
 
 ### 设置
 
-![](https://cdn.pkmer.cn/covers/mrj-jump-to-link_2_0.png!pkmer)
+![](./screenshots/settings.png)
 
 ### 如何使用（链接导航）
 

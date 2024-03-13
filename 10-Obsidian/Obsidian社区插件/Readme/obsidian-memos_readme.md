@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2024031219354551
 title: Obsidian 插件：【Readme】Thino
 tags: ['界面相关', '笔记文件处理', '效率', 'obsidian插件', 'readme']
 description: 快速捕捉备忘录，并在侧边栏中以热图的形式显示它们。

@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611084159
 title: Obsidian 插件：【Readme】Timetracker
 tags: ['obsidian插件', 'readme']
 description: 添加一个秒表，其值可以通过热键插入到编辑器中。
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 这个 Obsidian 插件添加了一个秒表来追踪某个事物的时间。通过热键，可以将秒表的当前值插入到编辑器中，以便记录此刻的时间。
 
-秒表功能是对<https://github.com/tokuhirom/obsidian-stopwatch-plugin> 的完全重写克隆。>
+秒表功能是对<https://github.com/tokuhirom/obsidian-stopwatch-plugin>的完全重写克隆。
 
 配置
 

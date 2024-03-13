@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611075149
 title: Obsidian 插件：【Readme】Flashcard Generator
 tags: ['obsidian插件', 'readme']
 description: 这是一个为Obsidian设计的测验生成器插件。该插件可以让您在笔记中生成重要问题。

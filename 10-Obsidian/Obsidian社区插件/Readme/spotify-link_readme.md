@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522270739
 title: Obsidian 插件：【Readme】Spotify Link
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中包括你当前正在听的歌曲。
@@ -42,7 +42,9 @@ modified: 20230101000000
 
 <p align="center">
 
+
   ·
+
 
 </p>
 </div>

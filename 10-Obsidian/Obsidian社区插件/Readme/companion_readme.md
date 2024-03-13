@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Companion
+uid: 2023080322161964
+title: Obsidian 插件：Companion
 tags: ['obsidian插件', 'readme']
 description: 通过类似合作伙伴的界面，使用人工智能进行自动补全，包括ChatGPT。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Companion
+# Obsidian 插件：Companion
 
 > [!Note] 插件名片
 > - 插件名称：Companion
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 通过类似合作伙伴的界面，使用人工智能进行自动补全，包括 ChatGPT。
 
-![Companion](https://cdn.pkmer.cn/covers/companion.gif)
+![Companion](https://cdn.pkmer.cn/covers/companion.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ Companion 的自动完成功能设计得非常不显眼，以幽灵文本的形�
 
 # 演示
 
-![演示](https://cdn.pkmer.cn/covers/companion_1_0.gif)
+![演示](https://raw.githubusercontent.com/rizerphe/obsidian-companion/main/screenshots/demo.gif)
 
 # 安装
 

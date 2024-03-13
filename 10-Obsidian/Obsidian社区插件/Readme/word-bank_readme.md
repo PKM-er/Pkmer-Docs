@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022122531847
 title: Obsidian 插件：【Readme】Word Bank
 tags: ['obsidian插件', 'readme']
 description: 从您的单词文件中创建一个单词库。

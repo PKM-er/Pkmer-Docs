@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】File Color
+uid: 2023080322181075
+title: Obsidian 插件：File Color
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，用于在文件树中为文件夹和文件设置颜色。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】File Color
+# Obsidian 插件：File Color
 
 > [!Note] 插件名片
 > - 插件名称：File Color
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 文件颜色
 
-![Obsidian文件颜色横幅](https://cdn.pkmer.cn/covers/obsidian-file-color_2_0.png!pkmer)
+![Obsidian文件颜色横幅](./docs/images/hero-rounded.png)
 
 这是一个为 [Obsidian](https://obsidian.md) 设计的插件，它允许您为文件和文件夹在文件浏览器中选择颜色。
 
@@ -46,13 +46,13 @@ modified: 20230101000000
 
 通过在文件资源管理器中右键单击文件或文件夹并选择“设置颜色”来设置文件或文件夹的颜色。这将打开一个模态框，您可以在其中选择插件调色板中定义的所有颜色。
 
-![设置颜色](https://cdn.pkmer.cn/covers/obsidian-file-color_2_1.gif)
+![设置颜色](./docs/images/set-color-rounded.gif)
 
 ### 更改调色板
 
 要向调色板中添加颜色，请打开插件设置，并点击“+”按钮。然后使用颜色选择器选择颜色，并输入颜色的名称。之后，它将出现在“设置颜色”模态框中。您可以根据需要添加任意数量的颜色。
 
-![添加颜色](https://cdn.pkmer.cn/covers/obsidian-file-color_2_2.gif)
+![添加颜色](./docs/images/add-color-rounded.gif)
 
 ## 兼容性
 
@@ -73,7 +73,7 @@ modified: 20230101000000
 
     这将使下划线使用此插件定义的颜色。结果如下所示：
 
-    ![带有图标和文件夹注释的示例](https://cdn.pkmer.cn/covers/obsidian-file-color_2_3.png!pkmer)
+    ![带有图标和文件夹注释的示例](./docs/images/icons-notes-rounded.png)
 
 ---
 

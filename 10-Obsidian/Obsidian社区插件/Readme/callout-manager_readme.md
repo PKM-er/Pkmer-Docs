@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Callout Manager
+uid: 2023080322153006
+title: Obsidian 插件：Callout Manager
 tags: ['obsidian插件', 'readme']
 description: 轻松创建和自定义标注。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Callout Manager
+# Obsidian 插件：Callout Manager
 
 > [!Note] 插件名片
 > - 插件名称：Callout Manager
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 一个 [Obsidian](https://obsidian.md) 插件，使创建和配置 Callout 变得简单。
 
-![屏幕截图](https://cdn.pkmer.cn/covers/callout-manager_2_0.png!pkmer)
+![屏幕截图](docs/images/screenshot_manage_pane_darklight.png)
 
 ## 特点
 

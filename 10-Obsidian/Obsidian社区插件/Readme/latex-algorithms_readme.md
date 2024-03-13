@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322211540
 title: Obsidian 插件：LaTeX Algorithms
 tags: ['obsidian插件', 'readme']
 description: 在LaTeX中编写算法块的插件

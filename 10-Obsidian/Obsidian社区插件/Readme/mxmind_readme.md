@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219322930
 title: Obsidian 插件：【Readme】Mxmind Mindmap
 tags: ['obsidian插件', 'readme']
 description: 将Markdown文件转换为思维导图，思维导图编辑器。

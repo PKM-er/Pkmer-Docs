@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Dynamic Table of Contents
+uid: 2023080322173453
+title: Obsidian 插件：Dynamic Table of Contents
 tags: ['编辑工具', '目录/标题', 'obsidian插件', 'readme']
 description: 用于生成与您的文档大纲保持同步的目录。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Dynamic Table of Contents
+# Obsidian 插件：Dynamic Table of Contents
 
 > [!Note] 插件名片
 > - 插件名称：Dynamic Table of Contents
@@ -44,7 +44,7 @@ modified: 20230101000000
 
 一个 Obsidian 插件，用于生成与文档大纲保持同步的目录。灵感来自于 [hipstersmoothie/obsidian-plugin-toc](https://github.com/hipstersmoothie/obsidian-plugin-toc)
 
-![](https://cdn.pkmer.cn/covers/obsidian-dynamic-toc_2_0.jpeg!pkmer)
+![](media/screenshot.jpg)
 
 ## 前言
 
@@ -112,7 +112,7 @@ max_depth: 6
 
 内联样式呈现最高级别的标题，例如 H2 `## Heading 2`，您可以将其与分隔符选项配对使用，以生成类似面包屑的效果。
 
-![](https://cdn.pkmer.cn/covers/obsidian-dynamic-toc_2_1.jpeg!pkmer)
+![](media/inline-headings.jpg)
 
 请参阅 [功能请求：内联链接](https://github.com/Aidurber/obsidian-plugin-dynamic-toc/issues/42)
 
@@ -124,17 +124,17 @@ max_depth: 6
 
 **样式：圆点符号**
 
-![](https://cdn.pkmer.cn/covers/obsidian-dynamic-toc_2_2.jpeg!pkmer)
+![](media/varied-style-bullet.jpg)
 
 **样式：数字**
 
-![](https://cdn.pkmer.cn/covers/obsidian-dynamic-toc_2_3.jpeg!pkmer)
+![](media/varied-style-number.jpg)
 
 请参见 [功能请求：混合列表样式](https://github.com/Aidurber/obsidian-plugin-dynamic-toc/issues/35)
 
 ### 外部渲染支持
 
-![](https://cdn.pkmer.cn/covers/obsidian-dynamic-toc_2_4.jpeg!pkmer)
+![](media/settings.jpg)
 
 您还可以通过“外部渲染支持”设置来添加自定义注入，以与诸如 Markor 或 Gitlab 等 Markdown 阅读器兼容。例如：
 
@@ -174,11 +174,11 @@ max_depth: 6
 
 您可以通过使用命令面板并选择“插入目录”来插入目录，并选择要插入的目录。
 
-![](https://cdn.pkmer.cn/covers/obsidian-dynamic-toc_2_5.jpeg!pkmer)
+![](media/toc-command.jpg)
 
 > 插入命令
 
-![](https://cdn.pkmer.cn/covers/obsidian-dynamic-toc_2_6.jpeg!pkmer)
+![](media/toc-command-options.jpg)
 
 > 目录选项。
 > 请注意，您只会看到：
@@ -219,7 +219,7 @@ title: "## 目录"
 
 启用此选项后，将生成以下目录：
 
-![](https://cdn.pkmer.cn/covers/obsidian-dynamic-toc_2_7.jpeg!pkmer)
+![](media/inconsistent-heading-depth.jpg)
 
 > ⚠️ 请注意，Level 4和Level 3标题的深度相同
 

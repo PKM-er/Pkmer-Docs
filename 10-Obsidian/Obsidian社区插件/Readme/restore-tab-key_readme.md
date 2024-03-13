@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Restore Tab Key
+uid: 2023080322260478
+title: Obsidian 插件：Restore Tab Key
 tags: ['obsidian插件', 'readme']
 description: 恢复tab键行为：tab键插入一个tab，就像它应该的那样。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Restore Tab Key
+# Obsidian 插件：Restore Tab Key
 
 > [!Note] 插件名片
 > - 插件名称：Restore Tab Key
@@ -46,7 +46,7 @@ modified: 20230101000000
 
 ---
 
-![](https://cdn.pkmer.cn/covers/restore-tab-key_2_0.png!pkmer)\
+![](img_plugin-settings.png)\
 
 现在，Tab 键的工作方式与其他集成开发环境一样。如果您选择了一些文本并按下 Tab 键，选中的行将缩进。如果没有选中任何内容，将插入一个制表符。还有一个选项可以无论如何都插入制表符。
 
@@ -64,8 +64,8 @@ modified: 20230101000000
 
 实时预览/源代码视图：（是的，使用硬空格作为缩进后，它仍然变成了一个代码块。啊啊啊！）\
 
-![](https://cdn.pkmer.cn/covers/restore-tab-key_2_1.png!pkmer)\
+![](img_hard-spaces.png)\
 
 渲染后（阅读视图）：\
 
-![](https://cdn.pkmer.cn/covers/restore-tab-key_2_2.png!pkmer)
+![](img_hard-spaces-rendered.png)

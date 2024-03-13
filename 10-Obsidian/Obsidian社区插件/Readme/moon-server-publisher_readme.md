@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522261476
 title: Obsidian 插件：【Readme】Moon server publisher
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记直接发布到Moon服务器实例。
@@ -45,7 +45,7 @@ modified: 20230101000000
 3. 输入您的 Moon 服务器实例的 API 密钥。 _(可选)_
 使用方法
 
-![](https://cdn.pkmer.cn/covers/moon-server-publisher_2_0.png!pkmer)
+![](docs/command.png)
 
 ### 发布笔记
 
@@ -61,4 +61,4 @@ modified: 20230101000000
 
 或者你可以使用笔记的上下文菜单中的命令。
 
-![](https://cdn.pkmer.cn/covers/moon-server-publisher_2_1.png!pkmer)
+![](docs/menu.png)

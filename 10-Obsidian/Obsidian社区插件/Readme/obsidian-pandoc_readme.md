@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Obsidian Pandoc
+uid: 2023080322233760
+title: Obsidian 插件：Obsidian Pandoc
 tags: ['第三方工具集成', '转换工具', 'PDF', 'obsidian插件', 'readme']
 description: 为 Obsidian 增加将笔记导出各种文件格式的能力例如DOCX、ePub 和 PDF。此插件不能独立运行，需要配合 Pandoc 额外程序才可以。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Pandoc
+# Obsidian 插件：Obsidian Pandoc
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Pandoc
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 ## Obsidian Pandoc 插件
 
-这是一个为 Obsidian（<<https://obsidian.md>）开发的> Pandoc 导出插件。
+这是一个为 Obsidian（<https://obsidian.md>）开发的 Pandoc 导出插件。
 
 它添加了命令面板选项，可以将您的笔记导出为多种格式，包括 Word 文档、PDF、ePub 书籍、HTML 网站、PowerPoint 和 LaTeX 等等（还有很多其他格式）。这一切都要归功于 [Pandoc](https://pandoc.org/)。
 
@@ -46,7 +46,7 @@ modified: 20230101000000
 
 注意：此插件处于测试阶段，可能会有一些次要的格式问题。请务必校对输出内容！
 
-![命令面板的截图](https://cdn.pkmer.cn/covers/obsidian-pandoc_2_0.png!pkmer)
+![命令面板的截图](./command-palette.png)
 
 ## [安装](https://github.com/OliverBalfour/obsidian-pandoc/wiki/Installation)
 

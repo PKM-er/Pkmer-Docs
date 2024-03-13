@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219300849
 title: Obsidian 插件：【Readme】Chord Sheets
 tags: ['obsidian插件', 'readme']
 description: 在您的保险库中使用和弦谱（和弦在歌词上方）：和弦图表、移调、自动滚动等。在实时预览和阅读模式下工作。

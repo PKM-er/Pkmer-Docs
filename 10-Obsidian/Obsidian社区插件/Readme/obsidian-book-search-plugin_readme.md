@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322151554
 title: Obsidian 插件：Book Search
 tags: ['obsidian插件', 'readme']
 description: 帮助你找书并创建笔记。

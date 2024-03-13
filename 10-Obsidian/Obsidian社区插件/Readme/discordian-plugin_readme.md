@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322172256
 title: Obsidian 插件：Discordian Theme
 tags: ['样式工具', '界面相关', '美化', 'obsidian插件', 'readme']
 description: 配合 Discordian 主题的控制UI元素细节的插件。

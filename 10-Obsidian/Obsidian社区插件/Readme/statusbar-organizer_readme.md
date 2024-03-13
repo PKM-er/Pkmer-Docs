@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121252606
 title: Obsidian 插件：【Readme】Status Bar Organizer
 tags: ['obsidian插件', 'readme']
 description: 重新排列和隐藏状态栏元素。

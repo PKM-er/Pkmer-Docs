@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Badges
+uid: 2023080322145334
+title: Obsidian 插件：Badges
 tags: ['obsidian插件', 'readme']
 description: 在笔记中添加内联徽章/标注。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Badges
+# Obsidian 插件：Badges
 
 > [!Note] 插件名片
 > - 插件名称：Badges
@@ -80,9 +80,9 @@ modified: 20230101000000
 
 ###### 结果
 
-![](https://cdn.pkmer.cn/covers/badges_2_0.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709144540.png)
 
-![](https://cdn.pkmer.cn/covers/badges_2_1.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709144545.png)
 
 ```markdown
 `[!!紧急: 紧急]`
@@ -95,9 +95,9 @@ modified: 20230101000000
 
 ###### 结果
 
-![](https://cdn.pkmer.cn/covers/badges_2_2.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709170950.png)
 
-![](https://cdn.pkmer.cn/covers/badges_2_3.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709170943.png)
 
 #### Github
 
@@ -130,9 +130,9 @@ modified: 20230101000000
 
 ###### 结果
 
-![](https://cdn.pkmer.cn/covers/badges_2_4.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709171043.png)
 
-![](https://cdn.pkmer.cn/covers/badges_2_5.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709171053.png)
 
 ### 纯文本
 
@@ -151,9 +151,9 @@ modified: 20230101000000
 
 ###### 结果
 
-![](https://cdn.pkmer.cn/covers/badges_2_6.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709171707.png)
 
-![](https://cdn.pkmer.cn/covers/badges_2_7.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709171713.png)
 
 ### 自定义
 
@@ -190,9 +190,9 @@ modified: 20230101000000
 
 ###### 结果
 
-![](https://cdn.pkmer.cn/covers/badges_2_8.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709171541.png)
 
-![](https://cdn.pkmer.cn/covers/badges_2_9.png!pkmer)
+![](assets/Badges-demo-Obsidian-v1.3.7-20230709171534.png)
 
 ### 安装
 

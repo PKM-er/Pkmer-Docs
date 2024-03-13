@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Telegraph Publish
+uid: 2023080322275753
+title: Obsidian 插件：Telegraph Publish
 tags: ['obsidian插件', 'readme']
 description: 将你的Obsidian笔记发布到Telegraph页面上。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Telegraph Publish
+# Obsidian 插件：Telegraph Publish
 
 > [!Note] 插件名片
 > - 插件名称：Telegraph Publish
@@ -86,11 +86,11 @@ Telegraph 对 HTML 标签的支持有限，因此发布非常复杂的页面并�
 
 打开**Telegraph Publish**的设置
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_0.png!pkmer)
+![](images/settings.png)
 
 您可以看到**Access token**是空的，点击**创建新账户**按钮，新账户将被创建并自动填充访问令牌。
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_1.png!pkmer)
+![](images/settings-done.png)
 
 您可以点击 `auth_url` 在浏览器中对该账户进行身份验证，以便稍后编辑已发布的页面。
 
@@ -98,27 +98,27 @@ Telegraph 对 HTML 标签的支持有限，因此发布非常复杂的页面并�
 
 要发布新页面，首先需要打开一个 Markdown 文件，然后点击侧边栏按钮或运行名为“发布到 Telegraph”的命令。
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_2.png!pkmer)
+![](images/command-create.png)
 
-在确认模态框中点击“是”：![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_3.png!pkmer)
+在确认模态框中点击“是”：![](images/create-confirm.png)
 
 然后等待片刻，页面成功创建后，您将在下一个模态框中看到 Telegraph 页面的 URL：
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_4.png!pkmer)
+![](images/create-success.png)
 
 点击 URL 在浏览器中打开页面，如果您已经通过设置中的 `auth_url` 进行了身份验证，您将能够在页面右侧看到“编辑”按钮。
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_5.png!pkmer)
+![](images/telegraph-edit.png)
 
 现在返回到笔记，并切换到源代码模式，您会注意到 frontmatter 已更新了两个新键：`telegraph_page_url` 和 `telegraph_page_path`。它们用于跟踪笔记与 Telegraph 页面之间的连接。
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_6.png!pkmer)
+![](images/frontmatter.png)
 
 ### 更新现有页面
 
 如果您已经发布了一篇笔记，您可以更改其内容，然后再次运行**" 发布到 Telegraph"**来更新现有页面。模态框将显示如下：
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_7.png!pkmer)
+![](images/update-confirm.png)
 
 只要 frontmatter 正确且访问令牌未更改，您始终可以更新与新页面相关联的页面。
 
@@ -126,14 +126,14 @@ Telegraph 对 HTML 标签的支持有限，因此发布非常复杂的页面并�
 
 由于 Telegraph 不提供删除页面的 API，该插件提供了一个**清除 Telegraph 上已发布内容**的命令来删除已发布页面的内容。
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_8.png!pkmer)
+![](images/command-clear.png)
 
 运行该命令后，您将看到以下模态框：
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_9.png!pkmer)
+![](images/confirm-clear.png)
 
 点击**是**并等待清除过程完成。
 
-![](https://cdn.pkmer.cn/covers/obsidian-telegraph-publish_2_10.png!pkmer)
+![](images/clear-success.png)
 
 再次打开 URL，您将看到页面的内容只剩下一个 `已删除` 的单词。

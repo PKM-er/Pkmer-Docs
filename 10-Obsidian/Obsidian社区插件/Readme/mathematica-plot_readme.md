@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121194166
 title: Obsidian 插件：【Readme】Mathematica Plot
 tags: ['obsidian插件', 'readme']
 description: 使用Wolfram Mathematica 代码绘制图形。

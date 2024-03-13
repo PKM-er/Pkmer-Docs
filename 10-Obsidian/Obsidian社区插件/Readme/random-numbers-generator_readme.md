@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522264575
 title: Obsidian 插件：【Readme】Random Number Generator
 tags: ['obsidian插件', 'readme']
 description: 插入一个随机数。

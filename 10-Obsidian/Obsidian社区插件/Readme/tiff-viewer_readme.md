@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219333938
 title: Obsidian 插件：【Readme】Tiff Viewer
 tags: ['obsidian插件', 'readme']
 description: 查看.tif(f)文件，通过生成相同格式的.tif(f).png文件进行复制。

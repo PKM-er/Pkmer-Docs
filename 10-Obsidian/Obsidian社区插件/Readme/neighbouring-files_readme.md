@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121200566
 title: Obsidian 插件：【Readme】Neighbouring Files
 tags: ['obsidian插件', 'readme']
 description: 在当前目录中导航到下一个和上一个文件

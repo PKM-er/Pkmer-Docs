@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611072875
 title: Obsidian 插件：【Readme】Cardify
 tags: ['obsidian插件', 'readme']
 description: 为markdown文件中的块创建链接，并为文件夹中的每个链接生成markdown文件。实现将卡片拖放到画布上的功能。

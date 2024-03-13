@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522262243
 title: Obsidian 插件：【Readme】Nothing
 tags: ['obsidian插件', 'readme']
 description: 添加一个空操作命令来禁用热键。

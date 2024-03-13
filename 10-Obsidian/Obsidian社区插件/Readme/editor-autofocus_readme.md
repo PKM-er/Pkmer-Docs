@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522245059
 title: Obsidian 插件：【Readme】Editor Autofocus
 tags: ['obsidian插件', 'readme']
 description: 打开新文件时自动对焦编辑器。

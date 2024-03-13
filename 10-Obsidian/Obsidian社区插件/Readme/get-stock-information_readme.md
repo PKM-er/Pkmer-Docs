@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322190855
 title: Obsidian 插件：Get Stock Information
 tags: ['obsidian插件', 'readme']
 description: 接受一个股票代码，并返回一个带有最新股票信息的调用块。

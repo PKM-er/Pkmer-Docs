@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Kindle Export
+uid: 2023080322210565
+title: Obsidian 插件：Kindle Export
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记导出到您的Kindle，包括嵌入式笔记和图像。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Kindle Export
+# Obsidian 插件：Kindle Export
 
 > [!Note] 插件名片
 > - 插件名称：Kindle Export
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将您的笔记导出到您的 Kindle，包括嵌入式笔记和图像。
 
-![Kindle Export](https://cdn.pkmer.cn/covers/obsidian-kindle-export.gif)
+![Kindle Export](https://cdn.pkmer.cn/covers/obsidian-kindle-export.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -44,9 +44,9 @@ modified: 20230101000000
 
 ![](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fstaneks.de%2Fapps%2Fmd2mobi%2Fcounter&cacheSeconds=3) ![GitHub manifest version (path)](https://img.shields.io/github/manifest-json/v/SimeonLukas/obsidian-kindle-export/main?label=版本)
 
-![](https://cdn.pkmer.cn/covers/obsidian-kindle-export_1_2.gif)
+![](https://github.com/SimeonLukas/obsidian-kindle-export/raw/main/files/screenrecord.gif)
 
-![](https://cdn.pkmer.cn/covers/obsidian-kindle-export_1_3.jpeg!pkmer)
+![](https://github.com/SimeonLukas/obsidian-kindle-export/raw/main/files/ebook.jpg)
 
 我之前使用 Calibre 和 Pandoc-Export 插件，但我想知道是否有一种简便的方法可以通过一个命令导出你的.md 文件并添加所有嵌入的文件，这样你就不需要使用.pdf 文件了。该插件创建了一个*Kindle: Export*命令，它将所有嵌入的图片和.md 文件发送到一个 PHP 后端（[Host your own private PHP Backend!](https://github.com/SimeonLukas/Obsidian2Kindle)），该后端将其转换为.epub 文件并通过电子邮件发送到你的 Kindle/PocketBook。如果你没有自己托管，你将向我的服务器发送私人数据。请注意这一点。我不会保存或读取你的数据！
 

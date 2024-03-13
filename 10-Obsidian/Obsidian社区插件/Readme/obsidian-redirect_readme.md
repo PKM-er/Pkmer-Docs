@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Redirect
+uid: 2023080322254859
+title: Obsidian 插件：Redirect
 tags: ['obsidian插件', 'readme']
 description: 通过允许为任何文件设置别名，特别是非标记文件的管理更加容易。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Redirect
+# Obsidian 插件：Redirect
 
 > [!Note] 插件名片
 > - 插件名称：Redirect
@@ -100,13 +100,13 @@ Lorem ipsum...
 
 #### 文件菜单
 
-![](https://cdn.pkmer.cn/covers/obsidian-redirect_2_0.png!pkmer)
+![](img/right-click-menu-item.png)
 
 右键单击重定向的文件将显示“打开重定向源文件”选项，该选项将打开配置了重定向的文件，或者会询问要打开哪个文件。
 
 #### 从系统文件浏览器中删除文件
 
-![](https://cdn.pkmer.cn/covers/obsidian-redirect_2_1.png!pkmer)
+![](img/status-bar.png)
 
 该插件添加了一个状态栏按钮，名为“Redirect drop”。
 

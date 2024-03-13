@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522273311
 title: Obsidian 插件：【Readme】TreeFocus
 tags: ['obsidian插件', 'readme']
 description: 根据预定义或自定义规则，在文件资源管理器（导航）中突出显示、调暗和设置样式您的文件和文件夹。
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 ![Dynamic JSON
 
-Badge](<<https://img.shields.io/badge/dynamic/json?url=https>%3A%2F%2Fraw.githubusercontent.com%2FiOSonntag%2Fobsidian-plugin-treefocus%2Fmaster%2Fpackage.json&query=%24.version&label=版本)>
+Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FiOSonntag%2Fobsidian-plugin-treefocus%2Fmaster%2Fpackage.json&query=%24.version&label=版本)
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FiOSonntag%2Fobsidian-plugin-treefocus%2Fmaster%2Fmanifest.json&query=%24.id&label=obsidian-plugin&color=rgb(124%2C%2058%2C%20237))
 

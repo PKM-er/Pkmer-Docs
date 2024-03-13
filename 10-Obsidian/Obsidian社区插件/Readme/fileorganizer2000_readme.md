@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219294095
 title: Obsidian 插件：【Readme】AI File Organizer 2000
 tags: ['obsidian插件', 'readme']
 description: Automatically organize notes, annotate photos and audio using AI.

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322204634
 title: Obsidian 插件：Jelly Snippets
 tags: ['obsidian插件', 'readme']
 description: 一个简单的文本片段插件。

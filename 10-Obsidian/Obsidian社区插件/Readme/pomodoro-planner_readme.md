@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219325661
 title: Obsidian 插件：【Readme】Pomodoro Planner
 tags: ['obsidian插件', 'readme']
 description: 生成一个番茄工作法的计划安排。

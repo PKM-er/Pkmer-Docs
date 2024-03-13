@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117272949
 title: Obsidian 插件：【Readme】Desk
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中一目了然地查看笔记的桌面。需要Dataview作为依赖。

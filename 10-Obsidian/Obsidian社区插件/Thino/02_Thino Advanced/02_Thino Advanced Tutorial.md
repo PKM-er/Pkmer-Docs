@@ -1,13 +1,17 @@
 ---
 uid: 20231109234451
 title: Thino 进阶使用教程
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Thino 进阶使用教程
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
 modified: 20240218211056
+id: 872b94ce8d5643c8
 ---
 
 # Thino 进阶使用教程

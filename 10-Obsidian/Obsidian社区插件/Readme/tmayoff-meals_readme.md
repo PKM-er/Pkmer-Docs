@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121194922
 title: Obsidian 插件：【Readme】Meal Plan
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中进行餐饮计划。

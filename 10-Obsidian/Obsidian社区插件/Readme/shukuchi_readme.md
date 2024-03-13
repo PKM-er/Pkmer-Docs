@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Shukuchi
+uid: 2023080322265101
+title: Obsidian 插件：Shukuchi
 tags: ['obsidian插件', 'readme']
 description: 跳转到链接（URL或内部链接）并跳转到它们的目标位置。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Shukuchi
+# Obsidian 插件：Shukuchi
 
 > [!Note] 插件名片
 > - 插件名称：Shukuchi
@@ -59,7 +59,7 @@ Shukuchi 是一个 Obsidian 插件，可以让您传送到链接（URL 或内部
 
 ## ⚙️ 选项
 
-![可能传送的方向](https://cdn.pkmer.cn/covers/shukuchi_1_2.png!pkmer)
+![可能传送的方向](https://raw.githubusercontent.com/tadashi-aikawa/shukuchi/master/resources/direction-of-possible-teleportation.png)
 
 📱 移动设备支持
 

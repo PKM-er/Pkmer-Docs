@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Neo4j Graph View
+uid: 2023080322225020
+title: Obsidian 插件：Neo4j Graph View
 tags: ['界面相关', '搜索/排序', 'obsidian插件', 'readme']
 description: Neo4j的高级图形可视化和查询插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Neo4j Graph View
+# Obsidian 插件：Neo4j Graph View
 
 > [!Note] 插件名片
 > - 插件名称：Neo4j Graph View
@@ -60,9 +60,9 @@ Neo4j 的高级图形可视化和查询插件。
 
 ## Neo4j 图形视图
 
-![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_0.png!pkmer)
+![](https://raw.githubusercontent.com/HEmile/obsidian-neo4j-graph-view/main/neo4j-graph-view/resources/styled_screenshot.png)
 
-文档位于<<https://juggl.io/Neo4j+Graph+View/Neo4j+Graph+View+Plugin>。>
+文档位于<https://juggl.io/Neo4j+Graph+View/Neo4j+Graph+View+Plugin>。
 
 加入新的 Discord 服务器以讨论插件：<https://discord.gg/sAmSGpaPgM>
 
@@ -83,7 +83,7 @@ Neo4j 的高级图形可视化和查询插件。
 
 还提供了一个包含计划功能的 [路线图](https://juggl.io/Roadmap)。
 
-![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_1.gif)
+![](https://raw.githubusercontent.com/HEmile/obsidian-neo4j-graph-view/main/neo4j-graph-view/resources/obsidian%20neo4j%20plugin.gif)
 
 ### 安装
 
@@ -108,7 +108,7 @@ Neo4j 的高级图形可视化和查询插件。
 
 使用语言 `cypher` 创建代码块。在这个代码块中，编写你的 Cypher 查询。然后，当光标位于这个代码块上时，使用 Obsidian 命令“Neo4j Graph View: Execute Cypher query”执行查询。示例：
 
-![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_2.png!pkmer)
+![](https://raw.githubusercontent.com/HEmile/obsidian-neo4j-graph-view/main/neo4j-graph-view/resources/cypher_querying.png)
 
 ### 可能的问题
 
@@ -136,13 +136,13 @@ Neo4j 的高级图形可视化和查询插件。
 
 [Neo4j Bloom](https://neo4j.com/product/bloom/) 是一款非常强大的图形可视化软件。与 Obsidian 中的嵌入式图形视图相比，它在自定义方面提供了更多的自由。
 
-![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_3.jpeg!pkmer)
+![](https://raw.githubusercontent.com/HEmile/obsidian-neo4j-graph-view/main/neo4j-graph-view/resources/bloom_screenshot.jpg)
 
 ### GraphXR
 
 [GraphXR](https://www.kineviz.com/) 是一个 3D 图形视图，看起来非常华丽！
 
-![](https://cdn.pkmer.cn/covers/neo4j-graph-view_1_4.gif)
+![](https://raw.githubusercontent.com/HEmile/obsidian-neo4j-graph-view/main/neo4j-graph-view/resources/graphxr.gif)
 
 ### Neo4j 浏览器
 

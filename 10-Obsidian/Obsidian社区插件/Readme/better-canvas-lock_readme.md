@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522242926
 title: Obsidian 插件：【Readme】Better Canvas Lock
 tags: ['obsidian插件', 'readme']
 description: 增强Canvas中的只读模式，完全锁定滚动、缩放和拖放功能！

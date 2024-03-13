@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219311030
 title: Obsidian 插件：【Readme】Fit
 tags: ['obsidian插件', 'readme']
 description: Minimalist File gIT (FIT) to sync your files across mobile and desktop devices using GitHub.

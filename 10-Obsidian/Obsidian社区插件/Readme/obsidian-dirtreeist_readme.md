@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322172090
 title: Obsidian 插件：Dirtreeist
 tags: ['obsidian插件', 'readme']
 description: 从代码块中的markdown列表渲染出目录结构图。

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219295479
 title: Obsidian 插件：【Readme】BookFusion
 tags: ['obsidian插件', 'readme']
 description: 将您的BookFusion亮点和注释导入到您的保险库中。

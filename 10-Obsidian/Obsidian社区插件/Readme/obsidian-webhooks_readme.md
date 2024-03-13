@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023080322235008
 title: Obsidian 插件：Obsidian Webhooks
 tags: ['obsidian插件', 'readme']
 description: 通过Webhooks连接编辑器与物联网的插件和服务。
@@ -46,7 +46,7 @@ Obsidian 插件和服务，通过 Webhooks 将您的编辑器连接到物联网�
 ## 设置一个示例规则
 
 1. 从发布页面安装 Obsidian 插件
-2. 前往<https://obsidian-buffer.web.app> 注册该服务>
+2. 前往<https://obsidian-buffer.web.app>注册该服务
 3. 生成一个登录令牌，并将其安装到 Obsidian 的 Webhook 插件设置中
 4. 使用服务网站上的 Webhook URL 与您喜欢的自动化服务进行连接
 5. 对于 Spotify 示例用例，将 IFTTT 连接到 Spotify

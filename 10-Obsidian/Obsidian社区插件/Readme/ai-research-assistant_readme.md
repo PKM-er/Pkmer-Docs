@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611071837
 title: Obsidian 插件：【Readme】AI Research Assistant
 tags: ['obsidian插件', 'readme']
 description: 一个用于生成式AI模型（如OpenAI的ChatGPT）的快速工程研究实用程序，可用于存档和搜索对话，并实时编辑对话的上下文/记忆。
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian AI 研究助手
 
-![忘记之前的消息](https://cdn.pkmer.cn/covers/ai-research-assistant_2_0.png!pkmer)
+![忘记之前的消息](./docs/assets/forget-memory.png)
 
 > 使用 ChatGPT API 进行 Prompt 工程的高级研究工具，构建更好的提示和 AI 集成。
 
@@ -95,23 +95,23 @@ modified: 20230101000000
 
 该插件将 Prompt Engineering 和研究 AI 工具以及语言模型（如 OpenAI 的 ChatGPT）集成到 Obsidian 中。
 
-![基本界面和对话摘要](https://cdn.pkmer.cn/covers/ai-research-assistant_2_1.png!pkmer)
+![基本界面和对话摘要](./docs/assets/basic-view.png)
 
 它允许您手动或自动保存与 AI 模型的对话，然后使用 Obsidian 强大的搜索和标记功能来组织和分析它们。
 
-![查看对话的前言](https://cdn.pkmer.cn/covers/ai-research-assistant_2_2.png!pkmer)
+![查看对话的前言](./docs/assets/preamble-summary.png)
 
 嵌入式内存管理器允许您编辑包含在对话上下文中的消息。
 
-![将先前的消息标记为核心记忆](https://cdn.pkmer.cn/covers/ai-research-assistant_2_3.png!pkmer)
+![将先前的消息标记为核心记忆](./docs/assets/core-memory.png)
 
 它允许您在 Obsidian 中查看、搜索、标记和链接对话，并查看对话详细信息及其原始输入和输出的摘要。
 
-![查看对话交流](https://cdn.pkmer.cn/covers/ai-research-assistant_2_4.png!pkmer)
+![查看对话交流](./docs/assets/conversation-view.png)
 
-![查看发送给API的实际输入](https://cdn.pkmer.cn/covers/ai-research-assistant_2_5.png!pkmer)
+![查看发送给API的实际输入](./docs/assets/raw-user-input.png)
 
-![查看来自API的响应的原始JSON](https://cdn.pkmer.cn/covers/ai-research-assistant_2_6.png!pkmer)
+![查看来自API的响应的原始JSON](./docs/assets/raw-response.png)
 
 ## 特点
 

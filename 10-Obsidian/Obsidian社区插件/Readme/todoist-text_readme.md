@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】Todoist Text
+uid: 2023080322283140
+title: Obsidian 插件：Todoist Text
 tags: ['obsidian插件', 'readme']
 description: 将您的 Todoist 任务与 Markdown 复选框绑定到一起。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Todoist Text
+# Obsidian 插件：Todoist Text
 
 > [!Note] 插件名片
 > - 插件名称：Todoist Text
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将您的 Todoist 任务与 Markdown 复选框绑定到一起。
 
-![Todoist Text](https://cdn.pkmer.cn/covers/todoist-text.gif)
+![Todoist Text](https://cdn.pkmer.cn/covers/todoist-text.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这个 Obsidian 插件以文本为中心的方式，将你的 Todoist 任务与 Markdown 复选框集成在一起。
 
-演示：![demo](https://cdn.pkmer.cn/covers/todoist-text_1_0.gif)
+演示：![demo](https://raw.githubusercontent.com/wesmoncrief/obsidian-todoist-text/master/demo.gif)
 
 # 使用方法
 
@@ -89,4 +89,4 @@ modified: 20230101000000
 
 归属
 
-我从<https://github.com/liamcain/obsidian-periodic-notes> 复制了>“文件夹建议”设置功能 - 谢谢！
+我从<https://github.com/liamcain/obsidian-periodic-notes>复制了“文件夹建议”设置功能 - 谢谢！

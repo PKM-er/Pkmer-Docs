@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322211976
 title: Obsidian 插件：Leader Hotkeys
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 为任何命令（如tmux或vim）添加领导者热键支持

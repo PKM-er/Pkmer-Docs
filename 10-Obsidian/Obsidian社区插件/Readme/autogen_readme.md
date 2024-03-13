@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117263457
 title: Obsidian 插件：【Readme】Autogen
 tags: ['obsidian插件', 'readme']
 description: 在笔记中根据提示自动生成内容

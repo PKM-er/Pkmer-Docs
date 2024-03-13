@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Tagged Documents Viewer
+uid: 2023080322275042
+title: Obsidian 插件：Tagged Documents Viewer
 tags: ['obsidian插件', 'readme']
 description: 打开一个模态窗口，其中包含所有包含特定标签或标签的文档的可滚动内容。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Tagged Documents Viewer
+# Obsidian 插件：Tagged Documents Viewer
 
 > [!Note] 插件名片
 > - 插件名称：Tagged Documents Viewer
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 该插件允许您在一个单独的可滚动模态框中查看具有给定标签或一组标签的所有文档。我可以想象出这个插件的各种用途，但我创建它是为了一个特定的工作流程，我每个工作日都会记录日志，使用标签来链接重复出现的主题。然后，我可能会发现我想要浏览我曾经写过的关于 CSS 的所有内容（例如），而不必逐个点击每个文档。
 
-![image modal](https://cdn.pkmer.cn/covers/obsidian-plugin-tagged-documents-viewer_2_0.png!pkmer)
+![image modal](./images/modal.png)
 
 使用方法
 
@@ -65,7 +65,7 @@ modified: 20230101000000
 - **点击时打开模态框**（默认开启）。将此设置关闭将会禁用在点击标签时打开模态框。
 - **需要按下 Alt/Option 键**（默认关闭）。将此设置开启将会使模态框只在按住 ALT 或 OPTION 键的同时点击标签时打开。
 
-![图像设置](https://cdn.pkmer.cn/covers/obsidian-plugin-tagged-documents-viewer_2_1.png!pkmer)
+![图像设置](./images/settings.png)
 
 ## 可能的未来发展
 

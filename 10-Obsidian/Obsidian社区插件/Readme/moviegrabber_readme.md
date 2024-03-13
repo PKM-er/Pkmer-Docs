@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611081158
 title: Obsidian 插件：【Readme】moviegrabber
 tags: ['obsidian插件', 'readme']
 description: 从公共API中获取电影数据，并将其转换为可以与dataview和属性一起使用的注释。

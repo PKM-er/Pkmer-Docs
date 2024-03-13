@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522263403
 title: Obsidian 插件：【Readme】Periodic Table
 tags: ['obsidian插件', 'readme']
 description: 在侧边栏中查看周期表

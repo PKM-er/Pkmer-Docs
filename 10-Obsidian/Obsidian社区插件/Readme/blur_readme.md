@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Blur
+uid: 2023080322151380
+title: Obsidian 插件：Blur
 tags: ['obsidian插件', 'readme']
 description: 创建混淆的文本块。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Blur
+# Obsidian 插件：Blur
 
 > [!Note] 插件名片
 > - 插件名称：Blur
@@ -99,9 +99,9 @@ modified: 20230101000000
 
 ## 结果
 
-![浅色模式下的结果截图](https://cdn.pkmer.cn/covers/blur_2_0.png!pkmer)
+![浅色模式下的结果截图](assets/results-light.png)
 
-![深色模式下的结果截图](https://cdn.pkmer.cn/covers/blur_2_1.png!pkmer)
+![深色模式下的结果截图](assets/results-dark.png)
 
 ---
 
@@ -143,7 +143,7 @@ modified: 20230101000000
 和
 4. **编辑器** - `切换` 以在鼠标悬停时显示混淆的文本
 
-![插件样式设置的截图](https://cdn.pkmer.cn/covers/blur_2_2.png!pkmer)
+![插件样式设置的截图](assets/style-settings.png)
 
 ##### 用于设置样式的 `CSS` 片段
 

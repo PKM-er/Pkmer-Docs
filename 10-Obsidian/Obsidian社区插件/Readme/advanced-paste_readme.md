@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Advanced Paste
+uid: 2023080322134618
+title: Obsidian 插件：Advanced Paste
 tags: ['obsidian插件', 'readme']
 description: 该插件提供了高级粘贴命令，并使您能够创建自定义的粘贴转换。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Advanced Paste
+# Obsidian 插件：Advanced Paste
 
 > [!Note] 插件名片
 > - 插件名称：Advanced Paste
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 该插件提供了高级粘贴命令，并使您能够创建自定义的粘贴转换。
 
-![Advanced Paste](https://cdn.pkmer.cn/covers/advanced-paste_new.gif)
+![Advanced Paste](https://cdn.pkmer.cn/covers/advanced-paste_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -69,7 +69,7 @@ modified: 20230101000000
 
 默认转换将使用 [turndown](https://github.com/mixmark-io/turndown) 和 [turndown-plugin-gfm](https://github.com/mixmark-io/turndown-plugin-gfm) 将 HTML 转换为 Markdown。它还将删除空标题和链接。
 
-![展示](https://cdn.pkmer.cn/covers/advanced-paste_2_0.gif)
+![展示](images/remove-empty-links.gif)
 
 ### 待办事项
 

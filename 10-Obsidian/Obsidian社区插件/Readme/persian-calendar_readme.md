@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219324926
 title: Obsidian 插件：【Readme】Persian Calendar
 tags: ['obsidian插件', 'readme']
 description: 波斯日历用于根据波斯太阳（夏历）日历管理周期性笔记。

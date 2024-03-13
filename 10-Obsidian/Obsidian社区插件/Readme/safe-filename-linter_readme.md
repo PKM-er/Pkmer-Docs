@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011361172
 title: Obsidian 插件：【Readme】Safe Filename Linter
 tags: ['obsidian插件', 'readme']
 description: 检查文件名中的无效或有问题的字符

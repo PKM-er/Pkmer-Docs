@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Obsidian Markdown export
+uid: 2023080322232990
+title: Obsidian 插件：Obsidian Markdown export
 tags: ['obsidian插件', 'readme']
 description: 这是一个Obsidian的Markdown导出插件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian Markdown export
+# Obsidian 插件：Obsidian Markdown export
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian Markdown export
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这是一个 Obsidian 的 Markdown 导出插件。
 
-![Obsidian Markdown export](https://cdn.pkmer.cn/covers/obsidian-markdown-export-plugin_new.gif)
+![Obsidian Markdown export](https://cdn.pkmer.cn/covers/obsidian-markdown-export-plugin_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -38,13 +38,13 @@ modified: 20230101000000
 
 # Obsidian Markdown 导出
 
-这是一个为 Obsidian（<<https://obsidian.md>）设计的> Markdown 导出插件。
+这是一个为 Obsidian（<https://obsidian.md>）设计的 Markdown 导出插件。
 
 它可以让你一键将 Markdown 导出为一个包（包括图片）。
 
 ---
 
-![screenshot](https://cdn.pkmer.cn/covers/obsidian-markdown-export-plugin_2_0.gif)
+![screenshot](./export.gif)
 
 ## 特点
 

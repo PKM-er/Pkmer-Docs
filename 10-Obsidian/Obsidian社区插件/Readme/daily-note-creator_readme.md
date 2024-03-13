@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117272222
 title: Obsidian 插件：【Readme】Daily note creator
 tags: ['obsidian插件', 'readme']
 description: Automatically creates missing daily notes

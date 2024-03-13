@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】Obsidian_to_Anki
+uid: 2023080322235098
+title: Obsidian 插件：Obsidian_to_Anki
 tags: ['第三方工具集成', '学习', 'obsidian插件', 'readme']
 description: 这是一个 Anki 集成插件！专为高效批量导出而设计。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsidian_to_Anki
+# Obsidian 插件：Obsidian_to_Anki
 
 > [!Note] 插件名片
 > - 插件名称：Obsidian_to_Anki
@@ -121,8 +121,7 @@ modified: 20230101000000
 * **Obsidian 集成** - 链接到制作闪卡的文件，完整的链接和图像嵌入支持。
 * **自定义语法** - 使用**正则表达式**，添加自定义语法以生成**适合您的笔记**。一些示例：
   * RemNote 单行样式。`This is how to use::Remnote single-line style`
-
-  ![Remnote 1](https://cdn.pkmer.cn/covers/obsidian-to-anki-plugin_2_0.png!pkmer)
+  ![Remnote 1](Images/Remnote_1.png)
 
   * 标题段落样式。
 
@@ -133,7 +132,7 @@ modified: 20230101000000
   This style is suitable for having the header as the front, and the answer as the back
 
   </pre>
-  ![Header 1](https://cdn.pkmer.cn/covers/obsidian-to-anki-plugin_2_1.png!pkmer)
+  ![Header 1](Images/Header_1.png)
 
   * 问题答案样式。
 
@@ -142,7 +141,7 @@ modified: 20230101000000
   A: Just like this.
   </pre>
 
-  ![Question 1](https://cdn.pkmer.cn/covers/obsidian-to-anki-plugin_2_2.png!pkmer)
+  ![Question 1](Images/Question_1.png)
 
   * Neuracache #flashcard样式。
 
@@ -151,7 +150,7 @@ modified: 20230101000000
   The next lines then become the back of the flashcard
   </pre>
 
-  ![Neuracache 1](https://cdn.pkmer.cn/covers/obsidian-to-anki-plugin_2_3.png!pkmer)
+  ![Neuracache 1](Images/Neuracache_1.png)
 
   * Ruled 样式
 
@@ -161,7 +160,7 @@ modified: 20230101000000
   You need at least three '-' between the front and back of the card.
   </pre>
 
-  ![Ruled 1](https://cdn.pkmer.cn/covers/obsidian-to-anki-plugin_2_4.png!pkmer)
+  ![Ruled 1](Images/Ruled_1.png)
 
   * Markdown 表格样式
 
@@ -173,7 +172,7 @@ modified: 20230101000000
 
   </pre>
 
-  ![Table 2](https://cdn.pkmer.cn/covers/obsidian-to-anki-plugin_2_5.png!pkmer)
+  ![Table 2](Images/Table_2.png)
 
   * 填空段落样式
 
@@ -181,6 +180,6 @@ modified: 20230101000000
   The idea of {cloze paragraph style} is to be able to recognise any paragraphs that contain {cloze deletions}.
   </pre>
 
-  ![Cloze 1](https://cdn.pkmer.cn/covers/obsidian-to-anki-plugin_2_6.png!pkmer)
+  ![Cloze 1](Images/Cloze_1.png)
 
 请注意，**所有自定义语法默认关闭**，必须通过配置文件将其编程到脚本中 - 详细信息请参阅 Wiki。

@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117283670
 title: Obsidian 插件：【Readme】Image Inline
 tags: ['obsidian插件', 'readme']
 description: 粘贴您的图像，不要附加文件。

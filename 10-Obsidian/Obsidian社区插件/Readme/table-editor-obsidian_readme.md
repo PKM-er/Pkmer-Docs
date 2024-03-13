@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Advanced Tables
+uid: 2023080322134900
+title: Obsidian 插件：Advanced Tables
 tags: ['界面相关', '编辑工具', '表格', '效率', 'obsidian插件', 'readme']
 description: 改进 Obsidian 内的表格书写，对齐，格式化的书写体验
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Advanced Tables
+# Obsidian 插件：Advanced Tables
 
 > [!Note] 插件名片
 > - 插件名称：Advanced Tables
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 改进 Obsidian 内的表格书写，对齐，格式化的书写体验
 
-![Advanced Tables](https://cdn.pkmer.cn/covers/table-editor-obsidian.gif)
+![Advanced Tables](https://cdn.pkmer.cn/covers/table-editor-obsidian.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -51,7 +51,7 @@ modified: 20230101000000
 
 ## 演示
 
-![基本功能](https://cdn.pkmer.cn/covers/table-editor-obsidian_1_0.gif)
+![基本功能](https://raw.githubusercontent.com/tgrosinger/advanced-tables-obsidian/main/resources/screenshots/basic-functionality.gif)
 
 如何使用
 
@@ -70,7 +70,7 @@ modified: 20230101000000
 
 ## Markdown 中的公式和电子表格
 
-![公式演示](https://cdn.pkmer.cn/covers/table-editor-obsidian_1_1.gif)
+![公式演示](https://raw.githubusercontent.com/tgrosinger/advanced-tables-obsidian/main/resources/screenshots/formulas-demo.gif)
 
 有关使用公式的更多信息，请访问 [帮助文档](https://github.com/tgrosinger/advanced-tables-obsidian/blob/main/docs/help.md)。
 

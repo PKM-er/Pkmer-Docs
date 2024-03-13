@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219331206
 title: Obsidian 插件：【Readme】Seafile
 tags: ['obsidian插件', 'readme']
 description: 在Seafile上使用跨设备同步笔记。

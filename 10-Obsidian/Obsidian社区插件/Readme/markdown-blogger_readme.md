@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Markdown Blogger
+uid: 2023080322215932
+title: Obsidian 插件：Markdown Blogger
 tags: ['obsidian插件', 'readme']
 description: 允许开发者将Markdown笔记推送到他们的本地博客、作品集或静态网站。适用于Astro.js、Next.js以及任何配置为渲染Markdown页面的框架。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Markdown Blogger
+# Obsidian 插件：Markdown Blogger
 
 > [!Note] 插件名片
 > - 插件名称：Markdown Blogger
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许开发者将 Markdown 笔记推送到他们的本地博客、作品集或静态网站。适用于 Astro.js、Next.js 以及任何配置为渲染 Markdown 页面的框架。
 
-![Markdown Blogger](https://cdn.pkmer.cn/covers/markdown-blogger_new.gif)
+![Markdown Blogger](https://cdn.pkmer.cn/covers/markdown-blogger_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这个插件适用于 [Obsidian](https://obsidian.md)，允许开发者将 Markdown 笔记即时推送到他们的本地博客、作品集或静态网站项目中。与 [Astro.js](https://astro.build)、[Next.js](https://nextjs.org) 以及任何其他配置为渲染 Markdown 页面的框架一起使用。
 
-![markdown-blogger-demo](https://cdn.pkmer.cn/covers/markdown-blogger_2_0.gif)
+![markdown-blogger-demo](/images/md-blogger-demo.gif)
 
 在 Obsidian 中撰写 Markdown 笔记的好处，无需手动创建文件并将内容复制粘贴到本地项目中。同时也更容易保持这两个文件的同步。
 

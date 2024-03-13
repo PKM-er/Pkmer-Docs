@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522245281
 title: Obsidian 插件：【Readme】Enhance YouTube Links
 tags: ['obsidian插件', 'readme']
 description: 从YouTube视频获取元数据

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219301545
 title: Obsidian 插件：【Readme】Confluence Sync
 tags: ['obsidian插件', 'readme']
 description: 同步笔记与Confluence

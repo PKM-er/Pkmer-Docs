@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Adamantine Pick
+uid: 2023080322133636
+title: Obsidian 插件：Adamantine Pick
 tags: ['obsidian插件', 'readme']
 description: Obsidian的可嵌入式Pikchr图表渲染器插件
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Adamantine Pick
+# Obsidian 插件：Adamantine Pick
 
 > [!Note] 插件名片
 > - 插件名称：Adamantine Pick
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obsidian 的可嵌入式 Pikchr 图表渲染器插件
 
-![Adamantine Pick](https://cdn.pkmer.cn/covers/adamantine-pick.gif)
+![Adamantine Pick](https://cdn.pkmer.cn/covers/adamantine-pick.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ Obsidian 的可嵌入式 Pikchr 图表渲染器插件
 
 演示
 
-![adamantine-pick-demo](https://cdn.pkmer.cn/covers/adamantine-pick_1_2.gif)
+![adamantine-pick-demo](https://user-images.githubusercontent.com/40695473/214959908-ae7b23f2-02f4-4c54-815e-7204ae318911.gif)
 
 使用带有 3 个反引号（波浪线）的注释来标记 `pikchr`，以获取 SVG
 
@@ -65,11 +65,11 @@ Obsidian 的可嵌入式 Pikchr 图表渲染器插件
 
 看到了吗？3 页免费包装脚本（插件）的“荒谬的书呆子价值”
 
-![adamantine_note_sample](https://cdn.pkmer.cn/covers/adamantine-pick_1_3.png!pkmer)
+![adamantine_note_sample](https://github.com/notlibrary/obsidian-adamantine-pick/assets/40695473/82085fce-46fc-4bed-b14a-e8e7d9eb5cab)
 
 电阻器颜色表计算？当然
 
-![resistor_calculator_sample](https://cdn.pkmer.cn/covers/adamantine-pick_1_4.png!pkmer)
+![resistor_calculator_sample](https://github.com/notlibrary/obsidian-adamantine-pick/assets/40695473/e16d1b41-e408-40d8-98b4-884812cb2708)
 
 ## 安装
 

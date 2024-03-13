@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322235416
 title: Obsidian 插件：Obsidian42 - Text Transporter
 tags: ['编辑工具', '快捷键', 'obsidian插件', 'readme']
 description: 您的保险库中文本的高级文本工具
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 了解更多关于文本传送器的信息：<https://tfthacker.com/transporter>
 
-如果您对阅读我写的文章感兴趣，请在 Medium 上查看我的文章：<<https://bit.ly/o42-medium>。>
+如果您对阅读我写的文章感兴趣，请在 Medium 上查看我的文章：<https://bit.ly/o42-medium>。
 
 如果您喜欢这个插件，请随意在 [https://ko-fi/TfTHacker](https://ko-fi.com/TfTHacker) 上给我买杯咖啡。
 

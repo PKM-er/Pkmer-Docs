@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322284487
 title: Obsidian 插件：Translator
 tags: ['obsidian插件', 'readme']
 description: 用于翻译所选文本。

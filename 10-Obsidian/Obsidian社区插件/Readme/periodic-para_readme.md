@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023082011360686
 title: Obsidian 插件：【Readme】Periodic PARA
 tags: ['obsidian插件', 'readme']
 description: 协助使用定期笔记进行PARA系统的实践。
@@ -24,8 +24,6 @@ modified: 20230101000000
 
 协助使用定期笔记进行 PARA 系统的实践。
 
-![Periodic PARA](https://cdn.pkmer.cn/covers/periodic-para.png!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/quanru/obsidian-periodic-para/main/README.md)
@@ -42,9 +40,9 @@ modified: 20230101000000
 
 ### 视图
 
-![](https://cdn.pkmer.cn/covers/periodic-para_2_0.png!pkmer)
+![](assets/periodic-para-plugin-en.png)
 
-![](https://cdn.pkmer.cn/covers/periodic-para_2_1.png!pkmer)
+![](assets/periodic-para-plugin.png)
 
 创建周期性笔记和 PARA 笔记
 

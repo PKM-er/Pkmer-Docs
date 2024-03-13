@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121201734
 title: Obsidian 插件：【Readme】Object Writer
 tags: ['obsidian插件', 'readme']
 description: Utility for object writing with random words.

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Apply Patterns
+uid: 2023080322141080
+title: Obsidian 插件：Apply Patterns
 tags: ['搜索/排序', 'obsidian插件', 'readme']
 description: 对文本进行按顺序应用自定义查找和替换模式。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Apply Patterns
+# Obsidian 插件：Apply Patterns
 
 > [!Note] 插件名片
 > - 插件名称：Apply Patterns
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 对文本进行按顺序应用自定义查找和替换模式。
 
-![Apply Patterns](https://cdn.pkmer.cn/covers/obsidian-apply-patterns.gif)
+![Apply Patterns](https://cdn.pkmer.cn/covers/obsidian-apply-patterns.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -66,7 +66,7 @@ modified: 20230101000000
 - *主题是 [Solarized Light](https://github.com/Slowbad/obsidian-solarized)。*
 - *该主题已经通过使用 [此CSS片段](https://gist.github.com/jglev/30f289deb911cc8f8645c946e42f13a6) 进行了增强，用于任务管理。有关在 Obsidian 中添加 CSS 片段的说明，请参见 [此处](https://help.obsidian.md/Advanced+topics/Customizing+CSS)。*
 
-![任务管理示例用法](https://cdn.pkmer.cn/covers/obsidian-apply-patterns_2_0.gif)
+![任务管理示例用法](docs/img/example-task-management.gif)
 
 已定义了两个“模式”，每个模式都有一个“规则”。可以通过将此 JSON 复制到剪贴板中，并在 Obsidian 中的插件设置选项卡中单击“从剪贴板导入”按钮来将这些设置导入到插件中：
 
@@ -112,7 +112,7 @@ modified: 20230101000000
 
 第二个模式“重新安排已关闭的任务”将影响具有关闭复选框（`-[x]`）和 `#DONE` 标签以及短语“(Completed on...)”的行。**它将使用一个打开的复选框、一个 `#TODO` 标签和一个未来两周的“Due by”日期来替换匹配项。**
 
-![添加、移动、删除和验证规则](https://cdn.pkmer.cn/covers/obsidian-apply-patterns_2_1.gif)
+![添加、移动、删除和验证规则](docs/img/settings-add-remove-validate.gif)
 
 插件的设置选项卡允许创建和删除模式，以及使用系统剪贴板导入和导出模式。规则可以在模式内上下移动，并在其 `{{date}}` 字符串和正则表达式语法中进行正确性验证。每个规则还可以设置 [正则表达式模式](https://www.regular-expressions.info/refmodifiers.html)。
 

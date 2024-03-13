@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023082011360356
 title: Obsidian 插件：【Readme】Obligator
 tags: ['obsidian插件', 'readme']
 description: Obligator是daily-todos的替代品，它会将未勾选的待办事项复制到指定标题下。
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 Obligator 是 daily-todos 的替代品，它会将未勾选的待办事项复制到指定标题下。
 
-![Obligator](https://cdn.pkmer.cn/covers/obligator.gif)
+![Obligator](https://cdn.pkmer.cn/covers/obligator.gif!pkmer)
 
 > [!tip] 原文出处
 >

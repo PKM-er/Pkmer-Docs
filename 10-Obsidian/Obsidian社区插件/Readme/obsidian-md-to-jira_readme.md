@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322220563
 title: Obsidian 插件：Markdown to Jira Converter
 tags: ['obsidian插件', 'readme']
 description: 一个插件，用于将笔记或选择转换为jira标记，反之亦然。
@@ -65,7 +65,7 @@ modified: 20230101000000
 
 如果插件尚未在社区列表中：
 
-- 在此处下载最新的发布文件**main.js**和**manifest.json**（<<https://github.com/muckmuck96/obsidian-md-to-jira/releases/latest>）>
+- 在此处下载最新的发布文件**main.js**和**manifest.json**（<https://github.com/muckmuck96/obsidian-md-to-jira/releases/latest>）
 - 在要安装的保险库的 `.obsidian/plugins` 文件夹中创建一个名为 `obsidian-md-to-jira` 的文件夹
 - 将发布的**main.js**和**manifest.json**放置在那里
 - 现在您应该能够在 obsidian 的插件选项卡中启用该插件

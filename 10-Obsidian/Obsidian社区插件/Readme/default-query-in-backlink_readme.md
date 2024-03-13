@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219304556
 title: Obsidian 插件：【Readme】Default query in backlinks
 tags: ['obsidian插件', 'readme']
 description: 在文档中的反向链接搜索输入框中自动输入默认查询。

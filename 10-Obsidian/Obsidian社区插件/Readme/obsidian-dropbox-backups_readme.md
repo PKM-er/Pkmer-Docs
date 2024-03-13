@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Aut-O-Backups
+uid: 2023080322142394
+title: Obsidian 插件：Aut-O-Backups
 tags: ['备份', 'obsidian插件', 'readme']
 description: 自动备份您整个保险库到Dropbox。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Aut-O-Backups
+# Obsidian 插件：Aut-O-Backups
 
 > [!Note] 插件名片
 > - 插件名称：Aut-O-Backups
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 自动备份您整个保险库到 Dropbox。
 
-![Aut-O-Backups](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups.gif)
+![Aut-O-Backups](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 每 20 分钟自动备份您的整个存储库到 Dropbox（在 10 分钟延迟后开始）。
 
-![Obsidian Aut-O-Backups logo](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups_2_0.png!pkmer)
+![Obsidian Aut-O-Backups logo](Aut-O-Backups_256x256.png)
 
 备份存储在这里：
 
@@ -78,7 +78,7 @@ modified: 20230101000000
 
 演示：
 
-![Demo](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups_1_0.gif)
+![Demo](https://github.com/ryanpcmcquen/obsidian-dropbox-backups/raw/master/obsidian-dropbox-backups-demo-v2.gif)
 
 ### 设置
 
@@ -92,7 +92,7 @@ modified: 20230101000000
 
 此应用程序需要以下 Dropbox 权限：
 
-![IMG_5695](https://cdn.pkmer.cn/covers/obsidian-dropbox-backups_1_1.png!pkmer)
+![IMG_5695](https://user-images.githubusercontent.com/772937/119743485-dbcfa380-be3e-11eb-9872-ffae4c4fa02c.png)
 
 - `account_info.read`：您无法关闭此权限，我认为实际上我并不需要它。您可以在源代码中看到我没有从中读取任何内容。
 - `files.metadata.read`：您也无法关闭此权限。我从不读取或列出文件，所以它不应该是必需的，但 Dropbox 不允许关闭它。

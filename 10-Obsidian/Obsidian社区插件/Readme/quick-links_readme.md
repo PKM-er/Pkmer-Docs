@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322252085
 title: Obsidian 插件：Quick Links
 tags: ['obsidian插件', 'readme']
 description: 创建快速链接快捷方式到维基百科和其他网站

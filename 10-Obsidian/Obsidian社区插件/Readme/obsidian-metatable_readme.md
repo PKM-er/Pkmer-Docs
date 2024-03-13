@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Metatable
+uid: 2023080322223097
+title: Obsidian 插件：Metatable
 tags: ['界面相关', '美化', 'obsidian插件', 'readme']
 description: 将  front-matter 显示为可折叠表格样式
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Metatable
+# Obsidian 插件：Metatable
 
 > [!Note] 插件名片
 > - 插件名称：Metatable
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 一个用于 [Obsidian] 的插件，可以显示完整的前置元数据块，而不仅仅是标签列表。
 
-![截图](https://cdn.pkmer.cn/covers/obsidian-metatable_2_0.png!pkmer)
+![截图](screenshot.png)
 
 ## 更新日志
 

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322154895
 title: Obsidian 插件：Chemical Structure Renderer
 tags: ['obsidian插件', 'readme']
 description: 使用Ketcher和Indigo Service将SMILES字符串渲染为PNG或SVG格式的化学结构。

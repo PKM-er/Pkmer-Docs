@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023120522255932
 title: Obsidian 插件：【Readme】Markdown Image Caption
 tags: ['obsidian插件', 'readme']
 description: 生成基于Markdown的图像标题
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 轻松生成图片标题。完全基于 Markdown。与 Obsidian Publish 和任何 Markdown 编辑器兼容。
 
-![](https://cdn.pkmer.cn/covers/md-image-caption_1_0.gif)
+![](https://share.cleanshot.com/NTvJk3hg+)
 
 演示： <https://www.youtube.com/watch?v=dee_OzcibLI>
 

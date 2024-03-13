@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023102611072320
 title: Obsidian 插件：【Readme】autoLiterature
 tags: ['obsidian插件', 'readme']
 description: 协助您记录文学笔记。
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 协助您记录文学笔记。
 
-![autoLiterature](https://cdn.pkmer.cn/covers/auto-literature.gif)
+![autoLiterature](https://cdn.pkmer.cn/covers/auto-literature.gif!pkmer)
 
 > [!tip] 原文出处
 >

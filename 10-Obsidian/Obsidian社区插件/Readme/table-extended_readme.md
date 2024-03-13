@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Table Extended
+uid: 2023080322274097
+title: Obsidian 插件：Table Extended
 tags: ['编辑工具', '界面相关', '表格', 'obsidian插件', 'readme']
 description: 非可视化操作表格，但因为表格增加了新扩展，能够支持单元格合并等效果，但是需要你熟悉下新的语法格式
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Table Extended
+# Obsidian 插件：Table Extended
 
 > [!Note] 插件名片
 > - 插件名称：Table Extended
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 使用 MultiMarkdown 表格语法扩展 Obsidian 中的基本表格。
 
-![image](https://cdn.pkmer.cn/covers/table-extended_1_0.png!pkmer)
+![image](https://user-images.githubusercontent.com/31102694/123046427-ad89b780-d42e-11eb-9588-b7028954bcfc.png)
 
 - [扩展表格](#table-extended)
   - [简介](#intro)

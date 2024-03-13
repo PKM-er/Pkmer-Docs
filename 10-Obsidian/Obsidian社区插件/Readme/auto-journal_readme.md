@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611072158
 title: Obsidian 插件：【Readme】Auto Journal
 tags: ['obsidian插件', 'readme']
 description: 像日常笔记一样的有主见的日志自动化，但可以为Obsidian未打开的那些日子进行补充。

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Wrap with shortcuts
+uid: 2023080322294706
+title: Obsidian 插件：Wrap with shortcuts
 tags: ['obsidian插件', 'readme']
 description: 将所选文本用快捷键来快速添加固定标签。例如：下划线、下标、ルビ（ふりがな）
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Wrap with shortcuts
+# Obsidian 插件：Wrap with shortcuts
 
 > [!Note] 插件名片
 > - 插件名称：Wrap with shortcuts
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将所选文本用快捷键来快速添加固定标签。例如：下划线、下标、ルビ（ふりがな）
 
-![Wrap with shortcuts](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts.gif)
+![Wrap with shortcuts](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -46,11 +46,11 @@ modified: 20230101000000
 
 创建一个**包装器**
 
-![创建一个包装器](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts_2_0.gif)
+![创建一个包装器](./WrapWithShortcut-AddWrapper.gif)
 
 #### 重新启动 Obsidian，进入设置 -> 快捷键
 
-![重新映射快捷键](https://cdn.pkmer.cn/covers/obsidian-wrap-with-shortcuts_2_1.gif)
+![重新映射快捷键](./WrapWithShortcut-MapHotkeys.gif)
 
 使用**包装器**
 

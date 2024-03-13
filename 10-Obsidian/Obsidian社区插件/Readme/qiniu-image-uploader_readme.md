@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611082369
 title: Obsidian 插件：【Readme】Qiniu Image Uploader
 tags: ['obsidian插件', 'readme']
 description: 将剪贴板中的图像上传到qiniu.com，并将上传的图像嵌入到您的笔记中。

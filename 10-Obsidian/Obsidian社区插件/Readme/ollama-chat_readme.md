@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121204165
 title: Obsidian 插件：【Readme】Ollama Chat
 tags: ['obsidian插件', 'readme']
 description: 一个为Obsidian设计的插件，可以借助Ollama和LlamaIndex与您的笔记进行聊天。

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Canvas CSS class
+uid: 2023080322153185
+title: Obsidian 插件：Canvas CSS class
 tags: ['白板相关', '样式工具', 'obsidian插件', 'readme']
 description: 给画布添加一个CSS类，还有其他属性。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Canvas CSS class
+# Obsidian 插件：Canvas CSS class
 
 > [!Note] 插件名片
 > - 插件名称：Canvas CSS class
@@ -66,7 +66,7 @@ modified: 20230101000000
 
 此外，设置还允许您使用文件的文件路径为未打开的画布文件添加 CSS 类。即使您没有打开它，也可以向画布文件添加 CSS 类。
 
-![](https://cdn.pkmer.cn/covers/canvas-css-class_2_0.png!pkmer)
+![](docs/add_css_class_settings.png)
 
 > **警告**
 > 如果编辑了文件路径（即移动或重命名文件），则 CSS 类将不再应用。您将需要在设置中编辑文件路径。
@@ -78,7 +78,7 @@ modified: 20230101000000
 - 编辑 CSS 类（重命名）
 - 在 body 和 workspace 之间更改添加行为
 
-![](https://cdn.pkmer.cn/covers/canvas-css-class_2_1.png!pkmer)
+![](docs/canvas-settings.png)
 
 > **注意**
 > - 您不需要将 `.canvas` 添加到文件路径中。插件会为您添加

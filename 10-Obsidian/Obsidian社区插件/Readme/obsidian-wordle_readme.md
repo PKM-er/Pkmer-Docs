@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322294019
 title: Obsidian 插件：Wordle for Obsidian
 tags: ['obsidian插件', 'readme']
 description: 创建一个可以玩 Wordle 的视图。

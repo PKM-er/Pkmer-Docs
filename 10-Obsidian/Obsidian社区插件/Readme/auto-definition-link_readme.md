@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219295195
 title: Obsidian 插件：【Readme】Auto Definition Link
 tags: ['obsidian插件', 'readme']
 description: Automatically converts text to definition links within the current folder when you type them.

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322272238
 title: Obsidian 插件：Static File Server
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将黑曜石子文件夹作为静态文件服务器托管。
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 # Obsidian 静态文件服务器
 
-这是 Obsidian（<<https://obsidian.md>）的一个插件。>
+这是 Obsidian（<https://obsidian.md>）的一个插件。
 
 它允许您将 Obsidian 子文件夹作为静态文件服务器进行托管。
 

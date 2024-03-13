@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322243599
 title: Obsidian 插件：Pathfinder 2E Action Icons
 tags: ['obsidian插件', 'readme']
 description: 这是一个在Obsidian中显示Pathfinder 2E动作图标的插件。

@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117283112
 title: Obsidian 插件：【Readme】iCloud Contacts
 tags: ['obsidian插件', 'readme']
 description: 从iCloud导入联系人，并为每个联系人管理一个备注。

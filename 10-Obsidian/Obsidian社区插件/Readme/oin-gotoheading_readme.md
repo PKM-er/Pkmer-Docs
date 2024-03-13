@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611075619
 title: Obsidian 插件：【Readme】Go To Heading
 tags: ['obsidian插件', 'readme']
 description: 快速在标题之间导航

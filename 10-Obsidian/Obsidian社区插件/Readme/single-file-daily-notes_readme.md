@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121243785
 title: Obsidian 插件：【Readme】Single File Daily Notes
 tags: ['obsidian插件', 'readme']
 description: 创建和管理每日笔记在一个单一的文件中。

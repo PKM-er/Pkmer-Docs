@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522244600
 title: Obsidian 插件：【Readme】Discord Message Formatter
 tags: ['obsidian插件', 'readme']
 description: 将Discord客户端中的消息复制粘贴到Obsidian中，即可完美格式化。

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Code Block Labels
+uid: 2023080322160296
+title: Obsidian 插件：Code Block Labels
 tags: ['obsidian插件', 'readme']
 description: 为篱笆代码块添加标签
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Code Block Labels
+# Obsidian 插件：Code Block Labels
 
 > [!Note] 插件名片
 > - 插件名称：Code Block Labels
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 为篱笆代码块添加标签
 
-![Code Block Labels](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels.gif)
+![Code Block Labels](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -42,11 +42,11 @@ modified: 20230101000000
 
 在围栏代码块的第一行末尾（如果适用的话，在语言之后），将标签放在花括号（`{}`）中以添加标签。
 
-![命名代码块的演示](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels_2_0.gif)
+![命名代码块的演示](docs/demo.gif)
 
 该插件还可以选择配置为将语言作为标签显示，如果没有设置显式标签的话（默认情况下启用 - 可以在设置面板中关闭）。
 
-![使用语言作为标签的截图](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels_2_1.png!pkmer)
+![使用语言作为标签的截图](docs/language-label.png)
 
 标签被分配了 "codeblock-label" 类，因此可以使用 CSS 进行样式设置：
 
@@ -63,7 +63,7 @@ modified: 20230101000000
 }
 ```
 
-![带有自定义 CSS 的带标签代码块的截图](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels_2_2.png!pkmer)
+![带有自定义 CSS 的带标签代码块的截图](docs/custom-css.png)
 
 刷新错误
 
@@ -81,7 +81,7 @@ modified: 20230101000000
 
 要手动修复此问题，只需对代码块的任何其他部分进行更改，它应该触发更新。
 
-![显示错误操作的动画](https://cdn.pkmer.cn/covers/obsidian-codeblock-labels_2_3.gif)
+![显示错误操作的动画](docs/refresh-bug.gif)
 
 实时预览
 

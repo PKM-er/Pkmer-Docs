@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117264068
 title: Obsidian 插件：【Readme】Better Math in Callouts & Blockquotes
 tags: ['obsidian插件', 'readme']
 description: 在引用和块引用中添加更好的数学渲染支持的实时预览。

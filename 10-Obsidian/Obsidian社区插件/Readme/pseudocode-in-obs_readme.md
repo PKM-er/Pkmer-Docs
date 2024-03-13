@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322251023
 title: Obsidian 插件：Pseudocode
 tags: ['obsidian插件', 'readme']
 description: 帮助在代码块中渲染类似LaTeX风格的伪代码。

@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611082765
 title: Obsidian 插件：【Readme】Search Templates Library
 tags: ['obsidian插件', 'readme']
 description: 允许您保存搜索模板以供将来重复使用。

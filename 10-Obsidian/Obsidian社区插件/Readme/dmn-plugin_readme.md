@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】DMN Plugin
+uid: 2023080322172487
+title: Obsidian 插件：DMN Plugin
 tags: ['obsidian插件', 'readme']
 description: 该插件可以使用dmn-js查看DMN。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】DMN Plugin
+# Obsidian 插件：DMN Plugin
 
 > [!Note] 插件名片
 > - 插件名称：DMN Plugin
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 该插件可以使用 dmn-js 查看 DMN。
 
-![DMN Plugin](https://cdn.pkmer.cn/covers/dmn-plugin.gif)
+![DMN Plugin](https://cdn.pkmer.cn/covers/dmn-plugin.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -87,7 +87,7 @@ url: [[my-diagram.dmn]]
 
 ### 示例
 
-![示例](https://cdn.pkmer.cn/covers/dmn-plugin_2_0.gif)
+![示例](example/dmn-plugin.gif)
 
 ## 如何进行开发
 

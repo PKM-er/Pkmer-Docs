@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Packrat
+uid: 2023080322242241
+title: Obsidian 插件：Packrat
 tags: ['obsidian插件', 'readme']
 description: 使用任务插件创建和完成的重复任务的已完成实例进行管理。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Packrat
+# Obsidian 插件：Packrat
 
 > [!Note] 插件名片
 > - 插件名称：Packrat
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用任务插件创建和完成的重复任务的已完成实例进行管理。
 
-![Packrat](https://cdn.pkmer.cn/covers/tasks-packrat-plugin.gif)
+![Packrat](https://cdn.pkmer.cn/covers/tasks-packrat-plugin.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # **Packrat** 🐀
 
-![](https://cdn.pkmer.cn/covers/tasks-packrat-plugin_2_0.gif)
+![](./packrat.gif)
 
 这个插件是为了 [Obsidian.md](https://obsidian.md/) 而开发的，它为 Martin Schenck 的不可或缺的 [Obsidian Tasks](https://github.com/schemar/obsidian-tasks) 插件增加了功能。
 

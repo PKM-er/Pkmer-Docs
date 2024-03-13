@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611075380
 title: Obsidian 插件：【Readme】Geocoding Properties
 tags: ['obsidian插件', 'readme']
 description: 将地理编码API的地址/位置数据插入为Obsidian属性。

@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611083302
 title: Obsidian 插件：【Readme】Speech To Text Keyboard Helper
 tags: ['obsidian插件', 'readme']
 description: 由于Google语音转文本Android键盘无法处理例如“新行”命令，因此该插件通过Obsidian命令面板提供了这些命令。

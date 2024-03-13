@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023082011361342
 title: Obsidian 插件：【Readme】Source Scanner
 tags: ['obsidian插件', 'readme']
 description: 从源代码中提取注释并将其放置在md文件中的扫描器
@@ -151,4 +151,4 @@ git branch --show-current > current-branch.txt
 
 设置中正确的值示例。
 
-![https://cdn.pkmer.cn/covers/source-scanner_2_0.png!pkmer](https://cdn.pkmer.cn/covers/source-scanner_2_0.png!pkmer)
+![img.png](img.png)

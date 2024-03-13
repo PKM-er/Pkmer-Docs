@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Avatar
+uid: 2023080322144426
+title: Obsidian 插件：Avatar
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记中显示一个头像图片。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Avatar
+# Obsidian 插件：Avatar
 
 > [!Note] 插件名片
 > - 插件名称：Avatar
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 该插件为您提供了一个组件，它将显示一个带有一些附带文本的小图像。就是这样。
 
-![预览模式](https://cdn.pkmer.cn/covers/avatar_2_0.png!pkmer)
+![预览模式](./docs/avatar_preview.PNG)
 
 要使用，请将以下代码片段插入到您的 Markdown 中。
 
@@ -62,7 +62,7 @@ description: This will be displayed as the description!
 
 **在实时预览模式下**，点击图片以更改它（然后从您的库中选择一个，或者粘贴一个在线图片的 URL），或者点击描述进行编辑（不要忘记点击保存更改的按钮！）
 
-![编辑模式](https://cdn.pkmer.cn/covers/avatar_2_1.png!pkmer)
+![编辑模式](./docs/avatar_edit.PNG)
 
 描述编辑器支持 Obsidian 的所有 Markdown 功能。
 

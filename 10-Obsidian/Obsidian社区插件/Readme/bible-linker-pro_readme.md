@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117264500
 title: Obsidian 插件：【Readme】Bible linker Pro
 tags: ['obsidian插件', 'readme']
 description: 将圣经经文转换为JW图书馆链接

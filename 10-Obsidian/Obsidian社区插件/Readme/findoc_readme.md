@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】Financial Doc
+uid: 2023080322182318
+title: Obsidian 插件：Financial Doc
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中直接使用CSV格式和Chart.js进行财务文件和跟踪。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Financial Doc
+# Obsidian 插件：Financial Doc
 
 > [!Note] 插件名片
 > - 插件名称：Financial Doc
@@ -47,7 +47,9 @@ modified: 20230101000000
 
 <p align="center">
 
+
   ·
+
 
 </p>
 </div>
@@ -117,7 +119,6 @@ git push origin tags/X.Y.Z
 - **dividend**
 
 创建一个 PR 来创建新的模型。
-
 您可以直接在设置选项卡中进行编辑。
 
 ### 代码块
@@ -168,15 +169,15 @@ Type,Id,Value,TimeStamp,Extra
 
 ## 截图
 
-![股息图表](https://cdn.pkmer.cn/covers/findoc_2_0.png!pkmer)
+![股息图表](./docs/DividendChart.png)
 
-![带有缺失数据点的收入图表](https://cdn.pkmer.cn/covers/findoc_2_1.png!pkmer)
+![带有缺失数据点的收入图表](./docs/IncomeChartMissingData.png)
 
-![收入片段](https://cdn.pkmer.cn/covers/findoc_2_2.png!pkmer)
+![收入片段](./docs/IncomeSnippet.png)
 
-![删除行](https://cdn.pkmer.cn/covers/findoc_2_3.png!pkmer)
+![删除行](./docs/V0.5.0/delete-row.png)
 
-![在设置中选择类别](https://cdn.pkmer.cn/covers/findoc_2_4.png!pkmer)
+![在设置中选择类别](./docs/V0.5.0/categories-settings.png)
 
 ## 更新日志
 
@@ -216,11 +217,11 @@ Type,Id,Value,TimeStamp,Extra
 - 改进了设置选项卡中的类别选择
 - UI 和信息添加
 
-![删除行](https://cdn.pkmer.cn/covers/findoc_2_3.png!pkmer)
+![删除行](./docs/V0.5.0/delete-row.png)
 
-![编辑和删除颜色](https://cdn.pkmer.cn/covers/findoc_2_6.png!pkmer)
+![编辑和删除颜色](./docs/V0.5.0/colors.png)
 
-![在设置中选择类别](https://cdn.pkmer.cn/covers/findoc_2_4.png!pkmer)
+![在设置中选择类别](./docs/V0.5.0/categories-settings.png)
 
 </details>
 <details>
@@ -229,7 +230,7 @@ Type,Id,Value,TimeStamp,Extra
 - 修复了错误
 - 下拉菜单选择交易类型
 
-![下拉菜单类型](https://cdn.pkmer.cn/covers/findoc_2_8.png!pkmer)
+![下拉菜单类型](./docs/V0.4.1/dropdown.png)
 
 </details>
 
@@ -239,9 +240,9 @@ Type,Id,Value,TimeStamp,Extra
 - 改进了编辑 CSV 文件时的 UI，将表格包装在具有可编辑内容的 div 中。我认为这是两种解决方案中最好的。
 - 保存系统应该更好，因为不再处理 csv 分隔符
 
-![表格视图](https://cdn.pkmer.cn/covers/findoc_2_9.png!pkmer)
+![表格视图](./docs/V0.4.0/table_view.png)
 
-![表格视图按钮](https://cdn.pkmer.cn/covers/findoc_2_10.png!pkmer)
+![表格视图按钮](./docs/V0.4.0/table_view_btn.png)
 
 </details>
 

@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011360844
 title: Obsidian 插件：【Readme】Quail
 tags: ['obsidian插件', 'readme']
 description: 通过Quail.ink将保存、发布和交付笔记作为通讯和博客。

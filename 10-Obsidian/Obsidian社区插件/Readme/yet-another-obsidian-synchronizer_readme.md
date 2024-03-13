@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611085995
 title: Obsidian 插件：【Readme】Yet Another Obsidian Synchronizer
 tags: ['obsidian插件', 'readme']
 description: 这是另一个使用Git来同步您的保险库内容的黑曜石同步器。

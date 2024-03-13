@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219331726
 title: Obsidian 插件：【Readme】Simple File Push
 tags: ['obsidian插件', 'readme']
 description: 将Markdown文件推送到API端点。

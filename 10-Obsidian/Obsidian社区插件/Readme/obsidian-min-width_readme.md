@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Min Width
+uid: 2023080322223421
+title: Obsidian 插件：Min Width
 tags: ['obsidian插件', 'readme']
 description: 设置活动窗格的最小宽度。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Min Width
+# Obsidian 插件：Min Width
 
 > [!Note] 插件名片
 > - 插件名称：Min Width
@@ -40,9 +40,9 @@ modified: 20230101000000
 
 Min Width 插件设置了活动窗格的最小宽度。Obsidian 会自动调整活动窗格的宽度，以确保它足够宽，并相应地缩小其他窗格。
 
-该插件基于博客文章《在 Obsidian 中设置活动窗格的最小宽度》（<<https://blog.iany.me/2022/09/set-the-minimum-width-of-the-active-pane-in-obsidian/>）。>
+该插件基于博客文章《在 Obsidian 中设置活动窗格的最小宽度》（<https://blog.iany.me/2022/09/set-the-minimum-width-of-the-active-pane-in-obsidian/>）。
 
-[![](https://cdn.pkmer.cn/covers/obsidian-min-width_1_0.gif)](https://vimeo.com/752964835)
+[![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/5569408d-3300-4b5c-b4b8-6e8baa5ad413.gif?ClientID=vimeo-core-prod&Date=1663953976&Signature=3840517f68f618fa3b48788f5cc5c1579d95b46b)](https://vimeo.com/752964835)
 
 如何使用
 

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322243938
 title: Obsidian 插件：Perilous Writing
 tags: ['obsidian插件', 'readme']
 description: 持续写作，否则将失去所有进展。

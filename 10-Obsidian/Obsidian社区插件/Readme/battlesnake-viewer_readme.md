@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611072478
 title: Obsidian 插件：【Readme】BattleSnake Board Viewer
 tags: ['obsidian插件', 'readme']
 description: 在笔记预览中呈现BattleSnake位置图表。
@@ -53,7 +53,7 @@ modified: 20230101000000
 
 ```
 
-![Example](https://cdn.pkmer.cn/covers/battlesnake-viewer_2_0.png!pkmer)
+![Example](example.png)
 ```
 
 如何编译插件

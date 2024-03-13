@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121200997
 title: Obsidian 插件：【Readme】Nested Daily Todos
 tags: ['obsidian插件', 'readme']
 description: 将未完成的待办事项从按标题分组的每日笔记中转移，支持嵌套和灵活的待办事项状态。

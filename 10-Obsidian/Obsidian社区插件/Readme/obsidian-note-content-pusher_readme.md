@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322230024
 title: Obsidian 插件：Note Content Pusher
 tags: ['obsidian插件', 'readme']
 description: 插件可以在不打开另一个窗格的情况下，将指定内容添加（前置或后置）到笔记（现有或新建）中。

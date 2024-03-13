@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Export To TeX
+uid: 2023080322180080
+title: Obsidian 插件：Export To TeX
 tags: ['转换工具', 'obsidian插件', 'readme']
 description: 将拱顶文件导出为适合粘贴到TeX文档中的格式
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Export To TeX
+# Obsidian 插件：Export To TeX
 
 > [!Note] 插件名片
 > - 插件名称：Export To TeX
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将拱顶文件导出为适合粘贴到 TeX 文档中的格式
 
-![Export To TeX](https://cdn.pkmer.cn/covers/obsidian-export-to-tex_new.gif)
+![Export To TeX](https://cdn.pkmer.cn/covers/obsidian-export-to-tex_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -50,7 +50,7 @@ modified: 20230101000000
 
 > 将 Obsidian 笔记导出为 LaTeX 格式，适用于粘贴到 TeX 文件中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-export-to-tex_1_5.gif)
+![](https://raw.githubusercontent.com/raineszm/obsidian-export-to-tex/master/images/export-to-clipboard.gif)
 
 ## 安装
 

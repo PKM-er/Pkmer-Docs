@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219333207
 title: Obsidian 插件：【Readme】Tekken Notation
 tags: ['obsidian插件', 'readme']
 description: 渲染铁拳记号。

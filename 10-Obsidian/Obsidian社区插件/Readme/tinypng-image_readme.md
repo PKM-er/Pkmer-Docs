@@ -1,5 +1,5 @@
 ---
-uid: 20230820121454
+uid: 2023082011361669
 title: Obsidian 插件：【Readme】TinyPNG Image
 tags: ['obsidian插件', 'readme']
 description: 使用TinyPNG压缩图像以节省存储空间。

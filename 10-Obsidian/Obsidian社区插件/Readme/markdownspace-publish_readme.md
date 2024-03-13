@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219320188
 title: Obsidian 插件：【Readme】MarkdownSpace Publish
 tags: ['obsidian插件', 'readme']
 description: 将您的文档发布到MarkdownSpace，它们将立即变成一个网站。

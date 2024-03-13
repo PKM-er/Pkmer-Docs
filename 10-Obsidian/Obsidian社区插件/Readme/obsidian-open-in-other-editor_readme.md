@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322240823
 title: Obsidian 插件：Open In Other Editor
 tags: ['obsidian插件', 'readme']
 description: 在gVim或VScode中打开当前活动文件。

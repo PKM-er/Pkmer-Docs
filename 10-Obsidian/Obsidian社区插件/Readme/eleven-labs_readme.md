@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611074287
 title: Obsidian 插件：【Readme】Eleven Labs
 tags: ['obsidian插件', 'readme']
 description: 使用Eleven Labs将您的黑曜石笔记转换为文本转语音音频文件。
@@ -38,36 +38,36 @@ modified: 20230101000000
 
 # Eleven Labs 文本转语音 Obsidian 插件
 
-这是一个为 Obsidian（<<https://obsidian.md>）开发的插件。>
+这是一个为 Obsidian（<https://obsidian.md>）开发的插件。
 
 该项目允许您使用 Eleven Labs api 直接从 Obsidian 笔记中创建文本转语音音频文件。
 
-这需要一个 Eleven Labs（<<https://elevenlabs.io>）账户和> api 密钥。您可以在登录 Eleven Labs 网页仪表板后从“个人资料设置”中检索到您的 api 密钥。
+这需要一个 Eleven Labs（<https://elevenlabs.io>）账户和 api 密钥。您可以在登录 Eleven Labs 网页仪表板后从“个人资料设置”中检索到您的 api 密钥。
 
 ## 如何使用
 
 安装插件后，转到 Obsidian 中的插件设置页面，并粘贴您的 API 密钥。
 
-![设置API密钥](https://cdn.pkmer.cn/covers/eleven-labs_2_0.png!pkmer)
+![设置API密钥](/images/image9.png)
 
 在您的笔记中，在**编辑模式**下，只需选择要使用的文本，右键单击并从上下文菜单中选择“Eleven Labs”。
 
-![选择文本](https://cdn.pkmer.cn/covers/eleven-labs_2_1.png!pkmer)
+![选择文本](/images/image2.png)
 
 然后会出现一个模态窗口，在其中您可以从 Eleven Labs 帐户中选择要使用的语音。
 
-![模态窗口](https://cdn.pkmer.cn/covers/eleven-labs_2_2.png!pkmer)
+![模态窗口](/images/image3.png)
 
 此外，您还可以覆盖语音设置。
 
-![语音设置](https://cdn.pkmer.cn/covers/eleven-labs_2_3.png!pkmer)
+![语音设置](/images/image4.png)
 
 现在，您可以通过按下“生成音频”按钮来生成音频。这将在后台进行，并根据处理的字符数可能需要几分钟。音频生成并下载到您的保险库后，您将收到通知。
 
-![生成通知](https://cdn.pkmer.cn/covers/eleven-labs_2_4.png!pkmer)
+![生成通知](/images/image5.png)
 
-![音频文件完成通知](https://cdn.pkmer.cn/covers/eleven-labs_2_5.png!pkmer)
+![音频文件完成通知](/images/image6.png)
 
-![文件树](https://cdn.pkmer.cn/covers/eleven-labs_2_6.png!pkmer)
+![文件树](/images/image7.png)
 
-![生成的笔记](https://cdn.pkmer.cn/covers/eleven-labs_2_7.png!pkmer)
+![生成的笔记](/images/image8.png)

@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522242274
 title: Obsidian 插件：【Readme】Automatic Tags
 tags: ['obsidian插件', 'readme']
 description: 根据路径自动为新的笔记添加标签。

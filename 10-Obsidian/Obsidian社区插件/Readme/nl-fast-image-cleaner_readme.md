@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Fast Image Cleaner
+uid: 2023080322180844
+title: Obsidian 插件：Fast Image Cleaner
 tags: ['obsidian插件', 'readme']
 description: 此插件允许您通过右键菜单在LIVE和READ模式下快速删除文档中的图像附件和引用链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Fast Image Cleaner
+# Obsidian 插件：Fast Image Cleaner
 
 > [!Note] 插件名片
 > - 插件名称：Fast Image Cleaner
@@ -105,7 +105,7 @@ modified: 20230101000000
 
 ### 删除的图片目标
 
-![image-20230209180042264](https://cdn.pkmer.cn/covers/nl-fast-image-cleaner_2_0.png!pkmer)
+![image-20230209180042264](assets/README-images/image-20230209180042264.png)
 
 请确保您在“Fast Images Cleaner Settings”选项卡下选择了删除图像的目标。您有 3 个选项：
 
@@ -119,11 +119,11 @@ modified: 20230101000000
 
 (1) 在实时预览模式下
 
-![image-20230215115818647](https://cdn.pkmer.cn/covers/nl-fast-image-cleaner_2_1.png!pkmer)
+![image-20230215115818647](assets/ZH-images/image-20230215115818647.png)
 
 (2) 在阅读模式下
 
-![image-20230215115818647](https://cdn.pkmer.cn/covers/nl-fast-image-cleaner_2_1.png!pkmer)
+![image-20230215115818647](assets/ZH-images/image-20230215115818647.png)
 
 开发
 

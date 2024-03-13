@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117290929
 title: Obsidian 插件：【Readme】ManicTime
 tags: ['obsidian插件', 'readme']
 description: 将活动文件的路径发送到本地安装的ManicTime客户端。

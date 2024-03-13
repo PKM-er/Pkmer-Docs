@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611081238
 title: Obsidian 插件：【Readme】MTG Card Links
 tags: ['obsidian插件', 'readme']
 description: 通过在方括号中包含卡牌名称，链接到魔术飞天牌。

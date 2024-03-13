@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011355857
 title: Obsidian 插件：【Readme】Markdown to Slack Message
 tags: ['obsidian插件', 'readme']
 description: 将Markdown笔记转换为Slack消息块，以便您可以发送到您的Slack。

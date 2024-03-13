@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322215320
 title: Obsidian 插件：Map of Content
 tags: ['obsidian插件', 'readme']
 description: 自动为您的保险库生成目录地图

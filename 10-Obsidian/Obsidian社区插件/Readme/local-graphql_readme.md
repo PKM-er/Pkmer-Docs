@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522255320
 title: Obsidian 插件：【Readme】Local GraphQL
 tags: ['obsidian插件', 'readme']
 description: 将Obsidian数据导出为本地GraphQL服务器。

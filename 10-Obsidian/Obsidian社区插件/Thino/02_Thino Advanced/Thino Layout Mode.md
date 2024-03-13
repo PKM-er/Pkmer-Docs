@@ -1,13 +1,18 @@
 ---
 uid: 20240311150549
 title: Thino 布局模式
-tags: [Obsidian, Obsidian插件, Thino, memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - memos
 description: Thino 布局模式
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
 modified: 20240311175922
+id: ae18d2392396b9f2
 ---
 
 # Thino 布局模式

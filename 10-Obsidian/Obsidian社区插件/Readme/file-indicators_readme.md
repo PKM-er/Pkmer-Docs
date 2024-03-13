@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522250422
 title: Obsidian 插件：【Readme】File indicators
 tags: ['obsidian插件', 'readme']
 description: 将自定义指标添加到文件资源管理器中。

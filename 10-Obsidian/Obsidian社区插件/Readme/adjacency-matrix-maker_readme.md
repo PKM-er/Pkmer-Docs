@@ -1,6 +1,6 @@
 ---
-uid: 20231220112630
-title: Obsidian 插件：【Readme】Adjacency Matrix Maker
+uid: 2023080322134040
+title: Obsidian 插件：Adjacency Matrix Maker
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 创建你的金库的互动邻接矩阵
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Adjacency Matrix Maker
+# Obsidian 插件：Adjacency Matrix Maker
 
 > [!Note] 插件名片
 > - 插件名称：Adjacency Matrix Maker
@@ -50,9 +50,9 @@ modified: 20230101000000
 
 这个图传达了与这个邻接矩阵相同的信息：
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_0.png!pkmer)
+![](https://i.imgur.com/VZuvAhq.png)
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_1.png!pkmer)
+![](https://i.imgur.com/glL4mGc.png)
 
 ## 功能性
 
@@ -62,13 +62,13 @@ modified: 20230101000000
 
 如果您想将缩放级别重置为初始状态，可以使用鼠标右键，或者点击图像上方的“重置缩放”按钮。
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_2.png!pkmer)
+![](https://i.imgur.com/iJohDDi.png)
 
 ### 交互式工具提示
 
 如果您将光标悬停在一个填充颜色的单元格上（表示两个链接的笔记），您将看到一个工具提示出现，显示链接的两个笔记 `A → B`。
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_3.png!pkmer)
+![](https://i.imgur.com/wu6ivE7.png)
 
 您可以按住 `Ctrl` 键，在任何地方都可以看到此工具提示，即使这两个笔记没有链接。
 
@@ -86,7 +86,7 @@ modified: 20230101000000
 - 六级文件夹 → **靛蓝色**
 - 七级文件夹 → **紫罗兰色**
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_4.png!pkmer)
+![](https://i.imgur.com/R7xGlb4.png)
 
 ### 保存图像
 
@@ -104,17 +104,17 @@ modified: 20230101000000
 
 这些设置：
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_5.png!pkmer)
+![](https://i.imgur.com/gF0G9Zs.png)
 
 给我这个矩阵：
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_6.png!pkmer)
+![](https://i.imgur.com/4u6xgO6.png)
 
 ### 显示文件夹
 
 还有一个选项可以切换是否显示 [文件夹方块](README.md#folder-squares)。
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_7.png!pkmer)
+![](https://i.imgur.com/pEWm964.png)
 
 ### 图像缩放
 
@@ -124,11 +124,11 @@ modified: 20230101000000
 
 #### `图像缩放比例 = 1`
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_8.png!pkmer)
+![](https://i.imgur.com/0fu419R.png)
 
 #### `图像缩放 = 100`
 
-![](https://cdn.pkmer.cn/covers/adjacency-matrix-maker_1_9.png!pkmer)
+![](https://i.imgur.com/1gRD7hV.png)
 
 ### 保存图像配置
 

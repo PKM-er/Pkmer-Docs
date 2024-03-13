@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611081663
 title: Obsidian 插件：【Readme】Nifty Links
 tags: ['obsidian插件', 'readme']
 description: 生成优雅的、Notion风格的富链接卡片，提升您的笔记体验。

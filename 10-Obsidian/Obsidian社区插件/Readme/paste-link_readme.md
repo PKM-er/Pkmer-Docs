@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522263244
 title: Obsidian 插件：【Readme】Paste Link
 tags: ['obsidian插件', 'readme']
 description: 智能粘贴Markdown链接。

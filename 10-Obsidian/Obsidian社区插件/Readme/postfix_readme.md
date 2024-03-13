@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611082057
 title: Obsidian 插件：【Readme】Postfix
 tags: ['obsidian插件', 'readme']
 description: 使用后缀补全来自动格式化文本。

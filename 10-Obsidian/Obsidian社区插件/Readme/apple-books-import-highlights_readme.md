@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117261039
 title: Obsidian 插件：【Readme】Apple Books - Import Highlights
 tags: ['obsidian插件', 'readme']
 description: 将您的苹果图书笔记和标注导入到Obsidian。

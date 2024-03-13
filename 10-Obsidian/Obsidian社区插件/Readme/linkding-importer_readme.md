@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522255169
 title: Obsidian 插件：【Readme】Linkding Importer
 tags: ['obsidian插件', 'readme']
 description: 从Linkding导入您的书签，并将它们保存到Obsidian Vault中的指定文件中。
@@ -51,7 +51,7 @@ modified: 20230101000000
   - 结果限制 - 获取多少个书签
   - 偏移量 - 从哪个索引开始返回结果。
 
-![Obsidian设置](https://cdn.pkmer.cn/covers/linkding-importer_2_0.png!pkmer)
+![Obsidian设置](assets/settings.png)
 
 ## 参考资料
 

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】IVRE
+uid: 2023080322204292
+title: Obsidian 插件：IVRE
 tags: ['obsidian插件', 'readme']
 description: IVRE集成到Obsidian：从IVRE抓取数据并将其带入Obsidian笔记中。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】IVRE
+# Obsidian 插件：IVRE
 
 > [!Note] 插件名片
 > - 插件名称：IVRE
@@ -78,12 +78,12 @@ $ npm run dev
 
 # 截图 #
 
-![使用情况](https://cdn.pkmer.cn/covers/obsidian-ivre-plugin_2_0.png!pkmer)
+![使用情况](doc/screenshots/usage.png)
 
-![图表 `thunderbird.com`](https://cdn.pkmer.cn/covers/obsidian-ivre-plugin_2_1.png!pkmer)
+![图表 `thunderbird.com`](doc/screenshots/graph_thunderbird.png)
 
-![域名 `1password.com`](https://cdn.pkmer.cn/covers/obsidian-ivre-plugin_2_2.png!pkmer)
+![域名 `1password.com`](doc/screenshots/domain_1password.png)
 
-![被 `1password.com` 使用的地址](https://cdn.pkmer.cn/covers/obsidian-ivre-plugin_2_3.png!pkmer)
+![被 `1password.com` 使用的地址](doc/screenshots/address_1password.png)
 
-![设置](https://cdn.pkmer.cn/covers/obsidian-ivre-plugin_2_4.png!pkmer)
+![设置](doc/screenshots/settings.png)

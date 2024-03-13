@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Timelines
+uid: 2023080322282234
+title: Obsidian 插件：Timelines
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 使用指定的标签和语法组合，在 Obsidian 中创建笔记的时间线视图
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Timelines
+# Obsidian 插件：Timelines
 
 > [!Note] 插件名片
 > - 插件名称：Timelines
@@ -46,11 +46,11 @@ modified: 20230101000000
 
 ## 示例 - 垂直时间线
 
-![示例](https://cdn.pkmer.cn/covers/obsidian-timelines_1_2.png!pkmer)
+![示例](https://raw.githubusercontent.com/Darakah/obsidian-timelines/main/images/exp_2.png)
 
 ## 示例 - 水平时间线
 
-![示例](https://cdn.pkmer.cn/covers/obsidian-timelines_1_3.png!pkmer)
+![示例](https://raw.githubusercontent.com/Darakah/obsidian-timelines/main/images/TimelineVis.png)
 
 插入时间轴
 
@@ -63,7 +63,7 @@ modified: 20230101000000
 
 在需要插入时间轴的位置创建以下代码块：
 
-![example](https://cdn.pkmer.cn/covers/obsidian-timelines_1_4.png!pkmer)
+![example](https://raw.githubusercontent.com/Darakah/obsidian-timelines/main/images/example_1.png)
 
 您还可以使用以下方法创建水平时间轴：
 

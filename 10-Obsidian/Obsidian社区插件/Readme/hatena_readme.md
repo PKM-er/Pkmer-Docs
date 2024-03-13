@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117282353
 title: Obsidian 插件：【Readme】Hatena Blog Publisher
 tags: ['obsidian插件', 'readme']
 description: 直接发布到您的Hatena博客。

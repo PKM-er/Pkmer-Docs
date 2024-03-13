@@ -1,6 +1,6 @@
 ---
-uid: 20240227160841
-title: Obsidian 插件：【Readme】css snippets
+uid: 2023080322164704
+title: Obsidian 插件：css snippets
 tags: ['样式工具', '美化', 'obsidian插件', 'readme']
 description: 用于加载自定义css片段
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】css snippets
+# Obsidian 插件：css snippets
 
 > [!Note] 插件名片
 > - 插件名称：css snippets
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 用于加载自定义 css 片段
 
-![css snippets](https://cdn.pkmer.cn/covers/css-snippets_new.gif)
+![css snippets](https://cdn.pkmer.cn/covers/css-snippets_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 一个用于加载自定义 CSS 代码片段的 Obsidian 插件
 
-![示例动画](https://cdn.pkmer.cn/covers/css-snippets_2_0.gif)
+![示例动画](./assets/obsidian-css-snippets.gif)
 
 ## 用法
 
@@ -89,7 +89,6 @@ modified: 20230101000000
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
-
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api) 以 Typescript 定义格式，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -103,7 +102,6 @@ modified: 20230101000000
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将该仓库克隆到您的插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
-
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 # 版本历史

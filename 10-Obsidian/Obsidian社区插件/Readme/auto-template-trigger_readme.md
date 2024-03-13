@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Auto Template Trigger
+uid: 2023080322143685
+title: Obsidian 插件：Auto Template Trigger
 tags: ['obsidian插件', 'readme']
 description: 创建笔记时自动提示模板。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Auto Template Trigger
+# Obsidian 插件：Auto Template Trigger
 
 > [!Note] 插件名片
 > - 插件名称：Auto Template Trigger
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # 自动模板触发器
 
-这是一个简单的 Obsidian 插件。（<<https://obsidian.md>）>
+这是一个简单的 Obsidian 插件。（<https://obsidian.md>）
 
 在创建笔记时触发模板提示。
 
@@ -56,11 +56,11 @@ modified: 20230101000000
 
 ### 1. 创建一个新的笔记
 
-![image](https://cdn.pkmer.cn/covers/auto-template-trigger_1_0.png!pkmer)
+![image](https://user-images.githubusercontent.com/46031874/233847364-48e0ca1e-f8cc-4aff-a582-b9c9fdd215b8.png)
 
 ### 2 模板提示自动触发
 
-![image](https://cdn.pkmer.cn/covers/auto-template-trigger_1_1.png!pkmer)
+![image](https://user-images.githubusercontent.com/46031874/233847405-6ad376cc-2d76-42fe-ba12-3e173d38163c.png)
 
 为什么要制作这个插件
 

@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611071759
 title: Obsidian 插件：【Readme】AI Editor
 tags: ['obsidian插件', 'readme']
 description: 通过可定制的LLM操作提升您的Obsidian工作流程。

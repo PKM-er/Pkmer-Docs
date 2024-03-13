@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Card View Switcher
+uid: 2023080322153820
+title: Obsidian 插件：Card View Switcher
 tags: ['obsidian插件', 'readme']
 description: 快速切换卡片视图
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Card View Switcher
+# Obsidian 插件：Card View Switcher
 
 > [!Note] 插件名片
 > - 插件名称：Card View Switcher
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 快速切换卡片视图
 
-![Card View Switcher](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_new.gif)
+![Card View Switcher](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 只需执行命令 `Card View Switcher: Open switcher` 即可。
 
-![card-view-switcher-min](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_0.gif)
+![card-view-switcher-min](https://user-images.githubusercontent.com/38106890/153554839-aaa4b1d2-aebd-48f3-be1d-35e15841fdf5.gif)
 
 ## 搜索模式
 
@@ -52,7 +52,7 @@ modified: 20230101000000
 
 搜索最近打开的 10 个文件的内容和文件名。
 
-![card-view-switcher-recent-search-min](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_1.gif)
+![card-view-switcher-recent-search-min](https://user-images.githubusercontent.com/38106890/153554856-fac60b9d-9fe2-4676-a943-17bf341e3d23.gif)
 
 ### 普通搜索
 
@@ -60,7 +60,7 @@ modified: 20230101000000
 
 要切换到普通搜索，请在搜索词前加上 `'` 或 `空格`。
 
-![card-view-switcher-normal-search-min](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_2.gif)
+![card-view-switcher-normal-search-min](https://user-images.githubusercontent.com/38106890/153554894-483d37a6-3c3a-4e8f-9b21-e09a768c4d62.gif)
 
 ### 随机搜索
 
@@ -68,4 +68,4 @@ modified: 20230101000000
 
 要切换到随机搜索，请在搜索词前加上 `;`。
 
-![card-view-random-search-min (2)](https://cdn.pkmer.cn/covers/obsidian-card-view-switcher-plugin_1_3.gif)
+![card-view-random-search-min (2)](https://user-images.githubusercontent.com/38106890/158729984-7c3385e1-e857-4533-a298-9fc5dff5a7b6.gif)

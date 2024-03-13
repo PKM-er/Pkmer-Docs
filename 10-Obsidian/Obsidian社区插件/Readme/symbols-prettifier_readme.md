@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322273516
 title: Obsidian 插件：Symbols Prettifier
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许您使用您经常输入的实际符号（如箭头）来美化符号。

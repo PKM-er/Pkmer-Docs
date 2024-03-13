@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322141713
 title: Obsidian 插件：AsciiDoc Blocks Plugin
 tags: ['obsidian插件', 'readme']
 description: Obsidian中渲染asciidoc块的插件，最初是asciidoc表格。
@@ -157,7 +157,7 @@ The Lumineers, Ho Hey, Folk Rock
 
 [TIP]
 
-有关 <<https://docs.asciidoctor.org/asciidoc/latest/tables/build-a-basic-table/>[AsciiDoc> 表格] 的更多信息。
+有关 <https://docs.asciidoctor.org/asciidoc/latest/tables/build-a-basic-table/>[AsciiDoc 表格] 的更多信息。
 
 == 重要提示
 
@@ -169,5 +169,5 @@ The Lumineers, Ho Hey, Folk Rock
 
 == 感谢
 
-* 第一个灵感（和一些代码）来自 <<https://github.com/valentine195/obsidian-admonition>[Obsidian> Admonition]，感谢 @valentine195；
+* 第一个灵感（和一些代码）来自 <https://github.com/valentine195/obsidian-admonition>[Obsidian Admonition]，感谢 @valentine195；
 * 非常感谢 @francbreno，介绍我使用 Obsidian 并花时间讨论这个插件的想法。

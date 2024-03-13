@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322282495
 title: Obsidian 插件：Tistory Poster
 tags: ['obsidian插件', 'readme']
 description: 这个插件将在Obsidian中发布一条笔记到Tistory博客平台。

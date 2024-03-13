@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117261227
 title: Obsidian 插件：【Readme】Arrows
 tags: ['obsidian插件', 'readme']
 description: 在你的笔记的不同部分画箭头，就像在纸上一样。

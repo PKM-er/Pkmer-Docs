@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Get Info
+uid: 2023080322190761
+title: Obsidian 插件：Get Info
 tags: ['界面相关', '文件管理', '统计', 'obsidian插件', 'readme']
 description: 在状态栏中包含一个菜单，并显示您所选文件的有用信息。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Get Info
+# Obsidian 插件：Get Info
 
 > [!Note] 插件名片
 > - 插件名称：Get Info
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 ![Get-Info-Plugin 发布版本](https://img.shields.io/github/v/release/chetachiezikeuzor/Get-Info-Plugin)
 
-![Get Info 演示标题](https://cdn.pkmer.cn/covers/get-info-plugin_1_2.png!pkmer)
+![Get Info 演示标题](https://user-images.githubusercontent.com/79069364/144931459-1556d9ba-64ae-467e-9f1c-b7c5f0f85c8f.png)
 
 ### 状态：一旦被接受，此插件将在 Obsidian 插件商店中可用
 

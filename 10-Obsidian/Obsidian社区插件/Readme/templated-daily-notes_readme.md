@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121292398
 title: Obsidian 插件：【Readme】Templated daily notes
 tags: ['obsidian插件', 'readme']
 description: 根据描述的设置，使用指定模板创建每日笔记。

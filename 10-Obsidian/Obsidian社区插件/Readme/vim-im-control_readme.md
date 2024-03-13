@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022122524607
 title: Obsidian 插件：【Readme】Vim IM Control
 tags: ['obsidian插件', 'readme']
 description: 黑曜石插件，用于在“插入离开”和“插入进入”时切换输入法。支持macOS、Windows和Linux。

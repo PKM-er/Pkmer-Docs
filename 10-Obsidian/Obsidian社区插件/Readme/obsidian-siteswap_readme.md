@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322270074
 title: Obsidian 插件：Siteswap
 tags: ['obsidian插件', 'readme']
 description: 通过JugglingLab gif服务器可视化杂耍模式Siteswap。

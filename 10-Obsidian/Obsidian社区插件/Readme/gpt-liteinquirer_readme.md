@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322192598
 title: Obsidian 插件：GPT-LiteInquirer
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中直接体验OpenAI ChatGPT的帮助，无需打断您的创作流程即可起草内容。
@@ -46,15 +46,15 @@ modified: 20230101000000
 
 [![Downloads][downloads-image]][downloads-url]
 
-[ci-image]: <<https://img.shields.io/github/actions/workflow/status/ittuann/obsidian-gpt-liteinquirer-plugin/CI.yml?branch=master&label>=构建状态&logo=github&style=for-the-badge>
+[ci-image]: <https://img.shields.io/github/actions/workflow/status/ittuann/obsidian-gpt-liteinquirer-plugin/CI.yml?branch=master&label>=构建状态&logo=github&style=for-the-badge
 
 [ci-url]: <https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin>
 
-[code-scanning-image]: <<https://img.shields.io/github/actions/workflow/status/ittuann/obsidian-gpt-liteinquirer-plugin/CodeQL.yml?branch=master&label>=代码扫描&logo=github&style=for-the-badge>
+[code-scanning-image]: <https://img.shields.io/github/actions/workflow/status/ittuann/obsidian-gpt-liteinquirer-plugin/CodeQL.yml?branch=master&label>=代码扫描&logo=github&style=for-the-badge
 
 [code-scanning-url]: <https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin>
 
-[tag-image]: <<https://img.shields.io/github/v/release/ittuann/obsidian-gpt-liteinquirer-plugin?branch=master&label>=发布标签&logo=github&style=for-the-badge>
+[tag-image]: <https://img.shields.io/github/v/release/ittuann/obsidian-gpt-liteinquirer-plugin?branch=master&label>=发布标签&logo=github&style=for-the-badge
 
 [tag-url]: <https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin/releases/latest>
 

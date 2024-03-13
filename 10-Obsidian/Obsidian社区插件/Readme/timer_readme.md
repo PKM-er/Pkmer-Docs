@@ -1,5 +1,5 @@
 ---
-uid: 20231213114105
+uid: 2023102611084080
 title: Obsidian 插件：【Readme】Timer
 tags: ['obsidian插件', 'readme']
 description: 允许您测量时间。
@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20231215153834
+modified: 20230101000000
 ---
 
 # Obsidian 插件：【Readme】Timer
@@ -25,6 +25,7 @@ modified: 20231215153834
 允许您测量时间。
 
 > [!tip] 原文出处
+>
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/Raboro/obsidian-timer-plugin/main/README.md)
 
 ---
@@ -37,7 +38,7 @@ modified: 20231215153834
 
 使用此插件，您可以测量时间，设置定时器，并在定时器完成时收到通知。
 
-![主演示图像](https://cdn.pkmer.cn/covers/timer_2_0.png!pkmer)
+![主演示图像](assets/MainDemo.png)
 
 使用
 
@@ -65,10 +66,10 @@ HH:MM:SS 或 HHh MMm SSs
 
 此外，您还可以添加一些常用的计时器。您可以删除它们或选择其中一个插入到计时器中。这样，您就不需要一遍又一遍地设置相同的计时器时间。只需选择其中一个收藏夹，就可以开始计时了。
 
-![命令演示图片](https://cdn.pkmer.cn/covers/timer_2_1.png!pkmer)
+![命令演示图片](assets/CommandsDemo.png)
 
 ## 设置
 
 您可以在设置中设置计时器按钮的数字。您还可以为一个按钮插入仅秒/分钟或小时。您插入的数字会有一个增加和减少的按钮。
 
-![设置演示图片](https://cdn.pkmer.cn/covers/timer_2_2.png!pkmer)
+![设置演示图片](assets/SettingsDemo.png)

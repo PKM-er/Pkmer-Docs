@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322185748
 title: Obsidian 插件：Function Plot
 tags: ['obsidian插件', 'readme']
 description: 在 Markdown 代码块中渲染数学函数。

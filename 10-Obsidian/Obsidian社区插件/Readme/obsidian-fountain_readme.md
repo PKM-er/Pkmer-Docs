@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322184981
 title: Obsidian 插件：Fountain
 tags: ['图表生成', 'obsidian插件', 'readme']
 description: Obsidian支持喷泉

@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023082011353281
 title: Obsidian 插件：【Readme】ArchWiki Reader
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中直接阅读任何ArchWiki页面
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在 Obsidian 中直接阅读任何 ArchWiki 页面
 
-![ArchWiki Reader](https://cdn.pkmer.cn/covers/archwiki-reader_new.gif)
+![ArchWiki Reader](https://cdn.pkmer.cn/covers/archwiki-reader_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 一个 Obsidian 插件，用于下载和阅读 ArchWiki 页面。
 
-![预览](https://cdn.pkmer.cn/covers/archwiki-reader_2_0.gif)
+![预览](./preview.gif)
 
 ## 依赖
 

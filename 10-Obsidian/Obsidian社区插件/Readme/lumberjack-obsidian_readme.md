@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322215071
 title: Obsidian 插件：Lumberjack 🪓 🪵
 tags: ['obsidian插件', 'readme']
 description: 记录你的想法！Lumberjack添加了URL命令，帮助你消除低效率，直接开始写作。

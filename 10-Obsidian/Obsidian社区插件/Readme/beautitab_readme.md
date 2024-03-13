@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117263691
 title: Obsidian 插件：【Readme】Beautitab
 tags: ['obsidian插件', 'readme']
 description: Creates a customizable new tab view with beautiful backgrounds, quotes, search, and more.

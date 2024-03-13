@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522253180
 title: Obsidian 插件：【Readme】iCal
 tags: ['obsidian插件', 'readme']
 description: 扫描您的保险库以查找包含日期的任务。创建一个iCal文件并将其存储在您的保险库或Gist上。然后，您可以在任何兼容iCal的客户端（如Outlook、Google Calendar、Apple Calendar等）中显示此日历。

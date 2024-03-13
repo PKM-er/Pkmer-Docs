@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Obsius Publish
+uid: 2023080322235864
+title: Obsidian 插件：Obsius Publish
 tags: ['obsidian插件', 'readme']
 description: 将单个笔记立即可在网上使用。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Obsius Publish
+# Obsidian 插件：Obsius Publish
 
 > [!Note] 插件名片
 > - 插件名称：Obsius Publish
@@ -52,15 +52,15 @@ modified: 20230101000000
 
 在浏览器中右键单击笔记，然后单击“发布到 Obsius”。
 
-![在浏览器中右键单击笔记，然后单击“发布到Obsius”。](https://cdn.pkmer.cn/covers/obsius-publish_2_0.jpeg!pkmer)
+![在浏览器中右键单击笔记，然后单击“发布到Obsius”。](media/file-publish.jpg)
 
 或者使用编辑器菜单。
 
-![打开编辑器菜单，然后单击“发布到Obsius”。](https://cdn.pkmer.cn/covers/obsius-publish_2_1.jpeg!pkmer)
+![打开编辑器菜单，然后单击“发布到Obsius”。](media/file-menu-publish.jpg)
 
 或者使用命令面板。
 
-![在命令面板中搜索“发布到Obsius”。](https://cdn.pkmer.cn/covers/obsius-publish_2_2.jpeg!pkmer)
+![在命令面板中搜索“发布到Obsius”。](media/command-publish.jpg)
 
 发布的笔记的公共 URL 将自动复制到剪贴板。该链接也可稍后复制，[请参见下文](#getting-the-public-url)。
 
@@ -68,43 +68,43 @@ modified: 20230101000000
 
 在浏览器中右键单击笔记，然后点击“在 Obsius 中更新”。
 
-![在浏览器中右键单击笔记，然后点击“在Obsius中更新”。](https://cdn.pkmer.cn/covers/obsius-publish_2_3.jpeg!pkmer)
+![在浏览器中右键单击笔记，然后点击“在Obsius中更新”。](media/file-update.jpg)
 
 或者使用编辑器菜单。
 
-![打开编辑器菜单，然后点击“在Obsius中更新”](https://cdn.pkmer.cn/covers/obsius-publish_2_4.jpeg!pkmer)
+![打开编辑器菜单，然后点击“在Obsius中更新”](media/file-menu-update.jpg)
 
 或者使用命令面板。
 
-![在命令面板中搜索“在Obsius中更新”](https://cdn.pkmer.cn/covers/obsius-publish_2_5.jpeg!pkmer)
+![在命令面板中搜索“在Obsius中更新”](media/command-update.jpg)
 
 获取公共 URL
 
 在浏览器中右键单击便签，然后点击“复制 Obsius URL”。
 
-![在浏览器中右键单击便签，然后点击“复制Obsius URL”。](https://cdn.pkmer.cn/covers/obsius-publish_2_6.jpeg!pkmer)
+![在浏览器中右键单击便签，然后点击“复制Obsius URL”。](media/file-copy-url.jpg)
 
 或者使用编辑器菜单。
 
-![打开编辑器菜单，然后点击“复制Obsius URL”。](https://cdn.pkmer.cn/covers/obsius-publish_2_7.jpeg!pkmer)
+![打开编辑器菜单，然后点击“复制Obsius URL”。](media/file-menu-copy-url.jpg)
 
 或者使用命令面板。
 
-![在命令面板中搜索“复制Obsius URL”。](https://cdn.pkmer.cn/covers/obsius-publish_2_8.jpeg!pkmer)
+![在命令面板中搜索“复制Obsius URL”。](media/command-copy-url.jpg)
 
 删除笔记
 
 在浏览器中右键单击笔记，然后点击“从 Obsius 中删除”。
 
-![在浏览器中右键单击笔记，然后点击“从Obsius中删除”。](https://cdn.pkmer.cn/covers/obsius-publish_2_9.jpeg!pkmer)
+![在浏览器中右键单击笔记，然后点击“从Obsius中删除”。](media/file-remove.jpg)
 
 或者使用编辑器菜单。
 
-![打开编辑器菜单，然后点击“从Obsius中删除”](https://cdn.pkmer.cn/covers/obsius-publish_2_10.jpeg!pkmer)
+![打开编辑器菜单，然后点击“从Obsius中删除”](media/file-menu-remove.jpg)
 
 或者使用命令面板。
 
-![在命令面板中搜索“从Obsius中删除”](https://cdn.pkmer.cn/covers/obsius-publish_2_11.jpeg!pkmer)
+![在命令面板中搜索“从Obsius中删除”](media/command-remove.jpg)
 
 **注意：**由于缓存的原因，可能需要一段时间才能使笔记变得不可用。
 
@@ -112,10 +112,10 @@ modified: 20230101000000
 
 使用命令面板中的“查看已发布的帖子”命令来查看已发布笔记的列表。
 
-![在命令面板中搜索“查看已发布的帖子”](https://cdn.pkmer.cn/covers/obsius-publish_2_12.jpeg!pkmer)
+![在命令面板中搜索“查看已发布的帖子”](media/command-list-posts.jpg)
 
 示例
 
 示例页面可以在此处查看：[https://obsius.site/0m593p6z1h233y18714m](https://obsius.site/0m593p6z1h233y18714m)
 
-![示例页面预览](https://cdn.pkmer.cn/covers/obsius-publish_2_13.png!pkmer)
+![示例页面预览](media/example-page.png)

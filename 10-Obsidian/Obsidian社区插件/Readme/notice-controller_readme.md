@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219323571
 title: Obsidian 插件：【Readme】Notification Controller
 tags: ['obsidian插件', 'readme']
 description: Manages notifications at startup.

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322225263
 title: Obsidian 插件：New Note New Window
 tags: ['obsidian插件', 'readme']
 description: 一款可以轻松在浮动窗口中打开新笔记的插件。

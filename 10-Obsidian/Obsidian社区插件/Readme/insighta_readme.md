@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117283876
 title: Obsidian 插件：【Readme】InsightA
 tags: ['obsidian插件', 'readme']
 description: 从一篇长文章中提取一组原子笔记，并使用LLM按笔记标题创建MOC

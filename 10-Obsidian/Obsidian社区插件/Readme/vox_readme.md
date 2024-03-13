@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023102611085299
 title: Obsidian 插件：【Readme】Vox
 tags: ['obsidian插件', 'readme']
 description: 智能转录和分类您的语音笔记
@@ -24,8 +24,6 @@ modified: 20230101000000
 
 智能转录和分类您的语音笔记
 
-![Vox](https://cdn.pkmer.cn/covers/vox.png!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/vincentbavitz/obsidian-vox/main/README.md)
@@ -40,7 +38,7 @@ Obsidian Vox - 智能语音转录
 
 VOX 会自动将 Obsidian vault 中的音频笔记转录为文本，并提取元数据、分类和标签信息。转录的文本将与其相关的元数据（frontmatter）和标签一起放置在最终目录中。
 
-![readme_visual_1800](https://cdn.pkmer.cn/covers/vox_1_0.png!pkmer)
+![readme_visual_1800](https://github.com/vincentbavitz/obsidian-vox/assets/58160433/10528b09-ab04-49e3-8b24-06457d7abb57)
 
 *unprocessed*目录会监视新文件；一旦发现新文件，它将触发转录并将文件保存到您的 vault 中。
 

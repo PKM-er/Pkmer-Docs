@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611080992
 title: Obsidian 插件：【Readme】Modules
 tags: ['obsidian插件', 'readme']
 description: 从保险库和互联网加载JavaScript和相关语言（如TypeScript）模块。
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 [给我买杯咖啡]: <https://buymeacoffee.com/polyipseity>
 
-[给我买杯咖啡/嵌入]: <<https://img.buymeacoffee.com/button-api/?text>=给我买杯咖啡&emoji=&slug=polyipseity&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00>
+[给我买杯咖啡/嵌入]: <https://img.buymeacoffee.com/button-api/?text>=给我买杯咖啡&emoji=&slug=polyipseity&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00
 
 [Obsidian]: <https://obsidian.md/>
 

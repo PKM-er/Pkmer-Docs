@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121232688
 title: Obsidian 插件：【Readme】Quick Preview
 tags: ['obsidian插件', 'readme']
 description: Quickly preview a suggestion before selecting it in link suggestions & quick swicher.

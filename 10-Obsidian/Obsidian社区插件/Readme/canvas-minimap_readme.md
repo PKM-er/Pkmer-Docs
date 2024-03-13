@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219300386
 title: Obsidian 插件：【Readme】Canvas minimap
 tags: ['obsidian插件', 'readme']
 description: Obsidian Canvas 小地图支持。

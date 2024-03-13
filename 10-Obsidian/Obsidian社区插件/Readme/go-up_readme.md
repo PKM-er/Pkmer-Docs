@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219312413
 title: Obsidian 插件：【Readme】Go Up
 tags: ['obsidian插件', 'readme']
 description: 快速导航到指定的“父”页面

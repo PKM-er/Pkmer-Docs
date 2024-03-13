@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219322337
 title: Obsidian 插件：【Readme】Metafolders
 tags: ['obsidian插件', 'readme']
 description: Multidimensional note navigation.

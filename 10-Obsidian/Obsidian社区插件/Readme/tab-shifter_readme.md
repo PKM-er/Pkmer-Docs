@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219333002
 title: Obsidian 插件：【Readme】Tab Shifter
 tags: ['obsidian插件', 'readme']
 description: Enables shifting tabs between different tab splits

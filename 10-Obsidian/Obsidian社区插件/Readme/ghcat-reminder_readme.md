@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522251419
 title: Obsidian 插件：【Readme】GChat Reminder
 tags: ['obsidian插件', 'readme']
 description: 根据Obsidian任务的到期日期，将通知发送到Google Chat Webhook。
@@ -41,19 +41,15 @@ modified: 20230101000000
 ## 详细信息
 
 **任务标记格式**：
-
 可以使用格式 `(gChat@YYYY-MM-DD HH:MM)` 来标记任务的截止日期和时间。
 
 **Webhook URL 配置**：
-
 在 Obsidian 中导航到插件设置，并输入您的 Google Chat 房间的 Webhook URL。
 
 **扫描间隔**：
-
 该插件每 3 分钟检查所有笔记中的到期任务。
 
 **网络注意事项**：
-
 该插件通过互联网与 Google Chat 进行通信。它只发送标记提醒的内容及其相关的截止日期。您的 Obsidian Vault 中的其他数据不会被传输或存储在外部。
 
 ## 使用方法

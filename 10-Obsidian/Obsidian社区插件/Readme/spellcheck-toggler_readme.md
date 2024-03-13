@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219332226
 title: Obsidian 插件：【Readme】Spellcheck Toggler
 tags: ['obsidian插件', 'readme']
 description: 在编辑视图中为文本块类型切换拼写检查。

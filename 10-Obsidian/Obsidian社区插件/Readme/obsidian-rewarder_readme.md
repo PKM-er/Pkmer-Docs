@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Rewarder
+uid: 2023080322260947
+title: Obsidian 插件：Rewarder
 tags: ['obsidian插件', 'readme']
 description: 完成任务/待办事项可获得奖励，高度可配置。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Rewarder
+# Obsidian 插件：Rewarder
 
 > [!Note] 插件名片
 > - 插件名称：Rewarder
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 完成任务/待办事项可获得奖励，高度可配置。
 
-![Rewarder](https://cdn.pkmer.cn/covers/obsidian-rewarder.gif)
+![Rewarder](https://cdn.pkmer.cn/covers/obsidian-rewarder.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -42,7 +42,7 @@ modified: 20230101000000
 
 这是一个插件，用于在完成任务时奖励自己。奖励可以在每个任务完成时或随机间隔给予。给予的奖励可以存储在你的每日笔记中。
 
-![完成任务的示例](https://cdn.pkmer.cn/covers/obsidian-rewarder_1_0.gif)
+![完成任务的示例](https://raw.githubusercontent.com/Gnopps/obsidian-rewarder/master/Example.gif)
 
 ### 入门指南
 
@@ -70,7 +70,7 @@ modified: 20230101000000
 
 - _库存_：这定义了每个奖励的可用数量。如果你有一个“吃糖果”的奖励，但只有 5 颗糖果，那么你可能希望将此奖励的最大出现次数设置为 5。每次给予此奖励时，库存将自动减少 1。一旦达到 0，将不再给予此奖励。如果未指定，将默认为无限。
 - _图片_：这可以用于插入奖励获得时要显示的图像链接。图像链接必须采用以下格式之一：
-  - {<<https://example.com/images/beer.png>}> 用于在线托管的图像
+  - {<https://example.com/images/beer.png>} 用于在线托管的图像
   - {app://local/C:/Files/beer.png} 用于计算机上托管的图像。请注意，空格和其他特殊字符需要替换。插件 [Obsidan File path to URI](https://github.com/MichalBures/obsidian-file-path-to-uri) 是一个很好的插件，可以自动完成此操作。
 
 通过在与奖励相同行上的双括号内添加数字、出现频率和/或链接来插入奖励设置。如果愿意，可以在设置中将双括号替换为其他内容。奖励设置可以按任意顺序输入。示例：
@@ -91,7 +91,7 @@ modified: 20230101000000
 
 上述奖励将很少出现，并且在获得 5 次后用完。
 
-> 喝一杯啤酒 {稀有} {5} {<<https://example.com/images/beer.png>}>
+> 喝一杯啤酒 {稀有} {5} {<https://example.com/images/beer.png>}
 
 上述奖励将很少出现，并且在获得 5 次后用完，奖励时将显示链接的图像。
 

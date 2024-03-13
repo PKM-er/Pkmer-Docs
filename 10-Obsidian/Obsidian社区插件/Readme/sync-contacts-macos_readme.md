@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611083544
 title: Obsidian 插件：【Readme】Sync Contacts on macOS
 tags: ['obsidian插件', 'readme']
 description: 将您的联系人从macOS同步到您的Obsidian Vault。

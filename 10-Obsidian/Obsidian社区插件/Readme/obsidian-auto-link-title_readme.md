@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Auto Link Title
+uid: 2023080322143306
+title: Obsidian 插件：Auto Link Title
 tags: ['链接处理', '效率', '自动化', 'obsidian插件', 'readme']
 description: 该插件在粘贴网页时，自动获取网页以提取链接标题，从而创建具有正确标题集的markdown链接。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Auto Link Title
+# Obsidian 插件：Auto Link Title
 
 > [!Note] 插件名片
 > - 插件名称：Auto Link Title
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 该插件在粘贴网页时，自动获取网页以提取链接标题，从而创建具有正确标题集的 markdown 链接。
 
-![Auto Link Title](https://cdn.pkmer.cn/covers/obsidian-auto-link-title.gif)
+![Auto Link Title](https://cdn.pkmer.cn/covers/obsidian-auto-link-title.GIF!pkmer)
 
 > [!tip] 原文出处
 >
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 ## Obsidian 自动链接标题
 
-![自动链接示例](https://cdn.pkmer.cn/covers/obsidian-auto-link-title_2_0.gif)
+![自动链接示例](auto-link-title.gif)
 
 ### 自动为新链接添加标题
 

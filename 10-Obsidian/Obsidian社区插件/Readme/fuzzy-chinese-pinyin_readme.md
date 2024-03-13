@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Fuzzy Chinese Pinyin
+uid: 2023080322185937
+title: Obsidian 插件：Fuzzy Chinese Pinyin
 tags: ['obsidian插件', 'readme']
 description: 提供使用中文拼音进行模糊搜索的功能。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Fuzzy Chinese Pinyin
+# Obsidian 插件：Fuzzy Chinese Pinyin
 
 > [!Note] 插件名片
 > - 插件名称：Fuzzy Chinese Pinyin
@@ -46,7 +46,7 @@ The plugin adds the command "Fuzzy Chinese Pinyin: Open Search". Set a shortcut 
 
 You can use full pinyin or initials, and you can mix them freely.
 
-![](https://cdn.pkmer.cn/covers/fuzzy-chinese-pinyin_2_0.jpeg!pkmer)
+![](README.jpg)
 
 You can set whether to display tags or enable traditional Chinese support.
 

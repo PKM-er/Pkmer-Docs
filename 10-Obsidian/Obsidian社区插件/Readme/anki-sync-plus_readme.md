@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611071921
 title: Obsidian 插件：【Readme】AnkiSync+
 tags: ['obsidian插件', 'readme']
 description: Obsidian与Anki之间的集成。

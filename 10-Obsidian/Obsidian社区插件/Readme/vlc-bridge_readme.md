@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219335116
 title: Obsidian 插件：【Readme】VLC Bridge
 tags: ['obsidian插件', 'readme']
 description: 使用VLC播放器记录视频/电影笔记，包括时间戳链接和快照。

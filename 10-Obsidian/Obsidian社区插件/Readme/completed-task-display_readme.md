@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Completed Task Display
+uid: 2023080322162252
+title: Obsidian 插件：Completed Task Display
 tags: ['任务管理', 'obsidian插件', 'readme']
 description: 提供控件来显示或隐藏已完成的任务。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Completed Task Display
+# Obsidian 插件：Completed Task Display
 
 > [!Note] 插件名片
 > - 插件名称：Completed Task Display
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 提供控件来显示或隐藏已完成的任务。
 
-![Completed Task Display](https://cdn.pkmer.cn/covers/completed-task-display.gif)
+![Completed Task Display](https://cdn.pkmer.cn/covers/completed-task-display.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -46,7 +46,7 @@ modified: 20230101000000
 
 ### 演示
 
-![](https://cdn.pkmer.cn/covers/completed-task-display_2_0.gif)
+![](demo-assets/ribbon-button.gif)
 
 ## 如何安装
 

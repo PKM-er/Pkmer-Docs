@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219311356
 title: Obsidian 插件：【Readme】Fix Require Modules
 tags: ['obsidian插件', 'readme']
 description: 修复了对内置模块的`require()`调用

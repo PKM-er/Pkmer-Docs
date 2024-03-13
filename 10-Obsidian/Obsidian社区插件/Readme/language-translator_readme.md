@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Language Translator
+uid: 2023080322211183
+title: Obsidian 插件：Language Translator
 tags: ['obsidian插件', 'readme']
 description: 一个Obsidian插件，可以将所选文本翻译成所需的语言。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Language Translator
+# Obsidian 插件：Language Translator
 
 > [!Note] 插件名片
 > - 插件名称：Language Translator
@@ -88,7 +88,7 @@ PS：如果您有建议，请参阅 [贡献](##Contributing) 部分。
 
 ## 设置
 
-![设置](https://cdn.pkmer.cn/covers/language-translator_2_0.jpeg!pkmer)
+![设置](img/settings.jpg)
 
 该插件允许进行某些类型的配置：
 

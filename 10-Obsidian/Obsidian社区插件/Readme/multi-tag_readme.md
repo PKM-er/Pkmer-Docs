@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611081332
 title: Obsidian 插件：【Readme】Multi Tag
 tags: ['obsidian插件', 'readme']
 description: 一次性给多个笔记添加标签。可以右键单击一个文件夹，或者选择多个笔记并右键单击选择。

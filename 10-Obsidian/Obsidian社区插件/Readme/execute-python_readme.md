@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611074665
 title: Obsidian 插件：【Readme】Execute Python
 tags: ['obsidian插件', 'readme']
 description: 轻量级的Python代码片段执行器，支持运行时输入。

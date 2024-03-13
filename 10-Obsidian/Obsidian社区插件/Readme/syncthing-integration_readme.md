@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011361503
 title: Obsidian 插件：【Readme】Syncthing Integration
 tags: ['obsidian插件', 'readme']
 description: Obsidian中的Syncthing集成。

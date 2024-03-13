@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023080322222196
 title: Obsidian 插件：Meld Calc
 tags: ['obsidian插件', 'readme']
 description: 做数学！在你的笔记中评估数学表达式。
@@ -36,11 +36,11 @@ modified: 20230101000000
 
 # Obsidian 计算器插件
 
-该插件使用<https://github.com/5anthosh/fcal> 来计算 Obsidian 笔记中的数学表达式。>
+该插件使用<https://github.com/5anthosh/fcal>来计算 Obsidian 笔记中的数学表达式。
 
 > 使用 fcal，您可以进行基本的算术运算和百分比运算，具有精确度。它具有灵活的表达式解析器，内置了大量的单位、函数和常量。
 
-请参阅<https://github.com/5anthosh/fcal/wiki> 获取更多信息。>
+请参阅<https://github.com/5anthosh/fcal/wiki>获取更多信息。
 
 使用方法
 

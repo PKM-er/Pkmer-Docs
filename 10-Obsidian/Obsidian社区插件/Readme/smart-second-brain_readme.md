@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121250823
 title: Obsidian 插件：【Readme】Smart Second Brain
 tags: ['obsidian插件', 'readme']
 description: 与您专注于隐私的助手互动，利用Ollama或OpenAI，让您的第二大脑变得更加智能。

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322214908
 title: Obsidian 插件：Loom
 tags: ['obsidian插件', 'readme']
 description: 黑曜石中的织布机

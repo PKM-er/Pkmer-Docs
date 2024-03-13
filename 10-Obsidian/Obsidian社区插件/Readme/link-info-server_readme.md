@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322213132
 title: Obsidian 插件：Link Server
 tags: ['obsidian插件', 'readme']
 description: 该插件将在端口3333上打开一个反向代理服务器以获取Obsidian API的wikiLink信息。

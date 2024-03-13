@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121201376
 title: Obsidian 插件：【Readme】Note Gallery
 tags: ['obsidian插件', 'readme']
 description: 一个砌体画廊，将可视化您的笔记，类似于Craft笔记视图。

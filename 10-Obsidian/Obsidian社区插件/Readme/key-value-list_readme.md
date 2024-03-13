@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117285483
 title: Obsidian 插件：【Readme】Key-Value List
 tags: ['obsidian插件', 'readme']
 description: 使得将列表转换为整洁格式的键值对列表变得容易。

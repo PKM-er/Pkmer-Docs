@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219302792
 title: Obsidian 插件：【Readme】Crafty
 tags: ['obsidian插件', 'readme']
 description: Add tooltip to any canvas node and quickly navigate between canvas nodes.

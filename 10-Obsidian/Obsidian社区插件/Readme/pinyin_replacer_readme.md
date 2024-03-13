@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121220546
 title: Obsidian 插件：【Readme】Pinyin Replacer
 tags: ['obsidian插件', 'readme']
 description: 使用拼音音调，无需安装额外的键盘布局。

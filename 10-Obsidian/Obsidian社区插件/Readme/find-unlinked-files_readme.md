@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322182546
 title: Obsidian 插件：Find orphaned files and broken links
 tags: ['链接处理', '效率', 'obsidian插件', 'readme']
 description: 找到孤立的文件(没有引用的文件) 和 损坏的链接

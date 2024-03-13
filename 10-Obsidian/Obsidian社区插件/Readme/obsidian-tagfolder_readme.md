@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】TagFolder
+uid: 2023080322274958
+title: Obsidian 插件：TagFolder
 tags: ['文件管理', '标签', 'obsidian插件', 'readme']
 description: 将标签变为文件夹形式，管理你的笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】TagFolder
+# Obsidian 插件：TagFolder
 
 > [!Note] 插件名片
 > - 插件名称：TagFolder
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这是一个将您的标签显示为文件夹的插件。
 
-![截图](https://cdn.pkmer.cn/covers/obsidian-tagfolder_2_0.png!pkmer)
+![截图](images/screenshot.png)
 
 ### 如何使用
 
@@ -62,7 +62,7 @@ Pear  : #食物 #绿色 #甜
 Tuna  : #食物 #红色
 ```
 
-![](https://cdn.pkmer.cn/covers/obsidian-tagfolder_2_1.png!pkmer)
+![](./images/simplecase.png)
 
 ...还有更多显示。
 
@@ -81,11 +81,11 @@ Tuna  : #食物 #红色
 
 #### 状态的标签层次结构
 
-![](https://cdn.pkmer.cn/covers/obsidian-tagfolder_2_2.png!pkmer)
+![](./images/respect-nestedtag-1.png)
 
 #### 日期的标签层次结构
 
-![](https://cdn.pkmer.cn/covers/obsidian-tagfolder_2_3.png!pkmer)
+![](./images/respect-nestedtag-2.png)
 
 #### 搜索标签
 

@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522260579
 title: Obsidian 插件：【Readme】Mini Vimrc
 tags: ['obsidian插件', 'readme']
 description: 通过.vimrc文件添加Vim键绑定。

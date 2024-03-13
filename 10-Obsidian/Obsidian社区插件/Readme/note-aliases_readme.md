@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322225759
 title: Obsidian 插件：Note aliases
 tags: ['obsidian插件', 'readme']
 description: 这个插件管理Obsidian中的笔记别名。

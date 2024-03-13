@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322285925
 title: Obsidian 插件：Unique attachments
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 重命名附件，使它们的名称唯一（基于文件内容的哈希值）。

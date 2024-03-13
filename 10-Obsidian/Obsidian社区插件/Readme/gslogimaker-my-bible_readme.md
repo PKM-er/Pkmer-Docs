@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121200108
 title: Obsidian 插件：【Readme】My Bible
 tags: ['obsidian插件', 'readme']
 description: 您自己可定制的Markdown圣经，适用于您的个人保险库！

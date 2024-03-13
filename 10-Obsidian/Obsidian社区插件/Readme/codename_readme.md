@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611073422
 title: Obsidian 插件：【Readme】Codename
 tags: ['obsidian插件', 'readme']
 description: 一个解决最困难问题的插件 - 命名事物。

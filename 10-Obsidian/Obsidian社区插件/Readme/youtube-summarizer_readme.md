@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022122532622
 title: Obsidian 插件：【Readme】Youtube Summarizer
 tags: ['obsidian插件', 'readme']
 description: 使用ChatGPT 3.5总结Youtube视频。

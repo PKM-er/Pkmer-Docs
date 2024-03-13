@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117270009
 title: Obsidian 插件：【Readme】Continuous Mode
 tags: ['obsidian插件', 'readme']
 description: 在一个标签组中显示所有打开的笔记，作为一个连续可滚动的页面（有时被称为Scrivenings模式）。

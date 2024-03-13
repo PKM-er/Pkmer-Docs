@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322165461
 title: Obsidian 插件：Custom window title
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这个插件在窗口标题中显示当前打开的音符。

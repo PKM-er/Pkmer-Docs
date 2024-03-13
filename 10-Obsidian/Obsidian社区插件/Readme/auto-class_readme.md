@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Auto Class
+uid: 2023080322142680
+title: Obsidian 插件：Auto Class
 tags: ['obsidian插件', 'readme']
 description: 根据笔记路径自动应用CSS类到markdown视图。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Auto Class
+# Obsidian 插件：Auto Class
 
 > [!Note] 插件名片
 > - 插件名称：Auto Class
@@ -50,7 +50,7 @@ modified: 20230101000000
 
 可以根据笔记的路径或标签应用类。在设置中，配置文件夹路径或标签以及要应用于该文件夹的子文件夹或具有该标签的文件的类。对于高级用例，可以在设置中启用全局匹配。
 
-![AutoClass](https://cdn.pkmer.cn/covers/auto-class_2_0.png!pkmer)
+![AutoClass](doc/screenshot.png)
 
 配置完成后，下次更新视图时将应用这些类。
 

@@ -1,5 +1,5 @@
 ---
-uid: 20230820121454
+uid: 2023082011361877
 title: Obsidian 插件：【Readme】Vault 2 Book
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记转换为一本书，创建一个包含所有链接的笔记的单个文件。

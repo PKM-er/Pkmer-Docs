@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Markdown shortcuts
+uid: 2023080322220350
+title: Obsidian 插件：Markdown shortcuts
 tags: ['obsidian插件', 'readme']
 description: 允许使用快捷键编写Markdown
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Markdown shortcuts
+# Obsidian 插件：Markdown shortcuts
 
 > [!Note] 插件名片
 > - 插件名称：Markdown shortcuts
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许使用快捷键编写 Markdown
 
-![Markdown shortcuts](https://cdn.pkmer.cn/covers/markdown-shortcuts.gif)
+![Markdown shortcuts](https://cdn.pkmer.cn/covers/markdown-shortcuts.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 # Obsidian Markdown 快捷键
 
-这是一个为 Obsidian（<<https://obsidian.md>）设计的插件。>
+这是一个为 Obsidian（<https://obsidian.md>）设计的插件。
 
 为什么？
 
@@ -56,14 +56,14 @@ modified: 20230101000000
 
 您只需在文件中想要的位置写入 `>`，然后进行选择。
 
-![example.gif](https://cdn.pkmer.cn/covers/markdown-shortcuts_2_0.gif)
+![example.gif](./images/example.gif)
 
 ## 配置插件
 
 - `触发字符` 设置触发命令的字符。
 - `简单命令` 插入没有示例的命令。
 
-![settings.png](https://cdn.pkmer.cn/covers/markdown-shortcuts_2_1.png!pkmer)
+![settings.png](./images/settings.png)
 
 如何安装？
 
@@ -77,7 +77,7 @@ modified: 20230101000000
 - 解压缩文件
 - 在设置中启用插件，然后您就可以使用了
 
-![enable.png](https://cdn.pkmer.cn/covers/markdown-shortcuts_2_2.png!pkmer)
+![enable.png](./images/enable.png)
 
 有任何问题或建议吗？
 

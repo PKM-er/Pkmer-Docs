@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Reference Map
+uid: 2023080322254952
+title: Obsidian 插件：Reference Map
 tags: ['obsidian插件', 'readme']
 description: 文献综述和发现的参考文献和引文图谱。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Reference Map
+# Obsidian 插件：Reference Map
 
 > [!Note] 插件名片
 > - 插件名称：Reference Map
@@ -36,7 +36,7 @@ modified: 20230101000000
 
 下面是 [[reference-map]] 插件的自述翻译
 
-![ORM-Header-logo](https://cdn.pkmer.cn/covers/reference-map_2_0.png!pkmer)
+![ORM-Header-logo](./images/reference-map.png)
 
 # 参考地图
 
@@ -63,7 +63,7 @@ modified: 20230101000000
 
 这个 `README.md` 文件包含了插件的基本描述，详细的指南请**参考 [Wiki](https://github.com/anoopkcn/obsidian-reference-map/wiki) 页面**。
 
-![ORM-demo](https://cdn.pkmer.cn/covers/reference-map_2_1.png!pkmer)
+![ORM-demo](./images/orm-demo-0.7.5.png)
 
 ### 参考地图视图
 
@@ -94,7 +94,7 @@ modified: 20230101000000
 
 *批量操作仅适用于索引卡*
 
-![ORM-ref-cite](https://cdn.pkmer.cn/covers/reference-map_2_2.png!pkmer)
+![ORM-ref-cite](./images/orm-list-demo.png)
 
 ### 静态引用列表
 

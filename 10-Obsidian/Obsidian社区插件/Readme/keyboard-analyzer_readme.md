@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Keyboard Analyzer
+uid: 2023080322210114
+title: Obsidian 插件：Keyboard Analyzer
 tags: ['obsidian插件', 'readme']
 description: 查看和分析你的键盘快捷键和快捷方式
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Keyboard Analyzer
+# Obsidian 插件：Keyboard Analyzer
 
 > [!Note] 插件名片
 > - 插件名称：Keyboard Analyzer
@@ -45,7 +45,7 @@ modified: 20230101000000
 
 ---
 
-![image](https://cdn.pkmer.cn/covers/keyboard-analyzer_1_4.png!pkmer)
+![image](https://user-images.githubusercontent.com/50235526/208871771-f1feb390-1d4e-4ea4-b2c9-7696b18a2f8f.png)
 
 <details><summary>📽️ 功能演示视频</summary>
 <br>

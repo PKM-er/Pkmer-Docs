@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121215597
 title: Obsidian 插件：【Readme】Persistent Key-Value Store
 tags: ['obsidian插件', 'readme']
 description: 提供一个持久的键值存储，用于在Obsidian中的脚本中使用。

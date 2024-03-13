@@ -1,5 +1,5 @@
 ---
-uid: 20240227173210
+uid: 2024022121254855
 title: Obsidian 插件：【Readme】Strip Internal Links
 tags: ['obsidian插件', 'readme']
 description: 复制文件或选定内容到剪贴板，不包括内部链接

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219314925
 title: Obsidian 插件：【Readme】Image to text OCR
 tags: ['obsidian插件', 'readme']
 description: 将笔记中的图像转换为文本。

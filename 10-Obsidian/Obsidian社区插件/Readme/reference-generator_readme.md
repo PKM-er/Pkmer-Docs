@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121233999
 title: Obsidian 插件：【Readme】Reference Generator
 tags: ['obsidian插件', 'readme']
 description: 将链接转换为类似于哈佛、MLA、APA等风格的参考文献。

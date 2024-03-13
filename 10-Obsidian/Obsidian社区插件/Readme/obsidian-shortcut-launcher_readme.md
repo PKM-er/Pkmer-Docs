@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Shortcut Launcher
+uid: 2023080322264550
+title: Obsidian 插件：Shortcut Launcher
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中使用自定义命令触发Apple Shortcuts应用中的快捷键。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Shortcut Launcher
+# Obsidian 插件：Shortcut Launcher
 
 > [!Note] 插件名片
 > - 插件名称：Shortcut Launcher
@@ -24,8 +24,6 @@ modified: 20230101000000
 
 在 Obsidian 中使用自定义命令触发 Apple Shortcuts 应用中的快捷键。
 
-![Shortcut Launcher](https://cdn.pkmer.cn/covers/obsidian-shortcut-launcher.png!pkmer)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/macstories/obsidian-shortcut-launcher/main/README.md)
@@ -38,13 +36,13 @@ modified: 20230101000000
 
 # Obsidian 快捷方式启动器
 
-![](https://cdn.pkmer.cn/covers/obsidian-shortcut-launcher_1_0.png!pkmer)
+![](https://cdn.macstories.net/osl-1643193603979.png)
 
 从 Obsidian 作为自定义命令触发 Apple 的快捷方式应用程序中的快捷方式。
 
 Obsidian 快捷方式启动器（简称为 'OSL'）允许您触发快捷方式并将 Obsidian 中的值作为输入传递。在 iOS 和 iPadOS 上，使用 Apple 官方的快捷方式 URL 方案从 Obsidian 触发快捷方式；在 macOS 上，OSL 可以在后台运行快捷方式 - 而无需打开快捷方式应用程序。
 
-![](https://cdn.pkmer.cn/covers/obsidian-shortcut-launcher_1_1.png!pkmer)
+![](https://cdn.macstories.net/cleanshot-2022-01-21-at-5-39-50-2x-1642783463880.png)
 
 该插件**需要 iOS 15、iPadOS 15 或 macOS Monterey**。
 
@@ -54,7 +52,7 @@ Obsidian 快捷方式启动器（简称为 'OSL'）允许您触发快捷方式�
 
 为快捷方式创建启动器
 
-![在Obsidian中为快捷方式创建启动器。](https://cdn.pkmer.cn/covers/obsidian-shortcut-launcher_1_2.png!pkmer)
+![在Obsidian中为快捷方式创建启动器。](https://cdn.macstories.net/monday-24-jan-2022-18-21-39-1643044904822.png)
 
 OSL 通过为您想要在 Shortcuts 应用程序中运行的快捷方式创建 " 启动器 " 来工作。这些启动器显示为 Obsidian 中的单独命令。
 
@@ -78,11 +76,11 @@ Obsidian 快捷启动器允许您通过 Obsidian 发送的输入文本运行快�
 
 以下是一个示例，其中 Obsidian 命令将当前文档的名称传递给了 Shortcuts 应用中的一个快捷方式：
 
-![](https://cdn.pkmer.cn/covers/obsidian-shortcut-launcher_1_3.png!pkmer)
+![](https://cdn.macstories.net/monday-24-jan-2022-18-23-05-1643044990698.png)
 
 以下是您如何从 Obsidian 接收附件并在 Shortcuts 中使用 base64 解码它们的示例：
 
-![](https://cdn.pkmer.cn/covers/obsidian-shortcut-launcher_1_4.png!pkmer)
+![](https://cdn.macstories.net/cleanshot-2022-01-26-at-12-03-47-2x-1643195055516.png)
 
 使用自定义分隔符传递多个值
 

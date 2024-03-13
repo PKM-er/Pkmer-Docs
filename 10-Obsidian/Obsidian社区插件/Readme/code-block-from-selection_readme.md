@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322160213
 title: Obsidian 插件：Code block from selection
 tags: ['快捷键', 'obsidian插件', 'readme']
 description: 为所选文本添加代码块。

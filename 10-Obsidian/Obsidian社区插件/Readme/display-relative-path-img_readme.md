@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219305572
 title: Obsidian 插件：【Readme】Display Relative Path Img
 tags: ['obsidian插件', 'readme']
 description: 显示<img>标签的图像

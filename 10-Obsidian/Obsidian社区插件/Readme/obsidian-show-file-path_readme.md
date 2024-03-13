@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Show Current File Path
+uid: 2023080322264746
+title: Obsidian 插件：Show Current File Path
 tags: ['界面相关', '状态栏', 'obsidian插件', 'readme']
 description: 在状态栏中显示当前打开文件的完整路径
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Show Current File Path
+# Obsidian 插件：Show Current File Path
 
 > [!Note] 插件名片
 > - 插件名称：Show Current File Path
@@ -52,7 +52,7 @@ modified: 20230101000000
 
 ## 截图
 
-![截图](https://cdn.pkmer.cn/covers/obsidian-show-file-path_2_0.png!pkmer)
+![截图](images/screenshot.png)
 
 ## 限制
 

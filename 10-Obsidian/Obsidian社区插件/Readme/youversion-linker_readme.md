@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611090077
 title: Obsidian 插件：【Readme】YouVersion Linker
 tags: ['obsidian插件', 'readme']
 description: 自动将您的笔记中的圣经经文链接到YouVersion圣经。

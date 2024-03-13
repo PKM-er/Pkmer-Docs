@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Code Block Enhancer
+uid: 2023080322160119
+title: Obsidian 插件：Code Block Enhancer
 tags: ['编辑工具', '编程', '美化', 'obsidian插件', 'readme']
 description: 增强 Obsidian 代码域的体验，提供复制按钮、行号、语言名称提示，代码块的上下文菜单。。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Code Block Enhancer
+# Obsidian 插件：Code Block Enhancer
 
 > [!Note] 插件名片
 > - 插件名称：Code Block Enhancer
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 代码块增强插件
 
-这是一个为 Obsidian（<<https://obsidian.md>）开发的插件。>
+这是一个为 Obsidian（<https://obsidian.md>）开发的插件。
 
 灵感来自于 [obsidian-code-block-copy](https://github.com/jdbrice/obsidian-code-block-copy)。
 
@@ -56,27 +56,27 @@ modified: 20230101000000
 
 ## 截图
 
-![Gif](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_0.gif)
+![Gif](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/GIF.gif?raw=true)
 
 ### 默认暗色主题
 
-![Obsidian_Default_Dark_Theme](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_1.png!pkmer)
+![Obsidian_Default_Dark_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Default_Dark_Theme.png?raw=true)
 
 ### 默认的浅色主题
 
-![Obsidian_Default_Light_Theme](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_2.png!pkmer)
+![Obsidian_Default_Light_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Default_Light_Theme.png?raw=true)
 
 ### Gruvbox 主题
 
-![Obsidian_Gruvbox_Dark_Theme](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_3.png!pkmer)
+![Obsidian_Gruvbox_Dark_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Gruvbox_Dark_Theme.png?raw=true)
 
 ### Nord 主题
 
-![Obsidian_Nord_Dark_Theme](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_4.png!pkmer)
+![Obsidian_Nord_Dark_Theme](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/Obsidian_Nord_Dark_Theme.png?raw=true)
 
 ### 插件设置
 
-![plugin_settings](https://cdn.pkmer.cn/covers/obsidian-code-block-enhancer_1_5.png!pkmer)
+![plugin_settings](https://github.com/nyable/obsidian-code-block-enhancer/blob/master/screenshot/plugin_settings.png?raw=true)
 
 # 如何使用
 

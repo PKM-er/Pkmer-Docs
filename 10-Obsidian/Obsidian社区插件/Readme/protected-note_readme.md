@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121231913
 title: Obsidian 插件：【Readme】Protected Note
 tags: ['obsidian插件', 'readme']
 description: Set password and protect your notes from other people.

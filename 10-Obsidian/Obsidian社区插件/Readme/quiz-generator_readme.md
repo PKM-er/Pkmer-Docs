@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219330941
 title: Obsidian 插件：【Readme】Quiz Generator
 tags: ['obsidian插件', 'readme']
 description: 使用OpenAI的GPT-3.5和GPT-4模型从您的笔记中生成互动式测验。

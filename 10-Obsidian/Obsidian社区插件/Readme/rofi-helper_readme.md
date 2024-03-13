@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Rofi Helper
+uid: 2023080322261122
+title: Obsidian 插件：Rofi Helper
 tags: ['obsidian插件', 'readme']
 description: 为了在Rofi中在打开的黑曜石标签之间切换，将叶子ID参数添加到URI协议中。包含了一个示例的Rofi脚本。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Rofi Helper
+# Obsidian 插件：Rofi Helper
 
 > [!Note] 插件名片
 > - 插件名称：Rofi Helper
@@ -64,7 +64,7 @@ rofi -modes "window,obsidian" -show window -show-icons -modi "window,obsidian:./
 
 这是在桌面环境中使用全局快捷键切换标签的样子：
 
-![屏幕截图](https://cdn.pkmer.cn/covers/rofi-helper_2_0.jpeg!pkmer)
+![屏幕截图](example.jpg)
 
 这仅在 Linux 上进行了测试。
 

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Collapse All
+uid: 2023080322161052
+title: Obsidian 插件：Collapse All
 tags: ['导航工具', '文件管理', 'obsidian插件', 'readme']
 description: 这个插件添加了一个按钮来折叠文件资源管理器中的所有文件夹。官方已经有类似的功能
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Collapse All
+# Obsidian 插件：Collapse All
 
 > [!Note] 插件名片
 > - 插件名称：Collapse All
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 这个插件添加了一个按钮来折叠文件资源管理器中的所有文件夹。官方已经有类似的功能
 
-![Collapse All](https://cdn.pkmer.cn/covers/obsidian-collapse-all-plugin_new.gif)
+![Collapse All](https://cdn.pkmer.cn/covers/obsidian-collapse-all-plugin_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -60,7 +60,7 @@ Obsidian 自 v0.16.0 版本起，原生支持文件资源管理器和标签窗�
 
 默认情况下，配置的附件文件夹不会被展开（如果已配置）。这可以在插件设置中进行配置。
 
-![CollapseAll](https://cdn.pkmer.cn/covers/obsidian-collapse-all-plugin_2_0.gif)
+![CollapseAll](docs/CollapseAll.gif)
 
 ## 更新日志
 

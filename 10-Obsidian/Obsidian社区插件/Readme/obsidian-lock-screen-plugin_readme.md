@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322214633
 title: Obsidian 插件：Lock Screen
 tags: ['obsidian插件', 'readme']
 description: 保护你的金库用一个锁屏。

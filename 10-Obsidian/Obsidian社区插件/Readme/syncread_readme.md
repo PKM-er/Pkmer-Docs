@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121260006
 title: Obsidian 插件：【Readme】syncread-assistant
 tags: ['obsidian插件', 'readme']
 description: 从syncread应用程序同步文章

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】File Include
+uid: 2023080322181597
+title: Obsidian 插件：File Include
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian的markdown中包含或嵌入文件。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】File Include
+# Obsidian 插件：File Include
 
 > [!Note] 插件名片
 > - 插件名称：File Include
@@ -36,7 +36,7 @@ modified: 20230101000000
 
 下面是 [[file-include]] 插件的自述翻译
 
-![](https://cdn.pkmer.cn/covers/file-include_2_0.png!pkmer)
+![](demo.png)
 
 使用 `include` 代码块在 Obsidian 中包含文件。
 

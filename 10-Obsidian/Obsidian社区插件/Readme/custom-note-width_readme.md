@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117271505
 title: Obsidian 插件：【Readme】Custom Note Width
 tags: ['obsidian插件', 'readme']
 description: 毫不费力地单独更改每个音符的线宽。该插件提供多种自定义体验的方式，使调整线宽既高效又用户友好。

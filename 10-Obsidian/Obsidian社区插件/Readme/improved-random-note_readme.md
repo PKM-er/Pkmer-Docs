@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522254040
 title: Obsidian 插件：【Readme】Improved Random Note
 tags: ['obsidian插件', 'readme']
 description: 通过打开特定的随机笔记，在所谓的漫游模式下改进与知识库的交互。
@@ -45,4 +45,4 @@ modified: 20230101000000
 - 从输出中排除特定文件夹中的笔记。对于排除存档、模板和其他服务文件夹非常有用。
 - 可以仅打开带有特定标签的笔记，并与从输出中排除特定文件夹的组合使用。
 
-该插件是专为 Second Brain 项目（<<https://second-brain.ru/>）开发的。>
+该插件是专为 Second Brain 项目（<https://second-brain.ru/>）开发的。

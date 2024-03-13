@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219295916
 title: Obsidian 插件：【Readme】Canvas Link Optimizer
 tags: ['obsidian插件', 'readme']
 description: 优化Canvas链接，通过显示页面缩略图。

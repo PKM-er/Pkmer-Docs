@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322152315
 title: Obsidian 插件：Budget WYSIWYG
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 这是一个插件，它可以根据您是否正在输入来自动切换预览模式和源模式。

@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011360177
 title: Obsidian 插件：【Readme】NAI 4 Obsidian
 tags: ['obsidian插件', 'readme']
 description: 使用NovelAI的模型生成文本。

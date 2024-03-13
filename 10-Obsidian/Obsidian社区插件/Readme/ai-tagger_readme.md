@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219294338
 title: Obsidian 插件：【Readme】AI Tagger
 tags: ['obsidian插件', 'readme']
 description: 简化标记。只需点击一下即可立即分析和标记您的文档，以便高效地组织笔记。需要OpenAI API密钥。

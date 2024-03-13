@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Frontmatter Alias Display
+uid: 2023080322185262
+title: Obsidian 插件：Frontmatter Alias Display
 tags: ['obsidian插件', 'readme']
 description: 在文件资源管理器中，将前置元数据别名显示为显示名称。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Frontmatter Alias Display
+# Obsidian 插件：Frontmatter Alias Display
 
 > [!Note] 插件名片
 > - 插件名称：Frontmatter Alias Display
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 在文件资源管理器中，将前置元数据别名显示为显示名称。
 
-![Frontmatter Alias Display](https://cdn.pkmer.cn/covers/frontmatter-alias-display.gif)
+![Frontmatter Alias Display](https://cdn.pkmer.cn/covers/frontmatter-alias-display.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这是一个为 Obsidian.md 设计的插件，可以在文件资源管理器中将前言别名显示为文件名。目前，它只支持文件资源管理器，但我计划在图形视图中也实现这个功能。
 
-![演示](https://cdn.pkmer.cn/covers/frontmatter-alias-display_2_0.gif)
+![演示](frontmatter-alias-display.gif)
 
 为什么？
 
@@ -52,7 +52,7 @@ modified: 20230101000000
 
 因此，现在我们可以保持笔记 ID 的纯净性，同时在前置数据中保持一个信息丰富的标题。当我们链接到另一个笔记时，我们可以使用 Obsidian 的有用的链接别名，通过输入 `[[ID|Alias]]` 来链接到以 `ID` 为标题的笔记，但显示 `Alias` 作为链接。
 
-![使用“[[ID|Alias]]”](https://cdn.pkmer.cn/covers/frontmatter-alias-display_2_1.gif)
+![使用“[[ID|Alias]]”](IDAlias.gif)
 
 #### 反馈
 

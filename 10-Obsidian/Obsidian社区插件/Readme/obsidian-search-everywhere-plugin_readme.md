@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322262887
 title: Obsidian 插件：Search Everywhere
 tags: ['obsidian插件', 'readme']
 description: 按两次Shift键就可以像在IntelliJ中一样搜索全部

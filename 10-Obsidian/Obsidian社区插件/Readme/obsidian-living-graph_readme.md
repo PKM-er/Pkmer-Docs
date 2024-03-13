@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322214123
 title: Obsidian 插件：Living Graph
 tags: ['obsidian插件', 'readme']
 description: 一个有趣的图形插件

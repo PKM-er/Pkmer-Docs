@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】WakaTime
+uid: 2023080322292319
+title: Obsidian 插件：WakaTime
 tags: ['效率', '美化', '统计', 'obsidian插件', 'readme']
 description: WakaTime Obsidian插件，用于从您的 Obsidian 使用活动中自动生成，使用情况的度量、数据报告和时间跟踪。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】WakaTime
+# Obsidian 插件：WakaTime
 
 > [!Note] 插件名片
 > - 插件名称：WakaTime
@@ -53,7 +53,7 @@ WakaTime Obsidian 插件，用于从您的 Obsidian 使用活动中自动生成�
 
 访问 [https://wakatime.com](https://wakatime.com) 以查看您的编码活动。
 
-![项目概览](https://cdn.pkmer.cn/covers/obsidian-wakatime_1_0.png!pkmer)
+![项目概览](https://wakatime.com/static/img/ScreenShots/Screen-Shot-2016-03-21.png)
 
 要编辑您的 API 密钥，请打开“命令面板”，然后键入“WakaTime”，选择“WakaTime API 密钥”命令。
 

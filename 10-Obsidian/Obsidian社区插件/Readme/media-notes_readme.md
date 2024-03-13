@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219321499
 title: Obsidian 插件：【Readme】Media Notes
 tags: ['obsidian插件', 'readme']
 description: 在YouTube视频和播客上做笔记，带有媒体控件和时间戳。

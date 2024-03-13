@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611080073
 title: Obsidian 插件：【Readme】Image Converter
 tags: ['obsidian插件', 'readme']
 description: 通过拖放或粘贴到笔记中，将图像从一种格式转换、压缩和调整大小为另一种格式。

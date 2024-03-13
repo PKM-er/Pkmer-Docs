@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Extract url content
+uid: 2023080322180547
+title: Obsidian 插件：Extract url content
 tags: ['链接处理', '转换工具', 'obsidian插件', 'readme']
 description: 将URL提取内容转换为Markdown
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Extract url content
+# Obsidian 插件：Extract url content
 
 > [!Note] 插件名片
 > - 插件名称：Extract url content
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 将 URL 提取内容转换为 Markdown
 
-![Extract url content](https://cdn.pkmer.cn/covers/extract-url_new.gif)
+![Extract url content](https://cdn.pkmer.cn/covers/extract-url_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # Obsidian 插件：将 URL 转换为 markdown 格式
 
-![演示](https://cdn.pkmer.cn/covers/extract-url_2_0.gif)
+![演示](images/demo-extract-url.gif)
 
 如果网站允许，将 URL 转换为 markdown 格式。
 
@@ -74,4 +74,4 @@ link: "https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-cod
 
 如果您的系统已安装 `youtube-dl`，则会从 YouTube 网址中提取额外的详细信息，如频道名称和描述。
 
-![youtube](https://cdn.pkmer.cn/covers/extract-url_2_1.png!pkmer)
+![youtube](images/youtube.png)

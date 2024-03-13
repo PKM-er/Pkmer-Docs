@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121240586
 title: Obsidian 插件：【Readme】Set View Mode per Note
 tags: ['obsidian插件', 'readme']
 description: 使用YAML前置元数据来为每个笔记指定一个视图模式。

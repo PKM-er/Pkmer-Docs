@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Numerals
+uid: 2023080322230943
+title: Obsidian 插件：Numerals
 tags: ['obsidian插件', 'readme']
 description: .Numerals可以将任何代码块变成一个高级计算器。评估代码块中每一行的数学表达式，包括单位、货币以及可选的TeX渲染。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Numerals
+# Obsidian 插件：Numerals
 
 > [!Note] 插件名片
 > - 插件名称：Numerals
@@ -42,9 +42,9 @@ modified: 20230101000000
 
 *数字黑曜石* 在 `math` 代码块中为您提供了一个高级计算器的功能，包括货币、单位、变量和数学函数！现在您可以在笔记中进行内联计算，并查看输入和计算结果。*数字黑曜石* 可与实时预览和阅读器视图一起使用，并提供 TeX 风格的渲染或语法高亮以及自动补全建议。可以使用 `#` 添加注释或解释，并可以在计算后使用 `=>` 指示重要结果。
 
-![数字黑曜石柠檬摊 - 并排显示](https://cdn.pkmer.cn/covers/numerals_1_2.png!pkmer)
+![数字黑曜石柠檬摊 - 并排显示](https://user-images.githubusercontent.com/1195174/200186757-a71b5e7a-df96-4350-b6a4-366d758e696d.png)
 
-![数字黑曜石 TeX 示例](https://cdn.pkmer.cn/covers/numerals_1_3.png!pkmer)
+![数字黑曜石 TeX 示例](https://user-images.githubusercontent.com/1195174/201516487-75bb7a08-76ab-4ff3-bf6b-d654aa284ab7.png)
 
 ## 特点
 
@@ -90,7 +90,7 @@ modified: 20230101000000
 
 可以从 *Numerals* 设置中选择其中一种选项作为默认样式，或者可以通过使用 `math-plain`、`math-tex` 或 `math-highlight` 而不是 `math` 代码块来在每个块上应用不同的样式。
 
-![Numerals 渲染样式并排显示](https://cdn.pkmer.cn/covers/numerals_1_4.png!pkmer)
+![Numerals 渲染样式并排显示](https://user-images.githubusercontent.com/1195174/201587645-5a79aafa-5008-49d0-b584-5c6a99c7edc5.png)
 
 布局
 
@@ -99,14 +99,14 @@ modified: 20230101000000
 - 答案显示在输入框的右侧，带有背景颜色和分隔符。
 - 独特的样式将输入与评估的答案分开。
 
-![Numerals 2 Panes](https://cdn.pkmer.cn/covers/numerals_1_5.png!pkmer)
+![Numerals 2 Panes](https://user-images.githubusercontent.com/1195174/200186692-0b6a0a7b-3f77-47f8-887f-d7d333b53967.png)
 
 #### 答案居右
 
 - 答案居右：答案在与输入相同的行中显示，但右对齐
 - 比两个窗格更微妙，适用于只有少量计算的情况
 
-![Numerals answer right](https://cdn.pkmer.cn/covers/numerals_1_6.png!pkmer)
+![Numerals answer right](https://user-images.githubusercontent.com/1195174/200186885-dedf1ccb-0464-4732-976e-0eaf54f5d098.png)
 
 #### 答案如下
 
@@ -117,13 +117,13 @@ modified: 20230101000000
 
 选择一个一致的代码块背景颜色（左侧），或者交替行来帮助从输入到结果的跟踪（右侧）。
 
-![数字交替行样式比较](https://cdn.pkmer.cn/covers/numerals_1_7.png!pkmer)
+![数字交替行样式比较](https://user-images.githubusercontent.com/1195174/200187338-24912a83-eb1e-4188-a843-e189f33e7133.png)
 
 ### 自动完成建议
 
 默认情况下，*Numerals* 将为在特定的 `math` 代码块中定义的变量提供自动完成建议。打开 *在建议中包括函数和常量* 还将为 *Numerals* 支持的所有函数、数学常量和物理常量提供建议。
 
-![函数的自动完成](https://cdn.pkmer.cn/covers/numerals_1_8.png!pkmer)
+![函数的自动完成](https://user-images.githubusercontent.com/1195174/215416147-68110298-0e10-44e5-9351-83efc3a17bba.png)
 
 ### 渲染结果的数字格式
 

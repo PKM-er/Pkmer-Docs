@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】DMN Eval
+uid: 2023080322172411
+title: Obsidian 插件：DMN Eval
 tags: ['obsidian插件', 'readme']
 description: 该插件使得能够评估/执行DMN。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】DMN Eval
+# Obsidian 插件：DMN Eval
 
 > [!Note] 插件名片
 > - 插件名称：DMN Eval
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 该插件使得能够评估/执行 DMN。
 
-![DMN Eval](https://cdn.pkmer.cn/covers/dmn-eval_new.gif)
+![DMN Eval](https://cdn.pkmer.cn/covers/dmn-eval_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -96,7 +96,7 @@ variables:
 
 ### 示例
 
-![示例](https://cdn.pkmer.cn/covers/dmn-eval_2_0.gif)
+![示例](example/dmn-eval-plugin.gif)
 
 ## 开发方式
 

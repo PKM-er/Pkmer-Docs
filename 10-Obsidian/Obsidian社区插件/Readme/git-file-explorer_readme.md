@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117280494
 title: Obsidian 插件：【Readme】Git File Explorer
 tags: ['obsidian插件', 'readme']
 description: 将检测到的git存储库的相关git信息添加到文件资源管理器中

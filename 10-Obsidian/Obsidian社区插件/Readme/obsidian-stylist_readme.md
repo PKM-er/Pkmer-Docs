@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322234435
 title: Obsidian 插件：Obsidian Stylist
 tags: ['obsidian插件', 'readme']
 description: Obsidian插件，允许在markdown块中添加类和样式

@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611083923
 title: Obsidian 插件：【Readme】Text Transform
 tags: ['obsidian插件', 'readme']
 description: 此插件添加了使用键盘快捷键将文本转换为不同大小写的选项。

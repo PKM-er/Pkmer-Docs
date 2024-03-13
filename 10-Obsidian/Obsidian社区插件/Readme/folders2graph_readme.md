@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219311557
 title: Obsidian 插件：【Readme】Folders to Graph
 tags: ['obsidian插件', 'readme']
 description: 将您的保险库文件夹结构显示在您的图表中。

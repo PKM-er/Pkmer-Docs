@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Kindle Highlights
+uid: 2023080322210648
+title: Obsidian 插件：Kindle Highlights
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 使用您的亚马逊登录或上传您的“我的剪辑”文件来同步您的Kindle书籍突出显示
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Kindle Highlights
+# Obsidian 插件：Kindle Highlights
 
 > [!Note] 插件名片
 > - 插件名称：Kindle Highlights
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 使用您的亚马逊登录或上传您的“我的剪辑”文件来同步您的 Kindle 书籍突出显示
 
-![Kindle Highlights](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_new.gif)
+![Kindle Highlights](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -58,7 +58,7 @@ modified: 20230101000000
 
 您可以通过使用 USB 将其连接到计算机来提取您的 `My Clippings.txt` 文件。
 
-![](https://cdn.pkmer.cn/covers/obsidian-kindle-plugin_1_2.gif)
+![](https://user-images.githubusercontent.com/315585/117566330-39a78000-b10a-11eb-834f-52b90ccda1ac.gif)
 
 ## 特点
 
@@ -101,6 +101,6 @@ modified: 20230101000000
 [3]: <https://github.com/pjeby/hot-reload>
 [4]: <https://read.amazon.com/notebook>
 
-[5]: <<https://help.readwise.io/article/47-why-are-my-kindle-highlights-truncated-ellipses>#:~:text=Publishers%20require%20Amazon%20to%20place,the%20book%20will%20be%20truncated.>
+[5]: <https://help.readwise.io/article/47-why-are-my-kindle-highlights-truncated-ellipses>#:~:text=Publishers%20require%20Amazon%20to%20place,the%20book%20will%20be%20truncated.
 
 [6]: <https://brian.carnell.com/articles/2018/route-around-amazon-kindles-ridiculous-limits-on-highlights-exporting-with-bookcision/>

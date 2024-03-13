@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522250753
 title: Obsidian 插件：【Readme】File Tree Generator
 tags: ['obsidian插件', 'readme']
 description: 使用Obsidian的callouts生成一个文件树。
@@ -40,15 +40,15 @@ modified: 20230101000000
 
 一个 Obsidian 插件，允许你使用 [Obsidian Callouts](https://help.obsidian.md/Editing+and+formatting/Callouts) 生成文件树！
 
-![obsidian dark-mode example](https://cdn.pkmer.cn/covers/file-tree-generator_2_0.png!pkmer)
+![obsidian dark-mode example](meta/example-dark.png)
 
-![obsidian light-mode example](https://cdn.pkmer.cn/covers/file-tree-generator_2_1.png!pkmer)
+![obsidian light-mode example](meta/example-light.png)
 
 如何使用？
 
 在编辑 Obsidian 笔记时，您可以使用“生成文件树”命令或使用生成文件树功能区图标。</br>
 
-![生成文件树面板](https://cdn.pkmer.cn/covers/file-tree-generator_2_2.png!pkmer)
+![生成文件树面板](meta/pannel.png)
 
 > [!NOTE]
 > 如果您在桌面上，可以通过按文件路径输入旁边的额外按钮导入文件夹
@@ -59,7 +59,7 @@ modified: 20230101000000
 
 这些模式遵循 [gitignore规范2.22.1](https://git-scm.com/docs/gitignore/2.22.1)
 
-![生成文件树面板](https://cdn.pkmer.cn/covers/file-tree-generator_2_3.png!pkmer)
+![生成文件树面板](meta/settings.png)
 
 ## 注意
 

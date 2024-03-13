@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219334129
 title: Obsidian 插件：【Readme】Title renamer
 tags: ['obsidian插件', 'readme']
 description: 保持笔记中的顶部标题与文件名同步。

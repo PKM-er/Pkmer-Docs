@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121294370
 title: Obsidian 插件：【Readme】Time Things
 tags: ['obsidian插件', 'readme']
 description: 在角落显示一个时钟。跟踪笔记的总编辑时间和最后修改时间。

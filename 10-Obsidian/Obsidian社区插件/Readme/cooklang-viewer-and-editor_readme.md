@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219302315
 title: Obsidian 插件：【Readme】Cooklang
 tags: ['obsidian插件', 'readme']
 description: 显示和编辑用Cooklang格式编写的食谱。

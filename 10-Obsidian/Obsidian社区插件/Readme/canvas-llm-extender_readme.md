@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522243295
 title: Obsidian 插件：【Readme】Canvas LLM Extender
 tags: ['obsidian插件', 'readme']
 description: 让OpenAI LLM / GPT为您的画布添加节点。

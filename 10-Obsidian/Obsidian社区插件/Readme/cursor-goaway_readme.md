@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117271324
 title: Obsidian 插件：【Readme】cursor-goaway
 tags: ['obsidian插件', 'readme']
 description: 隐藏光标在打开一个笔记后

@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322192025
 title: Obsidian 插件：Google Keep Import
 tags: ['obsidian插件', 'readme']
 description: 允许导入Google Keep备份的json文件及其附件。也可以用于导入其他文件。
@@ -87,6 +87,7 @@ Google Keep 导入插件是为 [Obsidian](https://obsidian.md) 设计的插件�
 
 <details>
   <summary>展开以阅读设置的详细说明</summary>
+
 
 #### 基本设置
 

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219334915
 title: Obsidian 插件：【Readme】View Count
 tags: ['obsidian插件', 'readme']
 description: 跟踪每个保险库文件的查看次数。

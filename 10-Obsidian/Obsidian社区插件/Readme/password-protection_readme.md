@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011360604
 title: Obsidian 插件：【Readme】Password Protection
 tags: ['obsidian插件', 'readme']
 description: 用密码保护您的私人笔记和日记，无需加密，无需解密。

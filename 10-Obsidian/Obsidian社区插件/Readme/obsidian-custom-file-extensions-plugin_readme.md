@@ -1,5 +1,5 @@
 ---
-uid: 20230817224053
+uid: 2023080322165233
 title: Obsidian 插件：Custom File Extensions and Types
 tags: ['obsidian插件', 'readme']
 description: 这个插件允许从应用设置简单而模块化地控制哪些视图打开哪些文件扩展名。

@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Recent Files
+uid: 2023080322254658
+title: Obsidian 插件：Recent Files
 tags: ['笔记文件处理', 'obsidian插件', 'readme']
 description: 显示最近打开的文件列表
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Recent Files
+# Obsidian 插件：Recent Files
 
 > [!Note] 插件名片
 > - 插件名称：Recent Files
@@ -52,7 +52,7 @@ modified: 20230101000000
 
 ## 截图
 
-![侧边栏](https://cdn.pkmer.cn/covers/recent-files-obsidian_1_0.png!pkmer)
+![侧边栏](https://raw.githubusercontent.com/tgrosinger/recent-files-obsidian/main/resources/screenshots/sidebar.png)
 
 定价
 

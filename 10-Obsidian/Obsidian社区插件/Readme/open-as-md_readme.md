@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121204546
 title: Obsidian 插件：【Readme】open-as-md
 tags: ['obsidian插件', 'readme']
 description: 编辑非md文件类型的文件，将其转换为markdown文件
@@ -73,7 +73,6 @@ The quick brown fox jumps over the lazy dog.
 ## 开发
 
 这个项目使用 Typescript 来提供类型检查和文档。
-
 该存储库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api) 以 Typescript 定义格式，其中包含 TSDoc 注释描述其功能。
 
 如果您想要为开发做出贡献和/或只是根据自己的需求进行自定义，
@@ -87,7 +86,6 @@ The quick brown fox jumps over the lazy dog.
 - 重新加载 obsidian 以查看更改
 
 或者，您可以直接将存储库克隆到您的插件文件夹中，一旦依赖项安装完成，使用 `npm run dev` 启动监视模式下的编译。
-
 您可能需要重新加载 obsidian（`ctrl+R`）以查看更改。
 
 # 版本历史

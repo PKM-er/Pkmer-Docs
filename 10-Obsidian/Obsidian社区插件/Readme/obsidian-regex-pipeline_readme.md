@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Regex Pipeline
+uid: 2023080322255139
+title: Obsidian 插件：Regex Pipeline
 tags: ['文件重构', 'obsidian插件', 'readme']
 description: 允许用户设置自定义正则规则以自动格式化笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Regex Pipeline
+# Obsidian 插件：Regex Pipeline
 
 > [!Note] 插件名片
 > - 插件名称：Regex Pipeline
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 允许用户设置自定义正则规则以自动格式化笔记。
 
-![Regex Pipeline](https://cdn.pkmer.cn/covers/obsidian-regex-pipeline_new.gif)
+![Regex Pipeline](https://cdn.pkmer.cn/covers/obsidian-regex-pipeline_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -44,7 +44,7 @@ modified: 20230101000000
 
 正则表达式管道是一款 [Obsidian](https://obsidian.md/) 插件，允许用户设置自定义的正则表达式规则来自动格式化笔记，这在构建个人知识数据库等场景中特别有用，因为你经常从相同的来源剪辑网页。
 
-![](https://cdn.pkmer.cn/covers/obsidian-regex-pipeline_1_1.gif)
+![](https://raw.githubusercontent.com/No3371/obsidian-regex-pipeline/master/assets/regex-pipeline-newmenu.gif)
 
 最新更新：v1.3
 
@@ -198,7 +198,7 @@ LACE"
 
 ## 推荐
 
-- Markdownload（<<https://github.com/deathau/markdownload>）：用于剪辑网页，请不要忘记根据您的编辑偏好进行配置。>
+- Markdownload（<https://github.com/deathau/markdownload>）：用于剪辑网页，请不要忘记根据您的编辑偏好进行配置。
 
 常见问题解答
 

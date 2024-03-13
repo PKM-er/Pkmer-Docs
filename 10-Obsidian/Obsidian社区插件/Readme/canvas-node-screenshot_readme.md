@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219323127
 title: Obsidian 插件：【Readme】Node Screenshot
 tags: ['obsidian插件', 'readme']
 description: Capture node effortlessly with precision screenshot.

@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121252387
 title: Obsidian 插件：【Readme】Soundscapes
 tags: ['obsidian插件', 'readme']
 description: Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】MetaEdit
+uid: 2023080322223017
+title: Obsidian 插件：MetaEdit
 tags: ['编辑工具', '效率', 'obsidian插件', 'readme']
 description: 帮你快捷管理 meta信息，你可以为meta 信息项设置可选项。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】MetaEdit
+# Obsidian 插件：MetaEdit
 
 > [!Note] 插件名片
 > - 插件名称：MetaEdit
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 # MetaEdit for Obsidian
 
-![v554FnTthq](https://cdn.pkmer.cn/covers/metaedit_1_0.gif)
+![v554FnTthq](https://user-images.githubusercontent.com/29108628/118363633-9933de80-b595-11eb-9603-31a3be0e0ccc.gif)
 
 ## 特点
 
@@ -136,7 +136,7 @@ _%>
 - [ ] <% tp.file.cursor() %>
 ```
 
-![3EfcPLYkj6](https://cdn.pkmer.cn/covers/metaedit_1_1.gif)
+![3EfcPLYkj6](https://user-images.githubusercontent.com/29108628/119262986-85175f00-bbdd-11eb-8073-424fe9ec93c2.gif)
 
 #### 在 Dataview 表格中完成任务（按钮版本）
 
@@ -155,7 +155,7 @@ dv.table(["Name", "Status", "Project", "Due Date", ""], dv.pages("#tasks")
 ````
 ````````
 
-![CBrFA0qHr4](https://cdn.pkmer.cn/covers/metaedit_1_2.gif)
+![CBrFA0qHr4](https://user-images.githubusercontent.com/29108628/119342641-ab003a80-bc95-11eb-8f0a-15a6ced6b36d.gif)
 
 #### 在 Dataview 表格中完成任务（HTML 按钮版本）
 
@@ -180,7 +180,7 @@ dv.table(["名称", "状态", "项目", "截止日期", ""], dv.pages("#tasks")
 ```
 ````
 
-![BnAVIV4XCM](https://cdn.pkmer.cn/covers/metaedit_1_3.gif)
+![BnAVIV4XCM](https://user-images.githubusercontent.com/29108628/119342519-7d1af600-bc95-11eb-8ff8-09f19027131e.gif)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117275399
 title: Obsidian 插件：【Readme】Full Screen Toggle
 tags: ['obsidian插件', 'readme']
 description: 在所有平台上切换全屏模式。

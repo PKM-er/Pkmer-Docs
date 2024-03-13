@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219335370
 title: Obsidian 插件：【Readme】Yesterday
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记转化为视觉上令人惊叹的日记，集成对话、聊天记录和媒体内容块，实现无缝的记录体验。

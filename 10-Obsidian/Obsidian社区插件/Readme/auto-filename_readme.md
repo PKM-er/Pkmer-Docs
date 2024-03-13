@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522241933
 title: Obsidian 插件：【Readme】Auto Filename
 tags: ['obsidian插件', 'readme']
 description: 根据文件的前x个字符，在进行操作时自动重命名文件。

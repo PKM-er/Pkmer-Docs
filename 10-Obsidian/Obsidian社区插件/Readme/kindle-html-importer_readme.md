@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117285661
 title: Obsidian 插件：【Readme】Kindle Highlights Importer
 tags: ['obsidian插件', 'readme']
 description: 从html文件中导入kindle的亮点（从kindle应用程序中获取）到一个笔记中。

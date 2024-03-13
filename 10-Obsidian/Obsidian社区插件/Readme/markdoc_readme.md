@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Markdoc
+uid: 2023080322215748
+title: Obsidian 插件：Markdoc
 tags: ['obsidian插件', 'readme']
 description: Markdoc文件的基本支持。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Markdoc
+# Obsidian 插件：Markdoc
 
 > [!Note] 插件名片
 > - 插件名称：Markdoc
@@ -42,11 +42,11 @@ Markdoc 文件的基本支持。
 
 它是做什么的？
 
-![文件](https://cdn.pkmer.cn/covers/markdoc_2_0.png!pkmer)
+![文件](media/file.png)
 
 如上所示的屏幕截图所示，所有的 markdoc 文件都可以从 Obsidian 文件浏览器中访问。这意味着它们可以像其他任何 markdown 文件一样进行编辑。
 
-![高亮](https://cdn.pkmer.cn/covers/markdoc_2_1.png!pkmer)
+![高亮](media/highlight.png)
 
 此插件提供了对 markdoc 块的非常基本的语法高亮功能。
 

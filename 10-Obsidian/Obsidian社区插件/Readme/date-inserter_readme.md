@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219303817
 title: Obsidian 插件：【Readme】Date Inserter
 tags: ['obsidian插件', 'readme']
 description: 在光标位置使用日历插入日期。

@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219323372
 title: Obsidian 插件：【Readme】Note Companion Folder
 tags: ['obsidian插件', 'readme']
 description: 管理每个笔记的附件单独文件夹。

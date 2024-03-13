@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117265276
 title: Obsidian 插件：【Readme】Canvas Daily Note
 tags: ['obsidian插件', 'readme']
 description: 在画布上添加一个每日笔记节点，它将始终显示今天的笔记。

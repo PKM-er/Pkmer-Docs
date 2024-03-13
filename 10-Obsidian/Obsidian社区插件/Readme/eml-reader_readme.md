@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611074439
 title: Obsidian 插件：【Readme】Email Reader
 tags: ['obsidian插件', 'readme']
 description: 为嵌入的 `*.eml` 文件提供预览模式。

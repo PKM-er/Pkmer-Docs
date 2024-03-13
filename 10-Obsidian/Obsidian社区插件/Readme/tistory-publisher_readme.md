@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023120522272754
 title: Obsidian 插件：【Readme】Tistory Publisher
 tags: ['obsidian插件', 'readme']
 description: 轻松将Obsidian中的笔记发布到Tistory。
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 ## 演示
 
-![tistory发布者演示](https://cdn.pkmer.cn/covers/tistory-publisher_2_0.gif)
+![tistory发布者演示](./src/images/demo.gif)
 
 如何使用
 

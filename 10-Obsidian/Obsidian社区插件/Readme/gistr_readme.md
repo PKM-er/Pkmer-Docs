@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219312009
 title: Obsidian 插件：【Readme】Gistr
 tags: ['obsidian插件', 'readme']
 description: Integrate OpenGist and Github gist snippets in your notes.

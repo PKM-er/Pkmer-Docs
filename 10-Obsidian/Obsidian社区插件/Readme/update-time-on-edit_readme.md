@@ -1,5 +1,5 @@
 ---
-uid: 20230817224056
+uid: 2023080322290219
 title: Obsidian 插件：Update time on edit
 tags: ['obsidian插件', 'readme']
 description: 保持 frontmatter 和最后编辑时间同步

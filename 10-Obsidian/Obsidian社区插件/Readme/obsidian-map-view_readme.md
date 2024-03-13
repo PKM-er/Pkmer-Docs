@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Map View
+uid: 2023080322215392
+title: Obsidian 插件：Map View
 tags: ['第三方工具集成', 'obsidian插件', 'readme']
 description: 一个可交互的地图视图来记录您的笔记。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Map View
+# Obsidian 插件：Map View
 
 > [!Note] 插件名片
 > - 插件名称：Map View
@@ -99,11 +99,11 @@ modified: 20230101000000
 
 您可以根据自定义规则为不同的笔记类型设置不同的图标，从各种来源（Google Maps 和其他许多来源）保存地理位置，保存自定义视图，嵌入地图到笔记中，切换地图图层，运行强大的查询等等。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_0.png!pkmer)
+![](img/sample.png)
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_1.gif)
+![](img/intro.gif)
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_2.gif)
+![](img/quick-embed.gif)
 
 我编写这个插件是因为我希望我的不断增长的 Zettelkasten 能够回答以下问题...
 
@@ -145,7 +145,7 @@ modified: 20230101000000
 
 在方括号内开始输入位置名称，会弹出一些地理位置结果。选择一个，您的 _内联位置_ 就完成了。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_3.gif)
+![](img/quick1.gif)
 
 **选项 2：从地图开始**
 
@@ -197,7 +197,7 @@ modified: 20230101000000
 
 另一个选项是保存嵌入：在预设中点击“复制块”（或从笔记菜单中点击“复制地图视图代码块”），然后将生成的代码粘贴到一个笔记中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_4.gif)
+![](img/quick2.gif)
 
 **还有许多其他构建旅行计划、展示和使用它的选项。**
 
@@ -320,7 +320,7 @@ locations:
 
 这将打开一个对话框，在该对话框中，您可以搜索（根据您 [配置的地理编码提供商](#changing-a-geocoding-provider) 的地址或位置）或使用内置或自定义的 [URL解析规则](#url-parsing-rules) 粘贴 URL。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_5.gif)
+![](img/new-note-popup.gif)
 
 ### 在现有笔记中
 
@@ -339,17 +339,17 @@ locations:
 
 1. 在地图上右键单击时使用“在此处新建笔记”。这将创建一个新的笔记（基于您可以在设置中更改的模板），并带有您点击的位置。您可以创建一个带有正文（单个地理位置）的空白笔记，或者一个带有内联地理位置的空白笔记。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_6.png!pkmer)
+![](img/new-note.png)
 
 可以使用右上角的工具搜索地图，以便快速跳转到您想要标记的地方。
 
 [URL解析规则](#url-parsing-rules) 在这里也适用，因此您可以 [从Google地图](#tip-copying-from-google-maps)（或任何其他服务）复制地理位置并跳转到它。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_7.gif)
+![](img/search.gif)
 
 1. 如果您更喜欢以文本形式输入地理位置，请在右键单击地图时使用“复制地理位置”选项，并将它们粘贴到笔记中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_8.png!pkmer)
+![](img/copy.png)
 
 ### 粘贴为地理位置
 
@@ -369,7 +369,7 @@ locations:
 2. 第一个菜单项应该是通用坐标。点击它，坐标将被复制到剪贴板。
 3. 在任何 Obsidian 笔记中，右键单击并选择“粘贴为地理位置”，或将坐标粘贴到任何地图视图搜索框中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_9.png!pkmer)
+![](img/google-copy.png)
 
 在笔记中嵌入地图
 
@@ -377,11 +377,11 @@ locations:
 
 1. **嵌入现有地图。**要嵌入地图视图中的现有地图，包括其查询和任何其他设置，请从地图的预设下拉菜单中点击“复制块”，然后将该块粘贴到笔记中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_10.gif)
+![](img/copy-block-embed.gif)
 
 1. **直接从笔记中嵌入。**从编辑器中，右键单击并选择“嵌入地图视图”选项，然后输入一个用于地图中心的搜索词。或者，可以将名为“Map View: add an embedded map”的 Obsidian 命令分配给键盘快捷键。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_2.gif)
+![](img/quick-embed.gif)
 
 一旦地图嵌入到笔记中，它将表示一个实时视图，根据您的笔记进行更新。
 
@@ -393,7 +393,7 @@ locations:
 
 嵌入还可以在 Canvas 中非常好地工作，包括实时更新。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_12.gif)
+![](img/canvas.gif)
 
 ### 高级附加选项
 
@@ -407,7 +407,7 @@ locations:
 
 地图视图支持强大的查询功能，与 Obsidian 的查询格式大致相似。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_13.gif)
+![](img/query.gif)
 
 查询字符串可以包含以下搜索运算符：
 
@@ -470,7 +470,7 @@ locations:
 
 图标详细信息包括几个属性：图标名称（从 Font Awesome 目录中获取）、颜色和形状。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_14.png!pkmer)
+![](img/marker-rules.png)
 
 一个单独的标记在以下 JSON 结构中定义：
 
@@ -519,7 +519,7 @@ locations:
 
 选择其中一个建议将填入所选位置的坐标，并且 _不会_ 更改您的链接名称（假设您更喜欢自己的名称而不是地理编码服务提供的正式名称）。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_15.gif)
+![](img/geosearch-suggest.gif)
 
 如果您的笔记尚未标记为包含位置（通过前置元数据中的 `locations:` 标签），则会自动添加该标记。
 
@@ -585,7 +585,7 @@ locations:
 
 这些源可以是 Google 地图、OpenStreetMap、专门的地图工具或几乎任何您用于查看位置的工具。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_16.png!pkmer)
+![](img/open-in.png)
 
 “打开”列表显示在以下情况下：
 
@@ -596,7 +596,7 @@ locations:
 
 可以通过插件的设置菜单编辑此列表，设置一个在上下文菜单中显示的名称和一个 URL 模式。URL 模式有两个参数 --`{x}` 和 `{y}`-- 它们将被点击位置的纬度和经度替换。
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_17.png!pkmer)
+![](img/custom-open-in.png)
 
 常见的选择可能包括：
 
@@ -620,7 +620,7 @@ URL 解析规则可以在插件的配置窗格中进行配置，并需要熟悉�
 
 如果您认为您添加的正则表达式足够稳定，请使用 PR 将其添加到插件中，以便其他人也能受益！
 
-![](https://cdn.pkmer.cn/covers/obsidian-map-view_2_18.png!pkmer)
+![](img/url-parsing.png)
 
 ## 查看 URL
 
@@ -717,37 +717,37 @@ GPS 位置支持
     - 这是实验性的，不会立即对每个人都起作用。
     - 更多详情请参见 [这里](#gps-location-support)。
 - 路线规划：现在在地图上右键单击时，您可以选择“标记为路线规划源”，一旦标记了这样的源，您就可以启动外部工具来获取各个目的地的驾车路线或预计到达时间（默认为 Google Maps）。这对于评估旅行计划中的距离或旅行时间非常有用。
-- 嵌入地图现在有一个“锁定”控件，可以禁止意外更改地图（<<https://github.com/esm7/obsidian-map-view/issues/178>）。>
-- 添加了一个尚未完全成熟的 `autoFit` 标志，尚无适当的用户界面（<https://github.com/esm7/obsidian-map-view/issues/171）。有关详细信息，请参见[这里](#advanced-additional-options)。>
-- 在嵌入的地图代码块中添加了一个 `$filename$` 模板参数（<<https://github.com/esm7/obsidian-map-view/issues/146>）。>
-- `linkedto:` 查询运算符现在实际解析 Obsidian 链接，而不是进行文本比较（<<https://github.com/esm7/obsidian-map-view/issues/162>）。>
+- 嵌入地图现在有一个“锁定”控件，可以禁止意外更改地图（<https://github.com/esm7/obsidian-map-view/issues/178>）。
+- 添加了一个尚未完全成熟的 `autoFit` 标志，尚无适当的用户界面（<https://github.com/esm7/obsidian-map-view/issues/171>）。有关详细信息，请参见 [这里](#advanced-additional-options)。
+- 在嵌入的地图代码块中添加了一个 `$filename$` 模板参数（<https://github.com/esm7/obsidian-map-view/issues/146>）。
+- `linkedto:` 查询运算符现在实际解析 Obsidian 链接，而不是进行文本比较（<https://github.com/esm7/obsidian-map-view/issues/162>）。
     - 注意：这可能会破坏依赖于文本比较而不是实际笔记路径的现有查询。
-- 修复了预设的各种重大问题（<<https://github.com/esm7/obsidian-map-view/issues/175>）。>
-- 修复了打开笔记时空白或格式错误的内联地理位置引发异常的问题（<<https://github.com/esm7/obsidian-map-view/issues/172>）。>
-- 修复了 Map View 尝试处理存储库中的非 Markdown 文件的问题（<<https://github.com/esm7/obsidian-map-view/issues/181>）。>
-- “在最后使用的窗格中打开”设置现在尊重固定窗格（<<https://github.com/esm7/obsidian-map-view/issues/134>）。>
+- 修复了预设的各种重大问题（<https://github.com/esm7/obsidian-map-view/issues/175>）。
+- 修复了打开笔记时空白或格式错误的内联地理位置引发异常的问题（<https://github.com/esm7/obsidian-map-view/issues/172>）。
+- 修复了 Map View 尝试处理存储库中的非 Markdown 文件的问题（<https://github.com/esm7/obsidian-map-view/issues/181>）。
+- “在最后使用的窗格中打开”设置现在尊重固定窗格（<https://github.com/esm7/obsidian-map-view/issues/134>）。
 
 ### 3.1.1
 
-- 笔记中的地理链接以及前置地理位置现在是内部地图视图链接！（<<https://github.com/esm7/obsidian-map-view/issues/144>）>
+- 笔记中的地理链接以及前置地理位置现在是内部地图视图链接！（<https://github.com/esm7/obsidian-map-view/issues/144>）
     - 这意味着默认情况下，当您在地图视图中点击地理链接时，它将在地图视图内打开。
     - 这可以在设置中关闭。
 - 现在，笔记中的地理链接可以选择显示**地图预览悬停**（如果上述功能已打开）。
     - 目前默认关闭，但在我对其性能和稳定性有信心时，可能会默认打开。
-- 对于 " 标记内联位置 " 的通配符支持（<<https://github.com/esm7/obsidian-map-view/issues/164>）。>
-- 修复了暗模式下背景颜色错误的问题（<<https://github.com/esm7/obsidian-map-view/issues/163>）。>
+- 对于 " 标记内联位置 " 的通配符支持（<https://github.com/esm7/obsidian-map-view/issues/164>）。
+- 修复了暗模式下背景颜色错误的问题（<https://github.com/esm7/obsidian-map-view/issues/163>）。
 
 ### 3.0.2
 
 许多小的改进和修复：
 
 - 新的功能区图标，基于 Lucide，以与 Obsidian 设计指南保持一致（感谢@huy-vuong！）
-- 添加了一个设置，始终在地图视图弹出窗口中显示链接名称（并将相关设置组织到自己的部分中）。 (<<https://github.com/esm7/obsidian-map-view/issues/149>)>
-- 添加了对标签查询中通配符的支持（<<https://github.com/esm7/obsidian-map-view/issues/159>）。>
-- 修复了在“跟随活动笔记的查询格式”中设置的查询中包含多个 `$PATH$` 项的错误（<<https://github.com/esm7/obsidian-map-view/issues/158>）。>
-- 添加了使用自定义标签而不是空的 `locations:` YAML 标签的功能（<<https://github.com/esm7/obsidian-map-view/issues/135>）。>
-- `linkedfrom` 查询过滤器现在需要完全匹配（<<https://github.com/esm7/obsidian-map-view/issues/152>）。>
-- 修复了嵌入地图上只更改缩放时“保存”按钮不弹出的错误（<<https://github.com/esm7/obsidian-map-view/issues/156>）。>
+- 添加了一个设置，始终在地图视图弹出窗口中显示链接名称（并将相关设置组织到自己的部分中）。 (<https://github.com/esm7/obsidian-map-view/issues/149>)
+- 添加了对标签查询中通配符的支持（<https://github.com/esm7/obsidian-map-view/issues/159>）。
+- 修复了在“跟随活动笔记的查询格式”中设置的查询中包含多个 `$PATH$` 项的错误（<https://github.com/esm7/obsidian-map-view/issues/158>）。
+- 添加了使用自定义标签而不是空的 `locations:` YAML 标签的功能（<https://github.com/esm7/obsidian-map-view/issues/135>）。
+- `linkedfrom` 查询过滤器现在需要完全匹配（<https://github.com/esm7/obsidian-map-view/issues/152>）。
+- 修复了嵌入地图上只更改缩放时“保存”按钮不弹出的错误（<https://github.com/esm7/obsidian-map-view/issues/156>）。
 
 ### 3.0.1
 
@@ -773,11 +773,11 @@ GPS 位置支持
 
 **修复：**
 
-- 修复了查询中括号无法工作的问题（<<https://github.com/esm7/obsidian-map-view/issues/124>）。>
-- 修复了查询中逗号无法工作的问题（<<https://github.com/esm7/obsidian-map-view/issues/125>）。>
-- 修复了由于 Obsidian 1.1 界面更改导致的“在地图视图中打开”和“在地图视图中显示”中奇怪的面板选择逻辑（<<https://github.com/esm7/obsidian-map-view/issues/127>）。>
-- 修复了对于某些人的一些笔记中添加的令人讨厌的“$CURSOR”（<<https://github.com/esm7/obsidian-map-view/issues/21>）。>
-- 修复了“跟随活动笔记”的问题（<<https://github.com/esm7/obsidian-map-view/issues/113>）。>
+- 修复了查询中括号无法工作的问题（<https://github.com/esm7/obsidian-map-view/issues/124>）。
+- 修复了查询中逗号无法工作的问题（<https://github.com/esm7/obsidian-map-view/issues/125>）。
+- 修复了由于 Obsidian 1.1 界面更改导致的“在地图视图中打开”和“在地图视图中显示”中奇怪的面板选择逻辑（<https://github.com/esm7/obsidian-map-view/issues/127>）。
+- 修复了对于某些人的一些笔记中添加的令人讨厌的“$CURSOR”（<https://github.com/esm7/obsidian-map-view/issues/21>）。
+- 修复了“跟随活动笔记”的问题（<https://github.com/esm7/obsidian-map-view/issues/113>）。
 
 ### 2.2.0
 
@@ -827,15 +827,15 @@ GPS 位置支持
 - 对内部状态更新机制进行了各种修复，希望能够实现更平滑的缩放/平移操作，避免出现意外跳跃。
     - 作为其中的一部分，状态转换时缩放/平移动画已恢复。
 - 修复了 Obsidian 0.15.x 上的“跟随活动笔记”问题。
-- 修复了如果文件中包含多个位于同一地理位置的标记时出现的重复 bug（<<https://github.com/esm7/obsidian-map-view/issues/85>）。>
+- 修复了如果文件中包含多个位于同一地理位置的标记时出现的重复 bug（<https://github.com/esm7/obsidian-map-view/issues/85>）。
 
 ### 2.0.5
 
 - 在某些情况下，改进了保存“后退/前进”历史记录的逻辑，并优化了状态更新逻辑，使过渡更快。
-- 在设置了“地图跟随搜索结果”时，进一步修复了“跟随活动笔记”（<<https://github.com/esm7/obsidian-map-view/issues/92>）。>
-- 修复了包含 `---` 作为内容分隔符的笔记中“添加地理位置（frontmatter）”的问题（<<https://github.com/esm7/obsidian-map-view/issues/98>）。感谢@MattWilcox！>
-- 修复了在“新笔记路径”中使用反斜杠的路径无法工作的问题（<<https://github.com/esm7/obsidian-map-view/issues/97>）。>
-- 修复了 Android 上新笔记地图操作无法工作的问题（<<https://github.com/esm7/obsidian-map-view/issues/96>）。>
+- 在设置了“地图跟随搜索结果”时，进一步修复了“跟随活动笔记”（<https://github.com/esm7/obsidian-map-view/issues/92>）。
+- 修复了包含 `---` 作为内容分隔符的笔记中“添加地理位置（frontmatter）”的问题（<https://github.com/esm7/obsidian-map-view/issues/98>）。感谢@MattWilcox！
+- 修复了在“新笔记路径”中使用反斜杠的路径无法工作的问题（<https://github.com/esm7/obsidian-map-view/issues/97>）。
+- 修复了 Android 上新笔记地图操作无法工作的问题（<https://github.com/esm7/obsidian-map-view/issues/96>）。
 - “显示在地图上”操作的默认缩放级别，如设置中所设定的，现在也用作“地图跟随搜索结果”的最大缩放级别。
 - 笔记内标签建议不再包含井号（对于内联标签，井号不应该存在）。
 
@@ -849,17 +849,17 @@ GPS 位置支持
 
 ### 2.0.3
 
-- 修复了在某些情况下搜索停止工作的问题，这些情况不是新的 Google Places（<<https://github.com/esm7/obsidian-map-view/issues/93>）。>
-- 修复了“跟随活动笔记”功能（<<https://github.com/esm7/obsidian-map-view/issues/92>）。>
+- 修复了在某些情况下搜索停止工作的问题，这些情况不是新的 Google Places（<https://github.com/esm7/obsidian-map-view/issues/93>）。
+- 修复了“跟随活动笔记”功能（<https://github.com/esm7/obsidian-map-view/issues/92>）。
 
 ### 2.0.0
 
 这是一个庞大的版本，带来了大量的更新，将地图视图的功能推向了一个新的水平！
 
 - Map View 现在具有强大的 [查询](#queries) 机制，而不是以前的简单标签过滤。这对一些用户来说将是一个重大变化。
-- 在视图控制下，打开“跟随活动笔记”以便地图视图聚焦于任何已打开或更改的笔记（<<https://github.com/esm7/obsidian-map-view/issues/71>）。>
-- 现在可以选择是否显示笔记名称（<<https://github.com/esm7/obsidian-map-view/issues/75>）。我希望这可以在预览的同一个弹出窗口中，但目前我不知道如何做到这一点。>
-- 修复了与前置标签支持的问题（<<https://github.com/esm7/obsidian-map-view/issues/72>）（感谢> @gentlegiantJGC！）
+- 在视图控制下，打开“跟随活动笔记”以便地图视图聚焦于任何已打开或更改的笔记（<https://github.com/esm7/obsidian-map-view/issues/71>）。
+- 现在可以选择是否显示笔记名称（<https://github.com/esm7/obsidian-map-view/issues/75>）。我希望这可以在预览的同一个弹出窗口中，但目前我不知道如何做到这一点。
+- 修复了与前置标签支持的问题（<https://github.com/esm7/obsidian-map-view/issues/72>）（感谢 @gentlegiantJGC！）
 - 添加了一个用于瓦片图层最大缩放的配置（感谢 @gentlegiantJGC！）。
     - 这还包括了一个新的“超出最大缩放”的设置，它不会限制您到瓦片源的最高缩放级别。
 - 地图搜索工具现在使用与“新地理位置笔记”相同的搜索窗口，除了配置的地理编码服务外，还可以进行 URL 解析。

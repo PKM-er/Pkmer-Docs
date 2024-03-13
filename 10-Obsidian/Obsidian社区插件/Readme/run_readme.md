@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023120522265683
 title: Obsidian 插件：【Readme】Run
 tags: ['obsidian插件', 'readme']
 description: 从dataview查询和JavaScript生成Markdown。
@@ -104,7 +104,7 @@ modified: 20230101000000
 
 您可以与 [CodeblockCustomizer](https://github.com/mugiwara85/CodeblockCustomizer) 一起使用，以获得折叠代码块。
 
-![](https://cdn.pkmer.cn/covers/run_1_0.png!pkmer)
+![](https://user-images.githubusercontent.com/43137033/272329457-d278a370-63d6-4dc2-a3f4-68767745ac92.png)
 生成的内容
 
 #### 结束标签
@@ -157,7 +157,7 @@ return dv.markdownList(dv.pages("#ai/image").map((page) => page.file.link));
 
 > 然后您需要进入模板设置并手动设置一个启动模板。这样做的原因是 templater 默认情况下不会初始化 `tp` 对象，因此它将为 undefined。了解更多信息并观看视频：<https://github.com/HananoshikaYomaru/obsidian-run/issues/14#issuecomment-1749945619>。如果您不想设置启动模板，您可以在每次启动 obsidian 时手动运行 templater。只要 templater 运行一次，`tp` 对象就会被定义。
 
-![](https://cdn.pkmer.cn/covers/run_1_1.gif)
+![](https://share.cleanshot.com/qwTYFCby+)
 
 Templater 允许用户拥有自定义的函数和脚本。了解更多信息，请访问<https://silentvoid13.github.io/Templater/user-functions/script-user-functions.html>。
 
@@ -169,7 +169,7 @@ Templater 允许用户拥有自定义的函数和脚本。了解更多信息，�
 
 您可以在运行块中执行任何类型的异步操作。异步函数是非阻塞的。在所有同步操作解决之后，结果将被解析。您可以使用 obsidian 的 [request](https://docs.obsidian.md/Reference/TypeScript+API/request) 函数来获取数据。
 
-![](https://cdn.pkmer.cn/covers/run_1_2.gif)
+![](https://share.cleanshot.com/83hQltDB+)
 调试
 
 您可以在起始标签代码块中使用 `console.log`。它将在开发者工具中输出。

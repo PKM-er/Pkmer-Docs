@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Email Block
+uid: 2023080322174379
+title: Obsidian 插件：Email Block
 tags: ['美化', '第三方工具集成', '编辑器', '效率', 'obsidian插件', 'readme']
 description: 通过特定的代码域语法，可以在 Obdidian 内显示一个建议电子邮件样式。（语法：to，subjuect，body， CC等）
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Email Block
+# Obsidian 插件：Email Block
 
 > [!Note] 插件名片
 > - 插件名称：Email Block
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 通过特定的代码域语法，可以在 Obdidian 内显示一个建议电子邮件样式。（语法：to，subjuect，body， CC 等）
 
-![Email Block](https://cdn.pkmer.cn/covers/email-block-plugin.gif)
+![Email Block](https://cdn.pkmer.cn/covers/email-block-plugin.GIF!pkmer)
 
 > [!tip] 原文出处
 >
@@ -121,7 +121,7 @@ x）请注意，不支持任何格式化（仅支持换行）（[原因](https:/
 
 ### 示例
 
-![示例](https://cdn.pkmer.cn/covers/email-block-plugin_2_0.gif)
+![示例](example/email-block-plugin.gif)
 
 ## 如何进行开发
 

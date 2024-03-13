@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522242079
 title: Obsidian 插件：【Readme】Auto Reading Mode
 tags: ['obsidian插件', 'readme']
 description: 自动将先前打开的Markdown页面切换到阅读模式。

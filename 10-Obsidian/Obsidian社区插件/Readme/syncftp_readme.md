@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011361423
 title: Obsidian 插件：【Readme】SyncFTP
 tags: ['obsidian插件', 'readme']
 description: 允许用户连接到SFTP并将文件更改推送/拉取到其中。

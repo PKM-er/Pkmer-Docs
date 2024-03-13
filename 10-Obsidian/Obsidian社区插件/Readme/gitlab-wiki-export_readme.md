@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219312210
 title: Obsidian 插件：【Readme】Gitlab Wiki Exporter
 tags: ['obsidian插件', 'readme']
 description: 使您的整个保险库与Gitlab Wiki兼容，并将其导出到指定位置。

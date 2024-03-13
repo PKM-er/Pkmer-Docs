@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611074124
 title: Obsidian 插件：【Readme】digital paper
 tags: ['obsidian插件', 'readme']
 description: 关闭退格和撤销功能，就像在真实纸上用笔写字一样。

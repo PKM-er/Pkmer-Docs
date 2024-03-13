@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611080580
 title: Obsidian 插件：【Readme】Math Booster
 tags: ['obsidian插件', 'readme']
 description: 将您的Obsidian转化为功能强大的LaTeX。动态编号的定理环境和方程，实时建议定理/方程，显示定理/方程的反向链接，并在引用和引用中实时渲染方程。

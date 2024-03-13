@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522251563
 title: Obsidian 插件：【Readme】Gladdis
 tags: ['obsidian插件', 'readme']
 description: Gladdis（生成语言人工专用和勤奋智能系统）- 这是一个AI聊天机器人。

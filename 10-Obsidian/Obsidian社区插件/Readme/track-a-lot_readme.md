@@ -1,5 +1,5 @@
 ---
-uid: 20240312193744
+uid: 2024031219334519
 title: Obsidian 插件：【Readme】Track-a-Lot
 tags: ['obsidian插件', 'readme']
 description: Scrapes different webpages, builds lists with the items as Markdown tables, and allows you to track their status.

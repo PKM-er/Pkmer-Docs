@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023102611085703
 title: Obsidian 插件：【Readme】Wikidata Importer
 tags: ['obsidian插件', 'readme']
 description: 将数据从Wikidata导入到您的保险库中。
@@ -44,4 +44,4 @@ modified: 20230101000000
 
 就可以了。您的笔记现在具有所有 Wikidata 属性作为笔记的属性。
 
-![](https://cdn.pkmer.cn/covers/wikidata-importer_2_0.gif)
+![](example.gif)

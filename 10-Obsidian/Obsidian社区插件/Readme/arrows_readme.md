@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011353355
 title: Obsidian 插件：【Readme】Arrows
 tags: ['obsidian插件', 'readme']
 description: 直接输入实际的箭头字符，无需复制粘贴。

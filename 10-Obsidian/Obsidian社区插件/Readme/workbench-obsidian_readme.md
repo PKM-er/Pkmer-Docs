@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Workbench
+uid: 2023080322294416
+title: Obsidian 插件：Workbench
 tags: ['杂类', 'obsidian插件', 'readme']
 description: 用于在你的库中快速将内容移动到工作台或者从工作台移除。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Workbench
+# Obsidian 插件：Workbench
 
 > [!Note] 插件名片
 > - 插件名称：Workbench
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 用于在你的库中快速将内容移动到工作台或者从工作台移除。
 
-![Workbench](https://cdn.pkmer.cn/covers/workbench-obsidian_new.gif)
+![Workbench](https://cdn.pkmer.cn/covers/workbench-obsidian_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -50,7 +50,7 @@ modified: 20230101000000
 
 插入和清除工作台上的材料：
 
-![演示插入工作台内容和清除工作台](https://cdn.pkmer.cn/covers/workbench-obsidian_1_0.gif)
+![演示插入工作台内容和清除工作台](https://i.imgur.com/YCazTIb.gif)
 
 ### 设置
 

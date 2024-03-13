@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611090159
 title: Obsidian 插件：【Readme】ZettelFlow
 tags: ['obsidian插件', 'readme']
 description: 通过Canvas帮助您以Zettelkasten的方式创建和管理笔记。

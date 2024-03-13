@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121243029
 title: Obsidian 插件：【Readme】Show Whitespace
 tags: ['obsidian插件', 'readme']
 description: CSS样式和CM6扩展，用于在源代码和实时预览模式下突出显示空白符。

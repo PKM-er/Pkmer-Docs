@@ -1,5 +1,5 @@
 ---
-uid: 20230817224052
+uid: 2023080322201730
 title: Obsidian 插件：Image OCR
 tags: ['obsidian插件', 'readme']
 description: 在图像上运行OCR，并将结果粘贴在描述中。
@@ -46,7 +46,7 @@ modified: 20230101000000
 
 2）确保已安装 tesseract：
 
-    1）访问<https://tesseract-ocr.github.io/tessdoc/Installation.html并下载安装程序>
+    1）访问<https://tesseract-ocr.github.io/tessdoc/Installation.html>并下载安装程序
 
     2）然后将包含tesseract.exe文件的文件夹添加到环境变量中（或将路径插入到插件设置中的“Tesseract Path”选项中）
 

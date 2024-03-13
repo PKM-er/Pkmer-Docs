@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522264226
 title: Obsidian 插件：【Readme】Publish URL
 tags: ['obsidian插件', 'readme']
 description: 将Obsidian Publish的URL复制到剪贴板中

@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Source Code Note
+uid: 2023080322271715
+title: Obsidian 插件：Source Code Note
 tags: ['obsidian插件', 'readme']
 description: 帮助您轻松组织源代码注释。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Source Code Note
+# Obsidian 插件：Source Code Note
 
 > [!Note] 插件名片
 > - 插件名称：Source Code Note
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 帮助您轻松组织源代码注释。
 
-![Source Code Note](https://cdn.pkmer.cn/covers/source-code-note_new.gif)
+![Source Code Note](https://cdn.pkmer.cn/covers/source-code-note_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -45,7 +45,7 @@ modified: 20230101000000
 ## 功能
 
 - 解析 Obsidian 笔记中的代码块，绘制方法调用链接的图形，并将代码块保留在画布上以便于查看
-![演示](https://cdn.pkmer.cn/covers/source-code-note_2_0.gif)
+![演示](img/demo.gif)
 
 如何使用
 

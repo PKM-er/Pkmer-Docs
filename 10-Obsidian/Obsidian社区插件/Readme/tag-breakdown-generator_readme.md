@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522271474
 title: Obsidian 插件：【Readme】Tag Breakdown Generator
 tags: ['obsidian插件', 'readme']
 description: 将嵌套标签拆分为多个父标签

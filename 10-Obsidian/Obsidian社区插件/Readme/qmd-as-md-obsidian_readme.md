@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322251455
 title: Obsidian 插件：qmd as md
 tags: ['obsidian插件', 'readme']
 description: 该插件提供了初步支持查看具有.qmd扩展名的文件。QMD文件包含markdown和可执行代码单元的组合，是Quarto开源出版系统支持的格式。
@@ -106,7 +106,6 @@ div[data-path$='.json']{
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
-
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api)，以 Typescript 定义格式提供，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -120,7 +119,6 @@ div[data-path$='.json']{
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将仓库克隆到插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
-
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 定价

@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611075233
 title: Obsidian 插件：【Readme】Floccus Bookmarks to Markdown
 tags: ['obsidian插件', 'readme']
 description: 将您的书签从Floccus带到Obsidian。

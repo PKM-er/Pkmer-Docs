@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022121234951
 title: Obsidian 插件：【Readme】Repeat Last Command(s)
 tags: ['obsidian插件', 'readme']
 description: Repeat last command or commands. toggle pinned command with tab

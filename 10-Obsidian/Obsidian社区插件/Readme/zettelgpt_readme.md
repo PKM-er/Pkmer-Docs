@@ -1,5 +1,5 @@
 ---
-uid: 20231220115812
+uid: 2023082011362047
 title: Obsidian 插件：【Readme】ZettelGPT
 tags: ['obsidian插件', 'readme']
 description: 毫不费力地在Obsidian中从ChatGPT生成与上下文相关的答案，同时保持视觉上清晰和有组织的对话历史。
@@ -24,8 +24,6 @@ modified: 20230101000000
 
 毫不费力地在 Obsidian 中从 ChatGPT 生成与上下文相关的答案，同时保持视觉上清晰和有组织的对话历史。
 
-![ZettelGPT](https://cdn.pkmer.cn/images/202308201222338.gif)
-
 > [!tip] 原文出处
 >
 >下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/OverRaddit/ZettelGPT/main/README.md)
@@ -40,7 +38,7 @@ modified: 20230101000000
 
 要下载 Obsidian：[点击这里](https://www.obsidian.md)
 
-![ZettelGPTDemo](https://cdn.pkmer.cn/covers/zettelgpt_1_0.gif)
+![ZettelGPTDemo](https://user-images.githubusercontent.com/30787477/233355651-81973be2-ab49-4333-88a1-f8074ac3ee14.gif)
 
 欢迎使用 Obsidian 的 ZettelGPT 插件！🎉 这个强大的插件可以帮助您根据问题从 ChatGPT 生成答案，同时保持对话历史的清晰和有序。节省 GPT 令牌，并享受与 ChatGPT 的流畅互动！🚀
 

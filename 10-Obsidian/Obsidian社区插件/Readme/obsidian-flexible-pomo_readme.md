@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Flexible Pomodoro For Obsidian
+uid: 2023080322183025
+title: Obsidian 插件：Flexible Pomodoro For Obsidian
 tags: ['obsidian插件', 'readme']
 description: 在你的状态栏中添加一个番茄钟计时器。这个番茄钟还有额外的选项，比如提前记录和延长。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Flexible Pomodoro For Obsidian
+# Obsidian 插件：Flexible Pomodoro For Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：Flexible Pomodoro For Obsidian
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 这是一个简单的插件，它在 Obsidian 的状态栏中显示一个 [番茄钟计时器](https://en.wikipedia.org/wiki/Pomodoro_Technique)。
 
-![计时器截图](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_0.png!pkmer)
+![计时器截图](timer_screenshot.png)
 
 有什么新内容？
 
@@ -69,11 +69,11 @@ modified: 20230101000000
 
 在 Flexible Pomodoro 中，典型的工作流程是**开始**你的番茄钟。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_1.gif)
+![](startpomo.GIF)
 
 在 25 分钟的工作期结束时，系统会询问你是否要延长时间。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_2.gif)
+![](extendpomo.GIF)
 
 如果你选择**是**，你的番茄钟将会延长，一个秒表会出现而不是倒计时器。如果你选择**否**，一个休息计时器会开始。如果你选择**本次不延长**，正常的番茄钟循环计时器会启动。
 
@@ -85,15 +85,15 @@ modified: 20230101000000
 
 在记录并退出后，请查看你的**每日笔记**或**番茄钟日志**以获取你所做的所有事情的详细信息。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_3.png!pkmer)
+![](samplellog.png)
 
 工作台将帮助你跟踪你当前的心态。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_4.png!pkmer)
+![](workbench3.png)
 
 使用键盘快捷键使一切变得更容易。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_5.png!pkmer)
+![](keyboardshortcuts2.png)
 
 ## 路线图
 
@@ -140,15 +140,15 @@ modified: 20230101000000
 
 为了使其正常工作，选项中应该打开番茄钟记录功能。
 
-![log_pomodoro_time](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_6.gif)
+![log_pomodoro_time](logpomodorotime.GIF)
 
 ### 在状态栏中显示活动笔记
 
 当打开此选项时，活动笔记将显示在番茄钟中。
 
-![https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_7.png!pkmer](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_7.png!pkmer)
+![img.png](img.png)
 
-![https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_8.png!pkmer](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_8.png!pkmer)
+![img_1.png](img_1.png)
 
 为了使其正常工作，选项应该启用。
 
@@ -164,19 +164,19 @@ modified: 20230101000000
 
 添加了一个选项，可以记录番茄钟的时长。
 
-![https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_9.png!pkmer](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_9.png!pkmer)
+![img_3.png](img_3.png)
 
 ### 启用会话的普通番茄钟
 
 在番茄钟结束时，您可以选择在会话的其余时间使用普通的番茄钟。这将恢复到原始的番茄钟模式。
 
-![https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_10.png!pkmer](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_10.png!pkmer)
+![img_5.png](img_5.png)
 
 ### 更好的可视化指示器
 
 根据 <https://github.com/third774/react-stopwatch> 添加了一个可视化指示器。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_11.gif)
+![](betterstopwatch.gif)
 
 ### 记录番茄工作法任务
 
@@ -192,7 +192,7 @@ modified: 20230101000000
 
 这将使用户能够记录添加和完成这些多个文件的任务。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_12.gif)
+![](pomoworkbench.GIF)
 
 ### 持久工作台
 
@@ -200,7 +200,7 @@ modified: 20230101000000
 
 请确保首先设置您的工作台文件夹。保存的工作台文件将放置在此文件夹中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_13.gif)
+![](pomopersistentfolder.GIF)
 
 ### 将 Pomo 工作台另存为
 
@@ -208,19 +208,19 @@ modified: 20230101000000
 
 要使工作台持久化，请确保调用 **将 Pomo 工作台另存为** 命令。
 
-![](savehttps://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_12.gif)
+![](savepomoworkbench.GIF)
 
 ### 加载工作台
 
 加载工作台命令用于加载之前创建的工作台。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_15.gif)
+![](loadworkbench.GIF)
 
 可排序工作台
 
 已添加额外的命令以对工作台内容进行排序。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_16.gif)
+![](sortableworkbench.gif)
 
 ### 附加命令
 
@@ -232,7 +232,7 @@ modified: 20230101000000
 
 手动开始长休息。
 
-![https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_17.png!pkmer](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_17.png!pkmer)
+![img_2.png](img_2.png)
 
 显示活动的番茄笔记到右侧窗格。
 
@@ -240,7 +240,7 @@ modified: 20230101000000
 
 文件将持久保存在您的工作台文件夹中。
 
-![](https://cdn.pkmer.cn/covers/obsidian-flexible-pomo_2_18.png!pkmer)
+![](persistedworkbench2.png)
 
 #### 保存番茄工作台
 

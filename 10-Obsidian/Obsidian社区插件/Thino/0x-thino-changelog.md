@@ -1,7 +1,10 @@
 ---
 uid: 20230913172534
 title: Thino 更新记录
-tags: [Obsidian, Thino, memos]
+tags:
+  - Obsidian
+  - Thino
+  - memos
 description: Obsidian 插件 Thino 2.X 更新记录
 author: Bon,OS,PKMer
 type: other
@@ -9,10 +12,9 @@ draft: false
 editable: false
 modified: 20240221101933
 sidebar:
-  # 为链接设置自定义顺序（数字越小显示在上方）
   order: 3
-  # 为链接添加徽章
   badge: New!
+id: 99a53fe19756d009
 ---
 
 # Thino 2.X （原名 Obsidian memos）更新记录

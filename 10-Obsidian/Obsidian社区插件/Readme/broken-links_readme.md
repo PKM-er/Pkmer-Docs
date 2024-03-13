@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117264729
 title: Obsidian 插件：【Readme】Broken Links
 tags: ['obsidian插件', 'readme']
 description: 在您的保险库中查找不连接到笔记的损坏链接。

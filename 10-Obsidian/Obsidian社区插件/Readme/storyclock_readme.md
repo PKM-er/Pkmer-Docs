@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121252983
 title: Obsidian 插件：【Readme】Storyclock Viewer
 tags: ['obsidian插件', 'readme']
 description: 将时间映射到故事时钟上。受Plot Devices Storyclock启发。

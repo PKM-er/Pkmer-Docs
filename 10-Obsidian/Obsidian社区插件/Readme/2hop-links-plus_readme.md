@@ -1,5 +1,5 @@
 ---
-uid: 20231220112630
+uid: 2023102611071682
 title: Obsidian 插件：【Readme】2Hop Links Plus
 tags: ['obsidian插件', 'readme']
 description: 与笔记相关的链接，最多可以显示2个跳点，以卡片格式展示，方便浏览笔记之间的连接。每张卡片都包含相应笔记的预览。
@@ -38,9 +38,9 @@ modified: 20230101000000
 
 2Hop Links Plus 是一个 [Obsidian](https://obsidian.md/) 插件，以卡片格式显示与当前笔记相关的链接，最多可显示 2 跳链接。这样可以方便地浏览笔记之间的连接关系。每个卡片包含相应笔记的预览。
 
-[![Image from Gyazo](https://cdn.pkmer.cn/covers/2hop-links-plus_1_0.png!pkmer)](https://gyazo.com/bf49c9e6314b4141215fd6f627e80da1)
+[![Image from Gyazo](https://i.gyazo.com/bf49c9e6314b4141215fd6f627e80da1.png)](https://gyazo.com/bf49c9e6314b4141215fd6f627e80da1)
 
-[![Image from Gyazo](https://cdn.pkmer.cn/covers/2hop-links-plus_1_1.png!pkmer)](https://gyazo.com/4947e25e5963b6d22b748ed3204b57b2)
+[![Image from Gyazo](https://i.gyazo.com/4947e25e5963b6d22b748ed3204b57b2.png)](https://gyazo.com/4947e25e5963b6d22b748ed3204b57b2)
 
 > **注意**
 > 该插件是 [tokuhirom/obsidian-2hop-links-plugin](https://github.com/tokuhirom/obsidian-2hop-links-plugin) 的分支，并扩展了其功能。

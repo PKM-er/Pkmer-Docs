@@ -1,5 +1,5 @@
 ---
-uid: 20230817224054
+uid: 2023080322244633
 title: Obsidian 插件：Pipe tricks
 tags: ['obsidian插件', 'readme']
 description: 支持Wikilink管道技巧。

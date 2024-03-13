@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322255246
 title: Obsidian 插件：Related Notes Finder
 tags: ['搜索/排序', '任务管理', '关系图谱', 'obsidian插件', 'readme']
 description: 用于产找当前笔记中出现的词汇，和其他可能相关的笔记。

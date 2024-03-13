@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Screwdriver
+uid: 2023080322262335
+title: Obsidian 插件：Screwdriver
 tags: ['obsidian插件', 'readme']
 description: 您的保险库中放入和取出任何文件的实用程序。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Screwdriver
+# Obsidian 插件：Screwdriver
 
 > [!Note] 插件名片
 > - 插件名称：Screwdriver
@@ -24,7 +24,7 @@ modified: 20230101000000
 
 您的保险库中放入和取出任何文件的实用程序。
 
-![Screwdriver](https://cdn.pkmer.cn/covers/obsidian-screwdriver_new.gif)
+![Screwdriver](https://cdn.pkmer.cn/covers/obsidian-screwdriver_new.gif!pkmer)
 
 > [!tip] 原文出处
 >
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 用于选择和放置隐藏文件的插件。
 
-![屏幕截图](https://cdn.pkmer.cn/covers/obsidian-screwdriver_1_0.gif)
+![屏幕截图](https://user-images.githubusercontent.com/45774780/158567788-fbea41ba-d07d-4faf-bc09-ce241a0c9f67.gif)
 
 您可以转储存储在指定目录中的文件，或将转储文件放置在您的保险库下的任何路径中。
 

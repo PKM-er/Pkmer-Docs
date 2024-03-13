@@ -1,6 +1,6 @@
 ---
-uid: 20231220115812
-title: Obsidian 插件：【Readme】Hugo preview Obsidian
+uid: 2023080322200022
+title: Obsidian 插件：Hugo preview Obsidian
 tags: ['obsidian插件', 'readme']
 description: Hugo预览插件（Obsidian）
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Hugo preview Obsidian
+# Obsidian 插件：Hugo preview Obsidian
 
 > [!Note] 插件名片
 > - 插件名称：Hugo preview Obsidian
@@ -40,7 +40,7 @@ Hugo 预览插件（Obsidian）
 
 ## 特性
 
-- [x] 打开一个 `自定义iframe` 来预览 hugo（通过<<https://github.com/Ellpeck/ObsidianCustomFrames>）>
+- [x] 打开一个 `自定义iframe` 来预览 hugo（通过<https://github.com/Ellpeck/ObsidianCustomFrames>）
 - [x] 在后台启动 `hugo server`
 	- 目前还存在一个小问题，即子进程（hugo 进程）在程序启动时不会关闭。
 - [x] 一个自定义命令设置，默认为 `Alt+F12`，你可以将其视为执行命令的快捷方式，我将其设置为启动终端 `wezterm start --class float --cwd ${cwd}`。
@@ -49,11 +49,11 @@ Hugo 预览插件（Obsidian）
 
 点击状态栏上的地鼠图标
 
-![image](https://cdn.pkmer.cn/covers/hugo-preview-obsidian_1_0.png!pkmer)
+![image](https://user-images.githubusercontent.com/65269574/211792531-e10b9d69-f109-4f75-aff6-1a8c132f8b40.png)
 
 ## 截图
 
-![Record_select-area_20230111192058](https://cdn.pkmer.cn/covers/hugo-preview-obsidian_1_1.gif)
+![Record_select-area_20230111192058](https://user-images.githubusercontent.com/65269574/211794013-eab76237-433d-4b9f-bc22-0bb0e4c1fe28.gif)
 
 ## 资源
 

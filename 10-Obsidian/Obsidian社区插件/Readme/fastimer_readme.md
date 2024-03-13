@@ -1,5 +1,5 @@
 ---
-uid: 20240227160841
+uid: 2024022117274761
 title: Obsidian 插件：【Readme】Fastimer
 tags: ['obsidian插件', 'readme']
 description: Intermittent fasting tracker.

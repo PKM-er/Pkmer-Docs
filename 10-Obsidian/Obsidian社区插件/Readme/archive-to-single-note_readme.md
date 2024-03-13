@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522241558
 title: Obsidian 插件：【Readme】Archive/trash to single note
 tags: ['obsidian插件', 'readme']
 description: 允许创建单个文件的存档/垃圾箱，并将旧的笔记与之合并（存档）。

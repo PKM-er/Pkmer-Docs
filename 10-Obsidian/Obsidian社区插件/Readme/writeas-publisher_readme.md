@@ -1,5 +1,5 @@
 ---
-uid: 20231026111420
+uid: 2023102611085848
 title: Obsidian 插件：【Readme】Writeas Blog Publisher
 tags: ['obsidian插件', 'readme']
 description: 将笔记发布到您拥有的任何write.as博客上。
@@ -38,7 +38,7 @@ modified: 20230101000000
 
 什么？
 
-将笔记发布到<<https://write.as>。>
+将笔记发布到<https://write.as>。
 
 ## 披露
 

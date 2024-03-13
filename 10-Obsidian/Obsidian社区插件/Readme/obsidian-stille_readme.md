@@ -1,6 +1,6 @@
 ---
-uid: 20231220112631
-title: Obsidian 插件：【Readme】Stille
+uid: 2023080322272599
+title: Obsidian 插件：Stille
 tags: ['界面相关', 'obsidian插件', 'readme']
 description: 集中精力一次写一个部分。
 author: AI
@@ -10,7 +10,7 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Stille
+# Obsidian 插件：Stille
 
 > [!Note] 插件名片
 > - 插件名称：Stille
@@ -40,7 +40,7 @@ modified: 20230101000000
 
 一个 Obsidian 插件，帮助你专注于你的写作，一次一个部分。
 
-![Stille 的截图](https://cdn.pkmer.cn/covers/obsidian-stille_1_0.png!pkmer)
+![Stille 的截图](https://user-images.githubusercontent.com/1329644/197059096-7a3ad259-6fc3-4471-8f0b-e28c551152eb.png)
 
 [了解更多关于 Stille 的信息。](https://michaelsoolee.com/obsidian-focus-plugin-stille/)
 

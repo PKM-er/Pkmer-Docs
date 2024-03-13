@@ -1,5 +1,5 @@
 ---
-uid: 20230817224055
+uid: 2023080322283525
 title: Obsidian 插件：Toggle Meta Yaml
 tags: ['obsidian插件', 'readme']
 description: 切换元YAML。

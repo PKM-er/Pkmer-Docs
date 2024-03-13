@@ -1,5 +1,5 @@
 ---
-uid: 20230901084916
+uid: 2023082011361252
 title: Obsidian 插件：【Readme】Simple CanvaSearch
 tags: ['obsidian插件', 'readme']
 description: 快速模糊搜索笔记、卡片及其内容，并将焦点转移到当前打开的画布中的它们。

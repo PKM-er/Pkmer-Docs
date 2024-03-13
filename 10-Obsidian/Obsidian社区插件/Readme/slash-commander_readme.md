@@ -1,5 +1,5 @@
 ---
-uid: 20240227172322
+uid: 2024022121245459
 title: Obsidian 插件：【Readme】Slash Commander
 tags: ['obsidian插件', 'readme']
 description: 自定义斜杠命令列表，为每个命令分配一个图标。

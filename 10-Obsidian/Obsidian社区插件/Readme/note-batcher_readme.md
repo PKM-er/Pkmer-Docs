@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522261795
 title: Obsidian 插件：【Readme】Note Batcher
 tags: ['obsidian插件', 'readme']
 description: 一键创建所有未解决的链接。

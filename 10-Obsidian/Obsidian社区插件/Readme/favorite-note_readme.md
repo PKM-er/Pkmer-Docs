@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522245644
 title: Obsidian 插件：【Readme】Favorite Note
 tags: ['obsidian插件', 'readme']
 description: 将您的笔记标记为收藏。

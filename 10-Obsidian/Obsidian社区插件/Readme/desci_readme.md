@@ -1,5 +1,5 @@
 ---
-uid: 20231220112631
+uid: 2023120522244428
 title: Obsidian 插件：【Readme】Desci
 tags: ['obsidian插件', 'readme']
 description: Obsidian的Web3、IPFS和Desci集成。
