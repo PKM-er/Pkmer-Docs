@@ -1,10 +1,7 @@
 ---
 uid: 20231109234559
 title: Thino 回收站功能
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 回收站功能
 author: Bon,PKMer
 type: other
@@ -17,7 +14,7 @@ id: ea17b19928eed541
 # Thino 回收站功能
 
 > [!note] 功能信息
-> 此功能在支持 Thino 基础版 和 Thino Pro
+> 此功能仅需 Thino 基础版
 
 Thino 自带了回收站功能，当你使用回收站功能的时候，会在原文加上 `[deleted:true]` 的标记，该标记会作为 Thino 索引其时判断为存在于回收站的唯一标准，当其在 CANVAS 或者多文件时，会在元数据中插入 `deleted:true`。
 
@@ -37,4 +34,4 @@ Thino 自带了回收站功能，当你使用回收站功能的时候，会在�
 > 	- 因为删除和同步共同作用，导致一些内容在低版本删除后，其他端高版本中仍然存在，并通过同步重新进入
 > - 不推荐使用 Thino 之外的方式来编辑文档，会导致不可预知的问题，比如使用同步的用户，本地物理删除文件，但是云端并不知道。
 
-Tips：如果你需要隐藏标志位和了解标志位原因，可以参考  [Obsidian 样式：Thino 插件隐藏标志位]( https://pkmer.cn/show/20240124113835 )
+Tips：如果你需要隐藏标志位和了解标志位原因，可以参考 [Obsidian 样式：Thino 插件隐藏标志位]( https://pkmer.cn/show/20240124113835 )

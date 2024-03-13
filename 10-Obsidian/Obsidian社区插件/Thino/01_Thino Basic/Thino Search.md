@@ -17,7 +17,7 @@ id: ecf046de5cd170e4
 # Thino 搜索
 
 > [!note] 功能信息
-> 此功能在支持 Thino basic 和 Thino Pro
+> 此功能仅需 Thino 基础版
 
 Thino 的搜索目前仅支持纯文本的搜索，当你搜索以后，会触发全局的 Thino 卡片的筛选，这个搜索以后的变化会体现在下方的 Thino 列表的卡片数量的变化，变化前后你会留意到在编辑器与 Thino 列表之间出现一个筛选器列表。
 

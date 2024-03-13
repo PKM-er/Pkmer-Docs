@@ -1,11 +1,7 @@
 ---
 uid: 20240311151841
 title: Thino 表格布局
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - memos
+tags: [Obsidian, Obsidian插件, Thino, memos]
 description: Thino 表格布局
 author: Bon,PKMer,OS
 type: other
