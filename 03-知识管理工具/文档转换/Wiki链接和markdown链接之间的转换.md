@@ -1,13 +1,13 @@
 ---
 uid: 20240302213902
 title: Wiki 链接和 markdown 链接之间的转换
-tags: [正则表达式,]
+tags: [正则表达式]
 description: 用VSCode+正则表达式实现转换
 author: 西郊有密林
 type: other
 draft: false
 editable: false
-modified: 20240302214119
+modified: 20240314224554
 ---
 
 # Wiki 链接和 markdown 链接之间的转换
@@ -32,7 +32,7 @@ modified: 20240302214119
 
 按下 `Ctrl+Shift+H` 来到正则替换界面，记得打开正则匹配以及区分大小写：
 
-![[Pasted image 20240302214116.png]]
+![Pasted image 20240302214116](https://cdn.pkmer.cn/images/202403142246024.png!pkmer)
 
 笔记库中的文件链接如果采取 markdown 链接的话，可以这样匹配：
 
