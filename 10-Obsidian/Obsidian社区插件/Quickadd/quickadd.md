@@ -32,6 +32,7 @@ modified: 20240311182148
 - [[QuickAdd脚本-随机漫游笔记]]
 - [[Quickadd脚本-为深浅模式配置不同的主题]]
 - [[QuickAdd脚本-Project项目选项栏]]
+- [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
 
 ## 参考资料
 
