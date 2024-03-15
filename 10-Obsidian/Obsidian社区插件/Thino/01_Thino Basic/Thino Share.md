@@ -1,10 +1,7 @@
 ---
 uid: 20231109234446
 title: Thino 分享功能
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 分享功能
 author: Bon,PKMer
 type: other
@@ -17,7 +14,7 @@ id: dfaf210a5bb9410f
 # Thino 分享功能
 
 > [!note] 功能信息
-> 此功能支持 Thino basic 和 Thino Pro
+> 此功能仅需 Thino 基础版
 
 Thino 的卡片可以通过图片的形式分享出去，你可以通过点击 [[Thino Card Menu]]] 中的分享按钮：
 

@@ -16,6 +16,9 @@ id: d029711a0049b0bd
 
 # Thino 图片预览
 
+> [!note] 功能信息
+> 此功能仅需 Thino 基础版
+
 Thino 自带一个内部的图片预览功能，当你在 Thino 内点击任意地方的图片或者点击导出图片时，可以进入到以下窗口：
 
 ![Thino 图片预览](https://cdn.pkmer.cn/images/Pasted%20image%2020231109150741.png!pkmer)
