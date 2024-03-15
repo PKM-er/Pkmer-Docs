@@ -39,8 +39,10 @@ modified: 20240115155752
 - [[Obsidian同步拼车教程]]
 - [[Obsidian 主页制作小教程]]
 - [[如何给插件添加中文（超详细）]]
--  [[如何给浅色模式和深色模式写不同的 css 样式]]
+- [[如何给浅色模式和深色模式写不同的 css 样式]]
+- [[Wiki链接和markdown链接之间的转换]]
 - [[插件名人堂]]
+
 ### 第三方插件
 
 - [[Obsidian插件技巧-自定义标签面板配合TagFolder]]
@@ -58,8 +60,8 @@ modified: 20240115155752
 - [[每日字数的热力图]]
 - [[auto-insert-template自动化模板教学]] by Devol
 - Quickadd
-	-  [[Quickadd结合CSS实现挖空复习]] by Mon
-	-  [[Quickadd脚本-为深浅模式配置不同的主题]]
+	- [[Quickadd结合CSS实现挖空复习]] by Mon
+	- [[Quickadd脚本-为深浅模式配置不同的主题]]
 	- [[QuickAdd脚本-随机漫游笔记]]
 	- [[QuickAdd脚本-一键切换VimMode]]
 	- [[QuickAdd脚本-利用Canvas平铺笔记]]
