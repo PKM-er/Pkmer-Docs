@@ -59,7 +59,7 @@ settings:
     default-dark: '#87a5c7'
   - 
     id: tabbc
-    title: active tab item background color
+    title: active tab item underline color
     title.zh: 未选中标签页下长条颜色
     type: variable-themed-color
     format: hex
@@ -67,7 +67,7 @@ settings:
     default-dark: '#282c34'
   - 
     id: tabfc
-    title: active tab item font color
+    title: tab item font color
     title.zh: 标签页的标签的字体颜色
     type: variable-themed-color
     format: hex
@@ -175,3 +175,5 @@ body {
   width: 0;
 } 
 ```
+
+感谢 @苯环超人 指出的中文设置描述不准确
