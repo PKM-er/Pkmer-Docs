@@ -60,7 +60,7 @@ settings:
   - 
     id: tabbc
     title: active tab item background color
-    title.zh: 选中的标签页的标签的背景颜色
+    title.zh: 未选中标签页下长条颜色
     type: variable-themed-color
     format: hex
     default-light: '#d7dcff52'
@@ -68,7 +68,7 @@ settings:
   - 
     id: tabfc
     title: active tab item font color
-    title.zh: 选中的标签页的标签的字体颜色
+    title.zh: 标签页的标签的字体颜色
     type: variable-themed-color
     format: hex
     default-light: '#0E0E0E'
