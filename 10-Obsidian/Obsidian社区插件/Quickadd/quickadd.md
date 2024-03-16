@@ -33,6 +33,8 @@ modified: 20240311182148
 - [[Quickadd脚本-为深浅模式配置不同的主题]]
 - [[QuickAdd脚本-Project项目选项栏]]
 - [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
+- [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
+- [[QuickAdd脚本-复制wiki对应文档内容并删除文件]]
 
 ## 参考资料
 

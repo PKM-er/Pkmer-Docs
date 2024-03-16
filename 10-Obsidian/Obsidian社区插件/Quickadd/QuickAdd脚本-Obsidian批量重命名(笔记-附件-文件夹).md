@@ -1,16 +1,13 @@
 ---
 uid: 20240316021039
 title: QuickAdd 脚本 -Obsidian 批量重命名 (笔记 - 附件 - 文件夹)
-tags:
-  - quickadd脚本
-  - 批量处理
-  - 重命名
+tags: [quickadd脚本, 批量处理, 重命名]
 description: 批量给笔记、附件、以及文件夹进行重命名
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240316021234
+modified: 20240316224558
 ---
 
 # QuickAdd 脚本 -Obsidian 批量重命名 (笔记 - 附件 - 文件夹)
