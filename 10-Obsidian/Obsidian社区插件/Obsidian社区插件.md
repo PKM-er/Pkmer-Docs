@@ -142,6 +142,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[Copy-Image-and-URL-context-menu]]：使得图像可以在阅读模式直接复制
 - [[obsidian-camera]]：给你的笔记增加照相记录功能
 - [[Obsidian如何生成和美化目录]]
+- [[image-memo]]：更好的展示你的图片，给你图片打上标签
 
 ### 目录和大纲类
 
