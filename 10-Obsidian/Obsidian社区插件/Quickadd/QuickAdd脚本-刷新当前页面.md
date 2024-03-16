@@ -1,19 +1,16 @@
 ---
 uid: 20240316115055
-title: Quickadd 脚本：刷新当前页面
-tags:
-  - quickadd
-  - quickadd脚本
-  - 刷新
+title: QuickAdd 脚本：刷新当前页面
+tags: [quickadd脚本, 刷新, quickadd]
 description: 刷新当前Obsidian页面
 author: ProudBenzene,calmwaves
 type: advanced
 draft: false
 editable: false
-modified:
+modified: 
 ---
 
-# Quickadd 脚本：刷新当前页面
+# QuickAdd 脚本：刷新当前页面
 
 ## 需求
 
@@ -42,4 +39,4 @@ module.exports =  async (params) => {
 ```
 
 > [!tip] 使用方法
-> Quickadd 脚本的使用方法，参见 [Obsidian 插件：QuickAdd 自动化操作的编辑器](https://pkmer.cn/show/20230508001129) 中的 Macro 部分。
+> QuickAdd 脚本的使用方法，参见 [Obsidian 插件：QuickAdd 自动化操作的编辑器](https://pkmer.cn/show/20230508001129) 中的 Macro 部分。
