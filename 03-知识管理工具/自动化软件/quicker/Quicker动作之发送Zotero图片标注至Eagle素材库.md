@@ -7,7 +7,7 @@ author: 熊猫别熬夜,ImmortalSty
 type: other
 draft: false
 editable: false
-modified: 20240313015049
+modified: 20240317212958
 ---
 
 # Quicker 动作之发送 Zotero 图片标注至 Eagle 素材库
@@ -25,6 +25,10 @@ modified: 20240313015049
 为了更加便捷地导入和管理 Zotero 的文献图片，我尝试使用 Quicker 来实现 Zotero 和 Eagle 的联动。因为我对 Quicker 并不很熟悉，这个动作主要是通过 JS 实现的。在遇到一些问题无法解决时，我向群友 @槑头脑 寻求帮助，最终才顺利完成了该动作的制作，再次非常感谢 @槑头脑 😘。
 
 以下是 Quicker 动作的分享、设计思路、参考资料，以及 Quicker 相关的帮助文档记录。
+
+> [!tip] 如果想将已有的标注图片一次性导入可以参考如下：
+> - [[通过Python脚本实现Eagle管理Zotero标注的图片]]
+> - [[工作流-以图搜图]]
 
 ## Quikcer 动作分享
 
