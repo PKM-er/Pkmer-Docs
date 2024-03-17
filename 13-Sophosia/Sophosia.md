@@ -16,7 +16,7 @@ modified: 20240314223807
 
 官网: <https://sophosia.app>
 
-Github: <https://github.com/sophosia/sophosia>
+Github: <https://github.com/sophosia/sophosia-releases>
 
 ## 前言
 

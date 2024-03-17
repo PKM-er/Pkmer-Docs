@@ -18,11 +18,12 @@ modified: 20240314223812
 
 ![official-site](https://cdn.pkmer.cn/images/202403062127114.png!pkmer)
 
-如果官网访问不了，可以到 [Sophosia GitHub](https://github.com/sophosia/sophosia) 上，点击发布，选择最新的发布，下载对应自己平台的安装包进行安装。
+如果官网访问不了，可以到 [Sophosia GitHub](https://github.com/sophosia/sophosia-releases) 上，点击发布，选择最新的发布，下载对应自己平台的安装包进行安装。
 
 ![github-release](https://cdn.pkmer.cn/images/202403062127082.png!pkmer)
 
-我已经为小助手购买了电子证书。一般来说在安装的时候是不会再出现警告弹窗说无法验证开发者了。但项目目前知名度不高，Windows 的基于声誉的保护系统（reputation-based protection）仍有可能会出现弹窗，提醒用户该软件不是网络上常见的软件。这是正常的现象，这不是病毒。Mac 和 Linux 用户则可以正常使用。如果想自己编译程序，可以按照 [Github](https://github.com/sophosia/sophosia) 上的做法来。
+我已经为小助手购买了电子证书。一般来说在安装的时候是不会再出现警告弹窗说无法验证开发者了。但项目目前知名度不高，Windows 的基于声誉的保护系统（reputation-based protection）仍有可能会出现弹窗，提醒用户该软件不是网络上常见的软件。这是正常的现象，这不是病毒。Mac 和 Linux 用户则可以正常使用。如果想自己编译程序，可以按照 [Github](https://github.com/sophosia/sophosia-releases) 上的做法来。
+**小助手直到v0.8.3版本都是开源的，需要代码的可以下载相对应版本的代码进行编译。目前团队正在商讨代码可以开源到什么版本。**
 
 ## 仓库管理
 
