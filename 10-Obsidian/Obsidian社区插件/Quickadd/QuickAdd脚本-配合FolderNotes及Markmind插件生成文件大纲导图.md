@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240316224519
+modified: 20240317181510
 ---
 
 # QuickAdd 脚本 - 配合 FolderNotes 及 Markmind 插件生成文件大纲导图
@@ -38,6 +38,12 @@ modified: 20240316224519
 - 进阶需求：
 	- 根据导图移动方式来移动文件夹？
 	- 依据杜威十进制自动排序的机制？
+
+## 卡片布局视图
+
+PKMer 群友上善若水发了一个无序列表卡片布局的 CSS，配合使用了一下，很棒!!!
+
+![2024-03-13_QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图_IMG-3](https://cdn.pkmer.cn/images/202403171814986.gif!pkmer)
 
 ## QuickAdd Macro 脚本
 
