@@ -22,7 +22,7 @@ modified: 20231117151634
 
 ## 快速添加时间戳笔记
 
-![自定义 Excalidraw 脚本 - 快速插入时间戳笔记](https://cdn.pkmer.cn/images/234.gif!pkmer)
+![2023-11-10_自定义Excalidraw脚本-快速插入时间戳笔记_IMG-3](https://cdn.pkmer.cn/images/202403160219335.gif!pkmer)
 
 > 按时间戳形式命名，利用 quickaddApi.date.now("YYYY-MM-DD") 等命名建立的，请根据需求来设置
 

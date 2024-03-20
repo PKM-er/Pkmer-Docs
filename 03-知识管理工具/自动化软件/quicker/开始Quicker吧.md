@@ -97,7 +97,8 @@ modified: 20240105203946
 - [[表格操作占用快捷键过多的解决方案]]：ImmortalSty；
 - [[Quicker动作之以PotPlayer为基础的视频时间戳]]：ImmortalSty；
 - [[Quicker动作之自定义Zotero标注到Obsidian]]：熊猫别熬夜；
-- [[Quicker动作之BookxNote和Obsidian联动]]：熊猫别熬夜。
+- [[Quicker动作之BookxNote和Obsidian联动]]：熊猫别熬夜;
+- [[Quicker动作之发送Zotero图片标注至Eagle素材库]]：熊猫别熬夜;
 - [[Quicker动作之截图贴图]]
 - [[使用 Quicker 与 Thino 进行联动
 - [[Quicker搜索之用搜索框快速搜索PKMer]]

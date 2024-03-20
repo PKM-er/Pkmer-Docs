@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240122223401
+modified: 20240311180336
 ---
 
 # 自定义 Excalidraw 脚本 - 画板与 Kanban 得梦幻结合 - 像 PPT 一样演示
@@ -84,6 +84,30 @@ Kanban 文件的刷新稍微有点延迟，而且 Excalidraw 的局部引用视�
 
 [[Excalidraw如何安装脚本_脚本设置介绍]]
 
+脚本安装可以根据源码来安装，也可以通过 Excalidraw 插件提供的脚本安装代码块来安装
+
+- 代码块链接方法：
+	- 优点：一键安装脚本和图标，操作方便，后续脚本更新可以检测
+	- 缺点：国内需要可访问 GitHub 的网络
+- 源码拷贝方式：
+	- 优点：不需要特殊网络
+	- 缺点：需要手动复制源码，这个过程很容易出问题，没有图标，脚本更新无法检测…
+
+> PS：之后我的脚本更新或者 BUG 修复，可能不会更新到网站，而是直接更新到 GitHub，因为这样对我来说比较方便点而且快速点。
+
+### 代码块链接方法
+
+````
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/FrameKanban.md
+```
+````
+
+将上述代码块放到一个 **md 文件**，阅读模式下该代码块会显示为 <kbd>安装脚本</kbd>的按钮，点击安装之后，更新为<kbd>脚本已是最新 - 点击重新安装</kbd>，即当前脚本已经安装，在 Excalidraw 画布界面的侧边**Obsidian 工具面板**中可以查看。
+
+
+### 源码拷贝方式
+
 ```js
 const fs = require('fs');
 const activefile = app.workspace.getActiveFile();
@@ -111,21 +135,39 @@ const kanbanFilePath = settings["动态Kanban.md的路径"].value;
 const KanbanPath = app.vault.getAbstractFileByPath(kanbanFilePath);
 const kanbanFullPath = app.vault.adapter.getFullPath(kanbanFilePath);
 
-const KanbanLaneWidth = settings["Kanban的宽度"].value;
-
 await ea.addElementsToView();
+
 const frameElements = ea.getViewElements().filter(el => el.type === "frame");
 const fileName = app.workspace.getActiveFile().name;
-const choices = ["生成Frame卡片(有缩略图)", "生成Frame大纲(无缩略图)", "对Frame进行排序", "打开Kanban文件"];
+const choices = ["生成Frame卡片(有缩略图)", "生成Frame大纲(无缩略图)", "对Frame进行排序", "打开Kanban文件", "重设Kanban宽度"];
 
-const choice = await utils.suggester(choices, choices, "是否生成缩略图或者排序");
+// ! 如果选择了一个或多个frame元素，则不弹出选项框，直接诶生成生成Frame大纲
+const selectedTextElements = ea.getViewSelectedElements().filter(el => el.type === "frame");
+let choice = "";
+if (selectedTextElements.length >= 1) {
+    choice = choices[1];
+} else {
+    choice = await utils.suggester(choices, choices, "是否生成缩略图或者排序");
+}
+
+// let choice = "";
+// choice = await utils.suggester(choices, choices, "是否生成缩略图或者排序");
+
 if (typeof choice === "undefined") {
     return; // 退出函数或程序
 }
 
+// ! 设置看板宽度
+let kanbanWidth = settings["Kanban的宽度"].value;
+if (choice === choices[4]) {
+    kanbanWidth = await utils.inputPrompt("请设置看板宽度", "请设置看板宽度。注意为数值型", kanbanWidth,1);
+    settings["Kanban的宽度"].value = kanbanWidth;
+    ea.setScriptSettings(settings);
+    choice = choices[1];
+}
+
 // ! open打开形式
 if (choice === choices[3]) {
-
     const choices = ["新标签页", "垂直标签页", "水平标签页", "悬浮标签页，需要安装Hover插件"];
     const choice = await utils.suggester(choices, choices, "是否生成缩略图或者排序");
     if (choice === choices[0]) {
@@ -164,7 +206,7 @@ if (choice === choices[2]) {
         }
     });
     await ea.addElementsToView();
-    
+
     return;
 }
 
@@ -200,7 +242,7 @@ const kanbanYaml = "---\n\nkanban-plugin: basic\n\n---\n\n";
 
 const kanbanSetting = {
     "kanban-plugin": "basic",
-    "lane-width": KanbanLaneWidth,
+    "lane-width": kanbanWidth,
     "show-checkboxes": false,
     "archive-with-date": false
 };
@@ -249,11 +291,12 @@ async function processFile(allFrameEls, frameKanbanFullPath, fileName) {
                         console.log(selectedEl.name);
                         elText = `Frame${j < 10 ? 0 : ""}${j}_${elText.replace(/Frame\d+_/, "")}`;
                         selectedEl.name = elText;
-                        ea.addElementsToView();
                         lines[i] = lines[i].replace(/(^-\s.*?\[\[.*?\.md#\^\w+=[a-zA-Z0-9-_]+\|?)(.*?)(\]\].*)/, `$1${elText}$3`);
                     }
                 }
             }
+            ea.copyViewElementsToEAforEditing(allFrameEls);
+            ea.addElementsToView();
             updatedElements.push(lines[i]);
         }
         // console.log(updatedElements);
@@ -263,7 +306,6 @@ async function processFile(allFrameEls, frameKanbanFullPath, fileName) {
         console.error(error);
     }
 }
-
 
 ```
 
@@ -279,4 +321,12 @@ async function processFile(allFrameEls, frameKanbanFullPath, fileName) {
 - 修改选项为中文：
 	- ![自定义Excalidraw脚本-画板与 Kanban 得梦幻结合-像PPT一样演示](https://cdn.pkmer.cn/images/202403021103678.png!pkmer)
 - 排序后会将 Frame 名称添加到文档的 aliases 区 (添加文档别名方便搜索)
-	-  ![自定义Excalidraw脚本-画板与 Kanban 得梦幻结合-像PPT一样演示](https://cdn.pkmer.cn/images/202403021332452.png!pkmer)
+	- ![自定义Excalidraw脚本-画板与 Kanban 得梦幻结合-像PPT一样演示](https://cdn.pkmer.cn/images/202403021332452.png!pkmer)
+
+### 2024-03-06：添加设置 Kanban 宽度选项
+
+- [x] 当选中一个 Frame 时，不再弹出选项框，而是更新 frame 大纲 (无缩略图) ✅ 2024-03-05
+- [x] 修复对 Frame 排序后无法生效的问题 ✅ 2024-03-05
+- [x] 添加设置 Kanban 宽度选项 ->可以随时调整宽度 ✅ 2024-03-06
+	- 以后需要配置参数的脚本全部设置可自动弹窗输入设置
+	- ![自定义Excalidraw脚本-画板与 Kanban 得梦幻结合-像PPT一样演示](https://cdn.pkmer.cn/images/202403111823035.png!pkmer)
