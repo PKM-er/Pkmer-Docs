@@ -1,5 +1,5 @@
 ---
-uid: 20240320161436
+uid: 20240317161436
 title: 2024-03-17-Obsidian Weekly
 tags: [Roundup, Obsidian]
 description: 2024-03-17-Obsidian Weekly
@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 
+modified: 20240317183751
 ---
 
 # 2024-03-17-Obsidian Weekly
@@ -162,7 +162,6 @@ JSON Canvas 可以作为任何应用程序或工具的导入、导出和存储�
 [obsidiantools](https://github.com/mfarragher/obsidiantools)
 
 > Obsidiantools 是一个 Python 包，用于获取您的 Obsidian. Md 笔记的结构化元数据并分析您的保管库。通过使用广泛应用的 Python 数据堆栈，在一个地方获取有关所有笔记的指标和详细信息，以补充您的 Obsidian 工作流。
-
 
 ## PKMer 出品
 

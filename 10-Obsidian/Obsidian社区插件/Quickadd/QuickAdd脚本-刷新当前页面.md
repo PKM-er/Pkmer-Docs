@@ -7,7 +7,7 @@ author: ProudBenzene,calmwaves
 type: advanced
 draft: false
 editable: false
-modified: 
+modified: 20240320183744
 ---
 
 # QuickAdd 脚本：刷新当前页面

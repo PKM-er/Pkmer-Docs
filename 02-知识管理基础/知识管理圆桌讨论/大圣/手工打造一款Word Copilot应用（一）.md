@@ -28,25 +28,25 @@ modified: 20240303201240
 
 笔记中涉及到的插件，需要提前安装：
 
-1. **Editing Toolbar**
+1. [[editing-toolbar]]
 
 	[插件网页介绍：Editing Toolbar (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/editing-toolbar_readme/)
 
-- 插件说明：提供了更强大的编辑工具栏，并内置了常用编辑功能，提供类似 MS Word 的工具栏编辑体验。支持多种交互样式，也支持添加自定义功能和功能分组。
+	- 插件说明：提供了更强大的编辑工具栏，并内置了常用编辑功能，提供类似 MS Word 的工具栏编辑体验。支持多种交互样式，也支持添加自定义功能和功能分组。
 
-1. **Textgenerator**
+2. [[obsidian-textgenerator-plugin|Textgenerator]]
 
 	[插件网页介绍：Text Generator (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/obsidian-textgenerator-plugin_readme/)
 
-- 插件说明：文本生成器是一个方便的插件，可帮助您使用 CHATGPT (OpenAI) 生成文本内容。
+	- 插件说明：文本生成器是一个方便的插件，可帮助您使用 CHATGPT (OpenAI) 生成文本内容。
 
-1. **GPT Notes**
+3. [[gpt3-notes|GPT Notes]]
 
 	[插件网页介绍：GPT Notes (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/gpt3-notes_readme/)
 
-- 插件说明：使用 OpenAI 的 GPT-3 语言模型生成任何主题的笔记。
+	- 插件说明：使用 OpenAI 的 GPT-3 语言模型生成任何主题的笔记。
 
-1. **Copilot**
+4. [[copilot]]
 
 	[插件网页介绍：Copilot (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/copilot_readme/)
 

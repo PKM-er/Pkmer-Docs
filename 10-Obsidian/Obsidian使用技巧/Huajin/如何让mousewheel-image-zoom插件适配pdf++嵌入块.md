@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240320183504
 ---
 
 # 如何让 mousewheel-image-zoom 插件适配 pdf++ 嵌入块
