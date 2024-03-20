@@ -7,7 +7,7 @@ author: 大圣Copilot
 type: other
 draft: false
 editable: false
-modified: 20240303201240
+modified: 20240320194150
 ---
 
 # 手工打造一款 Word Copilot 应用，自己动手 DIY！（一）
@@ -40,7 +40,7 @@ modified: 20240303201240
 
 	- 插件说明：文本生成器是一个方便的插件，可帮助您使用 CHATGPT (OpenAI) 生成文本内容。
 
-3. [[gpt3-notes|GPT Notes]]
+3. [[gpt3-notes_readme|Gpt3-Notes]]
 
 	[插件网页介绍：GPT Notes (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/gpt3-notes_readme/)
 
@@ -138,7 +138,6 @@ modified: 20240303201240
 
 ![image.png](https://cdn.pkmer.cn/images/20240303201613.png!pkmer)
 
-
 ## 设置 APIkey
 
 ### 1、打开设置，查看“第三方插件”
@@ -157,6 +156,6 @@ modified: 20240303201240
 
 通过这篇笔记，我们完成前期的准备工作后，在下一篇笔记中就开始教大家如何使用 AI 工具开始内容生成。
 
-[[手工打造一款Word Copilot应用（二）]]
+[[手工打造一款Word Copilot应用-2]]
 
-[[手工打造一款Word Copilot应用（三）]]
+[[手工打造一款Word Copilot应用-3]]
