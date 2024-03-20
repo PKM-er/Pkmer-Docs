@@ -50,7 +50,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-悬浮两侧菜单栏]]
 - [[Obsidian样式-专注标签页边框]]
 
-
 ### 编辑器
 
 - [[Obsidian样式-minimal主题Cards卡片布局]]
@@ -78,6 +77,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-隐藏 markdown 标记]]
 
 ### 列表
+
 - [[Obsidian样式-自定义大纲缩进线样式]]
 - [[Obsidian样式-给列表添加动态引导线]]
 - [[Obsidian样式-ITS主题列表样式]]
@@ -100,6 +100,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-PLN主题的callout]]
 - [[Obsidian样式-Vicious主题的callout]]
 - [[Obsidian样式-tabbed Callout]]
+- [[Obsidian样式-使用 Callout 进行正文旁注]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
@@ -139,7 +140,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-待办完成样式]]
 - [[Obsidian样式-自定义待办图标]]
 - [[Obsidian样式-待办事项美化复选框]]
-
 
 ### 引用
 
