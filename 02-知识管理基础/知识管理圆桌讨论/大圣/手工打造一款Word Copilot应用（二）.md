@@ -2,8 +2,8 @@
 uid: 20240303201742
 title: 手工打造一款 Word Copilot 应用，自己动手 DIY！（二）
 tags: []
-description: 
-author: 
+description: 手工打造一款 Word Copilot 应用，自己动手 DIY！（二）
+author: 大圣Copilot
 type: other
 draft: false
 editable: false

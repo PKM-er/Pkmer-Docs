@@ -1,16 +1,16 @@
 ---
 uid: 20240303201240
-title: 手工打造一款 Word Copilot 应用，省下每月 20 美金，自己动手 DIY！（一）📝💰
+title: 手工打造一款 Word Copilot 应用，自己动手 DIY！（一）
 tags: []
-description: 
-author: 
+description: 手工打造一款 Word Copilot 应用，自己动手 DIY！（一）
+author: 大圣Copilot
 type: other
 draft: false
 editable: false
 modified: 20240303201240
 ---
 
-# 手工打造一款 Word Copilot 应用，自己动手 DIY！（一）📝💰
+# 手工打造一款 Word Copilot 应用，自己动手 DIY！（一）
 
 想要节省每月 20 美金的 Copilot Pro 费用吗？通过自己动手 DIY 一个 Word Copilot，你可以节省高达 240 美金！本篇笔记将教你如何利用 Obsidian 和核心插件打造属于自己的 Word Copilot 应用，让你的文字处理更高效、更智能！
 
@@ -136,13 +136,14 @@ modified: 20240303201240
 
 最终工具栏显示的效果。
 
-![image.png](https://cdn.pkmer.cn/images/20240303201604.png!pkmer)
+![image.png](https://cdn.pkmer.cn/images/20240303201613.png!pkmer)
+
 
 ## 设置 APIkey
 
 ### 1、打开设置，查看“第三方插件”
 
-![image.png](https://cdn.pkmer.cn/images/20240303201613.png!pkmer)
+![image.png](https://cdn.pkmer.cn/images/20240303201604.png!pkmer)
 
 ### 2、依次选择插件，输入 apikey
 
@@ -157,4 +158,5 @@ modified: 20240303201240
 通过这篇笔记，我们完成前期的准备工作后，在下一篇笔记中就开始教大家如何使用 AI 工具开始内容生成。
 
 [[手工打造一款Word Copilot应用（二）]]
+
 [[手工打造一款Word Copilot应用（三）]]

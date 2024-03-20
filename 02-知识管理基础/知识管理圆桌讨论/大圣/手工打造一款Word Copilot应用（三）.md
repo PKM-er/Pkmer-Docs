@@ -2,8 +2,8 @@
 uid: 20240303202558
 title: 手工打造一款 Word Copilot 应用，自己动手 DIY！（三）
 tags: []
-description: 
-author: 
+description: 手工打造一款 Word Copilot 应用，自己动手 DIY！（三）
+author: 大圣Copilot
 type: other
 draft: false
 editable: false
@@ -138,7 +138,7 @@ huggingface 官方下载链接地址：
 
 ![image.png](https://cdn.pkmer.cn/images/20240303202758.png!pkmer)
 
-#### 步骤 6：设置上下文的长度
+#### 步骤 6：确认服务端口
 
 请确认服务端口，默认是 1234 不要修改，下面的设置都打开，然后点击 "Start Server" 按钮启动服务。
 

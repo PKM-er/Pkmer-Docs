@@ -1,7 +1,7 @@
 ---
 uid: 20240128024149
 title: Obsidian 样式 - 看板样式 (kanban)
-tags: []
+tags: [Obsidian,kanban,美化]
 description: 
 author: 
 type: other
