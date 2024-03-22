@@ -34,23 +34,26 @@ sidebar:
 ## Thino 对于社区的意义
 
 - Thino 不是纯商业行为产品
-	- Thino 在 2.0.0-2.0.9 之前是免费给所有 PKMer 作者的，有激励社区贡献的作用
+	- Thino 在 2.0.0-2.0.9 之前是全免费形式给到所有 PKMer 作者的，有激励社区贡献的意图和作用。
 	- Thino 自 2.1 之后需要作者们通过更多高质量贡献获得，激励更多高质量贡献，调节价格很多时候是为了让之前贡献，和当前贡献，以及未来贡献的人们有更好的回报。
 	- Thino 现在依然保留了通过贡献社区，直接换取的权益
-		- Thino Pro：目前发了 10 份；
-		- Thino Web：目前发了7 份；
-- Thino 付费产品，可以通过 [pkmer](https://pkmer.cn/products/productDetails/) 购买后获取。
+		- Thino Pro：目前发放 10 份；
+		- Thino Web：目前发放 7 份；
 
 ## 购买模式
 
 - Thino 基础版是免费的，已经在 Obsidian 官方市场，PKMer market 等位置更新。但==请注意==，基础版不会对基础特性进行新增，除非有重大原因和体验问题，否则只会进行稳定性修复
-- Thino Pro：后续所有新特性会在这里更新，可独立购买
+- Thino Pro：
+	- 后续所有新特性会在这里更新，可独立购买
 	- 以上，Thino 基础版和 Thino Pro 的更新日志参考 [[0x-thino-changelog]]，[购买链接](https://pkmer.cn/products/thino/#price)
 	- 大版本买断：
 		- 指的是 2.x 版本内所有版本不需要再额外付费
-		- 注意买断不等于订阅，即便推出了3.x ，2.x 依然是可用的
-- Thino Web 服务，包含微信同步，Thino 中信息多端同步。可独立购买，针对提前支持 Thino Pro 的用户会免费试用到 Thino Web 服务价格出台为止。目前定价尚未公布
-- 整合 PKMer 会员打包购买，会包括 Thino Pro 和 Thino Web 服务，设置一个打包的优惠价格，目前定价尚未公布
+		- 注意买断不等于订阅，即便推出了 3.x ，2.x 依然是可用的
+- Thino Web 服务
+	- 包含微信同步，你可以通过关注 Thino 助手，然后直接在微信中转发聊天内容给 Thino 助手，并同步到 Thion 中。
+	- Thino 同步服务，Thino 中信息多端同步，可独立购买。
+	- 针对提前支持 Thino Pro 的用户会免费试用到 Thino Web 服务价格出台为止。目前定价尚未公布
+- 未来，也许整合 PKMer 会员打包购买，会包括 Thino Pro 和 Thino Web 服务，设置一个打包的优惠价格，目前定价尚未决定
 
 > [!note] 提示
 >
