@@ -1,9 +1,9 @@
 ---
 uid: 20240128024149
 title: Obsidian 样式 - 看板样式 (kanban)
-tags: [Obsidian,kanban,美化]
-description: 
-author: 
+tags: [Obsidian, kanban, 美化]
+description: Obsidian 样式 - 看板样式 (kanban)
+author: Huajin
 type: other
 draft: false
 editable: false
