@@ -1,6 +1,6 @@
 ---
 uid: 20231216202930
-title: Obsidian 样式 -Thino 样式
+title: Obsidian 样式 - Thino 样式
 tags: [obsidian, thino, css]
 description: 搭配 style setting 管理一系列 thino 样式
 author: Huajin
@@ -10,11 +10,10 @@ editable: false
 modified: 20231217131753
 ---
 
-# Obsidian 样式 -Thino 样式
+# Obsidian 样式 - Thino 样式
 
 > [!warning] 注意
 > 需要配合 [[obsidian-style-settings|Style Setting]] 插件使用
->
 
 ## 功能
 
