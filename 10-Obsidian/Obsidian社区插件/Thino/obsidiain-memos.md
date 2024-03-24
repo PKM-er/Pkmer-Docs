@@ -100,6 +100,7 @@ sidebar:
 	    - [[Thino Table Layout|表格布局]]
 	    - [[Thino Calendar Layout|日历布局]]
 	    - [[Thino Chat view Layout|聊天布局]]
+	    - [[Thino Moments view Layout|动态视图]]
     - [[Thino Settings|设置]]
         - [[Thino Settings#基础设置|基础设置]]
         - [[Thino Settings#本体设置|本体设置]]
