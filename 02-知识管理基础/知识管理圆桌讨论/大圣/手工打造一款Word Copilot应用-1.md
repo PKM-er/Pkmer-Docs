@@ -1,16 +1,16 @@
 ---
 uid: 20240303201240
-title: 手工打造一款 Word Copilot 应用，省下每月 20 美金，自己动手 DIY！（一）📝💰
+title: 手工打造一款 Word Copilot 应用，自己动手 DIY！（一）
 tags: []
-description: 
-author: 
+description: 手工打造一款 Word Copilot 应用，自己动手 DIY！（一）
+author: 大圣Copilot
 type: other
 draft: false
 editable: false
-modified: 20240303201240
+modified: 20240320194150
 ---
 
-# 手工打造一款 Word Copilot 应用，自己动手 DIY！（一）📝💰
+# 手工打造一款 Word Copilot 应用，自己动手 DIY！（一）
 
 想要节省每月 20 美金的 Copilot Pro 费用吗？通过自己动手 DIY 一个 Word Copilot，你可以节省高达 240 美金！本篇笔记将教你如何利用 Obsidian 和核心插件打造属于自己的 Word Copilot 应用，让你的文字处理更高效、更智能！
 
@@ -28,25 +28,25 @@ modified: 20240303201240
 
 笔记中涉及到的插件，需要提前安装：
 
-1. **Editing Toolbar**
+1. [[editing-toolbar]]
 
 	[插件网页介绍：Editing Toolbar (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/editing-toolbar_readme/)
 
-- 插件说明：提供了更强大的编辑工具栏，并内置了常用编辑功能，提供类似 MS Word 的工具栏编辑体验。支持多种交互样式，也支持添加自定义功能和功能分组。
+	- 插件说明：提供了更强大的编辑工具栏，并内置了常用编辑功能，提供类似 MS Word 的工具栏编辑体验。支持多种交互样式，也支持添加自定义功能和功能分组。
 
-1. **Textgenerator**
+2. [[obsidian-textgenerator-plugin|Textgenerator]]
 
 	[插件网页介绍：Text Generator (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/obsidian-textgenerator-plugin_readme/)
 
-- 插件说明：文本生成器是一个方便的插件，可帮助您使用 CHATGPT (OpenAI) 生成文本内容。
+	- 插件说明：文本生成器是一个方便的插件，可帮助您使用 CHATGPT (OpenAI) 生成文本内容。
 
-1. **GPT Notes**
+3. [[gpt3-notes_readme|Gpt3-Notes]]
 
 	[插件网页介绍：GPT Notes (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/gpt3-notes_readme/)
 
-- 插件说明：使用 OpenAI 的 GPT-3 语言模型生成任何主题的笔记。
+	- 插件说明：使用 OpenAI 的 GPT-3 语言模型生成任何主题的笔记。
 
-1. **Copilot**
+4. [[copilot]]
 
 	[插件网页介绍：Copilot (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/readme/copilot_readme/)
 
@@ -136,13 +136,13 @@ modified: 20240303201240
 
 最终工具栏显示的效果。
 
-![image.png](https://cdn.pkmer.cn/images/20240303201604.png!pkmer)
+![image.png](https://cdn.pkmer.cn/images/20240303201613.png!pkmer)
 
 ## 设置 APIkey
 
 ### 1、打开设置，查看“第三方插件”
 
-![image.png](https://cdn.pkmer.cn/images/20240303201613.png!pkmer)
+![image.png](https://cdn.pkmer.cn/images/20240303201604.png!pkmer)
 
 ### 2、依次选择插件，输入 apikey
 
@@ -156,5 +156,6 @@ modified: 20240303201240
 
 通过这篇笔记，我们完成前期的准备工作后，在下一篇笔记中就开始教大家如何使用 AI 工具开始内容生成。
 
-[[手工打造一款Word Copilot应用（二）]]
-[[手工打造一款Word Copilot应用（三）]]
+[[手工打造一款Word Copilot应用-2]]
+
+[[手工打造一款Word Copilot应用-3]]

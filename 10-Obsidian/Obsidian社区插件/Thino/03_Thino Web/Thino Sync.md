@@ -1,11 +1,7 @@
 ---
 uid: 20240115111124
 title: Thino 同步
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - 同步
+tags: [Obsidian, Obsidian插件, Thino, 同步]
 description: Thino 同步
 author: Bon,PKMer,OS
 type: other
@@ -23,6 +19,11 @@ id: 5caf2af6b8d7de13
 > - 此功能依赖 Thino Web 服务
 > - 单文件同步模式需要 Thino 2.2.0 版本上线，之前版本不支持
 > - 日记同步模式需要 Thino 2.2.4 版本及以上
+
+> [!warning] 警告
+> - Web 服务是收费的，这包含同步数据，和打通微信
+> - 但是因为现在社区并没有考虑好 Web 服务定价，所以目前使用并不会收费。而是给大家免费试用。【自 2023 年 12 月 15 日 -2024 年？年？日？】
+> - 才用本地版和 Web 分离付费方式，是因为早期内测用户反馈自己可能只需要本地版，不需要 Web 服务。
 
 ![Thino 同步](https://cdn.pkmer.cn/images/20240218211027.png!pkmer)
 
@@ -92,7 +93,7 @@ id: 5caf2af6b8d7de13
 
 - 设置了默认的更新时间，正常情况下会在一定时间内自动拉同步，通常是 10s 左右。【这是考虑服务服务器负载，和对用户端的影响，未来可能动态调整，减少请求开销】
 - 点击界面上的刷新按钮![Thino 同步](https://cdn.pkmer.cn/images/20240221182952.png!pkmer)
-- 如果发生异常，可以使用 `Ctrl+P` 打开 Obsidian的命令面板  ，手动触发：
+- 如果发生异常，可以使用 `Ctrl+P` 打开 Obsidian 的命令面板 ，手动触发：
 	- `Thino:Sync Local Thinos to Web`：手动本地同步到 Web
 	- `Thino:ReSync web Thinos to Local`：手动 Web 同步到 本地
 

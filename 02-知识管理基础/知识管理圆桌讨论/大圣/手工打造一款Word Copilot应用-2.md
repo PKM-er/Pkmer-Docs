@@ -2,8 +2,8 @@
 uid: 20240303201742
 title: 手工打造一款 Word Copilot 应用，自己动手 DIY！（二）
 tags: []
-description: 
-author: 
+description: 手工打造一款 Word Copilot 应用，自己动手 DIY！（二）
+author: 大圣Copilot
 type: other
 draft: false
 editable: false
@@ -108,7 +108,7 @@ modified: 20240303201742
 
 **注意：**
 
-插件 Textgenerator 有三种方式执行指令：
+插件 [[obsidian-textgenerator-plugin|Textgenerator]] 有三种方式执行指令：
 
 ==1、鼠标光标放置在全文的末尾的空白处，如本例就是将整个文本内容作为指令发送给 AI 生成内容。==
 
@@ -284,4 +284,4 @@ modified: 20240303201742
 
 由于篇幅限制，笔记里面讲解的重要步骤。
 
-[[手工打造一款Word Copilot应用（三）]]
+[[手工打造一款Word Copilot应用-3]]
