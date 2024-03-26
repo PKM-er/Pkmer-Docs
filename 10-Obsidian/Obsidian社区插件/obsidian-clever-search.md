@@ -7,7 +7,7 @@ author: ImmortalSty
 type: advanced
 draft: false
 editable: true
-modified: 
+modified: 20240326113146
 ---
 
 # Obsidian 插件：Clever Search 最强模糊搜索插件之一
@@ -39,7 +39,7 @@ modified:
 
 个人认为这是该插件的最大亮点。开启后，能输入“**电脑**”搜索到“**计算机**”、“**computer**”等词，还能输入**一段描述某个词的句子**，来搜索**该词**。
 
-![[Pasted image 20240317123443.png]]
+![](https://cdn.pkmer.cn/images/202403261131213.png!pkmer)
 
 语义搜索依赖于外部的 AI 引擎，需要另行下载。操作方法如下：
 
@@ -79,7 +79,7 @@ modified:
 
 ### 自动关闭配置
 
-![](https://files.getquicker.net/_sitefiles/kb/sharedaction/15ba7374-5786-483f-ec5b-08dc3811d02e/2024/02/28/211005_514368_20240228_205104_910_copy.png)
+ ![](https://cdn.pkmer.cn/images/202403261131946.png!pkmer)
 
 按上图顺序，依次设置。
 
