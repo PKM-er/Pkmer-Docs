@@ -22,7 +22,7 @@ modified: 20240203101431
 
 ---
 
-如果你只是想隐藏路径，可以用这段 css
+**如果你只是想隐藏路径**，可以用这段 css
 
 ```css
 .workspace-leaf-content[data-type='markdown'] .view-header .view-header-title-container .view-header-title-parent {
@@ -32,11 +32,11 @@ modified: 20240203101431
 
 ---
 
-如果你想整个隐藏，去设置关闭（外观 -> 显示标签页标题栏）
+**如果你想整个隐藏**，去设置关闭（外观 -> 显示标签页标题栏）
 
 ---
 
-如果你想要平常隐藏，鼠标悬停的时候显示文件名，用这个 css
+**如果你想要平常隐藏，鼠标悬停的时候显示文件名**，用这个 css
 
 ```css
 .workspace-leaf-content[data-type='markdown'] .view-header .view-header-title-container .view-header-title-parent {
@@ -55,7 +55,7 @@ modified: 20240203101431
 
 ---
 
-如果你觉得悬停的范围太小了，想要扩大点范围，用这个 css
+**如果你觉得悬停的范围太小了，想要扩大点范围**，用这个 css
 
 ```css
 .workspace-leaf-content[data-type='markdown'] .view-header .view-header-title-container .view-header-title-parent {
@@ -74,7 +74,7 @@ modified: 20240203101431
 
 ---
 
-如果你觉得悬停的范围是整条太大了，想要缩小一点，用这个 css
+**如果你觉得悬停的范围是整条太大了**，想要缩小一点，用这个 css
 
 ```css
 .workspace-leaf-content[data-type='markdown'] .view-header .view-header-title-container .view-header-title-parent {
@@ -96,7 +96,7 @@ modified: 20240203101431
 
 ---
 
-如果你想要平常隐藏，悬停的时候把地址和文件名都显示出来，用这段 css
+**如果你想要平常隐藏，悬停的时候把地址和文件名都显示出来**，用这段 css
 
 ```css
 .workspace-leaf-content[data-type='markdown'] .view-header .view-header-title-container {
@@ -109,5 +109,4 @@ modified: 20240203101431
   opacity: 1;
 }
 ```
-
-如果你想要整条标题栏都可以用于悬停，去掉第四行的 <kbd>margin: 0 20%;</kbd> 即可。
+**如果你想要整条标题栏都可以用于悬停**，去掉第四行的 <kbd>margin: 0 20%;</kbd> 即可。

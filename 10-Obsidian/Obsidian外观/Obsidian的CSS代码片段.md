@@ -128,6 +128,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-文件管理名称滚动效果]]
 - [[Obsidain样式-自定义文件夹图标]]
 - [[Obsidian样式-超长文件名换行]]
+- [[Obsidian样式-分割文件管理器]]
 
 ### 段落
 
@@ -163,10 +164,12 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-标签页Tab样式]]
 - [[Obsidian样式-固定标签页样式美化]]
+- [[Obsidian样式-隐藏右侧标签页标题]]
 
 ### 标签页标题栏
 
 - [[Obsidian样式-标签页标题栏的隐藏]]
+- [[Obsidian样式-更小的标签页标题栏]]
 
 ### PDF
 
@@ -204,8 +207,11 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-给Thino加个滚动条]]
 - [[Obsidian样式-给Thino搭配10种热力图颜色]]
 - [[Obsidian样式-Thino单文件时间轴样式]]
-- [[Obsidian样式-Thino 样式]]
+- [[Obsidian样式-Thino样式]]
 - [[Obsidian样式-Thino插件隐藏标志位]]
+- [[Obsidian样式-Thino伪悬浮编辑框]]
+- [[Obsidian样式-Thino展开增强]]
+- [[Obsidian样式-Thino列表模式日期样式调整]]
 
 #### Kanban
 
