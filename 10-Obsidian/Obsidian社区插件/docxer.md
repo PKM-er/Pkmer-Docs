@@ -1,13 +1,14 @@
 ---
 uid: 20240315195440
 title: docxer 让你预览 docx 文件并且将其转换为 markdown 笔记
-tags: [导入, ·]
+tags:
+  - 导入
 description: 在 obsidian 中预览 word 的 docx 文件，并且可以将其转换为 markdown 笔记
 author: calmwaves
 type: basic
 draft: false
 editable: false
-modified: 
+modified: 20240315195440
 ---
 
 # docxer 让你预览 docx 文件并且将其转换为 markdown 笔记
