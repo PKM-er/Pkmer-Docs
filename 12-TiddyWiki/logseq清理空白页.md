@@ -12,11 +12,9 @@ modified:
 
 # logseq 清理空白页
 
-
 [Zacharia2/logseq-clean-empty-pages: logseq 删除所有空白页 (github.com)](https://github.com/Zacharia2/logseq-clean-empty-pages)
+
 # Logseq Plugin: _clean-empty-pages_
-
-
 
 ![[instruction.gif]]
 

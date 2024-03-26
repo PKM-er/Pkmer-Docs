@@ -1,6 +1,6 @@
 ---
 uid: 20240324133300
-title: Anki笔记和卡片的区别
+title: Anki 笔记和卡片的区别
 tags: []
 description: 
 author: 明玥
