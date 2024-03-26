@@ -11,7 +11,7 @@
 !.obsidian/plugins/templater-obsidian/
 !.obsidian/plugins/obsidian-pkmer/
 .obsidian/plugins/obsidian-pkmer/data.json
-!.obsidian/app.json
 .history
 # 针对Mac系统的忽略
 .DS_Store
+.obsidian/app.json

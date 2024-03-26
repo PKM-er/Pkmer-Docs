@@ -1,13 +1,16 @@
 ---
 uid: 20240323132950
 title: Obsidian 样式 - 分割文件管理器
-tags: [obsidian, css, file-explorer]
+tags:
+  - obsidian
+  - css
+  - file-explorer
 description: 
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240323132950
 ---
 
 # Obsidian 样式 - 分割文件管理器

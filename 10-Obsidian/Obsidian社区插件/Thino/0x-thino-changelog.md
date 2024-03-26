@@ -1,7 +1,10 @@
 ---
 uid: 20230913172534
 title: Thino 2.X （原名 Obsidian memos）更新记录
-tags: [Obsidian, Thino, memos]
+tags:
+  - Obsidian
+  - Thino
+  - memos
 description: Obsidian 插件 Thino 2.X 更新记录
 author: Bon,OS,PKMer
 type: other

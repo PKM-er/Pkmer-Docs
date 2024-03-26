@@ -1,7 +1,10 @@
 ---
 uid: 20231109234455
 title: Thino 用户使用指南
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Thino 用户使用指南，你想知道 Thino 的一切都在这里
 author: Bon,PKMer
 type: other
@@ -112,8 +115,8 @@ sidebar:
     - [[Thino Send Content to Thino From Wechat|Thino 微信内容发送到Thino]]
 - 04_Thino 高级使用教程
     - [[使用简悦 SimpRead 与 Thino 进行联动]]
-    - [[静读天下摘录批注记录]]
-    - [[Obsidan 插件 Thino-基础工作流-日记周记速记的自动化汇总]]
+    - [[静读天下摘录批注记录到THino]]
+    - [[Obsidan Thino-基础工作流-日记周记速记的自动化汇总]]
 - 更多教程
 	- [文章列表](https://pkmer.cn/tags/thino/)
 

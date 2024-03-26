@@ -1,7 +1,10 @@
 ---
 uid: 20231109234445
 title: Thino 安装、Pro 激活与 Web 服务
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Thino 安装、Pro 激活与 Web 服务
 author: Bon,OS,PKMer
 type: other

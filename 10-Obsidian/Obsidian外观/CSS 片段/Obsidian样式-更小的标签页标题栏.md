@@ -1,13 +1,15 @@
 ---
 uid: 20240323135013
 title: Obsidian 样式 - 更小的标签页标题栏
-tags: [obsidian, css]
+tags:
+  - obsidian
+  - css
 description: 
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240323135013
 ---
 
 # Obsidian 样式 - 更小的标签页标题栏
