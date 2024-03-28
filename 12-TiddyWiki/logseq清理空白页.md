@@ -12,10 +12,16 @@ modified:
 
 # logseq 清理空白页
 
-[Zacharia2/logseq-clean-empty-pages: logseq 删除所有空白页 (github.com)](https://github.com/Zacharia2/logseq-clean-empty-pages)
+## 软件自带
 
+logseq 自带功能：全部页面-〉右侧三个点-〉删除孤立页面
+
+
+## 插件提供
+
+[Zacharia2/logseq-clean-empty-pages: logseq 删除所有空白页 (github.com)](https://github.com/Zacharia2/logseq-clean-empty-pages)
 
 ![[instruction.gif]]
 
 
-logseq自带功能：全部页面-〉右侧三个点-〉删除孤立页面
+
