@@ -7,7 +7,7 @@ author: yaozhuwa
 type: other
 draft: false
 editable: false
-modified: 20240328214627
+modified: 20240329194122
 ---
 
 # Obsidian AttachFlow 插件：丝滑顺畅地处理 Obsidian 文档中的内嵌附件
@@ -21,7 +21,9 @@ modified: 20240328214627
 
 ## 插件功能
 
-插件主要提供了两样功能：图片/附件的右键菜单、拖拽调节图片大小。
+插件主要提供了两样功能：图片/附件的右键菜单、拖拽调节图片大小。AttachFlow 这个名字，是 Attachment 和 Flow 的结合，目标是丝滑顺畅地处理 Obsidian 文档中的附件。
+
+插件视频介绍： <https://b23.tv/DMw7zHu>
 
 ### 图片/附件右键菜单
 
@@ -33,7 +35,12 @@ modified: 20240328214627
 
 该右键菜单支持各种文件，不仅对图片（对外部链接的图片无效）有效，还支持视频、音频、**文档内嵌的 Excalidraw 绘图**、PPT、Word、Excel 等~
 
-![[attachflow-context-menu.gif]]
+| 内嵌文件          | 右键菜单演示                                    |
+| ------------- | ----------------------------------------- |
+| GIF/图片        | ![[Pasted image 20240329191806.png\|500]] |
+| 视频            | ![[Pasted image 20240329191923.png\|500]] |
+| 内嵌 Excalidraw | ![[Pasted image 20240329191708.png\|500]] |
+| 音频/PPT/Word 等 | ![[record-context-menu.gif\|500]]         |
 
 下面是几个右键菜单功能的具体介绍
 
@@ -45,9 +52,9 @@ modified: 20240328214627
 
 #### 拷贝文件到剪贴板
 
-其他插件（如 [[copy-url-in-preview_readme|obsidian-copy-url-in-preview]]、[[obsidian-image-toolkit|Obsidian Image Toolkit]]）的拷贝图片菜单，实际上是把图片重绘，然后复制到剪贴板，拷贝到剪贴板的图像实际上和原图不同，如 GIF 拷贝后会得到 PNG 图片。
+其他插件（如 [[copy-url-in-preview_readme|obsidian-copy-url-in-preview]]、[[obsidian-image-toolkit|Obsidian Image Toolkit]]）的拷贝图片菜单，实际上是把图片重绘，然后复制到剪贴板，拷贝到剪贴板的图像实际上和原图不同，如 **GIF 拷贝后会得到 PNG 图片**。
 
-这样做还有一个坏处就是，你拷贝了仓库中的一张图片，粘贴到另一个文档的时候，粘贴的图片会以一个新的名字保存到本地。而实际上你想要的是两个地方都是引用同一张图片的链接。
+这样做还有一个坏处就是，你拷贝了仓库中的一张图片，粘贴到另一个文档的时候，粘贴的图片会以一个新的名字保存到本地。而实际上你想要的是两个地方都是引用同一张图片的链接，**导致附件的冗余**。
 
 下面是 [[obsidian-image-toolkit]] 插件拷贝粘贴图片的效果：
 
@@ -71,13 +78,13 @@ modified: 20240328214627
 
 本插件的删除功能相对于 [[nl-fast-image-cleaner|Fast Image Cleaner 插件]] 更加精准，对于同一文档多次引用同一张图片的情况也能正确处理。
 
-![[attachflow-delete.gif]]
+![[small-attachflow-delete.gif]]
 
 ### 拖拽调节图片大小
 
 效果展示：
 
-![[attachflow-drag-resize.gif]]
+![[AttachFlow-DragResize-small.gif]]
 
 拖拽调节图片大小功能细节：
 
