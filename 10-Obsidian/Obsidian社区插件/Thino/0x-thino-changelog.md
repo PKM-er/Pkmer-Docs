@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240329233115
+modified: 20240329234822
 sidebar:
   order: 3
   badge: New!
@@ -68,7 +68,8 @@ id: 99a53fe19756d009
 
 - 全新的主题视图，modern 视图，这个视图在后续的几个小版本会不断迭代
 - 支持在菜单中复制 debug 信息，用于我们定位用户反馈的问题
-- 新增了更新历史菜单，你可以产看最近
+- 新增了更新历史菜单（changelog），你可以产看最近
+![image.png|350](https://cdn.pkmer.cn/images/20240329234802.png!pkmer)
 
 ## Thino 2.3.24-25 2024.03.28
 
@@ -78,7 +79,6 @@ id: 99a53fe19756d009
 	- ![image.png|500](https://cdn.pkmer.cn/images/20240329215453.png!pkmer)
 - 聊天视图，支持通过快捷键来换出悬浮编辑框
 - ![image.png](https://cdn.pkmer.cn/images/20240329215501.png!pkmer)
-
 
 ## Thino 2.3.12-3.23 2024.03.26
 
