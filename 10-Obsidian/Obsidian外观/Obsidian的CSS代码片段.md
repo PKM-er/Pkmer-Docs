@@ -76,6 +76,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-借助CSS打造独立的大屏表格页面]]
 - [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
 - [[Obsidian样式-隐藏 markdown 标记]]
+- [[Obsidian 样式-表格优化]]
 
 ### 列表
 - [[Obsidian样式-自定义大纲缩进线样式]]
@@ -83,6 +84,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-ITS主题列表样式]]
 - [[Obsidian样式-标题-列表-图片美化]]
 - [[Obsidian样式-书签列表样式]]
+- [[Obsidian样式-无序列表卡片式美化]]
 
 ### 图片
 

@@ -2,7 +2,7 @@
   "attachmentFolderPath": "Resource/Images",
   "showInlineTitle": false,
   "promptDelete": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,

@@ -35,7 +35,7 @@ modified: 20231213100951
 1. 用 Obsidian 打开你的库
 2. 打开质感文件，点击右上角三个点，在弹出的菜单中勾选「显示隐藏文件」选项![PKMer插件安卓端安装手把手教程 | 500 ](https://cdn.pkmer.cn/images/202312010430353.JPEG!pkmer)
 3. 进入你的库文件夹，不知道在哪里就点击右上角放大镜按钮搜索库名。进入库文件夹后找到 `.obsidian` 文件夹，点击进入
-4. 在 `.obsidian` 文件夹中新建 `.plugins` 文件夹
+4. 在 `.obsidian` 文件夹中新建 `plugins` 文件夹
 
 ## 下载 PKMer 插件
 
