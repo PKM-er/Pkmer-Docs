@@ -17,7 +17,7 @@ id: ad09130111ee9095
 # Thino Card
 
 > [!note] 功能信息
-> 此功能支持 Thino basic 和 Thino Pro
+> 此功能仅需 Thino 基础版
 
 在 Thino 中，当你在输入框输入且回车后，会得到你的第一张 Thino Card，其包含了以下的元素：
 

@@ -17,7 +17,7 @@ id: 4c37be7096e60b20
 # Thino 归档功能
 
 > [!note] 功能信息
-> 此功能在支持 Thino basic 和 Thino Pro
+> 此功能仅需 Thino 基础版
 
 Thino 自带了归档功能，当你使用归档功能的时候，会在原文加上 `[archived:true]` 的标记，该标记会作为 Thino 索引其时判断为 Archived 的唯一标准，当其在 CANVAS 或者多文件时，会在元数据中插入 `archived:true` 。
 

@@ -1,0 +1,89 @@
+{
+  "choices": [
+    {
+      "id": "20edd41e-acc8-42a4-a3f8-df2588af4eff",
+      "name": "UpdateYamlTitle",
+      "type": "Macro",
+      "command": true,
+      "macroId": "f3a76b1f-f389-4863-8732-bdeed64a0370"
+    },
+    {
+      "id": "a6f29d2d-2726-4b5a-b833-dc5ec865207b",
+      "name": "OpenConfigs",
+      "type": "Macro",
+      "command": true,
+      "macroId": "add58788-3b9e-45ad-9fa8-13a9caa6f28c"
+    },
+    {
+      "id": "6e19c4d5-5425-4499-9452-408d9ee192b2",
+      "name": "PushNewBranch",
+      "type": "Macro",
+      "command": true,
+      "macroId": "dcaf937d-625e-40c9-b5da-d48e1d69dbfe"
+    }
+  ],
+  "macros": [
+    {
+      "name": "update-yaml-title",
+      "id": "f3a76b1f-f389-4863-8732-bdeed64a0370",
+      "commands": [
+        {
+          "name": "update-yaml-title",
+          "type": "UserScript",
+          "id": "3104ff40-6667-49b5-b234-70dd647fdd48",
+          "path": "Config/QuickAdd/update-yaml-title.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "open-configs",
+      "id": "add58788-3b9e-45ad-9fa8-13a9caa6f28c",
+      "commands": [
+        {
+          "name": "open-configs",
+          "type": "UserScript",
+          "id": "2159f8dd-a886-4e26-807e-bf84a74046bf",
+          "path": "Config/QuickAdd/open-configs.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "push-new-branch",
+      "id": "dcaf937d-625e-40c9-b5da-d48e1d69dbfe",
+      "commands": [
+        {
+          "name": "git-add-new-origin-branch",
+          "type": "UserScript",
+          "id": "2d043d20-3624-445d-834e-3966d61023b6",
+          "path": "Config/QuickAdd/git-add-new-origin-branch.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Config/QuickAdd",
+  "announceUpdates": true,
+  "version": "1.2.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

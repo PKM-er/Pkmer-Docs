@@ -7,16 +7,24 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231229170716
+modified: 20240312003551
 ---
 
 # 自定义 Excalidraw 脚本 - 实现 Excalidraw 与 BookxNote 的联动
 
+## 背景
+
+继 [[Quicker动作之BookxNote和Obsidian联动]] 后，我发布了一篇 [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]] 的文章和视频，是通过 Excalidraw 的脚本实现 Zotero 和 Obsidian 的 Excalidraw 的拖拽无缝连接，效果还不错。不过对于书籍类的长文 PDF，Zotero 还是有点不方便，最后还是选择用 BookxnotePro 来进行阅读，所以针对 Bookxnote 也写了一个对应的 BookxnoteToExcalidraw 脚本。
+
+## 效果
+
 ![](https://cdn.pkmer.cn/images/202312201525630.gif!pkmer)
 
-## 脚本的制作思路
+> [!caution]
+> 该脚本只能提取 BookxNote 笔记大纲里面的信息，如果显示 `未匹配到标注信息`，则该笔记信息不在笔记大纲内，可以设置笔记自动添加到大纲：
+> ![2023-12-19_自定义Excalidraw脚本-实现Excalidraw与BookxNote的联动_IMG-2](https://cdn.pkmer.cn/images/202403120035220.png!pkmer)
 
-继 [[Quicker动作之BookxNote和Obsidian联动]] 后，我发布了一篇 [[自定义Excalidraw脚本-实现Zotero与Excalidraw的拖拽联动]] 的文章和视频，是通过 Excalidraw 的脚本实现 Zotero 和 Obsidian 的 Excalidraw 的拖拽无缝连接，效果还不错。
+## 脚本的制作思路
 
 按理说 BookxnotePro 也可以直接通过 Excalidraw 脚本来实现，但一直拖着没去实现，主要 Bookxnote 的数据存储有一点绕，比如这是一个 BookxnotePro 的外部链接：
 
@@ -155,7 +163,30 @@ console.log(markupData);
 
 实现由**外部回链**，通过 `Ctrl + V` 粘贴动作获取标注信息到 Excalidraw，附带返回的链接。
 
-## Excalidraw 脚本完整代码
+## 脚本安装
+
+脚本安装可以根据源码来安装，也可以通过 Excalidraw 插件提供的脚本安装代码块来安装
+
+- 代码块链接方法：
+	- 优点：一键安装脚本和图标，操作方便，后续脚本更新可以检测
+	- 缺点：国内需要可访问 GitHub 的网络
+- 源码拷贝方式：
+	- 优点：不需要特殊网络
+	- 缺点：需要手动复制源码，这个过程很容易出问题，没有图标，脚本更新无法检测…
+
+> PS：之后我的脚本更新或者 BUG 修复，可能不会更新到网站，而是直接更新到 GitHub，因为这样对我来说比较方便点而且快速点。
+
+### 代码块链接方法
+
+````
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/BookxnoteToExcalidraw.md
+```
+````
+
+将上述代码块放到一个 **md 文件**，阅读模式下该代码块会显示为 <kbd>安装脚本</kbd>的按钮，点击安装之后，更新为<kbd>脚本已是最新 - 点击重新安装</kbd>，即当前脚本已经安装，在 Excalidraw 画布界面的侧边**Obsidian 工具面板**中可以查看。
+
+## 源码拷贝方式
 
 ```js
 /*
@@ -166,7 +197,7 @@ const eaApi = ExcalidrawAutomate;
 let settings = ea.getScriptSettings();
 if (!settings["notebooksPath"]) settings["notebooksPath"] = { value: false };
 if (!settings["notebooksPath"].value) {
-    new Notice("🔴请配置脚本的相关设置！！", 2000);
+    new Notice("🔴请配置相关设置！", 2000);
     settings = {
         "notebooksPath": {
             value: "",
@@ -233,8 +264,8 @@ eaApi.onPasteHook = async function ({ ea,
         ea.style.fontSize = 20;
 
         // 匹配外部回链对应的信息
-        const { nb, book, uuid } = matchBookxnoteProRegex(backlink);
-        console.log({ nb, book, uuid });
+        const { nb, book, page, uuid } = matchBookxnoteProRegex(backlink);
+        console.log({ nb, book, page, uuid });
 
         // 通过nb找到对应的书本信息
         const notebooks = findNotebooksById(notebooksJson, nb);
@@ -253,9 +284,10 @@ eaApi.onPasteHook = async function ({ ea,
         if (markupData?.imgfile) {
             console.log("图片标注");
             const imgfilePath = `${notebookFolder}/${notebooks.entry}/imgfiles/${markupData.imgfile}`;
-            const imgName = `bxn_${markupData.imgfile}`;
+            let imgName;
             // 复制图片到Obsidian的笔记库
             if (settings["copyBookxnoteImageToObsidian"].value) {
+                imgName = `bxn_${markupData.imgfile}`;
                 // 检查文件夹是否存在
                 if (!fs.existsSync(notebooksImagesPath)) {
                     // 创建文件夹
@@ -267,11 +299,13 @@ eaApi.onPasteHook = async function ({ ea,
                 }
                 fs.copyFileSync(imgfilePath, `${notebooksImagesPath}/${imgName}`);
                 await new Promise((resolve) => setTimeout(resolve, 200)); // 暂停0.2秒，等待复制文件的过程
+            } else {
+                imgName = `${markupData.imgfile}`;
             }
 
             let id = await ea.addImage(0, 0, imgName);
             let el = ea.getElement(id);
-            el.link = backlink;
+            el.link = `[${notebooks.entry}(P${page})](${backlink})`;
             ea.setView("active");
             await ea.addElementsToView(true, false, false);
         } else if (markupData?.originaltext) {
@@ -291,10 +325,14 @@ eaApi.onPasteHook = async function ({ ea,
             }
 
             const markupText = processText(markupData.originaltext);
+            const content = markupData.content ?  `\n${markupData.content}`: "";
+
             console.log(markupText);
-            let id = await ea.addText(0, 0, `${markupText}`, { width: 600, box: true, wrapAt: 90, textAlign: "left", textVerticalAlign: "middle", box: "box" });
+            const totalText = `${markupText}`;
+            let width = totalText.length > 30 ? 600 : totalText.length * 20;
+            let id = await ea.addText(0, 0, `${markupText} ([P${page}](${backlink}))${content}`, { width: width, box: true, wrapAt: 99, textAlign: "left", textVerticalAlign: "middle", box: "box" });
             let el = ea.getElement(id);
-            el.link = backlink;
+            // el.link = backlink;
             ea.setView("active");
             await ea.addElementsToView(true, false, false);
         } else {
@@ -307,19 +345,19 @@ eaApi.onPasteHook = async function ({ ea,
 };
 
 function matchBookxnoteProRegex(backlink) {
-    const regex = /nb=({[0-9a-z\-]+})&book=([0-9a-z\-]+).*&uuid=([0-9a-z\-]+)/;
+    const regex = /nb=({[0-9a-z\-]+})&book=([0-9a-z\-]+).*&page=([0-9]+).*&uuid=([0-9a-z\-]+)/;
 
     const matches = backlink.match(regex);
     if (matches) {
         const nb = matches[1];
         const book = matches[2];
-        const uuid = matches[3];
-        return { nb, book, uuid };
+        const page = matches[3];
+        const uuid = matches[4];
+        return { nb, book, page, uuid };
     } else {
         return null;
     }
 }
-
 function findNotebooksById(obj, id) {
     if (obj.notebooks && obj.notebooks.length > 0) {
         for (let i = 0; i < obj.notebooks.length; i++) {
