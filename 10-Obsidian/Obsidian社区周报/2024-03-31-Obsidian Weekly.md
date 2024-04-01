@@ -7,7 +7,7 @@ author: 淡水鱼,PkMer
 type: awesome
 draft: false
 editable: false
-modified: 20240401133223
+modified: 20240401135404
 ---
 
 # 2024-03-31：富文本，小黑屋，卡路里计算，html 导出……All in One with One out All 不是梦？
@@ -232,7 +232,7 @@ modified: 20240401133223
 
 #### Pkmer market 已更新至 0.8.0 版本
 
-> 增加了状态栏图标，如果安装的插件有新版本会有个红点标识。
+> 增加了状态栏图标，已安装插件如有新版本会出现红点标识提示。
 
 #### Editing Toolbar 更新至 2.4.2 版本
 
