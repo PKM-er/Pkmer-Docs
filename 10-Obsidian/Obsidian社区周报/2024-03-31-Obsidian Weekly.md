@@ -7,7 +7,7 @@ author: 淡水鱼,PkMer
 type: awesome
 draft: false
 editable: false
-modified: 20240401024513
+modified: 20240401133223
 ---
 
 # 2024-03-31：富文本，小黑屋，卡路里计算，html 导出……All in One with One out All 不是梦？
@@ -230,15 +230,16 @@ modified: 20240401024513
     - 修复了与 Markdown 渲染器相关的问题
     - 更新了聊天视图的填充
 
-#### pkmer market 已更新至 0.8.0 版本
+#### Pkmer market 已更新至 0.8.0 版本
 
 > 增加了状态栏图标，如果安装的插件有新版本会有个红点标识。
 
-#### editing toolbar 更新至 2.4.2 版本
+#### Editing Toolbar 更新至 2.4.2 版本
 
 > - 增加了对 thino 的支持
 > - 增强了工作区全屏命令
-> - 修复了切换不同位置有 toolbar 残留的问题 添加了插入表格，callout，checkbox 等常见命令
+> - 修复了切换不同位置有 toolbar 残留的问题
+> - 添加了插入表格，callout，checkbox 等常见命令
 > - 增加对移动设备判断，默认移动端不启用菜单栏（如需要可以设置）
 
 ## 外观
