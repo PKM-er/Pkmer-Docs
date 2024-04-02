@@ -39,7 +39,13 @@ TextExtractor 模式需要安装 Text Extractor 插件，在里面最好勾选 `
 
 ![2024-03-30_自定义Excalidraw脚本-画板全文搜索和替换(文本+图片OCR+笔记)_IMG-3](https://cdn.pkmer.cn/images/202404012200251.png!pkmer)
 
-## 搜索功能
+## 脚本链接
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/ExcalidrawGlobalSearch.md
+```
+
+### 源码案例
 
 ```js
 await ea.addElementsToView(); // 等待所有图片都加载完成

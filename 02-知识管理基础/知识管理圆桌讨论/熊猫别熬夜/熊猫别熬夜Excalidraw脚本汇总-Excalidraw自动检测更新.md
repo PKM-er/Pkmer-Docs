@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 ```
 
 - Author：熊猫别熬夜
-- Doc：[自定义Excalidraw脚本-画板全文搜索]()
+- Doc：[[自定义Excalidraw脚本-画板全文搜索]]
 - Description：实现 Excalidraw 画板的💬文本、🖼图片 OCR、📝嵌入文档的全文搜索
 	- ![2024-03-06_熊猫别熬夜Excalidraw脚本汇总-Excalidraw自动检测更新_IMG-3](https://cdn.pkmer.cn/images/202404012157056.gif!pkmer)
 
