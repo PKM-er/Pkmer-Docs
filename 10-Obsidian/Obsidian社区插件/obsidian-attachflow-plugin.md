@@ -7,7 +7,7 @@ author: yaozhuwa
 type: other
 draft: false
 editable: false
-modified: 20240329194122
+modified: 20240402195843
 ---
 
 # Obsidian AttachFlow 插件：丝滑顺畅地处理 Obsidian 文档中的内嵌附件
@@ -29,18 +29,18 @@ modified: 20240329194122
 
 效果展示：
 
-![[AttachFlowContextMenu.gif]]
+![AttachFlowContextMenu](https://cdn.pkmer.cn/images/202404021955010.gif!pkmer)
 
 本插件提供了丰富的右键菜单选项，包含了 `删除文件和链接、重命名、拷贝到剪贴板、默认应用打开、在访达显示、在 Obsidian 文档树显示` 的功能。
 
 该右键菜单支持各种文件，不仅对图片（对外部链接的图片无效）有效，还支持视频、音频、**文档内嵌的 Excalidraw 绘图**、PPT、Word、Excel 等~
 
-| 内嵌文件          | 右键菜单演示                                    |
-| ------------- | ----------------------------------------- |
-| GIF/图片        | ![[Pasted image 20240329191806.png\|500]] |
-| 视频            | ![[Pasted image 20240329191923.png\|500]] |
-| 内嵌 Excalidraw | ![[Pasted image 20240329191708.png\|500]] |
-| 音频/PPT/Word 等 | ![[record-context-menu.gif\|500]]         |
+| 内嵌文件          | 右键菜单演示                                                                                |
+| ------------- | ------------------------------------------------------------------------------------- |
+| GIF/图片        | ![Pasted image 20240329191806](https://cdn.pkmer.cn/images/202404021958462.png!pkmer)                                                  |
+| 视频            | ![Pasted image 20240329191923](https://cdn.pkmer.cn/images/202404021958812.png!pkmer) |
+| 内嵌 Excalidraw | ![Pasted image 20240329191708](https://cdn.pkmer.cn/images/202404021957584.png!pkmer) |
+| 音频/PPT/Word 等 | ![record-context-menu](https://cdn.pkmer.cn/images/202404021957660.gif!pkmer)<br>     |
 
 下面是几个右键菜单功能的具体介绍
 
@@ -58,7 +58,7 @@ modified: 20240329194122
 
 下面是 [[obsidian-image-toolkit]] 插件拷贝粘贴图片的效果：
 
-![[image-toolkit-copy.gif]]
+![image-toolkit-copy](https://cdn.pkmer.cn/images/202404021955801.gif!pkmer)
 
 本插件实现了本地文件真实拷贝到剪贴板的操作（目前只支持 Mac 和 Windows），效果和 `Ctrl/CMD+C` 复制文件一样。不仅支持图片文件的拷贝，还支持视频、Excalidraw、Word、Excel、PPT 等任意格式。
 
@@ -66,7 +66,7 @@ modified: 20240329194122
 
 下面是本插件的拷贝和粘贴效果演示：
 
-![[attachflow-copy.gif]]
+![attachflow-copy](https://cdn.pkmer.cn/images/202404021955929.gif!pkmer)
 
 #### 删除文件和链接
 
@@ -78,21 +78,21 @@ modified: 20240329194122
 
 本插件的删除功能相对于 [[nl-fast-image-cleaner|Fast Image Cleaner 插件]] 更加精准，对于同一文档多次引用同一张图片的情况也能正确处理。
 
-![[small-attachflow-delete.gif]]
+![small-attachflow-delete](https://cdn.pkmer.cn/images/202404021955475.gif!pkmer)
 
 ### 拖拽调节图片大小
 
 效果展示：
 
-![[AttachFlow-DragResize-small.gif]]
+![AttachFlow-DragResize-small](https://cdn.pkmer.cn/images/202404021955349.gif!pkmer)
 
 拖拽调节图片大小功能细节：
 
 - 支持 Markdown 链接和 WIKI 链接及 Obsidian 的三种内部链接类型
-    - ![[Obsidian 内部链接类型.png]]
+    - ![Obsidian 内部链接类型](https://cdn.pkmer.cn/images/202404021955735.png!pkmer)
 - 支持**表格**内、Callout 内图像的直接拖拽调节大小
 - 支持文档内嵌入的 **Excalidraw 文件**的拖拽调节（支持 PNG Image 和 SVG Image 格式，见下图中的 Excalidraw 设置）
-    - ![[Excalidraw 嵌入 Markdown 的绘图.png]]
+    - ![Excalidraw 嵌入 Markdown 的绘图](https://cdn.pkmer.cn/images/202404021955563.png!pkmer)
 - 支持 [[pdf-plus_readme|Obsidian PDF++ 插件]] 嵌入文档的矩形框的拖动调节
 
 ## 插件安装
