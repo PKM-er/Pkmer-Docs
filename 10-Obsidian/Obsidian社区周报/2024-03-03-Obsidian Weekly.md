@@ -18,16 +18,6 @@ modified: 20240311200048
 
 ## 插件新闻
 
-### PKMer 出品
-
-> [!INFO]
-> [PKMer](https://pkmer.cn/) 旨在打造东半球强大的知识管理社区。Personal Knowledge Management (PKM) + "er"，其中 "er" 表示人，专注、喜爱个人知识管理工作、追求效率的人们，都可以划入这个行列，希望社区凝聚更多这样的人。
-
-#### [Media Extended v3.4.0](https://github.com/PKM-er/media-extended/releases/tag/3.0.4) 已发布
-
-- 修复（注意）：修复 iframe 在阅读模式下不起作用
-- 构建：修复最低黑曜石版本
-
 ### 社区插件
 
 > [!Tip]
@@ -39,7 +29,7 @@ modified: 20240311200048
 
 > 在个人互动时间轴上重温并庆祝您人生的里程碑。通过周年纪念提醒和珍贵回忆，回顾您的历史的怀旧之旅。
 
-![2024-03-03-ch-Pasted image 20240302160108.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240302160108.png!pkmer)
+![2024-03-03-ch-Pasted image 20240302160108.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240302160108.png!pkmer)
 
 [Copy as source](https://github.com/gapmiss/copy-as-source) by _@gapmiss_
 
@@ -192,7 +182,7 @@ require("@lezer/highlight");
 
 > 识别笔记中图像上的文本。识别的文本将依据所选命令附加到您的图像或将替换您的图像。
 
-![2024-03-03-ch-loremipsum.gif](https://cdn.pkmer.cn/images/2024-03-03-ch-loremipsum.gif!pkmer)
+![2024-03-03-ch-loremipsum.gif|900](https://cdn.pkmer.cn/images/2024-03-03-ch-loremipsum.gif!pkmer)
 
 [Tiff Viewer](https://github.com/ullmannJan/obsidian-tiff-viewer) by _Jan Ullmann_
 
@@ -219,7 +209,7 @@ require("@lezer/highlight");
 
 > 这是 Obsidian (<https://obsidian.md>) 的跟踪器插件。抓取不同的网页，将项目构建为 Markdown 表格的列表，并允许您跟踪它们的状态。
 
-![2024-03-03-ch-Pasted image 20240303162526.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303162526.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303162526.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303162526.png!pkmer)
 
 [Ego Rock](https://github.com/echo-bravo-yahoo/ego-rock) by _Ashton Eby_
 
@@ -240,7 +230,7 @@ require("@lezer/highlight");
 
 > 让白板像思维导图一样工作。
 
-![2024-03-03-ch-Pasted image 20240303164350.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303164350.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303164350.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303164350.png!pkmer)
 
 [Advanced Canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) by _Developer-Mike_
 
@@ -254,13 +244,13 @@ require("@lezer/highlight");
 
 > 扩展评论和高亮的功能。
 
-![2024-03-03-ch-Pasted image 20240303173033.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303173033.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303173033.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303173033.png!pkmer)
 
 [Pomodoro Widget](https://github.com/bitegw/obsidian-pomodoro-widget) by _bitegw_
 
 > 提供基于番茄工作法的厨房计时器小部件。它设计为具有触觉反馈，有持续的滴答声和可以切换的警报声。
 
-![2024-03-03-ch-Pasted image 20240303173344.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303173344.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303173344.png|600](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303173344.png!pkmer)
 
 [Yesterday](https://github.com/dominikmayer/obsidian-yesterday) by _Dominik Mayer_
 
@@ -514,6 +504,15 @@ require("@lezer/highlight");
 > - 将 `advanced-canvas:nodes-changed` 事件更改为 `advanced-canvas:node-changed`
 > - 添加了向弹出菜单调色板添加自定义颜色的功能
 
+### PKMer 出品
+
+> [!INFO]
+> [PKMer](https://pkmer.cn/) 旨在打造东半球强大的知识管理社区。Personal Knowledge Management (PKM) + "er"，其中 "er" 表示人，专注、喜爱个人知识管理工作、追求效率的人们，都可以划入这个行列，希望社区凝聚更多这样的人。
+
+#### [Media Extended v3.4.0](https://github.com/PKM-er/media-extended/releases/tag/3.0.4) 已发布
+
+- 修复（注意）：修复 iframe 在阅读模式下不起作用
+- 构建：修复最低黑曜石版本
 ### 未上架插件
 
 > [!Caution]
@@ -563,13 +562,14 @@ require("@lezer/highlight");
 
 > Relive and celebrate your life's milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories.
 
-![2024-03-03-ch-Pasted image 20240302160108.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240302160108.png!pkmer)
+![2024-03-03-ch-Pasted image 20240302160108.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240302160108.png!pkmer)
 
 [Copy as source](https://github.com/gapmiss/copy-as-source) by _@gapmiss_
 
 > Select and copy source HTML in reading view.
 
-![[2024-03-03-en-591d3987-73cd-40b4-bb74-4df00981b2b6.gif]]
+![2024-03-03-copy-as-source.gif](https://cdn.pkmer.cn/images/2024-03-03-copy-as-source.gif!pkmer)
+
 
 [Alfonso Money Manager](https://github.com/smartlife-gpt/alfonso-money-manager-obsidian/releases/tag/1.0.0) by _SmartLifeGPT Innovation_
 
@@ -700,7 +700,7 @@ require("@lezer/highlight");
 
 > Recognize Text on images in your notes. The recognized text will be appended to your image or will replace your image - depending on the command.
 
-![2024-03-03-ch-loremipsum.gif](https://cdn.pkmer.cn/images/2024-03-03-ch-loremipsum.gif!pkmer)
+![2024-03-03-ch-loremipsum.gif|900](https://cdn.pkmer.cn/images/2024-03-03-ch-loremipsum.gif!pkmer)
 
 [Tiff Viewer](https://github.com/ullmannJan/obsidian-tiff-viewer) by _Jan Ullmann_
 
@@ -727,7 +727,7 @@ require("@lezer/highlight");
 
 > This is a tracker plugin for Obsidian (<https://obsidian.md/>).Scrapes different webpages, builds lists with the items as Markdown tables, and allows you to track their status.
 
-![2024-03-03-ch-Pasted image 20240303162526.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303162526.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303162526.png|700](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303162526.png!pkmer)
 
 [Ego Rock](https://github.com/echo-bravo-yahoo/ego-rock) by _Ashton Eby_
 
@@ -748,7 +748,7 @@ require("@lezer/highlight");
 
 > Make the Canvas work like a mindmap.
 
-![2024-03-03-ch-Pasted image 20240303164350.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303164350.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303164350.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303164350.png!pkmer)
 
 [Advanced Canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) by _Developer-Mike_
 
@@ -762,13 +762,13 @@ require("@lezer/highlight");
 
 > Extends the functionality of comments and highlights.
 
-![2024-03-03-ch-Pasted image 20240303173033.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303173033.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303173033.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303173033.png!pkmer)
 
 [Pomodoro Widget](https://github.com/bitegw/obsidian-pomodoro-widget) by _bitegw_
 
 > Provides a widget based on a pomodoro kitchen timer. It's designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled.
 
-![2024-03-03-ch-Pasted image 20240303173344.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303173344.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303173344.png|600](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303173344.png!pkmer)
 
 [Yesterday](https://github.com/dominikmayer/obsidian-yesterday) by _Dominik Mayer_
 
@@ -827,7 +827,7 @@ require("@lezer/highlight");
 
 > Render [Tekken Notation](https://tekken.fandom.com/wiki/Move_Terminology) Diagrams in Obsidian.
 
-![[2024-03-03-ch-68747470733a2f2f692e696d6775722e636f6d2f684365504537772e676966.gif]]
+![2024-03-03-ch-68747470733a2f2f692e696d6775722e636f6d2f684365504537772e676966.gif](https://cdn.pkmer.cn/images/2024-03-03-ch-68747470733a2f2f692e696d6775722e636f6d2f684365504537772e676966.gif!pkmer)
 
 [Mxmind Mindmap](https://github.com/webceoboy/mxmind-obsidian) by _mxmind_
 
@@ -859,7 +859,7 @@ require("@lezer/highlight");
 
 > Transfers the contents of the selected note to another vault, then links to it from the original note.
 
-![2024-03-03-ch-212498180-34ed6ddf-9800-4904-b5a8-209be067e992.gif](https://cdn.pkmer.cn/images/2024-03-03-ch-212498180-34ed6ddf-9800-4904-b5a8-209be067e992.gif!pkmer)
+![2024-03-03-ch-212498180-34ed6ddf-9800-4904-b5a8-209be067e992.gif|900](https://cdn.pkmer.cn/images/2024-03-03-ch-212498180-34ed6ddf-9800-4904-b5a8-209be067e992.gif!pkmer)
 
 [Movie Search](https://github.com/Gubchik123/obsidian-movie-search-plugin) by _Gubchik123_
 
@@ -881,9 +881,9 @@ require("@lezer/highlight");
 
 > Adds a bar at the top of daily notes to quickly navigate between them.
 
-![2024-03-03-ch-Pasted image 20240303205406.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303205406.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303205406.png|700](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303205406.png!pkmer)
 
-![2024-03-03-ch-Pasted image 20240303205411.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303205411.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303205411.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303205411.png!pkmer)
 
 [Orion Publish](https://github.com/seanrcollings/orion-publish-plugin) by _Sean Collings_
 
@@ -1040,4 +1040,4 @@ require("@lezer/highlight");
 
 [mono black (monochrome, charcoal)](https://github.com/ZeChArtiahSaher/obsidian-mono-black) by _ZeChArtiahSaher_
 
-![2024-03-03-ch-Pasted image 20240303161653.png](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303161653.png!pkmer)
+![2024-03-03-ch-Pasted image 20240303161653.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303161653.png!pkmer)

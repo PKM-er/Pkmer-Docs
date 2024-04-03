@@ -7,7 +7,7 @@ author: 淡水鱼,PkMer
 type: awesome
 draft: false
 editable: false
-modified: 20240401135404
+modified: 20240403205808
 ---
 
 # 2024-03-31：富文本，小黑屋，卡路里计算，html 导出……All in One with One out All 不是梦？
@@ -34,13 +34,13 @@ modified: 20240401135404
 
 > 帮助使用 markdown 而不是 iframe 嵌入链接。
 
-![2024-03-31-e49d76ff-2ab5-493b-b184-aa896783cd78](https://cdn.pkmer.cn/images/2024-03-31-e49d76ff-2ab5-493b-b184-aa896783cd78.gif!pkmer)
+![2024-03-31-e49d76ff-2ab5-493b-b184-aa896783cd78|600](https://cdn.pkmer.cn/images/2024-03-31-e49d76ff-2ab5-493b-b184-aa896783cd78.gif!pkmer)
 
 [Livecodes Playground](https://obsidian.md/plugins?id=livecodes-playground) By _@gapmiss_
 
 > Livecodes Playground，[Obsidian.md](https://obsidian.md/) 的开源客户端代码编辑器插件 - 由 [Livecodes.io](https://livecodes.io/docs/overview) 提供支持。
 
-![2024-03-31-Pasted image 20240401001143](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240401001143.png!pkmer)
+![2024-03-31-Pasted image 20240401001143|900](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240401001143.png!pkmer)
 
 [AI Summarize](https://obsidian.md/plugins?id=ai-summarize) By _Alp Sariyer_
 
@@ -72,9 +72,9 @@ modified: 20240401135404
 
 > 该插件基于 [Univer](https://github.com/dream-num/univer) ，为您在 Obisidian 中提供标准文档和工作表工具的所有功能。支持英文和中文。
 
-![2024-03-31-Pasted image 20240331224451](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331224451.png!pkmer)
+![2024-03-31-Pasted image 20240331224451|900](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331224451.png!pkmer)
 
-![2024-03-31-Pasted image 20240331224458](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331224458.png!pkmer)
+![2024-03-31-Pasted image 20240331224458|900](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331224458.png!pkmer)
 
 [Hemingway Mode](https://obsidian.md/plugins?id=hemingway-mode) By _Joaquín Bernal_
 
@@ -127,7 +127,7 @@ modified: 20240401135404
 
 > 增强功能：现已支持模糊搜索！
 
-![2024-03-31-Pasted image 20240401003326](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240401003326.png!pkmer)
+![2024-03-31-Pasted image 20240401003326|700](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240401003326.png!pkmer)
 
 [Soundscapes v1.4.0](https://github.com/andrewmcgivery/obsidian-soundscapes/releases/tag/1.4.0) By _Andrew McGivery_
 
@@ -201,15 +201,15 @@ modified: 20240401135404
 
 - **特性**
 	- 支持更好的每日评论页面
-		- ![29895226fa3f77a4fb55544c327d3fda_MD5](https://cdn.pkmer.cn/images/29895226fa3f77a4fb55544c327d3fda_MD5.png!pkmer)
+		- ![29895226fa3f77a4fb55544c327d3fda_MD5|800](https://cdn.pkmer.cn/images/29895226fa3f77a4fb55544c327d3fda_MD5.png!pkmer)
 	- 更好的每日 Thino 布局
-		- ![00f1cd2f034925ca1d137c5735ad9f3b_MD5](https://cdn.pkmer.cn/images/00f1cd2f034925ca1d137c5735ad9f3b_MD5.png!pkmer)
+		- ![00f1cd2f034925ca1d137c5735ad9f3b_MD5|800](https://cdn.pkmer.cn/images/00f1cd2f034925ca1d137c5735ad9f3b_MD5.png!pkmer)
 		- ![2024-03-31-Pasted image 20240331223414](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331223414.png!pkmer)
 		- ![2024-03-31-Pasted image 20240331223426](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331223426.png!pkmer)
 	- 支持 Thino 新主题——modern
-		- ![7430529088df5fe85dceb40f60e6db9a_MD5](https://cdn.pkmer.cn/images/7430529088df5fe85dceb40f60e6db9a_MD5.png!pkmer)
-		- ![bc79e57dc63dbedd5b41afa9f714a308_MD5](https://cdn.pkmer.cn/images/bc79e57dc63dbedd5b41afa9f714a308_MD5.png!pkmer)
-		- ![2024-03-31-Pasted image 20240331222801](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331222801.png!pkmer)
+		- ![7430529088df5fe85dceb40f60e6db9a_MD5|800](https://cdn.pkmer.cn/images/7430529088df5fe85dceb40f60e6db9a_MD5.png!pkmer)
+		- ![bc79e57dc63dbedd5b41afa9f714a308_MD5|800](https://cdn.pkmer.cn/images/bc79e57dc63dbedd5b41afa9f714a308_MD5.png!pkmer)
+		- ![2024-03-31-Pasted image 20240331222801|800](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331222801.png!pkmer)
 	- 支持通过上下文菜单选项复制筛选后的 Thino 作为图片
     - 增加了通过上下文菜单选项复制 Thino 的功能
     - 支持多标签筛选
@@ -250,7 +250,7 @@ modified: 20240401135404
 > 	- **ncore Translucency:** 使用自定义背景图像（可调节模糊度和色调）或选择**微妙动画背景**来定制您的 Obsidian 体验！
 > 	- **Glass Royale:** 专为半透明窗口设计的新颜色主题。与 Encore Translucency 结合使用，获得惊艳的视觉效果组合。
 
-![2024-03-31-Pasted image 20240401004141](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240401004141.png!pkmer)
+![2024-03-31-Pasted image 20240401004141|900](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240401004141.png!pkmer)
 
 [Prism Theme v3.5.0](https://github.com/damiankorcz/Prism-Theme) By _Damian Korcz_
 
@@ -276,31 +276,31 @@ modified: 20240401135404
 
 [Poimandres Theme](https://github.com/yoGhastly/poimandres-obsidian) By _Diego Espinosa_
 
-![2024-03-31-Pasted image 20240331231842](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331231842.png!pkmer)
+![2024-03-31-Pasted image 20240331231842|900](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331231842.png!pkmer)
 
 > 基于 Poimandres 配色方案，该主题在弱光环境下提供舒适、专注的书写体验。
 
 [Apex Theme](https://github.com/clearlysid/apex) By _clearlysid_
 
-![2024-03-31-Pasted image 20240331231325](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331231325.png!pkmer)
+![2024-03-31-Pasted image 20240331231325|900](https://cdn.pkmer.cn/images/2024-03-31-Pasted%20image%2020240331231325.png!pkmer)
 
 > 一个简洁、无干扰的主题，带有 Vim 键绑定。
 
 [Kurokula](https://github.com/Indyandie/kurokula-obsidian-theme) By _indyandie_
 
-![44f7872de7d5b916aca13432e7966c43_MD5](https://cdn.pkmer.cn/images/44f7872de7d5b916aca13432e7966c43_MD5.png!pkmer)
+![44f7872de7d5b916aca13432e7966c43_MD5|900](https://cdn.pkmer.cn/images/44f7872de7d5b916aca13432e7966c43_MD5.png!pkmer)
 
 > 引用 [Dracula Official Theme](https://github.com/dracula/obsidian) 作为起点。
 
 [Tiniri Theme](https://github.com/vladstudio/tiniri-obsidian) By _Vlad. Studio_
 
-![783c264f10295d99b51858442df45c21_MD5](https://cdn.pkmer.cn/images/783c264f10295d99b51858442df45c21_MD5.png!pkmer)
+![783c264f10295d99b51858442df45c21_MD5|900](https://cdn.pkmer.cn/images/783c264f10295d99b51858442df45c21_MD5.png!pkmer)
 
 > Tiniri 套装的一部分。下载其他主题和壁纸：[tiniri.vlad.studio](https://tiniri.vlad.studio/)
 
 [Moonstone Theme](https://github.com/DudeThatsErin/Moonstone) By _Erin Skidds_
 
-![f0016144c213ac462fa32c572ee3af36_MD5](https://cdn.pkmer.cn/images/f0016144c213ac462fa32c572ee3af36_MD5.png!pkmer)
+![f0016144c213ac462fa32c572ee3af36_MD5|900](https://cdn.pkmer.cn/images/f0016144c213ac462fa32c572ee3af36_MD5.png!pkmer)
 
 > - **特征**
 > 	- 全宽表格
