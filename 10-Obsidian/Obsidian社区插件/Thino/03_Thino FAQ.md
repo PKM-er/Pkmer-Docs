@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240407120526
+modified: 20240408143410
 id: f94eee26b8f42cdf
 ---
 
@@ -130,6 +130,7 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 ![image.png|700](https://cdn.pkmer.cn/images/20240407121601.png!pkmer)
 
 2. 解决方法：使用的第三方同步中，排除掉 Thino 文件夹即可。这样你既可以使用你自己原来的同步，也能在 Thino 同步的基础上，继续使用 微信同步等功能。另外大部分第三方同步端，都是支持排除文件夹这样的选项。
+
 #### 分享
 
 - 为什么分享头图消失了？
@@ -165,4 +166,5 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ### 兼容性相关
 
-- Pane Relief 不能共存，目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动
+- Pane Relief 冲突，目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动即可
+- Advanced Tables 冲突，鉴于此插件已经有段时间不更新了，且 OB 在近期已经完善了表格编辑体验，建议直接使用关闭的方法。
