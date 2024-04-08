@@ -3,11 +3,11 @@ uid: 20230430001441
 title: Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
 tags: [Obsidian, 插件, 链接, 自动化, 网页标题, 格式化]
 description: Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
-author: OS
+author: 永皓Yh,OS
 type: other
 draft: false
 editable: false
-modified: 20231128170849
+modified: 20240408183651
 ---
 
 # Obsidian 插件：Auto Link Title 帮助自动为网页地址增加链接名
@@ -33,6 +33,18 @@ modified: 20231128170849
 ### 一般情况
 
 当粘贴 [https://github.com/zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) 时，该插件会获取页面并检索标题，从而得出粘贴内容：`[zolrath/obsidian-auto-link-title: Automatically fetch the titles of pasted links](https://github.com/zolrath/obsidian-auto-link-title)`。
+
+### 一般设置
+
+- 增强复制：从复制的网页地址获取网页标题以 md 格式显示。
+- 打开替换文本标题
+- 黑名单排除：`douyin.com`
+
+### 命令菜单
+
+- Auto Link Title: Enhance existing URL with link and title 使用链接和标题增强现有网址（光标在网址，运行设置的行为修改）
+- Auto Link Title: Normal paste (no fetching behavior) 普通粘贴，不进行修改
+- Auto Link Title: Paste URL and auto fetch title 粘贴，并进行修改
 
 ### 将标题添加到现有的 URL 中
 

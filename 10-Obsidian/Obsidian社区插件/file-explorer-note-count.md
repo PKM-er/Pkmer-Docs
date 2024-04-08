@@ -3,11 +3,11 @@ uid: 20230517152954
 title: Obsidian 插件：File Explorer Note Count 增加文件数量统计功能
 tags: [Obsidian, 插件, 文件数量统计]
 description: Obsidian 插件：File Explorer Note Count 增加文件数量统计功能
-author: OS
+author: OS,永皓Yh
 type: other
 draft: false
 editable: false
-modified: 20230531200040
+modified: 20240408184506
 ---
 
 # Obsidian 插件：File Explorer Note Count 增加文件数量统计功能
@@ -39,9 +39,11 @@ modified: 20230531200040
 
 ### 设置
 
-- `Show All Numbers`：可以打开选项，以查看包括扩展文件夹在内的所有文件夹的计数。否则，除非扩展的文件夹不包含任何子文件夹，否则扩展的文件夹将不会具有数字。
+- `Show All Numbers`：可以打开选项，以查看包括子文件夹在内的所有文件夹的计数。否则，除非扩展的文件夹不包含任何子文件夹，否则扩展的文件夹将不会具有数字。
 - `Exclude Folder Note from Counts`：控制是否包含统计子文件夹的数量
 - `Show Only Markdown Notes`：控制是否只统计 Markdown 格式的笔记文件
+- Filter List：排除计算的后缀名 `留空`
+- Enable Blacklist：启动排除列表 `关闭`
 
 ![image.png](https://cdn.pkmer.cn/images/20230517153826.png!pkmer)
 

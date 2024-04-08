@@ -1,16 +1,13 @@
 ---
 uid: 20231109234444
 title: Thino FAQ
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino FAQ 你想知道 Thino 的一切都在这里
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240130173621
+modified: 20240408143410
 id: f94eee26b8f42cdf
 ---
 
@@ -27,7 +24,7 @@ id: f94eee26b8f42cdf
 - Obsidian 官方新规则，不允许插件使用 `Obsidian` 字样，所以顺手推舟，我们齐了一个新名字
 
 > [!note] 轶事
-> 名字是经过多个候选投票决定的
+> 名字是经过多个候选项投票决定的
 
 ## Thino 定价
 
@@ -35,12 +32,14 @@ id: f94eee26b8f42cdf
 
 - 当前 Thino 内测权限可以通过 [pkmer](https://pkmer.cn/products/thino/#price) 购买后获取。
 - Thino 也作为社区优先贡献者的福利，目前已经发放多位社区优质贡献者。
+- 后续会持续保留社区产品的免费获取通道，为的是让更多人愿意站出来分享
 
 激活步骤：[[04_Thino Installation and Pro Activation|Thino 的安装与 Pro 激活]]
 
 ### 为什么 Thino 内测要收费？
 
-注意：这主要是支撑 Thino 本地版以及 Web 版本的开发（还有未来的 Thino 多端应用的基底开发）。如果你不希望付费享受优先权益，也可以考虑参与 PKMer 社区协作，参考 [PKMer 社区指南]( https://pkmer.cn/show/20230330155738 )，当你成为优秀贡献者时，PKMer 会赠予你相应的权限。
+> [!Note ] 注意
+> 这主要是支撑 Thino 本地版以及 Web 版本的开发（还有未来的 Thino 多端应用的基底开发）。如果你不希望付费享受优先权益，也可以考虑参与 PKMer 社区协作，参考 [PKMer 社区指南]( https://pkmer.cn/show/20230330155738 )，当你成为优秀贡献者时，PKMer 会赠予你相应的权限。
 
 也可以等待 Thino 的公测版本，但公测版只会有稳定性更新，并不会带来新特性，如果想更快地体验 Thino 的新版本功能，进入内测优先是最佳选择。
 
@@ -56,8 +55,8 @@ P.S. 这个收费更类似于 Obsidian Insider 的逻辑
 
 ## Thino 参加了早鸟/内测如何获得
 
-- 早期为了激励 PKMer 社区作者，社区无条件相信了很多作者，免费发放 2.0.x 版本
-- 2.1 更名 Thino 及以后，会以强调社区贡献质量和稳定性为主，针对优质贡献者发放。这主要是平衡贡献者的不均，或者是早鸟用户和贡献者不均的现象。
+- 早期为了激励 PKMer 社区作者，社区无条件相信了很多作者，免费发放 2.0.x 版本，这里指的无条件发放是指，不管作者是否真的已经开始贡献。
+- 2.1 更名 Thino 及以后，会以强调社区贡献质量和稳定性为主，针对优质贡献者发放。这主要是平衡贡献者的不均匀，或者是早鸟用户和贡献者不均的现象。
 
 ## Thino 与 PKMer 组织的关系？
 
@@ -71,9 +70,9 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 解决外部内容进入到 Thino 的路径问题，目前规划中至少会有：
 
-- 微信导入 Thino；
+- 微信导入 Thino；[[Thino Send Content to Thino From Wechat|微信同步到 Thino]]
+- Web 端输入后同步到本地 Thino；[[Thino Sync|Thino 同步]]
 - Telegram、discord 导入 Thino；
-- Web 端输入后同步到本地 Thino；
 - 浏览器插件裁剪至 Thino;
 
 而采用外部服务器的实现会更方便解决这些路径问题。
@@ -93,7 +92,14 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 	- 对于 poper windows 这样的命令，依赖 [Hover Editor 插件]( https://pkmer.cn/show/20230507014507 ) 插件配合
 - 激活问题
 	- 不要使用 Obsidian 中浏览器类插件完成激活，会导致激活失败，当然你可以在激活时候关闭对应插件，激活后重新代开
-	- 遇到激活问题，但是 Thino 依然现实需要验证，可以重新关闭插件页签，重新开启即可
+	- 遇到激活问题，但 Thino 依然显示需要验证，可以重新关闭插件页签，重新开启即可
+
+### 自主排除问题的方法
+
+1. 优先检查自己的 PC、移动端上 Obsidian 的版本，尽量使用最新版本，如果找不到最新版本，可以去 PKMer QQ 交流群
+2. 优先检查 Thino 版本是否最新的
+3. 优先检查其他插件是否最新的
+4. 优先使用默认主题，检查下问题是否还存在，就能判断是否主题没有支持 Thino 导致的。正常主题应该都是适配 Thino 基本展示的。
 
 ### 功能问题
 
@@ -113,11 +119,17 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 从设计理念上 memos 和 现在的 Thino 并不会频繁监控用户仓库，文件夹的变化。所以当你迁移了笔记，或者创建了文件夹，需要你通过重启 Obsidian 的方式，来获取目录结构变动。
 
-当然，后续的体验上可能考虑解决此问题。
+1. 不要在日记设置中，读取标题位置写 HTML 标签
+2. 如果使用日记模式，那么一定要打开 Obsidian 的日记插件
 
 ### 显示异常
 
-可以考虑通过重启 Obsidian 来检测是否是缓存问题
+#### 为什么会有重复的数据
+
+1. 用户自己使用了混合同步，即出了 Thino 的同步外，还是用了另外的第三方同步。如：日记文件中存了 A，但是选择 Thino 同步到另外设备的单文件下，自己的第三方同步有同步了 日记的 A 这就造成了 日记和单文件下同时在另外的设备有了两个。如图：
+![image.png|700](https://cdn.pkmer.cn/images/20240407121601.png!pkmer)
+
+2. 解决方法：使用的第三方同步中，排除掉 Thino 文件夹即可。这样你既可以使用你自己原来的同步，也能在 Thino 同步的基础上，继续使用 微信同步等功能。另外大部分第三方同步端，都是支持排除文件夹这样的选项。
 
 #### 分享
 
@@ -127,10 +139,10 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ### 同步
 
-#### 仅单文件模式同步
+#### 仅单文件、日记模式同步
 
 - 不支持多文件甚至全库同步
-- 不会和 Obsidian 官方同步冲突，也不会和其他第三方民间 Obsidian 同步进行处理
+- 不会和 Obsidian 官方同步冲突，也不会和其他第三方同步进行额外处理，事实上这样设计已经是最大程度避免和 Obsidian 官方
 - 仅对 Obsidian 中独立文件中内容进行同步，还能保持同步的有效性和速度
 
 #### 不支持 Thino 外的修改
@@ -144,7 +156,7 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ![image.png|500](https://cdn.pkmer.cn/images/20231222105951.png!pkmer)
 
-弹出报错提醒，这里是需要打开 [[nldates-obsidian]] 插件即可，在  [[Thino Filters|检索式（筛选）]] 中也有说明
+弹出报错提醒，这里是需要打开 [[nldates-obsidian]] 插件即可，在 [[Thino Filters|检索式（筛选）]] 中也有说明
 
 ![image.png| 500](https://cdn.pkmer.cn/images/20231222110028.png!pkmer)
 
@@ -154,4 +166,5 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ### 兼容性相关
 
-- Pane Relief 不能共存，目前判断是 Pane Relief 的问题。
+- Pane Relief 冲突，目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动即可
+- Advanced Tables 冲突，鉴于此插件已经有段时间不更新了，且 OB 在近期已经完善了表格编辑体验，建议直接使用关闭的方法。
