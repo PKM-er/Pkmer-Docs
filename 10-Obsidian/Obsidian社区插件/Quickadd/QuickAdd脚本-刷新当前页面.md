@@ -4,7 +4,7 @@ title: QuickAdd 脚本：刷新当前页面
 tags: [quickadd脚本, 刷新, quickadd]
 description: 刷新当前Obsidian页面
 author: ProudBenzene,calmwaves
-type: advanced
+type: other
 draft: false
 editable: false
 modified: 20240320183744

@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240115155752
+modified: 20240408191220
 ---
 
 # Obsidian 使用技巧
@@ -60,6 +60,7 @@ modified: 20240115155752
 - [[将引用的内容嵌入到行的方案]]
 - [[每日字数的热力图]]
 - [[auto-insert-template自动化模板教学]] by Devol
+- [[banners插件beta版适配Obsidian 1.4以上版本]]
 - Quickadd
 	- [[Quickadd结合CSS实现挖空复习]] by Mon
 	- [[Quickadd脚本-为深浅模式配置不同的主题]]

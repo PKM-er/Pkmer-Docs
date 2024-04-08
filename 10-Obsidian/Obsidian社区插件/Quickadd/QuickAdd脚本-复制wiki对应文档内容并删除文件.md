@@ -1,16 +1,13 @@
 ---
 uid: 20240316224647
-title: QuickAdd脚本-复制wiki对应文档内容并删除文件
-tags:
-  - 工作流
-  - quickadd脚本
-  - 文件重构
+title: QuickAdd 脚本 - 复制 wiki 对应文档内容并删除文件
+tags: [工作流, quickadd脚本, 文件重构]
 description: 复制 wiki 对应文档内容并删除文件，适用于快速将子笔记内容整理到剪切板，以及删除子文档的操作。
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240316224811
+modified: 20240408190804
 ---
 
 # QuickAdd 脚本 - 复制 wiki 对应文档内容并删除文件

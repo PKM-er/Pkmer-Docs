@@ -1,16 +1,13 @@
 ---
 uid: 20240401220812
 title: QuickAdd 脚本 - 插入并编辑 SVG 文件
-tags:
-  - svg
-  - 图片注释
-  - quickadd脚本
+tags: [svg, 图片注释, quickadd脚本]
 description: 插入并编辑 SVG 文件
 author: 熊猫别熬夜,一鸣惊人
 type: other
 draft: false
 editable: false
-modified:
+modified: 20240408190825
 ---
 
 # QuickAdd 脚本 - 插入并编辑 SVG 文件
