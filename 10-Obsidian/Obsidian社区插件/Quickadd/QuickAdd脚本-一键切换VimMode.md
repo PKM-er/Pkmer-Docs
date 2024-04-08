@@ -1,9 +1,7 @@
 ---
 uid: 20240221011001
 title: QuickAdd 脚本 - 一键切换 VimMode
-tags:
-  - Vim相关
-  - quickadd脚本
+tags: [Vim相关, quickadd脚本]
 description: 通过Quickadd脚本设置快捷键便捷切换Vim模式，无需插件
 author: 熊猫别熬夜
 type: other
@@ -27,6 +25,10 @@ modified: 20240221011051
 ### 第二步：配置 VimToggle Capture
 
 ![2024-02-20_QuickAdd脚本-一键切换VimMode_IMG-2](https://cdn.pkmer.cn/images/202402210110775.png!pkmer)
+
+> [!tip] 防止报错：
+> 上述配置会导致当文档不出编辑或者无法正常插入文本时会报错，可以采用下述配置，@PlayerMiller
+> ![2024-02-20_QuickAdd脚本-一键切换VimMode_IMG-3](https://cdn.pkmer.cn/images/202403232103958.png!pkmer)
 
 ````md
 ```js quickadd

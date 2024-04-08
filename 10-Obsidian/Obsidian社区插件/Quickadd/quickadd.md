@@ -30,11 +30,18 @@ modified: 20240311182148
 - [[QuickAdd脚本-利用Canvas平铺笔记]]
 - [[copy-selection-in-canvas]]
 - [[QuickAdd脚本-随机漫游笔记]]
+- [[Quickadd脚本-控制自定义CSS-设置二维码字体]]
+- [[QuickAdd脚本-一键切换VimMode]]
 - [[Quickadd脚本-为深浅模式配置不同的主题]]
 - [[QuickAdd脚本-Project项目选项栏]]
 - [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
 - [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
 - [[QuickAdd脚本-复制wiki对应文档内容并删除文件]]
+- [[QuickAdd脚本-移动子笔记或附件到当前文件夹]]
+- [[QuickAdd脚本-插入并编辑SVG文件]]
+- [[QuickAdd脚本-F2弹窗式重命名三合一]]
+- [[QuickAdd脚本-双语文档的中英文视图切换显示]]
+- [[QuickAdd脚本-右键复制文件夹路径]]
 
 ## 参考资料
 
@@ -177,14 +184,6 @@ module.exports = async (params) => {
 	4. Raycast
 
 注：这里只有 utools 是全平台的，AutoHotkey 是 Windows 独占的开源软件，Alfred，Raycast 是 Mac 独占商业软件。
-
-## 相关教程
-
-- [[Quickadd结合CSS实现挖空复习]]
-- [[Quickadd脚本-一键在某软件中打开Ob笔记]]
-- [[Quickadd脚本-一键在系统应用中打开图片编辑]]
-- [[Quickadd脚本-控制自定义CSS-设置二维码字体]]
-- [[QuickAdd脚本-一键切换VimMode]]
 
 ## 视频教程
 
