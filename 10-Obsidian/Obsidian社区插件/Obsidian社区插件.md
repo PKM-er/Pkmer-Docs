@@ -88,7 +88,6 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[vscode-editor]]：提供查看和编辑**各种代码文件**和代码块的功能
 - [[prozen]]：禅模式启动！
 
-
 ### 格式化
 
 描述格式化是指通过使用不同的格式技巧和标点符号排版等方式来提高文本的可读性和视觉效果，使得文本更清晰易读、更美观易懂，同时也提高了文本质量和可读性。在 Obsidian 中，有多种插件可以帮助用户对文本进行描述格式化。
@@ -118,6 +117,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
 - [[Obsidian样式-MCL Multi Column]]
 - [[obsidian-timeline]]：用于构建漂亮的时间轴/时间线
+- [[obsidian-sticky-heading]]：让当前内容的标题始终处于页面上方
 
 ### 标题增强
 
@@ -209,6 +209,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[codeblock-tabs]]：将连续的 CodeBlocks 创建标签组样式
 - [[obsidian-code-tab]]：创造类似 leetcode 样式的混合代码块，且不仅限于代码块
 	- [[code-tab还能这么玩]]：codetab 插件的活用文章
+- [[obsidian-shiki]]：为超过 100 种语言提供更好的语法高亮显示等一系列功能
 
 ### 搜索
 
@@ -406,6 +407,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
 - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
 - [[obsidian-chat-view-qq]]：chat-view-qq 保存 QQ 消息到 Obsidian 中
+- [[obsidian-wallpaper]]：为库添加动态背景图
 
 ### 恢复&备份
 
