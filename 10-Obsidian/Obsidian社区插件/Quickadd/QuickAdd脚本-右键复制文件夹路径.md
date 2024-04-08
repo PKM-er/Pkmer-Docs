@@ -1,15 +1,13 @@
 ---
 uid: 20240401222254
 title: QuickAdd 脚本 - 右键复制文件夹路径
-tags:
-  - 文件路径
-  - quickadd脚本
+tags: [文件路径, quickadd脚本]
 description: 运行该脚本后可以在在文件列表中鼠标右键复制文件夹路径
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified:
+modified: 20240408190821
 ---
 
 # QuickAdd 脚本 - 右键复制文件夹路径

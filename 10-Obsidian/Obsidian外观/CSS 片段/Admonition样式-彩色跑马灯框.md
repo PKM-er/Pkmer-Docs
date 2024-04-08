@@ -1,16 +1,13 @@
 ---
 uid: 20240330182904
-title: Admonition样式：彩色跑马灯框
-tags:
-  - Admonition
-  - callout
-  - 跑马灯
+title: Admonition 样式：彩色跑马灯框
+tags: [Admonition, callout, 跑马灯]
 description: Callout彩色跑马灯样式
 author: ProudBenzene
-type: advanced
+type: awesome
 draft: false
 editable: false
-modified: 20240330184023
+modified: 20240408190545
 ---
 
 # Admonition 样式：彩色跑马灯框

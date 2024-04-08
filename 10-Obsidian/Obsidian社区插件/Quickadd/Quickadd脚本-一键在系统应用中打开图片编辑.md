@@ -4,10 +4,10 @@ title: Quickadd 脚本：一键在系统应用中打开图片编辑
 tags: [quickadd, quickadd脚本, 图片, 附件]
 description: 可以一键在系统软件中打开笔记图片的quickadd脚本
 author: ProudBenzene,熊猫别熬夜
-type: advanced
+type: other
 draft: false
 editable: false
-modified: 20240330184709
+modified: 20240408190828
 ---
 
 # Quickadd 脚本：一键在系统应用中打开图片编辑

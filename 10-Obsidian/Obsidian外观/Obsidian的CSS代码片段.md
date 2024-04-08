@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240229233928
+modified: 20240408190713
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -215,6 +215,9 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-Thino展开增强]]
 - [[Obsidian样式-Thino列表模式日期样式调整]]
 
+#### Admonition
+
+- [[Admonition样式-彩色跑马灯框]]
 
 #### Kanban
 

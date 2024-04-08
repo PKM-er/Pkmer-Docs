@@ -1,16 +1,13 @@
 ---
 uid: 19840124160000
-title: QuickAdd脚本：为图片添加题注
-tags:
-  - quickadd
-  - 图片
-  - 题注
+title: QuickAdd 脚本：为图片添加题注
+tags: [quickadd, 图片, 题注]
 description: 使用QuickAdd脚本为图片添加题注
 author: ProudBenzene
-type: advanced
+type: other
 draft: false
 editable: false
-modified: 20240330184210
+modified: 20240408190726
 ---
 
 # QuickAdd 脚本：为图片添加题注

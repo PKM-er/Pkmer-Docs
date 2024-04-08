@@ -1,15 +1,13 @@
 ---
 uid: 19840124160000
-title: banner插件beta版适配Obsidian 1.4以上版本
-tags:
-  - banners
-  - 适配
+title: banner 插件 beta 版适配 Obsidian 1.4 以上版本
+tags: [banners, 适配]
 description: 最新beta版banners插件升级过程
 author: ProudBenzene
 type: basic
 draft: false
 editable: false
-modified: 20240330184318
+modified: 20240408191106
 ---
 
 # banner 插件 beta 版适配 Obsidian 1.4 以上版本

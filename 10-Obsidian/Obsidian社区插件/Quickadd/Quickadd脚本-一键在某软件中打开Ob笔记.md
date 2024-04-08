@@ -4,7 +4,7 @@ title: Quickadd 脚本：一键在某软件中打开 Ob 笔记
 tags: [quickadd, quickadd脚本, VSCode]
 description: 一键在第三方软件中打开笔记的quickadd脚本
 author: 熊猫别熬夜,ProudBenzene
-type: advanced
+type: other
 draft: false
 editable: false
 modified: 20231210154439
