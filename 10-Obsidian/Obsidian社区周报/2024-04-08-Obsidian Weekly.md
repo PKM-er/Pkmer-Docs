@@ -3,11 +3,11 @@ uid: 20240409004305
 title: 2024-04-08：更灵活，同时更稳定
 tags: [Roundup, Obsidian]
 description: 更灵活，同时更稳定
-author: 淡水鱼,Pkmer
+author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240409005325
+modified: 20240409161511
 ---
 
 # 2024-04-08：更灵活，同时更稳定
@@ -158,7 +158,7 @@ modified: 20240409005325
 
 - **Features**
 	- [PRO/BASIC] 支持将编辑器插入到当前的 markdown 视图
-		- ![f0ebe95b-7539-470d-b6b3-301a543922db](https://cdn.pkmer.cn/images/f0ebe95b-7539-470d-b6b3-301a543922db.gif!pkmer)
+		- ![f0ebe95b-7539-470d-b6b3-301a543922db|700](https://cdn.pkmer.cn/images/f0ebe95b-7539-470d-b6b3-301a543922db.gif!pkmer)
 	- [PRO/BASIC] 强化 Thino 嵌入组件；你可以按不同类型排序 Thino 组件，比如列表/日历/热力图/状态/编辑器/每日
 	- [PRO/BASIC] Thino 嵌入中的列表组件应该将固定的 Thino 放在顶部
 	- [PRO/BASIC] 支持按回车键解锁 Thino
@@ -202,7 +202,7 @@ modified: 20240409005325
 
 [Soothe Theme](https://github.com/AwesomeDog/obsidian-soothe) By _AwesomeDog_
 
-![2024-04-08-Pasted image 20240408231619](https://cdn.pkmer.cn/images/2024-04-08-Pasted%20image%2020240408231619.png!pkmer)
+![2024-04-08-Pasted image 20240408231619|900](https://cdn.pkmer.cn/images/2024-04-08-Pasted%20image%2020240408231619.png!pkmer)
 
 > 用舒缓的色彩渲染 Obsidian，保留 Obsidian 所提供的一切。
 > 该主题的设计旨在使 Obsidian 的外观更加柔和，同时保留其原生感。
