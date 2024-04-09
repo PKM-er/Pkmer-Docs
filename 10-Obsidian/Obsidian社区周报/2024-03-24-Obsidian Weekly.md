@@ -3,11 +3,11 @@ uid: 20240325183110
 title: 2024-03-24：随时随地，沉浸式笔记
 tags: [Roundup, Obsidian]
 description: 
-author: 淡水鱼,PkMer
+author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240325183110
+modified: 20240409161526
 ---
 
 # 2024-03-24：随时随地，沉浸式笔记
@@ -57,8 +57,6 @@ modified: 20240325183110
 ## 插件新闻
 
 ### 社区插件
-
-
 
 #### 新增
 
