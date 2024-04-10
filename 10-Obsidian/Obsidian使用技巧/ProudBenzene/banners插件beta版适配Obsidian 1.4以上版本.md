@@ -1,5 +1,5 @@
 ---
-uid: 19840124160000
+uid: 19840124160001
 title: banner 插件 beta 版适配 Obsidian 1.4 以上版本
 tags: [banners, 适配]
 description: 最新beta版banners插件升级过程
