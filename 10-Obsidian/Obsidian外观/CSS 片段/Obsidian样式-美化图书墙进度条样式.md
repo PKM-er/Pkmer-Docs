@@ -7,7 +7,7 @@ author: 自权
 type: other
 draft: false
 editable: false
-modified: 20240408140802
+modified: 20240410111306
 ---
 
 # Obsidian 样式：美化图书墙进度条样式
@@ -2177,7 +2177,7 @@ progress[value="100"]::-webkit-progress-value {
 
 接下来，我们用 CSS 把它换成**动态**的**彩虹猫咪**😀
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/ySibHRolxECF6BmIPxnic96eJib082PIbOpyiclhl8EIRnFNooEfKDd5ltGpcx4mGOXOSDmA6icAwpibdKPX3J1v0ic2g/640?wx_fmt=gif&from=appmsg)
+![QQ图片20240410111032.gif|250](https://cdn.pkmer.cn/images/QQ%E5%9B%BE%E7%89%8720240410111032.gif!pkmer)
 
 还有一个**静态**的**彩虹猫咪**可选 (软萌小猫进度 modified.css)
 
