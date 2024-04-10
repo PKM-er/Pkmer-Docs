@@ -96,10 +96,11 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ### 自主排除问题的方法
 
-1. 优先检查自己的 PC、移动端上 Obsidian 的版本，尽量使用最新版本，如果找不到最新版本，可以去 PKMer QQ 交流群
+1. 优先检查自己的 PC、移动端上 Obsidian 的版本，尽量使用最新版本，如果找不到最新版本，可以去 PKMer QQ 交流群的群共享文件获取
 2. 优先检查 Thino 版本是否最新的
 3. 优先检查其他插件是否最新的
-4. 优先使用默认主题，检查下问题是否还存在，就能判断是否主题没有支持 Thino 导致的。正常主题应该都是适配 Thino 基本展示的。
+4. 优先检查自己使用的主题是否是最新
+5. 优先使用默认主题，检查下问题是否还存在，就能判断是否主题没有支持 Thino 导致的。正常主题应该都是适配 Thino 基本展示的。
 
 ### 功能问题
 
@@ -128,10 +129,16 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 1. 用户自己使用了混合同步，即出了 Thino 的同步外，还是用了另外的第三方同步。如：日记文件中存了 A，但是选择 Thino 同步到另外设备的单文件下，自己的第三方同步有同步了 日记的 A 这就造成了 日记和单文件下同时在另外的设备有了两个。如图：
 
-![image.png](https://cdn.pkmer.cn/images/20240409194722.png!pkmer)
+![image.png|800](https://cdn.pkmer.cn/images/20240409194722.png!pkmer)
 
 1. 解决方法：使用的第三方同步中，排除掉 Thino 文件夹即可。这样你既可以使用你自己原来的同步，也能在 Thino 同步的基础上，继续使用 微信同步等功能。另外大部分第三方同步端，都是支持排除文件夹这样的选项。
 
+#### 为什么不显示我记录的内容
+
+- 问题现象如图：
+![image.png|300](https://cdn.pkmer.cn/images/20240410105051.png!pkmer)
+
+- 原因：你的移动端或者PC端，Obsidian 版本过低，可以升级到最新版本
 #### 分享
 
 - 为什么分享头图消失了？
@@ -155,11 +162,11 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 使用检索式检索日期时
 
-![image.png|500](https://cdn.pkmer.cn/images/20231222105951.png!pkmer)
+![image.png|400](https://cdn.pkmer.cn/images/20231222105951.png!pkmer)
 
 弹出报错提醒，这里是需要打开 [[nldates-obsidian]] 插件即可，在 [[Thino Filters|检索式（筛选）]] 中也有说明
 
-![image.png| 500](https://cdn.pkmer.cn/images/20231222110028.png!pkmer)
+![image.png|300](https://cdn.pkmer.cn/images/20231222110028.png!pkmer)
 
 ### 宿主相关
 
