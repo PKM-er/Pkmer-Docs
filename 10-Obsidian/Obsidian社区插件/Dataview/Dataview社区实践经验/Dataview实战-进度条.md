@@ -52,7 +52,7 @@ modified: 20231209174630
 
 ```
 TABLE "<progress value="+ 已读页数 + " max=" + 总页数 + "></progress>" AS 阅读进度
-FTOM "#books"
+FROM "#books"
 ```
 
 如果结果很多，请谨慎粘贴
@@ -61,7 +61,7 @@ FTOM "#books"
 
 ```
 TABLE "<progress value="+ 已读页数 + " max=" + 总页数 + "></progress>" + round(已读页数/总页数*100) + "%" AS 阅读进度
-FTOM "#books"
+FROM "#books"
 ```
 
 ![image.png](https://cdn.pkmer.cn/images/20231209164641.png!pkmer)
