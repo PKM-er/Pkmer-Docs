@@ -2,12 +2,12 @@
 uid: 20240331155510
 title: Dataview 实战 - 展示特定文件夹内未完成任务并且支持子任务图片展示
 tags: [dataview]
-description: 
+description: 展示特定文件夹内未完成任务并且支持子任务图片展示
 author: 是明导么
 type: tutorail
 draft: false
 editable: false
-modified: 20240331161359
+modified: 20240415173301
 ---
 
 # Dataview 实战 - 展示特定文件夹内未完成任务并且支持子任务图片展示
@@ -26,13 +26,15 @@ where !completion
 
 ## Dataviewjs 语句修改实用方法
 
-- 将 Dataviewjs 语句中“目标文件夹”替换为你希望检索的文件夹，“附件位置文件夹”替换为你存放附件的文件夹（注：后面的/不要删掉）。完成后你就可以实现 dataview 把 task 列举出来同时支持子任务的图片显示。下图方便理解。
-	- ![[Dataviewjs 展示特定文件夹内未完成任务并且支持子任务图片展示 3.png]]
+将 Dataviewjs 语句中“目标文件夹”替换为你希望检索的文件夹，“附件位置文件夹”替换为你存放附件的文件夹（注：后面的/不要删掉）。完成后你就可以实现 dataview 把 task 列举出来同时支持子任务的图片显示。下图方便理解。
+
+![[Dataviewjs 展示特定文件夹内未完成任务并且支持子任务图片展示 3.png]]
 
 ### Dataviewjs 语句结果如下
 
-- 可以看到 Dataviewjs 语句处理后图片可以正常显示。
-	- ![[Dataviewjs 展示特定文件夹内未完成任务并且支持子任务图片展示 2.png]]
+可以看到 Dataviewjs 语句处理后图片可以正常显示。
+
+![[Dataviewjs 展示特定文件夹内未完成任务并且支持子任务图片展示 2.png]]
 
 #### 代码内容
 
