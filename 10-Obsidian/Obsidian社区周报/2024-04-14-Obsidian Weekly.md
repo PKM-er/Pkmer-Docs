@@ -1,13 +1,13 @@
 ---
 uid: 20240415021601
-title: 2024-04-14：全面加强的引用与索引！
+title: 2024-04-14：全面加强的引用与索引
 tags: [Roundup, Obsidian]
 description: 全面加强的引用与索引！
 author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240415021753
+modified: 20240415143920
 ---
 
 # 2024-04-14：全面加强的引用与索引
@@ -26,7 +26,7 @@ modified: 20240415021753
 
 > 更符合中国习惯的日历，可以显示农历、节气、节假日、调休信息，支持月视图和年视图切换，支持关联创建周期性笔记。
 
-![2024-04-14-Pasted image 20240415020225](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415020225.png!pkmer)
+![2024-04-14-Pasted image 20240415020225|800](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415020225.png!pkmer)
 
 [AI for Templater](https://obsidian.md/plugins?id=ai-templater) By _TfTHacker_
 
@@ -98,7 +98,7 @@ modified: 20240415021753
 
 > 在右侧面板上列出外部链接。还能显示哪些其他笔记链接到给定的链接。
 
-![Pasted image 20240414234108](https://cdn.pkmer.cn/images/Pasted%20image%2020240414234108.png!pkmer)
+![Pasted image 20240414234108|900](https://cdn.pkmer.cn/images/Pasted%20image%2020240414234108.png!pkmer)
 
 [vConsole](https://obsidian.md/plugins?id=vconsole) By _Zhou Hua_
 
@@ -132,7 +132,7 @@ modified: 20240415021753
 
 > 显示当前文件夹中的笔记列表，并允许您筛选标题以包含或排除笔记。您可以筛选掉一些不想在列表中看到的笔记，比如“索引”，只包含具有“章节”或“关于”字样的笔记。
 
-![2024-04-14-Pasted image 20240414211756](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240414211756.png!pkmer)
+![2024-04-14-Pasted image 20240414211756|1000](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240414211756.png!pkmer)
 
 [Slurp](https://obsidian.md/plugins?id=slurp) By _inhumantsar_
 
@@ -218,7 +218,7 @@ modified: 20240415021753
 > - 对于微信阅读以及 Thino Pro 用户
 > - 你可以利用新版本的单文件标签索引功能来索引微信阅读的笔记成为 Thino 的一部分，且用于随机回顾，或者筛选；
 > - 对应教程为： [#532](https://github.com/Quorafind/Obsidian-Thino/discussions/532)
-> - 效果如下：![2024-04-14-Pasted image 20240415015527](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415015527.png!pkmer)
+> - 效果如下：![2024-04-14-Pasted image 20240415015527|900](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415015527.png!pkmer)
 
 - **特性**
 	- 在使用实时预览模式时，点击编辑器应该聚焦到编辑器
@@ -238,9 +238,9 @@ modified: 20240415021753
 - **样式**
 	- 在使用现代主题时，移除 page-wrapper 的顶部边距
 	- 支持 Thino 的三种分享样式
-		- Minimal ![2024-04-14-Pasted image 20240415014109](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415014109.png!pkmer)
-		- Modern ![2024-04-14-Pasted image 20240415014030](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415014030.png!pkmer)
-		- Clean ![2024-04-14-Pasted image 20240415014034](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415014034.png!pkmer)
+		- Minimal ![2024-04-14-Pasted image 20240415014109|500](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415014109.png!pkmer)
+		- Modern ![2024-04-14-Pasted image 20240415014030|500](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415014030.png!pkmer)
+		- Clean ![2024-04-14-Pasted image 20240415014034|500](https://cdn.pkmer.cn/images/2024-04-14-Pasted%20image%2020240415014034.png!pkmer)
 	- 在聊天视图中使用 fluent/inline 样式时，移除 content-wrapper 中的 gap 属性
 	- 修复侧边栏的宽度过窄导致热点图被挤压的问题
 	- 修复 Thino 编辑器包装器的 margin-top 问题
@@ -272,9 +272,9 @@ modified: 20240415021753
 
 [CyberGlow](https://github.com/ArtexJay/Obsidian-CyberGlow/releases) By _ArtexJay_ 更新 **您需要重新安装主题**
 
-![Pasted image 20240415003541](https://cdn.pkmer.cn/images/Pasted%20image%2020240415003541.png!pkmer)
+![Pasted image 20240415003541|1000](https://cdn.pkmer.cn/images/Pasted%20image%2020240415003541.png!pkmer)
 
-![Pasted image 20240415003549](https://cdn.pkmer.cn/images/Pasted%20image%2020240415003549.png!pkmer)
+![Pasted image 20240415003549|600](https://cdn.pkmer.cn/images/Pasted%20image%2020240415003549.png!pkmer)
 
 > 更新日志：
 > - 更改了活动行高亮的设计
@@ -288,7 +288,7 @@ modified: 20240415021753
 
 [Virgo Theme](https://github.com/loveminimal/obsidian-theme-virgo) by _Jack Liu_
 
-![Pasted image 20240415002251](https://cdn.pkmer.cn/images/Pasted%20image%2020240415002251.png!pkmer)
+![Pasted image 20240415002251|700](https://cdn.pkmer.cn/images/Pasted%20image%2020240415002251.png!pkmer)
 
 ![Pasted image 20240415002300](https://cdn.pkmer.cn/images/Pasted%20image%2020240415002300.png!pkmer)
 
@@ -296,17 +296,17 @@ modified: 20240415021753
 
 [Dunite](https://github.com/Ch0live/dunite) By _Ch0live_
 
-![Pasted image 20240415001007](https://cdn.pkmer.cn/images/Pasted%20image%2020240415001007.png!pkmer)
+![Pasted image 20240415001007|900](https://cdn.pkmer.cn/images/Pasted%20image%2020240415001007.png!pkmer)
 
-![Pasted image 20240415001015](https://cdn.pkmer.cn/images/Pasted%20image%2020240415001015.png!pkmer)
+![Pasted image 20240415001015|900](https://cdn.pkmer.cn/images/Pasted%20image%2020240415001015.png!pkmer)
 
 > 以浅黄绿色的侵入性火成岩石为核心的 Obsidian 主题，。
 
 [Sandover Theme](https://github.com/eliz-abeth/sandover) By _eliz-abeth_
 
-![Pasted image 20240414235923](https://cdn.pkmer.cn/images/Pasted%20image%2020240414235923.png!pkmer)
+![Pasted image 20240414235923|1000](https://cdn.pkmer.cn/images/Pasted%20image%2020240414235923.png!pkmer)
 
-![Pasted image 20240414235931](https://cdn.pkmer.cn/images/Pasted%20image%2020240414235931.png!pkmer)
+![Pasted image 20240414235931|1000](https://cdn.pkmer.cn/images/Pasted%20image%2020240414235931.png!pkmer)
 
 > Sandover 的灵感来自于伟大作品的创作空间以及创作这些作品所使用的工具。简洁的设计复制了打字机打印的页面并使用 [TT2020](https://github.com/ctrlcctrlv/TT2020) 字体。强调色来自诗人詹姆斯·梅里尔（James Merrill）和他的伴侣大卫·杰克逊（David Jackson）位于康涅狄格州斯通顿镇（Stonington, CT）的充满活力的家。他们的家是他史诗作品《桑多弗的变化之光》的主要场景之一。
 > 在 Sandover 中，您可以使用引用语法留下蓝色注释，这样您在打字时就可以轻松看到它们，就好像您在行与行之间用蓝墨水书写一样。
