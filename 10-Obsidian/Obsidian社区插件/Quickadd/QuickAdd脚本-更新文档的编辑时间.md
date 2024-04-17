@@ -25,7 +25,7 @@ module.exports = {
     const yaml = settings["Properties"] ? settings["Properties"] : "modified";
 
     await app.fileManager.processFrontMatter(activefile, fm => {
-      if (fm[yaml]) fm[yaml] = "";
+      if (!fm[yaml]) fm[yaml] = "";
       fm[yaml] = moment().format(settings["Format"] ? settings["Format"] : "YYYY-MM-DD HH:mm:ss Z");
     });
 
