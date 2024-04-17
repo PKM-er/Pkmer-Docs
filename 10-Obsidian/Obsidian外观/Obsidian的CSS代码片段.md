@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240408190713
+modified: 20240413005108
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -48,6 +48,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-像VSCode一样显示搜索替换框]]
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-悬浮两侧菜单栏]]
+- [[Obsidian样式-悬浮侧边栏自动弹出，提升工作流效率]]
 - [[Obsidian样式-专注标签页边框]]
 
 ### 编辑器
@@ -108,6 +109,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-如何在阅读模式下隐藏Properties]]
 - [[Obsidian样式-修复banner和Properties高度冲突以及多余留白改善]]
+- [[Obsidian样式-控制属性面板(YAML)的显示状态]]
 
 ### 状态栏
 
