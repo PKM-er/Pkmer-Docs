@@ -30,9 +30,9 @@ modified: 20240311182148
 - [[QuickAdd脚本-利用Canvas平铺笔记]]
 - [[copy-selection-in-canvas]]
 - [[QuickAdd脚本-随机漫游笔记]]
-- [[Quickadd脚本-控制自定义CSS-设置二维码字体]]
+- [[QuickAdd脚本-控制自定义CSS-设置二维码字体]]
 - [[QuickAdd脚本-一键切换VimMode]]
-- [[Quickadd脚本-为深浅模式配置不同的主题]]
+- [[QuickAdd脚本-为深浅模式配置不同的主题]]
 - [[QuickAdd脚本-Project项目选项栏]]
 - [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
 - [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
@@ -42,6 +42,8 @@ modified: 20240311182148
 - [[QuickAdd脚本-F2弹窗式重命名三合一]]
 - [[QuickAdd脚本-双语文档的中英文视图切换显示]]
 - [[QuickAdd脚本-右键复制文件夹路径]]
+- [[QuickAdd脚本-更新文档的编辑时间]]
+- [[QuickAdd脚本-自定义外部应用打开当前文档]]
 
 ## 参考资料
 

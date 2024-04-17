@@ -63,13 +63,13 @@ modified: 20240408191220
 - [[banners插件beta版适配Obsidian 1.4以上版本]]
 - Quickadd
 	- [[Quickadd结合CSS实现挖空复习]] by Mon
-	- [[Quickadd脚本-为深浅模式配置不同的主题]]
+	- [[QuickAdd脚本-为深浅模式配置不同的主题]]
 	- [[QuickAdd脚本-随机漫游笔记]]
 	- [[QuickAdd脚本-一键切换VimMode]]
 	- [[QuickAdd脚本-利用Canvas平铺笔记]]
 	- [[Quickadd脚本-一键在某软件中打开Ob笔记]]
 	- [[QuickAdd脚本-插入Zotero的条目PDF链接]]
-	- [[Quickadd脚本-控制自定义CSS-设置二维码字体]]
+	- [[QuickAdd脚本-控制自定义CSS-设置二维码字体]]
 	- [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
 
 ## 与第三方软件联动
