@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240413005056
+modified: 20240417174817
 ---
 
 # Obsidian 样式 - 控制属性面板 (YAML) 的显示状态
@@ -21,6 +21,10 @@ modified: 20240413005056
 
 > [!caution] 实时和阅读模式控制的前提是设置中文档属性保持显示
 > ![2024-04-07_Obsidian样式-控制属性面板(YAML)的显示状态_IMG-3](https://cdn.pkmer.cn/images/202404130047876.png!pkmer)
+
+## Tip：可以配置 Commander 按钮方便控制
+
+![2024-04-07_Obsidian样式-控制属性面板(YAML)的显示状态_IMG-4](https://cdn.pkmer.cn/images/202404171747562.gif!pkmer)
 
 ```css
 /* @settings
