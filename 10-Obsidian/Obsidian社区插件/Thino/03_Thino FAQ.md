@@ -7,7 +7,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240409195140
+modified: 20240417153225
 id: f94eee26b8f42cdf
 ---
 
@@ -138,7 +138,19 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 - 问题现象如图：
 ![image.png|300](https://cdn.pkmer.cn/images/20240410105051.png!pkmer)
 
-- 原因：你的移动端或者PC端，Obsidian 版本过低，可以升级到最新版本
+- 原因 1：你的移动端或者 PC 端，Obsidian 版本过低，可以升级到最新版本
+- 原因 2：插件版本冲突，这种情况一般偶现，没有固定必现方法，这是因为插件冲突有时候取决于插件的启动顺序【这种顺序插件作者不可控】
+	- [[canvas-mindmap_readme]] 插件版本过低，请升级到 0.1.10 以后版本
+
+#### 为什么我的热力图显示错位
+
+- 原因：如果你使用的 [[Blue Topaz]] 主题，请升级到最新版
+
+#### 为什么的仓库或者 Thino 卡死了
+
+- 原因 1：使用了 obsidian-iconize 插件，iconize 已经更新兼容，更新最新版本即可
+- 原因 2：在单个文件中使用过多的 callout，callout 本身的渲染性能在宿主编辑器中有障碍，可以等待 Obsidian 官方修复或暂时减少 callout 在单一文件或者集中化使用
+
 #### 分享
 
 - 为什么分享头图消失了？
@@ -174,5 +186,6 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ### 兼容性相关
 
-- Pane Relief 冲突，目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动即可
-- Advanced Tables 冲突，鉴于此插件已经有段时间不更新了，且 OB 在近期已经完善了表格编辑体验，建议直接使用关闭的方法。
+- Pane Relief 冲突：目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动即可。
+- Advanced Tables 冲突：鉴于此插件已经有段时间不更新了，且 OB 在近期已经完善了表格编辑体验，建议直接使用关闭的方法。
+- iconize 冲突：作者已经主动适配 Thino ，给你更新 iconize 最新版本即可。
