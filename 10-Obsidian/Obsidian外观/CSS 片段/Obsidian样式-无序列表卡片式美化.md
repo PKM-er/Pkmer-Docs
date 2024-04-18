@@ -1,13 +1,13 @@
 ---
 uid: 20240331011456
-title: Obsidian样式-无序列表卡片式美化
-tags: [css,无序列表]
+title: Obsidian 样式 - 无序列表卡片式美化
+tags: [css, 无序列表]
 description: Obsidian无序列表卡片式美化
 author: 余月鱼鸽
 type: other
 draft: false
 editable: false
-modified: 20240331011536
+modified: 20240419000017
 ---
 
 # Obsidian 样式 - 无序列表卡片式美化
@@ -125,16 +125,14 @@ modified: 20240331011536
 
 ### 3.3 图库（from 熊猫）
 
-![用无序列表制作图库](https://cdn.pkmer.cn/images/202403310117345.gif!pkmer)
+![用无序列表制作图库|800](https://cdn.pkmer.cn/images/202403310117345.gif!pkmer)
 
 ## 5.css 片段
 
 ```css
-
-
 /* @settings
-from：上善若水
-name: 【无序List】卡片化阅览
+from: 上善若水
+name:【无序List】卡片化阅览
 id: wxlbMH
 settings:
   -
