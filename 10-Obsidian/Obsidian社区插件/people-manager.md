@@ -1,6 +1,6 @@
 ---
 uid: 20240419114805
-title: People Manager使用说明
+title: PeopleManager使用说明
 tags: [关系, 人脉管理]
 description: EssentialPIM数据导入到obsidian的插件
 author: 宏沉一笑
@@ -64,34 +64,3 @@ modified: 20240419114805
 
 特别说明：当我们导入csv文件时，可以**点击这个按键两次**。 就可以创建联系人，并更新它的信息。
 
----
-<center>
-<table>
-    <tr>
-        <td >
-            <center>
-                <img src="https://i.loli.net/2020/01/08/CJz85Sbal6M7EOV.png" width="200"/>
-            </center>
-            <center style="font-weight:900">
-                微信：宏沉一笑
-            </center>
-        </td>
-        <td >
-            <center>
-                <img src="https://i.loli.net/2020/01/08/veq2DSphHME9KPV.jpg" width="200"/>
-            </center>
-            <center style="font-weight:900">
-                公众号：登山客
-            </center>
-        </td>
-    </tr>
-</table>
-</center>
-
-
-**签名：Smile every day**    
-**名字：宏沉一笑**   
-**邮箱：whghcyx@outlook.com**  
-**个人网站：https://whg555.github.io**  
-
----
