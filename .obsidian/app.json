@@ -14,7 +14,7 @@
   "spellcheck": false,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
-  "livePreview": true,
+  "livePreview": false,
   "defaultViewMode": "source",
   "autoPairMarkdown": false,
   "focusNewTab": true,
