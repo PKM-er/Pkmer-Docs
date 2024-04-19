@@ -1,13 +1,15 @@
 ---
 uid: 20240323205607
 title: QuickAdd 脚本 - 移动子笔记或附件到当前文件夹
-tags: [笔记管理, quickadd脚本]
+tags:
+  - 笔记管理
+  - quickadd脚本
 description: 移动子笔记或附件到当前文件夹
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240323205607
 ---
 
 # QuickAdd 脚本 - 移动子笔记或附件到当前文件夹

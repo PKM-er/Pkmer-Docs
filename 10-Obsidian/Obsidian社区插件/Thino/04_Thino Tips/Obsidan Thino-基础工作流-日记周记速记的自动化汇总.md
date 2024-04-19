@@ -13,6 +13,7 @@ type: other
 draft: false
 editable: false
 modified: 20240325153616
+id: 530288b3465a7d22
 ---
 
 # Obsidan 插件 Thino- 基础工作流 - 日记周记速记的自动化汇总

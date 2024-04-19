@@ -1,13 +1,15 @@
 ---
 uid: 20240406172825
 title: Obsidian Shiki Plugin
-tags: [obsidian, code]
+tags:
+  - obsidian
+  - code
 description: 为超过100种语言提供更好的语法高亮显示等一系列功能
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240406172825
 ---
 
 # Obsidian Shiki Plugin

@@ -1,13 +1,14 @@
 ---
 uid: 20240323225915
 title: 熊猫别熬夜 Excalidraw 脚本汇总介绍
-tags: [Excalidraw脚本]
+tags:
+  - Excalidraw脚本
 description: 熊猫别熬夜 Excalidraw 脚本汇总 - 自动检测更新
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240323225915
 ---
 
 # 熊猫别熬夜 Excalidraw 脚本汇总介绍

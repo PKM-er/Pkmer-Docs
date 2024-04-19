@@ -71,6 +71,17 @@ modified: 20240408191220
 	- [[QuickAdd脚本-插入Zotero的条目PDF链接]]
 	- [[Quickadd脚本-控制自定义CSS-设置二维码字体]]
 	- [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
+	- [[QuickAdd脚本-F2弹窗式重命名三合一]]
+	- [[QuickAdd脚本-双语文档的中英文视图切换显示]]
+	- [[QuickAdd脚本-Project项目选项栏]]
+	- [[QuickAdd脚本-复制wiki对应文档内容并删除文件]]
+	- [[QuickAdd脚本-移动子笔记或附件到当前文件夹]]
+	- [[Quickadd脚本-一键在系统应用中打开图片编辑]]
+	- [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
+	- [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
+	- [[QuickAdd脚本-插入并编辑SVG文件]]
+	- [[quickadd#社区使用技巧|更多请参考Quickadd社区技巧...]]
+	
 
 ## 与第三方软件联动
 

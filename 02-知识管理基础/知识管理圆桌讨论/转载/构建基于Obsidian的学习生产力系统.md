@@ -450,34 +450,34 @@ Mac 自带的文本替换功能也可以实现同样的功能；也可以使用�
 
 参考资料
 
-[^1]: Obsidian: _<https://obsidian.md/_>
+[^1]: Obsidian: https://obsidian.md/
 
-[^2]: Notion: _<https://www.notion.so/_>
+[^2]: Notion: https://www.notion.so/
 
-[^3]:Hepta: _<https://heptabase.com/_>
+[^3]:Hepta: https://heptabase.com/
 
-[^4]:Typora: <https://typora.io/_>
+[^4]:Typora: <https://typora.io/
 
-[^5]:这里的介绍: _<https://www.dailyup.blog/posts/spaced-repetition-practice_>
+[^5]:这里的介绍: https://www.dailyup.blog/posts/spaced-repetition-practice
 
-[^6]:卡片记录法: _<https://zettelkasten.de/introduction/_>
+[^6]:卡片记录法: https://zettelkasten.de/introduction/
 
-[^7]:奥斯卡编剧教你写剧本: _<https://www.bilibili.com/video/av9692264/_>
+[^7]:奥斯卡编剧教你写剧本: https://www.bilibili.com/video/av9692264/
 
-[^8]:《The Ultimate Guide to Writing Online》: _<https://perell.com/essay/the-ultimate-guide-to-writing-online/_>
+[^8]:《The Ultimate Guide to Writing Online》: https://perell.com/essay/the-ultimate-guide-to-writing-online/
 
-[^9]:Alfred: _<https://alfred.app/_>
+[^9]:Alfred: https://alfred.app/
 
-[^10]:Local images plus: _<https://github.com/Sergei-Korneev/obsidian-local-images-plus_>
+[^10]:Local images plus: https://github.com/Sergei-Korneev/obsidian-local-images-plus
 
-[^11]:Advanced Slides: _<https://github.com/MSzturc/obsidian-advanced-slides_>
+[^11]:Advanced Slides: https://github.com/MSzturc/obsidian-advanced-slides
 
-[^12]:Dataview: _<https://github.com/blacksmithgu/obsidian-dataview_>
+[^12]:Dataview: https://github.com/blacksmithgu/obsidian-dataview
 
-[^13]:In what ways can we form useful relationships between notes?: _<https://medium.com/>@nickmilo22/in-what-ways-can-we-form-useful-relationships-between-notes-9b9ec46973c6_
+[^13]:In what ways can we form useful relationships between notes?: https://medium.com/>@nickmilo22/in-what-ways-can-we-form-useful-relationships-between-notes-9b9ec46973c6_
 
-[^14]:aText: _<https://www.trankynam.com/atext/_>
+[^14]:aText: https://www.trankynam.com/atext/
 
-[^15]:TextExpander: _<https://textexpander.com/_>
+[^15]:TextExpander: https://textexpander.com/
 
-[^16]:Typinator: _<https://www.ergonis.com/products/typinator/_>
+[^16]:Typinator: https://www.ergonis.com/products/typinator/

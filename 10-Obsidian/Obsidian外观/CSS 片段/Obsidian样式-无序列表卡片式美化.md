@@ -131,8 +131,8 @@ modified: 20240419000017
 
 ```css
 /* @settings
-from: 上善若水
-name:【无序List】卡片化阅览
+from: https://pkmer.cn/show/20240331011456@上善若水
+name: 【无序List】卡片化阅览
 id: wxlbMH
 settings:
   -

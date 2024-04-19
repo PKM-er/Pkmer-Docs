@@ -1,13 +1,16 @@
 ---
 uid: 20240406174439
 title: Obsidian Wallpaper
-tags: [obsidian, 背景图, 动态]
+tags:
+  - obsidian
+  - 背景图
+  - 动态
 description: 为库添加动态背景图
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240406174439
 ---
 
 # Obsidian Wallpaper

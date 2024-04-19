@@ -1,13 +1,15 @@
 ---
 uid: 20240401215647
 title: 自定义 Excalidraw 脚本 - 将选中元素为 PNG 或者 SVG 格式文件到本地
-tags: [图片导出, Excalidraw脚本]
+tags:
+  - 图片导出
+  - Excalidraw脚本
 description: 将选中的元素保存为 PNG 或者 SVG 格式本地文件，相当于网页版 Excalidraw 的导出仅选中图片
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240401215647
 ---
 
 # 自定义 Excalidraw 脚本 - 将选中元素为 PNG 或者 SVG 格式文件到本地
