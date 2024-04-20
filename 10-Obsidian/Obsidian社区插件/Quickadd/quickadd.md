@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20240311182148
+modified: 20240417180235
 ---
 
 # Obsidian 插件：QuickAdd 自动化操作的编辑器
@@ -22,26 +22,49 @@ modified: 20240311182148
 
 ## 社区使用技巧
 
-- [[Quickadd结合CSS实现挖空复习]]
-- [[Quickadd脚本-一键在某软件中打开Ob笔记]]
-- [[Quickadd脚本-一键在系统应用中打开图片编辑]]
-- [[QuickAdd脚本-插入Zotero的条目PDF链接]]
-- [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
-- [[QuickAdd脚本-利用Canvas平铺笔记]]
-- [[copy-selection-in-canvas]]
-- [[QuickAdd脚本-随机漫游笔记]]
-- [[Quickadd脚本-控制自定义CSS-设置二维码字体]]
-- [[QuickAdd脚本-一键切换VimMode]]
-- [[Quickadd脚本-为深浅模式配置不同的主题]]
-- [[QuickAdd脚本-Project项目选项栏]]
-- [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
-- [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
-- [[QuickAdd脚本-复制wiki对应文档内容并删除文件]]
-- [[QuickAdd脚本-移动子笔记或附件到当前文件夹]]
-- [[QuickAdd脚本-插入并编辑SVG文件]]
-- [[QuickAdd脚本-F2弹窗式重命名三合一]]
-- [[QuickAdd脚本-双语文档的中英文视图切换显示]]
-- [[QuickAdd脚本-右键复制文件夹路径]]
+### 快捷操作
+
+1. [[Quickadd脚本-一键在某软件中打开Ob笔记]]
+2. [[Quickadd脚本-一键在系统应用中打开图片编辑]]
+3. [[QuickAdd脚本-一键切换VimMode]]
+4. [[QuickAdd脚本-随机漫游笔记]]
+
+### 文档编辑
+
+1. [[QuickAdd脚本-插入并编辑SVG文件]]
+2. [[QuickAdd脚本-F2弹窗式重命名三合一]]
+
+### 文件操作
+
+1. [[QuickAdd脚本-复制wiki对应文档内容并删除文件]]
+2. [[QuickAdd脚本-移动子笔记或附件到当前文件夹]]
+3. [[QuickAdd脚本-右键复制文件夹路径]]
+4. [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
+5. [[QuickAdd脚本-自定义外部应用打开]]
+
+### 属性 (Properties/YAML) 控制
+
+1. [[QuickAdd脚本-双语文档的中英文视图切换显示]]
+2. [[QuickAdd脚本-自动更新Banner]]
+3. [[QuickAdd脚本-插入文档的编辑或创建时间]]
+
+### 主题 (Theme/Snippets) 控制
+
+1. [[Quickadd结合CSS实现挖空复习]]
+2. [[QuickAdd脚本-为深浅模式配置不同的主题]]
+3. [[QuickAdd脚本-控制自定义CSS-设置二维码字体]]
+
+### Canvas 相关
+
+1. [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
+2. [[QuickAdd脚本-利用Canvas平铺笔记]]
+3. [[copy-selection-in-canvas]]
+
+### 其他类型
+
+1. [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
+2. [[QuickAdd脚本-插入Zotero的条目PDF链接]]
+3. [[QuickAdd脚本-Project项目选项栏]]
 
 ## 参考资料
 
