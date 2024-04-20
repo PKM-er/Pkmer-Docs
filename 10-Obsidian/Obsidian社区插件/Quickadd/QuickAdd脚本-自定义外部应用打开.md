@@ -32,7 +32,7 @@ console.log(filePath);
 let fileFullPath = app.vault.adapter.getFullPath(filePath);
 
 // 如果有选中文本或光标所在行有嵌入文件，则获取所在的文件路径
-if (app.workspace.activeEditor?.editor) {
+try {
     const editor = app.workspace.activeEditor.editor;
     // 选择所在的一行
     const line = editor.getLine(editor.getCursor().line);
@@ -45,6 +45,9 @@ if (app.workspace.activeEditor?.editor) {
         filePath = getFilePath(files, selectionEmbed);
         fileFullPath = app.vault.adapter.getFullPath(filePath);
     }
+} catch (error) {
+    // 如果报错则跳过
+    console.log(error);
 }
 
 
@@ -70,18 +73,10 @@ module.exports = {
         } else if (choice === editors[1]) {
             // 使用打开当前笔记文件夹
             app.showInFolder(filePath);
-        } else if (choice === editors[3]) {
-            app.commands.executeCommandById("folder-notes:create-folder-note");
-            new Notice("📂已创建当前笔记为FolderNote！", 1000);
-        } else if (choice === "Hover") {
-            const hoverFile = app.vault.getAbstractFileByPath(filePath);
-            const newLeaf = app.plugins.plugins["obsidian-hover-editor"].spawnPopover(undefined, () => this.app.workspace.setActiveLeaf(newLeaf, false, true));
-            newLeaf.openFile(hoverFile);
         } else if (choice === editors[2]) {
             let inputText = await QuickAdd.quickAddApi.wideInputPrompt("编辑外部软件绝对路径，多个以换行分割", null, settings["Editor"]);
             if (!inputText) return;
             settings["Editor"] = inputText;
-
         } else {
             exec(`"${choice}" "${fileFullPath}"`);
         }
