@@ -7,7 +7,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20240417153410
+modified: 20240420155158
 ---
 
 # Obsidian 样式 - 多彩便笺背景
@@ -78,3 +78,9 @@ module.exports = async (params) => {
 ## Reference
 
 - [[QuickAdd脚本-双语文档的中英文视图切换显示]]
+
+## 拓展：Obsidian-colorful-sticky-notes
+
+基于此灵感，做了一个 [Obsidian 多彩便笺小库](https://github.com/PandaNocturne/Obsidian-colorful-sticky-notes)，可以体验一下：
+
+![2024-04-16_Obsidian样式-多彩便笺背景_IMG-3](https://cdn.pkmer.cn/images/202404201550475.gif!pkmer)
