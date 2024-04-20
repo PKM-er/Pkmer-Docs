@@ -40,7 +40,7 @@ modified: 20240417180235
 2. [[QuickAdd脚本-移动子笔记或附件到当前文件夹]]
 3. [[QuickAdd脚本-右键复制文件夹路径]]
 4. [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
-5. [[QuickAdd脚本-自定义外部应用打开当前文档]]
+5. [[QuickAdd脚本-自定义外部应用打开]]
 
 ### 属性 (Properties/YAML) 控制
 
