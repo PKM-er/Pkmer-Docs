@@ -45,7 +45,7 @@ modified: 20240417180235
 ### 属性 (Properties/YAML) 控制
 
 1. [[QuickAdd脚本-双语文档的中英文视图切换显示]]
-2. [[QuickAdd脚本-自动插入文档中的第n张图片至Banner属性]]
+2. [[QuickAdd脚本-自动更新Banner]]
 3. [[QuickAdd脚本-插入文档的编辑或创建时间]]
 
 ### 主题 (Theme/Snippets) 控制

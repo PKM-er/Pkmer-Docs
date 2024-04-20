@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240417173925
+modified: 20240420160203
 ---
 
 # QuickAdd 脚本 - 自动插入文档中的第 n 张图片至 Banner 属性
@@ -15,6 +15,9 @@ modified: 20240417173925
 ![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性_IMG-2](https://cdn.pkmer.cn/images/202404171748573.png!pkmer)
 
 ## 使用背景
+
+![image.png](https://cdn.pkmer.cn/images/202404201612500.png!pkmer)
+
 
 我编辑 Project 时经常忘记添加 Banner 属性值，尤其当图片修改后，我也不想去手动更新。通常文章的第一张图片就是这篇文章的 Banner。为了偷懒，我写了这个脚本并与 Linter 配合使用。 通过 `Ctrl + S` 快捷键自动刷新文档的 Banner。
 
