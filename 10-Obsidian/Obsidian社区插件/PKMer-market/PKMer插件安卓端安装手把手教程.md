@@ -7,7 +7,7 @@ author: ProudBenzene
 type: tutorial
 draft: false
 editable: false
-modified: 20231213100951
+modified: 20240420171755
 ---
 
 # PKMer 插件安卓端安装手把手教程
@@ -67,3 +67,9 @@ modified: 20231213100951
 4. 回到 Obsidian，将 Token 粘贴到刚刚 PKMer 设置页中的「Token」框中
 5. 返回 PKMer 插件页面，点击绿色按钮「刷新」，即可完成登录，畅享 PKMer 插件带来的便利及 Obsidian 插件、主题市场。
    ![PKMer插件安卓端安装手把手教程|500](https://cdn.pkmer.cn/images/202312010432544.JPEG!pkmer)
+
+# 安装疑难解答
+
+- Q：已经将 PKMer 插件文件夹放到 `.obsidian` 文件夹下了，为什么依然没有在插件列表中显示 PKMer 插件？
+	- 可能性 1：没有刷新插件列表，建议刷新插件列表或者重启 Obsidian 再查看
+	- 可能性 2: 部分解压缩软件解压压缩包后，会将解压完的文件再套一层父文件夹，即 PKMer QQ 群友 @不评判遇到的情况。此时应该将文件夹下的三个文件 `manifest.json`、`main.js` 及 `style.css` 从 `.obsidian/obsidian-pkmer/obsidian-pkmer` 文件夹移动到 `.obsidian/obsidian-pkmer` 文件夹中，删去多余的空文件夹和空嵌套文件夹。 ![](https://cdn.pkmer.cn/images/202404201705044.jpg!pkmer)

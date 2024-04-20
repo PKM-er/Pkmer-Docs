@@ -1,13 +1,13 @@
 ---
 uid: 20231208024655
-title: PKMer 插件安装手把手教程
+title: PKMer 插件电脑端安装手把手教程
 tags: [PKMer, Obsidian, 插件, 下载, 插件安装, 教程, PKMer插件]
 description: PKMer插件手把手安装教程
 author: ProudBenzene
 type: tutorial
 draft: false
 editable: false
-modified: 20231210154411
+modified: 20240420171749
 ---
 
 # PKMer 插件电脑端安装手把手教程
@@ -26,13 +26,15 @@ modified: 20231210154411
 
 ![](https://cdn.pkmer.cn/images/202312080307552.png!pkmer)
 
-在 Obsidian 左侧的文件列表中，右键点击任意文件，选择「在文件浏览器（Windows 用户）/访达（macOS 用户）中显示」：
+在 Obsidian 左侧的文件列表中，右键点击任意文件，选择「在文件浏览器（Windows 用户）/访达（macOS 用户）中显示」，以打开当前 Obsidian 库所在的文件夹：
 
 ![](https://cdn.pkmer.cn/images/202312080311570.png!pkmer)
 
-由于 Obsidian 的配置文件夹 `.obsidian` 默认隐藏，因此需要先显示隐藏文件夹才能找到。不同的操作系统，先是配置文件夹的方法不同：
+打开了当前 Obsidian 库所在的文件夹，接下来我们需要从当前库文件夹中找到 Obsidian 的配置文件夹—— `.obsidian` 文件夹。
 
-- Windows 下，点击文件管理器的「查看」选项卡，勾选「隐藏的项目」，即可显示隐藏文件夹![](https://cdn.pkmer.cn/images/202312080328604.png!pkmer)
+由于 Obsidian 的配置文件夹 `.obsidian ` 默认隐藏，因此需要先显示隐藏文件夹才能找到。不同的操作系统，先是配置文件夹的方法不同：
+
+- Windows 下，点击文件管理器的「查看」选项卡，勾选「隐藏的项目」，即可显示隐藏文件夹 ![](https://cdn.pkmer.cn/images/202404201713568.png!pkmer)
 - macOS 下，在访达中同时按快捷键 `command shift .`，即可显示隐藏文件夹![](https://cdn.pkmer.cn/images/202312080332194.png!pkmer)
 之后进入 `.obsidian` 文件夹，新建一个文件夹，命名为 `plugins`：
 
