@@ -1,18 +1,13 @@
 ---
 uid: 20240420163643
 title: Thino 现代风格美化
-tags:
-  - Bluetopaz
-  - Thino
-  - 美化
-  - 界面美化
-  - CSS美化
+tags: [Bluetopaz, Thino, 美化, 界面美化, CSS美化]
 description: Blue Topaz同款Thino美化
 author: ProudBenzene
 type: advanced
 draft: false
 editable: false
-modified: 20240420170019
+modified: 20240420171759
 ---
 
 # Thino 现代风格美化
