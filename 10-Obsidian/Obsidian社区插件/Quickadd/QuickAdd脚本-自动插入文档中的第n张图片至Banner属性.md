@@ -90,4 +90,4 @@ module.exports = {
 
 ## Reference
 
-- [[QuickAdd脚本-更新文档的编辑时间]]
+- [[QuickAdd脚本-插入文档的编辑或创建时间]]
