@@ -1,22 +1,13 @@
 ---
 uid: 20240422070750
 title: Thino 基于多文件保存的同步方案优化
-tags:
-  - 同步
-  - 配置
-  - 配置经验
-  - 💻教程
-  - 脚本
-  - dataview
-  - lifeOS
-  - Thino
-  - Templater
+tags: [同步, 配置, 配置经验, 💻教程, 脚本, dataview, lifeOS, Thino, Templater]
 description: 对比三个Memos类应用，使用多文件存储改善Thino的同步体验
 author: BabyXin
 type: other
 draft: false
 editable: false
-modified: 20240422174910
+modified: 20240422215421
 ---
 
 # Thino 基于多文件保存的同步方案优化
@@ -27,17 +18,17 @@ modified: 20240422174910
 
 [Flomo](https://flomoapp.com/) 起源于两位个人开发者的设计，我认为是目前开发最完善的 Memos 类应用了，标签管理和桌面便签功能狠狠切中我的痛点。支持微信输入，一些忽然的短暂的想法和文字可以通过微信来即时同步，会员年费 99 真的不贵。但缺点是作为一个软件太独立了，进行周期性归纳总结的时候需要手动切换和同步的体验着实不太好。
 
-[Usememos](https://www.usememos.com/) 是一个开源 Self-hosting 方案，可以自建服务器并创立多个用户，用户可以在平台上编辑个人/工作/公开的 Memos。由于数据都在服务器上，所以手机电脑可以无缝同步。而且 [API文档](https://memos.apidocumentation.com/reference) 很全面，可以自主开发各种功能，拓展性很强，完全免费（需要自己有服务器）。缺点是 Web 前端以及其他开源客户端软件做的还有优化的空间，使用起来不太顺滑。[LifeOS插件](https://obsidian-life-os.netlify.app/zh/index.html) 可让 Obsidian 定时下载云端数据，但是使用体验比较差，云端和本地的修改都不能同步。
+[Usememos](https://www.usememos.com/) 是一个开源 Self-hosting 方案，可以自建服务器并创立多个用户，用户可以在平台上编辑个人/工作/公开的 Memos。由于数据都在服务器上，所以手机电脑可以无缝同步。而且 [API文档](https://memos.apidocumentation.com/reference) 很全面，可以自主开发各种功能，拓展性很强，完全免费（需要自己有服务器）。缺点是 Web 前端以及其他开源客户端软件做的还有优化的空间，使用起来不太顺滑。LifeOS 插件可让 Obsidian 定时下载云端数据，但是使用体验比较差，云端和本地的修改都不能同步。
 
-[Thino](https://thino.pkmer.net/) 是 PKMer 组织孵化下基于 [Usememos](https://www.usememos.com/) 开发的 Obsidian 插件，可以以基于 Obsidian 笔记的形式存储。因为是 Obsidian 插件，就可以使用其他插件组成自己想要的功能。比如结合 Tasks 插件来检索 Memo 中的任务统一管理，基于 Remotely Save 实现多平台同步，结合 Picgo 实现图床。目前 Thino Web 同步方案还在内测，不清楚具体同步体验。
+[Thino](https://thino.pkmer.net/) 是 PKMer 组织孵化下基于 [Usememos](https://www.usememos.com/) 开发的 Obsidian 插件（实际上从 1.x 版本开始代码就已经分离了），可以基于 Obsidian 笔记的形式存储。因为是 Obsidian 插件，就可以使用其他插件组成自己想要的功能。比如结合 Tasks 插件来检索 Memo 中的任务统一管理，基于 Remotely Save 实现多平台同步，结合 Picgo 实现图床。目前 Thino Web 同步方案还在内测，不清楚具体同步体验。
 
-| 应用名                                   | 代表性功能                                                               | 使用条件                 | 缺点                              | 评价                                  |
-| ------------------------------------- | ------------------------------------------------------------------- | -------------------- | ------------------------------- | ----------------------------------- |
-| [Flomo](https://flomoapp.com/)        | 桌面便签，可微信输入，Obsidian 手动下载（只读），Obsidian 快速上传                            | 可免费使用，会员 99/年         | 与 Obsidian 交互体验不好，不便于统一的知识管理。     | 适合个人使用，开箱即用                         |
-| [Usememos](https://www.usememos.com/) | Self-hosting，多人使用，拓展性强，线上同步，链接分享，Obsidian 定时下载（只读，基于 LifeOS 插件）        | 需要服务器                | 配置需要一定的开发经验。                    | 适合小集体使用，用作公共知识库或论坛。不能离线使用。          |
+| 应用名                                   | 代表性功能                                                                 | 使用条件                   | 缺点                               | 评价                                      |
+| ------------------------------------- | --------------------------------------------------------------------- | ---------------------- | -------------------------------- | --------------------------------------- |
+| [Flomo](https://flomoapp.com/)        | 桌面便签，可微信输入，Obsidian 手动下载（只读），Obsidian 快速上传                            | 可免费使用，会员 99/年          | 与 Obsidian 交互体验不好，不便于统一的知识管理。    | 适合个人使用，开箱即用                             |
+| [Usememos](https://www.usememos.com/) | Self-hosting，多人使用，拓展性强，线上同步，链接分享，Obsidian 定时下载（只读，基于 LifeOS 插件）       | 需要服务器                  | 配置需要一定的开发经验。                     | 适合小集体使用，用作公共知识库或论坛。不能离线使用。              |
 | [Thino](https://thino.pkmer.net/)     | 基于笔记文件的形式存储，可用多种视图阅览（日历，瀑布，对话），协同 Obsidian 其他插件实现多种功能（双向同步，任务管理，个人图床） | 可免费使用，会员 129 终身，同步需要云盘 | 协同其他插件需要折腾，Remotely Save 需要手动点击， | 适合喜欢 All-in-one 的用户，将知识在 Obsidian 统一管理。 |
 
-![800](https://image-host-1256452851.cos.ap-guangzhou.myqcloud.com/img/202404220342274.png)
+![image.png](https://cdn.pkmer.cn/images/20240422214920.png!pkmer)
 
 本质上，Memos 类应用是一种卡片笔记法的实现，主要用于知识管理。正如 [Flomo 101](https://help.flomoapp.com/thinking/write-card.html) 中少楠所提到的，我们零碎的记忆需要被收集，组织和使用。
 
@@ -73,12 +64,13 @@ modified: 20240422174910
 3. Dataview 配置
    为了支持 memos 收集脚本持续同步文件夹中的内容，需要设置 Dataview 的更新频率和时间日期。具体方法是设置 ->第三方插件 ->Dataview->General，配置如下图。设置之后可以实现一秒更新一次收集脚本。
 
-   ![image.png](https://image-host-1256452851.cos.ap-guangzhou.myqcloud.com/img/202404220541217.png)
+![image.png](https://cdn.pkmer.cn/images/20240422215003.png!pkmer)
 
-4. 日记模板配置
+1. 日记模板配置
    为了实现当日的 Memos 在对应的日记中能够显示，我使用 Templater 的 User Function 来生成 Dataviewjs 收集脚本，自动化采集当日的 Memos。在日历模板 `0.周期笔记/Templates/Daily.md` 中添加如下脚本，注意修改脚本中的 `memo_folder` 为你的 Thino 多文件存储文件夹 `<Memo Folder>`。
 
-~~~markdown
+````
+```markdown
 %% Get the date of the diary file %%
 <%*let current=PeriodicPARA.Date.parse(app.workspace.getActiveFile().path.toString());%>
 
@@ -107,12 +99,14 @@ for (const page of pages) {
 	title.style.cursor = "pointer";	
 }
 ```
-~~~
+````
 
    打开任意一天的日记，只要当天有记录，就会有显示。显示效果如下：
 
-   ![image.png](https://image-host-1256452851.cos.ap-guangzhou.myqcloud.com/img/202404220534375.png)
+![image.png](https://cdn.pkmer.cn/images/20240422215045.png!pkmer)
 
 ## 总结
 
-总的来说，Thino 因为与 Obsidian 高度集成的原因，在知识的组织上有无可替代的优势。但是知识的采集依赖于设备间的同步，而 Thino 数据是使用本地的文件，同步依赖于文件同步，总会发生文件冲突问题。本文使用多文件存储优化了 Thino 的存储体验，希望能弥补 Thino 在同步上的缺陷，同时给 Thino 之后的产品迭代提供一些参考。
+总的来说，Thino 因为与 Obsidian 高度集成的原因，在知识的组织上有无可替代的优势。本文使用多文件存储优化了 Thino 的存储体验，同时给 Thino 之后的产品迭代提供一些参考。
+
+知识的采集依赖于设备间的同步，而 Thino 数据是使用本地的文件，且是内容级同步，这就能够通过迂回的方式，解决混合同步的问题，参看：[[03_Thino FAQ#为什么会有重复的数据]]。
