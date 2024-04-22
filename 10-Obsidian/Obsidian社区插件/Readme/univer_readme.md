@@ -1,6 +1,6 @@
 ---
-uid: 2024042221325891
-title: Obsidian 插件：【Readme】Univer Doc and Sheet
+uid: 2024042223024709
+title: Obsidian 插件：【Readme】Univer
 tags: ['obsidian插件', 'readme']
 description: 基于Univer创建文档和表格。
 author: AI
@@ -10,23 +10,26 @@ editable: false
 modified: 20230101000000
 ---
 
-# Obsidian 插件：【Readme】Univer Doc and Sheet
+# Obsidian 插件：【Readme】Univer
 
 > [!Note] 插件名片
-> - 插件名称：Univer Doc and Sheet
-> - 插件作者：Karl GJSSS
-> - 插件说明：基于 Univer 创建文档和表格。
-> - 插件分类：['obsidian 插件 ', 'readme']
-> - 项目地址：[点我访问](https://github.com/karlsbeard/obsidian-univer)
+> - 插件名称：Univer
+> - 插件作者：DreamNum
+> - 插件说明：基于Univer创建文档和表格。
+> - 插件分类：['obsidian插件', 'readme']
+> - 项目地址：[点我访问](https://github.com/dream-num/obsidian-univer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?univer)
 
 ## 概述
 
-基于 Univer 创建文档和表格。
+基于Univer创建文档和表格。
+
+
 
 > [!tip] 原文出处
->
->下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/karlsbeard/obsidian-univer/master/README.md)
+> 
+>下面自述文件的来源于 [Readme](https://ghproxy.net/https://raw.githubusercontent.com/dream-num/obsidian-univer/master/README.md)
+> 
 
 ---
 
@@ -34,36 +37,48 @@ modified: 20230101000000
 
 下面是 [[univer]] 插件的自述翻译
 
-# 黑曜石 Univer 插件
+【机翻】
+<p align="center">
+    <picture>
+        <img src="https://cdn.pkmer.cn/covers/univer_2_0.png!pkmer" alt="Univer" width="400" />
+    </picture>
+</p>
 
-这个插件为你提供了在黑曜石中使用标准文档和表格工具的所有功能。你可以在黑曜石中构建一个强大的表格或文档。
 
-这个插件基于 [Univer](https://github.com/dream-num/univer)，它又基于 [DreamNum](https://github.com/dream-num)。
+# 黑曜石Univer插件
+This plugin gives you all the features of a standard doc and sheet tool in Obisidian. You can build a powerful Sheet or Doc within Obsidian.
 
-### 特点
+This plugin is based on [Univer](https://github.com/dream-num/univer), which is based on [DreamNum](https://github.com/dream-num)
+## 核心特性
 
-#### 表格
+| <h3>📊 Univer Sheets</h3> | |
+| :------------------------ | :------------------- |
+| [Sheets](https://www.univer.ai/examples/sheets/)<br>已开放：单元格样式，公式。第一季度：条件格式，数据验证，搜索和替换。第二季度（暂定）：浮动图片，过滤，排序，注释，图表，数据透视表，超级表格（表格），形状 | ![Sheets](https://cdn.pkmer.cn/covers/univer_2_0.gif!pkmer) |
 
-- 富文本格式 - 更改字体、大小、颜色、边框、单元格颜色、换行等
-- 公式 - 几个内置公式
-- 过滤和排序
-- 单元格 - 合并单元格，调整单元格大小，拖动单元格
-- 富文本格式 - 更改字体、大小、颜色、边框、单元格颜色、换行等
+| <h3>📝 Univer Docs</h3> | |
+| :---------------------- | :------------------- |
+| [Docs](https://www.univer.ai/examples/docs/)<br>已开放：有序和无序列表，段落设置，混合图形和文本，多列/单列在部分中显示（暂定）：超链接，评论，表格，图表 | ![Docs](https://cdn.pkmer.cn/covers/univer_2_1.gif!pkmer) |
+## I18N 功能
 
-### 如何使用
+Univer 支持英文和中文。现在您可以在插件设置选项中选择语言。您可以在下面的录制显示中找到详细信息。
 
-1. 安装插件
-2. 点击“文档”或“表格”模态按钮创建一个新文件（USheet 或 UDoc）。
+![img](https://cdn.pkmer.cn/covers/univer_2_2.gif!pkmer)
+## 如何安装和使用
 
-### 如何完善插件
+文本教程：
 
-Univer 团队非常高兴您能加入并帮助我们完善插件和 Univer 生态系统，您有许多方式可以加入并帮助我们。
+1. 首先，您应该打开社区插件。
+2. 其次，点击浏览以打开社区插件市场。
+3. 第三，将“univer”文本输入到搜索栏中，以便找到这个univer插件。
+4. 最后，点击安装按钮，等待片刻直到插件成功安装。请不要担心，因为Obsidian会给您一个通知。
+5. 之后最重要的一步来了，您点击启用按钮，Obsidian可能会通知您“加载插件univer失败”。
+6. 要解决这个问题，您只需要重新加载Obsidian并再次点击启用按钮，或者在已安装插件的菜单中打开插件。
+7. 通过点击“Doc”或“Sheet”模态按钮创建一个新文件（USheet或UDoc）。
+8. 感谢上帝，您现在可以使用univer插件来创建您的表格或文档文件了。
 
-- 克隆存储库并运行 `pnpm i` 然后 `pnpm dev` 或 `pnpm build`，这样您就可以完善 Univer 插件。
-- 您可以在您想要的社区中创建 Univer 插件。您可以联系我们，以便我们帮助您在 Univer 社区中发布 Univer 插件。
+图像教程：
 
-### 截图
+![!img](https://cdn.pkmer.cn/covers/univer_2_3.gif)
 
-![doc](assets/doc.jpg)
 
-![sheet](assets/sheet.jpg)
+
