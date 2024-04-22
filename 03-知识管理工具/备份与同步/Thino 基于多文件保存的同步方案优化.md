@@ -20,17 +20,17 @@ modified: 20240422215421
 
 [Usememos](https://www.usememos.com/) 是一个开源 Self-hosting 方案，可以自建服务器并创立多个用户，用户可以在平台上编辑个人/工作/公开的 Memos。由于数据都在服务器上，所以手机电脑可以无缝同步。而且 [API文档](https://memos.apidocumentation.com/reference) 很全面，可以自主开发各种功能，拓展性很强，完全免费（需要自己有服务器）。缺点是 Web 前端以及其他开源客户端软件做的还有优化的空间，使用起来不太顺滑。LifeOS 插件可让 Obsidian 定时下载云端数据，但是使用体验比较差，云端和本地的修改都不能同步。
 
-[Thino](https://thino.pkmer.net/) 是 PKMer 组织孵化下基于 [Usememos](https://www.usememos.com/) 开发的 Obsidian 插件（实际上从 1.x 版本开始代码就已经分离了），可以基于 Obsidian 笔记的形式存储。因为是 Obsidian 插件，就可以使用其他插件组成自己想要的功能。比如结合 Tasks 插件来检索 Memo 中的任务统一管理，基于 Remotely Save 实现多平台同步，结合 Picgo 实现图床。目前 Thino Web 同步方案还在内测，不清楚具体同步体验。
+[Thino](https://thino.pkmer.net/) 是 PKMer 组织孵化下基于 [Usememos](https://www.usememos.com/) 开发的 Obsidian 插件（实际上从 1.x 版本开始代码就已经分离了），可以基于 Obsidian 笔记的形式本地存储。因为是 Obsidian 插件，就可以使用其他插件组成自己想要的功能。比如结合 Tasks 插件来检索 Memo 中的任务统一管理。
 
-| 应用名                                   | 代表性功能                                                                 | 使用条件                   | 缺点                               | 评价                                      |
-| ------------------------------------- | --------------------------------------------------------------------- | ---------------------- | -------------------------------- | --------------------------------------- |
-| [Flomo](https://flomoapp.com/)        | 桌面便签，可微信输入，Obsidian 手动下载（只读），Obsidian 快速上传                            | 可免费使用，会员 99/年          | 与 Obsidian 交互体验不好，不便于统一的知识管理。    | 适合个人使用，开箱即用                             |
-| [Usememos](https://www.usememos.com/) | Self-hosting，多人使用，拓展性强，线上同步，链接分享，Obsidian 定时下载（只读，基于 LifeOS 插件）       | 需要服务器                  | 配置需要一定的开发经验。                     | 适合小集体使用，用作公共知识库或论坛。不能离线使用。              |
-| [Thino](https://thino.pkmer.net/)     | 基于笔记文件的形式存储，可用多种视图阅览（日历，瀑布，对话），协同 Obsidian 其他插件实现多种功能（双向同步，任务管理，个人图床） | 可免费使用，会员 129 终身，同步需要云盘 | 协同其他插件需要折腾，Remotely Save 需要手动点击， | 适合喜欢 All-in-one 的用户，将知识在 Obsidian 统一管理。 |
+| 应用名                                   | 代表性功能                                                                 | 使用条件                                          | 缺点                            | 评价                                      |
+| ------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------- | ----------------------------- | --------------------------------------- |
+| [Flomo](https://flomoapp.com/)        | 桌面便签，可微信输入，Obsidian 手动下载（只读），Obsidian 快速上传                            | 可免费使用，会员 99/年                                 | 与 Obsidian 交互体验不好，不便于统一的知识管理。 | 适合个人使用，开箱即用                             |
+| [Usememos](https://www.usememos.com/) | Self-hosting，多人使用，拓展性强，线上同步，链接分享，Obsidian 定时下载（只读，基于 LifeOS 插件）       | 需要服务器                                         | 配置需要一定的开发经验。                  | 适合小集体使用，用作公共知识库或论坛。不能离线使用。              |
+| [Thino](https://thino.pkmer.net/)     | 基于笔记文件的形式存储，可用多种视图阅览（日历，瀑布，对话），协同 Obsidian 其他插件实现多种功能（双向同步，任务管理，个人图床） | 可免费使用，会员 129 终身，同步需要[[03_Thino Web Services]] | 协同其他插件需要折腾                    | 适合喜欢 All-in-one 的用户，将知识在 Obsidian 统一管理。 |
 
 ![image.png](https://cdn.pkmer.cn/images/20240422214920.png!pkmer)
 
-本质上，Memos 类应用是一种卡片笔记法的实现，主要用于知识管理。正如 [Flomo 101](https://help.flomoapp.com/thinking/write-card.html) 中少楠所提到的，我们零碎的记忆需要被收集，组织和使用。
+本质上，Memos 类应用是一种卡片笔记法的实现，主要用于知识管理。
 
 > 从本质上讲，卡片笔记法不是一种「技巧」，而是一个「流程」，一种存储和组织知识、扩展记忆以及生成新连接和想法的方法。简单来说就是，把你感兴趣或者觉得自己未来会用到的知识收集起来；然后用一种标准化的方法处理这些笔记，确保颗粒度和标准统一；最后建立笔记之间的联系，供日后有需要的时候检索使用。
 > by 少楠
@@ -58,7 +58,7 @@ modified: 20240422215421
 	- [Templater](https://silentvoid13.github.io/Templater/)
 	- [Remotely Save](https://github.com/remotely-save/remotely-save)
 
-2. Thino 选择多文件存储并且配置你的存储文件夹 `<Memo Folder>`（需要充值 Thino 会员），我的路径是 `-1. Memos/Thino`。
+2. Thino 选择多文件存储并且配置你的存储文件夹 `<Thino Folder>`[[Thino Multi-souce|Thino 多来源功能]]，我的路径是 `-1. Memos/Thino`。
    ![image.png](https://image-host-1256452851.cos.ap-guangzhou.myqcloud.com/img/202404220449796.png)
 
 3. Dataview 配置
@@ -75,6 +75,7 @@ modified: 20240422215421
 <%*let current=PeriodicPARA.Date.parse(app.workspace.getActiveFile().path.toString());%>
 
 %% Insert the dataviewjs script %%
+```
 ```dataviewjs
 // Filter out and sort the memos in the folder for the corresponding date
 let memo_folder = '"-1. Memos/Thino"'
