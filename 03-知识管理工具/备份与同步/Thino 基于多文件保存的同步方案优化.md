@@ -1,22 +1,13 @@
 ---
 uid: 20240422070750
-title: Thino基于多文件保存的同步方案优化
-tags:
-  - 同步
-  - 配置
-  - 配置经验
-  - 💻教程
-  - 脚本
-  - dataview
-  - lifeOS
-  - Thino
-  - Templater
+title: Thino 基于多文件保存的同步方案优化
+tags: [同步, 配置, 配置经验, 💻教程, 脚本, dataview, lifeOS, Thino, Templater]
 description: 
 author: 
 type: other
 draft: false
 editable: false
-modified: 20240422072937
+modified: 20240422174910
 ---
 
 # Thino 基于多文件保存的同步方案优化
@@ -39,13 +30,13 @@ modified: 20240422072937
 
 ![800](https://image-host-1256452851.cos.ap-guangzhou.myqcloud.com/img/202404220342274.png)
 
-
 本质上，Memos 类应用是一种卡片笔记法的实现，主要用于知识管理。正如 [Flomo 101](https://help.flomoapp.com/thinking/write-card.html) 中少楠所提到的，我们零碎的记忆需要被收集，组织和使用。
 
 > 从本质上讲，卡片笔记法不是一种「技巧」，而是一个「流程」，一种存储和组织知识、扩展记忆以及生成新连接和想法的方法。简单来说就是，把你感兴趣或者觉得自己未来会用到的知识收集起来；然后用一种标准化的方法处理这些笔记，确保颗粒度和标准统一；最后建立笔记之间的联系，供日后有需要的时候检索使用。
 > by 少楠
 
 一些应用致力于解决这些零碎记忆的收集，组织和使用的问题。
+
 - [Flomo](https://flomoapp.com/) 解决了知识收集的问题，也实现了基于标签系统的组织，但是还不够，很多时候这些零碎的想法并没有建立起之间的联系。
 - [LifeOS](https://obsidian-life-os.netlify.app/zh/index.html) 作者林大师基于 CODE 模型和 PARA 组织法给出了一个解决思路。
 	- 将 Memos 同步到日常的记录（周期笔记系统）中，作为思维的收集；
@@ -96,12 +87,15 @@ for (const page of pages) {
 	let ctime = page.file.frontmatter.createdAt;
 	let text = await dv.io.load(page.file.path);
 	let content = text.substr(text.substr(3).search("---")+6);
-	const block = dv.el("blockquote",`${ctime}\n\n${content}`);
 	
-	block.onclick = function(){
-		app.workspace.openLinkText(page.file.path,"",true);
+	const blockRoot = dv.el("blockquote", "");
+	const title = dv.el("b",ctime, {container: blockRoot});
+	dv.el("div",content, {container: blockRoot});
+	
+	title.onclick = function(){
+	 	app.workspace.openLinkText(page.file.path,"",true);
 	};
-	block.style.cursor = "pointer";	
+	title.style.cursor = "pointer";	
 }
 ```
 ~~~
