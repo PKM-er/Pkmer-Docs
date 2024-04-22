@@ -1,9 +1,18 @@
 ---
 uid: 20240422070750
 title: Thino 基于多文件保存的同步方案优化
-tags: [同步, 配置, 配置经验, 💻教程, 脚本, dataview, lifeOS, Thino, Templater]
-description: 
-author: 
+tags:
+  - 同步
+  - 配置
+  - 配置经验
+  - 💻教程
+  - 脚本
+  - dataview
+  - lifeOS
+  - Thino
+  - Templater
+description: 对比三个Memos类应用，使用多文件存储改善Thino的同步体验
+author: BabyXin
 type: other
 draft: false
 editable: false
