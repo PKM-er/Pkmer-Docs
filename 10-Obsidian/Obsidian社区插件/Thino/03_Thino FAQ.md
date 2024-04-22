@@ -10,7 +10,7 @@ author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240417153225
+modified: 20240420155648
 id: f94eee26b8f42cdf
 ---
 
@@ -160,6 +160,12 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 	- 这是因为 Obsidian 缓存，以及通过覆盖方式安装导致的，可以同通过如下步骤解决
 		- 删除插件，并重启 Obsidian，重新安装 Thino
 
+### 编辑问题
+
+#### 为什么我的编辑框总是很大
+
+- 原因 1：你可能使用了打字机类插件，比如 [[typewriter-mode]] ，插件实现原理上会强制在输入框中增加光标前面的高度。
+
 ### 同步
 
 #### 仅单文件、日记模式同步
@@ -191,4 +197,5 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 - Pane Relief 冲突：目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动即可。
 - Advanced Tables 冲突：鉴于此插件已经有段时间不更新了，且 OB 在近期已经完善了表格编辑体验，建议直接使用关闭的方法。
-- iconize 冲突：作者已经主动适配 Thino ，给你更新 iconize 最新版本即可。
+- iconize 冲突：作者已经主动适配 Thino ，请更新 iconize 到最新版本即可。
+- [[typewriter-mode]] 冲突：因为打自己类插件会强制干预编辑框尺寸
