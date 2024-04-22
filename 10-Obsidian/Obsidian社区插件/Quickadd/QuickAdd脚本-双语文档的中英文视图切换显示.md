@@ -7,14 +7,14 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240422162919
 ---
 
 # QuickAdd 脚本 - 双语文档的中英文视图切换显示
 
 ## 效果演示
 
-![[2024-03-20_QuickAdd脚本-双语文档的中英文视图切换显示_IMG-1.gif]]
+![](https://cdn.pkmer.cn/images/202404221628818.gif!pkmer)
 
 不改变原文的情况下实现中英文双语文档的切换显示，需求来源于 PKMer 群友 @五星一杠瓢虫
 
@@ -24,7 +24,7 @@ modified:
 
 ## Dynamic Highlight 动态高亮的正则
 
-![[2024-03-20_QuickAdd脚本-双语文档的中英文视图切换显示_IMG-2.png]]
+![](https://cdn.pkmer.cn/images/202404221628819.png!pkmer)
 
 - chDisplay：
 	- `^[\s0-9>\-\[\]*?[\u4e00-\u9fa5].*[。？；！\u4e00-\u9fa5]$`
@@ -111,16 +111,18 @@ module.exports = async (params) => {
 };
 ```
 
+![](https://cdn.pkmer.cn/images/202404221628820.png!pkmer)
+
 ## 吐槽
 
 - 2024-03-22_23:39：本想着需要配合 Style setting 的样式控制来设置，测试了半天无法获取当前状态，最后居然用 CssClasses 来设置就好了。
-	- ![[2024-03-20_QuickAdd脚本-双语文档的中英文视图切换显示_IMG-4.gif]]
+	- ![](https://cdn.pkmer.cn/images/202404221628821.gif!pkmer)
 - 2024-03-23_00:07：或者设置透明度，错误要少点
-	- ![[2024-03-20_QuickAdd脚本-双语文档的中英文视图切换显示_IMG-5.gif]]
+	- ![](https://cdn.pkmer.cn/images/202404221628822.gif!pkmer)
 - 2024-03-25_16:34：添加一个拓展视图
 	- 阅读视图下，高亮线会变成无文字状态，悬浮预览
 	- 阅读视图下，删除线内的文字会直接不显示
-	- ![[2024-03-20_QuickAdd脚本-双语文档的中英文视图切换显示_IMG-6.gif]]
+	- ![](https://cdn.pkmer.cn/images/202404221628823.gif!pkmer)
 
 ## References
 
