@@ -1,5 +1,5 @@
 ---
-uid: 2023120522265512
+uid: 2024042222343210
 title: Obsidian 插件：【Readme】RescueTime
 tags: ['obsidian插件', 'readme']
 description: 在Obsidian中查看您的RescueTime数据。
@@ -34,13 +34,15 @@ modified: 20230101000000
 
 下面是 [[rescuetime]] 插件的自述翻译
 
+【机翻】
+
 # RescueTime Obsidian 插件
 
 在 Obsidian 中查看您的 RescueTime 活动日志。
 
-<img src="./assets/AppOverview.png" walt="概览图片" />
+<img src="https://cdn.pkmer.cn/covers/rescuetime_2_0.png!pkmer" walt="概览图片" />
 
-<img src="./assets/LiveDemo.gif" alt="实时演示 GIF" />
+<img src="https://cdn.pkmer.cn/covers/rescuetime_2_1.gif!pkmer" alt="实时演示 GIF" />
 安装
 
 ### 先决条件
@@ -64,7 +66,7 @@ modified: 20230101000000
 
 #### 从社区插件列表下载
 
-<img src="./assets/Installation.png" alt="安装图片" />
+<img src="https://cdn.pkmer.cn/covers/rescuetime_2_2.png!pkmer" alt="安装图片" />
 
 1. 打开 Obsidian 客户端左下角的设置选项卡。
 2. 在“选项”中，点击“社区插件”。
@@ -75,11 +77,11 @@ modified: 20230101000000
 
 ### 设置 API 令牌
 
-<img src="./assets/ObtainAPIkeyFromRT.png" width="300px" alt="从RescueTime获取API密钥的图像" />
+<img src="https://cdn.pkmer.cn/covers/rescuetime_2_3.png!pkmer" width="300px" alt="从RescueTime获取API密钥的图像" />
 
 1. 从 [RescueTime的API管理页面](https://www.rescuetime.com/anapi/manage) 获取 API 令牌。在“创建新的 API 密钥”中，使用一个你可以输入任何内容的参考标签（比如“obsidian integration”）。你不需要更改“允许查询来自：”的选项。点击“激活此密钥”并复制密钥。
 
-<img src="./assets/SetAPItoken.png" alt="在插件设置中设置API令牌的图像" />
+<img src="https://cdn.pkmer.cn/covers/rescuetime_2_4.png!pkmer" alt="在插件设置中设置API令牌的图像" />
 
 1. 在设置选项卡中，现在“社区插件”中有“RescueTime”。将复制的密钥粘贴到“API 令牌”中。
 2. 要测试 API 连接，请在“API 连接测试”中点击“连接”。
@@ -88,7 +90,7 @@ modified: 20230101000000
 
 ## 查看今天的 RescueTime 仪表板
 
-<img src="./assets/RightPane.png" alt="右侧窗格图片" />
+<img src="https://cdn.pkmer.cn/covers/rescuetime_2_5.png!pkmer" alt="右侧窗格图片" />
 
 点击右上角的 " 展开 " 图标以展开右侧窗格，并找到 RescueTime 图标。
 
@@ -99,8 +101,8 @@ modified: 20230101000000
 
 ## 查看由您指定的时间段的 RescueTime 数据
 
-<img src="./assets/CodeBlock.png" width="600px" alt="Code Block Image" />
-<img src="./assets/CodeBlockProcessed.png" width="600px" alt="Code Block Processed Image" />
+<img src="https://cdn.pkmer.cn/covers/rescuetime_2_6.png!pkmer" width="600px" alt="Code Block Image" />
+<img src="https://cdn.pkmer.cn/covers/rescuetime_2_7.png!pkmer" width="600px" alt="Code Block Processed Image" />
 
 如果您按照以下格式输入代码块，则会显示出在您定义的时间段内的数据图表。
 

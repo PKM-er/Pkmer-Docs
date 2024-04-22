@@ -395,9 +395,11 @@ year of experience:
 4. 在插件列表中查找新条目 `Quadro`。通过勾选框启用插件。
 
 **BRAT（Beta Reviewers Auto-update Tester）**
+
 或者，如果您已经熟悉 Obsidian 生态系统，您也可以通过 [BRAT](https://github.com/TfTHacker/obsidian42-brat) 安装插件。
 
 **Obsidian 社区插件商店**
+
 一旦在 Obsidian 社区插件商店中发布，*Quadro* 将可以通过 Obsidian 的插件浏览器访问：`设置`→`社区插件`→`浏览`→搜索 *"Quadro"*
 
 ### 更新
@@ -410,9 +412,11 @@ year of experience:
 4. 再次启动 Obsidian。
 
 **BRAT**
+
 如果您通过*BRAT*添加了插件，它会在每次启动 Obsidian 时自动检查新的更新，并在有新版本可用时自动更新*Quadro*。
 
 **Obsidian 社区插件商店**
+
 一旦在 Obsidian 社区插件商店中发布，您可以通过以下方式更新*Quadro*（以及您安装的所有其他插件）：`设置` → `社区插件` → `检查更新` → `全部更新`。
 
 ### Bug Reports & Feature Requests

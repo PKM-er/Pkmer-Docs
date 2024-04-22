@@ -37,6 +37,7 @@ modified: 20230101000000
 # Obsidian Ruled Template
 
 这是一个用于 Obsidian（<https://obsidian.md>）的插件。
+
 这个插件是为了与像 templater 这样的插件一起使用。
 
 描述

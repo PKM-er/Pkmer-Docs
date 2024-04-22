@@ -320,7 +320,6 @@ _（注意 - 快捷文件 "states.sfile" 有 __ 两个 __ 教程视频，一个�
         - 示例：`support/inlineScripts/state.sfile`。
     4. （可选）关闭条目左侧的切换按钮将禁用此快捷方式文件。这使 __Inline Scripts__ 表现得好像从此列表中删除了快捷方式文件。这对于停止使用快捷方式文件而不完全将其从列表中删除非常有用。
 
-
         ![Shortcut-files setting](readmeMedia/shortcutFiles.png)
 
 6. 关闭设置面板。

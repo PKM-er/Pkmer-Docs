@@ -61,7 +61,9 @@ API 文档
 ## 概述
 
 **插件 ID：** codestats
+
 **开发者：** Denis (MiskaMyasa) Zaitsev
+
 **移动支持：** 否
 
 #codestats #obsidian #plugin

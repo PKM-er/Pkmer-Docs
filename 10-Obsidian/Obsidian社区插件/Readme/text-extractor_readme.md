@@ -39,9 +39,11 @@ modified: 20230101000000
 # Obsidian 文本提取器
 
 [![赞助我](https://img.shields.io/badge/%E2%9D%A4%20喜欢这个插件吗%3F-赞助我！-ff69b4)](https://github.com/sponsors/scambier)
+
 ![Obsidian插件](https://img.shields.io/endpoint?url=https%3A%2F%2Fscambier.xyz%2Fobsidian-endpoints%2Ftext-extractor.json)
 
 ![GitHub发布（按日期和文件）](https://img.shields.io/github/downloads/scambier/obsidian-text-extractor/latest/main.js)
+
 ![GitHub发布（按日期和预发布）](https://img.shields.io/github/v/release/scambier/obsidian-text-extractor)
 
 ![GitHub发布（按日期和预发布）](https://img.shields.io/github/v/release/scambier/obsidian-text-extractor?include_prereleases&label=BRAT%20beta)

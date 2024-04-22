@@ -116,10 +116,12 @@ Github Publisher 是一个插件，可以帮助你根据前置条件条目状态
 ## 🪧 寻找一些东西？
 
 → [设置说明](https://obsidian-publisher.netlify.app/Github%20Publisher/Settings/)
-← [命令参考](https://obsidian-publisher.netlify.app/Github%20Publisher/Commands)
-→ [模板](https://obsidian-publisher.netlify.app/Mkdocs%20Template/)
-← [GitHub 讨论](https://github.com/ObsidianPublisher/obsidian-github-publisher/discussions)
 
+← [命令参考](https://obsidian-publisher.netlify.app/Github%20Publisher/Commands)
+
+→ [模板](https://obsidian-publisher.netlify.app/Mkdocs%20Template/)
+
+← [GitHub 讨论](https://github.com/ObsidianPublisher/obsidian-github-publisher/discussions)
 
 ---
 

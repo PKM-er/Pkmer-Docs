@@ -122,8 +122,6 @@ columns: [number, title, author, status]
 | `per_page`  | 整数。                                             | 每页返回的项目数。                        |
 | `page`      | 整数。                                             | 要使用的结果页。
 
-
-
 |
 
 #### 支持的列

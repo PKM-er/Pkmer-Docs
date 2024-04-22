@@ -38,7 +38,8 @@ modified: 20230101000000
 
 一个 [Obsidian.md](https://obsidian.md/) 插件，可以在 Obsidian 中快速搜索、链接和打开维基百科文章以及你的笔记。
 
-*不要担心这个项目是“不活跃”的。它并不是不活跃的。它已经完成了 :)
+* 不要担心这个项目是“不活跃”的。它并不是不活跃的。它已经完成了 :)
+
 （至少在没有新的功能请求之前是这样的）*
 
 <img src="https://github.com/StrangeGirlMurph/obsidian-wikipedia-search/assets/62220780/c7179deb-4e3b-437d-acfc-ecc3707ffc1a" width=600 />

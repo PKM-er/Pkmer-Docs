@@ -128,7 +128,6 @@ Workspaces Plus 是一个扩展 [Obsidian](https://obsidian.md/) 中 [工作区]
 <details>
   <summary>紧凑的工作区选择器CSS代码片段</summary>
 
-
 ![image](https://user-images.githubusercontent.com/46250921/135287222-ada674cf-e8e9-4bbf-9d99-07c9892b8e76.png)
 
   ```css

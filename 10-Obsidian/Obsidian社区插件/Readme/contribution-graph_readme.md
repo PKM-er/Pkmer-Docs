@@ -36,7 +36,7 @@ modified: 20230101000000
 
 【机翻】
 
-**中文** |  [中文文档](https://mp.weixin.qq.com/s/wI8M_C87oZAtCBjFWC8CmA)
+**中文** | [中文文档](https://mp.weixin.qq.com/s/wI8M_C87oZAtCBjFWC8CmA)
 
 ## 什么
 

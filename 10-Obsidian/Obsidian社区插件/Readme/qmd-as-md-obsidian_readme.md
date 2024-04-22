@@ -106,6 +106,7 @@ div[data-path$='.json']{
 ## 开发
 
 该项目使用 Typescript 提供类型检查和文档。
+
 该仓库依赖于最新的 [插件API](https://github.com/obsidianmd/obsidian-api)，以 Typescript 定义格式提供，其中包含了描述其功能的 TSDoc 注释。
 
 **注意：** Obsidian API 仍处于早期 alpha 版本，随时可能发生变化！
@@ -119,6 +120,7 @@ div[data-path$='.json']{
 - 重新加载 Obsidian 以查看更改。
 
 或者，您可以直接将仓库克隆到插件文件夹中，一旦安装了依赖项，使用 `npm run dev` 以启动监视模式下的编译。
+
 您可能需要重新加载 Obsidian（`ctrl+R`）以查看更改。
 
 定价

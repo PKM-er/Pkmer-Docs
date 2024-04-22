@@ -116,6 +116,6 @@ modified: 20230101000000
 
 如果你想帮助我改进插件，请 fork 该项目并提交 pull request。请随时提出功能需求。
 
-5. 作者
+1. 作者
 
 * Lilian POULIQUEN - [@lilian-pouliquen on GitHub](https://github.com/lilian-pouliquen/)

@@ -38,8 +38,6 @@ modified: 20230101000000
 
 # Obsidian VLC Bridge
 
-
-
 [![GitHub Release](https://img.shields.io/github/v/release/zuluwi/obsidian-vlc-bridge?style=for-the-badge&logo=obsidian&labelColor=%237c3aed&color=%23e7e6e3)](https://github.com/zuluwi/obsidian-vlc-bridge/releases/latest)
 
 [![GitHub License](https://img.shields.io/github/license/zuluwi/obsidian-vlc-bridge?style=for-the-badge&labelColor=%23eb0029&color=%23e7e6e3)](https://github.com/zuluwi/obsidian-vlc-bridge/blob/master/LICENSE)

@@ -88,7 +88,6 @@ Google Keep 导入插件是为 [Obsidian](https://obsidian.md) 设计的插件�
 <details>
   <summary>展开以阅读设置的详细说明</summary>
 
-
 #### 基本设置
 
   - **笔记导入文件夹**：定义 Obsidian 中将导入笔记的文件夹。

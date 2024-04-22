@@ -291,13 +291,13 @@ tags: [ project1 ]
 
 其他插件兼容性
 
-Cardboard 与 [Tasks](https://obsidian-tasks-group.github.io/obsidian-tasks/) 和 [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) 中使用的*Due*和*Completion*日期格式兼容。这两个插件的日期都可以直接识别，无需配置。
+Cardboard 与 [Tasks](https://obsidian-tasks-group.github.io/obsidian-tasks/) 和 [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) 中使用的 _Due_ 和 _Completion_ 日期格式兼容。这两个插件的日期都可以直接识别，无需配置。
 
 在标记任务为完成时，您可以通过 CardBoard 的全局设置选择要使用的格式：
 
 ![任务完成格式设置面板](/images/taskCompletionFormatSetting.png?raw=true)
 
-您还可以将此值设置为*None*，如果您不希望在完成任务时添加任何完成日期或时间戳。**这不是推荐的做法**，因为如果这样做，当您将任务标记为完成时，该任务可能不会出现在您的看板上的任何已完成列的顶部（或附近）。CardBoard 使用此时间或日期来确定最近完成的任务，以便将其显示在列的顶部。
+您还可以将此值设置为 _None_，如果您不希望在完成任务时添加任何完成日期或时间戳。**这不是推荐的做法**，因为如果这样做，当您将任务标记为完成时，该任务可能不会出现在您的看板上的任何已完成列的顶部（或附近）。CardBoard 使用此时间或日期来确定最近完成的任务，以便将其显示在列的顶部。
 
 ### Dataview 插件
 
@@ -321,7 +321,7 @@ Cardboard 将遵循 Dataview 中与任务相关的设置，因此如果您设置
 
 **CardBoard 不支持理解重复任务**，即使您已经设置它使用任务格式来标记任务完成。从 CardBoard 看板视图中勾选一个重复任务会在任务格式中添加完成日期，但**不会生成新的重复任务实例**。
 
-要获得重复任务的正确行为，请点击卡片上的编辑图标，进入任务所在的文件，然后使用 *"Tasks: Toggle Done"* 命令或从那里点击复选框。
+要获得重复任务的正确行为，请点击卡片上的编辑图标，进入任务所在的文件，然后使用 _"Tasks: Toggle Done"_ 命令或从那里点击复选框。
 
 缩放板块文本和列大小
 

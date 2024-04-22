@@ -884,4 +884,5 @@ modified: 20230101000000
 </a>
 
 **[Definer - 弹出式词典和翻译工具](https://lumetrium.com/definer)**
+
 即时为您选择或输入的单词和短语提供定义、翻译和搜索结果。

@@ -101,7 +101,7 @@ modified: 20230101000000
 
 ```
 
-2. 将 markmap 转换为 csv
+1. 将 markmap 转换为 csv
 - 使用命令面板输入 `convert markmap to csv`
 - 使用快捷键
 

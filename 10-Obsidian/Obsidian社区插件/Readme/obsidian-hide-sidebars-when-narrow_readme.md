@@ -66,8 +66,11 @@ modified: 20230101000000
 ## 鸣谢
 
 这是一个当前未维护的仓库的分支，原作者是 [Michael Hanson](https://github.com/mybuddymichael)，你可以在 [这里](https://github.com/mybuddymichael/obsidian-hide-sidebars-when-narrow) 找到它。
+
 作为一个起点，它合并了 [这个拉取请求](https://github.com/mybuddymichael/obsidian-hide-sidebars-when-narrow/pull/5)，该拉取请求解决了 [这个问题](https://github.com/mybuddymichael/obsidian-hide-sidebars-when-narrow/issues/2)。
+
 忽略基于方向的限制，目前由 [@NomarCub](https://github.com/NomarCub) 维护。
+
 “侧边栏保持隐藏选项”由 [@extracat](https://github.com/extracat) 提供。
 
 如果你喜欢这个插件，你可以在 GitHub 上赞助我：[![Sponsor NomarCub](https://img.shields.io/static/v1?label=Sponsor%20NomarCub&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/NomarCub)，在 Ko-fi 上赞助我： ，或者在 PayPal 上赞助我：[![Paypal](https://img.shields.io/badge/paypal-nomarcub-yellow?style=social&logo=paypal)](https://paypal.me/nomarcub)。

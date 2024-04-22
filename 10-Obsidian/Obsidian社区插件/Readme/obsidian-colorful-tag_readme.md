@@ -139,6 +139,4 @@ colorful-tag:
 
 您的支持将是我改进 Colorful Tag 的动力。如果您喜欢这个插件，请考虑给我买杯咖啡。谢谢！
 
-
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rien7)
