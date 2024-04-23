@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240422222301
+modified: 20240423182151
 ---
 
 # 2024-04-22：懒癌福音，万物皆可一键搞定
