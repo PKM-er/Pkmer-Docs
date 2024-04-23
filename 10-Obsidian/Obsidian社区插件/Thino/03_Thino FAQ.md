@@ -1,16 +1,13 @@
 ---
 uid: 20231109234444
 title: Thino FAQ
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino FAQ 你想知道 Thino 的一切都在这里
-author: Bon,PKMer
+author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240420155648
+modified: 20240423152440
 id: f94eee26b8f42cdf
 ---
 
@@ -127,6 +124,11 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 2. 如果使用日记模式，那么一定要打开 Obsidian 的日记插件
 
 ### 显示异常
+
+#### 为什么找不到瀑布流视图
+
+- 瀑布流视图依赖 Thino Pro
+- 已经购买 Thino Pro ，那么请检查下当前 Thino 的宽度，宽度过窄的情况下，默认不允许开启瀑布流视图，防止较长内容在瀑布流下堆叠而带来的观感问题。
 
 #### 为什么会有重复的数据
 
