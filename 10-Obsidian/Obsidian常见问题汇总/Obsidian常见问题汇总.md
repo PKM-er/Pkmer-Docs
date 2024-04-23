@@ -7,7 +7,7 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20231105004624
+modified: 20240423102811
 ---
 
 # Obsidian 常见问题汇总
@@ -21,6 +21,24 @@ modified: 20231105004624
 如果以下内容还不能满足你：
 
 你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
+
+## 通用问题自排查
+
+1. 检查 Obsidian 版本，或安装第三方插件版本是否是最新版
+    - Obsidian 会不断更新版本，有些插件和旧版本不够兼容，但能够在新版本上表现很好
+    - 大部分持续更新，且有多人下载的插件，作者都会及时修复版本中的意外 Bug
+2. 检查升级的自己的主题是否是最新版
+3. 如果你有能力，检查自己插入的 CSS Snippets
+4. 如果你有能力，可以检查是否是插件之间冲突
+    - 你可以回想最近更新了什么插件，把他们都先关闭掉
+    - 或者你可以通过关闭一部分插件，然后逐批开启，来检查时哪个插件的问题
+    - 注意因为 Obsidian 每次启动时候插件启动顺序是不同的，所以有时现象并不稳定，或者不是某个插件问题，而是多个插件启动先后顺序、共同作用导致的。
+5. 遇到问题我不能定位怎么办？
+     -  [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
+     - [[Obsidian常见问题汇总]] 中查找
+     - 在 PKMer 交流群中搜索是否有人询问过问题
+     - 在 PKMer 交流群中提问，看看是否有人回答【如果是经常被问的问题，建议先去找 FAQ】
+
 ## 知识管理
 
 ### 笔记组织
@@ -97,10 +115,13 @@ modified: 20231105004624
 ### 外观设置
 
 #### 菜单透明效果怎么设置? （by 熊猫）
+
 ![image.png](https://cdn.pkmer.cn/images/20231108105441.png!pkmer)
 
 答：
-在BT主题下可以通过 Style Seting中可以进行设置：
+
+在 BT 主题下可以通过 Style Seting 中可以进行设置：
+
 ![image.png](https://cdn.pkmer.cn/images/20231108105503.png!pkmer)
 
 ### 主题和示例库
@@ -136,9 +157,7 @@ modified: 20231105004624
 
 - [[Obsidian基础操作问题#怎么把 md 文档导出为图片]]
 
-
 ## Front-matter
-
 
 ## 搜索
 
