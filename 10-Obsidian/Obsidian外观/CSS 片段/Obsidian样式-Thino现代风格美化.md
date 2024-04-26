@@ -1,16 +1,16 @@
 ---
 uid: 20240420163643
-title: Thino 现代风格美化
+title: Obsidian 样式 - Thino 现代风格美化
 tags: [Bluetopaz, Thino, 美化, 界面美化, CSS美化]
 description: Blue Topaz同款Thino美化
 author: ProudBenzene
 type: advanced
 draft: false
 editable: false
-modified: 20240420171759
+modified: 20240426092353
 ---
 
-# Thino 现代风格美化
+# Obsidian 样式 - Thino 现代风格美化
 
 由 PKMer 成员维护的 Blue Topaz 主题在最近的更新中加入了对 Thino 插件界面的美化，但是还要一些朋友平时的常用主题并不是 Thino 主题。为了让大家都能体验到 Thino 的全新外观，我将 Blue Topaz 主题中关于 Thino 的部分移植了出来，并于此分享。
 

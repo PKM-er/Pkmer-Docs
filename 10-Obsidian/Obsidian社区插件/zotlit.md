@@ -78,4 +78,6 @@ ZotLit 是一个第三方项目，旨在通过为 Obsidian 和 Zotero 提供一�
 
 ## 视频教程
 
-<iframe src="https://player.bilibili.com/player.html?aid=964486961&bvid=BV1gH4y1k7gz&cid=1354499856&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=964486961&bvid=BV1gH4y1k7gz&cid=1354499856&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>
+
+<iframe src="https://player.bilibili.com/player.html?aid=1403444421&bvid=BV18r421G7Fg&cid=1511572800&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>

@@ -63,9 +63,9 @@ Floating Toc 插件能实现悬浮目录。悬浮目录的效果近似你在其�
 
 ## 相关视频
 
-<iframe src="https://player.bilibili.com/player.html?aid=836362395&bvid=BV1rg4y1m7sF&cid=1407803057&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="80%"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=836362395&bvid=BV1rg4y1m7sF&cid=1407803057&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="90%"> </iframe>
 
-<iframe src="https://player.bilibili.com/player.html?aid=558000377&bvid=BV1Ze4y1C7Yw&cid=834905252&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="80%"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=558000377&bvid=BV1Ze4y1C7Yw&cid=834905252&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="90%"> </iframe>
 
 >[!Tip] 关联推荐
 >- [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录

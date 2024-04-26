@@ -1,16 +1,13 @@
 ---
 uid: 20230913172535
 title: Thino Web 更新记录
-tags:
-  - Obsidian
-  - Thino
-  - memos
+tags: [Obsidian, Thino, memos]
 description: Obsidian 插件 Thino 2.X 更新记录
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240320095318
+modified: 20240426092734
 sidebar:
   order: 3
   badge: New!

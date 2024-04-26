@@ -65,7 +65,7 @@ A 原则我也是认同的，但是用纸笔手写笔记对我来说不现实。
 
 myZettelkasten 示例库操作演示可以看：
 
-<iframe src="https://player.bilibili.com/player.html?aid=744451292&bvid=BV1vk4y1g7A7&cid=1223761456&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=1750282299&bvid=BV194421A7AC&cid=1430267673&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="90%"> </iframe>
 
 ### 1.3 ZK 关键词导航与标签、图谱的比较
 
@@ -136,13 +136,13 @@ myZettelkasten 示例库操作演示可以看：
 4. 这种编码不是一种严格的分类结构，而是一种生长的树状结构
 5. 每一个新笔记，你需要选择挂到一个你认为最合适的位置附近，这代表你选择了怎样的笔记关系，也是你想法/思考发展的过程
 
-![TP319-1-1-2-1A-2B.png|847](https://cdn.pkmer.cn/images/TP319-1-1-2-1A-2B.png!pkmer)
+![TP319-1-1-2-1A-2B.png|800](https://cdn.pkmer.cn/images/TP319-1-1-2-1A-2B.png!pkmer)
 
 另外，中图分类号也不是必须的，它的作用只是让相近主题树靠的比较近而已。
 
 比如我现在已经种了有 4 棵不同领域的树，有一天我想研究 Notion，如果不用中图分类号，这时我的 Notion 就是 5 号树。而使用分类号，我的 Notion 主题树为 TP319-2，跟 Obsidian TP319-1 离得比较近。
 
-![Pasted image 20230808160723.png|838](https://cdn.pkmer.cn/images/Pasted%20image%2020230808160723.png!pkmer)
+![Pasted image 20230808160723.png|800](https://cdn.pkmer.cn/images/Pasted%20image%2020230808160723.png!pkmer)
 
 ### 2.3 索引关键词
 
@@ -163,3 +163,29 @@ myZettelkasten 示例库操作演示可以看：
 
 > [!Note] 阅后福利
 > 关于作者 Terry 的一些管理方法和 Demo 库，作者已经提供了示例空间，欢迎大家自己下载体验 [点我获取](https://pan.baidu.com/s/1sngJz9ez1J76-mAFa28RQA?pwd=f83z )
+
+## 视频教程
+
+### Terry：我的Zettelkasten实践分享
+
+我的Zettelkasten实践分享 为什么我选择ZK卡1
+
+<iframe src="https://player.bilibili.com/player.html?aid=1801286850&bvid=BV1Nt421t7Ht&cid=1459182253&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="90%"> </iframe>
+
+我的Zettelkasten实践分享 为什么我选择ZK卡2
+
+<iframe src="https://player.bilibili.com/player.html?aid=1401392307&bvid=BV1Br421W7ew&cid=1461090808&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="90%"> </iframe>
+
+我的Zettelkasten实践分享（工作流1）
+
+<iframe src="https://player.bilibili.com/player.html?aid=1850526697&bvid=BV1hp421R7nC&cid=1441554315&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="90%"> </iframe>
+
+我的Zettelkasten实践分享（工作流2）
+
+<iframe src="https://player.bilibili.com/player.html?aid=1150881512&bvid=BV1rZ42117XN&cid=1447887977&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="90%"> </iframe>
+
+我的Zettelkasten实践分享（工作流3）
+
+<iframe src="https://player.bilibili.com/player.html?aid=1451068776&bvid=BV14v421r7Sy&cid=1453890646&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="90%"> </iframe>
+
+
