@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240413005108
+modified: 20240426093024
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -31,6 +31,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 3. 如果你使用的网站上复制的内容，那么可以尝试先把内容放到一个文本文件（.txt），然后将文本文件的文件类型（后缀名）改为 .css 即可。然后重复 步骤 1 和 步骤 2
 
 涉及软件界面的修改，有时候可能需要重启软件生效。
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=1103514962&bvid=BV1pw4m1276X&cid=1517644008&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>
 
 ## Obsidian CSS 主题自定义教程
 
