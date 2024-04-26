@@ -7,7 +7,7 @@ author: Bon
 type: other
 draft: false
 editable: false
-modified: 20230603022242
+modified: 20240426235642
 ---
 
 # Obsidian 插件：Dynamic Highlights 快速为笔记增加高亮
@@ -1083,3 +1083,7 @@ settings:
 # 总结
 
 由于个人的视角有限，所以能提供的工作流不算多，希望以上的介绍能帮大家更好地了解这个插件，谢谢阅读~
+
+## 其他文章
+
+[[Dynamic-Highlights插件的几种使用场景]]
