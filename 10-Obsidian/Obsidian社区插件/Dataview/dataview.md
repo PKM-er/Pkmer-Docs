@@ -59,7 +59,7 @@ Dataview 插件的用途主要有三个方面。
 - [[23 - 操作符]]
 - [[24 - 表达式]]
 - [[30 - Function 函数]]
-- [[31 - DQL 与 SQL 的异同]]
+- [[31 - Dataview 中的构造函数]]
 - [[32 - Dataview 中的数值运算函数]]
 - [[33 - Dataview 中的对象操纵函数]]
 - [[34 - Dataview 中的字符串操纵函数]]
@@ -68,8 +68,9 @@ Dataview 插件的用途主要有三个方面。
 - [[41 - DQL 与 SQL 的异同]]
 - [[42 - ISO 8601]]
 - [[43 - YAML 基础]]
+- [[44 - Dataview 设置介绍]]
 
-### [[Dataview 实例展示|拓展-Dataview实例展示]]
+### 拓展-Dataview实例展示
 
 - [[Dataview 表格简单查询示例]]；
 - [[Dataview 表格进阶查询示例]]；
@@ -85,7 +86,6 @@ Dataview 插件的用途主要有三个方面。
 - [[Dataview语法实战-FLATTEN操作符进阶示例]]；
 - [[Dataview语法实战-GROUP BY 操作符简单示例]]；
 - [[Dataview语法实战-GROUP BY 操作符进阶示例]]；
-- [[31 - Dataview 中的构造函数|Dataview 中的构造函数]]；
 - [[32 - Dataview 中的数值运算函数|Dataview 中的数值运算函数]]；
 - [[33 - Dataview 中的对象操纵函数|Dataview 中的对象、数组操纵函数]]；
 - [[34 - Dataview 中的字符串操纵函数|Dataview 中的字符串操纵函数]]；
@@ -133,4 +133,3 @@ Dataview 插件的用途主要有三个方面。
 - [[Obsidian样式-可滚动的Dataview表格视图|Dataview实战-给 Dataview 加个滚动条]]
 - [[Dataview实战-进度条]]
 - [[Dataview语法实战-列出特定标题下的元素]]
-- 

@@ -7,7 +7,7 @@ author: Huajin
 type: basic
 draft: false
 editable: false
-modified: 20230709235255
+modified: 20240427153729
 ---
 
 # Obsidian 插件：Code Tab 不止于混合代码块
@@ -24,7 +24,7 @@ modified: 20230709235255
 
 ## 效果&特性
 
-为代码块加上标签页，生成 leetcode 样式的混合代码块，且不仅限于代码块，可以自己设计内容比如 tasks，dataview 等。
+为代码块加上标签页，生成 leetcode 样式的混合代码块，且不仅限于代码块，可以自己设计内容比如 tasks，dataview 等。缺点是无法实时编辑，需要改动内容时只能编辑源码不方便。可以考虑下另一个具有同样功能但是可以实时编辑的插件 [[tabs]]
 
 ## 安装
 
@@ -253,4 +253,5 @@ SORT id
 
 ## 相关文章
 
-[[code-tab还能这么玩]]
+- [[code-tab还能这么玩]]
+- [[tabs|可以实时编辑的标签页组件 Tabs]]
