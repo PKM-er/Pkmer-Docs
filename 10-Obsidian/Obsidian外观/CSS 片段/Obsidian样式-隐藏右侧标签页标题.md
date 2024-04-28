@@ -1,15 +1,13 @@
 ---
 uid: 20240323141728
 title: Obsidian 样式 - 隐藏右侧标签页标题
-tags:
-  - obsidian
-  - css
+tags: [obsidian, css]
 description: 
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240323141728
+modified: 20240429001204
 ---
 
 # Obsidian 样式 - 隐藏右侧标签页标题

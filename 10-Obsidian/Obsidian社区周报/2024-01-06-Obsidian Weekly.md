@@ -1,16 +1,16 @@
 ---
 uid: 20240106002403
-title: 2024-01-06：Obsidian-Roundup
-tags: [Obsidian, roundup]
-description: 2024-01-06：Obsidian-Roundup
+title: Obsidian Weekly 2024-01-06
+tags: [Obsidian, Weekly]
+description: Obsidian Weekly 2024-01-06
 author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240311200155
+modified: 20240429000654
 ---
 
-# 2024-01-06：Obsidian-Roundup
+# Obsidian Weekly 2024-01-06
 
 > [!Abstract]
 > **统计时间**：2023-12-30 21:00 ~ 2024-01-05 21:00

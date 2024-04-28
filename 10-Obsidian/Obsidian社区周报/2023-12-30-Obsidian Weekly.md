@@ -1,16 +1,16 @@
 ---
 uid: 20231229230718
-title: 2023-12-30：Obsidian 迎来史诗级更新，提升交互体验
+title: Obsidian Weekly 2023-12-30：Obsidian 迎来史诗级更新，提升交互体验
 tags: [Obsidian]
-description: 
+description: Obsidian Weekly 2023-12-30：Obsidian 迎来史诗级更新，提升交互体验
 author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240108000839
+modified: 20240429000722
 ---
 
-# 2023-12-30：Obsidian 迎来史诗级更新，提升交互体验
+# Obsidian Weekly 2023-12-30：Obsidian 迎来史诗级更新，提升交互体验
 
 新年快乐！为新的大版本和一大波新插件干杯！
 

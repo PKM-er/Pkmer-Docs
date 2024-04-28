@@ -1,16 +1,16 @@
 ---
 uid: 20240415021601
-title: 2024-04-14：全面加强的引用与索引
-tags: [Roundup, Obsidian]
-description: 全面加强的引用与索引！
+title: Obsidian Weekly 2024-04-14：全面加强的引用与索引
+tags: [Weekly, Obsidian]
+description: Obsidian Weekly 2024-04-14：全面加强的引用与索引
 author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240415143920
+modified: 20240429000800
 ---
 
-# 2024-04-14：全面加强的引用与索引
+# Obsidian Weekly 2024-04-14：全面加强的引用与索引
 
 > [!Abstract]
 > **统计时间**：2024-04-08 00:00 ~ 2024-04-14 00:00

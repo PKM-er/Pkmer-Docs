@@ -1,16 +1,16 @@
 ---
 uid: 20240128002136
-title: 2024-01-27：龙翔凤翥，风月无边；砥志研思，南山自见
-tags: [Obsidian, Roundup]
-description: 2024-01-27：龙翔凤翥，风月无边；砥志研思，南山自见
+title: Obsidian Weekly 2024-01-27：龙翔凤翥，风月无边；砥志研思，南山自见
+tags: [Obsidian, Weekly]
+description: Obsidian Weekly 2024-01-27：龙翔凤翥，风月无边；砥志研思，南山自见
 author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240311200134
+modified: 20240429000634
 ---
 
-# 2024-01-27：龙翔凤翥，风月无边；砥志研思，南山自见
+# Obsidian Weekly 2024-01-27：龙翔凤翥，风月无边；砥志研思，南山自见
 
 > [!Abstract]
 > **统计时间**：2024-01-20 18:00 ~ 2024-01-26 21:00

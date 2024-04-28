@@ -1,7 +1,7 @@
 ---
 uid: 20240317161436
 title: 2024-03-17-Obsidian Weekly
-tags: [Roundup, Obsidian]
+tags: [Weekly, Obsidian]
 description: 2024-03-17-Obsidian Weekly
 author: 淡水鱼,PKMer
 type: awesome
@@ -10,7 +10,7 @@ editable: false
 modified: 20240317183751
 ---
 
-# 2024-03-17-Obsidian Weekly
+# Obsidian Weekly  2024-03-17
 
 > [!Abstract]
 > **统计时间**：2024-03-10 21:00 ~ 2024-03-17 21:00

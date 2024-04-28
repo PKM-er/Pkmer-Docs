@@ -1,16 +1,16 @@
 ---
 uid: 20240325183110
 title: 2024-03-24：随时随地，沉浸式笔记
-tags: [Roundup, Obsidian]
-description: 
+tags: [Weekly, Obsidian]
+description: Obsidian Weekly：2024-03-24：随时随地，沉浸式笔记
 author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240409161517
+modified: 20240429000453
 ---
 
-# 2024-03-24：随时随地，沉浸式笔记
+# Obsidian Weekly 2024-03-24：随时随地，沉浸式笔记
 
 > [!Abstract]
 > **统计时间**：2024-03-24 21:00 ~ 2024-03-24 23:00

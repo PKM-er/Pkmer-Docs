@@ -1,16 +1,16 @@
 ---
 uid: 20240217213946
-title: Obsidian-Roundup 2024-02-17：从今天开始，写日记吧
-tags: [Roundup, Obsidian]
-description: Obsidian-Roundup 2024-02-17：从今天开始，写日记吧
+title: Obsidian Weekly 2024-02-17：从今天开始，写日记吧
+tags: [Weekly, Obsidian]
+description: Obsidian-Weekly 2024-02-17：从今天开始，写日记吧
 author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240217214507
+modified: 20240429000914
 ---
 
-# Obsidian-Roundup 2024-02-17：从今天开始，写日记吧
+# Obsidian Weekly 2024-02-17：从今天开始，写日记吧
 
 > [!Abstract]
 > **统计时间**：2024-02-10 17:00 ~ 2024-02-17 17:00

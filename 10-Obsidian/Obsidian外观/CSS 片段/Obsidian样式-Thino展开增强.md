@@ -1,15 +1,13 @@
 ---
 uid: 20240323140402
 title: Obsidian 样式 -Thino 展开增强
-tags:
-  - obsidian
-  - thino
-description: 
+tags: [obsidian, thino]
+description: Obsidian 样式 -Thino 展开增强
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240323140402
+modified: 20240429001242
 ---
 
 # Obsidian 样式 -Thino 展开增强
