@@ -33,7 +33,6 @@ modified: 20240323205607
 // 导入所需模块
 const path = require('path');
 const fs = require('fs');
-const { createHmac, createCipheriv } = require('crypto');
 const quickAddApi = app.plugins.plugins.quickadd.api;
 const files = app.vault.getFiles();
 // 获取当前活动文件和缓存的元数据
