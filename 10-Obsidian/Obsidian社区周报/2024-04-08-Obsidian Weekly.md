@@ -1,16 +1,16 @@
 ---
 uid: 20240409004305
-title: 2024-04-08：更灵活，同时更稳定
-tags: [Roundup, Obsidian]
-description: 更灵活，同时更稳定
+title: Obsidian Weekly 2024-04-08：更灵活，同时更稳定
+tags: [Weekly, Obsidian]
+description: Obsidian Weekly 2024-04-08：更灵活，同时更稳定
 author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240409161511
+modified: 20240429000748
 ---
 
-# 2024-04-08：更灵活，同时更稳定
+# Obsidian Weekly 2024-04-08：更灵活，同时更稳定
 
 > [!Abstract]
 > **统计时间**：2024-04-01 00: 00 ~ 2024-04-08 00:00

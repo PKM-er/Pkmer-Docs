@@ -1,16 +1,16 @@
 ---
 uid: 20240121001901
-title: 2024-01-20：密针细缕，深图远虑；得心应手，游刃皆虚
-tags: [Obsidian, Roundup]
-description: 2024-01-20：密针细缕，深图远虑；得心应手，游刃皆虚
+title: Obsidian Weekly 2024-01-20：密针细缕，深图远虑；得心应手，游刃皆虚
+tags: [Obsidian, Weekly]
+description: Obsidian Weekly 2024-01-20：密针细缕，深图远虑；得心应手，游刃皆虚
 author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240311200152
+modified: 20240429000646
 ---
 
-# 2024-01-20：密针细缕，深图远虑；得心应手，游刃皆虚
+# Obsidian Weekly 2024-01-20：密针细缕，深图远虑；得心应手，游刃皆虚
 
 > [!Abstract]
 > **统计时间**：2024-01-12 21:00 ~ 2024-01-20 18:00

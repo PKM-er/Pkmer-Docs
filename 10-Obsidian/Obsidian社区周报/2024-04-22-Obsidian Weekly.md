@@ -1,16 +1,16 @@
 ---
 uid: 20240422222203
-title: 2024-04-22：懒癌福音，万物皆可一键搞定
-tags: [Roundup, Obsidian]
-description: 懒癌福音，万物皆可一键搞定！
+title: Obsidian Weekly 2024-04-22：懒癌福音，万物皆可一键搞定
+tags: [Weekly, Obsidian]
+description: Obsidian Weekly 2024-04-22：懒癌福音，万物皆可一键搞定
 author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240423182151
+modified: 20240429000837
 ---
 
-# 2024-04-22：懒癌福音，万物皆可一键搞定
+# Obsidian Weekly 2024-04-22：懒癌福音，万物皆可一键搞定
 
 > [!Abstract]
 > **统计时间**：2024-04-14 00:00 ~ 2024-04-22 21:00

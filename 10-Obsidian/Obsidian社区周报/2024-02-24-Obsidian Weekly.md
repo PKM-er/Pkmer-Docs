@@ -1,16 +1,16 @@
 ---
 uid: 20240225171940
-title: 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
-tags: [Roundup, Obsidian]
-description: Obsidian-Roundup 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
+title: Obsidian Weekly 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
+tags: [Weekly, Obsidian]
+description: Obsidian-Weekly 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
 author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240225171940
+modified: 20240429000616
 ---
 
-# 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
+# Obsidian Weekly 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
 
 > [!Abstract]
 > **统计时间**：2024-02-17 17:00 ~ 2024-02-24 0:00

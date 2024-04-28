@@ -1,15 +1,13 @@
 ---
 uid: 20240413004724
 title: Obsidian 样式 - 悬浮侧边栏自动弹出，提升工作流效率
-tags:
-  - 侧边栏
-  - CSS自定义
+tags: [侧边栏, CSS自定义]
 description: 悬浮侧边栏自动弹出，提升工作流效率
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240413004802
+modified: 20240429001159
 ---
 
 # Obsidian 样式 - 悬浮侧边栏自动弹出，提升工作流效率

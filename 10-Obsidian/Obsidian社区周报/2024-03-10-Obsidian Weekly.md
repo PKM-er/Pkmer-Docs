@@ -1,16 +1,16 @@
 ---
 uid: 20240311200001
-title: 2024-03-10：本篇又名：《论笔记的视听化、集成化与流水线化》
-tags: [Roundup, Obsidian]
-description: 2024-03-10：本篇又名：《论笔记的视听化、集成化与流水线化》
+title: Obsidian Weekly 2024-03-10：本篇又名：《论笔记的视听化、集成化与流水线化》
+tags: [Weekly, Obsidian]
+description: Obsidian Weekly 2024-03-10：本篇又名：《论笔记的视听化、集成化与流水线化》
 author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240311200539
+modified: 20240429000539
 ---
 
-# 2024-03-10：本篇又名：《论笔记的视听化、集成化与流水线化》
+# Obsidian Weekly 2024-03-10：本篇又名：《论笔记的视听化、集成化与流水线化》
 
 > [!Abstract]
 > **统计时间**：2024-03-03 21:00 ~ 2024-03-10 21:00

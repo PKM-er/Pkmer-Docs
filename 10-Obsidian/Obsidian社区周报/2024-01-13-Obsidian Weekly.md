@@ -1,16 +1,16 @@
 ---
 uid: 20240113102303
-title: Obsidian Roundup 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发
-tags: [Obsidian, Roundup]
-description: 
+title: Obsidian Weekly 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发
+tags: [Obsidian, Weekly]
+description: Obsidian Weekly 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发
 author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240311200157
+modified: 20240429000705
 ---
 
-# Obsidian Roundup 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发
+# Obsidian Weekly 2024-01-13：老骥伏枥，朽木生花；百尺竿头，新硎初发
 
 > [!Abstract]
 > **统计时间**：2024-01-05 21:00 ~ 2024-01-12 21:00

@@ -1,16 +1,16 @@
 ---
 uid: 20240303221237
 title: 2024-03-03：番茄时钟 +AI+Ob，今天你拥有效率拉满的工作流了吗？
-tags: [Roundup, Obsidian]
-description: 2024-03-03：番茄时钟 +AI+Ob，今天你拥有效率拉满的工作流了吗？
+tags: [Weekly, Obsidian]
+description: Obsidian Weekly 2024-03-03：番茄时钟 +AI+Ob，今天你拥有效率拉满的工作流了吗？
 author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240311200048
+modified: 20240429000551
 ---
 
-# 2024-03-03：番茄时钟 +AI+Ob，今天你拥有效率拉满的工作流了吗？
+# Obsidian Weekly  2024-03-03：番茄时钟 +AI+Ob，今天你拥有效率拉满的工作流了吗？
 
 > [!Abstract]
 > **统计时间**：2024-02-24 00:00 ~ 2024-03-03 21:00
@@ -513,6 +513,7 @@ require("@lezer/highlight");
 
 - 修复（注意）：修复 iframe 在阅读模式下不起作用
 - 构建：修复最低黑曜石版本
+
 ### 未上架插件
 
 > [!Caution]
@@ -569,7 +570,6 @@ require("@lezer/highlight");
 > Select and copy source HTML in reading view.
 
 ![2024-03-03-copy-as-source.gif](https://cdn.pkmer.cn/images/2024-03-03-copy-as-source.gif!pkmer)
-
 
 [Alfonso Money Manager](https://github.com/smartlife-gpt/alfonso-money-manager-obsidian/releases/tag/1.0.0) by _SmartLifeGPT Innovation_
 
