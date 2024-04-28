@@ -10,24 +10,24 @@ editable: false
 modified: 20240420160203
 ---
 
-# QuickAdd 脚本 - 自动插入文档中的第 n 张图片至 Banner 属性
-
-![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性_IMG-2](https://cdn.pkmer.cn/images/202404171748573.png!pkmer)
-
 ## 使用背景
 
-![image.png](https://cdn.pkmer.cn/images/202404201612500.png!pkmer)
+![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性](https://cdn.pkmer.cn/images/202404281340395.png!pkmer)  
+我编辑 Project 时经常忘记添加 Banner 属性值，尤其当图片修改后，我也不想去手动更新。通常文章的第一张图片就是这篇文章的 Banner。为了偷懒，我写了这个脚本并与 Linter 配合使用。
 
+![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性_IMG-1](https://cdn.pkmer.cn/images/202404281340396.png!pkmer)
 
-我编辑 Project 时经常忘记添加 Banner 属性值，尤其当图片修改后，我也不想去手动更新。通常文章的第一张图片就是这篇文章的 Banner。为了偷懒，我写了这个脚本并与 Linter 配合使用。 通过 `Ctrl + S` 快捷键自动刷新文档的 Banner。
+> 如果当前文档没有图片，可以设置默认图片，如果为空则不插入。
 
-![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性_IMG-1](https://cdn.pkmer.cn/images/202404171748574.png!pkmer)
+通过 `Ctrl + S` 快捷键自动刷新文档的 Banner。
+
+![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性_IMG-2](https://cdn.pkmer.cn/images/202404281340397.png!pkmer)
 
 ## QuickAdd Macro 脚本
 
 ### 脚本设置设置
 
-![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性_IMG-2](https://cdn.pkmer.cn/images/202404171748573.png!pkmer)
+![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性_IMG-1](https://cdn.pkmer.cn/images/202404281340396.png!pkmer)
 
 ```js
 module.exports = {
@@ -41,7 +41,9 @@ module.exports = {
     if (cachedMetadata?.embeds) {
       embedImgs = cachedMetadata.embeds.map(e => e.link).filter(l => /\.(png|gif|jpe?g)$/.test(l));
     }
-    if (embedImgs.length < 1) return;
+    if (embedImgs.length < 1 && settings["默认图片"]) {
+      embedImgs = [settings["默认图片"]];
+    }
 
     // 设置显示第几个图片，如果不存在则会自动选择第1张图片
     let num = parseInt(settings["显示第几张图片"], 10) || 1;
@@ -69,7 +71,7 @@ module.exports = {
     });
   },
   settings: {
-    name: "自动插入图片到Yaml中",
+    name: "自动更新Banner",
     author: "熊猫别熬夜",
     options: {
       "图片属性": {
@@ -85,10 +87,16 @@ module.exports = {
         type: "text",
         defaultValue: "1",
         description: "设置显示第几个图片，如果不存在则会自动选择第1张图片"
+      },
+      "默认图片": {
+        type: "text",
+        defaultValue: "DailyNote.png",
+        description: "如果提取不到对应图片，则自动插入默认图片"
       }
     }
   }
 };
+
 ```
 
 ## Reference
