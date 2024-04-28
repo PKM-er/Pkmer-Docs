@@ -1,9 +1,12 @@
 ---
 uid: 20240417152147
 title: Obsidian 样式 - 多彩便笺背景
-tags: [多彩便笺, css, quickadd脚本]
+tags:
+  - 多彩便笺
+  - css
+  - quickadd脚本
 description: 
-author: 
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false

@@ -115,6 +115,16 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 
 > 这个非常好用，简单但实用
 
+### AddTagsByModalForm
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/AddTagsByModalForm.md
+```
+
+- Author：熊猫别熬夜
+- PKMerDoc：[[自定义Excalidraw脚本-给Excalidraw添加标签]]
+- Description：借助 Modal Form 插件的表单，给 Excalidraw 画板内的文本添加标签。
+	- ![自定义Excalidraw脚本-给Excalidraw添加标签_IMG-1](https://cdn.pkmer.cn/images/202404281330829.gif!pkmer)
 ## MindMap
 
 - [[自定义Excalidraw脚本-修改MindMap Format设置思维导图Frame容器]]
