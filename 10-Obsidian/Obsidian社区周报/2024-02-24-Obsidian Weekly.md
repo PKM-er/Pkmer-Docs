@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240429000616
+modified: 20240429181027
 ---
 
 # Obsidian Weekly 2024-02-25：你的下一个音视频播放器，何必非得是播放器？
@@ -485,7 +485,7 @@ You can download it from [Github](https://github.com/PKM-er/media-extended/relea
 > - Other Changes
 > 	- Add Vampire: The Masquerade – Bloodlines ambience by @ThomasEricB
 
-![[2024-02-24-Pasted image 20240224153354.png]]
+![2024-02-24-Pasted image 20240224153354.png](https://cdn.pkmer.cn/images/2024-02-24-Pasted%20image%2020240224153354.png!pkmer)
 
 [Various Complements v9.3.0](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/releases/tag/9.3.0) by _various-complements_
 

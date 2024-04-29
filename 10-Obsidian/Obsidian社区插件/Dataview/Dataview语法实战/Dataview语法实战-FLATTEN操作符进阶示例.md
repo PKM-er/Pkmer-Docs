@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231209174817
+modified: 20240429180634
 ---
 
 # Dataview 语法实战：FLATTEN 操作符进阶示例
@@ -69,7 +69,7 @@ GROUP BY genres
 
 ![Dataview语法实战-FLATTEN操作符进阶示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230831213816.png!pkmer)
 
-现在我们想要一条一条的把 “Research" 标题下的无序列表列出来，我们知道 `file.lists.section` 可以获取列表所在的标题的链接，使用 `meta(..)` 函数可以把链接转换成链接包含的元数据，然后取出这个元数据中的 subpath 属性，也就是标题，然后用 `WHERE` 操作符就能够区分出是在 "Research" 还是在 "Topics" 标题之下了：`WHERE meta(file.lists.section).subpath = "Research"`。（忘了的可以看 [[14 - 隐式字段]] 和 [[25 - Function 函数]] 看看各个值代表什么）
+现在我们想要一条一条的把 “Research" 标题下的无序列表列出来，我们知道 `file.lists.section` 可以获取列表所在的标题的链接，使用 `meta(..)` 函数可以把链接转换成链接包含的元数据，然后取出这个元数据中的 subpath 属性，也就是标题，然后用 `WHERE` 操作符就能够区分出是在 "Research" 还是在 "Topics" 标题之下了：`WHERE meta(file.lists.section).subpath = "Research"`。（忘了的可以看 [[14 - 隐式字段]] 和 [[30 - Function 函数]] 看看各个值代表什么）
 
 但是，还差那么一步，函数 `meta(..)` 需要的输入值是链接，而不能是一个列表，也就是 `meta(file.lists.section)` 是会报错的。此时就需要 `FLATTEN` 出场了，正确的写法应该是
 

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20240124114857
+modified: 20240429174418
 ---
 
 # Obsidian 样式：Thino 插件隐藏标志位
@@ -18,9 +18,9 @@ modified: 20240124114857
 
 也有很多同学会仔细观察 Thino 每个版本的变化，因为本身插件是寄宿于 Obsidian 主体之中，所以受限于 Obsidian 支持的同时，又要满足用户诉求，就会萌生出一些大家经常询问的问题，比如：
 
-- [[Thino 回收站功能]]
-- [[Thino 归档功能]]
-- [[Thino 同步]]
+- [[Thino Trash Bin]]
+- [[Thino Archive]]
+- [[Thino Sync]]
 
 这些操作为了能够：
 

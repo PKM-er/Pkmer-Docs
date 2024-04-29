@@ -69,7 +69,7 @@ Dataview 插件的用途主要有三个方面。
 - [[42 - ISO 8601]]
 - [[43 - YAML 基础]]
 
-### [[Dataview 实例展示|拓展-Dataview实例展示]]
+### [[Dataview语法实战]]
 
 - [[Dataview 表格简单查询示例]]；
 - [[Dataview 表格进阶查询示例]]；
@@ -85,11 +85,7 @@ Dataview 插件的用途主要有三个方面。
 - [[Dataview语法实战-FLATTEN操作符进阶示例]]；
 - [[Dataview语法实战-GROUP BY 操作符简单示例]]；
 - [[Dataview语法实战-GROUP BY 操作符进阶示例]]；
-- [[31 - Dataview 中的构造函数|Dataview 中的构造函数]]；
-- [[32 - Dataview 中的数值运算函数|Dataview 中的数值运算函数]]；
-- [[33 - Dataview 中的对象操纵函数|Dataview 中的对象、数组操纵函数]]；
-- [[34 - Dataview 中的字符串操纵函数|Dataview 中的字符串操纵函数]]；
-- [[35 - Dataview 中的实用函数|Dataview 中的实用函数]]；
+
 
 ### [[Dataview语法实战|进阶-Dataview语法实战]]
 

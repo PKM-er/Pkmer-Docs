@@ -1,14 +1,13 @@
 ---
 uid: 20230901102531
 title: Obsidian 插件：Code Styler
-tags:
-  - obsidian插件
+tags: [obsidian插件]
 description: 在阅读视图和编辑视图中对代码块和内联代码进行样式设置。
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230911105134
+modified: 20240429175700
 ---
 
 # Obsidian 插件：Code Styler
@@ -165,7 +164,3 @@ modified: 20230911105134
 [![Code Preview Plugin](https://github-readme-stats.vercel.app/api/pin/?username=tillahoffmann&repo=obsidian-file-include&show_owner=true&bg_color=00000010&border_color=e3e7ef)](https://github.com/tillahoffmann/obsidian-file-include)
 
 [![Admonitions Plugin](https://github-readme-stats.vercel.app/api/pin/?username=javalent&repo=admonitions&show_owner=true&bg_color=00000010&border_color=e3e7ef)](https://github.com/javalent/admonitions)
-
-## 路线图
-
-请查看 [路线图讨论](../../discussions/8)。

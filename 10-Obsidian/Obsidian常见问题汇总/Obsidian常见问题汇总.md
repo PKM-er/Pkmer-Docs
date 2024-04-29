@@ -7,7 +7,7 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240423102811
+modified: 20240429174723
 ---
 
 # Obsidian 常见问题汇总
@@ -79,7 +79,7 @@ modified: 20240423102811
 
 ### Thino（原 Memos）
 
-- 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[thino-changelog]]
+- 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[0x-thino-changelog]]、[[0x-thino-web-changelog]]
 
 #### 发现异常
 
