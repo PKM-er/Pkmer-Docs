@@ -1,16 +1,27 @@
 ---
-public: yes
-tags: 
+uid: 20240429184002
+title: Obsidian 发布服务
+tags:
+  - Obsidian
+  - 核心插件
+  - 发布
+description: Obsidian 核心插件发布服务是为你的笔记提供的付费托管服务
+author: OS
+type: other
+draft: false
+editable: false
+modified: 20240429232308
 ---
+
 # Obsidian 发布服务
 
 Obsidian 发布服务是为你的笔记提供的付费托管服务。
 
-如果需要了解如何在 Obsidian 中发布笔记，请阅读[这篇笔记](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%8F%91%E5%B8%83)。
+如果需要了解如何在 Obsidian 中发布笔记，请阅读 [这篇笔记](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%8F%91%E5%B8%83)。
 
 ### 隐私
 
-即使使用[发布](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%8F%91%E5%B8%83)服务，你的隐私也是完全自主可控的。你可以自由选择需要发布的笔记，无论是几篇笔记还是整个库。那些你不想发布的笔记将永远不会为外界所知，Obsidian 也不会监测它们，它们将始终安全地保存在你的本地设备中。
+即使使用 [发布](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%8F%91%E5%B8%83) 服务，你的隐私也是完全自主可控的。你可以自由选择需要发布的笔记，无论是几篇笔记还是整个库。那些你不想发布的笔记将永远不会为外界所知，Obsidian 也不会监测它们，它们将始终安全地保存在你的本地设备中。
 
 ### 备份
 
@@ -26,7 +37,7 @@ Obsidian 发布服务作为内置功能可以让你选用库中的笔记来直�
 
 你可以对这个网站进行个性化设置，比如选择网站的配色方案，切换可见行宽。
 
-一些网站组件可以在[发布插件](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%8F%91%E5%B8%83)中启用或关闭。对这些选项的修改需要清除缓存后才会体现在发布的网站上，一般5分钟之内可以完成。
+一些网站组件可以在 [发布插件](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%8F%91%E5%B8%83) 中启用或关闭。对这些选项的修改需要清除缓存后才会体现在发布的网站上，一般 5 分钟之内可以完成。
 
 ##### 导航栏
 
@@ -38,11 +49,11 @@ Obsidian 发布服务作为内置功能可以让你选用库中的笔记来直�
 
 ##### 局部关系图
 
-开启后将展示每个页面的局部关系图。这与 Obsidian 中的[关系图谱](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1)使用的是同样的引擎。
+开启后将展示每个页面的局部关系图。这与 Obsidian 中的 [关系图谱](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1) 使用的是同样的引擎。
 
 ##### 大纲
 
-开启后将展示当前页面的大纲。大纲由页面中的小标题组成，这和 Obsidian 中的[大纲](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%A4%A7%E7%BA%B2)是一样的。
+开启后将展示当前页面的大纲。大纲由页面中的小标题组成，这和 Obsidian 中的 [大纲](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%A4%A7%E7%BA%B2) 是一样的。
 
 大纲会以高亮形式提示访问者当前正在浏览页面的哪一部分。访问者可以通过点击大纲来在页面上的内容间快速跳转。
 
@@ -56,7 +67,7 @@ Obsidian 发布服务作为内置功能可以让你选用库中的笔记来直�
 
 ##### 悬停预览
 
-开启这个组件后，访问者鼠标悬停在页面上的链接时，会看到一个弹出窗口，窗口中显示了链接的内容。这和[页面预览](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E9%A1%B5%E9%9D%A2%E9%A2%84%E8%A7%88)一样。
+开启这个组件后，访问者鼠标悬停在页面上的链接时，会看到一个弹出窗口，窗口中显示了链接的内容。这和 [页面预览](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E9%A1%B5%E9%9D%A2%E9%A2%84%E8%A7%88) 一样。
 
 ##### 自定义 CSS
 
@@ -70,11 +81,11 @@ Obsidian 发布服务作为内置功能可以让你选用库中的笔记来直�
 
 你也可以通过上传文件 `favicon.ico` 来修改网站图标。
 
-这些图标文件可以存放在库中的任何位置。当前（2020年）推荐的图标大小为 `32×32`，`128x128`，`152×152`，`167x167`，`180x180`，`192x192`，以及 `196x196`。
+这些图标文件可以存放在库中的任何位置。当前（2020 年）推荐的图标大小为 `32×32`，`128x128`，`152×152`，`167x167`，`180x180`，`192x192`，以及 `196x196`。
 
 ##### 自定义 JS
 
-如果你希望执行自己编写的 JavaScript 代码以提升访客的浏览体验，或是为自己的网站增加一些功能（如 Discus!、Discourese等），你可以创建一个 `publish.js` 文件并将其放至于库的根目录后将其上传。需要注意的是，这些脚本仅对于你网站的访客生效。
+如果你希望执行自己编写的 JavaScript 代码以提升访客的浏览体验，或是为自己的网站增加一些功能（如 Discus!、Discourese 等），你可以创建一个 `publish.js` 文件并将其放至于库的根目录后将其上传。需要注意的是，这些脚本仅对于你网站的访客生效。
 
 ##### 禁止搜索引擎索引
 
@@ -82,9 +93,9 @@ Obsidian 发布服务作为内置功能可以让你选用库中的笔记来直�
 
 ##### Google Analytics
 
-如果你希望为你的网站启用 Google Analytics，请先确保当地法律法规允许你这么做。然后，你需要将诸如`UA-XXXXX-Y` 的追踪代码填入相应的文本框中，随后你的网站就会被自动追踪访问情况。注意，Google Analytics 仅对从你自定义域名来的流量有效。
+如果你希望为你的网站启用 Google Analytics，请先确保当地法律法规允许你这么做。然后，你需要将诸如 `UA-XXXXX-Y` 的追踪代码填入相应的文本框中，随后你的网站就会被自动追踪访问情况。注意，Google Analytics 仅对从你自定义域名来的流量有效。
 
-测试 Google Analytics 的时候，请先关闭浏览器上的去广告扩展（比如 uBlock Origin等），这些扩展会影响 Google Analytics 的代码运行。
+测试 Google Analytics 的时候，请先关闭浏览器上的去广告扩展（比如 uBlock Origin 等），这些扩展会影响 Google Analytics 的代码运行。
 
 另外，发布服务目前还不能直接与 Google Tag Manage 兼容——如果你想使用 Google Tag Manage 而不是 Google Analytics，你可以使用自定义 javascript 设置它。
 
@@ -144,19 +155,19 @@ RewriteRule    "^my-notes/(.*)$"  "https://publish.obsidian.md/serve?url=my-doma
 
 发布服务仍处于早期阶段，以下是我们计划添加的一些功能：
 
--   完整的自定义域名支持（提供 SSL 证书）
--   全文检索
--   更多内置主题
+- 完整的自定义域名支持（提供 SSL 证书）
+- 全文检索
+- 更多内置主题
 
-如果你对发布服务有任何建议或意见，请通过在[论坛](https://forum.obsidian.md/)发帖让我们知道。
+如果你对发布服务有任何建议或意见，请通过在 [论坛](https://forum.obsidian.md/) 发帖让我们知道。
 
 ### 价格
 
-关于发布服务的价格，请看[我们的价格说明](https://obsidian.md/pricing)。
+关于发布服务的价格，请看 [我们的价格说明](https://obsidian.md/pricing)。
 
 ### 技术细节
 
-Obsidian 发布服务使用 CloudFlare 作为 CDN（内容分发网络）来在全球范围内分发你的网站，以实现网站的更快访问。其原理是在200多个数据中心缓存你网站的文件副本，从而保证你的网站在任何地方都有较快的加载速度。
+Obsidian 发布服务使用 CloudFlare 作为 CDN（内容分发网络）来在全球范围内分发你的网站，以实现网站的更快访问。其原理是在 200 多个数据中心缓存你网站的文件副本，从而保证你的网站在任何地方都有较快的加载速度。
 
 但这意味着当你修改网站设置、发布或取消发布内容时，访问者可能无法立即看到最新版本的网站。目前，我们将网站缓存设置为一个小时，超过一个小时后就必须重新验证，从而确保所访问版本是最新的。
 
@@ -166,4 +177,4 @@ Obsidian 发布服务使用 CloudFlare 作为 CDN（内容分发网络）来在�
 
 ### 相关信息
 
-你可以阅读[发布](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%8F%91%E5%B8%83)来获取更多关于如何发布笔记的信息。
+你可以阅读 [发布](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%8F%91%E5%B8%83) 来获取更多关于如何发布笔记的信息。
