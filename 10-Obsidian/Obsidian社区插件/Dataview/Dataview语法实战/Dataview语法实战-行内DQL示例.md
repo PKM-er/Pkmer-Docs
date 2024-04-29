@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231209174715
+modified: 20240429180817
 ---
 
 # Dataview 语法实战：行内 DQL 示例
@@ -35,7 +35,7 @@ e ≈ `= 1 + 1/1 + 1/(1*2) + 1/(1*2*3) + 1/(1*2*3*4) + 1/(1*2*3*4*5)`
 
 ![Dataview 的行内 DQL 示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230914212150.png!pkmer)
 
-- 在文中插入一些日期，比如在你的起始页中你可以加上一些倒计时或者正计时（详见 [[用 Dataview 制作一个倒计时或者正计时列表]]）
+- 在文中插入一些日期，比如在你的起始页中你可以加上一些倒计时或者正计时（详见 [[Dataview实战-制作一个倒计时或者正计时列表]]）
 
 ```
 今天还剩 `= round((date(tomorrow)-date(now)).seconds)` 秒，也就是 `= round((date(tomorrow)-date(now)).minutes)` 分钟。

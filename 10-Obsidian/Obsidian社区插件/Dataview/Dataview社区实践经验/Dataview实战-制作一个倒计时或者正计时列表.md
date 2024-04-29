@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20230918130039
+modified: 20240429180406
 ---
 
 # Dataview 实战：制作一个倒计时或者正计时列表
@@ -70,7 +70,7 @@ Dataview 是你进阶使用 Obsidian 中不可缺少的一步，通常我们会�
 		- (dur(now) - dur(today)).seconds：获得今天 00:00 到现在所过的时间，并且转化为秒；
 		- (dur(now) - dur(today)).minutes：获得今天 00:00 到现在所过的时间，并且转化为分钟；
 		- (dur(now) - dur(today)).hours：获得今天 00:00 到现在所过的时间，并且转化为小时；
-- 利用 Dataview 提供的四舍五入的 [[25 - Function 函数|函数]] round() 令结果只显示需要的位数
+- 利用 Dataview 提供的四舍五入的 [[30 - Function 函数]] round() 令结果只显示需要的位数
 	- round(number, \[digits])：number 就是四舍五入的数字，digits 就是舍入的位数，可以不填。例如 `round(4.555) = 5`，`round(4.555, 2) = 4.56`。
 
 利用上面的这些简单的部分进行组合，就可以获得剩余时间或者已经过了的时间。当然，我们也不一定非要用 Dataview 提供的这些时间字面量，我们可以用已经确定的时间节点。

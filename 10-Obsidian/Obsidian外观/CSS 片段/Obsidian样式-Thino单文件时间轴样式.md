@@ -7,22 +7,20 @@ author: Cuman
 type: other
 draft: false
 editable: false
-modified: 20231206100026
+modified: 20240429174210
 ---
 
 # Obsidian 样式：Thino 单文件时间轴样式
 
 ## 前言
 
-[[thino|Thino]] ，也就是社区更熟知的 Obsidian Memos，经过 PKmer 团队的开发，目前已经迭代到了 2.1.3 版本 并增加了下面特性：
+[[obsidian-memos|Thino]] ，也就是社区更熟知的 Obsidian Memos，经过 PKmer 团队的开发，目前已经迭代到了 2.1.3 版本 并增加了下面特性：
 
 - 可以选定某一个保存位置，而不是仅限于日记模式
 - 可以选定单文件模式
 - 单文件模式中，每一个 thino 会保存成 callout
 
 引入了单文件特性后，每个随笔将被写入一个独立的文件中。这使得我们能够实现一个时间轴效果，让每天的笔记日程一目了然。
-
-
 
 ![](https://cdn.pkmer.cn/images/202312060854791.png!pkmer)
 

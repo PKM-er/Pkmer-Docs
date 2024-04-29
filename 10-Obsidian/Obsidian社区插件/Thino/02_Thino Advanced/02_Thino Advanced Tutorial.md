@@ -46,6 +46,5 @@ id: 872b94ce8d5643c8
 
 ## Thino 与其他软件联动
 
-[[使用 Quicker 与 Thino 进行联动]]
-
-[[使用简悦 SimpRead 与 Thino 进行联动]]
+- [[使用 Quicker 与 Thino 进行联动]]
+- [[使用简悦 SimpRead 与 Thino 进行联动]]
