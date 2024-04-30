@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231209174809
+modified: 20240429184531
 ---
 
 # Dataview 表格进阶查询示例
@@ -136,4 +136,4 @@ SORT author
 
 ![Dataview 表格进阶查询示例](https://cdn.pkmer.cn/images/Pasted%20image%2020230927160404.png!pkmer)
 
-更多的排序可以看 [[Dataveiw 自定义排序进阶操作]]
+更多的排序可以看 [[Dataview语法实战-自定义排序进阶操作实例]]
