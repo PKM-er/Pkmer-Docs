@@ -7,7 +7,7 @@ author: Brown Bear
 type: basic
 draft: false
 editable: false
-modified: 20230914161203
+modified: 20240501012634
 ---
 
 # Templater 基本语法格式
@@ -39,8 +39,6 @@ modified: 20230914161203
 ```
 
 >  前面是展示文本，后面是最终输入的文本，两者可以相等，字符串需要用引号，字符串之间用逗号。这里面也可以放 emoji。
->
->  参见 [[Templater插件两次单选语法|Templater插件两次单选语法]]
 
 **弹出文本框（可输入数值）**
 
