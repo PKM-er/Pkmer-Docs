@@ -1,13 +1,14 @@
 ---
 uid: 20240501080636
-title: thino 与 anki 的联动
+title: 教程：thino 与 anki 的联动
 tags: [Anki, thino]
 description: 介绍了将thino卡片导入至anki中，借助anki进行定期回顾
 author: Dusk
 type: basic
 draft: false
 editable: false
-modified: 20240501093425
+modified: 20240504234745
+id: fb6b870b244ffca0
 ---
 
 # 教程：thino 与 anki 的联动

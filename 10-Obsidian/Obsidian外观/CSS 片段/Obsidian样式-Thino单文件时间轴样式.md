@@ -91,6 +91,6 @@ modified: 20240429174210
 
 更多的 Thino 介绍参考
 
-[[thino]]
+[[obsidian-memos|thino]]
 
 [[03_Thino FAQ]]
