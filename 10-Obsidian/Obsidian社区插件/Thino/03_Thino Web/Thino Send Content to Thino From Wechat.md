@@ -1,18 +1,13 @@
 ---
 uid: 20240115111138
 title: Thino 微信内容发送到 Thino
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - 同步
-  - 微信
+tags: [Obsidian, Obsidian插件, Thino, 同步, 微信]
 description: Thino 微信内容发送到 Thino
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240201102424
+modified: 20240505011252
 id: 0ad80ec603ac5a5a
 ---
 
@@ -42,14 +37,20 @@ id: 0ad80ec603ac5a5a
 4. 绑定微信，有两种方式
 ![image.png](https://cdn.pkmer.cn/images/20240322202213.png!pkmer)
 - 进入个人中心
-	- 方案 1：在个人中心 - > Thino Web 服务 - > 点击 `绑定 Thino 微信端`
+	- 方案 1：在个人中心 - > Thino Web 服务 - > 点击 `绑定 Thino 公众号`
 	- 并扫描弹出的二维码
 	  ![image.png|200](https://cdn.pkmer.cn/images/20240115120729.png!pkmer)
-- 方案 2：绑定 Thino 助手
-	- 关注企业微信 Thino 助手
+	- 方案 2：绑定 Thino 助手
+		- 关注企业微信 Thino 助手
+
+> [!Note] Thino 助手 和 Thino 公众号方式的区别
+> - 支持微信内部的转发：Thino 助手支持从微信内直接转发消息和图片到 Thino 本地
+> - 转发速度：Thino 助手虽然支持微信转发功能，但是同步速度不如微信公众号及时
 
 > [!Warning] 注意
-> - 对于微信同步能力，依赖 Thino web 服务，目前 Web 服务对早鸟用户是免费试用的，一旦我们公布价格，那么请您务必关注您的 Web 服务付费状态。
+> - 对于微信同步能力，依赖 Thino Web 服务，目前 Web 服务对早鸟用户是免费试用的
+> - PKMer 公布价格后，不要您补交之前是使用费用
+> - 同理，请您务必关注您的 Web 服务付费状态
 
 ### 微信中使用
 
