@@ -20,7 +20,7 @@ modified: 20240306135840
 
 ### 2024.01.06
 
-- PKMer 社区完成了对应 usermemos 开源项目的捐助，关于捐助缘由可以查看和支持 [[00_Thino 用户指南]] 项目
+- PKMer 社区完成了对应 usermemos 开源项目的捐助，关于捐助缘由可以查看和支持 [[obsidian-memos|00_Thino 用户指南]] 项目
 ![image.png|400](https://cdn.pkmer.cn/images/20240107003024.png!pkmer)
 
 ## 社区奖励发放日志

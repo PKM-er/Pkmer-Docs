@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20240429173718
+modified: 20240429184311
 ---
 
 # Obsidian 的仓库目录结构
@@ -19,7 +19,7 @@ modified: 20240429173718
 - .trash
 - .obsidian
 	- plugins（文件夹）
-	- snippests（文件夹）
+	- snippets（文件夹）
 	- themes（文件夹）
 当然还有很多文件，但是当前的版本下，你最需要认识这三个文件夹。
 
@@ -33,8 +33,8 @@ modified: 20240429173718
 
 ## themes
 
-存放了你所有 [[01、Obsidian 的主题]]
+存放了你所有的 Obsidian 主题，见 [[Obsidian 主题的安装]] 以及 [[Obsidian优秀外观分享]]
 
-## snippests
+## snippets
 
 存放你所有的样式修改片段，社区或者一些小的样式修改，或别人好看的样式，是通过这里实现的。
