@@ -10,7 +10,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240426092726
+modified: 20240501110031
 id: dacd7a42e067cce1
 sidebar:
   order: 2
@@ -53,7 +53,7 @@ sidebar:
 		- 指的是 2.x 版本内所有版本不需要再额外付费
 		- 注意买断不等于订阅，即便推出了 3.x ，2.x 依然是可用的
 - Thino Web 服务
-	- 包含微信同步，你可以通过关注 Thino 助手，然后直接在微信中转发聊天内容给 Thino 助手，并同步到 Thion 中。
+	- 包含微信同步，你可以通过关注 Thino 助手，然后直接在微信中转发聊天内容给 Thino 助手，并同步到 Thino 中。
 	- Thino 同步服务，Thino 中信息多端同步，可独立购买。
 	- 针对提前支持 Thino Pro 的用户会免费试用到 Thino Web 服务价格出台为止。目前定价尚未公布
 - 未来，也许整合 PKMer 会员打包购买，会包括 Thino Pro 和 Thino Web 服务，设置一个打包的优惠价格，目前定价尚未决定
@@ -113,13 +113,19 @@ sidebar:
 - [[03_Thino Web Services|03_Thino Web 服务]]
     - [[Thino Sync|Thino 同步]]
     - [[Thino Send Content to Thino From Wechat|Thino 微信内容发送到Thino]]
-- 04_Thino 高级使用教程
-    - [[使用简悦 SimpRead 与 Thino 进行联动]]
-    - [[静读天下摘录批注记录到THino]]
-    - [[Obsidan Thino-基础工作流-日记周记速记的自动化汇总]]
+- [[04_Thino Tips|Thino 使用技巧]]
+	- 工作流
+		- [[Thino工作流实战-Thino与anki的联动]]
+	    - [[Obsidan Thino-基础工作流-日记周记速记的自动化汇总]]
+	    - [[使用简悦 SimpRead 与 Thino 进行联动]]
+	    - [[静读天下摘录批注记录到THino]]
+	- 自定义样式
     - [[Obsidian样式-Thino单文件时间轴样式]]
     - [[Obsidian样式-Thino列表模式日期样式调整]]
     - [[Obsidian样式-Thino现代风格美化]]
+    - [[Obsidian样式-Thino伪悬浮编辑框]]
+    - [[Obsidian样式-Thino展开增强]]
+    - [[Obsidian样式-Thino插件隐藏标志位]]
 - 更多教程
 	- [文章列表](https://pkmer.cn/tags/thino/)
 
