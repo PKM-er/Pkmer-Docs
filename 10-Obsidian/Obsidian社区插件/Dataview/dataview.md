@@ -7,7 +7,7 @@ author: Windysoul,Huajin,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231209174945
+modified: 20240506112118
 ---
 
 # Obsidian 插件：Dataview
@@ -16,7 +16,7 @@ modified: 20231209174945
 > 插件 ID：dataview
 > 插件作者：Michael Brenan
 > 插件描述：为 Obsidian 提供数据查询能力，这需要学习一些较为简单的语法，但可以实现丰富的查询和组合效果。包括生成表格，标签，跟踪特定的笔记变化，选择具体笔记内容。
-> 插件版本：0.5.55
+> 插件版本：0.5.66
 > 插件源码地址：[obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
 > 插件文档地址：[Dataview Doc](https://blacksmithgu.github.io/obsidian-dataview/)
 > 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dataview)
@@ -58,8 +58,8 @@ Dataview 插件的用途主要有三个方面。
 - [[22 - 查询字段]]
 - [[23 - 操作符]]
 - [[24 - 表达式]]
-- [[30 - Function 函数]]
-- [[31 - DQL 与 SQL 的异同]]
+- [[30 - Dataview 提供的函数 Function]]
+- [[31 - Dataview 中的构造函数]]
 - [[32 - Dataview 中的数值运算函数]]
 - [[33 - Dataview 中的对象操纵函数]]
 - [[34 - Dataview 中的字符串操纵函数]]
@@ -68,6 +68,7 @@ Dataview 插件的用途主要有三个方面。
 - [[41 - DQL 与 SQL 的异同]]
 - [[42 - ISO 8601]]
 - [[43 - YAML 基础]]
+- [[44 - Dataview 设置介绍]]
 
 ### [[Dataview语法实战]]
 
@@ -85,7 +86,6 @@ Dataview 插件的用途主要有三个方面。
 - [[Dataview语法实战-FLATTEN操作符进阶示例]]；
 - [[Dataview语法实战-GROUP BY 操作符简单示例]]；
 - [[Dataview语法实战-GROUP BY 操作符进阶示例]]；
-
 
 ### [[Dataview语法实战|进阶-Dataview语法实战]]
 
@@ -129,4 +129,3 @@ Dataview 插件的用途主要有三个方面。
 - [[Obsidian样式-可滚动的Dataview表格视图|Dataview实战-给 Dataview 加个滚动条]]
 - [[Dataview实战-进度条]]
 - [[Dataview语法实战-列出特定标题下的元素]]
-- 

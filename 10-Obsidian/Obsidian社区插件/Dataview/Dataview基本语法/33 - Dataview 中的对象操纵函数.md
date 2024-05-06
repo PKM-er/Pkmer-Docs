@@ -1,13 +1,13 @@
 ---
 uid: 20230929115953
 title: Dataview 中的对象操纵函数
-tags: []
+tags: [obsidian, 插件, dataview, 语法, function]
 description: 
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231217161457
+modified: 20240506195406
 ---
 
 # Dataview 中的对象操纵函数
@@ -120,8 +120,6 @@ containsword(["word", "Words"], "Word")                    => [true, false]
 containsword(["Word", "Words in word"], "WORD")            => [true, true]
 ```
 
----
-
 ### `extract(object, key1, key2, ...)`
 
 - **功能**：
@@ -190,8 +188,6 @@ length([])                                      = 空数组的长度为 0
 length([1, 2, 3])                               = 这个数组有三个元素，返回 3
 length(object("hello", 1, "goodbye", 2))        = 对象有两个属性，返回 2
 ```
-
----
 
 ### `nonnull(array)`
 
@@ -300,8 +296,6 @@ none([true, true], (x) => x = false)      => lambda 表达式作用在数组上�
 none(["Apple", "Pi", "Banana"], (x) => startswith(x, "A"))   => false
 ```
 
----
-
 ### `join(array, [delimiter])`
 
 - **功能**：
@@ -371,4 +365,23 @@ map(["yes", "no"], (x) => x + "?")     = 为每个字符串拼接一个问号，
 flat(list(1, 2, 3, list(4, 5), 6))                            => 把元素都连接到同一层，结果为 list(1, 2, 3, 4, 5, 6)
 flat(list(1, list(21, 22), list(list (311, 312, 313))), 4)    => 多层数组也可以变为同一层，结果为 list(1, 21, 22, 311, 312, 313)
 flat(rows.file.outlinks))                                     => 把所有文件外链放到第一层
+```
+
+### `slice(array, [start, [end]])`
+
+- **功能**：
+
+数组切片，例如把数组 `[1,2,3,4]` 切出来一片 `[3,4]`。比如一个检索结果为一个数组，但是你不想要显示太多，你可以利用切片保留前几个。另一个用途就是用于复制。下标从 0 开始。
+
+- **输入值**：
+
+array 为待切分的数组。第二个输入值为 `[start, [end]]`。如果只填一个 start，代表保留从 start 开始到结尾的数组（包括 start 的元素），注意 start 为负数时为从后往前数的下标；如果还填了 end，则代表需要保留从 start 到 end 这部分数组内容（不包括 end 对应的元素）
+
+- **示例**：
+
+```
+slice([1, 2, 3, 4, 5], 3) // [4, 5]，表示下标从 3 开始到结尾的子数组
+slice(["ant", "bison", "camel", "duck", "elephant"], 0, 2) // ["ant", "bison"] 
+slice([1, 2, 3, 4, 5], -2) // [4, 5] 从最后往前数两位
+slice([1, 2, 3]) // [1, 2, 3] 复制一份数组
 ```
