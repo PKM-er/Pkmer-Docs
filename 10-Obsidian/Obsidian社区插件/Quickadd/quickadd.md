@@ -65,6 +65,7 @@ modified: 20240417180235
 1. [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
 2. [[QuickAdd脚本-插入Zotero的条目PDF链接]]
 3. [[QuickAdd脚本-Project项目选项栏]]
+4. [[基于 QuickAdd+Modal Form的任务 (Task) 编辑器]]
 
 ## 参考资料
 
