@@ -53,6 +53,9 @@ module.exports = {
 
     // 插入banner属性
     const banner = settings["图片属性"] ? settings["图片属性"] : "banner";
+    // 保存文件
+    await app.commands.executeCommandById('editor:save-file');
+    await new Promise(r => setTimeout(r, 300));
     await app.fileManager.processFrontMatter(file, fm => {
 
       // 如果不存在banner属性，则插入，如果不是特别需要的话，可以注释这段
