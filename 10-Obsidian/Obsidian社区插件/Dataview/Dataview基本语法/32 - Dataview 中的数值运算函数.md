@@ -1,13 +1,13 @@
 ---
 uid: 20230929115928
 title: Dataview 中的数值运算函数
-tags: []
+tags: [obsidian, 插件, dataview, 语法, function]
 description: 
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231217161310
+modified: 20240506104837
 ---
 
 # Dataview 中的数值运算函数

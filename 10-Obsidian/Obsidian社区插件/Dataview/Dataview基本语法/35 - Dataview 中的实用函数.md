@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231217161647
+modified: 20240506135407
 ---
 
 # Dataview 中的实用函数
@@ -55,6 +55,23 @@ choice(x > 4, y, z) = y             // 如果 x > 4，返回 y，否则返回 z
 
 // complete 是一个判断任务是否完成的属性，可以用 choice 来自定义输出样式
 choice(complete, "✔", "✖")  
+```
+
+### `hash(seed, [text], [variant])`
+
+- **功能**：
+
+根据 seed 的值生成一个哈希值，可以添加 text 和 number 两个额外变量用于生成不同的哈希值。这个函数的作用在于可以为两个文件名相同但是实际内容不同的文件生成不同的哈希值，以此来区分两个文件。
+
+- **输入值**：三个输入值都是字符串
+
+结果测试，只输入一个输入值时会报错，疑似 bug。
+
+- **示例**：
+
+```
+hash("111", "111") \\ 返回哈希值 8824078040178259
+hash(dateformat(date("2024-05-06"), "YYYY-MM-DD"), "today") \\ 返回哈希值 4819656432902407
 ```
 
 ### `striptime(date)`
@@ -145,6 +162,20 @@ durationformat(dur("14d"), "s 'seconds'")
 // s 代表秒数，14d 也就是 1209600.
 // 'seconds' 有单引号是字符串不是占位符，会被保留。
 // 最终结果为："1209600 seconds"
+```
+
+### `currencyformat(number, [currency])`
+
+- **功能**：
+
+根据你当前的语言环境显示数字，也可以手动指定语言环境，不同地区的格式对应的编码见 [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217#List_of_ISO_4217_currency_codes)，例如中文为 "CNY"；
+
+- **输入值**：number 为数字，currency 可选
+
+```
+currencyformat(123,456.79, "CNY") \\ ¥123,456.79 多了个人民币符号
+currencyformat(123,456.79, "EUR") \\ €123,456.79 多了个欧元符号
+currencyformat(123,456.79, "USD") \\ US$123,456.79 多了个美元符号
 ```
 
 ### `localtime(date)`
