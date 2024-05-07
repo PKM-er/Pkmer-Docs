@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240506201239
+modified: 20240506222702
 ---
 
 # Obsidian 社区插件
@@ -169,6 +169,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-tracker]]：将笔记中的变化收集起来，并且提供不同预设的图形分析模板
 - [[order-list]]：添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
 - [[obsidian-party]]：Obsidian 上的 party.js 实现。在您的笔记中创建五彩纸屑、火花，甚至自定义效果！
+- [[zettelkasten-navigation]]：可视化和导航一个卢曼风格的笔记库
 
 ### 任务类&提醒
 
@@ -250,6 +251,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[graph-analysis]]：将图形分析能力添加到 Obsidian，此插件实现了一套算法，可以计算仓库中的笔记之间的关联关系
 - [[obsidian-relation-pane]]：显示一个总结笔记间关系的面板
+- [[zettelkasten-navigation]]：可视化和导航一个卢曼风格的笔记库
 
 ### 导出&分享&发布
 
