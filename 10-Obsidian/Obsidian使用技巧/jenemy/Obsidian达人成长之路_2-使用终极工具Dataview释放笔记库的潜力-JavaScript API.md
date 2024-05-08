@@ -7,7 +7,7 @@ author: jenemy
 type: other
 draft: false
 editable: false
-modified: 20240508220932
+modified: 20240508235748
 ---
 
 # Obsidian 达人成长之路_2：使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API

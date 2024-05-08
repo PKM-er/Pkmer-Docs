@@ -7,10 +7,10 @@ author: jenemy
 type: other
 draft: false
 editable: false
-modified: 20240508220555
+modified: 20240508235724
 ---
 
-# Obsidian 达人成长之路 _1：使用终极工具 Dataview 释放笔记库的潜力 · DQL 查询语言
+# Obsidian 达人成长之路 1使用终极工具 Dataview 释放笔记库的潜力 · DQL 查询语言
 
 ️DataView 是 Obsidian 社区中的热门插件，它为用户提供了一个强大的实时索引和查询引擎。通过在文档中设置属性（或称为元数据），DataView 能够检索并处理这些数据。借助 DataView，用户可以轻松列出、筛选、排序和分组数据，这与使用数据库查询语言类似。
 
