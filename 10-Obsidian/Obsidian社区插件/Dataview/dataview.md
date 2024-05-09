@@ -129,3 +129,8 @@ Dataview 插件的用途主要有三个方面。
 - [[Obsidian样式-可滚动的Dataview表格视图|Dataview实战-给 Dataview 加个滚动条]]
 - [[Dataview实战-进度条]]
 - [[Dataview语法实战-列出特定标题下的元素]]
+
+## Dataview 达人之路系列
+
+[[Obsidian达人成长之路_1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言]]
+[[Obsidian达人成长之路_2-使用终极工具Dataview释放笔记库的潜力-JavaScript API]]
