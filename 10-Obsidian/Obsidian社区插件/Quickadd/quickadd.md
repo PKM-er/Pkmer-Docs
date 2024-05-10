@@ -215,4 +215,4 @@ module.exports = async (params) => {
 <iframe src="https://player.bilibili.com/player.html?aid=574602710&bvid=BV1qz4y1W7mf&cid=1229764901&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 - 【【从零开始学 OB】—— QuickAdd (下) 助力提升笔记效率】
-<iframe src="//player.bilibili.com/player.html?aid=363444368&bvid=BV1U94y1W7ba&cid=1264742241&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=363444368&bvid=BV1U94y1W7ba&cid=1264742241&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>

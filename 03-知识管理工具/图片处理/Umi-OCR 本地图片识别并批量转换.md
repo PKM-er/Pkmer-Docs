@@ -23,7 +23,7 @@ Umi-OCR 是一款功能强大且易于使用的工具，可以使用它来识别
 
 ==视频说明==
 
-<iframe src="//player.bilibili.com/player.html?aid=743993235&bvid=BV1Rk4y1g72v&cid=1209613692&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=743993235&bvid=BV1Rk4y1g72v&cid=1209613692&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 
 ![Pasted image 20230725162817](https://cdn.pkmer.cn/images/202307292110639.png!pkmer)
