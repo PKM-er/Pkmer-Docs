@@ -7,14 +7,14 @@ author:
 type: basic
 draft: false
 editable: true
-modified: 20240510104405
+modified: 20230328202827
 ---
 
 # Markdown 基础入门
 
 > [!info]
 > - 本文只包含 Markdown 基础语法，并不包含笔记软件特定语法，这样区分以便读者选择通用语法使用，以便后续迁移笔记软件。
-> - 更全面的入门文档可以看这篇 [[Markdown超级教程 Obsidian版]]
+> 更全面的入门文档可以看这篇 [[Markdown超级教程 Obsidian版]]
 
 ## 什么是 Markdown?
 

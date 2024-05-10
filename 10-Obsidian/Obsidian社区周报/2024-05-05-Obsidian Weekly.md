@@ -16,6 +16,8 @@ modified: 20240506002648
 > **统计时间**：2024-04-28 21:00 ~ 2024-05-05 21:00
 > **声明**：本栏目灵感来源于 _Eleanor Konik_ 女士于 2021 年 4 月至 2023 年 6 月期间写作发表的一系列 [Obsidian Roundup](https://www.eleanorkonik.com/tag/roundup/) 文章，如有兴趣可关注原作者的个人网站 [Obsidian Iceberg](https://www.eleanorkonik.com/)；内容来源于 Obsidian 官方 Discord 频道和相应项目在 Github 或其独立网站上的信息。描述中可能存在基于个人理解进行的修改，如有错谬欢迎指正。感谢 Obsidian 团队为我们带来如此优秀的软件。
 
+<iframe src="https://player.bilibili.com/player.html?aid=1754478448&bvid=BV1pt421g7xu&cid=1537064353&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
 ## 插件新闻
 
 ### 社区插件
