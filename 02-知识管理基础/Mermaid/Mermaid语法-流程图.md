@@ -1,14 +1,14 @@
 ---
 uid: 20240510103400
 title: Mermaid 流程图
-tags: ["Mermaid"]
+tags:
+  - Mermaid
 description: Mermaid 流程图教程
 author: 成双酱
 type: other
 draft: false
 editable: false
-modified: 20240510104542
-
+modified: 20240510104543
 ---
 
 # Mermaid 流程图

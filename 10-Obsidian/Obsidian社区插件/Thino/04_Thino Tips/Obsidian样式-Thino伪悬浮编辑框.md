@@ -1,13 +1,16 @@
 ---
 uid: 20240323135452
 title: Obsidian 样式 - Thino 伪悬浮编辑框
-tags: [obsidian, thino]
+tags:
+  - obsidian
+  - thino
 description: thino 伪悬浮编辑器，快捷键唤出编辑器
 author: Huajin
 type: other
 draft: false
 editable: false
 modified: 20240429001349
+id: 1e4c103e3fe3a67e
 ---
 
 # Obsidian 样式 - Thino 伪悬浮编辑框

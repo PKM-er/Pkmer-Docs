@@ -1,13 +1,17 @@
 ---
 uid: 20240501103908
 title: Thino 工作流实战：Thino 与 anki 的联动
-tags: [Obsidian, Thino, anki]
+tags:
+  - Obsidian
+  - Thino
+  - anki
 description: Thino 工作流实战：Thino 与 anki 的联动
 author: dusk
 type: other
 draft: false
 editable: false
 modified: 20240501104432
+id: 858b4177c00bddca
 ---
 
 # Thino 工作流实战：Thino 与 anki 的联动

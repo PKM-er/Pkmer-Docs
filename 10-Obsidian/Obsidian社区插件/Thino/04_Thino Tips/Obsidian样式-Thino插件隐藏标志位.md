@@ -1,13 +1,17 @@
 ---
 uid: 20240124113835
 title: Obsidian 样式：Thino 插件隐藏标志位
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Obsidian 插件：Thino 隐藏标志位
 author: OS
 type: other
 draft: false
 editable: false
 modified: 20240429174418
+id: 891a3f25cc0170c1
 ---
 
 # Obsidian 样式：Thino 插件隐藏标志位

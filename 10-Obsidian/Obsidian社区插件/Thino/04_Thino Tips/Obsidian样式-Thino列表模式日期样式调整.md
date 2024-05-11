@@ -1,13 +1,16 @@
 ---
 uid: 20240323140900
 title: Obsidian 样式 -Thino 列表模式日期样式调整
-tags: [obsidian, thino]
+tags:
+  - obsidian
+  - thino
 description: Obsidian 样式 -Thino 列表模式日期样式调整
 author: Huajin
 type: other
 draft: false
 editable: false
 modified: 20240429001251
+id: 7a1f1f53555c62f6
 ---
 
 # Obsidian 样式 -Thino 列表模式日期样式调整

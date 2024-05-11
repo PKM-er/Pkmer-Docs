@@ -1,13 +1,15 @@
 ---
 uid: 20240501104206
 title: 04_Thino Tips
-tags: [Thino]
-description: Thino Tips 使用技巧和工作流分享 
+tags:
+  - Thino
+description: Thino Tips 使用技巧和工作流分享
 author: OS,PKMer
 type: other
 draft: false
 editable: false
 modified: 20240501110149
+id: 07bdbe0488c3fc32
 ---
 
 # 04_Thino Tips

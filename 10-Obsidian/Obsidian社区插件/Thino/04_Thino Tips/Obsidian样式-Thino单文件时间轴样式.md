@@ -1,13 +1,17 @@
 ---
 uid: 20231205164730
 title: Obsidian 样式：Thino 单文件时间轴样式
-tags: [obsidian, Thino, 美化]
+tags:
+  - obsidian
+  - Thino
+  - 美化
 description: Thino单文件时间轴样式
 author: Cuman
 type: other
 draft: false
 editable: false
 modified: 20240429174210
+id: 810e4db1642e2400
 ---
 
 # Obsidian 样式：Thino 单文件时间轴样式

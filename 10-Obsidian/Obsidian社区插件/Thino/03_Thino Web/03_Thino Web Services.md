@@ -1,7 +1,12 @@
 ---
 uid: 20240218210746
 title: Thino Web 服务
-tags: [Obsidian, Obsidian插件, Thino, 同步, 微信]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - 同步
+  - 微信
 description: Thino Web 服务
 author: OS,PKMer
 type: other
