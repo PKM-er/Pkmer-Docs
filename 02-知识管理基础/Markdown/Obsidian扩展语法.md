@@ -211,11 +211,18 @@ Obsidian 除了支持之前所说的 [[Markdown]] 基本语法，还有一些基
 
 1. 找到 B 站相关视频，然后点击分享
 2. 复制嵌入代码
-例子：`<iframe src="//player.bilibili.com/player.html...." scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>`
+例子：
+```html
+<iframe src="//player.bilibili.com/player.html...." scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+```
 
 ![image.png|566](https://cdn.pkmer.cn/images/20230516141418.png!pkmer)
 
-1. 修改嵌入代码为：`<iframe src="**http:**//[http://player.bilibili.com/player.html...](https://link.zhihu.com/?target=http%3A//player.bilibili.com/player.html...)." scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>`
+1. 修改嵌入代码为：
+```html
+<iframe src="http://player.bilibili.com/player.html..." scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+```
+
 
 在 `src=“` 后增加 `http:`
 

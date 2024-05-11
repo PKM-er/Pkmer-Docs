@@ -363,7 +363,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 	- [[Templater实现关键词自动化套用模板]]
 - [[quickadd]]：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
 - [[dataview]]：高性能的索引 md 文件，并创建复杂的查询视图，如表格，列表，任务，日历视图
-	- [[Dataview语法参考库]]
 	- [[Dataview基本语法|开篇-Dataview基本语法]]
 	- [[Dataview语法实战|进阶-Dataview语法实战]]
 	- [[Dataview社区实践经验|应用-Dataview社区实践经验]]

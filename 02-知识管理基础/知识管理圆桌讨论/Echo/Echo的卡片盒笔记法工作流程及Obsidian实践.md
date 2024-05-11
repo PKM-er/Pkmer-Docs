@@ -23,7 +23,7 @@ modified: 20230620195938
 这篇文章和大家分享一下我的实践成果，工作流程和笔记软件是如何配合搭建动态知识系统的。
 
 > [!note] 搭建动态知识系统：卡片盒笔记法的工作流程及Obsidian实践
-> <iframe src="//player.bilibili.com/player.html?aid=611118023&bvid=BV1C84y1c7hj&cid=1056093105&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+> <iframe src="https://player.bilibili.com/player.html?aid=611118023&bvid=BV1C84y1c7hj&cid=1056093105&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 
 
