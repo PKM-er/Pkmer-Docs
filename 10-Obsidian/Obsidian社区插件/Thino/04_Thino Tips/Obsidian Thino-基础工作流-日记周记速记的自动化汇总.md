@@ -1,22 +1,17 @@
 ---
 uid: 20240325153616
-title: Obsidan 插件 Thino- 基础工作流 - 日记周记速记的自动化汇总
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - memos
-  - calendar
-description: Obsidan 插件 Thino- 基础工作流 - 日记周记速记的自动化汇总
+title: Obsidian 插件 Thino- 基础工作流 - 日记周记速记的自动化汇总
+tags: [Obsidian, Obsidian插件, Thino, memos, calendar]
+description: Obsidian 插件 Thino- 基础工作流 - 日记周记速记的自动化汇总
 author: 上善若水
 type: other
 draft: false
 editable: false
-modified: 20240325153616
+modified: 20240513001009
 id: 530288b3465a7d22
 ---
 
-# Obsidan 插件 Thino- 基础工作流 - 日记周记速记的自动化汇总
+# Obsidian 插件 Thino- 基础工作流 - 日记周记速记的自动化汇总
 
 ## 前情提要
 
