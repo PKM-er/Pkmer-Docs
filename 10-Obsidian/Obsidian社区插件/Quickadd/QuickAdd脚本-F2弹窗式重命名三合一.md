@@ -1,16 +1,13 @@
 ---
 uid: 20240401221223
 title: QuickAdd 脚本 -F2 弹窗式重命名三合一
-tags:
-  - 重命名
-  - 增强编辑
-  - quickadd脚本
+tags: [重命名, 增强编辑, quickadd脚本]
 description: F2 重命名三合一 (小标题、嵌入文件、当前文档)
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240401221223
+modified: 20240512140545
 ---
 
 # QuickAdd 脚本 -F2 弹窗式重命名三合一

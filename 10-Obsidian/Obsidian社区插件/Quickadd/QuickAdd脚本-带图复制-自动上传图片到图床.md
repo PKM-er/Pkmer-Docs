@@ -1,15 +1,13 @@
 ---
 uid: 20240512102955
-title: QuickAdd脚本-带图复制-自动上传图片到图床
-tags:
-  - 图床
-  - 笔记分享
+title: QuickAdd 脚本 - 带图复制 - 自动上传图片到图床
+tags: [图床, 笔记分享]
 description: 带图复制 - 自动上传图片到图床，便于复制到其他在线平台
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240512133921
+modified: 20240512140551
 ---
 
 # QuickAdd 脚本 - 带图复制 - 自动上传图片到图床
