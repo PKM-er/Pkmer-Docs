@@ -31,7 +31,7 @@ F2 重命名三合一 (小标题、嵌入文件、当前文档)
  * @Author: 熊猫别熬夜 
  * @Date: 2024-03-27 11:51:21 
  * @Last Modified by: 熊猫别熬夜
- * @Last Modified time: 2024-04-28 13:41:19
+ * @Last Modified time: 2024-05-12 13:35:58
  */
 const path = require('path');
 const quickAddApi = app.plugins.plugins.quickadd.api;
@@ -84,13 +84,16 @@ module.exports = async (params) => {
   }
   // !最终重命名文件
   let newName = "";
+
   if (String(file.basename).endsWith('.excalidraw')) {
     newName = await quickAddApi.inputPrompt(`🎨重命名Excalidraw文件`, null, String(file.basename).replace(".excalidraw", ""), "");
     if (!newName) return;
     newName = newName + ".excalidraw";
+    copyToClipboard(newName)
   } else {
     newName = await quickAddApi.inputPrompt('📄重命名当前文档', null, String(file.basename));
     if (!newName) return;
+    copyToClipboard(newName)
   }
   // 2024-04-23_17:16:53 优化一下，合并多余空格
   newName = newName.replace(/\s+/g, " ");
@@ -98,7 +101,7 @@ module.exports = async (params) => {
   return;
 };
 function matchSelectionEmbed(text) {
-  const regex = /\[\[?([^\]]*?)(\|.*)?\]\]?\(?([^)\n]*)\)?/;
+  const regex = /\[\[?([^\]]{2,100}?)(\|.*)?\]\]?\(?([^)\n]*)\)?/;
   const matches = text.match(regex);
   if (!matches) return;
   if (matches[3]) return decodeURIComponent(matches[3]);
@@ -110,13 +113,29 @@ function getFilePath(files, baseName) {
   let filePath = files2.map((f) => f.path);
   return filePath[0];
 }
+
+function copyToClipboard(extrTexts) {
+  const txtArea = document.createElement('textarea');
+  txtArea.value = extrTexts;
+  document.body.appendChild(txtArea);
+  txtArea.select();
+  if (document.execCommand('copy')) {
+    console.log('copy to clipboard.');
+  } else {
+    console.log('fail to copy.');
+  }
+  document.body.removeChild(txtArea);
+}
+
 ```
 
-### 适配 `.excalidraw.md` 文件
+## ChangeLog
 
-单独一个版本，适配 `.excalidraw.md` 文件，即不会在输入框显示.excalidraw.md 后缀：
-
-![2024-03-20_QuickAdd脚本-F2弹窗式重命名文件_IMG-5](https://cdn.pkmer.cn/images/202404012216773.png!pkmer)
+- 2024-03-30
+	- 适配 `.excalidraw.md` 文件：适配 `.excalidraw.md` 文件，即不会在输入框显示.excalidraw.md 后缀。
+		- ![2024-03-20_QuickAdd脚本-F2弹窗式重命名文件_IMG-5.png](https://cdn.pkmer.cn/images/202405121402169.png!pkmer)
+- 2024-05-12
+	- 当前文件重命名时点击确认直接复制文件名到剪切板
 
 ## Reference
 
