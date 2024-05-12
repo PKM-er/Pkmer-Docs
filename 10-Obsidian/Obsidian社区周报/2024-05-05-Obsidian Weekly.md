@@ -1,8 +1,8 @@
 ---
 uid: 20240505234749
-title: 2024-05-05：交互与数据筛选——任务管理大利好！
+title: Obsidian Weekly 2024-05-05：交互与数据筛选——任务管理大利好！
 tags: [Weekly, Obsidian]
-description: 交互与数据筛选——任务管理大利好！
+description: Obsidian Weekly 2024-05-05：交互与数据筛选——任务管理大利好！
 author: 淡水鱼,PKMer
 type: other
 draft: false
@@ -10,7 +10,7 @@ editable: false
 modified: 20240505235001
 ---
 
-# 2024-05-05：交互与数据筛选——任务管理大利好
+# Obsidian Weekly 2024-05-05：交互与数据筛选——任务管理大利好
 
 > [!Abstract]
 > **统计时间**：2024-04-28 21:00 ~ 2024-05-05 21:00

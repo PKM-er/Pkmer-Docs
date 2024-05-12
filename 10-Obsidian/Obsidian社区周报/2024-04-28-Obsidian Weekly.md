@@ -1,8 +1,8 @@
 ---
 uid: 20240428222159
-title: 2024-04-28：大道至简，专注本心！脑力简单重复劳动也是简单重复劳动
+title: Obsidian Weekly 2024-04-28：大道至简，专注本心！脑力简单重复劳动也是简单重复劳动
 tags: [Weekly, Obsidian]
-description: 大道至简，专注本心！脑力简单重复劳动也是简单重复劳动！
+description: Obsidian Weekly 2024-04-28：大道至简，专注本心！脑力简单重复劳动也是简单重复劳动！
 author: 淡水鱼,PKMer
 type: other
 draft: false
@@ -10,7 +10,7 @@ editable: false
 modified: 20240429000307
 ---
 
-# 2024-04-28：大道至简，专注本心！脑力简单重复劳动也是简单重复劳动
+# Obsidian Weekly 2024-04-28：大道至简，专注本心！脑力简单重复劳动也是简单重复劳动
 
 > [!Abstract]
 > **统计时间**：2024-04-22 21:00 ~ 2024-04-28 21:00
