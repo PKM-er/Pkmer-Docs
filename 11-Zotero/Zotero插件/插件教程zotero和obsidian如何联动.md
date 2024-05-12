@@ -1,20 +1,19 @@
 ---
 uid: 20240115151806
 title: 插件教程 zotero 和 obsidian 如何联动
-tags: [Zotero,Zotero插件]
+tags: [Zotero, Zotero插件]
 description: 插件教程 zotero 和 obsidian 如何联动
 author: wang
 type: other
 draft: false
 editable: false
-modified: 20240115153505
+modified: 20240513000955
 ---
 
 # 插件教程 zotero 和 obsidian 如何联动
 
 >本期主要介绍如何设置 zotero 和 obsidian 的联动
 >将 zotero 的注释笔记导入 ob 库，并实现双链跳转
-
 
 ## 联动效果
 
@@ -84,9 +83,9 @@ modified: 20240115153505
 
 ## 联动使用
 
-### 导入 zotero 注释到 obsdian 库
+### 导入 zotero 注释到 obsidian 库
 
-- 在 obsdian 页面点击**crtl+p**，选择导入笔记（这是之前自己自定义的名称）
+- 在 obsidian 页面点击**crtl+p**，选择导入笔记（这是之前自己自定义的名称）
 - 选择需要导入的条目
 - ![2wdoo.png](https://cdn.pkmer.cn/images/2wdoo.png!pkmer)
 
