@@ -1,16 +1,16 @@
 ---
 uid: 20240512232655
-title: Obsidian Weekly 2024-05-12：新版本即将到来！可视化操作颠覆性突破！
+title: Obsidian Weekly 2024-05-12：新版本即将到来！可视化操作颠覆性突破
 tags: [Weekly, Obsidian]
 description: Obsidian Weekly 2024-05-12：新版本即将到来！可视化操作颠覆性突破！
 author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240512233351
+modified: 20240513000013
 ---
 
-# Obsidian Weekly 2024-05-12：新版本即将到来！可视化操作颠覆性突破！
+# Obsidian Weekly 2024-05-12：新版本即将到来！可视化操作颠覆性突破
 
 > [!Abstract]
 > **统计时间**：2024-05-05 21:00 ~ 2024-05-12 21:00
@@ -142,8 +142,6 @@ modified: 20240512233351
 ## 插件新闻
 
 ### 社区插件
-
-
 
 #### 新增
 
@@ -311,6 +309,6 @@ modified: 20240512233351
 
 [Midnight Theme](https://github.com/SemiCirkle/Midnight-obsidian-theme) By _SemiCirkle_
 
-![2024-05-12-Pasted image 20240512200054](https://cdn.pkmer.cn/images/2024-05-12-Pasted%20image%2020240512200054.png!pkmer)
+![2024-05-12-Pasted image 20240512200054|1000](https://cdn.pkmer.cn/images/2024-05-12-Pasted%20image%2020240512200054.png!pkmer)
 
 > Theme Midnight 是一个带有一些独特风格的深色主题。**具有自定义标签、自定义脚注、带有文本滚动的嵌入式内容、自定义项目符号列表等等！**
