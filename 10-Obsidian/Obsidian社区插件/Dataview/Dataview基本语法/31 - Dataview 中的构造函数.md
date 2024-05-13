@@ -1,13 +1,13 @@
 ---
 uid: 20230929115752
 title: Dataview 中的构造函数
-tags: []
+tags: [obsidian, 插件, dataview, 语法, function]
 description: 
 author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20240429194949
+modified: 20240506104830
 ---
 
 # Dataview 中的构造函数

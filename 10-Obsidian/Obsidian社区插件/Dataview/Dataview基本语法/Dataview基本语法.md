@@ -7,7 +7,7 @@ author: Huajin,PKMer
 type: basic
 draft: false
 editable: false
-modified: 20230810175825
+modified: 20240506104724
 ---
 
 # Dataview 基本语法学习指南
@@ -48,7 +48,7 @@ Dataview 将 Obsidian Vault 变成了一个数据库，使得我们可以用 DQL
 [[24 - 表达式]]：除了查询类型和操作符以外的所有内容，都是表达式；
 
 - **3x 部分**：我们给所有函数提供了中文解释
-[[30 - Function 函数]]：罗列并描述了所有 Dataview 提供的函数的作用；
+[[30 - Dataview 提供的函数 Function]]：罗列并描述了所有 Dataview 提供的函数的作用；
 [[31 - Dataview 中的构造函数]]
 [[32 - Dataview 中的数值运算函数]]
 [[33 - Dataview 中的对象操纵函数]]
@@ -60,3 +60,4 @@ Dataview 将 Obsidian Vault 变成了一个数据库，使得我们可以用 DQL
 [[41 - DQL 与 SQL 的异同]]：列举了一些相同点和不同点；
 [[42 - ISO 8601]]：详细又不特别深入的讲解一种时间格式；
 [[43 - YAML 基础]]：主要讲了 YAML 的 MAP 和 LIST 内容；
+[[44 - Dataview 设置介绍]]：Dataview 设置的介绍；

@@ -1,7 +1,10 @@
 ---
 uid: 20231215133000
 title: 使用简悦 SimpRead 与 Thino 进行联动
-tags: [obsidian, thino, 简悦]
+tags:
+  - obsidian
+  - thino
+  - 简悦
 description: 通过 Thino HTTP Api 实现简悦 SimpRead 与 Thino 的联动
 author: Alexinea
 type: other

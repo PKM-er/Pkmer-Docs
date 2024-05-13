@@ -50,4 +50,4 @@ id: 872b94ce8d5643c8
 - [[使用简悦 SimpRead 与 Thino 进行联动]]
 - [[thino与anki的联动教程]]
 - [[静读天下摘录批注记录到THino]]
-- [[Obsidan Thino-基础工作流-日记周记速记的自动化汇总]]
+- [[Obsidian Thino-基础工作流-日记周记速记的自动化汇总]]

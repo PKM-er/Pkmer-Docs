@@ -18,6 +18,11 @@ modified: 20240417153421
 
 ![2024-04-10_QuickAdd脚本-自定义外部应用打开当前文档_IMG-2](https://cdn.pkmer.cn/images/202404171518377.png!pkmer)
 
+> [!caution] 保存数据
+> 第一次加载需要激活QuickAdd的设置面板的设置选项，之后的编辑数据会保存
+> ![2024-04-10_QuickAdd脚本-自定义外部应用打开_IMG-4.gif](https://cdn.pkmer.cn/images/202405131304405.gif)
+
+
 > [!tip] 默认为当前文档，也可以打开嵌入文件  
 > 如果有选中的文本或光标所在行有嵌入文件，则打开的是该嵌入文档  
 > ![2024-04-10_QuickAdd脚本-自定义外部应用打开_IMG-3](https://cdn.pkmer.cn/images/202404201654788.gif!pkmer)

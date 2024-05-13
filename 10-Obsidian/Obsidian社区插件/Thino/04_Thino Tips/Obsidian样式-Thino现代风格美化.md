@@ -1,13 +1,19 @@
 ---
 uid: 20240420163643
 title: Obsidian 样式 - Thino 现代风格美化
-tags: [Bluetopaz, Thino, 美化, 界面美化, CSS美化]
+tags:
+  - Bluetopaz
+  - Thino
+  - 美化
+  - 界面美化
+  - CSS美化
 description: Blue Topaz同款Thino美化
 author: ProudBenzene
 type: advanced
 draft: false
 editable: false
 modified: 20240426092353
+id: 2e1619e406a3e2fe
 ---
 
 # Obsidian 样式 - Thino 现代风格美化
