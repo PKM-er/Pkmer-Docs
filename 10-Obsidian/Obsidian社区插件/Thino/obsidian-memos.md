@@ -1,16 +1,13 @@
 ---
 uid: 20231109234455
 title: Thino 用户使用指南
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 用户使用指南，你想知道 Thino 的一切都在这里
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240501110031
+modified: 20240513192027
 id: dacd7a42e067cce1
 sidebar:
   order: 2
@@ -126,6 +123,7 @@ sidebar:
     - [[Obsidian样式-Thino伪悬浮编辑框]]
     - [[Obsidian样式-Thino展开增强]]
     - [[Obsidian样式-Thino插件隐藏标志位]]
+    - [[折腾历史-资料库的构建]]
 - 更多教程
 	- [文章列表](https://pkmer.cn/tags/thino/)
 

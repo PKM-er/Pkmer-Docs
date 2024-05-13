@@ -7,7 +7,7 @@ author: PKMer,OS
 type: awesome
 draft: false
 editable: false
-modified: 20240306135840
+modified: 20240513191620
 ---
 
 # PKMer 社区运营日志
@@ -94,6 +94,8 @@ modified: 20240306135840
 - 23 年 12 月份收益全部完成转交
 - 24 年 1 月份收益全部完成转交
 - 24 年 2 月份收益全部完成转交
+- 24 年 3 月份收益全部完成转交
+- 24 年 4 月份收益全部完成转交
 
 ## 服务异常日志
 
