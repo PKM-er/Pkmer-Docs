@@ -1,16 +1,13 @@
 ---
 uid: 20231109234444
 title: Thino FAQ
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino FAQ 你想知道 Thino 的一切都在这里
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240423152440
+modified: 20240513143813
 id: f94eee26b8f42cdf
 ---
 
@@ -22,9 +19,9 @@ id: f94eee26b8f42cdf
 
 详见 [[05_About Thino|关于 Thino]]，核心原因：
 
-- 代码层面：因为从 2.1 开始 Obsidian Memos 会脱离当前的 Memos 的发展路径，而是作为 Thino 进行更新。
-- 功能层面：Thino 会开始增加更多获取，和整理灵感的功能向新方向演进。
-- Obsidian 官方新规则，不允许插件使用 `Obsidian` 字样，所以顺手推舟，我们齐了一个新名字
+- 代码层面：从 2.1 开始 Obsidian Memos 会脱离当前的 Memos 的发展路径，而是作为 Thino 进行更新。
+- 功能层面：Thino 会开始增加更多获取和整理灵感的功能，向新方向演进。
+- Obsidian 官方新规则，不允许插件使用 `Obsidian` 字样，所以顺手推舟，我们起了一个新名字
 
 > [!note] 轶事
 > 名字是经过多个候选项投票决定的
@@ -128,6 +125,25 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 ### 显示异常
 
+#### 为什么不显示之前的日记
+
+- 版本问题
+	- Thino 版本过低，Thino 会不断修复重要的兼容问题，所以请优先检查升级
+	- 其他插件冲突，或者版本过低，这也是常见 Obsidian 问题的解决方法之一，升级自己主题和插件版本
+	- 或者 Obsidian 版本过低，Thino 会尽可能使用并遵循 Obsidian 发布的 Api，以保证稳定性，可能你的 Obsidian 版本过低导致不能使用
+- 你的使用的日记插件和 Thino 中的配置不同
+	- 常见情况 1：日记路径不对称。有的用户在不同的残酷里面，使用了不同的日记路径，导致 Thino 同样配置读取不到
+	- 常见情况 2：日记插件 和 perdoic 插件之一，但是 Thino 中使用日记插件模式选择方了
+
+#### 为什么不显示我记录的内容
+
+- 问题现象如图：
+![image.png|300](https://cdn.pkmer.cn/images/20240410105051.png!pkmer)
+
+- 原因 1：你的移动端或者 PC 端，Obsidian 版本过低，可以升级到最新版本
+- 原因 2：插件版本冲突，这种情况一般偶现，没有固定必现方法，这是因为插件冲突有时候取决于插件的启动顺序【这种顺序插件作者不可控】
+	- [[canvas-mindmap_readme]] 插件版本过低，请升级到 0.1.10 以后版本
+
 #### 为什么找不到瀑布流视图
 
 - 瀑布流视图依赖 Thino Pro
@@ -140,15 +156,6 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 ![image.png|800](https://cdn.pkmer.cn/images/20240409194722.png!pkmer)
 
 1. 解决方法：使用的第三方同步中，排除掉 Thino 文件夹即可。这样你既可以使用你自己原来的同步，也能在 Thino 同步的基础上，继续使用 微信同步等功能。另外大部分第三方同步端，都是支持排除文件夹这样的选项。
-
-#### 为什么不显示我记录的内容
-
-- 问题现象如图：
-![image.png|300](https://cdn.pkmer.cn/images/20240410105051.png!pkmer)
-
-- 原因 1：你的移动端或者 PC 端，Obsidian 版本过低，可以升级到最新版本
-- 原因 2：插件版本冲突，这种情况一般偶现，没有固定必现方法，这是因为插件冲突有时候取决于插件的启动顺序【这种顺序插件作者不可控】
-	- [[canvas-mindmap_readme]] 插件版本过低，请升级到 0.1.10 以后版本
 
 #### 为什么我的热力图显示错位
 
