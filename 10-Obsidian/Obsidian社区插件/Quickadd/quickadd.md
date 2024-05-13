@@ -65,6 +65,7 @@ modified: 20240417180235
 1. [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
 2. [[QuickAdd脚本-插入Zotero的条目PDF链接]]
 3. [[QuickAdd脚本-Project项目选项栏]]
+4. [[QuickAdd脚本-带图复制-自动上传图片到图床]]
 
 ## 参考资料
 
