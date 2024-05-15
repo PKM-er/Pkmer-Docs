@@ -1,13 +1,13 @@
 ---
 uid: 20240515100922
-title: "PaperBell示例库: 用 Obsidian 优雅地积累学术笔记"
+title: "PaperBell 示例库: 用 Obsidian 优雅地积累学术笔记"
 tags: [obsidian, 示例库]
 description: 使用 Obsidian 管理学术生活的思考整理的笔记库
 author: SongshGeo
 type: other
 draft: false
 editable: false
-modified: 20240515104549
+modified: 20240515110109
 ---
 
 # PaperBell 示例库: 用 Obsidian 优雅地积累学术笔记
@@ -22,6 +22,7 @@ modified: 20240515104549
 4. 🍔本库使用的插件参考 [[#PaperBell仓库使用的插件及其作用一览]]
 5. ⭐其他相关说明 [[#碎碎念]]
 6. 😏[[PaperBell介绍#关于作者]]
+7. 🔗下载地址 [[#下载地址]]
 
 # PaperBell 库是否适用于你
 
@@ -265,3 +266,8 @@ title: 相关资料
 最后，我为 `PaperBell` 项目创建了一个微信交流社群，欢迎交流任何关于学术生活的感想，可关注我的公众号【隅地】发送关键字“Obsidian”或“PaperBell”获取最新群聊二维码。
 
 任何开源项目相关问题欢迎邮件联系我 songshgeo@gmail.com
+
+## 下载地址
+
+- github [Releases · SongshGeo/Obsidian-PaperBell (github.com)](https://github.com/SongshGeo/Obsidian-PaperBell/releases)
+- 百度云下载，链接: [https://pan.baidu.com/s/1MYtH7Vz_qnWq3oyRU5iPGg](https://pan.baidu.com/s/1MYtH7Vz_qnWq3oyRU5iPGg) 提取码: eu5x
