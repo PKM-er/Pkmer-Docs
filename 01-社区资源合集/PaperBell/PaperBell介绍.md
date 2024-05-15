@@ -24,6 +24,11 @@ modified: 20240515110109
 6. 😏[[PaperBell介绍#关于作者|关于作者]]
 7. 🔗下载地址 [[PaperBell介绍#下载地址|下载地址]]
 
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1254510080&bvid=BV15J4m1N7X8&cid=1546201404&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="80%" height="500"></iframe>
+
 # PaperBell 库是否适用于你
 
 ## 🧑‍🎓 我
