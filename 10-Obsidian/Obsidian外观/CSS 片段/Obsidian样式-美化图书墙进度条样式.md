@@ -30,7 +30,7 @@ modified: 20240410111306
 -  `Weread 插件`
 -  `彩虹猫猫进度条modified.css`
 
-```
+```css
 /* AGPLv3 License
 Nyan Cat Progress Bars
 Author: AnubisNekhet
@@ -818,7 +818,7 @@ modified by OURSPACE- ，follow me at https://github.com/WinHex89
 
 -  `CardLikeMinimal.css`
 
-```
+```css
 /* MIT License | Copyright (c) Stephan Ango (@kepano) 
 extract from minimal-theme 
 */
@@ -1062,7 +1062,7 @@ extract from minimal-theme
 
 - `软萌小猫进度modified.css`(可选)
 
-```
+```css
 /* AGPLv3 License
 Nyan Cat Progress Bars
 Author: AnubisNekhet
@@ -2106,7 +2106,7 @@ modified by OURSPACE-  follow me at https://github.com/WinHex89
 
 - `多彩Progress.css`（可选）
 
-```
+```css
 
 progress[value^="1"]::-webkit-progress-value, 
 progress[value^="2"]::-webkit-progress-value,
@@ -2231,7 +2231,7 @@ progress[value="100"]::-webkit-progress-value {
 
 ## 复制下列代码实现效果
 
-````
+````js
 ```dataview
 table "![](" + cover + ")" as Cover,author as "作者",readingtime as "阅读日期", category as "类型","<progress max=100 value=" + round(number(progress)) + " class='nyan-cat' ></progress> " + 
   round(number(progress)) + "%" as 阅读进度 
@@ -2243,13 +2243,13 @@ sort file.name
 
 单独此 CSS 的代码
 
-```
+```html
 <progress value="71" max="100" class="nyan-cat"></progress>//这个CSS也能单独使用
 ```
 
 如果觉得**彩虹猫咪**不合适的🤔，这里也提供了另外一个 CSS 供选择，能够对不同的 progress 进行不同颜色的区分
 
-```
+```html
 <progress value="0" max="100" ></progress> **0%**
 <progress value="5" max="100" ></progress> **5%**
 <progress value="45" max="100" ></progress> **45%**
@@ -2263,7 +2263,7 @@ sort file.name
 
 多彩 Progress.css
 
-````
+````js
 ```dataview
 table "![](" + cover + ")" as Cover,author as "作者",readingtime as "阅读日期", category as "类型","<progress max=100 value=" + round(number(progress)) + "></progress> " + 
   round(number(progress)) + "%" as 阅读进度 

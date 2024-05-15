@@ -1,7 +1,10 @@
 ---
 uid: 20231109234455
 title: Thino 用户使用指南
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Thino 用户使用指南，你想知道 Thino 的一切都在这里
 author: Bon,OS,PKMer
 type: other
