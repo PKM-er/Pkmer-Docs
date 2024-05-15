@@ -16,13 +16,13 @@ modified: 20240515110109
 
 👋 大家好，欢迎下载和使用 `PaperBell` 示例仓库。制作这个仓库的初衷，是将自己过去两年间使用 Obsidian 管理学术生活的思考整理分享给大家。
 
-1. 🤔️ 这个仓库是根据自己的需求建立的，请先判断 [[PaperBell介绍#PaperBell 库是否适用于你]]
-2. 🙋 如果你确定这个仓库适用于你，先欢迎来熟悉下本仓库的 [[PaperBell介绍#PaperBell 库的设计理念]]
-3. ✍️ 我们提倡将笔记分为 [[PaperBell介绍#输入资料]]、[[PaperBell介绍#日常记录]] 和 [[PaperBell介绍#输出笔记]] 三大类
-4. 🍔本库使用的插件参考 [[PaperBell介绍#PaperBell 仓库使用的插件及其作用一览]]
-5. ⭐其他相关说明 [[PaperBell介绍#碎碎念]]
-6. 😏[[PaperBell介绍#关于作者]]
-7. 🔗下载地址 [[PaperBell介绍#下载地址]]
+1. 🤔️ 这个仓库是根据自己的需求建立的，请先判断 [[PaperBell介绍#PaperBell 库是否适用于你|PaperBell 库是否适用于你]]
+2. 🙋 如果你确定这个仓库适用于你，先欢迎来熟悉下本仓库的 [[PaperBell介绍#PaperBell 库的设计理念|PaperBell 库的设计理念]]
+3. ✍️ 我们提倡将笔记分为 [[PaperBell介绍#输入资料|输入资料]]、[[PaperBell介绍#日常记录|日常记录]] 和 [[PaperBell介绍#输出笔记|输出笔记]] 三大类
+4. 🍔本库使用的插件参考 [[PaperBell介绍#PaperBell 仓库使用的插件及其作用一览|插件一览]]
+5. ⭐其他相关说明 [[PaperBell介绍#碎碎念|相关说明]]
+6. 😏[[PaperBell介绍#关于作者|关于作者]]
+7. 🔗下载地址 [[PaperBell介绍#下载地址|下载地址]]
 
 # PaperBell 库是否适用于你
 
@@ -255,9 +255,8 @@ title: 相关资料
 
 开源项目的维护需要动力，离不开各位用户的支持。
 
-按照开源社区的江湖规矩，相对直接的经济支持当然是 “Buy me a coffee”：
+按照开源社区的江湖规矩，相对直接的经济支持当然是 “[Buy me a coffee](https://www.buymeacoffee.com/USgxYspYW4)”：
 
-<a href="https://www.buymeacoffee.com/USgxYspYW4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 但对还没有工作收入的学生党，我强烈反对在这种地方花钱。你完全可以 [写一封邮件](mailto:songshgeo@gmail.com) 告诉我，我的开源项目对你有帮助，这对我来说就是极大的鼓励了。包括 `PaperBell`，我还维护一个名为 [ABSESpy](https://github.com/ABSESpy/ABSESpy) 的专业开源软件项目，给我一个免费的 star 也是很感激的🥹。
 
