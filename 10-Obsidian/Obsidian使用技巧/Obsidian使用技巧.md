@@ -43,6 +43,7 @@ modified: 20240408191220
 - [[Wiki链接和markdown链接之间的转换]]
 - [[如何关闭Quicker Explorer插件的自动预览]]
 - [[插件名人堂]]
+- [[如何在 Obsidian 中使用 AI 大模型]]
 
 ### 第三方插件
 
