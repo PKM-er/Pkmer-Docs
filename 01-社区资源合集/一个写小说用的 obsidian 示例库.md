@@ -50,7 +50,8 @@ ___
 
 1. 在正文写作时快速查找：这个依靠 Obsidian 这个软件“双链”的特性就可以完成，比如说我在写到某个场景时，需要查找这个场景的信息时，直接输入两个英文的中括号即：`[[`，然后搜索你想要的文章即可调用文库内的文章。**此时按住 ctrl 可以直接预览这篇文章的文本。**
 
-![](https://cdn.pkmer.cn/images/202405172055423.jpg!pkmer)
+ ![](https://cdn.pkmer.cn/images/202405172346816.gif!pkmer)
+
 
  
 
@@ -60,7 +61,8 @@ ___
 
 
 
-<iframe src="https://vdn6.vzuu.com/HD/9043560a-f0bd-11ee-8bcc-e264898c5c47-v8_f2_t1_mtOfM7bK.mp4?pkey=AAWU6q9DG1WRfZ3wxC5-v6R5pTFTOcRbNQ9KGOqU60jUZnZeZ-uZ8qUd1NM9HDGeIhXeWZDFJYJD45y3WuMPZi3h&c=avc.8.0&f=mp4&pu=e59e796c&bu=1513c7c2&expiration=1715958264&v=ks6&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+![](https://cdn.pkmer.cn/images/202405172352760.gif!pkmer)
+
 
 
 **值得注意的是：只有在文件属性的：tags 区域中填入“文件管理 " 的文件才会被现实在这个首页列表中。即：**
@@ -123,7 +125,8 @@ ___
 
 **大致效果如下：** 
 
-<iframe src="https://vdn3.vzuu.com/HD/0dbefd3c-f0be-11ee-bcf3-cec31ea24a24-v8_f2_t1_Sd4x50SA.mp4?disable_local_cache=1&bu=1513c7c2&c=avc.8.0&f=mp4&expiration=1715954664&auth_key=1715954664-0-0-aa99a0ebc792e1c9d53eb5834288bdb6&v=tx&pu=e59e796c&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+![](https://cdn.pkmer.cn/images/202405172356133.gif)
+
 
 ### 2.4 随记与资料管理
 
@@ -140,12 +143,11 @@ ___
 
 **2.5 资料查找**
 
-本人写东西的时候比较喜欢键盘按住：f11，直接将界面全屏，主打的一个沉浸式干活（其实是知道自己切出去容易被五花八门的软件和电脑里下载好的游戏吸引），所以所有干脆内嵌了一个浏览器插件。
+本人写东西的时候比较喜欢键盘按住：f11，直接将界面全屏，主打的一个沉浸式干活（其实是知道自己切出去容易被五花八门的软件和电脑里下载好的游戏吸引），所以所有干脆内嵌了一个浏览器插件[[surfing]]。
 
 你可以在编辑视图中，输入文本，如：“《传说之下》”，选中文本后点击鼠标右键，选择：【search in surfing】选择自己期望的网站进行搜索（**推荐 bing，广告比 baidu 少**）
 
-
-<iframe src="https://vdn.vzuu.com/HD/3695b7e6-f0be-11ee-ac2a-fefd2e96fc93-v8_f2_t1_AdwDt8BA.mp4?disable_local_cache=1&bu=1513c7c2&c=avc.8.0&f=mp4&expiration=1715954664&auth_key=1715954664-0-0-480bd242db4c7b807909de9b7e00c602&v=ali&pu=e59e796c&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+ 
 
 ___
 
