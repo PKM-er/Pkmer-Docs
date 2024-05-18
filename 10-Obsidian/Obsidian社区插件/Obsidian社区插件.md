@@ -491,7 +491,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 - [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
 - [[customizable-menu]]：右键菜单增强，可以自定义右键菜单绑定的命令，鼠标党福音
-- [[bartender]]：Bartender 提供了拖拽排序文件夹功能，允许重新排列状态栏和侧边栏中的元素
+- [[obsidian-bartender-fix]]：Bartender 提供了拖拽排序文件夹功能，允许重新排列状态栏和侧边栏中的元素
 - [[css-editor]]：在 Obsidian 中像笔记一样编辑 CSS 代码片段文件
 
 ### 插入预览

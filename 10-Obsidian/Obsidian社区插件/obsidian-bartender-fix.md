@@ -7,7 +7,7 @@ author: Huajin
 type: basic
 draft: false
 editable: false
-modified: 20240120122841
+modified: 20240518191025
 ---
 
 # Obsidian 插件：利用 Bartender 实现文件拖拽排序
@@ -22,10 +22,11 @@ Obsidian 默认提供了三类文件的排序方式，分别是按照文件名�
 > - 插件作者：NothingIsLost
 > - 插件描述：允许重新排列状态栏和侧边栏中的元素
 > - 插件项目地址：[点我跳转](https://github.com/nothingislost/obsidian-bartender)
+> - 国内下载地址 (修复版)：[Bartender-fix](https://pkmer.cn/products/plugin/pluginMarket/?Bartender-fix)
 
 > [!warning] 注意
 > 由于 obsidian 在 1.5.3 版本更新了部分 API，该插件失效。可以在插件的 Github 仓库的 Issue 中找到网友的 [重制版](https://github.com/nothingislost/obsidian-bartender/issues/51#issuecomment-1870788233)，有需要可以使用。
->
+>Pkmer 插件市场已经上架了社区修复版本 [Bartender-fix](https://pkmer.cn/products/plugin/pluginMarket/?Bartender-fix)
 > **声明**：我们不对该重制版的安全做保障，但是目前我个人从 1.5.3 更新使用该重制版至今没有遇到问题。
 
 ## 使用方法
