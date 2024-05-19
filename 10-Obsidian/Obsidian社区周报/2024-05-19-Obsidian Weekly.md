@@ -52,7 +52,7 @@ modified: 20240519230220
 
 [BibTeX Manager](https://obsidian.md/plugins?id=bibtex-manager) By _Akop Kesheshyan_
 
-> 只需复制并粘贴 BibTeX 条目即可轻松创建文献笔记。插件还支持在笔记中自动格式化参考文献列表，同时保持原始 BibTeX 条目不变。您可以添加来自 Zotero、Mendeley 或任何其他流行参考管理器的 BibTeX 条目，也可以依赖自定义 BibTeX 实现。
+> 只需复制并粘贴 BibTeX 条目即可轻松创建文献笔记。插件还支持在笔记中自动格式化参考文献列表，同时保持原始 BibTeX 条目不变。您可以添加来自 Zotero、Mendeley 或任何其他流行的参考文献管理器的 BibTeX 条目，也可以依赖自定义 BibTeX 实现。
 
 ![2024-05-19-Pasted image 20240519202721](https://cdn.pkmer.cn/images/2024-05-19-Pasted%20image%2020240519202721.png!pkmer)
 
