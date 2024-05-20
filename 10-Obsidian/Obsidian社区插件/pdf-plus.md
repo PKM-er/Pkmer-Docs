@@ -1,13 +1,13 @@
 ---
 uid: 20240513195604
 title: Obsidian 插件：PDF++ 的个人推荐设置
-tags: [插件, Obsidian, 读书笔记]
-description: Obsidian 的一款好用的 PDF 标注插件，很适合用来做读书笔记。
+tags: [插件, Obsidian, 编辑工具]
+description: Obsidian 的一款好用的 PDF 标注增强插件，很适合用来做读书笔记。
 author: ImmortalSty
 type: advanced
 draft: false
 editable: true
-modified: 20240514003743
+modified: 20240520085221
 ---
 
 # Obsidian 插件：PDF++ 的个人推荐设置
@@ -18,6 +18,29 @@ modified: 20240514003743
 >
 > 当前文章可用于 0.39.23 版本的 PDF++。
 
+
+> [!Note] 插件名片
+> - 插件名称：PDF++
+> - 插件作者：Ryota Ushio
+> - 插件说明：Obsidian 的一款好用的 PDF 标注增强插件
+> - 插件分类：编辑工具
+> - 项目地址：[点我访问](https://github.com/RyotaUshio/obsidian-pdf-plus)
+> - 插件文档介绍：[Home (ryotaushio.github.io)](https://ryotaushio.github.io/obsidian-pdf-plus/)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pdf-plus)
+
+## 插件介绍
+
+PDF++ 是一种针对 Obsidian 的原生 PDF 注释和编辑工具，显著提升了 Obsidian 的 PDF 支持能力。
+- 功能概览
+	- **高亮注释**：将 PDF 文件中的反向链接转换为高亮注释，允许通过链接文本选择来注释 PDF。
+	- **注释同步**：支持将注释直接添加到 PDF 文件中，以便在 Obsidian 之外也可见。
+	- **查看器增强**：为内置的 PDF 查看器和嵌入功能添加了便利性改进，即使不用于注释，也能提升用户体验。
+
+- 特点
+	- **与 Obsidian 原生查看器集成**：补充而非替代 Obsidian 的本机查看器，注释以纯 Markdown 保存，确保持久性。
+	- **独立注释工具**：无需在 Obsidian 和外部应用程序之间切换，即可使用丰富的 Markdown 编辑器注释 PDF。
+	- **分布式注释**：支持将单个 PDF 的注释分布在整个 vault 中。
+	- **轻量级依赖**：除可选的 `&color=...`/`&rect=...` 链接表示法外，不引入插件依赖的语法。
 ## 插件设置推荐
 
 ### Editing PDF files
@@ -218,3 +241,19 @@ modified: 20240514003743
 ## 小声叨叨
 
 这插件好用是好用，但这设置也太多了吧？放弃全部详细说明了，还是只把我咋设置，以及这些设置都是啥意思讲讲吧。
+
+## 其他相关文章
+
+[[如何让mousewheel-image-zoom插件适配pdf++嵌入块]]
+ 
+## 兼容性
+
+PDF++ 与以下插件兼容：
+
+- [[obsidian-hover-editor]]
+- [Better Search Views](https://github.com/ivan-lednev/better-search-views)
+
+
+以下插件跟PDF++冲突：
+
+- [[close-similar-tabs]]
