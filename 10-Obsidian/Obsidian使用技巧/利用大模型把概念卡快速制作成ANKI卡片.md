@@ -1,16 +1,16 @@
 ---
 uid: 20240512132545
-title: 教程：概念卡片 toAnki 卡片，LLM 提示词
-tags: [💻教程]
+title: 利用大模型把概念卡快速制作成ANKI卡片
+tags: ["anki"]
 description: 介绍利用LLM来快速将概念卡片整理成特定的anki卡片
 author: Dusk
 type: other
 draft: false
 editable: false
-modified: 20240512133632
+modified: 20240520093414
 ---
 
-# 教程：概念卡片 toAnki 卡片，LLM 提示词
+# 利用大模型把概念卡快速制作成 ANKI 卡片
 
 ## 缘起
 
@@ -33,7 +33,7 @@ modified: 20240512133632
 
 ### 1，概念卡片示意图
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202405120922190.png)
+![](https://cdn.pkmer.cn/images/202405200933889.png!pkmer)
 
 以上是我读那篇译文时做的概念卡片，heptabase 及 mefo 均能呈现以上样式。卡片成型后，可以直接导出 md 文件，通常一则卡片导出为一个 md 文件。
 
@@ -159,25 +159,25 @@ modified: 20240512133632
 
 ### 1，ChatGPT
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202405120933534.png)
+![](https://cdn.pkmer.cn/images/202405200933891.png!pkmer)
 
 昨晚在调适提示语的过程中，LLM 的识别模式真惊艳到我了，以下几个卡片与我给的范例在格式上是有差别的，但输出结果仍是我的预期样式，真是太 666 了。
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202405120936974.png)
+![](https://cdn.pkmer.cn/images/202405200933892.png!pkmer)
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202405121258185.png)
+![](https://cdn.pkmer.cn/images/202405200933893.png!pkmer)
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202405121334292.png)
+![](https://cdn.pkmer.cn/images/202405200933894.png!pkmer)
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202405121335045.png)
+![](https://cdn.pkmer.cn/images/202405200933895.png!pkmer)
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202405121335442.png)
+![](https://cdn.pkmer.cn/images/202405200933896.png!pkmer)
 
 ### 2，kimichat
 
 再附同一提示词、同一输入内容，kimichat 的回复。效果有所不同。
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202405121318764.png)
+![](https://cdn.pkmer.cn/images/202405200933897.png!pkmer)
 
 好，本次分享结束。
 
