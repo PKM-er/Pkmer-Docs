@@ -7,18 +7,18 @@ author: xy
 type: practice
 draft: false
 editable: false
-modified: 20240506202713
+modified: 20240520094035
 ---
 
 # 基于 Toggl 的时间记录复盘
 
-大家好我是 xy，今天给大家分享一个把 Toggl 导入 Obsidian 进行复盘的工作流。虽然社区插件里有 Toggl 插件，但是因为不支持手机端，无法融入我平时的工作流，所以就自己利用 Toggl 的官方 API 写了一个脚本。
+大家好我是 xy，今天给大家分享一个把 Toggl 导入 Obsidian 进行复盘的工作流。虽然社区插件里有 Toggl 插件，但是因为不支持手机端，无法融入我平时的工作流，所以就自己利用 Toggl 的官方 [API](https://engineering.toggl.com/)写了一个脚本。
 
 ## 功能概述
 
 ### 用到的工具
 
-- Toggl - 时间记录
+- Toggl - 时间记录 
 - Obsidian 插件
 	- [[templater-obsidian]] (>=1.14.0) - 获取 Toggl 记录并记入每日笔记
 	- [[obsidian-tracker]] - 时间使用可视化
@@ -26,17 +26,18 @@ modified: 20240506202713
 ### 使用效果
 
 **每日笔记中**可以通过 Templater 插入最近 24 小时的时间使用情况。会有每个大类所花的总时间以及每个小类所花的时间。具体如下：
-![[Screenshot 2024-05-10 165916 1.png]]
+
+![](https://cdn.pkmer.cn/images/202405200940109.png!pkmer)
 
 因为在时间记录信息里有每个项目的花费时间，所以可以用来生成各式图表。
 
 比如**每周时间花费饼图**
 
-![[Screenshot 2024-05-04 184936.png]]
+![](https://cdn.pkmer.cn/images/202405200940111.png!pkmer)
 
 **季度时间花费分布图**
 
-![[Screenshot 2024-05-04 185342.png]]
+![](https://cdn.pkmer.cn/images/202405200940112.png!pkmer)
 
 ## 配置步骤
 
@@ -44,14 +45,14 @@ modified: 20240506202713
 
 这里默认大家会最基本的 templater 使用，不会的话请参考 [[templater-obsidian]]
 
-1. 把 `toggl.js` 放在任意 obsidian 目录下（如 `resources/template_js/toggl.js`)
+1. 把 `toggl.js` （参考[[基于Toggl的时间记录复盘#`toggl.js` 完整代码]]） 放在任意 obsidian 目录下（如 `resources/template_js/toggl.js`)
 	1. 懂编程的小伙伴可以自行修改
-2. 在 Templater 设置中指定对应目录为 User Script 的文件夹 ![[Screenshot 2024-05-04 214814.png]]
-3. 打开 Toggl Profile Setting 页，找到 API Token。如果懒得找的话也可以使用 `email:password` 代替。![[Screenshot 2024-05-04 175818.png]]![[Screenshot 2024-05-04 175522 1.png]]
-4. 创建新的 template（参考 Toggl Daily.md），这里需要把 `YOUR_API_TOKEN` 替换成刚刚找到的 API Token。或者用 `email:password` 来代替 `YOUR_API_TOKEN:api_token`![[Screenshot 2024-05-04 215236.png]]
-5. 这个时候应该已经设置完成了，为了使用方便，我们可以在 Templater 插件中为它设置一个快捷键。![[Screenshot 2024-05-04 215803.png]]
+2. 在 Templater 设置中指定对应目录为 User Script 的文件夹 ![](https://cdn.pkmer.cn/images/202405200940113.png!pkmer)
+3. 打开 Toggl Profile Setting 页，找到 API Token。如果懒得找的话也可以使用 `email:password` 代替。![](https://cdn.pkmer.cn/images/202405200940114.png!pkmer)![](https://cdn.pkmer.cn/images/202405200940115.png!pkmer)
+4. 创建新的 template（参考 Toggl Daily.md），这里需要把 `YOUR_API_TOKEN` 替换成刚刚找到的 API Token。或者用 `email:password` 来代替 `YOUR_API_TOKEN:api_token`![](https://cdn.pkmer.cn/images/202405200940116.png!pkmer)
+5. 这个时候应该已经设置完成了，为了使用方便，我们可以在 Templater 插件中为它设置一个快捷键。![](https://cdn.pkmer.cn/images/202405200940117.png!pkmer)
 6. 在手机上，我们可以把它加入编辑栏快捷按钮中。
-![[IMG_2677.jpeg]]
+![](https://cdn.pkmer.cn/images/202405200940118.jpeg!pkmer)
 
 设置结束之后，就可以在光标处添加时间记录了。因为我后续会在 Tracker 插件中根据信息生成图表，所以会插在每日笔记下面。
 
@@ -111,7 +112,7 @@ bar:
 
 ## 附录
 
-`Toggl Daily.md` 完整代码
+### `Toggl Daily.md` 完整代码
 
 ```
 > [!info]- Time Log <% tp.date.now("kk:mm") %>
@@ -132,7 +133,7 @@ bar:
 <% tp.user.toggl(tp, api_token="email:password") %>
 ```
 
-`toggl.js` 完整代码
+### `toggl.js` 完整代码
 
 ```js
 async function toggl(tp, api_token, workspace_id=null) {
@@ -241,3 +242,6 @@ async function toggl(tp, api_token, workspace_id=null) {
 
 module.exports = toggl
 ```
+
+
+如果有使用上的问题，欢迎进入帖子下方的讨论区进行探讨。
