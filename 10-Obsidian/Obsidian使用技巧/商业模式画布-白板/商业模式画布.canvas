@@ -67,16 +67,17 @@
 			"width":625,
 			"height":180
 		},
-		{"id":"aa737fdce9943da0","type":"file","file":"10-Obsidian/Obsidian使用技巧/商业模式画布-白板/关键业务 1.md","x":-320,"y":530,"width":400,"height":400},
 		{"id":"8401670bab9a8f89","type":"file","file":"10-Obsidian/Obsidian使用技巧/商业模式画布-白板/assets/R$.png","x":877,"y":240,"width":53,"height":84},
 		{"id":"4ce9cb680a8604dc","type":"file","file":"10-Obsidian/Obsidian使用技巧/商业模式画布-白板/assets/C$.png","x":227,"y":240,"width":78,"height":84},
 		{"id":"ac8cdb89de6ab8e7","type":"file","file":"10-Obsidian/Obsidian使用技巧/商业模式画布-白板/assets/KA.png","x":117,"y":-220,"width":59,"height":83},
 		{"id":"6b5f261e04dc2624","type":"file","file":"10-Obsidian/Obsidian使用技巧/商业模式画布-白板/assets/KP.png","x":-134,"y":-220,"width":64,"height":79},
 		{"id":"cecad36b23dd39bc","type":"file","file":"10-Obsidian/Obsidian使用技巧/商业模式画布-白板/assets/KR.png","x":117,"y":10,"width":59,"height":82},
-		{"id":"638eaa65a631f592","type":"file","file":"10-Obsidian/Obsidian使用技巧/商业模式画布-白板/关键业务 2.md","x":-320,"y":960,"width":400,"height":400}
+		{"id":"786cc36039c14017","type":"text","text":"# 关键业务 1\n\n### 画饼的要点\n\n- 画饼的技术原理\n- 画饼的市场前景\n- 画饼的关键流程\n- 画饼的技术难点\n\n### 结语：画饼，画大饼","x":-489,"y":520,"width":419,"height":360},
+		{"id":"990771cee1ea0f64","x":80,"y":700,"width":340,"height":320,"type":"text","text":"# 关键业务 2\n\n### 杀猪\n\n- 养猪\n- 圈猪\n- 宰猪"}
 	],
 	"edges":[
-		{"id":"5806bfb65a554e5e","fromNode":"be8cebc08efaa821","fromSide":"top","toNode":"aa737fdce9943da0","toSide":"top"},
-		{"id":"ecbcd86504bc4840","fromNode":"be8cebc08efaa821","fromSide":"top","toNode":"638eaa65a631f592","toSide":"top"}
+		{"id":"d9241f0ec24ac8c4","fromNode":"be8cebc08efaa821","fromSide":"top","toNode":"84e0cc1f75eab549","toSide":"top"},
+		{"id":"200e7dbb823841be","fromNode":"be8cebc08efaa821","fromSide":"top","toNode":"786cc36039c14017","toSide":"top"},
+		{"id":"e6109bb15e4d2edd","fromNode":"be8cebc08efaa821","fromSide":"top","toNode":"990771cee1ea0f64","toSide":"top"}
 	]
 }
