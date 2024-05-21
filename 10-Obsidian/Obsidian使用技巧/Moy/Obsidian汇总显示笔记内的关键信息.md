@@ -1,20 +1,20 @@
 ---
 uid: 20240521115114
-title: Obsidian 汇总显示笔记内的关键信息
-tags: []
+title: 通过Dataview实现汇总显示笔记内的关键信息
+tags: ["dataview"]
 description: 如何利用 Dataview 提取一篇笔记内的带有特定关键字的文本，并聚合显示。
 author: Moy
 type: tutorial
 draft: false
 editable: false
-modified: 20240521152122
+modified: 20240521223612
 ---
 
-# Obsidian 汇总显示笔记内的关键信息
+# 通过 Dataview 实现汇总显示笔记内的关键信息
 
 本文的效果预览：
 
-![[发布内容-img-240521_010219.gif]]
+![](https://cdn.pkmer.cn/images/202405212229365.gif)
 
 ## 开篇
 
@@ -38,11 +38,11 @@ modified: 20240521152122
 
 好在我用的笔记软件是超强可定制功能嘎嘎多的 Obsidian！
 
-![[发布内容-img-240521_102914.png|Obsidian 太行咧！]]
+![](https://cdn.pkmer.cn/images/202405212229366.png!pkmer)
 
 在 Obsidian 里，我们可以使用 `Dataview` 插件来实现想要的效果。
 
-![[发布内容-img-240520_235302.png|将笔记内的标记内容汇总显示]]
+![](https://cdn.pkmer.cn/images/202405212229367.png!pkmer)
 
 它可以像上图这样将含有关键字的内容聚合显示，并且能跟随笔记内容实时更新。
 
@@ -52,7 +52,7 @@ modified: 20240521152122
 
 这在 OB 用户里算是常识了，这里略过。
 
-> 有需要的话可以查看咖啡的基础教程：[Dataview | obsidian文档咖啡豆版](https://coffeetea.top/zh/community-plugins/dataview.html#%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85)
+> 有需要的话可以查看 Dataview 基础教程 [[Dataview基本语法]]
 
 安装完之后，复制下面的代码到你的笔记里：
 
@@ -119,7 +119,7 @@ ___
 
 另外，在加上括号的情况下，一行里可以写多个属性的定义。
 
-![[发布内容-img-240521_000316.png|不同的写法对应的渲染效果]]
+![](https://cdn.pkmer.cn/images/202405212229368.png!pkmer)
 
 ### DataviewJS
 
@@ -129,7 +129,7 @@ Dataview JS 是使用 Javascript 语言写的一段脚本，Dataview 插件会�
 
 > [!tip] 启用 dvjs 查询功能
 > 注意，你需要在 Dataview 插件的设置中启用 **Enable JavaScript Queries** 选项才能应用 dvjs 脚本：
-> ![[发布内容-img-240521_000721.png]]
+> ![](https://cdn.pkmer.cn/images/202405212229369.png!pkmer)
 
 事实上，写在 `dataviewjs` 代码块里的内容基本等同于用 Javascript 语言编程，所以可以实现一些相当复杂的功能。
 
@@ -156,7 +156,7 @@ dv.paragraph("> 这段脚本打印了当前文件的信息，请在控制台查�
 
 然后按 <kbd>Ctrl+Shfit+I</kbd> 显示开发者工具，点开那个三角箭头，你就能看到「当前文件」包含了哪些内容：
 
-![[发布内容-img-240521_001145.png]]
+![](https://cdn.pkmer.cn/images/202405212229370.png!pkmer)
 
 在这里可以看到，`term: "💡"` 属性已经被放进文件内了。
 
@@ -168,7 +168,7 @@ dv.paragraph("> 这段脚本打印了当前文件的信息，请在控制台查�
 
 后面的代码是 JS 脚本的内容，这里就不深入了，前端开发长路漫漫，最好别踏上这条不归路。
 
-![|200](哈人.png)
+![](https://cdn.pkmer.cn/images/202405212229364.png!pkmer)
 
 总之，这段代码就是获取了当前笔记的所有文本内容，拆成一行行，然后看「这行里包含关键字吗？包含，那就塞进列表里」。
 
@@ -346,7 +346,7 @@ query.GetResult();
 
 可以注意到，独立脚本版的每行文字后面都带上了一个 `»` 符号：
 
-![[发布内容-img-240521_002811.png]]
+![](https://cdn.pkmer.cn/images/202405212229371.png!pkmer)
 
 点击就可以跳转到这行所在的位置，方便查看上下文或进行编辑。
 
@@ -416,7 +416,7 @@ await dv.view("js文件", {属性: 值, 另一个属性: 值})
 
 然后在需要检索的时候直接插入这个模板，并修改检索的关键字即可。
 
-> Templater 插件也是 OB 用户基操了，这里不再介绍，有需要了解可以看咖啡的文档：[Templater | obsidian文档咖啡豆版](https://coffeetea.top/zh/community-plugins/templater.html)
+> Templater 插件也是 OB 用户基操了，[[templater-obsidian]] 这里不再介绍，有需要了解可以看咖啡的文档：[Templater | obsidian文档咖啡豆版](https://coffeetea.top/zh/community-plugins/templater.html)
 
 ### 多个关键字查询
 
@@ -426,7 +426,7 @@ await dv.view("js文件", {属性: 值, 另一个属性: 值})
 
 然后相应地把 dvjs 里的 `term` 也替换成 `term2`，这样就能同时查询多个关键字了。
 
-![[发布内容-img-240521_104923.png|定义一个新的查询关键字]]
+![](https://cdn.pkmer.cn/images/202405212229372.png!pkmer)
 
 ### 汇总不同文件的关键字内容
 
@@ -456,7 +456,7 @@ await dv.view("js文件", {属性: 值, 另一个属性: 值})
 
 ## 附注
 
-翻看 PKMer 社区文章的时候，发现 [PKMer_Dataview 实战：通过 Dataview 列出关键字所在的行和行数]( https://pkmer.cn/show/20231023200354 ) 里的代码和思路可以算作是这套方案的基础原型，我最早用的脚本应该也是源自这里。
+翻看 PKMer 社区文章的时候，发现 [[Dataview实战-通过Dataview列出关键字所在的行和行数]] 里的代码和思路可以算作是这套方案的基础原型，我最早用的脚本应该也是源自这里。
 
 这篇文章是站在巨人肩膀上做出的一些调整，这里也总结一下创新点（怎么像是水论文啊笑死🤣）：
 
