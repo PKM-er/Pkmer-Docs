@@ -129,18 +129,30 @@ await dv.view("queryTermInFile", {term: "💡"})
 ```
 ````
 
-与此同时，你需要在 OB 库里创建一个叫做 `queryTermInFile.js` 的 js 文件，粘贴以下内容：
+与此同时，你需要在 OB 库里创建一个叫做 `queryTermInFile.js` 的 js 文件。
+
+> 你可以直接在这里查看并下载最新版本的脚本文件：
+> [Dvjs code for Obsidian to query specific term in current note.](https://gist.github.com/Moyf/9c3c16ce4e72057c0f747ec06ff54107#file-queryterminfiles-js)
+
+JS 文件里粘贴以下内容：
 
 ```js title="queryTermInFiles.js"
 // ========================================
 // 作者：Moy
 // 日期：2024.05.22
-// 版本：1.0.3
+// 版本：1.0.4
 // ========================================
 
-console.log("🔍 Querying...");
-
 class Query {
+    /**
+     * 用来查询的类
+     * @param {string} _term 需要查询的关键字
+     * @param {boolean} _bShowInfo 是否显示第一行的查询信息
+     * @param {string} _info 查询信息的内容
+     * @param {boolean} _bShowLink 是否显示跳转链接
+     * @param {boolean} _bShowHeading 是否显示标题
+     * @param {string[]} _excludeTerms 需要排除的关键字
+     */
     constructor(_term, _bShowInfo=true, _info="", _bShowLink=true, _bShowHeading=false, _excludeTerms=[]) {
         this.term = (_term == "加粗") ? "**" : ((_term == "高亮") ? "==" : _term);
 
@@ -148,11 +160,11 @@ class Query {
         this.term = output;
         this.isMultiTerm = isMulti;
 
-    
+        // 正则的处理
         this.reg = null;
         if (this.term.startsWith("/") && this.term.endsWith("/")) {
             
-        
+            // 判断 正则表达式是否合法
             try {
                 console.log("判断到正则表达式：", this.term.substring(1, this.term.length-1));
                 this.reg = new RegExp(this.term.substring(1, this.term.length-1), "i");
@@ -168,24 +180,29 @@ class Query {
         this.bShowHeading = _bShowHeading;
         this.excludeTerms = _excludeTerms;
 
-    
+        // 链接的图标
         this.linkIcon = "»";
-    
+        // 链接的字号
         this.fontSize = "1em";
     }
 
+    /**
+     * 判断是否包含关键字（或符合正则表达式）
+     * @param {string} text 需要判断的文本
+     * @returns {boolean} 返回是否包含关键字（或符合正则表达式）
+     */
     Verify(text) {
-    
+        // 过滤掉需要排除的关键字
         if (this.excludeTerms.some(f => text.contains(f))){
             return false;
         }
 
-    
+        // 过滤掉 term 和 dv.view 关键字，避免把检索代码也显示出来
         if (text.contains("dv.view") || text.contains("term")){
             return false;
         }
 
-    
+        // 匹配给定的关键字
         if (this.reg) {
             return this.reg.test(text);
         } else {
@@ -193,14 +210,23 @@ class Query {
         }
     }
 
+    /**
+     * 获取标题
+     * @param {number} line 行号
+     * @returns {string} 返回标题
+     */
     FetchHeadings(headings, line) {
         let heading = "";
         let isLastHeading = true;
 
+        if (!headings || headings.length == 0) {
+            return heading;
+        }
+
         for (let i = 1; i < headings.length; i++) {
-        
+            // 判断在哪个标题内
             if (headings[i].position.start.line > line) {
-            
+                // console.log("标题：", headings[i-1].heading);
                 heading = headings[i-1].heading;
                 isLastHeading = false;
                 break;
@@ -214,6 +240,11 @@ class Query {
         return heading;
     }
 
+
+    /**
+     * 获取并输出最终的显示结果
+     * @returns {string} 返回最终的显示结果
+     */
     async GetResult() {
         const term = this.term;
 
@@ -230,24 +261,32 @@ class Query {
             dv.paragraph(`正在获取含 [${term}] 的行...`);
             return;
         }
-        
+
+        // 利用 AdvURI 的方案
         const encodedName = encodeURIComponent(curFileName);
         const extraAttr = `style="font-size: ${this.fontSize}" title="跳转到对应行" `;
-        const linkPrefix = ` <a ${extraAttr} href="obsidian
+        const linkPrefix = ` <a ${extraAttr} href="obsidian://advanced-uri?filename=${encodedName}&line=`;
         const linkSuffix = `">${this.linkIcon}</a>`;
 
         const noteContent = await app.vault.cachedRead(curTFile);
         const lines = noteContent.split("\n")
+            // 先存成对象，保证原来的行号
             .map((line, index) => ({ content: line.trim(), index }))
+            // 过滤
             .filter( ( {content} ) => this.Verify(content))
+            // 后处理
             .map(( {content, index} ) => {
-            
+                // 处理原先的列表符号，避免多层嵌套
                 if (content.startsWith("- ") || content.startsWith("* ") || content.startsWith("+ ") ) {
                     content = content.substring(2);
                 }
 
                 const line = index+1;
+
+                // 添加标题
                 let heading = this.bShowHeading ? this.FetchHeadings(headings, line) : "";
+
+                // 添加跳转链接
                 const jumpLink = `${linkPrefix}${index+1}${linkSuffix}`;
                 
                 return { content , jumpLink, heading };
@@ -266,31 +305,39 @@ class Query {
         }
 
         if (lines.length) {
+            // 直接调用 list 来显示，会导致样式渲染问题
+            // dv.list(lines.map( ({content, jumpLink}) => `${content} ${this.bShowLink ? jumpLink : ""}`));
+
+            // 为了兼容下划线啥的……避免被作为样式渲染
             const divContainer = document.createElement('div');
             const listContainer = document.createElement('ul',  { cls: "dataview dataview-class", attr: { alt: "Nice!" }});
 
             let lastHeading = "";
 
             lines.forEach( ({content, jumpLink, heading}) => {
-            
+                // 添加标题
                 if (heading != lastHeading) {
                     const headingContainer = document.createElement('div');
                     let isFirstLine = lastHeading == "";
                     lastHeading = heading;
 
                     headingContainer.innerHTML = (isFirstLine?"":"<br>") + `▌ ${lastHeading}`;
+                    
+                    // 设置下划线
+                    // headingContainer.style.textDecoration = "underline";
+
                     listContainer.appendChild(headingContainer);
                 }
 
-            
+                // 手工实现列表 = =。
                 const itemContainer =  document.createElement('li');
                 itemContainer.appendChild(dv.span(content))
-            
+                // itemContainer.innerHTML = content;
                 if (this.bShowLink) {
                     const linkContainer = document.createElement('span');
                     linkContainer.innerHTML = jumpLink;
                     itemContainer.appendChild(linkContainer);
-                
+                    // itemContainer.innerHTML += jumpLink;
                 }
                 listContainer.appendChild(itemContainer);
             });
@@ -314,12 +361,19 @@ class Query {
     }
 }
 
+
 function processMultiValues(input) {
+    /**
+     * 处理多个值的情况
+     * @param {string | string[]} input 输入的值
+     * @returns {object} 返回处理后的值和是否为多个值
+     */
     let output = input;
 
     if (typeof(input) != "string" && input.length > 1) {
         output = "（未定义）";
 
+        // 设为第一个非空的值
         const filteredTerms = input.filter(t => t && t.trim() != "");
         if (filteredTerms.length > 0) {
             output = filteredTerms[0];
@@ -331,13 +385,18 @@ function processMultiValues(input) {
     }
 }
 
-let { term, bShowInfo, info, bShowLink, bShowHeading, excludeTerms } = input;
 
+/* ---------------------------------------- */
+// 运行代码
+/* ---------------------------------------- */
+
+console.log("🔍 Querying...");
+
+let { term, bShowInfo, info, bShowLink, bShowHeading, excludeTerms } = input;
 if (!term) term = "（未定义）";
+
 let query = new Query( term, bShowInfo, info, bShowLink, bShowHeading, excludeTerms );
 query.GetResult();
-
-
 
 ```
 
@@ -345,8 +404,6 @@ query.GetResult();
 
 ==不用细看，闭着眼睛粘贴进去就行了。==
 
-> 你也可以在这里查看并下载最新版本的脚本文件：
-> [Dvjs code for Obsidian to query specific term in current note.](https://gist.github.com/Moyf/9c3c16ce4e72057c0f747ec06ff54107#file-queryterminfiles-js)
 
 ### 拓展功能说明
 
