@@ -7,7 +7,7 @@ author: Moy
 type: tutorial
 draft: false
 editable: false
-modified: 20240522123919
+modified: 20240522143508
 ---
 
 # 通过 Dataview 实现汇总显示笔记内的关键信息
@@ -135,34 +135,24 @@ await dv.view("queryTermInFile", {term: "💡"})
 // ========================================
 // 作者：Moy
 // 日期：2024.05.22
-// 版本：1.0.2
+// 版本：1.0.3
 // ========================================
+
 console.log("🔍 Querying...");
 
-function processMultiValues(input) {
-    let output = input;
-
-    if (typeof(input) != "string" && input.length > 1) {
-        output = "（未定义）";
-        const filteredTerms = input.filter(t => t && t.trim() != "");
-        if (filteredTerms.length > 0) {
-            output = filteredTerms[0];
-        } 
-        return {output, isMulti: true};
-    } else {
-        return {output, isMulti: false};
-    }
-}
-
 class Query {
-    constructor(_term, _bShowInfo=true, _info="", _bShowLink=true, _excludeTerms=[]) {
+    constructor(_term, _bShowInfo=true, _info="", _bShowLink=true, _bShowHeading=false, _excludeTerms=[]) {
         this.term = (_term == "加粗") ? "**" : ((_term == "高亮") ? "==" : _term);
+
         const { output, isMulti } = processMultiValues(this.term);
         this.term = output;
         this.isMultiTerm = isMulti;
 
+    
         this.reg = null;
         if (this.term.startsWith("/") && this.term.endsWith("/")) {
+            
+        
             try {
                 console.log("判断到正则表达式：", this.term.substring(1, this.term.length-1));
                 this.reg = new RegExp(this.term.substring(1, this.term.length-1), "i");
@@ -175,21 +165,27 @@ class Query {
         this.info = processMultiValues(_info).output;
 
         this.bShowLink = _bShowLink;
+        this.bShowHeading = _bShowHeading;
         this.excludeTerms = _excludeTerms;
 
+    
         this.linkIcon = "»";
+    
         this.fontSize = "1em";
     }
 
     Verify(text) {
+    
         if (this.excludeTerms.some(f => text.contains(f))){
             return false;
         }
 
+    
         if (text.contains("dv.view") || text.contains("term")){
             return false;
         }
 
+    
         if (this.reg) {
             return this.reg.test(text);
         } else {
@@ -197,34 +193,64 @@ class Query {
         }
     }
 
+    FetchHeadings(headings, line) {
+        let heading = "";
+        let isLastHeading = true;
+
+        for (let i = 1; i < headings.length; i++) {
+        
+            if (headings[i].position.start.line > line) {
+            
+                heading = headings[i-1].heading;
+                isLastHeading = false;
+                break;
+            }
+        }
+
+        if (isLastHeading) {
+            heading = headings[headings.length-1].heading;
+        }
+
+        return heading;
+    }
+
     async GetResult() {
         const term = this.term;
 
         const curFile = await dv.current().file;
+
         const curFilePath = curFile.path;
         const curFileName = curFile.name;
         const curTFile = await app.vault.getFileByPath(curFilePath);
+
+        const fileCache = app.metadataCache.getFileCache(curTFile);
+        const headings = fileCache.headings;
 
         if (!curTFile) {
             dv.paragraph(`正在获取含 [${term}] 的行...`);
             return;
         }
-
+        
         const encodedName = encodeURIComponent(curFileName);
         const extraAttr = `style="font-size: ${this.fontSize}" title="跳转到对应行" `;
-        const linkPrefix = ` <a ${extraAttr} href="obsidian://advanced-uri?filename=${encodedName}&line=`;
+        const linkPrefix = ` <a ${extraAttr} href="obsidian
         const linkSuffix = `">${this.linkIcon}</a>`;
+
         const noteContent = await app.vault.cachedRead(curTFile);
         const lines = noteContent.split("\n")
             .map((line, index) => ({ content: line.trim(), index }))
             .filter( ( {content} ) => this.Verify(content))
             .map(( {content, index} ) => {
+            
                 if (content.startsWith("- ") || content.startsWith("* ") || content.startsWith("+ ") ) {
                     content = content.substring(2);
                 }
 
+                const line = index+1;
+                let heading = this.bShowHeading ? this.FetchHeadings(headings, line) : "";
                 const jumpLink = `${linkPrefix}${index+1}${linkSuffix}`;
-                return { content , jumpLink };
+                
+                return { content , jumpLink, heading };
             });
             
         if (this.bShowInfo) {
@@ -242,11 +268,29 @@ class Query {
         if (lines.length) {
             const divContainer = document.createElement('div');
             const listContainer = document.createElement('ul',  { cls: "dataview dataview-class", attr: { alt: "Nice!" }});
-            lines.forEach( ({content, jumpLink}) => {
+
+            let lastHeading = "";
+
+            lines.forEach( ({content, jumpLink, heading}) => {
+            
+                if (heading != lastHeading) {
+                    const headingContainer = document.createElement('div');
+                    let isFirstLine = lastHeading == "";
+                    lastHeading = heading;
+
+                    headingContainer.innerHTML = (isFirstLine?"":"<br>") + `▌ ${lastHeading}`;
+                    listContainer.appendChild(headingContainer);
+                }
+
+            
                 const itemContainer =  document.createElement('li');
-                itemContainer.innerHTML = content;
+                itemContainer.appendChild(dv.span(content))
+            
                 if (this.bShowLink) {
-                    itemContainer.innerHTML += jumpLink;
+                    const linkContainer = document.createElement('span');
+                    linkContainer.innerHTML = jumpLink;
+                    itemContainer.appendChild(linkContainer);
+                
                 }
                 listContainer.appendChild(itemContainer);
             });
@@ -270,11 +314,30 @@ class Query {
     }
 }
 
-let { term, bShowInfo, info, bShowLink, excludeTerms } = input;
+function processMultiValues(input) {
+    let output = input;
+
+    if (typeof(input) != "string" && input.length > 1) {
+        output = "（未定义）";
+
+        const filteredTerms = input.filter(t => t && t.trim() != "");
+        if (filteredTerms.length > 0) {
+            output = filteredTerms[0];
+        } 
+
+        return {output, isMulti: true};
+    } else {
+        return {output, isMulti: false};
+    }
+}
+
+let { term, bShowInfo, info, bShowLink, bShowHeading, excludeTerms } = input;
 
 if (!term) term = "（未定义）";
-let query = new Query( term, bShowInfo, info, bShowLink, excludeTerms );
+let query = new Query( term, bShowInfo, info, bShowLink, bShowHeading, excludeTerms );
 query.GetResult();
+
+
 
 ```
 
@@ -350,7 +413,24 @@ await dv.view("js文件", {属性: 值, 另一个属性: 值})
 - bShowInfo：是否显示第一行的信息，默认 `true` 是显示，改成 `false` 可以隐藏
 - info：第一行的信息，可以用自定义
 - bShowLink：是否显示跳转到文本的链接，改成 `false` 可以隐藏
+- bShowHeading：是否显示文本所在的标题
 - excludeTerms：一个列表，用来排除特定的关键字；比如说，我要排除包含“测试”和“取消”的行，这里就写成 `excludeTerms: ["测试", "取消"]`
+
+只需要填写自己需要的参数就可以。
+
+举个例子，我想要把标题显示出来，并隐藏第一行信息，就可以改成：
+
+````
+```dataviewjs
+await dv.view(
+  "queryTermInFile",
+{
+  term: dv.current().term,
+  bShowInfo: false,
+  bShowHeading: true
+})
+```
+````
 
 ### 使用模板快速插入
 
@@ -366,8 +446,9 @@ await dv.view("js文件", {属性: 值, 另一个属性: 值})
 {
   term: dv.current().term,
   bShowInfo: true,
-  bShowLink: false,
   info: dv.current().info,
+  bShowLink: false,
+  bShowHeading: false,
   excludeTerms: []
 })
 ```
