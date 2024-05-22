@@ -40,6 +40,7 @@ modified: 20240521223612
 
 ![](https://cdn.pkmer.cn/images/202405212229366.png!pkmer)
 
+
 在 Obsidian 里，我们可以使用 `Dataview` 插件来实现想要的效果。
 
 ![](https://cdn.pkmer.cn/images/202405212229367.png!pkmer)
@@ -416,7 +417,7 @@ await dv.view("js文件", {属性: 值, 另一个属性: 值})
 
 然后在需要检索的时候直接插入这个模板，并修改检索的关键字即可。
 
-> Templater 插件也是 OB 用户基操了，[[templater-obsidian]] 这里不再介绍，有需要了解可以看咖啡的文档：[Templater | obsidian文档咖啡豆版](https://coffeetea.top/zh/community-plugins/templater.html)
+> Templater 插件也是 OB 用户基操了，[[templater-obsidian]] 这里不再介绍，有需要了解可以看文档：[[Templater插件基本语法格式]]
 
 ### 多个关键字查询
 
