@@ -3,7 +3,7 @@ uid: 20240516101016
 title: 如何在 Obsidian 中使用 AI 国产大模型？
 tags: [kimi, ai, 大模型]
 description: 本文介绍了如何在 Obsidian 中使用国产大模型。首先，我们需要注册国产大模型，例如 KIMI。然后，我们可以通过 Obsidian 的插件系统将该模型集成到 Obsidian 中。最后，我们可以利用该模型来生成文本、回答问题或进行自然语言处理任务。
-author: cuman
+author: cuman,calmwaves
 type: other
 draft: false
 editable: false
@@ -94,3 +94,43 @@ Obsidian 中有很多 AI 相关的插件，在 [Obsidian 插件集市 ](https://
 ## 总结
 
 通过使用国产大模型，在 Obsidian 中可以实现更强大的文本生成和处理功能。这为用户提供了更多的工具和资源来帮助他们在 Obsidian 中更高效地处理和组织信息。
+
+## 如何在text generator插件中配置通义千问
+
+- 申请 API-KEY
+
+[如何开通DashScope并创建API-KEY](https://help.aliyun.com/zh/dashscope/developer-reference/activate-dashscope-and-create-an-api-key)
+
+- 设置 Endpoint 和 API key
+
+[如何通过OpenAI接口调用通义千问模型](https://help.aliyun.com/zh/dashscope/developer-reference/compatibility-of-openai-with-dashscope/)
+
+Endpoint：`https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions`
+API 就是之前申请的
+
+![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/68bdad42-2606-41a0-8460-79fef4a3236c)
+
+
+- 设置模型名
+
+[模型介绍](https://help.aliyun.com/document_detail/2786271.html) [计量计费](https://help.aliyun.com/document_detail/2712574.html)
+
+有好多模型，很多是计费的。
+
+![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/3f660145-bd06-4da8-9c3d-a49381deebc4)
+
+
+- 其他配置
+
+![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/544bde45-96c5-4f2a-a0cd-3bb45d5e5cba)
+![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/a480f84a-11ed-4979-b0ec-1ad4ee7ca4e3)
+![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/46a7558d-0dd8-4ec7-8997-0ed620785b42)
+
+- 报错处理
+
+`TG Error:k2.text is nota function` [CORS issue when trying to generate text · Issue #213](https://github.com/nhaouari/obsidian-textgenerator-plugin/issues/213)
+`TG Error:'presence_penalty'is notsupport now`
+`TGError:Range of top_p shouldbe(0.0,1.0)`
+
+分别对应上一条里，三张截图的配置，请按照上一条配置好。
+
