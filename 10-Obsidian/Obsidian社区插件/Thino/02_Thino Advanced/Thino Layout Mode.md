@@ -24,11 +24,11 @@ Thino 自 2.1 后一直在探索在整理灵感，和日常任务过程中，哪
 
 你可以在激活 Pro 功能后在 Thino 顶部的视图和搜索区域进行切换，或者叫做布局切换器
 
-![image.png](https://cdn.pkmer.cn/images/20240322092622.png!pkmer)
+![image.png|300](https://cdn.pkmer.cn/images/20240523232149.png!pkmer)
 
 目前已经支持如下模式：
 
-- 列表：Thino 基础自带，延续了 Obsidian memos 时代大家习惯的方式
+- [[Thino Layout Mode]]：Thino 基础自带，延续了 Obsidian memos 时代大家习惯的方式
 - [[Thino Waterfall Layout|瀑布流布局]]：Thino 2.0.9 引入
 - [[Thino Calendar Layout|日历布局]]：Thino 2.3.0 引入
 - [[Thino Table Layout|表格布局]] ：Thino 2.3.0 引入

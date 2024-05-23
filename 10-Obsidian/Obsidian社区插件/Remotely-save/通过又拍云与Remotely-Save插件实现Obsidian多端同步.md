@@ -26,37 +26,37 @@ modified: 20240429161400
 
 登陆注册之后，来到控制台，如下：
 
-![upy1.png](https://cdn.pkmer.cn/images/upy1.png!pkmer)
+![upy1.png|1000](https://cdn.pkmer.cn/images/upy1.png!pkmer)
 
 选择**云存储**——创建服务
 
-![upy2.png](https://cdn.pkmer.cn/images/upy2.png!pkmer)
+![upy2.png|1000](https://cdn.pkmer.cn/images/upy2.png!pkmer)
 
 服务名称按需填写，应用场景，存储类型，加速区域默认即可。
 
 重点在**新建授权操作员**
 
-![upy3.png](https://cdn.pkmer.cn/images/upy3.png!pkmer)
+![upy3.png|800](https://cdn.pkmer.cn/images/upy3.png!pkmer)
 
 如图所示，这里自己填写，权限三个都勾上。记住操作员的 id 和密码。备注按需填写。
 
-![upy4.png](https://cdn.pkmer.cn/images/upy4.png!pkmer)
+![upy4.png|1000](https://cdn.pkmer.cn/images/upy4.png!pkmer)
 
 创建服务。
 
-![upy5.png](https://cdn.pkmer.cn/images/upy5.png!pkmer)
+![upy5.png|800](https://cdn.pkmer.cn/images/upy5.png!pkmer)
 
 创建好之后进入配置。如下图
 
-![upy6.png](https://cdn.pkmer.cn/images/upy6.png!pkmer)
+![upy6.png|1000](https://cdn.pkmer.cn/images/upy6.png!pkmer)
 
 选择存储管理——下拉到操作员授权——s3 凭证
 
-![upy7.png](https://cdn.pkmer.cn/images/upy7.png!pkmer)
+![upy7.png|800](https://cdn.pkmer.cn/images/upy7.png!pkmer)
 
 查看访问凭证
 
-![upy8.png](https://cdn.pkmer.cn/images/upy8.png!pkmer)
+![upy8.png|800](https://cdn.pkmer.cn/images/upy8.png!pkmer)
 
 ok，到这里又拍云配置基本完成。接下来进入 Remotely Save 插件的配置。
 
@@ -64,7 +64,7 @@ ok，到这里又拍云配置基本完成。接下来进入 Remotely Save 插件
 
 插件下载安装好后，打开如下。
 
-![rs1.png](https://cdn.pkmer.cn/images/rs1.png!pkmer)
+![rs1.png|800](https://cdn.pkmer.cn/images/rs1.png!pkmer)
 
 远程服务选择 S3，服务地址 `s3.api.upyun.com` ，区域 `us-east-1` ，Access Key ID 就是又拍云 s3 访问凭证的 key，Secret Access Key 也是刚刚复制的。填入即可。
 
@@ -74,7 +74,7 @@ S3 URL style 选择 Path-Style。
 
 在填写完成后，点击检查。
 
-![rs2.png](https://cdn.pkmer.cn/images/rs2.png!pkmer)
+![rs2.png|800](https://cdn.pkmer.cn/images/rs2.png!pkmer)
 
 如果上述操作无误，会有如下提示：
 
@@ -82,13 +82,13 @@ S3 URL style 选择 Path-Style。
 
 这表明已经成功连上了云存储。接下来是一些设置。
 
-![rs4.png](https://cdn.pkmer.cn/images/rs4.png!pkmer)
+![rs4.png|800](https://cdn.pkmer.cn/images/rs4.png!pkmer)
 
 启动后第一秒运行一次，这可以保证每次打开时会同步一次。
 
 保存时同步，建议选 10s。或按需设置。
 
-![rs5.png](https://cdn.pkmer.cn/images/rs5.png!pkmer)
+![rs5.png|800](https://cdn.pkmer.cn/images/rs5.png!pkmer)
 
 如图按需修改即可。
 
