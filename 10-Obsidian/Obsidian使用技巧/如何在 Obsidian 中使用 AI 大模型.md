@@ -129,7 +129,7 @@ API 就是之前申请的
 - 报错处理
 
 `TG Error:k2.text is nota function` [CORS issue when trying to generate text · Issue #213](https://github.com/nhaouari/obsidian-textgenerator-plugin/issues/213)
-`TG Error:'presence_penalty'is notsupport now`
+`TG Error:'presence_penalty'is notsupport now` [Azure OpenAI Api not working - presence_penalty's default should be 0 (instead of null) · Issue #250](https://github.com/nhaouari/obsidian-textgenerator-plugin/issues/250)
 `TGError:Range of top_p shouldbe(0.0,1.0)`
 
 分别对应上一条里，三张截图的配置，请按照上一条配置好。
