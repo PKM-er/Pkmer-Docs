@@ -1,13 +1,13 @@
 ---
 uid: 20240523082306
 title: 打造个性化便笺：Obsidian 轻松实现微软便笺功能
-tags: [功能库, 多彩便笺,StickyNote]
+tags: [功能库, 多彩便笺, StickyNote]
 description: 
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240523091026
+modified: 20240523213247
 ---
 
 # 打造个性化便笺：Obsidian 轻松实现微软便笺功能
@@ -25,7 +25,7 @@ modified: 20240523091026
 
 许多人应该都用过微软自带的便笺，只需在 win10 中按下 `Win + Q/S`，然后搜索 `Sticky note` 或者 `便笺` 即可。在我开始使用 Obsidian 之前，我常常利用**便笺**记录一些临时信息和每天的计划。但是，接触到 Markdown 等笔记工具后，我发现**便笺**的简单功能已经无法满足我的需求了，特别是限制每次仅能保存一张图片。习惯了 Markdown 语法以及 Obsidian 提供的自定义快捷键和本地数据存储后，我突发奇想决定利用 Obsidian 打造自己的便笺库。
 
-随后实现了 [多彩背景设定](https://pkmer.cn/show/20240417152147)，建立相邻窗口进行笔记记录并添加悬浮按钮等功能，并开始将其整合成这个 [Obsidian多彩便笺功能库](https://github.com/PandaNocturne/Obsidian-colorful-sticky-notes)。经过约一个月的个人使用体验，效果还不错，因此我想分享一下这个库的使用方法。
+随后实现了 [[Obsidian样式-多彩便笺背景]]，建立相邻窗口进行笔记记录并添加悬浮按钮等功能，并开始将其整合成一个Obsidian库。经过约一个月的个人使用体验，效果还不错，因此我想分享一下这个库的使用方法。
 
 除了实现微软便签功能（不包括同步）如更换背景、在新窗口中创建笔记、以列表视图查看便签等功能……当然也支持 Obsidian 的 Markdown 语法，如插入图片、创建表格、创建 Callout 和添加别名或标签。同时配置了 Solve 插件，你可以随时新建一个临时计算草稿作为备忘录。
 
@@ -153,3 +153,7 @@ modified: 20240523091026
 | Modal forms | 1.42.1 | 定义表单以填写数据，表单将以对话框形式出现。 |
 
 这是本人用于一些简单的任务管理和统计的便笺中未完成的事项的，不过任务管理整体比较复杂，目前体系还不完善，故这类插件不必要，如果想简单了解一下的可以看看这个 [[基于 QuickAdd+Modal Form的任务 (Task) 编辑器]]。
+
+### 下载地址
+
+ [Obsidian多彩便笺功能库](https://github.com/PandaNocturne/Obsidian-colorful-sticky-notes)

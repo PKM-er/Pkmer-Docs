@@ -84,3 +84,5 @@ module.exports = async (params) => {
 基于此灵感，做了一个 [Obsidian 多彩便笺小库](https://github.com/PandaNocturne/Obsidian-colorful-sticky-notes)，可以体验一下：
 
 ![2024-04-16_Obsidian样式-多彩便笺背景_IMG-3](https://cdn.pkmer.cn/images/202404201550475.gif!pkmer)
+
+具体库的使用说明参考 [[打造个性化便笺：Obsidian轻松实现微软便笺功能]]

@@ -7,7 +7,7 @@ author: Moy
 type: tutorial
 draft: false
 editable: false
-modified: 20240522143508
+modified: 20240523213221
 ---
 
 # 通过 Dataview 实现汇总显示笔记内的关键信息
@@ -37,7 +37,6 @@ modified: 20240522143508
 好在我用的笔记软件是超强可定制功能嘎嘎多的 Obsidian！
 
 ![](https://cdn.pkmer.cn/images/202405212229366.png!pkmer)
-
 
 在 Obsidian 里，我们可以使用 `Dataview` 插件来实现想要的效果。
 
@@ -406,7 +405,6 @@ query.GetResult();
 这段 JS 代码很长，~~因为我加了很多厉害的工作并做了各种防呆适配~~。
 
 ==不用细看，闭着眼睛粘贴进去就行了。==
-
 
 ### 拓展功能说明
 
