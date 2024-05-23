@@ -27,9 +27,11 @@ id: 872b94ce8d5643c8
 - [[Thino Date Grouping|日期分组]]
 - [[Thino Reference|Thino Thino 脉络]]
 -  [[Thino Layout Mode|Thino 布局模式]]
-	-  [[Thino Waterfall Layout|瀑布流布局]]
+	- [[Thino Waterfall Layout|瀑布流布局]]
 	- [[Thino Calendar Layout|日历布局]]
 	- [[Thino Table Layout|表格布局]]
+	- [[Thino Chat view Layout|聊天布局]]
+	- [[Thino Moments view Layout|动态视图]]
 - [[Thino Settings|设置]]
     -   [[Thino Settings#基础设置|基础设置]]
     -   [[Thino Settings#本体设置|本体设置]]
@@ -44,6 +46,8 @@ id: 872b94ce8d5643c8
 
 ## Thino 与其他软件联动
 
-[[使用 Quicker 与 Thino 进行联动]]
-
-[[使用简悦 SimpRead 与 Thino 进行联动]]
+- [[使用 Quicker 与 Thino 进行联动]]
+- [[使用简悦 SimpRead 与 Thino 进行联动]]
+- [[thino与anki的联动教程]]
+- [[静读天下摘录批注记录到THino]]
+- [[Obsidian Thino-基础工作流-日记周记速记的自动化汇总]]

@@ -3,11 +3,11 @@ uid: 20230329145809
 title: Obsidian 插件：Better footnote 增加悬浮展示功能
 tags: [Obsidian, 插件, 脚注, 引用]
 description: Obsidian 插件 Better footnote 为 Obsidian 脚注增加悬浮展示功能，鼠标指向后，脚注的解释会出现在对应位置。
-author: OS
+author: OS,永皓Yh
 type: basic
 draft: false
 editable: false
-modified: 20230911010349
+modified: 20240408184157
 ---
 
 # Obsidian 插件：Better footnote 增加悬浮展示功能
@@ -33,6 +33,11 @@ Better Footnote 可以让你在预览模式将光标放到脚注上时，自动�
 - 双击脚注：跳转到底部的参考内容。
 	- 只有在插件设置中启用了“显示引用”（Show reference）时才有效
 - 平滑浮现：快速预览的浮现效果是否平滑显示，而不是立刻弹出。
+
+## 设置菜单
+
+- Show reference：跳转到文档底部显示脚注说明
+- Smooth transition：一次只能显示一个弹出窗口，在弹出窗口之间平滑过渡
 
 ## 兼容性
 

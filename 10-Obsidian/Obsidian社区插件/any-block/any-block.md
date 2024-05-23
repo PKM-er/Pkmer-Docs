@@ -7,7 +7,7 @@ author: LincZero
 type: other
 draft: false
 editable: false
-modified: 20230811150654
+modified: 20240429183114
 ---
 
 # Obsidian 插件：Any Block 一个简易而又强大的块编辑器
@@ -62,8 +62,6 @@ modified: 20230811150654
 ![](https://cdn.pkmer.cn/images/202308110925649.gif!pkmer)
 
 ![](https://cdn.pkmer.cn/images/202308110925650.png!pkmer)
-
-
 
 AnyBlock 最容易理解的一个功能就是 List 转 Table，但这并不是插件的核心，只是一种比较有用的附带功能。
 
@@ -129,9 +127,9 @@ AnyBlock 做的，就是混淆这些语法的选择方式。无论是引用块�
 
 AnyBlock 有两种方式做到这一点：
 
-1. 通过 [块转化](5.%20使用示例%20-%20基于理念的灵活操作.md) 功能，将不在代码块内的文本假装成是在代码块内。
+1. 通过 [[5 - 插件设计理念#语法块转化]] 功能，将不在代码块内的文本假装成是在代码块内。
    你可以通过该方式处理几乎所有的使用代码块的插件
-2. 插件开发人员可以使用 AnyBlock 提供的 [新接口](9%20-%20For%20Developer.md)，注册新的处理器来处理
+2. 插件开发人员可以使用 AnyBlock 提供的 [[9 - For Developer#注册新的处理器]]，注册新的处理器来处理
 
 此外，AnyBlock 还将降低开发难度
 

@@ -7,7 +7,7 @@ author: cuman,OS
 type: awesome
 draft: false
 editable: false
-modified: 20230603013635
+modified: 20240511100045
 ---
 
 # Mermaid 语法
@@ -18,7 +18,9 @@ Mermaid 是一种开源的可交互式的数据可视化库，它使用 Markdown
 
 学习 Mermaid 的好方法是访问它的官方网站，其中包含了详细的文档和教程。
 
-官方网站：​ ​<https://mermaid-js.github.io/​>
+官方网站：​ ​<<https://mermaid-js.github.io/>​>
+
+在线调试： [Mermaidv10.9.0 Live Editor](https://mermaid.live/)
 
 在这里，你可以找到有关 Mermaid 的基础知识、语法和用例的信息。此外，你还可以在该网站的“Examples”部分找到各种示例图表和流程图，以及如何使用 Mermaid 创建它们的代码。
 
@@ -39,15 +41,15 @@ Start --> Stop
 
 - [[Mermaid语法-流程图]]
 - [[Mermaid语法-时序图]]
-- Mermaid语法-类图
-- Mermaid语法-状态
-- Mermaid语法-实体关系图
-- Mermaid语法-用户旅程图
-- Mermaid语法-甘特图
-- Mermaid语法-饼图
-- Mermaid语法-需求图
-- Mermaid语法-Git图
-- Mermaid语法-一些示例
+- Mermaid 语法 - 类图
+- Mermaid 语法 - 状态
+- Mermaid 语法 - 实体关系图
+- Mermaid 语法 - 用户旅程图
+- Mermaid 语法 - 甘特图
+- Mermaid 语法 - 饼图
+- Mermaid 语法 - 需求图
+- Mermaid 语法 -Git 图
+- Mermaid 语法 - 一些示例
 
 ## Mermaid 和 PlantUML 异同
 

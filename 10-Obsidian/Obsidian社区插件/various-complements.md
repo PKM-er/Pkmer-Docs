@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230829153026
+modified: 20240426093735
 ---
 
 # Obsidian 插件：Various Complements 强大自动补全快捷输入工具
@@ -151,3 +151,21 @@ co-time=>> [!timeline]\n>>左栏时间内容\n>---\n>右栏内容\n>> 左栏位�
 |Android|支持|
 |iPhone|  |
 |iPad|支持|
+
+## 视频教程
+
+### 帮你快速高效不全文本输入
+
+<iframe src="https://player.bilibili.com/player.html?aid=1552583249&bvid=BV1d1421U7tb&cid=1492976898&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>
+
+### 显示、快捷键、当前文件&库文件补全设置
+
+<iframe src="https://player.bilibili.com/player.html?aid=1402858488&bvid=BV1qr421x7aN&cid=1498538063&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>
+
+### 自定义补全词典设置与语法
+
+<iframe src="https://player.bilibili.com/player.html?aid=1402839296&bvid=BV1kr421x7RV&cid=1500870344&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>
+
+### 内部链接、页面、智能优先级与命令菜单
+
+<iframe src="https://player.bilibili.com/player.html?aid=1653065082&bvid=BV11E421u7gN&cid=1507632012&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>

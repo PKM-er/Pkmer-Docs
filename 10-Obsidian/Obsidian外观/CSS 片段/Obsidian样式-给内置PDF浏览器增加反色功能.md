@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230920232947
+modified: 20240429174448
 ---
 
 # Obsidian 样式：给内置 PDF 浏览器增加反色功能
@@ -20,7 +20,7 @@ Obsidian 最近新增加强了内置 PDF 浏览器。
 
 ## 实践
 
-可以通过加入这段 snippet 来修改，添加的方法 [[自定义]]
+可以通过加入这段 snippet 来修改，添加的方法  [[Obsidian的CSS代码片段]]
 
 ```CSS
 .pdf-container {

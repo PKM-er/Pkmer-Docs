@@ -7,14 +7,14 @@ author: PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240313133257
+modified: 20240429200957
 ---
 
 # PKMer 社区 FAQ
 
 - 这里汇集了一些大家在各个 IM 群讨论，想了解 PKMer 的问题。
 - 此文档涉及了 PKMer 在各个功能和做法上举措和选择，以及一些不得已的理由。
-- 原计划没有这个页面的，因为 PKMer 做得事情光明正大，透明且公正，但耐不住很多粉丝在群里各种询问。
+- 原计划没有这个页面的，因为 PKMer 做的事情光明正大，透明且公正，但耐不住很多粉丝在群里各种询问。
 - 另外检讨下，说明 PKMer 做得工作远远不够，革命尚未成功，同志尚需努力
 
 ## PKMer 是为了 Obsidian 存在吗
@@ -23,7 +23,7 @@ OS 回答：
 
 - 并不全是，但是我们依然提供解决 Obsidain 插件、主题下载问题的 [Obsidian 主题集市 (pkmer.cn)](https://pkmer.cn/products/theme/themeMarket/) [Obsidian 插件集市 (pkmer.cn)](https://pkmer.cn/products/plugin/pluginMarket/)
 	- 并且社区全体同学都非常感谢 猫哥和银姐开创了 Obsidian 这款软件，以及 Obsidian 广大社区插件开发者
-- 你们会发现社区已经陆续更新了 Zotero，Tiddy Wiki 等内容
+- 你们会发现社区已经陆续更新了 Zotero，TiddlyWiki 等内容
 - 未来也包括你，也可以为社区做出贡献，了解 PKMer 社区积极贡献者们 [关于我们](https://pkmer.cn/about/)
 
 ## PKMer 是全免费的吗？
@@ -89,7 +89,7 @@ OS 回答：
 	- 利用群内的搜索【搜 关键字】，或者利用网站搜索，或者网站分类页面
 		- [[Obsidian社区插件]]
 	- 你也可以在下面文档中按照格式提交自己的问题
-		- [PKMer 常见题汇总](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=2I6PmZ9XED6GBaPwCiiiqD)
+		- [PKMer 常见问题汇总](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=2I6PmZ9XED6GBaPwCiiiqD)
 		- 社区管理员和其他人回去整理回答
 		- 这些回答会成为网站的一部分。
 - 其次，态度：
@@ -170,7 +170,7 @@ OS 回答：
 
 - 主要是提供 RSS 还需要开发转化输出的功能，目前社区各个方面都需要人力
 - 另外，一些好的 RSS 软件已经提供了自己烧录任意网站 RSS 的功能
-- 跟前面很多问题，一样， 既然有更加好的便捷工具，可以自助。社区就会投放人力到别的方面
+- 跟前面很多问题，一样，既然有更加好的便捷工具，可以自助。社区就会投放人力到别的方面
 
 ## 我想为社区贡献，我能做什么？
 
@@ -179,11 +179,11 @@ OS 回答：
 协作任务需要按照一定的格式规范书写，其规范在 [[文档写作规范]]。任务的成果将无偿贡献给社区，同时适用于 GPL-v3.0 开源协议，包括但不限于：
 
 - 翻译：
-	- 插件翻译，文档翻译，论文翻译，网页翻译等内容
+	- 文档翻译，论文翻译，文章翻译等内容
 - 教程和分享：
 	- 知识管理，软件，工作流等具有参考价值和普适性的内容
 - 视频协作：
-	- Obsidian、Zotero 等等都可以
+	- Obsidian、Zotero、Logseq 等等都可以
 - 开发：
 	- 插件开发
 	- Web 服务开发
@@ -210,8 +210,8 @@ OS 回答：
 	- Zotero 的使用教程
 	- Zotero 的插件教程
 	- Zotero 的使用技巧
-- logseq、TIddywiki
-- Agenda、devothink、todoist、Notion
+- Logseq、TiddlyWiki
+- Agenda、DEVONthink、Todoist、Notion
 - 甚至你喜欢收集软件、知识管理动态，都可以来社区踊跃参加
 - ==如果你还有其他建议，也可以联系群管理员==
 
@@ -301,7 +301,7 @@ OS 回答：
 	- 积极推荐好的插件和作者，但是社区还未关注到作者、插件
 - 反面案例
 	- 行为举例 1：在交流群或文章中踩低别人产品、文章、观点
-		- 试想下：截图和聊天记录，会被别人断章取于，归结于社区的说法，这种不利于社区内部团结和外部团结
+		- 试想下：截图和聊天记录，会被别人断章取义，归结于社区的说法，这种不利于社区内部团结和外部团结
 		- 试想下：经常性提出引战话题，或者在管理员出面阻止时，依然继续
 	- 行为举例 2：催更和无理取闹
 		- 试想下：你在工作中被人催促的压力，故“己所不欲勿施于人”
@@ -346,7 +346,7 @@ OS 回答：
 
 OS 回答：
 
-- 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[thino-changelog]]
+- 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[0x-thino-changelog]]
 
 #### 获取安装包
 
@@ -354,7 +354,7 @@ OS 回答：
 
 #### 激活 Pro
 
-[[04_Thino 的安装与 Pro 激活]]
+[[04_Thino Installation and Pro Activation|04_Thino 的安装与 Pro 激活]]
 
 ## PKMer 只是为爱发电吗？
 
@@ -373,14 +373,14 @@ OS 回答：
 
 OS Answer:
 
-- Currently, the website does not support foreign or Chinese Hong Kong and Tawan mobile phone numbers. This ismainly due to cost considerations and is temporarily not covered.
+- Currently, the website does not support foreign or Chinese Hong Kong and Taiwan mobile phone numbers. This is mainly due to cost considerations and is temporarily not covered.
 - However, it does not mean that registration is not supported. You can register using your email.
 
 ### How to support the community
 
 OS Answer:
 
-- You can contact the administrator via instant messaging to discuss the methods. Currently, we support WeChatAlipay, etc. The administrator will record the changes in membership level after the payment is made in thebackground.
+- You can contact the administrator via instant messaging to discuss the methods. Currently, we support WeChat and Alipay, etc. The administrator will record the changes in membership level after the payment is made in the background.
 
 > [!Warning]
-> Please be aware of potential scammers disguising themselves as PKMer community members. Before makingany transfers or payments, please make sure to confirm the other person's identity multiple times.
+> Please be aware of potential scammers disguising themselves as PKMer community members. Before making any transfers or payments, please make sure to confirm the other person's identity multiple times.

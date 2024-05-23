@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240123173638
+modified: 20240506222702
 ---
 
 # Obsidian 社区插件
@@ -72,7 +72,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
-- [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式；另外也有一篇文章分享了 [[Dynamic-Highlights 插件的几种使用场景]]
+- [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式；
+	- 另外也有一篇文章分享了 [[Dynamic-Highlights插件的几种使用场景]]
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[obsidian-remember-file-state]]：
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
@@ -117,6 +118,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[multi-column-markdown]]：在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档
 - [[Obsidian样式-MCL Multi Column]]
 - [[obsidian-timeline]]：用于构建漂亮的时间轴/时间线
+- [[obsidian-sticky-heading]]：让当前内容的标题始终处于页面上方
 
 ### 标题增强
 
@@ -128,6 +130,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些插件致力于大幅强化 Obsidian 笔记中图片的操作体验，并提供诸多实用功能，例如方便地查看和管理笔记中的图片，将网络图片集成到本地，等等。这些插件都极大地丰富了 Obsidian 用户的图片使用体验，使用户可以更加方便地在笔记中插入、编辑和排序图片，并提高他们的使用效率。此外，它们还提供了许多高级功能和实用性的工具，例如图片大小调整、编辑、居中、旋转，以及自动生成文件名等。每一个细节都经过了认真优化，让用户可以获得更为舒适顺畅的图片使用体验。
 
+- - [[obsidian-attachflow-plugin]]：用户友好的图片操作插件，可拖拽调整大小
 - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
 - [[awesome-image]]：提供笔记中查看图片的基本操作
 - [[obsidian-charts]]：为 Obsidian 中的笔记增加一个图表功能
@@ -143,6 +146,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-camera]]：给你的笔记增加照相记录功能
 - [[Obsidian如何生成和美化目录]]
 - [[image-memo]]：更好的展示你的图片，给你图片打上标签
+- [[obsidian-attachflow-plugin|Obsidian AttachFlow 插件]]：内嵌附件（图片、Excalidraw、视频、PPT、Word...）右键菜单，拖拽调整图片大小
 
 ### 目录和大纲类
 
@@ -165,6 +169,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-tracker]]：将笔记中的变化收集起来，并且提供不同预设的图形分析模板
 - [[order-list]]：添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
 - [[obsidian-party]]：Obsidian 上的 party.js 实现。在您的笔记中创建五彩纸屑、火花，甚至自定义效果！
+- [[zettelkasten-navigation]]：可视化和导航一个卢曼风格的笔记库
 
 ### 任务类&提醒
 
@@ -206,6 +211,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[codeblock-tabs]]：将连续的 CodeBlocks 创建标签组样式
 - [[obsidian-code-tab]]：创造类似 leetcode 样式的混合代码块，且不仅限于代码块
 	- [[code-tab还能这么玩]]：codetab 插件的活用文章
+- [[obsidian-shiki]]：为超过 100 种语言提供更好的语法高亮显示等一系列功能
 
 ### 搜索
 
@@ -245,6 +251,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[graph-analysis]]：将图形分析能力添加到 Obsidian，此插件实现了一套算法，可以计算仓库中的笔记之间的关联关系
 - [[obsidian-relation-pane]]：显示一个总结笔记间关系的面板
+- [[zettelkasten-navigation]]：可视化和导航一个卢曼风格的笔记库
 
 ### 导出&分享&发布
 
@@ -356,7 +363,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 	- [[Templater实现关键词自动化套用模板]]
 - [[quickadd]]：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
 - [[dataview]]：高性能的索引 md 文件，并创建复杂的查询视图，如表格，列表，任务，日历视图
-	- [[Dataview语法参考库]]
 	- [[Dataview基本语法|开篇-Dataview基本语法]]
 	- [[Dataview语法实战|进阶-Dataview语法实战]]
 	- [[Dataview社区实践经验|应用-Dataview社区实践经验]]
@@ -403,11 +409,13 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-dynamic-background]]：为 Obsidian 添加动态背景
 - [[obsidian-minimal-settings]]：为你 Minimal 主题提供自定义选项
 - [[obsidian-chat-view-qq]]：chat-view-qq 保存 QQ 消息到 Obsidian 中
+- [[obsidian-wallpaper]]：为库添加动态背景图
 
 ### 恢复&备份
 
 - [[show-diff]]：在 Obsidian 文件中呈现 Git 差异
 - [[obsidian-version-history-diff]]：比较同步和文件恢复插件以及当前文件的 Git 版本历史。添加一个命令来打开同步插件的版本历史。
+- [[通过又拍云与Remotely-Save插件实现Obsidian多端同步]]
 
 ### 库管理/文件管理/文件夹管理
 
@@ -483,7 +491,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-tray]]：让 Obsidian 关闭窗口时，可以自动缩小到系统托盘
 - [[obsidian-hover-editor]]：通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能
 - [[customizable-menu]]：右键菜单增强，可以自定义右键菜单绑定的命令，鼠标党福音
-- [[bartender]]：Bartender 提供了拖拽排序文件夹功能，允许重新排列状态栏和侧边栏中的元素
+- [[obsidian-bartender-fix]]：Bartender 提供了拖拽排序文件夹功能，允许重新排列状态栏和侧边栏中的元素
 - [[css-editor]]：在 Obsidian 中像笔记一样编辑 CSS 代码片段文件
 
 ### 插入预览

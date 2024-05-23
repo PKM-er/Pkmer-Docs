@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20230905104845
+modified: 20240317212623
 ---
 
 # 通过 Python 脚本实现 Eagle 管理 Zotero 标注的图片
@@ -187,3 +187,102 @@ Eagle 提供了强大的标签和分类功能，让用户按需整理和归类�
 如果你想导入 Obsidian 进行管理的话，这里推荐 Obsidian 另一种附件管理神器 Billfish，把 Eagle 导出的素材包导入 Billfish 中时，图片回链保存。
 
 > 我一开始尝试用 Billfish 来批量添加回链的，不过图片的信息不好批量添加，因此转向了 Eagle，用 Eagle 的定期的发送素材包到 Billfish 里面也算是一种方法了。
+
+## 后续：2024-03-17_通过JS调用 Eagle API 来实现 
+
+这是JavaScript实现的，有Python版的，但没咋整理，就不放出来了。
+
+```js
+const fs = require("fs");
+const { it } = require("node:test");
+const path = require("path");
+
+// 获取已存在的ZoteroItems
+var requestGetZoteroItems = {
+    method: 'GET',
+    redirect: 'follow',
+};
+const folderPath = "D:/Zotero/cache/library";
+const EaglePath = "E:/PandaEagles/素材管理.library/images";
+const folderId = "LMRSDNMGWH8MZ";
+
+var requestOptions = {
+    method: 'POST',
+    redirect: 'follow'
+};
+
+fetch("http://localhost:41595/api/item/list?token=YOUR_API_TOKEN&ext=png&limit=1000", requestGetZoteroItems)
+    .then(response => response.json())
+    .then(result => {
+        const pngItems = Object.values(result.data.filter(data => data.ext === 'png'));
+        const names = pngItems.map(item => item.name);
+
+        var newItems = {
+            "items": [],
+            "folderId": folderId,
+            "token": requestGetZoteroItems.token,
+        };
+
+        var updateItems = {
+            "token": requestGetZoteroItems.token,
+        };
+
+        // 读取文件夹中的所有文件
+        fs.readdir(folderPath, (err, files) => {
+            if (err) {
+                console.error("无法读取文件夹:", err);
+                return;
+            }
+            // 遍历文件夹中的所有文件
+            files.forEach((file) => {
+                let item = {
+                    "name": path.parse(file).name,
+                    "website": `zotero://open-pdf/library/items/${path.parse(file).name}?annotation=${path.parse(file).name}`,
+                };
+
+                imagePath = path.join(folderPath, file);
+                if (!names.includes(item.name)) {
+                    // 创建新的项目对象                    
+                    item.path = imagePath;
+                    newItems.items.push(item);
+                    console.log(item.path);
+                } else if (names.includes(item.name)) {
+                    oldItem = pngItems.filter(it => it.name === item.name);
+                    item = oldItem[0];
+                    itemPath = `${EaglePath}/${item.id}.info/${item.name}.${item.ext}`;
+
+                    if (fs.statSync(imagePath).size === fs.statSync(itemPath).size) {
+                        // console.log("文件大小相等，不进行复制");
+                        return;
+                    } else {
+                        fs.copyFileSync(imagePath, itemPath);
+                        console.log(itemPath);
+                        updateItems.id = item.id;
+                        requestOptions.body = JSON.stringify(updateItems);
+                        fetch("http://localhost:41595/api/item/refreshThumbnail", requestOptions)
+                            .then(response => response.json())
+                            .then(result => console.log(result))
+                            .catch(error => console.log('error', error));
+                    }
+
+                }
+
+            });
+
+            // 如果data.items为空，则跳过添加
+            if (newItems.items.length !== 0) {
+                var requestOptions = {
+                    method: 'POST',
+                    body: JSON.stringify(newItems),
+                    redirect: 'follow'
+                };
+                fetch("http://localhost:41595/api/item/addFromPaths", requestOptions)
+                    .then(response => response.json())
+                    .then(result => console.log(result))
+                    .catch(error => console.log('error', error));
+            }
+            console.log("✅同步完成");
+
+        });
+    })
+```

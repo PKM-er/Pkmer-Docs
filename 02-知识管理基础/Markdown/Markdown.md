@@ -1,19 +1,20 @@
 ---
 uid: 20230328202827
-title: Markdown 基础
+title: Markdown 基础入门
 tags: [Markdown]
 description: Markdown 基础语法，标题，大纲，有序列表，无序里欸包，图片，表格，任务列表，语法
 author: 
 type: basic
 draft: false
 editable: true
-modified: 20231214140355
+modified: 20230328202827
 ---
 
-# Markdown 基础
+# Markdown 基础入门
 
-> [!warning]
-> 本文只包含 Markdown 基础语法，并不包含笔记软件特定语法，这样区分以便读者选择通用语法使用，以便后续迁移笔记软件。
+> [!info]
+> - 本文只包含 Markdown 基础语法，并不包含笔记软件特定语法，这样区分以便读者选择通用语法使用，以便后续迁移笔记软件。
+> 更全面的入门文档可以看这篇 [[Markdown超级教程 Obsidian版]]
 
 ## 什么是 Markdown?
 

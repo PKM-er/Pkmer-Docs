@@ -12,7 +12,7 @@ author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240201102424
+modified: 20240505011252
 id: 0ad80ec603ac5a5a
 ---
 
@@ -39,20 +39,35 @@ id: 0ad80ec603ac5a5a
 	- [[04_Thino Installation and Pro Activation|Thino 的安装与 Pro 激活]]
 3. 激活同步功能：【如果已完成激活，可跳过】
 	- 进入 PKMer 个人中心，激活 Thino 同步功能，参见 [[Thino Sync#如何激活同步功能]]
-4. 绑定微信：
-	- 进入个人中心
-	- 在个人中心 - > Thino Web 服务 - > 点击`绑定 Thino 微信端`
-	- 并扫描弹出的二维码 
-	  ![image.png|350](https://cdn.pkmer.cn/images/20240115120729.png!pkmer)
+4. 绑定微信，有两种方式
+![image.png](https://cdn.pkmer.cn/images/20240322202213.png!pkmer)
+- 进入个人中心
+	- 方案 1：在个人中心 - > Thino Web 服务 - > 点击 `绑定 Thino 公众号`
+	- 并扫描弹出的二维码
+	  ![image.png|200](https://cdn.pkmer.cn/images/20240115120729.png!pkmer)
+	- 方案 2：绑定 Thino 助手
+		- 关注企业微信 Thino 助手
 
-> [!note] 注意
-> - 对于新插件安装和激活能力，如果遇到异常情况，建议请优先尝试重启
+> [!Note] Thino 助手 和 Thino 公众号方式的区别
+> - 支持微信内部的转发：Thino 助手支持从微信内直接转发消息和图片到 Thino 本地
+> - 转发速度：Thino 助手虽然支持微信转发功能，但是同步速度不如微信公众号及时
+
+> [!Warning] 注意
+> - 对于微信同步能力，依赖 Thino Web 服务，目前 Web 服务对早鸟用户是免费试用的
+> - PKMer 公布价格后，不要您补交之前是使用费用
+> - 同理，请您务必关注您的 Web 服务付费状态
+
 ### 微信中使用
 
 - 每条你发送的图片和文本信息，系统会提示你是否保存成功
 - 如果遇到没有保存成功的，可以尝试再次发送来解决
 
+> [!Note] 两种方式有何不同
+> - 绑定助手方式，使用更丝滑，因为可以直接在日常聊天记录中转发到 thino 助手这个微信号即可，但会有 10s 左右的同步延迟。
+> - 绑定公众号方式，更加迅速，虽然无法支持，转发，但是这个方式同步速度几乎是实时的。
+> - 以上这些都是基于微信生态限制导致的，并非我们故意为之。
+
 ### 微信同步到 Thino 后的存储
 
-- 因为  [[Thino Sync|Thino 同步]] 在 2.2.4 之后引入了日记模式的支持
+- 因为 [[Thino Sync|Thino 同步]] 在 2.2.4 之后引入了日记模式的支持
 - 所以现在微信的同步，支持写入到日记和单文件两种模式，具体存储在哪里取决于你在 Thino 设置中选定的同步存储方式

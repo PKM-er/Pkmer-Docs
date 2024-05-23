@@ -7,7 +7,7 @@ author: OS
 type: practice
 draft: false
 editable: false
-modified: 20230604172506
+modified: 20240426094313
 ---
 
 # Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作
@@ -41,7 +41,7 @@ Obsidian 插件——Longform，是一款专为写作者和写作团队而设计
 > - 插件版本：2.0.3
 > - 插件作者：Kevin Barrett
 > - 插件描述：一款专为写作者和写作团队而设计的插件。它可以帮助用户创建和管理大型文学项目，例如书籍、小说、论文等。它可以将大文本拆分成更小的部分，例如章节、段落和场景，并提供基本编辑和组织工具。
-> - 插件项目地址：[点我跳转]（<https://github.com/kevboh/longform）>
+> - 插件项目地址：[点我跳转]（<<https://github.com/kevboh/longform>）>
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?longform)
 
 ## 我的小说文件夹结构
@@ -383,3 +383,7 @@ Notebooks 可以选择使文件的第一行成为 H1 标题（默认情况下同
 - [[obsidian-hover-editor]]
 - [[obsidian-kanban]]
 - [[obsidian-excalidraw-plugin]]
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=1401710156&bvid=BV1yr421J7Qa&cid=1466748598&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>

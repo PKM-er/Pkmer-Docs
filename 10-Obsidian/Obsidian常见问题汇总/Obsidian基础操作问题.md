@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231214144142
+modified: 20240429174616
 ---
 
 # Obsidian 基础操作
@@ -301,13 +301,13 @@ Obsidian 的笔记中，标题可以显示当前标题等级。
 - 或许是因为你当前使用的主题各级标题字号不够明显；
 - 或许是因为你的标题没有自动编号（如何自动编号参考这里 [[Obsidian基础操作问题#Obsidian 中实现标题自动编号，像 Word 一样]]）；
 - 插件法
-	- 使用 [[Obsidian 插件：Lapel 为你显示标题等级]]
+	- 使用 [[lapel|Obsidian 插件：Lapel 为你显示标题等级]]
 - 主题法
 	- 一些主题默认支持显示标题等级，或是提供了对应的设置选项。如 [[Blue Topaz]] 等。
 - CSS 样式法
 	- 当然你可能有你偏爱的主题，不想因此更欢主题。那么可以选择使用独立的 CSS 片段。
 
-如何使用独立 CSS 片段，可以参考 [[02、Obsidian 的 Snippets]]
+如何使用独立 CSS 片段，可以参考 [[Obsidian的CSS代码片段]]
 
 ```CSS
 /*使用H1-H6 代替#号来显示标题等级*/
@@ -645,10 +645,10 @@ Obsidian 中实现标题自动编号，像 Word 一样，而不是我一个个�
 设置→核心插件→每日笔记→勾选【开启时打开每日笔记】
 
 - 每次都打开同一个：指定特殊的笔记
-参看：[[Obsidian 插件：Homepage（像浏览器一样设置起始页）]]
+参看：[[obsidian-homepage|Obsidian 插件：Homepage（像浏览器一样设置起始页）]]
 
 - 像浏览器一样设置起始页
-参看：[[Obsidian 插件：Homepage（像浏览器一样设置起始页）]]
+参看：[[obsidian-homepage|Obsidian 插件：Homepage（像浏览器一样设置起始页）]]
 
 ### Obsidian 如何批量移动多个文件
 

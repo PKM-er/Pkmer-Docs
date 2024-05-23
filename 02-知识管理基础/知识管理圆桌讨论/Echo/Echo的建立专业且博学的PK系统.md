@@ -24,7 +24,7 @@ modified: 20230702233228
 
 这套方法和实践是我迭代和应用了两年的成果，这个视频是纯干货分享，以及通用的实践方法，尤其是利用 Obsidian 的插件搭建了 PK 系统知识地图。
 
-<iframe src="//player.bilibili.com/player.html?aid=785416930&bvid=BV1m14y1d7DW&cid=1182936146&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=785416930&bvid=BV1m14y1d7DW&cid=1182936146&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ## 什么是专业且博学的 PK 系统
 

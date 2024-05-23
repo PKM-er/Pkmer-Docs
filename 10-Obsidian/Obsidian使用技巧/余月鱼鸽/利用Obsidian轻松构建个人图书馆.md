@@ -21,7 +21,7 @@ modified: 20231206000352
 1. 可以通过主页的快捷按钮打开【个人图书馆】
 2. 在个人图书馆中可以通过对 yaml 数据的筛选或排序快速定位书籍
 
-![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120151341.png!pkmer)
+![个人图书馆的简单构建|900](https://cdn.pkmer.cn/images/Pasted%20image%2020231120151341.png!pkmer)
 
 1. 点击书籍后，可以直接查看书籍的基础信息并进行阅读
 ![个人图书馆的简单构建](https://cdn.pkmer.cn/images/Pasted%20image%2020231120152059.png!pkmer)

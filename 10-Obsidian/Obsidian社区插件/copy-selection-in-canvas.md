@@ -44,7 +44,7 @@ modified: 20231123230136
 
 首先，你需要安装一个插件：[[quickadd]]
 
-另外你需要用下方的代码创建一个 js 文件放入你的 Obsidian 库中（位置随意），或者下载这个 js 文件：[[canvas-copy-selection.js]]
+另外你需要用下方的代码创建一个 js 文件放入你的 Obsidian 库中（位置随意），或者下载这个 js 文件
 
 ```javascript
 // Save this code into a javascript file.

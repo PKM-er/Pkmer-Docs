@@ -7,33 +7,43 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20240311200235
+modified: 20240520000159
 ---
 
 # Obsidian 社区周报
 
-没错，你发现，已经消失很久的 Obsidian 社区周报又回归了。从 23 年 12 月 29 日开始会在 PKMer 社区网站和相关的 PKMer 社区自媒体上放出。
+这个专栏的灵感来源于 _Eleanor Konik_ 女士从 2021 年 4 月所写并发布的一系列 [Obsidian Roundup](https://www.eleanorkonik.com/tag/roundup/) 文章。对此有兴趣的人可以通过原作者的个人网站 [Obsidian Iceberg](https://www.eleanorkonik.com/) 进行跟踪。本节的内容取自官方 Obsidian Discord 频道和 Github 上对应项目的信息，或者它们的独立网站。描述可能基于个人解读进行了修改，如果有任何不准确之处，欢迎指正。感谢 Obsidian 团队为我们带来如此优秀的软件。
 
 每周 Obsidian 新闻，专注于社区更新、新插件、工作流程指南、主题、辅助工具和代码。
 
 更新时间：每周六晚 - 周日
 
-- [[2024-03-10-ObsidianRoundup]]（New！试刊）
-- [[2024-03-03-ObsidianRoundup]]（试刊）【
-- [[2024-02-24-ObsidianRoundup]]（试刊）【祝愿大家元宵节快乐】
-- [[2024-02-17-ObsidianRoundup]]（试刊）【祝愿大家龙年春节快乐】
-- [[2024-02-10-ObsidianRoundup]]（试刊）【祝愿大家龙年春节快乐】
-- [[2024-02-03-ObsidianRoundup]]（试刊）
-- [[2024-01-27-ObsidianRoundup]]（试刊）
-- [[2024-01-20-ObsidianRoundup]]（试刊）
-- [[2024-01-13-ObsidianRoundup]]（试刊）
-- [[2024-01-06-ObsidianRoundup]]（试刊）
-- [[2023-12-30-ObsidianRoundup]]（试刊）
+- [[2024-05-19-Obsidian Weekly]]（New！试刊）
+- [[2024-05-12-Obsidian Weekly]]（试刊）
+- [[2024-05-05-Obsidian Weekly]]（试刊）
+- [[2024-04-28-Obsidian Weekly]]（试刊）
+- [[2024-04-22-Obsidian Weekly]]（试刊）
+- [[2024-04-14-Obsidian Weekly]]（试刊）
+- [[2024-04-08-Obsidian Weekly]]（试刊）
+- [[2024-03-31-Obsidian Weekly]]（试刊）
+- [[2024-03-24-Obsidian Weekly]]（试刊）
+- [[2024-03-17-Obsidian Weekly]]（试刊）
+- [[2024-03-10-Obsidian Weekly]]（试刊）
+- [[2024-03-03-Obsidian Weekly]]（试刊）
+- [[2024-02-24-Obsidian Weekly]]（试刊）【祝愿大家元宵节快乐】
+- [[2024-02-17-Obsidian Weekly]]（试刊）【祝愿大家龙年春节快乐】
+- [[2024-02-10-Obsidian Weekly]]（试刊）【祝愿大家龙年春节快乐】
+- [[2024-02-03-Obsidian Weekly]]（试刊）
+- [[2024-01-27-Obsidian Weekly]]（试刊）
+- [[2024-01-20-Obsidian Weekly]]（试刊）
+- [[2024-01-13-Obsidian Weekly]]（试刊）
+- [[2024-01-06-Obsidian Weekly]]（试刊）
+- [[2023-12-30-Obsidian Weekly]]（试刊）
 - [[Obsidian1.5.3 更新说明|2023-12-26-Obsidian1.5.3 交互体验升级]]
 - [[2023-11-20-Obsidian迎来重大更新]]
-- [[2023-01-07-ObsidianRoundup]]
-- [[2023-01-14-ObsidianRoundup]]
-- [[2023-01-21-ObsidianRoundup]]
+- [[2023-01-07-Obsidian Weekly]]
+- [[2023-01-14-Obsidian Weekly]]
+- [[2023-01-21-Obsidian Weekly]]
 - [[Obsidian全新LOGO更换]]
 
 ## 周报

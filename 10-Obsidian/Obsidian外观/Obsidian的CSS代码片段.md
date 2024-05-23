@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240229233928
+modified: 20240426093024
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -32,6 +32,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 涉及软件界面的修改，有时候可能需要重启软件生效。
 
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?aid=1103514962&bvid=BV1pw4m1276X&cid=1517644008&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>
+
 ## Obsidian CSS 主题自定义教程
 
 - [[如何给浅色模式和深色模式写不同的 css 样式]]
@@ -48,8 +52,9 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-像VSCode一样显示搜索替换框]]
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-悬浮两侧菜单栏]]
+- [[Obsidian样式-悬浮侧边栏自动弹出，提升工作流效率]]
 - [[Obsidian样式-专注标签页边框]]
-
+- [[Obsidian样式-多彩便笺背景]]
 
 ### 编辑器
 
@@ -76,13 +81,16 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-借助CSS打造独立的大屏表格页面]]
 - [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
 - [[Obsidian样式-隐藏 markdown 标记]]
+- [[Obsidian 样式-表格优化]]
 
 ### 列表
+
 - [[Obsidian样式-自定义大纲缩进线样式]]
 - [[Obsidian样式-给列表添加动态引导线]]
 - [[Obsidian样式-ITS主题列表样式]]
 - [[Obsidian样式-标题-列表-图片美化]]
 - [[Obsidian样式-书签列表样式]]
+- [[Obsidian样式-无序列表卡片式美化]]
 
 ### 图片
 
@@ -100,11 +108,13 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-PLN主题的callout]]
 - [[Obsidian样式-Vicious主题的callout]]
 - [[Obsidian样式-tabbed Callout]]
+- [[Obsidian样式-使用 Callout 进行正文旁注]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
 - [[Obsidian样式-如何在阅读模式下隐藏Properties]]
 - [[Obsidian样式-修复banner和Properties高度冲突以及多余留白改善]]
+- [[Obsidian样式-控制属性面板(YAML)的显示状态]]
 
 ### 状态栏
 
@@ -114,6 +124,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 搜索框
 
 - [[Obsidian样式-像VSCode一样显示搜索替换框]]
+
+### 设置面板
+
+- [[Obsidian样式-设置面板样式调整]]
 
 ### 链接
 
@@ -127,6 +141,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-文件管理名称滚动效果]]
 - [[Obsidain样式-自定义文件夹图标]]
 - [[Obsidian样式-超长文件名换行]]
+- [[Obsidian样式-分割文件管理器]]
 
 ### 段落
 
@@ -139,7 +154,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-待办完成样式]]
 - [[Obsidian样式-自定义待办图标]]
 - [[Obsidian样式-待办事项美化复选框]]
-
 
 ### 引用
 
@@ -163,10 +177,12 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-标签页Tab样式]]
 - [[Obsidian样式-固定标签页样式美化]]
+- [[Obsidian样式-隐藏右侧标签页标题]]
 
 ### 标签页标题栏
 
 - [[Obsidian样式-标签页标题栏的隐藏]]
+- [[Obsidian样式-更小的标签页标题栏]]
 
 ### PDF
 
@@ -204,8 +220,15 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-给Thino加个滚动条]]
 - [[Obsidian样式-给Thino搭配10种热力图颜色]]
 - [[Obsidian样式-Thino单文件时间轴样式]]
-- [[Obsidian样式-Thino 样式]]
+- [[Obsidian样式-Thino样式]]
 - [[Obsidian样式-Thino插件隐藏标志位]]
+- [[Obsidian样式-Thino伪悬浮编辑框]]
+- [[Obsidian样式-Thino展开增强]]
+- [[Obsidian样式-Thino列表模式日期样式调整]]
+
+#### Admonition
+
+- [[Admonition样式-彩色跑马灯框]]
 
 #### Kanban
 

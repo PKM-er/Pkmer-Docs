@@ -7,12 +7,12 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 
+modified: 20240320183504
 ---
 
 # 如何让 mousewheel-image-zoom 插件适配 pdf++ 嵌入块
 
-[[mousewheel-image-zoom]] 插件可以让你很方便的用鼠标滚轮就能调整插入 obsidian 页面中的图片尺寸。[[pdf-plus_readme|pdf++]] 插件则是目前 obsidian 中最好用的 pdf 增强插件。如果你用过 pdf++，那么你应该知道这个插件提供了一个嵌入部分 pdf 的功能，体验非常好
+[[mousewheel-image-zoom]] 插件可以让你很方便的用鼠标滚轮就能调整插入 obsidian 页面中的图片尺寸。[[pdf-plus]] 插件则是目前 obsidian 中最好用的 pdf 增强插件。如果你用过 pdf++，那么你应该知道这个插件提供了一个嵌入部分 pdf 的功能，体验非常好
 
 ![image.png](https://cdn.pkmer.cn/images/20240316153237.png!pkmer)
 

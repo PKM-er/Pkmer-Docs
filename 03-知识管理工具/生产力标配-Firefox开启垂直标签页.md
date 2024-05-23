@@ -7,12 +7,12 @@ author: ProudBenzene
 type: other
 draft: false
 editable: false
-modified: 20240110121200
+modified: 20240513144452
 ---
 
 # Firefox 浏览器开启垂直标签页
 
-![](https://cdn.pkmer.cn/images/202401081738575.png!pkmer)
+![Firefox 浏览器开启垂直标签页|800](https://cdn.pkmer.cn/images/202401081738575.png!pkmer)
 
 ## 垂直标签页的重要性
 

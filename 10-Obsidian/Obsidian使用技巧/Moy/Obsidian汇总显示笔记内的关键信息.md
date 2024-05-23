@@ -38,6 +38,7 @@ modified: 20240522143508
 
 ![](https://cdn.pkmer.cn/images/202405212229366.png!pkmer)
 
+
 在 Obsidian 里，我们可以使用 `Dataview` 插件来实现想要的效果。
 
 它可以像下图这样==将含有关键字的内容聚合显示，并且能跟随笔记内容实时更新==。
@@ -89,6 +90,8 @@ walla！这样就完成了。
 > 因此，更改关键字之后，你可以通过「编辑代码块 ->退出编辑」的方式来手动更新 dvjs 的查询内容。
 
 只需要使用的话，看到这里就可以了，祝你用得愉快！
+
+---
 
 但是这段代码只是最基础的版本，只能展示出内容，不支持跳转。
 
@@ -513,7 +516,7 @@ await dv.view(
 
 然后在需要检索的时候直接插入这个模板，并修改检索的关键字即可。
 
-> Templater 插件也是 OB 用户基操了，[[templater-obsidian]] 这里不再介绍，有需要了解可以看咖啡的文档：[Templater | obsidian文档咖啡豆版](https://coffeetea.top/zh/community-plugins/templater.html)
+> Templater 插件也是 OB 用户基操了，[[templater-obsidian]] 这里不再介绍，有需要了解可以看文档：[[Templater插件基本语法格式]]
 
 ### 多个关键字查询
 

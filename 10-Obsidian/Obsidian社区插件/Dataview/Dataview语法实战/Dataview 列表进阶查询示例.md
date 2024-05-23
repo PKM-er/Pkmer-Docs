@@ -7,7 +7,7 @@ author: Huajin
 type: other
 draft: false
 editable: false
-modified: 20231209174742
+modified: 20240429171844
 ---
 
 # Dataview 列表进阶查询示例
@@ -69,4 +69,4 @@ SORT author
 `````
 
 > [!hint] Advanced usage
-> 更多的 dataview 查询示例请见 [[Dataview 实例展示]]
+> 更多的 dataview 查询示例请见 [[Dataview语法实战]]

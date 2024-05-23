@@ -7,12 +7,12 @@ author: Alexinea
 type: other
 draft: false
 editable: false
-modified: 20231220113719
+modified: 20240429172525
 ---
 
 # 使用 Quicker 与 Thino 进行联动
 
-[[00_Thino 用户指南|Thino]] 出于 Memos 而胜于 Memos，从 2.1.4 版本开始支持通过 HTTP APIs 创建 thino 条目。因此，可以通过 Quicker 动作来实现这种联动。
+[[obsidian-memos|Thino]] 出于 Memos 而胜于 Memos，从 2.1.4 版本开始支持通过 HTTP APIs 创建 thino 条目。因此，可以通过 Quicker 动作来实现这种联动。
 
 [Quicker 动作安装地址](https://getquicker.net/Sharedaction?code=e4e73311-9c98-4498-9610-08dbfd0d4b63)
 
