@@ -1,13 +1,17 @@
 ---
 uid: 20240115111124
 title: Thino 同步
-tags: [Obsidian, Obsidian插件, Thino, 同步]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - 同步
 description: Thino 同步
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240524094817
+modified: 20240115111124
 id: 5caf2af6b8d7de13
 ---
 
