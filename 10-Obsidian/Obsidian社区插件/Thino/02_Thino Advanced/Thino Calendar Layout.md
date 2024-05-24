@@ -1,17 +1,13 @@
 ---
 uid: 20240311151852
 title: Thino 日历布局
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - memos
+tags: [Obsidian, Obsidian插件, Thino, memos]
 description: Thino 日历布局
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240311181333
+modified: 20240523232020
 id: a22dbbe164778555
 ---
 
@@ -46,7 +42,7 @@ Thino 一直以来都在找寻编辑的处理数据，展示数据的更优质�
 	- 超过单元格展示数量内容会自动折叠收齐，并以数字形式提示
 	- 点击会回自动切换到 [[Thino Calendar Layout#日视图]]
 
-![image.png](https://cdn.pkmer.cn/images/20240311172836.png!pkmer)
+![image.png|1000](https://cdn.pkmer.cn/images/20240311172836.png!pkmer)
 
 ## 日程视图
 

@@ -7,7 +7,7 @@ author:
 type: other
 draft: false
 editable: false
-modified: 20240130145812
+modified: 20240523234109
 id: 8b2324b2b98a3952
 ---
 
@@ -21,4 +21,4 @@ id: 8b2324b2b98a3952
 - 列表模式，更加传统是最稳妥点浏览效率模式
 - 瀑布模式，适合将 Thino 当做图片收集器的用户，对于记录图文格式笔记的人，这个布局也更加美观
 
-![image.png](https://cdn.pkmer.cn/images/20240130144230.png!pkmer)
+![image.png|800](https://cdn.pkmer.cn/images/20240130144230.png!pkmer)
