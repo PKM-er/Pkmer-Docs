@@ -1,13 +1,18 @@
 ---
 uid: 20240524093802
 title: Thino Web
-tags: [[Obsidian, Obsidian插件, Thino, Thino web]]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Thino web
 description: Thino Web 简易使用说明
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240524095112
+modified: 20240524110633
+id: 801606615ba86d1a
 ---
 
 # Thino Web
