@@ -1,16 +1,16 @@
 ---
 uid: 20240516101016
-title: 如何在 Obsidian 中使用 AI 国产大模型？
-tags: [kimi, ai, 大模型]
-description: 本文介绍了如何在 Obsidian 中使用国产大模型。首先，我们需要注册国产大模型，例如 KIMI。然后，我们可以通过 Obsidian 的插件系统将该模型集成到 Obsidian 中。最后，我们可以利用该模型来生成文本、回答问题或进行自然语言处理任务。
+title: 如何在 Obsidian 中使用 AI 国产大模型？(KIMI，通义天问)
+tags: [kimi, 通义天问, ai, 大模型]
+description: 本文介绍了如何在 Obsidian 中使用国产大模型。并以Kimi，通义天问为例通过 Obsidian 的插件系统将该模型集成到笔记中
 author: cuman,calmwaves
 type: other
 draft: false
 editable: false
-modified: 20240516232633
+modified: 20240524092621
 ---
 
-# 如何在 Obsidian 中使用 AI 国产大模型？
+# 如何在 Obsidian 中使用 AI 国产大模型？(KIMI，通义天问)
 
 > [!info] 摘要
 > 本文介绍了如何在 Obsidian 中使用国产大模型。首先，我们需要注册国产大模型，例如 KIMI。然后，我们可以通过 Obsidian 的插件系统将该模型集成到 Obsidian 中。最后，我们可以利用该模型来生成文本、回答问题或进行自然语言处理任务。
@@ -91,11 +91,7 @@ Obsidian 中有很多 AI 相关的插件，在 [Obsidian 插件集市 ](https://
 
  具体不再赘述，有更好的想法欢迎大家进入帖子下方参与讨论。
 
-## 总结
-
-通过使用国产大模型，在 Obsidian 中可以实现更强大的文本生成和处理功能。这为用户提供了更多的工具和资源来帮助他们在 Obsidian 中更高效地处理和组织信息。
-
-## 如何在text generator插件中配置通义千问
+## 如何在 text generator 插件中配置通义千问
 
 - 申请 API-KEY
 
@@ -106,10 +102,10 @@ Obsidian 中有很多 AI 相关的插件，在 [Obsidian 插件集市 ](https://
 [如何通过OpenAI接口调用通义千问模型](https://help.aliyun.com/zh/dashscope/developer-reference/compatibility-of-openai-with-dashscope/)
 
 Endpoint：`https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions`
+
 API 就是之前申请的
 
-![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/68bdad42-2606-41a0-8460-79fef4a3236c)
-
+![image](https://cdn.pkmer.cn/images/202405240922929.png!pkmer)
 
 - 设置模型名
 
@@ -117,20 +113,26 @@ API 就是之前申请的
 
 有好多模型，很多是计费的。
 
-![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/3f660145-bd06-4da8-9c3d-a49381deebc4)
-
+![image](https://cdn.pkmer.cn/images/202405240922930.png!pkmer)
 
 - 其他配置
 
-![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/544bde45-96c5-4f2a-a0cd-3bb45d5e5cba)
-![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/a480f84a-11ed-4979-b0ec-1ad4ee7ca4e3)
-![image](https://github.com/PKM-er/Pkmer-Docs/assets/56907077/46a7558d-0dd8-4ec7-8997-0ed620785b42)
+![image](https://cdn.pkmer.cn/images/202405240922931.png!pkmer)
+
+![image](https://cdn.pkmer.cn/images/202405240922932.png!pkmer)
+
+![image](https://cdn.pkmer.cn/images/202405240922933.png!pkmer)
 
 - 报错处理
 
 `TG Error:k2.text is nota function` [CORS issue when trying to generate text · Issue #213](https://github.com/nhaouari/obsidian-textgenerator-plugin/issues/213)
+
 `TG Error:'presence_penalty'is notsupport now` [Azure OpenAI Api not working - presence_penalty's default should be 0 (instead of null) · Issue #250](https://github.com/nhaouari/obsidian-textgenerator-plugin/issues/250)
+
 `TGError:Range of top_p shouldbe(0.0,1.0)`
 
 分别对应上一条里，三张截图的配置，请按照上一条配置好。
 
+## 总结
+
+通过使用国产大模型，在 Obsidian 中可以实现更强大的文本生成和处理功能。这为用户提供了更多的工具和资源来帮助他们在 Obsidian 中更高效地处理和组织信息。
