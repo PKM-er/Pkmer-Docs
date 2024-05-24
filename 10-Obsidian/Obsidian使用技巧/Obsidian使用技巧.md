@@ -62,6 +62,7 @@ modified: 20240408191220
 - [[每日字数的热力图]]
 - [[auto-insert-template自动化模板教学]] by Devol
 - [[banners插件beta版适配Obsidian 1.4以上版本]]
+- [[实时预览Templater插件的模板应用结果]]
 - Quickadd
 	- [[Quickadd结合CSS实现挖空复习]] by Mon
 	- [[QuickAdd脚本-为深浅模式配置不同的主题]]
@@ -100,5 +101,6 @@ modified: 20240408191220
 - [[表格操作占用快捷键过多的解决方案]]
 - [[通过简悦Simpread进行网页剪藏的折腾分享]]
 - [[MarginNote生成页码链接与Obsidian联动]]
+- [[如何在浏览器中打开Markdown笔记]]
 
 
