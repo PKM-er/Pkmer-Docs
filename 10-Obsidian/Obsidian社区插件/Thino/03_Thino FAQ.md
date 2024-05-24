@@ -1,16 +1,13 @@
 ---
 uid: 20231109234444
 title: Thino FAQ
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino FAQ 你想知道 Thino 的一切都在这里
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240515235327
+modified: 20240524093236
 id: f94eee26b8f42cdf
 ---
 
@@ -33,7 +30,7 @@ id: f94eee26b8f42cdf
 
 ### Thino 早鸟价
 
-- 当前 Thino 内测权限可以通过 [pkmer](https://pkmer.cn/products/thino/#price) 购买后获取。
+- 当前 Thino Pro 可以通过 [pkmer](https://pkmer.cn/products/thino/#price) 购买后获取。
 - Thino 也作为社区优先贡献者的福利，目前已经发放多位社区优质贡献者。
 - 后续会持续保留社区产品的免费获取通道，为的是让更多人愿意站出来分享
 
@@ -56,7 +53,7 @@ P.S. 这个收费更类似于 Obsidian Insider 的逻辑
 
 会，但是仅开源公测版本，且公测版本可能只会包含稳定性更新，而且开源进度会根据开发情况调整，简称“延迟开源”。
 
-## Thino 参加了早鸟/内测如何获得
+## Thino 参加早鸟/内测，如何获得
 
 - 早期为了激励 PKMer 社区作者，社区无条件相信了很多作者，免费发放 2.0.x 版本，这里指的无条件发放是指，不管作者是否真的已经开始贡献。
 - 2.1 更名 Thino 及以后，会以强调社区贡献质量和稳定性为主，针对优质贡献者发放。这主要是平衡贡献者的不均匀，或者是早鸟用户和贡献者不均的现象。
@@ -76,13 +73,13 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 - 微信导入 Thino；[[Thino Send Content to Thino From Wechat|微信同步到 Thino]]
 - Web 端输入后同步到本地 Thino；[[Thino Sync|Thino 同步]]
 - Telegram、discord 导入 Thino；
-- 浏览器插件裁剪至 Thino;
+- 浏览器插件裁剪至 Thino；
 
 而采用外部服务器的实现会更方便解决这些路径问题。
 
 ## Thino 是否有路线图？
 
-暂时来说，Thino 新的 UI 还在火热设计中，你参与到群里的所有建议或者意见都可能影响 Thino 的发展，所以可以多点来参与到讨论中。
+暂时来说，Thino 新的 UI 还在火热设计中，你参与到 IM 群、Github Issue 里的所有建议或者反馈都可能影响 Thino 的发展，所以可以多点来参与到讨论中。
 
 ## 已知问题
 
@@ -119,24 +116,22 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 		- 因为删除机制的变动，导致删除的内容会处于不同地方，用户极容易自己搞混
 		- 因为删除和同步共同作用，导致一些内容在低版本删除后，其他端高版本中仍然存在，并通过同步重新进入
 
-#### 为什么读取不到我之前笔记了
-
-从设计理念上 memos 和 现在的 Thino 并不会频繁监控用户仓库，文件夹的变化。所以当你迁移了笔记，或者创建了文件夹，需要你通过重启 Obsidian 的方式，来获取目录结构变动。
-
-1. 不要在日记设置中，读取标题位置写 HTML 标签
-2. 如果使用日记模式，那么一定要打开 Obsidian 的日记插件
-
 ### 显示异常
 
 #### 为什么不显示之前的日记
+
+从设计理念上 memos 和 现在的 Thino 并不会频繁监控用户仓库，文件夹的变化。所以当你迁移了笔记，或者创建了文件夹，需要你通过重启 Obsidian 的方式，来获取目录结构变动。
 
 - 版本问题
 	- Thino 版本过低，Thino 会不断修复重要的兼容问题，所以请优先检查升级
 	- 其他插件冲突，或者版本过低，这也是常见 Obsidian 问题的解决方法之一，升级自己主题和插件版本
 	- 或者 Obsidian 版本过低，Thino 会尽可能使用并遵循 Obsidian 发布的 Api，以保证稳定性，可能你的 Obsidian 版本过低导致不能使用
 - 你的使用的日记插件和 Thino 中的配置不同
-	- 常见情况 1：日记路径不对称。有的用户在不同的残酷里面，使用了不同的日记路径，导致 Thino 同样配置读取不到
-	- 常见情况 2：日记插件 和 perdoic 插件之一，但是 Thino 中使用日记插件模式选择方了
+	- 不要在日记设置中，目标读取标题中 HTML 标签，或者标题中带有特殊字符，保持标题在 md 语法中的简洁性
+	- 未打开日记插件，请一定要打开 Obsidian 的日记插件，并在 Thino 设置中做好对应设置
+	- 日记路径不对称，有的用户在不同的残酷里面，使用了不同的日记路径，导致 Thino 同样配置读取不到
+	- 使用多个日记插件情况下，请确认 Thino 读取的日记文件路径是正确的
+	- 日记插件 和 perdoic 插件之一，但是 Thino 中使用日记插件模式选择了相反的设定
 
 #### 为什么不显示我记录的内容
 

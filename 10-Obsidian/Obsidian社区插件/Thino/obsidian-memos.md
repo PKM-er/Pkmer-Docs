@@ -1,16 +1,13 @@
 ---
 uid: 20231109234455
 title: Thino 用户使用指南
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 用户使用指南，你想知道 Thino 的一切都在这里
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240513192027
+modified: 20240524095022
 id: dacd7a42e067cce1
 sidebar:
   order: 2
@@ -42,10 +39,14 @@ sidebar:
 	- Thino 现在依然保留了通过贡献社区，直接换取的权益
 		- Thino Pro：目前发放 10 份；
 		- Thino Web：目前发放 7 份；
+		- 注：针对 Thino Web 我们针对 Thino Pro 购买的老用户，开启了免费体验和内循环测试，内循环测试期间，我们不收取任何费用。
+		- 注：内循环测试时间自 24 年 5 月 20 日——6 月 18 日【暂定】，暂定日期可能会根据 Web 体验的完成情况顺延。
 
 ## 购买模式
 
-- Thino 基础版是免费的，已经在 Obsidian 官方市场，PKMer market 等位置更新。但==请注意==，基础版不会对基础特性进行新增，除非有重大原因和体验问题，否则只会进行稳定性修复
+- Thino 基础版是免费的，但==请注意==，基础版会适度的增加新的体验，包括一些常规界面体验优化
+	- 可以在 Obsidian 官方市场获取安装和更新
+	- 可以在 PKMer market 获取安装和更新
 - Thino Pro：
 	- 后续所有新特性会在这里更新，可独立购买
 	- 以上，Thino 基础版和 Thino Pro 的更新日志参考 [[0x-thino-changelog]]，[购买链接](https://pkmer.cn/products/thino/#price)
@@ -53,9 +54,12 @@ sidebar:
 		- 指的是 2.x 版本内所有版本不需要再额外付费
 		- 注意买断不等于订阅，即便推出了 3.x ，2.x 依然是可用的
 - Thino Web 服务
-	- 包含微信同步，你可以通过关注 Thino 助手，然后直接在微信中转发聊天内容给 Thino 助手，并同步到 Thino 中。
-	- Thino 同步服务，Thino 中信息多端同步，可独立购买。
-	- 针对提前支持 Thino Pro 的用户会免费试用到 Thino Web 服务价格出台为止。目前定价尚未公布
+	- 可独立购买
+	- Thino 同步服务，Thino 中信息多端同步。
+	- Thino 的微信打通，即同步微信内容到 Thino，[[Thino Send Content to Thino From Wechat|参照]]。
+	- Thino 独立 Web 版本
+	- 针对提前支持 Thino Pro 的用户会免费试用 Thino Web 服务
+	- 价格出台为止。目前定价尚未公布
 - 未来，也许整合 PKMer 会员打包购买，会包括 Thino Pro 和 Thino Web 服务，设置一个打包的优惠价格，目前定价尚未决定
 
 > [!note] 提示
@@ -113,6 +117,7 @@ sidebar:
 - [[03_Thino Web Services|03_Thino Web 服务]]
     - [[Thino Sync|Thino 同步]]
     - [[Thino Send Content to Thino From Wechat|Thino 微信内容发送到Thino]]
+    - [[Thino Web]]
 - [[04_Thino Tips|Thino 使用技巧]]
 	- 工作流
 		- [[Thino工作流实战-Thino与anki的联动]]
