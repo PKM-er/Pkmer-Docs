@@ -1,13 +1,13 @@
 ---
 uid: 20240523231209
 title: 如何在浏览器中打开 Markdown 笔记
-tags: []
+tags: ["obsidian", "浏览器"]
 description: 本文介绍了在浏览器中查看 Obsidian 笔记的方法，以及这样带来的好处。
 author: Moy
 type: tutorial
 draft: false
 editable: false
-modified: 20240523231930
+modified: 20240524090524
 ---
 
 # 如何在浏览器中打开 Markdown 笔记
@@ -28,23 +28,23 @@ modified: 20240523231930
 
 你可以用 Edge 自带的「大声朗读」功能收听你的笔记：
 
-![[如何在浏览器中打开Markdown笔记-img-240523_223624.png]]
+![如何在浏览器中打开Markdown笔记-img-240523_223624](https://cdn.pkmer.cn/images/202405240906865.png!pkmer)
 
-> Calmwaves 专门写过一篇文章介绍：[PKMer_文字转语音朗读你的笔记](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/%E6%96%87%E5%AD%97%E8%BD%AC%E8%AF%AD%E9%9F%B3%E6%9C%97%E8%AF%BB%E4%BD%A0%E7%9A%84%E7%AC%94%E8%AE%B0/)
+> Calmwaves 专门写过一篇文章介绍：[[文字转语音朗读你的笔记]]
 
 你也可以用 SingleFile [^1] 拓展将笔记导出成一个单独的 Html 文档，快速分享给别人。
 
-![[如何在浏览器中打开Markdown笔记-img-240523_223919.png]]
+![如何在浏览器中打开Markdown笔记-img-240523_223919](https://cdn.pkmer.cn/images/202405240906867.png!pkmer)
 
 *SingleFile 拓展会将所有图片以 Base64 编码嵌入网页，不用担心图片丢失或者需要单独打包的问题*
 
 如果是英文文档——你还可以调用 沉浸式翻译 [^2] 将它一键变成双语文档：
 
-![[如何在浏览器中打开Markdown笔记-img-240523_224217.png]]
+![如何在浏览器中打开Markdown笔记-img-240523_224217](https://cdn.pkmer.cn/images/202405240906868.png!pkmer)
 
 甚至，你可以借助 Elmo[^3] 拓展，免费使用 AI 汇总这篇笔记的要点，并进行问答：
 
-![[如何在浏览器中打开Markdown笔记-img-240523_225114.png]]
+![如何在浏览器中打开Markdown笔记-img-240523_225114](https://cdn.pkmer.cn/images/202405240906869.png!pkmer)
 
 虽然我们都知道 Obsidian 里有 *一万种方法* [^4] 可以让 AI 和你的笔记交互，但是何妨再多一种呢？ ; )
 
@@ -52,11 +52,11 @@ modified: 20240523231930
 
 ## 怎么弄？
 
-为了实现这个目的，我们可以借助一个 Obsidian 插件：Html Server[^5]
+为了实现这个目的，我们可以借助一个 Obsidian 插件：[[html-server]][^5]   
 
 安装完插件后，左侧边栏会出现一个按钮：
 
-![[如何在浏览器中打开Markdown笔记-img-240523_224456.png]]
+![如何在浏览器中打开Markdown笔记-img-240523_224456](https://cdn.pkmer.cn/images/202405240906870.png!pkmer)
 
 点击即可启动服务器。
 
@@ -76,7 +76,7 @@ modified: 20240523231930
 
 这样插件启动的时候会自动启动。
 
-![[如何在浏览器中打开Markdown笔记-img-240523_224437.png]]
+![如何在浏览器中打开Markdown笔记-img-240523_224437](https://cdn.pkmer.cn/images/202405240906871.png!pkmer)
 
 #### 修改端口
 
@@ -121,19 +121,19 @@ console.log("[TP] 未能找到 HTML Server 插件");
 
 然后在 Templater 插件的设置里将这个模板添加成命令（Command）：
 
-![[如何在浏览器中打开Markdown笔记-img-240523_225955.png]]
+![如何在浏览器中打开Markdown笔记-img-240523_225955](https://cdn.pkmer.cn/images/202405240906872.png!pkmer)
 
 最后——你可以选择给它分配一个快捷键：
 
-![[如何在浏览器中打开Markdown笔记-img-240523_230033.png]]
+![如何在浏览器中打开Markdown笔记-img-240523_230033](https://cdn.pkmer.cn/images/202405240906873.png!pkmer)
 
 或者——用 Commander 插件直接把它添加成一个按钮：
 
-![[如何在浏览器中打开Markdown笔记-img-240523_230110.png]]
+![如何在浏览器中打开Markdown笔记-img-240523_230110](https://cdn.pkmer.cn/images/202405240906874.png!pkmer)
 
 这样就能一键在浏览器中打开当前笔记了，快试试看吧！
 
-![[如何在浏览器中打开Markdown笔记-img-240523_230211.gif]]
+![如何在浏览器中打开Markdown笔记-img-240523_230211](https://cdn.pkmer.cn/images/202405240906875.gif!pkmer)
 
 #### QuickAdd 版本的脚本
 
@@ -152,7 +152,7 @@ if (!hs) {
 }
 ```
 
-![[在浏览器中查看Markdown文件的方法-img-240523_222425.jpg]]
+![在浏览器中查看Markdown文件的方法-img-240523_222425](https://cdn.pkmer.cn/images/202405240906876.jpg!pkmer)
 
 ## 总结
 

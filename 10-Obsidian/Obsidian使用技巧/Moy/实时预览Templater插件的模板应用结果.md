@@ -1,13 +1,13 @@
 ---
 uid: 20240523233314
 title: 实时预览 Templater 插件的模板应用结果
-tags: []
+tags: ["obsidian", "templater"]
 description: 调试复杂的模板笔记的时候很头疼？别担心，救星来了。
 author: Moy
 type: tutorial
 draft: false
 editable: false
-modified: 20240523233603
+modified: 20240524091000
 ---
 
 # 实时预览 Templater 插件的模板应用结果
@@ -51,7 +51,7 @@ dv.paragraph(tR)
 
 现在你把需要测试的代码填进这里，然后可以直接借助 dv 来查看模板应用后的效果：
 
-![[240523_Templater插件实时测试的方法-img-240523_233010.gif]]
+![240523_Templater插件实时测试的方法-img-240523_233010](https://cdn.pkmer.cn/images/202405240910805.gif!pkmer)
 
 ## 原理
 
