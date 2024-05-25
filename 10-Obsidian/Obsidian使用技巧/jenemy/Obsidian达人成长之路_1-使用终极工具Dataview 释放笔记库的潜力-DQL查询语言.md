@@ -1538,6 +1538,9 @@ SORT hash(dateformat(file.ctime, "YYYY-MM-DD"), file.name)
 
 最后，动动你发财的小手，关注，点赞一键三连，你的鼓励是我坚持下去的动力。有任何问题欢迎加作者微信（`jenemy_xl`）沟通交流一起成长。
 
+
+下一篇 [[Obsidian达人成长之路_2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API]]
+
 ## 参考
 
 - [Dataview (blacksmithgu.github.io)](https://blacksmithgu.github.io/obsidian-dataview/)
