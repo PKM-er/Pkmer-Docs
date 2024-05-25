@@ -1,23 +1,23 @@
 ---
 uid: 20240516101016
-title: 如何在 Obsidian 中使用 AI 国产大模型？(KIMI，通义天问)
-tags: [kimi, 通义天问, ai, 大模型]
-description: 本文介绍了如何在 Obsidian 中使用国产大模型。并以Kimi，通义天问为例通过 Obsidian 的插件系统将该模型集成到笔记中
+title: 如何在 Obsidian 中使用 AI 国产大模型？(KIMI，通义千问)
+tags: [kimi, 通义千问, ai, 大模型]
+description: 本文介绍了如何在 Obsidian 中使用国产大模型。并以Kimi，通义千问为例通过 Obsidian 的插件系统将该模型集成到笔记中
 author: cuman,calmwaves
 type: other
 draft: false
 editable: false
-modified: 20240524092621
+modified: 20240525195259
 ---
 
-# 如何在 Obsidian 中使用 AI 国产大模型？(KIMI，通义天问)
+# 如何在 Obsidian 中使用 AI 国产大模型？(KIMI，通义千问)
 
 > [!info] 摘要
 > 本文介绍了如何在 Obsidian 中使用国产大模型。首先，我们需要注册国产大模型，例如 KIMI。然后，我们可以通过 Obsidian 的插件系统将该模型集成到 Obsidian 中。最后，我们可以利用该模型来生成文本、回答问题或进行自然语言处理任务。
 
 目前 AI 技术非常火热，Obsidian 推出了一系列 AI 有关的插件，但基本都是依托自建模型，或者 OpenAI 等国外大模型，作为国内用户因为自然优先选择国产大模型，或者是使用 OpenAI 的国内转发服务。
 
-在选择国内模型的时候，需要选择兼容 OpenAI 的 SDK 协议的，这样通用性最强最方便使用。比如目前火热的 Kimi，通义天问等除了有网页端可以使用之外，还提供了免费的 API 可供调用。
+在选择国内模型的时候，需要选择兼容 OpenAI 的 SDK 协议的，这样通用性最强最方便使用。比如目前火热的 Kimi，通义千问等除了有网页端可以使用之外，还提供了免费的 API 可供调用。
 
 让 Obsdian 赋能 AI，本地笔记就有了灵魂,可以借助 AI 来执行各种任务，如自动标注关键词、生成摘要、提取实体等。本文以 KIMI 大模型为例，讲一下如何在借助 Obsidian 的 AI 插件，在国内使用大模型。
 
