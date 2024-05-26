@@ -915,7 +915,7 @@ dv.list(dv.pages('"10 Example Data/books" or #clientC').map(p => p.file.link)) /
 ```
 ````
 
->[!Tip] 需要注意的是目录名必需加上双引号然后再放在单引号内。
+> [!Tip] 需要注意的是目录名必需加上双引号然后再放在单引号内。
 
 如果只相要获取文档的完整路径，可以直接使用 `dv.pagePaths(source)` 方法，如将所有路径以列表显示：`dv.list(dv.pagePaths('#daily'))`。
 
@@ -1103,7 +1103,7 @@ dv.table(queryResult.value.headers, queryResult.value.values)
 
 ![Pasted image 20240524165035](https://cdn.pkmer.cn/images/202405260809231.png!pkmer)
 
->![Tip] 
+> [!Tip] 
 >`dv.query()` 方法返回值签名为 `Promise<Result<QueryResult, string>>`，因些我们需要使用 `await dv.query()` 来获取异步值，然后也可以使用 `dv.query().then(v => {//...})` 以 Promise API 方式来处理。
 
 `settings` 可先参数是一个 `QueryApiSettings` 类型，目前只有一个配置属性 `forceId: boolean`，这个值将覆盖 `WITHOUT ID` 的设置。当值为 `true` 时会包含链接或者分组名字段，`false` 则排序。
@@ -1187,7 +1187,7 @@ dv.list(queryResult.value.values)
 
 ![Pasted image 20240524175351](https://cdn.pkmer.cn/images/202405260809233.png!pkmer)
 
->![Tip] 如果读者有那个精力也可以去扩展自己的 Widget，作者就浅尝辄止，不再过多去探索了。
+> [!Tip] 如果读者有那个精力也可以去扩展自己的 Widget，作者就浅尝辄止，不再过多去探索了。
 
 ##### TaskResult 类型
 
@@ -1241,11 +1241,11 @@ dv.paragraph(queryResult)
 ````
 | 作者       | 书籍                                                                                                                      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------- |
-| \-       | <ul><li>[[10 Example Data/books/books_7.md\\|books_7]]</li></ul>                                                        |
-| Alice A  | <ul><li>[[10 Example Data/books/books_2.md\\|books_2]]</li></ul>                                                        |
-| Berta B  | <ul><li>[[10 Example Data/books/books_3.md\\|books_3]]</li><li>[[10 Example Data/books/books_6.md\\|books_6]]</li></ul> |
-| Conrad C | <ul><li>[[10 Example Data/books/books_4.md\\|books_4]]</li><li>[[10 Example Data/books/books_5.md\\|books_5]]</li></ul> |
-| Dora D   | <ul><li>[[10 Example Data/books/books_1.md\\|books_1]]</li></ul>
+| \-       | <ul><li> [![10 Example Data/books/books_7.md\\|books_7]]</li></ul>                                                        |
+| Alice A  | <ul><li> [![10 Example Data/books/books_2.md\\|books_2]]</li></ul>                                                        |
+| Berta B  | <ul><li> [![10 Example Data/books/books_3.md\\|books_3]]</li><li> [![10 Example Data/books/books_6.md\\|books_6]]</li></ul> |
+| Conrad C | <ul><li> [![10 Example Data/books/books_4.md\\|books_4]]</li><li> [![10 Example Data/books/books_5.md\\|books_5]]</li></ul> |
+| Dora D   | <ul><li> [![10 Example Data/books/books_1.md\\|books_1]]</li></ul>
 ````
 
 在文档中的渲染结果：
@@ -1489,7 +1489,7 @@ Luxon 提供了以下几个操作类：
 
 接下来文章中使用的 `DateTime` 均指代 `dv.luxon.DateTime`，`Duration` 同样如此。
 
->![Note] 
+> [!Note] 
 >这部分但介绍的内容有点多，实际在 Dataview 中我们可能并不会涉及到所有这些知识。
 
 ### `DateTime` 使用
@@ -1900,7 +1900,7 @@ console.log(dur.fromISOTime('11:22:33.444').toObject()) // { hours: 11, minutes:
 ```
 ````
 
->[Note] 
+> [!Note] 
 >对于 ISO 格式的持续时间请参考官方网站，这里不作说明。
 
 #### 输出持续时间
@@ -1948,7 +1948,7 @@ console.log(d.toHuman({ unitDisplay: 'short' })) // 3年、6个月、1周、4天
 ```
 ````
 
->[Tips] 
+> [!Tips] 
 > 关于 `opts` ，可以参考 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat#options](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat#options)
 
 ##### `toObject()` 函数
@@ -1991,7 +1991,7 @@ console.log(dur.fromObject({ hours: 11 }).toISOTime({ format: 'basic' })) // 110
 ```
 ````
 
->[Tips] 
+> [!Tips] 
 >还有 2 个函数 `toJSON()` 和 `toString()` 也是输出为 ISO 8601，只不过一个适用于 JSON,一个适用于调式。
 
 除了上述几个函数外，还可以使用 `toMillis()` 和 `valueOf()` 来输出持续时间的毫秒表示。
