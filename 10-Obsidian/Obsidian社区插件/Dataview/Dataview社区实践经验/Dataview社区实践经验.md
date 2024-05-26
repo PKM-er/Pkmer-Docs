@@ -43,3 +43,5 @@ Dataview 实例包含了....个实例，又按照应用的查询类型，应用�
 - [[Dataview实战-如何查询结果的数目]]
 - [[Dataview实战-展示笔记总数]]
 - [[Obsidian汇总显示笔记内的关键信息]]
+- [[Obsidian达人成长之路_1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言]]
+- [[Obsidian达人成长之路_2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API]]
