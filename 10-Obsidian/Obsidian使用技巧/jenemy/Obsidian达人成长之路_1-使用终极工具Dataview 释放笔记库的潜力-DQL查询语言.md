@@ -868,7 +868,8 @@ WHERE T.completed AND file = this.file
 
 ![](https://cdn.pkmer.cn/images/202405082208253.png!pkmer)
 
-> [!note] `FLATTEN` 语句的所有使用都需要结合 `TABLE` 查询类型来输出结果。
+> [!note] 
+> `FLATTEN` 语句的所有使用都需要结合 `TABLE` 查询类型来输出结果。
 
 现在再来演示另一种使用 `FLATTEN` 的场景，这刚好与 `GROUP BY` 语句结果相反。现在有一个目录 `books` 放置了很多书籍，每一个文档代表一本书，文档中设置 `genres` 属性来作为分类（`Children`, `Romance`, `Magic` 等等），当我们使用 `TABLE genres` 查询时，结果是每个分类占据表格的一行，而默认文档链接会根据分类数量自动合并行，现在想要相同行不合并显示，这时就需要使用 `FLATTEN genres` 来实现。
 
@@ -1263,7 +1264,8 @@ WHERE file = this.file
 `= none([1, 2, 5, 8], (v) => v > 10)` %% true %%
 ```
 
->[!Tips] 在 JavaScript 中 `null`, `""`, `0` 均代表假值，DQL 查询语言中也使用了同样的规则。
+>[!Tips] 
+>在 JavaScript 中 `null`, `""`, `0` 均代表假值，DQL 查询语言中也使用了同样的规则。
 
 最后还剩下 2 个函数来结束本小节，`nonull(array)` 函数用于将一个包含 `null` 值的数组项移除，并返回一个新的数组。`length(object|array)` 函数用于返回数组的长度，对象的属性数量，因为比较简单就不举例说明了。`extract(object, key1, key2, ...)` 函数用于获取对象的多个值，请参考前面章节中的使用示例。
 
