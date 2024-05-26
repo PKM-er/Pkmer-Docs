@@ -20,7 +20,9 @@ id: 99a53fe19756d009
 # Thino Web 更新记录
 
 ## 内测体验
+### 2024.05.22
 
+- 开启内测地址： https://thino.pkmer.cn  
 ### 2024.03.20
 
 - 微信同步体验升级，参考：[[Thino Send Content to Thino From Wechat|发送微信信息到 Thino]]

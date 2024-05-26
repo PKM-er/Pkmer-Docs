@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240526223737
+modified: 20240526233529
 ---
 
 # Obsidian Weekly 2024-05-26：新版本尝鲜前瞻！笔记软件（?）万能终端（√）
@@ -233,6 +233,14 @@ modified: 20240526223737
 - **性能优化（Web 视图）**
 	- 禁用 AV1 解码以提高网站性能。
 
+### [Thino Web ](https://thino.pkmer.cn/) 已开启内测
+
+购买Thino Pro 的用户已经可以抢先登录体验了。
+
+![image.png](https://cdn.pkmer.cn/images/202405262358883.png!pkmer)
+
+相关文档 [Thino Web | PKMer.net](https://thino.pkmer.net/thino/03_thino-web/thino-web/)
+ 
 ## 外观
 
 [Fusion Theme v0.4 (beta)](https://github.com/zamsyt/obsidian-fusion/wiki/Fusion-v0.4-beta) By _zamsyt_

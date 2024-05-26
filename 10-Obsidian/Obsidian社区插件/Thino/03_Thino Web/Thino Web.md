@@ -19,6 +19,9 @@ id: 801606615ba86d1a
 
 Thino Web 的使用大体于 Thino 本地版趋同，地址： <https://thino.pkmer.cn>
 
+![image.png](https://cdn.pkmer.cn/images/202405262358883.png!pkmer)
+
+
 ## Thino 为什么会有独立 Web 版本
 
 - 考虑在本地插件版本内测和公测期间，很多用户的反馈，反馈独立启动 Obsidian 作为宿主，启动速度过慢，希望更加轻便
