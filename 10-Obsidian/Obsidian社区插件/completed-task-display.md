@@ -1,9 +1,7 @@
 ---
 uid: 20230822233902
 title: Obsidian 插件：Completed Task Display
-tags:
-  - 任务管理
-  - obsidian插件
+tags: [任务管理, obsidian插件]
 description: 提供控件来显示或隐藏已完成的任务。
 author: AI
 type: readme

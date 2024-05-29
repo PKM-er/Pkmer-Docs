@@ -14,8 +14,6 @@ modified: 20240518182306
 
 ## 概述
 
-
-
 ![|640](https://cdn.pkmer.cn/images/202405181822591.png!pkmer)
 
 > 您需要安装 ，还需要安装插件才能更好地使用此插件。 [[obsidian-zoom]] [[obsidian-outliner]] [[dataview]]

@@ -35,6 +35,6 @@ id: 7425e9f237851a99
 - 聊天视图的个性签名：你可以自行修改文字，效果类似你使用朋友圈或者其他社交软件。但建议不要太长。
 
 > [!Note] 注意
-> - 头像是聊天视图和[[Thino Moments view Layout|动态视图]] 共用的
+> - 头像是聊天视图和 [[Thino Moments view Layout|动态视图]] 共用的
 
 ![image.png](https://cdn.pkmer.cn/images/20240324132200.png!pkmer)

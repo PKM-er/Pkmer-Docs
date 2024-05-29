@@ -27,6 +27,7 @@ modified: 20231209101204
 > 这个效果有另一个插件实现，同时附带有其他功能，可自行选择：[[obsidian-simple-mention_readme]]
 
 Dynamic Highlights 实现的效果如下图，高亮@及其之后的内容，遇到空格结束
+
 ![image.png](https://cdn.pkmer.cn/images/20231209095735.png!pkmer)
 
 配置如下：
@@ -37,7 +38,7 @@ Dynamic Highlights 实现的效果如下图，高亮@及其之后的内容，遇
 ((?<=\s)@\S+|^@\S+)
 ```
 
-以下 css 样式来自网站： www.lingdaima.com
+以下 css 样式来自网站： <www.lingdaima.com>
 
 ```css
 .atPeople {

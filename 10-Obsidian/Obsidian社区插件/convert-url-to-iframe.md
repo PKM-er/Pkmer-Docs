@@ -27,7 +27,7 @@ modified: 20230603011405
 >[!Tip] 提示
 >- 该插件没有任何设置项
 >- 如果你其他视频网站有兴趣，或者希望做视频笔记，使用时间戳等，可以参考这个插件。[[media-extended_readme]] 和 [[mx-bili-plugin_readme]]
->- 现在这两插件已经合并成新版的  [Media extended 插件](https://mx.pkmer.net/zh-CN)
+>- 现在这两插件已经合并成新版的 [Media extended 插件](https://mx.pkmer.net/zh-CN)
 
 ## 效果&特性
 

@@ -1,11 +1,7 @@
 ---
 uid: 20230822234046
 title: Obsidian 插件：Workspaces Plus 快速管理不同工作区不同布局对应不同工作流
-tags:
-  - 工作区
-  - 效率
-  - 界面相关
-  - obsidian插件
+tags: [工作区, 效率, 界面相关, obsidian插件]
 description: 快速切换管理工作区的布局。你可以按照你不同的习惯，规划工作区。
 author: OS
 type: basic

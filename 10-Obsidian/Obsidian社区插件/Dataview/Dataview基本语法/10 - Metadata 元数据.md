@@ -1,10 +1,7 @@
 ---
 uid: 20230724104533
-title: Dataview 中的Metadata 元数据
-tags:
-  - obsidian
-  - metadata
-  - dataview
+title: Dataview 中的Metadata元数据
+tags: [obsidian, metadata, dataview]
 description: Dataview 基本语法学习指南,元数据
 author: Huajin,PKMer
 type: other
@@ -13,7 +10,7 @@ editable: false
 modified: 20230810175839
 ---
 
-# Dataview 中的Metadata元数据
+# Dataview 中的 Metadata 元数据
 
 或许你在其他地方也听过 Metadata 这个概念，它的适用范围远远不止于 Dataview 这个插件。
 
@@ -44,7 +41,6 @@ WHERE file = this.file
 对于 Dataview 来说，==它无法直接查询文档中的内容，只能查询有索引的内容==。文件中只有元数据和隐式字段是具有索引的，简单的介绍一下元数据与隐式字段：
 
 - ==文件中的元数据==：在文件中，有两种东西可以有元数据，分别是**文件本身**和**文件中的列表**。其中文件本身的元数据分别来自文件的文档属性和文中的内联字段，文件中列表的元数据一般放在该列表的末尾（列表包括无序列表、有序列表和任务）。这些元数据与这篇文件绑定，可以被 Dataview 检索作为分类的依据或者作为展示的内容。
-
 - ==文件的隐式字段==：文件中还有一些已经自动有索引的内容，比如文件的名字，文件的创建时间、修改时间等，我们称之为文件的隐式字段。他们也是能够被 Dataview 检索到的。
 
 当然，不管是元数据还是隐式字段，他们本质上都是一个个键值对，他们的属性值自然都会有各自的数据类型，比如文件的名字是字符串类型、文件的创建时间是时间类型、你创建的一个”评级“元数据的值可能是数值类型。

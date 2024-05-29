@@ -77,7 +77,7 @@ id: 99a53fe19756d009
 > 你可以利用新版本的单文件标签索引功能来索引 ReadWise 的笔记成为 Thino 的一部分，且用于随机回顾，或者筛选；
 >
 > 对应教程为： <https://github.com/Quorafind/Obsidian-Thino/discussions/536>
-> 
+>
 > ![](https://cdn.pkmer.cn/images/202404191053103.png!pkmer)
 
 > [!info]+ 更新说明
@@ -93,10 +93,10 @@ id: 99a53fe19756d009
 ## 2.4.23
 
 > [!warning]- 对于微信阅读以及 Thino Pro 用户
-> 
+>
 > 你可以利用新版本的单文件标签索引功能来索引微信阅读的笔记成为 Thino 的一部分，且用于随机回顾，或者筛选；
 > 对应教程为： <https://github.com/Quorafind/Obsidian-Thino/discussions/532>
-> 
+>
 > ![](https://cdn.pkmer.cn/images/202404191053104.png!pkmer)
 
 > [!info]+ 更新说明
@@ -347,7 +347,6 @@ id: 99a53fe19756d009
 
 ### 新特性
 
-
  - 修复：无法在 Thino 中使用 templater；
 
 ## Thino 2.3.45-50 2024.04.01
@@ -374,7 +373,6 @@ id: 99a53fe19756d009
 - 修复：与 a.tag 相关的自动换行；
 - 样式：与聊天视图相关的图片问题；
  - 样式：菜单内边距问题；
-
 
  感谢 [**@izz00** 的 Daily Outline 插件](https://github.com/iiz00/obsidian-daily-note-outline) 为 Thino 所增加的对每日笔记中 `- HH:mm text` 格式的特殊支持。
 

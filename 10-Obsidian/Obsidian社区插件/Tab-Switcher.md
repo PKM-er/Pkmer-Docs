@@ -1,8 +1,7 @@
 ---
 uid: 20231117221413
 title: Obsidian 插件：Tab Switcher 快速切换 Obsidian 页面
-tags:
-  - 窗口管理
+tags: [窗口管理]
 description: Obsidian 插件：Tab Switcher 快速切换 Obsidian 页面。使用 Ctrl + Tab 按最近使用的顺序切换选项卡，就像在浏览器中一样。
 author: 熊猫别熬夜
 type: other

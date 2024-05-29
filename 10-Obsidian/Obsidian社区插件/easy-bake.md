@@ -1,8 +1,7 @@
 ---
 uid: 20231027184045
 title: Obsidian 插件：Easy Bake 将笔记和关联的笔记转变为单文件
-tags:
-  - obsidian插件
+tags: [obsidian插件]
 description: 轻松将许多 Obsidian 笔记编译成单个文件。
 author: OS
 type: basic
@@ -36,7 +35,6 @@ Easy Bake 便是为了解决这个问题，在你输出的时候，可以将引�
 在 [[命令面板]] 中使用 `Bake current file` 命令来激活插件。
 
 ![image.png](https://cdn.pkmer.cn/images/20231117120905.png!pkmer)
-
 
 - 独立行上存在的链接和嵌入内容将被复制到编译后的文档中。
 - 内联链接将被替换为链接的文本。这个过程是递归的，意味着链接文件中的链接也将被复制到最终文档中。

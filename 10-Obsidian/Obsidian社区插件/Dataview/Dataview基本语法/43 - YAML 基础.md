@@ -1,6 +1,6 @@
 ---
 uid: 20230724104529
-title: Dataview中的YAML
+title: Dataview 中的 YAML
 tags: [obsidian, metadata, yaml]
 description: 基本语法学习指南，YAML 语法规则
 author: Huajin,PKMer

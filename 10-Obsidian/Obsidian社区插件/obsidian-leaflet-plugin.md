@@ -1,12 +1,7 @@
 ---
 uid: 20231121205045
 title: Obsidian 插件：Obsidian Leaflet 用法之管理自己的旅行照片
-tags:
-  - Obsidian
-  - 第三方工具集成
-  - 图片
-  - obsidian插件
-  - Leaflet
+tags: [Obsidian, 第三方工具集成, 图片, obsidian插件, Leaflet]
 description: Obsidian进阶插件Obsidian Leaflet用法之管理自己的旅行照片
 author: StarAire
 type: other

@@ -40,7 +40,7 @@ id: ad09130111ee9095
 
 ### 时间戳
 
-其中时间戳在你点击后会弹出当前 Thino Card的引用关系弹窗，你可以在里面看到使用了 Thino 原生自带的引用功能引用后的效果，例如：
+其中时间戳在你点击后会弹出当前 Thino Card 的引用关系弹窗，你可以在里面看到使用了 Thino 原生自带的引用功能引用后的效果，例如：
 
 ![Thino Card](https://cdn.pkmer.cn/images/Pasted%20image%2020231108232227.png!pkmer)
 
@@ -50,7 +50,7 @@ id: ad09130111ee9095
 - [[Thino Multi-souce#多文件模式|多文件模式]] 中存在于 YAML Frontmatter 中的 `createdAt` 属性，其会采用 `YYYYMMDDHHmmss` 的形式进行记载；
 - [[Thino Multi-souce#单文件模式|单文件模式]] 中存在于 Callout 中的 `createdAt` 属性，其会采用 `YYYYMMDDHHmmss` 的形式进行记载；
 
-时间戳是 Thino 列中目前唯一的排序方式，仅当 Thino Card通过点击 [[Thino Card#置顶按钮|置顶按钮]] 加上置顶属性时，Thino Card会暂时被置顶到顶部；同时，时间戳也是 Thino 运行的唯一标准，包括但不限于 [[Thino Heatmap|热点图]]、[[Thino Review|回顾功能]] 都强依赖于 Thino 所附带的时间属性，所以在任何情况下，不要去修改或者删除时间戳的内容，否则存在产生差错的情况。
+时间戳是 Thino 列中目前唯一的排序方式，仅当 Thino Card 通过点击 [[Thino Card#置顶按钮|置顶按钮]] 加上置顶属性时，Thino Card 会暂时被置顶到顶部；同时，时间戳也是 Thino 运行的唯一标准，包括但不限于 [[Thino Heatmap|热点图]]、[[Thino Review|回顾功能]] 都强依赖于 Thino 所附带的时间属性，所以在任何情况下，不要去修改或者删除时间戳的内容，否则存在产生差错的情况。
 
 ### 任务按钮
 
@@ -65,7 +65,7 @@ id: ad09130111ee9095
 
 ### 文本显示区域
 
-作为 Thino Card中最重要的文本显示区域，在 Thino 中会优先采用 Obsidian 所支持的原生渲染，其涵盖了 Obsidian 所支持的渲染的效果，在这个基础上，Thino 还支持：
+作为 Thino Card 中最重要的文本显示区域，在 Thino 中会优先采用 Obsidian 所支持的原生渲染，其涵盖了 Obsidian 所支持的渲染的效果，在这个基础上，Thino 还支持：
 
 - 直接在渲染中完成任务
 - 点击标签时会出发 Thino 内部的筛选
@@ -83,15 +83,15 @@ id: ad09130111ee9095
 
 ## 鼠标点击说明
 
-在 Thino Card上使用鼠标点击的时候能触发各种操作，其中当前主要存在两种操作方式：
+在 Thino Card 上使用鼠标点击的时候能触发各种操作，其中当前主要存在两种操作方式：
 
 - CTRL + 鼠标左键点击
 - 鼠标左键双击
 
 ### CTRL+ 鼠标左键点击
 
-当用户将鼠标左键配合 Ctrl 键按下一起点击时，能够直接跳转到该 Thino Card的来源位置，例如日记中的某一行、CANVAS 中的某一个卡片等；
+当用户将鼠标左键配合 Ctrl 键按下一起点击时，能够直接跳转到该 Thino Card 的来源位置，例如日记中的某一行、CANVAS 中的某一个卡片等；
 
 ### 鼠标左键双击
 
-当用户通过鼠标左键双击 Thino 时，其会使其进入编辑状态，这个 Thino Card的内容会在编辑框中出现，从而使得用户可以快速地去修改一个 Thino 的内容。
+当用户通过鼠标左键双击 Thino 时，其会使其进入编辑状态，这个 Thino Card 的内容会在编辑框中出现，从而使得用户可以快速地去修改一个 Thino 的内容。

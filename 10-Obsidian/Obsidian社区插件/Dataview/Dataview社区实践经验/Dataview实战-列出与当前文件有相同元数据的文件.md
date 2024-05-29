@@ -1,6 +1,6 @@
 ---
 uid: 20231118153931
-title: Dataview 实战：用表格和列表汇总罗列与当前文件有相同元数据的文件
+title: 用表格和列表汇总罗列与当前文件有相同元数据的文件
 tags: [Obsidian, Dataview]
 description: Dataview 实战：列出与当前字段值相同的页面，例如，查找共享配料的食谱
 author: Huajin

@@ -133,4 +133,5 @@ Dataview 插件的用途主要有三个方面。
 ## Dataview 达人之路系列
 
 [[Obsidian达人成长之路_1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言]]
+
 [[Obsidian达人成长之路_2-使用终极工具Dataview释放笔记库的潜力-JavaScript API]]

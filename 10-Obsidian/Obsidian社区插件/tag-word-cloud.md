@@ -1,9 +1,7 @@
 ---
 uid: 20230822235137
 title: Obsidian 插件：Tag, Word & Link Cloud 给笔记中插入好看的词云效果
-tags:
-  - obsidian插件
-  - readme
+tags: [obsidian插件, readme]
 description: 展示你的标签/词/链接的云图
 author: AI
 type: readme

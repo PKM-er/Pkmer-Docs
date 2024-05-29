@@ -13,10 +13,11 @@ modified: 20240108172905
 # Dataview 实战 - 查找重名文件
 
 ## 效果
+
 ![image.png](https://cdn.pkmer.cn/images/20240108173703.png!pkmer)
 
-
 ## 代码
+
 ```dataviewjs
 // 假设您的对象数组为 data
 const data = dv.pages();

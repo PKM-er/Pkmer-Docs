@@ -1,11 +1,7 @@
 ---
 uid: 20240106235048
 title: QuickAdd 脚本 - 插入 Zotero 的条目 PDF 链接
-tags:
-  - zotero
-  - Obsidian
-  - quickadd
-  - quickadd脚本
+tags: [zotero, Obsidian, quickadd, quickadd脚本]
 description: 通过 Quickadd 和 Modal Forms 这 2 个插件的 API 完成的用于引用 Zotero 中已有 PDF 的条目链接
 author: 熊猫别熬夜
 type: other

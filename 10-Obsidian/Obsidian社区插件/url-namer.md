@@ -37,6 +37,6 @@ modified: 20240108110138
 
 ## 定制化
 
-目前，URL 匹配的正则表达式在 `main.ts/UrlTagger.rawUrlPattern` 中是硬编码的。内置的 URL 正则表达式模式可以在此处进行测试：<https://regexr.com/6rr0c。>
+目前，URL 匹配的正则表达式在 `main.ts/UrlTagger.rawUrlPattern` 中是硬编码的。内置的 URL 正则表达式模式可以在此处进行测试：<<https://regexr.com/6rr0c>。>
 
 默认情况下，标题是从 URL 的 HTML 源代码中的 `<title>` 标签中获取的。然而，通常情况下，页面的内容是延迟加载的，标题必须从页面加载参数中推断出来。在这种情况下，需要有特定于网站的标题正则表达式来处理这个问题。

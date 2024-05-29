@@ -1,8 +1,7 @@
 ---
 uid: 20230822233838
 title: Obsidian 插件：OpenWeather
-tags:
-  - obsidian插件
+tags: [obsidian插件]
 description: 该插件以可配置的字符串格式返回OpenWeather的当前天气。
 author: AI
 type: readme
@@ -98,7 +97,7 @@ modified: 20230908160152
 
 请访问<https://openweathermap.org> 进行注册并获取密钥。>
 
-注册页面的直接链接为<https://home.openweathermap.org/users/sign_up。>
+注册页面的直接链接为<<https://home.openweathermap.org/users/sign_up>。>
 
 注意：您需要验证您的电子邮件地址，然后您的 API 密钥将通过电子邮件发送给您。密钥本身可能需要几个小时才能激活。所有这些信息都将包含在他们发送给您的电子邮件中。
 

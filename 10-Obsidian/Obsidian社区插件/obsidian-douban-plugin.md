@@ -93,7 +93,7 @@ modified: 20230613222349
 
 插件作者特别推荐了结合 Timeline 插件实现的个人豆瓣时间线功能，参照讨论 [结合timeline插件的妙用](https://github.com/Wanxp/obsidian-douban/issues/19#issuecomment-1428307130) 和 [官方文档](https://github.com/Wanxp/obsidian-douban/blob/master/doc/Obsidian-Douban-TimeLine.md)。
 
-![](https://github.com/Wanxp/obsidian-douban/raw/master/doc/img/obsidian-douban-time-preview-example.gif)](<https://github.com/Wanxp/obsidian-douban/blob/master/doc/img/obsidian-douban-time-preview-example.gif)>
+![](https://github.com/Wanxp/obsidian-douban/raw/master/doc/img/obsidian-douban-time-preview-example.gif)](<<https://github.com/Wanxp/obsidian-douban/blob/master/doc/img/obsidian-douban-time-preview-example.gif>)>
 
 首先需要安装 [Timelines](https://github.com/Darakah/obsidian-timelines) 插件，然后在 Obsidian-Douban 插件配置中登录自己的豆瓣账号，配置个人需要的自定义参数和模板，在模板的 YAML Frontmatter 中 **增加** 特定 tags，如“我看过的电影”，用于需要过滤成为时间线的笔记。
 

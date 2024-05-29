@@ -57,7 +57,7 @@ modified: 20231007180147
 
 ## Opener 插件增强
 
-Opener 一个插件就可以取代其他几个插件的功能：[[open-in-new-tab_readme|open in new tab]]，[[close-similar-tabs]]，[no dupe leaf](https://github.com/scambier/obsidian-no-dupe-leaves) 
+Opener 一个插件就可以取代其他几个插件的功能：[[open-in-new-tab_readme|open in new tab]]，[[close-similar-tabs]]，[no dupe leaf](https://github.com/scambier/obsidian-no-dupe-leaves)
 
 该插件暂未上架官方插件市场，手动下载或者借助 BRAT 插件获取
 
@@ -78,6 +78,6 @@ Opener 一个插件就可以取代其他几个插件的功能：[[open-in-new-ta
 
 ![b8191a8cc054e6ae0bc5f52d5ab12dee](https://cdn.pkmer.cn/images/202310202120408.png!pkmer)
 
-现在换成了[[obsidian-another-quick-switcher_readme|Another Quick Switcher]]插件，设置键位即可
+现在换成了 [[obsidian-another-quick-switcher_readme|Another Quick Switcher]] 插件，设置键位即可
 
 ![183ffffeeb4d8aedecbb6f604778bf5c](https://cdn.pkmer.cn/images/202310202120377.png!pkmer)

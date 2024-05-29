@@ -1,12 +1,7 @@
 ---
 uid: 20230717151344
 title: Excalidraw 脚本：Slideshow 完美实现画板幻灯片演示的脚本
-tags:
-  - Excalidraw
-  - Slideshow
-  - 幻灯片
-  - PPT
-  - Excalidraw脚本
+tags: [Excalidraw, Slideshow, 幻灯片, PPT, Excalidraw脚本]
 description: Excalidraw脚本Slideshow可以将您的绘图转换为幻灯片演示文稿
 author: 熊猫别熬夜
 type: other

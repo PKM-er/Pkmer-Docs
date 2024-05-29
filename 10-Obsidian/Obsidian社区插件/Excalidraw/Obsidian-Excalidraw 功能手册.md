@@ -1035,11 +1035,11 @@ ctrl+ 左键点击，可以选择跳转到蒙版页面继续编辑，或者跳�
 
 ![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340622.png!pkmer)
 
-你也可以在 md 文件中嵌入 pdf 页面链接,链接选取后 `ctrl+p-剪切与蒙版`来使用
+你也可以在 md 文件中嵌入 pdf 页面链接,链接选取后 `ctrl+p-剪切与蒙版` 来使用
 
 ![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340623.png!pkmer)
 
-在 pdf 阅读器中直接选择文字信息右键复制到选取的链接，链接选取后 `ctrl+p-剪切与蒙版`来使用
+在 pdf 阅读器中直接选择文字信息右键复制到选取的链接，链接选取后 `ctrl+p-剪切与蒙版` 来使用
 
 ![Obsidian-Excalidraw 功能手册](https://cdn.pkmer.cn/images/202403021340625.png!pkmer)
 
