@@ -1,7 +1,7 @@
 ---
 uid: 20230907001117
 title: Obsidian 插件：ZotLit 最完美的 Zotero 和 Obsidian 联动插件
-tags: []
+tags: [zotero]
 description: 
 author: OS,AidenLx
 type: other

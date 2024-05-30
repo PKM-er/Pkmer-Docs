@@ -16,17 +16,18 @@ modified: 20240108111446
 
 这个插件提供可定制的斜杠命令列表，只显示自己添加的命令。它是基于 Obsidian Commander 的代码开发的，和下面几个相似的社区插件有不同：
 
-- [[cmdr|Commander]]：没有斜杠命令列表。
-- [[typing-assistant_readme|Typing Assistant]]: 有斜杠命令列表，但不能定制。
-- [Better Slash Commands](https://github.com/SPiCaRiA/obsidian-better-slash-commands): 有斜杠命令列表，但不能定制。
+-   [[cmdr|Commander]]：没有斜杠命令列表。
+-   [[typing-assistant|Typing Assistant]]: 有斜杠命令列表，但不能定制。
+-   [Better Slash Commands](https://github.com/SPiCaRiA/obsidian-better-slash-commands): 有斜杠命令列表，但不能定制。
 
 > [!Note] 插件名片
-> - 插件名称：Slash Commander
-> - 插件作者：alephpiece
-> - 插件说明：定制 slash 命令列表。
-> - 插件分类：[' 界面相关 ', ' 效率 ', 'obsidian 插件 ']
-> - 插件项目地址：[点我跳转](https://github.com/alephpiece/obsidian-slash-commander)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?slash-commander)
+>
+> -   插件名称：Slash Commander
+> -   插件作者：alephpiece
+> -   插件说明：定制 slash 命令列表。
+> -   插件分类：[' 界面相关 ', ' 效率 ', 'obsidian 插件 ']
+> -   插件项目地址：[点我跳转](https://github.com/alephpiece/obsidian-slash-commander)
+> -   国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?slash-commander)
 
 ## 效果&特性
 
@@ -40,8 +41,8 @@ modified: 20240108111446
 
 其他特性：
 
-- 可以更换斜杠命令的触发字符。如果改成 `/` 以外的字符，可以跟核心插件 `Slash commands` 一起使用。
-- 可以只在每一行的行首启用。
+-   可以更换斜杠命令的触发字符。如果改成 `/` 以外的字符，可以跟核心插件 `Slash commands` 一起使用。
+-   可以只在每一行的行首启用。
 
 ## 安装
 

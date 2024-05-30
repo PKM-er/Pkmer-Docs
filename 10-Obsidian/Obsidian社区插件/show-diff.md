@@ -19,12 +19,13 @@ modified: 20231028225720
 即有了这个插件，你可以精准控制你编辑的变动历史。
 
 > [!Note] 插件名片
-> - 插件名称：Show Diff
-> - 插件作者：Ivan Lednev
-> - 插件说明：在 Obsidian 文件中呈现 Git 差异
-> - 插件分类：['obsidian 插件 ']
-> - 项目地址：[点我访问](https://github.com/ivan-lednev/obsidian-automatic-changelog)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?show-diff)
+>
+> -   插件名称：Show Diff
+> -   插件作者：Ivan Lednev
+> -   插件说明：在 Obsidian 文件中呈现 Git 差异
+> -   插件分类：['obsidian 插件 ']
+> -   项目地址：[点我访问](https://github.com/ivan-lednev/obsidian-automatic-changelog)
+> -   国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?show-diff)
 
 ## 效果&特性
 
@@ -32,7 +33,7 @@ modified: 20231028225720
 
 ## 使用
 
-要使插件在您的 vault 上工作，它应该是一个 git 仓库。您可以使用 [[obsidian-git_readme]] 为您的 vault 添加自动 git 备份。
+要使插件在您的 vault 上工作，它应该是一个 git 仓库。您可以使用 [[obsidian-git]] 为您的 vault 添加自动 git 备份。
 
 该插件使用 `show-diff` 语言标签来渲染 Markdown 代码块。一个空的代码块将显示今天和昨天之间的差异：
 

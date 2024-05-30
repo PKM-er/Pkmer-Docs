@@ -12,7 +12,7 @@ modified: 20231209101204
 
 # Dynamic-Highlights 插件的几种使用场景
 
-首先请阅读 Dynamic Highlights 插件的 readme 文档翻译，插件作者介绍了几种使用场景：[[obsidian-dynamic-highlights_readme]]
+首先请阅读 Dynamic Highlights 插件的 readme 文档翻译，插件作者介绍了几种使用场景：[[obsidian-dynamic-highlights]]
 
 此前，[@Bon](https://pkmer.cn/authors/bon) 也详细介绍了 Dynamic Highlights 的配置教程和几种使用场景：[[obsidian-dynamic-highlights]]
 
@@ -20,11 +20,11 @@ modified: 20231209101204
 
 > [!caution]
 > 请先仔细阅读上面两篇文章，关于 Dynamic Highlights 如何使用已经讲解地十分清楚，本文不再赘述。
-> 另外该插件的设置界面的保存按钮有一些问题，详情请按照 [这个issue](https://github.com/nothingislost/obsidian-dynamic-highlights/issues/72) 修改一下
+> 另外该插件的设置界面的保存按钮有一些问题，详情请按照 [这个 issue](https://github.com/nothingislost/obsidian-dynamic-highlights/issues/72) 修改一下
 
 ## 高亮@
 
-> 这个效果有另一个插件实现，同时附带有其他功能，可自行选择：[[obsidian-simple-mention_readme]]
+> 这个效果有另一个插件实现，同时附带有其他功能，可自行选择：[[obsidian-simple-mention]]
 
 Dynamic Highlights 实现的效果如下图，高亮@及其之后的内容，遇到空格结束
 
@@ -42,24 +42,30 @@ Dynamic Highlights 实现的效果如下图，高亮@及其之后的内容，遇
 
 ```css
 .atPeople {
- --green: #1BFD9C;
- font-size: 15px;
- padding: 0px 2px;
- margin:0 3px;
- letter-spacing: 0.06em;
- position: relative;
- font-family: inherit;
- border-radius: 0.6em;
- overflow: hidden;
- line-height: 1.1em;
- border: 2px solid var(--green);
- background: linear-gradient(to right, rgba(27, 253, 156, 0.1) 1%, transparent 40%,transparent 60% , rgba(27, 253, 156, 0.1) 100%);
- color: var(--green);
- box-shadow: inset 0 0 10px rgba(27, 253, 156, 0.4), 0 0 9px 3px rgba(27, 253, 156, 0.1);
+    --green: #1bfd9c;
+    font-size: 15px;
+    padding: 0px 2px;
+    margin: 0 3px;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    line-height: 1.1em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+        to right,
+        rgba(27, 253, 156, 0.1) 1%,
+        transparent 40%,
+        transparent 60%,
+        rgba(27, 253, 156, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(27, 253, 156, 0.4), 0 0 9px 3px rgba(27, 253, 156, 0.1);
 }
 ```
 
-为此我配套写了 [[various-complements]] 的字典，和 [[obsidian-linter_readme]] 正则给@前面加空格
+为此我配套写了 [[various-complements]] 的字典，和 [[obsidian-linter]] 正则给@前面加空格
 
 ```json
       {"value": "@皮皮 ", "displayed": "@皮皮","aliases": ["@皮皮"]},
@@ -83,8 +89,8 @@ Dynamic Highlights 实现的效果如下图，高亮@及其之后的内容，遇
 
 ```css
 .dialogue {
-  font-size: 17px!important;
-  color:#ffbf2c;
+    font-size: 17px !important;
+    color: #ffbf2c;
 }
 ```
 
@@ -105,26 +111,33 @@ Highlight In Preview 没有配置项，只要下载启用即可。
 由于这个插件是 bon 为 [[00_Thino 用户指南|Thino]] 插件写的增强功能，会默认把时间格式高亮出来，如果你不需要，请到插件源码里按照下面的代码注释掉一些内容。
 
 ```js
-      if (dynamicHighlightsPlugin && dynamicHighlightsPlugin.staticHighlighter[1].value.queries) {
-        this.highlighters = Object.values(dynamicHighlightsPlugin.staticHighlighter[1].value.queries);
-        this.highlighters = this.highlighters.filter((highlighter) => {
-          var _a2;
-          return !((_a2 = highlighter.class) == null ? void 0 : _a2.includes("light-time"));
-        });
-        // this.highlighters.push({
-        //   class: "light-time",
-        //   color: "#E45858",
-        //   query: "\b(\d{1,2}:\d{1,2}(:\d{2})?)\b",
-        //   regex: true
-        // });
-      // } else {
-      //   this.highlighters.push({
-      //     class: "light-time",
-      //     color: "#E45858",
-      //     query: "\b(\d{1,2}:\d{1,2}(:\d{2})?)\b",
-      //     regex: true
-      //   });
-      }
+if (
+    dynamicHighlightsPlugin &&
+    dynamicHighlightsPlugin.staticHighlighter[1].value.queries
+) {
+    this.highlighters = Object.values(
+        dynamicHighlightsPlugin.staticHighlighter[1].value.queries
+    );
+    this.highlighters = this.highlighters.filter((highlighter) => {
+        var _a2;
+        return !((_a2 = highlighter.class) == null
+            ? void 0
+            : _a2.includes("light-time"));
+    });
+    // this.highlighters.push({
+    //   class: "light-time",
+    //   color: "#E45858",
+    //   query: "\b(\d{1,2}:\d{1,2}(:\d{2})?)\b",
+    //   regex: true
+    // });
+    // } else {
+    //   this.highlighters.push({
+    //     class: "light-time",
+    //     color: "#E45858",
+    //     query: "\b(\d{1,2}:\d{1,2}(:\d{2})?)\b",
+    //     regex: true
+    //   });
+}
 ```
 
 ## 结语

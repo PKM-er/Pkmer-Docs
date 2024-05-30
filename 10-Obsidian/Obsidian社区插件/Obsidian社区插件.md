@@ -375,7 +375,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-wrap-with-shortcuts]]：给选中文本加上自定义前后缀标签
 - [[obsidian-dice-roller]]：在文档任意地方生成需要随机的内容，这些随机的候选项可以你来定义
 - [[obsidian-markdown-formatting-assistant-plugin]]：提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示 OB 常用和所有命令提高工作效率。
-- [[text-extractor_readme]]：：在编辑器中扩展文本快捷键，运行 shell 命令和 python 脚本
 - [[obsidian-text-expander]]：在编辑器中扩展文本快捷键，运行 shell 命令和 python 脚本
 
 ### 图标类
@@ -512,8 +511,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据
 - [[open-weather]]：该插件以可配置的字符串格式返回 OpenWeather 的当前天气
 - [[rss-reader]]：让你的 Obsidian 秒变 RSS 阅读器
-- [[obsidian-leaflet-plugin_readme]]：在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
-	- [[obsidian-leaflet-plugin]]：活用方法
+- [[obsidian-leaflet-plugin]]：在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
 - [[obsidoom]]：让你在 Obsidian 上玩经典游戏 DOOM
 
 ### AI 相关

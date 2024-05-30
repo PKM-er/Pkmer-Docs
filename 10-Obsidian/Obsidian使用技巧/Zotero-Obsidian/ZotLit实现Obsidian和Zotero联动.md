@@ -16,8 +16,8 @@ modified: 20231114213203
 
 Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比如：
 
-- [[obsidian-zotero-desktop-connector|Zotero Integration]]
-- [[obsidian-citation-plugin_readme|Citations]] 配合 Zotero Mdnotes
+-   [[obsidian-zotero-desktop-connector|Zotero Integration]]
+-   [[obsidian-citation-plugin|Citations]] 配合 Zotero Mdnotes
 
 只要爱折腾，反正总有办法。
 
@@ -29,10 +29,10 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 
 我想要的 Obsidian + Zotero 工作流是这样的：
 
-- 用 Zotero 阅读电子书、RSS，做注释、做笔记；
-- 用 Obsidian 做其他任何笔记，记录想法；
-- 所有笔记都可在 Obsidian 这边访问；
-- 可在 Obsidian 中插入文献引用、导入 Zotero 笔记和注释。
+-   用 Zotero 阅读电子书、RSS，做注释、做笔记；
+-   用 Obsidian 做其他任何笔记，记录想法；
+-   所有笔记都可在 Obsidian 这边访问；
+-   可在 Obsidian 中插入文献引用、导入 Zotero 笔记和注释。
 
 就这点需求，用 ZotLit 非常舒服。
 
@@ -43,12 +43,13 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 插件的基本信息如下（来自 [[zotlit|Obsidian ZotLit]]）。
 
 > [!Note] 插件名片
-> - 插件名称：ZotLit
-> - 插件作者：AidenLx
-> - 插件说明：与 Zotero 集成的插件，可以创建文献笔记，并从 Zotero 库中插入引用。
-> - 插件分类：['obsidian 插件 ', ' 格式化排版 ', 'word']
-> - 项目地址：[点我访问](https://github.com/PKM-er/obsidian-zotlit)
-> - 国内下载地址：[下载安装](https://github.com/PKM-er/obsidian-zotlit)
+>
+> -   插件名称：ZotLit
+> -   插件作者：AidenLx
+> -   插件说明：与 Zotero 集成的插件，可以创建文献笔记，并从 Zotero 库中插入引用。
+> -   插件分类：['obsidian 插件 ', ' 格式化排版 ', 'word']
+> -   项目地址：[点我访问](https://github.com/PKM-er/obsidian-zotlit)
+> -   国内下载地址：[下载安装](https://github.com/PKM-er/obsidian-zotlit)
 
 ## 两键引用
 
@@ -106,17 +107,17 @@ Obsidian 和 Zotero 的插件开发者们已经提供了很多解决方案，比
 
 详细配置方法在 ZotLit 官方文档中都能找到，附上两个有用的链接：
 
-- [[zotlit|Obsidian 插件：ZotLit 最完美的 Zotero 和 Obsidian 联动插件]]
-- [基本用法 – ZotLit (aidenlx.top)](https://zotlit.aidenlx.top/zh-CN/getting-started/basic-usage)
+-   [[zotlit|Obsidian 插件：ZotLit 最完美的 Zotero 和 Obsidian 联动插件]]
+-   [基本用法 – ZotLit (aidenlx.top)](https://zotlit.aidenlx.top/zh-CN/getting-started/basic-usage)
 
 下面分享一下我自己的配置。
 
 ### 安装
 
-- Zotero 中，安装以下两个插件：
-	- [Obsidian Note for Zotero](https://zotlit.aidenlx.top/zh-CN/getting-started/install/zotero)；
-	- [Better BibTex for Zotero](https://github.com/retorquere/zotero-better-bibtex)。
-- Obsidian 中，在社区插件里找到 "ZotLit"，安装。
+-   Zotero 中，安装以下两个插件：
+    -   [Obsidian Note for Zotero](https://zotlit.aidenlx.top/zh-CN/getting-started/install/zotero)；
+    -   [Better BibTex for Zotero](https://github.com/retorquere/zotero-better-bibtex)。
+-   Obsidian 中，在社区插件里找到 "ZotLit"，安装。
 
 ### ZotLit 模板文件
 
@@ -128,9 +129,9 @@ PDF 注释的导出格式也可以通过模板调整，灵活度很高。
 
 目前我主要用到这几个模板：
 
-- 文献笔记名（Note filename），定义导出文献笔记的 Obsidian 笔记名。
-- 文献笔记内容（Note content），定义导出文献笔记要包含哪些 Zotero 条目内容。
-- 主要引用格式（Primary Markdown citation），定义在 Obsidian 中的 citation 格式。
+-   文献笔记名（Note filename），定义导出文献笔记的 Obsidian 笔记名。
+-   文献笔记内容（Note content），定义导出文献笔记要包含哪些 Zotero 条目内容。
+-   主要引用格式（Primary Markdown citation），定义在 Obsidian 中的 citation 格式。
 
 ![Pasted image 20231114195441](https://cdn.pkmer.cn/images/202311182300382.png!pkmer)
 
