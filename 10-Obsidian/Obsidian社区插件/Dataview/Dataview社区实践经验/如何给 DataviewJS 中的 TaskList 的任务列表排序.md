@@ -47,7 +47,7 @@ dv.taskList(tasks);
 
 猛一看貌似没什么问题，实际上运行就会发现是行不通的，没有任何效果。
 
-> 经过查询 [[Obsidian达人成长之路_2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API#dv.taskList(tasks, groupByFile) 方法|DataviewJS语法]] 可以知道 dv.taskList 用于将结果渲染成任务列表，数据源必须从 `page.file.tasks` 中获取，默认情况下如果数据从多个文档中获取，则会按文档名进行分组。
+> 经过查询 [dv.taskList(tasks, groupByFile) 方法]( https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/jenemy/obsidian%E8%BE%BE%E4%BA%BA%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF_2-%E4%BD%BF%E7%94%A8%E7%BB%88%E6%9E%81%E5%B7%A5%E5%85%B7-dataview-%E9%87%8A%E6%94%BE%E7%AC%94%E8%AE%B0%E5%BA%93%E7%9A%84%E6%BD%9C%E5%8A%9B--javascript-api/#dvtasklisttasks-groupbyfile-%E6%96%B9%E6%B3%95) 可以知道 dv.taskList 用于将结果渲染成任务列表，数据源必须从 `page.file.tasks` 中获取，默认情况下如果数据从多个文档中获取，则会按文档名进行分组。
 
 可见是因为 dv.taskList 对 tasks 的结果重新分组的结果，目前 dv 给出 taskList 的参数是无法干预这个结果的。
 
@@ -65,7 +65,9 @@ dv.taskList(tasks);
 
 ![image.png|650](https://cdn.pkmer.cn/images/202405302339156.png!pkmer)
 
-看到这里，就发现这里涉及一个关于数组的知识点，[[Obsidian达人成长之路_2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API#`DataArray` 接口介绍]]
+看到这里，就发现这里涉及一个关于数组的知识点，[DataArray 接口介绍]( https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/jenemy/obsidian%E8%BE%BE%E4%BA%BA%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF_2-%E4%BD%BF%E7%94%A8%E7%BB%88%E6%9E%81%E5%B7%A5%E5%85%B7-dataview-%E9%87%8A%E6%94%BE%E7%AC%94%E8%AE%B0%E5%BA%93%E7%9A%84%E6%BD%9C%E5%8A%9B--javascript-api/#dataarray-%E6%8E%A5%E5%8F%A3%E4%BB%8B%E7%BB%8D )
+
+
 
 > 我们可过 `dv.array()` 将一个普通的数组转换成 `DataArray` 类型，也可以反向操作将其转换成普通的 JavaScript 数组，比如：`dv.list(dv.current()).array()`。
 
