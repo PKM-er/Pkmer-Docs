@@ -18,7 +18,7 @@ modified: 20240601192049
 
 ## 样式效果展示
 
-![|750](https://cdn.pkmer.cn/images/202405191522926.png!pkmer)
+![](https://cdn.pkmer.cn/images/202405191522926.png!pkmer)
 
 ## 缘由
 
