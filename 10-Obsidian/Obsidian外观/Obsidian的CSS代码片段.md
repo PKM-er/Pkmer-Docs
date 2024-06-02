@@ -110,6 +110,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-如何在阅读模式下隐藏Properties]]
 - [[Obsidian样式-修复banner和Properties高度冲突以及多余留白改善]]
 - [[Obsidian样式-控制属性面板(YAML)的显示状态]]
+- [[Obsidian样式-FrontMatter读书笔记]]
 
 ### 状态栏
 

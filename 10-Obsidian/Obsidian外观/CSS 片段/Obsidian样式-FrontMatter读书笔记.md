@@ -1,17 +1,13 @@
 ---
 uid: 20240518200254
-title: Obsidian 样式-FrontMatter 读书笔记
-tags:
-  - 读书笔记
-  - CSS片段
-  - CSS美化
-  - css
+title: Obsidian 样式 -FrontMatter 读书笔记
+tags: [读书笔记, CSS片段, CSS美化, css]
 description: 
 author: Bon, ProudBenzene
 type: advanced
 draft: false
 editable: false
-modified: 20240601192049
+modified: 20240602231319
 ---
 
 # Obsidian 样式 -FrontMatter 读书笔记
