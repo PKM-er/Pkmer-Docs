@@ -1,13 +1,13 @@
 ---
 uid: 20240531210252
 title: QuickAdd 脚本 -canvas 节点大小自适应文字
-tags: [quickadd脚本]
+tags: [quickadd]
 description: 尝试让canvas的每个节点大小自适应文字长度，重改canvas排版
 author: calmwaves
 type: other
 draft: false
 editable: false
-modified: 20240531212001
+modified: 20240602231632
 ---
 
 # QuickAdd 脚本 -canvas 节点大小自适应文字
