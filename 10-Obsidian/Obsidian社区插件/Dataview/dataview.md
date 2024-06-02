@@ -101,11 +101,10 @@ Dataview 插件的用途主要有三个方面。
 
 ### [[Dataview社区实践经验|应用-Dataview社区实践经验]]
 
-- [[Dataview实战-提取并展示笔记脚注]]
-- [[Dataview实战-Obsidian dataview 引用本地图片]]
-- [[Dataview实战-发挥元数据的魔力-掌握 Dataview 的四大查询类型]]
 - [[Dataview实战-定制你的数据表格并为表格列添加个性化样式]]
-- [[Dataview实战-制作一个倒计时或者正计时列表]]
+- [[Dataview实战-发挥元数据的魔力-掌握 Dataview 的四大查询类型]]
+- [[Dataview实战-提取并展示笔记脚注]].
+- [[Dataview实战-Obsidian dataview 引用本地图片]].
 - [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]
 - [[Dataview实战-通过Dataview列出标签所在段落内容]]
 - [[Dataview实战-如何不显示笔记链接]]
@@ -125,13 +124,12 @@ Dataview 插件的用途主要有三个方面。
 - [[Dataview实战-列出每年的某个月份的检索结果应该怎么写]]
 - [[Dataview实战-列出以某个字母开头的文件或元数据]]
 - [[Dataview实战-如何查询结果的数目]]
-- [[每日字数的热力图|Dataview实战-每日字数的热力图]]
-- [[Obsidian样式-可滚动的Dataview表格视图|Dataview实战-给 Dataview 加个滚动条]]
-- [[Dataview实战-进度条]]
-- [[Dataview语法实战-列出特定标题下的元素]]
+- [[Dataview实战-展示笔记总数]]
+- [[Obsidian汇总显示笔记内的关键信息]]
+- [[如何给 DataviewJS 中的 TaskList 的任务列表排序]]
 
 ## Dataview 达人之路系列
 
-[[Obsidian达人成长之路_1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言]]
-
-[[Obsidian达人成长之路_2-使用终极工具Dataview释放笔记库的潜力-JavaScript API]]
+- [[Obsidian达人成长之路_1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言]]
+- [[Obsidian达人成长之路_2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API]]
+- [[Obsidian达人成长之路_3-使用终极工具 Dataview 释放笔记库的潜力 · 案例讲解]]

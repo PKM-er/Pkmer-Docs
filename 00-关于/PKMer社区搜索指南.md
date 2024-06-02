@@ -134,7 +134,7 @@ PKMer 在微信群和微信公众号后台接入了搜索自动回复机器人�
 
 您可以点击右上角的搜索框，或者使用快捷键 `ctrl+K` 打开 github 的搜索功能，在本库中进行搜索
 
-也可以依次点击右上角的 code → Download zip 将本开源库下载到本地，本库就是一个 obsidian 库，您可以使用 obsidian 打开，然后使用 obsidian 自带的搜索功能进行搜索，关于 obsidian 自带的搜索功能，网站内也有介绍文章： [[无需安装插件-Obsidian 自带的超强搜索功能]]
+也可以依次点击右上角的 code → Download zip 将本开源库下载到本地，本库就是一个 obsidian 库，您可以使用 obsidian 打开，然后使用 obsidian 自带的搜索功能进行搜索，关于 obsidian 自带的搜索功能，网站内也有介绍文章： [[搜索]]
 
 ![](https://cdn.pkmer.cn/images/631b560949c34c89e98f83b9d5fd5ba6.png!pkmer)
 
