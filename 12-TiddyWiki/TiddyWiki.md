@@ -3,7 +3,7 @@ uid: 20230818115425
 title: TiddyWiki 简易指南
 tags: [使用手册, 指导手册]
 description: TiddlyWiki（太微）简易使用手册，全网最全指导手册
-author: WhiteFall,PKMer
+author: 星蓝,PKMer
 type: other
 draft: false
 editable: false
