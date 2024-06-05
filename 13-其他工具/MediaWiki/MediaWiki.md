@@ -3,7 +3,7 @@ uid: 20240513192351
 title: MediaWiki
 tags: [MediaWiki]
 description: MediaWiki
-author: 明玥
+author: 星蓝
 type: other
 draft: false
 editable: false
