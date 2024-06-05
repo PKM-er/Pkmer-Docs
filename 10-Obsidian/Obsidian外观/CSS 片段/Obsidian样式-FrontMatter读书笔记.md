@@ -3,11 +3,11 @@ uid: 20240518200254
 title: Obsidian 样式 -FrontMatter 读书笔记
 tags: [读书笔记, CSS片段, CSS美化, css]
 description: 
-author: Bon, ProudBenzene
+author: ProudBenzene
 type: advanced
 draft: false
 editable: false
-modified: 20240602231319
+modified: 20240603203801
 ---
 
 # Obsidian 样式 -FrontMatter 读书笔记
@@ -35,7 +35,7 @@ Obsidian 1.4.0 更新了全新的 metadata，使得 metadata 不仅可以像原�
 
 ```css
 /* FrontMatter 读书笔记样式 */
-/* Author: Quorafind */
+/* 来自 Discord 社区用户 @reaty 的样式分享 */
 .book .cm-scroller {
 padding-left: 10% !important;
 padding-right: 10% !important;
