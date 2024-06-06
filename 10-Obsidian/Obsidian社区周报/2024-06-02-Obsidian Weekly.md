@@ -33,7 +33,7 @@ modified: 20240602235624
 > 	- 除了常见的 Markdown 代码和 HTML 代码外，你还可以自定义代码，通过自定义命令配置，把你的代码生成输入命令。
 > 	- 颜色选择面板中常见的色块，选自 22 种人类最易分辨的颜色。可参见文章 [20种不同的颜色](https://zhuanlan.zhihu.com/p/508870810) 或 [A Colour Alphabet and the Limits of Colour Coding](https://www.researchgate.net/publication/237005166_A_Colour_Alphabet_and_the_Limits_of_Colour_Coding)
 
-![Pasted image 20240602213303](https://cdn.pkmer.cn/images/Pasted%20image%2020240602213303.png!pkmer)
+![Pasted image 20240602213303|600](https://cdn.pkmer.cn/images/Pasted%20image%2020240602213303.png!pkmer)
 
 [Header Counter](https://obsidian.md/plugins?id=header-counter) By _Nancy Lee_
 
