@@ -99,6 +99,10 @@ created: 2023-08-19
 
 ![templater.gif](https://cdn.pkmer.cn/images/202305141719847.gif!pkmer)
 
+## 达人系列教程
+
+[[Obsidian达人成长之路_5-使用 Templater 减少重复工作，提高效率]]
+
 ## 社区使用技巧
 
 - [[Templater实现关键词自动化套用模板]]：铅笔小明分享的通过关键词自动化套用模板
