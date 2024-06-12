@@ -55,6 +55,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-悬浮侧边栏自动弹出，提升工作流效率]]
 - [[Obsidian样式-专注标签页边框]]
 - [[Obsidian样式-多彩便笺背景]]
+- [[Obsidian样式-给Obsidian设置护眼的暖色模式]]
 
 ### 编辑器
 
@@ -82,6 +83,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
 - [[Obsidian样式-隐藏 markdown 标记]]
 - [[Obsidian 样式-表格优化]]
+- [[Obsidian样式-笔记内容居左或居中切换]]
 
 ### 列表
 
@@ -135,6 +137,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian网址前自动加图标]]
 - [[Obsidian样式-修改内链的链接颜色]]
 - [[Obsidian样式-自定义链接前缀图标]]
+- [[Obsidian样式-内链与外链样式]]
 
 ### 文件管理器
 

@@ -41,6 +41,7 @@ modified: 20240417180235
 3. [[QuickAdd脚本-右键复制文件夹路径]]
 4. [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
 5. [[QuickAdd脚本-自定义外部应用打开]]
+6. [[QuickAdd脚本-新窗口打开笔记]]
 
 ### 属性 (Properties/YAML) 控制
 
