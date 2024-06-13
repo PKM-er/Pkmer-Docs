@@ -43,6 +43,10 @@ modified: 20240417180235
 5. [[QuickAdd脚本-自定义外部应用打开]]
 6. [[QuickAdd脚本-新窗口打开笔记]]
 
+### 附件管理
+
+- [[关于使用QuickAdd脚本实现按创建时间归档Obsidian附件的方案]]
+
 ### 属性 (Properties/YAML) 控制
 
 1. [[QuickAdd脚本-双语文档的中英文视图切换显示]]
