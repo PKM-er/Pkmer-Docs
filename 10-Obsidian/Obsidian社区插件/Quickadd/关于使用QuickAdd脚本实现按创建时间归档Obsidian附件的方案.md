@@ -68,15 +68,17 @@ module.exports = {
     const assetsList = fs.readdirSync(assetsPathFull).filter(file => {
       const ext = path.extname(file).toLowerCase();
       // 使用正则表达式来匹配文件扩展名：
-      const regexMatch = new RegExp("\\.(" + settings["文件类型(Custom folder path)"] + ")$", "i");
+      // 如果 settings["文件类型(Custom folder path)"] 为空值，则匹配所有文件类型
+      const regexMatch = new RegExp("\\.(" + (settings["文件类型(Custom folder path)"] || ".+") + ")$", "i");
       return regexMatch.test(ext);
     }).map(file => assetsPath + "/" + file);
 
-    // console.log(assetsList);
+    console.log(assetsList);
 
     // 批量获取创建日期并用ob的API移动附件
     assetsList.forEach(async (filePath) => {
       const ctime = app.vault.getAbstractFileByPath(filePath).stat["ctime"];
+      // const ctime = fs.statSync(filePath).ctime;
       const formattedDatePath = assetsPath + "/" + moment(ctime).format(dateFormat);
       console.log(formattedDatePath);
       if (!app.vault.getFolderByPath(formattedDatePath)) {
@@ -101,17 +103,17 @@ module.exports = {
       },
       "归档日期格式(date format)": {
         type: "format",
-        defaultValue: "{{DATE:YYYY/YYYY-MM-DD}}",
+        defaultValue: "{{DATE:YYYY/YYYY-MM/YYYY-MM-DD}}",
         description: "如果想以文件类型分类，可以配置{{DATE:[图形文件]YYYY/YYYY-MM-DD}}、{{DATE:[视频文件]YYYY/YYYY-MM-DD}}",
       },
       "文件类型(file type)": {
         type: "text",
-        defaultValue: "png|jpe?g|webp|mp[3,4]|pdf",
-        description: "文件后缀类型，不同类型用|分隔，不区分大小写"
+        defaultValue: "png|jpe?g|webp|gif|mp[34]|pdf",
+        description: "文件后缀类型，不同类型用|分隔，不区分大小写，如果为空值则默认全部附件。"
       }
     }
   }
-};;
+};
 ```
 
 ## 拓展方法：Python 附件归档
@@ -136,7 +138,7 @@ for file_name in os.listdir(current_dir):
         file_path = os.path.join(current_dir, file_name)
         # 获取文件的创建日期
         create_time = datetime.fromtimestamp(os.path.getctime(file_path))
-        folder_name = create_time.strftime('%Y/%Y-%m-%d')
+        folder_name = create_time.strftime('%Y/%Y-%m/%Y-%m-%d')
         folder_path = os.path.join(current_dir, folder_name)
 
         # 创建文件夹
