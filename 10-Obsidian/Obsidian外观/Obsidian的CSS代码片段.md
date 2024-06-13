@@ -71,8 +71,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-分割线样式美化]]
 - [[Obsidian样式-给笔记添加随机背景图]]
 - [[Obsidian样式-美化高亮样式]]
-- [[Obsidian样式-美化行内代码样式]]
-- [[Obsidian样式-编辑模式代码块显示行号]]
 - [[Obsidian样式-修复1.3.7版本标题语法高度问题]]
 - [[Obsidian安卓上利用css修改界面字体]]
 - [[Obsidian样式-缩减栏宽模式下美化笔记内部背景]]
@@ -84,6 +82,12 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-隐藏 markdown 标记]]
 - [[Obsidian 样式-表格优化]]
 - [[Obsidian样式-笔记内容居左或居中切换]]
+
+### 代码块
+
+- [[Obsidian样式-美化行内代码样式]]
+- [[Obsidian样式-编辑模式代码块显示行号]]
+- [[Obsidian样式-圆角代码块样式]]
 
 ### 列表
 
