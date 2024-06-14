@@ -10,9 +10,10 @@ editable: false
 modified: 20240612203323
 ---
 
-# QuickAdd 脚本 - 新窗口打开笔记
+# QuickAdd 脚本 - 新窗口居中打开笔记
 
-![tmp1718195414477_2024-04-20_QuickAdd脚本-新窗口打开笔记_IMG-1.gif](https://cdn.pkmer.cn/images/202406122032991.gif!pkmer)
+![2024-04-20_QuickAdd脚本-新窗口打开笔记](https://cdn.pkmer.cn/images/202406141221959.gif!pkmer)
+
 
 脚本的主要功能是打开一个新窗口并把当前活动窗口的内容显示在新窗口上，并且使新窗口保持在屏幕的最前端。
 
@@ -24,51 +25,18 @@ modified: 20240612203323
 
 ```js
 module.exports = async (params) => {
-  // 打开模式
-  const options = ["open-in-new-window", "move-to-new-window"];
-  // const quickAddApi = app.plugins.plugins.quickadd.api;
-  // const option = await quickAddApi.suggester(options, options);
-  option = options[0];
-  if (!option) return;
-
-  // 获取激活窗口的位置和大小
-  var activeWindowLeft = activeWindow.screenX;
-  var activeWindowTop = activeWindow.screenY;
-  var activeWindowWidth = activeWindow.outerWidth;
-  var activeWindowHeight = activeWindow.outerHeight;
-
-  // 相邻窗口打开
-  var newWindowLeft = activeWindowLeft + activeWindowWidth + 5; 
-  var newWindowTop = activeWindowTop+100;
-
-  // // 屏幕中间打开
-  // var screenWidth = activeWindow.screen.width;
-  // var screenHeight = activeWindow.screen.height;
-  // // 计算窗口左上角的坐标，使其位于显示器中央
-  // var newWindowLeft = (screenWidth - newWindowWidth) / 2;
-  // var newWindowTop = (screenHeight - newWindowHeight) / 2;
-
+  // 获取笔记的基本路径
+  const filePath = app.workspace.getActiveFile().path;
   // 设置默认的窗口大小
-  var newWindowWidth = 450;
-  var newWindowHeight = 480;
+  const newWindowWidth = 450;
+  const newWindowHeight = 480;
+  await app.workspace.openPopoutLeaf({ width: newWindowWidth, height: newWindowHeight }).openFile(app.vault.getAbstractFileByPath(filePath));
 
-  if (option === options[0]) {
-    // 在新窗口打开一个当前文档
-    app.commands.executeCommandById("workspace:open-in-new-window");
-  } else if (option === options[1]) {
-    // 发送到新窗口
-    app.commands.executeCommandById("workspace:move-to-new-window");
-  }
-
-  // 暂停100ms
-  await new Promise(resolve => setTimeout(resolve, 1));
-
-  //  将激活 窗口置顶
+  // 窗口置顶
   activeWindow.electronWindow.setAlwaysOnTop(true);
 
-  // 设置窗口的位置和大小
-  activeWindow.resizeTo(newWindowWidth, newWindowHeight); // 调整窗口大小为宽度，高度
-  activeWindow.moveTo(newWindowLeft, newWindowTop);
+  // 控制界面缩放
+  activeWindow.electronWindow.webContents.zoomFactor = 0.7;
 };
 ```
 
@@ -77,8 +45,6 @@ module.exports = async (params) => {
 将下述 CSS，保存为 `.css` 文件至 Obsidian 的 `.obsidian/snippets/` 文件夹下。
 
 > 注：该 CSS 针对外部窗口生效。
-
-![tmp1718195508729_2024-04-20_QuickAdd脚本-新窗口打开笔记_IMG-3.png](https://cdn.pkmer.cn/images/202406122032143.png!pkmer)
 
 ```css
 .is-popout-window {
