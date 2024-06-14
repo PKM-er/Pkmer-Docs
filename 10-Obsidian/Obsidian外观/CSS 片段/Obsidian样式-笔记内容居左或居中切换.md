@@ -22,7 +22,7 @@ modified: 20240612204011
 > 本样式依赖 Style Setting 插件，可以通过命令面板快捷调用 `内容居左或居中` 模式：
 > ![2024-06-07_Obsidian样式-内容居左或居中](https://cdn.pkmer.cn/images/202406122038642.png!pkmer)
 
-> 同时，对于适配 `Zoom` 插件、`Scroll to Top Plugin` 插件和 `SNW` 插件的笔记引用按钮，界面版样式也进行了调整，以防止各种元素遮挡主要内容。
+> 同时，对于适配 `Zoom` 插件、`Scroll to Top Plugin` 插件和 `SNW` 插件以及`Floating Toc`插件的笔记引用按钮，界面版样式也进行了调整，以防止各种元素遮挡主要内容。
 
 ## CSS 样式
 
@@ -107,3 +107,9 @@ body:not(.contentAlignLeft) {
   }
 }
 ```
+
+## ChangeLog
+
+- 24.06.14 适配floating toc插件
+	- ![Obsidian样式-笔记内容居左或居中切换](https://cdn.pkmer.cn/images/202406141532470.gif!pkmer)
+
