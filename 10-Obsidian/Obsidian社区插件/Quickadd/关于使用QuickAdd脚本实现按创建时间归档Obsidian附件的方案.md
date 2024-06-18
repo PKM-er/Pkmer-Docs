@@ -68,28 +68,25 @@ module.exports = {
     const assetsList = fs.readdirSync(assetsPathFull).filter(file => {
       const ext = path.extname(file).toLowerCase();
       // 使用正则表达式来匹配文件扩展名：
-      // 如果 settings["文件类型(Custom folder path)"] 为空值，则匹配所有文件类型
-      const regexMatch = new RegExp("\\.(" + (settings["文件类型(Custom folder path)"] || ".+") + ")$", "i");
+      // 如果 settings["文件类型(file type)"] 为空值，则匹配所有文件类型
+      const regexMatch = new RegExp("\\.(" + (settings["文件类型(file type)"] || ".+") + ")$", "i");
       return regexMatch.test(ext);
     }).map(file => assetsPath + "/" + file);
 
     console.log(assetsList);
 
     // 批量获取创建日期并用ob的API移动附件
-    assetsList.forEach(async (filePath) => {
+    for (const filePath of assetsList) {
       const ctime = app.vault.getAbstractFileByPath(filePath).stat["ctime"];
-      // const ctime = fs.statSync(filePath).ctime;
       const formattedDatePath = assetsPath + "/" + moment(ctime).format(dateFormat);
       console.log(formattedDatePath);
       if (!app.vault.getFolderByPath(formattedDatePath)) {
         app.vault.createFolder(formattedDatePath);
       }
 
-      // 移动附件
       const destinationPath = path.join(formattedDatePath, path.basename(filePath));
       await app.fileManager.renameFile(app.vault.getAbstractFileByPath(filePath), destinationPath);
-
-    });
+    }
     new Notice(`🔊${assetsList.length}个附件归档已完成`);
   },
   settings: {
