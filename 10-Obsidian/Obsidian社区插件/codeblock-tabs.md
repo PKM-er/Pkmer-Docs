@@ -1,8 +1,7 @@
 ---
 uid: 20231027184042
 title: Obsidian 插件：CodeBlock Tabs 为连续的 CodeBlocks 创建标签组样式
-tags:
-  - obsidian插件
+tags: [obsidian插件]
 description: Obsidian 插件：CodeBlock Tabs 为连续的 CodeBlocks 创建标签组样式
 author: OS
 type: basic

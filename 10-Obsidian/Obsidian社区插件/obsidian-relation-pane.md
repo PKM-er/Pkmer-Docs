@@ -32,7 +32,6 @@ modified: 20230918144336
 
  > [!NOTE] 关于第三个说明：
  > 假设当前笔记 `current.md` 引用了笔记 `foo.md`，存在其他的笔记 `other.md` 也引用了 `foo.md`，那么这个笔记 `other.md` 就是第三种情况。
- >
 
 ****
 

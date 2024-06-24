@@ -1,6 +1,6 @@
 ---
 uid: 20230903001334
-title: Dataveiw 的 GROUP BY 操作符简单示例
+title: Dataview 语法实战：GROUP BY 操作符简单示例
 tags: [Obsidian, dataview, 示例]
 description: Dataveiw 的 GROUP BY 操作符简单示例
 author: Huajin

@@ -1,6 +1,6 @@
 ---
 uid: 20230724104531
-title: Dataview 支持的Literals 字面常量
+title: Dataview 支持的 Literals 字面常量
 tags: [obsidian, 插件, dataview, 语法, literals]
 description: 基本语法学习指南，Literals 字面常量
 author: Huajin,PKMer

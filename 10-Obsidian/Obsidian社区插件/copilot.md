@@ -20,7 +20,7 @@ modified: 20230609110515
 > - 插件项目地址：[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copilot)
 
-## 该市
+## 概述
 
 ![image.png](https://cdn.pkmer.cn/images/20230609110121.png!pkmer)
 
@@ -29,5 +29,8 @@ modified: 20230609110515
 - 一键保存任何聊天记录为笔记
 - 使用活动笔记作为上下文，并通过在模式选择菜单中切换到“QA：活动笔记”来开始围绕它进行讨论。该功能依赖本地向量存储支持，需要额外配置
 - 内置翻译，简写，转述，修复，总结等常用 prompt
-- 自定义prompt
+- 自定义 prompt
 
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1405260572&bvid=BV13r421A7ek&cid=1570540513&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>

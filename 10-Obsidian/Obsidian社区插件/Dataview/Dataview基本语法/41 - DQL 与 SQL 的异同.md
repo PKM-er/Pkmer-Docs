@@ -1,6 +1,6 @@
 ---
 uid: 20230724104636
-title: Dataview 中的DQL 与 SQL 的区别
+title: Dataview 中的 DQL 与 SQL 的区别
 tags: [obsidian, 插件, dataview]
 description: 基本语法学习指南，DQL 与 SQL 的区别
 author: Huajin,PKMer

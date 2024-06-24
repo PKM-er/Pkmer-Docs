@@ -64,7 +64,7 @@ Notion 提供了广泛的集成选项，可以满足个人用户、团队和企�
 	- Type：内部集成安装到特定的工作区。稍后可以将此集成公开；
 	- Associated workspace：选择要安装集成的工作空间。工作区所有者也将能够管理集成。你可以稍后升级集成以使用开放授权 OAuth；
 	- Name：你想创建的集成的名字；
-	- Logo：集成的图片（obsidian 的黑曜石图片链接：<https://obsidian.md/images/obsidian-logo-gradient.svg）；>
+	- Logo：集成的图片（obsidian 的黑曜石图片链接：<<https://obsidian.md/images/obsidian-logo-gradient.svg>）；>
 
 ![](https://files.readme.io/2ec137d-093ad49-create-integration.gif)
 
@@ -96,13 +96,13 @@ Notion API Token 和 Database ID 为必填项，决定了文件传输到何处�
 
 - **Database ID**
 指的是我们在 notino 中创建的新的数据库的 ID，可以在新建的数据库的网址中找到。新建的数据库的网址的最后一部分的问好之前的部分.
-数据库的网址的样式为： <http://www.notion.so/......?......> ），问号之前到斜杠的部分就是这个数据库的 ID；
+数据库的网址的样式为： <<http://www.notion.so/>......?......> ），问号之前到斜杠的部分就是这个数据库的 ID；
 
 - **Banner url(optional)**
 这一项可有可无，内容是你传输后文件横幅图片的地址。
 
 - **Noiton ID(optional)**
-用于同步时，在 notion 中同步的对应的文件的链接的样式，如果不写，就是默认的链接 <http://www.notion.so/...> 。如果填写了，就是 <http://name.notion.site/...> ；
+用于同步时，在 notion 中同步的对应的文件的链接的样式，如果不写，就是默认的链接 <<http://www.notion.so/>...> 。如果填写了，就是 <<http://name.notion.site/>...> ；
 
 - **Convert tags(optional)**
 建议打开，打开后，你文件的 YAML 区域的 tags 属性中的值就可以被转换 notion 数据库中的 tags；

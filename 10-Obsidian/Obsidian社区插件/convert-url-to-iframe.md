@@ -17,17 +17,19 @@ modified: 20230603011405
 有时候我们需要将一些网页，以嵌入方式放到笔记中。这时候你就需要用到此插件，将任何 URL 转换为网页预览插入到笔记中。
 
 > [!Note] 插件名片
-> - 插件名称：Convert url to preview (iframe)
-> - 插件作者：Hachez Floran
-> - 插件说明：将任何 URL 转换为网页预览插入到笔记中
-> - 插件分类：[' 转换工具 ', ' 链接处理 ', 'obsidian 插件 ']
-> - 插件项目地址：[点我跳转](https://github.com/FHachez/obsidian-convert-url-to-iframe)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?convert-url-to-iframe)
+>
+> -   插件名称：Convert url to preview (iframe)
+> -   插件作者：Hachez Floran
+> -   插件说明：将任何 URL 转换为网页预览插入到笔记中
+> -   插件分类：[' 转换工具 ', ' 链接处理 ', 'obsidian 插件 ']
+> -   插件项目地址：[点我跳转](https://github.com/FHachez/obsidian-convert-url-to-iframe)
+> -   国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?convert-url-to-iframe)
 
->[!Tip] 提示
->- 该插件没有任何设置项
->- 如果你其他视频网站有兴趣，或者希望做视频笔记，使用时间戳等，可以参考这个插件。[[media-extended_readme]] 和 [[mx-bili-plugin_readme]]
->- 现在这两插件已经合并成新版的  [Media extended 插件](https://mx.pkmer.net/zh-CN)
+> [!Tip] 提示
+>
+> -   该插件没有任何设置项
+> -   如果你其他视频网站有兴趣，或者希望做视频笔记，使用时间戳等，可以参考这个插件。[[media-extended]] 和 [[mx-bili-plugin]]
+> -   现在这两插件已经合并成新版的 [Media extended 插件](https://mx.pkmer.net/zh-CN)
 
 ## 效果&特性
 
@@ -35,10 +37,10 @@ modified: 20230603011405
 
 ## 使用
 
-- 选中一个 URL
-- 鼠标右键单击（或使用命令面板 `Convert to Url Preview`（转换为 URL 预览）
-- 点击 ``Url to Preview/Iframe`
+-   选中一个 URL
+-   鼠标右键单击（或使用命令面板 `Convert to Url Preview`（转换为 URL 预览）
+-   点击 ``Url to Preview/Iframe`
 
 ![image.png](https://cdn.pkmer.cn/images/20230507122656.png!pkmer)
 
-- 该插件没有任何设置项
+-   该插件没有任何设置项

@@ -120,7 +120,6 @@ Obsidian 提供了轻便的待办任务体系，通过不同插件，不同主�
 - Order archived tasks：归档任务排序，可选择 `Newest first`
 - Archive heading text：设置归档标题为：`任务归档`
 
-
 > [!Tip] 相关推荐
 > - [[obsidian-tasks的GTD实践]]：基于 task 插件的实战 GTD 管理
 > - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务

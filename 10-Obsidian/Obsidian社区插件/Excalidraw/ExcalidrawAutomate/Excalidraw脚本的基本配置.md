@@ -1,10 +1,7 @@
 ---
 uid: 20231110205703
 title: Excalidraw 脚本的基本配置
-tags:
-  - Excalidraw
-  - Excalidraw脚本
-  - 开发者指南
+tags: [Excalidraw, Excalidraw脚本, 开发者指南]
 description: Excalidraw脚本的基本配置
 author: 熊猫别熬夜
 type: other

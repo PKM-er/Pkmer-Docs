@@ -1,10 +1,7 @@
 ---
 uid: 20230731231300
 title: Obsidian 插件：Zotero Integration
-tags:
-  - obsidian插件
-  - zotero
-  - 文献引用
+tags: [obsidian插件, zotero, 文献引用]
 description: Obsidian 插件：Zotero Integration
 author: 路子十一,OS
 type: basic

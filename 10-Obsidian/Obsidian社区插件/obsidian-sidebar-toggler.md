@@ -1,8 +1,7 @@
 ---
 uid: 20230822233942
 title: Obsidian 插件：Sidebar Toggler 侧边栏的更精细的控制
-tags:
-  - obsidian插件
+tags: [obsidian插件]
 description: Obsidian 侧边栏的更精细的控制。用于外部窗口管理器。
 author: OS
 type: basic

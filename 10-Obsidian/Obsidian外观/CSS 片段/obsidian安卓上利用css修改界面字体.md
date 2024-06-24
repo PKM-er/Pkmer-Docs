@@ -19,21 +19,21 @@ modified: 20231209100721
 reference: [简单调用霞鹜文楷字体 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/17543)
 
 ```css
-@import url('https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/lxgwwenkaiscreen.css');
+@import url("https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/lxgwwenkaiscreen.css");
 
 * {
-  /* Screen version */
-  font-family: "LXGW WenKai Screen", sans-serif;
+    /* Screen version */
+    font-family: "LXGW WenKai Screen", sans-serif;
 }
 ```
 
 如果要用思源宋体的话，就是下面这个 css 片段
 
 ```css
-@import url('https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@500;700&display=swap');
+@import url("https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@500;700&display=swap");
 
 * {
-  font-family: "Noto Serif SC", sans-serif;
+    font-family: "Noto Serif SC", sans-serif;
 }
 ```
 
@@ -51,9 +51,9 @@ reference: [简单调用霞鹜文楷字体 - 经验分享 - Obsidian 中文论�
 
 1. 下载 ttf 文件 [Releases · lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai/releases)
 2. 利用这个网站将 ttf 转成 css 文件 <https://transfonter.org/>，**唯一缺点是 ttf 文件不能超过 15MB**（霞鹜文楷的屏幕阅读版就超过了）
-	1. 点击 Add fonts 按钮, 上传 .ttf 字体文件
-	2. 打开 Family support 和 Base64 encode 开关, Formats 只选择 "WOFF2" 选项，点击 Convert 按钮
-	3. 转换完成后会生成下载链接, 点击 Download 下载即可
+    1. 点击 Add fonts 按钮, 上传 .ttf 字体文件
+    2. 打开 Family support 和 Base64 encode 开关, Formats 只选择 "WOFF2" 选项，点击 Convert 按钮
+    3. 转换完成后会生成下载链接, 点击 Download 下载即可
 3. 解压下载的文件 zip，找到其中的 `stylesheet.css` 打开（这个文本文件可能会很大，用记事本打开不一定流畅，可以找找别的文本编辑器）可以看到文件前两行，记住这个名字 `'LXGW WenKai GB'`：
 
 ```css@font-face {
@@ -73,12 +73,12 @@ reference: [简单调用霞鹜文楷字体 - 经验分享 - Obsidian 中文论�
 
 ## 插件 custom fonts
 
-插件介绍：[[custom-font-loader_readme]]
+插件介绍：[[custom-font-loader]]
 
 2023-09-23，新版本已经能处理字体大文件了，可以使用这个插件来自定义字体。
 
-- 将字体文件（.woff、.ttf 和 .woff2）添加到 `.obsidian/fonts` 文件夹中。
-- 打开插件设置，然后从下拉菜单中选择所需的字体。
-- 所选字体现在将应用于整个保管库。您可以随时切换字体。
+-   将字体文件（.woff、.ttf 和 .woff2）添加到 `.obsidian/fonts` 文件夹中。
+-   打开插件设置，然后从下拉菜单中选择所需的字体。
+-   所选字体现在将应用于整个保管库。您可以随时切换字体。
 
 ~~2023-08-18，新插件，我试用了一下，但是一直弹出 processing file，估计是中文字体文件太大了，所以这个插件暂时还用不了~~

@@ -25,7 +25,3 @@ WHERE !(outlinks.file) AND !(contains(meta(outlinks).path, "/"))
 GROUP BY outlinks
 ```
 `````
-
- 
-
-

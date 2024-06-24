@@ -1,10 +1,7 @@
 ---
 uid: 20230816192922
 title: Obsidian 插件：Control Characters 像 Word 一样显示隐藏的标点符号
-tags:
-  - obsidian插件
-  - 格式化排版
-  - word
+tags: [obsidian插件, 格式化排版, word]
 description: 在编辑模式下显示控制/不可打印字符
 author: 熊猫别熬夜
 type: basic

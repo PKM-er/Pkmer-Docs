@@ -59,6 +59,7 @@ modified: 20240417180235
 1. [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
 2. [[QuickAdd脚本-利用Canvas平铺笔记]]
 3. [[copy-selection-in-canvas]]
+4. [[QuickAdd脚本-尝试让canvas节点大小自适应文字]]
 
 ### 其他类型
 

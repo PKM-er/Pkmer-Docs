@@ -53,7 +53,6 @@ modified: 20240123173424
   ```
   ~~~
 
-
 ### `timeline-labeled` 标签
 
   - 每个事件都有对应的标签（`date`、`title` 和 `content`），并且标签位于行首

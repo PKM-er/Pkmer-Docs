@@ -1,8 +1,7 @@
 ---
 uid: 20230901102533
 title: Obsidian 插件：Fantasy name generator 小说任务名称生成神器
-tags:
-  - obsidian插件
+tags: [obsidian插件]
 description: 插入一个随机的幻想名字。
 author: AI
 type: other
@@ -31,4 +30,4 @@ modified: 20230908152839
 
 ## 使用
 
-_ 该插件调用<https://fantasyname.lukewh.com/来生成名称。请参阅> <https://fantasyname.lukewh.com/help> 以获取使用方法。_>
+_ 该插件调用<<https://fantasyname.lukewh.com/>来生成名称。请参阅> <https://fantasyname.lukewh.com/help> 以获取使用方法。_>

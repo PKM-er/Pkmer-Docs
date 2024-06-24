@@ -22,7 +22,7 @@ modified: 20240225173527
 
 已经有一些插件对此进行了优化：[[advanced-random-note]]，[[improved-random-note]]，[[canvas-randomnote]]，[[smart-random-note]]
 
-还有 [[obsidian-spotlight_readme]] 插件，可以将随机的粒度缩小到块 a block of note
+还有  [[obsidian-spotlight]] 插件，可以将随机的粒度缩小到块 a block of note
 
 而我使用自己写的脚本，既少装个插件，而且可控性高，自由筛选，添加一些个性化功能
 
@@ -30,36 +30,42 @@ modified: 20240225173527
 
 1. 可按照文件夹筛选漫游范围
 2. 不考虑笔记的新增/删除/修改，每一次随机都是独立的
-3. 最近半个月回顾过的不要重复回顾：把回顾时间写进笔记的 properties 里 `random_review_date 📋`，然后在筛选时进行比较
+3. 最近半个月回顾过的不要重复回顾：把回顾时间写进笔记的 properties 里  `random_review_date 📋`，然后在筛选时进行比较
 
 ## 代码
 
 ```js
 module.exports = async (params) => {
-  const currentDate = new Date();
-  const halfMonthAgo = new Date(
-    currentDate.getTime() - 15 * 24 * 60 * 60 * 1000
-  );
+    const currentDate = new Date();
+    const halfMonthAgo = new Date(
+        currentDate.getTime() - 15 * 24 * 60 * 60 * 1000
+    );
 
-  const files = app.vault
-    .getMarkdownFiles()
-    .filter((f) => f.path.startsWith("4-zettelkasten/")) //更改目标文件夹
-    .filter((f) => {
-      const reviewDate = app.metadataCache.getFileCache(f).frontmatter.random_review_date;
-      return !reviewDate ||(reviewDate==null)|| (new Date(reviewDate) <= halfMonthAgo);
-    });
+    const files = app.vault
+        .getMarkdownFiles()
+        .filter((f) => f.path.startsWith("4-zettelkasten/")) //更改目标文件夹
+        .filter((f) => {
+            const reviewDate =
+                app.metadataCache.getFileCache(f).frontmatter
+                    .random_review_date;
+            return (
+                !reviewDate ||
+                reviewDate == null ||
+                new Date(reviewDate) <= halfMonthAgo
+            );
+        });
 
     if (files.length == 0) {
-      new Notice("没有近半个月未漫游的笔记")
-      return;
+        new Notice("没有近半个月未漫游的笔记");
+        return;
     }
 
-  const randomIndex = Math.floor(Math.random() * files.length);
-  const randomFile = files[randomIndex];
-  app.workspace.openLinkText(randomFile.path, "");
-  const KEY = "random_review_date";
-  app.fileManager.processFrontMatter(randomFile, (fm) => {
-    fm[KEY] = currentDate.toISOString().slice(0, 10);
-  });
+    const randomIndex = Math.floor(Math.random() * files.length);
+    const randomFile = files[randomIndex];
+    app.workspace.openLinkText(randomFile.path, "");
+    const KEY = "random_review_date";
+    app.fileManager.processFrontMatter(randomFile, (fm) => {
+        fm[KEY] = currentDate.toISOString().slice(0, 10);
+    });
 };
 ```

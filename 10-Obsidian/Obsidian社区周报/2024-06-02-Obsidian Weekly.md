@@ -16,6 +16,10 @@ modified: 20240602235624
 > **统计时间**：2024-05-26 21:00 ~ 2024-06-02 21:00
 > **声明**：本栏目灵感来源于 _Eleanor Konik_ 女士于 2021 年 4 月至 2023 年 6 月期间写作发表的一系列 [Obsidian Roundup](https://www.eleanorkonik.com/tag/roundup/) 文章，如有兴趣可关注原作者的个人网站 [Obsidian Iceberg](https://www.eleanorkonik.com/)；内容来源于 Obsidian 官方 Discord 频道和相应项目在 Github 或其独立网站上的信息。描述中可能存在基于个人理解进行的修改，如有错谬欢迎指正。感谢 Obsidian 团队为我们带来如此优秀的软件。
 
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1505353676&bvid=BV1TD421g7Gi&cid=1573736827&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
 ## 插件新闻
 
 ### 社区插件
@@ -33,7 +37,7 @@ modified: 20240602235624
 > 	- 除了常见的 Markdown 代码和 HTML 代码外，你还可以自定义代码，通过自定义命令配置，把你的代码生成输入命令。
 > 	- 颜色选择面板中常见的色块，选自 22 种人类最易分辨的颜色。可参见文章 [20种不同的颜色](https://zhuanlan.zhihu.com/p/508870810) 或 [A Colour Alphabet and the Limits of Colour Coding](https://www.researchgate.net/publication/237005166_A_Colour_Alphabet_and_the_Limits_of_Colour_Coding)
 
-![Pasted image 20240602213303](https://cdn.pkmer.cn/images/Pasted%20image%2020240602213303.png!pkmer)
+![Pasted image 20240602213303|600](https://cdn.pkmer.cn/images/Pasted%20image%2020240602213303.png!pkmer)
 
 [Header Counter](https://obsidian.md/plugins?id=header-counter) By _Nancy Lee_
 

@@ -31,7 +31,6 @@ Mermaid Toolbar 可以增强 Obsidian 的流程图绘制能力，让你在笔记
 
 ![image.png](https://cdn.pkmer.cn/images/20240105183509.png!pkmer)
 
-
 ![image.png](https://cdn.pkmer.cn/images/20230518181359.png!pkmer)
 
 - 提供一个侧边栏面板，提供各种样式流程图的模板

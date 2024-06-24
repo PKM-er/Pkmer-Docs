@@ -1,6 +1,6 @@
 ---
 uid: 20240417152011
-title: QuickAdd 脚本 - 更新文档的编辑时间
+title: QuickAdd 脚本 - 插入文档的编辑或创建时间
 tags: [时间管理, YAML, quickadd脚本]
 description: "该脚本用于更新文档的编辑时间，在文档中添加一个指定属性 (eg: `modified`)，记录文档的编辑时间 (eg: `YYYY-MM-DD HH:mm:ss Z`)，可配合 Linter 绑定的快捷键 Ctrl + S 一起使用。"
 author: 熊猫别熬夜
@@ -11,7 +11,6 @@ modified: 20240417153417
 ---
 
 # QuickAdd 脚本 - 插入文档的编辑或创建时间
-
 
 该脚本用于更新文档的编辑时间 (`mtime`) 或者插入创建时间 (`ctime`)，在文档中添加一个指定属性 (eg: `modified`)，记录文档的编辑时间 (eg: `YYYY-MM-DD HH:mm:ss Z`)，亦或是插入文档的创建时间 (eg：`date`，`YYYY-MM-DD`)。
 

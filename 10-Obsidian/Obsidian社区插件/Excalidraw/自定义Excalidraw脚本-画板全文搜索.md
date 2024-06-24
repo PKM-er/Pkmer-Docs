@@ -1,11 +1,7 @@
 ---
 uid: 20240401215814
 title: 自定义 Excalidraw 脚本 - 画板全文搜索
-tags:
-  - 强化搜索
-  - Excalidraw脚本
-  - 图片处理
-  - OCR
+tags: [强化搜索, Excalidraw脚本, 图片处理, OCR]
 description: 该脚本实现了基于 Excalidraw 画板的全局搜索功能。可以选择不同选项，搜索💬文本元素、🖼图片元素（采用 PaddleocrOCR 或者 Obsidian 的 Text Extractor 插件进行 OCR）、📝嵌入的文档 (wiki 链接或者 embeddable 文档)、以及画板的🎨全文搜索 (包含所有元素选项)，并通过选择的搜索结果聚焦到该元素。
 author: 熊猫别熬夜
 type: other

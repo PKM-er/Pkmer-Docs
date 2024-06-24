@@ -37,12 +37,12 @@ modified: 20231215143614
 
 其实还有一个歪门邪道，利用 Zoom 插件缩放至一个非列表的段落或者空行，或者当前小标题下方的所有文本 (即小章节)。
 
-- 任意段落缩放：
-	- 将**某个空白段落或者非列表的段落**转换为**列表**后再进行缩放 (Zoom in)，然后取消列表格式，将缩放到这一行里面。
-	- ![Obsidian 插件技巧：Zoom 插件的妙用](https://cdn.pkmer.cn/images/202312151427104.png!pkmer)
-- 任意小章节缩放：
-	- 将**某个空白段落或者非列表的段落**转为 6 级小标题后再进行缩放 (Zoom in)，然后取消 6 级小标题格式，将缩放到这一小章节里面。
-	- ![Obsidian 插件技巧：Zoom 插件的妙用](https://cdn.pkmer.cn/images/202312151427105.png!pkmer)
+-   任意段落缩放：
+    -   将**某个空白段落或者非列表的段落**转换为**列表**后再进行缩放 (Zoom in)，然后取消列表格式，将缩放到这一行里面。
+    -   ![Obsidian 插件技巧：Zoom 插件的妙用](https://cdn.pkmer.cn/images/202312151427104.png!pkmer)
+-   任意小章节缩放：
+    -   将**某个空白段落或者非列表的段落**转为 6 级小标题后再进行缩放 (Zoom in)，然后取消 6 级小标题格式，将缩放到这一小章节里面。
+    -   ![Obsidian 插件技巧：Zoom 插件的妙用](https://cdn.pkmer.cn/images/202312151427105.png!pkmer)
 
 > 我分别配置的快捷键是：`Ctrl + Shift + =` 和 `Ctrl + Shift + -`
 
@@ -58,7 +58,7 @@ modified: 20231215143614
 
 ## References
 
-- [[Obsidian搭配 Vim Mode]]
-- [[obsidian-zoom]]
-- [[quick-snippets-and-navigation_readme]]
-- [[quickadd]]
+-   [[Obsidian搭配 Vim Mode]]
+-   [[obsidian-zoom]]
+-   [[quick-snippets-and-navigation]]
+-   [[quickadd]]

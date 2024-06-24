@@ -1,9 +1,7 @@
 ---
 uid: 20240221010558
 title: 自定义 Excalidraw 脚本 - 上传画板中的图片到图床
-tags:
-  - 图床
-  - Excalidraw脚本
+tags: [图床, Excalidraw脚本]
 description: Excalidraw 画板中引用的图片直接上传到 PicGo 的 Server 转为在线图片
 author: 熊猫别熬夜
 type: other

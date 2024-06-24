@@ -18,7 +18,6 @@ modified: 20240520085221
 >
 > 当前文章可用于 0.39.23 版本的 PDF++。
 
-
 > [!Note] 插件名片
 > - 插件名称：PDF++
 > - 插件作者：Ryota Ushio
@@ -31,16 +30,17 @@ modified: 20240520085221
 ## 插件介绍
 
 PDF++ 是一种针对 Obsidian 的原生 PDF 注释和编辑工具，显著提升了 Obsidian 的 PDF 支持能力。
+
 - 功能概览
 	- **高亮注释**：将 PDF 文件中的反向链接转换为高亮注释，允许通过链接文本选择来注释 PDF。
 	- **注释同步**：支持将注释直接添加到 PDF 文件中，以便在 Obsidian 之外也可见。
 	- **查看器增强**：为内置的 PDF 查看器和嵌入功能添加了便利性改进，即使不用于注释，也能提升用户体验。
-
 - 特点
 	- **与 Obsidian 原生查看器集成**：补充而非替代 Obsidian 的本机查看器，注释以纯 Markdown 保存，确保持久性。
 	- **独立注释工具**：无需在 Obsidian 和外部应用程序之间切换，即可使用丰富的 Markdown 编辑器注释 PDF。
 	- **分布式注释**：支持将单个 PDF 的注释分布在整个 vault 中。
 	- **轻量级依赖**：除可选的 `&color=...`/`&rect=...` 链接表示法外，不引入插件依赖的语法。
+
 ## 插件设置推荐
 
 ### Editing PDF files
@@ -245,7 +245,9 @@ PDF++ 是一种针对 Obsidian 的原生 PDF 注释和编辑工具，显著提�
 ## 其他相关文章
 
 [[如何让mousewheel-image-zoom插件适配pdf++嵌入块]]
- 
+
+
+
 ## 兼容性
 
 PDF++ 与以下插件兼容：
@@ -253,7 +255,6 @@ PDF++ 与以下插件兼容：
 - [[obsidian-hover-editor]]
 - [Better Search Views](https://github.com/ivan-lednev/better-search-views)
 
-
-以下插件跟PDF++冲突：
+以下插件跟 PDF++ 冲突：
 
 - [[close-similar-tabs]]

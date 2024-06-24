@@ -1,6 +1,6 @@
 ---
 uid: 20231123201314
-title: Dataview实战-通过 Dataview 列出关键字所在的行和行数
+title: Dataview 实战 - 通过 Dataview 列出关键字所在的行和行数
 tags: [Obsidian, dataview, 标签，tags, 汇总]
 description: 列出关健字所在的行内容以及所在行数
 author: 我想煞了我
@@ -18,7 +18,7 @@ modified: 20231202101635
 
 ## Dataview 列出关键字所在的行和行数
 
-查询`老虎` 在动物标签文件中出现的行和所在行行数。
+查询 `老虎` 在动物标签文件中出现的行和所在行行数。
 
 ### 创建文件
 
@@ -125,7 +125,7 @@ let files = dv.pages('#动物').where(p=>p.file.path != dv.current().file.path)
 
 - `dv.page('').where(p=>p.file.path != dv.current().file.path)`：除了当前文件的其他所有文件
 - `dv.pages('#动物')`：查询带有动物标签的文件
-- 更多内容请看 https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/#dvpagessource
+- 更多内容请看 <https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/#dvpagessource>
 
 ### 如何查询多个关健字
 
@@ -143,4 +143,4 @@ values.push([`[[${file.basename}]]`,"**【" + String(index+1) + "】**" + elemen
 ```
 
 - 加粗就是把 `"=="+k+"=="` 改成 `"**"+k+"**"`。
-- 修改行号样式`【】`改成`（）`就是把 `"**【" + String(index+1) + "】**"` 改成 `"**(" + String(index+1) + ")**"`。
+- 修改行号样式 `【】` 改成 `（）` 就是把 `"**【" + String(index+1) + "】**"` 改成 `"**(" + String(index+1) + ")**"`。

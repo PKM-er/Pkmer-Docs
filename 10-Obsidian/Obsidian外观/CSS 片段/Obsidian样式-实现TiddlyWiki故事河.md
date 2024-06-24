@@ -14,9 +14,9 @@ modified: 20231019231652
 
 ![Pasted image 20231012052909](https://cdn.pkmer.cn/images/202310120917462.png!pkmer)
 
-- 侧边栏悬浮
-- TiddlyWiki 故事河布局
-- 自定义题图和题图图标
+-   侧边栏悬浮
+-   TiddlyWiki 故事河布局
+-   自定义题图和题图图标
 
 # 实现方式
 
@@ -61,14 +61,14 @@ div.app-container>.horizontal-main-container>.workspace>.workspace-split.mod-ver
     height: unset;
     overflow: unset;
     contain: unset !important;
-    border: solid 2px rgba(46, 46, 46, 0.179); 
-    border-radius: var(--tiddlyradius); 
-    margin-bottom: 10px; 
-    margin-top: 10px; 
-    margin-left: 10px; 
-    margin-right: 10px; 
-    box-shadow: 0px 0px 5px 2px rgba(136, 136, 136, 0.1); 
-    flex-direction: column; 
+    border: solid 2px rgba(46, 46, 46, 0.179);
+    border-radius: var(--tiddlyradius);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 0px 0px 5px 2px rgba(136, 136, 136, 0.1);
+    flex-direction: column;
 }
 
 .markdown-preview-sizer.markdown-preview-section,.cm-content.cm-lineWrapping{
@@ -77,7 +77,7 @@ div.app-container>.horizontal-main-container>.workspace>.workspace-split.mod-ver
 
 .markdown-source-view.mod-cm6 {
     height: auto;
-    display: unset; 
+    display: unset;
     flex-direction: column;
     overflow-y: visible;
 }
@@ -85,8 +85,8 @@ div.app-container>.horizontal-main-container>.workspace>.workspace-split.mod-ver
 div.app-container>.horizontal-main-container>.workspace>.workspace-split.mod-vertical.mod-root>.workspace-tabs.mod-top>.workspace-tab-container>.workspace-leaf>.workspace-leaf-content {
     display: flex ;
     height: auto ;
-    border-radius: var(--tiddlyradius); 
-    border-radius: var(--tiddlyradius); 
+    border-radius: var(--tiddlyradius);
+    border-radius: var(--tiddlyradius);
 }
 
 div.app-container>.horizontal-main-container>.workspace>.workspace-split.mod-vertical.mod-root>.workspace-tabs.mod-top>.workspace-tab-container>.workspace-leaf>.workspace-leaf-content[data-type$="empty"] {
@@ -114,7 +114,7 @@ div.app-container>.horizontal-main-container>.workspace>.workspace-split.mod-ver
 
 1. 目前只支持左侧边栏。
 2. 新增两个小改进。添加了一个小把手；可以自定义宽度了。
-![Pasted image 20231012051826](https://cdn.pkmer.cn/images/202310120919188.png!pkmer)
+   ![Pasted image 20231012051826](https://cdn.pkmer.cn/images/202310120919188.png!pkmer)
 
 ### 代码
 
@@ -233,43 +233,43 @@ body>div.app-container>div.horizontal-main-container>div>div.workspace-split.mod
 
 1. 在 cssclasses 中填入 `bannerimg`
 2. 在页面中插入题头图，需要使用 wiki 链接
-	1. 示例：`![[要插入的图片.png#bannerimg]]`，重点是后方的 `#bannerimg`。
+    1. 示例：`![[要插入的图片.png#bannerimg]]`，重点是后方的 `#bannerimg`。
 3. 插入题头图标，同样需要使用 wiki 链接
-	1. 示例：`![[要插入的图片.png#bannericonl]]`，重点是后方的 `#bannericonl`
-	2. 一共预设了四种样式
-		1. `bannericonl`：图标**左对齐**
-		2. `bannericonlc`：图标**左对齐**且呈现**圆形**
-		3. `bannericonc`：图标**居中对齐**
-		4. `bannericoncc`：图标**居中对齐**且呈现**圆形**
+    1. 示例：`![[要插入的图片.png#bannericonl]]`，重点是后方的 `#bannericonl`
+    2. 一共预设了四种样式
+        1. `bannericonl`：图标**左对齐**
+        2. `bannericonlc`：图标**左对齐**且呈现**圆形**
+        3. `bannericonc`：图标**居中对齐**
+        4. `bannericoncc`：图标**居中对齐**且呈现**圆形**
 4. 标题居中对齐，如果使用题头图标居中对齐，那么也一定会想让标题居中对齐。只需要在 `cssclasses` 中输入 `banner-title-center` 即可使标题居中对齐。
    ![Pasted image 20230905003048](https://cdn.pkmer.cn/images/202310120920664.png!pkmer)
 5. 这个片段对以下插件做了优化
-	1. Breadcrumbs，使 trail 视图下移，不会显示重叠。
-	2. Strange New World，用于题图和题头图标的图片不显示小按钮。
+    1. Breadcrumbs，使 trail 视图下移，不会显示重叠。
+    2. Strange New World，用于题图和题头图标的图片不显示小按钮。
 
 ### 新增的 Callout
 
-- CallOut 支持 Emoji 作为图标了。
-	- Emoji 有一个左对齐，一个居中对齐。
-	- 这里沿用了旧方法的四个名称，将其填入 callout 即可
-		1. `> > [!bannericonl] `：图标**左对齐**
-		2. `> > [!bannericonlc]`：图标**左对齐**且呈现**圆形**
-		3. `> > [!bannericonc]`：图标**居中对齐**
-		4. `> > [!bannericoncc]`：图标**居中对齐**且呈现**圆形**
-- 新增两个描述样式。
-	- 依然是一个左对齐，一个居中对齐。
-		- `> > [!bannerdescription]` **左对齐**
-		- `> > [!bannerdescriptionc]` **居中对齐**
+-   CallOut 支持 Emoji 作为图标了。
+    -   Emoji 有一个左对齐，一个居中对齐。
+    -   这里沿用了旧方法的四个名称，将其填入 callout 即可
+        1. `> > [!bannericonl] `：图标**左对齐**
+        2. `> > [!bannericonlc]`：图标**左对齐**且呈现**圆形**
+        3. `> > [!bannericonc]`：图标**居中对齐**
+        4. `> > [!bannericoncc]`：图标**居中对齐**且呈现**圆形**
+-   新增两个描述样式。
+    -   依然是一个左对齐，一个居中对齐。
+        -   `> > [!bannerdescription]` **左对齐**
+        -   `> > [!bannerdescriptionc]` **居中对齐**
 
 ```markdown
 > [!banner]
-> 
+>
 > > [!bannerimage]
 > > 这里放横幅
-> 
-> > [!bannericonc] 
+>
+> > [!bannericonc]
 > > 这里放图标
-> 
+>
 > > [!bannerdescription]
 > > 这是一段描述！  
 > > 这是一段长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长的描述！
@@ -278,9 +278,9 @@ body>div.app-container>div.horizontal-main-container>div>div.workspace-split.mod
 #### 如何使用
 
 1. 在**属性视图**中的 `cssclasses` 里填入
-	1. `bannerimg`，必填的
-	2. `description`，激活描述的，选用。
-	3. `banner-title-center`，标题居中，选用
+    1. `bannerimg`，必填的
+    2. `description`，激活描述的，选用。
+    3. `banner-title-center`，标题居中，选用
 
 ### 代码
 
@@ -713,21 +713,21 @@ span[src$="bannericoncc"] img {
 
 # 更多信息
 
-- 主题：[minimal](https://github.com/kepano/obsidian-minimal)
-	- 主题指南：[minimal指南](https://minimal.guide/)
-- 启用 CSS 片段
-	- TiddlyWiki_Like
-	- MinerBanner
-	- Miner_Float_Sidebar
-	- 一个透明片段
-- 启用插件
-	- [[obsidian42-strange-new-worlds_readme]]
-		- 用于在双链后方显示引用计数与卡片窗口
-	- [Collapse Node](https://github.com/Quorafind/Obsidian-Collapse-Node)
-		- 允许在 Obsidian 白板中折叠卡片
+-   主题：[minimal](https://github.com/kepano/obsidian-minimal)
+    -   主题指南：[minimal 指南](https://minimal.guide/)
+-   启用 CSS 片段
+    -   TiddlyWiki_Like
+    -   MinerBanner
+    -   Miner_Float_Sidebar
+    -   一个透明片段
+-   启用插件
+    -   [[obsidian42-strange-new-worlds]]
+        -   用于在双链后方显示引用计数与卡片窗口
+    -   [Collapse Node](https://github.com/Quorafind/Obsidian-Collapse-Node)
+        -   允许在 Obsidian 白板中折叠卡片
 
 ## FAQ
 
-- Q：在笔记卡片中显示为卡片分列的是什么功能？
-  ![Pasted image 20230904235808](https://cdn.pkmer.cn/images/202310120920312.png!pkmer)
-	- A：minimal 主题的列表转卡片。在 cssclasses 中输入 `list-cards` 即可激活，详细设置请看 [minimal文档/卡片](https://minimal.guide/cards)
+-   Q：在笔记卡片中显示为卡片分列的是什么功能？
+    ![Pasted image 20230904235808](https://cdn.pkmer.cn/images/202310120920312.png!pkmer)
+    -   A：minimal 主题的列表转卡片。在 cssclasses 中输入 `list-cards` 即可激活，详细设置请看 [minimal 文档/卡片](https://minimal.guide/cards)

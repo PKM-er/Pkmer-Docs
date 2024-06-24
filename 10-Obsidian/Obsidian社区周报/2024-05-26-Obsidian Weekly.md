@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240526233529
+modified: 20240527120856
 ---
 
 # Obsidian Weekly 2024-05-26：新版本尝鲜前瞻！笔记软件（?）万能终端（√）
@@ -15,6 +15,10 @@ modified: 20240526233529
 > [!Abstract]
 > **统计时间**：2024-05-19 21:00 ~ 2024-05-26 21:00
 > **声明**：本栏目灵感来源于 _Eleanor Konik_ 女士于 2021 年 4 月至 2023 年 6 月期间写作发表的一系列 [Obsidian Roundup](https://www.eleanorkonik.com/tag/roundup/) 文章，如有兴趣可关注原作者的个人网站 [Obsidian Iceberg](https://www.eleanorkonik.com/)；内容来源于 Obsidian 官方 Discord 频道和相应项目在 Github 或其独立网站上的信息。描述中可能存在基于个人理解进行的修改，如有错谬欢迎指正。感谢 Obsidian 团队为我们带来如此优秀的软件。
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1305213601&bvid=BV1eM4m1r7MK&cid=1564625232&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ## 官方资讯
 
@@ -71,7 +75,7 @@ modified: 20240526233529
 
 ##### 开发者
 
-我们已经取消了对 `.suggestion-popover` 的 CSS 更改，这应该修复了插件创建的建议出现未样式化的问题。
+已经取消了对 `.suggestion-popover` 的 CSS 更改，这应该修复了插件创建的建议出现未样式化的问题。
 
 #### 移动端
 
@@ -235,12 +239,14 @@ modified: 20240526233529
 
 ### [Thino Web ](https://thino.pkmer.cn/) 已开启内测
 
-购买Thino Pro 的用户已经可以抢先登录体验了。
+购买 Thino Pro 的用户已经可以抢先登录体验了。
 
 ![image.png](https://cdn.pkmer.cn/images/202405262358883.png!pkmer)
 
 相关文档 [Thino Web | PKMer.net](https://thino.pkmer.net/thino/03_thino-web/thino-web/)
- 
+
+
+
 ## 外观
 
 [Fusion Theme v0.4 (beta)](https://github.com/zamsyt/obsidian-fusion/wiki/Fusion-v0.4-beta) By _zamsyt_
@@ -263,7 +269,7 @@ modified: 20240526233529
 > - _不支持带有多个“字母”的前缀。_
 > - 可以使用 [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) 来配置显示前缀的时间。
 
-![8e567add-21e8-4792-8c8b-acf359bfab84](https://cdn.pkmer.cn/images/8e567add-21e8-4792-8c8b-acf359bfab84.gif!pkmer)
+![8e567add-21e8-4792-8c8b-acf359bfab84|400](https://cdn.pkmer.cn/images/8e567add-21e8-4792-8c8b-acf359bfab84.gif!pkmer)
 
 [Neon Synthwave Theme](https://github.com/grjsmith/Neon-Synthwave) By _Grant Smith_
 

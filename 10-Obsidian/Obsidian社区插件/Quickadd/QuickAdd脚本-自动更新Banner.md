@@ -1,6 +1,6 @@
 ---
 uid: 20240417173638
-title: QuickAdd 脚本 - 自动插入文档中的第 n 张图片至 Banner 属性
+title: QuickAdd脚本-自动更新Banner
 tags: [banners, 图片处理]
 description: 自动插入文档中的第 n 张图片至 Banner 属性
 author: 熊猫别熬夜
@@ -10,9 +10,11 @@ editable: false
 modified: 20240420160203
 ---
 
+# QuickAdd 脚本 - 自动更新 Banner
+
 ## 使用背景
 
-![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性](https://cdn.pkmer.cn/images/202404281340395.png!pkmer)  
+![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性](https://cdn.pkmer.cn/images/202404281340395.png!pkmer)
 我编辑 Project 时经常忘记添加 Banner 属性值，尤其当图片修改后，我也不想去手动更新。通常文章的第一张图片就是这篇文章的 Banner。为了偷懒，我写了这个脚本并与 Linter 配合使用。
 
 ![2024-04-17_QuickAdd脚本-自动插入文档中的第n张图片至Banner属性_IMG-1](https://cdn.pkmer.cn/images/202404281340396.png!pkmer)

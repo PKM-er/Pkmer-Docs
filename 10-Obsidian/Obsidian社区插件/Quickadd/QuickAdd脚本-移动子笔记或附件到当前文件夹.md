@@ -1,9 +1,7 @@
 ---
 uid: 20240323205607
 title: QuickAdd 脚本 - 移动子笔记或附件到当前文件夹
-tags:
-  - 笔记管理
-  - quickadd脚本
+tags: [笔记管理, quickadd脚本]
 description: 移动子笔记或附件到当前文件夹
 author: 熊猫别熬夜
 type: other
@@ -235,7 +233,7 @@ function matchSelectionEmbed(text) {
 - 2024-03-22_11:33：如果嵌入的是 FolderNote 则移动整个 FolderNote 文件夹。 ✅ 2024-03-22
 - 2024-04-01_19:09：添加移动当前文件夹至其他位置的选项，方便 Folder 笔记的移动
 	- ![QuickAdd脚本-移动子笔记或附件到当前文件夹.png](https://cdn.pkmer.cn/images/202404012231274.png!pkmer)
-- 2024-04-28_13:42：添加归档文档选项，可在QuickAdd设置中调整具体参数
+- 2024-04-28_13:42：添加归档文档选项，可在 QuickAdd 设置中调整具体参数
 	- ![QuickAdd脚本-移动子笔记或附件到当前文件夹.png](https://cdn.pkmer.cn/images/202404281344860.png!pkmer)
 	- ![QuickAdd脚本-移动子笔记或附件到当前文件夹.png](https://cdn.pkmer.cn/images/202404281344635.png!pkmer)
 
