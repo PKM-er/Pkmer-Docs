@@ -20,6 +20,7 @@ modified: 20240408191220
 - [[一种快捷打开obsidian特定页面的技巧]]
 - [[键盘小键盘区使用指南]]
 
+
 ### 综合
 
 - [[Obsidian-2023-seyee| 用 Obsidian 两年多 现在我怎么同步和使用]] by Seyee
@@ -63,6 +64,10 @@ modified: 20240408191220
 - [[auto-insert-template自动化模板教学]] by Devol
 - [[banners插件beta版适配Obsidian 1.4以上版本]]
 - [[实时预览Templater插件的模板应用结果]]
+- [[【TP脚本】快速复制标题链接和内联代码]]
+- [[【外观】分享一种好看的月历做法]]
+- [[【快捷键】使用连续按键来快速打开页面]]
+- [[【实用技巧】实现OB内的文本指令]]
 - Quickadd
 	- [[Quickadd结合CSS实现挖空复习]] by Mon
 	- [[QuickAdd脚本-为深浅模式配置不同的主题]]
