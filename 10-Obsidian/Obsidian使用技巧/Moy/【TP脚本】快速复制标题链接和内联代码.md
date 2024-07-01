@@ -24,7 +24,7 @@ publish: true
 
 是否显示笔记名称的长度区别：
 
-![](Resource/Images/bb4f11b148b1563734908f3a5af3a607.png)
+![](https://cdn.pkmer.cn/images/202407012053309.png!pkmer)
 
 我一直的做法是先双击 `[[` 后选择一个笔记，选完之后再输入 `#` 选择页面里的一个标题，最后修改显示文本。
 
@@ -92,11 +92,11 @@ await linkHeading();
 
 为了更省事儿，我用 **Commander** 插件将这个命令加进了右键菜单：
 
-![](Resource/Images/fc89864ab6ae9384e5189f69ab477356.png)
+![](https://cdn.pkmer.cn/images/202407012053310.png!pkmer)
 
 这样可以直接右键点击标题并复制：
 
-![](Resource/Images/df5f8f1645cca621b17f26dfeb530f2f.gif)
+![](https://cdn.pkmer.cn/images/202407012053311.gif!pkmer)
 
 ## 拓展用法：复制内联代码 ✨
 

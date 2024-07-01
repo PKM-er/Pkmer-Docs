@@ -4,25 +4,21 @@ title: 实现 OB 内的文本指令
 tags: [Obsidian, OB分享, quicker]
 description: 在 OB 里输入特定文本的时候，执行特定命令，甚至调用 Quicker 动作。
 author: Moy
-type: advanced
+type: tutorial
 draft: false
 editable: false
-modified: 20240630162359
-aliases: []
-create_date: 2024-06-27T19:18
-modified_date: 2024-06-30T15:39
-categories: [分享, 工具, 学习]
+modified: 20240701205324
 ---
 
 # 实现 OB 内的文本指令
 
 「文本指令」，即**输入特定的文本之后执行指令**。
 
-在 Obsidian 内，可以用插件 **Latex Suite** [^1] 实现这个功能。
+在 Obsidian 内，可以用插件 [[obsidian-latex-suite]] [^1] 实现这个功能。
 
 实现的效果：
 
-![](Resource/Images/a391ef70f803d65111f0dd5d24471259.gif)
+![](https://cdn.pkmer.cn/images/202407012052752.gif!pkmer)
 
 在上图中，只要在 OB 内输入 `lnk` 并空格，就会调用 Quicker 执行动作 [^2]，从当前浏览器获取到标签页并粘贴进来。
 
@@ -38,7 +34,7 @@ categories: [分享, 工具, 学习]
 
 在 LatexSuite 的设置中，可以用 json 来定义替换规则。
 
-![](Resource/Images/26aa2793fcdf173c321b9bd9999e7347.jpg)
+![](https://cdn.pkmer.cn/images/202407012052753.jpg!pkmer)
 
 我们先用一个最简单的替换规则来入门：
 
@@ -63,7 +59,7 @@ categories: [分享, 工具, 学习]
 
 这里的 `$0` 就代表了粘贴后输入指针的位置，`\n` 则是换行，所以它会在转换后将输入光标放进代码块的中间。
 
-![](Resource/Images/6486149069340d5676f93b03a22cdd7e.gif)
+![](https://cdn.pkmer.cn/images/202407012052754.gif!pkmer)
 
 除了直接填写替换的文本，还可以填写 Javascript，以添加动态的文本。
 
@@ -75,9 +71,9 @@ categories: [分享, 工具, 学习]
 
 这段 JS 代码在你输入 `td` 并空格的时候，就会转成今天的日期大标题。
 
-![](Resource/Images/ef103afbde1e2336e09561019d936e1c.gif)
+![](https://cdn.pkmer.cn/images/202407012052755.gif!pkmer)
 
-> 更多介绍可以看插件的说明：[Function snippets](https://github.com/artisticat1/obsidian-latex-suite/blob/main/DOCS.md#function-snippets)
+> 更多介绍可以看插件的说明：[Function snippets](https://github.com/artisticat1/obsidian-latex-suite/blob/main/DOCS.md#function-snippets) 
 
 ## 执行命令
 
@@ -108,11 +104,11 @@ app.commands.executeCommandById('command-id');
 
 切换到 Console（控制台），输入 `app.commands.commands["`，然后会出现所有命令 ID，再输入几个字进行补全：
 
-![](Resource/Images/8ecf74a7fa234dd4954fda66c5cd5ff7.png)
+![](https://cdn.pkmer.cn/images/202407012052757.png!pkmer)
 
 选中命令的 ID 并回车，就能看到这个命令的详细信息：
 
-![](Resource/Images/5edf30a62d66257d7083763e0b6d0122.png)
+![](https://cdn.pkmer.cn/images/202407012052758.png!pkmer)
 
 这里的 `id` 即命令 ID。
 
@@ -124,10 +120,10 @@ ShellCommands 是一款专门用来运行外部程序的 OB 插件。
 
 在插件的设置界面，可以填写需要运行的命令：
 
-![](Resource/Images/028a9efa680e8e7cec06d25b70843bdf.png)
+![](https://cdn.pkmer.cn/images/202407012052759.png!pkmer)
 
 > 这里填写的内容和你在系统「运行」中执行的命令等同，所以也可以按 <kbd>Win+R</kbd> 来测试命令（在命令行执行也一样）
-> ![](Resource/Images/763696ea4efde1d446458f204d8bb677.png)
+> ![](https://cdn.pkmer.cn/images/202407012052760.png!pkmer)
 
 然后以 Quicker 举例，在 Quicker 的文档 [^4] 中我们可以知道，
 
@@ -145,18 +141,18 @@ ShellCommands 是一款专门用来运行外部程序的 OB 插件。
 
 这里面 `c86c0994-77ae-46ae-b61e-44eac5f88e59` 是 QK 动作 **OB 粘贴** 的 ID，`{{selection}}` 是 ShellCommands 插件提供的参数，代表选中的文本。
 
-![](Resource/Images/ed82fb2fb73cf2cb3cd8846ebb1dc445.png)
+![](https://cdn.pkmer.cn/images/202407012052761.png!pkmer)
 
 我在 SC 命令的 **Variables** 中将 `selection` 变量的默认值设置为 `NO-SELECTION`：
 
-![](Resource/Images/f845e4f228d3a242d9c2bc3dbbc54ecb.png)
+![](https://cdn.pkmer.cn/images/202407012052762.png!pkmer)
 
 这样 Quicker 动作就可以根据传入的参数，来决定粘贴的方式：
 
 - 如果有选中文本，就把链接粘贴进当前文本
 - 否则，就粘贴完整的 Markdown 格式链接
 
-![](Resource/Images/f68345a77405f9e33e2752b55b320e6f.gif)
+![](https://cdn.pkmer.cn/images/202407012052763.gif!pkmer)
 
 > 为了方便演示，上图用的是快捷键 <kbd>Alt+V</kbd> ，展示了在选中文本与未选中的情况下，运行 QK 动作的差异。
 > QK 本身的处理逻辑可以直接编辑动作查看。
@@ -165,7 +161,7 @@ ShellCommands 是一款专门用来运行外部程序的 OB 插件。
 
 其实，QK 自己也有文本指令功能，所以其实一些普通的动作直接用 QK 自带的文本指令就完全够用。
 
-![](Resource/Images/1f92df222dc1cadbd2304f91813be02a.jpg)
+![](https://cdn.pkmer.cn/images/202407012052764.jpg!pkmer)
 
 本文之所以饶了这么一大圈，用 **LatexSuite + ShellCommands** 重新拼装出了「文本指令」的功能，一方面是作为实践「OB+ 外部联动」的尝试，另一方面，也是因为这样才能更好地获取**Obsidian 内的数据**（例如当前选中的文本、当前笔记的标题……这些数据从外部难以获取，而在 OB 内则可以轻易通过 API 来获得）
 
