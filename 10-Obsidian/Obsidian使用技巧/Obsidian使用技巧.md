@@ -44,7 +44,7 @@ modified: 20240408191220
 - [[如何关闭Quicker Explorer插件的自动预览]]
 - [[插件名人堂]]
 - [[如何在 Obsidian 中使用 AI 大模型]]
-
+- [[Obsidian揭秘-深入理解链接的概念及应用]]
 ### 第三方插件
 
 - [[Obsidian插件技巧-自定义标签面板配合TagFolder]]
