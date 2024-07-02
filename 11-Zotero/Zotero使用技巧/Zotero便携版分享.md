@@ -7,7 +7,7 @@ author: Yu-u9
 type: other
 draft: false
 editable: false
-modified: 20240701193841
+modified: 20240702140640
 ---
 
 # Zotero 便携版分享
@@ -43,3 +43,5 @@ modified: 20240701193841
 ## 如果我想制作其他 Zotero 版本的便携包我该如何操作
 
 非常简单，将我说的插件文件的内容删掉，然后将压缩包中 App\Zotero 替换为你的版本就可以的。
+
+下载链接：<https://wwl.lanzouj.com/b0ukfbbud> ，密码:ag1r
