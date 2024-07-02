@@ -47,3 +47,4 @@ Dataview 实例包含了....个实例，又按照应用的查询类型，应用�
 - [[Obsidian达人成长之路_2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API]]
 - [[Obsidian达人成长之路_3-使用终极工具 Dataview 释放笔记库的潜力 · 案例讲解]]
 - [[如何给 DataviewJS 中的 TaskList 的任务列表排序]]
+- [[小白折腾一个月，手搓了个Obsidian自制筛选框]]
