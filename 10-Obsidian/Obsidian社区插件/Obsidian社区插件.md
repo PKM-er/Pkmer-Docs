@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240506222702
+modified: 20240704233633
 ---
 
 # Obsidian 社区插件
@@ -64,6 +64,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[pkmer]]：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
 - [[obsidian42-brat]]：让你可以安装未上架的插件、主题
+- [[plugins-galore]]：
+- [[plugin-manager]]：
 
 ### 编辑增强
 
@@ -212,6 +214,13 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-code-tab]]：创造类似 leetcode 样式的混合代码块，且不仅限于代码块
 	- [[code-tab还能这么玩]]：codetab 插件的活用文章
 - [[obsidian-shiki]]：为超过 100 种语言提供更好的语法高亮显示等一系列功能
+
+### Latex
+
+- [[latex-matrices]]：可以加快编写 Latex 矩阵的速度。它输出一个已经格式化的 Latex 矩阵，可以嵌入到你的笔记中
+- [[quick-latex]]：用于简化和加速 LaTeX 数学输入。它提供了多种快捷方式来加快 LaTeX 数学的输入速度。
+- [[image2latex]]：允许用户将剪贴板中的数学公式转换为 LaTeX 代码，并将其插入到编辑器中
+- [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 
 ### 搜索
 
