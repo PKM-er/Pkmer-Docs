@@ -55,3 +55,6 @@ modified: 20230602192027
 来自群友：绛芸
 
 - [[设计极简风 Obsidian 主页]]：这里有个群友分享的如何构建这样的主页分享
+
+更多示例库参考
+[PKMer_Obsidian 笔记库市场](https://pkmer.cn/products/vault/vaultMarket/)
