@@ -1,5 +1,5 @@
 ---
-uid: 20240603103523
+uid: 20240604103523
 title: Obsidian 插件：Image2LaTEX
 tags: ['图片与PDF', '编辑工具', '数据处理', 'obsidian插件']
 description: 将您的图像转换为LaTEX代码。

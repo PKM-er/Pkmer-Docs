@@ -1,5 +1,5 @@
 ---
-uid: 20240602235333
+uid: 20240616235333
 title: Obsidian Weekly 2024-06-16：一目了然，收放自如
 tags: [Weekly, Obsidian]
 description: Obsidian Weekly 2024-06-16：一目了然，收放自如

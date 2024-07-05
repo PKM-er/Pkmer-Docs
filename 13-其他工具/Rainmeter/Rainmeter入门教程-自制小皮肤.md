@@ -1,5 +1,5 @@
 ---
-uid: 20240606181821
+uid: 20240606181823
 title: Rainmeter 入门教程（二）：自制小皮肤（文本 + 图像）
 tags: [Rainmeter]
 description: Rainmeter入门教程（二）：自制小皮肤（文本+图像）
