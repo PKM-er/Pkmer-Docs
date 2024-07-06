@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240122233625
+modified: 20240706122904
 ---
 
 # Obsidian 样式 - minimal 主题 Cards 卡片布局
@@ -32,7 +32,7 @@ modified: 20240122233625
 
 在 yaml 区用 cssclass 申明 `list-cards` 将笔记中的所有无序列表转换为卡片
 
-![Obsidian 样式 - minimal 主题 Cards 卡片布局]](https://cdn.pkmer.cn/images/202309162149987.png!pkmer)
+![Obsidian 样式 - minimal 主题 Cards 卡片布局]](<https://cdn.pkmer.cn/images/202309162149987.png!pkmer>)
 
 ### 卡片的布局设定
 
@@ -489,4 +489,4 @@ body {
 
 ## ChangeLog
 
-- 2024-06-19：修复1.6以上版本的错乱问题
+- 2024-06-19：修复 1.6 以上版本的错乱问题

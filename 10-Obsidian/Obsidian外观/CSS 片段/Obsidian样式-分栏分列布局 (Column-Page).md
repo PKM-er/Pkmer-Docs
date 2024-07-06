@@ -1,16 +1,13 @@
 ---
 uid: 20240706122404
 title: Obsidian 样式 - 分栏分列布局 (Column-Page)
-tags:
-  - 分栏
-  - 主页
-  - 笔记样式
+tags: [分栏, 主页, 笔记样式]
 description: 这是一个用于 Obsidian 中的分列布局样式，将笔记内容分栏显示，适用于包含大量内容或是需要目录索引的页面。
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240706122432
+modified: 20240706122900
 ---
 
 # Obsidian 样式 - 分栏分列布局 (Column-Page)
