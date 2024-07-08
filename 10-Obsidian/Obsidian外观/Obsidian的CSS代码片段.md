@@ -82,6 +82,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-隐藏 markdown 标记]]
 - [[Obsidian 样式-表格优化]]
 - [[Obsidian样式-笔记内容居左或居中切换]]
+- [[Obsidian样式-分栏分列布局 (Column-Page)]]
 
 ### 代码块
 
@@ -115,6 +116,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-Vicious主题的callout]]
 - [[Obsidian样式-tabbed Callout]]
 - [[Obsidian样式-使用 Callout 进行正文旁注]]
+- [[Obsidian样式-Minimal主题的Outline Callout]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
