@@ -26,7 +26,7 @@ modified: 20240707233711
 
 > 允许刷新预览模式而无需重新打开笔记。
 
-![202407042223609.png!pkmer|650]( <https://cdn.pkmer.cn/images/Weekly-2024-07-07-demo>%20 (3).gif!pkmer)
+![202407042223609.png!pkmer|650](https://cdn.pkmer.cn/images/Weekly-2024-07-07-demo%20(3).gif!pkmer)
 
 [Sidebar Resizer](https://obsidian.md/plugins?id=sidebar-resizer) By _Jeet Sukumaran_
 
@@ -40,7 +40,7 @@ modified: 20240707233711
 
 > 使用日期选择器在 Markdown 笔记中的任意位置修改和插入日期/时间。
 
-![202407042223609. Png! Pkmer|650]( <https://cdn.pkmer.cn/images/Weekly-2024-07-07-demo>%20 (3). Gif! Pkmer)
+![202407042223609. Png! Pkmer|650](https://cdn.pkmer.cn/images/datepicker-demo.gif!pkmer)
 
 [Entity Linker](https://obsidian.md/plugins?id=entity-linker) By _Ankush-Chander_
 
@@ -48,7 +48,7 @@ modified: 20240707233711
 > 1. `Link selection to entity`，使用所选文本作为搜索词建议实体。
 > 2. `Link active note to entity`，使用活动笔记的标题作为搜索词建议实体。
 
-![Weekly-2024-07-07-entity_linker|650](<https://cdn.pkmer.cn/images/Weekly-2024-07-07-demo>%20 (1). Gif)
+![Weekly-2024-07-07-entity_linker|650](https://cdn.pkmer.cn/images/demo%20(1).gif!pkmer)
 
 [Remove Newlines](https://obsidian.md/plugins?id=remove-newlines) By _Elias Jaffe_
 
@@ -90,7 +90,7 @@ modified: 20240707233711
 
 > 帮助您在预览模式下设置复选框样式。
 
-![Weekly-2024-07-07-demo%20(2)-2.gif!pkmer]( <https://cdn.pkmer.cn/images/Weekly-2024-07-07-demo>%20 (2)-2.gif!pkmer)
+![Weekly-2024-07-07-demo%20(2)-2.gif!pkmer](https://cdn.pkmer.cn/images/Weekly-2024-07-07-demo%20(2)-2.gif!pkmer)
 
 [Vimium](https://obsidian.md/plugins?id=vimium) By _Karsten Finderup Pedersen_
 
