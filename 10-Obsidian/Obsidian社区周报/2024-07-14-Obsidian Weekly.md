@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240715000617
+modified: 20240715201444
 ---
 
 # Obsidian Weekly 2024-07-14：链接、索引与数学
@@ -26,32 +26,9 @@ modified: 20240715000617
 
 > 允许同步 bookmarks.json。
 
-[Note Definitions v0.22.0](https://github.com/dominiclet/obsidian-note-definitions/releases/tag/0.22.0) By _Dominic Let_
-
-> 允许在 def-context 中添加文件夹。
-
 [Import Attachments+](https://github.com/alberti42/obsidian-import-attachments-plus/releases/tag/1.2.6) By _Andrea Alberti_
 
 > 更正了 Windows 计算机中的一个错误，其中导入的文档在其路径中使用反斜杠，而 Obsidian 需要正斜杠。该路径现在由 Obsidian 函数 `normalizePath` 规范化，以确保所有设备之间的兼容性。
-
-[External Links v1.0.11](https://github.com/jivimberg/external-links/releases/tag/1.0.11) By _Juan Vimberg_
-
-\
-
-> 在 URL 旁边添加链接文本。
-
-[Excalidraw v2.2.9](https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.9) By _Zsolt Viczian_
-
-> - **新增**
-> 	- 改进了“打开选定 Excalidraw 图像背面的笔记”操作。现在它可以与分组元素一起使用，并且当元素接近画布顶部时，会将弹出窗口保持在可见屏幕区域内。注意：由于 Obsidian 的一个 bug，如果你启用了 Obsidian Sync，不建议在 1.6.0 - 1.6.6 版本中使用此功能，因为在关闭弹出窗口时，Obsidian 可能会冻结。它在 1.6.0 之前的版本和 1.6.7 以后的版本中正常工作。
-> - **修复**
-> 	- 从本地文件夹（Obsidian 之外）拖放导致重复图像。
-> 	- 插入链接操作不起作用。
-> 	- 插入 Obsidian 命令操作不起作用。
-> 	- 编辑文本时，文本元素的元素链接被删除。
-> 	- 当绘图背面的章节标题中有空格时，点击链接会打开绘图页面而不是 Markdown 页面。
-> 	- obsidian:// 链接未按预期工作。
-> 	- 复制和移动带有文本的矩形时，文本会意外移动。这个问题现在应该已经解决（至少不太可能发生）。
 
 [Nextcloud Link Fixer](https://obsidian.md/plugins?id=nextcloud-link-fixer) By _KaelLarkin_
 
@@ -165,6 +142,27 @@ modified: 20240715000617
 > 通过哈希算法 SHA-512 自动重命名添加到库的粘贴图像。
 
 #### 更新
+
+[External Links v1.0.11](https://github.com/jivimberg/external-links/releases/tag/1.0.11) By _Juan Vimberg_
+
+> 在 URL 旁边添加链接文本。
+
+[Excalidraw v2.2.9](https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.9) By _Zsolt Viczian_
+
+> - **新增**
+> 	- 改进了“打开选定 Excalidraw 图像背面的笔记”操作。现在它可以与分组元素一起使用，并且当元素接近画布顶部时，会将弹出窗口保持在可见屏幕区域内。注意：由于 Obsidian 的一个 bug，如果你启用了 Obsidian Sync，不建议在 1.6.0 - 1.6.6 版本中使用此功能，因为在关闭弹出窗口时，Obsidian 可能会冻结。它在 1.6.0 之前的版本和 1.6.7 以后的版本中正常工作。
+> - **修复**
+> 	- 从本地文件夹（Obsidian 之外）拖放导致重复图像。
+> 	- 插入链接操作不起作用。
+> 	- 插入 Obsidian 命令操作不起作用。
+> 	- 编辑文本时，文本元素的元素链接被删除。
+> 	- 当绘图背面的章节标题中有空格时，点击链接会打开绘图页面而不是 Markdown 页面。
+> 	- obsidian:// 链接未按预期工作。
+> 	- 复制和移动带有文本的矩形时，文本会意外移动。这个问题现在应该已经解决（至少不太可能发生）。
+
+[Note Definitions v0.22.0](https://github.com/dominiclet/obsidian-note-definitions/releases/tag/0.22.0) By _Dominic Let_
+
+> 允许在 def-context 中添加文件夹。
 
 [Timeline View v1.2.0](https://github.com/b-camphart/timeline-view/releases/tag/1.2.0) By _b.camphart_
 
