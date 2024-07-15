@@ -1,13 +1,13 @@
 ---
 uid: 20240622170004
-title: 教程：用 alfred 随机启动一个知识软件
+title: 用 alfred 随机启动一个知识软件
 tags: [教程]
 description: 介绍用 alfred 随机启动一个知识软件
 author: Dusk
 type: other
 draft: false
 editable: false
-modified: 20240622174850
+modified: 20240715091203
 ---
 
 # 教程：用 alfred 随机启动一个知识软件
@@ -24,11 +24,11 @@ modified: 20240622174850
 
 1，双击 cmd，呼出 alfred，输入「r」，按回车
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202406221647903.png)
+![](https://cdn.pkmer.cn/images/202407150913557.png!pkmer)
 
 2，屏幕当中会弹出个「小框框」，当你点击后，就会直接跳转到相应的软件中去，然后和自己说先来个 5 分钟热身，再慢慢进入「知识的整理与回顾」状态么
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202406221652942.png)
+![](https://cdn.pkmer.cn/images/202407150913558.png!pkmer)
 
 3，目前我是放了这五个软件，并写了相关的提示语，读者可以根据需求再自行配置下：
 
@@ -46,11 +46,11 @@ modified: 20240622174850
 
 各动作块的配置如下：
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202406221655939.png)
+![](https://cdn.pkmer.cn/images/202407150913559.png!pkmer)
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202406221655061.png)
+![](https://cdn.pkmer.cn/images/202407150913561.png!pkmer)
 
-![](https://ppicbed.oss-cn-hangzhou.aliyuncs.com/img/202406221656311.png)
+![](https://cdn.pkmer.cn/images/202407150913562.png!pkmer)
 
 ### python 代码
 
