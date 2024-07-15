@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240715201444
+modified: 20240715201712
 ---
 
 # Obsidian Weekly 2024-07-14：链接、索引与数学
@@ -21,14 +21,6 @@ modified: 20240715201444
 ### 社区插件
 
 #### 新增
-
-[Remotely Save](https://github.com/remotely-save/remotely-save/releases/tag/0.5.14) By _fyears_
-
-> 允许同步 bookmarks.json。
-
-[Import Attachments+](https://github.com/alberti42/obsidian-import-attachments-plus/releases/tag/1.2.6) By _Andrea Alberti_
-
-> 更正了 Windows 计算机中的一个错误，其中导入的文档在其路径中使用反斜杠，而 Obsidian 需要正斜杠。该路径现在由 Obsidian 函数 `normalizePath` 规范化，以确保所有设备之间的兼容性。
 
 [Nextcloud Link Fixer](https://obsidian.md/plugins?id=nextcloud-link-fixer) By _KaelLarkin_
 
@@ -142,6 +134,14 @@ modified: 20240715201444
 > 通过哈希算法 SHA-512 自动重命名添加到库的粘贴图像。
 
 #### 更新
+
+[Remotely Save v0.5.14](https://github.com/remotely-save/remotely-save/releases/tag/0.5.14) By _fyears_
+
+> 允许同步 bookmarks.json。
+
+[Import Attachments+ v1.2.6](https://github.com/alberti42/obsidian-import-attachments-plus/releases/tag/1.2.6) By _Andrea Alberti_
+
+> 更正了 Windows 计算机中的一个错误，其中导入的文档在其路径中使用反斜杠，而 Obsidian 需要正斜杠。该路径现在由 Obsidian 函数 `normalizePath` 规范化，以确保所有设备之间的兼容性。
 
 [External Links v1.0.11](https://github.com/jivimberg/external-links/releases/tag/1.0.11) By _Juan Vimberg_
 
