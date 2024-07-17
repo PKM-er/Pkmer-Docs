@@ -116,3 +116,9 @@ modified: 20240123173424
 ## 其他
 
 我们建议您使用 [代码片段](https://github.com/George-debug/obsidian-timeline/tree/master/src/style/snippet) 来处理 `脚注` 和 `节点链接`，并与 `其他插件` 一起使用。
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1855550701&bvid=BV1os421M7Rs&cid=1577493302&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
+ 

@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230604174756
+modified: 20240718002327
 ---
 
 # Obsidian 插件：Weather Fetcher 为笔记快速添加当前天气情况
@@ -39,3 +39,8 @@ modified: 20230604174756
 
 >[!Tip] 提示
 >- 如果没有激活的笔记，或者没有光标定位到具体位置，插件会弹出提示信息。
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1255961217&bvid=BV1nJ4m1T77r&cid=1602212430&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+

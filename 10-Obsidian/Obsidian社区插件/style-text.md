@@ -66,3 +66,9 @@ modified: 20230801185143
 - 通过上下箭头的按钮，可以调整这些样式在右键菜单中的位置
 
 ![image.png](https://cdn.pkmer.cn/images/20230729010027.png!pkmer)
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1805944292&bvid=BV1Fb421n7Tk&cid=1585810960&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
+ 

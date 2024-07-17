@@ -27,11 +27,20 @@ modified: 20240101000000
 
 Tenki 是一个简单的天气显示插件，适用于 Obsidian。用户需要前往 weatherapi.com 获取免费的 API 密钥，并将其粘贴到插件设置中。然后输入城市名称，即可看到天气更新。插件提供了自定义 CSS 样式的功能，用户可以根据需要隐藏或美化天气显示元素。Tenki 插件解决了用户在 Obsidian 中查看天气信息的需求，为用户提供了方便快捷的天气显示功能。使用该插件，用户可以实时了解所在城市的天气情况，满足了日常生活和工作中对天气信息的需求。
 
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1255961217&bvid=BV1nJ4m1T77r&cid=1602212430&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
+
+
+
 > [!help]
 > 这篇插件文章还没有人贡献，欢迎占坑！
 > 如果您有好的想法欢迎提交 PR 或者文末留言。
 
 ---
+
+
 
 
 
