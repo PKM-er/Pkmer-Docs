@@ -1,16 +1,16 @@
 ---
 uid: 20240717221511
-title: Ob 做任务管理 _ 我做了个筛选框 _ 丝滑到飞起
+title: 通过Dataviewjs制作一个带数据面板的任务筛选框-丝滑到飞起
 tags: [Obsidian, Dataview, 任务管理]
 description: 一个基于dataview实现的可视化的任务筛选框
 author: Vincent
 type: other
 draft: false
 editable: false
-modified: 20240717225857
+modified: 20240718115326
 ---
 
-# Ob 做任务管理 _ 我做了个筛选框 _ 丝滑到飞起
+# 通过 Dataviewjs 制作一个带数据面板的任务筛选框 - 丝滑到飞起
 
 ![image.png](https://cdn.pkmer.cn/images/20240717231052.png!pkmer)
 
@@ -33,7 +33,7 @@ modified: 20240717225857
 
 ### 3. 安装使用
 
-1. 文章末尾即可下载压缩包中`02_查询语法文件及css`一共 2 个文件 ， `view.css` `view.js` ； 不能换成其他的名称； dataview 的语法规定如此，别改了 ，改了用不了
+1. 文章末尾即可下载压缩包中 `02_查询语法文件及css` 一共 2 个文件 ， `view.css` `view.js` ； 不能换成其他的名称； dataview 的语法规定如此，别改了 ，改了用不了
 2. 路径 -1：这 2 个文件，你随便放；建议放在不是根目录的文件夹；
 3. 路径 -2：你下载之后，放的路径，肯定与我发的演示这个语法里面的路径不一样，自己改喔
 4. 使用：在任何一个 Page 页面，输入 dataviewjs 的查询 查询语法，例子如下
@@ -46,7 +46,9 @@ modified: 20240717225857
 })();
 
 ```
+
 ### 4.查询相关参数解释
+
 #### 关于日期（这个是统计的标准 ，每个人对任务的理解不一样，直接导致统计的结果不一样）
 
 1. `due` ： 任务的截止日期
@@ -97,7 +99,7 @@ modified: 20240717225857
 
 ![Pasted image 20240717205702](https://cdn.pkmer.cn/images/Pasted%20image%2020240717205702.png!pkmer)
 
-####  排序，为什么有 2 个呀 ？
+#### 排序，为什么有 2 个呀 ？
 
 1. 来源于大佬呀， 大佬 ` cuman` 的文章：[[如何给 DataviewJS 中的 TaskList 的任务列表排序]]
 2. 举例一下：一个 Page 里面有 100 个任务，截止日期 ， 安排日期，都不一样的，你平时写也很难保证 完全 是按顺序的
@@ -105,7 +107,7 @@ modified: 20240717225857
 4. So 我们有 2 个，一个是针对 string ： 就是 text ，tag ，scetion，全部都是 string ；
 5. 第二个就是日期类，按 `due` `scheduled` ，都可以自己排
 
-####  分组？ 分什么组？
+#### 分组？ 分什么组？
 
 ![Pasted image 20240717211041](https://cdn.pkmer.cn/images/Pasted%20image%2020240717211041.png!pkmer)
 
@@ -117,9 +119,8 @@ modified: 20240717225857
 
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1406200370&bvid=BV1Ur421T7fy&cid=1618522290&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
-
 如果哪儿有 bug，也欢迎在文章后留言反馈，我及时修改补充
 
 ## 代码下载
 
-请移步文末的讨论区中下载代码，其中记得把`演示及查询语法代码`中的 `"987_Task任务面板/02_查询语法文件及cs"` 换成自己的路径。
+请移步文末的讨论区中下载代码，其中记得把 `演示及查询语法代码` 中的 `"987_Task任务面板/02_查询语法文件及cs"` 换成自己的路径。
