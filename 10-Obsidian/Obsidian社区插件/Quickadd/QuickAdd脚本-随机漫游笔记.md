@@ -45,9 +45,7 @@ module.exports = async (params) => {
         .getMarkdownFiles()
         .filter((f) => f.path.startsWith("4-zettelkasten/")) //更改目标文件夹
         .filter((f) => {
-            const reviewDate =
-                app.metadataCache.getFileCache(f).frontmatter
-                    .random_review_date;
+        const reviewDate = app.metadataCache.getFileCache(f)?.frontmatter?.random_review_date;
             return (
                 !reviewDate ||
                 reviewDate == null ||
