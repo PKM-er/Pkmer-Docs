@@ -56,6 +56,8 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-专注标签页边框]]
 - [[Obsidian样式-多彩便笺背景]]
 - [[Obsidian样式-给Obsidian设置护眼的暖色模式]]
+- [[Obsidian样式-多行标签页堆叠显示]]
+- [[Obsidian样式-全宽的图谱搜索框样式]]
 
 ### 编辑器
 
