@@ -56,6 +56,8 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-专注标签页边框]]
 - [[Obsidian样式-多彩便笺背景]]
 - [[Obsidian样式-给Obsidian设置护眼的暖色模式]]
+- [[Obsidian样式-多行标签页堆叠显示]]
+- [[Obsidian样式-全宽的图谱搜索框样式]]
 
 ### 编辑器
 
@@ -152,6 +154,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidain样式-自定义文件夹图标]]
 - [[Obsidian样式-超长文件名换行]]
 - [[Obsidian样式-分割文件管理器]]
+- [[Obsidian样式-粘性文件夹(Sticky Folder)]]
 
 ### 段落
 

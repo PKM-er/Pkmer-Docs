@@ -42,8 +42,7 @@ body {
 .document-search-container {
   position: absolute;
   top: var(--search-top);
-  /* right: var(--search-right); */
-  right: calc(47% - var(--file-line-width) / 2);
+  right: var(--search-right);
   border-radius: var(--size-4-2);
   padding: var(--size-2-3) var(--size-4-1) var(--size-2-3) 0;
   height: fit-content;
