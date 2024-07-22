@@ -199,7 +199,7 @@ modified: 20240722001446
 > - 添加了 **Milanote Canvas Card 样式**（在样式设置中激活）
 > - 添加了 **Pathfinder Remaster 2e 主题样式**
 > - [Callout 调整代码片段](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callout+Adjustments) 添加和修复
->   - ✂ Callout：添加了检查 Callout 样式
+>   - Callout：添加了检查 Callout 样式
 >   - ✂ Callout：添加了 Statblock Callout 样式
 >   - ✂ Callout：添加了空白 Callout 样式
 > - ✂ [编码字体代码片段](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Encoded%20Fonts.css) 更新：添加了 Harding 字体并更新了 Draconis 字体以添加捷克字母
