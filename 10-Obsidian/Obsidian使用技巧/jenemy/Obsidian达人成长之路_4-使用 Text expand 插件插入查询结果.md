@@ -17,7 +17,7 @@ modified: 20240602223704
 > 本文详细介绍了Obsidian笔记软件中的Text Expand插件及其相关功能。Text Expand插件扩展了Obsidian的核心Search插件，允许用户通过模板将搜索结果格式化输出到文档中。文章首先概述了Obsidian的Search功能，包括其基本查询方式和查询操作符，然后介绍了Obsidian Query Control插件，它为query查询代码块提供了额外的语法和工具条。接着，文章重点介绍了Text Expand插件的使用和案例分享包括如何利用Eta模板引擎进行数据格式化和逻辑处理，以及如何通过序列模板引擎简化查询结果的输出。
 
 
-[[mrj-text-expand]]是一个很特别的插件，它和我前面 3 期文章[[Obsidian达人成长之路_1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言|Dataview达人系列]]中介绍的 Dataview 有着类似的功能：查询，但是却侧重点不一样，两都互不干涉。
+[[mrj-text-expand]]是一个很特别的插件，它和我前面 3 期文章[[Obsidian达人成长之路-1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言|Dataview达人系列]]中介绍的 Dataview 有着类似的功能：查询，但是却侧重点不一样，两都互不干涉。
 
 Dataview 查询的数据除了了任务可以操作外，其余的结果均为只读，并且只有在执行 Dataview 查询时才会得到结果。而 Text Expand 它扩展了官方核心插件 Search 的搜索结果并允许用户使用模板格式化输出到当前页面中作为文档内容的一部分。
 

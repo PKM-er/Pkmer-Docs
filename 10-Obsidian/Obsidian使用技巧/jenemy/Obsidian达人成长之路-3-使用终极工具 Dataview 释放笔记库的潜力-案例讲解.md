@@ -7,14 +7,14 @@ author: jenemy
 type: other
 draft: false
 editable: false
-modified: 20240531180105
+modified: 20240730194231
 ---
 
 # Obsidian 达人成长之路 _3- 使用终极工具 Dataview 释放笔记库的潜力 · 案例讲解
 
-[[Obsidian达人成长之路_1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言]]
+[[Obsidian达人成长之路-1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言]]
 
-[[Obsidian达人成长之路_2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API]]
+[[Obsidian达人成长之路-2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API]]
 
 继前面两篇文章，本文为 Obsidian 达人成长之路系列第三篇，主要梳理了 Dataview 示例库 **Dataview Example Valut** 中的一些案例，并加上个人的一些理解和分析，以方便读者能够触类旁通，应用到自己的笔记中。
 
@@ -69,13 +69,13 @@ JavaScript API 示例：
 格式化时间：`$= dv.date('now').toFormat("M'月'dd'号'")` %% 5月15号 %%
 ````
 
-> [!Tip] 
+> [!Tip]
 > 使用内联 API 查询出来的标签在结果显示上和内联 DQL 的结果略有不同，前者是可交互的结果，后者为纯文本。
 
-> [!Warning] 
+> [!Warning]
 > 在 API 中没有对应的 `truncate()` 函数使用，但是我们可以 `dv.evalute()` 或者 `dv.tryEvaluate()` 函数在 API 中执行 DQL 查询。
 
-> [!Warning] 
+> [!Warning]
 > 在文件名不要包含 `#` 符号，在使用链接时会被错误的识别为标签或者页面标题。
 
 ### 在查询结果中显示图片
@@ -115,7 +115,7 @@ WHERE file = this.file
 
 处理 Obsidian 内部图片链接时，我们利用 `link()` 函数的第二个参数来指定图片的宽度，实际上它是用于指定链接别名的，这里刚好利用其发挥额外作用了。
 
->[!Tip] 
+>[!Tip]
 >不要像上面示例中那样在 YAML 中放入链接，如果必须放需要加上双引号才能正确读取出来，否则被识别成数组。但是又衍生出另一个问题，文档属性区域会显示一个警告图标，提示：未匹配到类型，建议使用文本。
 
 下面我们来看一下在现实场景中的应用：
@@ -211,7 +211,7 @@ GROUP BY genres AS 类别
 
 ![Pasted image 20240516114930](https://cdn.pkmer.cn/images/202405311801673.png!pkmer)
 
->[!Tip] 
+>[!Tip]
 >这里需要注意的是 `FLATTEN` 语句很关键，如果不使用将会得到一个错误的结果。原因是在原始数据中每一本书可以对应多个类别，而在按类别查询分组后，结果变成多个类别对应一本书。因此我们需要把每个类别对应上同一本书来修正数据，这样再使用分组时就符合预期了。
 
 下面是一个转换过程示例图解：
@@ -480,7 +480,7 @@ FLATTEN arr3
 
 ![Pasted image 20240517154843](https://cdn.pkmer.cn/images/202405311801695.png!pkmer)
 
->[!Tip] 
+>[!Tip]
 >还有一种方法来实现多维数组展开，修改上面的示例，连续使用 4 次 `FLATTEN arr3`，得到一个展开的结果。这个结果并不能推断出原始数组是由几维展开的，在显示上也没有出现列表符号，读者可以根据需求灵活选用。
 
 ![Pasted image 20240517164859](https://cdn.pkmer.cn/images/202405311801696.png!pkmer)
@@ -531,7 +531,7 @@ SORT default(((x) => {
 
 在 Obsidian 中日记文件通常以 `xxxx-xx-xx` 的日期格式创建。我们可以通过 DQL 来精确查询完整年/月/日的日记，也可以查询指定年份、月份和具体某天的日记。下面我们以 10 Example Data/daily 中的日记数据 `wake-up` 为例。
 
->[!Tip] 
+>[!Tip]
 >obsidian 为日记提供了一个专门的属性 `file.day` 来方便我们获取以日期表示的文件名。
 
 #### 日期精确查询
@@ -587,7 +587,7 @@ WHERE dateformat(file.day, "dd") = "17"
 
 由于在 DQL 查询语言中我们无法将 `wake-up` 的值读取并传入 `date()` 函数，所以只能采取一种不友好的方式来实现：将时间按 `:` 拆分后单独判断。
 
->[!Tip] 
+>[!Tip]
 >我们无法将内联属性传 `date()` 函数，但是使用 `FLATTEN AS` 声明的日期、`file.day` 和 `file.frontmatter.xx` 的日期值还是可以传入正常解析的。
 
 下面是两方式实现示例：
@@ -1263,7 +1263,7 @@ function getValue(page, key, i) {
 
 上述代码是在 `groupedValues` 的基础上对数据进行了一次重映射，然后使用 `dv.array()` 方法将普通的 JavaScript 数组转换成 `DataArray<T>` 类型，然后使用其 `groupBy()` 方法按 `bought` 字段进行分组，然后使用 `flatMap()` 映射返回 `rows` 的值。
 
-> [Tips] 
+> [Tips]
 > 使用 `groupBy()` 分组后返回一个包含 `key` 和 `rows` 的对象，其中 `key` 为分组名称，`rows` 是分组后的数据。
 
 `flatMap()` 方法是一个很重要的函数，关于其用法可自行去脑补，后面处理分组数据部分写出来后，思索着应该还有更简单的实现。与是，作者又双叒叕熬夜想了想，终于以 2 个 `flatMap()` 方法成功破局，一行代码暴击（不追求代码可读性为前提）：
