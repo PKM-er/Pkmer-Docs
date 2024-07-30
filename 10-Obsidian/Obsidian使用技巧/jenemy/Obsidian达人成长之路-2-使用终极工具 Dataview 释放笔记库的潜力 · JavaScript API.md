@@ -7,14 +7,14 @@ author: jenemy
 type: other
 draft: false
 editable: false
-modified: 20240526082930
+modified: 20240730194208
 ---
 
 # Obsidian 达人成长之路 2：使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API
 
 ## 前言
 
-上一篇 [[Obsidian达人成长之路_1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言]] 讲了 Dataview 的基础查询语法。
+上一篇 [[Obsidian达人成长之路-1-使用终极工具Dataview 释放笔记库的潜力-DQL查询语言]] 讲了 Dataview 的基础查询语法。
 
 本文为【Obsidian 达人成长之路】系列第 2 篇，主要讲解 Dataview 插件的 JavaScript API 调用方式的详尽用法，努力让每一个读者有所收获并应用到自己的 Obsidian 知识管理库中。
 
@@ -106,7 +106,7 @@ Object.keys(dv.current()).forEach(key => {
 ```
 ````
 
-> [!Tip] 
+> [!Tip]
 > `dv.current()` 为 `dv.page("文档路径")` 的便捷方法。
 
 结果：
@@ -571,7 +571,7 @@ dv.table(["File", "Author", "Book topics", "Genres", "Progress"], dv.pages('"10 
 
 ![Pasted image 20240521201219](https://cdn.pkmer.cn/images/202405260809223.png!pkmer)
 
-> [!Warning] 
+> [!Warning]
 > 需要注意的是使用 `where()` 方法查询数据时可能会修改原始数据。
 
 下面以 `filter()` 方法来举例：
@@ -969,7 +969,7 @@ dv.span(dv.blockLink("2022-02-04", '220763', true, '显示名称'))
 
 ![Pasted image 20240524110023](https://cdn.pkmer.cn/images/202405260809230.png!pkmer)
 
-> [!Tip] 
+> [!Tip]
 > 在 obsidian 中我们使用 `[[]]` 来嵌入链接，如果所指向的文件不存在，在鼠标点击链接时会自动创建这个链接文件。如果相要将嵌入的链接的内容显示出来只需要在双括号前加一个感叹号，即 `![[]]`，这就等同于在代码中将 `embed` 设置为 `true`，这个时候 `display` 指定的名称将会失效。
 
 ### 日期和时间操作
@@ -1103,7 +1103,7 @@ dv.table(queryResult.value.headers, queryResult.value.values)
 
 ![Pasted image 20240524165035](https://cdn.pkmer.cn/images/202405260809231.png!pkmer)
 
-> [!Tip] 
+> [!Tip]
 >`dv.query()` 方法返回值签名为 `Promise<Result<QueryResult, string>>`，因些我们需要使用 `await dv.query()` 来获取异步值，然后也可以使用 `dv.query().then(v => {//...})` 以 Promise API 方式来处理。
 
 `settings` 可先参数是一个 `QueryApiSettings` 类型，目前只有一个配置属性 `forceId: boolean`，这个值将覆盖 `WITHOUT ID` 的设置。当值为 `true` 时会包含链接或者分组名字段，`false` 则排序。
@@ -1489,7 +1489,7 @@ Luxon 提供了以下几个操作类：
 
 接下来文章中使用的 `DateTime` 均指代 `dv.luxon.DateTime`，`Duration` 同样如此。
 
-> [!Note] 
+> [!Note]
 >这部分但介绍的内容有点多，实际在 Dataview 中我们可能并不会涉及到所有这些知识。
 
 ### `DateTime` 使用
@@ -1900,7 +1900,7 @@ console.log(dur.fromISOTime('11:22:33.444').toObject()) // { hours: 11, minutes:
 ```
 ````
 
-> [!Note] 
+> [!Note]
 >对于 ISO 格式的持续时间请参考官方网站，这里不作说明。
 
 #### 输出持续时间
@@ -1948,7 +1948,7 @@ console.log(d.toHuman({ unitDisplay: 'short' })) // 3年、6个月、1周、4天
 ```
 ````
 
-> [!Tips] 
+> [!Tips]
 > 关于 `opts` ，可以参考 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat#options](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat#options)
 
 ##### `toObject()` 函数
@@ -1991,7 +1991,7 @@ console.log(dur.fromObject({ hours: 11 }).toISOTime({ format: 'basic' })) // 110
 ```
 ````
 
-> [!Tips] 
+> [!Tips]
 >还有 2 个函数 `toJSON()` 和 `toString()` 也是输出为 ISO 8601，只不过一个适用于 JSON,一个适用于调式。
 
 除了上述几个函数外，还可以使用 `toMillis()` 和 `valueOf()` 来输出持续时间的毫秒表示。

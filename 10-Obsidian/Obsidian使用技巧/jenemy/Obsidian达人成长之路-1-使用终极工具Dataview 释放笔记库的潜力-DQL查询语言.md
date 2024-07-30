@@ -1,16 +1,16 @@
 ---
 uid: 20240508220235
-title: Obsidian 达人成长之路_1：使用终极工具 Dataview 释放笔记库的潜力 · DQL 查询语言
+title: Obsidian 达人成长之路 1 使用终极工具 Dataview 释放笔记库的潜力 · DQL 查询语言
 tags: [Obsidian, Dataview]
 description: 使用终极工具 Dataview 释放笔记库的潜力 · DQL 查询语言
 author: jenemy
 type: other
 draft: false
 editable: false
-modified: 20240508235724
+modified: 20240730194155
 ---
 
-# Obsidian 达人成长之路 1使用终极工具 Dataview 释放笔记库的潜力 · DQL 查询语言
+# Obsidian 达人成长之路 1 使用终极工具 Dataview 释放笔记库的潜力 · DQL 查询语言
 
 ️DataView 是 Obsidian 社区中的热门插件，它为用户提供了一个强大的实时索引和查询引擎。通过在文档中设置属性（或称为元数据），DataView 能够检索并处理这些数据。借助 DataView，用户可以轻松列出、筛选、排序和分组数据，这与使用数据库查询语言类似。
 
@@ -868,7 +868,7 @@ WHERE T.completed AND file = this.file
 
 ![](https://cdn.pkmer.cn/images/202405082208253.png!pkmer)
 
-> [!note] 
+> [!note]
 > `FLATTEN` 语句的所有使用都需要结合 `TABLE` 查询类型来输出结果。
 
 现在再来演示另一种使用 `FLATTEN` 的场景，这刚好与 `GROUP BY` 语句结果相反。现在有一个目录 `books` 放置了很多书籍，每一个文档代表一本书，文档中设置 `genres` 属性来作为分类（`Children`, `Romance`, `Magic` 等等），当我们使用 `TABLE genres` 查询时，结果是每个分类占据表格的一行，而默认文档链接会根据分类数量自动合并行，现在想要相同行不合并显示，这时就需要使用 `FLATTEN genres` 来实现。
@@ -1264,7 +1264,7 @@ WHERE file = this.file
 `= none([1, 2, 5, 8], (v) => v > 10)` %% true %%
 ```
 
->[!Tips] 
+>[!Tips]
 >在 JavaScript 中 `null`, `""`, `0` 均代表假值，DQL 查询语言中也使用了同样的规则。
 
 最后还剩下 2 个函数来结束本小节，`nonull(array)` 函数用于将一个包含 `null` 值的数组项移除，并返回一个新的数组。`length(object|array)` 函数用于返回数组的长度，对象的属性数量，因为比较简单就不举例说明了。`extract(object, key1, key2, ...)` 函数用于获取对象的多个值，请参考前面章节中的使用示例。
@@ -1540,8 +1540,7 @@ SORT hash(dateformat(file.ctime, "YYYY-MM-DD"), file.name)
 
 最后，动动你发财的小手，关注，点赞一键三连，你的鼓励是我坚持下去的动力。有任何问题欢迎加作者微信（`jenemy_xl`）沟通交流一起成长。
 
-
-下一篇 [[Obsidian达人成长之路_2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API]]  [[Obsidian达人成长之路_3-使用终极工具 Dataview 释放笔记库的潜力 · 案例讲解]]
+下一篇 [[Obsidian达人成长之路-2-使用终极工具 Dataview 释放笔记库的潜力 · JavaScript API]] [[Obsidian达人成长之路-3-使用终极工具 Dataview 释放笔记库的潜力-案例讲解]]
 
 ## 参考
 
