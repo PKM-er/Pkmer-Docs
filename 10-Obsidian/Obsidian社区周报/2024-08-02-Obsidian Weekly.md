@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240803183346
+modified: 20240803193400
 ---
 
 # Obsidian Weekly 2024-08-02：吾日三省，温故知新——见证成长
