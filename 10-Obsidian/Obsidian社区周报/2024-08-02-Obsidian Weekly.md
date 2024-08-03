@@ -2,12 +2,12 @@
 uid: 20240803182954
 title: Obsidian Weekly 2024-08-02：吾日三省吾身：记笔记乎？开脑洞乎？已温故而知新乎？
 tags: [Weekly, Obsidian]
-description: Obsidian Weekly 2024-08-02：吾日三省，温故知新——见证成长
+description: Obsidian Weekly 2024-08-02：吾日三省吾身：记笔记乎？开脑洞乎？已温故而知新乎？
 author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240803201316
+modified: 20240803201506
 ---
 
 # Obsidian Weekly 2024-08-02：吾日三省吾身：记笔记乎？开脑洞乎？已温故而知新乎？
