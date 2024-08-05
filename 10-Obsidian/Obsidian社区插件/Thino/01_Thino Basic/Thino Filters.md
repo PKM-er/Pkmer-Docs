@@ -1,16 +1,13 @@
 ---
 uid: 20231109234542
 title: Thino 检索式功能（筛选器）
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 检索式功能（筛选器）
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110001208
+modified: 20240805223233
 id: 56f71ed0d03cfa93
 ---
 
@@ -32,6 +29,17 @@ id: 56f71ed0d03cfa93
 - 文本
 - 日期，其包括了 `在之前` 以及 `在之后` 的两种状态，而后边的日期中你可以输入任意自然语言的日期，当然也可以输入 `YYYY-MM-DD` 的格式的日期；
     - 注意，这个功能严重依赖于 [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) 插件，请你使用该筛选的时候要先安装这个插件。
+- 状态
+- 来源：
+	- 检索具体 Thino 来源的数据，这是为了方便多种模式混合的使用的用户方便
+	- 尤其是用户变更自己的存储模式后
+- 路径：检索具体路径中的数据
+- 元数据：用于索引具体 Frontmatter 数据
+- 时间范围：用于设置固定日期查询
+	- 天：7 天、14 天、30 天
+	- 周：本周、上周
+	- 月：3 个月、6 个月、本月、上月
+	- 年：1 年、今年、去年
 
 ## 使用流程
 
