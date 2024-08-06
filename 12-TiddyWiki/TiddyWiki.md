@@ -7,7 +7,7 @@ author: 星蓝,PKMer,林一二
 type: other
 draft: false
 editable: false
-modified: 20230820120013
+modified: 20240806214903
 ---
 
 ![TiddlyWiki 太微](https://cdn.pkmer.cn/images/image1.png!pkmer)
@@ -30,7 +30,7 @@ modified: 20230820120013
 
 - <https://oeyoew.fun/>
 - [🤓🌱 学习者的数字花园 — 记录我的学习与思考 (pimgeek.com)](https://pimgeek.com/notes/)
-- https://wiki.onetwo.ren
+- <https://wiki.onetwo.ren>
 - <https://tritarget.org/>
 - <https://xememex.com/ethicsatwes/>
 - <https://tiddlymemo.org/manual/zh-Hans>
@@ -45,7 +45,7 @@ TiddlyWiki 是一个宝藏软件，但可惜的是有些人没有体会到这一
 
 「太微」是我们对 TiddlyWiki 的中文称呼。它是一款独特的非线性笔记本，用于捕获、组织和分享复杂信息。可用它来建立个人知识库，或者任务管理。记录闪过你大脑的每一个想法，或者建立一个灵动的自适应式的网站。
 
-「太微」不适合[【剪藏】](https://github.com/tiddly-gittly/Browser-Extension-Tiddlywiki-Collector)一些信息，知识的学习是需要主动性的探索而被动的【剪藏】就像平静的水面泛起的水花转瞬即逝。不过，仍然有非常多成熟的软件可以完成【剪藏】。对于太微来说，我们需要自己的耐心去慢慢培育出一条条美丽的属于自己小鱼儿，让它们遨游在自己的故事河中，成为自己知识体系的一部分。
+「太微」不适合 [【剪藏】](https://github.com/tiddly-gittly/Browser-Extension-Tiddlywiki-Collector) 一些信息，知识的学习是需要主动性的探索而被动的【剪藏】就像平静的水面泛起的水花转瞬即逝。不过，仍然有非常多成熟的软件可以完成【剪藏】。对于太微来说，我们需要自己的耐心去慢慢培育出一条条美丽的属于自己小鱼儿，让它们遨游在自己的故事河中，成为自己知识体系的一部分。
 
 我们会使用 TidGi（太记）作为本文的全部主线来为您介绍如何使用 TiddlyWiki，您以后会见到各种各样的 TiddlyWiki，比如：TiddlyMemo（墨屉）、TiddlyDesktop（TiddlyWiki 官方的桌面启动器）、TiddlyWiki Xp（一个快速体验太微的｢太微模版｣）等等。这些都是不同愿景和功能的 TiddlyWiki。其中 TidGi（太记）是一个应用程序而非系统或框架，使用简单且功能丰富。
 
@@ -58,7 +58,8 @@ TiddlyWiki 是一个宝藏软件，但可惜的是有些人没有体会到这一
 TiddlyWiki（太微）是一份存储在本地的 HTML 网页文档！同时也可以是以另一种文件夹存储的方式运行于 NodeJS 的 Web 程序，两种形态可以随意切换。请下载太记，然后创建打开你的第一份 Wiki。
 
 太记下载链接：
-- [墙外 Releases · tiddly-gittly/TidGi-Desktop (github.com)](https://github.com/tiddly-gittly/TidGi-Desktop/releases) 
+
+- [墙外 Releases · tiddly-gittly/TidGi-Desktop (github.com)](https://github.com/tiddly-gittly/TidGi-Desktop/releases)
 - [墙内官网备用下载](https://tidgi.fun)
 
 ![TiddlyWiki 太微](https://cdn.pkmer.cn/images/image3.png!pkmer)
@@ -152,7 +153,7 @@ JSON 文件是太微中常见的数据存储格式文件，一般都是使用它
 - POP：弹出模式，pop 打开条目是从大缩小的动画，关闭条目是继续缩小直到看不见，这两个他们都是多个条目同时在的，往下翻可以看到多个条目。
 - Zoomin：缩放视图模式：这个模式只能看到一个条目，往下翻没有更多条目
 
-详细链接： <https://tw-cn.netlify.app/#查看模式>
+详细链接： <<https://tw-cn.netlify.app/>#查看模式>
 
 ![TiddlyWiki 太微](https://cdn.pkmer.cn/images/image9.png!pkmer)
 
@@ -174,22 +175,23 @@ JSON 文件是太微中常见的数据存储格式文件，一般都是使用它
 
 在侧边栏顶部的「页面控制按钮」区域，有一个布局切换器按钮（三个矩形组成的，类似两个卡片和一个侧边栏的样子）。如果你没看到它，可以在点击 V 图标打开下拉列表后，在下拉列表里找到它。
 
-![[太微页面控制直接打开布局切换.png]]
-![[太微页面控制下拉打开布局切换.png]]
+![太微页面控制直接打开布局切换](https://cdn.pkmer.cn/images/202408062142220.png!pkmer)
+
+![太微页面控制下拉打开布局切换](https://cdn.pkmer.cn/images/202408062142261.png!pkmer)
 
 点击它可以打开布局切换器弹框，在里面选择「CPL - 太微插件聚合中心」布局。
 
-![[太微布局切换到CPL.png]]
+![太微布局切换到CPL](https://cdn.pkmer.cn/images/202408062142801.png!pkmer)
 
 点击关闭按钮，关闭弹框。
 
 然后点击「加载数据库」按钮，加载插件列表。由于太微的插件数量较多，且通过免费服务部署，所以可能需要一定时间加载。
 
-![[CPL布局加载插件列表.png]]
+![CPL布局加载插件列表](https://cdn.pkmer.cn/images/202408062142225.png!pkmer)
 
 加载成功后，会出现搜索框和插件列表，每行插件的左侧有 》按钮，点击可以展开详情。每行插件的右侧有「安装」按钮，点击即可安装。
 
-![[CPL布局搜索安装插件.png]]
+![CPL布局搜索安装插件](https://cdn.pkmer.cn/images/202408062142027.png!pkmer)
 
 **重要：***插件要尤为注意插件之间的依赖关系，缺少依赖将会导致功能性错误或者其它的不可知问题。安装插件之前请谨慎备份自己的知识库。*
 
@@ -383,7 +385,7 @@ WikiText 即 TiddlyWiki 书写文本。书写文本与显示文本又名书写�
 - **区块模式** - 解析器将仅识别区块模式维基文本符号
 - **内联模式** - 解析器将仅识别内联模式维基文本
 
-此条目仅做简要介绍，更详细的描述请查看 [TiddlyWiki](file:///D:\\Dropbox\\10-TODO\\TiddlyWiki\\%E5%A2%A8%E5%B1%89TiddlyWiki%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97.html#TiddlyWiki) 舞中文文档：<https://bramchen.github.io/tw5-docs/zh-Hans/#WikiText%20Parser%20Modes>
+此条目仅做简要介绍，更详细的描述请查看 [TiddlyWiki](file:///D:\\Dropbox\\10-TODO\\TiddlyWiki\\%E5%A2%A8%E5%B1%89TiddlyWiki%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97.html#TiddlyWiki) 舞中文文档：<<https://bramchen.github.io/tw5-docs/zh-Hans/#WikiText>%20Parser%20Modes>
 
 区块解析器模式
 
@@ -416,9 +418,9 @@ WikiText 即 TiddlyWiki 书写文本。书写文本与显示文本又名书写�
 
 自制模板的方法在太微官方文档中有写（搜索 `SystemTag: $:/tags/ViewTemplate` 可以找到），也就是普通的笔记加上 `$:/tags/ViewTemplate` 这样的标签，就会出现在所有笔记条目的下面。通过一些条件语法，可以根据不同情况显示不同的模板。
 
-不过一般用户推荐通过插件的方式安装模板，例如 [caption-title 插件](https://tw-cpl.netlify.app/#Plugin_202407243931446)提供了查看和编辑随机生成标题的速记条目的模板，[超级标签插件](https://tw-cpl.netlify.app/#Plugin_202302190734327)提供了类似 Tana 的标签自动生成的表单模板。
+不过一般用户推荐通过插件的方式安装模板，例如 [caption-title 插件](https://tw-cpl.netlify.app/#Plugin_202407243931446) 提供了查看和编辑随机生成标题的速记条目的模板，[超级标签插件](https://tw-cpl.netlify.app/#Plugin_202302190734327) 提供了类似 Tana 的标签自动生成的表单模板。
 
-此外，如果想要的不是让所有条目下都出现同一个内容，而是想要以同一个内容为模板，快速创建新笔记，也就是制作和使用条目模板，那么可以通过[模板列表插件](https://tw-cpl.netlify.app/#linonetwo%2Ftemplate-list)来实现。
+此外，如果想要的不是让所有条目下都出现同一个内容，而是想要以同一个内容为模板，快速创建新笔记，也就是制作和使用条目模板，那么可以通过 [模板列表插件](https://tw-cpl.netlify.app/#linonetwo%2Ftemplate-list) 来实现。
 
 ### （二）“文件目录”侧边栏
 
@@ -761,7 +763,7 @@ Both、Outgoing、Incoming、Inter-neighbour edges
 
 渐进写作相关链接：
 
-渐进写作：<https://blog.effie.co/%e6%b8%90%e8%bf%9b%e5%bc%8f%e5%86%99%e4%bd%9c/>
+渐进写作：<<https://blog.effie.co/>%e6%b8%90%e8%bf%9b%e5%bc%8f%e5%86%99%e4%bd%9c/>
 
 非线性写作的 4 条建议：<https://zhuanlan.zhihu.com/p/399187853>
 
@@ -771,7 +773,7 @@ Both、Outgoing、Incoming、Inter-neighbour edges
 
 **01.关于 RR 的双链无压记录**
 
-看过 【双向链接时代的快速无压记录：<https://www.yuque.com/deerain/gannbs/ffqk2e】> 的同学可能都知道，roam research 之所以能带火 \[\[双链\|反向链接\]\] ，是因为它宣传：
+看过 【双向链接时代的快速无压记录：<<https://www.yuque.com/deerain/gannbs/ffqk2e>】> 的同学可能都知道，roam research 之所以能带火 \[\[双链\|反向链接\]\] ，是因为它宣传：
 
 输入的时候可以彻底的不整理，就完全堆在日志条目里 然后用 \`\[\[\]\]\` 打个标记，然后用双链的一些特性，试图让后续需要整理的时候压力也不至于很大。
 
@@ -788,7 +790,7 @@ roam 的选择是把未整理的内容堆放到日志条目里，这在太微里
 1. 点击快速创建想法按钮，自动创建出一个带「想法」标签的新卡片
 2. 输入标题「变量：显示或隐藏空节点」，加上标签「logseq/配置」，输入内容 \`:ui/show-empty-bullets?\` （也可以在里面加入 \`\[\[logseq/配置\]\]\` 来产生双链，看你是标签党还是双链党，反正都可以实现同样的效果）
 
-两次操作即可保留内容，与之相比较的复杂折腾的情况，详见【双向链接时代的快速无压记录：<https://www.yuque.com/deerain/gannbs/ffqk2e】。>
+两次操作即可保留内容，与之相比较的复杂折腾的情况，详见【双向链接时代的快速无压记录：<<https://www.yuque.com/deerain/gannbs/ffqk2e>】。>
 
 **03.太微的间隔重复放心记录**
 
@@ -824,7 +826,7 @@ ITKG 是太记作者林一二基于太微的特性专门设计的框架，即用
 
 与 PARA 类似，意义之塔其实就类似于「领域」和「项目」，知识图谱就类似于「资源」和「归档」。但 PARA 无法说明「你为什么要做这个项目」、「你是因为什么而关系这个领域的」。而 ITKG 方法将重点放在你做每件事的意义上，自动显示出每个项目的因果关系，让你永远不忘记自己因为什么而出发。
 
-ITKG 在太微上的一个好处是，你可以[直接通过 CPL 安装意义之塔插件](https://tw-cpl.netlify.app/#Plugin_202302144321335)就开始使用，不需要学习和内化 PARA 方法，直接点击屏幕上的按钮就能开始操作，相当于这个系统帮你内化了 ITKG 方法并帮你执行大部分的整理操作。
+ITKG 在太微上的一个好处是，你可以 [直接通过 CPL 安装意义之塔插件](https://tw-cpl.netlify.app/#Plugin_202302144321335) 就开始使用，不需要学习和内化 PARA 方法，直接点击屏幕上的按钮就能开始操作，相当于这个系统帮你内化了 ITKG 方法并帮你执行大部分的整理操作。
 
 ### （十）书籍与书籍的分卷
 
