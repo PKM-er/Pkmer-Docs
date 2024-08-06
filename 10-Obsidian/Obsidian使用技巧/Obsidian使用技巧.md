@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240408191220
+modified: 20240806215746
 ---
 
 # Obsidian 使用技巧
@@ -19,7 +19,9 @@ modified: 20240408191220
 - [[Obsidian插件技巧-Zoom插件的妙用]]
 - [[一种快捷打开obsidian特定页面的技巧]]
 - [[键盘小键盘区使用指南]]
-
+- [[改善笔记内的链接编辑体验]]
+- [[一键搞定快速操作笔记的元数据并统计最近完成事项]]
+- [[右对齐作者的引用样式]]
 
 ### 综合
 
@@ -46,6 +48,7 @@ modified: 20240408191220
 - [[插件名人堂]]
 - [[如何在 Obsidian 中使用 AI 大模型]]
 - [[Obsidian揭秘-深入理解链接的概念及应用]]
+
 ### 第三方插件
 
 - [[Obsidian插件技巧-自定义标签面板配合TagFolder]]
@@ -88,7 +91,7 @@ modified: 20240408191220
 	- [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
 	- [[QuickAdd脚本-插入并编辑SVG文件]]
 	- [[quickadd#社区使用技巧|更多请参考Quickadd社区技巧...]]
-	
+
 
 ## 与第三方软件联动
 
