@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240704233633
+modified: 20240808233223
 ---
 
 # Obsidian 社区插件
@@ -239,13 +239,14 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-footnotes]]：方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
 - [[obsidian-tidy-footnotes]]：可以将所有脚注都合并到一个地方，也能给脚注重新排序
 
-### 链接类
+### 双链、链接类
 
 在 Obsidian 中，链接是笔记之间和笔记与外部资源之间重要的互动方式，链接的使用体验影响着用户在查找、组织和浏览笔记时的效率和舒适度。为了增强链接的使用体验，Obsidian 提供了多种链接管理插件。这些插件可以帮助用户进行链接的猜测和提取、显示链接对应的网站图标、提高链接的美观性和可读性。
 
 - [[obsidian-advanced-uri]]：Obsidian URI 的功能增强
-- [[obsidian-advanced-uri-青年与禅师的技术尬聊]]
+	- [[obsidian-advanced-uri-青年与禅师的技术尬聊]]
 - [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]
+- [[virtual-linker]]：也许是 Obsidian 双链最强辅助
 - [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
 - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
@@ -486,11 +487,13 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 为了让你更加高效地管理学习和工作中的海量笔记，这里向你推荐几款优秀的 Obsidian 插件，它们为 Obsidian 带来全新的标签页操作方式，提升笔记分类和定位的便捷性。这些插件不仅简单易用、操作方便，还可以让你在使用 Obsidian 时省去不必要的繁琐步骤。无论你是在寻找更高效的笔记组织方式还是提高工作效率，这些插件都会给你带来不同程度的改进和便利。
 
-- [[obsidian-tabs]]：为 Obsidian 增加标签页功能
+- [[vertical-tabs]]：Vertical Tabs 可能是目前功能最完善垂直标签管理
+- [[Vertical-Tabs-View]]：垂直选项卡管理
 - [[cycle-through-panes]]：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样
 - [[close-similar-tabs]]：自动关闭重复打开的标签页，防止标签栏拥挤和冲突
 - [[double-click-tab]]：双击标签标题时修改默认行为的插件，比如关闭标签
 - [[obsidian-opener]]：提升打开标签页的体验
+- [[obsidian-tabs]]：为 Obsidian 增加标签页功能
 
 ### 管理工具
 
@@ -518,6 +521,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
 - [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据
+- [[tenki]]：一个简单的天气显示插件
 - [[open-weather]]：该插件以可配置的字符串格式返回 OpenWeather 的当前天气
 - [[rss-reader]]：让你的 Obsidian 秒变 RSS 阅读器
 - [[obsidian-leaflet-plugin]]：在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。

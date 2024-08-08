@@ -7,7 +7,7 @@ author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230801185143
+modified: 20240803174011
 ---
 
 # Obsidian 插件：Style Text 简易的自定义文字大小颜色样式
@@ -71,4 +71,3 @@ modified: 20230801185143
 
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1805944292&bvid=BV1Fb421n7Tk&cid=1585810960&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
- 

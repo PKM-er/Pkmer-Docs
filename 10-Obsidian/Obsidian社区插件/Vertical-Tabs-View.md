@@ -10,7 +10,7 @@ editable: false
 modified: 20240110120558
 ---
 
-# Obsidian 插件：Vertical Tabs View 垂直选项卡视图
+# Obsidian 插件：Vertical Tabs View 垂直选项卡管理
 
 ## 概述
 
