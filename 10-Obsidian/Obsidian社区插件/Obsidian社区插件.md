@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240803173949
+modified: 20240808233223
 ---
 
 # Obsidian 社区插件
@@ -487,11 +487,13 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 为了让你更加高效地管理学习和工作中的海量笔记，这里向你推荐几款优秀的 Obsidian 插件，它们为 Obsidian 带来全新的标签页操作方式，提升笔记分类和定位的便捷性。这些插件不仅简单易用、操作方便，还可以让你在使用 Obsidian 时省去不必要的繁琐步骤。无论你是在寻找更高效的笔记组织方式还是提高工作效率，这些插件都会给你带来不同程度的改进和便利。
 
-- [[obsidian-tabs]]：为 Obsidian 增加标签页功能
+- [[vertical-tabs]]：Vertical Tabs 可能是目前功能最完善垂直标签管理
+- [[Vertical-Tabs-View]]：垂直选项卡管理
 - [[cycle-through-panes]]：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样
 - [[close-similar-tabs]]：自动关闭重复打开的标签页，防止标签栏拥挤和冲突
 - [[double-click-tab]]：双击标签标题时修改默认行为的插件，比如关闭标签
 - [[obsidian-opener]]：提升打开标签页的体验
+- [[obsidian-tabs]]：为 Obsidian 增加标签页功能
 
 ### 管理工具
 
