@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240808232852
+modified: 20240810002524
 ---
 
 # Obsidian 插件：Vertical Tabs 可能是目前功能最完善垂直标签管理
@@ -22,9 +22,9 @@ Obsidian 和 网页浏览器都是默认的水平选项卡布局，可能会使�
 > - 插件名称：Vertical Tabs
 > - 插件作者：oxdc
 > - 插件说明：提供一个替代水平标签选下卡的视图，通过垂直显示方式打开的选项卡，允许用户对选项卡进行分组和组织，以获得更好的导航体验。
-> - 插件分类：['obsidian 插件 ', ' 双链 ']
-> - 项目地址：[点我访问](https://github.com/vschroeter/obsidian-virtual-linker)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?virtual-linker)
+> - 插件分类：[' 标签页管理 ', ' 垂直标签 ', 'obsidian 插件 ']
+> - 项目地址：[点我访问](https://github.com/oxdc/obsidian-vertical-tabs)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vertical-tabs)
 
 ## 效果&特性
 
