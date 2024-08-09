@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240808233223
+modified: 20240810005624
 ---
 
 # Obsidian 社区插件
@@ -71,13 +71,12 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些插件可直接优化或提升 Obsidian 笔记编辑的用户体验。它们一般会直接应用于笔记编辑窗口，使 Obsidian 的操作界面更加直观、可视化，从而提升用户的使用体验。许多插件中还集成了 callout、可视化操作及浮动目录等功能，让你更容易地浏览、查看和编辑笔记内容。所有这些特性的集成对于 Obsidian 用户来说，可以让用户的操作过程变得更为简单、直观，同时也增加了对用户的使用体验的提升。
 
-- [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
+- [[inline-spoilers]]：也许是最方便的挖空编辑工具
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
+- [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式；
 	- 另外也有一篇文章分享了 [[Dynamic-Highlights插件的几种使用场景]]
-- [[remember-cursor-position]]：记住每个文件光标和滚动位置
-- [[obsidian-remember-file-state]]：
 - [[cm-typewriter-scroll-obsidian]]：打字机风格的滚动，使视图保持在编辑器的中心
 - [[typewriter-mode]]：使光标所在行始终处于屏幕某处，降低用 Obsidian 写中长文时用鼠标滚动调整页面的频繁
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
@@ -89,7 +88,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[html-tabs]]：在笔记中创建和渲染选项卡和标签面板
 - [[slash-commander]]：定制 slash 命令列表。
 - [[vscode-editor]]：提供查看和编辑**各种代码文件**和代码块的功能
-- [[prozen]]：禅模式启动！
+
 
 ### 格式化
 
@@ -332,12 +331,15 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 而也有一些插件，提供了提供的多种视图模式有关，让你更加灵活的使用不同的视图模式，比如专注模式等。
 
+- [[remember-cursor-position]]：记住每个文件光标和滚动位置
+- [[obsidian-remember-file-state]]：记住每个笔记的浏览位置
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[workspaces-plus]]：快速管理不同工作区不同布局对应不同工作流
 - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
 - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
 - [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
 - [[zen]]：帮你聚焦，让你的 Obsidian 进入到禅模式
+- [[prozen]]：禅模式启动！
 - [[editor-width-slider]]：允许你在状态栏中使用滑块来快速调整编辑器的行宽/栏宽
 - [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
 - [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
