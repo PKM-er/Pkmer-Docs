@@ -18,7 +18,8 @@ modified: 20240803183442
 
 更新时间：每周六晚 - 周日
 
-- [[2024-08-02-Obsidian Weekly]]（New！试刊）
+- [[2024-08-09-Obsidian Weekly]]（New！试刊）
+- [[2024-08-02-Obsidian Weekly]]（试刊）
 - [[2024-07-21-Obsidian Weekly]]（试刊）
 - [[2024-07-14-Obsidian Weekly]]（试刊）
 - [[2024-07-07-Obsidian Weekly]]（试刊）
