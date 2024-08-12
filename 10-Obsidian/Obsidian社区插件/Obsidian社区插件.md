@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240810005624
+modified: 20240812233536
 ---
 
 # Obsidian 社区插件
@@ -88,7 +88,6 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[html-tabs]]：在笔记中创建和渲染选项卡和标签面板
 - [[slash-commander]]：定制 slash 命令列表。
 - [[vscode-editor]]：提供查看和编辑**各种代码文件**和代码块的功能
-
 
 ### 格式化
 
@@ -224,6 +223,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[remember-cursor-position]]：记住每个文件光标和滚动位置
 - [[obsidian-remember-file-state]]：记住每个笔记的浏览位置
+- [[page-scroll]]：也许是最简单易用的翻页辅助工具
+- [[obsidian-scroll-to-top-plugin]]：快速定位到页头页尾
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[workspaces-plus]]：快速管理不同工作区不同布局对应不同工作流
 - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
@@ -411,6 +412,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 	- [[Dataview基本语法|开篇-Dataview基本语法]]
 	- [[Dataview语法实战|进阶-Dataview语法实战]]
 	- [[Dataview社区实践经验|应用-Dataview社区实践经验]]
+- [[obsidian-projects]]：供笔记多视图的管理能力
 - [[various-complements]]：这个 Obsidian 插件让你能够自动完成完成单词，和自定义内容的输入。
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
 - [[obsidian-completr]]：为 LaTeX, Frontmatter，callout 提供了自动补全功能，你还可以提供文件作为联想的文字。
