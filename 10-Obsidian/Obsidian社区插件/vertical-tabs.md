@@ -1,7 +1,10 @@
 ---
-uid: 20240730205546
+uid: 202407302055467
 title: Obsidian 插件：Vertical Tabs 可能是目前功能最完善垂直标签管理
-tags: ['标签页管理', '垂直标签', 'obsidian插件']
+tags:
+  - 标签页管理
+  - 垂直标签
+  - obsidian插件
 description: Obsidian 插件：Vertical Tabs 可能是目前功能最完善垂直标签管理
 author: OS
 type: awesome
