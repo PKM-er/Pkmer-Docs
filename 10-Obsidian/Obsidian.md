@@ -147,5 +147,6 @@ Obsidian 是一款本地文档型纯文本笔记软件，和其它笔记软件�
 - Terry
 	- [[myZettelkasten 介绍]]
 	- [[从企业管理角度看待笔记方法]]
+	- [[VisualZettelkasten 示例库背后的故事]]
 - 熊猫别熬夜
 	- [[Obsidian插件技巧-自定义标签面板配合TagFolder]]：自定义漂亮的标签面板
