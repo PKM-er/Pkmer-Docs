@@ -1,5 +1,5 @@
 ---
-uid: 20240730205546
+uid: 20240730205548
 title: Obsidian 插件：Virtual Linker，也许是 Obsidian 双链最强辅助
 tags: [双链, 内链, 社区插件]
 description: 提供了类似思源笔记虚拟引用的功能，自动为笔记中的文本生成虚拟链接
@@ -7,7 +7,7 @@ author: calmwaves
 type: awesome
 draft: false
 editable: false
-modified: 20240812215300
+modified: 20240813160249
 ---
 
 # Obsidian 插件：Virtual Linker，也许是 Obsidian 双链最强辅助
