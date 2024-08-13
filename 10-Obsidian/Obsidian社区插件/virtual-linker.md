@@ -10,7 +10,7 @@ author: calmwaves
 type: awesome
 draft: false
 editable: false
-modified: 20240812215300
+modified: 20240813160249
 ---
 
 # Obsidian 插件：Virtual Linker，也许是 Obsidian 双链最强辅助
