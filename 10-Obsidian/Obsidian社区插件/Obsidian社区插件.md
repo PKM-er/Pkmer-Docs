@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240812233536
+modified: 20240816112455
 ---
 
 # Obsidian 社区插件
@@ -192,10 +192,12 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-task-archiver]]：帮你快速归类待办任务
 - [[completed-task-display]]：提供控件来显示或隐藏已完成的任务。
 - [[tasks-calendar-wrapper]]：完美的时间线/日历视图的任务面板展示
+- [[datepicker]]：也许是最好用的日期修改插件
 
 ### 日期&时间
 
 - [[calendar]]：添加一个简单的日历视图，用于可视化日记和在不同日记间跳转。
+- [[datepicker]]：也许是最好用的日期修改插件
 - [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 - [[tokei]]：将一个数字时钟，放到笔记中
@@ -366,6 +368,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 	- [[自定义Excalidraw脚本-制作Excalidraw悬浮大纲以及一键生成线型笔记]]
 	- [[自定义Excalidraw脚本-修改MindMap Format设置思维导图Frame容器]]
 - [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
+- [[smart-gantt]]：值得关注的简易绘制甘特图插件
 
 ### 白板（canvas）和脑图
 
