@@ -1,16 +1,16 @@
 ---
 uid: 20240603103524
-title: Obsidian 插件：Smart Gantt 简单易用的甘特图生成插件
+title: Obsidian 插件：Smart Gantt 值得关注的简易绘制甘特图插件
 tags: ['图表与可视化', '任务管理', '数据处理', 'obsidian插件']
-description: 智能地从您的任务中生成甘特图
+description: Obsidian 插件：Smart Gantt 值得关注的简易绘制甘特图插件
 author: OS
 type: auto
 draft: false
 editable: false
-modified: 20240816004759
+modified: 20240816112425
 ---
 
-# Obsidian 插件：Smart Gantt 简单易用的甘特图生成插件
+# Obsidian 插件：Smart Gantt 值得关注的简易绘制甘特图插件
 
 ## 概述
 
@@ -27,6 +27,9 @@ Obsidian Smart Gantt 可以智能地根据你笔记中的任务，在 Obsidian �
 > - 插件分类：[' 图表与可视化 ', ' 任务管理 ', ' 数据处理 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/nhannht/obsidian-smart-gantt)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?smart-gantt)
+
+>[!tips] 提示
+>这个插件刚刚发布，可以看到 issue 上还有不少问题，可以保持对此插件长期关注，整体设计理念非常好
 
 ## 效果&特性
 
