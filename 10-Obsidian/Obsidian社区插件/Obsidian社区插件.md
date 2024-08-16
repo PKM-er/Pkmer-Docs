@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240812233536
+modified: 20240816003810
 ---
 
 # Obsidian 社区插件
@@ -196,6 +196,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 日期&时间
 
 - [[calendar]]：添加一个简单的日历视图，用于可视化日记和在不同日记间跳转。
+- [[datepicker]]：也许是最好用的日期修改插件
 - [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 - [[tokei]]：将一个数字时钟，放到笔记中
