@@ -1,15 +1,13 @@
 ---
 uid: 20240819010803
 title: 自定义 Excalidraw 脚本 - 保存局部视图至 Eagle 并实现二次编辑功能
-tags:
-  - Excalidraw脚本
-  - Eagle
+tags: [Excalidraw脚本, Eagle]
 description: 可选中 Excalidraw 中局部元素发送到 Eagle()，导入 Eagle 里面的格式是 SVG，导入时可设置 SVG 名称，标签，Obsidian 文档链接，Eagle 中的 SVG 可在官方 Excalidraw 中还原。
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240819010938
+modified: 20240819011249
 ---
 
 # 自定义 Excalidraw 脚本 - 保存局部视图至 Eagle 并实现二次编辑功能
