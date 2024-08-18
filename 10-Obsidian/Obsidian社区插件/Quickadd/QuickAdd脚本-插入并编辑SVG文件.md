@@ -121,5 +121,5 @@ module.exports = {
 ## Reference
 
 1. [[关于 Diagram 软件的功能介绍以及在 Obsidian 使用的方案]]
-2. [[熊猫别熬夜Excalidraw脚本汇总-Excalidraw自动检测更新]]
+2. [[熊猫别熬夜Excalidraw脚本汇总]]
 3. [【QuickAdd脚本】通过wiki链接删除并对应文件，适用于笔记重组 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/31660)
