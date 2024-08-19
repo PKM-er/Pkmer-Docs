@@ -23,14 +23,14 @@ modified: 20240720191115
 ## CSS 样式
 
 ```css
-/* 2024-04-04_21:48：参考：https://gist.github.com/digitalsignalperson/56fe3cbcf41707cb97362234cb07ccb0 */
+/* 2024-04-04_21:48：来源：https://gist.github.com/digitalsignalperson/56fe3cbcf41707cb97362234cb07ccb0 */
 
 /* 启动BFC */
 .workspace .mod-root .workspace-tab-header-container.workspace-tab-header-container.workspace-tab-header-container {
   display: table;
   position: relative;
   padding-left: 8px;
-  padding-right: 12px;
+  padding-right: 80px;
 }
 
 .workspace .mod-root .workspace-tab-header-container-inner {
@@ -115,16 +115,16 @@ modified: 20240720191115
 .mod-root .workspace-tab-header-new-tab {
   display: inline-block;
   position: absolute;
-  top: 0px !important;
-  right: 25px !important;
+  top: 0px;
+  right: 70px;
 }
 
 /* !下拉菜单调整 */
 .workspace-tab-header-tab-list {
   display: block;
   position: absolute;
-  top: 0px !important;
-  right: 0px !important;
+  top: 0px;
+  right: 45px;
 }
 
 /* bug修复 */
@@ -134,8 +134,21 @@ modified: 20240720191115
 }
 
 /* 常驻显示关闭按钮 */
-.workspace .mod-root .workspace-tab-header:not(.mod-stacked) .workspace-tab-header-inner-close-button {
-  display: flex !important;
+.workspace.workspace.workspace .mod-root .workspace-tab-header:not(.mod-stacked) .workspace-tab-header-inner-close-button {
+  display: flex;
+}
+
+.workspace-tab-header-container>.sidebar-toggle-button.mod-right{
+  /* display: inline-block; */
+  top: 0px;
+  position: absolute;
+  right: 10px;
+  z-index: 1;
+}
+
+/* 不显示顶部按钮 */
+.titlebar-button-container.mod-right{
+  display: none;
 }
 
 ```
