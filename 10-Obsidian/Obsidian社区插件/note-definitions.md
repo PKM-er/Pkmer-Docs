@@ -7,7 +7,7 @@ author: jenemy
 type: auto
 draft: false
 editable: false
-modified: 20240614220057
+modified: 20240823150715
 ---
 
 # Obsidian 插件：Note Definitions
@@ -176,7 +176,6 @@ But science does provide us with the best available guide to the future, and it 
 - [中英混排中的标点符号问题 | Hutrua Space](https://www.hutrua.com/blog/2018/07/22/punctuation.html)
 - [mzlogin/chinese-copywriting-guidelines: Chinese Copywriting Guidelines：中文文案排版指北（简体中文版） (github.com)](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
+## 社区其他文章
 
-
-
-
+[[note-definitions创建属于你自己的术语表]]
