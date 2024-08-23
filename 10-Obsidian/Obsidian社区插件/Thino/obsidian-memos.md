@@ -129,7 +129,7 @@ sidebar:
 		- [[Thino工作流实战-Thino与anki的联动]]
 	    - [[Obsidian Thino-基础工作流-日记周记速记的自动化汇总]]
 	    - [[使用简悦 SimpRead 与 Thino 进行联动]]
-	    - [[静读天下摘录批注记录到THino]]
+	    - [[静读天下摘录批注记录到Thino]]
 	- 自定义样式
     - [[Obsidian样式-Thino单文件时间轴样式]]
     - [[Obsidian样式-Thino列表模式日期样式调整]]
