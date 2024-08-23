@@ -279,6 +279,7 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 > 	- [BookxNoteToObsidian - by 熊猫别熬夜 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=2bd5ec90-db36-49d4-51b3-08db7dd91f1a)
 > 	- ![2024-03-06_熊猫别熬夜Excalidraw脚本汇总-Excalidraw自动检测更新_IMG-29](https://cdn.pkmer.cn/images/202404012157083.png!pkmer)
 
+
 ### EagleToExcalidraw
 
 ```excalidraw-script-install
@@ -286,10 +287,44 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 ```
 
 - Author：熊猫别熬夜
-- PKMerDoc：[[自定义Excalidraw脚本-建立库外Eagle素材库的连接]]
+- PKMerDoc：[自定义 Excalidraw 脚本 - 建立库外 Eagle 素材库的连接](https://pkmer.cn/show/20231014173618)
 - Description：实现 Eagle 与 Excalidraw 的联动，可导入素材并定位到 Eagle 具体位置，暂时还没做发送 Excalidraw 的图片到 Eagle。
+- ChangeLog：
+	- 24.08.17
+		- 可选中 Excalidraw 中局部元素发送到 Eagle
+			- ![File-20240817110840973.png](https://cdn.pkmer.cn/images/202408190105322.png!pkmer)
+		- 添加启动和关闭模式选项
+			- ![File-20240817110929916.png](https://cdn.pkmer.cn/images/202408190105360.png!pkmer)
+		- 从 Eagle 导入到 Excalidraw 的文件自动添加 `Eagle→Excalidraw` 标签
 
 > Zotero 与 Eagle 的联动我也有一点尝试：
-> - [[Quicker动作之发送Zotero图片标注至Eagle素材库]]：
-> 	- [ZoteroToEagle - by 熊猫别熬夜 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=85b92307-2003-47bd-afea-08dc426a44c3)
-> 	- ![2024-03-06_熊猫别熬夜Excalidraw脚本汇总-Excalidraw自动检测更新_IMG-30](https://cdn.pkmer.cn/images/202404012157084.png!pkmer)
+> - [ZoteroToEagle - by 熊猫别熬夜 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=85b92307-2003-47bd-afea-08dc426a44c3)
+> 	- ![File-20240426045317722.png](https://cdn.pkmer.cn/images/202408190105055.png!pkmer)
+
+### ShareToEagle
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/ShareToEagle.md
+```
+
+- Author：熊猫别熬夜
+- PKMerDoc：[[自定义Excalidraw脚本-保存局部视图至Eagle并实现二次编辑功能]]
+- Description：可选中 Excalidraw 中局部元素发送到 Eagle，已集合到EagleToExcalidraw脚本中，该脚本单独将此功能分离出来，导入Eagle里面的格式是SVG，可在官方Excalidraw中还原并二次编辑。
+	- ![File-20240817110840973.png](https://cdn.pkmer.cn/images/202408190105147.png!pkmer)
+	- ![PixPin_2024-08-18_12-37-11.gif](https://cdn.pkmer.cn/images/202408190105015.gif!pkmer)
+	- ![PixPin_2024-08-18_12-37-40.gif](https://cdn.pkmer.cn/images/202408190105549.gif!pkmer)
+
+## 社区分享的脚本
+
+### 统计选中图层字数 (Word Counter)
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/wish5115/my-softs/main/Excalidraw/Words%20Counter.md
+```
+
+- Author: wilson
+- ObsidianDoc: [Excalidraw脚本统计选中图层字数 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/36490/2)
+- Description：选中要统计的图层，点击插件按钮”123“图标，即弹出统计通知
+	- ![File-20240709110928305.png](https://cdn.pkmer.cn/images/202408190107560.png!pkmer)
+	- 统计逻辑：一个英文单词算一个，一个中文文字算一个，一个空格或标点符号算一个。
+
