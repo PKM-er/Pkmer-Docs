@@ -1,16 +1,13 @@
 ---
 uid: 20231109234458
 title: Thino 回顾功能
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 回顾功能
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110001111
+modified: 20240828102544
 id: 82f89fe070127923
 ---
 
@@ -23,10 +20,14 @@ Thino 2.1.0 默认支持每日回顾以及随机回顾：
 
 ## 每日回顾
 
-其中每日回顾有两个入口：
+其中每日回顾有多个打开方式：
 
-- 点击天数
-- 点击搜索框左侧的按钮组中的第一个按钮
+- PC 端：
+	- 点击热力图模式点击天数，如图
+	- 点击搜索框左侧的按钮组中的第一个按钮
+- 移动端：
+	- 热力图模式，点击天数即可，同 PC 端
+	- 如果你是使用日历模式可以通过长按 Thino 或者头像，呼出天数统计，并点击天数呼出次【每日回顾】
 
 ![Thino 回顾功能](https://cdn.pkmer.cn/images/Pasted%20image%2020231109140953.png!pkmer)
 

@@ -1,20 +1,20 @@
 ---
-uid: 20240812001139
+uid: 20240828150459
 title: Obsidian 样式：无序列表美化 2.0 版本
-tags: [无序列表, quickadd, 样式与美化]
+tags: [Obsidian, 美化, 无序列表]
 description: Obsidian 样式：无序列表美化 2.0 版本
-author: 淡水鱼、上善若水
+author: 余月鱼鸽
 type: other
 draft: false
 editable: false
-modified: 20240812001744
+modified: 20240828152623
 ---
 
 # Obsidian 样式：无序列表美化 2.0 版本
 
-## css 来源
+## 1.css 来源
 
-本 css 是群友 **@上善若水** 在 [PKMer_Obsidian 样式 - 无序列表卡片式美化]( https://pkmer.cn/show/20240331011456 ) 基础上进行迭代的全新版本！
+本 css 是群友 **@上善若水** 在 [[Obsidian样式-无序列表卡片式美化]] 基础上进行迭代的全新版本！
 
 具体优化点为：
 
@@ -24,7 +24,8 @@ modified: 20240812001744
 
 本篇同时收录了 **@熊猫别熬夜** 写的一个巨巨巨实用的 quickadd 脚本，该脚本支持在编辑模式下自由切换无序列表美化 2.0 版本这个 css 片段的各种模式。
 
-![无序-卡片化阅览快速切换css的js脚本展示|603x500](upload://6DgzaktqiHQte6pQMcKJCJYQjVi.gif)
+![无序列表卡片样式.gif](https://cdn.pkmer.cn/images/%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8%E5%8D%A1%E7%89%87%E6%A0%B7%E5%BC%8F.gif!pkmer)
+![234.gif](https://cdn.pkmer.cn/images/234.gif!pkmer)
 
 没用过之前的版本，不会 quickadd 插件的用法也没有关系，以下是整个新版本的完整介绍，以及 quickadd 脚本的跟练式配置教程。
 
@@ -34,14 +35,14 @@ modified: 20240812001744
 
 本 css 具有以下特点 ：
 
-1. **支持多种样式：** 本 css 主要针对 obsidian 的无序列表优化，主要有 4 种效果可以选择： **无序 - 时间轴阅览**、**无序 - 表格化阅览** 、**无序 - 单卡片视图** 、 **无序 - 卡片化阅览**
-2. **可定制性强：** 支持使用 style setting 中根据自己的需要调整效果，同时支持在文章中使用：cssclass 控制特定文件的样式
+1. **支持多种样式：** 本 css 主要针对 obsidian 的无序列表优化，主要有 4 种效果可以选择： **无序 - 时间轴阅览**、**无序 - 表格化阅览** 、**无序 - 单卡片视图** 、 **无序 - 卡片化阅览**
+2. **可定制性强：** 支持使用 style setting 中根据自己的需要调整效果，同时支持在文章中使用：cssclass 控制特定文件的样式
 
 ## 3.基础效果说明
 
 ### 无序 - 时间轴阅览
 
-![97e3db6587cc576a42f50cfc5bac4736|690x436](upload://eKsSsUqWlS7KI5pOS3G78ZTcDg2.png)
+![无序列表时间轴.png](https://cdn.pkmer.cn/images/%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8%E6%97%B6%E9%97%B4%E8%BD%B4.png!pkmer)
 
 在属性的 cssclasses 中配置【无序 - 时间轴阅览】后会将无序列表渲染为时间轴模式，以下参数可以同时存在：
 
@@ -57,11 +58,11 @@ modified: 20240812001744
 - 看板模式：无序 - 表格化阅览 - 看板，配置后激活效果
 - 表格列合并模式：无序 - 表格化阅览 - 下，配置后激活效果
 
-![无序表格化阅览|690x483](upload://tryuKfOqkwllgu3ym7mMzmGtF0E.png)
+![无序列表表格化阅览.png](https://cdn.pkmer.cn/images/%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8%E8%A1%A8%E6%A0%BC%E5%8C%96%E9%98%85%E8%A7%88.png!pkmer)
 
 注：值得注意的是，在这 3 个效果模式外，【无序 - 表格化阅览】这个模式还有一个特殊的参数：**自适应模式**，顾名思义是可以支持表格的自适应效果。具体如下图所示：
 
-![自适应效果|690x329](https://cdn.pkmer.cn/optimized/1X/7EieMzeCwS5I5AIpAxLTf8TZ8z5.png?dl=1)
+![示意图1.png](https://cdn.pkmer.cn/images/%E7%A4%BA%E6%84%8F%E5%9B%BE1.png!pkmer)
 
 ### 无序 - 单卡片阅览
 
@@ -70,7 +71,7 @@ modified: 20240812001744
 - 默认效果：无序 - 单卡片阅览，配置后激活效果。默认效果自动适配界面宽度，会根据界面宽度来调整一页内显示多少列卡片。
 - 控制界面显示数列的参数：无序 - 单卡片阅览 -X（x 为 1-4 的整数）。
 
-![无序单卡片阅览|690x437](upload://3PxWYvvhqSDE9oDauouNmtl00Ip.png)
+![无序单卡片.png](https://cdn.pkmer.cn/images/%E6%97%A0%E5%BA%8F%E5%8D%95%E5%8D%A1%E7%89%87.png!pkmer)
 
 ### 无序 - 卡片化阅览
 
@@ -80,9 +81,11 @@ modified: 20240812001744
 - 无序 - 卡片化阅览 -1：配置后激活效果，从第 1 层级开始展开
 - 无序 - 卡片化阅览 -2：配置后激活效果，从第 2 层级开始展开
 
-![无序卡片化阅览|690x403](upload://2H0DjiFMSD6vc22khXX8N1P6KfW.jpeg)
+![无序卡片号.png](https://cdn.pkmer.cn/images/%E6%97%A0%E5%BA%8F%E5%8D%A1%E7%89%87%E5%8F%B7.png!pkmer)
 
-注：值得注意的是，在这 3 个效果模式外，【无序 - 卡片化阅览】这个模式还有一个特殊的参数用来**控制界面显示卡片列数**，当前支持的列数为 2-4 列，配置反思为在**cssclass 中额外添加：无序 -X 列（X=二、三、或四）**。即无序 - 二列、无序 - 三列、无序 - 四列 ![分裂效果展示|428x500](upload://glB2DXAhGW8zDIWKHnStv1EmhMZ.png)
+注：值得注意的是，在这 3 个效果模式外，【无序 - 卡片化阅览】这个模式还有一个特殊的参数用来**控制界面显示卡片列数**，当前支持的列数为 2-4 列，配置反思为在**cssclass 中额外添加：无序 -X 列（X=二、三、或四）**。即无序 - 二列、无序 - 三列、无序 - 四列
+
+![无序x列.png](https://cdn.pkmer.cn/images/%E6%97%A0%E5%BA%8Fx%E5%88%97.png!pkmer)
 
 ## 4.style setting
 
@@ -90,7 +93,7 @@ modified: 20240812001744
 
 附 1：style setting 设置界面样式
 
-![style setting界面|354x500](upload://onLbbyBlTnIiUaKBCSqDK3kLkoQ.png)
+![设置界面.png](https://cdn.pkmer.cn/images/%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2.png!pkmer)
 
 ## 5.quickadd 脚本
 
@@ -99,7 +102,7 @@ modified: 20240812001744
 - [PKMer_Obsidian 插件：QuickAdd 自动化操作的编辑器]( https://pkmer.cn/show/20230508001129 )
 - [PKMer_Obsidian 插件：Commander 添加自定义功能按钮]( https://pkmer.cn/show/20230329145312 )
 
-![无序-卡片化阅览快速切换css的js脚本展示|603x500](upload://6DgzaktqiHQte6pQMcKJCJYQjVi.gif)
+![](css片段效果图.gif)
 
 由于 **Quickadd 插件**属于很实用，但是属于公认的折腾，以下我会比较详细地介绍怎么配置。比较熟悉这个插件的朋友们直接查看具体的 quick 脚本。
 
@@ -138,31 +141,33 @@ module.exports = async (params) => {
 };
 ```
 
-1. 在 Quickadd 插件中将模板的位置设置为 js 文件夹所在的位置 ![设置模板文件位置|690x474](upload://b08BioGlFwnjmh325Fx7ZEdPKZB.png)
+1. 在 Quickadd 插件中将模板的位置设置为 js 文件夹所在的位置![js文件所在位置.png](https://cdn.pkmer.cn/images/js%E6%96%87%E4%BB%B6%E6%89%80%E5%9C%A8%E4%BD%8D%E7%BD%AE.png!pkmer)
 
 ### 5.12 利用 Quickadd 插件调用 js 文件
 
-1. 打开 quickadd 插件的设置界面，点击 `Manage Macros` 按钮 ![点击 manage macro 按钮|690x464](upload://p2nrf0fsYyn42IgoryCCS81cVI3.png)
-2. 给新建的宏命名，本处以：【无序列表 - 快捷切换】为例，点击 `Add macro` 按钮。
+1. 打开 quickadd 插件的设置界面，点击 `Manage Macros` 按钮
+![Manage Macros.png](https://cdn.pkmer.cn/images/Manage%20Macros.png!pkmer)
 
-   * 新安装插件的话会发现界面是空的![Pasted image 20240718213923|572x500](upload://kYGszrLUk5WhksfXxwAb9ZbW6UP.png)
-   * 成功添加后的效果：![Pasted image 20240718230139|570x500](upload://zp3oFzCexpl21gcYR8LqN0Y9KNs.png)
+2. 给新建的宏命名，本处以：【无序列表 - 快捷切换】为例，点击 `Add macro` 按钮。
+    - 新安装插件的话会发现界面是空的![`Add macro`.png](https://cdn.pkmer.cn/images/%60Add%20macro%60.png!pkmer)
+    - 成功添加后的效果：
+3. 点击 `Configure` 按钮进入如下界面，选择相应的 js 文件，点击 `add` !![无序列表快速切换.png](https://cdn.pkmer.cn/images/%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8%E5%BF%AB%E9%80%9F%E5%88%87%E6%8D%A2.png!pkmer)
+4. 回到 quickadd 初始界面，新建一个命令，此处以：【无序列表快捷切换】为例![创建命令.png](https://cdn.pkmer.cn/images/%E5%88%9B%E5%BB%BA%E5%91%BD%E4%BB%A4.png!pkmer)
+5. 成功添加命令后，会发现初始界面最上方多了一行命令，点击设置的图标，可以调整调整命令的参数，具体如图所示![参数设置.png](https://cdn.pkmer.cn/images/%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE.png!pkmer)
+6. **点亮的小闪电，正式启动命令。（这一步真的巨容易漏）**![小闪电.png](https://cdn.pkmer.cn/images/%E5%B0%8F%E9%97%AA%E7%94%B5.png!pkmer)
 
-3. 点击 `Configure` 按钮进入如下界面，选择相应的 js 文件，点击 `add` ! ![Pasted image 20240718230721|622x500](upload://9EXeopYx0CcuhweTWo6jsj7g29c.png)
-4. 回到 quickadd 初始界面，新建一个命令，此处以：【无序列表快捷切换】为例 ![Pasted image 20240718231049|690x233](upload://x1fwjIT7mIhT5pltjfA2j2H1urH.png)
-5. 成功添加命令后，会发现初始界面最上方多了一行命令，点击设置的图标，可以调整调整命令的参数，具体如图所示 ![调整命令的具体参数|588x500](upload://cThK5vIC2G3P37FdPRhxcBAsOrC.png)
-6. **点亮的小闪电，正式启动命令。（这一步真的巨容易漏）** ![点亮小闪电|690x144](upload://vXGO9RGu6W0ZSHMNS8ngMfhqQRe.png)
-
-
-- 成功启动后，我们会发现我们可以在命令面板中搜到之前这个命令：![命令面板|690x194](https://cdn.pkmer.cn/original/1X/kCrQcBxd2BQja8C7zOoo7GLO1px.png)
+- 成功启动后，我们会发现我们可以在命令面板中搜到之前这个命令：![添加quickadd命令.png](https://cdn.pkmer.cn/images/%E6%B7%BB%E5%8A%A0quickadd%E5%91%BD%E4%BB%A4.png!pkmer)
 
 ### 5.2 使用 Commander 插件在界面上创建一个图标
 
-1. 在你想要添加图标的地方点击添加命令，此处以页首为例：![页首|690x368](upload://saSNiG1sZjvyJlMRFtpgk9EXqHC.png)
-2. 在弹出的界面中，搜索并选中【5.1 使用 quickadd 添加一个命令】中我们创建的命令，即：无序列表快速切换。![Pasted image 20240718232634|690x198](upload://5f3obQKcOAI5yTgDd9uulSHYha0.png)
-3. 系统会提示可以挑选：图标与自定义命令别称 ![挑选图标|569x500](upload://e4Es3WRIxOwRbi1urwVcId9IH0o.png) ![自定义名称|690x84](upload://lBgD7QQFtw85zISHLycRpFFnaCi.png)
-4. 成功使用 Commander 插件在界面上创建一个图标，完结撒花~~
-![Pasted image 20240718233148|387x271](upload://fgQi3pAc8u45XyOKM5Apm7gc5eO.png)
+1. 在你想要添加图标的地方点击添加命令，此处以页首为例：![commander界面.png](https://cdn.pkmer.cn/images/commander%E7%95%8C%E9%9D%A2.png!pkmer)
+2. 在弹出的界面中，搜索并选中【5.1 使用 quickadd 添加一个命令】中我们创建的命令，即：无序列表快速切换。![使用 quickadd 添加一个命令.png](https://cdn.pkmer.cn/images/%E4%BD%BF%E7%94%A8%20quickadd%20%E6%B7%BB%E5%8A%A0%E4%B8%80%E4%B8%AA%E5%91%BD%E4%BB%A4.png!pkmer)
+3. 系统会提示可以挑选：图标与自定义命令别称
+![挑选图标.png](https://cdn.pkmer.cn/images/%E5%88%87%E6%8D%A2%E7%95%8C%E9%9D%A2.png!pkmer)
+
+![挑选图标.png](https://cdn.pkmer.cn/images/%E6%8C%91%E9%80%89%E5%9B%BE%E6%A0%87.png!pkmer)
+
+1. 成功使用 Commander 插件在界面上创建一个图标，完结撒花~~ ![图标.png](https://cdn.pkmer.cn/images/%E5%9B%BE%E6%A0%87.png!pkmer)
 
 ## 6.css 片段
 

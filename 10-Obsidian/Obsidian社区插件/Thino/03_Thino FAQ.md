@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240725093737
+modified: 20240828101613
 id: f94eee26b8f42cdf
 ---
 
@@ -175,6 +175,12 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 - 原因 1：使用了 obsidian-iconize 插件，iconize 已经更新兼容，更新最新版本即可
 - 原因 2：在单个文件中使用过多的 callout，callout 本身的渲染性能在宿主编辑器中有障碍，可以等待 Obsidian 官方修复或暂时减少 callout 在单一文件或者集中化使用
+
+#### 为什么 Thino 界面会显示错位
+
+- 如图
+- 原因： 这是因为 [[smart-gantt]] 插件对 Obsidian 内元素做操作导致的，关闭即可，并不影响使用
+![](https://cdn.pkmer.cn/images/20240828101458.png!pkmer)
 
 ### 分享
 
