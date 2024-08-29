@@ -1,27 +1,23 @@
 ---
-tags:
-  - AI
-  - Obsidian
-  - folder
-  - prompt
-  - structure
-  - script
-  - directory
-  - batch
+uid: 20240829211902
+title: 利用 AI 构建完美的 Obsidian 资料库结构
+tags: [AI, Obsidian, folder, prompt, structure, script, directory, batch]
+description: 
+author: Victor
+type: other
+draft: false
+editable: false
+modified: 20240829212354
 version: "1.0"
 ---
-# 利用 AI 构建完美的 Obsidian 资料库结构
-## 版本历史
 
-| 时间         | 版本                      |
-| ---------- | ----------------------- |
-| 2024-08-13 | `[!!\|ghb>release:0.1]` |
-| 2024-08-22 | `[!!\|ghb>release:0.2]` |
-| 2024-08-29 | `[!!\|ghb>release:1.0]` |
+# 利用 AI 构建完美的 Obsidian 资料库结构
 
 ## 使用说明
 
 Obsidian 是强大的知识管理工具，每个忙碌的人都想拥有一个完善的知识库。如何创建一个精致而完美的知识库结构，对浩如烟海的信息分门别类呢？我们可以借助 AI 来完成这个任务。
+
+![6f6aa644b5a148477804e64eb777190d.png|400](https://cdn.pkmer.cn/images/202408292123695.png!pkmer)
 
 本文使用的是 ChatGPT-4o 作为 AI 工具。当然你也可以选用国产的平替，例如 [文心一言](https://yiyan.baidu.com/) 或 [Kimi](https://kimi.moonshot.cn/)。
 
