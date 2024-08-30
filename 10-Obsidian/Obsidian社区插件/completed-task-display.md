@@ -7,7 +7,7 @@ author: AI
 type: readme
 draft: false
 editable: false
-modified: 20230911104633
+modified: 20240830191333
 ---
 
 # Obsidian 插件：Completed Task Display
@@ -26,7 +26,9 @@ modified: 20230911104633
 
 ## 效果&特性
 
-![Obsidian 插件：Completed Task Display](https://cdn.pkmer.cn/images/234.gif!pkmer)
+![Obsidian 插件：Completed Task Display]
+
+![Obsidian 插件：Completed Task Display|700](https://cdn.pkmer.cn/images/Completed%20Task%20Display.gif!pkmer)
 
 - 在预览模式下，添加了一个新的按钮，允许全局隐藏或显示已完成的任务。
 

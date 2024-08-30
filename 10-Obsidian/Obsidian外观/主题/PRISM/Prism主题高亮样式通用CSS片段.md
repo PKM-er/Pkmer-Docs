@@ -1,13 +1,13 @@
 ---
 uid: 20230825122643
 title: Prism 主题高亮样式通用 CSS 片段
-tags: []
-description: 
+tags: [Obsidian, 主题, Prism, 美化]
+description: Prism 主题高亮样式通用 CSS 片段
 author: 奇货队长
 type: other
 draft: false
 editable: false
-modified: 20230825123553
+modified: 20240830191717
 ---
 
 # Prism 主题高亮样式通用 CSS 片段
@@ -43,7 +43,7 @@ Prism 主题的高亮样式长这样：
 
 效果是这样的
 
-![Prism主题高亮样式设置|925](https://cdn.pkmer.cn/images/234.gif!pkmer)
+![Prism高亮设置.gif|1200](https://cdn.pkmer.cn/images/Prism%E9%AB%98%E4%BA%AE%E8%AE%BE%E7%BD%AE.gif!pkmer)
 
 将以下片段放入到 ob 库的. obsidian/snippets 文件夹中，然后加载此 CSS 片段就可以了
 

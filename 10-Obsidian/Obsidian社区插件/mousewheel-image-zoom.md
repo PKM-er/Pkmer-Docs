@@ -28,7 +28,7 @@ Mousewheel Image zoom 很好解决了频繁输入，和快速感知图片调整�
 
 ## 效果&特性
 
-![Obsidian 插件：Mousewheel Image zoom 通过鼠标滚轮快速调整图片大小](https://cdn.pkmer.cn/images/234.gif!pkmer)
+![Mousewheel Image zoom.gif|600](https://cdn.pkmer.cn/images/Mousewheel%20Image%20zoom.gif!pkmer)
 
 - 能够通过按住快捷键，在编辑/阅读模式下通过滚轮来调节图像的大小
 - 触发快捷键可配置
