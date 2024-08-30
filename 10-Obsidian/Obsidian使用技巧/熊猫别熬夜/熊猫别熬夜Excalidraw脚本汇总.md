@@ -201,9 +201,26 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 ```
 
 - Author：熊猫别熬夜
-- PKMerDoc：[[自定义Excalidraw脚本-将选中元素为PNG或者SVG格式文件到本地]]
+- PKMerDoc：[自定义 Excalidraw 脚本 - 将选中元素为 PNG 或者 SVG 格式文件到本地]( https://pkmer.cn/show/20240401215647 )
 - Description：将选中的元素保存为 PNG 或者 SVG 格式本地文件，相当于网页版 Excalidraw 的导出仅选中图片。
-	- ![2024-03-06_熊猫别熬夜Excalidraw脚本汇总-Excalidraw自动检测更新_IMG-20](https://cdn.pkmer.cn/images/202404012157074.gif!pkmer)
+	- ![File-20240401094628708.gif](https://raw.githubusercontent.com/PandaNocturne/ImageAssets/main/Obsidian/202408172318639.gif)
+	- Tip: 如果未选择元素则自动选中画板内全部元素，以及如果选中的是 Frame 框架，则自动选择 Frame 内部所有元素。
+- ChangeLog：
+	- 24.08.21：更新了UI
+		- ![Excalidraw.md](https://cdn.pkmer.cn/images/202408281302056.png!pkmer)
+	- 24.08.28：添加`Copy as Wiki`按钮，将图片自动生成在ob的默认附件位置，并复制`![[filename]]`文本至剪切板，相较于自带的`Copy to clipboard as PNG/SVG`，可随时调节PNG的缩放比例，调整清晰度。
+		- ![Excalidraw.md](https://cdn.pkmer.cn/images/202408281302700.png!pkmer)
+
+### RemoveBg
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/RemoveBg.md
+```
+
+- Author：熊猫别熬夜
+- PKMerDoc：[[自定义Excalidraw脚本-抠图脚本remove.bg]]
+- Description：采用[Remove.bg](https://www.remove.bg/zh/g/developers)的API来对Excalidraw中的图片进行抠图。
+	- ![Excalidraw.md](https://cdn.pkmer.cn/images/202408281302659.png!pkmer)
 
 ## 画布演示
 
