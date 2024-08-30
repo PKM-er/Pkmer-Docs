@@ -111,5 +111,6 @@ modified: 20240806215746
 - [[通过简悦Simpread进行网页剪藏的折腾分享]]
 - [[MarginNote生成页码链接与Obsidian联动]]
 - [[如何在浏览器中打开Markdown笔记]]
+- [[如何在Obsidian中使用Gist]]
 
 
