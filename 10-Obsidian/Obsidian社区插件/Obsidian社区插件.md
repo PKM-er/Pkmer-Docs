@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240823150654
+modified: 20240902175329
 ---
 
 # Obsidian 社区插件
@@ -64,8 +64,9 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[pkmer]]：PKMer 不需要魔法，完美解决 Obsidian 无法加载第三方插件
 - [[obsidian42-brat]]：让你可以安装未上架的插件、主题
+- [[plugin-manager]]：启动顺序和时间由你掌握，插件重度用户的福音
+- [[lazy-plugins]]：Lazy Plugin Loader 插件重度用户的福音，Obsidian 启动缓慢终结者
 - [[plugins-galore]]：
-- [[plugin-manager]]：
 
 ### 编辑增强
 
