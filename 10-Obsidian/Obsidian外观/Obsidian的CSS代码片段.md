@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240426093024
+modified: 20240905145641
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -107,6 +107,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-调整图片不同布局样式]]
 - [[Obsidian样式-如何让插入笔记中的图片水平居中]]
 - [[Obsidian样式-hover出现图片描述]]
+- [[Obsidian样式-限制笔记内的所有图片宽度]]
 
 ### callout
 
