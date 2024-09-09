@@ -65,12 +65,16 @@ body {
   --float-snw-display: none;
 }
 
-.view-content .markdown-source-view,
+/* .view-content .markdown-source-view, */
 .view-content .markdown-preview-sizer {
-  div {
+  div:has(img)::before,
+  div:has(img)::after {
     content: " ";
-    display: content;
     clear: both;
+  }
+
+  div:has(img)::after {
+    display: table;
   }
 
   span[alt="O"] img {
@@ -132,3 +136,4 @@ body {
 	- 新增行内显示模式，调用格式为： `![[image.png|I]]`，像emoji一样将图片嵌入至文档内。
 		- ![image.png](https://cdn.pkmer.cn/images/202409091457490.png!pkmer)
 	- 图片浮动格式设置为 `![[image.png|OL|200x200]]` 这种类型了，图片大小可以不加，直接 `![[image.png|L]]` 这样就行。
+		- 图片与要并排的文字之间不要有空行就行。
