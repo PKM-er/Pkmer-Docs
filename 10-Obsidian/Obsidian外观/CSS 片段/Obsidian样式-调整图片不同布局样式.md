@@ -57,7 +57,7 @@ modified: 20240909145310
 
 ```css
 /* 片段来自：pkmer知识管理交流群，@熊猫别熬夜*/
-/* 将所有图片默认居中 */
+
 /* === Image Float === */
 body {
   --float-left-margin: 4px 12px 4px 12px;
@@ -65,18 +65,24 @@ body {
   --float-snw-display: none;
 }
 
-/* .view-content .markdown-source-view, */
 .view-content .markdown-preview-sizer {
   div:has(img)::before,
   div:has(img)::after {
     content: " ";
     clear: both;
+
+    &>div:has(ol) {
+      clear: none;
+    }
   }
 
   div:has(img)::after {
     display: table;
   }
+}
 
+.view-content .markdown-source-view,
+.view-content .markdown-preview-sizer {
   span[alt="O"] img {
     object-fit: cover;
     border-radius: 50%;
@@ -118,7 +124,7 @@ body {
     display: inline !important;
   }
 
-  /* 行内显示，像emoji一样显示 */
+  /* 行内显示 */
   span[alt="I"] img:not([width]) {
     float: unset;
     text-align: left;
@@ -129,6 +135,30 @@ body {
     display: inline !important;
   }
 }
+
+/* Banner图片 */
+p:has(span[alt="banner"]) {
+  column-span: all;
+  margin: 0;
+  /* margin-bottom: 15px; */
+  padding: 0;
+  overflow: hidden;
+  user-select: none;
+  /* pointer-events: none; */
+}
+
+span[alt="banner"] img {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  ;
+  height: 200px;
+  /* 抄自https://geek-docs.com/css/css-tutorials/t_adding-a-mask-to-an-image-using-css.html */
+  mask-image: linear-gradient(to top,
+      transparent 50%,
+      var(--background-primary) 50%);
+}
+
 
 ```
 
