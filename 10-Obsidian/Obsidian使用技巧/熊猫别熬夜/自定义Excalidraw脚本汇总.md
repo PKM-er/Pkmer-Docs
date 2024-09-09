@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240908194434
+modified: 20240909130006
 ---
 
 # 自定义 Excalidraw 脚本汇总介绍
@@ -54,6 +54,18 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 - Description：方便你从非官方脚本市场的 Github 仓库中获取和管理 Excalidraw 脚本的小工具。通过这个脚本，你可以轻松安装、更新和编辑脚本市场的 URL 链接，并在不同的脚本市场之间快速切换。
 	- ![自定义Excalidraw脚本汇总.png](https://cdn.pkmer.cn/images/202409081943844.png!pkmer)
 	- ![自定义Excalidraw脚本汇总.png](https://cdn.pkmer.cn/images/202409081943820.png!pkmer)
+
+### FameAutoSize
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/FameAutoSize.md
+```
+
+- Author：熊猫别熬夜
+- Doc：[[自定义Excalidraw脚本-Frame框架自适应大小]]
+- Description：将“frame”的大小和位置自适应到其中包含的元素。
+	- ![24.06.18_Excalidraw脚本-Frame框架自适应大小.md](https://cdn.pkmer.cn/images/202409091300380.gif!pkmer)
+
 
 ### QuickSwitchFrame
 
