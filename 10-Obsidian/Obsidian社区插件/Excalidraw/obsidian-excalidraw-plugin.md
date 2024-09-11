@@ -142,7 +142,8 @@ Excalidraw 在早期是有很多问题的，比如没有手写压感，插图太
 
 > EA 脚本开发的介绍： [[ExcalidrawAutomate index]]
 
-- [[熊猫别熬夜Excalidraw脚本汇总-Excalidraw自动检测更新]]
+- [[自定义Excalidraw脚本汇总]]
+- [[Excalidraw Script Install Market：轻松管理和获取 Excalidraw 脚本]]
 
 ### CSS 美化
 

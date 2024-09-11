@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240426093024
+modified: 20240910165513
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -49,8 +49,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ### 界面元素
 
-- [[Obsidian样式-像VSCode一样显示搜索替换框]]
-- [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-悬浮两侧菜单栏]]
 - [[Obsidian样式-悬浮侧边栏自动弹出，提升工作流效率]]
 - [[Obsidian样式-专注标签页边框]]
@@ -58,6 +56,11 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-给Obsidian设置护眼的暖色模式]]
 - [[Obsidian样式-多行标签页堆叠显示]]
 - [[Obsidian样式-全宽的图谱搜索框样式]]
+
+### 大纲 (Outline)
+
+- [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
+- [[Obsidian样式-核心大纲outline标题显示自动编号]]
 
 ### 编辑器
 
@@ -107,6 +110,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-调整图片不同布局样式]]
 - [[Obsidian样式-如何让插入笔记中的图片水平居中]]
 - [[Obsidian样式-hover出现图片描述]]
+- [[Obsidian样式-限制笔记内的所有图片宽度]]
 
 ### callout
 

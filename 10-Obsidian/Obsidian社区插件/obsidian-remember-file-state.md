@@ -1,25 +1,25 @@
 ---
 uid: 20230822233941
-title: Obsidian 插件：Remember File State 记住每个笔记的浏览位置
+title: Obsidian 插件：Remember File State 记住每个笔记的视图状态
 tags: [obsidian插件]
 description: 记住每个文件的光标位置、选择、滚动等等
 author: OS
 type: basic
 draft: false
 editable: false
-modified: 20230914150743
+modified: 20240810005534
 ---
 
-# Obsidian 插件：Remember File State 记住每个笔记的浏览位置
+# Obsidian 插件：Remember File State 记住每个笔记的视图状态
 
 ## 概述
 
-记住每个文件的光标位置、选择、滚动等等
+记住每个文件的视图状态
 
 > [!Note] 插件名片
 > - 插件名称：Remember File State
 > - 插件作者：Ludovic Chabant
-> - 插件说明：记住每个文件的光标位置、选择、滚动等等
+> - 插件说明：记住每个笔记的视图状态
 > - 插件分类：['obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/ludovicchabant/obsidian-remember-file-state)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-remember-file-state)

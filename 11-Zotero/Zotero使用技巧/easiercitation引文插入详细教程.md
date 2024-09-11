@@ -7,7 +7,7 @@ author: wang
 type: other
 draft: false
 editable: false
-modified: 20231213110433
+modified: 20240830185125
 ---
 
 # easiercitation 引文插入详细教程
@@ -86,7 +86,5 @@ Make Zotero's citation in Word easier and clearer(github.com)]
 	- 每次样式更改后将样式应用到参考文献，实现**一键规范**
 	- 可建立样式集，实现样式的重复使用
 	- 示例
-![234.gif](https://cdn.pkmer.cn/images/234.gif!pkmer)
-
 
 

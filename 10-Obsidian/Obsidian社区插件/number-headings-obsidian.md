@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20230911162401
+modified: 20240803174840
 ---
 
 # Obsidian 插件：Number Headings 给笔记中的标题自动编号，以及动态目录
@@ -88,6 +88,10 @@ Tips：如果发现没有自动变更编号，可以使用保存快捷，保存�
 ```YAML
 number headings: first-level l, start-at 2, max 6, l.l, auto, contents ^toc
 ```
+
+## 视频教程
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1156399225&bvid=BV1zZ421N7dz&cid=1624680821&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"></iframe>
 
 > [!Tip] 相关推荐
 > - [[creases]]：给 Obsidian 的标题增加折叠和展开的功能。

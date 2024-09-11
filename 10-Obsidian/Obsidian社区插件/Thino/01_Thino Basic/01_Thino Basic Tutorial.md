@@ -1,16 +1,13 @@
 ---
 uid: 20231109234443
 title: Thino 基础使用教程
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino 基础使用教程
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240523231913
+modified: 20240805222428
 id: f7d5cb726ba66f91
 ---
 
@@ -62,3 +59,20 @@ Thino 目前的功能&服务体系如下，用户可以根据自己需求进行�
 - [[Thino Share|分享]]
 - [[Thino DatePicker|日期选择器]]
 
+## 基础界面
+
+### 经典视图 classic
+
+![image.png](https://cdn.pkmer.cn/images/20240805220714.png!pkmer)
+
+### 现代视图 modern
+
+![image.png](https://cdn.pkmer.cn/images/20240805220807.png!pkmer)
+
+## 设置
+
+Thino 大部分自定义和核心功能设置，都放在了插件设置里面，不同于其他插件，Thino 不光可以通过进入 Obsidian 的第三方插件列表中，点击设置按钮。Thino 提供了更多快捷方式，进行设定。
+
+你可以通过点击，如图位置，或者点击 Thino 图标直接进入设置，而无需进入 Obsidian 设置寻找
+
+![image.png|400](https://cdn.pkmer.cn/images/20240805221029.png!pkmer)

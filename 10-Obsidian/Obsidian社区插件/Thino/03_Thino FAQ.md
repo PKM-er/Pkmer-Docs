@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240723230829
+modified: 20240828101613
 id: f94eee26b8f42cdf
 ---
 
@@ -55,7 +55,7 @@ P.S. 这个收费更类似于 Obsidian Insider 的逻辑
 
 ## Thino 参加早鸟/内测，如何获得
 
-- 早期为了激励 PKMer 社区作者，社区无条件相信了很多作者，免费发放 2.0.x 版本，这里指的无条件发放是指，不管作者是否真的已经开始贡献。
+- 早期为了激励 PKMer 社区作者，社区无条件相信了很多作者，免费发放 2.0.x 版本，这里指的无条件发放，是指不管作者是否真的已经开始贡献。
 - 2.1 更名 Thino 及以后，会以强调社区贡献质量和稳定性为主，针对优质贡献者发放。这主要是平衡贡献者的不均匀，或者是早鸟用户和贡献者不均的现象。
 
 ## Thino 与 PKMer 组织的关系？
@@ -175,6 +175,12 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 - 原因 1：使用了 obsidian-iconize 插件，iconize 已经更新兼容，更新最新版本即可
 - 原因 2：在单个文件中使用过多的 callout，callout 本身的渲染性能在宿主编辑器中有障碍，可以等待 Obsidian 官方修复或暂时减少 callout 在单一文件或者集中化使用
+
+#### 为什么 Thino 界面会显示错位
+
+- 如图
+- 原因： 这是因为 [[smart-gantt]] 插件对 Obsidian 内元素做操作导致的，关闭即可，并不影响使用
+![](https://cdn.pkmer.cn/images/20240828101458.png!pkmer)
 
 ### 分享
 

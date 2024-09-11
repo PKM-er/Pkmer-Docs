@@ -34,6 +34,9 @@ sidebar:
 
 本用户指南优先适用于 2.1.0 及以上的 Thino 版本，而 Thino 前身是 Obsidian-Memos，因此你基于 [[obsidian-memos]] 的经验也可以顺应地沿用到 Thino 中，以下的说明也可以作为查漏补缺的部分，作为一个全面了解 Thino 功能以及其设计的相关文档：
 
+## Thino 初见
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1956373976&bvid=BV1Ky411q7M3&cid=1632361172&p=1&autoplay=flase" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"></iframe>
 ## Thino 对于社区的意义
 
 - Thino 不是纯商业行为产品
@@ -126,7 +129,7 @@ sidebar:
 		- [[Thino工作流实战-Thino与anki的联动]]
 	    - [[Obsidian Thino-基础工作流-日记周记速记的自动化汇总]]
 	    - [[使用简悦 SimpRead 与 Thino 进行联动]]
-	    - [[静读天下摘录批注记录到THino]]
+	    - [[静读天下摘录批注记录到Thino]]
 	- 自定义样式
     - [[Obsidian样式-Thino单文件时间轴样式]]
     - [[Obsidian样式-Thino列表模式日期样式调整]]
