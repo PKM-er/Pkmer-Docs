@@ -7,15 +7,7 @@ author: Moy
 type: other
 draft: false
 editable: false
-modified: 20240816004203
-aliases: []
-create_date: 2024-08-08T23:58
-modified_date: 2024-08-09T11:59
-plugin_name: [使用Dataview创建笔记目录]
-done: true
-finished_date: 2024-08-09
-output: [OB中文论坛]
-output_urls: [https://forum-zh.obsidian.md/t/topic/38371]
+modified: 20240911095148
 ---
 
 # 如何创建动态的笔记目录
@@ -25,7 +17,7 @@ output_urls: [https://forum-zh.obsidian.md/t/topic/38371]
 
 ## 效果
 
-![](Resource/Images/0eb1b90c00533a8e500f98d515161d62.png)
+![](https://cdn.pkmer.cn/images/202409110952715.png!pkmer)
 
 其中，**目录** 里的链接是使用 Dataview JS 脚本自动生成的，会随着笔记内容自动更新。
 
@@ -42,7 +34,7 @@ output_urls: [https://forum-zh.obsidian.md/t/topic/38371]
 
 ## 代码
 
-![](Resource/Images/84a97f08f5808afe8f44527e2b102dd7.png)
+![](https://cdn.pkmer.cn/images/202409110952672.png!pkmer)
 
 第一版：纯列表形式
 

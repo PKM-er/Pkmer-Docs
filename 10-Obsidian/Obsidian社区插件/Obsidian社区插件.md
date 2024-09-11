@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240704233633
+modified: 20240911095925
 ---
 
 # Obsidian 社区插件
@@ -349,6 +349,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[Tab-Switcher]]：使用 Ctrl + Tab 按最近使用的顺序切换选项卡，就像在浏览器中一样
 - [[Vertical-Tabs-View]]：供垂直选项卡视图选项卡可以排序，但更改不会与原始选项卡同步
 - [[home-tab]]：增强新建标签页的功能，在新建标签页增加搜索条。
+- [[note-toolbar]]：自定义顶部菜单栏
 
 ### Property&Front-matter
 
