@@ -385,6 +385,28 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-footnotes]]：方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
 - [[obsidian-tidy-footnotes]]：可以将所有脚注都合并到一个地方，也能给脚注重新排序
 
+### 视图
+
+- [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
+- [[workspaces-plus]]：快速管理不同工作区不同布局对应不同工作流
+- [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
+- [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
+- [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
+- [[zen]]：帮你聚焦，让你的 Obsidian 进入到禅模式
+- [[editor-width-slider]]：允许你在状态栏中使用滑块来快速调整编辑器的行宽/栏宽
+- [[image-window]]：允许在 Obsidian 中使用新窗口中打开图像和笔记
+- [[obsidian-fullscreen-plugin]]：让笔记编辑器变为聚焦模式，或说全屏化
+- [[obsidian-focus-mode]]：为 Obsidian 带来了专注模式
+- [[easy-toggle-sidebars]]：通过自定义按键和手势，达成快速开关侧边栏
+- [[obsidian-hide-sidebars-when-narrow]]：自动根据宽度隐藏侧边栏
+- [[obsidian-auto-hide]]：可以更轻松地折叠（和展开）侧边栏
+- [[easy-toggle-sidebars]]：便捷的控制侧边栏
+- [[obsidian-sidebar-toggler]]：Obsidian 侧边栏的更精细的控制。用于外部窗口管理器。
+- [[Tab-Switcher]]：使用 Ctrl + Tab 按最近使用的顺序切换选项卡，就像在浏览器中一样
+- [[Vertical-Tabs-View]]：供垂直选项卡视图选项卡可以排序，但更改不会与原始选项卡同步
+- [[home-tab]]：增强新建标签页的功能，在新建标签页增加搜索条。
+- [[note-toolbar]]：自定义顶部菜单栏
+
 ### 导出&分享&发布
 
 - [[obsidian-export-image]]：轻松将笔记转换为图片
