@@ -1,9 +1,11 @@
 ---
 uid: 20240823150047
 title: Obsidian 插件：note definitions 创建属于你自己的术语表
-tags: [术语表, Obsidian插件]
+tags:
+  - 术语表
+  - Obsidian插件
 description: note definitions 创建属于你自己的术语表
-author: 
+author: Chenghuang
 type: other
 draft: false
 editable: false
