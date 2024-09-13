@@ -1,5 +1,5 @@
 ---
-uid: 20240603103524
+uid: 20240603103527
 title: Obsidian 插件：Quick Latex for Obsidian
 tags: ['数据处理', '编辑工具', '学习与教育', 'obsidian插件']
 description: 一款简单的插件，用于简化和加速Latex数学输入。
