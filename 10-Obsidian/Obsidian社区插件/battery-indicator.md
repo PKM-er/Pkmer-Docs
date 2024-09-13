@@ -1,7 +1,7 @@
 ---
 uid: 20240907212209
 title: Obsidian 插件：Batteryindicator 给你的 Obsidian 添加电池电量指示器
-tags: ['obsidian插件']
+tags: ['obsidian插件','电池','统计']
 description: Batteryindicator 给你的 Obsidian 添加电池电量指示器
 author: OS
 type: other
@@ -19,7 +19,6 @@ modified: 20240907213734
 > [!Note] 插件名片
 > - 插件名称：Kacper Darowsk
 > - 插件说明：给 Obsidian 的状态栏添加电池电量指示器
-> - 插件分类：[' 插件管理 ', 'obsidian 插件 ']
 > - 插件分类：[' 插件管理 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/Opisek/obsidian-battery-indicator/)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?battery)
