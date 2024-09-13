@@ -1,5 +1,5 @@
 ---
-uid: 20240603103524
+uid: 20240603103525
 title: Obsidian 插件：Plugin Manager 启动顺序和时间由你掌握，插件重度用户的福音
 tags: ['第三方工具集成', '编辑工具', 'obsidian插件']
 description: 管理 Obsidian 插件的启动时间和顺序
