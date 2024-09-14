@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20240913175014
+modified: 20240914105901
 ---
 
 # Obsidian 插件：Quick Cards 为 Obsidian 添加卡片摘要浏览
@@ -57,3 +57,23 @@ Quick Cards 插件就是模拟了很多笔记软件中自带的卡片式浏览�
 
 >[!note] 遗憾
 >遗憾的是，目前的版本，还没有支持在卡片视图上，显示笔记内地图片和富媒体内容
+
+因为是个新插件，所以 UI 细节还有很大的进步空间，这里我们提供了一个修改的样式模板
+
+```css
+.card {
+	padding:1% 1% 1% 1%!important;
+	margin: 2% 2% 2% 3% !important;
+}
+.card .title {
+	font-size: 1.3em !important;
+	margin-bottom:0.5% !important;
+}
+
+.plus {
+	display: flex;
+	height:25px;
+	justify-content: center;
+    align-items: center;
+}
+```
