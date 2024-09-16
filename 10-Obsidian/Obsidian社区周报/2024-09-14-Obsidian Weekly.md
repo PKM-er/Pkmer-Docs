@@ -2,7 +2,7 @@
 uid: 20240916192526
 title: Obsidian Weekly 2024-09-14：文件列表卡片视图与每日自动汇总
 tags: [Weekly, Obsidian]
-description: 
+description: Obsidian Weekly 2024-09-14：文件列表卡片视图与每日自动汇总
 author: 淡水鱼,PKMer
 type: other
 draft: false
