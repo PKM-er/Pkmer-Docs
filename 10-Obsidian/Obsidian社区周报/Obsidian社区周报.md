@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20240909005134
+modified: 20240916201052
 ---
 
 # Obsidian 社区周报
@@ -18,7 +18,8 @@ modified: 20240909005134
 
 更新时间：每周六晚 - 周日
 
-- [[2024-09-06-Obsidian Weekly]]（New！试刊）
+- [[2024-09-14-Obsidian Weekly]]（New！试刊）
+- [[2024-09-06-Obsidian Weekly]]（试刊）
 - [[2024-08-30-Obsidian Weekly]]（试刊）
 - [[2024-08-23-Obsidian Weekly]]（试刊）
 - [[2024-08-16-Obsidian Weekly]]（试刊）
