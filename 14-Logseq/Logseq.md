@@ -3,11 +3,11 @@ uid: 20240914151909
 title: Logseq 笔记软件介绍
 tags: [Logseq, 笔记软件]
 description: Logseq 笔记软件介绍
-author: 1080
+author: '1080'
 type: other
 draft: false
 editable: false
-modified: 20240914152346
+modified: 20240923083058
 ---
 
 # Logseq 笔记软件介绍
@@ -31,8 +31,11 @@ Logseq——作为一个基于本地存储和个人隐私保护的个人知识�
 - [Logseq 数据库版线上体验](https://test.Logseq.com/)
 
 **注：由于 Logseq 正在开发数据库版，所以本教程只介绍数据库版与 md 版共同的特点 (2024.9.13)**
+
 **该教程是根据 md 版撰写**
+
 **版本号小于等于 0.10.9 为 md 版**
+
 **版本号大于等于 0.10.10 为数据库版**
 
 ## 特点
