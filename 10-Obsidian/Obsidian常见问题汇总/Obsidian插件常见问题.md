@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231123191256
+modified: 20241018095040
 ---
 
 # Obsidian 插件常见问题
@@ -15,6 +15,7 @@ modified: 20231123191256
 如果以下内容还不能满足你：
 
 你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
+
 ## 核心插件
 
 ### 模板插件
@@ -45,6 +46,13 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 - 则：在没有对应日期日记文件的时候，Obsidian 会自动帮你创建一个对应日期的日记文件。
 
 ![image.png](https://cdn.pkmer.cn/images/20230607171233.png!pkmer)
+
+### 关系图谱插件
+
+#### 如何在关系图谱汇总不显示图片等其他节点
+
+- 在关系图谱的设置中，关闭 `附件` 显示
+![1729216124402.jpg](https://cdn.pkmer.cn/images/1729216124402.jpg!pkmer)
 
 ## 社区插件
 

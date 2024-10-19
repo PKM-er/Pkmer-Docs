@@ -1,17 +1,13 @@
 ---
 uid: 20240524093802
 title: Thino Web
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - Thino web
+tags: [Obsidian, Obsidian插件, Thino, Thino web]
 description: Thino Web 简易使用说明
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240524110633
+modified: 20241019094118
 id: 801606615ba86d1a
 ---
 
@@ -37,6 +33,17 @@ Thino Web 的使用大体于 Thino 本地版趋同，地址： <https://thino.pk
 
 1. 代码层面 Web 版采用 usememos 的项目的部分代码，并得到了 usememos 项目组的授权。另 PKMer 也是 usememos 的捐助者
 2. 对于编辑器、渲染器以及用户数据存储，写入等核心内容，包括 Thino 才有的体验，都是由 PKMer 以及联合作者们共同完成的，此点已经和 usememos 产生代码层的分离
+
+解决外部内容进入到 Thino 的路径问题，目前规划中至少会有：
+
+- 微信导入 Thino；[[Thino Send Content to Thino From Wechat|微信同步到 Thino]]
+- Web 端输入后同步到本地 Thino；[[Thino Sync|Thino 同步]]
+- 浏览器插件裁剪至 Thino；
+	- [[Thino Capture]]
+	- [Thino-Capture 下载](https://github.com/Quorafind/Thino-Capture-Releases)
+- Telegram、discord 导入 Thino；
+
+而采用外部服务器的实现会更方便解决这些路径问题。
 
 ## 使用
 
