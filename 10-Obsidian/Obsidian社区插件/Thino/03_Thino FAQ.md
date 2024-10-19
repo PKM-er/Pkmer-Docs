@@ -7,7 +7,7 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240828101613
+modified: 20241019094138
 id: f94eee26b8f42cdf
 ---
 
@@ -72,8 +72,10 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 - 微信导入 Thino；[[Thino Send Content to Thino From Wechat|微信同步到 Thino]]
 - Web 端输入后同步到本地 Thino；[[Thino Sync|Thino 同步]]
-- Telegram、discord 导入 Thino；
 - 浏览器插件裁剪至 Thino；
+	- [[Thino Capture]]
+	- [Thino-Capture 下载](https://github.com/Quorafind/Thino-Capture-Releases)
+- Telegram、discord 导入 Thino；
 
 而采用外部服务器的实现会更方便解决这些路径问题。
 
@@ -81,17 +83,17 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 暂时来说，Thino 新的 UI 还在火热设计中，你参与到 IM 群、Github Issue 里的所有建议或者反馈都可能影响 Thino 的发展，所以可以多点来参与到讨论中。
 
-## 已知问题
+## 常见配置和产品思路答疑
 
 ### 设计思考
 
 - 避免不必要监听用户的操作事件，来防止对性能的侵占
-    - Thino 不会监听你的所有输入事件，或者在键盘事件中进行过度插入干预
+    - Thino 不会监听你所有的输入事件，或者在键盘事件中进行过度插入干预，这方面我们很克制，也是对用户安全的考虑
 - 如果其他插件已经实现，那么可能会优先选择和其他优秀插件联动，而不是优先自己做来兼容更多插件
     - 如果 Thino 已经开启，为了保证不多侵占电脑资源，这时候使用卡其悬浮窗等命令会不生效
     - 对于 poper windows 这样的命令，依赖 [Hover Editor 插件](https://pkmer.cn/show/20230507014507) 插件配合
 - 激活问题
-    - 不要使用 Obsidian 中浏览器类插件完成激活，会导致激活失败，当然你可以在激活时候关闭对应插件，激活后重新代开
+    - 不要使用 Obsidian 中浏览器类插件完成激活，会导致激活失败，当然你可以在激活时候关闭对应插件，激活后重新打开
     - 遇到激活问题，但 Thino 依然显示需要验证，可以重新关闭插件页签，重新开启即可
 
 ### 自主排除问题的方法
@@ -117,6 +119,12 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
         - 如果你是在归档中删除某个 Thino，那么它会被移动至回收站中。
         - 因为删除机制的变动，导致删除的内容会处于不同地方，用户极容易自己搞混
         - 因为删除和同步共同作用，导致一些内容在低版本删除后，其他端高版本中仍然存在，并通过同步重新进入
+
+#### 为什么 Thino 浏览器插件提示不可用
+
+- 如图所示：
+![ae31c714aeb88b00308505a153f74cf.jpg|400](https://cdn.pkmer.cn/images/ae31c714aeb88b00308505a153f74cf.jpg!pkmer)
+- 解决：在 Thino 插件设置 -> 进阶 Tab，找到 专业版设置，打开 `启用本地HTTP服务器` 选项
 
 ### 显示异常
 
