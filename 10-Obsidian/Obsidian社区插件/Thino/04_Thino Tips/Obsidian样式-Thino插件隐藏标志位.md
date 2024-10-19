@@ -1,20 +1,17 @@
 ---
 uid: 20240124113835
-title: Obsidian 样式：Thino 插件隐藏标志位
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+title: Obsidian 样式：Thino 插件隐藏同步标志位
+tags: [Obsidian, Obsidian插件, Thino]
 description: Obsidian 插件：Thino 隐藏标志位
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20240429174418
+modified: 20241019151139
 id: 891a3f25cc0170c1
 ---
 
-# Obsidian 样式：Thino 插件隐藏标志位
+# Obsidian 样式：Thino 插件隐藏同步标志位
 
 ## 概述
 
@@ -68,6 +65,24 @@ span.dataview.inline-field-key{
 	display:none;
 }
 span.dataview.inline-field-value{
+	display:none;
+}
+```
+
+### 如何隐藏 kanban 插件中的同步标志位
+
+如果是有同学讲看板和 日记，以及 Thino 联动，当看板的项目列中出现的 子项目包含 Thino 同步标志，如何处理
+
+如图
+
+![image.png](https://cdn.pkmer.cn/images/20241019151123.png!pkmer)
+
+```CSS
+.kanban-plugin__item-markdown .dataview.inline-field-value{
+	display:none;
+}
+
+.kanban-plugin__item-markdown .dataview.inline-field-key{
 	display:none;
 }
 ```
