@@ -26,8 +26,6 @@ modified: 20241026225951
 
 - 基于文件夹中笔记的检索：
 	- 脚本会搜索文件夹内的所有笔记与之关联的图形文件。
-		- 如果当前笔记是 FolderNote 时，会自动展开并展示该文件夹内的所有图形文件。
-		- 如果当前笔记不是 FolderNote，则会显示选择框，默认选中当前笔记的父文件夹。
 	- 特别适配了 Excalidraw，可以直接在可视化界面查看嵌入的图形文件
 	- 不支持 Canvas 文件。
 	- 支持的图形文件类型：`svg, gif, png, jpeg, jpg, webp, mp4`。
@@ -55,11 +53,12 @@ module.exports = async () => {
     listPaths.unshift("当前Index笔记");
     const fileName = path.basename(activeFilePath);
     const isFolderNote = path.basename(path.dirname(activeFilePath)) === fileName.replace(".md", "").replace(".canvas", "");
-    if (isFolderNote) {
-      choicePath = path.dirname(activeFilePath);
-    } else {
-      listPaths.unshift(path.dirname(activeFilePath));
-    }
+    // if (isFolderNote) {
+    //   choicePath = path.dirname(activeFilePath);
+    // } else {
+    //   listPaths.unshift(path.dirname(activeFilePath));
+    // }
+    listPaths.unshift(path.dirname(activeFilePath));
   } catch (error) {
     console.error("获取活动文件路径时出错:", error);
   }
