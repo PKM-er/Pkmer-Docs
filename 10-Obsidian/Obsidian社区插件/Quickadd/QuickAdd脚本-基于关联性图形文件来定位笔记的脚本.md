@@ -36,13 +36,6 @@ modified: 20241026225951
 	- 图片可单击放大。
 	- 每页图片最多有 50 个，大于 50 个则出现换页器。
 
-## 注意事项
-
-- 只会显示当前文件夹内的笔记中引用的图片。
-- 以下情况的图片将不会被显示：
-	1. 引用的笔记不在当前文件夹下。
-	2. 当前文件夹下的图片未被任何笔记引用。
-
 ## QuickAdd Macro
 
 ```js
@@ -54,12 +47,12 @@ module.exports = async () => {
 
   // 获取ob的目录路径
   const listPaths = app.vault.getAllFolders().map(f => f.path);
-  // listPaths.unshift("./");
 
   let choicePath = "";
   // 获取笔记的基本路径
   try {
     const activeFilePath = await app.workspace.getActiveFile().path;
+    listPaths.unshift("当前Index笔记");
     const fileName = path.basename(activeFilePath);
     const isFolderNote = path.basename(path.dirname(activeFilePath)) === fileName.replace(".md", "").replace(".canvas", "");
     if (isFolderNote) {
@@ -84,7 +77,12 @@ module.exports = async () => {
 
   // 获取文件数据
   const files = await app.vault.getFiles();
-  const fileData = getMediaPathsbyFolderPath(files, choicePath, attachmentTypes);
+  let fileData = [];
+  if (choicePath === "当前Index笔记") {
+    fileData = getMediaPathsbyMarkdwonPath(files, attachmentTypes);
+  } else {
+    fileData = getMediaPathsbyFolderPath(files, choicePath, attachmentTypes);
+  }
   console.log(`获取了${fileData.length}个媒体文件`);
   await displayMedia({ fileData, attachmentTypes, itemsPerPage });
 
@@ -345,7 +343,7 @@ module.exports = async () => {
     return filePath[0];
   }
 
-  function getMediaPathsbyFolderPath(files, folderPath, attachmentTypes) {
+  function getMediaPathsbyFolderPath(files, folderPath, attachmentTypes, isolatedFile = true) {
     const selectFiles = folderPath === "./"
       ? files
       : files.filter(file => file.path.startsWith(`${folderPath}`));
@@ -392,7 +390,80 @@ module.exports = async () => {
           });
         }
       });
+
+      // 检查文件本身是否是图片文件
+      const fileExtension = path.extname(file.path).split('.').pop();
+      if (attachmentTypes.includes(fileExtension) && isolatedFile) {
+        allImgs.push({
+          imgPath: file.path,
+          notePath: file.path,
+          position: null,
+          noteName: noteName
+        });
+      }
     }
+
+    const uniqueMedia = [...new Set(allImgs.map(JSON.stringify))].map(JSON.parse);
+    console.log(`找到的唯一图片数量: ${uniqueMedia.length}`);
+    return uniqueMedia;
+  }
+
+  function getMediaPathsbyMarkdwonPath(files, attachmentTypes) {
+    // 获取当前活动文件和缓存的元数据
+    const file = app.workspace.getActiveFile();
+    if (!file) {
+      console.error("无法获取当前活动文件");
+      return [];
+    }
+
+    const cachedMetadata = app.metadataCache.getFileCache(file);
+    if (!cachedMetadata) {
+      console.error("无法获取文件缓存");
+      return [];
+    }
+
+    // 提取链接和嵌入的文件
+    const allLinks = [
+      ...(cachedMetadata.links || []).map(l => l.link),
+      ...(cachedMetadata.embeds || []).map(e => e.link)
+    ];
+
+    const selectFiles = allLinks
+      .map(note => getFilePath(files, note))
+      .filter(Boolean);
+
+    const allImgs = selectFiles.flatMap(filePath => {
+      const file = app.vault.getFileByPath(filePath);
+      const cache = app.metadataCache.getFileCache(file);
+      if (!cache) return [];
+
+      const noteName = path.basename(filePath, path.extname(filePath));
+      const allFileLinks = [
+        ...(cache.embeds || []).map(e => ({
+          link: e.link,
+          position: e.position,
+          noteName: noteName
+        })),
+        ...(cache.links || []).map(l => ({
+          link: l.link,
+          position: l.position,
+          noteName: noteName
+        }))
+      ];
+
+      return allFileLinks
+        .filter(link => attachmentTypes.includes(path.extname(link.link).slice(1)))
+        .map(i => {
+          const imgPath = getFilePath(files, i.link);
+          return imgPath ? {
+            imgPath,
+            notePath: filePath,
+            position: i.position,
+            noteName: i.noteName
+          } : null;
+        })
+        .filter(Boolean);
+    });
 
     const uniqueMedia = [...new Set(allImgs.map(JSON.stringify))].map(JSON.parse);
     console.log(`找到的唯一图片数量: ${uniqueMedia.length}`);
