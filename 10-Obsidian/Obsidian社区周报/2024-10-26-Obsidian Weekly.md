@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20241028001913
+modified: 20241028111614
 ---
 
 # Obsidian Weekly 2024-10-26：非常实用的输入和管理类更新
@@ -70,27 +70,7 @@ modified: 20241028001913
 > - 新增门户的热重载功能
 > - 修复了克隆节点命令
 
-### 未上架插件
-
-> [!Caution]
-> **注意**：下列插件尚未通过代码审查，因而未在 _ 社区插件市场 _ 上架。在安装前，请确保您已充分了解并接受其中涉及的潜在安全风险。
-
-[Weaver v1.0.0 (Pre-release)](https://github.com/vasilecampeanu/obsidian-weaver/releases/tag/1.0.0) By _Vasile Campeanu_
-
-> 将类似 ChatGPT 的界面直接集成到编辑器中。
-> 原作者时隔一年回归，发布了完全重写之后的预发行版本，目前缺少一些以前的功能。
-> - **主题兼容性：** Weave 目前是基于 Minimal 主题开发的，这意味着在使用其他主题时可能会存在兼容性问题。
-> - **移动端支持：** 尚不支持移动版本。
-> - **自定义注意：** 请暂时避免使用 CSS 类自定义聊天界面，因为在公开发布之前，一些类可能会发生变更。
-
-![Weekly-2024-10-26-Pasted image 20241027232950|650](https://cdn.pkmer.cn/images/Weekly-2024-10-26-Pasted%20image%2020241027232950.png!pkmer)
-
-### PKMer 出品
-
-> [!INFO]
-> **PKMer**（[PKMer.cn](https://pkmer.cn/)、[PKMer.net](https://pkmer.net/)）旨在打造东半球强大的知识管理社区。Personal Knowledge Management (PKM) + "er"，其中 "er" 表示人，专注、喜爱个人知识管理工作、追求效率的人们，都可以划入这个行列，希望社区凝聚更多这样的人。
-
-#### [Easy Typing](https://github.com/Yaozhuwa/easy-typing-obsidian/releases/tag/5.5.4) 已更新至 v5.5.4
+[Easy Typing v5.5.4](https://github.com/Yaozhuwa/easy-typing-obsidian/releases/tag/5.5.4) By _yaozhuwa_
 
 - 重构文档，使文档更简洁清晰
 - 增强删除功能添加功能开关，默认开启，可以到设置中关闭。
@@ -126,6 +106,21 @@ modified: 20241028001913
             - 'shell': '#',
             - 'bash': '#',
             - 'powershell': '#',
+
+### 未上架插件
+
+> [!Caution]
+> **注意**：下列插件尚未通过代码审查，因而未在 _ 社区插件市场 _ 上架。在安装前，请确保您已充分了解并接受其中涉及的潜在安全风险。
+
+[Weaver v1.0.0 (Pre-release)](https://github.com/vasilecampeanu/obsidian-weaver/releases/tag/1.0.0) By _Vasile Campeanu_
+
+> 将类似 ChatGPT 的界面直接集成到编辑器中。
+> 原作者时隔一年回归，发布了完全重写之后的预发行版本，目前缺少一些以前的功能。
+> - **主题兼容性：** Weave 目前是基于 Minimal 主题开发的，这意味着在使用其他主题时可能会存在兼容性问题。
+> - **移动端支持：** 尚不支持移动版本。
+> - **自定义注意：** 请暂时避免使用 CSS 类自定义聊天界面，因为在公开发布之前，一些类可能会发生变更。
+
+![Weekly-2024-10-26-Pasted image 20241027232950|650](https://cdn.pkmer.cn/images/Weekly-2024-10-26-Pasted%20image%2020241027232950.png!pkmer)
 
 ## 外观
 
