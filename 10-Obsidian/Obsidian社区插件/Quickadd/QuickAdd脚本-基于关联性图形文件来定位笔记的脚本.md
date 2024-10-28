@@ -37,6 +37,7 @@ modified: 20241026225951
 ## QuickAdd Macro
 
 ```js
+
 module.exports = async () => {
   const quickAddApi = app.plugins.plugins.quickadd.api;
   const path = require('path');
@@ -44,7 +45,8 @@ module.exports = async () => {
   const itemsPerPage = 50;
 
   // 获取ob的目录路径
-  const listPaths = app.vault.getAllFolders().map(f => f.path);
+  const listPaths = await app.vault.getAllFolders().map(f => f.path);
+  // listPaths.unshift("./"); // 获取全部笔记的图片，全部加载比较卡
 
   let choicePath = "";
   // 获取笔记的基本路径
@@ -168,8 +170,6 @@ module.exports = async () => {
   // !显示加载时间
   new Notice(`✔ ${fileData.length}个文件已加载完毕! 加载时间: ${loadTime}秒`);
 
-
-
   async function displayMedia({ fileData, attachmentTypes, itemsPerPage = 10, page: currentPage = 1 }) {
     // !计算总页数
     const totalPages = Math.ceil(fileData.length / itemsPerPage);
@@ -198,6 +198,7 @@ module.exports = async () => {
     cards.forEach(card => cardContainer.appendChild(card));
 
     container.appendChild(cardContainer);
+
 
     // 添加分页控件
     if (fileData.length > itemsPerPage) {
@@ -281,18 +282,23 @@ module.exports = async () => {
 
   function createMediaElement(file, attachmentTypes) {
     let mediaElement;
-    if (file.name.endsWith(".mp4")) {
-      mediaElement = document.createElement("video");
-      mediaElement.src = app.vault.getResourcePath(file);
-      mediaElement.className = "media-element";
-      mediaElement.controls = true;
-    } else if (attachmentTypes.some(ext => file.name.endsWith(ext))) {
-      mediaElement = document.createElement("img");
-      mediaElement.src = app.vault.getResourcePath(file);
-      mediaElement.className = "image-element";
-      mediaElement.addEventListener("click", () => {
-        openMediaInModal(mediaElement.src);
-      });
+    const fileExtension = path.extname(file.path).split('.').pop().toLowerCase();
+    if (attachmentTypes.includes(fileExtension)) {
+      if (fileExtension === "mp4") {
+        mediaElement = document.createElement("video");
+        mediaElement.src = app.vault.getResourcePath(file);
+        mediaElement.className = "media-element";
+        mediaElement.controls = true;
+      } else {
+        mediaElement = document.createElement("img");
+        mediaElement.className = "image-element";
+        mediaElement.src = app.vault.getResourcePath(file);
+        // 实现懒加载
+        mediaElement.loading = 'lazy';
+        mediaElement.addEventListener("click", () => {
+          openMediaInModal(mediaElement.src);
+        });
+      }
     }
     return mediaElement;
   }
@@ -430,6 +436,7 @@ module.exports = async () => {
     const selectFiles = allLinks
       .map(note => getFilePath(files, note))
       .filter(Boolean);
+    selectFiles.push(file.path);
 
     const allImgs = selectFiles.flatMap(filePath => {
       const file = app.vault.getFileByPath(filePath);
