@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240910165513
+modified: 20241102205801
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -34,7 +34,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 ## 视频教程
 
-<iframe src="https://player.bilibili.com/player.html?aid=1103514962&bvid=BV1pw4m1276X&cid=1517644008&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=1103514962&bvid=BV1pw4m1276X&cid=1517644008&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"> </iframe>
 
 ## Obsidian CSS 主题自定义教程
 
@@ -88,6 +88,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian 样式-表格优化]]
 - [[Obsidian样式-笔记内容居左或居中切换]]
 - [[Obsidian样式-分栏分列布局 (Column-Page)]]
+- [[Obsidian样式-在Obsidian内实现网格背景]]
 
 ### 代码块
 
