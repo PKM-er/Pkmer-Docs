@@ -192,9 +192,9 @@ module.exports = {
 
 // 获取文件路径函数
 function getFilePath(files, baseName) {
-    let files2 = files.filter(f => path.basename(f.path).replace(".md", "") === baseName.replace(".md", ""));
-    let filePath = files2.map((f) => f.path);
-    return filePath[0];
+	let files2 = files.filter(f => path.basename(f.path).replace(".md", "") === path.basename(baseName).replace(".md", ""));
+	let filePath = files2.map((f) => f.path);
+	return filePath[0];
 }
 
 
@@ -236,5 +236,6 @@ function matchSelectionEmbed(text) {
 - 2024-04-28_13:42：添加归档文档选项，可在 QuickAdd 设置中调整具体参数
 	- ![QuickAdd脚本-移动子笔记或附件到当前文件夹.png](https://cdn.pkmer.cn/images/202404281344860.png!pkmer)
 	- ![QuickAdd脚本-移动子笔记或附件到当前文件夹.png](https://cdn.pkmer.cn/images/202404281344635.png!pkmer)
-
+- 2024-10-27：优化路径获取函数的脚本
+	- https://forum.pkmer.net/t/topic/1885/5
 

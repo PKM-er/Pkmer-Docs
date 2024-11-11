@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20240417180235
+modified: 20241026225806
 ---
 
 # Obsidian 插件：QuickAdd 自动化操作的编辑器
@@ -74,6 +74,7 @@ modified: 20240417180235
 4. [[QuickAdd脚本-快速打开Plugin或CSS文件]]
 5. [[基于 QuickAdd+Modal Form的任务 (Task) 编辑器]]
 6. [[QuickAdd脚本-带图复制-自动上传图片到图床]]
+7. [[QuickAdd脚本-基于关联性图形文件来定位笔记的脚本]]
 
 ## 参考资料
 
