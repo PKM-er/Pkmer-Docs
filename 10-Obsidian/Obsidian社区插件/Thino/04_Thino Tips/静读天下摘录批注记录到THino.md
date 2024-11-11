@@ -1,7 +1,11 @@
 ---
 uid: 20240322180345
 title: 静读天下摘录批注记录，可联动 Thino
-tags: [Obsidian, Obsidian插件, Thino, memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - memos
 description: 静读天下摘录批注记录
 author: windilycloud
 type: other
