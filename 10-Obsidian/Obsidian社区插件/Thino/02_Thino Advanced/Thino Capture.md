@@ -1,13 +1,17 @@
 ---
 uid: 20241019090126
 title: Thino Capture
-tags: [Thino, web, 浏览器插件]
+tags:
+  - Thino
+  - web
+  - 浏览器插件
 description: Thino Capture，浏览器插件
 author: OS
 type: other
 draft: false
 editable: false
 modified: 20241019094213
+id: df95dd57035b4031
 ---
 
 # Thino Capture

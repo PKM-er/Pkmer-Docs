@@ -1,7 +1,11 @@
 ---
 uid: 20240524093802
 title: Thino Web
-tags: [Obsidian, Obsidian插件, Thino, Thino web]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Thino web
 description: Thino Web 简易使用说明
 author: Bon,PKMer,OS
 type: other
