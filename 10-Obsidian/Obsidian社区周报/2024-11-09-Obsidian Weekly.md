@@ -54,20 +54,6 @@ modified: 20241111133152
 
 #### 新增
 
-[Another Quick Switcher v12.1.0](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/tag/12.1.0) By _tadashi-aikawa_
-
-> - 功能
->     - **主功能：** 添加“关闭已打开”热键命令
->     - **主功能：** 自动别名转换
-> - Bug 修复
->     - **移动：** 当目标文件夹包含同名文件时，移动文件命令无法正常工作
-
-[Pane Relief v0.5.6](https://github.com/pjeby/pane-relief/releases/tag/0.5.6) By _PJ Eby_
-
-> **修复 1.7.5 无法通过热键打开搜索 + 焦点锁定的问题**
-> - 较早版本的 Obsidian 会直接从搜索命令聚焦搜索框，这使得在 Pane Relief 的焦点锁定功能启用时可以使用热键进行搜索。较新版本则在聚焦时受到焦点锁定的影响，因此此次更新增加了一个解决方法，以模拟旧版的行为。
-> - 注意：除去从弹出窗口移除焦点的问题，Obsidian 已修复了大多数焦点锁定旨在解决的 UI 问题，因此可以尝试关闭焦点锁定，看看是否仍然需要该功能。（另一个主要的使用场景是防止“自动显示活动文件”插件不断聚焦文件浏览器窗格。）
-
 [Blue Star](https://obsidian.md/plugins?id=blue-star) By _Wang Guoshi_
 
 > 简化从笔记创建 Anki 抽认卡的过程。
@@ -168,6 +154,20 @@ modified: 20241111133152
 > 复制笔记内容（包括文本和图片）到剪贴板。
 
 #### 更新
+
+[Another Quick Switcher v12.1.0](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher/releases/tag/12.1.0) By _tadashi-aikawa_
+
+> - 功能
+>     - **主功能：** 添加“关闭已打开”热键命令
+>     - **主功能：** 自动别名转换
+> - Bug 修复
+>     - **移动：** 当目标文件夹包含同名文件时，移动文件命令无法正常工作
+
+[Pane Relief v0.5.6](https://github.com/pjeby/pane-relief/releases/tag/0.5.6) By _PJ Eby_
+
+> **修复 1.7.5 无法通过热键打开搜索 + 焦点锁定的问题**
+> - 较早版本的 Obsidian 会直接从搜索命令聚焦搜索框，这使得在 Pane Relief 的焦点锁定功能启用时可以使用热键进行搜索。较新版本则在聚焦时受到焦点锁定的影响，因此此次更新增加了一个解决方法，以模拟旧版的行为。
+> - 注意：除去从弹出窗口移除焦点的问题，Obsidian 已修复了大多数焦点锁定旨在解决的 UI 问题，因此可以尝试关闭焦点锁定，看看是否仍然需要该功能。（另一个主要的使用场景是防止“自动显示活动文件”插件不断聚焦文件浏览器窗格。）
 
 [Quick Explorer v0.2.11](https://github.com/pjeby/quick-explorer/releases/tag/0.2.11) By _PJ Eby_
 
