@@ -3,11 +3,11 @@ uid: 20240120143852
 title: Obsidian 样式 - 用 Callout 实现的边注（注释）
 tags: [obsidian, css, callout, 边注, 注释]
 description: 在 obsidian 中优雅的实现边注
-author: Huajin, alan777
+author: Huajin,alan777
 type: other
 draft: false
 editable: false
-modified: 20241109212127
+modified: 20241123162443
 ---
 
 # Obsidian 样式 - 用 Callout 实现的边注（注释）
@@ -404,43 +404,87 @@ body:not(.top-sidenote-callout-title) .setting-item[data-id="top-right-sidenote-
 }
 ```
 
-## 修改版本
+## alan777 修改版本
 
 基于 Huajin 上面创作的版本，alan777 对片段进行了基于自己使用需求的修改，具体如下：
 
-- 使用 obsidian 自带的 callout 语法，不污染笔记，实现右侧批注。
-- 在编辑和阅读视图中效果一致。
-- 批注框可随显示窗口大小的调整自动适应。
-- 可在指定笔记页面应用，也可以整个库应用。
+主要实现了**单篇笔记双侧边注、单侧边注的自由选择**。
 
-注：
-
-* 代码中只改了 `aside-r` 的位置控制效果，忽略了 `aside-l` 的显示（本人不需要左侧边栏批注）。
-* 如果想要左侧边栏批注，可通过 `.sidenote` 中的 `--file-margins:` 设置页面左侧的 `margins` 值留出空间。
-* 在 minimal 中配置成功，其它 Theme 不明。
-* 如果边栏批注框的位置和大小与你的主题不匹配，可以自行调整参数（见代码注解）
+- 使用 obsidian 自带的 callout 语法，不污染笔记，方便迁移及修改
+- 可以通过 `CSSClasses` 定义笔记是双侧边注，还是单侧边注（右侧或左侧）
+- 编辑模式、阅读模式效果一致
+- 边注框可随显示窗口大小的调整自适应
+- 当边注内容较多时，可用滚动查看（边注框高度可调，见代码注释）
 
 ### 使用效果展示
 
-![](https://cdn.pkmer.cn/images/99ed3ad3b9f0fc07512941f1988c9712.png!pkmer)
+#### 双侧边注
+
+![双侧效果](https://cdn.pkmer.cn/images/6ccd1fa06b47aef1a1b8c56ed03d333d434e4647.png!pkmer)
+
+#### 单侧边注（右侧）
+
+![右侧效果](https://cdn.pkmer.cn/images/220b065cbd5c47e230d0a0e970736e3c6027305e.png!pkmer)
+
+#### 单侧边注（左侧）
+
+![左侧效果](https://cdn.pkmer.cn/images/2c0c940d739d1a13b5b02f59693396f7d8bbfb8f.png!pkmer)
 
 ### 使用方法
 
-在 `properties` 中添加 `cssclasses` 赋值 `sidenote`，然后在正文中直接用边注的 callout 即可，如：
+#### 添加边注
+
+添加好 css 后，在 `properties` 中添加 `CSSClasses` 赋值 `sidenote` 、 `sidenote-r` 、 `sidenote-r` ，然后在正文中直接用边注的 callout 即可。
+
+* `CSSClasses` 值说明
+	* `sidenote` 同时添加双侧边注
+	* `sidenote-r` 只添加右侧边注
+	* `sidenote-r` 只添加左侧边注
+* 添加右侧边注，这样写
 
 ```
 > [!NOTE|aside-r] 右侧注释
 > 注释内容
-如果想要边注可折叠，可以用 callout 的折叠语法
+> 如果想要边注可折叠，可以用 callout 的折叠语法
 ```
 
-更详细使用见原作者 Huajin 的 [GitHub - xhuajin/obsidian-sidenote-callout: By leveraging only CSS and callout, elegantly implement marginal notes](https://github.com/xhuajin/obsidian-sidenote-callout)
+* 添加左侧边注，这样写
+
+```
+> [!NOTE|aside-l] 右侧注释
+> 注释内容
+> 如果想要边注可折叠，可以用 callout 的折叠语法
+```
+
+* 可尝试不同 callout 类型
+
+```
+> [!ERROR|aside-r] 注释
+> 其它如important, tip等callout样式
+```
+
+#### 布局调整
+
+* `--file-margins: 1% 20% 1% 20%; ` 的值可以根据需要调整
+* 当 `--file-margins` 的值调整时， `aside-l` 和 `aside-r` 的宽度 `width` 也需要调整（编辑、预览模式单独调整），可调整其中的百分数，使边注框宽度合适，否则边注内容容易被覆盖。
+
+#### 适配主题
+
+* 目前只测试了 Minimal，其它主题未知
+
+#### 注意事项
+
+* 使用 contextual typography 插件且开启 blue topaz 主题中的首行缩进和两端对齐会有冲突（原作者备注，本 CSS 未测试）
+	* 解决办法：把 css 中 @media 上方那两段被注释的 css 去掉注释即可（把两段开头的 \/* 和结尾的 \*/ 去掉）
+
+- 边注的标题在侧边时不宜过长
+- 导出 PDF 时的样式有问题，关闭本 css 再导出即可（本人非程序员，如有高手可以搞定 PDF 导出样式，烦请告之，感谢！）
 
 ### CSS 源码
 
 ```css
-/*
-author: Huajin
+/* ----------------------------------------------------------Sidenote边注功能------------------------------------------------------------*/
+/*author: Huajin
 reference: 
   https://discord.com/channels/686053708261228577/702656734631821413/1155147566615367680
   https://discord.com/channels/686053708261228577/702656734631821413/1073456247849881610
@@ -529,16 +573,79 @@ settings:
     default: false
 */
 
+
 body {
   --aside-width: 200px;
   --aside-offset: var(--size-4-4);
   --line-width: var(--file-line-width, --line-width);
 }
 
-/* 只在笔记properties中添加CSSClasses，值为 "sidenote" 时生效，如想整个库应用，删除这段代码 */
+/* == sidenote CSSClasses 配置 ==
+这些设置适用于所有properties的CSSClasses带有 "sidenote-r"、"sidenote-l" 和 "sidenote" 类名的笔记
+*/
+
+/* 编辑模式 - sidenote */
 .sidenote {
-  --file-margins: 1% 30% var(--size-4-8) 5%; /* 四个数值，依次表示“上 - 右 - 下 - 左”边距，可以自己调整布局 */
+  --file-margins: 1% 20% 1% 20%; /* 编辑模式的边距设置 */
 }
+
+/* 阅读模式 - sidenote */
+.markdown-reading-view .sidenote {
+  margin: 1%!important; /* 其他笔记的默认阅读模式边距设置 */
+  padding-right: 20% !important;
+  padding-left: 20% !important;
+}
+
+/* 编辑模式 - sidenote-r */
+.sidenote-r {
+  --file-margins: 1% 25% 1% 1%; /* 左1%，右30%，上/下1% */
+}
+
+/* 阅读模式 - sidenote-r */
+.markdown-reading-view .sidenote-r {
+  margin: 1% !important; /* 保持内容的外边距一致 */
+  padding-right: 20% !important; /* 为右侧边注预留20%的空间 */
+}
+
+/* 编辑模式 - sidenote-l */
+.sidenote-l {
+  --file-margins: 1% 1% 1% 25%; /* 左30%，右1%，上/下1% */
+}
+
+/* 阅读模式 - sidenote-l */
+.markdown-reading-view .sidenote-l {
+  margin: 1% !important; /* 保持内容的外边距一致 */
+  padding-left: 20% !important; /* 为左侧边注预留20%的空间 */
+}
+
+
+/* 通过 cssclasses 属性控制布局 */
+.sidenote {
+  --show-left-aside: initial;
+  --show-right-aside: initial;
+}
+
+.sidenote-l {
+  --show-left-aside: initial;
+  --show-right-aside: none;
+}
+
+.sidenote-r {
+  --show-left-aside: none;
+  --show-right-aside: initial;
+}
+
+/* 控制左侧边注可见性 */
+.callout[data-callout-metadata*="aside-l"] {
+  display: var(--show-left-aside);
+}
+
+/* 控制右侧边注可见性 */
+.callout[data-callout-metadata*="aside-r"] {
+  display: var(--show-right-aside);
+}
+
+/* -------------- */
 
 .markdown-source-view.mod-cm6 .cm-content > .cm-callout:has(.callout[data-callout-metadata*="aside"])[contenteditable=false]  {
   contain: none !important;
@@ -560,35 +667,43 @@ body {
 
 .callout[data-callout-metadata*="aside"] {
   position: absolute;
-  width: 45%; /* 边注的右侧边用这个参数控制，否则右边就跑到屏幕之外了。45%这个数是调出来的*/
 }
 
-/* .callout[data-callout-metadata*="aside-l"] {
-  left: calc(-1 * (var(--aside-width) + var(--aside-offset)));
-  right: calc(100% + var(--aside-offset));
-} */
+.callout[data-callout-metadata*="aside-l"] {
+  position: absolute; /* 绝对定位 */
+  right: calc(100% + 0.5 * var(--aside-offset)); /* 将右边距设置为动态调整*/
+  left: auto; /* 取消左侧边距约束 */
+  width: calc(33% - 0.4 * var(--aside-offset)); /* 使用变量控制宽度 */
+  max-width: 300px; /* 设定最大宽度，确保在小屏幕上不超出边界 */
+  overflow: visible; /* 允许内容溢出 */
+}
 
 .callout[data-callout-metadata*="aside-r"] {
-  left: calc(100% + var(--aside-offset)); /* 边注的左侧边位置用这个参数控制，可以自己调*/
-  right: calc(100% + var(--aside-width));
+  position: absolute; /* 绝对定位 */
+  left: calc(100% + 0.2 * var(--aside-offset));/* 将左边框设置为根据屏幕尺寸动态调整，并增加调整与左侧正文间距的变量 */
+  right: auto;/* 取消右侧边距约束 */
+  width: calc(30% + 0.8 * var(--aside-offset)); /* 根据屏幕尺寸动态调整宽度 */
+  max-width: 300px; /* 设定最大宽度，确保在小屏幕上不超出边界 */
+  overflow: visible;
 }
 
-.markdown-reading-view .callout[data-callout-metadata*="aside"] {
-  position: absolute;
-  width: 28%; /* 边注的右侧边用这个参数控制，否则右边就跑到屏幕之外了。28%这个数是调出来的*/
+.markdown-reading-view .callout[data-callout-metadata*="aside-l"] {
+  position: absolute; /* 绝对定位 */
+  right: calc(80% + 0.2 * var(--aside-offset)); /* 将右边框设置为根据屏幕尺寸动态调整，并增加调整与右侧正文间距的变量*/
+  left: auto; /* 取消左侧边距约束 */
+  width: calc(20% - 0.5 * var(--aside-offset)); /* 使用变量控制宽度 */
+  max-width: 350px; /* 设定最大宽度，确保在小屏幕上不超出边界 */
+  overflow: visible; /* 允许内容溢出 */
 }
-
-/* .markdown-reading-view .callout[data-callout-metadata*="aside-l"] {
-  left: calc(50vw - var(--file-line-width)/2 - var(--aside-width) - 2 * var(--aside-offset));
-  right: calc(50vw + var(--file-line-width)/2);
-}  */
 
 .markdown-reading-view .callout[data-callout-metadata*="aside-r"] {
-  /*left: calc(var(--file-line-width) + 2 * var(--aside-width));
-  /*right: calc(50vw - var(--file-line-width)/2 - var(--aside-width) - 2 *var(--aside-offset)); */
-  left: calc(61% + var(--aside-width)); /* 边注的左侧边用这个参数控制，61%这个数是调出来的*/
-  right: calc(-1 * var(--aside-width));
-}   
+  position: absolute; /* 绝对定位 */
+  left: calc(80% + 0.1 * var(--aside-offset));/* 将左边距设置为根据屏幕尺寸动态调整，并增加调整与左侧正文间距的变量*/
+  right: auto;/* 取消右侧边距约束 */
+  width: calc(20% - 0.6 * var(--aside-offset)); /* 使用变量控制宽度 */
+  max-width: 350px; /* 设定最大宽度，确保在小屏幕上不超出边界 */
+  overflow: visible;
+}  
 
 @media (hover: hover) {
   .markdown-source-view.mod-cm6 .cm-embed-block:has(> div > [data-callout-metadata*="aside"]):hover {
@@ -602,14 +717,14 @@ body {
 /* ------------ */
 
 .callout[data-callout-metadata*="aside"] {
-  --block-spacing: 0.75rem;
+  --block-spacing: 0.5rem;
   --speaker-block-width: 20%;
   margin: 0px;
   padding: 0px;
   display: grid;
   background-color: var(--background-primary) !important;
   border: none;
-  font-size: 14px;/* 修改为所需的字体大小 */
+  font-size: 13px;/* 修改为所需的字体大小 */
 }
 
 .sidenote-backgound .callout[data-callout-metadata*="aside"] {
@@ -701,12 +816,26 @@ body:not(.top-sidenote-callout-title) .setting-item[data-id="top-right-sidenote-
   justify-content: center;
 }
 
-.callout[data-callout-metadata*="aside"]>.callout-content {
+
+/* 调整左侧sidenote内容的上下边距、高度控制 */
+.callout[data-callout-metadata*="aside-l"] .callout-content {
   padding: 0px var(--block-spacing);
+  margin-bottom: -3px;
+  border-top: unset;
+  max-height: 200px;
+  overflow-y: auto;
+} 
+
+
+/* 调整右侧sidenote内容的上下边距、高度控制 */
+.callout[data-callout-metadata*="aside-r"] .callout-content {
+  padding: 0px var(--block-spacing);
+  margin-bottom: -3px;
   border-top: unset;
   max-height: 200px;
   overflow-y: auto;
 }
+
 
 .callout[data-callout-metadata*="aside"]>.callout-content>p:first-child {
   margin-top: 0px;
@@ -742,5 +871,4 @@ body:not(.top-sidenote-callout-title) .setting-item[data-id="top-right-sidenote-
     margin: 0 auto;
   }
 }
-
 ```
