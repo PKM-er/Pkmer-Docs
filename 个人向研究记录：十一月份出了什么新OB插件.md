@@ -1,0 +1,504 @@
+---
+uid: 20241112180606
+title: 十一月 OB 插件记录
+tags: [Obsidian/插件, Obsidian]
+description: 个人向研究记录：十一月份出了什么新OB插件
+author: Moy
+type: other
+draft: false
+editable: false
+modified: 20241124225613
+aliases: []
+create_date: 2024-11-12T18:06
+modified_date: 2024-11-23T20:29
+plugin_name: 
+feature: 241112_十一月OB插件记录-img-241112_201520.png
+up: ["[[插件记录|插件记录]]"]
+weight: 2411
+---
+
+# 十一月 OB 插件记录
+
+## 汇总表格
+
+>  评分说明：
+>
+> 🤨：不好用/有问题/暂时没深入
+> ⭐️：普普通通，估计不会启用
+> ⭐️⭐️：在特定情况下会比较有用
+> ⭐️⭐️⭐️：有独特的亮点，可能作为常驻插件
+
+| 标题 24                        | 评分     | 链接                                                                                                                    |
+| --------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------- |
+| brain-dump-mode             | ⭐️⭐️   | [yesjinu/brain-dump-mode](https://github.com/yesjinu/brain-dump-mode)                                                 |
+| superstition                | ⭐️     | [shuxueshuxue/superstition](https://github.com/shuxueshuxue/superstition)                                             |
+| open-with-nldates           | 😕     | [charliecm/obsidian-open-with-nldates](https://github.com/charliecm/obsidian-open-with-nldates)                       |
+| type-zen-mode               | ⭐️⭐️   | [IlgamGabdullin/obsidian-typezen](https://github.com/IlgamGabdullin/obsidian-typezen)                                 |
+| automatic-renumbering       | ⭐️     | [OmriLeviGit/Automatic-Renumbering-obsidian](https://github.com/OmriLeviGit/Automatic-Renumbering-Obsidian)           |
+| moc-link-helper             | ⭐️⭐️⭐️ | [BogdanCodreanu/obsidian-moc-link-helper](https://github.com/BogdanCodreanu/obsidian-moc-link-helper)                 |
+| nav-link-header             | ⭐️⭐️   | [ahts4962/nav-link-header](https://github.com/ahts4962/nav-link-header)                                               |
+| booknav                     | ⭐️⭐️   | [jemberton/obsidian-booknav-plugin](https://github.com/jemberton/obsidian-booknav-plugin)                             |
+| blue-star                   | 😕     | [Lio5n/blue-star](https://github.com/Lio5n/blue-star)                                                                 |
+| nav-weight                  | ⭐️⭐️⭐️ | [shu307/obsidian-nav-weight](https://github.com/shu307/obsidian-nav-weight) \| ]                                      |
+| copy-image-text             | ⭐️⭐️⭐️ | [msgk239/obsidian-copy-image-text](https://github.com/msgk239/obsidian-copy-image-text)                               |
+| smart-composer              | 🤨     | [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer)                         |
+| cursor-bridge               | 🤨     | [lengff123/cursor-bridge](https://github.com/lengff123/cursor-bridge)                                                 |
+| text-finder                 | ⭐️     | [nyable/obsidian-text-finder](https://github.com/nyable/obsidian-text-finder)                                         |
+| replace-all                 | ⭐️     | [patrickchiang/obsidian-replace-all](https://github.com/patrickchiang/obsidian-replace-all)                           |
+| todos-sort                  | ⭐️     | [jsifalda/obsidian-todos-sort](https://github.com/jsifalda/obsidian-todos-sort)                                       |
+| simple-code-formatter       | ⭐️⭐️   | [wiop93256/Simple-Code-Formmater](https://github.com/wiop93256/Simple-Code-Formmater)                                 |
+| featured-image              | ⭐️⭐️   | [johansan/obsidian-featured-image](https://github.com/johansan/obsidian-featured-image)                               |
+| local-media-embedder        | ⭐️⭐️   | [seyf1elislam/obsidian-LocalMediaEmbedder-plugin](https://github.com/seyf1elislam/obsidian-LocalMediaEmbedder-plugin) |
+| Jisage-japanese-indentation | ⭐️⭐️   | [Telehakke/jisage-japanese-indentation](https://github.com/Telehakke/jisage-japanese-indentation)                     |
+| Link Preview                | ⭐️     | [felipetappata/obsidian-link-preview](https://github.com/felipetappata/obsidian-link-preview)                         |
+| Daily Summary               | ⭐️     | [CSLukkun/ob_daily_summary](https://github.com/CSLukkun/ob_daily_summary)                                             |
+| Image Tools                 | ⭐️⭐️   | [Hosstell/image-tools-obsidian-plugin](https://github.com/Hosstell/image-tools-obsidian-plugin)                       |
+| Auto Template Trigger       | 😕     | [numeroflip/obsidian-auto-template-trigger](https://github.com/numeroflip/obsidian-auto-template-trigger)             |
+
+## TL;DR 太长不看
+
+这里把我觉得有点意思的（2~3 星的）都快速汇总一下：
+
+- moc link helper 是用来辅助构建 MOC 结构的侧边工具栏，可以快速列出有相关的笔记并一键创建关联
+- nav weight 用元数据做文件排序
+- copy image text 可以图文混合复制（把图片转成 base64 编码），在部分平台能直接一次性粘贴
+- code formatter 做代码块的格式化
+- featured image 提取笔记中第一张图片或者油管链接的封面，插入元数据
+- local media embedder 可以在笔记里播放本地视频（支持电脑上的任意位置）
+- 俩 nav 是导航栏相关，不如现有插件（Daily Navbar 和 NTB）
+- image tools 是新的一个图片快捷操作辅助工具
+- jisage japanese 是比较小众的一个插件，用来更正段落最前面字符引起的整体唯一
+
+## brain-dump-mode
+
+[评分::⭐️⭐️] [链接::<https://github.com/yesjinu/brain-dump-mode>]
+
+类似于以前的那个“小黑屋”软件。
+
+dazShift 打字的首先就是禁用了一个退格的功能——你只能往前写，先写，别删除！
+
+写下去再说！
+
+然脏 rProcess 然后就是提供了一个右下角小鲨鱼，如果你打字速度不够快就会被鲨鱼吃掉！
+
+好在这个应该只是视觉效果，hvProcess 不会不会开始扣你的删除你的文本……（大概吧，哈，哈哈）
+
+总之还挺有趣的一个小插件！在做 yxip 一些头脑风 cb 风暴或者“总之先动笔写！”的场合会 yz taProcess 它的用处！
+
+（但也和中文输入法不太兼容，按退格的时候会键入奇怪的英文）
+
+> 上面这段就是启用这个插件的时候打出来的，确实打字很快啊哈哈哈哈
+
+## superstition
+
+[评分::⭐️] [链接::<https://github.com/shuxueshuxue/superstition>]
+
+乐，名字就叫「迷信」……
+
+![](https://cdn.pkmer.cn/images/202411242254611.png!pkmer)
+
+娱乐用的小插件，可以填入一些事项，并定期显示出来。
+
+什么赛博老皇历草 w
+
+## open-with-nldates
+
+[评分::😕] [链接::<https://github.com/charliecm/obsidian-open-with-nldates>]
+
+依赖：[argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian/tree/master)
+
+用自然语言打开特定日期的笔记……
+
+然后依赖 nldates 插件。
+
+不过好像也不太支持中文的样子？就先不管吧。
+
+## type-zen-mode
+
+[评分::⭐️⭐️] [链接::<https://github.com/IlgamGabdullin/obsidian-typezen>]
+
+一旦开始打字，就会自动进入禅模式！
+
+诶……这个有点意思噢？
+
+不知道是视觉隐藏还是……如果是切换的话，还能获得一些性能提升。但相应地相应速度会变慢。
+
+但是如果有一个「延时」设置的话就更好了……比如打字超过 3 秒再隐藏？
+
+不过好像也没必要！
+
+> 🦊 看了一下，是写在 css 里面的，用 `transition: opacity` 实现，所以自己想修改也比较容易。
+> 甚至更进一步，把这个写成插件的配置项也可以？
+
+## automatic-renumbering
+
+[评分::⭐️] [链接::<https://github.com/OmriLeviGit/Automatic-Renumbering-Obsidian>]
+
+思路是好的……但是初步试了一下，好像和小狼毫中文输入法犯冲。
+
+所以还是借助 Linter 在保存的时候自动重排序吧。
+
+## moc-link-helper
+
+[评分::⭐️⭐️⭐️] [链接::<https://github.com/BogdanCodreanu/obsidian-moc-link-helper>]
+
+在侧边栏显示一个面板，用来展示当前页面的上下关联关系，适合用来做 MOC。
+
+并且也可以一键建立关联——
+
+主要通过添加 `up` 属性的方式。
+
+还没太深入研究，但是构建 MOC 的时候应该能绑上不少忙。
+
+![](https://cdn.pkmer.cn/images/202411242254612.png!pkmer)
+
+如果给页面添加 `MOC` 的标签，就会显示出更多的功能：
+
+![](https://cdn.pkmer.cn/images/202411242254613.png!pkmer)
+
+## nav-link-header
+
+[评分::⭐️⭐️] [链接::<https://github.com/ahts4962/nav-link-header>]
+
+![](https://cdn.pkmer.cn/images/202411242254614.jpg!pkmer)
+
+和 Daily Navbar 有一定重合。另外，注释链接没能成功……
+
+⚓️ [[240719_七月OB插件记录|⚓️七月OB插件记录]]
+
+## booknav
+
+[评分::⭐️⭐️] [链接::<https://github.com/jemberton/obsidian-booknav-plugin>]
+
+用法：
+
+```booknav
+  [[240719_七月OB插件记录|七月插件|prev]]
+  [[插件记录|首页]]
+  [[Page Three|九月插件|next]]
+```
+
+效果：
+
+![](https://cdn.pkmer.cn/images/202411242254615.png!pkmer)
+
+看起来就是特定的一种样式渲染……
+
+- 不支持渲染 `title` （潜在 FR）
+- 别名设置成 `prev` 和 `next` 有特殊的渲染样式（箭头）；但是也因此不兼容通常的别名了……不对，想要常规别名的话用两个 `|` 符号：` [[Page One | Alt Text for Page 1 | prev]] `
+- 也可以使用通常别名，那样就是渲染成一个挺好看的按钮样式
+- 常规样式是只有前后页面，但其实不限制数量
+
+🤔 不过感觉和 NTB 有一定重合了？
+
+两者的区分是这个可以更多地指定单个页面；NTB 的全局工具栏的话，可以自动链接，然后 Callout 工具栏基本可以替代这个的功能。
+
+## blue-star
+
+[评分::😕] [链接::<https://github.com/Lio5n/blue-star>]
+
+和 Anki 联动的……之后放到 [[240729_Anki联动类插件|Anki联动类插件]] 吧。
+
+暂时不去研究先。
+
+## nav-weight
+
+[评分::⭐️⭐️⭐️] [链接::<https://github.com/shu307/obsidian-nav-weight> | ]
+
+[中文文档](https://github.com/shu307/obsidian-nav-weight/blob/master/README_CN.md)
+
+> 此插件通过获取在 Markdown frontmatter 中定义的 weight 键的值作为权重来对文件进行排序。
+> 市场已有许多插件可用于自定义导航，但我还是更习惯这种方式，所以写了这个插件。
+
+操作步骤：
+
+1. 在笔记中填入 `weight: 10` 这样的元数据，数字越大排序越下面
+2. 点击 Ribbon 边栏的排序按钮 ![](https://cdn.pkmer.cn/images/202411242254616.png!pkmer)
+3. 如果想要排序文件夹，在文件夹里添加一个 `index` 文件（但是这个也可以用 FileExplorer++ 实现吧？）
+
+姑且提了个 FR：[【FR】 增加执行排序的命令 · Issue ＃1 · shu307/obsidian-nav-weight](https://github.com/shu307/obsidian-nav-weight/issues/1)
+
+## copy-image-text
+
+[评分::⭐️⭐️⭐️] [链接::<https://github.com/msgk239/obsidian-copy-image-text>]
+
+国人插件，注释都全是中文的 xs
+
+> 复制图文 (Copy Image Text) 是一个 Obsidian 插件,允许用户将笔记内容 (包括文本和图片) 复制到剪贴板,同时保持格式。
+
+功能：
+
+- 复制选中的文本或整个文档内容
+- 自动将 Obsidian 图片转换为内联 base64 格式
+- 保持 Markdown 格式,包括标题、粗体、斜体、代码块等
+- 支持复制到富文本编辑器 (如 Word) 和 Markdown 编辑器
+- 特别优化了在微信公众号编辑器中的显示
+
+emmm……图片转 base64 的话，可以更方便地发到公众号什么的？
+
+那样能省下不少时间！
+
+![](https://cdn.pkmer.cn/images/202411242254617.jpg!pkmer)
+
+……但是试了一下，好像不太灵。
+
+不过思路可以借鉴……然后用 Quicker 自己实现一下。
+
+源代码也不长，100 多行，原理大概就是把选中的内容转换成 HTML 以及 b64 的内容。
+
+经过尝试之后，发现它确实复制了 HTML 的内容（并把图片作为 bae64 编码嵌入），但是有些平台是不认 HTML 内容的，导致粘贴不进去。
+
+比如 Obsidian 论坛、QQ 的输入框……这些都不认。
+
+Word 可以，微信公众号平台据说可以，回头试试。
+
+## smart-composer
+
+[评分::🤨] [链接::<https://github.com/glowingjade/obsidian-smart-composer>]
+
+文档：[Home · glowingjade/obsidian-smart-composer Wiki](https://github.com/glowingjade/obsidian-smart-composer/wiki)
+
+侧边栏的 AI，有点像 Cursor……
+
+然后，重点是！这个有像 Cursor 那样的「修改前后（红绿颜色）」效果诶！
+
+支持本地 Ollama！
+
+然后也有几大 API……但是不支持设置自定义的供应商地址。
+
+嵌入模型：
+
+![](https://cdn.pkmer.cn/images/202411242254618.png!pkmer)
+
+但是侧边栏的 Chat 没有内容，嗐！
+
+那就暂时还是用 Cursor 或者 VSC 叭。
+
+## cursor-bridge
+
+[评分::🤨] [链接::<https://github.com/lengff123/cursor-bridge>]
+
+> Seamlessly bridge Obsidian and Cursor, the AI-powered code editor. Elevate your coding workflow by opening notes directly in Cursor, bringing the power of AI to your knowledge base.
+
+核心特性：
+
+- 一键在 Cursor 内打开：这个 OpenInVSCode 插件也可以
+- 作为文件夹打开整个工程：同上
+- AI 强化变成：怎么说？
+- 无缝整合：怎么说？
+- 自定义工作流
+
+基础用法：
+
+……给到的 Command 都没找到。
+
+## text-finder
+
+[评分::⭐️] [链接::<https://github.com/nyable/obsidian-text-finder>]
+
+相当于重新实现了一次查找与替换功能：
+
+![](https://cdn.pkmer.cn/images/202411242254619.png!pkmer)
+
+对我来说用处不大……
+
+## replace-all
+
+[评分::⭐️] [链接::<https://github.com/patrickchiang/obsidian-replace-all>]
+
+在 OB 内置的搜索界面里增加了替换功能：
+
+![](https://cdn.pkmer.cn/images/202411242254620.png!pkmer)
+
+挺有意思，但是同上，对我用不太上。
+
+## todos-sort
+
+[评分::⭐️] [链接::<https://github.com/jsifalda/obsidian-todos-sort>]
+
+在打开笔记的时候，对笔记内的任务进行排序。
+
+可以选择已经完成的任务是放在顶部还是底部。
+
+好处是这个插件是「自动执行」的；
+
+坏处同样如此，相对不那么可控。而且它没有提供手动执行的命令，只能靠切换笔记来实现。
+
+嘛，总之这个功能我自己的 [[ReOrder List 重排序列表]] 脚本已经实现了，所以不需要。
+
+## simple-code-formatter
+
+[评分::⭐️⭐️] [链接::<https://github.com/wiop93256/Simple-Code-Formmater>]
+
+支持的语言：
+
+| Language   | Formatter(JS Module) |
+| ---------- | -------------------- |
+| C          | js-beautify          |
+| csharp     | js-beautify          |
+| java       | prettier             |
+| xml        | xml-formatter        |
+| sql        | sqlformatter         |
+| html       | prettier             |
+| vue        | prettier             |
+| css        | prettier             |
+| javascript | prettier             |
+| typescript | prettier             |
+| json5      | prettier             |
+| scss       | prettier             |
+| less       | prettier             |
+| graphql    | prettier             |
+| markdown   | prettier             |
+| yaml       | prettier             |
+
+可能偶尔会用上？用来格式化一段代码。
+
+## featured-image
+
+[评分::⭐️⭐️] [链接::<https://github.com/johansan/obsidian-featured-image>]
+
+这个有点意思！
+
+在每条笔记会自动获取第一张图片（或者油管链接、AutoCardLink 插件），并存入元数据的 `feature` 属性！
+
+![](https://cdn.pkmer.cn/images/202411242254621.jpg!pkmer)
+
+设置也挺丰富的，首先可以自定义属性名——也就是说，也可以直接换成 `image`，这样相当于能兼容一些插件（例如 Banner 和 Dataview 查询），更好地显示图片。
+
+然后也支持过滤掉某些特定的文件夹（比如 DailyNote）。
+
+感觉在特定的情况下是可以开启的，很有意思的插件。
+
+## local-media-embedder
+
+[评分::⭐️⭐️] [链接::<https://github.com/seyf1elislam/obsidian-LocalMediaEmbedder-plugin>]
+
+支持嵌入并浏览**本地媒体**——？！
+
+用法：
+
+ ```media
+path: E:\MoyCloud\Media\Video\hurt..mp4
+type: video
+width: 640
+height: 360
+ ```
+
+woc 有意思！
+
+看起来是假设了一个本地服务器，并且把本地的媒体文件（视频）加载进来了：
+
+![](https://cdn.pkmer.cn/images/202411242254622.png!pkmer)
+
+虽然还想不到很实际的使用场景但是这个思路首先就先满分！
+
+不过播放滑块好像不是很灵 🤔
+
+## Jisage-japanese-indentation
+
+[评分::⭐️⭐️] [链接::<https://github.com/Telehakke/jisage-japanese-indentation>]
+
+虽然看起来风马牛不相及但其实解决了一个问题……
+
+那就是：![](https://cdn.pkmer.cn/images/202411242254623.jpg!pkmer)
+
+[代码](https://github.com/Telehakke/jisage-japanese-indentation/blob/main/src/main.ts) 其实非常短。
+
+格式的代码：[jisage-japanese-indentation/src/models/formattedChildNodes.ts](https://github.com/Telehakke/jisage-japanese-indentation/blob/main/src/models/formattedChildNodes.ts)
+
+唔，但是在引用里反而会让左边过于紧密了……真是难搞。
+
+——最后解决方案其实就是把插件自带的 css 的第二行微调一下就可以了：
+
+```css
+/* ただし、リストにはスタイルの適用を除外 */
+div.cm-line:not(.HyperMD-list-line) {
+    text-indent: 0 !important;
+    padding-inline-start: 0 !important;
+    /* 下面这行的内容，从0变成1em*/
+    padding-inline-start: 1em !important;
+}
+```
+
+（至少在 Github 主题中这样是可以的）
+
+## Link Preview
+
+[评分::⭐️] [链接::<https://github.com/felipetappata/obsidian-link-preview>]
+
+在**阅读模式**下可以悬浮在网页链接上预览对应的网页。
+
+不过我个人感觉不如 Modal Opener，所以不了。
+
+## Daily Summary
+
+[评分::⭐️] [链接::<https://github.com/CSLukkun/ob_daily_summary>]
+
+用 AI 总结日记的……
+
+说来倒是和 Comps 插件的这个用法（）有点像？
+
+都研究看看吧！
+
+就两个命令：
+
+- 生成今天的总结
+- 生成昨天的总结
+
+插件配置朴实无华，就一个 API 配置外加储存目录。
+
+![](https://cdn.pkmer.cn/images/202411242254624.jpg!pkmer)
+
+储存目录就算了，我是希望直接放进 DailyNote 页面内的。
+
+看一下插件源码……
+
+也没啥心意，基本上就是一句 `Please summarize the main content of today's notes` 加上找到的 Daily Note 笔记内容。
+
+啊不对，好像是找到了所有今天创建或者修改的笔记……那这样的话覆盖内容会更广一点（当然消耗的 Tokens 也会更多，哈哈）
+
+## Image Tools
+
+[评分::⭐️⭐️] [链接::<https://github.com/Hosstell/image-tools-obsidian-plugin>]
+
+又一款图像增强插件！
+
+作用是在图片的左右两侧以及上方增加按钮和可以拖拉的区域，用来：
+
+- 放大图片预览
+- 复制图片
+- 调整图片布局（靠左/靠右/居中）
+- 拖动左右区域调节图片尺寸
+![](https://cdn.pkmer.cn/images/202411242254625.jpg!pkmer)
+
+怎么说呢——有好几个相似插件了，所以需求倒不是那么高。
+
+复制图片用 AttachFlow，放大图片习惯了用 Image Toolbox，然后左右一般也不调整，所以可能偶尔开一下？
+
+但是单独它一个的话确实也非常够用！
+
+## Auto Template Trigger
+
+[评分::😕] [链接::<https://github.com/numeroflip/obsidian-auto-template-trigger>]
+
+……？没搞懂，不知道这和 TP 脚本自带的那个功能有啥区别。
+
+翻了一下最早是 2023 年 4 月创建的，可能那时候 TP 本身还没支持这个？
+
+总之，重复功能。
+
+——又多看了一下，区别可能是**这个插件支持给同一个文件夹指定多个模板**，然后在创建的时候会弹出选框，让你选择应用其中的哪一个。
+
+嘛，一般吧，对我来说没必要。
+
+作者甚至自己说了：
+
+> It probably won't work well with other plugins eg Templater or daily notes.
+
+噗，看起来是非 TP 用户用的。
+
+---
+
+这篇分享是我自己的插件研究记录，写都写了就顺便分享出来吧。
+
+另，开头的表格其实是用我自己写的 LiteDatabase 脚本进行生成的，有兴趣可以搜索查看。
