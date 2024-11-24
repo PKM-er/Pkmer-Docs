@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20241018095040
+modified: 20241124224700
 ---
 
 # Obsidian 插件常见问题
@@ -192,6 +192,14 @@ zzsj	%yyyy%年%MM%月%dd%日%20%HH%:%mm%:%ss%	2
 
 ## Excalidraw
 
+### Excalidraw 的脚本的官方文档 (by 熊猫)
+
+Excalidraw 的脚本的官方文档：[obsidian-excalidraw-plugin/ea-scripts at master · zsviczian/obsidian-excalidraw-plugin · GitHub](https://github.com/zsviczian/obsidian-excalidraw-plugin/tree/master/ea-scripts)
+
+可配合浏览器扩展**沉浸式翻译** 进行双语学习查看。
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816368.png!pkmer)
+
 ### Excalidraw 能使用仓库里面的其他附件（图片吗）？（by OS）
 
 回答：可以，参看下图
@@ -248,6 +256,18 @@ Excalidraw 的脚本市场在页面的右上角，有个齿轮⚙叠加播放的
 - 点击对应的形状（shape）后有刪除可用；
 
 ![image.png](https://cdn.pkmer.cn/images/20230522215014.png!pkmer)
+
+### 如何设置 Excalidraw 的自定义字体 (by 熊猫)
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816099.png!pkmer)
+
+- 第 1 步：在 Excalidraw 模板文件夹下创建 fonts 文件夹，将.ttf 字体文件放入这个文件夹中存放进去。
+	- ![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816057.png!pkmer)
+	- ![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816747.png!pkmer)
+- 第 2 步：在 Excalidraw 的设置选项中有非 Excalidraw.com 官方支持的特性→Fourth font→打开为文本元素启动本地字体：本地字体文件加载刚刚放入的 fonts 文件夹中的字体，选择你需要的字体即可。
+	- ![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816444.png!pkmer)
+- 第 3 步：在画板中选中文本元素后设置第 4 个字体。
+	- ![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816136.png!pkmer)
 
 ## EasyTyping
 
@@ -385,6 +405,40 @@ folder note 插件 Sync folder name 设置开启后文件夹名称更改时会�
 1. 重新修改文件名回来 (**补救**)，之后再通过 folderNote 笔记名修改；
 2. 重新一个一个的**切换至其他笔记** (_不推荐_)；
 3. 关闭该设置，手动去同步文件名和主笔记名 (**推荐**)。
+
+## Tag Wrangler
+
+### 如何使用 Tag Wrangler(by 熊猫 23.11.22)
+
+该插件是依赖核心插件：标签列表，请在设置中打开该选项。
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816245.png!pkmer)
+
+标签列表开启后，会出现标签面板在侧边栏，同时开启该 Tag Wrangler 后，鼠标右键可以对标签进行重命名等操作：
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816296.png!pkmer)
+
+其他操作请看 [PKMer_Obsidian 插件：Tag Wrangler 增强标签的管理体验]( https://pkmer.cn/show/20230329145855 )
+
+## Quiet Outline
+
+### Quiet Outline 安装后无法生效可能是什么原因?(by 熊猫)
+
+如果 outline 大纲不小心关闭了或者没有出现大纲，可以通过通过 `Ctrl + P` 命令中的 `Quiet Outline: Toggle Quiet Outline` 命令调出来。
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816054.png!pkmer)
+
+## Style Settings
+
+### Style Settings 如何在不在命令面板中编辑 (by 熊猫)
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816894.png!pkmer)
+
+Style Setting 命令中有这个命令，通过 Ctrl + P 调出来。
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816679.png!pkmer)
+
+> 如果想在设置一个按钮，可以用 Commander 插件，创建一个按钮在侧边栏，方便调用。
 
 ## 第三方工具
 
