@@ -116,6 +116,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### callout
 
 - [[Obsidian样式-Callout样式]]
+- [[Obsidian样式-如何自定义Callout图标]]
 - [[Obsidian样式-如何实现Blue-topaz自带类表格时间线样式]]
 - [[Obsidian样式-MCL Multi Column]]
 - [[Obsidian样式-用Callout实现的边注]]
@@ -251,7 +252,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 #### Kanban
 
 - [[Obsidian样式-看板样式]]
-
+- [[Obsidian样式-Kanban魔改之四象限模式和康奈尔笔记模式]]
 ## 自定义 CSS 简单上手指南
 
 如果你正在设计你个性化的 CSS，你可以通过使用开发者工具来获得更多元素信息，提高设计效率。使用开发者工具

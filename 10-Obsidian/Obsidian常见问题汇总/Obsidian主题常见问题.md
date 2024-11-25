@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231201113636
+modified: 20241124224423
 ---
 
 # Obsidian 主题常见问题
@@ -15,6 +15,55 @@ modified: 20231201113636
 如果以下内容还不能满足你：
 
 你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
+
+## 样式的问题
+
+### ob 怎么用 tab 输入制表符而不是行首缩进呀？(by 熊猫)
+
+答：在设置面板的编辑器下方的使用制表符中开启
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816830.png!pkmer)
+
+[增强编辑](https://github.com/obsidian-canzi/Enhanced-editing) 的设置
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816563.png!pkmer)
+
+### 如何在 MAC 中添加外部字体到 Ob 中 (by 熊猫)
+
+使用 **custom font loader** 插件后，把字体放在 `.obsidian/font` 文件夹中即可，(PS：文件夹不存在就自己新建一个)
+
+正常的更换字体直接在设置中的外观选项中更换字体里面设置就行：
+
+![24.11.23_ObsidianFAQ整理记录 on 24-11-23_18.16.00.md](https://cdn.pkmer.cn/images/202411231816260.png!pkmer)
+
+### 如何在 Obsidian 中进行段落首行缩进？(by 熊猫 23.12.06)
+
+答：可以通过修改 CSS 的方式进行：Obsidian 样式：段落首行增加缩进
+
+但 Markdown 语法最好不用采用段落首行缩进，更多的是通过换行 (中间空一行) 来实现段落之间的区别，详看上述链接的引言部分。
+
+> [⚠️一次首行缩进的争论带来的反思](https://windilycloud.cn/post/%E4%B8%80%E6%AC%A1%E4%BA%89%E8%AE%BA%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8F%8D%E6%80%9D/) (by 皮佬 23.12.09)
+
+### 在 Obsidian 中显示 Lateχ公式 `\\` 换行不生效 (by 阿岑)
+
+```css
+mjx-mspace {
+	display: block !important;
+	margin: 0.5em 0;
+}
+```
+
+### Obsidian 如何进行分栏 (by 熊猫)
+
+答：请参考 [Obsidian 如何制作多栏布局](https://pkmer.cn/show/20230603162524)：通过插件或者 CSS 来实现分栏样式
+
+#### Minimal 主题的 Card list 样式
+
+PKMer 社区中已经介绍了该样式以及使用，但该 [Obsidian 能像其他笔记样分栏嘛 MCL Multi Column](https://pkmer.cn/show/20230603163007) 对该样式介绍的不全，以及安装和配置过程没有详细说明，还需要添加添加官方介绍文档<https://efemkay.github.io/obsidian-modular-css-layout/>
+
+#### Minimal 主题的 Card list 样式
+
+Obsidian 样式：minimal 主题 Cards 卡片布局，详情可以参考 PKMer 社区的这篇文档。
 
 ## 主题类问题
 
