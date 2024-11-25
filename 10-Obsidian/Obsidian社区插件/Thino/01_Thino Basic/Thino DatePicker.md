@@ -5,7 +5,7 @@ tags:
   - Obsidian
   - Thino
   - memos
-description: 
+description: Thino 日期选择器
 author: OS,PKMer
 type: other
 draft: false
