@@ -272,5 +272,5 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 - [[pane-relief]] 冲突：目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动即可。
 - Advanced Tables 冲突：鉴于此插件已经有段时间不更新了，且 OB 在近期已经完善了表格编辑体验，建议直接使用关闭的方法。
 - iconize 冲突：作者已经主动适配 Thino ，请更新 iconize 到最新版本即可。
-- [[typewriter-mode]] 冲突：因为打自己类插件会强制干预编辑框尺寸
+- [[typewriter-mode]] 冲突：因为打字机类插件会强制干预编辑框尺寸
 - Automatically reveal active file：会因为这个插件的开启，导致切换到 Thino 标签页无法切换，该插件作用是针对有实体文件的存储定位，但 Thino 本身是一个应用界面，而非一个实体文件。
