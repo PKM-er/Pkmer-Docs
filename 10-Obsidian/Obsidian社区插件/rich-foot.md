@@ -1,13 +1,13 @@
 ---
 uid: 20241026225112
 title: Obsidian 插件：Rich Foot
-tags: ['编辑工具', '文字处理', '笔记管理', 'obsidian插件']
+tags: [编辑工具, 文字处理, 笔记管理, obsidian插件]
 description: 在您的笔记页脚添加反向链接标签以及创建/修改日期。
-author: AI
+author: Chenghuang
 type: auto
 draft: false
 editable: false
-modified: 20241126134801
+modified: 20241126134927
 ---
 
 # Obsidian 插件：Rich Foot
