@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240911100114
+modified: 20241126165728
 ---
 
 # Obsidian 使用技巧
@@ -50,6 +50,7 @@ modified: 20240911100114
 - [[如何在 Obsidian 中使用 AI 大模型]]
 - [[Obsidian揭秘-深入理解链接的概念及应用]]
 - [[利用 AI 构建完美的 Obsidian 资料库结构]]
+- [[个人向研究记录-24年11月份出了什么新OB插件]]
 
 ### 第三方插件
 
