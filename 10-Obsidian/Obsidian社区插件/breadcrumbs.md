@@ -2,7 +2,7 @@
 uid: 2024052909102193
 title: Obsidian 插件：Breadcrumbs
 tags: ['导航与状态栏', '样式与美化', '图表与可视化', 'obsidian插件']
-description: 使用面包屑路径或矩阵视图可视化保管库的层次结构
+description: 使用面包屑路径或矩阵视图可视化仓库的层次结构
 author: AI
 type: auto
 draft: false
@@ -15,7 +15,7 @@ modified: 20240101000000
 > [!Note] 插件名片
 > - 插件名称：Breadcrumbs
 > - 插件作者：SkepticMystic
-> - 插件说明：使用面包屑路径或矩阵视图可视化保管库的层次结构
+> - 插件说明：使用面包屑路径或矩阵视图可视化仓库的层次结构
 > - 插件分类：[' 导航与状态栏 ', ' 样式与美化 ', ' 图表与可视化 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/SkepticMystic/breadcrumbs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?breadcrumbs)

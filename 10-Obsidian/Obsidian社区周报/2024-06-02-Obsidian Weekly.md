@@ -116,7 +116,7 @@ modified: 20240602235624
 
 [Smart Gantt](https://obsidian.md/plugins?id=smart-gantt) By _Nhan Nguyen_
 
-> - 跟踪保管库中的所有任务。
+> - 跟踪仓库中的所有任务。
 > - 基于任务生成甘特图。
 > - 快速跳转到任务所在位置。
 

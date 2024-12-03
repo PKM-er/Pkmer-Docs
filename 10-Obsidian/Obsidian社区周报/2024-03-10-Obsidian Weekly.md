@@ -200,7 +200,7 @@ modified: 20240429000539
 [Beautitab v1.6.0](https://github.com/andrewmcgivery/obsidian-beautitab/releases/tag/1.6.0) by _Andrew McGivery_
 
 > - **本地 + 库背景图像**
-> 	- 此更新带来了添加本地图像并旋转它们作为 Beautitab 背景的功能。此外，您可以使用保管库中的图像。
+> 	- 此更新带来了添加本地图像并旋转它们作为 Beautitab 背景的功能。此外，您可以使用仓库中的图像。
 > - 打开新选项卡时，您现在只需开始输入即可打开搜索，而无需单击搜索。
 > - 更新以重新显示通常显示在选项卡上的操作栏。这允许与 Commander 等插件兼容，以便能够在 Beautitab 顶部拥有自定义按钮。
 > - 修复了移动端文字大小的小问题。

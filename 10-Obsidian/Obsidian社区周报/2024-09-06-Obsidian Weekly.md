@@ -26,7 +26,7 @@ modified: 20240909005016
 
 [Import GitHub Readme](https://obsidian.md/plugins?id=import-github-readme) By _Chasebank87_
 
-> 允许您将 GitHub README 文件导入到您的保管库中。
+> 允许您将 GitHub README 文件导入到您的仓库中。
 
 [ImgBB Uploader](https://obsidian.md/plugins?id=imgbb-uploader) By _Jordan Handy_
 

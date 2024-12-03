@@ -128,7 +128,7 @@ modified: 20240617233115
 
 [Vault Name](https://obsidian.md/plugins?id=vault-name) By _@gapmiss_
 
-> 在侧面导航文件资源管理器中显示和自定义保管库名称（标题）。
+> 在侧面导航文件资源管理器中显示和自定义仓库名称（标题）。
 
 ![Pasted image 20240615221144.png](https://cdn.pkmer.cn/images/Pasted%20image%2020240615221144.png!pkmer)
 

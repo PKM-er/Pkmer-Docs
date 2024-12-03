@@ -28,7 +28,7 @@ modified: 20240520000429
 
 [Query JSON](https://obsidian.md/plugins?id=query-json) By _rooyca_
 
-> Query JSON 旨在简化保管库中的数据检索过程。使用此工具，您可以毫不费力地直接从笔记或外部文件中提取和操作 JSON 数据。
+> Query JSON 旨在简化仓库中的数据检索过程。使用此工具，您可以毫不费力地直接从笔记或外部文件中提取和操作 JSON 数据。
 
 [List Outline Helper](https://obsidian.md/plugins?id=list-outline-helper) By _triangular-sneaky_
 

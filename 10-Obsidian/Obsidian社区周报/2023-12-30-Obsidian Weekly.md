@@ -24,7 +24,7 @@ modified: 20240429000722
 
 - **表格**：全新的表格编辑器！现在更容易创建、编辑、排序、重新排列、复制和粘贴表格的行和列。
 - **编辑器**： 全新的格式菜单。您现在可以在编辑器中右键单击来更改文本格式、段落样式，并插入列表和表格等元素。
-- **同步** ：版本历史视图已进行了改进，以实现更好的协作和轻松访问主要修订。您现在可以对最多 10 个保管库使用同步，最大文件大小已从 100MB 增加到 200MB。
+- **同步** ：版本历史视图已进行了改进，以实现更好的协作和轻松访问主要修订。您现在可以对最多 10 个仓库使用同步，最大文件大小已从 100MB 增加到 200MB。
 - **属性** ：您现在可以全局重命名属性，搜索还支持属性内的布尔值和数字。
 
 更多更新内容，详见官方 [**发布说明**]( https://obsidian.md/changelog/2023-12-26-desktop-v1.5.3/ )。
@@ -183,7 +183,7 @@ modified: 20240429000722
 
 [**Better-order-list v 1.1.0**]( https://github.com/Quorafind/Obsidian-Better-Order-List/releases/tag/1.1.0 ) by _Boninall/Quorafind_ 现在，当删除列内容或在列表中间添加列时，以下项目的序列号将发生变化（此插件是一种有序列表，支持“(1).”等自动递增格式）。
 
-[**obsidian-tools v2.0.0**](https://github.com/1C0D/obsidian-tools/releases/tag/2.0.0) by _1 C 0 D_ 添加了导入保管库配置文件功能以供用户选择要从另一个保管库导入的内容。
+[**obsidian-tools v2.0.0**](https://github.com/1C0D/obsidian-tools/releases/tag/2.0.0) by _1 C 0 D_ 添加了导入仓库配置文件功能以供用户选择要从另一个仓库导入的内容。
 
 [Obsidian-Read-Only-Mode](https://github.com/Quorafind/Obsidian-Read-Only-Mode) by _Boninall/Quorafind_ 为实时预览和源代码视图提供只读模式。
 

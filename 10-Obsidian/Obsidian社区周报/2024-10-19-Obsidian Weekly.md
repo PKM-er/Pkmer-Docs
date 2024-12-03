@@ -92,7 +92,7 @@ modified: 20241021025358
 
 - 改进了 iOS、iPadOS 和安卓的应用加载时间。
 - iOS：跳过 iCloud 加载的选项现在将出现在启动过程的早期。
-- 加载 iCloud 保管库时响应速度更快。
+- 加载 iCloud 仓库时响应速度更快。
 - 侧边栏动画略微加快。
 
 ###### 杂项
@@ -172,7 +172,7 @@ modified: 20241021025358
 [Lemons Search](https://obsidian.md/plugins?id=lemons-search) By _Moritz Jung_
 
 > 一个基于快速模糊查找器的快速切换器，具有预览功能。
-> 该插件添加了一个新命令 `Lemons Search: Open search` ，打开快速切换器。快速切换器可让您轻松搜索保管库中的所有文件路径，并提供所选搜索结果的快速预览。
+> 该插件添加了一个新命令 `Lemons Search: Open search` ，打开快速切换器。快速切换器可让您轻松搜索仓库中的所有文件路径，并提供所选搜索结果的快速预览。
 
 ![Weekly-2024-10-19-Pasted image 20241021023120|650](https://cdn.pkmer.cn/images/Weekly-2024-10-19-Pasted%20image%2020241021023120.png!pkmer)
 
@@ -210,7 +210,7 @@ modified: 20241021025358
 
 [Ffmpeg Converter](https://obsidian.md/plugins?id=ffmpeg-converter) By _MrAnyx_
 
-> 通过将图像、视频和音频转换为更紧凑的格式或降低质量来优化您的保管库空间。
+> 通过将图像、视频和音频转换为更紧凑的格式或降低质量来优化您的仓库空间。
 > 大多数用户可以将其库的大小减少 70%。
 
 [Mouse Navigation](https://obsidian.md/plugins?id=mouse-navigation) By _HoBeomJeon_
