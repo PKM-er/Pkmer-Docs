@@ -2,7 +2,7 @@
 uid: 20241204001333
 title: Obsidian Weekly 2024-12-01：任务管理类目大爆发&梦寐已久的可交互时间轴！
 tags: [Weekly, Obsidian]
-description: Obsidian Weekly 2024-11-23：Obsidian v1.7.7 & 助力专注——多种定制视图与快捷操作
+description: Obsidian Weekly 2024-12-01：任务管理类目大爆发&梦寐已久的可交互时间轴！
 author: 淡水鱼,PKMer
 type: other
 draft: false
