@@ -99,7 +99,7 @@ modified: 20241104015903
 
 [Cloud Storage](https://obsidian.md/plugins?id=cloud-storage) By _Jiajun Ma_
 
-> 允许用户将本地文件上传到云端，减轻本地保管库的负担并实现跨多个设备的无缝同步。
+> 允许用户将本地文件上传到云端，减轻本地仓库的负担并实现跨多个设备的无缝同步。
 
 [Quarto Exporter](https://obsidian.md/plugins?id=quarto-exporter) By _Andreas Varotsis_
 

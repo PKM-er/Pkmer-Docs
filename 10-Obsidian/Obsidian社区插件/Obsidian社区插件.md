@@ -268,7 +268,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[Cubox 通过 Advanced Uri 插件导入 Obsidian]]
 - [[virtual-linker]]：也许是 Obsidian 双链最强辅助
 	- [[virtual-linker-轻松探测全库潜在双链并生成虚拟链接]]
-- [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置保管库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
+- [[supercharged-links-obsidian]]：可帮助您根据笔记元数据（例如标签或 YAML 前言属性）设置仓库中链接的样式。可以自动向链接添加颜色、表情符号或其他样式，使其更醒目的进行导航。
 - [[obsidian-auto-link-title]]：自动在粘贴时，提取网页链接标题，创建一个 Markdown 链接形式与正确的标题
 - [[url-into-selection]]：使用常规 Ctrl/Cmd+V 将链接（URL）插入到选定的文本中。也可以反过来，通过命令面板/快捷键将文本插入到选定的链接（URL）中
 - [[external-favicon]]：可以在不使用任何自定义 CSS 的情况下看到链接对应的网站图标

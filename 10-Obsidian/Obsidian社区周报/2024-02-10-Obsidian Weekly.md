@@ -67,7 +67,7 @@ modified: 20240429000624
 
 [Settings profiles](https://github.com/4Source/settings-profiles-obsidian-plugin) by _4Source_
 
-> 允许您创建各种全局设置配置文件。您可以在不同的保管库之间同步它们。为了使您的所有设置保持同步，您无需为您拥有或将来创建的每个保管库再次手动调整它们。
+> 允许您创建各种全局设置配置文件。您可以在不同的仓库之间同步它们。为了使您的所有设置保持同步，您无需为您拥有或将来创建的每个仓库再次手动调整它们。
 
 [Font Size Adjuster](https://github.com/RyotaUshio/obsidian-font-size) by _Ryota Ushio_
 

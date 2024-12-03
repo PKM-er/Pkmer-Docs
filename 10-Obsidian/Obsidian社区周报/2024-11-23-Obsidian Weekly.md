@@ -122,7 +122,7 @@ modified: 20241126230540
 
 [Google Drive Sync](https://obsidian.md/plugins?id=google-drive-sync) By _Richard Xiong_
 
-> 将保管库同步到 Google Drive 以便跨平台使用（适用于 iOS）。
+> 将仓库同步到 Google Drive 以便跨平台使用（适用于 iOS）。
 
 [Proletarian Wizard Task Manager](https://obsidian.md/plugins?id=proletarian-wizard) By _Charles Feval_
 

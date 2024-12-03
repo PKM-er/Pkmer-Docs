@@ -70,7 +70,7 @@ modified: 20240707233711
 
 [Are.na Manager](https://obsidian.md/plugins?id=arena-manager) By _Javier Arce_
 
-> 将内容从您的保管库发布到 Are.na，反之亦然。
+> 将内容从您的仓库发布到 Are.na，反之亦然。
 
 [Github Copilot v1.0.9](https://github.com/Pierrad/obsidian-github-copilot/releases/tag/1.0.9) By _Vasseur Pierre-Adrien_
 

@@ -12,7 +12,7 @@ modified: 20240822223952
 
 # Obsidian 插件：Virtual Linker，也许是 Obsidian 双链最强辅助
 
-Virtual Linker 是一款 Obsidian 插件，提供了类似思源笔记虚拟引用的功能，能够自动为笔记中的文本生成虚拟链接，这些链接与保管库中其他笔记的标题或别名匹配。
+Virtual Linker 是一款 Obsidian 插件，提供了类似思源笔记虚拟引用的功能，能够自动为笔记中的文本生成虚拟链接，这些链接与仓库中其他笔记的标题或别名匹配。
 
 > [!Note] 插件名片
 > - 插件名称：Virtual Linker / Glossary

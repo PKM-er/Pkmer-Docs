@@ -52,7 +52,7 @@ modified: 20240429000705
 
 [Strip Internal Links](https://github.com/adiron/obsidian-strip-internal-links) by _Adi Ron_ 一个简单但非常实用的插件，用于从文件中删除内部链接并将结果复制到剪贴板。
 
-[Git File Explorer](https://github.com/MateusMolina/obsidian-git-file-explorer) by _Mateus Molina_ 将 Obsidian 的文件资源管理器与 Git 集成在一起。启用插件后，您将在文件资源管理器的保管库中找到的 git 存储库旁边看到相关的 git 信息。
+[Git File Explorer](https://github.com/MateusMolina/obsidian-git-file-explorer) by _Mateus Molina_ 将 Obsidian 的文件资源管理器与 Git 集成在一起。启用插件后，您将在文件资源管理器的仓库中找到的 git 存储库旁边看到相关的 git 信息。
 
 #### 更新
 

@@ -1,16 +1,13 @@
 ---
 uid: 20231109234444
 title: Thino FAQ
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Thino FAQ 你想知道 Thino 的一切都在这里
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20241019094138
+modified: 20241127171814
 id: f94eee26b8f42cdf
 ---
 
@@ -216,6 +213,7 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 - 具体可以参考这里 [[Thino Multi-souce]]
 - 简单可以理解是用户使用习惯不同，存储的位置不同
 	- 如常见使用日记插件，那么存储在日记，可能更方便；当然也有用户可以避开和日记混合，日记和 Thino 记录的灵感是分离的，这就是为什么 Thino 冒着各种兼容风险，去选择了提供多种方式。
+
 ### 同步
 
 #### 仅单文件、日记模式同步
@@ -241,17 +239,16 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 - 这是因为 Obsidian 使用的是英文界面而非中文界面。考虑到大量的他国语言界面使用者，大概率可能是国外用户，且鉴于国外对隐私需求和其他规范要求过于严格，所以暂缓了开启同步的功能。
 - 对此有需求同学，可以通过切换 Obsidian 语言到 中文，来完成同步的开启
 
-
 #### 为什么我的微信信息和 Thino web 一直没有同步
 
-- 情况1：没有开启同步，参考这里[[Thino Sync]]
-- 情况2：开了代理，代理导致了数据无法同步，代理原理导致你的数据无法正常和 PKMer 服务器通信
+- 情况 1：没有开启同步，参考这里 [[Thino Sync]]
+- 情况 2：开了代理，代理导致了数据无法同步，代理原理导致你的数据无法正常和 PKMer 服务器通信
 
 #### 同步和微信同步收费吗？
 
 - 是的，未来会收费，但是目前同步和微信同步
 - 后续如果需要收费，社区也不会对之前的用户追讨之前的收费
-- ==已经免费让早鸟用户/或者使用 Thino 的用户免费试用接近1年以上了，你可以通俗理解为对于早使用的用户，我们免费了1年，充分符合早鸟价更多付的原则==
+- ==已经免费让早鸟用户/或者使用 Thino 的用户免费试用接近 1 年以上了，你可以通俗理解为对于早使用的用户，我们免费了 1 年，充分符合早鸟价更多付的原则==
 
 ### 使用检索式是提示异常
 
@@ -272,5 +269,5 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 - [[pane-relief]] 冲突：目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动即可。
 - Advanced Tables 冲突：鉴于此插件已经有段时间不更新了，且 OB 在近期已经完善了表格编辑体验，建议直接使用关闭的方法。
 - iconize 冲突：作者已经主动适配 Thino ，请更新 iconize 到最新版本即可。
-- [[typewriter-mode]] 冲突：因为打字机类插件会强制干预编辑框尺寸
-- Automatically reveal active file：会因为这个插件的开启，导致切换到 Thino 标签页无法切换，该插件作用是针对有实体文件的存储定位，但 Thino 本身是一个应用界面，而非一个实体文件。
+- [[typewriter-mode]] 冲突：会导致 Thino 的编辑框焦点位置产生奇怪的错位，因为打字机类插件会强制干预编辑框尺寸
+- Automatically reveal active file：会因为这个插件的开启，导致工作区中无法切换到 Thino 标签页。原因是：该插件作用是针对有实体文件的存储定位，但 Thino 本身是一个应用界面，而非一个实体文件。

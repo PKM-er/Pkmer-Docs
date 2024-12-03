@@ -327,37 +327,37 @@ Obsidian 没有原生突出显示选项（主要是因为保持符合 Markdown �
 
 这些插件已经过检查，可以正常工作，并针对主题设计了样式，帮助它们看起来很原生。有些可能在样式设置中有附加选项。
 
-|**Plugin 插入**|**Description 描述**|
-|---|---|
-|[**Advanced Tables 高级表格**](https://github.com/tgrosinger/advanced-tables-obsidian)|向 Obsidian 中的 Markdown 表格添加改进的导航、格式设置和操作。|
-|[**Kanban 看板**](https://github.com/mgmeyers/obsidian-kanban)|在 Obsidian 中创建支持 Markdown 的看板。|
-|[**Quick Explorer 快速浏览器**](https://github.com/pjeby/quick-explorer)|标题栏中基于菜单且键盘友好的资源管理器。|
-|[**Calendar 日历**](https://github.com/liamcain/obsidian-calendar-plugin)|创建一个简单的日历视图，用于在每日笔记之间进行可视化和导航。|
-|[**cMenu 菜单**](https://github.com/chetachiezikeuzor/cMenu-Plugin)|添加一个最小且用户友好的文本编辑器模式，以获得更流畅的书写/编辑体验。|
-|[**Dangling Links 悬空链接**](https://github.com/graydon/obsidian-dangling-links)|在侧面板中显示当前保管库中的一组悬空链接。|
-|[**Pane Relief 窗格浮雕**](https://github.com/pjeby/pane-relief)|A 将每个窗格的导航历史记录添加到 Obsidian.md。|
-|[**Icon Folder 图标文件夹**](https://github.com/FlorianWoelki/obsidian-icon-folder)|允许您向文件资源管理器中的文件或文件夹添加图标。|
-|[**Map View 地图视图**](https://github.com/esm7/obsidian-map-view)|Obsidian.md 编辑器的交互式地图视图。它会在您的笔记中搜索编码的地理位置（见下文），并将它们作为标记放置在地图上。|
-|[**Emoji Toolbar 表情符号工具栏**](https://github.com/oliveryh/obsidian-emoji-toolbar)|允许您快速搜索表情符号并将其添加到编辑器中。|
-|[**Tag Folder 标签文件夹**](https://github.com/vrtmrz/obsidian-tagfolder)|像文件夹一样显示您的标签。|
-|[**Obsidian Dictionary 黑曜石词典**](https://github.com/phibr0/obsidian-dictionary)|向 Obsidian 添加字典。|
-|[**Obsidian Icons 黑曜石图标**](https://github.com/visini/obsidian-icons-plugin)|将图标添加到您的黑曜石中。包括 Remix Icon 和 Font Awesome（免费）。|
-|[**Jump To Date 跳转至日期**](https://github.com/TfTHacker/obsidian42-jump-to-date)|使用功能区中的弹出日历或使用以自然语言日期表达式键入的表单快速导航到每日笔记页面。|
-|[**Hover Editor 悬停编辑器**](https://github.com/nothingislost/obsidian-hover-editor)|通过将悬停弹出窗口转变为功能齐全的编辑器实例，增强了核心“页面预览”插件。|
-|[**Quiet Outline 安静的轮廓**](https://github.com/guopenghui/obsidian-quiet-outline)|具有限制树深度能力的替代大纲查看器。|
-|[**Recent Files 最近的文件**](https://github.com/tgrosinger/recent-files-obsidian)|在侧边栏中显示最近打开的文件的列表。 （可选）包括应从列表中排除的文件的路径。|
-|[**File Tree Alternative 文件树替代方案**](https://github.com/ozntel/file-tree-alternative)|具有独立文件夹和文件视图的替代文件资源管理器。|
-|[**Settings Search 设置搜索**](https://github.com/valentine195/obsidian-settings-search)|添加黑曜石设置的全局搜索栏。|
+| **Plugin 插入**                                                                        | **Description 描述**                                             |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| [**Advanced Tables 高级表格**](https://github.com/tgrosinger/advanced-tables-obsidian)   | 向 Obsidian 中的 Markdown 表格添加改进的导航、格式设置和操作。                      |
+| [**Kanban 看板**](https://github.com/mgmeyers/obsidian-kanban)                         | 在 Obsidian 中创建支持 Markdown 的看板。                                 |
+| [**Quick Explorer 快速浏览器**](https://github.com/pjeby/quick-explorer)                  | 标题栏中基于菜单且键盘友好的资源管理器。                                           |
+| [**Calendar 日历**](https://github.com/liamcain/obsidian-calendar-plugin)              | 创建一个简单的日历视图，用于在每日笔记之间进行可视化和导航。                                 |
+| [**cMenu 菜单**](https://github.com/chetachiezikeuzor/cMenu-Plugin)                    | 添加一个最小且用户友好的文本编辑器模式，以获得更流畅的书写/编辑体验。                            |
+| [**Dangling Links 悬空链接**](https://github.com/graydon/obsidian-dangling-links)        | 在侧面板中显示当前仓库中的一组悬空链接。                                           |
+| [**Pane Relief 窗格浮雕**](https://github.com/pjeby/pane-relief)                         | A 将每个窗格的导航历史记录添加到 Obsidian.md。                                 |
+| [**Icon Folder 图标文件夹**](https://github.com/FlorianWoelki/obsidian-icon-folder)       | 允许您向文件资源管理器中的文件或文件夹添加图标。                                       |
+| [**Map View 地图视图**](https://github.com/esm7/obsidian-map-view)                       | Obsidian.md 编辑器的交互式地图视图。它会在您的笔记中搜索编码的地理位置（见下文），并将它们作为标记放置在地图上。 |
+| [**Emoji Toolbar 表情符号工具栏**](https://github.com/oliveryh/obsidian-emoji-toolbar)      | 允许您快速搜索表情符号并将其添加到编辑器中。                                         |
+| [**Tag Folder 标签文件夹**](https://github.com/vrtmrz/obsidian-tagfolder)                 | 像文件夹一样显示您的标签。                                                  |
+| [**Obsidian Dictionary 黑曜石词典**](https://github.com/phibr0/obsidian-dictionary)       | 向 Obsidian 添加字典。                                               |
+| [**Obsidian Icons 黑曜石图标**](https://github.com/visini/obsidian-icons-plugin)          | 将图标添加到您的黑曜石中。包括 Remix Icon 和 Font Awesome（免费）。                 |
+| [**Jump To Date 跳转至日期**](https://github.com/TfTHacker/obsidian42-jump-to-date)       | 使用功能区中的弹出日历或使用以自然语言日期表达式键入的表单快速导航到每日笔记页面。                      |
+| [**Hover Editor 悬停编辑器**](https://github.com/nothingislost/obsidian-hover-editor)     | 通过将悬停弹出窗口转变为功能齐全的编辑器实例，增强了核心“页面预览”插件。                          |
+| [**Quiet Outline 安静的轮廓**](https://github.com/guopenghui/obsidian-quiet-outline)      | 具有限制树深度能力的替代大纲查看器。                                             |
+| [**Recent Files 最近的文件**](https://github.com/tgrosinger/recent-files-obsidian)        | 在侧边栏中显示最近打开的文件的列表。 （可选）包括应从列表中排除的文件的路径。                        |
+| [**File Tree Alternative 文件树替代方案**](https://github.com/ozntel/file-tree-alternative) | 具有独立文件夹和文件视图的替代文件资源管理器。                                        |
+| [**Settings Search 设置搜索**](https://github.com/valentine195/obsidian-settings-search) | 添加黑曜石设置的全局搜索栏。                                                 |
 
 ### 📂 Vault 横幅图标自定义 (Vault Banner Icon Customisation)
 
-#### 什么是保管库横幅图标？(What is the Vault Banner Icon?)
+#### 什么是仓库横幅图标？(What is the Vault Banner Icon?)
 
 ![](https://user-images.githubusercontent.com/7290097/201390811-2a68bc00-a71b-4ba8-8c35-feb968236f49.png)
 
-默认情况下，Prism 启用了 Vault 横幅。这会将 Vault 名称转换为旁边带有图标的元素！这纯粹是一种美学上的改变，使您能够更改图标并向您的保管库添加额外的自定义功能。
+默认情况下，Prism 启用了 Vault 横幅。这会将 Vault 名称转换为旁边带有图标的元素！这纯粹是一种美学上的改变，使您能够更改图标并向您的仓库添加额外的自定义功能。
 
-#### 如何更改保管库横幅图标？(How to change the Vault Banner Icon?)
+#### 如何更改仓库横幅图标？(How to change the Vault Banner Icon?)
 
 下面概述了两种方法来替换 Prism 中的 Vault 横幅图标。 [Icons8](https://icons8.com/icons/new) 是一个很好的图标来源。要替换图标，请执行以下操作：
 
@@ -373,11 +373,11 @@ Obsidian 没有原生突出显示选项（主要是因为保持符合 Markdown �
 
 1. 选择格式。您可以将图标大小保留为默认设置，因为通常它看起来不错。`Link (CDN)`
 2. 复制突出显示的 URL，而不复制其他任何内容。
-3. 获取 URL 并导航到黑曜石保管库中的样式设置。
+3. 获取 URL 并导航到黑曜石仓库中的样式设置。
 4. 更改库横幅图标的选项位于：`Prism Theme -Appearance -Custom Vault Banner -Custom Vault Banner (URL)`
 5. 现在将 URL 粘贴到封装在: 例如 `url()``url(https://img.icons8.com/arcade/64/null/toolbox.png)`
 
-##### 选项 2 - CSS 代码段（最适合脱机保管库）
+##### 选项 2 - CSS 代码段（最适合脱机仓库）
 
 第二个选项是改用 Base64 编码的图标。这可确保即使您的设备没有互联网连接，图标也将始终呈现，因为图标所需的所有数据都已存储。
 
@@ -396,4 +396,4 @@ body {
 ```
 
 1. 将括号之间的文本替换为为所选图标复制的文本。`url()`
-2. 在保管库中保存并启用代码段。
+2. 在仓库中保存并启用代码段。

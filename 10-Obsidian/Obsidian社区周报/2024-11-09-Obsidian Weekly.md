@@ -116,7 +116,7 @@ modified: 20241111133152
 
 [Vault Review](https://obsidian.md/plugins?id=vault-review) By _Alexander_
 
-> 该插件允许您创建保管库的快照并随机地一一查看其中的文件。
+> 该插件允许您创建仓库的快照并随机地一一查看其中的文件。
 
 [Session Notes](https://obsidian.md/plugins?id=session-notes) By _tabibyte_
 
@@ -124,7 +124,7 @@ modified: 20241111133152
 
 [Smart Composer](https://obsidian.md/plugins?id=smart-composer) By _Heesu Suh_
 
-> 带有笔记上下文的人工智能聊天、智能写作帮助以及对您的保管库的一键编辑。
+> 带有笔记上下文的人工智能聊天、智能写作帮助以及对您的仓库的一键编辑。
 
 ![Weekly-2024-11-09-Weekly-2024-11-09-986d9480-fe76-4698-8d41-6a0a3aca7c83|650](https://cdn.pkmer.cn/images/Weekly-2024-11-09-Weekly-2024-11-09-986d9480-fe76-4698-8d41-6a0a3aca7c83.gif!pkmer)
 
@@ -143,7 +143,7 @@ modified: 20241111133152
 [Vault Full Statistics](https://obsidian.md/plugins?id=vault-full-statistics) By _Mikhail Savin_
 
 > [Vault Statistics](https://github.com/bkyle/obsidian-vault-statistics-plugin) 插件的修改版。
-> 状态栏项目包含保管库完整统计信息，例如注释、文件、附件、链接、标签和保管库质量的数量。
+> 状态栏项目包含仓库完整统计信息，例如注释、文件、附件、链接、标签和仓库质量的数量。
 
 [Fold Properties](https://obsidian.md/plugins?id=fold-properties) By _James Alexandre_
 

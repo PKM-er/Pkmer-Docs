@@ -24,7 +24,7 @@ modified: 20240206171617
 
 选项包括北美、欧洲、亚洲和大洋洲。所有内容均采用最强加密标准 AES-256 进行保护。
 
-以前所有库都位于我们的北美地区。如果您想将现有保管库迁移到其他区域，您将需要创建一个新的远程保管库。
+以前所有库都位于我们的北美地区。如果您想将现有仓库迁移到其他区域，您将需要创建一个新的远程仓库。
 
 更多信息请点击这里： [https://help.obsidian.md/Obsidian+Sync/Set+up+Obsidian+Sync#Regional+sync+servers](https://help.obsidian.md/Obsidian+Sync/Set+up+Obsidian+Sync#Regional+sync+servers "https://help.obsidian.md/Obsidian+Sync/Set+up+Obsidian+Sync#Regional+sync+servers")
 

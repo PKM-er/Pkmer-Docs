@@ -77,7 +77,7 @@ modified: 20240429000837
 
 [KV Store](https://obsidian.md/plugins?id=kv-store) By _Darren-project_
 
-> 该插件向 Obsidian 添加了一个键值存储，允许您在保管库中存储和检索键值对。
+> 该插件向 Obsidian 添加了一个键值存储，允许您在仓库中存储和检索键值对。
 
 [my anime list text exporter](https://obsidian.md/plugins?id=my_anime_list_text_exporter) By _XmoncocoX_
 

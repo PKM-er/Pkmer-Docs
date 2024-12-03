@@ -48,7 +48,7 @@ JSON Canvas 可以作为任何应用程序或工具的导入、导出和存储�
 
 [Cicada Synchronizer](https://obsidian.md/plugins?id=cicada-sync) By _Adapole, Adapole, Mahyar Mirrashed_
 
-> 使用 Git 同步保管库以进行团队协作。
+> 使用 Git 同步仓库以进行团队协作。
 
 [Project Browser](https://obsidian.md/plugins?id=project-browser) By _Dale de Silva_
 
@@ -161,7 +161,7 @@ JSON Canvas 可以作为任何应用程序或工具的导入、导出和存储�
 
 [obsidiantools](https://github.com/mfarragher/obsidiantools)
 
-> Obsidiantools 是一个 Python 包，用于获取您的 Obsidian. Md 笔记的结构化元数据并分析您的保管库。通过使用广泛应用的 Python 数据堆栈，在一个地方获取有关所有笔记的指标和详细信息，以补充您的 Obsidian 工作流。
+> Obsidiantools 是一个 Python 包，用于获取您的 Obsidian. Md 笔记的结构化元数据并分析您的仓库。通过使用广泛应用的 Python 数据堆栈，在一个地方获取有关所有笔记的指标和详细信息，以补充您的 Obsidian 工作流。
 
 ## PKMer 出品
 
