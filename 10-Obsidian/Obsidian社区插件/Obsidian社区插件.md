@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240913175045
+modified: 20241205100153
 ---
 
 # Obsidian 社区插件
@@ -444,6 +444,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[cmdr]]：给 Obsidian 的不同功能区增加自定义快捷按钮
 - [[obsidian-completr]]：为 LaTeX, Frontmatter，callout 提供了自动补全功能，你还可以提供文件作为联想的文字。
 - [[auto-note-mover]]：可以自动将笔记根据规则，移动到各自的文件夹中
+- [[auto-file-organizer]]：根据文件扩展名或 Tag 自动组织/整理文件到文件夹中
 - [[obsidian-auto-template-prompt]]：在创建文件时自动打开一个命令窗口让你插入模板。
 - [[obs-text-wrapper]]：给选中文本加上 HTML 标签
 - [[obsidian-wrap-with-shortcuts]]：给选中文本加上自定义前后缀标签
