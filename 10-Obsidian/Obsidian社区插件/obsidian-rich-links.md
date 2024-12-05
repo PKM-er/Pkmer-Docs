@@ -27,7 +27,7 @@ modified: 20230920231804
 
 ## 效果&特性
 
-![image.png](https://cdn.pkmer.cn/images/773085333dca8bd0a8ba14d9a72baa9a_MD5.png!pkmer)
+![image.png|800](https://cdn.pkmer.cn/images/773085333dca8bd0a8ba14d9a72baa9a_MD5.png!pkmer)
 
 可以将笔记中的 URL 转化为卡片预览样式，简单类似 Notion 一样。
 
@@ -43,7 +43,7 @@ modified: 20230920231804
 - 圈选你要改变成卡片样式的链接文本。
 - 使用 Ctrl/Cmd + P 呼出命令面板，搜索并选择 `Rich Links:Create Rich Links` ，插件会自动处理。如图：
 
-![image.png](https://cdn.pkmer.cn/images/ea5e84d9c1557491fb46394fa99b00fd_MD5.png!pkmer)
+![image.png|800](https://cdn.pkmer.cn/images/ea5e84d9c1557491fb46394fa99b00fd_MD5.png!pkmer)
 
 >[!Warning] 注意
 >在一些网络情况不好的情况下， 会导致美化卡片样式无法返回。
