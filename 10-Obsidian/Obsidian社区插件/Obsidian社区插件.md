@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20241205100153
+modified: 20241206101115
 ---
 
 # Obsidian 社区插件
@@ -72,6 +72,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些插件可直接优化或提升 Obsidian 笔记编辑的用户体验。它们一般会直接作用于工作区，使 Obsidian 的操作界加直观、可视化，从而提升用户的使用体验。许多插件中还集成了 callout、可视化操作及浮动目录等功能，让你更容易地浏览、查看和编辑笔记内容。所有这些特性的集成对于 Obsidian 用户来说，可以让用户的操作过程变得更为简单、直观，同时也增加了对用户的使用体验的提升。
 
+- [[masking-type]]：简易好用的挖空工具，支持 粗体、斜体、高亮
 - [[inline-spoilers]]：也许是最方便的挖空编辑工具
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
