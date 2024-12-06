@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 ```
 
 - Author：熊猫别熬夜
-- PKMerDoc：[[Excalidraw LateχEditor：用于画板的 Lateχ编辑器]]
+- PKMerDoc：[[Excalidraw LateχEditor-用于画板的 Lateχ编辑器]]
 - Description：可视化编辑 Lateχ公式。
 	- ![Excalidraw.md](https://cdn.pkmer.cn/images/202409081940224.png!pkmer)
 

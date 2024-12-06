@@ -1,18 +1,13 @@
 ---
 uid: 20240824195025
-title: Obsidian的垂直标签页，给你生产效率拉满！
-tags:
-  - 插件
-  - 标签页
-  - 标签页管理
-  - 垂直标签页
-  - 实践
+title: Obsidian 的垂直标签页，给你生产效率拉满
+tags: [插件, 标签页, 标签页管理, 垂直标签页, 实践]
 description: Vertical Tabs插件使用实践经验
 author: ProudBenzene
 type: practice
 draft: false
 editable: false
-modified: 20240824195102
+modified: 20241206102954
 ---
 
 # Obsidian 的垂直标签页，给你生产效率拉满
