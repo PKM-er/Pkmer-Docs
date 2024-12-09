@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20240429174616
+modified: 20241209145912
 ---
 
 # Obsidian 基础操作
@@ -54,6 +54,13 @@ Obsidian 的主题问题、css 样式片段 snippets、插件都是隐藏在 `.o
 
 - Win：直接在资源管理器中修改文件夹选项，显示隐藏文件即可
 - Mac：注意，`.obsidian` 文件夹可能是隐藏的。在 macOS 上，您可以按 `Command+Shift+.` 来在 Finder 中显示该文件夹。
+
+### 如何打开 Obsidian 沙箱仓库 (by 熊猫)
+
+点击仓库旁边的问号按钮，在弹出的对话框里面有沙箱仓库选项。
+
+![24.11.25_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412091459911.png!pkmer)
+
 
 ## Obsidian 的基本信息获取
 

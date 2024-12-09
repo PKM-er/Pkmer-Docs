@@ -440,6 +440,14 @@ Style Setting 命令中有这个命令，通过 Ctrl + P 调出来。
 
 > 如果想在设置一个按钮，可以用 Commander 插件，创建一个按钮在侧边栏，方便调用。
 
+## Thino 插件
+
+### Thino 的更新记录哪里看？怎么看更新了什么？ (by 熊猫)
+
+![24.11.25_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412091457240.png!pkmer)
+
+![24.11.25_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412091457809.png!pkmer)
+
 ## 第三方工具
 
 ### iCloud
