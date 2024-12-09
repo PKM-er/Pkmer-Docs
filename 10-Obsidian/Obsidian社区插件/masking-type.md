@@ -21,9 +21,9 @@ modified: 20241206101042
 > - 插件作者：mofukuru
 > - 插件版本：1.0.1
 > - 插件说明：可以根据 粗体、斜体、高亮来隐藏和挖空文件内容易好用的挖空工具，支持 粗体、斜体、高亮
-> - 插件分类：[' 文件管理 ', 'obsidian 插件 ']
-> - 插件项目地址：[点我跳转](https://github.com/mofukuru/auto_file_organizer/)
-> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-file-organizer)
+> - 插件分类：[' 编辑工具 ', 'obsidian 插件 ']
+> - 插件项目地址：[点我跳转](https://github.com/Telehakke/masking-type/)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?masking-type)
 
 ## 效果&特性
 

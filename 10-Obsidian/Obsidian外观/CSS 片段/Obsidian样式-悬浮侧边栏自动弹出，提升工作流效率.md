@@ -18,7 +18,7 @@ modified: 20240429001159
 
 自动悬浮两侧菜单栏的效果：
 
-![2024-04-04_Obsidian样式-悬浮侧边栏自动弹出，提升工作流效率_IMG-1](https://cdn.pkmer.cn/images/202404130048634.gif!pkmer)
+![2024-04-04_Obsidian样式-悬浮侧边栏自动弹出，提升工作流效率_IMG-1|900](https://cdn.pkmer.cn/images/202404130048634.gif!pkmer)
 
 > [!tip] 可以根据命令菜单栏设置左右侧悬浮状态
 > ![2024-04-04_Obsidian样式-悬浮侧边栏自动弹出，提升工作流效率_IMG-2](https://cdn.pkmer.cn/images/202404130048636.gif!pkmer)
