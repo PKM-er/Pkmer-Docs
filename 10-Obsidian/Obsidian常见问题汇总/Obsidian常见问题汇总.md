@@ -81,6 +81,7 @@ modified: 20240429174723
 
 - 原 Obsidian Memos 插件，经过 PKMer 和原作者沟通，和长期共同开发测试，将会于 23 年 Q4 迎来重大版本更新，并正式更名为 Thino，具体内容可以参看 [[0x-thino-changelog]]、[[0x-thino-web-changelog]]
 
+- [[Obsidian插件常见问题#Thino 的更新记录哪里看？怎么看更新了什么？ (by 熊猫)]]
 #### 发现异常
 
 - 可以通过 PKMer 的交流群来反馈给管理员
