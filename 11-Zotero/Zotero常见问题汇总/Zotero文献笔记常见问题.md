@@ -4,6 +4,7 @@ title: Zotero文献笔记常见问题
 tags:
   - zotero
   - "#文献笔记"
+  - faq
 description: Zotero文献笔记方面的常见问题
 author: PKMer
 type: other

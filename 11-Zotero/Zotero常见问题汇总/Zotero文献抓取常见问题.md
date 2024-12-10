@@ -5,6 +5,7 @@ tags:
   - zotero
   - 文献
   - 文献抓取
+  - faq
 description: Zotero文献抓取方面的常见问题
 author: PKMer
 type: other

@@ -1,7 +1,8 @@
 ---
 uid: 20230818165559
 title: PKMer 社区 FAQ
-tags: []
+tags:
+  - faq
 description: PKMer FAQ
 author: PKMer
 type: awesome

@@ -5,6 +5,7 @@ tags:
   - zotero
   - 文献引用
   - 参考文献
+  - faq
 description: Zotero在文献引用方面的常见问题
 author: PKMer
 type: other

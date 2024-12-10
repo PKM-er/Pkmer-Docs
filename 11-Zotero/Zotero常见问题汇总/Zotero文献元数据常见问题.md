@@ -6,6 +6,7 @@ tags:
   - 参考文献
   - 元数据
   - metadata
+  - faq
 description: Zotero在文献元数据方面的常见问题
 author: PKMer
 type: other
