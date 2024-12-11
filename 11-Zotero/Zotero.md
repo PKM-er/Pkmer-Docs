@@ -7,7 +7,7 @@ author: windingwind,Northword,汪汪,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20230905010401
+modified: 20241211104801
 ---
 
 # Zotero 是什么？为什么使用 Zotero？
@@ -60,6 +60,7 @@ Zotero 关注你的隐私安全并且无需付费。Zotero 由独立的非营利
 - [[Zotero基本使用]]
 - [[Zotero插件]]
 - [[Zotero使用技巧]]
+- [[
 
 每个目录下都有对应的 MOC 目录对各个问题进行指引
 
@@ -92,3 +93,7 @@ NoteExpress 只支持 Windows 系统，Mac 和 Linux 系统则被拒之门外。
 知网研学支持的数据库较少，在 Mac 上甚至只支持 CNKI 学术总库。
 
 知网研学的订阅费用，高校版 198RMB/年，标准版 998RMB/年，尊享版 3298RMB/年，还请自行体会。
+
+## Zotero 常见问题汇总
+
+- [[Zotero常见问题汇总]]
