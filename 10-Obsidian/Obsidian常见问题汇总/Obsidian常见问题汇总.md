@@ -1,7 +1,10 @@
 ---
 uid: 20230411155729
 title: Obsidian 常见问题汇总
-tags: [Obsidian, 常见问题]
+tags:
+  - Obsidian
+  - 常见问题
+  - faq
 description: Obsidian 常见问题汇总,包含ob的启动，安装，使用，主题常见的问题解答
 author: PKMer
 type: awesome

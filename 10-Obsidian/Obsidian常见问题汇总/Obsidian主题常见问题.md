@@ -1,7 +1,13 @@
 ---
 uid: 20230601185441
 title: Obsidian 主题常见问题
-tags: [Obsidian, 主题, 常见问题, BT示例库, Bluetopaz]
+tags:
+  - Obsidian
+  - 主题
+  - 常见问题
+  - BT示例库
+  - Bluetopaz
+  - faq
 description: Obsidian主题常见问题
 author: PKMer
 type: other
