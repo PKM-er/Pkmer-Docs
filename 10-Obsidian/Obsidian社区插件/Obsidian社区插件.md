@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20241212191804
+modified: 20241213200255
 ---
 
 # Obsidian 社区插件
@@ -165,9 +165,10 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-dynamic-toc]]：帮助你在笔记中生成对应的目录
 - [[obsidian-plugin-toc]]：帮助你在笔记中生成对应的目录
 - [[insta-toc]]：通过插入特殊的代码块，生成一个自动目录
-- [[any-block]]：个简易而又强大的块编辑器，您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如 `列表转表格`
 - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样
 - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
+- [[todos-sort]]：自动排序已完成的任务
+- [[any-block]]：个简易而又强大的块编辑器，您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如 `列表转表格`
 - [[obsidian-outliner]]：为 Obsidian 的大纲添加快捷操作
 - [[waypoint]]：快速创建笔记 MOC 结构
 - [[automatic-renumbering]]：自动为有序列表重新编号
