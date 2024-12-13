@@ -1,16 +1,13 @@
 ---
 uid: 20240730205547
 title: Obsidian 插件：Vertical Tabs 可能是目前功能最完善垂直标签管理
-tags:
-  - 标签页管理
-  - 垂直标签
-  - obsidian插件
+tags: [标签页管理, 垂直标签, obsidian插件]
 description: Obsidian 插件：Vertical Tabs 可能是目前功能最完善垂直标签管理
 author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20240810002524
+modified: 20241213115014
 ---
 
 # Obsidian 插件：Vertical Tabs 可能是目前功能最完善垂直标签管理
@@ -30,6 +27,8 @@ Obsidian 和 网页浏览器都是默认的水平选项卡布局，可能会使�
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vertical-tabs)
 
 ## 效果&特性
+
+![image.png|700](https://cdn.pkmer.cn/images/20241213111203.png!pkmer)
 
 ![image.png|800](https://cdn.pkmer.cn/images/20240808232329.png!pkmer)
 
