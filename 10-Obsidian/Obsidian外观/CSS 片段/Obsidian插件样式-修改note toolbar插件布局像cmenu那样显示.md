@@ -43,7 +43,7 @@ Note Toolbar 它可以为不同的文件夹配置不同的工具栏，并能够�
 div[data-name *="cmenu"] {
   z-index: var(--layer-status-bar);
   position: absolute;
-  bottom: 80px;
+  bottom: 60px;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -75,8 +75,8 @@ div[data-name *="cmenu"] {
     border-radius: 6px !important;
 
     z-index: var(--layer-status-bar);
-    box-shadow: 0px 3px 32px rgb(31 38 135 / 15%);
-    margin: 40px !important;
+    box-shadow: 0px 3px 30px rgb(31 38 135 / 15%);
+    margin: 30px !important;
     border: 1px solid var(--background-modifier-border);
 
     /* 添加毛玻璃效果 */
