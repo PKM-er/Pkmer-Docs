@@ -3,17 +3,12 @@ uid: 20241213233727
 title: 如何在 OB 内应用 CSS 修改
 tags: [Obsidian]
 description: 
-author: 
+author: Moy
 type: other
 draft: false
 editable: false
-modified: 20241214172520
-aliases: []
-create_date: 2024-12-13T23:37
-modified_date: 2024-12-14T00:33
-done: true
-finished_date: 2024-12-13
-output: [PKMer, OB中文论坛]
+modified: 20241214173629
+
 ---
 
 # 如何在 OB 内应用 CSS 修改
