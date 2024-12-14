@@ -1,7 +1,7 @@
 ---
 uid: 20230529232632
 title: Obsidian 笔记基本管理
-tags: [obsidain,教程]
+tags: [Obsidian,教程]
 description: Obsidian 笔记基本管理
 author: Ryooo
 type: tutorial

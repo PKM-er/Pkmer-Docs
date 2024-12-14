@@ -34,7 +34,7 @@ modified: 20231118104305
 
 - 第三个问题：
 	- 教程的第 7 步操作，复制解压好的 PKMer 插件文件夹时多了一层 obsidian-pkmer 文件夹。
-	- 解决办法：打开 obsidian-pkmer 文件夹，只复制最后一层 obsidain-pmker 文件夹。
+	- 解决办法：打开 obsidian-pkmer 文件夹，只复制最后一层 Obsidian-pmker 文件夹。
 
 ---
 

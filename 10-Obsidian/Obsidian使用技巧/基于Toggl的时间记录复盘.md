@@ -1,7 +1,7 @@
 ---
 uid: 20240506201349
 title: 基于 Toggl 的时间记录复盘
-tags: [obsidain, 统计]
+tags: [Obsidian, 统计]
 description: 将Toggl导入obsidian并进行复盘的工作流
 author: xy
 type: practice

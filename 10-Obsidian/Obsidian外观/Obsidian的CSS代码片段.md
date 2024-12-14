@@ -157,7 +157,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-文件浏览器样式]]
 - [[Obsidian样式-文件管理名称滚动效果]]
-- [[Obsidain样式-自定义文件夹图标]]
+- [[Obsidian样式-自定义文件夹图标]]
 - [[Obsidian样式-超长文件名换行]]
 - [[Obsidian样式-分割文件管理器]]
 - [[Obsidian样式-粘性文件夹(Sticky Folder)]]
