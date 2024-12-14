@@ -1,20 +1,13 @@
 ---
 uid: 20230521003527
 title: Obsidian 基础操作
-tags:
-  - Obsidian
-  - 主题
-  - 常见问题
-  - 示例库
-  - Bluetopaz
-  - CSS
-  - faq
+tags: [Obsidian, 主题, 常见问题, 示例库, Bluetopaz, CSS, faq]
 description: Obsidian 基础操作常见问题汇总
 author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20241209145912
+modified: 20241214172132
 ---
 
 # Obsidian 基础操作
@@ -67,7 +60,6 @@ Obsidian 的主题问题、css 样式片段 snippets、插件都是隐藏在 `.o
 点击仓库旁边的问号按钮，在弹出的对话框里面有沙箱仓库选项。
 
 ![24.11.25_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412091459911.png!pkmer)
-
 
 ## Obsidian 的基本信息获取
 
@@ -192,6 +184,35 @@ Obsidian 能否像其他软件一样，常驻在系统托盘
 使用插件，请参考：[[obsidian-tray]]
 
 ## 显示&输入
+
+### 如何隐藏 Obsidian 侧边的某些按钮 (by 熊猫 23.12.15)
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141718887.png!pkmer)
+
+答：
+
+1. Ob 自带：直接在侧边栏空白处鼠标右键会弹出一个按钮面板，取消掉✔就可以隐藏掉
+	1. 在设置中也可以找到
+	   ![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141718278.png!pkmer)
+	   ![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141718688.png!pkmer)
+2. Ob 插件：commander 插件支持隐藏侧边栏按钮，以及定义其他按钮
+   ![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141718119.png!pkmer)
+
+### 如何调整页面宽度，扩大笔记页面两端的内容 (by 熊猫)
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141718527.png!pkmer)
+
+答：
+
+1. 在 PKMer Market 或者插件市场里面搜索 Editor Width Slider 就可以下载，这个插件可以用来通过滚轮调整页面宽度
+2. [Obsidian 插件：Editor Width Slider 帮你快速自定义笔记的栏宽]([https://pkmer.cn/show/20230720000017](https://pkmer.cn/show/20230720000017) )
+3. 通过 CSS 来修改：
+
+	```css
+	div.cm-scroller {
+	--file-line-width: 1080px;
+	}
+	```
 
 ### Obsidian 为什么不能重命名文件名
 
@@ -439,6 +460,30 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 }
 ```
 
+### 网页上粘贴的文档，有很多空格，如何去除多余空格 (by 龙 23.12.12)
+
+答：
+
+1. 网站上的粘贴可以用 Ctrl + Shift +V 进行原格式粘贴，Ctrl + V 会嵌入网站文本格式 (by Huajin 23.12.12)
+2. 多种去多空格的，自动的有 advanved paste，easy typing，手动的有 linter(功能复杂点，主要是格式 md 文档，默认 Ctrl + S 格式文档)，增强编辑 (by 熊猫别熬夜 23.12.12)
+3. Linter 小白慎用，增强编辑好像也有去空行，或者去这里在线处理：[https://laorange.gitee.io/paper-assistant/](https://laorange.gitee.io/paper-assistant/) (by HC 23.12.12)
+
+在 Linter 的设置中对空行的设置如下：
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141720607.png!pkmer)
+
+> 在第 6 个页面里面还有有很多关于空行的设置 (by 熊猫)
+> ![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141720131.png!pkmer)
+
+### 外部文件如何绝对路径插入，直接用 File 链接打开 (by 熊猫)
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141720500.png!pkmer)
+
+答：
+
+- 方案一：在资源管理器按住 ctrl 把文件拖进 ob，自动会生成链接到文件 (推荐，但 mac 失效)；
+- 方案二：插件 Better File Link，在 ob 内部打开，在方案一失效下，推荐采用这个方案。
+
 ## 输出&导出
 
 ### 怎么把 md 文档导出为图片
@@ -550,6 +595,12 @@ strong {
 }
 
 ```
+
+### 请问有什么办法在 ob 里不显示 pdf 文件内容，只想在文档里存着？(by 熊猫)
+
+答：用 Opener 插件，可以设置特定后缀的文件采用默认应用打开：
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141720248.png!pkmer)
 
 ### Obsidian 如何批量、快速管理标签 Tag
 
