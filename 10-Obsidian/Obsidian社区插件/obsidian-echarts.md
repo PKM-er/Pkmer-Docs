@@ -22,7 +22,7 @@ modified: 20230712172437
 
 ## 概述
 
-obsidain-echarts 插件是一款自定义程度很高的插件，结合 [[dataview]] 查询到的数据源，生成丰富的图表。echarts 插件是把 [Apache ECharts](https://echarts.apache.org/en/index.html) 库移植到了 obsidian 中，所以官方的示例代码稍加修改即可用于 obsidian 中。目前插件集成的 echarts 版本为 5.3.2。
+obsidian-echarts 插件是一款自定义程度很高的插件，结合 [[dataview]] 查询到的数据源，生成丰富的图表。echarts 插件是把 [Apache ECharts](https://echarts.apache.org/en/index.html) 库移植到了 obsidian 中，所以官方的示例代码稍加修改即可用于 obsidian 中。目前插件集成的 echarts 版本为 5.3.2。
 
 ## 图表类型
 

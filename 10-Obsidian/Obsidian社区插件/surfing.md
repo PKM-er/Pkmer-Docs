@@ -1,7 +1,7 @@
 ---
 uid: 20230711170833
 title: Obsidian 插件：surfing -- 让 Obsidian 成为网络浏览器
-tags: [obsidain, 插件, 浏览器]
+tags: [Obsidian, 插件, 浏览器]
 description: obsidian 的网络浏览器插件,允许你在 Obsidian v1.0 的标签页中浏览任意网页
 author: cuman
 type: basic
@@ -58,7 +58,7 @@ modified: 20230829165738
 
 ### 点击笔记中的链接
 
-安装插件后不需要什么设置，surfing 插件已经接管了 Obsidain 点开链接的默认行为，点击链接就会自动在 ob 中打开。
+安装插件后不需要什么设置，surfing 插件已经接管了 Obsidian 点开链接的默认行为，点击链接就会自动在 ob 中打开。
 
 ![image.png](https://cdn.pkmer.cn/images/202307111751168.png!pkmer)
 
@@ -68,9 +68,9 @@ modified: 20230829165738
 
 ![image.png](https://cdn.pkmer.cn/images/202307111749453.png!pkmer)
 
-### 利用浏览器书签在 Obsidain 中打开网站
+### 利用浏览器书签在 Obsidian 中打开网站
 
-插件注册了一个 Obsidain uri 协议，该协议允许你使用 `obsidian://web-open?url=<url>` 的网址在 Obsidian 中打开 Web-broswer
+插件注册了一个 Obsidian uri 协议，该协议允许你使用 `obsidian://web-open?url=<url>` 的网址在 Obsidian 中打开 Web-broswer
 
 。其中 `<url>` 指网页地址链接。配合浏览器的 bookmarklets 特性可以实现点击浏览器的一个书签，就可以调用 ob 内打开当前浏览器网址。
 

@@ -21,7 +21,7 @@ modified: 20241212193023
 
 OS 回答：
 
-- 并不全是，但是我们依然提供解决 Obsidain 插件、主题下载问题的 [Obsidian 主题集市 (pkmer.cn)](https://pkmer.cn/products/theme/themeMarket/) [Obsidian 插件集市 (pkmer.cn)](https://pkmer.cn/products/plugin/pluginMarket/)
+- 并不全是，但是我们依然提供解决 Obsidian 插件、主题下载问题的 [Obsidian 主题集市 (pkmer.cn)](https://pkmer.cn/products/theme/themeMarket/) [Obsidian 插件集市 (pkmer.cn)](https://pkmer.cn/products/plugin/pluginMarket/)
 	- 并且社区全体同学都非常感谢 猫哥和银姐开创了 Obsidian 这款软件，以及 Obsidian 广大社区插件开发者
 - 你们会发现社区已经陆续更新了 Zotero，TiddlyWiki 等内容
 - 未来也包括你，也可以为社区做出贡献，了解 PKMer 社区积极贡献者们 [关于我们](https://pkmer.cn/about/)

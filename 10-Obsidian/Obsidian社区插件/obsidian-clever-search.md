@@ -1,7 +1,7 @@
 ---
 uid: 20240229104120
 title: Obsidian 插件：Clever Search 最强模糊搜索插件之一
-tags: [Quicker, 插件, obsidain, AI, 模糊搜索]
+tags: [Quicker, 插件, Obsidian, AI, 模糊搜索]
 description: 插件 Clever Search 将支持语义搜索，该功能依赖外置 AI 引擎，本文用 Quicker 实现自动跟随 Obsidian 开启或关闭该引擎。
 author: ImmortalSty
 type: advanced
