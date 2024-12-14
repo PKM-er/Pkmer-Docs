@@ -212,3 +212,7 @@ OK，那么关于这款插件的介绍到这里。
 感兴趣了吗？点击仓库前往体验：[chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar)
 
 你也可以在这里点击 Install 直接安装插件： [Plugins - Obsidian](https://obsidian.md/plugins?id=note-toolbar)
+
+## 关联文档
+
+- [[Obsidian插件样式-修改note toolbar插件布局像cmenu那样显示]]
