@@ -44,3 +44,4 @@ Obsidian 提供一些和其他软件类似的基础外观设定和操作
 如果你想学习如何自己定义样式，那么你可以参考 [[Obsidian的CSS代码片段#自定义 CSS 简单上手指南]] 中的 Obsidian 建议样式指导。当然你可能还需要附带了解下，[[Obsidian的YAML和Frontmatter]]。[[设计极简风 Obsidian 主页]] 则提供了如何设计简单的主页方式。
 
 - [[OB样式调整基础课-CSS入门科普]]
+- [[如何在OB内应用CSS修改]]
