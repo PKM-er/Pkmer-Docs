@@ -1,13 +1,13 @@
 ---
 uid: 20241214165026
 title: Obsidian 插件样式 - 修改 note toolbar 插件布局像 cmenu 那样显示
-tags: []
-description: 
-author: 
+tags: [插件样式]
+description: 修改 note toolbar 插件布局像 cmenu 那样显示
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20241218143252
+modified: 20241218151635
 ---
 
 # Obsidian 插件样式 - 修改 note toolbar 插件布局像 cmenu 那样显示
