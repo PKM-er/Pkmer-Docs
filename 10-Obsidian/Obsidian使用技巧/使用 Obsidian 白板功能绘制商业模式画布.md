@@ -1,7 +1,7 @@
 ---
 uid: 20231220105445
 title: 使用 Obsidian 白板功能绘制商业模式画布
-tags: [obsidain, Canvas]
+tags: [Obsidian, Canvas]
 description: 
 author: Neonity2020
 type: other
@@ -29,7 +29,7 @@ modified: 20231220112448
 - 成本结构：创造产品的投入资源，资金、人力等
 - 重要伙伴：商业链路上的伙伴，如产品方和渠道方
 
-## 通过 obsidain 的白板实现商业模式画布
+## 通过 Obsidian 的白板实现商业模式画布
 
 ### 一图流
 

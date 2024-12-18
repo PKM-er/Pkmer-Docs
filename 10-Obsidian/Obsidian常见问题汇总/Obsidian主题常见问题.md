@@ -1,13 +1,13 @@
 ---
 uid: 20230601185441
 title: Obsidian 主题常见问题
-tags: [Obsidian, 主题, 常见问题, BT示例库, Bluetopaz]
+tags: [Obsidian, 主题, 常见问题, BT示例库, Bluetopaz, faq]
 description: Obsidian主题常见问题
 author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20241209145940
+modified: 20241214172300
 ---
 
 # Obsidian 主题常见问题
@@ -17,6 +17,34 @@ modified: 20241209145940
 你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
 
 ## 样式的问题
+
+### 请问中英文能分别设置不同的字体吗？(by 熊猫)
+
+- 设置里面的字体设置是系统找不到对应字体时，切换下一个字体 最后就是默认字体的设置，因为不同设备可能没有当前字体。
+- 如果是中英文不同字体，可以把英文放在中文字体前面
+- 对中英文设置不同字体的标题的 CSS 的 CSS 片段：
+
+```css
+body:not(.heading-indicator-off)
+  :is(.markdown-rendered, .markdown-preview-view)
+  :is(h1, h2, h3, h4, h5, h6) {
+    font-family:'Times New Roman', 宋体 !important;
+}
+```
+
+### 有没有什么办法在 obsidian 里面实现子页面的效果 (by 熊猫)
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141722276.png!pkmer)
+
+答：[Obsidian 插件：【Readme】Folder notes](https://pkmer.cn/show/2023080322184310)，插件作者：LostPaul，市场中有很多类似名称的插件，请下载该作者插件
+
+配合 Minimal 主题的 list-card 的 css 片段可以实现以下效果 [Obsidian 样式：minimal 主题 Cards 卡片布局](https://pkmer.cn/show/20230905221421)
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141722693.png!pkmer)
+
+鼠标右键选择 `Creat folder overview`：
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141722176.png!pkmer)
 
 ### ob 怎么用 tab 输入制表符而不是行首缩进呀？(by 熊猫)
 
@@ -68,6 +96,14 @@ Obsidian 样式：minimal 主题 Cards 卡片布局，详情可以参考 PKMer �
 ## 主题类问题
 
 ### Bluetopz 主题和 BT 示例库
+
+### 菜单透明效果怎么设置? (by 熊猫)
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141722129.png!pkmer)
+
+答：在 BT 主题下可以通过 Style Seting 中可以进行设置：
+
+![24.12.14_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202412141722528.png!pkmer)
 
 #### 文档属性不显示内容 (by 熊猫)
 

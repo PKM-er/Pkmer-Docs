@@ -71,7 +71,7 @@ GitHub Gist 是 GitHub 提供的一项功能，允许用户创建和共享代码
 	- 注意生成后的令牌请立即复制保存！
 	- ![如何在Obsidian中使用Gist.md](https://cdn.pkmer.cn/images/202408301219248.png!pkmer)
 
-## Obsidain 中的 Gist 插件介绍
+## Obsidian 中的 Gist 插件介绍
 
 Obsidian 插件市场非常丰富，Gist 的相关插件也是有的，主要有以下 4 个插件：
 

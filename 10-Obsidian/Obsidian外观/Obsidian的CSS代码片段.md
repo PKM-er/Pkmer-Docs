@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20241102205801
+modified: 20241214170754
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -157,7 +157,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-文件浏览器样式]]
 - [[Obsidian样式-文件管理名称滚动效果]]
-- [[Obsidain样式-自定义文件夹图标]]
+- [[Obsidian样式-自定义文件夹图标]]
 - [[Obsidian样式-超长文件名换行]]
 - [[Obsidian样式-分割文件管理器]]
 - [[Obsidian样式-粘性文件夹(Sticky Folder)]]
@@ -227,12 +227,21 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 插件样式
 
 - [[Obsidian样式-Calendar插件的样式修改]]
-- [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]
-- [[Obsidian样式-简单更改Excalidraw工具栏布局]]
 - [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
+
+#### Excalidraw
+
 - [[Obsidian样式-简单更改Excalidraw工具栏布局]]
+
+#### Dataview
+
 - [[Obsidian样式-可滚动的Dataview表格视图]]
+- [[Obsidian样式-DataView在table视图下标签出现错位断裂的修复]]
+
+#### Note toolbar
+
+- [[Obsidian插件样式-修改note toolbar插件布局像cmenu那样显示]]
 
 #### Thino
 
@@ -253,6 +262,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 
 - [[Obsidian样式-看板样式]]
 - [[Obsidian样式-Kanban魔改之四象限模式和康奈尔笔记模式]]
+
 ## 自定义 CSS 简单上手指南
 
 如果你正在设计你个性化的 CSS，你可以通过使用开发者工具来获得更多元素信息，提高设计效率。使用开发者工具

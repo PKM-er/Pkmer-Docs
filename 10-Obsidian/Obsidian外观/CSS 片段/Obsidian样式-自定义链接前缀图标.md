@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20231202222733
+modified: 20241214141606
 ---
 
 # Obsidian 样式：自定义链接前缀图标
@@ -23,12 +23,12 @@ modified: 20231202222733
 
 通过 `.internal-link[href*=".pdf"]::before` 匹配不同文件类型格式，通过修改 `content:url()` 里面的 SVG 数据的内容可以定义不同文件类型的图标。
 
->  如何配置图标参考：[Obsidain 样式：美化自定义文件夹图标]( https://pkmer.cn/show/20230717003729 )
+>  如何配置图标参考：[[Obsidian样式-自定义文件夹图标]]
 
 ## 自定义链接前缀图标 CSS
 
 ```css
-/* 如何配置图标参考： [Obsidain 样式：美化自定义文件夹图标]( https://pkmer.cn/show/20230717003729 )*/
+/* 如何配置图标参考： [Obsidian 样式：美化自定义文件夹图标]( https://pkmer.cn/show/20230717003729 )*/
 
 /*内部链接*/
 .internal-link::before {

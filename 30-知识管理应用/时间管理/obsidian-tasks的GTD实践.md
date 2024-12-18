@@ -2,7 +2,7 @@
 uid: 20230509215554
 title: Obsidian Tasks 的 GTD 实践
 tags: [Tasks插件, GTD]
-description: alswl 分享基于Obsidain tasks的GTD实践历程
+description: alswl 分享基于 Obsidian tasks的GTD实践历程
 author: alswl
 type: practice
 draft: false

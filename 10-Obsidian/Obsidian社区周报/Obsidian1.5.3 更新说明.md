@@ -1,7 +1,7 @@
 ---
 uid: 20231226114237
 title: 2023-12-26-Obsidian1.5.3 交互体验升级
-tags: [Obsidain]
+tags: [Obsidian]
 description: 
 author: cuman
 type: other

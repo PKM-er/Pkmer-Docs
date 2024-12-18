@@ -1,7 +1,7 @@
 ---
 uid: 20230529231934
 title: Obsidian 最简使用
-tags: [obsidain, 教程]
+tags: [Obsidian, 教程]
 description: Obsidian 最简使用，基础入门，初见
 author: Ryooo
 type: tutorial

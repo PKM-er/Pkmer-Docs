@@ -1,17 +1,13 @@
 ---
 uid: 20231130234102
-title: Zotero笔记样式——袖珍Blue Topaz
-tags:
-  - zotero
-  - css
-  - 外观
-  - 美化
+title: Zotero 笔记样式——袖珍 Blue Topaz
+tags: [zotero, css, 外观, 美化]
 description: 类 Blue Topaz 主题的 Zotero 笔记界面样式美化
 author: ProudBenzene
 type: other
 draft: false
 editable: false
-modified: 20231130234518
+modified: 20241211104051
 ---
 
 # Zotero 笔记样式——袖珍 Blue Topaz
