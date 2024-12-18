@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20241214170754
+modified: 20241218143024
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -161,6 +161,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-超长文件名换行]]
 - [[Obsidian样式-分割文件管理器]]
 - [[Obsidian样式-粘性文件夹(Sticky Folder)]]
+- [[优化文件浏览器的显示]]
 
 ### 段落
 
