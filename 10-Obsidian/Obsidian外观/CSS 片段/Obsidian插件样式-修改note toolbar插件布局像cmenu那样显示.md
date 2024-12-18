@@ -1,13 +1,13 @@
 ---
 uid: 20241214165026
 title: Obsidian 插件样式 - 修改 note toolbar 插件布局像 cmenu 那样显示
-tags: []
-description: 
-author: 
+tags: [插件样式]
+description: 修改 note toolbar 插件布局像 cmenu 那样显示
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20241214171631
+modified: 20241218151635
 ---
 
 # Obsidian 插件样式 - 修改 note toolbar 插件布局像 cmenu 那样显示
@@ -18,7 +18,7 @@ Note Toolbar 它可以为不同的文件夹配置不同的工具栏，并能够�
 
 可以用下面的样式定制 Note Toolbar 布局以模拟 Cmenu 显示
 
-![24.12.14_Obsidian插件样式：定制Note Toolbar布局以模拟Cmenu显示.md](https://cdn.pkmer.cn/images/202412141716981.png!pkmer)
+![image.png](https://cdn.pkmer.cn/images/202412181431856.png!pkmer)
 
 ## 样式设置
 
@@ -28,25 +28,25 @@ Note Toolbar 它可以为不同的文件夹配置不同的工具栏，并能够�
 
 ---
 
-- 将工具栏的位置设置为“置顶（固定位置）”即可，其他设置保持默认。
+- 将工具栏的位置设置为“置顶（固定位置）”， 样式只保留显示边框，其他设置保持默认，如下图所示。
 - 注意：目前，该设置暂不支持移动端，因此建议在移动设备上隐藏此工具栏。
 
 ![24.12.14_Obsidian插件样式：定制Note Toolbar布局以模拟Cmenu显示.md](https://cdn.pkmer.cn/images/202412141716747.png!pkmer)
 
 > [!tip] 自带的分割符和行号符可以正常运行
-> ![24.12.14_Obsidian插件样式：定制Note Toolbar布局以模拟Cmenu显示.md](https://cdn.pkmer.cn/images/202412141716129.png!pkmer)
 
 ## CSS 样式
 
 ```css
-/* NoteToolbar 像 Cmenu那样显示 */
+/* note toolbar 像 cmenu那样显示 */
 div[data-name *="cmenu"] {
   z-index: var(--layer-status-bar);
   position: absolute;
   bottom: 60px;
-  width: 100%;
+  width: 100% !important;
+  pointer-events: none !important;
   display: flex;
-  justify-content: center;
+  justify-content: center !important;
   background-color: transparent !important;
 
   div.callout, .callout-content {
@@ -54,13 +54,15 @@ div[data-name *="cmenu"] {
     border: 0 !important;
     margin: 0 !important;
     opacity: 1 !important;
-    width: fit-content;
-    height: fit-content;
+    /* width: fit-content;
+    height: fit-content; */
   }
 
   ul[role="menu"] {
+    pointer-events: auto !important;
+
     width: fit-content;
-    max-width: 450px;
+    max-width: 460px;
     /* display: grid !important;
     grid-template-columns: repeat(10, minmax(0, 1fr)); */
     display: flex;
@@ -72,20 +74,21 @@ div[data-name *="cmenu"] {
     transition: 200ms ease;
     height: auto;
     min-width: fit-content;
-    border-radius: 6px !important;
+    border-radius: 6px;
 
     z-index: var(--layer-status-bar);
     box-shadow: 0px 3px 30px rgb(31 38 135 / 15%);
-    margin: 30px !important;
+    margin: 33px !important;
     border: 1px solid var(--background-modifier-border);
 
     /* 添加毛玻璃效果 */
-    backdrop-filter: blur(10px) !important;
-    background-color: rgba(255, 255, 255, 0.3) !important;
+    backdrop-filter: blur(10px);
+    /* background-color: rgba(255, 255, 255, 0.1) !important; */
+    background-color: rgba(var(--primary-background), 0.1);
 
     li {
       border-radius: 6px;
-      background-color: var(--background-secondary) !important;
+      background-color: var(--background-secondary);
 
       &>span {
         width: 40px;

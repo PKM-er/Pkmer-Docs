@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20241214170754
+modified: 20241218143024
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -56,6 +56,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-给Obsidian设置护眼的暖色模式]]
 - [[Obsidian样式-多行标签页堆叠显示]]
 - [[Obsidian样式-全宽的图谱搜索框样式]]
+- [[Obsidian样式-设置界面网格卡片式布局]]
 
 ### 大纲 (Outline)
 
@@ -161,6 +162,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-超长文件名换行]]
 - [[Obsidian样式-分割文件管理器]]
 - [[Obsidian样式-粘性文件夹(Sticky Folder)]]
+- [[优化文件浏览器的显示]]
 
 ### 段落
 
@@ -229,6 +231,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-Calendar插件的样式修改]]
 - [[Obsidian样式-HoverEditor插件弹窗中隐藏Properties属性面板]]
 - [[Obsidian样式-建立书籍电影的卡片化视图]]
+- [[Obsidian插件样式-MySnippets的多栏布局]]
 
 #### Excalidraw
 
