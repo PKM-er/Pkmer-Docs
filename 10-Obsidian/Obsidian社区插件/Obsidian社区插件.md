@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20241213200255
+modified: 20241219183430
 ---
 
 # Obsidian 社区插件
@@ -348,6 +348,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 对于那些对于审美有着极高追求的你来说，这些插件将会成为你 Obsidian 学习和管理的不可或缺的个性化增强工具。虽然这些插件看似只是小小的工具，但它们却有着强大而独特的功能，能够显著提升 Obsidian UI 和设计中的个性化要素。通过本身定制化的特点和某些极具创意的功能，这些插件将使 Obsidian 更加个性化和符合你的审美标准。
 
 - [[obsidian-banners]]：为文档页面添加头图和图标
+- [[pexels-banner]]：值得一试的头图插件
 - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
 - [[obsidian-file-color]]：让你文件管理多姿多彩
 - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
