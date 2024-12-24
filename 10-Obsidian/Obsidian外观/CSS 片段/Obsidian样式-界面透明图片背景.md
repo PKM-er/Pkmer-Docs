@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20241224232644
+modified: 20241224233637
 ---
 
 # Obsidian 样式 - 界面透明图片背景
@@ -135,3 +135,8 @@ body::before {
   transition: none;
 }
 ```
+
+## Reference
+
+- [Layers - Developer Documentation (obsidian.md)](https://docs.obsidian.md/Reference/CSS+variables/Foundations/Layers)
+- [[Obsidian样式-缩减栏宽模式下美化笔记内部背景]]
