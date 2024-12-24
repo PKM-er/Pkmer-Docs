@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20241218143024
+modified: 20241224232938
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -56,7 +56,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-给Obsidian设置护眼的暖色模式]]
 - [[Obsidian样式-多行标签页堆叠显示]]
 - [[Obsidian样式-全宽的图谱搜索框样式]]
-- [[Obsidian样式-设置界面网格卡片式布局]]
+- [[Obsidian样式-界面透明图片背景]]
 
 ### 大纲 (Outline)
 
@@ -90,6 +90,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-笔记内容居左或居中切换]]
 - [[Obsidian样式-分栏分列布局 (Column-Page)]]
 - [[Obsidian样式-在Obsidian内实现网格背景]]
+- [[Obsidian样式-隐私模式之全部变为点点点]]
 
 ### 代码块
 
@@ -133,6 +134,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-修复banner和Properties高度冲突以及多余留白改善]]
 - [[Obsidian样式-控制属性面板(YAML)的显示状态]]
 - [[Obsidian样式-FrontMatter读书笔记]]
+- [[Obsidian样式-YAML属性分栏显示]]
 
 ### 状态栏
 
@@ -146,6 +148,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 设置面板
 
 - [[Obsidian样式-设置面板样式调整]]
+- [[Obsidian样式-设置界面网格卡片式布局]]
 
 ### 链接
 

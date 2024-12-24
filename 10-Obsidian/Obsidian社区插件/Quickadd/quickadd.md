@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20241026225806
+modified: 20241224232926
 ---
 
 # Obsidian 插件：QuickAdd 自动化操作的编辑器
@@ -52,6 +52,7 @@ modified: 20241026225806
 1. [[QuickAdd脚本-双语文档的中英文视图切换显示]]
 2. [[QuickAdd脚本-自动更新Banner]]
 3. [[QuickAdd脚本-插入文档的编辑或创建时间]]
+4. [[QuickAdd脚本-常驻一些YAML属性与格式化]]
 
 ### 主题 (Theme/Snippets) 控制
 
