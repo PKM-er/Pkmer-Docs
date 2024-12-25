@@ -2,7 +2,7 @@
 uid: 20241225221919
 title: Obsidian Weekly 2024-12-22：Obsidian v1.8.0 前瞻 & 全文导出为 LaTeX
 tags: [Weekly, Obsidian]
-description: 
+description: Obsidian Weekly 2024-12-22：Obsidian v1.8.0 前瞻 & 全文导出为 LaTeX
 author: 淡水鱼,PKMer
 type: other
 draft: false
