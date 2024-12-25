@@ -133,6 +133,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[lapel]]：在标题旁边显示标题等级
 - [[number-headings-obsidian]]：给笔记中的标题自动编号，以及动态目录
 - [[insta-toc]]：通过插入特殊的代码块，生成一个自动目录
+- [[header-navigation]]：提供在标题之间切换的功能
 
 ### 图像&图表
 
