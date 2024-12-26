@@ -7,7 +7,7 @@ author: cuman
 type: other
 draft: false
 editable: false
-modified: 20230809120132
+modified: 20241226134100
 ---
 
 # Obsidian 插件：Tasks 更方便的任务管理
@@ -197,3 +197,16 @@ done on {{date:YYYY-MM-DD}}
 > - [[obsidian-task-archiver]]：帮你快速归类待办任务
 > - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 > - [[tasks-calendar-wrapper]]：完美的时间线/日历视图的任务面板展示
+
+## 语法
+
+- [[Task查询语法手册]]
+
+## 案例
+
+- [[DataViewJS+Tasks-最佳的每周任务管理及周报]]
+- [[基于 QuickAdd+Modal Form的任务 (Task) 编辑器]]
+
+## 样式
+
+- [[Obsidian样式-Minimal主题复选框(Checkout)样式]]

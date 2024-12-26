@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20241224232938
+modified: 20241226133711
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -173,11 +173,12 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-特殊标签-让Markdown的文本多彩多色]]
 - [[Obsidian样式-段落首行增加缩进]]
 
-### 待办
+### 待办 (Checkout)
 
 - [[Obsidian样式-待办完成样式]]
 - [[Obsidian样式-自定义待办图标]]
 - [[Obsidian样式-待办事项美化复选框]]
+- [[Obsidian样式-Minimal主题复选框(Checkout)样式]]
 
 ### 引用
 
