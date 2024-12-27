@@ -1,21 +1,23 @@
 ---
 uid: 20241226133215
-title: 关于查询
+title: Task 查询语法手册
 tags: [任务管理]
 description: Tasks查询语法的介绍
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20241226133323
+modified: 20241227182235
 ---
+
+# Task 查询语法手册
 
 <!--section: 1-->
 
-> [!tip]+ 参考资料
+> [!tip] 参考资料
 > [Tasks用户指南](https://publish.obsidian.md/tasks/Introduction)
 
-# 关于查询
+## 关于查询
 
 > [About Queries - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/About+Queries)
 
@@ -46,7 +48,7 @@ not done
 
 <!--section: 1.2-->
 
-> [!note]+ Tasks 查询语法的执行循序
+> [!note] Tasks 查询语法的执行循序
 >
 > 1. 所有过滤器指令均已运行
 > 2. 然后运行任何排序指令
@@ -56,7 +58,7 @@ not done
 
 <!--section: 2-->
 
-# 过滤器 (Filters)
+## 过滤器 (Filters)
 
 > [Filters - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Filters)
 
@@ -72,7 +74,7 @@ not done
 
 <!--section: 2.1-->
 
-## 自定义过滤器 Custom Filters
+### 自定义过滤器 Custom Filters
 
 > [!tip]+
 > `filter by function` was introduced in Tasks 4.2.0.
@@ -88,7 +90,7 @@ Task 提供了许多内置的过滤选项，但有时它们并不能完全满足
 
 <!--section: 2.2-->
 
-## 搜索日期
+### 搜索日期
 
 任务在查询块内的日期方面提供了很大的灵活性。
 
@@ -99,7 +101,7 @@ Task 提供了许多内置的过滤选项，但有时它们并不能完全满足
 
 <!--section: 2.2.1-->
 
-### 特定日期搜索
+#### 特定日期搜索
 
 ````md
 ```tasks
@@ -110,7 +112,7 @@ due on or before today
 
 <!--section: 2.2.1.1-->
 
-#### 日期搜索选项
+##### 日期搜索选项
 
 | option 选项    | all earlier dates | search date | all later dates |
 | -------------- | :---------------: | :---------: | :-------------: |
@@ -125,7 +127,7 @@ due on or before today
 
 <!--section: 2.2.1.2-->
 
-#### 绝对日期
+##### 绝对日期
 
 `<date>` 过滤器可以使用“绝对”日期，其首选格式为 `YYYY-MM-DD` 。绝对日期指定日历中的特定日期。它们代表同一天，无论今天的日期如何。
 
@@ -135,7 +137,7 @@ Examples: 示例：
 
 <!--section: 2.2.1.3-->
 
-#### 相对日期
+##### 相对日期
 
 `<date>` 过滤器可以与 `relative` 相对日期一起提供。相对日期是根据今天的日期计算的。
 
@@ -157,7 +159,7 @@ Examples: 示例：
 
 <!--section: 2.2.2-->
 
-### 日期范围搜索
+#### 日期范围搜索
 
 Task 允许指定一对日期进行日期搜索， `<date range>` 。
 
@@ -172,7 +174,7 @@ happens this week
 
 <!--section: 2.2.2.1-->
 
-#### 绝对日期范围
+##### 绝对日期范围
 
 | option 选项    | all earlier dates | `start date` | all dates inside the range | `end date` | all later dates |
 | -------------- | ----------------- | ------------ | -------------------------- | ---------- | --------------- |
@@ -184,7 +186,7 @@ happens this week
 
 <!--section: 2.2.2.2-->
 
-#### 相对日期范围
+##### 相对日期范围
 
 Tasks 支持一组非常特定的相对 `<date range>` 值： `last|this|next week|month|quarter|year` 。管道（ `|` ）字符表示“或”。
 
@@ -199,7 +201,7 @@ Tasks 支持一组非常特定的相对 `<date range>` 值： `last|this|next we
 
 <!--section: 2.2.2.3-->
 
-#### 编号日期范围
+##### 编号日期范围
 
 也可以使用独立于当前日期的编号日期范围的能力。这些编号日期范围类型得到支持：
 
@@ -221,7 +223,7 @@ Tasks 支持一组非常特定的相对 `<date range>` 值： `last|this|next we
 
 <!--section: 2.3-->
 
-## Text filters 文本过滤器
+### Text filters 文本过滤器
 
 文本搜索过滤器有 2 种类型：
 
@@ -232,7 +234,7 @@ Tasks 支持一组非常特定的相对 `<date range>` 值： `last|this|next we
 
 <!--section: 2.4-->
 
-## 匹配多个过滤器
+### 匹配多个过滤器
 
 每行查询都必须匹配，任务才能列出。换句话说，行之间被视为存在一个 'AND' 运算符。在每行中，您可以使用布尔运算符 `NOT` 、 `AND` 、 `OR` 、 `AND NOT` 、 `OR NOT` 和 `XOR` ，只要将单个过滤器用括号括起来即可：
 
@@ -250,7 +252,7 @@ due after 2021-04-04
 
 <!--section: 2.5-->
 
-## 任务状态过滤器
+### 任务状态过滤器
 
 - Status 状态
 - Status Name 状态名称
@@ -269,12 +271,12 @@ group by path
 
 <!--section: 2.5.1-->
 
-### Status
+#### Status
 
 - `done` - 匹配状态类型为 `DONE` 、 `CANCELLED` 和 `NON_TASK` 任务
 - `not done` - 匹配状态类型为 `TODO` 和 `IN_PROGRESS` 任务
 
-> [!tip]+ 在 Tasks 1.23.0 之前，没有任务状态类型的概念，因此仅使用状态符号：
+> [!tip] 在 Tasks 1.23.0 之前，没有任务状态类型的概念，因此仅使用状态符号：
 >
 > - 带有 `[ ]` 任务被视为 `not done`
 > - 除空格外的任何其他字符均视为已 `done`
@@ -300,7 +302,7 @@ filter by function ! task.isDone
 
 <!--section: 2.5.2-->
 
-### Status Name
+#### Status Name
 
 自定义的状态名称，例如，也许您将 `[!]` 命名为 `Important` ，因此该字段将搜索具有该状态符号的所有任务的文本 `Important` 。
 
@@ -324,7 +326,7 @@ filter by function task.status.name === 'Unknown'
 
 <!--section: 2.5.3-->
 
-### Status Type
+#### Status Type
 
 - `status.type (is|is not) (TODO|DONE|IN_PROGRESS|CANCELLED|NON_TASK)`
   - `TODO` 等值不区分大小写：例如，您可以使用 `in_progress`
@@ -367,7 +369,7 @@ filter by function ! 'NON_TASK,CANCELLED'.includes(task.status.type)
 
 <!--section: 2.5.4-->
 
-### Status Symbol
+#### Status Symbol
 
 没有内置的指令来按状态符号进行过滤。
 
@@ -412,7 +414,7 @@ filter by function !' -x/'.includes(task.status.symbol)
 
 <!--section: 2.5.5-->
 
-### Next Status Symbol
+#### Next Status Symbol
 
 没有内置指令可以按下一个状态符号进行过滤。
 
@@ -428,7 +430,7 @@ filter by function task.status.symbol === task.status.nextSymbol
 
 <!--section: 2.6-->
 
-## 其他任务属性的筛选器
+### 其他任务属性的筛选器
 
 > [Filters - Tasks User Guide - Obsidian Publish](https://publish.obsidian.md/tasks/Queries/Filters#Filters+for+Other+Task+Properties)
 
@@ -443,7 +445,7 @@ filter by function task.status.symbol === task.status.nextSymbol
 
 <!--section: 2.6.1-->
 
-### Description
+#### Description
 
 - `description (includes|does not include) <string>`
     - 匹配不区分大小写（忽略大小写）。
@@ -483,13 +485,13 @@ filter by function task.description.length > 100
 
 <!--section: 2.6.2-->
 
-### Description without tags
+#### Description without tags
 
 从 Tasks 4.2.0 开始，可以使用 `task.descriptionWithoutTags` 从自定义过滤器的描述中删除标签，以便在**[自定义过滤](https://publish.obsidian.md/tasks/Scripting/Custom+Filters)**中使用。
 
 <!--section: 2.6.3-->
 
-### Priority
+#### Priority
 
 - `priority is (above|below|not)? (lowest|low|none|medium|high|highest)`
 
@@ -507,7 +509,7 @@ filter by function task.description.length > 100
 
 <!--section: 2.6.3.1-->
 
-#### 示例
+##### 示例
 
 ````
 ```tasks
@@ -548,7 +550,7 @@ filter by function task.priorityNumber % 2 === 0
 
 <!--section: 2.6.4-->
 
-### Urgency
+#### Urgency
 
 没有内置的指令来按紧急程度进行过滤。
 
@@ -607,7 +609,7 @@ filter by function task.urgency === 10.29
 
 <!--section: 2.6.5-->
 
-### Recurrence
+#### Recurrence
 
 - `is recurring`
 - `is not recurring`
@@ -677,14 +679,14 @@ filter by function task.recurrenceRule.includes("every week") && !task.recurrenc
 
 <!--section: 2.6.6-->
 
-### Sub-Items
+#### Sub-Items
 
 - `exclude sub-items`
   - 设置此选项后，结果列表将仅包含文件中未缩进的任务。它只会显示列表中顶级列表项的任务。
 
 <!--section: 2.6.7-->
 
-### Tags 标签
+#### Tags 标签
 
 > [Introduced in Tasks 1.6.0.](https://publish.obsidian.md/tasks/Queries/Filters#Tags)
 
@@ -706,7 +708,7 @@ filter by function task.recurrenceRule.includes("every week") && !task.recurrenc
   - 通过在正则表达式末尾放置 `$` 字符，可以实现避免子标签的标签搜索。请参阅下面的示例。
   - 如果搜索子标签，请记住转义正则表达式中的斜杠： `\/`
 
-> [!tip]+ Release
+> [!tip] Release
 >
 > - `regex matches` 和 `regex does not match` 是在任务 1.13.0 中引入的。
 > - Tasks 2.0.0 中引入了 `no tags` 和 `has tags` 。
@@ -744,7 +746,7 @@ filter by function task.tags.find( (tag) => tag.split('/').length >= 3 ) && true
 
 <!--section: 2.6.7.2-->
 
-#### 标签查询示例
+##### 标签查询示例
 
 - `tags include #todo`
 - `tags do not include #todo`
@@ -756,7 +758,7 @@ filter by function task.tags.find( (tag) => tag.split('/').length >= 3 ) && true
 
 <!--section: 2.6.8-->
 
-### Markdown
+#### Markdown
 
 从 Tasks 4.2.0 开始，现在可以使用 `task.originalMarkdown`**按原始 Markdown 行进行 [自定义过滤](https://publish.obsidian.md/tasks/Scripting/Custom+Filters)**。
 
@@ -764,7 +766,7 @@ filter by function task.tags.find( (tag) => tag.split('/').length >= 3 ) && true
 
 <!--section: 2.7-->
 
-## 文件属性的过滤器
+### 文件属性的过滤器
 
 > [Filters - Tasks User Guide - Obsidian Publish](https://publish.obsidian.md/tasks/Queries/Filters#Filters+for+File+Properties)
 
@@ -778,7 +780,7 @@ filter by function task.tags.find( (tag) => tag.split('/').length >= 3 ) && true
 
 <!--section: 2.7.1-->
 
-### File Path 文件路径
+#### File Path 文件路径
 
 请注意，该路径包含 `.md` 扩展名。
 
@@ -831,7 +833,7 @@ filter by function task.file.path.toLocaleLowerCase() === 'TASKS RELEASES/4.1.0 
 
 <!--section: 2.7.2-->
 
-### Root 根路径
+#### Root 根路径
 
 > [!caution]-
 >
@@ -874,7 +876,7 @@ filter by function task.file.root === 'Work/'
 
 <!--section: 2.7.3-->
 
-### Folder 文件夹
+#### Folder 文件夹
 
 > <https://publish.obsidian.md/tasks/Queries/Filters#Folder>
 
@@ -893,7 +895,7 @@ filter by function task.file.root === 'Work/'
 
 <!--section: 2.7.4-->
 
-### File Name 文件名
+#### File Name 文件名
 
 > [!tip]+
 >
@@ -938,7 +940,7 @@ filter by function task.file.filename.includes("4.1.0 Release")
 
 <!--section: 2.7.5-->
 
-### Heading 标题过滤器
+#### Heading 标题过滤器
 
 1. `heading (includes|does not include) <search text>`
    - 它至少包含字符串 `<search text>` 的一次，匹配该部分中所有任务。
@@ -967,7 +969,7 @@ done last week
 
 <!--section: 3-->
 
-# 解释查询 (Explaining Queries)
+## 解释查询 (Explaining Queries)
 
 > [Explaining Queries - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Explaining+Queries)
 
@@ -990,7 +992,7 @@ done last week
 
 <!--section: 3.1-->
 
-## 示例：过滤器中的日期已扩展
+### 示例：过滤器中的日期已扩展
 
 例如，当以下文本放置在任务查询块中时：
 
@@ -1026,7 +1028,7 @@ Explanation of this Tasks code block query:
 
 <!--section: 4-->
 
-# 排序 (Sorting)
+## 排序 (Sorting)
 
 > [Sorting - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Sorting)
 
@@ -1114,11 +1116,11 @@ sort by path
 
 <!--section: 5-->
 
-# 分组 (Grouping)
+## 分组 (Grouping)
 
 > [Grouping - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Grouping)
 
-> [!note]+ Tasks 查询语法的执行循序
+> [!note] Tasks 查询语法的执行循序
 >
 > 1. 所有过滤器指令均已运行
 > 2. 然后运行任何排序指令
@@ -1132,7 +1134,7 @@ sort by path
 
 <!--section: 5.2-->
 
-## 基础 (Basic)
+### 基础 (Basic)
 
 > [!tip]+
 > 在任务 1.6.0 中引入。
@@ -1143,7 +1145,7 @@ sort by path
 
 <!--section: 5.2.1-->
 
-### 示例
+#### 示例
 
 ````md
 ```tasks
@@ -1154,7 +1156,7 @@ group by filename
 
 <!--section: 5.3-->
 
-## 分组的类型
+### 分组的类型
 
 - 按任务状态分组：Group by Task Statuses
   - 同 [[#过滤器 (Filters)#任务状态过滤器]]，详见 [📍官方文档](https://publish.obsidian.md/tasks/Queries/Grouping#Group+by+Task+Statuses)
@@ -1169,7 +1171,7 @@ group by filename
 
 <!--section: 5.4-->
 
-## 拓展：自定义分组
+### 拓展：自定义分组
 
 > [!tip]+
 > Tasks 4.0.0 中引入了 `group by function` 。
@@ -1180,7 +1182,7 @@ group by filename
 
 <!--section: 5.5-->
 
-## 多个分组 (Multiple groups)
+### 多个分组 (Multiple groups)
 
 您可以添加多个 `group by` 查询选项，每个选项占一行。这将创建嵌套分组。第一个分组优先级最高。
 
@@ -1205,7 +1207,7 @@ group by heading
 
 <!--section: 5.6-->
 
-## 细化分组 (Refining groups)
+### 细化分组 (Refining groups)
 
 可以设置分组的几个参数：
 
@@ -1214,7 +1216,7 @@ group by heading
 
 <!--section: 5.6.1-->
 
-### Reverse
+#### Reverse
 
 在要分组的属性名称后面，可以添加 `reverse` 关键字。如果指定，则该属性的组标题将相反。
 
@@ -1229,7 +1231,7 @@ group by heading
 
 <!--section: 5.6.2-->
 
-### Limiting group size
+#### Limiting group size
 
 您可以限制每个组中的任务数量，也许首先处理最重要的事情。
 
@@ -1244,7 +1246,7 @@ group by heading
 
 <!--section: 6-->
 
-# 限制 (Limiting)
+## 限制 (Limiting)
 
 > [Limiting - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Limiting)
 
@@ -1254,7 +1256,7 @@ group by heading
 
 <!--section: 6.1-->
 
-## 限制任务总数
+### 限制任务总数
 
 您可以限制显示为查询结果的任务总数。
 
@@ -1264,7 +1266,7 @@ group by heading
 
 <!--section: 6.2-->
 
-## 限制每组中的任务数量
+### 限制每组中的任务数量
 
 使用查询字符串 `limit groups to <number> tasks` 可以限制每个组中允许的任务数量。
 
@@ -1279,7 +1281,7 @@ group by heading
 
 <!--section: 6.3-->
 
-## 查看找到的任务总数
+### 查看找到的任务总数
 
 如果任一 `limit` 选项阻止任何任务显示在结果中，则会显示总数，例如：
 
@@ -1292,7 +1294,7 @@ group by heading
 
 <!--section: 7-->
 
-# 布局 (Layout)
+## 布局 (Layout)
 
 > [Layout - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Layout)
 
@@ -1304,7 +1306,7 @@ group by heading
 
 <!--section: 7.1-->
 
-## Task Elements
+### Task Elements
 
 以下任务元素存在：
 
@@ -1325,7 +1327,7 @@ group by heading
 
 <!--section: 7.2-->
 
-## Query Elements
+### Query Elements
 
 存在以下查询元素：
 
@@ -1338,7 +1340,7 @@ group by heading
 
 <!--section: 7.3-->
 
-## Hiding/Showing Elements
+### Hiding/Showing Elements
 
 每个 [[#Task Elements|Task元素(Task Elements)]] 可以都设置隐藏 (hide) 或显示 (show)，且查询中可以使用多个 show 和 hide 指令，每个指令位于单独的行上。
 
@@ -1358,7 +1360,7 @@ show urgency
 
 <!--section: 7.3.1-->
 
-### Hide OR Show Tree
+#### Hide OR Show Tree
 
 > [!tip]
 > 新的指令 `show tree` 是教 Tasks 插件完全处理 [嵌套任务和列表项](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Nesting+lists) 的一系列步骤中的第一个。
@@ -1383,7 +1385,7 @@ hide backlink
 
 <!--section: 7.3.2-->
 
-### Hide OR Show Tags
+#### Hide OR Show Tags
 
 [Layout - Tasks User Guide - Obsidian Publish](https://publish.obsidian.md/tasks/Queries/Layout#Hide+and+Show+Tags)
 
@@ -1397,7 +1399,7 @@ hide tags
 
 <!--section: 7.4-->
 
-## Full Mode
+### Full Mode
 
 在**完整模式 (Full Mode)**下，查询结果将显示表情符号和具体的重复规则或日期。
 
@@ -1418,7 +1420,7 @@ full mode
 
 <!--section: 7.5-->
 
-## Short Mode
+### Short Mode
 
 在**短模式 (Short Mode)**下，查询结果只会显示表情符号，而不显示具体的重复规则或日期。您可以将鼠标悬停在任务上以查看工具提示中的规则和日期。
 
@@ -1435,7 +1437,7 @@ short mode
 
 <!--section: 8-->
 
-# 注释 (Comments)
+## 注释 (Comments)
 
 > [Comments - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Comments)
 
@@ -1453,7 +1455,7 @@ not done
 
 <!--section: 8.1-->
 
-## Inline comments 行内注释
+### Inline comments 行内注释
 
 > 行内注释在 Tasks 4.7.0 中引入。
 
@@ -1470,7 +1472,7 @@ short mode {{! 这条注释将被忽略 }}
 
 <!--section: 9-->
 
-# 全局查询 (Global Query)
+## 全局查询 (Global Query)
 
 > [Global Query - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Global+Query)
 
@@ -1481,7 +1483,7 @@ short mode {{! 这条注释将被忽略 }}
 
 <!--section: 9.1-->
 
-## 忽略全局查询 (Ignore global query)
+### 忽略全局查询 (Ignore global query)
 
 如果您需要忽略给定任务块中的全局查询，您可以将 `ignore global query` 指令添加到块的任何位置。
 
@@ -1494,11 +1496,11 @@ tags include work
 ignore global query
 ```
 
-> [!tip]+ Tasks 4.6.0 中添加了 ignore global query 指令。
+> [!tip] Tasks 4.6.0 中添加了 ignore global query 指令。
 
 <!--section: 10-->
 
-# 组合过滤器 (Combining+Filters)
+## 组合过滤器 (Combining+Filters)
 
 > [Combining Filters - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Combining+Filters)
 
@@ -1521,7 +1523,7 @@ not done
 
 <!--section: 10.1-->
 
-## 语法 (Syntax)
+### 语法 (Syntax)
 
 一个或多个过滤器可以通过布尔运算符组合在一行中，以创建一个新的、强大的、灵活的过滤器。
 
@@ -1568,7 +1570,7 @@ not done
 
 <!--section: 10.2-->
 
-## 执行优先级 (Execution Priority)
+### 执行优先级 (Execution Priority)
 
 运算符按以下顺序评估：
 
@@ -1603,7 +1605,7 @@ not done
 
 <!--section: 10.3-->
 
-## 布尔运算 (Boolean Operators)
+### 布尔运算 (Boolean Operators)
 
 | 符号    | 含义 |
 | ------- | ---- |
@@ -1616,7 +1618,7 @@ not done
 
 <!--section: 10.3.1-->
 
-### AND
+#### AND
 
 > 要求**每个**过滤器都匹配
 
@@ -1643,7 +1645,7 @@ description includes some
 
 <!--section: 10.3.2-->
 
-### OR
+#### OR
 
 > 需要**任何**过滤器来匹配
 
@@ -1660,7 +1662,7 @@ not done
 
 <!--section: 10.3.3-->
 
-### NOT
+#### NOT
 
 > 要求过滤器**不**匹配
 
@@ -1698,7 +1700,7 @@ NOT ( (path includes x) OR (description includes #x) )
 
 <!--section: 10.3.4-->
 
-### AND NOT
+#### AND NOT
 
 > 要求第一个过滤器匹配，并且第二个过滤器不匹配
 
@@ -1710,7 +1712,7 @@ NOT ( (path includes x) OR (description includes #x) )
 
 <!--section: 10.3.5-->
 
-### OR NOT
+#### OR NOT
 
 > 要求第一个过滤器匹配，或第二个过滤器不匹配。
 
@@ -1722,7 +1724,7 @@ NOT ( (path includes x) OR (description includes #x) )
 
 <!--section: 10.3.6-->
 
-### 异或
+#### 异或
 
 > **只需要两个过滤器之一**进行匹配
 
@@ -1751,7 +1753,7 @@ not done
 
 <!--section: 11-->
 
-# 反向链接 (BackLinks)
+## 反向链接 (BackLinks)
 
 > [Backlinks - Tasks用户指](https://publish.obsidian.md/tasks/Queries/Backlinks)
 
@@ -1772,7 +1774,7 @@ not done
 
 <!--section: 12-->
 
-# 行延续 (Line Continuations)
+## 行延续 (Line Continuations)
 
 > [Line Continuations - Tasks用户指南](https://publish.obsidian.md/tasks/Queries/Line+Continuations)
 
@@ -1782,7 +1784,7 @@ not done
 
 <!--section: 12.1-->
 
-## 在查询中换行长行
+### 在查询中换行长行
 
 在任务代码块中，**反斜杠 ( `\` )**是“行继续字符”。如果反斜杠位于行尾，则该行被视为在下一行继续。
 
@@ -1828,7 +1830,7 @@ Explanation of this Tasks code block query:
 
 <!--section: 12.2-->
 
-## 需要尾部反斜杠的搜索
+### 需要尾部反斜杠的搜索
 
 在任务代码块中，**行末的两个反斜杠 ( `\\` )**被视为**单个反斜杠**。
 
