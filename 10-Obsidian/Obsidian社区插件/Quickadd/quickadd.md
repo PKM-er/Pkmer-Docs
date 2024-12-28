@@ -28,6 +28,7 @@ modified: 20241224232926
 2. [[Quickadd脚本-一键在系统应用中打开图片编辑]]
 3. [[QuickAdd脚本-一键切换VimMode]]
 4. [[QuickAdd脚本-随机漫游笔记]]
+5. [[QuickAdd脚本-在侧边中打开]]
 
 ### 文档编辑
 
