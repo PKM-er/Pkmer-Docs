@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20230609110515
+modified: 20241229123149
 ---
 
 # Obsidian 插件：copilot
@@ -36,16 +36,25 @@ modified: 20230609110515
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1405260572&bvid=BV13r421A7ek&cid=1570540513&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ## 支持的国内模型
+
 插件设置中，add custom model
+
 provider 选择 3rd party (openai format) 即可
-### 智谱GLM
+
+### 智谱 GLM
+
 [查看api key](https://open.bigmodel.cn/usercenter/apikeys)
+
 ```python
 base_url="https://open.bigmodel.cn/api/paas/v4"
 ```
+
 [模型列表](https://open.bigmodel.cn/pricing)
+
 ### moonshot kimi
+
 [查看api key](https://platform.moonshot.cn/console/api-keys)
+
 ```python
 base_url="https://api.moonshot.cn/v1"
 ```
@@ -55,8 +64,9 @@ base_url="https://api.moonshot.cn/v1"
 |moonshot-v1-8k|1M tokens|￥12.00|
 |moonshot-v1-32k|1M tokens|￥24.00|
 |moonshot-v1-128k|1M tokens|￥60.00|
-还可以根据上下文长度自动选择模型
-[moonshot-v1-auto](https://platform.moonshot.cn/docs/guide/choose-an-appropriate-kimi-model#moonshot-v1-auto-%E6%A8%A1%E5%9E%8B)
 
+还可以根据上下文长度自动选择模型
+
+[moonshot-v1-auto](https://platform.moonshot.cn/docs/guide/choose-an-appropriate-kimi-model#moonshot-v1-auto-%E6%A8%A1%E5%9E%8B)
 
 可能还有其他模型支持 openai format，此不一一列出
