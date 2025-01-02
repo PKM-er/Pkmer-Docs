@@ -1,5 +1,5 @@
 ---
-uid: 20241211104148
+uid: 20241211104149
 title: Obsidian 插件：Automatic Renumbering 自动为有序列表重新编号
 tags: ['编辑工具', '自动化与AI', '效率工具', 'obsidian插件']
 description: 自动更新编号列表，以保持其顺序。具有实时更新、智能粘贴和手动控制选项。
