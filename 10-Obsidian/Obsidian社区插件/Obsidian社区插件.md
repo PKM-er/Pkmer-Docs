@@ -213,6 +213,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 - [[tokei]]：将一个数字时钟，放到笔记中
+- [[timer]]：Obsidian 插件：Timer 简单实用的倒计时功能
+- [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
 
 ### 代码域
 
