@@ -3,11 +3,11 @@ uid: 20241009192404
 title: Obsidian 插件：Pexels Banner 值得一试的头图插件
 tags: ['banner', '笔记管理', '样式与美化', 'obsidian插件']
 description: Obsidian 插件：Pexels Banner 值得一试的头图插件
-author: AI
+author: OS
 type: auto
 draft: false
 editable: false
-modified: 20241219183501
+modified: 20250102154239
 ---
 
 # Obsidian 插件：Pexels Banner 值得一试的头图插件
