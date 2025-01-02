@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20241227182235
+modified: 20250101224015
 ---
 
 # Task 查询语法手册
@@ -1163,7 +1163,7 @@ group by filename
 - 按任务依赖性分组：Group by Task Dependencies
   - 详见 [📍官方文档](https://publish.obsidian.md/tasks/Queries/Grouping#Group+by+Task+Dependencies)
 - 按任务中的日期分组：Group by Dates in Tasks
-  - 同 [[#过滤器 (Filters)#Searching for dates 搜索日期]]，详见 [📍官方文档](https://publish.obsidian.md/tasks/Queries/Grouping#Group+by+Task+Dependencies)
+  - 详见 [📍官方文档](https://publish.obsidian.md/tasks/Queries/Grouping#Group+by+Task+Dependencies)
 - 按其他任务属性分组：Group by Other Task Properties
   - 同 [[#过滤器 (Filters)#其他任务属性的筛选器]]，详见 [📍官方文档](https://publish.obsidian.md/tasks/Queries/Grouping#Group+by+Other+Task+Properties)
 - 按文件属性分组：Group by File Properties
@@ -1271,8 +1271,6 @@ group by heading
 使用查询字符串 `limit groups to <number> tasks` 可以限制每个组中允许的任务数量。
 
 简写是 `limit groups <number>` 。
-
-> [[#分组(Grouping)#Limiting group size]]
 
 <!--section: 6.2.1-->
 
@@ -1413,10 +1411,6 @@ not done
 full mode
 ```
 ````
-
----
-
-- 关联：[[241217_如何隐藏Tasks的反向链接(Backlinks)]]
 
 <!--section: 7.5-->
 
@@ -1761,16 +1755,11 @@ not done
 
 ![【Obsidian-Task】Task查询语法.md](https://cdn.pkmer.cn/images/202412261301547.png!pkmer)
 
-<!--section: 11.1-->
-- [[241217_如何隐藏Tasks的反向链接(Backlinks)]]
-
 <!--section: 11.2-->
 
 您可以单击反向链接 (BackLink) 直接导航到 Task 的源代码行。
 
 这遵循单击内部链接时使用的 [标准Obsidian键盘修饰符，](https://obsidian.md/changelog/2022-10-13-desktop-v1.0.0/) 以控制打开方式（导航、新选项卡、新选项卡组、新窗口）。
-
-[[【Obsidian】窗口管理#链接操作]]
 
 <!--section: 12-->
 

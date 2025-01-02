@@ -48,7 +48,7 @@ let selectedDate = today.clone();
 let currentWeekOffset = 0;
 
 // showTree 状态
-let showTree = false;
+let showTree = true;
 let showWeekTasks = false;
 
 // 创建一个用于显示当前周次的标签
@@ -73,7 +73,7 @@ Object.assign(weekInput.style, {
 
 // 设置初始值为当前周
 function getFormattedWeekString(date) {
-  const year = date.format("YYYY");
+  const year = date.format("GGGG"); // 使用ISO年
   const week = date.format("WW");
   return `${year}-W${week}`;
 }
@@ -156,7 +156,6 @@ toggleShowWeekTasksButton.addEventListener("click", () => {
 // 初始化按钮主题色
 initButtonTheme(toggleShowTreeButton, showTree);
 initButtonTheme(toggleShowWeekTasksButton, showWeekTasks);
-
 
 // 更新周次选择框
 function updateWeekInput() {
