@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20241218151635
+modified: 20250106192629
 ---
 
 # Obsidian 插件样式 - 修改 note toolbar 插件布局像 cmenu 那样显示
@@ -37,7 +37,46 @@ Note Toolbar 它可以为不同的文件夹配置不同的工具栏，并能够�
 
 ## CSS 样式
 
+对应的 Style Setting 设置有如下：
+
+![241214_Obsidian插件样式：定制Note Toolbar布局以模拟Cmenu显示.md](https://cdn.pkmer.cn/images/202501061918322.png!pkmer)
+
+cmenu 对齐方式：flex-start、flex-end、space-around、space-between、space-evenly
+
+![241214_Obsidian插件样式：定制Note Toolbar布局以模拟Cmenu显示.md](https://cdn.pkmer.cn/images/202501061918908.png!pkmer)
+
+> 图片来自《深入解析 CSS》P138 **5.4.1 理解弹性容器的属性**
+
 ```css
+/* @settings
+name: Note Toolbar 仿 cMenu 的菜单栏
+id: Note Toolbar 仿 cMenu 的菜单栏
+settings:
+-
+  id: cmenu-note-toolbar-width
+  title: cmenu宽度
+  type:  variable-number
+  default: 460
+  format: px
+- 
+  id: cmenu-flex-just-content
+  title: cmenu对齐方式
+  description: 
+  type: variable-select
+  default: flex-start
+  options:
+      - flex-start
+      - flex-end
+      - space-around
+      - space-between
+      - space-evenly
+*/
+
+body {
+  --cmenu-note-toolbar-width: 460px;
+  --cmenu-flex-justily-content: flex-start;
+}
+
 /* note toolbar 像 cmenu那样显示 */
 div[data-name *="cmenu"] {
   z-index: var(--layer-status-bar);
@@ -62,18 +101,17 @@ div[data-name *="cmenu"] {
     pointer-events: auto !important;
 
     width: fit-content;
-    max-width: 460px;
+    max-width: var(--cmenu-note-toolbar-width);
     /* display: grid !important;
     grid-template-columns: repeat(10, minmax(0, 1fr)); */
     display: flex;
     flex-flow: row wrap;
-    justify-content: flex-start;
+    justify-content: var(--cmenu-flex-just-content);
     gap: 8px 5px !important;
 
     padding: 10px !important;
     transition: 200ms ease;
     height: auto;
-    min-width: fit-content;
     border-radius: 6px;
 
     z-index: var(--layer-status-bar);
@@ -84,7 +122,7 @@ div[data-name *="cmenu"] {
     /* 添加毛玻璃效果 */
     backdrop-filter: blur(10px);
     /* background-color: rgba(255, 255, 255, 0.1) !important; */
-    background-color: rgba(var(--primary-background), 0.1);
+    background-color: transparent;
 
     li {
       border-radius: 6px;
