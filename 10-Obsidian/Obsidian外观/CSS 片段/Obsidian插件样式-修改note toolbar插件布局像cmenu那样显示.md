@@ -1,20 +1,20 @@
 ---
 uid: 20241214165026
-title: Obsidian 插件样式 - 修改 note toolbar 插件布局像 cmenu 那样显示
+title: Obsidian 插件样式：修改 note toolbar 插件布局像 cmenu 那样显示
 tags: [插件样式]
 description: 修改 note toolbar 插件布局像 cmenu 那样显示
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20250106192629
+modified: 20250108095302
 ---
 
-# Obsidian 插件样式 - 修改 note toolbar 插件布局像 cmenu 那样显示
+# Obsidian 插件样式：修改 note toolbar 插件布局像 cmenu 那样显示
 
 Note Toolbar 它可以为不同的文件夹配置不同的工具栏，并能够在文件夹之间自适应切换，而且可以非常方便的编辑工具栏按钮。
 
-![24.12.14_Obsidian插件样式：定制Note Toolbar布局以模拟Cmenu显示.md](https://cdn.pkmer.cn/images/202412141716376.png!pkmer)
+![24.12.14_Obsidian插件样式：定制Note Toolbar布局以模拟Cmenu显示|800](https://cdn.pkmer.cn/images/202412141716376.png!pkmer)
 
 可以用下面的样式定制 Note Toolbar 布局以模拟 Cmenu 显示
 
@@ -145,8 +145,6 @@ div[data-name *="cmenu"] {
         display: none;
       }
     }
-
   }
-
 }
 ```
