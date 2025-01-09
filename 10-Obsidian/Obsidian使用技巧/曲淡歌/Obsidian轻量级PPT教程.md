@@ -7,7 +7,7 @@ author: 曲淡歌
 type: other
 draft: false
 editable: false
-modified: 20250106113637
+modified: 20250109202223
 ---
 
 # Obsidian 轻量级 PPT 教程
@@ -89,7 +89,7 @@ ob 自带的白板插件虽无演示功能，但可通过 Advanced Canvas 插件
 
 每一个区域就是一页 PPT，第一次创建的 PPT 分页就是整个 PPT 的封面，右上角有一个 `start` 标识。
 
-![[Pasted image 20250101134306.png]]
+![Pasted image 20250101134306](https://cdn.pkmer.cn/images/202501092020419.png!pkmer)
 
 在创建了 PPT 分页后，按 `ctrl`+`p` 输入命令 `Advanced Canvas:Start presentation` 即可开始 PPT 展示。
 
