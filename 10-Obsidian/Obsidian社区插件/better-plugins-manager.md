@@ -25,19 +25,19 @@ modified: 20250109153139
 
 ### 插件分组&延迟启动
 
-![[Pasted image 20250109152754.png]]
+![Pasted image 20250109152754](https://cdn.pkmer.cn/images/202501092016197.png!pkmer)
 
 ### 标签管理
 
-![[Pasted image 20250109152803.png]]
+![Pasted image 20250109152803](https://cdn.pkmer.cn/images/202501092016199.png!pkmer)
 
 ### 插件备注
 
-![[Pasted image 20250109152820.png]]
+![Pasted image 20250109152820](https://cdn.pkmer.cn/images/202501092016200.png!pkmer)
 
 ## 使用教程
 
-在 OB 插件市场中搜索安装，然后点击 OB 左侧的 ![[Pasted image 20250109152839.png]] 图标即可启动管理页面。
+在 OB 插件市场中搜索安装，然后点击 OB 左侧的 ![Pasted image 20250109152839](https://cdn.pkmer.cn/images/202501092016201.png!pkmer) 图标即可启动管理页面。
 
 在管理页面里可以完成以下工作：
 
@@ -49,7 +49,7 @@ modified: 20250109153139
 
 管理页面各部件使用说明请参照下图：
 
-![[Pasted image 20250109152858.png]]
+![Pasted image 20250109152858](https://cdn.pkmer.cn/images/202501092016202.png!pkmer)
 
 因为插件的操作逻辑很简单，没必要再把图中的说明复述一遍，不过我要强调几个重点：
 
@@ -60,10 +60,10 @@ modified: 20250109153139
 如果需要调整分组、标签和延迟，则需要前往 BPM 的设置页面中添加。（可选）点击取色工具来自定义元素的颜色，然后输入 id（推荐使用纯英文）和名称，点击加号即可添加。
 
 - 添加分组：
-![[Pasted image 20250109152924.png]]
+![Pasted image 20250109152924](https://cdn.pkmer.cn/images/202501092016203.png!pkmer)
 
 - 添加标签：
-![[Pasted image 20250109152937.png]]
+![Pasted image 20250109152937](https://cdn.pkmer.cn/images/202501092016204.png!pkmer)
 
 - 添加延迟：
-![[Pasted image 20250109152949.png]]
+![Pasted image 20250109152949](https://cdn.pkmer.cn/images/202501092016205.png!pkmer)
