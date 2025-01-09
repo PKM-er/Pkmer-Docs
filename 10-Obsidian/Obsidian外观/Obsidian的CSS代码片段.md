@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20241226133711
+modified: 20250108153208
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -260,6 +260,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-Thino伪悬浮编辑框]]
 - [[Obsidian样式-Thino展开增强]]
 - [[Obsidian样式-Thino列表模式日期样式调整]]
+- [[Obsidian样式-Thino多文件模式超长文件名优化显示]]
 
 #### Admonition
 
