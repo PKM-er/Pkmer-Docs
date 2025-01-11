@@ -7,7 +7,7 @@ author: Chenghuang
 type: auto
 draft: false
 editable: false
-modified: 20250111171752
+modified: 20250111172019
 ---
 
 # Obsidian 插件：Abbreviations and Acronyms
@@ -116,5 +116,5 @@ abbr:
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 | ![abbreviations-mark](https://cdn.pkmer.cn/images/202501111716278.png!pkmer) | ![abbreviations-mark](https://cdn.pkmer.cn/images/202501111716003.png!pkmer) | ![abbreviations-mark](https://cdn.pkmer.cn/images/202501111716159.png!pkmer) |
 
-[^1]: <https://zh.wikipedia.org/wiki/>%E7%B8%AE%E5%AF%AB>
+[^1]: <https://zh.wikipedia.org/wiki/%E7%B8%AE%E5%AF%AB>
 [^2]: <https://michelf.ca/projects/php-markdown/extra/#abbr>
