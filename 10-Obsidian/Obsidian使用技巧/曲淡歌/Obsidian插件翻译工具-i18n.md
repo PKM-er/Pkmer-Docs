@@ -1,13 +1,13 @@
 ---
 uid: 20250112232412
 title: "Obsidian 插件翻译工具: i18n"
-tags: []
-description: 
-author: 
-type: other
+tags: [翻译, 翻译工具, 中文汉化]
+description: 18n 是一款用于翻译 Obsidian 插件的插件，入门用户可以一键下载其他用户分享的成品词典，进阶用户可以使用内置编辑器翻译插件，支持百度翻译与 ChatGPT ，同时也内置了沉浸式翻译用于应急，最后用户可以选择分享自己的词典，插件内置了贡献用户榜单，截止 2025 年 01 月 10 日，已翻译了近 300 款插件。
+author: 曲淡歌
+type: tutorial
 draft: false
 editable: false
-modified: 20250112233849
+modified: 20250112234228
 ---
 
 # Obsidian 插件翻译工具: i18n

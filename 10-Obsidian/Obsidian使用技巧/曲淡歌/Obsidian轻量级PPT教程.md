@@ -4,10 +4,10 @@ title: Obsidian 轻量级 PPT 教程
 tags: [演示, PPT]
 description: 
 author: 曲淡歌
-type: other
+type: advanced
 draft: false
 editable: false
-modified: 20250109202223
+modified: 20250112234236
 ---
 
 # Obsidian 轻量级 PPT 教程
