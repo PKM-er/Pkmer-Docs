@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20241214172132
+modified: 20250111173633
 ---
 
 # Obsidian 基础操作
@@ -510,6 +510,39 @@ body.clutter-free-headings div.mod-cm6:not(.is-live-preview) div:not(.cm-active)
 - 解法：可以在笔记内切成阅读模式，这样 html 标记就不会影响搜索结果了
 
 ## 编辑
+
+### 阅读渲染不出表格是什么状况吗 (by 熊猫 25.01.11)
+
+有人知道阅读渲染不出表格是什么状况吗 怎么解决 只能在编辑模式看到表格。大部分是正常的，有两个是这样。
+
+![241215_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202501111736978.png!pkmer)
+
+答：
+
+1. 确保在表格前后都各有**一个空行**。如果你的表格紧挨着其他文本或元素，记得在表格上方和下方各添加一个空行。
+2. 检查表格的 Markdown 格式是否正确。例如，确保列之间的 | 符号对齐，行的数量一致等。以下是一个简单的表格格式示例：
+
+    ```
+    | Header 1 | Header 2 | Header 3 |
+    |----------|----------|----------|
+    | Data 1   | Data 2   | Data 3   |
+    | Data A   | Data B   | Data C   |
+    ```
+
+3. 如果表格已经有空行分隔，但是仍然无法渲染，检查是否有其他插件或主题干扰了 Markdown 的渲染。可以尝试禁用相关插件，或者切换到默认主题进行测试。
+
+### 如何复制笔记里面图片，常用的图片插件有哪些 (by 熊猫 25.01.11)
+
+答：Image Context Menus 插件可以支持图片右键复制图片。
+
+![241215_ObsidianFAQ整理记录.md](https://cdn.pkmer.cn/images/202501111735933.png!pkmer)
+
+常用的图片插件：
+
+1. image toolkit：可以点击放大图片并附带复制图片的功能
+2. Fast Image Cleaner：可以右键快速删除笔记中图片和引用链接
+3. Mousewheel Image zoom： 通过鼠标滚轮调整图片大小
+4. Obsidian Image Converter：可以鼠标拖拽控制图片大小，还会自动转换格式以及图片重命名、标注等等，图片处理功能比较齐全。
 
 ### 页内标题能否隐藏？（by 阿岑）
 
