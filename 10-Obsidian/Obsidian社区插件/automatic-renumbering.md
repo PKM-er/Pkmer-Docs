@@ -7,7 +7,7 @@ author: OS
 type: auto
 draft: false
 editable: false
-modified: 20241212191458
+modified: 2024121219145
 ---
 
 # Obsidian 插件：Automatic Renumbering 自动为有序列表重新编号
