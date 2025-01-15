@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20241224232926
+modified: 20250115192451
 ---
 
 # Obsidian 插件：QuickAdd 自动化操作的编辑器
@@ -19,64 +19,6 @@ modified: 20241224232926
 > - 插件说明：组合 Obsidian 里所有操作，低阶使操作可视化自动化，高阶使用可编写脚本实现万物互联
 > - 插件项目地址：[点我跳转](https://github.com/chhoumann/quickadd)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quickadd)
-
-## 社区使用技巧
-
-### 快捷操作
-
-1. [[Quickadd脚本-一键在某软件中打开Ob笔记]]
-2. [[Quickadd脚本-一键在系统应用中打开图片编辑]]
-3. [[QuickAdd脚本-一键切换VimMode]]
-4. [[QuickAdd脚本-随机漫游笔记]]
-5. [[QuickAdd脚本-在侧边中打开]]
-
-### 文档编辑
-
-1. [[QuickAdd脚本-插入并编辑SVG文件]]
-2. [[QuickAdd脚本-F2弹窗式重命名三合一]]
-
-### 文件操作
-
-1. [[QuickAdd脚本-复制wiki对应文档内容并删除文件]]
-2. [[QuickAdd脚本-移动子笔记或附件到当前文件夹]]
-3. [[QuickAdd脚本-右键复制文件夹路径]]
-4. [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
-5. [[QuickAdd脚本-自定义外部应用打开]]
-6. [[QuickAdd脚本-新窗口居中打开笔记]]
-
-### 附件管理
-
-- [[关于使用QuickAdd脚本实现按创建时间归档Obsidian附件的方案]]
-
-### 属性 (Properties/YAML) 控制
-
-1. [[QuickAdd脚本-双语文档的中英文视图切换显示]]
-2. [[QuickAdd脚本-自动更新Banner]]
-3. [[QuickAdd脚本-插入文档的编辑或创建时间]]
-4. [[QuickAdd脚本-常驻一些YAML属性与格式化]]
-
-### 主题 (Theme/Snippets) 控制
-
-1. [[Quickadd结合CSS实现挖空复习]]
-2. [[QuickAdd脚本-为深浅模式配置不同的主题]]
-3. [[QuickAdd脚本-控制自定义CSS-设置二维码字体]]
-
-### Canvas 相关
-
-1. [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
-2. [[QuickAdd脚本-利用Canvas平铺笔记]]
-3. [[copy-selection-in-canvas]]
-4. [[QuickAdd脚本-尝试让canvas节点大小自适应文字]]
-
-### 其他类型
-
-1. [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
-2. [[QuickAdd脚本-插入Zotero的条目PDF链接]]
-3. [[QuickAdd脚本-Project项目选项栏]]
-4. [[QuickAdd脚本-快速打开Plugin或CSS文件]]
-5. [[基于 QuickAdd+Modal Form的任务 (Task) 编辑器]]
-6. [[QuickAdd脚本-带图复制-自动上传图片到图床]]
-7. [[QuickAdd脚本-基于关联性图形文件来定位笔记的脚本]]
 
 ## 参考资料
 
@@ -219,6 +161,65 @@ module.exports = async (params) => {
 	4. Raycast
 
 注：这里只有 utools 是全平台的，AutoHotkey 是 Windows 独占的开源软件，Alfred，Raycast 是 Mac 独占商业软件。
+
+## 社区使用技巧
+
+### 快捷操作
+
+1. [[Quickadd脚本-一键在某软件中打开Ob笔记]]
+2. [[Quickadd脚本-一键在系统应用中打开图片编辑]]
+3. [[QuickAdd脚本-一键切换VimMode]]
+4. [[QuickAdd脚本-随机漫游笔记]]
+5. [[QuickAdd脚本-在侧边中打开]]
+
+### 文档编辑
+
+1. [[QuickAdd脚本-插入并编辑SVG文件]]
+2. [[QuickAdd脚本-F2弹窗式重命名三合一]]
+
+### 文件操作
+
+1. [[QuickAdd脚本-复制wiki对应文档内容并删除文件]]
+2. [[QuickAdd脚本-移动子笔记或附件到当前文件夹]]
+3. [[QuickAdd脚本-右键复制文件夹路径]]
+4. [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
+5. [[QuickAdd脚本-自定义外部应用打开]]
+6. [[QuickAdd脚本-新窗口居中打开笔记]]
+
+### 附件管理
+
+- [[关于使用QuickAdd脚本实现按创建时间归档Obsidian附件的方案]]
+
+### 属性 (Properties/YAML) 控制
+
+1. [[QuickAdd脚本-双语文档的中英文视图切换显示]]
+2. [[QuickAdd脚本-自动更新Banner]]
+3. [[QuickAdd脚本-插入文档的编辑或创建时间]]
+4. [[QuickAdd脚本-常驻一些YAML属性与格式化]]
+
+### 主题 (Theme/Snippets) 控制
+
+1. [[Quickadd结合CSS实现挖空复习]]
+2. [[QuickAdd脚本-为深浅模式配置不同的主题]]
+3. [[QuickAdd脚本-控制自定义CSS-设置二维码字体]]
+
+### Canvas 相关
+
+1. [[QuickAdd脚本-修复Canvas中的失效文档的链接]]
+2. [[QuickAdd脚本-利用Canvas平铺笔记]]
+3. [[copy-selection-in-canvas]]
+4. [[QuickAdd脚本-尝试让canvas节点大小自适应文字]]
+
+### 其他类型
+
+1. [[QuickAdd脚本-配合FolderNotes及Markmind插件生成文件大纲导图]]
+2. [[QuickAdd脚本-插入Zotero的条目PDF链接]]
+3. [[QuickAdd脚本-Project项目选项栏]]
+4. [[QuickAdd脚本-快速打开Plugin或CSS文件]]
+5. [[基于 QuickAdd+Modal Form的任务 (Task) 编辑器]]
+6. [[QuickAdd脚本-带图复制-自动上传图片到图床]]
+7. [[QuickAdd脚本-基于关联性图形文件来定位笔记的脚本]]
+8. [[QuickAdd脚本-Obsidian全局搜索之高级搜索及图谱可视化]]
 
 ## 视频教程
 

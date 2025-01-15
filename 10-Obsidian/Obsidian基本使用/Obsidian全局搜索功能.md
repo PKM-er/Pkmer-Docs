@@ -7,12 +7,13 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20250108095157
+modified: 20250115193903
 ---
 
 # Obsidian 全局搜索功能
 
-> [!cite] 原文来自 [Search - Obsidian Help](https://help.obsidian.md/Plugins/Search)
+> [!cite]
+> 原文来自 [Search - Obsidian Help](https://help.obsidian.md/Plugins/Search)
 
 Obsidian 核心插件——**搜索**，可以通过使用高级搜索词和运算符缩小结果范围，帮助您快速查找 Obsidian 库中的关键数据。
 
