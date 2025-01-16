@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20231124142323
+modified: 20250116120823
 ---
 
 # PKMer 交流群规范
@@ -18,11 +18,12 @@ PKMer 励志成为帮助大家在个人知识管理道路上的帮手和助力�
 
 IM 类通讯软件交流的及时性，能帮助我们大大缩短沟通和互相理解的实践，也能让你即时获得爱好者的帮助，或者我们官方的帮助。更可以让你即时指摘我们内容的疏漏。
 
-## 分类
+## 试用对象
 
 - PKMer 微信群
 	- 使用文章末尾或 pkmer.cn 下方的微信入口，扫码添加
 	- 群满后会自动扩群
+	- 为了某个独立项目/服务建立的内测群或者共建群
 - PKMer QQ 群
 <p style="width:200px" class="astro-J75B3YUS">
 				<a tooltip="点我加入" style="color:orangered; margin-right: 1em;" href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;k=9SQlwaHi_PlWLoQq9Vu6BnGRmfGbmSPz&amp;authKey=knraTnnD8fKa17GO6Yz3z4GFem2Y2DmR9Ep5DiZE67CCDrYbNYer8AWkDIJJQmfW&amp;noverify=0&amp;group_code=825255377" class="astro-J75B3YUS">
@@ -51,7 +52,7 @@ IM 类通讯软件交流的及时性，能帮助我们大大缩短沟通和互�
 6. 严禁不以正常交流为目的，通过恶意反复@、回复、私信等方式骚扰他人。
 7. 严禁以不友好的方式激怒他人，迫使对方对自己的言论做出回应，故意挑起争端。
 8. 严禁阴阳怪气。阴阳怪气的具体表现参见知乎问题：[什么是不友善内容](https://www.zhihu.com/question/20239684/answer/26476378)
-9. .  禁止恶意刷屏、垃圾广告
+9. 禁止恶意刷屏、垃圾广告
 10. 禁止讨论政治等可能导致封群的内容。
 11. 禁止二手交易。（考虑到二手交易过程中可能会产生信任、沟通等方面的问题，且万一出现经济损失社区也无法承担相应责任。因此群禁止二手交易任何物品，包括软件账号，请大家谅解）
 
@@ -71,7 +72,7 @@ IM 类通讯软件交流的及时性，能帮助我们大大缩短沟通和互�
 
 ## 三、  群文件相关
 
-本群文件采用分类法对群文件进行归类处理。
+群文件采用分类法对群文件进行归类处理。
 
 ## 四、  移出群聊
 
