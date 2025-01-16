@@ -1,5 +1,5 @@
 ---
-uid: 20241026225112
+uid: 20250115162227
 title: Obsidian 插件：Abbreviations and Acronyms
 tags: [数据处理, 文字处理, 自动化与AI, obsidian插件]
 description: 实现缩写词和首字母缩略词（术语）的自动标记。
@@ -7,7 +7,7 @@ author: Chenghuang
 type: auto
 draft: false
 editable: false
-modified: 20250111172019
+modified: 20250115162249
 ---
 
 # Obsidian 插件：Abbreviations and Acronyms
@@ -116,5 +116,5 @@ abbr:
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 | ![abbreviations-mark](https://cdn.pkmer.cn/images/202501111716278.png!pkmer) | ![abbreviations-mark](https://cdn.pkmer.cn/images/202501111716003.png!pkmer) | ![abbreviations-mark](https://cdn.pkmer.cn/images/202501111716159.png!pkmer) |
 
-[^1]: <https://zh.wikipedia.org/wiki/%E7%B8%AE%E5%AF%AB>
+[^1]: <https://zh.wikipedia.org/wiki/>%E7%B8%AE%E5%AF%AB>
 [^2]: <https://michelf.ca/projects/php-markdown/extra/#abbr>
