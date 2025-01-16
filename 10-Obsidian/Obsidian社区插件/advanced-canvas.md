@@ -1,5 +1,5 @@
 ---
-uid: 20241225102128
+uid: 20241225102129
 title: Obsidian 插件：Advanced Canvas 目前最好的 Obsidian 白板增强
 tags: ['界面优化', '数据处理', '白板', 'obsidian插件']
 description: Obsidian 插件：Advanced Canvas 目前最好的 Obsidian 白板增强，插件提供简洁有效的画布操作和定制功能，适用于制作演示文稿、流程图等场景，解决了 Obsidian 原生功能的不足。
@@ -7,7 +7,7 @@ author: OS
 type: other
 draft: false
 editable: false
-modified: 20241230190448
+modified: 20250116120008
 ---
 
 # Obsidian 插件：Advanced Canvas 目前最好的 Obsidian 白板增强

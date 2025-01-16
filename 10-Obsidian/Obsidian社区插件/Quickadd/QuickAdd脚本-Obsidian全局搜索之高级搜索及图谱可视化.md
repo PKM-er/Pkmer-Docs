@@ -1,9 +1,12 @@
 ---
 uid: 20250115192455
 title: QuickAdd 脚本 -Obsidian 全局搜索之高级搜索及图谱可视化
-tags: []
-description: 
-author: 
+tags:
+  - Obsidian
+  - obsidian插件
+  - quickadd
+description: QuickAdd 脚本 -Obsidian 全局搜索之高级搜索及图谱可视化
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
