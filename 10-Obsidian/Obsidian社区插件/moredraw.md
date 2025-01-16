@@ -4,7 +4,7 @@ title: Obsidian 插件：MoreDraw 强大的白板在线服务
 tags: [' 白板 ', ' 脑图 ', ' 表格 ', ' 流程图 ', ' 思维导图 ', 'obsidian 插件 ']
 description: Obsidian 插件：MoreDraw 强大的白板在线服务
 author: OS
-type: auto
+type: basic
 draft: false
 editable: false
 modified: 20250116101031

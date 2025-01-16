@@ -4,10 +4,10 @@ title: Obsidian 插件：Abbreviations and Acronyms
 tags: [数据处理, 文字处理, 自动化与AI, obsidian插件]
 description: 实现缩写词和首字母缩略词（术语）的自动标记。
 author: Chenghuang
-type: auto
+type: basic
 draft: false
 editable: false
-modified: 20250116111843
+modified: 20250116114959
 ---
 
 # Obsidian 插件：Abbreviations and Acronyms
