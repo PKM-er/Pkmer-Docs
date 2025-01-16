@@ -3,11 +3,11 @@ uid: 20230328202827
 title: Markdown 基础入门
 tags: [Markdown]
 description: Markdown 基础语法，标题，大纲，有序列表，无序里欸包，图片，表格，任务列表，语法
-author: 
+author: OS,PKMer
 type: basic
 draft: false
 editable: true
-modified: 20230328202827
+modified: 20250116113435
 ---
 
 # Markdown 基础入门

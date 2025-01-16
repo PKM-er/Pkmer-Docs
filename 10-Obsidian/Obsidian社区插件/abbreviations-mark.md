@@ -7,10 +7,14 @@ author: Chenghuang
 type: auto
 draft: false
 editable: false
-modified: 20250115162249
+modified: 20250116111843
 ---
 
 # Obsidian 插件：Abbreviations and Acronyms
+
+## 概述
+
+此插件能够实现缩写词和首字母缩略词（术语）的自动标记。
 
 > [!example] 插件名片
 > - 插件名称：Abbreviations and Acronyms

@@ -1,16 +1,16 @@
 ---
 uid: 20240731185020
-title: 右对齐作者的引用样式
+title: Obsidian 样式：右对齐作者的引用样式
 tags: [Obsidian, OB分享, css]
 description: 在引用的最下面自适应地居右文本，并添加破折号。
 author: Moy
 type: other
 draft: false
 editable: false
-modified: 20240806215350
+modified: 20250116112456
 ---
 
-# 右对齐作者的引用样式
+# Obsidian 样式：右对齐作者的引用样式
 
 效果预览：
 
