@@ -3,11 +3,11 @@ uid: 20230329153132
 title: Obsidian 资源合集
 tags: []
 description: 
-author: 
+author: PKMer
 type: awesome
 draft: true
 editable: true
-modified: 20230519171631
+modified: 20250116113629
 ---
 
 # Obsidian 资源合集

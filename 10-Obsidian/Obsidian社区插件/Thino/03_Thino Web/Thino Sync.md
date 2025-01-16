@@ -4,7 +4,7 @@ title: Thino 同步
 tags: [Obsidian, Obsidian插件, Thino, 同步]
 description: Thino 同步
 author: Bon,PKMer,OS
-type: other
+type: basic
 draft: false
 editable: false
 modified: 20250116093112

@@ -1,16 +1,20 @@
 ---
 uid: 20250109151545
-title: Obsidian 插件：Better Plugin Manager
+title: Obsidian 插件：Better Plugin Manager 提升你的插件管理体验
 tags: [' 插件安装 ', ' 管理工具 ', 'obsidian 插件 ']
-description: 打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。
+description: Obsidian 插件：Better Plugin Manager 提升你的插件管理体验
 author: 曲淡歌
 type: other
 draft: false
 editable: false
-modified: 20250109153139
+modified: 20250116111816
 ---
 
-# Obsidian 插件：Better Plugin Manager
+# Obsidian 插件：Better Plugin Manager 提升你的插件管理体验
+
+## 概述
+
+管理插件启动顺序和分组，管理插件启动顺序，可以让你更快的进入 Obsidian 的工作区，尤其是当你的插件数量增多后，启动过程会因为插件加载数量而变慢。
 
 > [!note] Text Generator
 > 插件 ID：better-plugins-manager

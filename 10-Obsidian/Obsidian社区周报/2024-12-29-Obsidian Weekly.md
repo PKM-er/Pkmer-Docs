@@ -1,13 +1,13 @@
 ---
 uid: 20241230191254
 title: Obsidian Weekly 2024-12-29：更严谨，更简约，更开放，更自由
-tags: 
+tags: [Weekly, Obsidian]
 description: 
-author: 
+author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20241230191316
+modified: 20250116113243
 ---
 
 # Obsidian Weekly 2024-12-29：更严谨，更简约，更开放，更自由
@@ -19,8 +19,6 @@ modified: 20241230191316
 ## 插件新闻
 
 ### 社区插件
-
-
 
 #### 更新
 

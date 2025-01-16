@@ -1,9 +1,11 @@
 ---
 uid: 20230916145139
 title: Dataview 语法实战：自定义排序进阶操作实例
-tags: [obsidian, dataview]
+tags:
+  - obsidian
+  - dataview
 description: Dataveiw 自定义排序进阶操作
-author: 
+author: Huajin
 type: other
 draft: false
 editable: false

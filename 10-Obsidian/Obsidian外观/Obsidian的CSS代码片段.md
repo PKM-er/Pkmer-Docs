@@ -74,6 +74,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-用分割线实现分栏]]
 - [[Obsidian样式-笔记页内标题居中]]
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
+- [[Obsidian 样式-右对齐作者的引用样式]]
 - [[Obsidian样式-分割线样式美化]]
 - [[Obsidian样式-给笔记添加随机背景图]]
 - [[Obsidian样式-美化高亮样式]]

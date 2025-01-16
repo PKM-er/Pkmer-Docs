@@ -4,7 +4,7 @@ title: Obsidian 插件：Timer 简单实用的倒计时功能
 tags: ['时间与日期', '效率工具', 'obsidian插件']
 description: Obsidian 插件：Timer 简单实用的倒计时功能
 author: OS
-type: auto
+type: basic
 draft: false
 editable: false
 modified: 20250102153943

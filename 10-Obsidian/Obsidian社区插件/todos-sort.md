@@ -4,7 +4,7 @@ title: Obsidian 插件：Todos sort 自动排序已完成的任务
 tags: ['任务管理', '搜索与排序', '效率工具', 'obsidian插件']
 description: Obsidian 插件：Todos sort 自动排序已完成的任务
 author: OS
-type: auto
+type: basic
 draft: false
 editable: false
 modified: 20241213200217

@@ -4,7 +4,7 @@ title: Obsidian 插件：Dynamic Outline 简单易用的悬浮目录
 tags: [目录 ', 'obsidian 插件 ']
 description: Obsidian 插件：Dynamic Outline 简单易用的悬浮目录
 author: OS
-type: auto
+type: basic
 draft: false
 editable: false
 modified: 20250116104629

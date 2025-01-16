@@ -2,7 +2,7 @@
 uid: 20250113164642
 title: Obsidian 插件：Contact Cards 简约风的联系人卡片
 tags: []
-description:Obsidian 插件：Contact Cards 简约风的联系人卡片
+description: Obsidian 插件：Contact Cards 简约风的联系人卡片
 author: OS
 type: basic
 draft: false
