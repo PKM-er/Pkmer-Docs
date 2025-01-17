@@ -1,18 +1,19 @@
 ---
 uid: 20241227222717
-title: Obsidan 全局搜索功能
+title: Obsidian 全局搜索功能
 tags: [快速搜索]
 description: Obsidian 核心插件——搜索，可以通过使用高级搜索词和运算符缩小结果范围，帮助您快速查找 Obsidian 库中的关键数据。
 author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20241227223114
+modified: 20250115193903
 ---
 
-# Obsidan 全局搜索功能
+# Obsidian 全局搜索功能
 
-> [!cite] 原文来自 [Search - Obsidian Help](https://help.obsidian.md/Plugins/Search)
+> [!cite]
+> 原文来自 [Search - Obsidian Help](https://help.obsidian.md/Plugins/Search)
 
 Obsidian 核心插件——**搜索**，可以通过使用高级搜索词和运算符缩小结果范围，帮助您快速查找 Obsidian 库中的关键数据。
 

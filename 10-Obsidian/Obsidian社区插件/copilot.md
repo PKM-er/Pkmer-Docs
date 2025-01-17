@@ -1,16 +1,20 @@
 ---
 uid: 20230609105707
 title: Obsidian 插件：copilot
-tags: []
+tags: [' copilot ', ' AI ', 'obsidian 插件 ']
 description: 一个能像chatGPT网页版对话的Obsidian AI插件
 author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20241229123149
+modified: 20250116112042
 ---
 
 # Obsidian 插件：copilot
+
+## 概述
+
+为 Obsidian 提供一个可以会话式交互的 AI 聊天插件
 
 > [!Note] 插件名片
 > - 插件名称：copilot

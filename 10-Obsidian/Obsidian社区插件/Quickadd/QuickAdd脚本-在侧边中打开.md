@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20241227182041
+modified: 20250104220224
 ---
 
 # QuickAdd 脚本 - 在侧边中打开
@@ -19,8 +19,6 @@ modified: 20241227182041
 ![241227_QuickAdd脚本：在侧边打开.md](https://cdn.pkmer.cn/images/202412271819700.gif)
 
 ## QuickAdd Capture
-
-### 侧边打开
 
 ````
 ```js quickadd
@@ -42,24 +40,6 @@ setTimeout(() => {
     comm("workspace:toggle-pin");
 }, 50);
 
-```
-````
-
-### 侧边栏打开
-
-````
-```js quickadd
-const activefile = app.workspace.getActiveFile();
-const filePath = app.vault.getAbstractFileByPath(activefile.path)
-const rightSidebar = app.workspace.rightSplit;
-const leaf = rightSidebar.getLeaf(true);
-leaf.openFile(filePath);
-
-const comm = str => app.commands.executeCommandById(str);
-
-setTimeout(() => {
-    comm("workspace:toggle-pin");
-}, 50);
 ```
 ````
 

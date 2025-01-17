@@ -1,13 +1,13 @@
 ---
 uid: 20240428133002
 title: 自定义 Excalidraw 脚本 - 给 Excalidraw 添加标签
-tags: []
-description: 
-author: 
+tags: [Excalidraw]
+description: 自定义 Excalidraw 脚本 - 给 Excalidraw 添加标签
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240428133123
+modified: 20250116113459
 ---
 
 # 自定义 Excalidraw 脚本 - 给 Excalidraw 添加标签

@@ -1,9 +1,10 @@
 ---
 uid: 20240612203846
 title: Obsidian样式-笔记内容居左或居中切换
-tags: [笔记视图]
+tags:
+  - 笔记视图
 description: 通过修改CSS实现笔记内容居左或居中切换
-author: 
+author: 熊猫别熬夜
 type: other
 draft: false
 editable: false

@@ -55,11 +55,14 @@ settings:
 
 /* .privacy-mode span,li,h3,h2, */
 .privacy-mode {
-  .el-p,
-  span, li{
+
+  /* 不太强制的隐私模式，保留一部分可读的部分 */
+  .el-p, .cm-line, .callout-content, p, .cm-line, 
+  td, span, li {
     -webkit-text-security: var(--privacy-mode-text);
   }
-  h1,h2,h3,h4,h5,h6{
+
+  h1, h2, h3, h4, h5, h6 {
     -webkit-text-security: none !important;
   }
 }

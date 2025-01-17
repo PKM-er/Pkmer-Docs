@@ -7,10 +7,14 @@ author: Moy
 type: other
 draft: false
 editable: false
-modified: 20241102205440
+modified: 20250116112326
 ---
 
 # Obsidian 样式 - 在 Obsidian 内实现网格背景
+
+## 概述
+
+本文章参考了以下内容，并实现了 Obsidian 内网格背景的效果
 
 > 来自 [[241029_阮一峰的文章摘录#纯 CSS 实现网格背景|纯 CSS 实现网格背景]]
 

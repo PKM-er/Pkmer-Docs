@@ -7,7 +7,7 @@ author: 熊猫别熬夜,Huajin
 type: other
 draft: false
 editable: false
-modified: 20241218150642
+modified: 20250111170653
 ---
 
 # Obsidian 样式 - 设置界面网格卡片式布局
@@ -109,5 +109,101 @@ body:not(.installed-plugin-layout) .vertical-tabs-container .installed-plugins-c
   width: 100%;
   right: 0px;
   justify-content: right;
+}
+```
+
+## 适配 Better Plugins Manager 插件版
+
+![image.png](https://cdn.pkmer.cn/images/202501111706053.png!pkmer)
+
+```css
+/* @settings
+
+name: Obsidian-Setting-Grid-Layout
+description: 一个用于 Obsidian 设置页面的网格布局
+id: obsidian-setting-grid-layout
+settings:
+    - 
+        id: Grid-Layout-info-text
+        title: Information
+        description: "本样式参考了Huajin的[obsidian-settings-management](https://github.com/xhuajin/obsidian-settings-management/)插件的样式。"
+        type: info-text
+        markdown: true
+    - 
+        id: hotkey-layout
+        title: 关闭快捷键列表卡片化
+        type: class-toggle
+        default: false
+    - 
+        id: plugin-layout
+        title: 关闭核心插件列表卡片化
+        type: class-toggle
+        default: false
+    - 
+        id: installed-plugin-layout
+        title: 关闭第三方插件列表卡片化
+        type: class-toggle
+        default: false
+*/
+
+/* 2024-12-17 参考Huajin的obsidian-settings-management插件的样式 https://github.com/xhuajin/obsidian-settings-management/blob/master/src/styles.css */
+/* 快捷键列表 */
+body:not(.hotkey-layout) .vertical-tabs-container .vertical-tab-content>.hotkey-list-container,
+/* 核心插件列表 */
+body:not(.plugin-layout) .vertical-tabs-container .plugin-list-plugins>div:not(.setting-item),
+/* 第三方插件列表 */
+body:not(.installed-plugin-layout) .vertical-tabs-container .installed-plugins-container,
+.modal-content.manager-item-container {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-auto-rows: min-content;
+
+  /* 子项目设置 */
+  .setting-item:not(:has(~.setting-item-heading)):not(.setting-item-heading) {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+    padding: 1em;
+  }
+
+  .setting-item:is(:has(~.setting-item-heading), .setting-item-heading) {
+    grid-column: 1 / -1;
+  }
+
+  .setting-item-info {
+    overflow: hidden;
+    overflow-wrap: anywhere;
+  }
+}
+
+/* 第三方插件列表 按钮微调*/
+.installed-plugins-container,
+.modal-content.manager-item-container {
+  .setting-item {
+    position: relative;
+    display: flex;
+    flex-flow: column nowrap;
+  }
+
+  .setting-item-info {
+    flex: 2 0 auto;
+    width: 100%;
+    margin-left: 10px;
+  }
+
+  .setting-item-control {
+    flex: 0;
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+    right: 0px;
+    justify-content: right;
+  }
+}
+
+.modal.manager-container {
+  width: 60vw;
+  height: 80vh;
+  overflow: auto;
 }
 ```

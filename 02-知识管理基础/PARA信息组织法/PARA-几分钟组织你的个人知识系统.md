@@ -1,13 +1,13 @@
 ---
 uid: 20230606101657
 title: PARA 方法—几分钟组织你的个人知识系统
-tags: []
+tags: [PARA]
 description: 
-author: 
+author: OS
 type: other
 draft: false
 editable: false
-modified: 20230606121110
+modified: 20250116113409
 ---
 
 # PARA 方法—几分钟组织你的个人知识系统

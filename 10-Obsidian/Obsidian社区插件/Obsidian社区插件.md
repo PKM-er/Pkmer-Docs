@@ -7,12 +7,12 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20241219183430
+modified: 20250116105010
 ---
 
 # Obsidian 社区插件
 
-Obsidian 允许其他开发者编写第三方插件来扩展 Obsidian 的功能。你可以把这点理解清楚 Chrome 或者 Edge 浏览器一样的扩展。
+Obsidian 允许其他开发者编写第三方插件来扩展 Obsidian 的功能。你可以把这点理解城 Chrome 或者 Edge 浏览器一样的扩展。
 
 Obsidian 最强大的地方在于插件系统，即使是官方的一些功能，也是通过插件来实现的。因此插件可以按维护者分为核心插件和社区插件两类。核心插件由官方维护，随着 Obsidian 本体进行发行，社区插件由社区插件开发者维护，通过 Obsidian 插件市场进行发布。
 
@@ -139,7 +139,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些插件致力于大幅强化 Obsidian 笔记中图片的操作体验，并提供诸多实用功能，例如方便地查看和管理笔记中的图片，将网络图片集成到本地，等等。这些插件都极大地丰富了 Obsidian 用户的图片使用体验，使用户可以更加方便地在笔记中插入、编辑和排序图片，并提高他们的使用效率。此外，它们还提供了许多高级功能和实用性的工具，例如图片大小调整、编辑、居中、旋转，以及自动生成文件名等。每一个细节都经过了认真优化，让用户可以获得更为舒适顺畅的图片使用体验。
 
-- - [[obsidian-attachflow-plugin]]：用户友好的图片操作插件，可拖拽调整大小
+- [[obsidian-attachflow-plugin]]：用户友好的图片操作插件，可拖拽调整大小
 - [[obsidian-image-toolkit]]：提供笔记中查看图片的基本操作
 - [[awesome-image]]：提供笔记中查看图片的基本操作
 - [[obsidian-charts]]：为 Obsidian 中的笔记增加一个图表功能
@@ -168,6 +168,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[insta-toc]]：通过插入特殊的代码块，生成一个自动目录
 - [[floating-toc]]：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的一样
 - [[obsidian-quiet-outline]]：增强大纲插件，按需自动展开大纲
+- [[dynamic-outline]]：简单易用的悬浮目录
 - [[todos-sort]]：自动排序已完成的任务
 - [[any-block]]：个简易而又强大的块编辑器，您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如 `列表转表格`
 - [[obsidian-outliner]]：为 Obsidian 的大纲添加快捷操作
@@ -187,7 +188,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
 
-- [[thino]]：memos 全新版本~tada~
+- [[obsidian-memos]]：memos 全新版本~tada~
 - [[obsidian-memos]]：提供一个简易轻巧的笔记和灵感收集方式
 - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
@@ -213,6 +214,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[nldates-obsidian]]：使用自然语言插入时间戳，并链接对应笔记中
 - [[obsidian-last-modified-timestamp-in-status-bar]]：在状态栏可视化你的最后编辑时间
 - [[tokei]]：将一个数字时钟，放到笔记中
+- [[timer]]：Obsidian 插件：Timer 简单实用的倒计时功能
+- [[obsidian-day-planner]]：用于从 Markdown 笔记中的任务列表中规划和管理番茄钟计时器
 
 ### 代码域
 
@@ -384,11 +387,15 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 	- [[自定义Excalidraw脚本-修改MindMap Format设置思维导图Frame容器]]
 - [[mermaid-tools]]：提供一个包含常见 mermaid 语法模板的面板，并且可以自定义
 - [[smart-gantt]]：值得关注的简易绘制甘特图插件
+- [[contact-cards]]：简约风的联系人卡片
+- [[easy-timeline]]：简单易懂的时间轴/时间线创建工具
 
 ### 白板（canvas）和脑图
 
+- [[advanced-canvas]]：Obsidian 插件：Advanced Canvas 目前最好的 Obsidian 白板增强
 - [[canvas-presentation]]：帮助你根据顺序演示白板中的卡片
 - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
+- [[moredraw]]：强大的白板在线服务
 - [[obsidian-mindmap-nextgen]]：用于将笔记预览为 Markmap 思维导图
 - [[obsidian-enhancing-mindmap]]：让你在 Osidian 中绘制思维导图、大纲和 PDF 文件标注工具。包括多种模式，包括导图模式，表格模式，类白板模式。
 
