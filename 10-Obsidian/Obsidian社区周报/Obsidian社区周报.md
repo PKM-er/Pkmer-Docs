@@ -18,12 +18,12 @@ modified: 20250122115741
 
 更新时间：每周六晚 - 周日
 
-### 2025
+## 2025
 
 - [[2025-01-19-Obsidian Weekly]]（New！试刊）
 - [[2025-01-12-Obsidian Weekly]]（试刊）
 
-### 2024
+## 2024
 
 - [[2024-12-28-Obsidian Weekly]]（试刊）
 - [[2024-12-22-Obsidian Weekly]]（试刊）
@@ -77,7 +77,7 @@ modified: 20250122115741
 - [[2024-01-13-Obsidian Weekly]]（试刊）
 - [[2024-01-06-Obsidian Weekly]]（试刊）
 
-### 2023
+## 2023
 
 - [[2023-12-30-Obsidian Weekly]]（试刊）
 - [[Obsidian1.5.3 更新说明|2023-12-26-Obsidian1.5.3 交互体验升级]]
