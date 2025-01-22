@@ -29,7 +29,7 @@ modified: 20250116111816
 
 Better Plugin Manager 是一款 Obsidian 插件管理工具，功能包括：插件分组、标签管理、自由备注和延迟启动，提升了插件管理效率。
 
-![[Pasted image 20250110105338.png]]
+![Pasted image 20250110105338](https://cdn.pkmer.cn/images/202501222236662.png!pkmer)
 ## 使用示例
 
 ### 插件分组&延迟启动
