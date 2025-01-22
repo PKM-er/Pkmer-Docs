@@ -7,7 +7,7 @@ author: 曲淡歌
 type: advanced
 draft: false
 editable: false
-modified: 20250112234236
+modified: 20250122223413
 ---
 
 # Obsidian 轻量级 PPT 教程
