@@ -13,7 +13,7 @@ modified: 20250121203953
 # 一键打开此 Folder 下所有文件
 
 ## 一、此脚本产生的背景，解决的问题
-![[Pasted image 20250121204544.png]]
+![Pasted image 20250121204544](https://cdn.pkmer.cn/images/202501222237215.png!pkmer)
 
 1.  场景：我打开了一个Markdown文件；如上图，我们打开一个，是当前激活文档
 2.  需求：此时，我们还要直接打开其他，此文件夹下面所有的文档
@@ -21,7 +21,7 @@ modified: 20250121203953
 4.  我的操作：我用于复习，我觉得某个文件夹里的内容，我有些忘记了，我会全部打开，直接复习，一个个看，看完一个就ctrl + W关闭一下
 5.  脚本的原因： 因为系统没这个命令
 6.  脚本的结果： 把这个需求 ，做到系统命令里面了的，如下图
-![[Pasted image 20250121204914.png]]
+![Pasted image 20250121204914](https://cdn.pkmer.cn/images/202501222237216.png!pkmer)
 
 
 ## 二、 使用需要的条件
@@ -80,9 +80,9 @@ module.exports = async function (params) {
 
 ### 三、 如下截图，是 相关设置   
 
-![[Pasted image 20250121205536.png]]
+![Pasted image 20250121205536](https://cdn.pkmer.cn/images/202501222237217.png!pkmer)
 
-![[Pasted image 20250121205728.png]]
+![Pasted image 20250121205728](https://cdn.pkmer.cn/images/202501222237218.png!pkmer)
 
 
 
