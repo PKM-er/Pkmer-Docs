@@ -25,6 +25,11 @@ modified: 20250116111816
 > 插件源码地址：[Better Plugin Manager](https://github.com/0011000000110010/obsidian-manager)
 > 插件文档地址：[Better Plugin Manager 文档](https://github.com/0011000000110010/obsidian-manager)
 
+## 简介
+
+Better Plugin Manager 是一款 Obsidian 插件管理工具，功能包括：插件分组、标签管理、自由备注和延迟启动，提升了插件管理效率。
+
+![[Pasted image 20250110105338.png]]
 ## 使用示例
 
 ### 插件分组&延迟启动

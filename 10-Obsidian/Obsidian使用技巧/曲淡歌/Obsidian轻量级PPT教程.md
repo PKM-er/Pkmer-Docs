@@ -4,21 +4,27 @@ title: Obsidian 轻量级 PPT 教程
 tags: [演示, PPT]
 description: 
 author: 曲淡歌
-type: other
+type: advanced
 draft: false
 editable: false
-modified: 20250109202223
+modified: 20250122223413
 ---
 
 # Obsidian 轻量级 PPT 教程
 
 ## 前言
 
+![[Pasted image 20250110110308.png]]
+
 不论是学习还是工作，我们总有需要展示内容的时候，一般会用幻灯片 [^1] 来完成。PPT 相较于传统文稿，可以更直观地将信息传递给观众，通过图文结合的方式展现内容，同时利用动画效果引导视线，减轻演讲者的压力。
 
 随着我们在 Obsidian（后文简称 ob）笔记系统中的应用日渐深入，用 ob 制作 PPT 的需求变得自然而然。本文将介绍几种在 ob 中制作 PPT 的常见方式，包括 ob 自带的幻灯片与白板核心插件，以及第三方插件 Slides Extend、Advanced Canvas 和 Excalidraw。
 
 当然，ob 在制作 PPT 领域无法与专业软件相提并论，因此建议大家结合自己的实际需求和 ob 的功能限制，选择最适合的方式进行尝试。
+
+本文配套视频：
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=113809888976293&bvid=BV1BAcAeaEsQ&cid=27816169098&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"> </iframe>
 
 ## 核心插件：幻灯片
 
