@@ -1,16 +1,13 @@
 ---
 uid: 20240311145446
 title: Thino 日期选择器
-tags:
-  - Obsidian
-  - Thino
-  - memos
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino 日期选择器
 author: OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240311153802
+modified: 20250122192835
 id: 98c0ac6c4e0fe629
 ---
 

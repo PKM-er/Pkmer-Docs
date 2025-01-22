@@ -1,16 +1,13 @@
 ---
 uid: 20231109234458
 title: Thino 回顾功能
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino 回顾功能
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240828102544
+modified: 20250122192826
 id: 82f89fe070127923
 ---
 

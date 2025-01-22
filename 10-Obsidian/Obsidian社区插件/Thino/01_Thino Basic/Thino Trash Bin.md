@@ -1,16 +1,13 @@
 ---
 uid: 20231109234559
 title: Thino 回收站功能
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino 回收站功能
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231215231311
+modified: 20250122192855
 id: ea17b19928eed541
 ---
 

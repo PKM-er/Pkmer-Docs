@@ -1,17 +1,13 @@
 ---
 uid: 20240311153554
 title: Thino 日历组件
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - memos
+tags: [Obsidian, Obsidian插件, Thino, memos]
 description: Thino 日历组件
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240312172419
+modified: 20250122192822
 id: 52487ae387f69239
 ---
 

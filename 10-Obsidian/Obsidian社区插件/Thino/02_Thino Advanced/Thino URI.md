@@ -1,16 +1,13 @@
 ---
 uid: 20231109234449
 title: Thino URI
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino URI
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110001509
+modified: 20250122192807
 id: 00d5e07c5d8a71f1
 ---
 

@@ -1,16 +1,16 @@
 ---
 uid: 20240506222202
-title: zettelkasten-navigation
+title: Obsidian 插件：Zettelkasten-navigation 可视化和导航一个卢曼风格插件
 tags: [关系图谱, 卡片笔记]
-description: 可视化和导航一个卢曼风格的笔记库
+description: Obsidian 插件：Zettelkasten-navigation 可视化和导航一个卢曼风格插件
 author: Terry,chenghuang
 type: basic
 draft: false
 editable: false
-modified: 20250115191912
+modified: 20250116180821
 ---
 
-# zettelkasten-navigation
+# Obsidian 插件：Zettelkasten-navigation 可视化和导航一个卢曼风格插件
 
 > [!NOTE] 插件名片
 > - 插件名称：zettelkasten navigation
