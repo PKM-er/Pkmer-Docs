@@ -1,16 +1,13 @@
 ---
 uid: 20231109234446
 title: Thino 分享功能
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino 分享功能
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240127232310
+modified: 20250122192852
 id: dfaf210a5bb9410f
 ---
 

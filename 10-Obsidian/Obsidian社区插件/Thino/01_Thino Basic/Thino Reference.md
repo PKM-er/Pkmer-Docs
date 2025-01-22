@@ -1,16 +1,13 @@
 ---
 uid: 20240129182857
 title: Thino 脉络
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino 脉络
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240130143840
+modified: 20250122192901
 id: 309ad2ff825a4293
 ---
 

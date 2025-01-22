@@ -1,16 +1,13 @@
 ---
 uid: 20231109234544
 title: Thino 设置
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino 设置
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20240208005737
+modified: 20250122192812
 id: eac6fe71dca1cf36
 ---
 

@@ -1,17 +1,13 @@
 ---
 uid: 20240311175452
 title: Thino 日期分组
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - memos
+tags: [Obsidian, Obsidian插件, Thino, memos]
 description: Thino 日期分组
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240311175833
+modified: 20250122192820
 id: 7fdc8f1c891abb5c
 ---
 

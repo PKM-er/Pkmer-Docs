@@ -1,16 +1,13 @@
 ---
 uid: 20231109234546
 title: Thino 编辑器
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino 编辑器
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20240208010107
+modified: 20250122192907
 id: cb74b3ee347c1775
 ---
 

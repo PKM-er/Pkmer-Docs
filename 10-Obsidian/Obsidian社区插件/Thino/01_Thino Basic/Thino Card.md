@@ -1,16 +1,13 @@
 ---
 uid: 20231109234447
 title: Thino Card
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino Card
 author: Bon,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231110001231
+modified: 20250122192847
 id: ad09130111ee9095
 ---
 
