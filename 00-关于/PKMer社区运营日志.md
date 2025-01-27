@@ -7,7 +7,7 @@ author: PKMer,OS
 type: awesome
 draft: false
 editable: false
-modified: 20250116141749
+modified: 20250127102951
 ---
 
 # PKMer 社区运营日志
@@ -87,6 +87,17 @@ modified: 20250116141749
 
 - 视频制作小组：一手烂牌及时止损、永皓、Andrew、明导、Ash、Terry、郭老师、熊猫别熬夜、奇货队长、快乐小牛、戚小谢、佳豪君 z、目标力口 1900 分、不知道是什么谷、寒月君
 - 知识方法论突出贡献：Ryooo
+
+### 25.1.21-26
+
+社区发放对应 24 年年度激励，鼓励在社区运营、产品服务开发上贡献量到达一定程度的同学，排名不分先后：
+
+社区发放对应 2024 年年度激励，鼓励在社区运营、产品服务开发上贡献量到达一定程度的同学，排名不分先后：
+
+- 产品、服务线： windilycloud、Bon、Cuman、jerry、teacher Xiang、AidenLx、Huajin
+- 社区管理和运营、撰稿：熊猫别熬夜、ProudBenzene、calmwaves、淡水鱼、Moy
+- 社区运作小项目：ZK 卡实例库 Terry、数学库 Cyletix
+- 视频制作小组：三花猫曲奇、非著名脊柱侧弯、Terry、随性人啊、时间暂停出售，永皓、外卖小哥赵德柱、一手烂牌及时止损、杰森 He、Shiki
 
 ## 关于医学库
 
