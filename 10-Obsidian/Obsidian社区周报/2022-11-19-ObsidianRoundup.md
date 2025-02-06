@@ -1,7 +1,7 @@
 ---
 uid: 20230329102649
 title: Obsidian 周报
-tags: 
+tags: [Obsidian]
 description: 
 author: Bon
 type: other

@@ -1,7 +1,7 @@
 ---
 uid: 20230329102655
 title: 个人事项
-tags: []
+tags: [Obsidian]
 description: 
 author: Bon
 type: other

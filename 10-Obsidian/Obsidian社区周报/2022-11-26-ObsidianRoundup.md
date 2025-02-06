@@ -1,7 +1,7 @@
 ---
 uid: 20230329102650
 title: 插件新闻
-tags: []
+tags: [Obsidian]
 description: 
 author: Bon
 type: other
