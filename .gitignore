@@ -1,5 +1,4 @@
 .obsidian/*
-.obsidian/app.json
 !.obsidian/plugins
 .obsidian/plugins/*
 !.obsidian/plugins/dataview/
