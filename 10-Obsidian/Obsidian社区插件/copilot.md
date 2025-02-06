@@ -7,7 +7,7 @@ author: windilycloud
 type: basic
 draft: false
 editable: false
-modified: 20250116112042
+modified: 20250206153232
 ---
 
 # Obsidian 插件：copilot
@@ -74,3 +74,11 @@ base_url="https://api.moonshot.cn/v1"
 [moonshot-v1-auto](https://platform.moonshot.cn/docs/guide/choose-an-appropriate-kimi-model#moonshot-v1-auto-%E6%A8%A1%E5%9E%8B)
 
 可能还有其他模型支持 openai format，此不一一列出
+
+## 视频内容
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1405260572&bvid=BV13r421A7ek&cid=1570540513&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="80%" height="500"></iframe>
+
+## 相关内容
+
+[[Copilot 插件调用 deepseek 教程]]
