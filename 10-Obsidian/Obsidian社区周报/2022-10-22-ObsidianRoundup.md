@@ -1,7 +1,7 @@
 ---
 uid: 20230329102646
 title: 社区新闻
-tags: []
+tags: [Obsidian]
 description: 社区新闻 2022-10-22
 author: Bon
 type: other

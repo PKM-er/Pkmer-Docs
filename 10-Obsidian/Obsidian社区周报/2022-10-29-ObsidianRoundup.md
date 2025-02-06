@@ -1,7 +1,7 @@
 ---
 uid: 20230329102647
 title: Obsidian 更新
-tags: []
+tags: [Obsidian]
 description: Obsidian 更新
 author: Bon
 type: other
