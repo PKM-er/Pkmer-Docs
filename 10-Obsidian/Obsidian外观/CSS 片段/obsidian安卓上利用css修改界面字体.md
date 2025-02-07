@@ -56,8 +56,10 @@ reference: [简单调用霞鹜文楷字体 - 经验分享 - Obsidian 中文论�
     3. 转换完成后会生成下载链接, 点击 Download 下载即可
 3. 解压下载的文件 zip，找到其中的 `stylesheet.css` 打开（这个文本文件可能会很大，用记事本打开不一定流畅，可以找找别的文本编辑器）可以看到文件前两行，记住这个名字 `'LXGW WenKai GB'`：
 
-```css@font-face {
+```CSS
+@font-face {
     font-family: 'LXGW WenKai GB';
+}
 ```
 
 再给 css 文件上面添加这么一句调用代码就行，字体名称要一致。（**我一般将这一句写在另一个 css 文件里，stylesheet.css 文件太大了不好编辑**）
