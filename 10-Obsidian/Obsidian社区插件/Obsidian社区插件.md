@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20250206141353
+modified: 20250207130253
 ---
 
 # Obsidian 社区插件
@@ -490,6 +490,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[auto-archive]]：自动按照时间跨度归档你的笔记
  - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
  - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
+ - [[recent-notes]]：按照时间分组排序的浏览历史插件
  - [[recent-files-obsidian]]：显示最近打开的文件列表
  - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
  - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
