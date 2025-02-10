@@ -7,7 +7,7 @@ author: simple
 type: other
 draft: false
 editable: false
-modified: 20250206150202
+modified: 20250210214659
 ---
 
 # Copilot 插件调用 deepseek 教程
@@ -32,21 +32,15 @@ modified: 20250206150202
 	![image.png](https://cdn.pkmer.cn/images/20250206140842.png!pkmer)
 	2. Base URL（如上图图片里的提示： <https://api.deepseek>,com/v1）
 		- 经过测试：
-		- "deepseek-chat“填入后可用（这个是V3模型），不用勾选 enable CORs 即可使用。R1模型名称是deepseek-reasoner（暂时不行）
+		- “deepseek-chat”填入后可用，不用开启 enable CORS 即可使用。
 	3.	apiKEY 获取
-		- [登入 DeepSeek 开放平台](https://platform.deepseek.com/)创建（如下图）
+		- 登入 DeepSeek 开放平台创建（如下图）
 	![image.png](https://cdn.pkmer.cn/images/20250206140915.png!pkmer)
 
 至此配置结束。
-
-> [!note] 提示
-> - 如未能登录 DeepSeek 开放平台：<https://platform.deepseek.com/api_keys>
-> - 建议切换登录方式，如手机号登入切换为微信登入。或者换个时间点或者过几天后登录
 
 ## 效果展示
 
 可以在 copilot 插件放入侧边栏，使用 deepseek 进行对话和询问内容问题
 
 ![image.png](https://cdn.pkmer.cn/images/20250206140941.png!pkmer)
-
-同理 你也可以用这套逻辑构建其他 如kimi等AI接口
