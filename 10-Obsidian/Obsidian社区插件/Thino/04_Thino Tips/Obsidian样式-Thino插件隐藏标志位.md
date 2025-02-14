@@ -1,16 +1,13 @@
 ---
 uid: 20240124113835
 title: Obsidian 样式：Thino 插件隐藏同步标志位
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
+tags: [Obsidian, Obsidian插件, Thino]
 description: Obsidian 插件：Thino 隐藏标志位
-author: OS
+author: Cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20241019151139
+modified: 20250214095605
 id: 891a3f25cc0170c1
 ---
 
@@ -40,6 +37,15 @@ id: 891a3f25cc0170c1
 - 通过使用 自定义样式来完成，使用方法参考 [[Obsidian的CSS代码片段]]
 
 ```CSS
+/*hide wechat send tag in read mode*/
+.memo-wrapper [href="#收集/微信"] {
+    display: none;
+}
+
+.markdown-preview-view  [href="#收集/微信"] {
+    display: none;
+}
+
 /*thino id & webid*/
 .cm-comment.cm-link.cm-quote.cm-quote-1{
 	display:none;
@@ -70,6 +76,8 @@ span.dataview.inline-field-key{
 span.dataview.inline-field-value{
 	display:none;
 }
+
+
 ```
 
 ### 如何隐藏 kanban 插件中的同步标志位
