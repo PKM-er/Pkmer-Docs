@@ -1,7 +1,11 @@
 ---
 uid: 20231109234452
 title: Thino 卡片菜单
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 卡片菜单
 author: Bon,PKMer
 type: other

@@ -1,7 +1,10 @@
 ---
 uid: 20240124113835
 title: Obsidian 样式：Thino 插件隐藏同步标志位
-tags: [Obsidian, Obsidian插件, Thino]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
 description: Obsidian 插件：Thino 隐藏标志位
 author: Cuman,OS
 type: other

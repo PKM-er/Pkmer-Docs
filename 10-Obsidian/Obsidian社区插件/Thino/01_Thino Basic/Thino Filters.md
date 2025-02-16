@@ -1,7 +1,11 @@
 ---
 uid: 20231109234542
 title: Thino 检索式功能（筛选器）
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 检索式功能（筛选器）
 author: Bon,PKMer
 type: other

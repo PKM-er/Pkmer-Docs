@@ -1,7 +1,11 @@
 ---
 uid: 20240324125713
 title: Thino 动态视图
-tags: [Obsidian, Obsidian插件, Thino, memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - memos
 description: Thino 动态视图
 author: OS,PKMer
 type: other

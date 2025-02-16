@@ -1,7 +1,11 @@
 ---
 uid: 20231109234547
 title: Thino 图片预览
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 图片预览
 author: Bon,PKMer
 type: other
