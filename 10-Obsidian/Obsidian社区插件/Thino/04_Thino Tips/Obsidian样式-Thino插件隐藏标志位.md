@@ -10,7 +10,7 @@ author: Cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20250214095605
+modified: 20250214194659
 id: 891a3f25cc0170c1
 ---
 
@@ -33,7 +33,11 @@ id: 891a3f25cc0170c1
 
 所以提供了一系列文本标识符或者叫标志位，来辅助插件定位。但一些用户可能不喜欢。
 
-下面的 CSS 可以帮助你在 源码模式和 live preivew 模式隐藏 Thino 的标志位，也简单兼容了关于 dataview 和 task 插件的索引内容。当然因为相关操作的插件较多，可能还没有适配完全。
+下面的 CSS 可以帮助你在
+
+- 源码模式和 live preivew 模式隐藏 Thino 的同步标志位
+- 可以支持隐藏 来自微信同步的 tag 标识
+- 也简单兼容了关于 dataview 和 task 插件的索引内容。当然因为相关操作的插件较多，可能还没有适配完全。
 
 ## 实战
 

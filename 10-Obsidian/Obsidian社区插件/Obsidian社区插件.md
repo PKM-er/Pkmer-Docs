@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20250207130253
+modified: 20250217105757
 ---
 
 # Obsidian 社区插件
@@ -80,6 +80,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[masking-type]]：简易好用的挖空工具，支持 粗体、斜体、高亮
 - [[inline-spoilers]]：也许是最方便的挖空编辑工具
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
+- [[data-files-editor]]：增加了在黑曜石中创建和编辑.txt, .json, .xml 类型文件的能力
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式；
@@ -533,8 +534,10 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
 - [[better-word-count]]：自定义统计全库字数，文件数等统计数据
+- [[vault-full-statistics]]：全面统计你的 Obsidian 知识库
 - [[file-explorer-note-count]]：增加文件数量统计功能
 - [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
+- [[goal-tracker]]：简单易用的任务跟踪器，支持日周月三种模式
 - [[obsidian-tracker]]：将笔记中的变化收集起来，并且提供不同预设的图形分析模板
 - [[size-history]]：用一个简单图表来展示查看仓库中笔记的增长曲线
 - [[typing-speed]]：在状态栏显示你的输入速度
