@@ -21,7 +21,7 @@ modified: 20241225102704
 > - 插件分类：[' 标题/大纲 ', ' 导航 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/talwrii/obsidian-header-navigation)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?header-navigation)
-> - 自述文件：[Readme](https://github.com/talwrii/obsidian-header-navigation/blob/master/README.md)
+> - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/talwrii/obsidian-header-navigation/master/README.md)
 
 ## 效果&特性
 

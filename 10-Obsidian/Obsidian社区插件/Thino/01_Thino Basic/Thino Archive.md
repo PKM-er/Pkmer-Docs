@@ -1,7 +1,11 @@
 ---
 uid: 20231109234601
 title: Thino 归档功能
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 归档功能
 author: Bon,PKMer
 type: other
