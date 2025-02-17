@@ -341,6 +341,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 这些插件使得图标和表情符号的使用变得更加便捷、灵活和个性化，使文本信息传递更加生动、有趣，同时也丰富了用户心情和情感表达。
 
 - [[obsidian-icons-plugin]]：提供插入图标符号的功能。
+- [[iconic]]：Iconic 轻松为文件夹、文件、标签选项卡修改图标
 - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
 - [[emoji-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入
 - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
