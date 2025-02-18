@@ -2,7 +2,7 @@
 uid: 20250218181232
 title: Obsidian Weekly 2025-02-16：Obsidian v1.8.6/7 前瞻；快捷键新选择，锁定插件版本及定制右键菜单
 tags: [Weekly, Obsidian]
-description: Obsidian Weekly 2025-02-09：开工大吉！1.8 版本仍在高速迭代中！
+description: Obsidian Weekly 2025-02-16：Obsidian v1.8.6/7 前瞻；快捷键新选择，锁定插件版本及定制右键菜单
 author: 淡水鱼,PKMer
 type: other
 draft: false
