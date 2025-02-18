@@ -20,7 +20,8 @@ modified: 20250211183400
 
 ## 2025
 
-- [[2025-02-09-Obsidian Weekly]] （New！试刊）
+- [[2025-02-16-Obsidian Weekly]] （New！试刊）
+- [[2025-02-09-Obsidian Weekly]] （试刊）
 - [[2025-01-19-Obsidian Weekly]]（试刊）
 - [[2025-01-12-Obsidian Weekly]]（试刊）
 
