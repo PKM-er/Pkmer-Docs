@@ -57,6 +57,8 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-多行标签页堆叠显示]]
 - [[Obsidian样式-全宽的图谱搜索框样式]]
 - [[Obsidian样式-界面透明图片背景]]
+- [[Obsidian样式-标签列表之仿Zotero标签管理的堆叠模式]]
+- [[Obsidian样式-右键菜单分栏，让你的菜单更美观、更高效]]
 
 ### 大纲 (Outline)
 
