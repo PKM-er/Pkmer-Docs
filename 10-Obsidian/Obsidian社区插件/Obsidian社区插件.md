@@ -81,6 +81,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[inline-spoilers]]：也许是最方便的挖空编辑工具
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
 - [[data-files-editor]]：增加了在黑曜石中创建和编辑.txt, .json, .xml 类型文件的能力
+- [[extended-file-support]]：增强 Obsidian 图像文件查看浏览能力
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式；
