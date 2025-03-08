@@ -1,17 +1,13 @@
 ---
 uid: 20231109234444
 title: Thino FAQ
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - memos
+tags: [Obsidian, Obsidian插件, Thino, memos]
 description: Thino FAQ 你想知道 Thino 的一切都在这里
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20250122195149
+modified: 20250308091202
 id: f94eee26b8f42cdf
 ---
 
@@ -69,6 +65,18 @@ Thino 本地版以及 Web 版本都是 PKMer 组织的产品，而 Thino 的发�
 ## Thino 与 Memos 开源项目的关系？
 
 Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，准确来说是基于 2021 年 12 月版本的 Memos 实现的。在 2.X 版本，Thino 界面以及底层代码都重构，逐渐脱离 Memos 的发展路径以及源码实现。
+
+## Thino 本地版如何取消激活
+
+- Thino 激活原计划并实施的是在线激活，这样激活是可以保证购买用户数量不受限制的
+- 但实施后，因为部分用户强烈认为自己设备不会联网，且使用部分同步插件的用户，发现同步过程同步插件会修改激活信息。
+- 故：社区面向用户反馈做出反馈，采用了离线激活，并限定激活数量为 6
+- 如果你确实使用超限
+	- 可以发送 services@pkmer.cn 阐述你的情况，最好带上你的 pkmer 用户 id 和 你 thino 激活的截图，并标记下要取消哪个设备
+	- 特别声明
+		- 已经发现过，有用户倒卖自己的激活码，并且高于社区售价
+		- 已经发现果，由用户尝试破解 Thino
+		- Thino 是社区类产品，控制激活或关注激活是为了保证更多关心 Thino 和 关心社区的人
 
 ## 为什么要构建 Thino Web 项目？
 

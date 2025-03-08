@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20250305005702
+modified: 20250305092533
 ---
 
 # Obsidian Weekly 2025-03-02：Obsidian v1.8.9 前瞻！多样化的笔记浏览视图与文本粘贴方式
