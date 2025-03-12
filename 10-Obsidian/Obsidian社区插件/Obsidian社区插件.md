@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20250206141353
+modified: 20250217105757
 ---
 
 # Obsidian 社区插件
@@ -80,6 +80,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[masking-type]]：简易好用的挖空工具，支持 粗体、斜体、高亮
 - [[inline-spoilers]]：也许是最方便的挖空编辑工具
 - [[easy-typing-obsidian]]：包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感，强优化用户的编辑体验
+- [[data-files-editor]]：增加了在黑曜石中创建和编辑.txt, .json, .xml 类型文件的能力
+- [[extended-file-support]]：增强 Obsidian 图像文件查看浏览能力
 - [[obsidian-global-search-and-replace]]：给 Obsidian 全库进行文本替换
 - [[obsidian-latex-suite]]：通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学与手写一样快
 - [[obsidian-dynamic-highlights]]：根据正则表达式，为笔记内容增加高亮和样式；
@@ -340,6 +342,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 这些插件使得图标和表情符号的使用变得更加便捷、灵活和个性化，使文本信息传递更加生动、有趣，同时也丰富了用户心情和情感表达。
 
 - [[obsidian-icons-plugin]]：提供插入图标符号的功能。
+- [[iconic]]：Iconic 轻松为文件夹、文件、标签选项卡修改图标
 - [[obsidian-icon-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入。并支持自定义图标集合
 - [[emoji-shortcodes]]：通过键入 emoji 对应的短代码方式，快速筛选和输入
 - [[obsidian-emoji-toolbar]]：快速搜索表情符号并将其插入到您的编辑器中
@@ -490,6 +493,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
  - [[auto-archive]]：自动按照时间跨度归档你的笔记
  - [[obsidian-collapse-all-plugin]]：单击对应图标或者使用命令，展开或关闭文件管理器中的文件夹
  - [[pane-relief]]：每个窗格的历史记录、用于窗格移动和导航的快捷键等
+ - [[recent-notes]]：按照时间分组排序的浏览历史插件
  - [[recent-files-obsidian]]：显示最近打开的文件列表
  - [[obsidian-tagfolder]]：通过笔记中的标签，重新组织所有的笔记
  - [[chronology]]：按照月历模式导航，轻松了解编辑修改锅的笔记内容。
@@ -532,8 +536,10 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 - [[novel-word-count]]：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息
 - [[better-word-count]]：自定义统计全库字数，文件数等统计数据
+- [[vault-full-statistics]]：全面统计你的 Obsidian 知识库
 - [[file-explorer-note-count]]：增加文件数量统计功能
 - [[obsidian-daily-stats]]：自动统计笔记更新修改的热力图
+- [[goal-tracker]]：简单易用的任务跟踪器，支持日周月三种模式
 - [[obsidian-tracker]]：将笔记中的变化收集起来，并且提供不同预设的图形分析模板
 - [[size-history]]：用一个简单图表来展示查看仓库中笔记的增长曲线
 - [[typing-speed]]：在状态栏显示你的输入速度
@@ -575,6 +581,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[10-Obsidian/Obsidian社区插件/zotlit]]：最完美的 Zotero 和 Obsidian 联动插件
 - [[obsidian-zotero-desktop-connector]]
 - [[obsidian-custom-frames]]：让你在 Obsidian 中以 iframe 方式将 web 应用程序变成标签页
+- [[Lyrics]]：收藏心爱的音乐
 - [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
 - [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据

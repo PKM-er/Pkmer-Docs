@@ -1,7 +1,11 @@
 ---
 uid: 20231109234443
 title: Thino 基础使用教程
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 基础使用教程
 author: Bon,PKMer,OS
 type: other

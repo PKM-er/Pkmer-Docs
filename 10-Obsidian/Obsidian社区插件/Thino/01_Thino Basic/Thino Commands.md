@@ -1,7 +1,11 @@
 ---
 uid: 20231109234543
 title: Thino 命令
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 命令
 author: Bon,PKMer
 type: other

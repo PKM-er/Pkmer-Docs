@@ -6,11 +6,11 @@ tags:
   - Obsidian插件
   - Thino
 description: Obsidian 插件：Thino 隐藏标志位
-author: OS
+author: Cuman,OS
 type: other
 draft: false
 editable: false
-modified: 20241019151139
+modified: 20250214194659
 id: 891a3f25cc0170c1
 ---
 
@@ -33,13 +33,26 @@ id: 891a3f25cc0170c1
 
 所以提供了一系列文本标识符或者叫标志位，来辅助插件定位。但一些用户可能不喜欢。
 
-下面的 CSS 可以帮助你在 源码模式和 live preivew 模式隐藏 Thino 的标志位，也简单兼容了关于 dataview 和 task 插件的索引内容。当然因为相关操作的插件较多，可能还没有适配完全。
+下面的 CSS 可以帮助你在
+
+- 源码模式和 live preivew 模式隐藏 Thino 的同步标志位
+- 可以支持隐藏 来自微信同步的 tag 标识
+- 也简单兼容了关于 dataview 和 task 插件的索引内容。当然因为相关操作的插件较多，可能还没有适配完全。
 
 ## 实战
 
 - 通过使用 自定义样式来完成，使用方法参考 [[Obsidian的CSS代码片段]]
 
 ```CSS
+/*hide wechat send tag in read mode*/
+.memo-wrapper [href="#收集/微信"] {
+    display: none;
+}
+
+.markdown-preview-view  [href="#收集/微信"] {
+    display: none;
+}
+
 /*thino id & webid*/
 .cm-comment.cm-link.cm-quote.cm-quote-1{
 	display:none;
@@ -70,6 +83,8 @@ span.dataview.inline-field-key{
 span.dataview.inline-field-value{
 	display:none;
 }
+
+
 ```
 
 ### 如何隐藏 kanban 插件中的同步标志位

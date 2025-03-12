@@ -1,7 +1,11 @@
 ---
 uid: 20240311151852
 title: Thino 日历布局
-tags: [Obsidian, Obsidian插件, Thino, memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - memos
 description: Thino 日历布局
 author: Bon,PKMer,OS
 type: other

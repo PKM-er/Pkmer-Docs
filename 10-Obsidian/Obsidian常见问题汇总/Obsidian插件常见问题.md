@@ -1,17 +1,13 @@
 ---
 uid: 20230521004800
 title: Obsidian 插件常见问题
-tags:
-  - Obsidian
-  - 插件
-  - 常见问题
-  - faq
+tags: [Obsidian, 插件, 常见问题, faq]
 description: Obsidian 插件常见问题
 author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20241124224700
+modified: 20250207114922
 ---
 
 # Obsidian 插件常见问题

@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20250116112735
+modified: 20250227092138
 ---
 
 # Obsidian 使用技巧
@@ -29,6 +29,7 @@ modified: 20250116112735
 
 ### 综合
 
+- [[用二分查找算法排查问题插件]]
 - [[Obsidian-2023-seyee| 用 Obsidian 两年多 现在我怎么同步和使用]] by Seyee
 - [[Obsidian那些实用的操作]]
 - [[如何获得Obsidian绿色版]]

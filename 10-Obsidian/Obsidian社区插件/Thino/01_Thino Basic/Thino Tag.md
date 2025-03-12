@@ -1,7 +1,11 @@
 ---
 uid: 20231109234456
 title: Thino 标签
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 标签
 author: Bon,PKMer
 type: other

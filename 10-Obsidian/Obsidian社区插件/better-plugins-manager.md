@@ -7,7 +7,7 @@ author: 曲淡歌
 type: other
 draft: false
 editable: false
-modified: 20250116111816
+modified: 20250207120842
 ---
 
 # Obsidian 插件：Better Plugin Manager 提升你的插件管理体验
@@ -16,7 +16,7 @@ modified: 20250116111816
 
 管理插件启动顺序和分组，管理插件启动顺序，可以让你更快的进入 Obsidian 的工作区，尤其是当你的插件数量增多后，启动过程会因为插件加载数量而变慢。
 
-> [!note] Text Generator
+> [!note] 插件名片
 > 插件 ID：better-plugins-manager
 > 插件作者：zero
 > 插件描述：打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。
@@ -30,6 +30,7 @@ modified: 20250116111816
 Better Plugin Manager 是一款 Obsidian 插件管理工具，功能包括：插件分组、标签管理、自由备注和延迟启动，提升了插件管理效率。
 
 ![Pasted image 20250110105338](https://cdn.pkmer.cn/images/202501222236662.png!pkmer)
+
 ## 使用示例
 
 ### 插件分组&延迟启动

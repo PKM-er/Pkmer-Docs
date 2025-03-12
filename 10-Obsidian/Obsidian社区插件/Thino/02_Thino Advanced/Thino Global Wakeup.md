@@ -1,7 +1,11 @@
 ---
 uid: 20231227185818
 title: Thino 全局唤醒
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 全局唤醒
 author: 余月鱼鸽,PKMer,OS
 type: other

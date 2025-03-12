@@ -1,7 +1,11 @@
 ---
 uid: 20231109234548
 title: Thino 搜索
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 搜索
 author: Bon,PKMer
 type: other

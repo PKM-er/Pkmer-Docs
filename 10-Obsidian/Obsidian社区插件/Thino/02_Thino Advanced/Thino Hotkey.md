@@ -1,7 +1,11 @@
 ---
 uid: 20231109234549
 title: Thino 快捷键
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 快捷键
 author: Bon,PKMer
 type: other
