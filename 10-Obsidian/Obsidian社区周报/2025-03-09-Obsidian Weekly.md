@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20250312230753
+modified: 20250313002200
 ---
 
 # Obsidian Weekly 2025-03-09：Obsidian v1.8.9 正式发布！手动拖放排序&任务自动整合
@@ -220,39 +220,53 @@ modified: 20250312230753
 > **PKMer**（[PKMer.cn](https://pkmer.cn/)、[PKMer.net](https://pkmer.net/)）旨在打造东半球强大的知识管理社区。Personal Knowledge Management (PKM) + "er"，其中 "er" 表示人，专注、喜爱个人知识管理工作、追求效率的人们，都可以划入这个行列，希望社区凝聚更多这样的人。
 
 #### Editing Toolbar 迎来大版本更新
+![image.png](https://cdn.pkmer.cn/images/202503130031442.png!pkmer)
+![image.png](https://cdn.pkmer.cn/images/202503130033157.png!pkmer)
+
 
 ##### ✨新功能
 
-- 增加一键添加自定义命令到工具栏
-- 增加自定义命令功能
-- 增加对 Callout 格式擦除的支持
-- 支持 Markdown 指令格式刷
-- 增加对 Canvas 视图的支持
-- 增加对 meld-encrypted-view 视图的支持
-- 固定模式下支持水平和垂直调节工具栏
+- 一键添加自定义命令到工具栏
+- 自定义命令功能
+- 支持 Callout 格式擦除
+- Markdown 指令格式刷
+- 支持 Canvas 视图
+- 支持 meld-encrypted-view 视图
+- 插入 Callout 弹窗
+- 对 Excalidraw 的支持
+- 图片解析预览
+- 智能解析外部链接（图片）
+- 剪贴板链接自动解析命令（Insert Link(Modal)）
+- 智能解析文本中的链接、标题及别名，并转换为 Markdown 格式
+- 修改字体颜色设置逻辑
+##### ⚡ 优化
 
-##### 优化
-
-- 优化 Pickr 引起的内存占用问题
+- 优化 Pickr 内存占用
 - 设置项改版
 - 移动端体验优化
+- 智能解析外链图片的宽高
+- 自定义命令光标定位逻辑（偏移量大于 0 时才生效）
+- 更新 manifest.json 和 styles.css
 
-##### 修复
+##### 🛠️ 修复
 
 - 修复编辑器光标失焦问题
-- 修改拼写问题
+- 修复部分命令报错
+- 修正拼写问题
 
-##### 清理
+##### 🗑️ 清理
 
 - 删除冗余文件
 
-##### 重构
+##### 🔨 重构
 
-- 代码重构
+- 代码结构优化与重构
 
-##### 注意事项
+##### ⚠️ 注意事项
 
-- **本次更新后，请在弹窗中点击“修复命令”按钮，以确保之前的旧命令不会失效。**
+**更新后需点击弹窗中的“修复命令”按钮，以确保旧命令兼容性。**
+
+
 
 ## 外观
 
