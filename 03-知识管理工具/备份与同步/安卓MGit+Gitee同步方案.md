@@ -1,13 +1,13 @@
 ---
 uid: 20250224192337
 title: 安卓 MGit+Gitee 同步方案
-tags: []
+tags: ["同步"]
 description: 安卓 MGit+Gitee 同步方案
 author: 星蓝
 type: basic
 draft: false
 editable: false
-modified: 20250224214011
+modified: 20250313001918
 ---
 
 # 安卓 MGit+Gitee 同步方案
@@ -36,11 +36,11 @@ MGit 是一款 Git 客户端安卓应用。拥有常用的拉取、推送、提�
 
 安装并打开 MGit，点击顶部导航栏右侧菜单中的设置，配置 Git 用户名和用户邮箱。若你的仓库是私有的，则需要配置 token 账户和 token 秘钥。Token 在 Gitee 中点击用户头像 - 设置 - 令牌，然后点击生成令牌。此令牌专用于访问你的私有库。设置好后，点击导航栏最右侧菜单、点击克隆、填入克隆地址，等待克隆完成。你也可以选择导入，在导入时勾选导入为外部仓库。
 
-![[231cb8aad9da334174cf4d73d2fbfcde.jpg|500]]
+![231cb8aad9da334174cf4d73d2fbfcde|500](https://cdn.pkmer.cn/images/202503130019234.jpg!pkmer)
 
 在仓库列表中，点击仓库可以进入仓库详情页，在详情页可以左右滑动，从左到右分别有三个页面依次为：文件、提交、状态。可以在“文件”查看仓库中的文件，在“提交”可以查看提交的历史，在“状态”可以查看你的修改。
 
-![[0897d8ada69b06708e91a605e58489a8.jpg|500]]
+![0897d8ada69b06708e91a605e58489a8|500](https://cdn.pkmer.cn/images/202503130019235.jpg!pkmer)
 
 一般点击仓库后进入仓库详情页，滑动到状态查看修改状态，点击 未暂存 DIFF 按钮 可以看到有没有修改的还没暂存的文件。
 
@@ -52,7 +52,7 @@ MGit 是一款 Git 客户端安卓应用。拥有常用的拉取、推送、提�
 
 登录你的 Gitee 账户，然后打开 [私人令牌 - Gitee.com](https://gitee.com/profile/personal_access_tokens) ，点击创建私人令牌。
 
-![[Pasted image 20250224195839.png]]
+![Pasted image 20250224195839](https://cdn.pkmer.cn/images/202503130019236.png!pkmer)
 
 私人令牌描述随便填，令牌过期时间可以选择一年，确认一下权限，权限需要包含对仓库的读写操作，点击提交即可。
 
@@ -60,7 +60,7 @@ MGit 是一款 Git 客户端安卓应用。拥有常用的拉取、推送、提�
 
 登录你的 github 账户，然后打开 [Fine-grained Personal Access Tokens](https://github.com/settings/personal-access-tokens)
 
-![[Pasted image 20250224193208.png]]
+![Pasted image 20250224193208](https://cdn.pkmer.cn/images/202503130019237.png!pkmer)
 
 点击创建，然后 Token name 随便写，Expiration 过期时间可以写一年，Repository access 可以选择全部或者特定的几个， Permissions 权限的 Repository permissions 需要勾选 Commit statuses、Contents、Custom properties、Environments、Metadata、Pull requests 等。最后生成 token 即可。
 
