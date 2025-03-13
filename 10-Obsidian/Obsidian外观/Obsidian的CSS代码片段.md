@@ -131,6 +131,10 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-使用 Callout 进行正文旁注]]
 - [[Obsidian样式-Minimal主题的Outline Callout]]
 
+### 脚注(Footnote)
+
+-  [[Obsidian样式-重新定义 Obsidian 脚注之侧边显示footnote的优雅体验]]
+
 ### Properties（老称呼 Front-matter，metadata）
 
 - [[Obsidian样式-如何在阅读模式下隐藏Properties]]
