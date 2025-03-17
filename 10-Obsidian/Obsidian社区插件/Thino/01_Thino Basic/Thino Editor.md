@@ -1,17 +1,13 @@
 ---
 uid: 20231109234546
 title: Thino 编辑器
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - Memos
+tags: [Obsidian, Obsidian插件, Thino, Memos]
 description: Thino 编辑器
 author: Bon,PKMer,OS
 type: other
 draft: false
 editable: false
-modified: 20250122192907
+modified: 20250316121145
 id: cb74b3ee347c1775
 ---
 
@@ -23,14 +19,15 @@ id: cb74b3ee347c1775
 
 ## 本地版
 
-![Thino 输入](https://cdn.pkmer.cn/images/Pasted%20image%2020231108232536.png!pkmer)
+![image.png](https://cdn.pkmer.cn/images/20250316121646.png!pkmer)
 
 - 1 为标签的快速输入按钮，当你点击后可以快速弹出标签选择弹窗；
-- 2 为图片的快速选择按钮，当你点击以后你可以从外部导入图片到 Thino 中；
+- 2 为图片的快速选择按钮，当你点击以后，可以呼出系统对话框，从外部导入图片到 Thino 中；
 - 3 为更改当前的 Thino 卡片的任务状态或者列表状态，当你保存到文本中时，其对应会变成任务或者列表；
 - 4 为选择保存的目标位置，现阶段你可以选择日记、CANVAS、多文件保存模式；
-- 5 为保存按钮，当你在编辑器中时，可以快速按 `CTRL` / `Meta ` + ` ENTER ` 来保存当前的 Thino；
-- 6 为文本输入区域，其中文本输入区域有以下的快捷输入功能：
+- 5 为 2.5.0 开始引入新功能，会保存你最近一次内容，方式意外丢失，或者你先快速基于最近的一次输入进行修改
+- 6 为保存按钮，当你在编辑器中时，可以快速按 `CTRL` / `Meta ` + ` ENTER ` 来保存当前的 Thino；
+- 7 为文本输入区域，其中文本输入区域有以下的快捷输入功能：
 
 ### 日期选择弹窗
 

@@ -4,7 +4,7 @@ title: Obsidian 插件：Vault Full Statistics
 tags: ['导航与状态栏', '数据分析', '界面优化', 'obsidian插件']
 description: 状态栏项目，包含库的完整统计信息，如笔记数量、文件、附件、链接、标签和库的质量。
 author: Kris20030907
-type: auto
+type: other
 draft: false
 editable: false
 modified: 20250217095231

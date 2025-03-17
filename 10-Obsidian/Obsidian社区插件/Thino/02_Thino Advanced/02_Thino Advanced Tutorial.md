@@ -40,6 +40,7 @@ id: 872b94ce8d5643c8
     - [[Thino Settings#分享设置|分享设置]]
 	- [[Thino Settings#进阶设置|进阶设置]]
 - [[Thino Global Wakeup|全局唤醒]]
+- [[Thino Stat|Thion 统计]]
 - [[03_Thino Web Services|03_Thino Web 服务]]
 	- [[Thino Sync|Thino 同步]]
     - [[Thino Send Content to Thino From Wechat|Thino 微信内容发送到Thino]]
