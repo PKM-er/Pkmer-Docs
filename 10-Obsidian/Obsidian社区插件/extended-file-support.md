@@ -1,13 +1,13 @@
 ---
 uid: 20250225194739
 title: Obsidian 插件：Etended File Support 增强 Obsidian 图像文件查看浏览能力
-tags: ['状态栏', '任务管理', '效率工具', 'obsidian插件']
+tags: ['文件管理', '第三方联动', '效率工具', 'obsidian插件']
 description: Obsidian 插件：Etended File Support 增强 Obsidian 图像文件查看浏览能力
 author: OS
-type: auto
+type: other
 draft: false
 editable: false
-modified: 20250225195907
+modified: 20250317223819
 ---
 
 # Obsidian 插件：Etended File Support 增强 Obsidian 图像文件查看浏览能力

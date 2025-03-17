@@ -4,7 +4,7 @@ title: Obsidian 插件：Goal Tracker 简单易用的任务跟踪器，支持日
 tags: ['状态栏', '任务管理', '效率工具', 'obsidian插件']
 description: Obsidian 插件：Goal Tracker 简单易用的任务跟踪器，支持日周月三种模式
 author: OS
-type: auto
+type: other
 draft: false
 editable: false
 modified: 20250217105745
