@@ -49,3 +49,5 @@ Dataview 实例包含了....个实例，又按照应用的查询类型，应用�
 - [[如何给 DataviewJS 中的 TaskList 的任务列表排序]]
 - [[通过Dataviewjs给Obsidian增加筛选框]]
 - [[通过Dataviewjs制作一个带数据面板的任务筛选框]]
+- [[【Dataview】如何创建动态的笔记目录]]
+- [[【实用技巧】如何在单篇笔记里实现轻量数据库]]
