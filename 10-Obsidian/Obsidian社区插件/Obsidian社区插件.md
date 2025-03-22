@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20250314114020
+modified: 20250322102113
 ---
 
 # Obsidian 社区插件
@@ -476,11 +476,12 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-markdown-formatting-assistant-plugin]]：提供笔记编辑器中 快速输入 Markdown 语法的方式，此外还提供了一个命令行界面。该命令行界面平铺展示 OB 常用和所有命令提高工作效率。
 - [[obsidian-text-expander]]：在编辑器中扩展文本快捷键，运行 shell 命令和 python 脚本
 
-### 恢复&备份
+### 同步&恢复&备份
 
 - [[show-diff]]：在 Obsidian 文件中呈现 Git 差异
 - [[obsidian-version-history-diff]]：比较同步和文件恢复插件以及当前文件的 Git 版本历史。添加一个命令来打开同步插件的版本历史。
 - [[通过又拍云与Remotely-Save插件实现Obsidian多端同步]]
+- [[obsidian-livesync]]：自托管同步服务插件
 
 ### 库管理/文件管理/文件夹管理
 
