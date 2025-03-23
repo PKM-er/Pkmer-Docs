@@ -1,13 +1,13 @@
 ---
 uid: 20241225102130
-title: Obsidian 插件：Self-hosted LiveSync
+title: Obsidian 插件：Self-hosted LiveSync 自托管同步服务插件
 tags: ['数据处理', '编辑工具', '备份与恢复', 'obsidian插件']
 description: 社区实施自托管的Livesync。立即将您的保险库更改反映到其他设备上。请确保禁用其他同步解决方案，以避免内容损坏或重复。
 author: 愿风
-type: auto
+type: other
 draft: false
 editable: false
-modified: 20250321193035
+modified: 20250322102706
 ---
 
 # Obsidian 插件：Self-hosted LiveSync 自托管同步服务插件
