@@ -1,5 +1,5 @@
 ---
-uid: 20241225102130
+uid: 20241225102133
 title: Obsidian 插件：Heading Shifter 简单易用的批量修改标题工具
 tags: ['编辑工具', '样式与美化', '快捷键', 'obsidian插件']
 description: Obsidian 插件：Heading Shifter 简单易用的批量修改标题工具

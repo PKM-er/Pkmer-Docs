@@ -1,5 +1,5 @@
 ---
-uid: 20241225102130
+uid: 20241225102136
 title: Obsidian 插件：Iconic 轻松为文件夹、文件、标签选项卡修改图标
 tags: ['图标', '美化', '编辑工具', 'obsidian插件']
 description: Obsidian 插件：Iconic 轻松为文件夹、文件、标签选项卡修改图标
