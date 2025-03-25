@@ -396,7 +396,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 ### 白板（canvas）和脑图
 
-- [[advanced-canvas]]：Obsidian 插件：Advanced Canvas 目前最好的 Obsidian 白板增强
+- [[advanced-canvas]]：Advanced Canvas 目前最好的 Obsidian 白板增强
+- [[canvas-format-brush]]：为 Obsidian Canvas 添加格式刷功能
 - [[canvas-presentation]]：帮助你根据顺序演示白板中的卡片
 - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
 - [[moredraw]]：强大的白板在线服务
