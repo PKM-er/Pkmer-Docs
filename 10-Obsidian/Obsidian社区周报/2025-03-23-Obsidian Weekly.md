@@ -2,7 +2,7 @@
 uid: 20250327002603
 title: Obsidian Weekly 2025-03-23：进化的“附件”与任务管理
 tags: [Weekly, Obsidian]
-description: Obsidian Weekly 2025-03-16：官方网页剪藏插件更新&多媒体浏览增强
+description: Obsidian Weekly 2025-03-23：进化的“附件”与任务管理
 author: 淡水鱼,PKMer
 type: other
 draft: false
