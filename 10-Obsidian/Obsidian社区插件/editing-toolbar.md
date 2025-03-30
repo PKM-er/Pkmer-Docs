@@ -21,6 +21,9 @@ Editing Toolbar 是 Cumany 二次开发的可视化编辑工具栏，旨在增�
 > - 插件项目地址：[点我跳转](https://github.com/cumany/obsidian-editing-toolbar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?editing-toolbar)
 
+> [!tip]
+> EditingToolbar 自从==3.x 版本==后，代码重构，功能全面升级。请参考[[Editing Toolbar插件进阶使用指南]]
+
 ## 效果&特性
 
 ![editing-toolbar-demo](https://cdn.pkmer.cn/images/8dcebbf3dbf5d43541cacc63301ae1a8_MD5.gif!pkmer)
