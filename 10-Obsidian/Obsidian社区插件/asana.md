@@ -1,5 +1,5 @@
 ---
-uid: 2025033122323206
+uid: 2025033122544487
 title: Obsidian 插件：Asana
 tags: ['任务管理', '自动化与AI', '效率工具', 'obsidian插件']
 description: 从高亮文本或当前行创建 Asana 任务。

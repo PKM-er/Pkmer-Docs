@@ -1,5 +1,5 @@
 ---
-uid: 2025033122345478
+uid: 2025033122572610
 title: Obsidian 插件：MCP Tools
 tags: ['文件管理', '数据处理', '搜索与排序', 'obsidian插件']
 description: 安全地将Claude Desktop连接到您的保险库，具备语义搜索、模板和文件管理功能。

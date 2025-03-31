@@ -1,5 +1,5 @@
 ---
-uid: 2025033122331154
+uid: 2025033122553259
 title: Obsidian 插件：Confluence Converter
 tags: ['编辑工具', '格式化', '文档管理', 'obsidian插件']
 description: 将markdown转换为Confluence wiki标记。
@@ -25,7 +25,7 @@ modified: 20240101000000
 
 ## 概述
 
-None
+Confluence Converter是一个Obsidian插件，旨在将Markdown内容转换为Confluence Wiki Markup格式。用户只需在Obsidian中打开笔记，使用插件命令，即可将Markdown内容快速转换并自动复制到剪贴板，方便粘贴到Confluence中。该插件适合需要在Obsidian和Confluence之间高效转换文档的用户，解决了手动格式转换的繁琐问题。安装简单，支持无缝集成，提升了工作效率。
 
 
 > [!help] 

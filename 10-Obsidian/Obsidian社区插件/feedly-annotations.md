@@ -1,5 +1,5 @@
 ---
-uid: 2025033122334808
+uid: 2025033122561281
 title: Obsidian 插件：Feedly Annotations Sync
 tags: ['文件管理', '自动化与AI', '插件管理', 'obsidian插件']
 description: 将 Feedly 的高亮和注释同步到您保险库中的一个文件夹。

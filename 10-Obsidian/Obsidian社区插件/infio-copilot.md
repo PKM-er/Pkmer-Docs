@@ -1,5 +1,5 @@
 ---
-uid: 2025033122342690
+uid: 2025033122565763
 title: Obsidian 插件：Infio Copilot
 tags: ['编辑工具', '笔记管理', '自动化与AI', 'obsidian插件']
 description: 一个灵感来自Cursor的AI助手，用于笔记，提供智能自动补全和与您选择的笔记进行互动聊天。

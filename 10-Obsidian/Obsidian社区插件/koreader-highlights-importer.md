@@ -1,5 +1,5 @@
 ---
-uid: 2025033122344068
+uid: 2025033122571156
 title: Obsidian 插件：KoReader Highlight Importer
 tags: ['数据处理', '文件管理', '文献管理', 'obsidian插件']
 description: 从KoReader导入高亮和元数据

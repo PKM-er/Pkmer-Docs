@@ -1,5 +1,5 @@
 ---
-uid: 2025033122343624
+uid: 2025033122570692
 title: Obsidian 插件：Jira Issue managing
 tags: ['任务管理', '工具集成', '自动化与AI', 'obsidian插件']
 description: 直接更新和创建Jira问题

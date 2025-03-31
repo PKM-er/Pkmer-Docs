@@ -1,5 +1,5 @@
 ---
-uid: 2025033122341762
+uid: 2025033122564808
 title: Obsidian 插件：Idealogs Annotator
 tags: ['工具集成', '笔记管理', '文献管理', 'obsidian插件']
 description: 用于查看和链接Idealogs文章。

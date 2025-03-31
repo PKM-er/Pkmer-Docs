@@ -1,5 +1,5 @@
 ---
-uid: 2025033122341298
+uid: 2025033122564291
 title: Obsidian 插件：Hotstrings
 tags: ['快捷键', '编辑工具', '效率工具', 'obsidian插件']
 description: 允许您设置自定义热字符串，一旦输入后将扩展为文本。

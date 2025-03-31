@@ -1,5 +1,5 @@
 ---
-uid: 2025033122335987
+uid: 2025033122562607
 title: Obsidian 插件：Git Changelog
 tags: ['obsidian插件']
 description: 使用 Git 在侧边栏显示动态的保险库和文件变更日志，有助于发现数据丢失。

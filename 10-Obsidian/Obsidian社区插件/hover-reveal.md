@@ -1,5 +1,5 @@
 ---
-uid: 2025033122341412
+uid: 2025033122564449
 title: Obsidian 插件：Hover Reveal
 tags: ['界面优化', '自动化与AI', '编辑工具', 'obsidian插件']
 description: 在悬停在标记元素上时，使用 [visibleText]{tooltipText} 语法显示工具提示中的隐藏文本。

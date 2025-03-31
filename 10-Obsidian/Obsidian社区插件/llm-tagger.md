@@ -1,5 +1,5 @@
 ---
-uid: 2025033122344640
+uid: 2025033122571745
 title: Obsidian 插件：LLM Tagger
 tags: ['数据处理', '自动化与AI', '文档管理', 'obsidian插件']
 description: 使用本地 LLM 自动标记您的文档

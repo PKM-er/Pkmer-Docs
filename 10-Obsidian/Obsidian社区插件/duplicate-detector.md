@@ -1,5 +1,5 @@
 ---
-uid: 2025033122332954
+uid: 2025033122555207
 title: Obsidian 插件：Duplicate Detector
 tags: ['编辑工具', '数据处理', '笔记管理', 'obsidian插件']
 description: 在打开的笔记中突出显示重复行。

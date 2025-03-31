@@ -1,5 +1,5 @@
 ---
-uid: 2025033122324418
+uid: 2025033122545716
 title: Obsidian 插件：BetaX NAS Sync
 tags: ['文件管理', '数据处理', '备份与恢复', 'obsidian插件']
 description: 保持Vault与您家庭内联网上的NAS同步。
@@ -25,7 +25,7 @@ modified: 20240101000000
 
 ## 概述
 
-None
+BetaX Obsidian NAS Sync 插件旨在帮助用户将 Obsidian Vault 与家庭内网的 NAS 进行同步，适合有 NAS 作为存储中心的用户。该插件支持多种使用场景，包括将本地 Vault 同步到 NAS，或从 NAS 更新本地 Vault。用户需注册 NAS 以获取 NAT.ID，设置连接密码，并根据具体情况选择相应的配置计划。此插件解决了数据在不同设备间的同步问题，确保用户能够方便地管理和访问其笔记资料。使用该插件，用户可享受更高效的知识管理体验。
 
 
 > [!help] 

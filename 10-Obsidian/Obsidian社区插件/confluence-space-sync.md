@@ -1,5 +1,5 @@
 ---
-uid: 2025033122331262
+uid: 2025033122553370
 title: Obsidian 插件：Confluence Space Sync
 tags: ['文件管理', '数据处理', '自动化与AI', 'obsidian插件']
 description: 在您的 Vault 中同步整个 Confluence 空间。

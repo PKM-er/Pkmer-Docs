@@ -1,5 +1,5 @@
 ---
-uid: 2025033122322539
+uid: 2025033122543820
 title: Obsidian 插件：AI Providers
 tags: ['第三方工具集成', '自动化与AI', '效率工具', 'obsidian插件']
 description: 一个将AI提供商（类似OpenAI、Ollama等）集中在一个地方的中心。

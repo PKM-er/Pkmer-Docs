@@ -1,5 +1,5 @@
 ---
-uid: 2025033122335137
+uid: 2025033122561636
 title: Obsidian 插件：File Title Updater
 tags: ['文件管理', '编辑工具', '自动化与AI', 'obsidian插件']
 description: 在文件名、前言和笔记中的第一个标题之间同步标题。

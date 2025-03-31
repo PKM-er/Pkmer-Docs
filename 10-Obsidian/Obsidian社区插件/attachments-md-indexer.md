@@ -1,5 +1,5 @@
 ---
-uid: 2025033122323653
+uid: 2025033122544918
 title: Obsidian 插件：Attachments MD Indexer
 tags: ['数据处理', '搜索与排序', '图表与可视化', 'obsidian插件']
 description: 为Canvas文件、PDF和图像创建可搜索的元数据注释，增强图形视图的可见性和插件兼容性。

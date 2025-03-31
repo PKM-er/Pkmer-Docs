@@ -1,5 +1,5 @@
 ---
-uid: 2025033122322868
+uid: 2025033122544152
 title: Obsidian 插件：AI-AnkiSync
 tags: ['学习与教育', 'ANKI', '自动化与AI', 'obsidian插件']
 description: 通过 AnkiConnect 将 AI 增强的闪卡与 Anki 同步

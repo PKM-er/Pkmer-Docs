@@ -1,5 +1,5 @@
 ---
-uid: 2025033122325248
+uid: 2025033122550824
 title: Obsidian 插件：BuJo Bullets
 tags: ['样式与美化', '编辑工具', '效率工具', 'obsidian插件']
 description: 备用复选框类型以支持子弹日记的项目符号。

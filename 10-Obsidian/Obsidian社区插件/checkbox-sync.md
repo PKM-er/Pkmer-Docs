@@ -1,5 +1,5 @@
 ---
-uid: 2025033122325797
+uid: 2025033122551539
 title: Obsidian 插件：Checkbox Sync
 tags: ['任务管理', '自动化与AI', '效率工具', 'obsidian插件']
 description: 如果所有子复选框都已完成，则自动选中父复选框，否则取消选中。

@@ -1,5 +1,5 @@
 ---
-uid: 2025033122333928
+uid: 2025033122560358
 title: Obsidian 插件：Explorer Colors
 tags: ['文件管理', '样式与美化', '用户界面优化', 'obsidian插件']
 description: 为文件和文件夹设置自定义颜色。

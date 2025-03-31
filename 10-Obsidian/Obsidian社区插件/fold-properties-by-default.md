@@ -1,5 +1,5 @@
 ---
-uid: 2025033122335344
+uid: 2025033122561904
 title: Obsidian 插件：Fold Properties By Default
 tags: ['编辑工具', '界面优化', '自动化与AI', 'obsidian插件']
 description: 始终默认折叠编辑器/元数据属性

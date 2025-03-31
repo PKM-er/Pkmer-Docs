@@ -1,5 +1,5 @@
 ---
-uid: 2025033122334032
+uid: 2025033122560469
 title: Obsidian 插件：Export Graph View
 tags: ['图表与可视化', '数据处理', '插件管理', 'obsidian插件']
 description: 将您的保险库图形视图导出为 mermaid 和 dot 格式。

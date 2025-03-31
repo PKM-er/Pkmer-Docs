@@ -1,5 +1,5 @@
 ---
-uid: 2025033122325138
+uid: 2025033122550674
 title: Obsidian 插件：Bookshelf
 tags: ['书籍管理', '数据处理', '学习与教育', 'obsidian插件']
 description: 管理您的书籍和阅读进度

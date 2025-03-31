@@ -1,5 +1,5 @@
 ---
-uid: 2025033122335459
+uid: 2025033122562044
 title: Obsidian 插件：Folder overview
 tags: ['数据分析', '界面优化', '工具集成', 'obsidian插件']
 description: 提供以代码块格式动态概述您的保险库或文件夹。

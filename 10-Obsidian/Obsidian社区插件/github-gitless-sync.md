@@ -1,5 +1,5 @@
 ---
-uid: 2025033122340091
+uid: 2025033122562719
 title: Obsidian 插件：GitHub Gitless Sync
 tags: ['文件管理', '工具集成', '自动化与AI', 'obsidian插件']
 description: 将 GitHub 仓库与不同平台上的保险库同步，无需安装 git。

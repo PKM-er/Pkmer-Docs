@@ -1,5 +1,5 @@
 ---
-uid: 2025033122345698
+uid: 2025033122572822
 title: Obsidian 插件：Media Link to HTML
 tags: ['文件管理', '多媒体', '自动化与AI', 'obsidian插件']
 description: 将媒体链接转换为HTML元素。

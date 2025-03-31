@@ -1,5 +1,5 @@
 ---
-uid: 2025033122335771
+uid: 2025033122562396
 title: Obsidian 插件：Friend Tracker
 tags: ['社交与社区', '日历与时间', '提醒通知', 'obsidian插件']
 description: 跟踪朋友、生日和互动情况

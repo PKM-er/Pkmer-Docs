@@ -1,5 +1,5 @@
 ---
-uid: 2025033122322080
+uid: 2025033122543364
 title: Obsidian 插件：Advanced Progress Bars
 tags: ['样式与美化', '数据处理', '图表与可视化', 'obsidian插件']
 description: 可以根据完成值改变颜色的进度条 - 完全可定制。

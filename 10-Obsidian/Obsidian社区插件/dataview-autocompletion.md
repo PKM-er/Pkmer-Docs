@@ -1,5 +1,5 @@
 ---
-uid: 2025033122332739
+uid: 2025033122555001
 title: Obsidian 插件：Dataview Autocompletion
 tags: ['数据处理', '自动化与AI', '编辑工具', 'obsidian插件']
 description: 为Dataview元数据字段添加自动补全功能

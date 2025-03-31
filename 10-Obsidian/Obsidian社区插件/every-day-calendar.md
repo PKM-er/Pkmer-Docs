@@ -1,5 +1,5 @@
 ---
-uid: 2025033122333815
+uid: 2025033122560222
 title: Obsidian 插件：Every Day Calendar
 tags: ['obsidian插件']
 description: 创建受西蒙·吉尔茨的《每日日历》启发的日历
@@ -25,7 +25,11 @@ modified: 20240101000000
 
 ## 概述
 
-None
+**Every Day Calendar 插件简介**
+
+Every Day Calendar 插件灵感来源于 Simone Giertz 的日历，旨在帮助用户创建习惯追踪器。通过使用 dataviewjs，用户可以轻松生成自定义的日历，记录每日任务完成情况。插件允许用户定义不同的颜色和样式，以便根据任务完成度直观展示进展，适合用于个人目标管理和习惯养成。
+
+用户只需提供年份和一个返回数字的函数，插件会根据设定的规则展示任务状态。此插件需要配合 Dataview 插件使用，适合希望提升自我管理和可视化追踪的用户。
 
 
 > [!help] 

@@ -1,5 +1,5 @@
 ---
-uid: 2025033122340745
+uid: 2025033122563629
 title: Obsidian 插件：Heading Decorator
 tags: ['样式与美化', '界面优化', '编辑工具', 'obsidian插件']
 description: 实现根据标题级别显示特定内容。

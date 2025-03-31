@@ -1,5 +1,5 @@
 ---
-uid: 2025033122323087
+uid: 2025033122544370
 title: Obsidian 插件：Annotate Audio
 tags: ['多媒体', '评论管理', '数据处理', 'obsidian插件']
 description: 听一个音频并对此添加评论。

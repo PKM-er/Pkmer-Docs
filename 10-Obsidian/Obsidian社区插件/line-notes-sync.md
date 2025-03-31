@@ -1,5 +1,5 @@
 ---
-uid: 2025033122344396
+uid: 2025033122571502
 title: Obsidian 插件：LINE Notes Sync
 tags: ['文件管理', '笔记管理', '自动化与AI', 'obsidian插件']
 description: 将LINE中的消息同步到您的笔记。

@@ -1,5 +1,5 @@
 ---
-uid: 2025033122322188
+uid: 2025033122543475
 title: Obsidian 插件：Age Encrypt
 tags: ['安全与隐私', '数据处理', '自动化与AI', 'obsidian插件']
 description: 使用年龄加密库进行安全内容加密

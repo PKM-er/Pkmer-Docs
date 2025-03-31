@@ -1,7 +1,11 @@
 ---
 uid: 20240130143953
 title: Thino 瀑布流布局
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 瀑布流布局
 author: Bon,OS,PKMer
 type: other

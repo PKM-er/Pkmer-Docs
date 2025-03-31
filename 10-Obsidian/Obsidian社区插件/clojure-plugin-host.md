@@ -1,5 +1,5 @@
 ---
-uid: 2025033122330480
+uid: 2025033122552564
 title: Obsidian 插件：Clojure Plugin Host
 tags: ['obsidian插件']
 description: 一个 Clojure 插件主机，允许在编辑器内部创建简单的基于 Clojure 的插件。

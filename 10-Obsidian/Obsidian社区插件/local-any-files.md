@@ -1,5 +1,5 @@
 ---
-uid: 2025033122344850
+uid: 2025033122571982
 title: Obsidian 插件：Local Any Files
 tags: ['文件管理', '数据处理', '自动化与AI', 'obsidian插件']
 description: 提取并下载任何外部文件从链接到本地文件

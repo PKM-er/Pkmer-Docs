@@ -1,5 +1,5 @@
 ---
-uid: 2025033122335879
+uid: 2025033122562503
 title: Obsidian 插件：Frontmatter Markdown Links
 tags: ['obsidian插件']
 description: 在前置数据中添加对 markdown 链接的支持。
@@ -25,7 +25,7 @@ modified: 20240101000000
 
 ## 概述
 
-None
+Obsidian的“Frontmatter Markdown Links”插件为前置信息（frontmatter）添加了对Markdown链接的支持，解决了用户在使用前置信息时无法直接链接的问题。该插件允许在YAML格式的前置信息中使用Markdown链接，包括内部链接、外部链接及其别名，且这些链接在所有模式下均可点击。用户可以轻松地在文档中嵌入其他文档或外部资源，提高了文档的互联性和可读性。此插件非常适合需要管理大量文档和链接的用户，尤其是在知识管理和个人笔记方面。
 
 
 > [!help] 

@@ -1,5 +1,5 @@
 ---
-uid: 2025033122333167
+uid: 2025033122555420
 title: Obsidian 插件：Easy Fonts
 tags: ['样式与美化', '移动端优化', '字体管理', 'obsidian插件']
 description: 轻松加载自定义字体，即使在移动设备上。

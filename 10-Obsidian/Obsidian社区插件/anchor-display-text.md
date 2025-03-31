@@ -1,5 +1,5 @@
 ---
-uid: 2025033122322971
+uid: 2025033122544255
 title: Obsidian 插件：Anchor Link Display Text
 tags: ['界面优化', '编辑工具', '自动化与AI', 'obsidian插件']
 description: 自动使用链接的标题作为锚链接的显示文本。

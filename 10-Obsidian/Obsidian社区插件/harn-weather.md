@@ -1,5 +1,5 @@
 ---
-uid: 2025033122341656
+uid: 2025033122564692
 title: Obsidian 插件：Hârn Weather Generator
 tags: ['角色扮演', '多媒体', '游戏工具', 'obsidian插件']
 description: HârnMaster天气生成器：在Kèthîra世界中的角色扮演规则系统。
@@ -25,7 +25,7 @@ modified: 20240101000000
 
 ## 概述
 
-None
+harn-weather是一个针对HârnMaster角色扮演系统的天气生成插件，适用于Obsidian笔记软件。用户可以根据HârnMaster Keléstia规则书中的气候区域和纬度选择，并设定生成天气的日期。插件支持生成单日、一周、一月或一年的天气信息，生成后可直接将数据粘贴到剪贴板或当前笔记中，方便后续使用。该插件旨在为角色扮演游戏提供真实的天气场景，增强游戏体验，适合游戏主持人和玩家使用。
 
 
 > [!help] 

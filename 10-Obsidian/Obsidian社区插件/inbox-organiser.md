@@ -1,5 +1,5 @@
 ---
-uid: 2025033122342577
+uid: 2025033122565647
 title: Obsidian 插件：Inbox Organiser
 tags: ['笔记管理', '自动化与AI', '效率工具', 'obsidian插件']
 description: 将任何新笔记捕捉到一个收件箱中，并定期提示将这些笔记整理到保险库中的其他文件夹。

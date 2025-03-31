@@ -1,5 +1,5 @@
 ---
-uid: 2025033122323758
+uid: 2025033122545039
 title: Obsidian 插件：Auto Folder Note Paste
 tags: ['文件管理', '自动化与AI', '效率工具', 'obsidian插件']
 description: 自动将笔记转换为文件夹笔记，当粘贴或拖放附件时。

@@ -1,5 +1,5 @@
 ---
-uid: 2025033122330939
+uid: 2025033122553047
 title: Obsidian 插件：Combo Colors
 tags: ['样式与美化', '数据处理', '编辑工具', 'obsidian插件']
 description: 自动为格斗游戏连招符号应用颜色。

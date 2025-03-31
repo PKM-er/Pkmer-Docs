@@ -1,5 +1,5 @@
 ---
-uid: 2025033122345582
+uid: 2025033122572710
 title: Obsidian 插件：Media Companion
 tags: ['搜索与排序', '数据处理', '图片与PDF', 'obsidian插件']
 description: 创建一个可搜索的画廊和附件的边车文件，例如图像和视频。边车文件允许您为媒体文件添加注释和标签。

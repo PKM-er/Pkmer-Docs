@@ -1,5 +1,5 @@
 ---
-uid: 2025033122334564
+uid: 2025033122561054
 title: Obsidian 插件：External File Linker
 tags: ['obsidian插件']
 description: 将外部文件嵌入到您的笔记中。

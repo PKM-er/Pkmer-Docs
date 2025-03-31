@@ -1,5 +1,5 @@
 ---
-uid: 2025033122342356
+uid: 2025033122565427
 title: Obsidian 插件：Image to HTML
 tags: ['图片与PDF', '编辑工具', '自动化与AI', 'obsidian插件']
 description: 以HTML格式粘贴图像，而不是wikilink或markdown格式。

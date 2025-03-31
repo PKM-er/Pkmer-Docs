@@ -1,5 +1,5 @@
 ---
-uid: 2025033122323410
+uid: 2025033122544694
 title: Obsidian 插件：Atomizer
 tags: ['文字处理', '数据处理', '自动化与AI', 'obsidian插件']
 description: 将任何文本转化为深刻的原子笔记。

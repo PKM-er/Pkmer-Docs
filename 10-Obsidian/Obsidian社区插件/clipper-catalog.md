@@ -1,5 +1,5 @@
 ---
-uid: 2025033122330328
+uid: 2025033122552434
 title: Obsidian 插件：Clipper Catalog
 tags: ['数据处理', '笔记管理', '文件管理', 'obsidian插件']
 description: 一个包含所有具有共同源属性的剪辑的目录视图。

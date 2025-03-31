@@ -1,5 +1,5 @@
 ---
-uid: 2025033122324819
+uid: 2025033122550177
 title: Obsidian 插件：Bible sidecar
 tags: ['学习与教育', '界面优化', '多媒体', 'obsidian插件']
 description: 在您的工作区中以分屏视图打开您喜欢的翻译版本的圣经。

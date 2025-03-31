@@ -1,5 +1,5 @@
 ---
-uid: 2025033122323308
+uid: 2025033122544586
 title: Obsidian 插件：ASCII Tree Generator
 tags: ['格式化', '数据处理', '图表与可视化', 'obsidian插件']
 description: 将带有层次标记的缩进代码块转换为格式化的 ASCII 树图。

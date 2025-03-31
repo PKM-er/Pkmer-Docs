@@ -1,5 +1,5 @@
 ---
-uid: 2025033122340411
+uid: 2025033122563058
 title: Obsidian 插件：GridExplorer
 tags: ['表格', '笔记管理', '用户界面优化', 'obsidian插件']
 description: 以网格视图浏览笔记文件。

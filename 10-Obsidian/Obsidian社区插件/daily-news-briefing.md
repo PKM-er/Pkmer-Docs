@@ -1,5 +1,5 @@
 ---
-uid: 2025033122332300
+uid: 2025033122554523
 title: Obsidian 插件：Daily News Briefing
 tags: ['obsidian插件']
 description: 获取您保管库中的AI驱动的每日新闻摘要。具有可定制主题、智能过滤和自动调度功能。

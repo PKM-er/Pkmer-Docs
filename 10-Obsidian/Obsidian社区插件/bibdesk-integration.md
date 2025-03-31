@@ -1,5 +1,5 @@
 ---
-uid: 2025033122324701
+uid: 2025033122545978
 title: Obsidian 插件：BibDesk Integration
 tags: ['文献管理', 'PDF管理', '数据处理', 'obsidian插件']
 description: 将BibTex引用导入到您的笔记中，并打开在BibDesk库中链接的PDF文档

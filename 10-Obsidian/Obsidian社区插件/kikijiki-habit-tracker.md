@@ -1,5 +1,5 @@
 ---
-uid: 2025033122343840
+uid: 2025033122570917
 title: Obsidian 插件：Kikijiki Habit Tracker
 tags: ['任务管理', '效率工具', '提醒通知', 'obsidian插件']
 description: 一个简单的习惯追踪器

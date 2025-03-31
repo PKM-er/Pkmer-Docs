@@ -1,5 +1,5 @@
 ---
-uid: 2025033122330123
+uid: 2025033122552165
 title: Obsidian 插件：Circuit Sketcher
 tags: ['图表与可视化', '编辑工具', '自动化与AI', 'obsidian插件']
 description: 在画布上使用 circuit-sketcher-core 绘制电路。

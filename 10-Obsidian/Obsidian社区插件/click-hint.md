@@ -1,5 +1,5 @@
 ---
-uid: 2025033122330220
+uid: 2025033122552294
 title: Obsidian 插件：Click Hint
 tags: ['界面优化', '快捷键', '用户界面优化', 'obsidian插件']
 description: 提供键盘驱动的可点击元素提示。

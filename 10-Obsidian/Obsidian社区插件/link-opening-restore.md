@@ -1,5 +1,5 @@
 ---
-uid: 2025033122344504
+uid: 2025033122571616
 title: Obsidian 插件：Link Opening Restore
 tags: ['界面优化', '快捷键', '插件管理', 'obsidian插件']
 description: 将链接打开方式恢复为 Ctrl + 左键点击。

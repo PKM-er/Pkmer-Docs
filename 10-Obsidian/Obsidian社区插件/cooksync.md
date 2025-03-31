@@ -1,5 +1,5 @@
 ---
-uid: 2025033122331711
+uid: 2025033122553891
 title: Obsidian 插件：Cooksync
 tags: ['数据处理', '文件管理', '自动化与AI', 'obsidian插件']
 description: 自动导入使用 Cooksync 收集的食谱。

@@ -1,5 +1,5 @@
 ---
-uid: 2025033122342805
+uid: 2025033122565888
 title: Obsidian 插件：InfoFlow
 tags: ['文件管理', '数据处理', '笔记管理', 'obsidian插件']
 description: 同步您保存的 InfoFlow.app 文章和高亮，类似于 ReadWise 和 Omnivore
@@ -25,7 +25,7 @@ modified: 20240101000000
 
 ## 概述
 
-None
+InfoFlow插件为Obsidian用户提供了便捷的知识管理功能，允许用户将保存的文章、网页、笔记及高亮内容直接同步到Obsidian库中，类似于ReadWise和Omnivore。该插件支持自动将HTML内容转换为Markdown格式，用户可以自定义文件命名和笔记模板，并设置同步的频率和过滤条件（如日期、标签和文件夹）。无论是手动同步还是自动同步，用户都能轻松管理和整理信息，提升个人知识管理效率。使用此插件，用户可以更好地整合和利用他们的学习资源。
 
 
 > [!help] 

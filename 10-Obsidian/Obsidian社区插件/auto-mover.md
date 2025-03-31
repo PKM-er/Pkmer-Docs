@@ -1,5 +1,5 @@
 ---
-uid: 2025033122324078
+uid: 2025033122545376
 title: Obsidian 插件：AutoMover
 tags: ['文件管理', '自动化与AI', '效率工具', 'obsidian插件']
 description: 将指定名称的文件移动到同一文件夹中。

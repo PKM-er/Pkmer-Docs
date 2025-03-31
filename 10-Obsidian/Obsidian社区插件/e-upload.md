@@ -1,5 +1,5 @@
 ---
-uid: 2025033122333710
+uid: 2025033122560099
 title: Obsidian 插件：EUpload
 tags: ['文件管理', '第三方工具集成', '自动化与AI', 'obsidian插件']
 description: 支持将文件上传到不同的平台。

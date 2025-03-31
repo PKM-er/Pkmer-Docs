@@ -1,5 +1,5 @@
 ---
-uid: 2025033122345360
+uid: 2025033122572485
 title: Obsidian 插件：MathType
 tags: ['编辑工具', '数据处理', '自动化与AI', 'obsidian插件']
 description: 从自然语言获取 MathJax 语法建议。

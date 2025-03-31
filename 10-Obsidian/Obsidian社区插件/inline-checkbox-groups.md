@@ -1,5 +1,5 @@
 ---
-uid: 2025033122343185
+uid: 2025033122570248
 title: Obsidian 插件：Inline Checkbox Groups
 tags: ['编辑工具', '自动化与AI', '效率工具', 'obsidian插件']
 description: 在单行上创建多个复选框，使用可自定义的分隔符字符（默认是'|'）分隔，并提供选项在该行的所有复选框被选中时自动划掉文本。

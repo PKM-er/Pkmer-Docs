@@ -1,7 +1,11 @@
 ---
 uid: 20250316121846
 title: Thino 统计
-tags: [Obsidian, Obsidian插件, Thino, Memos]
+tags:
+  - Obsidian
+  - Obsidian插件
+  - Thino
+  - Memos
 description: Thino 统计
 author: Bon,OS,PKMer
 type: other

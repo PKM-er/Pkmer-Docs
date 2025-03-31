@@ -1,5 +1,5 @@
 ---
-uid: 2025033122335562
+uid: 2025033122562147
 title: Obsidian 插件：FolderFile Splitter
 tags: ['obsidian插件']
 description: 将文件夹和文件列表分成单独的视图，简化导航，提高清晰度，使组织笔记变得更加直观。

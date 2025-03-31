@@ -1,5 +1,5 @@
 ---
-uid: 2025033122333596
+uid: 2025033122555974
 title: Obsidian 插件：Enhanced Canvas
 tags: ['数据处理', '编辑工具', '自动化与AI', 'obsidian插件']
 description: 同步画布节点连接与笔记中的属性，自动化文档关系管理。

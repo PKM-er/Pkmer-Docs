@@ -1,5 +1,5 @@
 ---
-uid: 2025033122341092
+uid: 2025033122564079
 title: Obsidian 插件：Hide Commands in Menu
 tags: ['界面优化', '自定义命令', '插件管理', 'obsidian插件']
 description: 允许您将任何命令隐藏到不同的菜单中。

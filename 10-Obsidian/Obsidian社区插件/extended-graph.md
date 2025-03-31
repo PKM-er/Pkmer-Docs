@@ -1,5 +1,5 @@
 ---
-uid: 2025033122334247
+uid: 2025033122560713
 title: Obsidian 插件：Extended Graph
 tags: ['图表与可视化', '界面优化', '数据处理', 'obsidian插件']
 description: 扩展核心图形视图的功能，显示图像，管理状态，移除链接，改变节点形状等。

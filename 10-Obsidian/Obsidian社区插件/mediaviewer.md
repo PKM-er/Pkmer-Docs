@@ -1,5 +1,5 @@
 ---
-uid: 2025033122345919
+uid: 2025033122573035
 title: Obsidian 插件：Media Viewer
 tags: ['文件管理', '多媒体', '笔记管理', 'obsidian插件']
 description: 在您的笔记中查看和管理媒体文件。

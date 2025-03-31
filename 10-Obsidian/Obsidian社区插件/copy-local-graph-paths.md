@@ -1,5 +1,5 @@
 ---
-uid: 2025033122331815
+uid: 2025033122554013
 title: Obsidian 插件：Copy Local Graph Paths
 tags: ['文件管理', '复制粘贴', '编辑工具', 'obsidian插件']
 description: 将本地图形链接的文件路径复制到剪贴板。

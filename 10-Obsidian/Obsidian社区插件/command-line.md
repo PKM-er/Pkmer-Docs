@@ -1,5 +1,5 @@
 ---
-uid: 2025033122331043
+uid: 2025033122553152
 title: Obsidian 插件：Command Line
 tags: ['复制粘贴', '编辑工具', '效率工具', 'obsidian插件']
 description: 将命令行从您的笔记复制到剪贴板。

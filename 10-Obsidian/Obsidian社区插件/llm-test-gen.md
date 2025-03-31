@@ -1,5 +1,5 @@
 ---
-uid: 2025033122344743
+uid: 2025033122571868
 title: Obsidian 插件：LLM Test Generator
 tags: ['学习与教育', '自动化与AI', '数据处理', 'obsidian插件']
 description: 从您的笔记中生成由AI驱动的测试问题，使用多个大型语言模型提供者（OpenAI、Claude、Mistral、Gemini、DeepSeek）来增强您的学习和记忆。

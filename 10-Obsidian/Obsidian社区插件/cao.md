@@ -1,5 +1,5 @@
 ---
-uid: 2025033122325565
+uid: 2025033122551269
 title: Obsidian 插件：CAO
 tags: ['obsidian插件']
 description: 在笔记中集成Claude AI进行聊天。

@@ -1,5 +1,5 @@
 ---
-uid: 2025033122325913
+uid: 2025033122551690
 title: Obsidian 插件：Christmas
 tags: ['日历与时间', '提醒通知', '自动化与AI', 'obsidian插件']
 description: 跟踪距离圣诞节的剩余时间。

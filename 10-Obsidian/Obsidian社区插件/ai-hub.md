@@ -1,5 +1,5 @@
 ---
-uid: 2025033122322427
+uid: 2025033122543708
 title: Obsidian 插件：AI integration Hub
 tags: ['自动化与AI', '编辑工具', '效率工具', 'obsidian插件']
 description: 与AI模型（目前仅限于谷歌的Gemini）集成，以快速生成和完善笔记。

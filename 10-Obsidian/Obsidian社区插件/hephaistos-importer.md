@@ -1,5 +1,5 @@
 ---
-uid: 2025033122340980
+uid: 2025033122563970
 title: Obsidian 插件：Hephaistos Importer
 tags: ['数据处理', '第三方工具集成', '游戏相关', 'obsidian插件']
 description: 从Starfinder RPG角色网站Hephaistos导入主要统计数据。

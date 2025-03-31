@@ -1,5 +1,5 @@
 ---
-uid: 2025033122324198
+uid: 2025033122545498
 title: Obsidian 插件：Backgroundset
 tags: ['样式与美化', '界面优化', '图片与PDF', 'obsidian插件']
 description: 允许您设置背景图片集（文件夹）

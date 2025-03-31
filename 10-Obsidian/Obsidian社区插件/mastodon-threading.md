@@ -1,5 +1,5 @@
 ---
-uid: 2025033122345244
+uid: 2025033122572360
 title: Obsidian 插件：Mastodon Threading
 tags: ['社交与社区', '自动化与AI', '工具集成', 'obsidian插件']
 description: 撰写并发布主题到Mastodon。

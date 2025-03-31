@@ -1,5 +1,5 @@
 ---
-uid: 2025033122325025
+uid: 2025033122550529
 title: Obsidian 插件：Boardgame Search
 tags: ['任务管理', '数据处理', '效率工具', 'obsidian插件']
 description: 帮助桌游爱好者在笔记中无缝跟踪他们的游戏收藏。

@@ -1,5 +1,5 @@
 ---
-uid: 2025033122332406
+uid: 2025033122554640
 title: Obsidian 插件：Daily Note Metrics
 tags: ['数据分析', '图表与可视化', '仪表板', 'obsidian插件']
 description: 解析您每日笔记中的标签，并在仪表板视图中创建交互式图表。

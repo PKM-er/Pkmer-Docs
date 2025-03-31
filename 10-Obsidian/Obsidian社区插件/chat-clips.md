@@ -1,5 +1,5 @@
 ---
-uid: 2025033122325680
+uid: 2025033122551392
 title: Obsidian 插件：Chat clips
 tags: ['obsidian插件']
 description: 以普通的Markdown列表记录聊天。

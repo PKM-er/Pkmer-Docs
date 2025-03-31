@@ -1,5 +1,5 @@
 ---
-uid: 2025033122342234
+uid: 2025033122565315
 title: Obsidian 插件：Image Size
 tags: ['图片与PDF', '编辑工具', '界面优化', 'obsidian插件']
 description: 设置粘贴图像的默认大小。

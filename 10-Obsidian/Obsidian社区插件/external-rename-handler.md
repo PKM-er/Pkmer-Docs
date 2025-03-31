@@ -1,5 +1,5 @@
 ---
-uid: 2025033122334694
+uid: 2025033122561171
 title: Obsidian 插件：External Rename Handler
 tags: ['文件管理', '编辑工具', '自动化与AI', 'obsidian插件']
 description: 处理应用外部进行的重命名。

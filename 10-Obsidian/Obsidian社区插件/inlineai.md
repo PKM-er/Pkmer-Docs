@@ -1,5 +1,5 @@
 ---
-uid: 2025033122343407
+uid: 2025033122570479
 title: Obsidian 插件：InlineAI
 tags: ['编辑工具', '自动化与AI', '文字处理', 'obsidian插件']
 description: AI驱动的建议、上下文编辑和高级文本转换直接集成到您的编辑器中。

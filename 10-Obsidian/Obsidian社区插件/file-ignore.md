@@ -1,5 +1,5 @@
 ---
-uid: 2025033122335033
+uid: 2025033122561532
 title: Obsidian 插件：File Ignore
 tags: ['文件管理', '数据处理', '自动化与AI', 'obsidian插件']
 description: 通过添加或删除文件的点前缀来控制文件索引，提供类似 .gitignore 的体验

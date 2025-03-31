@@ -1,5 +1,5 @@
 ---
-uid: 2025033122331962
+uid: 2025033122554168
 title: Obsidian 插件：CSV All-in-One
 tags: ['数据处理', '文件管理', '自动化与AI', 'obsidian插件']
 description: 关于CSV的一切。

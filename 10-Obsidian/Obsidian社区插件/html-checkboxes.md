@@ -1,5 +1,5 @@
 ---
-uid: 2025033122341529
+uid: 2025033122564571
 title: Obsidian 插件：HTML checkboxes
 tags: ['编辑工具', '笔记管理', '自动化与AI', 'obsidian插件']
 description: 允许快速将HTML复选框添加到您的笔记中，并使其可点击。

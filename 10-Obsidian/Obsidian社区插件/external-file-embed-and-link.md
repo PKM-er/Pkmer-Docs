@@ -1,5 +1,5 @@
 ---
-uid: 2025033122334456
+uid: 2025033122560937
 title: Obsidian 插件：External File Embed and Link
 tags: ['文件管理', '自定义命令', '插件管理', 'obsidian插件']
 description: 使用相对路径嵌入和链接保管库外的本地文件，以实现跨设备和多平台兼容性。

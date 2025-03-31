@@ -1,5 +1,5 @@
 ---
-uid: 2025033122325358
+uid: 2025033122550988
 title: Obsidian 插件：Callout Copy Buttons
 tags: ['编辑工具', '界面优化', '效率工具', 'obsidian插件']
 description: 在您的笔记中的提示块添加复制按钮。

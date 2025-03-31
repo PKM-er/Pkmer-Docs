@@ -1,5 +1,5 @@
 ---
-uid: 2025033122322754
+uid: 2025033122544049
 title: Obsidian 插件：AI Tagger Universe
 tags: ['数据处理', '自动化与AI', '标签管理', 'obsidian插件']
 description: 自动分析笔记内容并使用人工智能添加相关标签

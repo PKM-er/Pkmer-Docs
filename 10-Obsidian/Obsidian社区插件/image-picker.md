@@ -1,5 +1,5 @@
 ---
-uid: 2025033122342016
+uid: 2025033122565048
 title: Obsidian 插件：Image Picker
 tags: ['图片与PDF', '搜索与排序', '数据处理', 'obsidian插件']
 description: 一种极快的方式来浏览、搜索和嵌入您保管库中的图片

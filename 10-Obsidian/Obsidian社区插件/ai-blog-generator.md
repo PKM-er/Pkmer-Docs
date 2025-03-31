@@ -1,5 +1,5 @@
 ---
-uid: 2025033122324922
+uid: 2025033122550397
 title: Obsidian 插件：Blog AI Generator
 tags: ['编辑工具', '文字处理', '自动化与AI', 'obsidian插件']
 description: 使用OpenAI从您的笔记生成博客文章

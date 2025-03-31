@@ -1,5 +1,5 @@
 ---
-uid: 2025033122335666
+uid: 2025033122562279
 title: Obsidian 插件：Forms
 tags: ['表单管理', '数据处理', '自动化与AI', 'obsidian插件']
 description: 发布美观的表单，直接将回复发送到您的保险库。

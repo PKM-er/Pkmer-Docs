@@ -1,5 +1,5 @@
 ---
-uid: 2025033122343291
+uid: 2025033122570361
 title: Obsidian 插件：Inline Code Copy
 tags: ['obsidian插件']
 description: 在阅读视图中点击复制行内代码。

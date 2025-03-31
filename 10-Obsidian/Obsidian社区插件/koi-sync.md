@@ -1,5 +1,5 @@
 ---
-uid: 2025033122343943
+uid: 2025033122571021
 title: Obsidian 插件：KOI Sync
 tags: ['第三方工具集成', '数据处理', '自动化与AI', 'obsidian插件']
 description: 使用KOI-net协议从Slack Telescope实例同步数据。
