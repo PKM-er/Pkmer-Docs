@@ -1,21 +1,16 @@
 ---
 uid: 20250401185434
-title: Obsidian样式-列表属性色块美化
-tags:
-  - 美化
-  - 美化样式
-  - 属性面板
-  - 笔记属性
-  - metadata
+title: Obsidian 样式：列表属性色块美化
+tags: [美化, 美化样式, 属性面板, 笔记属性, metadata]
 description: 美化列表属性
 author: ProudBenzene
 type: awesome
 draft: false
 editable: false
-modified: 20250401190904
+modified: 20250403094207
 ---
 
-# Obsidian 样式 - 列表属性色块美化
+# Obsidian 样式：列表属性色块美化
 
 ## 来源
 
