@@ -7,7 +7,7 @@ author: 星蓝,PKMer,林一二
 type: other
 draft: false
 editable: false
-modified: 20240806214903
+modified: 20250405205617
 ---
 
 ![TiddlyWiki 太微](https://cdn.pkmer.cn/images/image1.png!pkmer)
@@ -153,7 +153,7 @@ JSON 文件是太微中常见的数据存储格式文件，一般都是使用它
 - POP：弹出模式，pop 打开条目是从大缩小的动画，关闭条目是继续缩小直到看不见，这两个他们都是多个条目同时在的，往下翻可以看到多个条目。
 - Zoomin：缩放视图模式：这个模式只能看到一个条目，往下翻没有更多条目
 
-详细链接： <<https://tw-cn.netlify.app/>#查看模式>
+详细链接： <https://tw-cn.netlify.app/>#查看模式>
 
 ![TiddlyWiki 太微](https://cdn.pkmer.cn/images/image9.png!pkmer)
 
@@ -385,7 +385,7 @@ WikiText 即 TiddlyWiki 书写文本。书写文本与显示文本又名书写�
 - **区块模式** - 解析器将仅识别区块模式维基文本符号
 - **内联模式** - 解析器将仅识别内联模式维基文本
 
-此条目仅做简要介绍，更详细的描述请查看 [TiddlyWiki](file:///D:\\Dropbox\\10-TODO\\TiddlyWiki\\%E5%A2%A8%E5%B1%89TiddlyWiki%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97.html#TiddlyWiki) 舞中文文档：<<https://bramchen.github.io/tw5-docs/zh-Hans/#WikiText>%20Parser%20Modes>
+此条目仅做简要介绍，更详细的描述请查看 [TiddlyWiki](file:///D:\\Dropbox\\10-TODO\\TiddlyWiki\\%E5%A2%A8%E5%B1%89TiddlyWiki%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97.html#TiddlyWiki) 舞中文文档：<https://bramchen.github.io/tw5-docs/zh-Hans/#WikiText>%20Parser%20Modes>
 
 区块解析器模式
 
@@ -763,7 +763,7 @@ Both、Outgoing、Incoming、Inter-neighbour edges
 
 渐进写作相关链接：
 
-渐进写作：<<https://blog.effie.co/>%e6%b8%90%e8%bf%9b%e5%bc%8f%e5%86%99%e4%bd%9c/>
+渐进写作：<https://blog.effie.co/>%e6%b8%90%e8%bf%9b%e5%bc%8f%e5%86%99%e4%bd%9c/>
 
 非线性写作的 4 条建议：<https://zhuanlan.zhihu.com/p/399187853>
 
@@ -773,7 +773,7 @@ Both、Outgoing、Incoming、Inter-neighbour edges
 
 **01.关于 RR 的双链无压记录**
 
-看过 【双向链接时代的快速无压记录：<<https://www.yuque.com/deerain/gannbs/ffqk2e>】> 的同学可能都知道，roam research 之所以能带火 \[\[双链\|反向链接\]\] ，是因为它宣传：
+看过 【双向链接时代的快速无压记录：<https://www.yuque.com/deerain/gannbs/ffqk2e>】> 的同学可能都知道，roam research 之所以能带火 \[\[双链\|反向链接\]\] ，是因为它宣传：
 
 输入的时候可以彻底的不整理，就完全堆在日志条目里 然后用 \`\[\[\]\]\` 打个标记，然后用双链的一些特性，试图让后续需要整理的时候压力也不至于很大。
 
@@ -790,7 +790,7 @@ roam 的选择是把未整理的内容堆放到日志条目里，这在太微里
 1. 点击快速创建想法按钮，自动创建出一个带「想法」标签的新卡片
 2. 输入标题「变量：显示或隐藏空节点」，加上标签「logseq/配置」，输入内容 \`:ui/show-empty-bullets?\` （也可以在里面加入 \`\[\[logseq/配置\]\]\` 来产生双链，看你是标签党还是双链党，反正都可以实现同样的效果）
 
-两次操作即可保留内容，与之相比较的复杂折腾的情况，详见【双向链接时代的快速无压记录：<<https://www.yuque.com/deerain/gannbs/ffqk2e>】。>
+两次操作即可保留内容，与之相比较的复杂折腾的情况，详见【双向链接时代的快速无压记录：<https://www.yuque.com/deerain/gannbs/ffqk2e>】。>
 
 **03.太微的间隔重复放心记录**
 
