@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20250319192311
+modified: 20250410015902
 ---
 
 # Obsidian 社区周报
@@ -20,7 +20,8 @@ modified: 20250319192311
 
 ## 2025
 
-- [[2025-03-30-Obsidian Weekly]]（New！试刊）
+- [[2025-04-06-Obsidian Weekly]]（New！试刊）
+- [[2025-03-30-Obsidian Weekly]]（试刊）
 - [[2025-03-23-Obsidian Weekly]]（试刊）
 - [[2025-03-16-Obsidian Weekly]]（试刊）
 - [[2025-03-09-Obsidian Weekly]]（试刊）
