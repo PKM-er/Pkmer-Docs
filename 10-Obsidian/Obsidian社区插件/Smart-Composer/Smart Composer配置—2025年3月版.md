@@ -3,7 +3,7 @@ uid: 20250401181043
 title: Smart Composer 个人配置分享（2025 年 3 月）
 tags:
   - AI
-  - 💻教程
+  - 教程
   - 实践
 description: 关于Smart Composer插件的实践
 author: Jade

@@ -168,8 +168,7 @@ due on {{date:YYYY-MM-DD}}
 ### 未来两周
 ```tasks
 not done
-due after {{date:YYYY-MM-DD}}
-due before {{date+14d:YYYY-MM-DD}}
+due before in 14day
 ```
 
 ### 没有设置日期的
