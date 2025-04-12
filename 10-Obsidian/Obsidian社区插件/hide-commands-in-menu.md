@@ -1,13 +1,13 @@
 ---
 uid: 20250409205850
 title: Obsidian 插件：Hide Commands in Menu 自定义任何菜单的隐藏项
-tags: ['界面优化', '自定义命令', '插件', 'obsidian插件', 'Obsidian', '效率', '自定义', '右键菜单', '菜单', '隐藏']
+tags: ['界面优化', '自定义命令']
 description: 允许您将任何命令隐藏到不同的菜单中。
 author: bomian98
 type: auto
 draft: false
 editable: false
-modified: 20250409215722
+modified: 20250412231337
 ---
 
 # Obsidian 插件：Hide Commands in Menu 自定义任何菜单的隐藏项
@@ -16,7 +16,7 @@ modified: 20250409215722
 > - 插件名称：Hide Commands in Menu
 > - 插件作者：bomian98
 > - 插件说明：允许您针对不同的菜单项配置不同的隐藏命令。
-> - 插件分类：[' 界面优化 ', ' 自定义命令 ', ' 插件 ', 'obsidian 插件 ', 'Obsidian', ' 效率 ', ' 自定义 ', ' 右键菜单 ', ' 菜单 ', ' 隐藏 ']
+> - 插件分类：[' 界面优化 ', ' 自定义命令 ']
 > - 项目地址：[点我访问](https://github.com/bomian98/obsidian-hide-commands-in-menu)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hide-commands-in-menu)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/bomian98/obsidian-hide-commands-in-menu/master/README.md)
