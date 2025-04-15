@@ -1,13 +1,13 @@
 ---
 uid: 20250325155332
 title: Obsidian 插件：Canvas Format Brush 为 Obsidian Canvas 添加格式刷功能
-tags: [' 白板 ', ' Canvas ', ' 编辑工具 ', 'obsidian 插件 ']
+tags: [" 白板 ", " Canvas ", " 编辑工具 ", "obsidian 插件 "]
 description: Obsidian 插件：Canvas Format Brush 为 Obsidian Canvas 添加格式刷功能
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20250325161051
+modified: 20250415132454
 ---
 
 # Obsidian 插件：Canvas Format Brush 为 Obsidian Canvas 添加格式刷功能
