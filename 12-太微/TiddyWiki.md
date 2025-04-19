@@ -984,7 +984,7 @@ TiddlerSets：<https://tiddlersets.tiddlyhost.com/TiddlerSets>
 
 **致谢**
 
-> 感谢 CREATOR（keatonlao）的 wikitext 教程、suan、FSpark、TomZheng、凹夫几、林一二、葫芦 12、sugarhope、少年游、机杼提供的意见和想法以及每一位太微爱好者的支持，非常感谢！
+> 感谢 CREATOR（keatonlao）的 wikitext 教程、suan、FSpark、TomZheng、凹夫几、林一二、葫芦 12、sugarhope、少年游、马不前提供的意见和想法以及每一位太微爱好者的支持，非常感谢！
 
 **TiddlyWiki（太微）相关资源：中文教程、插件源、论坛、桌面应用**
 
