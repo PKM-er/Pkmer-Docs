@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20250415132617
+modified: 20250419201508
 ---
 
 # Obsidian 社区插件
@@ -590,6 +590,7 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 - [[obsidian-douban-plugin]]：给 Obsidian 增加和豆瓣信息同步的能力
 - [[obsidian-weread-plugin]]：让 Obsidian 和你的微信阅读联动
 - [[obsidian-to-anki-plugin]]：使用 AnkiConnect 来接收 Obsidian 的闪卡（Flashcards）数据
+- [[browser-history]]：打通你的浏览器浏览历史到 Obsidian
 - [[tenki]]：一个简单的天气显示插件
 - [[open-weather]]：该插件以可配置的字符串格式返回 OpenWeather 的当前天气
 - [[rss-reader]]：让你的 Obsidian 秒变 RSS 阅读器
