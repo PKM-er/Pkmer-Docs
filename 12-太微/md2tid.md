@@ -14,8 +14,8 @@ modified: 20250415072235
 
 ## 简介
 
--   项目地址：https://github.com/Zacharia2/md2tid-app
--   在线体验：https://github.com/tiddly-gittly/md-to-tid
+- 项目地址：https://github.com/Zacharia2/md2tid-app
+- 在线体验：https://github.com/tiddly-gittly/md-to-tid
 
 有时候想保存 AI 生成的笔记内容，发现 AI 使用的 markdown 格式，并非 TiddlyWiki 里的 wikitext 格式。所以就有了这个项目，可以把 AI 生成的 markdown 文件转换成 wikitext 格式的 tid 文件。
 
