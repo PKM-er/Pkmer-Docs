@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20250424020235
+modified: 20250424120540
 ---
 
 # Obsidian 样式 - 重新定义 Obsidian 脚注之侧边显示 footnote 的优雅体验
@@ -90,18 +90,43 @@ settings:
     type: class-toggle
     default: true
     addCommand: true
+  - id: this-is-a-heading
+    title: 其他参数设置
+    type: heading
+    level: 2
+    collapsed: true
   - id: sidebar-footnote-card-width
     title: 侧边栏脚注(footnote)的宽度
     type: variable-number-slider
     default: 360
+    format: px
     min: 300
     max: 500
     step: 10
+  - id: sidebar-footnote-left
+    title: 侧边栏脚注(footnote)的左边距
+    type: variable-number-slider
+    default: 20
+    format: px
+    min: 10
+    max: 500
+    step: 1
+  - id: sidebar-footnote-right
+    title: 侧边栏脚注(footnote)的右边距
+    type: variable-number-slider
+    default: 20
+    format: px
+    min: 10
+    max: 500
+    step: 1
 */
 
 :root {
   --sidebar-footnote-card-width: 360px;
+  --sidebar-footnote-left: 20px;
+  --sidebar-footnote-right: 20px;
 }
+
 
 .sidebar-footnote-status {
   div:has(>section.footnotes) {
@@ -109,9 +134,10 @@ settings:
   }
 }
 
+
 .footnote-sidebar-position div:has(>section.footnotes) {
   left: unset;
-  right: 20px;
+  right: var(--sidebar-footnote-right);
 
   .footnotes {
     &>ol {
@@ -136,7 +162,10 @@ sup.footnote-ref {
   font-size: medium;
 
   &.is-flashing {
-    background-color: red !important;
+    background-color: var(--interactive-accent) !important;
+    a {
+      color: white !important;
+    }
   }
 }
 
@@ -146,7 +175,7 @@ div:has(>section.footnotes) {
   position: fixed !important;
 
   top: 20vb;
-  left: 20px;
+  left: var(--sidebar-footnote-left);
   overflow: auto;
   z-index: var(--layer-tooltip);
 
@@ -169,6 +198,7 @@ div:has(>section.footnotes) {
       list-style-type: none;
       margin: 10px;
 
+
       span:has(img) {
         margin-left: auto;
         margin-right: auto;
@@ -178,12 +208,12 @@ div:has(>section.footnotes) {
         opacity: 0.8;
       } */
 
-      li+li {
+      &>li+li {
         margin-top: 10px;
 
       }
 
-      li::before {
+      &>li::before {
         counter-increment: footnote-counter;
         content: "["counter(footnote-counter)"]：";
         float: left;
@@ -193,7 +223,7 @@ div:has(>section.footnotes) {
         height: fit-content;
       }
 
-      li {
+      &>li {
         width: calc(var(--sidebar-footnote-card-width));
 
         margin-left: 0px;
@@ -247,6 +277,7 @@ div:has(>section.footnotes) {
     position: relative;
     bottom: 3px;
   }
+
 
   .cm-inline-footnote-start~.internal-embed:has(~.cm-inline-footnote-end:not(:empty)),
   .cm-inline-footnote-start~.cm-inline-footnote:not(.cm-inline-footnote-end):not(.cm-inline-footnote-start):has(~.cm-inline-footnote-end:not(:empty)) {
@@ -309,7 +340,7 @@ div:has(>section.footnotes) {
 更新功能：
 
 1. 修复嵌入文档的脚注的重复显示；
-2. 添加卡片宽度的调整参数设置；
+2. 添加卡片宽度、左右侧边距的调整参数设置；
 3. 添加脚注默认自动缩略图，鼠标悬浮显示；
 4. 添加 better footnote 语法可以在实时编辑模式下显示，不支持源码模式，不支持图文混排。
 
