@@ -7,7 +7,7 @@ author: PKMer
 type: other
 draft: false
 editable: false
-modified: 20250426201552
+modified: 20250426201953
 ---
 
 # Obsidian 社区周报
@@ -16,7 +16,7 @@ modified: 20250426201552
 
 每周 Obsidian 新闻，专注于社区更新、新插件、工作流程指南、主题、辅助工具和代码。
 
-更新时间：每周六晚 - 周日
+更新时间：每周日晚 - 周一
 
 ## 2025
 
