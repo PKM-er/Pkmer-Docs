@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20250313105433
+modified: 20250424120540
 ---
 
 # Obsidian 样式 - 重新定义 Obsidian 脚注之侧边显示 footnote 的优雅体验
@@ -85,7 +85,47 @@ settings:
     type: class-toggle
     default: true
     addCommand: true
+  - id: footnote-sidebar-auto-shrink
+    title: 脚注(footnote)自动缩小
+    type: class-toggle
+    default: true
+    addCommand: true
+  - id: this-is-a-heading
+    title: 其他参数设置
+    type: heading
+    level: 2
+    collapsed: true
+  - id: sidebar-footnote-card-width
+    title: 侧边栏脚注(footnote)的宽度
+    type: variable-number-slider
+    default: 360
+    format: px
+    min: 300
+    max: 500
+    step: 10
+  - id: sidebar-footnote-left
+    title: 侧边栏脚注(footnote)的左边距
+    type: variable-number-slider
+    default: 20
+    format: px
+    min: 10
+    max: 500
+    step: 1
+  - id: sidebar-footnote-right
+    title: 侧边栏脚注(footnote)的右边距
+    type: variable-number-slider
+    default: 20
+    format: px
+    min: 10
+    max: 500
+    step: 1
 */
+
+:root {
+  --sidebar-footnote-card-width: 360px;
+  --sidebar-footnote-left: 20px;
+  --sidebar-footnote-right: 20px;
+}
 
 
 .sidebar-footnote-status {
@@ -97,12 +137,21 @@ settings:
 
 .footnote-sidebar-position div:has(>section.footnotes) {
   left: unset;
-  right: 20px;
+  right: var(--sidebar-footnote-right);
+
+  .footnotes {
+    &>ol {
+      display: flex;
+      flex-flow: column nowrap;
+      align-items: flex-end;
+    }
+  }
+
 }
 
+/*! 全局化 */
 .sidebar-footnote-backref {
   .footnote-backref {
-    /*! 全局化 */
     width: 100%;
     height: 100%;
     opacity: 0;
@@ -113,22 +162,28 @@ sup.footnote-ref {
   font-size: medium;
 
   &.is-flashing {
-    background-color: red !important;
+    background-color: var(--interactive-accent) !important;
+    a {
+      color: white !important;
+    }
   }
 }
 
 div:has(>section.footnotes) {
+  font-size: .75em;
   display: block;
   position: fixed !important;
-  width: 22vi;
+
   top: 20vb;
-  left: 20px;
+  left: var(--sidebar-footnote-left);
   overflow: auto;
+  z-index: var(--layer-tooltip);
 
   height: fit-content;
+  width: fit-content;
   max-height: 70vb;
-  background-color: var(--background-secondary);
-  border-radius: 10px;
+  background-color: transparent;
+  /* border-radius: 10px; */
   counter-reset: footnote-counter;
 
   .footnotes {
@@ -137,6 +192,9 @@ div:has(>section.footnotes) {
     }
 
     &>ol {
+      display: flex;
+      flex-flow: column nowrap;
+      align-items: flex-start;
       list-style-type: none;
       margin: 10px;
 
@@ -146,16 +204,16 @@ div:has(>section.footnotes) {
         margin-right: auto;
       }
 
-      li:not(:hover) {
+      /* li:not(:hover) {
         opacity: 0.8;
-      }
+      } */
 
-      li+li {
+      &>li+li {
         margin-top: 10px;
 
       }
 
-      li::before {
+      &>li::before {
         counter-increment: footnote-counter;
         content: "["counter(footnote-counter)"]：";
         float: left;
@@ -165,16 +223,16 @@ div:has(>section.footnotes) {
         height: fit-content;
       }
 
-      li {
+      &>li {
+        width: calc(var(--sidebar-footnote-card-width));
+
         margin-left: 0px;
         position: relative;
         padding: 10px;
         background-color: var(--background-primary);
-        border-radius: 8px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        /* 阴影 */
-        border: 1px solid var(--background-modifier-border);
-        /* 边框 */
+        border: 1.5px solid var(--background-modifier-border);
+        border-radius: 10px;
+        box-shadow: 6px 6px var(--background-secondary);
 
         .footnote-backref {
           display: block;
@@ -190,7 +248,110 @@ div:has(>section.footnotes) {
     }
   }
 }
+
+/* 补丁 */
+.components--TextFileView,
+.embedded-backlinks,
+.markdown-embed-content {
+  div:has(>section.footnotes) {
+    display: none !important;
+  }
+}
+
+/* 实时编辑模式下 better fontnote 格式的的脚注 侧边显示 */
+.markdown-source-view.is-live-preview div {
+
+  .cm-inline-footnote-start~span~.cm-inline-footnote-end:not(:empty),
+  .cm-inline-footnote-start:has(~span~.cm-inline-footnote-end:not(:empty)) {
+    color: transparent !important;
+    position: relative;
+    left: 0px !important;
+    font-size: 1rem;
+    letter-spacing: -1em;
+  }
+
+  .cm-inline-footnote-start~span~.cm-inline-footnote-end:not(:empty)::after {
+    content: "💬";
+    font-size: 1rem;
+    text-shadow: 0 0 0 var(--interactive-accent);
+    position: relative;
+    bottom: 3px;
+  }
+
+
+  .cm-inline-footnote-start~.internal-embed:has(~.cm-inline-footnote-end:not(:empty)),
+  .cm-inline-footnote-start~.cm-inline-footnote:not(.cm-inline-footnote-end):not(.cm-inline-footnote-start):has(~.cm-inline-footnote-end:not(:empty)) {
+    position: relative;
+    background-color: var(--background-primary);
+    z-index: var(--layer-tooltip);
+    display: block;
+    margin-left: 10px;
+    margin-right: -365px;
+    margin-top: -25px;
+    float: right;
+    width: var(--sidebar-footnote-card-width);
+    font-size: .75em;
+    padding: 10px;
+    border: 1.5px solid var(--background-modifier-border);
+    border-radius: 10px;
+    box-shadow: 6px 6px var(--background-secondary);
+  }
+}
+
+/* 添加阅读模式的自动缩小 */
+.footnote-sidebar-auto-shrink div:has(>section.footnotes):not(:hover) {
+  .footnotes {
+    &>ol {
+      li:not(.is-flashing) {
+        width: 20px;
+        font-size: 0px;
+        border-radius: 0px;
+        transition: width 0.3s ease;
+
+        img {
+          display: none;
+        }
+
+        &:nth-child(even) {
+          background-color: var(--text-faint);
+        }
+
+        &:nth-child(odd) {
+          background-color: var(--text-muted);
+        }
+
+        box-shadow: none;
+      }
+    }
+  }
+}
 ```
+
+## 版本更新
+
+### 2025-04-22
+
+![250312_Obsidian样式：重新定义 Obsidian 脚注之侧边显示footnote的优雅体验.md](https://cdn.pkmer.cn/images/202504240201150.gif)
+
+---
+
+![250312_Obsidian样式：重新定义 Obsidian 脚注之侧边显示footnote的优雅体验.md](https://cdn.pkmer.cn/images/202504240201062.png!pkmer)
+
+更新功能：
+
+1. 修复嵌入文档的脚注的重复显示；
+2. 添加卡片宽度、左右侧边距的调整参数设置；
+3. 添加脚注默认自动缩略图，鼠标悬浮显示；
+4. 添加 better footnote 语法可以在实时编辑模式下显示，不支持源码模式，不支持图文混排。
+
+![250312_Obsidian样式：重新定义 Obsidian 脚注之侧边显示footnote的优雅体验.md](https://cdn.pkmer.cn/images/202504240201739.gif!pkmer)
+
+---
+
+存在问题：
+
+1. 垂直分割下的左右脚注会干扰；
+2. 不支持 PDF 打印脚注，建议关闭该 CSS 片段。
 
 ## Reference
 

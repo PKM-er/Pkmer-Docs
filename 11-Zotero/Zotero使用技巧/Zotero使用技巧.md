@@ -17,3 +17,4 @@ modified: 20240701193906
 - [[Zotero笔记样式——袖珍Blue Topaz]]
 - [[easiercitation引文插入详细教程]]
 - [[Zotero便携版分享]]
+- [[使用Quicker实现Zotero标注到Obsidian的高效工作流]]
