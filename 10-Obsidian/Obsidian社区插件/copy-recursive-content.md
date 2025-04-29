@@ -1,6 +1,6 @@
 ---
 uid: 2025042920523002
-title: Obsidian 插件：Structured Copy: Files & Folders
+title: 'Obsidian 插件：Structured Copy: Files & Folders'
 tags: ['数据处理', '文件管理', '自定义命令', 'obsidian插件']
 description: 把文件和文件夹的内容以结构化的 JSON 格式复制下来。
 author: AI
