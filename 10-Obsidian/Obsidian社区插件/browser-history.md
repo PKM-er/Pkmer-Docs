@@ -1,7 +1,7 @@
 ---
 uid: 20250419184452
 title: Obsidian 插件：Browser History 打通你的浏览器浏览历史到 Obsidian
-tags: [' 浏览器 ', ' 浏览历史 ', ' 第三方集成 ']
+tags: ['浏览器', '浏览历史', '第三方集成']
 description: 
 author: OS
 type: other
