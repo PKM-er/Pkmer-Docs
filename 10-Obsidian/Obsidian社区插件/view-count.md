@@ -1,5 +1,5 @@
 ---
-uid: 20241225102132
+uid: 20250415132613
 title: Obsidian 插件：View Count 跟踪记录仓库内文件的查看次数
 tags: ['数据处理', '搜索与排序', '编辑工具', 'obsidian插件']
 description: 跟踪每个保险库文件的查看次数。
