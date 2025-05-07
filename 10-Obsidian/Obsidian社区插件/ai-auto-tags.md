@@ -7,7 +7,7 @@ author: timonpeng
 type: other
 draft: false
 editable: false
-modified: 20250507225117
+modified: 20250507225142
 ---
 
 # ai-auto-tags
@@ -20,8 +20,6 @@ modified: 20250507225117
 > - 插件说明：利用 AI 根据笔记内容或选中的文本自动生成标签和其他属性，并将这些属性添加到笔记的属性区。
 > - 插件项目地址：[点我跳转](https://github.com/timonpeng4071/obsidian-ai-auto-tags)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-auto-tags)
-
-这是一个 Obsidian 插件，可以利用 AI 根据笔记内容或选中的文本自动生成标签和其他属性，并将这些属性添加到笔记的属性区 (Frontmatter) 中。
 
 ## 功能
 
