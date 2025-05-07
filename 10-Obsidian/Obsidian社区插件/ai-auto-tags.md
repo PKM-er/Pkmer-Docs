@@ -1,16 +1,16 @@
 ---
 uid: 20250507224555
-title: ai-auto-tags
+title: Obsidian 插件：Aitags 通过 AI 自动生成笔记标签
 tags: [自动化与AI, 标签]
 description: 这是一个 Obsidian 插件，可以利用 AI 根据笔记内容或选中的文本自动生成标签和其他属性，并将这些属性添加到笔记的属性区 (Frontmatter) 中。
 author: timonpeng
 type: other
 draft: false
 editable: false
-modified: 20250508000004
+modified: 20250508000259
 ---
 
-# ai-auto-tags
+# Obsidian 插件：Aitags 通过 AI 自动生成笔记标签
 
 这是一个 Obsidian 插件，可以利用 AI 根据笔记内容或选中的文本自动生成标签和其他属性，并将这些属性添加到笔记的属性区 (Frontmatter) 中。
 
@@ -34,13 +34,7 @@ modified: 20250508000004
 - 支持保存和加载多个 API 配置
 - 支持生成多种笔记属性（标签、标题、作者、日期、来源、网址、别名、摘要等）
 
-## 手动安装
 
-1. <https://github.com/timonpeng4071/obsidian-ai-auto-tags>下载最新的 zip
-2. 解压文件
-3. 将解压后的文件夹复制到 Obsidian 插件目录（`.obsidian/plugins/`）
-4. 重启 Obsidian
-5. 在设置中启用插件
 
 ## 使用方法
 
