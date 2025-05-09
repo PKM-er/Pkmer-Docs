@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20250504233934
+modified: 20250509114421
 ---
 
 # Obsidian 社区插件
@@ -191,7 +191,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 这些 Obsidian 插件为用户提供了丰富的功能和工具，其中包括添加简单日历视图管理、多视图项目管理、提醒待办事项、自然语言插入时间戳、基于进度条的任务管理、看板制作、日程规划、任务归类和可视化最后编辑时间等。这些插件的功能差异明显，可以根据个人或组织需求灵活选择使用，让你的事务管理事半功倍。
 
-- [[obsidian-memos]]：memos 全新版本~tada~
+- [[obsidian-memos|Thino]]：memos 全新版本~tada~
 - [[obsidian-memos]]：提供一个简易轻巧的笔记和灵感收集方式
 - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
@@ -209,6 +209,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[completed-task-display]]：提供控件来显示或隐藏已完成的任务。
 - [[tasks-calendar-wrapper]]：完美的时间线/日历视图的任务面板展示
 - [[datepicker]]：也许是最好用的日期修改插件
+- [[wordflow-tracker]]：实时跟踪每个笔记中的编辑数据的轻量插件
 
 ### 日期&时间
 
@@ -328,7 +329,8 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 在 Obsidian 中，我们可以使用 frontmatter 这个元数据区域来添加笔记的一些额外信息，例如别名、标签等等。这些信息可以帮助我们更好地组织笔记和查找笔记。而且 Obsidian 还有一些插件可以帮助我们更好地管理 frontmatter，这里介绍几种常用的插件：
 
-- [[frontmatter-alias-display]]：让你的笔记名下直接看到别名
+- [[frontmatter-alias-display]]：让你的笔记名下直接看到**别名**
+- [[another-name]]：给页内标题下方增加**别名**显示
 - [[obsidian-metatable]]：美化 frontmatter 的显示样式
 - [[obsidian-view-mode-by-frontmatter]]：自定义每个笔记的视图
 - [[metaedit]]：帮你快捷管理 Obsidian 的元数据，可以预设 YAML 区域的值
