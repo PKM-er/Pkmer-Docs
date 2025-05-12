@@ -1,13 +1,13 @@
 ---
-uid: 20250504230106
+uid: 20250504234002
 title: Obsidian 插件：Quick Peek Sidebar 根据光标感应展开和收起侧边栏
 tags: ['视图', '自定义', 'Obsidian插件']
-description: 
+description: Obsidian 插件：Quick Peek Sidebar 根据光标感应展开和收起侧边栏
 author: OS
 type: other
 draft: false
 editable: false
-modified: 20250504233818
+modified: 20250509122328
 ---
 
 # Obsidian 插件：Quick Peek Sidebar 根据光标感应展开和收起侧边栏
