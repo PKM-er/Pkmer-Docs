@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20250108153208
+modified: 20250519195015
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -132,9 +132,9 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-使用 Callout 进行正文旁注]]
 - [[Obsidian样式-Minimal主题的Outline Callout]]
 
-### 脚注(Footnote)
+### 脚注 (Footnote)
 
--  [[Obsidian样式-重新定义 Obsidian 脚注之侧边显示footnote的优雅体验]]
+- [[Obsidian样式-重新定义 Obsidian 脚注之侧边显示footnote的优雅体验]]
 
 ### Properties（老称呼 Front-matter，metadata）
 
@@ -201,6 +201,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 ### 表格样式
 
 - [[Obsidian样式-表格样式简明方法]]
+- [[Obsidian 样式-13 种配色 和4 种格式的方案打造更加生动多彩的表格]]
 
 ### 标签 Tag 样式
 
