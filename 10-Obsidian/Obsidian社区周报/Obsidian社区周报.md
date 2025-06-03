@@ -20,7 +20,8 @@ modified: 20250513001300
 
 ## 2025
 
-- [[2025-05-25-Obsidian Weekly]]（New！试刊）
+- [[2025-06-01-Obsidian Weekly]]（New！儿童节快乐！）
+- [[2025-05-25-Obsidian Weekly]]（试刊）
 - [[2025-05-18-Obsidian Weekly]]（试刊）
 - [[2025-05-11-Obsidian Weekly]]（试刊）
 - [[2025-05-04-Obsidian Weekly]]（试刊）
