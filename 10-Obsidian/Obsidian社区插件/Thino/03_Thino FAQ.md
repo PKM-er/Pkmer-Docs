@@ -1,18 +1,15 @@
 ---
 uid: 20231109234444
 title: Thino FAQ
-tags:
-  - Obsidian
-  - Obsidian插件
-  - Thino
-  - memos
+tags: [Obsidian, Obsidian插件, Thino, memos]
 description: Thino FAQ 你想知道 Thino 的一切都在这里
 author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20250415132816
+modified: 20250630225004
 id: f94eee26b8f42cdf
+createdAt: 2025/05/24 09:26:06
 ---
 
 # Thino FAQ
@@ -237,7 +234,7 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 - 是的，我们收到过类似的反馈但并不多，相关用户并未持续回应我们相关问题细节
 	- 诸如回车后无法自动增加 `-`，`Tab` 键无法使用
-- 推测，可能是因为使用其他插件产生都冲突，同样遇到问题的同学，可以选择去社区群中反馈，或者关闭其他插件，只保留 Thino，重启 Obsidian 即可判断问题。
+- 在 Advanced Tables 设置中关闭 Bind enter to table navigation 即可。
 
 #### 四种存储方式都有什么不同呢
 
@@ -305,7 +302,6 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 
 - Advanced Tables 兼容：在 Advanced Tables 设置中关闭 Bind enter to table navigation 即可。
 - [[pane-relief]] 冲突：目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动即可。
-- Advanced Tables 冲突：鉴于此插件已经有段时间不更新了，且 OB 在近期已经完善了表格编辑体验，建议直接使用关闭的方法。
 - iconize 冲突：作者已经主动适配 Thino ，请更新 iconize 到最新版本即可。
 - [[typewriter-mode]] 冲突：会导致 Thino 的编辑框焦点位置产生奇怪的错位，因为打字机类插件会强制干预编辑框尺寸
 - Automatically reveal active file：会因为这个插件的开启，导致工作区中无法切换到 Thino 标签页。原因是：该插件作用是针对有实体文件的存储定位，但 Thino 本身是一个应用界面，而非一个实体文件。
