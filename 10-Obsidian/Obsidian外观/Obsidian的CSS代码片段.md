@@ -7,7 +7,7 @@ author: OS,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20250519195015
+modified: 20250704153846
 ---
 
 # Obsidian 的 CSS 代码片段
@@ -60,8 +60,9 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-标签列表之仿Zotero标签管理的堆叠模式]]
 - [[Obsidian样式-右键菜单分栏，让你的菜单更美观、更高效]]
 
-### 大纲 (Outline)
+### 标题&大纲 (Outline)
 
+- [[Obsidian 样式-自定义标题行背景色]]
 - [[Obsidian样式-实时编辑下大纲等级符号居右以及Border标题CSS]]
 - [[Obsidian样式-核心大纲outline标题显示自动编号]]
 
