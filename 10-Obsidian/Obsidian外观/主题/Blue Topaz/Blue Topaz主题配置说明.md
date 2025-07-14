@@ -1,13 +1,23 @@
 ---
 uid: 20250705100613
 title: Bluetopaz主题样式设置概览
-tags: [bluetopaz, 外观, 主题, 设置]
+tags:
+  - bluetopaz
+  - 外观
+  - 主题
+  - 设置
 description: Obsidian 的外观
 author: cuman
 type: awesome
 draft: false
 editable: false
 modified: 20250705100613
+discourse_post_id: 6118
+discourse_topic_id: 5531
+discourse_url: https://forum.pkmer.net//t/5531
+discourse_tags: []
+discourse_category_id: 23
+discourse_category: 知识管理工具 > 笔记软件
 ---
 
 # Bluetopaz 主题样式设置概览
