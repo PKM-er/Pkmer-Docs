@@ -1,5 +1,5 @@
 ---
-uid: 20250524092606
+uid: 202505240926061
 title: Obsidian 插件：Title Serial Number Plugin
 tags: ['编辑工具', '文字处理', '标题', 'obsidian插件']
 description: 该插件为您的Markdown标题添加序列号。
