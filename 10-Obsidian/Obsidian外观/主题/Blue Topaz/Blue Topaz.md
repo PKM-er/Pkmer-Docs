@@ -56,3 +56,5 @@ modified: 20240119151058
 [[Blue Topaz 示例库简介]]
 
 [[Blue Topaz主题style setting配置]]
+
+[[Quiet Outline样式-简明多行标题与主题集成#基于 Blue Topaz 主题的优雅起点]]
