@@ -15,6 +15,7 @@
   "enable_folder_templates": false,
   "folder_templates": [],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],
