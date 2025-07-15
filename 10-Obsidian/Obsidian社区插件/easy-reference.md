@@ -1,6 +1,6 @@
 ---
 uid: 20250712103611
-title: Easy Reference
+title: 'Obsidian 插件：Easy Reference —— Markdown 引用图表就是这么简单'
 tags: [引用, 写作, obsidian插件]
 description: 将图表双向引用代入你的学术写作工作流
 author: mcardZH
