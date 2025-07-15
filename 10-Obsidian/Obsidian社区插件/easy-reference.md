@@ -1,26 +1,37 @@
 ---
 uid: 20250712103611
-title: Obsidian 插件：Easy Reference —— Markdown 引用图表就是这么简单
+title: Easy Reference
 tags: [引用, 写作, obsidian插件]
 description: 将图表双向引用代入你的学术写作工作流
 author: mcardZH
 type: basic
 draft: true
 editable: false
-modified: 20250712103611
+modified: 20250715203020
 ---
 
 # Easy Reference
 
 一个功能完整的 Obsidian 插件，为图片、表格和章节提供自动引用功能，完全兼容 pandoc-crossref 格式。
 
-项目地址：[Github](https://github.com/mcardZH/EasyReference/)
+> [!Note] 插件名片
+> - 插件名称：Easy Reference
+> - 插件作者：mcardZH
+> - 插件说明：为图片、表格和章节提供自动引用功能，完全兼容 pandoc-crossref 格式。
+> - 插件分类：[引用, 写作, obsidian插件]
+> - 项目地址：[mcardZH/EasyReference](https://github.com/mcardZH/EasyReference/)
+> - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?easy-reference)
+> - 自述文件：[Readme](https://ghproxy.net/https://github.com/mcardZH/EasyReference/raw/refs/heads/master/README.md)
+
+> [!Warning]
+> 注意：目前插件还未被官方插件商城收录，还在审核中，提前尝鲜请去github自行下载试用。
+
 
 ## 功能特点
 
 - **自动图片引用**：自动为图片添加标签和引用，支持 pandoc-crossref 格式
 - **表格引用**：智能识别表格并自动生成标签
-- **章节引用**：为标题和章节添加引用，支持自动生成ID
+- **章节引用**：为标题和章节添加引用，支持自动生成 ID
 - **智能建议**：提供交叉引用的自动补全系统
 - **Pandoc 兼容**：完全支持 pandoc-crossref 语法和配置
 - **灵活配置**：可自定义引用样式和格式
@@ -45,6 +56,7 @@ modified: 20250712103611
 ## 依赖项
 
 此插件与以下工具配合使用效果最佳：
+
 - **pandoc**：用于文档转换
 - **pandoc-crossref**：用于交叉引用处理
 - **Enhancing Export**（推荐）：用于增强导出功能
@@ -67,12 +79,15 @@ modified: 20250712103611
 ```
 
 然后可以使用以下方式引用此图片：
+
 ```markdown
 参见 [@fig:fig123] 了解详情。
 ```
 
-![](https://raw.githubusercontent.com/mcardZH/EasyReference/refs/heads/master/imgs/img1.png)
-![](https://raw.githubusercontent.com/mcardZH/EasyReference/refs/heads/master/imgs/img2.png)
+![image.png](https://cdn.pkmer.cn/images/202507152038312.png!pkmer)
+
+
+![image.png](https://cdn.pkmer.cn/images/202507152038008.png!pkmer)
 
 
 ### 表格引用
@@ -88,11 +103,12 @@ modified: 20250712103611
 ```
 
 使用以下方式引用表格：
+
 ```markdown
 参考 [@tbl:tbl123] 中的数据。
 ```
 
-![](https://raw.githubusercontent.com/mcardZH/EasyReference/refs/heads/master/imgs/img3.png)
+![image.png](https://cdn.pkmer.cn/images/202507152038909.png!pkmer)
 
 
 ### 章节引用
@@ -106,11 +122,13 @@ modified: 20250712103611
 ```
 
 使用以下方式引用章节：
+
 ```markdown
 如 [@sec:intro] 中所讨论的，我们将探讨...
 ```
 
-![](https://raw.githubusercontent.com/mcardZH/EasyReference/refs/heads/master/imgs/img4.png)
+ ![image.png](https://cdn.pkmer.cn/images/202507152039359.png!pkmer)
+
 
 ### 自动补全
 
@@ -118,7 +136,7 @@ modified: 20250712103611
 
 1. 输入 `[@` 触发建议系统
 2. 输入引用类型（`fig`、`tbl`、`sec`）
-3. 输入 `:` 后跟部分ID
+3. 输入 `:` 后跟部分 ID
 4. 从建议的引用中选择
 
 ### 配置
@@ -127,7 +145,7 @@ modified: 20250712103611
 
 在插件设置中自定义引用格式：
 
-- **图片引用样式**：`fig{tag:3}`（生成随机3字符ID）
+- **图片引用样式**：`fig{tag:3}`（生成随机 3 字符 ID）
 - **表格引用样式**：`tbl{tag:3}`
 - **章节引用样式**：`sec{tag:3}`
 
@@ -135,8 +153,8 @@ modified: 20250712103611
 
 直接在插件中配置 pandoc-crossref 选项：
 
-- **图注前缀**：图片标题的前缀（例如"图"）
-- **表注前缀**：表格标题的前缀（例如"表"）
+- **图注前缀**：图片标题的前缀（例如 " 图 "）
+- **表注前缀**：表格标题的前缀（例如 " 表 "）
 - **引用前缀**：自定义引用在文本中的显示方式
 - **链接引用**：启用到被引用元素的超链接
 
@@ -164,7 +182,7 @@ tableTitle: "表"
 
 #### 更新 Frontmatter 命令
 
-使用"更新 frontmatter"命令自动将 pandoc-crossref 配置添加到文档的 frontmatter 中。
+使用 " 更新 frontmatter" 命令自动将 pandoc-crossref 配置添加到文档的 frontmatter 中。
 
 #### 子图支持
 
@@ -180,7 +198,7 @@ tableTitle: "表"
 ### 与导出工作流的集成
 
 1. 在插件中配置引用样式
-2. 使用"更新 frontmatter"命令添加 pandoc-crossref 设置
+2. 使用 " 更新 frontmatter" 命令添加 pandoc-crossref 设置
 3. 使用 Enhanced Export 或直接使用 pandoc 导出文档
 4. 插件的配置将在导出过程中应用
 
@@ -188,9 +206,9 @@ tableTitle: "表"
 
 ### 引用格式
 
-- **图片引用样式**：图片ID生成模板
-- **表格引用样式**：表格ID生成模板
-- **章节引用样式**：章节ID生成模板
+- **图片引用样式**：图片 ID 生成模板
+- **表格引用样式**：表格 ID 生成模板
+- **章节引用样式**：章节 ID 生成模板
 
 ### 自动化
 
@@ -213,14 +231,14 @@ tableTitle: "表"
 - `{filename}`：当前文件名（不含扩展名）
 - `{index}`：自增数字，避免重复
 - `{ext}`：文件扩展名
-- `{tag:n}`：随机n位字母数字字符串
+- `{tag:n}`：随机 n 位字母数字字符串
 
 ## 故障排除
 
 ### 常见问题
 
 1. **引用不工作**：确保安装并配置了 pandoc-crossref
-2. **图片未转换**：检查是否启用了"Markdown 链接样式"
+2. **图片未转换**：检查是否启用了 "Markdown 链接样式 "
 3. **自动引用未出现**：验证自动添加设置是否启用
 4. **导出问题**：确认 frontmatter 已更新为正确配置
 
@@ -245,6 +263,7 @@ tableTitle: "表"
 ## 支持
 
 如果您觉得这个插件有帮助，请考虑：
+
 - ⭐ 给仓库加星
 - 🐛 报告错误或问题
 - 💡 建议新功能
@@ -252,4 +271,4 @@ tableTitle: "表"
 
 ---
 
-*本插件旨在与 pandoc 和 pandoc-crossref 无缝协作，用于学术和专业文档准备。* 
+*本插件旨在与 pandoc 和 pandoc-crossref 无缝协作，用于学术和专业文档准备。*
