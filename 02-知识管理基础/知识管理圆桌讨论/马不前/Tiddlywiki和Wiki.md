@@ -2,8 +2,8 @@
 uid: 20230618215736
 title: Tiddlywiki 和 Wiki
 tags: []
-description: 提倡以wiki的形式来构建笔记系统 
-author: 机杼
+description: 提倡以wiki的形式来构建笔记系统
+author: 马不前
 type: basic
 draft: false
 editable: false
@@ -67,6 +67,6 @@ tiddlywiki 针对的应该是有大量笔记且一直持续有记录整理的人
 
 ## 与其他 wiki 软件比较
 
-标题虽然如此，但其实我并没有用过其他 wiki 软件。我也不知道如何比较，只能是留个坑在这里，表明仍然有其他 wiki 软件，具体或可参考这篇文章 [优秀开源wiki系统汇总](https://zhuanlan.zhihu.com/p/332458032)。
+标题虽然如此，但其实我并没有用过其他 wiki 软件。我也不知道如何比较，只能是留个坑在这里，表明仍然有其他 wiki 软件，具体或可参考这篇文章 [优秀开源 wiki 系统汇总](https://zhuanlan.zhihu.com/p/332458032)。
 
 我越想深入描述内心的想法，就越是难以描述清楚。上面的内容就因此变得更加驳杂。但这是旅程的开端，只能是在路上完成。
