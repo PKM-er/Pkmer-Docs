@@ -2,12 +2,12 @@
 uid: 20250720155215
 title: Periodic Notes：知行合一，从周期笔记开始
 tags: [obsidian, obsidian插件, periodic notes, pdca]
-description: 
+description: Periodic Notes：知行合一，从周期笔记开始
 author: 麦冬
 type: other
 draft: false
 editable: false
-modified: 20250720162503
+modified: 20250721233336
 ---
 
 # Periodic Notes：知行合一，从周期笔记开始
@@ -53,15 +53,15 @@ modified: 20250720162503
 
 插件配置
 
-![[PeriodicNotes插件配置.png]]
+![Pasted image 20250721225729](https://cdn.pkmer.cn/images/Pasted%20image%2020250721225729.png!pkmer)
 
 命令面板切换
 
-![[PeriodicNotes插件选择指令.png]]
+![Pasted image 20250721225724](https://cdn.pkmer.cn/images/Pasted%20image%2020250721225724.png!pkmer)
 
 最终存储的目录结构是这样的
 
-![[PeriodicNotes存储结果.png]]
+![Pasted image 20250721225717](https://cdn.pkmer.cn/images/Pasted%20image%2020250721225717.png!pkmer)
 
 ### 月/季/年记：P (Plan) - 战略目标的导航仪
 
@@ -92,4 +92,4 @@ modified: 20250720162503
 
 它将你的年度愿景 `(Plan)`，分解为每日的行动 `(Do)`，通过每周的复盘 `(Check)`，来驱动下一次的调整 `(Act)`。如此循环往复，螺旋上升。它让你从一个被动的 `许愿者`，变成一个主动的 `掌控者`。
 
-这篇文章侧重介绍 `Periodic Notes` 插件的核心价值。后面我会逐篇介绍日记，周记和月总结中的方法论，如何在 Obsidian 里面自动化生成周总结的工作流，分享如何使用 Template，QuickAdd,AI 来提升我们日常最高频工作流的处理效率。
+这篇文章侧重介绍 `Periodic Notes` 插件的核心价值。后面我会逐篇介绍日记，周记和月总结中的方法论，如何在 Obsidian 里面自动化生成周总结的工作流，分享如何使用 Template，QuickAdd，AI 来提升我们日常最高频工作流的处理效率。
