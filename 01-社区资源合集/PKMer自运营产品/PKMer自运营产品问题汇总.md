@@ -31,6 +31,8 @@ PKMer自运营产品名单如下：
 	- Media Extended 插件
 - Zotero 插件：
 	- Zotlit 插件
+- 仓库
+	- ZK
 
 Thino 插件相关请在PKMer检索「Thino FAQ」。
 
