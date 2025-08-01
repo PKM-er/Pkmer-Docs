@@ -7,7 +7,7 @@ author: 麦冬
 type: other
 draft: false
 editable: false
-modified: 20250801002932
+modified: 20250801093747
 ---
 
 # Obsidian 插件：Yearly Glance 周期性事件管理的最佳实践 - 完美支持农历
@@ -42,9 +42,9 @@ modified: 20250801002932
 
 ## 一图胜千言：快速预览
 
-这款由大神 `RavenHogWarts` 开发的插件，设计得实在是太通透了，交互 UI 都很赞。
+这款由大神 `Moyf` 和 `RavenHogWarts` 开发的插件，设计得实在是太通透了，交互 UI 都很赞。
 
-![[obsidian 日历最佳实践 - 完美支持农历-20250727094747.mp4]]
+<iframe width="100%" height="600px" src="https://player.bilibili.com/player.html?bvid=BV1RWhEzqE8m" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 **年历视图：一览无余**
 
