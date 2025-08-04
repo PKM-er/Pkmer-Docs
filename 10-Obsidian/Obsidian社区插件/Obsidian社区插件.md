@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20250728233844
+modified: 20250804120802
 ---
 
 # Obsidian 社区插件
@@ -197,6 +197,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-memos]]：提供一个简易轻巧的笔记和灵感收集方式
 - [[card-board]]：看板任务管理插件，不需要你特别维护看板数据，而是自动收集所有笔记中的任务
 - [[calendar]]：为 Obsidian 添加一个简单日历功能
+- [[yearly-glance]]：周期性事件管理的最佳实践 - 完美支持农历
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
 - [[obsidian-tasks-plugin]]：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
@@ -403,6 +404,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 ### 白板（canvas）和脑图
 
 - [[advanced-canvas]]：Advanced Canvas 目前最好的 Obsidian 白板增强
+- [[Simple-mind-map]]：值得常备的脑图插件
 - [[canvas-format-brush]]：为 Obsidian Canvas 添加格式刷功能
 - [[canvas-presentation]]：帮助你根据顺序演示白板中的卡片
 - [[optimize-canvas-connections]]：优化 Canvas 中的连接线
@@ -562,7 +564,6 @@ Obsidian 最具吸引力的特点之一，就是它拥有一个丰富的、逐�
 
 - [[vertical-tabs]]：Vertical Tabs 可能是目前功能最完善垂直标签管理
 - [[Vertical-Tabs-View]]：垂直选项卡管理
-- [[open-tab-settings]]：简单实用的 obsidian 标签默认行为的管理工具
 - [[open-editors]]：简单易用的多窗口多标签页管理器
 - [[cycle-through-panes]]：使用 `ctrl + Tab` 循环浏览你打开的 tab，就像在浏览器中浏览标签页一样
 - [[close-similar-tabs]]：自动关闭重复打开的标签页，防止标签栏拥挤和冲突
