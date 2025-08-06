@@ -7,7 +7,7 @@ author: OS
 type: awesome
 draft: false
 editable: false
-modified: 20250804120802
+modified: 20250806233403
 ---
 
 # Obsidian 社区插件
@@ -201,6 +201,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 - [[obsidian-projects]]：提供多视图的项目管理，包括 表格、看板、日历、画廊等多种视图样式，以适应不同组织需求
 - [[obsidian-reminder-plugin]]：为 Markdown 中的待办事项，添加提醒管理。
 - [[obsidian-tasks-plugin]]：Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
+- [[checkbox-autochecker-obsidian]]：嵌套任务关联工具，自动帮你完成子任务
 - [[obsidian-checklist-plugin]]：将所有笔记待办清单合并到一个视图中，你可以在这个视图种管理和完成相关的任务
 - [[progressbar]]：主要作用是将 progressbar 格式的代码块渲染为基于时间或手动的进度条
 - [[obsidian-task-progress-bar]]： 简洁易用的任务统计和完成查看工具
