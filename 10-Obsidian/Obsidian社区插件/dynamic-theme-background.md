@@ -22,7 +22,8 @@ modified: 20250812211915
 > - 自述文件：[README](https://github.com/sean2077/obsidian-dynamic-theme-background/blob/master/README.zh.md)
 
 
-
+> [!Warning]
+> 注意：目前插件还未被官方插件商城收录，还在审核中，提前尝鲜请去 github 自行下载试用。
 ## 介绍
 
 Obsidian Dynamic Theme Background 插件旨在为用户提供一个高度可定制且智能的壁纸管理解决方案。通过集成多个知名壁纸源（如 Unsplash、Pixabay、Pexels、Wallhaven）以及支持自定义 API，用户可以轻松构建个性化的壁纸库。插件支持本地与远程图片的混合管理，允许用户根据时间段自动切换壁纸，营造不同的工作与休息氛围。
