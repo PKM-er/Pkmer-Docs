@@ -1,5 +1,5 @@
 ---
-uid: 20250715005643424
+uid: 20250715005643425
 title: 'Obsidian 插件：Yandex Wiki Integration'
 tags: ['第三方工具集成', '效率工具', '学习与教育', 'obsidian插件']
 description: '与Yandex Wiki知识库集成'
