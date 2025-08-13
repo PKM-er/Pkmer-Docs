@@ -1,5 +1,5 @@
 ---
-uid: 20250727095428
+uid: 20250813083511
 title: Obsidian 插件：Yearly Glance 周期性事件管理的最佳实践 - 完美支持农历
 tags: ['日历与时间', '图表与可视化', '效率工具', '自定义命令', 'obsidian插件']
 description: 还在愁 Obsidian 怎么管理家人农历生日和各种纪念日吗？试遍了各种日历和任务插件总觉得差点意思？强烈推荐 yearly-glance 这款宝藏插件！它专为事件管理而生，拥有惊艳的年历视图和超棒的交互，最关键的是——完美支持农历。这可能就是你一直在找的那个能让 Obsidian 充满生活温度的神器。
@@ -7,7 +7,7 @@ author: 麦冬
 type: other
 draft: false
 editable: false
-modified: 20250801093747
+modified: 20250813083511
 ---
 
 # Obsidian 插件：Yearly Glance 周期性事件管理的最佳实践 - 完美支持农历
