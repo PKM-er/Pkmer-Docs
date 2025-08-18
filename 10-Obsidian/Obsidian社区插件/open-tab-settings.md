@@ -1,5 +1,5 @@
 ---
-uid: 20250524092606
+uid: 20250524092607
 title: Obsidian 插件：Open Tab Settings 简单实用的 obsidian 标签默认行为的管理工具
 tags: ['界面优化', '编辑工具', '效率工具', 'obsidian插件']
 description: 简单实用的 obsidian 标签默认行为的管理工具
