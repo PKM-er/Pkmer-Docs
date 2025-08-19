@@ -10,7 +10,7 @@ editable: false
 modified: 20250818214955
 ---
 
-# Obsidian Weekly 2025-08-10：Obsidian v1.9.10 内测版已发布
+# Obsidian Weekly 2025-08-17：Obsidian v1.9.10 内测版已发布
 
 > [!Abstract]
 > **统计时间**：2025-08-03 21:00 ~ 2025-08-17 21:00
