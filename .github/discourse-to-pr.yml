@@ -36,7 +36,8 @@ jobs:
           CLEAN_SLUG=$(echo "$TOPIC_SLUG" | sed 's/[^a-zA-Z0-9-]/-/g')
           FILENAME="${CLEAN_SLUG}_${POST_ID}.md"
         fi
-        
+        # 标签数组转字符串
+        TAGS_STRING=$(echo '${{ toJSON(github.event.client_payload.tags) }}' | jq -r 'join(",")')
         # 设置文件路径（可以根据需要修改）
         FILEPATH="/PKMer论坛/${FILENAME}"
         
@@ -46,28 +47,25 @@ jobs:
         # 创建 Markdown 文件内容
         cat > "$FILEPATH" << 'EOF'
         ---
-        uid: ${{ github.event.client_payload.post_id }}
-        title: ${{ github.event.client_payload.topic_title }}
-        tags: [ ${{ github.event.client_payload.tags }}]
-        description: ${{ github.event.client_payload.topic_title }}
-        author: ${{ github.event.client_payload.username }}
+        uid: ${POST_ID}
+        title: ${{ github.event.client_payload.title }}
+        tags: [${TAGS_STRING}]
+        description: ${{ github.event.client_payload.title }}
+        author: ${{ github.event.client_payload.author }}
         type: other
         draft: false
         editable: false
-        modified: ${{ github.event.client_payload.updated_at }}
-        created: ${{ github.event.client_payload.created_at }}
-        forum_url: ${{ github.event.client_payload.discourse_url }}
-        topic_id: ${{ github.event.client_payload.topic_id }}
+        modified: ${{ github.event.client_payload.timestamp }}
+        forum_url: ${{ github.event.client_payload.source_url }}
+        topic_id: ${TOPIC_ID}
         ---
         
-        # ${{ github.event.client_payload.topic_title }}
+        # ${{ github.event.client_payload.title }}
         
-        > 本文档从 PKMer 论坛自动导入
-        > 
-        > - 作者: ${{ github.event.client_payload.username }}
-        > - 发布时间: ${{ github.event.client_payload.created_at }}
-        > - 原始链接: ${{ github.event.client_payload.discourse_url }}
-        > - 帖子编号: #${{ github.event.client_payload.post_number }}
+        > 本文档由 PKMer 论坛自动导入  
+        > - 作者: ${{ github.event.client_payload.author }}  
+        > - 原始链接: ${{ github.event.client_payload.source_url }}  
+        > - 帖子编号: #${POST_ID}
         
         ---
         
@@ -83,27 +81,25 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: |
-          添加 PKMer论坛 帖子: ${{ github.event.client_payload.topic_title }}
+          添加 PKMer论坛 帖子: ${{ github.event.client_payload.title }}
           
           - Post ID: ${{ github.event.client_payload.post_id }}
-          - Author: ${{ github.event.client_payload.username }}
-          - Source: ${{ github.event.client_payload.discourse_url }}
+          - Author: ${{ github.event.client_payload.author  }}
+          - Source: ${{ github.event.client_payload.source_url }}
         branch: forum-post-${{ github.event.client_payload.post_id }}
         delete-branch: true
         title: |
-          ${{ github.event.client_payload.topic_title }}
+          ${{ github.event.client_payload.title }}
         body: |
           ## 📝 PKMer论坛 帖子导入
           
           本 PR 自动从  PKMer 论坛导入帖子内容。
           
           ### 帖子信息
-          - **标题**: ${{ github.event.client_payload.topic_title }}
-          - **作者**: @${{ github.event.client_payload.username }}
+          - **标题**: ${{ github.event.client_payload.title }}
+          - **作者**: @${{ github.event.client_payload.author }}
           - **帖子 ID**: ${{ github.event.client_payload.post_id }}
-          - **Topic ID**: ${{ github.event.client_payload.topic_id }}
-          - **创建时间**: ${{ github.event.client_payload.created_at }}
-          - **原始链接**: ${{ github.event.client_payload.discourse_url }}
+          - **原始链接**: ${{ github.event.client_payload.source_url }}
           
           ### 文件路径
           - 📄 `${{ steps.create_content.outputs.filepath }}`
@@ -121,7 +117,7 @@ jobs:
       run: |
         echo "✅ PR 创建成功！"
         echo "Post ID: ${{ github.event.client_payload.post_id }}"
-        echo "Topic: ${{ github.event.client_payload.topic_title }}"
+        echo "Topic: ${{ github.event.client_payload.title }}"
         
     - name: Handle Failure
       if: failure()
