@@ -5,11 +5,11 @@ on:
     types: [PKMer_forum_post]
 
 jobs:
-  create-pr:
+  commit-to-main:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout repository
+    - name: Checkout main branch
       uses: actions/checkout@v3
       with:
         token: ${{ secrets.PAT_TOKEN }}
@@ -18,7 +18,22 @@ jobs:
       run: |
         git config --global user.name "pkmer Bot"
         git config --global user.email "pkmer.cn"
-    
+    - name: 1. Prepare file details and check for updates
+      id: prepare_file
+      env:
+        POST_TITLE: ${{ github.event.client_payload.title }}
+        TOPIC_ID: ${{ github.event.client_payload.topic_id }}
+      run: |
+        CLEAN_TITLE=$(echo "$POST_TITLE" | iconv -t ascii//TRANSLIT | sed -r 's/[^a-zA-Z0-9]+/-/g' | sed -r 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]')
+        FILENAME="${TOPIC_ID}-${CLEAN_TITLE}.md"
+        FILEPATH="PKMer论坛/${FILENAME}"
+        
+        echo "filepath=${FILEPATH}" >> $GITHUB_OUTPUT
+        if [ -f "$FILEPATH" ]; then
+          echo "is_update=true" >> $GITHUB_OUTPUT
+        else
+          echo "is_update=false" >> $GITHUB_OUTPUT
+        fi
     - name: Create content from  PKMer Forum post
       id: create_content
       env:
@@ -80,49 +95,56 @@ jobs:
         echo "filepath=$FILEPATH" >> $GITHUB_OUTPUT
         echo "filename=$FILENAME" >> $GITHUB_OUTPUT
         
-    - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v5
-      with:
-        token: ${{ secrets.PAT_TOKEN }}
-        commit-message: |
-          添加 PKMer论坛 帖子: ${{ github.event.client_payload.title }}
+    # - name: Create Pull Request
+    #   uses: peter-evans/create-pull-request@v5
+    #   with:
+    #     token: ${{ secrets.PAT_TOKEN }}
+    #     commit-message: |
+    #       添加 PKMer论坛 帖子: ${{ github.event.client_payload.title }}
           
-          - Post ID: ${{ github.event.client_payload.post_id }}
-          - Author: ${{ github.event.client_payload.author  }}
-          - Source: https://forum.pkmer.net${{ github.event.client_payload.source_url }}
-        branch: forum-post-${{ github.event.client_payload.post_id }}
-        delete-branch: true
-        title: |
-          ${{ github.event.client_payload.title }}
-        body: |
-          ## 📝 PKMer论坛 帖子导入
+    #       - Post ID: ${{ github.event.client_payload.post_id }}
+    #       - Author: ${{ github.event.client_payload.author  }}
+    #       - Source: https://forum.pkmer.net${{ github.event.client_payload.source_url }}
+    #     branch: forum-post-${{ github.event.client_payload.post_id }}
+    #     delete-branch: true
+    #     title: |
+    #       ${{ github.event.client_payload.title }}
+    #     body: |
+    #       ## 📝 PKMer论坛 帖子导入
           
-          本 PR 自动从  PKMer 论坛导入帖子内容。
+    #       本 PR 自动从  PKMer 论坛导入帖子内容。
           
-          ### 帖子信息
-          - **标题**: ${{ github.event.client_payload.title }}
-          - **作者**: @${{ github.event.client_payload.author }}
-          - **帖子 ID**: ${{ github.event.client_payload.post_id }}
-          - **原始链接**: https://forum.pkmer.net${{ github.event.client_payload.source_url }}
+    #       ### 帖子信息
+    #       - **标题**: ${{ github.event.client_payload.title }}
+    #       - **作者**: @${{ github.event.client_payload.author }}
+    #       - **帖子 ID**: ${{ github.event.client_payload.post_id }}
+    #       - **原始链接**: https://forum.pkmer.net${{ github.event.client_payload.source_url }}
           
-          ### 文件路径
-          - 📄 `${{ steps.create_content.outputs.filepath }}`
+    #       ### 文件路径
+    #       - 📄 `${{ steps.create_content.outputs.filepath }}`
           
           
       
-        labels: |
-          auto-generated
-          forum-post
-          
-    - name: PR Created Successfully
-      if: success()
+    #     labels: |
+    #       auto-generated
+    #       forum-post
+    - name: 3. Commit and Push to main branch
       run: |
-        echo "✅ PR 创建成功！"
-        echo "Post ID: ${{ github.event.client_payload.post_id }}"
-        echo "Topic: ${{ github.event.client_payload.title }}"
+        # 把新创建或修改的文件添加到暂存区
+        git add '${{ steps.prepare_file.outputs.filepath }}'
         
-    - name: Handle Failure
-      if: failure()
-      run: |
-        echo "❌ PR 创建失败"
-        echo "Error details available in workflow logs"
+        # 检查是否有文件变更。如果没有变更（比如重复触发），就退出
+        if git diff --staged --quiet; then
+          echo "✅ No changes to commit. Working tree clean."
+          exit 0
+        fi
+        # 根据是更新还是新建，生成不同的 commit message
+        COMMIT_MESSAGE="${{ steps.prepare_file.outputs.is_update == 'true' && 'docs(forum): 更新帖子' || 'docs(forum): 添加新帖' }} L${{ github.event.client_payload.topic_id }}
+        - 标题: ${{ github.event.client_payload.title }}"
+        # 执行提交
+        git commit -m "$COMMIT_MESSAGE"
+        
+        # 推送到远程 main 分支
+        echo "🚀 Pushing changes to main branch..."
+        git push origin main       
+
