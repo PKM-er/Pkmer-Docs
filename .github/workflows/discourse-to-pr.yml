@@ -21,55 +21,56 @@ jobs:
     
     - name: Create content from  PKMer Forum post
       id: create_content
+      env:
+        POST_AUTHOR: ${{ github.event.client_payload.author }}
+        POST_TITLE: ${{ github.event.client_payload.title }}
+        POST_TAGS_JSON: ${{ toJSON(github.event.client_payload.tags) }}
+        POST_TIMESTAMP: ${{ github.event.client_payload.timestamp }}
+        POST_SOURCE_URL: ${{ github.event.client_payload.source_url }}
+        POST_RAW_CONTENT: ${{ github.event.client_payload.raw }}
       run: |
         # 创建文件路径和内容
         POST_ID="${{ github.event.client_payload.post_id }}"
         TOPIC_ID="${{ github.event.client_payload.topic_id }}"
         TIMESTAMP=$(date +%Y%m%d_%H%M%S)
         
-        # 生成文件名（使用 topic_slug 或 topic_id）
-        TOPIC_SLUG="${{ github.event.client_payload.topic_slug }}"
-        if [ -z "$TOPIC_SLUG" ]; then
-          FILENAME="${TOPIC_ID}_${POST_ID}.md"
-        else
-          # 清理 slug，只保留字母数字和连字符
-          CLEAN_SLUG=$(echo "$TOPIC_SLUG" | sed 's/[^a-zA-Z0-9-]/-/g')
-          FILENAME="${CLEAN_SLUG}_${POST_ID}.md"
-        fi
+        # 清理标题以用作文件名的一部分，更友好
+        CLEAN_TITLE=$(echo "$POST_TITLE" | tr -d '[:punct:]' | tr ' ' '-')
+        FILENAME="${TOPIC_ID}-${CLEAN_TITLE}.md"
         # 标签数组转字符串
-        TAGS_STRING=$(echo '${{ toJSON(github.event.client_payload.tags) }}' | jq -r 'join(",")')
+        TAGS_STRING=$(echo "$POST_TAGS_JSON" | jq -r 'join(", ")')
         # 设置文件路径（可以根据需要修改）
-        FILEPATH="/PKMer论坛/${FILENAME}"
+        FILEPATH="PKMer论坛/${FILENAME}"
         
         # 创建目录
         mkdir -p $(dirname "$FILEPATH")
         
         # 创建 Markdown 文件内容
-        cat > "$FILEPATH" << 'EOF'
+        cat > "$FILEPATH" << EOF
         ---
         uid: ${POST_ID}
-        title: ${{ github.event.client_payload.title }}
+        title: ${POST_TITLE}
         tags: [${TAGS_STRING}]
-        description: ${{ github.event.client_payload.title }}
-        author: ${{ github.event.client_payload.author }}
+        description: ${POST_TITLE}
+        author: ${POST_AUTHOR}
         type: other
         draft: false
         editable: false
-        modified: ${{ github.event.client_payload.timestamp }}
-        forum_url: ${{ github.event.client_payload.source_url }}
+        modified: ${POST_TIMESTAMP}
+        forum_url: ${POST_SOURCE_URL}
         topic_id: ${TOPIC_ID}
         ---
         
-        # ${{ github.event.client_payload.title }}
+        # ${POST_TITLE}
         
         > 本文档由 PKMer 论坛自动导入  
-        > - 作者: ${{ github.event.client_payload.author }}  
-        > - 原始链接: ${{ github.event.client_payload.source_url }}  
+        > - 作者: ${POST_AUTHOR}
+        > - 原始链接: <${POST_SOURCE_URL}>  
         > - 帖子编号: #${POST_ID}
         
         ---
         
-        ${{ github.event.client_payload.raw }}
+        ${POST_RAW_CONTENT}
         
         EOF
         
