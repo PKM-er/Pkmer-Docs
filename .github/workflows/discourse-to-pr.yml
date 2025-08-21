@@ -22,6 +22,7 @@ jobs:
     - name: Create content from  PKMer Forum post
       id: create_content
       env:
+        FORUM_BASE_URL: "https://forum.pkmer.net"
         POST_AUTHOR: ${{ github.event.client_payload.author }}
         POST_TITLE: ${{ github.event.client_payload.title }}
         POST_TAGS_JSON: ${{ toJSON(github.event.client_payload.tags) }}
@@ -37,8 +38,12 @@ jobs:
         # 清理标题以用作文件名的一部分，更友好
         CLEAN_TITLE=$(echo "$POST_TITLE" | tr -d '[:punct:]' | tr ' ' '-')
         FILENAME="${TOPIC_ID}-${CLEAN_TITLE}.md"
+        FULL_FORUM_URL="$POST_SOURCE_URL"
+        if [[ ! "$POST_SOURCE_URL" == http* ]]; then
+          FULL_FORUM_URL="${FORUM_BASE_URL}${POST_SOURCE_URL}"
+        fi
         # 标签数组转字符串
-        TAGS_STRING=$(echo "$POST_TAGS_JSON" | jq -r 'join(", ")')
+        TAGS_STRING=$(echo "$POST_TAGS_JSON" | jq -r 'map(select(. != "精华")) | join(", ")')
         # 设置文件路径（可以根据需要修改）
         FILEPATH="PKMer论坛/${FILENAME}"
         
@@ -57,16 +62,14 @@ jobs:
         draft: false
         editable: false
         modified: ${POST_TIMESTAMP}
-        forum_url: ${POST_SOURCE_URL}
-        topic_id: ${TOPIC_ID}
+        forum_url: ${FULL_FORUM_URL}
         ---
         
         # ${POST_TITLE}
         
-        > 本文档由 PKMer 论坛自动导入  
+        > [!INFO] 本文档由 PKMer 论坛导入  
         > - 作者: ${POST_AUTHOR}
-        > - 原始链接: <${POST_SOURCE_URL}>  
-        > - 帖子编号: #${POST_ID}
+        > - 原始链接: [${POST_TITLE}](${FULL_FORUM_URL})
         
         ---
         
@@ -109,9 +112,7 @@ jobs:
       
         labels: |
           auto-generated
-          documentation
-        assignees: |
-          ${{ github.repository_owner }}
+          forum-post
           
     - name: PR Created Successfully
       if: success()
