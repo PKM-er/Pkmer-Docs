@@ -1,3 +1,15 @@
+---
+uid: 2025082020015046
+title: 'Obsidian 插件：memory game'
+tags: ['游戏', '注意力', 'obsidian插件']
+description: 'Obsidian 插件：memory game 注意力训练小游戏插件'
+author: qingxuanlin-s
+type: auto
+draft: false
+editable: false
+modified: 20240101000000
+---
+
 # Obsidian 插件：memory game 注意力训练小游戏插件
 
 ## 概述
