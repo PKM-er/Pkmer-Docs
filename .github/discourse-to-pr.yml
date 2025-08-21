@@ -1,0 +1,130 @@
+name: Create PR from PKMer Forum Post
+
+on:
+  repository_dispatch:
+    types: [PKMer_forum_post]
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Git
+      run: |
+        git config --global user.name "pkmer Bot"
+        git config --global user.email "pkmer.cn"
+    
+    - name: Create content from  PKMer Forum post
+      id: create_content
+      run: |
+        # 创建文件路径和内容
+        POST_ID="${{ github.event.client_payload.post_id }}"
+        TOPIC_ID="${{ github.event.client_payload.topic_id }}"
+        TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+        
+        # 生成文件名（使用 topic_slug 或 topic_id）
+        TOPIC_SLUG="${{ github.event.client_payload.topic_slug }}"
+        if [ -z "$TOPIC_SLUG" ]; then
+          FILENAME="${TOPIC_ID}_${POST_ID}.md"
+        else
+          # 清理 slug，只保留字母数字和连字符
+          CLEAN_SLUG=$(echo "$TOPIC_SLUG" | sed 's/[^a-zA-Z0-9-]/-/g')
+          FILENAME="${CLEAN_SLUG}_${POST_ID}.md"
+        fi
+        
+        # 设置文件路径（可以根据需要修改）
+        FILEPATH="/PKMer论坛/${FILENAME}"
+        
+        # 创建目录
+        mkdir -p $(dirname "$FILEPATH")
+        
+        # 创建 Markdown 文件内容
+        cat > "$FILEPATH" << 'EOF'
+        ---
+        uid: ${{ github.event.client_payload.post_id }}
+        title: ${{ github.event.client_payload.topic_title }}
+        tags: [ ${{ github.event.client_payload.tags }}]
+        description: ${{ github.event.client_payload.topic_title }}
+        author: ${{ github.event.client_payload.username }}
+        type: other
+        draft: false
+        editable: false
+        modified: ${{ github.event.client_payload.updated_at }}
+        created: ${{ github.event.client_payload.created_at }}
+        forum_url: ${{ github.event.client_payload.discourse_url }}
+        topic_id: ${{ github.event.client_payload.topic_id }}
+        ---
+        
+        # ${{ github.event.client_payload.topic_title }}
+        
+        > 本文档从 PKMer 论坛自动导入
+        > 
+        > - 作者: ${{ github.event.client_payload.username }}
+        > - 发布时间: ${{ github.event.client_payload.created_at }}
+        > - 原始链接: ${{ github.event.client_payload.discourse_url }}
+        > - 帖子编号: #${{ github.event.client_payload.post_number }}
+        
+        ---
+        
+        ${{ github.event.client_payload.raw }}
+        
+        EOF
+        
+        echo "filepath=$FILEPATH" >> $GITHUB_OUTPUT
+        echo "filename=$FILENAME" >> $GITHUB_OUTPUT
+        
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: |
+          添加 PKMer论坛 帖子: ${{ github.event.client_payload.topic_title }}
+          
+          - Post ID: ${{ github.event.client_payload.post_id }}
+          - Author: ${{ github.event.client_payload.username }}
+          - Source: ${{ github.event.client_payload.discourse_url }}
+        branch: forum-post-${{ github.event.client_payload.post_id }}
+        delete-branch: true
+        title: |
+          ${{ github.event.client_payload.topic_title }}
+        body: |
+          ## 📝 PKMer论坛 帖子导入
+          
+          本 PR 自动从  PKMer 论坛导入帖子内容。
+          
+          ### 帖子信息
+          - **标题**: ${{ github.event.client_payload.topic_title }}
+          - **作者**: @${{ github.event.client_payload.username }}
+          - **帖子 ID**: ${{ github.event.client_payload.post_id }}
+          - **Topic ID**: ${{ github.event.client_payload.topic_id }}
+          - **创建时间**: ${{ github.event.client_payload.created_at }}
+          - **原始链接**: ${{ github.event.client_payload.discourse_url }}
+          
+          ### 文件路径
+          - 📄 `${{ steps.create_content.outputs.filepath }}`
+          
+          
+      
+        labels: |
+          auto-generated
+          documentation
+        assignees: |
+          ${{ github.repository_owner }}
+          
+    - name: PR Created Successfully
+      if: success()
+      run: |
+        echo "✅ PR 创建成功！"
+        echo "Post ID: ${{ github.event.client_payload.post_id }}"
+        echo "Topic: ${{ github.event.client_payload.topic_title }}"
+        
+    - name: Handle Failure
+      if: failure()
+      run: |
+        echo "❌ PR 创建失败"
+        echo "Error details available in workflow logs"
