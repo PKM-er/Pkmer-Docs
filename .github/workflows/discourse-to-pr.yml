@@ -80,13 +80,13 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GH_PAT }}
         commit-message: |
           添加 PKMer论坛 帖子: ${{ github.event.client_payload.title }}
           
           - Post ID: ${{ github.event.client_payload.post_id }}
           - Author: ${{ github.event.client_payload.author  }}
-          - Source: ${{ github.event.client_payload.source_url }}
+          - Source: https://forum.pkmer.net${{ github.event.client_payload.source_url }}
         branch: forum-post-${{ github.event.client_payload.post_id }}
         delete-branch: true
         title: |
@@ -100,7 +100,7 @@ jobs:
           - **标题**: ${{ github.event.client_payload.title }}
           - **作者**: @${{ github.event.client_payload.author }}
           - **帖子 ID**: ${{ github.event.client_payload.post_id }}
-          - **原始链接**: ${{ github.event.client_payload.source_url }}
+          - **原始链接**: https://forum.pkmer.net${{ github.event.client_payload.source_url }}
           
           ### 文件路径
           - 📄 `${{ steps.create_content.outputs.filepath }}`
