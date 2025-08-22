@@ -24,7 +24,7 @@ jobs:
         POST_TITLE: ${{ github.event.client_payload.title }}
         TOPIC_ID: ${{ github.event.client_payload.topic_id }}
       run: |
-        CLEAN_TITLE=$(echo "$POST_TITLE" | iconv -t ascii//TRANSLIT | sed -r 's/[^a-zA-Z0-9]+/-/g' | sed -r 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]')
+        CLEAN_TITLE=$(echo "$POST_TITLE" | tr -d '[:punct:]' | tr ' ' '-')
         FILENAME="${TOPIC_ID}-${CLEAN_TITLE}.md"
         FILEPATH="PKMer论坛/${FILENAME}"
         
@@ -34,7 +34,7 @@ jobs:
         else
           echo "is_update=false" >> $GITHUB_OUTPUT
         fi
-    - name: Create content from  PKMer Forum post
+    - name: 2. Create content from  PKMer Forum post
       id: create_content
       env:
         FORUM_BASE_URL: "https://forum.pkmer.net"
@@ -44,23 +44,19 @@ jobs:
         POST_TIMESTAMP: ${{ github.event.client_payload.timestamp }}
         POST_SOURCE_URL: ${{ github.event.client_payload.source_url }}
         POST_RAW_CONTENT: ${{ github.event.client_payload.raw }}
+        FILE_PATH: ${{ steps.prepare_file.outputs.filepath }}
       run: |
         # 创建文件路径和内容
         POST_ID="${{ github.event.client_payload.post_id }}"
         TOPIC_ID="${{ github.event.client_payload.topic_id }}"
         TIMESTAMP=$(date +%Y%m%d_%H%M%S)
-        
-        # 清理标题以用作文件名的一部分，更友好
-        CLEAN_TITLE=$(echo "$POST_TITLE" | tr -d '[:punct:]' | tr ' ' '-')
-        FILENAME="${TOPIC_ID}-${CLEAN_TITLE}.md"
         FULL_FORUM_URL="$POST_SOURCE_URL"
         if [[ ! "$POST_SOURCE_URL" == http* ]]; then
           FULL_FORUM_URL="${FORUM_BASE_URL}${POST_SOURCE_URL}"
         fi
         # 标签数组转字符串
         TAGS_STRING=$(echo "$POST_TAGS_JSON" | jq -r 'map(select(. != "精华")) | join(", ")')
-        # 设置文件路径（可以根据需要修改）
-        FILEPATH="PKMer论坛/${FILENAME}"
+       
         
         # 创建目录
         mkdir -p $(dirname "$FILEPATH")
@@ -92,8 +88,6 @@ jobs:
         
         EOF
         
-        echo "filepath=$FILEPATH" >> $GITHUB_OUTPUT
-        echo "filename=$FILENAME" >> $GITHUB_OUTPUT
         
     # - name: Create Pull Request
     #   uses: peter-evans/create-pull-request@v5
