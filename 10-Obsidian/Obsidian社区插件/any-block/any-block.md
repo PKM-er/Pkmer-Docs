@@ -7,8 +7,8 @@ author: LincZero
 type: other
 draft: false
 editable: false
-modified: 20240429183114
-aliases: Obsidian 插件：Any Block 一个简易而又强大的块编辑器
+modified: 20250824162725
+aliases: [Obsidian 插件：Any Block 一个简易而又强大的块编辑器]
 ---
 
 # Obsidian 插件：AnyBlock 一个简易而又强大的块编辑器
@@ -21,12 +21,12 @@ aliases: Obsidian 插件：Any Block 一个简易而又强大的块编辑器
 > - 插件项目地址：[点我跳转](https://github.com/LincZero/obsidian-any-block)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?any-block)
 
-## AnyBlock是什么?
+## AnyBlock 是什么?
 
-- 一个高通用markdown扩展的解析和渲染的模块/插件。
-  (**Obsidian插件, Markdown-it插件, Vuepress插件, CodeMirror插件, 在线App**)
+- 一个高通用 markdown 扩展的解析和渲染的模块/插件。
+  (**Obsidian 插件, Markdown-it 插件, Vuepress 插件, CodeMirror 插件, 在线 App**)
 - 功能: 你可以通过许多方式灵活地创建一个“块”。它还提供了许多有用的功能，如“列表转表格”等
-- 功能 (详细): 你可以通过列表/标题/表格/引用块/代码块/Markdown-it的首尾`:::`等方式来快速选择一个片段，并将该片段转换为表格/标签页/目录/卡片/分栏/时间线/思维导图/plantuml图表/节点图等结果
+- 功能 (详细): 你可以通过列表/标题/表格/引用块/代码块/Markdown-it 的首尾 `:::` 等方式来快速选择一个片段，并将该片段转换为表格/标签页/目录/卡片/分栏/时间线/思维导图/plantuml 图表/节点图等结果
 
 ## 文档、相关链接
 
@@ -39,7 +39,7 @@ aliases: Obsidian 插件：Any Block 一个简易而又强大的块编辑器
   - [在Vuepress/Markdown-it中安装和使用](https://lincdocs.github.io/AnyBlock/docs/en/04.%20InstallAndUse_VuePress.html)
 - 备用网站链接：如果网站失效，则将网站链接部分的 `linczero.github.io` 替换成 `linczero-github-io.pages.dev` 就可以了
 	  （**本文的默认网站链接指向 github.io，如果国内有不能访问的朋友，那么大概率需要做这一步**）
-- [体积超小的min版anyblock](https://github.com/any-block/obsidian-any-block-min)，你可以手动下载，或使用BRAT插件自动下载/更新该obsidian插件
+- [体积超小的min版anyblock](https://github.com/any-block/obsidian-any-block-min)，你可以手动下载，或使用 BRAT 插件自动下载/更新该 obsidian 插件
 
 ## 亮点
 
@@ -52,8 +52,8 @@ aliases: Obsidian 插件：Any Block 一个简易而又强大的块编辑器
   - 选择器 (灵活)：选择范围灵活，六种选择方式，简单易用
   - 处理器 (强大)：丰富多样、功能强大、扩展性强
 - 多平台, 高通用
-  - 可用于: **Obsidian插件, Markdown-it插件, 在线App, Vuepress插件**
-  - 支持markdown-it解析的博客，如vuepress/vitepress等
+  - 可用于: **Obsidian 插件, Markdown-it 插件, 在线 App, Vuepress 插件**
+  - 支持 markdown-it 解析的博客，如 vuepress/vitepress 等
 
 ## 效果展示、语法
 
@@ -69,13 +69,13 @@ aliases: Obsidian 插件：Any Block 一个简易而又强大的块编辑器
 
 优化列表
 
-本质是 "列表格" 的基础上增加仿列表样式
+本质是 " 列表格 " 的基础上增加仿列表样式
 
 ![](https://cdn.pkmer.cn/images/202508241625506.png!pkmer)
 
 目录树
 
-本质是"列表格"的基础上增加仿目录样式
+本质是 " 列表格 " 的基础上增加仿目录样式
 
 ![](https://cdn.pkmer.cn/images/202508241625508.png!pkmer)
 
@@ -95,7 +95,7 @@ WBS (Work Breakdown Structure, 工作分解结构)
 
 ![](https://cdn.pkmer.cn/images/202508241625512.png!pkmer)
 
-mermaid流程图
+mermaid 流程图
 
 ![](https://cdn.pkmer.cn/images/202508241625513.png!pkmer)
 
@@ -103,7 +103,7 @@ plantuml 思维导图
 
 ![](https://cdn.pkmer.cn/images/202508241625514.png!pkmer)
 
-转节点树图，AnyBlock版思维导图
+转节点树图，AnyBlock 版思维导图
 
 ![](https://cdn.pkmer.cn/images/202508241625515.png!pkmer)
 
@@ -115,7 +115,7 @@ mermaid 思维导图
 
 ![](https://cdn.pkmer.cn/images/202508241625517.png!pkmer)
 
-上面只是插件的**其中的几种**处理器。实际上**还支持非常多的处理器和功能**，处理器间还能随意串行组合，并且除了列表选择器外还支持标题、代码块、引用块等诸多选择器。更多的功能参见[更多文档](https://linczero.github.io/MdNote_Public/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/AnyBlock/)
+上面只是插件的**其中的几种**处理器。实际上**还支持非常多的处理器和功能**，处理器间还能随意串行组合，并且除了列表选择器外还支持标题、代码块、引用块等诸多选择器。更多的功能参见 [更多文档](https://linczero.github.io/MdNote_Public/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/AnyBlock/)
 
 ## 旧效果展示
 
