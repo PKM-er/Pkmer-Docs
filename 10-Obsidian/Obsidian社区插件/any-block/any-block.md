@@ -59,61 +59,61 @@ aliases: Obsidian 插件：Any Block 一个简易而又强大的块编辑器
 
 `多叉表格`/`跨行表格`
 
-![](./docs/assets/list2table3.png)
+![](https://cdn.pkmer.cn/images/202508241625503.png!pkmer)
 
-![](./docs/assets/list2table32.png)
+![](https://cdn.pkmer.cn/images/202508241625504.png!pkmer)
 
 `列表格`/`树型表格`
 
-![](./docs/assets/list2lt3.png)
+![](https://cdn.pkmer.cn/images/202508241625505.png!pkmer)
 
 优化列表
 
 本质是 "列表格" 的基础上增加仿列表样式
 
-![](./docs/assets/listtable_likelist.png)
+![](https://cdn.pkmer.cn/images/202508241625506.png!pkmer)
 
 目录树
 
 本质是"列表格"的基础上增加仿目录样式
 
-![](./docs/assets/list2dt3.png)
+![](https://cdn.pkmer.cn/images/202508241625508.png!pkmer)
 
 ascii 目录树
 
-![](./docs/assets/list2astreeH3.png)
+![](https://cdn.pkmer.cn/images/202508241625509.png!pkmer)
 
 WBS (Work Breakdown Structure, 工作分解结构)
 
-![](./docs/assets/list2pumlWBS3.png)
+![](https://cdn.pkmer.cn/images/202508241625510.png!pkmer)
 
 时间线
 
-![](./docs/assets/list2timeline3.png)
+![](https://cdn.pkmer.cn/images/202508241625511.png!pkmer)
 
 标签页和卡片
 
-![](./docs/assets/tabs-and-card3.png)
+![](https://cdn.pkmer.cn/images/202508241625512.png!pkmer)
 
 mermaid流程图
 
-![](./docs/assets/list2mermaid3.png)
+![](https://cdn.pkmer.cn/images/202508241625513.png!pkmer)
 
 plantuml 思维导图
 
-![](./docs/assets/list2pumlMindmap3.png)
+![](https://cdn.pkmer.cn/images/202508241625514.png!pkmer)
 
 转节点树图，AnyBlock版思维导图
 
-![](./docs/assets/list2node.png)
+![](https://cdn.pkmer.cn/images/202508241625515.png!pkmer)
 
 markmap 思维导图
 
-![](./docs/assets/list2markmap3.png)
+![](https://cdn.pkmer.cn/images/202508241625516.png!pkmer)
 
 mermaid 思维导图
 
-![](./docs/assets/list2mindmap3.png)
+![](https://cdn.pkmer.cn/images/202508241625517.png!pkmer)
 
 上面只是插件的**其中的几种**处理器。实际上**还支持非常多的处理器和功能**，处理器间还能随意串行组合，并且除了列表选择器外还支持标题、代码块、引用块等诸多选择器。更多的功能参见[更多文档](https://linczero.github.io/MdNote_Public/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/AnyBlock/)
 
