@@ -3,7 +3,7 @@ uid: 20230829130235
 title: Obsidian 插件：Multi Tag 批量向笔记中添加标签
 tags: [Obsidian, 插件, 批量处理, 添加标签]
 description: Obsidian 插件：Multi Tag 批量向笔记中添加标签
-author: OS
+author: OS,淡水鱼
 type: other
 draft: false
 editable: false
@@ -36,4 +36,4 @@ modified: 20230829130844
 
 ### 注意
 
-这个标签增加目前版本是以 `#标签` 的形式追加到笔记的末尾，并不是添加到 frontmatter 区域。如需添加标签到 frontmatter 区域（文件属性），可使用同开发者开发的另一新插件[Multi Properties]( https://pkmer.cn/show/2024052909165217 )
+这个标签增加目前版本是以 `#标签` 的形式追加到笔记的末尾，并不是添加到 frontmatter 区域。如需批量**增删**标签到 frontmatter 区域（文件属性），可使用同开发者开发的另一款插件[Multi Properties]( https://pkmer.cn/show/2024052909165217 )。
