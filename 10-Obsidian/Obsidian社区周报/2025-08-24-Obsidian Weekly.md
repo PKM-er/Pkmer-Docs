@@ -1,16 +1,16 @@
 ---
 uid: 20250826001057
-title: Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.10！
+title: Obsidian Weekly 2025-08-24：千呼万唤始出来！搜索性能优化！Obsidian 公共版现已更新至 v1.9.12
 tags: [Weekly, Obsidian]
-description: Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.10！
+description: Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.12！
 author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20250826001627
+modified: 20250826234422
 ---
 
-# Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.10
+# Obsidian Weekly 2025-08-24：千呼万唤始出来！搜索性能优化！Obsidian 公共版现已更新至 v1.9.12
 
 > [!Abstract]
 > **统计时间**：2025-08-17 21:00 ~ 2025-08-24 21:00
@@ -18,7 +18,14 @@ modified: 20250826001627
 
 ## 官方资讯
 
-### Obsidian v1.9.10 公共版现已发布
+### Obsidian v1.9.12 公共版现已发布
+
+#### V1.9.12 桌面版
+
+- **官方同步升级**：新增迁移助手，可一键升级加密（AES-SIV 强化文件名安全），未来支持切换区域。
+- **性能优化**：搜索速度大幅提升。
+- **插件修复**：自动禁用/提示更新问题插件（如 Commander v0.5.4、Image Toolkit）。
+- **细节修复**：标签搜索、属性菜单、视图重命名等 Bug 已修。修复 `file.tags.contains()` 找不到带有父标签的文件（例如 在查找“a”时应匹配 `a/b`）
 
 #### V1.9.10 桌面版
 
