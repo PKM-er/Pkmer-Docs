@@ -1,8 +1,8 @@
 ---
 uid: 20250826001057
-title: Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.11！
+title: Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.10！
 tags: [Weekly, Obsidian]
-description: Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.11！
+description: Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.10！
 author: 淡水鱼,PKMer
 type: other
 draft: false
@@ -10,7 +10,7 @@ editable: false
 modified: 20250826001627
 ---
 
-# Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.11
+# Obsidian Weekly 2025-08-24：千呼万唤始出来！Obsidian 公共版现已更新至 v1.9.10
 
 > [!Abstract]
 > **统计时间**：2025-08-17 21:00 ~ 2025-08-24 21:00
@@ -18,7 +18,7 @@ modified: 20250826001627
 
 ## 官方资讯
 
-### Obsidian v1.9.11 公共版现已发布
+### Obsidian v1.9.10 公共版现已发布
 
 #### V1.9.10 桌面版
 
