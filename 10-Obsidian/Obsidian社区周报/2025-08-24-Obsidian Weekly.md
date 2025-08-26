@@ -214,7 +214,7 @@ modified: 20250826001627
 ## PKM 相关知识推荐
 
 > [!INFO]
-> 欢迎收藏 [PKMer 导航页](https://pkmer.cn/link/)，一键直通 PKMer 旗下各社交平台，与热爱分享与知识管理的同好们交流，第一时间获取行业新鲜资讯！
+> 欢迎收藏 [PKMer 导航页](https://pkmer.cn/link/)，一键直通 PKMer 各社交平台账号，与热爱分享与知识管理的同好们交流，第一时间获取行业新鲜资讯！
 
 ### [告别冗长属性，自适应双栏布局](https://www.xiaohongshu.com/discovery/item/68949e18000000002203b4d0?source=webshare&xhsshare=pc_web&xsec_token=ABlhPx2S9hDmf097k9Dhe4QD2J2DY1N1PoXSPxAwf4UBQ=&xsec_source=pc_share)
 
