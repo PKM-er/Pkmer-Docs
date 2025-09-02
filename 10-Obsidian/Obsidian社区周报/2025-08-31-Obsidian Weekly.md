@@ -53,8 +53,6 @@ modified: 20250902015805
 
 ### 社区插件
 
-
-
 #### 新增
 
 [AI Image OCR](https://obsidian.md/plugins?id=ai-image-ocr) By _Rootiest_
@@ -104,7 +102,7 @@ modified: 20250902015805
 
 ## 外观
 
-[**Nota Limonada Light** Theme](https://github.com/mdelobelle/obsidian_supercharged_links) By _CrisHood_
+[**Nota Limonada Light** Theme](https://github.com/crishood/nota-limonada-light) By _CrisHood_
 
 ![Weekly-2025-08-31-Pasted image 20250901175358|650](https://cdn.pkmer.cn/images/Weekly-2025-08-31-Pasted%20image%2020250901175358.png!pkmer)
 
