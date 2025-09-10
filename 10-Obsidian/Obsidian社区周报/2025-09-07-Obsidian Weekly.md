@@ -36,7 +36,7 @@ modified: 20250909002300
 
 [Remote Fetch](https://obsidian.md/plugins?id=remote-fetch) By _Shaharyar_
 
-> 支持 CORS 代理的 URL 文件直存知识库功能
+> 支持 CORS 代理的 URL 文件直存入库功能。
 
 [Accounting Journal and Ledger](https://obsidian.md/plugins?id=accounting-journal-ledger) By _Javier Ribal del Río_
 
