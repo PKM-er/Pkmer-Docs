@@ -1041,3 +1041,7 @@ require("@lezer/highlight");
 [mono black (monochrome, charcoal)](https://github.com/ZeChArtiahSaher/obsidian-mono-black) by _ZeChArtiahSaher_
 
 ![2024-03-03-ch-Pasted image 20240303161653.png|900](https://cdn.pkmer.cn/images/2024-03-03-ch-Pasted%20image%2020240303161653.png!pkmer)
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

@@ -106,3 +106,7 @@ Obsidian 在 2022 的 Product Hunt 的生产力类别金猫奖中被提名；
 - 以下是 Canvas 如何帮助 [分析和参与类似《道德经》的东西](https://twitter.com/ungatedcreative/status/1614653925239705600?s=20&t=w4QOO4E929cxrZmeR_xq-A)。
 - 这里有一个围绕 [文化研究库](https://www.reddit.com/r/ObsidianMD/comments/10fjyo6/my_masters_degree_started_in_october_and_i_just/) 的很好讨论 ，讨论的重点是你在攻读硕士学位时且在 Obsidian 中拥有了超过一万个链接时，如何重新审视和重新发现有用的笔记。
 - 这里有一个工具可以帮助 [从你的终端打开、创建和更新 Obsidian 笔记](https://github.com/Yakitrak/obsidian-cli)。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

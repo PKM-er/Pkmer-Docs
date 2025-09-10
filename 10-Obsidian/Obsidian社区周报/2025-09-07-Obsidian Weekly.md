@@ -36,7 +36,7 @@ modified: 20250909002300
 
 [Remote Fetch](https://obsidian.md/plugins?id=remote-fetch) By _Shaharyar_
 
-> 支持 CORS 代理的 URL 文件直存知识库功能
+> 支持 CORS 代理的 URL 文件直存入库功能。
 
 [Accounting Journal and Ledger](https://obsidian.md/plugins?id=accounting-journal-ledger) By _Javier Ribal del Río_
 
@@ -155,11 +155,6 @@ modified: 20250909002300
 [Open Tab Settings v1.4.1](https://github.com/jesse-r-s-hines/obsidian-open-tab-settings/releases/tag/1.4.1) By _jesse-r-s-hines_
 
 > 修复与 Kanban 插件的兼容性问题
-
-### 未上架插件
-
-> [!Caution]
-> **注意**：下列插件尚未通过代码审查，因而未在 _ 社区插件市场 _ 上架。在安装前，请确保您已充分了解并接受其中涉及的潜在安全风险。
 
 ### PKMer 出品
 
@@ -342,3 +337,7 @@ modified: 20250909002300
 如何用新核心插件**数据库**取代 DaiylNote 中的“今天我创建/修改/完成了哪些笔记……”的 Dataview 代码块！
 
 ![Weekly-2025-09-07-Pasted image 20250908235837|650](https://cdn.pkmer.cn/images/Weekly-2025-09-07-Pasted%20image%2020250908235837.png!pkmer)
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

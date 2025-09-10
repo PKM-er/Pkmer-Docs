@@ -89,3 +89,7 @@ modified: 20230621183151
 - 这篇关于 [无利可图的软件公司的泡沫正在破灭](https://world.hey.com/dhh/the-bubble-has-popped-for-unprofitable-software-companies-2a0a5f57) 的文章确实发人深省，让我庆幸的是，我的绝大多数笔记都并不依赖于特殊格式。
 - 这里有一篇 [大笔记思维和小笔记思维的比较](https://www.obsidianroundup.org/one-size-fits-all-how-to-take-big-notes-and-how-to-take-small-notes/)，以及它们为何需要不同类型的插件。如果有人想写几篇一次性的文章，又不想和 Medium 或其他什么东西打交道，请告诉我，我很乐意给你建立一个贡献者账户。
 - 有谁听过 [安德鲁-休伯曼的播客](https://hubermanlab.com/)？他是一个神经科学的研究者，同时在播客中有很多生产力方面的建议；我不听播客，但由一些听播客的人推荐他的这个播客节目。我很想知道其他人的想法。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

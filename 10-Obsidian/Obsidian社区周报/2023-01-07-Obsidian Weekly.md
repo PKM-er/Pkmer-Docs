@@ -167,3 +167,7 @@ Obsidian 的默认安装程序更新到了 Electron v21 版本，这意味着你
 - 这里有一个迷人的使用案例——[ Obsidian 用于追踪复杂的工作场所电子邮件链中的相互联系](https://www.reddit.com/r/ObsidianMD/comments/101yl9n/email_i_am_getting_deeply_into_connecting_dozens/)；
 - 这是一个漂亮的——[使用 Canvas 的 D&D 角色表](https://www.reddit.com/r/ObsidianMD/comments/zvk7f0/a_dnd_character_sheet_i_made_with_canvas_complete/)；
 - 这是一个 [带有大量图表的仪表板](https://www.reddit.com/r/ObsidianMD/comments/104qxpd/created_a_dashboard_based_on_the_tfthacker_version/)。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

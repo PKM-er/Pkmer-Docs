@@ -453,3 +453,7 @@ For more information, see the official release page [2023 Gems of the year winne
 ![2023-01-27-Pasted image 20240126230952.png](https://cdn.pkmer.cn/images/2023-01-27-Pasted%20image%2020240126230952.png!pkmer)
 
 ![2023-01-27-Pasted image 20240126230958.png](https://cdn.pkmer.cn/images/2023-01-27-Pasted%20image%2020240126230958.png!pkmer)
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

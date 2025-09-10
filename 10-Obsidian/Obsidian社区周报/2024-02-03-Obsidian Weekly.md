@@ -310,3 +310,7 @@ There are more changes, see [It's aliiiive](https://github.com/shabegom/buttons/
 [DarkNebula Theme](https://github.com/HW9636/DarkNebulaObsidianTheme) by _9636Dev_
 
 ![2024-02-03-Pasted image 20240203024153.png](https://cdn.pkmer.cn/images/2024-02-03-Pasted%20image%2020240203024153.png!pkmer)
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

@@ -440,3 +440,7 @@ Download Link: [https://apps.apple.com/us/app/funnel-quick-capture/id6466168248]
 Project brief: Cloud Atlas is a second brain within your Obsidian Vault. Imagine a system that learns from your notes and performs tasks without you having to copy and paste from multiple notes, over and over. Cloud Atlas helps us prepare for our day, summarizes transcripts and recognizes weekly wins.
 
 Visit the [Original link](https://forum.obsidian.md/t/alpha-testers-wanted-experience-the-power-of-cloud-atlas-with-our-obsidian-plugin/72943) for more details.
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

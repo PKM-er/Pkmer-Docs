@@ -228,3 +228,7 @@ modified: 20250305092533
 ![Weekly-2025-03-02-Pasted image 20250304150024|650](https://cdn.pkmer.cn/images/Weekly-2025-03-02-Pasted%20image%2020250304150024.png!pkmer)
 
 > 基于 0xGlitchbyte 的 Everforest 移植版的 Obsidian 主题。配色从红/绿调转向蓝/绿调。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

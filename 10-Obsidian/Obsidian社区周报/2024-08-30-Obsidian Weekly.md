@@ -191,3 +191,7 @@ Obsidian 同步和发布的正常运行时间指标现在可以在新的系统�
 > 	- 阅读模式适配任何字体；我更喜欢 [Mona Sans](https://github.com/github/mona-sans) 或 [CMU Serif](https://sourceforge.net/projects/cm-unicode/)
 > 	- 更扁平的 UI（侧边栏和标签栏颜色与编辑器一致；更少的分隔线）
 > 	- 对 [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) 进行了一些轻微的主题化
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

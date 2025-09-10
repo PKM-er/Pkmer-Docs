@@ -125,3 +125,7 @@ Obsidian Roundup 现在正式和原作者的另一个栏目统一归到了 `[Obs
 
 - 以下是如何 [使用 Zapier 将 Mastodon 书签发送到 Readwise](https://empty.coffee/sending-mastodon-bookmarks-to-readwise-zapier/)；
 - 这是我最近偶然发现的一个整洁的 [奇怪的旧书搜索器](https://debugger.medium.com/a-search-engine-that-finds-you-weird-old-books-3a74fbb5f3d4)；它的想法是摆脱算法内容，只是...... 阅读它提供给你的旧书，一次一本。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

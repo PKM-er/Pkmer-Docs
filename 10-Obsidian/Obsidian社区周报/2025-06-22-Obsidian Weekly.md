@@ -281,3 +281,7 @@ modified: 20250625015425
 ![Pasted image 20250623221022|650](https://cdn.pkmer.cn/images/Pasted%20image%2020250623221022.png!pkmer)
 
 > [Spectrum Theme](https://github.com/wiktoriavh/Spectrum) 的一个分支，由于原作者不再维护，该分支独立维护，包含了错误修复、新特性和改进。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

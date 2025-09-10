@@ -144,3 +144,7 @@ See [Breaking Changes](https://publish.obsidian.md/tasks/Support+and+Help/Break
 [Obsidian Addict](https://obsidianaddict.com/) A new site with a mission to provide interesting, helpful, insightful, and inspiring content all centered around Obsidian. Featuring articles highlighting plugins and workflows, tips and tricks, and trends in the community.
 
 [My long form writing setup](https://forum.obsidian.md/t/my-long-form-writing-setup/74752#main-container) An article on how to use Obsidian for **long-form academic writing**.
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+
