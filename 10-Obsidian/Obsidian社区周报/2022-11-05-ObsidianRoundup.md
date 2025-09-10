@@ -94,3 +94,7 @@ modified: 20230621183146
 # 课程
 
 - Bianca Pereira 推出了她的 " Build Your Knowledge Portfolio " 课程。她教专业和业余的研究人员如何在一个 " 无文件夹 " 系统中组织知识，以支持撰写基于研究的内容。这里有一个 [15%折扣链接](https://biancapereira.gumroad.com/l/build-your-knowledge-portfolio/ROUNDUP_GAMMA)。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

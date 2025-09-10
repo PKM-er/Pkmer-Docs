@@ -299,3 +299,7 @@ modified: 20250403004727
 ![Weekly-2025-03-30-Pasted image 20250402225518|650](https://cdn.pkmer.cn/images/Weekly-2025-03-30-Pasted%20image%2020250402225518.png!pkmer)
 
 > 该主题旨在为同时使用 Obsidian 和 Things 3 的用户提供一致的体验。目前仅在 macOS、iPadOS 和 iOS 系统上测试过。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

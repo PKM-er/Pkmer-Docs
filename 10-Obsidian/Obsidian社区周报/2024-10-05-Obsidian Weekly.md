@@ -100,3 +100,7 @@ modified: 20241007011222
 [Obsidian Python Bridge](https://github.com/mathe00/obsidian-plugin-python-bridge) By _mathe00_
 
 > 该插件允许用户使用 **Python** 为 Obsidian 创建插件。这可能是第一个允许您直接将**Python 脚本**集成到 Obsidian 中以与笔记交互、检索元数据、显示通知等等的插件！
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

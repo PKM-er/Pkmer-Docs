@@ -226,3 +226,7 @@ In addition, the plugin's [documentation](https://lostpaul.github.io/obsidian-fo
 ## Other News
 
 [Qualitative Analysis of Social Media Posts - A Workflow from OCR to Obsidian](https://carleton.ca/xlab/2023/qualitative-analysis-of-social-media-posts-a-workflow-from-ocr-to-obsidian/) A workflow sharing for qualitative analysis of social media posts.
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

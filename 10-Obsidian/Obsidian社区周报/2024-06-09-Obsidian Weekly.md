@@ -410,3 +410,7 @@ modified: 20240610115702
 [Shimmering Focus Theme](https://github.com/chrisgrieser/shimmering-focus) By _pseudometa_
 
 > 一个包含新公共版本 1.6.2 更改的大型更新以及几十个较小更改的更新已发布。（详情请参见 [更新日志](https://github.com/chrisgrieser/shimmering-focus/blob/main/Changelog.md)）
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

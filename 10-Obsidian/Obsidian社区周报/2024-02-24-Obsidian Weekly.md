@@ -562,3 +562,7 @@ You can download it from [Github](https://github.com/PKM-er/media-extended/relea
 > 	- Instantly generate daily notes and folders, organizing them neatly by year and month with a single click. Plus, customize the daily note format to suit your needs.
 > 	- Tailor your experience by defining a specific window of hours after midnight to count as the previous day—ideal for those burning the midnight oil!
 > 	- Say goodbye to image clutter! Better Daily Notes automatically renames and stores images you add to your daily notes in a dedicated folder within each month's directory. And if you want more control, customize image display sizes and compress files to your liking (optional).
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

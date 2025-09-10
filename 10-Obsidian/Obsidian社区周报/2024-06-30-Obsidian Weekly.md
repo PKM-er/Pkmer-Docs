@@ -281,3 +281,7 @@ modified: 20240701002244
 ![Weekly-2024-06-30-Pasted image 20240630134231|650](https://cdn.pkmer.cn/images/Weekly-2024-06-30-Pasted%20image%2020240630134231.png!pkmer)
 
 > Obsidian.md 的现代深色主题！
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

@@ -230,3 +230,7 @@ modified: 20250502002700
 [Simple Table Math](https://github.com/eatcodeplay/obsidian-simple-table-math) By _eatcodeplay_
 
 > 在 Markdown 表格中执行数学运算。在编辑时动态计算并于表格内实时显示结果。支持通过键盘快捷键或右键菜单将结果复制至剪贴板。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

@@ -116,3 +116,7 @@ modified: 20250617015003
 ![Pasted image 20250616232834|650](https://cdn.pkmer.cn/images/Pasted%20image%2020250616232834.png!pkmer)
 
 > 极简，却不失简洁。灵感源自 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) 和 [Border](https://github.com/Akifyss/obsidian-border) ，Minimalists Paradise 的主要亮点在于其卡片式布局，并可通过 [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) 插件进行自定义。Safari 标签页（灵感源自 [此代码片段](https://github.com/gavinmn/obsidian-theme/blob/main/safaritabs.css) ）也与您的配色相得益彰，让您时刻保持风格统一！
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

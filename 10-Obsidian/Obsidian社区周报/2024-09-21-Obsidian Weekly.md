@@ -215,3 +215,7 @@ File Property Enhancer 无法加载。作者已知情。
 ![Weekly-2024-09-21-Pasted image 20240922233506|650](https://cdn.pkmer.cn/images/Weekly-2024-09-21-Pasted%20image%2020240922233506.png!pkmer)
 
 > Obsidian 的红色渐变深色主题，兼容 Obsidian V1.4.13 及以上版本。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+

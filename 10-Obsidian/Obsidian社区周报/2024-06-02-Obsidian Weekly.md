@@ -326,3 +326,7 @@ modified: 20240602235624
 - [Projects](https://github.com/marcusolsson/obsidian-projects) - 这是一个成熟稳定的项目管理器，使用了原生 Obsidian UI。
 
 对于通用的表格使用，他建议使用 Obsidian 1.5.0 中发布的新 [Obsidian table editor](https://www.youtube.com/watch?v=kl47U4CgyJg)。
+
+> [!Warning] 声明
+> 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。
+
