@@ -10,11 +10,12 @@ author: Bon,OS,PKMer
 type: other
 draft: false
 editable: false
-modified: 20231109234455
+modified: 20250527224637
 id: dacd7a42e067cce1
 sidebar:
   order: 2
   badge: 目录
+createdAt: 2025/05/24 09:26:06
 ---
 
 # Thino 用户使用指南
@@ -37,6 +38,7 @@ sidebar:
 ## Thino 初见
 
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1956373976&bvid=BV1Ky411q7M3&cid=1632361172&p=1&autoplay=flase" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="500"></iframe>
+
 ## Thino 对于社区的意义
 
 - Thino 不是纯商业行为产品
@@ -131,13 +133,14 @@ sidebar:
 	    - [[使用简悦 SimpRead 与 Thino 进行联动]]
 	    - [[静读天下摘录批注记录到Thino]]
 	- 自定义样式
-    - [[Obsidian样式-Thino单文件时间轴样式]]
-    - [[Obsidian样式-Thino列表模式日期样式调整]]
-    - [[Obsidian样式-Thino现代风格美化]]
-    - [[Obsidian样式-Thino伪悬浮编辑框]]
-    - [[Obsidian样式-Thino展开增强]]
-    - [[Obsidian样式-Thino插件隐藏标志位]]
-    - [[折腾历史-资料库的构建]]
+	    - [[Obsidian样式-Thino单文件时间轴样式]]
+	    - [[Obsidian样式-Thino列表模式日期样式调整]]
+	    - [[Obsidian样式-Thino现代风格美化]]
+	    - [[Obsidian样式-Thino伪悬浮编辑框]]
+	    - [[Obsidian样式-Thino展开增强]]
+	    - [[Obsidian样式-Thino插件隐藏标志位]]
+	    - [[折腾历史-资料库的构建]]
+	    - [[Obsidian样式-ThinoThino 优化搜索框边框样式]]
 - 更多教程
 	- [文章列表](https://pkmer.cn/tags/thino/)
 
