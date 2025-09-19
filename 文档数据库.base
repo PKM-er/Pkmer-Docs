@@ -1,0 +1,20 @@
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - "!uid.isEmpty()"
+    order:
+      - file.name
+      - uid
+      - file.ctime
+      - title
+    sort:
+      - property: uid
+        direction: DESC
+    columnSize:
+      file.name: 381
+      note.uid: 183
+      file.ctime: 250

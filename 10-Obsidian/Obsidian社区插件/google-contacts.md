@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643376
-title: 'Obsidian 插件：Google Contacts'
-tags: ['第三方工具集成', '数据处理', '效率工具', 'obsidian插件']
-description: '把你的谷歌联系人与单独的联系人笔记进行同步。'
+uid: 2025071500564377
+title: Obsidian 插件：Google Contacts
+tags:
+  - 第三方工具集成
+  - 数据处理
+  - 效率工具
+  - obsidian插件
+description: 把你的谷歌联系人与单独的联系人笔记进行同步。
 author: AI
 type: auto
 draft: false

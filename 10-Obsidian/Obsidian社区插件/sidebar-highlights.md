@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643401
-title: 'Obsidian 插件：Sidebar Highlights'
-tags: ['文字处理', '编辑工具', '效率工具', 'obsidian插件']
-description: '查看并管理文本高亮标记、高亮标记的批注、原生批注，以及高亮标记的合集。'
+uid: 2025071505643990
+title: Obsidian 插件：Sidebar Highlights
+tags:
+  - 文字处理
+  - 编辑工具
+  - 效率工具
+  - obsidian插件
+description: 查看并管理文本高亮标记、高亮标记的批注、原生批注，以及高亮标记的合集。
 author: AI
 type: auto
 draft: false

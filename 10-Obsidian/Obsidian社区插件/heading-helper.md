@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643378
-title: 'Obsidian 插件：Heading Helper'
-tags: ['编辑工具', '文字处理', '效率工具', '界面优化', 'obsidian插件']
-description: '循环切换标题级别，并在侧边栏显示可视化的标题指示器。'
+uid: 2025071505643176
+title: Obsidian 插件：Heading Helper
+tags:
+  - 编辑工具
+  - 文字处理
+  - 效率工具
+  - 界面优化
+  - obsidian插件
+description: 循环切换标题级别，并在侧边栏显示可视化的标题指示器。
 author: AI
 type: auto
 draft: false

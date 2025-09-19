@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643410
-title: 'Obsidian 插件：SOC Toolkit'
-tags: ['安全与隐私', '效率工具', '第三方工具集成', '数据分析', 'obsidian插件']
-description: '一套为网络安全分析师准备的工具集。'
+uid: 2025071505643976
+title: Obsidian 插件：SOC Toolkit
+tags:
+  - 安全与隐私
+  - 效率工具
+  - 第三方工具集成
+  - 数据分析
+  - obsidian插件
+description: 一套为网络安全分析师准备的工具集。
 author: AI
 type: auto
 draft: false

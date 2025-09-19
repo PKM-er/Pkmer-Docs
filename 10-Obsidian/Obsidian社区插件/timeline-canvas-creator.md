@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643419
-title: 'Obsidian 插件：Timeline Canvas Creator'
-tags: ['图表与可视化', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
-description: '快速创建时间线结构的画布。'
+uid: 2025071505643900
+title: Obsidian 插件：Timeline Canvas Creator
+tags:
+  - 图表与可视化
+  - 编辑工具
+  - 效率工具
+  - 白板学术与科研
+  - obsidian插件
+description: 快速创建时间线结构的画布。
 author: AI
 type: auto
 draft: false

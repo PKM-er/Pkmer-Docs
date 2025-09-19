@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643390
-title: 'Obsidian 插件：Move Files'
-tags: ['文件管理', '模板与链接处理', '效率工具', '编辑工具', 'obsidian插件']
-description: '把与一个已打开的 Markdown 文件关联的所有文件都移动到一个文件夹里，同时更新该 Markdown 文件里的链接。'
+uid: 2025071505643390
+title: Obsidian 插件：Move Files
+tags:
+  - 文件管理
+  - 模板与链接处理
+  - 效率工具
+  - 编辑工具
+  - obsidian插件
+description: 把与一个已打开的 Markdown 文件关联的所有文件都移动到一个文件夹里，同时更新该 Markdown 文件里的链接。
 author: AI
 type: auto
 draft: false

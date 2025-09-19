@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643386
-title: 'Obsidian 插件：LLM docs'
-tags: ['第三方工具集成', '自动化与AI', '效率工具', 'obsidian插件']
-description: '使用纯 Markdown 文档的简易大语言模型（AI 聊天）客户端'
+uid: 2025071505643996
+title: Obsidian 插件：LLM docs
+tags:
+  - 第三方工具集成
+  - 自动化与AI
+  - 效率工具
+  - obsidian插件
+description: 使用纯 Markdown 文档的简易大语言模型（AI 聊天）客户端
 author: AI
 type: auto
 draft: false

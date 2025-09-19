@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643372
-title: 'Obsidian 插件：Eccirian Encrypt'
-tags: ['安全与隐私', '数据处理', '效率工具', 'obsidian插件']
-description: '用先进的加密算法给你的笔记加密。'
+uid: 2025071505643172
+title: Obsidian 插件：Eccirian Encrypt
+tags:
+  - 安全与隐私
+  - 数据处理
+  - 效率工具
+  - obsidian插件
+description: 用先进的加密算法给你的笔记加密。
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643361
-title: 'Obsidian 插件：CJK Count'
-tags: ['文字处理', '编辑工具', '效率工具', 'obsidian插件']
-description: '一款只统计中文、日文和韩文（CJK）字符的字数统计工具。'
+uid: 2025071505612990
+title: Obsidian 插件：CJK Count
+tags:
+  - 文字处理
+  - 编辑工具
+  - 效率工具
+  - obsidian插件
+description: 一款只统计中文、日文和韩文（CJK）字符的字数统计工具。
 author: AI
 type: auto
 draft: false

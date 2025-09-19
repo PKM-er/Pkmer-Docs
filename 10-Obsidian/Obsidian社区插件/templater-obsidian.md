@@ -1,8 +1,12 @@
 ---
-uid: 20250715005639414
-title: 'Obsidian 插件：Templater'
-tags: ['模板与链接处理', '编辑工具', '自定义命令', 'obsidian插件']
-description: '增强模板，你可以通过创建和编辑自定义模板，达到快速创建笔记结构。'
+uid: 2025071505639416
+title: Obsidian 插件：Templater
+tags:
+  - 模板与链接处理
+  - 编辑工具
+  - 自定义命令
+  - obsidian插件
+description: 增强模板，你可以通过创建和编辑自定义模板，达到快速创建笔记结构。
 author: AI
 type: auto
 draft: false

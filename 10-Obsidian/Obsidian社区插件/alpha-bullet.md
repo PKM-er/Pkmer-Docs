@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643352
-title: 'Obsidian 插件：Alpha Bullet'
-tags: ['搜索与排序', '编辑工具', '文字处理', '效率工具', 'obsidian插件']
-description: '按字母顺序对项目符号列表进行排序。'
+uid: 2025071505641500
+title: Obsidian 插件：Alpha Bullet
+tags:
+  - 搜索与排序
+  - 编辑工具
+  - 文字处理
+  - 效率工具
+  - obsidian插件
+description: 按字母顺序对项目符号列表进行排序。
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643358
-title: 'Obsidian 插件：Calculite'
-tags: ['效率工具', '编辑工具', '数据处理', 'obsidian插件']
-description: '标准计算器，按钮布局简洁。'
+uid: 2025071505643164
+title: Obsidian 插件：Calculite
+tags:
+  - 效率工具
+  - 编辑工具
+  - 数据处理
+  - obsidian插件
+description: 标准计算器，按钮布局简洁。
 author: AI
 type: auto
 draft: false

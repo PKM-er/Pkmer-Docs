@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643398
-title: 'Obsidian 插件：RTL Math Text'
-tags: ['编辑工具', '文字处理', '自定义命令', '效率工具', 'obsidian插件']
-description: '用可配置的命令在数学表达式里混合从右到左和从左到右的文本。'
+uid: 2025071505643464
+title: Obsidian 插件：RTL Math Text
+tags:
+  - 编辑工具
+  - 文字处理
+  - 自定义命令
+  - 效率工具
+  - obsidian插件
+description: 用可配置的命令在数学表达式里混合从右到左和从左到右的文本。
 author: AI
 type: auto
 draft: false

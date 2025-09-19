@@ -1,8 +1,14 @@
 ---
-uid: 20250715005643405
-title: 'Obsidian 插件：Simple Table Math'
-tags: ['表格', '数据处理', '数据分析', '编辑工具', '效率工具', 'obsidian插件']
-description: '在你的 Markdown 表格里做些数学运算（求和、求平均值等等）。'
+uid: 2025071505643116
+title: Obsidian 插件：Simple Table Math
+tags:
+  - 表格
+  - 数据处理
+  - 数据分析
+  - 编辑工具
+  - 效率工具
+  - obsidian插件
+description: 在你的 Markdown 表格里做些数学运算（求和、求平均值等等）。
 author: AI
 type: auto
 draft: false

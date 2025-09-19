@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643384
-title: 'Obsidian 插件：LaTeX Math'
-tags: ['编程与脚本', '学习与教育', '编辑工具', '数据分析', 'obsidian插件']
-description: '用Sympy在LaTeX代码块里进行求值、求解等操作。'
+uid: 2025071505143988
+title: Obsidian 插件：LaTeX Math
+tags:
+  - 编程与脚本
+  - 学习与教育
+  - 编辑工具
+  - 数据分析
+  - obsidian插件
+description: 用Sympy在LaTeX代码块里进行求值、求解等操作。
 author: AI
 type: auto
 draft: false

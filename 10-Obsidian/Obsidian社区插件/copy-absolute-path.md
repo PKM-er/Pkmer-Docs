@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643364
-title: 'Obsidian 插件：Copy Absolute Path'
-tags: ['文件管理', '编辑工具', '效率工具', '自定义命令', 'obsidian插件']
-description: '把文件和文件夹的系统绝对路径复制到剪贴板。'
+uid: 2025071505643156
+title: Obsidian 插件：Copy Absolute Path
+tags:
+  - 文件管理
+  - 编辑工具
+  - 效率工具
+  - 自定义命令
+  - obsidian插件
+description: 把文件和文件夹的系统绝对路径复制到剪贴板。
 author: AI
 type: auto
 draft: false

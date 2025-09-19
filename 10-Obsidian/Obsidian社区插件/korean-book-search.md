@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643382
-title: 'Obsidian 插件：Korean Book Search'
-tags: ['第三方工具集成', '自动化与AI', '学习与教育', '效率工具', 'obsidian插件']
-description: '能根据笔记标题，自动从阿拉丁（Aladin）API获取韩国书籍信息，填充到YAML前置元数据里。'
+uid: 2025071505643920
+title: Obsidian 插件：Korean Book Search
+tags:
+  - 第三方工具集成
+  - 自动化与AI
+  - 学习与教育
+  - 效率工具
+  - obsidian插件
+description: 能根据笔记标题，自动从阿拉丁（Aladin）API获取韩国书籍信息，填充到YAML前置元数据里。
 author: AI
 type: auto
 draft: false

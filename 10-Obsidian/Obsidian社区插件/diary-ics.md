@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643370
-title: 'Obsidian 插件：Diary ICS'
-tags: ['第三方工具集成', '日历与时间', '效率工具', 'obsidian插件']
-description: '通过 ICS 订阅源将日记条目同步到系统日历。'
+uid: 2025071505643370
+title: Obsidian 插件：Diary ICS
+tags:
+  - 第三方工具集成
+  - 日历与时间
+  - 效率工具
+  - obsidian插件
+description: 通过 ICS 订阅源将日记条目同步到系统日历。
 author: AI
 type: auto
 draft: false

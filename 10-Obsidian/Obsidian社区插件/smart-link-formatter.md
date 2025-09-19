@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643409
-title: 'Obsidian 插件：Smart Link Formatter'
-tags: ['模板与链接处理', '自动化与AI', '效率工具', '编辑工具', 'obsidian插件']
-description: '能自动从粘贴的链接中提取页面元数据，还专门对特定网站提供了支持。'
+uid: 2025071505643950
+title: Obsidian 插件：Smart Link Formatter
+tags:
+  - 模板与链接处理
+  - 自动化与AI
+  - 效率工具
+  - 编辑工具
+  - obsidian插件
+description: 能自动从粘贴的链接中提取页面元数据，还专门对特定网站提供了支持。
 author: AI
 type: auto
 draft: false

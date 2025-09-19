@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643360
-title: 'Obsidian 插件：Character Sheets'
-tags: ['文字处理', '模板与链接处理', '效率工具', 'obsidian插件']
-description: '为你那些经历过创伤的小家伙们创建角色档案吧。'
+uid: 2025071505643956
+title: Obsidian 插件：Character Sheets
+tags:
+  - 文字处理
+  - 模板与链接处理
+  - 效率工具
+  - obsidian插件
+description: 为你那些经历过创伤的小家伙们创建角色档案吧。
 author: AI
 type: auto
 draft: false

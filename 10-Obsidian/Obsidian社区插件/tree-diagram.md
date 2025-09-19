@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643422
-title: 'Obsidian 插件：Tree Diagram'
-tags: ['图表与可视化', '数据处理', '编辑工具', '效率工具', 'obsidian插件']
-description: '把用制表符缩进文本格式呈现的目录结构转换成树形图。'
+uid: 2025071505643440
+title: Obsidian 插件：Tree Diagram
+tags:
+  - 图表与可视化
+  - 数据处理
+  - 编辑工具
+  - 效率工具
+  - obsidian插件
+description: 把用制表符缩进文本格式呈现的目录结构转换成树形图。
 author: AI
 type: auto
 draft: false

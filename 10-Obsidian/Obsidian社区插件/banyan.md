@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643355
-title: 'Obsidian 插件：Banyan'
-tags: ['搜索与排序', '文件管理', '界面优化', '效率工具', 'obsidian插件']
-description: '有个主页能让你以卡片形式轻松浏览、整理和访问笔记，还支持多标签筛选呢。'
+uid: 2025071505643148
+title: Obsidian 插件：Banyan
+tags:
+  - 搜索与排序
+  - 文件管理
+  - 界面优化
+  - 效率工具
+  - obsidian插件
+description: 有个主页能让你以卡片形式轻松浏览、整理和访问笔记，还支持多标签筛选呢。
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643402
-title: 'Obsidian 插件：Sidecars'
-tags: ['文件管理', '自动化与AI', '效率工具', 'obsidian插件']
-description: '自动且方便用户操作的非 Markdown 文件“副档”笔记管理功能。'
+uid: 2025071505643400
+title: Obsidian 插件：Sidecars
+tags:
+  - 文件管理
+  - 自动化与AI
+  - 效率工具
+  - obsidian插件
+description: 自动且方便用户操作的非 Markdown 文件“副档”笔记管理功能。
 author: AI
 type: auto
 draft: false

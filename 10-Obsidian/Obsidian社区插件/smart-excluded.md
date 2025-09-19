@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643408
-title: 'Obsidian 插件：Smart Excluded'
-tags: ['文件管理', '自定义命令', '效率工具', 'obsidian插件']
-description: '可以针对每个工作区、当前活动笔记等更改排除文件的设置。'
+uid: 2025071556434100
+title: Obsidian 插件：Smart Excluded
+tags:
+  - 文件管理
+  - 自定义命令
+  - 效率工具
+  - obsidian插件
+description: 可以针对每个工作区、当前活动笔记等更改排除文件的设置。
 author: AI
 type: auto
 draft: false

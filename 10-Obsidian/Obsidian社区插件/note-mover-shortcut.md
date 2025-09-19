@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643392
-title: 'Obsidian 插件：NoteMover shortcut'
-tags: ['文件管理', '快捷键', '效率工具', '自定义命令', 'obsidian插件']
-description: '能快速轻松地把笔记移到预先设定好的文件夹里，用来整理笔记简直绝了！'
+uid: 2025071505643932
+title: Obsidian 插件：NoteMover shortcut
+tags:
+  - 文件管理
+  - 快捷键
+  - 效率工具
+  - 自定义命令
+  - obsidian插件
+description: 能快速轻松地把笔记移到预先设定好的文件夹里，用来整理笔记简直绝了！
 author: AI
 type: auto
 draft: false

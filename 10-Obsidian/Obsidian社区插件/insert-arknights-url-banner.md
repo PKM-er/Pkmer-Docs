@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643380
-title: 'Obsidian 插件：Insert Arknights URL Banner'
-tags: ['编辑工具', '图片与PDF', '第三方工具集成', 'obsidian插件']
-description: '选好明日方舟的图片，然后把它放到横幅属性里。'
+uid: 2025071505643380
+title: Obsidian 插件：Insert Arknights URL Banner
+tags:
+  - 编辑工具
+  - 图片与PDF
+  - 第三方工具集成
+  - obsidian插件
+description: 选好明日方舟的图片，然后把它放到横幅属性里。
 author: AI
 type: auto
 draft: false

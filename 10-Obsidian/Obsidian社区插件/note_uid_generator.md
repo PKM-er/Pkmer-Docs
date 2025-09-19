@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643391
-title: 'Obsidian 插件：Note UID Generator'
-tags: ['自动化与AI', '编辑工具', '效率工具', '数据处理', 'obsidian插件']
-description: '能自动或手动为笔记生成唯一标识符（UID），并将其记录到元数据（前置元数据）里。'
+uid: 2025071505643384
+title: Obsidian 插件：Note UID Generator
+tags:
+  - 自动化与AI
+  - 编辑工具
+  - 效率工具
+  - 数据处理
+  - obsidian插件
+description: 能自动或手动为笔记生成唯一标识符（UID），并将其记录到元数据（前置元数据）里。
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643417
-title: 'Obsidian 插件：Text Autocomplete'
-tags: ['文字处理', '编辑工具', '效率工具', '自动化与AI', 'obsidian插件']
-description: '自动补全文本，打字更高效。'
+uid: 2025071505643944
+title: Obsidian 插件：Text Autocomplete
+tags:
+  - 文字处理
+  - 编辑工具
+  - 效率工具
+  - 自动化与AI
+  - obsidian插件
+description: 自动补全文本，打字更高效。
 author: AI
 type: auto
 draft: false

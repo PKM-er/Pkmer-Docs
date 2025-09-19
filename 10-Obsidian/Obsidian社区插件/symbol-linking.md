@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643412
-title: 'Obsidian 插件：Symbol linking'
-tags: ['模板与链接处理', '编辑工具', '效率工具', 'obsidian插件']
-description: '增加了用任意触发词创建链接的功能。每个触发词都能将链接范围限定在特定文件夹或文件内。'
+uid: 2025071505643456
+title: Obsidian 插件：Symbol linking
+tags:
+  - 模板与链接处理
+  - 编辑工具
+  - 效率工具
+  - obsidian插件
+description: 增加了用任意触发词创建链接的功能。每个触发词都能将链接范围限定在特定文件夹或文件内。
 author: AI
 type: auto
 draft: false

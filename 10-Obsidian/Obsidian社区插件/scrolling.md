@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643400
-title: 'Obsidian 插件：Scrolling'
-tags: ['编辑工具', '界面优化', '效率工具', 'obsidian插件']
-description: '优化滚动体验，让光标精准定位到你想要的位置。'
+uid: 2025071505643100
+title: Obsidian 插件：Scrolling
+tags:
+  - 编辑工具
+  - 界面优化
+  - 效率工具
+  - obsidian插件
+description: 优化滚动体验，让光标精准定位到你想要的位置。
 author: AI
 type: auto
 draft: false

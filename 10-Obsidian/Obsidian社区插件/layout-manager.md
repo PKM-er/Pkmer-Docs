@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643385
-title: 'Obsidian 插件：Layout Manager'
-tags: ['界面优化', '效率工具', '自定义命令', '文件管理', 'obsidian插件']
-description: '结合上下文管理布局'
+uid: 2025071500564336
+title: Obsidian 插件：Layout Manager
+tags:
+  - 界面优化
+  - 效率工具
+  - 自定义命令
+  - 文件管理
+  - obsidian插件
+description: 结合上下文管理布局
 author: AI
 type: auto
 draft: false

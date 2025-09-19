@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643387
-title: 'Obsidian 插件：Log Keeper'
-tags: ['自动化与AI', '编辑工具', '效率工具', '日历与时间', 'obsidian插件']
-description: '笔记有改动时，自动生成时间戳。'
+uid: 2025071505643980
+title: Obsidian 插件：Log Keeper
+tags:
+  - 自动化与AI
+  - 编辑工具
+  - 效率工具
+  - 日历与时间
+  - obsidian插件
+description: 笔记有改动时，自动生成时间戳。
 author: AI
 type: auto
 draft: false

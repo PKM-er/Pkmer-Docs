@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643353
-title: 'Obsidian 插件：Animated Cursor'
-tags: ['样式与美化', '界面优化', '效率工具', 'obsidian插件']
-description: '简约又丝滑的动画光标。'
+uid: 2025071505643160
+title: Obsidian 插件：Animated Cursor
+tags:
+  - 样式与美化
+  - 界面优化
+  - 效率工具
+  - obsidian插件
+description: 简约又丝滑的动画光标。
 author: AI
 type: auto
 draft: false

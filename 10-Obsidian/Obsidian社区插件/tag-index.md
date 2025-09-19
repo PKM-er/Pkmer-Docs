@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643414
-title: 'Obsidian 插件：Tag Index'
-tags: ['搜索与排序', '导航与状态栏', '效率工具', 'obsidian插件']
-description: '整理一份重要标签列表，让它们成为你知识库中实用的切入点。'
+uid: 2025071505643940
+title: Obsidian 插件：Tag Index
+tags:
+  - 搜索与排序
+  - 导航与状态栏
+  - 效率工具
+  - obsidian插件
+description: 整理一份重要标签列表，让它们成为你知识库中实用的切入点。
 author: AI
 type: auto
 draft: false

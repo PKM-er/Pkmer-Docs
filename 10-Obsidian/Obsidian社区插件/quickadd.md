@@ -1,8 +1,12 @@
 ---
-uid: 20250715005641178
-title: 'Obsidian 插件：QuickAdd'
-tags: ['编辑工具', '文件管理', '效率工具', 'obsidian插件']
-description: '快速添加新的笔记或内容到您的库。'
+uid: 2025071505641176
+title: Obsidian 插件：QuickAdd
+tags:
+  - 编辑工具
+  - 文件管理
+  - 效率工具
+  - obsidian插件
+description: 快速添加新的笔记或内容到您的库。
 author: AI
 type: auto
 draft: false

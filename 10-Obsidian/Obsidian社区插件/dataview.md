@@ -1,8 +1,12 @@
 ---
-uid: 20250715005640341
-title: 'Obsidian 插件：Dataview'
-tags: ['数据处理', '搜索与排序', '表格', 'obsidian插件']
-description: '为 Obsidian 提供数据查询能力，这需要学习一些较为简单的语法，但可以实现丰富的查询和组合效果。包括生成表格，标签，跟踪特定的笔记变化，选择具体笔记内容。'
+uid: 2025071505640340
+title: Obsidian 插件：Dataview
+tags:
+  - 数据处理
+  - 搜索与排序
+  - 表格
+  - obsidian插件
+description: 为 Obsidian 提供数据查询能力，这需要学习一些较为简单的语法，但可以实现丰富的查询和组合效果。包括生成表格，标签，跟踪特定的笔记变化，选择具体笔记内容。
 author: AI
 type: auto
 draft: false

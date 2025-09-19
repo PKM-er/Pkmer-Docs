@@ -1,8 +1,12 @@
 ---
-uid: 20250715005639239
-title: 'Obsidian 插件：Tasks'
-tags: ['任务管理', '自动化与AI', '界面优化', 'obsidian插件']
-description: 'Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。'
+uid: 2025071505639240
+title: Obsidian 插件：Tasks
+tags:
+  - 任务管理
+  - 自动化与AI
+  - 界面优化
+  - obsidian插件
+description: Obsidian 增强任务管理，为任务增加优先级，计划日期，完成日期等自动化和图形化操作界面。
 author: AI
 type: auto
 draft: false

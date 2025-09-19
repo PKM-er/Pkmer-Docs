@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643420
-title: 'Obsidian 插件：Timelive'
-tags: ['数据处理', '图表与可视化', '日历与时间', '效率工具', 'obsidian插件']
-description: '把日期列表变成时间轴。'
+uid: 2025071505643412
+title: Obsidian 插件：Timelive
+tags:
+  - 数据处理
+  - 图表与可视化
+  - 日历与时间
+  - 效率工具
+  - obsidian插件
+description: 把日期列表变成时间轴。
 author: AI
 type: auto
 draft: false

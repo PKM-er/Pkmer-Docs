@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643368
-title: 'Obsidian 插件：Current View'
-tags: ['自动化与AI', '编辑工具', '效率工具', '自定义命令', 'obsidian插件']
-description: '可以通过文件夹规则、文件模式或者前置元数据，自动为笔记设置视图模式（阅读模式、实时预览模式、源码模式）。'
+uid: 2025071556431170
+title: Obsidian 插件：Current View
+tags:
+  - 自动化与AI
+  - 编辑工具
+  - 效率工具
+  - 自定义命令
+  - obsidian插件
+description: 可以通过文件夹规则、文件模式或者前置元数据，自动为笔记设置视图模式（阅读模式、实时预览模式、源码模式）。
 author: AI
 type: auto
 draft: false

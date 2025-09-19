@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643373
-title: 'Obsidian 插件：Folder Filelist'
-tags: ['文件管理', '模板与链接处理', '效率工具', 'obsidian插件']
-description: '创建并维护一个指向指定文件夹中文件的维基链接列表。'
+uid: 2025071505643988
+title: Obsidian 插件：Folder Filelist
+tags:
+  - 文件管理
+  - 模板与链接处理
+  - 效率工具
+  - obsidian插件
+description: 创建并维护一个指向指定文件夹中文件的维基链接列表。
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643379
-title: 'Obsidian 插件：Hyperlink Remover'
-tags: ['编辑工具', '文字处理', '模板与链接处理', '效率工具', 'obsidian插件']
-description: '能轻松移除所选文本或整个笔记里的超链接。'
+uid: 2025071505643924
+title: Obsidian 插件：Hyperlink Remover
+tags:
+  - 编辑工具
+  - 文字处理
+  - 模板与链接处理
+  - 效率工具
+  - obsidian插件
+description: 能轻松移除所选文本或整个笔记里的超链接。
 author: AI
 type: auto
 draft: false

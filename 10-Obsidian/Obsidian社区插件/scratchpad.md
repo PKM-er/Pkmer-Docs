@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643399
-title: 'Obsidian 插件：Scratchpad'
-tags: ['编辑工具', '文字处理', '效率工具', '白板学术与科研', 'obsidian插件']
-description: '在侧边栏便笺本里记临时笔记，还能随手画画。'
+uid: 2025071500564395
+title: Obsidian 插件：Scratchpad
+tags:
+  - 编辑工具
+  - 文字处理
+  - 效率工具
+  - 白板学术与科研
+  - obsidian插件
+description: 在侧边栏便笺本里记临时笔记，还能随手画画。
 author: AI
 type: auto
 draft: false

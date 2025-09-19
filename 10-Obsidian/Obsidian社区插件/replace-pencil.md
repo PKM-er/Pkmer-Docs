@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643397
-title: 'Obsidian 插件：Replace Pencil'
-tags: ['编辑工具', '编程与脚本', '效率工具', '自定义命令', 'obsidian插件']
-description: '能轻松替换代码块里的自定义变量。'
+uid: 2025071505643396
+title: Obsidian 插件：Replace Pencil
+tags:
+  - 编辑工具
+  - 编程与脚本
+  - 效率工具
+  - 自定义命令
+  - obsidian插件
+description: 能轻松替换代码块里的自定义变量。
 author: AI
 type: auto
 draft: false

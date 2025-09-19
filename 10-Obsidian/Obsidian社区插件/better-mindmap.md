@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643357
-title: 'Obsidian 插件：Better Mind Map'
-tags: ['思维导图', '图表与可视化', '效率工具', 'obsidian插件']
-description: '把笔记以交互式思维导图的形式呈现出来'
+uid: 2025071505643356
+title: Obsidian 插件：Better Mind Map
+tags:
+  - 思维导图
+  - 图表与可视化
+  - 效率工具
+  - obsidian插件
+description: 把笔记以交互式思维导图的形式呈现出来
 author: AI
 type: auto
 draft: false

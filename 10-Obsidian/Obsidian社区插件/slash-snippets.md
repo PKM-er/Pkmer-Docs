@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643407
-title: 'Obsidian 插件：Slash snippets'
-tags: ['编辑工具', '文字处理', '自定义命令', '效率工具', 'obsidian插件']
-description: '用斜杠命令快速插入文本'
+uid: 2025071505643110
+title: Obsidian 插件：Slash snippets
+tags:
+  - 编辑工具
+  - 文字处理
+  - 自定义命令
+  - 效率工具
+  - obsidian插件
+description: 用斜杠命令快速插入文本
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,12 @@
 ---
-uid: 20250715005639253
-title: 'Obsidian 插件：Thino'
-tags: ['编辑工具', '效率工具', '界面优化', 'obsidian插件']
-description: '快速捕捉备忘录，并在侧边栏中以热图的形式显示它们。'
+uid: 2025071505639252
+title: Obsidian 插件：Thino
+tags:
+  - 编辑工具
+  - 效率工具
+  - 界面优化
+  - obsidian插件
+description: 快速捕捉备忘录，并在侧边栏中以热图的形式显示它们。
 author: AI
 type: auto
 draft: false

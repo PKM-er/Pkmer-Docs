@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643393
-title: 'Obsidian 插件：OpenWords'
-tags: ['学习与教育', '数据处理', '效率工具', 'ANKI', 'obsidian插件']
-description: 'None'
+uid: 2025071505643388
+title: Obsidian 插件：OpenWords
+tags:
+  - 学习与教育
+  - 数据处理
+  - 效率工具
+  - ANKI
+  - obsidian插件
+description: None
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,12 @@
 ---
-uid: 20250715005642341
-title: 'Obsidian 插件：Vertical Tabs'
-tags: ['界面优化', '导航与状态栏', '效率工具', 'obsidian插件']
-description: '提供一种替代视图，垂直显示打开的标签页，允许用户对标签页进行分组和组织，以获得更好的导航体验。'
+uid: 2025071505642340
+title: Obsidian 插件：Vertical Tabs
+tags:
+  - 界面优化
+  - 导航与状态栏
+  - 效率工具
+  - obsidian插件
+description: 提供一种替代视图，垂直显示打开的标签页，允许用户对标签页进行分组和组织，以获得更好的导航体验。
 author: AI
 type: auto
 draft: false
