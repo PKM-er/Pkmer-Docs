@@ -46,7 +46,7 @@ aliases: [背后的故事]
 
 在搜索搭建卡片盒系统操作指引的过程中，我发现了 Obsidian——一款以“双链、免费、可扩展、本地化”为特点的笔记软件。我被 Obsidian 的“关系图谱”功能所深深吸引。**“关系图谱”一度让我以为：只要写“原子笔记”，然后连接起来，最后形成一个笔记网络，就是数字版本的卢曼卡片盒**。于是，我毫不犹豫开始使用 Obsidian 来搭建我的卡片盒系统。我开始在 Obsidian 写原子笔记，然后连接起来，使用关系图谱来显示。
 
-<img width="1439" height="981" alt="关系图谱" src="https://github.com/user-attachments/assets/2ccc6be3-4f6f-4be8-a565-d6934f13a8f0" />
+![image.png|800](https://cdn.pkmer.cn/images/20250928115607462.png!pkmer)
 
 但在我使用 Obsidian 大概半年后，我感到十分沮丧。我并没有感受到连接笔记的好处。相反，笔记连接越多，关系图谱就越混乱，笔记查找起来就越难。
 
@@ -81,7 +81,7 @@ aliases: [背后的故事]
 
 基于对卢曼卡片盒新的认识，并吸收了《卡片笔记写作法》里的”总体流程“和”闪念笔记“的概念，我确立了我的 Zettelkasten 系统（工作流示意图如下）。
 
-![](https://cdn.pkmer.cn/images/202408021637783.png!pkmer)
+![|800](https://cdn.pkmer.cn/images/202408021637783.png!pkmer)
 
 这个工作流分为 3 个方面：**收集想法，发展想法和检索想法**。其核心是围绕着**发展想法**来运作的。这里的“想法”是包罗万象的，包括：灵感，观点，见解，思考，问题和回答等。**我对它的定位是：这是一个思考系统，我的各种想法都可以在这个系统里得到发展。这个系统追求的是发展想法，连接想法，源源不断地产生新的洞见**。
 
@@ -108,8 +108,7 @@ aliases: [背后的故事]
 这两点都是根据我的需求和实际情况（想要手写的体验但不想管理纸质笔记；对 excalidraw 插件十分熟悉，想要增加一点视觉效果）而决定的，完全是个人的选择而已。
 
 （Excalidraw 卡片笔记示例）
-<img width="1427" height="813" alt="G203-1BB-1" src="https://github.com/user-attachments/assets/c23e2c2b-1174-49e0-8c85-259c3b64540f" />
-
+![Excalidraw 卡片笔记示例|800](https://cdn.pkmer.cn/images/20250928115544711.png!pkmer)
 
 ## Zettelkasten 的检索问题
 
@@ -139,7 +138,7 @@ aliases: [背后的故事]
 
 Obsidian 支持使用 JavaScript 代码来编写程序，于是我开始学习一点 JavaScript。在这个过程中，我发现 Obsidian 的插件生态真的很强大，有很多功能不需要重头开始，我只需要知道怎样通过 JavaScript 代码去调用和组合一些已有插件的功能，就能实现很多我想要的效果。就这样，我做出了“Zettelkasten 导航面板”——一个通过 JavaScript 代码组合 Dataview、Mermaid、Meta-Bind 和 Callout 这些插件/功能的笔记检索页面。再后来，为了实现更多想要的效果，同时也为了更好地分享，我将这个检索页面做成 Zettelkasten Navigation 插件。
 
-<img width="1920" height="1016" alt="ZK插件" src="https://github.com/user-attachments/assets/59cf2fec-e6b4-40e0-8386-d7e7fd418159" />
+![Zettelkasten Navigation 插件|800](https://cdn.pkmer.cn/images/20250928115408916.png!pkmer)
 
 Zettelkasten Navigation 插件是我对于在 Obsidian 实践 Zettelkasten 提出的解决方案。它基于卢曼卡片盒原理，提供一个更实用的关系图谱来检索和导航笔记，它提升了检索的效率。同时，它以一种可视化的方式帮助用户理解卢曼 ID, 链接和关键词索引。我认为这个插件真正体现了数字 Zettelkasten 的优势。
 
@@ -147,8 +146,7 @@ Zettelkasten Navigation 插件是我对于在 Obsidian 实践 Zettelkasten 提�
 
 在开发这个插件的过程中，我将我对这个插件的思考、功能设计、实现思路和逻辑代码、以及一些网友的问答等，以一个个主笔记的形式写了下来，并为它们赋予合适的卢曼 ID ，与相关的笔记连接起来。**我惊叹于我的 Zettelkasten 是如何适配我的想法发展的**：在我思考越多的地方会产生越多的笔记，在这个插件上的显示就是这个分支越来越壮大；一些边缘的节点，开始时可能并不觉得重要，但过一段时间后发现跟新的想法有所关联，于是在其后又发展出很多新的笔记，从而让这个分支变得重要，甚至反过来主导整棵树的发展。
 
-<img width="1467" height="1015" alt="ZK树" src="https://github.com/user-attachments/assets/103c7b66-a0b9-4cd9-b282-be00d8532128" />
-
+![Zettelkasten Navigation 插件|800](https://cdn.pkmer.cn/images/20250928115443481.png!pkmer)
 
 **我对我的 Zettelkasten 也逐渐有了对话伙伴、主要的创意来源和生产力引擎的感觉**。
 
