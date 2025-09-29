@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643369
-title: 'Obsidian 插件：Custom Selected Word Count'
-tags: ['文字处理', '编辑工具', '效率工具', '自定义命令', 'obsidian插件']
-description: '能在所有视图模式下为选中的文本提供高级的字数统计功能。它可不只是简单的字数统计，还能自定义排除路径等。'
+uid: 2025071505643964
+title: Obsidian 插件：Custom Selected Word Count
+tags:
+  - 文字处理
+  - 编辑工具
+  - 效率工具
+  - 自定义命令
+  - obsidian插件
+description: 能在所有视图模式下为选中的文本提供高级的字数统计功能。它可不只是简单的字数统计，还能自定义排除路径等。
 author: AI
 type: auto
 draft: false

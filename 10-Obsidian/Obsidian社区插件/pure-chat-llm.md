@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643394
-title: 'Obsidian 插件：Pure Chat LLM'
-tags: ['第三方工具集成', '自动化与AI', '效率工具', '文字处理', 'obsidian插件']
-description: '把笔记变成与ChatGPT的对话'
+uid: 2025071556433860
+title: Obsidian 插件：Pure Chat LLM
+tags:
+  - 第三方工具集成
+  - 自动化与AI
+  - 效率工具
+  - 文字处理
+  - obsidian插件
+description: 把笔记变成与ChatGPT的对话
 author: AI
 type: auto
 draft: false

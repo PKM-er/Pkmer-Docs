@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643416
-title: 'Obsidian 插件：Template Filename'
-tags: ['模板与链接处理', '文件管理', '效率工具', '自动化与AI', 'obsidian插件']
-description: '用可设置模板的文件名来创建笔记，还能使用日期/时间格式、随机字符串和自定义的基数编号系统呢。'
+uid: 2025071505643416
+title: Obsidian 插件：Template Filename
+tags:
+  - 模板与链接处理
+  - 文件管理
+  - 效率工具
+  - 自动化与AI
+  - obsidian插件
+description: 用可设置模板的文件名来创建笔记，还能使用日期/时间格式、随机字符串和自定义的基数编号系统呢。
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643351
-title: 'Obsidian 插件：Ace Code Editor'
-tags: ['编辑工具', '编程与脚本', '效率工具', 'obsidian插件']
-description: '这是一款基于 Ace 编辑器的增强型代码编辑器，能提供语法高亮、代码折叠等高级编辑功能。'
+uid: 2025071505611990
+title: Obsidian 插件：Ace Code Editor
+tags:
+  - 编辑工具
+  - 编程与脚本
+  - 效率工具
+  - obsidian插件
+description: 这是一款基于 Ace 编辑器的增强型代码编辑器，能提供语法高亮、代码折叠等高级编辑功能。
 author: AI
 type: auto
 draft: false

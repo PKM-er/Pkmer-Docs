@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643367
-title: 'Obsidian 插件：Course Module Loader'
-tags: ['学习与教育', '文件管理', '自动化与AI', '效率工具', 'obsidian插件']
-description: '从指定的网址下载课程模块的压缩文件并解压到指定的仓库文件夹中，同时跳过已存在的文件。'
+uid: 2025071505643170
+title: Obsidian 插件：Course Module Loader
+tags:
+  - 学习与教育
+  - 文件管理
+  - 自动化与AI
+  - 效率工具
+  - obsidian插件
+description: 从指定的网址下载课程模块的压缩文件并解压到指定的仓库文件夹中，同时跳过已存在的文件。
 author: AI
 type: auto
 draft: false

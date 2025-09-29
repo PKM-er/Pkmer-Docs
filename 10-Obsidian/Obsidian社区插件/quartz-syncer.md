@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643395
-title: 'Obsidian 插件：Quartz Syncer'
-tags: ['第三方工具集成', '文件管理', '发布工具', '效率工具', 'obsidian插件']
-description: '管理你的笔记并将它们发布到Quartz——一款快速、自带全套功能的静态网站生成器。'
+uid: 2025071505643960
+title: Obsidian 插件：Quartz Syncer
+tags:
+  - 第三方工具集成
+  - 文件管理
+  - 发布工具
+  - 效率工具
+  - obsidian插件
+description: 管理你的笔记并将它们发布到Quartz——一款快速、自带全套功能的静态网站生成器。
 author: AI
 type: auto
 draft: false

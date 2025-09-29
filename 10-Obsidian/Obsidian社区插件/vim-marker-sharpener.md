@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643423
-title: 'Obsidian 插件：Vim Marker Sharpener'
-tags: ['编辑工具', '文字处理', '样式与美化', '自定义命令', 'obsidian插件']
-description: 'Vim模式下的文本格式设置命令。支持应用各种样式（加粗、斜体等）。在可视模式下对选中文本也能正常使用。'
+uid: 2025071505643904
+title: Obsidian 插件：Vim Marker Sharpener
+tags:
+  - 编辑工具
+  - 文字处理
+  - 样式与美化
+  - 自定义命令
+  - obsidian插件
+description: Vim模式下的文本格式设置命令。支持应用各种样式（加粗、斜体等）。在可视模式下对选中文本也能正常使用。
 author: AI
 type: auto
 draft: false

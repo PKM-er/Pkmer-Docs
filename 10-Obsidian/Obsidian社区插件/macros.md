@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643388
-title: 'Obsidian 插件：Macros'
-tags: ['数据处理', '图表与可视化', '数据分析', '效率工具', 'obsidian插件']
-description: '在你的笔记里追踪并直观呈现你每日的宏量营养素摄入、饮食情况和营养状况。'
+uid: 2025071505643184
+title: Obsidian 插件：Macros
+tags:
+  - 数据处理
+  - 图表与可视化
+  - 数据分析
+  - 效率工具
+  - obsidian插件
+description: 在你的笔记里追踪并直观呈现你每日的宏量营养素摄入、饮食情况和营养状况。
 author: AI
 type: auto
 draft: false

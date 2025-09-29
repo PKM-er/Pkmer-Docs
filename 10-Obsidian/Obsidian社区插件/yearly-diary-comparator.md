@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643425
-title: 'Obsidian 插件：Yearly Diary Comparator'
-tags: ['日历与时间', '图表与可视化', '数据分析', '效率工具', 'obsidian插件']
-description: '在每日笔记里展示日记的逐年对比，左右两边对照着看。'
+uid: 2025071505643424
+title: Obsidian 插件：Yearly Diary Comparator
+tags:
+  - 日历与时间
+  - 图表与可视化
+  - 数据分析
+  - 效率工具
+  - obsidian插件
+description: 在每日笔记里展示日记的逐年对比，左右两边对照着看。
 author: AI
 type: auto
 draft: false

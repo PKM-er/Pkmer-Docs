@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643411
-title: 'Obsidian 插件：Streams'
-tags: ['文件管理', '日历与时间', '效率工具', 'obsidian插件']
-description: '创建并管理多个每日笔记流'
+uid: 2025071505643972
+title: Obsidian 插件：Streams
+tags:
+  - 文件管理
+  - 日历与时间
+  - 效率工具
+  - obsidian插件
+description: 创建并管理多个每日笔记流
 author: AI
 type: auto
 draft: false

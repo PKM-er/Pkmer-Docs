@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643421
-title: 'Obsidian 插件：Todo.txt Mode'
-tags: ['任务管理', '编辑工具', '效率工具', '第三方工具集成', 'obsidian插件']
-description: '支持todo.txt文件格式，具备语法高亮显示和任务管理功能。'
+uid: 2025071505643420
+title: Obsidian 插件：Todo.txt Mode
+tags:
+  - 任务管理
+  - 编辑工具
+  - 效率工具
+  - 第三方工具集成
+  - obsidian插件
+description: 支持todo.txt文件格式，具备语法高亮显示和任务管理功能。
 author: AI
 type: auto
 draft: false

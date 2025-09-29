@@ -1,8 +1,12 @@
 ---
-uid: 20250715005640496
-title: 'Obsidian 插件：Excalidraw'
-tags: ['图表与可视化', '编辑工具', '界面优化', 'obsidian插件']
-description: '可以让你在 Obsidian 中 使用 Excalidraw 绘图 '
+uid: 2025071505640496
+title: Obsidian 插件：Excalidraw
+tags:
+  - 图表与可视化
+  - 编辑工具
+  - 界面优化
+  - obsidian插件
+description: 可以让你在 Obsidian 中 使用 Excalidraw 绘图 
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643366
-title: 'Obsidian 插件：Countdown To'
-tags: ['图表与可视化', '日历与时间', '效率工具', 'obsidian插件']
-description: '在你的笔记里创建倒计时进度条。'
+uid: 2025071505143908
+title: Obsidian 插件：Countdown To
+tags:
+  - 图表与可视化
+  - 日历与时间
+  - 效率工具
+  - obsidian插件
+description: 在你的笔记里创建倒计时进度条。
 author: AI
 type: auto
 draft: false

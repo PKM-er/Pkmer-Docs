@@ -1,8 +1,14 @@
 ---
-uid: 20250715005643359
-title: 'Obsidian 插件：Canvas Connect'
-tags: ['图表与可视化', '自动化与AI', '效率工具', '白板学术与科研', '图谱', 'obsidian插件']
-description: '在画布视图中通过智能路由动态更新连接锚点。'
+uid: 2025071505643970
+title: Obsidian 插件：Canvas Connect
+tags:
+  - 图表与可视化
+  - 自动化与AI
+  - 效率工具
+  - 白板学术与科研
+  - 图谱
+  - obsidian插件
+description: 在画布视图中通过智能路由动态更新连接锚点。
 author: AI
 type: auto
 draft: false

@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643403
-title: 'Obsidian 插件：Simple Anki Sync'
-tags: ['第三方工具集成', '学习与教育', 'ANKI', '效率工具', 'obsidian插件']
-description: '一种轻松与Anki同步基础闪卡的方法，无需花时间调整设置，让你百分百的时间都用在学习上。'
+uid: 2025071505643188
+title: Obsidian 插件：Simple Anki Sync
+tags:
+  - 第三方工具集成
+  - 学习与教育
+  - ANKI
+  - 效率工具
+  - obsidian插件
+description: 一种轻松与Anki同步基础闪卡的方法，无需花时间调整设置，让你百分百的时间都用在学习上。
 author: AI
 type: auto
 draft: false

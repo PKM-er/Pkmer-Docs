@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643396
-title: 'Obsidian 插件：Random broken link'
-tags: ['学习与教育', '模板与链接处理', '效率工具', 'obsidian插件']
-description: '通过访问随机的失效链接来拓展你的知识。'
+uid: 2025071505643120
+title: Obsidian 插件：Random broken link
+tags:
+  - 学习与教育
+  - 模板与链接处理
+  - 效率工具
+  - obsidian插件
+description: 通过访问随机的失效链接来拓展你的知识。
 author: AI
 type: auto
 draft: false

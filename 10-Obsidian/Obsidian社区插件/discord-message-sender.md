@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643371
-title: 'Obsidian 插件：Discord Message Sender'
-tags: ['第三方工具集成', '社交与社区', '效率工具', 'obsidian插件']
-description: '把Discord频道里的消息发送到你的仓库'
+uid: 2025071505613990
+title: Obsidian 插件：Discord Message Sender
+tags:
+  - 第三方工具集成
+  - 社交与社区
+  - 效率工具
+  - obsidian插件
+description: 把Discord频道里的消息发送到你的仓库
 author: AI
 type: auto
 draft: false

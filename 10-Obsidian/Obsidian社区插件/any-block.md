@@ -1,8 +1,12 @@
 ---
-uid: 20250715005641461
-title: 'Obsidian 插件：Any Block'
-tags: ['编辑工具', '表格', '数据处理', 'obsidian插件']
-description: '您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如`列表转表格`。'
+uid: 2025071505641460
+title: Obsidian 插件：Any Block
+tags:
+  - 编辑工具
+  - 表格
+  - 数据处理
+  - obsidian插件
+description: 您可以通过某种方式灵活地创建一个“块”。它还提供了一些有用的功能，比如`列表转表格`。
 author: AI
 type: auto
 draft: false

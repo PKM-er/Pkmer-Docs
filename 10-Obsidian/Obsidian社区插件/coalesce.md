@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643363
-title: 'Obsidian 插件：Coalesce'
-tags: ['搜索与排序', '数据处理', '效率工具', 'obsidian插件']
-description: '把带有反向链接的笔记整合到一个视图里。'
+uid: 2025071505643948
+title: Obsidian 插件：Coalesce
+tags:
+  - 搜索与排序
+  - 数据处理
+  - 效率工具
+  - obsidian插件
+description: 把带有反向链接的笔记整合到一个视图里。
 author: AI
 type: auto
 draft: false

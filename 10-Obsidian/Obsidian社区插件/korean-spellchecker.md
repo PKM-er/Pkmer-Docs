@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643383
-title: 'Obsidian 插件：Korean Spellchecker'
-tags: ['文字处理', '编辑工具', '第三方工具集成', '效率工具', 'obsidian插件']
-description: '利用在线服务检查韩语拼写和语法。该插件有个自定义词典功能，能避免特定名词（比如人名、专业术语）被误标为错误。'
+uid: 2025071505643180
+title: Obsidian 插件：Korean Spellchecker
+tags:
+  - 文字处理
+  - 编辑工具
+  - 第三方工具集成
+  - 效率工具
+  - obsidian插件
+description: 利用在线服务检查韩语拼写和语法。该插件有个自定义词典功能，能避免特定名词（比如人名、专业术语）被误标为错误。
 author: AI
 type: auto
 draft: false

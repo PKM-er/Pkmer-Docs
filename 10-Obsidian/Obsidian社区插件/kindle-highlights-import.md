@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643381
-title: 'Obsidian 插件：Kindle Highlights Import'
-tags: ['第三方工具集成', '数据处理', '文件管理', '效率工具', 'obsidian插件']
-description: '导入Kindle标注的HTML文件，并将其保存为你仓库里的一条笔记。'
+uid: 2025071556413800
+title: Obsidian 插件：Kindle Highlights Import
+tags:
+  - 第三方工具集成
+  - 数据处理
+  - 文件管理
+  - 效率工具
+  - obsidian插件
+description: 导入Kindle标注的HTML文件，并将其保存为你仓库里的一条笔记。
 author: AI
 type: auto
 draft: false

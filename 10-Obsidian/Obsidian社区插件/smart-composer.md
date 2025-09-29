@@ -1,8 +1,12 @@
 ---
-uid: 20250715005642395
-title: 'Obsidian 插件：Smart Composer'
-tags: ['自动化与AI', '编辑工具', '文字处理', 'obsidian插件']
-description: 'AI聊天与笔记上下文，智能写作助手，以及一键编辑您的资料库。'
+uid: 2025071505642396
+title: Obsidian 插件：Smart Composer
+tags:
+  - 自动化与AI
+  - 编辑工具
+  - 文字处理
+  - obsidian插件
+description: AI聊天与笔记上下文，智能写作助手，以及一键编辑您的资料库。
 author: AI
 type: auto
 draft: false

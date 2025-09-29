@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643374
-title: 'Obsidian 插件：Fountain'
-tags: ['文字处理', '编辑工具', '效率工具', 'obsidian插件']
-description: '用索引卡片以及众多其他功能，以Fountain格式撰写和查看剧本。'
+uid: 2025071505643930
+title: Obsidian 插件：Fountain
+tags:
+  - 文字处理
+  - 编辑工具
+  - 效率工具
+  - obsidian插件
+description: 用索引卡片以及众多其他功能，以Fountain格式撰写和查看剧本。
 author: AI
 type: auto
 draft: false

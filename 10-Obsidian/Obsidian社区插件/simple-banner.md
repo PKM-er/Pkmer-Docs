@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643404
-title: 'Obsidian 插件：Simple Banner'
-tags: ['样式与美化', '界面优化', '日历与时间', '效率工具', 'obsidian插件']
-description: '用可定制的横幅为你的笔记增添视觉效果。支持显示图标和时间/日期。'
+uid: 2025071505643404
+title: Obsidian 插件：Simple Banner
+tags:
+  - 样式与美化
+  - 界面优化
+  - 日历与时间
+  - 效率工具
+  - obsidian插件
+description: 用可定制的横幅为你的笔记增添视觉效果。支持显示图标和时间/日期。
 author: AI
 type: auto
 draft: false

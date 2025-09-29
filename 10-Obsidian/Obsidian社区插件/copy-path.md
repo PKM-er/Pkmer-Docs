@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643365
-title: 'Obsidian 插件：Copy Path'
-tags: ['文件管理', '自定义命令', '效率工具', 'obsidian插件']
-description: '添加了用于复制文件和文件夹的完整路径或相对于仓库路径的上下文菜单操作。'
+uid: 2025071505643910
+title: Obsidian 插件：Copy Path
+tags:
+  - 文件管理
+  - 自定义命令
+  - 效率工具
+  - obsidian插件
+description: 添加了用于复制文件和文件夹的完整路径或相对于仓库路径的上下文菜单操作。
 author: AI
 type: auto
 draft: false

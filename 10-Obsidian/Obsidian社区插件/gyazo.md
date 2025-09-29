@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643377
-title: 'Obsidian 插件：Gyazo Viewer'
-tags: ['第三方工具集成', '图片与PDF', '效率工具', 'obsidian插件']
-description: '展示你用Gyazo捕获的内容，并将它们嵌入到你的笔记中。'
+uid: 2025071505643936
+title: Obsidian 插件：Gyazo Viewer
+tags:
+  - 第三方工具集成
+  - 图片与PDF
+  - 效率工具
+  - obsidian插件
+description: 展示你用Gyazo捕获的内容，并将它们嵌入到你的笔记中。
 author: AI
 type: auto
 draft: false

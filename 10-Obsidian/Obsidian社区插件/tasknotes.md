@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643415
-title: 'Obsidian 插件：TaskNotes'
-tags: ['任务管理', '日历与时间', '第三方工具集成', '效率工具', 'obsidian插件']
-description: '基于笔记的任务管理，集成了日历、番茄钟和时间跟踪功能。'
+uid: 2025071505643190
+title: Obsidian 插件：TaskNotes
+tags:
+  - 任务管理
+  - 日历与时间
+  - 第三方工具集成
+  - 效率工具
+  - obsidian插件
+description: 基于笔记的任务管理，集成了日历、番茄钟和时间跟踪功能。
 author: AI
 type: auto
 draft: false

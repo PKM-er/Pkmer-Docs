@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643389
-title: 'Obsidian 插件：Markdown Calendar Generator'
-tags: ['表格', '编辑工具', '日历与时间', '效率工具', 'obsidian插件']
-description: '一款特意设计得很简单的 Markdown 表格日历生成器'
+uid: 2025071505643984
+title: Obsidian 插件：Markdown Calendar Generator
+tags:
+  - 表格
+  - 编辑工具
+  - 日历与时间
+  - 效率工具
+  - obsidian插件
+description: 一款特意设计得很简单的 Markdown 表格日历生成器
 author: AI
 type: auto
 draft: false

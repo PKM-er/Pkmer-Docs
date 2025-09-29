@@ -1,8 +1,12 @@
 ---
-uid: 20250715005642191
-title: 'Obsidian 插件：Virtual Linker / Glossary'
-tags: ['编辑工具', '模板与链接处理', '文字处理', 'obsidian插件']
-description: '自动为您笔记中与存储库中其他笔记的标题或别名匹配的文本创建虚拟链接。创建类似词汇表的功能，显示未链接提及并将其转换为实际链接。'
+uid: 2025071505642190
+title: Obsidian 插件：Virtual Linker / Glossary
+tags:
+  - 编辑工具
+  - 模板与链接处理
+  - 文字处理
+  - obsidian插件
+description: 自动为您笔记中与存储库中其他笔记的标题或别名匹配的文本创建虚拟链接。创建类似词汇表的功能，显示未链接提及并将其转换为实际链接。
 author: AI
 type: auto
 draft: false

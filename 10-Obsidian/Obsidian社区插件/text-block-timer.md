@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643418
-title: 'Obsidian 插件：Text Block Timer'
-tags: ['任务管理', '日历与时间', '效率工具', '编辑工具', 'obsidian插件']
-description: '给文本块添加一个计时器，用来追踪任务的耗时情况。'
+uid: 2025071505643104
+title: Obsidian 插件：Text Block Timer
+tags:
+  - 任务管理
+  - 日历与时间
+  - 效率工具
+  - 编辑工具
+  - obsidian插件
+description: 给文本块添加一个计时器，用来追踪任务的耗时情况。
 author: AI
 type: auto
 draft: false

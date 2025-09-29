@@ -1,8 +1,13 @@
 ---
-uid: 20250715005643357
-title: 'Obsidian 插件：Better Heading Hierarchy'
-tags: ['样式与美化', '界面优化', '编辑工具', '效率工具', 'obsidian插件']
-description: '添加引导线，让 Markdown 标题的层级结构在视觉上更加清晰。'
+uid: 2025071505643908
+title: Obsidian 插件：Better Heading Hierarchy
+tags:
+  - 样式与美化
+  - 界面优化
+  - 编辑工具
+  - 效率工具
+  - obsidian插件
+description: 添加引导线，让 Markdown 标题的层级结构在视觉上更加清晰。
 author: AI
 type: auto
 draft: false

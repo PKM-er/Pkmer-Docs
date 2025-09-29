@@ -1,8 +1,14 @@
 ---
-uid: 20250715005643413
-title: 'Obsidian 插件：Table List'
-tags: ['表格', '任务管理', '效率工具', '数据处理', '搜索与排序', 'obsidian插件']
-description: '添加一个表格视图来管理你的任务。'
+uid: 2025071505643916
+title: Obsidian 插件：Table List
+tags:
+  - 表格
+  - 任务管理
+  - 效率工具
+  - 数据处理
+  - 搜索与排序
+  - obsidian插件
+description: 添加一个表格视图来管理你的任务。
 author: AI
 type: auto
 draft: false

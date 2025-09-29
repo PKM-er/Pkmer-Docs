@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643375
-title: 'Obsidian 插件：Frontmatter Metadata Link Classes'
-tags: ['样式与美化', '模板与链接处理', '效率工具', 'obsidian插件']
-description: '根据前置元数据为内部链接添加类别。'
+uid: 2025071505643244
+title: Obsidian 插件：Frontmatter Metadata Link Classes
+tags:
+  - 样式与美化
+  - 模板与链接处理
+  - 效率工具
+  - obsidian插件
+description: 根据前置元数据为内部链接添加类别。
 author: AI
 type: auto
 draft: false

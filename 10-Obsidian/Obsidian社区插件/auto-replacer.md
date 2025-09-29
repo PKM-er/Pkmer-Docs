@@ -1,8 +1,14 @@
 ---
-uid: 20250715005643354
-title: 'Obsidian 插件：Auto Replacer'
-tags: ['文字处理', '编辑工具', '自动化与AI', '编程与脚本', '效率工具', 'obsidian插件']
-description: '用正则表达式规则和 JavaScript 函数自动替换笔记里的文本。'
+uid: 2025071505643350
+title: Obsidian 插件：Auto Replacer
+tags:
+  - 文字处理
+  - 编辑工具
+  - 自动化与AI
+  - 编程与脚本
+  - 效率工具
+  - obsidian插件
+description: 用正则表达式规则和 JavaScript 函数自动替换笔记里的文本。
 author: AI
 type: auto
 draft: false

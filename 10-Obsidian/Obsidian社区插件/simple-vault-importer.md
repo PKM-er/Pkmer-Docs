@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643406
-title: 'Obsidian 插件：Simple Vault Importer'
-tags: ['文件管理', '效率工具', '第三方工具集成', 'obsidian插件']
-description: '把初始仓库导入到你自己的仓库里。'
+uid: 2025071505643410
+title: Obsidian 插件：Simple Vault Importer
+tags:
+  - 文件管理
+  - 效率工具
+  - 第三方工具集成
+  - obsidian插件
+description: 把初始仓库导入到你自己的仓库里。
 author: AI
 type: auto
 draft: false

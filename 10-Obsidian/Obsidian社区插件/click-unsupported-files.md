@@ -1,8 +1,12 @@
 ---
-uid: 20250715005643362
-title: 'Obsidian 插件：Click Unsupported Files'
-tags: ['文件管理', '界面优化', '效率工具', 'obsidian插件']
-description: '更改不支持的文件的点击行为，使其类似于 Windows 文件资源管理器：单击选中文件，双击则用默认应用程序打开文件。'
+uid: 2025071505643360
+title: Obsidian 插件：Click Unsupported Files
+tags:
+  - 文件管理
+  - 界面优化
+  - 效率工具
+  - obsidian插件
+description: 更改不支持的文件的点击行为，使其类似于 Windows 文件资源管理器：单击选中文件，双击则用默认应用程序打开文件。
 author: AI
 type: auto
 draft: false
