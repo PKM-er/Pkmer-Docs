@@ -14,6 +14,7 @@ draft: false
 editable: false
 modified: 20250212190649
 id: 0ad80ec603ac5a5a
+createdAt: 2025/05/24 09:26:06
 ---
 
 # Thino 微信内容发送到 Thino
@@ -60,7 +61,7 @@ id: 0ad80ec603ac5a5a
 
 > [!Warning] 注意
 > - 对于微信同步能力，依赖 Thino Web 服务，目前 Web 服务对早鸟用户是免费试用的
-> - PKMer 公布价格后，不要您补交之前是使用费用
+> - PKMer 公布价格后，不需要您补交之前的是使用费用
 > - 同理，请您务必关注您的 Web 服务付费状态
 
 ### 微信中使用

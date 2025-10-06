@@ -13,6 +13,7 @@ draft: false
 editable: false
 modified: 20250122192741
 id: 9d9908ae3ca65b1c
+createdAt: 2025/05/24 09:26:06
 ---
 
 # Thino 全局唤醒
@@ -21,7 +22,7 @@ id: 9d9908ae3ca65b1c
 > - 此功能在 Thino 2.1.5 及以上
 > - 此功依赖 Thino Pro
 
-顾名思义，全局唤醒功能即再 电脑端（Win 端、Mac 可用，鸿蒙系统暂不支持）阅读时，随时唤醒 thino ，以达到快速摘录的目的。
+顾名思义，全局唤醒功能即 在电脑端（Win 端、Mac 可用，鸿蒙系统暂不支持）阅读时，随时唤醒 Thino ，以达到快速摘录的目的。
 
 如何使用 Thino 的全局唤醒功能
 
