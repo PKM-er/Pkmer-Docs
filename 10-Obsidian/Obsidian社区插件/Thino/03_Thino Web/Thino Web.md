@@ -13,11 +13,12 @@ draft: false
 editable: false
 modified: 20241019094118
 id: 801606615ba86d1a
+createdAt: 2025/05/24 09:26:06
 ---
 
 # Thino Web
 
-Thino Web 的使用大体于 Thino 本地版趋同，地址： <https://thino.pkmer.cn>
+Thino Web 基本功能（支持 markddown，支持卡片记录模式等）与 Thino 本地版趋同，地址： <https://thino.pkmer.cn>
 
 ![image.png](https://cdn.pkmer.cn/images/202405262358883.png!pkmer)
 
