@@ -65,12 +65,6 @@ modified: 20251021004400
 
 ![Weekly-2025-10-19-Pasted image 20251021000535|650](https://cdn.pkmer.cn/images/Weekly-2025-10-19-Pasted%20image%2020251021000535.png!pkmer)
 
-[Visited Countries](https://obsidian.md/plugins?id=visited-countries) By _Ivan Peshykov_
-
-> 在交互式世界地图上标记并可视化您访问过的国家/地区。
-
-![Weekly-2025-10-19-Pasted image 20251021000358|650](https://cdn.pkmer.cn/images/Weekly-2025-10-19-Pasted%20image%2020251021000358.png!pkmer)
-
 [HiWords](https://obsidian.md/plugins?id=hi-words) By _Kai_
 
 > 通过自动突出显示和翻译不熟悉的单词，在阅读时轻松增加词汇量。
