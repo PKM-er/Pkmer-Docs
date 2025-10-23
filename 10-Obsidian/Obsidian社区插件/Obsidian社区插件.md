@@ -366,6 +366,7 @@ Obsidian 非常重视你的数据安全，这使得我们非常重视安全问�
 
 - [[obsidian-banners]]：为文档页面添加头图和图标
 - [[pexels-banner]]：值得一试的头图插件
+- [[pretty-properties]]：Pretty Properties 为笔记增加侧图和横幅 banner 功能
 - [[obsidian-style-settings]]：给主题，插件，css 片段提供样式设置的插件
 - [[obsidian-file-color]]：让你文件管理多姿多彩
 - [[obsidian-icon-folder]]：允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件
