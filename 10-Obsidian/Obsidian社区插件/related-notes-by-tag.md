@@ -10,7 +10,7 @@ editable: false
 modified: 20251017161500
 ---
 
-# Obsidian 插件：Related Notes by Tag
+# Obsidian 插件：Related Notes by Tag 显示当前笔记的标签和标签关联的笔记
 
 ## 概述
 
