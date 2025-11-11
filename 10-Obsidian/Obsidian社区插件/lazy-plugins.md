@@ -2,7 +2,7 @@
 uid: 20240902164727
 title: Obsidian 插件：Lazy Plugin Loader 插件重度用户的福音，Obsidian 启动缓慢终结者
 tags: ['数据处理', '笔记链接', 'ANKI', 'obsidian插件']
-description: 将您保险库中的一个文件夹中的闪卡与Anki同步。纯Markdown语法。毫不费力。
+description: Obsidian 插件：Lazy Plugin Loader 插件重度用户的福音，可以控制插件启动顺序和开启延迟时间，Obsidian 启动缓慢终结者
 author: OS
 type: other
 draft: false
