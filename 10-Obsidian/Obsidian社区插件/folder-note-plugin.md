@@ -87,7 +87,7 @@ Obsidian 插件：为文件夹添加描述笔记。生成以卡片样式呈现�
 - Folder note name：文件夹笔记的名称 `{{folder_name}}` 代表文件夹的名称
 - Default folder note type for new folder notes：默认类型，`markdown`
 - Supported file types for folder notes：新增类型，以便在上面进行选择
-- Template path ：选择文件夹笔记的模板 [笔记模板](../../../../../../../../5-资源箱/T%20模板/笔记模板.md)
+- Template path ：选择文件夹笔记的模板
 - Storage location：文件夹笔记的位置
     - inside the folder：在内部
     - In the parent folder：在旁边
