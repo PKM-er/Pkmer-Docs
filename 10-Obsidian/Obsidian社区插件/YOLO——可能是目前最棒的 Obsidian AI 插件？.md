@@ -1,10 +1,13 @@
 ---
 uid: 20251205152905
 title: YOLO 的亮点/主要功能都有哪些？
-tags: 
-description: 
-author: 
-type: other
+tags:
+  - AI
+  - 插件
+  - 💻教程
+description: 介绍Obsidian新AI插件——YOLO
+author: 时歌
+type: tutorial
 draft: false
 editable: false
 modified: 20251205152931
