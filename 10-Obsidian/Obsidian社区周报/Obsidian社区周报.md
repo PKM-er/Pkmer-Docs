@@ -20,8 +20,9 @@ modified: 20250826001709
 
 ## 2025
 
-- [[2025-11-16-Obsidian Weekly]]（New!）
-- [[2025-11-02-Obsidian Weekly]]（New!）
+- [[2025-11-30-Obsidian Weekly]]（New!）
+- [[2025-11-16-Obsidian Weekly]]
+- [[2025-11-02-Obsidian Weekly]]
 - [[2025-10-26-Obsidian Weekly]]
 - [[2025-10-19-Obsidian Weekly]]
 - [[2025-10-12-Obsidian Weekly]]
