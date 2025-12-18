@@ -52,3 +52,4 @@ modified: 20250116113629
 - [Hank's Blog (zhaohongxuan.github.io)](https://zhaohongxuan.github.io/)
 - [Welcome to My Website! - Jotham Lim's Notes](https://jothamlim.me/05_PUBLISHED/Welcome+to+My+Website!)
 - [Sean's Blog](https://sean2077.pages.dev/): Sean 的个人技术博客，分享编程、工具使用、知识管理等内容，基于 Obsidian 和 Quartz 构建。
+- [阿曲的荒原](https://blog.qudange.top/)：曲淡歌的个人博客，分享关于自托管服务器、个人知识管理，音视频剪辑的经验
