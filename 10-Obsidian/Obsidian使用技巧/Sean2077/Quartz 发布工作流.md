@@ -1,19 +1,19 @@
 ---
-created: 2025-11-29 22:50
-updated: 2025-12-09 14:30
+uid: 20251129103358
+title: Obsidian + Quartz v4  构建的个人知识发布体系
+tags: [演示, PPT]
+description: Obsidian + Quartz v4  构建的个人知识发布体系
+author: sean2077
+type: advanced
+draft: false
+editable: false
+modified: 20251129103358
 publish: true
-tags:
-  - type/guide
-  - topic/knowledge-management
-  - tech/quartz
-  - tech/cloudflare
-topics:
-  - 知识管理
-  - 博客发布
-aliases:
-  - 知识库发布流程
-status: active
 ---
+
+# Obsidian + Quartz v4  构建的个人知识发布体系
+
+## 概述
 
 本文描述了基于 **Obsidian + Quartz v4** 构建的个人知识发布体系，采用双仓库架构，确保私有笔记与公开博客严格隔离。
 
