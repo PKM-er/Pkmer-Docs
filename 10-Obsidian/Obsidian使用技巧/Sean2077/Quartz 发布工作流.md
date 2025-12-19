@@ -1,14 +1,13 @@
 ---
 uid: 20251129103358
-title: Obsidian + Quartz v4  构建的个人知识发布体系
-tags: [演示, PPT]
-description: Obsidian + Quartz v4  构建的个人知识发布体系
+title: Obsidian  Quartz 构建的个人知识发布体系
+tags: [发布,知识体系,Quartz]
+description: Obsidian  Quartz v4 构建的个人知识发布体系
 author: sean2077
 type: advanced
 draft: false
 editable: false
 modified: 20251129103358
-publish: true
 ---
 
 # Obsidian + Quartz v4  构建的个人知识发布体系
