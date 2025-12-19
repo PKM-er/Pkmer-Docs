@@ -1,19 +1,16 @@
 ---
-created: 2025-08-26 23:37
-updated: 2025-12-09 14:30
-publish: true
-tags:
-  - type/guide
-  - topic/knowledge-management
-  - topic/obsidian
-topics:
-  - 知识管理
-  - Obsidian
-aliases:
-  - OB 库设计
-  - Obsidian 笔记库设计
-status: active
+uid: 20250826233751
+title: Obsidian 笔记库设计
+tags: [笔记体系]
+description:  Obsidian 笔记库设计
+author: sean2077
+type: basic
+draft: false
+editable: false
+modified: 20250826233751
 ---
+
+# 个人分享 Obsidian 笔记库设计
 
 使用 Obsidian 管理个人知识库已有一段时间，期间经历过多次目录重构。本文记录我当前的笔记库设计思路，希望对正在搭建或优化 Obsidian 库的朋友有所启发。
 
