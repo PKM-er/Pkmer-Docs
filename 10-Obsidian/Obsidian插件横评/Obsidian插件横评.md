@@ -213,7 +213,7 @@ modified: 20251228210441
 
 [Random names](https://obsidian.md/plugins?id=random-names) By *Tom Parker-Shemilt*
 
-> 生成随机名称。
+> 向文档中插入随机名称（包括人和物品）。
 
 [Callout Suggestions](https://obsidian.md/plugins?id=callout-suggestions) By *Casey Fryer*
 
