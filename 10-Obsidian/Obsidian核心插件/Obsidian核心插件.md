@@ -18,8 +18,8 @@ modified: 20230530231646
 
 这些插件又被官方分为了两大类：
 
-- [[Obsidian#核心插件]]
-- [[Obsidian#社区插件]]
+- [[10-Obsidian/Obsidian#核心插件]]
+- [[10-Obsidian/Obsidian#社区插件]]
 
 ## 核心插件
 
@@ -31,4 +31,4 @@ modified: 20230530231646
 
 ## 核心插件的当前列表
 
- [[Obsidian#核心插件]]
+ [[10-Obsidian/Obsidian#核心插件]]
