@@ -1,61 +1,103 @@
 ---
 uid: 20251224170436
-title: 用QuickAdd实现正则替换
+title: 用 QuickAdd 实现正则替换
 tags: []
 description: 
 author: wtjl
 type: other
 draft: false
 editable: false
-modified: 20251227094050
+modified: 20251228204306
 ---
 
 # 用 QuickAdd 实现正则替换
 
 ```js
-function replace(rules, editor) {
-    if (!editor) return;
-    for (const rule of rules) {
-        const { pattern, replacement, useRegex } = Array.isArray(rule) 
-            ? { pattern: rule[0], replacement: rule[1], useRegex: rule[2] }
-            : rule || {};
-        
-        if (!pattern) continue;
-        
-        const selection = editor.getSelection();
-        const text = selection || editor.getValue();
-        if (!text) continue;
-        
-        try {
-            const newText = /^(true|yes|y|1|是)$/i.test(useRegex?.trim())
-                ? text.replace(new RegExp(pattern, "g"), replacement || "")
-                : text.replaceAll(pattern, replacement || "");
-            
-            selection
-                ? editor.replaceSelection(newText)
-                : editor.setValue(newText);
-            console.log(`Replace "${pattern}" success.`);
-        } catch (error) {
-            console.error(`Replace "${pattern}" failed:`, error);
-        }
+let Notice;
+
+function applyRule(text, rule) {
+    if (!text || !rule) return text;
+    
+    const { pattern, replacement, useRegex } = Array.isArray(rule) 
+        ? { pattern: rule[0], replacement: rule[1], useRegex: rule[2] }
+        : rule || {};
+
+    if (!pattern) return text;
+    
+    try {
+        const isRegex = /^(true|yes|y|1|是)$/i.test(String(useRegex || "").trim());
+        const newText = isRegex
+            ? text.replace(new RegExp(pattern, "g"), replacement || "")
+            : text.replaceAll(pattern, replacement || "");
+        console.debug(`Replace "${pattern}" success.`);
+        return newText;
+    } catch(error) {
+        console.error(`Replace "${pattern}" failed:`, error);
+        return text;
     }
 }
 
+async function replaceInFile(file, rules) {
+    let content = await app.vault.read(file);
+    
+    for (const rule of rules) {
+        if (!content) break;
+        content = applyRule(content, rule);
+    }
+    await app.vault.modify(file, content);
+}
+
+async function globalReplace(rules) {
+    const files = app.vault.getMarkdownFiles();
+    for (const file of files) {
+        await replaceInFile(file, rules);
+    }
+    new Notice(`Finished.`, 3000);
+}
+
+function replaceByEditor(editor, rules) {
+    if (!editor) return;
+    const selection = editor.getSelection();
+    let text = selection || editor.getValue();
+    
+    for (const rule of rules) {
+        if (!text) break;
+        text = applyRule(text, rule);
+    }
+    selection ? editor.replaceSelection(text) : editor.setValue(text);
+    new Notice(`Finished.`, 3000);
+}
+
 async function start(params, settings) {
-    const { quickAddApi = app.plugins.plugins.quickadd.api } = params || {};
+    const { obsidian, quickAddApi = app.plugins.plugins.quickadd.api } = params || {};
+    ({ Notice } = obsidian);
 
-    let rules = (() => {try {return JSON.parse(settings?.rules || "[]");} catch {return []}})();
+    let ruleset;
+    try {
+        ruleset = {scope: settings.scope, rules: JSON.parse(settings.rules || "[]")}
+    } catch (error) {}
 
-    if (!rules?.length) {
+    if (!ruleset?.rules?.length) {
         const inputs = await quickAddApi?.requestInputs([
             { id: 'pattern', label: "查找", type: "text" },
             { id: 'replacement', label: "替换", type: "text" },
-            { id: 'useRegex', label: "正则", type: "dropdown", options: ['是', '否'], defaultValue: '否' },
+            { id: 'useRegex', label: "正则", type: "dropdown", options: ['yes', 'no'], defaultValue: 'no' },
+            { id: 'scope', label: "范围", type: "dropdown", options: ['file', 'vault'], defaultValue: 'file' },
         ]);
-        rules = [inputs];
+        ruleset = {scope: inputs.scope, rules: [inputs]}
     }
-    
-    replace(rules, app.workspace.activeLeaf?.view?.editor);
+
+    const {scope, rules} = ruleset;
+    switch (scope) {
+        case 'file':
+            replaceByEditor(app.workspace.activeLeaf?.view?.editor, rules);
+            break;
+        case 'vault':
+            await globalReplace(rules);
+            break;
+        default:
+            break;
+    }
 }
 
 module.exports = {
@@ -68,10 +110,15 @@ module.exports = {
                 type: "textarea",
                 defaultValue: "[]",
                 placeholder: '[["pattern", "replacement", "useRegex"]]',
+            },
+            scope: {
+                type: "dropdown",
+                defaultValue: "file",
+                options: ['file', 'vault']
             }
         }
     }
-};
+}
 ```
 
 说明:
