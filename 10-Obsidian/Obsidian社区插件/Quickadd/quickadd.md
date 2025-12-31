@@ -176,6 +176,8 @@ module.exports = async (params) => {
 
 1. [[QuickAdd脚本-插入并编辑SVG文件]]
 2. [[QuickAdd脚本-F2弹窗式重命名三合一]]
+3. [[用QuickAdd实现正则替换]]
+4. [[用QuickAdd实现跳转到指定标题]]
 
 ### 文件操作
 
