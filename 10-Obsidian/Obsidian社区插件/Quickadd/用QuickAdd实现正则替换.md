@@ -12,7 +12,7 @@ modified: 20251231050340
 
 # 用 QuickAdd 实现正则替换
 
-![[PixPin_2025-12-31_04-55-26.gif]]
+![PixPin_2025-12-31_04-55-26](https://cdn.pkmer.cn/images/PixPin_2025-12-31_04-55-26.gif!pkmer)
 
 ```js
 let Notice;
