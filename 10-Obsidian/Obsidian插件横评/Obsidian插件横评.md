@@ -3,6 +3,7 @@ uid: 20251228210134
 title: Obsidian插件横评
 tags: ['Obsidian', 'Obsidian插件', '插件横评']
 description: 按照**使用场景和功能**对近年涌现的新插件进行细致的整理分类和简要测评，以便有相关需求的用户迅速找到最适合自己的插件。
+author: 淡水鱼
 type: other
 draft: false
 editable: false
