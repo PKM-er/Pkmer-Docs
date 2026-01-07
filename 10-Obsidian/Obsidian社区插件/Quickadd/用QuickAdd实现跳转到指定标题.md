@@ -12,7 +12,7 @@ modified: 20251230092120
 
 # 用 QuickAdd 实现跳转到指定标题
 
-![[Pasted image 20251230092116.png]]
+![Pasted image 20251230092116](https://cdn.pkmer.cn/images/Pasted%20image%2020251230092116.png!pkmer)
 
 ```js
 module.exports = async function showAndGotoHeadings(params) {
