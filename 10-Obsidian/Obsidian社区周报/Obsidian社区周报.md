@@ -20,7 +20,8 @@ modified: 20260107002410
 
 ## 2025
 
-- [[2026-01-04-Obsidian Weekly]]（New! 祝大家新年快乐！）
+- [[2026-01-12-Obsidian Weekly]]（New! ）
+- [[2026-01-04-Obsidian Weekly]]
 - [[2025-12-28-Obsidian Weekly]]
 - [[2025-12-14-Obsidian Weekly]]
 - [[2025-11-30-Obsidian Weekly]]
