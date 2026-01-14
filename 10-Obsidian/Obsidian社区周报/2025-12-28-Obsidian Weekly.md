@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20251231164712
+modified: 20260114235133
 ---
 
 # Obsidian Weekly 2025-12-28：Obsidian v1.11.2 内测版前瞻&记住光标位置及 Zotero 联动新方案
@@ -18,7 +18,7 @@ modified: 20251231164712
 
 ## 官方资讯
 
-### Obsidian v1.11.2 内测版已发布！
+### Obsidian v1.11.2 内测版已发布
 
 #### 桌面版
 
@@ -63,7 +63,7 @@ modified: 20251231164712
 ## 插件新闻
 
 ### 社区插件
- 
+
 #### 新增
 
 [Tag Timer](https://obsidian.md/plugins?id=tag-timer) By _quantavil_
@@ -81,6 +81,7 @@ modified: 20251231164712
 [TIPA Support](https://obsidian.md/plugins?id=tipa-support) By _Deniz Akdemir_
 
 > 新增对 TIPA 音标注记的支持。
+>
 >> TIPA (TEX IPA) 是一套用于在 LATEX 中处理 IPA（国际音标）符号的系统。
 
 [Deep Sit](https://obsidian.md/plugins?id=deep-sit) By _Ahmed Bassiouni_
@@ -132,7 +133,7 @@ modified: 20251231164712
 
 ### PKMer 出品
 
-> [!INFO] 
+> [!INFO]
 > **PKMer**（[PKMer.cn](https://pkmer.cn/)、[PKMer.net](https://pkmer.net/)）旨在打造东半球强大的知识管理社区。Personal Knowledge Management (PKM) + "er"，其中 "er" 表示人，专注、喜爱个人知识管理工作、追求效率的人们，都可以划入这个行列，希望社区凝聚更多这样的人。
 
 #### Thino 更新至 [v2.8.14](https://github.com/Quorafind/Obsidian-Thino/releases/tag/2.8.14)
@@ -144,7 +145,7 @@ modified: 20251231164712
 
 ## PKM 相关知识推荐
 
-> [!INFO] 
+> [!INFO]
 > 欢迎收藏 [PKMer 导航页](https://pkmer.cn/link/)，一键直通 PKMer 各社交平台账号，与热爱分享与知识管理的同好们交流，第一时间获取行业新鲜资讯！
 
 ### [用 QuickAdd 实现跳转到指定标题]( https://pkmer.cn/show/20251227172849 )
@@ -152,7 +153,6 @@ modified: 20251231164712
 ### [用 QuickAdd 实现正则替换]( https://pkmer.cn/show/20251224170436 )
 
 两篇活用 QuickAdd 插件快捷实现高级功能的教程，均提供成品代码，操作极简，欢迎有相关需求的用户套用参考。
-
 
 > [!Warning] 声明
 > 本栏目致力于为广大 Obsidian 中文用户汇总全面的官方资讯与插件、外观动态。为了保持信息的全面性，我们的**收录并不等同于推荐**，还请各位用户知悉并理解，根据自身需求进行判断和选择。

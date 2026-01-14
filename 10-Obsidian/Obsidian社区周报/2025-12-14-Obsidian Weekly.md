@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20251217001305
+modified: 20260114235251
 ---
 
 # Obsidian Weekly 2025-12-14：Obsidian v1.11.1 内测版前瞻
@@ -109,6 +109,110 @@ modified: 20251217001305
 ## 插件新闻
 
 ### 社区插件
+
+#### 新增
+
+[DOCX Exporter](https://obsidian.md/plugins?id=docx-exporter) By _Kanshurichard_
+
+> 支持将笔记导出为 Microsoft Word docx 文件，无需安装 Pandoc 等额外的外部工具，并可在移动设备上使用。
+> - **跨平台支持**：可在 Windows、macOS、Linux、iOS 和 Android 上运行，无需额外软件。
+> - **富文本导出**：支持导出包括标题、粗体、斜体、列表、超链接和代码块在内的多种 Markdown 格式。
+> - **图片支持**：能够导出笔记中的本地及网络图片，并自动处理图片格式与尺寸。
+> - **兼容性**：生成的 DOCX 文件与 Microsoft Word 具有良好的兼容性。
+
+![Weekly-2025-12-14-Pasted image 20260114214803|650](https://cdn.pkmer.cn/images/Weekly-2025-12-14-Pasted%20image%2020260114214803.png!pkmer)
+
+[Book Clipper](https://obsidian.md/plugins?id=book-clipper) By _Hossein Fardmohammadi_
+
+> 此插件可将以下网站上的图书信息导入 Obsidian：
+> - [goodreads.com](https://www.goodreads.com/)
+> - [amazon.com](https://www.amazon.com/)
+> - [taaghche.com](https://taaghche.com/)
+> - [fidibo.com](https://fidibo.com/)
+
+[API Designer](https://obsidian.md/plugins?id=api-designer) By _Ruveyda Yilmaz_
+
+> 无需离开笔记，即可用可视化方式设计和记录 API 端点。
+
+![Weekly-2025-12-14-Pasted image 20260114214239|650](https://cdn.pkmer.cn/images/Weekly-2025-12-14-Pasted%20image%2020260114214239.png!pkmer)
+
+[Fix Math](https://obsidian.md/plugins?id=fix-math) By _Vladislav Sorokin_
+
+> 将 ChatGPT 和 AI 助手生成的 LaTeX 公式转换为正确的 Markdown 格式：块级公式转换为数学公式，行内公式转换为行内数学公式。
+
+[newslog](https://obsidian.md/plugins?id=newslog) By _protoavatar_
+
+> 从您的 newslog.me 每日订阅包同步新闻简报和 Kindle 精选内容。
+
+[Advanced Ruby](https://obsidian.md/plugins?id=advanced-ruby) By _Peter Yanase_
+
+> 提供了复杂的、与语言无关的 Ruby 注释渲染和编辑功能。
+> 虽然 Ruby 通常用于标注日语等东亚文字的读音，但它可用于注释任何类型的文本。
+> 此插件支持完整的 Unicode 范围，使其不仅适用于注音，也适用于语义注释或多层标注。
+
+![Weekly-2025-12-14-Pasted image 20260114202738|650](https://cdn.pkmer.cn/images/Weekly-2025-12-14-Pasted%20image%2020260114202738.png!pkmer)
+
+[LaTeX Panel Helper](https://obsidian.md/plugins?id=latex-panel-helper) By _Luster_
+
+> 提供一个便捷的面板，内含分类整理的 LaTeX 符号、实时搜索以及弹出窗口功能，从而提升你的数学笔记效率！
+
+![Weekly-2025-12-14-495185441-e43a32e5-cc92-40ee-9757-df253fee9d66|650](https://cdn.pkmer.cn/images/Weekly-2025-12-14-495185441-e43a32e5-cc92-40ee-9757-df253fee9d66.gif!pkmer)
+
+[SlashComplete](https://obsidian.md/plugins?id=slash-complete) By _Spiderpig86_
+
+> 添加类似 Notion 的斜杠命令自动补全功能，支持直接从编辑器中快速、直观地插入 Markdown 块、格式化内容及执行命令。此插件是默认斜杠命令插件的直接替代品。
+
+[Shogi KIF Viewer](https://obsidian.md/plugins?id=shogi-kif-viewer) By _Luis8492_
+
+> 在笔记中，将 KIF 代码块渲染成交互式将棋棋盘。
+
+[Dangerous Mode](https://obsidian.md/plugins?id=dangerous-mode) By _Vansh Kumar_
+
+> 危险写作模式：持续键入，一旦无操作超过 5 秒，当前笔记即被清除。
+
+[Hydrate](https://obsidian.md/plugins?id=hydrate) By _hydrateagent_
+
+> 支持 MCP 的光标式笔记代理。
+> **需付费：** 完整使用 Hydrate 功能需要付费订阅
+
+[Quick Matrix](https://obsidian.md/plugins?id=quick-matrix) By _Charlie Flowe_
+
+> 添加快速生成 LaTeX 矩阵的命令。
+
+[Lark Style CountDown Timer](https://obsidian.md/plugins?id=lark-style-countdown-timer) By _Zhaoyang Yu_
+
+> 创建飞书/Lark 风格的倒计时模块。
+
+![Weekly-2025-12-14-Pasted image 20260114180713|650](https://cdn.pkmer.cn/images/Weekly-2025-12-14-Pasted%20image%2020260114180713.png!pkmer)
+
+[Vault Encrypt](https://obsidian.md/plugins?id=vault-encrypt) By _Pluppen_
+
+> 将你的库转化为一个无法识别的加密文件集合，在提供安全性与匿名性的同时，维持无缝的用户体验。
+> **在 Obsidian 应用关闭后，文件将保持加密（或解密）状态。**
+
+[Table Checkbox Renderer](https://obsidian.md/plugins?id=table-checkbox-renderer) By _Daniel Aguerrevere_
+
+> 为 Markdown 表格添加交互式复选框。在阅读模式下切换复选框状态，即可即时更新 Markdown 文件。支持每个单元格内多个复选框以及任何表格布局。
+
+![Weekly-2025-12-14-demo|650](https://cdn.pkmer.cn/images/Weekly-2025-12-14-demo.gif!pkmer)
+
+[SideNote](https://obsidian.md/plugins?id=side-note) By _mofukuru_
+
+> 为你的笔记添加注释。这些注释将显示在专用的侧边窗格中，便于集中审阅和浏览批注，而不会干扰正文。注释会在编辑器中直接高亮显示，方便快速查看。
+
+![Weekly-2025-12-14-Pasted image 20260114173011|650](https://cdn.pkmer.cn/images/Weekly-2025-12-14-Pasted%20image%2020260114173011.png!pkmer)
+
+[Checkbox Style Menu](https://obsidian.md/plugins?id=checkbox-style-menu) By _ReticentEclectic_
+
+> 提供直观的菜单 ，可快速更改复选框样式 。
+
+![Weekly-2025-12-14-474233519-99900dee-997c-443f-a554-283395572d46|650](https://cdn.pkmer.cn/images/Weekly-2025-12-14-474233519-99900dee-997c-443f-a554-283395572d46.gif!pkmer)
+
+[Tag Group Manager](https://obsidian.md/plugins?id=tag-group-manager) By _Stargazer-cc_
+
+> 管理和快速插入标签。它允许用户创建自定义标签组，并通过浮动窗口快速将标签插入到笔记中，提高笔记整理和分类的效率。
+
+![Weekly-2025-12-14-Pasted image 20260110230510|650](https://cdn.pkmer.cn/images/Weekly-2025-12-14-Pasted%20image%2020260110230510.png!pkmer)
 
 #### 更新
 
