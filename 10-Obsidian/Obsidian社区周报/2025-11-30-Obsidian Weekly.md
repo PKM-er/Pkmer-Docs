@@ -47,6 +47,50 @@ modified: 20251203000915
 
 ### 社区插件
 
+#### 新增
+
+[Nutstore Sync](https://obsidian.md/plugins?id=nutstore-sync) By _nutstore-dev_
+
+> 使用 WebDAV 协议在 Obsidian 笔记与坚果云（Nutstore）之间进行双向同步 。
+
+[Custom Syntax Highlights](https://obsidian.md/plugins?id=custom-syntax-highlights) By _Outsiders17711_
+
+> 在阅读视图中，将带有自定义扩展名的文件显示为语法高亮的代码块，并支持配置扩展名到语言的映射关系。
+
+![Weekly-2025-11-30-Pasted image 20260110214013|650](https://cdn.pkmer.cn/images/Weekly-2025-11-30-Pasted%20image%2020260110214013.png!pkmer)
+
+[LaTeX autocomplete](https://obsidian.md/plugins?id=latex-autocomplete) By _Yanis Gerst_
+
+> 简单的 LaTeX 自动补全，只需输入“\”即可。
+
+![Weekly-2025-11-30-latex-autocomplete-plugin-ezgif.com-video-to-gif-converter|650](https://cdn.pkmer.cn/images/Weekly-2025-11-30-latex-autocomplete-plugin-ezgif.com-video-to-gif-converter.gif!pkmer)
+
+[Life in Weeks Calendar](https://obsidian.md/plugins?id=life-in-weeks-calendar) By _Jeff Szuc_
+
+> 以周为单位可视化你的人生，并与周记功能集成。
+
+![Weekly-2025-11-30-Pasted image 20260110200753|650](https://cdn.pkmer.cn/images/Weekly-2025-11-30-Pasted%20image%2020260110200753.png!pkmer)
+
+[AI Nutrition Tracker](https://obsidian.md/plugins?id=ai-nutrition-tracker) By _rnaidenov_
+
+> 支持通过食物图像分析与每日记录进行 AI 驱动的营养追踪。
+
+![Weekly-2025-11-30-Pasted image 20260110195314|650](https://cdn.pkmer.cn/images/Weekly-2025-11-30-Pasted%20image%2020260110195314.png!pkmer)
+
+[List to table converter](https://obsidian.md/plugins?id=list-table-converter) By _paddomanno_
+
+> 将列表（或多行文本）转换为表格。
+
+![Weekly-2025-11-30-Pasted image 20260110195105|650](https://cdn.pkmer.cn/images/Weekly-2025-11-30-Pasted%20image%2020260110195105.png!pkmer)
+
+[My Typewriter Line](https://obsidian.md/plugins?id=my-typewriter-line) By _dmo-code_
+
+> 通过可自定义的顶部和底部滚动边距，使当前行始终保持视觉焦点，实现类打字机模式的编辑体验。
+
+[Note Navigator](https://obsidian.md/plugins?id=note-navigator) By _m_
+
+> 通过在删除后自动导航到下一篇笔记来简化笔记回顾。新增用于跳转到上一篇和下一篇笔记的命令，并遵循用户选择的排序顺序。
+
 #### 更新
 
 [Weread v0.15.0](https://github.com/zhaohongxuan/obsidian-weread-plugin/releases/tag/0.15.0) By _hank zhao_
