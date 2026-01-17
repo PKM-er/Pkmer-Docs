@@ -144,10 +144,6 @@ modified: 20260114234901
 
 ![Weekly-2026-01-12-517633687-662730a6-109c-4c50-9d97-9f9bbcdef66f|650](https://cdn.pkmer.cn/images/Weekly-2026-01-12-517633687-662730a6-109c-4c50-9d97-9f9bbcdef66f.gif!pkmer)
 
-[Asciinema Player](https://obsidian.md/plugins?id=asciinema-player) By _Dinu Gherman_
-
-> 将本地和远程 Asciinema asciicast 文件嵌入 Markdown 笔记中。
-
 #### 更新
 
 [Vault LLM Assistant v1.0.8](https://github.com/brianstm/obsidian-vault-llm-assistant/releases/tag/1.0.8) By _Brians Tjipto_
