@@ -312,5 +312,16 @@ Thino 前身，也就是 Obsidian Memos 是基于开源项目 Memos 实现的，
 - Advanced Tables 兼容：在 Advanced Tables 设置中关闭 Bind enter to table navigation 即可。
 - [[pane-relief]] 冲突：目前判断是 Pane Relief 的问题，你可以选择使用一些插件，来延迟启动，保证 Panel Relief 插件晚于 Thino 启动即可。
 - iconize 冲突：作者已经主动适配 Thino ，请更新 iconize 到最新版本即可。
-- [[typewriter-mode]] 冲突：会导致 Thino 的编辑框焦点位置产生奇怪的错位，因为打字机类插件会强制干预编辑框尺寸
+- [[typewriter-mode]] 冲突：会导致 Thino 的编辑框焦点位置产生奇怪的错位，因为打字机类插件会强制干预编辑框尺寸，此问题不光是对 Thino 很多用户也会反应在普通 Obsidian 编辑器界面也会
 - Automatically reveal active file：会因为这个插件的开启，导致工作区中无法切换到 Thino 标签页。原因是：该插件作用是针对有实体文件的存储定位，但 Thino 本身是一个应用界面，而非一个实体文件。
+- [[buttons]] 冲突：会干扰 Thino 的标签显示，你可以通过 css snippets 来抵消这个干扰，参考如下：
+```css
+  div[data-type=thino_view] .tags-wrapper>.tags-container .tag-item-container
+{
+width: 100% !important;
+}
+
+div[data-type=thino_view] .tags-wrapper>.tags-container .tag-item-container>.tag-text-container{
+width: 100% !important;
+}
+```
