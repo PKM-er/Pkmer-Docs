@@ -1,8 +1,8 @@
 ---
 uid: 20260128010655
-title: Obsidian Weekly 2026-01-25：Obsidian v1.1.5 正式发布&RSS 订阅与目标追踪
+title: Obsidian Weekly 2026-01-25：Obsidian v1.11.5 正式发布&RSS 订阅与目标追踪
 tags: [Weekly, Obsidian]
-description: Obsidian Weekly 2026-01-25：Obsidian v1.1.5 正式发布&RSS 订阅与目标追踪
+description: Obsidian Weekly 2026-01-25：Obsidian v1.11.5 正式发布&RSS 订阅与目标追踪
 author: 淡水鱼,PKMer
 type: other
 draft: false
@@ -10,7 +10,7 @@ editable: false
 modified: 20260128011408
 ---
 
-# Obsidian Weekly 2026-01-25：Obsidian v1.1.5 正式发布&RSS 订阅与目标追踪
+# Obsidian Weekly 2026-01-25：Obsidian v1.11.5 正式发布&RSS 订阅与目标追踪
 
 > [!Abstract]
 > **统计时间**：2026-01-18 21:00 ~ 2026-01-25 21:00
@@ -18,7 +18,7 @@ modified: 20260128011408
 
 ## 官方资讯
 
-### Obsidian v1.1.5 公共版现已发布
+### Obsidian v1.11.5 公共版现已发布
 
 #### 桌面端
 
