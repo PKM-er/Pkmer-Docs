@@ -18,13 +18,17 @@ modified: 20260107002410
 
 更新时间：每周日晚 - 周一
 
-## 2025
+## 2026
 
-- [[2026-02-01-Obsidian Weekly]]（New! ）
+- [[2026-02-08-Obsidian Weekly]]（New! ）
+- [[2026-02-01-Obsidian Weekly]]
 - [[2026-01-25-Obsidian Weekly]]
 - [[2026-01-18-Obsidian Weekly]]
 - [[2026-01-12-Obsidian Weekly]]
 - [[2026-01-04-Obsidian Weekly]]
+
+## 2025
+
 - [[2025-12-28-Obsidian Weekly]]
 - [[2025-12-14-Obsidian Weekly]]
 - [[2025-11-30-Obsidian Weekly]]
