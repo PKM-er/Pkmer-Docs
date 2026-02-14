@@ -7,7 +7,7 @@ author: joeytoday
 type: other
 draft: false
 editable: false
-modified: 20260214193415
+modified: 20260214193435
 forum_url: https://forum.pkmer.net/t/7341
 ---
 
@@ -27,9 +27,9 @@ forum_url: https://forum.pkmer.net/t/7341
 - MP Preview[1]：markdown 内容转公众号格式预览，可以自定义主题，但不能发布。
 - Enhance Publisher[2]：支持直接发布 markdown 内容到公众号后台，但不能自定义主题。
 
-我想要的刚好是这两个项目的结合，**能自定义主题且能一键发布到公众号后台**，于是在 AI 的辅助下，我整合了两个项目，自己写了一个满足需求的插件。具体实现效果如下，点击图片播放视频：
+我想要的刚好是这两个项目的结合，**能自定义主题且能一键发布到公众号后台**，于是在 AI 的辅助下，我整合了两个项目，自己写了一个满足需求的插件。具体实现效果如下：
 
-[![](https://img.joeytoday.com/2026/iShot_2026-02-05_21.52.11.png)](https://img.joeytoday.com/2026/mycase-mp-publisher-start.mp4)
+<video src="https://img.joeytoday.com/2026/mycase-mp-publisher-start.mp4" controls></video>
 
 此项目已在 GitHub 上开源，欢迎大家给个 star：
 
