@@ -3,7 +3,7 @@ uid: 20260210004406
 title: Obsidian Weekly 2026-02-08：Obsidian 正式更新至 v1.11.7！移动端体验丝滑加倍！
 tags: [Weekly, Obsidian]
 description: Obsidian Weekly 2026-02-08：Obsidian 正式更新至 v1.11.7！移动端体验丝滑加倍！
-author: 淡水鱼,PKMer
+author: 熊猫别熬夜,PKMer
 type: other
 draft: false
 editable: false
