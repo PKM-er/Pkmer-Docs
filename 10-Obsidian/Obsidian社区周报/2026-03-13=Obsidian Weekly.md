@@ -3,7 +3,7 @@ uid: 20260313204800
 title: Obsidian Weekly 2026-03-13：Obsidian CLI 命令行利器上线，图像拖拽调整大小，附件自动清理新体验
 tags: [Weekly, Obsidian]
 description: Obsidian Weekly 2026-03-13：Obsidian CLI 命令行利器上线，图像拖拽调整大小，附件自动清理新体验
-author: 淡水鱼,PKMer
+author: 熊猫别熬夜,PKMer
 type: other
 draft: false
 editable: false
