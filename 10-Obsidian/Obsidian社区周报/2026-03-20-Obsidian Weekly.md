@@ -18,7 +18,7 @@ modified: 20260320210641
 
 ## 官方资讯
 
-### 版本 v1.12.6
+### 内测版 v1.12.6
 
 **包含截至 [Obsidian Desktop v1.12.6](https://obsidian.md/changelog/2026-03-18-desktop-v1.12.6/) 的所有新功能和错误修复。**
 
