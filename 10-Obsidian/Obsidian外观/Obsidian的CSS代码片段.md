@@ -228,6 +228,7 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-canvas白板卡片中文字居中]]
 - [[Obsidian样式-Canvas样式的修改及增强卡片的显示效果]]
 - [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
+- [[Obsidian样式-高颜值 Obsidian Canvas 配色方案分享]]
 
 ### 移动端
 
