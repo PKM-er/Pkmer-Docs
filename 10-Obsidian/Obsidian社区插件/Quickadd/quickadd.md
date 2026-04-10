@@ -164,6 +164,10 @@ module.exports = async (params) => {
 
 ## 社区使用技巧
 
+### 工作流程
+
+- [[QuickAdd Multi 实现 Obsidian 卡片化笔记快速创建]]
+
 ### 快捷操作
 
 1. [[Quickadd脚本-一键在某软件中打开Ob笔记]]
