@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20260408094041
+modified: 20260410110016
 ---
 
 # 告别单调！10 套高颜值 Obsidian Canvas 配色方案分享
@@ -22,7 +22,7 @@ modified: 20260408094041
 
 ## 样式功能
 
-1. **多风格方案**：内置经典彩虹、顶刊学术、马卡龙等 10 套主题，深浅模式全适配。
+1. **多风格方案**：内置经典彩虹、顶刊学术、马卡龙等 10 套主题。
 2. **视觉增强**：支持卡片渐变与阴影效果，提升画布质感。
 3. **细节优化**：增强 Canvas 组（Groups）拖拽手感。
 
@@ -133,29 +133,32 @@ body {
   background-color: var(--background-primary);
 }
 
+.theme-dark .canvas-node-container {
+  border-width: 4px;
+  border-style: var(--canvas-card-border-style);
+}
+
+
+.theme-dark .canvas-node.is-themed:not(.canvas-node-group) .canvas-node-content {
+  background-color: var(--background-primary);
+}
+
 /* 有色的卡片的卡片透明度 */
-.canvas-node.is-themed:not(.canvas-node-group) .canvas-node-content {
-  background-color: rgba(
-    var(--canvas-color),
-    var(--canvas-card-gradient-opacity)
-  );
+.theme-light .canvas-node.is-themed:not(.canvas-node-group) .canvas-node-content {
+  background-color: rgba(var(--canvas-color),
+      var(--canvas-card-gradient-opacity));
 }
 
 /* 开启渐变背景时的样式 */
-body.canvas-card-gradient-toggle
-  .canvas-node.is-themed:not(.canvas-node-group)
-  .canvas-node-content {
-  background: linear-gradient(
-    135deg,
-    rgba(var(--canvas-color), var(--canvas-card-gradient-opacity)) 0%,
-    rgba(var(--canvas-color), calc(var(--canvas-card-gradient-opacity) / 2))
-      100%
-  );
+body.canvas-card-gradient-toggle.theme-light .canvas-node.is-themed:not(.canvas-node-group) .canvas-node-content {
+  background: linear-gradient(135deg,
+      rgba(var(--canvas-color), var(--canvas-card-gradient-opacity)) 0%,
+      rgba(var(--canvas-color), calc(var(--canvas-card-gradient-opacity) / 2)) 100%);
 }
 
 /* !设置卡片+连线阴影 @202603291145 */
 /* https://forum.obsidian.md/t/cssclasses-for-canvas-cards/71865 */
-.canvas-edges > g,
+.canvas-edges>g,
 .canvas-edges {
   filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.2));
 }
@@ -187,25 +190,30 @@ body.canvas-card-gradient-toggle
 
 /* ========================= */
 /* commander按钮显示 */
-.workspace-leaf-content:not([data-type="canvas"])
-  [aria-label="QuickAdd: Macro：Canvas Presentations"] {
+.workspace-leaf-content:not([data-type="canvas"]) [aria-label="QuickAdd: Macro：Canvas Presentations"] {
   display: none;
 }
+
+/* !其他优化 */
+/* canvas 嵌入的卡片编辑时，隐藏元数据和标题栏 */
+.node-insert-event.mod-inside-iframe {
+  .metadata-container {
+    display: none !important;
+  }
+
+  .inline-title:not(.markdown-embed-content .inline-title) {
+    display: none !important;
+    margin-bottom: 0px;
+  }
+}
+
 
 /* !设置卡片背景 */
 
 /* ========== 经典彩虹（6色分支标准色） ========== */
-/* 参考 彩虹分支配色逻辑：色相均匀分布，饱和度适中 [[1]] */
-body.canvas-schemes-rainbow.theme-dark {
-  --canvas-color-1: 238, 77, 77;
-  --canvas-color-2: 247, 140, 46;
-  --canvas-color-3: 245, 190, 45;
-  --canvas-color-4: 76, 181, 88;
-  --canvas-color-5: 52, 152, 219;
-  --canvas-color-6: 155, 89, 182;
-}
+/* 参考 彩虹分支配色逻辑：色相均匀分布，饱和度适中 */
 
-body.canvas-schemes-rainbow.theme-light {
+body.canvas-schemes-rainbow {
   --canvas-color-1: 220, 53, 69;
   --canvas-color-2: 253, 126, 20;
   --canvas-color-3: 255, 193, 7;
@@ -216,16 +224,7 @@ body.canvas-schemes-rainbow.theme-light {
 
 /* ========== 商务蓝（专业/工作汇报） ========== */
 
-body.canvas-schemes-business.theme-dark {
-  --canvas-color-1: 25, 118, 210;
-  --canvas-color-2: 66, 165, 245;
-  --canvas-color-3: 144, 202, 249;
-  --canvas-color-4: 187, 222, 251;
-  --canvas-color-5: 41, 121, 255;
-  --canvas-color-6: 0, 188, 212;
-}
-
-body.canvas-schemes-business.theme-light {
+body.canvas-schemes-business {
   --canvas-color-1: 13, 71, 161;
   --canvas-color-2: 25, 118, 210;
   --canvas-color-3: 66, 165, 245;
@@ -235,18 +234,11 @@ body.canvas-schemes-business.theme-light {
 }
 
 /* ========== 自然绿（学习/知识整理） ========== */
-/* 低饱和度，长时间阅读舒适 [[3]] */
+/* 低饱和度，长时间阅读舒适 */
 
-body.canvas-schemes-nature.theme-dark {
-  --canvas-color-1: 102, 187, 106;
-  --canvas-color-2: 129, 199, 132;
-  --canvas-color-3: 165, 214, 167;
-  --canvas-color-4: 77, 182, 172;
-  --canvas-color-5: 100, 181, 246;
-  --canvas-color-6: 149, 117, 205;
-}
 
-body.canvas-schemes-nature.theme-light {
+
+body.canvas-schemes-nature {
   --canvas-color-1: 27, 94, 32;
   --canvas-color-2: 46, 125, 50;
   --canvas-color-3: 76, 175, 80;
@@ -258,16 +250,8 @@ body.canvas-schemes-nature.theme-light {
 /* ========== 柔和渐变（创意/灵感收集） ========== */
 /* 马卡龙色系，低对比度，视觉柔和 */
 
-body.canvas-schemes-soft.theme-dark {
-  --canvas-color-1: 244, 143, 177;
-  --canvas-color-2: 255, 204, 128;
-  --canvas-color-3: 255, 245, 157;
-  --canvas-color-4: 165, 214, 167;
-  --canvas-color-5: 144, 202, 249;
-  --canvas-color-6: 206, 147, 216;
-}
 
-body.canvas-schemes-soft.theme-light {
+body.canvas-schemes-soft {
   --canvas-color-1: 194, 24, 91;
   --canvas-color-2: 239, 108, 0;
   --canvas-color-3: 245, 190, 0;
@@ -280,16 +264,8 @@ body.canvas-schemes-soft.theme-light {
 /* 配色灵感：故宫红墙 + 鎏金 + 朱砂 + 胭脂，体现东方典雅 */
 /* 渐变色系：从深红到亮金的层次感 */
 
-body.canvas-schemes-china-red.theme-dark {
-  --canvas-color-1: 222, 41, 16;
-  --canvas-color-2: 178, 34, 34;
-  --canvas-color-3: 112, 6, 6;
-  --canvas-color-4: 255, 191, 0;
-  --canvas-color-5: 255, 215, 0;
-  --canvas-color-6: 255, 240, 150;
-}
 
-body.canvas-schemes-china-red.theme-light {
+body.canvas-schemes-china-red {
   --canvas-color-1: 222, 41, 16;
   --canvas-color-2: 178, 34, 34;
   --canvas-color-3: 139, 0, 0;
@@ -301,14 +277,7 @@ body.canvas-schemes-china-red.theme-light {
 /* ========== 💜 东方紫（神秘/创意/艺术主题） ========== */
 /* 配色灵感：紫禁暮色 + 紫水晶 + 薰衣草，渐变层次丰富 */
 
-body.canvas-schemes-purple.theme-dark {
-  --canvas-color-1: 102, 51, 153;
-  --canvas-color-2: 153, 102, 204;
-  --canvas-color-3: 123, 104, 238;
-  --canvas-color-4: 221, 160, 221;
-  --canvas-color-5: 230, 230, 250;
-  --canvas-color-6: 138, 43, 226;
-}
+
 
 body.canvas-schemes-purple.theme-light {
   --canvas-color-1: 75, 0, 130;
@@ -321,7 +290,7 @@ body.canvas-schemes-purple.theme-light {
 
 /* ========== 📊 顶刊经典配色（浅色+深色双模式） ========== */
 /* 浅色模式 - 柔和学术风 */
-body.canvas-schemes-classic.theme-light {
+body.canvas-schemes-classic {
   --canvas-color-1: 218, 70, 68;
   --canvas-color-2: 238, 178, 125;
   --canvas-color-3: 233, 234, 199;
@@ -330,19 +299,10 @@ body.canvas-schemes-classic.theme-light {
   --canvas-color-6: 250, 242, 233;
 }
 
-/* 深色模式 - 专业深色 */
-body.canvas-schemes-classic.theme-dark {
-  --canvas-color-1: 218, 70, 68;
-  --canvas-color-2: 238, 178, 125;
-  --canvas-color-3: 171, 181, 199;
-  --canvas-color-4: 105, 171, 94;
-  --canvas-color-5: 48, 139, 188;
-  --canvas-color-6: 109, 148, 178;
-}
 
 /* ========== 💙 蓝色渐变系（专业/科技） ========== */
 /* 从浅蓝到深灰的渐变层次 */
-body.canvas-schemes-blue.theme-light {
+body.canvas-schemes-blue {
   --canvas-color-1: 227, 236, 243;
   --canvas-color-2: 192, 228, 252;
   --canvas-color-3: 183, 210, 227;
@@ -351,18 +311,11 @@ body.canvas-schemes-blue.theme-light {
   --canvas-color-6: 89, 89, 89;
 }
 
-body.canvas-schemes-blue.theme-dark {
-  --canvas-color-1: 227, 236, 243;
-  --canvas-color-2: 192, 228, 252;
-  --canvas-color-3: 183, 210, 227;
-  --canvas-color-4: 130, 160, 190;
-  --canvas-color-5: 174, 196, 220;
-  --canvas-color-6: 89, 89, 89;
-}
+
 
 /* ========== 🎨 复古学术风（复古/人文） ========== */
 /* 淡紫、米色、橄榄绿、蓝灰、棕色 */
-body.canvas-schemes-vintage.theme-light {
+body.canvas-schemes-vintage {
   --canvas-color-1: 92, 46, 30;
   --canvas-color-2: 238, 228, 218;
   --canvas-color-3: 208, 208, 234;
@@ -371,28 +324,10 @@ body.canvas-schemes-vintage.theme-light {
   --canvas-color-6: 208, 208, 234;
 }
 
-body.canvas-schemes-vintage.theme-dark {
-  --canvas-color-1: 150, 100, 80;
-  --canvas-color-2: 238, 228, 218;
-  --canvas-color-3: 208, 208, 234;
-  --canvas-color-4: 120, 160, 110;
-  --canvas-color-5: 130, 150, 190;
-  --canvas-color-6: 81, 121, 71;
-}
-
 /* ========== 💜 浪漫温柔系（创意/艺术） ========== */
 /* 淡紫、薄荷青、粉色、米色、深红 */
-body.canvas-schemes-romantic.theme-light {
+body.canvas-schemes-romantic {
   --canvas-color-1: 119, 23, 28;
-  --canvas-color-2: 207, 152, 155;
-  --canvas-color-3: 238, 224, 211;
-  --canvas-color-4: 179, 221, 211;
-  --canvas-color-5: 194, 167, 208;
-  --canvas-color-6: 194, 167, 208;
-}
-
-body.canvas-schemes-romantic.theme-dark {
-  --canvas-color-1: 160, 80, 90;
   --canvas-color-2: 207, 152, 155;
   --canvas-color-3: 238, 224, 211;
   --canvas-color-4: 179, 221, 211;
@@ -402,22 +337,13 @@ body.canvas-schemes-romantic.theme-dark {
 
 /* ========== 🌸 马卡龙 pastel（柔和/可爱） ========== */
 /* 超低饱和度的马卡龙色系 */
-body.canvas-schemes-macaron.theme-light {
+body.canvas-schemes-macaron {
   --canvas-color-1: 244, 212, 212;
   --canvas-color-2: 245, 223, 166;
-  --canvas-color-3: 245, 223, 166;
+  --canvas-color-3: 235, 200, 120;
   --canvas-color-4: 184, 213, 184;
   --canvas-color-5: 187, 212, 240;
   --canvas-color-6: 207, 182, 211;
-}
-
-body.canvas-schemes-macaron.theme-dark {
-  --canvas-color-1: 215, 180, 180;
-  --canvas-color-2: 210, 195, 140;
-  --canvas-color-3: 210, 195, 140;
-  --canvas-color-4: 155, 190, 155;
-  --canvas-color-5: 160, 190, 225;
-  --canvas-color-6: 170, 150, 190;
 }
 ```
 
