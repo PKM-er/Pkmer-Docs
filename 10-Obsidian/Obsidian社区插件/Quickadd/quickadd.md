@@ -187,10 +187,11 @@ module.exports = async (params) => {
 
 1. [[QuickAdd脚本-复制wiki对应文档内容并删除文件]]
 2. [[QuickAdd脚本-移动子笔记或附件到当前文件夹]]
-3. [[QuickAdd脚本-右键复制文件夹路径]]
-4. [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
-5. [[QuickAdd脚本-自定义外部应用打开]]
-6. [[QuickAdd脚本-新窗口居中打开笔记]]
+3. [[QuickAdd 脚本-更新说明-新增标题分割&关联笔记重组的功能]]
+4. [[QuickAdd脚本-右键复制文件夹路径]]
+5. [[QuickAdd脚本-Obsidian批量重命名(笔记-附件-文件夹)]]
+6. [[QuickAdd脚本-自定义外部应用打开]]
+7. [[QuickAdd脚本-新窗口居中打开笔记]]
 
 ### 附件管理
 
