@@ -10,7 +10,7 @@ editable: false
 modified: 20260411204500
 ---
 
-# Obsidian Weekly 2026-04-11：AI 插件全线进化，Thino 3.0 与编辑工具栏重磅更新
+# Obsidian Weekly 2026-04-11：AI 插件全线进化，Thino 3.0 与 Editing toolbar 重磅更新
 
 > [!tip]+
 > 统计时间：2026-04-03 21:00 ~ 2026-04-11 21:00
