@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20260419111156
+modified: 20260419210841
 ---
 
 # 自定义 Excalidraw 脚本 -Excalidraw 小地图（Excalidraw Minimap）
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 
 ### 拓展说明
 
-配合Slideshow演示效果更佳，可以配置个Commander按钮在首页，然后通过CSS设置只在Excalidraw视图下显示该命令按钮：
+配合 Slideshow 演示效果更佳，可以配置个 Commander 按钮在首页，然后通过 CSS 设置只在 Excalidraw 视图下显示该命令按钮：
 
 ```css
 .workspace-leaf-content:not([data-type="excalidraw"]) [aria-label *="ExcalidrawMinimap"] {
@@ -56,3 +56,73 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 演示效果：
 
 ![260418_自定义Excalidraw脚本：Excalidraw 小地图（Excalidraw Minimap）](https://cdn.pkmer.cn/images/File-20260419191446207.png!pkmer)
+
+### Tip：自动加载小地图
+
+如果你希望每次打开 Excalidraw 都自动显示小地图，可以把下面这段启动脚本配置到 Excalidraw 的自动化入口中。这样在打开 Excalidraw 文件或新建 Excalidraw 画布时，都会自动检测并加载 `ExcalidrawMinimap`，无需每次手动执行命令。
+
+配置方式：
+
+- 打开 Excalidraw 插件设置，进入 **Excalidraw 自动化**
+    ![260418_自定义Excalidraw脚本：Excalidraw 小地图（Excalidraw Minimap）](https://cdn.pkmer.cn/images/File-20260419210249261.png!pkmer)
+
+- 在 **启动脚本** 中指定或创建 `ExcalidrawStartup` 文档
+- 将下面代码追加到该文档末尾，并保持原有格式不变
+- 保存后重启 Obsidian，之后每次进入 Excalidraw 时都会自动尝试挂载小地图
+
+适合长期把小地图作为默认工作界面的用户使用；如果你只是偶尔需要，也可以继续保持手动触发的方式。
+
+```js
+/**
+ * 自动加载小地图（ExcalidrawMinimap）
+ * - 在 Excalidraw 插件设置 →「Excalidraw 自动化」设置「起动脚本」，如果没有则创建
+ * - 粘贴下述代码到「启动脚本 ExcalidrawStartup」文档末段，注意格式不能修改
+ * - 之后重启Obsidian，Excalidraw会自动加载该脚本，之后每次打开Excalidraw都会自动加载小地图
+ * - 该脚本启动时会从 app.commands.commands 中按关键字查找对应 Excalidraw 插件的ExcalidrawMinimap命令，并通过 executeCommandById() 执行。若当前视图已挂载小地图则跳过，避免再次执行命令触发「切换关闭」。
+ */
+
+const __eaMinimapRegistryKey = "__eaExcalidrawMinimapRegistry__"
+const __minimapCommandKeywords = [
+  "obsidian-excalidraw-plugin",
+  "ExcalidrawMinimap",
+]
+
+const __minimapAlreadyActive = (view) => {
+  const reg = window[__eaMinimapRegistryKey]
+  const container =
+    view?.containerEl?.querySelector?.(".excalidraw-wrapper") ||
+    view?.containerEl
+  if (!reg || typeof reg.get !== "function" || !container) return false
+  return Boolean(reg.get(container))
+}
+
+const __findObsidianCommandIdByKeywords = () => {
+  const commands = app?.commands?.commands
+  if (!commands) return null
+
+  const commandIds = Object.keys(commands).filter((key) =>
+    __minimapCommandKeywords.every(
+      (keyword) =>
+        key.includes(keyword) || commands[key]?.name?.includes?.(keyword),
+    ),
+  )
+
+  return commandIds[0] || null
+}
+
+const __runExcalidrawScriptIfNeed = async (data) => {
+  const { view } = data
+  if (!view) return
+  if (__minimapAlreadyActive(view)) return
+
+  const commandId = __findObsidianCommandIdByKeywords()
+  if (!commandId) return
+
+  await new Promise((r) => requestAnimationFrame(r))
+  app.commands.executeCommandById(commandId)
+}
+
+ea.onFileOpenHook = __runExcalidrawScriptIfNeed
+ea.onFileCreateHook = __runExcalidrawScriptIfNeed
+new Notice("🧩 已注册 Excalidraw Minimap 自启动")
+```
