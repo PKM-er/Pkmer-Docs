@@ -42,3 +42,17 @@ modified: 20260419111156
 https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/ExcalidrawMinimap.md
 ```
 ````
+
+### 拓展说明
+
+配合Slideshow演示效果更佳，可以配置个Commander按钮在首页，然后通过CSS设置只在Excalidraw视图下显示该命令按钮：
+
+```css
+.workspace-leaf-content:not([data-type="excalidraw"]) [aria-label *="ExcalidrawMinimap"] {
+  display: none;
+}
+```
+
+演示效果：
+
+![260418_自定义Excalidraw脚本：Excalidraw 小地图（Excalidraw Minimap）](https://cdn.pkmer.cn/images/File-20260419191446207.png!pkmer)
