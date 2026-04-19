@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20240909130006
+modified: 20260419111657
 ---
 
 # 自定义 Excalidraw 脚本汇总介绍
@@ -66,7 +66,6 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 - Description：将“frame”的大小和位置自适应到其中包含的元素。
 	- ![24.06.18_Excalidraw脚本-Frame框架自适应大小.md](https://cdn.pkmer.cn/images/202409091300380.gif!pkmer)
 
-
 ### QuickSwitchFrame
 
 ```excalidraw-script-install
@@ -88,6 +87,16 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 - Doc：[[自定义Excalidraw脚本-画板全文搜索]]
 - Description：实现 Excalidraw 画板的💬文本、🖼图片 OCR、📝嵌入文档的全文搜索
 	- ![自定义Excalidraw脚本汇总_IMG-3](https://cdn.pkmer.cn/images/202404012157056.gif)
+
+### ExcalidrawMinimap
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/ExcalidrawMinimap.md
+```
+
+- Author：熊猫别熬夜
+- PKMerDoc：[[自定义Excalidraw脚本-Excalidraw 小地图（Excalidraw Minimap）]]
+- Description：为当前 Excalidraw 视图提供可开关的小地图，支持点击平移、拖动 viewport、滚轮缩放，以及位置与尺寸等设置。
 
 ## 文档编辑
 
@@ -256,6 +265,26 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 - PKMerDoc：[[自定义Excalidraw脚本-抠图脚本remove.bg]]
 - Description：采用 [Remove.bg](https://www.remove.bg/zh/g/developers) 的 API 来对 Excalidraw 中的图片进行抠图。
 	- ![Excalidraw.md](https://cdn.pkmer.cn/images/202408281302659.png!pkmer)
+
+### ImagesGridLayoutTool
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/ImagesGridLayoutTool.md
+```
+
+- Author：熊猫别熬夜
+- PKMerDoc：[[自定义Excalidraw脚本-图片网格布局工具（Images Grid Layout Tool）]]
+- Description：图片布局工具，将选中的图片按行列网格自动排列，支持设置间距与列数。
+
+### UpdateCroppedImageToLocal
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/UpdateCroppedImageToLocal.md
+```
+
+- Author：熊猫别熬夜
+- PKMerDoc：[[自定义Excalidraw脚本-更新裁剪图片到原文件（Update Cropped Image To Local）]]
+- Description：将裁剪的图片更新到本地图片，对本地图片进行裁剪，生成新的图片元素。
 
 ## 画布演示
 
