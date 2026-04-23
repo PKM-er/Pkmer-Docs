@@ -7,7 +7,7 @@ author: 熊猫别熬夜
 type: other
 draft: false
 editable: false
-modified: 20260419111657
+modified: 20260423111924
 ---
 
 # 自定义 Excalidraw 脚本汇总介绍
@@ -54,28 +54,6 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 - Description：方便你从非官方脚本市场的 Github 仓库中获取和管理 Excalidraw 脚本的小工具。通过这个脚本，你可以轻松安装、更新和编辑脚本市场的 URL 链接，并在不同的脚本市场之间快速切换。
 	- ![自定义Excalidraw脚本汇总.png](https://cdn.pkmer.cn/images/202409081943844.png!pkmer)
 	- ![自定义Excalidraw脚本汇总.png](https://cdn.pkmer.cn/images/202409081943820.png!pkmer)
-
-### FameAutoSize
-
-```excalidraw-script-install
-https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/FameAutoSize.md
-```
-
-- Author：熊猫别熬夜
-- Doc：[[自定义Excalidraw脚本-Frame框架自适应大小]]
-- Description：将“frame”的大小和位置自适应到其中包含的元素。
-	- ![24.06.18_Excalidraw脚本-Frame框架自适应大小.md](https://cdn.pkmer.cn/images/202409091300380.gif!pkmer)
-
-### QuickSwitchFrame
-
-```excalidraw-script-install
-https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/QuickSwitchFrame.md
-```
-
-- Author：熊猫别熬夜
-- PKMerDoc：[[自定义Excalidraw脚本-QuickSwitchFrame-简单的Frame切换大纲]]
-- Description：提供一个 Frame 边框切换的提示框。
-	- ![自定义Excalidraw脚本汇总_IMG-2](https://cdn.pkmer.cn/images/202404012157054.gif!pkmer)
 
 ### ExcalidrawGlobalSearch
 
@@ -285,6 +263,51 @@ https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaSc
 - Author：熊猫别熬夜
 - PKMerDoc：[[自定义Excalidraw脚本-更新裁剪图片到原文件（Update Cropped Image To Local）]]
 - Description：将裁剪的图片更新到本地图片，对本地图片进行裁剪，生成新的图片元素。
+
+## Frame 相关
+
+### FameAutoSize
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/FameAutoSize.md
+```
+
+- Author：熊猫别熬夜
+- Doc：[[自定义Excalidraw脚本-Frame框架自适应大小]]
+- Description：将“frame”的大小和位置自适应到其中包含的元素。
+	- ![24.06.18_Excalidraw脚本-Frame框架自适应大小.md](https://cdn.pkmer.cn/images/202409091300380.gif!pkmer)
+
+### QuickSwitchFrame
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/QuickSwitchFrame.md
+```
+
+- Author：熊猫别熬夜
+- PKMerDoc：[[自定义Excalidraw脚本-QuickSwitchFrame-简单的Frame切换大纲]]
+- Description：提供一个 Frame 边框切换的提示框。
+	- ![自定义Excalidraw脚本汇总_IMG-2](https://cdn.pkmer.cn/images/202404012157054.gif!pkmer)
+
+### FrameFloatingOutline
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/FrameFloatingOutline.md
+```
+
+- Author：熊猫别熬夜
+- PKMerDoc：[[自定义Excalidraw脚本-Frame悬浮大纲（FrameFloatingOutline）]]
+- Description：为当前 Excalidraw 视图提供可开关的悬浮 Frame 大纲，支持定位、重命名、拖拽排序、删除 Frame 及其内部元素，并可调整面板尺寸与位置。
+
+### FrameListMindmapLayoutTool
+
+```excalidraw-script-install
+https://raw.githubusercontent.com/PandaNocturne/ExcalidrawScripts/master/PandaScripts/FrameListMindmapLayoutTool.md
+```
+
+- Author：熊猫别熬夜
+- PKMerDoc：[[自定义Excalidraw脚本-Frame大纲导图工具（FrameListMindmapLayoutTool）]]
+- Description：**FrameListMindmapLayoutTool** 是一个功能强大的 Excalidraw 脚本，专门用于管理和布局 Frame（框架）元素，将其转换为可视化的大纲导图结构。该工具提供了完整的 Frame 树形结构管理、自动布局、手动层级编号等功能。
+	- ![260423_自定义Excalidraw脚本：Frame大纲导图工具（FrameListMindmapLayoutTool）](https://cdn.pkmer.cn/images/File-20260423111135557.png!pkmer)
 
 ## 画布演示
 
