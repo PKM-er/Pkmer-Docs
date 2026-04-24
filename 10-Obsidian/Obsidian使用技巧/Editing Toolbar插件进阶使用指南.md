@@ -14,6 +14,10 @@ modified: 20250330230314
 
 Editing Toolbar 是一款高度仿照 Microsoft Word 工具栏设计的 Obsidian 插件，经过 3.x 版本重构后功能全面升级。本指南将详细介绍其进阶使用方法。
 一些基本用法比如如何添加命令等可以参考之前文章[[editing-toolbar]]。
+
+> [!tip] 4.x
+> EditingToolbar 自从==4.x 版本==后，增加AI辅助功能，实现智能编辑。请参考[Editing Toolbar 4.0 开启智能编辑](editing-toolbar-4.0-ai-texttools-guide)
+
 ## 安装与配置
 
 ### 安装流程
