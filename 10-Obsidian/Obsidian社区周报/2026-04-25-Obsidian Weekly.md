@@ -3,11 +3,11 @@ uid: 20260426165613
 title: Obsidian Weekly 2026-04-25：Deck 革新卡片复习，微信阅读主题系统上线
 tags: [Weekly, Obsidian]
 description: Obsidian Weekly 2026-04-25：Deck 革新卡片复习，微信阅读主题系统上线
-author: 熊猫别熬夜,PKMer
+author: 熊猫别熬夜,淡水鱼,PKMer
 type: other
 draft: false
 editable: false
-modified: 20260426165808
+modified: 20260426180150
 ---
 
 # Obsidian Weekly 2026-04-25：Deck 革新卡片复习，微信阅读主题系统上线
@@ -443,6 +443,80 @@ modified: 20260426165808
 > - 添加了保护措施以更优雅地处理格式错误的内容。
 
 ## PKMer 出品
+
+[Media Extended](obsidian://show-plugin?id=media-extended) By AidenLx
+
+> - **亮点**
+>     - 媒体库 — 在基于 Bases 的库视图中浏览所有媒体笔记，支持搜索、过滤，并从 YouTube 自动填充元数据。
+>     - 网页查看器 — YouTube、Vimeo、Coursera、bilibili 和百度网盘现可在 Obsidian 内运行，提供完整的时间戳、截图、转录下载控件。
+>     - 转录段落模式 — 可读的段落视图，具有自动滚动、搜索和每个选项卡独立的切换选项。
+> - **重大变更**
+>     - Electron 与守护进程：需要 Obsidian 安装程序 1.11.4+，主守护进程现已独立分发。
+>     - 命令与操作栏重命名：多项命令已重命名（原有快捷键保留）。
+>         - `Insert screenshot to note` → `Insert timestamped screenshot to note`
+>         - `Insert clipped screenshot to note` → `Clip and insert timestamped screenshot to note`
+>         - `Take timestamp` → `Insert timestamp snippet to note`
+>         - `Copy clipped screenshot` → `Clip and copy screenshot`
+>         - `Save clipped screenshot` → `Clip and save screenshot`
+>         - `Set clipped screenshot as media cover` → `Clip and set screenshot as media cover`
+>         - `Open related media` → `Open linked media`
+>         - `Add to media library` → `Add media note to library`
+>     - 模板设置重组：设置名称已围绕纯/时间戳划分进行重命名（原值保留）。新增 `Screenshot embed text` 设置控制纯截图嵌入别名。每个设置描述现在明确指出其对应命令。
+>     - 转录默认布局：字幕选项卡现默认以转录（段落）模式打开（可在 设置 > 转录 > 字幕选项卡默认视图 中改回）。
+>     - 纯与带时间戳插入分离：插入命令分为两种。_ 带时间戳插入 _ 生成带注释的包装块，始终换行显示。_ 纯文本插入 _ 仅插入链接/嵌入，内联显示，遵循插入位置设置，并保留选中文本。
+> - **媒体库**
+>     - 在一个可搜索、可过滤的库视图中浏览所有媒体笔记。
+>     - 从 YouTube 嵌入创建媒体笔记时，自动填充标题、描述、创作者、时长、封面、标签、观看次数等元数据。
+>     - 修复了移动/重命名媒体笔记后封面图片偶尔错误的问题。
+>     - 修复了从库视图打开媒体时忽略链接点击偏好的问题；修饰键和 Alt+ 点击现遵循您的链接行为设置。
+> - **网页查看器**
+>     - YouTube、Vimeo、Coursera、bilibili 和百度网盘现可在 Obsidian 内运行，并支持完整控件。
+>     - 登录命令在网页查看器可用后立即显示。
+>     - 修复了部分设备上网页查看器集成失败的问题。
+>     - 修复了页面加载缓慢时 YouTube 嵌入播放偶发失败的问题。
+> - **转录**
+>     - 段落模式将字幕合并为流式段落，支持自动滚动、可点击时间戳，以及每选项卡独立的切换（转录/字幕模式、时间戳栏、高亮当前词）。
+>     - 在聚焦转录选项卡时按 Ctrl/Cmd+F 或使用窗格菜单进行搜索；搜索期间自动滚动暂停。
+>     - 点击未同步的转录选项卡中的时间戳，将打开关联媒体并跳转。
+>     - 转录模式现为字幕选项卡的默认布局（可更改）。
+>     - 修复了切换媒体源后播放器标题/布局显示旧信息的问题。
+> - **时间戳与截图插入**
+>     - 命令已拆分为纯和带时间戳两种（见重大变更）。
+>     - 新增纯插入命令：`Add timestamp link to note`、`Add screenshot to note` ——保留选中内容，遵循插入位置。
+>     - 带时间戳截图模板新增 `{{SCREENSHOT_LINK}}` 占位符，点击图片可跳转到截图时刻。
+>     - 编辑器右键菜单（媒体）可快速访问时间戳链接、截图嵌入、剪辑截图及其带时间戳版本。
+> - **复制时间戳格式**
+>     - “复制带时间戳的 URL”改为 **复制时间戳为** 子菜单，提供七种格式：仅时间、URL、富文本链接、Markdown，每种都有“（在 Obsidian 中打开）”变体，使用 `obsidian://` 链接。
+> - **媒体笔记管理**
+>     - `打开媒体笔记` 命令始终在媒体视图窗格菜单中可见。
+>     - 无笔记打开时进行时间戳/截图嵌入，会自动打开（或创建）关联媒体笔记并插入。
+>     - `添加媒体笔记到库` 及快速切换器中的 `Shift+Enter` 默认在侧分栏中打开笔记。
+>     - 修复了元数据字段为空时创建媒体笔记会挂起的问题。
+>     - 修复了移动/重命名媒体笔记后库封面偶尔错误的问题。
+> - **链接行为与导航**
+>     - 新增窗格拆分选项：**在顶部新建窗格** 和 **在左侧新建窗格**。
+>     - 从浏览器扩展打开媒体 URL 时，会重用显示相同媒体的现有选项卡，显示更清晰的标签（如“YouTube: dQw4w9WgXcQ”）并显示时间戳。
+>     - 点击未同步转录选项卡中的时间戳，将按您的点击/Alt+ 点击设置打开关联媒体。
+> - **编辑器上下文菜单**
+>     - 打开媒体视图时在编辑器中右键，可显示 **媒体** 子菜单，提供时间戳链接、截图嵌入、剪辑截图及其带时间戳版本。
+> - **日志**
+>     - 可在日志设置中将插件日志写入文件，以便调试。
+> - **其他改进**
+>     - 新增 `清除媒体历史` 命令，设置中增加媒体历史部分及对应按钮。
+>     - 更智能的选项卡复用：从浏览器打开媒体时会复用已有相同媒体的选项卡。
+>     - 笔记模板设置描述更清晰一致，标明了对应命令。
+>     - 修复了菜单弹出窗口与触发按钮错位的问题。
+> - **错误修复**
+>     - 切换媒体源后播放器标题/布局显示旧信息。
+>     - 移动/重命名媒体笔记后库封面错误。
+>     - 元数据字段为空时创建媒体笔记挂起。
+>     - 菜单弹出窗口错位。
+>     - 网页查看器登录命令在修补完成前不显示。
+>     - 部分设备上网页查看器集成失败。
+>     - YouTube 嵌入播放因页面加载缓慢而失败。
+>     - 从媒体库打开时链接点击偏好被忽略。
+>     - 无效剪辑范围导致媒体 URL 包含 `Infinity` / `NaN`。
+>     - 重命名两个截图模板设置（“…text” → “…alias”）以与其他设置一致。
 
 [Editing Toolbar](obsidian://show-plugin?id=editing-toolbar) By Cuman
 
