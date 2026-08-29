@@ -2,7 +2,7 @@
 uid: 20260830003310
 title: Obsidian Weekly 2026-08-16：7 月~8 月上半月汇总
 tags: [Weekly, Obsidian]
-description: Obsidian Weekly 2026-07-05：编辑与同步新选择 & 手写压感支持
+description: Obsidian Weekly 2026-08-16：7 月~8 月上半月汇总
 author: 淡水鱼,熊猫别熬夜,PKMer
 type: other
 draft: false
