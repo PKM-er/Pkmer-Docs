@@ -105,3 +105,4 @@ modified: 20260630143613
 # 功能建议
 
 如有功能建议，请 [在此提交](https://github.com/wanglin2/obsidian-simplemindmap/issues)。
+- ce

@@ -5,8 +5,8 @@ module.exports = async (params) => {
     // console.log(basePath);
     const brachName = await params.quickAddApi.inputPrompt("输入分支名");
     try {
-        const pushStatus = await child_process.exec(
-            `git push origin ${brachName}`,
+        const pushStatus = await child_process.execFile(
+            "git", ["push", "origin", brachName],
             { cwd: basePath }
         );
         if (pushStatus) {
