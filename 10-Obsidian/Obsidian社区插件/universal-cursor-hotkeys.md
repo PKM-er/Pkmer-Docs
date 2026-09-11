@@ -1,7 +1,7 @@
 ---
 uid: 1780392512169001
 title: 'Obsidian 插件：Universal Cursor Hotkeys —— 让 Live Preview 表格光标更好用，同时支持中文分词感知与 Vim 模式'
-tags: ['快捷键', '编辑工具', 'Vim', '中文分词', '表格', 'obsidian插件']
+tags: ['快捷键', '编辑工具', '自定义命令', '自然语言处理', '表格', 'obsidian插件']
 description: '让你平时使用的方向键、Home/End、Page Up/Down、单词跳转，在 Live Preview 表格里也能正常工作，并支持中文分词。Vim 模式、macOS 风格 Emacs 快捷键同样获得这一升级。'
 author: shichishima
 type: auto
@@ -16,7 +16,7 @@ modified: 20260912000000
 > - 插件名称：Universal Cursor Hotkeys
 > - 插件作者：shichishima
 > - 插件说明：让你平时使用的方向键、Home/End、Page Up/Down、单词跳转，在 Live Preview 表格里也能正常工作，并支持中文分词。Vim 模式、macOS 风格 Emacs 快捷键同样获得这一升级。
-> - 插件分类：['快捷键', '编辑工具', 'Vim', '中文分词', '表格', 'obsidian插件']
+> - 插件分类：['快捷键', '编辑工具', '自定义命令', '自然语言处理', '表格', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/shichishima/obsidian-universal-cursor-hotkeys)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?universal-cursor-hotkeys)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/shichishima/obsidian-universal-cursor-hotkeys/main/README.md)
