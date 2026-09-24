@@ -14,7 +14,8 @@ modified: 20250207114922
 
 如果以下内容还不能满足你：
 
-你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
+- 你还可以在线自助提问文档，填写自己的问题， [在线自助提问文档](https://docs.qq.com/aio/DYUlpY0Z6Rk5kR29t?p=QuUSv1WjxMj56Gpeps0J8r)
+- 对于下面没有列举的插件你还可以，[[如何排查问题插件]]，进行自助排查
 
 ## 核心插件
 
