@@ -1,9 +1,9 @@
 ---
 uid: 20261001123036
 title: Obsidian Weekly 2026-09-30：8 月下半月~9 月汇总
-tags: 
-description: 
-author: 
+tags: [Weekly, Obsidian]
+description: Obsidian Weekly 2026-09-30：8 月下半月~9 月汇总
+author: 淡水鱼,熊猫别熬夜,PKMer
 type: other
 draft: false
 editable: false
