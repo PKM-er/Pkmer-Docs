@@ -20,7 +20,8 @@ modified: 20260830003437
 
 ## 2026
 
-- [[2026-08-16-Obsidian Weekly]]（Lastest! ）
+- [[2026-09-30-Obsidian Weekly]]（Lastest! ）
+- [[2026-08-16-Obsidian Weekly]]
 - [[2026-07-05-Obsidian Weekly]]
 - [[2026-06-28-Obsidian Weekly]]
 - [[2026-06-07-Obsidian Weekly]]
