@@ -3,7 +3,7 @@ uid: 20230817145158
 title: 【使用】Zotero-3 种获得知网 pdf 的方法
 tags: [zotero]
 description: 
-author: 
+author: pkmer
 type: other
 draft: false
 editable: false

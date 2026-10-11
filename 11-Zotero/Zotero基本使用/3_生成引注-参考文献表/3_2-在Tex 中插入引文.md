@@ -3,7 +3,7 @@ uid: 20230817141334
 title: 3.2- 在 Tex 中插入引文（失效）
 tags: [zotero]
 description: 
-author: 
+author: other
 type: other
 draft: false
 editable: false
