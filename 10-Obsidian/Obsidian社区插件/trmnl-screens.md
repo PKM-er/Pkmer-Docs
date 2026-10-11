@@ -1,5 +1,5 @@
 ---
-uid: "1791709370566000"
+uid: 1791709370566000
 title: "Obsidian 插件：TRMNL Screens"
 tags: ['第三方工具集成', '任务管理', '效率工具', '日历与时间', 'obsidian插件']
 description: "Push today's tasks, due tasks, Dataview queries, resurfaced notes, writing stats or a pinned note to a TRMNL e-ink display. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：TRMNL Screens
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

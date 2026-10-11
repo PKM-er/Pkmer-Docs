@@ -1,5 +1,5 @@
 ---
-uid: "1791709367850000"
+uid: 1791709367850000
 title: "Obsidian 插件：Jev Organizer"
 tags: ['文件管理', '效率工具', '自定义命令', 'obsidian插件']
 description: "Classify the active note with TypeSafe's Jev and move it to a selected folder, with a review folder and undo. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Jev Organizer
@@ -50,4 +50,3 @@ modified: "20240101000000"
 > 
 
 ---
-

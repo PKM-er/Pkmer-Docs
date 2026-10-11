@@ -1,5 +1,5 @@
 ---
-uid: "1791709370953000"
+uid: 1791709370953000
 title: "Obsidian 插件：Vinyle"
 tags: ['多媒体', '界面优化', '导航与状态栏', '第三方工具集成', 'obsidian插件']
 description: "Un tourne-disque dans Obsidian : la pochette de la musique Apple Music en cours tourne sur un vinyle, dans un volet déplaçable et dans la barre d'état. macOS, sans clé API. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Vinyle
@@ -49,4 +49,3 @@ Vinyle 是一款专为 macOS 设计的 Obsidian 插件，它将 Apple Music 正�
 > 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-uid: "1791709367867000"
+uid: 1791709367867000
 title: "Obsidian 插件：Journals Aware Rollover Todos"
 tags: ['任务管理', '日历与时间', '模板与链接处理', '效率工具', 'obsidian插件']
 description: "Rolls unfinished todos forward into notes created by the Journals plugin. Finds the previous note via journal-date frontmatter instead of Daily Notes paths, so it works with Journals' nested, date-templated folders. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Journals Aware Rollover Todos
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

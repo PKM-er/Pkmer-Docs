@@ -1,5 +1,5 @@
 ---
-uid: "1791709366598000"
+uid: 1791709366598000
 title: "Obsidian 插件：dot-kanban"
 tags: ['任务管理', '图表与可视化', '第三方工具集成', 'obsidian插件']
 description: "Kanban board of the vault's tasks, one column per checkbox status, configured by dot-kanban code blocks. Works with the Tasks plugin's formats. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：dot-kanban
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

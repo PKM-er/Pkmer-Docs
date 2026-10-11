@@ -1,5 +1,5 @@
 ---
-uid: "1791709368238000"
+uid: 1791709368238000
 title: "Obsidian 插件：Lugdiff"
 tags: ['文件管理', '第三方工具集成', '备份与恢复', 'obsidian插件']
 description: "Review and merge your vault's Git changes from a sidebar panel. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Lugdiff
@@ -45,4 +45,3 @@ modified: "20240101000000"
 > 
 
 ---
-

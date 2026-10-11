@@ -1,5 +1,5 @@
 ---
-uid: "1791709365781000"
+uid: 1791709365781000
 title: "Obsidian 插件：Canteen"
 tags: ['第三方工具集成', '日历与时间', '效率工具', 'obsidian插件']
 description: "Today's menu of your canteen or mensa in the sidebar: Seezeit, Studierendenwerk Erlangen-Nürnberg and OpenMensa. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Canteen
@@ -50,4 +50,3 @@ Canteen 插件可在 Obsidian 侧边栏直接展示食堂当日菜单，支持�
 > 
 
 ---
-

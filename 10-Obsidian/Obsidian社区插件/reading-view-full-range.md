@@ -1,5 +1,5 @@
 ---
-uid: "1791709369501000"
+uid: 1791709369501000
 title: "Obsidian 插件：Reading View Full Range"
 tags: ['界面优化', '样式与美化', '效率工具', 'obsidian插件']
 description: "Keep the active note's native Reading View fully rendered to preserve layouts while scrolling. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Reading View Full Range
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

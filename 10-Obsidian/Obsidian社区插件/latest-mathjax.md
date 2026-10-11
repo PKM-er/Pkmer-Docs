@@ -1,5 +1,5 @@
 ---
-uid: "1791709367967000"
+uid: 1791709367967000
 title: "Obsidian 插件：Latest MathJax"
 tags: ['第三方工具集成', '样式与美化', '学习与教育', 'obsidian插件']
 description: "Render math with a bundled, up-to-date MathJax 4 engine, without replacing Obsidian's built-in MathJax. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Latest MathJax
@@ -47,4 +47,3 @@ modified: "20240101000000"
 > 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-uid: "1791709369445000"
+uid: 1791709369445000
 title: "Obsidian 插件：Quran Life"
 tags: ['思维导图', '学习与教育', 'ANKI', '效率工具', 'obsidian插件']
 description: "Daily Qur'an review, mindmap memorization and Anki export - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Quran Life
@@ -50,4 +50,3 @@ Quran Life 是一款辅助《古兰经》记忆的 Obsidian 插件。它支持�
 > 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-uid: "1791709368252000"
+uid: 1791709368252000
 title: "Obsidian 插件：Lure"
 tags: ['导航与状态栏', '文件管理', '界面优化', 'obsidian插件']
 description: "Shows a clickable, editable breadcrumb of the vault path in each note's header, like a Dolphin file manager address bar. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Lure
@@ -47,4 +47,3 @@ Lure 插件将笔记标题栏中的文件名转换为可点击、可编辑的面
 > 
 
 ---
-

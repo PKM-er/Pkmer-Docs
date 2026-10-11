@@ -1,5 +1,5 @@
 ---
-uid: "1791709369976000"
+uid: 1791709369976000
 title: "Obsidian 插件：Simple Meeting Sidebar"
 tags: ['日历与时间', '任务管理', '第三方工具集成', '效率工具', 'obsidian插件']
 description: "Shows today's Apple Calendar events in a simple sidebar and turns them into tasks or meeting notes. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Simple Meeting Sidebar
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

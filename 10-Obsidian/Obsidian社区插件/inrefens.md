@@ -1,5 +1,5 @@
 ---
-uid: "1791709367808000"
+uid: 1791709367808000
 title: "Obsidian 插件：inREFens"
 tags: ['第三方工具集成', '模板与链接处理', '效率工具', 'obsidian插件']
 description: "Find references/citations to publications of Jehovah's Witnesses and link them to wol.jw.org - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：inREFens
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

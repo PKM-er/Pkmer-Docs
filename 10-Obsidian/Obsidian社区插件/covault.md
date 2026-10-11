@@ -1,5 +1,5 @@
 ---
-uid: "1791709366292000"
+uid: 1791709366292000
 title: "Obsidian 插件：Covault"
 tags: ['自动化与AI', '文件管理', '第三方工具集成', '效率工具', 'obsidian插件']
 description: "Team knowledge base client — share, consume, and evolve your company's knowledge through silently synced shared folders. An LLM agent handles all the git plumbing so you never have to. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Covault
@@ -47,4 +47,3 @@ Covault 是一款面向团队的 Obsidian 知识库客户端。它通过后台�
 > 
 
 ---
-

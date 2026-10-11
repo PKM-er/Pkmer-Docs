@@ -1,5 +1,5 @@
 ---
-uid: "1791709370163000"
+uid: 1791709370163000
 title: "Obsidian 插件：Sugar High"
 tags: ['样式与美化', '界面优化', '编程与脚本', 'obsidian插件']
 description: "Highlight rendered code blocks with Sugar High's lightweight semantic syntax colours. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Sugar High
@@ -49,4 +49,3 @@ Sugar High 是一款轻量级插件，专为 Obsidian 中已渲染的代码块�
 > 
 
 ---
-

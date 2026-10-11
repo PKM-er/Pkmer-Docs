@@ -1,5 +1,5 @@
 ---
-uid: "1791709367268000"
+uid: 1791709367268000
 title: "Obsidian 插件：Git Graph"
 tags: ['图表与可视化', '第三方工具集成', '导航与状态栏', 'obsidian插件']
 description: "VS Code's source control graph as a side pane: lanes, refs, and commit details for the vault's git repository. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Git Graph
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

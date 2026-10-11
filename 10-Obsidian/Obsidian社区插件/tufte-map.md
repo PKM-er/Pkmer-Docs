@@ -1,5 +1,5 @@
 ---
-uid: "1791709370591000"
+uid: 1791709370591000
 title: "Obsidian 插件：Tufte Map"
 tags: ['图表与可视化', '图谱', '样式与美化', 'obsidian插件']
 description: "Draws the vault's link graph as a contour map: notes that link to one another lie close together, the land rises where notes are dense, and each summit is named after its most connected note. Styled by the Tufte theme. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Tufte Map
@@ -47,4 +47,3 @@ Tufte Map 将 Obsidian 笔记库的链接图谱可视化为等高线地形图。
 > 
 
 ---
-

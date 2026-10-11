@@ -1,5 +1,5 @@
 ---
-uid: "1791709369674000"
+uid: 1791709369674000
 title: "Obsidian 插件：Remove Tabs"
 tags: ['界面优化', '效率工具', '样式与美化', 'obsidian插件']
 description: "Removes tabs and the tab bar. Whatever you open replaces what's currently open, so there is only ever one tab. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Remove Tabs
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

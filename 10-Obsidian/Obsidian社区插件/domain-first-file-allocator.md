@@ -1,5 +1,5 @@
 ---
-uid: "1791709366589000"
+uid: 1791709366589000
 title: "Obsidian 插件：Domain First File Allocator"
 tags: ['文件管理', '数据处理', '效率工具', 'obsidian插件']
 description: "File notes into folders using a domain property, and set the property from a note's folder. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Domain First File Allocator
@@ -42,4 +42,3 @@ modified: "20240101000000"
 > 
 
 ---
-

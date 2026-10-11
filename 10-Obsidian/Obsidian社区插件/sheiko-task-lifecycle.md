@@ -1,5 +1,5 @@
 ---
-uid: "1791709369915000"
+uid: 1791709369915000
 title: "Obsidian 插件：Sheiko Task Lifecycle"
 tags: ['任务管理', '日历与时间', '效率工具', '数据处理', 'obsidian插件']
 description: "Works with TaskNotes to track each task's lifecycle: status history, context log, time per status, sign-off prompts, break and deep-work slots with daily reports, and a daily auto-roll for unfinished - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Sheiko Task Lifecycle
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

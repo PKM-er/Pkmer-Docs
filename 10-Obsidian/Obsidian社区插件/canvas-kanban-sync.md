@@ -1,5 +1,5 @@
 ---
-uid: "1791709365813000"
+uid: 1791709365813000
 title: "Obsidian 插件：Canvas Kanban Sync"
 tags: ['任务管理', '图表与可视化', '效率工具', 'obsidian插件']
 description: "Kanban board on Canvas. Moving a card syncs its Status to the note's frontmatter, with automatic start/completion timestamps and an elapsed-days badge to catch tasks that stall. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Canvas Kanban Sync
@@ -51,4 +51,3 @@ modified: "20240101000000"
 > 
 
 ---
-

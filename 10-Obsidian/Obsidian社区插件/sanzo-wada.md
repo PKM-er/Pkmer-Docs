@@ -1,5 +1,5 @@
 ---
-uid: "1791709369781000"
+uid: 1791709369781000
 title: "Obsidian 插件：Sanzo Wada Color Combinations"
 tags: ['样式与美化', '编辑工具', '效率工具', 'obsidian插件']
 description: "Fenced code block processor, palette modal, and clipboard tools for Sanzo Wada's 348 classic color combinations. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Sanzo Wada Color Combinations
@@ -47,4 +47,3 @@ modified: "20240101000000"
 > 
 
 ---
-

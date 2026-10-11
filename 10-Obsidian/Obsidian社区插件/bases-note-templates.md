@@ -1,5 +1,5 @@
 ---
-uid: "1791709365555000"
+uid: 1791709365555000
 title: "Obsidian 插件：Bases Note Templates"
 tags: ['模板与链接处理', '文件管理', '效率工具', 'obsidian插件']
 description: "Creates new notes from a base with a template file, the base's filter values as properties, a folder and a name pattern. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Bases Note Templates
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

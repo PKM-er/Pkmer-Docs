@@ -1,5 +1,5 @@
 ---
-uid: "1791709370130000"
+uid: 1791709370130000
 title: "Obsidian 插件：Sticky Folders"
 tags: ['文件管理', '界面优化', '导航与状态栏', 'obsidian插件']
 description: "Keeps parent folders pinned at the top of the file explorer while you scroll, merging deep paths into one row and highlighting a folder's range from its indent guide. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Sticky Folders
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

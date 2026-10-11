@@ -1,5 +1,5 @@
 ---
-uid: "1791709366031000"
+uid: 1791709366031000
 title: "Obsidian 插件：Class Timetable"
 tags: ['日历与时间', '学习与教育', '移动端优化', '效率工具', 'obsidian插件']
 description: "Weekly class timetable for students: courses, exams and assignment deadlines in your sidebar. Open each class's lecture notes in one click. Odd/even weeks, desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Class Timetable
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

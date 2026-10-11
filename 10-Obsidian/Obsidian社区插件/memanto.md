@@ -1,5 +1,5 @@
 ---
-uid: "1791709368579000"
+uid: 1791709368579000
 title: "Obsidian 插件：Memanto"
 tags: ['自动化与AI', '文件管理', '搜索与排序', 'obsidian插件']
 description: "Sync your agents' memory estate into the vault as Markdown, and recall or question it from a side pane. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Memanto
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

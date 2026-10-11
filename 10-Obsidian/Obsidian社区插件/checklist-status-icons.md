@@ -1,5 +1,5 @@
 ---
-uid: "1791709365979000"
+uid: 1791709365979000
 title: "Obsidian 插件：Checklist Status Sets"
 tags: ['任务管理', '样式与美化', '效率工具', 'obsidian插件']
 description: "Apply Status Sets' reusable status sets to checklist items inside your notes — per file, block, or heading — with the same traffic-light icons, colors, and Glow used in the file tree. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Checklist Status Sets
@@ -47,4 +47,3 @@ modified: "20240101000000"
 > 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-uid: "1791709371025000"
+uid: 1791709371025000
 title: "Obsidian 插件：Web Viewer UA Override"
 tags: ['第三方工具集成', '安全与隐私', '效率工具', 'obsidian插件']
 description: "Routes Obsidian's web views through a clean Electron session with a real Chrome user agent, so Google and other embedded-browser-hostile sign-ins work. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Web Viewer UA Override
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

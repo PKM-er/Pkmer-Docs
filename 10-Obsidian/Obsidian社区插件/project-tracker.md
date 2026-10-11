@@ -1,5 +1,5 @@
 ---
-uid: "1791709369326000"
+uid: 1791709369326000
 title: "Obsidian 插件：Project Tracker"
 tags: ['任务管理', '图表与可视化', '表格', 'obsidian插件']
 description: "Project tracker inspired by Atlassian and GitHub's own project tooling. Display kanban boards and table views. Compatible with Obsidian Sync, plugin works with local notes. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Project Tracker
@@ -49,4 +49,3 @@ Project Tracker 是一款受 Jira 和 GitHub 启发的项目管理插件。它�
 > 
 
 ---
-

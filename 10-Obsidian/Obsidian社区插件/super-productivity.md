@@ -1,5 +1,5 @@
 ---
-uid: "1791709368897000"
+uid: 1791709368897000
 title: "Obsidian 插件：Notes to Actions"
 tags: ['任务管理', '第三方工具集成', '效率工具', 'obsidian插件']
 description: "Import today's daily-note tasks directly into Super Productivity, matching hashtags to existing tags. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Notes to Actions
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

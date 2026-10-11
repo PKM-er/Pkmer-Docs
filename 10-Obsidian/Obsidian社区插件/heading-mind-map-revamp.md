@@ -1,5 +1,5 @@
 ---
-uid: "1791709367464000"
+uid: 1791709367464000
 title: "Obsidian 插件：Heading Mind Map Revamp"
 tags: ['思维导图', '图表与可视化', '编辑工具', '界面优化', 'obsidian插件']
 description: "Turn a note's headings into a colorful, draggable mind map and edit each section in the editor beside it. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Heading Mind Map Revamp
@@ -47,4 +47,3 @@ modified: "20240101000000"
 > 
 
 ---
-

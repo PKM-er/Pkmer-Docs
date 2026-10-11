@@ -1,5 +1,5 @@
 ---
-uid: "1791709366248000"
+uid: 1791709366248000
 title: "Obsidian 插件：Copy All Note"
 tags: ['编辑工具', '效率工具', '自定义命令', 'obsidian插件']
 description: "Adds a native header button that copies the entire note's Markdown to the clipboard. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Copy All Note
@@ -47,4 +47,3 @@ modified: "20240101000000"
 > 
 
 ---
-

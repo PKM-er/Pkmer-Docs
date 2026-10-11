@@ -1,5 +1,5 @@
 ---
-uid: "1791709367754000"
+uid: 1791709367754000
 title: "Obsidian 插件：Immersive Folder"
 tags: ['文件管理', '界面优化', '效率工具', 'obsidian插件']
 description: "One click hides everything but the folder you're working in. Drag folders into your own order instead of naming them 01_Inbox, 02_Projects to line them up. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Immersive Folder
@@ -51,4 +51,3 @@ Immersive Folder 提供“沉浸式聚焦”与“文件夹拖拽排序”两大
 > 
 
 ---
-

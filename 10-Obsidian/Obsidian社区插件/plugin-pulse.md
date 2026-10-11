@@ -1,5 +1,5 @@
 ---
-uid: "1791709366610000"
+uid: 1791709366610000
 title: "Obsidian 插件：Download Pulse"
 tags: ['数据分析', '图表与可视化', '效率工具', '社交与社区', 'obsidian插件']
 description: "Analytics for authors with several plugins. Track every plugin's downloads, rank and milestones in one dashboard, see when you'll pass rivals, and share it as a card. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Download Pulse
@@ -48,4 +48,3 @@ Download Pulse 是一款专为 Obsidian 插件作者设计的分析仪表盘。�
 > 
 
 ---
-

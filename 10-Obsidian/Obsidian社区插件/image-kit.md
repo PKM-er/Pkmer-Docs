@@ -1,5 +1,5 @@
 ---
-uid: "1791709367731000"
+uid: 1791709367731000
 title: "Obsidian 插件：Image Kit"
 tags: ['图片与PDF', '样式与美化', '编辑工具', 'obsidian插件']
 description: "Size, align, and caption images alongside Obsidian's native image controls. Layout is saved in the link itself. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Image Kit
@@ -46,4 +46,3 @@ Image Kit 是一款增强 Obsidian 原生图片编辑体验的插件。它允许
 > 
 
 ---
-

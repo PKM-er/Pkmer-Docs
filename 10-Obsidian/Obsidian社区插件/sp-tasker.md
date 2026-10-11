@@ -1,5 +1,5 @@
 ---
-uid: "1791709370078000"
+uid: 1791709370078000
 title: "Obsidian 插件：SP Tasker"
 tags: ['任务管理', '第三方工具集成', '自动化与AI', 'obsidian插件']
 description: "One-way sync: editing a note's frontmatter creates or updates a matching task in Super Productivity via its local REST API. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：SP Tasker
@@ -52,4 +52,3 @@ modified: "20240101000000"
 > 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-uid: "1791709370175000"
+uid: 1791709370175000
 title: "Obsidian 插件：SuperProductivity Todo Sync"
 tags: ['任务管理', '第三方工具集成', '效率工具', 'obsidian插件']
 description: "View and edit your SuperProductivity tasks via SuperProductivity's local REST API. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：SuperProductivity Todo Sync
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

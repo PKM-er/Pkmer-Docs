@@ -1,5 +1,5 @@
 ---
-uid: "1791709369197000"
+uid: 1791709369197000
 title: "Obsidian 插件：Photo from iPhone"
 tags: ['图片与PDF', '第三方工具集成', '移动端优化', 'obsidian插件']
 description: "Take a photo with your iPhone, save it in the note's iPhone Photos subfolder, and embed it at the cursor. Requires macOS and a separate camera helper. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Photo from iPhone
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

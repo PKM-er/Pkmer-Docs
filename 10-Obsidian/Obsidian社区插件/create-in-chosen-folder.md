@@ -1,5 +1,5 @@
 ---
-uid: "1791709366304000"
+uid: 1791709366304000
 title: "Obsidian 插件：Create In Chosen Folder"
 tags: ['文件管理', '模板与链接处理', '效率工具', 'obsidian插件']
 description: "Choose which folder to create a note in when you click a link to a note that doesn't exist yet. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Create In Chosen Folder
@@ -47,4 +47,3 @@ modified: "20240101000000"
 > 
 
 ---
-

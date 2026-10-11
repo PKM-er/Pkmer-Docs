@@ -1,5 +1,5 @@
 ---
-uid: "1791709366503000"
+uid: 1791709366503000
 title: "Obsidian 插件：DetailSearch Linker"
 tags: ['搜索与排序', '模板与链接处理', '文字处理', '效率工具', 'obsidian插件']
 description: "Search other note bodies on demand for a selected term, highlight it in the current note, and insert heading links in Obsidian's configured internal-link format. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：DetailSearch Linker
@@ -42,4 +42,3 @@ modified: "20240101000000"
 > 
 
 ---
-

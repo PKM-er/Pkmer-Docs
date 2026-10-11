@@ -1,5 +1,5 @@
 ---
-uid: "1791709369527000"
+uid: 1791709369527000
 title: "Obsidian 插件：Recursive Board"
 tags: ['任务管理', '图表与可视化', '界面优化', 'obsidian插件']
 description: "Renders a work item's children as a board or a checklist, from frontmatter alone. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Recursive Board
@@ -46,4 +46,3 @@ Recursive Board 将 Obsidian 库中的 Markdown 文件转化为层级式工作�
 > 
 
 ---
-

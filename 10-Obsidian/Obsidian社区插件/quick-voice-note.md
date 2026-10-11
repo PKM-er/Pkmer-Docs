@@ -1,5 +1,5 @@
 ---
-uid: "1791709369424000"
+uid: 1791709369424000
 title: "Obsidian 插件：Quick Voice Note"
 tags: ['多媒体', '文字处理', '效率工具', '自动化与AI', 'obsidian插件']
 description: "Press a button, talk as long as you like, read it in tonight's note. Long voice memos saved to your vault and transcribed to text. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Quick Voice Note
@@ -42,4 +42,3 @@ modified: "20240101000000"
 > 
 
 ---
-

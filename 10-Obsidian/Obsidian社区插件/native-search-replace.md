@@ -1,5 +1,5 @@
 ---
-uid: "1791709368769000"
+uid: 1791709368769000
 title: "Obsidian 插件：Native Search Replace"
 tags: ['搜索与排序', '编辑工具', '效率工具', 'obsidian插件']
 description: "Adds replacement controls directly to Obsidian's built-in Search and uses the native Search result model for exact files and result rows. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Native Search Replace
@@ -43,4 +43,3 @@ modified: "20240101000000"
 > 
 
 ---
-

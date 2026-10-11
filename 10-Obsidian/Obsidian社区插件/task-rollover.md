@@ -1,5 +1,5 @@
 ---
-uid: "1791709370320000"
+uid: 1791709370320000
 title: "Obsidian 插件：Task Rollover"
 tags: ['任务管理', '效率工具', '自动化与AI', 'obsidian插件']
 description: "Move the unfinished tasks of your last daily note into today's note when it is created, under a heading you choose, with undo, nested items and no duplicates. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Task Rollover
@@ -43,4 +43,3 @@ modified: "20240101000000"
 > 
 
 ---
-

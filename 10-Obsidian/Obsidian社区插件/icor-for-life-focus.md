@@ -1,5 +1,5 @@
 ---
-uid: "1791709367685000"
+uid: 1791709367685000
 title: "Obsidian 插件：ICOR for Life - Focus"
 tags: ['图表与可视化', '效率工具', '日历与时间', 'obsidian插件']
 description: "See where your attention actually goes: you sit in the center of the map, today's work orbits close, older work ripples outward, and every entity type keeps its own color and shape. Part of the ICOR for Life suite. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：ICOR for Life - Focus
@@ -47,4 +47,3 @@ ICOR for Life - Focus 是一款可视化注意力分布的插件。它以用户�
 > 
 
 ---
-

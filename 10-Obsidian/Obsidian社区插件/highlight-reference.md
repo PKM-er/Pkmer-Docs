@@ -1,5 +1,5 @@
 ---
-uid: "1791709367504000"
+uid: 1791709367504000
 title: "Obsidian 插件：Highlight Reference"
 tags: ['文字处理', '学习与教育', '效率工具', 'obsidian插件']
 description: "Show meanings for ==highlighted== words from a glossary note referenced in each note's frontmatter, with quick add for missing terms. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Highlight Reference
@@ -39,4 +39,3 @@ modified: "20240101000000"
 > 
 
 ---
-

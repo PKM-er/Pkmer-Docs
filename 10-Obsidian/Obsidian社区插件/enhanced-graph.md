@@ -1,5 +1,5 @@
 ---
-uid: "1791709366767000"
+uid: 1791709366767000
 title: "Obsidian 插件：Enhanced Graph"
 tags: ['图表与可视化', '数据分析', '图谱', '效率工具', 'obsidian插件']
 description: "Add a relevance engine, Louvain communities and knowledge-gap insights to Obsidian's built-in graph view, plus a standalone graph with filters, weights and reports. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Enhanced Graph
@@ -42,4 +42,3 @@ modified: "20240101000000"
 > 
 
 ---
-

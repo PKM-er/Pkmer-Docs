@@ -1,5 +1,5 @@
 ---
-uid: "1791709370110001"
+uid: 1791709370110001
 title: "Obsidian 插件：Standard Manuscript Format Export"
 tags: ['文字处理', '文件管理', '效率工具', 'obsidian插件']
 description: "Export a story to Shunn's standard manuscript format as a .docx or .rtf, ready to submit. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Standard Manuscript Format Export
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

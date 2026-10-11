@@ -1,5 +1,5 @@
 ---
-uid: "1791709366594000"
+uid: 1791709366594000
 title: "Obsidian 插件：Doomscroll"
 tags: ['界面优化', '效率工具', '导航与状态栏', 'obsidian插件']
 description: "Doomscroll your own notes, not someone else's feed. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Doomscroll
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

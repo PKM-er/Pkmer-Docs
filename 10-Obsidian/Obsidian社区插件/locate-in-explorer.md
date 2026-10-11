@@ -1,5 +1,5 @@
 ---
-uid: "1791709368210000"
+uid: 1791709368210000
 title: "Obsidian 插件：Locate in Explorer"
 tags: ['文件管理', '界面优化', '效率工具', 'obsidian插件']
 description: "Like IDEA's 'Scroll from Source' — reveal, scroll to center, and highlight the active note in the file explorer sidebar with one click. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Locate in Explorer
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

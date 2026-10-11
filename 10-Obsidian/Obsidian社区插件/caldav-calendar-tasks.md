@@ -1,5 +1,5 @@
 ---
-uid: "1791709365745000"
+uid: 1791709365745000
 title: "Obsidian 插件：CalDAV Calendar and Tasks"
 tags: ['日历与时间', '任务管理', '第三方工具集成', '效率工具', 'obsidian插件']
 description: "Sync calendar events and todos both ways with your CalDAV server (Radicale, Nextcloud, Baikal and more). Offers month, week, day and year views, a task list, inline editing, and one-click export of the day's agenda into your daily note. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：CalDAV Calendar and Tasks
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

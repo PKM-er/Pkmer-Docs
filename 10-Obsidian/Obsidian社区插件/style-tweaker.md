@@ -1,5 +1,5 @@
 ---
-uid: "1791709370156000"
+uid: 1791709370156000
 title: "Obsidian 插件：Style Tweaker"
 tags: ['样式与美化', '界面优化', 'obsidian插件']
 description: "Customize the app's appearance with fine-grained style tweaks. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Style Tweaker
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-uid: "1791709368925000"
+uid: 1791709368925000
 title: "Obsidian 插件：OAuth Token Fetcher"
 tags: ['第三方工具集成', '安全与隐私', '自动化与AI', 'obsidian插件']
 description: "Periodically fetches an OAuth2 client-credentials token and stores it in Obsidian's SecretStorage so other plugins can use it. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：OAuth Token Fetcher
@@ -50,4 +50,3 @@ modified: "20240101000000"
 > 
 
 ---
-

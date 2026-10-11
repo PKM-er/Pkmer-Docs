@@ -1,5 +1,5 @@
 ---
-uid: "1791709370495000"
+uid: 1791709370495000
 title: "Obsidian 插件：Toolbar Pin Toggle"
 tags: ['界面优化', '快捷键', '效率工具', 'obsidian插件']
 description: "Keep Editing Toolbar's bottom or top bar permanently visible with a single hotkey. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Toolbar Pin Toggle
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

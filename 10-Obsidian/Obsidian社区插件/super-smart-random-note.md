@@ -1,5 +1,5 @@
 ---
-uid: "1791709370168000"
+uid: 1791709370168000
 title: "Obsidian 插件：Super Smart Random Note"
 tags: ['搜索与排序', '导航与状态栏', '效率工具', 'obsidian插件']
 description: "Open random notes matched by saved filters written in Obsidian's search query syntax. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Super Smart Random Note
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

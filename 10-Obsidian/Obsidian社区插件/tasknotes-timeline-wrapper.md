@@ -1,5 +1,5 @@
 ---
-uid: "1791709370345000"
+uid: 1791709370345000
 title: "Obsidian 插件：TaskNotes Timeline Wrapper"
 tags: ['任务管理', '日历与时间', '第三方工具集成', '界面优化', '效率工具', 'obsidian插件']
 description: "A Today's Timeline window for TaskNotes — stats, date-grouped tasks, optional calendar events (ICS / Google / Microsoft), and quick task entry, for a sidebar pane or embedded in a note. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：TaskNotes Timeline Wrapper
@@ -48,4 +48,3 @@ TaskNotes Timeline Wrapper 是 TaskNotes 的配套插件，提供“今日时间
 > 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-uid: "1791709365306000"
+uid: 1791709365306000
 title: "Obsidian 插件：Angle Guard"
 tags: ['编辑工具', '文字处理', '效率工具', 'obsidian插件']
 description: "Captures and wraps HTML tags in pasted text so they don't break the note's formatting. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Angle Guard
@@ -48,4 +48,3 @@ Angle Guard 是一款粘贴防护插件。它在用户粘贴文本时，自动�
 > 
 
 ---
-

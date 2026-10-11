@@ -1,5 +1,5 @@
 ---
-uid: "1791709368221000"
+uid: 1791709368221000
 title: "Obsidian 插件：Longshot PDF"
 tags: ['图片与PDF', '样式与美化', '文件管理', '效率工具', 'obsidian插件']
 description: "Export a note's preview as a pixel-perfect PDF: capture it as a long screenshot, then split and flow it onto styled pages with selectable paper size, margins, and header/footer. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Longshot PDF
@@ -39,4 +39,3 @@ modified: "20240101000000"
 > 
 
 ---
-

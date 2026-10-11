@@ -1,5 +1,5 @@
 ---
-uid: "1791709367467000"
+uid: 1791709367467000
 title: "Obsidian 插件：Heading Rail"
 tags: ['导航与状态栏', '界面优化', '移动端优化', '搜索与排序', 'obsidian插件']
 description: "Table of contents (TOC) as heading bars at the note's edge, plus a floating outline. Hover to preview, click to jump, search headings and text, drag and edit sections, undo every action. Mobile-ready. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Heading Rail
@@ -47,4 +47,3 @@ modified: "20240101000000"
 > 
 
 ---
-

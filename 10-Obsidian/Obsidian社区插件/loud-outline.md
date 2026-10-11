@@ -1,5 +1,5 @@
 ---
-uid: "1791709368229000"
+uid: 1791709368229000
 title: "Obsidian 插件：Loud Outline"
 tags: ['文件管理', '界面优化', '导航与状态栏', '效率工具', 'obsidian插件']
 description: "Like Quiet Outline, but louder! Shows each note's headings, tasks and lists as expandable nodes right in the file explorer — no separate outline pane needed. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Loud Outline
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

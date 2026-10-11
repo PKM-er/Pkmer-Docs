@@ -1,5 +1,5 @@
 ---
-uid: "1791709370258000"
+uid: 1791709370258000
 title: "Obsidian 插件：Table Width"
 tags: ['表格', '编辑工具', '界面优化', 'obsidian插件']
 description: "Resize Markdown table columns by dragging their borders, or double-click a border to fit a column to its text. Tables you haven't resized keep their normal layout. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Table Width
@@ -46,4 +46,3 @@ Table Width 允许用户通过拖拽边框来调整 Obsidian 中 Markdown 表格
 > 
 
 ---
-

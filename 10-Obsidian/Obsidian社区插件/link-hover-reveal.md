@@ -1,5 +1,5 @@
 ---
-uid: "1791709368042000"
+uid: 1791709368042000
 title: "Obsidian 插件：Link Hover Reveal"
 tags: ['界面优化', '编辑工具', '模板与链接处理', 'obsidian插件']
 description: "Keeps markdown links collapsed to just their title in Live Preview, so arrowing between lines doesn't expand them. Only reveals the raw [text](url) when the cursor is placed strictly inside it. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Link Hover Reveal
@@ -47,4 +47,3 @@ Link Hover Reveal 是一款 Obsidian 插件，用于优化 Live Preview 模式�
 > 
 
 ---
-

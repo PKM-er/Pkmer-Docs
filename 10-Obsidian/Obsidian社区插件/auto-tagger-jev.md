@@ -1,5 +1,5 @@
 ---
-uid: "1791709365476000"
+uid: 1791709365476000
 title: "Obsidian 插件：Auto Tagger (Jev)"
 tags: ['自动化与AI', '编辑工具', '效率工具', 'obsidian插件']
 description: "Suggests or applies a tag to the current note using TypeSafe's Jev model and your vault's existing tags. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Auto Tagger (Jev)
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

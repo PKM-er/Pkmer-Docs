@@ -1,5 +1,5 @@
 ---
-uid: "1791709370022000"
+uid: 1791709370022000
 title: "Obsidian 插件：Slack Flavor"
 tags: ['第三方工具集成', '文字处理', '编辑工具', 'obsidian插件']
 description: "Write and preview Slack mrkdwn, render your workspace's custom emoji, import Slack threads, and copy notes as Slack-ready text. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Slack Flavor
@@ -45,4 +45,3 @@ modified: "20240101000000"
 > 
 
 ---
-

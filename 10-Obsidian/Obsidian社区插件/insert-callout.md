@@ -1,5 +1,5 @@
 ---
-uid: "1791709367811000"
+uid: 1791709367811000
 title: "Obsidian 插件：Insert Callout"
 tags: ['编辑工具', '文字处理', '界面优化', '效率工具', 'obsidian插件']
 description: "Create callouts with a type-selection dialog or inline autocomplete, remove them along with quote markers, and navigate the current note's callouts from a sidebar list. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Insert Callout
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

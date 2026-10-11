@@ -1,5 +1,5 @@
 ---
-uid: "1791709365568000"
+uid: 1791709365568000
 title: "Obsidian 插件：Bases Wrap Text"
 tags: ['表格', '界面优化', '样式与美化', 'obsidian插件']
 description: "Add an Excel-style 'Wrap Text' toggle to Bases table views. When enabled, long cell content wraps to multiple lines instead of being truncated. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Bases Wrap Text
@@ -42,4 +42,3 @@ modified: "20240101000000"
 > 
 
 ---
-

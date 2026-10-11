@@ -1,5 +1,5 @@
 ---
-uid: "1791709369688000"
+uid: 1791709369688000
 title: "Obsidian 插件：Research Connected"
 tags: ['图谱', '图表与可视化', '学术与科研', 'obsidian插件']
 description: "Explore a paper's citation neighborhood as an interactive similarity map in a graph pane or note. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Research Connected
@@ -47,4 +47,3 @@ Research Connected 是一款将论文引用关系转化为交互式相似性地�
 > 
 
 ---
-

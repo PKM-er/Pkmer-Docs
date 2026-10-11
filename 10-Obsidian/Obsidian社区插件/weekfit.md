@@ -1,5 +1,5 @@
 ---
-uid: "1791709371051000"
+uid: 1791709371051000
 title: "Obsidian 插件：Weekfit"
 tags: ['任务管理', '日历与时间', '效率工具', 'obsidian插件']
 description: "Press one button and see where the week's work fits. Schedules your unscheduled tasks into the gaps between your commitments. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Weekfit
@@ -49,4 +49,3 @@ Weekfit 是一款智能周计划插件，能将未排期的任务自动嵌入每
 > 
 
 ---
-

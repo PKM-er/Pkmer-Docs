@@ -1,5 +1,5 @@
 ---
-uid: "1791709366544000"
+uid: 1791709366544000
 title: "Obsidian 插件：Discogs Cover"
 tags: ['第三方工具集成', '图片与PDF', '样式与美化', 'obsidian插件']
 description: "Shows the Discogs cover art for a note's 'discogs' release ID, cached locally and usable in Bases image columns. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Discogs Cover
@@ -47,4 +47,3 @@ modified: "20240101000000"
 > 
 
 ---
-

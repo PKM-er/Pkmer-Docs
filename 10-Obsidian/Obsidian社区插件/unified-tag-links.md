@@ -1,5 +1,5 @@
 ---
-uid: "1791709370644000"
+uid: 1791709370644000
 title: "Obsidian 插件：Unified Tag Links"
 tags: ['模板与链接处理', '导航与状态栏', '效率工具', 'obsidian插件']
 description: "Links every note carrying a promoted tag to that tag's concept note, through a managed tag_links property. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Unified Tag Links
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

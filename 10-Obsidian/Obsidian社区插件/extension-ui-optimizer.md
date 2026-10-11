@@ -1,5 +1,5 @@
 ---
-uid: "1791709366955000"
+uid: 1791709366955000
 title: "Obsidian 插件：Extension UI Optimizer"
 tags: ['界面优化', '效率工具', '导航与状态栏', 'obsidian插件']
 description: "Personalize your plugin sidebar: attach notes to any plugin, group and icon plugins in the settings sidebar, and jump straight to a plugin's settings. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Extension UI Optimizer
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

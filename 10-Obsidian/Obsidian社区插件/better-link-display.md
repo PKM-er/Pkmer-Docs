@@ -1,5 +1,5 @@
 ---
-uid: "1791709365603000"
+uid: 1791709365603000
 title: "Obsidian 插件：Better Link Display"
 tags: ['样式与美化', '界面优化', '模板与链接处理', 'obsidian插件']
 description: "Turn bare URL links into rich bookmarks showing the site's favicon and title. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Better Link Display
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

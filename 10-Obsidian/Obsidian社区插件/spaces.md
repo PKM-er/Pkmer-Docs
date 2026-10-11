@@ -1,5 +1,5 @@
 ---
-uid: "1791709370084000"
+uid: 1791709370084000
 title: "Obsidian 插件：Spaces"
 tags: ['导航与状态栏', '文件管理', '界面优化', 'obsidian插件']
 description: "Switch between curated views of your vault's folders and notes. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Spaces
@@ -46,4 +46,3 @@ Spaces 允许用户在 Obsidian 中创建并切换不同的“空间”视图。
 > 
 
 ---
-

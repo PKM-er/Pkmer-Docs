@@ -1,5 +1,5 @@
 ---
-uid: "1791709366409000"
+uid: 1791709366409000
 title: "Obsidian 插件：Daily Rosary"
 tags: ['日历与时间', '效率工具', '模板与链接处理', 'obsidian插件']
 description: "Opens Today's Rosary. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Daily Rosary
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

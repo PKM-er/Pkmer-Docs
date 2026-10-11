@@ -1,5 +1,5 @@
 ---
-uid: "1791709368722000"
+uid: 1791709368722000
 title: "Obsidian 插件：Move Selected Files Here"
 tags: ['文件管理', '效率工具', '自定义命令', 'obsidian插件']
 description: "'Move selected files here' context menu is added. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Move Selected Files Here
@@ -50,4 +50,3 @@ modified: "20240101000000"
 > 
 
 ---
-

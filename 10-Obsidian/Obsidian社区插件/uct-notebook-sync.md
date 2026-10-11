@@ -1,5 +1,5 @@
 ---
-uid: "1791709370620000"
+uid: 1791709370620000
 title: "Obsidian 插件：UCT Notebook Sync"
 tags: ['第三方工具集成', '文件管理', '效率工具', 'obsidian插件']
 description: "One-way sync of this vault's markdown notes into your UCT Intelligence Notebook (Journal 2.0). - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：UCT Notebook Sync
@@ -48,4 +48,3 @@ UCT Notebook Sync 是一款单向同步插件，将 Obsidian 库中的 Markdown 
 > 
 
 ---
-

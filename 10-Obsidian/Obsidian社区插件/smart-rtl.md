@@ -1,5 +1,5 @@
 ---
-uid: "1791709370047000"
+uid: 1791709370047000
 title: "Obsidian 插件：Smart RTL"
 tags: ['obsidian插件']
 description: "Sets each line's text direction from the majority of its words, so a Persian, Arabic or Hebrew line that starts with an English word still reads right-to-left. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Smart RTL
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

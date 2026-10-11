@@ -1,5 +1,5 @@
 ---
-uid: "1791709369739000"
+uid: 1791709369739000
 title: "Obsidian 插件：Rollover Todos (Gagans)"
 tags: ['任务管理', '日历与时间', '模板与链接处理', '效率工具', 'obsidian插件']
 description: "Roll over unfinished todos and pinned links, paginate adjacent daily notes, track routine streaks by id, and collect today's edited note links. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Rollover Todos (Gagans)
@@ -39,4 +39,3 @@ modified: "20240101000000"
 > 
 
 ---
-

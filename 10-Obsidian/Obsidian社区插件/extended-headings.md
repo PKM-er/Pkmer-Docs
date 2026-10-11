@@ -1,5 +1,5 @@
 ---
-uid: "1791709366932000"
+uid: 1791709366932000
 title: "Obsidian 插件：Extended Headings"
 tags: ['编辑工具', '样式与美化', '导航与状态栏', '界面优化', 'obsidian插件']
 description: "Extends Obsidian's heading system through H12 with consistent editing, styling, folding, outlines, links, navigation, and heading-level markers. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Extended Headings
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

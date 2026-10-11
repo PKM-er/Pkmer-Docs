@@ -1,5 +1,5 @@
 ---
-uid: "1791709365279000"
+uid: 1791709365279000
 title: "Obsidian 插件：AI Work Review"
 tags: ['自动化与AI', '编辑工具', '数据处理', '效率工具', 'obsidian插件']
 description: "Review and approve AI's work on your markdown vault: rule checks, AI report ingestion, proposal diff with confirmed replacement. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：AI Work Review
@@ -46,4 +46,3 @@ modified: "20240101000000"
 > 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-uid: "1791709367200000"
+uid: 1791709367200000
 title: "Obsidian 插件：Frontmatter Icons"
 tags: ['文件管理', '界面优化', '样式与美化', 'obsidian插件']
 description: "Displays file_icon and folder_icon properties directly in Obsidian's file explorer. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Frontmatter Icons
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-

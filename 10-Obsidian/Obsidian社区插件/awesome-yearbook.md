@@ -1,5 +1,5 @@
 ---
-uid: "1791709365502000"
+uid: 1791709365502000
 title: "Obsidian 插件：Awesome Yearbook"
 tags: ['图表与可视化', '数据分析', '日历与时间', '界面优化', 'obsidian插件']
 description: "A beautiful, zero-config dashboard of your vault's writing stats: heatmaps, streaks, top tags, folder treemaps, and shareable year-in-review cards. Nothing is stored — every number is recomputed from a single scan. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Awesome Yearbook
@@ -46,4 +46,3 @@ Awesome Yearbook 是一款零配置、纯本地运行的 Obsidian 写作统计�
 > 
 
 ---
-

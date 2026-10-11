@@ -1,5 +1,5 @@
 ---
-uid: "1791709369104000"
+uid: 1791709369104000
 title: "Obsidian 插件：Outlook to Day Planner Sync"
 tags: ['日历与时间', '第三方工具集成', '效率工具', 'obsidian插件']
 description: "Syncs Outlook calendar events into the Day Planner section of daily notes, filtered by the note's frontmatter Date. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Outlook to Day Planner Sync
@@ -49,4 +49,3 @@ modified: "20240101000000"
 > 
 
 ---
-

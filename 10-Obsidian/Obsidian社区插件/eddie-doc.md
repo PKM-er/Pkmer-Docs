@@ -1,5 +1,5 @@
 ---
-uid: "1791709366708000"
+uid: 1791709366708000
 title: "Obsidian 插件：Eddie Doc"
 tags: ['图片与PDF', '编辑工具', '效率工具', 'obsidian插件']
 description: "Map an editor's PDF annotations back onto your AsciiDoc source as navigable, resolvable review items. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Eddie Doc
@@ -47,4 +47,3 @@ Eddie Doc 是一款专为 AsciiDoc 写作设计的插件。它能读取编辑者
 > 
 
 ---
-

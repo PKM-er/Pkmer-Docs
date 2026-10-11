@@ -1,5 +1,5 @@
 ---
-uid: "1791709370633000"
+uid: 1791709370633000
 title: "Obsidian 插件：Uncommon Terminal"
 tags: ['编程与脚本', '第三方工具集成', '效率工具', 'obsidian插件']
 description: "Run a real shell in a pane, rendered by Ghostty's terminal parser. Mouse-aware TUIs scroll properly. macOS and Linux. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Uncommon Terminal
@@ -45,4 +45,3 @@ modified: "20240101000000"
 > 
 
 ---
-

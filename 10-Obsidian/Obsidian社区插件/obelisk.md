@@ -1,5 +1,5 @@
 ---
-uid: "1791709368926000"
+uid: 1791709368926000
 title: "Obsidian 插件：Obelisk"
 tags: ['编辑工具', '第三方工具集成', '效率工具', 'obsidian插件']
 description: "Comment on any passage in a note and propose GitHub-style suggested edits. Comments live in the note's frontmatter, so they travel with the file. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Obelisk
@@ -49,4 +49,3 @@ Obelisk 允许用户在笔记中任意选段添加评论，并支持 GitHub 风�
 > 
 
 ---
-

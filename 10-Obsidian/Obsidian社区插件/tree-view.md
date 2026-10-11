@@ -1,5 +1,5 @@
 ---
-uid: "1791709370551000"
+uid: 1791709370551000
 title: "Obsidian 插件：Tree View"
 tags: ['文件管理', '界面优化', '导航与状态栏', '效率工具', 'obsidian插件']
 description: "Create multiple editable file-explorer views that reference the vault's real file tree, without altering it. - This plugin has not been manually reviewed by Obsidian staff."
@@ -7,7 +7,7 @@ author: "AI"
 type: "auto"
 draft: false
 editable: false
-modified: "20240101000000"
+modified: 20240101000000
 ---
 
 # Obsidian 插件：Tree View
@@ -48,4 +48,3 @@ modified: "20240101000000"
 > 
 
 ---
-
