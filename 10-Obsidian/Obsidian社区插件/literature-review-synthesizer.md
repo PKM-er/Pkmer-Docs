@@ -1,7 +1,7 @@
 ---
 uid: 1780392511235001
 title: 'Obsidian 插件：Literature Review Synthesizer'
-tags: ['学习与教育', '自动化与AI', '文字处理', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '自动化与AI', '文字处理', '学术与科研', 'obsidian插件']
 description: '借助大语言模型（LLMs），把你的学术阅读笔记转化为结构化的文献综述成果。'
 author: AI
 type: auto

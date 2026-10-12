@@ -1,7 +1,7 @@
 ---
 uid: 1780392511201000
 title: 'Obsidian 插件：KarMind'
-tags: ['自动化与AI', '文件管理', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '文件管理', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '它可以借助大语言模型（LLM）来管理笔记，实现维基整理、问答、内容回填以及健康检查等功能。'
 author: AI
 type: auto

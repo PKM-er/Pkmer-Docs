@@ -1,7 +1,7 @@
 ---
 uid: 2024052909032815
 title: Obsidian 插件：EmoTagsTitler
-tags: ['第三方工具集成', '笔记与日志', '文本处理', 'obsidian插件']
+tags: ['第三方工具集成', '笔记与日志', '文字处理', 'obsidian插件']
 description: 将标签中包含的表情符号添加到笔记标题的开头。
 author: AI
 type: auto

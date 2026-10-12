@@ -1,7 +1,7 @@
 ---
 uid: 1786577076758002
 title: 'Obsidian 插件：Canvas Task Cards'
-tags: ['任务管理', '图表与可视化', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['任务管理', '图表与可视化', '效率工具', '白板', 'obsidian插件']
 description: '给Obsidian画布添加带有完成状态的任务卡片 —— 此插件尚未经过Obsidian官方人员手动审核。'
 author: AI
 type: auto

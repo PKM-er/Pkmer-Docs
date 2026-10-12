@@ -5,7 +5,7 @@ tags:
   - 图表与可视化
   - 编辑工具
   - 效率工具
-  - 白板学术与科研
+  - 白板
   - obsidian插件
 description: 快速创建时间线结构的画布。
 author: AI

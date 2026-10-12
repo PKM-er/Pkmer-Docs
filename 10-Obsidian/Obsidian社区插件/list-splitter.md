@@ -1,7 +1,7 @@
 ---
 uid: 1780392511233002
 title: 'Obsidian 插件：Canvas List Splitter'
-tags: ['编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '效率工具', '学术与科研', 'obsidian插件']
 description: '它能把画布卡片里的列表拆分成一张张单独的卡片。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577076097003
 title: 'Obsidian 插件：arXiv Papers'
-tags: ['第三方工具集成', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['第三方工具集成', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 description: '从arXiv获取并导入研究论文。这是willjhliang/obsidian - papers的派生版本，具备速率限制处理功能，还能在必要时使用OpenAlex作为备用方案。——此插件尚未经过Obsidian官方人员的手动审核。'
 author: AI
 type: auto

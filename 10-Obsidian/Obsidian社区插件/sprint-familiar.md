@@ -1,7 +1,7 @@
 ---
 uid: 1786577082775001
 title: 'Obsidian 插件：Sprint Familiar'
-tags: ['学习与教育', '白板学术与科研', '日历与时间', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '学术与科研', '日历与时间', '效率工具', 'obsidian插件']
 description: '这是一个研究冲刺计时器，计时结束时会记录你的论点有哪些变化，比如写下的主张、引用的来源、标记的假设、提出的问题以及排除的路径。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

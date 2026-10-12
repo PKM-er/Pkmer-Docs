@@ -1,7 +1,7 @@
 ---
 uid: 1780392510991001
 title: 'Obsidian 插件：Canvas Loom'
-tags: ['编辑工具', '效率工具', '白板学术与科研', '图表与可视化', 'obsidian插件']
+tags: ['编辑工具', '效率工具', '白板', '图表与可视化', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它能为画布添加合并、拆分、复制内容以及添加标记等功能。'
 author: AI
 type: auto

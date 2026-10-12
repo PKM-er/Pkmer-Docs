@@ -1,7 +1,7 @@
 ---
 uid: 1780392511096000
 title: 'Obsidian 插件：Feynman - AI research assistant'
-tags: ['学习与教育', '自动化与AI', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '自动化与AI', '第三方工具集成', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它是你仓库的研究助手，在本地的Docker环境中运行，需要使用你自己的Anthropic API密钥。'
 author: AI
 type: auto

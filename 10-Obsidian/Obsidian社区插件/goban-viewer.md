@@ -1,7 +1,7 @@
 ---
 uid: 1780392511135002
 title: 'Obsidian 插件：Goban Viewer'
-tags: ['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它能在笔记预览中渲染围棋/五子棋的棋谱图。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 2024061111450243
 title: Obsidian 插件：Checkbox Time Tracker
-tags: ['时间管理', '数据处理', '任务管理', 'obsidian插件']
+tags: ['日历与时间', '数据处理', '任务管理', 'obsidian插件']
 description: Insert timestamp when you check off the checkbox
 author: AI
 type: auto

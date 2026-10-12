@@ -1,7 +1,7 @@
 ---
 uid: 1786577082114000
 title: 'Obsidian 插件：Ratel'
-tags: ['自动化与AI', '搜索与排序', '第三方工具集成', '安全与隐私', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '搜索与排序', '第三方工具集成', '安全与隐私', '学术与科研', 'obsidian插件']
 description: '笔记的AI小助手——能和你的仓库聊天，进行带引用的语义搜索，开展多步骤研究，还能进行安全编辑。支持DeepSeek、Claude和Ollama。采用本地嵌入技术，无数据追踪。——此插件尚未经过Obsidian官方人员人工审核。'
 author: AI
 type: auto

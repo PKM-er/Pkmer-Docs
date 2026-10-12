@@ -1,7 +1,7 @@
 ---
 uid: 2024052909023990
 title: Obsidian 插件：Jelly Snippets
-tags: ['文本处理', '第三方工具集成', '编辑工具', 'obsidian插件']
+tags: ['文字处理', '第三方工具集成', '编辑工具', 'obsidian插件']
 description: 一个简单的文本片段插件。
 author: AI
 type: auto

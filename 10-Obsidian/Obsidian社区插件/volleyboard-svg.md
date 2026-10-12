@@ -1,7 +1,7 @@
 ---
 uid: 1780392512205001
 title: 'Obsidian 插件：VolleyBoard SVG'
-tags: ['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '白板', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。这是个战术排球白板，采用SVG + JSON技术构建，可用于进行交互式训练和绘制图表。'
 author: AI
 type: auto

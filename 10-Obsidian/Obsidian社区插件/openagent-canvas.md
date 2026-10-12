@@ -1,7 +1,7 @@
 ---
 uid: 1780392511590000
 title: 'Obsidian 插件：OpenAgent Canvas'
-tags: ['第三方工具集成', '任务管理', '自动化与AI', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '任务管理', '自动化与AI', '白板', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。可以通过本地的Codex服务器和Codex桌面应用程序，在Obsidian Canvas里运行OpenAgent任务。'
 author: AI
 type: auto

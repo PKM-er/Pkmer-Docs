@@ -1,7 +1,7 @@
 ---
 uid: 1786577076867010
 title: 'Obsidian 插件：Cite Engine'
-tags: ['学习与教育', '白板学术与科研', '模板与链接处理', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '学术与科研', '模板与链接处理', '效率工具', 'obsidian插件']
 description: '通过块引用实现防偏差、封闭语料库式引用。仅从你剪辑的资料源中引用——从设计上就杜绝了编造内容的可能。 - 此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

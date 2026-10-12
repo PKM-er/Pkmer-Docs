@@ -1,7 +1,7 @@
 ---
 uid: 1786577075488001
 title: 'Obsidian 插件：Academic RSS Reader'
-tags: ['学习与教育', '第三方工具集成', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '第三方工具集成', '效率工具', '学术与科研', 'obsidian插件']
 description: ''
 author: AI
 type: auto

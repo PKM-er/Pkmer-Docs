@@ -1,7 +1,7 @@
 ---
 uid: 1786577082976001
 title: 'Obsidian 插件：T-Wiki'
-tags: ['数据处理', '自动化与AI', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['数据处理', '自动化与AI', '学习与教育', '学术与科研', 'obsidian插件']
 description: '把源文档转化成一个结构化、可追溯、由大语言模型驱动的维基知识库。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577078142010
 title: 'Obsidian 插件：Grill'
-tags: ['自动化与AI', '图谱', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '图谱', '学习与教育', '学术与科研', 'obsidian插件']
 description: '填充你的人工智能驱动知识图谱——这款插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577083378004
 title: 'Obsidian 插件：ToWrite Open Questions'
-tags: ['任务管理', '编辑工具', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['任务管理', '编辑工具', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '在源笔记旁边跟踪ToThink和ToWrite注释。——Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

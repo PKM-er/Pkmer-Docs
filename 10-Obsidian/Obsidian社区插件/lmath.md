@@ -1,7 +1,7 @@
 ---
 uid: 1786577079625002
 title: 'Obsidian 插件：LMath'
-tags: ['图表与可视化', '学习与教育', '编程与脚本', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '编程与脚本', '学术与科研', 'obsidian插件']
 description: '在交互式板块中绘制函数、方程组、导数和积分的图像。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

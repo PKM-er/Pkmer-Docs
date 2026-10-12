@@ -1,7 +1,7 @@
 ---
 uid: 20231007174607
 title: Opener 插件默认在新标签页打开笔记
-tags: [obsidian, 插件，功能增强, PDF]
+tags: ['obsidian', 'PDF']
 description:
 author: calmwaves
 type: basic

@@ -1,7 +1,7 @@
 ---
 uid: 1780392511011000
 title: 'Obsidian 插件：CiteMe - Academic Citations'
-tags: ['学习与教育', '第三方工具集成', '文字处理', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '第三方工具集成', '文字处理', '学术与科研', 'obsidian插件']
 description: '这个插件还未经Obsidian官方人员手动审核。可以从11个以上的数据库中搜索并插入格式化的学术引用。有43种引用风格，还能给出配额提示反馈，并且有免费版和专业版支持。'
 author: AI
 type: auto

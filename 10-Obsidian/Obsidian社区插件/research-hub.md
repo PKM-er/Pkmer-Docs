@@ -1,7 +1,7 @@
 ---
 uid: 2026060213561486
 title: 'Obsidian 插件：Research Hub'
-tags: ['学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 description: '这是一款专为Obsidian打造的专注研究工作区插件：能为任何主题或项目收集资料来源、证据、论点以及综合笔记。'
 author: AI
 type: auto

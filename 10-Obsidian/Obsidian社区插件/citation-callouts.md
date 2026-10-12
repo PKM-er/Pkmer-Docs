@@ -1,7 +1,7 @@
 ---
 uid: 2025081220015006
 title: 'Obsidian 插件：Citation Callouts'
-tags: ['样式与美化', '文字处理', '学习与教育', '白板学术与科研', 'zotero', 'obsidian插件']
+tags: ['样式与美化', '文字处理', '学习与教育', '学术与科研', 'zotero', 'obsidian插件']
 description: '能把来自不同出处、带引用信息的引文巧妙地格式化为自定义标注框。'
 author: AI
 type: auto

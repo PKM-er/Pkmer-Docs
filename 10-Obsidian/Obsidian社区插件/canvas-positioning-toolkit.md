@@ -1,7 +1,7 @@
 ---
 uid: 1786577076677001
 title: 'Obsidian 插件：Canvas Positioning Toolkit'
-tags: ['自动化与AI', '搜索与排序', '快捷键', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '搜索与排序', '快捷键', '效率工具', '白板', 'obsidian插件']
 description: '自动将画布卡片布局并排列成网格状，用快捷键拿起和放置卡片，而不用手动拖动，还能通过文本搜索在一堆卡片里找到某张卡片。——这款插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

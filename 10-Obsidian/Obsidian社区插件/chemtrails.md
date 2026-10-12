@@ -1,7 +1,7 @@
 ---
 uid: 1786577076840004
 title: 'Obsidian 插件：Chemtrails'
-tags: ['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '把SMILES化学符号渲染成清晰的SVG图表。——Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

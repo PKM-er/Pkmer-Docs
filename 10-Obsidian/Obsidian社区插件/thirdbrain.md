@@ -1,7 +1,7 @@
 ---
 uid: 1786577083176002
 title: 'Obsidian 插件：ThirdBrain'
-tags: ['图谱', '自动化与AI', '数据分析', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图谱', '自动化与AI', '数据分析', '学习与教育', '学术与科研', 'obsidian插件']
 description: '“把你零散的想法转化成一个自我净化的知识图谱。”ThirdBrain 能提取可验证的命题，用特定类型的边将它们连接起来，还能自动解决矛盾 —— 支持英语/韩语 - 此插件尚未经过 Obsidian 工作人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577082150002
 title: 'Obsidian 插件：ReallyGood Research'
-tags: ['第三方工具集成', '自动化与AI', '发布工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '自动化与AI', '发布工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '运行NotebookLM/Tavily风格的深度研究，并将Markdown和HTML内容发布到你的仓库中。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

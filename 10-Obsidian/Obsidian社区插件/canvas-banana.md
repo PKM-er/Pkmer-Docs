@@ -1,7 +1,7 @@
 ---
 uid: 1780392510988001
 title: 'Obsidian 插件：Canvas Banana'
-tags: ['第三方工具集成', '自动化与AI', '白板学术与科研', '图表与可视化', 'obsidian插件']
+tags: ['第三方工具集成', '自动化与AI', '白板', '图表与可视化', 'obsidian插件']
 description: '画布AI插件——可在画布视图中使用Gemini AI，支持生成文本、图像和节点。'
 author: AI
 type: auto

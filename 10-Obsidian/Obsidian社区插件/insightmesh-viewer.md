@@ -1,7 +1,7 @@
 ---
 uid: 1786577079144000
 title: 'Obsidian 插件：InsightMesh Viewer'
-tags: ['第三方工具集成', '图表与可视化', '数据分析', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '图表与可视化', '数据分析', '学习与教育', '学术与科研', 'obsidian插件']
 description: '只读浏览InsightMesh来源信息：查看每个生成的维基页面背后的对话、检查点、决策和差异内容。 - 此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

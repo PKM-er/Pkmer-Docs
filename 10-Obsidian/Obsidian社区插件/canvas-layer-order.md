@@ -1,7 +1,7 @@
 ---
 uid: 1786577076598000
 title: 'Obsidian 插件：Canvas Layer Order'
-tags: ['编辑工具', '界面优化', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '界面优化', '效率工具', '白板', 'obsidian插件']
 description: '为画布提供类似PowerPoint的图层控制功能：将卡片置于最前、置于最后、向前/向后移动，并且在聚焦重叠卡片时能保留图层顺序。 - 此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

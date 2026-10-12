@@ -1,7 +1,7 @@
 ---
 uid: 1791709365621000
 title: 'Obsidian 插件：BetterNoteBooks'
-tags: ['编辑工具', '白板学术与科研', '移动端优化', 'obsidian插件']
+tags: ['编辑工具', '学术与科研', '移动端优化', 'obsidian插件']
 description: 'Create multi-page digital notebooks in your vault with smooth handwriting, geometric shapes, and palm rejection. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

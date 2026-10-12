@@ -1,7 +1,7 @@
 ---
 uid: 2024081307132978
 title: Obsidian 插件：Tags Routes
-tags: ['标签管理', 'obsidian插件']
+tags: ['文件管理', 'obsidian插件']
 description: 展示标签的路由。
 author: AI
 type: auto

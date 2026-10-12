@@ -5,7 +5,7 @@ tags:
   - 编辑工具
   - 文字处理
   - 效率工具
-  - 白板学术与科研
+  - 白板
   - obsidian插件
 description: 在侧边栏便笺本里记临时笔记，还能随手画画。
 author: AI

@@ -1,7 +1,7 @@
 ---
 uid: 1780392511304000
 title: 'Obsidian 插件：MapTheMind'
-tags: ['图表与可视化', '数据分析', '白板学术与科研', '图谱', '学习与教育', 'obsidian插件']
+tags: ['图表与可视化', '数据分析', '学术与科研', '图谱', '学习与教育', 'obsidian插件']
 description: '这个插件还没有经过Obsidian工作人员的人工审核。这是一个用于小鼠神经科学数据的分层可视化数据库，基于艾伦小鼠脑图谱（CCFv3）构建。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392510975002
 title: 'Obsidian 插件：Built Simple Research'
-tags: ['第三方工具集成', '搜索与排序', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '搜索与排序', '学习与教育', '学术与科研', 'obsidian插件']
 description: '你可以直接在笔记里搜索PubMed、ArXiv和维基百科的内容。'
 author: AI
 type: auto

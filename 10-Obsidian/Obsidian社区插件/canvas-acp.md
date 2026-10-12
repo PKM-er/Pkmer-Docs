@@ -1,7 +1,7 @@
 ---
 uid: 1780392510988000
 title: 'Obsidian 插件：Canvas ACP'
-tags: ['自动化与AI', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['自动化与AI', '白板', '效率工具', 'obsidian插件']
 description: '向ACP代理咨询关于画布笔记的问题，然后把生成的笔记再添加回画布。'
 author: AI
 type: auto

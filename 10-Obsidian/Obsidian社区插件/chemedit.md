@@ -1,7 +1,7 @@
 ---
 uid: 1786577076840002
 title: 'Obsidian 插件：ChemEdit'
-tags: ['编辑工具', '图表与可视化', '第三方工具集成', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '图表与可视化', '第三方工具集成', '学习与教育', '学术与科研', 'obsidian插件']
 description: '绘制、编辑和可视化化学结构与反应。ChemEdit借助集成的Ketcher编辑器，支持SMILES、MOL和ChemDraw（CDXML）文件。——此插件尚未经过Obsidian工作人员的人工审核。'
 author: AI
 type: auto

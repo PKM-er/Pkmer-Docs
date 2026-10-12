@@ -1,7 +1,7 @@
 ---
 uid: 1791709365794000
 title: 'Obsidian 插件：Canvas Comments'
-tags: ['社交与社区', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['社交与社区', '效率工具', '白板', 'obsidian插件']
 description: 'Add anonymous, threaded comments to Canvas elements, Canvas text selections, and selected note text. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

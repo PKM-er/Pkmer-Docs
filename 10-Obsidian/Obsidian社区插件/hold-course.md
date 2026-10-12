@@ -1,7 +1,7 @@
 ---
 uid: 1786577078663002
 title: 'Obsidian 插件：Hold Course'
-tags: ['学习与教育', '任务管理', '日历与时间', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '任务管理', '日历与时间', '效率工具', '学术与科研', 'obsidian插件']
 description: '学术作业和讲座追踪器。让你时刻掌握进度。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577081372000
 title: 'Obsidian 插件：Pencil'
-tags: ['编辑工具', '移动端优化', '多媒体', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '移动端优化', '多媒体', '白板', 'obsidian插件']
 description: '能配合 Apple Pencil 进行无限手写的白板。支持使用铅笔、橡皮擦、选择颜色，在 iPad、桌面端和移动端都能使用。——Obsidian 官方团队尚未对该插件进行人工审核。'
 author: AI
 type: auto

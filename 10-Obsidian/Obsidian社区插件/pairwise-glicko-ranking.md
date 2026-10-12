@@ -1,7 +1,7 @@
 ---
 uid: 1780392511741000
 title: 'Obsidian 插件：Pairwise Glicko Ranking'
-tags: ['搜索与排序', '数据分析', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['搜索与排序', '数据分析', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还未经Obsidian官方人员手动审核。你可以轻松地按照任何主观标准对笔记进行排序——利用Glicko评级系统，通过两两比较的方式，对你仓库里的笔记群组进行排名。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392511981000
 title: 'Obsidian 插件：PDF.notes'
-tags: ['图片与PDF', '编辑工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图片与PDF', '编辑工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核哦。它能让你用流畅的笔触绘图和形状工具来给PDF文件做批注呢。'
 author: AI
 type: auto

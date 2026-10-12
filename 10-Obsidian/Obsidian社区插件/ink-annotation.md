@@ -1,7 +1,7 @@
 ---
 uid: 1786577079089001
 title: 'Obsidian 插件：Ink-Annotation'
-tags: ['编辑工具', '文字处理', '图片与PDF', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '文字处理', '图片与PDF', '学习与教育', '学术与科研', 'obsidian插件']
 description: '能用笔、荧光笔、橡皮擦进行Markdown和PDF手写批注，还能调整颜色、宽度，有撤销、重做、保存和退出工具，另外还有PDF文本选择批注功能（高亮、下划线、删除线和添加注释）。——此插件尚未经过Obsidian官方人员人工审核。'
 author: AI
 type: auto

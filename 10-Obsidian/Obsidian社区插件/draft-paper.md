@@ -1,7 +1,7 @@
 ---
 uid: 1780392511054001
 title: 'Obsidian 插件：Draft Paper'
-tags: ['编辑工具', '文字处理', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '文字处理', '效率工具', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它是个全屏便签板，能直接在Markdown文件上进行随意批注。'
 author: AI
 type: auto

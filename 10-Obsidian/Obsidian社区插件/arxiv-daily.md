@@ -1,7 +1,7 @@
 ---
 uid: 1786577076097002
 title: 'Obsidian 插件：arXiv Daily'
-tags: ['自动化与AI', '学习与教育', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '学习与教育', '第三方工具集成', '学术与科研', 'obsidian插件']
 description: '每日arXiv跟踪器，能通过大语言模型（LLM）筛选和总结论文，并将内容存入你的仓库。——此插件尚未经过Obsidian官方人员手动审核。'
 author: AI
 type: auto

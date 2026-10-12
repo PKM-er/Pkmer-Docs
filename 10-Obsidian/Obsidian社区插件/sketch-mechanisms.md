@@ -1,7 +1,7 @@
 ---
 uid: 1786577082591005
 title: 'Obsidian 插件：Sketch Mechanisms'
-tags: ['图表与可视化', '编程与脚本', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '编程与脚本', '学习与教育', '学术与科研', 'obsidian插件']
 description: '通过简单的代码块就能实现二维机械结构（四杆机构、曲柄滑块机构、齿轮、凸轮、摆锤、弹簧）的实时手绘动画效果。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

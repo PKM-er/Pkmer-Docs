@@ -1,7 +1,7 @@
 ---
 uid: 1780392511025001
 title: 'Obsidian 插件：XGKB Sync'
-tags: ['第三方工具集成，效率工具，数据处理', 'obsidian插件']
+tags: ['第三方工具集成', '效率工具', '数据处理', 'obsidian插件']
 description: 'None'
 author: AI
 type: auto

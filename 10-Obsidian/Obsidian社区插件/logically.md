@@ -1,7 +1,7 @@
 ---
 uid: 1780392511246001
 title: 'Obsidian 插件：Logically AI Research Assistant'
-tags: ['自动化与AI', '学习与教育', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '学习与教育', '第三方工具集成', '学术与科研', 'obsidian插件']
 description: '这个插件还未经Obsidian官方人员手动审核。你可以使用Logically的人工智能研究助手，对仓库里的文件开展有引用依据的研究。'
 author: AI
 type: auto

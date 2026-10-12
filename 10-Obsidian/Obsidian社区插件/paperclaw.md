@@ -1,7 +1,7 @@
 ---
 uid: 1780392511916000
 title: 'Obsidian 插件：PaperClaw'
-tags: ['第三方工具集成', '文字处理', '发布工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '文字处理', '发布工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '你可以在p2pclaw.com上把任何笔记转化成经过同行评审的研究论文。'
 author: AI
 type: auto

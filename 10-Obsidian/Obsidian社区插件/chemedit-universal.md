@@ -1,7 +1,7 @@
 ---
 uid: 1786577076840003
 title: 'Obsidian 插件：ChemEdit Universal'
-tags: ['编辑工具', '图表与可视化', '移动端优化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '图表与可视化', '移动端优化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '在移动设备和桌面端离线绘制并编辑化学结构（SMILES、MOL格式）——这个插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

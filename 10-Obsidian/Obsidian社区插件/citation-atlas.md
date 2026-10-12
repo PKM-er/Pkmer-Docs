@@ -1,7 +1,7 @@
 ---
 uid: 1791709366018000
 title: 'Obsidian 插件：Citation Atlas'
-tags: ['zotero', '图表与可视化', '图谱', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+tags: ['zotero', '图表与可视化', '图谱', '第三方工具集成', '白板', 'obsidian插件']
 description: 'Citation-map canvas export for Zotero: pick items, collections or authors and get a drag-and-drop .canvas literature map — papers as nodes, citations as edges, collections as containers, colored by unread / read / annotated. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

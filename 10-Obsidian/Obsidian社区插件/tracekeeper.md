@@ -1,7 +1,7 @@
 ---
 uid: 1780392512153001
 title: 'Obsidian 插件：Tracekeeper'
-tags: ['自动化与AI', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '在AI建议的维基和记忆更新内容进入你的仓库之前，先对其进行审核。'
 author: AI
 type: auto

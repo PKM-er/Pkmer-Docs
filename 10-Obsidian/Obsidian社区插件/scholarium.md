@@ -1,7 +1,7 @@
 ---
 uid: 1786577082402008
 title: 'Obsidian 插件：Scholarium'
-tags: ['学习与教育', '自动化与AI', '文字处理', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '自动化与AI', '文字处理', '效率工具', '学术与科研', 'obsidian插件']
 description: '一个集人工智能辅助写作、文献管理、笔记记录和高效工具于一体的学术工作空间。——此插件尚未经过Obsidian工作人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392511987001
 title: 'Obsidian 插件：Perplexed'
-tags: ['第三方工具集成', '自动化与AI', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '自动化与AI', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 description: '你可以直接在笔记里生成来自Perplexity、Anthropic Claude、Perplexica或本地LM Studio并带有引用来源的研究内容。'
 author: AI
 type: auto

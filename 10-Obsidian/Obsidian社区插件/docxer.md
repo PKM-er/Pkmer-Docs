@@ -1,7 +1,7 @@
 ---
 uid: 20240315195440
 title: docxer：预览 docx 文件并可将其转换为 Markdown 笔记
-tags: [obsidian插件, 文本处理]
+tags: ['obsidian插件', '文字处理']
 description: 在 Obsidian 中预览 Word 的 docx 文件，并且可以将其转换为 Markdown 笔记
 author: calmwaves
 type: basic

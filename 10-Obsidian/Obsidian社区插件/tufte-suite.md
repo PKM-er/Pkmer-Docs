@@ -1,7 +1,7 @@
 ---
 uid: 1786577083451000
 title: 'Obsidian 插件：Tufte Suite'
-tags: ['文字处理', '编辑工具', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['文字处理', '编辑工具', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这四个图夫特（Tufte）插件——旁注（Sidenotes）、图表（Figures）、内联（Inline）和反向链接（Backlinks）——被打包成一个插件，每个模块都能单独开关。启用这个插件时，请停用各个独立的插件。——Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

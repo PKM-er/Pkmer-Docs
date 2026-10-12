@@ -1,7 +1,7 @@
 ---
 uid: 1780392511690000
 title: 'Obsidian 插件：Overboard'
-tags: ['第三方工具集成', '图表与可视化', '自动化与AI', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '图表与可视化', '自动化与AI', '白板', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核哦。你可以在笔记里嵌入来自overboard.studio的AI白板。能在上面画画，还能用AI根据文字生成图表，还能实时协作呢。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392511201002
 title: 'Obsidian 插件：KatmerCode'
-tags: ['编程与脚本', '第三方工具集成', '自动化与AI', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编程与脚本', '第三方工具集成', '自动化与AI', '学习与教育', '学术与科研', 'obsidian插件']
 description: '可以运行Claude Code，它支持内联差异编辑、具备学术研究能力，还支持MCP。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577083126005
 title: 'Obsidian 插件：TeXcore'
-tags: ['编辑工具', '图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '为Obsidian.md实现自动公式编号、Tex图表渲染等功能。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

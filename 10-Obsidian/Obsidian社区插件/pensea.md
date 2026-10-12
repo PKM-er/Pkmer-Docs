@@ -1,7 +1,7 @@
 ---
 uid: 1780392511985001
 title: 'Obsidian 插件：Pensea'
-tags: ['学习与教育', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 description: '它是基于PARA的知识管理工具，具备想法流、间隔重复学习功能，还有大语言模型驱动的维基百科功能呢。'
 author: AI
 type: auto

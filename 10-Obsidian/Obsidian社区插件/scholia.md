@@ -1,7 +1,7 @@
 ---
 uid: 1780392512012001
 title: 'Obsidian 插件：Scholia'
-tags: ['图片与PDF', '学习与教育', '白板学术与科研', '第三方工具集成', 'obsidian插件']
+tags: ['图片与PDF', '学习与教育', '学术与科研', '第三方工具集成', 'obsidian插件']
 description: '它可以导入学术PDF文件，并预先计算出具备上下文感知能力的悬停词汇解释。'
 author: AI
 type: auto

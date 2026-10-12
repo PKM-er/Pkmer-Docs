@@ -1,7 +1,7 @@
 ---
 uid: 1791709369685000
 title: 'Obsidian 插件：Research Atlas'
-tags: ['白板学术与科研', '思维导图', '效率工具', 'obsidian插件']
+tags: ['学术与科研', '思维导图', '效率工具', 'obsidian插件']
 description: 'Develop research questions, record bottlenecks, and revisit ideas when new methods or evidence change what is possible. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

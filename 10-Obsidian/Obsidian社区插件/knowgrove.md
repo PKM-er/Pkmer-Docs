@@ -1,7 +1,7 @@
 ---
 uid: 1786577079384001
 title: 'Obsidian 插件：KnowGrove'
-tags: ['学习与教育', '图谱', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '图谱', '学术与科研', '效率工具', 'obsidian插件']
 description: '把零散的笔记发展成相互关联的主题、证据、研究内容和可复用的知识。——此插件尚未经过Obsidian工作人员的人工审核。'
 author: AI
 type: auto

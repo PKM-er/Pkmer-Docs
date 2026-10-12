@@ -1,7 +1,7 @@
 ---
 uid: 20240227165413
 title: Obsidian 插件：自动更新相对路径
-tags: [Obsidian, 插件，官方增强]
+tags: ['Obsidian']
 description: 本插件主要弥补Obsidian官方设置“始终更新内部链接”的不足,可以自动更新相对路径
 author: ImmortalSty
 type: other

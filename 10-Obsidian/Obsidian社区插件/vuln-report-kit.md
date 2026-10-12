@@ -1,7 +1,7 @@
 ---
 uid: 1786577083695000
 title: 'Obsidian 插件：Vuln Report Kit'
-tags: ['模板与链接处理', '数据处理', '安全与隐私', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['模板与链接处理', '数据处理', '安全与隐私', '效率工具', '学术与科研', 'obsidian插件']
 description: '这是一款适用于Obsidian的本地优先工具包，可用于处理漏洞案例、报告、模板、机密审核、清理、仪表盘展示以及数据导出等操作。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

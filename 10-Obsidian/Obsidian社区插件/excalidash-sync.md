@@ -1,7 +1,7 @@
 ---
 uid: 1780392511086000
 title: 'Obsidian 插件：ExcaliDash sync'
-tags: ['第三方工具集成', '图表与可视化', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['第三方工具集成', '图表与可视化', '白板', '效率工具', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。可以把仓库前置元数据里的Excalidraw绘图同步到ExcaliDash中。'
 author: AI
 type: auto

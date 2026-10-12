@@ -1,7 +1,7 @@
 ---
 uid: 2026022517443214
 title: 'Obsidian 插件：Canvas LLM'
-tags: ['界面优化', '第三方工具集成', '自动化与AI', '白板学术与科研', 'obsidian插件']
+tags: ['界面优化', '第三方工具集成', '自动化与AI', '白板', 'obsidian插件']
 description: '一个类似画布的用户界面，能用来和大语言模型聊天。'
 author: AI
 type: auto

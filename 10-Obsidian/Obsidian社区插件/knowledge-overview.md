@@ -1,7 +1,7 @@
 ---
 uid: 1780392511206002
 title: 'Obsidian 插件：Knowledge Overview'
-tags: ['学习与教育', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 description: '可以用人工智能生成结构化的主题概述。'
 author: AI
 type: auto

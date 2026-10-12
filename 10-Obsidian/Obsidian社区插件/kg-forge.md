@@ -1,7 +1,7 @@
 ---
 uid: 1786577079389003
 title: 'Obsidian 插件：Knowledge Forge'
-tags: ['图谱', '数据分析', '自动化与AI', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图谱', '数据分析', '自动化与AI', '学习与教育', '学术与科研', 'obsidian插件']
 description: '用三元组、来源信息、GraphRAG提示和能力问题，从你的仓库构建一个类型化知识图谱。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

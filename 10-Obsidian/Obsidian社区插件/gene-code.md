@@ -1,7 +1,7 @@
 ---
 uid: 1786577077985003
 title: 'Obsidian 插件：Gene Code'
-tags: ['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '在Obsidian笔记中绘制生命科学领域的DNA变异棒棒糖图和谱系图。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

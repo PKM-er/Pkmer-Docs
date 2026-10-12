@@ -1,7 +1,7 @@
 ---
 uid: 2025033122563288
 title: Obsidian 插件：Hanko
-tags: ['文本处理', '编辑工具', '复制粘贴', 'obsidian插件']
+tags: ['文字处理', '编辑工具', '复制粘贴', 'obsidian插件']
 description: 注册并粘贴任何文本。
 author: AI
 type: auto

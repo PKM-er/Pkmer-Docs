@@ -1,7 +1,7 @@
 ---
 uid: 2026060213561236
 title: 'Obsidian 插件：AI RAG + LLM Wiki'
-tags: ['自动化与AI', '数据分析', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '数据分析', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还没有经过Obsidian工作人员的人工审核。这是一个具备高级检索增强生成（RAG）功能的人工智能助手，还有一个由大语言模型（LLM）持续维护的维基知识库，用于信息摄入、实体/概念页面创建、信息整合、索引编制、日志记录和审计。'
 author: AI
 type: auto

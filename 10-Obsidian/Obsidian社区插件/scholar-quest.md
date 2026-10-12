@@ -1,7 +1,7 @@
 ---
 uid: 1780392512011001
 title: 'Obsidian 插件：Scholar Quest'
-tags: ['学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 description: '这个插件还未经Obsidian官方人员手动审核。用经验值（XP）和等级让你的学术工作流程变得更有趣吧！'
 author: AI
 type: auto

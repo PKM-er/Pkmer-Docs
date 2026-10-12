@@ -1,7 +1,7 @@
 ---
 uid: 1786577081250002
 title: 'Obsidian 插件：Parallax'
-tags: ['学习与教育', '白板学术与科研', '第三方工具集成', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '学术与科研', '第三方工具集成', '效率工具', 'obsidian插件']
 description: '研究思路成型之地：先探索再搜索，通过多种理论视角深入研究问题，权衡OpenAlex和语义学者（Semantic Scholar）的证据，同时做好方法记录。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

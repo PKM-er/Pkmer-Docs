@@ -1,7 +1,7 @@
 ---
 uid: 1786577079421000
 title: 'Obsidian 插件：Kotonoha Console'
-tags: ['自动化与AI', '第三方工具集成', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '第三方工具集成', '效率工具', '学术与科研', 'obsidian插件']
 description: '在Obsidian中对Kotonoha语义谱系进行提案、RDE审计以及人工审批。——Obsidian工作人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

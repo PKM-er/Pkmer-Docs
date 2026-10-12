@@ -1,7 +1,7 @@
 ---
 uid: 1786577082512005
 title: 'Obsidian 插件：Siden'
-tags: ['编辑工具', '文字处理', '图片与PDF', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '文字处理', '图片与PDF', '学习与教育', '学术与科研', 'obsidian插件']
 description: '用高亮标记、旁注和复习侧边栏为 Markdown 文件和 PDF 文本做注释。——此插件尚未经过 Obsidian 官方人员的人工审核。'
 author: AI
 type: auto

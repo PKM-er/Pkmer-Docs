@@ -1,7 +1,7 @@
 ---
 uid: 1786577079373000
 title: 'Obsidian 插件：Kings CalcLaTeX'
-tags: ['图表与可视化', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 description: '为Obsidian提供浏览器原生的工程数学计算和高保真绘图功能。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392511214000
 title: 'Obsidian 插件：Latex Equation References'
-tags: ['编辑工具', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 description: '它能使用标签自动给公式编号。'
 author: AI
 type: auto

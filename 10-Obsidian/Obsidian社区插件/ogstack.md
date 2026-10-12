@@ -1,7 +1,7 @@
 ---
 uid: 1780392511412000
 title: 'Obsidian 插件：ogstack'
-tags: ['自动化与AI', '文字处理', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '文字处理', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '你可以在Obsidian里直接使用人工智能技能，比如头脑风暴想点子、制定计划、做研究，还能结合你关联的笔记内容进行写作。'
 author: AI
 type: auto

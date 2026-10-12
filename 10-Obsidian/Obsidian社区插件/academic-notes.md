@@ -1,7 +1,7 @@
 ---
 uid: 1791709365163000
 title: 'Obsidian 插件：Academic Notes'
-tags: ['白板学术与科研', '图片与PDF', '模板与链接处理', '效率工具', 'obsidian插件']
+tags: ['学术与科研', '图片与PDF', '模板与链接处理', '效率工具', 'obsidian插件']
 description: '跨笔记自动编号并引用定理、公式、图表和表格，支持跨文件链接、目录生成以及多笔记合并导出为 PDF。 - 该插件尚未由 Obsidian 官方团队进行人工审核。'
 author: AI
 type: auto

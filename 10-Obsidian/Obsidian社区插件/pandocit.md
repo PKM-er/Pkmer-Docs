@@ -1,7 +1,7 @@
 ---
 uid: 1780392511784000
 title: 'Obsidian 插件：PandoCit'
-tags: ['第三方工具集成', 'zotero', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', 'zotero', '学习与教育', '学术与科研', 'obsidian插件']
 description: '它支持Pandoc引用、Zotero文献库（API），还能在Obsidian中阅读PDF/EPUB文件并做批注。'
 author: AI
 type: auto

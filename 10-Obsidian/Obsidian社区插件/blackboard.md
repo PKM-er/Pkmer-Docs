@@ -1,7 +1,7 @@
 ---
 uid: 1786577076394002
 title: 'Obsidian 插件：Blackboard'
-tags: ['编辑工具', '图表与可视化', '白板学术与科研', '多媒体', 'obsidian插件']
+tags: ['编辑工具', '图表与可视化', '学术与科研', '多媒体', 'obsidian插件']
 description: '可以直接在画布节点和 Markdown 嵌入内容里用原生手写笔和 Apple Pencil 绘图。——Obsidian 官方人员尚未对这个插件进行人工审核哦。'
 author: AI
 type: auto

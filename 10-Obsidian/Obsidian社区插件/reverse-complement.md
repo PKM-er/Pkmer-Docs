@@ -1,7 +1,7 @@
 ---
 uid: 2026060213561493
 title: 'Obsidian 插件：Reverse Complement'
-tags: ['编辑工具', '数据处理', '自定义命令', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '数据处理', '自定义命令', '学习与教育', '学术与科研', 'obsidian插件']
 description: '你可以通过右键菜单将选中的DNA序列转换为其反向互补序列。'
 author: AI
 type: auto

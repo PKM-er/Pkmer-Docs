@@ -1,7 +1,7 @@
 ---
 uid: 2026042019115819
 title: 'Obsidian 插件：Role Switch'
-tags: ['效率工具', '自动化与AI', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['效率工具', '自动化与AI', '学习与教育', '学术与科研', 'obsidian插件']
 description: '通过有计划的过渡和会话跟踪，在不同的工作角色（开发者、作家、研究员等）之间进行切换。'
 author: AI
 type: auto

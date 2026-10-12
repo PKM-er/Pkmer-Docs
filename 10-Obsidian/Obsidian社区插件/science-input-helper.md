@@ -1,7 +1,7 @@
 ---
 uid: 1786577082402009
 title: 'Obsidian 插件：Science Input Helper'
-tags: ['编辑工具', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 description: '中文理科笔记输入辅助工具：支持输入化学公式、反应箭头、单位、希腊字母、罗马数字以及简易数学结构。 - 此插件尚未经过Obsidian官方人员人工审核。'
 author: AI
 type: auto

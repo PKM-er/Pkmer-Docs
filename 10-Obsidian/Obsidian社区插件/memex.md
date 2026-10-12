@@ -1,7 +1,7 @@
 ---
 uid: 1786577080130000
 title: 'Obsidian 插件：Memex'
-tags: ['搜索与排序', '学习与教育', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['搜索与排序', '学习与教育', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 description: '在你的书签式第二大脑里搜索、引用并交流。——这款插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

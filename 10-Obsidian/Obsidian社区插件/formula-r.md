@@ -1,7 +1,7 @@
 ---
 uid: 1780392511115000
 title: 'Obsidian 插件：FormulaR'
-tags: ['自动化与AI', '学习与教育', '编辑工具', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '学习与教育', '编辑工具', '学术与科研', 'obsidian插件']
 description: '自动验证和完成LaTeX数学推导：检测{align}块中的错误并给出下一步建议。'
 author: AI
 type: auto

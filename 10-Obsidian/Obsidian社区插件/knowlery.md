@@ -1,7 +1,7 @@
 ---
 uid: 1780392511207000
 title: 'Obsidian 插件：Knowlery'
-tags: ['学习与教育', '效率工具', '白板学术与科研', '图谱', 'obsidian插件']
+tags: ['学习与教育', '效率工具', '学术与科研', '图谱', 'obsidian插件']
 description: '这是一个温馨的、供Obsidian仓库使用的个人知识回顾空间。'
 author: AI
 type: auto

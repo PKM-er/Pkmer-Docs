@@ -1,7 +1,7 @@
 ---
 uid: 1786577077607004
 title: 'Obsidian 插件：Excalidraw PureRef'
-tags: ['第三方工具集成', '图表与可视化', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '图表与可视化', '效率工具', '白板', 'obsidian插件']
 description: '把 Excalidraw 绘图板变成一个置顶参考弹窗——这个插件还未经过 Obsidian 官方人员的人工审核。'
 author: AI
 type: auto

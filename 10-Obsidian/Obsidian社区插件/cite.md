@@ -1,7 +1,7 @@
 ---
 uid: 1786577076867009
 title: 'Obsidian 插件：Cite'
-tags: ['文字处理', '学习与教育', '第三方工具集成', 'zotero', '白板学术与科研', 'obsidian插件']
+tags: ['文字处理', '学习与教育', '第三方工具集成', 'zotero', '学术与科研', 'obsidian插件']
 description: '在笔记里渲染并关联来自BibTeX块的LaTeX或Pandoc引用。——Obsidian官方人员尚未对这个插件进行人工审核。'
 author: AI
 type: auto

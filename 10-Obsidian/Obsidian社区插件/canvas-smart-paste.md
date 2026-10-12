@@ -1,7 +1,7 @@
 ---
 uid: 1786577076758001
 title: 'Obsidian 插件：Canvas Smart Paste'
-tags: ['编辑工具', '效率工具', '自动化与AI', '思维导图', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '效率工具', '自动化与AI', '思维导图', '白板', 'obsidian插件']
 description: '能智能地把剪贴板内容以节点形式粘贴到画布中，可自动识别为单节点、标题树、列表树或段落。 - 此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

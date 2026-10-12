@@ -1,7 +1,7 @@
 ---
 uid: 1786577079073003
 title: 'Obsidian 插件：Index Cards'
-tags: ['学习与教育', '白板学术与科研', '效率工具', '文字处理', 'obsidian插件']
+tags: ['学习与教育', '学术与科研', '效率工具', '文字处理', 'obsidian插件']
 description: '一款基于卡片的笔记系统，适用于研究和学习。你可以把想法和阅读笔记记录在虚拟索引卡片上，并按照项目和类别进行整理。——这款插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

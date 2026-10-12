@@ -1,7 +1,7 @@
 ---
 uid: 1786577081047002
 title: 'Obsidian 插件：O-Tie'
-tags: ['图表与可视化', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '编辑工具', '效率工具', '学术与科研', 'obsidian插件']
 description: '在可视化编辑器里构建并编辑风险蝴蝶结图，支持设置屏障、升级因素、分析堆栈，还能导出为 PNG 图片。——此插件尚未经过 Obsidian 官方人员人工审核。'
 author: AI
 type: auto

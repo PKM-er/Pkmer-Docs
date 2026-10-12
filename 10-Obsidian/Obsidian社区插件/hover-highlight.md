@@ -1,7 +1,7 @@
 ---
 uid: 1786577078789000
 title: 'Obsidian 插件：Hover Highlight'
-tags: ['样式与美化', '界面优化', '白板学术与科研', 'obsidian插件']
+tags: ['样式与美化', '界面优化', '学术与科研', 'obsidian插件']
 description: '给画布添加柔和的光标发光效果，营造出一个会跟随鼠标移动的微弱环形光线。 - 此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

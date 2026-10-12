@@ -1,7 +1,7 @@
 ---
 uid: 1780392511062000
 title: 'Obsidian 插件：DyResearch AI Sidecar'
-tags: ['第三方工具集成', '自动化与AI', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '自动化与AI', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还没有经过Obsidian工作人员的人工审核。它是连接到用谷歌ADK构建的DyResearch Agent系统的桥梁。'
 author: AI
 type: auto

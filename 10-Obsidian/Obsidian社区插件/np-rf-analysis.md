@@ -1,7 +1,7 @@
 ---
 uid: 1786577081030002
 title: 'Obsidian 插件：nPort RF Analysis'
-tags: ['数据分析', '图表与可视化', '数据处理', '白板学术与科研', 'obsidian插件']
+tags: ['数据分析', '图表与可视化', '数据处理', '学术与科研', 'obsidian插件']
 description: '能从Markdown里分析射频和微波网络，还能生成SVG图表、表格以及史密斯圆图。——Obsidian官方人员还没对这款插件进行人工审核呢。'
 author: AI
 type: auto

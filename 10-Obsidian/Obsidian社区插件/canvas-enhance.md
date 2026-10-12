@@ -1,7 +1,7 @@
 ---
 uid: 1786577076535000
 title: 'Obsidian 插件：Canvas Enhance'
-tags: ['图表与可视化', '思维导图', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['图表与可视化', '思维导图', '白板', '效率工具', 'obsidian插件']
 description: '让你的画布体验大幅升级！创建演示文稿、流程图等等！——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

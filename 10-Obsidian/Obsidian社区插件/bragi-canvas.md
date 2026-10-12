@@ -1,7 +1,7 @@
 ---
 uid: 1780392510971002
 title: 'Obsidian 插件：Bragi Canvas'
-tags: ['自动化与AI', '多媒体', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '多媒体', '第三方工具集成', '白板', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。可以把画布变成一个基于节点的AI生成流水线，用来生成图片、视频、文字和音频。'
 author: AI
 type: auto

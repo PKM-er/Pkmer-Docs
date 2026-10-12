@@ -1,7 +1,7 @@
 ---
 uid: 1780392511245001
 title: 'Obsidian 插件：Lock Cards'
-tags: ['编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '效率工具', '学术与科研', 'obsidian插件']
 description: '锁定选中的画布卡片，防止其移动和调整大小。'
 author: AI
 type: auto

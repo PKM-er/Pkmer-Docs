@@ -1,7 +1,7 @@
 ---
 uid: 2024100113290385
 title: Obsidian 插件：Vault to blog
-tags: ['文件管理', '发布工具', '协作工具', 'obsidian插件']
+tags: ['文件管理', '发布工具', '社交与社区', 'obsidian插件']
 description: 将保险库发布到 GitHub Pages 博客。
 author: AI
 type: auto

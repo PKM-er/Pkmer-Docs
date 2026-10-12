@@ -1,7 +1,7 @@
 ---
 uid: 1780392510942000
 title: 'Obsidian 插件：Ballistics'
-tags: ['数据处理', '图表与可视化', '数据分析', '白板学术与科研', 'obsidian插件']
+tags: ['数据处理', '图表与可视化', '数据分析', '学术与科研', 'obsidian插件']
 description: '可以在Obsidian笔记中嵌入弹道数据。'
 author: AI
 type: auto

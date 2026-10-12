@@ -1,7 +1,7 @@
 ---
 uid: 2024052908540527
 title: Obsidian 插件：Plugin Update Tracker
-tags: ['插件管理', 'obsidian插件']
+tags: ['效率工具', 'obsidian插件']
 description: 了解安装的插件有更新时，并评估升级的风险。
 author: AI
 type: auto

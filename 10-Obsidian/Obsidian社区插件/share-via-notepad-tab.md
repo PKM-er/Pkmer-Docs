@@ -1,7 +1,7 @@
 ---
 uid: 2024100113284371
 title: Obsidian 插件：Share via Notepad Tab
-tags: ['协作工具', '笔记管理', '文字处理', 'obsidian插件']
+tags: ['社交与社区', '笔记管理', '文字处理', 'obsidian插件']
 description: 通过Notepad Tab（https://notepadtab.com）分享笔记。
 author: AI
 type: auto

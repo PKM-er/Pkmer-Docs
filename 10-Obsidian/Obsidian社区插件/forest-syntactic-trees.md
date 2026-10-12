@@ -1,7 +1,7 @@
 ---
 uid: 1786577082976000
 title: 'Obsidian 插件：Syntactic Trees in Forest'
-tags: ['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '能在文中渲染用于语言学的 LaTeX 森林风格句法树。——此插件尚未经过 Obsidian 官方人员的人工审核。'
 author: AI
 type: auto

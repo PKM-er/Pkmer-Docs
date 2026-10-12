@@ -1,7 +1,7 @@
 ---
 uid: 2025060517181822
 title: 'Obsidian 插件：Wakatime / Wakapi'
-tags: ['时间追踪', '效率工具', '第三方工具集成', 'obsidian插件']
+tags: ['日历与时间', '效率工具', '第三方工具集成', 'obsidian插件']
 description: '连接到Wakatime或Wakapi，就能追踪浏览或记笔记所花费的时间啦。'
 author: AI
 type: auto

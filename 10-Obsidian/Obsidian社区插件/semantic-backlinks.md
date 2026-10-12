@@ -1,7 +1,7 @@
 ---
 uid: 1786577082449006
 title: 'Obsidian 插件：Semantic Backlinks'
-tags: ['自动化与AI', '搜索与排序', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '搜索与排序', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '基于本地Ollama嵌入（bge - m3）技术实现语义笔记推荐和相关笔记面板功能。——此插件尚未经过Obsidian官方人员人工审核。'
 author: AI
 type: auto

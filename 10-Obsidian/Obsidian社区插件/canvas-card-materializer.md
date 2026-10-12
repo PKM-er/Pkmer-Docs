@@ -1,7 +1,7 @@
 ---
 uid: 1780392510989000
 title: 'Obsidian 插件：Canvas Card-Materializer'
-tags: ['文件管理', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['文件管理', '自动化与AI', '效率工具', '白板', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核哦。它能把画布卡片转化成整理好的Markdown文件，还能自动按文件夹分类，同时保留卡片之间的关联和颜色呢。'
 author: AI
 type: auto

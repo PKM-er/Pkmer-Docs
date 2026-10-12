@@ -1,7 +1,7 @@
 ---
 uid: 1786577083778002
 title: 'Obsidian 插件：Wiki Copilot'
-tags: ['自动化与AI', '搜索与排序', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '搜索与排序', '学习与教育', '学术与科研', 'obsidian插件']
 description: '通过本地词汇检索、维基链接扩展和可追溯引用，向你的持久大语言模型维基百科提问。——此插件尚未经过Obsidian工作人员的人工审核。'
 author: AI
 type: auto

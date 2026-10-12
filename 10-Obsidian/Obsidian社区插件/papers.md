@@ -1,7 +1,7 @@
 ---
 uid: 2025091900252027
 title: 'Obsidian 插件：Papers'
-tags: ['学习与教育', '第三方工具集成', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '第三方工具集成', '学术与科研', '效率工具', 'obsidian插件']
 description: '检索并导入研究论文。'
 author: AI
 type: auto

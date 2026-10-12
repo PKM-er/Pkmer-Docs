@@ -1,7 +1,7 @@
 ---
 uid: 1786577077354000
 title: 'Obsidian 插件：Decision Wheel'
-tags: ['图表与可视化', '效率工具', '决策辅助（注：原预定义标签中无完全精准匹配的，“决策辅助”为补充说明插件核心功能，若只能从给定标签选，最合适的是前两个）', 'obsidian插件']
+tags: ['图表与可视化', '效率工具', 'obsidian插件']
 description: '一个能帮你做决策的转盘。——Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

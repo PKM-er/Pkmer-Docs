@@ -1,7 +1,7 @@
 ---
 uid: 2026060213561384
 title: 'Obsidian 插件：Detailed Canvas'
-tags: ['第三方工具集成', '自动化与AI', '图表与可视化', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '自动化与AI', '图表与可视化', '白板', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。可以用Ollama为画布链接卡片添加AI生成的描述和封面图。'
 author: AI
 type: auto

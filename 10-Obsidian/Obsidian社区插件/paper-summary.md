@@ -1,7 +1,7 @@
 ---
 uid: 1780392511895000
 title: 'Obsidian 插件：Paper Summary'
-tags: ['图片与PDF', '学习与教育', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['图片与PDF', '学习与教育', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 description: '这个插件还未经过Obsidian官方人员的人工审核。它能从PDF文件中生成结构化的论文总结笔记。'
 author: AI
 type: auto

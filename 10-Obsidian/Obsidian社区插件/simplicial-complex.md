@@ -1,7 +1,7 @@
 ---
 uid: 1786577082575001
 title: 'Obsidian 插件：Simplicial Complex'
-tags: ['图表与可视化', '数据分析', '图谱', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '数据分析', '图谱', '学术与科研', 'obsidian插件']
 description: '通过单纯复形视图在仓库中进行知识探索，能实现高阶关系分析、拓扑分析以及涌现结构检测。  - 此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

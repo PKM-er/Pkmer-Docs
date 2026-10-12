@@ -1,7 +1,7 @@
 ---
 uid: 1786577077780004
 title: 'Obsidian 插件：Focus First'
-tags: ['任务管理', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['任务管理', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '用艾森豪威尔矩阵来给你的任务排优先级。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

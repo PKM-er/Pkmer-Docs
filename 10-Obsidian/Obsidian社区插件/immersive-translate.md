@@ -1,7 +1,7 @@
 ---
 uid: 2024111121465081
 title: Obsidian 插件：Immersive Translate
-tags: ['翻译工具', '文本处理', '多语言', 'obsidian插件']
+tags: ['翻译工具', '文字处理', '多语言', 'obsidian插件']
 description: 一个免费使用的外语Markdown文件翻译服务。
 author: AI
 type: auto

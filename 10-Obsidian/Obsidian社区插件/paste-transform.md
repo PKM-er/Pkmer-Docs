@@ -1,7 +1,7 @@
 ---
 uid: 2024052909054913
 title: Obsidian 插件：Paste transform
-tags: ['文本处理', '第三方工具集成', '编辑工具', 'obsidian插件']
+tags: ['文字处理', '第三方工具集成', '编辑工具', 'obsidian插件']
 description: 通过正则表达式规则修改剪贴板中的文本
 author: AI
 type: auto

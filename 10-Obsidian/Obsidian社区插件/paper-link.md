@@ -1,7 +1,7 @@
 ---
 uid: 1786577081234000
 title: 'Obsidian 插件：Paper Link'
-tags: ['模板与链接处理', '编辑工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['模板与链接处理', '编辑工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '把粘贴过来的论文链接（像arXiv、OpenReview、ACL Anthology等）替换成[标题（会议年份）](链接)这种链接形式。 - 这个插件还没经过Obsidian官方人员的人工审核呢。'
 author: AI
 type: auto

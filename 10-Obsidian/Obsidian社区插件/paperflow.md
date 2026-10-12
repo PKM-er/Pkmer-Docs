@@ -1,7 +1,7 @@
 ---
 uid: 1780392511949000
 title: 'Obsidian 插件：PaperFlow'
-tags: ['学习与教育', '第三方工具集成', '图片与PDF', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '第三方工具集成', '图片与PDF', '学术与科研', '效率工具', 'obsidian插件']
 description: '它可以导入、阅读和批注arXiv上的论文。'
 author: AI
 type: auto

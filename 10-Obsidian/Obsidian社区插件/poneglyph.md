@@ -1,7 +1,7 @@
 ---
 uid: 2026060213561408
 title: 'Obsidian 插件：Poneglyph'
-tags: ['自动化与AI', '图谱', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '图谱', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这是一款由人工智能驱动的研究工具，能把你的笔记变成一个动态的知识图谱。'
 author: AI
 type: auto

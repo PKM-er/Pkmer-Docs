@@ -1,7 +1,7 @@
 ---
 uid: 1780392511201001
 title: 'Obsidian 插件：Karpathy LLM Wiki'
-tags: ['自动化与AI', '学习与教育', '白板学术与科研', '图谱', 'obsidian插件']
+tags: ['自动化与AI', '学习与教育', '学术与科研', '图谱', 'obsidian插件']
 description: '这是Karpathy的大语言模型（LLM）维基实现——通过实体/概念页面和对话式查询进行多页面知识生成。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577079815003
 title: 'Obsidian 插件：Maguilanote'
-tags: ['图表与可视化', '任务管理', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['图表与可视化', '任务管理', '学术与科研', '效率工具', 'obsidian插件']
 description: '在Obsidian里打造类似Milanote的可视化工作区看板：无限画布、笔记、图片、链接、列、待办事项列表、箭头等等。——此插件尚未经过Obsidian官方人员人工审核。'
 author: AI
 type: auto

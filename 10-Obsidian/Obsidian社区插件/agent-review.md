@@ -1,7 +1,7 @@
 ---
 uid: 1786577075907005
 title: 'Obsidian 插件：Agent Review'
-tags: ['编辑工具', '图表与可视化', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '图表与可视化', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 description: '结构化高亮、注释、空间笔记、可视化关联，以及人类与智能体协作。——Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

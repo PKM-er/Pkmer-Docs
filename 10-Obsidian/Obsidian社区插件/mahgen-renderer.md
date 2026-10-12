@@ -1,7 +1,7 @@
 ---
 uid: 2025033122572087
 title: Obsidian 插件：Mahgen Renderer
-tags: ['图片与PDF', '多媒体', '插件管理', 'obsidian插件']
+tags: ['图片与PDF', '多媒体', '效率工具', 'obsidian插件']
 description: 使用 Mahgen 以行内或块状方式显示麻将图像。
 author: AI
 type: auto

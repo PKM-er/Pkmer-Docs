@@ -1,7 +1,7 @@
 ---
 uid: 1786577083884000
 title: 'Obsidian 插件：Yet Another All-In-One'
-tags: ['第三方工具集成，备份与恢复，效率工具，自定义命令', 'obsidian插件']
+tags: ['第三方工具集成', '备份与恢复', '效率工具', '自定义命令', 'obsidian插件']
 description: '一款集 Git 同步等多种功能于一体的插件——毕竟一个插件哪能满足需求呢。——此插件尚未经过 Obsidian 官方人员的人工审核。'
 author: AI
 type: auto

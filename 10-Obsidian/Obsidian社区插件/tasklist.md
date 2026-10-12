@@ -1,7 +1,7 @@
 ---
 uid: 1786577081645000
 title: 'Obsidian 插件：Projex'
-tags: ['任务管理，编辑工具，效率工具，数据处理', 'obsidian插件']
+tags: ['任务管理', '编辑工具', '效率工具', '数据处理', 'obsidian插件']
 description: ''
 author: AI
 type: auto

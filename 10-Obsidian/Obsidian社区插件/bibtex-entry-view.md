@@ -1,7 +1,7 @@
 ---
 uid: 2025081220015003
 title: 'Obsidian 插件：Bibtex Entry View'
-tags: ['第三方工具集成', '学习与教育', '白板学术与科研', '数据处理', '效率工具', 'obsidian插件']
+tags: ['第三方工具集成', '学习与教育', '学术与科研', '数据处理', '效率工具', 'obsidian插件']
 description: '从指定的 Bib 文件中加载指定 Bib 键对应的 BibTeX 条目，然后在 Bib 键的代码块中显示该条目。'
 author: AI
 type: auto

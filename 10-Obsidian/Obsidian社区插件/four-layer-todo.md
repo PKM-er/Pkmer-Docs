@@ -1,7 +1,7 @@
 ---
 uid: 1786577077922000
 title: 'Obsidian 插件：Four Layer Todo'
-tags: ['任务管理', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['任务管理', '白板', '效率工具', 'obsidian插件']
 description: '以白板为核心，管理缓存工作区、任务记忆和周边长期对象之间的注意力。 - 此插件尚未经过Obsidian工作人员的人工审核。'
 author: AI
 type: auto

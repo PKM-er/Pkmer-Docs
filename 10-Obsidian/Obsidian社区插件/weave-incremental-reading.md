@@ -1,7 +1,7 @@
 ---
 uid: 1786577083710004
 title: 'Obsidian 插件：Weave Incremental Reading'
-tags: ['学习与教育', '任务管理', '日历与时间', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '任务管理', '日历与时间', '效率工具', '学术与科研', 'obsidian插件']
 description: '具备主题、阅读要点、日历日程安排和来源追溯功能的独立渐进式阅读工作流。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577082732002
 title: 'Obsidian 插件：Social Network Analysis'
-tags: ['数据分析', '图表与可视化', '图谱', '白板学术与科研', 'obsidian插件']
+tags: ['数据分析', '图表与可视化', '图谱', '学术与科研', 'obsidian插件']
 description: '能在你的图谱视图里开展全面的社交网络分析，涵盖各种中心性度量、方向性分析，还能自定义图谱布局。——这款插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

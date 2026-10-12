@@ -1,7 +1,7 @@
 ---
 uid: 1791709366819000
 title: 'Obsidian 插件：Excalicap'
-tags: ['图表与可视化', '多媒体', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '多媒体', '第三方工具集成', '学术与科研', 'obsidian插件']
 description: ''
 author: AI
 type: auto

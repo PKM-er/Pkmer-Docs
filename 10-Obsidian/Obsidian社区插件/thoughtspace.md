@@ -1,7 +1,7 @@
 ---
 uid: 1791709370421000
 title: 'Obsidian 插件：ThoughtSpace Whiteboard'
-tags: ['思维导图', '图表与可视化', '日历与时间', '文字处理', '白板学术与科研', 'obsidian插件']
+tags: ['思维导图', '图表与可视化', '日历与时间', '文字处理', '学术与科研', 'obsidian插件']
 description: 'Visual research workspace with mind maps, linked Markdown cards, writing and optional standalone calendar integration. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

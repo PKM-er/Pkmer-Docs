@@ -1,7 +1,7 @@
 ---
 uid: 1786577082763002
 title: 'Obsidian 插件：Specorator'
-tags: ['自动化与AI', '第三方工具集成', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '第三方工具集成', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '在你的仓库里规划、运行并评估特定平台的人工智能代理，把每一段对话和编辑内容都保存为你自己拥有的 Markdown 文件。——此插件尚未经过 Obsidian 工作人员的人工审核。'
 author: AI
 type: auto

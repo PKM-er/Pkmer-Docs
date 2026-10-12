@@ -1,7 +1,7 @@
 ---
 uid: 1786577079120002
 title: 'Obsidian 插件：Inline TikZ'
-tags: ['图表与可视化', '第三方工具集成', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '第三方工具集成', '学习与教育', '学术与科研', 'obsidian插件']
 description: '直接在你的笔记里完美呈现TikZ、CircuiTikZ和PGFPlots这些LaTeX图表——这款插件尚未经过Obsidian官方人员的人工审核哦。'
 author: AI
 type: auto

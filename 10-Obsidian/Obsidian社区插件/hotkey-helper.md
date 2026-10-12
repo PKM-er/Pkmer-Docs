@@ -1,7 +1,7 @@
 ---
 uid: 2024052908434529
 title: Obsidian 插件：Hotkey Helper
-tags: ['快捷键', '界面优化', '插件管理', 'obsidian插件']
+tags: ['快捷键', '界面优化', '效率工具', 'obsidian插件']
 description: 一个快捷键助手，让你更容易的管理 Obsidian 的快捷键。
 author: AI
 type: auto

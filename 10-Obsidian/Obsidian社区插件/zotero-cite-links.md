@@ -1,7 +1,7 @@
 ---
 uid: 1786577083915006
 title: 'Obsidian 插件：Zotero Cite Links'
-tags: ['第三方工具集成', 'zotero', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['第三方工具集成', 'zotero', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 description: '在笔记里按住Cmd键点击Pandoc的@引用键，就能在Zotero里打开被引用的PDF，并定位到引用处对应的页面。——Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

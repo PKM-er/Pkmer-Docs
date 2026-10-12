@@ -1,7 +1,7 @@
 ---
 uid: 20230731114157
 title: Tools-kit——插件——一个聚合多文本处理功能的插件
-tags: [Obsidian, 插件, 文本处理]
+tags: ['Obsidian', '插件', '文字处理']
 description: Tools-kit 插件 - 一个聚合多文本处理功能的插件
 author: Nathaniel
 type: basic

@@ -1,7 +1,7 @@
 ---
 uid: 2025033122553761
 title: Obsidian 插件：Context Command Hider
-tags: ['界面优化', '自定义命令', '插件管理', 'obsidian插件']
+tags: ['界面优化', '自定义命令', '效率工具', 'obsidian插件']
 description: 隐藏右键菜单中的任何命令。
 author: AI
 type: auto

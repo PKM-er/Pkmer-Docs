@@ -1,7 +1,7 @@
 ---
 uid: 2025091900252017
 title: 'Obsidian 插件：LiteCite'
-tags: ['第三方工具集成', '学习与教育', '白板学术与科研', '数据处理', 'obsidian插件']
+tags: ['第三方工具集成', '学习与教育', '学术与科研', '数据处理', 'obsidian插件']
 description: '从BibTeX / BibLaTeX文件创建引用笔记'
 author: AI
 type: auto

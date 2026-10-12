@@ -1,7 +1,7 @@
 ---
 uid: 1786577076758006
 title: 'Obsidian 插件：Canvas Toolkit'
-tags: ['编辑工具', '样式与美化', '界面优化', '白板学术与科研', '图表与可视化', 'obsidian插件']
+tags: ['编辑工具', '样式与美化', '界面优化', '白板', '图表与可视化', 'obsidian插件']
 description: '用可编辑标签、便利贴、板状分组和快速外观控制功能来定制Obsidian画布。——这款插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

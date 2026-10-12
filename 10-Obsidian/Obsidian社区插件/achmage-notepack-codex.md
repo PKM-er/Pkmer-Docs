@@ -1,7 +1,7 @@
 ---
 uid: 1780392510928000
 title: 'Obsidian 插件：NotePack CODEX'
-tags: ['自动化与AI', '效率工具', '白板学术与科研', '思维导图', 'obsidian插件']
+tags: ['自动化与AI', '效率工具', '学术与科研', '思维导图', 'obsidian插件']
 description: '这是一个以看板优先的思维工作台，能借助安静运行的人工智能进行内容丰富，还能为每条笔记生成卡片包。'
 author: AI
 type: auto

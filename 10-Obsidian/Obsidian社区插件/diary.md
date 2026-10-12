@@ -1,7 +1,7 @@
 ---
 uid: 2026060213561389
 title: 'Obsidian 插件：Diary'
-tags: ['日历与时间，效率工具，任务管理，模板与链接处理', 'obsidian插件']
+tags: ['日历与时间', '效率工具', '任务管理', '模板与链接处理', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。这是一款带有日期笔记、范围笔记以及支持显示节假日的年度和月度规划器。'
 author: AI
 type: auto

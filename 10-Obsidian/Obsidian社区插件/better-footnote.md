@@ -1,7 +1,7 @@
 ---
 uid: 1780392510958000
 title: 'Obsidian 插件：Better Footnote'
-tags: ['编辑工具', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还未经Obsidian官方人员手动审核。这是一个专注于写作的脚注侧边栏插件，可用于编辑、导航学术Markdown笔记，还能保留笔记上下文。'
 author: AI
 type: auto

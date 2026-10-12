@@ -1,7 +1,7 @@
 ---
 uid: 1780392511056001
 title: 'Obsidian 插件：Draw in Canvas'
-tags: ['编辑工具', '图表与可视化', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '图表与可视化', '白板', 'obsidian插件']
 description: '可以在Obsidian的JSON画布文件上进行徒手标注哦。'
 author: AI
 type: auto

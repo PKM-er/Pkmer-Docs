@@ -1,7 +1,7 @@
 ---
 uid: 1780392511836000
 title: 'Obsidian 插件：Paper Flow'
-tags: ['图片与PDF', '数据分析', '图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图片与PDF', '数据分析', '图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它能在Markdown笔记里识别论文链接，下载PDF文件，维护元数据和引用计数，还能生成Mermaid文献图谱。'
 author: AI
 type: auto

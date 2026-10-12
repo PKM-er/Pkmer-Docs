@@ -1,7 +1,7 @@
 ---
 uid: 1780392512245001
 title: 'Obsidian 插件：Ziping'
-tags: ['白板学术与科研', '学习与教育', '效率工具', 'obsidian插件']
+tags: ['学术与科研', '学习与教育', '效率工具', 'obsidian插件']
 description: '子平八字布局插件'
 author: AI
 type: auto

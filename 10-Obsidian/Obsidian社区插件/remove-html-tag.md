@@ -1,7 +1,7 @@
 ---
 uid: 2024100113283760
 title: Obsidian 插件：Remove HTML Tag
-tags: ['文本处理', '编辑工具', '数据处理', 'obsidian插件']
+tags: ['文字处理', '编辑工具', '数据处理', 'obsidian插件']
 description: 从Markdown文件中删除HTML标签
 author: AI
 type: auto

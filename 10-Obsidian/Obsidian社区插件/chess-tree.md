@@ -1,7 +1,7 @@
 ---
 uid: 1786577076851001
 title: 'Obsidian 插件：Chess Tree'
-tags: ['图表与可视化', '学习与教育', '思维导图', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '思维导图', '学术与科研', 'obsidian插件']
 description: '国际象棋变体树。——Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392511083000
 title: 'Obsidian 插件：Equation Citator'
-tags: ['学习与教育', '编辑工具', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '编辑工具', '学术与科研', '效率工具', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它是一款强大的类LaTeX学术引用工具，可用于处理公式、图表等内容。'
 author: AI
 type: auto

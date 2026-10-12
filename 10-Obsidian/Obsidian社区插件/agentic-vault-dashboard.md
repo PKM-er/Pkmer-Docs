@@ -1,7 +1,7 @@
 ---
 uid: 1786577075907001
 title: 'Obsidian 插件：Agent Dashboard'
-tags: ['任务管理', '数据分析', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['任务管理', '数据分析', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 description: '在一个面板里跟踪人工智能代理的工作流程、仓库活动、任务、项目和研究动态。——这款插件尚未经过Obsidian工作人员的人工审核。'
 author: AI
 type: auto

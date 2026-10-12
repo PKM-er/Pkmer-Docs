@@ -1,7 +1,7 @@
 ---
 uid: 1780392512000001
 title: 'Obsidian 插件：Export to Rodin'
-tags: ['第三方工具集成', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['第三方工具集成', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核哦。把你的仓库发给罗丹，就能生成你的思维指纹啦——快来探寻你独特的思考方式吧！'
 author: AI
 type: auto

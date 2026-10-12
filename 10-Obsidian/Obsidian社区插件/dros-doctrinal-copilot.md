@@ -1,7 +1,7 @@
 ---
 uid: 1786577077481004
 title: 'Obsidian 插件：DROS Doctrinal Copilot'
-tags: ['自动化与AI', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['自动化与AI', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 description: 'DROS 辅助插件，用于双轨推理和教义卡片锚定。——此插件尚未经过 Obsidian 工作人员的人工审核。'
 author: AI
 type: auto

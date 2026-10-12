@@ -1,7 +1,7 @@
 ---
 uid: 1780392511219000
 title: 'Obsidian 插件：Librarian'
-tags: ['学习与教育', '数据处理', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '数据处理', '效率工具', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它能在你的仓库里进行书籍追踪。就跟Goodreads差不多，但它是用于你的笔记的。'
 author: AI
 type: auto

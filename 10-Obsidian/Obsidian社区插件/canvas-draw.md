@@ -1,7 +1,7 @@
 ---
 uid: 1786577076772000
 title: 'Obsidian 插件：CanvasDraw'
-tags: ['第三方工具集成', '编辑工具', '图表与可视化', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '编辑工具', '图表与可视化', '白板', 'obsidian插件']
 description: '无缝的内联Excalidraw集成，具备完整的绘图工具、图库管理和自定义画布控制功能。 - 此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

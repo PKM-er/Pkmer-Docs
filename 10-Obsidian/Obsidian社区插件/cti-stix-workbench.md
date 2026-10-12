@@ -1,7 +1,7 @@
 ---
 uid: 1786577077197004
 title: 'Obsidian 插件：CTI STIX Workbench'
-tags: ['数据处理', '图表与可视化', '第三方工具集成', '白板学术与科研', '图谱', 'obsidian插件']
+tags: ['数据处理', '图表与可视化', '第三方工具集成', '学术与科研', '图谱', 'obsidian插件']
 description: '从Obsidian笔记、画布文件、文件夹或JSON捆绑包中创建、可视化展示、验证并导出本地STIX 2.1情报。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

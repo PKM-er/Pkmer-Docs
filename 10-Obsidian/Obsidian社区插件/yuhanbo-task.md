@@ -1,7 +1,7 @@
 ---
 uid: 1786577083900003
 title: 'Obsidian 插件：Yuhanbo Task'
-tags: ['任务管理，编辑工具，效率工具', 'obsidian插件']
+tags: ['任务管理', '编辑工具', '效率工具', 'obsidian插件']
 description: ''
 author: AI
 type: auto

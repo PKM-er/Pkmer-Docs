@@ -1,7 +1,7 @@
 ---
 uid: 2025042920495985
 title: Obsidian 插件：Generate Timeline
-tags: ['数据处理', '自动化与AI', '时间管理', 'obsidian插件']
+tags: ['数据处理', '自动化与AI', '日历与时间', 'obsidian插件']
 description: 根据任意时间属性自动从标签或文件夹生成时间线。
 author: AI
 type: auto

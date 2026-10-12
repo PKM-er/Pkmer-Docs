@@ -1,7 +1,7 @@
 ---
 uid: 1786577080935000
 title: 'Obsidian 插件：nodeBook'
-tags: ['图表与可视化', '思维导图', '图谱', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '思维导图', '图谱', '学习与教育', '学术与科研', 'obsidian插件']
 description: '从nodeBook代码块渲染nodeBook中文网络语言（CNL）知识图谱：包括交互式概念图、变体、推理、包含视图，以及佩特里网令牌模拟。 - 此插件尚未经过Obsidian官方人员的手动审核。'
 author: AI
 type: auto

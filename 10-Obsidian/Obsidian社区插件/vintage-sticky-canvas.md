@@ -1,7 +1,7 @@
 ---
 uid: 1786577083651002
 title: 'Obsidian 插件：Vintage Sticky Canvas'
-tags: ['样式与美化', '图表与可视化', '白板学术与科研', 'obsidian插件']
+tags: ['样式与美化', '图表与可视化', '白板', 'obsidian插件']
 description: '用复古纸张质感的表面、手写的边缘标签和透明的破纸效果来美化画布板。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

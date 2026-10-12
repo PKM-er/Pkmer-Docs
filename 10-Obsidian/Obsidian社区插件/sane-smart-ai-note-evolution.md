@@ -1,7 +1,7 @@
 ---
 uid: 1780392512008001
 title: 'Obsidian 插件：SANE - Smart AI Note Evolution'
-tags: ['自动化与AI', '编辑工具', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '编辑工具', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员手动审核哦。用人工智能让你的笔记智能进化。当你添加或编辑笔记时，SANE会找出3篇最相关的笔记，并用智能标签、关键词、链接和摘要来优化它们。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577076867008
 title: 'Obsidian 插件：Citation Extended'
-tags: ['第三方工具集成', '自动化与AI', '学习与教育', 'zotero', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '自动化与AI', '学习与教育', 'zotero', '学术与科研', 'obsidian插件']
 description: '扩展功能，可自动从 Zotero 文献库中搜索并插入参考文献。——此插件尚未经过 Obsidian 官方人员手动审核。'
 author: AI
 type: auto

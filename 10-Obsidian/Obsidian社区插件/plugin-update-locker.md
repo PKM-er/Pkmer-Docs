@@ -1,7 +1,7 @@
 ---
 uid: 2025042920512320
 title: Obsidian 插件：Plugin Update Locker
-tags: ['插件管理', '安全与隐私', '自定义命令', 'obsidian插件']
+tags: ['效率工具', '安全与隐私', '自定义命令', 'obsidian插件']
 description: 阻止特定插件更新
 author: AI
 type: auto

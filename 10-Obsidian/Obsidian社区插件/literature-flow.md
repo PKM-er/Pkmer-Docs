@@ -1,7 +1,7 @@
 ---
 uid: 1786577079566003
 title: 'Obsidian 插件：Literature Flow'
-tags: ['学习与教育', '白板学术与科研', '第三方工具集成', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '学术与科研', '第三方工具集成', '效率工具', 'obsidian插件']
 description: '开放获取文献发现与引用映射——Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

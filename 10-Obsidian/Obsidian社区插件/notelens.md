@@ -1,7 +1,7 @@
 ---
 uid: 1791709368885000
 title: 'Obsidian 插件：NoteLens'
-tags: ['白板学术与科研', '图片与PDF', '多媒体', '编辑工具', 'obsidian插件']
+tags: ['白板', '图片与PDF', '多媒体', '编辑工具', 'obsidian插件']
 description: 'Infinite whiteboard with pressure-sensitive stylus ink, smart tags, PDFs and interactive videos on the canvas. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

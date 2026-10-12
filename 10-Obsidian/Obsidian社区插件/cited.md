@@ -1,7 +1,7 @@
 ---
 uid: 1786577076882000
 title: 'Obsidian 插件：Cited'
-tags: ['学习与教育', '自动化与AI', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '自动化与AI', '第三方工具集成', '学术与科研', 'obsidian插件']
 description: '针对你的仓库提出研究问题，就能获得有依据、按论点分组引用的答案 —— 无需外部账号，使用你本地的Claude命令行界面。 - 此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

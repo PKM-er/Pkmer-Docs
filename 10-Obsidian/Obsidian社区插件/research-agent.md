@@ -1,7 +1,7 @@
 ---
 uid: 2026060213561485
 title: 'Obsidian 插件：Research Agent'
-tags: ['学习与教育', '自动化与AI', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '自动化与AI', '学术与科研', '效率工具', 'obsidian插件']
 description: '这个插件还没经过Obsidian工作人员的人工审核。它是一个对话式研究助手，可用于引导研究流程、证据审查、事实核查以及生成Markdown成果。'
 author: AI
 type: auto

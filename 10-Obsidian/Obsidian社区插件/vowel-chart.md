@@ -1,7 +1,7 @@
 ---
 uid: 1780392512206000
 title: 'Obsidian 插件：Vowel Chart'
-tags: ['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它能生成国际音标（IPA）风格的元音图表。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 2024100113285479
 title: Obsidian 插件：sync-db-os
-tags: ['文件管理', '备份与恢复', '协作工具', 'obsidian插件']
+tags: ['文件管理', '备份与恢复', '社交与社区', 'obsidian插件']
 description: For synchronization between multiple platforms
 author: AI
 type: auto

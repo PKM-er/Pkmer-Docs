@@ -1,7 +1,7 @@
 ---
 uid: 1780392511998001
 title: 'Obsidian 插件：Lumen - AI Brain'
-tags: ['自动化与AI', '效率工具', '白板学术与科研', '学习与教育', 'obsidian插件']
+tags: ['自动化与AI', '效率工具', '学术与科研', '学习与教育', 'obsidian插件']
 description: '它是用于Obsidian笔记的异步研究工作流插件。'
 author: AI
 type: auto

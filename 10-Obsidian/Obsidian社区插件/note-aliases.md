@@ -1,7 +1,7 @@
 ---
 uid: 2024052909053007
 title: Obsidian 插件：Note aliases
-tags: ['第三方工具集成', '笔记与日志', '文本处理', 'obsidian插件']
+tags: ['第三方工具集成', '笔记与日志', '文字处理', 'obsidian插件']
 description: 这个插件管理Obsidian中的笔记别名。
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392512116001
 title: 'Obsidian 插件：Tagser'
-tags: ['由于插件描述未提供有效信息，难以准确选择标签。若推测该插件与标签相关，可选择编辑工具，搜索与排序，效率工具', 'obsidian插件']
+tags: ['搜索与排序', '效率工具', 'obsidian插件']
 description: '这个插件还没有经过Obsidian工作人员的人工审核。编辑`tags`属性的值。'
 author: AI
 type: auto

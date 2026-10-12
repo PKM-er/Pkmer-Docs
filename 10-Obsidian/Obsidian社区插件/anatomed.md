@@ -1,7 +1,7 @@
 ---
 uid: 1786577076033000
 title: 'Obsidian 插件：Anatomed 3D Anatomy'
-tags: ['图表与可视化', '多媒体', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '多媒体', '学习与教育', '学术与科研', 'obsidian插件']
 description: '在你的笔记里嵌入可交互、区域独立的 3D 解剖模型。在解剖代码块中编写一个区域，就能得到一个可旋转、经过验证的 3D 模型，还能切换显示图例。——此插件尚未经过 Obsidian 工作人员的人工审核。'
 author: AI
 type: auto

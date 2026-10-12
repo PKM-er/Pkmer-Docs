@@ -1,7 +1,7 @@
 ---
 uid: 2025033122552716
 title: Obsidian 插件：Clone Vault
-tags: ['文件管理', '备份与恢复', '插件管理', 'obsidian插件']
+tags: ['文件管理', '备份与恢复', '效率工具', 'obsidian插件']
 description: 克隆当前保险库，通过复制设置和文件夹结构而不包含笔记内容。
 author: AI
 type: auto

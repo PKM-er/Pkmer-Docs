@@ -1,7 +1,7 @@
 ---
 uid: 1786577082780005
 title: 'Obsidian 插件：Standing Questions'
-tags: ['搜索与排序', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['搜索与排序', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '追踪你仓库里未解决的问题，还能找出可能解答这些问题的新笔记。——Obsidian团队尚未对该插件进行人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 20230715051519
 title: Obsidian 插件：Advanced Paste 定制化的粘贴插件
-tags: [粘贴, 自定义, 表格, 文本处理]
+tags: ['粘贴', '自定义', '表格', '文字处理']
 description: 一个可以定制化的粘贴插件，可以在粘贴到 Obsidian 之前处理文本。比如 csv 转 md 表格，网页 html 转 md 表格
 author: Nathaniel
 type: basic

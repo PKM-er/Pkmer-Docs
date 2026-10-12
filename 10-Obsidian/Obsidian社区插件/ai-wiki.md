@@ -1,7 +1,7 @@
 ---
 uid: 2026060213561241
 title: 'Obsidian 插件：AI Wiki'
-tags: ['自动化与AI', '数据处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '数据处理', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这是一款由人工智能驱动的可组合知识库插件，它能从原始资料中提取、整合信息，并维护一个维基知识库。'
 author: AI
 type: auto

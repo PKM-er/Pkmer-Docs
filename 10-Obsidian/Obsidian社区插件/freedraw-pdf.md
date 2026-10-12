@@ -1,7 +1,7 @@
 ---
 uid: 1786577077937000
 title: 'Obsidian 插件：Freedraw PDF'
-tags: ['图片与PDF', '编辑工具', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['图片与PDF', '编辑工具', '学术与科研', '效率工具', 'obsidian插件']
 description: '这是Obsidian的一个自由式PDF注释工作区，支持以仓库为依托进行边车式保存。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577081234001
 title: 'Obsidian 插件：Paper Manager'
-tags: ['文件管理', '学习与教育', '白板学术与科研', '图片与PDF', '效率工具', 'obsidian插件']
+tags: ['文件管理', '学习与教育', '学术与科研', '图片与PDF', '效率工具', 'obsidian插件']
 description: '在你的仓库里管理、阅读、批注和整合学术论文。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

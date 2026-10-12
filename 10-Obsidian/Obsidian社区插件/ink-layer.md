@@ -1,7 +1,7 @@
 ---
 uid: 1786577079089006
 title: 'Obsidian 插件：Inkplane'
-tags: ['移动端优化', '编辑工具', '文字处理', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['移动端优化', '编辑工具', '文字处理', '学术与科研', '效率工具', 'obsidian插件']
 description: '一个能嵌入笔记的无限手写画布，专为苹果铅笔等手写笔设计。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

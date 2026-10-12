@@ -1,7 +1,7 @@
 ---
 uid: 1786577077059004
 title: 'Obsidian 插件：Commutative Diagram Editor'
-tags: ['编辑工具', '图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '能在固定网格上插入并编辑交换图。渲染成与原生交换图样式匹配的 SVG 格式。还能导出为 tikz - cd 和 AMS CD 格式。——此插件尚未经过 Obsidian 官方人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392510972000
 title: 'Obsidian 插件：Brain Atlas'
-tags: ['图表与可视化', '图谱', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '图谱', '学习与教育', '学术与科研', 'obsidian插件']
 description: '它能把你的仓库渲染成一个动态的3D大脑解剖模型。'
 author: AI
 type: auto

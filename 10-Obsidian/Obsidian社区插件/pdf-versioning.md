@@ -1,7 +1,7 @@
 ---
 uid: 1786577081360002
 title: 'Obsidian 插件：PDF versioning'
-tags: ['第三方工具集成', '图片与PDF', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '图片与PDF', '效率工具', '学术与科研', 'obsidian插件']
 description: '与外部工具集成，可进行PDF注释和嵌入式视图展示，还支持完整的版本控制。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

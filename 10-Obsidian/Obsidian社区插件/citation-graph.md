@@ -1,7 +1,7 @@
 ---
 uid: 1791709366020000
 title: 'Obsidian 插件：Citation Graph'
-tags: ['图谱', '图表与可视化', '第三方工具集成', 'zotero', '白板学术与科研', 'obsidian插件']
+tags: ['图谱', '图表与可视化', '第三方工具集成', 'zotero', '白板', 'obsidian插件']
 description: 'Build literature citation graphs with canvases, including import from Zotero collections and reference expansion via Semantic Scholar. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 2026022517443210
 title: 'Obsidian 插件：BibTeX Scholar'
-tags: ['学习与教育', '文字处理', '第三方工具集成', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '文字处理', '第三方工具集成', '效率工具', '学术与科研', 'obsidian插件']
 description: '这是一套完整的BibTeX引文管理方案，专为在笔记里进行上下文关联、流畅无阻的文献综述和论文写作而设计。'
 author: AI
 type: auto

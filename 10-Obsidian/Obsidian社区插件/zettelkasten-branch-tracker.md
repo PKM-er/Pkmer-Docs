@@ -1,7 +1,7 @@
 ---
 uid: 2025091900252042
 title: 'Obsidian 插件：Zettelkasten Branch Tracker'
-tags: ['图表与可视化', '图谱', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '图谱', '学习与教育', '学术与科研', 'obsidian插件']
 description: '专门用于zettelkasten笔记层级结构的图形可视化工具'
 author: AI
 type: auto

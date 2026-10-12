@@ -1,7 +1,7 @@
 ---
 uid: 1780392511989000
 title: 'Obsidian 插件：Petrify'
-tags: ['编辑工具', '文字处理', '自动化与AI', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '文字处理', '自动化与AI', '白板', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核哦。它能借助OCR功能把手写笔记转换成Excalidraw格式或者Markdown格式，帮你统一知识库呢。'
 author: AI
 type: auto

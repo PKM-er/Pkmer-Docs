@@ -1,7 +1,7 @@
 ---
 uid: 1780392512087000
 title: 'Obsidian 插件：Stratum'
-tags: ['第三方工具集成', 'zotero', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['第三方工具集成', 'zotero', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核哦。无需任何配置，就能把你的Zotero文献库同步成条理清晰的文献笔记。'
 author: AI
 type: auto

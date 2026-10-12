@@ -1,7 +1,7 @@
 ---
 uid: 2025033122554287
 title: Obsidian 插件：Current File Tags
-tags: ['文件管理', '标签管理', '编辑工具', 'obsidian插件']
+tags: ['文件管理', '编辑工具', 'obsidian插件']
 description: 显示活动Markdown文件的标签和相关文件。
 author: AI
 type: auto

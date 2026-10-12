@@ -1,7 +1,7 @@
 ---
 uid: 2026022517443241
 title: 'Obsidian 插件：GoBoard'
-tags: ['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 description: '从 Markdown 代码块中渲染围棋棋局图。'
 author: AI
 type: auto

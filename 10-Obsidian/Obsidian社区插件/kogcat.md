@@ -1,7 +1,7 @@
 ---
 uid: 1786577079405003
 title: 'Obsidian 插件：KogCat'
-tags: ['学习与教育', '自动化与AI', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '自动化与AI', '学术与科研', '效率工具', 'obsidian插件']
 description: '对照包含认知偏差、反模式以及与你过往笔记矛盾之处的知识库，校准你的思维。——此插件尚未经过Obsidian工作人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 2024111121490226
 title: Obsidian 插件：Asciidoctor editor
-tags: ['编辑工具', '文本处理', '样式与美化', 'obsidian插件']
+tags: ['编辑工具', '文字处理', '样式与美化', 'obsidian插件']
 description: 查看和修改 asciidoc 页面
 author: AI
 type: auto

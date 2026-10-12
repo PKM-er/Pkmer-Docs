@@ -1,7 +1,7 @@
 ---
 uid: 1780392512248001
 title: 'Obsidian 插件：Zotero Lib View'
-tags: ['第三方工具集成', 'zotero', '学习与教育', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', 'zotero', '学习与教育', '效率工具', '学术与科研', 'obsidian插件']
 description: '你可以从仓库里查看和管理你的Zotero文献库。'
 author: AI
 type: auto

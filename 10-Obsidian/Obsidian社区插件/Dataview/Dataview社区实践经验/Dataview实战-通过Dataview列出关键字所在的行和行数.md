@@ -1,7 +1,7 @@
 ---
 uid: 20231123201314
 title: Dataview 实战 - 通过 Dataview 列出关键字所在的行和行数
-tags: [Obsidian, dataview, 标签，tags, 汇总]
+tags: ['Obsidian', 'dataview', '汇总']
 description: 列出关健字所在的行内容以及所在行数
 author: 我想煞了我
 type: other

@@ -1,7 +1,7 @@
 ---
 uid: 1786577083484002
 title: 'Obsidian 插件：Understory'
-tags: ['图谱', '数据分析', '自动化与AI', '白板学术与科研', 'obsidian插件']
+tags: ['图谱', '数据分析', '自动化与AI', '学术与科研', 'obsidian插件']
 description: '这是一个以本地优先的知识层插件，能用于关系发现、实体关系事实挖掘、图形分析，还可选择借助模型获取深入见解。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

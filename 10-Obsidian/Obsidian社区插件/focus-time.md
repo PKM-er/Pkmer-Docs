@@ -1,7 +1,7 @@
 ---
 uid: 2025021613021710
 title: Obsidian 插件：Focus Time
-tags: ['时间管理', '数据分析', '图表与可视化', 'obsidian插件']
+tags: ['日历与时间', '数据分析', '图表与可视化', 'obsidian插件']
 description: 跟踪每个笔记所花费的时间并可视化数据。
 author: AI
 type: auto

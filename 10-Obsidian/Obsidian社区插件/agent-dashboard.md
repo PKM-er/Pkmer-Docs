@@ -1,7 +1,7 @@
 ---
 uid: 1786577083852001
 title: 'Obsidian 插件：Xboard'
-tags: ['任务管理', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['任务管理', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 description: '一个以本地优先的笔记、任务、外部信息和人工智能工作流程工作区。——此插件尚未经过Obsidian工作人员的人工审核。'
 author: AI
 type: auto

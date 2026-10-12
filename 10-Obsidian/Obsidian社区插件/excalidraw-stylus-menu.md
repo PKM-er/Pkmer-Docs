@@ -1,7 +1,7 @@
 ---
 uid: 1786577077607005
 title: 'Obsidian 插件：Excalidraw Stylus Menu'
-tags: ['第三方工具集成', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '编辑工具', '效率工具', '白板', 'obsidian插件']
 description: 'Excalidraw的手写笔/S Pen手势功能：轻点或按侧边按钮可打开插入菜单，点击对象可进行快速操作，还能复制、粘贴或连接图形。 - Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

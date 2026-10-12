@@ -1,7 +1,7 @@
 ---
 uid: 1786577081250001
 title: 'Obsidian 插件：Para-ZK'
-tags: ['自动化与AI', '第三方工具集成', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '第三方工具集成', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '支持通过MCP/CLI接入Claude Code、Codex等客户端，实现PARA、卡片盒笔记法（Zettelkasten）和大语言模型维基（LLM - Wiki）工作流。——此插件尚未经过Obsidian官方人员人工审核。'
 author: AI
 type: auto

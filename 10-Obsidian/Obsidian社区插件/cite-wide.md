@@ -1,7 +1,7 @@
 ---
 uid: 1780392511009000
 title: 'Obsidian 插件：Cite Wide'
-tags: ['学习与教育', '白板学术与科研', 'zotero', '效率工具', 'obsidian插件']
+tags: ['学习与教育', '学术与科研', 'zotero', '效率工具', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。这是一款Obsidian插件，能实现严谨的引用和参考文献管理。'
 author: AI
 type: auto

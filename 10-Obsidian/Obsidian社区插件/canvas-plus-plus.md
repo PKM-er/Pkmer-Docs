@@ -1,7 +1,7 @@
 ---
 uid: 1791709365916000
 title: 'Obsidian 插件：Canvas++'
-tags: ['图表与可视化', '自动化与AI', '编辑工具', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '自动化与AI', '编辑工具', '白板', 'obsidian插件']
 description: 'Professional UML 2.x diagrams, hardware schematics, and freehand shape recognition on a high-performance visual canvas with AI coding agent integration. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

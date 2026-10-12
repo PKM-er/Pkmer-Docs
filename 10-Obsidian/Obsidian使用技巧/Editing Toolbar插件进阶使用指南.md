@@ -1,7 +1,7 @@
 ---
 uid: 20250330230247
 title: Editing Toolbar插件进阶使用指南
-tags: [Obsidian，技巧]
+tags: [Obsidian, 技巧]
 description: Obsidian 插件：Editing Toolbar 必装的可视化编辑工具，增强可视化编辑体验。提供类似于 Word，在线办公软件 的浮动工具栏等交互方式。
 author: cuman
 type: other

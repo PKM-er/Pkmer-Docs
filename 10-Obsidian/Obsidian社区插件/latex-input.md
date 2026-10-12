@@ -1,7 +1,7 @@
 ---
 uid: 1786577079446002
 title: 'Obsidian 插件：LaTeX Input'
-tags: ['编辑工具', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这是一款适用于Obsidian的LaTeX公式输入插件。你可以从符号面板中点击符号，自动生成代码，实时预览，然后插入到当前笔记中；它还支持**屏幕选区域OCR识别**和**剪贴板……** 这款插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

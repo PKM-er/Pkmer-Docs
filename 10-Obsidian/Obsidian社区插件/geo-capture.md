@@ -1,7 +1,7 @@
 ---
 uid: 1786577077985005
 title: 'Obsidian 插件：Geo Capture'
-tags: ['地图与位置', '效率工具', '图片与PDF', '旅行笔记相关（注：因预定义标签中无完全契合旅行笔记用途的，可根据实际情况考虑是否添加类似标签）', 'obsidian插件']
+tags: ['地图与位置', '效率工具', '图片与PDF', 'obsidian插件']
 description: '捕捉地点、坐标、地图链接和照片的GPS信息，用于撰写旅行笔记。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

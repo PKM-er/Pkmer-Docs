@@ -1,7 +1,7 @@
 ---
 uid: 1780392512023001
 title: 'Obsidian 插件：Semantic JSON'
-tags: ['数据处理', '自动化与AI', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+tags: ['数据处理', '自动化与AI', '第三方工具集成', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它能把你的画布轻松转化为无需代码的JSON数据结构，还能和大语言模型共享这些数据。'
 author: AI
 type: auto

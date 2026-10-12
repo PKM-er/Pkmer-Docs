@@ -1,7 +1,7 @@
 ---
 uid: 2025033122560824
 title: Obsidian 插件：Extended Markdown Syntax
-tags: ['样式与美化', '编辑工具', '文本处理', 'obsidian插件']
+tags: ['样式与美化', '编辑工具', '文字处理', 'obsidian插件']
 description: 使用分隔符而不是HTML标签扩展您的Markdown语法，例如下划线、上标、下标、高亮和剧透。
 author: AI
 type: auto

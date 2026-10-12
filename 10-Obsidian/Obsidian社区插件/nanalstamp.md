@@ -1,7 +1,7 @@
 ---
 uid: 1786577080847002
 title: 'Obsidian 插件：nanalStamp'
-tags: ['安全与隐私', '白板学术与科研', '效率工具', '日历与时间', 'obsidian插件']
+tags: ['安全与隐私', '学术与科研', '效率工具', '日历与时间', 'obsidian插件']
 description: '用与比特币挂钩的防篡改、内容隐私时间戳为每篇笔记盖章——为你的研究笔记提供存在证明和完整的每日编辑历史记录。 - 此插件尚未经过Obsidian工作人员的人工审核。'
 author: AI
 type: auto

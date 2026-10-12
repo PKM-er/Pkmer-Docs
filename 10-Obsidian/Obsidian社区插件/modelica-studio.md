@@ -1,7 +1,7 @@
 ---
 uid: 1791709368693000
 title: 'Obsidian 插件：Modelica Studio'
-tags: ['第三方工具集成', '图表与可视化', '编程与脚本', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '图表与可视化', '编程与脚本', '学术与科研', 'obsidian插件']
 description: 'Model, simulate, and plot Modelica systems with a visual drag-and-drop schematic editor powered by OpenModelica (OpenSource) - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

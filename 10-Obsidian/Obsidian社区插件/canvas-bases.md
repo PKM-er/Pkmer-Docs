@@ -1,7 +1,7 @@
 ---
 uid: 1786577076520000
 title: 'Obsidian 插件：Canvas Bases'
-tags: ['图表与可视化', '白板学术与科研', '第三方工具集成', '样式与美化', 'obsidian插件']
+tags: ['图表与可视化', '白板', '第三方工具集成', '样式与美化', 'obsidian插件']
 description: '为Obsidian Bases提供画布式布局和JSON画布实例化功能。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

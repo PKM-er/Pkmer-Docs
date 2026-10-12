@@ -1,7 +1,7 @@
 ---
 uid: 1780392511166001
 title: 'Obsidian 插件：Icon Board'
-tags: ['图表与可视化', '效率工具', '多媒体', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '效率工具', '多媒体', '白板', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。它是一个米兰笔记（Milanote）风格的可视化工作区，有图标方块、自由画布、看板列、便利贴、待办清单、图片、音频、书签和笔记链接等功能。'
 author: AI
 type: auto

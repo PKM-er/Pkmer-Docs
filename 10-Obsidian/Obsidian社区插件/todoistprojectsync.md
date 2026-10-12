@@ -1,7 +1,7 @@
 ---
 uid: 2024100113285770
 title: Obsidian 插件：Todoist Project sync
-tags: ['任务管理', '笔记管理', '协作工具', 'obsidian插件']
+tags: ['任务管理', '笔记管理', '社交与社区', 'obsidian插件']
 description: 同步来自Todoist的项目，为每个项目创建一个笔记。
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 2025081220015022
 title: 'Obsidian 插件：Mini-RAG'
-tags: ['自动化与AI', '第三方工具集成', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '第三方工具集成', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '用本地运行的大语言模型（LLM）或人工智能，为你的笔记运用检索增强生成（RAG）技术。'
 author: AI
 type: auto

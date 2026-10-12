@@ -1,7 +1,7 @@
 ---
 uid: 1786577077843003
 title: 'Obsidian 插件：Formula Library'
-tags: ['编辑工具', '搜索与排序', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['编辑工具', '搜索与排序', '学习与教育', '学术与科研', 'obsidian插件']
 description: '带有 MathLive 所见即所得编辑功能的 LaTeX 公式编辑器，有 2100 多个分类公式、智能搜索和可扩展的公式文件夹。——此插件尚未经过 Obsidian 工作人员的人工审核。'
 author: AI
 type: auto

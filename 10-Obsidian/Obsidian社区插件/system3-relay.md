@@ -1,7 +1,7 @@
 ---
 uid: 2024100113283640
 title: Obsidian 插件：Relay
-tags: ['协作工具', '实时编辑', '文件管理', 'obsidian插件']
+tags: ['社交与社区', '实时编辑', '文件管理', 'obsidian插件']
 description: Collaborate in real time with live cursors. Share folders. Manage access to updates.
 author: AI
 type: auto

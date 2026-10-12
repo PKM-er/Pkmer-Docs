@@ -1,7 +1,7 @@
 ---
 uid: 2024052908522335
 title: Obsidian 插件：Status Bar Pomodoro Timer
-tags: ['界面优化', '时间管理', 'obsidian插件']
+tags: ['界面优化', '日历与时间', 'obsidian插件']
 description: 将番茄钟添加到你的状态栏中。
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577076520001
 title: 'Obsidian 插件：Canvas Branch Chat'
-tags: ['自动化与AI', '思维导图', '图表与可视化', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '思维导图', '图表与可视化', '白板', 'obsidian插件']
 description: '在Obsidian画布上进行Flowith风格的分支式AI对话。分叉、探索并梳理你的思路。——本插件尚未经过Obsidian官方人员人工审核。'
 author: AI
 type: auto

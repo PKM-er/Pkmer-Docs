@@ -1,7 +1,7 @@
 ---
 uid: 2024052908480198
 title: Obsidian 插件：Overdue
-tags: ['任务管理', '时间管理', '数据处理', 'obsidian插件']
+tags: ['任务管理', '日历与时间', '数据处理', 'obsidian插件']
 description: 未在截止日期前完成的任务，会为你自动将任务其标记为[[逾期]]/[[OVERDUE]]
 author: AI
 type: auto

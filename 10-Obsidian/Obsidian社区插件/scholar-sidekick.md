@@ -1,7 +1,7 @@
 ---
 uid: 1780392512012000
 title: 'Obsidian 插件：Scholar Sidekick - Cite from any identifier'
-tags: ['学习与教育', '文字处理', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '文字处理', '编辑工具', '效率工具', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。粘贴DOI、PMID、ISBN或者arXiv编号，就能把它替换成格式规范的引用内容。有一万多种CSL样式可选，不需要引用管理器。'
 author: AI
 type: auto

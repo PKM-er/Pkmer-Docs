@@ -1,7 +1,7 @@
 ---
 uid: 1786577080715004
 title: 'Obsidian 插件：Molren'
-tags: ['第三方工具集成', '图表与可视化', '白板学术与科研', '学习与教育', 'obsidian插件']
+tags: ['第三方工具集成', '图表与可视化', '学术与科研', '学习与教育', 'obsidian插件']
 description: '能在笔记里根据SMILES、molfile、SDF格式或者反应式（rxn）渲染二维化学结构，由RDKit.js提供支持。——Obsidian官方人员尚未对该插件进行人工审核。'
 author: AI
 type: auto

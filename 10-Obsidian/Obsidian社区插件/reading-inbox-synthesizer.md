@@ -1,7 +1,7 @@
 ---
 uid: 1786577082134001
 title: 'Obsidian 插件：Reading Inbox Synthesizer'
-tags: ['学习与教育', '自动化与AI', '效率工具', '数据分析', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '自动化与AI', '效率工具', '数据分析', '学术与科研', 'obsidian插件']
 description: '把你积压的网页剪藏转化为阅读记忆：批量总结、跨文章主题分析，还有每周摘要。——此插件尚未经过 Obsidian 官方人员的人工审核。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392510989001
 title: 'Obsidian 插件：Canvas Cover Overlay'
-tags: ['样式与美化', '界面优化', '图表与可视化', '白板学术与科研', 'obsidian插件']
+tags: ['样式与美化', '界面优化', '图表与可视化', '白板', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核。你可以为每个画布自定义嵌入的画布缩略图和画布视图背景哦。'
 author: AI
 type: auto

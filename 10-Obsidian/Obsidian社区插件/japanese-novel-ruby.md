@@ -1,7 +1,7 @@
 ---
 uid: 2024111121491786
 title: Obsidian 插件：Japanese Novel Ruby
-tags: ['文本处理', '数据处理', '学习与教育', 'obsidian插件']
+tags: ['文字处理', '数据处理', '学习与教育', 'obsidian插件']
 description: 处理在日本小说中常用的红宝石（振假名）标记
 author: AI
 type: auto

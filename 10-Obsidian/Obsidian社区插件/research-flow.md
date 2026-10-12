@@ -1,7 +1,7 @@
 ---
 uid: 1791709369692000
 title: 'Obsidian 插件：ResearchFlow'
-tags: ['任务管理', '效率工具', '白板学术与科研', '模板与链接处理', 'obsidian插件']
+tags: ['任务管理', '效率工具', '学术与科研', '模板与链接处理', 'obsidian插件']
 description: 'A Markdown-first research and project operating system for Obsidian. Connect projects, tasks, daily work, ideas, reading, and career opportunities. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

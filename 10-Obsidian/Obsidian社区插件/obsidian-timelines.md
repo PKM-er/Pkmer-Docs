@@ -1,7 +1,7 @@
 ---
 uid: 2024052908490940
 title: Obsidian 插件：Timelines
-tags: ['数据处理', '时间管理', '标签管理', 'obsidian插件']
+tags: ['数据处理', '日历与时间', '文件管理', 'obsidian插件']
 description: 使用指定的标签和语法组合，在 Obsidian 中创建笔记的时间线视图
 author: AI
 type: auto

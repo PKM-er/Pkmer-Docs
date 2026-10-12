@@ -1,7 +1,7 @@
 ---
 uid: 2024052909041659
 title: Obsidian 插件：Callout Integrator
-tags: ['模板与链接处理', '文本处理', '编辑工具', 'obsidian插件']
+tags: ['模板与链接处理', '文字处理', '编辑工具', 'obsidian插件']
 description: 将长篇文字整合到引用框中
 author: AI
 type: auto

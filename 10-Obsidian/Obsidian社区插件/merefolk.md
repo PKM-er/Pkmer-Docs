@@ -1,7 +1,7 @@
 ---
 uid: 1786577080168004
 title: 'Obsidian 插件：Merefolk'
-tags: ['图表与可视化', '编辑工具', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '编辑工具', '白板', 'obsidian插件']
 description: '把Mermaid实体关系图变成原生的、可编辑的Excalidraw图——有鱼尾式基数表示法，布局简洁。 - 此插件尚未经过Obsidian官方人员人工审核。'
 author: AI
 type: auto

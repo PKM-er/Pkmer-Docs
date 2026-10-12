@@ -1,7 +1,7 @@
 ---
 uid: 2024052909074817
 title: Obsidian 插件：Text Format
-tags: ['文本处理', '样式与美化', '编辑工具', 'obsidian插件']
+tags: ['文字处理', '样式与美化', '编辑工具', 'obsidian插件']
 description: 解决从PDF 或其他软件复制内容后，格式错乱问题。此插件将会格式化选定的文本小写/大写/大写/标题大小写，或者删除多余的空格/换行符，以及一些其他功能。
 author: AI
 type: auto

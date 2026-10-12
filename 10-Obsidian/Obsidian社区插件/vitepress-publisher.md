@@ -1,7 +1,7 @@
 ---
 uid: 2024100113290864
 title: Obsidian 插件：Vitepress Publisher
-tags: ['编辑工具', '发布工具', '文本处理', 'obsidian插件']
+tags: ['编辑工具', '发布工具', '文字处理', 'obsidian插件']
 description: Conveniently preview and publish Markdown files using vitepress.
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1780392511315002
 title: 'Obsidian 插件：Knowledge AI'
-tags: ['自动化与AI', '搜索与排序', '图片与PDF', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['自动化与AI', '搜索与排序', '图片与PDF', '学习与教育', '学术与科研', 'obsidian插件']
 description: '这个插件还未经过Obsidian官方人员的人工审核。这是适用于你仓库的人工智能：可进行有引用依据的可靠检索增强生成（RAG）聊天，采用混合BM25 + 向量 + 摘要检索方式，支持多格式索引（Markdown、PDF、DOCX、XLSX、PPTX），具备图像光学字符识别（OCR）/视觉识别功能，还能生成相关成果。'
 author: AI
 type: auto

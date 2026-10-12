@@ -1,7 +1,7 @@
 ---
 uid: 1786577077607003
 title: 'Obsidian 插件：Excalidraw Extras'
-tags: ['第三方工具集成', '图表与可视化', '白板学术与科研', '编辑工具', '效率工具', 'obsidian插件']
+tags: ['第三方工具集成', '图表与可视化', '白板', '编辑工具', '效率工具', 'obsidian插件']
 description: 'Excalidraw高权限和大型组件的配套插件。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

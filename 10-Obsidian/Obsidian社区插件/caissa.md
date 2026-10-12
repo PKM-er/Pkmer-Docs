@@ -1,7 +1,7 @@
 ---
 uid: 1780392510980001
 title: 'Obsidian 插件：Caissa'
-tags: ['学习与教育', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+tags: ['学习与教育', '第三方工具集成', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核哦。你可以在你的仓库里研究国际象棋啦。能嵌入棋局位置、研究开局和残局、浏览世界冠军赛的棋局、给PGN文件做注解，还能探索Lichess的开局统计数据呢。'
 author: AI
 type: auto

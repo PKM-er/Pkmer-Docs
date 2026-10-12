@@ -1,7 +1,7 @@
 ---
 uid: 2024052909074497
 title: Obsidian 插件：Text Conversions
-tags: ['文本处理', '编辑工具', '数据分析', 'obsidian插件']
+tags: ['文字处理', '编辑工具', '数据分析', 'obsidian插件']
 description: 对所选文本执行各种文本转换操作
 author: AI
 type: auto

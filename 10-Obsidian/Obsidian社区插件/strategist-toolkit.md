@@ -1,7 +1,7 @@
 ---
 uid: 1780392512086001
 title: 'Obsidian 插件：Strategist Toolkit'
-tags: ['图表与可视化', '模板与链接处理', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['图表与可视化', '模板与链接处理', '效率工具', '学术与科研', 'obsidian插件']
 description: '这个插件还未经Obsidian工作人员人工审核。能在新的画布文件里生成一份商业模式画布布局。'
 author: AI
 type: auto

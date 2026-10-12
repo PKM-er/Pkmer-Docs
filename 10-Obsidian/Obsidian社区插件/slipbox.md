@@ -1,7 +1,7 @@
 ---
 uid: 1791709370033000
 title: 'Obsidian 插件：Slipbox Desk'
-tags: ['效率工具', '白板学术与科研', '文件管理', 'obsidian插件']
+tags: ['效率工具', '学术与科研', '文件管理', 'obsidian插件']
 description: 'A paper-like Zettelkasten: addressed cards, a browsable sequence, and a desk to lay them out on. - This plugin has not been manually reviewed by Obsidian staff.'
 author: AI
 type: auto

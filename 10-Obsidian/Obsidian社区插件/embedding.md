@@ -1,7 +1,7 @@
 ---
 uid: 1780392511074000
 title: 'Obsidian 插件：Embedding'
-tags: ['搜索与排序', '数据分析', '自动化与AI', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['搜索与排序', '数据分析', '自动化与AI', '学习与教育', '学术与科研', 'obsidian插件']
 description: '它可以利用嵌入技术实现笔记的语义相似度分析。'
 author: AI
 type: auto

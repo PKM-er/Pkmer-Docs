@@ -1,7 +1,7 @@
 ---
 uid: 1786577083915008
 title: 'Obsidian 插件：Zotero Highlights Sync'
-tags: ['第三方工具集成', '学习与教育', '白板学术与科研', 'zotero', '效率工具', 'obsidian插件']
+tags: ['第三方工具集成', '学习与教育', '学术与科研', 'zotero', '效率工具', 'obsidian插件']
 description: '创建关联的书籍笔记并同步Zotero的PDF注释。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

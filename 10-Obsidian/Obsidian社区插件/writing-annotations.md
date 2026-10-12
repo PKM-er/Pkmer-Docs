@@ -1,7 +1,7 @@
 ---
 uid: 1780392512232000
 title: 'Obsidian 插件：Writing Annotations'
-tags: ['文字处理', '编辑工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['文字处理', '编辑工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '注释与脚注'
 author: AI
 type: auto

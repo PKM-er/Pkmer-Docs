@@ -1,7 +1,7 @@
 ---
 uid: 1780392510935000
 title: 'Obsidian 插件：Auto LLM Wiki'
-tags: ['自动化与AI', '效率工具', '白板学术与科研', '数据处理', 'obsidian插件']
+tags: ['自动化与AI', '效率工具', '学术与科研', '数据处理', 'obsidian插件']
 description: '可以借助人工智能辅助的内容导入、查询、检查以及文件更改预览功能，维护一个Karpathy风格的大语言模型（LLM）维基知识库。'
 author: AI
 type: auto

@@ -1,7 +1,7 @@
 ---
 uid: 1786577082119000
 title: 'Obsidian 插件：RChery'
-tags: ['表格', '数据处理', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+tags: ['表格', '数据处理', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 description: '简单的 RChery 计分卡，可同步到 Markdown 笔记。——这款插件尚未经过 Obsidian 工作人员的人工审核。'
 author: AI
 type: auto

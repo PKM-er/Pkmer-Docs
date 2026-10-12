@@ -1,7 +1,7 @@
 ---
 uid: 1786577081344002
 title: 'Obsidian 插件：PDF Scholia Scribe'
-tags: ['图片与PDF', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+tags: ['图片与PDF', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 description: '专为Obsidian打造的、聚焦于引用的PDF注释与笔记关联插件。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

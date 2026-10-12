@@ -1,7 +1,7 @@
 ---
 uid: 2026022517443296
 title: 'Obsidian 插件：Timelog'
-tags: ['日历与时间', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+tags: ['日历与时间', '编辑工具', '效率工具', '学术与科研', 'obsidian插件']
 description: '给日期标题下的条目添加时间戳，实现实验室笔记风格的记录。'
 author: AI
 type: auto

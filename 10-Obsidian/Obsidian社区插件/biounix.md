@@ -1,7 +1,7 @@
 ---
 uid: 1786577076379003
 title: 'Obsidian 插件：BioUnix'
-tags: ['编程与脚本', '自动化与AI', '自定义命令', '数据分析', '白板学术与科研', 'obsidian插件']
+tags: ['编程与脚本', '自动化与AI', '自定义命令', '数据分析', '学术与科研', 'obsidian插件']
 description: '运行生物信息学命令，和智能代理聊天，还能浏览BioUnix里的技能和记忆内容。——此插件尚未经过Obsidian官方人员的人工审核。'
 author: AI
 type: auto

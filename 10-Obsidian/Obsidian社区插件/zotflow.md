@@ -1,7 +1,7 @@
 ---
 uid: 1780392512249001
 title: 'Obsidian 插件：ZotFlow'
-tags: ['第三方工具集成', '图片与PDF', '学习与教育', 'zotero', '白板学术与科研', 'obsidian插件']
+tags: ['第三方工具集成', '图片与PDF', '学习与教育', 'zotero', '学术与科研', 'obsidian插件']
 description: '这个插件还没经过Obsidian官方人员的人工审核哦。让你的研究保持流畅！#Zotero #PDF #批注'
 author: AI
 type: auto
