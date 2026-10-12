@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Syncthing Integration
 > - 插件作者：LBF38
 > - 插件说明：Obsidian 中的 Syncthing 集成。
-> - 插件分类：[' 第三方工具集成 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/LBF38/obsidian-syncthing-integration)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?syncthing-integration)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/LBF38/obsidian-syncthing-integration/master/README.md)

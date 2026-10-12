@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：NotePack CODEX
 > - 插件作者：Achmage
 > - 插件说明：这是一个以看板优先的思维工作台，能借助安静运行的人工智能进行内容丰富，还能为每条笔记生成卡片包。
-> - 插件分类：['自动化与AI', '效率工具', '白板学术与科研', '思维导图', 'obsidian插件']
+> - 插件分类：['自动化与AI', '效率工具', '学术与科研', '思维导图', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/laguna821/Obsidian_NotePack-CODEX)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?achmage-notepack-codex)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/laguna821/Obsidian_NotePack-CODEX/master/README.md)

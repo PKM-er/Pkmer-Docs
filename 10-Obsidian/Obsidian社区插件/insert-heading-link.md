@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Insert Heading Link
 > - 插件作者：Signynt
 > - 插件说明：添加一个命令来创建一个链接到标题。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Signynt/insert-heading-link)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?insert-heading-link)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Signynt/insert-heading-link/master/README.md)

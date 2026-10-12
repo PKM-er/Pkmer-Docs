@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Status Bar Organizer
 > - 插件作者：Kacper Darowski
 > - 插件说明：重新排列和隐藏状态栏元素。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Opisek/obsidian-statusbar-organizer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?statusbar-organizer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Opisek/obsidian-statusbar-organizer/master/README.md)

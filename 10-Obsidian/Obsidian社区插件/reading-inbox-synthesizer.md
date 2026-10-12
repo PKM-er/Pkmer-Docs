@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Reading Inbox Synthesizer
 > - 插件作者：ibrh96-prog
 > - 插件说明：把你积压的网页剪藏转化为阅读记忆：批量总结、跨文章主题分析，还有每周摘要。——此插件尚未经过 Obsidian 官方人员的人工审核。
-> - 插件分类：['学习与教育', '自动化与AI', '效率工具', '数据分析', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '效率工具', '数据分析', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ibrh96-prog/obsidian-reading-inbox-synthesizer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?reading-inbox-synthesizer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ibrh96-prog/obsidian-reading-inbox-synthesizer/master/README.md)

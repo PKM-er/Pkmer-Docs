@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Meeting notes
 > - 插件作者：Tim Hiller
 > - 插件说明：自动在指定文件夹中创建会议笔记。
-> - 插件分类：[' 任务管理 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/TimHi/obsidian-meeting-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-meeting-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/TimHi/obsidian-meeting-notes/master/README.md)

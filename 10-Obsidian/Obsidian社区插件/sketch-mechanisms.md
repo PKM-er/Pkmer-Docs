@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sketch Mechanisms
 > - 插件作者：Masoud Masoumi
 > - 插件说明：通过简单的代码块就能实现二维机械结构（四杆机构、曲柄滑块机构、齿轮、凸轮、摆锤、弹簧）的实时手绘动画效果。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['图表与可视化', '编程与脚本', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '编程与脚本', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/masoudmim/sketch-mechanisms)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sketch-mechanisms)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/masoudmim/sketch-mechanisms/master/README.md)

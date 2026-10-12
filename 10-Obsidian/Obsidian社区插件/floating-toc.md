@@ -20,7 +20,7 @@ Floating Toc 插件能实现悬浮目录。悬浮目录的效果近似你在其�
 > - 插件名称：Floating TOC
 > - 插件作者：Benny Wydooghe
 > - 插件说明：在笔记一侧生成悬浮目录，效果近似你在其他在线文档中看到的
-> - 插件分类：[' 目录/标题 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '目录', '悬浮目录']
 > - 插件项目地址：[点我跳转](https://github.com/cumany/obsidian-floating-toc-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?floating-toc)
 

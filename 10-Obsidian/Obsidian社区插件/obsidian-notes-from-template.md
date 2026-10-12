@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：From Template
 > - 插件作者：mo-seph
 > - 插件说明：从模板创建新笔记 - 为每个模板提供一个触发它的命令，以及一个填写模板中任何变量的表单。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mo-seph/obsidian-note-from-template)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-notes-from-template)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mo-seph/obsidian-note-from-template/master/README.md)

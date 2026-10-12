@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Auto Filename
 > - 插件作者：rcsaquino
 > - 插件说明：根据文件的前 x 个字符，在进行操作时自动重命名文件。
-> - 插件分类：[' 文件管理 ', ' 编辑工具 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编辑工具', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rcsaquino/obsidian-auto-filename)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-filename)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rcsaquino/obsidian-auto-filename/main/README.md)

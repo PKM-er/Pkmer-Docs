@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Scholar
 > - 插件作者：Shannon Shen
 > - 插件说明：管理研究图书馆并优化研究工作流程。
-> - 插件分类：[' 第三方工具集成 ', ' 搜索 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '搜索', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lolipopshock/obsidian-scholar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?scholar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lolipopshock/obsidian-scholar/main/README.md)

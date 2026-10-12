@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Etymology Lookup
 > - 插件作者：Claire Froelich
 > - 插件说明：从在线词源词典中获取你笔记中单词的词源。
-> - 插件分类：[' 搜索与排序 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/clairefro/obsidian-plugin-etymology-lookup)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?etymology-lookup)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/clairefro/obsidian-plugin-etymology-lookup/main/README.md)

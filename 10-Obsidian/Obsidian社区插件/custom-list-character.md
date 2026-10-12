@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Custom list character
 > - 插件作者：Lilian POULIQUEN
 > - 插件说明：添加了在创建项目符号列表时选择使用的字符的功能，可以选择 '-'、'*' 和 '+' 之间的字符。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lilian-pouliquen/obsidian-custom-list-character)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?custom-list-character)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lilian-pouliquen/obsidian-custom-list-character/master/README.md)

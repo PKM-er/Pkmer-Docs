@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dashing Cursor
 > - 插件作者：Shukai Ni
 > - 插件说明：使光标跟随页面滚动而闪烁
-> - 插件分类：[' 样式与美化 ', ' 滚动 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '滚动', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/9r0x/obsidian-dashing-cursor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dashing-cursor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/9r0x/obsidian-dashing-cursor/master/README.md)

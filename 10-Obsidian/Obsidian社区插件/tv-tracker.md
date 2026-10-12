@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TV tracker
 > - 插件作者：Shreshth Mehra
 > - 插件说明：一部电影和电视节目追踪器。
-> - 插件分类：[' 任务管理 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Shreshth-mehra/Obsidian-TV-Tracker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tv-tracker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Shreshth-mehra/Obsidian-TV-Tracker/main/README.md)

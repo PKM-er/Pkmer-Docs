@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Spellcheck Toggler
 > - 插件作者：Julian Szachowicz
 > - 插件说明：在编辑视图中为文本块类型切换拼写检查。
-> - 插件分类：[' 编辑工具 ', ' 搜索 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '搜索', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/julzerinos/spellcheck-toggler-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?spellcheck-toggler)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/julzerinos/spellcheck-toggler-obsidian-plugin/main/README.md)

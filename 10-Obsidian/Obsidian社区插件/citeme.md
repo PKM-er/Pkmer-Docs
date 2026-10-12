@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：CiteMe - Academic Citations
 > - 插件作者：danielnichiata96
 > - 插件说明：这个插件还未经Obsidian官方人员手动审核。可以从11个以上的数据库中搜索并插入格式化的学术引用。有43种引用风格，还能给出配额提示反馈，并且有免费版和专业版支持。
-> - 插件分类：['学习与教育', '第三方工具集成', '文字处理', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '第三方工具集成', '文字处理', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/danielnichiata96/obsidian-citeme)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?citeme)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/danielnichiata96/obsidian-citeme/master/README.md)

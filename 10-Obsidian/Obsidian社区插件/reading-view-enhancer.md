@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Reading View Enhancer
 > - 插件作者：Galacsh
 > - 插件说明：增强阅读视图。使用箭头键折叠/展开元素。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Galacsh/obsidian-reading-view-enhancer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?reading-view-enhancer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Galacsh/obsidian-reading-view-enhancer/master/README.md)

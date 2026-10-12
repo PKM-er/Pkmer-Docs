@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：nanalStamp
 > - 插件作者：HanSeop Kwak
 > - 插件说明：用与比特币挂钩的防篡改、内容隐私时间戳为每篇笔记盖章——为你的研究笔记提供存在证明和完整的每日编辑历史记录。 - 此插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['安全与隐私', '白板学术与科研', '效率工具', '日历与时间', 'obsidian插件']
+> - 插件分类：['安全与隐私', '学术与科研', '效率工具', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hskwak82/nanalstamp-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?nanalstamp)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hskwak82/nanalstamp-obsidian/master/README.md)

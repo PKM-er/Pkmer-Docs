@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Solve
 > - 插件作者：Liam Riddell
 > - 插件说明：您的数学大师！实时计算，无需 AI（例如 ChatGPT）的麻烦。从日期魔法（例如 ' 现在 + 20 天 '）到算术技巧（例如 '10 + 5 / (2 * 2)'），您在每个笔记中都可以信赖的助手。更多的才华即将展现！
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/LiamRiddell/obsidian-solve)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?solve)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/LiamRiddell/obsidian-solve/main/README.md)

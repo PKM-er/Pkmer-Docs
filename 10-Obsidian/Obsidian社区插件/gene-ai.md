@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Gene 🧬
 > - 插件作者：Matiss Jurevics
 > - 插件说明：使用 OpenAI API 生成文本的插件。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MatissJurevics/Gene-AI)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gene-ai)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MatissJurevics/Gene-AI/master/README.md)

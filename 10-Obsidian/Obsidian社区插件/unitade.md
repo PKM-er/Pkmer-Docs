@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Unitade
 > - 插件作者：Falcion
 > - 插件说明：毫不费力地将任何文件扩展名视为笔记，并在您的保险库中组织各种文件格式。
-> - 插件分类：[' 编辑工具 ', ' 文件管理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文件管理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Falcion/UnitadeOBSIDIAN)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?unitade)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Falcion/UNITADE.md/main/README.md)

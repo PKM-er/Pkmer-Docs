@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Local GraphQL
 > - 插件作者：Hawtian Wang
 > - 插件说明：将 Obsidian 数据导出为本地 GraphQL 服务器。
-> - 插件分类：[' 第三方工具集成 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/TwIStOy/obsidian-local-graphql)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?local-graphql)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/TwIStOy/obsidian-local-graphql/master/README.md)

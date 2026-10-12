@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Orion Publish
 > - 插件作者：Sean Collings
 > - 插件说明：快速轻松地使用 Orion Publish 将您的笔记发布到网络上。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/seanrcollings/orion-publish-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?orion-publish)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/seanrcollings/orion-publish-plugin/main/README.md)

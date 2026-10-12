@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Snippet Downloader
 > - 插件作者：Mara-Li
 > - 插件说明：一个黑曜石插件，可以帮助从仓库中管理 CSS 片段（下载/更新）
-> - 插件分类：[' 文件管理 ', ' 编程与脚本 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编程与脚本', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Lisandra-dev/obsidian-snippet-downloader)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-snippet-downloader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mara-Li/obsidian-snippet-downloader/master/README.md)

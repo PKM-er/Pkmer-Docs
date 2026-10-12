@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Another Quick Switcher
 > - 插件作者：tadashi-aikawa
 > - 插件说明：这是一个 Obsidian 插件，是另一种快速切换的选择。
-> - 插件分类：[' 快捷键 ', ' 界面优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '界面优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-another-quick-switcher)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/README.md)

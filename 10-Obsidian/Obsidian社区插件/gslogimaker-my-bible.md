@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：My Bible
 > - 插件作者：GsLogimaker
 > - 插件说明：您自己可定制的 Markdown 圣经，适用于您的个人保险库！
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/GsLogiMaker/my-bible-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gslogimaker-my-bible)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/GsLogiMaker/my-bible-obsidian-plugin/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tagged Documents Viewer
 > - 插件作者：Marcus Geduld
 > - 插件说明：打开一个模态窗口，其中包含所有包含特定标签或标签的文档的可滚动内容。
-> - 插件分类：[' 搜索与排序 ', ' 标签 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '标签', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mgeduld/obsidian-tagged-documents-viewer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-plugin-tagged-documents-viewer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgeduld/obsidian-tagged-documents-viewer/master/README.md)

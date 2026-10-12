@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Better MathJax
 > - 插件作者：GreasyCat
 > - 插件说明：提供数学自动完成和可自定义的代码片段。
-> - 插件分类：[' 编程与脚本 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['编程与脚本', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/greasycat/BetterMathjax)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-mathjax)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/greasycat/BetterMathjax/master/README.md)

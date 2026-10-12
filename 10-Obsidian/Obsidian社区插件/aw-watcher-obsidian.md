@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ActivityWatch
 > - 插件作者：Grimmauld
 > - 插件说明：这是一个插件，用于在 ActivityWatch 和 Obsidian 之间建立兼容性桥梁，以允许详细跟踪在 Obsidian 中花费的时间。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/LordGrimmauld/aw-watcher-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?aw-watcher-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/LordGrimmauld/aw-watcher-obsidian/master/README.md)

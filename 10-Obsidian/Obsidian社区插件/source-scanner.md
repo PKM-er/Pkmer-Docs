@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Source Scanner
 > - 插件作者：Gerrie Myburgh
 > - 插件说明：从源代码中提取注释并将其放置在 md 文件中的扫描器
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gerrie-myburgh/source-scanner)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?source-scanner)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gerrie-myburgh/source-scanner/master/README.md)

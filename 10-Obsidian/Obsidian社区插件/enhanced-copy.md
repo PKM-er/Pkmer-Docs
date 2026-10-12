@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Enhanced Copy
 > - 插件作者：Mara-Li
 > - 插件说明：复制您的选择并添加一些编辑以粘贴到其他 markdown 软件中。允许在阅读视图中保留 markdown，编辑时删除 wikilinks，从锁定的画布复制，等等！
-> - 插件分类：[' 编辑工具 ', ' 复制粘贴 ', 'markdown', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '复制粘贴', 'markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Lisandra-dev/obsidian-enhanced-copy)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?enhanced-copy)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mara-Li/obsidian-enhanced-copy/master/README.md)

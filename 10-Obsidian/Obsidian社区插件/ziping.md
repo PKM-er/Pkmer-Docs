@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ziping
 > - 插件作者：Sofqi
 > - 插件说明：子平八字布局插件
-> - 插件分类：['白板学术与科研', '学习与教育', '效率工具', 'obsidian插件']
+> - 插件分类：['学术与科研', '学习与教育', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dyse-sofqi/ziping)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ziping)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dyse-sofqi/ziping/master/README.md)

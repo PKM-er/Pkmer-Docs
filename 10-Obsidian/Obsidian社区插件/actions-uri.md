@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Actions URI
 > - 插件作者：Carlo Zottmann
 > - 插件说明：在应用程序中增加了额外的 `x-callback-url` 端点，用于常见的操作 -- 它是黑曜石 URI 的一个干净、超强的补充。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/czottmann/obsidian-actions-uri)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?actions-uri)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/czottmann/obsidian-actions-uri/main/README.md)

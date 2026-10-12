@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MathLinks
 > - 插件作者：Zhaoshen Zhai
 > - 插件说明：在你的链接中渲染 MathJax
-> - 插件分类：[' 数学与金融 ', ' 模板与链接处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数学与金融', '模板与链接处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zhaoshenzhai/obsidian-mathlinks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mathlinks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zhaoshenzhai/obsidian-mathlinks/master/README.md)

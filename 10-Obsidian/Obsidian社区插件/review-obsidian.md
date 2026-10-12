@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Review
 > - 插件作者：ryanjamurphy
 > - 插件说明：允许你将当前的笔记添加到未来的笔记 (或者过去的笔记。以确保你在指定的日期，有机会再次能够回顾该笔记。
-> - 插件分类：[' 任务管理 ', ' 日历与时间 ', ' 笔记管理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '日历与时间', '笔记管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ryanjamurphy/review-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?review-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/review-obsidian/master/README.md)

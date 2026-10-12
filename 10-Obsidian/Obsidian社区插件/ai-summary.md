@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI Notes Summary
 > - 插件作者：R. Ian Bull (irbull)
 > - 插件说明：使用 OpenAI 生成对参考笔记的摘要。
-> - 插件分类：[' 数据处理 ', ' 自动化与 AI', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '自动化与AI', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/irbull/obsidian-ai-summary)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-summary)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/irbull/obsidian-ai-summary/main/README.md)

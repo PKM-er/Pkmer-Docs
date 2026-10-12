@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Paste image rename
 > - 插件作者：Reorx
 > - 插件说明：粘贴后重命名图像，支持命名模式和自动重命名。
-> - 插件分类：[' 文件管理 ', ' 图片与 PDF', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '图片与PDF', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/reorx/obsidian-paste-image-rename)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-paste-image-rename)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/reorx/obsidian-paste-image-rename/master/README.md)

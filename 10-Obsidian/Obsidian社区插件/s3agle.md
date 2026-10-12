@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：S3agle
 > - 插件作者：Turner Monroe (turnercore)
 > - 插件说明：使用 S3 提供商和/或 Eagle 来管理本地和远程的保险柜附件。
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/turnercore/s3agle)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?s3agle)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/turnercore/s3agle/main/README.md)

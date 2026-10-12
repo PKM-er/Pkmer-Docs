@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Create List of Notes
 > - 插件作者：Andrew Heekin
 > - 插件说明：在父文件夹中创建一个包含笔记的项目列表，并在 YAML 前置内容之后将其添加到当前笔记内容前。
-> - 插件分类：[' 编辑工具 ', ' 笔记与日志 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '笔记与日志', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/andrewheekin/obsidian-create-note-list)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?create-note-list)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/andrewheekin/obsidian-create-note-list/main/README.md)

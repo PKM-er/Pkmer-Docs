@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Folder Note Core
 > - 插件作者：AidenLx
 > - 插件说明：提供文件夹笔记的核心功能和 API
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aidenlx/folder-note-core)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?folder-note-core)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aidenlx/folder-note-core/master/README.md)

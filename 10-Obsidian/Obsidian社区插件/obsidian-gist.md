@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Gist
 > - 插件作者：Jun Lin
 > - 插件说明：这是一个用于显示 GitHub Gist 的插件。
-> - 插件分类：[' 第三方工具集成 ', 'Markdown', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', 'Markdown', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/linjunpop/obsidian-gist)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-gist)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/linjunpop/obsidian-gist/master/README.md)

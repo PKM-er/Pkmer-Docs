@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Auto Split
 > - 插件作者：James Sartelle
 > - 插件说明：使用分割编辑器和预览打开笔记
-> - 插件分类：[' 编辑工具 ', ' 界面优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '界面优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jsartelle/obsidian-auto-split)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-auto-split)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jsartelle/obsidian-auto-split/master/README.md)

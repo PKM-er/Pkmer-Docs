@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Path Title
 > - 插件作者：Justin Deal
 > - 插件说明：将路径（或可选替换）添加到每个窗格的文件名标题
-> - 插件分类：[' 文件管理 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jdeal/obsidian-path-title-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-path-title)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jdeal/obsidian-path-title-plugin/main/README.md)

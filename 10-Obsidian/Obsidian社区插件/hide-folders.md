@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hide Folders
 > - 插件作者：JonasDoesThings
 > - 插件说明：根据配置的名称，快速切换文件导航器中特定文件夹的可见性。对于隐藏附件文件夹非常有用。
-> - 插件分类：[' 文件管理 ', ' 界面优化 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '界面优化', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JonasDoesThings/obsidian-hide-folders)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hide-folders)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JonasDoesThings/obsidian-hide-folders/master/README.md)

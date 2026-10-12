@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Text Extractor
 > - 插件作者：Simon Cambier
 > - 插件说明：一个（伴侣）插件，用于帮助从图像（OCR）和 PDF 中提取文本。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/scambier/obsidian-text-extractor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?text-extractor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/scambier/obsidian-text-extractor/master/README.md)

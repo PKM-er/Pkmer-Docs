@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Visual Notes
 > - 插件作者：dandersondev
 > - 插件说明：这是一个基于Obsidian画布格式构建的可视化工作空间，有可嵌套的自由式面板、图标方块网格、看板、便利贴、待办清单、列布局、画笔绘图、标签、互动反馈等功能。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['图表与可视化', '编辑工具', '任务管理', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['图表与可视化', '编辑工具', '任务管理', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dandersondev/visual-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?visual-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dandersondev/visual-notes/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Change Case
 > - 插件作者：David Brockman
 > - 插件说明：插件可让您更改当前选择的大小写（大写，驼峰式，蛇形命名等）。
-> - 插件分类：[' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dbrockman/obsidian-change-case)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?change-case)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dbrockman/obsidian-change-case/master/README.md)

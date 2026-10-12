@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tldraw
 > - 插件作者：Sam Alhaqab
 > - 插件说明：将 Tldraw 集成到 Obsidian 中，允许用户在虚拟白板上绘制和编辑内容。
-> - 插件分类：[' 界面优化 ', ' 白板 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '白板', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/holxsam/tldraw-in-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tldraw)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/holxsam/tldraw-in-obsidian/main/README.md)

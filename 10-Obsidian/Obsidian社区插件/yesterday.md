@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Yesterday
 > - 插件作者：Dominik Mayer
 > - 插件说明：将您的笔记转化为视觉上令人惊叹的日记，集成对话、聊天记录和媒体内容块，实现无缝的记录体验。
-> - 插件分类：[' 界面优化 ', ' 文字处理 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文字处理', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dominikmayer/obsidian-yesterday)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?yesterday)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dominikmayer/obsidian-yesterday/master/README.md)

@@ -20,7 +20,7 @@ modified: 20230911162316
 > - 插件名称：Natural Language Dates
 > - 插件作者：argenos
 > - 插件说明：使用自然语言插入时间戳，并链接对应笔记中。
-> - 插件分类：[' 日期相关 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '日期', '编辑', '效率']
 > - 插件项目地址：[点我跳转](https://github.com/argenos/nldates-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?nldates-obsidian)
 

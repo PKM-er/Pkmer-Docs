@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Desmos
 > - 插件作者：Nigecat
 > - 插件说明：将 Desmos 图形嵌入您的笔记中
-> - 插件分类：[' 第三方工具集成 ', ' 图表与可视化 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '图表与可视化', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Nigecat/obsidian-desmos)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-desmos)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Nigecat/obsidian-desmos/master/README.md)

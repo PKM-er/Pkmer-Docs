@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Bulk Exporter
 > - 插件作者：symunona
 > - 插件说明：使用元数据从您的保险库中筛选和导出笔记，以创建一个可自定义的新结构。
-> - 插件分类：[' 搜索与排序 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/symunona/obsidian-bulk-exporter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bulk-exporter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/symunona/obsidian-bulk-exporter/main/README.md)

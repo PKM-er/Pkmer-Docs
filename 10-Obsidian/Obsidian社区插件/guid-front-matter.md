@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Add an ID to the front matter
 > - 插件作者：llimllib
 > - 插件说明：为每个 markdown 文档的前置元数据添加一个全局唯一的 ID。
-> - 插件分类：[' 编辑工具 ', ' 笔记与日志 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '笔记与日志', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/llimllib/obsidian-guid-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?guid-front-matter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/llimllib/obsidian-guid-plugin/master/README.md)

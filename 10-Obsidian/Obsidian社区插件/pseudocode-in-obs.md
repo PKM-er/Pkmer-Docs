@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pseudocode
 > - 插件作者：Yaotian Liu
 > - 插件说明：帮助在代码块中渲染类似 LaTeX 风格的伪代码。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ytliu74/obsidian-pseudocode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pseudocode-in-obs)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ytliu74/obsidian-pseudocode/master/README.md)

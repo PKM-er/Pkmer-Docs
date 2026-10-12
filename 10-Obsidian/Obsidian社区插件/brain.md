@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：brAIn
 > - 插件作者：lusob
 > - 插件说明：一个由 ChatGPT 驱动的聊天机器人，专注于回答你在 Obsidian vault 笔记中的问题。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lusob/obsidian-brain)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?brain)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lusob/obsidian-brain/master/README.md)

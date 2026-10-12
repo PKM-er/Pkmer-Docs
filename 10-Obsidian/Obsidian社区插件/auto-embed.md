@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Auto Embed
 > - 插件作者：GnoxNahte
 > - 插件说明：帮助使用 markdown 而不是 iframe 嵌入链接。
-> - 插件分类：[' 链接 ', ' 样式与美化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['链接', '样式与美化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/GnoxNahte/obsidian-auto-embed)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-embed)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/GnoxNahte/obsidian-auto-embed/main/README.md)

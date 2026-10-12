@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Edit Gemini
 > - 插件作者：Basil_Mori
 > - 插件说明：允许用户编辑和创建 .gmi 文件。
-> - 插件分类：[' 编辑工具 ', ' 文件管理 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文件管理', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Basil-Mori/obsidian-edit-gemini)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?edit-gemini)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Basil-Mori/obsidian-edit-gemini/master/README.md)

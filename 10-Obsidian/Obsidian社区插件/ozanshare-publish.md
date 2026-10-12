@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：OzanShare Publish
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：从你的保险库一键发布你的 markdown 笔记。（封闭源）
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ozntel/ozanshare-publish-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ozanshare-publish)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/README.md)

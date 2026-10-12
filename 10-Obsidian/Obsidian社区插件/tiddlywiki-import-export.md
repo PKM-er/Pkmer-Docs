@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Import/Export TiddlyWiki
 > - 插件作者：Lucas Bordeau
 > - 插件说明：从 Obsidian 导入和导出 TiddlyWiki。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lucasbordeau/obsidian-tiddlywiki)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tiddlywiki-import-export)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucasbordeau/obsidian-tiddlywiki/master/README.md)

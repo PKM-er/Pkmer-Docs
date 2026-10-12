@@ -16,7 +16,7 @@ modified: 20250606113048
 > - 插件名称：Note Sync
 > - 插件作者：ZigHolding
 > - 插件说明：在各个仓库之间同步笔记或插件。
-> - 插件分类：[' 文件管理 ', ' 第三方工具集成 ', ' 备份与恢复 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '第三方工具集成', '备份与恢复', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zigholding/obsidian-notesync-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zigholding/obsidian-notesync-plugin/main/README.md)

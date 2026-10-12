@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Google Calendar and Contacts Lookup
 > - 插件作者：ntawileh
 > - 插件说明：让你在 Obsidian 中使用你 Google 帐户的联系人和日历事件信息。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ntawileh/obsidian-google-lookup)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-google-lookup)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ntawileh/obsidian-google-lookup/main/README.md)

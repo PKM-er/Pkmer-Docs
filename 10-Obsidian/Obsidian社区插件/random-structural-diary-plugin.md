@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Random Structural Diary
 > - 插件作者：Timur Sidoriuk
 > - 插件说明：这是一个插件，用于从预先准备的问题列表中随机选择问题。它允许您每次回答不同的问题。
-> - 插件分类：[' 任务管理 ', ' 数据处理 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '数据处理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ShockThunder/RandomStructuralDiary)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?random-structural-diary-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ShockThunder/RandomStructuralDiary/master/README.md)

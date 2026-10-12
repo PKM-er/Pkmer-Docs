@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Colored Tags
 > - 插件作者：Pavel Frankov
 > - 插件说明：将不同的标签着色为不同的颜色。颜色取决于标签的内容。嵌套标签的颜色与父标签混合。文本颜色对比度会自动匹配，以符合 AA 级 WCAG 2.1 的要求。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pfrankov/obsidian-colored-tags)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?colored-tags)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pfrankov/obsidian-colored-tags/master/README.md)

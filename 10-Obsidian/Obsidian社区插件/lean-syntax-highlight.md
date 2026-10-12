@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Lean Syntax Highlight
 > - 插件作者：tomaz1502
 > - 插件说明：提供了对 Lean 编程语言的实时语法高亮显示
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tomaz1502/lean-syntax-highlight)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?lean-syntax-highlight)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tomaz1502/lean-syntax-highlight/main/README.md)

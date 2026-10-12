@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Full Screen Toggle
 > - 插件作者：Donkey Pacific
 > - 插件说明：在所有平台上切换全屏模式。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/DonkeyPacific/obsidian-full-screen-cross-platform-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?full-screen-cross-platform)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/DonkeyPacific/obsidian-full-screen-cross-platform-plugin/main/README.md)

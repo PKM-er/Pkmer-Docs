@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pivotal Tracker Integration
 > - 插件作者：jondeates
 > - 插件说明：从 Pivotal Tracker 中提取故事、错误和任务。
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', ' 任务管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', '任务管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jonnydeates/obsidian-pivotal-tracker-integration-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pivotal-tracker-integration)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JonnyDeates/obsidian-pivotal-tracker-integration-plugin/main/README.md)

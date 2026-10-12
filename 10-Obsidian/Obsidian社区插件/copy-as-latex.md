@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Copy as LaTeX
 > - 插件作者：mo-seph
 > - 插件说明：快速将 Markdown 复制为 Latex，带有引文的插件
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mo-seph/obsidian-copy-as-latex)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copy-as-latex)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mo-seph/obsidian-copy-as-latex/master/README.md)

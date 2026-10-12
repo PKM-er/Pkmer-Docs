@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Research Agent
 > - 插件作者：0126-hash
 > - 插件说明：这个插件还没经过Obsidian工作人员的人工审核。它是一个对话式研究助手，可用于引导研究流程、证据审查、事实核查以及生成Markdown成果。
-> - 插件分类：['学习与教育', '自动化与AI', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/0126-hash/obsidian-research-agent)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?research-agent)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/0126-hash/obsidian-research-agent/master/README.md)

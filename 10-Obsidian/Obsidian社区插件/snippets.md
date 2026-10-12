@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Snippets plugin
 > - 插件作者：Pelao
 > - 插件说明：这个插件允许你在 Obsidian 中运行一些简单的脚本，用于启动一些对应服务，如 Java、Python
-> - 插件分类：[' 编程 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编程', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cristianvasquez/obsidian-snippets-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?snippets)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cristianvasquez/obsidian-snippets-plugin/master/README.md)

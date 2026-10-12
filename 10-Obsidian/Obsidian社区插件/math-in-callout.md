@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Better Math in Callouts & Blockquotes
 > - 插件作者：Ryota Ushio
 > - 插件说明：在引用和块引用中添加更好的数学渲染支持的实时预览。
-> - 插件分类：[' 编辑工具 ', ' 自定义命令 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自定义命令', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/RyotaUshio/obsidian-math-in-callout)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?math-in-callout)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/RyotaUshio/obsidian-math-in-callout/master/README.md)

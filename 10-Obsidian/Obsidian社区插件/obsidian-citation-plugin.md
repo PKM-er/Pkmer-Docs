@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Citations
 > - 插件作者：Jon Gauthier
 > - 插件说明：将你的学术资料 在 Obsidian 中使用，如自动从 Zotero 库中搜索和插入引文。
-> - 插件分类：[' 搜索与排序 ', ' 第三方工具集成 ', 'zotero', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '第三方工具集成', 'zotero', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hans/obsidian-citation-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-citation-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hans/obsidian-citation-plugin/master/README.md)

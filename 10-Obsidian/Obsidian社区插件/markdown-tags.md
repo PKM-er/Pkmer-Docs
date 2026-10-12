@@ -16,7 +16,7 @@ modified: 20241211152336
 > - 插件名称：Markdown Tags
 > - 插件作者：John Smith III
 > - 插件说明：通过标签和箭头标签增强您的文档。使用预定义或自定义标签、可自定义颜色和箭头指示器，以直观地跟踪任务和状态。
-> - 插件分类：[' 标签管理 ', ' 数据处理 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/binarynoir/obsidian-markdown-tags)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-tags)
 

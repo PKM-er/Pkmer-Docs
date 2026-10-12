@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Chorded Hotkeys
 > - 插件作者：Trey Connor Meyers
 > - 插件说明：同时按下多个字母可以触发文本插入、模板插入或命令执行。
-> - 插件分类：[' 编辑工具 ', ' 模板与链接处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '模板与链接处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ConnorMeyers/obsidian-chorded-hotkeys)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-chorded-hotkeys)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ConnorMeyers/obsidian-chorded-hotkeys/master/README.md)

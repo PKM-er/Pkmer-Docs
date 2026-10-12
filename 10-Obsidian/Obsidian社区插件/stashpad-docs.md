@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Stashpad Docs
 > - 插件作者：Stashpad
 > - 插件说明：从您的笔记中创建一个 Stashpad 文档。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 链接 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '链接', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/stashpad/obsidian-to-stashpad)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?stashpad-docs)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/stashpad/obsidian-to-stashpad/main/README.md)

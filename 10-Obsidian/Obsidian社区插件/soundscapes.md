@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Soundscapes
 > - 插件作者：Andrew McGivery
 > - 插件说明：Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration
-> - 插件分类：[' 界面优化 ', ' 多媒体 ', ' 导航与状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '多媒体', '导航与状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/andrewmcgivery/obsidian-soundscapes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?soundscapes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/andrewmcgivery/obsidian-soundscapes/main/README.md)

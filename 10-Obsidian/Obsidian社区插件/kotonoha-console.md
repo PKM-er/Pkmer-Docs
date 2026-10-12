@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Kotonoha Console
 > - 插件作者：tomyuk
 > - 插件说明：在Obsidian中对Kotonoha语义谱系进行提案、RDE审计以及人工审批。——Obsidian工作人员尚未对该插件进行人工审核。
-> - 插件分类：['自动化与AI', '第三方工具集成', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '第三方工具集成', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zyx-corporation/obsidian-kotonoha-console)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?kotonoha-console)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zyx-corporation/obsidian-kotonoha-console/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Social Network Analysis
 > - 插件作者：fiddlestix27
 > - 插件说明：能在你的图谱视图里开展全面的社交网络分析，涵盖各种中心性度量、方向性分析，还能自定义图谱布局。——这款插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['数据分析', '图表与可视化', '图谱', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['数据分析', '图表与可视化', '图谱', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fiddlestix27/Obsidian-SNA)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?social-network-analysis)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fiddlestix27/Obsidian-SNA/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Date Inserter
 > - 插件作者：namikaze-40p
 > - 插件说明：在光标位置使用日历插入日期。
-> - 插件分类：[' 日历与时间 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/namikaze-40p/obsidian-date-inserter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?date-inserter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/namikaze-40p/obsidian-date-inserter/main/README.md)

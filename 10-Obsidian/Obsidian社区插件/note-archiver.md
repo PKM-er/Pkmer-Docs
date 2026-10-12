@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note archiver
 > - 插件作者：thenomadlad
 > - 插件说明：将您的笔记存档到另一个文件夹的工具
-> - 插件分类：[' 文件管理 ', ' 备份与恢复 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '备份与恢复', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/thenomadlad/obsidian-note-archiver)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-archiver)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/thenomadlad/obsidian-note-archiver/main/README.md)

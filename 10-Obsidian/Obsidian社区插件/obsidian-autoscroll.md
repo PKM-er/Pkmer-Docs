@@ -20,7 +20,7 @@ modified: 20240116141914
 > - 插件名称：Autoscroll
 > - 插件作者：Petr Nazarov
 > - 插件说明：.这个插件可以让你以指定的速度自动向下滚动内容。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/petr-nazarov/obsidian-autoscroll)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-autoscroll)
 

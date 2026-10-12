@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tracker+
 > - 插件作者：GreaterThan (original by pyrochlore)
 > - 插件说明：跟踪和可视化来自您的笔记的数据。与 Tracker Markdown 一起使用。
-> - 插件分类：[' 数据处理 ', ' 图表与可视化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '图表与可视化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/greater-than/Obsidian-Tracker-Plus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tracker-plus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/greater-than/Obsidian-Tracker-Plus/main/README.md)

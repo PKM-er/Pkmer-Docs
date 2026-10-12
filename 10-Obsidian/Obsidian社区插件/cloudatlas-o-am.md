@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Amazing Marvin Integration
 > - 插件作者：Cloud Atlas
 > - 插件说明：与 Amazing Marvin（非官方）集成。支持导出 AM 任务/项目，创建新任务和完成任务。
-> - 插件分类：[' 第三方工具集成 ', ' 任务管理 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '任务管理', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cloud-atlas-ai/obsidian-am)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cloudatlas-o-am)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cloud-atlas-ai/obsidian-am/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Code Files
 > - 插件作者：Lukas Bach
 > - 插件说明：在 Obsidian 中使用 VS Code 强大的 Monaco 编辑器编辑代码文件。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lukasbach/obsidian-code-files)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?code-files)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukasbach/obsidian-code-files/master/README.md)

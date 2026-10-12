@@ -24,7 +24,7 @@ modified: 20231121210947
 > - 插件名称：Obsidian Leaflet
 > - 插件作者：Jeremy Valentine
 > - 插件说明：在笔记中插入交互式地图，此地图基于 Leaflet.js。添加需要通过使用特定语法。
-> - 插件分类：[' 第三方工具集成 ', ' 图片 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：['Obsidian', '第三方工具集成', '图片', 'obsidian插件', 'Leaflet']
 > - 项目地址：[点我访问](https://github.com/javalent/obsidian-leaflet)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-leaflet-plugin)
 

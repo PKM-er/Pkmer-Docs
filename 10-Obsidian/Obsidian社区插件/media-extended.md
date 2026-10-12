@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Media Extended
 > - 插件作者：AidenLx
 > - 插件说明：改善 Obsidian 中的媒体（视频/音频）播放的体验，你可以通过简单的方法在 OB 中播放视频并添加时间戳来记录对应节点的笔记了。
-> - 插件分类：[' 多媒体 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['多媒体', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aidenlx/media-extended)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?media-extended)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/PKM-er/media-extended/main/README.md)

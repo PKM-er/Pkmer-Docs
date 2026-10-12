@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Display Relative Path Img
 > - 插件作者：Dyc
 > - 插件说明：显示<img>标签的图像
-> - 插件分类：[' 图片与 PDF', ' 样式与美化 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['图片与PDF', '样式与美化', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dyc2424748461/obsidian-display-relative-path-img)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?display-relative-path-img)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dyc2424748461/obsidian-display-relative-path-img/master/README.md)

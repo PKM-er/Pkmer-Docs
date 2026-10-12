@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pretty BibTeX
 > - 插件作者：Sandro Figo
 > - 插件说明：以更美观的方式显示原始 BibTeX 参考文献条目
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sandrofigo/obsidian-pretty-bibtex)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-pretty-bibtex)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sandrofigo/obsidian-pretty-bibtex/master/README.md)

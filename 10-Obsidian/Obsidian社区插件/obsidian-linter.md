@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Linter
 > - 插件作者：Victor Tao
 > - 插件说明：格式化和样式化你的笔记。它可用于格式化 YAML 标签、别名、数组和元数据；脚注；标题；间距；数学块；常规 markdown 内容，如列表、斜体和粗体样式；以及更多使用自定义规则选项。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/platers/obsidian-linter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-linter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/platers/obsidian-linter/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Advanced Slides
 > - 插件作者：MSzturc
 > - 插件说明：让 Obsidian 可以创建简易的演示文稿。
-> - 插件分类：[' 界面优化 ', ' 文字处理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文字处理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MSzturc/obsidian-advanced-slides)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-advanced-slides)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MSzturc/obsidian-advanced-slides/main/README.md)

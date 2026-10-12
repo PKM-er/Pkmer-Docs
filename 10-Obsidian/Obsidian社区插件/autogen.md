@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Autogen
 > - 插件作者：Aidan Tilgner
 > - 插件说明：在笔记中根据提示自动生成内容
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/AidanTilgner/AutogenObsidianPlugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?autogen)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/AidanTilgner/AutogenObsidianPlugin/master/README.md)

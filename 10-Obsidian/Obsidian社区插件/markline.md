@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markline
 > - 插件作者：闲耘
 > - 插件说明：Markdown 中的时间轴视图
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 日历与时间 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hotoo/obsidian-markline)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markline)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hotoo/obsidian-markline/master/README.md)

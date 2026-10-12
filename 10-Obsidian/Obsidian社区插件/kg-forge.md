@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Knowledge Forge
 > - 插件作者：Jimmi (Jimmycarroll2021)
 > - 插件说明：用三元组、来源信息、GraphRAG提示和能力问题，从你的仓库构建一个类型化知识图谱。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['图谱', '数据分析', '自动化与AI', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图谱', '数据分析', '自动化与AI', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jimmycarroll2021/obsidian-kg-forge)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?kg-forge)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jimmycarroll2021/obsidian-kg-forge/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MAKE.md
 > - 插件作者：MAKE.md
 > - 插件说明：Make.md 为你带来了超强的 Obsidian 体验增强功能。自定义顺序对你的文件进行排序，并使用 Spaces 添加文件图标。用 Flow 编辑器编辑内嵌文件。并使用 Maker Mode 为你的文本样式和添加新的 markdown 块而不需要写 markdown。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Make-md/makemd)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?make-md)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Make-md/makemd/main/README.md)

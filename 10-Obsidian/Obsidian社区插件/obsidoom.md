@@ -20,7 +20,7 @@ modified: 20240116180250
 > - 插件名称：ObsiDOOM
 > - 插件作者：twibiral
 > - 插件说明：在 Obsidian 应用中玩 DOOM 和许多其他复古游戏。您还可以玩波斯王子、格斗之王、侠盗猎车手、模拟城市和极品飞车。
-> - 插件分类：['obsidian 插件 ',' 游戏 ']
+> - 插件分类：['Obsidian', 'Obsidian插件', '游戏']
 > - 项目地址：[点我访问](https://github.com/twibiral/ObsiDOOM)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidoom)
 

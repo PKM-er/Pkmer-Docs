@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：macOS Keyboard Navigation
 > - 插件作者：ryanjamurphy
 > - 插件说明：这个插件恢复 macOS 默认键盘导航效果，特别是 alt+ 和 alt+，和 alt+shift+ 和 alt+shift+
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ryanjamurphy/macOS-keyboard-nav-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?macOS-keyboard-nav-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/macOS-keyboard-nav-obsidian/master/README.md)

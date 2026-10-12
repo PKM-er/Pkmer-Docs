@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Habitica Sync
 > - 插件作者：Leoh and Ran
 > - 插件说明：.这个插件可以帮助将 Habitica 用户任务和统计数据集成到 Obsidian 中。
-> - 插件分类：[' 第三方工具集成 ', ' 任务管理 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '任务管理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/SuperChamp234/habitica-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-habitica-integration)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/SuperChamp234/habitica-sync/main/README.md)

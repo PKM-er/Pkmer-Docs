@@ -20,7 +20,7 @@ modified: 20240830185047
 > - 插件名称：Fantasy name generator
 > - 插件作者：Lukewh
 > - 插件说明：插入一个随机组合出来的人名。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lukewh/fantasy-name)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?fantasy-name)
 

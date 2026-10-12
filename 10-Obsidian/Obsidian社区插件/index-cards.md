@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Index Cards
 > - 插件作者：Live A Quiet Life
 > - 插件说明：一款基于卡片的笔记系统，适用于研究和学习。你可以把想法和阅读笔记记录在虚拟索引卡片上，并按照项目和类别进行整理。——这款插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['学习与教育', '白板学术与科研', '效率工具', '文字处理', 'obsidian插件']
+> - 插件分类：['学习与教育', '学术与科研', '效率工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/liveaquietlife/obsidian-index-cards)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?index-cards)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/liveaquietlife/obsidian-index-cards/master/README.md)

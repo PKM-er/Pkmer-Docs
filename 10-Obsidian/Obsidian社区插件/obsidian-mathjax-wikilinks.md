@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MathJax WikiLinks
 > - 插件作者：Aaron Manning
 > - 插件说明：允许在 WikiLink 别名中渲染 MathJax。
-> - 插件分类：[' 数学公式 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['数学公式', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aaron-jack-manning/obsidian-mathjax-wikilinks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-mathjax-wikilinks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aaron-jack-manning/obsidian-mathjax-wikilinks/master/README.md)

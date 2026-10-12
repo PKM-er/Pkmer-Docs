@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ReallyGood Research
 > - 插件作者：reallygood83
 > - 插件说明：运行NotebookLM/Tavily风格的深度研究，并将Markdown和HTML内容发布到你的仓库中。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['第三方工具集成', '自动化与AI', '发布工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '自动化与AI', '发布工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/reallygood83/reallygood-research)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?reallygood-research)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/reallygood83/reallygood-research/master/README.md)

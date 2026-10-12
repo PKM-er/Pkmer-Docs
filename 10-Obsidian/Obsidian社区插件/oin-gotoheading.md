@@ -20,7 +20,7 @@ modified: 20231011164954
 > - 插件名称：Go To Heading
 > - 插件作者：join
 > - 插件说明：提供在笔记标题之间快速跳转的操作
-> - 插件分类：[' 标题 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['关系图谱', '美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/oin/obsidian-gotoheading)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gotoheading)
 

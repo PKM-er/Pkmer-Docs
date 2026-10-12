@@ -16,7 +16,7 @@ modified: 20240704233644
 > - 插件名称：Latex Matrices
 > - 插件作者：Daniele Susino
 > - 插件说明：加快 LaTeX 矩阵的编写速度。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', 'LaTeX', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', 'LaTeX', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Deltekk/Obsidian-Latex-Matrices)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?latex-matrices)
 

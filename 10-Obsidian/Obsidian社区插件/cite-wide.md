@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cite Wide
 > - 插件作者：lossless-group
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。这是一款Obsidian插件，能实现严谨的引用和参考文献管理。
-> - 插件分类：['学习与教育', '白板学术与科研', 'zotero', '效率工具', 'obsidian插件']
+> - 插件分类：['学习与教育', '学术与科研', 'zotero', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lossless-group/cite-wide)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cite-wide)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lossless-group/cite-wide/master/README.md)

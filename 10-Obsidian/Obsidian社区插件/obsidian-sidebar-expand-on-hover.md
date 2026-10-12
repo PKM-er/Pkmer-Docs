@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sidebar Expand on Hover
 > - 插件作者：Tousif Iqbal Anik (toiq)
 > - 插件说明：这个黑曜石插件可以根据鼠标悬停在左侧标签上展开或折叠侧边栏。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/toiq/obsidian-sidebar-expand-on-hover)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-sidebar-expand-on-hover)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/toiq/obsidian-sidebar-expand-on-hover/main/README.md)

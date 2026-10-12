@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Datetime Language Changer
 > - 插件作者：Zetab_S
 > - 插件说明：通过更改 moment.js 的区域设置，自定义日期时间格式化所使用的语言。
-> - 插件分类：[' 日期与时间 ', ' 多语言 ', 'obsidian 插件 ']
+> - 插件分类：['日期与时间', '多语言', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ZetabS/datetime-language-changer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?datetime-language-changer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ZetabS/datetime-language-changer/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Folder notes
 > - 插件作者：Lost Paul
 > - 插件说明：在文件夹内创建可以在不折叠文件夹的情况下访问的笔记，类似于 Notion 提供的功能。
-> - 插件分类：[' 编辑工具 ', ' 界面优化 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '界面优化', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/LostPaul/obsidian-folder-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?folder-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/LostPaul/obsidian-folder-notes/main/README.md)

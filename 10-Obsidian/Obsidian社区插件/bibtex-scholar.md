@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：BibTeX Scholar
 > - 插件作者：Qilong Liu
 > - 插件说明：这是一套完整的BibTeX引文管理方案，专为在笔记里进行上下文关联、流畅无阻的文献综述和论文写作而设计。
-> - 插件分类：['学习与教育', '文字处理', '第三方工具集成', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '文字处理', '第三方工具集成', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/liu-qilong/bibtex-scholar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bibtex-scholar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/liu-qilong/bibtex-scholar/master/README.md)

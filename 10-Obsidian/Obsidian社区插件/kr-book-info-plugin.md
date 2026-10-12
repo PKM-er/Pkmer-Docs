@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Korean Book Info Plugin
 > - 插件作者：kmsk99
 > - 插件说明：一个可以爬取 Yes24 获取书籍信息的插件。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kmsk99/kr-book-info-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?kr-book-info-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kmsk99/kr-book-info-plugin/master/README.md)

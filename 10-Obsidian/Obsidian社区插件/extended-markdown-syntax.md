@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Extended Markdown Syntax
 > - 插件作者：Kotaindah55
 > - 插件说明：使用分隔符而不是HTML标签扩展您的Markdown语法，例如下划线、上标、下标、高亮和剧透。
-> - 插件分类：['样式与美化', '编辑工具', '文本处理', 'obsidian插件']
+> - 插件分类：['样式与美化', '编辑工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kotaindah55/extended-markdown-syntax)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?extended-markdown-syntax)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kotaindah55/extended-markdown-syntax/main/README.md)

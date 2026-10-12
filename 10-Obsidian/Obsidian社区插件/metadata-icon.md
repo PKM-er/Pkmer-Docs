@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Metadata Icon
 > - 插件作者：Benature
 > - 插件说明：为您的属性设置自定义图标。
-> - 插件分类：[' 样式与美化 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Benature/obsidian-metadata-icon)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?metadata-icon)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Benature/obsidian-metadata-icon/master/README.md)

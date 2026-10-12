@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Blockquote Levels
 > - 插件作者：Carlo Zottmann
 > - 插件说明：添加命令用于增加/减少当前行或选择的引用块级别。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/czottmann/obsidian-blockquote-levels)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?blockquote-levels)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/czottmann/obsidian-blockquote-levels/main/README.md)

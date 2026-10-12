@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Merge Notes
 > - 插件作者：fnya
 > - 插件说明：合并所选的笔记。
-> - 插件分类：[' 编辑工具 ', ' 任务管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '任务管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fnya/merge-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?merge-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fnya/merge-notes/main/README.md)

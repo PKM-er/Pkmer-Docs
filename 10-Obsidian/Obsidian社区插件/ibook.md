@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ibook
 > - 插件作者：bingryan
 > - 插件说明：适用于 Apple ibook 的插件。
-> - 插件分类：[' 第三方工具集成 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/bingryan/obsidian-ibook-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ibook)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/bingryan/obsidian-ibook-plugin/master/README.md)

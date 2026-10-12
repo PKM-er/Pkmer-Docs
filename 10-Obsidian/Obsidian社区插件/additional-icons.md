@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Additional Icons
 > - 插件作者：Matthew Turk
 > - 插件说明：Adds additional iconsets to Obsidian
-> - 插件分类：[' 第三方工具集成 ', ' 样式与美化 ', ' 图表与可视化 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '样式与美化', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/matthewturk/obsidian-additional-icons)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?additional-icons)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/matthewturk/obsidian-additional-icons/master/README.md)

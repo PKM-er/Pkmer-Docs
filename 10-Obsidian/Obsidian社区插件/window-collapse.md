@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Window Collapse
 > - 插件作者：Guilherme Quental
 > - 插件说明：提供了一种简单的方法来折叠左右侧边栏，以扩大编辑其区域面积，而非进入全屏。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gquental/obsidian-window-collapse)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?window-collapse)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gquental/obsidian-window-collapse/master/README.md)

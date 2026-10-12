@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Graphviz
 > - 插件作者：Feng Peng
 > - 插件说明：渲染 Graphviz 图表
-> - 插件分类：[' 图表与可视化 ', ' 第三方工具集成 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['图表与可视化', '第三方工具集成', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/QAMichaelPeng/obsidian-graphviz)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-graphviz)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/QAMichaelPeng/obsidian-graphviz/main/README.md)

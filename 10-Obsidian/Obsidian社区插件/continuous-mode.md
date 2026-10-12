@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Continuous Mode
 > - 插件作者：Michael Schrauzer
 > - 插件说明：在一个标签组中显示所有打开的笔记，作为一个连续可滚动的页面（有时被称为 Scrivenings 模式）。
-> - 插件分类：[' 界面优化 ', ' 编辑工具 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '编辑工具', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gasparschott/obsidian-continuous-mode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?continuous-mode)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gasparschott/obsidian-continuous-mode/main/README.md)

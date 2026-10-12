@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tagser
 > - 插件作者：caorol
 > - 插件说明：这个插件还没有经过Obsidian工作人员的人工审核。编辑`tags`属性的值。
-> - 插件分类：['由于插件描述未提供有效信息，难以准确选择标签。若推测该插件与标签相关，可选择编辑工具，搜索与排序，效率工具', 'obsidian插件']
+> - 插件分类：['搜索与排序', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/caorol/obsidian-plugin-tagser)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tagser)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/caorol/obsidian-plugin-tagser/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Link with alias
 > - 插件作者：Pavel Vojtechovsky
 > - 插件说明：在目标文档的前置元数据中创建链接和别名。
-> - 插件分类：[' 编辑工具 ', ' 链接处理 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '链接处理', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pvojtechovsky/obsidian-link-with-alias)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?link-with-alias)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pvojtechovsky/obsidian-link-with-alias/main/README.md)

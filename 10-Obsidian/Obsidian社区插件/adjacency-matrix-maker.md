@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Adjacency Matrix Maker
 > - 插件作者：SkepticMystic
 > - 插件说明：创建你的金库的互动邻接矩阵
-> - 插件分类：[' 数据处理 ', ' 图表与可视化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '图表与可视化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/SkepticMystic/adjacency-matrix-maker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?adjacency-matrix-maker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/SkepticMystic/adjacency-matrix-maker/master/README.md)

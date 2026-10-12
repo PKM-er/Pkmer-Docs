@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Zettelkasten Core
 > - 插件作者：wesswart77
 > - 插件说明：这是一个完整的卡片盒笔记法第二大脑系统，涵盖了闪念笔记、文献笔记、永久性原子笔记、卡片编号、收件箱处理以及关联式思考等功能。
-> - 插件分类：['学习与教育', '效率工具', '模板与链接处理', '白板学术与科研', '图谱', 'obsidian插件']
+> - 插件分类：['学习与教育', '效率工具', '模板与链接处理', '学术与科研', '图谱', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/wesswart77/obsidian-zettelkasten)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zettelkasten-core)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/wesswart77/obsidian-zettelkasten/master/README.md)

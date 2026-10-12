@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
 > - 插件作者：AidenLx
 > - 插件说明：加强文本编辑器中文分词功能
-> - 插件分类：[' 编辑工具 ', ' 自定义命令 ', ' 自然语言处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自定义命令', '自然语言处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aidenlx/cm-chs-patch)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cm-chs-patch)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aidenlx/cm-chs-patch/main/README.md)

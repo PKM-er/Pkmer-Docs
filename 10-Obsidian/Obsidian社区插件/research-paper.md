@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Research Paper
 > - 插件作者：Jesús García
 > - 插件说明：它可以借助人工智能搜索学术数据库并生成符合美国心理学会（APA）第7版格式的论文。支持7家大语言模型供应商，覆盖10个研究领域。
-> - 插件分类：['学习与教育', '自动化与AI', '文字处理', '白板学术与科研', '第三方工具集成', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '文字处理', '学术与科研', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jaliriogbarrios19/Research_Paper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?research-paper)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jaliriogbarrios19/Research_Paper/master/README.md)

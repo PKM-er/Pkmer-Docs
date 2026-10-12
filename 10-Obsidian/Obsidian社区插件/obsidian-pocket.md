@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pocket integration
 > - 插件作者：Nimalan Mahendran
 > - 插件说明：轻松访问你的 Pocket 阅读列表条目并为它们创建笔记。
-> - 插件分类：[' 任务管理 ', ' 笔记与日志 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '笔记与日志', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nybbles/obsidian-pocket)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-pocket)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nybbles/obsidian-pocket/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian title index
 > - 插件作者：renmu123
 > - 插件说明：一个简单的插件，可以为你的 markdown 标题添加序列号。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/renmu123/obsidian-markdown-index)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-title-index)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/renmu123/obsidian-markdown-index/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Periodic PARA
 > - 插件作者：YiBing Lin
 > - 插件说明：协助使用定期笔记进行 PARA 系统的实践。
-> - 插件分类：[' 任务管理 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/quanru/obsidian-periodic-para)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?periodic-para)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/quanru/obsidian-lifeos/main/README.md)

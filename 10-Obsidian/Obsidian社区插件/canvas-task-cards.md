@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Task Cards
 > - 插件作者：raito1chi
 > - 插件说明：给Obsidian画布添加带有完成状态的任务卡片 —— 此插件尚未经过Obsidian官方人员手动审核。
-> - 插件分类：['任务管理', '图表与可视化', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['任务管理', '图表与可视化', '效率工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/raito1chi/canvas-task-cards)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-task-cards)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/raito1chi/canvas-task-cards/master/README.md)

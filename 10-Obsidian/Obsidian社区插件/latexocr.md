@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：LaTeX-OCR
 > - 插件作者：Jack Barker
 > - 插件说明：运行 LaTeX-OCR，如果它在本地安装的话。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JackBarker7/obsidian-latexocr)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?latexocr)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JackBarker7/obsidian-latexocr/main/README.md)

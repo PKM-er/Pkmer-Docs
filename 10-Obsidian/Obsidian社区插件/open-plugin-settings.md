@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Open Plugin Settings
 > - 插件作者：Mara-Li
 > - 插件说明：创建一个命令来打开指定的插件设置。
-> - 插件分类：[' 编辑工具 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lisandra-dev/open-plugin-settings-commands)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-plugin-settings)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mara-Li/obsidian-open-settings/master/README.md)

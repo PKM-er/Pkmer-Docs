@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Extract url content
 > - 插件作者：Stephen Solka
 > - 插件说明：将 URL 提取内容转换为 Markdown
-> - 插件分类：[' 第三方工具集成 ', ' 转换工具 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '转换工具', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/trashhalo/obsidian-extract-url)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?extract-url)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/trashhalo/obsidian-extract-url/master/README.md)

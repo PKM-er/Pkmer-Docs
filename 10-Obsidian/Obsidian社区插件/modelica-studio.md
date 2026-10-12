@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Modelica Studio
 > - 插件作者：Ahmed N. Alfahdi
 > - 插件说明：Model, simulate, and plot Modelica systems with a visual drag-and-drop schematic editor powered by OpenModelica (OpenSource) - This plugin has not been manually reviewed by Obsidian staff.
-> - 插件分类：['第三方工具集成', '图表与可视化', '编程与脚本', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '图表与可视化', '编程与脚本', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ahmedalfahdi/modelica-studio)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?modelica-studio)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ahmedalfahdi/modelica-studio/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Detailed Canvas
 > - 插件作者：endlessblink
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。可以用Ollama为画布链接卡片添加AI生成的描述和封面图。
-> - 插件分类：['第三方工具集成', '自动化与AI', '图表与可视化', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '自动化与AI', '图表与可视化', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/endlessblink/detailed-description)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?detailed-canvas)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/endlessblink/detailed-description/master/README.md)

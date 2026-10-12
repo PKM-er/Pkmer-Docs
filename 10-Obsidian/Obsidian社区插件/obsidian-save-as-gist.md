@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Save as Gist
 > - 插件作者：ghedamat
 > - 插件说明：将当前笔记保存为 GitHub Gist
-> - 插件分类：[' 文件管理 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ghedamat/obsidian-save-as-gist)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-save-as-gist)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ghedamat/obsidian-save-as-gist/master/README.md)

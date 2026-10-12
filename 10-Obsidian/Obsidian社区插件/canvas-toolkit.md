@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Toolkit
 > - 插件作者：freemax
 > - 插件说明：用可编辑标签、便利贴、板状分组和快速外观控制功能来定制Obsidian画布。——这款插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['编辑工具', '样式与美化', '界面优化', '白板学术与科研', '图表与可视化', 'obsidian插件']
+> - 插件分类：['编辑工具', '样式与美化', '界面优化', '白板', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/maksparker/canvas-toolkit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-toolkit)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/maksparker/canvas-toolkit/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Meld Calc
 > - 插件作者：meld-cp
 > - 插件说明：做数学！在你的笔记中评估数学表达式。
-> - 插件分类：[' 数学与金融 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数学与金融', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/meld-cp/obsidian-calc)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?meld-calc)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/meld-cp/obsidian-calc/main/README.md)

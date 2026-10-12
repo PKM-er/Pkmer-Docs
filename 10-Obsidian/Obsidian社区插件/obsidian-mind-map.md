@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Mind Map
 > - 插件作者：James Lynch
 > - 插件说明：将 Obsidian 笔记作为思维导图使用和查看。
-> - 插件分类：[' 思维导图 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['思维导图', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lynchjames/obsidian-mind-map)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-mind-map)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/obsidian-mind-map/main/README.md)

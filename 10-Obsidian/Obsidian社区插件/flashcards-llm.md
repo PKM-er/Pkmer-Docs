@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Flashcards LLM
 > - 插件作者：Marco Pampaloni
 > - 插件说明：使用大型语言模型（如 ChatGPT）从 Obsidian 笔记中自动生成闪卡。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/crybot/obsidian-flashcards-llm)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?flashcards-llm)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/crybot/obsidian-flashcards-llm/master/README.md)

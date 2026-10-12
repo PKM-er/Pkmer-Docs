@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Reason
 > - 插件作者：Joshua Pham
 > - 插件说明：检索、提取和综合黑曜石笔记
-> - 插件分类：[' 数据处理 ', ' 搜索与排序 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '搜索与排序', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jshph/obsidian-reason)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?reason)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jshph/obsidian-enzyme/master/README.md)

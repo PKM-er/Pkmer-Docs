@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Discord Rich Presence
 > - 插件作者：Luke Leppan
 > - 插件说明：更新你的 Discord 状态，让你的朋友们知道你正在 Obsidian 中做什么。
-> - 插件分类：[' 编辑工具 ', ' 状态栏 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '状态栏', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lukeleppan/obsidian-discordrpc)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-discordrpc)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukeleppan/obsidian-discordrpc/master/README.md)

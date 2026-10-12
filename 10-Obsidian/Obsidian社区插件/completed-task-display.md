@@ -20,7 +20,7 @@ modified: 20240830191333
 > - 插件名称：Completed Task Display
 > - 插件作者：Ben Lee-Cohen
 > - 插件说明：提供控件来显示或隐藏已完成的任务。
-> - 插件分类：[' 任务管理 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：['任务管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/heliostatic/completed-task-display)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?completed-task-display)
 

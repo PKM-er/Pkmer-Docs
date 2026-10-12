@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TreeFocus
 > - 插件作者：iOSonntag
 > - 插件说明：根据预定义或自定义规则，在文件资源管理器（导航）中突出显示、调暗和设置样式您的文件和文件夹。
-> - 插件分类：[' 样式与美化 ', ' 文件管理 ', ' 导航与状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文件管理', '导航与状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/iOSonntag/obsidian-plugin-treefocus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?treefocus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/iOSonntag/obsidian-plugin-treefocus/master/README.md)

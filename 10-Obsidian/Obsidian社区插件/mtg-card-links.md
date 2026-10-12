@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MTG Card Links
 > - 插件作者：Aedan Smith
 > - 插件说明：通过在方括号中包含卡牌名称，链接到魔术飞天牌。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aedans/mtg-card-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mtg-card-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aedans/mtg-card-links/master/README.md)

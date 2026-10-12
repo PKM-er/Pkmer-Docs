@@ -25,7 +25,7 @@ Vault name in status bar 插件会将仓库名始终显示在状态栏中，方�
 > - 插件名称：Vault name in status bar
 > - 插件作者：1C0D
 > - 插件说明：在状态栏中看到您的保险库名称，并点击它以减少它。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/1C0D/Obsidian-Vault-Name-in-Status-Bar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vault-name-status-bar)
 

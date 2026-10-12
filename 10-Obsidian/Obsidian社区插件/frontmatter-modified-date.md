@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Update frontmatter modified date
 > - 插件作者：Alan Grainger
 > - 插件说明：当文件被修改时，自动更新前置数据的修改日期字段。
-> - 插件分类：[' 编辑工具 ', ' 自动化与 AI', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自动化与AI', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/alangrainger/obsidian-frontmatter-modified-date)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?frontmatter-modified-date)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/alangrainger/obsidian-frontmatter-modified-date/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Goban Viewer
 > - 插件作者：Davide Aversa
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。它能在笔记预览中渲染围棋/五子棋的棋谱图。
-> - 插件分类：['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/thek3nger/obsidian-goban)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?goban-viewer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/thek3nger/obsidian-goban/master/README.md)

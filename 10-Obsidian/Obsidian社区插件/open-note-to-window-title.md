@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Custom window title
 > - 插件作者：Joost Plattel
 > - 插件说明：这个插件在窗口标题中显示当前打开的音符。
-> - 插件分类：[' 界面优化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jplattel/open-note-to-window-title)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-note-to-window-title)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jplattel/open-note-to-window-title/main/README.md)

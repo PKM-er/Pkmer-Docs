@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Relay.md
 > - 插件作者：xeroc
 > - 插件说明：快速轻松地与团队分享笔记。使用主题来限制范围，这样只有订阅您的主题的团队成员才会自动收到共享的笔记，直接存入他们的保险库！
-> - 插件分类：[' 任务管理 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/relay-md/relay-md-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?relay-md)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/relay-md/relay-md-obsidian-plugin/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI Tagger
 > - 插件作者：Luca Grippa
 > - 插件说明：简化标记。只需点击一下即可立即分析和标记您的文档，以便高效地组织笔记。需要 OpenAI API 密钥。
-> - 插件分类：[' 数据处理 ', ' 自动化与 AI', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '自动化与AI', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lucagrippa/obsidian-ai-tagger)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-tagger)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucagrippa/obsidian-ai-tagger/master/README.md)

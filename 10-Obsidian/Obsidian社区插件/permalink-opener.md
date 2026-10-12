@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Permalink Opener
 > - 插件作者：@kepano
 > - 插件说明：根据笔记属性中的永久链接或短链接打开 URL。与静态网站生成器（如 Jekyll、Hugo、Eleventy 等）一起使用非常有用。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kepano/obsidian-permalink-opener)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?permalink-opener)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kepano/obsidian-permalink-opener/master/README.md)

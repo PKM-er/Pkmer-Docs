@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：KnowGrove
 > - 插件作者：Lufie
 > - 插件说明：把零散的笔记发展成相互关联的主题、证据、研究内容和可复用的知识。——此插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['学习与教育', '图谱', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['学习与教育', '图谱', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lufie/KnowGrove)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?knowgrove)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lufie/KnowGrove/master/README.md)

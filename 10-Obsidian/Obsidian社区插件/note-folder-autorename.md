@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note Folder Autorename
 > - 插件作者：PJ Eby
 > - 插件说明：将笔记转换为文件夹，并在移动或重命名时自动移动/重命名它们的文件夹。
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pjeby/note-folder-autorename)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-folder-autorename)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pjeby/note-folder-autorename/master/README.md)

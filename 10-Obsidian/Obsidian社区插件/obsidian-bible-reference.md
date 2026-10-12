@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Bible Reference
 > - 插件作者：tim-hub
 > - 插件说明：使用 Obsidian.md 应用程序轻松记录圣经学习笔记。自动提示圣经经文作为参考。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tim-hub/obsidian-bible-reference)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-bible-reference)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tim-hub/obsidian-bible-reference/master/README.md)

@@ -26,7 +26,7 @@ Inline spoilers 就是一个更加简单的方法， 虽然从名字和使用方
 > - 插件名称：Inline spoilers
 > - 插件作者：logonoff
 > - 插件说明：提供一个快速挖空编辑的方式
-> - 插件分类：[' 标签页管理 ', ' 垂直标签 ', 'obsidian 插件 ']
+> - 插件分类：['挖空', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/logonoff/obsidian-inline-spoilers)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?inline-spoilers)
 

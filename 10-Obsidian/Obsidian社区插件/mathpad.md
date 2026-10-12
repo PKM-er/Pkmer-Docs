@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Mathpad
 > - 插件作者：Gabriele Cannata
 > - 插件说明：Onsidian 计算机代数系统和计算器
-> - 插件分类：[' 数学与金融 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['数学与金融', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Canna71/obsidian-mathpad)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mathpad)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Canna71/obsidian-mathpad/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sakana Widget
 > - 插件作者：Boninall
 > - 插件说明：把 Sakana！小部件添加到你自己的 Obsidian！
-> - 插件分类：[' 界面优化 ', ' 第三方工具集成 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '第三方工具集成', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/quorafind/obsidian-sakana-widget)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-sakana-widget)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/obsidian-sakana-widget/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Logically AI Research Assistant
 > - 插件作者：afforai
 > - 插件说明：这个插件还未经Obsidian官方人员手动审核。你可以使用Logically的人工智能研究助手，对仓库里的文件开展有引用依据的研究。
-> - 插件分类：['自动化与AI', '学习与教育', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '学习与教育', '第三方工具集成', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/afforai/obsidian-logically-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?logically)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/afforai/obsidian-logically-plugin/master/README.md)

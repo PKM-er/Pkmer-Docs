@@ -20,7 +20,7 @@ modified: 20230908161242
 > - 插件名称：Order List
 > - 插件作者：Henry Gustafson
 > - 插件说明：添加“排序选定列表”命令，以按末尾的数字对所选列表进行排序。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件', 'readme']
 > - 项目地址：[点我访问](https://github.com/lizard-heart/obsidian-order-list-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?order-list)
 

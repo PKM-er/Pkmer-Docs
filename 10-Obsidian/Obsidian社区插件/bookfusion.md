@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：BookFusion
 > - 插件作者：BookFusion
 > - 插件说明：将您的 BookFusion 亮点和注释导入到您的保险库中。
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/BookFusion/obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bookfusion)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/BookFusion/obsidian-plugin/master/README.md)

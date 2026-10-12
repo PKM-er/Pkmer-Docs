@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pseudonymizer Tool
 > - 插件作者：Axelle Abbadie
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。它能对互动记录（杰斐逊式记录、互动会话记录、同步记录、聊天记录/会话分析记录）进行化名处理和修正。这是专为从事语言学和会话分析的定性研究人员设计的。
-> - 插件分类：['数据处理', '文字处理', '学习与教育', '白板学术与科研', '数据分析', 'obsidian插件']
+> - 插件分类：['数据处理', '文字处理', '学习与教育', '学术与科研', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/core-hn/pseudobsidian-ization)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pseudonymizer-tool)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/core-hn/pseudobsidian-ization/master/README.md)

@@ -20,7 +20,7 @@ modified: 20240123172326
 > - 插件名称：Tidy Footnotes
 > - 插件作者：Charlie Chao
 > - 插件说明：可以将所有脚注都合并到一个地方，也能给脚注重新排序
-> - 插件分类：[' 文件重构 ', 'obsidian 插件 ']
+> - 插件分类：['文件重构', 'obsidian插件', '脚注']
 > - 项目地址：[点我访问](https://github.com/charliecm/obsidian-tidy-footnotes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tidy-footnotes)
 

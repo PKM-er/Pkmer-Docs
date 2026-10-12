@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：KogCat
 > - 插件作者：uv
 > - 插件说明：对照包含认知偏差、反模式以及与你过往笔记矛盾之处的知识库，校准你的思维。——此插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['学习与教育', '自动化与AI', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kogcat/obsidian-kogcat)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?kogcat)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kogcat/obsidian-kogcat/master/README.md)

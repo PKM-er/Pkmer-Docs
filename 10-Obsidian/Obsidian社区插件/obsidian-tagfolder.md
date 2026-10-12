@@ -24,7 +24,7 @@ TagFolder 就是通过笔记中的标签，重新组织所有的笔记。
 > - 插件名称：TagFolder
 > - 插件作者：vorotamoroz
 > - 插件说明：将标签变为文件夹形式，管理你的笔记。
-> - 插件分类：[' 文件管理 ', ' 标签 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：['Obsidian', '插件', '文件管理', '标签']
 > - 项目地址：[点我访问](https://github.com/vrtmrz/obsidian-tagfolder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tagfolder)
 

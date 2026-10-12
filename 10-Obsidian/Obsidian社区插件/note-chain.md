@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note Chain
 > - 插件作者：ZigHolding
 > - 插件说明：Thoughts as river, notes as chain. Add prev and next notes to a notes, and order files by the chain in File Explorer.
-> - 插件分类：[' 链接 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['链接', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zigholding/obsidian-notechain-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-chain)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zigholding/obsidian-notechain-plugin/master/README.md)

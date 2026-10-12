@@ -20,7 +20,7 @@ modified: 20230908160152
 > - 插件名称：OpenWeather
 > - 插件作者：willasm
 > - 插件说明：该插件以可配置的字符串格式返回 OpenWeather 的当前天气。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/willasm/obsidian-open-weather)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-weather)
 

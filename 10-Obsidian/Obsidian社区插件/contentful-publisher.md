@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Contentful Publisher
 > - 插件作者：Ziya Fenn
 > - 插件说明：从 Obsidian 管理您的 Contentful 内容。
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ziyafenn/obsidian-contentful-publisher)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?contentful-publisher)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ziyafenn/obsidian-contentful-publisher/main/README.md)

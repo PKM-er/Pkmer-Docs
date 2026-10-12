@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：CustomJS
 > - 插件作者：Sam Lewis
 > - 插件说明：允许用户编写自定义 Javascript，你可以在任何地方调用，包括 dataviewjs 块和 templater 模板。
-> - 插件分类：[' 编程 ', ' 第三方工具集成 ', ' 移动端 ', 'obsidian 插件 ']
+> - 插件分类：['编程', '第三方工具集成', '移动端', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/saml-dev/obsidian-custom-js)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?customjs)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/saml-dev/obsidian-custom-js/master/README.md)

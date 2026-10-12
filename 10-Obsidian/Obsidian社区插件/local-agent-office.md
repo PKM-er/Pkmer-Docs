@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Local Agent Office
 > - 插件作者：Gustavo Lourenço
 > - 插件说明：把你的仓库变成一支由你自己笔记打造的人工智能特工小队——它们会聊天，能根据你的笔记采取行动（需你批准），还能记忆，一起头脑风暴。你可以使用自己的密钥，优先支持本地使用。 - 此插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['自动化与AI', '效率工具', '第三方工具集成', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '效率工具', '第三方工具集成', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gustavczar/local-agent-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?local-agent-office)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gustavczar/local-agent-obsidian-plugin/master/README.md)

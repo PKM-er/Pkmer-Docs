@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AutoMOC
 > - 插件作者：Diego Alcantara
 > - 插件说明：查找当前笔记中缺失的链接引用，并将它们导入到当前笔记中。
-> - 插件分类：[' 模板与链接处理 ', ' 文件管理 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '文件管理', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dalcantara7/obsidian-auto-moc)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-moc)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dalcantara7/obsidian-auto-moc/master/README.md)

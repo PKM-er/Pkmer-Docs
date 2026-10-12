@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：YouVersion Linker
 > - 插件作者：Jaanonim
 > - 插件说明：自动将您的笔记中的圣经经文链接到 YouVersion 圣经。
-> - 插件分类：[' 第三方工具集成 ', ' 模板与链接处理 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '模板与链接处理', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jaanonim/obsidian-youversion-linker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?youversion-linker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jaanonim/obsidian-youversion-linker/master/README.md)

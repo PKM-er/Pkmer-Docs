@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Excalicap
 > - 插件作者：guchang
 > - 插件说明：
-> - 插件分类：['图表与可视化', '多媒体', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '多媒体', '第三方工具集成', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/guchang/excalicap)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?excalicap)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/guchang/excalicap/master/README.md)

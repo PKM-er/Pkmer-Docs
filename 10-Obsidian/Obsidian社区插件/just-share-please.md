@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Just Share Please
 > - 插件作者：Ellpeck
 > - 插件说明：快速轻松地使用匿名链接在线共享个人笔记。也很容易自行托管！
-> - 插件分类：[' 文件管理 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Ellpeck/ObsidianJustSharePlease)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?just-share-please)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Ellpeck/ObsidianJustSharePlease/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Branch Chat
 > - 插件作者：p4nt1um
 > - 插件说明：在Obsidian画布上进行Flowith风格的分支式AI对话。分叉、探索并梳理你的思路。——本插件尚未经过Obsidian官方人员人工审核。
-> - 插件分类：['自动化与AI', '思维导图', '图表与可视化', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '思维导图', '图表与可视化', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/p4nt1um/canvas-branch-chat)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-branch-chat)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/p4nt1um/canvas-branch-chat/master/README.md)

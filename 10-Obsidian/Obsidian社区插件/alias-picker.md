@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Alias Picker
 > - 插件作者：rostunic
 > - 插件说明：选择别名或链接块。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rostunic/obsidian-alias-picker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?alias-picker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rostunic/obsidian-alias-picker/master/README.md)

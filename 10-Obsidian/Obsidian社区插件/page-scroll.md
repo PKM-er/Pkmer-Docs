@@ -26,7 +26,7 @@ modified: 20240812233558
 > - 插件名称：Page Scroll
 > - 插件作者：triski
 > - 插件说明：“Page Up|Down|Top|Bottom” 的中文翻译是 “上一页|下一页|顶部|底部”。如果您需要返回与源格式相同的译文，那么翻译结果应该是：“Page Up|Down|Top|Bottom”。
-> - 插件分类：[' 图表 ', ' 图表 ', ' 统计分析 ', 'obsidian 插件 ']
+> - 插件分类：['图表', '图表', '统计分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chenshutian9610/obsidian-pagescroll-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?page-scroll)
 

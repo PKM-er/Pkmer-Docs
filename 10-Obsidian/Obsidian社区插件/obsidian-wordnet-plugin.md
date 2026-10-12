@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian42 - WordNet Dictionary
 > - 插件作者：TfTHacker
 > - 插件说明：将普林斯顿大学开发的大型英语词汇数据库 WordNet 带入 Obsidian。
-> - 插件分类：[' 数据处理 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/TfTHacker/Obsidian-WordNet)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-wordnet-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/TfTHacker/Obsidian-WordNet/main/README.md)

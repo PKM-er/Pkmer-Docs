@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Omnisearch
 > - 插件作者：Simon Cambier
 > - 插件说明：提供更强大的智能搜索，可以搜索 PDF 文件和图像中的文字内容。
-> - 插件分类：[' 搜索与排序 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/scambier/obsidian-omnisearch)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?omnisearch)
 

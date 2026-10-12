@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Open vault in VSCode
 > - 插件作者：NomarCub
 > - 插件说明：Ribbon 按钮和命令以 Visual Studio Code 工作区打开保险库
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/NomarCub/obsidian-open-vscode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-vscode)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/NomarCub/obsidian-open-vscode/main/README.md)

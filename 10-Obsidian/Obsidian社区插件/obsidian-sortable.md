@@ -20,7 +20,7 @@ modified: 20230914150425
 > - 插件名称：Sortable
 > - 插件作者：Alexandru Dinu
 > - 插件说明：提供搜索 Obsidian 设置和插件设置选项的能力
-> - 插件分类：[' 表格 ', ' 搜索/排序 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '表格', '排序']
 > - 插件项目地址：[点我跳转](https://github.com/alexandru-dinu/obsidian-sortable)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-sortable)
 

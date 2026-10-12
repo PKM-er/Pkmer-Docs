@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Mochi Cards Pro
 > - 插件作者：Hayden Carpenter
 > - 插件说明：使用 Mochi 的专业订阅提供的 API，在 Mochi.cards 上创建闪卡。
-> - 插件分类：[' 第三方工具集成 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/xHayden/obsidian-mochi-cards-pro)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mochi-cards-pro)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/xHayden/obsidian-mochi-cards-pro/master/README.md)

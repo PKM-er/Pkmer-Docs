@@ -22,7 +22,7 @@ Obsidian 提供了每个标签页的历史记录功能，这和你的浏览器�
 > - 插件名称：Pane Relief
 > - 插件作者：PJ Eby
 > - 插件说明：每个窗格的历史记录、用于窗格移动和导航的快捷键等
-> - 插件分类：[' 界面相关 ', ' 导航工具 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '功能增强']
 > - 插件项目地址：[点我跳转](https://github.com/pjeby/pane-relief)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pane-relief)
 

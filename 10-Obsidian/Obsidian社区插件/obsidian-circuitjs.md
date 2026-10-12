@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian CircuitJS
 > - 插件作者：Steven Gann
 > - 插件说明：将 CircuitJS 电路仿真嵌入笔记中
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/StevenGann/obsidian-circuitjs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-circuitjs)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/StevenGann/obsidian-circuitjs/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Copilot auto completion
 > - 插件作者：Jordi Smit
 > - 插件说明：使用 ChatGPT API，为 Obsidian 添加一个高度可配置的类似副驾驶的自动补全功能。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copilot-auto-completion)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/j0rd1smit/obsidian-copilot-auto-completion/master/README.md)

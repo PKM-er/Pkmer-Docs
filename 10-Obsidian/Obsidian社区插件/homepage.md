@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Homepage
 > - 插件作者：mirnovov
 > - 插件说明：在启动 Obsidian 时，打开指定的笔记、白板文件或工作区布局，而不是最近打开的（OB 默认设置）。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mirnovov/obsidian-homepage)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?homepage)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mirnovov/obsidian-homepage/main/README.md)

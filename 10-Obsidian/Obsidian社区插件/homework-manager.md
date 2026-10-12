@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Homework Manager
 > - 插件作者：Kadison McLellan
 > - 插件说明：通过待办事项清单跟踪作业。
-> - 插件分类：[' 任务管理 ', ' 界面优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '界面优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/KadisonM/obsidian-homework-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?homework-manager)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kadisonm/obsidian-homework-plugin/master/README.md)

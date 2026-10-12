@@ -20,7 +20,7 @@ modified: 20230829162639
 > - 插件名称：Novel word count
 > - 插件作者：Isaac Lyman
 > - 插件说明：在 Obsidian 的文件资源管理器窗格中显示每个文件、文件夹和保险库的字数，以及更多其他信息。
-> - 插件分类：[' 文件管理 ', ' 统计 ', ' 界面相关 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '统计', '自定义']
 > - 插件项目地址：[点我跳转](https://github.com/isaaclyman/novel-word-count-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?novel-word-count)
 

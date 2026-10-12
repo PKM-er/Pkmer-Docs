@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Review Notes Plugin
 > - 插件作者：tjandy98
 > - 插件说明：这个插件显示最近修改和新创建的文件。
-> - 插件分类：[' 文件管理 ', ' 导航与状态栏 ', ' 最近修改 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '导航与状态栏', '最近修改', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tjandy98/obsidian-review-notes-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-review-notes-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tjandy98/obsidian-review-notes-plugin/master/README.md)

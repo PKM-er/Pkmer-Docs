@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas++
 > - 插件作者：Vishal Rashmika
 > - 插件说明：Professional UML 2.x diagrams, hardware schematics, and freehand shape recognition on a high-performance visual canvas with AI coding agent integration. - This plugin has not been manually reviewed by Obsidian staff.
-> - 插件分类：['图表与可视化', '自动化与AI', '编辑工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '自动化与AI', '编辑工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vishalrashmika/canvas-plus-plus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-plus-plus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vishalrashmika/canvas-plus-plus/master/README.md)

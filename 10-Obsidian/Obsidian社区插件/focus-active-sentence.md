@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Focus Active Sentence
 > - 插件作者：artisticat
 > - 插件说明：突出显示光标当前所停留的句子。
-> - 插件分类：[' 编辑工具 ', ' 界面优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '界面优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/artisticat1/focus-active-sentence)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?focus-active-sentence)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/focus-active-sentence/main/README.md)

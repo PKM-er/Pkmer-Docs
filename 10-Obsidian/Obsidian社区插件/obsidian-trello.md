@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Trello
 > - 插件作者：OfficerHalf
 > - 插件说明：将 Trello 卡片连接到 Obsidian 笔记。
-> - 插件分类：[' 数据处理 ', ' 界面优化 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '界面优化', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/OfficerHalf/obsidian-trello)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-trello)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nathonius/obsidian-trello/main/README.md)

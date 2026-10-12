@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Wikipedia Search
 > - 插件作者：StrangeGirlMurph
 > - 插件说明：搜索维基百科文章并链接它们。
-> - 插件分类：[' 搜索与排序 ', ' 模板与链接处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '模板与链接处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/StrangeGirlMurph/obsidian-wikipedia-search)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?wikipedia-search)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Relativenumber (relative line numbers)
 > - 插件作者：Rob Stevenson
 > - 插件说明：在编辑器的侧边栏显示相对行号。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/thisdotrob/obsidian-relativenumber-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-relativenumber)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/thisdotrob/obsidian-relativenumber-plugin/master/README.md)

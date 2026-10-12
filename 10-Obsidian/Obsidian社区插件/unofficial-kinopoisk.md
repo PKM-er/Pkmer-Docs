@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Kinopoisk search
 > - 插件作者：Alintor
 > - 插件说明：帮助您通过 Kinopoisk 找到电影和电视节目，并创建笔记。
-> - 插件分类：[' 搜索与排序 ', ' 数据处理 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '数据处理', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Alintor/obsidian-kinopoisk-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?unofficial-kinopoisk)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Alintor/obsidian-kinopoisk-plugin/master/README.md)

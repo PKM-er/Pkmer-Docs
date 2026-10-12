@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI Tagger Universe
 > - 插件作者：Hu Nie
 > - 插件说明：自动分析笔记内容并使用人工智能添加相关标签
-> - 插件分类：['数据处理', '自动化与AI', '标签管理', 'obsidian插件']
+> - 插件分类：['数据处理', '自动化与AI', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/niehu2018/obsidian-ai-tagger-universe)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-tagger-universe)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/niehu2018/obsidian-ai-tagger-universe/main/README.md)

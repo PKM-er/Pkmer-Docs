@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：InsightA
 > - 插件作者：Hongjian Tang
 > - 插件说明：从一篇长文章中提取一组原子笔记，并使用 LLM 按笔记标题创建 MOC
-> - 插件分类：[' 第三方工具集成 ', ' 自动化与 AI', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '自动化与AI', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HongjianTang/obsidian-insighta)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?insighta)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HongjianTang/obsidian-insighta/main/README.md)

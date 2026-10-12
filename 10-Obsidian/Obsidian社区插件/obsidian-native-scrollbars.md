@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Native Scrollbars
 > - 插件作者：mgmeyers
 > - 插件说明：在 Obsidian 中启用本机操作系统滚动条
-> - 插件分类：[' 界面优化 ', ' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mgmeyers/obsidian-native-scrollbars)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-native-scrollbars)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-native-scrollbars/main/README.md)

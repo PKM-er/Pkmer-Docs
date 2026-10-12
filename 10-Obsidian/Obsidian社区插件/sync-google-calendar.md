@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sync Google Calendar
 > - 插件作者：Dexin Qi
 > - 插件说明：将 Google 日历中的事件同步，并像任务一样管理它们。
-> - 插件分类：[' 任务管理 ', ' 第三方工具集成 ', ' 日历与时间 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '第三方工具集成', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dexin-qi/obsidian-sync-calendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sync-google-calendar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dexin-qi/obsidian-sync-calendar/main/README.md)

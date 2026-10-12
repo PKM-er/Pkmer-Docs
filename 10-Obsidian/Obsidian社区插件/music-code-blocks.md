@@ -20,7 +20,7 @@ modified: 20230921152358
 > - 插件名称：ABC Music Notation
 > - 插件作者：Til Blechschmidt
 > - 插件说明：通过 abcjs 使用 ABC 音乐符号直接从代码块渲染乐谱
-> - 插件分类：[' 音乐相关 ', 'obsidian 插件 ']
+> - 插件分类：['音乐相关', 'Obsidian', 'Obsidian插件']
 > - 项目地址：[点我访问](https://github.com/abcjs-music/obsidian-plugin-abcjs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?music-code-blocks)
 

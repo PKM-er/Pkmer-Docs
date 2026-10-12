@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Habit Calendar
 > - 插件作者：Hedonihilist
 > - 插件说明：创建一个可视化的月历视图，让你可以自己添加关键的日期和注意事项。此插件依赖 dataview 插件，并且需要你熟悉 dataviewJS 语法。
-> - 插件分类：[' 任务管理 ', ' 样式与美化 ', ' 日历与时间 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '样式与美化', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hedonihilist/obsidian-habit-calendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?habit-calendar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hedonihilist/obsidian-habit-calendar/master/README.md)

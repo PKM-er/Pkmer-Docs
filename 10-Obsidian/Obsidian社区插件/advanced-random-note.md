@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Advanced Random Note
 > - 插件作者：Karsten Finderup Pedersen
 > - 插件说明：从自定义查询创建命令以打开随机笔记。
-> - 插件分类：[' 自定义命令 ', ' 快捷键 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['自定义命令', '快捷键', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/karstenpedersen/obsidian-advanced-random-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?advanced-random-note)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/karstenpedersen/obsidian-advanced-random-note/master/README.md)

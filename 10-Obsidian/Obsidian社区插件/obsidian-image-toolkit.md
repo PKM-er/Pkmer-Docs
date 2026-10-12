@@ -21,7 +21,7 @@ modified: 20230730133521
 > - 插件名称：Obsidian Image Toolkit
 > - 插件作者：sissilab
 > - 插件说明：提供笔记中查看图片的基本操作
-> - 插件分类：[' 界面相关 ', ' 图片 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '图片', '格式调整', 'image']
 > - 插件项目地址：[点我跳转](https://github.com/sissilab/obsidian-image-toolkit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-image-toolkit)
 

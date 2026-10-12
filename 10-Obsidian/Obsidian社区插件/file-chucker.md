@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File Chucker
 > - 插件作者：Ken Lim
 > - 插件说明：快速移动文件到新的或已存在的文件夹，然后打开下一个文件。
-> - 插件分类：[' 文件管理 ', ' 快捷键 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '快捷键', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kenlim/file-chucker-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-chucker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kenlim/file-chucker-plugin/master/README.md)

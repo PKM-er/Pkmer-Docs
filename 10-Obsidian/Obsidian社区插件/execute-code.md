@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Execute Code
 > - 插件作者：twibiral
 > - 插件说明：允许在笔记中执行代码片段。
-> - 插件分类：[' 编程与脚本 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['编程与脚本', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/twibiral/obsidian-execute-code)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?execute-code)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/twibiral/obsidian-execute-code/master/README.md)

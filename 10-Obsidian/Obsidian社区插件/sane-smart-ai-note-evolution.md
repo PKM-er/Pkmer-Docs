@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：SANE - Smart AI Note Evolution
 > - 插件作者：Adam Chen
 > - 插件说明：这个插件还没经过Obsidian官方人员手动审核哦。用人工智能让你的笔记智能进化。当你添加或编辑笔记时，SANE会找出3篇最相关的笔记，并用智能标签、关键词、链接和摘要来优化它们。
-> - 插件分类：['自动化与AI', '编辑工具', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '编辑工具', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chenziqiadam/SANE)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sane-smart-ai-note-evolution)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chenziqiadam/SANE/master/README.md)

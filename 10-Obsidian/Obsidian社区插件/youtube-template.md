@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：YouTube Template
 > - 插件作者：sundevista
 > - 插件说明：一个插件，可以帮助您将 YouTube 视频数据提取到您的保险库中。
-> - 插件分类：[' 数据处理 ', ' 第三方工具集成 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '第三方工具集成', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sundevista/youtube-template)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?youtube-template)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sundevista/youtube-template/master/README.md)

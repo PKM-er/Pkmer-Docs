@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markdown prettifier
 > - 插件作者：pelao
 > - 插件说明：修复并格式化丑陋的 Markdown。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cristianvasquez/obsidian-prettify)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-prettifier)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cristianvasquez/obsidian-prettify/master/README.md)

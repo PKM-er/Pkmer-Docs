@@ -20,7 +20,7 @@ modified: 20230914141142
 > - 插件名称：File Explorer Markdown Titles
 > - 插件作者：Dylan Elliott
 > - 插件说明：在文件资源管理器中显示笔记的第一个 markdown 标题
-> - 插件分类：[' 导航工具 ', 'obsidian 插件 ']
+> - 插件分类：['导航工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Dyldog/file-explorer-markdown-titles)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-explorer-markdown-titles)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Focus and Highlight
 > - 插件作者：BO YI TSAI
 > - 插件说明：Obsidian 的一个插件，可以突出显示并专注于当前选定的标题
-> - 插件分类：[' 搜索 ', ' 界面优化 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['搜索', '界面优化', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nagi1999a/obsidian-focus-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-focus-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nagi1999a/obsidian-focus-plugin/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ozan's Image in Editor Plugin
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：为笔记编辑器中添加图片查看器，查看图像、引用、iFrame 和 PDF 文件，无需切换到预览模式。
-> - 插件分类：[' 编辑工具 ', ' 图片与 PDF', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '图片与PDF', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ozntel/oz-image-in-editor-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?oz-image-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozntel/oz-image-in-editor-obsidian/master/README.md)

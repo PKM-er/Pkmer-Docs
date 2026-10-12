@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian jTab
 > - 插件作者：davfive
 > - 插件说明：使用 jTab 代码块将吉他和和弦图，以图片的形式添加到集中。jTab
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/davfive/obsidian-jtab)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-jtab)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/davfive/obsidian-jtab/main/README.md)

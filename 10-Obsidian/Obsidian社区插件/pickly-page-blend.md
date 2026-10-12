@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pickly PageBlend
 > - 插件作者：Dmitrii Mitrichev
 > - 插件说明：一键发布您的 Obsidian 笔记。
-> - 插件分类：[' 文件管理 ', ' 编辑工具 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编辑工具', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dmitrichev/pickly-page-blend)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pickly-page-blend)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dmitrichev/pickly-page-blend/master/README.md)

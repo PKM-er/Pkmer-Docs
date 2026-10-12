@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Repeat Last Command(s)
 > - 插件作者：1C0D
 > - 插件说明：Repeat last command or commands. toggle pinned command with tab
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/1C0D/obsidian-repeat-last-commands)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?repeat-last-commands)
 

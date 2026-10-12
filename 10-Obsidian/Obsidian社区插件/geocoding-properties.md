@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Geocoding Properties
 > - 插件作者：Jose Elias Alvarez
 > - 插件说明：将地理编码 API 的地址/位置数据插入为 Obsidian 属性。
-> - 插件分类：[' 地图与位置 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['地图与位置', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jose-elias-alvarez/obsidian-geocoding-properties)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?geocoding-properties)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jose-elias-alvarez/obsidian-geocoding-properties/master/README.md)

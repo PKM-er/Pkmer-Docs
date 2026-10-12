@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MathLive
 > - 插件作者：Dan Zilberman
 > - 插件说明：使用 MathLive 可以更快速和更直观地编辑 MathJax。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 数学与金融 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '数学与金融', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/danzilberdan/obsidian-mathlive)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mathlive)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/danzilberdan/obsidian-mathlive/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Natural Language Syntax Highlighting
 > - 插件作者：artisticat
 > - 插件说明：在编辑器中突出显示形容词、名词、副词、动词等。
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/artisticat1/nl-syntax-highlighting)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?nl-syntax-highlighting)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/nl-syntax-highlighting/main/README.md)

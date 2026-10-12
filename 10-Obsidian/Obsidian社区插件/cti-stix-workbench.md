@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：CTI STIX Workbench
 > - 插件作者：rx4747
 > - 插件说明：从Obsidian笔记、画布文件、文件夹或JSON捆绑包中创建、可视化展示、验证并导出本地STIX 2.1情报。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['数据处理', '图表与可视化', '第三方工具集成', '白板学术与科研', '图谱', 'obsidian插件']
+> - 插件分类：['数据处理', '图表与可视化', '第三方工具集成', '学术与科研', '图谱', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rx4747/cti-stix-workbench)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cti-stix-workbench)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rx4747/cti-stix-workbench/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Import Foundry VTT journal entries
 > - 插件作者：farling42
 > - 插件说明：从你选择的 Foundry VTT 世界导入你的日志条目到你的 Obsidian Vault 文件夹中。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/farling42/obsidian-import-foundry)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?import-foundry)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/farling42/obsidian-import-foundry/master/README.md)

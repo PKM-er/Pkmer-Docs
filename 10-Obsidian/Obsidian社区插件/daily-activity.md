@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Daily Activity
 > - 插件作者：trydalch
 > - 插件说明：通过命令面板火快捷键，为你生成修改过的文件，创建的文件的统计或者是文件链接。
-> - 插件分类：[' 日期与时间 ', ' 表格 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['日期与时间', '表格', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/trydalch/obsidian-daily-activity)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?daily-activity)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/trydalch/obsidian-daily-activity/master/README.md)

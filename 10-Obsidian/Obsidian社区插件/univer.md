@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Univer
 > - 插件作者：DreamNum
 > - 插件说明：基于 Univer 创建文档和表格。
-> - 插件分类：[' 表格 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dream-num/obsidian-univer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?univer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dream-num/obsidian-univer/master/README.md)

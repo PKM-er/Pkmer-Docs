@@ -21,7 +21,7 @@ modified: 20240101000000
 > - 插件名称：Timeline Canvas Creator
 > - 插件作者：chris-codes1
 > - 插件说明：快速创建时间线结构的画布。
-> - 插件分类：['图表与可视化', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '编辑工具', '效率工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chris-codes1/timeline-canvas-creator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?timeline-canvas-creator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chris-codes1/timeline-canvas-creator/master/README.md)

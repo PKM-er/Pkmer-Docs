@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Divide & Conquer
 > - 插件作者：pseudometa
 > - 插件说明：批量启用/禁用插件的命令。 当您有许多插件时，这很有用，可用于调试。
-> - 插件分类：[' 插件 ', ' 自定义命令 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['插件', '自定义命令', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chrisgrieser/obsidian-divide-and-conquer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-divide-and-conquer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/obsidian-divide-and-conquer/master/README.md)

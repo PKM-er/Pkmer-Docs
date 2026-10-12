@@ -20,7 +20,7 @@ modified: 20231122164821
 > - 插件名称：Base Tag Renderer
 > - 插件作者：Darren Kuro
 > - 插件说明：这个插件在预览模式下渲染标签的缩略名称
-> - 插件分类：['obsidian 插件 ',' 标签 ']
+> - 插件分类：['obsidian插件', '标签']
 > - 项目地址：[点我访问](https://github.com/darrenkuro/obsidian-basetag)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-basetag)
 

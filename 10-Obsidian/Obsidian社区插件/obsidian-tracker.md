@@ -20,7 +20,7 @@ modified: 20230918144504
 > - 插件名称：Tracker
 > - 插件作者：pyrochlore
 > - 插件说明：将笔记中的变化收集起来，并且提供不同预设的图形分析模板。
-> - 插件分类：[' 统计 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：['统计', 'obsidian插件', 'readme']
 > - 项目地址：[点我访问](https://github.com/pyrochlore/obsidian-tracker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tracker)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：APIRequest
 > - 插件作者：rooyca
 > - 插件说明：从 API 中请求和检索数据。响应以 JSON 格式传递，以便与您的笔记轻松集成。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Rooyca/obsidian-api-request)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?api-request)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Rooyca/obsidian-api-request/master/README.md)

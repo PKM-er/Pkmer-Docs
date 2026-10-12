@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Regex Find and Replace
 > - 插件作者：Martin Eder
 > - 插件说明：提供一个可选择支持正则表达式和范围（全文或文本选择）的查找/替换对话框。
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Gru80/obsidian-regex-replace)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-regex-replace)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Gru80/obsidian-regex-replace/master/README.md)

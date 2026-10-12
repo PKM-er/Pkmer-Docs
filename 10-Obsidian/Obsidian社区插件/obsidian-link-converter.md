@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Link Converter
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：扫描保险库中的所有链接，并将其转换为您所需的格式。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ozntel/obsidian-link-converter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-link-converter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozntel/obsidian-link-converter/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Find & Replace in Selection
 > - 插件作者：TClark1011
 > - 插件说明：替换当前选择内的文本
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/TClark1011/obsidian-find-and-replace-in-selection)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-find-and-replace-in-selection)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/TClark1011/obsidian-find-and-replace-in-selection/main/README.md)

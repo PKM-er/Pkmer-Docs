@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Immersive Translate
 > - 插件作者：imfenghuang
 > - 插件说明：一个免费使用的外语Markdown文件翻译服务。
-> - 插件分类：['翻译工具', '文本处理', '多语言', 'obsidian插件']
+> - 插件分类：['翻译工具', '文字处理', '多语言', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/imfenghuang/obsidian-immersive-translate)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?immersive-translate)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/imfenghuang/obsidian-immersive-translate/main/README.md)

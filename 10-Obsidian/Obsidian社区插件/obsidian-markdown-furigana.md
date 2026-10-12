@@ -17,7 +17,7 @@ modified: 20240108122021
 > [!Note] 插件名片
 > - 插件名称：Markdown Furigana
 > - 插件作者：Steven Kraft
-> - 插件分类：[' 图表生成 ', ' 日语相关 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '日语学习', '假名', '日语书写']
 > - 插件说明：日语书写中给对应的汉字生成注音假名
 > - 插件项目地址：[点我跳转](https://github.com/steven-kraft/obsidian-markdown-furigana)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-markdown-furigana)

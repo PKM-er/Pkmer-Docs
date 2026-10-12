@@ -20,7 +20,7 @@ modified: 20230914160405
 > - 插件名称：Sidebar Toggler
 > - 插件作者：pseudometa
 > - 插件说明：黑曜石侧边栏的更精细的控制。用于外部窗口管理器。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chrisgrieser/obsidian-sidebar-toggler)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-sidebar-toggler)
 

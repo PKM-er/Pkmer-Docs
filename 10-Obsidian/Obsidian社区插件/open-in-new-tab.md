@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Open In New Tab
 > - 插件作者：patleeman
 > - 插件说明：像浏览器一样在新标签页中打开文件
-> - 插件分类：[' 界面优化 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/patleeman/obsidian-open-in-new-tab)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-in-new-tab)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/patleeman/obsidian-open-in-new-tab/master/README.md)

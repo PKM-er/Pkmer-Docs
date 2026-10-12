@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Banana
 > - 插件作者：liuyangart
 > - 插件说明：画布AI插件——可在画布视图中使用Gemini AI，支持生成文本、图像和节点。
-> - 插件分类：['第三方工具集成', '自动化与AI', '白板学术与科研', '图表与可视化', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '自动化与AI', '白板', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/liuyangart/obsidian-canvas-banana)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-banana)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/liuyangart/obsidian-canvas-banana/master/README.md)

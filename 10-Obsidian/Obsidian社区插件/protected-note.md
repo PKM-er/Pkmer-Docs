@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Protected Note
 > - 插件作者：Mikail Gadzhikhanov
 > - 插件说明：Set password and protect your notes from other people.
-> - 插件分类：[' 安全 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['安全', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mmiksaa/obsidian-protected-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?protected-note)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mmiksaa/obsidian-protected-note/master/README.md)

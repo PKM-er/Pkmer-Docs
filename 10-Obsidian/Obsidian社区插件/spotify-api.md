@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Spotify API
 > - 插件作者：Darren-project
 > - 插件说明：暴露 Spotify API
-> - 插件分类：[' 第三方工具集成 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Darren-project/obsidian-spotify)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?spotify-api)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Darren-project/obsidian-spotify/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Sigma
 > - 插件作者：monesga
 > - 插件说明：一个插件，可以使用 Obsidian 笔记作为计算表。
-> - 插件分类：[' 编程 ', ' 表格 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编程', '表格', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/monesga/obsidian-sigma)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sigma)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/monesga/obsidian-sigma/master/README.md)

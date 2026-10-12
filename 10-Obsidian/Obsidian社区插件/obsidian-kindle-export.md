@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Kindle Export
 > - 插件作者：Simeon Stanek
 > - 插件说明：将您的笔记导出到您的 Kindle，包括嵌入式笔记和图像。
-> - 插件分类：[' 文件管理 ', ' 数据分析 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据分析', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/SimeonLukas/obsidian-kindle-export)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-kindle-export)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/SimeonLukas/obsidian-kindle-export/main/README.md)

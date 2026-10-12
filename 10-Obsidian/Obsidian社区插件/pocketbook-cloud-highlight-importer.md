@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pocketbook Cloud Highlight Importer
 > - 插件作者：Lena Brüder
 > - 插件说明：将您的 Pocketbook Cloud 帐户中的笔记和高亮导入到您的保险库中。
-> - 插件分类：[' 数据处理 ', ' 第三方工具集成 ', ' 备份与恢复 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '第三方工具集成', '备份与恢复', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lenalebt/obsidian-pocketbook-cloud-highlight-importer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pocketbook-cloud-highlight-importer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lenalebt/obsidian-pocketbook-cloud-highlight-importer/main/README.md)

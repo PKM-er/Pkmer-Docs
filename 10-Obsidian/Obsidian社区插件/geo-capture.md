@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Geo Capture
 > - 插件作者：Chiang Shun Fan
 > - 插件说明：捕捉地点、坐标、地图链接和照片的GPS信息，用于撰写旅行笔记。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['地图与位置', '效率工具', '图片与PDF', '旅行笔记相关（注：因预定义标签中无完全契合旅行笔记用途的，可根据实际情况考虑是否添加类似标签）', 'obsidian插件']
+> - 插件分类：['地图与位置', '效率工具', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fab34/GeoCapture)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?geo-capture)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fab34/GeoCapture/master/README.md)

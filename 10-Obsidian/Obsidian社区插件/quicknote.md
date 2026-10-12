@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Quick note
 > - 插件作者：James Greenhalgh MBCS
 > - 插件说明：在浮动窗口中创建一个快速笔记（通过命令或右键单击 Obsidian 应用程序图标）
-> - 插件分类：[' 编辑工具 ', ' 插件 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '插件', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jamesgreenblue/obsidian-quicknote)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quicknote)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jamesgreenblue/obsidian-quicknote/main/README.md)

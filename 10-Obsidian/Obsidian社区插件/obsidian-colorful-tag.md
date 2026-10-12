@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Colorful Tag
 > - 插件作者：RieN7
 > - 插件说明：你可以轻松地为标签添加前缀或后缀图标/符号，也可以更改标签的背景或文本颜色，边框样式
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rien7/obsidian-colorful-tag)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-colorful-tag)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rien7/obsidian-colorful-tag/master/README.md)

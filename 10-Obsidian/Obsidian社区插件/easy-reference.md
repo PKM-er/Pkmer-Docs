@@ -18,7 +18,7 @@ modified: 20250715203020
 > - 插件名称：Easy Reference
 > - 插件作者：mcardZH
 > - 插件说明：为图片、表格和章节提供自动引用功能，完全兼容 pandoc-crossref 格式。
-> - 插件分类：[引用, 写作, obsidian插件]
+> - 插件分类：['引用', '写作', 'obsidian插件']
 > - 项目地址：[mcardZH/EasyReference](https://github.com/mcardZH/EasyReference/)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?easy-reference)
 > - 自述文件：[Readme](https://ghproxy.net/https://github.com/mcardZH/EasyReference/raw/refs/heads/master/README.md)

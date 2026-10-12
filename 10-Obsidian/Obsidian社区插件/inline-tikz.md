@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Inline TikZ
 > - 插件作者：Lachlan Harris
 > - 插件说明：直接在你的笔记里完美呈现TikZ、CircuiTikZ和PGFPlots这些LaTeX图表——这款插件尚未经过Obsidian官方人员的人工审核哦。
-> - 插件分类：['图表与可视化', '第三方工具集成', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '第三方工具集成', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lachlanharrisdev/obsidian-inline-tikz)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?inline-tikz)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lachlanharrisdev/obsidian-inline-tikz/master/README.md)

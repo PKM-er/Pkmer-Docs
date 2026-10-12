@@ -20,7 +20,7 @@ modified: 20240116095950
 > - 插件名称：Android nomedia
 > - 插件作者：JakeisAwesome
 > - 插件说明：通过向每个文件夹添加“nomedia”文件，在 Android 设备上隐藏 Vault 中的媒体文件。
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/calomancer/android.nomedia)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?android-nomedia)
 

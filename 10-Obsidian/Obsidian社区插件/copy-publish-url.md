@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Publish and GitHub URL
 > - 插件作者：kometenstaub
 > - 插件说明：复制或打开你发布网站上相应笔记的 URL。你也可以在 GitHub 上打开它的提交历史记录。
-> - 插件分类：[' 界面优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kometenstaub/copy-publish-url)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copy-publish-url)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kometenstaub/copy-publish-url/main/README.md)

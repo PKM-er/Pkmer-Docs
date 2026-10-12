@@ -20,7 +20,7 @@ Vault Full Statistics 插件为 Obsidian 提供了详细的统计信息，显示
 > - 插件名称：Vault Full Statistics
 > - 插件作者：Mikhail Savin
 > - 插件说明：状态栏项目，包含库的完整统计信息，如笔记数量、文件、附件、链接、标签和库的质量。
-> - 插件分类：[' 导航与状态栏 ', ' 数据分析 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['导航与状态栏', '数据分析', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vault-full-statistics)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jtprogru/obsidian-vault-full-statistics-plugin/main/README.md)

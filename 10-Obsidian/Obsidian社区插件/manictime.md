@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ManicTime
 > - 插件作者：Finkit d.o.o.
 > - 插件说明：将活动文件的路径发送到本地安装的 ManicTime 客户端。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/manictime/manictime-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?manictime)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/manictime/manictime-obsidian/main/README.md)

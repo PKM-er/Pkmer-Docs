@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Query Language
 > - 插件作者：Joost Plattel
 > - 插件说明：.这个插件允许您在 Obsidian 中查询笔记并表示数据。
-> - 插件分类：[' 数据处理 ', ' 搜索与排序 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '搜索与排序', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jplattel/obsidian-query-language)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-query-language)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jplattel/obsidian-query-language/main/README.md)

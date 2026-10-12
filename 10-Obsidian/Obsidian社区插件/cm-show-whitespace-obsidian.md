@@ -21,7 +21,7 @@ modified: 20230825093656
 > - 插件版本：0.3.1
 > - 插件作者：death_au
 > - 插件描述：在编辑器中显示空白和制表符
-> - 插件分类：[' 界面相关 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '字符', '制表符', '空格']
 > - 插件项目地址：[点我跳转](https://github.com/deathau/cm-show-whitespace-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cm-show-whitespace-obsidian)
 

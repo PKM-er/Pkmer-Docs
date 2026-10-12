@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：NAI 4 Obsidian
 > - 插件作者：SGreen
 > - 插件说明：使用 NovelAI 的模型生成文本。
-> - 插件分类：[' 数据处理 ', ' 自动化与 AI', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '自动化与AI', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/SalokinGreen/NAI4Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?nai4obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/SalokinGreen/NAI4Obsidian/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Influx
 > - 插件作者：Jens M Gleditsch
 > - 插件说明：一个可以在笔记的页脚聚合简洁的反向链接剪辑的日记插件。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jensmtg/influx)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?influx)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jensmtg/influx/master/README.md)

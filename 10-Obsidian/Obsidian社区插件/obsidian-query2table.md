@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：query2table
 > - 插件作者：avirut
 > - 插件说明：将查询返回的文件表示为其 YAML 前言的表格
-> - 插件分类：[' 数据处理 ', ' 搜索与排序 ', ' 表格 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '搜索与排序', '表格', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/avirut/obsidian-query2table)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-query2table)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/avirut/obsidian-query2table/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tab Shifter
 > - 插件作者：Joshua Rozner
 > - 插件说明：标签切换插件，其行为类似于代码编辑器中的标签切换器。它的行为与 WebStorm 的 tab-shifter 插件相同
-> - 插件分类：[' 界面优化 ', ' 编辑工具 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '编辑工具', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jsrozner/obsidian-tab-shifter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tab-shifter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jsrozner/obsidian-tab-shifter/main/README.md)

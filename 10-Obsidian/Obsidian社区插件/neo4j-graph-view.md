@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Neo4j Graph View
 > - 插件作者：Emile van Krieken
 > - 插件说明：Neo4j 的高级图形可视化和查询插件。
-> - 插件分类：[' 数据处理 ', ' 可视化 ', ' 数据库 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '可视化', '数据库', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HEmile/obsidian-neo4j-graph-view)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?neo4j-graph-view)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HEmile/obsidian-neo4j-graph-view/main/README.md)

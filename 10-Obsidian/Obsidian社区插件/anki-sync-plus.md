@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AnkiSync+
 > - 插件作者：RochaG0
 > - 插件说明：Obsidian 与 Anki 之间的集成。
-> - 插件分类：[' 第三方工具集成 ', ' 图片与 PDF', 'anki', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '图片与PDF', 'anki', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/RochaG07/anki-sync-plus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?anki-sync-plus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/RochaG07/anki-sync-plus/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Journalyst
 > - 插件作者：Justin Arnold
 > - 插件说明：Journalyst 可以轻松创建特定主题的日志。将您的生活组织成睡眠、日常或工作等类别，每天或定期记录，轻松追踪和反思。
-> - 插件分类：[' 表格 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Justin-Arnold/Journalyst)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?journalyst)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Justin-Arnold/Journalyst/master/README.md)

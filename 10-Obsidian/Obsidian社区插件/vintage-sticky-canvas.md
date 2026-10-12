@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vintage Sticky Canvas
 > - 插件作者：chenyan
 > - 插件说明：用复古纸张质感的表面、手写的边缘标签和透明的破纸效果来美化画布板。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['样式与美化', '图表与可视化', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['样式与美化', '图表与可视化', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/xiaowuwu0620/vintage-sticky-canvas)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vintage-sticky-canvas)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/xiaowuwu0620/vintage-sticky-canvas/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：vConsole
 > - 插件作者：Zhou Hua
 > - 插件说明：Integrate vConsole for developers to facilitate the debugging of mobile plugins.
-> - 插件分类：[' 移动端优化 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['移动端优化', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zhouhua/obsidian-vconsole)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vconsole)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zhouhua/obsidian-vconsole/master/README.md)

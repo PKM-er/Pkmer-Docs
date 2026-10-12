@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Graph Link Types
 > - 插件作者：natefrisch01
 > - 插件说明：Link types for graph view.
-> - 插件分类：[' 界面优化 ', ' 样式与美化 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '样式与美化', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/natefrisch01/Graph-Link-Types)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?graph-link-types)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/natefrisch01/Graph-Link-Types/master/README.md)

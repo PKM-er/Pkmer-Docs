@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Potato Indexer
 > - 插件作者：LoyalPotato
 > - 插件说明：允许根据您的选择或整个文件生成内容索引。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/LoyalPotato/potato-indexer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?potato-indexer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/LoyalPotato/potato-indexer/master/README.md)

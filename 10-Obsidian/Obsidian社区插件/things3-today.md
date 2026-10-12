@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Things3 Today
 > - 插件作者：wudanyang6
 > - 插件说明：管理今天的任务，使用 Things3。
-> - 插件分类：[' 任务管理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/wudanyang6/obsidian-things3-today)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?things3-today)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/wudanyang6/obsidian-things3-today/master/README.md)

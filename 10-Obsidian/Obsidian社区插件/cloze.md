@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cloze
 > - 插件作者：Vikki
 > - 插件说明：将高亮、下划线、加粗或任何选定的文本转换为填空题。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/DearVikki/obsidian-cloze-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cloze)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/DearVikki/obsidian-cloze-plugin/main/README.md)

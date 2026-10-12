@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Privacy Glasses
 > - 插件作者：Jill Alberts
 > - 插件说明：提供按钮或者快捷键，来让你快速模糊屏幕上的文本，以提高隐私安全。
-> - 插件分类：[' 编辑工具 ', ' 安全与隐私 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '安全与隐私', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jillalberts/privacy-glasses)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?privacy-glasses)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jillalberts/privacy-glasses/master/README.md)

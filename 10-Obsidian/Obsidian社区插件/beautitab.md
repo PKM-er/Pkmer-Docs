@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Beautitab
 > - 插件作者：Andrew McGivery
 > - 插件说明：Creates a customizable new tab view with beautiful backgrounds, quotes, search, and more.
-> - 插件分类：[' 样式与美化 ', ' 搜索 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '搜索', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/andrewmcgivery/obsidian-beautitab)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?beautitab)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/andrewmcgivery/obsidian-beautitab/main/README.md)

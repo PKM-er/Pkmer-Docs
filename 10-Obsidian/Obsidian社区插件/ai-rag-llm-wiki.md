@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI RAG + LLM Wiki
 > - 插件作者：yep49
 > - 插件说明：这个插件还没有经过Obsidian工作人员的人工审核。这是一个具备高级检索增强生成（RAG）功能的人工智能助手，还有一个由大语言模型（LLM）持续维护的维基知识库，用于信息摄入、实体/概念页面创建、信息整合、索引编制、日志记录和审计。
-> - 插件分类：['自动化与AI', '数据分析', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '数据分析', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yep49/obsidian-ai-rag-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-rag-llm-wiki)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yep49/obsidian-ai-rag-plugin/master/README.md)

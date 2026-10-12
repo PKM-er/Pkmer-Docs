@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MapTheMind
 > - 插件作者：Cosmakes
 > - 插件说明：这个插件还没有经过Obsidian工作人员的人工审核。这是一个用于小鼠神经科学数据的分层可视化数据库，基于艾伦小鼠脑图谱（CCFv3）构建。
-> - 插件分类：['图表与可视化', '数据分析', '白板学术与科研', '图谱', '学习与教育', 'obsidian插件']
+> - 插件分类：['图表与可视化', '数据分析', '学术与科研', '图谱', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cosmakes/MapTheMouseMind)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?neuro-mindmap-mouse)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cosmakes/MapTheMouseMind/master/README.md)

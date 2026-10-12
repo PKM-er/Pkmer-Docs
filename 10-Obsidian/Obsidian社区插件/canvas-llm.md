@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas LLM
 > - 插件作者：Mike Farlenkov
 > - 插件说明：一个类似画布的用户界面，能用来和大语言模型聊天。
-> - 插件分类：['界面优化', '第三方工具集成', '自动化与AI', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['界面优化', '第三方工具集成', '自动化与AI', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/farlenkov/obsidian-canvas-llm)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-llm)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/farlenkov/obsidian-canvas-llm/master/README.md)

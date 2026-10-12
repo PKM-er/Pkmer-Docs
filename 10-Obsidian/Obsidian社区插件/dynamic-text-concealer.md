@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dynamic Text Concealer
 > - 插件作者：Matt Cole Anderson
 > - 插件说明：隐藏或替换 Live Preview 和阅读模式中用户配置的文本模式。
-> - 插件分类：[' 搜索与排序 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mattcoleanderson/obsidian-dynamic-text-concealer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dynamic-text-concealer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mattcoleanderson/obsidian-dynamic-text-concealer/main/README.md)

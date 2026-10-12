@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Frontmatter Links
 > - 插件作者：Dion Tryban (Trikzon)
 > - 插件说明：将笔记前文中的链接渲染为链接。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Trikzon/obsidian-frontmatter-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?frontmatter-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Trikzon/obsidian-frontmatter-links/main/README.md)

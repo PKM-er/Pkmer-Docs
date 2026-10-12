@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obligator
 > - 插件作者：Dimitar Dimitrov
 > - 插件说明：Obligator 是 daily-todos 的替代品，它会将未勾选的待办事项复制到指定标题下。
-> - 插件分类：[' 任务管理 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Newbrict/obsidian-obligator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obligator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Newbrict/obsidian-obligator/master/README.md)

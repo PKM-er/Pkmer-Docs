@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：CookLang Editor
 > - 插件作者：death_au
 > - 插件说明：在 Obsidian 中编辑和显示 CookLang 食谱
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/deathau/cooklang-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cooklang-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cooklang/cooklang-obsidian/main/README.md)

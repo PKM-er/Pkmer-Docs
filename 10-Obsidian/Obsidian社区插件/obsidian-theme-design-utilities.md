@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Theme Design Utilities
 > - 插件作者：pseudometa
 > - 插件说明：一些实用工具和提高生活质量的功能，供 Obsidian 主题设计者使用。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', 'zotero', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', 'zotero', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chrisgrieser/obsidian-theme-design-utilities)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-theme-design-utilities)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/obsidian-theme-design-utilities/main/README.md)

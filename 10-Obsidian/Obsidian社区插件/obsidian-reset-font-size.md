@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Reset Font Size
 > - 插件作者：luckman212
 > - 插件说明：添加按钮和命令以将字体大小重置回其默认值。
-> - 插件分类：[' 样式与美化 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/luckman212/obsidian-reset-font-size)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-reset-font-size)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/luckman212/obsidian-reset-font-size/main/README.md)

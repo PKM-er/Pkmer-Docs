@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Indentation Lines
 > - 插件作者：Nikolas Sturm
 > - 插件说明：为有序和无序列表创建缩进线。官方已经支持，无序额外安装插件实现。
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Arch-Storm/obsidian-indent-lines)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-indent-lines)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Arch-Storm/obsidian-indent-lines/main/README.md)

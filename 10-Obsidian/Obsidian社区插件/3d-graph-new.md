@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：3D Graph New
 > - 插件作者：Hananoshika Yomaru (original by Alexander Weichart)
 > - 插件说明：一个用于黑曜石的 3D 图表
-> - 插件分类：[' 图表 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['图表', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HananoshikaYomaru/obsidian-3d-graph)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?3d-graph-new)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-3d-graph/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markwhen
 > - 插件作者：Markwhen
 > - 插件说明：查看和编辑标记文档。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mark-when/obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markwhen)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mark-when/obsidian-plugin/main/README.md)

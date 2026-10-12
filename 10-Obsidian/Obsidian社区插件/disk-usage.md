@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Disk Usage
 > - 插件作者：Promptier
 > - 插件说明：Measures disk usage for tracking size of folders and file types.
-> - 插件分类：[' 数据处理 ', ' 图表与可视化 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '图表与可视化', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Promptier/disk-usage)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?disk-usage)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Promptier/disk-usage/master/README.md)

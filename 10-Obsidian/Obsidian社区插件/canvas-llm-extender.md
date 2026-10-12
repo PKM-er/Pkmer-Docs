@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas LLM Extender
 > - 插件作者：Pasi Saarinen
 > - 插件说明：让 OpenAI LLM / GPT 为您的画布添加节点。
-> - 插件分类：[' 白板 ', ' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['白板', '数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/phasip/obsidian-canvas-llm-extender)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-llm-extender)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Phasip/obsidian-canvas-llm-extender/main/README.md)

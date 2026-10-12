@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vim Multibyte Char Search
 > - 插件作者：anselmwang
 > - 插件说明：按输入法对应的 ASCII 编码的第一个字符搜索多字节字符。例如，对于中文，可以按拼音的第一个拼音进行搜索。
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/anselmwang/obsidian-vim-multibyte-char-search)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-vim-multibyte-char-search)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/anselmwang/obsidian-vim-multibyte-char-search/main/README.md)

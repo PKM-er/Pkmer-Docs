@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vocabulary Cards
 > - 插件作者：Eugene Myazin
 > - 插件说明：将词汇单词以闪卡和列表的形式展示的简便方法。
-> - 插件分类：[' 学习 ', ' 文字处理 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['学习', '文字处理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/meniam/obsidian-vocabulary-cards)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vocabulary-cards)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/meniam/obsidian-vocabulary-cards/main/README.md)

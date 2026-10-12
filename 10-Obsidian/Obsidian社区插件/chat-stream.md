@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Chat Stream
 > - 插件作者：Ryan P Smith
 > - 插件说明：使用画布笔记创建分支式 GPT 聊天。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rpggio/obsidian-chat-stream)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chat-stream)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rpggio/obsidian-chat-stream/master/README.md)

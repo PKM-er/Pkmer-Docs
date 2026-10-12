@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Smart Title
 > - 插件作者：magooup
 > - 插件说明：自动从标题中提取标签和别名。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', ' 标签 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', '标签', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/magooup/obsidian-plugin-smart-title)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?smart-title)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/magooup/obsidian-plugin-smart-title/master/README.md)

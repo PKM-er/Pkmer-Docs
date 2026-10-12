@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Zotero Sync
 > - 插件作者：Frithjof Gressmann
 > - 插件说明：将 Zotero API 客户端同步您的 Zotero 图书馆到您的保险库中
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', 'zotero', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', 'zotero', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/frthjf/obsidian-zotero-sync-client)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zotero-sync-client)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/frthjf/obsidian-zotero-sync-client/main/README.md)

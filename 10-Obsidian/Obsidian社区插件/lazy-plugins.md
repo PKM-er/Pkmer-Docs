@@ -24,7 +24,7 @@ Lazy Plugin Loader 就是为了解决 Obsidian 插件过度，启动速度被拖
 > - 插件名称：Lazy Plugin Loader
 > - 插件作者：Alan Grainger
 > - 插件说明：让 obsidian 的插件具有延迟加载功能，提升启动速度。
-> - 插件分类：[' 插件管理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '笔记链接', 'ANKI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/alangrainger/obsidian-lazy-plugins)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?lazy)
 

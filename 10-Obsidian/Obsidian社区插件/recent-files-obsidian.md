@@ -18,7 +18,7 @@ modified: 20230831151244
 > - 插件名称：Recent Files
 > - 插件作者：Tony Grosinger
 > - 插件说明：显示最近打开的文件列表
-> - 插件分类：[' 笔记文件处理 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '最近浏览']
 > - 插件项目地址：[点我跳转](https://github.com/tgrosinger/recent-files-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?recent-files-obsidian)
 

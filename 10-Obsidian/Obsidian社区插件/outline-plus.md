@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Outline++
 > - 插件作者：Ryota Ushio
 > - 插件说明：在大纲视图中呈现 Markdown。
-> - 插件分类：[' 界面优化 ', ' 文字处理 ', ' 思维导图 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文字处理', '思维导图', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/RyotaUshio/obsidian-outline-plus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?outline-plus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/RyotaUshio/obsidian-outline-plus/main/README.md)

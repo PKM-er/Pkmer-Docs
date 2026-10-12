@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Text to Speech
 > - 插件作者：Johannes Theiner
 > - 插件说明：Obsidian 的语音合成功能。听取您的笔记。
-> - 插件分类：[' 语音合成 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['语音合成', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joethei/obsidian-tts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tts)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/joethei/obsidian-tts/master/README.md)

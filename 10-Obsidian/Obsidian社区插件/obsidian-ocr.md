@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian OCR
 > - 插件作者：Jonas Mohr
 > - 插件说明：使用光学字符识别技术在您的图像和 PDF 文件中搜索文本
-> - 插件分类：[' 图片与 PDF', ' 搜索 ', 'obsidian 插件 ']
+> - 插件分类：['图片与PDF', '搜索', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MohrJonas/obsidian-ocr)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-ocr)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MohrJonas/obsidian-ocr/master/README.md)

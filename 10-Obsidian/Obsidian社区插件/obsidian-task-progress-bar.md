@@ -20,7 +20,7 @@ modified: 20240108114139
 > - 插件名称：Task Progress Bar
 > - 插件作者：Boninall
 > - 插件说明： Obsidian 任务的任务进度条插件。
-> - 插件分类：[' 任务管理 ', ' 美化 ', ' 界面相关 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '美化', '界面相关', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Task-Progress-Bar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-task-progress-bar)
 

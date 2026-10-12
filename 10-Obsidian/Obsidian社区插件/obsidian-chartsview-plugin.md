@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Charts View
 > - 插件作者：caronchen
 > - 插件说明：Obsidian 中的数据可视化解决方案，支持图表和图形。
-> - 插件分类：[' 数据处理 ', ' 图表与可视化 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '图表与可视化', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/caronchen/obsidian-chartsview-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-chartsview-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/caronchen/obsidian-chartsview-plugin/master/README.md)

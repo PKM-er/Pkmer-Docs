@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Drag-n-Drop for blocks
 > - 插件作者：Artem Barmin
 > - 插件说明：允许使用拖放的方式移动/复制/创建块，就像 Logseq 或 Roam 一样。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 搜索 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '搜索', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/artem-barmin/obsidian-block-drag-n-drop)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-drag-n-drop-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/artem-barmin/obsidian-block-drag-n-drop/master/README.md)

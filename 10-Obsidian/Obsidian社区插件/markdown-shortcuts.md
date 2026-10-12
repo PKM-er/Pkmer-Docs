@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markdown shortcuts
 > - 插件作者：Jules Guesnon
 > - 插件说明：允许使用快捷键编写 Markdown
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JulesGuesnon/obsidian-markdown-shortcuts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-shortcuts)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JulesGuesnon/obsidian-markdown-shortcuts/master/README.md)

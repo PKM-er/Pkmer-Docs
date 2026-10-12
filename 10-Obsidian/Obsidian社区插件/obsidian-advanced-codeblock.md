@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Advanced Codeblock
 > - 插件作者：Lijyze
 > - 插件说明：为 Obsidian 的代码域，增加代码块行号，和编程语言的高亮方案。
-> - 插件分类：[' 编程与脚本 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['编程与脚本', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lijyze/obsidian-advanced-codeblock)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-advanced-codeblock)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lijyze/obsidian-advanced-codeblock/main/README.md)

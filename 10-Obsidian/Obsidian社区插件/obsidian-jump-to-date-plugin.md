@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian42 - Jump-to-Date
 > - 插件作者：TfTHacker
 > - 插件说明：快速导航日期的弹出式日历。
-> - 插件分类：[' 日历与时间 ', ' 导航与状态栏 ', ' 移动端优化 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '导航与状态栏', '移动端优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/TfTHacker/obsidian42-jump-to-date)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-jump-to-date-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/TfTHacker/obsidian42-jump-to-date/main/README.md)

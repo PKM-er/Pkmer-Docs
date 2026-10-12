@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Gladdis
 > - 插件作者：Aurélien Stébé
 > - 插件说明：Gladdis（生成语言人工专用和勤奋智能系统）- 这是一个 AI 聊天机器人。
-> - 插件分类：[' 自动化与 AI', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['自动化与AI', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/AurelienStebe/Gladdis)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gladdis)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/AurelienStebe/Gladdis/main/README.md)

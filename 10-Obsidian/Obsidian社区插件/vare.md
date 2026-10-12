@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：VARE
 > - 插件作者：4Source
 > - 插件说明：现在您可以轻松管理您的插件和主题。只需选择您想要的版本或安装来自 GitHub 的未列出版本。您还可以安装测试版，并在必要时切换回来。
-> - 插件分类：[' 文件管理 ', ' 界面优化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '界面优化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/4Source/vare-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vare)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/4Source/vare-obsidian-plugin/master/README.md)

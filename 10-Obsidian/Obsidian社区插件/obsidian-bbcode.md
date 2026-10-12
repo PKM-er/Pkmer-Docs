@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：BBCode Convertor
 > - 插件作者：Alex Lockhart
 > - 插件说明：将 Markdown 文件转换为 BBCode
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/salockhart/obsidian-bbcode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-bbcode)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/salockhart/obsidian-bbcode/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Checkbox Time Tracker
 > - 插件作者：UD
 > - 插件说明：Insert timestamp when you check off the checkbox
-> - 插件分类：['时间管理', '数据处理', '任务管理', 'obsidian插件']
+> - 插件分类：['日历与时间', '数据处理', '任务管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/udus122/checkbox-time-tracker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?checkbox-time-tracker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/udus122/checkbox-time-tracker/main/README.md)

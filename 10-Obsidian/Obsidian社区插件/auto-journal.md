@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Auto Journal
 > - 插件作者：Evan Bonsignori
 > - 插件说明：像日常笔记一样的有主见的日志自动化，但可以为 Obsidian 未打开的那些日子进行补充。
-> - 插件分类：[' 日历与时间 ', ' 自动化与 AI', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '自动化与AI', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Ebonsignori/obsidian-auto-journal)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-journal)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Ebonsignori/obsidian-auto-journal/main/README.md)

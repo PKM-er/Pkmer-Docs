@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：WuCai highlights Official
 > - 插件作者：希果壳五彩
 > - 插件说明：将吴才的亮点同步到您的笔记中
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/makediff/obsidian-wucai)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?wucai-highlights-official)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/makediff/obsidian-wucai/master/README.md)

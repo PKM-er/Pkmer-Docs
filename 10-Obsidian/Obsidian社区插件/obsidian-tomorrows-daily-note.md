@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tomorrow's Daily Note
 > - 插件作者：Will Olson
 > - 插件说明：用于创建明天的日常笔记以进行预先计划。
-> - 插件分类：[' 编辑工具 ', ' 任务管理 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '任务管理', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/frankolson/obsidian-tomorrows-daily-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tomorrows-daily-note)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/frankolson/obsidian-tomorrows-daily-note/main/README.md)

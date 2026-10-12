@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Copy Search URL
 > - 插件作者：Carlo Zottmann
 > - 插件说明：在搜索视图中添加一个按钮，用于复制 Obsidian 搜索 URL。
-> - 插件分类：[' 界面优化 ', ' 文字处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文字处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/czottmann/obsidian-copy-search-url)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-copy-search-url)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/czottmann/obsidian-copy-search-url/main/README.md)

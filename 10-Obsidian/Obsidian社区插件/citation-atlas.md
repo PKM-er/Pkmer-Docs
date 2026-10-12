@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Citation Atlas
 > - 插件作者：Kerekes Stefan
 > - 插件说明：Citation-map canvas export for Zotero: pick items, collections or authors and get a drag-and-drop .canvas literature map — papers as nodes, citations as edges, collections as containers, colored by unread / read / annotated. - This plugin has not been manually reviewed by Obsidian staff.
-> - 插件分类：['zotero', '图表与可视化', '图谱', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['zotero', '图表与可视化', '图谱', '第三方工具集成', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/stef4678/citation-atlas)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?citation-atlas)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/stef4678/citation-atlas/master/README.md)

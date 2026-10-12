@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pomodoro Timer
 > - 插件作者：eatgrass
 > - 插件说明：A pomodoro timer that helps manage your daily focus
-> - 插件分类：[' 编辑工具 ', ' 状态栏 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '状态栏', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/eatgrass/obsidian-pomodoro-timer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pomodoro-timer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/eatgrass/obsidian-pomodoro-timer/master/README.md)

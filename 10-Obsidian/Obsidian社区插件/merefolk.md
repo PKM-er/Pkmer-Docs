@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Merefolk
 > - 插件作者：Josh
 > - 插件说明：把Mermaid实体关系图变成原生的、可编辑的Excalidraw图——有鱼尾式基数表示法，布局简洁。 - 此插件尚未经过Obsidian官方人员人工审核。
-> - 插件分类：['图表与可视化', '编辑工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '编辑工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/quiachonj/merefolk)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?merefolk)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/quiachonj/merefolk/master/README.md)

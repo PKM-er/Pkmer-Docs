@@ -20,7 +20,7 @@ modified: 20240123173424
 > - 插件名称：Timeline
 > - 插件作者：George Butco
 > - 插件说明：用于构建时间轴。
-> - 插件分类：[' 界面相关 ', 'obsidian 插件 ']
+> - 插件分类：['界面相关', 'obsidian插件', '时间线/时间轴']
 > - 项目地址：[点我访问](https://github.com/George-debug/obsidian-timeline)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-timeline)
 

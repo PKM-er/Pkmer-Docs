@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Kindle Highlights
 > - 插件作者：Hady Osman
 > - 插件说明：使用您的亚马逊登录或上传您的“我的剪辑”文件来同步您的 Kindle 书籍突出显示
-> - 插件分类：[' 文件管理 ', ' 导航与状态栏 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '导航与状态栏', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hadynz/obsidian-kindle-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-kindle-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hadynz/obsidian-kindle-plugin/master/README.md)

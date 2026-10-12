@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Financial Doc
 > - 插件作者：Studio Webux
 > - 插件说明：在 Obsidian 中直接使用 CSV 格式和 Chart.js 进行财务文件和跟踪。
-> - 插件分类：[' 数据处理 ', ' 图表与可视化 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '图表与可视化', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yet-another-tool/obsidian-findoc)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?findoc)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yet-another-tool/obsidian-findoc/main/README.md)

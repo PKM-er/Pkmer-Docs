@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：WordWise
 > - 插件作者：ckt1031
 > - 插件说明：Writing companion for AI content generation.
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ckt1031/obsidian-wordwise-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?wordwise)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ckt1031/obsidian-wordwise-plugin/main/README.md)

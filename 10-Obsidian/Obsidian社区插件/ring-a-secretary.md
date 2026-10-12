@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ring a secretary
 > - 插件作者：vorotamoroz
 > - 插件说明：又一个由 ChatGPT 驱动的数字秘书
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vrtmrz/ring-a-secretary)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ring-a-secretary)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vrtmrz/ring-a-secretary/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Minitabs
 > - 插件作者：ssjy1919
 > - 插件说明：通过代码块自定义一组嵌套标签页。
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ssjy1919/Obsidian-minitabs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?minitabs)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ssjy1919/Obsidian-minitabs/master/README.md)

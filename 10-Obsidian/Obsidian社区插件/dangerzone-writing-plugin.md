@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dangerzone Writing
 > - 插件作者：Alexis Rondeau
 > - 插件说明：这个插件很危险！当你开始它时，你必须不停地写 100 秒。如果你停下来，思考和环顾四周，3 秒钟后，插件将删除你在这个笔记中写的内容。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/akaalias/dangerzone-writing-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dangerzone-writing-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/akaalias/dangerzone-writing-plugin/master/README.md)

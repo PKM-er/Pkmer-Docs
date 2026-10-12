@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dynamic Line Height for CJK
 > - 插件作者：Ryota Ushio
 > - 插件说明：动态调整包含 CJK 字符的行和段落的行高。
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/RyotaUshio/obsidian-dynamic-line-height-cjk)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dynamic-line-height-cjk)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/RyotaUshio/obsidian-dynamic-line-height-cjk/master/README.md)

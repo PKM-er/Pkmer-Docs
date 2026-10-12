@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Key Promoter
 > - 插件作者：Johannes Theiner
 > - 插件说明：通过当使用鼠标时显示它们来学习键盘快捷键。
-> - 插件分类：[' 快捷键 ', ' 学习与教育 ', ' 统计与图表 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '学习与教育', '统计与图表', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joethei/obsidian-key-promoter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?key-promoter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/joethei/obsidian-key-promoter/master/README.md)

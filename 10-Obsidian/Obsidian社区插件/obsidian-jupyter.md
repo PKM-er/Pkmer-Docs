@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Jupyter
 > - 插件作者：tillahoffmann
 > - 插件说明：在 Obsidian 中使用 Jupyter 运行 Python 代码。
-> - 插件分类：[' 编程与脚本 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['编程与脚本', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tillahoffmann/obsidian-jupyter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-jupyter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tillahoffmann/obsidian-jupyter/master/README.md)

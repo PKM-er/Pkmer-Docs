@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ollama Chat
 > - 插件作者：Brumik
 > - 插件说明：一个为 Obsidian 设计的插件，可以借助 Ollama 和 LlamaIndex 与您的笔记进行聊天。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/brumik/obsidian-ollama-chat)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ollama-chat)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/brumik/obsidian-ollama-chat/main/README.md)

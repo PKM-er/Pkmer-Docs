@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Knowlery
 > - 插件作者：Jay Jiang
 > - 插件说明：这是一个温馨的、供Obsidian仓库使用的个人知识回顾空间。
-> - 插件分类：['学习与教育', '效率工具', '白板学术与科研', '图谱', 'obsidian插件']
+> - 插件分类：['学习与教育', '效率工具', '学术与科研', '图谱', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jayjiangct/knowlery)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?knowlery)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jayjiangct/knowlery/master/README.md)

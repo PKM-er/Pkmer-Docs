@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Daily Notes Viewer
 > - 插件作者：Johnson0907
 > - 插件说明：帮助您在一个页面上查看一些最近的日记。
-> - 插件分类：[' 笔记与日志 ', ' 界面优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['笔记与日志', '界面优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Johnson0907/obsidian-daily-notes-viewer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-daily-notes-viewer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Johnson0907/obsidian-daily-notes-viewer/master/README.md)

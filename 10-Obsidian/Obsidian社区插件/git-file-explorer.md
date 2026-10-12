@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Git File Explorer
 > - 插件作者：Mateus Molina
 > - 插件说明：将检测到的 git 存储库的相关 git 信息添加到文件资源管理器中
-> - 插件分类：[' 文件管理 ', ' 第三方工具集成 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '第三方工具集成', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MateusMolina/obsidian-git-file-explorer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?git-file-explorer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MateusMolina/obsidian-git-file-explorer/master/README.md)

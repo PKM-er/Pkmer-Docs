@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Projex
 > - 插件作者：Lenonss
 > - 插件说明：
-> - 插件分类：['任务管理，编辑工具，效率工具，数据处理', 'obsidian插件']
+> - 插件分类：['任务管理', '编辑工具', '效率工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lenonss/obsidian-tasklist)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tasklist)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lenonss/obsidian-tasklist/master/README.md)

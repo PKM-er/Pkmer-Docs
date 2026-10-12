@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Simple Dice Roller
 > - 插件作者：yeeshue99
 > - 插件说明：一个即插即用的解决方案，可以让你平均和模拟骰子公式。
-> - 插件分类：[' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yeeshue99/SimpleDiceRoller)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?simple-dice-roller)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yeeshue99/SimpleDiceRoller/master/README.md)

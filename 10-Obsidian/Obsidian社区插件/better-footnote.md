@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Better Footnote
 > - 插件作者：alcatrazyu
 > - 插件说明：这个插件还未经Obsidian官方人员手动审核。这是一个专注于写作的脚注侧边栏插件，可用于编辑、导航学术Markdown笔记，还能保留笔记上下文。
-> - 插件分类：['编辑工具', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/alcatrazyu/better-footnote)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-footnote)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/alcatrazyu/better-footnote/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Read Later
 > - 插件作者：Gabriele Cannata
 > - 插件说明：将网页同步到 Markdown，并与阅读稍后应用（Pocket，Instapaper）集成。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Canna71/obsidian-readlater)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-readlater)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Canna71/obsidian-readlater/main/README.md)

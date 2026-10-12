@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Qiniu Image Uploader
 > - 插件作者：Jade Zheng
 > - 插件说明：将剪贴板中的图像上传到 qiniu.com，并将上传的图像嵌入到您的笔记中。
-> - 插件分类：[' 第三方工具集成 ', ' 图片与 PDF', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '图片与PDF', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jianzs/obsidian-qiniu-image-uploader)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?qiniu-image-uploader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jianzs/obsidian-qiniu-image-uploader/master/README.md)

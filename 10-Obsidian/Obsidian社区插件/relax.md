@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：R.E.L.A.X.
 > - 插件作者：Syr
 > - 插件说明：Multi-regex 管理用于跨选择、文件和文件夹进行数据链接和批处理。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Syr0/R.E.L.A.X.)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?relax)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Syr0/R.E.L.A.X./main/README.md)

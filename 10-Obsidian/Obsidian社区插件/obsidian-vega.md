@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vega Visualizations
 > - 插件作者：Justin Kim
 > - 插件说明：用于渲染 Vega 或 Vega-Lite 数据可视化图，如折线图和散点图。
-> - 插件分类：[' 数据处理 ', ' 图表与可视化 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '图表与可视化', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Some-Regular-Person/obsidian-vega)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-vega)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Justin-J-K/obsidian-vega/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vim IM Control
 > - 插件作者：hideakitai
 > - 插件说明：黑曜石插件，用于在“插入离开”和“插入进入”时切换输入法。支持 macOS、Windows 和 Linux。
-> - 插件分类：[' 编辑工具 ', ' 自定义命令 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自定义命令', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hideakitai/obsidian-vim-im-control)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vim-im-control)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hideakitai/obsidian-vim-im-control/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Google Calendar
 > - 插件作者：YukiGasai
 > - 插件说明：让你的 Obsidian 与您的 Google 日历进行交互
-> - 插件分类：[' 日历与时间 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/YukiGasai/obsidian-google-calendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?google-calendar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/YukiGasai/obsidian-google-calendar/master/README.md)

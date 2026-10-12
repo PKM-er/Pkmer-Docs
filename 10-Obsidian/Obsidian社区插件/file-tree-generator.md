@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File Tree Generator
 > - 插件作者：Unarray
 > - 插件说明：使用 Obsidian 的 callouts 生成一个文件树。
-> - 插件分类：[' 文件管理 ', ' 编辑工具 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编辑工具', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Unarray/FileTreeGenerator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-tree-generator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Unarray/FileTreeGenerator/main/README.md)

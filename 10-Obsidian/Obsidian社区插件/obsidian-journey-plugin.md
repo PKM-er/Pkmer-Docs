@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Journey
 > - 插件作者：Alexis Rondeau
 > - 插件说明：发现你的笔记之间的故事
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/akaalias/obsidian-journey-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-journey-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/akaalias/obsidian-journey-plugin/master/README.md)

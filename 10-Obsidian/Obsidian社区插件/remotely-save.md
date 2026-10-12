@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Remotely Save
 > - 插件作者：fyears
 > - 插件说明：非官方同步不插件，允许用户在本地设备和云服务（S3，Dropbox，WebDAV，OneDrive）之间同步笔记。
-> - 插件分类：[' 第三方工具集成 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/remotely-save/remotely-save)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?remotely-save)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/remotely-save/remotely-save/master/README.md)

@@ -20,7 +20,7 @@ modified: 20240105181844
 > - 插件名称：Easy toggle sidebars
 > - 插件作者：1C0D
 > - 插件说明：切换两侧边栏（双击中键或使用自定义快捷键），或者通过点击中键并将鼠标移向相应的边栏来切换每个边栏。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/1C0D/obsidian-easy-toggle-sidebars)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?easy-toggle-sidebars)
 

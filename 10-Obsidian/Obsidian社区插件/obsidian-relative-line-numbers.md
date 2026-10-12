@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Relative Line Numbers
 > - 插件作者：Nadav Spiegelman
 > - 插件说明：在编辑模式中启用相对行号
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nadavspi/obsidian-relative-line-numbers)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-relative-line-numbers)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nadavspi/obsidian-relative-line-numbers/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Solo RPG Toolkit
 > - 插件作者：Alex Kurowski
 > - 插件说明：适用于玩 TTRPG 游戏的有用工具，专为单人游戏与 GM 仿真器而设计。
-> - 插件分类：[' 游戏 ', 'obsidian 插件 ']
+> - 插件分类：['游戏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/alexkurowski/solo-toolkit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?solo-rpg-toolkit)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/alexkurowski/solo-toolkit/main/README.md)

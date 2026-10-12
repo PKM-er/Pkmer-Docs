@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Time Ruler
 > - 插件作者：Joshua Tazman Reinier
 > - 插件说明：一个拖放式的时间标尺，结合了任务列表和日历视图的优点（与任务、完整日历和数据视图集成）。
-> - 插件分类：[' 界面优化 ', ' 日历与时间 ', ' 任务管理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '日历与时间', '任务管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joshuatazrein/obsidian-time-ruler)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?time-ruler)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/j-palindrome/obsidian-time-ruler/master/README.md)

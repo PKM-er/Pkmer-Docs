@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：text2anki-openai
 > - 插件作者：Mani Batra
 > - 插件说明：This is an obsidian plugin that uses OpenAI to generate flashcards from text and add them to Anki.
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', 'anki', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', 'anki', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/manibatra/obsidian-text2anki-openai)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?text2anki-openai)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/manibatra/obsidian-text2anki-openai/master/README.md)

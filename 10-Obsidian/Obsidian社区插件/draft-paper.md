@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Draft Paper
 > - 插件作者：Baka
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。它是个全屏便签板，能直接在Markdown文件上进行随意批注。
-> - 插件分类：['编辑工具', '文字处理', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '文字处理', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mikuloverfan/draft-paper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?draft-paper)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mikuloverfan/draft-paper/master/README.md)

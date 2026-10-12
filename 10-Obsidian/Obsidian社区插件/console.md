@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Console Markdown Plugin
 > - 插件作者：Daniel Ellermann
 > - 插件说明：渲染控制台命令及其输出。
-> - 插件分类：[' 编辑工具 ', ' 文件管理 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文件管理', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dellermann/obsidian-console)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?console)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dellermann/obsidian-console/master/README.md)

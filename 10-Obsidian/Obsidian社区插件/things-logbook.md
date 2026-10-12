@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Things Logbook
 > - 插件作者：Liam Cain
 > - 插件说明：将你的 Obsidian 日记 和 你的 Things 进行同步。
-> - 插件分类：[' 第三方工具集成 ', ' 任务管理 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '任务管理', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/liamcain/obsidian-things-logbook)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?things-logbook)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/liamcain/obsidian-things-logbook/main/README.md)

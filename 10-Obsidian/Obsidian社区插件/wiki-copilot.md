@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Wiki Copilot
 > - 插件作者：deanxi
 > - 插件说明：通过本地词汇检索、维基链接扩展和可追溯引用，向你的持久大语言模型维基百科提问。——此插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['自动化与AI', '搜索与排序', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '搜索与排序', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/deanxizian/obisidian-wiki-copilot)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?wiki-copilot)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/deanxizian/obisidian-wiki-copilot/master/README.md)

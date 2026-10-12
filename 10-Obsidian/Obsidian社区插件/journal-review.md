@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Journal Review
 > - 插件作者：Kageetai
 > - 插件说明：回顾你每天的笔记，比如“去年的今天发生了什么”。
-> - 插件分类：[' 日历与时间 ', ' 笔记与日志 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '笔记与日志', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Kageetai/obsidian-plugin-journal-review)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?journal-review)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Kageetai/obsidian-plugin-journal-review/master/README.md)

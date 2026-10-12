@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PDF Highlights
 > - 插件作者：Alexis Rondeau
 > - 插件说明：允许从 pdf 中的高亮和下划线文本中，提取内容到你的笔记文件中。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/akaalias/obsidian-extract-pdf-highlights)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-extract-pdf-highlights)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/akaalias/obsidian-extract-pdf-highlights/master/README.md)

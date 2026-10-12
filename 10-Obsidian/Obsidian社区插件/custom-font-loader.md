@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Custom Font Loader
 > - 插件作者：Amir Pourmand
 > - 插件说明：使用任何您想要的字体自定义您的 Obsidian 保险库（+ 支持 Android 和 iOS）
-> - 插件分类：[' 样式与美化 ', ' 移动端优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '移动端优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pourmand1376/obsidian-custom-font)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?custom-font-loader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pourmand1376/obsidian-custom-font/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：GitHobs
 > - 插件作者：GabAlpha and MarcoG
 > - 插件说明：使用 Obsidian 作为 Github 问题编辑器，其中的逻辑取自 Git
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/GabAlpha/obsidian-githobs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?githobs)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/GabAlpha/obsidian-githobs/master/README.md)

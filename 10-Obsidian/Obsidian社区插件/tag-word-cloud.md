@@ -20,7 +20,7 @@ modified: 20230920221749
 > - 插件名称：Tag, Word & Link Cloud
 > - 插件作者：Johannes Theiner
 > - 插件说明：展示你的标签/词/链接的云图
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件', 'readme']
 > - 项目地址：[点我访问](https://github.com/joethei/obsidian-tagcloud)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-word-cloud)
 

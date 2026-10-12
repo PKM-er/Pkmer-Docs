@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Floating Highlights
 > - 插件作者：Karthik S Raju
 > - 插件说明：增强的高亮功能适用于黑曜石
-> - 插件分类：[' 界面优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/KarthikRaju391/obsidian-float)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?floating-highlights)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/KarthikRaju391/obsidian-float/main/README.md)

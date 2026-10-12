@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Interlinear Glossing
 > - 插件作者：Mijyuoon
 > - 插件说明：在语言学文本中使用的格式化线性注释。
-> - 插件分类：[' 数据处理 ', ' 样式与美化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '样式与美化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Mijyuoon/obsidian-ling-gloss)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ling-gloss)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mijyuoon/obsidian-ling-gloss/master/README.md)

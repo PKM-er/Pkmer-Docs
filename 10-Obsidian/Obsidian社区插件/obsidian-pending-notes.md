@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pending notes
 > - 插件作者：Ulises Santana
 > - 插件说明：Obsidian 插件可以在你的保险库中搜索没有笔记的链接。
-> - 插件分类：[' 搜索与排序 ', ' 笔记与日志 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '笔记与日志', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ulisesantana/obsidian-pending-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-pending-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ulisesantana/obsidian-pending-notes/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Simple Citations
 > - 插件作者：masaki39
 > - 插件说明：Add & update simple literature notes.
-> - 插件分类：[' 数据处理 ', ' 第三方工具集成 ', 'zotero', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '第三方工具集成', 'zotero', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/masaki39/simple-citations)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?simple-citations)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/masaki39/simple-citations/main/README.md)

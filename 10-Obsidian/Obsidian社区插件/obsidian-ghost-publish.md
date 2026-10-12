@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Ghost Publish
 > - 插件作者：@jaynguyens
 > - 插件说明：一键发布到 Ghost 站点
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jaynguyens/obsidian-ghost-publish)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-ghost-publish)
 

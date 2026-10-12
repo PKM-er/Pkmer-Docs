@@ -20,7 +20,7 @@ modified: 20240116104808
 > - 插件名称：Auto Archive
 > - 插件作者：Shane Burke
 > - 插件说明：一旦笔记达到一定的年龄，自动归档。
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian插件', '归档']
 > - 项目地址：[点我访问](https://github.com/shanedonburke/obsidian-auto-archive)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-archive)
 

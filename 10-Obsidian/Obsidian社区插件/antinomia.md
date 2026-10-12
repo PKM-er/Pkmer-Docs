@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Antinomia
 > - 插件作者：Giuseppe De Martino
 > - 插件说明：梳理并化解你仓库里的矛盾：通过前置元数据，将矛盾、权衡和相互冲突的目标分为五层进行整理，还配备了AI矛盾猎手和PDF概念提取功能。既可以与云API配合使用，也能使用完全本地化的模型。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['自动化与AI', '数据分析', '图谱', '白板学术与科研', '学习与教育', 'obsidian插件']
+> - 插件分类：['自动化与AI', '数据分析', '图谱', '学术与科研', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/demartinogiuseppe/antinomia)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?antinomia)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/demartinogiuseppe/antinomia/master/README.md)

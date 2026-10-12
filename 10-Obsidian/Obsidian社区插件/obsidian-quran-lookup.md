@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Quran Lookup
 > - 插件作者：Abu Ibrahim
 > - 插件说明：使用这个文本替换插件，轻松在 Obsidian 中添加古兰经经文和翻译。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/abuibrahim2/quranlookup)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-quran-lookup)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/abuibrahim2/quranlookup/master/README.md)

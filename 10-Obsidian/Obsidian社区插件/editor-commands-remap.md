@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Editor Commands Remap
 > - 插件作者：cactus5
 > - 插件说明：将热键映射到编辑器命令。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/c4ctus5/editor-commands-remap)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?editor-commands-remap)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/c4ctus5/editor-commands-remap/master/README.md)

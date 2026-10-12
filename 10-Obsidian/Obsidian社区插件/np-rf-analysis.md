@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：nPort RF Analysis
 > - 插件作者：Jerome G Wiltz
 > - 插件说明：能从Markdown里分析射频和微波网络，还能生成SVG图表、表格以及史密斯圆图。——Obsidian官方人员还没对这款插件进行人工审核呢。
-> - 插件分类：['数据分析', '图表与可视化', '数据处理', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['数据分析', '图表与可视化', '数据处理', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jerrywiltz/np-rf-analysis)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?np-rf-analysis)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jerrywiltz/np-rf-analysis/master/README.md)

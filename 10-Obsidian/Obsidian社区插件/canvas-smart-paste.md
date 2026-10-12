@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Smart Paste
 > - 插件作者：zhao414
 > - 插件说明：能智能地把剪贴板内容以节点形式粘贴到画布中，可自动识别为单节点、标题树、列表树或段落。 - 此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['编辑工具', '效率工具', '自动化与AI', '思维导图', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '效率工具', '自动化与AI', '思维导图', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zhao414/canvas-smart-paste)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-smart-paste)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zhao414/canvas-smart-paste/master/README.md)

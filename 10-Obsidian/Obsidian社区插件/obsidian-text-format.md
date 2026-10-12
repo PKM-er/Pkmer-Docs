@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Text Format
 > - 插件作者：Benature
 > - 插件说明：解决从 PDF 或其他软件复制内容后，格式错乱问题。此插件将会格式化选定的文本小写/大写/大写/标题大小写，或者删除多余的空格/换行符，以及一些其他功能。
-> - 插件分类：[' 文本处理 ', ' 样式与美化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文字处理', '样式与美化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Benature/obsidian-text-format)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-text-format)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Benature/obsidian-text-format/master/README.md)

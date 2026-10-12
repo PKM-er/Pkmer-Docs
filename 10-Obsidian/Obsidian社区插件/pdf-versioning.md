@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PDF versioning
 > - 插件作者：Andrea Salomone
 > - 插件说明：与外部工具集成，可进行PDF注释和嵌入式视图展示，还支持完整的版本控制。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['第三方工具集成', '图片与PDF', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '图片与PDF', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/delino-wkb/PDFversioning)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pdf-versioning)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/delino-wkb/PDFversioning/master/README.md)

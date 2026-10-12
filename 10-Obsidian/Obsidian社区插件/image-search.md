@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Image Search
 > - 插件作者：Mohammad Razeghi
 > - 插件说明：搜索并使用 Google API 插入图片
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/razeghi71/obsidian-image-search)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?image-search)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/razeghi71/obsidian-image-search/main/README.md)

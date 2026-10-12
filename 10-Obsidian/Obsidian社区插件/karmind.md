@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：KarMind
 > - 插件作者：lhy723
 > - 插件说明：它可以借助大语言模型（LLM）来管理笔记，实现维基整理、问答、内容回填以及健康检查等功能。
-> - 插件分类：['自动化与AI', '文件管理', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '文件管理', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lhy723/obsidian-karmind)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?karmind)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lhy723/obsidian-karmind/master/README.md)

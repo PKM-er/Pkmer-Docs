@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TimeSaver
 > - 插件作者：tommy.li
 > - 插件说明：节省您的时间。1. 快速插入待办事项指令。2. 快速计算当前笔记中任务所花费的时间以及总共花费的时间。
-> - 插件分类：[' 任务管理 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/odayou/obsidian-task-processing-extension)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?time-saver)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/odayou/task-processing-extension/master/README.md)

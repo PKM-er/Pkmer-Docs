@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dynamic RTL
 > - 插件作者：mwxgaf
 > - 插件说明：每行/段根据语言动态调整 RTL/LTR 方向！
-> - 插件分类：[' 样式与美化 ', ' 多语言 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '多语言', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mwxgaf/obsidian-dynamic-rtl)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dynamic-rtl)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/OpenMindAmir/obsidian-dynamic-rtl/master/README.md)

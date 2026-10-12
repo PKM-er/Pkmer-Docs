@@ -25,7 +25,7 @@ Zotero 和 Obsidian 都是我个人十分认可的知识管理工具，当然两
 > - 插件名称：ZotLit
 > - 插件作者：AidenLx
 > - 插件说明：与 Zotero 集成的插件，可以创建文献笔记，并从 Zotero 库中插入引用。
-> - 插件分类：['obsidian 插件 ', ' 格式化排版 ', 'word']
+> - 插件分类：['zotero']
 > - 项目地址：[点我访问](https://github.com/PKM-er/obsidian-zotlit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zotlit)
 

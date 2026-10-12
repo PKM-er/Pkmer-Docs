@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Simplicial Complex
 > - 插件作者：zorvan
 > - 插件说明：通过单纯复形视图在仓库中进行知识探索，能实现高阶关系分析、拓扑分析以及涌现结构检测。  - 此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['图表与可视化', '数据分析', '图谱', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '数据分析', '图谱', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zorvan/simplicial-complex)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?simplicial-complex)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zorvan/simplicial-complex/master/README.md)

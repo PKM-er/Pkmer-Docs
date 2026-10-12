@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Gamificate your PKM
 > - 插件作者：Andreas Trebing
 > - 插件说明：Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM.
-> - 插件分类：[' 数据分析 ', ' 界面美化 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据分析', '界面美化', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/saertna/obsidian-gamified-pkm)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gamified-pkm)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/saertna/obsidian-gamified-pkm/main/README.md)

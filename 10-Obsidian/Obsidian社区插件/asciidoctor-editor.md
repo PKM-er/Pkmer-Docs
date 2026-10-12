@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Asciidoctor editor
 > - 插件作者：dzruyk
 > - 插件说明：查看和修改 asciidoc 页面
-> - 插件分类：['编辑工具', '文本处理', '样式与美化', 'obsidian插件']
+> - 插件分类：['编辑工具', '文字处理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dzruyk/obsidian-asciidoc)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?asciidoctor-editor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dzruyk/obsidian-asciidoc/master/README.md)

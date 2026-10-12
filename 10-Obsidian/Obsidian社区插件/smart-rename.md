@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Smart Rename
 > - 插件作者：mnaoumov
 > - 插件说明：重命名笔记，保留现有链接中的先前标题
-> - 插件分类：[' 第三方工具集成 ', ' 文字处理 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文字处理', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mnaoumov/obsidian-smart-rename)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?smart-rename)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mnaoumov/obsidian-smart-rename/master/README.md)

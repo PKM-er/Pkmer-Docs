@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Google Bard Assistant
 > - 插件作者：Aldhaneka
 > - 插件说明：探索与 Google Bard 集成的学习新可能性！它完全免费，还可以显示与您的问题相关的图片！
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aldhanekaa/GoogleBardObsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?google-bard-assistant)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Aldhanekaa/GoogleBardObsidian/master/README.md)

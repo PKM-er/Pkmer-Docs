@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Improved Random Note
 > - 插件作者：ShockThunder
 > - 插件说明：通过打开特定的随机笔记，在所谓的漫游模式下改进与知识库的交互。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ShockThunder/improved-random-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?improved-random-note)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ShockThunder/improved-random-note/master/README.md)

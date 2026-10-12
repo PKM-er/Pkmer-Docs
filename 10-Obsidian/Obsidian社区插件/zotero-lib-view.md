@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Zotero Lib View
 > - 插件作者：Lebenswille
 > - 插件说明：你可以从仓库里查看和管理你的Zotero文献库。
-> - 插件分类：['第三方工具集成', 'zotero', '学习与教育', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', 'zotero', '学习与教育', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lebenswille/zotero-lib-view)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zotero-lib-view)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lebenswille/zotero-lib-view/master/README.md)

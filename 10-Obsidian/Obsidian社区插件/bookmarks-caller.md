@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Bookmarks Caller
 > - 插件作者：namikaze-40p
 > - 插件说明：Easily open bookmarks without leaving the keyboard home position.
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/namikaze-40p/obsidian-bookmarks-caller)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bookmarks-caller)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/namikaze-40p/obsidian-bookmarks-caller/main/README.md)

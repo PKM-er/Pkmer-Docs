@@ -16,7 +16,7 @@ modified: 2024121219145
 > - 插件名称：Automatic Renumbering
 > - 插件作者：Omri Levi
 > - 插件说明：自动更新编号列表，以保持其顺序。具有实时更新、智能粘贴和手动控制选项。
-> - 插件分类：[' 编辑工具 ', ' 自动化与 AI', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自动化与AI', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/OmriLeviGit/Automatic-Renumbering-Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?automatic-renumbering)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/OmriLeviGit/Automatic-Renumbering-Obsidian/main/README.md)

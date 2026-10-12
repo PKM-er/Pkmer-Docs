@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Color Palette
 > - 插件作者：ALegendsTale
 > - 插件说明：创建并插入颜色调色板到您的笔记中。
-> - 插件分类：[' 样式与美化 ', ' 第三方工具集成 ', ' 链接 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '第三方工具集成', '链接', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ALegendsTale/obsidian-color-palette)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?color-palette)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ALegendsTale/obsidian-color-palette/main/README.md)

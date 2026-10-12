@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Agent Dashboard
 > - 插件作者：ripple
 > - 插件说明：在一个面板里跟踪人工智能代理的工作流程、仓库活动、任务、项目和研究动态。——这款插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['任务管理', '数据分析', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['任务管理', '数据分析', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ripple-asuna/agent-dashboard)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?agentic-vault-dashboard)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ripple-asuna/agent-dashboard/master/README.md)

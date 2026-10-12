@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Stratum
 > - 插件作者：sprice
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核哦。无需任何配置，就能把你的Zotero文献库同步成条理清晰的文献笔记。
-> - 插件分类：['第三方工具集成', 'zotero', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['第三方工具集成', 'zotero', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sprice/stratum-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?stratum)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sprice/stratum-obsidian/master/README.md)

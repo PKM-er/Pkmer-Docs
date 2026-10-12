@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Automatic Tags
 > - 插件作者：Jamalam
 > - 插件说明：根据路径自动为新的笔记添加标签。
-> - 插件分类：[' 数据处理 ', ' 自动化与 AI', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '自动化与AI', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Jamalam360/obsidian-automatic-tags)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?automatic-tags)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Jamalam360/obsidian-automatic-tags/master/README.md)

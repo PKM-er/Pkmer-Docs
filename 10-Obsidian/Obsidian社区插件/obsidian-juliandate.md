@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Julian Date
 > - 插件作者：thek3nger
 > - 插件说明：添加一个快捷方式来插入当前哥伦布日期，用于天文观测。
-> - 插件分类：[' 快捷键 ', ' 数据处理 ', ' 日历与时间 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '数据处理', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/THeK3nger/obsidian-juliandate)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-juliandate)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/THeK3nger/obsidian-juliandate/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：External File Embed and Link
 > - 插件作者：oylbin
 > - 插件说明：使用相对路径嵌入和链接保管库外的本地文件，以实现跨设备和多平台兼容性。
-> - 插件分类：['文件管理', '自定义命令', '插件管理', 'obsidian插件']
+> - 插件分类：['文件管理', '自定义命令', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/oylbin/obsidian-external-file-embed-and-link)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?external-file-embed-and-link)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/oylbin/obsidian-external-file-embed-and-link/master/README.md)

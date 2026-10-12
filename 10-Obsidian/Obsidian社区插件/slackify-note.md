@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Slackify Note
 > - 插件作者：Jeremy Overman
 > - 插件说明：使用 [slackify-markdown](https://www.npmjs.com/package/slackify-markdown) 将笔记转换为符合 Slack 标准的 markdown 格式。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jeremyoverman/obsidian-slackify-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?slackify-note)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jeremyoverman/obsidian-slackify-note/main/README.md)

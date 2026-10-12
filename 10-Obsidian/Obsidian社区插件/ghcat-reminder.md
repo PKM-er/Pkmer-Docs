@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：GChat Reminder
 > - 插件作者：Anil Erdogan
 > - 插件说明：根据 Obsidian 任务的到期日期，将通知发送到 Google Chat Webhook。
-> - 插件分类：[' 任务管理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/anil-e/obsidian_gchat_plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ghcat-reminder)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/anil-e/obsidian_gchat_plugin/main/README.md)

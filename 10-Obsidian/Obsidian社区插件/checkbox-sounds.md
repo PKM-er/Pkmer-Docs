@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Checkbox Sounds
 > - 插件作者：yasd251
 > - 插件说明：为复选框添加了一个漂亮的完成声音。
-> - 插件分类：[' 界面美化 ', ' 插件 ', ' 音频 ', 'obsidian 插件 ']
+> - 插件分类：['界面美化', '插件', '音频', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yasd251/checkbox-sounds-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?checkbox-sounds)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yasd251/checkbox-sounds-plugin/main/README.md)

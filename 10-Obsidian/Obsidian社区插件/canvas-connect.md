@@ -22,7 +22,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Connect
 > - 插件作者：camadkins
 > - 插件说明：在画布视图中通过智能路由动态更新连接锚点。
-> - 插件分类：['图表与可视化', '自动化与AI', '效率工具', '白板学术与科研', '图谱', 'obsidian插件']
+> - 插件分类：['图表与可视化', '自动化与AI', '效率工具', '白板', '图谱', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/camadkins/obsidian-canvas-connect)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-connect)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/camadkins/obsidian-canvas-connect/master/README.md)

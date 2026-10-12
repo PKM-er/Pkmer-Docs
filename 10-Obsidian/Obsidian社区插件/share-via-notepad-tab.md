@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Share via Notepad Tab
 > - 插件作者：Iulian Onofrei
 > - 插件说明：通过Notepad Tab（https://notepadtab.com）分享笔记。
-> - 插件分类：['协作工具', '笔记管理', '文字处理', 'obsidian插件']
+> - 插件分类：['社交与社区', '笔记管理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/revolter/obsidian-share-via-notepad-tab-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?share-via-notepad-tab)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/revolter/obsidian-share-via-notepad-tab-plugin/master/README.md)

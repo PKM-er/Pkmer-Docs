@@ -20,7 +20,7 @@ modified: 20230921155942
 > - 插件名称：Obsidian Badge
 > - 插件作者：Jun Lin
 > - 插件说明：可以自定义一个进度样式，方便你传入任何地方。需要了解下简单的语法规则。
-> - 插件分类：[' 任务管理 ', ' 美化 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '美化', '效率', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/linjunpop/obsidian-badge)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-badge)
 

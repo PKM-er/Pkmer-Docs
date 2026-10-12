@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File Cleaner
 > - 插件作者：Johnson0907
 > - 插件说明：帮助您清理拱顶中的空文件和未使用的附件。
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Johnson0907/obsidian-file-cleaner)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-file-cleaner)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Johnson0907/obsidian-file-cleaner/master/README.md)

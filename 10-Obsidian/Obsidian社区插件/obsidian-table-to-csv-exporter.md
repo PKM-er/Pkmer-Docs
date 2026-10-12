@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Table to CSV Exporter
 > - 插件作者：Stefan Wolfrum
 > - 插件说明：这个插件允许从阅读模式中的窗格导出表格到 CSV 文件。
-> - 插件分类：[' 表格 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/metawops/obsidian-table-to-csv-export)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-table-to-csv-exporter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/metawops/obsidian-table-to-csv-export/master/README.md)

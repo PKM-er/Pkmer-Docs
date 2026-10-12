@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Redirect
 > - 插件作者：Jacob Levernier
 > - 插件说明：通过允许为任何文件设置别名，特别是非标记文件的管理更加容易。
-> - 插件分类：[' 文件管理 ', ' 链接 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '链接', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jglev/obsidian-redirect)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-redirect)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jglev/obsidian-redirect/main/README.md)

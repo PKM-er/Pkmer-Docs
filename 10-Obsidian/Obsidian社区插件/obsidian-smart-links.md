@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Smart Links
 > - 插件作者：David Lynch
 > - 插件说明：可定制字符串的自动链接
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kemayo/obsidian-smart-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-smart-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kemayo/obsidian-smart-links/master/README.md)

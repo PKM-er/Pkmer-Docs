@@ -22,7 +22,7 @@ modified: 20230831150249
 > - 插件名称：Style settings
 > - 插件作者：mgmeyers
 > - 插件说明：给主题、插件、CSS 片段提供样式设置的插件
-> - 插件分类：[' 样式工具 ', ' 界面相关 ', ' 美化 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '主题']
 > - 插件项目地址：[点我跳转](https://github.com/mgmeyers/obsidian-style-settings/)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-style-settings)
 

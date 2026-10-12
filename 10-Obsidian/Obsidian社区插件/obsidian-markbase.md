@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markbase for Obsidian
 > - 插件作者：Markbase
 > - 插件说明：官方 Markbase 插件，可以在您自己的数字花园中在线共享 Obsidian 笔记
-> - 插件分类：[' 文件管理 ', ' 模板与链接处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '模板与链接处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/markbase-obsidian/obsidian-markbase)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-markbase)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/markbase-obsidian/obsidian-markbase/master/README.md)

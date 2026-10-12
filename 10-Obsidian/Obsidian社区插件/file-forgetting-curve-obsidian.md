@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File Forgetting Curve
 > - 插件作者：ptrsvltns
 > - 插件说明：文件遗忘曲线
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ptrsvltns/file-forgetting-curve-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-forgetting-curve-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ptrsvltns/file-forgetting-curve-obsidian/main/README.md)

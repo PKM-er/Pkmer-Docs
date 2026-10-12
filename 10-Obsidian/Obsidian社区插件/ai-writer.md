@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ai-writer
 > - 插件作者：Donovan Ye
 > - 插件说明：使用人工智能生成具有知识片段的高质量文章。
-> - 插件分类：[' 自动化与 AI', ' 编辑工具 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['自动化与AI', '编辑工具', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Donovan-Ye/obsidian-ai-writer-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-writer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Donovan-Ye/obsidian-ai-writer-plugin/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：New Bullet With Time
 > - 插件作者：Boninall
 > - 插件说明：允许你自动添加当前时间到新的项目符号行。
-> - 插件分类：[' 时间与日期 ', ' 编辑工具 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['时间与日期', '编辑工具', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-New-Bullet-With-Time)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-new-bullet-with-time)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-New-Bullet-With-Time/master/README.md)

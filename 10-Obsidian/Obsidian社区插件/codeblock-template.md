@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Codeblock Template
 > - 插件作者：Super10
 > - 插件说明：一个模板插件，允许在代码块内重复使用内容，并能够使用变量。
-> - 插件分类：[' 编辑工具 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sylcool/obsidian-codeblock-template)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?codeblock-template)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sylcool/obsidian-codeblock-template/master/README.md)

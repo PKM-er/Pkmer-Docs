@@ -16,7 +16,7 @@ modified: 20230825094003
 > - 插件名称：Cmenu
 > - 插件作者：chetachiezikeuzor
 > - 插件说明：提供一个 mini 工具栏，以获得更流畅的写作/编辑体验✍🏽。
-> - 插件分类：[' 编辑工具 ', ' 效率 ', ' 界面相关 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '工具栏']
 > - 插件项目地址：[chetachiezikeuzor/cMenu-Plugin](https://github.com/chetachiezikeuzor/cMenu-Plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cmenu-plugin)
 

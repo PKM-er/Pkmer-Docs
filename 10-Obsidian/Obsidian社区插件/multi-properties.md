@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Multi Properties
 > - 插件作者：fez-github
 > - 插件说明：一次性为多个笔记添加属性。要么右键单击文件夹，要么选择多个笔记并右键单击选择。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 多媒体 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '多媒体', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fez-github/obsidian-multi-properties)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?multi-properties)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fez-github/obsidian-multi-properties/master/README.md)

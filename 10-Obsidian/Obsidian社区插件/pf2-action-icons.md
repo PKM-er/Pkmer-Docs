@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pathfinder 2E Action Icons
 > - 插件作者：Thiago Coutinho
 > - 插件说明：这是一个在 Obsidian 中显示 Pathfinder 2E 动作图标的插件。
-> - 插件分类：[' 样式与美化 ', ' 笔记与日志 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '笔记与日志', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/thiagocoutinhor/pf2-action-icons)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pf2-action-icons)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/thiagocoutinhor/pf2-action-icons/main/README.md)

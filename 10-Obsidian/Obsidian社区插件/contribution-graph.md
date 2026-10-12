@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Contribution Graph
 > - 插件作者：vran
 > - 插件说明：生成一个交互式热力图来可视化和跟踪您的生产力。
-> - 插件分类：[' 数据分析 ', ' 样式与美化 ', ' 图表与可视化 ', 'obsidian 插件 ']
+> - 插件分类：['数据分析', '样式与美化', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vran-dev/obsidian-contribution-graph)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?contribution-graph)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vran-dev/obsidian-contribution-graph/master/README.md)

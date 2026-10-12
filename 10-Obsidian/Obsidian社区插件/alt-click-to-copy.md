@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Alt-Click to Copy
 > - 插件作者：Veer Sheth
 > - 插件说明：Alt- 点击代码块以将其数据复制到剪贴板
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/veersheth/obsidian-alt-click-to-copy)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?alt-click-to-copy)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/veersheth/obsidian-alt-click-to-copy/master/README.md)

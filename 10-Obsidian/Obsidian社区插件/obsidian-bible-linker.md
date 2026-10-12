@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Bible Linker
 > - 插件作者：Jakub Kuchejda
 > - 插件说明：轻松链接多个圣经经文
-> - 插件分类：[' 数据处理 ', ' 快捷键 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '快捷键', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kuchejak/obsidian-bible-linker-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-bible-linker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kuchejak/obsidian-bible-linker-plugin/main/README.md)

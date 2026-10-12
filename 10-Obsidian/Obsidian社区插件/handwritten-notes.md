@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Handwritten Notes
 > - 插件作者：FBarrCa
 > - 插件说明：在您的保险库中注释 PDF 并创建手写笔记。
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/FBarrca/obsidian-handwritten-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?handwritten-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/FBarrca/obsidian-handwritten-notes/master/README.md)

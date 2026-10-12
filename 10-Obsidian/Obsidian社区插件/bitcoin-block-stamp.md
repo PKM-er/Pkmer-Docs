@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Bitcoin Block Stamp
 > - 插件作者：sefiro
 > - 插件说明：Stamp your notes with the current Bitcoin block.
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 时间与日期 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '时间与日期', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sfr0xyz/obsidian-bitcoin-block-stamp)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bitcoin-block-stamp)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sfr0xyz/obsidian-bitcoin-block-stamp/master/README.md)

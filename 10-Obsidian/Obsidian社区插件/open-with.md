@@ -23,7 +23,7 @@ Obsidian 已经内置了对一些文件格式的支持，比如图片，pdf，�
 > - 插件版本：0.3.1
 > - 插件作者：phibr0
 > - 插件描述：允许你通过在 Obsidian 中使用其他软件，打开笔记中常见格式文件。
-> - 插件分类：[' 笔记文件处理 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '打开方式', '第三方软件']
 > - 插件项目地址：[点我跳转](https://github.com/phibr0/obsidian-open-with)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-with)
 

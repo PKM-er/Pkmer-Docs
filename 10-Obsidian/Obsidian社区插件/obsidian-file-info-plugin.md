@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File Info Panel
 > - 插件作者：CattailNu
 > - 插件说明：文件信息视图，显示活动文件的创建日期、修改日期、文件大小以及在其本机应用程序中打开文件和打开文件文件夹的链接。
-> - 插件分类：[' 文件管理 ', ' 时间与日期 ', ' 图表 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '时间与日期', '图表', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/CattailNu/obsidian-file-info-panel-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-file-info-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/CattailNu/obsidian-file-info-panel-plugin/main/README.md)

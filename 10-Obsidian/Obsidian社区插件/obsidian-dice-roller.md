@@ -22,7 +22,7 @@ modified: 20240116143625
 > - 插件名称：Dice Roller
 > - 插件作者：Jeremy Valentine
 > - 插件说明：在文档任意地方生成需要随机的内容，这些随机的候选项可以你来定义。
-> - 插件分类：['Obsidian',' 搜索/排序 ', ' 界面相关 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '骰子', '随机化', '随机性']
 > - 插件项目地址：[点我跳转](https://github.com/javalent/dice-roller)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dice-roller)
 

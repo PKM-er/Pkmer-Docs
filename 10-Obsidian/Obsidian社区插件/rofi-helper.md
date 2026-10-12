@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Rofi Helper
 > - 插件作者：digitalsignalperson
 > - 插件说明：为了在 Rofi 中在打开的黑曜石标签之间切换，将叶子 ID 参数添加到 URI 协议中。包含了一个示例的 Rofi 脚本。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/digitalsignalperson/obsidian-rofi-helper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?rofi-helper)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/digitalsignalperson/obsidian-rofi-helper/master/README.md)

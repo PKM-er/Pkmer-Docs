@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Prompt ChatGPT
 > - 插件作者：Coduhuey
 > - 插件说明：将模板提示发送给 ChatGPT，当您打开一个文件时。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chatgpt-prompt)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian/master/README.md)

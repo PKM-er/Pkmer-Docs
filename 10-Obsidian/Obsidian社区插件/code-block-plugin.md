@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Code Block
 > - 插件作者：Patrik Lindefors
 > - 插件说明：一个插件，可以将文本转换成带有自动语言检测功能的代码块。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/paddan/code-block-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?code-block-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/paddan/code-block-plugin/master/README.md)

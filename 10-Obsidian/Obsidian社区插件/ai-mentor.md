@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI Mentor
 > - 插件作者：clementpoiret
 > - 插件说明：在 Obsidian 中与您的开源 AI 导师见面。提问、获取答案并学习新知识。
-> - 插件分类：[' 自动化与 AI', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['自动化与AI', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/clementpoiret/ai-mentor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-mentor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/clementpoiret/ai-mentor/master/README.md)

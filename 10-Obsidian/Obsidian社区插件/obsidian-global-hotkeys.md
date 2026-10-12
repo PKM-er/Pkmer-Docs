@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Global Hotkeys
 > - 插件作者：Marc Jessome
 > - 插件说明：Obsidian 桌面应用程序中可配置的系统热键用于运行命令
-> - 插件分类：[' 快捷键 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mjessome/obsidian-global-hotkeys)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-global-hotkeys)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mjessome/obsidian-global-hotkeys/main/README.md)

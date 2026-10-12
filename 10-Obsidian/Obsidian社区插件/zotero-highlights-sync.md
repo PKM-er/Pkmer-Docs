@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Zotero Highlights Sync
 > - 插件作者：Timur Belov
 > - 插件说明：创建关联的书籍笔记并同步Zotero的PDF注释。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['第三方工具集成', '学习与教育', '白板学术与科研', 'zotero', '效率工具', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '学习与教育', '学术与科研', 'zotero', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jesterspot1-svg/zotero-highlights-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zotero-highlights-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jesterspot1-svg/zotero-highlights-sync/master/README.md)

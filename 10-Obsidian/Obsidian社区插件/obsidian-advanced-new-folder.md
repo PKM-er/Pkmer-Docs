@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Advanced New Folder
 > - 插件作者：Piotr Yordanov
 > - 插件说明：通过命令面板或者快捷键创建文件夹的时候，就指定文件夹的位置。
-> - 插件分类：[' 文件管理 ', ' 编辑工具 ', ' 工作区 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编辑工具', '工作区', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/piotryordanov/obsidian-advanced-new-folder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-advanced-new-folder)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/piotryordanov/obsidian-advanced-new-folder/master/README.md)

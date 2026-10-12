@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Git Integration
 > - 插件作者：noradroid
 > - 插件说明：Easily backup vault on a remote repository.
-> - 插件分类：[' 备份与恢复 ', ' 插件 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['备份与恢复', '插件', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/noradroid/obsidian-git-integration)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?git-integration)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/noradroid/obsidian-git-integration/master/README.md)

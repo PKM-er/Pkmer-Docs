@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：HK Code Block
 > - 插件作者：Heekang Park
 > - 插件说明：由 Heekang Park 开发的 Obsidian 插件；使代码块在阅读视图中看起来更好。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HeekangPark/obsidian-hk-code-block)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hk-code-block)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HeekangPark/obsidian-hk-code-block/master/README.md)

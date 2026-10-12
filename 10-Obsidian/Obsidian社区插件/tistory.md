@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tistory
 > - 插件作者：anpigon
 > - 插件说明：在 Tistory 博客平台上创建和编辑帖子。
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/anpigon/obsidian-tistory-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tistory)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/anpigon/obsidian-tistory-plugin/main/README.md)

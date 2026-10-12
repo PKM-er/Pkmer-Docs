@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Daily Prompt
 > - 插件作者：Erl-koenig
 > - 插件说明：设置自定义提示，并自动填写到您的日常笔记中。
-> - 插件分类：[' 编辑工具 ', ' 自定义命令 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自定义命令', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Erl-koenig/obsidian-dailyPrompt)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?daily-prompt)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Erl-koenig/obsidian-dailyPrompt/main/README.md)

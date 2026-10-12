@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Remotely Secure
 > - 插件作者：sboesen
 > - 插件说明：修复了远程安全的非官方插件的安全问题，该插件允许用户在本地设备和云服务之间同步笔记。不向后兼容。
-> - 插件分类：[' 数据处理 ', ' 安全与隐私 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '安全与隐私', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sboesen/remotely-secure)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?remotely-secure)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sboesen/remotely-sync/master/README.md)

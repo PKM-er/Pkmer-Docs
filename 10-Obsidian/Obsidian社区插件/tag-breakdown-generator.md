@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tag Breakdown Generator
 > - 插件作者：Hananoshika Yomaru
 > - 插件说明：将嵌套标签拆分为多个父标签
-> - 插件分类：[' 数据处理 ', ' 标签 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '标签', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HananoshikaYomaru/obsidian-tag-generator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-breakdown-generator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-tag-generator/main/README.md)

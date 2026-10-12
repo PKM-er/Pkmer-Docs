@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Autocomplete
 > - 插件作者：Yeboster
 > - 插件说明：提供文本自动完成功能，以提高输入速度。此插件已经长期不维护了。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Yeboster/autocomplete-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-autocomplete-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Yeboster/autocomplete-obsidian/master/README.md)

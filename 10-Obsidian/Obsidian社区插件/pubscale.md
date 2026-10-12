@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PubScale
 > - 插件作者：piriwata
 > - 插件说明：无缝同步 Markdown 笔记到 PlanetScale 表中。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/piriwata/pubScale)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pubscale)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/piriwata/pubScale/master/README.md)

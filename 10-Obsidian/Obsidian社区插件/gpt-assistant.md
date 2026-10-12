@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：GPT Assistant
 > - 插件作者：M7mdisk
 > - 插件说明：使用基于 GPT-3 的模型在您的笔记上，并从您的知识库中获得个性化答案。
-> - 插件分类：[' 自动化与 AI', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['自动化与AI', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/M7mdisk/obsidian-gpt)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gpt-assistant)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/M7mdisk/obsidian-gpt/master/README.md)

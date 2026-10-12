@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Full Calendar
 > - 插件作者：Davis Haupt (@davish)
 > - 插件说明：以独立界面方式，在 Obsidian 中保存活动并管理您的日历以及所有其他笔记。以便您可以保持您不断变化的日常日程安排和特殊事件和计划，以及您的任务和笔记，并在所有这些之间自由链接。
-> - 插件分类：[' 日历与时间 ', ' 编辑工具 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '编辑工具', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/davish/obsidian-full-calendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-full-calendar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/obsidian-community/obsidian-full-calendar/main/README.md)

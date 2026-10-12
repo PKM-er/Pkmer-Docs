@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Navigate Cursor History
 > - 插件作者：heycalmdown
 > - 插件说明：这个插件记住最近光标位置的历史记录，并允许您像 VSCode 一样来回跳转。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', ' 导航与状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', '导航与状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/heycalmdown/navigate-cursor-history)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?heycalmdown-navigate-cursor-history)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/heycalmdown/navigate-cursor-history/main/README.md)

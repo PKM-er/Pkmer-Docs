@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Speech To Text Keyboard Helper
 > - 插件作者：mwoz123
 > - 插件说明：由于 Google 语音转文本 Android 键盘无法处理例如“新行”命令，因此该插件通过 Obsidian 命令面板提供了这些命令。
-> - 插件分类：[' 编辑工具 ', ' 移动端 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '移动端', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mwoz123/speech-to-text-keyboard-helper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?speech2text-helper)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mwoz123/speech-to-text-keyboard-helper/master/README.md)

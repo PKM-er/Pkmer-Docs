@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ThoughtSpace Whiteboard
 > - 插件作者：ancher
 > - 插件说明：Visual research workspace with mind maps, linked Markdown cards, writing and optional standalone calendar integration. - This plugin has not been manually reviewed by Obsidian staff.
-> - 插件分类：['思维导图', '图表与可视化', '日历与时间', '文字处理', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['思维导图', '图表与可视化', '日历与时间', '文字处理', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yuguangli-lab/obsidian-thoughtspace)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?thoughtspace)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yuguangli-lab/obsidian-thoughtspace/master/README.md)

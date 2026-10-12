@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File Cooker
 > - 插件作者：iuian
 > - 插件说明：从搜索结果、当前文件、Dataview 查询字符串中处理批注。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ivaneye/obsidian-files-cooker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-file-cooker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ivaneye/obsidian-files-cooker/main/README.md)

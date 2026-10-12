@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Search++
 > - 插件作者：Noureddine Haouari
 > - 插件说明：允许在笔记中插入文本上下文搜索结果，这个插件是基于 mrj-text-expand 的代码。
-> - 插件分类：[' 搜索与排序 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nhaouari/searchpp)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?searchpp)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nhaouari/searchpp/master/README.md)

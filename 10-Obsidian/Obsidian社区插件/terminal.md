@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Terminal
 > - 插件作者：polyipseity
 > - 插件说明：在 Obsidian 中集成控制台、shell 和终端。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/polyipseity/obsidian-terminal)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?terminal)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/polyipseity/obsidian-terminal/main/README.md)

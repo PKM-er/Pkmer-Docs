@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pieces for Developers
 > - 插件作者：Pieces For Developers
 > - 插件说明：使用 Pieces For Developers 插件在 Obsidian 中简化您的编码工作流程，提供强大的功能，用于捕捉、管理、翻译和增强代码片段。（闭源）
-> - 插件分类：[' 编程与脚本 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['编程与脚本', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pieces-app/obsidian-pieces)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pieces-for-developers)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pieces-app/obsidian-pieces/main/README.md)

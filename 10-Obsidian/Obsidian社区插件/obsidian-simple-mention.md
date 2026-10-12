@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Simple Mention
 > - 插件作者：der-tobi
 > - 插件说明：in the text.获取高亮提及和提及建议。 查找文本中提及的所有发生。
-> - 插件分类：[' 编辑工具 ', ' 搜索与排序 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '搜索与排序', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/der-tobi/obsidian-simple-mention)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-simple-mention)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/der-tobi/obsidian-simple-mention/main/README.md)

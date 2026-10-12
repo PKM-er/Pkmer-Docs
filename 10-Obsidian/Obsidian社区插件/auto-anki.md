@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Auto Anki
 > - 插件作者：ad2969
 > - 插件说明：使用人工智能来自动化 Anki 中的间隔重复卡片的创建。
-> - 插件分类：[' 数据处理 ', ' 自动化与 AI', ' 学习与教育 ', 'anki', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '自动化与AI', '学习与教育', 'anki', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ad2969/obsidian-auto-anki)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-anki)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ad2969/obsidian-auto-anki/master/README.md)

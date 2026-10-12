@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Release Timeline
 > - 插件作者：cakechaser
 > - 插件说明：根据笔记元数据以数据视图类似的语法渲染发布时间线。
-> - 插件分类：[' 样式与美化 ', ' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cakechaser/obsidian-release-timeline)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-release-timeline)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cakechaser/obsidian-release-timeline/master/README.md)

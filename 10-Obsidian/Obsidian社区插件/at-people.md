@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：At People
 > - 插件作者：Tobias Davis
 > - 插件说明：使用熟悉的@符号来在人员文件夹中进行人员文件的交叉链接。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/saibotsivad/obsidian-at-people)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?at-people)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/saibotsivad/obsidian-at-people/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：arXiv Papers
 > - 插件作者：Ar4l
 > - 插件说明：从arXiv获取并导入研究论文。这是willjhliang/obsidian - papers的派生版本，具备速率限制处理功能，还能在必要时使用OpenAlex作为备用方案。——此插件尚未经过Obsidian官方人员的手动审核。
-> - 插件分类：['第三方工具集成', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ar4l/obsidian-papers)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?arxiv-papers)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ar4l/obsidian-papers/master/README.md)

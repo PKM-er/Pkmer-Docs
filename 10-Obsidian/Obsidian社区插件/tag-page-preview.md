@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tag Page Preview
 > - 插件作者：aidurber
 > - 插件说明：为每个 标签（#Tag），当在笔记中点击时，会弹出包含此标签的一个文件列表。
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aidurber/tag-page-preview)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-page-preview)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Aidurber/tag-page-preview/master/README.md)

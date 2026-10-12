@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Aloud
 > - 插件作者：Adrian Lyjak
 > - 插件说明：从您的笔记中朗读文本。使用 OpenAI 的逼真语音实时将文本转换为语音。
-> - 插件分类：[' 多媒体 ', ' 效率工具 ', ' 语言处理 ', 'obsidian 插件 ']
+> - 插件分类：['多媒体', '效率工具', '语言处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/adrianlyjak/obsidian-aloud-tts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?aloud-tts)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/adrianlyjak/obsidian-aloud-tts/main/README.md)

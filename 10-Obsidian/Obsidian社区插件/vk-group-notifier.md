@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vk group notifier
 > - 插件作者：Filichev.Evgeny
 > - 插件说明：跟踪来自 vk.com 群组的新闻帖子。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 社交与社区 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '社交与社区', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/filichev-evgeny/obsidianvkupdatenotifier)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vk-group-notifier)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/filichev-evgeny/obsidianvkupdatenotifier/master/README.md)

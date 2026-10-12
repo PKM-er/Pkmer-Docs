@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Confluence Integration
 > - 插件作者：andymac4182
 > - 插件说明：将 Obsidian 中的 Markdown 内容发布到 Atlassian Confluence。它支持一些 Obsidian 的 Markdown 扩展，以实现更丰富的内容。
-> - 插件分类：[' 链接 ', ' 编辑工具 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['链接', '编辑工具', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/markdown-confluence/obsidian-integration)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?confluence-integration)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/markdown-confluence/obsidian-integration/main/README.md)

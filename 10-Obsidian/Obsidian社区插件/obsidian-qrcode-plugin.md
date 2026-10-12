@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：QR Code Generator Plugin
 > - 插件作者：Rudi Häusler
 > - 插件说明：这是一个二维码生成器。
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rudimuc/obsidian-qrcode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-qrcode-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rudimuc/obsidian-qrcode/main/README.md)

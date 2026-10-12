@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Abbreviations expander
 > - 插件作者：Yann POMIE (WoodenMaiden)
 > - 插件说明：轻松创建缩写词，按下“空格”后将展开。
-> - 插件分类：[' 快捷键 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/WoodenMaiden/obsidian-abbreviations)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?abbreviations)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/WoodenMaiden/obsidian-abbreviations/master/README.md)

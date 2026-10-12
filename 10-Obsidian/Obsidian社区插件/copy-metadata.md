@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Copy Metadata
 > - 插件作者：wenlzhang
 > - 插件说明：复制文件元数据，例如创建时间，到剪贴板。将复制的元数据插入到文件名中。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/wenlzhang/obsidian-copy-metadata)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copy-metadata)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/wenlzhang/obsidian-copy-metadata/main/README.md)

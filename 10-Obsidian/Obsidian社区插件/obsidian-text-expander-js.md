@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Inline Scripts
 > - 插件作者：Jonathan Heard
 > - 插件说明：输入文本快捷键，然后用 JavaScript 生成的文本替换它们。
-> - 插件分类：[' 编辑工具 ', ' 编程与脚本 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '编程与脚本', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jon-heard/obsidian-inline-scripts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-text-expander-js)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jon-heard/obsidian-inline-scripts/main/README.md)

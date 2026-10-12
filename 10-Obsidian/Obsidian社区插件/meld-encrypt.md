@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Meld Encrypt
 > - 插件作者：meld-cp
 > - 插件说明：为你的笔记提供加密功能。加密的笔记永远不会被解密到磁盘（除非您使用就地解密功能）。
-> - 插件分类：[' 安全与隐私 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['安全与隐私', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/meld-cp/obsidian-encrypt)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?meld-encrypt)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/meld-cp/obsidian-encrypt/main/README.md)

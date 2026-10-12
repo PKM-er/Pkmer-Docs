@@ -20,7 +20,7 @@ modified: 20240427122003
 > - 插件名称：Docxer
 > - 插件作者：Developer-Mike
 > - 插件说明：在 Obsidian 中预览 docx 文件，并可转换为 Markdown 笔记
-> - 插件分类：['obsidian 插件 ',' 导入 ','docx','Office','Word',' 格式 ']
+> - 插件分类：['obsidian插件', '文字处理']
 > - 项目地址：[点我访问](https://github.com/Developer-Mike/obsidian-docxer)
 > - 国内下载：[点我访问](https://pkmer.cn/products/plugin/pluginMarket/?docxer)
 

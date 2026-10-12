@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Advanced Merger
 > - 插件作者：Anto Keinänen
 > - 插件说明：合并一个文件夹的笔记以便更容易导出。
-> - 插件分类：[' 文件管理 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/antoKeinanen/obsidian-advanced-merger)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?advanced-merger)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/antoKeinanen/obsidian-advanced-merger/master/README.md)

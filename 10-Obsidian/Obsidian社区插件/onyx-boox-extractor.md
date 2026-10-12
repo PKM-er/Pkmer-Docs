@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Onyx Boox Annotation & Highlight Extractor
 > - 插件作者：Akos Balasko
 > - 插件说明：这个插件可以提取 Onyx Boox 平板电脑导出的注释和高亮文件，并将它们转换为符合 Zettelkasten 方法的参考文献和永久笔记。
-> - 插件分类：[' 数据处理 ', ' 学习与教育 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '学习与教育', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?onyx-boox-extractor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor/master/README.md)

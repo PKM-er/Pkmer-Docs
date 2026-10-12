@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File Explorer++
 > - 插件作者：kelszo
 > - 插件说明：使用自定义过滤器（如通配符和正则表达式），根据文件和文件夹的名称、路径和标签，隐藏和固定文件资源管理器中的文件和文件夹。此外，还可以通过文件菜单中的单击操作实现相同的功能。
-> - 插件分类：[' 文件管理 ', ' 搜索与排序 ', ' 移动端优化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '搜索与排序', '移动端优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kelszo/obsidian-file-explorer-plus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-explorer-plus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kelszo/obsidian-file-explorer-plus/master/README.md)

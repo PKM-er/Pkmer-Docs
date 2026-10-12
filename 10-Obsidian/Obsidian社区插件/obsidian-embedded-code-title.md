@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Embedded Code Title
 > - 插件作者：tadashi-aikawa
 > - 插件说明：这是一个 Obsidian 插件，可以将标题嵌入到代码块中。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tadashi-aikawa/obsidian-embedded-code-title)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-embedded-code-title)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tadashi-aikawa/obsidian-embedded-code-title/master/README.md)

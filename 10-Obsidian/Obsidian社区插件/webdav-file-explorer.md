@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Webdav File Explorer
 > - 插件作者：red0orange
 > - 插件说明：允许您浏览您的 WebDAV 文件。
-> - 插件分类：[' 文件管理 ', ' 第三方工具集成 ', ' 导航与状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '第三方工具集成', '导航与状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/red0orange/obsidian-webdav-file-explorer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?webdav-file-explorer)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：2Hop Links Plugin
 > - 插件作者：Tokuhiro Matsuno
 > - 插件说明：这个插件将显示前面 2 跳链接的页面。
-> - 插件分类：[' 链接 ', ' 样式与美化 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['链接', '样式与美化', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tokuhirom/obsidian-2hop-links-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-2hop-links-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tokuhirom/obsidian-2hop-links-plugin/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Unique attachments
 > - 插件作者：Dmitry Savosh
 > - 插件说明：重命名附件，使它们的名称唯一（基于文件内容的哈希值）。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dy-sh/obsidian-unique-attachments)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?unique-attachments)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dy-sh/obsidian-unique-attachments/master/README.md)

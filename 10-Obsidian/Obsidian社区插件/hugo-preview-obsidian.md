@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hugo preview Obsidian
 > - 插件作者：fzdwx
 > - 插件说明：Hugo 预览插件（Obsidian）
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fzdwx/hugo-preview-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hugo-preview-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fzdwx/hugo-preview-obsidian/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Four Layer Todo
 > - 插件作者：vrytfmcat
 > - 插件说明：以白板为核心，管理缓存工作区、任务记忆和周边长期对象之间的注意力。 - 此插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['任务管理', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['任务管理', '白板', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vrytfmcat/four-layer-todo)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?four-layer-todo)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vrytfmcat/four-layer-todo/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：2Hop Links Plus
 > - 插件作者：Tokuhiro Matsuno, L7Cy
 > - 插件说明：与笔记相关的链接，最多可以显示 2 个跳点，以卡片格式展示，方便浏览笔记之间的连接。每张卡片都包含相应笔记的预览。
-> - 插件分类：[' 笔记与日志 ', ' 样式与美化 ', ' 图表与可视化 ', 'obsidian 插件 ']
+> - 插件分类：['笔记与日志', '样式与美化', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/L7Cy/obsidian-2hop-links-plus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?2hop-links-plus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/L7Cy/obsidian-2hop-links-plus/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240408185545
 > - 插件名称：Folder Note
 > - 插件作者：xpgo
 > - 插件说明：为文件夹中生成卡片风格的文件夹概述。
-> - 插件分类：[' 笔记文件处理 ', ' 界面相关 ', ' 搜索/排序 ', ' 导航工具 ', ' 自动化 ', 'obsidian 插件 ']
+> - 插件分类：['笔记文件处理', '界面相关', '搜索/排序', '导航工具', '自动化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/xpgo/obsidian-folder-note-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?folder-note-plugin)
 

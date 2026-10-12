@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Publish URL
 > - 插件作者：Hananoshika Yomaru
 > - 插件说明：将 Obsidian Publish 的 URL 复制到剪贴板中
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HananoshikaYomaru/obsidian-publish-url)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?publish-url)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-publish-url/main/README.md)

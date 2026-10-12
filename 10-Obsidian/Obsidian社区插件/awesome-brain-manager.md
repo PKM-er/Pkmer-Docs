@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Awesome Brain Manager
 > - 插件作者：Juck
 > - 插件说明：一个工具包试图解决大多数人在黑曜石中通常遇到的所有琐碎问题。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JuckZ/awesome-brain-manager)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?awesome-brain-manager)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JuckZ/awesome-brain-manager/develop/README.md)

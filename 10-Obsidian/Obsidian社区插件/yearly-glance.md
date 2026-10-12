@@ -27,7 +27,7 @@ modified: 20250816083511
 > - 插件名称：Yearly Glance
 > - 插件作者：Moy & RavenHogWarts
 > - 插件说明：一年纵览——年度事件概览，还有可自定义的管理选项哦。
-> - 插件分类：[' 日历与时间 ', ' 图表与可视化 ', ' 效率工具 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '图表与可视化', '效率工具', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Moyf/yearly-glance)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?yearly-glance)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Moyf/yearly-glance/master/README.md)

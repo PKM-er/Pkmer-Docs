@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TeXcore
 > - 插件作者：Jovi Koikkara
 > - 插件说明：为Obsidian.md实现自动公式编号、Tex图表渲染等功能。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['编辑工具', '图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/youfoundjk/TeXcore)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?texcore)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/youfoundjk/TeXcore/master/README.md)

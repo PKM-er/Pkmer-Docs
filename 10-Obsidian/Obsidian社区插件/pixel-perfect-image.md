@@ -20,7 +20,7 @@ Pixel Perfect Image 是 Obsidian 的一款图片管理插件，提供精确到�
 > - 插件名称：Pixel Perfect Image
 > - 插件作者：Johan Sanneblad
 > - 插件说明：能实现像素级精准的 100% 图片缩放，还能复制到剪贴板、在“访达”（Mac）/“资源管理器”（Windows）里查看图片，也能在外部编辑器中编辑图片，功能多着呢！
-> - 插件分类：[' 图片与 PDF', ' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['图片与PDF', '文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/johansan/pixel-perfect-image)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pixel-perfect-image)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/johansan/pixel-perfect-image/main/README.md)

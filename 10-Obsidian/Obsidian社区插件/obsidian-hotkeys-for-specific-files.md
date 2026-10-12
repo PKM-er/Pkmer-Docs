@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hotkeys for specific files
 > - 插件作者：Vinzent
 > - 插件说明：为特定的文件设置热键，只需要您的键盘就可以打开它们。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Vinzent03/obsidian-hotkeys-for-specific-files)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-hotkeys-for-specific-files)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vinzent03/obsidian-hotkeys-for-specific-files/master/README.md)

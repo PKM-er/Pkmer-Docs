@@ -24,7 +24,7 @@ Easy Bake 便是为了解决这个问题，在你输出的时候，可以将引�
 > - 插件名称：Easy Bake
 > - 插件作者：mgmeyers
 > - 插件说明：轻松将许多 Obsidian 笔记编译成单个文件。
-> - 插件分类：['obsidian 插件 ', ' 导出 ',' 文件整合 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mgmeyers/obsidian-easy-bake)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?easy-bake)
 

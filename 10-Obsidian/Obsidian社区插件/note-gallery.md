@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note Gallery
 > - 插件作者：Pash Shocky
 > - 插件说明：一个砌体画廊，将可视化您的笔记，类似于 Craft 笔记视图。
-> - 插件分类：[' 界面优化 ', ' 图片与 PDF', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '图片与PDF', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pashashocky/obsidian-note-gallery)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-gallery)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pashashocky/obsidian-note-gallery/main/README.md)

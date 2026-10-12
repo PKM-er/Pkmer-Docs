@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：JSON/CSV Importer
 > - 插件作者：farling42
 > - 插件说明：从一个包含数据数组的 JSON 文件中导入，使用 Handlebars 模板文件创建笔记。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/farling42/obsidian-import-json)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-import-json)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/farling42/obsidian-import-json/master/README.md)

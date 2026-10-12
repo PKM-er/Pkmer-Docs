@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Notes dater
 > - 插件作者：Paul Treanor
 > - 插件说明：将活动笔记的创建日期和最后更新日期添加到状态栏。
-> - 插件分类：[' 界面优化 ', ' 导航与状态栏 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '导航与状态栏', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/paultreanor/notes-dater)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?notes-dater)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/PaulTreanor/notes-dater/master/README.md)

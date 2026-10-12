@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Reflection
 > - 插件作者：Brandon Boswell
 > - 插件说明：显示过去几年中的今天的每日和每周笔记。
-> - 插件分类：[' 日历与时间 ', ' 第三方工具集成 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '第三方工具集成', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/brandonkboswell/reflection)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?reflection)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/brandonkboswell/reflection/master/README.md)

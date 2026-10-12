@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Feeds
 > - 插件作者：LukeMT, pashashocky, madx
 > - 插件说明：在 Obsidian 中创建特定主题的要点摘要。
-> - 插件分类：[' 数据处理 ', ' 搜索与排序 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '搜索与排序', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lukemt/obsidian-feeds)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?feeds)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukemt/obsidian-feeds/main/README.md)

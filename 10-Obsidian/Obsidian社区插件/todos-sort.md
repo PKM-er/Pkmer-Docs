@@ -20,7 +20,7 @@ modified: 20241213200217
 > - 插件名称：Todos sort
 > - 插件作者：Jiri Sifalda
 > - 插件说明：按完成状态对当前笔记中的待办事项（复选框）进行排序
-> - 插件分类：[' 任务管理 ', ' 搜索与排序 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '搜索与排序', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jsifalda/obsidian-todos-sort)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?todos-sort)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jsifalda/obsidian-todos-sort/main/README.md)

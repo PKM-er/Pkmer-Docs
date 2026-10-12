@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：New Note New Window
 > - 插件作者：Pedro Reyes
 > - 插件说明：一款可以轻松在浮动窗口中打开新笔记的插件。
-> - 插件分类：[' 编辑工具 ', ' 文件管理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文件管理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Pr0dt0s/new-note-new-window)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-new-note-new-window)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Pr0dt0s/new-note-new-window/master/README.md)

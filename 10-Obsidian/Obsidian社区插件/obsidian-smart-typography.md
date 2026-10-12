@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Smart Typography
 > - 插件作者：mgmeyers
 > - 插件说明：自动将你的输入转化成你设置的字符。相当于一个快速格式化，比如将你的中文括号和英文括号自动替换。
-> - 插件分类：[' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mgmeyers/obsidian-smart-typography)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-smart-typography)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-smart-typography/main/README.md)

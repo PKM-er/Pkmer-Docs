@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Flowershow
 > - 插件作者：Rufus Pollock
 > - 插件说明：直接从你的 Obsidian vault 中使用 Flowershow 进行发布。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 链接 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '链接', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/datopian/obsidian-flowershow)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?flowershow)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/datopian/obsidian-flowershow/main/README.md)

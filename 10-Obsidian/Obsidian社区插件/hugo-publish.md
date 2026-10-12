@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hugo Publish
 > - 插件作者：kirito
 > - 插件说明：将您的博客发布到 hugo 网站。
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kirito41dd/obsidian-hugo-publish)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hugo-publish)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kirito41dd/obsidian-hugo-publish/master/README.md)

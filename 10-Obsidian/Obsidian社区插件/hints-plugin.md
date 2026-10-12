@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hints Flow
 > - 插件作者：Hints
 > - 插件说明：直接将数据保存到 Obsidian，使用指定的模板。从 Telegram、WhatsApp、Slack、电子邮件、短信、Raycast 等捕获。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/slpbx/obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hints-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/slpbx/obsidian-plugin/master/README.md)

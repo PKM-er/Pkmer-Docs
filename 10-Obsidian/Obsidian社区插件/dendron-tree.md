@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dendron Tree
 > - 插件作者：Levi Rizki Saputra
 > - 插件说明：为 Dendron 笔记添加树形结构以进行探索。
-> - 插件分类：[' 笔记与日志 ', ' 编辑工具 ', ' 树形结构 ', 'obsidian 插件 ']
+> - 插件分类：['笔记与日志', '编辑工具', '树形结构', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/levirs565/obsidian-dendron-tree)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dendron-tree)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/levirs565/obsidian-dendron-tree/master/README.md)

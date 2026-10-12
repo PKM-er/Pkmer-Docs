@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Flexible Pomodoro For Obsidian
 > - 插件作者：grassbl8d
 > - 插件说明：在你的状态栏中添加一个番茄钟计时器。这个番茄钟还有额外的选项，比如提前记录和延长。
-> - 插件分类：[' 任务管理 ', ' 样式与美化 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '样式与美化', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/grassbl8d/flexible-pomo-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-flexible-pomo)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/master/README.md)

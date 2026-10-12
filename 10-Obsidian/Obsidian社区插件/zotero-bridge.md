@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Zotero Bridge
 > - 插件作者：Shmavon Gazanchyan
 > - 插件说明：通过 ZotServer 连接到 Zotero
-> - 插件分类：[' 第三方工具集成 ', ' 搜索与排序 ', 'zotero', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '搜索与排序', 'zotero', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vanakat/zotero-bridge)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zotero-bridge)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vanakat/zotero-bridge/main/README.md)

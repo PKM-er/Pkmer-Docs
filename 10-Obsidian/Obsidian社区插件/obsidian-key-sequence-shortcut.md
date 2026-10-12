@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Key Sequence Shortcut
 > - 插件作者：anselmwang
 > - 插件说明：使用简短的快捷键序列执行黑曜石命令。例如，“tp”代表“切换预览”，“tb”代表“切换侧边栏”，更容易记住。
-> - 插件分类：[' 快捷键 ', ' 编辑工具 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '编辑工具', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/anselmwang/obsidian-key-sequence-shortcut)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-key-sequence-shortcut)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/anselmwang/obsidian-key-sequence-shortcut/main/README.md)

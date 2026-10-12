@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cloudinary
 > - 插件作者：Uday Samsani, Jordan Handy
 > - 插件说明：将内容（图片、视频、音频）上传到 Cloudinary，并将它们插入（复制或拖放）到您的笔记中。
-> - 插件分类：[' 第三方工具集成 ', ' 图片与 PDF', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '图片与PDF', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/uday-samsani/obsidian-cloudinary)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cloudinary)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/uday-samsani/obsidian-cloudinary/main/README.md)

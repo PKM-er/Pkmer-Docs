@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cryptsidian
 > - 插件作者：triumphantomato
 > - 插件说明：使用密码加密你 Obsidian Vault 中的所有文件。
-> - 插件分类：[' 安全与隐私 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['安全与隐私', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/triumphantomato/cryptsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cryptsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/triumphantomato/cryptsidian/main/README.md)

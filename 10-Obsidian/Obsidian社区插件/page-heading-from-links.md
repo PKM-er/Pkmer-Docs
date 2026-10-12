@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Page Heading From Links
 > - 插件作者：Mark Beattie
 > - 插件说明：在空白页中插入文件名作为标题
-> - 插件分类：[' 编辑工具 ', ' 文件管理 ', ' 标签 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文件管理', '标签', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/beet/page-headings-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?page-heading-from-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/beet/page-headings-obsidian-plugin/main/README.md)

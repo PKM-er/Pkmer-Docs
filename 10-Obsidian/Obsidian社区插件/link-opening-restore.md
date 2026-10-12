@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Link Opening Restore
 > - 插件作者：SmallZombie
 > - 插件说明：将链接打开方式恢复为 Ctrl + 左键点击。
-> - 插件分类：['界面优化', '快捷键', '插件管理', 'obsidian插件']
+> - 插件分类：['界面优化', '快捷键', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/SmallZombie/link-opening-restore)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?link-opening-restore)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/SmallZombie/link-opening-restore/master/README.md)

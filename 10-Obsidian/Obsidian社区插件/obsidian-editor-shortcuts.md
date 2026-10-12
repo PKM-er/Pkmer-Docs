@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Code Editor Shortcuts
 > - 插件作者：Tim Hor
 > - 插件说明：添加经常出现在代码编辑器（如 Visual Studio Code（vscode）或 Sublime Text）中的快捷键（热键）
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/timhor/obsidian-editor-shortcuts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-editor-shortcuts)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/timhor/obsidian-editor-shortcuts/master/README.md)

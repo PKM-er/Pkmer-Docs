@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Leader Hotkeys
 > - 插件作者：Tony Grosinger
 > - 插件说明：为任何命令（如 tmux 或 vim）添加领导者热键支持
-> - 插件分类：[' 快捷键 ', ' 编辑工具 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '编辑工具', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tgrosinger/leader-hotkeys-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?leader-hotkeys-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tgrosinger/leader-hotkeys-obsidian/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Toggle Meta Yaml
 > - 插件作者：hua
 > - 插件说明：切换元 YAML。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hua03/obsidian-toggle-meta-yaml-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-toggle-meta-yaml-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hua03/obsidian-toggle-meta-yaml-plugin/master/README.md)

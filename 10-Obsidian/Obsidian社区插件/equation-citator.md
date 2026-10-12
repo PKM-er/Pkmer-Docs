@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Equation Citator
 > - 插件作者：friedparrot
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。它是一款强大的类LaTeX学术引用工具，可用于处理公式、图表等内容。
-> - 插件分类：['学习与教育', '编辑工具', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['学习与教育', '编辑工具', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/friedparrot/obsidian-equation-citator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?equation-citator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/friedparrot/obsidian-equation-citator/master/README.md)

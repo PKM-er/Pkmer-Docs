@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Project Browser
 > - 插件作者：Dale de Silva
 > - 插件说明：用您的保险库中的文件和文件夹的可浏览列表替换您的新标签窗口。
-> - 插件分类：[' 文件管理 ', ' 界面优化 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '界面优化', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/daledesilva/obsidian_project-browser)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?project-browser)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/daledesilva/obsidian_project-browser/main/README.md)

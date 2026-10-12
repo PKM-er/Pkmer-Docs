@@ -20,7 +20,7 @@ modified: 20250102153943
 > - 插件名称：Timer
 > - 插件作者：Marius Wörfel
 > - 插件说明：支持设置倒计时功能
-> - 插件分类：[' 时间与日期 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['时间与日期', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Raboro/obsidian-timer-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?timer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Raboro/obsidian-timer-plugin/main/README.md)

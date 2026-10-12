@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：short tab name
 > - 插件作者：Shumpei Tanaka
 > - 插件说明：将选项卡名称设置为 uid 用户的简称
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/shumpei-tanaka/obsidian-short-tab-name)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?short-tab-name)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Shumpei-Tanaka/obsidian-short-tab-name/main/README.md)

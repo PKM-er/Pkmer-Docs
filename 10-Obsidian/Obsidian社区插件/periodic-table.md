@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Periodic Table
 > - 插件作者：jake-cramer
 > - 插件说明：在侧边栏中查看周期表
-> - 插件分类：[' 表格 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Jake-Cramer/Periodic-Table-Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?periodic-table)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Jake-Cramer/Periodic-Table-Obsidian/main/README.md)

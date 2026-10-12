@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cycle In Sidebar
 > - 插件作者：Houcheng
 > - 插件说明：这是一个插件，提供了热键来循环左侧或右侧侧边栏中的标签。
-> - 插件分类：[' 导航与状态栏 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['导航与状态栏', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/houcheng/obsidian-cycle-in-sidebar-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cycle-in-sidebar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/houcheng/obsidian-cycle-in-sidebar-plugin/master/README.md)

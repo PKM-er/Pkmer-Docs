@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Memos Sync
 > - 插件作者：hyoban
 > - 插件说明：与您的备忘录保持同步。
-> - 插件分类：[' 备份与恢复 ', ' 第三方工具集成 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['备份与恢复', '第三方工具集成', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hyoban/obsidian-memos-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?memos-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hyoban/obsidian-memos-plugin/main/README.md)

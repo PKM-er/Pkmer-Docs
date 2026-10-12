@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Completed Area
 > - 插件作者：Daha
 > - 插件说明：这个插件可以切换待办条目的状态，与此同时把已完成的条目移动到一个独立的区域。
-> - 插件分类：[' 任务管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/DahaWong/obsidian-completed-area)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?completed-area)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/DahaWong/obsidian-completed-area/main/README.md)

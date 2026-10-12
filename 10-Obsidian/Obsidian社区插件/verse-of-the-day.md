@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Verse of the Day
 > - 插件作者：Janis Ringli
 > - 插件说明：让您将 YouVersion 的每日经文添加到您的笔记中
-> - 插件分类：[' 搜索与排序 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/janisringli/verse-of-the-day-for-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?verse-of-the-day)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/janisringli/verse-of-the-day-for-obsidian/main/README.md)

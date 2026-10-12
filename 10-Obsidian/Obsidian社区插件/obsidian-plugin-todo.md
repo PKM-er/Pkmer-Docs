@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian TODO | Text-based GTD
 > - 插件作者：Lars Lockefeer
 > - 插件说明：Obsidian 中基于文本的 GTD。从您的保险库中收集所有未完成的 TODO，并在今天、计划、收件箱和某天/也许列表中呈现它们。
-> - 插件分类：[' 数据处理 ', ' 界面优化 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '界面优化', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/larslockefeer/obsidian-plugin-todo)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-plugin-todo)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/larslockefeer/obsidian-plugin-todo/main/README.md)

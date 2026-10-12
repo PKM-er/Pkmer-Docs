@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Go Up
 > - 插件作者：JinMu Go
 > - 插件说明：快速导航到指定的“父”页面
-> - 插件分类：[' 导航与状态栏 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['导航与状态栏', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JinMuGo/obsidian-go-up)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?go-up)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JinMuGo/obsidian-go-up/main/README.md)

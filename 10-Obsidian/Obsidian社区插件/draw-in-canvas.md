@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Draw in Canvas
 > - 插件作者：xryul
 > - 插件说明：可以在Obsidian的JSON画布文件上进行徒手标注哦。
-> - 插件分类：['编辑工具', '图表与可视化', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '图表与可视化', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/xryul/draw-in-canvas)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?draw-in-canvas)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/xryul/draw-in-canvas/master/README.md)

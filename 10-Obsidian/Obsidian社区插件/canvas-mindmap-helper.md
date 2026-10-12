@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Mindmap Helper
 > - 插件作者：Tim Smart
 > - 插件说明：让画布像思维导图一样工作。
-> - 插件分类：[' 思维导图 ', ' 编辑工具 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['思维导图', '编辑工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tim-smart/obsidian-canvas-mindmap)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-mindmap-helper)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tim-smart/obsidian-canvas-mindmap/main/README.md)

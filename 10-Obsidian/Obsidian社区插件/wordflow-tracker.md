@@ -20,7 +20,7 @@ Wordflow Tracker 是一款轻量级 Obsidian 插件，能自动追踪笔记编�
 > - 插件名称：Wordflow Tracker
 > - 插件作者：LeCheenaX
 > - 插件说明：自动追踪你编辑过的笔记文件的更改情况和统计数据。把修改过的笔记和统计信息记录到你的每日笔记里。
-> - 插件分类：[' 文件管理 ', ' 效率工具 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '效率工具', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/LeCheenaX/WordFlow-Tracker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?wordflow-tracker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/LeCheenaX/WordFlow-Tracker/main/README.md)

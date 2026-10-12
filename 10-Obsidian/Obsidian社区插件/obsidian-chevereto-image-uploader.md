@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Chevereto Image Uploader
 > - 插件作者：kkzzhizhou
 > - 插件说明：这个插件可以将你剪贴板中的图片上传到 Chevereto。
-> - 插件分类：[' 文件管理 ', ' 图片与 PDF', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '图片与PDF', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kkzzhizhou/obsidian-chevereto-image-uploader)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-chevereto-image-uploader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kkzzhizhou/obsidian-chevereto-image-uploader/main/README.md)

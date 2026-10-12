@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cards View
 > - 插件作者：Maud Royer
 > - 插件说明：显示您的笔记的卡片视图。
-> - 插件分类：[' 界面美化 ', ' 第三方工具集成 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['界面美化', '第三方工具集成', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jillro/obsidian-cards-view-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cards-view)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jillro/obsidian-cards-view-plugin/main/README.md)

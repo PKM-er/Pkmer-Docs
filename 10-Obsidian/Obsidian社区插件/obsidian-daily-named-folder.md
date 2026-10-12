@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Daily Named Folder
 > - 插件作者：Nemo Andrea
 > - 插件说明：每日笔记，但嵌套在每日文件夹中，并附有一行摘要，更适合附件管理和快速浏览。
-> - 插件分类：[' 数据处理 ', ' 界面优化 ', ' 日历与时间 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '界面优化', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/NemoAndrea/obsidian-daily-named-folder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-daily-named-folder)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/NemoAndrea/obsidian-daily-named-folder/master/README.md)

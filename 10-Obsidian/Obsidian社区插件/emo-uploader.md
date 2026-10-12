@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Emo
 > - 插件作者：yaleiyale
 > - 插件说明：嵌入 Markdown 在线文件/图像链接。此插件用于将图像上传到 Obsidian 中的托管或文件上传到 Github。
-> - 插件分类：[' 文件管理 ', ' 图片与 PDF', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '图片与PDF', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yaleiyale/obsidian-emo-uploader)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?emo-uploader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yaleiyale/obsidian-emo-uploader/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Perilous Writing
 > - 插件作者：Sameer Ismail
 > - 插件说明：持续写作，否则将失去所有进展。
-> - 插件分类：[' 编辑工具 ', ' 自动化与 AI', ' 备份与恢复 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自动化与AI', '备份与恢复', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sameersismail/obsidian-perilous-writing)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?perilous-writing)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sameersismail/obsidian-perilous-writing/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Daily note creator
 > - 插件作者：Mario Holubar
 > - 插件说明：Automatically creates missing daily notes
-> - 插件分类：[' 任务管理 ', ' 自动化与 AI', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '自动化与AI', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mario-holubar/obsidian-daily-note-creator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?daily-note-creator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mario-holubar/obsidian-daily-note-creator/master/README.md)

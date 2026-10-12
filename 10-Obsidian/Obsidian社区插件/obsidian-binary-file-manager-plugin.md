@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Binary File Manager
 > - 插件作者：qawatake
 > - 插件说明：检测拱顶中的新二进制文件并创建具有元数据的 Markdown 文件。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/qawatake/obsidian-binary-file-manager-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-binary-file-manager-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/qawatake/obsidian-binary-file-manager-plugin/main/README.md)

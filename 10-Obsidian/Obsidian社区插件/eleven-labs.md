@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Eleven Labs
 > - 插件作者：Mark Charles
 > - 插件说明：使用 Eleven Labs 将您的黑曜石笔记转换为文本转语音音频文件。
-> - 插件分类：[' 第三方工具集成 ', ' 文字处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文字处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/veritas1/eleven-labs-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?eleven-labs)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/veritas1/eleven-labs-obsidian-plugin/main/README.md)

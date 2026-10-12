@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Consistent attachments and links
 > - 插件作者：Dmitry Savosh
 > - 插件说明：自动移动笔记附件并更新链接
-> - 插件分类：[' 文件管理 ', ' 链接 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '链接', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dy-sh/obsidian-consistent-attachments-and-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?consistent-attachments-and-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dy-sh/obsidian-consistent-attachments-and-links/master/README.md)

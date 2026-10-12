@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Metal Archives (Unofficial)
 > - 插件作者：Vincenzo Caputo
 > - 插件说明：从金属档案中创建关于金属乐队和专辑的笔记。
-> - 插件分类：[' 搜索与排序 ', ' 笔记与日志 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '笔记与日志', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vincenzocaputo/obsidian-metal-archives-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?metal-archives)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vincenzocaputo/obsidian-metal-archives-plugin/master/README.md)

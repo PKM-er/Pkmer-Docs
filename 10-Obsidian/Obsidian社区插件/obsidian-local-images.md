@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Local images
 > - 插件作者：catalysm, aleksey-rezvov
 > - 插件说明：本地图像插件会查找笔记中所有指向外部图像的链接，然后下载并本地保存图像，最后调整笔记中的图像链接以指向已保存的图像文件。
-> - 插件分类：[' 文件管理 ', ' 图片与 PDF', ' 链接 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '图片与PDF', '链接', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aleksey-rezvov/obsidian-local-images)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-local-images)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aleksey-rezvov/obsidian-local-images/master/README.md)

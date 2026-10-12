@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Inkplane
 > - 插件作者：Sirwan Afifi
 > - 插件说明：一个能嵌入笔记的无限手写画布，专为苹果铅笔等手写笔设计。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['移动端优化', '编辑工具', '文字处理', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['移动端优化', '编辑工具', '文字处理', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sirwanafifi/inkplane)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ink-layer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sirwanafifi/inkplane/master/README.md)

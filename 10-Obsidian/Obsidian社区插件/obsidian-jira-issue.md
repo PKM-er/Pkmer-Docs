@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Jira Issue
 > - 插件作者：marc0l92
 > - 插件说明：在 Obsidian 笔记中跟踪 Atlassian Jira 问题的进展。
-> - 插件分类：[' 第三方工具集成 ', ' 搜索与排序 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '搜索与排序', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/marc0l92/obsidian-jira-issue)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-jira-issue)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/marc0l92/obsidian-jira-issue/master/README.md)

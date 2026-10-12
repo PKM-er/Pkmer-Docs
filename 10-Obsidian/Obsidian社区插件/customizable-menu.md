@@ -25,7 +25,7 @@ Customizable Menu 这个插件可以将命令加入进右键菜单中，需要�
 > - 插件作者：kzhovn
 > - 插件版本：2.2.0
 > - 插件说明：允许您将任何命令，包括 OB 自己的和插件提供的，添加到 Obsidian 的右键菜单中。
-> - 插件分类：[' 快捷键 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '快捷键', '效率', '自定义', '右键菜单']
 > - 项目地址：[点我访问](https://github.com/kzhovn/obsidian-customizable-menu)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?customizable-menu)
 

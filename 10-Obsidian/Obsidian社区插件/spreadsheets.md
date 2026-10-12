@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Spreadsheets
 > - 插件作者：Divam Gupta
 > - 插件说明：使用 Obsidian 创建和编辑高级电子表格。丰富的格式、公式、单元格、筛选等功能！
-> - 插件分类：[' 表格 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/divamgupta/obsidian-spreadsheets)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?spreadsheets)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/divamgupta/obsidian-spreadsheets/master/README.md)

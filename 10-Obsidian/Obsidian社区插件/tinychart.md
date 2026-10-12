@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TinyChart
 > - 插件作者：Alin Coop
 > - 插件说明：生成简单的 ASCII 图表。
-> - 插件分类：[' 图表与可视化 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['图表与可视化', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/alincoop/obsidian-tinychart)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tinychart)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/alincoop/obsidian-tinychart/main/README.md)

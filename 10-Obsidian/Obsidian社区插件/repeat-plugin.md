@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Repeat
 > - 插件作者：Andre Perunicic
 > - 插件说明：使用周期性或间隔重复来复习笔记。
-> - 插件分类：[' 学习与教育 ', ' 数据处理 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['学习与教育', '数据处理', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/prncc/obsidian-repeat-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?repeat-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/prncc/obsidian-repeat-plugin/master/README.md)

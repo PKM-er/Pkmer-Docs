@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Yet Another Obsidian Synchronizer
 > - 插件作者：Mahyar Mirrashed
 > - 插件说明：这是另一个使用 Git 来同步您的保险库内容的黑曜石同步器。
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 备份与恢复 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '备份与恢复', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mahyarmirrashed/yaos)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?yet-another-obsidian-synchronizer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mahyarmirrashed/yaos/main/README.md)

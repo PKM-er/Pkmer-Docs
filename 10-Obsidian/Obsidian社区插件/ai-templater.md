@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI for Templater
 > - 插件作者：TfTHacker
 > - 插件说明：AI Extension for the Templater plugin with the OpenAI Client Library.
-> - 插件分类：[' 第三方工具集成 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/TfTHacker/obsidian-ai-templater)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-templater)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/TfTHacker/obsidian-ai-templater/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：HamsterBase Official
 > - 插件作者：HamsterBase
 > - 插件说明：官方 HamsterBase -> Obsidian 集成
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hamsterbase/obsidian-hamsterbase)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hamsterbase)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hamsterbase/obsidian-hamsterbase/main/README.md)

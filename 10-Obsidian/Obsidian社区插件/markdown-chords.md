@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markdown Chords
 > - 插件作者：David Hunt
 > - 插件说明：在 Markdown 中添加弦乐器（例如吉他）的音乐和弦符号以及弦图。支持任何西方音阶/调式的和弦，包括扩展的爵士和弦。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 音乐 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '音乐', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dnotes/obsidian-markdown-chords)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-chords)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dnotes/obsidian-markdown-chords/main/README.md)

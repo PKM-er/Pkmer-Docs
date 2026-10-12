@@ -20,7 +20,7 @@ modified: 20231012110940
 > - 插件名称：HTML Tabs
 > - 插件作者：Patrick Tournet
 > - 插件说明：在笔记中创建和渲染选项卡和标签面板
-> - 插件分类：[' 标题 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['美化', 'obsidian插件', '选项卡']
 > - 项目地址：[点我访问](https://github.com/ptournet/obsidian-html-tabs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?html-tabs)
 

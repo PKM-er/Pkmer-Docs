@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsius Publish
 > - 插件作者：Jon Grythe Stødle
 > - 插件说明：将单个笔记立即可在网上使用。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jonstodle/obsius-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsius-publish)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jonstodle/obsius-obsidian-plugin/main/README.md)

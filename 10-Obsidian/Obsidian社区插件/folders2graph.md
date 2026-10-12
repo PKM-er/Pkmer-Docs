@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Folders to Graph
 > - 插件作者：Ratibus11
 > - 插件说明：将您的保险库文件夹结构显示在您的图表中。
-> - 插件分类：[' 文件管理 ', ' 图表与可视化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Ratibus11/folders2graph)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?folders2graph)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ratibus11/folders2graph/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Smart Second Brain
 > - 插件作者：Leo310, nicobrauchtgit
 > - 插件说明：与您专注于隐私的助手互动，利用 Ollama 或 OpenAI，让您的第二大脑变得更加智能。
-> - 插件分类：[' 数据处理 ', ' 界面优化 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '界面优化', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nicobrauchtgit/obsidian-Smart2Brain)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?smart-second-brain)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/your-papa/obsidian-Smart2Brain/main/README.md)

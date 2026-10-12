@@ -20,7 +20,7 @@ modified: 20230921151518
 > - 插件名称：css snippets
 > - 插件作者：Daniel Brandenburg
 > - 插件说明：用于加载自定义 css 片段
-> - 插件分类：[' 样式工具 ', ' 美化 ', 'obsidian 插件 ']
+> - 插件分类：['样式工具', '美化', 'obsidian插件', 'readme']
 > - 项目地址：[点我访问](https://github.com/jdbrice/obsidian-css-snippets)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?css-snippets)
 

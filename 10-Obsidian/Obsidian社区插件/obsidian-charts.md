@@ -20,7 +20,7 @@ modified: 20240105105347
 > - 插件名称：Obsidian Charts
 > - 插件作者：phibr0
 > - 插件说明：此插件可让您使用 Chartist 作为后端创建图表！
-> - 插件分类：[' 图表生成 ', ' 界面相关 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：['图表生成', '界面相关', 'obsidian插件', 'readme']
 > - 项目地址：[点我访问](https://github.com/phibr0/obsidian-charts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-charts)
 

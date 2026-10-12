@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Logstravaganza
 > - 插件作者：Carlo Zottmann
 > - 插件说明：一个简单的代理，用于将 `console.*()` 调用的日志消息和未捕获的异常复制到一个注释中。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 日志与记录 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '日志与记录', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/czottmann/obsidian-logstravaganza)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?logstravaganza)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/czottmann/obsidian-logstravaganza/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Kit
 > - 插件作者：yaye.work
 > - 插件说明：这可是对Obsidian画布体验的一次彻底革新哦！特别适合以画布为核心、非线性的笔记记录工作流程。能画图，能快速添加新笔记或者已有笔记，还能通过拖动来创建分区，还有交互式表格等等功能呢——不过要提醒一下哈，这个插件还没经过Obsidian官方人员的人工审核。
-> - 插件分类：['界面优化', '编辑工具', '图表与可视化', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['界面优化', '编辑工具', '图表与可视化', '效率工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yaye-work/canvas-kit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-kit)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yaye-work/canvas-kit/master/README.md)

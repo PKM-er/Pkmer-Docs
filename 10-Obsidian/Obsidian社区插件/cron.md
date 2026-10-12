@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cron
 > - 插件作者：Callum Loh
 > - 插件说明：简单的 CRON /调度程序插件，定期运行用户脚本或 Obsidian 命令。
-> - 插件分类：[' 任务管理 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cdloh/obsidian-cron)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cron)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cdloh/obsidian-cron/master/README.md)

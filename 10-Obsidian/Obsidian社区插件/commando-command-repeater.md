@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Commando
 > - 插件作者：qaptoR
 > - 插件说明：使用定义的或每次调用的值，使命令可以重复调用。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/qaptoR/Commando)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?commando-command-repeater)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/qaptoR/Commando/master/README.md)

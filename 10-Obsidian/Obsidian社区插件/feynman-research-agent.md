@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Feynman - AI research assistant
 > - 插件作者：Icarian Systems
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。它是你仓库的研究助手，在本地的Docker环境中运行，需要使用你自己的Anthropic API密钥。
-> - 插件分类：['学习与教育', '自动化与AI', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '第三方工具集成', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/icarian-systems/feynman-research-agent)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?feynman-research-agent)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/icarian-systems/feynman-research-agent/master/README.md)

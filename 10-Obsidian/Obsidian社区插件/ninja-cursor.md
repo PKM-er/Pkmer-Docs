@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ninja Cursor
 > - 插件作者：vorotamoroz
 > - 插件说明：提高光标可见性的插件。
-> - 插件分类：[' 界面优化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vrtmrz/ninja-cursor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ninja-cursor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vrtmrz/ninja-cursor/main/README.md)

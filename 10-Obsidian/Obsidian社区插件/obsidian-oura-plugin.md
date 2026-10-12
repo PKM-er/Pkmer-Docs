@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Oura Plugin for Obsidian
 > - 插件作者：Andrew Lombardi
 > - 插件说明：taking app 一个用于将 OURA 环数据导入笔记应用程序的插件
-> - 插件分类：[' 第三方工具集成 ', ' 数据处理 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据处理', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kinabalu/obsidian-oura-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-oura-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kinabalu/obsidian-oura-plugin/master/README.md)

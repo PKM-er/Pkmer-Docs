@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Wheel Picker
 > - 插件作者：EZRA-DVLPR
 > - 插件说明：展示一个转盘，点击后，它会从转盘中随机选一个项目。——Obsidian 官方人员尚未对该插件进行人工审核。
-> - 插件分类：['效率工具', '图表与可视化', '随机选择（注：预定义标签中无完全精准匹配的，“随机选择”为补充示意，若只能从给定选，可选效率工具', '图表与可视化）', 'obsidian插件']
+> - 插件分类：['效率工具', '图表与可视化', '图表与可视化）', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ezra-dvlpr/WheelPicker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?wheel-picker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ezra-dvlpr/WheelPicker/master/README.md)

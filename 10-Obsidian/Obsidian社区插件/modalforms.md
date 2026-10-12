@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Modal forms
 > - 插件作者：Danielo Rodriguez
 > - 插件说明：定义一种能够从任何可以运行 JavaScript 的地方打开的数据捕获表单。
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/danielo515/obsidian-modal-form)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?modalforms)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/danielo515/obsidian-modal-form/master/README.md)

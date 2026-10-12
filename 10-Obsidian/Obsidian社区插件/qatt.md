@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Query all the things
 > - 插件作者：Sytone
 > - 插件说明：在 Obsidian 中对数据执行基于 SQL 的查询，并使用模板按照您的要求进行渲染。
-> - 插件分类：[' 数据处理 ', ' 搜索与排序 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '搜索与排序', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sytone/obsidian-queryallthethings)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?qatt)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sytone/obsidian-queryallthethings/main/README.md)

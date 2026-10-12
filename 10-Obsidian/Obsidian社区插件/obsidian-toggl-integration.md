@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Toggl Track
 > - 插件作者：Maxime Cannoodt
 > - 插件说明：添加与 Toggl Track API 的集成，以在 Obsidian 内管理计时器。
-> - 插件分类：[' 第三方工具集成 ', ' 时间与日期 ', ' 状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '时间与日期', '状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mcndt/obsidian-toggl-integration)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-toggl-integration)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mcndt/obsidian-toggl-integration/master/README.md)

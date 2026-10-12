@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TimeDiff plugin
 > - 插件作者：Grzegorz Dominiczak
 > - 插件说明：在“timediff” markdown 块中计算并显示两个日期之间的小时和分钟差异
-> - 插件分类：[' 数据处理 ', ' 时间 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dominiczaq/obsidian-plugin-time-diff)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-plugin-time-diff)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dominiczaq/obsidian-plugin-time-diff/master/README.md)

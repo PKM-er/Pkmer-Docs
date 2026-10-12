@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dictionary
 > - 插件作者：phibr0
 > - 插件说明：Obsidian 笔记增加多语言词典。包括英式英语，美式英语，印度语、西班牙语，法语，日语，俄罗斯，德语，意大利，韩语，巴西，阿拉伯，土耳其，中文
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/phibr0/obsidian-dictionary)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dictionary-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/obsidian-dictionary/master/README.md)

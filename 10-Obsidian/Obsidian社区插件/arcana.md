@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Arcana
 > - 插件作者：A-F-V
 > - 插件说明：通过 AI 提供的洞察和建议，让你的笔记记录变得更加强大。
-> - 插件分类：[' 数据处理 ', ' 自动化与 AI', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '自动化与AI', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/A-F-V/obsidian-arcana)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?arcana)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/A-F-V/obsidian-arcana/master/README.md)

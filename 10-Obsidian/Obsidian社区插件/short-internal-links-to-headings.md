@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Short Internal Links to Headings
 > - 插件作者：Scott Moore
 > - 插件说明：将内部链接到标题仅显示为标题名称。
-> - 插件分类：[' 链接 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['链接', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/scottwillmoore/obsidian-short-internal-links-to-headings)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?short-internal-links-to-headings)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/scottwillmoore/obsidian-short-links/main/README.md)

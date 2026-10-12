@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Image Inline
 > - 插件作者：Zackary W
 > - 插件说明：粘贴您的图像，不要附加文件。
-> - 插件分类：[' 图片与 PDF', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['图片与PDF', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ZackaryW/obsidian-image-inline)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?image-inline)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ZackaryW/obsidian-image-inline/master/README.md)

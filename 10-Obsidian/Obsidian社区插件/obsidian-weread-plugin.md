@@ -20,7 +20,7 @@ Obsidian 微信读书插件是一个社区插件，用来同步微信读书中�
 > - 插件名称：Weread Plugin
 > - 插件作者：hank zhao
 > - 插件说明：可以让你的 Obsidian 和微信阅读联动，获取相关阅读标注，笔记信息。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 信息收集 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：['Obsidian', '插件', '微信读书', '微信阅读']
 > - 项目地址：[点我访问](https://github.com/zhaohongxuan/obsidian-weread-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-weread-plugin)
 

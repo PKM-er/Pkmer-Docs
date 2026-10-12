@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pinboard Sync
 > - 插件作者：Mathew Spolin
 > - 插件说明：将 Pinboard.in 链接与每日笔记同步
-> - 插件分类：[' 第三方工具集成 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Automatt/obsidian-pinboard-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pinboard-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Automatt/obsidian-pinboard-sync/master/README.md)

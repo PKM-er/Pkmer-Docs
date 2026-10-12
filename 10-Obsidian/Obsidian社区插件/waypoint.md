@@ -20,7 +20,7 @@ Waypoint 是一个 Obsidian 插件，可以自动生成文件夹注释中的目�
 > - 插件名称：Waypoint
 > - 插件作者：Idrees Hassan
 > - 插件说明：Waypoint 是一个 Obsidian 插件，可以自动生成文件夹注释中的目录/MOC。一旦生成了一个航路点，它将自动链接到文件夹及其子文件夹中的每个笔记。Waypoint 插件将检测您何时创建/重命名/移动/删除注释，并自动保持最新状态。
-> - 插件分类：[‘Obsidian’,' 界面相关 ', ' 目录/标题 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '界面相关', '目录/标题', '效率', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/IdreesInc/Waypoint)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?waypoint)
 

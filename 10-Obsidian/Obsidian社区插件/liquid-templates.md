@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Liquid Templates
 > - 插件作者：Diomede Tripicchio
 > - 插件说明：使用支持 LiquidJS 标签的模板
-> - 插件分类：[' 模板与链接处理 ', ' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/oeN/liquid-template)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?liquid-templates)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/oeN/liquid-template/master/README.md)

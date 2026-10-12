@@ -16,7 +16,7 @@ modified: 20240611115109
 > - 插件名称：ii
 > - 插件作者：Wilson
 > - 插件说明：快速插入常见的 Markdown 代码和 HTML 代码，并自定义您自己的插入命令。
-> - 插件分类：[' 编辑工具 ', ' 自定义命令 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自定义命令', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/wish5115/obsidian-ii-quicker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ii-quicker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/wish5115/obsidian-ii-quicker/main/README.md)

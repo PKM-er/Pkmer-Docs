@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markdown Table Editor
 > - 插件作者：Ganessh Kumar R P
 > - 插件说明：为 Markdown 表格提供编辑器，能将 CSV、Microsoft Excel/Google Sheets 数据 转化成 Markdown 的表格。你可以再点击表格后，在悬浮窗口维护你的表格。
-> - 插件分类：[' 编辑工具 ', ' 表格 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '表格', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ganesshkumar/obsidian-table-editor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-table-editor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ganesshkumar/obsidian-table-editor/master/README.md)

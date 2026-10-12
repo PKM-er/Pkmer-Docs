@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Activity History
 > - 插件作者：darakah
 > - 插件说明：跟踪指定项目的活动，Github 之类的活动板
-> - 插件分类：[' 任务管理 ', ' 第三方工具集成 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '第三方工具集成', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Darakah/obsidian-activity-history)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-activity-history)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Darakah/obsidian-activity-history/main/README.md)

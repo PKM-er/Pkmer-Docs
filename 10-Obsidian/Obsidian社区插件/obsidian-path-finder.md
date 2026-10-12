@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Path Finder
 > - 插件作者：jerrywcy
 > - 插件说明：一个可以查找两个节点之间的所有路径并将其渲染为图形或文本的插件。
-> - 插件分类：[' 图表与可视化 ', ' 搜索与排序 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['图表与可视化', '搜索与排序', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jerrywcy/obsidian-path-finder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-path-finder)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jerrywcy/obsidian-path-finder/master/README.md)

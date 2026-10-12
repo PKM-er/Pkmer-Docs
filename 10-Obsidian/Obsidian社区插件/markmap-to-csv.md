@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markmap to CSV
 > - 插件作者：maxlee
 > - 插件说明：将 Markmap 数据转换为 CSV 格式。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pj4316/markmap-to-csv-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markmap-to-csv)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pj4316/markmap-to-csv-obsidian/master/README.md)

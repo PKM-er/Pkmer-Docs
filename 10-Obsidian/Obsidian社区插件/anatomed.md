@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Anatomed 3D Anatomy
 > - 插件作者：fabijan
 > - 插件说明：在你的笔记里嵌入可交互、区域独立的 3D 解剖模型。在解剖代码块中编写一个区域，就能得到一个可旋转、经过验证的 3D 模型，还能切换显示图例。——此插件尚未经过 Obsidian 工作人员的人工审核。
-> - 插件分类：['图表与可视化', '多媒体', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '多媒体', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pitfa19/anatomed-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?anatomed)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pitfa19/anatomed-obsidian/master/README.md)

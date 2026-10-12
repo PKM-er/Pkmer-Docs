@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Open File by Magic Date
 > - 插件作者：simplgy
 > - 插件说明：为你最重要的文件（例如：每日/每周/每月笔记）定义一个热键和 Moment.js 模式。
-> - 插件分类：[' 快捷键 ', ' 日期与时间 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '日期与时间', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/simplgy/obsidian-open-file-by-magic-date)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-open-file-by-magic-date)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/SimplGy/obsidian-open-file-by-magic-date/master/README.md)

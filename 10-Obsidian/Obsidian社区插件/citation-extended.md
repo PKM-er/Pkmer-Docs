@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Citation Extended
 > - 插件作者：akhmialeuski
 > - 插件说明：扩展功能，可自动从 Zotero 文献库中搜索并插入参考文献。——此插件尚未经过 Obsidian 官方人员手动审核。
-> - 插件分类：['第三方工具集成', '自动化与AI', '学习与教育', 'zotero', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '自动化与AI', '学习与教育', 'zotero', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/akhmialeuski/obsidian-citation-extended)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?citation-extended)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/akhmialeuski/obsidian-citation-extended/master/README.md)

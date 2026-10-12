@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Crypt It
 > - 插件作者：fyears
 > - 插件说明：生成使用 rclone 加密格式的文件的加密版本。
-> - 插件分类：[' 安全 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['安全', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/remotely-save/crypt-it)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?crypt-it)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/remotely-save/crypt-it/main/README.md)

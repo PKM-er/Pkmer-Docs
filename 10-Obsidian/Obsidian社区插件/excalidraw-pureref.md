@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Excalidraw PureRef
 > - 插件作者：wolfexplode
 > - 插件说明：把 Excalidraw 绘图板变成一个置顶参考弹窗——这个插件还未经过 Obsidian 官方人员的人工审核。
-> - 插件分类：['第三方工具集成', '图表与可视化', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '图表与可视化', '效率工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/wolfexplode/obsidian-excalidraw-pureref)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?excalidraw-pureref)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/wolfexplode/obsidian-excalidraw-pureref/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vocabulary Highlighter
 > - 插件作者：eatgrass
 > - 插件说明：根据词频突出显示词汇
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/eatgrass/obsidian-vocab-highlighter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vocabulary-highlighter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/eatgrass/obsidian-vocab-highlighter/master/README.md)

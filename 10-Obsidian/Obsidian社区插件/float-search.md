@@ -20,7 +20,7 @@ modified: 20240105182636
 > - 插件名称：Floating Search
 > - 插件作者：Boninall
 > - 插件说明：使用 Obsidian 默认的搜索视图来搜索文本。
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian插件', 'readme']
 > - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Float-Search)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?float-search)
 

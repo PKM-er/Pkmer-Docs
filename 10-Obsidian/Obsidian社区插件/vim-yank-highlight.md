@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vim Yank Highlight
 > - 插件作者：Aleksey Rowan
 > - 插件说明：在 Vim 模式下突出显示被删除的文本。享受你一直想念的微妙动画。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aleksey-rowan/obsidian-vim-yank-highlight)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vim-yank-highlight)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aleksey-rowan/obsidian-vim-yank-highlight/master/README.md)

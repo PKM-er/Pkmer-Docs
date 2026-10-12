@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：APL Render
 > - 插件作者：my99n
 > - 插件说明：渲染 APL 语法
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vzsky/apl-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?apl-render)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vzsky/apl-obsidian/master/README.md)

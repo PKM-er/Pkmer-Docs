@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian ReadItLater
 > - 插件作者：Dominik Pieper
 > - 插件说明：从你的剪贴板收集有趣的信息到你的保险库中。网站将被转换为 MD，推文和 Youtube 视频嵌入，纯文本只会保存到一个新的通知中。
-> - 插件分类：[' 文件管理 ', ' 模板与链接处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '模板与链接处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/DominikPieper/obsidian-ReadItLater)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-read-it-later)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/DominikPieper/obsidian-ReadItLater/master/README.md)

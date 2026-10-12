@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Incomplete files
 > - 插件作者：Hananoshika Yomaru
 > - 插件说明：基于规则的跟踪您的未完成文件
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HananoshikaYomaru/obsidian-incomplete-files)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?incomplete-files)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-incomplete-files/master/README.md)

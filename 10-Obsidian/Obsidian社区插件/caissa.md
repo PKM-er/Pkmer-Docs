@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Caissa
 > - 插件作者：Matthew Newton
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核哦。你可以在你的仓库里研究国际象棋啦。能嵌入棋局位置、研究开局和残局、浏览世界冠军赛的棋局、给PGN文件做注解，还能探索Lichess的开局统计数据呢。
-> - 插件分类：['学习与教育', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '第三方工具集成', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ekrizdis367/obsidian-caissa)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?caissa)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ekrizdis367/obsidian-caissa/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Blocks
 > - 插件作者：Kay606
 > - 插件说明：在 canvas 中执行 python 脚本
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Kay607/obsidian-canvasblocks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvasblocks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Kay607/obsidian-canvasblocks/main/README.md)

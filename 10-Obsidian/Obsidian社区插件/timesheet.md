@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Timesheet
 > - 插件作者：vkostyanetsky
 > - 插件说明：日常笔记中的任务时间表生成器。
-> - 插件分类：[' 任务管理 ', ' 数据分析 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '数据分析', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vkostyanetsky/ObsidianTimesheet)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?timesheet)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vkostyanetsky/ObsidianTimesheet/main/README.md)

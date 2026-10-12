@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hanayama Huzzles Tracker
 > - 插件作者：Iulian Onofrei
 > - 插件说明：这个程序会爬取 Hanayama Huzzle 网页，构建一个 Markdown 表格，并允许您使用状态列手动跟踪它们。
-> - 插件分类：[' 表格 ', ' 数据处理 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '数据处理', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/revolter/obsidian-hanayama-huzzles-tracker-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hanayama-huzzles-tracker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/revolter/obsidian-hanayama-huzzles-tracker-plugin/master/README.md)

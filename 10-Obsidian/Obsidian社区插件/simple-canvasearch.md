@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Simple CanvaSearch
 > - 插件作者：ddalexb
 > - 插件说明：快速模糊搜索笔记、卡片及其内容，并将焦点转移到当前打开的画布中的它们。
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ddalexb/obsidian-simple-canvasearch)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?simple-canvasearch)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ddalexb/obsidian-simple-canvasearch/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Linked Data Vocabularies
 > - 插件作者：kometenstaub
 > - 插件说明：将国会图书馆主题词表（LCSH）作为元数据添加到您的笔记中。
-> - 插件分类：[' 搜索与排序 ', ' 样式与美化 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '样式与美化', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kometenstaub/linked-data-vocabularies)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?linked-data-vocabularies)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kometenstaub/linked-data-vocabularies/main/README.md)

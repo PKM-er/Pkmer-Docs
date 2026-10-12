@@ -20,7 +20,7 @@ modified: 20250821100648
 > - 插件名称：memory game
 > - 插件作者：qingxuan
 > - 插件说明：提升专注力的小游戏。
-> - 插件分类：[' 娱乐 ', ' 记忆训练 ', ' 专注力训练 ', 'obsidian 插件 ']
+> - 插件分类：['游戏与娱乐', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/qingxuanlin-s/obsidian-memory-game)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?memory-game)
 > - 自述文件：[Readme](https://github.com/qingxuanlin-s/obsidian-memory-game/blob/main/README.md)

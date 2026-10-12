@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Image to text OCR
 > - 插件作者：Dario Baumberger
 > - 插件说明：将笔记中的图像转换为文本。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dario-baumberger/obsidian-image-to-text-ocr)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?image-to-text-ocr)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dario-baumberger/obsidian-image-to-text-ocr/master/README.md)

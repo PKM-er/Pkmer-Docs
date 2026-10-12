@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Quail
 > - 插件作者：Lyric
 > - 插件说明：通过 Quail.ink 将保存、发布和交付笔记作为通讯和博客。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lyricat/obsidian-quail)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quail)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lyricat/obsidian-quail/master/README.md)

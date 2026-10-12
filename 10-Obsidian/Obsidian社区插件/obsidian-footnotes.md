@@ -20,7 +20,7 @@ modified: 20230911004618
 > - 插件名称：Footnote Shortcut
 > - 插件作者：Alexis Rondeau, Micha Brugger
 > - 插件说明：方便你增加脚注更加方便，可以通过快捷键快速在脚注和脚注解释内容之间快速切换。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '效率', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MichaBrugger/obsidian-footnotes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-footnotes)
 

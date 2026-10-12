@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Local GPT
 > - 插件作者：Pavel Frankov
 > - 插件说明：Local GPT 辅助，以实现最大隐私和离线访问
-> - 插件分类：[' 安全与隐私 ', ' 自动化与 AI', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['安全与隐私', '自动化与AI', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pfrankov/obsidian-local-gpt)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?local-gpt)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pfrankov/obsidian-local-gpt/master/README.md)

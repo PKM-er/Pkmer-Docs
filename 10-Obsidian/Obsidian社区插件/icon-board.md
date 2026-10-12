@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Icon Board
 > - 插件作者：RK-Media
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。它是一个米兰笔记（Milanote）风格的可视化工作区，有图标方块、自由画布、看板列、便利贴、待办清单、图片、音频、书签和笔记链接等功能。
-> - 插件分类：['图表与可视化', '效率工具', '多媒体', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '效率工具', '多媒体', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rk-admin-01/obsidian-icon-board)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?icon-board)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rk-admin-01/obsidian-icon-board/master/README.md)

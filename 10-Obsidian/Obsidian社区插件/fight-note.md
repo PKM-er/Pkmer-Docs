@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Fight Note
 > - 插件作者：Dmitry Loac
 > - 插件说明：将铁拳符号转换为易于阅读的格式（部分适用于其他格斗游戏：《罪恶装备》、《街头霸王》等）。
-> - 插件分类：[' 游戏 ', 'obsidian 插件 ']
+> - 插件分类：['游戏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Loac/obsidian-fight-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?fight-note)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Loac/obsidian-fight-note/main/README.md)

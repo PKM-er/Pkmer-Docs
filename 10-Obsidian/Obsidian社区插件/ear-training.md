@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ear Training
 > - 插件作者：Poe Zoel
 > - 插件说明：Get ear training exercises inside your vault.
-> - 插件分类：[' 学习与教育 ', ' 多媒体 ', ' 音乐 ', 'obsidian 插件 ']
+> - 插件分类：['学习与教育', '多媒体', '音乐', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/shiwer/ear-training-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ear-training)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/shiwer/ear-training-obsidian-plugin/main/README.md)

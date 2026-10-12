@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Copy Image and URL context menu
 > - 插件作者：NomarCub
 > - 插件说明：阅读视图（以前的预览模式）中的复制图像、复制 URL 和外部打开 PDF 上下文菜单
-> - 插件分类：[' 链接 ', ' 图片与 PDF', ' 移动端 ', 'obsidian 插件 ']
+> - 插件分类：['链接', '图片与PDF', '移动端', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/NomarCub/obsidian-copy-url-in-preview)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copy-url-in-preview)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/NomarCub/obsidian-copy-url-in-preview/main/README.md)

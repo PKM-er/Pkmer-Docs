@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vantage - Advanced search builder
 > - 插件作者：ryanjamurphy
 > - 插件说明：在 Obsidian 中构建高级查询命令
-> - 插件分类：[' 搜索与排序 ', ' 数据处理 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '数据处理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ryanjamurphy/vantage-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vantage-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/vantage-obsidian/master/README.md)

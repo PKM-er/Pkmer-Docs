@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Invio
 > - 插件作者：frontend-engineering
 > - 插件说明：将文档导出为网站并部署到 AWS S3 或兼容的 COS。Invio 简化了发布过程，使用户能够轻松地在线共享他们的工作。
-> - 插件分类：[' 文件管理 ', ' 第三方工具集成 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '第三方工具集成', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/frontend-engineering/Invio)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?invio)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/frontend-engineering/Invio/main/README.md)

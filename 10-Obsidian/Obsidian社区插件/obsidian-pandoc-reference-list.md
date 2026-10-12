@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pandoc Reference List
 > - 插件作者：mgmeyers
 > - 插件说明：在当前文档中，为每个 pandoc citekey 显示一个格式化的参考资料在侧边栏中。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mgmeyers/obsidian-pandoc-reference-list)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-pandoc-reference-list)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-pandoc-reference-list/main/README.md)

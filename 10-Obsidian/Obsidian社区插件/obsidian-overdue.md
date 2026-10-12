@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Overdue
 > - 插件作者：Peter Parente
 > - 插件说明：未在截止日期前完成的任务，会为你自动将任务其标记为 [[逾期]]/[[OVERDUE]]
-> - 插件分类：[' 任务管理 ', ' 时间管理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '日历与时间', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/parente/obsidian-overdue)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-overdue)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/parente/obsidian-overdue/main/README.md)

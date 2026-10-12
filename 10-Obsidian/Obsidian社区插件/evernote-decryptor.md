@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Evernote Decryptor
 > - 插件作者：rcmdnk
 > - 插件说明：管理从 Evernote 导入的加密数据。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', ' 安全与隐私 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', '安全与隐私', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rcmdnk/obsidian-evernote-decryptor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?evernote-decryptor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rcmdnk/obsidian-evernote-decryptor/master/README.md)

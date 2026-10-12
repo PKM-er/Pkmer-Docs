@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Things3 Sync
 > - 插件作者：royx
 > - 插件说明：一个用于同步 Obsidian 和 Things3 的插件，支持多语言，标签和日期。
-> - 插件分类：[' 任务管理 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/royxue/obsidian-things3-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-things3-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/royxue/obsidian-things3-sync/master/README.md)

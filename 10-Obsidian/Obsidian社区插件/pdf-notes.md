@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PDF.notes
 > - 插件作者：Anton
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核哦。它能让你用流畅的笔触绘图和形状工具来给PDF文件做批注呢。
-> - 插件分类：['图片与PDF', '编辑工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图片与PDF', '编辑工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lucidalpha/obsidian-pdf-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pdf-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucidalpha/obsidian-pdf-notes/master/README.md)

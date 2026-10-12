@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Understory
 > - 插件作者：Rosetta Zidian Guo
 > - 插件说明：这是一个以本地优先的知识层插件，能用于关系发现、实体关系事实挖掘、图形分析，还可选择借助模型获取深入见解。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['图谱', '数据分析', '自动化与AI', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图谱', '数据分析', '自动化与AI', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fyaic/Understory-Obsidian-Plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?understory)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fyaic/Understory-Obsidian-Plugin/master/README.md)

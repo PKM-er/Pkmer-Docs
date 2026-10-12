@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Daily Note Pinner
 > - 插件作者：LukeMT
 > - 插件说明：将当天的日常笔记固定在顶部。取消固定所有过去和未来日期的日常笔记。
-> - 插件分类：[' 任务管理 ', ' 日历与时间 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '日历与时间', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lukemt/obsidian-daily-note-pinner)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?daily-note-pinner)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lukemt/obsidian-daily-note-pinner/main/README.md)

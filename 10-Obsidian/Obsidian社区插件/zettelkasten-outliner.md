@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Zettelkasten Outliner
 > - 插件作者：Tyler Suzuki Nelson
 > - 插件说明：为您的 Zettelkasten 提供一个列表表示。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', 'zotero', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', 'zotero', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tylersuzukinelson/zettelkasten-outliner)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zettelkasten-outliner)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tylersuzukinelson/zettelkasten-outliner/main/README.md)

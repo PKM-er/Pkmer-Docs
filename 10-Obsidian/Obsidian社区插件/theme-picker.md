@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Theme Picker
 > - 插件作者：kenset
 > - 插件说明：快速预览和选择已安装的主题
-> - 插件分类：[' 样式与美化 ', ' 界面优化 ', ' 主题选择 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '界面优化', '主题选择', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kenset/obsidian-theme-picker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?theme-picker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kenset/obsidian-theme-picker/next/README.md)

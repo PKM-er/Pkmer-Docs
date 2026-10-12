@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：GTD No Next Step
 > - 插件作者：Tobias Davis
 > - 插件说明：为没有定义下一步的“项目”文件添加一个“完成事项”徽章。
-> - 插件分类：[' 任务管理 ', ' 效率工具 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '效率工具', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/saibotsivad/obsidian-gtd-no-next-step)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gtd-no-next-step)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/saibotsivad/obsidian-gtd-no-next-step/main/README.md)

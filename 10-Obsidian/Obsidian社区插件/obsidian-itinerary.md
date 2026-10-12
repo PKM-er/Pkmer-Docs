@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Itinerary
 > - 插件作者：Adam Coddington
 > - 插件说明：通过从您的笔记中渲染日历，可以更轻松地规划您的旅行或活动。
-> - 插件分类：[' 日历与时间 ', ' 数据处理 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '数据处理', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/coddingtonbear/obsidian-itinerary)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-itinerary)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/coddingtonbear/obsidian-itinerary/master/README.md)

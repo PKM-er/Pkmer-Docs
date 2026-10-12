@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Chord Sheets
 > - 插件作者：Marcel Schaeben
 > - 插件说明：在您的保险库中使用和弦谱（和弦在歌词上方）：和弦图表、移调、自动滚动等。在实时预览和阅读模式下工作。
-> - 插件分类：[' 编辑工具 ', ' 链接 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '链接', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/olvidalo/obsidian-chord-sheets)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chord-sheets)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/olvidalo/obsidian-chord-sheets/master/README.md)

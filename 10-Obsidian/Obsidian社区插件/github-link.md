@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：GitHub Link
 > - 插件作者：Nathonius
 > - 插件说明：Enrich your notes with issue and pull request content from GitHub.
-> - 插件分类：[' 表格 ', ' 第三方工具集成 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '第三方工具集成', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nathonius/obsidian-github-link)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?github-link)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nathonius/obsidian-github-link/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Librarian
 > - 插件作者：lastratalive
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。它能在你的仓库里进行书籍追踪。就跟Goodreads差不多，但它是用于你的笔记的。
-> - 插件分类：['学习与教育', '数据处理', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '数据处理', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lastratalive/Librarian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?librarian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lastratalive/Librarian/master/README.md)

@@ -20,7 +20,7 @@ modified: 20230914142027
 > - 插件名称：TagMany
 > - 插件作者：Joshua Martius
 > - 插件说明：此插件允许您一次向文件夹中的多个笔记（可选择包括子文件夹）添加相同的标签。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件', 'readme']
 > - 项目地址：[点我访问](https://github.com/joshua-martius/tagmany)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-many)
 

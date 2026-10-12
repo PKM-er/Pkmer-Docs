@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Writing Goals
 > - 插件作者：James Lynch
 > - 插件说明：为您的笔记和文件夹设定动态写作目标。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lynchjames/obsidian-writing-goals)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?writing-goals)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lynchjames/obsidian-writing-goals/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Habit Tracker
 > - 插件作者：David Moeller
 > - 插件说明：创建了一个简单的月历视图，用于可视化您的 Obsidian 使用记录。
-> - 插件分类：[' 样式与美化 ', ' 日历与时间 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '日历与时间', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Narsail/habit-tracker-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?habit-tracker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Narsail/habit-tracker-obsidian/master/README.md)

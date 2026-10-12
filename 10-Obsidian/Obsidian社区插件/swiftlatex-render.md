@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：SwiftLaTeX Render
 > - 插件作者：gboyd068
 > - 插件说明：在代码块中呈现 LaTeX 为 PDF，无需单独安装 LaTeX。
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gboyd068/obsidian-swiftlatex-render)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?swiftlatex-render)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gboyd068/obsidian-swiftlatex-render/master/README.md)

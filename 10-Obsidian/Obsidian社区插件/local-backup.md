@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Local Backup
 > - 插件作者：GC Chen
 > - 插件说明：Obsidian 启动时自动创建保险库的备份。
-> - 插件分类：[' 备份 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['备份', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cgcel/obsidian-local-backup)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?local-backup)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cgcel/obsidian-local-backup/master/README.md)

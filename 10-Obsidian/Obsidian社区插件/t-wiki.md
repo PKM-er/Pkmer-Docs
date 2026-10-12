@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：T-Wiki
 > - 插件作者：T00
 > - 插件说明：把源文档转化成一个结构化、可追溯、由大语言模型驱动的维基知识库。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['数据处理', '自动化与AI', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['数据处理', '自动化与AI', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/operationt00/T-wiki)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?t-wiki)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/operationt00/T-wiki/master/README.md)

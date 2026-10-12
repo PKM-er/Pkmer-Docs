@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Radar
 > - 插件作者：lfcipriani
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核哦。你可以在雷达图上直观呈现你的笔记和想法。按主题对它们进行分组，根据离中心的距离确定优先级，这样在同时处理多个领域的事情时，也能保持专注啦。
-> - 插件分类：['图表与可视化', '效率工具', '图谱', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '效率工具', '图谱', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lfcipriani/obsidian-radar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?radar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lfcipriani/obsidian-radar/master/README.md)

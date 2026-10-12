@@ -20,7 +20,7 @@ modified: 20240810005534
 > - 插件名称：Remember File State
 > - 插件作者：Ludovic Chabant
 > - 插件说明：记住每个笔记的视图状态
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ludovicchabant/obsidian-remember-file-state)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-remember-file-state)
 

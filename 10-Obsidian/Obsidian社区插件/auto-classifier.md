@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Auto Classifier
 > - 插件作者：Hyeonseo Nam
 > - 插件说明：使用 ChatGPT API 自动对您的笔记进行标签分类。它会分析您的笔记（可以是标题、前言、内容或选定区域），并在您设置的位置自动插入标签。
-> - 插件分类：[' 数据处理 ', ' 自动化与 AI', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '自动化与AI', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HyeonseoNam/auto-classifier)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-classifier)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HyeonseoNam/auto-classifier/main/README.md)

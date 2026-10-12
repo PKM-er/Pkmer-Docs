@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Agent Review
 > - 插件作者：皎琇
 > - 插件说明：结构化高亮、注释、空间笔记、可视化关联，以及人类与智能体协作。——Obsidian官方人员尚未对该插件进行人工审核。
-> - 插件分类：['编辑工具', '图表与可视化', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '图表与可视化', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jiaoxiu20040903-crypto/Agent_Review)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?agent-review)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jiaoxiu20040903-crypto/Agent_Review/master/README.md)

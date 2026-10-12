@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File Cleaner Redux
 > - 插件作者：husjon
 > - 插件说明：帮助您清理保险库中的空文件和未使用的附件。
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 备份与恢复 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '备份与恢复', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/husjon/obsidian-file-cleaner-redux)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-cleaner-redux)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/husjon/obsidian-file-cleaner-redux/main/README.md)

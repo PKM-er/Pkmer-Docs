@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Daily Note
 > - 插件作者：Andrew McGivery
 > - 插件说明：在画布上添加一个每日笔记节点，它将始终显示今天的笔记。
-> - 插件分类：[' 日历与时间 ', ' 搜索与排序 ', ' 编辑工具 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '搜索与排序', '编辑工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/andrewmcgivery/obsidian-canvas-dailynote)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-dailynote)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/andrewmcgivery/obsidian-canvas-dailynote/main/README.md)

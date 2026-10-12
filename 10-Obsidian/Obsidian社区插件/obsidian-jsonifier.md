@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：JSONifier
 > - 插件作者：Kjell Connelly
 > - 插件说明：使用 JSON.stringify() 或 JSON.parse() 高亮文本，并复制到剪贴板。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/KjellConnelly/obsidian-jsonifier)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-jsonifier)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/KjellConnelly/obsidian-jsonifier/master/README.md)

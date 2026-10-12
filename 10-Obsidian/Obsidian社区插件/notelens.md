@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：NoteLens
 > - 插件作者：jotatito05
 > - 插件说明：Infinite whiteboard with pressure-sensitive stylus ink, smart tags, PDFs and interactive videos on the canvas. - This plugin has not been manually reviewed by Obsidian staff.
-> - 插件分类：['白板学术与科研', '图片与PDF', '多媒体', '编辑工具', 'obsidian插件']
+> - 插件分类：['白板', '图片与PDF', '多媒体', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/veloik/Plugin-Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?notelens)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/veloik/Plugin-Obsidian/master/README.md)

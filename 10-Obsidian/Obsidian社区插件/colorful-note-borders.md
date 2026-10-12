@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Colorful Note Borders
 > - 插件作者：rusi
 > - 插件说明：根据文件夹位置或前置元数据，为笔记添加可自定义的彩色边框，增强 Obsidian 中的视觉组织。
-> - 插件分类：[' 样式与美化 ', ' 笔记与日志 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '笔记与日志', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rusi/obsidian-colorful-note-borders)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?colorful-note-borders)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rusi/obsidian-colorful-note-borders/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Background Image
 > - 插件作者：shmolf
 > - 插件说明：这允许您将远程 URL 指定为背景图像，并进行一些设置以调整体验。
-> - 插件分类：[' 样式与美化 ', ' 图片与 PDF', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '图片与PDF', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/shmolf/obsidian-editor-background)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?background-image)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/shmolf/obsidian-editor-background/main/README.md)

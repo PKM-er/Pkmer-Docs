@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Update Time Updater
 > - 插件作者：MURATAGAWA Kei
 > - 插件说明：手动更新前置数据中的修改日期字段。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/muratagawa/update-time-updater)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?update-time-updater)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/muratagawa/update-time-updater/main/README.md)

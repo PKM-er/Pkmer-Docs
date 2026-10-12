@@ -20,7 +20,7 @@ Obsidian 的块样式，你可以自己定义各种增强块样式，比如警�
 > - 插件名称：Admonition
 > - 插件作者：Jeremy Valentine
 > - 插件说明：Obsidian 的块样式，你可以自己定义各种增强块样式，比如警告，笔记，提醒等
-> - 插件分类：[' 样式工具 ', ' 美化 ', ' 效率 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '自定义', '美化', '增强块样式']
 > - 插件项目地址：[点我访问](https://github.com/valentine195/obsidian-admonition)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-admonition)
 

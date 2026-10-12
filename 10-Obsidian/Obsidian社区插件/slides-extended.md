@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Slides Extended
 > - 插件作者：Erin Schnabel (original: MSzturc)
 > - 插件说明：创建基于 markdown 的 reveal.js 演示文稿。Advanced Slides 的分支。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 图表 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '图表', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ebullient/obsidian-slides-extended)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?slides-extended)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ebullient/obsidian-slides-extended/main/README.md)

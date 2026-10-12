@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Augmented Canvas
 > - 插件作者：Léopold Szabatura
 > - 插件说明：Augment Canvas with AI features.
-> - 插件分类：[' 编辑工具 ', 'AI', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', 'AI', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MetaCorp/obsidian-augmented-canvas)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?augmented-canvas)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MetaCorp/obsidian-augmented-canvas/main/README.md)

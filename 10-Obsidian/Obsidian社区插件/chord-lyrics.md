@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Chord Lyrics
 > - 插件作者：nevernotmove
 > - 插件说明：在歌词上显示和弦名称。支持自动换行、节标题和自动检测。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nevernotmove/obsidian-chordlyrics)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chord-lyrics)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nevernotmove/obsidian-chordlyrics/main/README.md)

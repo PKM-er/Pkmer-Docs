@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：BetterNoteBooks
 > - 插件作者：Maik Schultheiß
 > - 插件说明：Create multi-page digital notebooks in your vault with smooth handwriting, geometric shapes, and palm rejection. - This plugin has not been manually reviewed by Obsidian staff.
-> - 插件分类：['编辑工具', '白板学术与科研', '移动端优化', 'obsidian插件']
+> - 插件分类：['编辑工具', '学术与科研', '移动端优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/maniacmaik99/BetterNoteBooks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?betternotebooks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/maniacmaik99/BetterNoteBooks/master/README.md)

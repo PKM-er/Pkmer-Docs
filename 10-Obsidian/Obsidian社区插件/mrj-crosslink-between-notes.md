@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Add links to current note
 > - 插件作者：MrJackphil
 > - 插件说明：这个插件增加了一个命令，允许在所选笔记的底部添加一个与当前笔记的链接
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mrjackphil/obsidian-crosslink-between-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mrj-crosslink-between-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mrjackphil/obsidian-crosslink-between-notes/master/README.md)

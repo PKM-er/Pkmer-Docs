@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：moviegrabber
 > - 插件作者：Leon Holtmeier
 > - 插件说明：从公共 API 中获取电影数据，并将其转换为可以与 dataview 和属性一起使用的注释。
-> - 插件分类：[' 第三方工具集成 ', ' 数据处理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据处理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Superschnizel/Obsidian-Moviegrabber)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?moviegrabber)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Superschnizel/Obsidian-Moviegrabber/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Code block from selection
 > - 插件作者：Dmitry Savosh
 > - 插件说明：为所选文本添加代码块。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dy-sh/obsidian-code-block-from-selection)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?code-block-from-selection)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dy-sh/obsidian-code-block-from-selection/master/README.md)

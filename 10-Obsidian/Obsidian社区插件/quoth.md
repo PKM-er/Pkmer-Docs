@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Quoth
 > - 插件作者：Eric Rykwalder
 > - 插件说明：更灵活的嵌入。嵌入精确的选择，内联嵌入，可选择性地包括作者和标题。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/erykwalder/quoth)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quoth)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/erykwalder/quoth/main/README.md)

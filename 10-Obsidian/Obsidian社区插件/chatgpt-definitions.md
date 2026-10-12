@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ChatGPT Definition
 > - 插件作者：julix14
 > - 插件说明：让你的 AI 助手 ChatGPT 为你定义单词和概念。
-> - 插件分类：[' 编辑工具 ', 'AI', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', 'AI', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/julix14/chatGPT-Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chatgpt-definitions)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/julix14/chatGPT-Obsidian/main/README.md)

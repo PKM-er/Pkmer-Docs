@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Edit MDX
 > - 插件作者：Tim Peters
 > - 插件说明：允许用户编辑和创建 .mdx 文件。
-> - 插件分类：[' 编辑工具 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/timppeters/obsidian-edit-mdx)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?edit-mdx)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/timppeters/obsidian-edit-mdx/master/README.md)

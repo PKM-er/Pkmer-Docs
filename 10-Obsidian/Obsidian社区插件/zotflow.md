@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ZotFlow
 > - 插件作者：Xianpi Duan
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核哦。让你的研究保持流畅！#Zotero #PDF #批注
-> - 插件分类：['第三方工具集成', '图片与PDF', '学习与教育', 'zotero', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '图片与PDF', '学习与教育', 'zotero', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/duanxianpi/zotflow)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zotflow)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/duanxianpi/zotflow/master/README.md)

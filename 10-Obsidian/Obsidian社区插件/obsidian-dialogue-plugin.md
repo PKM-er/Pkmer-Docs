@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dialogue
 > - 插件作者：Jakub Holub
 > - 插件说明：利用特定的语法，在 Markdown 中创建对话样式的笔记。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/holubj/obsidian-dialogue-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dialogue-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/holubj/obsidian-dialogue-plugin/master/README.md)

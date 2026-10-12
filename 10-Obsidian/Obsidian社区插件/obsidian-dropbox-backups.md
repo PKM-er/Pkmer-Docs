@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Aut-O-Backups
 > - 插件作者：ryanpcmcquen
 > - 插件说明：自动备份您整个保险库到 Dropbox。
-> - 插件分类：[' 备份与恢复 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['备份与恢复', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ryanpcmcquen/obsidian-dropbox-backups)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dropbox-backups)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanpcmcquen/obsidian-dropbox-backups/master/README.md)

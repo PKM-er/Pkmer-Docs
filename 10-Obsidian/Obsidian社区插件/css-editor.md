@@ -24,7 +24,7 @@ CSS Editor 插件就是可以实现在 Obsidian 中把 CSS 当作笔记来编辑
 > - 插件名称：CSS Editor
 > - 插件作者：Zachatoo
 > - 插件说明：在 Obsidian 中像笔记一样编辑 CSS 代码片段文件。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Zachatoo/obsidian-css-editor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?css-editor)
 

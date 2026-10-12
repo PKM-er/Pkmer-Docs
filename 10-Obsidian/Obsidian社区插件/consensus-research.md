@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Parallax
 > - 插件作者：Max
 > - 插件说明：研究思路成型之地：先探索再搜索，通过多种理论视角深入研究问题，权衡OpenAlex和语义学者（Semantic Scholar）的证据，同时做好方法记录。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['学习与教育', '白板学术与科研', '第三方工具集成', '效率工具', 'obsidian插件']
+> - 插件分类：['学习与教育', '学术与科研', '第三方工具集成', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/maxonamission/obsidian-parallax)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?consensus-research)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/maxonamission/obsidian-parallax/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Rollover Daily Todos
 > - 插件作者：Matt Sessions
 > - 插件说明：以循环滚动的方式，将存在不完整的待办事项的笔记，展现在你面前。
-> - 插件分类：[' 任务管理 ', ' 编辑工具 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '编辑工具', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/shichongrui/obsidian-rollover-daily-todos)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-rollover-daily-todos)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lumoe/obsidian-rollover-daily-todos/master/README.md)

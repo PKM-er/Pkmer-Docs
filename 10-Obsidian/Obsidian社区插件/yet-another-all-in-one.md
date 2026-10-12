@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Yet Another All-In-One
 > - 插件作者：cmdaeo
 > - 插件说明：一款集 Git 同步等多种功能于一体的插件——毕竟一个插件哪能满足需求呢。——此插件尚未经过 Obsidian 官方人员的人工审核。
-> - 插件分类：['第三方工具集成，备份与恢复，效率工具，自定义命令', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '备份与恢复', '效率工具', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cmdaeo/obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?yet-another-all-in-one)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cmdaeo/obsidian-plugin/master/README.md)

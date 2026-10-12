@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Daily notes opener
 > - 插件作者：Reorx
 > - 插件说明：轻松在新窗格中打开日记和周期性记录；自定义周期性记录的背景；快速添加新行到日记中。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/reorx/obsidian-daily-notes-opener)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-daily-notes-opener)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/reorx/obsidian-daily-notes-opener/master/README.md)

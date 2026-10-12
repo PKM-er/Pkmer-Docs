@@ -24,7 +24,7 @@ modified: 20230911174232
 > - 插件名称：Tag Wrangler
 > - 插件作者：PJ Eby
 > - 插件说明：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到。
-> - 插件分类：[' 文件重构 ', ' 编辑工具 ', ' 标签管理 ', ' 标签 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '文件管理']
 > - 插件项目地址：[点我跳转](https://github.com/pjeby/tag-wrangler)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-wrangler)
 

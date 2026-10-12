@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：List Modified
 > - 插件作者：Francis Kafieh
 > - 插件说明：一个简单的黑曜石插件，它将符合某些标准的所有修改文件链接到每日笔记中。
-> - 插件分类：[' 文件管理 ', ' 笔记与日志 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '笔记与日志', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/franciskafieh/obsidian-list-modified)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-list-modified)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/franciskafieh/obsidian-list-modified/master/README.md)

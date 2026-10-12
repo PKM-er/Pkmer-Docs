@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Media Extended BiliBili Plugin
 > - 插件作者：AidenLx
 > - 插件说明：为 Media Extended 插件增加高级 bilibili 视频支持。笔记嵌入视频片段，笔记嵌入时间戳，支持高清分辨率/倍速/循环/自动播放
-> - 插件分类：[' 媒体 ', ' 第三方工具集成 ', ' 搜索 ', 'obsidian 插件 ']
+> - 插件分类：['媒体', '第三方工具集成', '搜索', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aidenlx/mx-bili-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mx-bili-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aidenlx/mx-bili-plugin/master/README.md)

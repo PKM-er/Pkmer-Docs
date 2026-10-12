@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Custom Attachment Location
 > - 插件作者：RainCat1998
 > - 插件说明：使用变量（$filename，$data 等）自定义附件位置，就像 Typora 一样。
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/RainCat1998/obsidian-custom-attachment-location)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-custom-attachment-location)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/RainCat1998/obsidian-custom-attachment-location/master/README.md)

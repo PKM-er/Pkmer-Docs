@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Booksidian
 > - 插件作者：Micha Brugger
 > - 插件说明：Booksidian 将您的 Goodreads 数据 放到 Obsidian 仓库中。可以从 Goodreads RSS 提要上可用的参数列表中选择（+ 一些可以从中推断出的额外内容，如副标题或系列），从而设置书注释的正文和标题。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MichaBrugger/booksidian_plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?booksidian-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MichaBrugger/booksidian_plugin/master/README.md)

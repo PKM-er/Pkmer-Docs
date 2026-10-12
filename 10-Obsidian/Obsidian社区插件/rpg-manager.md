@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：RPG Manager
 > - 插件作者：Carlo Nicora
 > - 插件说明：桌面角色扮演游戏活动管理器。
-> - 插件分类：[' 任务管理 ', ' 数据处理 ', ' 游戏 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '数据处理', '游戏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/carlonicora/obsidian-rpg-manager)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?rpg-manager)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/carlonicora/obsidian-rpg-manager/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：External Link Opener
 > - 插件作者：zorazrr
 > - 插件说明：在 Obsidian 中使用模态或标签打开外部链接。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zorazrr/obsidian-link-opener)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-link-opener)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zorazrr/obsidian-link-opener/master/README.md)

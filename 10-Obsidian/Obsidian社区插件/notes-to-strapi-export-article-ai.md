@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Strapi Exporter AI
 > - 插件作者：Cinquin Andy
 > - 插件说明：Effortlessly export your notes to Strapi CMS with AI-powered handling and SEO optimization.
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?notes-to-strapi-export-article-ai)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/CinquinAndy/notes-to-strapi-export-article-ai/main/README.md)

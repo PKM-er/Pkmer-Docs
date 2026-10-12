@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PDF Scholia Scribe
 > - 插件作者：michellegdyason
 > - 插件说明：专为Obsidian打造的、聚焦于引用的PDF注释与笔记关联插件。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['图片与PDF', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['图片与PDF', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/michellegdyason/pdf-scholia-scribe)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pdf-scholia-scribe)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/michellegdyason/pdf-scholia-scribe/master/README.md)

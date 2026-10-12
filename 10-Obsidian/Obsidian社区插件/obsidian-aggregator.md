@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Aggregator
 > - 插件作者：SErAphLi
 > - 插件说明：这个插件可以帮助你从文件中收集信息，并在文件中做出总结。
-> - 插件分类：[' 文件管理 ', ' 搜索与排序 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '搜索与排序', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Seraphli/obsidian-aggregator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-aggregator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Seraphli/obsidian-aggregator/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Better Canvas Lock
 > - 插件作者：Mara-Li
 > - 插件说明：增强 Canvas 中的只读模式，完全锁定滚动、缩放和拖放功能！
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lisandra-dev/obsidian-better-canvas-lock)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-canvas-lock)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mara-Li/obsidian-better-canvas-lock/master/README.md)

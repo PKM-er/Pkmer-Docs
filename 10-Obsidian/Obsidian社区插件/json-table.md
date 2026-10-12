@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：JSON table
 > - 插件作者：Dario Baumberger
 > - 插件说明：简单地在 JSON 和表格之间切换。在你的笔记中，从 JSON 字符串或返回 JSON 的 URL 生成一个表格。从你的笔记中生成 JSON 表格。
-> - 插件分类：[' 表格 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dario-baumberger/obsidian-json-table)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?json-table)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dario-baumberger/obsidian-json-table/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Adamantine Pick
 > - 插件作者：Urist McMiner
 > - 插件说明：Obsidian 的可嵌入式 Pikchr 图表渲染器插件
-> - 插件分类：[' 图表与可视化 ', ' 第三方工具集成 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['图表与可视化', '第三方工具集成', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/notlibrary/obsidian-adamantine-pick)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?adamantine-pick)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/notlibrary/obsidian-adamantine-pick/master/README.md)

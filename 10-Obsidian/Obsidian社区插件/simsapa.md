@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Simsapa
 > - 插件作者：gambhiro
 > - 插件说明：Pāli 字典和经文搜索使用 Simsapa Dhamma Reader。打开侧边栏或双击查找 Pāli 字典中的单词，或在经文中搜索。
-> - 插件分类：[' 搜索与排序 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/simsapa/simsapa-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?simsapa)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/simsapa/simsapa-obsidian/main/README.md)

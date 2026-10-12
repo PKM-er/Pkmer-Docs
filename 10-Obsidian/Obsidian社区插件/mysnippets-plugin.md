@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MySnippets
 > - 插件作者：Chetachi
 > - 插件说明：MySnippets 是一个插件，它添加了一个状态栏菜单，允许用户快速开启和关闭他们的片段🖌。
-> - 插件分类：[' 样式与美化 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chetachiezikeuzor/MySnippets-Plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mysnippets-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chetachiezikeuzor/MySnippets-Plugin/master/README.md)

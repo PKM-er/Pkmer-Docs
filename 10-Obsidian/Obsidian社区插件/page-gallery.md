@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Page Gallery
 > - 插件作者：Nathan Clark
 > - 插件说明：根据所选页面内容创建可嵌入的图库。
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', ' 图表与可视化 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tokenshift/obsidian-page-gallery)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?page-gallery)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tokenshift/obsidian-page-gallery/main/README.md)

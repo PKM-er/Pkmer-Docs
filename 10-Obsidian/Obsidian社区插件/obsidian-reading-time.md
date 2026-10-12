@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Reading Time
 > - 插件作者：avr
 > - 插件说明：将当前笔记的阅读时间添加到 Obsidian 的状态栏
-> - 插件分类：[' 界面优化 ', ' 状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/avr/obsidian-reading-time)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-reading-time)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/avr/obsidian-reading-time/main/README.md)

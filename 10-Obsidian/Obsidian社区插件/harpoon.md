@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Harpoon
 > - 插件作者：mask(developermask)
 > - 插件说明：使用快捷方式来管理和导航 Obsidian 中的前四个常用文件。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rodrez/obsidian-harpoon)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?harpoon)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rodrez/obsidian-harpoon/main/README.md)

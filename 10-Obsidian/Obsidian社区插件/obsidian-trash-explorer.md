@@ -25,7 +25,7 @@ Trash Explorer 就是为了可视化这个操作而诞生的，你可以直接�
 > - 插件版本：1.2.0
 > - 插件作者：Per Mortensen
 > - 插件描述：让你可以管理 Obsidian 的 .trash 文件夹（也叫软件回收站），从中恢复和删除文件
-> - 插件分类：[' 文件管理 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '回收站', '可视化编辑']
 > - 插件项目地址：[点我访问](https://github.com/proog/obsidian-trash-explorer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-trash-explorer)
 

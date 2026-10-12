@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Workbooks
 > - 插件作者：Gabriele Cannata
 > - 插件说明：在您的笔记中使用电子表格
-> - 插件分类：[' 表格 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Canna71/obsidian-sheets)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?workbooks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Canna71/obsidian-sheets/main/README.md)

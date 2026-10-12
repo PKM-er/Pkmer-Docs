@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：User Plugins
 > - 插件作者：mnowotnik
 > - 插件说明：用 JS 文件或片段来快速编写一个插件。注意此插件仅适用高级用户，在笔记中插入你不熟悉的 JS 会引发很多问题。
-> - 插件分类：[' 编程与脚本 ', ' 第三方工具集成 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编程与脚本', '第三方工具集成', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mnowotnik/obsidian-user-plugins)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-user-plugins)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mnowotnik/obsidian-user-plugins/master/README.md)

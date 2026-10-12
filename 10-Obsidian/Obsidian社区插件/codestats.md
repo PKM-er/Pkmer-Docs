@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Code::Stats
 > - 插件作者：MiskaMyasa
 > - 插件说明：Code::Stats 插件允许您跟踪您在 Obsidian 编辑器中编写 Markdown 的进度，并为此获得经验值。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Miskamyasa/obsidian-codestats)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?codestats)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Miskamyasa/obsidian-codestats/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：JavaScript Init
 > - 插件作者：ryanpcmcquen
 > - 插件说明：在 Obsidian 加载时或任何其他时间运行 JavaScript。
-> - 插件分类：[' 编程与脚本 ', ' 自定义命令 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['编程与脚本', '自定义命令', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ryanpcmcquen/obsidian-javascript-init)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-javascript-init)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanpcmcquen/obsidian-javascript-init/master/README.md)

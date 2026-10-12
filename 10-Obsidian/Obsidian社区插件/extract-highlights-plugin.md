@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Extract Highlights
 > - 插件作者：Alexis Rondeau
 > - 插件说明：允许把笔记中的所有高亮语法的（使用==）的重点内容，通过快捷键，一次性放到到剪贴板中。这些内容在 Obsidian 中使用，会自动生成内链。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/akaalias/extract-highlights-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?extract-highlights-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/akaalias/extract-highlights-plugin/master/README.md)

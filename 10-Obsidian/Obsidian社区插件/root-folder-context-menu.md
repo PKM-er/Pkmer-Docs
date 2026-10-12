@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Root Folder Context Menu
 > - 插件作者：mnaoumov
 > - 插件说明：启用保险库根文件夹的上下文菜单
-> - 插件分类：[' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mnaoumov/obsidian-root-folder-context-menu)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?root-folder-context-menu)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mnaoumov/obsidian-root-folder-context-menu/master/README.md)

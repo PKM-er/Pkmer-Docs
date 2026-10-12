@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Chat View
 > - 插件作者：Aditya Majethia
 > - 插件说明：聊天视图让您可以快速轻松地在 Markdown 文件中创建优雅的聊天 UI。
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/adifyr/obsidian-chat-view)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-chat-view)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/adifyr/obsidian-chat-view/master/README.md)

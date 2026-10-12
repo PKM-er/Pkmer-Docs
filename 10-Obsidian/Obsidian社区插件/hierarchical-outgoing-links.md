@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hierarchical Outgoing Links
 > - 插件作者：Jason Motylinski
 > - 插件说明：在树形结构中显示外部链接。
-> - 插件分类：[' 链接 ', ' 树形结构 ', 'obsidian 插件 ']
+> - 插件分类：['链接', '树形结构', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jasonmotylinski/hierarchical-outgoing-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hierarchical-outgoing-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jasonmotylinski/hierarchical-outgoing-links/master/README.md)

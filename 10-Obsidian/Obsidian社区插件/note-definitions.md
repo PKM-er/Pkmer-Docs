@@ -16,7 +16,7 @@ modified: 20240823150715
 > - 插件名称：Note Definitions
 > - 插件作者：Dominic Let
 > - 插件说明：打造笔记的个人词典
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dominiclet/obsidian-note-definitions)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-definitions)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dominiclet/obsidian-note-definitions/master/README.md)

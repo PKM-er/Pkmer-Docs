@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Auto LLM Wiki
 > - 插件作者：youzhixiaomutou
 > - 插件说明：可以借助人工智能辅助的内容导入、查询、检查以及文件更改预览功能，维护一个Karpathy风格的大语言模型（LLM）维基知识库。
-> - 插件分类：['自动化与AI', '效率工具', '白板学术与科研', '数据处理', 'obsidian插件']
+> - 插件分类：['自动化与AI', '效率工具', '学术与科研', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/youzhixiaomutou/auto-llm-wiki)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-llm-wiki)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/youzhixiaomutou/auto-llm-wiki/master/README.md)

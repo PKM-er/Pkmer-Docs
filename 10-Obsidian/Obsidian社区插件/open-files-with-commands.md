@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Open files with commands
 > - 插件作者：Lost Paul
 > - 插件说明：创建只能一次打开一个文件的命令，并且可以与指挥官插件一起使用。
-> - 插件分类：[' 文件管理 ', ' 自定义命令 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '自定义命令', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/LostPaul/ob-open-files-with-commands)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-files-with-commands)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/LostPaul/ob-open-files-with-commands/master/README.md)

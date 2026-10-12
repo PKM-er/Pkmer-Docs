@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Shortcut Launcher
 > - 插件作者：MacStories
 > - 插件说明：在 Obsidian 中使用自定义命令触发 Apple Shortcuts 应用中的快捷键。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/macstories/obsidian-shortcut-launcher)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-shortcut-launcher)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/macstories/obsidian-shortcut-launcher/main/README.md)

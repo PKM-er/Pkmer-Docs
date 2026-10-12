@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File indicators
 > - 插件作者：Jakob
 > - 插件说明：将自定义指标添加到文件资源管理器中。
-> - 插件分类：[' 文件管理 ', ' 界面优化 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '界面优化', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JakobMick/obsidian-file-indicators)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-indicators)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JakobMick/obsidian-file-indicators/main/README.md)

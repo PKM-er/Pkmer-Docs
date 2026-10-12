@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Typing
 > - 插件作者：Nikita Konodyuk
 > - 插件说明：可定制的笔记类型
-> - 插件分类：[' 编辑工具 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/konodyuk/obsidian-typing)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?typing)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/konodyuk/obsidian-typing/master/README.md)

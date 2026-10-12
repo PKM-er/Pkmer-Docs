@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Send Tasks to OmniFocus
 > - 插件作者：Henry Gustafson
 > - 插件说明：从当前笔记中提取任务并在 OmniFocus 中创建它们。
-> - 插件分类：[' 任务管理 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lizard-heart/obsidian-to-omnifocus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tasks-to-omnifocus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lizard-heart/obsidian-to-omnifocus/main/README.md)

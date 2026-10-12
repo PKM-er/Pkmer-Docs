@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ghost Fade Focus
 > - 插件作者：Sami Korpela
 > - 插件说明：专注于当前行，其他的像鬼魂一样消失了！
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/skipadu/obsidian-ghost-fade-focus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ghost-fade-focus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/skipadu/obsidian-ghost-fade-focus/main/README.md)

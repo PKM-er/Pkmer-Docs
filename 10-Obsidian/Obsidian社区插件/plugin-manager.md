@@ -16,7 +16,7 @@ modified: 20240902175304
 > - 插件名称：Plugin Manager
 > - 插件作者：ohm-en
 > - 插件说明：扩展 Obsidian 的插件管理功能。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ohm-en/obsidian-plugin-manager)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?plugin-manager)
 

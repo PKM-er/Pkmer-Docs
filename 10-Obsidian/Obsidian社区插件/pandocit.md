@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PandoCit
 > - 插件作者：l'Atelier
 > - 插件说明：它支持Pandoc引用、Zotero文献库（API），还能在Obsidian中阅读PDF/EPUB文件并做批注。
-> - 插件分类：['第三方工具集成', 'zotero', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', 'zotero', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/atelier-recherche/pandocit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pandocit)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/atelier-recherche/pandocit/master/README.md)

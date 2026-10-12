@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Export to Rodin
 > - 插件作者：peacewalkert
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核哦。把你的仓库发给罗丹，就能生成你的思维指纹啦——快来探寻你独特的思考方式吧！
-> - 插件分类：['第三方工具集成', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/peacewalkert/obsidian-rodin-export)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?rodin-export)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/peacewalkert/obsidian-rodin-export/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Task Collector (TC)
 > - 插件作者：ebullient
 > - 插件说明：使用热键和上下文菜单更改任务状态并收集文档中的任务。
-> - 插件分类：[' 任务管理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ebullient/obsidian-task-collector)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-task-collector)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ebullient/obsidian-task-collector/main/README.md)

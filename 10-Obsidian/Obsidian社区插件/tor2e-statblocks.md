@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：The One Ring 2E Statblocks
 > - 插件作者：Michael Hansen
 > - 插件说明：为《指环王 2E 角色扮演游戏》渲染 NPC 和对手状态块。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 游戏 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '游戏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/modality/obsidian-the-one-ring-2e-statblocks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tor2e-statblocks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/modality/obsidian-the-one-ring-2e-statblocks/main/README.md)

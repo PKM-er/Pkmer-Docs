@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Semantic Search
 > - 插件作者：bbawj
 > - 插件说明：使用 OpenAI 的文本嵌入进行文件的语义搜索。
-> - 插件分类：[' 搜索与排序 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/bbawj/obsidian-semantic-search)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bbawj-semantic-search)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/bbawj/obsidian-semantic-search/main/README.md)

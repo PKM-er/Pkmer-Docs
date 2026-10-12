@@ -22,7 +22,7 @@ Obsidian 原有的标题栏导航条只能提供两种简单的功能，快速�
 > - 插件名称：Quick Explorer
 > - 插件作者：PJ Eby
 > - 插件说明：在应用标题栏和笔记标题栏增加面包屑导航功能，提供了笔记和目录快速切换的能力
-> - 插件分类：[' 界面相关 ', ' 文件管理 ', ' 导航工具 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '面包屑导航']
 > - 插件项目地址：[点我跳转](https://github.com/pjeby/quick-explorer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quick-explorer)
 

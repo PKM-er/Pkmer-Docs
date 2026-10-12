@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Micro templates
 > - 插件作者：epszaw
 > - 插件说明：由 JavaScript 函数驱动的灵活嵌入式微模板
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/epszaw/obsidian-micro-templates)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?micro-templates)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/epszaw/obsidian-micro-templates/master/README.md)

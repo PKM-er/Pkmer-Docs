@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Scales and Chords
 > - 插件作者：egradman
 > - 插件说明：在你的 Obsidian 保险库中捕获音乐制表符号。和弦变成可点击的链接到模态图像（由 scales-chords.com 提供）。
-> - 插件分类：[' 表格 ', ' 样式与美化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '样式与美化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/egradman/scales-chords)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?scales-chords)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/egradman/scales-chords/master/README.md)

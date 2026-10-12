@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Neighbouring Files
 > - 插件作者：Fabian Untermoser
 > - 插件说明：在当前目录中导航到下一个和上一个文件
-> - 插件分类：[' 导航与状态栏 ', ' 快捷键 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['导航与状态栏', '快捷键', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?neighbouring-files)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/FabianUntermoser/obsidian-neighbouring-files-plugin/master/README.md)

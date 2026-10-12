@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Fantasy Content Generator
 > - 插件作者：Gregory-Jagermeister
 > - 插件说明：用于生成基于种族的幻想内容，例如 战利品、酒馆、饮品和角色的名称等。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?fantasy-content-generator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Gregory-Jagermeister/Fantasy-Content-Generator/master/README.md)

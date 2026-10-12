@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Map View
 > - 插件作者：esm
 > - 插件说明：一个可交互的地图视图来记录您的笔记。
-> - 插件分类：[' 地图与位置 ', ' 笔记与日志 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['地图与位置', '笔记与日志', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/esm7/obsidian-map-view)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-map-view)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/esm7/obsidian-map-view/master/README.md)

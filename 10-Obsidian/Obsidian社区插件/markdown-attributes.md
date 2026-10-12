@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markdown Attributes
 > - 插件作者：Jeremy Valentine
 > - 插件说明：在 Obsidian.md 中为元素添加 markdown 属性
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/javalent/markdown-attributes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-attributes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/markdown-attributes/main/README.md)

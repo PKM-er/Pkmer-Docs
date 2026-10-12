@@ -28,7 +28,7 @@ modified: 20250317224829
 > - 插件名称：Manual Sorting
 > - 插件作者：Kh4f
 > - 插件说明：拖放文件排序。
-> - 插件分类：['文件管理', '效率工具']
+> - 插件分类：['排序', '文件管理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Kh4f/obsidian-manual-sorting)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?manual-sorting)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Kh4f/obsidian-manual-sorting/master/README.md)

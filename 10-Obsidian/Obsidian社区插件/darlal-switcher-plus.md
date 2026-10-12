@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Quick Switcher++
 > - 插件作者：darlal
 > - 插件说明：使用 Quick Switcher++ 可以让你更快在标题之间，Obsidian 的各个模块之间，工作区模式之间，进行快速切换。
-> - 插件分类：[' 搜索与排序 ', ' 导航与状态栏 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '导航与状态栏', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/darlal/obsidian-switcher-plus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?darlal-switcher-plus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/darlal/obsidian-switcher-plus/master/README.md)

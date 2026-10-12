@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Chesser
 > - 插件作者：SilentVoid
 > - 插件说明：支持在 OB 中编辑国际象棋棋谱，提供棋盘的查看器/编辑器
-> - 插件分类：[' 第三方工具集成 ', ' 游戏 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '游戏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/SilentVoid13/Chesser)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chesser-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/SilentVoid13/Chesser/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PaperCut
 > - 插件作者：darakah
 > - 插件说明：以最简单的方式表达一个想法……否则。
-> - 插件分类：[' 编辑工具 ', ' 效率工具 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '效率工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Darakah/obsidian-paper-cut)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-paper-cut)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Darakah/obsidian-paper-cut/main/README.md)

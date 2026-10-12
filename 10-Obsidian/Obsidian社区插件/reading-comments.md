@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Reading comments
 > - 插件作者：BumbrT
 > - 插件说明：插件允许您在 Obsidian 阅读书籍或文章时创建内联评论。评论可以通过标签进行分层分组。
-> - 插件分类：[' 编辑工具 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/BumbrT/obsidian-reading-comments)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?reading-comments)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/BumbrT/obsidian-reading-comments/master/README.md)

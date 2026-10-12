@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Daily ICalendar
 > - 插件作者：mmmykhailo
 > - 插件说明：查看日历事件在每日笔记中。
-> - 插件分类：[' 日历与时间 ', ' 第三方工具集成 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '第三方工具集成', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mmmykhailo/obsidian-daily-icalendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?daily-icalendar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mmmykhailo/obsidian-daily-icalendar/master/README.md)

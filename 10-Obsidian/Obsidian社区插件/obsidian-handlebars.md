@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Handlebars Template Plugin
 > - 插件作者：Sean Quinlan
 > - 插件说明：这是一个 Obsidian 插件，它为笔记添加了对 handlebars 模板块的支持。
-> - 插件分类：[' 模板与链接处理 ', ' 第三方工具集成 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '第三方工具集成', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sbquinlan/obsidian-handlebars)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-handlebars)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sbquinlan/obsidian-handlebars/master/README.md)

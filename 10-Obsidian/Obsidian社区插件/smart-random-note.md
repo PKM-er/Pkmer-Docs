@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Smart Random Note
 > - 插件作者：Eric Hall
 > - 插件说明：插件增强了核心插件笔记漫游的功能。让每日随机笔记，增添了三个新功能。从搜索中打开随机说明：从搜索结果列表中打开随机说明。从搜索中插入光标上的链接到随机笔记：插入一个链接，其中光标位于搜索结果列表中的随机笔记中。打开标记的随机笔记：打开具有选定标签的随机音符。打开随机笔记：行为与核心随机音符插件相似。
-> - 插件分类：[' 搜索 ', ' 第三方工具集成 ', ' 链接 ', 'obsidian 插件 ']
+> - 插件分类：['搜索', '第三方工具集成', '链接', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/erichalldev/obsidian-smart-random-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?smart-random-note)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/erichalldev/obsidian-smart-random-note/master/README.md)

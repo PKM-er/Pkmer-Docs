@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Password Protect
 > - 插件作者：Aspharmyx
 > - 插件说明：Password protect your notes.
-> - 插件分类：[' 安全 ', ' 文件管理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['安全', '文件管理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Aspharmyx/obsidian-password-protect)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?password-protect)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Aspharmyx/obsidian-password-protect/master/README.md)

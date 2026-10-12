@@ -20,7 +20,7 @@ modified: 20240108110138
 > - 插件名称：URL Namer
 > - 插件作者：zfei
 > - 插件说明：检索 HTML 原标题来命名原始 URL 链接。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zfei/obsidian-url-namer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?url-namer)
 

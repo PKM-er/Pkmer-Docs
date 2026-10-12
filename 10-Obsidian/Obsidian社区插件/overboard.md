@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Overboard
 > - 插件作者：alona-iaig
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核哦。你可以在笔记里嵌入来自overboard.studio的AI白板。能在上面画画，还能用AI根据文字生成图表，还能实时协作呢。
-> - 插件分类：['第三方工具集成', '图表与可视化', '自动化与AI', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '图表与可视化', '自动化与AI', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/alona-iaig/obsidian-overboard)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?overboard)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/alona-iaig/obsidian-overboard/master/README.md)

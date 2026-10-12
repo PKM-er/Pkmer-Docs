@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Mixa
 > - 插件作者：Mixa Team
 > - 插件说明：直接从 Obsidian 发布您的笔记和博客文章到 Mixa。
-> - 插件分类：[' 发布工具 ', ' 网站构建 ', 'obsidian 插件 ']
+> - 插件分类：['发布工具', '网站构建', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mixasite/obsidian-mixa)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mixa)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mixasite/obsidian-mixa/main/README.md)

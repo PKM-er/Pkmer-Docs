@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Alias Management
 > - 插件作者：WithMarcel
 > - 插件说明：Identify duplicate notes based on similar aliases and filenames.
-> - 插件分类：[' 数据处理 ', ' 搜索与排序 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '搜索与排序', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/WithMarcel/alias-management)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?alias-management)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/WithMarcel/alias-management/main/README.md)

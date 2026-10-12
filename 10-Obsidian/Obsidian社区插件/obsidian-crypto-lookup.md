@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Crypto Lookup
 > - 插件作者：Andrew Lombardi
 > - 插件说明：.Obsidian 的一个插件，使用 Cryptonator API 以目标货币拉回加密货币的价格。
-> - 插件分类：[' 第三方工具集成 ', ' 数据处理 ', ' 金融 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据处理', '金融', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kinabalu/obsidian-crypto-lookup)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-crypto-lookup)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kinabalu/obsidian-crypto-lookup/master/README.md)

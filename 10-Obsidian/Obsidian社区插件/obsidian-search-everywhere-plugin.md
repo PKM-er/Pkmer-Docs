@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Search Everywhere
 > - 插件作者：Mom0
 > - 插件说明：按两次 Shift 键就可以像在 IntelliJ 中一样搜索全部
-> - 插件分类：[' 快捷键 ', ' 文字处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '文字处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mom0aut/obsidian-search-everywhere)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-search-everywhere-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mom0aut/obsidian-search-everywhere/master/README.md)

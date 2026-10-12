@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Show Whitespace
 > - 插件作者：Erin Schnabel
 > - 插件说明：CSS 样式和 CM6 扩展，用于在源代码和实时预览模式下突出显示空白符。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ebullient/obsidian-show-whitespace-cm6)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?show-whitespace-cm6)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ebullient/obsidian-show-whitespace-cm6/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tags Overview
 > - 插件作者：Christian Wannerstedt
 > - 插件说明：添加了一个扩展标签面板，可以简单地查看、过滤和访问已标记的文件。
-> - 插件分类：[' 搜索与排序 ', ' 界面优化 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '界面优化', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/christianwannerstedt/obsidian-tags-overview)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tags-overview)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/christianwannerstedt/obsidian-tags-overview/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Multi-line Formatting
 > - 插件作者：nmady
 > - 插件说明：对所选文本应用格式，处理段落换行。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nmady/obsidian-multi-line-formatting)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?multi-line-formatting)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nmady/obsidian-multi-line-formatting/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Callout Manager
 > - 插件作者：eth-p
 > - 插件说明：轻松创建和自定义标注。
-> - 插件分类：[' 样式与美化 ', ' 第三方工具集成 ', ' 移动端优化 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '第三方工具集成', '移动端优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/eth-p/obsidian-callout-manager)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?callout-manager)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/eth-p/obsidian-callout-manager/master/README.md)

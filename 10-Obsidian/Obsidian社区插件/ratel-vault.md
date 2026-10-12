@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ratel
 > - 插件作者：golddream-y
 > - 插件说明：笔记的AI小助手——能和你的仓库聊天，进行带引用的语义搜索，开展多步骤研究，还能进行安全编辑。支持DeepSeek、Claude和Ollama。采用本地嵌入技术，无数据追踪。——此插件尚未经过Obsidian官方人员人工审核。
-> - 插件分类：['自动化与AI', '搜索与排序', '第三方工具集成', '安全与隐私', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '搜索与排序', '第三方工具集成', '安全与隐私', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/golddream-y/obsidian-ratel)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ratel-vault)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/golddream-y/obsidian-ratel/master/README.md)

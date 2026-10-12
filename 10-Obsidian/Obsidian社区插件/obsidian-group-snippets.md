@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Group Snippets
 > - 插件作者：Mara-Li
 > - 插件说明：创建代码片段文件夹，一键激活它们！
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Lisandra-dev/obsidian-group-snippets)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-group-snippets)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mara-Li/obsidian-group-snippets/master/README.md)

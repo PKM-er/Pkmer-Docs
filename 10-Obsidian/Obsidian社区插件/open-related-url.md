@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Open Related Url
 > - 插件作者：Dan Pickett
 > - 插件说明：在笔记的 YAML 前言中打开 URL。
-> - 插件分类：[' 第三方工具集成 ', ' 导航与状态栏 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '导航与状态栏', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dpickett/open-related-url)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-related-url)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dpickett/open-related-url/master/README.md)

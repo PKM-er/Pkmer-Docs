@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Japanese Novel Ruby
 > - 插件作者：quels <@k-quels>
 > - 插件说明：处理在日本小说中常用的红宝石（振假名）标记
-> - 插件分类：['文本处理', '数据处理', '学习与教育', 'obsidian插件']
+> - 插件分类：['文字处理', '数据处理', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/k-quels/japanese-novel-ruby)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?japanese-novel-ruby)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/k-quels/japanese-novel-ruby/master/README.md)

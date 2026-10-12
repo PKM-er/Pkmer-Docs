@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Image Inserter
 > - 插件作者：Ray Hao
 > - 插件说明：这个插件可以帮助你在 Obsidian 内，就从 Unsplash 或 Pixabay 搜索并插入图像到笔记中。
-> - 插件分类：[' 搜索与排序 ', ' 文件管理 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '文件管理', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cloudy9101/obsidian-image-inserter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?insert-unsplash-image)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cloudy9101/obsidian-image-inserter/master/README.md)

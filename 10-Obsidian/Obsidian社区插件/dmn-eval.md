@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：DMN Eval
 > - 插件作者：joleaf
 > - 插件说明：该插件使得能够评估/执行 DMN。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joleaf/obsidian-dmn-eval-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dmn-eval)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/joleaf/obsidian-dmn-eval-plugin/main/README.md)

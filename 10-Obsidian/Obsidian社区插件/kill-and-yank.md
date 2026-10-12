@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Kill and Yank
 > - 插件作者：INOUE Takuya
 > - 插件说明：在编辑器中启用杀死和抢夺（如 Emacs）
-> - 插件分类：[' 编辑工具 ', 'Vim 相关 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', 'Vim相关', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/inouetakuya/obsidian-kill-and-yank)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?kill-and-yank)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/inouetakuya/obsidian-kill-and-yank/main/README.md)

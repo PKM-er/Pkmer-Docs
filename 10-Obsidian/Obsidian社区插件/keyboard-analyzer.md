@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Keyboard Analyzer
 > - 插件作者：cogscides
 > - 插件说明：查看和分析你的键盘快捷键和快捷方式
-> - 插件分类：[' 快捷键 ', ' 数据分析 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '数据分析', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/cogscides/obsidian-keyboard-analyzer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?keyboard-analyzer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/cogscides/obsidian-keyboard-analyzer/main/README.md)

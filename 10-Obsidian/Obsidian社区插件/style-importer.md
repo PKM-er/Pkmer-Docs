@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Style Importer
 > - 插件作者：Josh Rouwhorst
 > - 插件说明：从 URL 导入样式表到你的片段文件夹中。
-> - 插件分类：[' 链接 ', ' 编辑工具 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['链接', '编辑工具', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joshrouwhorst/style-importer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?style-importer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/joshrouwhorst/style-importer/main/README.md)

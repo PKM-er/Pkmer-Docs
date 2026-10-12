@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Academic Notes
 > - 插件作者：Kristal Boltinn
 > - 插件说明：跨笔记自动编号并引用定理、公式、图表和表格，支持跨文件链接、目录生成以及多笔记合并导出为 PDF。 - 该插件尚未由 Obsidian 官方团队进行人工审核。
-> - 插件分类：['白板学术与科研', '图片与PDF', '模板与链接处理', '效率工具', 'obsidian插件']
+> - 插件分类：['学术与科研', '图片与PDF', '模板与链接处理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kristal-boltinn/academic-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?academic-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kristal-boltinn/academic-notes/master/README.md)

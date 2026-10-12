@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Writing
 > - 插件作者：johackim
 > - 插件说明：直接在 Obsidian 上写作，并生成书籍预览效果。你可以通过该插件，自动生成章节，内容和预览。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/johackim/obsidian-writing)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?writing)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/johackim/obsidian-writing/master/README.md)

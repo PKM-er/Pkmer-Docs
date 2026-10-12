@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cite Engine
 > - 插件作者：Nick
 > - 插件说明：通过块引用实现防偏差、封闭语料库式引用。仅从你剪辑的资料源中引用——从设计上就杜绝了编造内容的可能。 - 此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['学习与教育', '白板学术与科研', '模板与链接处理', '效率工具', 'obsidian插件']
+> - 插件分类：['学习与教育', '学术与科研', '模板与链接处理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/flyingmiata-droid/cite-engine)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cite-engine)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/flyingmiata-droid/cite-engine/master/README.md)

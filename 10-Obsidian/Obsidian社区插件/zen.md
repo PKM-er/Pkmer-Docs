@@ -20,7 +20,7 @@ modified: 20230922105137
 > - 插件名称：Zen
 > - 插件作者：Maxymillion
 > - 插件说明：让你的 Obsidian 进入到禅模式
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Maxymillion/zen)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zen)
 

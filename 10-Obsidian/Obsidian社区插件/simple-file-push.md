@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Simple File Push
 > - 插件作者：Kim Hudaya
 > - 插件说明：将 Markdown 文件推送到 API 端点。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 安全 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '安全', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/huedaya/obsidian-simple-file-push)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?simple-file-push)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/huedaya/obsidian-simple-file-push/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AnkiBridge
 > - 插件作者：JeppeKlitgaard
 > - 插件说明：.又一个 Anki 桥梁。专注于严格的语法和数据的完整性。
-> - 插件分类：[' 第三方工具集成 ', ' 学习 ', 'anki', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '学习', 'anki', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-ankibridge)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JeppeKlitgaard/ObsidianAnkiBridge/master/README.md)

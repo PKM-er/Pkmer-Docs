@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Fleeting Notes Sync
 > - 插件作者：Matthew Wong
 > - 插件说明：这是一个插件，用于将 Fleeting Notes 与 Obsidian 同步。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fleetingnotes/fleeting-notes-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?fleeting-notes-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fleetingnotes/fleeting-notes-obsidian/master/README.md)

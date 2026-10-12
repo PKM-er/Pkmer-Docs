@@ -20,7 +20,7 @@ modified: 20230914161145
 > - 插件名称：Image Layouts
 > - 插件作者：Luke Chadwick
 > - 插件说明：在您的笔记中添加美丽的图像布局
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['Obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vertis/obsidian-image-layouts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-image-layouts)
 

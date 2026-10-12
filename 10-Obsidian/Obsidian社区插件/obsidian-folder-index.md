@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Folder Index
 > - 插件作者：turulix
 > - 插件说明：文件夹的自动 MOC
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/turulix/obsidian-folder-index)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-folder-index)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/turulix/obsidian-folder-index/master/README.md)

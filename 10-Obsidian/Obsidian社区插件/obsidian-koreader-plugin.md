@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：KOReader Highlights
 > - 插件作者：Federico "Edo" Granata
 > - 插件说明：从 KOReader 同步高亮/笔记
-> - 插件分类：[' 数据处理 ', ' 第三方工具集成 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '第三方工具集成', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Edo78/obsidian-koreader-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-koreader-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Edo78/obsidian-koreader-sync/master/README.md)

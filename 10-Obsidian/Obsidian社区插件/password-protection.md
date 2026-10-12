@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Password Protection
 > - 插件作者：Qing Li
 > - 插件说明：用密码保护您的私人笔记和日记，无需加密，无需解密。
-> - 插件分类：[' 安全 ', ' 数据分析 ', ' 备份与恢复 ', 'obsidian 插件 ']
+> - 插件分类：['安全', '数据分析', '备份与恢复', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/qing3962/password-protection)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?password-protection)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/qing3962/password-protection/master/README.md)

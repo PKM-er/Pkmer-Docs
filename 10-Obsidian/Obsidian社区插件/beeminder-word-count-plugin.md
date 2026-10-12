@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Beeminder Word Count Plugin
 > - 插件作者：Yuta Miyama
 > - 插件说明：从 Obsidian MD 文件直接发布字数到 Beeminder。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kenzan100/beeminder-obsidian-word-count)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?beeminder-word-count-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kenzan100/beeminder-obsidian-word-count/main/README.md)

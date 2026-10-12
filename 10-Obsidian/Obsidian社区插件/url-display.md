@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：URL Display
 > - 插件作者：Stephanie Lin
 > - 插件说明：提取并显示 Obsidian 笔记中的外部 URL。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', ' 导航与状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', '导航与状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lin-stephanie/obsidian-url-display)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?url-display)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lin-stephanie/obsidian-url-display/main/README.md)

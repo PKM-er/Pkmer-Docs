@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Open Gate
 > - 插件作者：DuocNV
 > - 插件说明：将任何网站嵌入 Obsidian，从现在起，您一个地方就拥有所有所需的东西。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 链接 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '链接', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nguyenvanduocit/obsidian-open-gate)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-gate)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nguyenvanduocit/obsidian-open-gate/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Enhanced Annotations
 > - 插件作者：ycnmhd
 > - 插件说明：为评论和高亮添加侧边栏视图。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ycnmhd/obsidian-enhanced-annotations)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?enhanced-annotations)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ycnmhd/obsidian-enhanced-annotations/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hexo Auto updater
 > - 插件作者：Zhenjia Zhou
 > - 插件说明：Hexo 插件，可以实现自动更新。
-> - 插件分类：[' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lifeodyssey/obsidian-hexo-auto-update)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hexo-auto-updater)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lifeodyssey/obsidian-hexo-auto-update/main/README.md)

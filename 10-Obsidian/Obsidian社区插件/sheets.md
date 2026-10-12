@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sheets Extended
 > - 插件作者：NicoNekoru
 > - 插件说明：垂直标题、合并单元格和具有高级表格兼容性的自定义 CSS 表格
-> - 插件分类：[' 表格 ', ' 样式与美化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '样式与美化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/NicoNekoru/obsidan-advanced-table-xt)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sheets)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/NicoNekoru/obsidan-advanced-table-xt/master/README.md)

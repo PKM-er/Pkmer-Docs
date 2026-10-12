@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ToWrite Open Questions
 > - 插件作者：Rick
 > - 插件说明：在源笔记旁边跟踪ToThink和ToWrite注释。——Obsidian官方人员尚未对该插件进行人工审核。
-> - 插件分类：['任务管理', '编辑工具', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['任务管理', '编辑工具', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gitmorric/towrite-open-questions)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?towrite-open-questions)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gitmorric/towrite-open-questions/master/README.md)

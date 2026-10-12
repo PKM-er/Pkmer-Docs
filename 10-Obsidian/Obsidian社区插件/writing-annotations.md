@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Writing Annotations
 > - 插件作者：hornat
 > - 插件说明：注释与脚注
-> - 插件分类：['文字处理', '编辑工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['文字处理', '编辑工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hornatx/writing-annotations)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?writing-annotations)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hornatx/writing-annotations/master/README.md)

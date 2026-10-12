@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ink
 > - 插件作者：Dale de Silva
 > - 插件说明：Hand write or draw with a stylus directly between paragraphs in your notes.
-> - 插件分类：[' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/daledesilva/obsidian_ink)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ink)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/daledesilva/obsidian_ink/main/README.md)

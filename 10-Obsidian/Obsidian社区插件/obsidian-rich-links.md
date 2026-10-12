@@ -21,7 +21,7 @@ modified: 20230920231804
 > - 插件作者：Asad Dhamani
 > - 插件版本：1.2.0
 > - 插件说明：为你笔记中的链接，增加美化样式
-> - 插件分类：[' 链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '链接', '美化', '卡片样式']
 > - 插件项目地址：[点我跳转](https://github.com/dhamaniasad/obsidian-rich-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-rich-links)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Lock Cards
 > - 插件作者：erezak
 > - 插件说明：锁定选中的画布卡片，防止其移动和调整大小。
-> - 插件分类：['编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/erezak/obsidian-lock-cards)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?lock-cards)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/erezak/obsidian-lock-cards/master/README.md)

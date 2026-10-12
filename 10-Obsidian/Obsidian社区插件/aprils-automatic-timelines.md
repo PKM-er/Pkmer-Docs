@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：April's Automatic Timelines
 > - 插件作者：April Gras
 > - 插件说明：故事讲述者的简易时间线生成器
-> - 插件分类：[' 图表与可视化 ', ' 时间与日期 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['图表与可视化', '时间与日期', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/April-Gras/obsidian-auto-timelines)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?aprils-automatic-timelines)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/April-Gras/obsidian-auto-timelines/master/README.md)

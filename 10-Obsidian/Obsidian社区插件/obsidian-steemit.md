@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Publish to Steemit
 > - 插件作者：anpigon
 > - 插件说明：一个用于将 Obsidian 文档发布到 Steemit 的插件。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/anpigon/obsidian-steemit-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-steemit)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/anpigon/obsidian-steemit-plugin/main/README.md)

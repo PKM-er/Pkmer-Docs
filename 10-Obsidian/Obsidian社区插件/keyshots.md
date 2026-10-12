@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Keyshots
 > - 插件作者：KrazyManJ
 > - 插件说明：添加来自像 Visual Studio Code 或 JetBrains Family 等流行 IDE 的经典热键/快捷键命令。
-> - 插件分类：[' 快捷键 ', ' 文字处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '文字处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/KrazyManJ/obsidian-keyshots)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?keyshots)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/KrazyManJ/obsidian-keyshots/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Antidote Grammar Checker Integration
 > - 插件作者：Heziode
 > - 插件说明：非官方集成 Antidote，一款强大的英语和法语语法检查器
-> - 插件分类：[' 第三方工具集成 ', ' 文字处理 ', ' 多语言 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文字处理', '多语言', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Heziode/obsidian-antidote)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?antidote-grammar-checker-integration)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Heziode/obsidian-antidote/main/README.md)

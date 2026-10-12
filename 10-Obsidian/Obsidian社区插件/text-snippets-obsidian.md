@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Text Snippets
 > - 插件作者：Ariana Khitrova
 > - 插件说明：更快的打字片段。允许您替换文本模板，创建自己的模板，并扩展文本快捷方式。
-> - 插件分类：[' 快捷键 ', ' 文字处理 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '文字处理', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ArianaKhit/text-snippets-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?text-snippets-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ArianaKhit/text-snippets-obsidian/main/README.md)

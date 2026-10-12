@@ -20,7 +20,7 @@ Emoji Titler 是 Obsidian 的插件，它允许您使用键盘快捷键快速向
 > - 插件名称：Emoji Titler
 > - 插件作者：Hyeonseo Nam
 > - 插件说明：这个插件是一个表情符号标题工具，可以通过键盘快捷键轻松地在标题中插入表情符号。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HyeonseoNam/obsidian-emoji-titler)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?emoji-titler)
 

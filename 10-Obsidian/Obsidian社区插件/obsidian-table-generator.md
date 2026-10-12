@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Table Generator
 > - 插件作者：Boninall
 > - 插件说明：一个快速生成 Markdown 表格的插件，类似 Typora。
-> - 插件分类：[' 表格 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Table-Generator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-table-generator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Table-Generator/master/README.md)

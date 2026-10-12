@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Advanced New File
 > - 插件作者：Ivan Chernov
 > - 插件说明：可以通过快捷键或者命令面板，建立新的笔记文件，并在建立过程中就指定好笔记位置。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vanadium23/obsidian-advanced-new-file)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-advanced-new-file)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/vanadium23/obsidian-advanced-new-file/master/README.md)

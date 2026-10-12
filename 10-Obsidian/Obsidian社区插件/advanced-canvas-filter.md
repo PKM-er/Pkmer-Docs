@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Advanced Сanvas Filter
 > - 插件作者：CHex0K
 > - 插件说明：Filter Canvas to show only items with specified tags.
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 搜索与排序 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '搜索与排序', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/CHex0K/advanced-canvas-filter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?advanced-canvas-filter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/CHex0K/advanced-canvas-filter/main/README.md)

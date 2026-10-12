@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Standing Questions
 > - 插件作者：saiken
 > - 插件说明：追踪你仓库里未解决的问题，还能找出可能解答这些问题的新笔记。——Obsidian团队尚未对该插件进行人工审核。
-> - 插件分类：['搜索与排序', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['搜索与排序', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/israerusan/standing-questions)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?standing-questions)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/israerusan/standing-questions/master/README.md)

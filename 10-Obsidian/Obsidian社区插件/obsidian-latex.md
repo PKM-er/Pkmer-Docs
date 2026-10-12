@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Extended MathJax
 > - 插件作者：Xavier Denis & Ng Wei En
 > - 插件说明：启用额外的 MathJax 包并为 MathJax 添加全局序言
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/wei2912/obsidian-latex)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-latex)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/wei2912/obsidian-latex/master/README.md)

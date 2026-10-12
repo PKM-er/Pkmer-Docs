@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Wakatime / Wakapi
 > - 插件作者：Kevin Woblick
 > - 插件说明：连接到Wakatime或Wakapi，就能追踪浏览或记笔记所花费的时间啦。
-> - 插件分类：['时间追踪', '效率工具', '第三方工具集成', 'obsidian插件']
+> - 插件分类：['日历与时间', '效率工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Kovah/obsidian-wakatime)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?wakatime-kvh)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Kovah/obsidian-wakatime/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Min Width
 > - 插件作者：doitian
 > - 插件说明：设置活动窗格的最小宽度。
-> - 插件分类：[' 界面优化 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/doitian/obsidian-min-width)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-min-width)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/doitian/obsidian-min-width/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Autocorrect Formatter
 > - 插件作者：b-yp
 > - 插件说明：Format Markdown content using Autocorrect.
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/b-yp/obsidian-autocorrect)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?autocorrect-formatter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/b-yp/obsidian-autocorrect/main/README.md)

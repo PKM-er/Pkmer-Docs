@@ -20,7 +20,7 @@ modified: 20230916182744
 > - 插件名称：DB Folder
 > - 插件作者：RafaelGB
 > - 插件说明：文件夹具有从类似数据库的文件夹中存储和检索数据的能力
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/RafaelGB/obsidian-db-folder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dbfolder)
 

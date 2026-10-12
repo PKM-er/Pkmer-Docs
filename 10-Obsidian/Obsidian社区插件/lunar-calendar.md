@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Lunar Calendar
 > - 插件作者：OSmile
 > - 插件说明：一个支持农历的日历
-> - 插件分类：[' 日历与时间 ', ' 插件 ', ' 多语言 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '插件', '多语言', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/WHG555/lunar-calendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?lunar-calendar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/WHG555/lunar-calendar/master/README.md)

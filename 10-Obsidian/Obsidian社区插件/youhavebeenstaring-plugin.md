@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：YouHaveBeenStaring
 > - 插件作者：Felix Almer
 > - 插件说明：告诉你用了多久 Obsidian 了
-> - 插件分类：[' 效率工具 ', ' 状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['效率工具', '状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fxal/obsidian-youhavebeenstaring-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?youhavebeenstaring-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fxal/obsidian-youhavebeenstaring-plugin/master/README.md)

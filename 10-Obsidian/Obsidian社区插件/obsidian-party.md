@@ -20,7 +20,7 @@ Obsidian 上的 party.js 实现。在您的笔记中创建五彩纸屑、火花�
 > - 插件名称：Party🎉
 > - 插件作者：Shap Po
 > - 插件说明：Obsidian 上的 party.js 实现。在您的笔记中创建五彩纸屑、火花，甚至自定义效果！
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/shap-po/obsidian-party)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-party)
 

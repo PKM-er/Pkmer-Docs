@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Bases
 > - 插件作者：callumalpass
 > - 插件说明：为Obsidian Bases提供画布式布局和JSON画布实例化功能。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['图表与可视化', '白板学术与科研', '第三方工具集成', '样式与美化', 'obsidian插件']
+> - 插件分类：['图表与可视化', '白板', '第三方工具集成', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/callumalpass/canvas-bases)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-bases)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/callumalpass/canvas-bases/master/README.md)

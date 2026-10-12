@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI File Organizer 2000
 > - 插件作者：Benjamin Ashgan Shafii
 > - 插件说明：Automatically organize notes, annotate photos and audio using AI.
-> - 插件分类：[' 数据处理 ', ' 图片与 PDF', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '图片与PDF', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/different-ai/file-organizer-2000)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?fileorganizer2000)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/different-ai/file-organizer-2000/master/README.md)

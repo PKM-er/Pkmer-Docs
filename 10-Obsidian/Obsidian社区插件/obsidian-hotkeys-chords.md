@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hotkeys Chords
 > - 插件作者：Dario Balboni
 > - 插件说明：可配置的热键组合以激活 Obsidian 命令
-> - 插件分类：[' 快捷键 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/trenta3/obsidian-hotkeys-chords)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-hotkeys-chords)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/trenta3/obsidian-hotkeys-chords/master/README.md)

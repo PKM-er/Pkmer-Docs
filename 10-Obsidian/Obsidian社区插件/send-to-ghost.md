@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Send to Ghost
 > - 插件作者：Southpaw1496
 > - 插件说明：一键发送和发布笔记到你的 Ghost 博客
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/southpaw1496/obsidian-send-to-ghost)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?send-to-ghost)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Southpaw1496/obsidian-send-to-ghost/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TodoTxt
 > - 插件作者：Mark Grimes
 > - 插件说明：管理 Todo.txt 文件。
-> - 插件分类：[' 任务管理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mvgrimes/obsidian-todotxt-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?todotxt)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mvgrimes/obsidian-todotxt-plugin/main/README.md)

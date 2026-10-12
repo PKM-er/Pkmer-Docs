@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sync config folder to common folder
 > - 插件作者：codeonquer
 > - 插件说明：同步配置文件夹中的内容到公共文件夹，用于备份或其他目的。
-> - 插件分类：[' 备份与恢复 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['备份与恢复', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/codeonquer/obsidian-sync-config-folder-to-common-folder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sync-config-folder-to-common-folder)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/codeonquer/obsidian-sync-config-folder-to-common-folder/main/README.md)

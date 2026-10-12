@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Para-ZK
 > - 插件作者：kangig94
 > - 插件说明：支持通过MCP/CLI接入Claude Code、Codex等客户端，实现PARA、卡片盒笔记法（Zettelkasten）和大语言模型维基（LLM - Wiki）工作流。——此插件尚未经过Obsidian官方人员人工审核。
-> - 插件分类：['自动化与AI', '第三方工具集成', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '第三方工具集成', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kangig94/obsidian-para-zk)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?para-zk)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kangig94/obsidian-para-zk/master/README.md)

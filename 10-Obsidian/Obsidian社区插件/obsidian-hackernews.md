@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：HackerNews
 > - 插件作者：arpitbbhayani
 > - 插件说明：该插件会定期获取并在 Obsidian 面板中显示 Hackernews 的热门新闻。Hackernews 上共享了一些最佳故事，博客，新闻和资源，并且此插件在使用黑曜石时有助于保持更新。
-> - 插件分类：[' 数据处理 ', ' 界面优化 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '界面优化', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/arpitbbhayani/obsidian-hackernews)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-hackernews)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/arpitbbhayani/obsidian-hackernews/master/README.md)

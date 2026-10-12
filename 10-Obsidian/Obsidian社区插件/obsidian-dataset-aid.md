@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Text Dataset Aid Plugin
 > - 插件作者：Conner Ohnesorge
 > - 插件说明：这个 Obsidian 插件有助于为语言模型创建微调数据集。
-> - 插件分类：[' 数据处理 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/conneroisu/Text-Dataset-Aid-Plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dataset-aid)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/conneroisu/Text-Dataset-Aid-Plugin/master/README.md)

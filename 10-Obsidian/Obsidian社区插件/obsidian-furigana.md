@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Furigana
 > - 插件作者：Koppa
 > - 插件说明：tags 辅助插件用于振り仮名和<ruby>标签
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/uonr/obsidian-furigana)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-furigana)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/uonr/obsidian-furigana/master/README.md)

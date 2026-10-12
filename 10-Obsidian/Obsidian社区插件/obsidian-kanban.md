@@ -22,7 +22,7 @@ modified: 20231010215055
 > - 插件名称：Kanban
 > - 插件作者：mgmeyers
 > - 插件说明：在 Obsidian 制作看板，可以连接你的笔记
-> - 插件分类：[' 界面相关 ', ' 任务管理 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '任务管理', '看板']
 > - 插件项目地址：[点我跳转](https://github.com/mgmeyers/obsidian-kanban)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-kanban)
 

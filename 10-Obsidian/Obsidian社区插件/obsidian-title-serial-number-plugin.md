@@ -16,7 +16,7 @@ modified: 20250704161122
 > - 插件名称：Title Serial Number Plugin
 > - 插件作者：Domenic
 > - 插件说明：该插件为您的 Markdown 标题添加序列号。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '标题', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yalvhe2009/obsidian-title-serial-number-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-title-serial-number-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yalvhe2009/obsidian-title-serial-number-plugin/main/README.md)

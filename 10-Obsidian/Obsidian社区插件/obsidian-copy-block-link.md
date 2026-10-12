@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Copy Block Link
 > - 插件作者：mgmeyers
 > - 插件说明：为 块 和 标题增加右键复制菜单，可以复制对应的链接。方便你快速活取正确的链接。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mgmeyers/obsidian-copy-block-link)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-copy-block-link)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgmeyers/obsidian-copy-block-link/main/README.md)

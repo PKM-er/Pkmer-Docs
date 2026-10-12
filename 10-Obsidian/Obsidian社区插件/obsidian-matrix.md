@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian matrix
 > - 插件作者：Jonas Mohr
 > - 插件说明：让你在 Obsidian 中快速创建基于 LaTeX 的数学矩阵
-> - 插件分类：[' 数学与金融 ', 'LaTeX', ' 表格 ', 'obsidian 插件 ']
+> - 插件分类：['数学与金融', 'LaTeX', '表格', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MohrJonas/obsidian-matrix)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-matrix)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MohrJonas/obsidian-matrix/master/README.md)

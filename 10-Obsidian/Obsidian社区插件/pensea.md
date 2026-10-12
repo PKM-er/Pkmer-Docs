@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pensea
 > - 插件作者：odo
 > - 插件说明：它是基于PARA的知识管理工具，具备想法流、间隔重复学习功能，还有大语言模型驱动的维基百科功能呢。
-> - 插件分类：['学习与教育', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/y15865708228-pixel/yang)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pensea)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/y15865708228-pixel/yang/master/README.md)

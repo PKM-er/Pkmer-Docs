@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vextab
 > - 插件作者：Luis Guzman
 > - 插件说明：用于渲染 Vextab 图。
-> - 插件分类：[' 图表与可视化 ', ' 多媒体 ', ' 音乐 ', 'obsidian 插件 ']
+> - 插件分类：['图表与可视化', '多媒体', '音乐', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/luigman/obsidian-vextab)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vextab)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/luigman/obsidian-vextab/master/README.md)

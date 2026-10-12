@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Habit Tracker 21
 > - 插件作者：zoreet
 > - 插件说明：Your 21-day journey to habit formation simplified
-> - 插件分类：[' 任务管理 ', ' 学习与教育 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '学习与教育', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zoreet/habit-tracker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?habit-tracker-21)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zoreet/habit-tracker/master/README.md)

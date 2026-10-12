@@ -17,7 +17,7 @@ modified: 20240317230024
 > [!Note] Excalidraw
 > - 插件名称：Excalidraw
 > - 插件作者：Zsolt Viczian
-> - 插件分类：[' 图表生成 ', ' 界面相关 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '绘图工具', '手绘风格', '效率工具']
 > - 插件说明：在 Obsidian 中 使用 Excalidraw 绘图
 > - 项目地址：[点我访问](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-excalidraw-plugin)

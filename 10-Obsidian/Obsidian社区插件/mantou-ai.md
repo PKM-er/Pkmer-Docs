@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MantouAI
 > - 插件作者：Morino Pan
 > - 插件说明：作为翻译、写作润色、一般问答、总结等个人助理工作，利用大型语言模型的力量。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ravenSanstete/Obsidian-MantouAI)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mantou-ai)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ravenSanstete/Obsidian-MantouAI/main/README.md)

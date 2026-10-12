@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Metadata Extractor
 > - 插件作者：kometenstaub
 > - 插件说明：定期导出元数据以与第三方应用程序（如启动器或图形分析软件）集成。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kometenstaub/metadata-extractor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?metadata-extractor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kometenstaub/metadata-extractor/main/README.md)

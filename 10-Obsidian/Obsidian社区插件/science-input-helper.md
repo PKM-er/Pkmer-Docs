@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Science Input Helper
 > - 插件作者：XinXi Xu
 > - 插件说明：中文理科笔记输入辅助工具：支持输入化学公式、反应箭头、单位、希腊字母、罗马数字以及简易数学结构。 - 此插件尚未经过Obsidian官方人员人工审核。
-> - 插件分类：['编辑工具', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/xuxinxi14/science-input-helper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?science-input-helper)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/xuxinxi14/science-input-helper/master/README.md)

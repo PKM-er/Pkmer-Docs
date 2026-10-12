@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Recall
 > - 插件作者：Martin Jirlow
 > - 插件说明：一款可配置的灵活间隔重复插件，提供多种算法可供选择。
-> - 插件分类：[' 编辑工具 ', ' 学习与教育 ', 'anki', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '学习与教育', 'anki', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/martin-jw/obsidian-recall)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-recall)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/martin-jw/obsidian-recall/main/README.md)

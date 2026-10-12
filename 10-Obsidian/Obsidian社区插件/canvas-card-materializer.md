@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Card-Materializer
 > - 插件作者：redsheep913
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核哦。它能把画布卡片转化成整理好的Markdown文件，还能自动按文件夹分类，同时保留卡片之间的关联和颜色呢。
-> - 插件分类：['文件管理', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['文件管理', '自动化与AI', '效率工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/redsheep913/Canvas-Card-Materializer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-card-materializer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/redsheep913/Canvas-Card-Materializer/master/README.md)

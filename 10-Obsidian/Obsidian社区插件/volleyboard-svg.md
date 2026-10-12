@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：VolleyBoard SVG
 > - 插件作者：davidaffo
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。这是个战术排球白板，采用SVG + JSON技术构建，可用于进行交互式训练和绘制图表。
-> - 插件分类：['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '学习与教育', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/davidaffo/volleyboard_svg_app)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?volleyboard-svg)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/davidaffo/volleyboard_svg_app/master/README.md)

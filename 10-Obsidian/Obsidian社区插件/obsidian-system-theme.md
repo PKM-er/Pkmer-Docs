@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：System Theme
 > - 插件作者：jgauth
 > - 插件说明：插件自动更新系统主题。
-> - 插件分类：[' 界面优化 ', ' 样式与美化 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '样式与美化', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jgauth/obsidian-system-theme)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-system-theme)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jgauth/obsidian-system-theme/master/README.md)

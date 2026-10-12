@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MagicCalendar
 > - 插件作者：Vaccarini Lorenzo
 > - 插件说明：使用自然语言处理技术在 Markdown 笔记中查找日历事件，并将其与所选日历无缝同步的基于人工智能的黑曜石插件。
-> - 插件分类：[' 日历与时间 ', ' 自动化与 AI', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '自动化与AI', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Vaccarini-Lorenzo/MagicCalendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?magic-calendar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vaccarini-Lorenzo/MagicCalendar/main/README.md)

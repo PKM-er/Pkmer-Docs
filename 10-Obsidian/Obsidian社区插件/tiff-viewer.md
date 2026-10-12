@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tiff Viewer
 > - 插件作者：Jan Ullmann
 > - 插件说明：查看.tif(f) 文件，通过生成相同格式的.tif(f).png 文件进行复制。
-> - 插件分类：[' 文件管理 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ullmannJan/obsidian-tiff-viewer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tiff-viewer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ullmannJan/obsidian-tiff-viewer/main/README.md)

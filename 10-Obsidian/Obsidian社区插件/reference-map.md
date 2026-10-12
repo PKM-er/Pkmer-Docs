@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Reference Map
 > - 插件作者：Anoop K. Chandran
 > - 插件说明：文献综述和发现的参考文献和引文图谱。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', 'zotero', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', 'zotero', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/anoopkcn/obsidian-reference-map)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?reference-map)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/anoopkcn/obsidian-reference-map/master/README.md)

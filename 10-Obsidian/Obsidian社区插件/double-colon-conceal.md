@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Double Colon Conceal
 > - 插件作者：Michal Srch
 > - 插件说明：在阅读视图（预览模式）中，将双冒号（即 Dataview 内联字段）显示为单冒号，以获得更自然的体验。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/msrch/obsidian-double-colon-conceal)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?double-colon-conceal)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/msrch/obsidian-double-colon-conceal/master/README.md)

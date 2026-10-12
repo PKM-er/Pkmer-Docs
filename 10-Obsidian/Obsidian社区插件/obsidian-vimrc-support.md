@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vimrc Support
 > - 插件作者：esm
 > - 插件说明：支持 Vimrc 配置文件。
-> - 插件分类：[' 编辑工具 ', 'Vim 相关 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', 'Vim相关', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/esm7/obsidian-vimrc-support)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-vimrc-support)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/esm7/obsidian-vimrc-support/master/README.md)

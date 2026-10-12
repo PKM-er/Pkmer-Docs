@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pomodoro Widget
 > - 插件作者：bitegw
 > - 插件说明：提供了一个基于番茄钟的小部件。它被设计为触觉反馈，并具有持续的滴答声和可以切换的警报声。
-> - 插件分类：[' 界面优化 ', ' 日历与时间 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '日历与时间', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/bitegw/obsidian-pomodoro-widget)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pomodoro-widget)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/bitegw/obsidian-pomodoro-widget/main/README.md)

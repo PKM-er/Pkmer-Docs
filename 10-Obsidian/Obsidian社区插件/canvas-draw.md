@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：CanvasDraw
 > - 插件作者：Raushan Kumar
 > - 插件说明：无缝的内联Excalidraw集成，具备完整的绘图工具、图库管理和自定义画布控制功能。 - 此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['第三方工具集成', '编辑工具', '图表与可视化', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '编辑工具', '图表与可视化', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/raushan-kumar-yadav/obsidianDraw)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-draw)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/raushan-kumar-yadav/obsidianDraw/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ultimate Todoist Sync
 > - 插件作者：HeroBlackInk
 > - 插件说明：这是迄今为止最好的 Obsidian Todoist 任务同步插件。
-> - 插件分类：[' 任务管理 ', ' 文件管理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '文件管理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HeroBlackInk/ultimate-todoist-sync-for-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ultimate-todoist-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HeroBlackInk/ultimate-todoist-sync-for-obsidian/master/README.md)

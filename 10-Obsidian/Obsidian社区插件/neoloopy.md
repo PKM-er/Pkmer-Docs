@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：neoloopy
 > - 插件作者：neoloopy
 > - 插件说明：系统思维因果循环图（CLD）：创建变量和因果联系，检测增强/平衡反馈循环，还能对它们进行注释 —— 全本地离线操作哦。 - 此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['图表与可视化', '数据分析', '学习与教育', '白板学术与科研', '图谱', 'obsidian插件']
+> - 插件分类：['图表与可视化', '数据分析', '学习与教育', '学术与科研', '图谱', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/frozenabe/neoloopy-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?neoloopy)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/frozenabe/neoloopy-obsidian/master/README.md)

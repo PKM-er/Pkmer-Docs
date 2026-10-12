@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Air Quotes
 > - 插件作者：Alan Grainger
 > - 插件说明：边输入边搜索并插入源文本中的引用
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/alangrainger/obsidian-air-quotes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?air-quotes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/alangrainger/obsidian-air-quotes/main/README.md)

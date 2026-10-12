@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Text Analysis
 > - 插件作者：Miha Kralj
 > - 插件说明：实时文本分析，涵盖超过 30 个指标，包括可读性、结构和复杂性。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mihakralj/obsidian-textanalysis)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?textanalysis)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mihakralj/obsidian-textanalysis/main/README.md)

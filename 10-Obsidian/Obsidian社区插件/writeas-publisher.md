@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Writeas Blog Publisher
 > - 插件作者：encima
 > - 插件说明：将笔记发布到您拥有的任何 write.as 博客上。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/encima/obsidian-writeas-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?writeas-publisher)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/encima/obsidian-writeas-plugin/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note Auto Creator
 > - 插件作者：Simon T. Clement
 > - 插件说明：当创建链接到它们时自动创建笔记。
-> - 插件分类：[' 表格 ', ' 编辑工具 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '编辑工具', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/SimonTC/obsidian-note-autocreation)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-note-autocreator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/SimonTC/obsidian-note-autocreation/master/README.md)

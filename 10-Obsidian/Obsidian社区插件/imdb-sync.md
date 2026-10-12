@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：IMDb
 > - 插件作者：Andrew Chen
 > - 插件说明：同步您的 IMDb 列表。
-> - 插件分类：[' 数据处理 ', ' 第三方工具集成 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '第三方工具集成', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aaachen/IMDb-Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?imdb-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aaachen/IMDb-Obsidian/main/README.md)

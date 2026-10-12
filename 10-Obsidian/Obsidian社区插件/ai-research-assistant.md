@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI Research Assistant
 > - 插件作者：Interweb Alchemy
 > - 插件说明：一个用于生成式 AI 模型（如 OpenAI 的 ChatGPT）的快速工程研究实用程序，可用于存档和搜索对话，并实时编辑对话的上下文/记忆。
-> - 插件分类：[' 数据处理 ', ' 搜索与排序 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '搜索与排序', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-research-assistant)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/InterwebAlchemy/obsidian-ai-research-assistant/main/README.md)

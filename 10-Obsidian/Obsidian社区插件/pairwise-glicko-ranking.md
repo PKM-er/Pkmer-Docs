@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pairwise Glicko Ranking
 > - 插件作者：Jack Williams
 > - 插件说明：这个插件还未经Obsidian官方人员手动审核。你可以轻松地按照任何主观标准对笔记进行排序——利用Glicko评级系统，通过两两比较的方式，对你仓库里的笔记群组进行排名。
-> - 插件分类：['搜索与排序', '数据分析', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['搜索与排序', '数据分析', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/williamsjack/pairwise-glicko-ranking)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pairwise-glicko-ranking)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/williamsjack/pairwise-glicko-ranking/master/README.md)

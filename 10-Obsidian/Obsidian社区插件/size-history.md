@@ -20,7 +20,7 @@ modified: 20231012005952
 > - 插件名称：Size History
 > - 插件作者：Piotr Borowski
 > - 插件说明：用“手绘”图表来展示 Obsidian 仓库中文件的增长曲线
-> - 插件分类：[' 统计 ', ' 图标 ', 'obsidian 插件 ']
+> - 插件分类：['关系图谱', '美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pbrw/obsidian-size-history)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?size-history)
 

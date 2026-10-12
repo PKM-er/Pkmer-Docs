@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Google Keep Import
 > - 插件作者：Dale de Silva
 > - 插件说明：允许导入 Google Keep 备份的 json 文件及其附件。也可以用于导入其他文件。
-> - 插件分类：[' 文件管理 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/daledesilva/obsidian_google-keep-import)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?google-keep-import)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/daledesilva/obsidian_google-keep-import/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Quiz Generator
 > - 插件作者：Edward Cui
 > - 插件说明：使用 OpenAI 的 GPT-3.5 和 GPT-4 模型从您的笔记中生成互动式测验。
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ECuiDev/obsidian-quiz-generator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quiz-generator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ECuiDev/obsidian-quiz-generator/master/README.md)

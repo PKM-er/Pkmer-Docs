@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Crafty
 > - 插件作者：liolle
 > - 插件说明：Add tooltip to any canvas node and quickly navigate between canvas nodes.
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/liolle/Crafty)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?crafty)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/liolle/Crafty/master/README.md)

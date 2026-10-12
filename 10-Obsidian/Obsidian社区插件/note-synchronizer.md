@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note Synchronizer
 > - 插件作者：Songchen Tan
 > - 插件说明：这是一个插件，用于将 Obsidian 笔记与 Anki 等基于笔记的软件同步，更严格地遵循 Zettelkasten 的原则，并将每个 Obsidian 文件视为一个笔记。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tansongchen/obsidian-note-synchronizer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-synchronizer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tansongchen/obsidian-note-synchronizer/master/README.md)

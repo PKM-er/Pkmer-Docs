@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Google Photos
 > - 插件作者：Alan Grainger
 > - 插件说明：Obsidian 与 Google 照片的集成
-> - 插件分类：[' 第三方工具集成 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/alangrainger/obsidian-google-photos)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?google-photos)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/alangrainger/obsidian-google-photos/main/README.md)

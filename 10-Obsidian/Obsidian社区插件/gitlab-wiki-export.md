@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Gitlab Wiki Exporter
 > - 插件作者：Josef Rabmer
 > - 插件说明：使您的整个保险库与 Gitlab Wiki 兼容，并将其导出到指定位置。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jrabmer/obsidian-to-gitlab-wiki)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gitlab-wiki-export)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jrabmer/obsidian-to-gitlab-wiki/master/README.md)

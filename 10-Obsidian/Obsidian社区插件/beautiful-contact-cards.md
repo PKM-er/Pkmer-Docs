@@ -16,7 +16,7 @@ modified: 20250116115036
 > - 插件名称：Beautiful Contact Cards
 > - 插件作者：Seth Tenembaum
 > - 插件说明：渲染带有可点击链接的“联系”代码块，用于电话、社交媒体等。
-> - 插件分类：[' 界面优化 ', ' 移动端优化 ', ' 工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '移动端优化', '工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/seth10/beautiful-obsidian-contacts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?beautiful-contact-cards)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/seth10/beautiful-obsidian-contacts/master/README.md)

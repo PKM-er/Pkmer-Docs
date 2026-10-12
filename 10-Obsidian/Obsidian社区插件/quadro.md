@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Quadro
 > - 插件作者：Chris Grieser (aka pseudometa)
 > - 插件说明：定性数据分析（QDA）适用于社会科学家。这是 MAXQDA 和 atlas.ti 的开放替代方案，使用 Markdown 来存储数据和研究代码。
-> - 插件分类：[' 数据分析 ', ' 学习与教育 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据分析', '学习与教育', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chrisgrieser/obsidian-quadro)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quadro)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/obsidian-quadro/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Smart Composer
 > - 插件作者：Heesu Suh
 > - 插件说明：AI聊天与笔记上下文，智能写作助手，以及一键编辑您的资料库。
-> - 插件分类：['编辑工具', '数据处理', '效率工具', 'obsidian插件']
+> - 插件分类：['编辑工具', '数据处理', 'AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/glowingjade/obsidian-smart-composer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?smart-composer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/glowingjade/obsidian-smart-composer/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Image Converter
 > - 插件作者：xRyul
 > - 插件说明：通过拖放或粘贴到笔记中，将图像从一种格式转换、压缩和调整大小为另一种格式。
-> - 插件分类：[' 图片与 PDF', ' 文件管理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['图片与PDF', '文件管理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/xryul/obsidian-image-converter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?image-converter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/xRyul/obsidian-image-converter/master/README.md)

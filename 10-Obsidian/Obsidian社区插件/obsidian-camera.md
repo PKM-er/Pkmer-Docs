@@ -20,7 +20,7 @@ modified: 20240104120528
 > - 插件名称：Obsidian Camera
 > - 插件作者：Aldrin Jenson
 > - 插件说明：可以通过你对应设备谁想投，拍摄照片和视频记录，将其保存在仓库中，并创建并粘贴链接到记录。【注意此插件并非适配所有的笔记本和移动端手机】
-> - 插件分类：[' 编辑器 ', ' 第三方工具集成 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['编辑器', '第三方工具集成', '效率', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aldrinjenson/obsidian-camera)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-camera)
 

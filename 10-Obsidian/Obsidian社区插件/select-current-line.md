@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Select current line
 > - 插件作者：Gokul
 > - 插件说明：选择光标所在的当前行。按下“ESC”键进行选择。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gokulk16/select-current-line-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?select-current-line)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gokulk16/select-current-line-plugin/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TickTickSync
 > - 插件作者：thesamim
 > - 插件说明：Sync TickTick tasks to Obsidian, and Obsidian tasks to TickTick
-> - 插件分类：[' 任务管理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/thesamim/TickTickSync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tickticksync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/thesamim/TickTickSync/master/README.md)

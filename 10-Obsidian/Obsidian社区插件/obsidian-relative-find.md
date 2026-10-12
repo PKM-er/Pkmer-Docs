@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Relative Find
 > - 插件作者：phibr0
 > - 插件说明：这个插件可以让你根据你的光标位置搜索。
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/phibr0/obsidian-relative-find)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-relative-find)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/obsidian-relative-find/master/README.md)

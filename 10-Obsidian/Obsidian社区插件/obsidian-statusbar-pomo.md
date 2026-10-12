@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Status Bar Pomodoro Timer
 > - 插件作者：kzhovn
 > - 插件说明：将番茄钟添加到你的状态栏中。
-> - 插件分类：[' 界面优化 ', ' 时间管理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kzhovn/statusbar-pomo-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-statusbar-pomo)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kzhovn/statusbar-pomo-obsidian/master/README.md)

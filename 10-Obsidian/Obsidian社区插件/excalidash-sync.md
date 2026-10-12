@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ExcaliDash sync
 > - 插件作者：SirEdvin
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。可以把仓库前置元数据里的Excalidraw绘图同步到ExcaliDash中。
-> - 插件分类：['第三方工具集成', '图表与可视化', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '图表与可视化', '白板', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/siredvin/excalidash-obsidian-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?excalidash-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/siredvin/excalidash-obsidian-sync/master/README.md)

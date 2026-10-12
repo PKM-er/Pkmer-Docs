@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Jira Linker
 > - 插件作者：Steven Zilberberg
 > - 插件说明：快速将 Jira 问题标签格式化为指向您的 Jira 实例的链接。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/srz2/obsidian-jira-linker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?jira-linker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/srz2/obsidian-jira-linker/master/README.md)

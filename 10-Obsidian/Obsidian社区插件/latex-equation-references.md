@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Latex Equation References
 > - 插件作者：georgrasumov
 > - 插件说明：它能使用标签自动给公式编号。
-> - 插件分类：['编辑工具', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/georgrasumov/Obsidian-Latex-Equation-References)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?latex-equation-references)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/georgrasumov/Obsidian-Latex-Equation-References/master/README.md)

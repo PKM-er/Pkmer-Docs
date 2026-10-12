@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Marp Slides
 > - 插件作者：Samuele Cozzi
 > - 插件说明：在 Obsidian 中创建 Marp 演示文稿。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/samuele-cozzi/obsidian-marp-slides)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?marp-slides)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/samuele-cozzi/obsidian-marp-slides/main/README.md)

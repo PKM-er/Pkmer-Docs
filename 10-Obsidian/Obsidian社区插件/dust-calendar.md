@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dust Calendar
 > - 插件作者：纳米级尘埃
 > - 插件说明：更符合中国习惯的日历，可以显示农历、节气、节假日、调休信息，支持月视图和年视图切换，支持关联创建周期性笔记。
-> - 插件分类：[' 日历与时间 ', ' 笔记管理 ', ' 关联笔记 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '笔记管理', '关联笔记', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/a-nano-dust/dust-obsidian-calendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dust-calendar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/a-nano-dust/dust-obsidian-calendar/master/README.md)

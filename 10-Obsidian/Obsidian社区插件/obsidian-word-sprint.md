@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Word Sprint
 > - 插件作者：Andrew Lombardi
 > - 插件说明：为你的写作项目（如 Nanowrimo）提供 Word Sprint 功能
-> - 插件分类：[' 任务管理 ', ' 学习 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '学习', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kinabalu/obsidian-word-sprint)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-word-sprint)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/kinabalu/obsidian-word-sprint/master/README.md)

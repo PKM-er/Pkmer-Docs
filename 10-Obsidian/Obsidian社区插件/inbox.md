@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Inbox
 > - 插件作者：Zachatoo
 > - 插件说明：如果“收件箱”笔记中有要处理的数据，则在启动时显示应用程序通知。
-> - 插件分类：[' 第三方工具集成 ', ' 任务管理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '任务管理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Zachatoo/obsidian-inbox)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?inbox)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Zachatoo/obsidian-inbox/main/README.md)

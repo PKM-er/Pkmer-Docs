@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Collapse Node
 > - 插件作者：Boninall
 > - 插件说明：在画布中折叠节点。
-> - 插件分类：[' 编辑工具 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/quorafind/obsidian-collapse-node)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?collapse-node)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Collapse-Node/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note Splitter
 > - 插件作者：Trey Wallis
 > - 插件说明：将一个注释根据分隔符拆分为单独的注释。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/trey-wallis/obsidian-note-splitter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-splitter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/decaf-dev/obsidian-note-splitter/master/README.md)

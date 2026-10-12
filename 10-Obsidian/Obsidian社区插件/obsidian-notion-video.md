@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Notion Video Embed
 > - 插件作者：lastknightcoder
 > - 插件说明：在 Obsidian 中嵌入您的 Notion 视频
-> - 插件分类：[' 界面优化 ', ' 多媒体 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '多媒体', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/LastKnightCoder/obsidian-notion-video)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-notion-video)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/LastKnightCoder/obsidian-notion-video/master/README.md)

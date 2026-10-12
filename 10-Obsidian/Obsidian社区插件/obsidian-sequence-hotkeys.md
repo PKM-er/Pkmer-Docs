@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sequence Hotkeys
 > - 插件作者：Ruan Moolman
 > - 插件说明：这个插件允许你使用按键序列而不是单个和弦来设置热键。
-> - 插件分类：[' 快捷键 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/moolmanruan/obsidian-sequence-hotkeys)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-sequence-hotkeys)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/moolmanruan/obsidian-sequence-hotkeys/master/README.md)

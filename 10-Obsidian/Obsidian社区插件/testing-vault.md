@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Testing Vault
 > - 插件作者：Michael Pedersen
 > - 插件说明：具有笔记、前言、标签、孤立和叶子笔记之间链接的随机化保险库生成器。
-> - 插件分类：[' 数据处理 ', ' 笔记与日志 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '笔记与日志', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pedersen/obsidian-testing-vault)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?testing-vault)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pedersen/obsidian-testing-vault/master/README.md)

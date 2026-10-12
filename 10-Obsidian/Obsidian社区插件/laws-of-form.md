@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Laws of Form
 > - 插件作者：Kevin German
 > - 插件说明：允许您创建、管理和显示形式的法则表达式，例如 ((a)) (b) = a (b)。
-> - 插件分类：[' 编辑工具 ', ' 模板与链接处理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '模板与链接处理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Kevger/obsidian-laws-of-form)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?laws-of-form)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Kevger/obsidian-laws-of-form/main/README.md)

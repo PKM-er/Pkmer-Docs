@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Knowledge Overview
 > - 插件作者：lingji-yidong
 > - 插件说明：可以用人工智能生成结构化的主题概述。
-> - 插件分类：['学习与教育', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lingji-yidong/obsidian-knowledge-overview)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?knowledge-overview)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lingji-yidong/obsidian-knowledge-overview/master/README.md)

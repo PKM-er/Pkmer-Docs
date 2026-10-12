@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Arrows
 > - 插件作者：xefyrdev
 > - 插件说明：直接输入实际的箭头字符，无需复制粘贴。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/xefyrdev/obsidian-arrows)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?arrows)
 

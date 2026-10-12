@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TODO Wrangler
 > - 插件作者：Jeel Shah
 > - 插件说明：整理您的待办事项并将它们放在文件底部。
-> - 插件分类：[' 任务管理 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jeel-shah/todo-wrangler)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?wrangle-todos)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Jeel-Shah/todo-wrangler/main/README.md)

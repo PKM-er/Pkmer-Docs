@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Prettier Format
 > - 插件作者：Andrew Lisowski
 > - 插件说明：对您的笔记进行主观格式化。
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hipstersmoothie/obsidian-plugin-prettier)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-plugin-prettier)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hipstersmoothie/obsidian-plugin-prettier/main/README.md)

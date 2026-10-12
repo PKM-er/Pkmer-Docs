@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Embedding
 > - 插件作者：shuxueshuxue
 > - 插件说明：它可以利用嵌入技术实现笔记的语义相似度分析。
-> - 插件分类：['搜索与排序', '数据分析', '自动化与AI', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['搜索与排序', '数据分析', '自动化与AI', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/shuxueshuxue/obsidian-embedding-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?embedding)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/shuxueshuxue/obsidian-embedding-plugin/master/README.md)

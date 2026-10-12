@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sync Contacts on macOS
 > - 插件作者：Marcel Schöckel
 > - 插件说明：将您的联系人从 macOS 同步到您的 Obsidian Vault。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/motschel123/Mac-Contact-Sync-Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sync-contacts-macos)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/motschel123/Mac-Contact-Sync-Obsidian/main/README.md)

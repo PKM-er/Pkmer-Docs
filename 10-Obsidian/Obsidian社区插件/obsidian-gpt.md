@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：GPT
 > - 插件作者：Jonathan Miller
 > - 插件说明：Obsidian 编辑器中通过 API 使用 GPT 和大型语言模型完成
-> - 插件分类：[' 编辑工具 ', ' 自动化与 AI', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自动化与AI', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jmilldotdev/obsidian-gpt)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-gpt)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jmilldotdev/obsidian-gpt/main/README.md)

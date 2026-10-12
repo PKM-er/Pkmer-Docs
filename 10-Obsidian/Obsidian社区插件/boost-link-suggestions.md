@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Boost Link Suggestions
 > - 插件作者：Jacob Levernier
 > - 插件说明：一个替代的内联链接建议者，可以按链接数量和手动提升排序结果。
-> - 插件分类：[' 搜索与排序 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jglev/obsidian-boost-link-suggestions)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?boost-link-suggestions)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jglev/obsidian-boost-link-suggestions/main/README.md)

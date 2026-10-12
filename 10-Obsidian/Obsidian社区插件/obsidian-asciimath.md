@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian asciimath
 > - 插件作者：widcardw
 > - 插件说明：为 Obsidian 添加 Asciimath 支持。
-> - 插件分类：[' 编辑工具 ', ' 学习与教育 ', ' 数学与金融 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '学习与教育', '数学与金融', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/widcardw/obsidian-asciimath)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-asciimath)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/widcardw/obsidian-asciimath/main/README.md)

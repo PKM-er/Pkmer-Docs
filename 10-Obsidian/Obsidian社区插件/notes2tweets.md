@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Notes 2 Tweets
 > - 插件作者：Tejas Sharma
 > - 插件说明：自动从您记录的所有笔记中生成推文。
-> - 插件分类：[' 自动化与 AI', ' 数据处理 ', ' 社交与社区 ', 'obsidian 插件 ']
+> - 插件分类：['自动化与AI', '数据处理', '社交与社区', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Tej-Sharma/notes2tweets-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?notes2tweets)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Tej-Sharma/notes2tweets-obsidian/main/README.md)

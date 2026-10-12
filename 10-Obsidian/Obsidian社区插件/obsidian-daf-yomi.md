@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Daf Yomi
 > - 插件作者：lyonsquark
 > - 插件说明：准备达夫读书笔记
-> - 插件分类：[' 笔记与日志 ', ' 链接 ', 'obsidian 插件 ']
+> - 插件分类：['笔记与日志', '链接', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lyonsquark/obsidian-daf-yomi)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-daf-yomi)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lyonsquark/obsidian-daf-yomi/main/README.md)

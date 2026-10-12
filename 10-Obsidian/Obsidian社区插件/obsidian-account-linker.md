@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Account Linker
 > - 插件作者：qwegat
 > - 插件说明：用于在前台描述外部服务账户的插件
-> - 插件分类：[' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/qwegat/Obsidian-Account-Linker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-account-linker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/qwegat/Obsidian-Account-Linker/master/README.md)

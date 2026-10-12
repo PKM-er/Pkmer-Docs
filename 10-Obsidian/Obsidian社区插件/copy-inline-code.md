@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Copy Inline Code
 > - 插件作者：Ondrej Zavodny
 > - 插件说明：只需单击一次即可轻松复制内联代码元素的内容。
-> - 插件分类：[' 编辑工具 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Alddar/obsidian-copy-inline-code-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copy-inline-code)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Alddar/obsidian-copy-inline-code-plugin/main/README.md)

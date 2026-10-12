@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Audio Notes
 > - 插件作者：Jason Maldonis
 > - 插件说明：为音频文件创建笔记。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 多媒体 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '多媒体', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jjmaldonis/obsidian-audio-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-audio-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jjmaldonis/obsidian-audio-notes/master/README.md)

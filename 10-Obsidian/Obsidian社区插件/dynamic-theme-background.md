@@ -16,7 +16,7 @@ modified: 20250812211915
 > - 插件名称：dynamic-theme-background
 > - 插件作者：Sean2077
 > - 插件说明：在 Obsidian 中打造你的专属壁纸库
-> - 插件分类：[' 美化工具 ', ' 主题工具 ', 'obsidian 插件 ']
+> - 插件分类：['美化工具', '主题工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sean2077/obsidian-dynamic-theme-background)
 > - 国内下载地址：
 > - 自述文件：[README](https://github.com/sean2077/obsidian-dynamic-theme-background/blob/master/README.zh.md)

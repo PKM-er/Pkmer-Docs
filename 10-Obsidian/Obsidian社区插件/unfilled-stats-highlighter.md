@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Unfilled Stats Highlighter
 > - 插件作者：Zachary Hynes
 > - 插件说明：通过自动识别和添加未填写的统计数据，简化您的统计/习惯追踪过程，使其更容易被发现和填写。
-> - 插件分类：[' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/White7292/obsidian-hd-unfilled-stats-highlighter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?unfilled-stats-highlighter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/White7292/obsidian-hd-unfilled-stats-highlighter/master/README.md)

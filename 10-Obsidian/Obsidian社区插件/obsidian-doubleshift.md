@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Doubleshift
 > - 插件作者：Qwyntex
 > - 插件说明：按两次 Shift（或其他任何键），就像在 IntelliJ 中一样，打开命令面板，并创建自己的快捷键。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Qwyntex/doubleshift)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-doubleshift)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Qwyntex/doubleshift/master/README.md)

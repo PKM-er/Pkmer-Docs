@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Topic Linking
 > - 插件作者：Liam Magee
 > - 插件说明：将 PDF 文件和网页链接转换为 Markdown，并从 Markdown 创建主题
-> - 插件分类：[' 文件管理 ', ' 文字处理 ', 'zotero', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '文字处理', 'zotero', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/liammagee/obsidian-topic-linking)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-topic-linking)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/liammagee/obsidian-topic-linking/master/README.md)

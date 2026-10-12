@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Custom File Extensions and Types
 > - 插件作者：MeepTech
 > - 插件说明：这个插件允许从应用设置简单而模块化地控制哪些视图打开哪些文件扩展名。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MeepTech/obsidian-custom-file-extensions-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-custom-file-extensions-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MeepTech/obsidian-custom-file-extensions-plugin/master/README.md)

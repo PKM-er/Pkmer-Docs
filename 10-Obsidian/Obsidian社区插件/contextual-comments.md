@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Contextual Comments
 > - 插件作者：1C0D
 > - 插件说明：一般评论或与语言相关的内容（在代码块中）+ 2 个命令修剪末尾的行（所有文档/代码块）。
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/1C0D/Obsidian-Contextual-Comments)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?contextual-comments)
 

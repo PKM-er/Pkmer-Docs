@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Shell commands
 > - 插件作者：Jarkko Linnanvirta
 > - 插件说明：定义你想通过命令面板、热键、URI 链接或自动事件执行的系统命令。例如：打开外部应用程序或执行自动文件修改。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Taitava/obsidian-shellcommands)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-shellcommands)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Taitava/obsidian-shellcommands/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：DROS Doctrinal Copilot
 > - 插件作者：Jimmy Chen
 > - 插件说明：DROS 辅助插件，用于双轨推理和教义卡片锚定。——此插件尚未经过 Obsidian 工作人员的人工审核。
-> - 插件分类：['自动化与AI', '学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['自动化与AI', '学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/celestial105/dros-doctrinal-copilot)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dros-doctrinal-copilot)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/celestial105/dros-doctrinal-copilot/master/README.md)

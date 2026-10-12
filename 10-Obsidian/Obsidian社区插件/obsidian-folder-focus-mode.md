@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Folder Focus Mode
 > - 插件作者：grochowski
 > - 插件说明：将文件资源管理器的焦点定位到所选择的文件夹及其文件和子目录，同时隐藏所有其他元素。
-> - 插件分类：[' 文件管理 ', ' 界面优化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '界面优化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/grochowski/obsidian-folder-focus-mode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-folder-focus-mode)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/grochowski/obsidian-folder-focus-mode/main/README.md)

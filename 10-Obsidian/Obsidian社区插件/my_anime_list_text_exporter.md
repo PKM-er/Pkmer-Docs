@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：my anime list text exporter
 > - 插件作者：XmoncocoX
 > - 插件说明：为您的笔记添加动漫数据。
-> - 插件分类：[' 数据处理 ', ' 第三方工具集成 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '第三方工具集成', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Xmoncoco/my_anime_list_text_exporter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?my_anime_list_text_exporter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Xmoncoco/my_anime_list_text_exporter/main/README.md)

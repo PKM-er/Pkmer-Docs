@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dynbedded
 > - 插件作者：Marcus Breiden
 > - 插件说明：动态嵌入为 Obsidian.md
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MMoMM-org/obsidian-dynbedded)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dynbedded)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MMoMM-org/obsidian-dynbedded/main/README.md)

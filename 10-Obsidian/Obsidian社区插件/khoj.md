@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Khoj
 > - 插件作者：Khoj AI
 > - 插件说明：自然、增量搜索你的第二个大脑🦅
-> - 插件分类：[' 自动化与 AI', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['自动化与AI', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/khoj-ai/khoj)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?khoj)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/khoj-ai/khoj/master/README.md)

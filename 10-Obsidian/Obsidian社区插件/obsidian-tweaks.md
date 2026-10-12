@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ObsidianTweaks
 > - 插件作者：Jeppe Klitgaard
 > - 插件说明：提供了一些快捷键和小功能，包括快速改变大纲等级，加粗，斜体设置等等。部分功能官方已这次 hi 对应的快捷键。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JeppeKlitgaard/ObsidianTweaks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-tweaks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JeppeKlitgaard/ObsidianTweaks/master/README.md)

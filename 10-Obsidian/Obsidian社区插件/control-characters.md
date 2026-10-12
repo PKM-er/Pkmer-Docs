@@ -16,7 +16,7 @@ modified: 20230831201044
 > - 插件名称：Control Characters
 > - 插件作者：Johannes Theiner
 > - 插件说明：在编辑模式下显示控制/不可打印字符
-> - 插件分类：['obsidian 插件 ', ' 格式化排版 ', 'word']
+> - 插件分类：['obsidian插件', '格式化排版', 'word']
 > - 项目地址：[点我访问](https://github.com/joethei/obsidian-control-characters)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?control-characters)
 

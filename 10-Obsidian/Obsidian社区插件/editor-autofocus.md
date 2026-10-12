@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Editor Autofocus
 > - 插件作者：Mgussekloo
 > - 插件说明：打开新文件时自动对焦编辑器。
-> - 插件分类：[' 编辑工具 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mgussekloo/obsidian-editor-autofocus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?editor-autofocus)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mgussekloo/obsidian-editor-autofocus/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Timelog
 > - 插件作者：Eddie Blundell
 > - 插件说明：给日期标题下的条目添加时间戳，实现实验室笔记风格的记录。
-> - 插件分类：['日历与时间', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['日历与时间', '编辑工具', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/eddie/obsidian-time-log)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?time-log)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/eddie/obsidian-time-log/master/README.md)

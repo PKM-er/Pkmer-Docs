@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：External Link Helper
 > - 插件作者：Jhonghee Park
 > - 插件说明：这是一个插件，可以让您更容易地将外部链接插入您的笔记中。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nakalsio/obsidian-danpung)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-extlnkhelper-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nakalsio/obsidian-danpung/master/README.md)

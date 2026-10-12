@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Autoplay & Loop
 > - 插件作者：Zerkshop & Wapply
 > - 插件说明：AutoPlay 视频在笔记内外。
-> - 插件分类：[' 多媒体 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['多媒体', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Wapply/obsidian-autoplay-and-loop)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?autoplay-and-loop)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Wapply/obsidian-autoplay-and-loop/main/README.md)

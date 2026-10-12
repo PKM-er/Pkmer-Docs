@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MemoryLane
 > - 插件作者：BangCa
 > - 插件说明：重温并庆祝您生活中的重要时刻，通过个人互动时间轴。通过周年提醒和珍贵回忆，回顾您的历史。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 日历与时间 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/bangca85/obsidian-memorylane-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vn-memory-lane)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/bangca85/obsidian-memorylane-plugin/main/README.md)

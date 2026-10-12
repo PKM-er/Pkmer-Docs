@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Workbench
 > - 插件作者：ryanjamurphy
 > - 插件说明：用于在你的库中快速将内容移动到工作台或者从工作台移除。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ryanjamurphy/workbench-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?workbench-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/workbench-obsidian/master/README.md)

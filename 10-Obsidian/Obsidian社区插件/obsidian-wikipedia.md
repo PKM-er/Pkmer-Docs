@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Wikipedia
 > - 插件作者：Jonathan Miller
 > - 插件说明：从维基百科获取第一节的标题作为笔记的标题。
-> - 插件分类：[' 搜索与排序 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jmilldotdev/obsidian-wikipedia)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-wikipedia)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jmilldotdev/obsidian-wikipedia/master/README.md)

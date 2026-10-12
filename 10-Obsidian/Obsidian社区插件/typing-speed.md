@@ -20,7 +20,7 @@ modified: 20240108121335
 > - 插件名称：Typing speed
 > - 插件作者：supercyp
 > - 插件说明：在状态栏中显示当前打字速度的插件
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件', 'readme']
 > - 项目地址：[点我访问](https://github.com/Supercip971/obsidian-typing-speed)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?typing-speed)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Research Hub
 > - 插件作者：wesswart77
 > - 插件说明：这是一款专为Obsidian打造的专注研究工作区插件：能为任何主题或项目收集资料来源、证据、论点以及综合笔记。
-> - 插件分类：['学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/wesswart77/obsidian-research-hub)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?research-hub)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/wesswart77/obsidian-research-hub/master/README.md)

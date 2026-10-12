@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Paste image Png to Jpeg
 > - 插件作者：musug
 > - 插件说明：自动处理被粘贴到笔记中图像 (png jpg jpeg)1，将图像转换为 jpeg 格式并压缩它 2，将图像存储在当前笔记目录中的图像文件夹 3，将图像的名称更改为当前笔记的名称加上一个数字
-> - 插件分类：[' 图片与 PDF', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['图片与PDF', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/musug/obsidian-paste-png-to-jpeg)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-paste-png-to-jpeg)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/musug/obsidian-paste-png-to-jpeg/main/README.md)

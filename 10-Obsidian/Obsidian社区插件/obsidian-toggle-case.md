@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Toggle Case
 > - 插件作者：automattech
 > - 插件说明：此插件允许您设置 x 在“小写”、“大写”和“标题大小写”之间切换的快捷键。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MatthewAlner/obsidian-toggle-case)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-toggle-case)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MatthewAlner/obsidian-toggle-case/master/README.md)

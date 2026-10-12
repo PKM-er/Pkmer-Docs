@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Attachment Manager
 > - 插件作者：chenfeicqq
 > - 插件说明：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。
-> - 插件分类：[' 文件管理 ', ' 编辑工具 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编辑工具', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chenfeicqq/obsidian-attachment-manager)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?attachment-manager)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chenfeicqq/obsidian-attachment-manager/master/README.md)

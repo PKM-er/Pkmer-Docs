@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Text Progress Bar
 > - 插件作者：Michael Adams
 > - 插件说明：在你的笔记中显示低保真文本进度条。
-> - 插件分类：[' 样式与美化 ', ' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/michaeladams/obsidian-text-progress-bar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?text-progress-bar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/michaeladams/obsidian-text-progress-bar/master/README.md)

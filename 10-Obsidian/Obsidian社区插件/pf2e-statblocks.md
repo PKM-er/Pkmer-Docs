@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PF2e Statblocks
 > - 插件作者：Tyler Pixley
 > - 插件说明：使用仅基于 Markdown 的语法清晰地呈现 Pathfinder 2e 的统计数据块。
-> - 插件分类：[' 表格 ', ' 样式与美化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '样式与美化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pixley/pf2e-statblock-for-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pf2e-statblocks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pixley/pf2e-statblock-for-obsidian/main/README.md)

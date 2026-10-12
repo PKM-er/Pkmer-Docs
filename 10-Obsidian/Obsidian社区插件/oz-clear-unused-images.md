@@ -20,7 +20,7 @@ modified: 20230831175634
 > - 插件名称：clear unused images
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：清除笔记中不再使用的图像以节省空间。
-> - 插件分类：[' 自动化 ', ' 文件管理 ', ' 图片 ', ' 附件 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '快速删除', '图片处理']
 > - 插件项目地址：[点我跳转](https://github.com/ozntel/oz-clear-unused-images-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?oz-clear-unused-images)
 

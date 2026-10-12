@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ArchWiki Reader
 > - 插件作者：Lucy Gschwantner
 > - 插件说明：在 Obsidian 中直接阅读任何 ArchWiki 页面
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Jackboxx/archwiki-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?archwiki-reader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucifayr/archwiki-obsidian/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sort Frontmatter
 > - 插件作者：Kanzi
 > - 插件说明：递归排序前置内容
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mariomui/obsidian-sort-frontmatter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sort-frontmatter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mariomui/obsidian-sort-frontmatter/master/README.md)

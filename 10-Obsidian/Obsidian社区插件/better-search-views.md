@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Better Search Views
 > - 插件作者：Ivan Lednev
 > - 插件说明：升级全局搜索、反向链接和查询，使用类似大纲的上下文树。
-> - 插件分类：[' 搜索与排序 ', ' 模板与链接处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '模板与链接处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ivan-lednev/better-search-views)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-search-views)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ivan-lednev/better-search-views/master/README.md)

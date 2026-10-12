@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Positioning Toolkit
 > - 插件作者：valleytheknight
 > - 插件说明：自动将画布卡片布局并排列成网格状，用快捷键拿起和放置卡片，而不用手动拖动，还能通过文本搜索在一堆卡片里找到某张卡片。——这款插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['自动化与AI', '搜索与排序', '快捷键', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '搜索与排序', '快捷键', '效率工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/valleytheknight/Canvas-Positioning-Toolkit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-positioning-toolkit)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/valleytheknight/Canvas-Positioning-Toolkit/master/README.md)

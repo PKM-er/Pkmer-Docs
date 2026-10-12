@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Slipbox Desk
 > - 插件作者：John Gargalionis
 > - 插件说明：A paper-like Zettelkasten: addressed cards, a browsable sequence, and a desk to lay them out on. - This plugin has not been manually reviewed by Obsidian staff.
-> - 插件分类：['效率工具', '白板学术与科研', '文件管理', 'obsidian插件']
+> - 插件分类：['效率工具', '学术与科研', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/johngarg/obsidian-slipbox)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?slipbox)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/johngarg/obsidian-slipbox/master/README.md)

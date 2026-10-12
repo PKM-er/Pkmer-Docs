@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：historica
 > - 插件作者：Nhan Nguyen
 > - 插件说明：Intelligently generates timeline from your content
-> - 插件分类：[' 数据处理 ', ' 界面优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '界面优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nhannht/obsidian-historica)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?historica)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nhannht/obsidian-historica/master/README.md)

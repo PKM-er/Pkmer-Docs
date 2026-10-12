@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Youtube Summarizer
 > - 插件作者：ozdemir08
 > - 插件说明：使用 ChatGPT 3.5 总结 Youtube 视频。
-> - 插件分类：[' 数据处理 ', ' 自动化与 AI', ' 多媒体 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '自动化与AI', '多媒体', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ozdemir08/youtube-video-summarizer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?youtube-summarizer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozdemir08/youtube-video-summarizer/master/README.md)

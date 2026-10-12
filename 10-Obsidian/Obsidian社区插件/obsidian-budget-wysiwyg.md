@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Budget WYSIWYG
 > - 插件作者：OwnJoke
 > - 插件说明：这是一个插件，它可以根据您是否正在输入来自动切换预览模式和源模式。
-> - 插件分类：[' 编辑工具 ', ' 界面优化 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '界面优化', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/OwnJoke/obsidian-budget-wysiwyg)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-budget-wysiwyg)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/OwnJoke/obsidian-budget-wysiwyg/main/README.md)

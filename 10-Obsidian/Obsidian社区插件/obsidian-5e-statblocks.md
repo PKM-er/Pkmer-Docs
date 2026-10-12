@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Fantasy Statblocks
 > - 插件作者：Jeremy Valentine
 > - 插件说明：在 Obsidian 中创建 TTRPG 风格的模块，TTPRG 可以理解做桌面角色扮演游戏，比如著名的《龙与地下城》
-> - 插件分类：[' 表格 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/javalent/fantasy-statblocks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-5e-statblocks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/fantasy-statblocks/main/README.md)

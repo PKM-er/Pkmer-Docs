@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cannoli
 > - 插件作者：blindmansion
 > - 插件说明：在 Obsidian 画布上创建和运行 LLM 脚本。
-> - 插件分类：[' 第三方工具集成 ', ' 文字处理 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文字处理', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/DeabLabs/cannoli)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cannoli)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/DeabLabs/cannoli/main/README.md)

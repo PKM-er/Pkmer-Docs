@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Scholar Sidekick - Cite from any identifier
 > - 插件作者：mlava
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。粘贴DOI、PMID、ISBN或者arXiv编号，就能把它替换成格式规范的引用内容。有一万多种CSL样式可选，不需要引用管理器。
-> - 插件分类：['学习与教育', '文字处理', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '文字处理', '编辑工具', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mlava/scholar-sidekick-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?scholar-sidekick)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mlava/scholar-sidekick-obsidian/master/README.md)

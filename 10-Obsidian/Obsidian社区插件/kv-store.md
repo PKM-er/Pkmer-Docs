@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：KV Store
 > - 插件作者：Darren-project
 > - 插件说明：Adds a key-value store. Use it to store and retrieve key-value pairs in your vault.
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Darren-project/obsidian-kv)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?kv-store)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Darren-project/obsidian-kv/main/README.md)

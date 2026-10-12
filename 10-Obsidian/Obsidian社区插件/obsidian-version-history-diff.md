@@ -21,7 +21,7 @@ modie240: 20231025153747
 > - 插件名称：Version History Diff (Sync, File Recovery & Git)
 > - 插件作者：kometenstaub
 > - 插件说明：比较同步和文件恢复插件以及当前文件的 Git 版本历史。添加一个命令来打开同步插件的版本历史。
-> - 插件分类：['obsidian 插件 ',' 文件历史 ',' 文件恢复 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kometenstaub/obsidian-version-history-diff)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-version-history-diff)
 

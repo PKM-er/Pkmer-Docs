@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Expiration-Date-Tracker
 > - 插件作者：Marius Wörfel
 > - 插件说明：跟踪所有过期日期，例如，您的食品杂货。
-> - 插件分类：[' 数据处理 ', ' 文件管理 ', ' 日历与时间 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文件管理', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Raboro/obsidian-expiration-date-tracker-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?expiration-date-tracker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Raboro/obsidian-expiration-date-tracker-plugin/main/README.md)

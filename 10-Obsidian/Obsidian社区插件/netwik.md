@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Netwik
 > - 插件作者：Boris Bondarenko
 > - 插件说明：.联合保险库。这个插件提供访问全球笔记网络的功能。任何人都可以创建、查看或编辑笔记。所有的更改都将在所有参与者之间同步。
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fivol/netwik-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?netwik)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fivol/netwik-obsidian/master/README.md)

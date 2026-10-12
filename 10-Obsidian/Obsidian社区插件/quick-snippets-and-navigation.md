@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Quick snippets and navigation
 > - 插件作者：@aciq
 > - 插件说明：键盘导航上/下标题 - 可配置的默认代码块和回调 - 通过键盘快捷键复制代码块
-> - 插件分类：[' 编辑工具 ', ' 导航与状态栏 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '导航与状态栏', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aciq/obsidian-keyboard-shortcuts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quick-snippets-and-navigation)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ieviev/obsidian-keyboard-shortcuts/main/README.md)

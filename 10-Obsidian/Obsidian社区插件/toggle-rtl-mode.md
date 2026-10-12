@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Toggle RTL mode
 > - 插件作者：Yoni Asulin
 > - 插件说明：Toggle RTL mode using command or ribbon action
-> - 插件分类：[' 编辑工具 ', ' 界面优化 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '界面优化', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/YoniA/toggle-rtl-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?toggle-rtl-mode)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/YoniA/toggle-rtl-obsidian-plugin/master/README.md)

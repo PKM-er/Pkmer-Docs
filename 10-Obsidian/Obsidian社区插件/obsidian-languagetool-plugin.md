@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：LanguageTool Integration
 > - 插件作者：Clemens Ertle
 > - 插件说明：借助语言工具进行高级拼写/语法检查
-> - 插件分类：[' 语言处理 ', ' 编辑工具 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['语言处理', '编辑工具', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Clemens-E/obsidian-languagetool-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-languagetool-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Clemens-E/obsidian-languagetool-plugin/master/README.md)

@@ -30,7 +30,7 @@ modified: 20230829153844
 > - 插件版本：1.6.1
 > - 插件作者：AidenLx
 > - 插件描述：为表格增加合并列和行和省略表头的功能
-> - 插件分类：[' 编辑工具 ', ' 界面相关 ', ' 表格 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '表格合并利器', '单元格跨列合并', '单元跨越行合并', '块级元素', '多个表头', '表标题', '省略表头']
 > - 插件项目地址：[点我跳转](https://github.com/aidenlx/table-extended)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?table-extended)
 

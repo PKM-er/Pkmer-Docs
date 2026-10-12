@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Generate Timeline
 > - 插件作者：Shanshuimei
 > - 插件说明：根据任意时间属性自动从标签或文件夹生成时间线。
-> - 插件分类：['数据处理', '自动化与AI', '时间管理', 'obsidian插件']
+> - 插件分类：['数据处理', '自动化与AI', '日历与时间', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Shanshuimei/obsidian-generate-timeline)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?generate-timeline)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Shanshuimei/obsidian-generate-timeline/main/README.md)

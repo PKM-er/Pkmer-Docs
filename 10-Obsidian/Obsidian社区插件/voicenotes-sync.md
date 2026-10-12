@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Voicenotes Sync
 > - 插件作者：Andrew Lombardi
 > - 插件说明：一个用于将 Voicenotes.com 数据同步到笔记中的插件
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 链接 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '链接', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mysticcoders/voicenotes-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?voicenotes-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mysticcoders/voicenotes-sync/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：BMO Chatbot
 > - 插件作者：Longy2k
 > - 插件说明：通过使用大型语言模型（LLM），提高您的知识管理能力，使聊天机器人能够理解上下文并检索相关信息。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/longy2k/obsidian-bmo-chatbot)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bmo-chatbot)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/longy2k/obsidian-bmo-chatbot/main/README.md)

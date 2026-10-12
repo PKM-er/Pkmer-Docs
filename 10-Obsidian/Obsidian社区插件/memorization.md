@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Memorization
 > - 插件作者：Joseph Cochran
 > - 插件说明：使用间隔重复算法（SM-2）生成学习索引笔记。
-> - 插件分类：[' 学习 ', ' 第三方工具集成 ', ' 数据分析 ', 'anki', 'obsidian 插件 ']
+> - 插件分类：['学习', '第三方工具集成', '数据分析', 'anki', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nwindian/Memorization-Plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?memorization)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nwindian/Memorization-Plugin/master/README.md)

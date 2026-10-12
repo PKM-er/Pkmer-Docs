@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Pencil
 > - 插件作者：rcanand
 > - 插件说明：能配合 Apple Pencil 进行无限手写的白板。支持使用铅笔、橡皮擦、选择颜色，在 iPad、桌面端和移动端都能使用。——Obsidian 官方团队尚未对该插件进行人工审核。
-> - 插件分类：['编辑工具', '移动端优化', '多媒体', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '移动端优化', '多媒体', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rcanand/obsidian-pencil)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pencil)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rcanand/obsidian-pencil/master/README.md)

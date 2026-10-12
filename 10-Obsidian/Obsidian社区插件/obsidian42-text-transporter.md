@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian42 - Text Transporter
 > - 插件作者：TfTHacker
 > - 插件说明：您的保险库中文本的高级文本工具
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/TfTHacker/obsidian42-text-transporter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian42-text-transporter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/TfTHacker/obsidian42-text-transporter/main/README.md)

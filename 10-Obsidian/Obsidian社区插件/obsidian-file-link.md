@@ -22,7 +22,7 @@ Obsidian 本身提供了很丰富的插件引用和插入方式，[[Markdown#引
 > - 插件名称：Better File Link
 > - 插件作者：Marc Julian Schwarz
 > - 插件说明：可以很容易地将文件链接添加到笔记中，提供界面化的选择文件
-> - 插件分类：[' 编辑工具 ', ' 图片 ', ' 界面相关 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '可视化编辑', '插入', '效率']
 > - 插件项目地址：[点我跳转](https://github.com/marcjulianschwarz/obsidian-file-link)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-file-link)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Attachment Name Formatting
 > - 插件作者：JYC333
 > - 插件说明：格式化附件名（文件名附件类型索引号.xxx）
-> - 插件分类：[' 文件管理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JYC333/obsidian-attachment-name-formatting)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-attachment-name-formatting)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/JYC333/obsidian-attachment-name-formatting/master/README.md)

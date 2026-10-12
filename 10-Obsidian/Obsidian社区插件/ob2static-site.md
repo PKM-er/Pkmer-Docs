@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Static Site MD Exporter
 > - 插件作者：Yunfi
 > - 插件说明：将特定的笔记导出为一般的 Markdown 文件，以便用于静态页面生成器，如 Hugo、Hexo、Astro 等。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yy4382/obsidian-static-site-export)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ob2static-site)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yy4382/obsidian-static-site-export/master/README.md)

@@ -20,7 +20,7 @@ modified: 20230914153850
 > - 插件名称：Metacopy & URL
 > - 插件作者：Mara-Li
 > - 插件说明：复制一个前文键的值。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['Obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Lisandra-dev/obsidian-metacopy)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-metacopy)
 

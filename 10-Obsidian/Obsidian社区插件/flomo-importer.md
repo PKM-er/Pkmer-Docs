@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Flomo Importer
 > - 插件作者：Jialu Y
 > - 插件说明：将 Flomo 备忘录转换为 Obsidian 笔记。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jia6y/flomo-to-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?flomo-importer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jia6y/flomo-to-obsidian/main/README.md)

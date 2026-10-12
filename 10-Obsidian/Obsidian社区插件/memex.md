@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Memex
 > - 插件作者：worldbrain
 > - 插件说明：在你的书签式第二大脑里搜索、引用并交流。——这款插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['搜索与排序', '学习与教育', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['搜索与排序', '学习与教育', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/worldbrain/obsidian-memex)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?memex)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/worldbrain/obsidian-memex/master/README.md)

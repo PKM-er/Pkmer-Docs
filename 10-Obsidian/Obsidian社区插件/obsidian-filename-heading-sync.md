@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Filename Heading Sync
 > - 插件作者：dvcrn
 > - 插件说明：黑曜石插件，用于保持文件名与文件的第一个标题同步
-> - 插件分类：[' 文件管理 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dvcrn/obsidian-filename-heading-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-filename-heading-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dvcrn/obsidian-filename-heading-sync/master/README.md)

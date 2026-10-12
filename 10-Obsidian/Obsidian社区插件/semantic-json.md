@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Semantic JSON
 > - 插件作者：syntaxasspiral
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。它能把你的画布轻松转化为无需代码的JSON数据结构，还能和大语言模型共享这些数据。
-> - 插件分类：['数据处理', '自动化与AI', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['数据处理', '自动化与AI', '第三方工具集成', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/syntaxasspiral/semantic-json)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?semantic-json)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/syntaxasspiral/semantic-json/master/README.md)

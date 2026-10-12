@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Update Time
 > - 插件作者：Sébastien Dubois
 > - 插件说明：Update front matter to include creation and last update times.
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dsebastien/obsidian-update-time)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?update-time)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dsebastien/obsidian-update-time/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Activity Logger
 > - 插件作者：Creling
 > - 插件说明：记录你的活动，如创建笔记、修改笔记、删除笔记等等。该功能可能在 1.0.0 之后的版本使用异常。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Creling/obsidian-activity-logger)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-activity-logger)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Creling/obsidian-activity-logger/master/README.md)

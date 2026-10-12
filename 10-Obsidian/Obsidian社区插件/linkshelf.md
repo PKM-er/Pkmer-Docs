@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：LinkShelf
 > - 插件作者：Joel Sequeira
 > - 插件说明：将浏览器中的链接直接保存到 Obsidian 中。
-> - 插件分类：[' 第三方工具集成 ', ' 模板与链接处理 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '模板与链接处理', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joelseq/obsidian-linkshelf)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?linkshelf)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/joelseq/obsidian-linkstowr/main/README.md)

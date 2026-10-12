@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Sticky Headings
 > - 插件作者：Shen Shen
 > - 插件说明：粘性标题和显示标题级别
-> - 插件分类：[' 界面优化 ', ' 编辑工具 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '编辑工具', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/imshenshen/obsidian-sticky-heading)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sticky-heading)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/imshenshen/obsidian-sticky-heading/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：List Outline Helper
 > - 插件作者：triangular-sneaky
 > - 插件说明：Utilities to work with list outlines. Currently supports selecting the outline (current line and children)
-> - 插件分类：[' 编辑工具 ', ' 任务管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '任务管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/triangular-sneaky/obsidian-list-outline-helper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?list-outline-helper)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/triangular-sneaky/obsidian-list-outline-helper/main/README.md)

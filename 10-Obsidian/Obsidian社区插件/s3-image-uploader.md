@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：S3 Image Uploader
 > - 插件作者：jvsteiner
 > - 插件说明：一款为 Obsidian 设计的图像上传器，可以让您在 AWS S3 上自行托管图像。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jvsteiner/s3-image-uploader)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?s3-image-uploader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jvsteiner/s3-image-uploader/master/README.md)

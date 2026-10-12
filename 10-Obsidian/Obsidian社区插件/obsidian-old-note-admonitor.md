@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Old Note Admonitor
 > - 插件作者：tadashi-aikawa
 > - 插件说明：这个 Obsidian 插件会在笔记未更新超过特定天数时显示警告。
-> - 插件分类：[' 编辑工具 ', ' 任务管理 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '任务管理', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-old-note-admonitor)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tadashi-aikawa/obsidian-old-note-admonitor/master/README.md)

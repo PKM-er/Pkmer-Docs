@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ZettelFlow
 > - 插件作者：RafaelGB
 > - 插件说明：通过 Canvas 帮助您以 Zettelkasten 的方式创建和管理笔记。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/RafaelGB/Obsidian-ZettelFlow)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?zettelflow)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/RafaelGB/Obsidian-ZettelFlow/main/README.md)

@@ -20,7 +20,7 @@ modified: 20240105184521
 > - 插件名称：Checklist
 > - 插件作者：delashum
 > - 插件说明：将所有笔记待办清单合并到一个视图中，你可以在这个视图种管理和完成相关的任务
-> - 插件分类：[' 任务管理 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '效率', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/delashum/obsidian-checklist-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-checklist-plugin)
 

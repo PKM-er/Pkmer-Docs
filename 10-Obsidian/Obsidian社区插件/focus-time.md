@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Focus Time
 > - 插件作者：AstraDev
 > - 插件说明：跟踪每个笔记所花费的时间并可视化数据。
-> - 插件分类：['时间管理', '数据分析', '图表与可视化', 'obsidian插件']
+> - 插件分类：['日历与时间', '数据分析', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/astradev123/obsidian-focus-time)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?focus-time)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/astradev123/obsidian-focus-time/main/README.md)

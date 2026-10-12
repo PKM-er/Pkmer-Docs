@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Minio Uploader
 > - 插件作者：Seebin
 > - 插件说明：上传图片、视频、音频、PDF 和其他文件到 Minio OSS。
-> - 插件分类：[' 文件管理 ', ' 第三方工具集成 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '第三方工具集成', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/seebin/obsidian-minio-uploader-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?minio-uploader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/seebin/obsidian-minio-uploader-plugin/master/README.md)

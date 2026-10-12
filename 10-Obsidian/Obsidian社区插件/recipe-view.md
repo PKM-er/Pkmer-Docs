@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Recipe view
 > - 插件作者：lachholden
 > - 插件说明：在烹饪时，将您的笔记视为互动的食谱卡片。
-> - 插件分类：[' 界面优化 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lachholden/obsidian-recipe-view)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?recipe-view)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lachholden/obsidian-recipe-view/master/README.md)

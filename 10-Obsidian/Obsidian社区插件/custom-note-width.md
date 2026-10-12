@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Custom Note Width
 > - 插件作者：0skater0
 > - 插件说明：毫不费力地单独更改每个音符的线宽。该插件提供多种自定义体验的方式，使调整线宽既高效又用户友好。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/0skater0/obsidian-custom-note-width)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?custom-note-width)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/0skater0/obsidian-custom-note-width/main/README.md)

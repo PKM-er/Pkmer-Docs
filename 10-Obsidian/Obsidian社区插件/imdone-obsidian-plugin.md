@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Open cards in imdone from obsidian.
 > - 插件作者：saxmanjes
 > - 插件说明：从 Obsidian 中打开 imdone 看板中的卡片，从 imdone 中在 Obsidian 中打开卡片的源头。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/imdone/imdone-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?imdone-obsidian-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/imdone/imdone-obsidian-plugin/master/README.md)

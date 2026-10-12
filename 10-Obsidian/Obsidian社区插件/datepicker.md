@@ -20,7 +20,7 @@ modified: 20240816003304
 > - 插件名称：Datepicker
 > - 插件作者：Mostafa Mohamed
 > - 插件说明：使用日期选择器在您的 Markdown 笔记中修改和插入日期/时间。
-> - 插件分类：[' 日期与时间 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['日期与时间', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joycode-hub/datepicker-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?datepicker)
 

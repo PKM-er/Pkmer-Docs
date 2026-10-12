@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Rendered Block Link Suggestions
 > - 插件作者：Ryota Ushio
 > - 插件说明：升级 Obsidian 内置的链接建议，使用块级 Markdown 渲染。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/RyotaUshio/obsidian-rendered-block-link-suggestions)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?rendered-block-link-suggestions)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/RyotaUshio/obsidian-rendered-block-link-suggestions/master/README.md)

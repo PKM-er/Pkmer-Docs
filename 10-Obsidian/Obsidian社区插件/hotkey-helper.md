@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hotkey Helper
 > - 插件作者：PJ Eby
 > - 插件说明：一个快捷键助手，让你更容易的管理 Obsidian 的快捷键。
-> - 插件分类：[' 快捷键 ', ' 界面优化 ', ' 插件管理 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '界面优化', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pjeby/hotkey-helper)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hotkey-helper)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pjeby/hotkey-helper/master/README.md)

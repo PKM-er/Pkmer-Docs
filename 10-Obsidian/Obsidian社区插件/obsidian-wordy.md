@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Wordy
 > - 插件作者：nqthqn
 > - 插件说明：使用 Datamuse API 查找同义词、押韵词等等。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nqthqn/obsidian-wordy)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-wordy)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nqthqn/obsidian-wordy/master/README.md)

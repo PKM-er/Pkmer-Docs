@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Feedly Annotations Sync
 > - 插件作者：Nick Felker
 > - 插件说明：将 Feedly 的高亮和注释同步到您保险库中的一个文件夹。
-> - 插件分类：['文件管理', '自动化与AI', '插件管理', 'obsidian插件']
+> - 插件分类：['文件管理', '自动化与AI', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fleker/feedly-for-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?feedly-annotations)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Fleker/feedly-for-obsidian/master/README.md)

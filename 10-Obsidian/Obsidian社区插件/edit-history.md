@@ -16,7 +16,7 @@ modified: 20240108120104
 > - 插件名称：Edit History
 > - 插件作者：Antonio Tejada
 > - 插件说明：保留您的笔记的自动编辑历史记录，可以查看历史记录，与之对比或恢复以前的编辑。
-> - 插件分类：['Obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/antoniotejada/obsidian-edit-history)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?edit-history)
 

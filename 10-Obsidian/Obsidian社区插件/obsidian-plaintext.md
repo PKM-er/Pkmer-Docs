@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Plaintext for Obsidian
 > - 插件作者：dbarenholz
 > - 插件说明：允许打开指定文件作为纯文本。
-> - 插件分类：[' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dbarenholz/obsidian-plaintext)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-plaintext)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dbarenholz/obsidian-plaintext/master/README.md)

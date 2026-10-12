@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Omg.publish
 > - 插件作者：May Meow
 > - 插件说明：将选定的文本发布到 OMG.lol 状态日志的 Obsidian 插件
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MayMeow/obsidian-omglol-statuslog)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?omglol-statuslog-publish)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MayMeow/obsidian-omglol-statuslog/master/README.md)

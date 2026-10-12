@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Time Things
 > - 插件作者：Nick Winters
 > - 插件说明：在角落显示一个时钟。跟踪笔记的总编辑时间和最后修改时间。
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', ' 时间与日期 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', '时间与日期', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/DynamicPlayerSector/timethings)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?timethings)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/plasmabit/timethings/main/README.md)

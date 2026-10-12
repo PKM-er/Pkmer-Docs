@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Are.na unofficial
 > - 插件作者：0xroko
 > - 插件说明：允许您将 Are.na 块保存为笔记。
-> - 插件分类：[' 文件管理 ', ' 模板与链接处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '模板与链接处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/0xroko/obsidian-arena-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?arena)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/0xroko/obsidian-arena-plugin/main/README.md)

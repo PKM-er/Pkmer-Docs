@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Text Conversions
 > - 插件作者：Juan D Frias
 > - 插件说明：对所选文本执行各种文本转换操作
-> - 插件分类：[' 文本处理 ', ' 编辑工具 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['文字处理', '编辑工具', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ironsigma/obsidian-text-conversions)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?text-conversions)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ironsigma/obsidian-text-conversions/main/README.md)

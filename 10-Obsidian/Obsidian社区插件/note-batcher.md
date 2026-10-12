@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note Batcher
 > - 插件作者：MrAnyx
 > - 插件说明：一键创建所有未解决的链接。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MrAnyx/obsidian-note-batcher)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-batcher)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MrAnyx/obsidian-note-batcher/master/README.md)

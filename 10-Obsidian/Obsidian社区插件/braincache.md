@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：braincache
 > - 插件作者：XSPGMike
 > - 插件说明：从 Obsidian 创建 Braincache 闪存卡
-> - 插件分类：[' 数据处理 ', ' 学习与教育 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '学习与教育', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/XSPGMike/braincache_obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?braincache)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/XSPGMike/braincache_obsidian/master/README.md)

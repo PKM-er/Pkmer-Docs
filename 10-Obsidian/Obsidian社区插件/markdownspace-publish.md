@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MarkdownSpace Publish
 > - 插件作者：Vali Ventures
 > - 插件说明：将您的文档发布到 MarkdownSpace，它们将立即变成一个网站。
-> - 插件分类：[' 文件管理 ', ' 模板与链接处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '模板与链接处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/markdown-space/markdownspace-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdownspace-publish)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/markdown-space/markdownspace-obsidian-plugin/main/README.md)

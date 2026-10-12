@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Days Since
 > - 插件作者：gndclouds
 > - 插件说明：重温并庆祝您生活中的重要时刻，通过个人互动时间轴。通过周年提醒和珍贵回忆，回顾您的历史。
-> - 插件分类：[' 日历与时间 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gndclouds/days-since-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?days-since)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gndclouds/days-since-obsidian/main/README.md)

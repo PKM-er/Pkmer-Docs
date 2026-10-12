@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Orthography
 > - 插件作者：denisoed
 > - 插件说明：用于检查和修复文本中的拼写错误。暂不知支持中文。
-> - 插件分类：[' 文字处理 ', ' 数据处理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['文字处理', '数据处理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/denisoed/obsidian-orthography)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-orthography)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/denisoed/obsidian-orthography/master/README.md)

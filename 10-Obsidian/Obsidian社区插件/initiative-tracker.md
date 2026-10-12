@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Initiative Tracker
 > - 插件作者：Jeremy Valentine
 > - 插件说明：Obsidian 的 TTRPG 行动跟踪器
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 游戏 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '游戏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/javalent/initiative-tracker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?initiative-tracker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/initiative-tracker/main/README.md)

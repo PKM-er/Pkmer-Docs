@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Timeline View
 > - 插件作者：b.camphart
 > - 插件说明：根据给定的属性，在时间轴上展示您的黑曜石笔记。
-> - 插件分类：[' 搜索与排序 ', ' 日历与时间 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '日历与时间', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/b-camphart/timeline-view)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?timeline-view)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/b-camphart/timeline-view/main/README.md)

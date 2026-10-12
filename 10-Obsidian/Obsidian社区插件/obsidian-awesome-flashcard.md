@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Awesome Flashcard
 > - 插件作者：AwesomeDog
 > - 插件说明：为 Obsidian 提供方便的 Anki 集成。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 编辑工具 ', 'anki', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '编辑工具', 'anki', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/AwesomeDog/obsidian-awesome-flashcard)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-awesome-flashcard)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/AwesomeDog/obsidian-awesome-flashcard/main/README.md)

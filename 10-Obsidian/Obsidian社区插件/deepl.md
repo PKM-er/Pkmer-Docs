@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：DeepL
 > - 插件作者：Till Friebe
 > - 插件说明：允许使用 DeepL 将所选文本翻译成 25 种以上的语言。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 语言处理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '语言处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/friebetill/obsidian-deepl)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?deepl)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/friebetill/obsidian-deepl/main/README.md)

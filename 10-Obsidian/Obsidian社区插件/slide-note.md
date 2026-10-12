@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Slide Note
 > - 插件作者：Jinyan Xu
 > - 插件说明：方便地在 PDF 课程幻灯片上做笔记 :P
-> - 插件分类：[' 文件管理 ', ' 笔记与日志 ', 'PDF', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '笔记与日志', 'PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Phantom1003/obsidian-slide-note)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?slide-note)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Phantom1003/obsidian-slide-note/master/README.md)

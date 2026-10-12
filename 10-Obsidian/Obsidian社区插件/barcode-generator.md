@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Barcode Generator
 > - 插件作者：noxonad
 > - 插件说明：生成可定制的条形码到你的笔记中。
-> - 插件分类：[' 样式与美化 ', ' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/noxonad/obsidian-barcode-generator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?barcode-generator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/noxonad/obsidian-barcode-generator/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Highlight Public Notes
 > - 插件作者：dennis seidel
 > - 插件说明：这个插件通过将笔记着色为红色来警告笔记是公开的（基于 frontmatter 属性）。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-highlightpublicnotes-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dennisseidel/highlightpublicnotes-obsidian-plugin/master/README.md)

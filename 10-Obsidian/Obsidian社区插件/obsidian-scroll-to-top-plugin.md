@@ -16,7 +16,7 @@ modified: 20230621184044
 > - 插件名称：Scroll to Top
 > - 插件作者：cloudhao1999
 > - 插件说明：为 Obsidian 添加了一个按钮，可以快速滚动到当前笔记的顶部。
-> - 插件分类：[' 界面相关 ', ' 效率 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '快速定位', '效率']
 > - 插件项目地址：[点我跳转](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-scroll-to-top-plugin)
 

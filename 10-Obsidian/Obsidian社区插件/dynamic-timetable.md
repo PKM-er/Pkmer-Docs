@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dynamic Timetable
 > - 插件作者：L7Cy
 > - 插件说明：根据任务的预计时间计算完成时间，并动态创建时间表。
-> - 插件分类：[' 任务管理 ', ' 时间与日期 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '时间与日期', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/L7Cy/obsidian-dynamic-timetable)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dynamic-timetable)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/L7Cy/obsidian-dynamic-timetable/master/README.md)

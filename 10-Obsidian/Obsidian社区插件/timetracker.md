@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Timetracker
 > - 插件作者：Nils Dammenhayn
 > - 插件说明：添加一个秒表，其值可以通过热键插入到编辑器中。
-> - 插件分类：[' 编辑工具 ', ' 时间与日期 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '时间与日期', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hedgehog1833/obsidian-timetracker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?timetracker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hedgehog1833/obsidian-timetracker/main/README.md)

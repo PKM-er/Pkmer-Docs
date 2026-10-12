@@ -22,7 +22,7 @@ Open Tab Settings 通过修改 Obsidian 的 `openFile` 和 `getLeaf` 方法，�
 > - 插件名称：Open Tab Settings
 > - 插件作者：jesse-r-s-hines
 > - 插件说明：简单实用的 obsidian 标签默认行为的管理工具
-> - 插件分类：[' 界面优化 ', ' 编辑工具 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '编辑工具', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jesse-r-s-hines/obsidian-open-tab-settings)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?open-tab-settings)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jesse-r-s-hines/obsidian-open-tab-settings/main/README.md)

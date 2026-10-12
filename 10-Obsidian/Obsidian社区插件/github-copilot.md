@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Github Copilot
 > - 插件作者：Vasseur Pierre-Adrien
 > - 插件说明：在您的编辑器中直接实现来自 Github Copilot 的建议。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Pierrad/obsidian-github-copilot)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?github-copilot)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Pierrad/obsidian-github-copilot/master/README.md)

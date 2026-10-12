@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Bearings
 > - 插件作者：Jeet Sukumaran
 > - 插件说明：Flow through dynamically-scoped collapsible tree views your vault's semantic and logical architectures.
-> - 插件分类：[' 表格 ', ' 编辑工具 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '编辑工具', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jeetsukumaran/obsidian-bearings)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bearings)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jeetsukumaran/obsidian-bearings/main/README.md)

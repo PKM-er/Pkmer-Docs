@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Graphs
 > - 插件作者：Dylan Hojnoski
 > - 插件说明：通过编写 YAML 来创建交互式图表
-> - 插件分类：[' 数据分析 ', ' 第三方工具集成 ', ' 图表 ', 'obsidian 插件 ']
+> - 插件分类：['数据分析', '第三方工具集成', '图表', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/DylanHojnoski/obsidian-graphs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?graphs)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/DylanHojnoski/obsidian-graphs/master/README.md)

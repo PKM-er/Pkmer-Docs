@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：IVRE
 > - 插件作者：The IVRE contributors
 > - 插件说明：IVRE 集成到 Obsidian：从 IVRE 抓取数据并将其带入 Obsidian 笔记中。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ivre/obsidian-ivre-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-ivre-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ivre/obsidian-ivre-plugin/master/README.md)

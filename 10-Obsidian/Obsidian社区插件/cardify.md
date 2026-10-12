@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cardify
 > - 插件作者：joshuakto
 > - 插件说明：为 markdown 文件中的块创建链接，并为文件夹中的每个链接生成 markdown 文件。实现将卡片拖放到画布上的功能。
-> - 插件分类：[' 模板与链接处理 ', ' 文件管理 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '文件管理', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joshuakto/obsidian-cardify)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cardify)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/joshuakto/obsidian-cardify/master/README.md)

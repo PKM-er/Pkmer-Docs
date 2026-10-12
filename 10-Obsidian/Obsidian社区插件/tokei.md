@@ -20,7 +20,7 @@ modified: 20231012005839
 > - 插件名称：Tokei
 > - 插件作者：HiroMike
 > - 插件说明：将一个数字时钟，放到笔记中
-> - 插件分类：[' 时间 ', ' 挂件 ', 'obsidian 插件 ']
+> - 插件分类：['时间', '挂件', 'Obsidian', 'Obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ms3056/Tokei)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tokei)
 

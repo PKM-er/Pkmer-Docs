@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：HackerOne
 > - 插件作者：neolex
 > - 插件说明：这是一个 HackerOne 插件，用于在 Obsidian 中获取您的漏洞报告。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 安全 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '安全', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Neolex-Security/obsidian-hackerone)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hackerone)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Neolex-Security/obsidian-hackerone/master/README.md)

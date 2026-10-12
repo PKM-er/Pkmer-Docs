@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Social (Sekund)
 > - 插件作者：Candide Kemmler
 > - 插件说明：分享笔记并收集反馈
-> - 插件分类：[' 第三方工具集成 ', ' 笔记与日志 ', ' 社交网络 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '笔记与日志', '社交网络', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Sekund/sekund-plugin-react)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?sekund)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Sekund/sekund-plugin-react/main/README.md)

@@ -20,7 +20,7 @@ modified: 20230829130844
 > - 插件名称：Multi Tag
 > - 插件作者：fez-github
 > - 插件说明：一次向多个笔记添加标签。右键单击文件夹，或者选择多个笔记并右键单击所选内容。
-> - 插件分类：['obsidian 插件 ', 'tag' ' 标签 ']
+> - 插件分类：['Obsidian', '插件', '批量处理', '添加标签']
 > - 项目地址：[点我访问](https://github.com/fez-github/obsidian-multi-tag)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?Multi-Tag)
 

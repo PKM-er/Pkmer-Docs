@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：React Components
 > - 插件作者：Elias Sundqvist
 > - 插件说明：在你的笔记中使用并编写 React（Jsx）组件。
-> - 插件分类：[' 编辑工具 ', ' 编程与脚本 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '编程与脚本', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/elias-sundqvist/obsidian-react-components)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-react-components)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/elias-sundqvist/obsidian-react-components/master/README.md)

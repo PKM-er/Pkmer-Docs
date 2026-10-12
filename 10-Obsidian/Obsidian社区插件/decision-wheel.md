@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Decision Wheel
 > - 插件作者：Gowanii
 > - 插件说明：一个能帮你做决策的转盘。——Obsidian官方人员尚未对该插件进行人工审核。
-> - 插件分类：['图表与可视化', '效率工具', '决策辅助（注：原预定义标签中无完全精准匹配的，“决策辅助”为补充说明插件核心功能，若只能从给定标签选，最合适的是前两个）', 'obsidian插件']
+> - 插件分类：['图表与可视化', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/moonsand79/obsidian-decision-wheel)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?decision-wheel)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/moonsand79/obsidian-decision-wheel/master/README.md)

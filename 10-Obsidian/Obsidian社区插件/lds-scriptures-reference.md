@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：LDS Scriptures Reference
 > - 插件作者：pacokwon
 > - 插件说明：轻松地插入对 LDS 经文的引用
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pacokwon/obsidian-lds-scriptures-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?lds-scriptures-reference)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pacokwon/obsidian-lds-scriptures-plugin/main/README.md)

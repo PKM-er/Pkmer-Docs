@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Numerals
 > - 插件作者：RyanC
 > - 插件说明：.Numerals 可以将任何代码块变成一个高级计算器。评估代码块中每一行的数学表达式，包括单位、货币以及可选的 TeX 渲染。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gtg922r/obsidian-numerals)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?numerals)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gtg922r/obsidian-numerals/master/README.md)

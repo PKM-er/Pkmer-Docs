@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Keyboard Pan
 > - 插件作者：Nathonius
 > - 插件说明：在键盘上使用方向键在画布上移动。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nathonius/obsidian-canvas-pan)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-keyboard-pan)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nathonius/obsidian-canvas-pan/main/README.md)

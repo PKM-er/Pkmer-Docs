@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tag Search
 > - 插件作者：R. W. Blickhan
 > - 插件说明：提供一个标签模糊搜索的功能，需要你使用命令面板来使用它。该功能只会返回标签的结果。
-> - 插件分类：[' 搜索与排序 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rwblickhan/obsidian-tag-search)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-search)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rwblickhan/obsidian-tag-search/master/README.md)

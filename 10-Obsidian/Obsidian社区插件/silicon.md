@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Silicon AI
 > - 插件作者：deepfates
 > - 插件说明：通过硅 AI 为您的笔记增加一些智能。
-> - 插件分类：[' 自动化与 AI', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['自动化与AI', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/deepfates/silicon)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?silicon)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/deepfates/silicon/master/README.md)

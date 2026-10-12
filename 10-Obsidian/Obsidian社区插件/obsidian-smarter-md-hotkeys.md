@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Smarter Markdown Hotkeys
 > - 插件作者：pseudometa
 > - 插件说明：智能选择单词和行的快捷键，在应用标记之前支持多个光标。
-> - 插件分类：[' 快捷键 ', ' 编辑工具 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '编辑工具', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-smarter-md-hotkeys)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/obsidian-smarter-md-hotkeys/master/README.md)

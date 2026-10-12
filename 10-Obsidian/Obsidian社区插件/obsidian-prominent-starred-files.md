@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Prominent Starred Files
 > - 插件作者：Jeremy Valentine
 > - 插件说明：在文件资源管理器中突出显示加星标记的笔记
-> - 插件分类：[' 文件管理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/valentine195/obsidian-prominent-starred-files)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-prominent-starred-files)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/javalent/prominent-files/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Lock Screen
 > - 插件作者：Eric Biewener
 > - 插件说明：保护你的金库用一个锁屏。
-> - 插件分类：[' 安全与隐私 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['安全与隐私', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ericbiewener/obsidian-lock-screen-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-lock-screen-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ericbiewener/obsidian-lock-screen-plugin/main/README.md)

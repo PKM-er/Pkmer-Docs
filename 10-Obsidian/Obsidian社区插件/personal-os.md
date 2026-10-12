@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Personal OS
 > - 插件作者：A.Buot
 > - 插件说明：Streamlining task management and productivity with a touch of gamification.
-> - 插件分类：[' 任务管理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/GengAd/obsidian-personal-os)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?personal-os)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/GengAd/obsidian-personal-os/main/README.md)

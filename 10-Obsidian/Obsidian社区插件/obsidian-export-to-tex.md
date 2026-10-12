@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Export To TeX
 > - 插件作者：Zach Raines
 > - 插件说明：将拱顶文件导出为适合粘贴到 TeX 文档中的格式
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/raineszm/obsidian-export-to-tex)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-export-to-tex)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/raineszm/obsidian-export-to-tex/master/README.md)

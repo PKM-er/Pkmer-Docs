@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note Linker
 > - 插件作者：Alexander Weichart
 > - 插件说明：自动发现并在笔记之间创建新的链接。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/AlexW00/obsidian-note-linker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obisidian-note-linker)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/AlexW00/obsidian-note-linker/master/README.md)

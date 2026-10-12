@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Default query in backlinks
 > - 插件作者：Benature
 > - 插件说明：在文档中的反向链接搜索输入框中自动输入默认查询。
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Benature/obsidian-default-query-in-backlink)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?default-query-in-backlink)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Benature/obsidian-default-query-in-backlink/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Global Proxy
 > - 插件作者：windingblack
 > - 插件说明：Use network proxy according to the rules configured in this plugin
-> - 插件分类：[' 网络与代理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['网络与代理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/windingblack/obsidian-global-proxy)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?global-proxy)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/windingblack/obsidian-global-proxy/master/README.md)

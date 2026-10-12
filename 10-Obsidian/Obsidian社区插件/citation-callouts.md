@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Citation Callouts
 > - 插件作者：Michael Marvive
 > - 插件说明：能把来自不同出处、带引用信息的引文巧妙地格式化为自定义标注框。
-> - 插件分类：['样式与美化', '文字处理', '学习与教育', '白板学术与科研', 'zotero', 'obsidian插件']
+> - 插件分类：['样式与美化', '文字处理', '学习与教育', '学术与科研', 'zotero', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Marvive/Citation-Callouts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?citation-callouts)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Marvive/Citation-Callouts/master/README.md)

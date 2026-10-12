@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Bragi Canvas
 > - 插件作者：nextbound
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。可以把画布变成一个基于节点的AI生成流水线，用来生成图片、视频、文字和音频。
-> - 插件分类：['自动化与AI', '多媒体', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '多媒体', '第三方工具集成', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nextbound/bragi-canvas)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?bragi-canvas)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nextbound/bragi-canvas/master/README.md)

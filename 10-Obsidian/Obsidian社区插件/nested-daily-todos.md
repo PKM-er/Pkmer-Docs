@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Nested Daily Todos
 > - 插件作者：Thomas Brezinski
 > - 插件说明：将未完成的待办事项从按标题分组的每日笔记中转移，支持嵌套和灵活的待办事项状态。
-> - 插件分类：[' 任务管理 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/thomasbrezinski/obsidian-nested-daily-todos)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?nested-daily-todos)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/thomasbrezinski/obsidian-nested-daily-todos/master/README.md)

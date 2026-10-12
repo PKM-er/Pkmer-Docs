@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Enlightenment
 > - 插件作者：ryanjamurphy
 > - 插件说明：注意你正在关注的内容。Enlightenment 为预览添加了一个“Zen 模式”，隐藏了你的笔记内容，除了你的指针下面的内容。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ryanjamurphy/enlightenment-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?enlightenment-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ryanjamurphy/enlightenment-obsidian/master/README.md)

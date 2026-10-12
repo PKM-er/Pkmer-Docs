@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Google Tasks
 > - 插件作者：YukiGasai
 > - 插件说明：从 Obsidian 内部与你的 Google Tasks 互动
-> - 插件分类：[' 任务管理 ', ' 第三方工具集成 ', ' 移动端 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '第三方工具集成', '移动端', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/YukiGasai/obsidian-google-tasks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-google-tasks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/YukiGasai/obsidian-google-tasks/master/README.md)

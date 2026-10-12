@@ -21,7 +21,7 @@ modified: 20241205100624
 > - 插件作者：mofukuru
 > - 插件版本：1.0.1
 > - 插件说明：根据文件类型的扩展名，或者 Tag 自动组织/整理文件到文件夹中
-> - 插件分类：[' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '链接', '文件管理', '自动化']
 > - 插件项目地址：[点我跳转](https://github.com/mofukuru/auto_file_organizer/)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-file-organizer)
 

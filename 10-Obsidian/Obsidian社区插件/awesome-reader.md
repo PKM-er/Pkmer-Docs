@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Awesome Reader
 > - 插件作者：AwesomeDog
 > - 插件说明：使 Obsidian 成为一个合适的阅读器。
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/AwesomeDog/obsidian-awesome-reader)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?awesome-reader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/AwesomeDog/obsidian-awesome-reader/master/README.md)

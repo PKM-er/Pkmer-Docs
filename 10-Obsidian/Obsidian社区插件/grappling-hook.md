@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：🪝 Grappling Hook
 > - 插件作者：pseudometa
 > - 插件说明：针对使用快速切换器仍然花费太多时间的人，提供了一款非常快速的文件切换插件——Obsidian。
-> - 插件分类：[' 编辑工具 ', ' 文件管理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文件管理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chrisgrieser/grappling-hook)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?grappling-hook)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrisgrieser/grappling-hook/main/README.md)

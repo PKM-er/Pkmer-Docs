@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Image Gallery
 > - 插件作者：Luca Orio
 > - 插件说明：为 Obsidian 添加一个画廊模式，以瀑布流的图片展示你的图片素材。需要你指定图片素材的路径。
-> - 插件分类：[' 样式与美化 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lucaorio/obsidian-image-gallery)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-image-gallery)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucaorio/obsidian-image-gallery/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vocabulary View
 > - 插件作者：nnshi-s
 > - 插件说明：写下一些单词及其解释，并以词汇测试的形式预览它们。
-> - 插件分类：[' 学习与教育 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['学习与教育', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nnshi-s/obsidian-vocabulary-view-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-vocabulary-view)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nnshi-s/obsidian-vocabulary-view-plugin/main/README.md)

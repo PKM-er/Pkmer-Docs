@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Fountain
 > - 插件作者：darakah
 > - 插件说明：Obsidian 支持喷泉
-> - 插件分类：[' 编辑工具 ', ' 文件管理 ', ' 标签 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文件管理', '标签', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Darakah/obsidian-fountain)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-fountain)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Darakah/obsidian-fountain/main/README.md)

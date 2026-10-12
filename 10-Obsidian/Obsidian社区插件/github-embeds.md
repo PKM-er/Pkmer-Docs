@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：GitHub Embeds
 > - 插件作者：Gino Valente
 > - 插件说明：在 Obsidian 中直接嵌入 GitHub 问题、PR 和代码片段。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MrGVSV/obsidian-github-embeds)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?github-embeds)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MrGVSV/obsidian-github-embeds/main/README.md)

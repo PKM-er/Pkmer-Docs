@@ -16,7 +16,7 @@ modified: 20231117115756
 > - 插件名称：CodeBlock Tabs
 > - 插件作者：Jemin Mau
 > - 插件说明：为连续的 CodeBlocks 创建标签组样式
-> - 插件分类：['obsidian 插件 ',' 代码域 ',' 美化 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/JeminMau/Obsidian-CodeBlock-Tabs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?codeblock-tabs)
 

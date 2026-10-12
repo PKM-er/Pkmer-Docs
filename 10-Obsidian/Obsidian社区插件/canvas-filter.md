@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Filter
 > - 插件作者：Ivan Koshelev
 > - 插件说明：这个插件可以让你过滤画布，只显示特定颜色、标签或仅与当前选定节点相连的项目。
-> - 插件分类：[' 搜索与排序 ', ' 图表 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '图表', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/IKoshelev/Obsidian-Canvas-Filter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-filter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/IKoshelev/Obsidian-Canvas-Filter/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Get Info
 > - 插件作者：Chetachi
 > - 插件说明：在状态栏中包含一个菜单，并显示您所选文件的有用信息。
-> - 插件分类：[' 状态栏 ', ' 数据分析 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['状态栏', '数据分析', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chetachiezikeuzor/Get-Info-Plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?get-info-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chetachiezikeuzor/Get-Info-Plugin/master/README.md)

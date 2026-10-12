@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Jelly Snippets
 > - 插件作者：Spencer Gouw
 > - 插件说明：一个简单的文本片段插件。
-> - 插件分类：[' 文本处理 ', ' 第三方工具集成 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文字处理', '第三方工具集成', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rabirabirara/obsidian-jelly-snippets)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?jelly-snippets)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rabirabirara/obsidian-jelly-snippets/main/README.md)

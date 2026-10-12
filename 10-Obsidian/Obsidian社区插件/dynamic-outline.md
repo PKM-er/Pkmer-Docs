@@ -20,7 +20,7 @@ modified: 20250116104629
 > - 插件名称：Dynamic Outline
 > - 插件作者：theopavlove
 > - 插件说明：为笔记添加一个悬浮目录
-> - 插件分类：[ 目录 ', 'obsidian 插件 ']
+> - 插件分类：['目录 ', 'obsidian 插件 ']
 > - 项目地址：[点我访问](https://github.com/theopavlove/obsidian-dynamic-outline)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dynamic-outline)
 > - 自述文件：[Readme](https://github.com/theopavlove/obsidian-dynamic-outline)

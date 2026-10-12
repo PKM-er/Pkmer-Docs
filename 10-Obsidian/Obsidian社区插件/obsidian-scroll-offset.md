@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Scroll Offset
 > - 插件作者：Lijyze
 > - 插件说明：在光标之前或之后保留自定义距离。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lijyze/scroll-offset)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-scroll-offset)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lijyze/scroll-offset/master/README.md)

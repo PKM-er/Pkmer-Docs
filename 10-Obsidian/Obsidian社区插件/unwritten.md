@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Unwritten
 > - 插件作者：saiken
 > - 插件说明：报告那些你从未写过的笔记：不明原因的链接对、未完成的中心节点，以及没有说明理由的决策。——Obsidian官方人员尚未对该插件进行人工审核。
-> - 插件分类：['效率工具', '模板与链接处理', '数据分析', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['效率工具', '模板与链接处理', '数据分析', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/israerusan/unwritten)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?unwritten)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/israerusan/unwritten/master/README.md)

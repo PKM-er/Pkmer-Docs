@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Wikidata Importer
 > - 插件作者：Sam Rose
 > - 插件说明：将数据从 Wikidata 导入到您的保险库中。
-> - 插件分类：[' 数据处理 ', ' 第三方工具集成 ', ' 数据库 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '第三方工具集成', '数据库', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/samwho/obsidian-wikidata-importer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?wikidata-importer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/samwho/obsidian-wikidata-importer/main/README.md)

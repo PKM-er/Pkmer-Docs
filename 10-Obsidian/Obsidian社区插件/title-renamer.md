@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Title renamer
 > - 插件作者：Peter Strøiman
 > - 插件说明：保持笔记中的顶部标题与文件名同步。
-> - 插件分类：[' 编辑工具 ', ' 文件管理 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文件管理', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/stroiman/obsidian-title-sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?title-renamer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/stroiman/obsidian-title-sync/main/README.md)

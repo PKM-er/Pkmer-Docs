@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsimian
 > - 插件作者：Oliver Lade
 > - 插件说明：Obsidian 模拟框架用于测试 Obsidian 插件，并输出插件相关的信息。
-> - 插件分类：[' 数据处理 ', ' 编程与脚本 ', ' 测试 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编程与脚本', '测试', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/motif-software/obsimian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsimian-exporter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/motif-software/obsimian/main/README.md)

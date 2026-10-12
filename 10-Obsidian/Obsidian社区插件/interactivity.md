@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Interactivity: Calculations and Scripts
 > - 插件作者：ichichikin
 > - 插件说明：互动性使您能够在笔记中直接运行 shell 命令和脚本，将它们的输出与您的书面内容一起显示，使您的记笔记过程更加动态和互动。
-> - 插件分类：[' 编辑工具 ', ' 自定义命令 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自定义命令', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ichichikin/obsidian-plugin-interactivity)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?interactivity)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ichichikin/obsidian-plugin-interactivity/main/README.md)

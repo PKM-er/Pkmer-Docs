@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Title Generator
 > - 插件作者：Jascha Ephraim
 > - 插件说明：使用 OpenAI 的 GPT-3.5 快速轻松地为您的笔记添加标题。
-> - 插件分类：[' 搜索 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['搜索', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jaschaephraim/obsidian-title-generator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?title-generator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jaschaephraim/obsidian-title-generator/main/README.md)

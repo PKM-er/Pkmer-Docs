@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vuln Report Kit
 > - 插件作者：Aleff
 > - 插件说明：这是一款适用于Obsidian的本地优先工具包，可用于处理漏洞案例、报告、模板、机密审核、清理、仪表盘展示以及数据导出等操作。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['模板与链接处理', '数据处理', '安全与隐私', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['模板与链接处理', '数据处理', '安全与隐私', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aleff-github/vuln-report-kit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vuln-report-kit)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aleff-github/vuln-report-kit/master/README.md)

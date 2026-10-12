@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Embed Code File
 > - 插件作者：Abdullah Almariah
 > - 插件说明：支持从本地路径，远程文件等方式，在笔记中加载对应代码，并展示对应的语法高亮方案。甚至支持指定文件中具体那块内容（M 行到 N 行），
-> - 插件分类：[' 搜索 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['搜索', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/almariah/embed-code-file)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?embed-code-file)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/almariah/embed-code-file/main/README.md)

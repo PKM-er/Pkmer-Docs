@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：External Links
 > - 插件作者：Juan Vimberg
 > - 插件说明：在右侧面板上列出外部链接。
-> - 插件分类：[' 链接 ', ' 第三方工具集成 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['链接', '第三方工具集成', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jivimberg/external-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?external-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jivimberg/external-links/master/README.md)

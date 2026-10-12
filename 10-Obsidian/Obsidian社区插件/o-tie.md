@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：O-Tie
 > - 插件作者：Andre482
 > - 插件说明：在可视化编辑器里构建并编辑风险蝴蝶结图，支持设置屏障、升级因素、分析堆栈，还能导出为 PNG 图片。——此插件尚未经过 Obsidian 官方人员人工审核。
-> - 插件分类：['图表与可视化', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '编辑工具', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/andre482/O-tie)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?o-tie)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/andre482/O-tie/master/README.md)

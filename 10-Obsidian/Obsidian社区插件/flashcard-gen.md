@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Flashcard Generator
 > - 插件作者：ChloeDia
 > - 插件说明：这是一个为 Obsidian 设计的测验生成器插件。该插件可以让您在笔记中生成重要问题。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 学习 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '学习', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chloedia/Obsidian_Quiz_Generator)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?flashcard-gen)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chloedia/Obsidian_Quiz_Generator/master/README.md)

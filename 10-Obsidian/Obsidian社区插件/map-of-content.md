@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Map of Content
 > - 插件作者：Robin Haupt
 > - 插件说明：自动为您的保险库生成目录地图
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', ' 地图与位置 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', '地图与位置', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?map-of-content)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Robin-Haupt-1/Obsidian-Map-of-Content/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ogstack
 > - 插件作者：Uves Arshad
 > - 插件说明：你可以在Obsidian里直接使用人工智能技能，比如头脑风暴想点子、制定计划、做研究，还能结合你关联的笔记内容进行写作。
-> - 插件分类：['自动化与AI', '文字处理', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '文字处理', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/uvesarshad/ostack)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ogstack)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/uvesarshad/ostack/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Relay
 > - 插件作者：System 3
 > - 插件说明：Collaborate in real time with live cursors. Share folders. Manage access to updates.
-> - 插件分类：['协作工具', '实时编辑', '文件管理', 'obsidian插件']
+> - 插件分类：['社交与社区', '实时编辑', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/no-instructions/relay)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?system3-relay)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/No-Instructions/Relay/main/README.md)

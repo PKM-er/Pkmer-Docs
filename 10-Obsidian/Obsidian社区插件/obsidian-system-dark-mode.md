@@ -20,7 +20,7 @@ modified: 20240116145502
 > - 插件名称：System Dark Mode
 > - 插件作者：@kepano
 > - 插件说明：自动使用操作系统的设置在浅色模式和深色模式之间切换。
-> - 插件分类：[' 样式工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/kepano/obsidian-system-dark-mode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-system-dark-mode)
 

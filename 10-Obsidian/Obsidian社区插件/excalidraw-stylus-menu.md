@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Excalidraw Stylus Menu
 > - 插件作者：avtarasov210
 > - 插件说明：Excalidraw的手写笔/S Pen手势功能：轻点或按侧边按钮可打开插入菜单，点击对象可进行快速操作，还能复制、粘贴或连接图形。 - Obsidian官方人员尚未对该插件进行人工审核。
-> - 插件分类：['第三方工具集成', '编辑工具', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '编辑工具', '效率工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/delfinchiknakite-netizen/excalidraw-stylus-menu)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?excalidraw-stylus-menu)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/delfinchiknakite-netizen/excalidraw-stylus-menu/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Juggl
 > - 插件作者：Emile van Krieken
 > - 插件说明：为 Obsidian 添加一个完全交互式、可样式化和可扩展的图形视图。
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', ' 图表与可视化 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HEmile/juggl)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?juggl)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HEmile/juggl/main/README.md)

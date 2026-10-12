@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：ChemEdit
 > - 插件作者：Ruzal Sitdikov
 > - 插件说明：绘制、编辑和可视化化学结构与反应。ChemEdit借助集成的Ketcher编辑器，支持SMILES、MOL和ChemDraw（CDXML）文件。——此插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['编辑工具', '图表与可视化', '第三方工具集成', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '图表与可视化', '第三方工具集成', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ruzx/obsidian-chemedit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chemedit)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ruzx/obsidian-chemedit/master/README.md)

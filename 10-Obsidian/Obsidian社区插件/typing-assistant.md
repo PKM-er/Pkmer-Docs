@@ -20,7 +20,7 @@ Typing Assistant 是一个助手类插件，他模拟了类似 Notion 直观操�
 > - 插件名称：Typing Assistant
 > - 插件作者：Jambo
 > - 插件说明：支持多个快捷菜单以提高输入效率。
-> - 插件分类：['obsidian 插件 ', 'readme']
+> - 插件分类：['obsidian插件', '助手']
 > - 项目地址：[点我访问](https://github.com/Jambo2018/notion-assistant-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?typing-assistant)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Automatically reveal active file
 > - 插件作者：Matt Sessions
 > - 插件说明：这个插件将自动在侧边导航中显示当前活动文件。
-> - 插件分类：[' 编辑工具 ', ' 导航与状态栏 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '导航与状态栏', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/shichongrui/obsidian-reveal-active-file)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-reveal-active-file)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/shichongrui/obsidian-reveal-active-file/master/README.md)

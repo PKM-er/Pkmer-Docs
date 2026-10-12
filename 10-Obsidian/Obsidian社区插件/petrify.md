@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Petrify
 > - 插件作者：jo-minjun
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核哦。它能借助OCR功能把手写笔记转换成Excalidraw格式或者Markdown格式，帮你统一知识库呢。
-> - 插件分类：['编辑工具', '文字处理', '自动化与AI', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '文字处理', '自动化与AI', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jo-minjun/petrify)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?petrify)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jo-minjun/petrify/master/README.md)

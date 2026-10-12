@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Github Publisher
 > - 插件作者：Mara-Li
 > - 插件说明：Github Publisher 是一个插件，可以帮助你根据前置条件条目状态将文件发送到配置的 Github 存储库中。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ObsidianPublisher/obsidian-github-publisher)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-mkdocs-publisher)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Enveloppe/obsidian-enveloppe/master/README.md)

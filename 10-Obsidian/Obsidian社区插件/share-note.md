@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Share Note
 > - 插件作者：Alan Grainger
 > - 插件说明：与他人公开分享带有完整样式的笔记。数据以加密形式存储在服务器上，只有您拥有密钥。
-> - 插件分类：[' 安全与隐私 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['安全与隐私', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/alangrainger/obsidian-share)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?share-note)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/alangrainger/share-note/main/README.md)

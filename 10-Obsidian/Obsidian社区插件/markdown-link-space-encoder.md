@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markdown Link Space Encoder
 > - 插件作者：Ron Kosova
 > - 插件说明：自动将 Markdown 样式链接中的空格编码为%20 的简单插件
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/rkosova/obsidian-markdown-link-space-encoder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-link-space-encoder)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/rkosova/obsidian-markdown-link-space-encoder/master/README.md)

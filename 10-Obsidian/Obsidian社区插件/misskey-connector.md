@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Misskey Connector
 > - 插件作者：minimarimo3
 > - 插件说明：启用发布和嵌入 Misskey 笔记。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/minimarimo3/Obsidian-plugin-for-Misskey)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?misskey-connector)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/minimarimo3/Obsidian-plugin-for-Misskey/master/README.md)

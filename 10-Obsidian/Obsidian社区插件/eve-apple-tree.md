@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Eve Apple Tree Thinking System
 > - 插件作者：Evelyn Chan
 > - 插件说明：把你的笔记培育成一棵鲜活的3D光树——这是个思考工具，可不是个文件柜哦。每个文件夹都化作一棵树；笔记就像按领域和时间摆放的叶子；链接则是根茎；那些灵光乍现的时刻就如同花朵；产出成果就好比苹果。——Obsidian工作人员尚未对这个插件进行人工审核。
-> - 插件分类：['思维导图', '图表与可视化', '效率工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['思维导图', '图表与可视化', '效率工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/brandthebrand/eve-apple-tree)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?eve-apple-tree)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/brandthebrand/eve-apple-tree/master/README.md)

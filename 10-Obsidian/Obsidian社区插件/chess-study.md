@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Chess Study
 > - 插件作者：Christoph Lindstädt
 > - 插件说明：一个国际象棋学习助手和 PGN 查看器/编辑器。
-> - 插件分类：[' 界面优化 ', ' 数据处理 ', ' 游戏 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '数据处理', '游戏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/chrislicodes/obsidian-chess-study)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chess-study)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/chrislicodes/obsidian-chess-study/trunk/README.md)

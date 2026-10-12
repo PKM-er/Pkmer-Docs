@@ -24,7 +24,7 @@ Obsidian Smart Gantt 可以智能地根据你笔记中的任务，在 Obsidian �
 > - 插件名称：Smart Gantt
 > - 插件作者：Nhan Nguyen
 > - 插件说明：智能地从您的任务中生成甘特图
-> - 插件分类：[' 图表与可视化 ', ' 任务管理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['图表与可视化', '任务管理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nhannht/obsidian-smart-gantt)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?smart-gantt)
 

@@ -23,7 +23,7 @@ Quick Cards 插件就是模拟了很多笔记软件中自带的卡片式浏览�
 > [!Note] 插件名片
 > - 插件名称：Camus Qiu
 > - 插件说明：给 Obsidian 添加卡片式摘要浏览栏
-> - 插件分类：[' 插件管理 ', 'obsidian 插件 ']
+> - 插件分类：['obsidian插件', '卡片']
 > - 项目地址：[点我访问](https://github.com/abcamus/obsidian-quick-card)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quick_cards)
 

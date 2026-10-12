@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Strip Internal Links
 > - 插件作者：Adi Ron
 > - 插件说明：复制文件或选定内容到剪贴板，不包括内部链接
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/adiron/obsidian-strip-internal-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copy-without-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/adiron/obsidian-strip-internal-links/main/README.md)

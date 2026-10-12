@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Settings profiles
 > - 插件作者：4Source
 > - 插件说明：允许您创建各种全局设置配置文件。您可以在不同的保险库之间同步它们。为了保持所有设置同步，您将永远不必为您拥有或将来创建的每个保险库手动调整它们。
-> - 插件分类：[' 数据处理 ', ' 搜索与排序 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '搜索与排序', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/4Source/settings-profiles-obsidian-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?settings-profiles)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/4Source/settings-profiles-obsidian-plugin/master/README.md)

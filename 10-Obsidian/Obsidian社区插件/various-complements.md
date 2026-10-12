@@ -21,7 +21,7 @@ Various Complements 是 Obsidian 插件，提供了一些功能增强自动填�
 > - 插件版本：8.3.1
 > - 插件作者：tadashi-aikawa
 > - 插件描述：这个 Obsidian 插件让你能够自动完成完成单词，和自定义内容的输入。
-> - 插件分类：[' 编辑工具 ', ' 效率 ', ' 中文处理 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '自动补全', '快捷输入', '效率']
 > - 插件项目地址：[点我跳转](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/blob/8.3.1/manifest.json)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?various-complements)
 

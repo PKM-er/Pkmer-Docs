@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Literature Review Synthesizer
 > - 插件作者：ibrh96-prog
 > - 插件说明：借助大语言模型（LLMs），把你的学术阅读笔记转化为结构化的文献综述成果。
-> - 插件分类：['学习与教育', '自动化与AI', '文字处理', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '文字处理', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ibrh96-prog/literature-review-synthesizer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?literature-review-synthesizer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ibrh96-prog/literature-review-synthesizer/master/README.md)

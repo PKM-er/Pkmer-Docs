@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Smort
 > - 插件作者：Smort
 > - 插件说明：将 Smort.io 文章添加到 Obsidian 中。Smort.io 让您轻松编辑、注释和共享文章。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/SmortApp/obsidian-smort)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?smort-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/SmortApp/obsidian-smort/master/README.md)

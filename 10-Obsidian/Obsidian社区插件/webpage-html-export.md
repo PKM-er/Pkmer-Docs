@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Webpage HTML Export
 > - 插件作者：Nathan George
 > - 插件说明：将文档、文件夹或库导出成 HTML 文件，有黑白主题以及大纲目录。
-> - 插件分类：[' 样式与美化 ', ' 第三方工具集成 ', ' 导航与状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '第三方工具集成', '导航与状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/KosmosisDire/obsidian-webpage-export)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?webpage-html-export)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas Layer Order
 > - 插件作者：fengzhe
 > - 插件说明：为画布提供类似PowerPoint的图层控制功能：将卡片置于最前、置于最后、向前/向后移动，并且在聚焦重叠卡片时能保留图层顺序。 - 此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['编辑工具', '界面优化', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '界面优化', '效率工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/laplacede/Canvas-Layer-Order)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-layer-order)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/laplacede/Canvas-Layer-Order/master/README.md)

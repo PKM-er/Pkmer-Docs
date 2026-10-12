@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Enhancing Export
 > - 插件作者：YISH
 > - 插件说明：一款基于 Pandoc 的 Obsidian 导出插件，它允许导出到 Html、DOCX、ePub 和 PDF 或 Hugo 等格式。
-> - 插件分类：[' 文件管理 ', ' 文字处理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '文字处理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mokeyish/obsidian-enhancing-export)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-enhancing-export)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mokeyish/obsidian-enhancing-export/main/README.md)

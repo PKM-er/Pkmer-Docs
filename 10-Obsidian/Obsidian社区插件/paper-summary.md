@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Paper Summary
 > - 插件作者：todfrog
 > - 插件说明：这个插件还未经过Obsidian官方人员的人工审核。它能从PDF文件中生成结构化的论文总结笔记。
-> - 插件分类：['图片与PDF', '学习与教育', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图片与PDF', '学习与教育', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/todfrog/obsidian-paper-summary)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?paper-summary)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/todfrog/obsidian-paper-summary/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tabout
 > - 插件作者：phibr0
 > - 插件说明：轻松地从链接或其他 Markdown 格式字符中“制表符出去”。
-> - 插件分类：[' 编辑工具 ', ' 模板与链接处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '模板与链接处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/phibr0/obsidian-tabout)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tabout)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/phibr0/obsidian-tabout/master/README.md)

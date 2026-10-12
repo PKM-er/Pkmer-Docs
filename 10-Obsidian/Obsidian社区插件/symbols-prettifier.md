@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Symbols Prettifier
 > - 插件作者：Florian Woelki
 > - 插件说明：这个插件允许您使用您经常输入的实际符号（如箭头）来美化符号。
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/FlorianWoelki/obsidian-symbols-prettifier)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?symbols-prettifier)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/FlorianWoelki/obsidian-symbols-prettifier/master/README.md)

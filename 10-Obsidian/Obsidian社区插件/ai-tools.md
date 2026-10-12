@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI Tools
 > - 插件作者：solderneer
 > - 插件说明：将强大的语义搜索、生成式答案和其他人工智能工具添加到 Obsidian，使用 Supabase + OpenAI。
-> - 插件分类：[' 搜索与排序 ', ' 第三方工具集成 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '第三方工具集成', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/solderneer/obsidian-ai-tools)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-tools)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/solderneer/obsidian-ai-tools/master/README.md)

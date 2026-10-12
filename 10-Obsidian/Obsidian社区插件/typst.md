@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Typst Renderer
 > - 插件作者：fenjalien
 > - 插件说明：使用 Typst 将 `typst` 代码块和数学块渲染为图像。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fenjalien/obsidian-typst)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?typst)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fenjalien/obsidian-typst/master/README.md)

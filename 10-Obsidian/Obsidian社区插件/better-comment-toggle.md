@@ -20,7 +20,7 @@ modified: 20230911005025
 > - 插件名称：Better Comment Toggle
 > - 插件作者：Gino Valente
 > - 插件说明：改进了注释的切换功能。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MrGVSV/obsidian-better-comment-toggle)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-comment-toggle)
 

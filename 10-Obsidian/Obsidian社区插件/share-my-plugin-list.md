@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Share my plugin list
 > - 插件作者：Benature
 > - 插件说明：在列表/表格格式中分享已启用的插件。
-> - 插件分类：[' 表格 ', ' 第三方工具集成 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '第三方工具集成', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Benature/obsidian-share-my-plugin-list)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?share-my-plugin-list)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Benature/obsidian-share-my-plugin-list/master/README.md)

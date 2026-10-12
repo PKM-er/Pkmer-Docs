@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Quick Tagger
 > - 插件作者：Gorkycreator
 > - 插件说明：快速添加和删除标签。对标签搜索结果进行批量标记，并为您的收藏夹添加专用按钮/命令！
-> - 插件分类：[' 快捷键 ', ' 标签 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '标签', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Gorkycreator/obsidian-quick-tagger)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?quick-tagger)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Gorkycreator/obsidian-quick-tagger/master/README.md)

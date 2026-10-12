@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Paper Manager
 > - 插件作者：Elliot Dong
 > - 插件说明：在你的仓库里管理、阅读、批注和整合学术论文。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['文件管理', '学习与教育', '白板学术与科研', '图片与PDF', '效率工具', 'obsidian插件']
+> - 插件分类：['文件管理', '学习与教育', '学术与科研', '图片与PDF', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yuhang-dong/obsidian-paper-manager)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?paper-manager)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yuhang-dong/obsidian-paper-manager/master/README.md)

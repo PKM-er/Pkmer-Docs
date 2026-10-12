@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian42 - Strange New Worlds
 > - 插件作者：TfTHacker
 > - 插件说明：揭示网络思维和你的保险库创造的奇异新世界。
-> - 插件分类：[' 思维导图 ', ' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['思维导图', '数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/TfTHacker/obsidian42-strange-new-worlds)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian42-strange-new-worlds)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/TfTHacker/obsidian42-strange-new-worlds/master/README.md)

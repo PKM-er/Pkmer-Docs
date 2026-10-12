@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Squiggle
 > - 插件作者：Jesse Hoogland
 > - 插件说明：使用 Squiggle 在你的笔记中进行概率估计。
-> - 插件分类：[' 编辑工具 ', ' 笔记与日志 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '笔记与日志', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jqhoogland/obsidian-squiggle)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?squiggle)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jqhoogland/obsidian-squiggle/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Thumbnails
 > - 插件作者：Michael Harris
 > - 插件说明：将 YouTube 缩略图插入您的笔记中。
-> - 插件分类：[' 第三方工具集成 ', ' 图片与 PDF', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '图片与PDF', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Meikul/obsidian-thumbnails)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-thumbnails)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Meikul/obsidian-thumbnails/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Timeline Schedule
 > - 插件作者：Evan Bonsignori
 > - 插件说明：从人类可读的时间字符串生成的内联时间表，例如在 ```schedule``` 代码块中的 'Walk dog (30min)'。
-> - 插件分类：[' 时间与日期 ', ' 编辑工具 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['时间与日期', '编辑工具', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Ebonsignori/obsidian-timeline-schedule)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?timeline-schedule)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Ebonsignori/obsidian-timeline-schedule/main/README.md)

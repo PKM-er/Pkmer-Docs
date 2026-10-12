@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas ACP
 > - 插件作者：Geno Zhou
 > - 插件说明：向ACP代理咨询关于画布笔记的问题，然后把生成的笔记再添加回画布。
-> - 插件分类：['自动化与AI', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['自动化与AI', '白板', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/genozhou/canvas-acp)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas-acp)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/genozhou/canvas-acp/master/README.md)

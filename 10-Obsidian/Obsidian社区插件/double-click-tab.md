@@ -20,7 +20,7 @@ modified: 20231117122549
 > - 插件名称：Double Click Tab
 > - 插件作者：Boninall
 > - 插件说明：双击标签标题时修改默认行为的插件，比如关闭标签。
-> - 插件分类：['obsidian 插件 ',' 标签页 ']
+> - 插件分类：['obsidian插件', '标签页']
 > - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Double-Click-Tab)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?double-click-tab)
 

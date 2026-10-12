@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Anki Sync
 > - 插件作者：debanjandhar12
 > - 插件说明：黑曜石插件，可以制作闪卡，并将它们同步到 Anki。
-> - 插件分类：[' 学习与教育 ', ' 数据处理 ', 'anki', 'obsidian 插件 ']
+> - 插件分类：['学习与教育', '数据处理', 'anki', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/debanjandhar12/Obsidian-Anki-Sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ObsidianAnkiSync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/debanjandhar12/Obsidian-Anki-Sync/main/README.md)

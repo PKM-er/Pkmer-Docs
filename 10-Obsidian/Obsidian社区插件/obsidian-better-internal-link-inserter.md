@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Better Internal Link Inserter
 > - 插件作者：Salmund
 > - 插件说明：允许在链接建议中使用所选单词作为别名
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/salmund/obsidian-better-link-inserter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-better-internal-link-inserter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/salmund/obsidian-better-link-inserter/master/README.md)

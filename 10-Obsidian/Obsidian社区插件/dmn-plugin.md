@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：DMN Plugin
 > - 插件作者：joleaf
 > - 插件说明：该插件可以使用 dmn-js 查看 DMN。
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joleaf/obsidian-dmn-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?dmn-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/joleaf/obsidian-dmn-plugin/main/README.md)

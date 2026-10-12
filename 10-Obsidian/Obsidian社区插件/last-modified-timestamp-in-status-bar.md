@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Last Modified Timestamp in Status Bar
 > - 插件作者：Yustynn
 > - 插件说明：在状态栏动态显示文件修改时间戳。
-> - 插件分类：[' 界面优化 ', ' 文字处理 ', ' 状态栏 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '文字处理', '状态栏', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Yustynn/obsidian-last-modified-timestamp-in-status-bar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?last-modified-timestamp-in-status-bar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Yustynn/obsidian-last-modified-timestamp-in-status-bar/master/README.md)

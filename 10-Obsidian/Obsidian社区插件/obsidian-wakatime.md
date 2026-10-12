@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：WakaTime
 > - 插件作者：WakaTime
 > - 插件说明：WakaTime Obsidian 插件，用于从您的 Obsidian 使用活动中自动生成，使用情况的度量、数据报告和时间跟踪。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/wakatime/obsidian-wakatime)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-wakatime)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/wakatime/obsidian-wakatime/master/README.md)

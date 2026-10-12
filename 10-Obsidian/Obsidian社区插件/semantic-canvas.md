@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Semantic Canvas
 > - 插件作者：Aaron Gillespie
 > - 插件说明：使用画布创建语义知识图，以图形方式修改笔记属性。
-> - 插件分类：[' 图表与可视化 ', ' 笔记与日志 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['图表与可视化', '笔记与日志', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aarongilly/obsidian-semantic-canvas-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?semantic-canvas)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aarongilly/obsidian-semantic-canvas-plugin/master/README.md)

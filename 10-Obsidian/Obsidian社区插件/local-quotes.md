@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Local Quotes
 > - 插件作者：sundevista
 > - 插件说明：从整个存储库中收集您的引用，并在不同位置嵌入它们，并设置刷新延迟。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sundevista/local-quotes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?local-quotes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sundevista/local-quotes/master/README.md)

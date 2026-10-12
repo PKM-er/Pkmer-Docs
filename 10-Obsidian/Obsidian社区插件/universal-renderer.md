@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Universal renderer
 > - 插件作者：Kloud
 > - 插件说明：使用系统原生包来渲染各种图表
-> - 插件分类：[' 图表 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['图表', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dgudim/obsidian-universal-renderer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?universal-renderer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dgudim/obsidian-universal-renderer/master/README.md)

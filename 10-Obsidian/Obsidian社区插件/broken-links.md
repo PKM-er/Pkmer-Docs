@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Broken Links
 > - 插件作者：ipshing
 > - 插件说明：在您的保险库中查找不连接到笔记的损坏链接。
-> - 插件分类：[' 搜索 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ipshing/obsidian-broken-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?broken-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ipshing/obsidian-broken-links/main/README.md)

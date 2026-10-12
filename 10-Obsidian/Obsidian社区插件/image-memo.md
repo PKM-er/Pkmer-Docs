@@ -16,7 +16,7 @@ modified: 20240320183450
 > - 插件名称：Image Memo
 > - 插件作者：Oushuo Huang
 > - 插件说明：这个插件允许用户在日常笔记中标记和格式化图像，并提供一个搜索图片标签的视图。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian', 'image']
 > - 项目地址：[点我访问](https://github.com/Ender-Wiggin2019/obsidian-image-memo)
 
 ![image.png](https://cdn.pkmer.cn/images/20240316160332.png!pkmer)

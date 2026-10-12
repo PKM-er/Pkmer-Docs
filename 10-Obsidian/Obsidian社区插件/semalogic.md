@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：UseSemaLogic
 > - 插件作者：SemaLogic UG
 > - 插件说明：实时使用 SemaLogic 形式语言
-> - 插件分类：[' 数据分析 ', ' 自定义命令 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['数据分析', '自定义命令', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/MM-GO/UseSemaLogic)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?semalogic)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/MM-GO/UseSemaLogic/main/README.md)

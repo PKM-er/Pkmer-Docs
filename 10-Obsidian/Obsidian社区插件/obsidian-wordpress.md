@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：WordPress
 > - 插件作者：devbean
 > - 插件说明：一个插件，用于将您的 Obsidian 文档发布到 WordPress
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/devbean/obsidian-wordpress)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-wordpress)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/devbean/obsidian-wordpress/main/README.md)

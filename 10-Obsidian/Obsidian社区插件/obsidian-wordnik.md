@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Wordnik Definitions
 > - 插件作者：Henry Gustafson
 > - 插件说明：从 Wordnik 抓取一个主题的信息，并将其带入 Obsidian 笔记中。
-> - 插件分类：[' 搜索与排序 ', ' 第三方工具集成 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '第三方工具集成', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lizard-heart/obsidian-wordnik-definitions)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-wordnik)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lizard-heart/obsidian-wordnik-definitions/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Paste As Html
 > - 插件作者：maotong06
 > - 插件说明：粘贴为 HTML，保留原始 CSS 样式。从网页浏览器粘贴
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/maotong06/obsidian-paste-as-html-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-paste-as-html)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/maotong06/obsidian-paste-as-html-plugin/main/README.md)

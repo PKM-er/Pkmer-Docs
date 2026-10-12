@@ -20,7 +20,7 @@ modified: 20250317223819
 > - 插件名称：Extended File Support
 > - 插件作者：Nick de Bruin
 > - 插件说明：增加对各种文件类型的文件支持。允许查看和嵌入这些文件类型。包括：.kra, .psd, .obj, .glb, .gltf 等等。
-> - 插件分类：[' 文件管理 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '第三方联动', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Nick-de-Bruin/obsidian-extended-file-support)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?extended-file-support)
 

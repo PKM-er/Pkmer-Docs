@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Email Block
 > - 插件作者：joleaf
 > - 插件说明：通过特定的代码域语法，可以在 Obdidian 内显示一个建议电子邮件样式。（语法：to，subjuect，body， CC 等）
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joleaf/obsidian-email-block-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?email-block-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/joleaf/obsidian-email-block-plugin/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Run
 > - 插件作者：Hananoshika Yomaru
 > - 插件说明：从 dataview 查询和 JavaScript 生成 Markdown。
-> - 插件分类：[' 数据处理 ', ' 编程与脚本 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编程与脚本', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/HananoshikaYomaru/obsidian-run)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?run)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-run/main/README.md)

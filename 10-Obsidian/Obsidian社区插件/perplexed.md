@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Perplexed
 > - 插件作者：lossless-group
 > - 插件说明：你可以直接在笔记里生成来自Perplexity、Anthropic Claude、Perplexica或本地LM Studio并带有引用来源的研究内容。
-> - 插件分类：['第三方工具集成', '自动化与AI', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '自动化与AI', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lossless-group/perplexed-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?perplexed)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lossless-group/perplexed-plugin/master/README.md)

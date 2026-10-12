@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Related Notes Finder
 > - 插件作者：Joshua Michalik
 > - 插件说明：用于产找当前笔记中出现的词汇，和其他可能相关的笔记。
-> - 插件分类：[' 搜索与排序 ', ' 数据分析 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '数据分析', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lifegems/obsidian-related-notes-finder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-related-notes-finder)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lifegems/obsidian-related-notes-finder/master/README.md)

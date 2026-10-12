@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Kindle Highlights Importer
 > - 插件作者：MovingMillennial
 > - 插件说明：从 html 文件中导入 kindle 的亮点（从 kindle 应用程序中获取）到一个笔记中。
-> - 插件分类：[' 文件管理 ', ' 学习与教育 ', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '学习与教育', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/l2xu/kindle_html_importer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?kindle-html-importer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/l2xu/kindle_html_importer/master/README.md)

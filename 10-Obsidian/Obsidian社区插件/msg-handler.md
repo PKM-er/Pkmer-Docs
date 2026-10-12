@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：MSG Handler
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：在 Obsidian Vault 中轻松显示和搜索来自 Outlook 的 MSG 文件。
-> - 插件分类：[' 文件管理 ', ' 搜索与排序 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '搜索与排序', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ozntel/obsidian-msg-handler)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?msg-handler)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ozntel/obsidian-msg-handler/master/README.md)

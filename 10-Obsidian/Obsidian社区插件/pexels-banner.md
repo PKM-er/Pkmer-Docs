@@ -20,7 +20,7 @@ Obsidian 插件 "Pexels Banner" 允许用户使用 Pexels API 或直接 URL 自�
 > - 插件名称：Pexels Banner
 > - 插件作者：Justin Parker
 > - 插件说明：将 Pexels 上的一幅图片应用为您的笔记的横幅。
-> - 插件分类：[' 图片与 PDF', ' 笔记管理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['banner', '笔记管理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jparkerweb/pexels-banner)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pexels-banner)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jparkerweb/pexels-banner/main/README.md)

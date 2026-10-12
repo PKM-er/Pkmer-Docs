@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Obsidian Cloudinary Uploader
 > - 插件作者：Jordan Handy
 > - 插件说明：将从剪贴板复制的图像上传到 Cloudinary
-> - 插件分类：[' 文件管理 ', ' 图片与 PDF', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '图片与PDF', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jordanhandy/obsidian-cloudinary-uploader)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-cloudinary-uploader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jordanhandy/obsidian-cloudinary-uploader/main/README.md)

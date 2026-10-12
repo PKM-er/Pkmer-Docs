@@ -20,7 +20,7 @@ Anki 和 Obsidian 都是收到大家欢迎的软件，两者联动需要依靠�
 > - 插件名称：Obsidian_to_Anki
 > - 插件作者：Obsidian_to_Anki (org)
 > - 插件说明：从文本或 markdown 文件到 Anki。在 Obsidian 中作为插件运行，或者在命令行中作为 python 脚本运行。支持用户自定义的抽认卡语法。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件', 'Obsidian', 'Anki']
 > - 项目地址：[点我访问](https://github.com/Pseudonium/Obsidian_to_Anki)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?Obsidian-to-Anki)
 

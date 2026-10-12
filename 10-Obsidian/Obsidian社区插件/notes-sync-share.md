@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Notes Sync Share
 > - 插件作者：Alt-er
 > - 插件说明：在您自己的私人服务中同步和共享（发布）您的笔记。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 安全 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '安全', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Alt-er/obsidian-sync-share)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?notes-sync-share)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Alt-er/obsidian-sync-share/master/README.md)

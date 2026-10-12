@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Arrows
 > - 插件作者：artisticat
 > - 插件说明：在你的笔记的不同部分画箭头，就像在纸上一样。
-> - 插件分类：[' 编辑工具 ', ' 界面优化 ', ' 图表与可视化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '界面优化', '图表与可视化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/artisticat1/arrows)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?arrows-in-md)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/artisticat1/arrows/main/README.md)

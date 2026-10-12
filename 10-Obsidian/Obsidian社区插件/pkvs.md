@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Persistent Key-Value Store
 > - 插件作者：Ara Adkins
 > - 插件说明：提供一个持久的键值存储，用于在 Obsidian 中的脚本中使用。
-> - 插件分类：[' 数据处理 ', ' 第三方工具集成 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '第三方工具集成', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/iamrecursion/obsidian-pkvs)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?pkvs)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/iamrecursion/obsidian-pkvs/main/README.md)

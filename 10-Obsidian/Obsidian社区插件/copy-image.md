@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Copy Image
 > - 插件作者：Felipe D.S. Lima
 > - 插件说明：轻松通过右键单击图像将图像从 Obsidian 复制到剪贴板。
-> - 插件分类：[' 第三方工具集成 ', ' 图片与 PDF', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '图片与PDF', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/felipe-ds-lima/obsidian-copy-image-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?copy-image)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/felipe-ds-lima/obsidian-copy-image-plugin/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：TickTick
 > - 插件作者：Viduy Cheung
 > - 插件说明：通过 Obsidian 在 TickTick 中检查和创建任务
-> - 插件分类：[' 任务管理 ', ' 第三方工具集成 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '第三方工具集成', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/viduycheung/ticktick-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ticktick)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/viduycheung/ticktick-obsidian/main/README.md)

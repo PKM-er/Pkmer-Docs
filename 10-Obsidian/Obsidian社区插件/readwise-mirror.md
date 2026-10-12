@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Readwise Mirror
 > - 插件作者：jsonmartin
 > - 插件说明：将您的 Readwise 图书馆直接镜像到 Obsidian 金库中
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jsonMartin/readwise-mirror)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?readwise-mirror)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jsonMartin/readwise-mirror/master/README.md)

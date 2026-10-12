@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：LaTeX Input
 > - 插件作者：yy
 > - 插件说明：这是一款适用于Obsidian的LaTeX公式输入插件。你可以从符号面板中点击符号，自动生成代码，实时预览，然后插入到当前笔记中；它还支持**屏幕选区域OCR识别**和**剪贴板……** 这款插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['编辑工具', '文字处理', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '文字处理', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/sun8854/Obsidian-LaTeX-input)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?latex-input)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/sun8854/Obsidian-LaTeX-input/master/README.md)

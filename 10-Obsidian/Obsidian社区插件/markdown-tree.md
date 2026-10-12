@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markdown Tree
 > - 插件作者：carvah
 > - 插件说明：使用基于 Markdown 的代码风格，使用制表符、空格和换行符创建一个美观且直观的目录树。
-> - 插件分类：[' 表格 ', ' 样式与美化 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '样式与美化', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/carvah/markdown-tree-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-tree)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/carvah/markdown-tree-plugin/master/README.md)

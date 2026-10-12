@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：arXiv Daily
 > - 插件作者：Da-Chuan Tian
 > - 插件说明：每日arXiv跟踪器，能通过大语言模型（LLM）筛选和总结论文，并将内容存入你的仓库。——此插件尚未经过Obsidian官方人员手动审核。
-> - 插件分类：['自动化与AI', '学习与教育', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '学习与教育', '第三方工具集成', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tdccccc/arxiv-daily)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?arxiv-daily)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tdccccc/arxiv-daily/master/README.md)

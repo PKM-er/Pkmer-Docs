@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Research Atlas
 > - 插件作者：research-atlas
 > - 插件说明：Develop research questions, record bottlenecks, and revisit ideas when new methods or evidence change what is possible. - This plugin has not been manually reviewed by Obsidian staff.
-> - 插件分类：['白板学术与科研', '思维导图', '效率工具', 'obsidian插件']
+> - 插件分类：['学术与科研', '思维导图', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/louanna1208/research-atlas-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?research-atlas)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/louanna1208/research-atlas-obsidian/master/README.md)

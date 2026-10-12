@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Dangling links
 > - 插件作者：Graydon Hoare
 > - 插件说明：添加一个面板，显示保险库中任何悬挂的链接。
-> - 插件分类：[' 文件管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/graydon/obsidian-dangling-links)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-dangling-links)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/graydon/obsidian-dangling-links/main/README.md)

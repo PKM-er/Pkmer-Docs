@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Underline
 > - 插件作者：Benature
 > - 插件说明：使用 ctrl+u 给文字增加下划线。该插件在新版版本下会出现错误。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Benature/obsidian-underline)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-underline)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Benature/obsidian-underline/main/README.md)

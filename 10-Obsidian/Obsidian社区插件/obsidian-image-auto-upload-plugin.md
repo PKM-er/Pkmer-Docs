@@ -20,7 +20,7 @@ Obsidian Image Auto Upload Plugin 是一个可以通过 PicGo 自动上传图片
 > - 插件名称：Image auto upload Plugin
 > - 插件作者：renmu123
 > - 插件说明：这个插件可以使用 PicGo 从剪贴板上传图片。
-> - 插件分类：[' 第三方工具集成 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/renmu123/obsidian-image-auto-upload-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-image-auto-upload-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/renmu123/obsidian-image-auto-upload-plugin/master/README.md)

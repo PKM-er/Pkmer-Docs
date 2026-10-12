@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tray
 > - 插件作者：dragonwocky
 > - 插件说明：从系统托盘中运行 Obsidian，以实现可自定义的窗口管理和全局快速笔记。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dragonwocky/obsidian-tray)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tray)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dragonwocky/obsidian-tray/main/README.md)

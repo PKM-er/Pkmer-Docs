@@ -20,7 +20,7 @@ modified: 20241217113809
 > - 插件名称：Rich foot
 > - 插件作者：Justin Parker
 > - 插件版本：1.6.2
-> - 插件分类：[' 编辑工具 ', ' 文字处理 ', ' 笔记管理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '文字处理', '笔记管理', 'obsidian插件', 'Obsidian']
 > - 插件说明：`Rich foot` 插件可以在标签页底部（插件英文名中的 "foot" 需要与 `脚注(footnote)` 区别开，二者唯一的相同点是都位于标签页底部）以胶囊形式展示当前笔记的 `出链` 和 `入链（即核心插件中的反向链接）`，也可展示笔记的 `创建日期` 和 `修改日期`，并针对分割线、链接和日期的样式提供了丰富的自定义选项。
 > - 插件项目地址：[点我跳转](https://github.com/jparkerweb/rich-foot)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?rich%20foot)

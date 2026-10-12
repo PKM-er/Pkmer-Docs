@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Vault Chat
 > - 插件作者：Exo Ascension
 > - 插件说明：一个 ChatGPT 机器人，训练自您的保险库笔记。向您的 AI 提问关于您自己的想法和思考的问题！
-> - 插件分类：[' 数据处理 ', ' 自动化与 AI', ' 笔记与日志 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '自动化与AI', '笔记与日志', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/exoascension/vault-chat)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?vault-chat)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/exoascension/vault-chat/main/README.md)

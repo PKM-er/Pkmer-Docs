@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：FormulaR
 > - 插件作者：danieldaidai
 > - 插件说明：自动验证和完成LaTeX数学推导：检测{align}块中的错误并给出下一步建议。
-> - 插件分类：['自动化与AI', '学习与教育', '编辑工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '学习与教育', '编辑工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/danieldaidai/FormulaR)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?formula-r)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/danieldaidai/FormulaR/master/README.md)

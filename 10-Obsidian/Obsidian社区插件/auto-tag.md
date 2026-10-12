@@ -20,7 +20,7 @@ modified: 20240116112810
 > - 插件名称：Auto Tag
 > - 插件作者：Control Alt
 > - 插件说明：轻松为您的 Obsidian 笔记或选定的文本生成相关标签。
-> - 插件分类：['obsidian 插件 ']
+> - 插件分类：['obsidian插件', 'AI', '标签']
 > - 项目地址：[点我访问](https://github.com/CtrlAltFocus/obsidian-plugin-auto-tag)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-tag)
 

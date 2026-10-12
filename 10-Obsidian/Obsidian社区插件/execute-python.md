@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Execute Python
 > - 插件作者：williamechols
 > - 插件说明：轻量级的 Python 代码片段执行器，支持运行时输入。
-> - 插件分类：[' 编程与脚本 ', ' 编辑工具 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['编程与脚本', '编辑工具', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/williamechols/obsidian-execute-python)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?execute-python)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/WilliamEchols/obsidian-execute-python/master/README.md)

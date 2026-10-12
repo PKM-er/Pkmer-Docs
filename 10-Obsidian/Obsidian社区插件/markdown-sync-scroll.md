@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Markdown Sync Scroll
 > - 插件作者：ProjectXero
 > - 插件说明：允许两个链接的 Markdown 视图同步滚动。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/XeroAlpha/markdown-sync-scroll)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?markdown-sync-scroll)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/XeroAlpha/markdown-sync-scroll/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：DataLoom
 > - 插件作者：Trey Wallis
 > - 插件说明：给你类似于 Notion 中的表格编辑体验。
-> - 插件分类：[' 表格 ', ' 数据处理 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['表格', '数据处理', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/trey-wallis/obsidian-dataloom)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?notion-like-tables)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/decaf-dev/obsidian-dataloom/master/README.md)

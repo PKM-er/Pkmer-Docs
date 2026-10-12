@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Carry-Forward
 > - 插件作者：Jacob Levernier
 > - 插件说明：从笔记中复制文本，链接回其复制的源，或复制一个链接到笔记块。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jglev/obsidian-carry-forward)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-carry-forward)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jglev/obsidian-carry-forward/main/README.md)

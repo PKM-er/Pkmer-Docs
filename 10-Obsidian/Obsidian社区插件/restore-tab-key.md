@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Restore Tab Key
 > - 插件作者：jerrymk
 > - 插件说明：恢复 tab 键行为：tab 键插入一个 tab，就像它应该的那样。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jrymk/restore-tab-key)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?restore-tab-key)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jrymk/restore-tab-key/main/README.md)

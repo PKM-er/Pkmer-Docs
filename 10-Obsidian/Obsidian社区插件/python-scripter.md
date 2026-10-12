@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Python Scripter
 > - 插件作者：Nick Allison
 > - 插件说明：直接将 Python 脚本作为 Obsidian 命令运行
-> - 插件分类：[' 编程 ', ' 自定义命令 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['编程', '自定义命令', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nickrallison/obsidian-python-scripter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?python-scripter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nickrallison/obsidian-python-scripter/master/README.md)

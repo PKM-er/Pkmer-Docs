@@ -19,7 +19,7 @@ modified: 20230831151054
 > - 插件名称：Obsidian42 BRAT
 > - 插件作者：TfTHacker
 > - 插件说明：让你可以安装未上架的插件，主题。
-> - 插件分类：[' 插件 ', ' 效率 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '安装插件', '测试版', '主题']
 > - 插件项目地址：[点我跳转](https://github.com/TfTHacker/obsidian42-brat)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian42-brat)
 

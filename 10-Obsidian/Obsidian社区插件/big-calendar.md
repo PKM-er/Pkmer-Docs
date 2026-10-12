@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Big Calendar
 > - 插件作者：Boninall
 > - 插件说明：Obsidian 的大尺寸日历功能。您的日常笔记或任务中的所有事件都使用了任务/数据视图/看板视图。
-> - 插件分类：[' 日历与时间 ', ' 任务管理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['日历与时间', '任务管理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Big-Calendar)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?big-calendar)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Big-Calendar/main/README.md)

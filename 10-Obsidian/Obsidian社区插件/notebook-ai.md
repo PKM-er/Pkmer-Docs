@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Knowledge AI
 > - 插件作者：david4liu
 > - 插件说明：这个插件还未经过Obsidian官方人员的人工审核。这是适用于你仓库的人工智能：可进行有引用依据的可靠检索增强生成（RAG）聊天，采用混合BM25 + 向量 + 摘要检索方式，支持多格式索引（Markdown、PDF、DOCX、XLSX、PPTX），具备图像光学字符识别（OCR）/视觉识别功能，还能生成相关成果。
-> - 插件分类：['自动化与AI', '搜索与排序', '图片与PDF', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['自动化与AI', '搜索与排序', '图片与PDF', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/david46liu/obsidian-knowledge-ai)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?notebook-ai)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/david46liu/obsidian-knowledge-ai/master/README.md)

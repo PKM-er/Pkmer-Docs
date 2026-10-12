@@ -20,7 +20,7 @@ modified: 20250217105745
 > - 插件名称：Goal Tracker
 > - 插件作者：Ben Rotholtz
 > - 插件说明：在状态栏中跟踪每周目标
-> - 插件分类：[' 状态栏 ', ' 任务管理 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['状态栏', '任务管理', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/GizmoRay/obsidian-goal-tracker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?goal-tracker)
 

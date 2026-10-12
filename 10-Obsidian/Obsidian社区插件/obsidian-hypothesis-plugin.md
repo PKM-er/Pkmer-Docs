@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hypothes.is
 > - 插件作者：weichenw
 > - 插件说明：and notes 同步您的假设重点和笔记
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/weichenw/obsidian-hypothesis-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-hypothesis-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/weichenw/obsidian-hypothesis-plugin/master/README.md)

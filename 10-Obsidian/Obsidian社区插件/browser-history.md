@@ -20,7 +20,7 @@ modified: 20250419201421
 > - 插件名称：Browser History
 > - 插件作者：noy4
 > - 插件说明：同步你的浏览器浏览历史到 Obsidian 仓库
-> - 插件分类：[' 浏览器 ',' 浏览历史 ', ' 第三方集成 ']
+> - 插件分类：['浏览器', '浏览历史', '第三方集成']
 > - 项目地址：[点我访问](https://github.com/mariusvw/obsidian_browser-history)
 > - 国内下载地址：[下载安装]((<https://pkmer.cn/products/plugin/pluginMarket/?browser-history>)
 > - 自述文件：[Readme](https://github.com/mariusvw/obsidian_browser-history/blob/master/README.md)

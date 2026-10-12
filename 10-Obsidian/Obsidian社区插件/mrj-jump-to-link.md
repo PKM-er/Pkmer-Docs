@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Jump to link
 > - 插件作者：MrJackphil
 > - 插件说明：这个插件允许使用热键在当前文档中打开链接。
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mrjackphil/obsidian-jump-to-link)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mrj-jump-to-link)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mrjackphil/obsidian-jump-to-link/master/README.md)

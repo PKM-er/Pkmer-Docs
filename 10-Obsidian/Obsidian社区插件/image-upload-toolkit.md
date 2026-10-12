@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Image Upload Toolkit
 > - 插件作者：Addo Zhang
 > - 插件说明：一个黑曜石插件，用于将嵌入在 Markdown 中的本地图片上传到远程存储，并导出 Markdown 以发布到静态网站。目前，它支持 Imgur 和 Aliyun OSS。
-> - 插件分类：[' 文件管理 ', ' 编辑工具 ', ' 图片与 PDF', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编辑工具', '图片与PDF', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/addozhang/obsidian-image-upload-toolkit)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?image-upload-toolkit)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/addozhang/obsidian-image-upload-toolkit/main/README.md)

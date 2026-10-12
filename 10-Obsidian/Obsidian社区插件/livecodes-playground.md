@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Livecodes Playground
 > - 插件作者：@gapmiss
 > - 插件说明：Client-side code editor playground - 由 LiveCodes 提供支持
-> - 插件分类：[' 编辑工具 ', ' 学习 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '学习', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gapmiss/livecodes-playground)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?livecodes-playground)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gapmiss/livecodes-playground/master/README.md)

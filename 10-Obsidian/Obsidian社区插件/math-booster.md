@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Math Booster
 > - 插件作者：Ryota Ushio
 > - 插件说明：将您的 Obsidian 转化为功能强大的 LaTeX。动态编号的定理环境和方程，实时建议定理/方程，显示定理/方程的反向链接，并在引用和引用中实时渲染方程。
-> - 插件分类：[' 样式与美化 ', ' 模板与链接处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '模板与链接处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/RyotaUshio/obsidian-math-booster)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?math-booster)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/RyotaUshio/obsidian-latex-theorem-equation-referencer/master/README.md)

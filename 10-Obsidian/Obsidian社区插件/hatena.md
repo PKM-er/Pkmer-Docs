@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hatena Blog Publisher
 > - 插件作者：Takuro Matsukawa
 > - 插件说明：直接发布到您的 Hatena 博客。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 插件 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '插件', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/takmatsukawa/obsidian-hatena)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?hatena)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/takmatsukawa/obsidian-hatena/master/README.md)

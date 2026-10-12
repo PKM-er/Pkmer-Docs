@@ -16,7 +16,7 @@ modified: 20240704232953
 > - 插件名称：Image2LaTEX
 > - 插件作者：Hugo Persson
 > - 插件说明：将您的图像转换为 LaTEX 代码。
-> - 插件分类：[' 图片与 PDF', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['图片与PDF', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Hugo-Persson/obsidian-ocrlatex)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?image2latex)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Hugo-Persson/obsidian-ocrlatex/master/README.md)

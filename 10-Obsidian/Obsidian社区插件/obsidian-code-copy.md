@@ -20,7 +20,7 @@ modified: 20230901100758
 > - 插件名称：Code Copy
 > - 插件作者：superDuperCyberTechno
 > - 插件说明：为代码块添加一个复制按钮。该功能官方已经提供。
-> - 插件分类：[' 快捷键 ', ' 效率 ', 'obsidian 插件 ', 'readme']
+> - 插件分类：['快捷键', '效率', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/superDuperCyberTechno/obsidian-code-copy)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-code-copy)
 

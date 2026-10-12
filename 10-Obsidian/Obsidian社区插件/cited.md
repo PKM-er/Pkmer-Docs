@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Cited
 > - 插件作者：notenerd
 > - 插件说明：针对你的仓库提出研究问题，就能获得有依据、按论点分组引用的答案 —— 无需外部账号，使用你本地的Claude命令行界面。 - 此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['学习与教育', '自动化与AI', '第三方工具集成', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '第三方工具集成', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/notenerdofficial/cited)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cited)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/notenerdofficial/cited/master/README.md)

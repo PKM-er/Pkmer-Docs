@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：autoLiterature
 > - 插件作者：hucorz
 > - 插件说明：协助您记录文学笔记。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 学习与教育 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '学习与教育', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hucorz/obsidian-autoLiterature)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?auto-literature)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hucorz/obsidian-autoLiterature/master/README.md)

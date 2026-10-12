@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Task list
 > - 插件作者：Ted Marozzi
 > - 插件说明：Enable better task management via lists.
-> - 插件分类：[' 任务管理 ', ' 编辑工具 ', ' 列表 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '编辑工具', '列表', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/ted-marozzi/task-list)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?task-list)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/ted-marozzi/task-list/master/README.md)

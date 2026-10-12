@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Extended Task Lists
 > - 插件作者：joeriddles
 > - 插件说明：扩展了对任务列表的阅读器视图支持，包括进行中和不会执行的任务项目。
-> - 插件分类：[' 任务管理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joeriddles/extended-task-lists)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?extended-task-lists)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/joeriddles/extended-task-lists/main/README.md)

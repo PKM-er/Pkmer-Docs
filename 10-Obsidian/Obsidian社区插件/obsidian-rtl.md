@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：RTL Support
 > - 插件作者：esm
 > - 插件说明：为 Obsidian 添加了 RTL 支持。RTL 从右到左文本方向的语言，如阿拉伯语、希伯来语和波斯语。
-> - 插件分类：[' 编辑工具 ', ' 语言处理 ', ' 样式与美化 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '语言处理', '样式与美化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/esm7/obsidian-rtl)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-rtl)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/esm7/obsidian-rtl/master/README.md)

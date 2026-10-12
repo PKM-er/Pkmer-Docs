@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：AI Zhipu
 > - 插件作者：Tarslab
 > - 插件说明：使用 ZhipuAI API 生成文本。
-> - 插件分类：[' 自动化与 AI', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['自动化与AI', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/TarsLab/obsidian-ai-zhipu)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ai-zhipu)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/TarsLab/obsidian-ai-zhipu/main/README.md)

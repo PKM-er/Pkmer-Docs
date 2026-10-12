@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PARA Shortcuts
 > - 插件作者：gOAT
 > - 插件说明：这个插件提供有用的命令来使用 PARA 方法设置和管理您的知识。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gOATiful/para-shortcuts)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?para-shortcuts)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gOATiful/para-shortcuts/master/README.md)

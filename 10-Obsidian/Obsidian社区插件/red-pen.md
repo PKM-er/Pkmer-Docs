@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Red Pen
 > - 插件作者：Lucas Melin
 > - 插件说明：红笔作为你写作的校对者。
-> - 插件分类：[' 文字处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['文字处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lucasmelin/red-pen)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?red-pen)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucasmelin/red-pen/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Link Nodes in Canvas
 > - 插件作者：Boninall
 > - 插件说明：一个插件，可以根据它们之间的链接，在 Canvas 上为您添加边缘。
-> - 插件分类：[' 第三方工具集成 ', ' 编辑工具 ', ' 链接 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '编辑工具', '链接', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?link-nodes-in-canvas)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Quorafind/Obsidian-Link-Nodes-In-Canvas/master/README.md)

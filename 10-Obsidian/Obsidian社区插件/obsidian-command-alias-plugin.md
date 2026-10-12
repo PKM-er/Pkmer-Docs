@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Command Alias
 > - 插件作者：@Yajamon
 > - 插件说明：这个插件为 Obsidian 命令提供了别名。
-> - 插件分类：[' 编辑工具 ', ' 自定义命令 ', ' 效率工具 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '自定义命令', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yajamon/obsidian-command-alias-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-command-alias-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yajamon/obsidian-command-alias-plugin/master/README.md)

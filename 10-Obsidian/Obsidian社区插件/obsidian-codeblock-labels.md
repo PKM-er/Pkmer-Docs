@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Code Block Labels
 > - 插件作者：Sean Bowers
 > - 插件说明：为篱笆代码块添加标签
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/stbowers/obsidian-codeblock-labels)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-codeblock-labels)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/stbowers/obsidian-codeblock-labels/main/README.md)

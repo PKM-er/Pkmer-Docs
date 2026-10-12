@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Footlinks
 > - 插件作者：Daha
 > - 插件说明：自动提取笔记中的链接，并将这些链接，在笔记尾部生成对应的 脚注格式。
-> - 插件分类：[' 链接 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['链接', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/DahaWong/obsidian-footlinks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?footlinks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/DahaWong/obsidian-footlinks/main/README.md)

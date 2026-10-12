@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Link Headers Directly
 > - 插件作者：Signynt
 > - 插件说明：当一个标题被链接时，预览模式只会显示标题，而不是笔记名称。
-> - 插件分类：[' 数据处理 ', ' 快捷键 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '快捷键', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Signynt/link-headers-directly)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?link-headers-directly)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Signynt/link-headers-directly/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PostgreSQL Obsidian
 > - 插件作者：Camille Louédoc-Eyries
 > - 插件说明：将您的笔记的元数据上传到 PostgreSQL 数据库
-> - 插件分类：[' 数据处理 ', ' 数据库 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '数据库', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/clouedoc/postgresql-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?postgresql-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/clouedoc/postgresql-obsidian/master/README.md)

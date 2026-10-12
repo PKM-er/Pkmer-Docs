@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：GPT Notes
 > - 插件作者：micahke
 > - 插件说明：使用 OpenAI 的 GPT-3 语言模型生成任何主题的笔记。
-> - 插件分类：[' 数据处理 ', ' 学习与教育 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '学习与教育', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/micahke/obsidian-gpt3-notes)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?gpt3-notes)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/micahke/obsidian-gpt3-notes/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Search Templates Library
 > - 插件作者：Pentchaff
 > - 插件说明：允许您保存搜索模板以供将来重复使用。
-> - 插件分类：[' 搜索与排序 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Pentchaff/obsidian-search-library)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?template-search-library)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Pentchaff/obsidian-search-library/main/README.md)

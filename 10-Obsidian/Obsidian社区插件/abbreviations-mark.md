@@ -20,7 +20,7 @@ modified: 20250116114959
 > - 插件名称：Abbreviations and Acronyms
 > - 插件作者：dragonish
 > - 插件版本：1.1.0
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '自动化与AI', 'obsidian插件']
 > - 插件概述：`Abbreviations and Acronyms` 插件通过读取 `笔记属性（Properties）` 中特定 `属性名称` 的 `属性值` 的定义语句，会自动监测笔记中的 `略语` 并为它们添加下划虚线，鼠标悬停在上方时还会显示其定义，有助于笔记内的术语标准化工作
 > - 插件项目地址：[点我跳转](https://github.com/dragonish/obsidian-abbreviations)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?abbreviations-mark)

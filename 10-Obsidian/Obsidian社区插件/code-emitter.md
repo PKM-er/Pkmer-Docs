@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Code Emitter
 > - 插件作者：YISH
 > - 插件说明：一个黑曜石插件，可以在沙盒环境中交互式执行代码块，支持的语言有 Rust、Kotlin、Python、Javascript、TypeScript 等。
-> - 插件分类：[' 编程 ', ' 编辑工具 ', ' 自动化与 AI', 'obsidian 插件 ']
+> - 插件分类：['编程', '编辑工具', '自动化与AI', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mokeyish/obsidian-code-emitter)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?code-emitter)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mokeyish/obsidian-code-emitter/master/README.md)

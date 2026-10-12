@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Note aliases
 > - 插件作者：Pulsovi
 > - 插件说明：这个插件管理 Obsidian 中的笔记别名。
-> - 插件分类：[' 第三方工具集成 ', ' 笔记与日志 ', ' 文本处理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '笔记与日志', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pulsovi/obsidian-note-aliases)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?note-aliases)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pulsovi/obsidian-note-aliases/master/README.md)

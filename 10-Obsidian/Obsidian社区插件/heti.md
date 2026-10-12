@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：heti
 > - 插件作者：Moeyua
 > - 插件说明：专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以带来更好的阅读体验。
-> - 插件分类：[' 样式与美化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/moeyua/obsidian-heti)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?heti)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/moeyua/obsidian-heti/master/README.md)

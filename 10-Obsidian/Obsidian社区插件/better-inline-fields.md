@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Better Inline Fields
 > - 插件作者：David Sarman
 > - 插件说明：增强 Dataview 样式内联字段
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/dsarman/better-inline-fields)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?better-inline-fields)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/dsarman/better-inline-fields/master/README.md)

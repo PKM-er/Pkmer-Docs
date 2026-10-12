@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Temple
 > - 插件作者：garyng
 > - 插件说明：Obsidian 插件，由 Nunjucks 驱动的模板。
-> - 插件分类：[' 模板与链接处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['模板与链接处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/garyng/obsidian-temple)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-temple)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/garyng/obsidian-temple/master/README.md)

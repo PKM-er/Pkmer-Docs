@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Diary
 > - 插件作者：pobsiz
 > - 插件说明：这个插件还没经过Obsidian官方人员的人工审核。这是一款带有日期笔记、范围笔记以及支持显示节假日的年度和月度规划器。
-> - 插件分类：['日历与时间，效率工具，任务管理，模板与链接处理', 'obsidian插件']
+> - 插件分类：['日历与时间', '效率工具', '任务管理', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/pobsiz/obsidian-diary)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?diary)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/pobsiz/obsidian-diary/master/README.md)

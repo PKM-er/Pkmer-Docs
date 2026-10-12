@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Ctrl-XA cycle various items
 > - 插件作者：nbossard
 > - 插件说明：Cycle through various items with keyboard shortcuts. Such as days, months, true-false, log level,... anything you need.
-> - 插件分类：[' 快捷键 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['快捷键', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nbossard/obsidian-CtrlXA)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ctrl-xa)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/nbossard/obsidian-CtrlXA/master/README.md)

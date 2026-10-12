@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：GitLab Issues
 > - 插件作者：Ben Roberts
 > - 插件说明：将 Gitlab 问题导入您的 Obsidian 保险库。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/benr77/obsidian-gitlab-issues)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-gitlab-issues)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/benr77/obsidian-gitlab-issues/master/README.md)

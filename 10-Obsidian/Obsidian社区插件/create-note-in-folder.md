@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Create Note in Folder
 > - 插件作者：Mara-Li
 > - 插件说明：在特定文件夹中添加命令以创建一个笔记。
-> - 插件分类：[' 编辑工具 ', ' 第三方工具集成 ', ' 数据分析 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '第三方工具集成', '数据分析', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Lisandra-dev/obsidian-create-note-in-folder)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?create-note-in-folder)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mara-Li/obsidian-create-note-in-folder/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：PaperClaw
 > - 插件作者：agnuxo1
 > - 插件说明：你可以在p2pclaw.com上把任何笔记转化成经过同行评审的研究论文。
-> - 插件分类：['第三方工具集成', '文字处理', '发布工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['第三方工具集成', '文字处理', '发布工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/agnuxo1/paperclaw-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?paperclaw)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/agnuxo1/paperclaw-obsidian/master/README.md)

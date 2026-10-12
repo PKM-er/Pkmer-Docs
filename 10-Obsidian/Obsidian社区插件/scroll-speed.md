@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Scroll Speed
 > - 插件作者：Florian Ludewig
 > - 插件说明：此插件帮你改变 Obsidian 笔记中的页面滚动速度。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/flolu/obsidian-scroll-speed)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?scroll-speed)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/flolu/obsidian-scroll-speed/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Academic RSS Reader
 > - 插件作者：apocly
 > - 插件说明：
-> - 插件分类：['学习与教育', '第三方工具集成', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '第三方工具集成', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/apoclyreol/Academic_RSS_Reader-Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?academic-rss-reader)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/apoclyreol/Academic_RSS_Reader-Obsidian/master/README.md)

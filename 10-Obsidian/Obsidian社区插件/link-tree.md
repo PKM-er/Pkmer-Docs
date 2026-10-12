@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Link Tree
 > - 插件作者：Joshua Tazman Reinier
 > - 插件说明：将文件链接和反向链接视为可递归展开、可过滤的列表，具有可编辑的文本，结合了 Dynalist 和 WorkFlowy 等大纲工具的结构和 Obsidian 的灵活性。
-> - 插件分类：[' 编辑工具 ', ' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joshuatazrein/obsidian-link-tree)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?link-tree)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/j-palindrome/obsidian-link-tree/main/README.md)

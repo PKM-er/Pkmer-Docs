@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Bulk Rename
 > - 插件作者：Oleg Lustenko
 > - 插件说明：现在，您可以根据模式重命名文件
-> - 插件分类：[' 文件管理 ', ' 数据处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '数据处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/OlegLustenko/obsidian-bulk-rename)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-bulk-rename-plugin)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/OlegLustenko/obsidian-bulk-rename/master/README.md)

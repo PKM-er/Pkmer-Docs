@@ -21,7 +21,7 @@ modified: 20241209201714
 > - 插件作者：Nick C.
 > - 插件版本：6.3.1
 > - 插件说明：为你的笔记插入一个自动目录，目录会根据内容自动编号变化
-> - 插件分类：[' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', 'TOC', '目录']
 > - 插件项目地址：[点我跳转](https://github.com/iLiftALot/insta-toc/)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?insta-toc)
 

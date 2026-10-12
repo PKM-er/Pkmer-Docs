@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Todoist Review
 > - 插件作者：Isaac McAuley
 > - 插件说明：A pane for reviewing overdue tasks from todoist
-> - 插件分类：[' 任务管理 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/imcauley/todoist-review)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?todoist-review)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/imcauley/todoist-review/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Letterboxd Diary RSS Sync
 > - 插件作者：Nick Felker
 > - 插件说明：同步您的公开 Letterboxd 日记。
-> - 插件分类：[' 第三方工具集成 ', ' 数据分析 ', ' 链接 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '数据分析', '链接', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fleker/letterboxd-for-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?letterboxd-rss-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Fleker/letterboxd-for-obsidian/master/README.md)

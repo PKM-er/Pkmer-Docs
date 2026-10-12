@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Scholarium
 > - 插件作者：tenor-john
 > - 插件说明：一个集人工智能辅助写作、文献管理、笔记记录和高效工具于一体的学术工作空间。——此插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['学习与教育', '自动化与AI', '文字处理', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['学习与教育', '自动化与AI', '文字处理', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/tenor-john/obsidian-scholarium)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?scholarium)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/tenor-john/obsidian-scholarium/master/README.md)

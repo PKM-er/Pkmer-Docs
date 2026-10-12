@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Hotkeys for templates
 > - 插件作者：Vinzent
 > - 插件说明：添加热键以插入特定模板
-> - 插件分类：[' 编辑工具 ', ' 快捷键 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '快捷键', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Vinzent03/obsidian-hotkeys-for-templates)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-hotkeys-for-templates)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Vinzent03/obsidian-hotkeys-for-templates/master/README.md)

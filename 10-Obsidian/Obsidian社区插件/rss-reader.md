@@ -20,7 +20,7 @@ modified: 20230914115959
 > - 插件名称：RSS Reader
 > - 插件作者：Johannes Theiner
 > - 插件说明：从 RSS 订阅源中阅读文章，并将它们纳入您的笔记中。支持将 RSS 按文件夹分类，文章专注模式，用 RSS 源里的文章创建新笔记，将文章粘贴到当前笔记中。创建自定义过滤器，标记文章，支持音频和视频内容。
-> - 插件分类：[' 第三方工具集成 ', ' 信息收集 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '信息收集', '文件管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/joethei/obsidian-rss)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?rss-reader)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：File Hider
 > - 插件作者：Oliver Akins
 > - 插件说明：允许您从 Obsidian 文件浏览器中隐藏文件和文件夹，如果您不再想看到它们。
-> - 插件分类：[' 文件管理 ', ' 界面优化 ', ' 自定义命令 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '界面优化', '自定义命令', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Oliver-Akins/file-hider)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?OA-file-hider)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Oliver-Akins/file-hider/main/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Xboard
 > - 插件作者：wrbin
 > - 插件说明：一个以本地优先的笔记、任务、外部信息和人工智能工作流程工作区。——此插件尚未经过Obsidian工作人员的人工审核。
-> - 插件分类：['任务管理', '自动化与AI', '效率工具', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['任务管理', '自动化与AI', '效率工具', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/wruibin803-jpg/Xboard)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?agent-dashboard)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/wruibin803-jpg/Xboard/master/README.md)

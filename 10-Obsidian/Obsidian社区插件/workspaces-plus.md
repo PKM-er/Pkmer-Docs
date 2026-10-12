@@ -20,7 +20,7 @@ modified: 20230914161908
 > - 插件名称：Workspaces Plus
 > - 插件作者：NothingIsLost
 > - 插件说明：快速切换管理工作区的布局。你可以按照你不同的习惯，规划工作区。
-> - 插件分类：[' 工作区 ', ' 效率 ', ' 界面相关 ', 'obsidian 插件 ']
+> - 插件分类：['工作区', '效率', '界面相关', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/nothingislost/obsidian-workspaces-plus)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?workspaces-plus)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Spotify Link
 > - 插件作者：Studio Webux
 > - 插件说明：在你的笔记中包括你当前正在听的歌曲。
-> - 插件分类：[' 数据处理 ', ' 界面优化 ', ' 文字处理 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '界面优化', '文字处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/studiowebux/obsidian-spotify-link)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?spotify-link)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/studiowebux/obsidian-spotify-link/main/README.md)

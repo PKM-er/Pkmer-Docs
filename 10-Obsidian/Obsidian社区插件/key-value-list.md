@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Key-Value List
 > - 插件作者：Christian Wannerstedt
 > - 插件说明：使得将列表转换为整洁格式的键值对列表变得容易。
-> - 插件分类：[' 编辑工具 ', ' 样式与美化 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '样式与美化', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/christianwannerstedt/obsidian-key-value-list)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?key-value-list)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/christianwannerstedt/obsidian-key-value-list/main/README.md)

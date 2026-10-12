@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Syntactic Trees in Forest
 > - 插件作者：Lucianski
 > - 插件说明：能在文中渲染用于语言学的 LaTeX 森林风格句法树。——此插件尚未经过 Obsidian 官方人员的人工审核。
-> - 插件分类：['图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/lucianski/Forest-Syntactic-Trees-in-Obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?forest-syntactic-trees)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/lucianski/Forest-Syntactic-Trees-in-Obsidian/master/README.md)

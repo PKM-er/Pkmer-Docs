@@ -22,7 +22,7 @@ modified: 20230914145625
 > - 插件名称：File Tree Alternative Plugin
 > - 插件作者：Ozan Tellioglu
 > - 插件说明：提供了一个全新的增强型文件管理器
-> - 插件分类：[' 界面相关 ', ' 文件管理 ', 'obsidian 插件 ']
+> - 插件分类：['Obsidian', '插件', '增强型文件管理器']
 > - 插件项目地址：[点我跳转](https://github.com/ozntel/file-tree-alternative)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?file-tree-alternative)
 

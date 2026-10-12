@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Card View Mode
 > - 插件作者：PADAone
 > - 插件说明：以卡片模式查看你的笔记。该插件已经无法使用。
-> - 插件分类：[' 样式与美化 ', ' 编辑工具 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['样式与美化', '编辑工具', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yo-goto/obsidian-card-view-mode)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?obsidian-card-view-mode)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yo-goto/obsidian-card-view-mode/master/README.md)

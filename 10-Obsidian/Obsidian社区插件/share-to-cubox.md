@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Share to Cubox
 > - 插件作者：Redwinam
 > - 插件说明：分享 Obsidian 笔记到 Cubox。
-> - 插件分类：[' 文件管理 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/Redwinam/obsidian-cubox)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?share-to-cubox)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Redwinam/obsidian-cubox/master/README.md)

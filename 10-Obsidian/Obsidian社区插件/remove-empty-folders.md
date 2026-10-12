@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Remove Empty Folders
 > - 插件作者：fnya
 > - 插件说明：轻松删除空文件夹。
-> - 插件分类：[' 文件管理 ', ' 备份 ', ' 编程与脚本 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '备份', '编程与脚本', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/fnya/remove-empty-folders)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?remove-empty-folders)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/fnya/remove-empty-folders/main/README.md)

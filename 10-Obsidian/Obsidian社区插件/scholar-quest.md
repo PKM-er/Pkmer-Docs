@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Scholar Quest
 > - 插件作者：yangshaojun
 > - 插件说明：这个插件还未经Obsidian官方人员手动审核。用经验值（XP）和等级让你的学术工作流程变得更有趣吧！
-> - 插件分类：['学习与教育', '白板学术与科研', '效率工具', 'obsidian插件']
+> - 插件分类：['学习与教育', '学术与科研', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/zhao-jun-yong/scholar-quest)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?scholar-quest)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/zhao-jun-yong/scholar-quest/master/README.md)

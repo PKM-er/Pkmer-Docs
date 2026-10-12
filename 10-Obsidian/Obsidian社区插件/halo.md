@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Halo
 > - 插件作者：Ryan Wang
 > - 插件说明：Halo 的 Obsidian 集成支持将内容发布到 Halo 网站。
-> - 插件分类：[' 第三方工具集成 ', ' 文件管理 ', 'Markdown', 'obsidian 插件 ']
+> - 插件分类：['第三方工具集成', '文件管理', 'Markdown', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/halo-sigs/obsidian-halo)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?halo)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/halo-sigs/obsidian-halo/main/README.md)

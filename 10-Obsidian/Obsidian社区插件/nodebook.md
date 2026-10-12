@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：nodeBook
 > - 插件作者：gnowgi
 > - 插件说明：从nodeBook代码块渲染nodeBook中文网络语言（CNL）知识图谱：包括交互式概念图、变体、推理、包含视图，以及佩特里网令牌模拟。 - 此插件尚未经过Obsidian官方人员的手动审核。
-> - 插件分类：['图表与可视化', '思维导图', '图谱', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['图表与可视化', '思维导图', '图谱', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/gnowgi/obsidian-nodebook)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?nodebook)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/gnowgi/obsidian-nodebook/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Tag Page
 > - 插件作者：Matthew Sumpter
 > - 插件说明：动态生成和更新特定标签的页面，为您的存储库中每个标签的引用提供统一的视图。
-> - 插件分类：[' 搜索与排序 ', ' 数据处理 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['搜索与排序', '数据处理', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mjsumpter/obsidian-tag-page)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?tag-page-md)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/mjsumpter/obsidian-tag-page/develop/README.md)

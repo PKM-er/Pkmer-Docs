@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：qmd as md
 > - 插件作者：Daniel Borek
 > - 插件说明：该插件提供了初步支持查看具有.qmd 扩展名的文件。QMD 文件包含 markdown 和可执行代码单元的组合，是 Quarto 开源出版系统支持的格式。
-> - 插件分类：[' 数据处理 ', ' 文字处理 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '文字处理', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/danieltomasz/qmd-as-md-obsidian)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?qmd-as-md-obsidian)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/danieltomasz/qmd-as-md-obsidian/main/README.md)

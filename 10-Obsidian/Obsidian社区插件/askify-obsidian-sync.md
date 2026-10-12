@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Askify Sync
 > - 插件作者：Kishlay Raj
 > - 插件说明：Obsidian 和 Askify 之间的同步。
-> - 插件分类：[' 文件管理 ', ' 同步 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '同步', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/helloworldkr/Askify-Obsidian-Sync)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?askify-obsidian-sync)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/helloworldkr/Askify-Obsidian-Sync/master/README.md)

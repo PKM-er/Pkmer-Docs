@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：BioUnix
 > - 插件作者：yukaiquan
 > - 插件说明：运行生物信息学命令，和智能代理聊天，还能浏览BioUnix里的技能和记忆内容。——此插件尚未经过Obsidian官方人员的人工审核。
-> - 插件分类：['编程与脚本', '自动化与AI', '自定义命令', '数据分析', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编程与脚本', '自动化与AI', '自定义命令', '数据分析', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/yukaiquan/obsidian-biounix)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?biounix)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/yukaiquan/obsidian-biounix/master/README.md)

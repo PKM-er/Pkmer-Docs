@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Mapbox Location Image
 > - 插件作者：Aaron Czichon
 > - 插件说明：根据给定的坐标渲染一个 Mapbox 位置图像。
-> - 插件分类：[' 地图与位置 ', ' 图片与 PDF', ' 第三方工具集成 ', 'obsidian 插件 ']
+> - 插件分类：['地图与位置', '图片与PDF', '第三方工具集成', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/aaronczichon/obsidian-location-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?mapbox-location)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/aaronczichon/obsidian-location-plugin/main/README.md)

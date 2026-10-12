@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：iCal
 > - 插件作者：Andrew Brereton
 > - 插件说明：扫描您的保险库以查找包含日期的任务。创建一个 iCal 文件并将其存储在您的保险库或 Gist 上。然后，您可以在任何兼容 iCal 的客户端（如 Outlook、Google Calendar、Apple Calendar 等）中显示此日历。
-> - 插件分类：[' 文件管理 ', ' 日历与时间 ', ' 移动端优化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '日历与时间', '移动端优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/andrewbrereton/obsidian-to-ical-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?ical)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/andrewbrereton/obsidian-to-ical-plugin/main/README.md)

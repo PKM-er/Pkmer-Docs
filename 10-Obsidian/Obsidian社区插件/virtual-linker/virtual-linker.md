@@ -18,7 +18,7 @@ Virtual Linker 是一款 Obsidian 插件，提供了类似思源笔记虚拟引�
 > - 插件名称：Virtual Linker / Glossary
 > - 插件作者：Valentin Schröter
 > - 插件说明：自动为您笔记中与存储库中其他笔记的标题或别名匹配的文本创建虚拟链接。创建类似词汇表的功能，显示未链接提及并将其转换为实际链接。
-> - 插件分类：['obsidian 插件 ', ' 双链 ']
+> - 插件分类：['双链', '内链', 'Obsidian插件']
 > - 项目地址：[点我访问](https://github.com/vschroeter/obsidian-virtual-linker)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?virtual-linker)
 

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Canvas2Document
 > - 插件作者：slnsys
 > - 插件说明：将完整的画布转换为长格式文档，将所有卡片、笔记、图片和其他媒体内容整合到一个单独的 markdown 文件中。
-> - 插件分类：[' 数据处理 ', ' 编辑工具 ', ' 白板 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '编辑工具', '白板', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/slnsys/obsidian-canvas2document)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?canvas2document)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/slnsys/obsidian-canvas2document/main/README.md)

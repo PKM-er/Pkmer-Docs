@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Context Command Hider
 > - 插件作者：Mara-Li
 > - 插件说明：隐藏右键菜单中的任何命令。
-> - 插件分类：['界面优化', '自定义命令', '插件管理', 'obsidian插件']
+> - 插件分类：['界面优化', '自定义命令', '效率工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/mara-li/obsidian-context-menu-hider)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?context-command-hider)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/Mara-Li/obsidian-context-menu-hider/master/README.md)

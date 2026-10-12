@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Reveal file in explorer
 > - 插件作者：1C0D
 > - 插件说明：点击标题栏可在资源管理器中显示活动文件，并且（可选）在打开文件时折叠其他目录。
-> - 插件分类：[' 文件管理 ', ' 编辑工具 ', ' 界面优化 ', 'obsidian 插件 ']
+> - 插件分类：['文件管理', '编辑工具', '界面优化', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/1C0D/Obsidian-Reveal-File-in-explorer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?reveal-file-in-explorer)
 

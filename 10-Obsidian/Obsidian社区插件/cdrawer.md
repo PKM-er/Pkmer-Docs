@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Commutative Diagram Editor
 > - 插件作者：Wang Haoxuan
 > - 插件说明：能在固定网格上插入并编辑交换图。渲染成与原生交换图样式匹配的 SVG 格式。还能导出为 tikz - cd 和 AMS CD 格式。——此插件尚未经过 Obsidian 官方人员的人工审核。
-> - 插件分类：['编辑工具', '图表与可视化', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['编辑工具', '图表与可视化', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/hxuanwang/obsidian-cdrawer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?cdrawer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/hxuanwang/obsidian-cdrawer/master/README.md)

@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：No Empty Windows
 > - 插件作者：L Fahn-Lai
 > - 插件说明：当最后一个标签关闭时，使用 cmd+W 在 Mac 上关闭 Obsidian 窗口。
-> - 插件分类：[' 界面优化 ', ' 快捷键 ', ' 编辑工具 ', 'obsidian 插件 ']
+> - 插件分类：['界面优化', '快捷键', '编辑工具', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/popscallion/obsidian-no-empty-windows)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?no-empty-windows)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/popscallion/obsidian-no-empty-windows/master/README.md)

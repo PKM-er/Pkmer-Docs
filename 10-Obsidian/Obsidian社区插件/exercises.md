@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Exercises
 > - 插件作者：AlexCCavaco
 > - 插件说明：在 Obsidian 笔记旁边创建交互式练习
-> - 插件分类：[' 编辑工具 ', ' 学习 ', ' 模板与链接处理 ', 'obsidian 插件 ']
+> - 插件分类：['编辑工具', '学习', '模板与链接处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/AlexCCavaco/obsidian-exercises)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?exercises)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/AlexCCavaco/obsidian-exercises/master/README.md)

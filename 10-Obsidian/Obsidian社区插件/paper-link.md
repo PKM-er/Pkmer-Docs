@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Paper Link
 > - 插件作者：Jiangnan Ye
 > - 插件说明：把粘贴过来的论文链接（像arXiv、OpenReview、ACL Anthology等）替换成[标题（会议年份）](链接)这种链接形式。 - 这个插件还没经过Obsidian官方人员的人工审核呢。
-> - 插件分类：['模板与链接处理', '编辑工具', '学习与教育', '白板学术与科研', 'obsidian插件']
+> - 插件分类：['模板与链接处理', '编辑工具', '学习与教育', '学术与科研', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/jiangnan0522/paper-link)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?paper-link)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/jiangnan0522/paper-link/master/README.md)

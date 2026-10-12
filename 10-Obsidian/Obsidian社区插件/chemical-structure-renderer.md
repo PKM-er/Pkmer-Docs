@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Chemical Structure Renderer
 > - 插件作者：xaya1001
 > - 插件说明：使用 Ketcher 和 Indigo Service 将 SMILES 字符串渲染为 PNG 或 SVG 格式的化学结构。
-> - 插件分类：[' 图片与 PDF', ' 科学与学术 ', ' 数据处理 ', 'obsidian 插件 ']
+> - 插件分类：['图片与PDF', '科学与学术', '数据处理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/xaya1001/obsidian-Chemical-Structure-Renderer)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?chemical-structure-renderer)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/xaya1001/obsidian-Chemical-Structure-Renderer/master/README.md)

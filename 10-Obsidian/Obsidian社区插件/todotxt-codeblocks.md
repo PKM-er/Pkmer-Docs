@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Todo.txt Codeblocks
 > - 插件作者：Benjamin Nguyen
 > - 插件说明：根据 Todo.txt 规范，在代码块内管理您的任务。
-> - 插件分类：[' 任务管理 ', 'obsidian 插件 ']
+> - 插件分类：['任务管理', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?todotxt-codeblocks)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/benjamonnguyen/obsidian-todotxt-codeblocks/master/README.md)

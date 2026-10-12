@@ -16,7 +16,7 @@ modified: 20240101000000
 > - 插件名称：Random Number Generator
 > - 插件作者：iRewiewer
 > - 插件说明：插入一个随机数。
-> - 插件分类：[' 数据处理 ', ' 快捷键 ', 'obsidian 插件 ']
+> - 插件分类：['数据处理', '快捷键', 'obsidian插件']
 > - 项目地址：[点我访问](https://github.com/iRewiewer/obsidian-random-numbers-generator-plugin)
 > - 国内下载地址：[下载安装](https://pkmer.cn/products/plugin/pluginMarket/?random-numbers-generator)
 > - 自述文件：[Readme](https://ghproxy.net/https://raw.githubusercontent.com/iRewiewer/obsidian-random-numbers-generator-plugin/master/README.md)
