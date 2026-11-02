@@ -34,7 +34,7 @@ modified: 20260912000000
 **macOS 风格 Emacs 快捷键的表格对应**
 即使不用 Vim 模式，Ctrl+P/N/B/F/A/E 等 macOS 风格光标移动、Kill & Yank、Kill Region 等编辑命令，在表格单元格内同样正常工作。Windows 用户启用这一整套后，也能在 Obsidian 全局获得 macOS 同款的光标操作体验。
 
-![方向键与 Vim 模式操作演示](../../Resource/Images/forum-zh-demo.gif)
+![方向键与 Vim 模式操作演示](https://cdn.pkmer.cn/images/202611022140685.gif)
 
 ### 适用场景
 - 用 Vim 模式编辑 Markdown 笔记、经常需要编辑表格的用户
@@ -56,11 +56,12 @@ modified: 20260912000000
 ### 使用建议
 1. 只想保持平时按键习惯：打开 **设置 → Universal Cursor Hotkeys → For everyone**，点击 **Apply all**
 
-<img src="../../Resource/Images/ForEveryone-zh-1x.png" alt="设置页 For everyone 与 Apply all" style="width: 600px;" />
+
+![ForEveryone-zh-1x](https://cdn.pkmer.cn/images/202611022141489.png!pkmer)
 
 2. 使用 Vim 模式：打开 Obsidian 内置 **Vim 按键绑定**（设置 → 编辑器）即可，表格内的光标移动修复已经默认生效。如果还想用 leader-key 的表格结构命令，再到 **设置 → Universal Cursor Hotkeys → Vim mode** 点击 **Apply both**
 
-<img src="../../Resource/Images/Vim-mode-zh-1x.png" alt="设置页 Vim mode 与 Apply both" style="width: 600px;" />
+![Vim-mode-zh-1x](https://cdn.pkmer.cn/images/202611022141490.png!pkmer)
 
 3. 使用 macOS 风格 Emacs 快捷键：打开 **设置 → Universal Cursor Hotkeys**，对 Cursor movement / Editing / Other hotkeys 三组分别点击 **Apply recommended**
 
