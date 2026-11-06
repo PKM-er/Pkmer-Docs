@@ -33,7 +33,7 @@ Pkmer，即 `PKM` 和 `er` 的结合，寓意 Personal Knowledge Management 个�
 
 ## 加入交流群
 - 【社区管理员招募中】
-- QQ 1号交流群：825255377
+- QQ 1号交流群：825255377[已满]
 - QQ 2号交流群：769306712 
 - 微信交流群
   ![image](https://github.com/PKM-er/Pkmer-Docs/assets/42957010/6d2be9bb-362e-4867-97e3-4188050dff20)
